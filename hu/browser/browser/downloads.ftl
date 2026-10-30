@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Megjelenítés mappában
         }
     .accesskey = m
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = A fájlt áthelyezték vagy hiányzik
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fájl törölve
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Fájl elvetve (blokkolva)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Ismeretlen méret
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,3 +254,78 @@ downloads-error-generic =
     A letöltés nem menthető, mert ismeretlen hiba történt.
     
     Próbálja újra.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Kezdés…
+downloads-state-failed = Sikertelen
+downloads-state-paused = Szünetel
+downloads-state-canceled = Megszakítva
+downloads-state-completed = Kész
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blokkolva a szülői felügyelet által
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Ez a fájl vírust vagy rosszindulatú programot tartalmaz.
+downloads-blocked-potentially-unwanted = Ez a fájl káros lehet a számítógépére.
+downloads-blocked-potentially-insecure = A fájl nem lett letöltve: Lehetséges biztonsági kockázat.
+downloads-blocked-uncommon = Ilyen fájlt nem szoktak gyakran letölteni.
+downloads-blocked-by-content-analysis = Ezt a fájlt a szervezete blokkolta.
+downloads-warned-by-content-analysis = Ez a letöltés lehet, hogy nem biztonságos, és megerősítést igényel.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = A fájl blokkolva lett, mert a(z) { $agent } nem érhető el.
+downloads-content-analysis-invalid-agent-signature-error = A fájl blokkolva lett, mert a(z) { $agent } nem ment át az aláírás-ellenőrzésen.
+downloads-content-analysis-unspecified-error = A fájl blokkolva lett, mert hiba történt a következővel való kommunikáció során: { $agent }.
+downloads-content-analysis-timeout-error = A(z) { $agent } túllépte az időkorlátot, ezért a fájl blokkolva lett.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Biztos, hogy engedélyezi ezt a letöltést?
+downloads-unblock-header-open = Biztosan meg akarja nyitni ezt a fájlt?
+downloads-unblock-type-malware = Ez a fájl vírust vagy más rosszindulatú programot tartalmaz, ami ártalmas a számítógépének.
+downloads-unblock-type-potentially-unwanted = Ez egy hasznos letöltésnek álcázott fájl, ám váratlan módosításokat végezhet a programjain és beállításain.
+downloads-unblock-type-content-analysis-warn = A szervezete olyan adatvesztés-megelőzési szoftvert használ, amely nem biztonságosnak jelölte ezt a tartalmat.
+downloads-unblock-type-uncommon = Ezt a fájlt nem gyakran szokták letölteni, és a megnyitása nem feltétlenül biztonságos. Vírust tartalmazhat, vagy váratlan módosításokat végezhet a programjain és beállításain.
+downloads-unblock-insecure = A letöltés HTTP-n keresztül történik, annak ellenére, hogy az aktuális dokumentumot biztonságos HTTPS-kapcsolaton keresztül lett kézbesítve. Ha folytatja, előfordulhat, hogy a letöltés megsérül vagy manipulálható a letöltési folyamat során.
+downloads-unblock-tip = Megpróbálhat másik letöltési forrást keresni, vagy később újra próbálhatja.
+downloads-unblock-content-analysis-warn-tip = Választhat úgy, hogy mindenképp letölti.
+downloads-unblock-content-analysis-blocked = A szervezete olyan adatvesztés-megelőzési szoftvert használ, amely blokkolta ezt a letöltést.
+downloads-unblock-content-analysis-override = Ezt a döntést csak a szervezete tudja felülbírálni.
+downloads-unblock-content-analysis-tip = Folytathatja a letöltést vagy megszakíthatja.
+downloads-unblock-button-open =
+    .label = Megnyitás
+downloads-unblock-button-unblock =
+    .label = Letöltés engedélyezése
+downloads-unblock-button-confirm-block =
+    .label = Fájl eltávolítása
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } – { $end }
+downloads-status-separator-before-number = { $start } – { $end }

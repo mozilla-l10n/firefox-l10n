@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] 於資料夾顯示
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = 檔案被移動，或遺失了
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = 檔案已刪除
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = 已捨棄檔案（已封鎖）
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = 檔案大小未知
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -240,3 +253,78 @@ downloads-error-generic =
     下載工作無法進行，因為發生未知錯誤。
     
     請再試一次。
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = 開始中…
+downloads-state-failed = 失敗
+downloads-state-paused = 已暫停
+downloads-state-canceled = 已取消
+downloads-state-completed = 已完成
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = 依「家長監護」設定封鎖
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = 這個檔案含有病毒或惡意程式。
+downloads-blocked-potentially-unwanted = 這個檔案可能會傷害您的電腦。
+downloads-blocked-potentially-insecure = 未下載檔案: 有潛在的安全性風險。
+downloads-blocked-uncommon = 這個檔案不是常見的可下載檔案。
+downloads-blocked-by-content-analysis = 您的組織封鎖此檔案。
+downloads-warned-by-content-analysis = 此下載項目可能不安全，需要確認。
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = 由於無法連線到 { $agent }，已封鎖檔案。
+downloads-content-analysis-invalid-agent-signature-error = 由於 { $agent } 的簽章驗證失敗，已封鎖檔案。
+downloads-content-analysis-unspecified-error = 由於與 { $agent } 的溝通發生錯誤，已封鎖檔案。
+downloads-content-analysis-timeout-error = 由於 { $agent } 連線逾時，已封鎖此檔案。
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = 您確定要允許下載這個檔案？
+downloads-unblock-header-open = 您確定要打開這個檔案嗎？
+downloads-unblock-type-malware = 這個檔案含有病毒或是會傷害您的電腦的惡意程式。
+downloads-unblock-type-potentially-unwanted = 這個檔案可能假扮為有用的檔案讓您下載，但實際上會對您的程式與設定做出未預期的變更。
+downloads-unblock-type-content-analysis-warn = 您的組織所使用的資料損失防護軟體，將此內容標示為不安全。
+downloads-unblock-type-uncommon = 這個檔案不是常見的可下載檔案，開啟的話可能會不安全。這個檔案裡可能含有病毒，或會對您的程式與設定做出未預期的變更。
+downloads-unblock-insecure = 目前的文件是透過 HTTPS 加密連線所傳輸的，而下載項目則是以未加密的 HTTP 通訊協定提供。若繼續，下載項目可能會在下載過程中發生毀損或遭到竄改。
+downloads-unblock-tip = 您可以搜尋其他下載來源，或稍後再試。
+downloads-unblock-content-analysis-warn-tip = 您可以選擇依然要下載。
+downloads-unblock-content-analysis-blocked = 您的組織所使用的資料損失防護軟體封鎖了此下載。
+downloads-unblock-content-analysis-override = 只能由您的組織蓋過此決定。
+downloads-unblock-content-analysis-tip = 您可以繼續下載或取消下載。
+downloads-unblock-button-open =
+    .label = 開啟
+downloads-unblock-button-unblock =
+    .label = 允許下載
+downloads-unblock-button-confirm-block =
+    .label = 移除檔案
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Бумада көрсету
         }
     .accesskey = б
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Файл жылжытылған немесе жоқ болып тұр
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Файл өшірілді
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Файл өшірілді (бұғатталған)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Өлшемі белгісіз
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -239,3 +252,78 @@ downloads-error-generic =
     Жүктелу сақталмайды, өйткені белгісіз қате орын алды.
     
     Қайталап көріңіз.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Бастаймын…
+downloads-state-failed = Қате
+downloads-state-paused = Аялдатылған
+downloads-state-canceled = Тоқтатылды
+downloads-state-completed = Аяқталған
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Ата-ана басқару себебінен блокталды
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Бұл файлда вирус не зиянды бағдарламалар бар.
+downloads-blocked-potentially-unwanted = Бұл файл компьютеріңізді зақымдауы мүмкін.
+downloads-blocked-potentially-insecure = Файл жүктелмеген: Мүмкін болған қауіпсіздік тәуекелі.
+downloads-blocked-uncommon = Бұл файл әдетте жүктеліп алынбайды.
+downloads-blocked-by-content-analysis = Бұл файлды ұйымыңыз бұғаттады.
+downloads-warned-by-content-analysis = Бұл жүктеп алу қауіпті болуы мүмкін және растауды қажет етеді.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Файл бұғатталған, себебі { $agent } қолжетімді емес.
+downloads-content-analysis-invalid-agent-signature-error = Файл бұғатталған, себебі { $agent } қолтаңбаны тексеруден өтпеді.
+downloads-content-analysis-unspecified-error = Файл { $agent }-пен байланысу кезіндегі қатеге байланысты бұғатталған.
+downloads-content-analysis-timeout-error = { $agent } күту уақыты бітті, сондықтан бұл файл бұғатталған.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Бұл жүктемені рұқсат етуді шынымен қалайсыз ба?
+downloads-unblock-header-open = Бұл файлды ашуды шынымен қалайсыз ба?
+downloads-unblock-type-malware = Бұл файлда компьютеріңізді зақымдай алатын вирус не зиянды бағдарламалар бар.
+downloads-unblock-type-potentially-unwanted = Бұл файл пайдалы файл ретінде жасырылса да, бағдарламалар және баптауларыңызға күтпеген өзгерістерді жасай алады.
+downloads-unblock-type-content-analysis-warn = Сіздің ұйымыңыз бұл мазмұнды қауіпті деп белгілеген деректердің жоғалуын болдырмау бағдарламалық қамтаманы пайдаланады.
+downloads-unblock-type-uncommon = Бұл файл әдетте жүктеліп алынбайды және оны ашу қауіпсіз емес болуы мүмкін. Оның құрамында вирус болуы мүмкін, немесе ол сіздің бағдарламалар және баптауларыңызға күтпеген өзгерістерді жасауы мүмкін.
+downloads-unblock-insecure = Ағымдағы құжат қауіпсіз HTTPS байланысы арқылы жеткізілсе де, жүктеп алу HTTP арқылы ұсынылады. Жалғастырсаңыз, жүктеп алу процесі кезінде жүктеу зақымдалуы немесе бұрмалануы мүмкін.
+downloads-unblock-tip = Сіз басқа жүктеп алу жерін іздей аласыз, немесе кейінірек қайталай аласыз.
+downloads-unblock-content-analysis-warn-tip = Оны бәрібір жүктеп алуды таңдай аласыз.
+downloads-unblock-content-analysis-blocked = Сіздің ұйымыңыз мына жүктемені блоктаған деректердің жоғалуын болдырмау бағдарламалық қамтаманы пайдаланады.
+downloads-unblock-content-analysis-override = Бұл шешімді тек сіздің ұйымыңыз өзгерте алады.
+downloads-unblock-content-analysis-tip = Жүктеп алуды жалғастыра аласыз немесе одан бас тарта аласыз.
+downloads-unblock-button-open =
+    .label = Ашу
+downloads-unblock-button-unblock =
+    .label = Жүктемені рұқсат ету
+downloads-unblock-button-confirm-block =
+    .label = Файлды өшіру
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

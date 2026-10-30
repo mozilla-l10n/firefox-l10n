@@ -35,6 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] බහාලුමෙහි පෙන්වන්න
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ගොනුව ගෙනගොස් හෝ මඟහැරී ඇත
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = ගොනුව මකා ඇත
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = ප්‍රමාණය නොදනී
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -181,6 +191,9 @@ downloads-history =
 downloads-details =
     .title = බාගැනීමේ විස්තර
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -229,3 +242,67 @@ downloads-error-generic =
     නොදන්නා දෝෂයක් සිදු වීම නිසා මෙම බාගැනීම සුරැකීමට නොහැකිය
     
     යළි උත්සාහ කරන්න.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = ආරම්භ වෙමින්…
+downloads-state-failed = අසමත් විය
+downloads-state-paused = විරාමයකි
+downloads-state-canceled = අවලංගු කෙරිණි
+downloads-state-completed = සම්පූර්ණයි
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = දෙමාපිය පාලන මගින් අවහිරයි
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = මෙම ගොනුවේ වෛරසයක් හෝ අනිෂ්ට දෑ ඇත.
+downloads-blocked-potentially-unwanted = මෙම ගොනුව පරිගණකයට හානි කළ හැකිය.
+downloads-blocked-potentially-insecure = ගොනුව බාගත නොකෙරිණි: ආරක්‍ෂණ අවදානමකි.
+downloads-blocked-uncommon = මෙම ගොනුව සාමාන්‍යයෙන් බාගත නොකරයි.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = මෙම බාගැනීමට ඉඩ දීමට අවශ්‍ය බව විශ්වාසද?
+downloads-unblock-header-open = මෙම ගොනුව විවෘත කිරීමට වුවමනා ද?
+downloads-unblock-type-malware = මෙම ගොනුවේ පරිගණකයට හානි කරන වෛරසයක් හෝ වෙනත් අනිෂ්ට දෑ ඇත.
+downloads-unblock-type-potentially-unwanted = මෙම ගොනුව ප්‍රයෝජනවත් බාගැනීමක් ලෙස වෙස්වළාගෙන ඇත, එයට ඔබගේ වැඩසටහන් හා සැකසුම් වලට අනපේක්‍ෂිත වෙනස්කම් සිදු කළ හැකිය.
+downloads-unblock-type-uncommon = මෙම ගොනුව සාමාන්‍යයෙන් බාගත නොකරන අතර විවෘත කිරීම අනතුරුදායක විය හැකිය. එහි වයිරසයක් පැවතීමට හෝ ඔබගේ වැඩසටහන් සහ සැකසුම් අනපේක්‍ෂිත පරිදි වෙනස් කිරීමට ඉඩ තිබේ.
+downloads-unblock-insecure = ආරක්‍ෂිත HTTPS සම්බන්‍ධතාවක් හරහා වත්මන් ලේඛනය ලබා දුන්න ද බාගැනීමට HTTP හරහා පිරිනමයි. ඔබ ඉදිරියට ගියහොත්, බාගැනීමේ ක්‍රියාවලියේ දී එය දූෂිත හෝ විකෘති වීමට ඉඩ ඇත.
+downloads-unblock-tip = විකල්ප බාගැනීමේ මූලාශ්‍රයක් සෙවීමට හෝ පසුව උත්සාහ කිරීමට හැකිය.
+downloads-unblock-button-open =
+    .label = අරින්න
+downloads-unblock-button-unblock =
+    .label = බාගැනීමට ඉඩදෙන්න
+downloads-unblock-button-confirm-block =
+    .label = ගොනුව ඉවත් කරන්න
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

@@ -15,6 +15,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Məxfi Səyahət
+
+##
+
 urlbar-identity-button =
     .aria-label = Sayt məlumatlarını gör
 
@@ -326,6 +329,12 @@ browser-import-button2 =
 
 popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr paylaşılacaq.
 
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -384,6 +393,18 @@ urlbar-result-action-visit = Ziyarət et
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Soruş
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-actions4 = Əməliyyatlar
@@ -404,6 +425,12 @@ urlbar-searchmode-popup-settings = Tənzimləmələr
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = Əlfəcinlərdə Axtar
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
 
 ## Reader View toolbar buttons
 
@@ -502,6 +529,9 @@ bookmarks-subview-bookmark-tab =
 library-bookmarks-menu =
     .label = Əlfəcinlər
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -567,6 +597,10 @@ toolbar-button-paste =
     .label = Yapışdır
     .tooltiptext = Yapışdır ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bu saytda olan bəzi səs və ya video DRM proqramını işlədir, bu { -brand-short-name } tərəfindən sizə verilən servisləri limitləyir.
@@ -598,12 +632,29 @@ plugin-crashed-notification-submit-button =
     .label = Çökmə hesabatını göndər
     .accesskey = g
 
+## Password save/update panel
+
+
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Qapat
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = Endirilənlər
@@ -632,6 +683,22 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Bütün vərəqləri siyahıla
     .tooltiptext = Bütün vərəqləri siyahıla
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -706,6 +773,9 @@ refresh-blocked-allow =
     .label = İcazə ver
     .accesskey = A
 
+## Firefox Relay integration
+
+
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -742,9 +812,28 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Qovluqda göstər
     .accessKey = F
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Quraşdırılmış əlavələrdən biri və ya bir neçəsi təsdiq olunmadığı üçün deaktiv oldu.
+unsigned-addons-disabled-learn-more =
+    .label = Ətraflı Öyrən
+    .accesskey = l
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-addon-learn-more =
+    .value = Ətraflı öyrən
 
 ## Onboarding Finish Setup checklist
 
@@ -779,6 +868,9 @@ trustpanel-clear-cookies-header =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = { $host } üçün bağlantı qorumaları
+
+## The urlbar trust icon & panel
+
 # Keep this string as short as possible, this is displayed in the URL bar
 # Variables
 #  $count (number): the number of trackers blocked.
@@ -787,6 +879,10 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] { $count } izləyici əngəlləndi
        *[other] { $count } izləyici əngəlləndi
     }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

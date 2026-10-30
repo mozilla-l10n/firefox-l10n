@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Kiểm tra cập nhật
     .accesskey = C
 addon-updates-view-updates = Xem các cập nhật gần đây
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Tự động cập nhật tiện ích
     .accesskey = A
 
@@ -325,6 +329,8 @@ release-notes-addon-button = Ghi chú phát hành
 permissions-addon-button = Quyền hạn
 extension-enabled-heading = Đã bật
 extension-disabled-heading = Đã vô hiệu hóa
+theme-disabled-heading3 =
+    .heading = Chủ đề đã lưu
 theme-enabled-heading = Đã bật
 theme-disabled-heading2 = Chủ đề đã lưu
 plugin-enabled-heading = Đã bật
@@ -439,6 +445,8 @@ addon-permissions-learnmore = Tìm hiểu thêm về quyền hạn
 # the user.
 addon-permissions-managed-by-policy = Một số quyền truy cập được quản lý bởi tổ chức của bạn.
 recommended-extensions-heading = Tiện ích mở rộng được đề xuất
+recommended-themes-card-heading =
+    .heading = Chủ đề được đề xuất
 recommended-themes-heading = Chủ đề được đề xuất
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] ჩვენება საქაღალდეში
         }
     .accesskey = ქ
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ფაილი გადაადგილებული ან დაკარგულია
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = ფაილი წაშლილია
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = ფაილი უარყოფილია (შეიზღუდა)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = გაურკვეველი ზომა
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,3 +254,78 @@ downloads-error-generic =
     ჩამოტვირთვა ვერ შეინახება უცნობი შეცდომის გამო.
     
     გთხოვთ კვლავ სცადოთ.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = ეშვება…
+downloads-state-failed = ჩაშლილი
+downloads-state-paused = შეჩერებული
+downloads-state-canceled = გაუქმებული
+downloads-state-completed = დასრულებულია
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = შეიზღუდა მშობლის კონტროლის მიერ
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ეს ფაილი შეიცავს ვირუსს ან საზიანო პროგრამას.
+downloads-blocked-potentially-unwanted = ამ ფაილმა შესაძლოა, ავნოს თქვენს კომპიუტერს.
+downloads-blocked-potentially-insecure = ფაილი არ ჩამოტვირთულა: შესაძლო საფრთხე.
+downloads-blocked-uncommon = ფაილი ხშირად ჩამოტვირთული არაა.
+downloads-blocked-by-content-analysis = ეს ფაილს ზღუდავს თქვენი დაწესებულება.
+downloads-warned-by-content-analysis = ეს ჩამოტვირთვა საფრთხის შემცველია და დამოწმებას საჭიროებს.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = ფაილი შეიზღუდა, ვინაიდან { $agent } მიუწვდომელია.
+downloads-content-analysis-invalid-agent-signature-error = ფაილი შეიზღუდა, ვინაიდან { $agent } ვერ ადასტურებს ხელმოწერას.
+downloads-content-analysis-unspecified-error = ფაილი შეიზღუდა, ვინაიდან { $agent } ხარვეზებით უკავშირდება.
+downloads-content-analysis-timeout-error = { $agent } ვადაგასულია, ასე რომ ეს ფაილი შეიზღუდა.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = ნამდვილად გსურთ ამ ჩამოტვირთვის დაშვება?
+downloads-unblock-header-open = ნამდვილად გსურთ ამ ფაილის გახსნა?
+downloads-unblock-type-malware = ეს ფაილი შეიცავს ვირუსს ან სხვა მავნე პროგრამას, რომელიც თქვენი კომპიუტერისთვის საზიანოა.
+downloads-unblock-type-potentially-unwanted = ეს ფაილი სასარგებლო ჩამოტვირთვადაა შენიღბული, მაგრამ მას თქვენს პროგრამებზე და პარამეტრებზე გაუთვალისწინებელი ზემოქმედების მოხდენა შეუძლია.
+downloads-unblock-type-content-analysis-warn = თქვენი დაწესებულება იყენებს მონაცემთა დაკარგვის არიდების პროგრამას, რომელიც ამ მასალას მიიჩნევს საფრთხის შემცველად.
+downloads-unblock-type-uncommon = ეს ფაილი იშვიათადაა ჩამოტვირთული და მისი გახსნა შეიძლება სახიფათო იყოს. შესაძლოა, ვირუსს შეიცავდეს ან თქვენს პროგრამებსა და პარამეტრებზე გაუთვალისწინებელი ზეგავლენა იქონიოს.
+downloads-unblock-insecure = ჩამოტვირთვა შემოთავაზებულია HTTP-არხით, მიუხედავად იმისა, რომ მიმდინარე დოკუმენტი მოწოდებულია დაცული HTTPS-კავშირით. თუ განაგრძობთ, ჩამოტვირთვისას შეიძლება დაზიანდეს ან ვინმემ ფარულად ხელყოს.
+downloads-unblock-tip = შეგიძლიათ ჩამოტვირთვის ალტერნატიული წყარო მოძებნოთ ან მოგვიანებით ცადოთ.
+downloads-unblock-content-analysis-warn-tip = შეგიძლიათ მაინც ჩამოტვირთოთ.
+downloads-unblock-content-analysis-blocked = თქვენი დაწესებულება იყენებს მონაცემთა დაკარგვისგან არიდების პროგრამას, რომელიც ზღუდავს ამ მასალის ჩამოტვირთვას.
+downloads-unblock-content-analysis-override = ამ გადაწყვეტილების გაუქმება მხოლოდ თქვენს დაწესებულებას შეუძლია.
+downloads-unblock-content-analysis-tip = შეგიძლიათ განაგრძოთ ჩამოტვირთვა ან გააუქმოთ.
+downloads-unblock-button-open =
+    .label = გახსნა
+downloads-unblock-button-unblock =
+    .label = ჩამოტვირთვის დაშვება
+downloads-unblock-button-confirm-block =
+    .label = ფაილის მოცილება
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

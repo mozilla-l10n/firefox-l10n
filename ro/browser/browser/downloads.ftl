@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Afișează în dosar
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Fișier mutat sau lipsă
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fișier șters
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = File eliminate (Blocate)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Mărime necunoscută
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -243,3 +256,78 @@ downloads-error-generic =
     Descărcarea nu poate fi salvată deoarece s-a produs o eroare necunoscută.
     
     Te rugăm să încerci din nou.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Pornire…
+downloads-state-failed = Eșuat
+downloads-state-paused = Pus pe pauză
+downloads-state-canceled = Anulat
+downloads-state-completed = Terminat
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blocat prin controlul parental
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Fișierul conține un virus sau programe rău intenționate.
+downloads-blocked-potentially-unwanted = Acest fișier poate dăuna calculatorului.
+downloads-blocked-potentially-insecure = Fișierul nu a fost descărcat: Risc potențial de securitate.
+downloads-blocked-uncommon = Acest fișier nu este descărcat frecvent.
+downloads-blocked-by-content-analysis = Fișierul a fost blocat de organizația ta.
+downloads-warned-by-content-analysis = Descărcarea poate fi nesigură și necesită confirmare.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Fișierul a fost blocat deoarece { $agent } nu este accesibil.
+downloads-content-analysis-invalid-agent-signature-error = Fișierul a fost blocat deoarece { $agent } a eșuat la verificarea semnăturii.
+downloads-content-analysis-unspecified-error = Fișierul a fost blocat din cauza unei erori de comunicare cu { $agent }.
+downloads-content-analysis-timeout-error = Timpul de așteptare a expirat pentru { $agent } și fișierul a fost blocat.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Sigur vrei să permiți această descărcare?
+downloads-unblock-header-open = Sigur vrei să deschizi acest fișier?
+downloads-unblock-type-malware = Fișierul conține viruși sau alte programe rău intenționate care vor dăuna calculatorului.
+downloads-unblock-type-potentially-unwanted = Acest fișier este deghizat ca o descărcare utilă, însă poate face modificări neașteptate în programele și setările tale.
+downloads-unblock-type-content-analysis-warn = Organizația ta folosește un software de prevenire a pierderilor de date, care a marcat conținutul drept nesigur.
+downloads-unblock-type-uncommon = Acest fișier nu este frecvent descărcat și ar putea fi periculos de deschis. Ar putea conține un virus sau ar putea face modificări neașteptate programelor sau setărilor tale.
+downloads-unblock-insecure = Descărcarea este oferită prin HTTP, chiar dacă documentul curent a fost livrat printr-o conexiune HTTPS securizată. Dacă continui, descărcarea poate fi coruptă sau modificată în timpul procesului de descărcare.
+downloads-unblock-tip = Poți căuta o sursă alternativă de descărcare sau să încerci să-l descarci mai târziu.
+downloads-unblock-content-analysis-warn-tip = Poți alege să îl descarci oricum.
+downloads-unblock-content-analysis-blocked = Organizația ta folosește un software de prevenire a pierderilor de date, care a blocat descărcarea.
+downloads-unblock-content-analysis-override = Decizia poate fi anulată doar de organizația ta.
+downloads-unblock-content-analysis-tip = Poți continua descărcarea sau o poți anula.
+downloads-unblock-button-open =
+    .label = Deschide
+downloads-unblock-button-unblock =
+    .label = Permite descărcarea
+downloads-unblock-button-confirm-block =
+    .label = Elimină fișierul
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

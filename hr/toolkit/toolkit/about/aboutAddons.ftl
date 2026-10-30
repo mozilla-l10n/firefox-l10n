@@ -171,6 +171,10 @@ addon-updates-check-for-updates = Traži nove verzije
     .accesskey = T
 addon-updates-view-updates = Prikaži nedavna aktualiziranja
     .accesskey = P
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Automatski aktualiziraj dodatke
     .accesskey = A
 
@@ -319,6 +323,8 @@ release-notes-addon-button = Napomene o izdanju
 permissions-addon-button = Dozvole
 extension-enabled-heading = Aktivirano
 extension-disabled-heading = Onemogućeno
+theme-disabled-heading3 =
+    .heading = Spremljene teme
 theme-enabled-heading = Aktivirano
 theme-disabled-heading2 = Spremljene teme
 plugin-enabled-heading = Aktivirano
@@ -435,6 +441,8 @@ addon-permissions-learnmore = Saznaj više o dozvolama
 # the user.
 addon-permissions-managed-by-policy = Nekim dozvolama upravlja vaša organizacija.
 recommended-extensions-heading = Preporučeni dodaci
+recommended-themes-card-heading =
+    .heading = Preporučene teme
 recommended-themes-heading = Preporučene teme
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
@@ -542,3 +550,31 @@ mlmodel-addon-detail-used-by-label = Korišteno od
 mlmodel-addon-detail-model-card = Kartica modela
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Prikaži na Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

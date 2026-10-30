@@ -173,6 +173,10 @@ addon-updates-check-for-updates = Gwirio am Ddiweddariadau
     .accesskey = G
 addon-updates-view-updates = Gweld Diweddariadau Diweddar
     .accesskey = D
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Diweddaru Ychwanegion yn Awtomatig
     .accesskey = A
 
@@ -328,6 +332,8 @@ release-notes-addon-button = Nodiadau Rhyddhau
 permissions-addon-button = Caniatâd
 extension-enabled-heading = Galluogwyd
 extension-disabled-heading = Analluogwyd
+theme-disabled-heading3 =
+    .heading = Themâu wedi'u Cadw
 theme-enabled-heading = Galluogwyd
 theme-disabled-heading2 = Themâu wedi'u Cadw
 plugin-enabled-heading = Galluogwyd
@@ -447,6 +453,8 @@ addon-permissions-learnmore = Darllen rhagor am ganiatâd
 # the user.
 addon-permissions-managed-by-policy = Mae rhai caniatâd yn cael eu rheoli gan eich sefydliad.
 recommended-extensions-heading = Estyniadau Cymeradwy
+recommended-themes-card-heading =
+    .heading = Themâu Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

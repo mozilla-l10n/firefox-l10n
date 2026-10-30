@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Compartir…
     .accesskey = t
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver información del sitio
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Preguntar
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1332,6 +1340,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1592,9 +1603,39 @@ file-picker-crashed-open = El diálogo de archivo de Windows se colgó. No se pu
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diálogo de archivo de Windows se colgó. El archivo se guardará en { $path }.
 file-picker-crashed-save-nowhere = El diálogo de archivo de Windows se colgó. No se pudo encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar en carpeta
     .accessKey = M
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Uno o más de los complementos instalados no pueden ser verificados y fueron deshabilitados.
+unsigned-addons-disabled-learn-more =
+    .label = Conocer más
+    .accesskey = C
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Esta página está ralentizando { -brand-short-name }. Para acelerar el navegador, detenga esta página.
+process-hang-nonspecific-tab-message = Una página web se está ralentizando { -brand-short-name }. Para acelerar su navegador, detenga esa página.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = "{ $title }" está ralentizando { -brand-short-name }. Para acelerar el navegador, detenga esa página.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = "{ $addonName }" está ralentizando { -brand-short-name }. Para acelerar el navegador, detenga ese complemento.
+process-hang-addon-learn-more =
+    .value = Conocer más
+process-hang-stop-button =
+    .label = Detener
+    .accesskey = t
 
 ## Onboarding Finish Setup checklist
 
@@ -1644,6 +1685,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecciones de rastreo para { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

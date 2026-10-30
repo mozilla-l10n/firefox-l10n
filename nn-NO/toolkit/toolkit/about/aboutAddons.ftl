@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Sjå etter oppdateringar
     .accesskey = S
 addon-updates-view-updates = Vis nyleg oppdaterte
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Oppdater tillegga automatisk
     .accesskey = O
 
@@ -322,6 +326,8 @@ release-notes-addon-button = Versjonsnotat
 permissions-addon-button = Løyve
 extension-enabled-heading = Slått på
 extension-disabled-heading = Slått av
+theme-disabled-heading3 =
+    .heading = Lagra tema
 theme-enabled-heading = Slått på
 theme-disabled-heading2 = Lagra tema
 plugin-enabled-heading = Slått på
@@ -437,6 +443,8 @@ addon-permissions-learnmore = Les meir om løyve
 # the user.
 addon-permissions-managed-by-policy = Nokre løyve blir administrerte av organisasjonen din.
 recommended-extensions-heading = Tilrådde utvidingar
+recommended-themes-card-heading =
+    .heading = Tilrådde tema
 recommended-themes-heading = Tilrådde tema
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

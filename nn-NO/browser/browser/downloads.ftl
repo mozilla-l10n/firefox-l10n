@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Vis i mappe
         }
     .accesskey = V
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Fil flytta eller manglar
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fila er sletta
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Fil forkasta (blokkert)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Ukjend storleik
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,3 +254,78 @@ downloads-error-generic =
     Nedlastinga kan ikkje lagrast fordi det oppstod ein ukjend feil.
     
     Prøv på nytt.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Startar…
+downloads-state-failed = Mislykka
+downloads-state-paused = Pause
+downloads-state-canceled = Avbrote
+downloads-state-completed = Fullført
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blokkert av foreldrekontroll
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Denne fila inneheld eit virus eller eit skadeprogram.
+downloads-blocked-potentially-unwanted = Denne fila kan skade datamaskina di.
+downloads-blocked-potentially-insecure = Fila ikkje lasta ned: Potensiell tryggingsrisiko.
+downloads-blocked-uncommon = Denne fila vert vanlegvis ikkje lasta ned.
+downloads-blocked-by-content-analysis = Denne fila vart blokkert av organisasjonen din.
+downloads-warned-by-content-analysis = Denne nedlastinga kan vere usikker og krev stadfesting.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Fila vart blokkert fordi { $agent } ikkje er tilgjengeleg.
+downloads-content-analysis-invalid-agent-signature-error = Fila vart blokkert fordi signaturverifiseringa for { $agent } mislykkast.
+downloads-content-analysis-unspecified-error = Fila vart blokkert på grunn av ein kommunikasjonsfeil med { $agent }.
+downloads-content-analysis-timeout-error = { $agent } vart tidsavbroten, så denne fila vart blokkert.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Er du sikker på at du vil tillate denne nedlastinga?
+downloads-unblock-header-open = Er du sikker på at du vil opne denne fila?
+downloads-unblock-type-malware = Denne fila inneheld eit virus eller anne skadevare som vil skade datamaskina di.
+downloads-unblock-type-potentially-unwanted = Denne fila er forkledd som ei hjelpsam nedlasting, men kan gjere uventa endringar i programma og innstillingane dine.
+downloads-unblock-type-content-analysis-warn = Organisasjonen din brukar programvare for førebygging av tap av data som har flagga dette innhaldet som usikkert.
+downloads-unblock-type-uncommon = Denne fila vert vanlegvis ikkje lasta ned og kan vere utrygg å opne. Ho kan innehalde virus eller gjere uventa endringar i programma og innstillingane dine.
+downloads-unblock-insecure = Nedlastinga vert tilbydd over HTTP sjølv om det gjeldande dokumentet vart levert over ei trygg HTTPS-tilkopling. Dersom du held fram, kan nedlastinga verte øydelagd eller tukla med under nedlastingsprosessen.
+downloads-unblock-tip = Du kan søkje etter ei alternativ nedlastingskjelde eller prøve på nytt seinare.
+downloads-unblock-content-analysis-warn-tip = Du kan velje å laste henne ned uansett.
+downloads-unblock-content-analysis-blocked = Organisasjonen din brukar programvare for å forhindre tap av data som har blokkert denne nedlastinga.
+downloads-unblock-content-analysis-override = Denne avgjerda kan berre overstyrast av organisasjonen din.
+downloads-unblock-content-analysis-tip = Du kan halde fram nedlastinga eller avbryte henne.
+downloads-unblock-button-open =
+    .label = Opne
+downloads-unblock-button-unblock =
+    .label = Tillat nedlasting
+downloads-unblock-button-confirm-block =
+    .label = Fjern fil
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

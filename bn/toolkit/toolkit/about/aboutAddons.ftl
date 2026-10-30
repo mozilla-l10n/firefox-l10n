@@ -7,6 +7,10 @@ search-header =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
     .searchbuttonlabel = অনুসন্ধান
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+
 ##
 
 list-empty-installed =
@@ -144,6 +148,10 @@ addon-updates-check-for-updates = হালনাগাদের জন্য �
     .accesskey = C
 addon-updates-view-updates = সাম্প্রতিক হালনাগাদ দেখাও
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ
     .accesskey = A
 
@@ -313,6 +321,14 @@ addon-detail-private-browsing-help = অনুমতি পেলে, প্র�
 addon-detail-private-browsing-allow = অনুমতি দাও
 addon-detail-private-browsing-disallow = অনুমতি দিও না
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
 ##
 
 available-updates-heading = বিদ্যমান হালনাগাদ
@@ -320,6 +336,8 @@ recent-updates-heading = সাম্প্রতিক হালনাগাদ
 release-notes-loading = লোডিং…
 release-notes-error = দুঃখিত, রিলিজ নোট লোড করার সময় ত্রুটি হয়েছিল।
 recommended-extensions-heading = প্রস্তাবিত এক্সটেনশনগুলি
+recommended-themes-card-heading =
+    .heading = প্রস্তাবিত থিমস
 recommended-themes-heading = প্রস্তাবিত থিমস
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -363,3 +381,38 @@ plugins-openh264-name = Cisco Systems, Inc. দ্বারা উপলব্�
 plugins-openh264-description = এই প্লাগিনটি স্বয়ংক্রিয়ভাবেই Mozilla এর মাধ্যমে ইন্সটল করা হয়েছে WebRTC স্পেসিফিকেশনের সাথে পাল্লা দেওয়ার জন্য এবং WebRTC কল সক্রিয় করার জন্য। কারন WebRTC তে H.264 ভিডিও কোডেক দরকার হয়। https://www.openh264.org/ ভিজিট করুন কোডেকের সোর্স কোড দেখার জন্য এবং ইমপ্লিমেন্টেশন সম্পর্কে আরও জানার জন্য।
 plugins-widevine-name = Google inc প্রদত্ত Widevine Content Decryption মডিউল
 plugins-widevine-description = এই প্লাগইনটি এনক্রিপ্ট করা মিডিয়া এক্সটেনশনের স্পেসিফিকেশনের সম্মতিতে এনক্রিপ্ট করা মিডিয়াগুলির প্লেব্যাক সক্ষম করে। এনক্রিপ্ট করা মিডিয়া সাধারণত প্রিমিয়াম মিডিয়া কন্টেন্ট কপি করা থেকে সুরক্ষার জন্য সাইটগুলি ব্যবহার করে থাকে। এনক্রিপ্ট করা মিডিয়া এক্সটেনশন সম্পর্কিত আরও তথ্যের জন্য https://www.w3.org/TR/encrypted-media/ দেখুন।
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

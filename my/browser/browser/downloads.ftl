@@ -23,6 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = မလုပ်ဆောင်တော့ပါ
 downloads-cmd-cancel-panel =
     .aria-label = မလုပ်ဆောင်တော့ပါ
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ဖိုင်ကို ရွှေ့ထား သို့မဟုတ် ပျောက်ဆုံးနေသည်
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = အရွယ်အစား မသိရပါ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -91,6 +98,15 @@ downloads-show-more-information =
 downloads-open-file =
     .value = ဖိုင်ကို ဖွင့်ရန်
 
+## Displayed when the user clicked on a download in process. Indicates that the
+## downloading file will be opened after certain amount of time using an app
+## available in the system.
+## Variables:
+##   $hours (number) - Amount of hours left till the file opens.
+##   $seconds (number) - Amount of seconds left till the file opens.
+##   $minutes (number) - Amount of minutes till the file opens.
+
+
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -111,6 +127,15 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = ဆွဲယူထားသည့်ဖိုင်အသေးစိတ်
+
+## These strings are displayed in the private browsing view of the downloads panel
+
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
 
 ##
 
@@ -133,3 +158,65 @@ downloads-error-generic =
     အမည်မသိ အမှားတခု​ ​ဖြစ်ပေါ်တဲ့အတွက် ဒီဆွဲချက်ချက်ကို သိမ်းဆည်းလို့ မရဘူး။
     
     ထပ်ကြိုးစားပါ။
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = စတင်နေသည်…
+downloads-state-failed = မအောင်မြင်ပါ
+downloads-state-paused = ခေတ္တရပ်ထားသည်
+downloads-state-canceled = ဖျက်သိမ်းထားသည်
+downloads-state-completed = ပြီးစီးပါပြီ
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = အုပ်ထိန်းသူမှ စောင့်ကြည့်ရေးမူဝါဒအားဖြင့် တားဆီးထားသည်
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ဒီဖိုင်တွင် ဗိုင်းရပ်စ် သို့မဟုတ် ခိုးယူတိုက်ခိုက်သည့်ဆော့ဖ်ဝဲလ် ပါဝင်နေသည်။
+downloads-blocked-potentially-unwanted = ဒီဖိုင်သည် သင့်ကွန်ပြူတာကို ထိခိုက်စေနိုင်သည်။
+downloads-blocked-uncommon = ဒီဖိုင်ကို အများအားဖြင့် ဆွဲချကူးယူလေ့မရှိပါ။
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = ဒီဆွဲယူမှုကို ဆောင်ရွက်ခွင့်ပြုမည်မှာ သေချာပါသလား။
+downloads-unblock-header-open = ဒီဖိုင်ကို ဖွင့်မည်မှာ သေချာပါသလား။
+downloads-unblock-type-malware = ဒီဖိုင်တွင် သင့်ကွန်ပြူတာကို ထိခိုက်စေနိုင်သည့် ဗိုင်းရပ်စ် သို့မဟုတ် အခြား ခိုးယူတိုက်ခိုက်သည့် ဆော့ဖ်ဝဲ ပါဝင်သည်။
+downloads-unblock-type-potentially-unwanted = ဒီဖိုင်သည် အသုံးဝင်နိုင်သည်ဟု ဟန်ဆောင်ထားသောဖိုင် ဖြစ်ပါသည်။ ၎င်းသည် သင့်ပရိုဂရမ်များနှင့် အပြင်အဆင်များကို မထင်မှတ်ထားသည့် ပြောင်းလဲမှုများ ပြုလုပ်နိုင်သည်။
+downloads-unblock-type-uncommon = ဒီဖိုင်ကို အများအားဖြင့် ဆွဲချယူလေ့ မရှိကြပါ။ ထို့ပြင် ဖွင့်ရန် ဘေးကင်းမှုမရှိပါ။ ၎င်းဖိုင်တွင် ဗိုင်းရပ်စ် ပါဝင်နိုင်သည် သို့မဟုတ် ပရိုဂရမ်များနှင့် အပြင်အဆင်များကို မထင်မှတ်ထားသည့် ပြောင်းလဲမှုများ ဖြစ်ပေါ်စေနိုင်သည်။
+downloads-unblock-tip = သင်သည် အခြားကူးယူနိုင်သည့် အရင်းအမြစ်တွင် ရှာဖွေနိုင်သည်။ သို့မဟုတ် နောက်တွင် ထပ်မံ ဆောင်ရွက်ကြည့်ပါ။
+downloads-unblock-button-open =
+    .label = ဖွင့်ပါ
+downloads-unblock-button-unblock =
+    .label = ဆွဲချကူးခွင့်ပြုပါ
+downloads-unblock-button-confirm-block =
+    .label = ဖိုင်ကို ဖျက်ရန်
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —   { $end }

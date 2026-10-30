@@ -20,6 +20,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privatno pretraživanje
+
+##
+
 urlbar-identity-button =
     .aria-label = Prikaži informacije stranice
 
@@ -475,6 +478,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Onemogućite zaštitu dijeljenja za ovu sesiju
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -637,6 +643,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorisano
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -730,6 +741,9 @@ urlbar-result-action-switch-to-tabgroup = Prebaci se na { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Otvori { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -949,6 +963,10 @@ toolbar-button-paste =
     .label = Zalijepi
     .tooltiptext = Zalijepi ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj stranici koriste DRM softver, što može ograničiti šta { -brand-short-name } može uraditi s njima.
@@ -999,6 +1017,10 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Zatvori
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
@@ -1016,6 +1038,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1063,6 +1088,13 @@ restore-session-startup-suggestion-button = Pokaži mi kako
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Vaša organizacija je blokirala pristup lokalnim datotekama na ovom računaru
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1127,6 +1159,10 @@ reset-pbm-panel-cancel-button =
     .label = Otkaži
     .accesskey = C
 reset-pbm-panel-complete = Podaci privatne sesije su izbrisani
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1205,9 +1241,39 @@ file-picker-crashed-open = Srušio se Windows dijalog za fajlove. Nije moguće o
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Srušio se Windows dijalog za fajlove. Fajl će biti sačuvan na { $path }.
 file-picker-crashed-save-nowhere = Srušio se Windows dijalog za fajlove. Nije moguće pronaći zadani folder; fajl neće biti sačuvan.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Prikaži u folderu
     .accessKey = F
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Jedan ili više instaliranih add-ona ne mogu biti provjereni i stoga su onemogućeni.
+unsigned-addons-disabled-learn-more =
+    .label = Saznajte više
+    .accesskey = S
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Ova stranica usporava { -brand-short-name }. Da biste ubrzali preglednik, zaustavite ovu stranicu.
+process-hang-nonspecific-tab-message = Web stranica usporava { -brand-short-name }. Da biste ubrzali preglednik, zaustavite tu stranicu.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” usporava { -brand-short-name }. Da biste ubrzali preglednik, zaustavite tu stranicu.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” usporava { -brand-short-name }. Da biste ubrzali preglednik, zaustavite tu ekstenziju.
+process-hang-addon-learn-more =
+    .value = Saznajte više
+process-hang-stop-button =
+    .label = Zaustavi
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
@@ -1254,6 +1320,9 @@ trustpanel-blocker-see-all = Vidi sve
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1352,3 +1421,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dozvolio { $count } kripto rudara
     }
 trustpanel-cryptominer-tab-list-header = Ove stranice pokušavaju kriptorudariti:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

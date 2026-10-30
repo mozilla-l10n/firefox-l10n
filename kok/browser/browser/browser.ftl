@@ -380,6 +380,13 @@ popup-show-popup-menuitem =
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = एक वो अदिक प्रतिष्ठापित अॅड-ऑन्स तपीसपीक शकना आणि अक्षम केल्यात.
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+
 ## Onboarding Finish Setup checklist
 
 

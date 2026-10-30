@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Del…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Vis information om websted
 
@@ -749,6 +752,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsoreret
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spørg
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1265,6 +1273,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1516,9 +1527,39 @@ file-picker-crashed-open = Fildialogboksen i Windows er gået ned. Der kunne ikk
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Fildialogboksen i Windows er gået ned. Filen vil blive gemt i { $path }.
 file-picker-crashed-save-nowhere = Fildialogboksen i Windows er gået ned. Der blev ikke fundet nogen standardmappe; filen vil ikke blive gemt.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = F
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = En eller flere installerede tilføjelser kan ikke verificeres og er derfor blevet deaktiveret.
+unsigned-addons-disabled-learn-more =
+    .label = Læs mere
+    .accesskey = L
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Denne side gør { -brand-short-name } langsom. Stop siden for at gøre din browser hurtigere.
+process-hang-nonspecific-tab-message = En webside gør { -brand-short-name } langsom. Stop siden for at gøre din browser hurtigere.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = "{ $title }" gør { -brand-short-name } langsom. Stop siden for at gøre din browser hurtigere.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” gør { -brand-short-name } langsom. Stop udvidelsen for at gøre din browser hurtigere.
+process-hang-addon-learn-more =
+    .value = Læs mere
+process-hang-stop-button =
+    .label = Stop
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
@@ -1568,6 +1609,9 @@ trustpanel-blocker-see-all = Vis alle
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Sporingsbeskyttelse for { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Upravljaj postavkama skočnih prozora i preusmjeravanja trećih strana …
     .accesskey = U
+
+##
+
 urlbar-identity-button =
     .aria-label = Prikaži informacije o stranici
 
@@ -506,6 +509,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deaktiviraj zaštitu dijeljenja za ovu sesiju
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -678,6 +684,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pitaj
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1210,6 +1221,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1256,6 +1270,13 @@ restore-session-startup-suggestion-button = Pokaži mi kako
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Tvoja je organizacija blokirala pristup lokalnim datotekama na ovom računalu
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1328,6 +1349,10 @@ reset-pbm-panel-complete = Podaci privatne sesije izbrisani
 reset-pbm-toolbar-button2 =
     .label = Izbriši privatnu sesiju
     .tooltiptext = Izbriši privatnu sesiju
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1429,9 +1454,39 @@ file-picker-crashed-open = Windows dijaloški okvir za odabir datoteke se sruši
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows dijaloški okvir za odabir datoteke se srušio. Datoteka će biti spremljena u { $path }.
 file-picker-crashed-save-nowhere = Windows dijaloški okvir za odabir datoteke se srušio. Standardna mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Prikaži u mapi
     .accessKey = m
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Jedan ili više dodataka nije moguće verificirati, stoga su deaktivirani.
+unsigned-addons-disabled-learn-more =
+    .label = Saznaj više
+    .accesskey = z
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Ova stranica usporava { -brand-short-name }. Za ubrzanje preglednika, zaustavi ovu stranicu.
+process-hang-nonspecific-tab-message = Jedna web stranica usporava { -brand-short-name }. Za ubrzanje preglednika zaustavi tu stranicu.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” usporava { -brand-short-name }. Za ubrzanje preglednika, zaustavi tu stranicu.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” usporava { -brand-short-name }. Za ubrzanje preglednika, zaustavi to proširenje.
+process-hang-addon-learn-more =
+    .value = Saznaj više
+process-hang-stop-button =
+    .label = Zaustavi
+    .accesskey = Z
 
 ## Onboarding Finish Setup checklist
 
@@ -1481,6 +1536,9 @@ trustpanel-blocker-see-all = Pogledaj sve
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaštite od praćenja za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Паказаць у папцы
         }
     .accesskey = а
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Файл перамешчаны ці адсутнічае
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Файл выдалены
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Файл адхілены (заблакаваны)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Невядомы памер
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -243,3 +256,78 @@ downloads-error-generic =
     Немагчыма захаваць загружаны файл, бо здарылася невядомая памылка.
     
     Паспрабуйце, калі ласка, зноў.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Запуск…
+downloads-state-failed = Няўдача
+downloads-state-paused = Прыпынена
+downloads-state-canceled = Скасавана
+downloads-state-completed = Скончана
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Затрымана бацькоўскім кантролем
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Гэты файл утрымлівае вірус або шкоднаснае праграмнае забеспячэнне.
+downloads-blocked-potentially-unwanted = Гэты файл можа нанесці шкоду вашаму камп'ютару.
+downloads-blocked-potentially-insecure = Файл не быў сцягнуты: Патэнцыйная рызыка бяспекі.
+downloads-blocked-uncommon = Гэты файл звычайна не сцягваюць.
+downloads-blocked-by-content-analysis = Гэты файл быў заблакаваны вашай арганізацыяй.
+downloads-warned-by-content-analysis = Гэта сцягванне можа быць небяспечным і патрабуе пацвярджэння.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Файл быў заблакаваны, бо { $agent } недаступны.
+downloads-content-analysis-invalid-agent-signature-error = Файл быў заблакаваны, бо { $agent } не прайшоў праверку подпісу.
+downloads-content-analysis-unspecified-error = Файл быў заблакаваны з-за памылкі сувязі з { $agent }.
+downloads-content-analysis-timeout-error = Час чакання { $agent } скончыўся, таму гэты файл быў заблакаваны.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Вы ўпэўненыя, што жадаеце дазволіць гэта сцягванне?
+downloads-unblock-header-open = Вы ўпэўненыя, што жадаеце адкрыць гэты файл?
+downloads-unblock-type-malware = Гэты файл утрымлівае вірус або іншае шкоднае праграмнае забеспячэнне, якое пашкодзіць ваш камп'ютар.
+downloads-unblock-type-potentially-unwanted = Гэты файл замаскіраваны пад карыснае сцягванне, але ён можа зрабіць нечаканыя змены ў вашых праграмах і наладах.
+downloads-unblock-type-content-analysis-warn = Ваша арганізацыя выкарыстоўвае праграмнае забеспячэнне для прадухілення страты дадзеных, якое пазначыла гэтае змесціва як небяспечнае.
+downloads-unblock-type-uncommon = Гэты файл звычайна не сцягваюць, і ён можа быць небяспечны для адкрыцця. Ён можа ўтрымліваць вірус або зрабіць нечаканыя змены ў вашых праграмах і наладах.
+downloads-unblock-insecure = Сцягванне прапануецца праз HTTP, нягледзячы на тое, што бягучы дакумент быў дастаўлены праз бяспечнае злучэнне HTTPS. Калі вы працягнеце, сцягванне можа быць пашкоджана або падроблена ў часе працэсу сцягвання.
+downloads-unblock-tip = Вы можаце пашукаць альтэрнатыўную крыніцу для сцягвання, або паўтарыць спробу пазней.
+downloads-unblock-content-analysis-warn-tip = Вы можаце выбраць сцягванне ў любым выпадку.
+downloads-unblock-content-analysis-blocked = Ваша арганізацыя выкарыстоўвае праграмнае забеспячэнне для прадухілення страты дадзеных, якое заблакавала гэтае сцягванне.
+downloads-unblock-content-analysis-override = Гэта рашэнне можа быць перавызначана толькі вашай арганізацыяй.
+downloads-unblock-content-analysis-tip = Вы можаце працягнуць сцягванне ці скасаваць яго.
+downloads-unblock-button-open =
+    .label = Адкрыць
+downloads-unblock-button-unblock =
+    .label = Дазволіць сцягванне
+downloads-unblock-button-confirm-block =
+    .label = Сцерці файл
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

@@ -35,6 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ᱨᱮᱫᱽ ᱩᱪᱟᱹᱲ ᱮᱱᱟ ᱥᱮ ᱟᱫ ᱜᱮᱭᱟ
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = ᱨᱮᱫ ᱢᱮᱴᱟᱣ ᱮᱱᱟ
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱢᱟᱯ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -181,6 +191,9 @@ downloads-history =
 downloads-details =
     .title = ᱰᱟᱣᱱᱞᱚᱰ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -231,3 +244,67 @@ downloads-error-generic =
     ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚ ᱵᱟᱝ ᱥᱟᱸᱪᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱢᱤᱫ ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱵᱷᱩᱞ ᱟᱠᱟᱱᱟ ᱾
     
     ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱯᱢᱩᱴᱩ ᱢᱮ᱾
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = ᱮᱦᱚᱵᱚᱜ ᱠᱟᱱᱟ…
+downloads-state-failed = ᱰᱤᱜᱟᱹᱣᱮᱱᱟ
+downloads-state-paused = ᱛᱤᱝᱜᱩ ᱞᱮᱱᱟ
+downloads-state-canceled = ᱵᱟᱹᱰᱨᱟᱹ ᱮᱱᱟ
+downloads-state-completed = ᱪᱟᱵᱟ ᱮᱱᱟ
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = ᱡᱟᱨ ᱠᱚᱵᱚᱡ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱟᱠᱚᱞᱮᱱᱟ
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ᱱᱚᱶᱟ ᱨᱮᱫ ᱨᱮ ᱵᱷᱟᱭᱨᱚᱥ ᱥᱮ ᱢᱟᱞᱣᱮᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+downloads-blocked-potentially-unwanted = ᱱᱚᱶᱟ ᱨᱮᱫ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱜᱷᱟᱛᱚᱠ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+downloads-blocked-potentially-insecure = ᱨᱮᱫ ᱵᱟᱭ ᱰᱟᱣᱱᱞᱚᱰ ᱟᱠᱟᱱᱟ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱤᱥᱠ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+downloads-blocked-uncommon = ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱫᱚ ᱵᱟᱭ ᱰᱟᱣᱱᱞᱚᱰᱚᱜᱼᱟ ᱾
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = ᱟᱢ ᱜᱚᱴᱟ ᱢᱮᱱᱟᱢ-ᱟ ᱱᱚᱶᱟ ᱚᱛᱩᱨ ᱟᱲᱜᱩ ᱦᱮᱸᱥᱤᱭᱟᱨ ᱮᱜ ᱟᱢ?
+downloads-unblock-header-open = ᱟᱢ ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱥᱟᱹᱨᱤ ᱛᱮ ᱠᱷᱩᱞᱟᱹ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ?
+downloads-unblock-type-malware = ᱱᱚᱶᱟ ᱨᱮᱫ ᱨᱮ ᱢᱤᱫ ᱵᱷᱟᱭᱨᱚᱥ ᱥᱮ ᱢᱟᱞᱣᱮᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+downloads-unblock-type-potentially-unwanted = ᱱᱚᱶᱟ ᱨᱮᱫ ᱫᱚ ᱢᱤᱫ ᱜᱚᱲᱚ ᱞᱮᱠᱷᱟ ᱰᱟᱣᱱᱞᱚᱰ ᱢᱮᱱᱛᱮ ᱠᱚ ᱢᱮᱛᱟᱜ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱯᱨᱚᱜᱨᱟᱢ ᱟᱨ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱵᱟᱝᱴᱷᱤᱠ ᱵᱚᱫᱚᱞ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+downloads-unblock-type-uncommon = ᱱᱚᱶᱟ ᱨᱮᱫ ᱫᱚ ᱩᱱᱟᱹᱜ ᱵᱟᱭ ᱟᱹᱛᱩᱨᱩᱨ ᱟᱬᱜᱚᱜ ᱠᱟᱱᱟ ᱟᱨ ᱱᱚᱶᱟ ᱫᱚ ᱠᱷᱩᱞᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱴᱷᱤᱠ ᱦᱚᱸ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱨᱮᱫ ᱨᱮ ᱵᱚᱫᱚᱞᱟᱭ ᱛᱟᱦᱮᱸ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱥᱮ ᱟᱢᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱠᱚ ᱨᱮ ᱟᱨ ᱥᱟᱡᱟᱣ ᱠᱚᱨᱮ ᱵᱟᱝ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱵᱚᱫᱚᱞ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+downloads-unblock-insecure = ᱱᱚᱶᱟ ᱰᱟᱠᱩᱢᱮᱱᱴ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ HTTPS ᱡᱚᱱᱚᱲ ᱛᱮ ᱰᱟᱣᱱᱞᱚᱰ ᱚᱯᱷᱚᱨ ᱮᱢ ᱦᱩᱭ ᱞᱮᱱ ᱨᱮᱦᱚᱸ ᱱᱚᱶᱟ ᱰᱟᱠᱩᱢᱮᱱᱴ ᱫᱚ HTTP ᱛᱮᱜᱮ ᱮᱢᱚᱜ ᱠᱟᱱᱟ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱞᱟᱦᱟᱜ ᱠᱷᱟᱱ, ᱰᱟᱣᱱᱞᱚᱰ ᱫᱚ ᱠᱷᱟᱨᱟᱯ ᱥᱮ ᱴᱮᱯᱚᱨ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱰᱟᱣᱱᱞᱚᱰ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱡᱷᱚᱜ ᱾
+downloads-unblock-tip = ᱟᱢ ᱮᱴᱟᱜ ᱰᱟᱣᱱᱞᱚᱰ ᱥᱨᱚᱛ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜ-ᱟᱢ ᱟᱨᱵᱟᱝ ᱛᱟᱭᱚᱢ ᱛᱮ ᱟᱨᱦᱚᱸ ᱪᱮᱥᱴᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+downloads-unblock-button-open =
+    .label = ᱡᱷᱤᱡᱽ ᱢᱮ
+downloads-unblock-button-unblock =
+    .label = ᱰᱟᱣᱱᱞᱚᱰ ᱪᱷᱚᱣᱟᱜ ᱢᱮ
+downloads-unblock-button-confirm-block =
+    .label = ᱨᱮᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start }  { $end }

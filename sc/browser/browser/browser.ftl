@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [one] Ammustra informatziones de su situ (1 sighidore blocadu)
            *[other] Ammustra informatziones de su situ ({ $count } sighidores blocados)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualiza informatziones de su situ
 
@@ -714,6 +717,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1279,6 +1287,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1325,6 +1336,13 @@ restore-session-startup-suggestion-button = Ammustra·mi comente
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = S’organizatzione tua at blocadu s’atzessu a is archìvios locales in custu elaboradore
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1503,9 +1521,39 @@ file-picker-crashed-open = Sa ventana de seletzione de archìvios de Windows s�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. S’archìviu at a èssere sarvadu in { $path }.
 file-picker-crashed-save-nowhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. Impossìbile agatare sa cartella predefinida; s’archìviu no at a èssere sarvadu.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ammustra in sa cartella
     .accessKey = A
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Unu o prus cumplementos sunt istados disativados ca non podent èssere averiguados.
+unsigned-addons-disabled-learn-more =
+    .label = Àteras informatziones
+    .accesskey = A
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Custa pàgina est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca·dda.
+process-hang-nonspecific-tab-message = Una pàgina est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca·dda.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca sa pàgina.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca s'estensione.
+process-hang-addon-learn-more =
+    .value = Àteras informatziones
+process-hang-stop-button =
+    .label = Firma
+    .accesskey = F
 
 ## Onboarding Finish Setup checklist
 
@@ -1555,6 +1603,9 @@ trustpanel-blocker-see-all = Ammustra totu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Amparu contra sa sighidura pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

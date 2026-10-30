@@ -171,6 +171,10 @@ addon-updates-check-for-updates = Bilatu eguneraketak
     .accesskey = B
 addon-updates-view-updates = Ikusi azken eguneraketak
     .accesskey = I
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Eguneratu gehigarriak automatikoki
     .accesskey = g
 
@@ -319,6 +323,8 @@ release-notes-addon-button = Bertsio-oharrak
 permissions-addon-button = Baimenak
 extension-enabled-heading = Gaituta
 extension-disabled-heading = Desgaituta
+theme-disabled-heading3 =
+    .heading = Gordetako itxurak
 theme-enabled-heading = Gaituta
 theme-disabled-heading2 = Gordetako itxurak
 plugin-enabled-heading = Gaituta
@@ -434,6 +440,8 @@ addon-permissions-learnmore = Baimenei buruzko argibide gehiago
 # the user.
 addon-permissions-managed-by-policy = Zenbait baimen zure erakundeak kudeatzen ditu.
 recommended-extensions-heading = Gomendatutako hedapenak
+recommended-themes-card-heading =
+    .heading = Gomendatutako itxurak
 recommended-themes-heading = Gomendatutako itxurak
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

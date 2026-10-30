@@ -160,6 +160,10 @@ addon-updates-check-for-updates = Controlla atualizatziones
     .accesskey = C
 addon-updates-view-updates = Ammustra atualizatziones reghentes
     .accesskey = m
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Atualiza is cumplementos in automàticu
     .accesskey = z
 
@@ -290,6 +294,8 @@ release-notes-addon-button = Notas de sa versione
 permissions-addon-button = Permissos
 extension-enabled-heading = Ativadas
 extension-disabled-heading = Disativadas
+theme-disabled-heading3 =
+    .heading = Temas sarvados
 theme-enabled-heading = Ativadu
 theme-disabled-heading2 = Temas sarvados
 plugin-enabled-heading = Ativados
@@ -344,6 +350,14 @@ addon-badge-private-browsing-allowed3 =
 addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Non permitas
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
 ##
 
 available-updates-heading = Atualizatziones a disponimentu
@@ -352,6 +366,8 @@ release-notes-loading = Carrighende…
 release-notes-error = Faddina in sa càrriga de is notas de sa versione.
 addon-permissions-learnmore = Àteras informatziones subra de is permissos
 recommended-extensions-heading = Estensiones cussigiadas
+recommended-themes-card-heading =
+    .heading = Temas cussigiados
 recommended-themes-heading = Temas cussigiados
 
 ## Page headings
@@ -399,6 +415,16 @@ plugins-widevine-description = Custu plugin permitit sa riprodutzione de cuntenu
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permissos e datos
 
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
 ## Promo footer shown in the about:addons extensions list view when
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
@@ -406,6 +432,15 @@ permissions-data-addon-button = Permissos e datos
 find-more-extensions-promo =
     .heading = Agata s’estensione noa preferida tua
     .message = Personaliza { -brand-product-name } cun ainas pro sa cuntzentratzione, sa riservadesa, is còmporas e àteru.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.

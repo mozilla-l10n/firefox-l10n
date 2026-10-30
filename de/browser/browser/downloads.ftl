@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] In Ordner anzeigen
         }
     .accesskey = a
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Datei verschoben, umbenannt oder gelöscht
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Datei gelöscht
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Datei verworfen (Blockiert)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Unbekannte Größe
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,3 +254,78 @@ downloads-error-generic =
     Der Download kann nicht gespeichert werden, weil ein unbekannter Fehler aufgetreten ist.
     
     Bitte versuchen Sie es nochmals.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Starten…
+downloads-state-failed = Fehlgeschlagen
+downloads-state-paused = Pausiert
+downloads-state-canceled = Abgebrochen
+downloads-state-completed = Fertig
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blockiert durch Jugendschutz
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Diese Datei enthält einen Virus oder Malware.
+downloads-blocked-potentially-unwanted = Diese Datei kann Ihren Computer beschädigen.
+downloads-blocked-potentially-insecure = Datei nicht heruntergeladen: Mögliches Sicherheitsrisiko.
+downloads-blocked-uncommon = Diese Datei wird selten heruntergeladen.
+downloads-blocked-by-content-analysis = Diese Datei wurde von Ihrer Organisation blockiert.
+downloads-warned-by-content-analysis = Dieser Download ist möglicherweise nicht sicher und bedarf einer Bestätigung.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Datei wurde blockiert, weil { $agent } nicht erreichbar ist.
+downloads-content-analysis-invalid-agent-signature-error = Die Datei wurde blockiert, weil { $agent } die Signaturüberprüfung nicht bestanden hat.
+downloads-content-analysis-unspecified-error = Die Datei wurde aufgrund eines Fehlers bei der Kommunikation mit { $agent } blockiert.
+downloads-content-analysis-timeout-error = Zeitüberschreitung bei { $agent }, diese Datei wurde blockiert.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Soll dieser Download wirklich erlaubt werden?
+downloads-unblock-header-open = Soll diese Datei wirklich geöffnet werden?
+downloads-unblock-type-malware = Diese Datei enthält einen Virus oder Malware, welche Ihren Computer beschädigen wird.
+downloads-unblock-type-potentially-unwanted = Diese als hilfreicher Download getarnte Datei könnte unerwartete Änderungen an Ihren Programmen und Einstellungen vornehmen.
+downloads-unblock-type-content-analysis-warn = Ihre Organisation verwendet eine Software zum Schutz vor Datenverlust, die diesen Inhalt als nicht sicher gemeldet hat.
+downloads-unblock-type-uncommon = Diese Datei wird nicht oft heruntergeladen und das Öffnen könnte nicht sicher sein. Sie könnte einen Virus enthalten oder unerwartete Änderungen an Ihren Programmen oder Einstellungen vornehmen.
+downloads-unblock-insecure = Der Download wird über HTTP angeboten, obwohl das aktuelle Dokument über eine sichere HTTPS-Verbindung geliefert wurde. Wenn Sie fortfahren, kann der Download während des Downloadvorgangs beschädigt oder manipuliert werden.
+downloads-unblock-tip = Sie können nach einer anderen Quelle für den Download suchen oder es später erneut versuchen.
+downloads-unblock-content-analysis-warn-tip = Sie können ihn trotzdem herunterladen.
+downloads-unblock-content-analysis-blocked = Ihre Organisation verwendet eine Software zum Schutz vor Datenverlust, die diesen Download blockiert hat.
+downloads-unblock-content-analysis-override = Diese Entscheidung kann nur durch Ihre Organisation aufgehoben werden.
+downloads-unblock-content-analysis-tip = Sie können den Download fortsetzen oder abbrechen.
+downloads-unblock-button-open =
+    .label = Öffnen
+downloads-unblock-button-unblock =
+    .label = Download erlauben
+downloads-unblock-button-confirm-block =
+    .label = Datei löschen
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

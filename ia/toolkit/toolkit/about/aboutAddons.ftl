@@ -171,6 +171,10 @@ addon-updates-check-for-updates = Cercar actualisationes
     .accesskey = C
 addon-updates-view-updates = Vider le actualisationes recente
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Actualisar le additivos automaticamente
     .accesskey = A
 
@@ -319,6 +323,8 @@ release-notes-addon-button = Notas pro iste version
 permissions-addon-button = Permissiones
 extension-enabled-heading = Activate
 extension-disabled-heading = Disactivate
+theme-disabled-heading3 =
+    .heading = Themas salvate
 theme-enabled-heading = Activate
 theme-disabled-heading2 = Themas salvate
 plugin-enabled-heading = Activate
@@ -434,6 +440,8 @@ addon-permissions-learnmore = Saper plus sur le permissiones
 # the user.
 addon-permissions-managed-by-policy = Alcun permissos debe esser gerite per tu organisation.
 recommended-extensions-heading = Extensiones recommendate
+recommended-themes-card-heading =
+    .heading = Themas recommendate
 recommended-themes-heading = Themas recommendate
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

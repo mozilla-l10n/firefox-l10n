@@ -35,6 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Sken deg ukaram
         }
     .accesskey = A
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Afaylu ulac-it neɣ ittwakkes
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Afaylu yettwakkes
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Teɣzi tarussint
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,3 +251,70 @@ downloads-error-generic =
     Asader-agi ur yezmir ara d yettwasekles acku teḍra-d tuccḍa tarussint.
     
     Ma ulac aɣilif, ɛreḍ tikkelt-nniḍen.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Asenker…
+downloads-state-failed = Ur yeddi ara
+downloads-state-paused = Asteɛfu
+downloads-state-canceled = Ifsex
+downloads-state-completed = Immed
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Isweḥlit usenqed n imawlan
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Afaylu-a yegber anfafad neɣ yir aseɣẓan.
+downloads-blocked-potentially-unwanted = Afaylu-a izmer ad iḍuṛ aselkim-inek.
+downloads-blocked-potentially-insecure = Ur d-yettusudar ara ufaylu: yezmer ad ilin wuguren n tɣellist.
+downloads-blocked-uncommon = Afaylu-a ur yettwasader ara s tuget.
+downloads-blocked-by-content-analysis = Afaylu-a tessewḥel-it tkebbanit-ik⋅im.
+downloads-warned-by-content-analysis = Asider-a yezmer ad yili d araɣelsan yerna yesra asentem.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = S tidet triḍ ad tessirgeḍ asader-a?
+downloads-unblock-header-open = Tebɣiḍ ad teldiḍ afaylu-a?
+downloads-unblock-type-malware = Afaylu-a yegber anfafad neɣ yir aseɣẓan i izemren ad iḍuṛ aselkim-inek.
+downloads-unblock-type-potentially-unwanted = Afaylu-a yerra iman-is amzun d win ara d-yefken tallalt, acukan yezmer ad isnifel ahilen d iɣewwaṛen.
+downloads-unblock-type-uncommon = Afaylu-a ur yettwasidar ara s tugett udiɣ yezmer ur yettili ara d aɣelsan ma yella teldiḍ-t-id. Yezmer ad yegber ivirusen neɣ ad isnifel ahilen d iɣewwaṛen-inek.
+downloads-unblock-tip = Tzemreḍ ad d-nadiḍ aɣbalu n asader-nniḍen neɣ ticki, ɛreḍ tikkelt-nniḍen asader n ufaylu.
+downloads-unblock-content-analysis-warn-tip = Lḥaṣun, tzemreḍ ad tferneḍ ad t-id-tzedmeḍṭ, akken yebɣu yili.
+downloads-unblock-content-analysis-tip = Tzemreḍ ad tkemmleḍ asider-ik·im neɣ ad t-tsemmetmeḍt.
+downloads-unblock-button-open =
+    .label = Ldi
+downloads-unblock-button-unblock =
+    .label = Sireg asader
+downloads-unblock-button-confirm-block =
+    .label = Kkes afaylu
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start }—{ $end }
+downloads-status-separator-before-number = { $start } —   { $end }

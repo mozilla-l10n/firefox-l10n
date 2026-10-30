@@ -176,6 +176,10 @@ addon-updates-check-for-updates = بررسی برای بروزرسانی‌ها
     .accesskey = ب
 addon-updates-view-updates = مشاهده بروزرسانی‌های اخیر
     .accesskey = م
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = بروزرسانی خودکار همهٔ افزودنی‌ها
     .accesskey = ب
 
@@ -315,6 +319,8 @@ release-notes-addon-button = یادداشت‌های انتشار
 permissions-addon-button = مجوزها
 extension-enabled-heading = فعال شد
 extension-disabled-heading = غیرفعال شد
+theme-disabled-heading3 =
+    .heading = پوسته‌های ذخیره‌شده
 theme-enabled-heading = فعال شد
 theme-disabled-heading2 = پوسته‌های ذخیره‌شده
 plugin-enabled-heading = فعال شد
@@ -430,6 +436,8 @@ addon-permissions-learnmore = درباره مجوزها بیشتر بدانید
 # the user.
 addon-permissions-managed-by-policy = سازمان شما برخی از مجوزها را مدیریت می‌کند.
 recommended-extensions-heading = افزونه‌های توصیه شده
+recommended-themes-card-heading =
+    .heading = پوسته‌های توصیه شده
 recommended-themes-heading = پوسته‌های توصیه شده
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

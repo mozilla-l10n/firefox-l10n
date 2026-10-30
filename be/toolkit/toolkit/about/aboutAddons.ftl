@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Праверыць наяўнасць абна
     .accesskey = с
 addon-updates-view-updates = Пабачыць нядаўнія абнаўленні
     .accesskey = б
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Аўтаматычна абнаўляць дадаткі
     .accesskey = А
 
@@ -327,6 +331,8 @@ release-notes-addon-button = Заўвагі да выпуску
 permissions-addon-button = Правы доступу
 extension-enabled-heading = Уключаны
 extension-disabled-heading = Адключаны
+theme-disabled-heading3 =
+    .heading = Захаваныя тэмы
 theme-enabled-heading = Уключана
 theme-disabled-heading2 = Захаваныя тэмы
 plugin-enabled-heading = Уключаны
@@ -443,6 +449,8 @@ addon-permissions-learnmore = Даведацца больш пра дазвол�
 # the user.
 addon-permissions-managed-by-policy = Некаторымі дазволамі кіруе ваша арганізацыя.
 recommended-extensions-heading = Рэкамендаваныя пашырэнні
+recommended-themes-card-heading =
+    .heading = Рэкамендаваныя тэмы
 recommended-themes-heading = Рэкамендаваныя тэмы
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

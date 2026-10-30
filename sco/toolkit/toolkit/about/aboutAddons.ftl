@@ -162,6 +162,10 @@ addon-updates-check-for-updates = Check fur Updates
     .accesskey = C
 addon-updates-view-updates = View Recent Updates
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Update Eik-ons Automatically
     .accesskey = A
 
@@ -333,6 +337,10 @@ addon-detail-private-browsing-help = When allooed, the extension will hae ingang
 addon-detail-private-browsing-allow = Alloo
 addon-detail-private-browsing-disallow = Dinnae Alloo
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -349,6 +357,8 @@ release-notes-loading = Loadin…
 release-notes-error = Awfie sorry, but there wis a mishanter loadin the roll-oot notes.
 addon-permissions-learnmore = Lairn mair aboot permeesions
 recommended-extensions-heading = Recommendit Extensions
+recommended-themes-card-heading =
+    .heading = Recommendit Themes
 recommended-themes-heading = Recommendit Themes
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -393,3 +403,38 @@ plugins-openh264-name = OpenH264 Video Codec providit by Cisco Systems, Inc.
 plugins-openh264-description = This plugin is automatically instawed by Mozilla fur tae haud tae the WebRTC specification and tae enable WebRTC caws wi devices that need the H.264 video codec. Veesit https://www.openh264.org/ tae hae a luik at the codec soorce code and lairn mair aboot how it's implementit.
 plugins-widevine-name = Widevine Content Decryption Module providit by Google Inc.
 plugins-widevine-description = This plugin enables playback o encryptit media in keepin wi the Encryptit Media Extensions specification. Encryptit media is fur ordinar yaised by sites fur tae bield against copyin o premium media content. Veesit https://www.w3.org/TR/encrypted-media/ fur mair information on Encryptit Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

@@ -170,6 +170,10 @@ addon-updates-check-for-updates = Nadi ileqman
     .accesskey = N
 addon-updates-view-updates = Sken ileqman n melmi kan
     .accesskey = S
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Leqqem s wudem awurman izegrar
     .accesskey = L
 
@@ -298,6 +302,8 @@ release-notes-addon-button = Iwenniten n lqem
 permissions-addon-button = Tisirag
 extension-enabled-heading = Irmed
 extension-disabled-heading = Yensa
+theme-disabled-heading3 =
+    .heading = Isental yettwaskelsen
 theme-enabled-heading = Irmed
 theme-disabled-heading2 = Isental yettwaskelsen
 plugin-enabled-heading = Irmed
@@ -407,6 +413,8 @@ addon-permissions-required-label = Yettawsra:
 addon-permissions-optional-label = D axetṛan:
 addon-permissions-learnmore = Issin ugar ɣef tsirag
 recommended-extensions-heading = Isiɣzaf ihulen
+recommended-themes-card-heading =
+    .heading = Isental ihulen
 recommended-themes-heading = Isental ihulen
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
@@ -494,3 +502,31 @@ mlmodel-addon-detail-last-used-label = Aseqdec aneggaru
 mlmodel-addon-detail-used-by-label = Isqed-it
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Wali-t deg Huggin Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

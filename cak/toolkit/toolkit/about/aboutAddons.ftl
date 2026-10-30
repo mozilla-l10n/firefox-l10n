@@ -169,6 +169,10 @@ addon-updates-check-for-updates = Kenik'öx taq K'exoj
     .accesskey = K
 addon-updates-view-updates = Ketz'et k'ak'a' taq k'exoj
     .accesskey = K
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = kek'ex taq tz'aqat pa kiyonil
     .accesskey = k
 
@@ -287,6 +291,8 @@ release-notes-addon-button = Ruch'utitzijol Ruwäch
 permissions-addon-button = Taq ya'oj q'ij
 extension-enabled-heading = Tzijon
 extension-disabled-heading = Chupun
+theme-disabled-heading3 =
+    .heading = Xyak Wachinel
 theme-enabled-heading = Tzijon
 theme-disabled-heading2 = Xyak Wachinel
 plugin-enabled-heading = Tzijon
@@ -365,6 +371,8 @@ release-notes-loading = Nisamäj…
 release-notes-error = Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq nok pa ch'utaq rutzijol ri ko'öl wuj.
 addon-permissions-learnmore = Tetamäx ch'aqa' chik chi kij ri taq ya'oj q'ij
 recommended-extensions-heading = Chilab'en taq K'amal
+recommended-themes-card-heading =
+    .heading = Chilab'en taq Wachinel
 recommended-themes-heading = Chilab'en taq Wachinel
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -409,3 +417,38 @@ plugins-openh264-name = Rucholajinel silowachib'äl OpenH264 talun ruma Cisco Sy
 plugins-openh264-description = Re nak'ab'äl re' niyak ruma ri Mozilla pa ruyonil, richin nojqäx ri rub'anikil WebRTC, ruma nuya' q'ij chi ke ri WebRTC taq oyonïk rik'in okisaxel rajowaxik chi ke ri H.264 rucholajinel silowachib'äl. Kab'etz'eton pa https://www.openh264.org/ richin natz'ët ri rucholajil ruxe' ri codec chuqa' richin nawetamaj ch'aqa' chik chi rij re samajib'äl.
 plugins-widevine-name = Widevine juperaj etaman rusik'ixik chi rupam ri Google Inc.
 plugins-widevine-description = Re nak'ab'äl re nutzïj ri rutzijoj k'ïy k'oxom ewan rusik'ixik, achi'el nichol pa Encrypted Media Extensions. Ri ewan rusik'ixik k'ïy k'oxom jutaqil nokisäx pa taq ruxaq  richin yechajij ri taq ruwachib'al kipam taq k'ïy k'oxom premium. Tab'etz'eta' https://www.w3.org/TR/encrypted-media/ richin nawetamaj ch'aqa' chik chi rij Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

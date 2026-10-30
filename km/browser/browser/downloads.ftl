@@ -23,6 +23,22 @@ downloads-cmd-cancel =
     .tooltiptext = បោះបង់
 downloads-cmd-cancel-panel =
     .aria-label = បោះបង់
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ឯកសារ​ត្រូវ​បាន​យក​ចេញ ឬ បាត់
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = បានលុបឯកសារ
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = មិន​ស្គាល់
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 
 ##
 
@@ -80,6 +96,15 @@ downloads-show-more-information =
 downloads-open-file =
     .value = បើក​ឯកសារ
 
+## Displayed when the user clicked on a download in process. Indicates that the
+## downloading file will be opened after certain amount of time using an app
+## available in the system.
+## Variables:
+##   $hours (number) - Amount of hours left till the file opens.
+##   $seconds (number) - Amount of seconds left till the file opens.
+##   $minutes (number) - Amount of minutes till the file opens.
+
+
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -107,6 +132,12 @@ downloads-private-browsing-delete-button =
     .label = លុបឯកសារដោយស្វ័យប្រវត្តិ
     .accesskey = D
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
 ##
 
 downloads-clear-downloads-button =
@@ -128,3 +159,66 @@ downloads-error-generic =
     មិន​អាច​រក្សាទុក​ការ​ទាញ​យក​បាន​ទេ ពីព្រោះ​កំហុស​មិន​ស្គាល់​បាន​កើតឡើង ។
     
     ​សូម​ព្យាយាម​ម្ដងទៀត​ ។
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = កំពុង​ចាប់ផ្ដើម...
+downloads-state-failed = បាន​បរាជ័យ
+downloads-state-paused = បាន​ផ្អាក
+downloads-state-canceled = បាន​បោះបង់
+downloads-state-completed = បាន​បញ្ចប់
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = បាន​ទប់ស្កាត់​ដោយ​វត្ថុ​បញ្ជា​មេ
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ឯកសារ​នេះ​មាន​មេរោគ ឬ​កម្មវិធី​ព្យាបាទ។
+downloads-blocked-potentially-unwanted = ឯកសារ​នេះ​អាច​អាម​ឃាត់​កុំព្យូទ័រ​របស់​អ្នក។
+downloads-blocked-uncommon = ឯកសារ​នេះ​មិន​សូវ​គេ​ទាញ​យក​ទេ។
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = តើ​អ្នក​ពិត​ជា​ចង់​អនុញ្ញាត​ការ​ទាញយក​នេះ​មែន​ទេ?
+downloads-unblock-header-open = តើ​អ្នក​ពិត​ជា​ចង់​បើក​ឯកសារ​នេះ​មែន​ទេ?
+downloads-unblock-type-malware = ឯកសារ​នេះ​មាន​មេរោគ ឬ​កម្មវិធី​ព្យាបាទ​ផ្សេងទៀត​ដែល​អាច​ធ្វើឲ្យ​ខូច​កុំព្យូទ័រ​របស់​អ្នក។
+downloads-unblock-type-potentially-unwanted = ឯកសារ​នេះ​បាន​ក្លែង​បន្លំ​ថា​មាន​ប្រយោជន៍​ក្នុង​ការ​ទាញ​យក ប៉ុន្តែ​វា​អាច​ធ្វើការ​ផ្លាស់ប្ដូរ​​ដោយ​នឹកស្មាន​មិន​ដល់​ចំពោះ​កម្មវិធី និង​ការ​កំណត់​របស់​អ្នក។
+downloads-unblock-type-uncommon = ឯកសារ​នេះ​មិនត្រូវ​បាន​ទាញយក​ជាទូទៅ​ទេ ហើយ​វា​អាច​មាន​គ្រោះថ្នាក់​ទៀត​ផង។ វា​អាច​ផ្ទុក​មេរោគ​អ្វី​មួយ ឬ​អាច​ធ្វើ​ឲ្យ​មាន​ការ​ផ្លាស់ប្ដូរ​ដែល​អ្នក​មិន​អាច​ដឹង​បាន ចំពោះ​កម្មវិធី​និង​ការ​កំណត់​របស់​អ្នក។
+downloads-unblock-tip = អ្នក​អាច​ស្វែងរក​ប្រភព​ទាញ​យក​ជំនួស ឬ​ព្យាយាម​ទាញ​យក​ម្ដង​ទៀត​ពេល​ក្រោយ។
+downloads-unblock-content-analysis-tip = អ្នកអាចបន្តការទាញយករបស់អ្នក ឬលុបវាចោល។
+downloads-unblock-button-open =
+    .label = បើក​
+downloads-unblock-button-unblock =
+    .label = អនុញ្ញាត​ឲ្យ​ទាញយក
+downloads-unblock-button-confirm-block =
+    .label = យក​ឯកសារ​ចេញ
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

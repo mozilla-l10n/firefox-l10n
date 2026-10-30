@@ -35,6 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostrar dins lo dossièr
         }
     .accesskey = M
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Fichièr desplaçat o mancant
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fichièr suprimit
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Talha desconeguda
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -181,6 +191,9 @@ downloads-history =
 downloads-details =
     .title = Detalhs del telecargament
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -229,3 +242,67 @@ downloads-error-generic =
     Lo telecargament pòt pas èsser enregistrat perque una error desconeguda s'es producha.
     
     Ensajatz tornarmai.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Aviada…
+downloads-state-failed = Fracàs
+downloads-state-paused = En pausa
+downloads-state-canceled = Anullat
+downloads-state-completed = Acabat
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blocat pel Contraròtle parental
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Aqueste fichièr conten un virús o un logicial malvolent.
+downloads-blocked-potentially-unwanted = Aqueste fichièr pòt damatjar vòstre ordenador.
+downloads-blocked-potentially-insecure = Fichièr pas telecargat : risc de seguretat potencial.
+downloads-blocked-uncommon = Aqueste fichièr es rarament telecargat.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Volètz vertadièrament autorizar aqueste telecargament ?
+downloads-unblock-header-open = Volètz vertadièrament desblocar aqueste fichièr ?
+downloads-unblock-type-malware = Aqueste fichièr conten un virús o un logicial malvolent que pòt damatjar vòstre ordenador.
+downloads-unblock-type-potentially-unwanted = Aqueste fichièr, presentat coma un telecargament legitim, poiriá modificar vòstres programas e paramètres.
+downloads-unblock-type-uncommon = Aqueste fichièr es rarament telecargat e es pas segur lo dobrir. Poiriá conténer un virus o modificar vòstres programas e paramètres.
+downloads-unblock-insecure = Lo telecargament es prepausat en HTTP encara que lo document actual es estat enviat amb una connexion segura HTTPS. Se contunhatz, se pòt corrompre o falsificar lo telecargament pendent lo transferiment.
+downloads-unblock-tip = Podètz recercar una font alternativa de telecargament o ensajar de telecargar aqueste fichièr tornamai pus tard.
+downloads-unblock-button-open =
+    .label = Dobrir
+downloads-unblock-button-unblock =
+    .label = Autorizar lo telecargament
+downloads-unblock-button-confirm-block =
+    .label = Suprimir lo fichièr
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

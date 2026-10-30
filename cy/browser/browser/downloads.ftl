@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Dangos mewn Ffolder
         }
     .accesskey = D
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Ffeil wedi ei symud neu ar goll
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Ffeil wedi'i dileu
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Ffeil wedi'i dileu (wedi'i rhwystro)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Maint anhysbys
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -249,3 +262,78 @@ downloads-error-generic =
     Nid oes modd cadw'r llwyth yma gan fod gwall anhysbys wedi digwydd.
     
     Ceisiwch eto.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Cychwyn…
+downloads-state-failed = Methiant
+downloads-state-paused = Oedi
+downloads-state-canceled = Diddymwyd
+downloads-state-completed = Cwblhawyd
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Rhwystrwyd gan Rheolaeth Rhiant
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Mae'r ffeil ynn cynnwys firws neu ddrwgwar.
+downloads-blocked-potentially-unwanted = Gall y ffeil hon niweidio eich cyfrifiadur.
+downloads-blocked-potentially-insecure = Ffeil heb ei llwytho i lawr: Perygl diogelwch posib.
+downloads-blocked-uncommon = Nid yw'r ffeil hon yn cael ei llwytho i lawr yn aml.
+downloads-blocked-by-content-analysis = Cafodd y ffeil hon ei rhwystro gan eich sefydliad.
+downloads-warned-by-content-analysis = Gall y llwytho i lawr hwn fod yn anniogel ac angen ei gadarnhau.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Cafodd y ffeil ei rhwystro oherwydd nad yw { $agent } yn gyraeddadwy.
+downloads-content-analysis-invalid-agent-signature-error = Cafodd y ffeil ei rhwystro oherwydd bod { $agent } wedi methu dilysu llofnod.
+downloads-content-analysis-unspecified-error = Cafodd y ffeil ei rhwystro oherwydd gwall wrth gyfathrebu â { $agent }.
+downloads-content-analysis-timeout-error = Daeth { $agent } i ben, felly rhwystrwyd y ffeil hon.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Ydych chi'n siŵr eich bod eisiau caniatáu'r llwytho i lawr?
+downloads-unblock-header-open = Ydych chi'n siŵr eich bod eisiau agor y ffeil hon?
+downloads-unblock-type-malware = Mae'r ffeil yn cynnwys firws neu ddrwgwar arall fydd yn gwneud drwg i'ch cyfrifiadur.
+downloads-unblock-type-potentially-unwanted = Gall y ffeil hon, sydd wedi ei ffugio i edrych fel rhaglen cynorthwyol, wneud newidiadau annisgwyl i'ch rhaglenni a'ch gosodiadau.
+downloads-unblock-type-content-analysis-warn = Mae eich sefydliad yn defnyddio meddalwedd atal colli data sydd wedi nodi bod y cynnwys hwn yn anniogel.
+downloads-unblock-type-uncommon = Nid yw'r ffeil hon yn cael ei llwytho i lawr yn aml ac nad yw'n ddiogel ei hagor. Gall fod yn cynnwys firws neu wneud newidiadau annisgwyl i' ch rhaglenni a'ch gosodiadau.
+downloads-unblock-insecure = Cafodd y llwyth ei gynnig dros HTTP er bod y ddogfen gyfredol wedi'i chyflwyno dros gysylltiad HTTPS diogel. Os ewch ymlaen, efallai y bydd y llwyth yn cael ei lygru neu ymyrryd ag ef yn ystod y broses llwytho i lawr.
+downloads-unblock-tip = Gallwch chwilio am ffynhonnell llwytho i lawr arall neu geisio llwytho'r ffeil i lawr rhywbryd eto.
+downloads-unblock-content-analysis-warn-tip = Gallwch ddewis ei lwytho i lawr beth bynnag.
+downloads-unblock-content-analysis-blocked = Mae eich sefydliad yn defnyddio meddalwedd atal colli data sydd wedi rhwystro'r llwytho i lawr hwn.
+downloads-unblock-content-analysis-override = Dim ond eich sefydliad all anwybyddu’r penderfyniad hwn.
+downloads-unblock-content-analysis-tip = Gallwch barhau â'ch llwytho i llawr neu ei ddiddymu.
+downloads-unblock-button-open =
+    .label = Agor
+downloads-unblock-button-unblock =
+    .label = Caniatáu'r llwytho i lawr
+downloads-unblock-button-confirm-block =
+    .label = Tynnu ffeil
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

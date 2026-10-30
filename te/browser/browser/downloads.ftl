@@ -35,6 +35,13 @@ downloads-cmd-show-menuitem-2 =
            *[other] సంచయంలో చూపించు
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = దస్త్రం వేరేచోటికి తరలించబడింది లేదా పోయింది
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = తెలియని పరిమాణం
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -164,6 +171,15 @@ downloads-history =
 downloads-details =
     .title = దింపుకోలు వివరాలు
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
 ##
 
 downloads-clear-downloads-button =
@@ -194,3 +210,65 @@ downloads-error-generic =
     డౌన్‌లోడు భద్రపరచలేము ఎందుకంటే తెలియని దోషము సంభవించింది.
     
     దయచేసి మరలా ప్రయత్నించండి.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = ప్రారంభిస్తోంది…
+downloads-state-failed = విఫలమైంది
+downloads-state-paused = నిలుపబడింది
+downloads-state-canceled = రద్దు చేయబడినది
+downloads-state-completed = పూర్తయింది
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = పేరెంటల్ నియంత్రణల చేత నిరోధించబడింది
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ఈ ఫైల్ వైరల్ లేదా మాల్‌వేర్ కలిగివుంది.
+downloads-blocked-potentially-unwanted = ఈ ఫైల్ మీ కంప్యూటర్‌కు హాని కలిగించవచ్చు.
+downloads-blocked-uncommon = సాధారణంగా ఈ దస్త్రాన్ని దింపుకోరు.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = మీరు ఈ  దింపుకోళ్ళను ఖచ్చితంగా అనుమతించాలనుకుంటున్నారా?
+downloads-unblock-header-open = మీరు ఈ ఫైలును ఖచ్చితంగా తెరవాలనుకుంటున్నారా?
+downloads-unblock-type-malware = ఈ ఫైల్ మీ కంప్యూటర్‌కు హానికారకమైన వైరల్ లేదా ఇతర మాల్‌వేర్ కలిగివుంది.
+downloads-unblock-type-potentially-unwanted = ఈ ఫైలు ఒక ఉపయోగపడిందా  దింపుకోళ్ళు వలె మారువేషంలో, కానీ అది మీ కార్యక్రమాలు మరియు సెట్టింగులను ఊహించని మార్పులు చేయవచ్చు.
+downloads-unblock-type-uncommon = ఈ దస్త్రం సాధారణంగా  దింపుకోళ్ళచేయబడదు మరియు తెరవడానికి సురక్షితం కాకపోవచ్చు. ఇది ఒక వైరస్ కలిగి లేదా మీ కార్యక్రమాలు మరియు సెట్టింగులను ఊహించని మార్పులు చేయవచ్చు.
+downloads-unblock-tip = మీరు ఒక ప్రత్యామ్నాయ  దింపుకోళ్ళమూలం వెతకవచ్చు లేదా తరువాత మళ్ళీ ప్రయత్నించవచ్చు.
+downloads-unblock-button-open =
+    .label = తెరువు
+downloads-unblock-button-unblock =
+    .label = దింపుకోళ్ళను అనుమతించు
+downloads-unblock-button-confirm-block =
+    .label = ఫైల్‌ని తీసివేయి
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

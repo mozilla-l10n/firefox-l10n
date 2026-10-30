@@ -19,6 +19,11 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = बिनचूक  सुरवात करात
     .accesskey = ब
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = अज्ञात आकार
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -65,6 +70,7 @@ downloads-history =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -76,12 +82,10 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = डावनलोड्स साफ करात
     .tooltiptext = पुराय जाल्ले, रद्द जाल्ले आनी असफळ डावनलोड्स साफ करता
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = डावनलोड्स ना.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = सत्राखातीर डावनलोड्स ना.
@@ -89,3 +93,52 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = डावनलोड त्रुटी
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = सुरू करता...
+downloads-state-failed = असफळ
+downloads-state-paused = थांबयला
+downloads-state-canceled = रद्द जाले
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = पालक नियंत्रणान प्रतिबंधित
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ह्या फायलींत व्हायरस वो मॅलवेअर आसा.
+downloads-blocked-potentially-unwanted = ही फायल तुमच्या संगणकाक बाधा हाडपाक शकता.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-type-malware = ह्या फायलींत व्हायरस वो हेर मालवेअर आसा जे तुमच्या संगणकाक बाधा हाडतले.
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

@@ -157,6 +157,10 @@ addon-updates-check-for-updates = යාවත්කාල පරීක්‍ෂ
     .accesskey = C
 addon-updates-view-updates = මෑත යාවත්කාල පෙන්වන්න
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = ස්වයංක්‍රීයව එක්කහු යාවත්කාල කරන්න
     .accesskey = A
 
@@ -263,6 +267,8 @@ release-notes-addon-button = නිකුතු සටහන්
 permissions-addon-button = අවසර
 extension-enabled-heading = සබල කර ඇත
 extension-disabled-heading = අබල කර ඇත
+theme-disabled-heading3 =
+    .heading = සුරැකි තේමා
 theme-enabled-heading = සබල කර ඇත
 theme-disabled-heading2 = සුරැකි තේමා
 plugin-enabled-heading = සබලයි
@@ -351,6 +357,8 @@ release-notes-loading = පූරණය වෙමින්…
 release-notes-error = කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.
 addon-permissions-learnmore = අවසර ගැන තව දැනගන්න
 recommended-extensions-heading = නිර්දේශිත දිගු
+recommended-themes-card-heading =
+    .heading = නිර්දේශිත තේමා
 recommended-themes-heading = නිර්දේශිත තේමා
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
@@ -395,3 +403,38 @@ details-notification-gmp-pending2 =
 
 plugins-gmp-license-info = බලපත්‍ර තොරතුරු
 plugins-gmp-privacy-info = පෞද්ගලිකත්‍ව තොරතුරු
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

@@ -171,6 +171,10 @@ addon-updates-check-for-updates = Жаңартуларды тексеру
     .accesskey = к
 addon-updates-view-updates = Соңғы жаңартуларды қарау
     .accesskey = о
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Кеңейтулерді автожаңарту
     .accesskey = е
 
@@ -321,6 +325,8 @@ release-notes-addon-button = Шығарылым ескертпесі
 permissions-addon-button = Рұқсаттар
 extension-enabled-heading = Іске қосулы
 extension-disabled-heading = Сөндірілген
+theme-disabled-heading3 =
+    .heading = Сақталған темалар
 theme-enabled-heading = Іске қосулы
 theme-disabled-heading2 = Сақталған темалар
 plugin-enabled-heading = Іске қосулы
@@ -435,6 +441,8 @@ addon-permissions-learnmore = Рұқсаттар туралы көбірек б�
 # the user.
 addon-permissions-managed-by-policy = Кейбір рұқсаттарды сіздің ұйымыңыз басқарады.
 recommended-extensions-heading = Ұсынылатын кеңейтулер
+recommended-themes-card-heading =
+    .heading = Ұсынылатын темалар
 recommended-themes-heading = Ұсынылатын темалар
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

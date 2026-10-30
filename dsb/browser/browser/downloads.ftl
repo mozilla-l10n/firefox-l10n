@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] W zarědniku pokazaś
         }
     .accesskey = d
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Dataja jo se pśesunyła abo felujo
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Dataja jo se wulašowała
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Dataja jo zachyśona (blokěrowana)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Njeznata wjelikosć
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -245,3 +258,78 @@ downloads-error-generic =
     Ześěgnjenje njedajo se składowaś, dokulaž njeznata zmólka jo nastała.
     
     Pšosym wopytajśo hyšći raz.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Startujo se…
+downloads-state-failed = Njeraźony
+downloads-state-paused = Zastajony
+downloads-state-canceled = Pśetergnjony
+downloads-state-completed = Dokóńcony
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Pśez šćit młoźiny zablokěrowany
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Toś ta dataja wirus abo złosnu softwaru wopśimujo.
+downloads-blocked-potentially-unwanted = Toś ta dataja by mógła wašo licadło wobškóźeś.
+downloads-blocked-potentially-insecure = Dataja njejo se ześěgnuła: Potencielne wěstotne riziko.
+downloads-blocked-uncommon = Toś ta dataja se w normalnem paźe njeześěgujo.
+downloads-blocked-by-content-analysis = Dataja jo se blokěrowała wót wašeje organizacije.
+downloads-warned-by-content-analysis = Toś to ześěgnjenje jo snaź njewěste a pomina se wobkšuśenje.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Dataja jo se blokěrowała, dokulaž { $agent } njejo k dostaśeju.
+downloads-content-analysis-invalid-agent-signature-error = Dataja jo se blokěrowała, dokulaž pśeglědowanje signatury { $agent } njejo se raźiło.
+downloads-content-analysis-unspecified-error = Dataja jo se blokěrowała, zmólki w komunikaciji z { $agent } dla.
+downloads-content-analysis-timeout-error = { $agent } jo pśekšocył cas, togodla jo se dataja blokěrowała.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Cośo napšawdu toś te ześěgnjenje dowóliś?
+downloads-unblock-header-open = Cośo napšawdu toś tu dataju wócyniś?
+downloads-unblock-type-malware = Toś ta dataja wirus abo drugu złosnu softwaru wopśimujo, kótaraž wobškóźijo wašo licadło.
+downloads-unblock-type-potentially-unwanted = Toś ta dataja, kótaraž jo ako pomocne ześěgnjenje wutarnowana, pśewjeźo njewócakane změny na wašych programach a nastajenjach.
+downloads-unblock-type-content-analysis-warn = Waša organizacija software pśeśiwo tšuśeju datow wužywa, kótaraž jo markěrowała toś to wopśimjeśe ako njewěste.
+downloads-unblock-type-uncommon = Toś ta dataja se zwětšego njeześěgujo a by mógło njewěste byś, ju wócyniś. Wóna by mógła wirus wopśimowaś abo njewótcakane změny na wašych programach a nastajenjach pśewjasć.
+downloads-unblock-insecure = Ześěgnjenje se pśez HTTP póbitujo, lěcrownož aktualny dokument jo se stajił k dispoziciji pśez wěsty HTTPS-zwisk. Jolic pókšacujośo, móžo se ześěgnjenje w ześěgowańskem procesu wobškóźeś abo manipulěrowaś.
+downloads-unblock-tip = Móžośo alternatiwne ześěgnjeńske žrědło pytaś abo dataju pózdźej hyšći raz ześěgnuś.
+downloads-unblock-content-analysis-warn-tip = Móžośo ju weto ześěgnuś.
+downloads-unblock-content-analysis-blocked = Waša organizacija software pśeśiwo tšuśeju datow wužywa, kótaraž jo blokěrowała toś to ześěgnjenje.
+downloads-unblock-content-analysis-override = Toś ten rozsud dajo se jano wót wašeje organizacije pśepisaś.
+downloads-unblock-content-analysis-tip = Móžośo z swójim ześěgnjenim pókšacowaś abo jo pśetergnuś.
+downloads-unblock-button-open =
+    .label = Wócyniś
+downloads-unblock-button-unblock =
+    .label = Ześěgnjenje dowóliś
+downloads-unblock-button-confirm-block =
+    .label = Dataju wótpóraś
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

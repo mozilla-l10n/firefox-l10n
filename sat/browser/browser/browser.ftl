@@ -15,6 +15,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
        *[other] { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
     }
+
+##
+
 urlbar-identity-button =
     .aria-label = ᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
@@ -454,6 +457,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱴᱤᱧ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -616,6 +622,18 @@ urlbar-result-weather-title-city-only = { $city } ᱨᱮ <strong>{ $temperature 
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · ᱥᱯᱚᱱᱥᱚᱨ ᱟᱠᱟᱱ
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -668,6 +686,9 @@ urlbar-result-action-switch-to-tabgroup = { $group } ᱨᱮ ᱵᱚᱫᱚᱞ ᱢ�
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } ᱡᱷᱤᱡᱽ ᱢᱮ
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -887,6 +908,10 @@ toolbar-button-paste =
     .label = ᱞᱟᱴᱷᱟ ᱥᱮᱞᱮᱫ
     .tooltiptext = ᱞᱟᱴᱷᱟ ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱛᱤᱱᱟᱫᱜ ᱜᱟᱱ ᱟᱸᱡᱚᱢᱟᱜ ᱟᱨ ᱵᱟᱝ ᱣᱤᱰᱤᱭᱚ DRM ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱮᱵᱷᱟᱨᱟᱭ, ᱚᱠᱟ ᱫᱚ ᱥᱤᱢᱟ ᱵᱷᱤᱛᱨᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱪᱮᱫ ᱱᱚᱶᱟ ᱥᱟᱶ ᱟᱢ ᱠᱟᱹᱢᱤ ᱦᱚᱪᱚ ᱫᱟᱲᱮᱭᱟᱢᱟ { -brand-short-name } ᱾
@@ -937,6 +962,10 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = ᱵᱚᱸᱫ ᱢᱮ
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
@@ -954,6 +983,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -988,6 +1020,9 @@ tabs-toolbar-list-all-tabs =
     .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱥᱩᱪᱤ ᱢᱮ
     .tooltiptext = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱥᱩᱪᱤ ᱢᱮ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -997,6 +1032,13 @@ restore-session-startup-suggestion-button = ᱫᱚᱠᱷᱟᱣ ᱟᱹᱧ ᱢᱮ 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱫᱚ ᱱᱚᱶᱟ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱨᱮ ᱞᱚᱠᱟᱞ ᱨᱮᱫ ᱠᱚ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱵᱚᱱᱫᱚ ᱠᱮᱫᱟᱭ
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1061,6 +1103,10 @@ reset-pbm-panel-cancel-button =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = C
 reset-pbm-panel-complete = ᱯᱨᱟᱭᱣᱮᱴ ᱥᱮᱥᱚᱱ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱮᱱᱟ
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1138,9 +1184,39 @@ file-picker-crashed-open = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚ�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱨᱮᱫᱽ ᱫᱚ { $path } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ ᱾
 file-picker-crashed-save-nowhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟᱭᱞᱚᱜᱽ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱪᱮᱫ ᱰᱤᱯᱷᱚᱞᱴ ᱯᱚᱴᱚᱢ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ; ᱨᱮᱫᱽ ᱫᱚ ᱵᱟᱝ ᱥᱟᱧᱪᱟᱣᱜᱼᱟ ᱾
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accessKey = F
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = ᱢᱤᱫ ᱟᱨᱵᱟᱝ ᱰᱷᱮᱨ ᱵᱚᱦᱟᱞ ᱮᱰᱼᱚᱱ ᱵᱟᱝ ᱧᱮᱞ ᱢᱮᱞᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ ᱾
+unsigned-addons-disabled-learn-more =
+    .label = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+    .accesskey = L
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+process-hang-nonspecific-tab-message = ᱱᱚᱣᱟ ᱣᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱚᱱᱟ ᱥᱟᱦᱴᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱚᱱᱟ ᱥᱟᱦᱴᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱚᱱᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+process-hang-addon-learn-more =
+    .value = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+process-hang-stop-button =
+    .label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
@@ -1148,3 +1224,16 @@ onboarding-checklist-button-label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
 onboarding-aw-finish-setup-button =
     .label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
     .tooltiptext = { -brand-short-name } ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

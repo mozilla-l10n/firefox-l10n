@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Vyhľadať aktualizácie
     .accesskey = V
 addon-updates-view-updates = Zobraziť nedávno aktualizované
     .accesskey = Z
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Automaticky aktualizovať doplnky
     .accesskey = A
 
@@ -324,6 +328,8 @@ release-notes-addon-button = Poznámky k vydaniu
 permissions-addon-button = Oprávnenia
 extension-enabled-heading = Povolené rozšírenia
 extension-disabled-heading = Zakázané rozšírenia
+theme-disabled-heading3 =
+    .heading = Uložené témy vzhľadu
 theme-enabled-heading = Aktívna téma vzhľadu
 theme-disabled-heading2 = Uložené témy vzhľadu
 plugin-enabled-heading = Povolené zásuvné moduly
@@ -440,6 +446,8 @@ addon-permissions-learnmore = Ďalšie informácie o oprávneniach
 # the user.
 addon-permissions-managed-by-policy = Niektoré oprávnenia spravuje vaša organizácia.
 recommended-extensions-heading = Odporúčané rozšírenia
+recommended-themes-card-heading =
+    .heading = Odporúčané témy vzhľadu
 recommended-themes-heading = Odporúčané témy vzhľadu
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

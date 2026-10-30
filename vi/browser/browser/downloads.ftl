@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Hiển thị trong thư mục
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Tập tin đã bị di chuyển hoặc bị xoá
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Tập tin đã bị xóa
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Tập tin đã bị loại bỏ (bị chặn)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Kích thước không xác định
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -239,3 +252,78 @@ downloads-error-generic =
     Không thể lưu tập tin tải xuống vì có lỗi xảy ra.
     
     Vui lòng thử lại lần nữa.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Đang bắt đầu…
+downloads-state-failed = Thất bại
+downloads-state-paused = Đã tạm dừng
+downloads-state-canceled = Đã hủy
+downloads-state-completed = Đã hoàn tất
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Bị chặn bởi trình kiểm soát con
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Tập tin này có chứa virus hoặc phần mềm ác ý.
+downloads-blocked-potentially-unwanted = Tập tin này có thể làm hại máy tính của bạn.
+downloads-blocked-potentially-insecure = Tập tin không được tải xuống: Rủi ro bảo mật tiềm ẩn.
+downloads-blocked-uncommon = Tập tin này thường không được tải xuống.
+downloads-blocked-by-content-analysis = Tập tin này đã bị chặn bởi tổ chức của bạn.
+downloads-warned-by-content-analysis = Việc tải xuống này có thể không an toàn và cần phải xác nhận.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Tập tin đã bị chặn vì không thể truy cập được { $agent }.
+downloads-content-analysis-invalid-agent-signature-error = Tập tin đã bị chặn vì { $agent } không xác minh được chữ ký.
+downloads-content-analysis-unspecified-error = Tập tin đã bị chặn vì có lỗi khi giao tiếp với { $agent }.
+downloads-content-analysis-timeout-error = { $agent } đã hết thời gian chờ, nên tập tin này đã bị chặn.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Bạn có chắc chắn muốn cho phép việc tải xuống này không?
+downloads-unblock-header-open = Bạn có chắc bạn muốn mở tập tin này không?
+downloads-unblock-type-malware = Tập tin này có chứa virus hoặc phần mềm ác ý, có thể gây hại cho máy của bạn.
+downloads-unblock-type-potentially-unwanted = Tập tin này giả dạng là một tải xuống hữu ích, nhưng nó có thể tạo ra những thay đổi không mong muốn với những ứng dụng và cài đặt của bạn.
+downloads-unblock-type-content-analysis-warn = Tổ chức của bạn sử dụng phần mềm ngăn ngừa mất dữ liệu đã đánh dấu nội dung này là không an toàn.
+downloads-unblock-type-uncommon = Tập tin này thường không được tải xuống và có thể không an toàn để mở. Nó có thể chứa virus hoặc tạo ra những thay đổi không mong muốn với những thiết lập và chương trình của bạn.
+downloads-unblock-insecure = Tải xuống được cung cấp qua HTTP mặc dù tài liệu hiện tại được gửi qua kết nối HTTPS an toàn. Nếu bạn tiếp tục, quá trình tải xuống có thể bị hỏng hoặc bị giả mạo trong quá trình tải xuống.
+downloads-unblock-tip = Bạn có thể tìm một nguồn tải xuống khác hoặc thử lại sau.
+downloads-unblock-content-analysis-warn-tip = Bạn vẫn có thể chọn tải xuống.
+downloads-unblock-content-analysis-blocked = Tổ chức của bạn sử dụng phần mềm ngăn ngừa mất dữ liệu đã chặn việc tải xuống này.
+downloads-unblock-content-analysis-override = Quyết định này chỉ có thể thay đổi bởi tổ chức của bạn.
+downloads-unblock-content-analysis-tip = Bạn có thể tiếp tục hoặc hủy tải xuống.
+downloads-unblock-button-open =
+    .label = Mở
+downloads-unblock-button-unblock =
+    .label = Cho phép tải xuống
+downloads-unblock-button-confirm-block =
+    .label = Xóa tập tin
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

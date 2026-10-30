@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Näytä kansiossa
         }
     .accesskey = N
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Tiedosto siirretty tai puuttuu
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Tiedosto poistettu
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Tiedosto hylätty (estetty)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Tuntematon koko
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,3 +254,78 @@ downloads-error-generic =
     Latauksen tallennus ei onnistunut tuntemattomasta syystä.
     
     Yritä uudestaan.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Aloitetaan…
+downloads-state-failed = Epäonnistui
+downloads-state-paused = Pysäytetty
+downloads-state-canceled = Peruutettu
+downloads-state-completed = Valmis
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Käytönvalvonta esti toiminnon
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Tiedosto sisältää viruksen tai haittaohjelman.
+downloads-blocked-potentially-unwanted = Tiedosto voi vahingoittaa tietokonettasi.
+downloads-blocked-potentially-insecure = Tiedostoa ei ladattu: Mahdollinen turvallisuusriski.
+downloads-blocked-uncommon = Tätä tiedostoa ei ole ladattu usein.
+downloads-blocked-by-content-analysis = Organisaatiosi esti tämän tiedoston.
+downloads-warned-by-content-analysis = Tämä lataus saattaa olla vaarallinen ja vaatii vahvistuksen.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Tiedosto estettiin, koska { $agent } ei ole tavoitettavissa.
+downloads-content-analysis-invalid-agent-signature-error = Tiedosto estettiin, koska { $agent } epäonnistui allekirjoituksen varmentamisessa.
+downloads-content-analysis-unspecified-error = Tiedosto estettiin, koska kommunikoinnissa agentin { $agent } kanssa tapahtui virhe.
+downloads-content-analysis-timeout-error = { $agent } aikakatkaistiin, joten tiedosto estettiin.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Haluatko varmasti sallia tämän latauksen?
+downloads-unblock-header-open = Haluatko varmasti avata tämän tiedoston?
+downloads-unblock-type-malware = Tämä tiedosto sisältää viruksen tai muun haittaohjelman, joka vahingoittaa tietokonettasi.
+downloads-unblock-type-potentially-unwanted = Tämä tiedosto on naamioitunut hyödylliseksi lataukseksi, mutta voi tehdä odottamattomia muutoksia ohjelmiisi ja asetuksiisi.
+downloads-unblock-type-content-analysis-warn = Organisaatiosi käyttää tietojen menetyksen esto-ohjelmistoa, joka on merkinnyt tämän sisällön vaaralliseksi.
+downloads-unblock-type-uncommon = Tätä tiedostoa ei ole ladattu usein, ja sen avaaminen ei ehkä ole turvallista. Se voi sisältää viruksen tai tehdä odottamattomia muutoksia ohjelmiisi ja asetuksiisi.
+downloads-unblock-insecure = Lataus tarjotaan HTTP:n kautta, vaikka nykyinen dokumentti toimitettiin suojatun HTTPS-yhteyden kautta. Jos jatkat, lataus saattaa vioittua tai sitä saatetaan peukaloida latauksen aikana.
+downloads-unblock-tip = Voit etsiä toisen latauslähteen tai yrittää myöhemmin uudestaan.
+downloads-unblock-content-analysis-warn-tip = Voit ladata sen joka tapauksessa.
+downloads-unblock-content-analysis-blocked = Organisaatiosi käyttää tietojen menetyksen esto-ohjelmistoa, joka on estänyt tämän latauksen.
+downloads-unblock-content-analysis-override = Vain organisaatiosi voi kumota tämän päätöksen.
+downloads-unblock-content-analysis-tip = Voit jatkaa latausta tai peruuttaa sen.
+downloads-unblock-button-open =
+    .label = Avaa
+downloads-unblock-button-unblock =
+    .label = Salli lataus
+downloads-unblock-button-confirm-block =
+    .label = Poista tiedosto
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

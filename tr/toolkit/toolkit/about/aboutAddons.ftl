@@ -178,6 +178,10 @@ addon-updates-check-for-updates = Güncellemeleri denetle
     .accesskey = G
 addon-updates-view-updates = Son güncellemeleri görüntüle
     .accesskey = o
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Eklentileri kendiliğinden güncelle
     .accesskey = n
 
@@ -320,6 +324,8 @@ release-notes-addon-button = Sürüm notları
 permissions-addon-button = İzinler
 extension-enabled-heading = Etkin
 extension-disabled-heading = Devre dışı
+theme-disabled-heading3 =
+    .heading = Kayıtlı temalar
 theme-enabled-heading = Etkin
 theme-disabled-heading2 = Kayıtlı temalar
 plugin-enabled-heading = Etkin
@@ -435,6 +441,8 @@ addon-permissions-learnmore = İzinler hakkında daha fazla bilgi alın
 # the user.
 addon-permissions-managed-by-policy = Bazı izinler kuruluşunuz tarafından yönetiliyor.
 recommended-extensions-heading = Önerilen uzantılar
+recommended-themes-card-heading =
+    .heading = Önerilen temalar
 recommended-themes-heading = Önerilen temalar
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

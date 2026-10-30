@@ -173,6 +173,10 @@ addon-updates-check-for-updates = 检查更新
     .accesskey = C
 addon-updates-view-updates = 查看最近更新
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = 自动更新附加组件
     .accesskey = A
 
@@ -312,6 +316,8 @@ release-notes-addon-button = 发行说明
 permissions-addon-button = 权限
 extension-enabled-heading = 已启用
 extension-disabled-heading = 已禁用
+theme-disabled-heading3 =
+    .heading = 保存的主题
 theme-enabled-heading = 已启用
 theme-disabled-heading2 = 保存的主题
 plugin-enabled-heading = 已启用
@@ -426,6 +432,8 @@ addon-permissions-learnmore = 详细了解“权限”
 # the user.
 addon-permissions-managed-by-policy = 部分权限由您的组织管理。
 recommended-extensions-heading = 推荐扩展
+recommended-themes-card-heading =
+    .heading = 推荐主题
 recommended-themes-heading = 推荐主题
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

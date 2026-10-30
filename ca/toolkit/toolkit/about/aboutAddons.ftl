@@ -173,6 +173,10 @@ addon-updates-check-for-updates = Cerca actualitzacions
     .accesskey = C
 addon-updates-view-updates = Visualitza les actualitzacions recents
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Actualitza els complements automàticament
     .accesskey = A
 
@@ -323,6 +327,8 @@ release-notes-addon-button = Notes de la versió
 permissions-addon-button = Permisos
 extension-enabled-heading = Activades
 extension-disabled-heading = Desactivades
+theme-disabled-heading3 =
+    .heading = Temes desats
 theme-enabled-heading = Activat
 theme-disabled-heading2 = Temes desats
 plugin-enabled-heading = Activats
@@ -438,6 +444,8 @@ addon-permissions-learnmore = Més informació sobre els permisos
 # the user.
 addon-permissions-managed-by-policy = Alguns permisos són gestionats per la vostra organització.
 recommended-extensions-heading = Extensions recomanades
+recommended-themes-card-heading =
+    .heading = Temes recomanats
 recommended-themes-heading = Temes recomanats
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

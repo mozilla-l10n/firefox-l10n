@@ -172,6 +172,10 @@ addon-updates-check-for-updates = Periksa Versi Baru
     .accesskey = P
 addon-updates-view-updates = Tampilkan Versi Baru
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Otomatis Perbarui Pengaya
     .accesskey = O
 
@@ -298,6 +302,8 @@ release-notes-addon-button = Catatan Rilis
 permissions-addon-button = Hak Akses
 extension-enabled-heading = Aktif
 extension-disabled-heading = Nonaktif
+theme-disabled-heading3 =
+    .heading = Tema Tersimpan
 theme-enabled-heading = Aktif
 theme-disabled-heading2 = Tema Tersimpan
 plugin-enabled-heading = Aktif
@@ -391,6 +397,8 @@ release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
 addon-permissions-empty2 = Ekstensi ini tidak memerlukan izin apa pun.
 addon-permissions-learnmore = Pelajari lebih lanjut tentang perizinan
 recommended-extensions-heading = Ekstensi yang Disarankan
+recommended-themes-card-heading =
+    .heading = Tema yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
@@ -446,6 +454,34 @@ plugins-openh264-description = Plugin ini diinstal secara otomatis oleh Mozilla 
 plugins-widevine-name = Modul Dekripsi Konten Widevine disediakan oleh Google Inc.
 plugins-widevine-description = Plugin ini memungkinkan pemutaran media terenkripsi sesuai dengan spesifikasi Encrypted Media Extensions. Media terenkripsi biasanya digunakan oleh situs untuk perlindungan terhadap penyalinan konten media premium. Kunjungi https://www.w3.org/TR/encrypted-media/ untuk informasi lebih lanjut tentang Encrypted Media Extensions.
 
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -453,3 +489,6 @@ plugins-widevine-description = Plugin ini memungkinkan pemutaran media terenkrip
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Peranti
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

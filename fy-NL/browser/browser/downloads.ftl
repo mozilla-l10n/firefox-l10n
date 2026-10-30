@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Yn map toane
         }
     .accesskey = o
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Bestân ferpleatst of net oanwêzich
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Bestân fuortsmiten
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Bestân fuortsmiten (Blokkearre)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Unbekende grutte
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,3 +254,78 @@ downloads-error-generic =
     It downloaden bestân kin net bewarre wurde, omdat der in ûnbekende flater bard is.
     
     Probearje it asjebleaft opnij.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Starte…
+downloads-state-failed = Mislearre
+downloads-state-paused = Pauzearre
+downloads-state-canceled = Annulearre
+downloads-state-completed = Foltôge
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blokkearre troch Alderlik tafersjoch
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Dit bestân befettet in firus of malware.
+downloads-blocked-potentially-unwanted = Dit bestân kin skeadlik wêze foar jo kompjûter.
+downloads-blocked-potentially-insecure = Bestân net downloaden: mooglik befeiligingsrisiko.
+downloads-blocked-uncommon = Dit bestân wurdt net faak download.
+downloads-blocked-by-content-analysis = Dit bestân is troch jo organisaasje blokkearre.
+downloads-warned-by-content-analysis = Dizze download is mooglik ûnfeilich en fereasket befêstiging.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Bestân is blokkearre, omdat { $agent } net berikber is.
+downloads-content-analysis-invalid-agent-signature-error = Bestân is blokkearre, omdat { $agent } de ûndertekeningsferifikaasje net trochstien hat.
+downloads-content-analysis-unspecified-error = Bestân is blokkearre fanwegen in flater yn de kommunikaasje mei { $agent }.
+downloads-content-analysis-timeout-error = { $agent } is ferrûn, dus dit bestân is blokkearre.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Binne jo wis dat jo dizze download tastean wolle?
+downloads-unblock-header-open = Binne jo wis dat jo dit bestân iepenje wolle?
+downloads-unblock-type-malware = Dit bestân befettet in firus of oare malware dy’t skeadlik is foar jo kompjûter.
+downloads-unblock-type-potentially-unwanted = Dit bestân is fermomme as in nuttige download, mar it kin ûnferwachte wizigingen yn jo programma’s en ynstellingen oanbringe.
+downloads-unblock-type-content-analysis-warn = Jo organisaasje brûkt software foar it foarkommen fan gegevensferlies dy’t de ynhâld as ûnfeilich markearre hat.
+downloads-unblock-type-uncommon = Dit bestân wurdt net faak download en is mooglik net feilich om te iepenjen. It kin in firus befetsje of ûnferwachte wizigingen yn jo programma’s en ynstellingen oanbringe.
+downloads-unblock-insecure = De download wurdt oanbean fia HTTP, ek al is it aktuele dokumint levere fia in befeilige HTTPS-ferbining. As jo trochgean, kin de download skansearre of manipulearre wurde wylst it downloadproses.
+downloads-unblock-tip = Jo kinne nei in alternative downloadboarne sykje, of it letter opnij probearje.
+downloads-unblock-content-analysis-warn-tip = Jo kinne dizze dochs downloade.
+downloads-unblock-content-analysis-blocked = Jo organisaasje brûkt software foar it foarkommen fan gegevensferlies dy’t dizze download blokkearre hat.
+downloads-unblock-content-analysis-override = Dizze beslissing kin allinnich troch jo organisaasje oerskreaun wurde.
+downloads-unblock-content-analysis-tip = Jo kinne trochgean mei downloaden of annulearje.
+downloads-unblock-button-open =
+    .label = Iepenje
+downloads-unblock-button-unblock =
+    .label = Downloaden tastean
+downloads-unblock-button-confirm-block =
+    .label = Bestân fuortsmite
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

@@ -172,6 +172,10 @@ addon-updates-check-for-updates = Tschertgar actualisaziuns
     .accesskey = T
 addon-updates-view-updates = Mussar las ultimas actualisaziuns
     .accesskey = a
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Actualisar automaticamain ils supplements
     .accesskey = A
 
@@ -308,6 +312,8 @@ release-notes-addon-button = Remartgas davart la versiun
 permissions-addon-button = Autorisaziuns
 extension-enabled-heading = Activà
 extension-disabled-heading = Deactivà
+theme-disabled-heading3 =
+    .heading = Designs memorisads
 theme-enabled-heading = Activà
 theme-disabled-heading2 = Designs memorisads
 plugin-enabled-heading = Activà
@@ -416,6 +422,8 @@ release-notes-error = Perstgisa, ma cun chargiar las remartgas davart la versiun
 addon-permissions-empty2 = Questa extensiun na pretenda naginas permissiuns.
 addon-permissions-learnmore = Vegnir a savair dapli davart permissiuns
 recommended-extensions-heading = Extensiuns recumandadas
+recommended-themes-card-heading =
+    .heading = Designs recumandads
 recommended-themes-heading = Designs recumandads
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
@@ -470,3 +478,38 @@ plugins-openh264-name = Codec da video OpenH264, purschì da Cisco Systems, Inc.
 plugins-openh264-description = Quest plug-in è vegnì installà automaticamain da Mozilla per ademplir la specificaziun da WebRTC e per pussibilitar la videotelefonia da WebRTC cun apparats che basegnan il codec da video H.264. Visita https://www.openh264.org/ per studegiar il code da funtauna dal codec e per emprender dapli davart l'implementaziun.
 plugins-widevine-name = Modul «Widevine Content Decryption», purschì da Google Inc.
 plugins-widevine-description = Quest plug-in pussibilitescha la lectura da medias criptadas tenor la specificaziun Encrypted Media Extensions. Websites utiliseschan per il pli medias criptadas per evitar che products da multimedia mess en vendita vegnian copiads. Visitescha https://www.w3.org/TR/encrypted-media/ per ulteriuras infurmaziuns davart medias criptadas.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

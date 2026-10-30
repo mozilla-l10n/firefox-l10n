@@ -160,6 +160,10 @@ addon-updates-check-for-updates = Kontrolli uuendusi
     .accesskey = o
 addon-updates-view-updates = Vaata hiljutisi uuendusi
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Lisasid uuendatakse automaatselt
     .accesskey = L
 
@@ -280,6 +284,8 @@ release-notes-addon-button = Väljalaskemärkmed
 permissions-addon-button = Õigused
 extension-enabled-heading = Lubatud
 extension-disabled-heading = Keelatud
+theme-disabled-heading3 =
+    .heading = Salvestatud teemad
 theme-enabled-heading = Lubatud
 theme-disabled-heading2 = Salvestatud teemad
 plugin-enabled-heading = Lubatud
@@ -335,6 +341,10 @@ addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu s
 addon-detail-private-browsing-allow = lubatud
 addon-detail-private-browsing-disallow = keelatud
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -351,6 +361,8 @@ release-notes-loading = Laadimine…
 release-notes-error = Vabandust, väljalasketeate laadimisel esines viga.
 addon-permissions-learnmore = Rohkem teavet õiguste kohta
 recommended-extensions-heading = Soovitatavad laiendused
+recommended-themes-card-heading =
+    .heading = Soovitatavad teemad
 recommended-themes-heading = Soovitatavad teemad
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
@@ -399,3 +411,38 @@ plugins-openh264-name = OpenH264 videokoodek (Cisco Systems, Inc.)
 plugins-openh264-description = Selle plugina on Mozilla automaatselt paigaldanud, et tagada ühilduvus WebRTC spetsifikatsiooniga ja võimaldada WebRTC-kõnesid videokoodekit H.264 nõudvate seadmetega. Lisateabe saamiseks ja koodeki lähtekoodiga tutvumiseks külasta aadressi http://www.openh264.org
 plugins-widevine-name = Widevine'i sisu dekrüptimise moodul (Google Inc.)
 plugins-widevine-description = See plugin võimaldab krüptitud meedia esitamist vastavalt krüptitud meediumilaiendite spetsifikatsioonile. Krüptitud meediat kasutavad saidid tavaliselt tasulise sisu kopeerimise eest kaitsmiseks. Rohkem teavet krüptitud meediumilaiendite kohta leiab aadressilt https://www.w3.org/TR/encrypted-media/.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

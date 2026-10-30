@@ -173,6 +173,10 @@ addon-updates-check-for-updates = Caută actualizări
     .accesskey = C
 addon-updates-view-updates = Vezi actualizările recente
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Actualizează automat suplimentele
     .accesskey = A
 
@@ -321,6 +325,8 @@ release-notes-addon-button = Note privind versiunea
 permissions-addon-button = Permisiuni
 extension-enabled-heading = Activate
 extension-disabled-heading = Dezactivate
+theme-disabled-heading3 =
+    .heading = Teme salvate
 theme-enabled-heading = Activate
 theme-disabled-heading2 = Teme salvate
 plugin-enabled-heading = Activate
@@ -437,6 +443,8 @@ addon-permissions-learnmore = Află mai multe despre permisiuni
 # the user.
 addon-permissions-managed-by-policy = Unele permisiuni sunt gestionate de organizația ta.
 recommended-extensions-heading = Extensii recomandate
+recommended-themes-card-heading =
+    .heading = Teme recomandate
 recommended-themes-heading = Teme recomandate
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

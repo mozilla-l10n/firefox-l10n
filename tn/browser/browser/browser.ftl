@@ -429,6 +429,13 @@ popup-show-popup-menuitem =
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Seoketswa kgotsa dioketswa tse di tsentsweng ga di kake tsa kgona go tlhomamisiwa gape ga di dire.
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+
 ## Onboarding Finish Setup checklist
 
 

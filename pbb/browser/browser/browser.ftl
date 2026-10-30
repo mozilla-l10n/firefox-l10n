@@ -366,6 +366,16 @@ popup-show-popup-menuitem =
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Teçx meeçxa thakwe kajãnxisata txiph txa'mee thegya ewumeteh k'çxaçxanximetah nenxu.
+unsigned-addons-disabled-learn-more =
+    .label = Wejx jisa
+    .accesskey = L
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+
 ## Onboarding Finish Setup checklist
 
 

@@ -175,6 +175,10 @@ addon-updates-check-for-updates = 업데이트 확인
     .accesskey = C
 addon-updates-view-updates = 최근 업데이트 보기
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = 부가 기능을 자동으로 업데이트
     .accesskey = A
 
@@ -322,6 +326,8 @@ release-notes-addon-button = 출시 정보
 permissions-addon-button = 권한
 extension-enabled-heading = 사용함
 extension-disabled-heading = 사용 안 함
+theme-disabled-heading3 =
+    .heading = 저장된 테마
 theme-enabled-heading = 사용함
 theme-disabled-heading2 = 저장된 테마
 plugin-enabled-heading = 사용함
@@ -436,6 +442,8 @@ addon-permissions-learnmore = 권한에 대해 더 알아보기
 # the user.
 addon-permissions-managed-by-policy = 일부 권한은 조직에서 관리합니다.
 recommended-extensions-heading = 추천 확장 기능
+recommended-themes-card-heading =
+    .heading = 추천 테마
 recommended-themes-heading = 추천 테마
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

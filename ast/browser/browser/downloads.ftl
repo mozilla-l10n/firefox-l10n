@@ -23,6 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = Encaboxar
 downloads-cmd-cancel-panel =
     .aria-label = Encaboxar
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = El ficheru movióse o desanicióse
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Desconozse'l tamañu
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -131,6 +138,15 @@ downloads-history =
 downloads-details =
     .title = Detalles de la descarga
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
 ##
 
 downloads-clear-downloads-button =
@@ -157,3 +173,60 @@ downloads-error-generic =
     La descarga nun pue guardase porque asocedió un fallu desconocíu.
     
     Volvi tentalo, por favor.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Aniciando…
+downloads-state-failed = Falló
+downloads-state-paused = En posa
+downloads-state-canceled = Encaboxóse
+downloads-state-completed = Completóse
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Esti ficheru contién malware.
+downloads-blocked-potentially-unwanted = Esti ficheru pue dañar l'ordenador.
+downloads-blocked-uncommon = Esti ficheru nun suel baxase.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = ¿De xuru que quies permitir esta descarga?
+downloads-unblock-header-open = ¿De xuru que quies abrir esti ficheru?
+downloads-unblock-type-malware = Esti ficheru contién un virus u otru tipu de malware que daña l'ordenador
+downloads-unblock-type-uncommon = La descarga d'esti ficheru nun ye habitual y pue ser que nun seya seguro abrilu. Pue contener virus o facer cambeos inesperaos nos programes y axustes.
+downloads-unblock-tip = Pues buscar una fonte de desacarga alternativa o volver tentalo dempués.
+downloads-unblock-button-open =
+    .label = Abrir
+downloads-unblock-button-unblock =
+    .label = Permitir la descarga
+downloads-unblock-button-confirm-block =
+    .label = Quitar el ficheru
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

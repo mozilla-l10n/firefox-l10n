@@ -282,6 +282,16 @@ popup-show-popup-menuitem =
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Dá ie aiyo zótaka ráanɨaɨ kɨoyena ie jíra já oni óga.
+unsigned-addons-disabled-learn-more =
+    .label = Aiyo onóde
+    .accesskey = A
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+
 ## Onboarding Finish Setup checklist
 
 

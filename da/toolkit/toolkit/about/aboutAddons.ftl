@@ -180,6 +180,10 @@ addon-updates-check-for-updates = Søg efter opdateringer
     .accesskey = T
 addon-updates-view-updates = Vis seneste opdateringer
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Opdater tilføjelser automatisk
     .accesskey = a
 
@@ -330,6 +334,8 @@ release-notes-addon-button = Udgivelsesnoter
 permissions-addon-button = Tilladelser
 extension-enabled-heading = Aktiveret
 extension-disabled-heading = Deaktiveret
+theme-disabled-heading3 =
+    .heading = Gemte temaer
 theme-enabled-heading = Aktiveret
 theme-disabled-heading2 = Gemte temaer
 plugin-enabled-heading = Aktiveret
@@ -445,6 +451,8 @@ addon-permissions-learnmore = Læs mere om tilladelser
 # the user.
 addon-permissions-managed-by-policy = Nogle tilladelser administreres af din organisation.
 recommended-extensions-heading = Anbefalede udvidelser
+recommended-themes-card-heading =
+    .heading = Anbefalede temaer
 recommended-themes-heading = Anbefalede temaer
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

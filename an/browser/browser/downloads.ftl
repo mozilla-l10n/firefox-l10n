@@ -23,6 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = Cancelar
 downloads-cmd-cancel-panel =
     .aria-label = Cancelar
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = S'ha tresladau lo fichero u no existe
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Mida desconoixida
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -131,6 +138,15 @@ downloads-history =
 downloads-details =
     .title = Detalles d'as descargas
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
 ##
 
 downloads-clear-downloads-button =
@@ -157,3 +173,66 @@ downloads-error-generic =
     No se puede alzar a descarga porque s'ha produciu una error desconoixida.
     
     Por favor, torne-lo a prebar.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Empecipiando…
+downloads-state-failed = Ha fallau
+downloads-state-paused = Ye pausau
+downloads-state-canceled = S'ha cancelau
+downloads-state-completed = Completau
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Os Controls Parentals l'ha blocau
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Iste fichero contién un virus u software dolent.
+downloads-blocked-potentially-unwanted = Iste fichero podría danyar o suyo ordinador.
+downloads-blocked-potentially-insecure = No s'ha baixau lo fichero: risgo potencial de seguridat.
+downloads-blocked-uncommon = Iste fichero no se gosa descargar a sobén.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Ye seguro que quiere permitir ista descarga?
+downloads-unblock-header-open = Ye seguro que quiere ubrir iste fichero?
+downloads-unblock-type-malware = Iste fichero contién un virus u atro software dolent que puede danyar o suyo ordinador.
+downloads-unblock-type-potentially-unwanted = Iste fichero, esvrazau como una baixada util, puede producir cambios inasperaus a los suyos programas y achustes.
+downloads-unblock-type-uncommon = Iste fichero no gosa estar descargau a sobén y ubrir-lo podría no estar seguro. Puede contener un virus u fer cambios inasperaus en os suyos programas u achustes.
+downloads-unblock-tip = Puet mirar una fuent alternativa de descarga u tornar a intentar-lo dimpués de nuevas.
+downloads-unblock-button-open =
+    .label = Ubrir
+downloads-unblock-button-unblock =
+    .label = Permitir descarga
+downloads-unblock-button-confirm-block =
+    .label = Eliminar fichero
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

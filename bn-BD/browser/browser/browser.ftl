@@ -592,6 +592,18 @@ popup-show-popup-menuitem =
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = একটা বা তার বেশি অ্যাড-অন যাচাই করা যাবে না এবং নিষ্ক্রিয় করে দেওয়া হয়েছে।
+unsigned-addons-disabled-learn-more =
+    .label = আরও জানুন L
+    .accesskey = L
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-addon-learn-more =
+    .value = আরও জানুন
+
 ## Onboarding Finish Setup checklist
 
 

@@ -35,6 +35,13 @@ downloads-cmd-show-menuitem-2 =
            *[other] അറയിൽ കാണിക്കുക
         }
     .accesskey = ക
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ഫയൽ ഇവിടുന്നു മാറ്റിയിരിക്കുന്നു അല്ലെങ്കിൽ കാണുന്നില്ല
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = അപരിചിതമായ വ്യാപ്തി
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -238,3 +245,65 @@ downloads-error-generic =
     അറിയപ്പെടാത്ത പിഴവുകാരണം ഈ ഇറക്കിവയ്ക്കലിനെ കരുതിവയ്ക്കാൻ പറ്റിയില്ല
     
     ദയവായി പിന്നെയും ശ്രമിക്കുക
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = ആരംഭിയ്ക്കുന്നു…
+downloads-state-failed = പരാജയപ്പെട്ടു
+downloads-state-paused = തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തിയിരിയ്ക്കുന്നു
+downloads-state-canceled = റദ്ദാക്കിയിരിയ്ക്കുന്നു
+downloads-state-completed = പൂർത്തിയായി
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = പേരന്റ് നിയന്ത്രണങ്ങള്‍ തടഞ്ഞിരിയ്ക്കുന്നു
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ഈ ഫയലില്‍ ഒരു വൈറസോ മാല്‍വെയറോ ഉണ്ട്.
+downloads-blocked-potentially-unwanted = ഈ ഫയല്‍ നിങ്ങളുടെ കമ്പ്യൂട്ടറിനു് പ്രശ്നമുണ്ടാക്കാം.
+downloads-blocked-uncommon = ഈ ഫയൽ സാധാരണയായി ഇറക്കിവയ്ക്കാറില്ല.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = ഈ ഡൗണ്‍ലോഡ് അനുവദിക്കണമെന്ന് ഉറപ്പാണോ?
+downloads-unblock-header-open = ഈ ഫയല്‍ തുറക്കണം എന്ന്‌ ഉറപ്പാണോ?
+downloads-unblock-type-malware = കമ്പ്യൂട്ടറിനെ ബാധിയ്ക്കുന്നൊരു വൈറസോ മാല്‍വെയറോ ഈ ഫയലിലുണ്ടു്.
+downloads-unblock-type-potentially-unwanted = ശരിയായ ഡൌണ്‍ലോഡ് എന്നു് കരുതപ്പെടുന്ന ഈ ഫയല്‍, നിങ്ങളുടെ പ്രോഗ്രാമുകള്‍ക്കും സജ്ജീകരണങ്ങള്‍ക്കും അപ്രതീക്ഷിത മാറ്റങ്ങളുണ്ടാക്കിയേക്കും.
+downloads-unblock-type-uncommon = ഈ ഫയൽ സാധാരണയായി ഡൌൺലോഡ് ചെയ്യാറില്ല, കൂടാതെ തുറക്കാൻ സുരക്ഷിതമല്ലാത്തതാവാം. ഇതിൽ ഒരു വൈറസ് അടങ്ങിയിരിക്കാം അല്ലെങ്കിൽ നിങ്ങളുടെ പ്രോഗ്രാമുകൾക്കും ക്രമീകരണങ്ങൾക്കും അപ്രതീക്ഷിത മാറ്റങ്ങൾ വരുത്താം.
+downloads-unblock-tip = നിങ്ങൾക്ക് ഒരു ഇതര ഡൗൺലോഡ് ഉറവിടത്തിനായി തിരയുകയോ പിന്നീട് വീണ്ടും ശ്രമിക്കുകയോ ചെയ്യാം.
+downloads-unblock-button-open =
+    .label = തുറക്കുക
+downloads-unblock-button-unblock =
+    .label = ഡൌൺലോഡ് അനുവദിക്കുക
+downloads-unblock-button-confirm-block =
+    .label = ഫയൽ നീക്കംചെയ്യുക
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

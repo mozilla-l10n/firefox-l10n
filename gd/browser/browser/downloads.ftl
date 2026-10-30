@@ -35,6 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Seall san lorgaire
         }
     .accesskey = S
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Chaidh am faidhle a ghluasad no tha e a dhìth
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Chaidh am faidhle a sguabadh às
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Chan eil fhios dè cho mòr 's a tha e
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -238,3 +248,67 @@ downloads-error-generic =
     Cha ghabh an luchdadh a-nuas a shàbhaladh a chionn 's gun do thachair mearachd neo-aithniche.
     
     Feuch ris a-rithist.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = A' tòiseachadh…
+downloads-state-failed = Dh'fhàillig e
+downloads-state-paused = 'Na stad
+downloads-state-canceled = Air a sgur dheth
+downloads-state-completed = Deiseil
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Chaidh casg a chur air le smachd nam pàrant
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Tha bìoras no bathar droch-rùnach san fhaidhle seo.
+downloads-blocked-potentially-unwanted = Dh'fhaoidte gun dèan am faidhle seo cron air a' choimpiutair agad.
+downloads-blocked-potentially-insecure = Cha deach am faidhle a luchdadh a-nuas ri linn amharas air cunnart tèarainteachd.
+downloads-blocked-uncommon = Cha luchdaichear a-nuas am faidhle seo gu tric.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = A bheil thu cinnteach gu bheil thu airson an luchdadh a-nuas seo a cheadachadh?
+downloads-unblock-header-open = A bheil thu cinnteach gu bheil thu airson am faidhle seo fhosgladh?
+downloads-unblock-type-malware = Tha bìoras no bathar droch-rùnach san fhaidhle seo a nì cron air a' choimpiutair agad.
+downloads-unblock-type-potentially-unwanted = Tha am faidhle seo a’ leigeil air gur e rud feumail a tha ann ach atharraichidh e na prògraman is roghainnean agad air dòighean ris nach robh dùil.
+downloads-unblock-type-uncommon = Cha luchdaichear a-nuas am faidhle seo gu tric agus dh’fhaoidte nach eil e sàbhailte fhosgladh. Tha teans gum bi bìoras ann no gun atharraich e na prògraman is roghainnean agad air dòigh nach iarradh tu.
+downloads-unblock-insecure = Rachadh seo a luchdadh a-nuas air HTTP ged a chaidh an sgrìobhainn làithreach a lìbhrigeadh air ceangal tèarainte HTTPS. Ma leanas tu air adhart, dh’fhaoidte gum bi na thèid a luchdadh a-nuas coirbte no gum beanadh cuid-eigin ris is e ga luchdadh a-nuas.
+downloads-unblock-tip = Dh’fhaoidte gu bheil àite eile ann far an urrainn dhut a luchdadh a-nuas no feuch ris a-rithist an ceann greis.
+downloads-unblock-button-open =
+    .label = Fosgail
+downloads-unblock-button-unblock =
+    .label = Ceadaich a luchdadh a-nuas
+downloads-unblock-button-confirm-block =
+    .label = Thoir am faidhle air falbh
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

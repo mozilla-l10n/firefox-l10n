@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] W rjadowaku pokazać
         }
     .accesskey = d
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Dataja je so přesunyła abo faluje
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Dataja je so zhašała
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Dataja je zaćisnjena (zablokowana)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Njeznata wulkosć
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -245,3 +258,78 @@ downloads-error-generic =
     Sćehnjenje njeda so składować, dokelž njeznaty zmylk je wustupił.
     
     Prošu spytajće hišće raz.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Startuje so…
+downloads-state-failed = Njeporadźiło
+downloads-state-paused = Zastajeny
+downloads-state-canceled = Přetorhnjeny
+downloads-state-completed = Dokónčeny
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Přez Staršisku kontrolu zablokowany
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = Tuta dataja wirus abo złóstnu softwaru wobsahuje.
+downloads-blocked-potentially-unwanted = Tuta dataja móhła waš ličak poškodźić.
+downloads-blocked-potentially-insecure = Dataja njeje so sćahnyła: Potencielne wěstotne riziko.
+downloads-blocked-uncommon = Tuta dataja so w normalnym padźe njesćahuje.
+downloads-blocked-by-content-analysis = Dataja je so wot wašeje organizacije zablokowała.
+downloads-warned-by-content-analysis = Tute sćehnjenje je snano njewěste a wužaduje sej wobkrućenje.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Dataja je so zablokowała, dokelž { $agent } docpějomny njeje.
+downloads-content-analysis-invalid-agent-signature-error = Dataja je so zablokowała, dokelž přepruwowanje signatury { $agent } je so nimokuliło.
+downloads-content-analysis-unspecified-error = Dataja je so zablokowała, zmylka w komunikaciji z { $agent } dla.
+downloads-content-analysis-timeout-error = { $agent } je čas překročił, tohodla je so dataja zablokowała.
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Chceće woprawdźe tute sćehnjenje dowolić?
+downloads-unblock-header-open = Chceće woprawdźe tutu dataju wočinić?
+downloads-unblock-type-malware = Tuta dataja wirus abo druhu złóstnu softwaru wobsahuje, kotraž waš ličak poškodźi.
+downloads-unblock-type-potentially-unwanted = Tuta dataja je jako wužitne sćehnjenje starnowana, móže njewočakowane změny na wašich programach a nastajenjach přewjesć.
+downloads-unblock-type-content-analysis-warn = Waša organizacija software přećiwo straće datow wužiwa, kotraž je tutón wobsah jako njewěsty markěrowała.
+downloads-unblock-type-uncommon = Tuta dataja so zwjetša njesćahuje a móhło njewěste być, ju wočinić. Wona móhła wirus wobsahować abo njewočakowane změny na wašich programach a nastajenjach přewjesć.
+downloads-unblock-insecure = Sćehnjenje so přez HTTP poskići, hačrunjež aktualny dokument je so přez wěsty HTTPS-zwisk k dispoziciji stajił. Jeli pokročujeće, móže so sćehnjenje w sćahowanskim procesu wobškodźić abo manipulować.
+downloads-unblock-tip = Móžeće alternatiwne sćehnjenske žórło pytać abo dataju pozdźišo hišće raz sćahnyć.
+downloads-unblock-content-analysis-warn-tip = Móžeće ju najebać to sćahnyć.
+downloads-unblock-content-analysis-blocked = Waša organizacija software přećiwo straće datow wužiwa, kotraž je tute sćehnjenje zablokowała.
+downloads-unblock-content-analysis-override = Tutón rozsud da so jenož wot wašeje organizacije přepisać.
+downloads-unblock-content-analysis-tip = Móžeće z swojim sćehnjenjom pokročować abo jo přetorhnyć.
+downloads-unblock-button-open =
+    .label = Wočinić
+downloads-unblock-button-unblock =
+    .label = Sćehnjenje dowolić
+downloads-unblock-button-confirm-block =
+    .label = Dataju wotstronić
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }

@@ -24,6 +24,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Stiùirich roghainnean phriob-uinneagan is ath-stiùireadh le treas-phàrtaidhean…
     .accesskey = S
+
+##
+
 urlbar-identity-button =
     .aria-label = Seall fiosrachadh na làraich-lìn
 
@@ -492,6 +495,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -665,6 +671,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsairichte
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Faighnich
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -803,6 +814,9 @@ urlbar-result-action-switch-to-tabgroup = Leum gu { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Fosgail { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -1121,6 +1135,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1167,6 +1184,13 @@ restore-session-startup-suggestion-button = Seall dhomh mar a nì mi seo
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Bhac am buidheann agad cothrom air faidhlichean ionadail air a’ choimpiutair seo
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1231,6 +1255,10 @@ reset-pbm-panel-cancel-button =
     .label = Sguir dheth
     .accesskey = S
 reset-pbm-panel-complete = Chaidh dàta an t-seisein phrìobhaidich a sguabadh às
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1336,9 +1364,39 @@ file-picker-crashed-open = Thuislich  còmhradh faidhle Windows. Cha b’ urrain
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Thuislich còmhradh faidhle Windows. Thèid am faidhle a shàbhaladh an-seo: { $path }.
 file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’fhuair sinn lorg air pasgan bunaiteach; cha tèid am faidhle a shàbhaladh.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Bha co-dhiù aon tuilleadan ann nach deach a dhearbhadh agus chaidh an cur à comas.
+unsigned-addons-disabled-learn-more =
+    .label = Barrachd fiosrachaidh
+    .accesskey = r
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Tha an duilleag seo a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an duilleag sin.
+process-hang-nonspecific-tab-message = Tha duilleag-lìn a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an duilleag ud.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = Tha “{ $title }” a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an duilleag ud.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = Tha “{ $addonName }” a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an leudachan sin.
+process-hang-addon-learn-more =
+    .value = Barrachd fiosrachaidh
+process-hang-stop-button =
+    .label = Cuir stad air
+    .accesskey = s
 
 ## Onboarding Finish Setup checklist
 
@@ -1388,6 +1446,9 @@ trustpanel-blocker-see-all = Seall na h-uile
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Dìon o thracadh airson { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1511,3 +1572,6 @@ trustpanel-blocker-section-header2 =
         [few] Chaidh <span data-l10n-name="count">{ $count }</span> tracaichean a bhacadh air an làrach seo
        *[other] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
