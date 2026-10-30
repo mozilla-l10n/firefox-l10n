@@ -893,6 +893,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Niy szło zweryfikować jednego abo poru rozszyrzyń, bez co sōm zastawiōne.
+unsigned-addons-disabled-learn-more =
+    .label = Przewiydz sie wiyncyj
+    .accesskey = P
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
