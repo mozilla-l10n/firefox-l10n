@@ -949,6 +949,11 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-addon-learn-more =
+    .value = තව දැනගන්න
+process-hang-stop-button =
+    .label = නවතන්න
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
