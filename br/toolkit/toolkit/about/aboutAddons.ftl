@@ -384,6 +384,8 @@ release-notes-loading = O kargañ…
 release-notes-error = Digarezit, degouezhet ez eus bet ur fazi en ur bellgargañ an notennoù handelv.
 addon-permissions-learnmore = Gouzout hiroc’h a-zivout an aotreoù
 recommended-extensions-heading = Astennoù erbedet
+recommended-themes-card-heading =
+    .heading = Temoù erbedet
 recommended-themes-heading = Temoù erbedet
 
 ## Page headings
