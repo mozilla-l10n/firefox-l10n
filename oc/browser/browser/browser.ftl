@@ -1058,11 +1058,26 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Un o mai moduls installats an pas pogut èsser verificats e foguèron doncas desactivats.
+unsigned-addons-disabled-learn-more =
+    .label = Ne saber mai
+    .accesskey = s
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Aquesta pagina alentís { -brand-short-name }. Per accelerar vòstre navegador, arrestatz aquesta pagina.
+process-hang-nonspecific-tab-message = Una pagina web alentís { -brand-short-name }. Per accelerar vòstre navegador, arrestatz aquela pagina.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = « { $title } » alentís { -brand-short-name }. Per accelerar vòstre navegador, arrestatz aquesta pagina.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = « { $addonName } » alentís { -brand-short-name }. Per accelerar vòstre navegador, arrestatz aquesta extension.
 process-hang-addon-learn-more =
     .value = Ne saber mai
+process-hang-stop-button =
+    .label = Arrestar
+    .accesskey = A
 
 ## Onboarding Finish Setup checklist
 
