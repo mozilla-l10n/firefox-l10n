@@ -39,6 +39,9 @@ downloads-cmd-show-menuitem-2 =
             [macos] F
            *[other] l
         }
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Soubor byl smazán
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
