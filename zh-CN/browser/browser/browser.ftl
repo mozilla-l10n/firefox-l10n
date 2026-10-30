@@ -1543,6 +1543,11 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = 此网页拖慢了您的 { -brand-short-name }。可停止此页面，恢复浏览速度。
+process-hang-nonspecific-tab-message = 有一网页拖慢了您的 { -brand-short-name }。可停止该页面，恢复浏览速度。
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }”拖慢了您的 { -brand-short-name }。可停止该页面，恢复浏览速度。
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }”拖慢了您的 { -brand-short-name }。可停止该扩展，恢复浏览速度。
