@@ -1559,6 +1559,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Неможливо перевірити один або більше встановлених додатків, тому їх було вимкнено.
+unsigned-addons-disabled-learn-more =
+    .label = Докладніше
+    .accesskey = к
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
