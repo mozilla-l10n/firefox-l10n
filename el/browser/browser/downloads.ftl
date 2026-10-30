@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Εμφάνιση στον φάκελο
         }
     .accesskey = φ
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Το αρχείο μετακινήθηκε ή λείπει
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Το αρχείο διαγράφηκε
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Το αρχείο απορρίφθηκε (αποκλείστηκε)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Άγνωστο μέγεθος
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +258,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Εκκίνηση…
+downloads-state-failed = Απέτυχε
+downloads-state-paused = Σε παύση
+downloads-state-canceled = Ακυρώθηκε
 downloads-state-completed = Ολοκληρώθηκε
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -261,12 +275,18 @@ downloads-blocked-malware = Αυτό το αρχείο περιέχει ιό ή 
 downloads-blocked-potentially-unwanted = Αυτό το αρχείο ενδέχεται να βλάψει τον υπολογιστή σας.
 downloads-blocked-potentially-insecure = Δεν έγινε λήψη του αρχείου: Πιθανός κίνδυνος ασφαλείας.
 downloads-blocked-uncommon = Δεν γίνεται συχνά λήψη αυτού του αρχείου.
+downloads-blocked-by-content-analysis = Αυτό το αρχείο αποκλείστηκε από τον οργανισμό σας.
+downloads-warned-by-content-analysis = Αυτή η λήψη ενδέχεται να μην είναι ασφαλής και απαιτεί επιβεβαίωση.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Το αρχείο αποκλείστηκε επειδή το { $agent } δεν είναι προσβάσιμο.
+downloads-content-analysis-invalid-agent-signature-error = Το αρχείο αποκλείστηκε επειδή η επαλήθευση της υπογραφής του { $agent } απέτυχε.
+downloads-content-analysis-unspecified-error = Το αρχείο αποκλείστηκε λόγω ενός σφάλματος στην επικοινωνία με το { $agent }.
+downloads-content-analysis-timeout-error = Το χρονικό όριο του { $agent } έληξε, επομένως αυτό το αρχείο αποκλείστηκε.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -274,6 +294,24 @@ downloads-blocked-uncommon = Δεν γίνεται συχνά λήψη αυτο�
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Θέλετε σίγουρα να επιτρέψετε αυτήν τη λήψη;
+downloads-unblock-header-open = Θέλετε σίγουρα να ανοίξετε αυτό το αρχείο;
+downloads-unblock-type-malware = Αυτό το αρχείο περιέχει ιό ή άλλο κακόβουλο λογισμικό που ενδέχεται να βλάψει τον υπολογιστή σας.
+downloads-unblock-type-potentially-unwanted = Το αρχείο είναι μεταμφιεσμένο ως χρήσιμο, αλλά μπορεί να προκαλέσει μη αναμενόμενες αλλαγές στα προγράμματα και τις ρυθμίσεις σας.
+downloads-unblock-type-content-analysis-warn = Ο οργανισμός σας χρησιμοποιεί λογισμικό πρόληψης απώλειας δεδομένων που έχει επισημάνει αυτό το περιεχόμενο ως μη ασφαλές.
+downloads-unblock-type-uncommon = Δεν γίνεται συχνά λήψη αυτού του αρχείου και μπορεί να μην είναι ασφαλές για άνοιγμα. Ενδέχεται να περιέχει ιό ή να προκαλέσει μη αναμενόμενες αλλαγές στα προγράμματα και τις ρυθμίσεις σας.
+downloads-unblock-insecure = Η λήψη προσφέρεται μέσω HTTP, παρόλο που το τρέχον έγγραφο παραδόθηκε μέσω ασφαλούς σύνδεσης HTTPS. Εάν συνεχίσετε, η λήψη ενδέχεται να καταστραφεί ή να παραποιηθεί κατά τη διαδικασία λήψης.
+downloads-unblock-tip = Μπορείτε να αναζητήσετε μια εναλλακτική πηγή λήψης ή να δοκιμάσετε ξανά αργότερα.
+downloads-unblock-content-analysis-warn-tip = Μπορείτε να επιλέξετε να κάνετε λήψη ούτως ή άλλως.
+downloads-unblock-content-analysis-blocked = Ο οργανισμός σας χρησιμοποιεί λογισμικό πρόληψης απώλειας δεδομένων που έχει αποκλείσει αυτήν τη λήψη.
+downloads-unblock-content-analysis-override = Αυτή η απόφαση μπορεί να παρακαμφθεί μόνο από τον οργανισμό σας.
+downloads-unblock-content-analysis-tip = Μπορείτε να συνεχίσετε τη λήψη σας ή να την ακυρώσετε.
+downloads-unblock-button-open =
+    .label = Άνοιγμα
+downloads-unblock-button-unblock =
+    .label = Αποδοχή λήψης
+downloads-unblock-button-confirm-block =
+    .label = Διαγραφή αρχείου
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -289,3 +327,5 @@ downloads-blocked-uncommon = Δεν γίνεται συχνά λήψη αυτο�
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
