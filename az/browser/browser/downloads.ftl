@@ -30,6 +30,8 @@ downloads-cmd-show-menuitem-2 =
            *[other] Qovluqda göstər
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Fayl daşınıb və ya yoxdur
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -214,6 +216,9 @@ downloads-state-blocked-parental-controls = Valideyn nəzarəti tərəfindən bl
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Bu faylda virus və ya zərərli proqram var.
+downloads-blocked-potentially-unwanted = Bu fayl kompüterinizə ziyan verə bilər.
+downloads-blocked-uncommon = Bu fayl indiyə qədər çox endirilməyib.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
