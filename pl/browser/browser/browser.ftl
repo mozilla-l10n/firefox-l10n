@@ -1472,6 +1472,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Czy wyczyścić dane i rozpocząć nową sesję prywatną?
+reset-pbm-panel-description3 = Spowoduje to wyczyszczenie historii i ciasteczek oraz wylogowanie z witryn. Obecne prywatne okna zostaną zamknięte, a następnie otworzy się nowe.
 reset-pbm-panel-description2 = Spowoduje to usunięcie historii, ciasteczek i wszystkich innych danych witryn bez zamykania okna prywatnego.
 reset-pbm-panel-always-ask-checkbox =
     .label = Pytaj za każdym razem
@@ -1507,6 +1508,9 @@ fire-button-panel-confirm-button =
     .label = Usuń wszystko
     .accesskey = U
 fire-button-panel-complete = Usunięto dane przeglądania
+fire-button-toolbar-button2 =
+    .label = Usuń wybrane lub wszystkie dane
+    .tooltiptext = Usuń wybrane lub wszystkie dane przeglądania
 
 ## Autorefresh blocker
 
