@@ -425,6 +425,8 @@ addon-permissions-required-label = Nauðsynlegt:
 addon-permissions-optional-label = Valkvætt:
 addon-permissions-learnmore = Frekari upplýsingar um heimildir
 recommended-extensions-heading = Forritsaukar sem mælt er með
+recommended-themes-card-heading =
+    .heading = Þemu sem mælt er með
 recommended-themes-heading = Þemu sem mælt er með
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
