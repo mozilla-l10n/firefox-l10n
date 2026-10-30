@@ -145,6 +145,9 @@ permissions-site-notification-disable-desc = Isso impede que qualquer site solic
 # Shown only where notifications can be delivered while the browser is closed.
 permissions-site-notification-closed-delivery-label =
     .label = Permitir notificações de sites quando o { -brand-short-name } estiver fechado
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Também se aplicam as configurações de notificações do sistema operacional.
 
 ## Site Permissions - Location
 

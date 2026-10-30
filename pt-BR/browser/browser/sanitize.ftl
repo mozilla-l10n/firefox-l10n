@@ -63,6 +63,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Histórico
+item-history-and-downloads2 =
+    .label = Histórico de navegação e de downloads
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Lista de sites visitados e arquivos baixados
 item-history-and-downloads =
     .label = Histórico de navegação e downloads
     .accesskey = H
@@ -89,6 +94,17 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Arquivos temporários ({ $amount } { $unit })
+    .accesskey = v
+item-cached-content2 =
+    .label = Arquivos temporários
+    .accesskey = v
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Ajuda a carregar sites mais rápido
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Cache temporário de arquivos e páginas ({ $amount } { $unit })
     .accesskey = C
@@ -105,6 +121,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Informações salvas de formulários
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nomes, emails e campos de formulários
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Permissões e preferências de sites
 item-formdata-description = Limpa coisas como nomes, emails e outros itens preenchidos em formulários
 item-site-prefs-description = Redefine suas permissões e preferências de sites para a configuração original
 data-section-label = Dados
@@ -114,6 +134,7 @@ item-site-settings =
 item-offline-apps =
     .label = Dados offline de sites
     .accesskey = n
+sanitize-everything-undo-warning2 = Isto não pode ser desfeito.
 sanitize-everything-undo-warning = Esta ação não pode ser desfeita.
 window-close =
     .key = W
