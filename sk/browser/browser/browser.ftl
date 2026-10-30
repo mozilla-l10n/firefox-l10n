@@ -1646,6 +1646,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Jeden alebo viac doplnkov nebolo možné overiť a preto boli zakázané.
+unsigned-addons-disabled-learn-more =
+    .label = Ďalšie informácie
+    .accesskey = a
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1657,6 +1661,8 @@ process-hang-specific-tab-message = Stránka “{ $title }” spomaľuje { -bran
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = Rozšírenie “{ $addonName }” spomaľuje { -brand-short-name }. Ak chcete svoj prehliadač zrýchliť, zastavte dané rozšírenie.
+process-hang-addon-learn-more =
+    .value = Ďalšie informácie
 process-hang-stop-button =
     .label = Zastaviť
     .accesskey = Z
