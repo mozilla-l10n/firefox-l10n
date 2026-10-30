@@ -445,6 +445,8 @@ addon-permissions-required-label = Obligatoris:
 addon-permissions-optional-label = Facoltatîfs:
 addon-permissions-learnmore = Plui informazions sui permès
 recommended-extensions-heading = Estensions conseadis
+recommended-themes-card-heading =
+    .heading = Temis conseâts
 recommended-themes-heading = Temis conseâts
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
