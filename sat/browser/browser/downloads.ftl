@@ -35,6 +35,11 @@ downloads-cmd-show-menuitem-2 =
            *[other] ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ᱨᱮᱫᱽ ᱩᱪᱟᱹᱲ ᱮᱱᱟ ᱥᱮ ᱟᱫ ᱜᱮᱭᱟ
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = ᱨᱮᱫ ᱢᱮᱴᱟᱣ ᱮᱱᱟ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -247,6 +252,10 @@ downloads-state-blocked-parental-controls = ᱡᱟᱨ ᱠᱚᱵᱚᱡ ᱠᱚ ᱫ
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = ᱱᱚᱶᱟ ᱨᱮᱫ ᱨᱮ ᱵᱷᱟᱭᱨᱚᱥ ᱥᱮ ᱢᱟᱞᱣᱮᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+downloads-blocked-potentially-unwanted = ᱱᱚᱶᱟ ᱨᱮᱫ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱜᱷᱟᱛᱚᱠ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+downloads-blocked-potentially-insecure = ᱨᱮᱫ ᱵᱟᱭ ᱰᱟᱣᱱᱞᱚᱰ ᱟᱠᱟᱱᱟ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱤᱥᱠ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+downloads-blocked-uncommon = ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱫᱚ ᱵᱟᱭ ᱰᱟᱣᱱᱞᱚᱰᱚᱜᱼᱟ ᱾
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
