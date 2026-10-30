@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = Chaidh am faidhle a ghluasad no tha e a dhìth
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Chaidh am faidhle a sguabadh às
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Chan eil fhios dè cho mòr 's a tha e
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -247,6 +252,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = A' tòiseachadh…
+downloads-state-failed = Dh'fhàillig e
+downloads-state-paused = 'Na stad
+downloads-state-canceled = Air a sgur dheth
 downloads-state-completed = Deiseil
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -273,6 +282,19 @@ downloads-blocked-uncommon = Cha luchdaichear a-nuas am faidhle seo gu tric.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = A bheil thu cinnteach gu bheil thu airson an luchdadh a-nuas seo a cheadachadh?
+downloads-unblock-header-open = A bheil thu cinnteach gu bheil thu airson am faidhle seo fhosgladh?
+downloads-unblock-type-malware = Tha bìoras no bathar droch-rùnach san fhaidhle seo a nì cron air a' choimpiutair agad.
+downloads-unblock-type-potentially-unwanted = Tha am faidhle seo a’ leigeil air gur e rud feumail a tha ann ach atharraichidh e na prògraman is roghainnean agad air dòighean ris nach robh dùil.
+downloads-unblock-type-uncommon = Cha luchdaichear a-nuas am faidhle seo gu tric agus dh’fhaoidte nach eil e sàbhailte fhosgladh. Tha teans gum bi bìoras ann no gun atharraich e na prògraman is roghainnean agad air dòigh nach iarradh tu.
+downloads-unblock-insecure = Rachadh seo a luchdadh a-nuas air HTTP ged a chaidh an sgrìobhainn làithreach a lìbhrigeadh air ceangal tèarainte HTTPS. Ma leanas tu air adhart, dh’fhaoidte gum bi na thèid a luchdadh a-nuas coirbte no gum beanadh cuid-eigin ris is e ga luchdadh a-nuas.
+downloads-unblock-tip = Dh’fhaoidte gu bheil àite eile ann far an urrainn dhut a luchdadh a-nuas no feuch ris a-rithist an ceann greis.
+downloads-unblock-button-open =
+    .label = Fosgail
+downloads-unblock-button-unblock =
+    .label = Ceadaich a luchdadh a-nuas
+downloads-unblock-button-confirm-block =
+    .label = Thoir am faidhle air falbh
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -288,3 +310,5 @@ downloads-blocked-uncommon = Cha luchdaichear a-nuas am faidhle seo gu tric.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
