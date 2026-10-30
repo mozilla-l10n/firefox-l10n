@@ -357,6 +357,8 @@ release-notes-loading = පූරණය වෙමින්…
 release-notes-error = කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.
 addon-permissions-learnmore = අවසර ගැන තව දැනගන්න
 recommended-extensions-heading = නිර්දේශිත දිගු
+recommended-themes-card-heading =
+    .heading = නිර්දේශිත තේමා
 recommended-themes-heading = නිර්දේශිත තේමා
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
