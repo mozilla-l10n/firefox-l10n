@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Buscar actualizaciones
     .accesskey = B
 addon-updates-view-updates = Ver actualizaciones recientes
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Actualizar complementos automáticamente
     .accesskey = A
 
@@ -324,6 +328,8 @@ release-notes-addon-button = Notas de la versión
 permissions-addon-button = Permisos
 extension-enabled-heading = Habilitado
 extension-disabled-heading = Deshabilitado
+theme-disabled-heading3 =
+    .heading = Temas guardados
 theme-enabled-heading = Habilitado
 theme-disabled-heading2 = Temas guardados
 plugin-enabled-heading = Habilitado
@@ -545,3 +551,31 @@ mlmodel-addon-detail-used-by-label = Usado por
 mlmodel-addon-detail-model-card = Ficha del modelo
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Ver en Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
