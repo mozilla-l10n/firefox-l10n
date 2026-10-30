@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = …ਸਾਂਝਾ ਕਰੋ
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
 
@@ -757,6 +760,11 @@ urlbar-result-weather-title-city-only = { $city } ਵਿਖੇ <strong>{ $temper
 urlbar-result-weather-provider-sponsored = { $provider } · ਸਪੌਂਸਰ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = ਪੁੱਛੋ
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1333,6 +1341,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1593,9 +1604,27 @@ file-picker-crashed-open = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਫਾਇਲ ਨੂੰ { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
 file-picker-crashed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਕੋਈ ਮੂਲ ਫੋਲਡਰ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ; ਫਾਇਲ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
     .accessKey = F
+
+## Unsigned add-ons notification
+
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = ਇਸ ਸਫ਼ਾ { -brand-short-name } ਨੂੰ ਹੌਲੀ ਕਰ ਰਿਹਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੇਜ਼ ਕਰਨ ਲਈ ਇਸ ਸਫ਼ੇ ਨੂੰ ਰੋਕੋ।
+process-hang-nonspecific-tab-message = ਵੈੱਬ ਸਫ਼ਾ { -brand-short-name } ਨੂੰ ਹੌਲੀ ਕਰ ਰਿਹਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੇਜ਼ ਕਰਨ ਲਈ ਉਸ ਸਫ਼ੇ ਨੂੰ ਰੋਕੋ।
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }”  { -brand-short-name } ਨੂੰ ਹੌਲੀ ਕਰ ਰਿਹਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੇਜ਼ ਕਰਨ ਲਈ ਉਸ ਸਫ਼ੇ ਨੂੰ ਰੋਕੋ।
 
 ## Onboarding Finish Setup checklist
 
@@ -1645,6 +1674,9 @@ trustpanel-blocker-see-all = ਸਾਰੇ ਵੇਖੋ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
