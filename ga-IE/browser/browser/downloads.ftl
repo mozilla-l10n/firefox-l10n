@@ -30,6 +30,8 @@ downloads-cmd-show-menuitem-2 =
            *[other] Taispeáin san Fhillteán
         }
     .accesskey = T
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Comhad bogtha nó ar iarraidh
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -171,6 +173,9 @@ downloads-state-blocked-parental-controls = Coiscthe ag na Rialúcháin Tuismith
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Tá víreas nó bogearraí mailíseacha sa chomhad seo.
+downloads-blocked-potentially-unwanted = Seans go ndéanfadh an comhad seo dochar do do ríomhaire.
+downloads-blocked-uncommon = Ní íoslódáiltear an comhad seo go minic.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
