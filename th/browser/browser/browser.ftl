@@ -1488,8 +1488,19 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = หน้านี้กำลังทำให้ { -brand-short-name } ทำงานช้า เมื่อต้องการเร่งความเร็วเบราว์เซอร์ของคุณ ให้หยุดการทำงานของหน้านี้
+process-hang-nonspecific-tab-message = หน้าเว็บกำลังทำให้ { -brand-short-name } ทำงานช้า เมื่อต้องการเร่งความเร็วเบราว์เซอร์ของคุณ ให้หยุดการทำงานของหน้านั้น
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” กำลังทำให้ { -brand-short-name } ทำงานช้า เมื่อต้องการเร่งความเร็วเบราว์เซอร์ของคุณ ให้หยุดการทำงานของหน้านั้น
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” กำลังทำให้ { -brand-short-name } ทำงานช้า เมื่อต้องการเร่งความเร็วเบราว์เซอร์ของคุณ ให้หยุดการทำงานของส่วนขยายนั้น
 process-hang-addon-learn-more =
     .value = เรียนรู้เพิ่มเติม
+process-hang-stop-button =
+    .label = หยุด
+    .accesskey = ห
 
 ## Onboarding Finish Setup checklist
 
