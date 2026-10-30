@@ -1862,6 +1862,62 @@ permissions-data-section =
     .heading = ნებართვები და მონაცემები
 pane-permissions-data-title2 = ნებართვები და მონაცემები
     .title = ნებართვები და მონაცემები
+notifications-section-header =
+    .heading = შეტყობინებები
+notifications-entry-card-header =
+    .description = მიუთითეთ, რომელ საიტებს შეეძლება შეტყობინებების გამოგზავნა და როგორ გამოჩნდეს ეს შეტყობინებები.
+    .label = შეტყობინებები
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } ვებსაიტი
+           *[other] { $count } ვებსაიტი
+        }
+    .label = შეტყობინების პარამეტრების მართვა
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = შეტყობინების პარამეტრების მართვა
+notifications-website-card-header =
+    .description = მიუთითეთ, თუ როგორ შეეძლებათ საიტებს შეტყობინებების გამოგზავნა.
+    .label = ვებსაიტის შეტყობინებები
+notifications-filter =
+    .placeholder = საიტების ძიება
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = ვებსაიტი
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = შეტყობინებების დაშვება
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = საიტები
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = ყოველთვის
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = ნებართვა
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = არასდროს
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = ვებსაიტის შეტყობინებები არ დამატებულა.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = ვებსაიტის შეტყობინებები არ ემთხვევა მოძიებულს.
 
 ## Privacy Section - Data Collection
 
