@@ -171,6 +171,10 @@ addon-updates-check-for-updates = تحقق مِن التحديثات
     .accesskey = ت
 addon-updates-view-updates = اعرض التحديثات الأخيرة
     .accesskey = ض
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = حدّث الإضافات تلقائيًا
     .accesskey = ق
 
@@ -323,6 +327,8 @@ release-notes-addon-button = ملاحظات الإصدار
 permissions-addon-button = الصلاحيات
 extension-enabled-heading = مفعّل
 extension-disabled-heading = معطّل
+theme-disabled-heading3 =
+    .heading = السمات المحفوظة
 theme-enabled-heading = مفعّلة
 theme-disabled-heading2 = السمات المحفوظة
 plugin-enabled-heading = مفعّلة
@@ -560,6 +566,20 @@ find-more-addons-promo =
     .heading = شكّل { -brand-product-name } على طريقتك
     .message = أضف الأدوات والأنماط التي تناسب احتياجاتك وذوقك.
 find-more-addons-promo-open-amo-button = استكشف الامتدادات والسمات
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
