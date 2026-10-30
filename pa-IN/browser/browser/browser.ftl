@@ -1617,6 +1617,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = ਇੱਕ ਜਾਂ ਵੱਧ ਇੰਸਟਾਲ ਹੋਈਆਂ ਐਡ-ਆਨ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਅਤੇ ਅਸਮਰੱਥ ਬਣਾਇਆ ਗਿਆ ਹੈ।
+unsigned-addons-disabled-learn-more =
+    .label = ਹੋਰ ਜਾਣੋ
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
