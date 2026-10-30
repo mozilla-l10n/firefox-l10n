@@ -1378,6 +1378,11 @@ process-hang-nonspecific-tab-message = Ina pagina web ralentescha { -brand-short
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = «{ $title }» ralentescha { -brand-short-name }. Per accelerar tes navigatur, ferma quella pagina.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = «{ $addonName }» ralentescha { -brand-short-name }. Per accelerar tes navigatur, blochescha questa extensiun.
+process-hang-addon-learn-more =
+    .value = Ulteriuras infurmaziuns
 
 ## Onboarding Finish Setup checklist
 
