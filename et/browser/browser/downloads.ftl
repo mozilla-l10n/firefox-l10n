@@ -37,6 +37,9 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = a
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Faili on liigutatud või see puudub
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fail kustutati
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
