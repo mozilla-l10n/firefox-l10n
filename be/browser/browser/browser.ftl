@@ -66,6 +66,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Падзяліцца…
     .accesskey = П
+
+##
+
 urlbar-identity-button =
     .aria-label = Звесткі аб сайце
 
@@ -760,6 +763,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсар
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Спытаць
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1343,6 +1351,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1609,9 +1620,34 @@ file-picker-crashed-open = Здарыўся крах дыялогавага ак
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Здарыўся крах дыялогавага акна файла Windows. Файл будзе захаваны ў { $path }.
 file-picker-crashed-save-nowhere = Здарыўся крах дыялогавага акна файла Windows. Прадвызначаная папка не знойдзена; файл не будзе захаваны.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Паказаць у папцы
     .accessKey = а
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Адзін або некалькі з усталяваных дадаткаў не могуць быць правераны, таму яны былі адключаны.
+unsigned-addons-disabled-learn-more =
+    .label = Даведацца больш
+    .accesskey = Д
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Гэта старонка запавольвае { -brand-short-name }. Каб паскорыць працу вашага браўзера, спыніце гэтую старонку.
+process-hang-nonspecific-tab-message = Вэб-старонка запавольвае { -brand-short-name }. Каб паскорыць працу вашага браўзера, спыніце тую старонку.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” запавольвае { -brand-short-name }. Каб паскорыць працу вашага браўзера, спыніце тую старонку.
+process-hang-stop-button =
+    .label = Спыніць
+    .accesskey = ы
 
 ## Onboarding Finish Setup checklist
 
@@ -1661,6 +1697,9 @@ trustpanel-blocker-see-all = Глядзець усё
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ахова ад сачэння для { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
