@@ -254,6 +254,10 @@ downloads-state-blocked-parental-controls = Ebeveyn Denetimi tarafından engelle
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Bu dosya virüs veya zararlı yazılım içeriyor.
+downloads-blocked-potentially-unwanted = Bu dosya bilgisayarınıza zarar verebilir.
+downloads-blocked-potentially-insecure = Dosya indirilmedi: Olası güvenlik riski.
+downloads-blocked-uncommon = Bu dosya şimdiye kadar fazla indirilmemiş.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
