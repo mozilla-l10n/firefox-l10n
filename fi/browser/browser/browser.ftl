@@ -1613,11 +1613,19 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Tämä sivu hidastaa { -brand-short-name }ia. Voit nopeuttaa selainta pysäyttämällä sivun.
+process-hang-nonspecific-tab-message = Verkkosivu hidastaa { -brand-short-name }ia. Voit nopeuttaa selainta pysäyttämällä sivun.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = Sivu ”{ $title }” hidastaa { -brand-short-name }ia. Voit nopeuttaa selainta pysäyttämällä sivun.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = Laajennus ”{ $addonName }” hidastaa { -brand-short-name }ia. Voit nopeuttaa selainta pysäyttämällä laajennuksen.
 process-hang-addon-learn-more =
     .value = Lue lisää
+process-hang-stop-button =
+    .label = Pysäytä
+    .accesskey = P
 
 ## Onboarding Finish Setup checklist
 
