@@ -1204,6 +1204,19 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+process-hang-nonspecific-tab-message = ᱱᱚᱣᱟ ᱣᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱚᱱᱟ ᱥᱟᱦᱴᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱚᱱᱟ ᱥᱟᱦᱴᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” ᱫᱚ { -brand-short-name } ᱵᱟᱹᱭ ᱪᱷᱚ ᱮᱫᱟᱭ ᱾ ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱞᱚᱜᱚᱱ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱚᱱᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
+process-hang-addon-learn-more =
+    .value = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+process-hang-stop-button =
+    .label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
