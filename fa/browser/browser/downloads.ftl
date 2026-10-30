@@ -35,12 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] نمایش در پوشه
         }
     .accesskey = پ
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = پرونده منتقل یا حذف شده است
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = پرونده حذف شد
 # Displayed when a download was blocked for safety reasons and the blocked file
 # data was subsequently deleted at the user's request.
 downloads-file-blocked-and-deleted = پرونده کنار گذاشته شد (مسدودشده)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = اندازهٔ نامعلوم
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -251,6 +258,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = در حال شروع…
+downloads-state-failed = شکست خورد
+downloads-state-paused = مکث
+downloads-state-canceled = لغو شده
 downloads-state-completed = تمام شد
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -264,12 +275,18 @@ downloads-blocked-malware = این پرونده حاوی ویروس یا نرم 
 downloads-blocked-potentially-unwanted = این پرونده امکان دارد به کامپیوترتان صدمه بزند.
 downloads-blocked-potentially-insecure = پرونده بارگیری نشد: خطر احتمالیِ امنیتی.
 downloads-blocked-uncommon = این فایل بارگیری شده معمولی نیست.
+downloads-blocked-by-content-analysis = این پرونده را سازمان شما مسدود کرد.
+downloads-warned-by-content-analysis = این بارگیری ممکن است ناامن باشد و به تأیید نیاز دارد.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = این پرونده مسدود شد، چون دسترسی به { $agent } ممکن نیست.
+downloads-content-analysis-invalid-agent-signature-error = این پرونده مسدود شد، چون تأیید امضای { $agent } ناموفق بود.
+downloads-content-analysis-unspecified-error = این پرونده به دلیل خطا در ارتباط با { $agent } مسدود شد.
+downloads-content-analysis-timeout-error = زمان پاسخ { $agent } به پایان رسید و این پرونده مسدود شد.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -277,6 +294,24 @@ downloads-blocked-uncommon = این فایل بارگیری شده معمولی 
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = مطمئنید می‌خواهید اجازهٔ انجام این بارگیری را بدهید؟
+downloads-unblock-header-open = آیا مطمئنید که می‌خواهید این پرونده را باز کنید؟
+downloads-unblock-type-malware = این پرونده حاوی ویروس یا نرم افزار مخرب است که به کامپیوترتان صدمه میزند.
+downloads-unblock-type-potentially-unwanted = این پرونده به عنوان یک دریافت مفید شناخته می‌شود، اما ممکن است تغیرات پیش‌بینی نشده‌ای در برنامه‌ها و تنظیمات شما ایجاد کند.
+downloads-unblock-type-content-analysis-warn = سازمان شما از نرم‌افزار جلوگیری از نشت داده استفاده می‌کند که این محتوا را ناامن تشخیص داده است.
+downloads-unblock-type-uncommon = این یک پرونده دانلود شده معمولی نمی‌باشد و ممکن است برای بازکردن امن نباشد. ممکن است حاوی ویروس یا تغییرات غیرمنتظره‌ای بر روی برنامه یا تنظیمات شما باشد.
+downloads-unblock-insecure = این بارگیری از طریق HTTP ارائه می‌شود، در حالی که سند فعلی از طریق اتصال امن HTTPS بار شده است. اگر ادامه دهید، ممکن است پرونده در حین بارگیری خراب یا دست‌کاری شود.
+downloads-unblock-tip = شما می‌توانید به دنبال منبع دریافت دیگری بگردید یا بعدا دوباره تلاش کنید.
+downloads-unblock-content-analysis-warn-tip = می‌توانید در هر صورت آن را بارگیری کنید.
+downloads-unblock-content-analysis-blocked = سازمان شما از نرم‌افزار جلوگیری از نشت داده استفاده می‌کند که این بارگیری را مسدود کرده است.
+downloads-unblock-content-analysis-override = فقط سازمان شما می‌تواند این تصمیم را لغو کند.
+downloads-unblock-content-analysis-tip = می‌توانید بارگیری را ادامه دهید یا لغوش کنید.
+downloads-unblock-button-open =
+    .label = بازکردن
+downloads-unblock-button-unblock =
+    .label = بارگیری مجاز است
+downloads-unblock-button-confirm-block =
+    .label = حذف پرونده
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -292,3 +327,5 @@ downloads-blocked-uncommon = این فایل بارگیری شده معمولی 
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
