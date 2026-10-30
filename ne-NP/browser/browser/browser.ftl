@@ -1020,6 +1020,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = एक वा अधिक स्थापित Add-on हरू प्रमाणित गर्न सकिँदैन र असक्षम छन्।
+unsigned-addons-disabled-learn-more =
+    .label = अझै जान्नुहोस्
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
