@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Visa i mapp
         }
     .accesskey = V
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Fil flyttad eller saknas
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Filen har tagits bort
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Filen sparades inte (blockerad)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Okänd storlek
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -265,12 +275,18 @@ downloads-blocked-malware = Denna fil innehåller virus eller skadlig programvar
 downloads-blocked-potentially-unwanted = Denna fil kan skada din dator.
 downloads-blocked-potentially-insecure = Filen har inte laddats ned: Potentiell säkerhetsrisk.
 downloads-blocked-uncommon = Denna fil hämtas vanligtvis inte.
+downloads-blocked-by-content-analysis = Den här filen blockerades av din organisation.
+downloads-warned-by-content-analysis = Den här nedladdningen kan vara osäker och kräver bekräftelse.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Filen blockerades eftersom { $agent } inte kan nås.
+downloads-content-analysis-invalid-agent-signature-error = Filen blockerades eftersom { $agent } misslyckades med signaturverifiering.
+downloads-content-analysis-unspecified-error = Filen blockerades på grund av ett fel i kommunikationen med { $agent }.
+downloads-content-analysis-timeout-error = { $agent } överskred tidsgränsen, så den här filen blockerades.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -278,6 +294,24 @@ downloads-blocked-uncommon = Denna fil hämtas vanligtvis inte.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Är du säker att du vill tillåta denna hämtning?
+downloads-unblock-header-open = Är du säker på att du vill öppna filen?
+downloads-unblock-type-malware = Den här filen innehåller ett virus eller annat farligt program som kan skada din dator.
+downloads-unblock-type-potentially-unwanted = Denna fil, förklädd till en hjälpsam nedladdning, kan göra oväntade ändringar i dina program och inställningar.
+downloads-unblock-type-content-analysis-warn = Din organisation använder programvara för att förhindra dataförlust som har flaggat detta innehåll som osäkert.
+downloads-unblock-type-uncommon = Denna fil hämtas vanligtvis inte och kan vara osäker att öppna. Den kan innehålla ett virus eller göra oväntade ändringar i dina program och inställningar.
+downloads-unblock-insecure = Nedladdningen erbjuds över HTTP även om det aktuella dokumentet levererades över en säker HTTPS-anslutning. Om du fortsätter kan nedladdningen skadas eller manipuleras under nedladdningsprocessen.
+downloads-unblock-tip = Du kan söka efter en alternativ nedladdningskälla eller försöka igen senare.
+downloads-unblock-content-analysis-warn-tip = Du kan välja att ladda ner den ändå.
+downloads-unblock-content-analysis-blocked = Din organisation använder programvara för att förhindra dataförlust som har blockerat denna hämtning.
+downloads-unblock-content-analysis-override = Detta beslut kan endast åsidosättas av din organisation.
+downloads-unblock-content-analysis-tip = Du kan fortsätta med nedladdningen eller avbryta den.
+downloads-unblock-button-open =
+    .label = Öppna
+downloads-unblock-button-unblock =
+    .label = Tillåt hämtning
+downloads-unblock-button-confirm-block =
+    .label = Ta bort fil
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -293,3 +327,5 @@ downloads-blocked-uncommon = Denna fil hämtas vanligtvis inte.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
