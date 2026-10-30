@@ -438,6 +438,8 @@ addon-permissions-required-label = Të domosdoshme:
 addon-permissions-optional-label = Opsionale:
 addon-permissions-learnmore = Mësoni më tepër rreth lejesh
 recommended-extensions-heading = Zgjerime të Këshilluara
+recommended-themes-card-heading =
+    .heading = Tema të Këshilluara
 recommended-themes-heading = Tema të Këshilluara
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
