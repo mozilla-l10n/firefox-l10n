@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostrar na pasta
         }
     .accesskey = M
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Arquivo excluído
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -245,6 +248,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Iniciando…
+downloads-state-failed = Falhou
+downloads-state-paused = Pausado
+downloads-state-canceled = Cancelado
 downloads-state-completed = Concluído
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -254,6 +261,10 @@ downloads-state-blocked-parental-controls = Bloqueado pelos Controles dos Pais
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Este arquivo contém vírus ou malware (código malicioso).
+downloads-blocked-potentially-unwanted = Este arquivo pode danificar este computador.
+downloads-blocked-potentially-insecure = O arquivo não foi baixado: Potencial risco de segurança.
+downloads-blocked-uncommon = Este arquivo não é normalmente baixado.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
