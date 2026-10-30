@@ -537,3 +537,7 @@ taskbar-tabs-spotlight-title = გახსენით თქვენი რ�
 taskbar-tabs-spotlight-subtitle = ერთი დაწკაპებით თქვენ მიერ ხშირად მონახულებული საიტები გაეშვება გარსშემომდენი ფანჯრით, რომელსაც სრულად იცავს { -brand-short-name }.
 # Heading above the list of suggested websites.
 taskbar-tabs-spotlight-sites-heading = აირჩიეთ თქვენი დავალების ზოლზე დასამატებლად
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = დამატება
+taskbar-tabs-spotlight-done-button = მზადაა
