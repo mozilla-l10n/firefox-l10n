@@ -23,6 +23,8 @@ downloads-cmd-cancel =
     .tooltiptext = បោះបង់
 downloads-cmd-cancel-panel =
     .aria-label = បោះបង់
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ឯកសារ​ត្រូវ​បាន​យក​ចេញ ឬ បាត់
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -162,6 +164,9 @@ downloads-state-blocked-parental-controls = បាន​ទប់ស្កាត
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = ឯកសារ​នេះ​មាន​មេរោគ ឬ​កម្មវិធី​ព្យាបាទ។
+downloads-blocked-potentially-unwanted = ឯកសារ​នេះ​អាច​អាម​ឃាត់​កុំព្យូទ័រ​របស់​អ្នក។
+downloads-blocked-uncommon = ឯកសារ​នេះ​មិន​សូវ​គេ​ទាញ​យក​ទេ។
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
