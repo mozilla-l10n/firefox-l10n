@@ -180,6 +180,10 @@ addon-updates-check-for-updates = اپ ڈیٹاں دی پڑتال کرو
     .accesskey = C
 addon-updates-view-updates = حالیہ اپ ڈیٹاں دا نظارہ کرو
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = ایڈ آنز آپݨے آپ اپ ڈیٹ کرو
     .accesskey = A
 
@@ -321,6 +325,8 @@ release-notes-addon-button = ریلیز نوٹ
 permissions-addon-button = اجازتاں
 extension-enabled-heading = فعال تھیا
 extension-disabled-heading = غیرفعال تھیا
+theme-disabled-heading3 =
+    .heading = ہتھکڑے تھئے تھیم
 theme-enabled-heading = فعال تھیا
 theme-disabled-heading2 = ہتھکڑے تھئے تھیم
 plugin-enabled-heading = فعال تھیا
