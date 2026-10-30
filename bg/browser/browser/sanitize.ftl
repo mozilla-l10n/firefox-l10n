@@ -47,6 +47,8 @@ clear-time-duration-value-since-midnight =
     .label = От { $midnightTime }
 clear-time-duration-value-today =
     .label = Днес
+clear-time-duration-value-all-time =
+    .label = През цялото време
 clear-time-duration-value-everything =
     .label = Всичко
 clear-time-duration-suffix =
@@ -78,6 +80,9 @@ item-active-logins =
 item-cache =
     .label = Склад
     .accesskey = с
+item-cached-content2 =
+    .label = Временни файлове
+    .accesskey = В
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +110,7 @@ item-site-settings =
 item-offline-apps =
     .label = Данни за сайтове без мрежа
     .accesskey = м
+sanitize-everything-undo-warning2 = Това не може да бъде отменено.
 sanitize-everything-undo-warning = Действието е необратимо.
 window-close =
     .key = w

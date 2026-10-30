@@ -21,6 +21,9 @@ credit-card-save-doorhanger-description = { -brand-short-name } шифрова �
 credit-card-capture-cancel-button =
     .label = Не сега
     .accessKey = Н
+credit-card-capture-never-save-payment-methods-button =
+    .label = Начините на плащане никога да не се запазват
+    .accessKey = Н
 credit-card-capture-never-save-button =
     .label = Никога не запазвай карти
     .accessKey = Н
@@ -36,6 +39,56 @@ credit-card-capture-update-button =
 autofill-clear-form-label = Изчистване на попълнения формуляр
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Управление на начините за плащане
+
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = Код за сигурност
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+##   $securityCode (String): The name of the card's security code, from one of
+##     the credit-card-security-code-name-* strings (for example "CVV")
+## "•••" stands for the hidden security code; keep it as is rather than
+## translating it into words.
+
+credit-card-doorhanger-card-details-name = { $name }
+credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-capture-update-payment-method-button =
+    .label = Обновяване
+    .accessKey = О
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Да се запази ли кода за сигурност?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } ще шифрова и ще запази кода ви за сигурност за тази карта, така че плащанията да стават по-бързо.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Да се запази ли този начин на плащане?
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

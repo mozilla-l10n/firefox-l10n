@@ -1218,6 +1218,7 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-panel-description3 = Това изчиства историята и бисквитките и отписва излизане от страниците. Вашите частни прозорци ще се затворят и ще се отвори нов.
 reset-pbm-panel-always-ask-checkbox =
     .label = Винаги да пита
     .accesskey = п
@@ -1225,6 +1226,13 @@ reset-pbm-panel-cancel-button =
     .label = Отказ
     .accesskey = т
 reset-pbm-panel-complete = Информацията от поверителния сеанс е премахната
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button2 =
+    .label = Изтриване на някои или всички данни
+    .tooltiptext = Изтриване на част или всички данни за сърфирането
 
 ## Autorefresh blocker
 

@@ -354,6 +354,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Добавяне на търсеща машина
     .accesskey = Д
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Включване на менюто за действия
+    .accesskey = В
 main-context-menu-link-send-to-device =
     .label = Изпращане на препратка до устройство
     .accesskey = у

@@ -94,6 +94,12 @@ autofill-card-expires-year-2 =
     .label = Изтича в година
 autofill-card-billing-address-2 =
     .label = Адрес за фактура
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (по избор)
 autofill-card-name-on-card = Име от картата
 autofill-card-expires-month = Валидна до месец
 autofill-card-expires-year = година
