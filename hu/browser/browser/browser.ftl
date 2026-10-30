@@ -1462,6 +1462,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Törli az adatokat, és új privát munkamenetet indít?
+reset-pbm-panel-description3 = Ez törli az előzményeket és a sütiket, és kilépteti az oldalakról. A privát ablakai be lesznek zárva, és egy új fog megnyílni.
 reset-pbm-panel-description2 = Ez a privát ablak bezárása nélkül törli az előzményeket, a sütiket és az összes oldaladatot.
 reset-pbm-panel-always-ask-checkbox =
     .label = Rákérdezés mindig
@@ -1497,6 +1498,9 @@ fire-button-panel-confirm-button =
     .label = Összes törlése
     .accesskey = e
 fire-button-panel-complete = Böngészési adatok törölve
+fire-button-toolbar-button2 =
+    .label = Adatok egy részének vagy egészének törlése
+    .tooltiptext = Böngészési adatok egy részének vagy egészének törlése
 
 ## Autorefresh blocker
 

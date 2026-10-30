@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Keresőszolgáltatás hozzáadása
     .accesskey = K
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Műveletek menü bekapcsolása
+    .accesskey = M
 main-context-menu-link-send-to-device =
     .label = Hivatkozás küldése eszközre
     .accesskey = e
