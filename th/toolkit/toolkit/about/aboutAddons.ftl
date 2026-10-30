@@ -437,6 +437,8 @@ addon-permissions-learnmore = เรียนรู้เพิ่มเติ�
 # the user.
 addon-permissions-managed-by-policy = การกำหนดสิทธิ์บางอย่างถูกจัดการโดยองค์กรของคุณ
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
+recommended-themes-card-heading =
+    .heading = ชุดตกแต่งที่แนะนำ
 recommended-themes-heading = ชุดตกแต่งที่แนะนำ
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
