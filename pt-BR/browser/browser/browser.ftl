@@ -1615,11 +1615,26 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Uma ou mais extensões instaladas não puderam ser verificadas e foram desativadas.
+unsigned-addons-disabled-learn-more =
+    .label = Saiba mais
+    .accesskey = b
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
 process-hang-selected-tab-message = Esta página está reduzindo a velocidade do { -brand-short-name }. Para acelerar seu navegador, interrompa esta página.
 process-hang-nonspecific-tab-message = Uma página web está reduzindo a velocidade do { -brand-short-name }. Para acelerar seu navegador, interrompa essa página.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” está reduzindo a velocidade do { -brand-short-name }. Para acelerar seu navegador, interrompa essa página.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” está reduzindo a velocidade do { -brand-short-name }. Para acelerar seu navegador, interrompa essa extensão.
+process-hang-addon-learn-more =
+    .value = Saiba mais
+process-hang-stop-button =
+    .label = Parar
+    .accesskey = P
 
 ## Onboarding Finish Setup checklist
 
