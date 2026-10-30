@@ -1566,6 +1566,9 @@ file-picker-crashed-show-in-folder =
 
 process-hang-addon-learn-more =
     .value = اطّلع على المزيد
+process-hang-stop-button =
+    .label = أوقِف
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
