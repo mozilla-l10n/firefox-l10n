@@ -19,6 +19,11 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Dubare bike
     .accesskey = D
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Mezinahî nayê zanîn
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -98,6 +103,10 @@ downloads-state-starting = Dest pê dike...
 downloads-state-failed = Têk çû
 downloads-state-paused = Rawestand
 downloads-state-canceled = Hat betalkirin
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Ji hêla Kontrolkirinên Bingehîn ve hat astenkirin
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
@@ -130,3 +139,5 @@ downloads-state-canceled = Hat betalkirin
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
