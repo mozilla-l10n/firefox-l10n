@@ -1595,6 +1595,16 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Այս էջը դանդաղեցնում է { -brand-short-name }-ը: Ձեր դիտարկիչը արագացնելու համար կանգնեցրեք այս էջը:
+process-hang-nonspecific-tab-message = Այս էջը դանդաղեցնում է { -brand-short-name }-ը: Ձեր դիտարկիչը արագացնելու համար կանգնեցրեք այս էջը:
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }”-ը դանդաղեցնում է { -brand-short-name }-ը: Ձեր դիտարկիչը արագացնելու համար կանգնեցրեք այս էջը:
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }”-ը դանդաղեցնում է { -brand-short-name }-ը: Ձեր դիտարկիչը արագացնելու համար կանգնեցրեք այս ընդլայնումը:
+process-hang-addon-learn-more =
+    .value = Իմանալ ավելին
 process-hang-stop-button =
     .label = Կանգնեցնել
     .accesskey = S
