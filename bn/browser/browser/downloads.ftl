@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = ফাইল সরানো হয়েছে �
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = ফাইল মুছে ফেলা হয়েছে
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = আকার অজানা
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -257,6 +262,19 @@ downloads-blocked-uncommon = এই ফাইলটি সাধারণত ড
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = আপনি কি ডাউনলোড এর অনুমতি দেয়ার ব্যাপারে নিশ্চিত?
+downloads-unblock-header-open = আপনি কি নিশ্চিত আপনি এই ফাইলটি খুলতে চান?
+downloads-unblock-type-malware = এই ফাইলে ভাইরাস বা অন্য কোন ম্যালওয়্যার থাকতে পারে যা আপনার কম্পিউটারের ক্ষতি করবে।
+downloads-unblock-type-potentially-unwanted = এই ফাইলটি সাহায্যকারী ডাউনলোডের ছদ্মবেশে আপনার প্রোগ্রাম এবং সেটিং এ অপ্রত্যাশিত পরিবর্তন করে ফেলবে।
+downloads-unblock-type-uncommon = সাধারণত এই রকম ফাইল ডাউনলোড করা হয় না এবং এটি খোলা নিরাপদ নহে। এতে ভাইরাস থাকতে পারে এবং আপনার প্রোগ্রাম ও সেটিং এ অপ্রত্যাশিত পরিবর্তন করে ফেলতে পারে।
+downloads-unblock-insecure = ডাউনলোডটি HTTP এর মাধ্যমে অফার করা হয় যদিও বর্তমান নথিটি একটি নিরাপদ HTTPS সংযোগের মাধ্যমে বিতরণ করা হয়েছিল। আপনি যদি এগিয়ে যান, ডাউনলোড প্রক্রিয়া চলাকালীন ডাউনলোডটি দূষিত বা বিকৃত হতে পারে।
+downloads-unblock-tip = আপনি একটি বিকল্প ডাউনলোড উত্স অনুসন্ধান করতে পারেন বা পরে আবার চেষ্টা করতে পারেন।
+downloads-unblock-button-open =
+    .label = খুলুন
+downloads-unblock-button-unblock =
+    .label = ডাউনলোডের অনুমতি দিন
+downloads-unblock-button-confirm-block =
+    .label = ফাইল মুছে ফেলুন
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -272,3 +290,5 @@ downloads-blocked-uncommon = এই ফাইলটি সাধারণত ড
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
