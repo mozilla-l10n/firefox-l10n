@@ -1569,6 +1569,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Một số tiện ích đã cài đặt không thể được kiểm định nên đã bị vô hiệu hóa.
+unsigned-addons-disabled-learn-more =
+    .label = Tìm hiểu thêm
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1582,6 +1586,9 @@ process-hang-specific-tab-message = “{ $title }” đang làm chậm { -brand-
 process-hang-addon-message = “{ $addonName }” đang làm chậm { -brand-short-name }. Để tăng tốc trình duyệt của bạn, hãy dừng tiện ích đó lại.
 process-hang-addon-learn-more =
     .value = Tìm hiểu thêm
+process-hang-stop-button =
+    .label = Dừng
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
