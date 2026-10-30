@@ -411,7 +411,7 @@ main-context-menu-frame-view-info =
     .accesskey = b
 main-context-menu-print-selection-2 =
     .label = Seçimi yazdır…
-    .accesskey = r
+    .accesskey = y
 main-context-menu-view-selection-source =
     .label = Seçimin kaynak kodunu göster
     .accesskey = o
@@ -434,7 +434,7 @@ main-context-menu-inspect =
 # as another item's, such as "Copy Image".
 main-context-menu-inspect-a11y-properties2 =
     .label = Erişilebilirlik özelliklerini denetle
-    .accesskey = E
+    .accesskey = ö
 main-context-menu-inspect-a11y-properties =
     .label = Erişilebilirlik özelliklerini denetle
 main-context-menu-eme-learn-more =

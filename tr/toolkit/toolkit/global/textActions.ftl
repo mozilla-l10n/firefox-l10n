@@ -77,7 +77,7 @@ text-action-comment-selection-2 =
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight-2 =
     .label = Vurgu bağlantısını kopyala
-    .accesskey = V
+    .accesskey = u
 # This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
 # it creates a link with a text fragment to the current selection
 # and it strips trackers etc.
