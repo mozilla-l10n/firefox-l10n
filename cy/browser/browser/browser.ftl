@@ -1678,12 +1678,26 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Mae un neu fwy o ychwanegion nad oedd modd eu gwirio wedi eu hanalluogi.
+unsigned-addons-disabled-learn-more =
+    .label = Darllen Rhagor
+    .accesskey = D
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Mae'r dudalen hon yn arafu { -brand-short-name }. I gyflymu'ch porwr, stopiwch y dudalen hon.
+process-hang-nonspecific-tab-message = Mae tudalen gwe'n arafu { -brand-short-name }. I gyflymu'ch porwr, stopiwch y dudalen honno.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = Mae “{ $title }” yn arafu { -brand-short-name }. I gyflymu'ch porwr, stopiwch y dudalen honno.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = Mae “{ $addonName }” yn arafu { -brand-short-name }. I gyflymu'ch porwr, stopiwch yr estyniad hwnnw.
+process-hang-addon-learn-more =
+    .value = Darllen rhagor
+process-hang-stop-button =
+    .label = Atal
+    .accesskey = A
 
 ## Onboarding Finish Setup checklist
 
