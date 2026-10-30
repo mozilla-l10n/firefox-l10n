@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Frissítések keresése
     .accesskey = F
 addon-updates-view-updates = A legutóbbi frissítések megtekintése
     .accesskey = A
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Kiegészítők automatikus frissítése
     .accesskey = K
 
@@ -321,6 +325,8 @@ release-notes-addon-button = Kiadási megjegyzések
 permissions-addon-button = Engedélyek
 extension-enabled-heading = Engedélyezve
 extension-disabled-heading = Tiltva
+theme-disabled-heading3 =
+    .heading = Mentett témák
 theme-enabled-heading = Engedélyezve
 theme-disabled-heading2 = Mentett témák
 plugin-enabled-heading = Engedélyezve
