@@ -1649,6 +1649,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Jedyn přidatk abo wjacore přidatki njejsu wobkrućene a su so znjemóžnili.
+unsigned-addons-disabled-learn-more =
+    .label = Dalše informacije
+    .accesskey = D
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1657,6 +1661,14 @@ process-hang-nonspecific-tab-message = Webstrona { -brand-short-name } spomaluje
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = „{ $title }“ { -brand-short-name } spomaluje. Zo byšće swój wobhladowak pospěšił, zastajće tu stronu.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = „{ $addonName }“ { -brand-short-name } spomaluje. Zo byšće swój wobhladowak pospěšił, zastajće te rozšěrjenje.
+process-hang-addon-learn-more =
+    .value = Dalše informacije
+process-hang-stop-button =
+    .label = Zastajić
+    .accesskey = Z
 
 ## Onboarding Finish Setup checklist
 
