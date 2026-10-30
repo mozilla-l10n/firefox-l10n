@@ -445,6 +445,8 @@ addon-permissions-learnmore = Tìm hiểu thêm về quyền hạn
 # the user.
 addon-permissions-managed-by-policy = Một số quyền truy cập được quản lý bởi tổ chức của bạn.
 recommended-extensions-heading = Tiện ích mở rộng được đề xuất
+recommended-themes-card-heading =
+    .heading = Chủ đề được đề xuất
 recommended-themes-heading = Chủ đề được đề xuất
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
