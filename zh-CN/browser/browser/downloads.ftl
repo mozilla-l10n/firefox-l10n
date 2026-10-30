@@ -253,6 +253,10 @@ downloads-state-blocked-parental-controls = 已依照家长控制的设置拦截
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = 此文件包含病毒或恶意软件。
+downloads-blocked-potentially-unwanted = 此文件可能危害您的计算机。
+downloads-blocked-potentially-insecure = 未下载文件：有潜在的安全风险。
+downloads-blocked-uncommon = 此文件很少被下载。
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
