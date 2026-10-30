@@ -35,6 +35,8 @@ downloads-cmd-show-menuitem-2 =
            *[other] Ava faili sisaldav kaust
         }
     .accesskey = a
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Faili on liigutatud või see puudub
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -245,6 +247,10 @@ downloads-state-blocked-parental-controls = Blokitud Windowsi vanemliku järelev
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = See fail sisaldab viirust või pahavara.
+downloads-blocked-potentially-unwanted = See fail võib kahjustada sinu arvutit.
+downloads-blocked-potentially-insecure = Faili ei laaditud alla: võimalik turvarisk.
+downloads-blocked-uncommon = Seda faili laaditakse alla harva.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
