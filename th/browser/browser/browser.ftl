@@ -1481,6 +1481,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = ไม่สามารถยืนยันส่วนเสริมที่ติดตั้งจำนวนหนึ่งหรือมากกว่าและถูกปิดใช้งาน
+unsigned-addons-disabled-learn-more =
+    .label = เรียนรู้เพิ่มเติม
+    .accesskey = ร
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
