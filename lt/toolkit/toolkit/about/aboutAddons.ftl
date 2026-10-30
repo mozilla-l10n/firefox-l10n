@@ -368,6 +368,8 @@ release-notes-loading = Įkeliama…
 release-notes-error = Atsiprašome, bet įkeliant laidos apžvalgą įvyko klaida.
 addon-permissions-learnmore = Sužinokite apie leidimus daugiau
 recommended-extensions-heading = Rekomenduojami priedai
+recommended-themes-card-heading =
+    .heading = Rekomenduojami grafiniai apvalkalai
 recommended-themes-heading = Rekomenduojami grafiniai apvalkalai
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
