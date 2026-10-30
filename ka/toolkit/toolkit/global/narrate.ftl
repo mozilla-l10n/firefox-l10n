@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = ხმამაღლა ამოკითხვა
+narrate-rate-input =
+    .aria-label = აირჩიეთ თხრობის სიჩქარე შუალედით -100 და 100, სადაც 0 ნაგულისხმევი სიჩქარეა.
+    .title = სიჩქარე
 narrate-rate-slow =
     .title = თხრობის შენელება
 narrate-rate-fast =

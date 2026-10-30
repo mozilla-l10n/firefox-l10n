@@ -527,3 +527,13 @@ refresh-profile-infobar-button = { -brand-short-name } – შეკეთებ
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>გაიხსნას წინა ჩანართები?</strong> თუ გსურთ, { -brand-short-name } აღდგეს წინა მდგომარეობით, გახსენით მენიუ <img data-l10n-name="icon"/> და მონახეთ ისტორია.
 restore-session-startup-suggestion-button = მაჩვენეთ, როგორ
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = გახსენით თქვენი რჩეული საიტები პროგრამების მსგავსად
+taskbar-tabs-spotlight-subtitle = ერთი დაწკაპებით თქვენ მიერ ხშირად მონახულებული საიტები გაეშვება გარსშემომდენი ფანჯრით, რომელსაც სრულად იცავს { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = აირჩიეთ თქვენი დავალების ზოლზე დასამატებლად

@@ -74,12 +74,28 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = მონიშნული ტექსტის ასლი
     .tooltiptext = მონიშნული ტექსტის ასლი
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = ასლი აღებულია
 genai-shortcut-more-actions-button =
     .aria-label = სხვა პარამეტრები
     .tooltiptext = სხვა პარამეტრები
+genai-more-actions-panel =
+    .aria-label = აირჩიეთ, რომელი მოქმედებები გამოჩნდეს
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = გიპასუხებთ { $provider }
+genai-more-actions-ai-generic =
+    .label = ჰკითხეთ ხელგონს
+genai-more-actions-search =
+    .label = ძიება
+genai-more-actions-copy =
+    .label = ასლი
 # The span is a right-pointing chevron that separates the steps of the path to
 # the setting, in place of a ">" character.
 genai-more-actions-all-off-notice = ამ მენიუს აღარ იხილავთ ტექსტის მონიშვნისას. კვლავ გამოსაჩენად პარამეტრებში მოიძიეთ <span data-l10n-name="chevron"></span> ჩანართები და მონახულება.
+genai-more-actions-manage-settings =
+    .label = პარამეტრების მართვა
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = გიპასუხებთ { $provider }
@@ -253,6 +269,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = ძიება
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = ასლი
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = გსურთ, უფრო ვრცლად იხილოთ ხელგონით?
 # Message that appears when user is shown the opt-in flow for link previews

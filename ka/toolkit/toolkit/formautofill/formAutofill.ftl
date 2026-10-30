@@ -116,11 +116,28 @@ credit-card-capture-update-payment-method-button =
 
 credit-card-save-security-code-doorhanger-header = შეინახოს უსაფრთხოების კოდი?
 # “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = { -brand-short-name } დაშიფრავს და შეინახავს თქვენს უსაფრთხოების კოდს ამ ბარათზე თანხის სწრაფად ჩამოჭრისთვის.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } დაშიფრავს და შეინახავს თქვენს უსაფრთხოების კოდს ამ ბარათზე სწრაფი ანგარიშსწორებისთვის.
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = შეინახოს გადახდის საშუალება?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } დაშიფრავს და თავად შეავსებს თქვენი გადახდის მონაცემებს, სწრაფი ანგარიშსწორებისთვის.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } დაშიფრავს თქვენი ბარათის ნომერსა და უსაფრთხოების კოდს მომავალში თვითშევსებისთვის.
+credit-card-capture-dismiss-button =
+    .label = აცილება
+    .accessKey = ც
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = ყოველთვის შეინახოს უსაფრთხოების კოდები
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = არ შეინახოს უსაფრთხოების კოდები
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
