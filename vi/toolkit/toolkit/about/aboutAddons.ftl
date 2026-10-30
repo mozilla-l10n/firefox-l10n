@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Kiểm tra cập nhật
     .accesskey = C
 addon-updates-view-updates = Xem các cập nhật gần đây
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Tự động cập nhật tiện ích
     .accesskey = A
 
@@ -325,6 +329,8 @@ release-notes-addon-button = Ghi chú phát hành
 permissions-addon-button = Quyền hạn
 extension-enabled-heading = Đã bật
 extension-disabled-heading = Đã vô hiệu hóa
+theme-disabled-heading3 =
+    .heading = Chủ đề đã lưu
 theme-enabled-heading = Đã bật
 theme-disabled-heading2 = Chủ đề đã lưu
 plugin-enabled-heading = Đã bật
