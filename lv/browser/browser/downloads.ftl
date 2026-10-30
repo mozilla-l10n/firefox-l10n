@@ -35,6 +35,11 @@ downloads-cmd-show-menuitem-2 =
            *[other] Rādīt mapē
         }
     .accesskey = R
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Datne nav atrodama
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Datne izdzēsta
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -256,6 +261,10 @@ downloads-state-blocked-parental-controls = Bloķējis vecāku kontroles rīks
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Šajāfairā ir vīruss vai kaitnieciska programma.
+downloads-blocked-potentially-unwanted = Šī datne var kaitēt jūsu datoram.
+downloads-blocked-potentially-insecure = Datne nav lejupielādēta: iespējams drošības risks.
+downloads-blocked-uncommon = Šī datne parasti netiek lejupielādēta.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
