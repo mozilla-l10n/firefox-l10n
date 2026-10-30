@@ -47,6 +47,8 @@ clear-time-duration-value-since-midnight =
     .label = Dae { $midnightTime }
 clear-time-duration-value-today =
     .label = Oe
+clear-time-duration-value-all-time =
+    .label = Semper
 clear-time-duration-value-everything =
     .label = Cale si siat cosa
 clear-time-duration-suffix =
@@ -56,6 +58,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Cronologia
+item-history-and-downloads2 =
+    .label = Cronologia de navigatzione e de iscarrigamentos
+    .accesskey = C
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Sitos visitados e archìvios iscarrigados
 item-history-and-downloads =
     .label = Cronologia de navigatzione e iscarrigamentos
     .accesskey = C
@@ -82,6 +89,15 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Archìvios temporales ({ $amount }{ $unit })
+    .accesskey = t
+item-cached-content2 =
+    .label = Archìvios temporales
+    .accesskey = A
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Pàginas e archìvios sarvados de manera temporànea ({ $amount } { $unit })
     .accesskey = P
@@ -98,6 +114,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Informatziones sarvadas in mollos
     .accesskey = I
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nòmines, indiritzos e datos de formulàrios
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Permissos e preferèntzias de sitos web
 item-formdata-description = Cantzellat cosas comente is nòmines, indiritzos de posta e àteros cuntenutos chi insertas in is mollos
 item-site-prefs-description = Ripristinat is permissos e is preferèntzias de is sitos a sa cunfiguratzione originale
 data-section-label = Datos
@@ -107,6 +127,7 @@ item-site-settings =
 item-offline-apps =
     .label = Datos de sitos web in foras de lìnia
     .accesskey = t
+sanitize-everything-undo-warning2 = Custa atzione no dda podes annullare.
 sanitize-everything-undo-warning = Custa atzione no dda podes annullare.
 window-close =
     .key = w

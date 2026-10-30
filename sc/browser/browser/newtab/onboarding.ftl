@@ -507,6 +507,13 @@ onboarding-personalization-motivation-other-option = Àteru
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } est acanta a te
 
+## First Run Onboarding refresh strings
+
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Abarrant tuos. { -brand-product-name } non bendet mai is datos personales.
+onboarding-refresh-fro-tab-layout-title = Sèbera una dispositzione de ischedas noa
+
 ## Smart Window ToU modal
 
 # Existing users

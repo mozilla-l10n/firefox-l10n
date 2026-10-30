@@ -119,6 +119,12 @@ autofill-card-expires-year-2 =
     .label = Annu de iscadèntzia
 autofill-card-billing-address-2 =
     .label = Indiritzu de faturatzione
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (optzionale)
 autofill-card-name-on-card = Nòmine in sa carta
 autofill-card-expires-month = Mese de iscadèntzia
 autofill-card-expires-year = Annu de iscadèntzia

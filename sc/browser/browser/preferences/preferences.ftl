@@ -336,6 +336,8 @@ website-language-heading =
     .label = Limba de su situ
 website-preferred-language =
     .label = Limbas preferidas
+website-language-list =
+    .aria-label = Limbas preferidas
 website-add-language =
     .label = Agiunghe una limba
 website-add-language-button =
@@ -729,6 +731,8 @@ home-homepage-new-tabs =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Indiritzos de sitos web
+home-custom-homepage-list =
+    .aria-label = Indiritzos web
 home-custom-homepage-address =
     .placeholder = Inserta un’indiritzu
 home-custom-homepage-address-button =
@@ -849,6 +853,8 @@ search-one-click-desc = Sèbera motores de chirca alternativos chi ant a èssere
 search-one-click-header-3 =
     .description = Sèbera cales motores de chirca e curtzadòrgios cumparent in sa barra de indiritzos tua.
     .label = Motores de chirca agiuntivos
+search-engine-list =
+    .aria-label = Motores de chirca e curtzadòrgios
 update-search-engine-success =
     .message = Motores de chirca atualizadu
 search-edit-engine-2 =
@@ -906,6 +912,8 @@ search-section =
 containers-card-header2 =
     .description = Partzi is testimòngios in cuntenidores diferentes pro pòdere impreare contos diferentes in su pròpiu situ e limitare sa sighidura intre sitos.
     .label = Cuntenidores
+containers-list =
+    .aria-label = Cuntenidores
 containers-new-tab-check2 =
     .description = Custu at a abèrrere su menù de is cuntenidores onni borta chi incarcas su butone «Ischeda noa».
     .label = Sèbera unu cuntenidore pro ònnia ischeda noa
@@ -1310,6 +1318,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 addresses-group =
     .label = Indiritzos e àteru

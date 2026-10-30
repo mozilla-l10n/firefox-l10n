@@ -255,6 +255,10 @@ menu-bookmarks-other =
     .label = Àteros sinnalibros
 menu-bookmarks-mobile =
     .label = Sinnalibros de su telèfonu mòbile
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Ammustra·nde de prus in sa barra laterale
 
 ## Profiles Menu
 

@@ -16,11 +16,22 @@ autofill-options-link = Optziones de cumpletamentu automàticu de formulàrios
 credit-card-capture-cancel-button =
     .label = Immoe nono
     .accessKey = N
+credit-card-capture-never-save-payment-methods-button =
+    .label = Non sarves mai is mètodos de pagamentu
+    .accessKey = N
 credit-card-capture-save-new-button =
     .label = Sarva comente carta noa
     .accessKey = S
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Isbòida su formulàriu cumpletadu in automàticu
+
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
