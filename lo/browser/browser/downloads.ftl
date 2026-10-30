@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = ໄຟລຖືກຍ້າຍ ຫຼື ຫ�
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = ລຶບໄຟລ໌ແລ້ວ
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = ບໍ່ຮູ້ຂະໜາດ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -242,6 +247,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = ກຳລັງເລີ່ມ…
+downloads-state-failed = ລົ້ມເຫລວ
+downloads-state-paused = ຢຸດຊົ່ວຄາວ
+downloads-state-canceled = ຍົກເລີກແລ້ວ
 downloads-state-completed = ສຳເລັດແລ້ວ
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -268,6 +277,19 @@ downloads-blocked-uncommon = ໄຟລນີ້ບໍ່ສາມາດດາວ
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = ທ່ານໝັ້ນໃຈແລ້ວບໍ່? ທີ່ຈະອະນຸຍາດໃນການດາວໂຫລດ
+downloads-unblock-header-open = ທ່ານຫມັ້ນໃຈແລ້ວບໍ່? ທີ່ຈະເປີດໄຟລນີ້
+downloads-unblock-type-malware = ໄຟລນີ້ບັນຈຸໄວລັດ ຫຼື ເມົາແວໂຕອື່ນທີ່ເປັນອາດເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງເຈົ້າ
+downloads-unblock-type-potentially-unwanted = ໄຟລນີ້ຈະປອມຕົວເປັນການດາວໂຫລດທີ່ເປັນປະໂຫຍດ ແຕ່ມັນສາມາດເຮັດໃຫ້ມີການປ່ຽນແປງໂປຣແກມ ແລະ ການຕັ້ງຄ່າຂອງທ່ານ
+downloads-unblock-type-uncommon = ໄຟລຕົວນີ້ບໍ່ສາມາດດາວໂຫລດໄດ້ໂດຍທົ່ວໄປແລະອາດຈະບໍ່ປອດໄພຕໍ່ການເປີດ. ມັນອາດຈະບັນຈຸໄວລັສ ຫຼື ການປ່ຽນແປງທີ່ບໍ່ຄາດຄິດຕໍ່ໂປຣແກມ ແລະ ການຕັ້ງຄ່າຂອງເຈົ້າ
+downloads-unblock-insecure = ການດາວໂຫຼດແມ່ນສະຫນອງໃຫ້ຜ່ານ HTTP ເຖິງແມ່ນວ່າເອກະສານປະຈຸບັນໄດ້ຖືກສົ່ງຜ່ານການເຊື່ອມຕໍ່ HTTPS ທີ່ປອດໄພ. ຖ້າ​ຫາກ​ວ່າ​ທ່ານ​ດໍາ​ເນີນ​ການ​, ການ​ດາວ​ໂຫຼດ​ອາດ​ຈະ​ມີ​ຄວາມ​ເສຍ​ຫາຍ​ຫຼື​ຂັດ​ຂວາງ​ໃນ​ລະ​ຫວ່າງ​ຂະ​ບວນ​ການ​ດາວ​ໂຫຼດ​.
+downloads-unblock-tip = ທ່ານສາມາດຄົ້ນຫາແຫຼ່ງດາວໂຫລດອື່ນ ຫຼື ລອງໃໝ່ອີກຄັ້ງໃນພາຍຫຼັງ
+downloads-unblock-button-open =
+    .label = ເປີດ
+downloads-unblock-button-unblock =
+    .label = ອະນຸຍາດໃຫ້ດາວໂຫລດ
+downloads-unblock-button-confirm-block =
+    .label = ລົບໄຟລ໌ອອກ
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -283,3 +305,5 @@ downloads-blocked-uncommon = ໄຟລນີ້ບໍ່ສາມາດດາວ
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
