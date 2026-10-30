@@ -176,6 +176,10 @@ addon-updates-check-for-updates = ตรวจสอบการอัปเด�
     .accesskey = ต
 addon-updates-view-updates = ดูการอัปเดตล่าสุด
     .accesskey = ด
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = อัปเดตส่วนเสริมโดยอัตโนมัติ
     .accesskey = อ
 
@@ -317,6 +321,8 @@ release-notes-addon-button = บันทึกประจำรุ่น
 permissions-addon-button = การกำหนดสิทธิ์
 extension-enabled-heading = ถูกเปิดใช้งาน
 extension-disabled-heading = ถูกปิดใช้งาน
+theme-disabled-heading3 =
+    .heading = ชุดตกแต่งที่บันทึกไว้
 theme-enabled-heading = เปิดใช้งาน
 theme-disabled-heading2 = ชุดตกแต่งที่บันทึกไว้
 plugin-enabled-heading = ถูกเปิดใช้งาน
@@ -537,3 +543,31 @@ mlmodel-addon-detail-used-by-label = ใช้โดย
 mlmodel-addon-detail-model-card = การ์ดโมเดล
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = ดูบน Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
