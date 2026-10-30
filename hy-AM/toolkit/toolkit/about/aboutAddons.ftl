@@ -392,6 +392,8 @@ addon-permissions-heading = Թույլտվություններ
 addon-permissions-required-label = Պահանջված՝
 addon-permissions-learnmore = Իմանալ ավելին թույլտվությունների մասին
 recommended-extensions-heading = Երաշխավորված ընդլայնում
+recommended-themes-card-heading =
+    .heading = Երաշխավորված հիմնապատկերներ
 recommended-themes-heading = Երաշխավորված հիմնապատկերներ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
