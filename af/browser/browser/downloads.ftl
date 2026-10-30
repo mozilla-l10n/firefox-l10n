@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Kanselleer
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Lêer is weg of geskuif
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Onbekende grootte
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -145,6 +150,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Begin tans…
+downloads-state-failed = Het misluk
+downloads-state-paused = Wagtend
+downloads-state-canceled = Gekanselleer
 downloads-state-completed = Klaar
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -170,6 +179,18 @@ downloads-blocked-uncommon = Dié lêer word nie tipies afgelaai nie.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Wil u definitief die aflaai toelaat?
+downloads-unblock-header-open = Wil u definitief dié lêer open?
+downloads-unblock-type-malware = Dié lêer bevat 'n virus of ander wanware wat die rekenaar sal beskadig.
+downloads-unblock-type-potentially-unwanted = Dié lêer is vermom as hulpvaardig, maar kan onverwagse veranderinge aan programme en instellings maak.
+downloads-unblock-type-uncommon = Dié lêer word nie tipies afgelaai nie en is dalk nie veilig om te open nie. Dit bevat dalk 'n virus of kan onverwagse veranderinge aan programme en instellings maak.
+downloads-unblock-tip = Soek gerus vir 'n alternatiewe bron of probeer later weer.
+downloads-unblock-button-open =
+    .label = Open
+downloads-unblock-button-unblock =
+    .label = Laat aflaai toe
+downloads-unblock-button-confirm-block =
+    .label = Verwyder lêer
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -185,3 +206,5 @@ downloads-blocked-uncommon = Dié lêer word nie tipies afgelaai nie.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
