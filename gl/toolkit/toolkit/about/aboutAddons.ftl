@@ -432,6 +432,8 @@ release-notes-error = Sentímolo, pero produciuse un erro ao cargar as notas do 
 addon-permissions-empty2 = Esta extensión non require ningún permiso.
 addon-permissions-learnmore = Saiba máis sobre os permisos
 recommended-extensions-heading = Extensións recomendadas
+recommended-themes-card-heading =
+    .heading = Temas recomendados
 recommended-themes-heading = Temas recomendados
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
