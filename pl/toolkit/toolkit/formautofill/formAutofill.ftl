@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Nie teraz
     .accessKey = N
+credit-card-capture-never-save-payment-methods-button =
+    .label = Nigdy nie zachowuj metod płatności
+    .accessKey = d
 credit-card-capture-never-save-button =
     .label = Nigdy nie zachowuj kart
     .accessKey = d
@@ -64,6 +67,16 @@ autofill-manage-payment-methods-label = Zarządzaj metodami płatności
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = Kod CVC
+
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = Kod CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = Kod CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = Kod CID
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

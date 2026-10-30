@@ -124,7 +124,7 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name } nie będzie 
 permissions-exceptions-addons-window2 =
     .style = { permissions-window2.style }
     .title = Instalacja dodatków — uprawnione witryny
-permissions-exceptions-addons-desc = Określ, które witryny mogą instalować dodatki. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
+permissions-exceptions-addons-desc = Określ, które witryny mogą instalować dodatki. Podaj dokładny adres witryny, której chcesz na to zezwolić, i kliknij Zezwalaj.
 
 ## Site Permissions - Autoplay
 
@@ -142,6 +142,12 @@ permissions-site-notification-desc = Następujące strony prosiły o możliwoś
 permissions-site-notification-disable-label =
     .label = Blokuj nowe prośby o możliwość wyświetlania powiadomień
 permissions-site-notification-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o możliwość wysyłania powiadomień. Zablokowanie powiadomień może spowodować, że niektóre funkcje witryny nie będą działać.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Zezwalaj na wyświetlanie powiadomień także po zamknięciu { -brand-short-name(case: "gen") }
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Obowiązują również ustawienia powiadomień systemu operacyjnego.
 
 ## Site Permissions - Location
 
@@ -150,7 +156,7 @@ permissions-site-location-window2 =
     .title = Informowanie o położeniu — uprawnione witryny
 permissions-site-location-desc = Następujące strony prosiły o możliwość uzyskiwania informacji o położeniu. Określ, które witryny mogą je uzyskiwać. Można także zablokować nowe prośby.
 permissions-site-location-disable-label =
-    .label = Blokowanie nowych próśb o możliwość uzyskiwania informacji o położeniu
+    .label = Blokuj nowe prośby o możliwość uzyskiwania informacji o położeniu
 permissions-site-location-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o możliwość uzyskiwania informacji o położeniu. Zablokowanie uzyskiwania informacji o położeniu może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Virtual Reality
@@ -160,7 +166,7 @@ permissions-site-xr-window2 =
     .title = Rzeczywistość wirtualna — uprawnione witryny
 permissions-site-xr-desc = Następujące strony prosiły o dostęp do urządzeń rzeczywistości wirtualnej. Określ, które witryny mogą uzyskiwać do nich dostęp. Można także zablokować nowe prośby.
 permissions-site-xr-disable-label =
-    .label = Blokowanie nowych próśb o dostęp do urządzeń rzeczywistości wirtualnej
+    .label = Blokuj nowe prośby o dostęp do urządzeń rzeczywistości wirtualnej
 permissions-site-xr-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do urządzeń rzeczywistości wirtualnej. Zablokowanie dostępu do urządzeń rzeczywistości wirtualnej może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - App Links
@@ -179,7 +185,7 @@ permissions-site-camera-window2 =
     .title = Udostępnianie kamery — uprawnione witryny
 permissions-site-camera-desc = Następujące strony prosiły o dostęp do kamery. Określ, które witryny mogą uzyskiwać do niej dostęp. Można także zablokować nowe prośby.
 permissions-site-camera-disable-label =
-    .label = Blokowanie nowych próśb o dostęp do kamery
+    .label = Blokuj nowe prośby o dostęp do kamery
 permissions-site-camera-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do kamery. Zablokowanie dostępu do kamery może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Loopback network
@@ -189,7 +195,7 @@ permissions-site-localhost-window =
     .title = Aplikacje i usługi na urządzeniu — uprawnione witryny
 permissions-site-localhost-desc = Te strony prosiły o dostęp do aplikacji i usług na tym urządzeniu. Możesz na to zezwolić lub zablokować witrynom ten dostęp.
 permissions-site-localhost-disable-label =
-    .label = Blokowanie nowych próśb o dostęp do aplikacji i usług na tym urządzeniu
+    .label = Blokuj nowe prośby o dostęp do aplikacji i usług na tym urządzeniu
 permissions-site-localhost-disable-desc = Spowoduje to, że witryny spoza powyższej listy nie będą mogły prosić o dostęp do aplikacji i usług na tym urządzeniu. Może to sprawić, że niektóre funkcje witryny nie będą poprawnie działać.
 
 ## Site Permissions - Local network
@@ -199,7 +205,7 @@ permissions-site-local-network-window =
     .title = Urządzenia w sieci lokalnej — uprawnione witryny
 permissions-site-local-network-desc = Te strony prosiły o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi. Możesz na to zezwolić lub zablokować witrynom ten dostęp.
 permissions-site-local-network-disable-label =
-    .label = Blokowanie nowych próśb o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi
+    .label = Blokuj nowe prośby o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi
 permissions-site-local-network-disable-desc = Spowoduje to, że witryny spoza powyższej listy nie będą mogły prosić o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi. Może to sprawić, że niektóre funkcje witryny nie będą poprawnie działać.
 
 ## Site Permissions - Microphone
@@ -209,7 +215,7 @@ permissions-site-microphone-window2 =
     .title = Udostępnianie mikrofonu — uprawnione witryny
 permissions-site-microphone-desc = Następujące strony prosiły o dostęp do mikrofonu. Określ, które witryny mogą uzyskiwać do niego dostęp. Można także zablokować nowe prośby.
 permissions-site-microphone-disable-label =
-    .label = Blokowanie nowych próśb o dostęp do mikrofonu
+    .label = Blokuj nowe prośby o dostęp do mikrofonu
 permissions-site-microphone-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do mikrofonu. Zablokowanie dostępu do mikrofonu może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Speaker
