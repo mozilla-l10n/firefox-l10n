@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Erakutsi karpetan
         }
     .accesskey = k
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Fitxategia lekuz aldatu da edo ez dago
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Fitxategia ezabatuta
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Fitxategia baztertuta (blokeatuta)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Tamaina ezezaguna
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,7 +258,15 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Abiarazten…
+downloads-state-failed = Huts egin du
+downloads-state-paused = Pausatuta
+downloads-state-canceled = Utzita
 downloads-state-completed = Eginda
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Guraso-murriztapenek blokeatua
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
@@ -257,12 +275,18 @@ downloads-blocked-malware = Fitxategi honek birusa edo malwarea dauka.
 downloads-blocked-potentially-unwanted = Fitxategi honek zure ordenagailua kalte lezake.
 downloads-blocked-potentially-insecure = Ez da fitxategia deskargatu: balizko segurtasun-arriskua.
 downloads-blocked-uncommon = Fitxategi hau ez da sarri deskargatzen.
+downloads-blocked-by-content-analysis = Zure erakundeak fitxategi hau blokeatu du.
+downloads-warned-by-content-analysis = Deskarga hau ez-segurua izan liteke eta berrespena behar du.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Fitxategia blokeatu egin da { $agent } agentea ez dagoelako atzigarri.
+downloads-content-analysis-invalid-agent-signature-error = Fitxategia blokeatu egin da { $agent } agenteak huts egin duelako sinadura egiaztatzen.
+downloads-content-analysis-unspecified-error = Fitxategia blokeatu egin da errorea gertatu delako { $agent } agentearekin komunikatzean.
+downloads-content-analysis-timeout-error = { $agent } agentea denboraz kanpo gelditu eta beraz fitxategi hau blokeatu egin da.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -270,6 +294,24 @@ downloads-blocked-uncommon = Fitxategi hau ez da sarri deskargatzen.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Ziur zaude deskarga hau baimendu nahi duzula?
+downloads-unblock-header-open = Ziur zaude fitxategi hau ireki nahi duzula?
+downloads-unblock-type-malware = Fitxategi honek zure ordenagailua kaltetuko duen birusa edo bestelako malwarea dauka.
+downloads-unblock-type-potentially-unwanted = Fitxategi hau deskarga lagungarri gisa mozorrotuta dago baina espero gabeko aldaketak egin liezazkie zure programei eta ezarpenei.
+downloads-unblock-type-content-analysis-warn = Zure erakundeak datuen galera eragozteko softwarea darabil eta eduki hau ez-seguru gisa markatu du.
+downloads-unblock-type-uncommon = Fitxategi hau ez da sarri deskargatzen eta irekitzeko ez-segurua izan liteke. Birusen bat izan edo espero gabeko aldaketak eragin litzake zure programa eta ezarpenetan.
+downloads-unblock-insecure = Deskarga HTTP bidez eskaintzen da nahiz eta uneko dokumentua HTTPS konexio seguru bidez banatu den. Jarraitzen baduzu, deskarga-prozesuan hondatua edo manipulatua izan liteke.
+downloads-unblock-tip = Deskargatzeko beste iturri bat bila dezakezu edo saiatu berriro geroago.
+downloads-unblock-content-analysis-warn-tip = Halere deskargatzea erabaki dezakezu.
+downloads-unblock-content-analysis-blocked = Zure erakundeak datuen galera eragozteko softwarea darabil eta deskarga hau blokeatu egin du.
+downloads-unblock-content-analysis-override = Erabaki hau soilik zure erakundeak baliogabe dezake.
+downloads-unblock-content-analysis-tip = Deskargarekin jarrai dezakezu edo bertan behera utzi.
+downloads-unblock-button-open =
+    .label = Ireki
+downloads-unblock-button-unblock =
+    .label = Baimendu deskarga
+downloads-unblock-button-confirm-block =
+    .label = Kendu fitxategia
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -285,3 +327,5 @@ downloads-blocked-uncommon = Fitxategi hau ez da sarri deskargatzen.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
