@@ -1615,6 +1615,11 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Denne nettsida gjer at { -brand-short-name } går tregare. Stopp denne sida for å auke farta på nettlesaren din.
+process-hang-nonspecific-tab-message = Ei nettside gjer at { -brand-short-name } går tregare. Stopp sida for å auke farta på nettlesaren din.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = «{ $title }» gjer at { -brand-short-name } går tregare. Stopp denne sida for å auke farta på nettlesaren din.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }” gjer { -brand-short-name } treg. Stop utvidinga for å gjere nettlesaren raskare.
