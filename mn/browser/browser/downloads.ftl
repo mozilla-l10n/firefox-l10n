@@ -15,6 +15,11 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Үргэлжлүүлж тат
     .accesskey = ж
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Хэмжээ нь мэдэгдээгүй
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -65,6 +70,10 @@ downloads-error-generic =
 ## Downloads Panel and the Downloads View.
 
 downloads-state-starting = Эхэлж байна…
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Өмнөх хяналтын бүрдлээр хоригдсон
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
