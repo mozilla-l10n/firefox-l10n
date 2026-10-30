@@ -1467,6 +1467,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Jedan ili više dodataka nije moguće verificirati, stoga su deaktivirani.
+unsigned-addons-disabled-learn-more =
+    .label = Saznaj više
+    .accesskey = z
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
