@@ -173,6 +173,10 @@ addon-updates-check-for-updates = בדיקה אחר עדכונים
     .accesskey = ב
 addon-updates-view-updates = הצגת עדכונים אחרונים
     .accesskey = ה
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = עדכון תוספות אוטומטי
     .accesskey = ע
 
@@ -311,6 +315,8 @@ preferences-addon-button =
 details-addon-button = פרטים
 release-notes-addon-button = הערות שחרור
 permissions-addon-button = הרשאות
+theme-disabled-heading3 =
+    .heading = ערכות נושא שמורות
 theme-disabled-heading2 = ערכות נושא שמורות
 sitepermission-enabled-heading = מופעל
 sitepermission-disabled-heading = מושבת
