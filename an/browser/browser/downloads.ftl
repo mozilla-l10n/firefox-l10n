@@ -23,6 +23,8 @@ downloads-cmd-cancel =
     .tooltiptext = Cancelar
 downloads-cmd-cancel-panel =
     .aria-label = Cancelar
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = S'ha tresladau lo fichero u no existe
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -179,6 +181,10 @@ downloads-state-blocked-parental-controls = Os Controls Parentals l'ha blocau
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Iste fichero contién un virus u software dolent.
+downloads-blocked-potentially-unwanted = Iste fichero podría danyar o suyo ordinador.
+downloads-blocked-potentially-insecure = No s'ha baixau lo fichero: risgo potencial de seguridat.
+downloads-blocked-uncommon = Iste fichero no se gosa descargar a sobén.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
