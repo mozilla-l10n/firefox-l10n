@@ -1489,6 +1489,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Satu atau beberapa pengaya terinstal tidak dapat diverifikasi dan telah dinonaktifkan.
+unsigned-addons-disabled-learn-more =
+    .label = Pelajari Lebih Lanjut
+    .accesskey = P
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
