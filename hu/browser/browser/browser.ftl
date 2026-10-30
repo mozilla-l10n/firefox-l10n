@@ -1627,8 +1627,17 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-selected-tab-message = Ez az oldal lelassítja a { -brand-short-name } futását. A böngésző felgyorsítása érdekében állítsa le ezt az oldalt.
 process-hang-nonspecific-tab-message = Egy weboldal lelassítja a { -brand-short-name } futását. A böngésző felgyorsítása érdekében állítsa le azt az oldalt.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = A(z) „{ $title }” lelassítja a { -brand-short-name } futását. A böngésző felgyorsítása érdekében állítsa le azt az oldalt.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = A(z) „{ $addonName }” lelassítja a { -brand-short-name } futását. A böngésző felgyorsítása érdekében állítsa le azt a kiegészítőt.
 process-hang-addon-learn-more =
     .value = További tudnivalók
+process-hang-stop-button =
+    .label = Leállítás
+    .accesskey = L
 
 ## Onboarding Finish Setup checklist
 
