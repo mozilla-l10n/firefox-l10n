@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = Fichièr desplaçat o mancant
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Fichièr suprimit
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Talha desconeguda
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,6 +246,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Aviada…
+downloads-state-failed = Fracàs
+downloads-state-paused = En pausa
+downloads-state-canceled = Anullat
 downloads-state-completed = Acabat
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -267,6 +276,19 @@ downloads-blocked-uncommon = Aqueste fichièr es rarament telecargat.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Volètz vertadièrament autorizar aqueste telecargament ?
+downloads-unblock-header-open = Volètz vertadièrament desblocar aqueste fichièr ?
+downloads-unblock-type-malware = Aqueste fichièr conten un virús o un logicial malvolent que pòt damatjar vòstre ordenador.
+downloads-unblock-type-potentially-unwanted = Aqueste fichièr, presentat coma un telecargament legitim, poiriá modificar vòstres programas e paramètres.
+downloads-unblock-type-uncommon = Aqueste fichièr es rarament telecargat e es pas segur lo dobrir. Poiriá conténer un virus o modificar vòstres programas e paramètres.
+downloads-unblock-insecure = Lo telecargament es prepausat en HTTP encara que lo document actual es estat enviat amb una connexion segura HTTPS. Se contunhatz, se pòt corrompre o falsificar lo telecargament pendent lo transferiment.
+downloads-unblock-tip = Podètz recercar una font alternativa de telecargament o ensajar de telecargar aqueste fichièr tornamai pus tard.
+downloads-unblock-button-open =
+    .label = Dobrir
+downloads-unblock-button-unblock =
+    .label = Autorizar lo telecargament
+downloads-unblock-button-confirm-block =
+    .label = Suprimir lo fichièr
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -282,3 +304,5 @@ downloads-blocked-uncommon = Aqueste fichièr es rarament telecargat.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
