@@ -440,6 +440,8 @@ addon-permissions-learnmore = Baimenei buruzko argibide gehiago
 # the user.
 addon-permissions-managed-by-policy = Zenbait baimen zure erakundeak kudeatzen ditu.
 recommended-extensions-heading = Gomendatutako hedapenak
+recommended-themes-card-heading =
+    .heading = Gomendatutako itxurak
 recommended-themes-heading = Gomendatutako itxurak
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
