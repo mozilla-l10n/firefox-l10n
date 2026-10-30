@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Slette data og starte en ny privat økt?
+reset-pbm-panel-description3 = Dette sletter historikken og infokapslene dine og logger deg ut av nettsteder. De private vinduene dine lukkes, og et nytt åpnes.
 reset-pbm-panel-description2 = Dette sletter historikk, infokapsler og alle andre nettstedsdata uten å lukke det private vinduet.
 reset-pbm-panel-always-ask-checkbox =
     .label = Spør meg alltid
@@ -1479,6 +1480,12 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Slett noen eller alle nettleserdataene dine
+    .tooltiptext = Slett noen eller alle nettleserdataene dine
+fire-button-panel-heading = Slette alle nettleserdata?
+fire-button-panel-description = Dette sletter historikk, infokapsler og nettstedsdata. Du blir logget ut av nettsteder. Dette vinduet lukkes, og { -brand-short-name } åpner et nytt.
+fire-button-panel-choose-description = Hvis du ikke vil slette alt, kan du velge bestemte data i stedet.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.

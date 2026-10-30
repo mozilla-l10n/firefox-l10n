@@ -241,6 +241,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Søk i historikk
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Søk i faner
 
 ## Bookmarks Menu
 
@@ -266,6 +269,10 @@ menu-bookmarks-other =
     .label = Andre bokmerker
 menu-bookmarks-mobile =
     .label = Mobile bokmerker
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Vis mer i sidestolpen
 
 ## Profiles Menu
 
