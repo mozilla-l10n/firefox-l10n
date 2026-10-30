@@ -1313,6 +1313,11 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Asebter-a yuɣal ẓẓay { -brand-short-name }. Iwakken ad terreḍ iminig-ik•im d arurad, seḥbes asebter-a.
+process-hang-nonspecific-tab-message = Asebter web yuɣal ẓẓay { -brand-short-name }. Iwakken ad terreḍ iminig-ik•im d arurad, seḥbes asebter-nni.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” yuɣal ẓẓay { -brand-short-name }. Iwakken ad terreḍ iminig-ik•im d arurad, seḥbes asebter-nni.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }” yuɣal ẓẓay { -brand-short-name }. I wakken ad terreḍ iminig-ik•im d arurad, seḥbes asiɣzef-nni.
