@@ -30,6 +30,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Откажи
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Датотеката е преместена или недостасува
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Непозната големина
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -159,6 +164,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Започнува…
+downloads-state-failed = Неуспешно
+downloads-state-paused = Паузирано
+downloads-state-canceled = Откажано
 downloads-state-completed = Завршено
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -184,6 +193,18 @@ downloads-blocked-uncommon = Оваа датотека не е вообичае�
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Дали сте сигурни дека сакате да го дозволите ова преземање?
+downloads-unblock-header-open = Дали сте сигурни дека сакате да ја отворите оваа датотека?
+downloads-unblock-type-malware = Оваа датотека содржи вирус или друг малициозен софтвер што ќе му наштети на вашиот компјутер.
+downloads-unblock-type-potentially-unwanted = Оваа датотека е маскирана како помошно преземање, но всушност може да направи неочекувани измени на вашите програми или поставки.
+downloads-unblock-type-uncommon = Оваа датотека не е преземана вообичаено и би можело да не е безбедно да се отвора. Може да содржи вирус или да направи неочекувани измени на вашите програми и поставки.
+downloads-unblock-tip = Можете да најдете друг извор за преземање или да се обидете повторно подоцна.
+downloads-unblock-button-open =
+    .label = Отвори
+downloads-unblock-button-unblock =
+    .label = Дозволи преземање
+downloads-unblock-button-confirm-block =
+    .label = Избриши датотека
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -199,3 +220,5 @@ downloads-blocked-uncommon = Оваа датотека не е вообичае�
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
