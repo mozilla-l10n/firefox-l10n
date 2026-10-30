@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = S'archìviu ammancat o est istadu mòvidu ater
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Archìviu cantzelladu
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Mannària disconnota
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -250,6 +255,15 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Incumentzende…
+downloads-state-failed = Faddina
+downloads-state-paused = In pàusa
+downloads-state-canceled = Annulladu
+downloads-state-completed = Cumpletadu
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blocadu dae is controllos parentales
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
@@ -271,6 +285,20 @@ downloads-blocked-uncommon = Custu archìviu no ddu iscàrrigant a fitianu.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Seguru chi boles permìtere custu iscarrigamentu?
+downloads-unblock-header-open = Seguru chi ddu boles abèrrere?
+downloads-unblock-type-malware = Custu archìviu cuntenet unu virus o unu programma malu chi at a fàghere dannu a s’elaboradore tuo.
+downloads-unblock-type-potentially-unwanted = Custu archìviu si presentat comente un'iscarrigamentu ùtile, ma diat pòdere modificare de manera disabetada is aplicatziones e is cunfiguratziones tuas.
+downloads-unblock-type-uncommon = Custu archìviu no ddu iscàrrigant a fitianu e podet dare chi non siat seguru de abèrrere. Diat pòdere cuntènnere unu virus o modificare de manera disabetada is aplicatziones e is cunfiguratziones tuas.
+downloads-unblock-insecure = S’iscarrigamentu est frunidu mediante HTTP mancari su matessi documentu si siat trasmìtidu mediante una connessione HTTPS segura. Si sighis, s’iscarrigamentu si diat pòdere corrùmpere o diat pòdere èssere modificadu durante s’iscarrigamentu.
+downloads-unblock-tip = Podes chircare una mitza alternativa pro ddu iscarrigare o torrare a proare luego.
+downloads-unblock-content-analysis-tip = Podes sighire cun s’iscarrigamentu o ddu podes annullare.
+downloads-unblock-button-open =
+    .label = Aberi
+downloads-unblock-button-unblock =
+    .label = Permite s'iscarrigamentu
+downloads-unblock-button-confirm-block =
+    .label = Cantzella s'archìviu
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -286,3 +314,5 @@ downloads-blocked-uncommon = Custu archìviu no ddu iscàrrigant a fitianu.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
