@@ -260,6 +260,10 @@ downloads-state-blocked-parental-controls = Blokováno rodičovskou kontrolou
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Tento soubor obsahuje virus či malware.
+downloads-blocked-potentially-unwanted = Tento soubor může poškodit váš počítač.
+downloads-blocked-potentially-insecure = Soubor nebyl stažen z důvodu možného bezpečnostního rizika.
+downloads-blocked-uncommon = Tento soubor není běžně stahován.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
