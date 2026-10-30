@@ -440,6 +440,8 @@ addon-permissions-learnmore = Lue lisää käyttöoikeuksista
 # the user.
 addon-permissions-managed-by-policy = Joitakin käyttöoikeuksia hallinnoi organisaatiosi.
 recommended-extensions-heading = Suositellut laajennukset
+recommended-themes-card-heading =
+    .heading = Suositellut teemat
 recommended-themes-heading = Suositellut teemat
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
