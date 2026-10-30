@@ -64,7 +64,7 @@ customkeys-caution-message = Ez egy kísérleti funkció, és lehet, hogy nem a 
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Érvénytelen
 customkeys-shortcut-unassigned =
-    .placeholder = Indítóikon hozzáadása
+    .placeholder = Gyorsbillentyű hozzáadása
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = Gyorsbillentyű ehhez: { $keyLabel }
@@ -108,7 +108,7 @@ customkeys-conflict-unusable-title = A kulcs nem használható
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-unusable-body = Ezt a kulcsot már a(z) „{ $conflict }” használja, és nem használható.
 customkeys-reset-all-confirm-title = Alapértelmezések helyreállítása?
-customkeys-reset-all-confirm-body = A létrehozott egyéni billentyűparancsok el lesznek távolítva.
+customkeys-reset-all-confirm-body = A létrehozott egyéni gyorsbillentyűk el lesznek távolítva.
 customkeys-reset-all-confirm-button-confirm = Alapértelmezések helyreállítása
 customkeys-reset-all-confirm-button-cancel = Mégse
 
