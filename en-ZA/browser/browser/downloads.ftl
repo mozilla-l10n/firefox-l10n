@@ -19,6 +19,11 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Resume
     .accesskey = R
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Unknown size
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -124,10 +129,17 @@ downloads-state-starting = Starting…
 downloads-state-failed = Failed
 downloads-state-paused = Paused
 downloads-state-canceled = Cancelled
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blocked by Parental Controls
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = This file contains a virus or malware.
+downloads-blocked-potentially-unwanted = This file may harm your computer.
+downloads-blocked-uncommon = This file is not commonly downloaded.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
@@ -141,6 +153,18 @@ downloads-state-canceled = Cancelled
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Are you sure you want to allow this download?
+downloads-unblock-header-open = Are you sure you want to open this file?
+downloads-unblock-type-malware = This file contains a virus or other malware that will harm your computer.
+downloads-unblock-type-potentially-unwanted = This file is disguised as a helpful download, but it can make unexpected changes to your programs and settings.
+downloads-unblock-type-uncommon = This file is not commonly downloaded and may not be safe to open. It may contain a virus or make unexpected changes to your programs and settings.
+downloads-unblock-tip = You can search for an alternate download source or try again later.
+downloads-unblock-button-open =
+    .label = Open
+downloads-unblock-button-unblock =
+    .label = Allow download
+downloads-unblock-button-confirm-block =
+    .label = Remove file
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -156,3 +180,5 @@ downloads-state-canceled = Cancelled
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
