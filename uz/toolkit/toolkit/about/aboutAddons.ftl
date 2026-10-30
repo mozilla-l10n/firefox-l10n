@@ -4,6 +4,10 @@
 
 addons-page-title = Qoʻshimcha dasturlar boshqaruvchisi
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+
 ##
 
 list-empty-installed =
@@ -123,6 +127,10 @@ addon-updates-check-for-updates = Yangilanishlar uchun tekshirish
     .accesskey = t
 addon-updates-view-updates = Soʻnggi yangilanishlarni koʻrish
     .accesskey = k
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Qoʻshimcha dasturlarni avtomatik yangilash
     .accesskey = Q
 
@@ -153,6 +161,9 @@ addon-install-from-file-filter-name = Qoʻshimcha dasturlar
 addon-open-about-debugging = Qo‘shimcha dasturlarni tuzatish
     .accesskey = t
 
+## Extension shortcut management
+
+
 ## Recommended add-ons page
 
 # Notice to make user aware that the recommendations are personalized.
@@ -161,8 +172,24 @@ discopane-notice-recommendations2 =
         Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
         kengaytmalar, profil sozlamalari va foydalanish statistikasi asosida tavsiya etiladi.
 
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
 ##
 
+recommended-themes-card-heading =
+    .heading = Tavsiya etilgan mavzular
 recommended-themes-heading = Tavsiya etilgan mavzular
 
 ## Page headings
@@ -194,3 +221,38 @@ plugins-gmp-privacy-info = Maxfiylik haqida ma’lumot
 plugins-openh264-name = OpenH264 video kodek Cisco Systems, Inc. tomonidan keltirilgan
 plugins-openh264-description = Bu plagin WebRTC ko‘rsatmalari bilan ishlashi va H.264 video kodekni talab qiladigan qurilmalarda WebRTC qo‘ng‘rioqlarini yoqib qo‘yish uchun Mozilla tomonidan o‘rnatildi. Kodek manba kodini ko‘rish va ishlatish bo‘icha batafsil ma’lumot olish uchun https://www.openh264.org/ saytiga tashrif buyuring.
 plugins-widevine-name = Google Inc tomonidan keltirilgan Widevine Content Decryption Module.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
