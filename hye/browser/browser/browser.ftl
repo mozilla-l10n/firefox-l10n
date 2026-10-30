@@ -841,6 +841,14 @@ popup-show-popup-menuitem =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Այս կայքը դանդաղեցնում է { -brand-short-name }-ի աշխատանքը: Զննարկչի աշխատանքը արագացնելու համար, փակէք այս էջը։
+process-hang-nonspecific-tab-message = Այս կայքը դանդաղեցնում է { -brand-short-name }-ի աշխատանքը: Զննարկչի աշխատանքն արագացնելու համար, փակէք այս էջը։
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “ { $title } ”-ը դանդաղեցում է { -brand-short-name }-ի աշխատանքը: Զննարկչի աշխատանքն արագացնելու համար, փակէք այս էջը։
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “ { $addonName } ”-ը դանդաղեցնում է { -brand-short-name }-ի աշխատանքը: Զննարկչի աշխատանքն արագացնելու համար, դադարեցրէք ընդլայման աշխատանքը։
 process-hang-addon-learn-more =
     .value = Իմանալ աւելին
 process-hang-stop-button =
