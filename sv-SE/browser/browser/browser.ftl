@@ -1620,6 +1620,14 @@ file-picker-crashed-show-in-folder =
 
 process-hang-selected-tab-message = Den här sidan slöar ner { -brand-short-name }. Stoppa den här sidan för att snabba upp din webbläsare.
 process-hang-nonspecific-tab-message = En webbsida slöar ner { -brand-short-name }. Stoppa sidan för att snabba upp din webbläsare.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = "{ $title }" slöar ner { -brand-short-name }. Stoppa sidan för att snabba upp din webbläsare.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = "{ $addonName }" slöar ner { -brand-short-name }. För att snabba upp din webbläsare, stoppa tillägget.
+process-hang-addon-learn-more =
+    .value = Läs mer
 
 ## Onboarding Finish Setup checklist
 
