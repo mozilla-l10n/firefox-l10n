@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Limpar os dados e iniciar uma nova sessão privativa?
+reset-pbm-panel-description3 = Isto limpa o histórico e cookies, além de encerrar sessões de contas em sites. Suas janelas privativas são fechadas e uma nova janela é aberta.
 reset-pbm-panel-description2 = São excluídos histórico, cookies e todos os outros dados de sites, sem fechar sua janela privativa.
 reset-pbm-panel-always-ask-checkbox =
     .label = Sempre perguntar
