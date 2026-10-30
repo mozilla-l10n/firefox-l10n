@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = Faili on liigutatud või see puudub
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Fail kustutati
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Tundmatu suurus
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -241,6 +246,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Alustamine…
+downloads-state-failed = Ebaõnnestus
+downloads-state-paused = Peatatud
+downloads-state-canceled = Katkestatud
 downloads-state-completed = Lõpetatud
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -267,6 +276,18 @@ downloads-blocked-uncommon = Seda faili laaditakse alla harva.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Kas oled kindel, et soovid selle allalaadimise lubada?
+downloads-unblock-header-open = Kas oled kindel, et soovid selle faili avada?
+downloads-unblock-type-malware = See fail sisaldab viirust või muud pahavara, mis on sinu arvutile kahjulik.
+downloads-unblock-type-potentially-unwanted = See fail, mida pakutakse abistava allalaadimisena, võib teha ootamatuid muudatusi sinu programmides ja sätetes.
+downloads-unblock-type-uncommon = Seda faili laaditakse alla harva ja selle avamine ei pruugi olla ohutu. See võib sisaldada viirust või teha ootamatuid muudatusi sinu programmides ja sätetes.
+downloads-unblock-tip = Sa võid otsida alternatiivset allikat, kust see fail alla laadida, või proovida seda hiljem uuesti alla laadida.
+downloads-unblock-button-open =
+    .label = Ava
+downloads-unblock-button-unblock =
+    .label = Luba allalaadimine
+downloads-unblock-button-confirm-block =
+    .label = Kustuta fail
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -282,3 +303,5 @@ downloads-blocked-uncommon = Seda faili laaditakse alla harva.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
