@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = မလုပ်ဆောင်တော့ပါ
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = ဖိုင်ကို ရွှေ့ထား သို့မဟုတ် ပျောက်ဆုံးနေသည်
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = အရွယ်အစား မသိရပါ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -157,6 +162,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = စတင်နေသည်…
+downloads-state-failed = မအောင်မြင်ပါ
+downloads-state-paused = ခေတ္တရပ်ထားသည်
+downloads-state-canceled = ဖျက်သိမ်းထားသည်
 downloads-state-completed = ပြီးစီးပါပြီ
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -182,6 +191,18 @@ downloads-blocked-uncommon = ဒီဖိုင်ကို အများအ�
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = ဒီဆွဲယူမှုကို ဆောင်ရွက်ခွင့်ပြုမည်မှာ သေချာပါသလား။
+downloads-unblock-header-open = ဒီဖိုင်ကို ဖွင့်မည်မှာ သေချာပါသလား။
+downloads-unblock-type-malware = ဒီဖိုင်တွင် သင့်ကွန်ပြူတာကို ထိခိုက်စေနိုင်သည့် ဗိုင်းရပ်စ် သို့မဟုတ် အခြား ခိုးယူတိုက်ခိုက်သည့် ဆော့ဖ်ဝဲ ပါဝင်သည်။
+downloads-unblock-type-potentially-unwanted = ဒီဖိုင်သည် အသုံးဝင်နိုင်သည်ဟု ဟန်ဆောင်ထားသောဖိုင် ဖြစ်ပါသည်။ ၎င်းသည် သင့်ပရိုဂရမ်များနှင့် အပြင်အဆင်များကို မထင်မှတ်ထားသည့် ပြောင်းလဲမှုများ ပြုလုပ်နိုင်သည်။
+downloads-unblock-type-uncommon = ဒီဖိုင်ကို အများအားဖြင့် ဆွဲချယူလေ့ မရှိကြပါ။ ထို့ပြင် ဖွင့်ရန် ဘေးကင်းမှုမရှိပါ။ ၎င်းဖိုင်တွင် ဗိုင်းရပ်စ် ပါဝင်နိုင်သည် သို့မဟုတ် ပရိုဂရမ်များနှင့် အပြင်အဆင်များကို မထင်မှတ်ထားသည့် ပြောင်းလဲမှုများ ဖြစ်ပေါ်စေနိုင်သည်။
+downloads-unblock-tip = သင်သည် အခြားကူးယူနိုင်သည့် အရင်းအမြစ်တွင် ရှာဖွေနိုင်သည်။ သို့မဟုတ် နောက်တွင် ထပ်မံ ဆောင်ရွက်ကြည့်ပါ။
+downloads-unblock-button-open =
+    .label = ဖွင့်ပါ
+downloads-unblock-button-unblock =
+    .label = ဆွဲချကူးခွင့်ပြုပါ
+downloads-unblock-button-confirm-block =
+    .label = ဖိုင်ကို ဖျက်ရန်
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -197,3 +218,5 @@ downloads-blocked-uncommon = ဒီဖိုင်ကို အများအ�
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —   { $end }
