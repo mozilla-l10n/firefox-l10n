@@ -35,6 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Показване в папката
         }
     .accesskey = П
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Файлът е преместен или липсва
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Файлът е изтрит
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Неизвестен размер
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -245,6 +255,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Започване…
+downloads-state-failed = Неуспешно
+downloads-state-paused = На пауза
+downloads-state-canceled = Прекъснато
 downloads-state-completed = Завършено
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -258,12 +272,18 @@ downloads-blocked-malware = Файлът съдържа вирус или зло
 downloads-blocked-potentially-unwanted = Файлът може да навреди на компютъра.
 downloads-blocked-potentially-insecure = Файлът не е изтеглен: Вероятен риск за сигурността.
 downloads-blocked-uncommon = Такива файлове обикновено не се предлагат за изтегляне.
+downloads-blocked-by-content-analysis = Файлът е блокиран от вашата организация.
+downloads-warned-by-content-analysis = Изтеглянето може да е опасно и изисква потвърждение.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Файлът е блокиран, защото { $agent } е недостъпен.
+downloads-content-analysis-invalid-agent-signature-error = Файлът беше блокиран, защото { $agent } не премина проверката на подпис.
+downloads-content-analysis-unspecified-error = Файлът беше блокиран поради грешка при общуването с { $agent }.
+downloads-content-analysis-timeout-error = Времето за изчакване на { $agent } изтече, затова файлът беше блокиран.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -271,6 +291,24 @@ downloads-blocked-uncommon = Такива файлове обикновено н
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Сигурни ли сте, че желаете да разрешите това изтегляне?
+downloads-unblock-header-open = Сигурни ли сте, че искате да отворите този файл?
+downloads-unblock-type-malware = Този файл съдържа вирус или шпионски софтуер, който може да навреди на компютъра.
+downloads-unblock-type-potentially-unwanted = Този файл, маскиран като полезно приложение, ще направи неочаквани промени в програмите и настройките.
+downloads-unblock-type-content-analysis-warn = Организацията ви използва софтуер за предотвратяване загуба на данни, който е маркирал това съдържание като опасно.
+downloads-unblock-type-uncommon = Такива файлове обикновено не се предлагат за изтегляне и е възможно да са опасни. Може да съдържат вирус или да направят промени на програмите и настройките ви.
+downloads-unblock-insecure = Изтеглянето се предлага през HTTP, въпреки че текущият документ е доставен през защитена HTTPS връзка. Ако продължите, изтеглянето може да бъде повредено или подправено по време на процеса на изтегляне.
+downloads-unblock-tip = Може да потърсите алтернативен източник или да го изтеглите отново.
+downloads-unblock-content-analysis-warn-tip = Можете да изберете да го изтеглите въпреки това.
+downloads-unblock-content-analysis-blocked = Вашата организация използва софтуер за предотвратяване на загуба на данни, който е блокирал това изтегляне.
+downloads-unblock-content-analysis-override = Това решение може да бъде отменено само от вашата организация.
+downloads-unblock-content-analysis-tip = Може да продължите изтеглянето или да го откажете.
+downloads-unblock-button-open =
+    .label = Отваряне
+downloads-unblock-button-unblock =
+    .label = Разрешаване на изтеглянето
+downloads-unblock-button-confirm-block =
+    .label = Премахване
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -286,3 +324,5 @@ downloads-blocked-uncommon = Такива файлове обикновено н
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } – { $end }
