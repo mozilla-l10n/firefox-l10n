@@ -248,6 +248,9 @@ downloads-error-generic =
 ## Downloads Panel and the Downloads View.
 
 downloads-state-starting = Započinje …
+downloads-state-failed = Nije uspjelo
+downloads-state-paused = Zaustavljeno
+downloads-state-canceled = Prekinuto
 downloads-state-completed = Dovršeno
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
