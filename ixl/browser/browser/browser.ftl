@@ -315,6 +315,9 @@ navbar-search =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-learn-more =
+    .label = Ootzi ka'te
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
