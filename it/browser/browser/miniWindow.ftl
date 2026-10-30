@@ -45,7 +45,7 @@ screenshots-component-reselect-button = Ricomincia
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
     .label = Mini finestra
-    .tooltiptext = Utilizza finestra ridotta
+    .tooltiptext = Utilizza mini finestra
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
     .label = Sposta la sezione in mini finestra

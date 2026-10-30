@@ -325,7 +325,7 @@ ip-protection-site-rules-rule-excluded = VPN sempre disattivata
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =
-    .aria-label = Modifica la regola relativa per { $website }
+    .aria-label = Modifica la regola per { $website }
     .title = Modifica
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
@@ -336,7 +336,7 @@ ip-protection-site-rules-header =
     .heading = Gestisci le regole per i siti web
 ip-protection-site-rules-button =
     .description = Imposta regole specifiche per i siti che richiedono maggiore privacy o una connessione senza VPN.
-    .label = Gestisci  regole per i siti web
+    .label = Gestisci regole per i siti web
 ip-protection-autostart =
     .label = Attiva VPN automaticamente
 ip-protection-autostart-checkbox =

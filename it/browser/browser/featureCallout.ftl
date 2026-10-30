@@ -117,7 +117,7 @@ fxa-adoption-passwords-primary-button-label = Registrati
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Mantieni i tuoi feed preferiti nella barra delle applicazioni
-taskbar-tabs-social-callout-subtitle = Apri i tuoi social preferiti come un’app, in una finestra essenziale e protetta da { -brand-short-name }
+taskbar-tabs-social-callout-subtitle = Apri i tuoi social preferiti come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Chatta dalla barra delle applicazioni
 taskbar-tabs-chat-callout-subtitle = Apri le tue chat preferite come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-email-callout-title = Mantieni la tua email nella barra delle applicazioni

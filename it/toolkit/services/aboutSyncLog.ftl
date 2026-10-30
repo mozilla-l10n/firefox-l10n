@@ -46,8 +46,8 @@ about-sync-log-clear-button =
 #   $count (Number) - Number of logs currently shown.
 about-sync-log-count =
     { $count ->
-        [one] { $count } registrazione
-       *[other] { $count } registrazioni
+        [one] { $count } registro
+       *[other] { $count } registri
     }
 # Heading of a log in the list, stating its outcome and when it was written.
 # Variables:
