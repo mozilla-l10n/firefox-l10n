@@ -104,6 +104,8 @@ item-cached-content-with-size2 =
 item-cached-content2 =
     .label = Ideiglenes fájlok
     .accesskey = I
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Segít a webhelyek gyorsabb betöltésében
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -123,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Mentett űrlap-információk
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nevek, e-mail-címek és űrlapbejegyzések
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Webhelyengedélyek és -beállítások
 item-formdata-description = Törli a neveket, e-mail-címeket és az űrlapokon beírt egyéb elemeket
 item-site-prefs-description = Visszaállítja az engedélyeket és a webhely beállításait az eredeti beállításokra
 data-section-label = Adatok
@@ -132,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Kapcsolat nélküli webhelyadatok
     .accesskey = o
+sanitize-everything-undo-warning2 = Ez nem vonható vissza.
 sanitize-everything-undo-warning = Ez a művelet nem vonható vissza.
 window-close =
     .key = w
