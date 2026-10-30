@@ -562,10 +562,14 @@ onboarding-refresh-terms-of-use-with-links = Drwy barhau, rydych yn cytuno i <a 
 onboarding-refresh-data-collection-link = Rheoli gosodiadau casglu data
 onboarding-refresh-primary-button = Parhau
 onboarding-refresh-fro-import-header = Dewch â'ch data i mewn
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Eich un chi yw e o hyd. Dyw { -brand-product-name } byth yn gwerthu data personol.
 onboarding-refresh-fro-import-body = Mae eich data personol yn aros yn bersonol. Bydd { -brand-product-name } byth yn ei werthu.
 onboarding-refresh-fro-skip-button = Hepgor
 onboarding-refresh-fro-theme-header = Chwarae gyda'ch golwg
 onboarding-refresh-tab-layout-header = Rhowch gynnig ar gynllun tabiau gwahanol
+onboarding-refresh-fro-tab-layout-title = Dewiswch gynllun tab newydd
 onboarding-refresh-tab-layout-top = Ar ben
 onboarding-refresh-tab-layout-side = Ar yr ochr
 onboarding-refresh-tab-layout-minimal = Lleiaf

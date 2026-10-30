@@ -142,6 +142,12 @@ permissions-site-notification-desc = Mae'r gwefannau canlynol wedi gofyn i gael 
 permissions-site-notification-disable-label =
     .label = Rhwystro ceisiadau newydd i ganiatáu hysbysiadau
 permissions-site-notification-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd heb ei rhestru uchod rhag gofyn am ganiatâd i anfon hysbysiadau. Gall rhwystro hysbysiadau dorri nodweddion rhai gwefannau.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Caniatáu hysbysiadau gwefan pan fydd { -brand-short-name } ar gau
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Mae eich gosodiadau hysbysu OS hefyd yn berthnasol.
 
 ## Site Permissions - Location
 

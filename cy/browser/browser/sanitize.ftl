@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Ers { $midnightTime }
 clear-time-duration-value-today =
     .label = Heddiw
+clear-time-duration-value-all-time =
+    .label = Yr holl amseroedd
 clear-time-duration-value-everything =
     .label = Popeth
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Hanes
+item-history-and-downloads2 =
+    .label = Hanes pori a llwytho
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Gwefannau wedi cael ymweliad a llwythi
 item-history-and-downloads =
     .label = Hanes Pori a Llwytho i Lawr
     .accesskey = H
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cwcis a data gwefan
     .accesskey = C
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Eich allgofnodi ac efallai bydd yn clirio troliau siopa
 item-cookies-site-data-description = Gall eich allgofnodi o wefannau neu gartiau siopa gwag
 item-active-logins =
     .label = Mewngofnodion Gweithredol
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Storfa Dros Dro
     .accesskey = S
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Ffeiliau dros dro ( { $amount } { $unit } )
+    .accesskey = F
+item-cached-content2 =
+    .label = Ffeiliau dros dro
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Yn helpu gwefannau i lwytho'n gyflymach
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Manylion ffurflen wedi'i chadw
     .accesskey = M
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Enwau, e-byst, a chofnodion ffurflenni
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Caniatâd a dewisiadau gwefan
 item-formdata-description = Yn clirio pethau fel enwau, e-byst, ac eitemau eraill rydych chi'n eu nodi ar ffurflenni
 item-site-prefs-description = Yn ailosod eich caniatâd a'ch dewisiadau gwefan i'r gosodiadau gwreiddiol
 data-section-label = Data
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Data Gwefan All-lein
     .accesskey = D
+sanitize-everything-undo-warning2 = Does dim modd dadwneud hyn.
 sanitize-everything-undo-warning = Nid oes modd dadwneud y weithred hon.
 window-close =
     .key = w
