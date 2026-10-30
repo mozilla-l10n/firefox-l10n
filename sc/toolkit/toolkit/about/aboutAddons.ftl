@@ -366,6 +366,8 @@ release-notes-loading = Carrighende…
 release-notes-error = Faddina in sa càrriga de is notas de sa versione.
 addon-permissions-learnmore = Àteras informatziones subra de is permissos
 recommended-extensions-heading = Estensiones cussigiadas
+recommended-themes-card-heading =
+    .heading = Temas cussigiados
 recommended-themes-heading = Temas cussigiados
 
 ## Page headings
