@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Kontrolearje op fernijingen
     .accesskey = K
 addon-updates-view-updates = Resinte fernijingen toane
     .accesskey = T
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Add-ons automatysk fernije
     .accesskey = a
 
@@ -325,6 +329,8 @@ release-notes-addon-button = Utjefteopmerkingen
 permissions-addon-button = Tastimmingen
 extension-enabled-heading = Ynskeakele
 extension-disabled-heading = Utskeakele
+theme-disabled-heading3 =
+    .heading = Bewarre tema’s
 theme-enabled-heading = Ynskeakele
 theme-disabled-heading2 = Bewarre tema’s
 plugin-enabled-heading = Ynskeakele
