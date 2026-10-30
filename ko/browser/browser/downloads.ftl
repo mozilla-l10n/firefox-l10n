@@ -239,3 +239,43 @@ downloads-error-generic =
     알 수 없는 오류가 발생하여 다운로드를 저장할 수 없습니다.
     
     다시 시도하세요.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = 이 파일은 바이러스나 악성코드를 포함하고 있습니다.
+downloads-blocked-potentially-unwanted = 컴퓨터를 망가뜨릴 수도 있는 파일입니다.
+downloads-blocked-potentially-insecure = 파일이 다운로드되지 않음: 잠재적인 보안 위험
+downloads-blocked-uncommon = 이 파일은 일반적으로 다운로드하지 않습니다.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
