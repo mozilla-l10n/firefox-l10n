@@ -1475,6 +1475,10 @@ unsigned-addons-disabled-learn-more =
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
 process-hang-selected-tab-message = Ova stranica usporava { -brand-short-name }. Za ubrzanje preglednika, zaustavi ovu stranicu.
+process-hang-nonspecific-tab-message = Jedna web stranica usporava { -brand-short-name }. Za ubrzanje preglednika zaustavi tu stranicu.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” usporava { -brand-short-name }. Za ubrzanje preglednika, zaustavi tu stranicu.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }” usporava { -brand-short-name }. Za ubrzanje preglednika, zaustavi to proširenje.
