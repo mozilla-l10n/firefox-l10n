@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Monstrar in dossier
         }
     .accesskey = F
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = File delite
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
