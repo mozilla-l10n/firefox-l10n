@@ -90,6 +90,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies a data stránek
     .accesskey = C
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Odhlásí vás a může vyprázdnit nákupní košíky
 item-cookies-site-data-description = Může vás odhlásit z webů nebo vyprázdnit nákupní košíky
 item-active-logins =
     .label = Aktivní přihlášení
@@ -127,6 +129,8 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Uložené údaje z formulářů
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Jména, e-maily a údaje z formulářů
 # Description for the "Site settings" item, which can be selected for deletion
 item-site-prefs-description2 = Oprávnění a předvolby webových stránek
 item-formdata-description = Vymaže jména, e-mailové adresy a další informace, které jste zadali do formulářů
@@ -138,6 +142,7 @@ item-site-settings =
 item-offline-apps =
     .label = Offline obsah
     .accesskey = O
+sanitize-everything-undo-warning2 = Tuto akci nelze vrátit.
 sanitize-everything-undo-warning = Tuto akci nelze vzít zpět.
 window-close =
     .key = w

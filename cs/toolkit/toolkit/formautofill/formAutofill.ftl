@@ -104,6 +104,12 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-capture-update-payment-method-button =
     .label = Aktualizovat
     .accessKey = A
+credit-card-update-saved-payment-method-doorhanger-header = Aktualizovat uloženou platební metodu?
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Uložit jako novou
+    .accessKey = U
 
 ## Used on the doorhanger when a saved card is submitted with a new or changed
 ## security code.
@@ -113,6 +119,10 @@ credit-card-save-security-code-doorhanger-header = Uložit bezpečnostní kód?
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = Uložit tuto platební metodu?
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } šifruje a automaticky vyplňuje vaše platební údaje pro rychlejší platby.
 credit-card-capture-dismiss-button =
     .label = Zavřít
     .accessKey = Z

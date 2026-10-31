@@ -140,6 +140,7 @@
     }
     .case-status = with-cases
     .gender = masculine
+-firefox-enterprise-brand-name = Firefox Enterprise
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
