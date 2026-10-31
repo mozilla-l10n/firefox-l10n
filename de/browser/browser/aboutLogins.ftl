@@ -233,11 +233,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] { $count } Passwort von allen Geräten entfernen?
        *[other] Alle { $count } Passwörter von allen Geräten entfernen?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } Passwort löschen?
+       *[other] { $count } Passwörter löschen?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [one] Dadurch wird das in { -brand-short-name } gespeicherte Passwort auf allen synchronisierten Geräten gelöscht. Dadurch werden auch alle hier angezeigten Warnungen von Datenlecks gelöscht. Sie können diese Aktion nicht rückgängig machen.
        *[other] Dadurch werden alle in { -brand-short-name } gespeicherten Passwörter auf allen synchronisierten Geräten gelöscht. Dadurch werden auch alle hier angezeigten Warnungen von Datenlecks gelöscht. Sie können diese Aktion nicht rückgängig machen.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Dadurch wird es auf jedem Gerät aus { -brand-short-name } gelöscht, das Ihre Passwörter synchronisiert. Dies kann nicht rückgängig gemacht werden.
+        [one] Dadurch wird es auf jedem Gerät aus { -brand-short-name } gelöscht, das Ihre Passwörter synchronisiert. Dies kann nicht rückgängig gemacht werden.
+       *[other] Dadurch werden diese aus { -brand-short-name } auf jedem Gerät gelöscht, das Ihre Passwörter synchronisiert. Dies kann nicht rückgängig gemacht werden.
     }
 
 ##

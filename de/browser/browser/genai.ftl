@@ -96,6 +96,7 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Dieses Menü wird nicht angezeigt, wenn Sie Text auswählen. Öffnen Sie die Einstellungen <span data-l10n-name="chevron"></span> Tabs und Surfen, um es wieder anzuzeigen.
 genai-more-actions-manage-settings =
     .label = Einstellungen verwalten
+genai-selection-callout-title = Text hervorheben, um eine Aktion auszuwählen
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } fragen
