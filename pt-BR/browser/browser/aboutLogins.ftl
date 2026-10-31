@@ -180,7 +180,11 @@ about-logins-confirm-delete-dialog-title = Remover senha?
 about-logins-confirm-delete-dialog-title2 = Excluir senha?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Você não pode desfazer esta ação.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = A senha é excluída do { -brand-short-name } em todos os dispositivos que sincronizam suas senhas. Isto não pode ser desfeito.
 about-logins-confirm-remove-dialog-confirm-button = Remover
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Excluir
 
 ## Variables
 ##   $count (number) - Number of items
@@ -191,12 +195,26 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Remover
        *[other] Remover tudo
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Excluir
+        [one] Excluir
+       *[other] Excluir todas
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Sim, remover senha
         [one] Sim, remover senha
        *[other] Sim, remover senhas
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Sim, excluir senha
+        [one] Sim, excluir senha
+       *[other] Sim, excluir senhas
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -216,6 +234,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Remover { $count } senha de todos os dispositivos?
        *[other] Remover todas as { $count } senhas de todos os dispositivos?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Excluir { $count } senha?
+       *[other] Excluir { $count } senhas?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
