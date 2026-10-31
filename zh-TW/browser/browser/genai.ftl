@@ -96,6 +96,7 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = 選擇文字時不會看到此選單。前往設定 <span data-l10n-name="chevron"></span> 分頁並瀏覽，即可再次顯示。
 genai-more-actions-manage-settings =
     .label = 管理設定
+genai-selection-callout-title = 反白文字即可選擇操作
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 問問 { $provider }
