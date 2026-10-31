@@ -89,6 +89,7 @@ about-logins-intro-import3 = Vel plussteiknet ovanfor for å leggje til eit pass
 about-logins-login-item-new-login-title = Legg til passord
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
+about-logins-login-item-delete-button = Slett
 login-item-origin-label = Nettstadadresse
 about-logins-origin-tooltip2 = Skriv inn heile adressa og sørg for at ho stemmer nøyaktig overeins med kvar du loggar på.
 # Variables
@@ -174,9 +175,13 @@ confirmation-dialog-dismiss-button =
     .title = Avbryt
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Fjerne passordet?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Slette passord?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Du kan ikkje angre denne handlinga.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Slett
 
 ## Variables
 ##   $count (number) - Number of items
@@ -185,6 +190,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjern
        *[other] Fjern alle
+    }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Slett
+        [one] Slett alle
+       *[other] Slett alle
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
