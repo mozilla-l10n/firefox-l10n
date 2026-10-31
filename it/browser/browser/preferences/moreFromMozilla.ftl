@@ -113,3 +113,4 @@ more-from-moz-solo-box-link =
     .label = Prova { -solo-ai-brand-name }
 more-from-moz-new-products-box-link =
     .label = Scopri i nuovi prodotti
+

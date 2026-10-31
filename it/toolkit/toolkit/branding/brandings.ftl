@@ -63,3 +63,4 @@
         [lowercase-singular] finestra smart
        *[lowercase-plural] finestre smart
     }
+

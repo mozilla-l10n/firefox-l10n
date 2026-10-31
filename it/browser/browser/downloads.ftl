@@ -329,3 +329,4 @@ downloads-unblock-button-confirm-block =
 
 downloads-status-separator = { $start } — { $end }
 downloads-status-separator-before-number = { $start } —  { $end }
+
