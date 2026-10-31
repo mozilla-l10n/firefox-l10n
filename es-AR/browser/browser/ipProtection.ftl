@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Llegue más lejos c
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar su ubicación y proteger sus datos, aunque esté en ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navegación con protección adicional ocultando la ubicación, incluso en ventana privada.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Ayuda a ocultar la ubicación mientras se navega. Establezca reglas para activar la VPN cuando quiera <a data-l10n-name="learn-more-vpn">privacidad adicional</a> o navegación basada en la ubicación, y desactive cuando noqueiera.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Se puede ayudar a ocultar la ubicación para <a data-l10n-name="learn-more-vpn">privacidad adicional</a> mientras se navega. Hay que establecer reglas para activar la VPN para privacidad adicional o navegación basada en la ubicación, y desactivarla donde no haga falta.
 ipprotection-feature-introduction-title-captive-portal = ¿En un Wi-Fi público? Pruebe la VPN integrada de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navegación con protección adicional ocultando la ubicación, incluso en Wi-Fi público.
@@ -463,5 +465,7 @@ vpn-error-page-keep-browsing = Seguir navegando en esta sesión
 vpn-error-page-new-session = Empezar una sesión nueva
 vpn-paused-alert-close-tabs-button = Cerrar todas las pestañas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
+vpn-error-alert-title-1 = La VPN y las reglas no están funcionando en este momento.
+vpn-error-alert-body-1 = Activar y desactivar la VPN puede solucionar el problema.
 vpn-error-alert-title = La VPN no está funcionando en este momento.
 vpn-error-alert-body = Probar de nuevo más tarde.
