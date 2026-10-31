@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = 다른 브라우저에�
 about-logins-menu-menuitem-import-from-a-file = 파일에서 가져오기…
 about-logins-menu-menuitem-export-logins2 = 비밀번호 내보내기…
 about-logins-menu-menuitem-remove-all-logins2 = 모든 비밀번호 제거…
+about-logins-menu-menuitem-delete-all-logins = 모든 비밀번호 삭제…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 설정
@@ -85,6 +86,7 @@ about-logins-intro-import3 = 지금 비밀번호를 추가하려면 위의 더�
 about-logins-login-item-new-login-title = 비밀번호 추가
 login-item-edit-button = 편집
 about-logins-login-item-remove-button = 삭제
+about-logins-login-item-delete-button = 삭제
 login-item-origin-label = 웹 사이트 주소
 about-logins-origin-tooltip2 = 전체 주소를 입력하고 로그인한 주소와 정확히 일치하는지 확인하세요.
 # Variables
@@ -170,9 +172,13 @@ confirmation-dialog-dismiss-button =
     .title = 취소
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = 비밀번호를 제거하시겠습니까?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = 비밀번호를 삭제하시겠습니까?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = 삭제
 
 ## Variables
 ##   $count (number) - Number of items
@@ -182,11 +188,23 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] 삭제
        *[other] 모두 삭제
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] 삭제
+       *[other] 모두 삭제
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] 예, 비밀번호 제거
        *[other] 예, 비밀번호 제거
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] 예, 비밀번호 삭제
+       *[other] 예, 비밀번호 삭제
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 = 비밀번호 { $count }개를 제거하시겠습니까?
@@ -198,6 +216,8 @@ about-logins-confirm-remove-all-dialog-message2 =
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 = 모든 기기에서 비밀번호 { $count }개를 제거하시겠습니까?
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title = 비밀번호 { $count }개를 삭제하시겠습니까?
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
