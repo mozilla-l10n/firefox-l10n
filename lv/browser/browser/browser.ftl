@@ -1368,6 +1368,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Notīrīt datus un sākt jaunu privātu sesiju?
+reset-pbm-panel-description3 = Tas notīrīs vēsturi un sīkdatnes un veiks izrakstīšanos no vietnēm. Privātie logi tiks aizvērti, un tiks atvērts jauns.
 reset-pbm-panel-description2 = Tas izdzēš vēsturi, sīkdatnes un visus citus vietnes datus bez privātā loga aizvēršanas.
 reset-pbm-panel-always-ask-checkbox =
     .label = Vienmēr vaicāt man
@@ -1403,6 +1404,9 @@ fire-button-panel-confirm-button =
     .label = Izdzēst visu
     .accesskey = I
 fire-button-panel-complete = Pārlūkošanas dati izdzēsti
+fire-button-toolbar-button2 =
+    .label = Izdzēst kādus vai visus datus
+    .tooltiptext = Izdzēst kādus vai visus no saviem pārlūkošanas datiem
 
 ## Autorefresh blocker
 
