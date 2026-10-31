@@ -640,3 +640,33 @@ welcome-back-onboarding-card-label-tabs = Metti ordine con schede verticali e gr
 welcome-back-onboarding-card-label-vpn = Proteggi la tua privacy con la VPN integrata
 welcome-back-onboarding-card-label-pdf = Evidenzia, firma e lavora con i PDF
 welcome-back-onboarding-card-tilebutton-label = Fai una prova
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configura { -brand-short-name } in un attimo
+hnt-card-import-body = Importa segnalibri, password e altri dati da un altro browser.
+hnt-card-import-primary-button = Importa i tuoi dati
+hnt-card-default-body = { -brand-product-name } è l'unico tra i principali browser progettato per proteggerti, non per tracciarti.
+hnt-card-default-primary-button = Apri i link con { -brand-short-name }
+hnt-card-pin-header = Tieni { -brand-short-name } a portata di clic
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Torna a navigare in sicurezza direttamente dal Dock.
+       *[other] Torna a navigare in sicurezza direttamente dalla barra delle applicazioni.
+    }
+hnt-card-mobile-header = Ottieni la protezione integrata anche sul tuo telefono
+hnt-card-mobile-body = Scarica { -brand-product-name } sul tuo dispositivo mobile per una maggiore privacy ovunque ti trovi.
+hnt-card-mobile-primary-button = Scarica { -brand-product-name } per dispositivi mobili.
+hnt-card-wallpaper-header = Scegli un nuovo sfondo
+hnt-card-wallpaper-body = Rendi questa schermata più accogliente con uno sfondo che ami.
+hnt-card-wallpaper-primary-button = Inizia a personalizzare
+hnt-card-taskbar-tabs-header = Aggiungi i tuoi siti preferiti alla barra delle applicazioni di Windows
+hnt-card-taskbar-tabs-body = Apri i siti che visiti più spesso come app, con tutte le protezioni di { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Aggiungi siti alla barra delle applicazioni
+hnt-card-extensions-header = Potenzia { -brand-short-name } con le estensioni
+hnt-card-extensions-body = Personalizza la tua esperienza di navigazione con le nostre estensioni più amate.
+hnt-card-extensions-primary-button = Esplora
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = È tutto pronto. Ora segui la tua curiosità.
+hnt-card-last-card-header-end = La protezione antitracciamento è attiva.

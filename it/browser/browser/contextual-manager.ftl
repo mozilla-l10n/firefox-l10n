@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importa da un altro b
 contextual-manager-passwords-command-import = Importa da file…
 contextual-manager-passwords-command-export = Esporta password
 contextual-manager-passwords-command-remove-all = Elimina tutte le password
+contextual-manager-passwords-command-delete-all = Elimina tutte le password
 contextual-manager-passwords-command-options = Opzioni
 contextual-manager-passwords-command-help = Supporto
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,9 @@ contextual-manager-passwords-remove-all-title =
         [1] Rimuovere la password?
        *[other] Rimuovere tutte le { $total } password?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title = Eliminare { $total } password?
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -117,6 +121,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Rimuovi
        *[other] Rimuovi tutte
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Elimina
+       *[other] Elimina tutte
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -130,6 +141,13 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] Questa operazione eliminerà la password salvata in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account e i relativi avvisi sulle violazioni. Non sarà possibile annullare questa operazione.
        *[other] Questa operazione eliminerà le password salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account e i relativi avvisi sulle violazioni. Non sarà possibile annullare questa operazione.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] La password verrà eliminata da { -brand-short-name } su ogni dispositivo che sincronizza le tue password. L’operazione non può essere annullata.
+       *[other] Le password verranno eliminate da { -brand-short-name } su tutti i dispositivi che le sincronizzano. Non sarà possibile annullare l’operazione.
     }
 contextual-manager-passwords-origin-label = Sito web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -173,12 +191,16 @@ contextual-manager-passwords-radiobutton-all = Tutte ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Avvisi ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Eliminare la password?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Eliminare la password?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Non è possibile annullare questa operazione.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Indietro
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Elimina
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Elimina
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annulla
 contextual-manager-passwords-alert-card =
@@ -209,6 +231,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Aggiorna password
 contextual-manager-passwords-remove-label =
+    .title = Elimina password
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Elimina password
 contextual-manager-passwords-origin-field =
     .label = Indirizzo web
@@ -319,6 +344,13 @@ contextual-manager-passwords-discard-changes-close-button = Chiudi
 contextual-manager-passwords-discard-changes-go-back-button = Torna indietro
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Sì, elimina la password
+       *[other] Sì, elimina le password
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
     { $total ->
         [1] Sì, elimina la password
        *[other] Sì, elimina le password
