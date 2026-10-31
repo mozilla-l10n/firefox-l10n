@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importar de outro naveg
 about-logins-menu-menuitem-import-from-a-file = Importar de um arquivo…
 about-logins-menu-menuitem-export-logins2 = Exportar senhas…
 about-logins-menu-menuitem-remove-all-logins2 = Remover todas as senhas…
+about-logins-menu-menuitem-delete-all-logins = Excluir todas as senhas…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opções
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Selecione acima o botão de sinal de mais para adic
 about-logins-login-item-new-login-title = Adicionar senha
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Remover
+about-logins-login-item-delete-button = Excluir
 login-item-origin-label = Endereço do site
 about-logins-origin-tooltip2 = Insira o endereço completo. Certifique-se de corresponder exatamente à página onde você entra na conta do site.
 # Variables
