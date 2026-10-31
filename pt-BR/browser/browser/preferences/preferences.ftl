@@ -1406,6 +1406,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Gerenciar métodos de pagamento
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Exigir autenticação do dispositivo para preencher automaticamente
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Exigir autenticação do dispositivo para preencher automaticamente e gerenciar métodos de pagamento
     .accesskey = o

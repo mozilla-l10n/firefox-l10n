@@ -583,6 +583,9 @@ newtab-travel-widget-open-menu-button =
     .title = Open travel menu
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Learn more
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Powered by Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -814,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = You are caught up!
 newtab-discovery-empty-section-topstories-content = Check back later for more stories.
 newtab-discovery-empty-section-topstories-try-again-button = Try again
 newtab-discovery-empty-section-topstories-loading = Loading…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Stories aren’t available right now
+newtab-discovery-empty-section-topstories-unavailable-body = Check your connection or try again later.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oops! We almost loaded this section, but not quite.
 
@@ -1111,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = A fox’s face at the left edge, on a dark 
 newtab-wallpaper-firefox-peak-light = A fox’s face at the left edge, on a light background
 newtab-wallpaper-firefox-sky-dark = Dark purple hills under a night sky
 newtab-wallpaper-firefox-sky-light = Light hills under a soft sky
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = The Wrexham AFC crest on a red background
 
 ## Firefox
 
@@ -1550,6 +1559,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Open crossword menu
     .title = Open crossword menu
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Powered by Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
