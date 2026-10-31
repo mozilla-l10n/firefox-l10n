@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importovat z jiného pr
 about-logins-menu-menuitem-import-from-a-file = Importovat ze souboru…
 about-logins-menu-menuitem-export-logins2 = Exportovat hesla…
 about-logins-menu-menuitem-remove-all-logins2 = Odstranit všechna hesla…
+about-logins-menu-menuitem-delete-all-logins = Smazat všechna hesla…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -103,6 +104,7 @@ about-logins-intro-import3 = Chcete-li nyní přidat heslo, vyberte výše uvede
 about-logins-login-item-new-login-title = Přidání hesla
 login-item-edit-button = Upravit
 about-logins-login-item-remove-button = Odstranit
+about-logins-login-item-delete-button = Smazat
 login-item-origin-label = Adresa serveru
 about-logins-origin-tooltip2 = Zadejte celou adresu a ujistěte se, že přesně odpovídá té, ze které se přihlašujete.
 # Variables
@@ -188,9 +190,19 @@ confirmation-dialog-dismiss-button =
     .title = Zrušit
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Odstranit heslo?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Smazat heslo?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Tuto akci nelze vrátit zpět.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Tímto smažete své heslo z { -brand-short-name(case: "gen") } na všech zařízeních, která synchronizují vaše hesla. Tuto akci nelze vzít zpět.
+       *[no-cases] Tímto smažete své heslo z aplikace { -brand-short-name } na všech zařízeních, která synchronizují vaše hesla. Tuto akci nelze vzít zpět.
+    }
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Smazat
 
 ## Variables
 ##   $count (number) - Number of items
@@ -202,6 +214,14 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Odstranit vše
        *[other] Odstranit vše
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Smazat
+        [one] Smazat vše
+        [few] Smazat vše
+       *[other] Smazat vše
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -210,6 +230,14 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [few] Ano, odstranit hesla
         [many] Ano, odstranit hesla
        *[other] Ano, odstranit hesla
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ano, smazat heslo
+        [one] Ano, smazat heslo
+        [few] Ano, smazat hesla
+       *[other] Ano, smazat hesla
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -232,6 +260,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [few] Odebrat všechna { $count } hesla ze všech zařízení?
         [many] Odebrat všech { $count } hesel ze všech zařízení?
        *[other] Odebrat všech { $count } hesel ze všech zařízení?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Smazat { $count } heslo?
+        [few] Smazat { $count } hesla?
+       *[other] Smazat { $count } hesel?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

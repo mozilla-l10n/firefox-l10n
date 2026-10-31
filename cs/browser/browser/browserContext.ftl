@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Přidat vyhledávač
     .accesskey = v
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Zapnout nabídku Akce
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Poslat odkaz do zařízení
     .accesskey = e
