@@ -583,6 +583,9 @@ newtab-travel-widget-open-menu-button =
     .title = Ireki bidaien menua
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Argibide gehiago
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Kayak-ek hornitua
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -814,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Egunean zaude!
 newtab-discovery-empty-section-topstories-content = Itzuli geroago istorio gehiago aurkitzeko.
 newtab-discovery-empty-section-topstories-try-again-button = Saiatu berriro
 newtab-discovery-empty-section-topstories-loading = Kargatzen…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Istorioak ez daude erabilgarri une honetan
+newtab-discovery-empty-section-topstories-unavailable-body = Egiaztatu zure konexioa edo saiatu berriro.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Kontxo! Atal hau ia-ia kargatu dugu baina ez erabat.
 
@@ -1550,6 +1556,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Ireki gurutzegramaren menua
     .title = Ireki gurutzegramaren menua
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Particle-ek hornitua.
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

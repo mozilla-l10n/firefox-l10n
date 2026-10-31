@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Inportatu beste nabigat
 about-logins-menu-menuitem-import-from-a-file = Inportatu fitxategitik…
 about-logins-menu-menuitem-export-logins2 = Esportatu pasahitzak…
 about-logins-menu-menuitem-remove-all-logins2 = Ezabatu pasahitz guztiak…
+about-logins-menu-menuitem-delete-all-logins = Ezabatu pasahitz guztiak…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Aukerak
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Hautatu gehi zeinudun botoia pasahitz bat orain geh
 about-logins-login-item-new-login-title = Gehitu pasahitza
 login-item-edit-button = Editatu
 about-logins-login-item-remove-button = Kendu
+about-logins-login-item-delete-button = Ezabatu
 login-item-origin-label = Webgunearen helbidea
 about-logins-origin-tooltip2 = Idatzi helbide osoa eta ziurtatu saioa hasten duzun tokiarekin bat datorrela.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Utzi
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Kendu pasahitza?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Ezabatu pasahitza?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Ezin duzu ekintza hau desegin.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Honek { -brand-short-name }(e)tik ezabatzen du zure pasahitzak sinkronizatzen diren gailu guztietan. Ezin duzu hau desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Ezabatu
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,12 +195,24 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Kendu
        *[other] Kendu denak
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Ezabatu
+       *[other] Ezabatu denak
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Bai, kendu pasahitza
         [one] Bai, kendu pasahitza
        *[other] Bai, kendu pasahitzak
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Bai, ezabatu pasahitza
+       *[other] Bai, ezabatu pasahitzak
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -213,12 +233,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Kendu pasahitza gailu guztietatik?
        *[other] Kendu { $count } pasahitz gailu guztietatik?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Ezabatu pasahitz { $count }?
+       *[other] Ezabatu { $count } pasahitz?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Honek { -brand-short-name }(e)n gordetako pasahitza sinkronizatutako zure gailu guztietatik ezabatuko du. Halaber, hemen agertzen diren urratze-alertak ezabatuko dira. Ekintza hau ezin da desegin.
         [one] Honek { -brand-short-name }(e)n gordetako pasahitza sinkronizatutako zure gailu guztietatik ezabatuko du. Halaber, hemen agertzen diren urratze-alertak ezabatuko dira. Ekintza hau ezin da desegin.
        *[other] Honek { -brand-short-name }(e)n gordetako pasahitzak sinkronizatutako zure gailu guztietatik ezabatuko ditu. Halaber, hemen agertzen diren urratze-alertak ezabatuko dira. Ekintza hau ezin da desegin.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Honek { -brand-short-name }(e)tik ezabatzen du zure pasahitzak sinkronizatzen diren gailu guztietan. Ezin duzu hau desegin.
+       *[other] Honek { -brand-short-name }(e)tik ezabatzen ditu zure pasahitzak sinkronizatzen diren gailu guztietan. Ezin duzu hau desegin.
     }
 
 ##

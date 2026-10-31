@@ -104,11 +104,36 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-capture-update-payment-method-button =
     .label = Atualizar
     .accessKey = A
+credit-card-update-saved-payment-method-doorhanger-header = Atualizar método de pagamento salvo?
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Salvar como novo
+    .accessKey = S
 
 ## Used on the doorhanger when a saved card is submitted with a new or changed
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Salvar código de segurança?
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Salvar este método de pagamento?
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = O { -brand-short-name } criptografa e preenche automaticamente seus dados de pagamento para agilizar finalizar compras.
+credit-card-capture-dismiss-button =
+    .label = Descartar
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Sempre salvar códigos de segurança
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Não salvar códigos de segurança
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

@@ -84,6 +84,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies e dados de sites
     .accesskey = k
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Encerra sessão de acesso em sites e pode limpar carrinhos de compras
 item-cookies-site-data-description = Limpar pode desconectar de contas de sites ou esvaziar carrinhos de compras
 item-active-logins =
     .label = Contas de acesso ativas

@@ -465,5 +465,7 @@ vpn-error-page-keep-browsing = Jarraitu saio honetan nabigatzen
 vpn-error-page-new-session = Hasi saio berria
 vpn-paused-alert-close-tabs-button = Itxi fitxa guztiak
 vpn-paused-alert-continue-wo-vpn-button = Jarraitu VPNrik gabe
+vpn-error-alert-title-1 = VPNa eta arauak ez dabiltza oraintxe bertan.
+vpn-error-alert-body-1 = VPNa aktibatu eta desaktibatzeak arazoa konpon lezake.
 vpn-error-alert-title = VPNa ez dabil oraintxe bertan.
 vpn-error-alert-body = Saiatu berriro geroago.

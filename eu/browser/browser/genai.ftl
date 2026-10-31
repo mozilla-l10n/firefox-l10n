@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Ez duzu menu hau ikusiko testua hautatzen duzunean. Berriro ikusteko, bisitatu Ezarpenak <span data-l10n-name="chevron"></span> Fitxak eta nabigazioa.
 genai-more-actions-manage-settings =
     .label = Kudeatu ezarpenak
+genai-selection-callout-title = Nabarmendu testua ekintza aukeratzeko
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Bilatu edo kopiatu testua hautatzean. Aukeratu zein ekintza agertzen diren <span data-l10n-name="more-actions">•••</span> menuaren bidez.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Galdetu { $provider } hornitzaileari
