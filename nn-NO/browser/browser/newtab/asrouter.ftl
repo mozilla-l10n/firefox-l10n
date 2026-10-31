@@ -529,6 +529,7 @@ restore-session-startup-suggestion-button = Vis meg korleis
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Opne favorittnettstadane dine som ein app
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Legg til

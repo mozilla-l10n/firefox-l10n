@@ -357,6 +357,8 @@ website-language-heading =
     .label = Nettstadspråk
 website-preferred-language =
     .label = Føretrekt språk
+website-language-list =
+    .aria-label = Føretrekt språk
 website-add-language =
     .label = Legg til språk
 website-add-language-button =
@@ -813,6 +815,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Nettadresse(r)
+home-custom-homepage-list =
+    .aria-label = Nettstadadresser
 home-custom-homepage-address =
     .placeholder = Skriv inn adresse
 home-custom-homepage-address-button =
@@ -1842,6 +1846,16 @@ pane-permissions-data-title2 = Løyve og data
     .title = Løyve og data
 notifications-section-header =
     .heading = Varsel
+notifications-filter =
+    .placeholder = Søk på nettstadar
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Nettstad
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Nettstadar
 # Read-only state shown on each row of the website notifications list, in the
 # column headed "Allow notifications". "Always" is used where notifications can
 # also be delivered while Firefox is closed.

@@ -583,6 +583,9 @@ newtab-travel-widget-open-menu-button =
     .title = Opne menyen for reiser
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Les meir
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Driven av Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -1550,6 +1553,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Opne kryssord-menyen
     .title = Opne kryssord-menyen
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Driven av Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

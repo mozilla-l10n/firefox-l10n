@@ -68,6 +68,12 @@ autofill-card-security-code-label = CVC
 ## The name of the security code printed on a payment card, as each card
 ## network calls it.
 
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
 # Used for any other card network, or when the network isn't known.
 credit-card-security-code-name-other = Sikkerheitskode
 

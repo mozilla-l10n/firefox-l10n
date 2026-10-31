@@ -205,6 +205,13 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [1] Ja, fjern passordet
        *[other] Yes, remove passwords
     }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, slett passordet
+        [one] Ja, slett passordet
+       *[other] Ja, slett passorda
+    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
@@ -223,6 +230,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Fjerne { $count } passord frå alle einingar?
        *[other] Fjerne alle { $count } passord frå alle einingar?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Slette { $count } passord?
+       *[other] Slette { $count } passord?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
