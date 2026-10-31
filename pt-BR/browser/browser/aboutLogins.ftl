@@ -176,6 +176,8 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Remover senha?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Excluir senha?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Você não pode desfazer esta ação.
 about-logins-confirm-remove-dialog-confirm-button = Remover
