@@ -142,6 +142,9 @@ permissions-site-notification-desc = Následující servery požádaly o povolen
 permissions-site-notification-disable-label =
     .label = Blokovat nové žádosti o povolení zasílat oznámení
 permissions-site-notification-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o povolení vám zasílat oznámení. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Povolit stránkám zobrazovat oznámení, i když je { -brand-short-name } zavřený
 # Notes that the operating system's own notification settings can still block
 # notifications delivered while the browser is closed.
 permissions-site-notification-closed-delivery-desc = Platí také nastavení oznámení ve vašem operačním systému.
