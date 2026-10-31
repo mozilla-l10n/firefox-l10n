@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = 텍스트를 선택하면 이 메뉴가 표시되지 않습니다. 다시 표시하려면, 설정 <span data-l10n-name="chevron"></span> 탭 및 탐색으로 이동하세요.
 genai-more-actions-manage-settings =
     .label = 설정 관리
+genai-selection-callout-title = 작업을 선택하려면 텍스트를 강조 표시하세요.
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = 선택한 텍스트를 검색하거나 복사합니다. <span data-l10n-name="more-actions">•••</span> 메뉴로 작업을 선택하세요.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider }에게 물어보기

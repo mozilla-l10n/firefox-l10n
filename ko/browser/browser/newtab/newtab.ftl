@@ -781,6 +781,9 @@ newtab-discovery-empty-section-topstories-header = 모두 따라 잡았습니다
 newtab-discovery-empty-section-topstories-content = 더 많은 이야기는 나중에 다시 확인해 보세요.
 newtab-discovery-empty-section-topstories-try-again-button = 다시 시도
 newtab-discovery-empty-section-topstories-loading = 로드 중…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = 지금 이야기를 사용할 수 없습니다.
+newtab-discovery-empty-section-topstories-unavailable-body = 연결을 확인하거나 나중에 다시 시도하세요.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거의 다 로드했지만, 안 된 부분이 있습니다.
 
@@ -1077,6 +1080,9 @@ newtab-wallpaper-firefox-peak-dark = 어두운 배경의 왼쪽 가장자리에 
 newtab-wallpaper-firefox-peak-light = 밝은 배경의 왼쪽 가장자리에 있는 여우 얼굴
 newtab-wallpaper-firefox-sky-dark = 밤하늘 아래 어두운 보라색 언덕
 newtab-wallpaper-firefox-sky-light = 부드러운 하늘 아래 밝은 언덕
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = 빨간색 배경 위에 있는 Wrexham AFC 로고
 
 ## Firefox
 

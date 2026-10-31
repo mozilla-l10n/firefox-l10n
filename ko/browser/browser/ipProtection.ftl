@@ -461,5 +461,7 @@ vpn-error-page-keep-browsing = 이 세션에서 계속 탐색
 vpn-error-page-new-session = 새 세션 시작
 vpn-paused-alert-close-tabs-button = 모든 탭 닫기
 vpn-paused-alert-continue-wo-vpn-button = VPN 없이 계속하기
+vpn-error-alert-title-1 = VPN 및 규칙이 지금 작동하지 않습니다.
+vpn-error-alert-body-1 = VPN을 켜거나 끄면 문제가 해결될 수 있습니다.
 vpn-error-alert-title = VPN이 지금 작동하지 않습니다.
 vpn-error-alert-body = 나중에 다시 시도하세요.
