@@ -469,4 +469,3 @@ vpn-error-alert-title-1 = La VPN e le regole non funzionano al momento.
 vpn-error-alert-body-1 = Disattivare e riattivare la VPN potrebbe risolvere il problema.
 vpn-error-alert-title = La VPN non è in funzione al momento.
 vpn-error-alert-body = Riprova più tardi.
-

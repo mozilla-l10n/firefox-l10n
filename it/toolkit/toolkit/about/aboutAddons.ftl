@@ -623,4 +623,3 @@ aboutaddons-themes-picker-error-message =
 # the built-in default theme colors.
 aboutaddons-linux-theme-colors-checkbox-label =
     .label = Utilizza il tema del sistema Linux
-
