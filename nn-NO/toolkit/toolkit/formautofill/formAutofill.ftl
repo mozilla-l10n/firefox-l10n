@@ -101,6 +101,7 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-capture-update-payment-method-button =
     .label = Oppdater
     .accessKey = O
+credit-card-update-saved-payment-method-doorhanger-header = Oppdatere lagra betalingsmåte?
 
 ## Used on the doorhanger when a saved card is submitted with a new or changed
 ## security code.
@@ -109,9 +110,18 @@ credit-card-save-security-code-doorhanger-header = Lagre sikkerheitskode?
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
+credit-card-save-payment-method-doorhanger-header = Lagre denne betalingsmåten?
 credit-card-capture-dismiss-button =
     .label = Ignorer
     .accessKey = I
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Alltid lagre sikkerheitskodar
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Aldri lagre sikkerheitskodar
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
