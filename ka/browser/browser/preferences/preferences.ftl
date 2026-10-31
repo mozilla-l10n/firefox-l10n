@@ -2208,7 +2208,7 @@ appearance-window-density-touch =
     .description = მოზრდილი ნაწილები თითის მისაჭერად ფანჯრებში, განკუთვნილი შეხებისთვის
     .label = შეხებისთვის
 related-settings-group =
-    .label = დაკავშირებული პარამეტრები
+    .label = მსგავსი პარამეტრები
 related-settings-accessibility-link =
     .label = მოახლოებისა და შრიფტის მორგება დამხმარე საშუალებებით
 related-settings-home-link =
@@ -2286,7 +2286,7 @@ preferences-ai-controls-header3 =
 
 security-privacy-status-ok-header = { -brand-short-name } სადარაჯოზეა
 # This is the header above a section telling the user about problems in their settings
-security-privacy-status-problem-header = { -brand-short-name } გირჩევთ უსაფრთხოების გასაუმჯობესებლად
+security-privacy-status-problem-header = { -brand-short-name } გირჩევთ მეტი უსაფრთხოებისთვის
 security-privacy-status-ok-label = თვალთვალისგან გაძლიერებული დაცვა ჩართ.
 security-privacy-status-problem-label = შემჩნეულია პარამეტრები, რომლებიც გავლენას ახდენს უსაფრთხოებაზე
 security-privacy-status-problem-helper-label = ხარვეზების ნახვა
