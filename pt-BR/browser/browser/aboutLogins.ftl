@@ -248,6 +248,13 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [one] Esta operação remove a senha salva no { -brand-short-name } em todos os seus dispositivos sincronizados. Também remove quaisquer alertas de vazamento de dados presentes aqui. Esta ação não pode ser desfeita.
        *[other] Esta operação remove todas as senhas salvas no { -brand-short-name } em todos os seus dispositivos sincronizados. Também remove quaisquer alertas de vazamento de dados presentes aqui. Esta ação não pode ser desfeita.
     }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] A senha é excluída do { -brand-short-name } em todos os dispositivos que sincronizam suas senhas. Isto não pode ser desfeito.
+        [one] A senha é excluída do { -brand-short-name } em todos os dispositivos que sincronizam suas senhas. Isto não pode ser desfeito.
+       *[other] As senhas são excluídas do { -brand-short-name } em todos os dispositivos que sincronizam suas senhas. Isto não pode ser desfeito.
+    }
 
 ##
 
