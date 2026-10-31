@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Aus einem anderen Brows
 about-logins-menu-menuitem-import-from-a-file = Aus einer Datei importieren…
 about-logins-menu-menuitem-export-logins2 = Passwörter exportieren…
 about-logins-menu-menuitem-remove-all-logins2 = Alle Passwörter entfernen…
+about-logins-menu-menuitem-delete-all-logins = Alle Passwörter löschen…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Einstellungen
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Wählen Sie die Pluszeichen-Schaltfläche oben aus,
 about-logins-login-item-new-login-title = Passwort hinzufügen
 login-item-edit-button = Bearbeiten
 about-logins-login-item-remove-button = Entfernen
+about-logins-login-item-delete-button = Löschen
 login-item-origin-label = Adresse der Website
 about-logins-origin-tooltip2 = Geben Sie die vollständige Adresse ein und stellen Sie sicher, dass sie genau mit der Adresse der Website übereinstimmt, auf der Sie sich anmelden.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Abbrechen
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Passwort entfernen?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Passwort löschen?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Dadurch wird es auf jedem Gerät aus { -brand-short-name } gelöscht, das Ihre Passwörter synchronisiert. Dies kann nicht rückgängig gemacht werden.
 about-logins-confirm-remove-dialog-confirm-button = Entfernen
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Löschen
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,11 +195,25 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Entfernen
        *[other] Alle entfernen
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Löschen
+        [one] Löschen
+       *[other] Alle löschen
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Ja, Passwort entfernen
        *[other] Ja, Passwörter entfernen
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, Passwort löschen
+        [one] Ja, Passwort löschen
+       *[other] Ja, Passwörter löschen
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
