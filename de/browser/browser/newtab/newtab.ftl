@@ -1117,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = Ein Fuchsgesicht am linken Rand auf einem d
 newtab-wallpaper-firefox-peak-light = Ein Fuchsgesicht am linken Rand auf einem hellen Hintergrund
 newtab-wallpaper-firefox-sky-dark = Dunkelviolette Hügel unter nächtlichem Himmel
 newtab-wallpaper-firefox-sky-light = Leichte Hügel unter einem sanften Himmel
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Das Wappen des Wrexham AFC auf rotem Hintergrund
 
 ## Firefox
 
@@ -1560,6 +1563,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Kreuzworträtsel-Menü öffnen
     .title = Kreuzworträtsel-Menü öffnen
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Unterstützt von Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

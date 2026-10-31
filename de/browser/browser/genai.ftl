@@ -97,6 +97,8 @@ genai-more-actions-all-off-notice = Dieses Menü wird nicht angezeigt, wenn Sie 
 genai-more-actions-manage-settings =
     .label = Einstellungen verwalten
 genai-selection-callout-title = Text hervorheben, um eine Aktion auszuwählen
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Suchen oder kopieren Sie, wenn Sie Text auswählen. Wählen Sie, welche Aktionen über das <span data-l10n-name="more-actions">•••</span>-Menü angezeigt werden.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } fragen
