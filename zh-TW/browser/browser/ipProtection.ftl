@@ -461,5 +461,7 @@ vpn-error-page-keep-browsing = 繼續於此階段中瀏覽
 vpn-error-page-new-session = 開始新階段
 vpn-paused-alert-close-tabs-button = 關閉所有分頁
 vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 繼續
+vpn-error-alert-title-1 = 目前無法使用 VPN 與規則。
+vpn-error-alert-body-1 = 重新開關 VPN 可能可以解決這個問題。
 vpn-error-alert-title = VPN 發生錯誤，目前無法使用。
 vpn-error-alert-body = 請稍後再試。

@@ -97,6 +97,8 @@ genai-more-actions-all-off-notice = 選擇文字時不會看到此選單。前�
 genai-more-actions-manage-settings =
     .label = 管理設定
 genai-selection-callout-title = 反白文字即可選擇操作
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = 選擇文字後即可搜尋或複製。你可以透過 <span data-l10n-name="more-actions">•••</span> 選單選擇要顯示哪些操作。
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 問問 { $provider }

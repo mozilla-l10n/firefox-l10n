@@ -172,6 +172,8 @@ about-logins-confirm-delete-dialog-title = 要移除密碼嗎？
 about-logins-confirm-delete-dialog-title2 = 要刪除密碼嗎？
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = 無法復原此動作。
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = 將從所有同步您密碼的裝置上刪除 { -brand-short-name } 中的這筆密碼。此操作無法還原。
 about-logins-confirm-remove-dialog-confirm-button = 移除
 # Confirm button for the modal to delete one saved password when per-device sync is enabled
 about-logins-confirm-delete-dialog-confirm-button = 刪除
@@ -219,6 +221,12 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除此處列出的資料外洩警報，無法還原此行為。
        *[other] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除此處列出的資料外洩警報，無法還原此行為。
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] 將從所有同步您密碼的裝置上刪除 { -brand-short-name } 中的這筆密碼。此操作無法還原。
+       *[other] 將從所有同步您密碼的裝置上刪除 { -brand-short-name } 中的這些密碼。此操作無法還原。
     }
 
 ##

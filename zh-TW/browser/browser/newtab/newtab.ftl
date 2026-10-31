@@ -785,6 +785,9 @@ newtab-discovery-empty-section-topstories-header = 都讀完了！
 newtab-discovery-empty-section-topstories-content = 晚點再回來看看有沒有新鮮事。
 newtab-discovery-empty-section-topstories-try-again-button = 重試
 newtab-discovery-empty-section-topstories-loading = 載入中…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = 目前無法載入文章
+newtab-discovery-empty-section-topstories-unavailable-body = 請確認連線正常或稍後再試。
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = 唉呀，暫時無法載入此區塊。
 
@@ -1082,6 +1085,9 @@ newtab-wallpaper-firefox-peak-dark = 在暗色背景的左邊邊緣有一張狐�
 newtab-wallpaper-firefox-peak-light = 在亮色背景的左邊邊緣有一張狐狸的臉
 newtab-wallpaper-firefox-sky-dark = 夜空下的暗紫色山丘
 newtab-wallpaper-firefox-sky-light = 柔和天空下的明亮山丘
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = 紅色背景上的雷克斯漢姆足球俱樂部隊徽
 
 ## Firefox
 
@@ -1523,7 +1529,7 @@ newtab-crossword-widget-open-menu-button =
     .title = 開啟填字遊戲選單
 # Context menu item linking to the Particle website, the provider of the
 # crossword. “Particle” is a brand name and should not be translated.
-newtab-crossword-menu-powered-by-particle = Powered by Particle
+newtab-crossword-menu-powered-by-particle = 由 Particle 提供
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
