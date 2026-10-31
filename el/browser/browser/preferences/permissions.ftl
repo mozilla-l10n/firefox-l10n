@@ -142,6 +142,12 @@ permissions-site-notification-desc = Οι ακόλουθοι ιστότοποι 
 permissions-site-notification-disable-label =
     .label = Αποκλεισμός νέων αιτημάτων αποδοχής ειδοποιήσεων
 permissions-site-notification-disable-desc = Αυτό θα εμποδίσει τα αιτήματα αποστολής ειδοποιήσεων από όλους τους ιστοτόπους που δεν αναγράφονται παραπάνω. Η φραγή ειδοποιήσεων ενδέχεται να προκαλέσει δυσλειτουργία σε ορισμένους ιστοτόπους.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Να επιτρέπονται οι ειδοποιήσεις από ιστοτόπους όταν το { -brand-short-name } είναι κλειστό
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Ισχύουν επίσης οι ρυθμίσεις ειδοποιήσεων του λειτουργικού σας συστήματος.
 
 ## Site Permissions - Location
 

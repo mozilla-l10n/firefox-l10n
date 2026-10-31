@@ -68,6 +68,8 @@ history-section-label = Ιστορικό
 item-history-and-downloads2 =
     .label = Ιστορικό περιήγησης και λήψεων
     .accesskey = Ι
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Λίστα λήψεων και ιστοτόπων που επισκεφθήκατε
 item-history-and-downloads =
     .label = Ιστορικό περιήγησης και λήψεων
     .accesskey = π
@@ -84,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookie και δεδομένα ιστοτόπων
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Σας αποσυνδέει και ενδέχεται να αδειάσει τα καλάθια αγορών
 item-cookies-site-data-description = Ενδέχεται να αποσυνδεθείτε από ιστοτόπους ή να αδειάσουν τα καλάθια αγορών
 item-active-logins =
     .label = Ενεργές συνδέσεις
@@ -100,6 +104,8 @@ item-cached-content-with-size2 =
 item-cached-content2 =
     .label = Προσωρινά αρχεία
     .accesskey = χ
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Βοηθά την ταχύτερη φόρτωση ιστοτόπων
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -119,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Αποθηκευμένες πληροφορίες φορμών
     .accesskey = ο
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Ονόματα, email και δεδομένα φορμών
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Δικαιώματα και προτιμήσεις ιστοτόπων
 item-formdata-description = Διαγράφει στοιχεία, όπως ονόματα, email και άλλα στοιχεία που έχετε εισαγάγει σε φόρμες
 item-site-prefs-description = Επαναφέρει τα δικαιώματα και τις προτιμήσεις ιστοτόπων σας στις αρχικές ρυθμίσεις
 data-section-label = Δεδομένα
@@ -128,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Δεδομένα ιστοτόπων εκτός σύνδεσης
     .accesskey = Δ
+sanitize-everything-undo-warning2 = Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
 sanitize-everything-undo-warning = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 window-close =
     .key = w

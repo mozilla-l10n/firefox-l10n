@@ -84,6 +84,16 @@ customkeys-key-new =
     .label = Πατήστε νέο πλήκτρο:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (δεν μπορεί να αλλάξει)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (ορίζεται στις ρυθμίσεις πληκτρολογίου macOS)
+       *[other] (ορίζεται στις ρυθμίσεις πληκτρολογίου του συστήματός σας)
+    }
 
 ## Confirmation dialogs
 

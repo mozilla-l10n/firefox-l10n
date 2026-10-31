@@ -1406,6 +1406,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Διαχείριση μεθόδων πληρωμής
     .accesskey = μ
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Απαιτείται σύνδεση συσκευής για αυτόματη συμπλήρωση
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Απαίτηση σύνδεσης μέσω συσκευής για αυτόματη συμπλήρωση και διαχείριση μεθόδων πληρωμής
     .accesskey = π

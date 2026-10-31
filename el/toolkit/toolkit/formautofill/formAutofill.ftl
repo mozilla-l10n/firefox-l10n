@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Όχι τώρα
     .accessKey = ρ
+credit-card-capture-never-save-payment-methods-button =
+    .label = Ποτέ να μην αποθηκεύονται μέθοδοι πληρωμής
+    .accessKey = Ν
 credit-card-capture-never-save-button =
     .label = Να μην γίνεται ποτέ αποθήκευση καρτών
     .accessKey = Ν
@@ -101,6 +104,12 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-capture-update-payment-method-button =
     .label = Ενημέρωση
     .accessKey = Ε
+credit-card-update-saved-payment-method-doorhanger-header = Ενημέρωση αποθηκευμένου μεθόδου πληρωμής;
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Αποθήκευση ως νέο
+    .accessKey = S
 
 ## Used on the doorhanger when a saved card is submitted with a new or changed
 ## security code.
@@ -109,9 +118,22 @@ credit-card-save-security-code-doorhanger-header = Αποθήκευση κωδι
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
+credit-card-save-payment-method-doorhanger-header = Αποθήκευση αυτής της μεθόδου πληρωμής;
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = Το { -brand-short-name } κρυπτογραφεί και συμπληρώνει αυτόματα τα στοιχεία πληρωμής σας για ταχύτερες πληρωμές.
 credit-card-capture-dismiss-button =
     .label = Απόρριψη
     .accessKey = Α
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Να αποθηκεύονται πάντα οι κωδικοί ασφαλείας
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Να μην αποθηκεύονται οι κωδικοί ασφαλείας
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

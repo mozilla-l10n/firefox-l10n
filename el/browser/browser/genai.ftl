@@ -91,8 +91,14 @@ genai-more-actions-search =
     .label = Αναζήτηση
 genai-more-actions-copy =
     .label = Αντιγραφή
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Δεν θα βλέπετε αυτό το μενού όταν επιλέγετε κείμενο. Μεταβείτε στις ρυθμίσεις <span data-l10n-name="chevron"></span> Καρτέλες και περιήγηση για νέα εμφάνιση.
 genai-more-actions-manage-settings =
     .label = Διαχείριση ρυθμίσεων
+genai-selection-callout-title = Επισημάνετε κείμενο για να επιλέξετε μια ενέργεια
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Κάντε αναζήτηση ή αντιγραφή επιλέγοντας κείμενο. Διαλέξτε ποιες ενέργειες θα εμφανίζονται στο μενού <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Ερώτηση στο { $provider }

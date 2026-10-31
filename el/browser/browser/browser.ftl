@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Απαλοιφή δεδομένων και έναρξη νέας ιδιωτικής συνεδρίας;
+reset-pbm-panel-description3 = Διαγράφει το ιστορικό και τα cookie σας και σας αποσυνδέει από τους ιστοτόπους. Τα ιδιωτικά παράθυρά σας θα κλείσουν και θα ανοίξει ένα νέο.
 reset-pbm-panel-description2 = Αυτό διαγράφει το ιστορικό, τα cookie και όλα τα άλλα δεδομένα ιστοτόπων χωρίς να κλείσει το ιδιωτικό σας παράθυρο.
 reset-pbm-panel-always-ask-checkbox =
     .label = Ερώτηση πάντα
@@ -1496,6 +1497,9 @@ fire-button-panel-confirm-button =
     .label = Διαγραφή όλων
     .accesskey = Δ
 fire-button-panel-complete = Τα δεδομένα περιήγησης διαγράφηκαν
+fire-button-toolbar-button2 =
+    .label = Διαγράψτε μερικά ή όλα τα δεδομένα
+    .tooltiptext = Διαγράψτε μερικά ή όλα τα δεδομένα περιήγησής σας
 
 ## Autorefresh blocker
 

@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από
 about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
 about-logins-menu-menuitem-export-logins2 = Εξαγωγή κωδικών πρόσβασης...
 about-logins-menu-menuitem-remove-all-logins2 = Αφαίρεση όλων των κωδικών πρόσβασης…
+about-logins-menu-menuitem-delete-all-logins = Διαγραφή όλων των κωδικών πρόσβασης…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Επιλογές
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Κάντε κλικ στο εικονίδιο «+»
 about-logins-login-item-new-login-title = Προσθήκη κωδικού πρόσβασης
 login-item-edit-button = Επεξεργασία
 about-logins-login-item-remove-button = Αφαίρεση
+about-logins-login-item-delete-button = Διαγραφή
 login-item-origin-label = Διεύθυνση ιστοτόπου
 about-logins-origin-tooltip2 = Εισαγάγετε την πλήρη διεύθυνση και βεβαιωθείτε ότι αντιστοιχεί ακριβώς στη σελίδα όπου πραγματοποιείτε σύνδεση.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Ακύρωση
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Αφαίρεση κωδικού πρόσβασης;
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Διαγραφή κωδικού πρόσβασης;
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Θα διαγραφεί το αρχείο από το { -brand-short-name } σε κάθε συσκευή που συγχρονίζει τους κωδικούς πρόσβασής σας. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Διαγραφή
 
 ## Variables
 ##   $count (number) - Number of items
@@ -186,11 +194,25 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Αφαίρεση
        *[other] Αφαίρεση όλων
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Διαγραφή
+        [one] Διαγραφή όλων
+       *[other] Διαγραφή όλων
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Ναι, αφαίρεση κωδικού πρόσβασης
        *[other] Yes, remove passwords
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ναι, διαγραφή κωδικού πρόσβασης
+        [one] Ναι, διαγραφή κωδικού πρόσβασης
+       *[other] Ναι, διαγραφή κωδικών πρόσβασης
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -210,11 +232,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Αφαίρεση { $count } κωδικού πρόσβασης από όλες τις συσκευές;
        *[other] Αφαίρεση και των { $count } κωδικών πρόσβασης από όλες τις συσκευές;
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Διαγραφή { $count } κωδικού πρόσβασης;
+       *[other] Διαγραφή { $count } κωδικών πρόσβασης;
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Αυτή η ενέργεια θα αφαιρέσει τον κωδικό πρόσβασης που έχει αποθηκευτεί στο { -brand-short-name }, σε όλες τις συγχρονισμένες σας συσκευές. Θα καταργηθούν επίσης οι τυχόν ειδοποιήσεις παραβιάσεων που εμφανίζονται εδώ. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
        *[other] Αυτή η ενέργεια θα αφαιρέσει όλους τους κωδικούς πρόσβασης που έχουν αποθηκευτεί στο { -brand-short-name }, σε όλες τις συγχρονισμένες σας συσκευές. Θα καταργηθούν επίσης οι τυχόν ειδοποιήσεις παραβιάσεων που εμφανίζονται εδώ. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Διαγράφει από το { -brand-short-name } σε κάθε συσκευή που συγχρονίζει τους κωδικούς πρόσβασής σας. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
+        [one] Διαγράφει από το { -brand-short-name } σε κάθε συσκευή που συγχρονίζει τον κωδικό πρόσβασής σας. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
+       *[other] Διαγράφει από τα { -brand-short-name } σε κάθε συσκευή που συγχρονίζει τους κωδικούς πρόσβασής σας. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
     }
 
 ##

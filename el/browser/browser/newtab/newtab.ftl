@@ -583,6 +583,9 @@ newtab-travel-widget-open-menu-button =
     .title = Άνοιγμα μενού ταξιδιών
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Μάθετε περισσότερα
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Με την υποστήριξη του Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -814,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Τελειώσατε!
 newtab-discovery-empty-section-topstories-content = Ελέγξτε ξανά αργότερα για περισσότερα άρθρα.
 newtab-discovery-empty-section-topstories-try-again-button = Δοκιμή ξανά
 newtab-discovery-empty-section-topstories-loading = Φόρτωση…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Οι ιστορίες δεν είναι διαθέσιμες αυτήν τη στιγμή
+newtab-discovery-empty-section-topstories-unavailable-body = Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά αργότερα.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ωχ! Αυτή η ενότητα σχεδόν φορτώθηκε, αλλά όχι πλήρως.
 
@@ -1111,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = Το πρόσωπο μιας αλεπούς
 newtab-wallpaper-firefox-peak-light = Το πρόσωπο μιας αλεπούς στην αριστερή άκρη, σε ανοιχτόχρωμο φόντο
 newtab-wallpaper-firefox-sky-dark = Σκούροι μοβ λόφοι κάτω από τον νυχτερινό ουρανό
 newtab-wallpaper-firefox-sky-light = Ανοιχτόχρωμοι λόφοι κάτω από τον γαλήνιο ουρανό
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Το έμβλημα της Wrexham AFC σε κόκκινο φόντο
 
 ## Firefox
 
@@ -1550,6 +1559,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Άνοιγμα μενού σταυρόλεξου
     .title = Άνοιγμα μενού σταυρόλεξου
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Με την υποστήριξη της Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

@@ -561,10 +561,14 @@ onboarding-refresh-terms-of-use-with-links = Συνεχίζοντας, αποδ�
 onboarding-refresh-data-collection-link = Διαχείριση ρυθμίσεων συλλογής δεδομένων
 onboarding-refresh-primary-button = Συνέχεια
 onboarding-refresh-fro-import-header = Εισαγάγετε τα δεδομένα σας
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Παραμένουν δικά σας. Το { -brand-product-name } δεν πουλά ποτέ προσωπικά δεδομένα.
 onboarding-refresh-fro-import-body = Τα προσωπικά σας δεδομένα παραμένουν ιδιωτικά. Το { -brand-product-name } δεν πρόκειται ποτέ να τα πωλήσει.
 onboarding-refresh-fro-skip-button = Παράλειψη
 onboarding-refresh-fro-theme-header = Πειραματιστείτε με την εμφάνισή σας
 onboarding-refresh-tab-layout-header = Δοκιμάστε μια διαφορετική διάταξη καρτελών
+onboarding-refresh-fro-tab-layout-title = Επιλέξτε διάταξη της νέας καρτέλας
 onboarding-refresh-tab-layout-top = Στο πάνω μέρος
 onboarding-refresh-tab-layout-side = Στο πλάι
 onboarding-refresh-tab-layout-minimal = Μινιμαλιστική
