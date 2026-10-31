@@ -27,6 +27,11 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Afegeix un element
+storage-delete-all-button =
+    .title = Suprimeix-ho tot
+# Refresh button title
+storage-refresh-button =
+    .title = Actualitza els elements
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Suprimeix-ho tot
@@ -55,6 +60,11 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nom
 storage-table-headers-cookies-value = Valor
+storage-table-headers-cookies-expires = Caducitat / Edat màxima
+storage-table-headers-cookies-size = Mida
+storage-table-headers-cookies-last-accessed = Últim accés
+storage-table-headers-cookies-creation-time = Creat
+storage-table-headers-cookies-update-time = Actualitzat
 storage-table-headers-cache-status = Estat
 storage-table-headers-extension-storage-area = Àrea d'emmagatzematge
 
@@ -65,6 +75,7 @@ storage-tree-labels-local-storage = Emmagatzematge local
 storage-tree-labels-session-storage = Emmagatzematge de la sessió
 storage-tree-labels-indexed-db = BD indexada
 storage-tree-labels-cache = Emmagatzematge de memòria cau
+storage-tree-labels-extension-storage = Emmagatzematge d'extensions
 
 ##
 
@@ -90,3 +101,11 @@ storage-idb-delete-blocked = La base de dades «{ $dbName }» se suprimirà quan
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = No s'ha pogut suprimir la base de dades «{ $dbName }».
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = No s'ha pogut crear la galeta: «{ $errorString }».
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = No s'ha pogut actualitzar la galeta: «{ $errorString }».

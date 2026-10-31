@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = No veureu aquest menú quan seleccioneu text. Aneu a Configuració <span data-l10n-name="chevron"></span> Pestanyes i navegació per tornar-lo a mostrar.
 genai-more-actions-manage-settings =
     .label = Gestiona els paràmetres
+genai-selection-callout-title = Ressalteu el text per a triar una acció
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Cerca o copia en seleccionar text. Trieu quines accions apareixen en el menú <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pregunta-ho a { $provider }

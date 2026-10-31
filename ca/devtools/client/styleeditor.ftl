@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Importa i afegeix un full d'estil existent al document
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filtra els fulls d'estil
 styleeditor-visibility-toggle =
     .tooltiptext = Commuta la visibilitat del full d'estil
     .accesskey = D
@@ -39,3 +41,6 @@ styleeditor-stylesheet-rule-count =
         [one] { $ruleCount } regla.
        *[other] { $ruleCount } regles.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Full d'estil d'impressió bonic
