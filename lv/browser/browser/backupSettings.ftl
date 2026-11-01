@@ -94,14 +94,91 @@ backup-error-file-system = Veidojot rezerves kopiju { -brand-short-name }, radā
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Izslēgt rezerves kopiju?
+turn-off-scheduled-backups-description = Tādējādi tiek dzēsti arī visi jūsu rezervju kopiju dati. To nevar atsaukt.
 turn-off-scheduled-backups-support-link = Uzzināt vairāk
+turn-off-scheduled-backups-cancel-button = Atcelt
+turn-off-scheduled-backups-confirm-button = Izslēgt veidošanu un dzēst rezervju kopijas
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Atjaunojiet savus datus
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Kas tiks atjaunots?
+restore-from-backup-filepicker-label = Rezerves datne
+restore-from-backup-filepicker-title = Izvēlieties rezerves kopijas datni:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Izvēlēties...
+       *[other] Pārlūkot...
+    }
+restore-from-backup-password-label = Parole
+restore-from-backup-password-description = Tas atbloķē jūsu šifrēto rezerves kopiju.
+restore-from-backup-cancel-button = Atcelt
+restore-from-backup-confirm-button = Atjaunot un restartēt
+restore-from-backup-restoring-button = Atjaunošana…
+restore-from-backup-type-group-label =
+    .label = Vai aizstāt pašreizējo profilu?
+restore-from-backup-type-replace =
+    .label = Aizstāt visus datus ar šo rezerves kopiju
+restore-from-backup-type-add =
+    .label = Saglabāt datus un izveidot jaunu profilu
+restore-from-backup-profiles-disabled-message = Tas aizstās visus jūsu pašreizējos { -brand-short-name } datus ar jūsu rezerves kopijas datiem.
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Nepareiza parole. <a data-l10n-name="incorrect-password-support-link">Vai joprojām rodas problēmas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Šī datne nedarbojas
+    .message = Radās problēma ar jūsu rezerves kopijas datni. Izvēlieties citu datni un mēģiniet vēlreiz.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Šī datne nedarbojas
+    .message = Izvēlētais datne nav saderīga ar šo { -brand-short-name } versiju. Izvēlieties citu datni un mēģiniet vēlreiz.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Šī datne nedarbojas
+    .message = Izvēlēto datni neizveidoja { -brand-short-name }. Izvēlieties citu datni un mēģiniet vēlreiz.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } nevarēja atjaunot
+    .message = Restartējiet { -brand-short-name } un mēģiniet atjaunot rezerves kopiju vēlreiz.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, radās problēma ar rezerves kopijas izveidi.
+    .message = Pēc dažām minūtēm jāmēģina vēlreiz.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Izveidojiet savu sensitīvo datu rezerves kopiju
 enable-backup-encryption-support-link = Uzzināt vairāk
+enable-backup-encryption-create-password-label = Parole
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Atkārtojiet paroli
+enable-backup-encryption-cancel-button = Atcelt
+enable-backup-encryption-confirm-button = Saglabāt
+change-backup-encryption-header = Mainīt rezerves paroli
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
+password-rules-header = Paroles prasības
+password-rules-length-description = Vismaz 8 rakstzīmes
+password-rules-email-description2 = Nav epasta adrese
+password-rules-email-description = Nav jūsu epasta adrese
 password-rules-disclaimer = Esi drošībā — neizmanto paroles atkāŗtoti! Vairāk padomu <a data-l10n-name="password-support-link">spēcīgu paroļu izveidei</a>.
 
 ## These strings are inserted into the generated single-file backup archive.

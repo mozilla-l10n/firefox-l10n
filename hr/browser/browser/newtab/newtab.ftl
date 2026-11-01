@@ -210,6 +210,11 @@ newtab-privacy-empty-state = { -brand-short-name } automatski blokira programe z
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Pogledaj ukupni broj ovdje.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Brže pregledavanje. Manje programa za praćenje.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -269,6 +274,38 @@ newtab-privacy-message-first-protection-cta = Pogledaj zaštite
 newtab-stocks-menu-learn-more = Saznaj više
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Podaci o dionicama nisu dostupni.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Otvori izbornik financija
+    .title = Otvori izbornik financija
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .aria-label = Traži po nazivu ili simbolu
+    .label = Traži
+    .title = Traži po nazivu ili simbolu
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Počni pratiti dionice koje su ti bitne
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .aria-label = Traži po nazivu ili simbolu
+    .label = Traži
+    .title = Traži po nazivu ili simbolu
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Tržišta
+    .label = Tržišta
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Popis praćenja
+    .label = Popis praćenja
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Traži po nazivu ili simbolu
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Financije
@@ -286,16 +323,70 @@ newtab-stocks-ticker-status-down = { $name }, pada { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, bez promjene, { $change }, { $price }
 
+## Finance widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Dodaj { $name } na popis praćenja
+    .title = Dodaj { $name } na popis praćenja
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Ukloni { $name } s popisa praćenja
+    .title = Ukloni { $name } s popisa praćenja
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } je na tvom popisu praćenja
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = „{ $name }” dodano na popis praćenja
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = „{ $name }” uklonjeno s popisa praćenja
+
 ## Finance widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Traži po nazivu ili simbolu
+    .placeholder = Traži po nazivu ili simbolu
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Rezultati pretrage
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Traži simbole ili tvrtke koje želiš dodati na svoj popis praćenja
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
     .aria-label = Natrag
     .title = Natrag
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Nema rezultata za „{ $query }”
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Učitavanje…
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Možeš dodati do { $limit } dionice. Ukloni neku za dodavanje novih.
+        [few] Možeš dodati do { $limit } dionice. Ukloni neku za dodavanje novih.
+       *[other] Možeš dodati do { $limit } dionica. Ukloni neku za dodavanje novih.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -304,6 +395,10 @@ newtab-stocks-search-loading = Učitavanje…
 newtab-picture-header = Slika dana · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Slika dana
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Slika dana: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -317,6 +412,11 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Pogledaj licenciju { $license }
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Otvori izbornik za sliku dana
+    .title = Otvori izbornik za sliku dana
 # Button that sets the picture shown in the widget, which may be today’s or the
 # previous day’s, as the New Tab background wallpaper. The button collapses to an
 # icon when not hovered/focused, so .title is its tooltip.
@@ -371,6 +471,18 @@ newtab-recent-searches-tab-trending = Popularno
 newtab-recent-searches-trending-attribution = putem { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Upravo sada
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Ukloni „{ $search }” iz nedavnih pretraga
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Pretraživanje
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Otvori izbornik pretraživanja
+    .title = Otvori izbornik pretraživanja
 
 ## Strings for the Horoscopes widget
 
@@ -378,6 +490,9 @@ newtab-recent-searches-just-now = Upravo sada
 newtab-horoscopes-widget-title = Horoskopi
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Saznaj više
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Pokreće Yahoo
 
 ## Strings for the Travel widget
 
@@ -391,6 +506,9 @@ newtab-travel-widget-open-menu-button =
     .title = Otvori izbornik putovanja
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Saznaj više
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Pokreće Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -447,6 +565,7 @@ newtab-topsites-add-shortcut-label = Dodaj prečac
 newtab-topsites-add-shortcut-title =
     .aria-label = Dodaj prečac
     .title = Dodaj prečac
+newtab-shortcuts-pinned-area = Prikvačeno područje
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Upiši naslov
@@ -621,6 +740,9 @@ newtab-discovery-empty-section-topstories-header = U toku ste sa svime!
 newtab-discovery-empty-section-topstories-content = Kasnije potraži daljnje priče.
 newtab-discovery-empty-section-topstories-try-again-button = Pokušaj ponovo
 newtab-discovery-empty-section-topstories-loading = Učitavanje…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Priče trenutno nisu dostupne
+newtab-discovery-empty-section-topstories-unavailable-body = Provjeri vezu ili pokušaj ponovno.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Uh! Nismo potpuno učitali ovaj odjeljak.
 
@@ -638,6 +760,12 @@ newtab-carousel-previous =
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Sljedeće
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Pauziraj autom. reprodukciju
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Nastavi autom. reprodukciju
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

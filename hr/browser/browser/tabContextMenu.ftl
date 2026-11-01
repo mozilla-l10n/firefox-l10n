@@ -9,6 +9,9 @@
 reload-tab =
     .label = Ponovo učitaj karticu
     .accesskey = v
+reload-tab2 =
+    .label = Učitaj ponovo
+    .accesskey = U
 select-all-tabs =
     .label = Odaberi sve kartice
     .accesskey = s

@@ -46,3 +46,4 @@ about-pdf-feature-view-description = Pomiči se vertikalno, horizontalno ili se 
 about-pdf-feature-presentation-heading = Prezentiraj PDF-ove preko cijelog ekrana
 about-pdf-feature-presentation-description = Dijeli čisti prikaz u prezentacijskom načinu rada.
 about-pdf-feature-details-heading = Brže pronađi detalje
+about-pdf-feature-details-description = Za kretanje kroz PDF-ove koristi strukturu dokumenta, priloge i njegova svojstva.
