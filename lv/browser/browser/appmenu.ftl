@@ -15,7 +15,11 @@ appmenuitem-banner-update-unsupported =
     .label = Nevar atjaunināt — sistēma nav saderīga
 appmenuitem-banner-update-restart =
     .label = Pieejams atjauninājums — restartējiet tūlīt
+appmenu-nova-update-title = Restartējiet, lai atjauninātu { -brand-short-name }
+appmenu-nova-update-description = Jūsu cilnes tiks atvērtas atkārtoti.
 appmenu-nova-fxa-sign-in = Pieteikties
+appmenu-nova-switch-device-promo =
+    .message = Drīzumā iegādāsieties jaunu ierīci? Paņemiet līdzi { -brand-short-name }!
 appmenu-nova-switch-device-link = Kā pārcelt savus datus
 appmenuitem-new-tab =
     .label = Jauna cilne
@@ -156,6 +160,14 @@ appmenu-fxa-last-sync = Pēdējo reizi sinhronizēts { $time }
     .label = Pēdējo reizi sinhronizēts { $time }
 appmenu-fxa-sync-and-save-data2 = Sinhronizēt un saglabāt datus
 appmenu-fxa-signed-in-label = Pieteikties
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Vienādojiet savus datus visur
+appmenu-fxa-sign-in-promo-link = Pierakstīties
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Noraidīt pierakstīšanās reklāmu
+    .title = Noraidīt
 appmenu-fxa-setup-sync =
     .label = Ieslēgt vienādošanu…
 appmenu-fxa-setup-sync-new = Ieslēgt
@@ -232,6 +244,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Priekšiestatījums tīkla kļūdu izmeklēšanai { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Tīkls
+profiler-popup-presets-networking-with-logs-description = Iepriekš iestatīts tīklošanas kļūdu izmeklēšanai pakalpojumā { -brand-shorter-name }, tostarp tīkla žurnālos. Šajos žurnālos var būt ietverta sensitīva informācija, piemēram, apmeklētie URL.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Tīklošana ar žurnāliem
 profiler-popup-presets-power-description = Priekšiestatījums enerģijas izmantošanas problēmu izmeklēšanai { -brand-shorter-name }, ar mazu virstēriņu.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -262,6 +277,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Meklēšanas vēsture
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Sinhronizācija dažādās ierīcēs
+appmenu-sync-promo-signin-cta = Pierakstīties
+appmenu-sync-promo-turnonsync =
+    .heading = Sinhronizējiet savas cilnes un vēsturi
+appmenu-sync-promo-turnonsync-cta = Ieslēgt vienādošanu
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Paņemiet savas mobilās cilnes
+appmenu-sync-promo-connectdevice-cta = Ierīces pievienošana
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Paņemiet līdzi savas grāmatzīmes
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Paņemiet savas grāmatzīmes līdzi
+
 ## Help panel
 
 appmenu-help-header =
@@ -285,6 +321,9 @@ appmenu-help-share-ideas =
     .accesskey = s
 appmenu-help-switch-device =
     .label = Pārslēgšanās uz jaunu ierīci
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Palīdzība un ziņojumi
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -312,6 +351,8 @@ appmenu-customizetoolbar =
     .label = Pielāgot rīkjoslu…
 appmenu-abouttranslations =
     .label = Tulkot…
+appmenu-edit-pdf =
+    .label = Rediģēt PDF datni…
 appmenu-developer-tools-subheader = Pārlūka rīki
 appmenu-developer-tools-extensions =
     .label = Paplašinājumi izstrādātājiem
@@ -321,6 +362,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Piesakies savā kontā
+appmenuitem-monitor-title2 = Esiet soli priekšā identitātes zādzībām
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Saņemt brīdinājumus par datu noplūdēm
 appmenuitem-relay-title = { -relay-brand-short-name }

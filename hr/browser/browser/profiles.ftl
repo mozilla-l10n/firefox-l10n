@@ -55,6 +55,11 @@ avatar-selector-upload-file = Prenesi datoteku
 avatar-selector-drag-file = Ili povuci datoteku ovamo
 avatar-selector-add-image = Dodaj sliku
 avatar-selector-crop = Obreži
+avatar-selector-dialog =
+    .aria-label = Uredi avatar
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Odaberi avatar
 edit-profile-page-no-name = Zadaj ime ovom profilu kako bi ga kasnije lakše pronašao/la. Preimenuj ga bilo kada.
 edit-profile-page-duplicate-name = Ime profila se već koristi. Pokušaj s novim imenom.
 edit-profile-page-profile-saved = Spremljeno

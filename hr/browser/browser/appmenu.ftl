@@ -126,6 +126,7 @@ fxa-menu-sync-off-data-description = Vaši se podaci ne sinkroniziraju
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Uključi
+fxa-menu-sync-status-turn-on-button-aria-label = Uključi
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Prijavi se za sinkronizaciju
@@ -159,6 +160,14 @@ appmenu-fxa-last-sync = Zadnja sinkronizacija { $time }
     .label = Zadnja sinkronizacija { $time }
 appmenu-fxa-sync-and-save-data2 = Sinkroniziraj i spremi podatke
 appmenu-fxa-signed-in-label = Prijavi se
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Sinkroniziraj podatke bilogdje
+appmenu-fxa-sign-in-promo-link = Prijavi se
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Odbaci promociju prijave
+    .title = Odbaci
 appmenu-fxa-setup-sync =
     .label = Uključi sinkronizaciju…
 appmenu-fxa-setup-sync-new = Uključi
