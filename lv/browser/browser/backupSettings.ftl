@@ -49,18 +49,51 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datnes nosaukums: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .description = Atgūstiet savus { -brand-product-name } datus no pēdējās rezerves kopijas.
+    .label = Atjaunojiet savus datus
+settings-data-backup-restore-scheduled-off =
+    .description = Lai atjaunotu datus, izmantojiet { -brand-product-name } rezerves kopiju no citas ierīces.
+    .label = Atjaunojiet savus datus
+settings-sensitive-data =
+    .label = Sensitīvi dati
 settings-data-toggle-encryption-support-link = Uzzināt vairāk
+settings-data-change-password2 =
+    .label = Mainīt paroli
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Ieslēgt rezerves kopiju
+turn-on-scheduled-backups-description = { -brand-short-name } izveidos jūsu datu momentuzņēmumu ik pēc 24 stundām. Varat to atjaunot, ja rodas problēma vai iegādājaties jaunu ierīci.
+turn-on-scheduled-backups-support-link = Kas tiks iekļauts rezerves kopija?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Vieta
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (ieteicama)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Izvēlieties vietu
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Izvēlēties...
+       *[other] Pārlūkot...
+    }
+turn-on-scheduled-backups-encryption-label = Izveidojiet rezerves kopija jūsu sensitīvajiem datiem
+turn-on-scheduled-backups-encryption-create-password-label = Parole
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Atkārtojiet paroli
+turn-on-scheduled-backups-cancel-button = Atcelt
+turn-on-scheduled-backups-confirm-button = Ieslēgt rezerves kopijas izveidi
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Radās problēma ar jūsu atlasīto rezerves kopijas mapi. Izvēlieties citu mapi un mēģiniet vēlreiz.
+turn-on-scheduled-backups-error-default-dir-denied = Mēs nevarējām piekļūt jūsu rezerves kopijas mapei. Mēģiniet izvēlēties jaunu atrašanās vietu.
+backup-error-file-system = Veidojot rezerves kopiju { -brand-short-name }, radās problēma ar atlasīto rezerves kopijas mapi.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Izslēgt rezerves kopiju?
 turn-off-scheduled-backups-support-link = Uzzināt vairāk
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.

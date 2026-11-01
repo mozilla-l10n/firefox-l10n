@@ -43,3 +43,4 @@ default-browser-guidance-notification-v2-title = Završi postavljanje { -brand-s
 default-browser-guidance-notification-v2-body = U postavkama odaberi „Postavi kao standardni” za { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Završi postavljanje { -brand-short-name(case: "gen") } kao standardnog preglednika u postavkama
 default-browser-guidance-notification-auto-trigger-title = Otvori svoje poveznice u { -brand-short-name(case: "loc") }
+default-browser-guidance-notification-auto-trigger-body = Odaberi { -brand-short-name(case: "acc") } kao svoj standardni preglednik u postavkama.

@@ -28,11 +28,21 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } alati za PDF
+about-pdf-features-intro = Čitaj, označi i potpiši PDF-ove tamo gdje i pregledavaš. Jednostavno je, besplatno i privatno.
 about-pdf-features-back =
     .label = Natrag
 about-pdf-feature-organize-heading = Organiziraj stranice
+about-pdf-feature-organize-description = Promijeni redoslijed, ukloni, spoji i izvezi stranice.
 about-pdf-feature-signatures-heading = Spremi potpise
+about-pdf-feature-signatures-description = Stvori više potpisa i dodaj ih u obrasce.
 about-pdf-feature-comments-heading = Dodaj bilješke
+about-pdf-feature-comments-description = Ostavi komentare i podsjetnike tijekom čitanja.
 about-pdf-feature-annotate-heading = Označavaj na PDF-ovima
+about-pdf-feature-annotate-description = Dodaj tekst, isticanja i crteže.
+about-pdf-feature-images-heading = Prenesi pristupačne slike
+about-pdf-feature-images-description = Dodaj alternativni tekst kako bi slike bi bile pristupačne većem broju ljudi.
 about-pdf-feature-view-heading = Odaberi svoj prikaz
+about-pdf-feature-view-description = Pomiči se vertikalno, horizontalno ili se prebacuj među rasporedima stranica.
+about-pdf-feature-presentation-heading = Prezentiraj PDF-ove preko cijelog ekrana
+about-pdf-feature-presentation-description = Dijeli čisti prikaz u prezentacijskom načinu rada.
 about-pdf-feature-details-heading = Brže pronađi detalje
