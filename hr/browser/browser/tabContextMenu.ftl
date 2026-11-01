@@ -24,8 +24,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Dupliciraj karticu
     .accesskey = D
+duplicate-tab2 =
+    .label = Dupliciraj
+    .accesskey = D
 duplicate-tabs =
     .label = Dupliciraj kartice
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Dupliciraj
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +58,15 @@ reload-tabs =
 pin-tab =
     .label = Prikvači karticu
     .accesskey = k
+tab-context-pin-tab2 =
+    .label = Prikvači
+    .accesskey = k
 unpin-tab =
     .label = Otkvači karticu
     .accesskey = O
+tab-context-unpin-tab2 =
+    .label = Otkvači
+    .accesskey = k
 pin-selected-tabs =
     .label = Prikvači kartice
     .accesskey = a
@@ -67,7 +79,14 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Zabilježi karticu…
     .accesskey = b
+# Context menu item used to bookmark 1 or more selected tabs
+tab-context-bookmark-tab2 =
+    .label = Zabilježi
+    .accesskey = Z
 tab-context-open-in-new-container-tab =
+    .label = Otvori u novoj kontejnerskoj kartici
+    .accesskey = e
+tab-context-open-in-new-container-tab2 =
     .label = Otvori u novoj kontejnerskoj kartici
     .accesskey = e
 move-to-start =
@@ -86,9 +105,16 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Zatvori višestruke kartice
     .accesskey = t
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Zatvori višestruke
+    .accesskey = v
 tab-context-close-duplicate-tabs =
     .label = Zatvori duple kartice
     .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Zatvori duplikate ove kartice
+    .accesskey = x
 tab-context-share-url =
     .label = Podijeli
     .accesskey = h
@@ -120,6 +146,15 @@ tab-context-close-n-tabs =
            *[other] Zatvori { $tabCount } kartica
         }
     .accesskey = c
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Zatvori
+            [one] Zatvori { $tabCount } karticu
+            [few] Zatvori { $tabCount } kartice
+           *[other] Zatvori { $tabCount } kartica
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -129,6 +164,20 @@ tab-context-move-tabs =
            *[other] Premjesti kartice
         }
     .accesskey = m
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Premjesti karticu u
+            [one] Premjesti { $tabCount } karticu u
+            [few] Premjesti { $tabCount } kartice u
+           *[other] Premjesti { $tabCount } kartica u
+        }
+    .accesskey = P
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Premjesti podijeljeni prikaz u
+    .accesskey = P
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -138,6 +187,9 @@ tab-context-send-to-device =
             [few] Pošalji { $tabCount } kartice na uređaj
            *[other] Pošalji { $tabCount } kartica na uređaj
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = Pošalji na svoje uređaje
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -149,6 +201,10 @@ tab-context-send-to-mobile =
            *[other] Pošalji { $tabCount } kartica na mobitel
         }
     .accesskey = n
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Stvori poveznicu za dijeljenje
+    .accesskey = a
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
@@ -158,3 +214,7 @@ tab-context-unload-n-tabs =
            *[other] Isključi { $tabCount } kartica
         }
     .accesskey = I
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Rastereti
+    .accesskey = R

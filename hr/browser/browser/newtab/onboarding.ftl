@@ -528,9 +528,24 @@ onboarding-refresh-pin-set-default-subtitle = Štitimo tvoje podatke i blokiramo
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = U sigurnim su rukama
 onboarding-refresh-import-subtitle = Prenesi svoje lozinke, zabilješke, povijest i još više.
+onboarding-refresh-import-title = Postavi { -brand-short-name } po svom ukusu
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Poboljšaj svoje pregledavanje
+onboarding-refresh-sync-title = Idi bilogdje. Sinkroniziraj sve.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } ti čuva leđa
+
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } ti od sada čuva leđa
+onboarding-refresh-hero-text = Stvoren da te štiti, a ne da prati što radiš.
+onboarding-refresh-tou-default = Otvori sve poveznice u { -brand-short-name(case: "loc") }
 
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } uvjeti korištenja
 smartwindow-existing-user-fx-tou-accept = Prihvati
 smartwindow-existing-user-fx-tou-go-back = Idi natrag
 
@@ -538,7 +553,33 @@ smartwindow-existing-user-fx-tou-go-back = Idi natrag
 
 smartwindow-onboarding-primary-button = Nastavi
 
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Želiš da asistent ostane zatvoren?
+smartwindow-sidebar-auto-open-callout-body = Možeš ga i dalje otvoriti kad god ga trebaš.
+smartwindow-sidebar-auto-open-callout-accept = Da, zadrži zatvoreno
+smartwindow-sidebar-auto-open-callout-dismiss = Ne, hvala
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistent će ostati zatvoren
+smartwindow-sidebar-auto-open-callout-rejected-title = Razumijem
+
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Odaberi temu
 onboarding-theme-picker-button-label = Spremi i nastavi
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Istaknute značajke
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = Počni pregledavati
+welcome-back-onboarding-secondary-button-label = Pogledaj što još je novo
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Uredne kartice
+welcome-back-onboarding-pill-label-vpn = Ugrađeni VPN
+welcome-back-onboarding-pill-label-pdf = PDF alati
+welcome-back-onboarding-card-tilebutton-label = Isprobaj

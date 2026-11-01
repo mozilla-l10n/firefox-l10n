@@ -180,15 +180,86 @@ password-rules-length-description = Vismaz 8 rakstzīmes
 password-rules-email-description2 = Nav epasta adrese
 password-rules-email-description = Nav jūsu epasta adrese
 password-rules-disclaimer = Esi drošībā — neizmanto paroles atkāŗtoti! Vairāk padomu <a data-l10n-name="password-support-link">spēcīgu paroļu izveidei</a>.
+password-validity-has-email = Nevar būt epasta adrese
+password-validity-do-not-match = Paroles nesakrīt
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Izdevās
+password-rules-a11y-warning =
+    .alt = Brīdinājums
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Noņemt paroles aizsardzību
+disable-backup-encryption-description2 = Jūsu saglabātās paroles un maksājuma metodes arī vairs netiks iekļautas rezerves kopijā.
+disable-backup-encryption-support-link = Kas tiks iekļauts rezerves kopija?
+disable-backup-encryption-cancel-button = Atcelt
+disable-backup-encryption-confirm-button = Noņemt paroli
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Jūsu parole neatbilst prasībām. Lūdzu, mēģiniet citu paroli.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } ir gatavs datu atjaunošanai
+backup-file-title = Atjaunot { -brand-short-name }
+backup-file-intro = Atgriezieties pie pārlūkošanas un atgūstiet visas savas grāmatzīmes, vēsturi un citus datus. <a data-l10n-name="backup-file-support-link">Uzziniet vairāk</a>
+backup-file-path-label = Rezerves datne:
+backup-file-encryption-state-label = Šifrēts:
+backup-file-encryption-state-value-encrypted = Jā
+backup-file-encryption-state-value-not-encrypted = Nē
+backup-file-creation-device-label = Ierīce:
+backup-file-creation-date-label = Izveidots:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Kā atjaunot:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Jāatver lietotnes izvēlne ☰ un jādodas uz Iestatījumi > Vienādošana
+backup-file-moz-browser-restore-step-2-1 = Noklikšķiniet uz “Atjaunot datus” un atlasiet šo datni.
+backup-file-moz-browser-restore-step-3 = Restartējiet { -brand-short-name }, kad tas tiek prasīts
+backup-file-other-browser-restore-step-1 = Lejupielādējiet un instalējiet { -brand-short-name }
+backup-file-download-moz-browser-button = Lejupielādēt
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Jāpalaiž { -brand-short-name }, jāatver lietotnes izvēlne un jādodas uz Iestatījumi > Vienādošana
+backup-file-other-browser-restore-step-3-1 = Noklikšķiniet uz “Atjaunot datus” un atlasiet šo datni
+backup-file-other-browser-restore-step-4 = Restartējiet { -brand-short-name }, kad tas tiek prasīts
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Piezīme:</b> atrasta vēl { $numberOfOtherBackupsFound } rezerves kopijas datne
+        [zero] <b>Piezīme:</b> atrastas vēl { $numberOfOtherBackupsFound } rezerves kopijas datnes
+       *[other] <b>Piezīme:</b> atrastas vēl { $numberOfOtherBackupsFound } rezerves kopijas datnes
+    }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName } izveidots { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ierīcē { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Atjaunots no { $deviceName } ierīces { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } plkst. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-file-restore-file-validation-error = Šis fails nedarbojas. Mēģiniet izvēlēties citu failu. <a data-l10n-name="restore-problems">Joprojām rodas problēmas?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Nav atlasīta datne
