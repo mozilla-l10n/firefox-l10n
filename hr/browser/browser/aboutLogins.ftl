@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Uvezi iz drugog pregled
 about-logins-menu-menuitem-import-from-a-file = Uvezi iz datoteke…
 about-logins-menu-menuitem-export-logins2 = Izvezi lozinke…
 about-logins-menu-menuitem-remove-all-logins2 = Ukloni sve lozinke…
+about-logins-menu-menuitem-delete-all-logins = Izbriši sve lozinke…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mogućnosti
@@ -91,6 +92,7 @@ about-logins-intro-import3 = Odaberi gornji znak plus za dodavanje lozinke. Tako
 about-logins-login-item-new-login-title = Dodaj lozinku
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Ukloni
+about-logins-login-item-delete-button = Izbriši
 login-item-origin-label = Adresa web-stranice
 about-logins-origin-tooltip2 = Upiši punu adresu i provjeri da točno odgovara stranici na kojoj se prijavljuješ.
 # Variables
@@ -176,9 +178,15 @@ confirmation-dialog-dismiss-button =
     .title = Odustani
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Ukloniti lozinku?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Izbrisati lozinku?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Ovu radnju ne možeš poništiti.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Ovo ju briše iz { -brand-short-name(case: "gen") } na svim uređajima na kojima se sinkroniziraju tvoje lozinke. Ovo ne možeš poništiti.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Izbriši
 
 ## Variables
 ##   $count (number) - Number of items
@@ -190,6 +198,14 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Ukloni sve
        *[other] Ukloni sve
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Izbriši
+        [one] Izbriši sve
+        [few] Izbriši sve
+       *[other] Izbriši sve
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -197,6 +213,14 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [one] Da, ukloni lozinku
         [few] Da, ukloni lozinke
        *[other] Da, ukloni lozinke
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Da, izbriši lozinku
+        [one] Da, izbriši lozinke
+        [few] Da, izbriši lozinke
+       *[other] Da, izbriši lozinke
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -220,6 +244,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [few] Ukloniti sve { $count } lozinke sa svih uređaja?
        *[other] Ukloniti sve { $count } lozinke sa svih uređaja?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Izbrisati { $count } lozinku?
+        [few] Izbrisati { $count } lozinke?
+       *[other] Izbrisati { $count } lozinki?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
@@ -227,6 +258,14 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju ne možeš poništiti.
         [few] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju ne možeš poništiti.
        *[other] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju ne možeš poništiti.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Ovo ju briše iz { -brand-short-name(case: "gen") } na svim uređajima na kojima se sinkroniziraju tvoje lozinke. Ovo ne možeš poništiti.
+        [one] Ovo ih briše iz { -brand-short-name(case: "gen") } na svim uređajima na kojima se sinkroniziraju tvoje lozinke. Ovo ne možeš poništiti.
+        [few] Ovo ih briše iz { -brand-short-name(case: "gen") } na svim uređajima na kojima se sinkroniziraju tvoje lozinke. Ovo ne možeš poništiti.
+       *[other] Ovo ih briše iz { -brand-short-name(case: "gen") } na svim uređajima na kojima se sinkroniziraju tvoje lozinke. Ovo ne možeš poništiti.
     }
 
 ##

@@ -31,13 +31,29 @@ settings-data-backup-trigger-button = Izveidot rezerves kopiju
 settings-data-backup-in-progress-button = Notiek rezerves kopijas izveide…
 settings-data-backup-in-progress-message =
     .message = Notiek rezerves kopijas izveide…
+settings-data-backup-last-backup-date = Pēdējā rezerves kopija: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
-    .label = Dublēšana ir ieslēgta
+    .label = Rezerves kopēšana ir ieslēgta
+settings-data-backup-scheduled-backups-off2 =
+    .label = Rezerves kopēšana ir izslēgta
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Rezerves kopijas atrašanās vieta
+settings-data-backup-last-backup-location-show-in-folder = Rādīt mapē
+settings-data-backup-last-backup-location-edit = Labot…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } bija kļūda dublējuma izveidošanā.
+settings-sensitive-data-encryption-description = Dublējiet savas paroles un maksājuma metodes, kā arī glabājiet visus savus datus drošībā, izmantojot šifrēšanu.
+settings-data-toggle-encryption-label2 =
+    .description = Dublējiet savas paroles un maksājuma metodes, kā arī glabājiet visus savus datus drošībā, izmantojot šifrēšanu.
+    .label = Dublējiet savus sensitīvos datus
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Datnes nosaukums: { $fileName }
 settings-data-toggle-encryption-support-link = Uzzināt vairāk
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Ieslēgt rezerves kopiju
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =

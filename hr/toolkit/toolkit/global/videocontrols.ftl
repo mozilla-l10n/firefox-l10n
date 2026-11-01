@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Video format ili MIME vrsta nisu podrža
 videocontrols-error-no-source = Nije pronađen video s podržanim formatom ili MIME vrstom.
 videocontrols-error-generic = Reprodukcija videa je prekinuta zbog nepoznate greške.
 videocontrols-status-picture-in-picture = Ovaj se video reproducira u modusu „Slika-u-slici”.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Video se reproducira u načinu „Slika-u-slici”
 # This message shows the current position and total video duration
 #
 # Variables:

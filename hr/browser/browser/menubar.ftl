@@ -84,6 +84,11 @@ menu-file-close-tab =
            *[other] Zatvori { $tabCount } kartica
         }
     .accesskey = Z
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Zatvori
+    .accesskey = Z
 menu-file-close-window =
     .label = Zatvori prozor
     .accesskey = o
@@ -96,6 +101,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Dijeli
     .accesskey = D
+menu-file-share-qrcode3 =
+    .label = Stvori QR kod
+    .accesskey = S
 menu-file-share-qrcode =
     .label = Generiraj QR kod …
     .accesskey = Q
@@ -235,6 +243,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Pretraži povijest
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Pretraži kartice
 
 ## Bookmarks Menu
 
@@ -260,6 +271,10 @@ menu-bookmarks-other =
     .label = Druge zabilješke
 menu-bookmarks-mobile =
     .label = Mobilne zabilješke
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Prikaži više u bočnoj traci
 
 ## Profiles Menu
 

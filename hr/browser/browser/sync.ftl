@@ -70,6 +70,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Odjavljen(a) si
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Dovrši postavljanje
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Prijavi se za sinkronizaciju
+fxa-menu-signed-out-description = Odjavljen(a) si
 fxa-avatar-sign-in = Prijavi se
 fxa-avatar-sign-up = Registriraj se
 fxa-avatar-tooltip =

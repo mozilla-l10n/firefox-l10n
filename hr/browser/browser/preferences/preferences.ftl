@@ -37,6 +37,8 @@ managed-notice-info-icon =
     .alt = Informacije
 managed-notice-nav =
     .label = Tvojim preglednikom upravlja tvoja organizacija.
+tls-key-logging-notice-nav =
+    .label = Aplikacija ili usluga može vidjeti tvoj šifrirani promet.
 category-list =
     .aria-label = Kategorije
 pane-general-title = Opće
@@ -358,6 +360,8 @@ website-language-heading =
     .label = Jezik web-stranice
 website-preferred-language =
     .label = Preferirani jezici
+website-language-list =
+    .aria-label = Preferirani jezici
 website-add-language =
     .label = Dodaj jezik
 website-add-language-button =
@@ -810,6 +814,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adrese web-stranica
+home-custom-homepage-list =
+    .aria-label = Adrese web stranica
 home-custom-homepage-address =
     .placeholder = Upiši adresu
 home-custom-homepage-address-button =
@@ -927,6 +933,10 @@ search-separate-default-engine-2 =
     .accesskey = u
 search-separate-default-engine-dropdown =
     .aria-label = Zadana tražilica u privatnim prozorima
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigacija u adresnoj traci
 search-suggestions-header-2 =
     .label = Prijedlozi tražilice
 search-one-click-header2 = Prečaci za pretraživanje
@@ -997,6 +1007,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Dodaj novi kontejner
     .accesskey = a
+containers-list =
+    .aria-label = Kontejneri
 containers-new-tab-check3 =
     .label = Odaberi kontejner za svaku novu karticu
     .accesskey = s
@@ -1425,6 +1437,45 @@ preferences-passwords-autofill-header =
 payment-moz-box-item =
     .description = { $expDate }
     .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV je spremljen
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV je spremljen
+    .label = { $cardNumber }
 addresses-group =
     .label = Adrese i više
 payments-group =
@@ -1755,6 +1806,29 @@ permissions-data-section =
     .heading = Dozvole i podaci
 pane-permissions-data-title2 = Dozvole i podaci
     .title = Dozvole i podaci
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Web stranica
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Dopusti obavijesti
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Web stranice
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Uvijek
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Dopusti
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nikad
 
 ## Privacy Section - Data Collection
 
