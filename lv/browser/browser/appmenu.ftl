@@ -363,19 +363,29 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Piesakies savā kontā
 appmenuitem-monitor-title2 = Esiet soli priekšā identitātes zādzībām
+appmenuitem-monitor-description2 = Saņemiet brīdinājumus par datu noplūdēm
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Datu noplūdes brīdinājumi
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Saņemt brīdinājumus par datu noplūdēm
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Saglabājiet savu epastu privātu
+appmenuitem-relay-description2 = Palīdz novērst surogātpastu jūsu iesūtnē
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
 appmenuitem-relay-title-signed-in = Apskatīt e-pasta aizsegus
 appmenuitem-relay-description = Aizsedz savu īsto e-pasta adresi un tālruni
 appmenuitem-services-relay-description = Palaist e-pasta aizsegu pārskata paneli
+appmenuitem-vpn-title2 = Slēpt savu atrašanās vietu ar { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Iegūsti papildu aizsardzību savās ierīcēs
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Lejupielādēt { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Iegūstiet visas ierīces aizsardzību
 appmenu-services-header = Mani pakalpojumi
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Privātuma rīki
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -388,11 +398,46 @@ appmenu-manage-profiles =
     .label = Pārvaldīt profilus
 appmenu-copy-profile =
     .label = Kopēt šo profilu
+appmenu-create-profile2 =
+    .label = Izveidot jaunu profilu
 appmenu-create-profile =
     .label = Jauns profils
 appmenu-edit-profile =
     .aria-label = Labot profilu
+appmenu-edit-this-profile =
+    .label = Rediģēt šo profilu
+appmenu-profile-current-in-use = Pašreizējais profils tiek lietots
+fxa-menu-create-profile-subpanel =
+    .title = Izveidot jaunu profilu
+fxa-menu-create-profile-heading = Paceliet savu pārlūkošanu jaunā līmenī ar jaunu profilu
+fxa-menu-create-profile-description = Atsevišķi glabājiet grāmatzīmes, paroles un pārlūkošanas vēsturi darba un personīgajai lietošanai.
+fxa-menu-create-profile-confirm =
+    .label = Izveidot jaunu profilu
+fxa-menu-create-profile-learn-more =
+    .label = Kas ir profili?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Kopīgot { -brand-product-name }
+appmenuitem-share-firefox-description = Uzaiciniet kādu izvēlēties pārlūku, kas privātumu izvirza pirmajā vietā
 appmenu-profiles-2 =
     .label = Profili
+appmenu-profiles-header = Profili
+appmenu-all-profiles =
+    .label = Visi profili
+appmenu-secure-sync-header = Droša vienādošana
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nesen atvērtās cilnes
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Skatīt sinhronizēto cilni { $tabCount }
+            [zero] Skatīt visas { $tabCount } sinhronizētās cilnes
+           *[other] Skatīt visas { $tabCount } sinhronizētās cilnes
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Nosūtīt pašreizējo lapu uz šo ierīci

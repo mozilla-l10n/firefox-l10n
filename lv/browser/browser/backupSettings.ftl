@@ -2,11 +2,35 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This string is used to name the folder that users will save backups to.
+# "Restore" is an action and intended for prompting users to select this folder
+# when following backup restoration steps. Please only include characters that
+# can be used for folders. Invalid characters will be automatically stripped out
+# or replaced with underscores.
+backup-folder-name = Atjaunot { -brand-product-name }
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name = { -brand-product-name } Rezerves kopija
 settings-data-backup-header2 =
-    .description = Automātiski aizsargā grāmatzīmes, vēsturi un citus datus.
-    .label = Dublējums
-settings-data-backup-toggle = Pārvaldīt dublējumu
-settings-data-backup-trigger-button = Dublēt tagad
+    .description = Automātiski aizsargā jūsu grāmatzīmes, vēsturi un citus datus.
+    .label = Rezerves kopija
+settings-data-backup-toggle = Pārvaldīt rezerves kopiju
+settings-data-backup-toggle-on2 =
+    .label = Ieslēgt rezerves kopiju
+settings-data-backup-toggle-off2 =
+    .label = Izslēgt rezerves kopiju
+settings-data-backup-trigger-button = Izveidot rezerves kopiju
+settings-data-backup-in-progress-button = Notiek rezerves kopijas izveide…
+settings-data-backup-in-progress-message =
+    .message = Notiek rezerves kopijas izveide…
 settings-data-backup-scheduled-backups-on2 =
     .label = Dublēšana ir ieslēgta
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } bija kļūda dublējuma izveidošanā.

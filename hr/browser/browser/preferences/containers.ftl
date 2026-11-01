@@ -11,6 +11,44 @@ containers-icon-label2 =
     .label = Ikona
 containers-color-label2 =
     .label = Boja
+containers-dialog2 =
+    .buttonlabelaccept = Spremi
+    .buttonaccesskeyaccept = S
 containers-dialog =
     .buttonlabelaccept = Gotovo
     .buttonaccesskeyaccept = G
+containers-window-new3 =
+    .style = min-width: 32em
+    .title = Dodaj novi kontejner
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .style = min-width: 32em
+    .title = Postavke kontejnera { $name }
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Dodaj web stranicu
+containers-site-label =
+    .label = Web stranica
+    .placeholder = primjer.hr
+containers-site-container-label =
+    .label = Kontejner
+containers-site-dialog =
+    .buttonlabelaccept = Spremi
+    .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Unesi važeću, sigurnu web stranicu
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Ova web stranica već je na tvojem popisu
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Dodaj novi kontejner
+containers-panel-create-button =
+    .label = Gotovo
+containers-panel-cancel-button =
+    .label = Odustani

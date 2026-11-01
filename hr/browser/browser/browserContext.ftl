@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Dodaj tražilicu
     .accesskey = t
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Uključi izbornik radnji
+    .accesskey = a
 main-context-menu-link-send-to-device =
     .label = Pošalji poveznicu na uređaj
     .accesskey = u
@@ -426,6 +430,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Ispitaj
     .accesskey = Q
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Ispitaj svojstva pristupačnosti
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Ispitaj svojstva pristupačnosti
 main-context-menu-eme-learn-more =
@@ -441,6 +450,8 @@ main-context-menu-reveal-password =
     .accesskey = k
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Novo
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = Beta
 main-context-menu-pdfjs-copy-page =
     .label = Kopiraj stranicu
 main-context-menu-pdfjs-cut-page =
