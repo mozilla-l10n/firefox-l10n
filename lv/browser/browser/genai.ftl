@@ -114,7 +114,7 @@ genai-input-ask-provider =
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = Mākslīgā intelekta tērzēšanas robots nesaņems jūsu visu atlasi.
+    .heading = MI tērzēšanas robots nesaņems jūsu visu atlasi.
     .message =
         { $selectionLength ->
             [zero] Jūs esat atlasījis aptuveni { $selectionLength } rakstzīmes. Rakstzīmju skaits, ko varam nosūtīt mākslīgā intelekta tērzēšanas robotam, ir aptuveni { $maxLength }.
@@ -134,6 +134,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Slēpt tērzēšanas robota saīsni
+genai-menu-choose-chatbot =
+    .label = Izvēlieties MI tērzēšanas robotu
 
 ## Chatbot onboarding
 
