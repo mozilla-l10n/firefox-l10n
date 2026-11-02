@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Abrir nueva ventana privada
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Ventana clásica
+toolbar-switcher-customizable-label-v2 =
+    .label = Interruptor de { -smart-window-brand-name }
+    .tooltiptext = Cambiar entre Windows inteligente y Windows clásico
 
 ## Input CTA
 
@@ -76,6 +79,7 @@ smartbar-placeholder-hint-4 = Busca en la web…
 
 smartbar-mention-typing-placeholder = Menciona una pestaña o sitio
 smartbar-mentions-list-no-results-label = No se encontraron resultados
+smartbar-mentions-list-tab-groups-label = Grupos recientes
 smartbar-mentions-list-recent-tabs-label = Pestañas recientes
 
 ## Context mentions menu toggle button
@@ -361,3 +365,19 @@ aiwindow-starter-planning-plan = Ayúdame a crear un plan
 aiwindow-starter-browsing-history = Busca pestañas en mi historial
 aiwindow-starter-browsing-summarize = Resume mis pestañas
 aiwindow-starter-browsing-compare = Compara mis pestañas
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Volver atrás
+    .tooltiptext = Volver atrás
+aiwindow-starter-scroll-end =
+    .aria-label = Desplázate hacia adelante
+    .tooltiptext = Desplázate hacia adelante
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Descartar { $text }
+    .title = Descartar { $text }

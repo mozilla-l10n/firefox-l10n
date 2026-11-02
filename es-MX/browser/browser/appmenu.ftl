@@ -126,6 +126,7 @@ fxa-menu-sync-off-data-description = Tus datos no se están sincronizando.
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Activar
+fxa-menu-sync-status-turn-on-button-aria-label = Encender
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Inicia sesión para sincronizar
@@ -159,6 +160,14 @@ appmenu-fxa-last-sync = Última sincronización { $time }
     .label = Última sincronización { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar y guardar datos
 appmenu-fxa-signed-in-label = Iniciar sesión
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Sincroniza tus datos en todas partes.
+appmenu-fxa-sign-in-promo-link = Iniciar sesión
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Descartar la promoción de inicio de sesión
+    .title = Descartar
 appmenu-fxa-setup-sync =
     .label = Activar la sincronización…
 appmenu-fxa-setup-sync-new = Activar
@@ -279,6 +288,15 @@ appmenu-sync-promo-signin-cta = Iniciar sesión
 appmenu-sync-promo-turnonsync =
     .heading = Sincroniza tus pestañas y tu historial
 appmenu-sync-promo-turnonsync-cta = Activar sincronización
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Accede a las pestañas de tu celular
+appmenu-sync-promo-connectdevice-cta = Conectar un dispositivo
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Lleva tus marcadores contigo
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Llévate tus marcadores a donde quieras
 
 ## Help panel
 
@@ -358,6 +376,9 @@ appmenuitem-relay-title-signed-in = Ver máscaras de correo electrónico
 appmenuitem-relay-description = Enmascare su correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar el panel de máscaras de correo electrónico
 appmenuitem-vpn-title2 = Oculta tu ubicación con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Obtén protección adicional en todos tus dispositivos.
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Descargar { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtén protección para todo el dispositivo
 appmenu-services-header = Mis servicios

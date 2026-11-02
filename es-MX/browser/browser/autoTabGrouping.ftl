@@ -14,3 +14,9 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = Organizar pestañas
+# Shown while the on-device model clusters the open tabs into suggestions. It is
+# forming new groups from these tabs, not searching for tab groups that already
+# exist.
+smartwindow-group-tabs-loading = Buscando pestañas con grupos útiles…
+# Shown when clustering produced no group worth suggesting.
+smartwindow-group-tabs-empty = No hay grupos de pestañas para sugerir en este momento. Vuelva a intentarlo más tarde.
