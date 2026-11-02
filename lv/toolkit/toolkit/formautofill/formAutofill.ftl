@@ -102,8 +102,8 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## and security codes can be saved.
 
 credit-card-capture-update-payment-method-button =
-    .label = Atjaunināt (U)
-    .accessKey = U
+    .label = Atjaunināt
+    .accessKey = A
 credit-card-update-saved-payment-method-doorhanger-header = Vai atjaunināt saglabāto maksājuma veidu?
 # Saves the submitted details as a new payment method instead of updating
 # the saved one.
@@ -118,11 +118,11 @@ credit-card-save-security-code-doorhanger-header = Saglabāt drošības kodu?
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
-credit-card-save-payment-method-doorhanger-header = Vai saglabāt šo maksājuma veidu?
+credit-card-save-payment-method-doorhanger-header = Saglabāt šo maksājuma veidu?
 # Also used on the doorhanger when a saved card is submitted with a new or
 # changed security code.
 # “Checkout” refers to the payment stage on websites.
-credit-card-save-payment-method-doorhanger-description = { -brand-short-name } šifrē un automātiski aizpilda jūsu maksājuma informāciju, lai nodrošinātu ātrāku norēķināšanos.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } šifrē un automātiski aizpilda maksājuma informāciju ātrākiem norēķiniem.
 credit-card-capture-dismiss-button =
     .label = Noraidīt
     .accessKey = N
@@ -131,7 +131,7 @@ credit-card-capture-dismiss-button =
 ## current state: whether security codes are saved or not.
 
 credit-card-doorhanger-always-save-security-codes-toggle =
-    .label = Vienmēr saglabājiet drošības kodus
+    .label = Vienmēr saglabāt drošības kodus
 credit-card-doorhanger-dont-save-security-codes-toggle =
     .label = Nesaglabāt drošības kodus
 

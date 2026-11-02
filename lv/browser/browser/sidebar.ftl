@@ -124,3 +124,5 @@ show-sidebars =
 sidebar-widget-expand-sidebar2 =
     .label = Sānjoslas
     .tooltiptext = Izvērst sānjoslu ({ $shortcut })
+sidebar-pins-promo-text-2 =
+    .heading = Velc šeit svarīgas cilnes, lai tās būtu viegli pieejamas
