@@ -26,7 +26,11 @@ wallet-custom-scheme-warning-heading =
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host-app = Atverot <strong>{ $scheme }</strong> saite ļauj <strong>{ $host }</strong> pieprasīt jūsu indentitāti ar  <strong>{ $appName }</strong>. Turpiniet tikai tad, ja uzticaties šai vietnei.
 # Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Atverot <strong>{ $scheme }</strong> saite ļauj vietnei pieprasīt jūsu identitāti  ar <strong>{ $appName }</strong>. Turpiniet tikai tad, ja uzticaties šai vietnei.
+# Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host = Atverot <strong>{ $scheme }</strong> saite atļauj <strong>{ $host }</strong> pieprasīt jūsu īsto identitāti no jūsu digitālā maka. Turpiniet tikai tad, ja uzticaties šai vietnei.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Atverot <strong>{ $scheme }</strong> saite ļauj šai vietnei pieprasīt jūsu īsto identitāti no jūsu digitālā maka. Turpiniet tikai tad, ja uzticaties šai vietnei.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

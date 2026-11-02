@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contentanalysis-alert-title = Satura analīze
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Satura izskatīšanas rīks ilgu laiku neatbild avotam “{ $content }”
+contentanalysis-slow-agent-dialog-header = Notiek skenēšana
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } pārskata “{ $filename }” atbilstību jūsu organizācijas datu politikām. Tas var aizņemt kādu brīdi.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } pārskata kopēto informāciju un salīdzina tās atbilstību apvienības datu pamatnostādnēm. Tas var aizņemt kādu brīdi.

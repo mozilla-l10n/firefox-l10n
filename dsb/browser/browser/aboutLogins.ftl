@@ -185,7 +185,7 @@ about-logins-confirm-delete-dialog-title2 = Gronidło lašowaś?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Njamóžośo toś tu akciju anulěrowaś.
 # Message for modal to confirm the deletion of one saved password when per-device sync is enabled
-about-logins-confirm-delete-dialog-message2 = To jo z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizujo. Njamóžośo to anulěrowaś.
+about-logins-confirm-delete-dialog-message2 = To jo z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
 about-logins-confirm-remove-dialog-confirm-button = Wótwónoźeś
 # Confirm button for the modal to delete one saved password when per-device sync is enabled
 about-logins-confirm-delete-dialog-confirm-button = Lašowaś
