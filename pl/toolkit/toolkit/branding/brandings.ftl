@@ -29,6 +29,15 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
+-firefox-enterprise-brand-name =
+    { $case ->
+        [gen] Firefoksa Enterprise
+        [dat] Firefoksowi Enterprise
+        [acc] Firefoksa Enterprise
+        [ins] Firefoksem Enterprise
+        [loc] Firefoksie Enterprise
+       *[nom] Firefox Enterprise
+    }
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name =
     { $case ->
