@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Slette data og starte ei ny privat økt?
+reset-pbm-panel-description3 = Dette slettar historikken og infokapslane dine og loggar deg ut av nettstadar. Dei private vindauga dine blir lukka, og eit nytt blir opna.
 reset-pbm-panel-description2 = Dette slettar historikk, infokapslar og alle andre nettstaddata utan å late att det private vindauget.
 reset-pbm-panel-always-ask-checkbox =
     .label = Spør meg alltid
