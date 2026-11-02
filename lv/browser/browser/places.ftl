@@ -258,6 +258,12 @@ places-search-downloads =
 places-locked-prompt = Grāmatzīmju un pārlūkošanas vēstures funkcijas nebūs pieejamas, jo { -brand-short-name } datnes izmanto kāda cita programma. Dažas drošības programmas var radīt šo problēmu.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Jauns
+    .label = Kopīgot mapi
+    .accesskey = a
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Jauns
     .label = Kopīgot mapi
