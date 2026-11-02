@@ -94,7 +94,7 @@ webext-perms-description-data-some-optional = 개발자가 확장 기능이 수�
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } 확장 기능을 업데이트하려면 새 설정이 필요함
-webext-perms-update-list-intro-with-data-collection = 현재 버전과 설정을 유지하려면 취소를 누르고, 새 버전을 얻고 변경 사항을 승인하려면 업데이트하세요.
+webext-perms-update-list-intro-with-data-collection = 현재 버전과 설정을 유지하려면 취소를 선택하고, 새 버전을 다운로드하고 변경 사항을 승인하려면 업데이트를 선택하세요.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } 확장 기능이 추가 설정을 요청함
