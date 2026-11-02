@@ -179,7 +179,7 @@ confirmation-dialog-dismiss-button =
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Czy usunąć to hasło?
 # Title for modal to confirm the deletion of one saved password when per-device sync is enabled
-about-logins-confirm-delete-dialog-title2 = Czy usunąć hasło?
+about-logins-confirm-delete-dialog-title2 = Czy usunąć to hasło?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Tego działania nie można cofnąć.
 # Message for modal to confirm the deletion of one saved password when per-device sync is enabled

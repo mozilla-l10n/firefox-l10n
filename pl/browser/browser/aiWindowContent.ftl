@@ -95,7 +95,7 @@ smart-window-closed-tabs-label =
     }
 smart-window-closed-tabs-summary =
     { $count ->
-        [one] Gotowe! Zamknięto kartę.
+        [1] Gotowe! Zamknięto kartę.
        *[other] Gotowe! Zamknięto karty.
     }
 smart-window-closed-tabs-row-label = Zamknięte karty
@@ -108,7 +108,7 @@ smart-window-restored-row-label =
     }
 smart-window-restore-success-summary =
     { $count ->
-        [one] Zamknięto kartę, a następnie ją przywrócono.
+        [1] Zamknięto kartę, a następnie ją przywrócono.
        *[other] Zamknięto karty, a następnie je przywrócono.
     }
 smart-window-cancelled-label = Polecenie zostało anulowane.
