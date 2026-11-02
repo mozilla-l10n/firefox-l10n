@@ -5,8 +5,17 @@
 
 ## Added shortcuts:
 
+customkeys-title = Tastatūras īsceļi
 customkeys-search = Meklēt:
-customkeys-reset-all-confirm = Vai  tiešām atiestatīt visus īsinājumtaustiņus uz noklusējumu?
+customkeys-change = Mainīt
+customkeys-reset = Atiestatīt
+customkeys-clear = Notīrīt
+customkeys-new-key = Nospiediet jauno taustiņu:
+customkeys-reset-all = Atiestatīt visus īsceļus uz noklusējuma vērtībām
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Šī atslēga jau ir piešķirta { $conflict }. Vai vēlaties to aizstāt?
+customkeys-reset-all-confirm = Vai tiešām atiestatīt visus īsinājumtaustiņus uz noklusējumu?
 customkeys-file-copy-tab-url = Ievietot starpliktuvē cilnes URL
 customkeys-view-add-split-view = Pievienot sadalīto skatu
 customkeys-dev-accessibility = Piekļūstamība
