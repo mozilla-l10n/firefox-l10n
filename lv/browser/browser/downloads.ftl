@@ -36,15 +36,18 @@ downloads-cmd-show-menuitem-2 =
         }
     .accesskey = R
 # Displayed when a complete download which is not at the original folder.
-downloads-file-moved-or-missing = Datne nav atrodama
+downloads-file-moved-or-missing = Datne pārvietota vai nav atrodama
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Datne izdzēsta
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Datne atmesta (Liegta)
 # Variables:
 #   $size (String) - The size number, for example "1.5".
 #   $unit (String) - The measurement unit, for example "MB".
 downloads-size-with-units = { $size } { $unit }
-downloads-size-unknown = Nezināms izmērs
+downloads-size-unknown = Nezināms lielums
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -265,15 +268,27 @@ downloads-state-completed = Pabeigta
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
 # with the display of this feature in Windows.
-downloads-state-blocked-parental-controls = Bloķējis vecāku kontroles rīks
+downloads-state-blocked-parental-controls = Liedza bērnu pārraudzības rīks
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
-downloads-blocked-malware = Šajāfairā ir vīruss vai kaitnieciska programma.
-downloads-blocked-potentially-unwanted = Šī datne var kaitēt jūsu datoram.
-downloads-blocked-potentially-insecure = Datne nav lejupielādēta: iespējams drošības risks.
+downloads-blocked-malware = Šī datne satur vīrusu vai ļaunatūru.
+downloads-blocked-potentially-unwanted = Šī datne var kaitēt datoram.
+downloads-blocked-potentially-insecure = Datne nav lejupielādēta: iespējams drošības apdraudējums.
 downloads-blocked-uncommon = Šī datne parasti netiek lejupielādēta.
+downloads-blocked-by-content-analysis = Apvienība liedza šo datni.
+downloads-warned-by-content-analysis = Šī lejupielāde var būt nedroša, un tai ir nepieciešams apstiprinājums.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Datne tika liegta, jo { $agent } nav sasniedzams.
+downloads-content-analysis-invalid-agent-signature-error = Datne tika liegta, jo { $agent } neizdevās veikta paraksta apliecināšanu.
+downloads-content-analysis-unspecified-error = Datne tika liegta kļūdas dēļ saziņā ar { $agent }.
+downloads-content-analysis-timeout-error = { $agent } iestājās noilgums, tādēļ šī datne tika liegta.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -281,10 +296,11 @@ downloads-blocked-uncommon = Šī datne parasti netiek lejupielādēta.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
-downloads-unblock-header-unblock = Vai tiešām vēlaties atļaut šo lejupielādi?
-downloads-unblock-header-open = Vai tiešām vēlaties atvērt šo datni?
-downloads-unblock-type-malware = Šajā datnē ir vīruss vai kāda cita kaitnieciska programma, kas kaitēs jūsu datoram.
-downloads-unblock-type-potentially-unwanted = Datne izliekas par noderīgu lejupielādi, bet tā var veikt negaidītas izmaiņas iestatījumos un programmās.
+downloads-unblock-header-unblock = Vai tiešām atļaut šo lejupielādi?
+downloads-unblock-header-open = Vai tiešām atvērt šo datni?
+downloads-unblock-type-malware = Šajā datnē ir vīruss vai kāda cita ļaunatūra, kas kaitēs datoram.
+downloads-unblock-type-potentially-unwanted = Datne tiek pasniegta kā noderīga lejupielāde, bet tā var veikt negaidītas izmaiņas programmās un iestatījumos.
+downloads-unblock-type-content-analysis-warn = Apvienība izmanto datu zaudēšanas novēršanas programmatūru, kas ir atzīmējusi šo saturu kā nedrošu.
 downloads-unblock-type-uncommon = Parasti šādas datnes nelejupielādē un to atvērt var nebūt droši. Tajā var būt vīrusi vai negaidītas jūsu sistēmas un programmu konfigurācijas izmaiņas.
 downloads-unblock-insecure = Lejupielāde tiek piedāvāta ar HTTP, lai gan pašreizējais dokuments tika piegādāts ar drošu HTTPS savienojumu. Ja turpināsi, datne lejupielādes laikā var bojāta vai ietekmēta.
 downloads-unblock-tip = Varat mēģināt atrast šo datni citā vietā vai lejupielādēt vēlreiz nedaudz vēlāk.
