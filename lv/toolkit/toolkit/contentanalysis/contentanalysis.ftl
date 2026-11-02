@@ -84,5 +84,21 @@ contentanalysis-error-message-print = Drukāšana liegta.
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
 contentanalysis-timeout-block-error-message-content = Savienojumam ar { $agent } radās taimauts. { $contentName } ir bloķēts.
 contentanalysis-block-dialog-title-upload-file = Jums nav atļauts augšupielādēt šo failu.
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Saskaņā ar jūsu organizācijas datu aizsardzības nostājām jums nav atļauts augšupielādēt datni “{ $filename }”. Lai iegūtu plašāku informāciju, sazinieties ar administratoru.
+contentanalysis-block-dialog-title-download-file = Jums nav atļauts lejupielādēt šo datni.
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Saskaņā ar jūsu organizācijas datu aizsardzības nostājām jums nav atļauts lejupielādēt datni “{ $filename }”. Lai iegūtu plašāku informāciju, sazinieties ar administratoru.
+contentanalysis-block-dialog-title-clipboard = Jums nav atļauts ielīmēt šo saturu.
+contentanalysis-block-dialog-body-clipboard = Saskaņā ar jūsu organizācijas datu aizsardzības nostājām jums nav atļauts ielīmēt šo saturu. Lai iegūtu plašāku informāciju, sazinieties ar administratoru.
 contentanalysis-block-dialog-title-clipboard-copy = Nav atļauts kopēt šo saturu
 contentanalysis-block-dialog-body-clipboard-copy = Atbilstoši apvienības datu aizsardzības pamatnostādnēm nav atļauts kopēt šo saturu. Jāsazinās ar pārvaldītāju, lai iegūtu vairāk informācijas.
+contentanalysis-block-dialog-title-dropped-text = Jums nav atļauts izmest šo saturu.
+contentanalysis-block-dialog-body-dropped-text = Saskaņā ar jūsu organizācijas datu aizsardzības nostājām jums nav atļauts vilkt un nomest šo saturu. Lai iegūtu plašāku informāciju, sazinieties ar administratoru.
+contentanalysis-block-dialog-title-print = Jums nav atļauts izdrukāt šo dokumentu.
+contentanalysis-block-dialog-body-print = Saskaņā ar jūsu organizācijas datu aizsardzības nostājām jums nav atļauts izdrukāt šo dokumentu. Lai iegūtu plašāku informāciju, sazinieties ar administratoru.
+contentanalysis-inprogress-quit-title = Vai iziet no { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Notiek vairākas darbības. Ja aizvērsiet { -brand-shorter-name }, šīs darbības netiks pabeigtas.
+contentanalysis-inprogress-quit-yesbutton = Jā, pamest
