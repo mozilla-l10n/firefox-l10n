@@ -98,7 +98,7 @@ webext-perms-description-data-some-optional = Udvikleren meddeler, at udvidelsen
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } kræver nye indstillinger for at kunne blive opdateret
-webext-perms-update-list-intro-with-data-collection = Annuller for at beholde den nuværende version og dine nuværende indstiilinger, eller opdater for at få den nye version og godkende ændringerne.
+webext-perms-update-list-intro-with-data-collection = Annuller for at beholde den nuværende version og dine nuværende indstillinger, eller opdater for at få den nye version og godkende ændringerne.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } anmoder om yderligere indstillinger
