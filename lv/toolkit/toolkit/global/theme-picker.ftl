@@ -12,7 +12,7 @@ theme-picker-mode =
     .aria-label = Izskats
 # Accessible name for the list of themes.
 theme-picker-themes =
-    .aria-label = Motīvi
+    .aria-label = Krāsu paletes
 theme-picker-use-linux-theme =
     .label = Izmantot Linux sistēmas motīvu
 

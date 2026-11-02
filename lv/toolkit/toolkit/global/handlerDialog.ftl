@@ -10,7 +10,7 @@
 ##  $appName (string) - Name of the application that will be opened.
 ##  $extension (string) - Name of extension that initiated the request
 
-permission-dialog-description = Vai atļaut šai vietnei atvērt saiti { $scheme }?
+permission-dialog-description = Atļaut šai vietnei atvērt { $scheme } saiti?
 permission-dialog-description-file = Vai atļaut šim failam atvērt saiti { $scheme }?
 permission-dialog-description-host = Vai atļaut { $host } atvērt saiti { $scheme }?
 permission-dialog-description-extension = Vai atļaut paplašinājumam { $extension } atvērt saiti { $scheme }?
@@ -18,19 +18,19 @@ permission-dialog-description-app = Vai atļaut šai vietnei atvērt saiti { $sc
 permission-dialog-description-host-app = Vai atļaut { $host } atvērt saiti { $scheme } ar { $appName }?
 permission-dialog-description-file-app = Vai atļaut šim failam atvērt saiti { $scheme } ar { $appName }?
 permission-dialog-description-extension-app = Vai atļaut paplašinājumam { $extension } atvērt saiti { $scheme } ar { $appName }?
-permission-dialog-description-system-app = Vai atvērt saiti { $scheme } ar { $appName }?
-permission-dialog-description-system-noapp = Atvērt saiti { $scheme }?
+permission-dialog-description-system-app = Atvērt { $scheme } saiti ar { $appName }?
+permission-dialog-description-system-noapp = Atvērt { $scheme } saiti?
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Vai atļaut šai vietnei atvērt jūsu digitālo maku?
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host-app = Atverot <strong>{ $scheme }</strong> saite ļauj <strong>{ $host }</strong> pieprasīt jūsu indentitāti ar  <strong>{ $appName }</strong>. Turpiniet tikai tad, ja uzticaties šai vietnei.
+wallet-custom-scheme-warning-host-app = <strong>{ $scheme }</strong> saites atvēršana ļauj <strong>{ $host }</strong> pieprasīt īsto indentitāti ar <strong>{ $appName }</strong>. Turpināt tikai tad, ja uzticies šai vietnei.
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-app = Atverot <strong>{ $scheme }</strong> saite ļauj vietnei pieprasīt jūsu identitāti  ar <strong>{ $appName }</strong>. Turpiniet tikai tad, ja uzticaties šai vietnei.
+wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong> saites atvēršana ļauj vietnei pieprasīt Tavu īsto identitāti  ar <strong>{ $appName }</strong>. Turpināt tikai tad, ja uzticies šai vietnei.
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host = Atverot <strong>{ $scheme }</strong> saite atļauj <strong>{ $host }</strong> pieprasīt jūsu īsto identitāti no jūsu digitālā maka. Turpiniet tikai tad, ja uzticaties šai vietnei.
+wallet-custom-scheme-warning-host = <strong>{ $scheme }</strong> saites atvēršana atļauj <strong>{ $host }</strong> pieprasīt īsto identitāti no Tava ciparu maka. Turpināt tikai tad, ja uzticies šai vietnei.
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning = Atverot <strong>{ $scheme }</strong> saite ļauj šai vietnei pieprasīt jūsu īsto identitāti no jūsu digitālā maka. Turpiniet tikai tad, ja uzticaties šai vietnei.
+wallet-custom-scheme-warning = <strong>{ $scheme }</strong> saites atvēršana ļauj šai vietnei pieprasīt īsto identitāti no Tava ciparu maka. Turpināt tikai tad, ja uzticies šai vietnei.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -40,8 +40,8 @@ wallet-custom-scheme-warning = Atverot <strong>{ $scheme }</strong> saite ļauj 
 ##  $scheme (string) - The type of link that's being opened.
 
 permission-dialog-remember = Vienmēr atļaut <strong>{ $host } </strong> atvērt <strong>{ $scheme } </strong> saites
-permission-dialog-remember-file = Vienmēr atļaut šai datnei atvērt <strong>{ $scheme } </strong> saites
-permission-dialog-remember-extension = Vienmēr atļaut šim paplašinājumam atvērt <strong>{ $scheme } </strong> saites
+permission-dialog-remember-file = Vienmēr atļaut šai datnei atvērt <strong>{ $scheme }</strong> saites
+permission-dialog-remember-extension = Vienmēr atļaut šim paplašinājumam atvērt <strong>{ $scheme }</strong> saites
 
 ##
 

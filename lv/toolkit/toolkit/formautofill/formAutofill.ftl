@@ -43,7 +43,7 @@ credit-card-capture-cancel-button =
     .label = Ne tagad
     .accessKey = N
 credit-card-capture-never-save-payment-methods-button =
-    .label = Nekad nesaglabāt maksājuma metodes
+    .label = Nekad nesaglabāt maksājumu veidus
     .accessKey = N
 credit-card-capture-never-save-button =
     .label = Nekad nesaglabāt kartes
@@ -124,8 +124,8 @@ credit-card-save-payment-method-doorhanger-header = Vai saglabāt šo maksājuma
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = { -brand-short-name } šifrē un automātiski aizpilda jūsu maksājuma informāciju, lai nodrošinātu ātrāku norēķināšanos.
 credit-card-capture-dismiss-button =
-    .label = NoraiDīt
-    .accessKey = D
+    .label = Noraidīt
+    .accessKey = N
 
 ## The toggle turns saving security codes on and off. Its label describes the
 ## current state: whether security codes are saved or not.
