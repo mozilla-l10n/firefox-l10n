@@ -1862,6 +1862,8 @@ permissions-data-section =
     .heading = Tastimmingen en gegevens
 pane-permissions-data-title2 = Tastimmingen en gegevens
     .title = Tastimmingen en gegevens
+notifications-section-header =
+    .heading = Notifikaasjes
 notifications-filter =
     .placeholder = Websites trochsykje
 # Heading of the website column in the list of websites and their notification
