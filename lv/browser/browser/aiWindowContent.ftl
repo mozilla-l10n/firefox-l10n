@@ -81,6 +81,8 @@ smartwindow-nl-retry-group-tabs-message = Ja joprojām vēlaties grupēt cilnes,
 smartwindow-nl-thinking = Meklējam atbilstošas cilnes…
 smartwindow-loading-assistant-response =
     .aria-label = Notiek palīga atbildes ielāde
+smartwindow-nl-undo-button =
+    .label = Atsaukt
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
@@ -99,7 +101,28 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = Aizvērtās cilnes
 smart-window-closed-and-restored-label = Aizvērtās un atjaunotās cilnes
+smart-window-restored-row-label =
+    { $count ->
+        [one] Atjaunota cilne { $count }
+        [zero] Atjaunotas { $count } cilnes
+       *[other] Atjaunotas { $count } cilnes
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Cilne aizvērta, pēc tam atjaunota.
+        [zero] Cilnes aizvērtas, pēc tam atjaunotas.
+       *[other] Cilnes aizvērtas, pēc tam atjaunotas.
+    }
 smart-window-cancelled-label = Pieprasījums atcelts.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Grupa
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Grupas { $count } cilne
+        [zero] Grupēt { $count } cilnes
+       *[other] Grupēt { $count } cilnes
+    }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Atvērt
 # Button label - "Open" is a verb (action to open, then group, tabs)
@@ -109,15 +132,82 @@ smart-window-confirm-open-tabs =
         [one] Atvērt { $count } cilni
        *[other] Atvērt { $count } cilnes
     }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Grupēta { $count } cilne
+        [zero] Grupētas { $count } cilnes
+       *[other] Grupētas { $count } cilnes
+    }
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = Ciļņu kopa
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Izveidota grupa “{ $label }” un pievienota cilne { $count }.
+        [zero] Izveidota grupa “{ $label }” un pievienotas { $count } cilnes.
+       *[other] Izveidota grupa “{ $label }” un pievienotas { $count } cilnes.
+    }
 smart-window-grouped-tabs-row-label = Apkopotās cilnes
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Atvērta cilne { $count }
+        [zero] Atvērtas { $count } cilnes
+       *[other] Atvērtas { $count } cilnes
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Atvērta cilne { $count }.
+        [zero] Atvērtas { $count } cilnes.
+       *[other] Atvērtas { $count } cilnes.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [zero] Izveidoja grupu “{ $label }” un atvēra { $count } cilnes.
+        [one] Izveidoja grupu “{ $label }” un atvēra { $count } cilnes.
+       *[other] Izveidoja grupu “{ $label }” un atvēra { $count } cilnes.
+    }
 smart-window-opened-tabs-row-label = Atvērtās cilnes
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Pārslēgtās cilnes
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Pārslēgts uz “{ $title }”.
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Negrupētas cilnes
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } cilne grupēta, pēc tam grupējums atcelts.
+        [zero] { $count } cilnes grupētas un pēc tam grupējums atcelts.
+       *[other] { $count } cilnes grupētas un pēc tam grupējums atcelts.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Negrupēta { $count } cilne
+        [zero] Negrupētas { $count } cilnes
+       *[other] Negrupētas { $count } cilnes
+    }
 
 ## Action log
 
 action-log-searching-tabs = Meklē cilnes
+action-log-searched-open-tabs = Meklēja atvērtās cilnes
+action-log-searching-history = Meklēšanas vēsture
 action-log-searched-history = Meklēšanas vēsture
 action-log-reading-page = Lasīšanas lapa
 # Read is past tense, to indicate that the action has been completed.

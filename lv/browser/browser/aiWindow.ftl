@@ -5,6 +5,18 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Atvērt saiti jaunā { -smart-window-brand-name } logā (S)
+    .accesskey = S
+appmenuitem-new-ai-window =
+    .label = Jauns { -smart-window-brand-name }
+    .value = Jauns { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Jauns klasiskais logs
+menu-file-new-ai-window =
+    .label = Jauns { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Jauns klasiskais logs
 menu-history-chats =
     .label = Tērzēšanas
 menu-history-chats-recent =
@@ -14,6 +26,24 @@ smartwindow-document-title = Jauna cilne
 
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-classic =
+    .label = Klasiskais logs
+    .value = Klasiskais logs
+ai-window-toggleview-switch-classic-description =
+    .label = Standarta pārlūkošana
+    .value = Standarta pārlūkošana
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Jautāt pārlūkošanas laikā
+    .value = Jautāt pārlūkošanas laikā
+ai-window-toggleview-switch-private =
+    .label = Privāts logs
+ai-window-toggleview-open-private =
+    .label = Atvērt jaunu privātu logu
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Klasiskais logs
 toolbar-switcher-customizable-label-v2 =
     .label = { -smart-window-brand-name } pārslēdzējs
     .tooltiptext = Pārslēdzies starp viedajiem un parastajiem logiem
