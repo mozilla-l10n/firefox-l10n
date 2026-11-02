@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importuj z innej przeg
 about-logins-menu-menuitem-import-from-a-file = Importuj z pliku…
 about-logins-menu-menuitem-export-logins2 = Eksportuj hasła…
 about-logins-menu-menuitem-remove-all-logins2 = Usuń wszystkie hasła…
+about-logins-menu-menuitem-delete-all-logins = Usuń wszystkie hasła…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcje
@@ -91,6 +92,7 @@ about-logins-intro-import3 = Kliknij przycisk ze znakiem plusa powyżej, aby dod
 about-logins-login-item-new-login-title = Dodaj hasło
 login-item-edit-button = Edytuj
 about-logins-login-item-remove-button = Usuń
+about-logins-login-item-delete-button = Usuń
 login-item-origin-label = Adres witryny
 about-logins-origin-tooltip2 = Wpisz pełny adres i upewnij się, że dokładnie pasuje do strony, na której się logujesz.
 # Variables
@@ -176,9 +178,15 @@ confirmation-dialog-dismiss-button =
     .title = Anuluj
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Czy usunąć to hasło?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Czy usunąć hasło?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Tego działania nie można cofnąć.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Spowoduje to usunięcie hasła z { -brand-short-name(case: "gen") } na wszystkich urządzeniach synchronizujących Twoje hasła. Tego nie można cofnąć.
 about-logins-confirm-remove-dialog-confirm-button = Usuń
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Usuń
 
 ## Variables
 ##   $count (number) - Number of items
@@ -188,8 +196,20 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Usuń
        *[other] Usuń wszystkie
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Usuń
+       *[other] Usuń wszystkie
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Tak, usuń hasło
+       *[other] Tak, usuń hasła
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
     { $count ->
         [1] Tak, usuń hasło
        *[other] Tak, usuń hasła
@@ -214,11 +234,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [few] Czy usunąć { $count } hasła ze wszystkich urządzeń?
        *[many] Czy usunąć { $count } haseł ze wszystkich urządzeń?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Czy usunąć { $count } hasło?
+        [few] Czy usunąć { $count } hasła?
+       *[many] Czy usunąć { $count } haseł?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Spowoduje to usunięcie hasła zachowanego w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
        *[other] Spowoduje to usunięcie wszystkich haseł zachowanych w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Spowoduje to usunięcie hasła z { -brand-short-name(case: "gen") } na wszystkich urządzeniach synchronizujących Twoje hasła. Tego nie można cofnąć.
+       *[other] Spowoduje to usunięcie haseł z { -brand-short-name(case: "gen") } na wszystkich urządzeniach synchronizujących Twoje hasła. Tego nie można cofnąć.
     }
 
 ##

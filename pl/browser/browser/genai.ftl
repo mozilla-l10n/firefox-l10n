@@ -97,6 +97,8 @@ genai-more-actions-all-off-notice = To menu nie będzie wyświetlane po zaznacze
 genai-more-actions-manage-settings =
     .label = Ustawienia
 genai-selection-callout-title = Zaznacz tekst, aby wybrać działanie
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Po zaznaczeniu tekstu można go wyszukać lub skopiować. W menu <span data-l10n-name="more-actions">•••</span> wybierz, które działania mają być wyświetlane.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Zapytaj { $provider }
