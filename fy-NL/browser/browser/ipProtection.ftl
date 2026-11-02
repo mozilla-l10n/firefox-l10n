@@ -465,5 +465,7 @@ vpn-error-page-keep-browsing = Yn dizze sesje fierder navigearje
 vpn-error-page-new-session = In nije sesje starte
 vpn-paused-alert-close-tabs-button = Alle ljepblêden slute
 vpn-paused-alert-continue-wo-vpn-button = Trochgean sûnder VPN
+vpn-error-alert-title-1 = VPN en regels wurkje op dit stuit net.
+vpn-error-alert-body-1 = VPN yn- en útskeakelje kin it probleem ferhelpe.
 vpn-error-alert-title = VPN wurket op dit stuit net.
 vpn-error-alert-body = Probearje it letter opnij.

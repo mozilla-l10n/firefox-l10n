@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Jo sjogge dit menu as jo tekst selektearje. Besykje Ynstellingen <span data-l10n-name="chevron"></span> en blêdzje om de side opnij te toanen.
 genai-more-actions-manage-settings =
     .label = Ynstellingen beheare
+genai-selection-callout-title = Selektearje tekst om in aksje te kiezen
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Sykje of kopiearje as jo tekst selektearje. Kies hokker aksjes ferskine mei it menu <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } freegje

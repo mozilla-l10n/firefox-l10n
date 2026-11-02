@@ -583,6 +583,9 @@ newtab-travel-widget-open-menu-button =
     .title = Menu Reizgjen iepenje
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Mear ynfo
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Mooglik makke troch Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -814,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Jo binne folslein by!
 newtab-discovery-empty-section-topstories-content = Kom letter werom foar mear ferhalen.
 newtab-discovery-empty-section-topstories-try-again-button = Opnij probearje
 newtab-discovery-empty-section-topstories-loading = Lade…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Ferhalen binne op dit stuit net beskikber
+newtab-discovery-empty-section-topstories-unavailable-body = Kontrolearje jo ferbining of probearje it letter opnij.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksje hast laden, mar dochs net hielendal.
 
@@ -1111,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = In foksegesicht oan de linkerrâne, op in d
 newtab-wallpaper-firefox-peak-light = In foksegesicht oan de linkerrâne, op in ljochte eftergrûn
 newtab-wallpaper-firefox-sky-dark = Donkerpearse heuvels ûnder in nachtlike himel
 newtab-wallpaper-firefox-sky-light = Ljochte heuvels ûnder in sêfte loft
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = It Wrexham AFC-embleem op in reade eftergrûn
 
 ## Firefox
 
@@ -1550,6 +1559,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Krúswurdpuzelmenu iepenje
     .title = Krúswurdpuzelmenu iepenje
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Mooglik makke troch Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

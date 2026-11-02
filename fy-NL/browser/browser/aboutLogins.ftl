@@ -248,6 +248,13 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [one] Dit smyt it wachtwurd dat yn { -brand-short-name } bewarre is fan al jo syngronisearre apparaten fuort. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
        *[other] Dit smyt alle wachtwurden dy’t yn { -brand-short-name } bewarre binne fan al jo syngronisearre apparaten fuort. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
     }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Dit smyt it fan { -brand-short-name } op elk apparaat dat jo wachtwurden syngronisearret. Jo kinne dit net ûngedien meitsje.
+        [one] Dit smyt it fan { -brand-short-name } op elk apparaat dat jo wachtwurden syngronisearret. Jo kinne dit net ûngedien meitsje.
+       *[other] Dit smyt se fan { -brand-short-name } op elk apparaat dat jo wachtwurden syngronisearret. Jo kinne dit net ûngedien meitsje.
+    }
 
 ##
 
