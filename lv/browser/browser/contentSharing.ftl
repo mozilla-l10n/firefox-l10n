@@ -45,3 +45,17 @@ content-sharing-modal-too-many-links-2 =
 content-sharing-modal-no-shareable-links =
     .heading = Nav iekļautas kopīgojamas saites
     .message = Var koplietot tikai saites uz tīmekļa saturu.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Jūs esat kopīgojis { $count } lapu
+            [zero] Jūs esat kopīgojis { $count } lapas
+           *[other] Jūs esat kopīgojis { $count } lapas
+        }
+    .message = Mēģiniet vēlreiz, kad beigsies vienas lapas derīguma termiņš.
+content-sharing-modal-some-invalid-links = Dažas saites nevar kopīgot.
+content-sharing-modal-generic-error-2 =
+    .heading = Kaut kas nogāja greizi
+    .message = Šoreiz neizdevās izveidot jūsu koplietoto lapu. Mēģiniet vēlreiz vēlāk.
