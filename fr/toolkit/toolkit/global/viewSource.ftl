@@ -8,7 +8,7 @@
 view-source-go-to-line-title = Aller à la ligne
 view-source-go-to-line-text = Saisissez le numéro de ligne
 view-source-invalid-input-title = Saisie invalide
-view-source-invalid-input-text = Le nombre spécifié est invalide
+view-source-invalid-input-text = Le numéro de ligne spécifié est invalide.
 view-source-out-of-range-title = Ligne non trouvée
 view-source-out-of-range-text = La ligne spécifiée n’a pas été trouvée.
 

@@ -88,7 +88,7 @@ home-prefs-privacy-header =
     .label = Vie privée
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
-    .label = Mots fléchés
+    .label = Mots croisés
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Finance
@@ -900,7 +900,7 @@ newtab-custom-widget-privacy-toggle =
     .label = Vie privée
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
-    .label = Mots fléchés
+    .label = Mots croisés
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Finance

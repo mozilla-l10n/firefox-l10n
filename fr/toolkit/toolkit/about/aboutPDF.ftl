@@ -28,11 +28,11 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = Outils PDF de { -brand-short-name }
-about-pdf-features-intro = Lisez, annotez et signez des fichiers PDF où que vous soyez. C’est simple, gratuit et privé.
+about-pdf-features-intro = Lisez, annotez et signez des fichiers PDF directement dans votre navigateur. C’est simple, gratuit et privé.
 about-pdf-features-back =
     .label = Retour
 about-pdf-feature-organize-heading = Organisez les pages
-about-pdf-feature-organize-description = Réorganisez, supprimez, fusionnez et exporter des pages.
+about-pdf-feature-organize-description = Réorganisez, supprimez, fusionnez et exportez des pages.
 about-pdf-feature-signatures-heading = Enregistrez des signatures
 about-pdf-feature-signatures-description = Créez plusieurs signatures et ajoutez-les aux formulaires.
 about-pdf-feature-comments-heading = Ajoutez des notes
