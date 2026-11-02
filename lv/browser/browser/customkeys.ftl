@@ -16,7 +16,11 @@ customkeys-reset-all = Atiestatīt visus īsceļus uz noklusējuma vērtībām
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Šī atslēga jau ir piešķirta { $conflict }. Vai vēlaties to aizstāt?
 customkeys-reset-all-confirm = Vai tiešām atiestatīt visus īsinājumtaustiņus uz noklusējumu?
+customkeys-file-duplicate-tab = Pavairot cilni
 customkeys-file-copy-tab-url = Ievietot starpliktuvē cilnes URL
+customkeys-history-reopen-tab = Atkārtoti atvērt pēdējo aizvērto cilni
+customkeys-history-reopen-window = Atkārtoti atvērt pēdējo aizvērto logu
+customkeys-sidebar-toggle = Pārslēgt sānjoslu
 customkeys-view-add-split-view = Pievienot sadalīto skatu
 customkeys-dev-accessibility = Piekļūstamība
 customkeys-shortcut-unassigned =
