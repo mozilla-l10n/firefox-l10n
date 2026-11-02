@@ -59,6 +59,12 @@ genai-menu-remove-provider =
     .label = Ukloni { $provider }
 genai-menu-remove-sidebar =
     .label = Ukloni iz bočne trake
+genai-more-actions-ai-generic =
+    .label = Pitaj umjetnu inteligenciju
+genai-more-actions-search =
+    .label = Traži
+genai-more-actions-copy =
+    .label = Kopiraj
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pitaj { $provider }

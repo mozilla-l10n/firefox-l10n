@@ -335,7 +335,21 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Sūtīt uz ierīci
     .accesskey = n
+main-context-menu-send-to-mobile-2 =
+    .label = Sūtīt uz mobilo tālruni
+    .accesskey = n
+main-context-menu-send-to-mobile-sign-in = Pierakstieties, lai nosūtītu cilnes
 main-context-menu-send-to-mobile-enable-sync2 = Jāiespējo vienādošana, lai nosūtītu cilni
+main-context-menu-send-to-mobile-connect-phone2 = Pievienojiet savu tālruni
+main-context-menu-send-to-mobile-device-missing2 = Neredzat savu ierīci?
+main-context-menu-send-to-mobile-sign-in-from-link = Pierakstieties, lai nosūtītu saiti
+main-context-menu-send-to-mobile-sign-in-from-page = Pierakstieties, lai nosūtītu lapu
+main-context-menu-send-to-mobile-enable-sync3 = Ieslēdziet sinhronizāciju, lai nosūtītu cilnes
+main-context-menu-send-to-mobile-enable-sync-from-link = Ieslēdziet sinhronizāciju, lai nosūtītu saiti
+main-context-menu-send-to-mobile-enable-sync-from-page = Ieslēdziet sinhronizāciju, lai nosūtītu lapu
+main-context-menu-send-to-mobile-connect-phone3 = Pievienojiet ierīci, lai nosūtītu cilnes
+main-context-menu-send-to-mobile-connect-phone-from-link = Pievienojiet ierīci, lai nosūtītu saiti
+main-context-menu-send-to-mobile-connect-phone-from-page = Pievienojiet ierīci, lai nosūtītu lapu
 
 ##
 
@@ -362,6 +376,9 @@ main-context-menu-turn-on-actions-menu =
 main-context-menu-link-send-to-device =
     .label = Sūtīt saiti uz ierīci
     .accesskey = I
+main-context-menu-link-send-to-mobile =
+    .label = Nosūtīt saiti uz mobilo tālruni
+    .accesskey = n
 main-context-menu-frame =
     .label = Šis ietvars
     .accesskey = a

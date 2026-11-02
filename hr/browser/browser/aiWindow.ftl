@@ -48,6 +48,7 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder-hint-2 = Pitaj bilo što…
 smartbar-placeholder-hint-3 = Unesi web adresu…
+smartbar-placeholder-hint-4 = Pretraži web…
 
 ## Website Chip
 
@@ -56,9 +57,21 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-model-fast-label = Brzo
+aiwindow-firstrun-model-fast-body = Odgovara brzo
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Brzo: { $shortName }
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = Model { $model } tvrtke { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibilno
+aiwindow-firstrun-model-allpurpose-body = Dobar odabir za većinu potreba
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Fleksibilno: { $shortName }
+aiwindow-firstrun-model-flexible-body = Spreman za razne zadatke
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Preporučeno
 aiwindow-firstrun-model-personal-label = Osobno
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Osobno: { $shortName }
@@ -186,6 +199,12 @@ firefoxview-chats-empty-header = Vrati se na svoje razgovore
 
 ## Natural Language Interactions
 
+smart-window-confirm-select-all =
+    .aria-label = Označi sve
+    .label = Označi sve
+smart-window-confirm-deselect-all =
+    .aria-label = Odznači sve
+    .label = Odznači sve
 smart-window-confirm-close-tab = Zatvori
 # Variables
 #   $count (number) - Number of tabs to close

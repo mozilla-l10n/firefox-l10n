@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = Ukloni popis zadataka
 
 tab-groups-onboarding-feature-callout-title = Isprobaj grupe kartica za manje nereda, bolje fokusiranje
 tab-groups-onboarding-feature-callout-subtitle = Uredi popis kartica povlačenjem jedne kartice na drugu za stvaranje tvoje prve grupe.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Pronađi svoje grupe kartica bilo kada u izborniku „Pretraži i upravljaj karticama”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Grupe kartica možete pronaći u izborniku Popis svih kartica u bilo kojem trenutku.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pronađi svoje grupe pretraživanjem u adresnoj traci.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Kada zatvoriš grupu kartica, možeš ju ponovno otvoriti bilo kada iz izbornika „Pretraži i upravljaj karticama”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Kada zatvoriš grupu kartica, možeš ju ponovo otvoriti iz izbornika „Popis svih kartica” u bilo kojem trenutku.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pronađi svoje zatvorene grupe pretraživanjem u adresnoj traci.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Ponovno otvori svoje grupe kartica bilo kada iz izbornika „Pretraži i upravljaj karticama”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Grupe kartica možete ponovno otvoriti iz izbornika Popis svih kartica u bilo kojem trenutku.
 tab-groups-onboarding-dismiss = U redu
@@ -541,6 +547,11 @@ onboarding-refresh-gratitude-title = { -brand-short-name } ti čuva leđa
 onboarding-refresh-splash-screen-title = { -brand-product-name } ti od sada čuva leđa
 onboarding-refresh-hero-text = Stvoren da te štiti, a ne da prati što radiš.
 onboarding-refresh-tou-default = Otvori sve poveznice u { -brand-short-name(case: "loc") }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Drži { -brand-short-name(case: "acc") } u Docku
+       *[other] Dodaj { -brand-short-name(case: "acc") } na programsku traku
+    }
 
 ## Smart Window ToU modal
 

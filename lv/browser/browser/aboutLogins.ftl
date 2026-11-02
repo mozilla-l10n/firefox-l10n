@@ -214,6 +214,14 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [one] Jā, izņemt paroles
        *[other] Jā, izņemt paroles
     }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Jā, dzēst paroli
+        [zero] Jā, dzēst paroles
+        [one] Jā, dzēst paroli
+       *[other] Jā, dzēst paroles
+    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
@@ -250,6 +258,14 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [zero] Tas jūsu sinhronizētajās ierīcēs izņems visas paroles, kas saglabātas { -brand-short-name }. Tas arī izņems visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
         [one] Tas jūsu sinhronizētajās ierīcēs izņems visas paroles, kas saglabātas { -brand-short-name }. Tas arī izņems visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
        *[other] Tas jūsu sinhronizētajās ierīcēs izņems visas paroles, kas saglabātas { -brand-short-name }. Tas arī izņems visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Tas izdzēsīs to no { -brand-short-name } katrā ierīcē, kas vienādo jūsu paroles. Šo darbību nevar atsaukt.
+        [zero] Tādējādi tās tiek dzēstas no { -brand-short-name } katrā ierīcē, kas vienādo jūsu paroles. Šo darbību nevar atsaukt.
+        [one] Tas izdzēsīs to no { -brand-short-name } katrā ierīcē, kas vienādo jūsu paroles. Šo darbību nevar atsaukt.
+       *[other] Tādējādi tās tiek dzēstas no { -brand-short-name } katrā ierīcē, kas sinhronizē jūsu paroles. Šo darbību nevar atsaukt.
     }
 
 ##

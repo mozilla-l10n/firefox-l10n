@@ -26,6 +26,34 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Upravljaj postavkama skočnih prozora i preusmjeravanja trećih strana …
     .accesskey = U
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } poveznica
+            [few] { $count } poveznice
+           *[other] { $count } poveznica
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Poruke i još toga…
+    .accesskey = j
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Poruke, Pošta i još toga…
+    .accesskey = j
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Dijeli…
+    .accesskey = D
 urlbar-identity-button =
     .aria-label = Prikaži informacije o stranici
 
@@ -387,6 +415,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Prikaži uređivač prilikom spremanja
     .accesskey = s
+bookmark-panel-save-button2 =
+    .label = Spremi
+    .accesskey = S
 bookmark-panel-save-button =
     .label = Spremi
 # Width of the bookmark panel.
@@ -1239,6 +1270,9 @@ tabs-toolbar =
     .aria-label = Kartice preglednika
 tabs-toolbar-new-tab =
     .label = Nova kartica
+tabs-toolbar-list-all-tabs-2 =
+    .label = Pretraži i upravljaj karticama
+    .tooltiptext = Pretraži i upravljaj karticama
 tabs-toolbar-list-all-tabs =
     .label = Popis svih kartica
     .tooltiptext = Popis svih kartica
@@ -1257,6 +1291,15 @@ restore-session-startup-suggestion-button = Pokaži mi kako
 
 filepicker-blocked-infobar = Tvoja je organizacija blokirala pristup lokalnim datotekama na ovom računalu
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-change-shortcuts = Upravljaj prečacima
+urlbar-addons-shortcut-moved-dismiss = Razumijem
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } automatski šalje određene podatke kako bi { -vendor-short-name } poboljšao tvoje iskustvo.
@@ -1268,6 +1311,11 @@ private-browsing-indicator-label = Privatno pregledavanje
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privatno pregledavanje
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informacije o privatnom pregledavanju
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Nalaziš se u privatnom prozoru
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1328,6 +1376,13 @@ reset-pbm-panel-complete = Podaci privatne sesije izbrisani
 reset-pbm-toolbar-button2 =
     .label = Izbriši privatnu sesiju
     .tooltiptext = Izbriši privatnu sesiju
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-confirm-button =
+    .label = Izbriši sve
+    .accesskey = I
 
 ## Autorefresh blocker
 

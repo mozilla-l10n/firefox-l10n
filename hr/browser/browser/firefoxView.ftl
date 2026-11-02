@@ -37,6 +37,8 @@ firefoxview-tabpickup-network-offline-description = Ako koristiš vatrozid ili p
 firefoxview-tabpickup-network-offline-primarybutton = Pokušaj ponovo
 firefoxview-tabpickup-sync-error-header = Imamo problema sa sinkronizacijom
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } trenutačno ne može pristupiti usluzi sinkronizacije. Pokušaj ponovo za par trenutaka.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Sinkronizacija je naišla na problem
 firefoxview-tabpickup-sync-error-primarybutton = Pokušaj ponovo
 firefoxview-tabpickup-sync-disconnected-header = Za nastavljanje uključi sinkronizaciju
 firefoxview-tabpickup-sync-disconnected-description = Za preuzimanje tvojih kartica morat ćeš dozvoliti sinkronizaciju u { -brand-short-name(case: "loc") }.

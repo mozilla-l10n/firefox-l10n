@@ -3,6 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } oznaka
+        [few] { $tags } oznake
+       *[other] { $tags } oznaka
+    }
+
 ## Error messages in the chat content
 
 smartwindow-assistant-error-budget-header = Dostigao/la si današnje ograničenje razgovora.
@@ -70,6 +81,7 @@ smart-window-closed-tabs-label =
        *[other] Zatvoreno je { $count } kartica
     }
 smart-window-closed-tabs-row-label = Zatvorene kartice
+smart-window-cancelled-label = Zahtjev je otkazan.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupiraj
 # Button label - "Group" is a verb (action to group tabs)
@@ -100,6 +112,7 @@ smart-window-grouped-tabs-label =
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = Grupa kartica
+smart-window-grouped-tabs-row-label = Grupirane kartice
 smart-window-opened-tabs-row-label = Otvorene kartice
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Prebačene kartice
