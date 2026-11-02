@@ -7,14 +7,14 @@
 
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-use-payment-method-os-prompt-macos = izmantot saglabāto maksājuma metodes informāciju
-autofill-use-payment-method-os-prompt-windows = { -brand-short-name } mēģina izmantot saglabāto maksājuma metodes informāciju. Apstipriniet piekļuvi šim Windows kontam zemāk.
-autofill-use-payment-method-os-prompt-other = { -brand-short-name } mēģina izmantot saglabāto maksājuma metodes informāciju.
+autofill-use-payment-method-os-prompt-macos = izmantot saglabāto maksājuma veida informāciju
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } mēģina izmantot saglabāto maksājuma veida informāciju. Zemāk apstiprini piekļuvi šim Windows kontam!
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } mēģina izmantot saglabāto maksājuma veida informāciju.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-edit-payment-method-os-prompt-macos = parādīt saglabāto maksājuma metodes informāciju
-autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } mēģina parādīt saglabāto maksājuma metodes informāciju. Apstipriniet piekļuvi šim Windows kontam zemāk.
-autofill-edit-payment-method-os-prompt-other = { -brand-short-name } mēģina parādīt saglabāto maksājuma metodes informāciju.
+autofill-edit-payment-method-os-prompt-macos = parādīt saglabāto maksājuma veida informāciju
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } mēģina parādīt saglabāto maksājuma veida informāciju. Zemāk apstiprini piekļuvi šim Windows kontam!
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } mēģina parādīt saglabāta maksājuma veida informāciju.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-delete-payment-method-os-prompt-macos = Izdzēst saglabāto maksājuma veidu informāciju
@@ -35,7 +35,7 @@ credit-card-save-doorhanger-header = Vai droši saglabāt šo karti?
 credit-card-save-doorhanger-description = { -brand-short-name } šifrē jūsu kartes numuru. Jūsu drošības kods netiks saglabāts.
 credit-card-save-doorhanger-description-security-code = { -brand-short-name } šifrē jūsu kartes numuru un drošības kodu, lai tikai jūs varētu tos izmantot maksājumu veidlapu aizpildīšanai.
 credit-card-doorhanger-save-security-codes-checkbox =
-    .label = Vienmēr saglabājiet drošības kodus maksājuma metodēm.
+    .label = Vienmēr saglabā maksājuma veidu drošības kodus!
 credit-card-capture-save-button =
     .label = Saglabāt
     .accessKey = S
@@ -61,7 +61,7 @@ autofill-clear-form-label = Notīrīt automātiski aizpildīto veidlapu
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Pārvaldīt adreses
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
-autofill-manage-payment-methods-label = Pārvaldīt maksājuma metodes
+autofill-manage-payment-methods-label = Pārvaldīt maksājumu veidus
 # Used as the primary label of an autofill drop down suggestion when the focused
 # field is the card security code. The card's masked number is shown underneath
 # it as the secondary label. "CVC" is a common abbreviation for the code printed

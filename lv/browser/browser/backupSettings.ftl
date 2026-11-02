@@ -42,10 +42,10 @@ settings-data-backup-last-backup-location2 =
 settings-data-backup-last-backup-location-show-in-folder = Rādīt mapē
 settings-data-backup-last-backup-location-edit = Labot…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } bija kļūda dublējuma izveidošanā.
-settings-sensitive-data-encryption-description = Dublējiet savas paroles un maksājuma metodes, kā arī glabājiet visus savus datus drošībā, izmantojot šifrēšanu.
+settings-sensitive-data-encryption-description = Dublē savas paroles un maksājuma veidus, kā arī glabā visus savus datus drošībā ar šifrēšanu!
 settings-data-toggle-encryption-label2 =
-    .description = Dublējiet savas paroles un maksājuma metodes, kā arī glabājiet visus savus datus drošībā, izmantojot šifrēšanu.
-    .label = Dublējiet savus sensitīvos datus
+    .description = Dublē savas paroles un maksājuma veidus, kā arī glabā visus savus datus drošībā ar šifrēšanu.
+    .label = Dublē savus jūtīgos datus
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datnes nosaukums: { $fileName }
@@ -193,7 +193,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Noņemt paroles aizsardzību
-disable-backup-encryption-description2 = Jūsu saglabātās paroles un maksājuma metodes arī vairs netiks iekļautas rezerves kopijā.
+disable-backup-encryption-description2 = Saglabātās paroles un maksājuma veidi arī vairs netiks dublēti.
 disable-backup-encryption-support-link = Kas tiks iekļauts rezerves kopija?
 disable-backup-encryption-cancel-button = Atcelt
 disable-backup-encryption-confirm-button = Noņemt paroli

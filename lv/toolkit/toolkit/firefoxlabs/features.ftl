@@ -14,7 +14,7 @@ experimental-features-js-warp-description = Iespējojiet Warp — projektu, lai 
 # Search during IME
 experimental-features-ime-search =
     .label = Adrešu josla: rādīt rezultātus IME veidošanas laikā
-experimental-features-ime-search-description = IME (ievades metodes redaktors) ir rīks, kas ļauj ievadīt sarežģītus simbolus, piemēram, Austrumāzijas vai indiešu rakstības valodās izmantotos, izmantojot standarta tastatūru. Iespējojot šo eksperimentu, adreses joslas panelis tiks atvērts, rādot meklēšanas rezultātus un ieteikumus, kamēr IME tiks izmantota teksta ievadīšanai. Ņemiet vērā, ka IME var parādīt paneli, kas aizsedz adreses joslas rezultātus, tāpēc šī preference ir ieteicama tikai IME, kas neizmanto šāda veida paneli.
+experimental-features-ime-search-description = IME (ievades veida labotājs) ir rīks, kas ļauj ievadīt sarežģītas rakstzīmes, piemēram, Austrumāzijas vai indiešu rakstības valodās izmantotās ar parasto tastatūru. Šī izmēģinājuma iespējošana turēs adreses joslu atvērtu, rādot meklēšanas iznākumu un ieteikumus, kamēr IME tiks izmantots teksta ievadīšanai. Jāņem vērā, ka IME var parādīt paneli, kas aizsedz adreses joslas iznākumu, tāpēc šī izvēle ir ieteicama tikai IME, kas neizmanto šāda veida paneli.
 experimental-features-group-developer-tools =
     .label = Izstrādātāju rīki
 experimental-features-group-webpage-display =
