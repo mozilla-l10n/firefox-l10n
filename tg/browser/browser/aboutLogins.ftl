@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Аз браузери �
 about-logins-menu-menuitem-import-from-a-file = Аз файл ворид кардан…
 about-logins-menu-menuitem-export-logins2 = Содир кардани ниҳонвожаҳо…
 about-logins-menu-menuitem-remove-all-logins2 = Тоза кардани ҳамаи ниҳонвожаҳо…
+about-logins-menu-menuitem-delete-all-logins = Нест кардани ҳамаи ниҳонвожаҳо…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Имконот
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Барои дарҳол илова кардани �
 about-logins-login-item-new-login-title = Илова кардани ниҳонвожа
 login-item-edit-button = Таҳрир кардан
 about-logins-login-item-remove-button = Тоза кардан
+about-logins-login-item-delete-button = Нест кардан
 login-item-origin-label = Нишонии сомона
 about-logins-origin-tooltip2 = Нишонии пурраро ворид намоед ва мутмаин шавед, ки он ба он ҷойе, ки шумо ворид мешавед, аниқ мувофиқат мекунад.
 # Variables
@@ -174,9 +176,13 @@ confirmation-dialog-dismiss-button =
     .title = Бекор кардан
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Ниҳонвожаро нест мекунед?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Ниҳонвожаро нест мекунед?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Шумо ин амалро бекор карда наметавонед.
 about-logins-confirm-remove-dialog-confirm-button = Тоза кардан
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Нест кардан
 
 ## Variables
 ##   $count (number) - Number of items
@@ -185,6 +191,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Тоза кардан
        *[other] Ҳамаро тоза кардан
+    }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Нест кардан
+       *[other] Ҳамаро нест кардан
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
