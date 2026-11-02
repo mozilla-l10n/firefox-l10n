@@ -687,7 +687,7 @@ topsite-label-pinned =
 
 # Variables:
 #   $site (string) - The label or hostname of the site the notifications are from.
-newtab-topsites-hover-card-header = Meldingen fan { $site }
+newtab-topsites-hover-card-header = Notifikaasjes fan { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Sa krekt
 newtab-topsites-hover-card-mark-all-read =
