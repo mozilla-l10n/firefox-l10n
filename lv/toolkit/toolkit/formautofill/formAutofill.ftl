@@ -7,13 +7,13 @@
 
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-use-payment-method-os-prompt-macos = izmantot saglabāto maksājuma veida informāciju
-autofill-use-payment-method-os-prompt-windows = { -brand-short-name } mēģina izmantot saglabāto maksājuma veida informāciju. Zemāk apstiprini piekļuvi šim Windows kontam!
-autofill-use-payment-method-os-prompt-other = { -brand-short-name } mēģina izmantot saglabāto maksājuma veida informāciju.
+autofill-use-payment-method-os-prompt-macos = izmantot saglabāta maksājuma veida informāciju
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } mēģina izmantot saglabāta maksājuma veida informāciju. Zemāk apstiprini piekļuvi šim Windows kontam!
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } mēģina izmantot saglabāta maksājuma veida informāciju.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-edit-payment-method-os-prompt-macos = parādīt saglabāto maksājuma veida informāciju
-autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } mēģina parādīt saglabāto maksājuma veida informāciju. Zemāk apstiprini piekļuvi šim Windows kontam!
+autofill-edit-payment-method-os-prompt-macos = parādīt saglabāta maksājuma veida informāciju
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } mēģina parādīt saglabāta maksājuma veida informāciju. Zemāk apstiprini piekļuvi šim Windows kontam!
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } mēģina parādīt saglabāta maksājuma veida informāciju.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.

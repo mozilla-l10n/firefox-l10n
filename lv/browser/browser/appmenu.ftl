@@ -369,7 +369,7 @@ appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Datu noplūd
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Saņemt brīdinājumus par datu noplūdēm
 appmenuitem-relay-title = { -relay-brand-short-name }
-appmenuitem-relay-title2 = Saglabājiet savu epastu privātu
+appmenuitem-relay-title2 = Turi savu e-pastu privātu
 appmenuitem-relay-description2 = Palīdz novērst surogātpastu jūsu iesūtnē
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
 appmenuitem-relay-title-signed-in = Apskatīt e-pasta aizsegus

@@ -177,10 +177,10 @@ change-backup-encryption-header = Mainīt rezerves paroli
 
 password-rules-header = Paroles prasības
 password-rules-length-description = Vismaz 8 rakstzīmes
-password-rules-email-description2 = Nav epasta adrese
-password-rules-email-description = Nav jūsu epasta adrese
+password-rules-email-description2 = Nav e-pasta adrese
+password-rules-email-description = Nav Tava e-pasta adrese
 password-rules-disclaimer = Esi drošībā — neizmanto paroles atkāŗtoti! Vairāk padomu <a data-l10n-name="password-support-link">spēcīgu paroļu izveidei</a>.
-password-validity-has-email = Nevar būt epasta adrese
+password-validity-has-email = Nevar būt e-pasta adrese
 password-validity-do-not-match = Paroles nesakrīt
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
