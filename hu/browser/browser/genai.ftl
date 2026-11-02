@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Nem fogja látni ezt a menüt, amikor szöveget jelöl ki. Az újbóli megjelenítéséhez keresse fel a Beállítások <span data-l10n-name="chevron"></span> Lapok és böngészés szakaszát.
 genai-more-actions-manage-settings =
     .label = Beállítások kezelése
+genai-selection-callout-title = Jelöljön ki szöveget egy művelet kiválasztásához
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Keresés vagy másolás, ha szöveget jelöl ki. Válassza ki, hogy mely műveletek jelenjenek meg a <span data-l10n-name="more-actions">•••</span> menüben.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = A(z) { $provider } megkérdezése

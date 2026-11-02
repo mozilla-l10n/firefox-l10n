@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importálás egy másik
 about-logins-menu-menuitem-import-from-a-file = Importálás fájlból…
 about-logins-menu-menuitem-export-logins2 = Jelszavak exportálása…
 about-logins-menu-menuitem-remove-all-logins2 = Összes jelszó eltávolítása…
+about-logins-menu-menuitem-delete-all-logins = Összes jelszó törlése…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Beállítások
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Válassza a plusz jelet a jelszó hozzáadásához 
 about-logins-login-item-new-login-title = Jelszó hozzáadása
 login-item-edit-button = Szerkesztés
 about-logins-login-item-remove-button = Eltávolítás
+about-logins-login-item-delete-button = Törlés
 login-item-origin-label = Honlap címe
 about-logins-origin-tooltip2 = Adja meg a teljes címet, és győződjön meg róla, hogy pontosan megegyezik-e a bejelentkezési hellyel.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Mégse
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Jelszó eltávolítása?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Törli a jelszót?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Ez törli a { -brand-short-name }ból az összes eszközön, amely szinkronizálja a jelszavait. Ez nem vonható vissza.
 about-logins-confirm-remove-dialog-confirm-button = Eltávolítás
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Törlés
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,12 +195,26 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Eltávolítás
        *[other] Összes eltávolítása
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Törlés
+        [one] Összes törlése
+       *[other] Összes törlése
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Igen, a jelszó eltávolítása
         [one] Igen, a jelszó eltávolítása
        *[other] Igen, a jelszavak eltávolítása
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Igen, a jelszó törlése
+        [one] Igen, a jelszó törlése
+       *[other] Igen, a jelszavak törlése
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -213,12 +235,25 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Eltávolít { $count } jelszót az összes eszközről?
        *[other] Eltávolítja mind a(z) { $count } jelszót az összes eszközről?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Töröl { $count } jelszót?
+       *[other] Töröl { $count } jelszót?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Ez eltávolítja a { -brand-short-name }ba mentett jelszavakat az összes szinkronizált eszközéről. Ez eltávolítja az összes, itt megjelenő adatvédelmi incidensről szóló figyelmeztetést is. Ez a művelet nem vonható vissza.
         [one] Ez eltávolítja a { -brand-short-name }ba mentett jelszavakat az összes szinkronizált eszközéről. Ez eltávolítja az összes, itt megjelenő adatvédelmi incidensről szóló figyelmeztetést is. Ez a művelet nem vonható vissza.
        *[other] Ez eltávolítja a { -brand-short-name }ba mentett összes jelszót az összes szinkronizált eszközéről. Ez eltávolítja az összes, itt megjelenő adatvédelmi incidensről szóló figyelmeztetést is. Ez a művelet nem vonható vissza.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Ez törli a { -brand-short-name }ból az összes eszközön, amely szinkronizálja a jelszavait. Ez nem vonható vissza.
+        [one] Ez törli a { -brand-short-name }ból az összes eszközön, amely szinkronizálja a jelszavait. Ez nem vonható vissza.
+       *[other] Ez törli őket a { -brand-short-name }ból az összes eszközön, amely szinkronizálja a jelszavait. Ez nem vonható vissza.
     }
 
 ##

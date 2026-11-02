@@ -465,5 +465,7 @@ vpn-error-page-keep-browsing = Böngészés folytatása ebben a munkamenetben
 vpn-error-page-new-session = Új munkamenet indítása
 vpn-paused-alert-close-tabs-button = Összes lap bezárása
 vpn-paused-alert-continue-wo-vpn-button = Folytatás VPN nélkül
+vpn-error-alert-title-1 = A VPN és a szabályok jelenleg nem működnek.
+vpn-error-alert-body-1 = A VPN ki-, majd bekapcsolása megoldhatja a problémát.
 vpn-error-alert-title = A VPN most nem működik.
 vpn-error-alert-body = Próbálja újra később.

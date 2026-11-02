@@ -583,6 +583,9 @@ newtab-travel-widget-open-menu-button =
     .title = Utazási menü megnyitása
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = További tudnivalók
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = A motorháztető alatt: Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -814,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Felzárkózott.
 newtab-discovery-empty-section-topstories-content = Nézzen vissza később további történetekért.
 newtab-discovery-empty-section-topstories-try-again-button = Újrapróbálkozás
 newtab-discovery-empty-section-topstories-loading = Betöltés…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = A történetek most nem érhetőek el
+newtab-discovery-empty-section-topstories-unavailable-body = Ellenőrizze az internetkapcsolatát, vagy próbálkozzon újra később.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hoppá! Majdnem betöltöttük ezt a részt, de nem egészen.
 
@@ -1111,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = Egy róka arca a bal szélen, a sötét há
 newtab-wallpaper-firefox-peak-light = Egy róka arca a bal szélen, világos háttéren
 newtab-wallpaper-firefox-sky-dark = Sötétlila dombok az éjszakai égbolt alatt
 newtab-wallpaper-firefox-sky-light = Világos dombok a lágy égbolt alatt
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = A Wrexham AFC címere piros háttéren
 
 ## Firefox
 
@@ -1550,6 +1559,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Keresztrejtvény menü megnyitása
     .title = Keresztrejtvény menü megnyitása
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = A motorháztető alatt: Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
