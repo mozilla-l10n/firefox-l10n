@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importeren vanuit een a
 about-logins-menu-menuitem-import-from-a-file = Uit een bestand importeren…
 about-logins-menu-menuitem-export-logins2 = Wachtwoorden exporteren…
 about-logins-menu-menuitem-remove-all-logins2 = Alle wachtwoorden verwijderen…
+about-logins-menu-menuitem-delete-all-logins = Alle wachtwoorden verwijderen…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opties
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Selecteer de knop met het plusteken hierboven om di
 about-logins-login-item-new-login-title = Wachtwoord toevoegen
 login-item-edit-button = Bewerken
 about-logins-login-item-remove-button = Verwijderen
+about-logins-login-item-delete-button = Verwijderen
 login-item-origin-label = Websiteadres
 about-logins-origin-tooltip2 = Voer het volledige adres in en zorg ervoor dat het exact overeenkomt met waar u zich aanmeldt.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Annuleren
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Wachtwoord verwijderen?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Wachtwoord verwijderen?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = U kunt deze actie niet ongedaan maken.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Dit verwijdert het uit { -brand-short-name } op elk apparaat dat uw wachtwoorden synchroniseert. U kunt dit niet ongedaan maken.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Verwijderen
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,8 +195,22 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Verwijderen
        *[other] Alle verwijderen
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Verwijderen
+        [one] Alles verwijderen
+       *[other] Alles verwijderen
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, wachtwoord verwijderen
+        [one] Ja, wachtwoord verwijderen
+       *[other] Ja, wachtwoorden verwijderen
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, wachtwoord verwijderen
         [one] Ja, wachtwoord verwijderen
@@ -213,12 +235,25 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] { $count } wachtwoord van alle apparaten verwijderen?
        *[other] Alle { $count } wachtwoorden van alle apparaten verwijderen?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } wachtwoord verwijderen?
+       *[other] { $count } wachtwoorden verwijderen?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Dit verwijdert het wachtwoord dat in { -brand-short-name } is opgeslagen van al uw gesynchroniseerde apparaten. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
         [one] Dit verwijdert het wachtwoord dat in { -brand-short-name } is opgeslagen van al uw gesynchroniseerde apparaten. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert alle wachtwoorden die in { -brand-short-name } zijn opgeslagen van al uw gesynchroniseerde apparaten. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Dit verwijdert het van { -brand-short-name } op elk apparaat dat uw wachtwoorden synchroniseert. U kunt dit niet ongedaan maken.
+        [one] Dit verwijdert het van { -brand-short-name } op elk apparaat dat uw wachtwoorden synchroniseert. U kunt dit niet ongedaan maken.
+       *[other] Dit verwijdert ze van { -brand-short-name } op elk apparaat dat uw wachtwoorden synchroniseert. U kunt dit niet ongedaan maken.
     }
 
 ##

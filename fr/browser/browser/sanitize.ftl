@@ -87,7 +87,7 @@ item-cookies-site-data =
     .label = Cookies et données de sites
     .accesskey = C
 # Description for the "Cookies and site data" item, which can be selected for deletion
-item-cookies-site-data-description2 = Vous déconnecte et peut vider les paniers d’achats
+item-cookies-site-data-description2 = Vous déconnecte et peut vider vos paniers d’achat
 item-cookies-site-data-description = Peut vous déconnecter de sites ou vider des paniers
 item-active-logins =
     .label = Connexions actives
@@ -105,7 +105,7 @@ item-cached-content2 =
     .label = Fichiers temporaires
     .accesskey = F
 # Description for the "Temporary files" item, which can be selected for deletion
-item-cached-content-description2 = Permet aux sites de se charger plus rapidement
+item-cached-content-description2 = Accélère le chargement des sites
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"

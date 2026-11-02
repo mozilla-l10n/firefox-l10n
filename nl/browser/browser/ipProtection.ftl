@@ -465,5 +465,7 @@ vpn-error-page-keep-browsing = In deze sessie verder navigeren
 vpn-error-page-new-session = Een nieuwe sessie starten
 vpn-paused-alert-close-tabs-button = Alle tabbladen sluiten
 vpn-paused-alert-continue-wo-vpn-button = Doorgaan zonder VPN
+vpn-error-alert-title-1 = VPN en regels werken momenteel niet.
+vpn-error-alert-body-1 = VPN in- en uitschakelen kan het probleem verhelpen.
 vpn-error-alert-title = VPN werkt momenteel niet.
 vpn-error-alert-body = Probeer het later opnieuw.
