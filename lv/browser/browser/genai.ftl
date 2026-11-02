@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Izvēloties Anthropic Claude, jūs piekrītat
 genai-settings-chat-copilot-links = Izvēloties Copilot, jūs piekrītat <a data-l10n-name="link1">Copilot AI pieredzes noteikumiem</a> un <a data-l10n-name="link2">Microsoft paziņojumam par privātumu</a>.
 genai-settings-chat-gemini-links = Ar Google Gemini izvēlēšanos tiek piekrists <a data-l10n-name="link1">Google pakalpojumu sniegšanas noteikumiem</a>, <a data-l10n-name="link2">veidojošā MI aizliegtās izmantošanas pamatnostādnēm</a> un <a data-l10n-name="link3">Gemini Apps privātuma paziņojumam</a>.
 genai-settings-chat-huggingchat-links = Izvēloties HuggingChat, jūs piekrītat <a data-l10n-name="link1">HuggingChat privātuma paziņojumam</a> un <a data-l10n-name="link2">Hugging Face privātuma politikai</a>.
+genai-settings-chat-lechat-links-2 = Izvēloties Mistral Vibe, jūs piekrītat Mistral AI <a data-l10n-name="link1">pakalpojumu sniegšanas noteikumiem</a> un <a data-l10n-name="link2">konfidencialitātes politikai</a>.
 genai-settings-chat-lechat-links = Izvēloties Le Chat Mistral, jūs piekrītat Mistral AI <a data-l10n-name="link1">pakalpojumu sniegšanas noteikumiem</a> un <a data-l10n-name="link2">privātuma politikai</a>.
 genai-settings-chat-localhost-links = Ienesiet savu privāto vietējo tērzēšanas robotu, piemēram, <a data-l10n-name="link1">llamafile</a> no { -vendor-short-name } inovāciju grupas.
 genai-settings-chat-scout-links = Ar Yahoo Scout izvēlēšanos tiek piekrists Yahoo <a data-l10n-name="link1">pakalpojuma izmantošanas noteikumiem</a> un <a data-l10n-name="link2">privātuma pamatnostādnēm</a>.
@@ -39,6 +40,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Izskaidro šo
     .value = Lūdzu, paskaidrojiet galvenos jēdzienus šajā atlasē, izmantojot vienkāršus vārdus. Izmantojiet arī piemērus.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Korektūra
+    .value = Lūdzu, pārbaudiet atlasīto tekstu, lai pārliecinātos, ka tajā nav pareizrakstības un gramatikas kļūdu. Atrodiet visas kļūdas un iesniedziet labotu teksta versiju. Saglabājiet teksta nozīmi un faktuālo precizitāti un vispirms iesniedziet ierosināto labojumu sarakstu, pēc tam — teksta galīgo, laboto versiju.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -46,6 +51,21 @@ genai-prompt-prefix-selection = Esmu lapā “{ $tabTitle }” ar atlasītu “{
 
 ## Chatbot menu shortcuts
 
+genai-menu-open-generic =
+    .label = Open AI Chatbot
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Atvērts { $provider }
+genai-menu-remove-generic =
+    .label = Noņemt mākslīgā intelekta tērzēšanas robotu
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Noņemt { $provider }
+genai-menu-remove-sidebar =
+    .label = Noņemt no sānu joslas
+genai-shortcut-button-3 =
+    .aria-label = Jautājiet par šo tekstu
+    .tooltiptext = Jautājiet par šo tekstu
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =
@@ -76,11 +96,44 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Tu neredzēsi šo izvēlni, kad iezīmēsi tekstu. Jāapmeklē Iestatījumi <span data-l10n-name="chevron"></span> Cilnes un pārlūkošana, lai to atkal rādītu.
 genai-more-actions-manage-settings =
     .label = Pārvaldīt iestatījumus
+genai-selection-callout-title = Iezīmējiet tekstu, lai izvēlētos darbību
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Meklējiet vai kopējiet, atlasot tekstu. Izvēlieties, kuras darbības tiks rādītas, izmantojot izvēļni <span data-l10n-name="more-actions">•••</span>.
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Jautājiet { $provider }
+genai-menu-new-badge = Jauns
+genai-menu-summarize-page = Kopsavilkuma lapa
+genai-input-ask-smart-window =
+    .placeholder = Pajautāt…
 genai-input-ask-generic =
     .placeholder = Vaicāt AI tērzēšanas robotam…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Jautāt { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Mākslīgā intelekta tērzēšanas robots nesaņems jūsu visu atlasi.
+    .message =
+        { $selectionLength ->
+            [zero] Jūs esat atlasījis aptuveni { $selectionLength } rakstzīmes. Rakstzīmju skaits, ko varam nosūtīt mākslīgā intelekta tērzēšanas robotam, ir aptuveni { $maxLength }.
+            [one] Jūs esat atlasījis aptuveni { $selectionLength } rakstzīmi. Rakstzīmju skaits, ko varam nosūtīt mākslīgā intelekta tērzēšanas robotam, ir aptuveni { $maxLength }.
+           *[other] Jūs esat atlasījis aptuveni { $selectionLength } rakstzīmes. Rakstzīmju skaits, ko varam nosūtīt mākslīgā intelekta tērzēšanas robotam, ir aptuveni { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } nesaņems visu jūsu izvēli
+    .message =
+        { $selectionLength ->
+            [zero] Jūs esat atlasījis aptuveni { $selectionLength } rakstzīmes. Rakstzīmju skaits, ko varam nosūtīt uz { $provider }, ir aptuveni { $maxLength }.
+            [one] Jūs esat atlasījis aptuveni { $selectionLength } rakstzīmi. Rakstzīmju skaits, ko varam nosūtīt uz { $provider }, ir aptuveni { $maxLength }.
+           *[other] Jūs esat atlasījis aptuveni { $selectionLength } rakstzīmes. Rakstzīmju skaits, ko varam nosūtīt uz { $provider }, ir aptuveni { $maxLength }.
+        }
+genai-shortcuts-hide =
+    .label = Slēpt tērzēšanas robota saīsni
 
 ## Chatbot onboarding
 

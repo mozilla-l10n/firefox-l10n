@@ -94,6 +94,62 @@ credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-card-details-security-code = { $securityCode }
 credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-capture-update-payment-method-button =
+    .label = Atjaunināt (U)
+    .accessKey = U
+credit-card-update-saved-payment-method-doorhanger-header = Vai atjaunināt saglabāto maksājuma veidu?
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Saglabāt kā jaunu
+    .accessKey = S
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Saglabāt drošības kodu?
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Vai saglabāt šo maksājuma veidu?
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } šifrē un automātiski aizpilda jūsu maksājuma informāciju, lai nodrošinātu ātrāku norēķināšanos.
+credit-card-capture-dismiss-button =
+    .label = NoraiDīt
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Vienmēr saglabājiet drošības kodus
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Nesaglabāt drošības kodus
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV saglabāts
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV saglabāts
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV saglabāts
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV saglabāts
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
