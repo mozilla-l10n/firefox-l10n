@@ -52,3 +52,46 @@ experimental-features-fx-web-apps =
     .label = Pievienot vietnes uzdevumjoslai
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Atveriet bieži apmeklētās vietnes kā tīmekļa lietotni no uzdevumjoslas. Meklējiet ikonu “Pievienot cilni uzdevumjoslai” adreses joslas labajā pusē, lai palaistu šo vietni vienkāršotā logā ar visām { -brand-product-name } aizsardzības funkcijām. <a data-l10n-name="connect">Kopīgot atsauksmes</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Logrīks Saraksti iespējots { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Logrīks Saraksti
+experimental-features-newtab-widget-lists-description = Atverot jaunu cilni, paturiet prātā savu darāmo lietu sarakstu. Sākot ar mantu iesaiņošanas sarakstiem un beidzot ar iepirkumu sarakstiem, izveidojiet savus plānus lietotnē { -brand-product-name }. <a data-l10n-name="connect">Kopīgojiet atsauksmes</a>.
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Logrīks Taimeris iespējots { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Logrīks Taimeris
+experimental-features-newtab-widget-timer-description = Iestatiet taimeri, lai saglabātu koncentrēšanos, mudinātu jūs palikt uz pareizā ceļa vai atgādinātu jums uzlādēties. <a data-l10n-name="connect">Dalieties ar atsauksmēm</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Logrīki Saraksti un Taimeris vietnē iespējoti { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Atverot jaunu cilni, paturiet prātā savu darāmo lietu sarakstu. Sākot ar mantu sarakstiem un beidzot ar iepirkumu sarakstiem, izveidojiet savus plānus lietotnē { -brand-product-name }. Iestatiet taimeri, lai saglabātu koncentrēšanos, mudinātu jūs palikt uz pareizā ceļa vai atgādinātu jums uzlādēties. <a data-l10n-name="connect">Kopīgojiet atsauksmes</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Laika prognozes
+experimental-features-newtab-widget-weather-description = Iegūstiet skaidru priekšstatu par šodienas laikapstākļiem, izmantojot stundas prognozes. <a data-l10n-name="connect">Kopīgojiet atsauksmes</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Dienas bilde
+experimental-features-newtab-widget-picture-of-the-day-description = Piešķiriet savai dienai nedaudz brīnuma. Uzņemiet jaunu attēlu, uzziniet kaut ko interesantu un acumirklī iestatiet jaunu fona attēlu. <a data-l10n-name="connect">Dalieties ar atsauksmēm</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Pulksteņi
+experimental-features-newtab-widget-clocks-description = Pievienojiet līdz pat četriem pulksteņiem ar pielāgotiem segvārdiem, lai sekotu līdzi laikam jums svarīgās vietās. <a data-l10n-name="connect">Kopīgojiet atsauksmes</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantiskās vēstures meklēšana
+experimental-features-semantic-history-search-description = Izmantojiet lokālu mašīnmācīšanās modeli, lai ieteiktu ierakstus no vēstures, kas saistīti ar jūsu meklējumiem, pamatojoties uz dabiskās valodas izpratni { -brand-product-name } adreses joslā. <a data-l10n-name="connect">Kopīgot atsauksmes</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Cilnes piezīmes
+experimental-features-tab-notes-description = Cilņu piezīmes ir eksperimentāla funkcija, kas ļauj pievienot piezīmju lapiņas pārlūkprogrammas cilnēm. Pierakstiet kontekstu, atgādinājumus vai nākamās darbības, lai varētu atgriezties un atcerēties, kāpēc to atvērāt. Mēs labprāt uzklausītu jūsu atsauksmes, jo mēs turpinām uzlabot šo funkciju. <a data-l10n-name="connect">Kopīgot atsauksmes</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Optimizēta cilņu izvēlne
+experimental-features-tab-context-menu-description = Ar peles labo pogu noklikšķinot uz cilnes, skatiet vienkāršāku konteksta izvēlni. Tā ir izstrādāta, lai atvieglotu bieži veicamo darbību atrašanu. <a data-l10n-name="connect">Kopīgot atsauksmes</a>
