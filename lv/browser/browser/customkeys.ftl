@@ -50,11 +50,40 @@ customkeys-nav-select-tab-1 = Dodieties uz 1. cilni
 customkeys-nav-select-tab-2 = Dodieties uz 2. cilni
 customkeys-nav-select-tab-3 = Dodieties uz 3. cilni
 customkeys-nav-select-tab-4 = Dodieties uz 4. cilni
+customkeys-nav-select-tab-5 = Dodieties uz 5. cilni
+customkeys-nav-select-tab-6 = Dodieties uz 6. cilni
+customkeys-nav-select-tab-7 = Dodieties uz 7. cilni
+customkeys-nav-select-tab-8 = Dodieties uz 8. cilni
+customkeys-nav-select-last-tab = Doties uz pēdējo cilni
+customkeys-nav-toggle-mute = Izslēgt/Ieslēgt audio skaņu
+customkeys-edit-find-previous = Atrast iepriekšējo
+customkeys-tools-screenshot = Uzņemiet ekrānuzņēmumu
+customkeys-category-navigation-2 =
+    .heading = Navigācija
+customkeys-caution-message = Šī funkcija ir eksperimentāla un var nedarboties, kā paredzēts.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Nederīgs
 customkeys-shortcut-unassigned =
     .placeholder = Pievienot īsceļu
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Saīsne priekš: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Labot
+    .tooltiptext = Labot
+customkeys-key-clear =
+    .aria-label = Notīrīt
+    .tooltiptext = Notīrīt
+customkeys-key-reset =
+    .aria-label = Atjaunot
+    .tooltiptext = Atjaunot
 
 ## Shortcut actions
 
+customkeys-key-new =
+    .label = Nospiediet jauno taustiņu:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (nevar mainīt)
 # Displayed below the action label (e.g. "Undo") when the user has assigned the
 # shortcut in the operating system's keyboard settings (System Settings on
 # macOS). That shortcut is used instead of any shortcut set here, and it can't
@@ -66,10 +95,33 @@ customkeys-key-system-assigned =
        *[other] (iestatīts sistēmas tastatūras iestatījumos)
     }
 
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Vai noņemt vēl vienu saīsni?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Šo atslēgu jau izmanto “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Lietot jebkurā gadījumā
+customkeys-conflict-confirm-button-cancel = Atcelt
+customkeys-conflict-unusable-title = Atslēgu nevar izmantot
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Šo atslēgu jau izmanto “{ $conflict }”, un to nevar izmantot.
+customkeys-reset-all-confirm-title = Atjaunot noklusējuma iestatījumus?
+customkeys-reset-all-confirm-body = Visi jūsu izveidotie pielāgotie īsinājumtaustiņi tiks noņemti.
+customkeys-reset-all-confirm-button-confirm = Atjaunot noklusējuma iestatījumus
+customkeys-reset-all-confirm-button-cancel = Atcelt
+
 ## Sidebar
 
+customkeys-sidebar =
+    .aria-label = Sānu josla
+customkeys-title-heading =
+    .heading = Tastatūras īsceļi
 # Search is a verb, as in "search through shortcuts".
 customkeys-search-input =
     .aria-label = Meklēšanas saīsnes
     .placeholder = Meklēšanas saīsnes
+customkeys-description = Kontrolējiet savu pārvietošanos un mijiedarbību ar { -brand-short-name }.
 customkeys-support-link-text = Uzzināt vairāk
+customkeys-reset-all-button = Atjaunot noklusējuma iestatījumus
