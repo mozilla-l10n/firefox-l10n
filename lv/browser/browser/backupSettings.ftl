@@ -255,7 +255,7 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName } izveidots { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ierīcē { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> izveidots { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ierīcē { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
