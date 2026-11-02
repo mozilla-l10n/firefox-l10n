@@ -1625,14 +1625,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
-process-hang-selected-tab-message = Ta strona spowalnia działanie przeglądarki { -brand-short-name }. Zatrzymaj tę stronę, aby ją przyspieszyć.
-process-hang-nonspecific-tab-message = Strona spowalnia działanie przeglądarki { -brand-short-name }. Zatrzymaj tę stronę, aby ją przyspieszyć.
+process-hang-selected-tab-message = Ta strona spowalnia działanie { -brand-short-name(case: "gen") }. Zatrzymaj tę stronę, aby go przyspieszyć.
+process-hang-nonspecific-tab-message = Strona spowalnia działanie { -brand-short-name(case: "gen") }. Zatrzymaj tę stronę, aby go przyspieszyć.
 # Variables:
 #   $title (String): the title of the tab.
-process-hang-specific-tab-message = Strona „{ $title }” spowalnia działanie przeglądarki { -brand-short-name }. Zatrzymaj tę stronę, aby ją przyspieszyć.
+process-hang-specific-tab-message = Strona „{ $title }” spowalnia działanie { -brand-short-name(case: "gen") }. Zatrzymaj tę stronę, aby go przyspieszyć.
 # Variables:
 #   $addonName (String): the name of the extension.
-process-hang-addon-message = Rozszerzenie „{ $addonName }” spowalnia działanie przeglądarki { -brand-short-name }. Zatrzymaj to rozszerzenie, aby ją przyspieszyć.
+process-hang-addon-message = Rozszerzenie „{ $addonName }” spowalnia działanie { -brand-short-name(case: "gen") }. Zatrzymaj to rozszerzenie, aby go przyspieszyć.
 process-hang-addon-learn-more =
     .value = Więcej informacji
 process-hang-stop-button =
