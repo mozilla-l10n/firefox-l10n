@@ -30,3 +30,4 @@ preonboarding-header-button-description = Lasīt vairāk
 preonboarding-checklist-interaction-data-label = Sūtīt tehniskos un mijiedarbības datus uz { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Dati par jūsu ierīci, aparatūras konfigurāciju un to, kā jūs izmantojat { -brand-product-name }, palīdz uzlabot funkcijas, veiktspēju un stabilitāti lietotājiem visā pasaulē.
 preonboarding-checklist-crash-reports-label = Automātiski sūtīt avāriju pārskatus
+preonboarding-checklist-crash-reports-description = Avāriju pārskati ļauj mums diagnosticēt un novērst problēmas ar pārlūku. Pārskatos var būt iekļauti personas vai sensitīvi dati.
