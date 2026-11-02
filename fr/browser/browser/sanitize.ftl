@@ -69,7 +69,7 @@ item-history-and-downloads2 =
     .label = Historique de navigation et des téléchargements
     .accesskey = H
 # Description for the "Browsing and downloads history" item, which can be selected for deletion
-item-history-and-downloads-description3 = Sites visités et liste de téléchargements
+item-history-and-downloads-description3 = Liste des sites consultés et des téléchargements
 item-history-and-downloads =
     .label = Historique de navigation et des téléchargements
     .accesskey = H
