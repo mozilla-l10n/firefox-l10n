@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Ymportearje fan in oare
 about-logins-menu-menuitem-import-from-a-file = Ut in bestân ymportearje…
 about-logins-menu-menuitem-export-logins2 = Wachtwurden eksportearje…
 about-logins-menu-menuitem-remove-all-logins2 = Alle wachtwurden fuortsmite…
+about-logins-menu-menuitem-delete-all-logins = Alle wachtwurden fuortsmite…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opsjes
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Selektearje de knop mei it plusteken hjirboppe om d
 about-logins-login-item-new-login-title = Wachtwurd tafoegje
 login-item-edit-button = Bewurkje
 about-logins-login-item-remove-button = Fuortsmite
+about-logins-login-item-delete-button = Fuortsmite
 login-item-origin-label = Websiteadres
 about-logins-origin-tooltip2 = Fier it folsleine adres yn en soargje derfoar dat it krekt oerienkomt mei wêr’t jo jo oanmelde.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Annulearje
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Wachtwurd fuortsmite?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Wachtwurd fuortsmite?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Jo kinne dizze aksje net ûngedien meitsje.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Dit smyt it út { -brand-short-name } op elk apparaat dat jo wachtwurden syngronisearret. Jo kinne dit net ûngedien meitsje.
 about-logins-confirm-remove-dialog-confirm-button = Fuortsmite
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Fuortsmite
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,8 +195,22 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Fuortsmite
        *[other] Alle fuortsmite
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Fuortsmite
+        [one] Alles fuortsmite
+       *[other] Alles fuortsmite
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, wachtwurd fuortsmite
+        [one] Ja, wachtwurd fuortsmite
+       *[other] Ja, wachtwurden fuortsmite
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, wachtwurd fuortsmite
         [one] Ja, wachtwurd fuortsmite
@@ -212,6 +234,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] { $count } wachtwurd fan alle apparaten fuortsmite?
        *[other] Alle { $count } wachtwurden fan alle apparaten fuortsmite?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } wachtwurd fuortsmite?
+       *[other] { $count } wachtwurden fuortsmite?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
