@@ -71,7 +71,14 @@ ipprotection-android-promo-callout-primary-button = Razumijem
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+ipprotection-site-inclusions-callout-primary-button = Postavi pravila
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne sada
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Odbaci
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Otvori VPN
+ipprotection-holiday-promo-secondary-button = Odbaci
 
 ## Panel
 
@@ -162,6 +169,7 @@ ipprotection-message-bandwidth-warning-mb =
     .message = Preostalo ti je { $usageLeft } GB od { $maxUsage } GB u ovom mjesecu.
 ipprotection-message-continuous-onboarding-intro = Uključi VPN za skrivanje tvoje lokacije i dodavanje dodatnog šifriranja za pregledavanje.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
+confirmation-hint-ipprotection-navigated-to-included-site = VPN je uključen za ovu web-stranicu
 ipprotection-open-button = Otvori { -brand-product-name }
 ipprotection-come-back-title = Vrati se da isprobaš ugrađeni VPN
 ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN-om
@@ -190,6 +198,38 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } web-stranica
         }
     .label = Upravljaj postavkama web-stranice
+ip-protection-site-rules-header-1 =
+    .heading = Upravljaj pravilima VPN-a
+ip-protection-site-rules-button-1 =
+    .description = Postavi pravila za stranice koje zahtijevaju dodatnu privatnost ili isključeni VPN.
+    .label = Upravljaj pravilima VPN-a
+ip-protection-site-rules-list-section-1 =
+    .description = Postavi pravila za automatsko uklj./isklj. VPN-a.
+    .label = Pravila web stranica
+ip-protection-site-rules-add-button =
+    .label = Postavi pravilo
+ip-protection-site-rules-delete-all-button =
+    .label = Izbriši sva pravila
+ip-protection-site-rules-empty = Pravila koja postavit će se pojaviti ovdje.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN uvijek uključen
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN uvijek isključen
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Uredi pravilo za { $website }
+    .title = Uredi
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Izbriši pravilo za { $website }
+    .title = Izbriši
+ip-protection-site-rules-header =
+    .heading = Upravljaj pravilima web stranica
+ip-protection-site-rules-button =
+    .description = Postavi pravila za stranice koje zahtijevaju dodatnu privatnost ili isključeni VPN.
+    .label = Upravljaj pravilima web stranica
 ip-protection-autostart =
     .label = Uključi VPN automatski
 ip-protection-autostart-checkbox =
@@ -205,6 +245,52 @@ ip-protection-vpn-upgrade-link =
 ip-protection-exceptions-dialog-window =
     .title = Upravljaj postavkama web-stranice
 ip-protection-exclusions-desc = Koristi VPN za sve web-stranice osim onih na ovom popisu. Dodaj web-stranicu ovdje ili putem otvaranja VPN-a.
+ip-protection-site-rule-window =
+    .title = Postavi pravilo
+ip-protection-edit-site-rule-window =
+    .title = Uredi pravilo
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Postavi
+    .buttonaccesskeyaccept = P
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Spremi
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Unesi stranicu i onda odaberi status VPN-a za nju.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Web stranica
+    .placeholder = npr. primjer.hr
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Status VPN-a
+ip-protection-site-rule-status-on =
+    .label = Uvijek uključen
+ip-protection-site-rule-status-off =
+    .label = Uvijek isključen
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Unesi važeću adresu web stranice.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Ova stranica već ima pravilo.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Greška pri stvaranju pravila. Pokušaj ponovno.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Izbrisati pravilo za { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Odustani
+ip-protection-delete-site-rule-confirm =
+    .label = Izbriši
+ip-protection-delete-all-site-rules-message = Izbrisati sva pravila za web stranice?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Izbriši sva pravila
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Nije moguće izbrisati pravilo
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Nije moguće izbrisati pravila
+ip-protection-delete-site-rule-retry =
+    .label = Pokušaj ponovo
 
 ## IP Protection Bandwidth
 

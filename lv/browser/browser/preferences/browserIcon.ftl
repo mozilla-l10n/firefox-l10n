@@ -14,3 +14,58 @@ appearance-browser-icon-entry-group =
     .label = Pārlūka ikona
 appearance-browser-icon-button =
     .label = Mainīt pārlūka ikonu
+
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = Vairāk ikonas
+
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Standarta
+# “Bonus” rather than “Special” as these are additional icons unlocked by an
+# action.
+appearance-browser-icon-bonus-group2 =
+    .label = Papildus
+
+##
+
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Pabeidziet un atbloķējiet papildus lapsas ikonas, lai personalizētu { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Jūs atbloķējāt visas papildus ikonas!
+appearance-browser-icon-set-default-button =
+    .label = Iestatīt noklusējuma vērtību
+appearance-browser-icon-pin-button =
+    .label = Piespraust uzdevumjoslai
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Noklusējuma
+appearance-browser-icon-retro2004 =
+    .label = Retro 2004
+appearance-browser-icon-retro2017 =
+    .label = Retro 2017
+appearance-browser-icon-pride =
+    .label = Praida
+appearance-browser-icon-minimal =
+    .label = Minimāls
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Komplekts
+appearance-browser-icon-pixelated =
+    .label = Pikseļots
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .description = Izveidojis @heyheymomodraws
+    .label = Momo

@@ -65,6 +65,8 @@ genai-more-actions-search =
     .label = Traži
 genai-more-actions-copy =
     .label = Kopiraj
+genai-more-actions-manage-settings =
+    .label = Upravljaj postavkama
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pitaj { $provider }
@@ -167,6 +169,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Koristi UI chatbot bez mijenjanja kartica
@@ -226,6 +230,21 @@ link-preview-settings-key-points =
     .label = Dopusti umjetnoj inteligenciji čitanje početka web stranice i generiranje ključnih točaka
 link-preview-settings-long-press =
     .label = Prečac: klikni i zadrži poveznicu pritisnutom jednu sekundu (dugi pritisak)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Pitaj { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Pitaj umjetnu inteligenciju
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Traži
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopiraj
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Želiš vidjeti više pomoću umjetne inteligencije?
 # Message that appears when user is shown the opt-in flow for link previews

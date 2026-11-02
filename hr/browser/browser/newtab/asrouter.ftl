@@ -439,3 +439,13 @@ refresh-profile-infobar-button = Osvježi { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Želiš otvoriti prethodne kartice?</strong> Prethodnu sesiju možeš obnoviti u izborniku aplikacije { -brand-short-name } <img data-l10n-name="icon"/>, pod Povijest.
 restore-session-startup-suggestion-button = Pokaži mi kako
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Dodaj
+taskbar-tabs-spotlight-done-button = Gotovo
