@@ -367,6 +367,9 @@ newtab-travel-widget-open-menu-button =
     .title = Atvērt ceļošanas izvēlni
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Uzzināt vairāk
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Darbina Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -562,6 +565,9 @@ newtab-discovery-empty-section-topstories-header = Jūs esat visu apskatījis!
 newtab-discovery-empty-section-topstories-content = Atgriezieties vēlāk, lai skatītu citus stāstus.
 newtab-discovery-empty-section-topstories-try-again-button = Mēģināt vēlreiz
 newtab-discovery-empty-section-topstories-loading = Ielādē…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Stāsti šobrīd nav pieejami
+newtab-discovery-empty-section-topstories-unavailable-body = Jāpārbauda savienojums vai vēlāk jāmēģina vēlreiz.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hmm! Mēs gandrīz ielādējām šo sadaļu, bet ne gluži.
 
@@ -788,6 +794,9 @@ newtab-wallpaper-firefox-peak-dark = Lapsas purns kreisajā malā uz tumša fona
 newtab-wallpaper-firefox-peak-light = Lapsas purns kreisajā malā uz gaiša fona
 newtab-wallpaper-firefox-sky-dark = Tumši violeti pakalni zem nakts debesīm
 newtab-wallpaper-firefox-sky-light = Gaiši pakalni zem maigām debesīm
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Wrexham AFC ģerbonis uz sarkana fona
 
 ## New Tab Weather
 
@@ -959,6 +968,9 @@ newtab-promo-card-cta = Uzzināt vairāk
 newtab-crossword-widget-open-menu-button =
     .aria-label = Atvērt krustvārdu mīklu izvēlni
     .title = Atvērt krustvārdu mīklu izvēlni
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Darbina Particle
 
 ##
 

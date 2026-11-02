@@ -233,4 +233,6 @@ ipprotection-bandwidth-reset-button = Sapratu
 
 vpn-error-page-continue-description = Jāizvēlas, kā turpināt bez VPN
 vpn-paused-alert-continue-wo-vpn-button = Turpināt bez VPN
+vpn-error-alert-title-1 = VPN un kārtulas šobrīd nedarbojas.
+vpn-error-alert-body-1 = VPN izslēgšana un ieslēgšana var novērst sarežģījumu.
 vpn-error-alert-body = Vēlāk jāmēģina vēlreiz.

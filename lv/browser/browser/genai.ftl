@@ -96,9 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Tu neredzēsi šo izvēlni, kad iezīmēsi tekstu. Jāapmeklē Iestatījumi <span data-l10n-name="chevron"></span> Cilnes un pārlūkošana, lai to atkal rādītu.
 genai-more-actions-manage-settings =
     .label = Pārvaldīt iestatījumus
-genai-selection-callout-title = Iezīmējiet tekstu, lai izvēlētos darbību
+genai-selection-callout-title = Iezīmē tekstu, lai izvēlētos darbību
 # "Search" and "Copy" are verbs.
-genai-selection-callout-text = Meklējiet vai kopējiet, atlasot tekstu. Izvēlieties, kuras darbības tiks rādītas, izmantojot izvēļni <span data-l10n-name="more-actions">•••</span>.
+genai-selection-callout-text = Meklē vai ievieto starpliktuvē, kad iezīmē tekstu! Izvēlies, kuras darbības tiks rādītas izvēlnē <span data-l10n-name="more-actions">•••</span>!
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Jautājiet { $provider }

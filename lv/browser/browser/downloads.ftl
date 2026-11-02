@@ -301,16 +301,19 @@ downloads-unblock-header-open = Vai tiešām atvērt šo datni?
 downloads-unblock-type-malware = Šajā datnē ir vīruss vai kāda cita ļaunatūra, kas kaitēs datoram.
 downloads-unblock-type-potentially-unwanted = Datne tiek pasniegta kā noderīga lejupielāde, bet tā var veikt negaidītas izmaiņas programmās un iestatījumos.
 downloads-unblock-type-content-analysis-warn = Apvienība izmanto datu zaudēšanas novēršanas programmatūru, kas ir atzīmējusi šo saturu kā nedrošu.
-downloads-unblock-type-uncommon = Parasti šādas datnes nelejupielādē un to atvērt var nebūt droši. Tajā var būt vīrusi vai negaidītas jūsu sistēmas un programmu konfigurācijas izmaiņas.
-downloads-unblock-insecure = Lejupielāde tiek piedāvāta ar HTTP, lai gan pašreizējais dokuments tika piegādāts ar drošu HTTPS savienojumu. Ja turpināsi, datne lejupielādes laikā var bojāta vai ietekmēta.
-downloads-unblock-tip = Varat mēģināt atrast šo datni citā vietā vai lejupielādēt vēlreiz nedaudz vēlāk.
+downloads-unblock-type-uncommon = Parasti šādas datnes nelejupielādē, un tās atvērt var būt nedroši. Tajā var būt vīrusi vai tā var veikt negaidītas programmu un iestatījumu izmaiņas.
+downloads-unblock-insecure = Lejupielāde tiek piedāvāta ar HTTP, lai gan pašreizējais dokuments tika piegādāts ar drošu HTTPS savienojumu. Ja turpināsi, datne lejupielādes laikā var būt bojāta vai ietekmēta.
+downloads-unblock-tip = Vari mēģināt atrast šo datni citā vietā vai nedaudz vēlāk lejupielādēt vēlreiz.
+downloads-unblock-content-analysis-warn-tip = Jebkurā gadījumā vienmēr vari izvēlēties to lejupielādēt.
+downloads-unblock-content-analysis-blocked = Apvienība izmanto datu zaudēšanas novēršanas programmatūru, kas ir liegusi šo lejupielādi.
+downloads-unblock-content-analysis-override = Šo lēmumu var mainīt apvienība.
 downloads-unblock-content-analysis-tip = Lejupielādi var turpināt vai atcelt.
 downloads-unblock-button-open =
     .label = Atvērt
 downloads-unblock-button-unblock =
     .label = Atļaut lejupielādi
 downloads-unblock-button-confirm-block =
-    .label = Izņemt datni
+    .label = Noņemt datni
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
