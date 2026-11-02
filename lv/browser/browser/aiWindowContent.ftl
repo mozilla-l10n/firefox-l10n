@@ -2,10 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = { -smart-window-brand-name } tērzēšanas ziņojumi
+
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } birka
+        [zero] { $tags } birkas
+       *[other] { $tags } birkas
+    }
 
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Kaut kas nogāja greizi. Lūgums mēģināt vēlreiz.
+smartwindow-assistant-error-budget-header = Jūs esat sasniedzis šodienas tērzēšanas ierobežojumu.
+smartwindow-assistant-error-account-header = Lai izmantotu { -smart-window-brand-name }, jums būs jāpierakstās.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } pašlaik ir pilnībā noslogots. Lūdzu, mēģiniet vēlreiz vēlāk.
+smartwindow-assistant-error-budget-body = Šajā logā joprojām varat pārlūkot. Tērzēšana atkal būs pieejama, tiklīdz tiks atiestatīts jūsu dienas limits.
+smartwindow-assistant-error-many-requests-header = Lūdzu, uzgaidiet brīdi un mēģiniet vēlreiz. Īsā laikā tika nosūtīts pārāk daudz ziņojumu.
+smartwindow-assistant-error-max-length-header = Ir pienācis laiks sākt jaunu tērzēšanu. Šī ir sasniegusi maksimālo garumu.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } nevarēja sasniegt serveri. Izmēģiniet citu tīklu vai atspējojiet VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Servera kļūda (HTTP { $status }). Lūgums mēģināt vēlreiz.
@@ -28,6 +47,18 @@ aiwindow-retry =
 aiwindow-copy-message =
     .aria-label = Ievietot ziņojumu starpliktuvē
     .tooltiptext = Kopēt
+aiwindow-copy-table =
+    .aria-label = Kopēt tabulu
+    .tooltiptext = Kopēt tabulu
+aiwindow-table-scroll-indicator = Ritiniet, lai redzētu vairāk
+aiwindow-thumbs-up =
+    .aria-label = Dalieties ar pozitīvām atsauksmēm
+    .tooltiptext = Dalieties ar pozitīvām atsauksmēm
+aiwindow-thumbs-down =
+    .aria-label = Dalieties ar negatīvām atsauksmēm
+    .tooltiptext = Dalieties ar negatīvām atsauksmēm
+aiwindow-applied-memories-popover =
+    .aria-label = Atmiņu panelis
 aiwindow-applied-memories-list =
     .aria-label = Atmiņas
 # Variables:
@@ -45,6 +76,11 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Mēģināt vēlreiz
+smartwindow-nl-retry-message = Ja joprojām vēlaties aizvērt cilnes, izvēlieties <strong>Mēģināt vēlreiz</strong> un veiciet atlasi atvērtajā kartītē.
+smartwindow-nl-retry-group-tabs-message = Ja joprojām vēlaties grupēt cilnes, izvēlieties <strong>Mēģināt vēlreiz</strong> un atvērtajā kartītē atlasiet grupējamās cilnes.
+smartwindow-nl-thinking = Meklējam atbilstošas cilnes…
+smartwindow-loading-assistant-response =
+    .aria-label = Notiek palīga atbildes ielāde
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
