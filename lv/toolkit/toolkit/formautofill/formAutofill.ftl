@@ -104,7 +104,7 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-capture-update-payment-method-button =
     .label = Atjaunināt
     .accessKey = A
-credit-card-update-saved-payment-method-doorhanger-header = Vai atjaunināt saglabāto maksājuma veidu?
+credit-card-update-saved-payment-method-doorhanger-header = Atjaunināt saglabāto maksājuma veidu?
 # Saves the submitted details as a new payment method instead of updating
 # the saved one.
 credit-card-capture-save-as-new-payment-method-button =

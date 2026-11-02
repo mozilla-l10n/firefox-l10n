@@ -175,6 +175,10 @@ install-extension-button = Pievienot { -brand-product-name }
 
 ## Add-on actions
 
+theme-enabled-heading2 =
+    .heading = Izvēlētais izskats
+theme-disabled-heading3 =
+    .heading = Saglabātie izskati
 addon-detail-homepage-label = Sākumlapa
 
 ## Pending uninstall message bar
@@ -187,6 +191,8 @@ addon-detail-private-browsing-disallow = Neatļaut
 
 release-notes-error = Atvainojamies, bet laidiena piezīmju ielādēšanas laikā bija kļūda!
 addon-permissions-learnmore = Uzzināt vairāk par atļaujām
+recommended-themes-card-heading =
+    .heading = Ieteiktie izskati
 
 ## Page headings
 

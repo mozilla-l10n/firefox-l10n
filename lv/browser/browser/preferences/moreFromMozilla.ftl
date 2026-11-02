@@ -32,3 +32,12 @@ more-from-moz-firefox-relay-button = Iegūt { -relay-brand-short-name }
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-global-description = Saņemiet brīdinājumus, ja jūsu dati tika nopludināti.
 more-from-moz-mozilla-monitor-button = Iegūt { -monitor-brand-short-name }
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-firefox-enterprise-card =
+    .description = Pārlūka pārvaldība noteiktiem noteikumiem pakļautām un ar drošību saistītām apvienībām.
+    .label = { -firefox-enterprise-brand-name }
+more-from-moz-firefox-enterprise-box-link =
+    .label = Uzzināt par { -firefox-enterprise-brand-name }
