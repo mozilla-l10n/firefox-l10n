@@ -466,5 +466,7 @@ vpn-error-page-keep-browsing = Kontynuuj przeglądanie w tej sesji
 vpn-error-page-new-session = Rozpocznij nową sesję
 vpn-paused-alert-close-tabs-button = Zamknij wszystkie karty
 vpn-paused-alert-continue-wo-vpn-button = Kontynuuj bez VPN
+vpn-error-alert-title-1 = VPN i reguły obecnie nie działają.
+vpn-error-alert-body-1 = Wyłączenie i ponowne włączenie VPN może rozwiązać problem.
 vpn-error-alert-title = VPN obecnie nie działa.
 vpn-error-alert-body = Spróbuj ponownie później.

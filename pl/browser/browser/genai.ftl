@@ -96,6 +96,7 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = To menu nie będzie wyświetlane po zaznaczenu tekstu. Można je przywrócić w Ustawieniach <span data-l10n-name="chevron"></span> Karty i przeglądanie.
 genai-more-actions-manage-settings =
     .label = Ustawienia
+genai-selection-callout-title = Zaznacz tekst, aby wybrać działanie
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Zapytaj { $provider }
