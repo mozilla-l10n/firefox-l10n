@@ -269,7 +269,20 @@ colorway-removal-notice-button = Iegūstiet atjauninātas krāsu shēmu motīvus
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Jūsu Windows kontrasta iestatījumi ignorē { -brand-short-name } motīvus. Izslēdziet šos iestatījumus, lai izmantotu motīvus { -brand-short-name }.
+privacy-policy = Privātuma nostādnes
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = autors <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Lietotāji: { $dailyUsers }
 install-extension-button = Pievienot { -brand-product-name }
+install-theme-button = Instalēt motīvu
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Pārvaldīt
 
 ## Add-on actions
 
@@ -282,18 +295,90 @@ addon-detail-homepage-label = Sākumlapa
 ## Pending uninstall message bar
 
 addon-detail-updates-label = Atļaut automātiskus atjauninājumus
+addon-detail-update-check-label = Pārbaudīt atjauninājumus
+install-update-button = Atjauninājums
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Atļauts privātos logos
+addon-detail-private-browsing-help = Ja paplašinājums būs atļauts, tam būs piekļuve jūsu tiešsaistes aktivitātēm privātās pārlūkošanas laikā. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
 addon-detail-private-browsing-allow = Atļaut
 addon-detail-private-browsing-disallow = Neatļaut
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Palaist vietnēs ar ierobežojumiem
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Ja šī opcija ir atļauta, paplašinājumam būs piekļuve vietnēm, ko ierobežo { -vendor-short-name }. Atļaut tikai tad, ja uzticaties šim paplašinājumam.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Atļaut
+addon-detail-quarantined-domains-disallow = Neatļaut
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Oficiāls Mozilla izstrādāts paplašinājums. Atbilst drošības un veiktspējas standartiem.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Šis paplašinājums ir pārskatīts, lai atbilstu drošības un veiktspējas standartiem.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox iesaka tikai tos paplašinājumus, kas atbilst drošības un veiktspējas standartiem.
 
 ##
 
+available-updates-heading = Pieejamie atjauninājumi
+recent-updates-heading = Jaunākie atjauninājumi
+release-notes-loading = Ielādē…
 release-notes-error = Atvainojamies, bet laidiena piezīmju ielādēšanas laikā bija kļūda!
+addon-permissions-heading = Atļaujas
+addon-permissions-empty2 = Šim paplašinājumam nav nepieciešamas nekādas atļaujas.
+addon-permissions-required-label = Nepieciešams:
+addon-permissions-optional-label = Pēc izvēles:
 addon-permissions-learnmore = Uzzināt vairāk par atļaujām
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Dažas atļaujas pārvalda jūsu organizācija.
+recommended-extensions-heading = Ieteicamie paplašinājumi
 recommended-themes-card-heading =
     .heading = Ieteiktie izskati
+recommended-themes-heading = Ieteicamās tēmas
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = Piešķir <span data-l10n-name="hostname">{ $hostname } </span> šādas iespējas:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Jūtaties radoši? <a data-l10n-name="link">Izveidojiet savu motīvu, izmantojot Firefox Color.</a>
 
 ## Page headings
 
+extension-heading = Pārvaldiet savus paplašinājumus
+theme-heading = Pārvaldiet savas motīvus
 locale-heading = Pārvaldīt valodas
 addon-page-options-button =
     .title = Visu papildinājumu rīki

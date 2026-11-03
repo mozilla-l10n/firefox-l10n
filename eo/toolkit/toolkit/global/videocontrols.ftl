@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = La formo aŭ tipo MIME de la video ne es
 videocontrols-error-no-source = Neniu video kun subtenata formo kaj tipo MIME estis trovita.
 videocontrols-error-generic = Ludado de video abortita pro nekonata eraro.
 videocontrols-status-picture-in-picture = Tiu ĉi filmeto estas ludata en reĝimo bildo en bildo.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Videaĵo inkrustite ludata
 # This message shows the current position and total video duration
 #
 # Variables:

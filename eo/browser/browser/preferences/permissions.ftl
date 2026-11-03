@@ -142,6 +142,12 @@ permissions-site-notification-desc = La jenaj retejoj petis permeson sendi sciig
 permissions-site-notification-disable-label =
     .label = Bloki novajn petojn pri permeso sendi sciigojn
 permissions-site-notification-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson sendi sciigojn. Blokado de sciigoj povas misfunkciigi kelkajn trajtojn de retejoj.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Permesi sciigojn de retejoj kiam { -brand-short-name } estas fermita.
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Ankaŭ aplikeblas la agordoj pri sciigoj de via mastruma sistemo.
 
 ## Site Permissions - Location
 
@@ -162,6 +168,15 @@ permissions-site-xr-desc = La jenaj retejoj petis permeson aliri viajn aparatojn
 permissions-site-xr-disable-label =
     .label = Bloki novajn petojn pri permeso aliri viajn aparatojn de virtuala realo
 permissions-site-xr-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri viajn aparatojn de virtuala realo. Blokado de aliro al viaj aparatoj de virtuala realo povas misfunkciigi kelkajn trajtojn de retejoj.
+
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Agordoj - Blokitaj retejoj por ligiloj al programoj
+permissions-site-app-links-desc = Tiuj ĉi retejoj ne rajtas malfermi ligilojn al programoj, ekzemple por retpoŝto (mailto:). Forigu retejon por permesi al ĝi fari tion.
 
 ## Site Permissions - Camera
 
