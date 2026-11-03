@@ -950,7 +950,7 @@ urlbar-searchmode-default2 =
 # Variables:
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Pridať “{ $engineName }”
-    .title = Pridať vyhľadávací modul “{ $engineName }”
+    .title = Pridať vyhľadávač “{ $engineName }”
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Tentoraz vyhľadať pomocou:

@@ -82,3 +82,49 @@ fxa-avatar-tooltip =
 sync-setup-verify-continue = Turpināt
 sync-setup-verify-title = Apvienošanās brīdinājums
 sync-setup-verify-heading = Vai tiešām pieteikties, lai vienādotu?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Cits lietotājs iepriekš bija pierakstījies vienādošanai šajā datorā. Pierakstoties, šī pārlūka grāmatzīmes, paroles un citi iestatījumi tiks apvienoti ar epasta { $email } konta tādiem pašiem datiem
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Piesakies, lai nosūtītu cilnes
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Šim profilam sasniegts kontu limits
+sync-profile-different-account-header = Šis profils iepriekš tika vienādots ar citu kontu
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Lai jūsu dati būtu sakārtoti un droši, katru { -brand-product-name } profilu var sinhronizēt tikai ar vienu kontu. Lai pieteiktos, izmantojot { $acctEmail }, izveidojiet jaunu profilu.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profils vienādots ar citu kontu
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Lai jūsu dati būtu sakārtoti un drošībā, iesakām izveidot jaunu profilu, lai pieteiktos, izmantojot { $acctEmail }. Ja izvēlēsities turpināt vienādoti šajā profilā, dati no abiem kontiem tiks neatgriezeniski apvienoti profilā “{ $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Konts jau tiek lietots
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } jau ir pierakstījies profilā “{ $otherProfile }”.
+sync-account-in-use-description = Šo kontu var saistīt tikai ar vienu profilu šajā datorā.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Šis konts ir pierakstīts citā profilā. Vai vienādot abus profilus?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = Lietotājs { $acctEmail } ir pieteicies profilā “{ $otherProfile }” šajā datorā. Sinhronizējot profilu “{ $currentProfile }”, dati no abiem profiliem, piemēram, paroles un grāmatzīmes, tiks neatgriezeniski apvienoti.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Pārslēgties uz “{ $profileName }”
+sync-button-create-profile = Izveidot jaunu profilu
+sync-button-sync-and-merge = Vienādot un apvienot datus
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Vienādot “{ $profileName }”
