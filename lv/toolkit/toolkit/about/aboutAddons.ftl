@@ -538,6 +538,19 @@ addon-category-mlmodel = Ierīcē iebūvētais MI
 addon-category-mlmodel-title =
     .title = Ierīcē iebūvētais MI
 mlmodel-heading = Pārvaldiet ierīcē esošos MI modeļus
+mlmodel-description = Dažas { -brand-short-name } funkcijas un paplašinājumi darbojas ar MI modeļiem, kas darbojas lokāli jūsu ierīcē. Šī pieeja aizsargā jūsu privātumu un daudzos gadījumos paātrina veiktspēju. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Noņemt
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Datnes lielums
+mlmodel-addon-detail-last-used-label = Pēdējo reizi izmantots
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Lietoja
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modeļa karte
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Skats uz Hugging Face
 
 ## Promo footer shown in the about:addons recommendations view when
 ## Project Nova styles are enabled.
@@ -548,10 +561,70 @@ mlmodel-heading = Pārvaldiet ierīcē esošos MI modeļus
 find-more-addons-promo =
     .heading = Pielāgo { -brand-product-name } savām vēlmēm
     .message = Pievieno rīkus un noformējumu atbilstoši savām vajadzībām un gaumei!
+find-more-addons-promo-open-amo-button = Izpētiet paplašinājumus un motīvus
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Atrodiet savu nākamo iecienītāko paplašinājumu
+    .message = Pielāgojiet { -brand-product-name } ar rīkiem fokusam, privātumam, iepirkšanās iespējām un citiem mērķiem.
+find-more-extensions-promo-open-amo-button = Izpētiet paplašinājumus
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Atrodi vairāk svaigu izskatu
+    .message = Izvēlies stilu, kas liek { -brand-product-name } justies kā tavējam.
+find-more-themes-promo-open-amo-button = Izpētiet motīvus
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Daži paplašinājumi sniedz daudz priekšrocību
+    .message = Mums ir ieteikumi, kas palīdzēs uzlabot koncentrēšanās spējas, privātumu un citas funkcijas.
+list-empty-get-extensions-promo-button = Atrodiet savu pirmo paplašinājumu
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
+themes-mode-light =
+    .label = Gaišā
+themes-mode-dark =
+    .label = Tumšā
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Ierīce
 # Accessible name for the group of light/dark/device buttons.
 themes-mode =
     .aria-label = Izskats
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } motīvi
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Rādīt vairāk
+aboutaddons-themes-picker-see-less = Rādīt mazāk
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Iespējot
+aboutaddons-themes-picker-disable-button =
+    .label = Atspējot
+aboutaddons-themes-picker-install-button =
+    .label = Uzstādīt
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Nevarēja atjaunināt jūsu tēmu. Pārbaudiet savienojumu un mēģiniet vēlreiz.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Izmantot Linux sistēmas motīvu

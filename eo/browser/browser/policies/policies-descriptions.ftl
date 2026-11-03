@@ -77,6 +77,7 @@ policy-DisableSecurityBypass = Malpermesi al uzanto ignori kelkajn sekurecajn av
 policy-DisableSetAsDesktopBackground = Malaktivigi la menueron "Difini kiel labortablan fonon" por bildoj.
 policy-DisableSystemAddonUpdate = Malpermesi al retumilo instali kaj ĝisdatigi sistemajn aldonaĵojn.
 policy-DisableTelemetry = Malŝalti telemezuron.
+policy-DisableThirdPartyModuleBlocking2 = Ne permesi al uzanto uzi la informon de moduloj de aliaj (about:third-party) por bloki modulojn de aliaj kiuj estis injekciigitaj en la procezo de { -brand-short-name }.
 policy-DisableThirdPartyModuleBlocking = Eviti ke la uzanto bloku modulojn de aliaj, injektitaj en la procezo de { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Norme montri la ilaron de legosignoj.
 policy-DisplayMenuBar = Norme montri la menuan strion.
@@ -128,6 +129,7 @@ policy-OfferToSaveLogins = Respekti la agordon kiu permesas al { -brand-short-na
 policy-OfferToSaveLoginsDefault = Elekti ĉu { -brand-short-name } norme proponas memori legitimilojn. Akcepteblas la valoroj: vera, malvera.
 policy-OverrideFirstRunPage = Ŝanĝi la paĝon de unua starto. Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon de unua starto.
 policy-OverridePostUpdatePage = Ŝanĝi la postĝisdatigan paĝon "Kio estas nova". Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon post ĝisdatigo.
+policy-PasswordManagerEnabled2 = Aktivigi aŭ malaktivigi la konservadon de pasvortoj en la administranto de pasvortoj. Se ili estas ankaŭ Pasvortoj (about:logins) estos blokita.
 policy-PasswordManagerEnabled = Aktivigi konservadon de pasvortoj en la pasvorta administrilo.
 policy-PasswordManagerExceptions = Malpermesi al { -brand-short-name } konservi pasvortojn por specifaj retejoj.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -146,6 +148,7 @@ policy-RelaunchRequired = Postuli restartigon de { -brand-short-name } post difi
 policy-RequestedLocales = Agordi la liston de lingvoj petataj de la programo, ordigitaj laŭ prefero.
 policy-SanitizeOnShutdown2 = Forigi retumajn datumojn je malŝalto.
 policy-SearchBar = Elekti la normal lokon de la serĉa strio. La uzanto povas tamen personecigi ĝin.
+policy-SearchEngines2 = Modifi serĉilajn agordojn.
 policy-SearchEngines = Agordi serĉilojn. Tiu ĉi politiko nur disponebla en la versio kun plilongigita subteno (ESR).
 policy-SearchSuggestEnabled = Aktivigi aŭ malaktivigi serĉajn sugestojn.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

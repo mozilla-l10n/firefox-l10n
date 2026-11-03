@@ -11,6 +11,8 @@ confirmation-hint-password-created = Pasvorto konservita
 confirmation-hint-password-updated = Pasvorto ĝisdatigita
 confirmation-hint-address-created = Adreso konservita
 confirmation-hint-address-updated = Adreso ĝisdatigita
+confirmation-hint-payment-method-saved = Pagmetodo konservita
+confirmation-hint-payment-method-updated = Pagmetodo modifita
 confirmation-hint-credit-card-created = Karto konservita
 confirmation-hint-credit-card-updated = Karto ĝisdatigita
 confirmation-hint-passport-created = Pasporto konservita
@@ -21,6 +23,7 @@ confirmation-hint-send-to-device = Sendita!
 confirmation-hint-firefox-relay-mask-created = Nova masko kreita!
 confirmation-hint-firefox-relay-mask-reused = Jama masko reuzita!
 confirmation-hint-screenshot-copied = Ekrankopio kopiita!
+confirmation-hint-tab-group-saved = Grupo de langetoj konservita
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Farita
 default-browser-guidance-notification-v2-title = Fini la elekton de { -brand-short-name } kiel via ĉefa retumilo
 default-browser-guidance-notification-v2-body = En Agordoj, elektu "Difini kiel norma" por { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = En viaj agordoj elektu { -brand-short-name } kiel vian ĉefan retumilon
+default-browser-guidance-notification-auto-trigger-title = Malfermi viajn ligilojn per { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Elektu { -brand-short-name } kiel vian norman retumiloj en Agordoj.

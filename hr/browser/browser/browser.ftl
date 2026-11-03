@@ -732,6 +732,16 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pitaj
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Posljednji put posjećeno { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Zabilježeno { $date }
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -922,6 +932,12 @@ urlbar-view-context-menu-open-in-window2 = Otvori u novom prozoru
     .accesskey = v
 urlbar-view-context-menu-open-in-private-window2 = Otvori u novom privatnom prozoru
     .accesskey = n
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Preskoči ovaj izbornik kada se koristi gumb „tab”
+    .accesskey = s
 
 ## Labels shown above groups of urlbar results
 
@@ -1320,6 +1336,8 @@ filepicker-blocked-infobar = Tvoja je organizacija blokirala pristup lokalnim da
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } sad pretražuje kartice
+urlbar-addons-shortcut-moved-description = Za otvaranje proširenja i tema koristi { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Upravljaj prečacima
 urlbar-addons-shortcut-moved-dismiss = Razumijem
 
@@ -1404,6 +1422,9 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Izbriši neke ili sve svoje podatke pregledavanja
+    .tooltiptext = Izbriši neke ili sve svoje podatke pregledavanja
 fire-button-panel-heading = Izbrisati sve podatke pregledavanja?
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog

@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Atvērt
 pdfjs-print-button =
     .title = Drukāšana
 pdfjs-print-button-label = Drukāt
+pdfjs-save-button =
+    .title = Saglabāt
+pdfjs-save-button-label = Saglabāt
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Lejupielādēt
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Lejupielādēt
+pdfjs-bookmark-button =
+    .title = Pašreizējā lapa (Skatīt URL no pašreizējās lapas)
+pdfjs-bookmark-button-label = Pašreizējā lapa
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Teksta izvēles rīks
 pdfjs-cursor-hand-tool-button =
     .title = Aktivēt rokas rīku
 pdfjs-cursor-hand-tool-button-label = Rokas rīks
+pdfjs-scroll-page-button =
+    .title = Izmantojiet lapas ritināšanu
+pdfjs-scroll-page-button-label = Lapas ritināšana
 pdfjs-scroll-vertical-button =
     .title = Izmantot statenisko ritināšanu
 pdfjs-scroll-vertical-button-label = Stateniskā ritināšana
@@ -89,6 +104,10 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Dokumenta iestatījumi…
 pdfjs-document-properties-file-name = Datnes nosaukums:
 pdfjs-document-properties-file-size = Faila izmērs:
+# Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } baiti)
 pdfjs-document-properties-title = Nosaukums:
 pdfjs-document-properties-author = Autors:
 pdfjs-document-properties-subject = Tēma:

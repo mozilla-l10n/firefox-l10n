@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Laŭtlegi
+narrate-rate-input =
+    .aria-label = Elekti rapidon de laŭtlego inter -100 kaj 100, 0 estas la norma rapido.
+    .title = Rapido
 narrate-rate-slow =
     .title = Malrapidigi la rakonton
 narrate-rate-fast =
