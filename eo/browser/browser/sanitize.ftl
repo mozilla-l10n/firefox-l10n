@@ -98,6 +98,17 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Tempaj dosieroj ({ $amount } { $unit })
+    .accesskey = T
+item-cached-content2 =
+    .label = Tempaj dosieroj
+    .accesskey = T
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Tio ĉi helpas pli rapide ŝargi retejojn
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Provizore staplitaj dosieroj kaj paĝoj ({ $amount } { $unit })
     .accesskey = P
@@ -114,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Konservitaj informoj de formularoj
     .accesskey = f
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nomoj, retpoŝtajn adresojn kaj formularaj datumoj
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Retejaj permesoj kaj preferoj
 item-formdata-description = Viŝi aferojn kiel nomojn, retpoŝtajn adresojn kaj aliajn elementojn, kiujn vi tajpis en formularoj
 item-site-prefs-description = Tio ĉi remetas la originalajn permesojn kaj preferojn por retejoj
 data-section-label = Datumoj
@@ -123,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Datumoj de retejoj por malkonektita uzado
     .accesskey = D
+sanitize-everything-undo-warning2 = Tio ĉi ne estas malfarebla.
 sanitize-everything-undo-warning = Tiu ĉi ago ne estas malfarebla.
 window-close =
     .key = w
@@ -132,6 +148,14 @@ sanitize-button-ok2 =
     .label = Viŝi
 sanitize-button-ok-on-shutdown =
     .label = Konservi ŝanĝojn
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Forigi
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Fermi
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
