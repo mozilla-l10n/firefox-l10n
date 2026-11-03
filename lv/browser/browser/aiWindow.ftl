@@ -165,6 +165,21 @@ aiwindow-firstrun-memories-no-create = Sapratu. { -smart-window-brand-name } nev
 aiwindow-firstrun-default-title = Padariet { -smart-window-brand-name } par savu iecienītāko
 aiwindow-firstrun-default-subtitle = Pārlūkojiet, meklējiet un uzdodiet jautājumus vienuviet. Jūs joprojām varat atvērt privāto un klasiska loga versiju, kad vien vēlaties.
 aiwindow-firstrun-default-checkbox-label = Vienmēr atvērt { -brand-product-name } { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Jebkurā laikā pārslēdziet iestatījumus
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Jautāt
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Atmiņas ieslēgtas
+    .tooltiptext = Izmantojiet atmiņas atbildēs, ja tās ir noderīgas
+aiwindow-memories-off =
+    .aria-label = Atmiņas izslēgtas
+    .tooltiptext = Neizmantojiet atmiņas atbildēs
 
 ## New Chat Button
 
@@ -206,6 +221,10 @@ aiwindow-fullpage-chat-history =
 aiwindow-fullpage-more =
     .label = Vairāk
     .title = Vairāk
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Sinhronizētie dati paliks jūsu kontā. Atvērt { -smart-window-brand-name(plural-form: "true") } pārslēgsies uz klasisko logu.
 
 ## Fullpage Footer Actions
 
