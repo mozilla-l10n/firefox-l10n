@@ -188,11 +188,11 @@ pdfjs-printing-not-ready = Uzmanību: PDF nav pilnībā ielādēts drukāšanai.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-current-outline-item-button =
-    .title = Atrast pašreizējo kontūras elementu
+pdfjs-current-outline-item-button-label = Pašreizējais satura rādītāja vienums
 pdfjs-findbar-button =
     .title = Meklēt dokumentā
 pdfjs-findbar-button-label = Meklēt
+pdfjs-additional-layers = Papildu slāņi
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -200,6 +200,15 @@ pdfjs-findbar-button-label = Meklēt
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Lapas { $page } sīktēls
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Atlasiet lapu { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = { $page }. lpp. no { $total }
 
 ## Find panel button title and messages
 
@@ -218,6 +227,23 @@ pdfjs-find-match-diacritics-checkbox-label = Diakritisko zīmju atbilstība
 pdfjs-find-entire-word-checkbox-label = Veselus vārdus
 pdfjs-find-reached-top = Sasniegts dokumenta sākums, turpinām no beigām
 pdfjs-find-reached-bottom = Sasniegtas dokumenta beigas, turpinām no sākuma
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } no { $total } atbilstība
+        [zero] { $current } no { $total } atbilstībām
+       *[other] { $current } no { $total } atbilstībām
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Vairāk nekā { $limit } atbilstība
+        [zero] Vairāk kā { $limit } atbilstības
+       *[other] Vairāk kā { $limit } atbilstības
+    }
 pdfjs-find-not-found = Vārdkopa nav atrasta
 
 ## Predefined zoom values
@@ -229,6 +255,13 @@ pdfjs-page-scale-actual = Patiesais izmērs
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
+
+## PDF page
+
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = { $lapa } lapa
 
 ## Loading indicator messages
 
@@ -247,6 +280,9 @@ pdfjs-rendering-error = Attēlojot lapu radās kļūda
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [{ $type } anotācija]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -258,9 +294,28 @@ pdfjs-web-fonts-disabled = Tīmekļa fonti nav aktivizēti: Nevar iegult PDF fon
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Teksts
+pdfjs-editor-color-picker-free-text-input =
+    .title = Mainīt teksta krāsu
+pdfjs-editor-free-text-button-label = Teksts
+pdfjs-editor-ink-button =
+    .title = Zīmēt
+pdfjs-editor-color-picker-ink-input =
+    .title = Mainīt zīmējuma krāsu
+pdfjs-editor-ink-button-label = Zīmēt
 pdfjs-editor-stamp-button =
     .title = Pievienot vai labot attēlus
 pdfjs-editor-stamp-button-label = Pievienot vai labot attēlus
+pdfjs-editor-highlight-button =
+    .title = Izcelt
+pdfjs-highlight-floating-button1 =
+    .aria-label = Izcelt
+    .title = Izcelt
+pdfjs-highlight-floating-button-label = Izcelt
+pdfjs-comment-floating-button =
+    .aria-label = Komentēt
+    .title = Komentēt
 pdfjs-editor-signature-button =
     .title = Pievienot parakstu
 pdfjs-editor-signature-button-label = Pievienot parakstu
