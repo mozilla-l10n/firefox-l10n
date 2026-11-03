@@ -142,6 +142,12 @@ permissions-site-notification-desc = Følgjande nettsider har bedt om å få sen
 permissions-site-notification-disable-label =
     .label = Blokkere nye førespurnadar som ber om løyve til å sende varsel
 permissions-site-notification-disable-desc = Dette hindrar nettstadar som ikkje er førte opp ovanfor, frå å be om løyve til å sende varsel. Blokkering av varsel kan øydeleggje nokre nettstadfunksjonar.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Tillat nettstadvarsel når { -brand-short-name } er attlaten
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Varslingsinnstillingane for operativsystemet gjeld òg.
 
 ## Site Permissions - Location
 
@@ -170,6 +176,7 @@ permissions-site-xr-disable-desc = Dette findrar nettstadar som ikkje er oppfør
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Innstillingar – Blokkerte nettstadar for applenker
+permissions-site-app-links-desc = Desse nettstadane er blokkerte frå å be om å opne applenker, til dømes e-postlenker (mailto:). Fjern ein nettstad for å tillate at det spør igjen.
 
 ## Site Permissions - Camera
 

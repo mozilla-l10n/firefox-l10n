@@ -629,6 +629,8 @@ onboarding-carousel-nav =
 welcome-back-onboarding-title = Nye funksjonar som er utvikla for å hjelpe deg med å gjere meir
 welcome-back-onboarding-primary-button-label = Start nettlesinga
 welcome-back-onboarding-secondary-button-label = Sjå kva anna som er nytt
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Rydd opp faner
 welcome-back-onboarding-pill-label-vpn = Innebygd VPN
 welcome-back-onboarding-pill-label-pdf = PDF-verktøy
 welcome-back-onboarding-card-label-tabs = Rydd opp med vertikale faner og grupper
