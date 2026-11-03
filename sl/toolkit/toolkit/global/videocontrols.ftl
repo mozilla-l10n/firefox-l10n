@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Zapis ali vrsta MIME videa nista podprta
 videocontrols-error-no-source = Ni bilo mogoče najti videa s podprtim zapisom ali vrsto MIME.
 videocontrols-error-generic = Predvajanje videa prekinjeno zaradi neznane napake.
 videocontrols-status-picture-in-picture = Ta videoposnetek se predvaja v načinu Slika v sliki.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Videoposnetek se predvaja kot slika v sliki
 # This message shows the current position and total video duration
 #
 # Variables:

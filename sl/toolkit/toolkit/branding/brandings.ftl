@@ -37,6 +37,15 @@
         [orodnik] Fakespotom
        *[imenovalnik] Fakespot
     }
+-firefox-enterprise-brand-name =
+    { $sklon ->
+        [rodilnik] Firefoxa za podjetja
+        [dajalnik] Firefoxu za podjetja
+        [tozilnik] Firefox za podjetja
+        [mestnik] Firefoxu za podjetja
+        [orodnik] Firefoxom za podjetja
+       *[imenovalnik] Firefox za podjetja
+    }
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name =

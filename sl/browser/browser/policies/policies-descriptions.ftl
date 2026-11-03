@@ -76,6 +76,7 @@ policy-DisableSecurityBypass = Uporabniku prepreči, da zaobide določena varnos
 policy-DisableSetAsDesktopBackground = Onemogoči menijski ukaz Nastavi kot ozadje namizja za slike.
 policy-DisableSystemAddonUpdate = Prepreči brskalniku nameščanje in posodabljanje sistemskih dodatkov.
 policy-DisableTelemetry = Izključi telemetrijo.
+policy-DisableThirdPartyModuleBlocking2 = Uporabniku onemogoči, da bi na strani Podatki o modulih tretjih ponudnikov (about:third-party) blokiral module tretjih ponudnikov, vstavljenih v proces { -brand-short-name(sklon: "rodilnik") }.
 policy-DisableThirdPartyModuleBlocking = Uporabniku prepreči zavračanje modulov tretjih ponudnikov, ki se vstavljajo v proces { -brand-short-name(sklon: "rodilnik") }.
 policy-DisplayBookmarksToolbar = Privzeto prikaži orodno vrstico zaznamkov.
 policy-DisplayMenuBar = Privzeto prikaži vrstico z menijem.
@@ -127,6 +128,7 @@ policy-OfferToSaveLogins = Vsili ponujanje shranjevanja prijav in gesel v { -bra
 policy-OfferToSaveLoginsDefault = Nastavi privzeto vrednost, ki dovoljuje shranjevanje prijav in gesel v { -brand-short-name }u. Možna je tako vrednost "true" kot "false".
 policy-OverrideFirstRunPage = Preglasi stran prvega zagona. Če želite onemogočiti prikaz strani prvega zagona, nastavite pravilnik na prazno vrednost.
 policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po posodobitvi. Če želite onemogočiti prikaz strani po posodobitvi, nastavite pravilnik na prazno vrednost.
+policy-PasswordManagerEnabled2 = Omogoči ali onemogoči shranjevanje gesel v upravitelja gesel. Če je shranjevanje onemogočeno, je nedostopna tudi stran Gesla (about:logins).
 policy-PasswordManagerEnabled = Omogoči shranjevanje gesel v upravitelja gesel.
 policy-PasswordManagerExceptions = { -brand-short-name(sklon: "dajalnik") } prepreči shranjevanje gesel za določena spletna mesta.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -135,7 +137,7 @@ policy-PostQuantumKeyAgreementEnabled = Omogoči post-kvanten dogovor o ključu 
 # PDF.js and PDF should not be translated
 policy-PDFjs = Onemogoči ali nastavi PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
 policy-Permissions2 = Nastavi dovoljenja za kamero, mikrofon, lokacijo, obvestila in samodejno predvajanje.
-policy-PictureInPicture = Omogoči ali onemogoči sliko v sliki
+policy-PictureInPicture = Omogoči ali onemogoči sliko v sliki.
 policy-PopupBlocking2 = Določenim spletnim mestom dovoli, da prikazujejo pojavna okna in da jih preusmerjajo okvirji tretjih strani.
 policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
 policy-PrivateBrowsingModeAvailability = Nastavi razpoložljivost zasebnega brskanja.
@@ -145,6 +147,7 @@ policy-RelaunchRequired = Zahtevaj občasen ponovni zagon { -brand-short-name(sk
 policy-RequestedLocales = Nastavi vrstni red zahtevanih jezikov za program.
 policy-SanitizeOnShutdown2 = Ob izhodu počisti podatke brskanja.
 policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lahko še vedno prilagodi.
+policy-SearchEngines2 = Nastavi iskalnike.
 policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Omogoči ali onemogoči predloge iskanja.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
