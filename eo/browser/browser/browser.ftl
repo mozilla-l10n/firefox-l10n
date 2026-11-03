@@ -451,6 +451,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Montri redaktilon dum konservo
     .accesskey = M
+bookmark-panel-save-button2 =
+    .label = Konservi
+    .accesskey = K
 bookmark-panel-save-button =
     .label = Konservi
 # Width of the bookmark panel.
