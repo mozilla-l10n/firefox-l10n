@@ -22,7 +22,7 @@ restart-required-fix-question = Das ist wirklich ärgerlich! Arbeitet { -brand-s
 restart-required-fix-answer = Ja. Uns ist bewusst, dass dies störend ist. Wir arbeiten an einer Lösung, damit es nicht mehr vorkommt. Den aktuellen Stand finden Sie im Bugzilla-Fehler 2072739.
 restart-button-label2 = Neustart
 # Expands the "More details" section below the buttons.
-restart-required-see-more-button = Mehr erfahren
+restart-required-see-more-button = Mehr anzeigen
 # Collapses the "More details" section below the buttons.
 restart-required-see-less-button = Weniger anzeigen
 restart-required-heading = Zum Weiterverwenden { -brand-short-name } neu starten
