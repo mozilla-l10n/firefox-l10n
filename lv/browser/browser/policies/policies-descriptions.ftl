@@ -61,7 +61,7 @@ policy-DisableProfileImport = Izslēgt izvēlnes vienumu datu importēšanai no 
 policy-DisableProfileRefresh2 = Atspēo pogu “Atsvaidzināt { -brand-short-name }” sarežģījumu novēršanas informācijā (about:support) un support.mozilla.org, kā arī uzvednē, kas piedāvā atsvaidzināt { -brand-short-name }, kad tas nav kādu laiku izmantots.
 policy-DisableProfileRefresh = Izslēgt { -brand-short-name } atsvaidzināšanas pogu lapā about:support
 policy-DisableSafeMode2 = Atspējot palaišanu no jauna sarežģījumu novēršanas režīmā (drošajā režīmā).
-policy-DisableSafeMode = Deaktivē iespēju pārstartēties drošajā režīmā. Piezīme: Shift taustiņa lietošanu, lai ieslēgtos drošajā režīmā ir iespējams atslēgt vienīgi Windows platformā.
+policy-DisableSafeMode = Atspējo iespēju palaist no jauna drošajā režīmā. Piezīme: Shift taustiņa lietošanu, lai ieslēgtos drošajā režīmā, ir iespējams atspējot tikai Windows ar kopu pamatnostādni.
 policy-DisableSecurityBypass = Liedz lietotājam apiet noteiktus drošības brīdinājumus.
 policy-DisableSetAsDesktopBackground = Atspējot izvēlnes iespēju "Iestatīt kā darbvirsmas fona attēlu" attēliem.
 policy-DisableSystemAddonUpdate = Liedz pārlūkam atjaunināt un uzstādīt sistēmas papildinājumus.
@@ -142,7 +142,7 @@ policy-SSLVersionMax = Iestatīt maksimālo SSL versiju.
 policy-SSLVersionMin = Iestatīt minimālo SSL versiju.
 policy-StartDownloadsInTempDirectory = Piespiest lejupielādes sākt lokālā pagaidu vietā, nevis noklusējuma lejupielāžu direktorijā.
 policy-SupportMenu = Palīdzības izvēlnē pievienot pielāgotu atbalsta izvēlnes vienumu.
-policy-TranslateEnabled = Ieslēgt vai izslēgt tīmekļa lapas tulkošanu.
+policy-TranslateEnabled = Iespējot vai atspējot tīmekļvietņu tulkošanu.
 policy-UserMessaging = Nerādīt lietotājam noteiktus ziņojumus.
 policy-UseSystemPrintDialog = Drukāt, izmantojot sistēmas drukāšanas dialoglodziņu.
 # “format” refers to the format used for the value of this policy.

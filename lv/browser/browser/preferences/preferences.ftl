@@ -81,10 +81,10 @@ applications-setting-new-file-types =
 
 feature-enable-requires-restart = { -brand-short-name } ir jāpalaiž no jauna, lai iespējotu šo iespēju.
 feature-disable-requires-restart = { -brand-short-name } ir jāpalaiž no jauna, lai atspējotu šo iespēju.
-should-restart-title = Pārstartēt { -brand-short-name }
-should-restart-ok = Pārstartēt { -brand-short-name } tagad
+should-restart-title = Palaist no jauna { -brand-short-name }
+should-restart-ok = Palaist no jauna { -brand-short-name } tagad
 cancel-no-restart-button = Atcelt
-restart-later = Pārstartēt vēlāk
+restart-later = Palaist no jauna vēlāk
 
 ## Extension Control Notifications
 ##
@@ -332,7 +332,7 @@ choose-browser-language-description = Izvēlies valodu, kurā { -brand-short-nam
 manage-browser-languages-button =
     .label = Iestatīt izvēles...
     .accesskey = l
-confirm-browser-language-change-description = Pārstartēt { -brand-short-name }, lai pielietotu izmaiņas
+confirm-browser-language-change-description = Palaist no jauna { -brand-short-name }, lai pielietotu šīs izmaiņas
 confirm-browser-language-change-button = Pielietot un parstartēt
 browser-language-install-error =
     .message = { -brand-short-name } pašlaik nevar atjaunināt valodas. Pārbaudiet, vai ir izveidots savienojums ar internetu un mēģiniet vēlreiz.

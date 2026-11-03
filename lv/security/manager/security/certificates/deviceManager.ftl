@@ -6,8 +6,8 @@
 ## Strings used for device manager
 
 devmgr-window =
-    .title = Ierīču pārvaldnieks
     .style = min-width: 67em; min-height: 32em;
+    .title = Ierīču pārvaldnieks
 devmgr-devlist =
     .label = Drošības moduļi un ierīces
 devmgr-header-details =
@@ -86,7 +86,7 @@ devinfo-label =
     .label = Iezīme
 devinfo-serialnum =
     .label = Sērijas numurs
-unable-to-toggle-fips = Nevar pārslēgt FIPS režīmu drošības ierīcei. Iesakām aizvērt un pārstartēt programmu.
+unable-to-toggle-fips = Nevar pārslēgt FIPS režīmu drošības ierīcei. Iesakām aizvērt šo lietotni un palaist no jauna.
 load-pk11-module-file-picker-title = Izvēlieties ielādējamo PKCS#11 ierīci
 # Load Module Dialog
 load-module-help-empty-module-name =

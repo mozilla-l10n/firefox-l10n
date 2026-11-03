@@ -14,11 +14,8 @@ crashreporter-submit-success = Ziņojums sekmīgi nosūtīts!
 crashreporter-submit-failure = Gadījās problēma, nosūtot ziņojumu.
 crashreporter-resubmit-status = Atkārtoti nosūta iepriekš nenosūtītos ziņojumus...
 crashreporter-button-quit = Aizvērt { -brand-short-name }
-crashreporter-button-restart = Pārstartēt { -brand-short-name }
+crashreporter-button-restart = Palaist { -brand-short-name } no jauna
 crashreporter-button-ok = Labi
 crashreporter-button-close = Aizvērt
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Avārijas ID: { $id }
-
-# Error strings
-

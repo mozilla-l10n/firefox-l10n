@@ -76,7 +76,7 @@ detail-show-preferences =
 detail-rating =
     .value = Vērtējums
 addon-restart-now =
-    .label = Pārstartēt
+    .label = Palaist no jauna uzreiz
 disabled-unsigned-heading =
     .value = Daži papildinājumi ir deaktivēti
 disabled-unsigned-description = Šos papildinājumus nevar pārbaudīt izmantošanai ar { -brand-short-name }. Jūs varat <label data-l10n-name="find-addons">atrast aizvietotājus</label> vai palūgt to izstrādātājam apstiprināt tos.
