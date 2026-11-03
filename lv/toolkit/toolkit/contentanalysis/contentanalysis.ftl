@@ -26,7 +26,7 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } pārskata jūsu ielīmēto informāciju, salīdzinot to ar jūsu organizācijas datu nostājām. Tas var aizņemt kādu brīdi.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } pārskata jūsu kopēto informāciju, salīdzinot to ar jūsu organizācijas datu nostājām. Tas var aizņemt kādu brīdi.
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } pārskata kopēto informāciju un salīdzina tās atbilstību apvienības datu pamatnostādnēm. Tas var aizņemt kādu brīdi.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
