@@ -139,6 +139,10 @@ fp-certerror-invalid-cert-why-dangerous = Ejeren af { $hostname } har ikke sat w
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $now (Date) - The current datetime, to be formatted as a date
 fp-certerror-clock-skew-intro = Din computer tror, at { DATETIME($now, dateStyle: "medium") } er den korrekte dato og tid, hvilket forhindrer { -brand-short-name } i at oprette en sikker forbindelse. For at besøge <strong>{ $hostname }</strong> skal du gå til dine systemindstillinger og opdatere din computers ur til den korrekte dato, tidszone og det korrekte klokkeslæt. Opdater derefter siden.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Gå til dine systemindstillinger og opdater din computers ur til den korrekte dato, tidszone og det korrekte klokkeslæt. Din computer tror, det er { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

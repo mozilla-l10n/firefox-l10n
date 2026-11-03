@@ -27,8 +27,10 @@ ipprotection-feature-introduction-title = Vi introducerer VPN, direkte i din bro
 ipprotection-feature-introduction-title-1 = Prøv den indbyggede VPN i { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data.
 ipprotection-feature-introduction-title-privacy = Tilføj yderligere et lag af privatlivsbeskyttelse
+ipprotection-feature-introduction-title-privacy-1 = Tilføj yderligere et lag af privatlivsbeskyttelse med indbygget VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem flere placeringer for at beskytte dit privatliv, når du browser.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">et bedre beskyttet privatliv</a> ved at vælge mellem flere placeringer, der skjuler hvor du befinder dig.
+ipprotection-feature-introduction-title-summer-promo = Skal du ud og rejse? Tag beskyttelse af privatliv med dig.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data - selv om du befinder dig i et privat vindue.
 ipprotection-feature-introduction-description-private-browsing = Brug nettet med yderligere beskyttelse ved at skjule din placering, selv når du er i et privat vindue.
 ipprotection-feature-introduction-title-captive-portal = Bruger du et offentligt wi-fi? Prøv den indbyggede VPN i { -brand-product-name }.
@@ -50,6 +52,7 @@ ipprotection-feature-introduction-button-get-started = Kom i gang
 
 ## Summer promo offramp callout buttons
 
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Åben VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Få { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Afvis
 
@@ -80,6 +83,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Afvis
 
 ipprotection-holiday-promo-primary-button = Åben VPN
 ipprotection-holiday-promo-secondary-button = Afvis
+ipprotection-holiday-promo-title-1 = Få ubegrænset VPN indtil 31. januar
 
 ## Panel
 
@@ -88,6 +92,7 @@ unauthenticated-vpn-title = Prøv den indbyggede VPN i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul din placering,</a> når du er på nettet med { -brand-product-name }.
 unauthenticated-private-location-message = Hjælper med at <a data-l10n-name="learn-more-vpn">skjule din placering</a> i { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Vælg mellem flere placeringer eller lad { -brand-product-name } vælge den hurtigste.
+unauthenticated-site-rules-message = Kontroller, hvilke websteder der bruger VPN, og hvilke der ikke gør.
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved at fortsætte accepterer du vores <a data-l10n-name="vpn-terms-of-service">tjenestevilkår</a> og <a data-l10n-name="vpn-privacy-notice">privatlivserklæring</a>.
 site-exclusion-toggle-enabled-1 =
@@ -105,6 +110,12 @@ site-rules-status-heading = Din regel
 site-rules-description-exclusion = VPN er slået fra for dette websted
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN er slået til for dette websted
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Slå altid VPN til for { $website }?
+    .message = Opdater dine regler når som helst i indstillingerne.
 ipprotection-settings-link =
     .label = Indstillinger
 
@@ -179,6 +190,8 @@ ipprotection-connection-status-network-error-title-1 = Kontroller din internetfo
 ipprotection-connection-status-network-error-description = Opret forbindelse til internettet, og prøv så at slå VPN til.
 ipprotection-connection-status-blocked-error-title-1 = VPN er ikke tilgængelig
     .aria-label = VPN er ikke tilgængelig
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Lokale love og restriktioner begrænser, hvor du kan bruge VPN. <a data-l10n-name="learn-more-link">Læs mere</a>
 ipprotection-connection-status-blocked-error-description = Lokale love forhindrer os i at tilbyde VPN-tjenester i denne region. <a data-l10n-name="learn-more-link">Læs mere</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -196,6 +209,7 @@ ipprotection-message-continuous-onboarding-intro = Slå VPN til for at skjule di
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Indstil VPN til at være aktiveret</a>, hver gang du åbner { -brand-short-name } for at tilføje et ekstra lag af beskyttelse.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker, hvilke websteder du har indstillet til at bruge VPN. Du kan opdatere listen med websteder i <a data-l10n-name="setting-link">indstillingerne</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er slået fra for dette websted
+confirmation-hint-ipprotection-navigated-to-included-site = VPN er slået til for dette websted
 ipprotection-open-button = Åbn { -brand-product-name }
 ipprotection-connection-status-generic-error-title-1 = Kunne ikke oprette forbindelse til VPN
     .aria-label = Kunne ikke oprette forbindelse til VPN
@@ -229,6 +243,11 @@ ip-protection-learn-more = Læs mere
 ip-protection-not-opted-in-4 =
     .heading = Prøv den indbyggede VPN i { -brand-short-name }
     .message = Brug nettet med yderligere beskyttelse ved at skjule din placering.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Klar til at prøve den?
+    .message = Få { $maxUsage } GB gratis hver måned, og vælg hvilke websteder der bruger VPN.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -244,6 +263,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Angiv regler for websteder, der kræver ekstra beskyttelse af privatliv eller VPN slået fra.
     .label = Håndter VPN-regler
+ip-protection-site-rules-list-section-1 =
+    .description = Angiv regler for at slå VPN til eller fra automatisk.
+    .label = Regler for websteder
 ip-protection-site-rules-add-button =
     .label = Angiv regel
 ip-protection-site-rules-delete-all-button =
@@ -396,5 +418,7 @@ vpn-error-page-keep-browsing = Fortsæt med at browse i denne session
 vpn-error-page-new-session = Start en ny session
 vpn-paused-alert-close-tabs-button = Luk alle faneblade
 vpn-paused-alert-continue-wo-vpn-button = Fortsæt uden VPN
+vpn-error-alert-title-1 = VPN og regler virker ikke lige nu.
+vpn-error-alert-body-1 = At slå VPN til og fra kan muligvis løse problemet.
 vpn-error-alert-title = VPN virker ikke lige nu.
 vpn-error-alert-body = Prøv igen senere.

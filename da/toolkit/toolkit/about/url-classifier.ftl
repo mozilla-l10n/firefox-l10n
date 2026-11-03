@@ -37,6 +37,9 @@ url-classifier-cache-prefix = Præfiks
 url-classifier-cache-ncache-expiry = Udløbstidspunkt negativ cache
 url-classifier-cache-fullhash = Komplet hash
 url-classifier-cache-pcache-expiry = Udløbstidspunkt positiv cache
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultater
 url-classifier-content-classifier-pbm = Privat browsing

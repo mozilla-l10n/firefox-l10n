@@ -587,6 +587,20 @@ newtab-travel-menu-learn-more = Pli da informo
 # travel search. “Kayak” is a brand name and should not be translated.
 newtab-travel-menu-powered-by-kayak = Kun teknologio de Kayak
 
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitero
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Malfermi soliteran menuon
+    .title = Malfermi soliteran menuon
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Pli da informo
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -803,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Estas nenio alia.
 newtab-discovery-empty-section-topstories-content = Kontrolu poste por pli da artikoloj.
 newtab-discovery-empty-section-topstories-try-again-button = Klopodu denove
 newtab-discovery-empty-section-topstories-loading = Ŝargado…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Neniu artikolo estas havebla en tiu ĉi momento
+newtab-discovery-empty-section-topstories-unavailable-body = Kontrolu vian retaliron aŭ provu denove poste.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Fuŝ! Ni preskaŭ tute ŝargis tiun ĉi sekcion, sed tamen ne.
 
@@ -893,6 +910,15 @@ newtab-custom-widget-search-toggle =
     .label = Serĉi
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopo
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Vojaĝo
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitero
 newtab-custom-widget-section-title = Komponantoj
 newtab-custom-widget-section-toggle =
     .label = Komponantoj
@@ -1091,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = Vizaĝo de vulpo je la maldekstra rando sur
 newtab-wallpaper-firefox-peak-light = Vizaĝo de vulpo je la dekstra rando sur hela fono
 newtab-wallpaper-firefox-sky-dark = Malhele purpuraj montetoj sub nokta ĉielo
 newtab-wallpaper-firefox-sky-light = Helaj montetoj sub paŝtela ĉielo
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = La emblemo de Wrexham AFC sur ruĝa fono
 
 ## Firefox
 
@@ -1123,6 +1152,14 @@ newtab-weather-menu-change-location = Ŝanĝi lokon
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Serĉi lokon
     .placeholder = Serĉi lokon
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Reen
+    .title = Reen
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Sugestoj por pozicio
 newtab-weather-cancel-input =
     .aria-label = Nuligi
     .title = Nuligi
@@ -1526,6 +1563,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Malfermi menuon pri krucvortoj
     .title = Malfermi menuon pri krucvortoj
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Kun teknologio de Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1841,6 +1881,10 @@ newtab-clock-widget-menu-edit = Modifi horloĝojn
 newtab-clock-widget-menu-switch-to-12h = Ŝanĝi al 12 hora formo
 newtab-clock-widget-menu-switch-to-24h = Ŝanĝi al 24 hora formo
 newtab-clock-widget-label-your-clocks = Viaj horloĝoj
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Reen
+    .title = Reen
 newtab-clock-widget-search-location-input2 =
     .aria-label = Serĉi urbon
     .placeholder = Serĉi urbon

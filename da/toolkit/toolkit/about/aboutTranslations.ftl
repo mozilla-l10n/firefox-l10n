@@ -11,12 +11,22 @@ about-translations-learn-more-link = Læs mere
 about-translations-unsupported-info-message-2 =
     .heading = Oversættelse er ikke tilgængelig på denne enhed
     .message = Prøv at skifte til en anden enhed.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Oversættelser er ikke tilgængelige for din organisation
+    .message = Dette er en politik, der er fastsat af din administrator.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Fjern blokeringen af denne funktion for at oversætte tekst
+    .message = Det ser ud til, at du har blokeret denne funktion i AI-indstillingerne. Fjern blokeringen når som helst for at begynde at bruge den.
 about-translations-feature-blocked-unblock-button = Fjern blokering
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Kunne ikke indlæse sprog
     .message = Kontroller din internetforbindelse, og prøv igen.
 about-translations-language-load-error-button = Prøv igen
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Der var et problem med at oversættelse
 about-translations-translation-error-subtext = Prøv igen.
 about-translations-translation-error-button = Prøv igen
 # An informational message displayed when the detected language is not supported.

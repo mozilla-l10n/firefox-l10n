@@ -96,6 +96,7 @@ permissions-exceptions-cookie-desc = Du kan angive, hvilke websteder der altid e
 permissions-exceptions-shutdown-clearing-window =
     .style = { permissions-window2.style }
     .title = Undtagelser - Ryd historik ved lukning
+permissions-exceptions-shutdown-clearing-desc = Du kan angive, hvilke websteder der skal beholde deres data, når { -brand-short-name } rydder historikken ved lukning. Indtast den nøjagtige adresse på webstedet, du ønsker at håndtere, og klik derefter på Tillad.
 
 ## Exceptions - HTTPS-Only Mode
 

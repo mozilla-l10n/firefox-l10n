@@ -493,3 +493,17 @@ refresh-profile-infobar-button = Nulstil { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Åbn tidligere faneblade?</strong> Du kan gendanne din tidligere session fra programmenuen i { -brand-short-name } <img data-l10n-name="icon"/> under Historik.
 restore-session-startup-suggestion-button = Vis mig hvordan
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Åbn dine foretrukne websteder som en app
+taskbar-tabs-spotlight-subtitle = Et enkelt klik åbner dine mest brugte websteder i et strømlinet vindue med alle beskyttelsesfunktionerne fra { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Vælg for at føje til din proceslinje
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Tilføj
+taskbar-tabs-spotlight-done-button = Færdig

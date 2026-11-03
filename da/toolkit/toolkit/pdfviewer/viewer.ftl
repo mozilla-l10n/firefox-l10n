@@ -153,6 +153,16 @@ pdfjs-document-properties-linearized = Hurtig web-visning:
 pdfjs-document-properties-linearized-yes = Ja
 pdfjs-document-properties-linearized-no = Nej
 pdfjs-document-properties-close-button = Luk
+pdfjs-digital-signature-properties-view-certificate = Vis certifikat
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Årsag: { $reason }
 
 ## Print
 

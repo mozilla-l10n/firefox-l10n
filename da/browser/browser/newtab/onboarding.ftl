@@ -549,6 +549,9 @@ onboarding-refresh-gratitude-title = { -brand-short-name } passer på dig
 
 onboarding-refresh-tou-default = Åbn alle links med { -brand-short-name }
 onboarding-refresh-primary-button = Fortsæt
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Det forbliver dine. { -brand-product-name } sælger aldrig personlige data.
 onboarding-refresh-fro-skip-button = Spring over
 
 ## Smart Window ToU modal

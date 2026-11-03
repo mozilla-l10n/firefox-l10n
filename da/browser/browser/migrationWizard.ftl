@@ -197,6 +197,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Færdig
 migration-safari-password-import-header = Importer adgangskoder fra Safari
+migration-safari-password-import-post-sequoia-step1 = Åbn appen <a data-l10n-name="macos-passwords-app">Adgangskoder</a> på din Mac
+migration-safari-password-import-post-sequoia-step2 = Fra menulinjen øverst på skærmen skal du vælge Filer > Eksporter alle adgangskoder til fil…
 migration-safari-password-import-post-sequoia-step3 = Gem filen
 migration-safari-password-import-post-sequoia-step4 = Vælg den fil, du gemte
 migration-safari-password-import-steps-header = For at importere adgangskoder fra Safari:

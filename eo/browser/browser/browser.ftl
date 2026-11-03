@@ -253,6 +253,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Alglui kaj iri tien
     .accesskey = A
+urlbar-menuitem-paste-and-search =
+    .label = Alglui kaj serĉi
+    .accesskey = s
 
 ## Searchbar context menu
 
@@ -1358,6 +1361,9 @@ tabs-toolbar =
     .aria-label = Langetoj de retumilo
 tabs-toolbar-new-tab =
     .label = Nova langeto
+tabs-toolbar-list-all-tabs-2 =
+    .label = Serĉi kaj administri langetojn
+    .tooltiptext = Serĉi kaj administri langetojn
 tabs-toolbar-list-all-tabs =
     .label = Listigi ĉiujn langetojn
     .tooltiptext = Listigi ĉiujn langetojn
@@ -1375,6 +1381,17 @@ restore-session-startup-suggestion-button = Montri al mi kiel fari tion
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Via organizo blokis aliron al lokaj dosieroj en tiu ĉi komputilo.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = Ekde nun { $searchTabsShortcut } serĉas langetojn
+urlbar-addons-shortcut-moved-description = Por malfermi etendaĵojn kaj etosojn, uzu { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Administri ŝparvojojn
+urlbar-addons-shortcut-moved-dismiss = Mi komprenis
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

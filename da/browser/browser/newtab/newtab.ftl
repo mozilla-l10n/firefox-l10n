@@ -258,6 +258,9 @@ newtab-stocks-search-button =
     .aria-label = Søg efter navn eller symbol
     .label = Søg
     .title = Søg efter navn eller symbol
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Begynd at holde øje med aktier, der er vigtige for dig
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -332,6 +335,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Søgeresultater
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Søg efter symboler eller virksomheder, du vil føje til din overvågningsliste
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -431,12 +437,20 @@ newtab-recent-searches-row-remove =
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søgning
 
+## Recent searches widget — empty states
+
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Populære søgninger er ikke tilgængelige lige nu.
+
 ## Strings for the Horoscopes widget
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskoper
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Lær mere
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Leveret af Yahoo
 
 ## Strings for the Travel widget
 
@@ -445,6 +459,9 @@ newtab-horoscopes-menu-learn-more = Lær mere
 newtab-travel-widget-title = Rejser
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Læs mere
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Leveret af Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -671,6 +688,9 @@ newtab-discovery-empty-section-topstories-header = Du har læst det hele!
 newtab-discovery-empty-section-topstories-content = Kom tilbage senere for at se flere historier.
 newtab-discovery-empty-section-topstories-try-again-button = Prøv igen
 newtab-discovery-empty-section-topstories-loading = Indlæser…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Historier er ikke tilgængelige lige nu
+newtab-discovery-empty-section-topstories-unavailable-body = Kontroller din forbindelse eller prøv igen senere.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at indlæse afsnittet.
 
@@ -976,6 +996,14 @@ newtab-weather-menu-change-location = Skift sted
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søg efter sted
     .placeholder = Søg efter sted
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Tilbage
+    .title = Tilbage
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Placeringsforslag
 newtab-weather-cancel-input =
     .aria-label = Annuller
     .title = Annuller
@@ -1351,6 +1379,12 @@ newtab-promo-card-dismiss-button =
     .aria-label = Afvis
     .title = Afvis
 
+## Crossword widget
+
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Leveret af Particle
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-pause-aria =
@@ -1633,6 +1667,10 @@ newtab-clock-widget-menu-edit = Rediger ure
 newtab-clock-widget-menu-switch-to-12h = Skift til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Skift til 24-timers format
 newtab-clock-widget-label-your-clocks = Dine ure
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Tilbage
+    .title = Tilbage
 newtab-clock-widget-search-location-input2 =
     .aria-label = Søg efter en by
     .placeholder = Søg efter en by

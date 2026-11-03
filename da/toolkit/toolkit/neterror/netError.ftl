@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = Prøv at oprette forbinde
 neterror-dns-not-found-offline-hint-modem = Kontroller dit modem eller din router.
 neterror-dns-not-found-offline-hint-reconnect = Afbryd forbindelsen til wi-fi og opret den igen
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Intet accepterer forbindelser på port { $port }. Kontroller, at din lokale server kører.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Hvis den kører, så kontroller at den bruger port { $port }.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Kontroller, at serveren accepterer forbindelser på denne adresse. Nogle servere lytter kun på [::1] eller kun på 127.0.0.1.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -125,6 +138,9 @@ neterror-dns-not-found-trr-unknown-problem = Uventet problem.
 
 neterror-file-not-found-filename = Undersøg filnavnet for store bogstaver eller andre tastefejl.
 neterror-file-not-found-moved = Undersøg om filen er blevet flyttet, omdøbt eller slettet
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } kan ikke finde filen på <strong>{ $path }</strong>. Enten findes den ikke, eller også er stien forkert.
 neterror-access-denied = Den kan være blevet slettet, flyttet, eller tilladelserne for filen kan forhindre adgang.
 neterror-unknown-protocol = Du er måske nødt til at installere andet software for at åbne denne adresse.
 neterror-redirect-loop = Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse af cookies er blevet nægtet.

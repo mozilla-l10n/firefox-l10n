@@ -17,6 +17,7 @@ customkeys-reset-all = Restarigi ĉiujn normajn alirklavojn
 customkeys-conflict-confirm = Tiu ĉi klavo jam estas asignita al { $conflict }. Ĉu vi volas anstataŭigi ĝin?
 customkeys-reset-all-confirm = Ĉu vi certe volas restarigi ĉiujn normajn alirklavojn?
 customkeys-file-duplicate-tab = Duobligi langeton
+customkeys-file-copy-tab-url = Kopii retadreson de langeto
 customkeys-file-focus-search = Aktivigi la serĉan strion
 customkeys-history-reopen-tab = Malfermi denove la laste fermitan langeton
 customkeys-history-reopen-window = Malfermi denove la laste fermitan fenestron
@@ -83,6 +84,16 @@ customkeys-key-new =
     .label = Premu novan klavon:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (neŝanĝebla)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (difinita en la agordoj de klavaro de macOS)
+       *[other] (difinita en la agordoj de klavaro de via sistemo)
+    }
 
 ## Confirmation dialogs
 
