@@ -86,6 +86,11 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 tabbrowser-unmute-tab-audio-aria-label =
     .aria-label = Ieslēgt cilni
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Apklusināt cilni
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Atskaņot cilni
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -133,6 +138,11 @@ tabbrowser-ask-close-tabs-with-key-checkbox = Vaicāt pirms aizvēršanas ar { $
 ## and browser.warnOnQuitShortcut is true.
 
 tabbrowser-confirm-close-warn-shortcut-title = Aizvērt { -brand-short-name } vai pašreizējo cilni?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Izeja { -brand-short-name }
+       *[other] Aizvērt { -brand-short-name }
+    }
 tabbrowser-confirm-close-tab-only-button = Aizvērt pašreizējo cilni
 
 ## Confirmation dialog when opening multiple tabs simultaneously
@@ -174,9 +184,15 @@ tabbrowser-customizemode-tab-title = Pielāgot { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Apklusināt cilni
     .accesskey = A
+tabbrowser-context-mute-tab2 =
+    .label = Apklusināt (M)
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Atjaunot
     .accesskey = a
+tabbrowser-context-unmute-tab2 =
+    .label = Ieslēgt skaņu (m)
+    .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Apklusināt cilnes
@@ -211,6 +227,70 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Atjaunot skaņu cilnei
 tabbrowser-manager-close-tab =
     .tooltiptext = Aizvērt cilni
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Slēgts
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Pašreizējais logs
+
+##
+
+tab-group-editor-title-create = Izveidot ciļņu grupu
+tab-group-editor-title-edit = Pārvaldīt ciļņu grupu
+tab-group-editor-name-label = Vārds
+tab-group-editor-name-field =
+    .placeholder = Piemērs: Iepirkšanās
+tab-group-editor-cancel =
+    .label = AtCelt
+    .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Cilņu grupas krāsa
+tab-group-editor-color-selector2-blue = Zils
+    .title = Zils
+tab-group-editor-color-selector2-purple = Purpura
+    .title = Purpura
+tab-group-editor-color-selector2-cyan = Gaišzils
+    .title = Gaišzils
+tab-group-editor-color-selector2-orange = Oranžs
+    .title = Oranžs
+tab-group-editor-color-selector2-yellow = Dzeltens
+    .title = Dzeltens
+tab-group-editor-color-selector2-pink = Rozā
+    .title = Rozā
+tab-group-editor-color-selector2-green = Zaļš
+    .title = Zaļš
+tab-group-editor-color-selector2-gray = Pelēks
+    .title = Pelēks
+tab-group-editor-color-selector2-red = Sarkans
+    .title = Sarkans
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Slēgts
+tab-group-description = { $tabGroupName } — Cilņu grupa
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Sakļauts
+tab-group-label-tooltip-expanded = { $tabGroupName } — Izvērsts
+tab-group-preview-name =
+    .aria-label = Cilnes sakļautā grupā
+tab-context-unnamed-group =
+    .label = Nenosaukta grupa
+tab-group-name-default = Nenosaukta grupa
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Cilņu grupas
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Cilņu saraksts ir atvērts
+tab-group-preview-closed-description = Cilņu saraksts ir aizvērts
 
 ##
 
@@ -250,6 +330,12 @@ tab-context-move-split-view-to-group =
            *[other] Pievienot sadalītos skatus kopai
         }
     .accesskey = p
+tab-context-move-tab-to-group-saved-groups =
+    .label = Slēgtas grupas
+tab-group-editor-action-new-tab =
+    .label = Jauna cilne grupā
+tab-group-editor-action-new-window =
+    .label = Pārvietot grupu uz jaunu logu
 
 ## Tab Notes
 
