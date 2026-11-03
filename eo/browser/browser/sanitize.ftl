@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Forviŝi tutan historion
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 39em
+    .title = Forigi retumajn datumojn
 clear-data-settings-label = Je fermo, { -brand-short-name } devus aŭtomate viŝi ĉion
 sanitize-on-shutdown-description = Aŭtomate viŝi ĉiujn elektitajn elementojn kiam { -brand-short-name } fermiĝas.
 
@@ -47,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Ekde { $midnightTime }
 clear-time-duration-value-today =
     .label = Hodiaŭ
+clear-time-duration-value-all-time =
+    .label = Ĉiam
 clear-time-duration-value-everything =
     .label = Ĉio
 clear-time-duration-suffix =
@@ -56,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historio
+item-history-and-downloads2 =
+    .label = Retuman kaj elŝutan historion
+    .accesskey = R
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Vizititajn retejojn kaj liston de elŝutoj
 item-history-and-downloads =
     .label = Retuma kaj elŝuta historio
     .accesskey = e
