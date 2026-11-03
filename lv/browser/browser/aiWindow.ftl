@@ -226,6 +226,10 @@ aiwindow-fullpage-more =
 
 fxa-signout-dialog-body-aiwindow = Sinhronizētie dati paliks jūsu kontā. Atvērt { -smart-window-brand-name(plural-form: "true") } pārslēgsies uz klasisko logu.
 
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Pārslēgties uz { -smart-window-brand-name }
+
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
@@ -262,6 +266,11 @@ firefoxview-chat-date-yesterday = Vakar — { DATETIME($date, dateStyle: "full")
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Atgriezieties pie savām tērzēšanas sarunām
+firefoxview-chats-empty-description = Izmantojot { -smart-window-brand-name }, jūsu tērzēšanas sarunas tiks saglabātas šeit.
+
 ## Count displayed in fxview chat search results
 
 firefoxview-search-chat-results-count =
@@ -273,6 +282,9 @@ firefoxview-search-chat-results-count =
 
 ## Clear browsing data dialog
 
+item-history-downloads-and-chat =
+    .label = Pārlūkošanas, lejupielāžu un tērzēšanas vēsture
+    .accesskey = P
 item-history-downloads-and-chat-description = Notīra vietņu, lejupielāžu un tērzēšanas vēsturi
 
 ## Natural Language Interactions
@@ -280,6 +292,9 @@ item-history-downloads-and-chat-description = Notīra vietņu, lejupielāžu un 
 smart-window-confirm-select-all =
     .aria-label = Atlasīt visu
     .label = Atlasīt visu
+smart-window-confirm-deselect-all =
+    .aria-label = Noņemt atlasi visam
+    .label = Noņemt atlasi visam
 smart-window-close-confirm =
     .aria-label = Atcelt pieprasījumu un aizvērt
     .tooltiptext = Atcelt pieprasījumu un aizvērt
@@ -311,10 +326,47 @@ smart-window-default-promo-additional-button = Ne tagad
 
 aiwindow-feedback-modal-title = Kopīgot atsauksmi
 aiwindow-feedback-what-worked-well = Kas darbojās labi? Lūgums neiekļaut personīgu informāciju.
+aiwindow-feedback-choose-any = Izvēlieties jebkuru atbilstošo
 aiwindow-feedback-add-details = Ja ir vēlēšanās, var pievienot informāciju. Lūgums ne personīgu informāciju.
+aiwindow-feedback-disclaimer = Iesniedzot atsauksmi, jūs kopīgojat savu viedokli un šo tērzēšanu, lai palīdzētu { -brand-shorter-name } uzlabot { -smart-window-brand-name }. Pārējās jūsu tērzēšanas sarunas paliek privātas. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
 aiwindow-feedback-submit = Iesniegt
 aiwindow-feedback-cancel = Atcelt
+aiwindow-feedback-reason-incorrect-or-misleading = Nepareiza vai maldinoša
 aiwindow-feedback-reason-doesnt-address-my-request = Neatbild uz manu pieprasījumu
+aiwindow-feedback-reason-lacks-personalization = Trūkst personalizācijas vai konteksta
+aiwindow-feedback-reason-performance-or-usability = Veiktspējas vai lietojamības problēma
+aiwindow-feedback-reason-harmful-or-offensive = Kaitīgs vai aizskarošs
+aiwindow-feedback-reason-other = Cits
+aiwindow-feedback-preview-report = Skatīt tērzēšanas informāciju
+aiwindow-feedback-preview-report-with-page = Skatīt tērzēšanas un lapas informāciju
+aiwindow-feedback-include-page-content = Kopīgot šajā tērzēšanā minētās lapas
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Pārslēgt skata izkārtojumu
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Pārslēgšanas režīms: saraksta skats
+    .tooltiptext = Saraksta skats
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Pārslēgšanas režīms: režģa skats
+    .tooltiptext = Režģa skats
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Uzrakstiet pirmo melnrakstu
+aiwindow-starter-writing-improve = Uzlabot rakstīšanu
+aiwindow-starter-writing-proofread = Ziņojuma korektūra
+aiwindow-starter-planning-simplify = Vienkāršojiet tēmu
+aiwindow-starter-planning-brainstorm = Ideju ģenerēšana
+aiwindow-starter-planning-plan = Palīdziet izstrādāt plānu
+aiwindow-starter-browsing-history = Atrast cilnes vēsturē
+aiwindow-starter-browsing-summarize = Apkopot cilnes
+aiwindow-starter-browsing-compare = Salīdzināt cilnes
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
