@@ -40,8 +40,8 @@ clear-time-duration-prefix =
     .value = Forviŝota tempa amplekso:{ " " }
     .accesskey = T
 clear-time-duration-prefix2 =
-    .value = Kiam:
-    .accesskey = K
+    .value = Periodo:
+    .accesskey = P
 clear-time-duration-value-last-hour =
     .label = Lasta horo
 clear-time-duration-value-last-2-hours =
@@ -66,14 +66,14 @@ clear-time-duration-suffix =
 
 history-section-label = Historio
 item-history-and-downloads2 =
-    .label = Retuman kaj elŝutan historion
+    .label = Retuma kaj elŝuta historio
     .accesskey = R
 # Description for the "Browsing and downloads history" item, which can be selected for deletion
-item-history-and-downloads-description3 = Vizititajn retejojn kaj liston de elŝutoj
+item-history-and-downloads-description3 = Vizititaj retejoj kaj listo de elŝutoj
 item-history-and-downloads =
     .label = Retuma kaj elŝuta historio
     .accesskey = e
-item-history-and-downloads-description2 = Viŝi serĉan kaj elŝutan historion
+item-history-and-downloads-description2 = Tio ĉi viŝas la serĉan kaj elŝutan historion
 item-cookies =
     .label = Kuketoj
     .accesskey = K
@@ -86,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Kuketoj kaj retejaj datumoj
     .accesskey = K
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Tio ĉi finas vian seancon kaj povus malplenigi aĉetumĉarojn
 item-cookies-site-data-description = Tio ĉi povus fini seancojn aŭ malplenigi aĉetumĉarojn
 item-active-logins =
     .label = Aktivaj akreditadoj
