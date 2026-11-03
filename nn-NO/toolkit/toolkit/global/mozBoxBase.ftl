@@ -11,3 +11,10 @@ moz-box-item-reorder-handle =
 #   $item (string) - The label of the moz-box-item being reordered.
 moz-box-item-reorder-handle-named =
     .aria-label = Endre rekkjefølgja på { $item } ved å bruke Ctrl+Shift+Pil opp eller Ctrl+Shift+Pil ned
+
+## Screen reader announcements made after an item in a reorderable list is moved.
+## Variables:
+##   $position (number) - The new position of the item in the list, starting at 1.
+##   $total (number) - The total number of items in the list.
+
+moz-box-group-reorder-announcement = Element flytta til posisjon { $position } av { $total }
