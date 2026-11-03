@@ -154,6 +154,18 @@ pdfjs-document-properties-linearized-yes = Da
 pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zatvori
 pdfjs-digital-signature-properties-view-certificate = Pogledaj certifikat
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Razlog: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Vremenska oznaka: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Print
 
@@ -659,6 +671,8 @@ pdfjs-views-manager-pages-status-action-button-label = Upravljaj
 pdfjs-views-manager-pages-status-copy-button-label = Kopiraj
 pdfjs-views-manager-pages-status-cut-button-label = Izreži
 pdfjs-views-manager-pages-status-delete-button-label = Izbriši
+pdfjs-views-manager-pages-status-export-selected-button-label = Izvezi odabrano…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Prijenos datoteke…
 pdfjs-views-manager-status-warning-cut-label = Nije moguće izrezati. Osvježi stranicu i pokušaj ponovo.
 pdfjs-views-manager-status-warning-copy-label = Nije moguće kopirati. Osvježi stranicu i pokušaj ponovo.
 pdfjs-views-manager-status-warning-delete-label = Nije moguće izbrisati. Osvježi stranicu i pokušaj ponovo.
@@ -678,8 +692,16 @@ pdfjs-views-manager-paste-button-after =
 # Badge used to promote a new feature in the UI, keep it as short as possible.
 # It's spelled uppercase for English, but it can be translated as usual.
 pdfjs-new-badge-content = NOVO
+pdfjs-views-manager-waiting-for-file = Prijenos datoteke…
 pdfjs-toggle-views-manager-button1 =
     .title = Upravljaj stranicama
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .aria-label = Svojstva digitalnog potpisa
+    .title = Svojstva digitalnog potpisa
+pdfjs-digital-signature-properties-button-label = Svojstva digitalnog potpisa
 
 ## Main menu for adding/removing signatures
 

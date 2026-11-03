@@ -358,6 +358,8 @@ quickactions-library = Otvori biblioteku
 # Opens about:logins
 quickactions-logins2 = Upravljaj lozinkama
 quickactions-cmd-logins = prijave, lozinke
+# Mutes all tabs playing audio
+quickactions-mute = Utišaj kartice koje reproduciraju zvuk
 # List of words that would trigger the "mute tabs" action from the address bar.
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
@@ -1398,9 +1400,21 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-panel-heading = Izbrisati sve podatke pregledavanja?
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Odaberi…
+fire-button-panel-cancel-button =
+    .label = Odustani
+    .accesskey = O
 fire-button-panel-confirm-button =
     .label = Izbriši sve
     .accesskey = I
+fire-button-panel-complete = Podaci pregledavanja su izbrisani
+fire-button-toolbar-button2 =
+    .label = Izbriši neke ili sve podatke
+    .tooltiptext = Izbriši neke ili sve svoje podatke pregledavanja
 
 ## Autorefresh blocker
 

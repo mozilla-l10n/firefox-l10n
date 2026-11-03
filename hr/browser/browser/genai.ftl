@@ -59,6 +59,28 @@ genai-menu-remove-provider =
     .label = Ukloni { $provider }
 genai-menu-remove-sidebar =
     .label = Ukloni iz bočne trake
+genai-shortcut-button-3 =
+    .aria-label = Pitaj o ovom tekstu
+    .tooltiptext = Pitaj o ovom tekstu
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Traži „{ $selection }” tražilicom { $engine }
+    .tooltiptext = Traži „{ $selection }” tražilicom { $engine }
+genai-shortcut-copy-button =
+    .aria-label = Kopiraj označeni tekst
+    .tooltiptext = Kopiraj označeni tekst
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopirano
+genai-shortcut-more-actions-button =
+    .aria-label = Više opcija
+    .tooltiptext = Više opcija
+genai-more-actions-panel =
+    .aria-label = Odaberi koje radnje se prikazuju
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Pitaj { $provider }
 genai-more-actions-ai-generic =
     .label = Pitaj umjetnu inteligenciju
 genai-more-actions-search =

@@ -29,6 +29,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Ne sada
     .accessKey = N
+address-capture-never-save-addresses-button =
+    .label = Nikad ne spremaj adrese
+    .accessKey = N
 address-capture-cancel-button =
     .label = Odustani
     .accessKey = O
@@ -100,6 +103,7 @@ autofill-address-tel = Telefon
 autofill-address-email = E-mail adresa
 autofill-cancel-button = Odustani
 autofill-save-button = Spremi
+autofill-country-warning-message-2 = Automatsko popunjavanje obrazaca trenutačno je dostupno samo za određene zemlje
 autofill-country-warning-message = Automatsko popunjavanje obrazaca trenutačno je dostupno samo za određene zemlje.
 autofill-message-tooltip = Pogledaj poruku o automatskom ispunjavanju
 # The dialog title for creating credit cards in browser preferences.
@@ -118,6 +122,20 @@ autofill-card-expires-year-2 =
     .label = Godina isteka
 autofill-card-billing-address-2 =
     .label = Adresa za naplatu
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (opcionalno)
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-optional =
+    .label = CVV (opcionalno)
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Ime na kreditnoj kartici
 autofill-card-expires-month = Mjesec isteka
 autofill-card-expires-year = Godina isteka

@@ -1175,6 +1175,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Vi spegulas tiujn ĉi elementojn inter ĉiuj viaj konektitaj aparatoj:
 sync-syncing-across-devices-heading-2 = Datumo spegulitaj inter aparatoj
+sync-syncing-across-devices-heading-3 = Spegulitaj datumoj en tiu ĉi aparato
 sync-syncing-across-devices-empty-state2 =
     .description = Vi spegulas nenion… ankoraŭ. Komencu speguli por havi ĉiujn viajn datumojn en ĉiuj viaj aparatoj.
     .label = Administri spegulitajn datumojn
@@ -1237,6 +1238,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = M
     .style = min-width: 36em;
     .title = Administri kio estos spegulita en ĉiuj viaj konektitaj aparatoj
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Konservi
+    .buttonlabelextra2 = Malkonekti…
+    .buttonaccesskeyaccept = K
+    .buttonaccesskeyextra2 = M
+    .style = min-width: 36em;
+    .title = Administri speguladon en tiu ĉi aparato
 
 ## The device name controls.
 
@@ -1398,6 +1406,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Administri pagmetodojn
     .accesskey = A
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Postuli aparatan seancon por aŭtomata plenigo
+    .accesskey = s
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Postuli komencon de seanco en la aparato por aŭtomate plenigi kaj administri pagmetodojn
     .accesskey = s
@@ -1471,6 +1483,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
@@ -1795,6 +1829,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Elekti, kiuj retejoj povas instali etendaĵojn
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Permesi al retejoj demandi ĉu malfermi ligilojn al programoj
+    .accesskey = P
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Administri blokitajn retejojn
+    .accesskey = A
 permissions-location2 =
     .label = Loko
 permissions-localhost2 =
@@ -1819,6 +1862,62 @@ permissions-data-section =
     .heading = Permesoj kaj datumoj
 pane-permissions-data-title2 = Permesoj kaj datumoj
     .title = Permesoj kaj datumoj
+notifications-section-header =
+    .heading = Sciigoj
+notifications-entry-card-header =
+    .description = Elektu kiuj retejoj povas sendi sciigojn kaj kiel montri ilin.
+    .label = Sciigoj
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } retejo
+           *[other] { $count } retejoj
+        }
+    .label = Administri agordojn pri sciigoj
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Administri agordojn pri retejaj sciigoj
+notifications-website-card-header =
+    .description = Elektu kiel retejoj povas sendi sciigojn.
+    .label = Retejaj sciigoj
+notifications-filter =
+    .placeholder = Serĉi retejojn
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Retejo
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Permesi sciigojn
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Retejoj
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Ĉiam
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Permesi
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Neniam
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Neniu reteja sciigo aldonita.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Neniu reteja sciigo kongruas kun via serĉo.
 
 ## Privacy Section - Data Collection
 

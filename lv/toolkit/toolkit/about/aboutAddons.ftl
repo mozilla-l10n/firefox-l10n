@@ -43,6 +43,9 @@ detail-last-updated =
 addon-detail-description-expand = Rādīt vairāk
 addon-detail-description-collapse = Rādīt mazāk
 detail-contributions-description = Šī papildinājuma autors lūdz jūs atbalstīt izstrādi ar nelielu ziedojumu.
+detail-contributions-button = Veic ieguldījumu (C)
+    .title = Atbalstīt šī papildinājuma izstrādi
+    .accesskey = C
 detail-update-type =
     .value = Automātiska atjaunināšana
 detail-update-default =
@@ -54,6 +57,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Izslēgta
     .tooltiptext = Neuzstādīt atjauninājumus automātiski
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Palaist privātajos logos
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Nav atļauts privātajos logos
+detail-private-disallowed-description2 = Šis paplašinājums nedarbojas privātās pārlūkošanas laikā. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Nepieciešama piekļuve privātiem logiem
+detail-private-required-description2 = Šim paplašinājumam ir piekļuve jūsu tiešsaistes aktivitātēm privātās pārlūkošanas laikā. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
 detail-private-browsing-on =
     .label = Atļaut
     .tooltiptext = Iespējot privātajā pārlūkošanā
@@ -102,8 +114,17 @@ legacy-warning-show-legacy = Rādīt vēsturiskos papildinājumus
 legacy-extensions =
     .value = Vēsturiskie papildinājumi
 legacy-extensions-description = Šie paplašinājumi neatbilst pašreizējiem { -brand-short-name } standartiem, tāpēc tie tika deaktivizēti. <label data-l10n-name="legacy-learn-more">Uzzināt vairāk par papildinājumu izmaiņām</label>
+private-browsing-description2 =
+    { -brand-short-name } maina paplašinājumu darbību privātajā pārlūkošanā. Visi jaunie paplašinājumi, ko pievienosiet
+    { -brand-short-name }, pēc noklusējuma netiks palaisti privātajā pārlūkošanā. Ja vien to neatļausiet iestatījumos,
+    paplašinājums nedarbosies privātās pārlūkošanas laikā un tam nebūs piekļuves jūsu tiešsaistes aktivitātēm
+    tur. Mēs esam veikuši šīs izmaiņas, lai jūsu privātā pārlūkošana būtu privāta.
+    <label data-l10n-name="private-browsing-learn-more">Uzziniet, kā pārvaldīt paplašinājumu iestatījumus</label>
 aboutaddons-sidebar =
     .heading = Papildinājumi
+addon-category-discover = Ieteikumi
+addon-category-discover-title =
+    .title = Ieteikumi
 addon-category-extension = Papildinājumi
 addon-category-extension-title =
     .title = Papildinājumi
@@ -125,6 +146,13 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nesenie atjauninājumi
 addon-category-recent-updates-title =
     .title = Nesenie atjauninājumi
+addon-category-sitepermission = Vietnes atļaujas
+addon-category-sitepermission-title =
+    .title = Vietnes atļaujas
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Vietnes atļaujas pakalpojumam { $host }
 
 ## These are global warnings
 
@@ -136,6 +164,11 @@ extensions-warning-update-security2 =
     .message = Papildinājumu drošības pārbaude ir deaktivēta. Iespējams jums ir nedroši papildinājumu.
 extensions-warning-update-security-button = Aktivēt
     .title = Aktivēt papildinājumu drošības pārbaudi
+extensions-warning-imported-addons2 =
+    .message = Lūdzu, pabeidziet to paplašinājumu instalēšanu, kas tika importēti uz { -brand-short-name }.
+extensions-warning-imported-addons-button = Instalēt paplašinājumus
+extensions-warning-safe-mode3 =
+    .message = Visas pievienojumprogrammas ir atspējotas, izmantojot problēmu novēršanas režīmu.
 
 ## Strings connected to add-on updates
 
@@ -179,13 +212,63 @@ addon-open-about-debugging = Atkļūdot papildinājumus
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Pārvaldīt paplašinājumu Saīsnes
+    .accesskey = S
+shortcuts-no-addons = Jums nav iespējots neviens paplašinājums.
+shortcuts-no-commands = Šiem paplašinājumiem nav īsinājumtaustiņu:
+shortcuts-input =
+    .placeholder = Ievadiet saīsni
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Noņemt saīsni
+shortcuts-browserAction2 = Aktivizēt rīkjoslas pogu
+shortcuts-pageAction = Aktivizēt lapas darbību
+shortcuts-sidebarAction = Pārslēgt sānu joslu
+shortcuts-modifier-mac = Iekļaujiet taustiņu kombināciju Ctrl, Alt vai ⌘
+shortcuts-modifier-other = Iekļaujiet Ctrl vai Alt
+shortcuts-invalid = Nederīga kombinācija
+shortcuts-letter = Ierakstiet burtu
+shortcuts-system = Nevar ignorēt { -brand-short-name } saīsni
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Dublikāta saīsne
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } tiek izmantots kā saīsne vairāk nekā vienā gadījumā. Dublētas saīsnes var izraisīt negaidītu darbību.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Jau izmanto { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [zero] Rādīt vēl { $numberToShow }
+        [one] Rādīt vēl { $numberToShow }
+       *[other] Rādīt vēl { $numberToShow }
+    }
+shortcuts-card-collapse-button = Rādīt mazāk
 header-back-button =
     .title = Doties atpakaļ
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Daži no šiem ieteikumiem ir personalizēti. Tie ir balstīti uz citiem instalētajiem paplašinājumiem, profila preferencēm un lietošanas statistiku.
 discopane-notice-learn-more = Uzzināt vairāk
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Jūsu krāsu gammas motīvs(-i) tika noņemts(-i).
+    .message = { -brand-product-name } atjaunināja savu krāsu gammu kolekciju. Mēs noņēmām veco(-ās) versiju(-as) no jūsu “Saglabāto motīvu” saraksta. Iegūstiet jaunās versijas papildinājumu vietnē.
 colorway-removal-notice-learn-more = Uzzināt vairāk
+colorway-removal-notice-button = Iegūstiet atjauninātas krāsu shēmu motīvus
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Jūsu Windows kontrasta iestatījumi ignorē { -brand-short-name } motīvus. Izslēdziet šos iestatījumus, lai izmantotu motīvus { -brand-short-name }.
 install-extension-button = Pievienot { -brand-product-name }
 
 ## Add-on actions

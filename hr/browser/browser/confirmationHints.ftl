@@ -11,6 +11,7 @@ confirmation-hint-password-created = Lozinka spremljena
 confirmation-hint-password-updated = Lozinka aktualizirana
 confirmation-hint-address-created = Adresa spremljena
 confirmation-hint-address-updated = Adresa akutilizirana
+confirmation-hint-payment-method-saved = Način plaćanja je spremljen
 confirmation-hint-credit-card-created = Kartica je spremljena
 confirmation-hint-credit-card-updated = Kreditna kartica aktualizirana
 confirmation-hint-passport-created = Putovnica spremljena

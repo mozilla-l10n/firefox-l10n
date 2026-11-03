@@ -502,6 +502,13 @@ lapsed-user-toast-title = { -brand-product-name } plu protektas vin
 lapsed-user-toast-subtitle = Provu novajn manierojn retumi kun pi da ebloj, privateco kaj rego.
 lapsed-user-toast-whats-new-button = Vidi la novaĵojn
 lapsed-user-toast-dismiss-button = Ignori
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Nova fasado. Nenio agordenda.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Importu viajn legosignojn, pasvortojn kaj historion el la retumilo, kiun vi uzas nuntempe.
 
 ## Refresh Firefox infobar
 ##
@@ -519,3 +526,17 @@ refresh-profile-infobar-button = Refreŝigi { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Ĉu malfermi antaŭajn langetojn?</strong> Vi povas restarigi vian antaŭan seancon el la menuo de la programo { -brand-short-name } <img data-l10n-name="icon"/>, Sub Historio.
 restore-session-startup-suggestion-button = Montri al mi kiel fari tion
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Malfermu viajn plej ŝatatajn retejojn kiel programon
+taskbar-tabs-spotlight-subtitle = Aliru per unu alklako viajn plej uzitajn retejojn, en simpligita fenestro, kun ĉiuj protektoj de { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Elektu la retejojn por aldoni al via taska ilaro
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Aldoni
+taskbar-tabs-spotlight-done-button = Farita
