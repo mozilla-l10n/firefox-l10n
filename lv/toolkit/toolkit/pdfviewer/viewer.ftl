@@ -440,13 +440,85 @@ pdfjs-editor-alt-text-settings-show-dialog-button-label = Pievienojot attēlu, u
 pdfjs-editor-alt-text-settings-show-dialog-description = Palīdz pārliecināties, ka visiem attēliem ir alt teksts.
 pdfjs-editor-alt-text-settings-close-button = Aizvērt
 
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = Izcelts teksts pievienots
+pdfjs-editor-freetext-added-alert = Teksts pievienots
+pdfjs-editor-ink-added-alert = Zīmējums pievienots
+pdfjs-editor-stamp-added-alert = Attēls pievienots
+pdfjs-editor-signature-added-alert = Paraksts pievienots
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-message-highlight = Izcelts teksts noņemts
+pdfjs-editor-undo-bar-message-freetext = Teksts noņemts
+pdfjs-editor-undo-bar-message-ink = Zīmējums noņemts
+pdfjs-editor-undo-bar-message-stamp = Attēls ir noņemts
+pdfjs-editor-undo-bar-message-signature = Paraksts noņemts
+pdfjs-editor-undo-bar-message-comment = Komentārs ir noņemts
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } anotācija ir noņemta
+        [zero] Noņemtas { $count } anotācijas
+       *[other] Noņemtas { $count } anotācijas
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Atsaukt
+pdfjs-editor-undo-bar-undo-button-label = Atsaukt
+pdfjs-editor-undo-bar-close-button =
+    .title = Aizvērt
+pdfjs-editor-undo-bar-close-button-label = Aizvērt
+
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Šis modālais logs ļauj lietotājam izveidot parakstu, ko pievienot PDF dokumentam. Lietotājs var rediģēt nosaukumu (kas kalpo arī kā alternatīvais teksts) un pēc izvēles saglabāt parakstu atkārtotai lietošanai.
 pdfjs-editor-add-signature-dialog-title = Pievienot parakstu
+
+## Tab names
+
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Veids
+    .title = Veids
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Zīmēt
+    .title = Zīmēt
+pdfjs-editor-add-signature-image-button = Attēls
+    .title = Attēls
+
+## Tab panels
+
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Ierakstiet savu parakstu
+    .placeholder = Ierakstiet savu parakstu
+pdfjs-editor-add-signature-draw-placeholder = Uzzīmējiet savu parakstu
+pdfjs-editor-add-signature-draw-thickness-range-label = Biezums
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Zīmējuma biezums: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Velciet failu šeit, lai augšupielādētu
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Vai arī izvēlieties attēlu failus
+       *[other] Vai pārlūkojiet attēlu failus
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Apraksts (alternatīvais teksts)
+pdfjs-editor-add-signature-description-input =
+    .title = Apraksts (alternatīvais teksts)
+pdfjs-editor-add-signature-description-default-when-drawing = Paraksts
+pdfjs-editor-add-signature-clear-button-label = Skaidrs paraksts
+pdfjs-editor-add-signature-clear-button =
+    .title = Skaidrs paraksts
+pdfjs-editor-add-signature-save-checkbox = Saglabāt parakstu
+pdfjs-editor-add-signature-save-warning-message = Jūs esat sasniedzis saglabāto parakstu ierobežojumu — 5. Noņemiet vienu, lai saglabātu citus.
+pdfjs-editor-add-signature-image-upload-error-title = Nevarēja augšupielādēt attēlu
 pdfjs-editor-add-signature-image-upload-error-description = Jāpŗabauda savienojums ar internetu vai jāmēģina cits attēls.
+pdfjs-editor-add-signature-image-no-data-error-title = Šo attēlu nevar pārveidot par parakstu.
 
 ## Dialog buttons
 
@@ -473,3 +545,38 @@ pdfjs-editor-add-comment-button =
 pdfjs-views-manager-add-file-button =
     .title = Pievienot datni
 pdfjs-views-manager-add-file-button-label = Pievienot datni
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = Jauns
+pdfjs-views-manager-waiting-for-file = Notiek datnes augšupielāde…
+pdfjs-toggle-views-manager-button1 =
+    .title = Pārvaldīt lapas
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .aria-label = Digitālā paraksta īpašības
+    .title = Digitālā paraksta īpašības
+pdfjs-digital-signature-properties-button-label = Digitālā paraksta īpašības
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokuments tika parakstīts ar derīgu digitālo parakstu
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokuments parakstīts, bet digitālo parakstu { $count } nevarēja pārbaudīt
+        [zero] Dokuments parakstīts, bet { $count } digitālos parakstus nevarēja pārbaudīt
+       *[other] Dokuments parakstīts, bet { $count } digitālos parakstus nevarēja pārbaudīt
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Dokuments, kas parakstīts ar { $count } neuzticamu sertifikātu
+        [zero] Dokuments ir parakstīts ar { $count } neuzticamu sertifikātu
+       *[other] Dokuments ir parakstīts ar { $count } neuzticamiem sertifikātiem
+    }
