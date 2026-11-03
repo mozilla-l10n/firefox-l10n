@@ -533,6 +533,9 @@ restore-session-startup-suggestion-button = Vis meg korleis
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = Opne favorittnettstadane dine som ein app
+taskbar-tabs-spotlight-subtitle = Med eitt klikk opnar du dei mest besøkte nettstadene dine i eit forenkla vindauge med alle verna frå { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Vel for å leggje til på oppgåvelinja
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Legg til
