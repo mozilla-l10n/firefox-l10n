@@ -229,6 +229,17 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [many] Iawn, tynnu'r cyfrineiriau
        *[other] Iawn, tynnu'r cyfrineiriau
     }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Iawn, dileu cyfrinair
+        [zero] Iawn, dileu cyfrineiriau
+        [one] Iawn, dileu cyfrineiriau
+        [two] Iawn, dileu cyfrineiriau
+        [few] Iawn, dileu cyfrineiriau
+        [many] Iawn, dileu cyfrineiriau
+       *[other] Iawn, dileu cyfrineiriau
+    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
@@ -260,6 +271,16 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [many] Tynnu { $count } mewngofnod o'r holl ddyfeisiau?
        *[other] Tynnu { $count } mewngofnod o'r holl ddyfeisiau?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Dileu { $count } cyfrinair?
+        [zero] Dileu { $count } cyfrineiriau?
+        [two] Dileu { $count } gyfrinair?
+        [few] Dileu { $count } cyfrinair?
+        [many] Dileu { $count } chyfrinair?
+       *[other] Dileu { $count } cyfrinair?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
@@ -270,6 +291,17 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [few] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
         [many] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
        *[other] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Mae hyn yn ei ddileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu eich cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [zero] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [one] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [two] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [few] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [many] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+       *[other] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
     }
 
 ##

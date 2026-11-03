@@ -104,6 +104,12 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-capture-update-payment-method-button =
     .label = Diweddaru
     .accessKey = D
+credit-card-update-saved-payment-method-doorhanger-header = Diweddaru'r dull talu?
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Cadw fel newydd
+    .accessKey = a
 
 ## Used on the doorhanger when a saved card is submitted with a new or changed
 ## security code.

@@ -469,5 +469,7 @@ vpn-error-page-keep-browsing = Cadw i bori yn y sesiwn hon
 vpn-error-page-new-session = Dechrau sesiwn newydd
 vpn-paused-alert-close-tabs-button = Cau pob tab
 vpn-paused-alert-continue-wo-vpn-button = Parhau heb y VPN
+vpn-error-alert-title-1 = Dyw'r VPN na'r rheolau ddim yn gweithio ar hyn o bryd.
+vpn-error-alert-body-1 = Gall troi VPN ymlaen ac yna i ffwrdd ddatrys y mater.
 vpn-error-alert-title = Dyw'r VPN ddim yn gweithio ar hyn o bryd.
 vpn-error-alert-body = Ceisiwch eto yn nes ymlaen

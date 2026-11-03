@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Byddwch chi ddim yn gweld y ddewislen hon pan fyddwch yn dewis testun. Ewch i Gosodiadau <span data-l10n-name="chevron"></span> Tabiau a phori i'w ddangos eto.
 genai-more-actions-manage-settings =
     .label = Rheoli gosodiadau
+genai-selection-callout-title = Amlygu testun i ddewis gweithred
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Chwilio neu gopïo pan fyddwch chi'n dewis testun. Dewiswch pa weithrediadau sy'n ymddangos gyda'r ddewislen <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Gofyn i { $provider }

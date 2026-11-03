@@ -619,6 +619,9 @@ newtab-travel-widget-open-menu-button =
     .title = Agor y ddewislen teithio
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Rhagor
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Wedi'i bweru gan Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -850,6 +853,9 @@ newtab-discovery-empty-section-topstories-header = Rydych yn gyfredol!
 newtab-discovery-empty-section-topstories-content = Dewch nôl eto am ragor o straeon.
 newtab-discovery-empty-section-topstories-try-again-button = Ceisiwch eto
 newtab-discovery-empty-section-topstories-loading = Yn llwytho…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Dyw straeon ddim ar gael ar hyn o bryd
+newtab-discovery-empty-section-topstories-unavailable-body = Gwiriwch eich cysylltiad a rhowch gynnig arall arni yn nes ymlaen.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a llwytho'r adran hon, ond nid yn llwyr.
 
@@ -1151,6 +1157,9 @@ newtab-wallpaper-firefox-peak-dark = Wyneb llwynog ar yr ymyl chwith, ar gefndir
 newtab-wallpaper-firefox-peak-light = Wyneb llwynog ar yr ymyl chwith, ar gefndir golau
 newtab-wallpaper-firefox-sky-dark = Bryniau porffor tywyll dan awyr y nos
 newtab-wallpaper-firefox-sky-light = Bryniau golau o dan awyr feddal
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Arfbais Clwb Pêl-droed Wrecsam ar gefndir coch
 
 ## Firefox
 
@@ -1590,6 +1599,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Agor dewislen y croesair
     .title = Agor dewislen y croesair
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Wedi’i bweru gan Particle.
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
