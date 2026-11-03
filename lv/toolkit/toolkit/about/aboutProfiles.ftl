@@ -19,10 +19,10 @@ profiles-rootdir = Saknes mape
 # represent critical user data. (e.g., this directory may not be included as
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
-profiles-localdir = Lokālā mape
+profiles-localdir = Vietējā mape
 profiles-current-profile = Šis profils šobrīd tiek izmantots, tāpēc to nevar izdzēst.
 profiles-in-use-profile = Šis profils tiek lietots citā programmā, un to nevar dzēst.
-profiles-rename = Pārsaukt
+profiles-rename = Pārdēvēt
 profiles-remove = Noņemt
 profiles-set-as-default = Iestatīt kā noklusējuma profilu
 profiles-launch-profile = Atvērt profilu jaunā pārlūkā

@@ -140,7 +140,7 @@ webrtc-allow-share-screen-and-audio-capture = Vai atļaut { $origin } klausītie
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
-webrtc-allow-share-audio-capture-with-file = Vai atļaut šai lokālajai datnei klausīties šīs cilnes audio?
+webrtc-allow-share-audio-capture-with-file = Atļaut šai vietējai datnei klausīties šīs cilnes skaņu?
 webrtc-allow-share-camera-with-file = Vai atļaut šai lokālajai datnei izmantot jūsu kameru?
 webrtc-allow-share-microphone-with-file = Vai atļaut šai lokālajai datnei izmantot jūsu mikrofonu?
 webrtc-allow-share-screen-with-file = Vai atļaut šai lokālajai datnei redzēt jūsu ekrānu?

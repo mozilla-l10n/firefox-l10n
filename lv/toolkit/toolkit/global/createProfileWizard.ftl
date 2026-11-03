@@ -29,7 +29,7 @@ create-profile-last-page-header2 =
         [macos] Noslēgums
        *[other] Pabeidz { create-profile-window2.title }
     }
-profile-creation-intro = Izveidojot vairākus profilus, tos var atšķirt pēc nosaukumiem. Profila nosaukumu varat izvēlēties vai izmantot piedāvāto.
+profile-creation-intro = Ja tiek izveidoti vairāki profili, tos var atšķirt pēc nosaukuma. Var izmantot piedāvāto vai izmantot savu.
 profile-prompt = Ievadiet jaunu profila nosaukumu:
     .accesskey = e
 profile-default-name =

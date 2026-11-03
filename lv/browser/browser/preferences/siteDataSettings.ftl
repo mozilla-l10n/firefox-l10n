@@ -20,7 +20,7 @@ site-data-column-storage =
 site-data-column-last-used =
     .label = Pēdējo reizi izmantots
 # This label is used in the "Host" column for local files, which have no host.
-site-data-local-file-host = (lokālā datne)
+site-data-local-file-host = (vietēja datnes)
 site-data-remove-selected =
     .label = Izņemt izvēlēto
     .accesskey = I
