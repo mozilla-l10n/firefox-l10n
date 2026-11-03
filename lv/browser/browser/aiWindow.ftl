@@ -54,6 +54,8 @@ aiwindow-input-cta-submit-label-chat = Vaicāt
 aiwindow-input-cta-submit-label-navigate = Doties
 aiwindow-input-cta-submit-label-search = Meklēt
 aiwindow-input-cta-submit-label-stop = Apturēt
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Atbilžu ģenerēšana sākta
 aiwindow-input-cta-menu-label-chat = Vaicāt
 aiwindow-input-cta-menu-label-navigate = Doties uz vietni
 # $searchEngineName (string) - The name of the default search engine
@@ -66,12 +68,19 @@ aiwindow-input-cta-stop-button =
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Jautājiet, meklējiet vai ierakstiet URL
+smartbar-placeholder-hint-1 = Izmantojiet @, lai pieminētu nesenās cilnes…
+smartbar-placeholder-hint-2 = Vaicā jebko…
+smartbar-placeholder-hint-3 = Ievadiet tīmekļa adresi…
 smartbar-placeholder-hint-4 = Meklēt tīmeklī…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Cilnes vai vietnes atzīmēšana
 smartbar-mentions-list-no-results-label = Nekas netika atrasts
 smartbar-mentions-list-tab-groups-label = Nesenas kopas
+smartbar-mentions-list-recent-tabs-label = Nesen atvērtās cilnes
 
 ## Context mentions menu toggle button
 
@@ -81,6 +90,8 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Cilnes vai vietnes atzīmēšana
+aiwindow-website-chip-history-deleted = Vēsture dzēsta
 aiwindow-website-chip-remove-button =
     .aria-label = Noņemt
 
@@ -88,22 +99,72 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Laipni lūdzam { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Kas Tev ir svarīgs?
+aiwindow-firstrun-model-title-v2 = Izvēlieties modeli, lai sāktu
+aiwindow-firstrun-model-subtitle = Izvēlieties modeli, kas darbina { -smart-window-brand-name }. Pārslēdziet jebkurā laikā.
+aiwindow-firstrun-model-subtitle-v2 = Katrs modelis var palīdzēt apkopot, salīdzināt un izpētīt dažādās cilnēs. Pārslēdzieties jebkurā laikā.
+aiwindow-firstrun-model-fast-label = Ātri
+aiwindow-firstrun-model-fast-body = Ātras atbildes
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Ātri: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Vislabāk ātrām atbildēm, kad strādājat ātri
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = Modelis { $model }, ko izveidojis { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Elastīgs
+aiwindow-firstrun-model-allpurpose-body = Stabila piemērotība lielākajai daļai vajadzību
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Elastīgs: { $shortName }
+aiwindow-firstrun-model-flexible-body = Gatavs dažādiem uzdevumiem
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Ieteikts
+aiwindow-firstrun-model-personal-label = Personīgā
+aiwindow-firstrun-model-personal-body = Vispiemērotākās atbildes
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personīgā informācija: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Radīts personalizētai palīdzībai dažādās valodās
 aiwindow-firstrun-button = Aiziet
 aiwindow-firstrun-back-button = Atpakaļ
+aiwindow-firstrun-next-button = Nākamais
 
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-fast = Ātrs
+aiwindow-input-model-select-button-label-allpurpose = Elastīgs
+aiwindow-input-model-select-button-label-personal = Personīgā
+aiwindow-input-model-select-button-label-custom = Pielāgots
+aiwindow-input-model-select-button-description-custom = Izmantojiet savu LLM
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Izmantojiet savu LLM
+aiwindow-input-model-select-default-badge =
+    .label = Noklusējuma
+    .title = Atlasītais noklusējuma modelis
+aiwindow-input-model-select-settings-link = Modeļa iestatījumi
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Vairāk noderīgu atbilžu pēc jūsu noteikumiem
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } var mācīties no Tavām tērzēšanām, pārlūkošanu vai abiem, lai izveidotu atmiņas. Tās laika gaidā atbildes padara jēgpilnākas.
+aiwindow-firstrun-memories-conversation-title = Turpiniet sarunu
+aiwindow-firstrun-memories-conversation-body = Mācoties no sarunām, jums būs mazāk jāatkārtojas.
+aiwindow-firstrun-memories-relevance-title = Atbilstošākas atbildes
+aiwindow-firstrun-memories-relevance-body = Mācīšanās no pārlūkošanas sniedz { -smart-window-brand-name } plašāku priekšstatu.
+aiwindow-firstrun-memories-privacy-title = Privāts pēc dizaina
 aiwindow-firstrun-memories-privacy-body = Atmiņas tiek glabātas šajā ierīcē. Dzēsiet vai izslēdziet tās jebkurā laikā.
 aiwindow-firstrun-memories-choose-label = Izvēlieties, no kā { -smart-window-brand-name } mācās
 aiwindow-firstrun-memories-checkbox-chats = Laipni lūdzam { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Pārlūkošana pakalpojumā { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Atjaunināt iestatījumos jebkurā laikā.
 aiwindow-firstrun-memories-no-create = Sapratu. { -smart-window-brand-name } neveidos atmiņas. To jebkurā laikā var mainīt iestatījumos.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Padariet { -smart-window-brand-name } par savu iecienītāko
+aiwindow-firstrun-default-subtitle = Pārlūkojiet, meklējiet un uzdodiet jautājumus vienuviet. Jūs joprojām varat atvērt privāto un klasiska loga versiju, kad vien vēlaties.
+aiwindow-firstrun-default-checkbox-label = Vienmēr atvērt { -brand-product-name } { -smart-window-brand-name }
 
 ## New Chat Button
 

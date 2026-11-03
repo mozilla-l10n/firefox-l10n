@@ -91,6 +91,14 @@ genai-more-actions-search =
     .label = Serĉi
 genai-more-actions-copy =
     .label = Kopii
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Vi ne vidos tiun ĉi menuon kiam vi elektas tekston. Iru al Agordoj <span data-l10n-name="chevron"></span> Langetoj kaj retumo por montri ilin denove.
+genai-more-actions-manage-settings =
+    .label = Administri agordojn
+genai-selection-callout-title = Elstarigi tekston por elekti agon
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Serĉu aŭ kopiu kiam elektas tekston. Elektu la agojn kiuj aperos en la menuo <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandi al { $provider }
@@ -189,6 +197,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Uzi A.I. dialoganton sen ŝanĝi langeton
@@ -247,6 +257,24 @@ link-preview-settings-key-points =
     .label = Permesi al AI legi la komencon de la paĝo kaj eltiri ĉefajn punktojn
 link-preview-settings-long-press =
     .label = Ŝparvojo: alklaku la ligilon dum unu sekundo (longa premo)
+highlight-to-search-settings-enable =
+    .description = Rapide aliru helpajn agojn kiam vi elektas enhavon.
+    .label = Montri agojn kiam vi elektas tekston
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Demandi al { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Demandi al AI
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Serĉi
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopii
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Ĉu pli da informo pere de AI?
 # Message that appears when user is shown the opt-in flow for link previews
