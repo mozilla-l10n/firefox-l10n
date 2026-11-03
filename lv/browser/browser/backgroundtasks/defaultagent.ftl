@@ -4,5 +4,6 @@
 
 default-browser-agent-task-description = Noklusējuma pārlūka aģenta uzdevums pārbauda, kad noklusējums mainās no { -brand-short-name } uz citu pārlūku. Ja izmaiņas notiek aizdomīgos apstākļos, tas lietotājiem ne vairāk kā divas reizes vaicās, vai to mainīt atpakaļ uz { -brand-short-name }. Šo uzdevumu automātiski instalē { -brand-short-name }, un tas tiek atkārtoti uzstādīts, kad notiek { -brand-short-name } atjaunināšana. Lai izslēgtu šo uzdevumu, jāatjaunina iestatījums “default-browser-agent.enabled” lapā about:config vai { -brand-short-name } uzņēmuma politikas iestatījums “DisableDefaultBrowserAgent”.
 default-browser-notification-privacy-header-text = Vai palikt pie { -brand-short-name }?
+default-browser-notification-privacy-body-text = Jūsu noklusējuma iestatījums ir mainīts. Atgriezieties pie { -brand-short-name }, lai nodrošinātu iebūvētu privātumu un aizsardzību.
 default-browser-notification-yes-button-text = Jā
 default-browser-notification-privacy-no-button-text = Nē, paldies

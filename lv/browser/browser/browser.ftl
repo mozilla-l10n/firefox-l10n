@@ -140,6 +140,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Pārvaldīt { -firefox-suggest-bran
 urlbar-result-menu-report-inaccurate-location2 = Ziņot par nepareizu atrašanās vietu
 urlbar-result-menu-show-less-frequently2 = Rādīt retāk
 urlbar-result-menu-dont-show-weather-suggestions2 = Nerādīt laikapstākļu ieteikumus
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Atmest šo ieteikumu
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Izņemt no vēstures
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Uzzināt vairāk
     .accesskey = U
@@ -332,6 +342,9 @@ quickactions-addons = Skatīt papildinājumus
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = paplašinājumi, motīvi, papildinājumi
+# Opens preferences page at AI controls
+quickactions-manageai = Pārvaldīt MI vadīklas
+quickactions-cmd-manageai = atspējot mi, izslēgt mi, pārvaldīt mi
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Pārvaldīt grāmatzīmes
 quickactions-cmd-bookmarks = grāmatzīmes
@@ -367,6 +380,10 @@ quickactions-logins2 = Pārvaldīt paroles
 quickactions-cmd-logins = lietotājvārdi, paroles
 # Mutes all tabs playing audio
 quickactions-mute = Izslēgt cilnes, kuras atskaņo audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = klusu, čukst, ssssš
 # Opens the print dialog
 quickactions-print2 = Drukāt lapu
 quickactions-cmd-print = drukāt
@@ -489,6 +506,8 @@ identity-clear-site-data =
     .label = Notīrīt sīkdatnes un vietnes datus…
 identity-connection-not-secure-security-view = Savienojums ar šo vietni nav drošs.
 identity-connection-verified = Savienojums ar šo vietni ir drošs.
+identity-ev-owner-label2 = Sertifikāts izdots
+identity-verifier-label2 = Pārbaudījis
 identity-ev-owner-label = Sertifikāts izsniegts:
 identity-verifier-label = Apliecināja:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -507,6 +526,8 @@ identity-description-passive-loaded-insecure2 = Šajā vietnē ir saturs, kas na
 identity-description-passive-loaded-mixed2 = Lai arī { -brand-short-name } bloķēja daļu satura, lapā joprojām ir saturs, kas nav drošs (piemēram, attēli).
 identity-description-active-loaded = Šajā vietnē ir saturs, kas nav drošs (piemēram, skripti), un savienojums ar to nav privāts.
 identity-description-active-loaded-insecure = Lapai nosūtītā informācija (piemēram, paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.
+identity-description-tls-key-logging-heading = Jūsu savienojums, iespējams, nav privāts
+identity-description-tls-key-logging-message = Lietotne vai pakalpojums var redzēt jūsu šifrēto datplūsmu no šīs vietnes.
 identity-more-info-link-text =
     .label = Vairāk informācijas
 
@@ -736,6 +757,68 @@ urlbar-result-weather-title-city-only = { $city }: <strong>{ $temperature }°{ $
 urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prasīt
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Jūs pēdējo reizi apmeklējāt { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Jūs pēdējo reizi apmeklējāt pirms { $daysAgo } dienas
+        [zero] Jūs pēdējo reizi apmeklējāt pirms { $daysAgo } dienām
+       *[other] Jūs pēdējo reizi apmeklējāt pirms { $daysAgo } dienām
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Jūs pēdējo reizi apmeklējāt pirms { $weeksAgo } nedēļas
+        [zero] Jūs pēdējo reizi apmeklējāt pirms { $weeksAgo } nedēļām
+       *[other] Jūs pēdējo reizi apmeklējāt pirms { $weeksAgo } nedēļām
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Jūs pēdējo reizi apmeklējāt pirms { $monthsAgo } mēneša
+        [zero] Jūs pēdējo reizi apmeklējāt pirms { $monthsAgo } mēnešiem
+       *[other] Jūs pēdējo reizi apmeklējāt pirms { $monthsAgo } mēnešiem
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Jūs pēdējo reizi apmeklējāt { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Pievienots grāmatzīmēm { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Pēdējoreiz apmeklēts: { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Pēdējoreiz apmeklēts: { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Pēdējoreiz apmeklēts: { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -842,6 +925,12 @@ urlbar-searchmode-bookmarks4 = Grāmatzīmes
 urlbar-searchmode-tabs4 = Cilnes
 urlbar-searchmode-history4 = Vēsture
 urlbar-searchmode-actions4 = Darbības
+urlbar-searchmode-bookmarks3 = Grāmatzīmes (B)
+    .accesskey = B
+urlbar-searchmode-tabs3 = Cilnes (T)
+    .accesskey = T
+urlbar-searchmode-history3 = Vēsture (H)
+    .accesskey = H
 urlbar-searchmode-exit-button2 =
     .title = Aizvērt
 urlbar-searchmode-default2 =

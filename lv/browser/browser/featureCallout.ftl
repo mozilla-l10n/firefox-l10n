@@ -70,7 +70,31 @@ perplexity-callout-secondary-label-2 = Sapratu
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-subtitle = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Tērzējiet no uzdevumjoslas
+taskbar-tabs-chat-callout-subtitle = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
+taskbar-tabs-email-callout-title = Saglabājiet savu epastu uzdevumjoslā
+taskbar-tabs-email-callout-subtitle = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
+taskbar-tabs-media-callout-title = Atgriezieties pie straumēšanas no uzdevumjoslas
+taskbar-tabs-media-callout-subtitle = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Pievienot šo saiti uzdevumjoslai
+taskbar-tabs-value-prop-callout-subtitle = Palaidiet to atsevišķā logā un vienkāršotā saskarnē ar vienu klikšķi.
+
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Sazinieties ar mums, izmantojot uzdevumjoslu
+taskbar-tabs-email-callout-title-v3 = Saglabājiet iesūtni uzdevumjoslā
+taskbar-tabs-email-callout-subtitle-v3 = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Saglabājiet straumēšanu uzdevumjoslā
+taskbar-tabs-media-callout-subtitle-v3 = Palaidiet savas multivides vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Piespraudiet savas iecienītākās vietnes uzdevumjoslai
+taskbar-tabs-value-prop-callout-subtitle-v3 = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
 
 ## Sidebar Strings
 
