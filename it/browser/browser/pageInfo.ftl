@@ -110,6 +110,16 @@ security-view-technical =
     .value = Dettagli tecnici
 help-button =
     .label = Guida
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Il sito { $website } non supporta la crittazione per la pagina visualizzata.
+security-technical-no-encryption-transit = Le informazioni non crittate trasmesse attraverso Internet possono essere intercettate da terzi durante il transito.
+security-technical-no-encryption-page = La pagina visualizzata non è stata crittata prima della trasmissione via Internet.
+security-technical-encrypted-page = La pagina visualizzata è stata crittata prima della trasmissione via Internet.
+security-technical-encrypted-description = La crittazione rende difficile osservare le informazioni scambiate tra computer a persone non autorizzate. È quindi improbabile che qualcuno sia riuscito a leggere il contenuto di questa pagina durante il transito attraverso la rete.
+security-technical-mixed-content-description = Alcuni elementi della pagina che si sta visualizzando non sono stati crittati prima della trasmissione via Internet.
+security-technical-weak-cipher = La connessione con questo sito web utilizza una crittografia debole e non è privata. Altre persone potrebbero visualizzare le informazioni trasmesse o modificare il comportamento del sito.
+security-technical-ct-compliant = Questo sito web è conforme ai criteri di controllo per la trasparenza dei certificati.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Sì, cookie e { $value } { $unit } di dati
 security-site-data-only = Sì, { $value } { $unit } di dati
 security-site-data-cookies-only = Sì, cookie
 security-site-data-no = No
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Connessione non crittata
+security-technical-mixed-content =
+    .value = Connessione parzialmente crittata
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Connessione crittata ({ $algorithm }, chiavi a { $keySize } bit, { $protocol })
+security-technical-broken-encryption =
+    .value = Crittazione non funzionante ({ $algorithm }, chiavi a { $keySize } bit, { $protocol })
 
 ##
 
