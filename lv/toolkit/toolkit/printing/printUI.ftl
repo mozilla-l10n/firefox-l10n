@@ -5,9 +5,28 @@
 printui-title = Drukāt
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Saglabāt kā
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] { $sheetCount } papīra lapa
+        [zero] { $sheetCount } papīra lapas
+       *[other] { $sheetCount } papīra lapas
+    }
+printui-page-range-all = Visi
+printui-page-range-current = Pašreizējais
+printui-page-range-odd = Nepāra
+printui-page-range-even = Pāra
+printui-page-range-custom = Pielāgots
 printui-page-range-label = Lapas
+printui-page-range-picker =
+    .aria-label = Izvēlieties lappušu diapazonu
+printui-page-custom-range-input =
+    .aria-label = Ievadiet pielāgotu lappušu diapazonu
+    .placeholder = piemēram, 2–6, 9, 12–16
 # Section title for the number of copies to print
 printui-copies-label = Kopijas
+printui-orientation = Orientācija
 printui-orientation-control =
     .aria-label = Novietojums
 printui-landscape-2 =
@@ -18,21 +37,56 @@ printui-portrait-2 =
     .title = Stateniski
 printui-landscape = Ainava
 printui-portrait = Portrets
+# Section title for the printer or destination device to target
+printui-destination-label = Mērķis
 printui-destination-pdf-label = Saglabāt kā PDF
 printui-more-settings = Vairāk iestatījumu
+printui-less-settings = Mazāk iestatījumu
 printui-paper-size-label = Papīra izmērs
+# Section title (noun) for the print scaling options
+printui-scale = Mērogs
+printui-scale-fit-to-page-width = Pielāgot lapas platumam
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Mērogs
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Abpusējā drukāšana
+printui-two-sided-printing-off = Izslēgts
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Apgriezt garajā malā
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Apgriezt pa īso malu
 # Section title for miscellaneous print options
 printui-options = Iespējas
+printui-headers-footers-checkbox = Galveņu un kājeņu drukāšana
+printui-backgrounds-checkbox = Drukāt fonus
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Formāts
+# Option for printing the original page.
+printui-source-radio = Oriģināls
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Izlase
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Vienkāršots
 
 ##
 
 printui-color-mode-label = Krāsu režīms
 printui-color-mode-color = Krāsains
 printui-color-mode-bw = Melnbalts
+printui-margins = Apmales
+printui-margins-default = Noklusējuma
+printui-margins-min = Minimums
+printui-margins-none = Nekāds
+printui-margins-custom-inches = Pielāgots (collās)
+printui-margins-custom-mm = Pielāgots (mm)
+printui-margins-custom-top = Augšā
+printui-margins-custom-top-inches = Augša (collās)
+printui-margins-custom-top-mm = Augša (mm)
 printui-primary-button = Drukāt
 printui-primary-button-save = Saglabāt
 printui-cancel-button = Atcelt

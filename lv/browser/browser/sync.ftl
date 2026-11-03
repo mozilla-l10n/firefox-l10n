@@ -86,7 +86,7 @@ sync-setup-verify-heading = Vai tiešām pieteikties, lai vienādotu?
 # that they will be merging the data from the previously signed in into the newly signed in one
 # Variables:
 #   $email - Email address of a user previously signed into sync.
-sync-setup-verify-description = Cits lietotājs iepriekš bija pierakstījies vienādošanai šajā datorā. Pierakstoties, šī pārlūka grāmatzīmes, paroles un citi iestatījumi tiks apvienoti ar epasta { $email } konta tādiem pašiem datiem
+sync-setup-verify-description = Cits lietotājs iepriekš bija pieteicies vienādošanai šajā datorā. Pēc pieteikšanās šī pārlūka grāmatzīmes, paroles un citi iestatījumi tiks apvienoti ar konta { $email } tādiem pašiem datiem
 
 ## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
