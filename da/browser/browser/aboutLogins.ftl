@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importer fra en anden b
 about-logins-menu-menuitem-import-from-a-file = Importer fra fil…
 about-logins-menu-menuitem-export-logins2 = Eksporter adgangskoder…
 about-logins-menu-menuitem-remove-all-logins2 = Fjern alle adgangskoder…
+about-logins-menu-menuitem-delete-all-logins = Slet alle adgangskoder…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Indstillinger
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Klik på knappen med plus-tegnet ovenfor for at til
 about-logins-login-item-new-login-title = Tilføj adgangskode
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
+about-logins-login-item-delete-button = Slet
 login-item-origin-label = Webstedets adresse
 about-logins-origin-tooltip2 = Indtast den fulde adresse, og sørg for, at den svarer nøjagtigt til, hvor du logger ind.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Annuller
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Fjern adgangskoden?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Slet adgangskode?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Du kan ikke fortryde denne handling.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Dette sletter den fra { -brand-short-name } på alle enheder, der synkroniserer dine adgangskoder. Du kan ikke fortryde dette.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Slet
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,11 +195,23 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Fjern
        *[other] Fjern alle
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Slet
+       *[other] Slet alle
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Ja, fjern adgangskoden
        *[other] Ja, fjern adgangskoder
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, slet adgangskode
+       *[other] Ja, slet adgangskoder
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -211,11 +231,23 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Fjern { $count } adgangskode fra alle enheder?
        *[other] Fjern alle { $count } adgangskoder fra alle enheder?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Slet { $count } adgangskode?
+       *[other] Slet { $count } adgangskoder?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Denne handling fjerner adgangskoden gemt i { -brand-short-name } på alle dine synkroniserede enheder. Handlingen vil også fjerne alle advarsler om datalæk, der vises her. Du kan ikke fortryde denne handling.
        *[other] Denne handling fjerner alle adgangskoder gemt i { -brand-short-name } på alle dine synkroniserede enheder. Handlingen vil også fjerne alle advarsler om datalæk, der vises her. Du kan ikke fortryde denne handling.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Dette sletter den fra { -brand-short-name } på alle enheder, der synkroniserer dine adgangskoder. Du kan ikke fortryde dette.
+       *[other] Dette sletter dem fra { -brand-short-name } på alle enheder, der synkroniserer dine adgangskoder. Du kan ikke fortryde dette.
     }
 
 ##

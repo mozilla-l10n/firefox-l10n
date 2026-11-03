@@ -141,6 +141,9 @@ permissions-site-notification-desc = Følgende websteder har anmodet om at sende
 permissions-site-notification-disable-label =
     .label = Bloker nye anmodninger om at tillade beskeder.
 permissions-site-notification-disable-desc = Dette vil forhindre websteder, der ikke er angivet ovenfor, i at anmode om din tilladelse til at sende beskeder. At blokere beskeder kan muligvis forhindre nogle websteder i at fungere optimalt.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Tillad websteds-beskeder når { -brand-short-name } er lukket
 
 ## Site Permissions - Location
 

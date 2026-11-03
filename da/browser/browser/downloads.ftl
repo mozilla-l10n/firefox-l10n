@@ -40,6 +40,9 @@ downloads-file-moved-or-missing = Filen er flyttet eller slettet
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Fil slettet
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Fil kasseret (blokeret)
 # Variables:
 #   $size (String) - The size number, for example "1.5".
 #   $unit (String) - The measurement unit, for example "MB".

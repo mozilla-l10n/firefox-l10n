@@ -748,6 +748,65 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsoreret
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spørg
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Du besøgte sidst { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Du besøgte sidst for { $daysAgo } dag siden
+       *[other] Du besøgte sidst for { $daysAgo } dage siden
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Du besøgte sidst for { $weeksAgo } uge siden
+       *[other] Du besøgte sidst for { $weeksAgo } uger siden
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Du besøgte sidst for { $monthsAgo } måned siden
+       *[other] Du besøgte sidst for { $monthsAgo } måneder siden
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Du besøgte sidst den { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Bogmærke sat { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Sidst besøgt { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Sidst besøgt { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Sidst besøgt { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1337,8 +1396,14 @@ private-browsing-indicator-label = Privat browsing
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privat browsing
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Privat browsing-info
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Du befinder dig i et privat vindue
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Dette hjælper med at skjule din browsing for andre på denne enhed, men det gør dig ikke usynlig på nettet. <a data-l10n-name="learn-more">Hvem kan muligvis se min aktivitet?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1389,6 +1454,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Ryd data og start en ny, privat session?
+reset-pbm-panel-description3 = Dette rydder din historik og dine cookies og logger dig ud af websteder. Dine private vinduer lukkes, og et nyt åbnes.
 reset-pbm-panel-description2 = Dette sletter historik, cookies og alle andre data uden at lukke dit private vindue.
 reset-pbm-panel-always-ask-checkbox =
     .label = Spørg altid
@@ -1424,6 +1490,9 @@ fire-button-panel-confirm-button =
     .label = Slet alt
     .accesskey = S
 fire-button-panel-complete = Browsing-data slettet
+fire-button-toolbar-button2 =
+    .label = Slet nogle eller alle data
+    .tooltiptext = Slet nogle af eller alle dine browsing-data
 
 ## Autorefresh blocker
 

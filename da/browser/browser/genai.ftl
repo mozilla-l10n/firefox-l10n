@@ -60,6 +60,9 @@ genai-menu-remove-provider =
     .label = Fjern { $provider }
 genai-menu-remove-sidebar =
     .label = Fjern fra sidepanel
+genai-shortcut-button-3 =
+    .aria-label = Spørg om denne tekst
+    .tooltiptext = Spørg om denne tekst
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =
@@ -68,14 +71,35 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Kopier markeret tekst
     .tooltiptext = Kopier markeret tekst
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopieret
 genai-shortcut-more-actions-button =
     .aria-label = Flere indstillinger
     .tooltiptext = Flere indstillinger
+genai-more-actions-panel =
+    .aria-label = Vælg hvilke handlinger der skal vises
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Spørg { $provider }
+genai-more-actions-ai-generic =
+    .label = Spørg AI
+genai-more-actions-search =
+    .label = Søg
+genai-more-actions-copy =
+    .label = Kopier
+genai-more-actions-manage-settings =
+    .label = Håndter indstillinger
+genai-selection-callout-title = Fremhæv tekst for at vælge en handling
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Søg eller kopier, når du markerer tekst. Vælg, hvilke handlinger der vises, med menuen <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Spørg { $provider }
 genai-menu-new-badge = Ny
 genai-menu-summarize-page = Sammenfat side
+genai-input-ask-smart-window =
+    .placeholder = Spørg…
 genai-input-ask-generic =
     .placeholder = Spørg AI-chatbot...
 # $provider (string) - name of the provider
@@ -114,6 +138,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Spørg en AI-chatbot
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = Spørg…
+    .accesskey = S
 
 ## Chatbot header
 
@@ -236,6 +263,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Søg
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopier
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vil du se mere med AI?
 # Message that appears when user is shown the opt-in flow for link previews
