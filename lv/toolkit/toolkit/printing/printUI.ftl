@@ -87,10 +87,26 @@ printui-margins-custom-mm = Pielāgots (mm)
 printui-margins-custom-top = Augšā
 printui-margins-custom-top-inches = Augša (collās)
 printui-margins-custom-top-mm = Augša (mm)
+printui-margins-custom-bottom = Apakšā
+printui-margins-custom-bottom-inches = Apakša (collās)
+printui-margins-custom-bottom-mm = Apakša (mm)
+printui-margins-custom-left = Kreisā
+printui-margins-custom-left-inches = Kreisā (collas)
+printui-margins-custom-left-mm = Kreisā (mm)
+printui-margins-custom-right = Labā
+printui-margins-custom-right-inches = Labā (collas)
+printui-margins-custom-right-mm = Labā (mm)
+printui-system-dialog-link = Drukāt, izmantojot sistēmas dialoglodziņu…
 printui-primary-button = Drukāt
 printui-primary-button-save = Saglabāt
 printui-cancel-button = Atcelt
 printui-close-button = Aizvērt
+printui-loading = Priekšskatījuma sagatavošana
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Drukas priekšskatījums
+printui-pages-per-sheet = Lappuses uz lapas
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Drukā…
@@ -106,3 +122,18 @@ printui-paper-a1 = A1
 printui-paper-a0 = A0
 printui-paper-b5 = B5
 printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Mēroga vērtībai jābūt skaitlim no 10 līdz 200.
+printui-error-invalid-margin = Lūdzu, ievadiet derīgu apmali izvēlētajam papīra izmēram.
+printui-error-invalid-copies = Kopiju skaitam jābūt no 1 līdz 10 000.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Diapazonam jābūt skaitlim no 1 līdz { $numPages }.
+printui-error-invalid-start-overflow = Lappuses numuram “no” jābūt mazākam par lappuses numuru “līdz”.
