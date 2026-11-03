@@ -484,7 +484,7 @@ update-setting-write-failure-title2 = Radās kļūda, saglabājot atjaunināšan
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    { -brand-short-name } radās kļūda un šīs izmaiņas netika saglabātas. Ņemiet vērā, ka mainot atjaunināšanas iestatījumus, ir nepieciešamas tiesības rakstīt zemāk esošajā datnē. Iespējams, jūs vai jūsu sistēmas administrators varēs novērst šo kļūdu, piešķirot grupai “Lietotājs” pilnu kontroli pār šo datni.
+    { -brand-short-name } radās kļūda, un šīs izmaiņas netika saglabātas. Jāņem vērā, ka šī atjaunināšanas iestatījuma mainīšanai ir nepieciešamas tiesības rakstīt zemāk norādītajā datnē. Tu vai sistēmas pārvaldītājs var novērst šo kļūdu ar pilnas piekļuves piešķiršanu šai datnei kopai “Lietotāji”.
     
     Neizdevās rakstīt datnē: { $path }
 update-in-progress-title = Atjaunina
