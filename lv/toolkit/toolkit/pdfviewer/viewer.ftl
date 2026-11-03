@@ -188,6 +188,8 @@ pdfjs-printing-not-ready = Uzmanību: PDF nav pilnībā ielādēts drukāšanai.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-current-outline-item-button =
+    .title = Atrast pašreizējo satura rādītāja vienumu
 pdfjs-current-outline-item-button-label = Pašreizējais satura rādītāja vienums
 pdfjs-findbar-button =
     .title = Meklēt dokumentā
@@ -309,6 +311,7 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = Pievienot vai labot attēlus
 pdfjs-editor-highlight-button =
     .title = Izcelt
+pdfjs-editor-highlight-button-label = Izcelt
 pdfjs-highlight-floating-button1 =
     .aria-label = Izcelt
     .title = Izcelt
@@ -408,6 +411,9 @@ pdfjs-editor-alt-text-edit-button =
 pdfjs-editor-alt-text-dialog-label = Izvēlieties opciju
 pdfjs-editor-alt-text-dialog-description = Alt teksts (alternatīvs teksts) palīdz, ja cilvēki neredz attēlu vai tas neielādējas.
 pdfjs-editor-alt-text-add-description-label = Pievienot aprakstu
+pdfjs-editor-alt-text-add-description-description = Izteikums 1–2 teikumos, kas apraksta tēmu, vidi vai darbības.
+pdfjs-editor-alt-text-mark-decorative-label = Atzīmēt kā dekoratīvu
+pdfjs-editor-alt-text-mark-decorative-description = To izmanto dekoratīviem attēliem, piemēram, apmalēm vai ūdenszīmēm.
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
@@ -542,6 +548,11 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-notification-button =
+    .title = Pārslēgt sānu joslu (dokumentā ir sīktēli/saturs/pielikumi/slāņi)
+pdfjs-views-manager-outlines-title1 = Dokumenta saturs
+    .title = Dokumenta saturs (veiciet dubultklikšķi, lai izvērstu/sakļautu visus vienumus)
+pdfjs-views-manager-outlines-option-label = Dokumenta saturs
 pdfjs-views-manager-add-file-button =
     .title = Pievienot datni
 pdfjs-views-manager-add-file-button-label = Pievienot datni
@@ -580,3 +591,61 @@ pdfjs-digital-signature-properties-banner-untrusted =
         [zero] Dokuments ir parakstīts ar { $count } neuzticamu sertifikātu
        *[other] Dokuments ir parakstīts ar { $count } neuzticamiem sertifikātiem
     }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokuments parakstīts ar { $count } sertifikātu, kura derīguma termiņš ir beidzies
+        [zero] Dokuments parakstīts ar { $count } sertifikātu, kura derīguma termiņš ir beidzies
+       *[other] Dokuments parakstīts ar { $count } sertifikātiem, kuriem derīguma termiņš ir beidzies
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokumentam ir { $count } nederīgs digitālais paraksts
+        [zero] Dokumentam ir { $count } nederīgi digitālie paraksti
+       *[other] Dokumentam ir { $count } nederīgi digitālie paraksti
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokuments parakstīts ar atsauktu sertifikātu { $count }
+        [zero] Dokuments parakstīts ar { $count } atsauktiem sertifikātiem
+       *[other] Dokuments parakstīts ar { $count } atsauktiem sertifikātiem
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Statuss: Paraksts verificēts
+pdfjs-digital-signature-properties-status-invalid = Statuss: Paraksts nederīgs
+pdfjs-digital-signature-properties-status-unknown = Statuss: Nevar verificēt (neatbalstīts)
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = Sertifikāts: Uzticams ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Sertifikāts: Nav pieejams
+pdfjs-digital-signature-properties-certificate-untrusted = Sertifikāts: neuzticams
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Sertifikāts: Nezināms izdevējs ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Sertifikāts: Pašparakstīts ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Sertifikāts: Neuzticams izdevējs ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Sertifikāts: Beidzies derīguma termiņš
+pdfjs-digital-signature-properties-certificate-expired-with-date = Sertifikāts: Beidzies derīguma termiņš ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Sertifikāts: Atsaukts
+
+## Main menu for adding/removing signatures
+
+pdfjs-editor-delete-signature-button1 =
+    .title = Noņemt saglabāto parakstu
+pdfjs-editor-delete-signature-button-label1 = Noņemt saglabāto parakstu
+
+## Editor toolbar
+
+pdfjs-editor-add-signature-edit-button-label = Labot aprakstu
+
+## Edit signature description dialog
+
+pdfjs-editor-edit-signature-dialog-title = Labot aprakstu
