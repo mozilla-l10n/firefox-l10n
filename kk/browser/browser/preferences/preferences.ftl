@@ -1406,6 +1406,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Төлем әдістерін басқару
     .accesskey = б
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Автотолтыру үшін құрылғыға кіруді талап ету
+    .accesskey = о
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Төлем әдістерін автотолтыру және басқару үшін құрылғыға кіруді талап ету
     .accesskey = о
@@ -1858,10 +1862,38 @@ permissions-data-section =
     .heading = Рұқсаттар мен деректер
 pane-permissions-data-title2 = Рұқсаттар мен деректер
     .title = Рұқсаттар мен деректер
+notifications-section-header =
+    .heading = Хабарландырулар
+notifications-entry-card-header =
+    .description = Қай веб-сайттардың хабарландыру жібере алатынын және бұл дабылдар қалай көрсетілетінін таңдаңыз.
+    .label = Хабарландырулар
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+           *[other] { $count } веб-сайт
+        }
+    .label = Хабарландыру баптауларын басқару
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Веб-сайт хабарландыруларының баптауларын басқару
+notifications-website-card-header =
+    .description = Веб-сайттардың хабарландыру жіберу тәсілін таңдаңыз.
+    .label = Веб-сайт хабарландырулары
+notifications-filter =
+    .placeholder = Веб-сайттарды іздеу
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
     .label = Веб-сайт
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Хабарландыруларға рұқсат ету
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
@@ -1878,6 +1910,13 @@ notifications-state-allow = Рұқсат ету
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Ешқашан
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Веб-сайт хабарландырулары қосылмаған.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Іздеуіңізге сәйкес келетін веб-сайт хабарландырулары жоқ.
 
 ## Privacy Section - Data Collection
 

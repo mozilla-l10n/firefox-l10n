@@ -530,6 +530,10 @@ restore-session-startup-suggestion-button = Қалай жасау керекті
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Таңдаулы сайттарыңызды қолданба сияқты ашыңыз
+taskbar-tabs-spotlight-subtitle = Бір шерту ең көп пайдаланылатын сайттарды { -brand-short-name } барлық қорғауымен оңтайландырылған терезеде іске қосады.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Тапсырмалар панеліне қосу үшін таңдаңыз
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Қосу

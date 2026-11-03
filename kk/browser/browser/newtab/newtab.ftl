@@ -817,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Барлығын оқып ш�
 newtab-discovery-empty-section-topstories-content = Көбірек оқиғаларды көру үшін кейінірек кіріңіз.
 newtab-discovery-empty-section-topstories-try-again-button = Қайталап көру
 newtab-discovery-empty-section-topstories-loading = Жүктелуде…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Әңгімелер қазір қолжетімді емес.
+newtab-discovery-empty-section-topstories-unavailable-body = Байланысты тексеріңіз немесе кейінірек қайталап көріңіз.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Қап! Бұл санатты жүктеуді аяқтауға сәл қалды, бірақ бітпеді.
 
@@ -1113,6 +1116,9 @@ newtab-wallpaper-firefox-peak-dark = Сол жақ шетінде, қараңғ�
 newtab-wallpaper-firefox-peak-light = Сол жақ шетінде, ашық фонда түлкінің беті
 newtab-wallpaper-firefox-sky-dark = Түнгі аспан астындағы қою күлгін төбелер
 newtab-wallpaper-firefox-sky-light = Тынық аспан астындағы жарық төбелер
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Қызыл фондағы Wrexham AFC эмблемасы
 
 ## Firefox
 
@@ -1149,6 +1155,10 @@ newtab-weather-change-location-search-input-placeholder =
 newtab-weather-search-back-button =
     .aria-label = Артқа
     .title = Артқа
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Орналасу бойынша ұсыныстар
 newtab-weather-cancel-input =
     .aria-label = Бас тарту
     .title = Бас тарту
@@ -1548,6 +1558,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Кроссворд мәзірін ашу
     .title = Кроссворд мәзірін ашу
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Particle негізінде
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

@@ -142,6 +142,12 @@ permissions-site-notification-desc = Келесі веб-сайттар сізг
 permissions-site-notification-disable-label =
     .label = Хабарламаларды рұқсат етуге жаңа сұранымдарды блоктау
 permissions-site-notification-disable-desc = Бұл төменде тізілмеген веб-сайттарға хабарламаларды жіберуге рұқсат сұрауға тыйым салады. Хабарламаларды блоктау веб-сайттардың кейбір мүмкіндіктерін сындыра алады.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = { -brand-short-name } жабық болған кезде веб-сайт хабарландыруларына рұқсат ету
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = ОЖ хабарландыру баптаулары да қолданылады.
 
 ## Site Permissions - Location
 

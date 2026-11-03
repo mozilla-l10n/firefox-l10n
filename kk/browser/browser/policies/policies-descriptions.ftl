@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } үшін зерттеуле
 policy-DisableForgetButton = Ұмыту батырмасына рұқсатты жабу.
 policy-DisableFormHistory = Іздеу және формалар тарихын сақтамау.
 policy-DisableLaunchOnLogin = Пайдаланушы жүйеге кірген кезде { -brand-short-name } автоматты түрде іске қосылуын болдырмау.
+policy-DisableMacOSUserPolicies = macOS жүйесінде пайдаланушы баптаулары мен пайдаланушы көріну аймағындағы конфигурация профильдерінің саясаттарын елемеу.
 policy-DisablePrimaryPasswordCreation = Мәні true болса, басты парольді орнату мүмкін болмайды.
 policy-DisablePasswordReveal2 = Сақталған логиндерде немесе парольдер өрістерінде парольдерді көрсетуге жол бермеу.
 policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру

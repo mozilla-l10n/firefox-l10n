@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Дауыстап оқу
+narrate-rate-input =
+    .aria-label = -100 бен 100 аралығындағы дыбыстау жылдамдығын таңдаңыз, мұнда 0 — бастапқы жылдамдық.
+    .title = Жылдамдығы
 narrate-rate-slow =
     .title = Дыбыстауды баяулату
 narrate-rate-fast =

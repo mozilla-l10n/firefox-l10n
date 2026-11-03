@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = { $midnightTime } бастап
 clear-time-duration-value-today =
     .label = бүгінгі тарихымды
+clear-time-duration-value-all-time =
+    .label = Барлық уақытта
 clear-time-duration-value-everything =
     .label = Барлығы
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Тарих
+item-history-and-downloads2 =
+    .label = Шолу және жүктеп алулар тарихы
+    .accesskey = Ш
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Қаралған сайттар мен жүктеп алулар тізімі
 item-history-and-downloads =
     .label = Қарап шығу және жүктемелер тарихы
     .accesskey = ш
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies файлдары және сайт деректері
     .accesskey = е
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Тіркелгіден шығарады және онлайн дүкен себеттерін тазартуы мүмкін
 item-cookies-site-data-description = Сізді сайттардан шығуға немесе себеттер босатылуына әкеп соғуы мүмкін
 item-active-logins =
     .label = Белсенді сессиялар
@@ -86,9 +95,17 @@ item-active-logins =
 item-cache =
     .label = Кэш
     .accesskey = К
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Уақытша файлдар ({ $amount } { $unit })
+    .accesskey = У
 item-cached-content2 =
     .label = Уақытша файлдар
     .accesskey = ф
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Сайттардың жылдамырақ жүктелуіне көмектеседі
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -108,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Сақталған форма ақпараты
     .accesskey = о
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Аттар, эл. пошта адрестері және форма жазбалары
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Веб-сайт рұқсаттары мен баптаулары
 item-formdata-description = Формаларда енгізген аттар, эл. пошта және басқа элементтер сияқты нәрселерді өшіреді
 item-site-prefs-description = Рұқсаттарыңыз бен сайт баптауларын бастапқы параметрлерге тастау
 data-section-label = Мәліметтер
@@ -117,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Дербес веб-сайттар деректері
     .accesskey = Д
+sanitize-everything-undo-warning2 = Бұл әрекетті болдырмау мүмкін емес.
 sanitize-everything-undo-warning = Бұл әрекетті болдырмау мүмкін емес болады.
 window-close =
     .key = w

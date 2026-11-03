@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = { -brand-product-na
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-description-private-browsing = Жекелік терезесінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Шолу кезінде орналасуыңызды жасыруға көмектеседі. Сізге <a data-l10n-name="learn-more-vpn">қосымша жекелік</a> немесе орналасуға негізделген шолу қажет болғанда VPN-ді қосу, ал қажет болмағанда сөндіру ережелерін орнатыңыз.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Шолу кезінде <a data-l10n-name="learn-more-vpn">қосымша жекелік</a> үшін орналасуыңызды жасыруға көмектесіңіз. Қосымша жекелік немесе орналасуға негізделген шолу үшін VPN-ді қосу, ал қажет емес жерде сөндіру ережелерін орнатыңыз.
 ipprotection-feature-introduction-title-captive-portal = Жалпыға ортақ Wi-Fi желісіндесіз бе? { -brand-product-name } құрамындағы VPN қызметін қолданып көріңіз.
 ipprotection-feature-introduction-description-captive-portal = Қоғамдық Wi-Fi желісінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Түсіндім
 ipprotection-site-inclusions-callout-title-existing-users = Кіріктірілген VPN ережелерін орнатыңыз, содан кейін шолуды жалғастырыңыз
 ipprotection-site-inclusions-callout-title-lapsed-users = Кіріктірілген VPN қолданып көріңіз, енді оны сайт бойынша іске қосуға болады
 ipprotection-site-inclusions-callout-description-1 = Қосымша жекелік немесе орналасуға негізделген шолу қажет болғанда VPN іске қосыңыз, ал қажет болмаған кезде сөндіріңіз.
+ipprotection-site-inclusions-callout-description-lapsed-users = Сізге қосымша жекелік немесе орналасуға негізделген шолу қажет болғанда VPN-ді қосу, ал қажет болмағанда сөндіру ережелерін орнатыңыз.
 ipprotection-site-inclusions-callout-description = Қосымша жекелік немесе орналасуға негізделген шолу қажет болғанда оны іске қосыңыз, ал қажет болмаған кезде сөндіріңіз.
 ipprotection-site-inclusions-callout-primary-button = Ережелерді орнату
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Қазір емес
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Елеме�
 ipprotection-holiday-promo-description = Кіріктірілген VPN арқылы шолуды жеке қылыңыз және бақылауды қиындатыңыз.
 ipprotection-holiday-promo-primary-button = VPN ашу
 ipprotection-holiday-promo-secondary-button = Елемеу
+ipprotection-holiday-promo-title-1 = 31 қаңтарға дейін шектеусіз VPN алыңыз
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Орналасқан жері
 ipprotection-message-continuous-onboarding-autostart = { -brand-short-name } браузерін әр ашқан сайын қосымша қорғаныс қабатын қамтамасыз ету үшін <a data-l10n-name="setting-link">VPN-ді автоматты түрде іске қосылатындай етіп баптаңыз</a>.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } қай веб-сайттар үшін VPN қолдануды таңдағаныңызды есте сақтайды. Бұл тізімді кез келген уақытта <a data-l10n-name="setting-link">баптаулар</a> бөлімінде өзгерте аласыз.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN бұл сайт үшін сөндірулі тұр
+confirmation-hint-ipprotection-navigated-to-included-site = Бұл сайт үшін VPN іске қосулы тұр
 ipprotection-open-button = { -brand-product-name } ашу
 ipprotection-come-back-title = Кірістірілген VPN-ді қолданып көру үшін оралыңыз
 ipprotection-message-body-hide-location = Көбірек жекелік пен басқару үшін { -brand-product-name } ішінде шолу кезінде орналасуыңызды жасырыңыз.
@@ -460,5 +465,7 @@ vpn-error-page-keep-browsing = Осы сессияда шолуды жалғас
 vpn-error-page-new-session = Жаңа сессияны бастау
 vpn-paused-alert-close-tabs-button = Барлық беттерді жабу
 vpn-paused-alert-continue-wo-vpn-button = VPN-сіз жалғастыру
+vpn-error-alert-title-1 = VPN және ережелер қазір жұмыс істемей тұр.
+vpn-error-alert-body-1 = VPN-ді сөндіріп қайта қосу мәселені шешуі мүмкін.
 vpn-error-alert-title = VPN қазір жұмыс істеп тұрған жоқ.
 vpn-error-alert-body = Кейінірек қайталап көріңіз.

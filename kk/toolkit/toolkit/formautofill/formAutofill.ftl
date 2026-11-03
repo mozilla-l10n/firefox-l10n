@@ -111,8 +111,18 @@ credit-card-capture-save-as-new-payment-method-button =
     .label = Жаңа ретінде сақтау
     .accessKey = с
 
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Қауіпсіздік кодын сақтау керек пе?
+
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
+credit-card-save-payment-method-doorhanger-header = Бұл төлем әдісін сақтау керек пе?
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = Төлемді жылдамырақ жасау үшін { -brand-short-name } төлем деректеріңізді шифрлейді және оларды автотолтырады.
 credit-card-capture-dismiss-button =
     .label = Елемеу
     .accessKey = Е

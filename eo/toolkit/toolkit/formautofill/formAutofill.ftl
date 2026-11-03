@@ -72,7 +72,13 @@ autofill-card-security-code-label = CVC
 ## network calls it.
 
 # Visa calls it "CVV".
-credit-card-security-code-name-visa = Kreditkarta kontrola kodo (CVV)
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = Sekureca kodo
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
@@ -86,6 +92,48 @@ credit-card-security-code-name-visa = Kreditkarta kontrola kodo (CVV)
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-capture-update-payment-method-button =
+    .label = Ĝisdatigi
+    .accessKey = d
+credit-card-update-saved-payment-method-doorhanger-header = Ĉu ĝisdatigi la konservitan pagmetodon?
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Konservi kiel novan
+    .accessKey = n
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Ĉu konservi la sekurecan kodon?
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Ĉu konservi tiun ĉi pagmetodon?
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } ĉifras kaj aŭtomate plenigas viajn pagajn detalojn por rapidigi viajn retajn aĉetojn.
+credit-card-capture-dismiss-button =
+    .label = Ignori
+    .accessKey = I
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Ĉiam konservi sekurecajn kodojn
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Ne konservi sekurecajn kodojn
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
