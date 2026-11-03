@@ -1351,7 +1351,9 @@ filepicker-blocked-infobar = 您的组织已阻止此计算机访问本地文件
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } 现用于搜索标签页
 urlbar-addons-shortcut-moved-change-shortcuts = 管理快捷方式
+urlbar-addons-shortcut-moved-dismiss = 知道了
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
