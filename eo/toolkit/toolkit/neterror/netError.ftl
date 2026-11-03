@@ -106,6 +106,15 @@ neterror-dns-not-found-offline-hint-different-device = Provu konektiĝi el alia 
 neterror-dns-not-found-offline-hint-modem = Kontrolu vian modemon aŭ retalirilon.
 neterror-dns-not-found-offline-hint-reconnect = Malkonektu kaj rekonektu la sendratan reton (Wi-Fi).
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Neniu servo akceptas konektojn en la pordo { $port }. Kontrolu ĉu la loka servilo funkcias.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Se ĝi funkcias, kontrolu ĉu ĝi uzas la pordon { $port }.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

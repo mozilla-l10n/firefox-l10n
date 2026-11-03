@@ -189,7 +189,6 @@ monitor-resolve-breaches-link = Razreši kraje
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sledilci družbenih omrežij
     .aria-label =
         { $count ->
             [one] { $count } sledilec družbenih omrežij ({ $percentage } %)
@@ -197,8 +196,8 @@ bar-tooltip-social =
             [few] { $count } sledilci družbenih omrežij ({ $percentage } %)
            *[other] { $count } sledilcev družbenih omrežij ({ $percentage } %)
         }
+    .title = Sledilci družbenih omrežij
 bar-tooltip-cookie =
-    .title = Piškotki za sledenje med spletnimi mesti
     .aria-label =
         { $count ->
             [one] { $count } piškotek za sledenje med spletnimi mesti ({ $percentage } %)
@@ -206,8 +205,8 @@ bar-tooltip-cookie =
             [few] { $count } piškotki za sledenje med spletnimi mesti ({ $percentage } %)
            *[other] { $count } piškotkov za sledenje med spletnimi mesti ({ $percentage } %)
         }
+    .title = Piškotki za sledenje med spletnimi mesti
 bar-tooltip-tracker =
-    .title = Sledilna vsebina
     .aria-label =
         { $count ->
             [one] { $count } sledilna vsebina ({ $percentage } %)
@@ -215,8 +214,8 @@ bar-tooltip-tracker =
             [few] { $count } sledilne vsebine ({ $percentage } %)
            *[other] { $count } sledilnih vsebin ({ $percentage } %)
         }
+    .title = Sledilna vsebina
 bar-tooltip-fingerprinter =
-    .title = Sledilci prstnih odtisov
     .aria-label =
         { $count ->
             [one] { $count } sledilec prstnih odtisov ({ $percentage } %)
@@ -224,8 +223,8 @@ bar-tooltip-fingerprinter =
             [few] { $count } sledilci prstnih odtisov ({ $percentage } %)
            *[other] { $count } sledilcev prstnih odtisov ({ $percentage } %)
         }
+    .title = Sledilci prstnih odtisov
 bar-tooltip-cryptominer =
-    .title = Kriptorudarji
     .aria-label =
         { $count ->
             [one] { $count } kriptorudar ({ $percentage } %)
@@ -233,6 +232,7 @@ bar-tooltip-cryptominer =
             [few] { $count } kriptorudarji ({ $percentage } %)
            *[other] { $count } kriptorudarjev ({ $percentage } %)
         }
+    .title = Kriptorudarji
 # Privacy Metrics Card
 privacy-metrics-title = Zaščite zasebnosti
 # Variables:
@@ -269,7 +269,7 @@ privacy-metrics-cookies =
         [one] { $count } sledilni piškotek
         [two] { $count } sledilna piškotka
         [few] { $count } sledilni piškotki
-       *[other] { $count } sledilnih piškotov
+       *[other] { $count } sledilnih piškotkov
     }
 # Variables:
 #   $count (Number) - Number of social trackers blocked
