@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Mewnforio o Borwr Arall
 about-logins-menu-menuitem-import-from-a-file = Mewnforio o Ffeil…
 about-logins-menu-menuitem-export-logins2 = Allforio Cyfrineiriau…
 about-logins-menu-menuitem-remove-all-logins2 = Tynnu Pob Cyfrinair…
+about-logins-menu-menuitem-delete-all-logins = Dileu Pob Cyfrinair…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opsiynau
@@ -97,6 +98,7 @@ about-logins-intro-import3 = Dewiswch y botwm arwydd plws uchod i ychwanegu cyfr
 about-logins-login-item-new-login-title = Ychwanegu cyfrinair
 login-item-edit-button = Golygu
 about-logins-login-item-remove-button = Tynnu
+about-logins-login-item-delete-button = Dileu
 login-item-origin-label = Cyfeiriad Gwefan
 about-logins-origin-tooltip2 = Rhowch y cyfeiriad llawn a gwnewch yn siŵr ei fod yn cyfateb yn union i ble rydych chi'n mewngofnodi.
 # Variables
@@ -182,9 +184,15 @@ confirmation-dialog-dismiss-button =
     .title = Diddymu
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Tynnu cyfrinair?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Dileu cyfrinair?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Nid oes modd i chi ddadwneud y weithred hon.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Mae hyn yn ei ddileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu eich cyfrineiriau. Allwch chi ddim dadwneud hyn.
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Dileu
 
 ## Variables
 ##   $count (number) - Number of items
@@ -198,6 +206,17 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Tynnu
         [many] Tynnu
        *[other] Tynnu'r Cyfan
+    }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Dileu
+        [zero] Dileu'r Cyfan
+        [one] Dileu'r Cyfan
+        [two] Dileu'r Cyfan
+        [few] Dileu'r Cyfan
+        [many] Dileu'r Cyfan
+       *[other] Dileu'r Cyfan
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
