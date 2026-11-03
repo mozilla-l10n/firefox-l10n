@@ -17,6 +17,7 @@ customkeys-reset-all = Барлық жарлықтарды бастапқы мә
 customkeys-conflict-confirm = Бұл кілт { $conflict } үшін тағайындалған болып тұр. Оны алмастырғыңыз келе ме?
 customkeys-reset-all-confirm = Барлық пернетақта жарлықтарын әдепкі мәндеріне қайтаруға сенімдісіз бе?
 customkeys-file-duplicate-tab = Бетті қосарлау
+customkeys-file-copy-tab-url = Бет URL-ін көшіру
 customkeys-file-focus-search = Іздеу жолағына фокустау
 customkeys-history-reopen-tab = Соңғы жабылған бетті қайта ашу
 customkeys-history-reopen-window = Соңғы жабылған терезені қайта ашу
@@ -83,6 +84,16 @@ customkeys-key-new =
     .label = Жаңа пернені басыңыз:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (өзгерту мүмкін емес)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (macOS жүйесінің пернетақта баптауларында орнатылады)
+       *[other] (жүйеңіздің пернетақта баптауларында орнатылады)
+    }
 
 ## Confirmation dialogs
 

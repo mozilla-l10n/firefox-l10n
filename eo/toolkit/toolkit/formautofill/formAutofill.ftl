@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Ne nun
     .accessKey = N
+credit-card-capture-never-save-payment-methods-button =
+    .label = Neniam konservi pagmetodojn
+    .accessKey = N
 credit-card-capture-never-save-button =
     .label = Neniam konservi kreditkartojn
     .accessKey = N
@@ -64,6 +67,12 @@ autofill-manage-payment-methods-label = Administri pagmetodojn
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = Kreditkarta kontrola kodo (CVV)
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

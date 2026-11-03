@@ -80,6 +80,8 @@ genai-shortcut-copy-confirmation = Көшірілді
 genai-shortcut-more-actions-button =
     .aria-label = Көбірек опциялар
     .tooltiptext = Көбірек опциялар
+genai-more-actions-panel =
+    .aria-label = Көрсетілетін әрекеттерді таңдаңыз
 # $provider (string) - name of the chatbot provider
 genai-more-actions-ai-provider =
     .label = { $provider } сұрау
@@ -89,6 +91,9 @@ genai-more-actions-search =
     .label = Іздеу
 genai-more-actions-copy =
     .label = Көшіріп алу
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Мәтінді таңдағанда, бұл мәзірді көрмейсіз. Оны қайта көрсету үшін Баптаулар <span data-l10n-name="chevron"></span> Беттер және шолу бөліміне өтіңіз.
 genai-more-actions-manage-settings =
     .label = Баптауларды басқару
 genai-selection-callout-title = Әрекетті таңдау үшін мәтінді белгілеңіз
