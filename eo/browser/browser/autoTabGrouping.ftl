@@ -9,4 +9,4 @@
 
 # Action that dissolves every group in the "Just created" list. The tabs stay
 # open; only the grouping is removed.
-smartwindow-group-tabs-ungroup = Malgrupigi Langetojn
+smartwindow-group-tabs-ungroup = Malgrupigi langetojn

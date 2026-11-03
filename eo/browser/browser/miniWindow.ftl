@@ -46,3 +46,13 @@ screenshots-component-reselect-button = Rekomenci
 toolbar-button-mini-window =
     .label = Fenestreto
     .tooltiptext = Uzi fenestreton
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = Movi sekcion al fenestreto
+    .accesskey = f
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-move-selection = Movi elektaĵon
+mini-window-panel-move-full-tab = Movi tutan langeton
