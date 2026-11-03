@@ -114,6 +114,10 @@ neterror-dns-not-found-offline-hint-reconnect = Malkonektu kaj rekonektu la send
 neterror-loopback-refused-not-running = Neniu servo akceptas konektojn en la pordo { $port }. Kontrolu ĉu la loka servilo funkcias.
 # "it" is the local server that the user is trying to reach.
 neterror-loopback-refused-wrong-port = Se ĝi funkcias, kontrolu ĉu ĝi uzas la pordon { $port }.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Kontrolu ĉu la servilo akceptas konektojn en tiu ĉi adreso. Kelkaj serviloj aŭskultas nur en [::1] aŭ nur en 127.0.0.1.
 
 ## TRR-only specific messages
 ## Variables:

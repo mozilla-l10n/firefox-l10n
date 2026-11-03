@@ -122,6 +122,16 @@ autofill-card-expires-year-2 =
     .label = Jaro de senvalidiĝo
 autofill-card-billing-address-2 =
     .label = Faktura adreso
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (nedeviga)
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-optional =
+    .label = CVV (nedeviga)
 # "CVV" is a common abbreviation for the security code printed on a payment
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code =

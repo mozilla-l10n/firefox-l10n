@@ -335,6 +335,11 @@ newtab-privacy-message-first-protection-cta = Montri protektojn
 newtab-stocks-menu-learn-more = Pli da informo
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Akciaj datumoj ne disponeblaj.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Malfermi financan menuon
+    .title = Malfermi financan menuon
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -452,6 +457,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Bildo de la tago · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Bildo de la tago
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Taga bildo: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -470,6 +479,13 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = Malfermi menuon pri la taga bildo
     .title = Malfermi menuon pri la taga bildo
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Elekti tiun ĉi bildon kiel ekranfonon
+    .label = Elekti kiel ekranfonon
+    .title = Elekti kiel ekranfonon
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -478,6 +494,10 @@ newtab-picture-set-wallpaper =
     .title = Elekti ekranfonon
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Administri ekranfonon
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Kaŝi tiun ĉi bildon
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Montri bildon
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Kaŝi la bildon de la tago
@@ -485,6 +505,10 @@ newtab-picture-menu-hide-photo = Kaŝi la bildon de la tago
 newtab-picture-menu-show-photo = Montri la bildon de la tago
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Pli da informo
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Montri bildon
+    .title = Montri bildon
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Montri la bildon de la tago
@@ -533,16 +557,35 @@ newtab-recent-searches-empty-trending = Tendencaj serĉoj ne disponeblas nun.
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopo
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Malfermi horoskopan menuon
+    .title = Malfermi horoskopan menuon
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Ebloj pri horoskopo
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Pli da informo
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Kun teknologio de Yahoo
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Vojaĝo
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Malfermi vojaĝan menuon
+    .title = Malfermi vojaĝan menuon
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Pli da informo
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Kun teknologio de Kayak
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
