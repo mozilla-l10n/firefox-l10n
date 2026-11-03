@@ -63,6 +63,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historikk
+item-history-and-downloads2 =
+    .label = Nettlesar- og nedlastingshistorikk
+    .accesskey = N
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Besøkte nettstadar og nedlastingsliste
 item-history-and-downloads =
     .label = Nettlesing- og nedlastingshistorikk
     .accesskey = e
@@ -79,6 +84,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Infokapsler og nettstedsdata
     .accesskey = n
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Loggar deg ut og kan tøme handlekorger
 item-cookies-site-data-description = Kan logge deg av nettstadar eller tøme handlekorger
 item-active-logins =
     .label = Aktive innloggingar
@@ -86,6 +93,17 @@ item-active-logins =
 item-cache =
     .label = Snøgglager (Cache) for nettsider
     .accesskey = S
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Mellombelse filer ({ $amount } { $unit })
+    .accesskey = f
+item-cached-content2 =
+    .label = Mellombelse filer
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Hjelper nettstadar med å laste raskare
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +123,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Lagra skjemainformasjon
     .accesskey = L
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Namn, e-postadresser og skjemaoppføringar
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Nettstadløyve og -innstillingar
 item-formdata-description = Fjernar ting som namn, e-postar og andre element du skriv inn i skjema
 item-site-prefs-description = Tilbakestiller løyve og nettstadsinnstillingar til dei opphavlege innstillingane
 data-section-label = Data

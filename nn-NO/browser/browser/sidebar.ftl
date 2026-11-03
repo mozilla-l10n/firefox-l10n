@@ -52,6 +52,10 @@ sidebar-history-sort-option-last-visited =
     .label = Sist besøkt
 sidebar-history-sort-option-most-visited =
     .label = Mest besøkte
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Manglar du noko? Hent historikk frå ein annan nettlesar.
 sidebar-history-import-promo-button =
     .label = Importer til { -brand-short-name }
 
