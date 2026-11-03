@@ -1484,6 +1484,8 @@ fire-button-toolbar-button =
     .label = Slett nokre eller alle nettlesardataa dine
     .tooltiptext = Slett nokre eller alle nettlesardataa dine
 fire-button-panel-heading = Slette alle nettlesardata?
+fire-button-panel-description = Dette slettar historikk, infokapslar og nettstaddata. Du blir logga ut av nettstadar. Dette vindauget blir lukka, og { -brand-short-name } opnar eit nytt.
+fire-button-panel-choose-description = Om du ikkje vil slette alt, kan du velje visse data i staden.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.
