@@ -119,6 +119,7 @@ inactive-css-column-span-fix-1 = Prøv at tilføje <strong>column-count</strong>
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Prøv at filføje <strong>position:absolute</strong> til elementet, eller <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder.
 inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Prøv at tilføje <strong>position:absolute</strong> til elementet eller<strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.
 inactive-css-not-absolutely-positioned-item-fix-1 = Prøv at tilføje <strong>position:absolute</strong> til elementet.
+inactive-css-no-default-anchor-fix-1 = Prøv at tilføje <strong>position-anchor</strong> med et gyldigt ankernavn.
 inactive-css-not-grid-or-flex-item-fix-4 = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder.
 inactive-css-not-grid-item-fix-3 = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.
 inactive-css-not-grid-container-fix-1 = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong>.

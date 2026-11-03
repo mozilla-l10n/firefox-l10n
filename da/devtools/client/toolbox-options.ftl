@@ -74,6 +74,25 @@ options-webconsole-split-console-label = Aktiver opdelt konsol
 options-webconsole-split-console-tooltip =
     .title = Åbn opdelt konsol med Escape-tasten
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Netværks-monitor
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Ubegrænset
+
+## Experimental section
+
+# The heading
+options-experimental-label = Eksperimentelle funktioner
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Vis stylesheets i debuggeren
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Vis og opret en liste over stylesheets i debuggeren
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (kræver genåbning af værktøjerne)
+
 ## Style Editor section
 
 # The heading
@@ -115,9 +134,31 @@ options-sourceeditor-keybinding-default-label = Standard
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Lokal tilstand
+options-local-mode-only-work-locally = Lokal tilstand fungerer kun lokalt og er deaktiveret ved debugging af eksterne kontekster
+options-local-mode-behavior = Lokal tilstand giver dig mulighed for at indlæse lokale filer via https-URL uden nogen ekstern afhængighed. URL'erne kan kun indlæses fra faneblad med Udviklerværktøj åbne.
+options-local-mode-domain-label = Tilpasset domæne:
+options-local-mode-origin-input =
+    .placeholder = Oprindelse for den lokale mapping
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Denne oprindelse er i konflikt med en anden eksisterende mapping
+options-local-mode-origin-invalid = Denne oprindelse er ugyldig
 options-local-mode-folder-label = Lokal mappe:
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Denne mappe findes ikke, eller er ugyldig.
+options-local-mode-toggle =
+    .title = Aktiver/deaktiver denne lokale mapping
 options-local-mode-toggle-enable = Aktiver
 options-local-mode-toggle-disable = Deaktiver
+options-local-mode-navigate-to =
+    .title = Naviger til denne mapping-URL
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Vil du fjerne “{ $mappingOrigin }”-mapping?
+options-local-mode-new-mapping = Tilføj en ny lokal mapping
 
 ## Advanced section
 

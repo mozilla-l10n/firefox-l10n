@@ -161,6 +161,12 @@ sidebar-opentabs-context-close-tab =
 # tab sorting options, which appear directly beneath this heading.
 sidebar-opentabs-sort-by-heading =
     .label = Kārtot pēc
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Tabulēšanas secība
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Nesen aktīvi
 
 ## Labels for the open tabs hover preview
 
@@ -188,12 +194,50 @@ sidebar-menu-history-label =
     .label = Vēsture
 sidebar-menu-synced-tabs-label =
     .label = Cilnes no citām ierīcēm
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Atvērt cilnes
 sidebar-menu-bookmarks-label =
     .label = Grāmatzīmes
 sidebar-menu-customize-label =
     .label = Pielāgot sānjoslu
+sidebar-menu-contextual-password-manager-label =
+    .label = Paroles
 sidebar-menu-resource-monitor-label =
     .label = Resursu pārraugs
+sidebar-menu-more-tools-label =
+    .label = Vairāk rīku
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Atvērt vēsturi ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Aizvērt vēsturi ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Atvērt grāmatzīmes ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Aizvērt grāmatzīmes ({ $shortcut })
+
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+sidebar-menu-open-ai-chatbot-tooltip-generic = Atvērt MI tērzēšanas robotu ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Atvērt { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Aizvērt MI tērzēšanas robotu ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Aizvērt { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -203,13 +247,58 @@ sidebar-menu-history-header =
     .heading = Vēsture
 sidebar-menu-syncedtabs-header =
     .heading = Cilnes no citām ierīcēm
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Atvērt cilnes
+sidebar-menu-cpm-header =
+    .heading = Paroles
+sidebar-menu-bookmarks-header =
+    .heading = Grāmatzīmes
+sidebar-panel-header-close-button =
+    .tooltiptext = Aizvērt
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Grāmatzīmju izvēlne
+sidebar-bookmarks-folder-toolbar = Grāmatzīmju rīkjosla
+sidebar-bookmarks-folder-other = Citas grāmatzīmes
+sidebar-bookmarks-folder-mobile = Mobilās grāmatzīmes
 
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Pielāgot sānjoslu
+sidebar-history-title = Vēsture
+sidebar-syncedtabs-title = Cilnes no citām ierīcēm
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Atvērt cilnes
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Piespraustas cilnes
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Logs { $winID } (pašreizējais)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Logs { $winID }
+sidebar-bookmarks-title = Grāmatzīmes
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Aizvērt cilni ierīcē { $deviceName }
 show-sidebars =
     .label = Sānu joslas
     .tooltiptext = Rādīt sānu joslas
@@ -221,5 +310,24 @@ show-sidebars =
 sidebar-widget-expand-sidebar2 =
     .label = Sānjoslas
     .tooltiptext = Izvērst sānjoslu ({ $shortcut })
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .label = Sānu joslas
+    .tooltiptext = Sakļaut sānu joslu ({ $shortcut })
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .label = Sānu joslas
+    .tooltiptext = Rādīt sānu joslu ({ $shortcut })
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .label = Sānu joslas
+    .tooltiptext = Slēpt sānu joslu ({ $shortcut })
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Velciet svarīgas cilnes šeit, lai tās būtu viegli sasniedzamas.
 sidebar-pins-promo-text-2 =
     .heading = Velc šeit svarīgas cilnes, lai tās būtu viegli pieejamas

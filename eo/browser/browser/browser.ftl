@@ -1462,6 +1462,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Ĉu viŝi datumojn kaj komenci novan privatan seancon?
+reset-pbm-panel-description3 = Tio ĉi viŝas vian historion kaj kuketojn kaj fermas seancojn en retejoj. Viaj privataj fenestroj fermiĝos kaj nova malfermiĝos.
 reset-pbm-panel-description2 = Tio ĉi forigas historion, kuketojn kaj aliajn retejajn datumojn sen fermi vian privatan fenestron.
 reset-pbm-panel-always-ask-checkbox =
     .label = Ĉiam demandi al mi
@@ -1476,6 +1477,30 @@ reset-pbm-panel-complete = Datumoj de privata seanco estis forigitaj
 reset-pbm-toolbar-button2 =
     .label = Viŝi privatan seancon
     .tooltiptext = Viŝi privatan seancon
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Forigi ĉion aŭ parton de viaj retumaj datumoj
+    .tooltiptext = Forigi ĉion aŭ parton de viaj retumaj datumoj
+fire-button-panel-heading = Ĉu forigi ĉiujn retumajn datumojn?
+fire-button-panel-description = Tio ĉi forigas historion, kuketojn kaj retejajn datumojn. Viaj seancoj en retejoj estos finitaj. Tiu ĉi fenestro fermiĝos kaj { -brand-short-name } malfermos novan.
+fire-button-panel-choose-description = Se vi ne volas forigi ĉion, vi povas anstataŭe elekti specifajn datumojn.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Elekti…
+fire-button-panel-cancel-button =
+    .label = Nuligi
+    .accesskey = N
+fire-button-panel-confirm-button =
+    .label = Forigi ĉion
+    .accesskey = F
+fire-button-panel-complete = Retumaj datumoj forigitaj
+fire-button-toolbar-button2 =
+    .label = Forigi ĉiujn aŭ kelkajn datumojn
+    .tooltiptext = Forigi ĉiujn aŭ kelkajn retumajn datumojn
 
 ## Autorefresh blocker
 
