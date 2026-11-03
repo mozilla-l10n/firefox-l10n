@@ -626,6 +626,7 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = Nye funksjonar som er utvikla for å hjelpe deg med å gjere meir
 welcome-back-onboarding-primary-button-label = Start nettlesinga
 welcome-back-onboarding-secondary-button-label = Sjå kva anna som er nytt
 welcome-back-onboarding-pill-label-vpn = Innebygd VPN

@@ -817,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Du har lest alt!
 newtab-discovery-empty-section-topstories-content = Kom tilbake seinare for fleire artiklar.
 newtab-discovery-empty-section-topstories-try-again-button = Prøv på nytt
 newtab-discovery-empty-section-topstories-loading = Lastar…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Artiklar er ikkje tilgjengelege akkurat no
+newtab-discovery-empty-section-topstories-unavailable-body = Sjekk tilkoplinga di, eller prøv på nytt seinare.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ops! Vi lasta nesten denne delen, men ikkje heilt.
 
@@ -1114,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = Eit reveansikt i venstre kant, mot ein mør
 newtab-wallpaper-firefox-peak-light = Eit reveansikt i venstre kant, mot ein lys bakgrunn
 newtab-wallpaper-firefox-sky-dark = Mørkelilla åsar under ein nattehimmel
 newtab-wallpaper-firefox-sky-light = Lyse åsar under ein mjuk himmel
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Wrexham AFC-våpenskjoldet på raud bakgrunn
 
 ## Firefox
 
