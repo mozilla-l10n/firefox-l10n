@@ -316,27 +316,129 @@ pdfjs-highlight-floating-button-label = Izcelt
 pdfjs-comment-floating-button =
     .aria-label = Komentēt
     .title = Komentēt
+pdfjs-comment-floating-button-label = Komentārs
+pdfjs-editor-comment-button =
+    .aria-label = Komentēt
+    .title = Komentēt
+pdfjs-editor-comment-button-label = Komentārs
 pdfjs-editor-signature-button =
     .title = Pievienot parakstu
 pdfjs-editor-signature-button-label = Pievienot parakstu
 
+## Default editor aria labels
+
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Izcelt redaktoru
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Zīmēšanas redaktors
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Paraksta redaktors: { $description }
+pdfjs-editor-stamp-editor =
+    .aria-label = Attēlu labotājs
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Noņemt zīmējumu
+pdfjs-editor-remove-freetext-button =
+    .title = Noņemt tekstu
+pdfjs-editor-remove-stamp-button =
+    .title = Noņemt attēlu
+pdfjs-editor-remove-highlight-button =
+    .title = Noņemt iezīmējumu
+pdfjs-editor-remove-signature-button =
+    .title = Noņemt parakstu
+
 ##
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Krāsa
+pdfjs-editor-free-text-size-input = Izmērs
+pdfjs-editor-ink-color-input = Krāsa
+pdfjs-editor-ink-thickness-input = Biezums
+pdfjs-editor-ink-opacity-input = Necaurspīdība
 pdfjs-editor-stamp-add-image-button =
     .title = Pievienot attēlu
 pdfjs-editor-stamp-add-image-button-label = Pievienot attēlu
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = Biezums
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Mainīt biezumu, iezīmējot citus elementus, nevis tekstu
+pdfjs-editor-add-signature-container =
+    .aria-label = Paraksta vadīklas un saglabātie paraksti
 pdfjs-editor-signature-add-signature-button =
     .title = Pievienot jaunu parakstu
 pdfjs-editor-signature-add-signature-button-label = Pievienot jaunu parakstu
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Saglabātais paraksts: { $description }
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Teksta redaktors
+    .default-content = Sāciet rakstīt…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Komentēt
+        [zero] Komentāriem
+       *[other] Komentāriem
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .aria-label = Aizvērt sānu joslu
+    .title = Aizvērt sānu joslu
+pdfjs-editor-comments-sidebar-close-button-label = Aizvērt sānu joslu
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Redzat kaut ko ievērības cienīgu? Iezīmējiet to un atstājiet komentāru.
+pdfjs-editor-comments-sidebar-no-comments-link = Uzziniet vairāk
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-button-label = Alt teksts
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Labot alt tekstu
+pdfjs-editor-alt-text-dialog-label = Izvēlieties opciju
+pdfjs-editor-alt-text-dialog-description = Alt teksts (alternatīvs teksts) palīdz, ja cilvēki neredz attēlu vai tas neielādējas.
 pdfjs-editor-alt-text-add-description-label = Pievienot aprakstu
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Uzzināt vairāk
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Trūkstošs alt teksts
+pdfjs-editor-new-alt-text-missing-button-label = Trūkstošs alt teksts
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Atsauksmes alternatīvais teksts
+pdfjs-editor-new-alt-text-to-review-button-label = Atsauksmes alternatīvais teksts
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Izveidots automātiski: { $generatedAltText }
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Attēla alt teksta iestatījumi
+pdfjs-image-alt-text-settings-button-label = Attēla alt teksta iestatījumi
+pdfjs-editor-alt-text-settings-dialog-label = Attēla alt teksta iestatījumi
+pdfjs-editor-alt-text-settings-automatic-title = Automātisks alt teksts
+pdfjs-editor-alt-text-settings-create-model-button-label = Automātiski izveidot alt tekstu
+pdfjs-editor-alt-text-settings-create-model-description = Iesaka aprakstus, lai palīdzētu cilvēkiem, kuri neredz attēlu vai kad attēls neielādējas.
+pdfjs-editor-alt-text-settings-editor-title = Alt teksta labotājs
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Pievienojot attēlu, uzreiz parādīt alt teksta labotāju
+pdfjs-editor-alt-text-settings-show-dialog-description = Palīdz pārliecināties, ka visiem attēliem ir alt teksts.
+pdfjs-editor-alt-text-settings-close-button = Aizvērt
 
 ## Add a signature dialog
 
