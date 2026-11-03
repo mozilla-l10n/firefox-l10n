@@ -365,6 +365,8 @@ ip-protection-site-rule-dialog =
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Lagre
     .buttonaccesskeyaccept = L
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Skriv inn ein nettstad, og vel deretter VPN-statusen.
 # "ex:" is short for "example".
 ip-protection-site-rule-website-field =
     .label = Nettstad
@@ -380,6 +382,9 @@ ip-protection-site-rule-status-off =
 ip-protection-site-rule-invalid-error = Skriv inn ei gyldig nettstadadresse.
 # Shown below the website field when the typed website already has a rule.
 ip-protection-site-rule-duplicate-error = Denne nettstaden har allereie ein regel.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Feil ved oppretting av regel. Prøv på nytt.
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-delete-site-rule-message = Slette regel for { $website }?
@@ -461,5 +466,6 @@ vpn-error-page-new-session = Start ei ny programøkt
 vpn-paused-alert-close-tabs-button = Lat att alle faner
 vpn-paused-alert-continue-wo-vpn-button = Hald fram utan VPN
 vpn-error-alert-title-1 = VPN og reglar fungerer ikkje akkurat no.
+vpn-error-alert-body-1 = Det kan hjelpe å slå VPN av og på.
 vpn-error-alert-title = VPN fungerer ikkje akkurat no.
 vpn-error-alert-body = Prøv igjen seinare.
