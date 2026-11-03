@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } ne havas aliron al prof
 migration-no-permissions-instructions = Por daŭrigi la importon de datumoj el alia retumilo, donu al { -brand-short-name } permeson aliri la profilan dosierujon.
 migration-no-permissions-instructions-step1 = Elektu “Daŭrigi”
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] En la elektilo de dosieroj, iru al “Malfermi”
+       *[other] En la elektilo de dosieroj, iru al <code>{ $permissionsPath }</code> kaj premu “Elekti”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

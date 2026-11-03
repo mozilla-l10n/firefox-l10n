@@ -242,6 +242,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Serĉi en historio
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Serĉi langetojn
 
 ## Bookmarks Menu
 
@@ -267,6 +270,10 @@ menu-bookmarks-other =
     .label = Aliaj legosignoj
 menu-bookmarks-mobile =
     .label = Poŝaparataj legosignoj
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Montri pli en la flanka strio
 
 ## Profiles Menu
 
