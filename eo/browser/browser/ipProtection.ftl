@@ -155,6 +155,12 @@ site-rules-status-heading = Via regulo
 site-rules-description-exclusion = VPN malŝaltita por tiu ĉi retejo
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN ŝaltita por tiu ĉi retejo
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Ĉu ĉiam ŝalti VPN por { $website }?
+    .message = Modifu viajn regulojn iam ajn en la agordoj.
 ipprotection-settings-link =
     .label = Agordoj
 
@@ -165,6 +171,8 @@ ipprotection-button-turn-vpn-off = Malŝalti VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Malŝalti VPN ĉie
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Ŝalti
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Ŝalti VPN
 # Button while VPN is connecting
@@ -177,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN malŝaltita por tiu ĉi retejo
     .aria-label = VPN malŝaltita por tiu ĉi retejo
 ipprotection-connection-status-connecting-1 = Konektiĝo al VPN…
     .aria-label = Konektiĝo al VPN…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Malŝalti
 
 ## Location controls
 
@@ -244,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian poz
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aŭtomate ŝaltu VPN</a> ĉiufoje kiam vi malfermas { -brand-short-name } por havi aldonan tavolon de protekto.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memoros la retejojn kiujn vi agordis por viziti pere de VPN. Vi povas modifi ilin iam ajn en <a data-l10n-name="setting-link">agordoj</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por tiu ĉi retejo
+confirmation-hint-ipprotection-navigated-to-included-site = VPN ŝaltita por tiu ĉi retejo
 ipprotection-open-button = Malfermi { -brand-product-name }
 ipprotection-come-back-title = Revenu provi la integritan VPN
 ipprotection-message-body-hide-location = Kaŝu vian pozicion kiam dum vi retumas per { -brand-product-name } por havi pli da privateco kaj rego.
@@ -279,6 +290,11 @@ ip-protection-learn-more = Pli da informo
 ip-protection-not-opted-in-4 =
     .heading = Provu la integritan VPN de { -brand-short-name }
     .message = Retumu ekstre protektita per kaŝo de via pozicio.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Ĉu preta provi ĝin?
+    .message = Ricevu { $maxUsage } GB ĉiumonate kaj decidu kiuj retejoj uzas VPN.
 ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -289,6 +305,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } retejoj
         }
     .label = Administri agordojn de retejoj
+ip-protection-site-rules-header-1 =
+    .heading = Administri regulojn de VPN
+ip-protection-site-rules-button-1 =
+    .description = Difinu regulojn por retejoj, kiuj bezonas kroman privatecon aŭ por tiuj, kiuj bezonas malŝaltitan VPN.
+    .label = Administri regulojn de VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Difinu regulojn por aŭtomate ŝalti aŭ malŝalti la VPN.
+    .label = Retejaj reguloj
+ip-protection-site-rules-add-button =
+    .label = Difini regulon
+ip-protection-site-rules-delete-all-button =
+    .label = Forigi ĉiujn regulojn
+ip-protection-site-rules-empty = La reguloj kreitaj de vi aperos ĉi tie.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN ĉiam aktiva
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN ĉiam malaktiva
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Modifi la regulon por { $website }
+    .title = Modifi
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Forigi la regulon por { $website }
+    .title = Forigi
 ip-protection-site-rules-header =
     .heading = Administri regulojn por retejoj
 ip-protection-site-rules-button =
@@ -312,6 +355,52 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Administri agordojn de retejoj
 ip-protection-exclusions-desc = Uzi VPN por ĉiuj retejoj, krom por tiuj en tiu ĉi listo. Aldonu retejon rekte ĉi tie aŭ per malfermo de la VPN.
+ip-protection-site-rule-window =
+    .title = Difini regulon
+ip-protection-edit-site-rule-window =
+    .title = Modifi regulon
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Difini
+    .buttonaccesskeyaccept = D
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Konservi
+    .buttonaccesskeyaccept = K
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Tajpu retejon, poste elektu la staton de VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Retejo
+    .placeholder = ekzemple: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Stato de VPN
+ip-protection-site-rule-status-on =
+    .label = Ĉiam ŝaltita
+ip-protection-site-rule-status-off =
+    .label = Ĉiam malŝaltita
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Tajpu validan retejan adreson.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Tiu ĉi retejo jam havas regulon.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Eraro dum kreado de regulo. Bonvolu provi denove.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Ĉu forigi regulon por { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Nuligi
+ip-protection-delete-site-rule-confirm =
+    .label = Forigi
+ip-protection-delete-all-site-rules-message = Ĉu forigi ĉiujn retejajn regulojn?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Forigi ĉiujn regulojn
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Ne eblis forigi regulon
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Ne eblis forigi regulojn
+ip-protection-delete-site-rule-retry =
+    .label = Provi denove
 
 ## IP Protection Bandwidth
 
@@ -380,5 +469,7 @@ vpn-error-page-keep-browsing = Plu retumi en tiu ĉi seanco
 vpn-error-page-new-session = Komenci novan seancon
 vpn-paused-alert-close-tabs-button = Fermi ĉiujn langetojn
 vpn-paused-alert-continue-wo-vpn-button = Daŭrigi sen VPN
+vpn-error-alert-title-1 = Nuntempe VPN kaj ĝiaj reguloj ne funkcias.
+vpn-error-alert-body-1 = Ŝalto kaj malŝalto de VPN povus solvi la problemon.
 vpn-error-alert-title = La VPN ne funkcias nun.
 vpn-error-alert-body = Provu denove poste.

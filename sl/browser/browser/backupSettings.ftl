@@ -123,7 +123,7 @@ restore-from-backup-type-replace =
     .label = Zamenjaj vse podatke s to varnostno kopijo
 restore-from-backup-type-add =
     .label = Obdrži podatke in ustvari nov profil
-restore-from-backup-profiles-disabled-message = S tem se bodo vsi trenutni podatki { -brand-short-name(sklon: "rodilnik") }  zamenjali s podatki iz varnostne kopije.
+restore-from-backup-profiles-disabled-message = S tem se bodo vsi trenutni podatki { -brand-short-name(sklon: "rodilnik") } zamenjali s podatki iz varnostne kopije.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
