@@ -34,6 +34,7 @@ region-name-bl = Seint Bartelemeja
 region-name-bm = Bermudas
 region-name-bn = Bruneja
 region-name-bo = Bolīvija
+region-name-bq-2018 = Nīderlandes Karību reģions
 region-name-br = Brazīlija
 region-name-bs = Bahamas
 region-name-bt = Butāna

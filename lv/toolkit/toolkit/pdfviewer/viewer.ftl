@@ -653,12 +653,80 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button1-label = Pārvaldīt lapas
 pdfjs-views-manager-sidebar =
     .aria-label = Sānu josla
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Sānu joslas izmēru mainītājs
+pdfjs-views-manager-view-selector-button =
+    .title = Skati
+pdfjs-views-manager-view-selector-button-label = Skati
+pdfjs-views-manager-pages-title = Lapas
 pdfjs-views-manager-outlines-title1 = Dokumenta saturs
     .title = Dokumenta saturs (veiciet dubultklikšķi, lai izvērstu/sakļautu visus vienumus)
+pdfjs-views-manager-attachments-title = Pielikumi
+pdfjs-views-manager-layers-title1 = Slāņi
+    .title = Slāņi (veiciet dubultklikšķi, lai atiestatītu visus slāņus uz noklusējuma stāvokli)
+pdfjs-views-manager-pages-option-label = Lapas
 pdfjs-views-manager-outlines-option-label = Dokumenta saturs
+pdfjs-views-manager-attachments-option-label = Pielikumi
+pdfjs-views-manager-layers-option-label = Slāņi
 pdfjs-views-manager-add-file-button =
     .title = Pievienot datni
 pdfjs-views-manager-add-file-button-label = Pievienot datni
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] Atlasīts { $count }
+        [zero] Atlasīti { $count }
+       *[other] Atlasīti { $count }
+    }
+pdfjs-views-manager-pages-status-none-action-label = Atlasīt lapas
+pdfjs-views-manager-pages-status-action-button-label = Pārvaldīt
+pdfjs-views-manager-pages-status-copy-button-label = Kopēt
+pdfjs-views-manager-pages-status-cut-button-label = Izgriezt
+pdfjs-views-manager-pages-status-delete-button-label = Dzēst
+pdfjs-views-manager-pages-status-export-selected-button-label = Eksportēt atlasītās…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 lapas izgriešana
+        [zero] { $count } lappuses izgrieztas
+       *[other] { $count } lappuses izgrieztas
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 lapa nokopēta
+        [zero] Nokopētas { $count } lapas
+       *[other] Nokopētas { $count } lapas
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 lapa izdzēsta
+        [zero] { $count } lapas izdzēstas
+       *[other] { $count } lapas izdzēstas
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Notiek datnes sagatavošana…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Notiek datnes augšupielāde…
+pdfjs-views-manager-status-warning-cut-label = Nevarēja izgriezt. Atsvaidziniet lapu un mēģiniet vēlreiz.
+pdfjs-views-manager-status-warning-copy-label = Nevarēja kopēt. Atsvaidziniet lapu un mēģiniet vēlreiz.
+pdfjs-views-manager-status-warning-delete-label = Nevarēja dzēst. Atsvaidziniet lapu un mēģiniet vēlreiz.
+pdfjs-views-manager-status-warning-save-label = Nevarēja saglabāt. Atsvaidziniet lapu un mēģiniet vēlreiz.
+pdfjs-views-manager-status-undo-button-label = Atsaukt
+pdfjs-views-manager-status-done-button-label = Gatavs
+pdfjs-views-manager-status-close-button =
+    .title = Aizvērt
+pdfjs-views-manager-status-close-button-label = Aizvērt
+pdfjs-views-manager-paste-button-label = Ielīmēt
+pdfjs-views-manager-paste-button-before =
+    .title = Ielīmēt pirms pirmās lapas
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Ielīmēt pēc lapas { $page }
 # Badge used to promote a new feature in the UI, keep it as short as possible.
 # It's spelled uppercase for English, but it can be translated as usual.
 pdfjs-new-badge-content = Jauns
