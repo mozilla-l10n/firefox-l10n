@@ -944,6 +944,8 @@ search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti is
 search-one-click-header-3 =
     .description = Odaberi tražilice i prečace koji će se prikazati u tvojoj adresnoj traci.
     .label = Dodatne tražilice
+search-engine-list =
+    .aria-label = Tražilice i prečaci
 update-search-engine-success =
     .message = Tražilica je uspješno aktualizirana
 search-edit-engine-2 =
@@ -1012,6 +1014,12 @@ containers-list =
 containers-new-tab-check3 =
     .label = Odaberi kontejner za svaku novu karticu
     .accesskey = s
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Nemoj koristiti kontejnere za poveznice koje su otvorile vanjske aplikacije
+    .accesskey = N
 containers-new-tab-check2 =
     .description = Ovo će otvoriti izbornik kontejnera svaki put kada pritisnete tipku za otvaranje nove kartice.
     .label = Odaberi kontejner za svaku novu karticu
@@ -1020,6 +1028,9 @@ containers-settings-button2 =
     .title = Postavke
 containers-remove-button3 =
     .title = Obriši
+containers-sites-card-header =
+    .description = Odaberi kontejner za neku stranicu i { -brand-short-name } će ga uvijek koristiti kada se ta stranica otvori.
+    .label = Kontejneri za specifične stranice
 containers-sites-add-button =
     .label = Dodaj web stranicu
     .accesskey = w
@@ -1836,6 +1847,29 @@ pane-permissions-data-title2 = Dozvole i podaci
     .title = Dozvole i podaci
 notifications-section-header =
     .heading = Obavijesti
+notifications-entry-card-header =
+    .description = Odaberi koje web stranice ti mogu slati obavijesti i kako će se one prikazati.
+    .label = Obavijesti
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } web stranica
+            [few] { $count } web stranice
+           *[other] { $count } web stranica
+        }
+    .label = Upravljaj postavkama obavijesti
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Upravljaj postavkama obavijesti web stranica
+notifications-website-card-header =
+    .description = Odaberi kako web stranice mogu slati obavijesti
+    .label = Obavijesti web stranica
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
@@ -1859,6 +1893,10 @@ notifications-state-allow = Dopusti
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Nikad
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Nema dodanih obavijesti web stranica.
 
 ## Privacy Section - Data Collection
 
@@ -2141,6 +2179,10 @@ appearance-window-density-touch =
     .label = Dodir
 related-settings-group =
     .label = Povezane postavke
+related-settings-home-link =
+    .label = Prilagodi { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Prilagodi raspored preglednika
 
 ## AI controls page
 
@@ -2207,6 +2249,9 @@ preferences-ai-controls-header3 =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } stražari
+security-privacy-status-ok-label = Poboljšana zaštita od praćenja je uključena
+security-privacy-status-problem-label = Pronašli smo postavke koje utječu na tvoju zaštitu
 security-privacy-status-problem-helper-label = Prikaži probleme
 security-privacy-status-update-needed-label = Dostupna je nova { -brand-short-name } inačica.
 security-privacy-status-update-error-label = { -brand-short-name } ima problema s ažuriranjem
@@ -2286,6 +2331,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Kolačići
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Dozvoli sve kolačiće
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = Blokiraj međustranične kolačiće za praćenje
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
     .label = Blokiraj međustranične kolačiće
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =

@@ -238,6 +238,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Umetni i kreni
     .accesskey = U
+urlbar-menuitem-paste-and-search =
+    .label = Zalijepi i pretraži
+    .accesskey = Z
 
 ## Searchbar context menu
 
@@ -1341,6 +1344,7 @@ private-browsing-info-panel-title = Nalaziš se u privatnom prozoru
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Sprečavanje gubitka podataka (DLP) od { $agentName }. Klikni za više informacija.
+content-analysis-panel-title2 = Sprječavanje gubitka podataka
 content-analysis-panel-title = Zaštita podataka
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

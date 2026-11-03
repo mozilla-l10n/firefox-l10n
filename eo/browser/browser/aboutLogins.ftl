@@ -243,6 +243,12 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [1] Tio ĉi forigos la pasvorton konservitan en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
        *[other] Tio ĉi forigos la pasvortojn konservitajn en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
     }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [one] Tio ĉi forigas ĝin el { -brand-short-name } en ĉiu aparato, kiu spegulas viajn pasvortojn. La ago ne malfareblas.
+       *[other] Tio ĉi forigas ilin el { -brand-short-name } en ĉiu aparato, kiu spegulas viajn pasvortojn. La ago ne malfareblas.
+    }
 
 ##
 

@@ -261,9 +261,11 @@ privacy-metrics-social =
        *[other] { $count } programa za praćenje od društvenih mreža
     }
 privacy-metrics-loading = Učitavanje statistike zaštite …
+privacy-metrics-error = Nije moguće učitati statistiku zaštite.
 
 ## VPN promo card and banner
 
 protections-get-vpn-link = Nabavi { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: pretplaćeno
+protections-vpn-banner-header = Zaštita koja se proteže van preglednika
 protections-vpn-banner-link = Nabavi { -mozilla-vpn-brand-name }

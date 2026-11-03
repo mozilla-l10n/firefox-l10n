@@ -182,9 +182,15 @@ tabbrowser-customizemode-tab-title = Prilagodi { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Isključi zvuk kartice
     .accesskey = š
+tabbrowser-context-mute-tab2 =
+    .label = Utišaj
+    .accesskey = U
 tabbrowser-context-unmute-tab =
     .label = Uključi zvuk kartice
     .accesskey = k
+tabbrowser-context-unmute-tab2 =
+    .label = Uključi zvuk
+    .accesskey = U
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Isključi zvuk kartice
@@ -328,6 +334,16 @@ tab-group-editor-action-new-tab =
     .label = Nova kartica u grupi
 tab-group-editor-action-new-window =
     .label = Premjesti grupu u novi prozor
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Kopiraj poveznicu u grupi
+            [one] Kopiraj { $linkCount } poveznicu u grupi
+            [few] Kopiraj { $linkCount } poveznice u grupi
+           *[other] Kopiraj { $linkCount } poveznica u grupi
+        }
 tab-group-editor-action-save =
     .label = Spremi i zatvori grupu
 tab-group-editor-action-ungroup =
@@ -337,6 +353,12 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Gotovo
     .accessKey = G
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Podijeli grupu
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Podijeli grupu kartica
 tab-context-reopen-tab-group =
     .label = Ponovo otvori grupu kartica
 # Variables:
@@ -366,6 +388,8 @@ tab-group-overflow-count-tooltip =
 ## groups in one place. When the user has no tab groups, the list instead
 ## recommends that the user create a tab group.
 
+tab-groups-list-empty-header = Sredi svoje kartice
+tab-groups-list-empty-description = Povuci jednu karticu na drugu ili klikni desnom tipkom miša na karticu da započneš njihovo organiziranje. Ovdje ćemo spremiti tvoje grupe da ih kasnije moreš lako pronaći.
 tab-groups-list-empty-button = Stvori grupu kartica
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = Nova grupa
@@ -381,6 +405,12 @@ tab-group-context-move-to-new-window =
 # user's current window.
 tab-group-context-move-to-this-window =
     .label = Premjesti grupu u ovaj prozor
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = Novo
+    .label = Podijeli grupu
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
@@ -457,6 +487,8 @@ tab-context-reverse-split-view =
     .label = Preokreni redoslijed kartica
     .accesskey = P
 tab-context-badge-new = Novi
+# The label of a badge shown in menu items to call out features that are in beta.
+tab-context-badge-beta = Beta
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.

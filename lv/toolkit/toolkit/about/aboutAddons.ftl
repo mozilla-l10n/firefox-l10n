@@ -329,11 +329,49 @@ theme-disabled-heading3 =
 theme-enabled-heading = Iespējots
 theme-disabled-heading2 = Saglabātie motīvi
 plugin-enabled-heading = Iespējots
+plugin-disabled-heading = Deaktivētas
+dictionary-enabled-heading = Iespējots
+dictionary-disabled-heading = Deaktivēts
+locale-enabled-heading = Iespējots
+locale-disabled-heading = Deaktivēts
+sitepermission-enabled-heading = Iespējots
+sitepermission-disabled-heading = Deaktivēts
+always-activate-button = Vienmēr aktivizēt
+never-activate-button = Nekad neaktivizēt
+addon-detail-author-label = Autors
+addon-detail-version-label = Versija
+addon-detail-last-updated-label = Pēdējo reizi atjaunināts
 addon-detail-homepage-label = Sākumlapa
+addon-detail-rating-label = Vērtējums
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Šis paplašinājums tiks atjaunināts, kad { -brand-short-name } tiks restartēts.
+install-postponed-button = Atjaunināt tagad
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (atspējots)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } atsauksme
+        [zero] { $numberOfReviews } atsauksmes
+       *[other] { $numberOfReviews } atsauksmes
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } ir noņemts.
+pending-uninstall-undo-button = Atsaukt
 addon-detail-updates-label = Atļaut automātiskus atjauninājumus
+addon-detail-updates-radio-default = Noklusējuma
+addon-detail-updates-radio-on = Ieslēgts
+addon-detail-updates-radio-off = Izslēgts
 addon-detail-update-check-label = Pārbaudīt atjauninājumus
 install-update-button = Atjauninājums
 # aria-label associated to the updates row to help screen readers to announce the group
@@ -428,6 +466,9 @@ shortcuts-heading = Pārvaldīt paplašinājumu saīsnes
 default-heading-search-label = Atrast citus papildinājumus
 addons-heading-search-input =
     .placeholder = Meklēt addons.mozilla.org
+addons-heading-search-button =
+    .aria-label = Meklēt addons.mozilla.org
+    .title = Meklēt addons.mozilla.org
 addon-page-options-button =
     .title = Visu papildinājumu rīki
 
@@ -443,6 +484,20 @@ details-notification-unsigned-and-disabled2 =
     .message = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name } un ir deaktivēts.
 details-notification-unsigned2 =
     .message = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name }. Esiet piesardzīgi.
+details-notification-hard-blocked-extension =
+    .message = Šis paplašinājums ir bloķēts Mozilla politikas pārkāpuma dēļ un ir atspējots.
+details-notification-hard-blocked-other =
+    .message = Šis paplašinājums ir bloķēts Mozilla politikas pārkāpuma dēļ un ir atspējots.
+details-notification-blocked-link2 = Skatīt sīkāku informāciju
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Šis paplašinājums ir ierobežots un ir atspējots. Varat to iespējot, taču tas var būt riskanti.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Šis paplašinājums ir ierobežots. Tā lietošana var būt riskanta.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Šis papildinājums ir ierobežots un ir atspējots. Jūs varat to iespējot, taču tas var būt riskanti.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Šis papildinājums ir ierobežots. Tā lietošana var būt riskanta.
+details-notification-softblocked-link2 = Skatīt sīkāku informāciju
 details-notification-gmp-pending2 =
     .message = { $name } pēc brīža tiks uzstādīts.
 
@@ -453,10 +508,36 @@ plugins-gmp-privacy-info = Privātuma informācija
 plugins-openh264-name = OpenH264 video kodeks, ko piedāvā Cisco Systems, Inc.
 plugins-openh264-description = Šo spraudni automātiski uzstāda Mozilla, lai ievērotu WebRTC tehniskās prasības un ļautu iespējot WebRTC zvanus ar ierīcēm, kurās ir nepieciešams H.264 video saspiedatspiedējs. Var apmeklēt http://www.openh264.org/, lai apskatītu pirmkodu un uzzinātu vairāk par īstenojumu.
 plugins-widevine-name = Google Inc piedāvātais Widevine Content Decryption Module
+plugins-widevine-description = Šis spraudnis nodrošina šifrēta multivides satura atskaņošanu atbilstoši šifrēto multivides paplašinājumu specifikācijai. Šifrētu multividi vietnes parasti izmanto, lai aizsargātu pret augstākās kvalitātes multivides satura kopēšanu. Lai iegūtu plašāku informāciju par šifrētajiem multivides paplašinājumiem, apmeklējiet vietni https://www.w3.org/TR/encrypted-media/.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Atļaujas un dati
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Izmanto paplašinājums { $extensionName }
+addon-permissions-data-collection-heading = Datu vākšana
+addon-permissions-data-collection-empty = Izstrādātājs apgalvo, ka šim paplašinājumam nav nepieciešama datu vākšana.
+addon-data-collection-provided = Informācija, ko sniedzis paplašinājuma izstrādātājs
+addon-data-collection-learnmore = Uzziniet vairāk par datu vākšanu
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } izmanto šo informāciju vietnē about:inference
+mlmodel-link-preview = { -brand-short-name } izmanto šo, lai ģenerētu galvenos punktus, kad priekšskatāt saites
+mlmodel-pdfjs = { -brand-short-name } izmanto šo, lai izveidotu alternatīvo tekstu attēliem, ko pievienojat PDF datnēm
+mlmodel-smart-tab-topic-engine = { -brand-short-name } izmanto šo, lai ieteiktu nosaukumus jūsu ciļņu grupām
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } izmanto šo, lai ieteiktu cilnes jūsu ciļņu grupām
+mlmodel-formfill-engine = { -brand-short-name } izmanto šo, lai palīdzētu aizpildīt adreses veidlapas
 mlmodel-speech-recognition = { -brand-short-name } izmanto to ierīcē esošai runas atpazīšanai
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Ierīcē iebūvētais MI
+addon-category-mlmodel-title =
+    .title = Ierīcē iebūvētais MI
+mlmodel-heading = Pārvaldiet ierīcē esošos MI modeļus
 
 ## Promo footer shown in the about:addons recommendations view when
 ## Project Nova styles are enabled.
