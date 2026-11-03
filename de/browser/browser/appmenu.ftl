@@ -164,7 +164,7 @@ appmenu-fxa-signed-in-label = Anmelden
 # update banner is present, prompting the user to sign in and sync. The user can
 # dismiss it, after which the compact sign-in row is shown in its place.
 appmenu-fxa-sign-in-promo-heading2 = Synchronisieren Sie Ihre Daten überall
-appmenu-fxa-sign-in-promo-link = Einloggen
+appmenu-fxa-sign-in-promo-link = Anmelden
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Promo für Anmeldung schließen
     .title = Schließen

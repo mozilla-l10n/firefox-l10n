@@ -1416,7 +1416,7 @@ private-browsing-info-panel-description = Dies hilft, Ihre Surf-Aktivitäten auf
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
-    .tooltiptext = Verhinderung vor Datenverlust (DLP) von { $agentName }. Klicken Sie hier, um weitere Informationen zu erhalten.
+    .tooltiptext = Verhinderung von Datenverlust (DLP) von { $agentName }. Klicken Sie hier, um weitere Informationen zu erhalten.
 content-analysis-panel-title2 = Schutz vor Datenverlust
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
