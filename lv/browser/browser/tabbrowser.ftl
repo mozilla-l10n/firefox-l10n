@@ -8,6 +8,19 @@ tabbrowser-menuitem-close-tab =
     .label = Aizvērt cilni
 tabbrowser-menuitem-close =
     .label = Aizvērt
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -20,6 +33,10 @@ tabbrowser-close-tabs-button =
             [one] Aizvērt { $tabCount } cilni
            *[other] Aizvērt { $tabCount } cilnes
         }
+tab-splitview-splitter =
+    .aria-label = Mainīt sadalīto skata ciļņu izmērus
+tab-devtools-splitter =
+    .aria-label = Izstrādātāja rīku paneļa izmēru maiņa
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -64,6 +81,11 @@ tabbrowser-unblock-tab-audio-tooltip =
             [one] Atskaņot { $tabCount } cilni
            *[other] Atskaņot { $tabCount } cilnes
         }
+
+## Tooltips for tab audio control
+
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Ieslēgt cilni
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
