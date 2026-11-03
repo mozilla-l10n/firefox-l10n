@@ -200,6 +200,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Završeno
 migration-safari-password-import-header = Uvezi lozinke iz Safarija
+migration-safari-password-import-post-sequoia-step1 = Otvori aplikaciju <a data-l10n-name="macos-passwords-app">Lozinke</a> na svojem Macu
+migration-safari-password-import-post-sequoia-step2 = U traci izbornika na vrhu ekrana odaberi Datoteka > „Eksportiraj sve lozinke u datoteku…”
 migration-safari-password-import-post-sequoia-step3 = Spremi datoteku
 migration-safari-password-import-post-sequoia-step4 = Odaberi spremljenu datoteku
 migration-safari-password-import-steps-header = Za uvoz Safari lozinki:

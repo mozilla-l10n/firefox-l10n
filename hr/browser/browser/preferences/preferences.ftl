@@ -1020,6 +1020,15 @@ containers-settings-button2 =
     .title = Postavke
 containers-remove-button3 =
     .title = Obriši
+containers-sites-add-button =
+    .label = Dodaj web stranicu
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontejner za { $site }
+containers-site-remove-button =
+    .title = Izbriši
 containers-remove-button2 =
     .title = Ukloni
 
@@ -1124,6 +1133,10 @@ prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
 prefs-syncing-off-2 =
     .description = Uključi sinkronizaciju da možeš dohvatiti svoje zabilješke, lozinke, povijest i više na bilo kojem uređaju.
     .label = Sinkroniziranje je ISKLJUČENO
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Uključi sinkronizaciju da možeš dohvatiti svoje zabilješke, lozinke, povijest i još toga na ovom uređaju.
+    .label = Sinkronizacija je ISKLJUČENA
 prefs-sync-turn-on-syncing =
     .label = Uključi sinkronizaciju…
     .accesskey = s
@@ -1147,8 +1160,12 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ove stavke sinkroniziraš na svim svojim povezanim uređajima:
 sync-syncing-across-devices-heading-2 = Podaci su sinkronizirani na svim uređajima
+sync-syncing-across-devices-heading-3 = Podaci koji se sinkroniziraju na ovom uređaju
 sync-syncing-across-devices-empty-state2 =
     .description = Još ne sinkroniziraš ništa. Počni sinkronizirati svoje podatke kako bi bili dostupni na svim tvojim uređajima.
+    .label = Upravljaj sinkroniziranim podacima
+sync-syncing-across-devices-empty-state3 =
+    .description = Ne sinkroniziraš ništa… još. Odaberi što ćeš sinkronizirati na ovom uređaju.
     .label = Upravljaj sinkroniziranim podacima
 sync-currently-syncing-bookmarks = Zabilješke
 sync-currently-syncing-history = Povijest
@@ -1206,6 +1223,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = O
     .style = min-width: 36em;
     .title = Upravljaj svime što se sinkronizira na svim tvojim povezanim uređajima
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Spremi
+    .buttonlabelextra2 = Odspoji…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = d
+    .style = min-width: 36em;
+    .title = Upravljaj podacima koji će se sinkronizirati na ovom uređaju
 
 ## The device name controls.
 
@@ -1370,6 +1394,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Zahtijevaj prijavu uređajem za automatsko popunjavanje i upravljanje načinima plaćanja
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Spremi sigurnosne kodove
+    .accesskey = k
 autofill-payment-methods-add-button = Dodaj novi način plaćanja
 payments-list-header =
     .label = Načini plaćanja
@@ -1806,6 +1834,8 @@ permissions-data-section =
     .heading = Dozvole i podaci
 pane-permissions-data-title2 = Dozvole i podaci
     .title = Dozvole i podaci
+notifications-section-header =
+    .heading = Obavijesti
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =

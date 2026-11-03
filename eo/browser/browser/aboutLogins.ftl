@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importi el alia retumil
 about-logins-menu-menuitem-import-from-a-file = Importi el dosiero …
 about-logins-menu-menuitem-export-logins2 = Eksporti pasvortojn…
 about-logins-menu-menuitem-remove-all-logins2 = Forigi ĉiujn pasvortojn…
+about-logins-menu-menuitem-delete-all-logins = Forigi ĉiujn pasvortojn…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Preferoj
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Premu la supran plussignan butonon por aldoni pasvo
 about-logins-login-item-new-login-title = Aldoni pasvorton
 login-item-edit-button = Redakti
 about-logins-login-item-remove-button = Forigi
+about-logins-login-item-delete-button = Forigi
 login-item-origin-label = Adreso de retejo
 about-logins-origin-tooltip2 = Enigu la tutan adreson kaj certu ke ĝi ekzakte kongruas kun la adreso de via komenco de seanco.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Nuligi
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Ĉu forigi pasvorton?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Ĉu forigi pasvorton?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Tio ĉi forigas ĝin el { -brand-short-name } en ĉiu aparato, kiu spegulas viajn pasvortojn. La ago ne malfareblas.
 about-logins-confirm-remove-dialog-confirm-button = Forigi
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Forigi
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,10 +195,22 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Forigi
        *[other] Forigi ĉiujn
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [one] Forigi
+       *[other] Forigi ĉiujn
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Jes, forigi pasvorton
+       *[other] Jes, forigi pasvortojn
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [one] Jes, forigi pasvorton
        *[other] Jes, forigi pasvortojn
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
@@ -210,6 +230,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Ĉu forigi { $count } pasvorton el ĉiuj aparatoj?
        *[other] Ĉu forigi { $count } pasvortojn el ĉiuj aparatoj?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Ĉu forigi { $count } pasvorton?
+       *[other] Ĉu forigi { $count } pasvortojn?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

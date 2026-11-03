@@ -568,6 +568,7 @@ onboarding-refresh-fro-import-body = Viaj personaj datumoj restas personaj. { -b
 onboarding-refresh-fro-skip-button = Ignori
 onboarding-refresh-fro-theme-header = Personecigu la aspekton
 onboarding-refresh-tab-layout-header = Provu alian aranĝon de langetoj
+onboarding-refresh-fro-tab-layout-title = Elektu novan aranĝon por langetoj
 onboarding-refresh-tab-layout-top = Supre
 onboarding-refresh-tab-layout-side = Flanke
 onboarding-refresh-tab-layout-minimal = Minimuma
@@ -622,3 +623,17 @@ onboarding-theme-picker-button-label = Konservi kaj daŭrigi
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Elstaraj funkcioj
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Novaj funkcioj, kreitaj por helpi vin fari pli
+welcome-back-onboarding-primary-button-label = Komenci retumi
+welcome-back-onboarding-secondary-button-label = Malkovru aliajn novaĵojn
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Bone organizitaj langetoj
+welcome-back-onboarding-pill-label-vpn = Integrita VPN
+welcome-back-onboarding-pill-label-pdf = Iloj por PDF
+welcome-back-onboarding-card-label-tabs = Organizado per vertikalaj langetoj kaj grupoj
+welcome-back-onboarding-card-label-vpn = Restu kaŝita per la integrita VPN
+welcome-back-onboarding-card-label-pdf = Elstarigu, subskribu kaj prilaboru dosierojn PDF
+welcome-back-onboarding-card-tilebutton-label = Provi

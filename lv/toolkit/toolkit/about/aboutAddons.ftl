@@ -283,13 +283,52 @@ install-theme-button = Instalēt motīvu
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Pārvaldīt
+find-more-addons = Atrast citus papildinājumus
+find-more-themes = Atrast vairāk motīvus
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Vairāk iespēju
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Paplašinājumi un motīvi ļauj pielāgot { -brand-product-name }. Tie var uzlabot privātumu,
+    uzlabot produktivitāti, uzlabot multivides saturu, mainīt { -brand-product-name } izskatu un
+    daudz ko citu. Šīs mazās programmatūras bieži vien izstrādā trešā puse. Šeit ir
+    Firefox <a data-l10n-name="learn-more-trigger">ieteikumu</a> izlase, kas nodrošina
+    izcilu drošību, veiktspēju un funkcionalitāti.
 
 ## Add-on actions
 
+report-addon-button = Ziņojums
+remove-addon-button = Noņemt
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Nevar noņemt <a data-l10n-name="link">Kāpēc?</a>
+disable-addon-button = Atspējot
+enable-addon-button = Iespējot
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Iespējot
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Iestatījumi
+       *[other] Iestatījumi
+    }
+details-addon-button = Sīkāka informācija
+release-notes-addon-button = Laidiena piezīmes
+permissions-addon-button = Atļaujas
+extension-enabled-heading = Iespējots
+extension-disabled-heading = Deaktivēts
 theme-enabled-heading2 =
     .heading = Izvēlētais izskats
 theme-disabled-heading3 =
     .heading = Saglabātie izskati
+theme-enabled-heading = Iespējots
+theme-disabled-heading2 = Saglabātie motīvi
+plugin-enabled-heading = Iespējots
 addon-detail-homepage-label = Sākumlapa
 
 ## Pending uninstall message bar
@@ -379,7 +418,16 @@ recommended-theme-1 = Jūtaties radoši? <a data-l10n-name="link">Izveidojiet sa
 
 extension-heading = Pārvaldiet savus paplašinājumus
 theme-heading = Pārvaldiet savas motīvus
+plugin-heading = Pārvaldiet savus spraudņus
+dictionary-heading = Pārvaldiet savas vārdnīcas
 locale-heading = Pārvaldīt valodas
+updates-heading = Pārvaldiet savus atjauninājumus
+sitepermission-heading = Pārvaldiet savas vietnes atļaujas
+discover-heading = Personalizējiet savu { -brand-short-name }
+shortcuts-heading = Pārvaldīt paplašinājumu saīsnes
+default-heading-search-label = Atrast citus papildinājumus
+addons-heading-search-input =
+    .placeholder = Meklēt addons.mozilla.org
 addon-page-options-button =
     .title = Visu papildinājumu rīki
 
