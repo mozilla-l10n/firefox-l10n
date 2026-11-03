@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Chiudi le schede a sinistra
     .accesskey = s
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Schede a sinistra
+    .accesskey = s
 close-tabs-to-the-start-vertical =
     .label = Chiudi le schede sopra
     .accesskey = s
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Schede sopra
+    .accesskey = o
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Chiudi le schede a destra
     .accesskey = d
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Schede a destra
+    .accesskey = d
 close-tabs-to-the-end-vertical =
     .label = Chiudi le schede sotto
     .accesskey = u
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Schede sottostanti
+    .accesskey = n
 close-other-tabs =
     .label = Chiudi le altre schede
     .accesskey = a
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Tutte le altre
+    .accesskey = T
 reload-tabs =
     .label = Ricarica schede
     .accesskey = R
@@ -89,14 +111,26 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Apri in nuova scheda contenitore
     .accesskey = c
+tab-context-open-in-container =
+    .label = Apri in contenitore
+    .accesskey = c
 move-to-start =
     .label = Sposta all’inizio
     .accesskey = z
+move-to-start-alt =
+    .label = Inizio
+    .accesskey = n
 move-to-end =
     .label = Sposta alla fine
     .accesskey = f
+move-to-end-alt =
+    .label = Fine
+    .accesskey = F
 move-to-new-window =
     .label = Sposta in una nuova finestra
+    .accesskey = f
+move-to-new-window-alt =
+    .label = Nuova finestra
     .accesskey = f
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -112,6 +146,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Chiudi schede duplicate
     .accesskey = e
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Schede duplicate
+    .accesskey = u
 tab-context-close-duplicate-tabs2 =
     .label = Chiudi duplicati di questa scheda
     .accesskey = d
@@ -128,6 +166,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nuovo gruppo
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Nuovo gruppo
+tab-context-add-tab-to-group-closed-groups =
+    .label = Gruppi chiusi
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -158,6 +200,14 @@ tab-context-move-tabs =
         }
     .accesskey = t
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Sposta in
+           *[other] Sposta { $tabCount } schede in
+        }
+    .accesskey = o
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -170,6 +220,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Sposta schermo diviso in
     .accesskey = m
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Sposta schede in
+    .accesskey = o
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

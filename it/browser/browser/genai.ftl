@@ -104,6 +104,7 @@ genai-shortcut-button =
     .aria-label = Chiedi a { $provider }
 genai-menu-new-badge = Novità
 genai-menu-summarize-page = Riassumi pagina
+genai-menu-summarize-with-ai = Riassumi con IA
 genai-input-ask-smart-window =
     .placeholder = Chiedi…
 genai-input-ask-generic =

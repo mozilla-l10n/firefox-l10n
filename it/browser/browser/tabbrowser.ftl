@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Ridimensiona le schede divise
 tab-devtools-splitter =
     .aria-label = Ridimensiona il pannello strumenti di sviluppo
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Aggiungi schede a un gruppo
+    .accesskey = A
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -278,6 +283,13 @@ tab-context-move-tab-to-new-group =
            *[other] Aggiungi schede a un nuovo gruppo
         }
     .accesskey = n
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Aggiungi al gruppo
+           *[other] Aggiungi { $tabCount } schede al gruppo
+        }
+    .accesskey = u
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -446,6 +458,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separa schermo diviso
     .accesskey = e
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Separa schede
+    .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Scambia schede
