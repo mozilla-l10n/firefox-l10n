@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Деректерді өшіріп, жаңа жеке сеансты бастау керек пе?
+reset-pbm-panel-description3 = Бұл сіздің тарихыңыз бен cookie файлдарыңызды өшіреді және сізді сайттардан шығарады. Жеке терезелеріңіз жабылып, жаңасы ашылады.
 reset-pbm-panel-description2 = Бұл жекелік терезені жаппай-ақ тарихты, cookie файлдарын және сайттың барлық басқа деректерін өшіреді.
 reset-pbm-panel-always-ask-checkbox =
     .label = Мені әрқашан сұрау

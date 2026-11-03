@@ -1858,6 +1858,10 @@ permissions-data-section =
     .heading = Рұқсаттар мен деректер
 pane-permissions-data-title2 = Рұқсаттар мен деректер
     .title = Рұқсаттар мен деректер
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Веб-сайт
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
