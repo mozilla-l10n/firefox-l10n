@@ -87,6 +87,7 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Տեքստ ընտրելիս այս ընտրացանկը չեք տեսնի։ Այն կրկին ցուցադրելու համար այցելեք Կարգավորումներ <span data-l10n-name="chevron"></span> Ներդիրներ և դիտում։
 genai-more-actions-manage-settings =
     .label = Կառավարել կարգավորումները
+genai-selection-callout-title = Նշեք տեքստը՝ գործողություն ընտրելու համար
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Հարցրեք { $provider }-ին

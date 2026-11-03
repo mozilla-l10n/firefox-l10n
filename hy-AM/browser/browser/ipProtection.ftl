@@ -438,5 +438,7 @@ vpn-error-page-keep-browsing = Շարունակեք դիտարկել այս աշ
 vpn-error-page-new-session = Սկսել նոր աշխատաշրջան
 vpn-paused-alert-close-tabs-button = Փակել բոլոր ներդիրները
 vpn-paused-alert-continue-wo-vpn-button = Շարունակել առանց VPN-ի
+vpn-error-alert-title-1 = VPN-ը և կանոնները այս պահին չեն աշխատում։
+vpn-error-alert-body-1 = VPN-ը միացնելն ու անջատելը կարող է լուծել խնդիրը։
 vpn-error-alert-title = VPN-ը այս պահին չի աշխատում։
 vpn-error-alert-body = Փորձեք ավելի ուշ

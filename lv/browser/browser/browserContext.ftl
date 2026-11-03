@@ -43,7 +43,7 @@ main-context-menu-back-3 =
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
     .aria-label = Uz priekšu
-    .tooltiptext = Iet vienu lapu uz priekšu ({ $shortcut })
+    .tooltiptext = Doties vienu lapu uz priekšu ({ $shortcut })
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =

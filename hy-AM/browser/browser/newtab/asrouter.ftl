@@ -460,6 +460,10 @@ launch-options-spotlight-primary-button-launch = Պահել և շարունակ�
 
 lapsed-user-toast-whats-new-button = Ինչն է նոր
 lapsed-user-toast-dismiss-button = Բաց թողնել
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Նոր տեսք։ Նորից սկսելու կարիք չկա։
 
 ## Refresh Firefox infobar
 ##
@@ -477,3 +481,15 @@ refresh-profile-infobar-button = Թարմացնել { -brand-short-name }-ը…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Բացե՞լ նախորդ ներդիրները:</strong>Դուք կարող եք վերականգնել նախորդ աշխատաշրջանը { -brand-short-name }-ի հավելվածների ցանկից՝ <img data-l10n-name="icon"/>, Պատմության ներքո:
 restore-session-startup-suggestion-button = Ցույց տուր ինձ, թե ինչպես
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Ընտրեք՝ ձեր առաջադրանքների վահանակին ավելացնելու համար
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Ավելացնել
+taskbar-tabs-spotlight-done-button = Պատրաստ է

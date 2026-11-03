@@ -13,13 +13,13 @@ create-profile-first-page-header2 =
         [macos] Ievads
        *[other] Laipni lūdzam { create-profile-window2.title }
     }
-profile-creation-explanation-1 = { -brand-short-name } saglabā jūsu iestatījumus un izvēles jūsu personīgajā profilā.
+profile-creation-explanation-1 = { -brand-short-name } saglabā iestatījumus un izvēles Tavā personīgajā profilā.
 profile-creation-explanation-2 = Ja { -brand-short-name } izmanto vairāki lietotāji, iespējams izmantot profilus, kas ļauj glabāt katra lietotāja informāciju atsevišķi. Lai to izdarītu, katram lietotājam ir jāizveido savs profils.
-profile-creation-explanation-3 = Ja jūs esat vienīgā persona, kas lieto šo { -brand-short-name } kopiju, jums ir jābūt vismaz vienam profilam. Ja vēlaties, varat radīt sev vairākus profilus, lai saglabātu dažādas iestatījumu un izvēļu kopas. Piemēram, jūs varētu vēlēties vienu profilu darbam un citu personīgai lietošanai.
+profile-creation-explanation-3 = Ja esi vienīgais cilvēks, kas izmanto šo { -brand-short-name } kopiju, ir jābūt vismaz vienam profilam. Ja vēlies, vari izveidot sev vairākus profilus, lai saglabātu dažādas iestatījumu un izvēļu kopas. Piemēram, Tu darbam un personīgai lietošanai varētu vēlēties atsevišķus profilus.
 profile-creation-explanation-4 =
     { PLATFORM() ->
-        [macos] Lai sāktu profila izveidi, spiediet pogu Uz priekšu.
-       *[other] Lai sāktu profila izveidi, spiediet pogu Uz priekšu.
+        [macos] Lai sāktu profila izveidošanu, jāspiež pogu “Turpināt”.
+       *[other] Lai sāktu profila izveidošanu, jāspiež pogu “Nākamais”.
     }
 
 ## Second wizard page

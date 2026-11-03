@@ -271,6 +271,18 @@ downloads-blocked-malware = Այս ֆայլը պարունակում է վիրո
 downloads-blocked-potentially-unwanted = Այս ֆայլը կարող է վնասել համակարգիչը։
 downloads-blocked-potentially-insecure = Ֆայլը չի ներբեռնվել. հնարավոր է անվտանգության խնդիր:
 downloads-blocked-uncommon = Սա սովորական ներբեռնում չէ:
+downloads-blocked-by-content-analysis = Այս ֆայլը արգելափակվել է ձեր կազմակերպության կողմից։
+downloads-warned-by-content-analysis = Այս ներբեռնումը կարող է անվտանգ չլինել և պահանջում է հաստատում։
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Ֆայլը արգելափակվել է, քանի որ { $agent }-ը հասանելի չէ։
+downloads-content-analysis-invalid-agent-signature-error = Ֆայլը արգելափակվել է, քանի որ { $agent }-ը չի կարողացել ստորագրության ստուգումը կատարել։
+downloads-content-analysis-unspecified-error = Ֆայլը արգելափակվել է { $agent }-ի հետ կապվելու սխալի պատճառով։
+downloads-content-analysis-timeout-error = { $agent }-ի ժամանակը սպառվեց, ուստի այս ֆայլը արգելափակվեց։
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -282,9 +294,14 @@ downloads-unblock-header-unblock = Թույլատրե՞լ ներբեռնումը
 downloads-unblock-header-open = Իրո՞ք ցանկանում եք բացել այս ֆայլը:
 downloads-unblock-type-malware = Այս ֆայլը պարունակում է վիրուս կամ վնասագիր, որը  կարող է վնասել համակարգիչը:
 downloads-unblock-type-potentially-unwanted = Այս ֆայլը, որը դիմակավորվել է որպես օգտակար ներբեռնում, կարող է կատարել անսպասելի փոփոխություններ ձեր ծրագրերում և կարգավորումներում:
+downloads-unblock-type-content-analysis-warn = Ձեր կազմակերպությունն օգտագործում է տվյալների կորստի կանխարգելման ծրագիր, որը նշել է այս բովանդակությունը որպես անվտանգ չէ։
 downloads-unblock-type-uncommon = Այս ֆայլը սովորական ներբեռնում չէ և կարող է անվտանգ չլինել։ Այն կարող է պարունակել վիրուս կամ կատարել անսպասելի փոփոխություններ Ձեր ծրագրերում և կարգավորումներում։
 downloads-unblock-insecure = Ներբեռնումն առաջարկվում է HTTP-ով, թեև ընթացիկ փաստաթուղթն առաքվել է անվտանգ HTTPS կապով: Եթե շարունակեք, ներբեռնումը կարող է վնասվել կամ կեղծվել ներբեռնման ընթացում:
 downloads-unblock-tip = Կարող եք փնտրել այլընտրանքային աղբյուր կամ փորձել ներբեռնել ավելի ուշ:
+downloads-unblock-content-analysis-warn-tip = Դուք կարող եք ընտրել այն ներբեռնել ամեն դեպքում։
+downloads-unblock-content-analysis-blocked = Ձեր կազմակերպությունն օգտագործում է տվյալների կորստի կանխարգելման ծրագիր, որը արգելափակել է այս ներբեռնումը։
+downloads-unblock-content-analysis-override = Այս որոշումը կարող է չեղյալ համարվել միայն ձեր կազմակերպության կողմից։
+downloads-unblock-content-analysis-tip = Կարող եք շարունակել ներբեռնումը կամ չեղարկել այն։
 downloads-unblock-button-open =
     .label = Բացել
 downloads-unblock-button-unblock =

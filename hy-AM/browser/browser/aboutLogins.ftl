@@ -88,6 +88,7 @@ login-intro-instructions-fxa-passwords-help = Լրացուցիչ օգնությ�
 about-logins-login-item-new-login-title = Ավելացնել գաղտնաբառ
 login-item-edit-button = Խմբագրել
 about-logins-login-item-remove-button = Հեռացնել
+about-logins-login-item-delete-button = Ջնջել
 login-item-origin-label = Կայքի հասցեն
 about-logins-origin-tooltip2 = Մուտքագրեք ամբողջական հասցեն և համոզվեք, որ այն ճշգրիտ համընկնում է ձեր մուտքի վայրի հետ:
 # Variables
