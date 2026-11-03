@@ -180,6 +180,8 @@ about-logins-confirm-delete-dialog-title = Парольді өшіру кере�
 about-logins-confirm-delete-dialog-title2 = Парольді өшіру керек пе?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Бұл оны парольдеріңізді синхрондайтын әрбір құрылғыдағы { -brand-short-name } ішінен өшіреді. Бұл әрекетті болдырмау мүмкін емес.
 about-logins-confirm-remove-dialog-confirm-button = Өшіру
 # Confirm button for the modal to delete one saved password when per-device sync is enabled
 about-logins-confirm-delete-dialog-confirm-button = Өшіру
@@ -241,6 +243,12 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Бұл сіздің барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған пароліңізді өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
        *[other] Бұл сіздің барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған барлық парольдерді өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Бұл оны парольдеріңізді синхрондайтын әрбір құрылғыдағы { -brand-short-name } ішінен өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+       *[other] Бұл оларды парольдеріңізді синхрондайтын әрбір құрылғыдағы { -brand-short-name } ішінен өшіреді. Бұл әрекетті болдырмау мүмкін емес.
     }
 
 ##
