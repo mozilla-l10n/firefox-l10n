@@ -1862,12 +1862,39 @@ permissions-data-section =
     .heading = Toestemmingen en gegevens
 pane-permissions-data-title2 = Toestemmingen en gegevens
     .title = Toestemmingen en gegevens
+notifications-section-header =
+    .heading = Notificaties
+notifications-entry-card-header =
+    .description = Kies welke websites notificaties kunnen sturen, en hoe die notificaties verschijnen.
+    .label = Notificaties
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } website
+           *[other] { $count } websites
+        }
+    .label = Notificatie-instellingen beheren
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Website-notificatie-instellingen beheren
+notifications-website-card-header =
+    .description = Kies hoe websites notificaties kunnen verzenden.
+    .label = Websitenotificaties
 notifications-filter =
     .placeholder = Websites doorzoeken
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
     .label = Website
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Notificaties toestaan
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
@@ -1884,6 +1911,13 @@ notifications-state-allow = Toestaan
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Nooit
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Geen websitenotificaties toegevoegd.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Er komen geen websitenotificaties overeen met uw zoekopdracht.
 
 ## Privacy Section - Data Collection
 
