@@ -940,7 +940,7 @@ addressbar-navigation-group =
 # "Results menu" refers to the menu available on each row of the address bar
 # results list, which offers actions such as dismissing the result.
 addressbar-skip-result-menu-on-tab =
-    .label = Überspringen Sie das Ergebnismenü, wenn Sie die Tab-Taste zum Verschieben des Fokus verwenden
+    .label = Ergebnismenü überspringen, wenn Sie die Tab-Taste zum Verschieben des Fokus verwenden
 search-suggestions-header-2 =
     .label = Suchmaschinen-Vorschläge
 search-one-click-header2 = Suchmaschinen-Schlüsselwörter

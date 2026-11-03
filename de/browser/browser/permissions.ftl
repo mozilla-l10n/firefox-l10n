@@ -12,7 +12,7 @@ speech-recognition-model-download-allow =
 speech-recognition-model-download-not-now =
     .label = Nicht jetzt
     .accesskey = N
-speech-recognition-model-download-progress-message = Spracherkennungsmodell herunterladen
+speech-recognition-model-download-progress-message = Spracherkennungsmodell wird heruntergeladen
 # Accessible name of the progress bar shown while the model downloads. The
 # percentage and time remaining are rendered next to it, as text.
 speech-recognition-model-download-progressbar =

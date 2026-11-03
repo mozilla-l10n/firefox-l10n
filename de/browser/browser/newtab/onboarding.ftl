@@ -558,10 +558,10 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Behalten Sie den integrierten Schutz bei jedem Surfen
 onboarding-refresh-tou-pin-unchecked = Den einzigen großen unabhängigen Browser immer griffbereit haben
-onboarding-refresh-terms-of-use-with-links = Indem Sie fortfahren, stimmen Sie den <a data-l10n-name="terms_of_use">{ -brand-product-name }-Nutzungsbedingungen</a> und unserem <a data-l10n-name="privacy_notice">Datenschutzhinweis zu </a>. { -brand-product-name } sendet Diagnose- und Interaktionsdaten an { -vendor-short-name }, um den Browser zu verbessern.
+onboarding-refresh-terms-of-use-with-links = Indem Sie fortfahren, stimmen Sie den <a data-l10n-name="terms_of_use">{ -brand-product-name }-Nutzungsbedingungen</a> und unserem <a data-l10n-name="privacy_notice">Datenschutzhinweis</a> zu. { -brand-product-name } sendet Diagnose- und Interaktionsdaten an { -vendor-short-name }, um den Browser zu verbessern.
 onboarding-refresh-data-collection-link = Einstellungen zur Datenerhebung verwalten
 onboarding-refresh-primary-button = Weiter
-onboarding-refresh-fro-import-header = Geben Sie Ihre Daten ein
+onboarding-refresh-fro-import-header = Importieren Sie Ihre Daten
 # "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
 # Refers to personal data, indicating that ownership of imported data remains with the user.
 onboarding-refresh-fro-import-subtitle = Ihre Daten bleiben Ihre. { -brand-product-name } verkauft niemals personenbezogene Daten.
