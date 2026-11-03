@@ -118,6 +118,9 @@ pdfjs-document-properties-subject = Tēma:
 pdfjs-document-properties-keywords = Atslēgas vārdi:
 pdfjs-document-properties-creation-date = Izveides datums:
 pdfjs-document-properties-modification-date = LAbošanas datums:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 pdfjs-document-properties-creator = Radītājs:
 pdfjs-document-properties-producer = PDF producents:
 pdfjs-document-properties-version = PDF versija:
@@ -151,6 +154,27 @@ pdfjs-document-properties-linearized-yes = Jā
 pdfjs-document-properties-linearized-no = Nē
 pdfjs-document-properties-close-button = Aizvērt
 pdfjs-digital-signature-properties-view-certificate = Apskatīt sertifikātu
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Iemesls: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Laika zīmogs: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Apakšparaksts ({ $count })
+        [zero] Apakšparaksti ({ $count })
+       *[other] Apakšparaksti ({ $count })
+    }
 
 ## Print
 
@@ -164,6 +188,8 @@ pdfjs-printing-not-ready = Uzmanību: PDF nav pilnībā ielādēts drukāšanai.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-current-outline-item-button =
+    .title = Atrast pašreizējo kontūras elementu
 pdfjs-findbar-button =
     .title = Meklēt dokumentā
 pdfjs-findbar-button-label = Meklēt

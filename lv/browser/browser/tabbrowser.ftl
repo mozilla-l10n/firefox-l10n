@@ -336,6 +336,44 @@ tab-group-editor-action-new-tab =
     .label = Jauna cilne grupā
 tab-group-editor-action-new-window =
     .label = Pārvietot grupu uz jaunu logu
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Kopēt saiti grupā
+            [zero] Kopēt { $linkCount } saites grupā
+            [one] Kopēt { $linkCount } saiti grupā
+           *[other] Kopēt { $linkCount } saites grupā
+        }
+tab-group-editor-action-save =
+    .label = Saglabāt un aizvērt grupu
+tab-group-editor-action-ungroup =
+    .label = Atgrupēt cilnes
+tab-group-editor-action-delete =
+    .label = Dzēst grupu
+tab-group-editor-done =
+    .label = Gatavs (D)
+    .accessKey = D
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Kopīgot grupu
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Kopīgot cilņu grupu
+tab-context-reopen-tab-group =
+    .label = Atkārtoti atvērt ciļņu grupu
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Noņemt no grupas
+            [zero] Noņemt no grupām
+            [one] Noņemt no grupas
+           *[other] Noņemt no grupām
+        }
+    .accesskey = r
 
 ## Tab Notes
 
