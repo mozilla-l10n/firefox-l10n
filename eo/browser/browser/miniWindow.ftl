@@ -21,3 +21,28 @@ mini-window-audio-mute =
 mini-window-audio-unmute =
     .label = Malsilentigi langeton
     .tooltiptext = Malsilentigi langeton
+
+## These strings label the buttons on the Screenshots selection overlay while
+## it is being used to pick the region for a Mini Window.
+
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = Movi al fenestreto
+    .aria-label = Movi al fenestreto
+    .title = Movi al fenestreto
+# Dismisses the Mini Window selection overlay without moving the tab.
+screenshots-component-mini-window-cancel-button = Nuligi
+    .aria-label = Nuligi
+    .title =
+        { PLATFORM() ->
+            [macos] Nuligi (esc)
+           *[other] Nuligi (Esc)
+        }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = Rekomenci
+    .aria-label = Rekomenci
+    .title = Rekomenci
+# Opens a selection tool to select a section of a page to
+# open in a smaller window to appear cropped and always on top.
+toolbar-button-mini-window =
+    .label = Fenestreto
+    .tooltiptext = Uzi fenestreton
