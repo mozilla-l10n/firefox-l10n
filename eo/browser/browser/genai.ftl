@@ -25,6 +25,9 @@ genai-settings-chat-scout-links = Se vi elektas Yahoo Scout vi akceptas la <a da
 genai-prompts-summarize =
     .label = Resumi
     .value = Bonvolu resumi la elektitaĵon precize kaj koncize. Uzu kaptitolojn kaj listojn en la resumo, tiel ke ĝi estos skanebla. Gardu la signifon kaj precizecon pri faktoj.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Bonvolu resumi la paĝon ĉe { $url } per klara kaj konciza lingvo. Uzu kaptitolojn kaj bulajn listojn por faciligi la legon. Gardu signifon kaj faktojn.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simpligi tekston
@@ -71,9 +74,23 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Kopii elektitan tekston
     .tooltiptext = Kopii elektitan tekston
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopiita
 genai-shortcut-more-actions-button =
     .aria-label = Pli da ebloj
     .tooltiptext = Pli da ebloj
+genai-more-actions-panel =
+    .aria-label = Elekti montrotajn agojn
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Demandi al { $provider }
+genai-more-actions-ai-generic =
+    .label = Demandi al AI
+genai-more-actions-search =
+    .label = Serĉi
+genai-more-actions-copy =
+    .label = Kopii
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandi al { $provider }
