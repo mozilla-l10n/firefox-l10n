@@ -475,6 +475,31 @@ launch-options-spotlight-primary-button-close = Guardar y cerrar { -brand-short-
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Guardar y continuar
 
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name } siempre está de tu lado
+lapsed-user-toast-subtitle = Descubre nuevas formas en las que puedes navegar con más libertad, privacidad y control.
+lapsed-user-toast-whats-new-button = Ver novedades
+lapsed-user-toast-dismiss-button = Más tarde
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Nuevo look. Tu configuración de siempre.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Importa tus marcadores, contraseñas e historial desde tu navegador actual.
+
 ## Refresh Firefox infobar
 ##
 ## Shown at startup when the profile has not been used in over 60 days, or when
