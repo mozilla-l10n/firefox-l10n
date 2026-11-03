@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via
 ipprotection-feature-introduction-title-1 = Provu la integritan VPN de { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn.
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
+ipprotection-feature-introduction-title-privacy-1 = Aldonu alian tavolon de privateco per la integrita VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
 ipprotection-feature-introduction-link-text-privacy-3 = Ricevu <a data-l10n-name="learn-more-vpn">ekstran privatecon</a> per elekto inter pluraj lokoj, por kaŝi la lokon el kie vi retumas.
 # Used for multiple discovery callouts after release of the site inclusions feature
@@ -36,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = Ĉu vi pretas vojaĝi? Po
 ipprotection-feature-introduction-description-summer-promo = Iru eĉ pli for per la integrita VPN de { -brand-product-name }: pli da lokoj, senlima trafiko. Propono valida ĝis la 31 de aŭgusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en privata fenestro.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = VPN permesas kaŝi vian pozicion dum vi retumas. Difinu regulojn por decidi kiam ŝalti ĝin por provizi <a data-l10n-name="learn-more-vpn">aldonan privatecon</a> aŭ aliron al servoj limigitaj laŭ origino kaj kiam malŝalti ĝin.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Kaŝu vian pozicion por havi <a data-l10n-name="learn-more-vpn">kroman privatecon</a> dum vi retumas. Difinu regulojn por ŝalti la VPN por havi kroman privatecon aŭ retumi el alia ejo, aŭ por malŝalti la VPN kiam vi ne bezonas tion.
 ipprotection-feature-introduction-title-captive-portal = Ĉu vi uzas publikan Wi-Fi? Provu la integritan VPN de { -brand-product-name }.
@@ -113,6 +116,8 @@ ipprotection-android-promo-callout-primary-button = Mi komprenis
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Difinu la regulojn por la integrita VPN kaj plu retumu
 ipprotection-site-inclusions-callout-title-lapsed-users = Provu la integritan VPN, ekde nun ŝaltigebla por specifaj retejoj
+ipprotection-site-inclusions-callout-description-1 = Ŝaltu la VPN kiam vi volas havi kroman privatecon aŭ retumi el alia ejo, kaj malŝaltu ĝin kiam vi tion ne bezonas.
+ipprotection-site-inclusions-callout-description-lapsed-users = Difinu regulojn por decidi ĉu ŝalti la VPN kiam vi volas havi kroman privatecon aŭ retumi el alia ejo, aŭ ĉu malŝalti ĝin kiam vi tion ne bezonas.
 ipprotection-site-inclusions-callout-description = Ŝaltu ĝin kiam vi volas havi kroman privatecon aŭ retumi el alia ejo, kaj malŝaltu ĝin kiam vi tion ne bezonas.
 ipprotection-site-inclusions-callout-primary-button = Difini regulojn
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne nun
@@ -120,8 +125,10 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignori
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Igu vian retumon privata kaj pli malfacile spurebla per la integrita VPN.
 ipprotection-holiday-promo-primary-button = Malfermi VPN
 ipprotection-holiday-promo-secondary-button = Ignori
+ipprotection-holiday-promo-title-1 = Profitu senliman VPN ĝis la 31a de januaro
 
 ## Panel
 
