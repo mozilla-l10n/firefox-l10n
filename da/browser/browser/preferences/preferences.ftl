@@ -669,6 +669,8 @@ browsing-search-on-start-typing =
 settings-keyboard-shortcuts-group =
     .description = Kontroller, hvordan du bevæger dig rundt og interagerer med { -brand-short-name }.
     .label = Tastaturgenveje
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Tilpas tastaturgenveje
 settings-media-group =
     .label = Medieindhold
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -771,6 +773,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Websteds-adresse(r)
+home-custom-homepage-list =
+    .aria-label = Websteds-adresser
 home-custom-homepage-address =
     .placeholder = Indtast adresse
 home-custom-homepage-address-button =
@@ -894,6 +898,8 @@ search-one-click-desc = Vælg de alternative søgetjenester, der vises under adr
 search-one-click-header-3 =
     .description = Vælg, hvilke søgetjenester og -genveje vises i dit adressefelt.
     .label = Flere søgetjenester
+search-engine-list =
+    .aria-label = Søgetjenester og genveje
 update-search-engine-success =
     .message = Søgetjenesten er blevet opdateret
 search-edit-engine-2 =
@@ -955,6 +961,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Tilføj ny kontekst
     .accesskey = T
+containers-list =
+    .aria-label = Kontekster
 containers-new-tab-check3 =
     .label = Vælg en kontekst for hvert nyt faneblad
     .accesskey = V
@@ -1320,6 +1328,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Håndter betalingsmetoder
     .accesskey = b
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Kræv login på enhed for at autofylde
+    .accesskey = K
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Kræv login på enhed for at autofylde og håndtere betalingsmetoder
     .accesskey = o
@@ -1396,6 +1408,28 @@ payment-moz-box-item =
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
 # code itself. "CVV" is a common abbreviation for the security code printed on a
 # payment card; use whichever abbreviation is most familiar in your locale.
 # Variables:
@@ -1418,6 +1452,11 @@ payments-group =
 
 ## Privacy Section - History
 
+history-remember-option-never2 =
+    .description = Hvert vindue fungerer som et privat vindue. Når indstillingen er valgt, skal udvidelser være tilladt.
+    .label = Aldrig gemme historik
+history-remember-option-custom2 =
+    .label = Tilpasse historik
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } vil huske din historik, dine filhentninger samt søgninger og data, du har indtastet i formularer.
@@ -1447,6 +1486,12 @@ history-clear-button =
     .accesskey = h
 history-header2 =
     .heading = Historik
+history-section-header =
+    .description = Vælg, hvad du vil have { -brand-short-name } til at huske, når du lukker browseren.
+    .label = Historik
+history-custom-section-header =
+    .description = Tilpas, hvad du vil have { -brand-short-name } til at huske, når du lukker browseren.
+    .label = Avancerede indstillinger
 history-group =
     .label = Historik
 history-mode-radio-group =
@@ -1467,6 +1512,9 @@ sitedata-delete-on-close2 =
     .accesskey = R
 sitedata-delete-on-close-private-browsing3 =
     .message = På baggrund af dine indstillinger for historik sletter { -brand-short-name } cookies og webstedsdata fra din session, når du lukker browseren.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historik gemmes ikke.
+    .message = { -brand-short-name } rydder cookies og webstedsdata fra din session, når du lukker browseren.
 sitedata-option-block-cross-site-trackers =
     .label = Sporings-teknologier på tværs af websteder
 sitedata-option-block-cross-site-tracking-cookies =
@@ -1495,6 +1543,9 @@ sitedata-cookies-exceptions2 =
 sitedata-heading =
     .description = Håndter din cookies, historik, cache, webstedsdata med mere.
     .label = Browserdata
+sitedata-settings3 =
+    .label = Ryd data for bestemte websteder
+    .accesskey = y
 cookies-site-data-group =
     .label = Cookies og websteds-data
 
@@ -1716,9 +1767,44 @@ permissions-data-section =
     .heading = Tilladelser og data
 pane-permissions-data-title2 = Tilladelser og data
     .title = Tilladelser og data
+notifications-section-header =
+    .heading = Beskeder
+notifications-entry-card-header =
+    .description = Vælg hvilke websteder, der kan sende beskeder, og hvordan de vises.
+    .label = Beskeder
 notifications-website-card-header =
     .description = Vælg, hvordan websteder kan sende beskeder.
     .label = Websteds-beskeder
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Websted
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Tillad beskeder
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Websteder
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Altid
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Tillad
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Aldrig
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Ingen websteds-beskeder tilføjet.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Ingen websteds-beskeder matcher din søgning.
 
 ## Privacy Section - Data Collection
 
@@ -1892,6 +1978,9 @@ preferences-doh-overview-off =
     .label = Fra
 preferences-doh-advanced-button =
     .label = Avancerede indstillinger
+preferences-doh-advanced-section =
+    .description = Domain Name System (DNS) via HTTPS (DoH) krypterer opslag af websteder, så det er sværere for din internetudbyder eller andre at se, hvilke websteder du er ved at besøge.
+    .label = Avancerede indstillinger
 preferences-doh-manage-exceptions2 =
     .label = Håndter undtagelser
     .accesskey = u
@@ -2042,6 +2131,9 @@ issue-card-dismiss-button =
 
 preferences-etp-level-radio-group =
     .aria-label = Udvidet beskyttelse mod sporing
+preferences-etp-level-custom =
+    .description = Vælg hvilke beskyttelser der skal slås til eller fra.
+    .label = Tilpasset
 preferences-etp-status-advanced-button =
     .label = Avancerede indstillinger
 preferences-etp-tracker-count-enabled =

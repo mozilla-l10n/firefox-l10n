@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Min historik siden kl. { $midnightTime }
 clear-time-duration-value-today =
     .label = Min historik for i dag
+clear-time-duration-value-all-time =
+    .label = Hele min historik
 clear-time-duration-value-everything =
     .label = Hele min historik
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historik
+item-history-and-downloads2 =
+    .label = Browsing- og filhentningshistorik
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Besøgte websteder og filhentningsliste
 item-history-and-downloads =
     .label = Browser- og filhentningshistorik
     .accesskey = B
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies og webstedsdata
     .accesskey = C
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Logger dig ud og indkøbskurve kan blive ryddet
 item-cookies-site-data-description = Kan logge dig ud fra websteder eller tømme indkøbskurve
 item-active-logins =
     .label = Aktive logins
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = h
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Midlertidige filer ({ $amount } { $unit })
+    .accesskey = M
+item-cached-content2 =
+    .label = Midlertidige filer
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Hjælper websteder med at indlæse hurtigere
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Gemte formularoplysninger
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Navne, mailadresser og formularindtastninger
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Websteds-tilladelser og indstillinger
 item-formdata-description = Rydder data såsom navne, mailadresser og anden tekst, du indtaster i formularer
 item-site-prefs-description = Nulstiller dine tilladelser og websteds-indstillinger til de oprindelige indstillinger
 data-section-label = Data
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Offline webstedsdata
     .accesskey = O
+sanitize-everything-undo-warning2 = Dette kan ikke fortrydes.
 sanitize-everything-undo-warning = Denne handling kan ikke fortrydes.
 window-close =
     .key = w

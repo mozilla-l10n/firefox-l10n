@@ -135,6 +135,10 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Uret i din enhed er indst
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Ejeren af { $hostname } har ikke sat webstedet korrekt op og en sikker forbindelse kan ikke oprettes.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Din computer tror, at { DATETIME($now, dateStyle: "medium") } er den korrekte dato og tid, hvilket forhindrer { -brand-short-name } i at oprette en sikker forbindelse. For at besøge <strong>{ $hostname }</strong> skal du gå til dine systemindstillinger og opdatere din computers ur til den korrekte dato, tidszone og det korrekte klokkeslæt. Opdater derefter siden.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

@@ -37,6 +37,22 @@ url-classifier-cache-prefix = Præfiks
 url-classifier-cache-ncache-expiry = Udløbstidspunkt negativ cache
 url-classifier-cache-fullhash = Komplet hash
 url-classifier-cache-pcache-expiry = Udløbstidspunkt positiv cache
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Resultater
+url-classifier-content-classifier-pbm = Privat browsing
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Undtagelse
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Important
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Undtagelse
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Fejl ({ $code })
 url-classifier-debug-title = Debug
 url-classifier-debug-module-btn = Angiv logmoduler
 url-classifier-debug-file-btn = Angiv logfil

@@ -74,6 +74,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Se din liste m
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Vejrudsigter
+experimental-features-newtab-widget-weather-description = Få et klart overblik over dagens vejr med timeudsigter. <a data-l10n-name="connect">Del feedback</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Dagens billede
