@@ -20,7 +20,7 @@ restart-required-fix-question = Tas tiešām ir kaitinoši! Vai { -brand-short-n
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.
 restart-required-fix-answer = Jā. Mēs zinām, ka tas rada traucējumus, un strādājam pie risinājuma, lai to novērstu. Sekojiet līdzi mūsu progresam Bugzilla kļūdas 2072739 labošanā.
-restart-button-label2 = Pārstartēt
+restart-button-label2 = Palaist no jauna
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Skatīt vairāk
 # Collapses the "More details" section below the buttons.
