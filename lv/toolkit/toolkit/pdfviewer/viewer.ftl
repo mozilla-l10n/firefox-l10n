@@ -108,6 +108,10 @@ pdfjs-document-properties-file-size = Faila izmērs:
 #   $kb (Number) - the PDF file size in kilobytes
 #   $b (Number) - the PDF file size in bytes
 pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } baiti)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) }, MB ({ $b } baiti)
 pdfjs-document-properties-title = Nosaukums:
 pdfjs-document-properties-author = Autors:
 pdfjs-document-properties-subject = Tēma:
