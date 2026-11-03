@@ -414,11 +414,90 @@ pdfjs-editor-alt-text-add-description-label = Pievienot aprakstu
 pdfjs-editor-alt-text-add-description-description = Izteikums 1–2 teikumos, kas apraksta tēmu, vidi vai darbības.
 pdfjs-editor-alt-text-mark-decorative-label = Atzīmēt kā dekoratīvu
 pdfjs-editor-alt-text-mark-decorative-description = To izmanto dekoratīviem attēliem, piemēram, apmalēm vai ūdenszīmēm.
+pdfjs-editor-alt-text-cancel-button = Atcelt
+pdfjs-editor-alt-text-save-button = Saglabāt
+pdfjs-editor-alt-text-decorative-tooltip = Atzīmēts kā dekoratīvs
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Piemēram, "Jauns vīrietis apsēžas pie galda, lai ieturētu maltīti".
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Alt teksts
+
+## Editor resizers
+## This is used in an aria label to help to understand the role of the resizer.
+
+pdfjs-editor-resizer-top-left =
+    .aria-label = Augšējais kreisais stūris — mainīt izmēru
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Augšpusē pa vidu — mainīt izmēru
+pdfjs-editor-resizer-top-right =
+    .aria-label = Augšējais labais stūris — mainīt izmēru
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Vidējais labais — mainīt izmēru
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Apakšējais labais stūris — mainīt izmēru
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Apakšā pa vidu — mainīt izmēru
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Apakšējais kreisais stūris — mainīt izmēru
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Vidējais kreisais — mainīt izmēru
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Izcelt krāsu
+pdfjs-editor-colorpicker-button =
+    .title = Mainīt krāsu
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Krāsu izvēles
+pdfjs-editor-colorpicker-yellow =
+    .title = Dzeltens
+pdfjs-editor-colorpicker-green =
+    .title = Zaļš
+pdfjs-editor-colorpicker-blue =
+    .title = Zils
+pdfjs-editor-colorpicker-pink =
+    .title = Rozā
+pdfjs-editor-colorpicker-red =
+    .title = Sarkans
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = Rādīt visu
+pdfjs-editor-highlight-show-all-button =
+    .title = Rādīt visu
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Labot alt tekstu (attēla aprakstu)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Pievienot alt tekstu (attēla aprakstu)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Rakstiet savu aprakstu šeit…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Īss apraksts cilvēkiem, kuri neredz attēlu vai ja attēls neielādējas.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Šis alternatīvais teksts tika izveidots automātiski un var būt neprecīzs.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Uzzināt vairāk
+pdfjs-editor-new-alt-text-create-automatically-button-label = Automātiski izveidot alt tekstu
+pdfjs-editor-new-alt-text-not-now-button = Ne tagad
+pdfjs-editor-new-alt-text-error-title = Nevarēja automātiski izveidot alternatīvo tekstu.
+pdfjs-editor-new-alt-text-error-description = Lūdzu, uzrakstiet savu alt tekstu vai mēģiniet vēlreiz vēlāk.
+pdfjs-editor-new-alt-text-error-close-button = Aizvērt
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Lejupielādē alt teksta MI modeli ({ $downloadedSize } no { $totalSize } MB)
+    .aria-valuetext = Lejupielādē alt teksta MI modeli ({ $downloadedSize } no { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Alt teksts ir pievienots
+pdfjs-editor-new-alt-text-added-button-label = Alt teksts ir pievienots
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
 pdfjs-editor-new-alt-text-missing-button =
     .aria-label = Trūkstošs alt teksts
@@ -525,16 +604,37 @@ pdfjs-editor-add-signature-save-warning-message = Jūs esat sasniedzis saglabāt
 pdfjs-editor-add-signature-image-upload-error-title = Nevarēja augšupielādēt attēlu
 pdfjs-editor-add-signature-image-upload-error-description = Jāpŗabauda savienojums ar internetu vai jāmēģina cits attēls.
 pdfjs-editor-add-signature-image-no-data-error-title = Šo attēlu nevar pārveidot par parakstu.
+pdfjs-editor-add-signature-image-no-data-error-description = Lūdzu, mēģiniet augšupielādēt citu attēlu.
+pdfjs-editor-add-signature-error-close-button = Aizvērt
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Atcelt
 pdfjs-editor-add-signature-add-button = Pievienot
+pdfjs-editor-edit-signature-update-button = Atjaunināt
+
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Labot komentāru
+pdfjs-editor-edit-comment-popup-button =
+    .title = Labot komentāru
+pdfjs-editor-delete-comment-popup-button-label = Noņemt komentāru
+pdfjs-editor-delete-comment-popup-button =
+    .title = Noņemt komentāru
+pdfjs-show-comment-button =
+    .title = Rādīt komentāru
 
 ##  Edit a comment dialog
 
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = Labot komentāru
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Atjaunināt
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Pievienot piebildi
 pdfjs-editor-edit-comment-dialog-save-button-when-adding = Pievienot
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = Sāciet rakstīt…
+pdfjs-editor-edit-comment-dialog-cancel-button = Atcelt
 
 ## Edit a comment button in the editor toolbar
 
@@ -550,6 +650,9 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-notification-button =
     .title = Pārslēgt sānu joslu (dokumentā ir sīktēli/saturs/pielikumi/slāņi)
+pdfjs-toggle-views-manager-button1-label = Pārvaldīt lapas
+pdfjs-views-manager-sidebar =
+    .aria-label = Sānu josla
 pdfjs-views-manager-outlines-title1 = Dokumenta saturs
     .title = Dokumenta saturs (veiciet dubultklikšķi, lai izvērstu/sakļautu visus vienumus)
 pdfjs-views-manager-outlines-option-label = Dokumenta saturs
