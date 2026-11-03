@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Papildinājumu pārvaldnieks
+search-header =
+    .placeholder = Meklēt vietnē addons.mozilla.org
+    .searchbuttonlabel = Meklēt
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+list-empty-get-extensions-message = Iegūstiet paplašinājumus un tēmas vietnē <a data-l10n-name="get-extensions">{ $domain } </a>
+list-empty-get-dictionaries-message = Iegūt vārdnīcas domēnā <a data-l10n-name="get-extensions">{ $domain } </a>
+list-empty-get-language-packs-message = Iegūt valodu pakotnes domēnā <a data-l10n-name="get-extensions">{ $domain } </a>
 
 ##
 
@@ -19,6 +29,9 @@ list-empty-button =
 help-button = Papildinājumu atbalsts
 sidebar-help-button-title =
     .title = Papildinājumu atbalsts
+addons-settings-button = { -brand-short-name } Iestatījumi
+sidebar-settings-button-title =
+    .title = { -brand-short-name } Iestatījumi
 show-unsigned-extensions-button =
     .label = Dažus papildinājumus nevar pārbaudīt
 show-all-extensions-button =
@@ -27,6 +40,8 @@ detail-version =
     .label = Versija
 detail-last-updated =
     .label = Pēdējo reizi atjaunināts
+addon-detail-description-expand = Rādīt vairāk
+addon-detail-description-collapse = Rādīt mazāk
 detail-contributions-description = Šī papildinājuma autors lūdz jūs atbalstīt izstrādi ar nelielu ziedojumu.
 detail-update-type =
     .value = Automātiska atjaunināšana

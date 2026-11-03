@@ -127,6 +127,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Upravljaj { -firefox-suggest-brand-
 urlbar-result-menu-report-inaccurate-location2 = Prijavi netočnu lokaciju
 urlbar-result-menu-show-less-frequently2 = Prikaži rjeđe
 urlbar-result-menu-dont-show-weather-suggestions2 = Ne prikazuj prijedloge za vremensku prognozu
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Odbaci ovaj prijedlog
+    .accesskey = O
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Ukloni iz povijesti
+    .accesskey = U
 urlbar-result-menu-learn-more =
     .label = Saznaj više
     .accesskey = S
@@ -314,6 +324,8 @@ quickactions-addons = Pregledaj dodatke
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = proširenja, teme, dodaci
+# Opens preferences page at AI controls
+quickactions-manageai = Upravljaj kontrolama umjetne inteligencije
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Upravljaj zabilješkama
 quickactions-cmd-bookmarks = zabilješke
@@ -339,12 +351,17 @@ quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector2 = inspektor, programerski alati
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Odaberi boju
+quickactions-cmd-colorpicker = birač boja, kapaljka, odaberi boju
 # Opens Firefox Library
 quickactions-cmd-library = biblioteka
 quickactions-library = Otvori biblioteku
 # Opens about:logins
 quickactions-logins2 = Upravljaj lozinkama
 quickactions-cmd-logins = prijave, lozinke
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = utišaj, tiho, ššš
 # Opens the print dialog
 quickactions-print2 = Ispiši stranicu
 quickactions-cmd-print = ispis
@@ -387,6 +404,7 @@ quickactions-viewsource2 = Prikaži izvorni kod stranice
 quickactions-cmd-viewsource2 = prikaži izvorni kod, izvorni kod, izvorni kod stranice
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Otvori { -firefoxlabs-brand-name }
+quickactions-cmd-labs = laboratorij, eksperiment
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Saznaj više o brzim radnjama
