@@ -948,6 +948,8 @@ search-one-click-desc = Vel alternative søkjemotorar som vert viste under adres
 search-one-click-header-3 =
     .description = Vel kva søkjemotorar og hurtigtastar som blir viste i adressefeltet.
     .label = Fleire søkjemotorar
+search-engine-list =
+    .aria-label = Søkjemotorar og snarvegar
 update-search-engine-success =
     .message = Søkjemotoren er oppdatert
 search-edit-engine-2 =
@@ -1146,6 +1148,10 @@ prefs-syncing-off = Synkronisering: AV
 prefs-syncing-off-2 =
     .description = Slå på synkronisering for å få bokmerka, passorda, historikken, og meir, tilgjengeleg på alle einingane dine.
     .label = Synkronisering er AV
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Slå på synkronisering for å få bokmerka, passorda, historikken og meir på denne eininga.
+    .label = Synkronisering er AV
 prefs-sync-turn-on-syncing =
     .label = Slå på synkronisering…
     .accesskey = S
@@ -1169,6 +1175,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Du synkroniserer desse elementa mellom alle dei tilkopla einingane dine:
 sync-syncing-across-devices-heading-2 = Data synkroniserte på tvers av einingar
+sync-syncing-across-devices-heading-3 = Datasynkronisering på denne eininga
 sync-syncing-across-devices-empty-state2 =
     .description = Du synkroniserer ingenting … enno. Start synkronisering for å få alle dataa dine på alle einingane dine.
     .label = Handsam synkroniserte data
@@ -1231,6 +1238,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = f
     .style = min-width: 36em;
     .title = Handsam kva som skal synkroniserast på dei tilkopla einingane dine
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Lagre
+    .buttonlabelextra2 = Kople frå …
+    .buttonaccesskeyaccept = L
+    .buttonaccesskeyextra2 = K
+    .style = min-width: 36em;
+    .title = Handsam kva som blir synkronisert på denne eininga
 
 ## The device name controls.
 
@@ -1391,6 +1405,10 @@ autofill-payment-methods-manage-payments-title =
 autofill-payment-methods-manage-payments-button =
     .label = Handsam betalingsmåtar
     .accesskey = H
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Krev einingspålogging for å autofylle
+    .accesskey = K
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Krev einingspålogging for å automatisk fylle ut og handsame betalingsmåter
@@ -1846,12 +1864,37 @@ pane-permissions-data-title2 = Løyve og data
     .title = Løyve og data
 notifications-section-header =
     .heading = Varsel
+notifications-entry-card-header =
+    .description = Vel kva nettstader som kan sende varsel, og korleis desse varsla blir viste.
+    .label = Varsel
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } nettstad
+           *[other] { $count } nettstadar
+        }
+    .label = Handsam varslingsinnstillingar
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Handsam innstillingar for nettstadvarsel
+notifications-website-card-header =
+    .description = Vel korleis nettstadar kan sende varsel.
+    .label = Nettstadvarsel
 notifications-filter =
     .placeholder = Søk på nettstadar
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
     .label = Nettstad
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Tillat varsel
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
@@ -1868,6 +1911,13 @@ notifications-state-allow = Tillat
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Aldri
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Ingen nettstadsvarsel er lagt til.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Ingen nettstadvarsel samsvarer med søket ditt.
 
 ## Privacy Section - Data Collection
 

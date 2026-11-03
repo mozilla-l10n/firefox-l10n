@@ -1480,6 +1480,9 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Slett nokre eller alle nettlesardataa dine
+    .tooltiptext = Slett nokre eller alle nettlesardataa dine
 fire-button-panel-heading = Slette alle nettlesardata?
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog

@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Ikkje no
     .accessKey = k
+credit-card-capture-never-save-payment-methods-button =
+    .label = Lagre aldri betalingsmåtar
+    .accessKey = L
 credit-card-capture-never-save-button =
     .label = Aldri lagre kort
     .accessKey = A
@@ -102,6 +105,11 @@ credit-card-capture-update-payment-method-button =
     .label = Oppdater
     .accessKey = O
 credit-card-update-saved-payment-method-doorhanger-header = Oppdatere lagra betalingsmåte?
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Lagre som ny
+    .accessKey = L
 
 ## Used on the doorhanger when a saved card is submitted with a new or changed
 ## security code.

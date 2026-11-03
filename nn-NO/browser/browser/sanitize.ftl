@@ -114,6 +114,7 @@ item-site-settings =
 item-offline-apps =
     .label = Fråkopla nettsidedata
     .accesskey = F
+sanitize-everything-undo-warning2 = Dette kan ikkje angrast.
 sanitize-everything-undo-warning = Denne handlinga kan ikkje angrast.
 window-close =
     .key = w

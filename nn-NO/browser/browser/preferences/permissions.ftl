@@ -163,6 +163,14 @@ permissions-site-xr-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til den virtuelle røyndomseininga di.
 permissions-site-xr-disable-desc = Dette findrar nettstadar som ikkje er oppførte ovanfor, og ber om løyve til å få tilgang til den virtuelle røyndomseininga di. Dersom du blokkerer tilgang til den virtuelle røyndomseininga di, kan det hende at nokre nettstadfunksjonar ikkje vil fungere.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Innstillingar – Blokkerte nettstadar for applenker
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
