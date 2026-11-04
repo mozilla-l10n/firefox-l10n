@@ -337,6 +337,20 @@ newtab-recent-searches-just-now = Justo ahora
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Más información
 
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Más información
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Historias
+newtab-spaces-tab-widgets = Widgets
+newtab-spaces-tab-activity = Actividad
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -419,6 +433,9 @@ newtab-topsites-hover-card-just-now = Hace un instante
 newtab-topsites-hover-card-mark-all-read =
     .aria-label = Marcar todo como leído
     .title = Marcar todo como leído
+newtab-topsites-hover-card-dismiss =
+    .aria-label = Descartar
+    .title = Descartar
 
 ## Context Menu - Action Tooltips.
 
@@ -670,6 +687,17 @@ newtab-wallpaper-dark-mountain = Paisaje montañoso
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
 newtab-wallpaper-dark-fox-anniversary = Un zorro en la acera cerca de un bosque
 newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de hierba con un paisaje montañoso brumoso
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
 
 ## Solid Colors
 
