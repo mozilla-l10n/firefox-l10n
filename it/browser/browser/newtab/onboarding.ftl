@@ -415,6 +415,8 @@ tab-groups-onboarding-session-restore-title-3 = Riapri i gruppi di schede dal me
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Riapri i gruppi di schede dal menu “Elenco di tutte le schede” in qualsiasi momento.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = I gruppi di schede vengono salvati automaticamente. Li trovi qui.
 
 ## Multi Profiles feature onboarding messages
 
