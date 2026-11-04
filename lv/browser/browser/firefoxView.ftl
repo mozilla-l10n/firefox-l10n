@@ -15,6 +15,14 @@ firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Tikko
+firefoxview-syncedtabs-signin-header-2 = Jūsu { -brand-product-name } visās jūsu ierīcēs
+firefoxview-syncedtabs-signin-description-2 = Lai skatītu cilnes, kas ir atvērtas jūsu tālrunī un citās ierīcēs, pierakstieties vai reģistrējiet kontu. Izmantojot kontu, varat arī sinhronizēt savas paroles, vēsturi un citu informāciju.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = No klēpjdatora uz tālruni, nemanāmi
+firefoxview-syncedtabs-signin-description-3 = Saglabājiet pārlūkošanas savienojumu dažādās ierīcēs — cilnes, paroles un vēsture — viss vienādots.
+firefoxview-syncedtabs-signin-primarybutton-2 = Pieteikties
+firefoxview-syncedtabs-adddevice-header-2 = Ņemiet cilnes no jebkuras vietas
+firefoxview-syncedtabs-adddevice-description-2 = Lai skatītu cilnes šeit, pierakstieties pakalpojumā { -brand-product-name } savā tālrunī vai citā datorā. Uzziniet, kā <a data-l10n-name="url">pievienot papildu ierīces</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Izmēģiniet { -brand-product-name } mobilajiem tālruņiem
 firefoxview-tabpickup-synctabs-primarybutton = Sinhronizēt atvērtās cilnes
 firefoxview-syncedtabs-synctabs-header = Atjaunināt vienādošanas iestatījumus

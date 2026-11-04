@@ -160,11 +160,45 @@ ipprotection-connection-status-blocked-error-description = Vietējie likumi neļ
 ipprotection-message-bandwidth-warning =
     .heading = Tuvojaties VPN ierobežojumam
     .message = Šomēnes jums ir atlicis { $usageLeft } GB no { $maxUsage } GB.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Tuvojaties VPN ierobežojumam
+    .message = Šomēnes jums ir atlicis { $usageLeft } MB no { $maxUsage } GB.
+ipprotection-message-continuous-onboarding-intro = Ieslēdziet VPN, lai paslēptu savu atrašanās vietu un pievienotu papildu šifrēšanu pārlūkošanai.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Iestatiet VPN ieslēgties</a> katru reizi, kad atverat { -brand-short-name }, lai nodrošinātu papildu aizsardzības līmeni.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } atcerēsies, kurām tīmekļa vietnēm esat iestatījis VPN izmantošanu. Varat tos jebkurā laikā atjaunināt <a data-l10n-name="setting-link">iestatījumos</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir izslēgts
 confirmation-hint-ipprotection-navigated-to-included-site = Šajā vietnē ir ieslēgts VPN
+ipprotection-open-button = Atvērt { -brand-product-name }
+ipprotection-come-back-title = Atgriezieties, lai izmēģinātu iebūvēto VPN
+ipprotection-message-body-hide-location = Lai nodrošinātu lielāku privātumu un kontroli, paslēpiet savu atrašanās vietu, pārlūkojot { -brand-product-name }.
+ipprotection-connection-status-generic-error-title-1 = Nevarēja izveidot savienojumu ar VPN
+    .aria-label = Nevarēja izveidot savienojumu ar VPN
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Patīk iebūvētais VPN? Iegūstiet vēl lielāku aizsardzību ārpus { -brand-product-name } ar { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Izvēlieties VPN atrašanās vietu un pievienojiet aizsardzību visām savām lietotnēm līdz pat 5 ierīcēs neatkarīgi no tā, vai atrodaties mājās vai publiskā Wi-Fi tīklā.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Tuvojas jūsu VPN ierobežojums.</strong> Jums ir atlicis { $usageLeft } GB. Jūsu dati tiks atiestatīti nākamā mēneša sākumā.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Jums gandrīz beigušies VPN dati.</strong> Jums ir atlicis { $usageLeft } GB. Kad būsiet visu izmantojis, VPN darbība tiks apturēta, līdz dati tiks atiestatīti nākamā mēneša pirmajā dienā.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Jums gandrīz beigušies VPN dati.</strong> Jums ir atlicis { $usageLeft } MB. Kad būsiet visu izmantojis, VPN darbība tiks apturēta, līdz dati tiks atiestatīti nākamā mēneša pirmajā dienā.
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .description = Iebūvēts VPN, lai uzlabotu jūsu privātumu, pārlūkojot vietni { -brand-short-name }.
+    .label = VPN
 ip-protection-learn-more = Uzzināt vairāk
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
