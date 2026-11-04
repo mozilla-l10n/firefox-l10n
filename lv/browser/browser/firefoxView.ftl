@@ -28,19 +28,29 @@ firefoxview-syncedtabs-adddevice-primarybutton = Izmēģiniet { -brand-product-n
 firefoxview-syncedtabs-adddevice-header-3 = Tavas cilnes zvanīja. Tās ir tavā tālrunī.
 firefoxview-syncedtabs-adddevice-description-3 = Noskenējiet QR kodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm un sāktu sinhronizēt atvērtās cilnes un citas funkcijas. Uzziniet, kā <a data-l10n-name="url">pievienot papildu ierīces</a>.
 firefoxview-tabpickup-synctabs-primarybutton = Sinhronizēt atvērtās cilnes
+firefoxview-tabpickup-synctabs-primarybutton-2 = Ieslēgt cilņu vienādošanu
 firefoxview-syncedtabs-synctabs-header = Atjaunināt vienādošanas iestatījumus
 firefoxview-syncedtabs-synctabs-description = Lai skatītu cilnes no citām ierīcēm, jums ir jāsinhronizē atvērtās cilnes.
 firefoxview-syncedtabs-synctabs-header-2 = Ciļņu vienādošāna ir izslēgta
+firefoxview-syncedtabs-synctabs-description-2 = Ieslēdziet vienādošanu vēlreiz, lai iegūtu visas cilnes no citām ierīcēm.
 firefoxview-syncedtabs-loading-header = Sinhronizē
 firefoxview-syncedtabs-loading-description = Kad vienādošana būs pabeigta, redzēsi visas cilnes, kas ir atvērtās citās ierīcēs. Pēc kāda brīža ieskaties vēlreiz!
+firefoxview-syncedtabs-loading-header-2 = Notiek jūsu cilņu izgūšana…
+firefoxview-syncedtabs-loading-description-2 = Notiek vienādošana. Cilnes drīz būs pieejamas.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jūsu organizācija ir izslēgusi sinhronizāciju
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nevar vienādot cilnes starp ierīcēm, jo apvienībā ir atspējota vienādošana.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ciļņu vienādošāna ir izslēgta
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Jūsu organizācija bloķēja šo funkciju.
 firefoxview-tabpickup-network-offline-header = Jāpārbauda savienojums ar internetu
 firefoxview-tabpickup-network-offline-description = Ja izmanto ugunsmūri vai starpniekserveri, jāpārbauda, vai { -brand-short-name } ir atļauja piekļūt tīmeklim.
 firefoxview-tabpickup-network-offline-primarybutton = Mēģināt vēlreiz
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } šobrīd nevar izveidot savienojumu
+firefoxview-tabpickup-network-offline-description-2 = Iespējams, esat bezsaistē vai kaut kas bloķē savienojumu.
 firefoxview-tabpickup-sync-error-header = Mums ir problēmas ar sinhronizāciju
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } pašlaik nevar sasniegt vienādošanas pakalpojumu. Pēc brīža jāmēģina vēlreiz.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Vienādošana saskārās ar aizķeršanos
+firefoxview-tabpickup-generic-sync-error-description-2 = Neizdevās izveidot savienojumu ar { -brand-short-name }. Pagaidiet brīdi un mēģiniet vēlreiz.
 firefoxview-tabpickup-sync-error-primarybutton = Mēģināt vēlreiz
 firefoxview-tabpickup-sync-disconnected-header = Jāieslēdz vienādošana, lai turpinātu
 firefoxview-tabpickup-sync-disconnected-description = Lai iegūtu savas cilnes, { -brand-short-name } ir nepieciešams atļaut vienādošanu.
@@ -50,6 +60,7 @@ firefoxview-tabpickup-password-locked-description = Lai izmantotu cilnes, jums b
 firefoxview-tabpickup-password-locked-link = Uzzināt vairāk
 firefoxview-tabpickup-password-locked-primarybutton = Ievadiet galveno paroli
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Uzzināt vairāk</a>
+firefoxview-tabpickup-password-locked-header-2 = Atbloķējiet cilnes ar savu galveno paroli
 firefoxview-tabpickup-password-locked-description-2 = Jūsu privātuma labad sinhronizētās cilnes ir aizsargātas. Ievadiet savu { -brand-short-name } galveno paroli, lai skatītu cilnes no citām savām ierīcēm.
 firefoxview-tabpickup-signed-out-header = Piesakies, lai atkal savienotos
 firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un piekļūtu savām cilnēm, jāpiesakās savā kontā.
@@ -191,6 +202,14 @@ firefoxview-history-empty-description-2 = Apmeklējot lapas, šeit tiks parādī
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Izvēlieties pārlūku
     .title = Izvēlieties pārlūku
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header-2 = Jūs kontrolējat, ko { -brand-short-name } atceras.
+firefoxview-dont-remember-history-empty-description-one = Šobrīd { -brand-short-name } neatceras jūsu pārlūkošanas aktivitātes. Lai to mainītu, <a data-l10n-name="history-settings-url-two">atjauniniet vēstures iestatījumus</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Jūs neesat reģistrējis saziņu.
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } pašlaik nesaglabā jūsu vēsturi. To var jebkurā laikā mainīt <a data-l10n-name="history-settings-url-two">iestatījumos</a>.
 
 ##
 

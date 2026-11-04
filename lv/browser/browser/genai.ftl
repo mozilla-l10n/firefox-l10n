@@ -136,6 +136,19 @@ genai-shortcuts-hide =
     .label = Slēpt tērzēšanas robota saīsni
 genai-menu-choose-chatbot =
     .label = Izvēlieties MI tērzēšanas robotu
+genai-menu-ask-generic-2 =
+    .label = Jautājiet MI tērzēšanas robotam
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Vaicāt { $provider }
+    .accesskey = V
+genai-menu-no-provider-2 =
+    .label = Jautājiet MI tērzēšanas robotam
+    .accesskey = z
+genai-menu-ask-smart-window =
+    .label = Pajautāt…
+    .accesskey = P
 
 ## Chatbot header
 
