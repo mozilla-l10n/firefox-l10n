@@ -465,5 +465,7 @@ vpn-error-page-keep-browsing = გაგრძელდეს გვერდე
 vpn-error-page-new-session = გაეშვას ახალი სეანსი
 vpn-paused-alert-close-tabs-button = ყველა ჩანართის დახურვა
 vpn-paused-alert-continue-wo-vpn-button = განაგრძეთ გამორთული VPN-ით
+vpn-error-alert-title-1 = VPN და წესები ამჟამად არ მუშაობს.
+vpn-error-alert-body-1 = თუ ჩაირთვება და გამოირთვება VPN, შეიძლება ხარვეზი გამოსწორდეს.
 vpn-error-alert-title = VPN ამჟამად არ მუშაობს.
 vpn-error-alert-body = სცადეთ მოგვიანებით.

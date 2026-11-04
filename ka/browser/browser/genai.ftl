@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = ამ მენიუს აღარ იხილავთ ტექსტის მონიშვნისას. კვლავ გამოსაჩენად პარამეტრებში მოიძიეთ <span data-l10n-name="chevron"></span> ჩანართები და მონახულება.
 genai-more-actions-manage-settings =
     .label = პარამეტრების მართვა
+genai-selection-callout-title = მონიშნეთ ტექსტი მოქმედების ასარჩევად
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = მოიძიეთ ან აიღეთ ასლი ტექსტის მონიშვნისას. აირჩიეთ, რომელ მოქმედებებს გამოაჩენს <span data-l10n-name="more-actions">•••</span> მენიუში.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = გიპასუხებთ { $provider }

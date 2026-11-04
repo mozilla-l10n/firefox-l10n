@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = გადმოტა�
 about-logins-menu-menuitem-import-from-a-file = ფაილიდან გადმოტანა…
 about-logins-menu-menuitem-export-logins2 = პაროლების გატანა...
 about-logins-menu-menuitem-remove-all-logins2 = ყველა პაროლის მოცილება…
+about-logins-menu-menuitem-delete-all-logins = ყველა პაროლის წაშლა…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] პარამეტრები
@@ -89,6 +90,7 @@ about-logins-intro-import3 = აირჩიეთ ზემოთ მიმა�
 about-logins-login-item-new-login-title = პაროლის დამატება
 login-item-edit-button = ჩასწორება
 about-logins-login-item-remove-button = მოცილება
+about-logins-login-item-delete-button = წაშლა
 login-item-origin-label = საიტის მისამართი
 about-logins-origin-tooltip2 = მიუთითეთ სრული მისამართი და დარწმუნდით, რომ ზუსტად ემთხვევა იმ საიტს, რომლის ანგარიშზეც შეხვედით.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = გაუქმება
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = წაიშალოს პაროლი?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = წაიშალოს პაროლი?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = შედეგად { -brand-short-name } წაშლის ყველა მოწყობილობიდან, რომლებზეც დასინქრონებულია თქვენი პაროლები. ეს ქმედება შეუქცევადია.
 about-logins-confirm-remove-dialog-confirm-button = მოცილება
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = წაშლა
 
 ## Variables
 ##   $count (number) - Number of items
@@ -186,10 +194,22 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] მოცილება
        *[other] ყველას მოცილება
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] წაშლა
+       *[other] ყველას წაშლა
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] დიახ, წაიშალოს პაროლი
+       *[other] დიახ, წაიშალოს პაროლები
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [one] დიახ, წაიშალოს პაროლი
        *[other] დიახ, წაიშალოს პაროლები
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
@@ -209,6 +229,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] წაიშალოს { $count } პაროლი ყველა მოწყობილობიდან?
        *[other] წაიშალოს { $count } პაროლი ყველა მოწყობილობიდან?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] წაიშალოს { $count } პაროლი?
+       *[other] წაიშალოს { $count } პაროლი?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
