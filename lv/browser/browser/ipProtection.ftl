@@ -115,8 +115,11 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Iestatiet iebūvētos VPN noteikumus un pēc tam pārlūkojiet
+ipprotection-site-inclusions-callout-title-lapsed-users = Izmēģiniet iebūvēto VPN, tagad atsevišķi vietnēm
 ipprotection-site-inclusions-callout-description-1 = VPN var ieslēgt, kad ir vēlēšanās pēc papildu privātumu vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
 ipprotection-site-inclusions-callout-description-lapsed-users = Var iestatīt kārtulas, lai ieslēgtu VPN, kad ir vēlēšanās pēc papildu privātuma vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
+ipprotection-site-inclusions-callout-description = Ieslēdziet to, ja vēlaties papildu privātumu vai pārlūkošanu, pamatojoties uz atrašanās vietu, un izslēdziet, ja tas nav nepieciešams.
+ipprotection-site-inclusions-callout-primary-button = Iestatiet noteikumus
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne tagad
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Noraidīt
 
@@ -136,12 +139,14 @@ unauthenticated-private-location-message = Palīdz <a data-l10n-name="learn-more
 unauthenticated-choose-location-message-1 = Izvēlies no vairākām atrašanās vietām vai ļauj { -brand-product-name } izvēlēties ātrāko!
 unauthenticated-site-rules-message = Pārvaldi, kuras vietnes izmanto VPN un kuras nē!
 unauthenticated-get-started = Sākt
+unauthenticated-terms-of-service-privacy-notice = Turpinot, jūs piekrītat <a data-l10n-name="vpn-terms-of-service">pakalpojumu sniegšanas noteikumiem</a> un <a data-l10n-name="vpn-privacy-notice">paziņojumam par konfidencialitāti</a>.
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN ir ieslēgts šai vietnei
     .label = Šai vietnei izmantot VPN
 site-exclusion-toggle-disabled-1 =
     .aria-label = Šai vietnei VPN ir izslēgts
     .label = Izmantot VPN šai vietnei
+site-exclusion-toggle-description = Vietne nedarbojas? Mēģiniet izslēgt VPN.
 # Manages rules for VPN to turn on or off automatically for certain websites
 site-rules-manage-rules-link-text = Pārvaldīt VPN kārtulas
 # Heading for user defined rules on VPN usage for particular websites
@@ -156,9 +161,13 @@ site-rules-description-inclusion = VPN ieslēgts šai vietnei
 site-rules-inclusion-prompt =
     .heading = Vienmēr { $website } ieslēgt VPN?
     .message = Kārtulas jebkurā brīdī var atjaunināt iestatījumos.
+ipprotection-settings-link =
+    .label = Iestatījumi
 
 ## Status card
 
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Izslēgt VPN
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on-1 = Ieslēgt
 ipprotection-connection-status-excluded-1 = VPN šai vietnei ir izslēgts
