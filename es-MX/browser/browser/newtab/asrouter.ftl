@@ -525,3 +525,4 @@ restore-session-startup-suggestion-button = Mostrar cómo
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Agregar
+taskbar-tabs-spotlight-done-button = Listo

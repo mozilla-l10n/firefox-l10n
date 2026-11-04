@@ -327,6 +327,11 @@ newtab-picture-attribution-license =
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Más información
 
+## Strings for the Search widget
+
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Justo ahora
+
 ## Strings for the Travel widget
 
 # Context menu item linking to more information about the widget.
