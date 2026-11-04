@@ -341,7 +341,7 @@ quickactions-addons = Skatīt papildinājumus
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-addons3 = paplašinājumi, motīvi, papildinājumi
+quickactions-cmd-addons3 = paplašinājumi, tēmas, papildinājumi
 # Opens preferences page at AI controls
 quickactions-manageai = Pārvaldīt MI vadīklas
 quickactions-cmd-manageai = atspējot mi, izslēgt mi, pārvaldīt mi
@@ -413,11 +413,11 @@ quickactions-settings2 = Pārvaldīt iestatījumus
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = iestatījumi, preferences, iespējas, pārvaldīt
 # Opens about:addons page in the themes section
-quickactions-themes = Pārvaldīt motīvus
+quickactions-themes = Pārvaldīt tēmas
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-themes2 = motīvi, papildinājumi, paplašinājumi
+quickactions-cmd-themes2 = tēmas, papildinājumi, paplašinājumi
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atjaunināt { -brand-short-name }
 quickactions-cmd-update = atjaunināt

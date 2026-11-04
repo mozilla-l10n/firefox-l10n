@@ -40,7 +40,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ne tagad
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Ir pieejams jauns { -brand-shorter-name } atjauninājums, taču to nevar uzinstalēt, jo darbojas cita { -brand-shorter-name } kopija. Tā ir jāaizver, lai turpinātu atjaunināšanu, vai arī jāizvēlas tomēr atjaunināt (otra kopija var nedarboties pareizi līdz tās pārstartēšanai).
-appmenu-addon-post-install-message3 = Pārvaldiet savus paplašinājumus un motīvus, izmantojot lietotnes izvēlni.
+appmenu-addon-post-install-message3 = Pārvaldi savus paplašinājumus un tēmas lietotnes izvēlnē!
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Atļaujas un datu iestatījumus jebkurā brīdī var atjaunināt <a data-l10n-name="settings-link">paplašinājuma iestatījumos</a>.

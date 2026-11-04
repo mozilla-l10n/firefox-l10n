@@ -6,12 +6,12 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 # "Auto" is short for automatic. It can be localized without limitations.
-extension-default-theme-name-auto = Sistēmas motīvs — auto
+extension-default-theme-name-auto = Sistēmas tēma — automātiska
 extension-default-theme-description = Ievērojiet operētājsistēmas iestatījumu pogām, izvēlnēm un logiem.
 extension-firefox-compact-light-name = Gaišs
-extension-firefox-compact-light-description = Motīvs ar gaišu krāsu shēmu.
+extension-firefox-compact-light-description = Tēma ar gaišu krāsu paleti.
 extension-firefox-compact-dark-name = Tumšs
-extension-firefox-compact-dark-description = Motīvs ar tumšu krāsu shēmu.
+extension-firefox-compact-dark-description = Tēma ar tumšu krāsu paleti.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Izmantojiet krāsainu izskatu pogām, izvēlnēm un logiem.
 
