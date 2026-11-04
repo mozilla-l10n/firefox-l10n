@@ -39,6 +39,7 @@ about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB（{ 
 # $distinct (Number) - Number of unique certificates across all tokens
 # $distinctBytes (Number) - Uncompressed size of the unique certificates, in bytes
 about-networking-ssl-tokens-summary-certs = 已存储证书：{ $references } 份（{ $totalBytes } B），不重复证书：{ $distinct } 份（{ $distinctBytes } B）
+about-networking-ssl-tokens-partition-key = 分区键
 about-networking-ssl-tokens-tokens-column = 令牌
 about-networking-ssl-tokens-expires = 过期时间
 about-networking-ssl-tokens-certificate = 证书
@@ -60,7 +61,12 @@ about-networking-ssl-tokens-compression-details =
     .title = 令牌：{ $tokenLength } B。编码后：{ $decompressedLength } → { $compressedLength } B。
 about-networking-ssl-tokens-ev-status = EV 证书
 about-networking-ssl-tokens-ct-status = 证书透明度状态
+about-networking-ssl-tokens-overridable-error = 可覆盖的错误类别
 about-networking-ssl-tokens-built-in-root = 内置根证书
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = 证书链（{ $count } 个）
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = 握手证书（{ $count } 个）
 about-networking-refresh = 刷新
 about-networking-auto-refresh = 每 3 秒自动刷新
 about-networking-hostname = 主机名
