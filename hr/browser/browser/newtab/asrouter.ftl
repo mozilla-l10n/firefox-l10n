@@ -258,16 +258,30 @@ launch-on-login-infobar-final-message = <strong>Otvoriti { -brand-short-name } s
 launch-on-login-infobar-final-reject-button = Ne hvala
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-keep-button = Zadrži uključenim
+    .accesskey = k
+launch-on-login-autostart-infobar-turn-off-button = Isključi
+    .accesskey = I
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title = Otvoriti { -brand-short-name } sljedeći put kada se računalo pokrene?
+launch-on-login-spotlight-startup-checkbox = Pokreni { -brand-short-name } pri pokretanju
 launch-on-login-spotlight-pin-taskbar-checkbox = Prikvači na programsku traku
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Otvori prethodne prozore i kartice
+launch-on-login-spotlight-primary-button = Spremi i zatvori { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
@@ -384,6 +398,8 @@ windows-10-eos-feature-toast-dismiss-button = Odbaci
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-primary-button = Uključi sigurnosno kopiranje
+    .accesskey = U
 windows-10-eos-global-infobar-learn-more-link = Saznaj više
     .accessKey = S
 
@@ -415,13 +431,55 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Postavi kao zadano
 set-default-menu-message-primary-button-variant = Postavi kao primarni preglednik
+set-default-menu-message-primary-button-short-variant = Postavi { -brand-short-name } kao zadani preglednik
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 besplatnih maski e-pošte
 relay-50-masks-announcement-primary-button = Idi na { -relay-brand-name }
     .accesskey = I
 relay-50-masks-announcement-secondary-button = Odbaci
     .accesskey = d
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Pošalji povratne informacije
+    .accesskey = P
+nova-early-access-infobar-primary-button = Razumijem
+    .accesskey = R
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = Prikvači na svoju programsku traku
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Ponovno otvori trenutne prozore i kartice
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Ponovno otvori prethodne prozore i kartice
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Spremi i zatvori { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Spremi i nastavi
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name } ti i dalje čuva leđa
+lapsed-user-toast-whats-new-button = Pogledaj što je novo
+lapsed-user-toast-dismiss-button = Odbaci
 
 ## Refresh Firefox infobar
 ##

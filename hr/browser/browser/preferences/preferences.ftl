@@ -1821,6 +1821,10 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Odaberi web-stranice koje mogu instalirati proširenja
     .accesskey = e
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Upravljaj blokiranim stranicama
+    .accesskey = m
 permissions-location2 =
     .label = Mjesto
 permissions-localhost2 =

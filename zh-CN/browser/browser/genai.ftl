@@ -70,9 +70,23 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = 复制选中的文本
     .tooltiptext = 复制选中的文本
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = 已复制
 genai-shortcut-more-actions-button =
     .aria-label = 更多选项
     .tooltiptext = 更多选项
+genai-more-actions-panel =
+    .aria-label = 选择要显示的操作
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = 询问 { $provider }
+genai-more-actions-ai-generic =
+    .label = 询问 AI
+genai-more-actions-search =
+    .label = 搜索
+genai-more-actions-copy =
+    .label = 复制
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 询问 { $provider }

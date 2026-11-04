@@ -19,6 +19,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more = { $agent } 正在审核�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } 正在审核您粘贴的内容是否符合您组织的数据策略，这可能需要一些时间。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = “{ $agent }”正在审核您复制的内容是否符合您组织的数据策略。这可能需要一些时间。
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -26,7 +29,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } 正在审核您
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = “{ $agent }”正在审核您打印的内容是否符合您组织的数据策略。这可能需要一些时间。
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = 您的组织限制了复制此内容。
 contentanalysis-operationtype-clipboard = 剪贴板
+contentanalysis-operationtype-clipboard-copy = 已复制内容
 contentanalysis-operationtype-dropped-text = 拖放的文本
 contentanalysis-operationtype-print = 打印
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -64,6 +72,7 @@ contentanalysis-invalid-agent-signature-message-content = 验证“{ $agent }”
 contentanalysis-error-message-upload-file = “{ $filename }”的上传被拒绝。
 contentanalysis-error-message-dropped-text = 拖放内容被拒绝。
 contentanalysis-error-message-clipboard = 粘贴内容被拒绝。
+contentanalysis-error-message-clipboard-copy = 复制被拒绝。
 contentanalysis-error-message-print = 打印内容被拒绝。
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -79,6 +88,8 @@ contentanalysis-block-dialog-title-download-file = 您无权下载此文件
 contentanalysis-block-dialog-body-download-file = 根据您组织的数据保护策略，您无权下载文件“{ $filename }”。请联系您的管理员了解更多信息。
 contentanalysis-block-dialog-title-clipboard = 您无权粘贴此内容
 contentanalysis-block-dialog-body-clipboard = 根据您组织的数据保护策略，您无权粘贴此内容。请联系您的管理员了解更多信息。
+contentanalysis-block-dialog-title-clipboard-copy = 您无权复制此内容
+contentanalysis-block-dialog-body-clipboard-copy = 根据您组织的数据保护策略，您无权复制此内容。请联系您的管理员了解更多信息。
 contentanalysis-block-dialog-title-dropped-text = 您无权放置此内容
 contentanalysis-block-dialog-body-dropped-text = 根据您组织的数据保护策略，您不被允许拖放此内容。请联系您的管理员了解更多信息。
 contentanalysis-block-dialog-title-print = 您无权打印此文档

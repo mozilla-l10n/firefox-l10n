@@ -265,6 +265,14 @@ newtab-privacy-message-milestone-month-cta = Pogledaj zaštite
 newtab-privacy-message-milestone-year-cta = Pogledaj zaštite
 newtab-privacy-message-milestone-total-cta = Pogledaj zaštite
 newtab-privacy-message-daily-cap-cta = Pogledaj zaštite
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Zaštićen(a) si { $count } dan zaredom.
+        [few] Zaštićen(a) si { $count } dana zaredom.
+       *[other] Zaštićen(a) si { $count } dana zaredom.
+    }
 newtab-privacy-message-streak-cta = Pogledaj zaštite
 newtab-privacy-message-first-protection-cta = Pogledaj zaštite
 
@@ -1043,6 +1051,12 @@ newtab-wallpaper-firefox-tail-dark = Lisičji rep na tamnoj pozadini
 newtab-wallpaper-firefox-tail-light = Lisičji rep na svijetloj pozadini
 newtab-wallpaper-firefox-side-kit-dark = Lisica na lijevoj strani na tamnoj pozadini
 newtab-wallpaper-firefox-side-kit-light = Lisica na lijevoj strani na svijetloj pozadini
+newtab-wallpaper-firefox-sitting-hill-dark = Lisica koja sjedi na tamnoljubičastim brijegovima
+newtab-wallpaper-firefox-sitting-hill-light = Lisica koja sjedi na svijetlim brijegovima
+newtab-wallpaper-firefox-peak-dark = Lice lisice na lijevom rubu na tamnoj pozadini
+newtab-wallpaper-firefox-peak-light = Lice lisice na lijevom rubu na svijetloj pozadini
+newtab-wallpaper-firefox-sky-dark = Tamnoljubičasti brijegovi pod noćnim nebom
+newtab-wallpaper-firefox-sky-light = Svijetli brijegovi pod blagim nebom
 
 ## Firefox
 
