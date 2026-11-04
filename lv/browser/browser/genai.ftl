@@ -137,6 +137,16 @@ genai-shortcuts-hide =
 genai-menu-choose-chatbot =
     .label = Izvēlieties MI tērzēšanas robotu
 
+## Chatbot header
+
+genai-provider-view-details =
+    .label = Skatīt tērzēšanas robota informāciju
+genai-options-reload-generic =
+    .label = Atkārtoti ielādēt MI tērzēšanas robotu
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Pārlādēt { $provider }
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = Turpināt

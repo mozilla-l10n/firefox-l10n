@@ -116,6 +116,7 @@ fxa-adoption-passwords-primary-button-label = Reģistrēties
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Saglabājiet iecienītākās plūsmas uzdevumjoslā
 taskbar-tabs-social-callout-subtitle = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Tērzējiet no uzdevumjoslas
 taskbar-tabs-chat-callout-subtitle = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
@@ -211,9 +212,31 @@ vertical-tabs-callout-2-cta-button = Izmēģiniet tagad
 vertical-tabs-callout-2-title = Turi atvērtas daudz ciļņu? Izmēģini stateniskās cilnes!
 vertical-tabs-callout-2-subtitle = Šis izkārtojums ļauj ātri pārskatīt ciļņu sarakstu. Turklāt varat pielāgot platumu, lai redzētu vairāk vai mazāk ciļņu nosaukumu.
 
+## Sidebar Vertical Tabs Pinning Strings
+
+sidebar-pins-callout-title = Vai aizmirstat par savām svarīgajām cilnēm?
+sidebar-pins-callout-subtitle = Mēģiniet tās piespraust, lai tās paliktu ciļņu saraksta augšdaļā. Ar peles labo pogu noklikšķiniet uz cilnes, kuru vēlaties piespraust, un pēc tam izvēlieties Piespraust cilni.
+sidebar-pins-callout-cta-button = Piespraust cilni
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-1-title = Turiet svarīgās cilnes rokas stiepiena attālumā
+pin-tabs-callout-1-subtitle = Velciet cilni uz ciļņu joslas sākumu, lai to piespraustu. Vai arī noklikšķiniet ar peles labo pogu un izvēlieties Piespraust cilni.
+pin-tabs-callout-cta-1-button = Piespraust šo cilni
+pin-tabs-callout-2-title = Piespraust visbiežāk apmeklētās cilnes
+pin-tabs-callout-2-subtitle = Lai piespraustu jebkuru cilni, velciet to uz ciļņu joslas sākumu. Vai arī noklikšķiniet ar peles labo pogu un izvēlieties Piespraust cilni.
+pin-tabs-callout-cta-2-button = Piespraust šo cilni
+pin-tabs-callout-3-title = Saglabājiet svarīgas vietnes rokas stiepiena attālumā
+pin-tabs-callout-4-title = Piespraust visbiežāk apmeklētās vietnes
+
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Sānu josla: jūsu vieta rīkiem un cilnēm
+sidebar-customization-callout-1-subtitle = Sānu josla { -brand-product-name } nodrošina ātru piekļuvi pārlūkošanas vēsturei, cilnēm no citām ierīcēm un mākslīgā intelekta tērzēšanas robotam — tas viss, neizejot no galvenā skata.
 sidebar-customization-callout-callout-button = Pielāgot sānjoslu
+sidebar-customization-callout-dismiss-button = Slēpt sānu joslu
+sidebar-customization-callout-2-title = Pielāgojiet { -brand-product-name } sānu joslu savai gaumei
+sidebar-customization-callout-2-subtitle = Pievienojiet un noņemiet rīkus. Novietojiet cilnes sānu joslā. Izmēģiniet MI tērzēšanas robotu. Sānu joslas pielāgošana ir jūsu ziņā.
 
 ## Sidebar Callout Survey Strings
 
@@ -244,8 +267,25 @@ sidebar-genai-survey-satisfaction-question = Cik apmierināts esat ar piekļuvi 
 sidebar-genai-survey-productive-question =
     Cik lielā mērā piekrītat vai nepiekrītat šim apgalvojumam:<br/>
     “MI tērzēšanas robots sānjoslā palīdz man būt produktīvākam”?
+splitview-onboarding-callout-title-1 = Dalīts skats: labāks veids, kā veikt vairākus uzdevumus vienlaikus
 splitview-onboarding-callout-subtitle-1 = Jāveic klikšķis ar labo peles taustiņu uz šīs cilnes un jāizvēlas “Pievienot sadalīto skatu”, lai vienlaicīgi redzētu divas cilnes.
+splitview-onboarding-callout-cta-1 = Izmēģiniet to tūlīt
+splitview-onboarding-callout-title-2 = Skatiet divas cilnes vienlaikus, izmantojot dalīto skatu
 splitview-onboarding-callout-subtitle-2 = Nekādu papildu logu. Nekādas pārslēgšanās starp cilnēm. Ar labo peles taustiņu jāklikšķina uz šīs cilnes un jāizvēlas “Pievienot sadalīto skatu”.
+splitview-onboarding-callout-cta-2 = Izmēģiniet dalīto skatu
 unified-search-callout-title = Pārslēgties starp meklētājiem
+unified-search-callout-subtitle = Izvēlieties to, kas vislabāk atbilst jūsu konkrētajai meklēšanai.
+unified-search-callout-primary-label = Nākamais
+unified-search-callout-secondary-label = Noraidīt
 unified-search-engines-callout-title = Meklēt ar saīsni
+unified-search-engines-callout-subtitle = Ierakstiet simbolu “@”, kam seko atslēgvārds, lai meklētu vēsturē, grāmatzīmēs, cilnēs vai izmantojot citu meklētājprogrammu.
 unified-search-engines-callout-primary-label = Sapratu
+actions-callout-title = Veiciet bieži uzdotos uzdevumus vai piekļūstiet pamata iestatījumiem
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory2
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Mēģiniet ierakstīt darbību, piemēram, “drukāt”, lai izdrukātu lapu, vai “notīrīt”, lai notīrītu vēsturi.

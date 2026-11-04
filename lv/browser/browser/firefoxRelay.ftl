@@ -31,6 +31,9 @@ firefox-relay-reuse-masks-select-label = Atlasīt nesenu aizsegu
 firefox-relay-see-all-masks =
     .label = Apskatīt visus aizsegus
     .accesskey = A
+firefox-relay-dismiss =
+    .label = Noraidīt
+    .accesskey = d
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Aizsargā savu e-pasta adresi:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
@@ -40,6 +43,8 @@ firefox-relay-use-mask-title-1 = Izmantot e-pasta aizsegu
 firefox-relay-use-mask-title = Izmantot { -relay-brand-name } e-pasta aizsegu
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Iegūsti bezmaksas e-pasta aizsegu
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Aizsargājiet savu iesūtni no surogātpasta
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Izmantot e-pasta aizsegu
     .accesskey = I
@@ -47,6 +52,12 @@ firefox-relay-opt-in-confirmation-disable =
     .label = Turpmāk vairs nerādīt
     .accesskey = T
 firefox-relay-opt-in-confirmation-postpone =
+    .label = Ne tagad
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Turpmāk vairs nerādīt
+    .accesskey = T
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ne tagad
     .accesskey = N
 
