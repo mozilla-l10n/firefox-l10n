@@ -72,7 +72,7 @@ fxa-menu-signed-out-message-unverified = Finalizar configuración
 # signed out - the account they signed out of can no longer be identified, so
 # this copy stands in for the email.
 fxa-menu-signed-out-title = Inicia sesión para sincronizar
-fxa-menu-signed-out-description = Has cerrado sesión
+fxa-menu-signed-out-description = Cerraste sesión
 fxa-avatar-sign-in = Iniciar sesión
 fxa-avatar-sign-up = Registrarse
 fxa-avatar-tooltip =

@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importar desde otro nav
 about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo…
 about-logins-menu-menuitem-export-logins2 = Exportar contraseñas…
 about-logins-menu-menuitem-remove-all-logins2 = Eliminar todas las contraseñas…
+about-logins-menu-menuitem-delete-all-logins = Eliminar todas las contraseñas…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Selecciona el botón del signo más que está arrib
 about-logins-login-item-new-login-title = Agregar contraseña
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
+about-logins-login-item-delete-button = Eliminar
 login-item-origin-label = Dirección de sitio web
 about-logins-origin-tooltip2 = Ingresa la dirección completa y asegúrate de que coincida exactamente con el lugar donde te conectas.
 # Variables
@@ -174,6 +176,8 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ¿Eliminar contraseña?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = ¿Eliminar contraseña?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Esta acción no se puede deshacer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
