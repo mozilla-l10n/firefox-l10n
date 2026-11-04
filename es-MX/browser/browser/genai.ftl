@@ -62,6 +62,16 @@ genai-menu-remove-sidebar =
 # Shown briefly after clicking the Copy action in the text selection menu,
 # confirming the selection was copied to the clipboard.
 genai-shortcut-copy-confirmation = Copiado
+genai-shortcut-more-actions-button =
+    .aria-label = Más opciones
+    .tooltiptext = Más opciones
+genai-more-actions-panel =
+    .aria-label = Selecciona qué acciones mostrar
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Preguntar { $provider }
+genai-more-actions-ai-generic =
+    .label = Preguntar a la IA
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Preguntar { $provider }
