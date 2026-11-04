@@ -15,6 +15,9 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } 正尝试使
 autofill-edit-payment-method-os-prompt-macos = 显示存储的付款方式信息
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } 正尝试显示存储的付款方式信息，请在下方登录此 Windows 账户确认。
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } 正尝试显示存储的付款方式信息。
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = 删除已储存的付款方式信息
 # The button leads users to Form Autofill browser preferences.
 credit-card-doorhanger-options-button =
     .title = 表单自动填写选项
@@ -51,6 +54,21 @@ autofill-clear-form-label = 清除自动填写表单
 autofill-manage-addresses-label = 管理地址
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = 管理付款方式
+# Used as the primary label of an autofill drop down suggestion when the focused
+# field is the card security code. The card's masked number is shown underneath
+# it as the secondary label. "CVC" is a common abbreviation for the code printed
+# on a payment card; use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-label = 安全码
+
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
