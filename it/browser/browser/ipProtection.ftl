@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Usa la nostra n
 ipprotection-feature-introduction-description-private-browsing = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi una finestra anonima.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Nascondi la tua posizione mentre navighi. Imposta regole per attivare la VPN quando desideri <a data-l10n-name="learn-more-vpn">maggiore privacy</a> o vuoi navigare da una posizione specifica, e disattivarla dove non serve.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Nascondi la tua posizione per una <a data-l10n-name="learn-more-vpn">maggiore privacy</a> durante la navigazione. Imposta regole per attivare la VPN quando vuoi più privacy o navigare da una posizione specifica e disattivarla dove non serve.
 ipprotection-feature-introduction-title-captive-portal = Sei su una rete Wi-Fi pubblica? Prova la VPN integrata di { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi reti Wi-Fi pubbliche.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Configura le regole 
 ipprotection-site-inclusions-callout-title-lapsed-users = Prova la VPN integrata, ora configurabile per ogni sito
 ipprotection-site-inclusions-callout-description-1 = Attiva la VPN sui siti in cui vuoi più privacy o navigare da una posizione specifica, lasciala disattivata sugli altri.
 ipprotection-site-inclusions-callout-description-lapsed-users = Configura regole per attivare la VPN sui siti in cui vuoi più privacy o vuoi navigare da una posizione specifica, e disattivarla sugli altri.
-ipprotection-site-inclusions-callout-description = Attivala sui siti in cui vuoi più privacy o navigare da una posizione specifica, lasciala disattivata sugli altri.
 ipprotection-site-inclusions-callout-primary-button = Configura regole
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Non adesso
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignora
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Elimina la regola per { $website }
     .title = Elimina
-ip-protection-site-rules-header =
-    .heading = Gestisci le regole per i siti web
-ip-protection-site-rules-button =
-    .description = Imposta regole specifiche per i siti che richiedono maggiore privacy o una connessione senza VPN.
-    .label = Gestisci regole per i siti web
 ip-protection-autostart =
     .label = Attiva VPN automaticamente
 ip-protection-autostart-checkbox =

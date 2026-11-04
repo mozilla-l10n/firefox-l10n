@@ -132,10 +132,6 @@ autofill-card-security-code-optional-2 =
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =
     .label = CVV (facoltativo)
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code =
-    .label = CVV
 autofill-card-name-on-card = Nome sulla carta
 autofill-card-expires-month = Scad. mese
 autofill-card-expires-year = Scad. anno
