@@ -72,6 +72,13 @@ genai-more-actions-ai-provider =
     .label = Preguntar { $provider }
 genai-more-actions-ai-generic =
     .label = Preguntar a la IA
+genai-more-actions-search =
+    .label = Buscar
+genai-more-actions-copy =
+    .label = Copiar
+genai-more-actions-manage-settings =
+    .label = Administrar ajustes
+genai-selection-callout-title = Resalte el texto para elegir una acción
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Preguntar { $provider }
@@ -230,6 +237,11 @@ link-preview-settings-key-points =
     .label = Permite que la IA lea el comienzo de la página y genere puntos clave
 link-preview-settings-long-press =
     .label = Atajo: Haz clic y mantén presionado el enlace durante 1 segundo (pulsación larga)
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Copiar
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ver más con IA?
 # Message that appears when user is shown the opt-in flow for link previews

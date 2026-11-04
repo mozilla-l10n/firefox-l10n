@@ -79,6 +79,11 @@ menu-file-close-tab =
            *[other] Cerrar { $tabCount } pestañas
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Cerrar
+    .accesskey = C
 menu-file-close-window =
     .label = Cerrar ventana
     .accesskey = v
@@ -91,6 +96,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Compartir
     .accesskey = C
+menu-file-share-qrcode3 =
+    .label = Crear código QR
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = Generar código QR…
     .accesskey = Q
@@ -230,6 +238,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Buscar en el historial
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Buscar pestañas
 
 ## Bookmarks Menu
 
@@ -255,6 +266,10 @@ menu-bookmarks-other =
     .label = Otros Marcadores
 menu-bookmarks-mobile =
     .label = Marcadores móviles
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Mostrar más en la barra lateral
 
 ## Profiles Menu
 
@@ -359,3 +374,7 @@ menu-help-not-deceptive =
     .accesskey = d
 menu-report-broken-site =
     .label = Informar de un sitio no funcional
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals2 =
+    .label = Compartir { -brand-product-name }
