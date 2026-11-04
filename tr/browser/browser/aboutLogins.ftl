@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıda
 about-logins-menu-menuitem-import-from-a-file = Dosyadan içe aktar…
 about-logins-menu-menuitem-export-logins2 = Parolaları dışa aktar…
 about-logins-menu-menuitem-remove-all-logins2 = Tüm parolaları sil…
+about-logins-menu-menuitem-delete-all-logins = Tüm parolaları sil…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Seçenekler
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Şimdi bir parola eklemek için yukarıdaki artı i
 about-logins-login-item-new-login-title = Parola ekle
 login-item-edit-button = Düzenle
 about-logins-login-item-remove-button = Sil
+about-logins-login-item-delete-button = Sil
 login-item-origin-label = Web sitesi adresi
 about-logins-origin-tooltip2 = Tam adresi yazın ve giriş yaptığınız adresle tam olarak aynı olduğundan emin olun.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Vazgeç
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Parola silinsin mi?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Parola silinsin mi?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Bu işlemi geri alamazsınız.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Bu işlem, parolayı eşitlediğiniz tüm cihazlardaki { -brand-short-name } uygulamasından siler. Bu işlemi geri alamazsınız.
 about-logins-confirm-remove-dialog-confirm-button = Sil
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Sil
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,11 +195,25 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Sil
        *[other] Tümünü sil
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Sil
+        [one] Tümünü sil
+       *[other] Tümünü sil
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Evet, parolayı sil
         [one] Evet, parolayı sil
+       *[other] Evet, parolaları sil
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Evet, parolayı sil
+        [one] Evet, parolaları sil
        *[other] Evet, parolaları sil
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
@@ -213,12 +235,25 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] { $count } parola tüm cihazlardan silinsin mi?
        *[other] { $count } parolanın hepsi tüm cihazlardan silinsin mi?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } parola silinsin mi?
+       *[other] { $count } parola silinsin mi?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan silecektir. Burada görünen tüm ihlal uyarıları silinecektir. Bu işlemi geri alamazsınız.
         [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan silecektir. Burada görünen tüm ihlal uyarıları silinecektir. Bu işlemi geri alamazsınız.
        *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan silecektir. Burada görünen tüm ihlal uyarıları silinecektir. Bu işlemi geri alamazsınız.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Bu işlem, parolayı eşitlediğiniz tüm cihazlardaki { -brand-short-name } uygulamasından siler. Bu işlemi geri alamazsınız.
+        [one] Bu işlem, parolayı eşitlediğiniz tüm cihazlardaki { -brand-short-name } uygulamasından siler. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem, parolaları eşitlediğiniz tüm cihazlardaki { -brand-short-name } uygulamasından siler. Bu işlemi geri alamazsınız.
     }
 
 ##

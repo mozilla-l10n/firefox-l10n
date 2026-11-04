@@ -465,5 +465,7 @@ vpn-error-page-keep-browsing = Bu oturumda gezinmeye devam et
 vpn-error-page-new-session = Yeni oturum başlat
 vpn-paused-alert-close-tabs-button = Tüm sekmeleri kapat
 vpn-paused-alert-continue-wo-vpn-button = VPN olmadan devam et
+vpn-error-alert-title-1 = VPN ve kurallar şu anda çalışmıyor.
+vpn-error-alert-body-1 = VPN’i açıp kapatmak sorunu çözebilir.
 vpn-error-alert-title = VPN şu anda çalışmıyor.
 vpn-error-alert-body = Daha sonra yeniden deneyin.
