@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = Eliminar { $provider }
 genai-menu-remove-sidebar =
     .label = Eliminar de la barra lateral
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Copiado
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Preguntar { $provider }
