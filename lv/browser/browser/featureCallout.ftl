@@ -79,10 +79,40 @@ bookmarks-toolbar-callout-2a-subtitle = Šeit varat vilkt un nomest cilnes, lai 
 bookmarks-toolbar-callout-2a-primary-button-label = Sapratu
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Slēpt rīkjoslu
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Vai atstāt grāmatzīmju rīkjoslu atvērtu?
+bookmarks-toolbar-callout-2b-subtitle = Varat pievienot citas vietnes, kuras apmeklējat biežāk. Vienkārši velciet un nometiet cilnes šeit, lai iecienītākās vietnes vienmēr būtu rokas stiepiena attālumā.
+bookmarks-toolbar-callout-2b-primary-button-label = Turiet atvērtu
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nē, paldies
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Vajadzīga pareizā atbilde, tūlīt?
+perplexity-callout-theme-2-title = Izmēģiniet Perplexity: jaunu meklēšanas veidu
+perplexity-callout-theme-1-subtitle-1 = Izmēģiniet Perplexity. Izvēlieties to meklēšanas pogā, ja vēlaties pilnīgas atbildes, ieskaitot avotus.
+perplexity-callout-theme-1-subtitle-2 = Uzdodiet jautājumus. Saņemiet pilnīgas, labi citētas atbildes. Lai izmēģinātu Perplexity, izvēlieties to meklēšanas pogā.
+perplexity-callout-theme-2-subtitle-1 = Jautājiet Perplexity. Jūs saņemsiet pilnīgas atbildes, ieskaitot avotus.
+perplexity-callout-theme-2-subtitle-2 = Uzdodiet jautājumus. Saņemiet pilnīgas, labi citētas atbildes.
+perplexity-callout-primary-label = Jautā Perplexity
+perplexity-callout-secondary-label-1 = Noraidīt
 perplexity-callout-secondary-label-2 = Sapratu
+
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = Vai vēlaties izmēģināt jaunu, uz privātumu vērstu meklēšanu?
+start-page-callout-subtitle = Izmēģiniet Startpage. Tas ir izstrādāts, lai jau no paša sākuma nodrošinātu jūsu meklēšanas konfidencialitāti.
+start-page-callout-primary-label = Izmēģiniet Startpage
+start-page-callout-secondary-label = Noraidīt
+
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Parole saglabāta. Izveidosim tās rezerves kopiju.
+fxa-adoption-passwords-subtitle = Aizsargājiet savas paroles, sinhronizējot tās ar ierīcēm, izmantojot šifrēšanu.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Reģistrēties
 
 ## Taskbar Tabs callout strings
 
