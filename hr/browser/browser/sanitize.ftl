@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Izbriši svu povijest
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Brisanje podataka pregledavanja
 clear-data-settings-label = Kad se zatvori, { -brand-short-name } bi automatski trebao sve izbrisati
 sanitize-on-shutdown-description = Automatski izbriši sve označene stavke kada se { -brand-short-name } zatvori.
 
@@ -47,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Od { $midnightTime }
 clear-time-duration-value-today =
     .label = danas
+clear-time-duration-value-all-time =
+    .label = Svo vrijeme
 clear-time-duration-value-everything =
     .label = sve
 clear-time-duration-suffix =
@@ -56,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Povijest
+item-history-and-downloads2 =
+    .label = Povijest pregledavanja i preuzimanja
+    .accesskey = P
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Posjećene stranice i popis preuzimanja
 item-history-and-downloads =
     .label = Povijest pregledavanja i preuzimanja
     .accesskey = v
@@ -72,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Kolačići i podaci web stranice
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Odjavljuje te i može isprazniti košarice za kupovinu
 item-cookies-site-data-description = Može te odjaviti s web-stranica ili isprazniti košaricu
 item-active-logins =
     .label = Aktivne prijave
@@ -79,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Predmemorija
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Privremene datoteke ({ $amount } { $unit })
+    .accesskey = d
+item-cached-content2 =
+    .label = Privremene datoteke
+    .accesskey = d
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Pomaže stranicama da se brže učitaju
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -98,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Spremljene informacije obrasca
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Imena, adrese e-pošte i unosi u obrasce
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Dozvole i postavke web stranice
 item-formdata-description = Briše stvari kao što su imena, e-mail adrese i druge stvari koje upisuješ u obrasce
 item-site-prefs-description = Resetira tvoje dozvole i postavke za web stranicu na izvorne postavke
 data-section-label = Podaci
@@ -107,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Podaci izvanmrežnih stranica
     .accesskey = n
+sanitize-everything-undo-warning2 = Ovo se ne može poništiti.
 sanitize-everything-undo-warning = Ovo je nepovratna radnja.
 window-close =
     .key = w
@@ -116,6 +148,14 @@ sanitize-button-ok2 =
     .label = Izbriši
 sanitize-button-ok-on-shutdown =
     .label = Spremi promjene
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Izbriši
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Zatvori
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

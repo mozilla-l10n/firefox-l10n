@@ -21,6 +21,8 @@ firefoxview-syncedtabs-signin-primarybutton-2 = Prijavi se
 firefoxview-syncedtabs-adddevice-header-2 = Ugrabi kartice od bilo kuda
 firefoxview-syncedtabs-adddevice-description-2 = Prijavi se na { -brand-product-name } na svom telefonu ili drugom računalu kako bi se ovdje prikazale kartice. Saznaj kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Isprobaj { -brand-product-name } za mobitel
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Zovu te tvoje kartice. Na tvom su mobitelu.
 firefoxview-tabpickup-synctabs-primarybutton = Sinkroniziraj otvorene kartice
 firefoxview-tabpickup-synctabs-primarybutton-2 = Uključi sinkronizaciju kartica
 firefoxview-syncedtabs-synctabs-header = Aktualiziraj tvoje postavke sinkronizacije
@@ -29,9 +31,11 @@ firefoxview-syncedtabs-synctabs-header-2 = Sinkronizacija kartica je isključena
 firefoxview-syncedtabs-loading-header = Sinkronizacija u tijeku
 firefoxview-syncedtabs-loading-description = Kada sinkronizacija završi, vidjet ćeš sve otvorene kartice s drugih uređaja. Navrati uskoro.
 firefoxview-syncedtabs-loading-header-2 = Dohvaćanje tvojih kartica…
+firefoxview-syncedtabs-loading-description-2 = Sinkronizacija je u tijeku. Kartice će se uskoro pojaviti ovdje.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tvoja je organizacija deaktivirala sinkronizaciju
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoja organizacija deaktivirala sinkronizaciju.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sinkronizacija kartica je isključena
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Tvoja organizacija je blokirala ovu značajku.
 firefoxview-tabpickup-network-offline-header = Provjeri internetsku vezu
 firefoxview-tabpickup-network-offline-description = Ako koristiš vatrozid ili proxy, provjeri ima li { -brand-short-name } dozvolu za pristup webu.
 firefoxview-tabpickup-network-offline-primarybutton = Pokušaj ponovo

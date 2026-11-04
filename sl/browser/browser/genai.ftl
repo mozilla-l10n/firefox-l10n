@@ -62,6 +62,9 @@ genai-menu-remove-sidebar =
 genai-shortcut-copy-button =
     .aria-label = Kopiraj izbrano besedilo
     .tooltiptext = Kopiraj izbrano besedilo
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopirano
 genai-shortcut-more-actions-button =
     .aria-label = Več možnosti
     .tooltiptext = Več možnosti
@@ -229,6 +232,11 @@ link-preview-settings-key-points =
     .label = Dovoli UI, da prebere uvod strani in izlušči glavne poudarke
 link-preview-settings-long-press =
     .label = Bližnjica: kliknite in zadržite povezavo 1 sekundo (dolg pritisk)
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopiraj
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Želite izvedeti več s pomočjo umetne inteligence?
 # Message that appears when user is shown the opt-in flow for link previews

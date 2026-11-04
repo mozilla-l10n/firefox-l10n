@@ -88,3 +88,6 @@ experimental-features-semantic-history-search-description = Koristi lokalni mode
 experimental-features-tab-notes =
     .label = Bilješke kartica
 experimental-features-tab-notes-description = Bilješke na karticama je eksperimentalna funkcija koja omogućuje dodavanje ljepljivih bilješki karticama preglednika. Zabilježi kontekst, podsjetnike ili sljedeće korake kako bi se mogao/la vratiti i sjetiti se zašto si ih otvorio/la. Pošalji nam povratne informacije dok nastavljamo poboljšavati ovu funkciju. <a data-l10n-name="connect">Dijeli povratne informacije</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Pojednostavljeni izbornik kartica

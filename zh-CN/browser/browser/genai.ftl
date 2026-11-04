@@ -87,6 +87,12 @@ genai-more-actions-search =
     .label = 搜索
 genai-more-actions-copy =
     .label = 复制
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = 选中文本时将不再显示此菜单。前往 设置<span data-l10n-name="chevron"></span>标签页与浏览 可重新设为显示。
+genai-more-actions-manage-settings =
+    .label = 管理设置
+genai-selection-callout-title = 选中文本以选择操作
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 询问 { $provider }

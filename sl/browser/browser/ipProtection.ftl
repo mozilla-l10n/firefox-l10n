@@ -201,6 +201,18 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } spletnih mest
         }
     .label = Nastavitve spletnih mest
+ip-protection-site-rules-delete-all-button =
+    .label = Izbriši vsa pravila
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Uredi pravilo za { $website }
+    .title = Uredi
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Izbriši pravilo za { $website }
+    .title = Izbriši
 ip-protection-autostart =
     .label = Samodejno vključi VPN
 ip-protection-autostart-checkbox =

@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Uvozi iz drugega brskal
 about-logins-menu-menuitem-import-from-a-file = Uvozi iz datoteke …
 about-logins-menu-menuitem-export-logins2 = Izvozi gesla ...
 about-logins-menu-menuitem-remove-all-logins2 = Odstrani vsa gesla …
+about-logins-menu-menuitem-delete-all-logins = Izbriši vsa gesla …
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -93,6 +94,7 @@ about-logins-intro-import3 = Za dodajanje gesla kliknite zgornji gumb z znakom p
 about-logins-login-item-new-login-title = Dodaj geslo
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Odstrani
+about-logins-login-item-delete-button = Izbriši
 login-item-origin-label = Naslov spletnega mesta
 about-logins-origin-tooltip2 = Vnesite polni naslov in se prepričajte, da se natančno ujema s stranjo, na kateri se prijavljate.
 # Variables
@@ -178,9 +180,15 @@ confirmation-dialog-dismiss-button =
     .title = Prekliči
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Odstranim geslo?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Ali želite izbrisati geslo?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Tega dejanja ne boste mogli razveljaviti.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = S tem ga boste izbrisali iz { -brand-short-name(sklon: "rodilnik") } na vseh napravah, kjer se sinhronizirajo vaša gesla. Tega ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Izbriši
 
 ## Variables
 ##   $count (number) - Number of items
@@ -193,6 +201,15 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Odstrani vse
        *[other] Odstrani vse
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Izbriši
+        [one] Izbriši vse
+        [two] Izbriši vse
+        [few] Izbriši vse
+       *[other] Izbriši vse
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -200,6 +217,15 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [two] Da, odstrani gesli
         [few] Da, odstrani gesla
        *[other] Da, odstrani gesla
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Da, izbriši geslo
+        [one] Da, izbriši gesla
+        [two] Da, izbriši gesli
+        [few] Da, izbriši gesla
+       *[other] Da, izbriši gesla
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -224,6 +250,14 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [two] Odstranim { $count } gesli z vseh naprav?
         [few] Odstranim { $count } gesla z vseh naprav?
        *[other] Odstranim { $count } gesel z vseh naprav?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Ali želite izbrisati { $count } geslo?
+        [two] Ali želite izbrisati { $count } gesli?
+        [few] Ali želite izbrisati { $count } gesla?
+       *[other] Ali želite izbrisati { $count } gesel?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

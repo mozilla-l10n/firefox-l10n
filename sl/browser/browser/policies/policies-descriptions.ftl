@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = { -brand-short-name(sklon: "dajalnik") } prepreč
 policy-DisableForgetButton = Prepreči dostop do gumba Pozabi.
 policy-DisableFormHistory = Ne shranjuj zgodovine iskanja in obrazcev.
 policy-DisableLaunchOnLogin = Onemogoči samodejni zagon { -brand-short-name(sklon: "rodilnik") } ob prijavi uporabnika.
+policy-DisableMacOSUserPolicies = Prezri pravilnike iz uporabnikovih nastavitev in iz nastavitvenih profilov na ravni uporabnika v sistemu macOS.
 policy-DisablePrimaryPasswordCreation = Če je "true", glavnega gesla ni mogoče ustvariti.
 policy-DisablePasswordReveal2 = Ne dovoli razkrivanja gesel na seznamu shranjenih prijav ali v poljih za geslo.
 policy-DisablePrivateBrowsing = Onemogoči zasebno brskanje.
