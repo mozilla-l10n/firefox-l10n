@@ -32,6 +32,11 @@ about-processes-profile-process =
 about-processes-column-name = Nombre
 about-processes-column-memory-resident = Memoria
 about-processes-column-cpu-total = CPU
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = % de la capacidad total de la CPU en todos los núcleos
+# Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
+about-processes-column-memory-resident-tab = RAM
 
 ## Process names
 ## Variables:
@@ -112,6 +117,14 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Pestaña: { $name }
 about-processes-preloaded-tab = Pestaña nueva precargada
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } pestaña
+       *[other] { $count } pestañas
+    }
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.

@@ -29,3 +29,4 @@ about-pdf-features-back =
     .label = Atrás
 about-pdf-feature-organize-heading = Organizar páginas
 about-pdf-feature-organize-description = Organiza, elimina, combina y exporta páginas.
+about-pdf-feature-comments-heading = Agregar notas
