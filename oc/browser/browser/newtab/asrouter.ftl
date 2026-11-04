@@ -184,6 +184,10 @@ fox-doodle-pin-secondary = Pas ara
 set-default-pdf-handler-headline = <strong>Vòstres fichièrs PDF se dobrisson d’ara enlà dins { -brand-short-name }.</strong> Modificatz o signatz de formularis dirèctament del navegador estant. Per modificar aqueste compòrtament, cercatz « PDF » als paramètres.
 set-default-pdf-handler-primary = Comprés !
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = Far venir { -brand-short-name } vòstre editor de PDF per defaut ?
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Sètz per aver un aparelh novèl lèu ?

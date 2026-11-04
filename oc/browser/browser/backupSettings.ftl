@@ -9,3 +9,4 @@
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-encryption-state-value-encrypted = Òc
+backup-file-creation-date-label = Data de creacion :

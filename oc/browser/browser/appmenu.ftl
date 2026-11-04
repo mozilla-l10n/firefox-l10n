@@ -39,6 +39,9 @@ appmenuitem-zoom =
     .value = Zoom
 appmenuitem-more-tools =
     .label = Mai d’aisinas…
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ajuda e senhalaments
 appmenuitem-help =
     .label = Ajuda
 appmenuitem-exit2 =
@@ -218,6 +221,9 @@ appmenu-help-share-ideas =
     .accesskey = P
 appmenu-help-switch-device =
     .label = Passar a un aparelh novèl
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ajuda e senhalaments
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -243,6 +249,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar la barra d‘aisinas…
+appmenu-edit-pdf =
+    .label = Modificar un PDF…
 appmenu-developer-tools-subheader = Aisinas del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions pels desvolopaires
@@ -275,3 +283,6 @@ fxa-menu-create-profile-confirm =
     .label = Crear un perfil noù
 appmenu-profiles-2 =
     .label = Perfils
+appmenu-profiles-header = Perfils
+appmenu-all-profiles =
+    .label = Totes los perfils

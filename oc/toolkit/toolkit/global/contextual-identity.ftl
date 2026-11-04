@@ -32,8 +32,11 @@ user-context-shopping2 =
 user-context-manage-containers =
     .label = Gerir los contenedors
     .accesskey = o
+user-context-add-container2 =
+    .label = Apondre un contenedor novèl
 user-context-manage-containers2 =
     .label = Gerir los contenedors
+user-context-add-container2-panel-item = Apondre un contenedor novèl
 user-context-manage-containers2-panel-item = Gerir los contenedors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

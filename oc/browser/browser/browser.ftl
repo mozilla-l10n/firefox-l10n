@@ -241,6 +241,8 @@ quickactions-print2 = Imprimir la pagina
 quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Enregistrar la pagina al format PDF
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Dobrir l’editor de PDF
 # Opens a new private browsing window
 quickactions-private2 = Dobrir una fenèstra privada
 quickactions-cmd-private = navegacion privada
@@ -934,13 +936,21 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-panel-heading2 = Escafar las donadas e començar una session privada nòva ?
+reset-pbm-panel-description3 = Aquò escafa vòstre istoric e vòstres cookies, e vos desconnècta dels sites. Vòstras fenèstras privadas se tamparàn e una fenèstra novèla s’obrirà.
 reset-pbm-panel-always-ask-checkbox =
     .label = Totjorn demandar
     .accesskey = T
 reset-pbm-panel-cancel-button =
     .label = Anullar
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Escafar la session privada
+    .accesskey = E
 reset-pbm-panel-complete = Donadas de session privada suprimidas
+reset-pbm-toolbar-button2 =
+    .label = Escafar la session privada
+    .tooltiptext = Escafar la session privada
 
 ## Autorefresh blocker
 

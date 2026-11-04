@@ -7,3 +7,10 @@ containers-window-close =
 containers-dialog =
     .buttonlabelaccept = Acabat
     .buttonaccesskeyaccept = A
+containers-window-new3 =
+    .style = min-width: 32em
+    .title = Apondre un contenedor novèl
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Apondre un contenedor novèl

@@ -250,6 +250,9 @@ menu-profiles-manage-profiles =
     .label = Gestion dels perfils
 menu-profiles-new-profile =
     .label = Perfil nòu
+menu-profiles-menu =
+    .label = Perfils
+    .accesskey = P
 
 ## Tools Menu
 
@@ -286,6 +289,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informacion sus la pagina
     .accesskey = I
+menu-tools-edit-pdf =
+    .label = Modificar un PDF…
+    .accesskey = M
 menu-settings =
     .label = Paramètres
     .accesskey =

@@ -121,6 +121,10 @@ disable-extension =
 preferences-data-migration-button =
     .label = Importar las donadas
     .accesskey = m
+preferences-profiles-group-header =
+    .heading = Perfils
+preferences-manage-profiles-button =
+    .label = Gestion dels perfils
 tabs-group-header2 =
     .label = Onglets
 ctrl-tab-recently-used-order =
@@ -542,6 +546,12 @@ search-engine-group =
     .label = Motor de cerca per defaut
 search-default-engine =
     .aria-label = Motor de cerca per defaut
+
+## Containers Section
+
+containers-add-button2 =
+    .label = Apondre un contenedor novèl
+    .accesskey = A
 
 ## Account and sync
 
@@ -988,6 +998,7 @@ privacy-segmentation-radio-off =
     .label = Utilizar las recomandacions { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar las informacions detalhadas
+data-collection-profiles-link = Veire totes los perfils
 data-collection-health-report-telemetry-disabled =
     .message = Autorizatz pas mai { -vendor-short-name } a capturar de donadas tecnicas e d’interaccion. Totas las donadas passadas seràn suprimidas d’aquí 30 jorns.
 data-collection-studies-link =
