@@ -93,6 +93,16 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je isključen za ovu web-stranicu
     .label = Koristi VPN za ovu web-stranicu
 site-exclusion-toggle-description = Stranica ne radi? Probaj isključiti VPN.
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN je isključen za ovu web stranicu
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN je uključen za ovu web stranicu
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Uvijek uključiti VPN za { $website }?
+    .message = Svoja pravila možeš bilo kada ažurirati u postavkama.
 ipprotection-settings-link =
     .label = Postavke
 
@@ -103,6 +113,8 @@ ipprotection-button-turn-vpn-off = Isključi VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Isključi VPN svugdje
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Uključi
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Uključi VPN
 # Button while VPN is connecting
@@ -115,6 +127,8 @@ ipprotection-connection-status-excluded-1 = VPN je isključen za ovu web-stranic
     .aria-label = VPN je isključen za ovu web-stranicu
 ipprotection-connection-status-connecting-1 = VPN se spaja …
     .aria-label = VPN se spaja …
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Isključi
 
 ## Location controls
 

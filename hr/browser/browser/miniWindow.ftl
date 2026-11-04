@@ -67,6 +67,7 @@ move-to-mini-window =
 ## what to move into a Mini Window.
 
 mini-window-overlay-header = Odaberi koji dio stranice će ostati vidljiv
+mini-window-overlay-instructions = Povuci ili klikni za označavanje područja koje će se premjestiti u mini prozor. Ostat će na vrhu dok pregledavaš.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.

@@ -488,6 +488,14 @@ newtab-search-widget-open-menu-button =
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopi
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Otvori izbornik horoskopa
+    .title = Otvori izbornik horoskopa
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Opcije horoskopa
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Saznaj više
 # Context menu item linking to the Yahoo website, the provider of the
@@ -1025,6 +1033,16 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Lisica na desnom rubu na narančastoj pozadini
+newtab-wallpaper-firefox-colorful-sky = Narančasti valovi preko ljubičastog noćnog neba
+newtab-wallpaper-firefox-desert-dark = Lisica u tamnoljubičastoj pustinji
+newtab-wallpaper-firefox-desert-light = Lisica koja trči preko svijetle pustinje
+newtab-wallpaper-firefox-hills-dark = Lisica koja trči preko tamnih brijegova
+newtab-wallpaper-firefox-hills-light = Lisica koja trči preko svijetlih brijegova
+newtab-wallpaper-firefox-tail-dark = Lisičji rep na tamnoj pozadini
+newtab-wallpaper-firefox-tail-light = Lisičji rep na svijetloj pozadini
+newtab-wallpaper-firefox-side-kit-dark = Lisica na lijevoj strani na tamnoj pozadini
+newtab-wallpaper-firefox-side-kit-light = Lisica na lijevoj strani na svijetloj pozadini
 
 ## Firefox
 
@@ -1057,6 +1075,14 @@ newtab-weather-menu-change-location = Promijeni lokaciju
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Traži lokaciju
     .placeholder = Traži lokaciju
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Natrag
+    .title = Natrag
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Prijedlozi lokacija
 newtab-weather-cancel-input =
     .aria-label = Odustani
     .title = Odustani
@@ -1455,6 +1481,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Otvori izbornik križaljke
     .title = Otvori izbornik križaljke
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Pokreće Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1754,6 +1783,10 @@ newtab-clock-widget-menu-edit = Uredi satove
 newtab-clock-widget-menu-switch-to-12h = Prebaci se na 12-satni format
 newtab-clock-widget-menu-switch-to-24h = Prebaci se na 24-satni format
 newtab-clock-widget-label-your-clocks = Tvoji satovi
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Natrag
+    .title = Natrag
 newtab-clock-widget-search-location-input2 =
     .aria-label = Traži grad
     .placeholder = Traži grad
