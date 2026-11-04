@@ -14,7 +14,7 @@ url-classifier-search-result-list = 表格列表: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = 无效 URL
 url-classifier-search-error-no-features = 未选择功能
-url-classifier-search-error-no-results = 未找到该网址对应的条目
+url-classifier-search-error-no-results = 未找到该 URL 对应的条目
 url-classifier-search-btn = 开始搜索
 url-classifier-search-features = 功能
 url-classifier-search-listType = 列表类型
@@ -40,7 +40,7 @@ url-classifier-cache-pcache-expiry = 阳性缓存有效期
 url-classifier-content-classifier-title = 内容分类器
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
-url-classifier-content-classifier-url = 网址
+url-classifier-content-classifier-url = URL
 # URL that loads the URL being tested (hence Loading URL)
 # This is the URL of a frame within the document that initiates the request to load another URL
 # (e.g. an iframe that is loading a tracking pixel)
@@ -60,12 +60,20 @@ url-classifier-content-classifier-destination-type = 目标类型
 # Header for a group of on/off options (the checkboxes below) that modify how
 # the hypothetical request is classified.
 url-classifier-content-classifier-flags = 标志
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = 探测
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = 结果
 url-classifier-content-classifier-pbm = 隐私浏览
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = 非推荐的附加组件
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = 探测拦截
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = 引擎详细信息
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = 功能
 # Column header: whether the request matched this feature (true/false).
@@ -76,6 +84,20 @@ url-classifier-content-classifier-col-exception = 例外
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = 重要
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = 引擎结果
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = 命中
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = 例外
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = 未命中
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = 错误（{ $code }）
 url-classifier-debug-title = 调试
 url-classifier-debug-module-btn = 设置日志模块
 url-classifier-debug-file-btn = 设置日志文件
