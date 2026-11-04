@@ -98,6 +98,7 @@ about-private-browsing-spotlight-basics-more-privacy = Več orodij za zaščito 
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vas samodejno opozarja na zlonamerno programsko opremo in zavajajoča spletna mesta.
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } samodejno poziva sodelujoča spletna mesta, naj vaših osebnih podatkov ne prodajajo ali delijo.
+about-private-browsing-spotlight-basics-vpn = Z vgrajenim VPN-jem otežite sledenje svoji lokaciji.
 # "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
 # Translations should be consistent with the existing "Strict" string in about:preferences.
 about-private-browsing-spotlight-basics-strict-tracking = V nastavitvah izberite Strogo za robustnejšo zaščito pred sledenjem.

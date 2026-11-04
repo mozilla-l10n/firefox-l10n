@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = času zadnjega obiska
 sidebar-history-sort-option-most-visited =
     .label = Najbolj obiskano
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Pogrešate kaj? Uvozite zgodovino iz drugega brskalnika.
+sidebar-history-import-promo-button =
+    .label = Uvozi v { -brand-short-name(sklon: "tozilnik") }
 
 ## Labels for sidebar search
 

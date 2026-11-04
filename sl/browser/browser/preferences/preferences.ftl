@@ -363,6 +363,8 @@ website-language-heading =
     .label = Jezik spletnih strani
 website-preferred-language =
     .label = Želeni jeziki
+website-language-list =
+    .aria-label = Želeni jeziki
 website-add-language =
     .label = Dodaj jezik
 website-add-language-button =
@@ -815,6 +817,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Naslov spletnega mesta oz. spletnih mest
+home-custom-homepage-list =
+    .aria-label = Naslovi spletnih mest
 home-custom-homepage-address =
     .placeholder = Vnesite naslov
 home-custom-homepage-address-button =
@@ -1783,6 +1787,39 @@ permissions-data-section =
     .heading = Dovoljenja in podatki
 pane-permissions-data-title2 = Dovoljenja in podatki
     .title = Dovoljenja in podatki
+notifications-section-header =
+    .heading = Obvestila
+notifications-entry-card-header =
+    .description = Nastavite, katera spletna mesta lahko pošiljajo obvestila in kako naj se ta opozorila prikažejo.
+    .label = Obvestila
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } spletno mesto
+            [two] { $count } spletni mesti
+            [few] { $count } spletna mesta
+           *[other] { $count } spletnih mest
+        }
+    .label = Upravljanje nastavitev obvestil
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Dovoli obvestila
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Vedno
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Dovoli
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nikoli
 
 ## Privacy Section - Data Collection
 

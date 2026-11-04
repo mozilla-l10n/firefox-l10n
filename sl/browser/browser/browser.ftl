@@ -257,6 +257,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Prilepi in odpri
     .accesskey = P
+urlbar-menuitem-paste-and-search =
+    .label = Prilepi in išči
+    .accesskey = š
 
 ## Searchbar context menu
 
@@ -1378,6 +1381,9 @@ tabs-toolbar =
     .aria-label = Zavihki brskalnika
 tabs-toolbar-new-tab =
     .label = Nov zavihek
+tabs-toolbar-list-all-tabs-2 =
+    .label = Iskanje in upravljanje zavihkov
+    .tooltiptext = Iskanje in upravljanje zavihkov
 tabs-toolbar-list-all-tabs =
     .label = Seznam vseh zavihkov
     .tooltiptext = Seznam vseh zavihkov
@@ -1494,6 +1500,7 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-panel-heading = Ali želite izbrisati vse podatke brskanja?
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.

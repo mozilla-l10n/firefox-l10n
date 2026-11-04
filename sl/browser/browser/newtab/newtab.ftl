@@ -169,6 +169,11 @@ home-prefs-mission-message-learn-more-link-srd = Spoznajte, kako
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Več o tem
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Zasebnost
+    .title = Odpri meni pripomočka Zasebnost
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -302,6 +307,11 @@ newtab-privacy-message-first-protection-cta = Ogled zaščit
 newtab-stocks-menu-learn-more = Več o tem
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Podatki o delnicah niso na voljo.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Odpri meni pripomočka Finance
+    .title = Odpri meni pripomočka Finance
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -326,6 +336,9 @@ newtab-stocks-list-watchlist = Seznam za spremljanje
     .label = Seznam za spremljanje
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Iskanje po imenu ali simbolu
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finance
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -425,6 +438,11 @@ newtab-picture-attribution-source-link = Wikimedijina zbirka
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Ogled licence { $license }
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Slika dneva
+    .title = Odpri meni pripomočka Slika dneva
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -433,6 +451,10 @@ newtab-picture-set-wallpaper =
     .title = Nastavi ozadje
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Upravljanje ozadja
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Skrij to sliko
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Prikaži sliko
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Skrij današnjo sliko
@@ -440,6 +462,10 @@ newtab-picture-menu-hide-photo = Skrij današnjo sliko
 newtab-picture-menu-show-photo = Prikaži današnjo sliko
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Več o tem
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Prikaži sliko
+    .title = Prikaži sliko
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Prikaži današnjo sliko
@@ -471,6 +497,11 @@ newtab-recent-searches-row-remove =
     .aria-label = Odstrani "{ $search }" iz nedavnih iskanj
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Iskanje
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Iskanje
+    .title = Odpri meni pripomočka Iskanje
 
 ## Recent searches widget — empty states
 
@@ -481,6 +512,11 @@ newtab-recent-searches-empty-trending = Trenutno priljubljena iskanja v tem tren
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopi
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Horoskop
+    .title = Odpri meni pripomočka Horoskop
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Možnosti horoskopov
@@ -489,8 +525,28 @@ newtab-horoscopes-menu-learn-more = Več o tem
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Potovanje
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Potovanje
+    .title = Odpri meni pripomočka Potovanje
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Več o tem
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Pasjansa
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Pasjansa
+    .title = Odpri meni pripomočka Pasjansa
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -800,6 +856,15 @@ newtab-custom-widget-search-toggle =
     .label = Iskanje
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopi
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Potovanje
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Pasjansa
 newtab-custom-widget-section-title = Pripomočki
 newtab-custom-widget-section-toggle =
     .label = Pripomočki

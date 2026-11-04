@@ -142,6 +142,12 @@ permissions-site-notification-desc = Naslednja spletna mesta so zahtevala, da va
 permissions-site-notification-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dovoljenje za pošiljanje obvestil
 permissions-site-notification-disable-desc = To bo preprečilo, da bi katera koli spletna mesta, ki niso navedena zgoraj, zahtevala dovoljenje za pošiljanje obvestil. Blokiranje obvestil lahko prekine nekatere funkcije spletnega mesta.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Dovoli obvestila spletnih mest, tudi ko je { -brand-short-name } zaprt
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Veljajo tudi nastavitve operacijskega sistema glede obvestil.
 
 ## Site Permissions - Location
 
@@ -162,6 +168,12 @@ permissions-site-xr-desc = Naslednja spletna mesta so zahtevala dostop do vaših
 permissions-site-xr-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o napravah navidezne resničnosti
 permissions-site-xr-disable-desc = To bo preprečilo, da bi katero koli spletno mesto, ki ni navedeno zgoraj, zahtevalo dovoljenje za dostop do vaših naprav navidezne resničnosti. Blokiranje dostopa do naprav navidezne resničnosti lahko povzroči nedelovanje nekaterih funkcij spletnega mesta.
+
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-desc = Naslednjim spletnim mestom ni dovoljeno zahtevati odpiranja povezav v aplikacijah, na primer e-poštnih povezav (mailto:). Če želite spletnemu mestu znova dovoliti pošiljanje takšnih zahtev, ga odstranite s seznama.
 
 ## Site Permissions - Camera
 

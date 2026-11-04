@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Odstrani kontrolni seznam
 
 tab-groups-onboarding-feature-callout-title = Preizkusite skupine zavihkov za manj nereda in več osredotočenosti
 tab-groups-onboarding-feature-callout-subtitle = Organizirajte se: povlecite en zavihek na drugega in ustvarite svojo prvo skupino.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Svoje skupine zavihkov lahko kadarkoli najdete v meniju "Iskanje in upravljanje zavihkov".
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Svoje skupine zavihkov lahko kadarkoli najdete v meniju Seznam vseh zavihkov.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Svoje skupine zavihkov lahko najdete z iskanjem v naslovni vrstici.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Skupine zavihkov, ki ste jih zaprli, lahko kadarkoli znova odprete iz menija "Iskanje in upravljanje zavihkov".
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Skupine zavihkov, ki ste jih zaprli, lahko kadarkoli znova odprete iz menija Seznam vseh zavihkov.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Zaprte skupine lahko najdete z iskanjem v naslovni vrstici.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Skupine zavihkov lahko kadarkoli znova odprete iz menija "Iskanje in upravljanje zavihkov".
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Skupine zavihkov lahko kadarkoli znova odprete iz menija Seznam vseh zavihkov.
 tab-groups-onboarding-dismiss = V redu

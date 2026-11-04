@@ -509,6 +509,13 @@ lapsed-user-toast-title = { -brand-product-name } vam še vedno krije hrbet
 lapsed-user-toast-subtitle = Spoznajte nove načine brskanja z več izbire, zasebnosti in nadzora.
 lapsed-user-toast-whats-new-button = Oglejte si, kaj je novega
 lapsed-user-toast-dismiss-button = Skrij
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Nov videz. Brez potrebe po ponovnem začetku.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Uvozite zaznamke, gesla in zgodovino iz brskalnika, ki ga trenutno uporabljate.
 
 ## Refresh Firefox infobar
 ##
@@ -526,3 +533,13 @@ refresh-profile-infobar-button = Osveži { -brand-short-name } …
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Želite odpreti zavihke od prejšnjič?</strong> Prejšnjo sejo lahko obnovite v meniju { -brand-short-name(sklon: "rodilnik") } <img data-l10n-name="icon"/> pod Zgodovina.
 restore-session-startup-suggestion-button = Pokaži, kako
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Dodaj
+taskbar-tabs-spotlight-done-button = Končano

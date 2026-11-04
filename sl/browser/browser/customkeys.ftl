@@ -17,6 +17,7 @@ customkeys-reset-all = Ponastavi vse bližnjice na privzete
 customkeys-conflict-confirm = Ta tipka je že dodeljena naslednjemu dejanju: { $conflict }. Ga želite zamenjati?
 customkeys-reset-all-confirm = Ali ste prepričani, da želite ponastaviti vse bližnjice na privzete vrednosti?
 customkeys-file-duplicate-tab = Podvoji zavihek
+customkeys-file-copy-tab-url = Kopiraj spletni naslov zavihka
 customkeys-file-focus-search = Osredotoči iskalno vrstico
 customkeys-history-reopen-tab = Obnovi zadnji zaprti zavihek
 customkeys-history-reopen-window = Obnovi zadnje zaprto okno
