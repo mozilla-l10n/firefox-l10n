@@ -3,3 +3,9 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Recordar esta decisión
+speech-recognition-model-download-cancel =
+    .label = Cancelar
+    .accesskey = C
+speech-recognition-model-download-ok =
+    .label = Aceptar
+    .accesskey = O

@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Este archivo no es compatible. Elige un PDF pa
 about-pdf-dropzone-error-generic = La carga no se completó. Inténtalo de nuevo más tarde.
 about-pdf-browse-files =
     .label = Buscar archivos
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Abrir PDF
 about-pdf-promo =
     .heading = Haz de { -brand-short-name } tu editor de PDF predeterminado
     .message = Abre archivos PDF en { -brand-short-name } y realiza las tareas básicas en un solo lugar: desde resaltar y firmar hasta combinar archivos y comentar.
@@ -20,3 +22,10 @@ about-pdf-set-default =
     .label = Establecer como predeterminado
 about-pdf-dismiss =
     .label = Descartar
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Atrás
+about-pdf-feature-organize-heading = Organizar páginas
+about-pdf-feature-organize-description = Organiza, elimina, combina y exporta páginas.

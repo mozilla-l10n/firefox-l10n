@@ -698,6 +698,8 @@ newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de hierba con un p
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
 newtab-wallpaper-your-images-item = { $name }
+newtab-wallpaper-remove-image-confirm = Quitar
+newtab-wallpaper-remove-image-cancel = Cancelar
 
 ## Solid Colors
 

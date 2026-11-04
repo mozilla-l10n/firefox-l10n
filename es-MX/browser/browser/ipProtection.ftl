@@ -274,6 +274,12 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Administrar los ajustes del sitio web
 ip-protection-exclusions-desc = Usa una VPN para todos los sitios web excepto los de esta lista. Agrega un sitio web aquí o abre la VPN.
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Guardar
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Estado de la VPN
 
 ## IP Protection Bandwidth
 

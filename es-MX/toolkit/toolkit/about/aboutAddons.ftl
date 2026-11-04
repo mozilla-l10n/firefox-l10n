@@ -564,6 +564,12 @@ themes-mode-device =
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Habilitar
+aboutaddons-themes-picker-disable-button =
+    .label = Deshabilitar
+aboutaddons-themes-picker-install-button =
+    .label = Instalar
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
