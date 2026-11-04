@@ -21,3 +21,38 @@ mini-window-audio-mute =
 mini-window-audio-unmute =
     .label = 取消静音标签页
     .tooltiptext = 取消静音标签页
+
+## These strings label the buttons on the Screenshots selection overlay while
+## it is being used to pick the region for a Mini Window.
+
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = 移至迷你窗口
+    .aria-label = 移至迷你窗口
+    .title = 移至迷你窗口
+# Dismisses the Mini Window selection overlay without moving the tab.
+screenshots-component-mini-window-cancel-button = 取消
+    .aria-label = 取消
+    .title =
+        { PLATFORM() ->
+            [macos] 取消 (esc)
+           *[other] 取消 (Esc)
+        }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = 重新选择
+    .aria-label = 重新选择
+    .title = 重新选择
+# Opens a selection tool to select a section of a page to
+# open in a smaller window to appear cropped and always on top.
+toolbar-button-mini-window =
+    .label = 迷你窗口
+    .tooltiptext = 使用迷你窗口
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] 移至迷你窗口
+           *[other] 移至迷你窗口
+        }
+    .accesskey = M

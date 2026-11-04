@@ -40,3 +40,11 @@ autocomplete-more-options = Más opciones
 
 autocomplete-delete-record-button = Eliminar
 autocomplete-delete-password-title = ¿Eliminar contraseña?
+autocomplete-delete-address-title = ¿Eliminar dirección?
+autocomplete-delete-payment-method-title = ¿Eliminar método de pago?
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }
