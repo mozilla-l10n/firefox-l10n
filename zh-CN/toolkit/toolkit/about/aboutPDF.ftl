@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF 编辑器
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = 具备阅读、合并、签署、批注等功能的免费工具，内置隐私保护。
+about-pdf-features-cta =
+    .label = 深入了解 PDF 工具
 about-pdf-dropzone =
     .title = 将 PDF 拖放到此处或按 Enter，以开始使用
 about-pdf-dropzone-hint = 将 PDF 拖放到此处，以开始使用
@@ -26,3 +28,19 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF 工具
+about-pdf-features-intro = 直接在浏览器中阅读、标记、签署 PDF。免费、易用且私密。
+about-pdf-features-back =
+    .label = 返回
+about-pdf-feature-organize-heading = 组织页面
+about-pdf-feature-organize-description = 调整页面顺序，移除、合并、导出页面。
+about-pdf-feature-signatures-heading = 保存签名
+about-pdf-feature-signatures-description = 创建多个签名，并添加到表单。
+about-pdf-feature-comments-heading = 添加备注
+about-pdf-feature-comments-description = 边阅读，边添加批注和提醒。
+about-pdf-feature-annotate-heading = 在 PDF 中做标记
+about-pdf-feature-annotate-description = 添加文本、高亮、绘图。
+about-pdf-feature-images-heading = 上传无障碍的图片
+about-pdf-feature-images-description = 添加替换文字，让更多人能够理解图像内容。
+about-pdf-feature-view-heading = 按需选择视图
+about-pdf-feature-view-description = 可纵向或横向滚动，也可切换页面布局。
+about-pdf-feature-presentation-heading = 全屏展示 PDF
