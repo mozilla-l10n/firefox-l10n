@@ -24,8 +24,8 @@ return-to-amo-subtitle = Lieliski, jums ir { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Tagad sagādāsim jums <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Pievienot paplašinājumu
-return-to-amo-add-theme-label = Pievienot motīvu
-return-to-amo-theme-install-complete-label = Motīvs instalēts
+return-to-amo-add-theme-label = Pievienot tēmu
+return-to-amo-theme-install-complete-label = Tēma uzstādīta
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -46,10 +46,10 @@ mr1-onboarding-sign-in-button-label = Pieteikties
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Ievietot no { $previous }
 mr1-onboarding-theme-header = Padari to par savu
-mr1-onboarding-theme-subtitle = Personalizējiet { -brand-short-name } ar motīvu.
+mr1-onboarding-theme-subtitle = Padari { -brand-short-name } par savu ar tēmu.
 mr1-onboarding-theme-secondary-button-label = Ne tagad
 # System theme uses operating system color settings
-mr1-onboarding-theme-label-system = Sistēmas motīvs
+mr1-onboarding-theme-label-system = Sistēmas tēma
 mr1-onboarding-theme-label-light = Gaišs
 mr1-onboarding-theme-label-dark = Tumšs
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -63,30 +63,30 @@ onboarding-theme-primary-button-label = Gatavs
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
-    .title = Ievērot operētājsistēmas motīvu pogām, izvēlnēm un logiem.
+    .title = Ievērot operētājsistēmas tēmu pogām, izvēlnēm un logiem.
 # Input description for system theme
 mr1-onboarding-theme-description-system =
-    .aria-description = Ievērot operētājsistēmas motīvu pogām, izvēlnēm un logiem.
+    .aria-description = Ievērot operētājsistēmas tēmu pogām, izvēlnēm un logiem.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
-    .title = Izmantot gaišo motīvu pogām, izvēlnēm un logiem.
+    .title = Izmantot gaišo tēmu pogām, izvēlnēm un logiem.
 # Input description for light theme
 mr1-onboarding-theme-description-light =
-    .aria-description = Izmantot gaišo motīvu pogām, izvēlnēm un logiem.
+    .aria-description = Izmantot gaišo tēmu pogām, izvēlnēm un logiem.
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
-    .title = Izmantot tumšo motīvu pogām, izvēlnēm un logiem.
+    .title = Izmantot tumšo tēmu pogām, izvēlnēm un logiem.
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
-    .aria-description = Izmantot tumšo motīvu pogām, izvēlnēm un logiem.
+    .aria-description = Izmantot tumšo tēmu pogām, izvēlnēm un logiem.
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
-    .title = Izmantot dinamisko, krāsaino motīvu pogām, izvēlnēm un logiem.
+    .title = Izmantot pielāgojošos, krāsainu tēmu pogām, izvēlnēm un logiem.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
-    .aria-description = Izmantot dinamisko, krāsaino motīvu pogām, izvēlnēm un logiem.
+    .aria-description = Izmantot pielāgojošos, krāsainu tēmu pogām, izvēlnēm un logiem.
 # Selector description for default themes
-mr2-onboarding-default-theme-label = Izpētiet noklusējuma motīvus.
+mr2-onboarding-default-theme-label = Izpēti noklusējuma tēmas!
 
 ## Strings for Thank You page
 
@@ -400,7 +400,7 @@ smartwindow-sidebar-auto-open-callout-rejected-title = Sapratu
 
 ## Theme Picker screen strings
 
-onboarding-theme-picker-title = Izvēlieties motīvu
+onboarding-theme-picker-title = Izvēlies tēmu
 onboarding-theme-picker-button-label = Saglabāt un turpināt
 
 ## Carousel navigation

@@ -656,16 +656,16 @@ newtab-customize-panel-back-button =
 newtab-custom-appearance-section-title = Izskats
 # Button that opens the full browser theme selection view.
 newtab-appearance-more-themes-button =
-    .label = Atrast vairāk motīvus
+    .label = Apskatīt vairāk tēmu
 # Title of the full theme selection sub-panel, also used as its back button label.
-newtab-appearance-manage-title = { -brand-product-name } motīvi
+newtab-appearance-manage-title = { -brand-product-name } tēmas
 # Header for the list of the user's already-installed themes in the full theme panel.
-newtab-appearance-your-themes-header = Jūsu motīvi
+newtab-appearance-your-themes-header = Tavas tēmas
 # Button that installs a theme.
 newtab-appearance-install-theme-button =
-    .label = Instalēt motīvu
+    .label = Uzstādīt tēmu
 # Button/link on the full theme panel that opens the complete list of available themes.
-newtab-appearance-explore-more-themes-button = Izpētīt vairāk motīvu
+newtab-appearance-explore-more-themes-button = Izpētīt vairāk tēmu
 
 ## New Tab Wallpapers
 
@@ -1004,7 +1004,7 @@ newtab-sports-widget-message-add-widgets-cta =
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
 newtab-nova-customization-callout-header = Veic pabeidzošo pieskārienu { -brand-product-name }
-newtab-nova-customization-callout-message = Izpēti gaišos vai tumšos motīvus un ekrāntapetes, kas padara jauno { -brand-product-name } vairāk kā Tavu.
+newtab-nova-customization-callout-message = Izpēti gaišās vai tumšās tēmas un ekrāntapetes, kas padara jauno { -brand-product-name } vairāk kā Tavu!
 newtab-nova-customization-callout-primary-button =
     .label = Izvēlies izskatu
 
