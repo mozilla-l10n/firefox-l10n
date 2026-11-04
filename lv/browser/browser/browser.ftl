@@ -931,6 +931,8 @@ urlbar-searchmode-tabs3 = Cilnes (T)
     .accesskey = T
 urlbar-searchmode-history3 = Vēsture (H)
     .accesskey = H
+urlbar-searchmode-actions3 = Darbības
+    .accesskey = D
 urlbar-searchmode-exit-button2 =
     .title = Aizvērt
 urlbar-searchmode-default2 =
@@ -947,8 +949,11 @@ urlbar-searchmode-popup-one-off-header = Šajā reizē meklēt ar:
 # reset after submitting.
 urlbar-searchmode-popup-header = Meklēt ar:
 urlbar-searchmode-popup-search-settings2 = Meklēšanas iestatījumi
+urlbar-searchmode-popup-settings2 = Iestatījumi
 urlbar-searchmode-popup-search-settings = Meklēšanas iestatījumi
     .accesskey = m
+urlbar-searchmode-popup-settings = Iestatījumi
+    .accesskey = I
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1407,6 +1412,14 @@ private-browsing-indicator-label = Privātā pārlūkošana
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privātā pārlūkošana
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informācija par privāto pārlūkošanu
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Jūs esat privātā logā
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Tas palīdz slēpt jūsu pārlūkošanu no citiem šīs ierīces lietotājiem, taču nepadara jūs neredzamu tiešsaistē. <a data-l10n-name="learn-more">Kas varētu redzēt manu darbību?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1676,6 +1689,15 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nav droša
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } izsekotājs ir bloķēts
+        [zero] { $count } izsekotāji bloķēti
+       *[other] { $count } izsekotāji bloķēti
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1776,6 +1798,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Šīs vietnes mēģina iegūt kriptovalūtu:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Vai jums ir konts šajā vietnē?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } konstatēja, ka šajā vietnē pēdējo 12 mēnešu laikā ir notikusi datu noplūde. Uzziniet, vai jūs tas skāra.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Paslēpt
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Sākt bezmaksas skenēšanu
 trustpanel-blocker-section-header2 =
@@ -1787,6 +1810,8 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Vai vietne izskatās bojāta?</strong> Ielādējiet lapu atkārtoti, lai īslaicīgi samazinātu izsekošanas aizsardzību.
 reduced-protection-infobar-reload-button = Pārlādēt
     .accesskey = R
 reduced-protection-infobar-never-show-button = Vairs nerādīt
