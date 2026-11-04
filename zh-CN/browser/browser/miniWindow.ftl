@@ -56,3 +56,15 @@ move-to-mini-window =
            *[other] 移至迷你窗口
         }
     .accesskey = M
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-instructions = 拖动或点击以选择要移至迷你窗口的区域。浏览时，该窗口将置于顶层。
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-header = 选择移至迷你窗口的区域
+mini-window-panel-move-selection = 所选区域
+mini-window-panel-move-full-tab = 整个标签页
