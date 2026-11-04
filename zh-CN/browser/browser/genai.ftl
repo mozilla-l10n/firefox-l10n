@@ -25,6 +25,9 @@ genai-settings-chat-scout-links = 选择 Yahoo Scout，即代表您同意 Yahoo 
 genai-prompts-summarize =
     .label = 生成摘要
     .value = 请简要概括所选内容。用标题分节、列表分点，做到一目了然。据实生成摘要，不要脱离原意。
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = 请简要概括 { $url } 网页的内容。用标题分节、列表分点，做到一目了然。据实生成摘要，不要脱离原意。
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = 简化措辞
