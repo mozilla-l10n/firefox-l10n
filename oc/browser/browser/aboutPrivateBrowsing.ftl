@@ -74,3 +74,7 @@ about-private-browsing-nova-info-link = Qual pòt encara veire mon activitat ?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Res es pas enregistrat
 about-private-browsing-nova-info-subheader2 = Escafarem totas las recèrcas e totas las connexion quand tampetz totas las fenèstras de navegacion privada. Las proteccions inclusas de { -brand-short-name } son tanben activadas aquí, coma lo blocatge dels traçadors.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-subtitle = Las fenèstras privadas ajudan a manténer vòstra navigacion privada als uèlhs de las autras personas qu’utilizan aqueste aparelh. Mas vos rendon pas anonim e escafan pas totas vòstras donadas.
