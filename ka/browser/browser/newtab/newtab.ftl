@@ -1705,10 +1705,10 @@ newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: 
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
-newtab-sports-widget-delayed = შეყოვნებულია
-newtab-sports-widget-postponed = გადადებულია
-newtab-sports-widget-suspended = შეჩერებულია
-newtab-sports-widget-cancelled = გაუქმებულია
+newtab-sports-widget-delayed = შეყოვნდა
+newtab-sports-widget-postponed = გადაიდო
+newtab-sports-widget-suspended = შეჩერდა
+newtab-sports-widget-cancelled = გაუქმდა
 newtab-sports-widget-information = შეხვედრის შესახებ
 newtab-sports-widget-no-live-data = მიმდინარე შეხვედრის ცნობები არ ახლდება
 newtab-sports-widget-view-results-link = შედეგების ნახვა
