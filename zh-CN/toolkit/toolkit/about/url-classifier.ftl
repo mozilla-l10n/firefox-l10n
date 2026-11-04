@@ -71,6 +71,9 @@ url-classifier-content-classifier-pbm = 隐私浏览
 url-classifier-content-classifier-non-recommended-addon = 非推荐的附加组件
 # Button: run the probe that reports whether the request would be blocked.
 url-classifier-content-classifier-probe-blocking-btn = 探测拦截
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = 探测标记
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = 引擎详细信息
