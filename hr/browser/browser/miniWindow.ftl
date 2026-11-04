@@ -50,9 +50,27 @@ toolbar-button-mini-window =
 main-context-menu-use-mini-window =
     .label = Premjesti odabir u mini prozor
     .accesskey = m
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Premjesti u mini prozor
+            [one] Premjesti u mini prozore
+            [few] Premjesti u mini prozore
+           *[other] Premjesti u mini prozore
+        }
+    .accesskey = m
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Odaberi koji dio stranice će ostati vidljiv
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
+mini-window-panel-header = Odaberi što će se premjestiti u mini prozor
 mini-window-panel-move-selection = Premjesti odabir
 mini-window-panel-move-full-tab = Premjesti cijelu karticu
