@@ -74,6 +74,8 @@ neterror-generic-error = Kāda nezināma iemesla dēļ { -brand-short-name } nev
 neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai pārāk aizņemta. Pēc kāda brīža jāmēģina vēlreiz.
 neterror-load-error-connection = Ja nevar ielādēt nevienu lapu, jāpārbauda datora savienojums ar tīklu.
 neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
+neterror-http-error-page = Pārliecinies, ka pareizi ievadīji tīmekļvietnes adresi!
+neterror-http-empty-response = Pārliecinies, ka pareizi ievadīji tīmekļvietnes adresi, un pēc brīža mēģini vēlreiz!
 neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -114,10 +116,10 @@ neterror-not-cached-intro = Pieprasītais dokuments vairs nav pieejams  { -brand
 neterror-not-cached-sensitive = Drošības apsvērumu dēļ,  { -brand-short-name } neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.
 neterror-not-cached-try-again = Jāklikšķina “Mēģināt vēlreiz”, lai no tīmekļvietnes atkārtoti pieprasītu dokumentu.
 neterror-net-offline = Jāspiež “Mēģināt vēlreiz”, lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.
-neterror-proxy-resolve-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
+neterror-proxy-resolve-failure-settings = Pārliecinies, ka starpniekservera iestatījumi ir pareizi!
 neterror-proxy-resolve-failure-connection = Jāpārliecinās, ka datora tīkla savienojums ir darba kārtībā.
 neterror-proxy-resolve-failure-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
-neterror-proxy-connect-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
+neterror-proxy-connect-failure-settings = Pārliecinies, ka starpniekservera iestatījumi ir pareizi!
 neterror-proxy-connect-failure-contact-admin = Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.
 neterror-content-encoding-error = Lūgums sazināties ar tīmekļvietnes īpašniekiem, lai ziņotu par šo sarežģījumu.
 neterror-unsafe-content-type = Lūgums sazināties ar tīmekļvietnes īpašniekiem, lai ziņotu par šo sarežģījumu.

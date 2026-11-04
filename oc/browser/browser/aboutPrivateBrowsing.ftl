@@ -64,3 +64,13 @@ about-private-browsing-cookie-banners-promo-body = D’ara enlà, refusam automa
 about-private-browsing-felt-privacy-v1-info-header = Daissatz pas cap de traça sus aqueste aparelh
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } suprimís los cookies, l’istoric e las donadas de sites quand tampatz totas las fenèstras privadas.
 about-private-browsing-felt-privacy-v1-info-link = Qual pòt veire activitat ?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Tampar totas las fenèstras privadas suprimís los cookies, l’istoric e las donadas dels sites
+about-private-browsing-nova-info-link = Qual pòt encara veire mon activitat ?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Res es pas enregistrat
+about-private-browsing-nova-info-subheader2 = Escafarem totas las recèrcas e totas las connexion quand tampetz totas las fenèstras de navegacion privada. Las proteccions inclusas de { -brand-short-name } son tanben activadas aquí, coma lo blocatge dels traçadors.

@@ -162,6 +162,11 @@ firefoxview-history-empty-description-two = La proteccion de vòstra vida privad
 firefoxview-choose-browser-button = Causir lo navegador
     .title = Causir lo navegador
 
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Res es pas enregistrat
+
 ##
 
 # This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
