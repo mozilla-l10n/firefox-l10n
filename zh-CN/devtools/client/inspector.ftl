@@ -55,3 +55,12 @@ inspector-emulation-panel-color-scheme-dark = 深色
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = 不模拟
     .aria-label = 禁用配色方案模拟
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = 减弱
+    .aria-label = 启用减弱动态效果模拟
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = 无偏好
+    .aria-label = 不启用减弱动态效果模拟的首选项
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = 不模拟
+    .aria-label = 禁用减弱动态效果模拟
