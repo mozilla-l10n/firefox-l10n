@@ -46,6 +46,10 @@ screenshots-component-reselect-button = 重新选择
 toolbar-button-mini-window =
     .label = 迷你窗口
     .tooltiptext = 使用迷你窗口
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = 移动选择的区域到迷你窗口
+    .accesskey = w
 # Moves full tabs to Mini Windows, one window per tab.
 # Variables
 #  $tabCount (Number): The number of tabs that will be moved.
@@ -60,7 +64,8 @@ move-to-mini-window =
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
 
-mini-window-overlay-instructions = 拖动或点击以选择要移至迷你窗口的区域。浏览时，该窗口将置于顶层。
+mini-window-overlay-header = 选择要始终显示的页面区域
+mini-window-overlay-instructions = 拖动或点击以选择区域，并移至迷你窗口。浏览时，该窗口将置于顶层。
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
