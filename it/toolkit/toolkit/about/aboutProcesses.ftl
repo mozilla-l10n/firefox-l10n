@@ -8,7 +8,7 @@ about-processes-title = Gestione processi
 about-processes-column-action =
     .title = Azioni
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Scarica le schede e termina il processo
