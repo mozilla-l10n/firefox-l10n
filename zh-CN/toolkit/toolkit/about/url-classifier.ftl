@@ -44,7 +44,10 @@ url-classifier-content-classifier-url = 网址
 # URL that loads the URL being tested (hence Loading URL)
 # This is the URL of a frame within the document that initiates the request to load another URL
 # (e.g. an iframe that is loading a tracking pixel)
-url-classifier-content-classifier-loading-url = 正在加载 URL
+url-classifier-content-classifier-loading-url = 加载方 URL
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = 启用加载方 URL
 # URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
 # Most often the site URL show in the address bar.
 url-classifier-content-classifier-top-window-url = 顶层窗口 URL
