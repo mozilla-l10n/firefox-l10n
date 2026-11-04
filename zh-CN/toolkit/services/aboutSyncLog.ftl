@@ -58,7 +58,7 @@ about-sync-log-row-error =
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
-about-sync-log-empty = 未记录同步功能日志。
+about-sync-log-empty = 未记录同步日志。
 about-sync-log-empty-filtered = 没有匹配当前过滤条件的日志。
 
 ## Inline viewer
@@ -71,3 +71,7 @@ about-sync-log-open-raw =
 ## Clear logs confirmation
 
 about-sync-log-clear-confirm-title = 清除同步日志？
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message = 将永久删除显示的 { $count } 个日志文件。
+about-sync-log-clear-confirm-accept = 删除
