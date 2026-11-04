@@ -78,6 +78,15 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Jūsu iebūvētais VPN tikko kļuva vēl labāks
 ipprotection-summer-promo-offramp-subscriber-description = Tagad kā { -mozilla-vpn-brand-name } abonents jūs saņemat neierobežotu joslas platumu un vairāk atrašanās vietu.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Saglabājiet savas papildu iebūvētās VPN atrašanās vietas
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Padariet { -brand-product-name } par savu iecienītāko pārlūkprogrammu un pēc 31. augusta iegūstiet vairāk nekā 20 papildu pārlūkošanas vietas.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Paaugstiniet savu līmeni ar { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Saglabājiet neierobežotu joslas platumu pēc 31. augusta, izmantojot vairāk nekā 300 atrašanās vietas 5 ierīcēs, lai jūsu pārlūkošanu būtu grūtāk izsekot līdz jums.
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Atvērt VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Iestatīt uz noklusējumu
 ipprotection-summer-promo-offramp-get-subscription-button = Iegūt { -mozilla-vpn-brand-name }
@@ -86,10 +95,13 @@ ipprotection-summer-promo-offramp-dismiss-secondary-button = Noraidīt
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Izvēlies, kur izmantot VPN
+ipprotection-site-settings-callout-subtitle = Izslēdziet VPN konkrētai vietnei, un mēs to atcerēsimies nākamajā apmeklējuma reizē.
 ipprotection-site-settings-callout-button = Sapratu
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Jaunums: Mainiet savu atrašanās vietu
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } iebūvētais VPN</a> ļauj jums izvēlēties no vairākām pārlūkošanas vietām vai arī ļaut mums izvēlēties jums ātrāko.
 ipprotection-location-selection-callout-primary-button = Izmēģini
 ipprotection-location-selection-callout-secondary-button = Noraidīt
 
@@ -101,6 +113,8 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Iestatiet iebūvētos VPN noteikumus un pēc tam pārlūkojiet
 ipprotection-site-inclusions-callout-description-1 = VPN var ieslēgt, kad ir vēlēšanās pēc papildu privātumu vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
 ipprotection-site-inclusions-callout-description-lapsed-users = Var iestatīt kārtulas, lai ieslēgtu VPN, kad ir vēlēšanās pēc papildu privātuma vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne tagad
