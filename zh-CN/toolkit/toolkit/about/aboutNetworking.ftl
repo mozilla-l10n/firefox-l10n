@@ -53,6 +53,11 @@ about-networking-ssl-tokens-new =
 about-networking-ssl-tokens-expired =
     .alt = 已过期
     .title = 已过期
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = 令牌：{ $tokenLength } B。编码后：{ $decompressedLength } → { $compressedLength } B。
 about-networking-ssl-tokens-ev-status = EV 证书
 about-networking-ssl-tokens-ct-status = 证书透明度状态
 about-networking-ssl-tokens-built-in-root = 内置根证书
