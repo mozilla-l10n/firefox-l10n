@@ -152,6 +152,13 @@ genai-menu-ask-smart-window =
 
 ## Chatbot header
 
+genai-chatbot-title = MI tērzēšanas robots
+genai-header-provider-menu =
+    .title = Izvēlieties tērzēšanas robotu
+genai-header-settings-button =
+    .title = MI tērzēšanas iestatījumi
+genai-header-close-button =
+    .title = Aizvērt
 genai-provider-view-details =
     .label = Skatīt tērzēšanas robota informāciju
 genai-options-reload-generic =

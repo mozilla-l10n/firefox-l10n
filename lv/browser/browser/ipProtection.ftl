@@ -25,13 +25,33 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Iepazīstinām ar VPN, tagad tavā pārlūkprogrammā
 ipprotection-feature-introduction-title-1 = Izmēģini { -brand-product-name } iebūvēto VPN
+ipprotection-feature-introduction-link-text-2 = Izmantojiet mūsu jauno <a data-l10n-name="learn-more-vpn">iebūvēto VPN</a>, lai paslēptu savu atrašanās vietu un aizsargātu savus datus.
+ipprotection-feature-introduction-title-privacy = Pievienojiet vēl vienu privātuma slāni
 ipprotection-feature-introduction-title-privacy-1 = Pievienot vēl vienu privātuma slāni ar iebūvēto VPN
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } iebūvētais VPN</a> palīdz aizsargāt jūsu pārlūkošanu. Izvēlieties no vairākām atrašanās vietām, lai saglabātu privātāku pārlūkošanas vietu.
+ipprotection-feature-introduction-link-text-privacy-3 = Iegūstiet <a data-l10n-name="learn-more-vpn">papildu privātumu</a>, izvēloties no vairākām atrašanās vietām, lai paslēptu pārlūkošanas laiku.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Lai <a data-l10n-name="learn-more-vpn">nodrošinātu papildu privātumu</a> pārlūkošanas laikā, paslēpiet savu atrašanās vietu. Ieslēdziet vai izslēdziet VPN noteiktām vietnēm.
+ipprotection-feature-introduction-text-summer-promo-1 = Ieslēdziet to, lai jūsu pārlūkošana būtu privātāka. <a data-l10n-name="summer-promo-link">Iegūstiet neierobežotu joslas platumu</a> un vairāk atrašanās vietu, no kurām pārlūkot. Tagad līdz 31. augustam.
 ipprotection-feature-introduction-title-summer-promo = Ir paredzēts ceļojums? Ņem sev līdzi privātumu!
+ipprotection-feature-introduction-description-summer-promo = Sasniedziet vairāk ar { -brand-product-name } iebūvēto VPN: vairāk atrašanās vietu, neierobežots joslas platums. Tagad līdz 31. augustam.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Izmantojiet mūsu jauno <a data-l10n-name="learn-more-vpn">iebūvēto VPN</a>, lai paslēptu savu atrašanās vietu un aizsargātu savus datus pat privātā logā.
+ipprotection-feature-introduction-description-private-browsing = Pārlūkojiet tīmekli ar papildu aizsardzību, slēpjot savu atrašanās vietu pat privātā logā.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Palīdz pārlūkošanas laikā paslēpt atrašanās vietu. Iestati kārtulas, lai ieslēgtu VPN, kad vēlies <a data-l10n-name="learn-more-vpn">papildu privātumu</a> vai no atrašanās vietas atkarīgu pārlūkošanu, vai izslēgtu, kad tas nav nepieciešams!
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Lai pārlūkošanas laikā nodrošinātu <a data-l10n-name="learn-more-vpn">papildu privātumu</a>, paslēpiet savu atrašanās vietu. Iestatiet noteikumus, lai ieslēgtu VPN papildu privātumam vai pārlūkošanai atkarībā no atrašanās vietas, un izslēgtu tos, ja to nevēlaties.
+ipprotection-feature-introduction-title-captive-portal = Vai izmantojat publisko Wi-Fi? Izmēģiniet { -brand-product-name } iebūvēto VPN.
+ipprotection-feature-introduction-description-captive-portal = Pārlūkojiet internetu ar papildu aizsardzību, slēpjot savu atrašanās vietu pat publiskajā Wi-Fi tīklā.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Iegūstiet <a data-l10n-name="learn-more-vpn">papildu privātumu</a>, izvēloties no vairākām vietām, kur paslēpt pārlūkošanas laikā.
 ipprotection-feature-introduction-button-primary = Nākamais
 ipprotection-feature-introduction-button-secondary-not-now = Ne tagad
+ipprotection-feature-introduction-button-secondary-not-now-menuitem =
+    .label = Ne tagad
 ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
+ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
+    .label = Nē, paldies
 
 ## Summer promo offramp callout buttons
 
