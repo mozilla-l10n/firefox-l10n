@@ -26,6 +26,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Lai skatītu cilnes šeit, pier
 firefoxview-syncedtabs-adddevice-primarybutton = Izmēģiniet { -brand-product-name } mobilajiem tālruņiem
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Tavas cilnes zvanīja. Tās ir tavā tālrunī.
+firefoxview-syncedtabs-adddevice-description-3 = Noskenējiet QR kodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm un sāktu sinhronizēt atvērtās cilnes un citas funkcijas. Uzziniet, kā <a data-l10n-name="url">pievienot papildu ierīces</a>.
 firefoxview-tabpickup-synctabs-primarybutton = Sinhronizēt atvērtās cilnes
 firefoxview-syncedtabs-synctabs-header = Atjaunināt vienādošanas iestatījumus
 firefoxview-syncedtabs-synctabs-description = Lai skatītu cilnes no citām ierīcēm, jums ir jāsinhronizē atvērtās cilnes.
