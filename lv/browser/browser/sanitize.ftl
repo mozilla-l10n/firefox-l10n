@@ -48,6 +48,10 @@ clear-time-duration-value-last-2-hours =
     .label = pēdējās 2 stundas
 clear-time-duration-value-last-4-hours =
     .label = pēdējās 4 stundas
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = Kopš { $midnightTime }
 clear-time-duration-value-today =
     .label = šīs dienas pārlūkošanas vēsturi
 clear-time-duration-value-all-time =
@@ -164,3 +168,6 @@ sanitize-everything-warning = Visa vēsture tiks dzēsta.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Visi atlasītie vienumi tiks notīrīti.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = Aprēķina…
