@@ -33,6 +33,9 @@ about-networking-ssl-tokens-expires = 过期时间
 about-networking-ssl-tokens-certificate = 证书
 # $count (Number) - Number of tokens sharing this row's host and certificate
 about-networking-ssl-tokens-token-list = { $count } 个令牌
+about-networking-ssl-tokens-restored =
+    .alt = 从存储恢复
+    .title = 从存储恢复
 about-networking-ssl-tokens-expired =
     .alt = 已过期
     .title = 已过期
