@@ -24,10 +24,21 @@ about-networking-ssl-tokens = TLS 令牌
 about-networking-ssl-tokens-summary-count = { $count } 个令牌
 # $count (Number) - Number of cached tokens that have already expired
 about-networking-ssl-tokens-summary-expired = （{ $count } 个已过期）
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B（节省 { $saved }%）
 # $used (Number) - Cache size currently in use, in kilobytes
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
-about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB（{ $percent }%）
+# Certificates are stored inside every cached token, so the same certificate is
+# held many times over.
+# $references (Number) - Total number of stored certificate copies
+# $totalBytes (Number) - Uncompressed size of all stored copies, in bytes
+# $distinct (Number) - Number of unique certificates across all tokens
+# $distinctBytes (Number) - Uncompressed size of the unique certificates, in bytes
+about-networking-ssl-tokens-summary-certs = 已存储证书：{ $references } 份（{ $totalBytes } B），不重复证书：{ $distinct } 份（{ $distinctBytes } B）
 about-networking-ssl-tokens-tokens-column = 令牌
 about-networking-ssl-tokens-expires = 过期时间
 about-networking-ssl-tokens-certificate = 证书
