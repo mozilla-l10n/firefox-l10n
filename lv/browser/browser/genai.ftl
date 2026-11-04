@@ -146,12 +146,54 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Pārlādēt { $provider }
+genai-options-show-shortcut =
+    .label = Rādīt saīsni, atlasot tekstu
+genai-options-hide-shortcut =
+    .label = Slēpt saīsni, atlasot tekstu
+genai-options-about-chatbot =
+    .label = Par MI tērzēšanas robotiem { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Tā kā lapa ir gara, šis ir daļējs kopsavilkums.
+
+## Chatbot footer
+
+genai-page-button-summarize = Kopsavilkuma lapa
 
 ## Chatbot onboarding
 
+genai-onboarding-choose-header = Izvēlieties MI tērzēšanas robotu, ko izmantot { -brand-short-name } sānu joslā.
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Pārslēdzieties jebkurā laikā. Lai saņemtu palīdzību izvēloties, <a data-l10n-name="learn-more">uzziniet vairāk par katru tērzēšanas robotu</a>.
 genai-onboarding-primary = Turpināt
+genai-onboarding-secondary = Aizvērt
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-scout-tooltip =
     .title = Yahoo Scout
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-chatbot-contextual-title = Izmantojiet MI tērzēšanas robotu, nepārslēdzot cilnes
+genai-chatbot-contextual-subtitle = Tērzējiet un pārlūkojiet saturu vienlaikus, pievienojot MI tērzēšanas robotu { -brand-short-name } sānu joslā.
+genai-chatbot-contextual-button = Izvēlieties tērzēšanas robotu
+genai-chatbot-summarize-title = Jaunums! Apkopojiet lapas ar vienu klikšķi
+genai-chatbot-summarize-button = Kopsavilkuma lapa
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Ar peles labo pogu noklikšķiniet uz sava MI tērzēšanas robota sānjoslā un izvēlieties “Apkopot lapu”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Ar peles labo pogu noklikšķiniet uz mirdzumu pogas sānu joslā un izvēlieties “Apkopot lapu”. Pirmajā reizē jūs arī izvēlēsieties MI tērzēšanas robotu.
 
 ## Model Optin Component
 
