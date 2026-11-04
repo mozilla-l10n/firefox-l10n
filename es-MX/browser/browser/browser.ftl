@@ -1416,6 +1416,13 @@ reset-pbm-toolbar-button2 =
     .label = Limpiar sesión privada
     .tooltiptext = Limpiar sesión privada
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-cancel-button =
+    .label = Cancelar
+    .accesskey = C
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } no le permitió recargarse automáticamente a esta página.

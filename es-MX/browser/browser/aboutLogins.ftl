@@ -181,6 +181,8 @@ about-logins-confirm-delete-dialog-title2 = ¿Eliminar contraseña?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Esta acción no se puede deshacer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Eliminar
 
 ## Variables
 ##   $count (number) - Number of items
