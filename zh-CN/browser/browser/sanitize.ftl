@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = 清除全部历史
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = 删除浏览数据
 clear-data-settings-label = 退出后，{ -brand-short-name } 会自动清除所有
 sanitize-on-shutdown-description = 关闭 { -brand-short-name } 时自动清除所有选中项目。
 
@@ -47,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = { $midnightTime } 过后
 clear-time-duration-value-today =
     .label = 今天
+clear-time-duration-value-all-time =
+    .label = 全部时间
 clear-time-duration-value-everything =
     .label = 全部
 clear-time-duration-suffix =
@@ -56,6 +65,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = 历史记录
+item-history-and-downloads2 =
+    .label = 浏览和下载历史
+    .accesskey = B
 item-history-and-downloads =
     .label = 浏览和下载历史
     .accesskey = B
