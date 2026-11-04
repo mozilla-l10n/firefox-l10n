@@ -74,3 +74,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } ir nepieci
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Pievienot { $extension }? Šis paplašinājums nodrošina { $hostname } šādas spējas:
+
+## Colorway theme migration
+
+webext-colorway-theme-migration-notification-message = <b>Jūsu krāsu gammas motīvs tika noņemta.</b> { -brand-shorter-name } atjaunināja savu krāsu kolekciju. Jaunākās versijas varat atrast papildinājumu vietnē.

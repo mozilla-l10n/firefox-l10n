@@ -1397,7 +1397,7 @@ filepicker-blocked-infobar = Jūsu organizācija ir bloķējusi piekļuvi vietē
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
 urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } tagad meklē cilnes
-urlbar-addons-shortcut-moved-description = Lai atvērtu paplašinājumus un izskatus, jāizmanto { $addonsShortcut }.
+urlbar-addons-shortcut-moved-description = Lai atvērtu paplašinājumus un motīvus, jāizmanto { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Pārvaldīt īsinājumtaustiņus
 urlbar-addons-shortcut-moved-dismiss = Sapratu
 

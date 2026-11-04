@@ -25,7 +25,7 @@ return-to-amo-subtitle = Lieliski, jums ir { -brand-short-name }
 return-to-amo-addon-title = Tagad sagādāsim jums <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Pievienot paplašinājumu
 return-to-amo-add-theme-label = Pievienot motīvu
-return-to-amo-theme-install-complete-label = Tēma instalēta
+return-to-amo-theme-install-complete-label = Motīvs instalēts
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

@@ -323,9 +323,9 @@ permissions-addon-button = Atļaujas
 extension-enabled-heading = Iespējots
 extension-disabled-heading = Deaktivēts
 theme-enabled-heading2 =
-    .heading = Izvēlētais izskats
+    .heading = Izvēlētais motīvs
 theme-disabled-heading3 =
-    .heading = Saglabātie izskati
+    .heading = Saglabātie motīvi
 theme-enabled-heading = Iespējots
 theme-disabled-heading2 = Saglabātie motīvi
 plugin-enabled-heading = Iespējots
@@ -443,8 +443,8 @@ addon-permissions-learnmore = Uzzināt vairāk par atļaujām
 addon-permissions-managed-by-policy = Dažas atļaujas pārvalda jūsu organizācija.
 recommended-extensions-heading = Ieteicamie paplašinājumi
 recommended-themes-card-heading =
-    .heading = Ieteiktie izskati
-recommended-themes-heading = Ieteicamās tēmas
+    .heading = Ieteiktie motīvi
+recommended-themes-heading = Ieteicamie motīvi
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Piešķir <span data-l10n-name="hostname">{ $hostname } </span> šādas iespējas:
@@ -622,7 +622,7 @@ aboutaddons-themes-picker-install-button =
 # disabled (e.g. no network access to reach the AMO-hosted theme, or a
 # local install/disk failure).
 aboutaddons-themes-picker-error-message =
-    .message = Nevarēja atjaunināt jūsu tēmu. Pārbaudiet savienojumu un mēģiniet vēlreiz.
+    .message = Nevarēja atjaunināt jūsu motīvu. Pārbaudiet savienojumu un mēģiniet vēlreiz.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

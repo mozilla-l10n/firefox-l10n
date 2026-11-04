@@ -34,6 +34,7 @@ app-basics-profile-dir =
 app-basics-build-config = Būvējuma konfigurācija
 app-basics-user-agent = Lietotāja aģents
 app-basics-os = OS
+app-basics-os-theme = OS motīvs
 app-basics-memory-use = Atmiņas izmantojums
 app-basics-performance = Veiktspēja
 app-basics-service-workers = Reģistrētie pakalpojumu darbinieki
