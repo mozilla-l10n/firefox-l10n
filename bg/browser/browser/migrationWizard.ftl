@@ -151,7 +151,7 @@ migration-cancel-button-label = Отказ
 migration-done-button-label = Готово
 migration-continue-button-label = Продължи
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не можа да намери приложения, съдържащи отметки, история или информация за пароли.
-migration-wizard-import-browser-no-resources = Възникна грешка. В този потребителски профил на четеца { -brand-short-name } не може да намери данни, които да бъдат внесени.
+migration-wizard-import-browser-no-resources = Възникна грешка. { -brand-short-name } не може да намери данни за внасяне от този потребителски профил на браузъра.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

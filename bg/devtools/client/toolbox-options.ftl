@@ -44,6 +44,11 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Имена на цветове
 
+## Web Console section
+
+options-webconsole-split-console-tooltip =
+    .title = Отворете Split Console с клавиша Escape
+
 ## Style Editor section
 
 # The heading

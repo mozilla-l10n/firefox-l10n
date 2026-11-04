@@ -172,6 +172,7 @@ sidebar-genai-survey-satisfaction-question = Доколко сте доволн�
 sidebar-genai-survey-productive-question =
     До каква степен сте съгласни или не с твърдението:<br/>
     „Чатбота с AI в страничната лента ме прави по-продуктивен/а“?
+splitview-onboarding-callout-cta-2 = Опитайте с разделен изглед
 unified-search-callout-title = Превключване между търсачките
 unified-search-callout-subtitle = Изберете най-доброто за вашето търсене.
 unified-search-callout-primary-label = Напред

@@ -582,6 +582,7 @@ urlbar-result-action-search-in-private = Търсене в поверителе�
 urlbar-result-action-search-w-engine = Търсене чрез { $engine }
 urlbar-result-action-sponsored = Спонсорирано
 urlbar-result-action-switch-tab = Превключване към раздел
+urlbar-result-action-move-tab-to-split-view = Преместване на раздела в разделен изглед
 urlbar-result-action-visit = Посещаване
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
