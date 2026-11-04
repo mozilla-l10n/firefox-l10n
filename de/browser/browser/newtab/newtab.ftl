@@ -1116,7 +1116,7 @@ newtab-wallpaper-firefox-sitting-hill-light = Ein Fuchs sitzt auf hellen Hügeln
 newtab-wallpaper-firefox-peak-dark = Ein Fuchsgesicht am linken Rand auf einem dunklen Hintergrund
 newtab-wallpaper-firefox-peak-light = Ein Fuchsgesicht am linken Rand auf einem hellen Hintergrund
 newtab-wallpaper-firefox-sky-dark = Dunkelviolette Hügel unter nächtlichem Himmel
-newtab-wallpaper-firefox-sky-light = Leichte Hügel unter einem sanften Himmel
+newtab-wallpaper-firefox-sky-light = Sanfte Hügel unter einem weichen Himmel
 # “Wrexham AFC” is the name of a football club and should not be translated.
 # "crest" refers to the football club's logo (team badge).
 newtab-wallpaper-firefox-wrexham = Das Wappen des Wrexham AFC auf rotem Hintergrund
