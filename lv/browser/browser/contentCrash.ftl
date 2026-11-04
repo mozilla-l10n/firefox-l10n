@@ -24,6 +24,22 @@ pending-crash-reports-send =
     .label = Nosūtīt
 pending-crash-reports-always-send =
     .label = Vienmēr sūtīt
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Jums ir nenosūtīts avārijas ziņojums, kas saistīts ar avārijām, kuras tiek izmeklētas. Tā nosūtīšana palīdzēs mums uzlabot pakalpojumu { -brand-product-name }. Aizverot šo paziņojumu, šis ziņojums tiks ignorēts.
+        [zero] Jums ir { $reportCount } nenosūtīti avāriju ziņojumi, kas saistīti ar avārijām, kuras tiek izmeklētas. To nosūtīšana palīdzēs mums uzlabot { -brand-product-name }. Aizverot šo paziņojumu, šie ziņojumi tiks ignorēti.
+       *[other] Jums ir { $reportCount } nenosūtīti avāriju ziņojumi, kas saistīti ar avārijām, kuras tiek izmeklētas. To nosūtīšana palīdzēs mums uzlabot { -brand-product-name }. Aizverot šo paziņojumu, šie ziņojumi tiks ignorēti.
+    }
 requested-crash-reports-dont-show-again =
     .label = Vairs nerādīt
     .accesskey = V
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Jums ir nesen nenosūtīts avārijas ziņojums
+        [zero] Jums ir { $reportCount } neseni nenosūtīti avāriju ziņojumi
+       *[other] Jums ir { $reportCount } neseni nenosūtīti avāriju ziņojumi
+    }

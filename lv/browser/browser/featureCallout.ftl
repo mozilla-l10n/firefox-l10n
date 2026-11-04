@@ -56,13 +56,29 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Pārvaldīt iestatījumus
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Vairāk iespēju
+
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Jūs esat atteicies. Noklikšķiniet uz konta ikonas, lai pieteiktos.
 
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = Pievienot šo vietni grāmatzīmju joslai?
 bookmarks-toolbar-callout-1-subtitle = Grāmatzīme tiks saglabāta tieši zem adrešu joslas ātrai piekļuvei.
 bookmarks-toolbar-callout-1-primary-button-label = Pievienot grāmatzīmi
+bookmarks-toolbar-callout-1-secondary-button-label = Nē, paldies
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Viegli pievienot vairāk grāmatzīmju
+bookmarks-toolbar-callout-2a-subtitle = Šeit varat vilkt un nomest cilnes, lai vairāk iecienītāko vietņu būtu viegli sasniedzamas.
 bookmarks-toolbar-callout-2a-primary-button-label = Sapratu
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Slēpt rīkjoslu
 
 ## Perplexity callout strings
 
