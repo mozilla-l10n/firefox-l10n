@@ -194,19 +194,54 @@ genai-chatbot-summarize-button = Kopsavilkuma lapa
 genai-chatbot-summarize-sidebar-provider-subtitle = Ar peles labo pogu noklikšķiniet uz sava MI tērzēšanas robota sānjoslā un izvēlieties “Apkopot lapu”.
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-generic-subtitle = Ar peles labo pogu noklikšķiniet uz mirdzumu pogas sānu joslā un izvēlieties “Apkopot lapu”. Pirmajā reizē jūs arī izvēlēsieties MI tērzēšanas robotu.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Atveriet savu MI tērzēšanas robotu sānjoslā un apakšā izvēlieties “Apkopot lapu”.
+genai-chatbot-summarize-footer-generic-subtitle = Pievienojiet MI tērzēšanas robotu { -brand-short-name } sānu joslai, lai ātri apkopotu lapas.
 
 ## Model Optin Component
 
 genai-model-optin-continue =
     .label = Turpināt
+genai-model-optin-optout =
+    .label = Atcelt
+genai-model-optin-cancel =
+    .label = Atcelt
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } min lasīšanas laiks
+        [zero] Lasīšanas laiks: { $range } minūtes
+       *[other] Lasīšanas laiks: { $range } minūtes
+    }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } nevar priekšskatīt šo saiti
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Apmeklēt saiti
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } nevar ģenerēt galvenos punktus šai tīmekļa lapai.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Kaut kas nogāja greizi.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Mēģināt vēlreiz
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Saites priekšskatījuma iestatījumi
 link-preview-settings-enable =
     .description = Lapas virsraksta, apraksta un vēl apskatīšana ar īsinājumtaustiņu vai labo klikšķi uz saites.
     .label = Iespējot saišu priekšskatījumu
+link-preview-settings-key-points =
+    .label = Ļaujiet mākslīgajam intelektam nolasīt lapas sākumu un ģenerēt galvenos punktus
+link-preview-settings-long-press =
+    .label = Īsceļš: noklikšķiniet uz saites un turiet to 1 sekundi (ilgi nospiediet).
 highlight-to-search-settings-enable =
     .description = Iegūsti ātru piekļuvi noderīgām darbībām, kad iezīmē saturu!
     .label = Rādīt darbību izvēlni teksta iezīmēšanas laikā
@@ -225,3 +260,28 @@ highlight-to-search-settings-search =
 # clipboard.
 highlight-to-search-settings-copy =
     .label = Ievietot starpliktuvē
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Redzēt vairāk ar MI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } izmanto MI, lai nolasītu lapas sākumu un ģenerētu dažus galvenos punktus. Lai nodrošinātu jūsu privātuma prioritāti, tas notiek jūsu ierīcē.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Jaunums: noklikšķiniet uz jebkuras saites un turiet to nospiestu, lai skatītu priekšskatījumu
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Skatiet īsu aprakstu, lasīšanas laiku un citus datus, lai izlemtu, vai ir vērts atvērt saiti. Pieejams arī ar peles labo pogu noklikšķinot.
+# Header for the key points section
+link-preview-key-points-header = Galvenie punkti
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Galvenos punktus ģenerē mākslīgais intelekts, un tajos var būt kļūdas.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Pirmā iestatīšanas reize • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Nākamreiz jūs ātrāk redzēsiet galvenos punktus.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Skatīt priekšskatījumu
+# Onboarding card Close button
+link-preview-onboarding-close = Aizvērt
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Pirmās reizes iestatīšana
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Tas var aizņemt brīdi. Nākamreiz galvenos punktus redzēsiet ātrāk.

@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Iepazīstinām ar VPN, tagad tavā pārlūkprogrammā
+ipprotection-feature-introduction-title-1 = Izmēģini { -brand-product-name } iebūvēto VPN
 ipprotection-feature-introduction-title-privacy-1 = Pievienot vēl vienu privātuma slāni ar iebūvēto VPN
 ipprotection-feature-introduction-title-summer-promo = Ir paredzēts ceļojums? Ņem sev līdzi privātumu!
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
@@ -113,6 +114,33 @@ ipprotection-button-turn-vpn-off-1 = Izslēgt
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Atrašanās vieta: ieteicama
+ipprotection-locations-subview =
+    .title = Izvēlieties vietu
+ipprotection-locations-subview-description = Izvēlieties citu atrašanās vietu, no kuras pārlūkot.
+ipprotecion-locations-subview-recommended-label = Ieteiktās
+ipprotection-locations-subview-recommended-description = Atrod ātrāko atrašanās vietu
+# Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Nepieejams
+    .aria-label = Nav pieejams, atspējots
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Nepieejams
+ipprotection-locations-subview-promo =
+    .heading = Paaugstiniet aizsardzības līmeni ar { -mozilla-vpn-brand-name }
+    .message = Izvēlieties no vairāk nekā 300 atrašanās vietām un aizsargājiet visas savas lietotnes līdz pat 5 ierīcēs.
+ipprotection-locations-subview-promo-button = Iegūt { -mozilla-vpn-brand-name }
+
+## VPN paused state
+
+upgrade-vpn-title = Iegūstiet papildu aizsardzību ārpus pārlūkprogrammas
+upgrade-vpn-description = Izvēlieties savu VPN atrašanās vietu, izmantojiet VPN visām savām lietotnēm un līdz pat 5 ierīcēm un esiet drošībā jebkurā tīklā — mājās vai publiskajā Wi-Fi tīklā.
+upgrade-vpn-button = Izmēģiniet { -mozilla-vpn-brand-name }
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Jūs esat izmantojis visus { $maxUsage } GB savu VPN datu. Piekļuve tiks atiestatīta nākamajā mēnesī.
+ipprotection-connection-status-paused-title-2 = VPN ir apturēts
+    .aria-label = VPN ir apturēts
 
 ## Messages and errors
 
@@ -120,6 +148,18 @@ ipprotection-connection-status-generic-error-description = Pēc dažām minūtē
 ipprotection-connection-status-generic-error-try-again = Lūgums vēlāk mēģināt vēlreiz.
 ipprotection-connection-status-network-error-title-1 = Pārbaudi savienojumu ar internetu
     .aria-label = Pārbaudi savienojumu ar internetu
+ipprotection-connection-status-network-error-description = Izveidojiet savienojumu ar internetu un pēc tam mēģiniet ieslēgt VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN nav pieejams
+    .aria-label = VPN nav pieejams
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Vietējie likumi un ierobežojumi ierobežo VPN lietošanas vietas. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+ipprotection-connection-status-blocked-error-description = Vietējie likumi neļauj mums sniegt VPN pakalpojumus šajā reģionā. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Tuvojaties VPN ierobežojumam
+    .message = Šomēnes jums ir atlicis { $usageLeft } GB no { $maxUsage } GB.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir izslēgts
 confirmation-hint-ipprotection-navigated-to-included-site = Šajā vietnē ir ieslēgts VPN
 
