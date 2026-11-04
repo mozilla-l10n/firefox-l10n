@@ -20,6 +20,19 @@ about-networking-alt-svc-validated = 已验证
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = 隔离键
 about-networking-ssl-tokens = TLS 令牌
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count = { $count } 个令牌
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired = （{ $count } 个已过期）
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-tokens-column = 令牌
+about-networking-ssl-tokens-expires = 过期时间
+about-networking-ssl-tokens-certificate = 证书
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list = { $count } 个令牌
 about-networking-ssl-tokens-expired =
     .alt = 已过期
     .title = 已过期

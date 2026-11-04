@@ -27,13 +27,18 @@ ipprotection-feature-introduction-title = 欢迎连接 VPN，现已内置于浏�
 ipprotection-feature-introduction-title-1 = 试用 { -brand-product-name } 的内置 VPN
 ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-title-privacy = 再添加一层隐私保护
+ipprotection-feature-introduction-title-privacy-1 = 使用内置 VPN，再添一层隐私保护
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 有助于保护您的浏览。多个位置任您选择，让浏览更私密。
 ipprotection-feature-introduction-link-text-privacy-3 = 多个位置任您选择，隐藏真实浏览位置，获得<a data-l10n-name="learn-more-vpn">额外隐私保护</a>。
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = 浏览时隐藏真实位置，获得<a data-l10n-name="learn-more-vpn">额外隐私保护</a>，还可为特定网站开启或关闭 VPN。
 ipprotection-feature-introduction-text-summer-promo-1 = 开启此功能，浏览更私密。即日起至 8 月 31 日可<a data-l10n-name="summer-promo-link">获取无限带宽</a>，并解锁更多浏览位置。
 ipprotection-feature-introduction-title-summer-promo = 出门旅行，隐私随行。
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } 的内置 VPN 伴您行万里路。即日起至 8 月 31 日，解锁更多位置，获取无限带宽。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 即使是在隐私窗口，使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 也能隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-description-private-browsing = 即使是在隐私窗口，也能隐藏真实位置，获得额外保护。
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = 帮助在浏览时隐藏真实位置。设置规则，即可在需要获得<a data-l10n-name="learn-more-vpn">额外隐私保护</a>或访问有地区限制的网站时开启 VPN，不需要时则关闭。
 ipprotection-feature-introduction-title-captive-portal = 正在使用公共 Wi-Fi？试试 { -brand-product-name } 内置的 VPN。
 ipprotection-feature-introduction-description-captive-portal = 即使使用公共 Wi-Fi，也能隐藏真实位置，获得额外保护。
 # Used for discovery callouts for both captive portal login and private browsing

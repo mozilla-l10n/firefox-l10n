@@ -263,7 +263,7 @@ pdfjs-page-scale-percent = { $scale }%
 # Variables:
 #   $page (Number) - the page number
 pdfjs-page-landmark =
-    .aria-label = { $lapa } lapa
+    .aria-label = { $page } lapa
 
 ## Loading indicator messages
 

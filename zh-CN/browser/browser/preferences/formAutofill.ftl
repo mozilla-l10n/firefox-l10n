@@ -125,7 +125,7 @@ autofill-card-billing-address-2 =
 # "CVV" is a common abbreviation for the security code printed on a payment
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code =
-    .label = 安全码（CVV）
+    .label = 安全码
 autofill-card-name-on-card = 卡面姓名
 autofill-card-expires-month = 到期月
 autofill-card-expires-year = 到期年
