@@ -68,6 +68,8 @@ history-section-label = 历史记录
 item-history-and-downloads2 =
     .label = 浏览和下载历史
     .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = 访问过的网站和下载项目列表
 item-history-and-downloads =
     .label = 浏览和下载历史
     .accesskey = B
@@ -84,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookie 和网站数据
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = 将退出网站登录，并可能清空购物车
 item-cookies-site-data-description = 可能会退出网站登录及清空购物车
 item-active-logins =
     .label = 登录状态
@@ -91,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = 缓存
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = 临时文件（{ $amount } { $unit }）
+    .accesskey = f
+item-cached-content2 =
+    .label = 临时文件
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = 可帮助提升网站加载速度
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -110,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = 保存的表单信息
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = 姓名、邮箱地址和表单填写内容
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = 网站权限与首选项
 item-formdata-description = 清除在表单中输入的姓名、邮箱地址等信息
 item-site-prefs-description = 将权限和网站首选项还原为初始设置
 data-section-label = 数据
@@ -119,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = 脱机网站数据
     .accesskey = O
+sanitize-everything-undo-warning2 = 此操作无法撤销。
 sanitize-everything-undo-warning = 此操作不可撤销。
 window-close =
     .key = w
@@ -128,6 +148,14 @@ sanitize-button-ok2 =
     .label = 清除
 sanitize-button-ok-on-shutdown =
     .label = 保存更改
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = 删除
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = 关闭
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
