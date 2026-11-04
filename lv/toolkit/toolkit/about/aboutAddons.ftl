@@ -10,7 +10,7 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-list-empty-get-extensions-message = Iegūstiet paplašinājumus un tēmas vietnē <a data-l10n-name="get-extensions">{ $domain } </a>
+list-empty-get-extensions-message = Iegūstiet paplašinājumus un motīvus vietnē <a data-l10n-name="get-extensions">{ $domain } </a>
 list-empty-get-dictionaries-message = Iegūt vārdnīcas domēnā <a data-l10n-name="get-extensions">{ $domain } </a>
 list-empty-get-language-packs-message = Iegūt valodu pakotnes domēnā <a data-l10n-name="get-extensions">{ $domain } </a>
 
@@ -128,9 +128,9 @@ addon-category-discover-title =
 addon-category-extension = Papildinājumi
 addon-category-extension-title =
     .title = Papildinājumi
-addon-category-theme = Tēmas
+addon-category-theme = Motīvi
 addon-category-theme-title =
-    .title = Tēmas
+    .title = Motīvi
 addon-category-plugin = Spraudņi
 addon-category-plugin-title =
     .title = Spraudņi

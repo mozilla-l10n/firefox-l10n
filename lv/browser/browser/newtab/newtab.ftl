@@ -654,6 +654,18 @@ newtab-customize-panel-back-button =
 
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Izskats
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Atrast vairāk motīvus
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } motīvi
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Jūsu motīvi
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instalēt motīvu
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Izpētīt vairāk motīvu
 
 ## New Tab Wallpapers
 

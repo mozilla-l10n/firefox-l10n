@@ -117,6 +117,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Lai iespējotu paplašinājumu, izvēlnē jādodas uz <img data-l10n-name="addons-icon"/> Paplašinājumi<img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Lai atkārtoti iespējotu šo paplašinājumu, apmeklējiet sadaļu <a data-l10n-name="addons-link">Paplašinājumi un motīvi</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } pārvalda dažus no sākumlapas iestatījumiem.
@@ -270,6 +271,9 @@ language-and-appearance-header = Valoda un izskats
 appearance-group2 =
     .description = Dažas tīmekļvietnes maina to krāsas, lai atbilstu Tavām izvēlēm. Izvēlies savu krāsu paleti!
     .label = Tīmekļvietņu izskats
+preferences-web-appearance-choice-auto3 =
+    .label = Sistēmas
+    .title = Automātiski mainiet vietņu fonu un saturu, pamatojoties uz jūsu sistēmas iestatījumiem un { -brand-short-name } motīvu.
 preferences-web-appearance-choice-light2 =
     .label = Gaišs
     .title = Izmantot gaišu izskatu vietņu fonam un saturam.
@@ -715,6 +719,8 @@ search-engine-list =
     .aria-label = Meklētāji un īsinājumtaustiņi
 update-search-engine-success =
     .message = Meklētājs sekmīgi atjaunināts
+search-outlink-to-extensions-page =
+    .title = Pārvaldīt paplašinājumus un motīvus
 search-choose-engine-column =
     .label = Meklētājs
 search-choose-keyword-column =
@@ -921,8 +927,8 @@ sync-engine-payment-methods2 =
     .tooltiptext = Vārdi, karšu numuri un derīguma datumi
     .accesskey = M
 sync-engine-addons =
-    .label = Papildinājumus
-    .tooltiptext = Firefox datoru versijas paplašinājumi un tēmas
+    .label = Papildinājumi
+    .tooltiptext = Firefox datoru versijas paplašinājumi un motīvi
     .accesskey = a
 sync-engine-settings =
     .label = Iestatījumus
@@ -1483,6 +1489,11 @@ downloads-folder-name = Lejupielādes
 
 preferences-appearance-header =
     .heading = Izskats
+browser-theme-group =
+    .description = Veidojiet { -brand-short-name } pēc savas gaumes. Dizaina krāsas attiecas uz rīkjoslām, izvēlnēm un ziņojumiem.
+    .label = Pārlūka motīvs
+browser-theme-manage-link =
+    .label = Pārvaldīt { -brand-short-name } motīvus
 related-settings-accessibility-link =
     .label = Tālummaiņa un fonta iestatījumi ir pielāgojami sadaļā “Piekļūstamība”
 related-settings-home-link =
