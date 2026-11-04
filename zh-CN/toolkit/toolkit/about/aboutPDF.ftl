@@ -44,3 +44,6 @@ about-pdf-feature-images-description = 添加替换文字，让更多人能够�
 about-pdf-feature-view-heading = 按需选择视图
 about-pdf-feature-view-description = 可纵向或横向滚动，也可切换页面布局。
 about-pdf-feature-presentation-heading = 全屏展示 PDF
+about-pdf-feature-presentation-description = 使用演示模式，纯净展示内容。
+about-pdf-feature-details-heading = 寻找内容更快捷
+about-pdf-feature-details-description = 通过大纲、附件和文档属性来便捷浏览 PDF。
