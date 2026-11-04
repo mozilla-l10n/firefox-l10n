@@ -44,6 +44,7 @@ firefoxview-tabpickup-signed-out-header = Piesakies, lai atkal savienotos
 firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un piekļūtu savām cilnēm, jāpiesakās savā kontā.
 firefoxview-tabpickup-signed-out-primarybutton = Pieteikties
 firefoxview-tabpickup-signed-out-header-2 = Piesakieties, lai skatītu savas cilnes
+firefoxview-tabpickup-signed-out-description-2 = Lai skatītu cilnes citās ierīcēs, atkārtoti izveidojiet savienojumu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -115,6 +116,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Meklēšanas vēsture
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Meklēt grāmatzīmēs
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Meklēt nesen aizvērtās cilnēs
@@ -166,6 +170,10 @@ firefoxview-show-all-history = Rādīt visu vēsturi
 firefoxview-history-empty-header = Atgriezieties tur, kur bijāt
 firefoxview-history-empty-description = Pārlūkošanas laikā šeit tiks uzskaitītas apmeklētās lapas.
 firefoxview-history-empty-description-two = Jūsu privātuma aizsardzība ir mūsu darbības pamatā. Tāpēc savos <a data-l10n-name="history-settings-url">vēstures iestatījumos</a> varat kontrolēt darbības, ko { -brand-short-name } atcerēsies.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Jūsu pārlūkošanas taka sākas šeit
+firefoxview-history-empty-description-2 = Apmeklējot lapas, šeit tiks parādīta jūsu vēsture. <a data-l10n-name="history-settings-url">iestatījumos</a> varat kontrolēt, kas tiek saglabāts.
 
 ##
 
