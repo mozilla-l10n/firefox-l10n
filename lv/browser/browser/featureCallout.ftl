@@ -95,17 +95,75 @@ taskbar-tabs-media-callout-title-v3 = Saglabājiet straumēšanu uzdevumjoslā
 taskbar-tabs-media-callout-subtitle-v3 = Palaidiet savas multivides vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Piespraudiet savas iecienītākās vietnes uzdevumjoslai
 taskbar-tabs-value-prop-callout-subtitle-v3 = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Atgriezieties pie spēlēm no uzdevumjoslas
+taskbar-tabs-gaming-callout-subtitle-v3 = Palaidiet savas sociālās vietnes kā lietotni vienkāršotā logā, ko aizsargā { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Piespraust uzdevumjoslai
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Nezaudējiet visu saglabāto, pārejot uz Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sinhronizējiet tūlīt, lai jūsu { -brand-short-name } grāmatzīmes, paroles un iestatījumi būtu drošībā un viegli atjaunojami.
+windows-10-eos-sync-urgency-title-2 = Atvadāties no Windows 10? Aizsargājiet savus datus, pārejot uz to.
+windows-10-eos-sync-urgency-subtitle-2 = Pat ja { -brand-short-name } netiek lietots katru dienu, sinhronizējiet to, lai grāmatzīmes un paroles būtu drošībā un pieejamas.
+windows-10-eos-sync-new-device-title-1 = Neriskējiet sākt no jauna nākamajā ierīcē.
+windows-10-eos-sync-new-device-subtitle-1 = Vienādojiet tūlīt, lai jūsu { -brand-short-name } grāmatzīmes, paroles un iestatījumi būtu drošībā un viegli atjaunojami.
+windows-10-eos-sync-new-device-title-2 = Pārejat uz jaunu ierīci? Nepazaudējiet to, kas ir svarīgs.
+windows-10-eos-sync-new-device-subtitle-2 = Neatkarīgi no tā, cik bieži lietojat { -brand-short-name }, vienādošana aizsargā jūsu grāmatzīmes, paroles un iestatījumus.
+windows-10-eos-sync-new-device-primary-label = Vienādojiet tagad
+windows-10-eos-sync-general-title-1 = Aizsargājiet savu personalizēto { -brand-short-name }.
+windows-10-eos-sync-general-subtitle-1 = Veidojiet rezerves kopijas un vienādojiet savas paroles, grāmatzīmes, iestatījumus un citus datus, lai saglabātu to, uz ko paļaujaties.
+windows-10-eos-sync-general-title-2 = Tagad ir īstais laiks izveidot rezerves kopiju savām parolēm un grāmatzīmēm.
+windows-10-eos-sync-general-subtitle-2 = Vienādojiet tūlīt, lai aizsargātu lietas, kurām uzticaties { -brand-short-name }, — un atgūstiet tās jebkur un jebkurā laikā.
+windows-10-eos-sync-tour-title-1 = Pārāk daudz cilņu? Sakārtojiet tās, izmantojot cilņu grupas.
+windows-10-eos-sync-tour-subtitle-1 = Velciet vienu cilni virs otras, lai izveidotu grupu un uzturētu lietas kārtībā.
+windows-10-eos-sync-tour-title-2 = Sakārtojieties darbam operētājsistēmā Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Pirms pārslēgšanās sinhronizējiet savas grāmatzīmes, paroles un iestatījumus, lai tos dublētu.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Rādīt mazāk ieteikumu
+windows-10-eos-sync-dismiss-button-label = Noraidīt
+windows-10-eos-sync-callout-primary-advance-button-label = Nākamais
+
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Jaunums: noklikšķiniet un turiet, lai priekšskatītu saites
+link-preview-onboarding-callout-description = Skatiet īsu aprakstu, lasīšanas laiku un citus datus, lai izlemtu, vai ir vērts noklikšķināt uz saites. Pieejams arī ar peles labo pogu noklikšķinot.
+
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Atbrīvojieties no liekām ar cilņu grupām
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Grupējiet cilnes pēc uzdevuma vai tēmas. Velciet vēl, kamēr cilnes ir atvērtas.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Izveidot grupu
 
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
 sidebar-button-callout-subtitle = Sānjoslas poga ir izmantojama, lai izvērstu sānjoslu, lai varētu redzēt ciļņu virsrakstus.
+sidebar-button-callout-vertical-tabs = Lai parādītu cilnes, rīkjoslā atlasiet sānu joslas pogu.
+sidebar-deprecation-callout-title = Atjaunināta sānu josla drīzumā būs pieejama
+sidebar-deprecation-callout-subtitle = Mēs pakāpeniski pārtraucam lietot sānu joslas versiju, kuru pašlaik izmantojat. Izmēģiniet atjaunināto sānu joslu. Tā ir ātrāka un jūs iegūstat piekļuvi vairāk rīkiem.
+sidebar-deprecation-cta-button = Izmēģiniet tagad
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Vai esat noguris no pārāk daudzām cilnēm?
 vertical-tabs-callout-1-subtitle = Izmēģini mūsu jauno statenisko ciļņu izkārtojumu, lai ātri pārskatītu ciļņu sarakstu! Agrīnie pārbaudītāji ziņo, ka šis izkārtojums palīdz viņiem justies sakārtotākiem. Pārslēgties var jebkurā laikā.
 vertical-tabs-callout-1-cta-button = Izmēģināt stateniskas cilnes
+vertical-tabs-callout-2-cta-button = Izmēģiniet tagad
 vertical-tabs-callout-2-title = Turi atvērtas daudz ciļņu? Izmēģini stateniskās cilnes!
+vertical-tabs-callout-2-subtitle = Šis izkārtojums ļauj ātri pārskatīt ciļņu sarakstu. Turklāt varat pielāgot platumu, lai redzētu vairāk vai mazāk ciļņu nosaukumu.
 
 ## Sidebar Onboarding Strings
 

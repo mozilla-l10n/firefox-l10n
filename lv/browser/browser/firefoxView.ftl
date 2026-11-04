@@ -39,9 +39,11 @@ firefoxview-tabpickup-password-locked-description = Lai izmantotu cilnes, jums b
 firefoxview-tabpickup-password-locked-link = Uzzināt vairāk
 firefoxview-tabpickup-password-locked-primarybutton = Ievadiet galveno paroli
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Uzzināt vairāk</a>
+firefoxview-tabpickup-password-locked-description-2 = Jūsu privātuma labad sinhronizētās cilnes ir aizsargātas. Ievadiet savu { -brand-short-name } galveno paroli, lai skatītu cilnes no citām savām ierīcēm.
 firefoxview-tabpickup-signed-out-header = Piesakies, lai atkal savienotos
 firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un piekļūtu savām cilnēm, jāpiesakās savā kontā.
 firefoxview-tabpickup-signed-out-primarybutton = Pieteikties
+firefoxview-tabpickup-signed-out-header-2 = Piesakieties, lai skatītu savas cilnes
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
