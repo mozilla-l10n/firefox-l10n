@@ -52,9 +52,32 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Nē, paldies
+ipprotection-feature-introduction-button-secondary-remove = Noņemt VPN no rīkjoslas
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Noņemt VPN no rīkjoslas
+ipprotection-feature-introduction-button-open-vpn = Atvērt VPN
+ipprotection-feature-introduction-button-get-started = Ar ko sākt
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maksimāli palieliniet privātumu ar { -brand-product-name } iebūvēto VPN
 
 ## Summer promo offramp callout buttons
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Jūsu iebūvētie VPN ierobežojumi tiks atiestatīti 1. septembrī
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Izmantojiet savu { $maxUsage } GB un 6 atrašanās vietas papildu privātumam, lai apgrūtinātu jūsu pārlūkošanas datu izsekošanu līdz jums.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Izmantojiet savu { $maxUsage } GB un vairāk nekā 20 atrašanās vietas papildu privātumam, lai apgrūtinātu jūsu pārlūkošanas datu izsekošanu līdz jums.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Jūsu iebūvētais VPN tikko kļuva vēl labāks
+ipprotection-summer-promo-offramp-subscriber-description = Tagad kā { -mozilla-vpn-brand-name } abonents jūs saņemat neierobežotu joslas platumu un vairāk atrašanās vietu.
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Atvērt VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Iestatīt uz noklusējumu
 ipprotection-summer-promo-offramp-get-subscription-button = Iegūt { -mozilla-vpn-brand-name }
