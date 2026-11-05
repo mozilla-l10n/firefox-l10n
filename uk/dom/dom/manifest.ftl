@@ -23,3 +23,22 @@ dom-manifest-invalid-css-color = { $property }: { $value } не є дійсни�
 #   $value (String) - The invalid value of the property.
 # Example: "lang: 42 is not a valid language code."
 dom-manifest-lang-is-invalid = { $property }: { $value } не є дійсним мовним кодом.
+# Variables:
+#   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
+#   $index (Number) - The index of the image object that is invalid, starting from 0.
+#   $member (String) - The name of the member that is invalid, e.g. "src".
+#   $value (String) - The invalid value.
+# There is no final period, so that it is not mistaken for part of the URL.
+# Example: "icons item at index 2 is invalid. The src member is an invalid URL http://:Invalid"
+dom-manifest-image-url-is-invalid = Елемент { $memberName } за індексом { $index } недійсний. Параметр { $member } має некоректний URL { $value }
+# Variables:
+#   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
+#   $index (Number) - The index of the image object that is unusable, starting from 0.
+# Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
+dom-manifest-image-unusable = Елементу { $memberName } за індексом { $index } бракує використовуваного призначення. Його буде ігноровано.
+# Variables:
+#   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
+#   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
+#   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes repeated purpose(s): a, b."
+dom-manifest-image-repeated-purposes = Елемент { $memberName } за індексом { $index } містить повторюване призначення: { $purposes }.
