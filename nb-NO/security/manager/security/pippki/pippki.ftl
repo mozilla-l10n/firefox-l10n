@@ -14,6 +14,8 @@ change-password-token = Sikkerhetsenhet: { $tokenName }
 change-password-old = Nåværende passord:
 change-password-new = Nytt passord:
 change-password-reenter = Nytt passord (igjen):
+change-password-not-set =
+    .value = (ikke satt)
 pippki-failed-pw-change = Klarte ikke å endre passord.
 pippki-incorrect-pw = Du skrev ikke inn riktig gjeldende passord. Prøv igjen.
 pippki-pw-change-ok = Passordet er endret.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Passord for sikkerhetskopi (igjen):
 set-password-reminder = Viktig: Hvis du glemmer passordet til sertifikatsikkerhetskopien vil du ikke kunne få tilbake innholdet i sikkerhetskopien senere. Skriv det ned på et sikkert sted.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
