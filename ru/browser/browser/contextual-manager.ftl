@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Импорт из д�
 contextual-manager-passwords-command-import = Импорт из файла…
 contextual-manager-passwords-command-export = Экспорт паролей
 contextual-manager-passwords-command-remove-all = Удалить все пароли
+contextual-manager-passwords-command-delete-all = Удалить все пароли
 contextual-manager-passwords-command-options = Настройки
 contextual-manager-passwords-command-help = Помощь
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -105,6 +106,14 @@ contextual-manager-passwords-remove-all-title =
         [few] Удалить { $total } пароля?
        *[many] Удалить { $total } паролей?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Удалить { $total } пароль?
+        [few] Удалить { $total } пароля?
+       *[many] Удалить { $total } паролей?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -120,6 +129,15 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Удалить
         [one] Удалить все
+        [few] Удалить все
+       *[many] Удалить все
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Удалить
+        [one] Удалить
         [few] Удалить все
        *[many] Удалить все
     }
@@ -140,6 +158,15 @@ contextual-manager-passwords-remove-all-message-sync =
         [one] Это удалит сохранённый пароль из { -brand-short-name } на всех синхронизированных устройствах и удалит все уведомления о утечках. Это действие нельзя отменить.
         [few] Это удалит все сохранённые пароли из { -brand-short-name } на всех синхронизированных устройствах и удалит все уведомления о утечках. Это действие нельзя отменить.
        *[many] Это удалит все сохранённые пароли из { -brand-short-name } на всех синхронизированных устройствах и удалит все уведомления о утечках. Это действие нельзя отменить.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Это действие удалит его из { -brand-short-name } на всех устройствах, которые синхронизируют ваши пароли. Вы не сможете отменить это.
+        [one] Это действие удалит его из { -brand-short-name } на каждом устройстве, которое синхронизирует ваши пароли. Вы не сможете отменить это.
+        [few] Это действие удалит их из { -brand-short-name } на каждом устройстве, которое синхронизирует ваши пароли. Вы не сможете отменить это.
+       *[many] Это действие удалит их из { -brand-short-name } на каждом устройстве, которое синхронизирует ваши пароли. Вы не сможете отменить это.
     }
 contextual-manager-passwords-origin-label = Веб-сайт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -185,12 +212,16 @@ contextual-manager-passwords-radiobutton-all = Все ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Уведомления ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Удалить пароль?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Удалить пароль?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Это действие нельзя отменить.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Назад
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Удалить
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Удалить
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Отмена
 contextual-manager-passwords-alert-card =
@@ -221,6 +252,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Обновить пароль
 contextual-manager-passwords-remove-label =
+    .title = Удалить пароль
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Удалить пароль
 contextual-manager-passwords-origin-field =
     .label = Адрес веб-сайта
@@ -335,6 +369,15 @@ contextual-manager-passwords-discard-changes-close-button = Закрыть
 contextual-manager-passwords-discard-changes-go-back-button = Вернуться назад
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Да, удалить пароль
+        [one] Да, удалить пароль
+        [few] Да, удалить пароли
+       *[many] Да, удалить пароли
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
     { $total ->
         [1] Да, удалить пароль
         [one] Да, удалить пароль

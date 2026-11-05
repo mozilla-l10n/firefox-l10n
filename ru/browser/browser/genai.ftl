@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = Спросить у { $provider }
 genai-menu-new-badge = Новый
 genai-menu-summarize-page = Резюме по странице
+genai-menu-summarize-with-ai = Резюмировать с помощью ИИ
 genai-input-ask-smart-window =
     .placeholder = Спросить…
 genai-input-ask-generic =
     .placeholder = Спросить у ИИ-чат-бота…
+genai-input-ask-ai =
+    .placeholder = Спросить ИИ…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Спросить у { $provider }…

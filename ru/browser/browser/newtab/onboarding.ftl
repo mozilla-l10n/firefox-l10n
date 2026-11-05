@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Открывайте ваши г
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Открывайте снова ваши группы вкладок из меню «Список всех вкладок» в любое время.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Группы вкладок сохраняются автоматически. Найдите их здесь.
 
 ## Multi Profiles feature onboarding messages
 
@@ -637,3 +639,21 @@ welcome-back-onboarding-card-label-tabs = Наведите порядок с п�
 welcome-back-onboarding-card-label-vpn = Скройте свой адрес с помощью встроенного VPN
 welcome-back-onboarding-card-label-pdf = Выделяйте, подписывайте и работайте с PDF-файлами
 welcome-back-onboarding-card-tilebutton-label = Попробовать
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Настройте { -brand-short-name } за пару секунд
+hnt-card-import-body = Перенесите свои закладки, пароли и многое другое из другого браузера.
+hnt-card-import-primary-button = Импортируйте свои данные
+hnt-card-default-body = { -brand-product-name } — единственный популярный браузер, созданный для вашей защиты, а не для отслеживания вас.
+hnt-card-default-primary-button = Открывать ссылки с помощью { -brand-short-name }
+hnt-card-pin-header = Держите { -brand-short-name } на расстоянии одного щелчка
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Вернитесь к защищённому просмотру из дока.
+       *[other] Вернитесь к защищённому просмотру с панели задач.
+    }
+hnt-card-mobile-header = Получите на вашем телефоне встроенную защиту
+hnt-card-mobile-body = Загрузите { -brand-product-name } для мобильных устройств и получите дополнительную приватность в пути.
+hnt-card-mobile-primary-button = Скачать { -brand-product-name } для мобильных устройств.
+hnt-card-wallpaper-header = Выберите свежие обои
