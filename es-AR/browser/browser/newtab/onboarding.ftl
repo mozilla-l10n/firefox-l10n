@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Vuelva a abrir sus grupos de pes
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Vuelva a abrir sus grupos de pestañas desde el menú Mostrar todas las pestañas en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Los grupos de pestañas se guardan automáticamente. Se pueden encontrar acá.
 
 ## Multi Profiles feature onboarding messages
 
@@ -638,3 +640,10 @@ welcome-back-onboarding-card-label-tabs = Más ordenado con pestañas verticales
 welcome-back-onboarding-card-label-vpn = Mantenerse oculto con la VPN integrada
 welcome-back-onboarding-card-label-pdf = Resaltar, firmar y trabajar con archivos PDF
 welcome-back-onboarding-card-tilebutton-label = Pruébelo
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configure { -brand-short-name } en segundos
+hnt-card-import-primary-button = Importar datos
+hnt-card-default-body = { -brand-product-name } es el único navegador importante creado para protegerlo, no para rastrearlo.
+hnt-card-default-primary-button = Abrir enlaces con { -brand-short-name }

@@ -46,11 +46,24 @@ close-tabs-to-the-start-vertical =
 close-tabs-to-the-end =
     .label = Cerrar pestañas hacia la derecha
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Pestañas a la derecha
+    .accesskey = l
 close-tabs-to-the-end-vertical =
     .label = Cerrar las pestañas debajo
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Pestañas abajo
+    .accesskey = j
 close-other-tabs =
     .label = Cerrar las otras pestañas
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Todas las demás
     .accesskey = o
 reload-tabs =
     .label = Recargar pestañas
@@ -89,14 +102,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Abrir en una nueva pestaña contenedora
     .accesskey = e
+tab-context-open-in-container =
+    .label = Abrir en contenedora
+    .accesskey = e
 move-to-start =
     .label = Mover al Inicio
     .accesskey = v
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Inicio
+    .accesskey = I
 move-to-end =
     .label = Mover al Final
     .accesskey = E
+move-to-end-alt =
+    .label = Final
+    .accesskey = F
 move-to-new-window =
     .label = Mover a nueva ventana
+    .accesskey = v
+move-to-new-window-alt =
+    .label = Nueva ventana
     .accesskey = v
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -112,6 +138,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Cerrar pestañas duplicadas
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Pestañas duplicadas
+    .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = Cerrar duplicados de esta pestaña
     .accesskey = x
@@ -128,6 +158,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nuevo grupo
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Nuevo grupo
+tab-context-add-tab-to-group-closed-groups =
+    .label = Grupos cerrados
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -161,6 +195,15 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Mover a
+            [one] Mover a
+           *[other] Mover { $tabCount } pestañas a
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -172,6 +215,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Mover vista dividida a
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Mover pestañas a
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

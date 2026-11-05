@@ -631,7 +631,9 @@ welcome-back-onboarding-card-tilebutton-label = 試試看
 ## New Tab Onboarding cards
 
 hnt-card-import-header = 只要幾秒鐘就能設定好 { -brand-short-name }
+hnt-card-import-body = 從其他瀏覽器匯入您的書籤、密碼與更多資料。
 hnt-card-import-primary-button = 匯入您的資料
+hnt-card-default-body = { -brand-product-name } 是唯一打造來保護您，而非追蹤您的主流瀏覽器。
 hnt-card-default-primary-button = 用 { -brand-short-name } 開啟鏈結
 hnt-card-pin-header = 滑鼠一點即可開啟 { -brand-short-name }
 hnt-card-pin-body =
@@ -639,6 +641,7 @@ hnt-card-pin-body =
         [macos] 從 Dock 跳回受保護的瀏覽功能。
        *[other] 從工作列跳回受保護的瀏覽功能。
     }
+hnt-card-mobile-header = 在手機上也享有內建防護
 hnt-card-mobile-body = 下載 { -brand-product-name } 行動版，讓您隨時隨地上網都有更多隱私保護。
 hnt-card-mobile-primary-button = 下載 { -brand-product-name } 行動版。
 hnt-card-wallpaper-header = 挑選全新背景圖
