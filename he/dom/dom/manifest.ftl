@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-start-url-outside-scope = הכתובת ההתחלתית היא מחוץ לטווח כך שהטווח שגוי.
+dom-manifest-start-url-invalid = הכתובת ההתחלתית שגויה.
+dom-manifest-start-url-should-be-same-origin = הכתובת ההתחלתית צריכה להיות מאותו המקור כמו המסמך.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
+#   $value (String) - The invalid value of the property.
+# Example: "theme_color: 42 is not a valid CSS color."
+dom-manifest-invalid-css-color = { $property }:‏ { $value } אינו צבע CSS תקני.
 # Variables:
 #   $property (String) - The name of the property whose value is invalid, e.g. "lang".
 #   $value (String) - The invalid value of the property.
