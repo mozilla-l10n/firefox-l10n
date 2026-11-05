@@ -62,6 +62,7 @@ security-software-disk-encryption-in-progress = Chiffrement ou déchiffrement en
 security-software-disk-encryption-unknown = Inconnu
 # Shown in the about:support "Content Analysis (DLP)" section.
 content-analysis-agent-path-does-not-apply = non applicable
+content-analysis-agent-builtin-version = Version de l’agent intégré
 content-analysis-agent-builtin-version-does-not-apply = non applicable
 enterprise-toolbar-button =
     .label = { -brand-short-name }
