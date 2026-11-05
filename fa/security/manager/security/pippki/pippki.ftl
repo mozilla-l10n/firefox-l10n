@@ -103,6 +103,7 @@ set-password-reminder = مهم: اگر گذرواژهٔ پشتیبان گواه�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = لطفاً گذرواژه‌ای را که برای رمزنگاری نسخه پشتیبان این گواهی‌نامه استفاده شده است وارد کنید:
 
 ## Protected authentication dialog
 

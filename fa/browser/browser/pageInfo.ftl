@@ -110,6 +110,11 @@ security-view-technical =
     .value = جزئیات فنی
 help-button =
     .label = راهنما
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = وبگاه ‎{ $website } برای صفحه‌ای که در حال بازدید آن هستید از رمزگذاری پشتیبانی نمی‌کند.
+security-technical-no-encryption-transit = دیگران می‌توانند اطلاعاتی را که بدون رمزنگاری از طریق اینترنت ارسال می‌شود را در هنگام مخابره ببینند.
+security-technical-no-encryption-page = صفحه‌ای که در حال بازدید از آن هستید پیش از مخابره از طریق اینترنت، رمزنگاری نشده بود.
 security-technical-encrypted-page = صفحه‌ای که در حال بازدید از آن هستید پیش از مخابره از طریق اینترنت، رمزنگاری شده است.
 security-technical-encrypted-description = رمزنگاری، نمایش اطلاعات در حال انتقال بین رایانه‌ها را برای افرادی که اجازهٔ این کار را ندارند بسیار مشکل می‌کند. بنابراین احتمال این که کسی این صفحه را در حال انتقال در شبکه خوانده باشد بسیار کم است.
 security-technical-mixed-content-description = بخش‌هایی از صفحه‌ای که در حال بازدید از آن هستید پیش از مخابره از طریق اینترنت، رمزنگاری نشده است.
@@ -129,6 +134,8 @@ security-site-data-no = خیر
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = اتصال رمزنگاری نشده است
 security-technical-mixed-content =
     .value = اتصال به طور جزئی رمزنگاری شده است
 
