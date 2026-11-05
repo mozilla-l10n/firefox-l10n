@@ -12,6 +12,8 @@ change-password-token = Güvenlik Aygıtları: { $tokenName }
 change-password-old = Güncel parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
+change-password-not-set =
+    .value = (ayarlı değil)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifika yedekleme parolası (tekrar):
 set-password-reminder = Önemli: Eğer sertifika yedekleme parolanızı unutursanız, bu yedeklemeyi daha sonra yeniden oluşturamazsınız. Lütfen bunu güvenli bir ortamda saklayın.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
