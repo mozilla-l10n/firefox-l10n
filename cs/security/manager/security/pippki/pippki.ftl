@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Stažení certifikátu
 download-cert-message = Byli jste požádáni o uznání nové certifikační autority (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Chcete důvěřovat „{ $caName }“ pro následující účely?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikační autorita (beze jména)
 download-cert-trust-ssl =
     .label = Uznat tuto CA pro identifikaci serverů.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Důležité: Pokud zapomenete svoje heslo zálohy certif
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Zadejte heslo, kterým byla zašifrována tato záloha certifikátů:
 
 ## Protected authentication dialog
 
