@@ -22,6 +22,8 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = ٻیا سِکھو
+# Shown in the dropdown of a login field on a page that is not secure (HTTP).
+autocomplete-insecure-login-warning = ایں کنکشن محفوظ کائنی۔ اتھاں درج کردہ لاگ ان نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
