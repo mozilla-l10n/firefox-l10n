@@ -11,6 +11,8 @@ confirmation-hint-password-created = گذرواژه ذخیره شد
 confirmation-hint-password-updated = گذرواژه به‌روز شد
 confirmation-hint-address-created = نشانی ذخیره شد
 confirmation-hint-address-updated = نشانی به‌روز شد
+confirmation-hint-payment-method-saved = روش پرداخت ذخیره شد
+confirmation-hint-payment-method-updated = روش پرداخت به‌روز شد
 confirmation-hint-credit-card-created = کارت ذخیره شد
 confirmation-hint-credit-card-updated = کارت به‌روز شد
 confirmation-hint-passport-created = گذرنامه ذخیره شد
@@ -21,6 +23,7 @@ confirmation-hint-send-to-device = ارسال شد!
 confirmation-hint-firefox-relay-mask-created = پوشانه جدید ایجاد شد!
 confirmation-hint-firefox-relay-mask-reused = پوشانه موجود دوباره استفاده شد!
 confirmation-hint-screenshot-copied = نماگرفت رونوشت شد!
+confirmation-hint-tab-group-saved = گروه زبانه ذخیره شد
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

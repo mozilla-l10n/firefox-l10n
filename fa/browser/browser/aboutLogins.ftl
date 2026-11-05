@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = درون‌ریزی ا�
 about-logins-menu-menuitem-import-from-a-file = درون‌ریزی از یک پرونده…
 about-logins-menu-menuitem-export-logins2 = استخراج گذرواژه‌ها
 about-logins-menu-menuitem-remove-all-logins2 = حذف تمامی گذرواژه‌ها
+about-logins-menu-menuitem-delete-all-logins = حذف همهٔ گذرواژه‌ها…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -89,6 +90,7 @@ about-logins-intro-import3 = برای افزودن گذرواژه، دکمه ع�
 about-logins-login-item-new-login-title = افزودن گذرواژه
 login-item-edit-button = ویرایش
 about-logins-login-item-remove-button = برداشتن
+about-logins-login-item-delete-button = حذف
 login-item-origin-label = نشانی پایگاه
 about-logins-origin-tooltip2 = آدرس کامل را وارد کنید و اطمینان حاصل کنید که با جایی که وارد می‌شوید دقیقاً مطابقت دارد
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = انصراف
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = گذرواژه حذف شود؟
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = گذرواژه حذف شود؟
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = پس از انجام امکان بازگردانی وجود ندارد.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = این کار آن را از { -brand-short-name } در همهٔ دستگاه‌هایی که گذرواژه‌هایتان را همگام می‌کنند حذف می‌کند. این کار برگشت‌پذیر نیست.
 about-logins-confirm-remove-dialog-confirm-button = برداشتن
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = حذف
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,11 +195,23 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] برداشتن
        *[other] برداشتن همه
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] حذف
+       *[other] حذف همه
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] بله، گذرواژه را حذف کنید
        *[other] بله، گذرواژه‌ها را حذف کنید
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] بله، گذرواژه حذف شود
+       *[other] بله، گذرواژه‌ها حذف شوند
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -212,12 +232,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] آیا { $count } گذرواژه از تمام دستگاه‌ها حذف شود؟
        *[other] آیا همه { $count } گذرواژه از تمام دستگاه‌ها حذف شوند؟
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } گذرواژه حذف شود؟
+       *[other] { $count } گذرواژه حذف شود؟
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار نشت‌های اطلاعاتی که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
         [one] این عمل گذرواژه ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار نشت‌های اطلاعاتی که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
        *[other] این عمل همه گذرواژه‌ها ذخیره شده در { -brand-short-name } را در تمام دستگاه‌های همگام‌سازی شده شما حذف خواهد کرد. این همچنین هرگونه هشدار نشت‌های اطلاعاتی که در اینجا ظاهر می‌شود را حذف خواهد کرد. این عمل قابل بازگشت نیست.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] این کار آن را از { -brand-short-name } در همهٔ دستگاه‌هایی که گذرواژه‌هایتان را همگام می‌کنند حذف می‌کند. این کار برگشت‌پذیر نیست.
+       *[other] این کار آن‌ها را از { -brand-short-name } در همهٔ دستگاه‌هایی که گذرواژه‌هایتان را همگام می‌کنند حذف می‌کند. این کار برگشت‌پذیر نیست.
     }
 
 ##

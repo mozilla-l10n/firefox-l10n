@@ -279,6 +279,16 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } وب‌سایت
         }
     .label = مدیریت تنظیمات وب‌سایت
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = ویرایش قانون { $website }
+    .title = ویرایش
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = حذف قانون { $website }
+    .title = حذف
 ip-protection-autostart =
     .label = روشن شدن خودکار VPN
 ip-protection-autostart-checkbox =
@@ -297,8 +307,48 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = مدیریت تنظیمات وب‌سایت
 ip-protection-exclusions-desc = استفاده از VPN برای همهٔ وب‌سایت‌ها به جز موارد این فهرست. از این‌جا یا با باز کردن پنل VPN می‌توانید وب‌سایت اضافه کنید.
+ip-protection-site-rule-window =
+    .title = افزودن قانون
+ip-protection-edit-site-rule-window =
+    .title = ویرایش قانون
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = افزودن
+    .buttonaccesskeyaccept = ا
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = ذخیره
+    .buttonaccesskeyaccept = ذ
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = وبگاهی را وارد کنید و سپس وضعیت VPN آن را انتخاب کنید.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = وبگاه
+    .placeholder = مثلاً: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = وضعیت VPN
+ip-protection-site-rule-status-on =
+    .label = همیشه روشن
+ip-protection-site-rule-status-off =
+    .label = همیشه خاموش
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = نشانی وبگاه معتبری وارد کنید.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = این وبگاه از قبل قانون دارد.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = هنگام ساختن قانون خطایی رخ داد. لطفاً دوباره تلاش کنید.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = قانون { $website } حذف شود؟
+ip-protection-delete-site-rule-cancel =
+    .label = لغو
 ip-protection-delete-site-rule-confirm =
     .label = حذف
+ip-protection-delete-all-site-rules-message = همهٔ قوانین وبگاه‌ها حذف شوند؟
+ip-protection-delete-all-site-rules-confirm =
+    .label = حذف همهٔ قوانین
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = حذف قانون ممکن نشد
 
 ## IP Protection Bandwidth
 

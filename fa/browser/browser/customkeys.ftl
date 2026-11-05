@@ -17,6 +17,7 @@ customkeys-reset-all = بازنشانی همهٔ میانبرها به حالت 
 customkeys-conflict-confirm = این کلید قبلاً به «{ $conflict }» اختصاص یافته است. آیا می‌خواهید آن را جایگزین کنید؟
 customkeys-reset-all-confirm = آیا مطمئن هستید که می‌خواهید همهٔ میانبرهای صفحه‌کلید را به حالت پیش‌فرض بازگردانید؟
 customkeys-file-duplicate-tab = تکثیر زبانه
+customkeys-file-copy-tab-url = رونوشت نشانی زبانه
 customkeys-file-focus-search = رفتن به نوار جست‌وجو
 customkeys-history-reopen-tab = باز کردن مجدد آخرین زبانهٔ بسته‌شده
 customkeys-history-reopen-window = باز کردن مجدد آخرین پنجرهٔ بسته‌شده
@@ -83,6 +84,16 @@ customkeys-key-new =
     .label = کلید جدید را فشار دهید:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (غیرقابل تغییر)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (تنظیم‌شده در تنظیمات صفحه‌کلید macOS)
+       *[other] (تنظیم‌شده در تنظیمات صفحه‌کلید سیستم شما)
+    }
 
 ## Confirmation dialogs
 

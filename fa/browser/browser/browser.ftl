@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = جایگذاری و ثبت
     .accesskey = ج
+urlbar-menuitem-paste-and-search =
+    .label = جای‌گذاری و جست‌وجو
+    .accesskey = ج
 
 ## Searchbar context menu
 
@@ -1357,6 +1360,9 @@ tabs-toolbar =
     .aria-label = زبانه‌های مرورگر
 tabs-toolbar-new-tab =
     .label = زبانهٔ جدید
+tabs-toolbar-list-all-tabs-2 =
+    .label = جست‌وجو و مدیریت زبانه‌ها
+    .tooltiptext = جست‌وجو و مدیریت زبانه‌ها
 tabs-toolbar-list-all-tabs =
     .label = فهرست کردن همهٔ زبانه‌ها
     .tooltiptext = فهرست کردن همهٔ زبانه‌ها
@@ -1455,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = پاک‌سازی داده‌ها و شروع یک نشست ناشناس تازه؟
+reset-pbm-panel-description3 = این کار تاریخچه و کلوچک‌های شما را پاک می‌کند و شما را از وبگاه‌ها خارج می‌کند. پنجره‌های خصوصی شما بسته می‌شوند و یک پنجرهٔ تازه باز می‌شود.
 reset-pbm-panel-description2 = این کار تاریخچه، کوکی‌ها و تمام داده‌های سایت‌ها را بدون بستن پنجرهٔ ناشناس شما پاک می‌کند.
 reset-pbm-panel-always-ask-checkbox =
     .label = همیشه از من سؤال شود
@@ -1469,6 +1476,30 @@ reset-pbm-panel-complete = داده‌های نشست ناشناس پاک شد
 reset-pbm-toolbar-button2 =
     .label = پاک کردن نشست ناشناس
     .tooltiptext = پاک کردن نشست ناشناس
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = حذف بخشی یا همهٔ داده‌های مرور
+    .tooltiptext = حذف بخشی یا همهٔ داده‌های مرور
+fire-button-panel-heading = همهٔ داده‌های مرور حذف شوند؟
+fire-button-panel-description = این کار تاریخچه، کلوچک‌ها و داده‌های وبگاه‌ها را حذف می‌کند. از وبگاه‌ها خارج می‌شوید. این پنجره بسته می‌شود و { -brand-short-name } پنجرهٔ تازه‌ای باز می‌کند.
+fire-button-panel-choose-description = اگر نمی‌خواهید همه‌چیز حذف شود، داده‌های مشخصی را انتخاب کنید.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = انتخاب…
+fire-button-panel-cancel-button =
+    .label = لغو
+    .accesskey = ل
+fire-button-panel-confirm-button =
+    .label = حذف همه
+    .accesskey = ح
+fire-button-panel-complete = داده‌های مرور حذف شد
+fire-button-toolbar-button2 =
+    .label = حذف بخشی یا همهٔ داده‌ها
+    .tooltiptext = حذف بخشی یا همهٔ داده‌های مرور
 
 ## Autorefresh blocker
 

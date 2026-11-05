@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = افزودن موتور جست‌وجو
     .accesskey = م
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = روشن کردن منوی کنش‌ها
+    .accesskey = ک
 main-context-menu-link-send-to-device =
     .label = ارسال پیوند به دستگاه
     .accesskey = د
@@ -446,6 +450,8 @@ main-context-menu-reveal-password =
     .accesskey = ن
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = جدید
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = بتا
 main-context-menu-pdfjs-copy-page =
     .label = کپی صفحه
 main-context-menu-pdfjs-cut-page =

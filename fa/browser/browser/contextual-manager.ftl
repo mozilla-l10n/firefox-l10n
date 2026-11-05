@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = درون‌ریزی �
 contextual-manager-passwords-command-import = درون‌ریزی از یک پرونده…
 contextual-manager-passwords-command-export = برون‌ریزی گذرواژه‌ها
 contextual-manager-passwords-command-remove-all = حذف همهٔ گذرواژه‌ها
+contextual-manager-passwords-command-delete-all = حذف همهٔ گذرواژه‌ها
 contextual-manager-passwords-command-options = گزینه‌ها
 contextual-manager-passwords-command-help = راهنما
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] گذرواژه پاک شود؟
        *[other] همهٔ { $total } گذرواژه پاک شوند؟
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } گذرواژه حذف شود؟
+       *[other] { $total } گذرواژه حذف شود؟
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -118,6 +126,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] برداشتن
         [one] برداشتن
        *[other] برداشتن همه
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] حذف
+       *[other] حذف همه
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -134,6 +149,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] این اقدام گذرواژه ذخیره‌شده در { -brand-short-name } را از همه دستگاه‌های همگام‌شده شما حذف کرده و تمام هشدارهای نقص امنیتی را پاک می‌کند. این عمل قابل بازگشت نیست.
         [one] این اقدام تمام گذرواژه‌های ذخیره‌شده در { -brand-short-name } را از همه دستگاه‌های همگام‌شده شما حذف کرده و تمام هشدارهای نقص امنیتی را پاک می‌کند. این عمل قابل بازگشت نیست.
        *[other] این اقدام تمام گذرواژه‌های ذخیره‌شده در { -brand-short-name } را از همه دستگاه‌های همگام‌شده شما حذف کرده و تمام هشدارهای نقص امنیتی را پاک می‌کند. این عمل قابل بازگشت نیست.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] این کار آن را از { -brand-short-name } در همهٔ دستگاه‌هایی که گذرواژه‌هایتان را همگام می‌کنند حذف می‌کند. این کار برگشت‌پذیر نیست.
+       *[other] این کار آن‌ها را از { -brand-short-name } در همهٔ دستگاه‌هایی که گذرواژه‌هایتان را همگام می‌کنند حذف می‌کند. این کار برگشت‌پذیر نیست.
     }
 contextual-manager-passwords-origin-label = تارنما
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -178,12 +200,16 @@ contextual-manager-passwords-radiobutton-all = همه ({ $total })
 contextual-manager-passwords-radiobutton-alerts = هشدارها ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = گذرواژه حذف شود؟
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = گذرواژه حذف شود؟
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = نمی‌توانید این کار را برگردانید.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = بازگشت
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = برداشتن
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = حذف
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = لغو
 contextual-manager-passwords-alert-card =
@@ -214,6 +240,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = به‌روزرسانی رمز عبور
 contextual-manager-passwords-remove-label =
+    .title = حذف گذرواژه
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = حذف گذرواژه
 contextual-manager-passwords-origin-field =
     .label = نشانی پایگاه
@@ -330,6 +359,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] بله، گذرواژه را حذف کنید
         [one] بله، گذرواژه‌ها را حذف کنید
        *[other] بله، گذرواژه‌ها را حذف کنید
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] بله، گذرواژه حذف شود
+       *[other] بله، گذرواژه‌ها حذف شوند
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = برای مشاهده گذرواژه‌های ذخیره شده، رمز اصلی خود را وارد کنید.

@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = با انتخاب HuggingChat، شما �
 genai-settings-chat-lechat-links-2 = با انتخاب Mistral Vibe، شما با <a data-l10n-name="link1">شرایط خدمات</a> و <a data-l10n-name="link2">سیاست حفظ حریم خصوصی</a> Mistral AI موافقت می‌کنید.
 genai-settings-chat-lechat-links = با انتخاب Le Chat Mistral، شما با <a data-l10n-name="link1">شرایط خدمات</a> و <a data-l10n-name="link2">سیاست حفظ حریم خصوصی</a> Mistral AI موافقت می‌کنید.
 genai-settings-chat-localhost-links = چت‌بات محلی و اختصاصی خود مانند <a data-l10n-name="link1">llamafile</a> را از گروه نوآوری { -vendor-short-name } اضافه کنید.
+genai-settings-chat-scout-links = با انتخاب Yahoo Scout، <a data-l10n-name="link1">شرایط خدمات</a> و <a data-l10n-name="link2">سیاست حفظ حریم خصوصی</a> Yahoo را می‌پذیرید.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -73,9 +74,14 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = کپی متن انتخاب‌شده
     .tooltiptext = کپی متن انتخاب‌شده
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = رونوشت شد
 genai-shortcut-more-actions-button =
     .aria-label = گزینه‌های بیشتر
     .tooltiptext = گزینه‌های بیشتر
+genai-more-actions-panel =
+    .aria-label = انتخاب کنش‌هایی که نمایش داده شوند
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = پرسش از { $provider }
