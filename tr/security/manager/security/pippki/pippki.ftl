@@ -14,6 +14,8 @@ change-password-token = Güvenlik aygıtı: { $tokenName }
 change-password-old = Mevcut parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
+change-password-not-set =
+    .value = (ayarlanmadı)
 pippki-failed-pw-change = Parola değiştirilemedi.
 pippki-incorrect-pw = Mevcut parolanızı doğru şekilde girmediniz. Lütfen yeniden deneyin.
 pippki-pw-change-ok = Parola başarıyla değiştirildi.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifika yedek parolası (tekrar):
 set-password-reminder = Önemli: Sertifika yedek parolanızı unutursanız bu yedeği daha sonra geri yükleyemezsiniz. Lütfen bunu güvenli bir yere kaydedin.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

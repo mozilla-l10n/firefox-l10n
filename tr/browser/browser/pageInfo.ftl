@@ -110,6 +110,11 @@ security-view-technical =
     .value = Teknik ayrıntılar
 help-button =
     .label = Yardım
+security-technical-encrypted-page = Bu sayfa size ulaşmadan önce şifrelendi.
+security-technical-encrypted-description = Şifreleme, bilgisayarlar arasındaki bilgi alışverişinin yetkisi olmayan üçüncü kişilerce görülmesini zorlaştırır. Dolayısıyla açtığınız bu sayfanın ağ üzerinde dolaşırken birileri tarafından görülme olasılığı çok azdır.
+security-technical-mixed-content-description = Görüntülediğiniz sayfanın bazı kısımları, internet üzerinden aktarılmadan önce şifrelenmemiş.
+security-technical-weak-cipher = Bu web sitesine bağlantınız zayıf şifreleme kullanıyor ve size özel değil. Başkaları bilgilerinizi görebilir veya web sitesinin davranışını değiştirebilir.
+security-technical-ct-compliant = Bu web sitesi, Sertifika Şeffaflığı ilkesine uygundur.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Evet, çerezler ve { $value } { $unit } site verisi
 security-site-data-only = Evet, { $value } { $unit } site verisi
 security-site-data-cookies-only = Evet, çerezler
 security-site-data-no = Hayır
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Bağlantı kısmen şifrelenmiş
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Bağlantı şifrelenmiş ({ $algorithm }, { $keySize } bit anahtarlar, { $protocol })
+security-technical-broken-encryption =
+    .value = Kırılmış şifreleme ({ $algorithm }, { $keySize } bit anahtarlar, { $protocol })
 
 ##
 
