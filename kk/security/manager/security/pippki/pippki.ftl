@@ -14,6 +14,8 @@ change-password-token = Қорғаныс құрылғысы: { $tokenName }
 change-password-old = Ағымдағы пароль:
 change-password-new = Жаңа пароль:
 change-password-reenter = Жаңа пароль (қайтадан):
+change-password-not-set =
+    .value = (орнатылмаған)
 pippki-failed-pw-change = Парольді өзгерту мүмкін емес.
 pippki-incorrect-pw = Сіз ағымдағы парольді қате енгіздіңіз. Қайтадан енгізіп көріңіз.
 pippki-pw-change-ok = Пароль сәтті өзгертілді.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Сертификатты қалпына келтіру паролі(қайтадан):
 set-password-reminder = Маңызды: Егер сертификатты қалпына келтіру паролін жоғалтсаңыз, кейін оны қалпына келтіре алмайсыз.  Парольді қауіпсіз жерге жазыңыз.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
