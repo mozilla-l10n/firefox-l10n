@@ -166,6 +166,16 @@ contextual-manager-passwords-remove-all-message-sync =
         [few] To { $total } gronidła wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych rědach a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
        *[other] To { $total } gronidłow wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych rědach a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] To jo z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
+        [one] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
+        [two] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
+        [few] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
+       *[other] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
+    }
 contextual-manager-passwords-origin-label = Websedło
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Wužywaŕske mě
@@ -211,12 +221,16 @@ contextual-manager-passwords-radiobutton-all = Wšykne ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Warnowanja ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Gronidło wótwónoźeś?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Gronidło lašowaś?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Njamóžośo to anulěrowaś.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Slědk
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Wótwónoźeś
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Lašowaś
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Pśetergnuś
 contextual-manager-passwords-alert-card =
@@ -248,6 +262,9 @@ contextual-manager-passwords-update-label =
     .label = Gronidło aktualizěrowaś
 contextual-manager-passwords-remove-label =
     .title = Gronidło wótwónoźeś
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Gronidło lašowaś
 contextual-manager-passwords-origin-field =
     .label = Adresa websedła
     .placeholder = https://www.example.com

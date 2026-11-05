@@ -1374,6 +1374,8 @@ newtab-sports-widget-group-stage = Grupu posms
 newtab-sports-widget-group-a = A grupa
 newtab-sports-widget-group-b = B grupa
 newtab-sports-widget-group-c = C grupa
+newtab-sports-widget-group-d = D grupa
+newtab-sports-widget-group-e = E grupa
 newtab-sports-widget-results = Iznākums
 
 ## World Cup wallpaper OMC messages

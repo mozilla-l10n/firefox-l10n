@@ -141,9 +141,9 @@ contextual-manager-passwords-remove-all-confirm-button =
 contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
         [1] Zhašeć
-        [one] { $total } zhašeć
-        [two] { $total } zhašeć
-        [few] { $total } zhašeć
+        [one] Zhašeć
+        [two] Wobě zhašeć
+        [few] Wšě zhašeć
        *[other] Wšě zhašeć
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
