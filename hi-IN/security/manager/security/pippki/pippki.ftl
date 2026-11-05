@@ -30,6 +30,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = प्रमाणपत्र डाउनलोड कर रहा है
 download-cert-message = आपको एक नया सर्टिफिकेट ऑथोरिटी (CA) पर विश्वास के लिये पूछा जायेगा.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = निम्न उद्देश्य के लिये क्या आप "{ $caName }" पर विश्वास करना चाहते हैं?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = प्रमाणपत्र प्राधिकार (अनाम)
 download-cert-trust-ssl =
     .label = इस CA को भरोसा करें वेबसाइट को पहचानने के लिये.
 download-cert-trust-email =
@@ -80,6 +85,7 @@ set-password-reminder = Important: अगर आप अपना प्रमा
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = पासवर्ड यहां डालें जो कि इस प्रमाणपत्र के गोपन के लिये प्रयुक्त होता है:
 
 ## Protected authentication dialog
 

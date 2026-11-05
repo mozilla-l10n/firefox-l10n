@@ -104,6 +104,11 @@ security-view-technical =
     .value = तकनीकी विवरण‌
 help-button =
     .label = मदद‌
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = वेब साइट { $website } आपके द्वारा देखे जा रहे पृष्ठ के लिये गोपन का समर्थन नहीं करता है.
+security-technical-no-encryption-transit = बिना गोपन के इंटरनेट पर भेजी गई सूचना को अन्य लोगों के द्वारा परिवहन के क्रम में देखा जा सकता है.
+security-technical-no-encryption-page = आपके द्वारा देखा जा रहा पृष्ठ इन्टरनेट पर प्रसारित किये जाने से पहले एनक्रिप्टेड नहीं था.
 security-technical-encrypted-page = आपके द्वारा देखा जा रहा पृष्ठ गोपित था जब इंटरनेट पर भेजा जा रहा था.
 security-technical-encrypted-description = गोपन अनधिकृत लोगों के लिये कंप्यूटर के बीच सूचना परिवहन को देखने को इसे कठिन बनाता है. इसलिये यह लगभग संभव नहीं है कि कोई इसे संजाल पर परिवहन के दौरान पढ़ ले.
 security-technical-mixed-content-description = इंटरनेट पर भेजे जाने के पहले आपके द्वारा देखे जा रहे पन्ने का कुछ हिस्सा गोपित नहीं था.
@@ -123,6 +128,8 @@ security-site-data-no = नहीं
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = कनेक्शन गोपित नहीं है
 security-technical-mixed-content =
     .value = कनेक्शन अंशतः गोपित
 
