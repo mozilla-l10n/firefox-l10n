@@ -14,6 +14,8 @@ change-password-token = Saugumo priemonė: { $tokenName }
 change-password-old = Dabartinis slaptažodis:
 change-password-new = Naujas slaptažodis:
 change-password-reenter = Naujas slaptažodis (pakartoti):
+change-password-not-set =
+    .value = (nėra)
 pippki-failed-pw-change = Nepavyko pakeisti slaptažodžio.
 pippki-incorrect-pw = Neteisingai surinkote dabartinį slaptažodį. Bandykite dar kartą.
 pippki-pw-change-ok = Slaptažodis sėkmingai pakeistas.
@@ -86,3 +88,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Liudijimo atsarginės kopijos slaptažodis (pakartoti):
 set-password-reminder = Svarbu. Jei pamiršite atsarginės kopijos slaptažodį, jo atkurti negalėsite. Todėl jį užsirašykite ir paslėpkite saugioje vietoje.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

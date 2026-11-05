@@ -104,6 +104,11 @@ security-view-technical =
     .value = Techninė informacija
 help-button =
     .label = Žinynas
+security-technical-encrypted-page = Peržiūrimas tinklalapis buvo užšifruotas prieš persiunčiant jį internetu.
+security-technical-encrypted-description = Šifravimas apsaugo tinklu siunčiamus duomenis nuo pašalinių asmenų. Dėl šios priežasties mažai tikėtina, kad kas nors galėjo perskaityti šį tinklalapį, kol jis keliavo tinklu.
+security-technical-mixed-content-description = Peržiūrimo tinklalapio dalys nebuvo užšifruotos prieš siunčiant jas internetu.
+security-technical-weak-cipher = Jūsų ryšys su šia svetaine naudoja silpną šifravimą ir nėra privatus. Pašaliniai asmenys gali matyti jūsų duomenis ir keisti svetainės elgseną.
+security-technical-ct-compliant = Ši svetainė laikosi liudijimų skaidrumo nuostatų.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +120,21 @@ security-site-data-cookies = Taip, slapukų ir { $value } { $unit } svetainės d
 security-site-data-only = Taip, { $value } { $unit } svetainės duomenų
 security-site-data-cookies-only = Taip, slapukų
 security-site-data-no = Ne
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Iš dalies šifruotasis ryšys
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Ryšys užšifruotas ({ $algorithm },{ $keySize } bitų raktai, { $protocol })
+security-technical-broken-encryption =
+    .value = Neveikiantis šifravimas ({ $algorithm }, { $keySize } bitų raktai, { $protocol })
 
 ##
 
