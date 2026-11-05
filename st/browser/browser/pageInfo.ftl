@@ -48,6 +48,7 @@ media-save-as =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = Setsha sa inthanete sa { $website } ha se tshehetse ho enkriptwa bakeng sa leqephe leo o le shebileng.
+security-technical-no-encryption-transit = Tlhahisoleseding e rometsweng ka inthanete e sa enkriptwa e ka bonwa ke batho ba bang ha e le tseleng.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -60,6 +61,8 @@ security-technical-no-encryption-website = Setsha sa inthanete sa { $website } h
 
 security-technical-no-encryption =
     .value = Kgokelo Ha e a Enkriptwa
+security-technical-mixed-content =
+    .value = Connection Partially Encrypted
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")

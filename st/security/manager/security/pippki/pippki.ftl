@@ -12,6 +12,8 @@ change-password-token = Sesebediswa sa Tshireletseho: { $tokenName }
 change-password-old = Phasewete ya Hajwale:
 change-password-new = Phasewete e ntjha:
 change-password-reenter = Phasewete e ntjha (hape):
+change-password-not-set =
+    .value = (ha e a setwa)
 
 ## Reset Primary Password dialog
 
