@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = 從另一套瀏覽器
 contextual-manager-passwords-command-import = 從檔案匯入…
 contextual-manager-passwords-command-export = 匯出密碼
 contextual-manager-passwords-command-remove-all = 刪除所有密碼
+contextual-manager-passwords-command-delete-all = 刪除所有密碼
 contextual-manager-passwords-command-options = 選項
 contextual-manager-passwords-command-help = 說明
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,9 @@ contextual-manager-passwords-remove-all-title =
         [1] 要刪除密碼嗎？
        *[other] 要刪除全部共 { $total } 筆密碼嗎？
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title = 要刪除 { $total } 筆密碼嗎？
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -116,6 +120,13 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] 移除
        *[other] 移除全部
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] 刪除
+       *[other] 全部刪除
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -173,12 +184,16 @@ contextual-manager-passwords-radiobutton-all = 全部（{ $total }）
 contextual-manager-passwords-radiobutton-alerts = 警報（{ $total }）
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 要移除密碼嗎？
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = 要刪除密碼嗎？
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = 無法還原此動作。
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = 返回
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = 移除
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = 刪除
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = 取消
 contextual-manager-passwords-alert-card =
@@ -209,6 +224,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = 已更新密碼
 contextual-manager-passwords-remove-label =
+    .title = 刪除密碼
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = 刪除密碼
 contextual-manager-passwords-origin-field =
     .label = 網站網址
@@ -322,6 +340,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] 好，請移除密碼
        *[other] 好，請移除密碼
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] 好，請刪除密碼
+       *[other] 好，請刪除密碼
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = 若要檢視您儲存的密碼，請先輸入主控密碼。

@@ -184,6 +184,9 @@ newtab-privacy-empty-state = { -brand-short-name } 會自動封鎖追蹤器，�
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = 可在這裡確認數量變動。
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = 追蹤器更少，上網更快速。
+newtab-privacy-empty-state-small-message = 隨您上網就會開始自動封鎖。
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1396,6 +1399,12 @@ newtab-widget-menu-move-left = 置左
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = 置右
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = 首頁
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = 小工具
 newtab-widget-size-small = 小
 newtab-widget-size-medium = 中
 newtab-widget-size-large = 大

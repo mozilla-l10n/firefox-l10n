@@ -400,6 +400,8 @@ tab-groups-onboarding-session-restore-title-3 = 隨時從「搜尋與管理分�
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = 隨時從「列出所有分頁」選單重新開啟分頁群組。
 tab-groups-onboarding-dismiss = 確定
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = 會自動儲存分頁群組，可在此處找到它們。
 
 ## Multi Profiles feature onboarding messages
 
@@ -625,3 +627,30 @@ welcome-back-onboarding-card-label-tabs = 透過垂直分頁與群組，讓分�
 welcome-back-onboarding-card-label-vpn = 透過內建 VPN 保持隱藏狀態
 welcome-back-onboarding-card-label-pdf = 為 PDF 檔案內容畫螢光筆、簽名並編輯內容
 welcome-back-onboarding-card-tilebutton-label = 試試看
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = 只要幾秒鐘就能設定好 { -brand-short-name }
+hnt-card-import-primary-button = 匯入您的資料
+hnt-card-default-primary-button = 用 { -brand-short-name } 開啟鏈結
+hnt-card-pin-header = 滑鼠一點即可開啟 { -brand-short-name }
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] 從 Dock 跳回受保護的瀏覽功能。
+       *[other] 從工作列跳回受保護的瀏覽功能。
+    }
+hnt-card-mobile-body = 下載 { -brand-product-name } 行動版，讓您隨時隨地上網都有更多隱私保護。
+hnt-card-mobile-primary-button = 下載 { -brand-product-name } 行動版。
+hnt-card-wallpaper-header = 挑選全新背景圖
+hnt-card-wallpaper-body = 選擇您喜愛的背景，讓這個畫面更有家的感覺。
+hnt-card-wallpaper-primary-button = 開始自訂
+hnt-card-taskbar-tabs-header = 將您最愛的網站新增至 Windows 工作列
+hnt-card-taskbar-tabs-body = 像使用應用程式一樣開啟您最常造訪的網站，同時享有 { -brand-product-name } 的完整保護。
+hnt-card-taskbar-tabs-primary-button = 將網站新增至工具列
+hnt-card-extensions-header = 使用擴充套件加強 { -brand-short-name } 功能
+hnt-card-extensions-body = 使用我們最受歡迎的擴充套件，打造專屬於您的個人化上網體驗。
+hnt-card-extensions-primary-button = 探索
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = 一切準備就緒，做您有興趣的事情。
+hnt-card-last-card-header-end = 追蹤保護功能已開啟。

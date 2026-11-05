@@ -374,3 +374,7 @@ restored-from-backup-success-with-checklist-primary-button = Sekles syen kemmel
 restored-from-backup-success-with-checklist-secondary-button = Zgel amecwaṛ-a
 restored-from-backup-success-no-checklist-primary-button = Kemmel
 restored-from-backup-error-primary-button = Mdel
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Kter isefka-k
