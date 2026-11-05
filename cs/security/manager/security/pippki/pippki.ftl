@@ -14,6 +14,8 @@ change-password-token = Bezpečnostní zařízení: { $tokenName }
 change-password-old = Současné heslo:
 change-password-new = Nové heslo:
 change-password-reenter = Nové heslo (znovu):
+change-password-not-set =
+    .value = (není nastaveno)
 pippki-failed-pw-change = Heslo nelze změnit.
 pippki-incorrect-pw = Nezadali jste správně stávající heslo. Zkuste to prosím znovu.
 pippki-pw-change-ok = Heslo bylo úspěšně změněno.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Heslo zálohy certifikátu (znovu):
 set-password-reminder = Důležité: Pokud zapomenete svoje heslo zálohy certifikátu, nebude později možno tuto zálohu obnovit. Heslo si poznamenejte na BEZPEČNÉ místo.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

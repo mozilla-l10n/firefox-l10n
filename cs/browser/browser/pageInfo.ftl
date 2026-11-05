@@ -110,6 +110,11 @@ security-view-technical =
     .value = Technické detaily
 help-button =
     .label = Nápověda
+security-technical-encrypted-page = Zobrazená stránka byla před přenesením přes internet zašifrována.
+security-technical-encrypted-description = Šifrování znesnadňuje neoprávněným osobám vidět informace putující mezi dvěma počítači. Je proto nepravděpodobné, že někdo tuto stránku během její cesty po síti četl.
+security-technical-mixed-content-description = Části zobrazené stránky nebyly před přenesením přes internet zašifrovány.
+security-technical-weak-cipher = Vaše spojení s tímto serverem používá slabé šifrování a není soukromé. Ostatní lidé mohou vidět přenášené informace nebo pozměnit chování stránky.
+security-technical-ct-compliant = Tato webová stránka je v souladu s podmínkami Certificate Transparency.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Ano, cookies a { $value } { $unit } dat
 security-site-data-only = Ano, { $value } { $unit } dat
 security-site-data-cookies-only = Ano, cookies
 security-site-data-no = Ne
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Spojení je částečně šifrované
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Spojení je šifrované ({ $algorithm }, { $keySize } bitové klíče, { $protocol })
+security-technical-broken-encryption =
+    .value = Prolomené šifrování ({ $algorithm }, { $keySize } bitové klíče, { $protocol })
 
 ##
 
