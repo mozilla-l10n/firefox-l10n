@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Təsdiq sənədi yüklənir
 download-cert-message = Yeni bir təsdiqləmə sertifikatı (CA) təhlükəsizliyi istədiniz.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Bu məqsədlər üçün "{ $caName }" təsdiq sənədinə etibar etmək istəyirsiniz?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Təsdiq sənədi rəsmisi (adsız)
 download-cert-trust-ssl =
     .label = Saytları təyin etmək üçün bu təsdiqləmə sertifikatına etibar et.
 download-cert-trust-email =
@@ -76,6 +81,7 @@ set-password-reminder = Vacib: Əgər təsdiq sənədi yedəyi parolunuzu unutsa
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Lütfən bu sertifikatın yedəyini şifrələmək üçün istifadə ediləcək parolu daxil edin:
 
 ## Protected authentication dialog
 
