@@ -163,6 +163,13 @@ about-glean-metrics-table-settings-timelines-circle-radius = Шеңбер рад
 about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y осінің X ығысуы
 # The offset on the y-axis from the x-axis for the y-axis line
 about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y осінің Y ығысуы
+# label: Displayed near an input field that can be used to filter metrics
+# description: This message sits alongside an input field, further describing its purpose. Category refers to the category in which a given metric is recorded. Name refers to the name of a given metric. Type refers to a given metric's metric type. Value refers to the underlying value of a given metric. "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+# placeholder: Search is a verb in this case
+about-glean-filter-metrics =
+    .description = Бұл төмендегі кестені санат, ат, түр және мән (егер мән қарапайым түр болса) бойынша сүзгілейді.
+    .label = Метрикаларды сүзгілеу
+    .placeholder = Іздеу
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Сүзгі
 # This message sits alongside an input field, further describing its purpose.

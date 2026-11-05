@@ -34,6 +34,14 @@ about-processes-collapse-site =
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-unload-site =
     .title = Выгрузить вкладки сайта { $site }
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Обновить вкладки с сайта { $site }
+about-processes-expand-all-sites =
+    .title = Развернуть все
+about-processes-collapse-all-sites =
+    .title = Свернуть все
 about-processes-go-to-tab =
     .title = Перейти на вкладку
 # Profiler icons
@@ -47,6 +55,18 @@ about-processes-profile-process =
             [few] Профилировать все потоки этого процесса в течение { $duration } секунд
            *[many] Профилировать все потоки этого процесса в течение { $duration } секунд
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Поиск во вкладках
+    .placeholder = Поиск во вкладках
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Не найдено вкладок, соответствующих «{ $query }»
 
 ## Column headers
 
@@ -149,6 +169,37 @@ about-processes-tab-count =
         [few] { $count } вкладки
        *[many] { $count } вкладок
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] Выбрано { $count } вкладка
+        [few] Выбрано { $count } вкладки
+       *[many] Выбрано { $count } вкладок
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } вкладка)
+        [few] ({ $count } вкладки)
+       *[many] ({ $count } вкладок)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Отменить выбор
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Выгрузить
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Обновить
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Закрыть
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -200,6 +251,10 @@ about-processes-cpu-fully-idle = неактивен
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = простой
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
 # Special case: a positive tab-view CPU share below its two-decimal display precision.
 about-processes-tab-cpu-almost-idle2 = < 0.01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.

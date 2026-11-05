@@ -18,6 +18,17 @@ about-processes-shutdown-tab =
     .title = Бетті жабу
 about-processes-unload-tab =
     .title = Бетті жадыдан босату
+about-processes-reload-tab =
+    .title = Бетті қайта жүктеу
+about-processes-select-all-tabs =
+    .title = Барлық беттерді таңдау
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Бұл сайттың беттерін жазық қылу
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Бұл сайттың беттерін жию
 about-processes-go-to-tab =
     .title = Бетке өту
 # Profiler icons
