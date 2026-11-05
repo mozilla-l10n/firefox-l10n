@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Hämtar certifikat
 download-cert-message = En ny Certifikatutfärdare(CA) vill ha ditt godkännande.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vill du lita på “{ $caName }” för följande syften?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikatutfärdare (namnlös)
 download-cert-trust-ssl =
     .label = Lita på denna CA för identifiering av webbplatser.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Viktigt: Om du glömmer detta lösenord kommer du inte a
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Ange det lösenord som användes för att kryptera denna backup av certifikat:
 
 ## Protected authentication dialog
 
