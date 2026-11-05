@@ -12,6 +12,8 @@ change-password-token = Saajaw jinay: { $tokenName }
 change-password-old = Sohõda šennikufal
 change-password-new = Šennikufal taaga:
 change-password-reenter = Šennikufal taaga (koyme):
+change-password-not-set =
+    .value = (mana hanseyandi)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Tabatiyan-tiira banda-gaabu šennikufal (koyne):
 set-password-reminder = Hawgay: Nda war dirŋa war tabatiyan-tiira banda-gaabu šennikufaloo, war ši hin ka willi kate koyne hiino.  Taare w'a jiši doo saajantaa ra.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
