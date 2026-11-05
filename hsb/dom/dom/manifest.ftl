@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = ID-čłon njeje so do płaćiweho URL rozpušćił.
+dom-manifest-id-not-same-origin = ID-čłon dyrbi samsny pochad kaž čłon start_url měć.
+dom-manifest-should-be-object = Manifest měł objekt być.
+dom-manifest-scope-url-invalid = URL-wobwod je njepłaćiwy.
+dom-manifest-scope-not-same-origin = URL-wobwod dyrbi samsny pochad kaž dokument měć.
+dom-manifest-start-url-outside-scope = Startowy URL je zwonka wobwoda, tak zo wobwod je njepłaćiwy.
+dom-manifest-start-url-invalid = Startowy URL je njepłaćiwy.
+dom-manifest-start-url-should-be-same-origin = Startowy URL dyrbi samsny pochad kaž dokument měć.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
