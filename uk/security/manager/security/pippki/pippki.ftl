@@ -14,6 +14,8 @@ change-password-token = Пристрій захисту: { $tokenName }
 change-password-old = Поточний пароль:
 change-password-new = Новий пароль:
 change-password-reenter = Новий пароль (ще раз):
+change-password-not-set =
+    .value = (не встановлено)
 pippki-failed-pw-change = Не вдається змінити пароль.
 pippki-incorrect-pw = Ви ввели неправильний поточний головний пароль. Спробуйте ще раз.
 pippki-pw-change-ok = Пароль змінено.
@@ -98,3 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Пароль резервної копії (ще раз):
 set-password-reminder = Увага: якщо ви забудете ваш пароль резервної копії сертифіката, ви не зможете відновити цю резервну копію пізніше. Цю інформацію треба зберігати в безпечному місці.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

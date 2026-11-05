@@ -110,6 +110,11 @@ security-view-technical =
     .value = Технічні подробиці
 help-button =
     .label = Допомога
+security-technical-encrypted-page = Сторінка, яку ви переглядаєте, була зашифрована перед тим, як була передана через Інтернет.
+security-technical-encrypted-description = Шифрування значно ускладнює перегляд інформації, що передається між комп'ютерами, сторонніми особами. Тому малоймовірно, що хтось зможе прочитати цю сторінку під час її передавання в мережі.
+security-technical-mixed-content-description = Частини сторінки, яку ви переглядаєте, не були зашифровані перед їх передаванням в Інтернеті.
+security-technical-weak-cipher = Ваше з'єднання з цим вебсайтом використовує слабке шифрування і не є приватним. Інші люди можуть переглядати вашу інформацію чи змінювати поведінку вебсайту.
+security-technical-ct-compliant = Цей вебсайт відповідає вимогам політики Прозорості Сертифікату.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Так, файли cookie та { $value } { $unit }
 security-site-data-only = Так, { $value } { $unit } даних сайтів
 security-site-data-cookies-only = Так, файли cookie
 security-site-data-no = Ні
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = З'єднання частково зашифроване
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = З'єднання зашифроване ({ $algorithm }, ключі { $keySize } біт, { $protocol })
+security-technical-broken-encryption =
+    .value = Пошкоджене шифрування ({ $algorithm }, довжина ключів { $keySize } біт, { $protocol })
 
 ##
 
