@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] Avbryt 1 nedlasting
        *[other] Avbryt { $downloadsCount } nedlastingar
     }
+download-ui-confirm-cancel-button = Avbryt
 
 ##
 

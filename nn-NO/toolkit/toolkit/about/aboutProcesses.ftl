@@ -18,6 +18,10 @@ about-processes-shutdown-tab =
     .title = Lat att fane
 about-processes-unload-tab =
     .title = Frigjer fane
+about-processes-select-all-tabs =
+    .title = Vel alle faner
+about-processes-expand-all-sites =
+    .title = Utvid alle
 about-processes-go-to-tab =
     .title = Gå til fane
 # Profiler icons
@@ -30,6 +34,14 @@ about-processes-profile-process =
             [one] Profilér alle trådane i denne prosessen i { $duration } sekund
            *[other] Profilér alle trådane i denne prosessen i { $duration } sekund
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Søk i faner
+    .placeholder = Søk i faner
 
 ## Column headers
 
@@ -129,6 +141,16 @@ about-processes-tab-count =
         [one] { $count } fane
        *[other] { $count } faner
     }
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Fjern
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Oppdater
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Lat att
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
