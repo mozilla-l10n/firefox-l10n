@@ -110,6 +110,11 @@ security-view-technical =
     .value = Tekniset tiedot
 help-button =
     .label = Ohje
+security-technical-encrypted-page = Tämä sivu salattiin ennen sen siirtoa.
+security-technical-encrypted-description = Salauksen vuoksi asiattomien on hyvin vaikea tarkastella tietokoneiden välillä siirtyvää tietoa. Siksi on epätodennäköistä, että kukaan luki tätä sivua sen siirtyessä verkon yli.
+security-technical-mixed-content-description = Osia avatusta sivusta ei salattu ennen sen siirtoa.
+security-technical-weak-cipher = Yhteytesi verkkosivustoon käyttää heikkoa salausta eikä sen takia ole yksityinen. Sivullisten on mahdollista tarkastella antamiasi tietoja tai vaikuttaa sivuston toimintaan.
+security-technical-ct-compliant = Tämä sivusto noudattaa varmenteiden avoimuuden (certificate transparency) käytäntöä.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Kyllä, evästeitä ja { $value } { $unit } sivusto
 security-site-data-only = Kyllä, { $value } { $unit } sivustotietoja
 security-site-data-cookies-only = Kyllä, evästeitä
 security-site-data-no = Ei
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Yhteys osittain salattu
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Yhteys salattu ({ $algorithm }, { $keySize }-bittinen avain, { $protocol })
+security-technical-broken-encryption =
+    .value = Rikkinäinen salaus ({ $algorithm }, { $keySize }-bittinen avain, { $protocol })
 
 ##
 

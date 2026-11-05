@@ -14,6 +14,8 @@ change-password-token = Turvallisuuslaite: { $tokenName }
 change-password-old = Nykyinen salasana:
 change-password-new = Uusi salasana:
 change-password-reenter = Uusi salasana (uudestaan):
+change-password-not-set =
+    .value = (ei ole asetettu)
 pippki-failed-pw-change = Salasanaa ei voitu vaihtaa.
 pippki-incorrect-pw = Väärä salasana. Yritä uudestaan.
 pippki-pw-change-ok = Salasana vaihdettiin onnistuneesti.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Varmenteen varmuuskopion salasana (uudelleen):
 set-password-reminder = Tärkeää: Jos varmenteen varmuuskopion salasana unohtuu, niin varmennetta ei voi palauttaa myöhemmin. Säilytä salasana turvallisessa paikassa.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
