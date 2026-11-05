@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Prenašanje digitalnega potrdila
 download-cert-message = Ali zaupate novemu overitelju?
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ali overitelju "{ $caName }" zaupate naslednja opravila?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Neimenovan overitelj
 download-cert-trust-ssl =
     .label = Overitelju zaupaj identifikacijo spletnih strani.
 download-cert-trust-email =
