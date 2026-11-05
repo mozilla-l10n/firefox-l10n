@@ -12,6 +12,8 @@ change-password-token = Zabezpieczającé ùrządzenié: { $tokenName }
 change-password-old = Aktualnô parola:
 change-password-new = Nowô parola:
 change-password-reenter = Nowô parola (jesz rôz):
+change-password-not-set =
+    .value = (nie nastôwioné)
 
 ## Reset Primary Password dialog
 

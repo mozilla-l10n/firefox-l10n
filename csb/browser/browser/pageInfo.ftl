@@ -93,6 +93,7 @@ security-view-technical =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = Serwer { $website } nie wspierô szifrowôniô dlô ti stronë.
+security-technical-no-encryption-transit = Nieszifrowóné pòdôwczi są widzawné przez jinëch, czéj są sélané przez séc.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -105,6 +106,8 @@ security-technical-no-encryption-website = Serwer { $website } nie wspierô szif
 
 security-technical-no-encryption =
     .value = Sparłãczenié nie je szifrowóné
+security-technical-mixed-content =
+    .value = Sparłãczenié je w dzélu szifrowóné
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
