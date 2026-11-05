@@ -14,6 +14,8 @@ change-password-token = Անվտանգութեան սարք: { $tokenName }
 change-password-old = Ընթացիկ գաղտնաբառը.
 change-password-new = Նոր գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին):
+change-password-not-set =
+    .value = (նշուած չէ)
 pippki-failed-pw-change = Հնարաւոր չէ փոխել գաղտնաբառը:
 pippki-incorrect-pw = Դուք չէք գրել ընթացիկ ճիշդ գաղտնաբառը: Խնդրում ենք փորձել կրկին:
 pippki-pw-change-ok = Գաղտնաբառը յաջողութեամբ փոխուել է:
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Վկայագրի բեռնում
 download-cert-message = Դուք հայց էք ստացել նոր վկայագրի հաստատման (CA) համար:
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ուզո՞ւմ էք վստահել "{ $caName }"-ին հետեւեալ նպատակի համար:
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Վկայագրման կենտրոն (անանուն)
 download-cert-trust-ssl =
     .label = Վստահել այս CA-ին՝ վեբկայքերի նոյնացման համար:
 download-cert-trust-email =
@@ -86,3 +93,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Վկայագրի կրկնաւրինակի գաղտնաբառը (կրկին).
 set-password-reminder = Կարեւոր է. Եթե մոռանաք ձեր վկայագրի կրկնաւրինակի գաղտնաբառը. չէք կարողանայ այս կրկնաւրինակն աւգտագործել: Խնդրանաւք, գրի առէք այն եւ ապահով տեղում պահէք:
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Խնդրեմ նշէք վկայագրի այս կրկնաւրինակը ծածկագրելու համար աւգտագործուած գաղտնաբառը:
+
+## Protected authentication dialog
+
