@@ -12,6 +12,8 @@ change-password-token = రక్షణ సాధనం: { $tokenName }
 change-password-old = ప్రస్తుత సంకేతపదం:
 change-password-new = కొత్త సంకేతపదం:
 change-password-reenter = కొత్త సంకేతపదం (మరలా):
+change-password-not-set =
+    .value = (అమర్చబడ లేదు)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
 download-cert-message = కొత్త ధృవీకరణపత్ర అధారిటీ (CA)ని నమ్మమని మీరు అడగబడుతున్నారు.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = క్రింది ప్రయోజనాల కొరకు “{ $caName }” ను నమ్మాలని అనుకొంటున్నారా?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ధృవీకరణపత్రం అధారిటీ (పేరులేదు)
 download-cert-trust-ssl =
     .label = వెబ్ సైట్లను గుర్తించడానికి ఈ CAను విశ్వసించు.
 download-cert-trust-email =
@@ -76,3 +83,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదం(మరలా):
 set-password-reminder = ముఖ్యమైనది: మీరు మీ ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదాన్ని మరిచిపోయినట్లైతే, మీరు ఈ బ్యాక్అప్‌ను తర్వాత తిరిగిపొందలేరు. దయచేసి దీనిని భద్రమైన స్థానమునందు వుంచుకోండి.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = ఈ ధృవీకరణపత్రం బ్యాకప్‌ను ఎన్క్రిప్టు చేయుటకు ఉపయోగించిన సంకేతపదమును ప్రవేశపెట్టుము:
+
+## Protected authentication dialog
+

@@ -14,6 +14,8 @@ change-password-token = Tryggingseining: { $tokenName }
 change-password-old = Gjeldande passord:
 change-password-new = Nytt passord:
 change-password-reenter = Nytt passord (igjen):
+change-password-not-set =
+    .value = (ikkje valt)
 pippki-failed-pw-change = Klarte ikkje å endre passord.
 pippki-incorrect-pw = Du skreiv ikkje inn rett gjeldande passord. Prøv på nytt.
 pippki-pw-change-ok = Passordet er endra.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Lastar ned sertifikat
 download-cert-message = Du har vorte beden om å stola på ei ny sertifikat-fullmakt (CA)
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vil du stola på «{ $caName }» for følgjande føremål?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifikatutskrivar (utan namn)
 download-cert-trust-ssl =
     .label = Stol på denne CA-en til å identifisere nettsider.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Passord for tryggingskopi (igjen):
 set-password-reminder = Viktig: Dersom du gløymer passordet til tryggingskopien, vil du ikkje kunne få tilbake innhaldet i tryggingskopien seinare. Skriv det ned på ein trygg stad.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Skriv inn passordet som vart brukt til å kryptera denne sertifikat-tryggingskopien:
 
 ## Protected authentication dialog
 

@@ -110,6 +110,16 @@ security-view-technical =
     .value = Тафсилоти техникӣ
 help-button =
     .label = Кумак
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Сомонаи { $website } рамзгузориро барои саҳифае, ки шумо тамошо карда истодаед, дастгирӣ намекунад.
+security-technical-no-encryption-transit = Иттилооте, ки тавассути Интернет бе рамзгузорӣ фиристода мешавад, метавонад ҳангоми интиқолдиҳӣ аз тарафи одамони дигар дида шавад.
+security-technical-no-encryption-page = Саҳифае, ки шумо тамошо карда истодаед, пеш аз интиқол тавассути Интернет рамзгузорӣ карда нашудааст.
+security-technical-encrypted-page = Саҳифае, ки шумо тамошо карда истодаед, пеш аз интиқол тавассути Интернет рамзгузорӣ карда шудааст.
+security-technical-encrypted-description = Рамзгузорӣ барои одамони беиҷозат дидани иттилоотеро, ки байни компютерҳо интиқол дода мешавад, душвор мекунад. Бинобар ин, аз эҳтимол дур аст, ки касе метавонад ин саҳифаро ҳангоми интиқолдиҳии он дар шабака аз назар гузаронад.
+security-technical-mixed-content-description = Қисмҳои саҳифае, ки шумо тамошо карда истодаед, пеш аз интиқол тавассути Интернет рамзгузорӣ карда шудаанд.
+security-technical-weak-cipher = Пайвастшавии шумо бо ин сомона аз рамзгузории заиф истифода мебарад ва махфӣ намебошад. Одамони дигар метавонанд маълумоти шуморо бинанд ё рафтори сомонаро иваз кунанд.
+security-technical-ct-compliant = Ин сомона ба талаботи сиёсати «Шаффофияти гувоҳнома» мувофиқат мекунад.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Ҳа, кукиҳо ва { $value } { $unit } итт
 security-site-data-only = Ҳа, { $value } { $unit } иттилооти сомона
 security-site-data-cookies-only = Ҳа, кукиҳо
 security-site-data-no = Не
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Пайвастшавӣ рамзгузорӣ нашудааст
+security-technical-mixed-content =
+    .value = Пайвастшавӣ қисман рамзгузорӣ шудааст
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Пайвасти рамзгузоришуда ({ $algorithm }, дарозии калидҳо { $keySize } бит, { $protocol })
+security-technical-broken-encryption =
+    .value = Рамзгузории ноустувор ({ $algorithm }, дарозии калидҳо { $keySize } бит, { $protocol })
 
 ##
 

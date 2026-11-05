@@ -9,6 +9,19 @@ password-quality-meter = پێوەری بەهێزی تێپەڕە وشە
 change-device-password-window =
     .title = گۆڕینی تێپەڕە وشە
 change-password-old = تێپەڕە وشەی ئێستا:
+change-password-not-set =
+    .value = (ئامادە نەکراوە)
+
+## Reset Primary Password dialog
+
+
+## Downloading cert dialog
+
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = دەتەوێت “{ $caName }” بخەیتە لیستی باوەڕپێکراوەکانەوە بۆ ئەم مەبەستانەی خوارەوە؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = دەسەڵایی بڕوانامە (بێ ناو)
 
 ## Client Authentication Ask dialog
 
@@ -34,3 +47,13 @@ client-auth-cert-details-issued-by = نێردراوە لەلایەن: { $issuedB
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = هەڵگیراوە لە: { $storedOn }
+
+## Set password (p12) dialog
+
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = تکایە وشەی تێپەڕبوون کە بەکارهێنرابوو بۆ کلیلیدانی ئەم پاڵپشتییە(باکئەپ):
+
+## Protected authentication dialog
+

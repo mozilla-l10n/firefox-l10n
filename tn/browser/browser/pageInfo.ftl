@@ -5,11 +5,9 @@
 menu-copy =
     .label = Kopolola
     .accesskey = K
-
 menu-select-all =
     .label = Tlhopha Gotlhe
     .accesskey = G
-
 general-type =
     .value = Mofuta:
 general-mode =
@@ -22,7 +20,6 @@ general-modified =
     .value = Fetotswe:
 general-meta-content =
     .label = Diteng
-
 media-location =
     .value = Lefelo:
 media-alt-header =
@@ -31,23 +28,33 @@ media-count =
     .label = Palelo
 media-long-desc =
     .value = Tlhaloso e Telele:
-
 security-view-unknown = Ga e itsiwe
     .value = Ga e itsiwe
 security-view-identity-verifier =
     .value = E netefaditswe ke:
-
 security-view-technical =
     .value = Ditshetlana tsa Botegeniki
-
 help-button =
     .label = Thusa
+security-technical-encrypted-page = Tsebe e o e lebileng e sireleditswe pele ga e ka romelwa ka Inthanete.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Kgolagano Ga e a Sirelediwa
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -65,7 +72,6 @@ media-input = Tsenyeletso
 media-video = Video
 saved-passwords-yes = Ee
 saved-passwords-no = Nnyaa
-
 no-page-title =
     .value = Tsebe e e senang Leina:
 general-quirks-mode =

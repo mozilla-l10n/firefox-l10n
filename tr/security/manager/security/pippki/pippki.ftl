@@ -14,6 +14,8 @@ change-password-token = Güvenlik aygıtı: { $tokenName }
 change-password-old = Mevcut parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
+change-password-not-set =
+    .value = (ayarlanmadı)
 pippki-failed-pw-change = Parola değiştirilemedi.
 pippki-incorrect-pw = Mevcut parolanızı doğru şekilde girmediniz. Lütfen yeniden deneyin.
 pippki-pw-change-ok = Parola başarıyla değiştirildi.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sertifika indiriliyor
 download-cert-message = Yeni bir Sertifika Makamına (CA) güvenmeniz istendi.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Aşağıdaki amaçlarla “{ $caName }” sertifikasına güvenmek istiyor musunuz?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifika Makamı (isimsiz)
 download-cert-trust-ssl =
     .label = Web sitelerini tanımlamak için bu CA’ya güven.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifika yedek parolası (tekrar):
 set-password-reminder = Önemli: Sertifika yedek parolanızı unutursanız bu yedeği daha sonra geri yükleyemezsiniz. Lütfen bunu güvenli bir yere kaydedin.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Lütfen bu sertifika yedeğini şifrelemek için kullanılan parolayı girin:
 
 ## Protected authentication dialog
 

@@ -12,6 +12,8 @@ change-password-token = Xitirhisiwa xa nhlayiseko: { $tokenName }
 change-password-old = Phasiwedi ya sweswi:
 change-password-new = Phasiwedi yintshwa:
 change-password-reenter = Phasiwedi yintshwa (nakambe):
+change-password-not-set =
+    .value = (lulamisiwangi)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .title = Panga switifiketi
     .style = min-width: 46em
 download-cert-message = U komberiwile ku tshemba Mpfumelelo wa Xitifiketi (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = U lava ku tshemba "{ $caName }" hikwalaho ka swikongomelo leswi landzelaka?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Mpfumelelo wa Switifiketi (a wu tiveki)
 download-cert-trust-ssl =
     .label = Tshemba mpfumelelo lowu wa CA xitifiketi ku kuma masayiti ya web.
 download-cert-trust-email =
@@ -32,8 +39,6 @@ download-cert-message-desc = U nga si tshemba mpfumelelo lowu wa CA xitifiketi, 
 download-cert-view-cert =
     .label = Languta
 download-cert-view-text = Kambela xitifiketi xa CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -52,9 +57,8 @@ set-password-repeat-backup-pw =
     .value = Phasiwedi ya xitandzhaku xa xitifiketi (nakambe):
 set-password-reminder = Xa nkoka: Loko u lahlekeriwa hi phasiwedi ya xitandzhaku xa xitifiketi xa wena, u nge he xi kumi xitandzhaku lexi eka nkarhi lowu taka.  Xi rhekhodi eka ndhawu yo hlayiseka.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

@@ -14,6 +14,8 @@ change-password-token = Dyfais Diogelwch: { $tokenName }
 change-password-old = Cyfrinair cyfredol:
 change-password-new = Cyfrinair newydd:
 change-password-reenter = Y cyfrinair newydd (eto):
+change-password-not-set =
+    .value = (heb ei osod)
 pippki-failed-pw-change = Methu newid cyfrinair.
 pippki-incorrect-pw = Wedi rhoi cyfrinair anghywir. Ceisiwch eto.
 pippki-pw-change-ok = Mae'r cyfrinair wedi ei newid yn llwyddiannus.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Wrthi'n Llwytho Tystysgrifau i Lawr
 download-cert-message = Rydych wedi cael cais i ymddiried mewn Awdurdod Tystysgrifo (CA) newydd.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ydych chi eisiau ymddiried yn "{ $caName }" at y pwrpasau canlynol?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Awdurdod Tystysgrifo (dienw)
 download-cert-trust-ssl =
     .label = Ymddiried yn yr Awdurdod Tystysgrifo i adnabod gwefannau.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Cyfrinair y dystysgrif wrth gefn (eto):
 set-password-reminder = Pwysig: Os byddwch yn anghofio eich cyfrinair diogelwch cludadwy, ni fydd modd i chi adfer y ffeil wrth gefn yma eto.  Cofnodwch hwn mewn man diogel.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Rhowch y cyfrinair ddefnyddiwyd i amgryptio'r ffeil tystysgrif wrth gefn:
 
 ## Protected authentication dialog
 

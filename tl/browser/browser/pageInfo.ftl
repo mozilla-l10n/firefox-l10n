@@ -104,6 +104,16 @@ security-view-technical =
     .value = Detalyeng Pangteknikal
 help-button =
     .label = Tulong
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = The web site { $website } does not support encryption for the page you are viewing.
+security-technical-no-encryption-transit = Ang impormasyon na ipinadala sa Internet nang walang encryption ay makikita ng ibang tao habang ito ay nasa transit.
+security-technical-no-encryption-page = Ang pahinang tinitingnan mo ay hindi naka-encrypt bago mapadala sa Internet.
+security-technical-encrypted-page = Ang pahina na iyong tinitingnan ay naka-encrypt bago na ipinadala sa Internet.
+security-technical-encrypted-description = Sa pamamagitan ng encryption, pinapahirapan ang mga di-kanais-nais na tao mula sa pagsilip ng impormasyong napapadala sa iba't-ibang mga computer. Dahil dito, mababa ang tsansang may nakabasa sa pahinang ito habang pinadala ito sa network.
+security-technical-mixed-content-description = Mga bahagi ng pahina na iyong tinitingnan ay hindi naka-encrypt bago na ipinadala sa Internet.
+security-technical-weak-cipher = Ang koneksyon mo sa website na ito ay gumagamit ng mahinang encryption at hindi pribado. Maaaring mabasa ng ibang tao ang impormasyon mo o kaya'y mabago ang asal ng website.
+security-technical-ct-compliant = Ang website na ito ay umaayon sa patakaran ng Certificate Transparency.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Oo, mga cookie at { $value } { $unit } ng site data
 security-site-data-only = Oo, { $value } { $unit } ng site data
 security-site-data-cookies-only = Oo, mga cookie
 security-site-data-no = Hindi
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Hindi Encrypted ang Koneksyon
+security-technical-mixed-content =
+    .value = Bahaging Nakakripta ang Koneksiyon
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Connection Encrypted ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = Broken Encryption ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

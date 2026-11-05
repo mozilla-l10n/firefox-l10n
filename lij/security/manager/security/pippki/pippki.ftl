@@ -12,6 +12,8 @@ change-password-token = Aparato de seguessa: { $tokenName }
 change-password-old = Paròlla segreta corente:
 change-password-new = Neuva paròlla segreta:
 change-password-reenter = Neuva paròlla segreta (ancon):
+change-password-not-set =
+    .value = (no inpostou)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Descarego o certificato
 download-cert-message = Te vegne domandou de dâ a fiduccia a sta neuva aotoritæ de certificaçion (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ti veu dâ fiduccia a "{ $caName }" pe ste cöse chi?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Aotoritæ de certificaçion (sensa nomme)
 download-cert-trust-ssl =
     .label = Fiate de sta CA pe identificâ i sciti web.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Paròlla segreta pe-a còpia de seguessa (torna):
 set-password-reminder = Inportante: Se ti t'ascòrdi a paròlla segreta di certificati, no ti saiê ciù in graddo de repigiâ sta còpia de seguessa. Pe piaxei sarvila inte 'n leugo seguo.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Scrivi a paròlla segreta adeuviâ pe cifrâ a còpia de backup di sto certificato:
+
+## Protected authentication dialog
+

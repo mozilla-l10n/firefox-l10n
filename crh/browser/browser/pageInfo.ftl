@@ -102,6 +102,16 @@ security-view-technical =
     .value = Tehnik Tafsilât
 help-button =
     .label = Yardım
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = İnternet saytı { $website } seyretkeniñiz saife içün şifrelemeni desteklemey.
+security-technical-no-encryption-transit = İnternette şifrelenmeden gönderilen bilgiler aktarım sırasında başkaları tarafından görülebilir.
+security-technical-no-encryption-page = Seyrete olğanıñız saife İnternet üzerinden naqletilmezden evvel şifrelenmedi.
+security-technical-encrypted-page = Seyrete olğanıñız saife İnternet üzerinden naqletilmezden evvel şifrelendi.
+security-technical-encrypted-description = Şifreleme, bilgisayarlar arasında seyahat etken malümatnıñ salâhiyetsiz kişilerce körülmesini zorlaştırır. Ondan dolayı bu saifeniñ şebeke arqalı dolaşqanında er angi biri tarafından oqulğanı ğayrımuhtemeldir.
+security-technical-mixed-content-description = Seyrete olğanıñız saifeniñ qısımları, İnternet üzerinden naqletilmezden evvel şifrelenmegen edi.
+security-technical-weak-cipher = Bu ağ-saytına bağlantıñız zayıf şifreleme qullana ve hususiy degildir. Başqa kişiler malümatıñıznı körebilir yaki ağ-saytınıñ davranışını başqalaştırabilir.
+security-technical-ct-compliant = Bu ağ-saytı Lehadetname Şeffaflığı siyasetine riayet ete.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +123,23 @@ security-site-data-cookies = Ebet, çörekler ve { $value } { $unit } sayt veril
 security-site-data-only = Ebet, sayt verileri içün { $value } { $unit }
 security-site-data-cookies-only = Ebet, çörekler
 security-site-data-no = Hayır
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Bağlantı şifrelenmiyor
+security-technical-mixed-content =
+    .value = Bağlantıyı duruma göre şifreli kur
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Bağlantı Şifrelendirilgen ({ $algorithm }, { $keySize } bit anahtarlar, { $protocol })
+security-technical-broken-encryption =
+    .value = Qırıq Şifreleme ({ $algorithm }, { $keySize } bit anahtarlar, { $protocol })
 
 ##
 

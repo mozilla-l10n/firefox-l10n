@@ -107,6 +107,12 @@ security-view-technical =
     .value = কাৰিকৰী বিৱৰণসমূহ
 help-button =
     .label = সহায়
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = আপুনি চোৱা পৃষ্ঠাৰ কাৰণে ৱেব ছাইট { $website } এ এনক্ৰিপছনৰ সমৰ্থন নকৰে।
+security-technical-no-encryption-transit = এনক্ৰিপছন নোহোৱাকে ইণ্টাৰ্নে'টত পঠিওৱা তথ্যক পঠিওৱাৰ সময়ত অন্যই চাব পাৰে।
+security-technical-encrypted-page = আপুনি চোৱা পৃষ্ঠাক ইণ্টাৰ্নে'টত পঠিওৱাৰ পূৰ্বে এনক্ৰিপ্ট কৰা হৈছে।
+security-technical-mixed-content-description = আপুনি চোৱা পৃষ্ঠাৰ কিছুমান অংশ ইণ্টাৰ্নে'টত গমন কৰাৰ আগতে এনক্ৰিপ্ট কৰা হোৱা নাছিল।
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +124,19 @@ security-site-data-cookies = হয়, কুকীজ আৰু ছাইট ড�
 security-site-data-only = হয়, ছাইট ডাটাৰ { $value } { $unit }
 security-site-data-cookies-only = হয়, কুকীজ
 security-site-data-no = নহয়
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = সংযোগক এনক্ৰিপ্ট কৰা হোৱা নাই
+security-technical-mixed-content =
+    .value = সংযোগ আংশিকভাবে এনক্ৰিপ্টেড
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 

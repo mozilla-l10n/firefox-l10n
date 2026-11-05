@@ -14,6 +14,8 @@ change-password-token = Dispositîf di sigurece: { $tokenName }
 change-password-old = Password corinte:
 change-password-new = Gnove password:
 change-password-reenter = Gnove password (torne a fâ):
+change-password-not-set =
+    .value = (no definît)
 pippki-failed-pw-change = Impussibil cambiâ la password.
 pippki-incorrect-pw = No je stade inseride ben la password corinte. Torne prove.
 pippki-pw-change-ok = Password cambiade cun sucès.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Daûr a cjamâ certificât
 download-cert-message = Ti domandin di fidâti di une gnove Autoritât di Certificazion (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vuelistu fidâti di "{ $caName }" par chescj?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritât di certificazion (cence non)
 download-cert-trust-ssl =
     .label = Fiditi di cheste CA (autoritât di certificazion) par identificâ i sîts web.
 download-cert-trust-email =
@@ -98,3 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Password de copie di sigurece dal certificât (ancjemò):
 set-password-reminder = Impuartant: Se tu vessis di dismenteâ la tô password de copie di sigurece dal certificât, no tu podarâs plui recuperâ la copie.  Viôt di vuardâle ben.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Par plasê inserìs la password che e je stade doprade par cifrâ la copie di backup di chest certificât:
+
+## Protected authentication dialog
+

@@ -14,6 +14,8 @@ change-password-token = Dispositivo de seguridad: { $tokenName }
 change-password-old = Contraseña actual:
 change-password-new = Contraseña nueva:
 change-password-reenter = Contraseña nueva (de nuevo):
+change-password-not-set =
+    .value = (no establecida)
 pippki-failed-pw-change = No se puede cambiar la contraseña.
 pippki-incorrect-pw = No introdujo la actual contraseña maestra correctamente. Vuelva a intentarlo.
 pippki-pw-change-ok = Contraseña cambiada correctamente.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Descargar certificado
 download-cert-message = Se le ha pedido que confíe en una nueva autoridad de certificación (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = ¿Desea confiar en "{ $caName }" para los siguientes propósitos?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoridad de Certificación (sin nombre)
 download-cert-trust-ssl =
     .label = Confiar en esta CA para identificar sitios web.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contraseña de resguardo del certificado (de nuevo):
 set-password-reminder = Importante: Si olvida su contraseña de resguardo del certificado, no podrá restaurar el backup posteriormente.  Guárdela en un lugar seguro.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Ingrese la contraseña que se usó para cifrar este backup de certificado:
 
 ## Protected authentication dialog
 

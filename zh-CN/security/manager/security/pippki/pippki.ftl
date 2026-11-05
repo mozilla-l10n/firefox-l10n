@@ -14,6 +14,8 @@ change-password-token = 安全设备: { $tokenName }
 change-password-old = 当前密码:
 change-password-new = 新密码:
 change-password-reenter = 新密码(重复):
+change-password-not-set =
+    .value = （未设定）
 pippki-failed-pw-change = 无法更改密码。
 pippki-incorrect-pw = 您未输入正确的主密码，请重试。
 pippki-pw-change-ok = 密码更改成功。
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = 下载证书
 download-cert-message = 您被要求信任一个新的证书颁发机构（CA）。
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = 您要信任“{ $caName }”用于如下目的吗？
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = 证书颁发机构（未命名）
 download-cert-trust-ssl =
     .label = 信任由此证书颁发机构来标识网站。
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = 证书备份密码（重复）：
 set-password-reminder = 重要：如果您忘记了您的证书备份密码，您此后将无法恢复此备份。请将它记在一个安全的地方。
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = 请输入被用来加密此证书备份的密码：
 
 ## Protected authentication dialog
 

@@ -104,6 +104,16 @@ security-view-technical =
     .value = Hua a'na' dodò' 'iaj aga' na
 help-button =
     .label = Ruguñu'unj
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Sitiô { $website } na'ue nani'in si hua huì pajinâ ni'iajt nan.
+security-technical-no-encryption-transit = Nuguan' nitaj si hua huì a'nïnt riña internet ni ga'ue gini'iaj a'ngô guìi man hiaj nïn' aché nunt.
+security-technical-no-encryption-page = Nitaj si hua huì pajinâ ni'iajt net asî gachin gisìj man riña internet.
+security-technical-encrypted-page = Hua huì pajinâ ni'iajt net asî gachin gisìj man riña internet.
+security-technical-encrypted-description = Sifrâdo narán da' si gini'iāj nasinùnj guìi nuguan' aché riña nej aga' sikà' ràa. Ô' ni, nitāj gà' si 'ngō guìi gini'in sa gi'iát nga gaché nunt riña red.
+security-technical-mixed-content-description = Nitaj si huā huì da'aj sa 'na' riña pajinâ ni'iajt net asî gachin gisìj man riña internet.
+security-technical-weak-cipher = Nitāj si nūkuaj hua si sifradô sitiô nan nī nitàj si huì hua man. Ga'ue ni'iāj a'ngô guìi sa 'na' riña asi nadunā ni sa 'na' riñanj.
+security-technical-ct-compliant = Dugahuin sitiô nan ngà sertifikadô tna'uej yi'ì sa huìi.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Ga'ue, kookies ni { $value } { $unit } si dato siti
 security-site-data-only = Ga'ue, { $value } { $unit } si dato sitio
 security-site-data-cookies-only = Ga'ue, kookies
 security-site-data-no = Si ga'ue
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Nitaj si hua huì Koneksiûn nan
+security-technical-mixed-content =
+    .value = Nitaj si hua huì Koneksiûn nan
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Hua huì Koneksiûn ({ $algorithm }, { $keySize } si teklâ bit, { $protocol })
+security-technical-broken-encryption =
+    .value = Gire sa nagi'ia huìi ({ $algorithm }, { $keySize } si teclâ bit, { $protocol })
 
 ##
 

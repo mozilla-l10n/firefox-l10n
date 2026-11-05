@@ -14,6 +14,8 @@ change-password-token = Bezpečnostné zariadenie: { $tokenName }
 change-password-old = Aktuálne heslo:
 change-password-new = Nové heslo:
 change-password-reenter = Nové heslo (znova):
+change-password-not-set =
+    .value = (nie je zadané)
 pippki-failed-pw-change = Nie je možné zmeniť heslo.
 pippki-incorrect-pw = Aktuálne heslo nebolo zadané správne. Skúste to znova.
 pippki-pw-change-ok = Heslo bolo úspešne zmenené.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sťahuje sa certifikát
 download-cert-message = Vyžaduje sa dôverovať novej certifikačnej autorite.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Chcete dôverovať “{ $caName }” pre nasledujúce účely:
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikačná autorita (bez názvu)
 download-cert-trust-ssl =
     .label = Dôverovať tejto certifikačnej autorite pri identifikácii serverov.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Heslo pre zálohu certifikátov (znova)
 set-password-reminder = Dôležité: ak zabudnete heslo pre zálohu certifikátov, nebude možné neskôr obnoviť túto zálohu. Uložte toto heslo na bezpečné miesto.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Zadajte heslo, ktorým bola zašifrovaná táto záloha certifikátov:
 
 ## Protected authentication dialog
 

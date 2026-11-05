@@ -14,6 +14,8 @@ change-password-token = Sigurnosni uređaj: { $tokenName }
 change-password-old = Trenutna lozinka:
 change-password-new = Nova lozinka:
 change-password-reenter = Nova lozinka (ponovo):
+change-password-not-set =
+    .value = (nije postavljeno)
 pippki-failed-pw-change = Nije moguće promijeniti lozinku.
 pippki-incorrect-pw = Niste unijeli ispravnu trenutnu lozinku. Molimo pokušajte ponovo.
 pippki-pw-change-ok = Lozinka je uspješno promijenjena.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Preuzimam certifikate
 download-cert-message = Upitani ste da li vjerujete novom Certifikacijskom Autoritetu (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Da li želite vjerovati "{ $caName }" u sljedeće svrhe?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikacijski Autoritet (neimenovani)
 download-cert-trust-ssl =
     .label = Vjeruj ovom CA da identifikuje web stranice.
 download-cert-trust-email =
@@ -98,3 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lozinka backupa certifikata (opet):
 set-password-reminder = Važno: Ukoliko zaboravite lozinku backupa certifikata, kasnije istu nećete moći povratiti.  Molimo da lozinku spremite na sigurno mjesto.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Molimo da unesete lozinku koja je korištena za enkripciju ovog backupa certifikata:
+
+## Protected authentication dialog
+

@@ -7,13 +7,11 @@ copy =
 menu-copy =
     .label = Fa
     .accesskey = F
-
 select-all =
     .key = A
 menu-select-all =
     .label = Fa no nyinara
     .accesskey = a
-
 general-tab =
     .label = Gyɛnɛral
     .accesskey = G
@@ -33,7 +31,6 @@ general-meta-name =
     .label = Din
 general-meta-content =
     .label = Mu nsɛm
-
 media-tab =
     .label = Midea
     .accesskey = M
@@ -61,13 +58,11 @@ media-save-as =
 media-save-image-as =
     .label = Fa sie sɛ…
     .accesskey = e
-
 perm-tab =
     .label = Akwanya
     .accesskey = P
 permissions-for =
     .value = akwanya ma:
-
 security-tab =
     .label = Banbɔ
     .accesskey = S
@@ -84,25 +79,38 @@ security-view-identity-domain =
     .value = Wɛbsaet:
 security-view-identity-verifier =
     .value = Eyi agye ato mu:
-
 security-view-privacy-history-value = M'asra wɛbsaet yi da anaa?
-
 security-view-privacy-passwords-value = M'asie ehintansɛmfua bi ama wɛbsaet yi anaa?
-
 security-view-privacy-viewpasswords =
     .label = Hwɛ ehintansɛmfua a m'asie
     .accesskey = w
 security-view-technical =
     .value = nhunumu a edi akotene
-
 help-button =
     .label = Mboa
+security-technical-no-encryption-transit = Obubaka obuwerezeddwa okuyita ku lutimbe nga ttemakyakalanyi ngaywa kulabwa abuntu abalala mu lungendo.
+security-technical-encrypted-page = Ekyapa kyolimu kulaba kyi kikisibwa nga ttekyinaba kutwalirwa ku lutimbe lwe siyona.
+security-technical-mixed-content-description = Ebifuu bimu ku kyapa kyoli mu laba ttebikisibwa nga ttebinatwalindwa ku lutimbe lwe siyona.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Eggatta nga Ttekyakalanyi
+security-technical-mixed-content =
+    .value = Ekwaso Ekisibwa mu bitundutundu
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -124,7 +132,6 @@ media-video = Video
 media-audio = Ɔdio
 saved-passwords-yes = Yiw
 saved-passwords-no = Daabi
-
 no-page-title =
     .value = Krataafa Nni Ti-asɛm:
 general-quirks-mode =
@@ -138,14 +145,12 @@ media-unknown-not-cached =
     .value = Nnim (wɔmmfa nnhyɛɛ esiei mu)
 permissions-use-default =
     .label = Fa difɔlt di dwuma
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Mfonin
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -155,14 +160,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (eskele kɔ { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:

@@ -110,6 +110,16 @@ security-view-technical =
     .value = Τεχνικές λεπτομέρειες
 help-button =
     .label = Βοήθεια
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Ο ιστότοπος { $website } δεν υποστηρίζει κρυπτογράφηση για τη σελίδα που βλέπετε.
+security-technical-no-encryption-transit = Οι πληροφορίες που στέλνονται μέσω διαδικτύου χωρίς κρυπτογράφηση δεν είναι ασφαλείς και μπορεί να τις δουν τρίτοι.
+security-technical-no-encryption-page = Η σελίδα που βλέπετε δεν ήταν κρυπτογραφημένη πριν από τη μεταφορά μέσω του διαδικτύου.
+security-technical-encrypted-page = Η σελίδα που βλέπετε κρυπτογραφήθηκε προτού μεταδοθεί μέσω του διαδικτύου.
+security-technical-encrypted-description = Η κρυπτογράφηση καθιστά δύσκολη την προβολή πληροφοριών που ανταλλάσσονται μεταξύ των υπολογιστών από μη εξουσιοδοτημένα άτομα. Συνεπώς, είναι απίθανο να διαβάζει κάποιος αυτήν τη σελίδα, ενώ μεταφέρεται μέσω του δικτύου.
+security-technical-mixed-content-description = Τμήματα της σελίδας που βλέπετε δεν κρυπτογραφήθηκαν προτού μεταδοθούν μέσω του διαδικτύου.
+security-technical-weak-cipher = Η σύνδεσή σας με αυτόν τον ιστότοπο χρησιμοποιεί αδύναμη κρυπτογράφηση και δεν είναι ιδιωτική. Άλλα άτομα μπορούν να δουν τις πληροφορίες σας ή να τροποποιήσουν τη συμπεριφορά του ιστοτόπου.
+security-technical-ct-compliant = Αυτός ο ιστότοπος συμμορφώνεται με την πολιτική διαφάνειας πιστοποιητικών.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Ναι, cookie και { $value } { $unit } δεδο
 security-site-data-only = Ναι, { $value } { $unit } δεδομένων ιστοτόπου
 security-site-data-cookies-only = Ναι, cookie
 security-site-data-no = Όχι
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Μη κρυπτογραφημένη σύνδεση
+security-technical-mixed-content =
+    .value = Η σύνδεση είναι μερικώς κρυπτογραφημένη
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Κρυπτογραφημένη σύνδεση ({ $algorithm }, { $keySize } bit κλειδιά, { $protocol })
+security-technical-broken-encryption =
+    .value = Εσφαλμένη κρυπτογράφηση ({ $algorithm }, { $keySize } bit κλειδιά, { $protocol })
 
 ##
 

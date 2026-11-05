@@ -14,6 +14,8 @@ change-password-token = Périphérique de sécurité : { $tokenName }
 change-password-old = Ancien mot de passe
 change-password-new = Saisissez le nouveau mot de passe
 change-password-reenter = Saisissez-le à nouveau
+change-password-not-set =
+    .value = (non défini)
 pippki-failed-pw-change = Impossible de changer le mot de passe.
 pippki-incorrect-pw = Vous n’avez pas saisi correctement le mot de passe actuel. Veuillez réessayer.
 pippki-pw-change-ok = Le mot de passe a été changé.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Téléchargement du certificat
 download-cert-message = On vous a demandé de confirmer une nouvelle autorité de certification (AC).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Voulez-vous faire confiance à « { $caName } » pour les actions suivantes ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autorité de certification (pas de nom)
 download-cert-trust-ssl =
     .label = Confirmer cette AC pour identifier des sites web.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Mot de passe de sauvegarde du certificat (encore) :
 set-password-reminder = Important : si vous avez oublié votre mot de passe de sécurité, vous ne pourrez plus importer cette sauvegarde plus tard. Veuillez le conserver en un lieu sûr.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Veuillez saisir le mot de passe portable de sécurité protégeant ce certificat de sécurité et la clé privée :
 
 ## Protected authentication dialog
 

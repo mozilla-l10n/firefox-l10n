@@ -12,6 +12,8 @@ change-password-token = Sesebediswa sa Tshireletseho: { $tokenName }
 change-password-old = Phasewete ya Hajwale:
 change-password-new = Phasewete e ntjha:
 change-password-reenter = Phasewete e ntjha (hape):
+change-password-not-set =
+    .value = (ha e a setwa)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .title = E jarolla Disetifikeiti
     .style = min-width: 46em
 download-cert-message = O kopilwe ho tshepa Taolo ya Setifikeiti (CA) e ntjha.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Na o batla ho tshepa "{ $caName }" bakeng sa merero elatelang?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Taolo ya Setifikeiti (ha se na lebitso)
 download-cert-trust-ssl =
     .label = Tshepa CA ena ho tsebahatsa ditsha tsa webe.
 download-cert-trust-email =
@@ -32,8 +39,6 @@ download-cert-message-desc = Peleo tshepa CA ena bakeng sa morero ofe kapa ofe, 
 download-cert-view-cert =
     .label = Sheba
 download-cert-view-text = Hlahloba setifikeiti sa CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -52,9 +57,8 @@ set-password-repeat-backup-pw =
     .value = Phasewete ya backup ya setifikeiti (hape):
 set-password-reminder = Sa bohlokwa: Haeba o lebetse phasewete ya backup ya setifikeiti sa hao, ha o na ho kgona ho busetsa backup hamorao.  Ka kopo e rekote tulong e bolokehileng.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

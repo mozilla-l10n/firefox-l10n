@@ -14,6 +14,8 @@ change-password-token = התקן אבטחה: { $tokenName }
 change-password-old = ססמה נוכחית:
 change-password-new = ססמה חדשה:
 change-password-reenter = ססמה חדשה (שוב):
+change-password-not-set =
+    .value = (לא נקבע)
 pippki-failed-pw-change = לא ניתן לשנות את הססמה.
 pippki-incorrect-pw = לא הכנסת את הססמה הנוכחית הנכונה. נא לנסות שוב.
 pippki-pw-change-ok = הססמה שונתה בהצלחה.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = הורדת אישור
 download-cert-message = התבקשת לתת אמון ברשות אישורים (CA) חדשה.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = האם ברצונך לתת אמון ב־“{ $caName }” למטרות הבאות?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = רשות אישורים (ללא שם)
 download-cert-trust-ssl =
     .label = מתן אמון ברשות אישורים זו לזיהוי אתרים.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ססמה לגיבוי אישור (שוב):
 set-password-reminder = חשוב: אם הססמה שלך לגיבוי האישור תישכח, לא תהיה לך אפשרות לשחזר גיבוי זה מאוחר יותר.  נא לרשום אותה במקום בטוח.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = נא להזין את הססמה שנעשה בה שימוש להצפין את גיבוי האישורים הזה:
 
 ## Protected authentication dialog
 

@@ -107,6 +107,16 @@ security-view-technical =
     .value = প্রযুক্তিগত বিবরণ
 help-button =
     .label = সাহায্য
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = আপনার সামনে প্রস্তুত করা পাতার জন্য { $website } ওয়েব-সাইটের দ্বারা এনক্রিপশন সমর্থিত হয় না।
+security-technical-no-encryption-transit = বিনা এনক্রিপশনে কোনো তথ্য ইন্টারনেটের মাধ্যমে প্রেরণ করা হলে যাত্রাকালে তা অন্যান্য ব্যক্তিদের সামনে উন্মুক্ত হওয়ার সম্ভাবনা রয়েছে।
+security-technical-no-encryption-page = ইন্টারনেটের মাধ্যমে প্রেরণ করার পূর্বে, আপনার সামনে প্রদর্শিত পাতাটি এনক্রিপ্ট করা হয় নাই।
+security-technical-encrypted-page = ইন্টারনেটের মাধ্যমে প্রেরণ করার পূর্বে, আপনার সামনে প্রদর্শিত পাতাটি এনক্রিপ্ট করা হয়েছিল।
+security-technical-encrypted-description = এনক্রিপশন ব্যবহারের ফলে বিভিন্ন কম্পিউটারের মধ্যে বিনিময় হওয়া তথ্য কোনো তৃতীয় ব্যক্তির দ্বারা অন্যায্যভাবে পাঠ করা কঠিন। এই কারণে নেটওয়ার্কে যাত্রাকালে সম্ভবত এই পাতাটি কারও দ্বারা পড়া হয়নি
+security-technical-mixed-content-description = ইন্টারনেটের মাধ্যমে প্রেরণ করার পূর্বে, প্রদর্শিত পাতার কিছু অংশবিশেষ এনক্রিপ্ট করা হয়নি।
+security-technical-weak-cipher = এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার এবং ব্যক্তিগত নয়. অন্য মানুষ আপনার তথ্য দেখতে বা ওয়েবসাইট এর আচরণ পরিবর্তন করতে পারেন।
+security-technical-ct-compliant = ওয়েবসাইটটি স্বচ্ছতা নীতি অনুসরণ করে।
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = হ্যাঁ, কুকি এবং সাই�
 security-site-data-only = হ্যাঁ, সাইট ডাটার { $value } { $unit }
 security-site-data-cookies-only = হ্যাঁ, কুকি
 security-site-data-no = না
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = সংযোগ এনক্রিপ্ট করা হয়নি
+security-technical-mixed-content =
+    .value = সংযোগ আংশিকরূপে এনক্রিপ্ট করা
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = সংযোগ এনক্রিপ্ট করা হয়েছে ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = ভাঙ্গা এনক্রিপ্টশন ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

@@ -14,6 +14,8 @@ change-password-token = Periferic de seguretat: { $tokenName }
 change-password-old = Senhal actual :
 change-password-new = Picatz lo senhal actual :
 change-password-reenter = Tornatz picatz lo senhal :
+change-password-not-set =
+    .value = (pas definit)
 pippki-failed-pw-change = Cambiament del senhal impossible.
 pippki-incorrect-pw = Avètz pas picat lo senhal principal actual corrècte. Tornatz ensajar.
 pippki-pw-change-ok = Senhal corrèctament modificat.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Telecargament del certificat
 download-cert-message = Se vos a demandat de confirmar una autoritat de certificacion novèla (AC).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Volètz far fisança a « { $caName } » per las accions seguentas ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritat de certificacion (pas de nom)
 download-cert-trust-ssl =
     .label = Confirmar aquesta AC per identificar de sites Web.
 download-cert-trust-email =
@@ -88,3 +95,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Senhal de salvament del certificat (encara) :
 set-password-reminder = Important : s'avètz oblidat vòstre senhal de seguretat, poiretz pas mai importar aquesta salvagarda mai tard. Conservatz-lo en luòc segur.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Picatz lo senhal per chifrar la còpia de seguretat d'aqueste certificat :
+
+## Protected authentication dialog
+

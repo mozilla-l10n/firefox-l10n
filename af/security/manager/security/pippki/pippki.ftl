@@ -12,6 +12,8 @@ change-password-token = Sekuriteitstoestel: { $tokenName }
 change-password-old = Huidige wagwoord:
 change-password-new = Nuwe wagwoord:
 change-password-reenter = Nuwe wagwoord (weer):
+change-password-not-set =
+    .value = (nie opgestel)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Laai tans sertifikaat af
 download-cert-message = U is gevra om 'n nuwe sertifikaatowerheid (SO) te vertrou.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Wil u "{ $caName }" vertrou vir die volgende doeleindes?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifikaatowerheid (onbenoemd)
 download-cert-trust-ssl =
     .label = Vertrou hierdie SO om webwerwe te identifiseer.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Rugsteunsertifikaat-wagwoord (weer):
 set-password-reminder = Belangrik: Indien u u sertifikaat-rugsteunwagwoord vergeet, sal u nie hierdie rugsteuning later kan terugkopieer nie.  Teken dit op 'n veilige plek aan.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Tik die wagwoord in wat gebruik is om hierdie sertifikaatrugsteun mee te enkripteer:
+
+## Protected authentication dialog
+

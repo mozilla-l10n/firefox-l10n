@@ -107,6 +107,16 @@ security-view-technical =
     .value = Detagls tecnics
 help-button =
     .label = Agid
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = La website { $website } na sustegna nagin criptadi per la pagina che ti vesas.
+security-technical-no-encryption-transit = Infurmaziuns che vegnan tramessas senza criptadi via l'internet pon vegnir vesidas dad autras persunas durant la transmissiun.
+security-technical-no-encryption-page = La pagina che vegn mussada n'è betg vegnida criptada avant che transmetter via l'internet.
+security-technical-encrypted-page = La pagina che vegn mussada è vegnida criptada, avant ch'ella è vegnida transmessa via l'internet.
+security-technical-encrypted-description = Il criptadi renda grev a persunas betg autorisadas da spiunar infurmaziuns transmessas tranter computers. Perquai èsi improbabel ch'insatgi ha legì questa pagina durant ch'ella è vegnida transmessa tras la rait.
+security-technical-mixed-content-description = Tschertas parts da la pagina che ti vesas n'èn betg vegnidas criptadas avant ch'ellas èn vegnidas tramessas via internet.
+security-technical-weak-cipher = Tia connexiun a questa website utilisescha in criptadi flaivel e n'è betg privata. Autras persunas pon vesair tias infurmaziuns u modifitgar la pagina d'internet.
+security-technical-ct-compliant = Questa website respecta las reglas per la transparenza da certificats.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = Gea, cookies e { $value } { $unit } datas da websit
 security-site-data-only = Gea, { $value } { $unit } datas da websites
 security-site-data-cookies-only = Gea, cookies
 security-site-data-no = Na
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Connexiun betg criptada
+security-technical-mixed-content =
+    .value = Connexiun parzialmain criptada
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Connexiun criptada ({ $algorithm }, clav da { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Criptadi malsegir ({ $algorithm }, clav da { $keySize } bit, { $protocol })
 
 ##
 

@@ -110,6 +110,16 @@ security-view-technical =
     .value = Szczegóły techniczne
 help-button =
     .label = Pomoc
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Pobierana strona WWW z witryny { $website } nie obsługuje szyfrowania danych.
+security-technical-no-encryption-transit = Informacje przesyłane przez sieć Internet bez uprzedniego szyfrowania mogą zostać odczytane przez inne osoby.
+security-technical-no-encryption-page = Oglądana strona nie była zaszyfrowana podczas przesyłania przez Internet.
+security-technical-encrypted-page = Wyświetlana strona została zaszyfrowana przed przesłaniem poprzez Internet.
+security-technical-encrypted-description = Szyfrowanie utrudnia osobom nieupoważnionym odczytanie informacji przesyłanych między komputerami. Dlatego jest mało prawdopodobne, aby ktokolwiek przeczytał tę stronę, gdy podróżowała przez sieć.
+security-technical-mixed-content-description = Niektóre części wyświetlanej strony nie zostały zaszyfrowane przed przesłaniem przez Internet.
+security-technical-weak-cipher = Połączenie z tą witryną nie jest w pełni bezpieczne, ponieważ zastosowane szyfrowanie nie jest wystarczające. Informacje na stronie mogą być dostępne dla innych, a jej działanie modyfikowane.
+security-technical-ct-compliant = Ta witryna jest zgodna z zasadą przejrzystości certyfikatów.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Tak, ciasteczka i { $value } { $unit } danych wit
 security-site-data-only = Tak, { $value } { $unit } danych witryny
 security-site-data-cookies-only = Tak, ciasteczka
 security-site-data-no = Nie
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Połączenie nie jest szyfrowane
+security-technical-mixed-content =
+    .value = Połączenie częściowo szyfrowane
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Połączenie szyfrowane ({ $algorithm }, { $keySize }-bitowe klucze, { $protocol })
+security-technical-broken-encryption =
+    .value = Wadliwe szyfrowanie ({ $algorithm }, { $keySize }-bitowe klucze, { $protocol })
 
 ##
 

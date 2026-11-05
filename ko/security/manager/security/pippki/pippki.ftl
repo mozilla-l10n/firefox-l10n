@@ -14,6 +14,8 @@ change-password-token = 보안 장치: { $tokenName }
 change-password-old = 현재 비밀번호:
 change-password-new = 새 비밀번호:
 change-password-reenter = 새 비밀번호(재입력):
+change-password-not-set =
+    .value = (설정 안 됨)
 pippki-failed-pw-change = 비밀번호를 변경할 수 없습니다.
 pippki-incorrect-pw = 현재 비밀번호를 올바르게 입력하지 않았습니다. 다시 시도하세요.
 pippki-pw-change-ok = 비밀번호가 성공적으로 변경되었습니다.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = 인증서 다운로드 중
 download-cert-message = 새 인증 기관 (CA)을 신뢰하라는 요청을 받았습니다.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = 다음과 같은 목적으로 "{ $caName }"를 신뢰하시겠습니까?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = 인증 기관 (이름 없음)
 download-cert-trust-ssl =
     .label = 신뢰된 인증 기관 (웹 사이트)
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = 인증서 백업 비밀번호 (재입력):
 set-password-reminder = 중요: 만약 인증서 백업 비밀번호를 분실하면 백업한 인증서를 다시 가져올 수 없습니다.  안전한 곳에 기록해 두세요.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = 이 인증 백업을 암호화할 때 사용했던 비밀번호을 입력하세요:
 
 ## Protected authentication dialog
 

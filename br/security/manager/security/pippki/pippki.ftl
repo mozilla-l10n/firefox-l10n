@@ -14,6 +14,8 @@ change-password-token = Trevnad diogelroez: { $tokenName }
 change-password-old = Ger-tremen war arver:
 change-password-new = Ger-tremen nevez:
 change-password-reenter = Ger-tremen nevez (c'hoazh):
+change-password-not-set =
+    .value = (n'eo ket kefluniet)
 pippki-failed-pw-change = N’haller ket kemmañ ar ger-tremen.
 pippki-incorrect-pw = N’ho peus ket enanket ar ger-tremen reizh. Klaskit en-dro mar plij.
 pippki-pw-change-ok = Ger-tremen kemmet gant berzh.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = O pellgargañ an testeni
 download-cert-message = Goulennet ez eus bet diganeoc'h kaout fiziañs en un aotrouniezh testeniañ nevez.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Fellout a ra deoc'h kaout fiziañs e "{ $caName }" evit ar palioù da heul?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Aotrouniezh testeniañ (anv ebet)
 download-cert-trust-ssl =
     .label = Kaout fiziañ en aotrouniezh testeniañ-mañ evit anaout al lec'hiennoù web.
 download-cert-trust-email =
@@ -86,3 +93,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ger-tremen an testeni atoriñ (c'hoazh):
 set-password-reminder = Pouezus: Mar bez ankouaet ger-tremen ho testeni atoriñ ne viot ket evit assav an atoradenn diwezhatoc'h. Enrollit ho ker-tremen en ul lec'h diarvar.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Roit ar ger-tremen arveret evit enrinegañ an testeni atoriñ-mañ:
+
+## Protected authentication dialog
+

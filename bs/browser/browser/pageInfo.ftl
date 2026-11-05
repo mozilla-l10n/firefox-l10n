@@ -107,6 +107,16 @@ security-view-technical =
     .value = Tehnički detalji
 help-button =
     .label = Pomoć
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Web stranica { $website } ne podržava enkripciju za stranicu koju gledate.
+security-technical-no-encryption-transit = Informacija poslana putem Interneta bez enkripcije može biti dostupna drugim osobama za vrijeme prijenosa.
+security-technical-no-encryption-page = Stranica koju pregledavate nije enkriptovana prije slanja putem interneta.
+security-technical-encrypted-page = Stranica koju pregledavate je enkriptovana prije slanja putem interneta.
+security-technical-encrypted-description = Enkripcija neovlaštenim osobama otežava pregledavanje informacija koje putuju između računara. Stoga je mala vjerovatnoća da je neko pročitao ovu stranicu dok je putovala mrežom.
+security-technical-mixed-content-description = Dijelovi stranice koju pregledavate nisu enkriptovani prije slanja putem interneta.
+security-technical-weak-cipher = Vaša veza na ovu web stranicu koristi slabu enkripciju i nije privatna. Drugi ljudi mogu vidjeti vaše informacije ili promijeniti ponašanje web stranice.
+security-technical-ct-compliant = Ova web stranica je u skladu sa Certificate Transparency policom.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = Da, kolačiće o { $value } { $unit } podataka stra
 security-site-data-only = Da, { $value } { $unit } podataka stranice
 security-site-data-cookies-only = Da, kolačiće
 security-site-data-no = Ne
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Konekcija nije enkriptovana
+security-technical-mixed-content =
+    .value = Veza je djelimično enkriptovana
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Enkriptovana veza ({ $algorithm }, { $keySize } bitni ključevi, { $protocol })
+security-technical-broken-encryption =
+    .value = Neispravna enkripcija ({ $algorithm }, { $keySize } bitni ključevi, { $protocol })
 
 ##
 

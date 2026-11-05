@@ -110,6 +110,16 @@ security-view-technical =
     .value = Detalii tehnice
 help-button =
     .label = Ajutor
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Site-ul web { $website } nu suportă criptare pentru pagina pe care o vezi.
+security-technical-no-encryption-transit = Informațiile trimise prin internet fără criptare pot fi văzute și de alte persoane în timpul tranzitului.
+security-technical-no-encryption-page = Pagina pe care o vezi a fost criptată înainte de a fi trimisă prin internet.
+security-technical-encrypted-page = Pagina pe care o vezi a fost criptată înainte de a fi transmisă prin internet.
+security-technical-encrypted-description = Criptarea face dificilă interceptarea de către persoane neautorizate a informațiilor transmise între calculatoare. Prin urmare, este puțin probabil ca altcineva să citească această pagină așa cum a fost transmisă prin rețea.
+security-technical-mixed-content-description = Părți din pagina vizualizată nu au fost criptate înainte de a fi transmise prin internet.
+security-technical-weak-cipher = Conexiunea la acest site web folosește criptare slabă și nu este privată. Alte persoane îți pot vedea informațiile și pot modifica comportamentul site-ului web.
+security-technical-ct-compliant = Acest site web respectă politica privind transparența certificatelor.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Da, cookie-uri și { $value } { $unit } de date ale
 security-site-data-only = Da, { $value } { $unit } de date ale site-urilor
 security-site-data-cookies-only = Da, cookie-uri
 security-site-data-no = Nu
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Conexiune necriptată
+security-technical-mixed-content =
+    .value = Conexiune criptată parțial
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Conexiune criptată ({ $algorithm }, chei pe { $keySize } biți, { $protocol })
+security-technical-broken-encryption =
+    .value = Criptare nesigură ({ $algorithm }, chei pe { $keySize } biți, { $protocol })
 
 ##
 

@@ -104,6 +104,16 @@ security-view-technical =
     .value = Տեխնիկական մանրամասնութիւններ
 help-button =
     .label = Աւգնութիւն
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = { $website }-ի կայքը չի աջակցում գաղտնագրում դիտարկուող էջի համար։
+security-technical-no-encryption-transit = Համացանցով ուղարկուած չծածկագրուած տեղեկութիւնը փոխանցման ընթացքում կարող է դիտուել այլ անձանց կողմից:
+security-technical-no-encryption-page = Ձեր կողմից դիտուող էջը չի ծածկագրուել նախքան համացանցով ուղարկուելը:
+security-technical-encrypted-page = Ձեր կողմից դիտուող էջը ծածկագրուել է նախքան համացանցով ուղարկուելը:
+security-technical-encrypted-description = Գաղտնագրումը բարդացնում  է չարտօնուած անձանց կողմից համակարգիչների միջեւ փոխանցուող տեղեկատուութեան կարդալը: Հետեւաբար, հաւանական չէ, որ այս էջը որեւէ մեկը կարդացած լինի:
+security-technical-mixed-content-description = Ձեր դիտած էջի որոշ մասեր համացանցով փոխանցուելիս չեն գաղտնագրուել:
+security-technical-weak-cipher = Այս կայքի հետ ձեր կապը թոյլ գաղտնագրում է աւգտագործում եւ գաղտնի չէ: Այլ մարդիկ կարող են տեսնել ձեր տեղեկատուութիւնը կամ փոփոխել կայքի աշխատանքը:
+security-technical-ct-compliant = Այս կայքը համապատասխանում է Վկայագրի Թափանցիկութեան քաղաքականութեանը։
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Այո, նշոցիկները եւ կայքի տու
 security-site-data-only = Այո, կայքի տուեալներ՝ { $value } { $unit }
 security-site-data-cookies-only = Այո, նշոցիկներ
 security-site-data-no = Ոչ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Կապակցումը գաղտնագրուած չէ
+security-technical-mixed-content =
+    .value = Կապը մասամբ ծածկագրուած է
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Կապակցումը գաղտնագրուած է ({ $algorithm }, բանալի { $keySize } բիթ, { $protocol })
+security-technical-broken-encryption =
+    .value = Վնասուած գաղտնագրում ({ $algorithm } բանալի, { $keySize } բիթ , { $protocol })
 
 ##
 

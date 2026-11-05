@@ -104,6 +104,16 @@ security-view-technical =
     .value = Tehnilised üksikasjad
 help-button =
     .label = Abi
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Veebileht { $website } ei toeta vaadatava lehe näitamisel krüptimist.
+security-technical-no-encryption-transit = Interneti kaudu ülekantavad krüptimata andmed võivad olla ülekande ajal nähtavad ka teistele inimestele.
+security-technical-no-encryption-page = Kuvatav leht edastati krüptimata kujul.
+security-technical-encrypted-page = Vaadatava lehe sisu krüptiti enne interneti teel edastamist.
+security-technical-encrypted-description = Krüptimine teeb volitamata isikutel arvutite vahel edastatava info vaatamise keeruliseks. Seetõttu pole tõenäoline, et keegi sai selle lehe sisu võrgus edastamise ajal lugeda.
+security-technical-mixed-content-description = Vaadatava veebilehe osasid ei krüptitud enne nende interneti teel edastamist.
+security-technical-weak-cipher = Sinu ühendus selle saidiga on turvatud nõrga krüpteeringuga ja pole seetõttu privaatne. Teised inimesed saavad vaadata sinu andmeid või muuta veebilehe käitumist.
+security-technical-ct-compliant = See sait on vastavuses läbipaistvate sertifikaatide poliitikaga.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Jah, küpsiseid ja { $value } { $unit } saidi andme
 security-site-data-only = Jah, { $value } { $unit } saidi andmeid
 security-site-data-cookies-only = Jah, küpsiseid
 security-site-data-no = Ei
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Ühendus pole krüptitud
+security-technical-mixed-content =
+    .value = Osaliselt krüptitud ühendus
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Krüptitud ühendus ({ $algorithm }, { $keySize }-bitised võtmed, { $protocol })
+security-technical-broken-encryption =
+    .value = Ebaturvaline krüpteering ({ $algorithm }, { $keySize }-bitised võtmed, { $protocol })
 
 ##
 

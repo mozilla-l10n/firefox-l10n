@@ -12,6 +12,8 @@ change-password-token = Ithuluzi Lokulondeka: { $tokenName }
 change-password-old = Igama lokungena lamanje:
 change-password-new = Igama Lokungena Elisha:
 change-password-reenter = Igama lokungena elisha (futhi):
+change-password-not-set =
+    .value = (akuhleliwe)
 
 ## Reset Primary Password dialog
 
@@ -24,14 +26,17 @@ download-cert-window2 =
     .title = Ukuthatha ufake izitifiketi
     .style = min-width: 46em
 download-cert-message = Ucelwe ukuba wethembe iGunya Lesitifiketi (CA) elisha.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Uyafuna yini ukwethemba i-"{ $caName }" ngalezi zinjongo ezilandelayo?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Igunya Lesitifiketi (alishiwongo igama)
 download-cert-trust-email =
     .label = Themba le CA ukuthi izohlonza abasebenzisi be-imeyili.
 download-cert-message-desc = Ngaphambi kokuba uthembe le CA kunoma yini, kufanele uhlole isitifiketi sayo nemigomo nenqubo yaso (uma ikhona).
 download-cert-view-cert =
     .label = Bheka
 download-cert-view-text = Hlola isitifiketi se-CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -49,9 +54,8 @@ set-password-repeat-backup-pw =
     .value = Igama lokungena lesitifiketi ozosigcina (futhi):
 set-password-reminder = Okubalulekile: Uma ukhohlwa igama lokungena lesitifiketi ozosigcina, ngeke ukwazi ukubuyisa lesi esigciniwe kamuva.  Sicela ulibhale endaweni ephephile.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

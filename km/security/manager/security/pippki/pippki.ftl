@@ -14,6 +14,8 @@ change-password-token = ឧបករណ៍​សុវត្ថិភាព: { $
 change-password-old = ពាក្យ​សម្ងាត់​បច្ចុប្បន្ន ៖
 change-password-new = ពាក្យ​សម្ងាត់​ថ្មី ៖
 change-password-reenter = ពាក្យ​សម្ងាត់​ថ្មី (ម្តង​ទៀត) ៖
+change-password-not-set =
+    .value = (មិន​បាន​កំណត់)
 pippki-pw-change-ok = បានផ្លាស់ប្តូរពាក្យសម្ងាត់ដោយជោគជ័យ។
 
 ## Reset Primary Password dialog
@@ -33,6 +35,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
 download-cert-message = អ្នក​ត្រូវ​បាន​ស្នើ​ឲ្យ​ជឿ​ទុកចិត្ត​លើ​​អាជ្ញាធរ​​វិញ្ញាបនបត្រ​ (CA) ថ្មី ។
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = តើ​អ្នក​ពិតជា​ចង់​ជឿជាក់​លើ "{ $caName }" សម្រាប់​ចម្លើយតប​ដូច​ខាងក្រោម​ឬ ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ប្រភព​វិញ្ញាបនបត្រ (គ្មាន​ឈ្មោះ)
 download-cert-trust-ssl =
     .label = ទុកចិត្ត​លើ CA នេះ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ ។
 download-cert-trust-email =
@@ -58,3 +65,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ (ម្ដងទៀត)៖
 set-password-reminder = សំខាន់ ៖ ប្រសិនបើ​អ្នក​ភ្លេច​ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ​របស់​អ្នក អ្នក​នឹង​មិន​អាច​ស្ដារ​ឯកសារ​បម្រុង​ទុក​នេះ​នៅ​ពេល​ក្រោយ​បាន​ទេ ។  សូម​ចម្លង​វា​ទុក​នៅ​ក្នុង​ទីតាំង​សុវត្ថិភាព ។
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = សូម​បញ្ចូល​ពាក្យសម្ងាត់​ដែល​ធ្លាប់​បាន​ប្រើ​សម្រាប់​ដាក់​លេខ​កូដ​ការ​បម្រុងទុក​វិញ្ញាបនបត្រ​នេះ។
+
+## Protected authentication dialog
+

@@ -12,6 +12,8 @@ change-password-token = सुरक्षा उपकरण: { $tokenName }
 change-password-old = सद्याचो गुप्तशब्द:
 change-password-new = नवो गुप्तशब्द :
 change-password-reenter = नवो गुप्तशब्द (परतून):
+change-password-not-set =
+    .value = (थारोंवक ना)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .title = प्रमाणपत्रां डावनलोड करता
     .style = min-width: 46em
 download-cert-message = नवे प्रमाणपत्र अधिकारिणी (सीए) चेर विश्वास दवरुपाक तुमका सांगला.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = तुमी मुखावेल्या कारणाखातीर  "{ $caName }" चेर विस्वास दवरुपाक सोदता?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = प्रमाणपत्र अधिकारिणी (निनावी)
 download-cert-trust-ssl =
     .label = वेबसायटी ओळखपाक ह्या CA चेर विश्वास दवरात
 download-cert-trust-email =
@@ -32,8 +39,6 @@ download-cert-message-desc = ह्या CA  प्रमाणपत्रा�
 download-cert-view-cert =
     .label = दृश्य
 download-cert-view-text = सीए प्रमाणपत्र तपासात
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -51,9 +56,8 @@ set-password-repeat-backup-pw =
     .value = प्रमाणपत्र बॅकअप गुप्तशब्द (परतून):
 set-password-reminder = महत्त्वाचे: जर तुमी तुमचे प्रमाणपत्र बॅकअप पासवर्ड विसरले तुमी हो बॅकअप परतून सारको करपाक शकचे ना. तो सुरक्षित जाग्यार नोंद करून दवरात.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

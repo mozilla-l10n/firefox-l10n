@@ -102,6 +102,15 @@ security-view-technical =
     .value = ଯାନ୍ତ୍ରିକ ବିବରଣୀ
 help-button =
     .label = ସହାୟତା
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = ଆପଣ ଦେଖୁଥିବା ପୃଷ୍ଠା ପାଇଁ ସଂଗୁପ୍ତକୁ ୱେବ ସାଇଟ { $website } ସମର୍ଥନ କରେ ନାହିଁ.
+security-technical-no-encryption-transit = ଇଣ୍ଟରନେଟରେ ସଂଗୁପ୍ତ ବିନା ପଠାଯାଇଥିବା ସୂଚନାକୁ ଗତିକରୁଥିବା ସମୟରେ ଅନ୍ୟବ୍ୟକ୍ତି ଦେଖିପାରିବେ.
+security-technical-no-encryption-page = ଆପଣ ଦେଖୁଥିବା ପୃଷ୍ଠାଟି ଇଣ୍ଟରନେଟରେ ଛଡ଼ାହେବା ଆଗରୁ ଗୋପନ (ଏନକ୍ରିପ୍ଟ) କରାଯାଇନଥିଲା ।
+security-technical-encrypted-page = ଆପଣ ଦେଖୁଥିବା ପୃଷ୍ଠାଟି ଇଣ୍ଟରନେଟରେ ପ୍ରସାରଣ ହେବା ପୂର୍ବରୁ ସଂଗୁପ୍ତ କରାଯାଇଥିଲା.
+security-technical-encrypted-description = ଏନକ୍ରିପସନ କମ୍ପୁଟରଗୁଡ଼ିକ ମଧ୍ୟରେ ଯାଉଥିବା ସୂଚନାକୁ ଅନୁମୋଦନ ପାଇନଥିବା ଲୋକଙ୍କ ପାଇଁ ଦେଖିବା କଠିନ କରିଦେଇଥାଏ । ସେଥିପାଇଁ ଏହା ନେଟୱାର୍କ ଭିତରେ ଯାଉଥିବା ବେଳେ କୌଣସି ଲୋକ ଏହାକୁ ପଢ଼ିବାର ସମ୍ଭାବନା ନଥାଏ ।
+security-technical-mixed-content-description = ଆପଣ ଦେଖୁଥିବା ପୃଷ୍ଠାର ଅଂଶଟି ଇଣ୍ଟରନେଟରେ ସଞ୍ଚାର କରିବା ପୂର୍ବରୁ ସଂଗୁପ୍ତ ହୋଇନାହିଁ.
+security-technical-weak-cipher = ଏହି ୱେବସାଇଟ ସହ ଆପଣଙ୍କ ସଂଯୋଗ ଦୁର୍ବଳ ଏନକ୍ରିପସନ ବ୍ୟବହାର କରେ ଓ ତାହା ଗୋପନୀୟ ନୁହେଁ । ଅନ୍ୟ ଲୋକେ ଆପଣଙ୍କ ତଥ୍ୟ ଦେଖିପାରିବେ ଓ ୱେବସାଇଟର ବ୍ୟବହାର ବଦଳାଇପାରିବେ ।
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -111,6 +120,23 @@ help-button =
 
 security-site-data-cookies-only = ହଁ, ପିଠା
 security-site-data-no = ନାଁ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = ସଂଯୋଗଟି ସଂଗୁପ୍ତ ନୁହଁ
+security-technical-mixed-content =
+    .value = ସଂଯୋଗଟି ଆଂଶିକ ସଂଗୁପ୍ତ ଅଟେ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = ସଂଯୋଗ ଗୋପନ (ଏନକ୍ରିପ୍ଟ) କରାଗଲା ({ $algorithm }, { $keySize } ବିଟ କି, { $protocol })
+security-technical-broken-encryption =
+    .value = ଭଙ୍ଗା ଏନକ୍ରିପସନ ({ $algorithm }, { $keySize } ବିଟ କି, { $protocol })
 
 ##
 

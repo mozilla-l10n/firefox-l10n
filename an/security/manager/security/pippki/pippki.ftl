@@ -12,6 +12,8 @@ change-password-token = Dispositivo de seguranza: { $tokenName }
 change-password-old = Clau actual:
 change-password-new = Clau nueva:
 change-password-reenter = Clau nueva (unatra vegada):
+change-password-not-set =
+    .value = (no definiu)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Descargando o certificau
 download-cert-message = Se l'ha demandau que confíe en una entidat certificadera (CA) nueva.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Quiere confiar en "{ $caName }" ta las fins siguients?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Entidat certificadera (sin nombre)
 download-cert-trust-ssl =
     .label = Confiar en ista CA ta identificar puestos web.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Clau d'a copia de seguranza d'o certificau (unatra vegada):
 set-password-reminder = Important: si ixuplida a clau d'a copia de seguranza d'o certificau no podrá restablir-la mas entabant.  Alce-la en un puesto seguro.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Escriba a clau que emplegó ta zifrar a copia de seguranza d'iste certificau.
+
+## Protected authentication dialog
+

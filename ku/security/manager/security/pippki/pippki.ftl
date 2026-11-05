@@ -12,6 +12,8 @@ change-password-token = Amûrê Ewlekariyê: { $tokenName }
 change-password-old = Nasnavê Niha:
 change-password-new = Nasnavê nû:
 change-password-reenter = Nasnavê nû (dubare):
+change-password-not-set =
+    .value = ( mîheng nebûye)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .title = Sertîfîka tê jêbarkirin
     .style = min-width: 46em
 download-cert-message = Te Ewlekariya Rêvebira Sertîfîkayeke nû (CA) pirs kir.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Dixwazî jo bo van armancan li "{ $caName }" 'ê ewle bî?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Rayedarê Sertîfîkayê (bênav)
 download-cert-trust-ssl =
     .label = Ev CA ji bo diyarkirina malperan ewle ye.
 download-cert-trust-email =
@@ -32,8 +39,6 @@ download-cert-message-desc = Ji bo hemû armancan berî ku bi vê CA 'ê ewle b�
 download-cert-view-cert =
     .label = Nîşan bide
 download-cert-view-text = Sertîfîkaya CA 'yê kontrol bike
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -51,9 +56,8 @@ set-password-repeat-backup-pw =
     .value = Nasnavê Hilanîna Sertîfîkayê (dubare):
 set-password-reminder = Girîngî: Heke nasnavê xwe yê hilanîna sertîfîkayê ji bîr bikî, nikarî dû re vê hilanînê çêkî. Ji kerema xwe re vê li ciyeke ewle veşêre.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

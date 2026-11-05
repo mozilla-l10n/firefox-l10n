@@ -96,6 +96,35 @@ security-view-technical =
     .value = Iinkcukacha zobuchwepheshe
 help-button =
     .label = Uncedo
+security-technical-no-encryption-transit = Ulwazi oluthunyelwe ngeintanethi ngaphandle kokugqunywa lunokubonwa ngabanye abantu xa lusendleleni.
+security-technical-encrypted-page = Ikhasi olijongileyo belunoguqulelo oluntsonkothileyo phambi kokuthuthelwa Kunxibelelwano.
+security-technical-encrypted-description = Ukukhowuda kwenza kube nzima kubantu abangagunyaziswanga ukujonga ulwazi xa behamba phakathi kweekhompyutha. Ngoko ke akunakwenzeka kungabikho mntu ofunda eli khasi njengoko belihamba phakathi komsebenzi wenethwekhi.
+security-technical-mixed-content-description = Iinxalenye zekhasi olijongileyo bezingenaluguqulelo luntsonkothileyo phambi kokuba zithuthelwe Kunxibelelwano.
+security-technical-weak-cipher = Uqhagamshelo lwakho kule webhsayithi lusebenzisa i-enkripshini ebuthathaka yaye ayikho bucala Abanye abantu banokujonga inkcazelo yakho okanye batshintshe ukusebenza kwewebhsayithi.
+
+## These strings are used to tell the user if the website is storing cookies
+## and data on the users computer in the security tab of pageInfo
+## Variables:
+##   $value (number) - Amount of data being stored
+##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Umdibaniso Awunanguqulelo Entsonkothileyo
+security-technical-mixed-content =
+    .value = Umdibaniso Unoguqulelo Oluntsonkothileyo Olungaphelelanga
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Uqhagamshelo Lukhowudiwe ({ $algorithm }, { $keySize } iikhi zebit, { $protocol })
+security-technical-broken-encryption =
+    .value = Ukukhowuda Okonakeleyo ({ $algorithm }, { $keySize } iikhi zebit, { $protocol }
 
 ##
 

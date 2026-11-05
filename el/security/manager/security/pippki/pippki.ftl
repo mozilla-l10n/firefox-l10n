@@ -14,6 +14,8 @@ change-password-token = Συσκευή ασφάλειας: { $tokenName }
 change-password-old = Τρέχων κωδικός πρόσβασης:
 change-password-new = Νέος κωδικός πρόσβασης:
 change-password-reenter = Νέος κωδικός πρόσβασης (ξανά):
+change-password-not-set =
+    .value = (δεν έχει οριστεί)
 pippki-failed-pw-change = Δεν είναι δυνατή η αλλαγή του κωδικού πρόσβασης.
 pippki-incorrect-pw = Δεν εισήγατε τον σωστό κωδικό πρόσβασης. Δοκιμάστε ξανά.
 pippki-pw-change-ok = Επιτυχής αλλαγή κωδικού πρόσβασης.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Λήψη πιστοποιητικού
 download-cert-message = Σας ζητήθηκε να εμπιστευθείτε μια νέα Αρχή Πιστοποίησης (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Θέλετε να εμπιστευτείτε το «{ $caName }» για τους παρακάτω σκοπούς;
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Αρχή πιστοποίησης (χωρίς όνομα)
 download-cert-trust-ssl =
     .label = Να θεωρείται αξιόπιστη αυτή η ΑΠ για την αναγνώριση ιστοτόπων.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Κωδικός αντιγράφου ασφάλειας πιστοποιητικού (ξανά):
 set-password-reminder = Σημαντικό: Εάν ξεχάσετε τον κωδικό πρόσβασης του αντιγράφου ασφαλείας του πιστοποιητικού, δεν θα μπορείτε να το ανακτήσετε αργότερα. Φυλάξτε τον κωδικό πρόσβασης σε ασφαλή τοποθεσία.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Εισαγάγετε τον κωδικό πρόσβασης που χρησιμοποιήθηκε για την κρυπτογράφηση του αντιγράφου ασφαλείας του πιστοποιητικού:
 
 ## Protected authentication dialog
 

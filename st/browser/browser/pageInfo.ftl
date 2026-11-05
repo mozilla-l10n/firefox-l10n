@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 425px; min-height: 470px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kopi
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Kgetha Tsohle
     .accesskey = T
-
 general-title =
     .value = Thaetlele:
 general-url =
@@ -35,7 +32,6 @@ general-meta-name =
     .label = Lebitso
 general-meta-content =
     .label = Dikateng
-
 media-alt-header =
     .label = Mongolo wa Phapanyetsano
 media-address =
@@ -49,12 +45,30 @@ media-long-desc =
 media-save-as =
     .label = Boloka Ele...
     .accesskey = S
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Setsha sa inthanete sa { $website } ha se tshehetse ho enkriptwa bakeng sa leqephe leo o le shebileng.
+security-technical-no-encryption-transit = Tlhahisoleseding e rometsweng ka inthanete e sa enkriptwa e ka bonwa ke batho ba bang ha e le tseleng.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Kgokelo Ha e a Enkriptwa
+security-technical-mixed-content =
+    .value = Connection Partially Encrypted
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -69,7 +83,6 @@ media-object = Objekte
 media-embed = Tsepamisa
 media-link = Aekhone
 media-input = Kenyo
-
 no-page-title =
     .value = Leqephe le Se nang Thaetlele:
 general-quirks-mode =

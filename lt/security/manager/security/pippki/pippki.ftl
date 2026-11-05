@@ -14,6 +14,8 @@ change-password-token = Saugumo priemonė: { $tokenName }
 change-password-old = Dabartinis slaptažodis:
 change-password-new = Naujas slaptažodis:
 change-password-reenter = Naujas slaptažodis (pakartoti):
+change-password-not-set =
+    .value = (nėra)
 pippki-failed-pw-change = Nepavyko pakeisti slaptažodžio.
 pippki-incorrect-pw = Neteisingai surinkote dabartinį slaptažodį. Bandykite dar kartą.
 pippki-pw-change-ok = Slaptažodis sėkmingai pakeistas.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Liudijimo atsiuntimas
 download-cert-message = Jūsų prašoma nurodyti, ką patikite naujai liudijimų įstaigai (LĮ).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ar norite šiais atvejais pasitikėti „{ $caName }“?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Liudijimų įstaiga (pavadinimo nėra)
 download-cert-trust-ssl =
     .label = Patikėti šiai LĮ paliudyti svetainių tapatumą.
 download-cert-trust-email =
@@ -86,3 +93,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Liudijimo atsarginės kopijos slaptažodis (pakartoti):
 set-password-reminder = Svarbu. Jei pamiršite atsarginės kopijos slaptažodį, jo atkurti negalėsite. Todėl jį užsirašykite ir paslėpkite saugioje vietoje.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Surinkite slaptažodį, kuriuo buvo užšifruota šio liudijimo atsarginė kopija:
+
+## Protected authentication dialog
+

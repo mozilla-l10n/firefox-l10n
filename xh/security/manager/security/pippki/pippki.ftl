@@ -9,6 +9,8 @@ password-quality-meter = Umlinganiselo womgangatho wegama lokugqithisa
 change-password-old = Igama lokugqithisa langoku:
 change-password-new = Igama lokugqithisa elitsha:
 change-password-reenter = Igama lokugqithisa (kwakhona):
+change-password-not-set =
+    .value = (akumiselwanga)
 
 ## Reset Primary Password dialog
 
@@ -21,6 +23,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Kuthotywa Umthwalo Wesatifikethi
 download-cert-message = Ucelwe ukuba uthembe Ugunyaziwe Wesatifikethi omtsha (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ingaba ufuna ukuthemba i- "{ $caName }" ngezizathu ezilandelayo?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Ugunyaziwe Wesatifikethi (akanagama)
 download-cert-trust-email =
     .label = Themba le-CA ukuchonga abasebenzisi bemeyile.
 download-cert-message-desc = Phambi kokuyithemba le-CA ngaso nasiphi isizathu, kufuneka uqale uhlole isatifikethi sayo nomgaqonkqubo kunye neendlela zokuqhuba (ukuba zikhona).
@@ -43,3 +50,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Igama lokugqithisa lekopi egcinwayo yesatifikethi (kwakhona):
 set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi egcinwayo yesatifikethi sakho, akusayi kukwazi ukubuyisela ikopi egcinwayo emva kwethuba.  Nceda yigcine ngokuyibhala kwindawo yokugcina ekhuselekileyo.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Nceda ngenisa iphaswedi ebisetyenziselwa uguqulelo oluntsonkothileyo ngekopi egcinwayo yesi satifikethi:
+
+## Protected authentication dialog
+

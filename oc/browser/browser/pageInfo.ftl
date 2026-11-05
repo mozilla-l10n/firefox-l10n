@@ -107,6 +107,16 @@ security-view-technical =
     .value = Detalhs tecnics
 help-button =
     .label = Ajuda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Lo site Web { $website } supòrta pas lo chiframent per la pagina actualament afichada.
+security-technical-no-encryption-transit = Las entresenhas mandadas sus Internet sens chiframent pòdon èsser vistas per d'autras personas durant lor transit.
+security-technical-no-encryption-page = La pagina que vesètz es estada chifrada abans sa transmission sus Internet.
+security-technical-encrypted-page = La pagina que vesètz es estada chifrada abans sa transmission sus Internet.
+security-technical-encrypted-description = Lo chiframent fa fòrt dificil a las personas pas autorizadas la visualizacion de la pagina durant son transit entre ordenadors. Doncas, es fòrt improbable que qualqu'un pòsca legir aquesta pagina durant son transit sus la ret.
+security-technical-mixed-content-description = D'unas partidas de la pagina que visionatz son pas estadas chifradas abans d'èsser transmesas sus Internet.
+security-technical-weak-cipher = Vòstra connexion a aquel site web utiliza un nivèl de chiframent feble e es pas privada. D'autres pòdon veire vòstras informacions o modificar lo compòrtament del site web.
+security-technical-ct-compliant = Lo site web respècta lo certificat de la politica de transparéncia.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = Òc-ben, de cookies e { $value } { $unit } de don
 security-site-data-only = Òc-ben, { $value } { $unit } de donadas de site
 security-site-data-cookies-only = Òc-ben, de cookies
 security-site-data-no = Non
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Connexion pas chifrada
+security-technical-mixed-content =
+    .value = Connexion parcialament chifrada
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Connexion chifrada (claus { $algorithm }, { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Chiframent pas fisable (claus { $algorithm }, { $keySize } bits, { $protocol })
 
 ##
 

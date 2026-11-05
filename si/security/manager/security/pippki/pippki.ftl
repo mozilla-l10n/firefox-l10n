@@ -14,6 +14,8 @@ change-password-token = ආරක්‍ෂණ උපාංගය: { $tokenName }
 change-password-old = වත්මන් මුරපදය:
 change-password-new = නව මුරපදය:
 change-password-reenter = නව මුරපදය (නැවත):
+change-password-not-set =
+    .value = (සකසා නැත)
 pippki-failed-pw-change = මුරපදය වෙනස් කළ නොහැකිය.
 pippki-incorrect-pw = ඔබ නිවැරදි වත්මන් මුරපදය ඇතුල් කර නැත. නැවත උත්සාහ කරන්න.
 pippki-pw-change-ok = මුරපදය වෙනස් කෙරිණි.
@@ -38,6 +40,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = සහතිකය බාගැනෙමින්
 download-cert-message = නව සහතික අධිකාරියක් (CA) විශ්වාස කිරීමට ඉල්ලා ඇත.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = ඔබට පහත කාරණා සඳහා “{ $caName }” විශ්වාස කිරීමට අවශ්‍යද?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = සහතික අධිකාරිය (නම් නොකළ)
 download-cert-trust-ssl =
     .label = අඩවි හඳුනා ගැනීමට මෙම CA විශ්වාස කරන්න.
 download-cert-trust-email =
@@ -87,3 +94,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = සහතිකයේ උපස්ථ මුරපදය (නැවත):
 set-password-reminder = වැදගත්: ඔබගේ සහතිකයේ උපස්ථ මුරපදය අමතක වුවහොත්, මෙම උපස්ථය පසුව ප්‍රත්‍යර්පණය කිරීමට නොහැකි වනු ඇත. එය ආරක්‍ෂිත ස්ථානයක සටහන් කරන්න.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = මෙම සහතික උපස්ථය සංකේතනය කිරීමට භාවිතා කළ මුරපදය යොදන්න:
+
+## Protected authentication dialog
+

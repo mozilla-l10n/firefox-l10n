@@ -107,6 +107,16 @@ security-view-technical =
     .value = Hollësi Teknike
 help-button =
     .label = Ndihmë
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Sajti { $website } nuk mbulon fshehtëzim për faqen që po shihni.
+security-technical-no-encryption-transit = Të dhëna të dërguara përmes Internetit të pafshehtëzuara mund të shihen nga persona të tjerë gjatë kohës së transitit.
+security-technical-no-encryption-page = Faqja që po shihni, s’qe fshehtëzuar para se të transmetohej përmes Internetit.
+security-technical-encrypted-page = Faqja që po shihni, qe fshehtëzuar, përpara se të transmetohej nëpër Internet.
+security-technical-encrypted-description = Fshehtëzimi ua bën të vështirë personave të paautorizuar parjen e të dhënave që udhëtojnë mes kompjuterave. Ndaj ka shumë pak gjasa që dikush ta lexojë këtë faqe, teksa ajo udhëton nëpër rrjet.
+security-technical-mixed-content-description = Pjesë të faqes që po shihni, s’qenë fshehtëzuar, përpara se të transmetoheshin nëpër Internet.
+security-technical-weak-cipher = Lidhja juaj te ky sajt përdor fshehtëzim të dobët dhe s’është private. Persona të tjerë mund të shohin të dhënat tuaja ose të ndryshojnë sjelljen e sajtit.
+security-technical-ct-compliant = Ky sajt është në përputhje me rregullat Certificate Transparency.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = Po, “cookies” dhe { $value } { $unit } të dhë
 security-site-data-only = Po, { $value } { $unit } të dhëna sajti
 security-site-data-cookies-only = Po, “cookies”
 security-site-data-no = Jo
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Lidhje Jo e Fshehtëzuar.
+security-technical-mixed-content =
+    .value = Lidhje Pjesërisht e Fshehtëzuar
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Lidhje e Fshehtëzuar ({ $algorithm }, kyç { $keySize } bit, { $protocol })
+security-technical-broken-encryption =
+    .value = Fshehtëzim i Dëmtuar (kyçe { $algorithm }, { $keySize } bit, { $protocol })
 
 ##
 

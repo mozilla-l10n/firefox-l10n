@@ -110,6 +110,16 @@ security-view-technical =
     .value = Chi tiết kĩ thuật
 help-button =
     .label = Trợ giúp
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Trang web { $website } không hỗ trợ mã hóa cho trang bạn đang xem.
+security-technical-no-encryption-transit = Thông tin được gửi qua Internet mà không mã hóa có thể bị người khác xem trong khi nó đang được truyền tải.
+security-technical-no-encryption-page = Trang bạn đang xem không được mã hóa trước khi nó được truyền tải trên Internet.
+security-technical-encrypted-page = Trang bạn đang xem được mã hóa trước khi nó được truyền tải trên Internet.
+security-technical-encrypted-description = Mã hóa sẽ gây khó khăn cho những người không được ủy quyền xem thông tin di chuyển giữa các máy tính. Do đó, không ai có thể đọc trang này khi nó di chuyển trên mạng.
+security-technical-mixed-content-description = Một số phần của trang bạn đang xem không được mã hóa trước khi được truyền tải trên Internet.
+security-technical-weak-cipher = Kết nối của bạn đến trang web này sử dụng mã hóa yếu và không riêng tư. Những người khác có thể xem thông tin của bạn hoặc sửa đổi hành vi của trang web.
+security-technical-ct-compliant = Trang web này tuân thủ chính sách Chứng chỉ minh bạch.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Có, cookie và { $value } { $unit } dữ liệu tr
 security-site-data-only = Có, { $value } { $unit } dữ liệu trang web
 security-site-data-cookies-only = Có, cookie
 security-site-data-no = Không
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Kết nối không được mã hóa
+security-technical-mixed-content =
+    .value = Kết nối được mã hóa một phần
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Kết nối đã được mã hóa ({ $algorithm }, khóa { $keySize } bit, { $protocol })
+security-technical-broken-encryption =
+    .value = Mã hóa bị hỏng ({ $algorithm }, khóa { $keySize } bit, { $protocol })
 
 ##
 

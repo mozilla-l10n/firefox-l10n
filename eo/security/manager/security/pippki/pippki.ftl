@@ -14,6 +14,8 @@ change-password-token = Sekureca aparato: { $tokenName }
 change-password-old = Nuna pasvorto:
 change-password-new = Nova pasvorto:
 change-password-reenter = Nova pasvorto (denove):
+change-password-not-set =
+    .value = (ne difinita)
 pippki-failed-pw-change = Ne eblas ŝanĝi la ĉefan pasvorton.
 pippki-incorrect-pw = Vi ne tajpis la ĝustan (nunan) ĉefan pasvorton. Bonvolu klopodi denove.
 pippki-pw-change-ok = Ĉefa pasvorto sukcese ŝanĝita.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Elŝutanta atestilon
 download-cert-message = Fido je nova atestila aŭtoritato (CA) estis petita al vi.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ĉu vi volas fidi je "{ $caName }" por la jenaj taskoj?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Atestila aŭtoritato (sennoma)
 download-cert-trust-ssl =
     .label = Fidi tiun ĉi atestilan aŭtoritaton por identigi retejojn.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Pasvorto por atestila sekurkopio (denove):
 set-password-reminder = Grava rimarko: Se vi forgesas la pasvorton  de via atestila sekurkopio vi ne povos uzi la sekurkopion poste. Bonvolu registri la pasvorton en sekura loko.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Bonvolu tajpi la pasvorton uzitan por ĉifri la sekurkopion de tiu ĉi atestilo:
 
 ## Protected authentication dialog
 

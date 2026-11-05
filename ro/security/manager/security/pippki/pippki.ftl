@@ -14,6 +14,8 @@ change-password-token = Dispozitiv de securitate: { $tokenName }
 change-password-old = Parola actuală:
 change-password-new = Parola nouă:
 change-password-reenter = Parola nouă (din nou):
+change-password-not-set =
+    .value = (nesetată)
 pippki-failed-pw-change = Parola nu a putut fi modificată.
 pippki-incorrect-pw = Nu ai introdus corect parola curentă. Te rugăm să încerci din nou.
 pippki-pw-change-ok = Parola a fost schimbată cu succes.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Descărcare certificat
 download-cert-message = Vi se cere să acreditați o autoritate nouă de certificare (AC).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vrei să acorzi încredere „{ $caName }” în următoarele scopuri?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritate de certificare (fără nume)
 download-cert-trust-ssl =
     .label = Acreditează această AC pentru identificarea site-urilor web.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Parola backupului cu certificate (din nou):
 set-password-reminder = Important: Dacă uiți parola de siguranță pentru certificate, nu vei putea reface această copie mai târziu.  Te rugăm să ai grijă să o păstrezi într-un loc sigur.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Te rugăm să introduci parola cu care s-a criptat această copie de siguranță a certificatelor:
 
 ## Protected authentication dialog
 

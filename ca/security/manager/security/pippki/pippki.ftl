@@ -14,6 +14,8 @@ change-password-token = Dispositiu de seguretat: { $tokenName }
 change-password-old = Contrasenya actual:
 change-password-new = Contrasenya nova:
 change-password-reenter = Contrasenya nova (un altre cop):
+change-password-not-set =
+    .value = (no definit)
 pippki-failed-pw-change = No s'ha pogut canviar la contrasenya.
 pippki-incorrect-pw = No heu introduït la contrasenya actual correcta. Torneu-ho a provar.
 pippki-pw-change-ok = La contrasenya s'ha canviat correctament.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Baixada de certificats
 download-cert-message = Se us ha demanat que confieu en una entitat certificadora (CA) nova.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Voleu confiar en «{ $caName }» per a les finalitats següents?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Entitat certificadora (sense nom)
 download-cert-trust-ssl =
     .label = Confia en aquesta CA per identificar llocs web.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contrasenya de la còpia de seguretat del certificat (un altre cop):
 set-password-reminder = Important: si oblideu la contrasenya de la còpia de seguretat del certificat, no podreu recuperar-la més endavant. Deseu-la en un lloc segur.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Introduïu la contrasenya que es va utilitzar per xifrar la còpia de seguretat d'aquest certificat:
 
 ## Protected authentication dialog
 

@@ -110,6 +110,16 @@ security-view-technical =
     .value = Detalhes técnicos
 help-button =
     .label = Ajuda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = O site { $website } não oferece criptografia para a página exibida.
+security-technical-no-encryption-transit = Informações não criptografadas estão sujeitas a interceptação durante a transmissão pela rede.
+security-technical-no-encryption-page = A página exibida não foi criptografada antes ser transmitida pela internet.
+security-technical-encrypted-page = A página sendo vista foi criptografada antes ser transmitida pela internet.
+security-technical-encrypted-description = A criptografia torna difícil que pessoas não autorizadas vejam as informações transmitidas entre dois computadores. Portanto é improvável que alguém tenha interceptado esta página durante a transmissão pela rede.
+security-technical-mixed-content-description = Partes da página que você está vendo não foram criptografadas antes de ser transmitidas pela internet.
+security-technical-weak-cipher = A conexão com este site usa uma encriptação fraca e não é privativa. Outras pessoas poder ver suas informações ou modificar o comportamento do site.
+security-technical-ct-compliant = Este site está em conformidade com a política de transparência de certificado.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Sim, cookies e { $value } { $unit } de dados do sit
 security-site-data-only = Sim, { $value } { $unit } de dados do site
 security-site-data-cookies-only = Sim, cookies
 security-site-data-no = Não
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Conexão não criptografada
+security-technical-mixed-content =
+    .value = Conexão criptografada parcialmente
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Conexão criptografada ({ $algorithm }, chaves de { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Criptografia comprometida ({ $algorithm }, chaves de { $keySize } bits, { $protocol })
 
 ##
 

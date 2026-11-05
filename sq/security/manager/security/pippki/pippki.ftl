@@ -14,6 +14,8 @@ change-password-token = Pajisje Sigurie: { $tokenName }
 change-password-old = Fjalëkalimi i tanishëm:
 change-password-new = Fjalëkalimi i ri:
 change-password-reenter = Fjalëkalimi i ri (sërish):
+change-password-not-set =
+    .value = (i pacaktuar)
 pippki-failed-pw-change = S’arrihet të ndryshohet fjalëkalimi.
 pippki-incorrect-pw = S’dhatë fjalëkalimin e saktë të tanishëm. Ju lutemi, riprovoni.
 pippki-pw-change-ok = Fjalëkalimi u ndryshua me sukses!
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Shkarkim Dëshmie
 download-cert-message = Ju është kërkuar të besoni një Autoritet të ri Dëshmish (AD).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Doni të besohet "{ $caName }" për qëllimet vijues?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritet Dëshmish (pa emër)
 download-cert-trust-ssl =
     .label = Beso këtë AD në identifikim sajtesh.
 download-cert-trust-email =
@@ -98,3 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Fjalëkalim kopjeruajtjeje dëshmish (sërish):
 set-password-reminder = E rëndësishme: Nëse harroni fjalëkalim kopjeruajtjeje dëshmish, nuk do të jeni në gjendje të riktheni më vonë këtë kopjeruajtje. Ju lutemi, regjistrojeni në një vend të parrezik.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Ju lutemi, jepni fjalëkalimin që qe përdorur për fshehtëzimin e kësaj kopjeruajtjeje dëshmie:
+
+## Protected authentication dialog
+

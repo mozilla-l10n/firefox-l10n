@@ -14,6 +14,8 @@ change-password-token = Segurtasun-gailua: { $tokenName }
 change-password-old = Uneko pasahitza:
 change-password-new = Pasahitz berria:
 change-password-reenter = Pasahitz berria (berriro):
+change-password-not-set =
+    .value = (ezarri gabe)
 pippki-failed-pw-change = Ezin da pasahitza aldatu.
 pippki-incorrect-pw = Ez duzu uneko pasahitz zuzena sartu. Saiatu berriro.
 pippki-pw-change-ok = Pasahitza ondo aldatu da.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Ziurtagiria deskargatzen
 download-cert-message = Autoritate ziurtagiri (AZ) berri batez fidatzeko eskatu zaizu.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = "{ $caName }" fidagarritzat jo nahi duzu ondoko helburu hauetarako?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritate ziurtagiri emailea (izenik gabe)
 download-cert-trust-ssl =
     .label = Fidatu AZ honetaz webguneak identifikatzeko.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ziurtagiri babeskopiaren pasahitza (berriro):
 set-password-reminder = Garrantzizkoa: Ziurtagiri-babeskopiaren pasahitza ahazten bazaizu, ezin izango duzu geroago babeskopia hori berreskuratu.  Gorde ezazu leku seguru batean.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Idatzi ziurtagiriaren babeskopia hau zifratzeko erabili zen pasahitza:
 
 ## Protected authentication dialog
 

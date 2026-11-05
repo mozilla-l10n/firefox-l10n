@@ -12,6 +12,8 @@ change-password-token = সুৰক্ষাৰ ডিভাইচ: { $tokenNam
 change-password-old = বৰ্ত্তমান পাছৱাৰ্ড:
 change-password-new = নতুন পাছৱাৰ্ড:
 change-password-reenter = নতুন পাছৱাৰ্ড (আকৌ):
+change-password-not-set =
+    .value = (নিৰ্ধাৰিত নহয়)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
 download-cert-message = আপোনাক এটা নতুন প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষক (CA) বিশ্বাস কৰিবলৈ অনুৰোধ কৰা হৈছে।
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = তলৰ কাৰ্য্যৰ কাৰণে আপুনি "{ $caName }" ক বিশ্বাস কৰিব বিচাৰে নে?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষ (নাম নোহোৱা)
 download-cert-trust-ssl =
     .label = ৱেব ছাইটৰ পৰিচয়ৰ কাৰণে এই CA ক বিশ্বাস কৰক।
 download-cert-trust-email =
@@ -49,3 +56,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড (আকৌ):
 set-password-reminder = গুৰুত্বপূৰ্ণ: প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড পাহৰিলে, পিছত আপুনি এই বেক-আপ পুনঃ স্থাপন কৰিব নোৱাৰে।  অনুগ্ৰহ কৰি ইয়াক এটা সুৰক্ষিত স্থানত ৰাখক।
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

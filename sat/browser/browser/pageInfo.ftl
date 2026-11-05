@@ -107,6 +107,16 @@ security-view-technical =
     .value = ᱴᱮᱠᱱᱤᱠᱟᱹᱞ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 help-button =
     .label = ᱜᱚᱲᱚ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = ᱣᱮᱵᱥᱟᱭᱤᱴ { $website } ᱟᱢᱮᱢ ᱧᱮᱞᱮᱫ ᱥᱟᱦᱴᱟ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱱᱟᱝᱠ ᱵᱟᱭ ᱜᱚᱲᱚᱣᱟᱜ ᱟ ᱾
+security-technical-no-encryption-transit = ᱵᱮᱜᱚᱨ ᱫᱟᱱᱟᱝ ᱛᱮ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱪᱮᱛᱟᱱ ᱛᱮ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱠᱩᱞᱮᱱᱟ ᱮᱴᱟᱜ ᱦᱚᱲ ᱫᱟᱨᱟᱭ ᱛᱮ ᱩᱪᱟᱹ़ᱲᱚᱜ ᱡᱚᱦᱚᱜ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
+security-technical-no-encryption-page = ᱟᱢᱮᱢ ᱧᱮᱞᱮᱫ ᱥᱟᱦᱴᱟ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱪᱮᱛᱟᱱ ᱛᱮ ᱩᱪᱟᱹ़ᱲᱚᱠ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱵᱝ ᱫᱟᱱᱟᱝᱟᱜ ᱞᱮᱱᱟ ᱾
+security-technical-encrypted-page = ᱟᱢᱮᱢ ᱧᱮᱞᱮᱫ ᱥᱟᱦᱴᱟ ᱤᱱᱴᱟᱨ ᱱᱮᱴ ᱪᱮᱛᱟᱱ ᱛᱮ ᱩᱪᱟᱹ़ᱲᱚᱠ ᱢᱟᱲᱟᱝ ᱫᱟᱱᱟᱝ ᱨᱮ ᱛᱟᱦᱮᱸ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾
+security-technical-encrypted-description = ᱫᱟᱱᱟᱝ ᱫᱚ ᱵᱟᱝ ᱟᱫᱮᱨ ᱪᱷᱚ ᱦᱚᱲᱠᱚ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱠᱚᱵᱡᱟ ᱨᱮ ᱟᱸᱴ ᱠᱚᱣᱟᱭ ᱾ ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱩᱱᱟᱹᱜ ᱥᱚᱢᱵᱷᱚᱵ ᱵᱟᱝ ᱠᱟᱱᱟ ᱡᱮ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱡᱟᱦᱟᱸᱭ ᱜᱮ ᱯᱟᱲᱦᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ ᱱᱮᱴᱣᱟᱨᱠ ᱛᱮ ᱯᱟᱨᱚᱢᱚᱜ ᱠᱟᱱᱟ ᱾
+security-technical-mixed-content-description = ᱟᱢᱟᱜ ᱧᱮᱞ ᱨᱮᱭᱟᱜ ᱥᱟᱦᱴᱟ ᱦᱟᱹᱴᱤᱧ ᱚᱱᱛᱚᱨ ᱡᱟᱞᱟᱢ ᱪᱮᱛᱟᱱ ᱛᱮ ᱩᱪᱟᱲᱚᱜ ᱢᱟᱬᱟᱝ ᱵᱟᱭ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ᱾
+security-technical-weak-cipher = ᱱᱚᱣᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱛᱮ ᱟᱢᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱠᱚᱢᱡᱚᱨᱤᱭᱟ ᱫᱟᱱᱟᱝ ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱭ ᱟᱨ ᱱᱚᱶᱟ ᱫᱚ ᱱᱤᱡᱚᱨᱟᱜ ᱞᱮᱠᱷᱟ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾ ᱮᱴᱟᱜ ᱦᱚᱲ ᱟᱢᱟᱜ ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ  ᱥᱮ ᱣᱮᱵᱽᱥᱟᱭᱤᱴᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+security-technical-ct-compliant = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱟᱨᱫᱚᱨᱥᱤ ᱱᱤᱛᱤ ᱥᱟᱞᱟᱜ ᱡᱚᱲᱟᱣ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = ᱦᱚᱭ, ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤ�
 security-site-data-only = ᱦᱚᱭ, ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ { $value }{ $unit }
 security-site-data-cookies-only = ᱦᱚᱭ, ᱠᱩᱠᱤ ᱠᱚ
 security-site-data-no = ᱵᱟᱝ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = ᱡᱚᱱᱚᱲᱟᱣ ᱵᱟᱭ ᱫᱟᱱᱟᱝ
+security-technical-mixed-content =
+    .value = ᱡᱚᱱᱚᱲᱟᱣ ᱦᱤᱸᱥ ᱞᱮᱠᱟᱛᱮ ᱫᱟᱱᱟᱝᱚᱜ ᱠᱟᱱᱟ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = ᱡᱩᱲᱟᱹᱣ ᱫᱟᱱᱟᱝ ᱠᱟᱱᱟ ({ $algorithm }, { $keySize } bit ᱪᱟᱹᱵᱤ, { $protocol })
+security-technical-broken-encryption =
+    .value = ᱨᱟᱹᱯᱩᱫ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ({ $algorithm }, { $keySize } bit ᱪᱟᱹᱵᱤ, { $protocol })
 
 ##
 

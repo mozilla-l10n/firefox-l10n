@@ -12,6 +12,8 @@ change-password-token = Kaɓirɗi Kisal: { $tokenName }
 change-password-old = Finnde woodnde:
 change-password-new = Finnde hesere:
 change-password-reenter = Finnde hesere (goɗngol):
+change-password-not-set =
+    .value = (waɗaaka)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Aawto Seedamfaagu
 download-cert-message = A naamnaama yo a hoolo Kohowo Seedamfaagu keso (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Aɗa yiɗi hoolaade "{ $caName }" e ɗee paayndaale?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Kohowo Seedamfaagu (innaaka)
 download-cert-trust-ssl =
     .label = Hoolo oo CA e keftingol lowe geese.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Finnde dannditol seedamfaagu (ɗimmit):
 set-password-reminder = Teeŋtuɗum: So a hettii finnde dannditol  seedamfaagua, a waawoytaa arrtirde ngol dannditol so a artii. Tiiɗno mooftu finnde ndee e nokku cuuriiɗo.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Tiiɗno naatnu finnde huutoraande nde ngol dannditol seedamfaagu gannetee:
+
+## Protected authentication dialog
+

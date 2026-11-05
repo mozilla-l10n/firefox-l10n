@@ -14,6 +14,8 @@ change-password-token = سلامتی آلہ: { $tokenName }
 change-password-old = حالیہ پاس ورڈ:
 change-password-new = نیا پاس ورڈ:
 change-password-reenter = نیا پاس ورڈ (دوبارہ):
+change-password-not-set =
+    .value = (سیٹ نہیں)
 pippki-failed-pw-change = پاس ورڈ تبدیل کرنے سے قاصر ہے
 pippki-pw-change-ok = پاسوڑد کامیابی سے تبدیل ہو گیا ہے.
 
@@ -30,6 +32,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = تصدیق نامہ ڈاؤن لوڈ کر رہا ہے
 download-cert-message = آپ کو نئی مقتدرہ تصدیق نامہ (سی اے) پر بھروسے کے لیے کہا گیا ہے۔
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = کیا آپ مندرجہ ذیل مقاصد کے لیے "{ $caName }" پر بھروسا کرنا چاہتے ہیں؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = مقتدرہ تصدیق نامہ(بے نام)
 download-cert-trust-ssl =
     .label = ویب سائٹیں شناخت کرنے کے لیے اس CA پر بھروسا کریں۔
 download-cert-trust-email =
@@ -77,3 +84,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = تصدیق نامہ پشتارہ پاس ورڈ (دوبارہ):
 set-password-reminder = اہم: اگر آپ اپنا تصدیق نامہ پشتارہ پاس ورڈ بھول جاتے ہیں تو بعد میں آپ یہ پشتارہ بحال کرنے کے اہل نہیں رہیں گے۔ لہذہٰ اسے محفوظ محل وقوع میں ریکارڈ کریں۔
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = برائے مہربانی وہ پاس ورڈ داخل کریں جو یہ تصدیق نامہ پشتارہ خفیہ کرنے میں استعمال کیا گیا تھا۔
+
+## Protected authentication dialog
+

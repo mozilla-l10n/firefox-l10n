@@ -14,6 +14,8 @@ change-password-token = جهاز الأمن: { $tokenName }
 change-password-old = كلمة السر الحالية:
 change-password-new = كلمة السر الجديدة:
 change-password-reenter = كلمة السر الجديدة (مرة ثانية):
+change-password-not-set =
+    .value = (غير مضبوط)
 pippki-incorrect-pw = لم تُدخل كلمة السر الرئيسية الصحيحة. رجاءً أعِد المحاولة.
 pippki-pw-erased-ok = حذفت كلمة سرك. { pippki-pw-empty-warning }
 
@@ -34,6 +36,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = يجري تنزيل الشّهادات
 download-cert-message = يُطلب منك الوثوق بسلطة شهادات جديدة.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = هل تريد الوثوق في ”{ $caName }“ للأغراض التّالية؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = سلطة شهادات (غير مسمّاة)
 download-cert-trust-ssl =
     .label = ثِق في سلطة الشّهادات هذه لتعريف مواقع وِب.
 download-cert-trust-email =
@@ -82,3 +89,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = كلمة سر النسخة الاحتياطية للشهادة (مرّة ثانية):
 set-password-reminder = هامّ: إذا نسيت كلمة سر النسخة الاحتياطية للشهادة، لن تكون قادرًا على استعادة هذه النسخة الاحتياطية لاحقًا.  الرجاء تسجيلها بمكان آمن.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = الرّجاء إدخال كلمة السرّ التي استخدمت لتعمية النّسخة الاحتياطية من هذه الشّهادة:
+
+## Protected authentication dialog
+

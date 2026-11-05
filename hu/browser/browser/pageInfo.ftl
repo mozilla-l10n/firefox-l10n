@@ -110,6 +110,16 @@ security-view-technical =
     .value = Technikai részletek
 help-button =
     .label = Súgó
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = A { $website } webhely ezen oldala nincs titkosítva.
+security-technical-no-encryption-transit = Az interneten keresztül küldött titkosítatlan adatokhoz útközben mások is hozzáférhetnek.
+security-technical-no-encryption-page = Az éppen nézett oldalt nem titkosították, mielőtt átküldték az interneten.
+security-technical-encrypted-page = Az éppen nézett oldalt titkosították, mielőtt átküldték az interneten.
+security-technical-encrypted-description = A titkosítás nehézzé teszi illetéktelen személyek számára az adatok lehallgatását, amíg azok a számítógépek között utaznak. Emiatt nem valószínű, hogy bárki is elolvasta ezt az oldalt, amíg az a hálózaton utazott.
+security-technical-mixed-content-description = Az éppen nézett oldal egyes részei nem lettek titkosítva, mielőtt átküldték az interneten.
+security-technical-weak-cipher = A kapcsolat ehhez a weboldalhoz túl gyenge titkosítást használ, és nem biztonságos. Mások megjeleníthetik információit, vagy módosíthatják a weboldal viselkedését.
+security-technical-ct-compliant = Ez a weboldal megfelel a tanúsítvány-átláthatósági irányelveknek.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Igen, sütiket és { $value } { $unit } oldaladatot
 security-site-data-only = Igen, { $value } { $unit } oldaladatot
 security-site-data-cookies-only = Igen, sütiket
 security-site-data-no = Nem
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = A kapcsolat nincs titkosítva
+security-technical-mixed-content =
+    .value = A kapcsolat részben titkosított
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Kapcsolat titkosítva ({ $algorithm }, { $keySize } bites kulcsok, { $protocol })
+security-technical-broken-encryption =
+    .value = Sérült titkosítás ({ $algorithm }, { $keySize } bites kulcsok, { $protocol })
 
 ##
 

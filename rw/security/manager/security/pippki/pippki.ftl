@@ -12,6 +12,8 @@ change-password-token = Apareyi y'Umutekano: { $tokenName }
 change-password-old = Ijambobanga rigezweho:
 change-password-new = Ijambobanga rishya:
 change-password-reenter = Ijambobanga rishya (na none):
+change-password-not-set =
+    .value = (Ntabwo rwashyizweho)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .title = Irimo Kwimura Icyemezo
     .style = min-width: 46em
 download-cert-message = Wasabwe kwizera Umuyobozi mushya w'Icyemezo (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Urashaka kwizera "{ $caName }" kubera impamvu zikurikira?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Ubuyobozi bw'Ibyemezo (budafite izina)
 download-cert-trust-ssl =
     .label = Kwizera uyu CA kugira ngo ubone imbugamakuru.
 download-cert-trust-email =
@@ -32,8 +39,6 @@ download-cert-message-desc = Mbere yo kwizera uyu CA  kubera impamvu iyariyo yos
 download-cert-view-cert =
     .label = Kugaragaza
 download-cert-view-text = Gusuzuma Icyemezo cya CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -51,9 +56,8 @@ set-password-repeat-backup-pw =
     .value = Ijambobanga ry'inyibutsacyemezo (na none):
 set-password-reminder = Icyitonderwa: Niwibagirwa ijambobanga ryawe ry'inyibutsacyemezo, ntuzashobora kugaruraho iyi nyibutsa  nyuma yaho. Usabwe kuyandika ahantu hizewe.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

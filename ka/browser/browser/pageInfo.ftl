@@ -110,6 +110,16 @@ security-view-technical =
     .value = ტექნიკური მონაცემები
 help-button =
     .label = დახმარება
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = საიტი { $website } არ იძლევა ამ გვერდის დაშიფვრის შესაძლებლობას.
+security-technical-no-encryption-transit = ინტერნეტით გადაცემისას დაუშიფრავი ინფორმაცია ადვილადაა ხელმისაწვდომი გარეშე პირთათვის.
+security-technical-no-encryption-page = გვერდი, რომელსაც ათვალიერებთ, ინტერნეტით გადაცემამდე არ დაშიფრულა.
+security-technical-encrypted-page = გვერდი, რომელსაც ათვალიერებთ, ინტერნეტით გადაცემამდე დაიშიფრა.
+security-technical-encrypted-description = დაშიფვრა უძნელებს უცხო პირებს, უნებართვოდ იხილონ კომპიუტერებს შორის მიმოცვლილი ინფორმაცია. ამიტომ ნაკლებ სავარაუდოა, ქსელში გადაცემისას ვინმემ იხილოს ეს გვერდი.
+security-technical-mixed-content-description = გვერდის შიგთავსის ნაწილი, რომელსაც ათვალიერებთ, ინტერნეტით გადაცემამდე არ დაშიფრულა.
+security-technical-weak-cipher = საიტთან კავშირისას სუსტი დაშიფვრაა გამოყენებული, რაც ვერ უზრუნველყოფს პირადი მონაცემების უსაფრთხოებას. შესაძლოა, სხვებმაც იხილონ გადაცემული ინფორმაცია, ან საიტის შიგთავსი შეცვალონ.
+security-technical-ct-compliant = ეს საიტი აკმაყოფილებს სერტიფიკატის გამჭვირვალობის დებულების მოთხოვნებს.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = დიახ, ფუნთუშებსა და
 security-site-data-only = დიახ, { $value }{ $unit } საიტის მონაცემებს
 security-site-data-cookies-only = დიახ, ფუნთუშებს
 security-site-data-no = არა
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = კავშირი დაუშიფრავია
+security-technical-mixed-content =
+    .value = კავშირი ნაწილობრივ დაშიფრულია
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = კავშირი დაშიფრულია ({ $algorithm }, გასაღების სიგრძე { $keySize } ბიტი, { $protocol })
+security-technical-broken-encryption =
+    .value = დაზიანებული დაშიფვრა ({ $algorithm }, გასაღების სიგრძე { $keySize } ბიტი, { $protocol })
 
 ##
 

@@ -12,6 +12,8 @@ change-password-token = Kya byakwerinda: { $tokenName }
 change-password-old = Kakano akasumulizo:
 change-password-new = Akasumulizo akapya:
 change-password-reenter = Akasumulizo akapya (nddamu):
+change-password-not-set =
+    .value = (ttekyetekendwawo)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Kuwanuula Santifikati
 download-cert-message = Obandee osabibwa ku kakasa Obunyiza bwa Santifikati empya (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Oyagala kukakasa "{ $caName }" kurwo ekozesa ezindirira?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Obunyiza bwa Santifikati (ttenga yongendwawo)
 download-cert-trust-ssl =
     .label = Wesige CA eno okwawula ebyapa.
 download-cert-trust-email =
@@ -48,3 +55,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup password (again):
 set-password-reminder = Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

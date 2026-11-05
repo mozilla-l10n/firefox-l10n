@@ -12,6 +12,8 @@ change-password-token = Xavfsiz qurilma: { $tokenName }
 change-password-old = Joriy parol:
 change-password-new = Yangi parol:
 change-password-reenter = Yangi parol (yana):
+change-password-not-set =
+    .value = (o‘rnatilmagan)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sertifikat yuklab olinmoqda
 download-cert-message = Sizdan yangi sertifikat tasdig‘i (CA)ga ishonishingiz so‘ralgan edi.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = "{ $caName }"ga quyidagi maqsadlarda ishonishni xohlaysizmi?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifikatni tasdiqdan oʻtkazish (nomlanmagan)
 download-cert-trust-ssl =
     .label = Ushbu CA tasdiqli vebsaytlarga ishonish.
 download-cert-trust-email =
@@ -70,3 +77,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikat zahira paroli (yana):
 set-password-reminder = Muhim: agar siz sertifikat zahira parolini unutsangiz, ushbu zahiralashni keyinroq tiklay olmaysiz. Uni xavfsiz joyga yozib qo‘ying.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Ushbu sertifikat zahirasini kodlash uchun foydalanilgan parolni kiriting.
+
+## Protected authentication dialog
+

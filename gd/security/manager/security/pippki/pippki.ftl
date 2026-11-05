@@ -14,6 +14,8 @@ change-password-token = Uidheam tèarainteachd: { $tokenName }
 change-password-old = Am facal-faire làithreach:
 change-password-new = Am facal-faire ùr:
 change-password-reenter = Am faca-faire ùr (a-rithist):
+change-password-not-set =
+    .value = (gun suidheachadh)
 pippki-failed-pw-change = Cha b’ urrainn dhuinn am facal-faire atharrachadh.
 pippki-incorrect-pw = Cha do chuir thu a-steach am facal-faire làithreach ceart. Feuch ris a-rithist.
 pippki-pw-change-ok = Chaidh am facal-faire atharrachadh.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = A' luchdadh a-nuas teisteanas
 download-cert-message = Chaidh iarraidh ort earbsa a chur ann an ùghdarras teisteanachaidh (ÙT) ùr.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = A bheil thu airson earbsa a chur ann an "{ $caName }" a chum na leanas?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Ùghdarras teisteanachaidh (gun ainm)
 download-cert-trust-ssl =
     .label = Cuir earbsa san ùghdarras teisteanachaidh seo gus làraichean-lìn aithneachadh.
 download-cert-trust-email =
@@ -86,3 +93,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Facal-faire lethbhreac-glèidhidh an teisteanais (a-rithist):
 set-password-reminder = Cudromach: ma dhìochuimhnicheas tu facal-faire lethbhreac-glèidhidh an teisteanais agad, chan urrainn dhut an lethbhreac-glèidhidh seo a chleachdadh as dèidh sin.  Cum cunntas dheth ann an àite sàbhailte.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Cuir a-steach am facal-faire a chleachd thu gus lethbhreac-glèidhidh an teisteanais seo a chrioptachadh:
+
+## Protected authentication dialog
+

@@ -102,6 +102,16 @@ security-view-technical =
     .value = နည်းပညာဆိုင်ရာ အသေးစိတ်အချက်အလက်များ
 help-button =
     .label = အကူအညီ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = The website { $website } does not support encryption for the page you are viewing.
+security-technical-no-encryption-transit = စာဝှက်စနစ် မပါပဲ ပို့လိုက်တဲ့ အချက်အလက်ကို ၄င်းကူးပြောင်းနေချိန်မှာ အခြား လူများက မြင်တွေ့နိုင်တယ်။
+security-technical-no-encryption-page = သင်ကြည့်နေသော စာမျက်နှာသည် အင်တာနက်ပေါ်သို့ တက်မလာခင် encrypt မပြုလုပ်လာခဲ့ပါ
+security-technical-encrypted-page = သင်ရှုမြင်နေတဲ့ စာမျက်နှာဟာ အင်တာနက်ပေါ် မကူးပြောင်းခင် စာဝှက်ထားတယ်။
+security-technical-encrypted-description = Encryption ကွန်ပျူတာများကြားတွင် သတင်းအချက်အလက်ကူး ယူနေသည်ကို ကြားဖြတ်ရယူခြင်းအား ခက်ခဲစေပါသည်။ထို့ကြောင့် ယခု စာမျက်နှာအား တစ်ခြားတစ်စုံတရာမှ ကြည့်ရှုခြင်း မရှိစေ ရန်သုံးခြင်းဖြစ်ပါသှ်။
+security-technical-mixed-content-description = သင်ရှုမြင်နေတဲ့ စာမျက်နှာ အပိုင်းများဟာ အင်တာနက်ပေါ် မထုတ်လွှင့်ခင် စာဝှက် မထားဘူး။
+security-technical-weak-cipher = ယခုဝက်ဆိုဒ်သို့ သင့်ဝက်ဆိုဒ်ချိတ်ဆက်မှု သည် encrypt မလုပ်ထားသဖြင့် သီးသန့်မဟုတ်ပါ။ အခြားလူများ သင့် အချက်အလက်များကို ရယူကြည့်နေနိုင်သေးသှ်။
+security-technical-ct-compliant = ယခုဝဘ်ဆိုက်ကို အထောက်အထားပွင့်လင်းမြင်သာမှုမူဝါဒဖြင့် စီစဉ်တည်ဆောက်ထားသည်။
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +123,23 @@ security-site-data-cookies = ဟုတ်တယ် { $value } { $unit } ကွ�
 security-site-data-only = ဟုတ်တယ် ဆိုက်ဒေတာ { $value }{ $unit }
 security-site-data-cookies-only = ဟုတ်ကဲ့၊ ကွတ်ကီးကို သိမ်းပါမည်
 security-site-data-no = မသိမ်းပါ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = စာဝှက်မထားတဲ့ ချိတ်ဆက်မှု
+security-technical-mixed-content =
+    .value = ချိတ်ဆက်မှု တပိုင်းတစ စာဝှက်ထားတယ်
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = ချိတ်ဆက်မှုကို စာဝှက်စနစ် အသုံးပြုထားသည် ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = ကျိုးပေါက်နေသည့် စာဝှက်စနစ် ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

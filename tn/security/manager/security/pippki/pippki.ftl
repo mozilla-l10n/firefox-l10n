@@ -9,6 +9,8 @@ password-quality-meter = Tekanyetso ya boleng jwa khunololamoraba
 change-password-old = Khunololamoraba ya ga jaana:
 change-password-new = Khunololamoraba e ntšhwa:
 change-password-reenter = Khunololamoraba e ntšhwa (gape):
+change-password-not-set =
+    .value = (ga e a tlhomiwa)
 
 ## Reset Primary Password dialog
 
@@ -21,14 +23,17 @@ download-cert-window2 =
     .title = E kopolola Setifikeiti
     .style = min-width: 46em
 download-cert-message = O kopilwe go ikanya Bothati jo bontšhwa jwa ditifikeiti (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = A o batla go ikanya "{ $caName }" mo mabakeng a a latelang?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Bothati jwa Setifikeiti (ga bo na leina)
 download-cert-trust-email =
     .label = Ikanye CA eno go supa badirisi ba poso ya eleketoroniki.
 download-cert-message-desc = Pele ga o ka ikanya CA eno mo mabakeng ape, o tshwanetse go tlhatlhoba setifikeiti sa jona ga mmogo le dipholesi le ditsamaiso tsa jona (fa di le gona).
 download-cert-view-cert =
     .label = Leba
 download-cert-view-text = Tlhatlhoba Setifikeiti sa CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -46,9 +51,8 @@ set-password-repeat-backup-pw =
     .value = Khunololamoraba ya poloko ya setifikeiti (gape):
 set-password-reminder = Go botlhokwa: Fa o lebala khunololamoraba ya gago ya poloko ya setifikeiti, o ka seke wa kgona go busetsa poloko eno kgantele.  Tsweetswee e rekote mo lefelong le le babalesegileng.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

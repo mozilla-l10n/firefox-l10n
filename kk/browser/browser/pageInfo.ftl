@@ -110,6 +110,16 @@ security-view-technical =
     .value = Техникалық ақпарат
 help-button =
     .label = Көмек
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Веб-сайт { $website }  сіз ашып отырған парақ үшін шифрлеуді қолдамайды.
+security-technical-no-encryption-transit = Интернет арқылы берілетін ақпарат шифрленбесе, берілу кезінде оны басқа адамдар көре алады.
+security-technical-no-encryption-page = Ашылып тұрған парақ Интернет арқылы берілу алдында шифрленген жоқ.
+security-technical-encrypted-page = Ашылып тұрған парақ Интернет арқылы берілу алдында шифрленді.
+security-technical-encrypted-description = Интернеттен берілу алдында парақты шифрлеу оны бөтен адамдар оқи алатын мүмкіндігін қиындатады.
+security-technical-mixed-content-description = Ашылып тұрған парақтың бір бөлігі Интернет арқылы берілу алдында шифленбеді.
+security-technical-weak-cipher = Бұл веб сайтқа байланысыңыз әлсіз шифрлеуді қолданады және шын жеке емес. Басқа адамдар сіздің ақпаратыңызды көре алады немесе веб сайттың мінез-құлығын өзгерте алады.
+security-technical-ct-compliant = Бұл вебсайты Сертификаттар Мөлдірлілігі саясатына сай келеді.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Иә, cookies файлдары және { $value } 
 security-site-data-only = Иә, { $value } { $unit } сайт деректері
 security-site-data-cookies-only = Иә, cookies файлдары
 security-site-data-no = Жоқ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Байланыс шифрленбеген
+security-technical-mixed-content =
+    .value = Байланыс жартылай шифрленген
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Байланыс шифрленген ({ $algorithm }, { $keySize }-биттік кілттер, { $protocol })
+security-technical-broken-encryption =
+    .value = Сынған шифрлеу ({ $algorithm }, { $keySize }-биттік кілттер, { $protocol })
 
 ##
 

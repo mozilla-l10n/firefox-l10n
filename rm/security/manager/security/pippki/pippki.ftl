@@ -14,6 +14,8 @@ change-password-token = Modul da criptografia: { $tokenName }
 change-password-old = Pled-clav actual:
 change-password-new = Pled-clav nov:
 change-password-reenter = Pled-clav nov (repeter):
+change-password-not-set =
+    .value = (betg definì)
 pippki-failed-pw-change = Impussibel da midar il pled-clav.
 pippki-incorrect-pw = Ti n'has betg endatà il dretg pled-clav actual. Emprova anc ina giada.
 pippki-pw-change-ok = Midà cun success il pled-clav.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Telechargiar il certificat
 download-cert-message = Ti es vegnì dumandà da fidar ad in nov post da certificaziun (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Duai vegnir fidà a "{ $caName }" per las suandantas acziuns?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Post da certificaziun (senza num)
 download-cert-trust-ssl =
     .label = Fidar a questa CA per identifitgar websites.
 download-cert-trust-email =
@@ -98,3 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Pled-clav da segirezza dal certificat (repeter):
 set-password-reminder = Impurtant: sche ti emblidas tes pled-clav da segirezza dal certificat, na pos ti pli tard betg pli restaurar questa copia da segirezza. Al notescha per plaschair en in lieu segir.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Endatescha il pled-clav ch'è vegnì utilisà per criptar la copia da segirezza da quest certificat:
+
+## Protected authentication dialog
+

@@ -8,6 +8,8 @@ password-quality-meter = Ehintasɛmfua anoɔden esusufo
 
 change-password-new = Akasumulizo akapya:
 change-password-reenter = Akasumulizo akapya (nddamu):
+change-password-not-set =
+    .value = (wɔn nhyehɛɛe)
 
 ## Reset Primary Password dialog
 
@@ -20,14 +22,17 @@ download-cert-window2 =
     .title = Kuwanuula Santifikati
     .style = min-width: 46em
 download-cert-message = Obandee osabibwa ku kakasa Obunyiza bwa Santifikati empya (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Oyagala kukakasa "{ $caName }" kurwo ekozesa ezindirira?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Obunyiza bwa Santifikati (ttenga yongendwawo)
 download-cert-trust-email =
     .label = Kakasa CA eno ku tagaza abakozesa ba i-mayilu.
 download-cert-message-desc = Nga tonaba kukakasa CA eno kurwe kola yona, oyina kukebera santifikati ne ekola ne ebigobererwa (bwebiba biriko).
 download-cert-view-cert =
     .label = Okulaba
 download-cert-view-text = Kenenya Satifiketi ya CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -45,9 +50,8 @@ set-password-repeat-backup-pw =
     .value = Certificate backup password (again):
 set-password-reminder = Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

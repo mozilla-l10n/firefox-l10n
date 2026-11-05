@@ -14,6 +14,8 @@ change-password-token = Дастгоҳи амният: { $tokenName }
 change-password-old = Ниҳонвожаи ҷорӣ:
 change-password-new = Ниҳонвожаи нав:
 change-password-reenter = Ниҳонвожаи нав (такроран):
+change-password-not-set =
+    .value = (танзим нашудааст)
 pippki-failed-pw-change = Ниҳонвожа тағйир дода намешавад.
 pippki-incorrect-pw = Шумо ниҳонвожаи ҷориро нодуруст ворид кардед. Лутфан, аз нав кӯшиш кунед.
 pippki-pw-change-ok = Ниҳонвожа бо муваффақият иваз карда шуд.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Боргирии гувоҳнома
 download-cert-message = Аз шумо хоҳиш карда шуд, ки ба мақомоти иҷозатномадиҳандаи нав (МИ) эътимод доред.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Шумо мехоҳед, ки барои мақсадҳои зерин ба «{ $caName }» эътимод кунед?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Мақомоти иҷозатномадиҳанда (беном)
 download-cert-trust-ssl =
     .label = Доштани эътимод ба ин маркази иҷозатномадиҳӣ барои муайянкунии сомонаҳо.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ниҳонвожаи нусхаи эҳтиётии гувоҳнома (такроран):
 set-password-reminder = Диққат: Агар шумо ниҳонвожаи нусхаи эҳтиётии гувоҳномаи худро фаромӯш кунед, шумо дигар наметавонед, ки ин нусхаи эҳтиётиро барқарор созед. Лутфан, онро сабт карда, дар ҷойи бехатар нигоҳ доред.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Лутфан, ниҳонвожаеро ворид намоед, ки барои рамзгузории нусхаи эҳтиётии ин гувоҳнома истифода карда буд:
 
 ## Protected authentication dialog
 

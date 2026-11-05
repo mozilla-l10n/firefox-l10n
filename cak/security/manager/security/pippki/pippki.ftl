@@ -14,6 +14,8 @@ change-password-token = Okisaxel richin jikomal: { $tokenName }
 change-password-old = Ewan tzij wakami:
 change-password-new = K'ak'a' ewan tzij:
 change-password-reenter = K'ak'a' ewan tzij (tijikib'äx):
+change-password-not-set =
+    .value = (man jikib'an ta)
 pippki-failed-pw-change = Man tikirel ta xjal ri ewan tzij.
 pippki-incorrect-pw = Man ütz ta ri ewan tzij xatz'ib'aj. Tatojtob'ej chik.
 pippki-pw-change-ok = Ütz xjal ri nab'ey ewan tzij.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Tajin niqasäx ri ruwujil rub'i'
 download-cert-message = Nik'utüx chawe chi tatz'eta' ütz ri k'ak'a' Taqonel Ya'öl Ruwujil B'i'aj (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = ¿La nawajo' nakuqub'a' ak'u'x rik'in "{ $caName }" kichin ri ch'aqa' chik taq rayib'äl?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Taqonel ya'öy ruwujil b'i'aj (majun b'i'aj)
 download-cert-trust-ssl =
     .label = Takuqub'a' ak'u'x rik'in re CA richin ye'atz'ët ajk'amaya'l taq ruxaq k'amaya'l.
 download-cert-trust-email =
@@ -86,3 +93,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = To'öy ewan rutzij ri ruwujil b'i'aj (tijikib'äx):
 set-password-reminder = K'atzinel: We namestaj ri ewan rutzij ruto'öy ruwujil ab'i', man xkatikïr ta xtachojmirisaj pa jun chi ti mej.  Taya' pa jun utziläj k'ojlib'äl.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Tab'ana' utzil tatz'ib'aj ri ewan tzij, ri xokisäx richin xewäx rusik'ixik re to'onel ruwachib'al ruwujil b'i'aj:
+
+## Protected authentication dialog
+

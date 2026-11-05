@@ -14,6 +14,8 @@ change-password-token = സുരക്ഷ ഉപകരണങ്ങള്‍: { 
 change-password-old = നിലവിലുള്ള ഒളിവാക്കു്:
 change-password-new = പുതിയ ഒളിവാക്കു്:
 change-password-reenter = പുതിയ ഒളിവാക്കു് (വീണ്ടും):
+change-password-not-set =
+    .value = (ക്രമികരിച്ചിട്ടില്ല)
 pippki-failed-pw-change = ഒളിവാക്കു് മാറ്റുവാൻ പറ്റുന്നില്ല
 pippki-pw-erased-ok = താങ്ങൾ താങ്ങളുടെ ഒളിവാക്കെ മായ്ചു. { pippki-pw-empty-warning }
 
@@ -28,6 +30,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = സര്‍ട്ടിഫിക്കറ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്യുന്നു
 download-cert-message = നിങ്ങള്‍ ഒരു പുതിയ സര്‍ട്ടിഫിക്കേറ്റ് അഥോറിറ്റിയെ (CA) വിശ്വസിക്കുവാന്‍ ആവശ്യപ്പെട്ടിരിക്കുന്നു.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = താഴെ പറഞ്ഞിരിക്കുന്ന കാര്യങ്ങള്‍ക്കു് നിങ്ങള്‍ക്കു് "{ $caName }"-നെ വിശ്വസിക്കണമോ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = സര്‍ട്ടിഫിക്കേറ്റ് അഥോറിറ്റി (പേരില്ലാത്ത)
 download-cert-trust-ssl =
     .label = വെബ്‌ സൈറ്റുകള്‍ തിരിച്ചറിയുന്നതിനായി ഈ CA വിശ്വസിക്കുക
 download-cert-trust-email =
@@ -59,3 +66,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = സര്‍ട്ടിഫിക്കേറ്റ് ബാക്കപ്പ് പാസ്‌വേര്‍ഡ്  (വീണ്ടും):
 set-password-reminder = പ്രധാനപ്പെട്ടതു്: നിങ്ങളുടെ സര്‍ട്ടിഫിക്കേറ്റ് ബാക്കപ്പ് പാസ്‌വേര്‍ഡ് നഷ്ടമായാല്‍, ഈ ബാക്കപ്പ് പിന്നീട് ലഭ്യമാകുകയില്ല. ദയവായി, ഇതു് സുരക്ഷിതമായ ഒരു സ്ഥലത്തേക്കു് മാറ്റുക.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = ഈ സര്‍ട്ടിഫിക്കറ്റ് ബാക്കപ്പ് എന്‍ക്രിപ്റ്റ് ചെയ്തതിനു് ഉപയോഗിച്ച പാസ്‌വേര്‍ഡ് നല്‍കുക:
+
+## Protected authentication dialog
+

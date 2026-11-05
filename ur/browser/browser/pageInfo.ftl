@@ -104,6 +104,15 @@ security-view-technical =
     .value = تکنیکی تفاصیل
 help-button =
     .label = مدد
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = ویب سائٹ { $website } اس صفحے کےلیے خفیہ کاری کی معاونت نہیں کرتی جو آپ نظارہ کر رہے ہیں۔
+security-technical-no-encryption-transit = انٹر نیٹ پر بغیر خفیہ کاری کے بھیجی گئی معلومات، راستے میں دیگر لوگوں سے دیکھی جا سکتے ہیں۔
+security-technical-no-encryption-page = صفحہ آپ دیکھ رہے ہیں انٹرنیٹ پر منتقل کئے جانے سے پہلے مرموز نہیں کیا گیا تھا.
+security-technical-encrypted-page = وہ صفحہ جو آپ نظارہ کر رہے ہیں، انٹر نیٹ پر منتقل ہونے سے پیلے خفیہ کردہ کیا گیا تھا۔
+security-technical-encrypted-description = خفیہ کاری کا یہ مشکل غیر مجاز لوگوں کے کمپیوٹرز کے درمیان سفر کی معلومات کو دیکھنے کے لئے کرتا ہے. ایسا نہیں ہے کہ اس کے نیٹ ورک بھر میں سفر کے طور پر کسی کو اس صفحے پڑھا اس لئے امکان نہیں ہے.
+security-technical-mixed-content-description = صفحے کے ٹکڑے جو آپ نظارہ کر رہے ہیں، انٹر نیٹ پر منتقل ہونے سے پہلے خفیہ کردہ نہیں ہوئے تھے۔
+security-technical-weak-cipher = آپکا کنکشن اس ویبسائٹ سے کمزور خفیہ کاری کا استعمال کرہا ہے اور یہ نجی نہیں ہے۔ دیگر لوگ آپ کی معلومات دیکھ سکتے ہیں یا ویب سائٹ کا رویہ بدل سکتے ہیں۔
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +124,23 @@ security-site-data-cookies = ہاں ، سائٹ کے ڈیٹا اور کوکاں 
 security-site-data-only = ہاں ، سائٹ کے ڈیٹا کی { $value }{ $unit }
 security-site-data-cookies-only = ہاں، کوکیز
 security-site-data-no = نہیں
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = کنکشن خفیہ کردہ نہیں ہے
+security-technical-mixed-content =
+    .value = کنکشن جزوی خفیہ کردہ ہے
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = کنکشن خفیہ کردہ ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = شکستہ خفیہ کاری({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

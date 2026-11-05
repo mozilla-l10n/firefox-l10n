@@ -107,6 +107,16 @@ security-view-technical =
     .value = Etamanel taq B'anikil
 help-button =
     .label = Tob'äl
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Ri ruxaq k'amaya'l { $website } man nuk'ül ta ewan rusik'ixik pa ri ruxaq tajin natz'ët.
+security-technical-no-encryption-transit = Ri etamab'äl taqon pa k'amaya'l ri man ewan ta rusik'ixik, tikirel nitz'et kuma ch'aqa' chik winaqi'.
+security-technical-no-encryption-page = Ri ruxaq tajin natz'ët, man xewäx ta rusik'ixik chuwäch niq'alajisäx pa k'amaya'l.
+security-technical-encrypted-page = Ri ruxaq tajin natz'ët, xewäx rusik'ixik chuwäch niq'alajisäx pa k'amaya'l.
+security-technical-encrypted-description = Ri ewan rusik'ixik nuya' k'ayewal richin yatok pa ri etamab'äl nisik'ïx chi kikojol taq samajib'äl kuma ri winaqi' man ya'on ta q'ij chi ke. Ruma ri', jikïl chi k'o jun chik ri xtikïr xusik'ij re ruxaq re' toq b'enäq pa k'amab'ey.
+security-technical-mixed-content-description = K'o taq peraj chi re ri ruxaq, ri tajin natz'ët, ri man xewäx ta rusik'ixik chuwäch niq'alajisäx pa k'amaya'l.
+security-technical-weak-cipher = Ri awokem pa re ruxaq k'amaya'l re' nrokisaj jun mayamöj chuqa' man ichinan ta chi ewan rusik'ixik. Ch'aqa' chik winaqi' yetikïr nikitz'ët ri awetamab'al o chuqa' nikijalwachij ri rub'anikil ri ruxaq k'amaya'l.
+security-technical-ct-compliant = Re ruxaq k'amaya'l re' rojqan ri runa'ojil Kich'ajch'öj Iqitzijib'äl.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = Ja', taq kaxlanwey chuqa' { $value } { $unit } kitz
 security-site-data-only = Ja', { $value } { $unit } kitzij ruxaq k'amaya'l
 security-site-data-cookies-only = Ja', taq kaxlanwäy
 security-site-data-no = Mani
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Man ewan ta rusik'ixik ri okem
+security-technical-mixed-content =
+    .value = Okem nik'aj man etaman ta
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Okem ewan rusik'ixik ({ $algorithm }, { $keySize } b'it taq tz'apib'ä, { $protocol })
+security-technical-broken-encryption =
+    .value = Yujun ewan rusik'ixik ({ $algorithm }, { $keySize } b'it ewab tzij, { $protocol })
 
 ##
 

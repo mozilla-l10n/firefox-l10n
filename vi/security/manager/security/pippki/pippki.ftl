@@ -14,6 +14,8 @@ change-password-token = Thiết bị bảo mật: { $tokenName }
 change-password-old = Mật khẩu hiện tại:
 change-password-new = Mật khẩu mới:
 change-password-reenter = Mật khẩu mới (nhập lại):
+change-password-not-set =
+    .value = (chưa đặt)
 pippki-failed-pw-change = Không thể thay đổi mật khẩu.
 pippki-incorrect-pw = Bạn đã không nhập đúng mật khẩu hiện tại. Vui lòng thử lại.
 pippki-pw-change-ok = Đã thay đổi mật khẩu.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Đang tải Chứng chỉ
 download-cert-message = Bạn được hỏi có tin tưởng một CA (Bên thẩm định Chứng chỉ) mới hay không.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Bạn có muốn tin tưởng “{ $caName }” cho những mục đích sau?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Cơ quan cấp chứng chỉ (chưa được đặt tên)
 download-cert-trust-ssl =
     .label = Tin CA này để nhận diện các trang web.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Mật khẩu sao lưu chứng chỉ (nhập lại):
 set-password-reminder = Quan trọng: Nếu bạn quên mật khẩu sao lưu chứng chỉ, sau này bạn sẽ không thể phục hồi bản sao lưu này. Hãy lưu vào một nơi an toàn.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Vui lòng nhập mật khẩu đã được sử dụng để mã hóa bản sao lưu chứng chỉ này:
 
 ## Protected authentication dialog
 

@@ -110,6 +110,16 @@ security-view-technical =
     .value = جزئیات فنی
 help-button =
     .label = راهنما
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = وبگاه ‎{ $website } برای صفحه‌ای که در حال بازدید آن هستید از رمزگذاری پشتیبانی نمی‌کند.
+security-technical-no-encryption-transit = دیگران می‌توانند اطلاعاتی را که بدون رمزنگاری از طریق اینترنت ارسال می‌شود را در هنگام مخابره ببینند.
+security-technical-no-encryption-page = صفحه‌ای که در حال بازدید از آن هستید پیش از مخابره از طریق اینترنت، رمزنگاری نشده بود.
+security-technical-encrypted-page = صفحه‌ای که در حال بازدید از آن هستید پیش از مخابره از طریق اینترنت، رمزنگاری شده است.
+security-technical-encrypted-description = رمزنگاری، نمایش اطلاعات در حال انتقال بین رایانه‌ها را برای افرادی که اجازهٔ این کار را ندارند بسیار مشکل می‌کند. بنابراین احتمال این که کسی این صفحه را در حال انتقال در شبکه خوانده باشد بسیار کم است.
+security-technical-mixed-content-description = بخش‌هایی از صفحه‌ای که در حال بازدید از آن هستید پیش از مخابره از طریق اینترنت، رمزنگاری نشده است.
+security-technical-weak-cipher = اتصال شما به این پایگاه اینترنتی از یک رمزنگاری ضعیف استفاده می‌کند و خصوصی نیست. افراد دیگری می توانند اطلاعات شما را مشاهده کنند یا رفتارهای پایگاه اینترنتی را تغییر دهند.
+security-technical-ct-compliant = این وب‌سایت با سیاسیت Certificate Transparency کامپایل می‌شود.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = بله، کلوچک‌ها و { $value } { $unit } 
 security-site-data-only = بله، { $value }{ $unit } از داده‌های پایگاه
 security-site-data-cookies-only = بله، کلوچک‌ها
 security-site-data-no = خیر
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = اتصال رمزنگاری نشده است
+security-technical-mixed-content =
+    .value = اتصال به طور جزئی رمزنگاری شده است
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = اتصال رمزنگاری شده({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = رمزنگاری شکسته ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

@@ -104,6 +104,16 @@ security-view-technical =
     .value = Detalles tecnicos
 help-button =
     .label = Aduya
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = O puesto web { $website } no permite l'uso de zifrau t'a pachina que ye veyendo.
+security-technical-no-encryption-transit = A información que se ninvia por Internet sin zifrar puede estar vista por terceras personas mientres ye en camín.
+security-technical-no-encryption-page = A pachina que ye veyendo s'ha cifrau antes de transmitir-la por Internet.
+security-technical-encrypted-page = A pachina que ye veyendo s'ha zifrau antes de transmitir-la por Internet.
+security-technical-encrypted-description = O zifrau fa muit dificil que personas no autorizadas puedan veyer a información que viacha entre ordinadors. Por tanto, ye muit improbable que belún haiga leito ista pachina mientres viachaba por o ret.
+security-technical-mixed-content-description = I hai partes d'a pachina que ye veyendo que no estioron zifradas antes de transmitir-se por internet.
+security-technical-weak-cipher = A conexión a iste puesto web fa servir un zifrau feble y no ye pas privada. Atras personas podría visualizar a información u modificar o comportamiento d'o puesto web.
+security-technical-ct-compliant = Ista web cumple con la policía de Transparencia de Certificaus
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Sí, las cookies y { $value } { $unit } de datos d'
 security-site-data-only = Sí, { $value } { $unit } de datos d'o puesto
 security-site-data-cookies-only = Sí, las cookies
 security-site-data-no = No
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = A connexión no ye zifrada
+security-technical-mixed-content =
+    .value = Connexión zifrada parcialment
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Connexión Zifrada ({ $algorithm }, claus de { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Zifrau trencau ({ $algorithm }, claus de { $keySize } bits, { $protocol })
 
 ##
 

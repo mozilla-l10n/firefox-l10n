@@ -12,6 +12,8 @@ change-password-token = Peranti Sekuriti: { $tokenName }
 change-password-old = Kata laluan semasa:
 change-password-new = Katalalan baru:
 change-password-reenter = Kata laluan baru (lagi):
+change-password-not-set =
+    .value = (tidak ditetapkan)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Memuat turun Sijil
 download-cert-message = Anda telah diminta untuk mempercayai Autoriti Sijil (CA) yang baru.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Adakah anda ingin percaya "{ $caName }" untuk kegunaan berikut?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoriti Sijil (tidak bernama)
 download-cert-trust-ssl =
     .label = Percayai CA ini untuk mengenal pasti laman web.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Kata laluan sandaran sijil (lagi):
 set-password-reminder = Penting: Jika anda lupa kata laluan sandaran sijil anda, anda tidak akan dapat pulihkan sandaran ini lagi.  Sila catat di lokasi yang selamat.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Sila masukkan kata laluan yang digunakan untuk menyulitkan sijil sandaran ini:
+
+## Protected authentication dialog
+

@@ -17,6 +17,11 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-message = Dinawatkayo a talkan ti baro a Turay ti Sertipikasion (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Taltalkanyo ti "{ $caName }" agpaay kadagiti sumagsaganad a pamuspusan?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertipikasion nga Awtoridad (di-napanaganan)
 download-cert-trust-email =
     .label = Talken daytoy a CA tapno mailasin ti agar-aramat iti e-mail.
 download-cert-view-text = Bigbigen ti sertipiko ti CA
@@ -36,3 +41,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Kontrasenias ti pannakatipon ti sertipiko (manen):
 set-password-reminder = Importante: No malipatanyo ti kontrasenias ti pannakatipon ti sertipiko, saanyonto a maipulang daytoy a pannakatipon intuno madamdama. Pagsuratanyo man ti natalged a disso.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

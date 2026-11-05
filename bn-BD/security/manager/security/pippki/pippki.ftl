@@ -12,6 +12,8 @@ change-password-token = নিরাপত্তা ডিভাইস: { $token
 change-password-old = বর্তমান পাসওয়ার্ড:
 change-password-new = নতুন পাসওয়ার্ড:
 change-password-reenter = নতুন পাসওয়ার্ড (পুনরায় লিখুন):
+change-password-not-set =
+    .value = (নির্ধারিত হয়নি)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
     .style = min-width: 46em
 download-cert-message = একটি নতুন সার্টিফিকেট কর্তৃপক্ষকে (CA) বিশ্বাস করার অনুরোধ জানানো হয়েছে।
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = নিম্নলিখিত কাজের জন্য আপনি কি "{ $caName }"-র উপর আস্থা রাখতে ইচ্ছুক?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = সার্টিফিকেট কর্তৃপক্ষ (নামবিহীন)
 download-cert-trust-ssl =
     .label = ওয়েব-সাইট সনাক্ত করতে এই CA-টি বিশ্বাস করা হবে।
 download-cert-trust-email =
@@ -32,9 +39,6 @@ download-cert-message-desc = কোনো ধরনের কাজের জন
 download-cert-view-cert =
     .label = প্রদর্শন
 download-cert-view-text = CA সার্টিফিকেট পরীক্ষা করুন
-
-## Client Authorization Ask dialog
-
 
 ## Client Authentication Ask dialog
 
@@ -75,7 +79,9 @@ set-password-repeat-backup-pw =
     .value = সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড (পুনরায়):
 set-password-reminder = গুরুত্বপূর্ণ: সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড হারিয়ে গেলে আপনি এই ব্যাকআপ পুনরুদ্ধার করতে সক্ষম হবেন না।  অনুগ্রহ করে এই পাসওয়ার্ডটি কোনো সুরক্ষিত স্থানে সংরক্ষণ করুন।
 
-## Protected authentication alert
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = অনুগ্রহ করে এই সার্টিফিকেট ব্যাকআপটি এনক্রিপ্ট করতে ব্যবহৃত পাসওয়ার্ডটি লিখুন:
 
 ## Protected authentication dialog
 

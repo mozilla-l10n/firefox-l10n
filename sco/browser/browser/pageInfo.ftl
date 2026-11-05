@@ -104,6 +104,16 @@ security-view-technical =
     .value = Technical Parteeculars
 help-button =
     .label = Hauners
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = The website { $website } disnae support encryption fur the page ye're luikin at.
+security-technical-no-encryption-transit = Information sent ower the Internet withoot encryption can be seen by ither fowk while it's on its wey.
+security-technical-no-encryption-page = The page ye're luikin at wisnae encryptit afore bein transmittit ower the Internet.
+security-technical-encrypted-page = The page ye're luikin at wis encryptit afore bein transmittit ower the Internet.
+security-technical-encrypted-description = Encryption hinders unauthorised fowk fae seein information that's flittin atween computers. Sae chances are that naebody read this page as it flittit across the netwark.
+security-technical-mixed-content-description = Pairts o the page ye're luikin at wirnae encryptit afore bein transmittit ower the Internet.
+security-technical-weak-cipher = Yer connection tae this wqbsite yaises stintit encryption and isnae private. Ither fowk can see yer information or chynge the wabsite’s behaviour.
+security-technical-ct-compliant = This wabsite complies wi the Certificate Transparency policy.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Aye, cookies and { $value } { $unit } o site data
 security-site-data-only = Aye, { $value } { $unit } o site data
 security-site-data-cookies-only = Aye, cookies
 security-site-data-no = Naw
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Connection No Encryptit
+security-technical-mixed-content =
+    .value = Connection Pairt Encryptit
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Connection Encryptit ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = Braken Encryption ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

@@ -14,6 +14,8 @@ change-password-token = Прылада бяспекі: { $tokenName }
 change-password-old = Цяперашні пароль:
 change-password-new = Новы пароль:
 change-password-reenter = Новы пароль (ізноў):
+change-password-not-set =
+    .value = (не вызначаны)
 pippki-failed-pw-change = Не ўдалося змяніць пароль.
 pippki-incorrect-pw = Вы няправільна ўвялі галоўны пароль. Паспрабуйце, калі ласка, ізноў.
 pippki-pw-change-ok = Пароль паспяхова зменены.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Сцягванне сертыфіката
 download-cert-message = Вас запыталі аб даверу да новага Цэнтра Сертыфікацыі (ЦС).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Вы хочаце давяраць "{ $caName }" з наступнымі мэтамі?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Цэнтр сертыфікацыі (без назвы)
 download-cert-trust-ssl =
     .label = Давяраць гэтаму ЦС ідэнтыфікаваць вэб-сайты.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Пароль рэзервовай копіі (зноў):
 set-password-reminder = Увага: Калі вы забудзеце ваш пароль рэзервовай копіі сертыфікатаў, вы не зможаце ўзнавіць файлы з гэтай копіі пазней.  Занатуйце яго, калі ласка, у надзейным месцы.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Калі ласка, увядзіце пароль, выкарыстаны пры шыфраванні гэтай запасной копіі сертыфіката:
 
 ## Protected authentication dialog
 

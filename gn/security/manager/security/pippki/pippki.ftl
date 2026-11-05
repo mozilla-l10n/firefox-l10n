@@ -14,6 +14,8 @@ change-password-token = Mba’e’oka tekorosãrã: { $tokenName }
 change-password-old = Ñe’ẽñemi ag̃agua:
 change-password-new = Ñe’ẽñemi pyahu:
 change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
+change-password-not-set =
+    .value = (oĩmba’ỹva gueteri)
 pippki-failed-pw-change = Ndaikatúi emoambue ne’ẽñemi.
 pippki-incorrect-pw = Neremoingeporãi ne’ẽñemi ha’etéva ag̃aguáva. Eha’ã jey upe rire.
 pippki-pw-change-ok = Emoambuéma ñe’ẽñemi hekopete.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Mboajepyréva ñemboguejy
 download-cert-message = Ojejerure ndéve ejerovia hag̃ua pe Moakãha Mboajeha (MM) pyahu rehe.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ejeroviase “{ $caName }”-re ko’ã mba’épe g̃uarã?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Moakãhára omboajéva (hera’ỹva)
 download-cert-trust-ssl =
     .label = Ejerovia ko CA rehe ehechakuaa hag̃ua ñanduti renda.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ñe’ẽñemi pytyvõrãva mboajepyréva mba’éva (moneĩ):
 set-password-reminder = Mba’eguasúva: nderesaráiramo ñe’ẽñemi pytyvõrãvagui mboajepyréva mba’éva, ndaikatumo’ãi emboguevi monguatia pytyvõrãva ag̃ave. Eñongatu tenda hekorosãvape.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Ikatúpiko, emoinge ñe’ẽñemi eiporúva embopapapy hag̃ua monguatia rekorosãrã mboajepyrévape:
 
 ## Protected authentication dialog
 

@@ -12,6 +12,8 @@ change-password-token = Təhlükəsizlik cihazları: { $tokenName }
 change-password-old = Hazırkı parol:
 change-password-new = Yeni parol:
 change-password-reenter = Yeni parol (təkrar):
+change-password-not-set =
+    .value = (heç nə seçilməyib)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Təsdiq sənədi yüklənir
 download-cert-message = Yeni bir təsdiqləmə sertifikatı (CA) təhlükəsizliyi istədiniz.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Bu məqsədlər üçün "{ $caName }" təsdiq sənədinə etibar etmək istəyirsiniz?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Təsdiq sənədi rəsmisi (adsız)
 download-cert-trust-ssl =
     .label = Saytları təyin etmək üçün bu təsdiqləmə sertifikatına etibar et.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Təsdiq sənədi yedəyi parolu (təkrar):
 set-password-reminder = Vacib: Əgər təsdiq sənədi yedəyi parolunuzu unutsanız, bu yedəyi yenidən yarada bilməyəcəksiniz.  Lütfən bunu təhlükəsiz bir şəraitdə saxlayın.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Lütfən bu sertifikatın yedəyini şifrələmək üçün istifadə ediləcək parolu daxil edin:
+
+## Protected authentication dialog
+

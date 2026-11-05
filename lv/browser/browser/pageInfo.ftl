@@ -110,6 +110,16 @@ security-view-technical =
     .value = Tehniskā informācija
 help-button =
     .label = Palīdzība
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Tīmekļvietne { $website } neatbalsta pašreiz atvērtās lapas šifrēšanu.
+security-technical-no-encryption-transit = Internetā bez šifrēšanas nosūtīto informāciju tās pārsūtīšanas laikā var redzēt citi cilvēki.
+security-technical-no-encryption-page = Šīs lapas saturs pirms sūtīšanas netika nošifrēs.
+security-technical-encrypted-page = Šīs lapas saturs pirms sūtīšanas tika nošifrēs.
+security-technical-encrypted-description = Šifrēšana traucē nevēlamiem cilvēkiem piekļūt jūsu informācijai, kamēr tā tiek sūtīta starp datoriem internetā. Šīs lapas saturu visdrīzāk neviens nenolasīja, kamēr tā ceļoja internetā.
+security-technical-mixed-content-description = Apskatāmās lapas daļas netika šifrētas pirms nosūtīšanas internetā.
+security-technical-weak-cipher = Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts. Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.
+security-technical-ct-compliant = Šī tīmekļvietne ievēro sertifikātu caurspīdības pamatnostādni.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Jā, sīkdatnes un { $value } { $unit } lapas datus
 security-site-data-only = Jā, { $value } { $unit } lapas datus
 security-site-data-cookies-only = Jā, sīkdatnes
 security-site-data-no = Nē
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Savienojums nav šifrēts
+security-technical-mixed-content =
+    .value = Savienojums daļēji šifrēts
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Šifrēts savienojums ({ $algorithm }, { $keySize } bitu atslēgas, { $protocol })
+security-technical-broken-encryption =
+    .value = Šifrēts savienojums ({ $algorithm }, { $keySize } bitu atslēgas, { $protocol })
 
 ##
 

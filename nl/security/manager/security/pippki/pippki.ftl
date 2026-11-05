@@ -14,6 +14,8 @@ change-password-token = Beveiligingsapparaat: { $tokenName }
 change-password-old = Huidige wachtwoord:
 change-password-new = Nieuw wachtwoord:
 change-password-reenter = Nieuw wachtwoord (nogmaals):
+change-password-not-set =
+    .value = (niet ingesteld)
 pippki-failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
 pippki-incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
 pippki-pw-change-ok = Wachtwoord met succes gewijzigd.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Certificaat downloaden
 download-cert-message = U wordt gevraagd een nieuwe certificaatautoriteit (CA) te vertrouwen.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Wilt u ‘{ $caName }’ vertrouwen voor de volgende doeleinden?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certificaatautoriteit (naamloos)
 download-cert-trust-ssl =
     .label = Deze CA vertrouwen voor het identificeren van websites.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Wachtwoord voor de reservekopie van het certificaat (nogmaals):
 set-password-reminder = Belangrijk: als u uw wachtwoord voor de reservekopie van het certificaat vergeet, kunt u deze reservekopie later niet herstellen. Berg het op een veilige plek op.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Voer het wachtwoord in dat bij het versleutelen van de reservekopie van dit certificaat is gebruikt:
 
 ## Protected authentication dialog
 

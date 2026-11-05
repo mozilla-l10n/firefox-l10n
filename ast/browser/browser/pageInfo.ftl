@@ -104,6 +104,9 @@ security-view-technical =
     .value = Detalles téunicos
 help-button =
     .label = Ayuda
+security-technical-no-encryption-transit = La información que s'unvia per internet ensin cifrar puen vela terceros mentanto se tresmite.
+security-technical-no-encryption-page = La páxina que ves nun se cifró enantes de tresmitila per internet.
+security-technical-encrypted-page = La páxina que ves cifróse enantes de tresmitila per internet.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +118,19 @@ security-site-data-cookies = Sí, cookies y { $value } { $unit } de datos
 security-site-data-only = Sí, { $value } { $unit } de datos
 security-site-data-cookies-only = Sí, cookies
 security-site-data-no = Non
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Conexón ensin cifrar
+security-technical-mixed-content =
+    .value = Conexón parcialmente cifrada
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 

@@ -104,6 +104,16 @@ security-view-technical =
     .value = तकनीकी विवरण‌
 help-button =
     .label = मदद‌
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = वेब साइट { $website } आपके द्वारा देखे जा रहे पृष्ठ के लिये गोपन का समर्थन नहीं करता है.
+security-technical-no-encryption-transit = बिना गोपन के इंटरनेट पर भेजी गई सूचना को अन्य लोगों के द्वारा परिवहन के क्रम में देखा जा सकता है.
+security-technical-no-encryption-page = आपके द्वारा देखा जा रहा पृष्ठ इन्टरनेट पर प्रसारित किये जाने से पहले एनक्रिप्टेड नहीं था.
+security-technical-encrypted-page = आपके द्वारा देखा जा रहा पृष्ठ गोपित था जब इंटरनेट पर भेजा जा रहा था.
+security-technical-encrypted-description = गोपन अनधिकृत लोगों के लिये कंप्यूटर के बीच सूचना परिवहन को देखने को इसे कठिन बनाता है. इसलिये यह लगभग संभव नहीं है कि कोई इसे संजाल पर परिवहन के दौरान पढ़ ले.
+security-technical-mixed-content-description = इंटरनेट पर भेजे जाने के पहले आपके द्वारा देखे जा रहे पन्ने का कुछ हिस्सा गोपित नहीं था.
+security-technical-weak-cipher = आपका कनेक्शन इस वेबसाइट के लिए निम्न स्तर का एन्क्रिप्शन इस्तेमाल कर रहा है जिस वजह से आपकी वेबसाइट गुप्त नहीं है. कोई दूसरा व्यक्ति आपकी वेबसाइट मैं बदलाव कर सकता है.
+security-technical-ct-compliant = यह वेबसाइट प्रमाणपत्र पारदर्शिता नीति का अनुपालन करती है.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = हाँ, साइट डेटा की { $valu
 security-site-data-only = हाँ, साइट डेटा का { $value } { $unit }
 security-site-data-cookies-only = हाँ, कुकीज़
 security-site-data-no = नहीं
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = कनेक्शन गोपित नहीं है
+security-technical-mixed-content =
+    .value = कनेक्शन अंशतः गोपित
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = कनेक्शन एनक्रिप्टेड ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = टूटा हुआ गोपन ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

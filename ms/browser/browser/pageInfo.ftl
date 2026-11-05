@@ -102,6 +102,16 @@ security-view-technical =
     .value = Butiran Teknikal
 help-button =
     .label = Bantuan
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Laman web { $website } tidak menyokong enkripsi halaman yang anda sedang layari.
+security-technical-no-encryption-transit = Maklumat yang dihantar melalui Internet tanpa enkripsi boleh dilihat oleh pihak lain ketika dalam transit.
+security-technical-no-encryption-page = Halaman yang sedang anda tonton tidak terenkripsi sebelum dihantar melalui Internet.
+security-technical-encrypted-page = Halaman yang anda sedang papar telah dienkripsi sebelum dihantar melalui Internet.
+security-technical-encrypted-description = Enkripsi menyukarkan orang yang tidak diberkenaan untuk melihat maklumat yang dihantar ke dalam sesebuah komputer. Oleh itu, kemungkinan besar tidak ada sesiapa yang membaca halaman ini semasa dihantar ke seluruh rangkaian.
+security-technical-mixed-content-description = Sebahagian halaman yang anda sedang papar tidak dienkripsi sebelum dihantar melalui Internet.
+security-technical-weak-cipher = Sambungan anda ke laman web ini menggunakan enkripsi yang lemah dan tiada privasi. Orang lain boleh melihat maklumat atau mengubah tingkah laku laman web anda.
+security-technical-ct-compliant = This website complies with the Certificate Transparency policy.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +123,23 @@ security-site-data-cookies = Ya, kuki dan { $value } { $unit } data laman
 security-site-data-only = Ya, { $value } { $unit } data laman
 security-site-data-cookies-only = Ya, kuki
 security-site-data-no = Tidak
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Sambungan Tidak Dienkripsi
+security-technical-mixed-content =
+    .value = Sebahagian Sambungan Dienkripsi
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Sambungan Dienkrip ({ $algorithm }, { $keySize } bit kekunci, { $protocol })
+security-technical-broken-encryption =
+    .value = Enkripsi Rosak ({ $algorithm }, { $keySize } kekunci bit, { $protocol })
 
 ##
 

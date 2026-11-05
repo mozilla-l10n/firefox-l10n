@@ -102,6 +102,15 @@ security-view-technical =
     .value = தொழில்நுட்ப விவரங்கள்
 help-button =
     .label = உதவி
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = The web site { $website } does not support  encryption for the page you are viewing.
+security-technical-no-encryption-transit = Information sent over the Internet without  encryption can be seen by other people while it is in transit.
+security-technical-no-encryption-page = நீங்கள் பார்க்கும் பக்கம் இணையத்தில் பகிரப்படும் முன் குறிமுறையாக்கப்படாதது.
+security-technical-encrypted-page = The page you are viewing was  encrypted before being transmitted over the Internet.
+security-technical-encrypted-description = கணினிகளுக்கிடைய பரிமாறிக்கொள்ளப்படும் தகவலை அதிகாரமற்ற ஆட்களால் பார்க்க முடியாதபடி குறியாக்கம் செய்யப்படுகிறது. படிக்கும் யாவருக்கும் இந்தப் பக்கம் பிணையங்கள் ஊடாக கடந்துச் செல்கிறது என்பது உறுதி.
+security-technical-mixed-content-description = Parts of the page you are viewing were  not encrypted before being transmitted over the Internet.
+security-technical-weak-cipher = இத்தளத்திற்கான உங்கள் இணைப்பு வலுவற்ற மறைகுறியாக்கத்தைப் பயன்படுத்துவதால் தனிப்பட்டதாகாது. எனவே பிற நபர்கள் தகவல்களைப் பார்க்க அல்லது தளத்தின் நடத்தைகளை மாற்ற முடியும்.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +122,23 @@ security-site-data-cookies = ஆம், நினைவிகள் மற்ற
 security-site-data-only = ஆம், { $value } { $unit } தளத்தின் தரவு
 security-site-data-cookies-only = ஆம், நினைவிகள்
 security-site-data-no = இல்லை
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = இணைப்பு குறிமுறையாக்கப்படவில்லை
+security-technical-mixed-content =
+    .value = பகுதி இணைப்பு மட்டுமே குறியாக்கம் செய்யப்பட்டது
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = இணைப்பு குறிமுறையாக்கப்பட்டது ({ $algorithm }, { $keySize } பிட் சாவிகள், { $protocol })
+security-technical-broken-encryption =
+    .value = முறிந்த மறைகுறியாக்கம் ({ $algorithm }, { $keySize } பிட் சாவிகள், { $protocol })
 
 ##
 

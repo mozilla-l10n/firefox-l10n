@@ -14,6 +14,8 @@ change-password-token = Perangkat Keamanan: { $tokenName }
 change-password-old = Sandi lama:
 change-password-new = Sandi baru:
 change-password-reenter = Sandi baru (ulangi):
+change-password-not-set =
+    .value = (belum diatur)
 pippki-failed-pw-change = Gagal mengubah sandi.
 pippki-incorrect-pw = Anda tidak memasukkan sandi dengan benar. Silakan coba lagi.
 pippki-pw-change-ok = Sandi berhasil diubah.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Mengunduh Sertifikat
 download-cert-message = Anda diminta untuk mempercayai Otoritas Sertifikat (CA) yang baru.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ingin mempercayai "{ $caName }" untuk penggunaan berikut?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Otoritas Sertifikat (tanpa nama)
 download-cert-trust-ssl =
     .label = Percayai CA ini untuk mengidentifikasi situs web.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sandi cadangan sertifikat (ulangi):
 set-password-reminder = Penting: Jika Anda lupa sandi cadangan sertifikat, Anda tidak akan dapat mengembalikan cadangan ini nantinya. Mohon disimpan di lokasi yang aman.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Masukkan sandi yang digunakan untuk mengenkripsi cadangan sertifikat:
 
 ## Protected authentication dialog
 

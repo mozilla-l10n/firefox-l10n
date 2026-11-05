@@ -14,6 +14,8 @@ change-password-token = Öryggistæki: { $tokenName }
 change-password-old = Núverandi lykilorð:
 change-password-new = Nýtt lykilorð:
 change-password-reenter = Nýtt lykilorð (aftur):
+change-password-not-set =
+    .value = (ekki sett)
 pippki-failed-pw-change = Ekki hægt að breyta lykilorði.
 pippki-incorrect-pw = Þú slóst ekki inn rétt núverandi lykilorð. Reyndu aftur.
 pippki-pw-change-ok = Tókst að breyta lykilorði.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Hleð niður skilríki
 download-cert-message = Þú ert beðinn um að treysta nýrri vottunarstöð (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Viltu treysta “{ $caName }” fyrir eftirfarandi hluti?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Vottunarstöð (ónefnt)
 download-cert-trust-ssl =
     .label = Treysta þessum CA-vottunaraðila til að auðkenna vefsvæði.
 download-cert-trust-email =
@@ -91,3 +98,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lykilorð öryggisafrits (aftur):
 set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits geturðu ekki endurheimt öryggisafritið seinna. Geymdu það öruggum stað.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Settu inn lykilorðið sem var notað til að dulkóða öryggisafrit skilríkis:
+
+## Protected authentication dialog
+

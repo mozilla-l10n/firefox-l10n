@@ -12,6 +12,8 @@ change-password-token = Drošības ierīce: { $tokenName }
 change-password-old = Pašreizējā parole:
 change-password-new = Jaunā parole:
 change-password-reenter = Jaunā parole (vēlreiz):
+change-password-not-set =
+    .value = (nav iestatīts)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Lejupielādē sertifikātus
 download-cert-message = Tiek vaicāts uzticēties jaunai sertifikātu autoritātei (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vai uzticēties “{ $caName }” zemāk esošajiem nolūkiem?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifikātu autoritāte (nenosaukta)
 download-cert-trust-ssl =
     .label = Uzticēties šai CA tīmekļa vietņu identificēšanai.
 download-cert-trust-email =
@@ -72,3 +79,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikāta dublējuma parole (vēlreiz):
 set-password-reminder = Svarīgi: ja šī parole tiks aizmirsta, nebūs iespējams atjaunot šo dublējumu. Lūgums saglabāt to drošā vietā.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Lūgums ievadīt paroli, kas tika izmantota, lai šifrētu šo sertifikāta dublējumu:
+
+## Protected authentication dialog
+

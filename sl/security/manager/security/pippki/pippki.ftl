@@ -14,6 +14,8 @@ change-password-token = Varnostna naprava: { $tokenName }
 change-password-old = Trenutno geslo:
 change-password-new = Novo geslo:
 change-password-reenter = Novo geslo (ponovno):
+change-password-not-set =
+    .value = (ni nastavljeno)
 pippki-failed-pw-change = Gesla ni bilo mogoče spremeniti.
 pippki-incorrect-pw = Vneseno geslo je napačno. Poskusite znova.
 pippki-pw-change-ok = Geslo je uspešno spremenjeno.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Prenašanje digitalnega potrdila
 download-cert-message = Ali zaupate novemu overitelju?
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ali overitelju "{ $caName }" zaupate naslednja opravila?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Neimenovan overitelj
 download-cert-trust-ssl =
     .label = Overitelju zaupaj identifikacijo spletnih strani.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Geslo varnostne kopije digitalnega potrdila (ponovno):
 set-password-reminder = Pomembno: Če pozabite geslo varnostne kopije digitalnega potrdila, je pozneje ne boste mogli obnoviti. Geslo shranite na varnem mestu.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Vnesite geslo, ki ste ga uporabili za šifriranje te varnostne kopije potrdila:
 
 ## Protected authentication dialog
 

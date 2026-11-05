@@ -107,6 +107,16 @@ security-view-technical =
     .value = Munudoù kalvezel
 help-button =
     .label = Skoazell
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = N'eo ket skoret an enrinegañ evit ar pajennadoù emaoc'h o welout gant al lec'hienn { $website }.
+security-technical-no-encryption-transit = Ar stlennoù kaset dre internet hep bezañ bet enrineget a c’hallfe bezañ lennet gant tud all e-pad m’emañ o veajiñ.
+security-technical-no-encryption-page = Ar bajennad emaoc'h o welet na oa ket bet enrineget kent bezañ kehentet dre an internet.
+security-technical-encrypted-page = Ar bajennad emaoc'h o welet a oa bet enrineget kent bezañ kehentet dre an internet.
+security-technical-encrypted-description = Dre an enrinegañ eo diaes-kenañ, evit an dud nad int ket bet aotreet, gwelout ar stlennoù o veajiñ etre an urzhiataerioù. Neuze n’eus ket kalz tebegezhioù ma vefe bet lennet ar bajennad-mañ gant unan bennak e-pad m’edo o veajiñ dre ar rouedad.
+security-technical-mixed-content-description = Lodoù eus ar bajennad emaoc'h o welout n'int ket bet enrineget kent bezañ kehentet dre an internet.
+security-technical-weak-cipher = Un enrinegañ gwan a vez arveret gant ho kennask d'al lec'hienn-mañ ha n'eo ket prevez. Gallout a ra tud all gwelet ho titouroù pe kemmañ emzalc'h al lec'hienn.
+security-technical-ct-compliant = Doujañ a ra al lec'hienn-mañ ouzh ar politikerezh a-fet Treuzweluster an Testeni
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = Ya, toupinoù ha  { $value }{ $unit } a roadennoù 
 security-site-data-only = Ya, { $value } { $unit } a roadennoù lec'hienn
 security-site-data-cookies-only = Ya, toupinoù
 security-site-data-no = Ket
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Kennaskañ dienrinek
+security-technical-mixed-content =
+    .value = Kennaskañ enrinek a-zarn
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Kennask enrineget ({ $algorithm }, alc'hwez { $keySize } eizhbit, { $protocol })
+security-technical-broken-encryption =
+    .value = Kennask enrineget ({ $algorithm }, alc'hwezioù { $keySize } eizhbit, { $protocol })
 
 ##
 

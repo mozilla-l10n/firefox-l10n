@@ -12,6 +12,8 @@ change-password-token = Nyonyo me Gwoko kuc: { $tokenName }
 change-password-old = Mung me donyo matye:
 change-password-new = Mung me donyo manyen:
 change-password-reenter = Mung me donyo manyen (doki):
+change-password-not-set =
+    .value = (pe kitero)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Gamo Waraga
 download-cert-message = Gipenyi me geno Twero me Waraga manyen (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = I mito geno "{ $caName }" pi tic magi?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Twero me Waraga (pe kimino nying)
 download-cert-trust-ssl =
     .label = Gen CA man me nyutu kakube me web.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Mung me donyo me waraga (doki):
 set-password-reminder = Pire tek: Ka wiyi owil ki mung me kano waraga, pe iromo dong gwoko man lacen.  Tim ber i ket rekod ne i kabedo ma ogwoke maber.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Tim ber i ket mung me donyo ma onongo kitiyo kwede me mungo catibiket man:
+
+## Protected authentication dialog
+

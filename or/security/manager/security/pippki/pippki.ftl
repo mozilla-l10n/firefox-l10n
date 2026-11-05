@@ -12,6 +12,8 @@ change-password-token = ସୁରକ୍ଷା ଯନ୍ତ୍ର: { $tokenName }
 change-password-old = ପ୍ରଚଳିତ ପ୍ରବେଶ ସଂକେତ:
 change-password-new = ନୂତନ ପ୍ରବେଶ ସଂକେତ:
 change-password-reenter = ପ୍ରବେଶ ସଂକେତ (ପୁଣିଥରେ):
+change-password-not-set =
+    .value = (ବିନ୍ୟାସିତ ନୁହଁ)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
 download-cert-message = ଆପଣ ଗୋଟିଏ ନୂତନ ପ୍ରମାଣପତ୍ର ଅଧିକାରୀ (CA)କୁ ବିଶ୍ୱାସ କରିବା ପାଇଁ କହିଥିଲେ.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = ନିମ୍ନଲିଖିତ ଉଦ୍ଦେଶ୍ୟଗୁଡ଼ିକ ପାଇଁ କଣ ଆପଣ "{ $caName }"ଉପରେ ବିଶ୍ୱାସ କରିବାକୁ ଚାହୁଁଛନ୍ତି?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ପ୍ରମାଣପତ୍ର ଅଧିକାରୀ (ବେନାମୀ)
 download-cert-trust-ssl =
     .label = ୱେବ ସାଇଟ ଚିହ୍ନିବା ପାଇଁ ଏହି CA କୁ ବିଶ୍ୱାସ କରନ୍ତୁ.
 download-cert-trust-email =
@@ -70,3 +77,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ପ୍ରମାଣପତ୍ର ନକଲସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତ (ପୁଣିଥରେ):
 set-password-reminder = ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ: ଯଦି ଆପଣ ଆପଣଙ୍କର ପ୍ରମାଣପତ୍ର ନକଲ ସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତକୁ ଭୁଲିଯାଆନ୍ତି, ତେବେ ଆପଣ ପରେ ଏହି ନକଲ ସଂରକ୍ଷଣକୁ ପୁନଃସ୍ଥାପନ କରିବାରେ ସମର୍ଥ ହେବେ ନାହିଁ.  ଦୟାକରି ଏହାକୁ କୌଣସି ସୁରକ୍ଷିତ ସ୍ଥାନରେ ଲିପିବଦ୍ଧ କରନ୍ତୁ.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = ଏହି ସାର୍ଟିଫିକେଟର ବ୍ୟାକଅପ ଗୋପନ (ଏନକ୍ରିପ୍ଟ) କରିବାରେ ବ୍ୟବହୃତ ପାସୱାର୍ଡ଼ ଦିଅନ୍ତୁ:
+
+## Protected authentication dialog
+

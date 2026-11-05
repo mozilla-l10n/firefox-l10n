@@ -110,6 +110,16 @@ security-view-technical =
     .value = Тэхнічныя падрабязнасці
 help-button =
     .label = Даведка
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Вэб-сайт { $website } не падтрымлівае шыфраванне для старонкі, якую вы праглядаеце.
+security-technical-no-encryption-transit = Інфармацыя, якая перасылаецца праз Інтэрнэт без шыфравання, можа быць даступна іншым людзям у часе яе перадачы.
+security-technical-no-encryption-page = Старонка, якую вы праглядаеце, не была зашыфравана для перадачы праз Сеціва.
+security-technical-encrypted-page = Старонка, якую вы праглядаеце, была зашыфравана для перадачы праз Сеціва.
+security-technical-encrypted-description = Шыфраванне робіць складаным прагляд звестак, якія перадаюцца паміж камп'ютарамі, неаўтарызаваным бокам. Такім чынам, малаверагодна, што хто-небудзь чытае гэту старонку, калі яна ідзе праз сетку.
+security-technical-mixed-content-description = Часткі старонкі, якую вы праглядаеце, не былі зашыфраваны для перадачы праз Сеціва.
+security-technical-weak-cipher = Ваша злучэнне з гэтым сайтам выкарыстоўвае слабае шыфраванне, і не прыватнае. Іншыя людзі могуць бачыць вашы звесткі і мяняць паводзіны вэб-сайта.
+security-technical-ct-compliant = Гэты вэб-сайт адпавядае патрабаванням палітыкі Празрыстасці Сертыфікату.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Так, кукі і { $value } { $unit } дадзе
 security-site-data-only = Так, { $value } { $unit } дадзеных з сайта
 security-site-data-cookies-only = Так, кукі
 security-site-data-no = Не
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Злучэнне не зашыфравана
+security-technical-mixed-content =
+    .value = Злучэнне часткова зашыфравана
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Злучэнне зашыфравана ({ $algorithm }, { $keySize } біт ключы, { $protocol })
+security-technical-broken-encryption =
+    .value = Зламанае шыфраванне ({ $algorithm }, { $keySize } біт ключы, { $protocol })
 
 ##
 

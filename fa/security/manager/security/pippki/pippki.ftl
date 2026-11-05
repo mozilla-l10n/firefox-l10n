@@ -14,6 +14,8 @@ change-password-token = دستگاه امنیتی: { $tokenName }
 change-password-old = گذرواژهٔ فعلی:
 change-password-new = گذرواژهٔ جدید:
 change-password-reenter = گذرواژهٔ جدید (دوباره وارد کنید):
+change-password-not-set =
+    .value = (تنظیم نشده)
 pippki-failed-pw-change = تغییر گذرواژه ممکن نشد.
 pippki-incorrect-pw = گذرواژهٔ فعلی را درست وارد نکردید. لطفاً دوباره امتحان کنید.
 pippki-pw-change-ok = گذرواژه با موفقیت تغییر کرد.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = در حال بارگیری گواهی
 download-cert-message = از شما تقاضا شده به یک مرجع صدور گواهی جدید اعتماد کنید.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = آیا می‌خواهید برای مقاصد زیر به «{ $caName }» اعتماد کنید؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = مرجع صدور گواهی (بی‌نام)
 download-cert-trust-ssl =
     .label = برای تشخیص هویت وبگاه‌ها به این مرجع صدور گواهی اعتماد شود.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = گذرواژهٔ پشتیبان گواهی (دوباره وارد کنید):
 set-password-reminder = مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = لطفاً گذرواژه‌ای را که برای رمزنگاری نسخه پشتیبان این گواهی‌نامه استفاده شده است وارد کنید:
 
 ## Protected authentication dialog
 

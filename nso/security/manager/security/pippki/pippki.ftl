@@ -12,6 +12,8 @@ change-password-token = Setlabelo sa Tšhireletšo: { $tokenName }
 change-password-old = Lentšuphetišo la bjale:
 change-password-new = Lentšuphetišo le leswa:
 change-password-reenter = Lentšuphetišo le leswa (gape):
+change-password-not-set =
+    .value = (ga se ya beakanywa)
 
 ## Reset Primary Password dialog
 
@@ -24,14 +26,17 @@ download-cert-window2 =
     .title = Go bula Setifikheiti
     .style = min-width: 46em
 download-cert-message = O kgopetšwe go tshepha Taolo e mpsha ya Disetifikheiti (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = E ka ba o nyaka go tshepha "{ $caName }" ya dinepo tše di latelago?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Taolo ya Setifikheiti (ga sa fiwa leina)
 download-cert-trust-email =
     .label = Tshepha CA ye go hlatha bašomiši ba e-poso.
 download-cert-message-desc = Pele o ka tshepha CA ye morerong o mongwe le o mongwe, o swanetše go lekola setifikheiti sa yona le maano-tshepedišo le ditsela tša yona (ge di le gona).
 download-cert-view-cert =
     .label = Lebelela
 download-cert-view-text = Lekola setifikheiti sa CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -49,9 +54,8 @@ set-password-repeat-backup-pw =
     .value = Lentšuphetišo la thekgo ya setifikheiti (gape):
 set-password-reminder = Ye bohlokwa: Ge o lebetše lentšuphetišo la gago la thekgo ya setifikheiti, o ka se kgone go bušetša thekgo ye ka morago.  Ka kgopelo e rekote lefelong le le bolokegilego.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

@@ -110,6 +110,16 @@ security-view-technical =
     .value = Techniske podrobnosće
 help-button =
     .label = Pomoc
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Websydło { $website } njepodpěruje zaklučowanje za stronu, kotruž sej runje wobhladujeće.
+security-technical-no-encryption-transit = Informacije, kotrež sćelu so bjez zaklučowanja přez Internet, hodźa so wot druhich ludźi widźeć, mjeztym zo jón přeprěkuja.
+security-technical-no-encryption-page = Strona, kotruž sej wobhladujeće, njebě zaklučowana, prjedy hač je so přez internet pósłała.
+security-technical-encrypted-page = Strona, kotruž sej wobhladujeće, je so zaklučowała, prjedy hač je so přez internet pósłała.
+security-technical-encrypted-description = Zaklučowanje poćežuje njeawtorizowanym wosobam informacije widźeć, kotrež so mjez ličakami wuměnjeja. Je tohodla prawdźe jara njepodobne, zo je něchtó tutu stronu přečitał, hdyž je wona syć přeprěčiła.
+security-technical-mixed-content-description = Dźěle strony, kotruž sej runje wobhladujeće, njejsu so zaklučowali, prjedy hač internet přepřěčichu.
+security-technical-weak-cipher = Waš zwisk z tutym websydłom wužiwa słabe zaklučowanje a njeje priwatny. Druzy ludźo móža waše informacije widźeć abo zadźerženje websydła změnić.
+security-technical-ct-compliant = Tute websydło wotpowěduje prawidłam certifikatoweje transparency.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Haj, placki a { $value } { $unit } sydłowych datow
 security-site-data-only = Haj, { $value } { $unit } sydłowych datow
 security-site-data-cookies-only = Haj, placki
 security-site-data-no = Ně
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Zwisk njezaklučowany
+security-technical-mixed-content =
+    .value = Zwisk zdźěla zaklučowany
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Zwisk zaklučowany ({ $algorithm }, bitowe kluče { $keySize }, { $protocol })
+security-technical-broken-encryption =
+    .value = Złamane zaklučowanje ({ $algorithm }, bitowe kluče { $keySize }, { $protocol })
 
 ##
 

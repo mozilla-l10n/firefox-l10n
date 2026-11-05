@@ -110,6 +110,16 @@ security-view-technical =
     .value = Tekniske detaljar
 help-button =
     .label = Hjelp
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Nettstaden { $website } stør ikkje kryptering for nettsida du ser på.
+security-technical-no-encryption-transit = Informasjon som vert sendt over internett utan kryptering kan verta lesen av andre under overføringa.
+security-technical-no-encryption-page = Sida du ser på vart ikkje kryptert før ho vart overført over Internett.
+security-technical-encrypted-page = Sida du ser på vart kryptert før ho vart overført over Internett.
+security-technical-encrypted-description = Kryptering gjer det vanskeleg for uautoriserte personar å sjå informasjonen som vert overførd mellom datamaskiner. Det er derfor usannsynleg at nokon las nettsida medan ho vart overførd over nettverket.
+security-technical-mixed-content-description = Delar av sida du viser vart ikkje krypteret før ho vart overført over Internett.
+security-technical-weak-cipher = Tilkoplinga til denne nettstaden brukar svak kryptering og er ikkje privat. Andre personar kan sjå informasjonen, eller endra oppførselen til nettstaden.
+security-technical-ct-compliant = Denne nettstaden følgjer sertifikatpraksisen om innsyn.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Ja, infokapslar og { $value } { $unit } nettsidedat
 security-site-data-only = Ja, { $value } { $unit } nettsidedata
 security-site-data-cookies-only = Ja, infokapslar
 security-site-data-no = Nei
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Tilkoplinga er ikkje kryptert
+security-technical-mixed-content =
+    .value = Sambandet er delvis kryptert
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Tilkopling kryptert ({ $algorithm }, { $keySize } bitnyklar, { $protocol })
+security-technical-broken-encryption =
+    .value = Øydelagd kryptering ({ $algorithm }, { $keySize } bit nyklar, { $protocol })
 
 ##
 

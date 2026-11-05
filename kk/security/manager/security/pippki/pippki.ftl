@@ -14,6 +14,8 @@ change-password-token = Қорғаныс құрылғысы: { $tokenName }
 change-password-old = Ағымдағы пароль:
 change-password-new = Жаңа пароль:
 change-password-reenter = Жаңа пароль (қайтадан):
+change-password-not-set =
+    .value = (орнатылмаған)
 pippki-failed-pw-change = Парольді өзгерту мүмкін емес.
 pippki-incorrect-pw = Сіз ағымдағы парольді қате енгіздіңіз. Қайтадан енгізіп көріңіз.
 pippki-pw-change-ok = Пароль сәтті өзгертілді.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Сертификатты жүктеу
 download-cert-message = Сізден жаңа Сертификаттау Орталығына (CA) сену сұранды.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Сіз "{ $caName }"-ке келесі мақсаттармен сенуді қалайсыз ба?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Сертификаттау орталығы (атаусыз)
 download-cert-trust-ssl =
     .label = Веб-сайттарды идентификациялауда осы CA сену.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Сертификатты қалпына келтіру паролі(қайтадан):
 set-password-reminder = Маңызды: Егер сертификатты қалпына келтіру паролін жоғалтсаңыз, кейін оны қалпына келтіре алмайсыз.  Парольді қауіпсіз жерге жазыңыз.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Сертификаттың қор көшірмесін шифрлеу үшін қолданылған паролді енгізіңіз:
 
 ## Protected authentication dialog
 

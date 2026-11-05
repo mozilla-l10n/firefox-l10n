@@ -14,6 +14,8 @@ change-password-token = ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ: { $tokenName }
 change-password-old = ਮੌਜੂਦਾ ਪਾਸਵਰਡ:
 change-password-new = ਨਵਾਂ ਪਾਸਵਰਡ:
 change-password-reenter = ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):
+change-password-not-set =
+    .value = (ਸੈੱਟ ਨਹੀਂ)
 pippki-failed-pw-change = ਪਾਸਵਰਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 pippki-incorrect-pw = ਤੁਸੀਂ ਆਪਣਾ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਠੀਕ ਨਹੀਂ ਭਰਿਆ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
 pippki-pw-change-ok = ਪਾਸਵਰਡ ਕਾਮਯਾਬੀ ਨਾਲ ਬਦਲਿਆ ਹੈ।
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 download-cert-message = ਤੁਹਾਨੂੰ ਇੱਕ ਨਵੀਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ (CA) ਉੱਤੇ ਭਰੋਸਾ ਕਰਨ ਲਈ ਕਿਹਾ ਜਾਂਦਾ ਹੈ
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = ਕੀ ਤੁਸੀਂ "{ $caName }" ਤੇ ਹੇਠ ਦਿੱਤੇ ਮਕਸਦ ਲਈ ਭਰੋਸਾ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ (ਬੇਨਾਮ)
 download-cert-trust-ssl =
     .label = ਇਸ CA ਨੂੰ ਵੈੱਬ ਸਾਇਟਾਂ ਨੂੰ ਪਛਾਣ ਲਈ ਵਿਸ਼ਵਾਸ ਵਿੱਚ ਲਵੋ।
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ (ਪੁਸ਼ਟੀ):
 set-password-reminder = ਖਾਸ: ਜੇਕਰ ਤੁਸੀਂ ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਤਾਂ ਤੁਸੀਨ ਇਸ ਬੈਕਅੱਪ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੋਗੇ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਰੱਖੋ।
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = ਪਾਸਵਰਡ ਦਿਓ, ਜਿਸ ਨੂੰ ਇਹ ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ:
 
 ## Protected authentication dialog
 

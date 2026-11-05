@@ -14,6 +14,8 @@ change-password-token = Maszina ôd bezpieczyństwa: { $tokenName }
 change-password-old = Aktualne hasło:
 change-password-new = Nowe hasło:
 change-password-reenter = Nowe hasło (jeszcze roz):
+change-password-not-set =
+    .value = (niynastawiōne)
 pippki-failed-pw-change = Niy idzie zmiynić hasła.
 pippki-incorrect-pw = Niy było wkludzōne dobre hasło. Sprōbuj jeszcze roz.
 pippki-pw-change-ok = Zmiana hasła sie podarziła.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Pobiyranie certyfikatu
 download-cert-message = Prziszła prośba, coby wierzić nowymu wystowcy certyfikatōw (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Chcesz wierzić „{ $caName }“ przi tych cylach?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Wystowca certyfikatu (bez miana)
 download-cert-trust-ssl =
     .label = Wiyrz tymu CA przi poznowaniu strōn.
 download-cert-trust-email =
@@ -86,3 +93,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Hasło do ibrycznyj kopii certyfikatu (jeszcze roz):
 set-password-reminder = Pozōr: jak przepōmnisz hasła do ibrycznyj kopii certyfikatu, to niyskorzij niy pōdzie wrōcić tyj ibrycznyj kopii.  Schrōń je dobrze.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Wkludź hasło, co było użyte przi szyfrowaniu ibrycznyj kopii tego certyfikatu:
+
+## Protected authentication dialog
+

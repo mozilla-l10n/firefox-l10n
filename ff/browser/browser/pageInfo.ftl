@@ -104,6 +104,16 @@ security-view-technical =
     .value = Cariiɗo Karallaagal
 help-button =
     .label = Ballal
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Lowre geese { $website } ndee jaɓataa gannugol e hollo ngo ngon-ɗaa ngoo.
+security-technical-no-encryption-transit = Humpito neldaango e nder Enternet tawa gannaaka ena waawi yiyeede tuma nde woni e bolol.
+security-technical-no-encryption-page = Hello ngo ngon-ɗaa ngoo ko gannaango hade mayre neldeede e Enternet.
+security-technical-encrypted-page = Hello ngo ngon-ɗaa ngoo ko gannaango hade mayre neldeede e Enternet.
+security-technical-encrypted-description = Gannugol ena saɗtina yimɓe ɓe njamiraaka yoo njiy humpito yaaɓoowo hakkunde ordinateeruuji. Ena wayi no hay gooto waawaa tarde ngoo hello tuma nde ngo yaaɓata e nder laylaytol ngol.
+security-technical-mixed-content-description = Bannge e hello ngo ngon-ɗaa ngoo gannaaka hade mayre neldeede e Enternet.
+security-technical-weak-cipher = Ceŋagol maa to ndee lowre huutortoo ko gannugol jaafngol tee wonaa cuuringol. Yimɓe woɗɓe ena mbaawi yiytaade humpito maa walla mbayla jikku lowre ndee.
+security-technical-ct-compliant = Ndee lowre geese ina ɗooftii politik laaɓal sartifikaaji.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Eey, kuukiije kam e { $value } { $unit } keɓe lowr
 security-site-data-only = Eey, { $value }{ $unit } keɓe lowre ndee
 security-site-data-cookies-only = Eey, kuukiije
 security-site-data-no = Alaa
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Ceŋol Gannaaka
+security-technical-mixed-content =
+    .value = Ceŋol Gannangol Seeɗa
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Ceŋol Gannangol ({ $algorithm }, kelon { $keySize } bite, { $protocol })
+security-technical-broken-encryption =
+    .value = Gannangol kelngol ({ $algorithm }, kelon { $keySize } bite, { $protocol })
 
 ##
 

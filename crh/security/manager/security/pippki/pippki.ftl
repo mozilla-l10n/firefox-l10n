@@ -12,6 +12,8 @@ change-password-token = Güvenlik Aygıtları: { $tokenName }
 change-password-old = Güncel parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
+change-password-not-set =
+    .value = (ayarlı değil)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sertifika indiriliyor
 download-cert-message = Yeni bir Sertifika Yöneticisinin (CA) güvenliğini sordunuz.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Aşağıdaki maqsatlar içün “{ $caName }” itimat etilsinmi?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifika Yetkilisi (isimsiz)
 download-cert-trust-ssl =
     .label = Ağ-saytlarını teşhis etmek içün bu Şeadet Salahiyetine (CA) itimat et.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifika yedekleme parolası (tekrar):
 set-password-reminder = Önemli: Eğer sertifika yedekleme parolanızı unutursanız, bu yedeklemeyi daha sonra yeniden oluşturamazsınız. Lütfen bunu güvenli bir ortamda saklayın.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Lütfen bu şeadetname yedegini şifrelemek içün qullanılğan sır-sözni kirsetiñiz:
+
+## Protected authentication dialog
+

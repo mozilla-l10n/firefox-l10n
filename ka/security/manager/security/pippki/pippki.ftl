@@ -14,6 +14,8 @@ change-password-token = უსაფრთხოების მოწყობ�
 change-password-old = მიმდინარე პაროლი:
 change-password-new = ახალი პაროლი:
 change-password-reenter = ახალი პაროლი (კვლავ):
+change-password-not-set =
+    .value = (არ მითითებულა)
 pippki-failed-pw-change = პაროლის შეცვლა, ვერ ხერხდება.
 pippki-incorrect-pw = თქვენ მიერ მითითებული მიმდინარე პაროლი მცდარია. სცადეთ ხელახლა.
 pippki-pw-change-ok = პაროლი წარმატებით შეიცვალა.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = სერტიფიკატის გადმოწერა
 download-cert-message = თქვენგან მოითხოვეს სერტიფიკატების ახალი გამცემისთვის (CA) ნდობის გამოცხადება.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = გსურთ ენდოთ “{ $caName }”-ს შემდეგი მიზნებისთვის?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = სერტიფიკატის გამცემი (უსახელო)
 download-cert-trust-ssl =
     .label = ამ გამომცემის ნდობა ვებსაიტების დამოწმებისთვის.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = სერტიფიკატის დუბლირების პაროლი (კვლავ):
 set-password-reminder = მნიშვნელოვანია: თუ სერტიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = გთხოვთ, შეიყვანოთ პაროლი, რომელიც ამ სერტიფიკატის მარქაფის დაშიფვრის დროს იყო გამოყენებული:
 
 ## Protected authentication dialog
 

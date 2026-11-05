@@ -14,6 +14,8 @@ change-password-token = Sikkerhedsenhed: { $tokenName }
 change-password-old = Nuværende adgangskode:
 change-password-new = Ny adgangskode:
 change-password-reenter = Ny adgangskode (igen):
+change-password-not-set =
+    .value = (ikke sat)
 pippki-failed-pw-change = Kan ikke ændre adgangskode.
 pippki-incorrect-pw = Du indtastede ikke den nuværende adgangskode. Prøv igen.
 pippki-pw-change-ok = Adgangskoden blev ændret.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Henter certifikat
 download-cert-message = Du er blevet bedt om at stole på en ny certifikatautoritet (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ønsker du at stole på "{ $caName }" til følgende formål?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikatautoritet (unavngivet)
 download-cert-trust-ssl =
     .label = Stol på denne CA til at identificere websteder.
 download-cert-trust-email =
@@ -98,3 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Adgangskode for sikkerhedskopi af certifikat (igen):
 set-password-reminder = Vigtigt: Hvis du glemmer din adgangskode, vil du ikke kunne gendanne denne sikkerhedskopi senere.  Gem den et sikkert sted.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Indtast den adgangskode, der blev brugt til at kryptere denne certifikat-backup:
+
+## Protected authentication dialog
+
