@@ -110,6 +110,11 @@ security-view-technical =
     .value = Technische Details
 help-button =
     .label = Hilfe
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Die Website { $website } unterstützt keine Verschlüsselung für die Seite, die Sie ansehen.
+security-technical-no-encryption-transit = Informationen, die ohne Verschlüsselung über das Internet gesendet werden, können während der Übertragung von anderen Personen angesehen werden.
+security-technical-no-encryption-page = Die Seite, die Sie ansehen, wurde nicht verschlüsselt, bevor sie über das Internet übermittelt wurde.
 security-technical-encrypted-page = Die Seite, die Sie ansehen, wurde verschlüsselt, bevor sie über das Internet übermittelt wurde.
 security-technical-encrypted-description = Verschlüsselung macht es für unberechtigte Personen schwierig, zwischen Computern übertragene Informationen anzusehen. Daher ist es unwahrscheinlich, dass jemand diese Seite gelesen hat, als sie über das Internet übertragen wurde.
 security-technical-mixed-content-description = Teile der Seite, die Sie ansehen, wurden nicht verschlüsselt, bevor sie über das Internet übertragen wurden.
@@ -129,6 +134,8 @@ security-site-data-no = Nein
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Verbindung nicht verschlüsselt
 security-technical-mixed-content =
     .value = Verbindung teilweise verschlüsselt
 
