@@ -103,6 +103,7 @@ set-password-reminder = 중요: 만약 인증서 백업 비밀번호를 분실�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = 이 인증 백업을 암호화할 때 사용했던 비밀번호을 입력하세요:
 
 ## Protected authentication dialog
 

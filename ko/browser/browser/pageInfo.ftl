@@ -110,6 +110,11 @@ security-view-technical =
     .value = 기술적 세부 사항
 help-button =
     .label = 도움말
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = { $website } 웹 사이트는 현재 보고 계신 페이지에 대한 암호화를 지원하지 않습니다.
+security-technical-no-encryption-transit = 암호화 없이 인터넷을 통해 정보를 보내면 전송되는 동안 내용을 다른 사람이 볼 수 있습니다.
+security-technical-no-encryption-page = 보려고 하는 페이지가 인터넷에 전송되기 전에 암호화되지 않았습니다.
 security-technical-encrypted-page = 현재 보고 계신 페이지는 인터넷을 통해 전송되기 전에 암호화되었습니다.
 security-technical-encrypted-description = 암호화는 컴퓨터 간에 이동하는 정보를 권한이 없는 사람이 보기 힘들게 합니다. 그렇기 때문에 이 페이지가 전송될 때 누군가 읽었을 가능성은 낮습니다.
 security-technical-mixed-content-description = 보고있는 페이지의 일부가 인터넷에 전송되기 전에 암호화되지 않았습니다.
@@ -129,6 +134,8 @@ security-site-data-no = 아니요
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = 암호화되지 않은 연결
 security-technical-mixed-content =
     .value = 일부분만 암호화된 연결
 
