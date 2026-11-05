@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Daûr a cjamâ certificât
 download-cert-message = Ti domandin di fidâti di une gnove Autoritât di Certificazion (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vuelistu fidâti di "{ $caName }" par chescj?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritât di certificazion (cence non)
 download-cert-trust-ssl =
     .label = Fiditi di cheste CA (autoritât di certificazion) par identificâ i sîts web.
 download-cert-trust-email =
