@@ -102,6 +102,10 @@ security-view-technical =
     .value = وردەکاری تەکنیکی
 help-button =
     .label = یارمەتی
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = ماڵپەڕی { $website } پشتگیر بە کلیلیکردن ناکات بۆ ئەو پەرەی دەتەوێت بیبینی.
+security-technical-no-encryption-transit = زانیاری نێردراو لە ڕێگەی ئینتەرنێتەوە کە کلیلنەدرابێت دەتوانرێت ببینرێت لە لایەن کەسانی ترەوە کاتێک لە ڕێگەی ناردندایە.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +117,23 @@ security-site-data-cookies = بەڵێ، شەکرۆکەکان و { $value }{ $uni
 security-site-data-only = بەڵێ، { $value }{ $unit } لە زانیاری ماڵپەڕ
 security-site-data-cookies-only = بەڵێ، شەکرۆکەکان
 security-site-data-no = نەخێر
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = پەیوەندی کلیل نەدراوە
+security-technical-mixed-content =
+    .value = پەیوەندی بە نیمچەیی کلیلدراوە
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = پەیوەندی کلیلدراوە ({ $algorithm }، کلیلی { $keySize } بتی، { $protocol })
+security-technical-broken-encryption =
+    .value = کلیدانی شکاو ({ $algorithm }، کلیلی { $keySize } بتی، { $protocol })
 
 ##
 
