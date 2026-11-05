@@ -107,6 +107,11 @@ security-view-technical =
     .value = Detagls tecnics
 help-button =
     .label = Agid
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = La website { $website } na sustegna nagin criptadi per la pagina che ti vesas.
+security-technical-no-encryption-transit = Infurmaziuns che vegnan tramessas senza criptadi via l'internet pon vegnir vesidas dad autras persunas durant la transmissiun.
+security-technical-no-encryption-page = La pagina che vegn mussada n'è betg vegnida criptada avant che transmetter via l'internet.
 security-technical-encrypted-page = La pagina che vegn mussada è vegnida criptada, avant ch'ella è vegnida transmessa via l'internet.
 security-technical-encrypted-description = Il criptadi renda grev a persunas betg autorisadas da spiunar infurmaziuns transmessas tranter computers. Perquai èsi improbabel ch'insatgi ha legì questa pagina durant ch'ella è vegnida transmessa tras la rait.
 security-technical-mixed-content-description = Tschertas parts da la pagina che ti vesas n'èn betg vegnidas criptadas avant ch'ellas èn vegnidas tramessas via internet.
@@ -126,6 +131,8 @@ security-site-data-no = Na
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Connexiun betg criptada
 security-technical-mixed-content =
     .value = Connexiun parzialmain criptada
 

@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Telechargiar il certificat
 download-cert-message = Ti es vegnì dumandà da fidar ad in nov post da certificaziun (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Duai vegnir fidà a "{ $caName }" per las suandantas acziuns?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Post da certificaziun (senza num)
 download-cert-trust-ssl =
     .label = Fidar a questa CA per identifitgar websites.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Impurtant: sche ti emblidas tes pled-clav da segirezza d
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Endatescha il pled-clav ch'è vegnì utilisà per criptar la copia da segirezza da quest certificat:
 
 ## Protected authentication dialog
 
