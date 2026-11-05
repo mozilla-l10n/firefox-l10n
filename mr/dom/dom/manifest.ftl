@@ -7,6 +7,12 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-should-be-object = Manifest हे घटक असला पाहिजे.
+dom-manifest-scope-url-invalid = स्कोप URL अवैध आहे.
+dom-manifest-scope-not-same-origin = स्कोप URL तेच मूळ असले पाहिजे जे दस्तऐवज आहे.
+dom-manifest-start-url-outside-scope = प्रारंभ URL व्याप्ती बाहेर आहे, त्यामुळे व्याप्ती अवैध आहे.
+dom-manifest-start-url-invalid = प्रारंभ URL अवैध आहे.
+dom-manifest-start-url-should-be-same-origin = सुरूवातीचे URL तेच मूळ असले पाहिजे जे दस्तऐवज आहे.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
