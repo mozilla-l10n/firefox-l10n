@@ -7,6 +7,30 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Le membro ‘id’ non se ha resolvite in un URL valide.
+dom-manifest-id-not-same-origin = Le membro ‘id’ debe haber le mesme origine que le membro ‘start_url’.
+dom-manifest-should-be-object = Le manifesto debe ser un objecto.
+dom-manifest-scope-url-invalid = Le URL de ambito non es valide.
+dom-manifest-scope-not-same-origin = Le URL de ambito debe haber le mesme fonte del documento.
+dom-manifest-start-url-outside-scope = Le URL initial es foras le ambito, alora le ambito es invalide.
+dom-manifest-start-url-invalid = Le URL de initio non es valide.
+dom-manifest-start-url-should-be-same-origin = Le URL de initio debe haber le mesme fonte del documento.
+# Variables:
+#   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
+#   $property (String) - The name of the invalid property, e.g. "start_url".
+#   $expectedType (String) - The expected type of the property value, e.g. "string".
+# Example: "Expected the manifest’s start_url member to be a string."
+dom-manifest-invalid-type = On expectava que le membro { $property } de { $objectName } esseva un { $expectedType }.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
+#   $value (String) - The invalid value of the property.
+# Example: "theme_color: 42 is not a valid CSS color."
+dom-manifest-invalid-css-color = { $property }: { $value } non es un color CSS valide.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "lang".
+#   $value (String) - The invalid value of the property.
+# Example: "lang: 42 is not a valid language code."
+dom-manifest-lang-is-invalid = { $property }: { $value } non es un codice de lingua valide.
 # Variables:
 #   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
 #   $index (Number) - The index of the image object that is invalid, starting from 0.
