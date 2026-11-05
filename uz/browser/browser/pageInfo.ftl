@@ -104,6 +104,11 @@ security-view-technical =
     .value = Texnik ma’lumotlar
 help-button =
     .label = Yordam
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Siz ko‘rayotgan sahifa uchun kodlashni { $website } sayti qo‘llab-quvvatlamaydi.
+security-technical-no-encryption-transit = Internet orqali jo‘natilgan kodlanmagan ma’lumotlarni u o‘tkazilayotganda boshqa odamlar ko‘rishi mumkin.
+security-technical-no-encryption-page = Siz ko‘rayotgan sahifa internetga uzatilishidan oldin kodlanmagan.
 security-technical-encrypted-page = Siz ko‘rayotgan sahifa internetga uzatilishidan oldin kodlangan.
 security-technical-encrypted-description = Ma’lumotlarni kompyuterlararo uzatilayotganda kodlash begona odamlar ularni ko‘rishini qiyinlashtiradi. Shuning uchun ma’lumotlar tarmoqda uzatilayotganda ularni o‘qish holati deyarli uchramaydi.
 security-technical-mixed-content-description = Siz ko‘rayotgan sahifa qismlari internetga qo‘yilishdan oldin kodlanmagan.
@@ -122,6 +127,8 @@ security-site-data-no = Yoʻq
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Ulanish kodlanmagan
 security-technical-mixed-content =
     .value = Ulanish qisman kodlangan
 
