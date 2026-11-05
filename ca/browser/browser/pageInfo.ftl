@@ -110,6 +110,11 @@ security-view-technical =
     .value = Detalls tècnics
 help-button =
     .label = Ajuda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = El lloc web { $website } no permet l'ús de xifratge per a la pàgina que esteu visualitzant.
+security-technical-no-encryption-transit = La informació que s'envia per Internet sense xifratge pot ser visualitzada per tercers mentre és en camí.
+security-technical-no-encryption-page = La pàgina que esteu visualitzant no s'ha xifrat abans de transmetre's per Internet.
 security-technical-encrypted-page = La pàgina que esteu visualitzant s'ha xifrat abans de transmetre's per Internet.
 security-technical-encrypted-description = El xifratge fa difícil que persones no autoritzades puguin visualitzar la informació que viatja entre ordinadors. Per tant, és improbable que algú hagi llegit aquesta pàgina mentre circulava per la xarxa.
 security-technical-mixed-content-description = Hi ha parts de la pàgina que esteu visualitzant que no s'han xifrat abans de transmetre's per Internet.
@@ -129,6 +134,8 @@ security-site-data-no = No
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = La connexió no està xifrada
 security-technical-mixed-content =
     .value = Connexió xifrada parcialment
 

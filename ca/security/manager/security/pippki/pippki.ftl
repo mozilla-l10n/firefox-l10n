@@ -103,6 +103,7 @@ set-password-reminder = Important: si oblideu la contrasenya de la còpia de seg
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Introduïu la contrasenya que es va utilitzar per xifrar la còpia de seguretat d'aquest certificat:
 
 ## Protected authentication dialog
 
