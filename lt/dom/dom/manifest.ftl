@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Narys „id“ nenustatė tinkamo URL.
+dom-manifest-id-not-same-origin = Narys „id“ privalo turėti tą pačią kilmę kaip ir „start_url“ narys.
+dom-manifest-should-be-object = Manifestas turėtų būti objektas.
+dom-manifest-scope-url-invalid = Galiojimo srities URL yra netinkamas.
+dom-manifest-scope-not-same-origin = Galiojimo srities URL kilmė turi sutapti su dokumento kilme.
+dom-manifest-start-url-outside-scope = Pradžios URL yra už galiojimo srities ribų, tad sritis negalioja.
+dom-manifest-start-url-invalid = Pradžios URL yra netinkamas.
+dom-manifest-start-url-should-be-same-origin = Pradžios URL kilmė turi sutapti su dokumento kilme.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
