@@ -7,13 +7,11 @@ copy =
 menu-copy =
     .label = आनी प्रत
     .accesskey = C
-
 select-all =
     .key = S
 menu-select-all =
     .label = वेंचात आनी सगलें
     .accesskey = A
-
 general-tab =
     .label = सर्वसादारण
     .accesskey = G
@@ -33,7 +31,6 @@ general-meta-name =
     .label = नाव
 general-meta-content =
     .label = आशय
-
 media-tab =
     .label = माध्यम
     .accesskey = M
@@ -61,13 +58,11 @@ media-save-as =
 media-save-image-as =
     .label = म्हण जतनाय करात...
     .accesskey = e
-
 perm-tab =
     .label = अनुमत्यो
     .accesskey = P
 permissions-for =
     .value = अनुमत्योः
-
 security-tab =
     .label = सुरक्षा
     .accesskey = S
@@ -86,25 +81,36 @@ security-view-identity-verifier =
     .value = सत्यत्वस्थापन केलां:
 security-view-privacy =
     .value = गुप्तता & इतिहास
-
 security-view-privacy-history-value = आयच्या पयली ह्या वेबसायटीक हावे केन्ना भेट दिल्ली?
-
 security-view-privacy-passwords-value = हांवे ह्या वेबसायटीखतिर कसलो पासवर्ड जतनाय केला?
-
 security-view-privacy-viewpasswords =
     .label = सांबाळिल्ले पासवर्ड्स दृश्य करचे
     .accesskey = w
 security-view-technical =
     .value = तंत्रिक तपशील
-
 help-button =
     .label = मदत
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = वेबसायट { $website } तुमी पळयतात त्या पानाखातीरच्या एनक्रिप्शनाक फाटबळ दिना.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = जोडणी एनक्रिप्टेड ना
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -126,7 +132,6 @@ media-video = व्हिडिओ
 media-audio = ऑडिओ
 saved-passwords-yes = हंय
 saved-passwords-no = ना
-
 no-page-title =
     .value = शिर्षक नाशिल्ले पान
 general-quirks-mode =
@@ -140,14 +145,12 @@ media-unknown-not-cached =
     .value = अज्ञात (कॅची करूंक नाशिल्लो)
 permissions-use-default =
     .label = डिफॉल्ट वापरचो
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } प्रतिमा
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -157,14 +160,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px स्केल केला)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
