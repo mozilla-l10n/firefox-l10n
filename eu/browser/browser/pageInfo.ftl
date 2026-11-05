@@ -110,6 +110,11 @@ security-view-technical =
     .value = Xehetasun teknikoak
 help-button =
     .label = Laguntza
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = { $website } webguneak ez du onartzen ikusten ari zaren orriaren zifratzea.
+security-technical-no-encryption-transit = Interneten zifratu gabe bidalitako informazioa, batetik bestera dabilenean, beste norbaitek ikus dezake.
+security-technical-no-encryption-page = Ikusten ari zaren orria ez da zifratu Internetetik transmititu aurretik.
 security-technical-encrypted-page = Ikusten ari zaren orria zifratu egin da Internetetik transmititu aurretik.
 security-technical-encrypted-description = Ordenagailuen artean transmititzen den informazioa baimenik gabeko pertsonek ikustea zailtzen du zifratzeak. Horrela ia ezinezkoa da sarean zehar dabilela inork orri hau hau irakurtzea.
 security-technical-mixed-content-description = Ikusten ari zaren orriaren zati batzuk ez dira zifratu Internetetik transmititu aurretik.
@@ -129,6 +134,8 @@ security-site-data-no = Ez
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Konexioa zifratu gabe
 security-technical-mixed-content =
     .value = Konexioa erdizka zifratuta
 
