@@ -16,6 +16,8 @@ autocomplete-import-logins-chromium-edge = <div data-l10n-name="line1">ورود 
 ##
 
 autocomplete-import-learn-more = اطلاعات بیشتر
+# Shown in the dropdown of a login field on a page that is not secure (HTTP).
+autocomplete-insecure-login-warning = این اتصال امن نیست. اطلاعاتی که اینجا وارد می‌شوند ممکن است در معرض خطر باشند.
 
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
