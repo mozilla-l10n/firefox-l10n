@@ -12,6 +12,8 @@ change-password-token = Xavfsiz qurilma: { $tokenName }
 change-password-old = Joriy parol:
 change-password-new = Yangi parol:
 change-password-reenter = Yangi parol (yana):
+change-password-not-set =
+    .value = (o‘rnatilmagan)
 
 ## Reset Primary Password dialog
 
@@ -70,3 +72,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikat zahira paroli (yana):
 set-password-reminder = Muhim: agar siz sertifikat zahira parolini unutsangiz, ushbu zahiralashni keyinroq tiklay olmaysiz. Uni xavfsiz joyga yozib qo‘ying.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

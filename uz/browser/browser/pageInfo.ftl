@@ -104,6 +104,10 @@ security-view-technical =
     .value = Texnik ma’lumotlar
 help-button =
     .label = Yordam
+security-technical-encrypted-page = Siz ko‘rayotgan sahifa internetga uzatilishidan oldin kodlangan.
+security-technical-encrypted-description = Ma’lumotlarni kompyuterlararo uzatilayotganda kodlash begona odamlar ularni ko‘rishini qiyinlashtiradi. Shuning uchun ma’lumotlar tarmoqda uzatilayotganda ularni o‘qish holati deyarli uchramaydi.
+security-technical-mixed-content-description = Siz ko‘rayotgan sahifa qismlari internetga qo‘yilishdan oldin kodlanmagan.
+security-technical-weak-cipher = Bu saytga ulanish kuchsiz shifrlashdandan foydalanmoqda. Bu esa maxfiy emas. Boshqalar ma’lumotlaringizni ko‘rish yoki saytning xususiyatlarini o‘zgartirisi mumkin.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +119,21 @@ security-site-data-cookies = Ha, cookie  va { $value } { $unit } sayti maʼlumot
 security-site-data-only = Ha, { $value } { $unit } sayti maʼlumotlari
 security-site-data-cookies-only = Ha, cookie fayllar
 security-site-data-no = Yoʻq
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Ulanish qisman kodlangan
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Ulanish kodlangan ({ $algorithm }, { $keySize } bit kalitlar, { $protocol })
+security-technical-broken-encryption =
+    .value = Buzilgan kodlash ({ $algorithm }, { $keySize } bit kalitlar, { $protocol })
 
 ##
 
