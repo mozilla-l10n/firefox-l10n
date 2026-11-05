@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = Galdetu { $provider } hornitzaileari
 genai-menu-new-badge = Berria
 genai-menu-summarize-page = Laburbildu orria
+genai-menu-summarize-with-ai = Laburbildu AA erabiliz
 genai-input-ask-smart-window =
     .placeholder = Galdetu…
 genai-input-ask-generic =
     .placeholder = Galdetu AA txatbotari…
+genai-input-ask-ai =
+    .placeholder = Galdetu AAri…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Galdetu { $provider } hornitzaileari…

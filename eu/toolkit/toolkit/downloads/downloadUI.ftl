@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] Ezeztatu deskarga bat
        *[other] Ezeztatu { $downloadsCount } deskarga
     }
+download-ui-confirm-private-browsing-button = Itxi leihoa
 
 ##
 

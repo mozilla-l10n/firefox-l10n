@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Aldatu tamainaz ikuspegi zatituko fitxak
 tab-devtools-splitter =
     .aria-label = Aldatu tamainaz garatzaile-tresnen panela
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Gehitu fitxak taldera
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:

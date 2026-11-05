@@ -173,6 +173,10 @@ about-processes-site-tab-count =
 # Bulk-action bar icon button: clears the selection without acting on it.
 about-processes-bulk-cancel-selection =
     .title = ביטול בחירה
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = ביטול טעינה
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.

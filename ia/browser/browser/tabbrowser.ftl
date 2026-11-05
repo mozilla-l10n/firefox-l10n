@@ -451,6 +451,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separar vista scindite
     .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Schedas separate
+    .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Reverter schedas

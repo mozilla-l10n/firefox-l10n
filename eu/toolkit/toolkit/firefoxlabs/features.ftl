@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Fitxa-oharrak eginbide esperimenta
 experimental-features-tab-context-menu =
     .label = Sinplifikatutako fitxen menua
 experimental-features-tab-context-menu-description = Ikusi testuinguru-menu sinpleagoa fitxa batean eskuin-klika egitean. Ohiko ekintzak bilatzeko errazagoak izateko dago diseinatua. <a data-l10n-name="connect">Eman iritzia</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Baliabideen monitorea

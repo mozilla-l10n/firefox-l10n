@@ -7,6 +7,14 @@
 ### feature.
 
 about-unloads-page-title = ביטול טעינת לשוניות
+about-unloads-intro =
+    ל-{ -brand-short-name } יש תכונה שמבטלת טעינה של לשוניות באופן אוטומטי
+    כדי למנוע מהיישום לקרוס עקב מחסור בזיכרון,
+    כאשר הכמות הזיכרון הפנוי במערכת נמוכה. הלשונית הבאה שתבוטל טעינתה
+    נבחרת על סמך מספר מאפיינים. עמוד זה מציג כיצד
+    { -brand-short-name } מתעדף לשוניות ואיזו לשונית תושפע מביטול טעינה
+    כאשר התכונה מופעלת. באפשרותך להפעיל את ביטול טעינה של לשוניות באופן ידני
+    על־ידי לחיצה על הלחצן <em>ביטול טעינה</em> שלהלן.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
@@ -15,7 +23,7 @@ about-unloads-learn-more =
 about-unloads-last-updated = עדכון אחרון: { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
 about-unloads-button-unload = ביטול טעינה
     .title = ביטול טעינת לשונית עם העדיפות הגבוהה ביותר
-about-unloads-no-unloadable-tab = אין לשוניות שניתן לפרוק.
+about-unloads-no-unloadable-tab = אין לשוניות שניתן לבטל את טעינתן.
 about-unloads-column-priority = עדיפות
 about-unloads-column-host = מארח
 about-unloads-column-last-accessed = גישה אחרונה

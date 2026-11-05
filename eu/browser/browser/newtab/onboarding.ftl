@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Ireki berriro zure fitxa-taldeak
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ireki berriro zure fitxa-taldeak edonoiz 'Zerrendatu fitxa guztiak' menu-aukeran.
 tab-groups-onboarding-dismiss = Ados
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Fitxa-taldeak automatikoki gordetzen dira. Hemen aurkituko dituzu.
 
 ## Multi Profiles feature onboarding messages
 
@@ -638,3 +640,9 @@ welcome-back-onboarding-card-label-tabs = Txukundu fitxa eta talde bertikalekin
 welcome-back-onboarding-card-label-vpn = Egon ezkutatuta integratutako VPNarekin
 welcome-back-onboarding-card-label-pdf = Nabarmendu, sinatu eta egin lan PDFekin
 welcome-back-onboarding-card-tilebutton-label = Probatu
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Konfiguratu zure { -brand-short-name } segundo gutxitan
+hnt-card-import-body = Ekarri zure laster-markak, pasahitzak eta gehiago beste nabigatzaile batetik.
+hnt-card-import-primary-button = Inportatu zure datuak

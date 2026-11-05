@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Reaperi tu gruppos de schedas ab
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reaperi tu gruppos de schedas quandocunque per le menu Listar tote le schedas.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Le gruppos de schedas es auto-salvate. Trova los ci.
 
 ## Multi Profiles feature onboarding messages
 
@@ -640,7 +642,22 @@ welcome-back-onboarding-card-tilebutton-label = Prova lo
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Configura tu { -brand-short-name } in secundas
+hnt-card-import-body = Porta con te tu marcapaginas, contrasignos, e plus ab un altere navigator.
 hnt-card-import-primary-button = Importar tu datos
+hnt-card-default-body = { -brand-product-name } es le sol navigator importante producite pro proteger te, non pro traciar te.
+hnt-card-default-primary-button = Aperir ligamines con { -brand-short-name }
+hnt-card-pin-header = Tene { -brand-short-name } a portata de un clic
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Salta retro in navigation protecte ab tu bassino.
+       *[other] Salta retro in navigation protecte ab tu barra del cargas.
+    }
+hnt-card-mobile-header = Obtene le protection integrate sur tu telephono
+hnt-card-mobile-body = Discarga { -brand-product-name } pro apparato mobile pro ulterior confidentialitate al volo.
 hnt-card-mobile-primary-button = Installa { -brand-product-name } pro mobile.
+hnt-card-wallpaper-header = Selige un fundo fresc
+hnt-card-wallpaper-body = Rende iste pagina agradabile como tu casa con un fundo que te place.
 hnt-card-wallpaper-primary-button = Initiar le personalisation
+hnt-card-taskbar-tabs-header = Adde tu sitos favorite a tu barra del cargas de Windows
 hnt-card-extensions-primary-button = Explorar

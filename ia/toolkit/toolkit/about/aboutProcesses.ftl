@@ -24,6 +24,8 @@ about-processes-select-all-tabs =
     .title = Seliger tote le schedas
 about-processes-expand-all-sites =
     .title = Expander toto
+about-processes-collapse-all-sites =
+    .title = Collaber toto
 about-processes-go-to-tab =
     .title = Ir a scheda
 # Profiler icons

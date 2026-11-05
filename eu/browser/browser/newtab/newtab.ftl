@@ -192,6 +192,9 @@ newtab-privacy-empty-state = { -brand-short-name }(e)k automatikoki blokeatzen d
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Ikusi guztirako zenbakiak hemen.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Jarraipen elementu gutxiago, nabigazio azkarragoa.
+newtab-privacy-empty-state-small-message = Nabigatu blokeatzen hasteko.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1428,6 +1431,12 @@ newtab-widget-menu-move-left = Ezkerrera
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Eskuinera
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Hasiera
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgetak
 newtab-widget-size-small = Txikia
 newtab-widget-size-medium = Ertaina
 newtab-widget-size-large = Handia

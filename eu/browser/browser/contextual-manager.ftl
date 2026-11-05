@@ -128,6 +128,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Kendu
        *[other] Kendu denak
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Ezabatu
+       *[other] Ezabatu denak
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -143,6 +150,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Honek { -brand-short-name }(e)n eta sinkronizatutako zure gailuetan gordetako pasahitza eta edozein urratze-alerta ezabatuko ditu. Ekintza hau ezin da desegin.
         [one] Honek { -brand-short-name }(e)n eta sinkronizatutako zure gailuetan gordetako pasahitza eta edozein urratze-alerta ezabatuko ditu. Ekintza hau ezin da desegin.
        *[other] Honek { -brand-short-name }(e)n eta sinkronizatutako zure gailuetan gordetako pasahitzak eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Honek { -brand-short-name }(e)tik ezabatzen du zure pasahitzak sinkronizatzen diren gailu guztietan. Ezin duzu hau desegin.
+       *[other] Honek { -brand-short-name }(e)tik ezabatzen ditu zure pasahitzak sinkronizatzen diren gailu guztietan. Ezin duzu hau desegin.
     }
 contextual-manager-passwords-origin-label = Webgunea
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -187,12 +201,16 @@ contextual-manager-passwords-radiobutton-all = Guztiak ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alertak ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Kendu pasahitza?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Ezabatu pasahitza?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Ezin duzu hau desegin.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Atzera
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Kendu
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Ezabatu
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Utzi
 contextual-manager-passwords-alert-card =
@@ -224,6 +242,9 @@ contextual-manager-passwords-update-label =
     .label = Eguneratu pasahitza
 contextual-manager-passwords-remove-label =
     .title = Kendu pasahitza
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Ezabatu pasahitza
 contextual-manager-passwords-origin-field =
     .label = Webgunearen helbidea
     .placeholder = https://www.adibidea.eus
@@ -339,6 +360,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Bai, kendu pasahitza
         [one] Bai, kendu pasahitzak
        *[other] Bai, kendu pasahitzak
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Bai, ezabatu pasahitza
+       *[other] Bai, ezabatu pasahitzak
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Gordetako zure pasahitzak ikusteko, idatzi zure pasahitz nagusia.
