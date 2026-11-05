@@ -14,6 +14,8 @@ change-password-token = Ibenk n tɣellist: { $tokenName }
 change-password-old = Awal uffir aqbuṛ:
 change-password-new = Awal uffir amaynut
 change-password-reenter = Sentem Awal uffir
+change-password-not-set =
+    .value = (ur iţusbadu ara)
 pippki-failed-pw-change = Ur yezmir ara ad isnifel awal uffir.
 pippki-incorrect-pw = Ur t-sekcemḍ ara awal uffir amiran ameɣtu. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.
 pippki-pw-change-ok = Awal uffir ibeddel akken iwata.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Asader n uselkin
 download-cert-message = Sutren-ak-d asentem n udabu n uselken amaynut (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Tebɣiḍ ad tegreḍ taflest di "{ $caName }" i tiggawin-agi?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Adabu n uselken (ulac isem)
 download-cert-trust-ssl =
     .label = Sentem abadu-yagi n uselken akken ad suluḍ ismal web.
 download-cert-trust-email =
@@ -98,3 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Awal uffir n usekles n uselkin (tikelt-nniḍen):
 set-password-reminder = Ɣuṛ-k: Ma yella tettuḍ awal uffir n uḥraz n uselkin-inek, ur tettizmireḍ ara ad d-terreḍ aḥraz-agi sya ɣer zdat.  Ma ulac aɣilif sekles-it deg adig aɣelsan.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Ma ulac aɣilif, sekcem awal uffir ittusqedcen i wewgelhen n weḥraz n uselkin-agi.
+
+## Protected authentication dialog
+

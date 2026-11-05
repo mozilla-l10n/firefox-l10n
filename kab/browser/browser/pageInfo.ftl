@@ -107,6 +107,16 @@ security-view-technical =
     .value = Talqayt tatiknikt
 help-button =
     .label = Tallelt
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Asmel web { $website } ur isefrak ara awgelhen i wesbtar ittuskanen akka tura.
+security-technical-no-encryption-transit = Talɣut ittwaznen ɣef Internet s war awgelhen zemren ad tt-walin imdanen-nniḍen ticki tettwazan.
+security-technical-no-encryption-page = Asebter i tettwaliḍ akka tura, yettwawgelhen send tuzzna yines ɣeṛ Internet.
+security-technical-encrypted-page = Asebter yettwaskanen yakan tura, yettwawgelhen send tuzna-yines ɣeṛ Internet.
+security-technical-encrypted-description = Awgelhen yettara askan n usebter yewɛeṛ ticki tewwazan gar iselkimen i yemdanen ur nettwasireg ara. Ihi ur yezmir ara akken yiwen ad iɣaṛ asebter-agi ticki iteddu deg uẓeṭṭa.
+security-technical-mixed-content-description = Kra n yeḥricen n usebter yettwaskanen akka tura, ur ttwawgelhen ara send tuzna nsen ɣeṛ Internet.
+security-technical-weak-cipher = Tuqqna-inek ɣeṛ usmel-a tesseqdac awgelhen fessusen ur nelli ara d uslig. Imadanen nniḍen zemren ad walin talɣut neɣ ad sniflen tiddin n usmel.
+security-technical-ct-compliant = Asmel-agi web yettqadeṛ tasertit taserwestant n uselkin.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +128,23 @@ security-site-data-cookies = Ih, inagan n tuqna akked{ $value } { $unit } seg is
 security-site-data-only = Ih, { $value } { $unit } seg isefka n usmel
 security-site-data-cookies-only = Ih, inagan n tuqna
 security-site-data-no = Ala
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Tuqqna ur teţwawgelhen ara
+security-technical-mixed-content =
+    .value = Tuqqna s uwegelhen amuran
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Tuqqna tettuwgelhen ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = Tuqqna taraɣelsant (tisura { $algorithm }, { $keySize } ibiten, { $protocol })
 
 ##
 
