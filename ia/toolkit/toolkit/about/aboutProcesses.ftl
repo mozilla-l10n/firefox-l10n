@@ -18,6 +18,12 @@ about-processes-shutdown-tab =
     .title = Clauder le scheda
 about-processes-unload-tab =
     .title = Discargar scheda
+about-processes-reload-tab =
+    .title = Recargar scheda
+about-processes-select-all-tabs =
+    .title = Seliger tote le schedas
+about-processes-expand-all-sites =
+    .title = Expander toto
 about-processes-go-to-tab =
     .title = Ir a scheda
 # Profiler icons
@@ -30,6 +36,14 @@ about-processes-profile-process =
             [one] Profilar tote le filos de iste processo durante { $duration } secunda
            *[other] Profilar tote le filos de iste processo durante { $duration } secundas
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Cercar in schedas
+    .placeholder = Cercar in schedas
 
 ## Column headers
 
@@ -129,6 +143,23 @@ about-processes-tab-count =
         [one] { $count } scheda
        *[other] { $count } schede
     }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] { $count } scheda
+       *[other] { $count } schedas
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Cancellar selection
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Recargar
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Clauder
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -180,6 +211,12 @@ about-processes-cpu-fully-idle = inactive
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = inactive
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0.1%
 
@@ -199,6 +236,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Evolution: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 

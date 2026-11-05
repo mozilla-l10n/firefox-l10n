@@ -39,6 +39,8 @@ download-ui-cancel-downloads-ok =
         [1] Cancellar un discarga
        *[other] Cancellar { $downloadsCount } discargamentos
     }
+download-ui-confirm-cancel-button = Cancellar
+download-ui-confirm-private-browsing-button = Clauder fenestra
 
 ##
 

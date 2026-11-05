@@ -641,3 +641,6 @@ welcome-back-onboarding-card-tilebutton-label = Prova lo
 ## New Tab Onboarding cards
 
 hnt-card-import-primary-button = Importar tu datos
+hnt-card-mobile-primary-button = Installa { -brand-product-name } pro mobile.
+hnt-card-wallpaper-primary-button = Initiar le personalisation
+hnt-card-extensions-primary-button = Explorar
