@@ -110,6 +110,11 @@ security-view-technical =
     .value = Chi tiết kĩ thuật
 help-button =
     .label = Trợ giúp
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Trang web { $website } không hỗ trợ mã hóa cho trang bạn đang xem.
+security-technical-no-encryption-transit = Thông tin được gửi qua Internet mà không mã hóa có thể bị người khác xem trong khi nó đang được truyền tải.
+security-technical-no-encryption-page = Trang bạn đang xem không được mã hóa trước khi nó được truyền tải trên Internet.
 security-technical-encrypted-page = Trang bạn đang xem được mã hóa trước khi nó được truyền tải trên Internet.
 security-technical-encrypted-description = Mã hóa sẽ gây khó khăn cho những người không được ủy quyền xem thông tin di chuyển giữa các máy tính. Do đó, không ai có thể đọc trang này khi nó di chuyển trên mạng.
 security-technical-mixed-content-description = Một số phần của trang bạn đang xem không được mã hóa trước khi được truyền tải trên Internet.
@@ -129,6 +134,8 @@ security-site-data-no = Không
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Kết nối không được mã hóa
 security-technical-mixed-content =
     .value = Kết nối được mã hóa một phần
 

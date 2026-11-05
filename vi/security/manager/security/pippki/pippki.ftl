@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Đang tải Chứng chỉ
 download-cert-message = Bạn được hỏi có tin tưởng một CA (Bên thẩm định Chứng chỉ) mới hay không.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Bạn có muốn tin tưởng “{ $caName }” cho những mục đích sau?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Cơ quan cấp chứng chỉ (chưa được đặt tên)
 download-cert-trust-ssl =
     .label = Tin CA này để nhận diện các trang web.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Quan trọng: Nếu bạn quên mật khẩu sao lưu ch
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Vui lòng nhập mật khẩu đã được sử dụng để mã hóa bản sao lưu chứng chỉ này:
 
 ## Protected authentication dialog
 
