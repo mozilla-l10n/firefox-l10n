@@ -7,6 +7,30 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Aɛeggal id ur yezmir ad yeɣti ɣer URL ameɣtu.
+dom-manifest-id-not-same-origin = Aɛeggal id ilaq ad yesɛu kifkif aɣbalu akked uɛeggal start_url.
+dom-manifest-should-be-object = Yessefk ameskan ad yiki d taɣawsa.
+dom-manifest-scope-url-invalid = Tanerfadit URL d tarameɣtut.
+dom-manifest-scope-not-same-origin = Issefk d akken tanerfadit URL ad tili am tin n isemli.
+dom-manifest-start-url-outside-scope = Tazwara n tansa URL teffeɣ i tduli, ihi taduli mačči d tameɣtut.
+dom-manifest-start-url-invalid = tazwara n URL mačči d tameɣtut.
+dom-manifest-start-url-should-be-same-origin = Issefk tazwara n tansa n URL ad tili am tin n isemli.
+# Variables:
+#   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
+#   $property (String) - The name of the invalid property, e.g. "start_url".
+#   $expectedType (String) - The expected type of the property value, e.g. "string".
+# Example: "Expected the manifest’s start_url member to be a string."
+dom-manifest-invalid-type = Amedraw { $property } n { $objectName } yettuṛagu ad yili d { $expectedType }.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
+#   $value (String) - The invalid value of the property.
+# Example: "theme_color: 42 is not a valid CSS color."
+dom-manifest-invalid-css-color = { $property }: { $value } mačči d ini CSS ameɣtu.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "lang".
+#   $value (String) - The invalid value of the property.
+# Example: "lang: 42 is not a valid language code."
+dom-manifest-lang-is-invalid = { $property }: { $value } mačči d tangalt n tutlayt tameɣtut.
 # Variables:
 #   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
 #   $index (Number) - The index of the image object that is invalid, starting from 0.
