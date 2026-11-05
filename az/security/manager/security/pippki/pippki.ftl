@@ -12,6 +12,8 @@ change-password-token = Təhlükəsizlik cihazları: { $tokenName }
 change-password-old = Hazırkı parol:
 change-password-new = Yeni parol:
 change-password-reenter = Yeni parol (təkrar):
+change-password-not-set =
+    .value = (heç nə seçilməyib)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Təsdiq sənədi yedəyi parolu (təkrar):
 set-password-reminder = Vacib: Əgər təsdiq sənədi yedəyi parolunuzu unutsanız, bu yedəyi yenidən yarada bilməyəcəksiniz.  Lütfən bunu təhlükəsiz bir şəraitdə saxlayın.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
