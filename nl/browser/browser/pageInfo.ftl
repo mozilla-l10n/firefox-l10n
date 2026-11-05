@@ -110,6 +110,11 @@ security-view-technical =
     .value = Technische details
 help-button =
     .label = Help
+security-technical-encrypted-page = De pagina die u bekijkt is versleuteld voordat deze over het internet werd verzonden.
+security-technical-encrypted-description = Versleuteling maakt het moeilijk voor onbevoegde personen om gegevens te bekijken die tussen computers worden uitgewisseld. Het is daarom onwaarschijnlijk dat iemand deze pagina heeft gelezen terwijl hij over het netwerk werd verzonden.
+security-technical-mixed-content-description = Delen van de pagina die u bekijkt waren niet versleuteld voordat ze over het internet werden verzonden.
+security-technical-weak-cipher = Uw verbinding met deze website gebruikt een zwakke versleuteling en is niet privé. Andere personen kunnen uw gegevens bekijken of het gedrag van de website aanpassen.
+security-technical-ct-compliant = Deze website voldoet aan het beleid voor Certificaattransparantie.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Ja, cookies en { $value } { $unit } aan websitegege
 security-site-data-only = Ja, { $value } { $unit } aan websitegegevens
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nee
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Gedeeltelijk versleutelde verbinding
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Versleutelde verbinding ({ $algorithm }, { $keySize }-bits sleutels, { $protocol })
+security-technical-broken-encryption =
+    .value = Onbetrouwbare versleuteling ({ $algorithm }, { $keySize }-bits sleutels, { $protocol })
 
 ##
 

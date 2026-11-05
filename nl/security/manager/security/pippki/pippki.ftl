@@ -14,6 +14,8 @@ change-password-token = Beveiligingsapparaat: { $tokenName }
 change-password-old = Huidige wachtwoord:
 change-password-new = Nieuw wachtwoord:
 change-password-reenter = Nieuw wachtwoord (nogmaals):
+change-password-not-set =
+    .value = (niet ingesteld)
 pippki-failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
 pippki-incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
 pippki-pw-change-ok = Wachtwoord met succes gewijzigd.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Wachtwoord voor de reservekopie van het certificaat (nogmaals):
 set-password-reminder = Belangrijk: als u uw wachtwoord voor de reservekopie van het certificaat vergeet, kunt u deze reservekopie later niet herstellen. Berg het op een veilige plek op.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
