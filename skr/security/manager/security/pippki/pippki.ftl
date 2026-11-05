@@ -14,6 +14,8 @@ change-password-token = سیکیورٹی ڈیوائس: { $tokenName }
 change-password-old = حالیہ پاس ورڈ:
 change-password-new = نواں پاس ورڈ:
 change-password-reenter = نواں پاس ورڈ (دوبارہ):
+change-password-not-set =
+    .value = (سیٹ کائنی)
 pippki-failed-pw-change = پاس ورڈ تبدیل کرݨ کوں عاری ہے
 pippki-incorrect-pw = تساں درست موجودہ پاس ورڈ درج نہیں کیتا۔ ولدا کوشش کرو.
 pippki-pw-change-ok = پاس ورڈ کامیابی نال تبدیل تھی ڳیا ہے۔
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = سرٹیفکیٹ ڈاؤن لوڈ تھیندا پیا ہے
 download-cert-message = تہاکوں ہک نویں سرٹیفکیٹ اتھارٹی (CA) تے بھروسہ کرݨ کیتے آکھیا ڳیا ہے۔
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = کیا تساں ہیٹھ درج مقاصد کیتے "{ $caName }" تے بھروسہ کرݨ چاہندے او؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = سرٹیفکیٹ اتھارٹی (بے نام)
 download-cert-trust-ssl =
     .label = ویب سائٹاں دی سنڄاݨ کیتے ایں CA تے بھروسہ کرو۔
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = سرٹیفکیٹ بیک اپ پاس ورڈ (دوبارہ):
 set-password-reminder = اہم: جے تساں اپݨا سرٹیفکیٹ بیک اپ پاس ورڈ بھل ویندے او، تاں تساں بعد وِچ ایں بیک اپ کوں بحال نہ کر سڳسو۔ براہ مہربانی اینکوں محفوظ مقام تے ریکارڈ کرو۔
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = براہ مہربانی او پاس ورڈ درج کرو جیڑھا ایں سرٹیفکیٹ دے بیک اپ کوں ڳجھا کرݨ کیتے استعمال کیتا ڳیا ہا۔
 
 ## Protected authentication dialog
 

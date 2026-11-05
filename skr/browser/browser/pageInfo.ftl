@@ -110,6 +110,16 @@ security-view-technical =
     .value = تکنیکی تفصیلاں
 help-button =
     .label = مدد
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = ویب سائٹ { $website } تساں جیڑھا ورقہ ݙیکھدے پئے او اوندے کیتے خفیہ کاری دی حمایت نہیں کریندی ہے۔
+security-technical-no-encryption-transit = انٹرنیٹ تے خفیہ کاری دے بغیر بھیڄی ڳئی معلومات کوں ٻئے لوک ݙیکھ سڳدے ہن جݙآں ایہ راہداری وِچ ہووے۔
+security-technical-no-encryption-page = تساں جیڑھا ورقہ ݙیکھدے پئے او او انٹرنیٹ تے منتقل تھیوݨ کنوں پہلے خفیہ کائنا ہا۔
+security-technical-encrypted-page = تساں جیڑھا ورقہ ڈیکھدے پئے او او انٹرنیٹ تے منتقل تھیوݨ کنوں پہلے انکرپٹ کیتا ڳیا ہا۔
+security-technical-encrypted-description = خفیہ کاری غیر مجاز لوکاں کیتے کمپیوٹر دے درمیان سفر کرݨ والی معلومات کوں ݙیکھݨ مشکل بݨدی ہے۔ ایں واسطے ایں ڳالھ دا امکان کائنی جو کوئی وی ایں ورقے کوں اوں وقت پڑھے جݙاں اوں پورے نیٹ ورک تے سفر کیتا۔
+security-technical-mixed-content-description = تساں جیڑھا ورقہ ݙیکھدے پئے او اوندے کجھ حصے انٹرنیٹ تے منتقل تھیوݨ کنوں پہلے ڳجھے نہ کیتے ڳئے ہن۔
+security-technical-weak-cipher = ایں ویب سائٹ کنوں تہاݙا کنکشن کمزور خفیہ کاری دا استعمال کریندا ہے تے ایہ نجی کائنی۔ ٻئے لوک تہاݙی معلومات ݙیکھ سڳدے ہن یا ویب سائٹ دے رویے وِچ ترمیم کر سڳدے ہن۔
+security-technical-ct-compliant = ایہ ویب سائٹ سرٹیفکیٹ دی شفافیت دی پالیسی دی تعمیل کریندی ہے۔
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = جیا ، سائٹ دے ڈیٹا تے کوکیاں 
 security-site-data-only = جیا ، سائٹ دے ڈیٹا دی { $value }{ $unit }
 security-site-data-cookies-only = جیا، کوکیاں
 security-site-data-no = کو
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = کنکشن انکرپٹڈ کائنی۔
+security-technical-mixed-content =
+    .value = کنکشن جزوی طور تے خفیہ کردہ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = کنکشن دیاں خفیہ کردہ ({ $algorithm }، { $keySize } بٹ کیز، { $protocol })
+security-technical-broken-encryption =
+    .value = ترٹیاں ہویاں ڳجھیاں ({ $algorithm }، { $keySize } بٹ کیز، { $protocol })
 
 ##
 
