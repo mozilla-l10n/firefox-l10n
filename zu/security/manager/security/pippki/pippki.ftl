@@ -26,6 +26,11 @@ download-cert-window2 =
     .title = Ukuthatha ufake izitifiketi
     .style = min-width: 46em
 download-cert-message = Ucelwe ukuba wethembe iGunya Lesitifiketi (CA) elisha.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Uyafuna yini ukwethemba i-"{ $caName }" ngalezi zinjongo ezilandelayo?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Igunya Lesitifiketi (alishiwongo igama)
 download-cert-trust-email =
     .label = Themba le CA ukuthi izohlonza abasebenzisi be-imeyili.
 download-cert-message-desc = Ngaphambi kokuba uthembe le CA kunoma yini, kufanele uhlole isitifiketi sayo nemigomo nenqubo yaso (uma ikhona).
