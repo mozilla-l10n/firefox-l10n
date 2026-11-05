@@ -97,6 +97,7 @@ help-button =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = The website { $website } does not support encryption for the page you are viewing.
+security-technical-no-encryption-transit = Information sent over the Internet without encryption can be seen by other people while it is in transit.
 security-technical-encrypted-page = The page you are viewing was encrypted before being transmitted over the Internet.
 security-technical-encrypted-description = Encryption makes it difficult for unauthorised people to view information traveling between computers. It is therefore unlikely that anyone read this page as it traveled across the network.
 security-technical-mixed-content-description = Parts of the page you are viewing were not encrypted before being transmitted over the Internet.
