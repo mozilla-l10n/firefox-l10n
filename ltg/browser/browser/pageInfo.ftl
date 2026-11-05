@@ -102,6 +102,16 @@ security-view-technical =
     .value = Tehniskuo informaceja
 help-button =
     .label = Paleidzeiba
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Šķārsteikla vītne { $website } naatbolsta pošreiz attaiseituos lopys šifriešonu.
+security-technical-no-encryption-transit = Caur Šķārsteiklu bez šifriešonys nūsyuteitū informaceju tuos ceļuošonys laikā var izlaseit cyti cylvāki.
+security-technical-no-encryption-page = The page you are viewing was not encrypted before being transmitted over the Internet.
+security-technical-encrypted-page = The page you are viewing was encrypted before being transmitted over the Internet.
+security-technical-encrypted-description = Encryption makes it difficult for unauthorized people to view information traveling between computers. It is therefore unlikely that anyone read this page as it traveled across the network.
+security-technical-mixed-content-description = Ituos sātys lopys daļis nav šifreitys pyrms nūsyuteišonys pa šķārsteiklu.
+security-technical-weak-cipher = Jiusu savīnuojums ar itū lopu izmontoj vuoju šifriešonu i nav privats. Cyti cylvāki var apsavērt jiusu informaceju voi modificeit lopys uzvedeibu.
+security-technical-ct-compliant = This website complies with the Certificate Transparency policy.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +123,23 @@ security-site-data-cookies = Jā, seikdatnes un { $value } { $unit } lopys datu
 security-site-data-only = Jā, { $value } { $unit } lopys datu
 security-site-data-cookies-only = Jā, seikdatnes
 security-site-data-no = Nā
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Savīnuojums nav šifreits
+security-technical-mixed-content =
+    .value = Savīnuojums daleji šifreits
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Šifreits savīnuojums ({ $algorithm }, { $keySize } bitu atslāgi, { $protocol })
+security-technical-broken-encryption =
+    .value = Šifreits savīnuojums ({ $algorithm }, { $keySize } bitu atslāgi, { $protocol })
 
 ##
 

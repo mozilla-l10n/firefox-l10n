@@ -12,6 +12,8 @@ change-password-token = Drūseibys īrīce: { $tokenName }
 change-password-old = Pošreizejuo parole:
 change-password-new = Jaunō parole:
 change-password-reenter = Jaunō parole (vēļreiz):
+change-password-not-set =
+    .value = (nav īstateits)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Lejupīluodē sertifikatus
 download-cert-message = Jiusim tīk vaicuots uzaticeitīs jaunai Sertifikatu Autoritatei (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Voi vālotīs uzaticeitīs "{ $caName }" itim mierkim?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifikatu autoritate (nanūsaukta)
 download-cert-trust-ssl =
     .label = Uzaticeitīs itai CA šķārsteikla vītņu identificiešonai.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikata rezerves puorspīdumi parole (vēļreiz):
 set-password-reminder = Svareigi: Ka aizmierssi itū paroli, navareisi atjaunōt itū rezerves kopiju.  Lyudzu sagloboj tū drūšā vītā.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Lyudzu īvodit paroli, kas tyka izmontuota sertifikata rezerves puorspīdumi šifriešonā:
+
+## Protected authentication dialog
+
