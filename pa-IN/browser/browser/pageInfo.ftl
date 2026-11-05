@@ -110,6 +110,11 @@ security-view-technical =
     .value = ਤਕਨੀਕੀ ਵੇਰਵੇ
 help-button =
     .label = ਮਦਦ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = ਵੈੱਬ ਸਾਇਟ { $website } ਸਫਾ, ਜੋ ਕਿ ਤੁਸੀਂ ਵੇਖ ਰਹੇ ਹੋ, ਲਈ ਇਕ੍ਰਿਪਸ਼ਨ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ।
+security-technical-no-encryption-transit = ਇੰਟਰਨੈਟ ਤੇ ਇਕ੍ਰਿਪਸ਼ਨ ਤੋਂ ਭੇਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਹੋਰ ਵਿਅਕਤੀ ਸੰਚਾਰ ਵੇਖ ਸਕਦੇ ਹਨ।
+security-technical-no-encryption-page = ਤੁਹਾਡੇ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਰਿਹਾ ਸਫ਼ਾ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਸੀ।
 security-technical-encrypted-page = ਸਫਾ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਵੇਖ ਰਹੇ ਹੋ, ਇੰਟਰਨੈੱਟ ਉੱਪਰ ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟਡ ਕੀਤਾ ਗਿਆ ਹੈ।
 security-technical-encrypted-description = ਇਕ੍ਰਿਪਸ਼ਨ ਨਾ-ਪ੍ਰਮਾਣਿਤ ਵਿਅਕਤੀਆਂ ਨੂੰ ਕੰਪਿਊਟਰਾਂ ਵਿੱਚ ਭੇਜੀ ਜਾਣ ਵਾਲੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣਾ ਅਸੰਭਵ ਬਣਾ ਦਿੰਦੀ ਹੈ। ਇਸਕਰਕੇ ਇਸ ਦੀ ਸੰਭਵਨਾ ਬਹੁਤ ਘੱਟ ਹੈ ਕਿ ਨੈੱਟਵਰਕਾਂ ਵਿੱਚ ਭੇਜਣ ਦੌਰਾਨ ਕੋਈ ਇਸ ਸਫੇ ਨੂੰ ਪੜ ਸਕੇ।
 security-technical-mixed-content-description = ਸਫ਼ੇ ਦੇ ਹਿੱਸੇ, ਜੋ ਕਿ ਤੁਸੀਂ ਵੇਖ ਰਹੇ ਹੋ, ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਹਨ
@@ -129,6 +134,8 @@ security-site-data-no = ਨਹੀਂ
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = ਕੁਨੈਕਸ਼ਨ ਇਕ੍ਰਿਪਟਡ ਨਹੀਂ ਹੈ।
 security-technical-mixed-content =
     .value = ਕਨੈਕਸ਼ਨ ਅਧੂਰਾ ਇੰਕ੍ਰਿਪਟਡ ਹੈ
 
