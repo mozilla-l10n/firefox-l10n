@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = عضو id به یک نشانی وب معتبر ختم نشد.
+dom-manifest-id-not-same-origin = عضو id باید دارای مبدأ یکسانی با عضو start_url باشد.
+dom-manifest-should-be-object = مانیفست باید یک شیء (Object) باشد.
+dom-manifest-scope-url-invalid = نشانی وب دامنهٔ فعالیت (Scope) نامعتبر است.
+dom-manifest-scope-not-same-origin = نشانی Scope باید دارای مبدأ یکسانی با سند باشد.
+dom-manifest-start-url-outside-scope = نشانی start_url خارج از دامنهٔ scope قرار دارد؛ بنابراین scope نامعتبر است.
+dom-manifest-start-url-invalid = نشانی start_url نامعتبر است.
+dom-manifest-start-url-should-be-same-origin = نشانی start_url باید دارای مبدأ یکسانی با سند باشد.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
