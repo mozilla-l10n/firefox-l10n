@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = 對分頁按右鍵時可看
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = 資源監視器
+experimental-features-resource-monitor-description = 直接在側邊欄檢視開啟分頁的記憶體與 CPU 用量估計值，並卸載未使用的分頁以釋放資源。<a data-l10n-name="connect">分享意見回饋</a>

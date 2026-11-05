@@ -64,7 +64,13 @@ download-ui-confirm-offline-title =
         [1] 要停止下載 1 個檔案並進入離線模式嗎？
        *[other] 要停止下載 { $downloadsCount } 個檔案並進入離線模式嗎？
     }
+download-ui-confirm-offline-message = 恢復網路連線後，{ -brand-short-name } 會嘗試繼續下載，但下載進度可能會遺失。
 download-ui-confirm-offline-button = 進入離線模式
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 要停止下載 1 個檔案並關閉此隱私視窗嗎？
+       *[other] 要停止下載 { $downloadsCount } 個檔案並關閉此隱私視窗嗎？
+    }
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] 將無法繼續下載這些檔案。

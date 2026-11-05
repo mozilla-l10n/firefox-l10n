@@ -142,6 +142,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除資料外洩警報，無法還原此行為。
        *[other] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除資料外洩警報，無法還原此行為。
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] 將從所有同步您密碼的裝置上刪除 { -brand-short-name } 中的這筆密碼。此操作無法還原。
+       *[other] 將從所有同步您密碼的裝置上刪除 { -brand-short-name } 中的這些密碼。此操作無法還原。
+    }
 contextual-manager-passwords-origin-label = 網站
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = 使用者名稱

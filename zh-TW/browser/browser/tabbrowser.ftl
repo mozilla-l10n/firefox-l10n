@@ -32,6 +32,11 @@ tab-splitview-splitter =
     .aria-label = 調整分割畫面分頁大小
 tab-devtools-splitter =
     .aria-label = 調整開發者工具面板大小
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = 將分頁加入至群組
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -252,6 +257,13 @@ tab-context-move-tab-to-new-group =
         { $tabCount ->
             [1] 將分頁加入至新群組
            *[other] 將分頁加入至新群組
+        }
+    .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] 加入群組
+           *[other] 將 { $tabCount } 的分頁加入至群組
         }
     .accesskey = G
 tab-context-move-tab-to-group =

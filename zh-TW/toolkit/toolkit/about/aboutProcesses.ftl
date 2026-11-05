@@ -61,6 +61,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = 搜尋分頁
     .placeholder = 搜尋分頁
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = 找不到符合「{ $query }」的分頁
 
 ## Column headers
 
@@ -154,6 +158,17 @@ about-processes-preloaded-tab = 預先載入的新分頁
 # Variables:
 #   $count (Number) The number of open tabs currently listed. Always ≥ 0.
 about-processes-tab-count = { $count } 個分頁
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count = 已選擇 { $count } 個分頁
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count = （{ $count } 個分頁）
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = 取消選擇
 # Bulk-action bar button: unloads every selected tab's content without
 # closing the tabs (see about-processes-unload-tab for the per-row version).
 about-processes-bulk-unload-tabs =
