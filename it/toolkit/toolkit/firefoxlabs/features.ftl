@@ -99,4 +99,3 @@ experimental-features-tab-context-menu-description = Visualizza un menu contestu
 experimental-features-resource-monitor =
     .label = Monitor risorse
 experimental-features-resource-monitor-description = Controlla direttamente nella barra laterale l’utilizzo stimato di memoria e CPU delle schede aperte e disattiva quelle che non usi per liberare risorse. <a data-l10n-name="connect">Condividi la tua opinione</a>
-

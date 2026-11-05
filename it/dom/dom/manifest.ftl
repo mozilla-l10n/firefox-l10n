@@ -61,4 +61,3 @@ dom-manifest-image-unsupported-purposes =
 #   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
 # Example: "icons item at index 2 includes repeated purpose(s): a, b."
 dom-manifest-image-repeated-purposes = L’elemento “{ $memberName }” in posizione { $index } include più di uno scopo (“purpose”): { $purposes }.
-

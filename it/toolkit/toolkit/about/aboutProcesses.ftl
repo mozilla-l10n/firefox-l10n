@@ -54,9 +54,6 @@ about-processes-profile-process =
             [one] Crea un profilo di tutti i thread di questo processo per { $duration } secondo
            *[other] Crea un profilo di tutti i thread di questo processo per { $duration } secondi
         }
-
-## Search
-
 # Search field above the tab list, filtering tabs by title or site. The
 # placeholder is shown inside the empty field.
 about-processes-search-tabs =
@@ -292,4 +289,3 @@ memory-unit-GB = GB
 memory-unit-TB = TB
 memory-unit-PB = PB
 memory-unit-EB = EB
-

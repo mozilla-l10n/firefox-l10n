@@ -672,4 +672,3 @@ hnt-card-extensions-primary-button = Esplora
 # rather than simply doing what everyone else does.
 hnt-card-last-card-header-start = È tutto pronto. Ora segui la tua curiosità.
 hnt-card-last-card-header-end = La protezione antitracciamento è attiva.
-

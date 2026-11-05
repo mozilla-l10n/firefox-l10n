@@ -39,6 +39,20 @@ download-ui-cancel-downloads-ok =
         [1] Annulla il download
        *[other] Annulla { $downloadsCount } download
     }
+download-ui-confirm-cancel-button = Annulla
+download-ui-confirm-quit-title = Interrompere { $downloadsCount } download e chiudere { -brand-short-name }?
+download-ui-confirm-quit-message = { -brand-short-name } tenterà di riprendere i download al riavvio, ma i progressi potrebbero andare persi.
+download-ui-confirm-quit-button = Esci da { -brand-short-name }
+download-ui-confirm-offline-title = Interrompere { $downloadsCount } download e passare alla modalità non in linea?
+download-ui-confirm-offline-message = { -brand-short-name } tenterà di riprendere i download quando sarai di nuovo online, ma i progressi potrebbero andare persi.
+download-ui-confirm-offline-button = Passa non in linea
+download-ui-confirm-private-browsing-title = Interrompere { $downloadsCount } download e chiudere questa finestra anonima?
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [one] Non sarà possibile riprendere questo download.
+       *[other] Non sarà possibile riprendere questi download.
+    }
+download-ui-confirm-private-browsing-button = Chiudi finestra
 
 ##
 
@@ -46,4 +60,3 @@ download-ui-file-executable-security-warning-title = Aprire il file eseguibile?
 # Variables:
 #   $executable (String): The executable file to be opened.
 download-ui-file-executable-security-warning = “{ $executable }” è un file eseguibile e potrebbe contenere virus o altri codici potenzialmente dannosi per il computer. Aprire questo file con cautela. Procedere con l’apertura di “{ $executable }”?
-

@@ -79,4 +79,3 @@ extension-classic-red-name = Rosso
 extension-classic-orange-name = Arancio
 # Name for a pure black theme, optimized for OLED screens.
 extension-classic-oled-name = Nero OLED
-

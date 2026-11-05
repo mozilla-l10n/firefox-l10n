@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copia URL scheda
 customkeys-file-focus-search = Attiva la barra di ricerca
 customkeys-history-reopen-tab = Riapri l’ultima scheda chiusa
 customkeys-history-reopen-window = Riapri l’ultima finestra chiusa
+customkeys-history-reopen-tab-current-window = Riapri l’ultima scheda chiusa nella finestra corrente
 customkeys-sidebar-toggle = Attiva/disattiva barra laterale
 customkeys-view-bookmarks-toolbar = Attiva/disattiva barra dei segnalibri
 customkeys-view-picture-in-picture = Picture-in-Picture

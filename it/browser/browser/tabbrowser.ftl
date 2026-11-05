@@ -127,11 +127,7 @@ tabbrowser-ask-close-tabs-with-key-checkbox = Chiedi prima di uscire con { $quit
 ## and browser.warnOnQuitShortcut is true.
 
 tabbrowser-confirm-close-warn-shortcut-title = Uscire da { -brand-short-name } o chiudere la scheda corrente?
-tabbrowser-confirm-close-windows-warn-shortcut-button =
-    { PLATFORM() ->
-        [windows] Esci da { -brand-short-name }
-       *[other] Chiudi { -brand-short-name }
-    }
+tabbrowser-confirm-close-windows-warn-shortcut-button = Esci da { -brand-short-name }
 tabbrowser-confirm-close-tab-only-button = Chiudi la scheda corrente
 
 ## Confirmation dialog when opening multiple tabs simultaneously
@@ -492,4 +488,3 @@ split-view-menuitem-reverse-tabs =
     .label = Scambia schede
 split-view-menuitem-close-both-tabs =
     .label = Chiudi entrambe le schede
-
