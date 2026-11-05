@@ -38,6 +38,10 @@ about-processes-unload-site =
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-reload-site =
     .title = بار کردن دوبارهٔ زبانه‌های { $site }
+about-processes-expand-all-sites =
+    .title = باز کردن همه
+about-processes-collapse-all-sites =
+    .title = جمع کردن همه
 about-processes-go-to-tab =
     .title = رفتن به زبانه
 # Profiler icons
@@ -50,6 +54,18 @@ about-processes-profile-process =
             [one] پروفایلینگ تمام تردهای این فرآیند به مدت { $duration } ثانیه
            *[other] پروفایلینگ تمام تردهای این فرآیند به مدت { $duration } ثانیه
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = جست‌وجوی زبانه‌ها
+    .placeholder = جست‌وجوی زبانه‌ها
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = هیچ زبانه‌ای با «{ $query }» مطابقت ندارد
 
 ## Column headers
 
@@ -141,6 +157,33 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = زبانه: { $name }
 about-processes-preloaded-tab = زبانهٔ جدید پیش‌بارگیری‌شده
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } زبانه
+       *[other] { $count } زبانه
+    }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } زبانه انتخاب شده
+       *[other] { $count } زبانه انتخاب شده
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } زبانه)
+       *[other] ({ $count } زبانه)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = لغو انتخاب
 # Bulk-action bar button: unloads every selected tab's content without
 # closing the tabs (see about-processes-unload-tab for the per-row version).
 about-processes-bulk-unload-tabs =
