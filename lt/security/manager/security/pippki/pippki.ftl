@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Liudijimo atsiuntimas
 download-cert-message = Jūsų prašoma nurodyti, ką patikite naujai liudijimų įstaigai (LĮ).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ar norite šiais atvejais pasitikėti „{ $caName }“?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Liudijimų įstaiga (pavadinimo nėra)
 download-cert-trust-ssl =
     .label = Patikėti šiai LĮ paliudyti svetainių tapatumą.
 download-cert-trust-email =
@@ -91,6 +96,7 @@ set-password-reminder = Svarbu. Jei pamiršite atsarginės kopijos slaptažodį,
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Surinkite slaptažodį, kuriuo buvo užšifruota šio liudijimo atsarginė kopija:
 
 ## Protected authentication dialog
 

@@ -104,6 +104,11 @@ security-view-technical =
     .value = Techninė informacija
 help-button =
     .label = Žinynas
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Svetainė { $website } neturi galimybių šifruoti dabar žiūrimą tinklalapį.
+security-technical-no-encryption-transit = Nešifruotą informaciją siuntimo metu gali perskaityti pašaliniai.
+security-technical-no-encryption-page = Peržiūrimas tinklalapis nebuvo užšifruotas prieš persiunčiant jį internetu.
 security-technical-encrypted-page = Peržiūrimas tinklalapis buvo užšifruotas prieš persiunčiant jį internetu.
 security-technical-encrypted-description = Šifravimas apsaugo tinklu siunčiamus duomenis nuo pašalinių asmenų. Dėl šios priežasties mažai tikėtina, kad kas nors galėjo perskaityti šį tinklalapį, kol jis keliavo tinklu.
 security-technical-mixed-content-description = Peržiūrimo tinklalapio dalys nebuvo užšifruotos prieš siunčiant jas internetu.
@@ -123,6 +128,8 @@ security-site-data-no = Ne
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Ryšys nešifruotas
 security-technical-mixed-content =
     .value = Iš dalies šifruotasis ryšys
 
