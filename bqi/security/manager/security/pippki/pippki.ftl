@@ -10,6 +10,8 @@ change-device-password-window =
 change-password-old = رزم هیم سکویی:
 change-password-new = رزم نۊ:
 change-password-reenter = رزم نۊ (دووارته بزنینس):
+change-password-not-set =
+    .value = (سامووݩ نوابیڌه)
 pippki-failed-pw-change = آلشت رزم مومکن نؽ.
 
 ## Reset Primary Password dialog
@@ -21,6 +23,15 @@ reset-password-button-label =
 
 download-cert-view-cert =
     .label = نشووݩ داڌن
+
+## Client Authentication Ask dialog
+
+
+## Set password (p12) dialog
+
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

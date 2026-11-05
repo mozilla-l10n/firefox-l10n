@@ -103,6 +103,17 @@ help-button =
 security-site-data-cookies-only = هری، کۊکیا
 security-site-data-no = ن
 
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = منپیز رزم ناهاڌه نؽ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+
 ##
 
 image-size-unknown = نشناخته
