@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Mboajepyréva ñemboguejy
 download-cert-message = Ojejerure ndéve ejerovia hag̃ua pe Moakãha Mboajeha (MM) pyahu rehe.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ejeroviase “{ $caName }”-re ko’ã mba’épe g̃uarã?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Moakãhára omboajéva (hera’ỹva)
 download-cert-trust-ssl =
     .label = Ejerovia ko CA rehe ehechakuaa hag̃ua ñanduti renda.
 download-cert-trust-email =
