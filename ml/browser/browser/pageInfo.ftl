@@ -107,6 +107,11 @@ security-view-technical =
     .value = സാങ്കേതിക വിശദാംശങ്ങള്‍
 help-button =
     .label = തുണ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = നിങ്ങള്‍ കാണുന്ന താളിനുള്ള എന്‍ക്രിപ്ഷന്‍  { $website } വെബ് സൈറ്റ് പിന്തുണയ്ക്കുന്നില്ല.
+security-technical-no-encryption-transit = എന്‍ക്രിപ്റ്റ് ചെയ്യാതെ ഇന്റര്‍നെറ്റ് വഴി അയയ്ക്കുന്ന വിവരങ്ങള്‍ മറ്റുള്ളവര്‍ക്കു് കാണുവാന്‍ സാധിക്കുന്നു.
+security-technical-no-encryption-page = നിങ്ങൾ കാണുന്ന പേജ് ഇന്റർനെറ്റിൽ പ്രക്ഷേപണം ചെയ്യുന്നതിനുമുമ്പ് എൻക്രിപ്റ്റ് ചെയ്തിട്ടില്ല.
 security-technical-encrypted-page = നിങ്ങള്‍ കാണുന്ന താള്‍ ഇന്റര്‍നെറ്റില്‍ ട്രാന്‍സ്മിറ്റ് ചെയ്യുന്നതിനു മുമ്പായി എന്‍ക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു.
 security-technical-encrypted-description = കമ്പ്യൂട്ടറുകള്‍ തമ്മില്‍ കൈമാറപ്പെട്ടുകൊണ്ടിരിക്കുന്ന വിവരങ്ങള്‍ അനുവാദമില്ലാത്തവര്‍ക്കു് കാണുവാന്‍ എന്‍ക്രിപ്ഷന്‍ വിഷമകരമാക്കിത്തീര്‍ക്കുന്നു. അതുകൊണ്ടു് തന്നെ ഈ താള്‍ അതിന്റെ നെറ്റ്‍വര്‍ക്ക് വഴിയുള്ള സഞ്ചാരമധ്യേ ആരും വായിച്ചിട്ടുണ്ടാവാന്‍ സാധ്യതയില്ല.
 security-technical-mixed-content-description = ഇന്റര്‍നെറ്റില്‍ ട്രാന്‍സ്രമിറ്റ് ചെയ്യുന്നതിനു് മുമ്പായി നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന താളിന്റെ ചില ഭാഗങ്ങള്‍ എന്‍ക്രിപ്റ്റ് ചെയ്യുവാന്‍ സാധിച്ചില്ല.
@@ -126,6 +131,8 @@ security-site-data-no = അല്ല
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = കണക്ഷന്‍ എന്‍ക്രിപ്റ്റ് ചെയ്തിട്ടില്ല.
 security-technical-mixed-content =
     .value = കണക്ഷന്‍ പകുതിയായ എന്‍ക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു.
 
