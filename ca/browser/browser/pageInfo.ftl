@@ -110,6 +110,11 @@ security-view-technical =
     .value = Detalls tècnics
 help-button =
     .label = Ajuda
+security-technical-encrypted-page = La pàgina que esteu visualitzant s'ha xifrat abans de transmetre's per Internet.
+security-technical-encrypted-description = El xifratge fa difícil que persones no autoritzades puguin visualitzar la informació que viatja entre ordinadors. Per tant, és improbable que algú hagi llegit aquesta pàgina mentre circulava per la xarxa.
+security-technical-mixed-content-description = Hi ha parts de la pàgina que esteu visualitzant que no s'han xifrat abans de transmetre's per Internet.
+security-technical-weak-cipher = La connexió a aquest lloc web utilitza un xifratge feble i no és privada. Altres persones podrien visualitzar la informació o modificar el comportament del lloc web.
+security-technical-ct-compliant = Aquest lloc web compleix amb la política de Transparència de certificats.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Sí, galetes i { $value } { $unit } de dades del ll
 security-site-data-only = Sí, { $value } { $unit } de dades del lloc
 security-site-data-cookies-only = Sí, galetes
 security-site-data-no = No
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Connexió xifrada parcialment
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Connexió xifrada ({ $algorithm }, claus de { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Xifratge trencat ({ $algorithm }, claus de { $keySize } bits, { $protocol })
 
 ##
 
