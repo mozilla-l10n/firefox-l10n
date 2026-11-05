@@ -135,6 +135,14 @@ contextual-manager-passwords-remove-all-message-sync =
         [one] Dette fjerner adgangskoden, du har gemt i { -brand-short-name } på alle dine synkroniserede enheder samt advarsler om datalæk. Du kan ikke fortryde denne handling.
        *[other] Dette fjerner alle adgangskoderne, du har gemt i { -brand-short-name } på alle dine synkroniserede enheder samt advarsler om datalæk. Du kan ikke fortryde denne handling.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Dette sletter den fra { -brand-short-name } på alle enheder, der synkroniserer dine adgangskoder. Du kan ikke fortryde dette.
+        [one] Dette sletter den fra { -brand-short-name } på alle enheder, der synkroniserer dine adgangskoder. Du kan ikke fortryde dette.
+       *[other] Dette sletter dem fra { -brand-short-name } på alle enheder, der synkroniserer dine adgangskoder. Du kan ikke fortryde dette.
+    }
 contextual-manager-passwords-origin-label = Websted
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Brugernavn

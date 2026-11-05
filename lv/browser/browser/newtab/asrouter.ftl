@@ -258,6 +258,29 @@ launch-on-login-infobar-final-message = <strong>Atvērt { -brand-short-name } ka
 launch-on-login-infobar-final-reject-button = Nē, paldies
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } tagad tiek palaists, kad piesakāties sistēmā Windows. To vienmēr varat mainīt vēlāk iestatījumos.
+launch-on-login-autostart-infobar-keep-button = Turpiniet
+    .accesskey = T
+launch-on-login-autostart-infobar-turn-off-button = Izslēgt
+    .accesskey = I
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Vai atvērt { -brand-short-name } nākamajā reizē, kad dators tiek startēts?
+launch-on-login-spotlight-startup-checkbox = Palaist { -brand-short-name } startēšanas laikā
+launch-on-login-spotlight-pin-taskbar-checkbox = Piespraust uzdevumjoslai
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
