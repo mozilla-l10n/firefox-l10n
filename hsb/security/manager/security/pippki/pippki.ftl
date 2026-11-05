@@ -14,6 +14,8 @@ change-password-token = Wěstotny grat: { $tokenName }
 change-password-old = Aktualne hesło:
 change-password-new = Nowe hesło:
 change-password-reenter = Nowe hesło (hišće raz):
+change-password-not-set =
+    .value = (njenastajeny)
 pippki-failed-pw-change = Njeje móžno, hesło změnić.
 pippki-incorrect-pw = Njejsće prawe hesło zapodał. Prošu spytajće hišće raz.
 pippki-pw-change-ok = Hesło je so wuspěšnje změniło.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Hesło zawěsćenja certifikata (hišće raz):
 set-password-reminder = Wažny: Jeli swoje hesło za zawěsćenje certifikata zabudźeće, njemóžeće tute zawěsćenje pozdźišo wobnowić. Prošu wobchowajće jo na wěstym městnje.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
