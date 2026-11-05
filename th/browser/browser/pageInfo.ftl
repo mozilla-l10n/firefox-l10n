@@ -107,6 +107,11 @@ security-view-technical =
     .value = รายละเอียดทางเทคนิค
 help-button =
     .label = ช่วยเหลือ
+security-technical-encrypted-page = หน้าที่คุณกำลังดูถูกเข้ารหัสก่อนที่จะถูกส่งผ่านอินเทอร์เน็ต
+security-technical-encrypted-description = การเข้ารหัสทำให้ผู้คนที่ไม่ได้รับอนุญาตดูข้อมูลที่เดินทางระหว่างคอมพิวเตอร์ได้ยาก ดังนั้นจึงไม่น่ามีใครก็ตามอ่านหน้านี้ในขณะที่หน้าเดินทางผ่านเครือข่าย
+security-technical-mixed-content-description = บางส่วนของหน้าที่คุณกำลังดูไม่ได้ถูกเข้ารหัสก่อนที่จะถูกส่งผ่านอินเทอร์เน็ต
+security-technical-weak-cipher = การเชื่อมต่อของคุณไปยังเว็บไซต์นี้ใช้การเข้ารหัสที่อ่อนแอและไม่เป็นส่วนตัว คนอื่นๆ จะสามารถดูข้อมูลของคุณหรือปรับเปลี่ยนลักษณะการทำงานของเว็บไซต์ได้
+security-technical-ct-compliant = เว็บไซต์นี้สอดคล้องกับนโยบายความโปร่งใสของใบรับรอง
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +123,21 @@ security-site-data-cookies = ใช่, คุกกี้และข้อม�
 security-site-data-only = ใช่, ข้อมูลไซต์ { $value } { $unit }
 security-site-data-cookies-only = ใช่, คุกกี้
 security-site-data-no = ไม่
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = การเชื่อมต่อถูกเข้ารหัสบางส่วน
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = การเชื่อมต่อถูกเข้ารหัส ({ $algorithm }, กุญแจ { $keySize } บิต, { $protocol })
+security-technical-broken-encryption =
+    .value = การเข้ารหัสเสียหาย ({ $algorithm }, กุญแจ { $keySize } บิต, { $protocol })
 
 ##
 

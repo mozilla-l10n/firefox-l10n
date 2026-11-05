@@ -14,6 +14,8 @@ change-password-token = อุปกรณ์ความปลอดภัย: 
 change-password-old = รหัสผ่านปัจจุบัน:
 change-password-new = รหัสผ่านใหม่:
 change-password-reenter = รหัสผ่านใหม่ (อีกครั้ง):
+change-password-not-set =
+    .value = (ไม่ได้ตั้ง)
 pippki-failed-pw-change = ไม่สามารถเปลี่ยนรหัสผ่านได้
 pippki-incorrect-pw = คุณใส่รหัสผ่านปัจจุบันไม่ถูกต้อง โปรดลองอีกครั้ง
 pippki-pw-change-ok = เปลี่ยนรหัสผ่านสำเร็จแล้ว
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = รหัสผ่านสำรองใบรับรอง (อีกครั้ง) :
 set-password-reminder = สำคัญมาก : หากคุณลืมรหัสผ่านสำรองใบรับรอง คุณจะไม่สามารถเรียกคืนข้อมูลที่สำรองไว้ได้อีกต่อไป ควรบันทึกรหัสผ่านนี้ไว้ในที่ปลอดภัย
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
