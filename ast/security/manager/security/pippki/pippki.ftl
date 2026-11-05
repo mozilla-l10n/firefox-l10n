@@ -12,10 +12,18 @@ change-device-password-window =
 change-password-token = Preséu de seguranza: { $tokenName }
 change-password-old = Contraseña actual:
 change-password-new = Contraseña nueva:
+change-password-not-set =
+    .value = (nun s'afitó)
 pippki-failed-pw-change = Nun ye posible camudar la contraseña
 pippki-pw-empty-warning = Nun van protexese les contraseñes y claves privaes qu'atroxares.
 pippki-pw-erased-ok = Desaniciesti la contraseña. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Alvertencia! Decidiesti nun usar una contraseña. { pippki-pw-empty-warning }
+
+## Reset Primary Password dialog
+
+
+## Downloading cert dialog
+
 
 ## Client Authentication Ask dialog
 
@@ -41,3 +49,12 @@ client-auth-cert-details-issued-by = Emitióse por: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Atroxóse en: { $storedOn }
+
+## Set password (p12) dialog
+
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
