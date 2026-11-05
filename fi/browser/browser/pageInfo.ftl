@@ -110,6 +110,11 @@ security-view-technical =
     .value = Tekniset tiedot
 help-button =
     .label = Ohje
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Palvelin { $website } ei käytä salausta tällä sivulla.
+security-technical-no-encryption-transit = Sivulliset voivat lukea verkossa salaamatta siirrettyjä tietoja.
+security-technical-no-encryption-page = Tarkastelemaasi sivua ei salattu ennen kuin se lähetettiin Internetin kautta.
 security-technical-encrypted-page = Tämä sivu salattiin ennen sen siirtoa.
 security-technical-encrypted-description = Salauksen vuoksi asiattomien on hyvin vaikea tarkastella tietokoneiden välillä siirtyvää tietoa. Siksi on epätodennäköistä, että kukaan luki tätä sivua sen siirtyessä verkon yli.
 security-technical-mixed-content-description = Osia avatusta sivusta ei salattu ennen sen siirtoa.
@@ -129,6 +134,8 @@ security-site-data-no = Ei
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Yhteys ei ole salattu
 security-technical-mixed-content =
     .value = Yhteys osittain salattu
 

@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Ladataan varmennetta
 download-cert-message = Aseta uuden varmentajan luotettavuus.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Varmentajaan { $caName } luotetaan seuraavissa toimissa:
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Varmentaja (nimeämättä)
 download-cert-trust-ssl =
     .label = Sivustojen todentajana.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Tärkeää: Jos varmenteen varmuuskopion salasana unohtu
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Kirjoita salasana, jota käytettiin varmenteiden varmuuskopion salaukseen:
 
 ## Protected authentication dialog
 
