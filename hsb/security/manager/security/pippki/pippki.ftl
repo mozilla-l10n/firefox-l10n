@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sćehnjenje certifikata
 download-cert-message = Bušće poprošeny nowej certifikatowej awtoriće (CA) dowěrić.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Chceće "{ $caName }" za slědowace zaměry dowěrić?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikatowa awtorita (bjez mjena)
 download-cert-trust-ssl =
     .label = Tutej certifikatowej awtoriće dowěrić, zo bychu so websydła identifikowali.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Wažny: Jeli swoje hesło za zawěsćenje certifikata za
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Prošu zapodajće hesło, kotrež je so za zaklučowanje tutoho zawěsćenja certifikata wužiło:
 
 ## Protected authentication dialog
 
