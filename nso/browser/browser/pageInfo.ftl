@@ -7,13 +7,11 @@ copy =
 menu-copy =
     .label = Kopiša
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Kgetha tšohle
     .accesskey = a
-
 general-tab =
     .label = Kakaretšo
     .accesskey = G
@@ -33,7 +31,6 @@ general-meta-name =
     .label = Leina
 general-meta-content =
     .label = Diteng
-
 media-tab =
     .label = Kgašoditaba
     .accesskey = M
@@ -61,13 +58,11 @@ media-save-as =
 media-save-image-as =
     .label = Boloka e le…
     .accesskey = e
-
 perm-tab =
     .label = Ditumelelo
     .accesskey = P
 permissions-for =
     .value = Ditumelelo tša:
-
 security-tab =
     .label = Tšhireletšo
     .accesskey = S
@@ -84,25 +79,32 @@ security-view-identity-domain =
     .value = Wepesaete:
 security-view-identity-verifier =
     .value = Kgonthišeditšwe ke:
-
 security-view-privacy-history-value = Na nkile ka etela wepesaete ye pele ga lehono?
-
 security-view-privacy-passwords-value = Na ke bolokile mantšuphetišo afe goba afe a wepesaete ye?
-
 security-view-privacy-viewpasswords =
     .label = Lebelela mantšuphetišo ao a bolokilwego
     .accesskey = w
 security-view-technical =
     .value = Dintlha tše raraganego
-
 help-button =
     .label = Thušo
+security-technical-encrypted-page = Letlakala leo o le lebeletšego le enkripthilwe pele le ka fetošwa go ba la inthanete.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -124,7 +126,6 @@ media-video = Bidio
 media-audio = Setheeletšwa
 saved-passwords-yes = Ee
 saved-passwords-no = Aowa
-
 no-page-title =
     .value = Letlakala le se na go thaetlele:
 general-quirks-mode =
@@ -138,14 +139,12 @@ media-unknown-not-cached =
     .value = Ga e tsebje (ga se ya bolokwa)
 permissions-use-default =
     .label = Diriša tirelwa
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Seswantšho sa { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -155,14 +154,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (kadilwe go { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:

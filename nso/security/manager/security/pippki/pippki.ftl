@@ -12,6 +12,8 @@ change-password-token = Setlabelo sa Tšhireletšo: { $tokenName }
 change-password-old = Lentšuphetišo la bjale:
 change-password-new = Lentšuphetišo le leswa:
 change-password-reenter = Lentšuphetišo le leswa (gape):
+change-password-not-set =
+    .value = (ga se ya beakanywa)
 
 ## Reset Primary Password dialog
 
@@ -31,8 +33,6 @@ download-cert-view-cert =
     .label = Lebelela
 download-cert-view-text = Lekola setifikheiti sa CA
 
-## Client Authorization Ask dialog
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -49,9 +49,8 @@ set-password-repeat-backup-pw =
     .value = Lentšuphetišo la thekgo ya setifikheiti (gape):
 set-password-reminder = Ye bohlokwa: Ge o lebetše lentšuphetišo la gago la thekgo ya setifikheiti, o ka se kgone go bušetša thekgo ye ka morago.  Ka kgopelo e rekote lefelong le le bolokegilego.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 
