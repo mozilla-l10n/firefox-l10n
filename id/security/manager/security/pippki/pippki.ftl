@@ -103,6 +103,7 @@ set-password-reminder = Penting: Jika Anda lupa sandi cadangan sertifikat, Anda 
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Masukkan sandi yang digunakan untuk mengenkripsi cadangan sertifikat:
 
 ## Protected authentication dialog
 
