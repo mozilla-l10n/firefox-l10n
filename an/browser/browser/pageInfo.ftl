@@ -104,6 +104,11 @@ security-view-technical =
     .value = Detalles tecnicos
 help-button =
     .label = Aduya
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = O puesto web { $website } no permite l'uso de zifrau t'a pachina que ye veyendo.
+security-technical-no-encryption-transit = A información que se ninvia por Internet sin zifrar puede estar vista por terceras personas mientres ye en camín.
+security-technical-no-encryption-page = A pachina que ye veyendo s'ha cifrau antes de transmitir-la por Internet.
 security-technical-encrypted-page = A pachina que ye veyendo s'ha zifrau antes de transmitir-la por Internet.
 security-technical-encrypted-description = O zifrau fa muit dificil que personas no autorizadas puedan veyer a información que viacha entre ordinadors. Por tanto, ye muit improbable que belún haiga leito ista pachina mientres viachaba por o ret.
 security-technical-mixed-content-description = I hai partes d'a pachina que ye veyendo que no estioron zifradas antes de transmitir-se por internet.
@@ -123,6 +128,8 @@ security-site-data-no = No
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = A connexión no ye zifrada
 security-technical-mixed-content =
     .value = Connexión zifrada parcialment
 
