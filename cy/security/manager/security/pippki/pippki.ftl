@@ -103,6 +103,7 @@ set-password-reminder = Pwysig: Os byddwch yn anghofio eich cyfrinair diogelwch 
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Rhowch y cyfrinair ddefnyddiwyd i amgryptio'r ffeil tystysgrif wrth gefn:
 
 ## Protected authentication dialog
 
