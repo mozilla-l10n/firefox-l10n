@@ -110,6 +110,11 @@ security-view-technical =
     .value = Xehetasun teknikoak
 help-button =
     .label = Laguntza
+security-technical-encrypted-page = Ikusten ari zaren orria zifratu egin da Internetetik transmititu aurretik.
+security-technical-encrypted-description = Ordenagailuen artean transmititzen den informazioa baimenik gabeko pertsonek ikustea zailtzen du zifratzeak. Horrela ia ezinezkoa da sarean zehar dabilela inork orri hau hau irakurtzea.
+security-technical-mixed-content-description = Ikusten ari zaren orriaren zati batzuk ez dira zifratu Internetetik transmititu aurretik.
+security-technical-weak-cipher = Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua. Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.
+security-technical-ct-compliant = Webgune honek ziurtagirien gardentasun-politika betetzen du.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Bai, cookieak eta gunearen datuetako { $value } { $
 security-site-data-only = Bai, gunearen datuetako { $value } { $unit }
 security-site-data-cookies-only = Bai, cookieak
 security-site-data-no = Ez
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Konexioa erdizka zifratuta
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Konexioa zifratuta ({ $algorithm }, { $keySize } biteko gakoak, { $protocol })
+security-technical-broken-encryption =
+    .value = Zifraketa hautsia ({ $algorithm }, { $keySize } biteko gakoak, { $protocol })
 
 ##
 

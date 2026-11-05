@@ -14,6 +14,8 @@ change-password-token = Segurtasun-gailua: { $tokenName }
 change-password-old = Uneko pasahitza:
 change-password-new = Pasahitz berria:
 change-password-reenter = Pasahitz berria (berriro):
+change-password-not-set =
+    .value = (ezarri gabe)
 pippki-failed-pw-change = Ezin da pasahitza aldatu.
 pippki-incorrect-pw = Ez duzu uneko pasahitz zuzena sartu. Saiatu berriro.
 pippki-pw-change-ok = Pasahitza ondo aldatu da.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ziurtagiri babeskopiaren pasahitza (berriro):
 set-password-reminder = Garrantzizkoa: Ziurtagiri-babeskopiaren pasahitza ahazten bazaizu, ezin izango duzu geroago babeskopia hori berreskuratu.  Gorde ezazu leku seguru batean.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
