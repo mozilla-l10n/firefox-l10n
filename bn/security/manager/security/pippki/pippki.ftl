@@ -12,6 +12,8 @@ change-password-token = নিরাপত্তা ডিভাইস: { $token
 change-password-old = বর্তমান পাসওয়ার্ড:
 change-password-new = নতুন পাসওয়ার্ড:
 change-password-reenter = নতুন পাসওয়ার্ড (পুনরায় লিখুন):
+change-password-not-set =
+    .value = (নির্ধারিত হয়নি)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড (পুনরায়):
 set-password-reminder = গুরুত্বপূর্ণ: সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড হারিয়ে গেলে আপনি এই ব্যাকআপ পুনরুদ্ধার করতে সক্ষম হবেন না।  অনুগ্রহ করে এই পাসওয়ার্ডটি কোনো সুরক্ষিত স্থানে সংরক্ষণ করুন।
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
