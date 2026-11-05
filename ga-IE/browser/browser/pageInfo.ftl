@@ -104,6 +104,11 @@ security-view-technical =
     .value = Mionsonraí Teicniúla
 help-button =
     .label = Cabhair
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Ní thacaíonn an suíomh Gréasáin { $website } le criptiúchán don leathanach a bhfuil tú ag amharc air.
+security-technical-no-encryption-transit = Is féidir le daoine eile faisnéis gan criptiúchán a sheoltar thar an Idirlíon a fheiceáil agus é ar an aistear.
+security-technical-no-encryption-page = Níor criptíodh an leathanach ar a bhfuil tú ag amharc roimh é a thraschur ar an Idirlíon.
 security-technical-encrypted-page = Criptíodh an leathanach ar a bhfuil tú ag amharc roimh é a thraschur ar an Idirlíon.
 security-technical-encrypted-description = De bharr criptiúcháin, tá sé an-deacair do dhaoine faisnéis a léamh gan cead agus í á traschur idir ríomhairí. Is beag seans, mar sin, gur léigh aon duine an leathanach seo agus é ag taisteal tríd an líonra.
 security-technical-mixed-content-description = Níor criptíodh cuid den leathanach ar a bhfuil tú ag amharc roimh é a thraschur thar an Idirlíon.
@@ -123,6 +128,8 @@ security-site-data-no = Níl
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Níl an ceangal criptithe
 security-technical-mixed-content =
     .value = Ceangal páirtchriptithe
 

@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Teastas á íoslódáil
 download-cert-message = Iarrtar ort muinín a bheith agat as Údarás Deimhniúcháin nua.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = An bhfuil tú ag iarraidh muinín a chur i “{ $caName }” maidir leis na cuspóirí seo leanas?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Údarás Deimhniúcháin (gan ainm)
 download-cert-trust-ssl =
     .label = Tá muinín agat as an údarás deimhniúcháin seo chun suímh Ghréasáin a shainaithint.
 download-cert-trust-email =
@@ -76,6 +81,7 @@ set-password-reminder = Tábhachtach: má dhéanann tú dearmad ar an bhfocal fa
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Cuir isteach an focal faire a d'úsáid tú chun an cúlra teastais seo a chriptiú:
 
 ## Protected authentication dialog
 
