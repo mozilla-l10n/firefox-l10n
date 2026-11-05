@@ -103,6 +103,7 @@ set-password-reminder = Vigtigt: Hvis du glemmer din adgangskode, vil du ikke ku
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Indtast den adgangskode, der blev brugt til at kryptere denne certifikat-backup:
 
 ## Protected authentication dialog
 
