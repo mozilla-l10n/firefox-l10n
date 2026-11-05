@@ -51,7 +51,7 @@ whypaused-breakpoint-condition-thrown = Flater mei kondisjoneel brekpunt
 whypaused-xhr = Pauzearre op XMLHttpRequest
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
-whypaused-promise-rejection = Pauzearre by taseine ôfwizing
+whypaused-promise-rejection = Pauzearre by promise-ôfwizing
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-get-watchpoint = Pauzearre op property-tagong

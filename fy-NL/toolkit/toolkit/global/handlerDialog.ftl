@@ -59,12 +59,12 @@ permission-dialog-set-change-app-link = Kies in oare tapassing.
 ##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
-    .title = Tapassing kieze
     .style = min-width: 26em; min-height: 26em;
+    .title = Tapassing kieze
 chooser-dialog =
     .buttonlabelaccept = Keppeling iepenje
     .buttonaccesskeyaccept = i
-chooser-dialog-description = Kies in tapassing om de { $scheme }-mei te iepenjen.
+chooser-dialog-description = Kies in tapassing om de { $scheme }-keppeling mei te iepenjen.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Dizze tapassing altyd brûke om <strong>{ $scheme }</strong>-keppelingen mei te iepenjen
 chooser-dialog-remember-extra =
@@ -85,8 +85,8 @@ choose-dialog-privatebrowsing-disabled = Utskeakele yn priveefinsters
 ## web mail service (or the OS default app) should handle email links.
 
 mailto-handler-picker-window =
-    .title = Kies jo e-mailapp
     .style = min-width: 26em; min-height: 26em;
+    .title = Kies jo e-mailapp
 mailto-handler-picker-subtitle = Kies de app dy’t jo brûke wolle foar e-mailkeppelingen. Jo kinne dit letter wizigje yn Ynstellingen.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.

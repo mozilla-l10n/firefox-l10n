@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } Avāriju ziņotājs
+crashreporter-apology = Atvainojiet
+crashreporter-crashed-and-restore = { -brand-short-name } radās problēma un avarēja. Mēs mēģināsim atjaunot jūsu cilnes un logus, kad tas tiks restartēts.
 crashreporter-plea = Lai palīdzētu noteikt cēloni un salabot šo problēmu, varat nosūtīt mums avārijas ziņojumu.
+crashreporter-information = Šī lietojumprogramma tiek palaista pēc avārijas, lai ziņotu par problēmu pakalpojumam { -vendor-short-name }. To nedrīkst palaist tieši.
+crashreporter-error = { -brand-short-name } radās problēma un avarēja. Diemžēl avārijas ziņotājs nevar iesniegt ziņojumu par šo avāriju.
 crashreporter-no-run-message = Šī programma tiek palaista pēc avārijas, lai paziņotu par šo problēmu lietotnes izstrādātājam. To nevajadzētu palaist pašrocīgi.
 crashreporter-button-details = Sīkāka informācija...
 crashreporter-view-report-title = Ziņojuma saturs

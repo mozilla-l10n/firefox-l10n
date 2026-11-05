@@ -73,7 +73,7 @@ about-glean-label-for-ping-names =
     de <code>metrics</code>-ping.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
-    (Opsjoneel. Kontrolearje it foargeande fjild as jo wolle dat pings ek logd wurde as se yntsjinne wurde.
+    (Opsjoneel. Fink it hjirfoar steande fekje oan as jo wolle dat pings ek logge wurde as se yntsjinne wurde.
     Jo moatte hjirnjonken <a data-l10n-name="enable-logging-link">logging ynskeakelje</a>.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"

@@ -70,7 +70,7 @@ about-networking-ssl-tokens-expired =
 # $decompressedLength (Number) - Total size in bytes before compression
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
-    .title = Tokens: { $tokenLength } B. Fersifere: { $decompressedLength } → { $compressedLength } B.
+    .title = Tokens: { $tokenLength } B. Kodearre: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = EV-sertifikaat
 about-networking-ssl-tokens-ct-status = Status fan sertifikaattransparânsje
 about-networking-ssl-tokens-overridable-error = Oerskriuwbere flaterkategory

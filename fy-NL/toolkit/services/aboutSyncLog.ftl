@@ -38,7 +38,7 @@ about-sync-log-refresh-button =
 about-sync-log-download-button =
     .label = Sichtbere lochboeken downloade (.zip)
 about-sync-log-clear-button =
-    .label = Lochboek wiskje
+    .label = Lochboeken wiskje
 
 ## Log list
 

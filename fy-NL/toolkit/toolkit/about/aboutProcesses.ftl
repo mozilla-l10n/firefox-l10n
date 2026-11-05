@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Search
 
 about-processes-shutdown-process =
-    .title = Ljepblêden leechmeitsje en proses beëinigje
+    .title = Ljepblêden ûntlade en proses beëinigje
 about-processes-kill-process =
     .title = Proses beëinigje
 about-processes-shutdown-tab =
