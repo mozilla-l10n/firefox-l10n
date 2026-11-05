@@ -7,6 +7,30 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Участника id не удалось разрешить в действительный URL-адрес.
+dom-manifest-id-not-same-origin = Источник участника id должен совпадать с источником участника start_url.
+dom-manifest-should-be-object = Манифест должен быть объектом.
+dom-manifest-scope-url-invalid = URL диапазона недействителен.
+dom-manifest-scope-not-same-origin = Источник URL диапазона должен совпадать с источником документа.
+dom-manifest-start-url-outside-scope = Начальный URL лежит вне диапазона, поэтому диапазон является недействительным.
+dom-manifest-start-url-invalid = Начальный URL недействителен.
+dom-manifest-start-url-should-be-same-origin = Источник начального URL должен совпадать с источником документа.
+# Variables:
+#   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
+#   $property (String) - The name of the invalid property, e.g. "start_url".
+#   $expectedType (String) - The expected type of the property value, e.g. "string".
+# Example: "Expected the manifest’s start_url member to be a string."
+dom-manifest-invalid-type = Ожидалось, что свойство { $property } в { $objectName } будет иметь тип { $expectedType }.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
+#   $value (String) - The invalid value of the property.
+# Example: "theme_color: 42 is not a valid CSS color."
+dom-manifest-invalid-css-color = { $property }: { $value } не является корректным цветом CSS.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "lang".
+#   $value (String) - The invalid value of the property.
+# Example: "lang: 42 is not a valid language code."
+dom-manifest-lang-is-invalid = { $property }: { $value } не является корректным языковым кодом.
 # Variables:
 #   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
 #   $index (Number) - The index of the image object that is invalid, starting from 0.
