@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Изтегляне на сертификат
 download-cert-message = Поискано е да се доверите на нов удостоверител на сертификати (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Искате ли „{ $caName }“ да е доверен за следните цели?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Сертификатен удостоверител (неименуван CA)
 download-cert-trust-ssl =
     .label = Доверяване на този CA за идентифициране на страници.
 download-cert-trust-email =
