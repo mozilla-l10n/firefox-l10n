@@ -12,6 +12,8 @@ change-password-token = सुरक्षा यन्त्र: { $tokenName }
 change-password-old = हालको गोप्यशब्द:
 change-password-new = नयाँ गोप्यशब्द:
 change-password-reenter = नयाँ गोप्यशब्द(पुनः):
+change-password-not-set =
+    .value = (सेट नगरिएको)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = प्रमाणपत्र डाउनलोड गरिँदै
 download-cert-message = तपाईँलाई एउटा नयाँ प्रमाणपत्र अधिकारी (CA) लाई विश्वास गर्न भनिएको छ।
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = के तपाईँ यी उद्देश्यहरूका लागि { $caName } लाई विश्वास गर्न चाहनुहुन्छ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = प्रमाणपत्र अधिकारी (नाम नभएको)
 download-cert-trust-ssl =
     .label = Trust this CA to identify web sites.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र जगेडा गोप्यशब्द(पुनः):
 set-password-reminder = महत्वपूर्ण: तपाईँले आफ्नो प्रमाणपत्रको जगेडा गोप्यशब्द बिर्सनुभयो भने, तपाईँले यो जगेडालाई पछि पुनः भण्डारण गर्न सक्नुहुन्न। कृपया यसलाई सुरक्षित स्थानमा रेकर्ड गर्नुहोस्।
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = कृपया यो प्रमाणपत्र जगेडालाई गोप्य राख्न प्रयोग गरिएको गोप्यशब्द प्रविष्ट गर्नुहोस्।
+
+## Protected authentication dialog
+
