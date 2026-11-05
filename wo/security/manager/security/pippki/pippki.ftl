@@ -10,8 +10,25 @@ password-quality-meter = Nataayu baaxaayu caabi baat bi
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wër ndombo kaarange: { $tokenName }
 change-password-old = Caabi baat bi teew:
+change-password-not-set =
+    .value = (kenn tekki wu ko)
+
+## Reset Primary Password dialog
+
 
 ## Downloading cert dialog
 
 download-cert-view-cert =
     .label = Wone bi
+
+## Client Authentication Ask dialog
+
+
+## Set password (p12) dialog
+
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
