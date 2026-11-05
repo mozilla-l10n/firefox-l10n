@@ -39,6 +39,8 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Descargando certificado
 download-cert-message = Se le ha pedido que confíe en una nueva Autoridad Certificadora (CA).
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoridad certificadora (sin nombre)
 download-cert-trust-ssl =
     .label = Confiar en esta CA para identificar sitios web.
 download-cert-trust-email =
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contraseña de respaldo del certificado (confirmar):
 set-password-reminder = Importante: si olvida la contraseña de respaldo de su certificado, no podrá restaurar esta copia de respaldo más tarde. Guárdela en un lugar seguro.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
