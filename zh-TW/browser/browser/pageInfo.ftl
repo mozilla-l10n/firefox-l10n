@@ -110,6 +110,11 @@ security-view-technical =
     .value = 技術細節
 help-button =
     .label = 說明
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = 網站 { $website } 不支援您正在瀏覽的網頁的加密方式。
+security-technical-no-encryption-transit = 未加密就送至網路的資訊可能會在傳輸途中被其它人看到。
+security-technical-no-encryption-page = 您正在檢視的頁面傳輸資料到網路前並未加密。
 security-technical-encrypted-page = 您正在瀏覽的網頁在傳送前有經過加密。
 security-technical-encrypted-description = 加密功能會讓未授權的使用者很難偷聽兩台電腦間傳輸的資訊，所以此頁面在網路上傳輸時很難會有人看到內容。
 security-technical-mixed-content-description = 您正瀏覽的頁面有一部份在網路上傳送時未加密。
@@ -129,6 +134,8 @@ security-site-data-no = 無
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = 連線未加密
 security-technical-mixed-content =
     .value = 部份連線加密
 

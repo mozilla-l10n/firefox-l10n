@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = 下載憑證
 download-cert-message = 您被要求信任一個新憑證機構 (CA)。
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = 您要信任「{ $caName }」用於下列用途嗎？
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = 憑證機構（未命名）
 download-cert-trust-ssl =
     .label = 信任此憑證機構以識別網站。
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = 重要: 如果您忘了憑證備份密碼，將會無法
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = 請輸入用來加密此憑證備份的密碼。
 
 ## Protected authentication dialog
 
