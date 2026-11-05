@@ -98,6 +98,10 @@ security-view-technical =
     .value = तकनीकी विवरण
 help-button =
     .label = मदति
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = वेब साइट { $website } अहाँक द्वारा देखल जाए रहल पृष्ठ कलेल गोपनक समर्थन नहि करैत अछि.
+security-technical-no-encryption-transit = बिनु गोपनक इंटरनेट पर भेजल गेल सूचनाकेँ आन लोकनिसभक द्वारा परिवहनक क्रम मे देखल जाए सकैत अछि.
 security-technical-encrypted-page = अहाँक द्वारा देखल जाए रहल पृष्ठ गोपित छला जखन इंटरनेट पर भेजल जाए रहल छल.
 security-technical-encrypted-description = गोपन अनधिकृत लोकनिक लेल कंप्यूटरक बीच सूचनाक परिवहनक दौरान सूचनाकेँ देखब केँ कठिन बनाबैत अछि. एहिलेल ई लगभग संभव नहि अछि जे कोनो एकरा सँजाल पर परिवहनक दौरान पढ़ि लेत.
 security-technical-mixed-content-description = इंटरनेट पर भेजल जाएबाक पहिने अहाँक द्वारा देखल जाए रहल पन्नाक किछु हिस्सा गोपित नहि छल.
@@ -112,6 +116,8 @@ security-technical-weak-cipher = अहाँक कनेक्शन ई व�
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = कनेक्शन गोपित नहि अछि
 security-technical-mixed-content =
     .value = कनेक्शन अंशतः गोपित
 
