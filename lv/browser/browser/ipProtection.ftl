@@ -194,7 +194,7 @@ ipprotection-recommended-location-description = { -brand-product-name } atrod ā
 ipprotection-recommended-location-badge = Jauns
 # Variables
 #   $country (string) - The country selected for the VPN server location
-ipprotection-location-country-button = Atrašanās vieta: { $valsts }
+ipprotection-location-country-button = Atrašanās vieta: { $country }
 ipprotection-locations-subview =
     .title = Izvēlieties vietu
 ipprotection-locations-subview-description = Izvēlieties citu atrašanās vietu, no kuras pārlūkot.

@@ -203,6 +203,11 @@ menu-bookmarks-menu =
     .accesskey = Ə
 menu-bookmarks-manage =
     .label = Əlfəcinləri İdarə Et
+menu-bookmarks-remote-tabs-promo =
+    .label = Əlfəcinləri mobilə sinxronizə et
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Əlfəcinlərdə axtar
 menu-bookmarks-all-tabs =
     .label = Bütün vərəqləri əlfəcinlə…
 menu-bookmarks-toolbar =

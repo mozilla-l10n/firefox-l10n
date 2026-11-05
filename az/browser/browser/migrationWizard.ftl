@@ -20,7 +20,10 @@ migration-imported-edge-reading-list = Oxuma siyahısı (Edge-dən)
 
 ##
 
+migration-bookmarks-option-label = Əlfəcinlər
 migration-extensions-option-label = Uzantılar
+migration-bookmarks-from-file = Əlfəcinlər
+migration-bookmarks-from-file-success-header = Əlfəcinlər uğurla idxal edildi
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
