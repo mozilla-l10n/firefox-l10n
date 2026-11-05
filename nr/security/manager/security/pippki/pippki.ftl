@@ -12,6 +12,8 @@ change-password-token = Isisetjenziswa Sevikelo: { $tokenName }
 change-password-old = Inomboro yokungena yanje:
 change-password-new = Inomboro yokungena etja:
 change-password-reenter = Inomboro yokungena etja (godu):
+change-password-not-set =
+    .value = (akukahlelwa)
 
 ## Reset Primary Password dialog
 

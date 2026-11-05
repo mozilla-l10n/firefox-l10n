@@ -48,6 +48,7 @@ media-save-as =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = Iweb site { $website } ayisekeli ukufihleka mayelana nekhasi olibonako.
+security-technical-no-encryption-transit = Imininingwane ethunyelwe nge-Internet ngaphandle kokufihlwa ingabonwa ngabanye abantu lokha isendleleni.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -60,6 +61,8 @@ security-technical-no-encryption-website = Iweb site { $website } ayisekeli ukuf
 
 security-technical-no-encryption =
     .value = Ihlangano ayikafihlakali
+security-technical-mixed-content =
+    .value = Connection Partially Encrypted
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
