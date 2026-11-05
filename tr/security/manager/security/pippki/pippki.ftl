@@ -103,6 +103,7 @@ set-password-reminder = Önemli: Sertifika yedek parolanızı unutursanız bu ye
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Lütfen bu sertifika yedeğini şifrelemek için kullanılan parolayı girin:
 
 ## Protected authentication dialog
 
