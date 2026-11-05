@@ -14,6 +14,8 @@ change-password-token = Dyfais Diogelwch: { $tokenName }
 change-password-old = Cyfrinair cyfredol:
 change-password-new = Cyfrinair newydd:
 change-password-reenter = Y cyfrinair newydd (eto):
+change-password-not-set =
+    .value = (heb ei osod)
 pippki-failed-pw-change = Methu newid cyfrinair.
 pippki-incorrect-pw = Wedi rhoi cyfrinair anghywir. Ceisiwch eto.
 pippki-pw-change-ok = Mae'r cyfrinair wedi ei newid yn llwyddiannus.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Cyfrinair y dystysgrif wrth gefn (eto):
 set-password-reminder = Pwysig: Os byddwch yn anghofio eich cyfrinair diogelwch cludadwy, ni fydd modd i chi adfer y ffeil wrth gefn yma eto.  Cofnodwch hwn mewn man diogel.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

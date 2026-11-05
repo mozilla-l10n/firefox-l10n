@@ -110,6 +110,11 @@ security-view-technical =
     .value = Manylion Technegol
 help-button =
     .label = Cymorth
+security-technical-encrypted-page = Roedd y dudalen rydych yn ei darllen wedi ei hamgryptio cyn cael ei gyrru ar draws y Rhyngrwyd.
+security-technical-encrypted-description = Mae amgryptio yn ei gwneud hi'n anodd iawn i bobl sydd heb eu hawdurdodi i ddarllen gwybodaeth sy'n teithio rhwng cyfrifiaduron. Mae felly'n annhebygol iawn bod unrhyw un wedi darllen y dudalen hon wrth iddi deithio ar draws y rhwydwaith.
+security-technical-mixed-content-description = Nid oedd rhannau o'r dudalen wedi eu hamgryptio cyn eu hanfon dros y Rhyngrwyd.
+security-technical-weak-cipher = Gall bobl eraill weld eich gwybodaeth neu newid ymddygiad y wefan. Gall bobl eraill weld eich gwybodaeth neu newid ymddygiad y wefan.
+security-technical-ct-compliant = Mae'r wefan hon yn cyd-fynd â'r dystysgrif Polisi Tryloyw.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Ydy, cwcis a { $value } { $unit } o ddata gwefan
 security-site-data-only = Ydy, { $value } { $unit } o ddata gwefan
 security-site-data-cookies-only = Ydy, cwcis
 security-site-data-no = Na
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Cysylltiad wedi ei Amgryptio'n Rhannol
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Mae'r Cysylltiad wedi ei Amgryptio ({ $algorithm }, allweddi did { $keySize }, { $protocol })
+security-technical-broken-encryption =
+    .value = Amgryptio wedi Torri (allweddi did { $algorithm }, { $keySize }, { $protocol })
 
 ##
 
