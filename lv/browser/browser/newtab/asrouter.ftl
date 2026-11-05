@@ -280,6 +280,11 @@ launch-on-login-autostart-infobar-turn-off-button = Izslēgt
 launch-on-login-spotlight-title = Vai atvērt { -brand-short-name } nākamajā reizē, kad dators tiek startēts?
 launch-on-login-spotlight-startup-checkbox = Palaist { -brand-short-name } startēšanas laikā
 launch-on-login-spotlight-pin-taskbar-checkbox = Piespraust uzdevumjoslai
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Atvērt iepriekšējos logus un cilnes
+launch-on-login-spotlight-primary-button = Saglabāt un aizvērt { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
@@ -291,6 +296,12 @@ tail-fox-spotlight-title = Neļaujiet kaitinošajiem izsekotājiem sēdēt jums 
 tail-fox-spotlight-subtitle = Sakiet ardievas kaitinošajiem reklāmu izsekotājiem un izbaudiet drošāku un ātrāku internetu.
 tail-fox-spotlight-primary-button = Atvērt manas saites ar { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ne tagad
+
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Atgriezieties pie iebūvētās privātuma aizsardzības
+welcome-back-spotlight-subtitle = Laipni lūdzam atpakaļ vienīgajā lielajā pārlūkprogrammā, ko atbalsta bezpeļņas organizācija. Mēs veicam papildu pasākumus, lai aizsargātu jūsu datus neatkarīgi no jūsu atrašanās vietas.
+welcome-back-embedded-import-title = Importējiet savus datus un padariet { -brand-short-name } par mājām
 
 ## Root Certificate Succession Windows Background Notification
 
