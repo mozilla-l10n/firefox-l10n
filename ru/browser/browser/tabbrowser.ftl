@@ -37,6 +37,11 @@ tab-splitview-splitter =
     .aria-label = Изменить размер вкладок в разделении экрана
 tab-devtools-splitter =
     .aria-label = Изменить размер панели Инструменты разработчика
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Добавить вкладки в группу
+    .accesskey = П
 
 ## Tooltips for tab audio control
 ## Variables:

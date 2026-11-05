@@ -39,6 +39,54 @@ download-ui-cancel-downloads-ok =
         [1] Отменить загрузку
        *[other] Отменить несколько ({ $downloadsCount }) загрузок
     }
+download-ui-confirm-cancel-button = Отмена
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Остановить 1 загрузку и выйти из { -brand-short-name }?
+                [one] Остановить { $downloadsCount } загрузку и выйти из { -brand-short-name }?
+                [few] Остановить { $downloadsCount } загрузки и выйти из { -brand-short-name }?
+               *[many] Остановить { $downloadsCount } загрузок и выйти из { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Остановить 1 загрузку и выйти из { -brand-short-name }?
+                [one] Остановить { $downloadsCount } загрузку и завершить работу { -brand-short-name }?
+                [few] Остановить { $downloadsCount } загрузки и завершить работу { -brand-short-name }?
+               *[many] Остановить { $downloadsCount } загрузок и завершить работу { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } попытается возобновить загрузки при открытии, но прогресс может быть утерян.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Выйти из { -brand-short-name }
+       *[other] Выйти из { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Остановить 1 загрузку и перейти в автономный режим?
+        [one] Остановить { $downloadsCount } загрузку и перейти в автономный режим?
+        [few] Остановить { $downloadsCount } загрузки и перейти в автономный режим?
+       *[many] Остановить { $downloadsCount } загрузок и перейти в автономный режим?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } попытается возобновить загрузку, когда вы вернётесь онлайн, но прогресс может быть утерян.
+download-ui-confirm-offline-button = Перейти в автономный режим
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Остановить 1 загрузку и закрыть это приватное окно?
+        [one] Остановить { $downloadsCount } загрузку и закрыть это приватное окно?
+        [few] Остановить { $downloadsCount } загрузки и закрыть это приватное окно?
+       *[many] Остановить { $downloadsCount } загрузок и закрыть это приватное окно?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Вы не сможете возобновить эту загрузку.
+        [one] Вы не сможете возобновить эту загрузку.
+        [few] Вы не сможете возобновить эти загрузки.
+       *[many] Вы не сможете возобновить эти загрузки.
+    }
+download-ui-confirm-private-browsing-button = Закрыть окно
 
 ##
 

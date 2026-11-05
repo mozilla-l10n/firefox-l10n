@@ -657,3 +657,15 @@ hnt-card-mobile-header = Получите на вашем телефоне вс�
 hnt-card-mobile-body = Загрузите { -brand-product-name } для мобильных устройств и получите дополнительную приватность в пути.
 hnt-card-mobile-primary-button = Скачать { -brand-product-name } для мобильных устройств.
 hnt-card-wallpaper-header = Выберите свежие обои
+hnt-card-wallpaper-body = Сделайте этот экран своим, как дома, с любимым фоном.
+hnt-card-wallpaper-primary-button = Начать настройку
+hnt-card-taskbar-tabs-header = Добавьте свои любимые сайты на панель задач Windows
+hnt-card-taskbar-tabs-body = Открывайте наиболее посещаемые сайты как приложения со всеми защитами { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Добавить сайты на панель задач
+hnt-card-extensions-header = Улучшите работу { -brand-short-name } с помощью расширений
+hnt-card-extensions-body = Настройте свой веб-сёрфинг с помощью наших самых любимых расширений.
+hnt-card-extensions-primary-button = Обзор
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Всё готово. Займитесь тем, что вам нравится.
+hnt-card-last-card-header-end = Защита от отслеживания включена.

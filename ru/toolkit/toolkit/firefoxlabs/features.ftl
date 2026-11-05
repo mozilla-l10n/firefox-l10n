@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Примечания для вкл
 experimental-features-tab-context-menu =
     .label = Оптимизированное меню вкладок
 experimental-features-tab-context-menu-description = При щелчке правой кнопкой мыши по вкладке отображается более простое контекстное меню. Оно помогает быстрее находить часто используемые действия. <a data-l10n-name="connect">Поделитесь отзывом</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Монитор ресурсов
+experimental-features-resource-monitor-description = Смотрите примерное использование памяти и процессора открытыми вкладками прямо в боковой панели и выгружайте неиспользуемые вкладки, чтобы освободить ресурсы. <a data-l10n-name="connect">Поделитесь отзывом</a>
