@@ -102,6 +102,10 @@ security-view-technical =
     .value = សេចក្តី​​លម្អិត​អំពី​​បច្ចេកទេស
 help-button =
     .label = ជំនួយ
+security-technical-encrypted-page = ទំព័រ​ដែល​អ្នក​កំពុង​មើល​ត្រូវ​បាន​អ៊ិនគ្រីប​ មុន​ពេល​បញ្ជូន​តាម​អ៊ីនធឺណិត ។
+security-technical-encrypted-description = ការ​ដាក់​លេខ​កូដ​ធ្វើឲ្យ​មាន​ការ​លំបាក​ដល់​អ្នក ដែល​មិន​មាន​សិទ្ធិ​ក្នុង​ការ​មើល​ព័ត៌មាន​ឆ្លងកាត់​រវាង​កុំព្យូទ័រ​នីមួយៗ។ ដូច្នេះ​វា​ប្រាកដ​ណាស់​ថា នឹង​មិន​មាន​អ្នកណា​ម្នាក់​បាន​អាន​ទំព័រ​នេះ​ឡើយ នៅ​ពេល​វា​ធ្វើ​ដំណើរ​ឆ្លងកាត់​បណ្ដាញ​។
+security-technical-mixed-content-description = ភាគច្រើន​នៃ​ទំព័រ​ដែល​អ្នក​កំពុង​មើល​ មិន​ទាន់​ត្រូវ​បាន​អ៊ិនគ្រីប​ទេ មុននឹង​បញ្ជូន​តាម​អ៊ីនធឺណិត ។
+security-technical-weak-cipher = ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​វេបសាយ​នេះ​​ប្រើ​​ការ​បម្លែង​កូដ​ខ្សោយ និង​មិន​មែ​ន​ជា​ឯកជន។ មនុស្ស​ផ្សេង​អាច​មើល​ព័ត៌មាន​របស់​អ្នក ឬ​កែប្រែ​អាកប្បកិរិយា​វេបសាយ​នេះ។
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +117,21 @@ security-site-data-cookies = បាទ/ចាស ខូឃីនិងទិន�
 security-site-data-only = បាទ/ចាស ទិន្នន័យគេហទំព័រ { $value } { $unit }
 security-site-data-cookies-only = បាទ/ចាស ខូឃី
 security-site-data-no = ទេ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = ការ​តភ្ជាប់​ត្រូវ​បាន​អ៊ិនគ្រីប​ដោយ​ផ្នែក
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = ការ​តភ្ជាប់​បាន​បម្លែង​ទៅ​ជា​កូដ ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = ការ​ដាក់​លេខ​កូដ​បាន​ខូច ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

@@ -14,6 +14,8 @@ change-password-token = ឧបករណ៍​សុវត្ថិភាព: { $
 change-password-old = ពាក្យ​សម្ងាត់​បច្ចុប្បន្ន ៖
 change-password-new = ពាក្យ​សម្ងាត់​ថ្មី ៖
 change-password-reenter = ពាក្យ​សម្ងាត់​ថ្មី (ម្តង​ទៀត) ៖
+change-password-not-set =
+    .value = (មិន​បាន​កំណត់)
 pippki-pw-change-ok = បានផ្លាស់ប្តូរពាក្យសម្ងាត់ដោយជោគជ័យ។
 
 ## Reset Primary Password dialog
@@ -58,3 +60,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ (ម្ដងទៀត)៖
 set-password-reminder = សំខាន់ ៖ ប្រសិនបើ​អ្នក​ភ្លេច​ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ​របស់​អ្នក អ្នក​នឹង​មិន​អាច​ស្ដារ​ឯកសារ​បម្រុង​ទុក​នេះ​នៅ​ពេល​ក្រោយ​បាន​ទេ ។  សូម​ចម្លង​វា​ទុក​នៅ​ក្នុង​ទីតាំង​សុវត្ថិភាព ។
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
