@@ -48,6 +48,7 @@ help-button =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = Urubuga makuru { $website } ntirwemera imisobekere ya paji urimo kureba.
+security-technical-no-encryption-transit = Amakuru yoherejwe kuri Interineti adasobetswe ashobora kurebwa n'abandi bantu mu gihe akiri mu nzira.
 security-technical-encrypted-page = Paji urimo kureba yasobetswe mbere yo koherezwa binyuze kuri Interineti.
 security-technical-mixed-content-description = Ibice bya paji urimo kureba byasobetswe mbere yuko byoherezwa kuri Interineti.
 
