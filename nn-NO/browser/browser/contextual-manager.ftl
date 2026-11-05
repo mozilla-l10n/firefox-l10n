@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importer frå ein ann
 contextual-manager-passwords-command-import = Importer frå ei fil…
 contextual-manager-passwords-command-export = Eksporter passord
 contextual-manager-passwords-command-remove-all = Slett alle passorda
+contextual-manager-passwords-command-delete-all = Slett alle passord
 contextual-manager-passwords-command-options = Innstillingar
 contextual-manager-passwords-command-help = Hjelp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Fjerne passordet?
        *[other] Fjerne alle { $total } passorda?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Slette { $total } passord?
+       *[other] Slette { $total } passord?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -116,6 +124,14 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Fjern
        *[other] Fjern alle
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Slett
+        [one] Slett alle
+       *[other] Slett alle
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -174,12 +190,16 @@ contextual-manager-passwords-radiobutton-all = Alle ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Varsel ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Fjerne passordet?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Slette passord?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Du kan ikkje angre dette.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Tilbake
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fjern
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Slett
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Avbryt
 contextual-manager-passwords-alert-card =
@@ -211,6 +231,9 @@ contextual-manager-passwords-update-label =
     .label = Oppdater passord
 contextual-manager-passwords-remove-label =
     .title = Fjern passord
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Slett passord
 contextual-manager-passwords-origin-field =
     .label = Nettstadadresse
     .placeholder = https://www.example.com

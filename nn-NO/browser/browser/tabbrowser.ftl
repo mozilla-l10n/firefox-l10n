@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Endre størrelse på delte visningsfaner
 tab-devtools-splitter =
     .aria-label = Resize Developer Tools panel
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Legg til faner i gruppe
+    .accesskey = L
 
 ## Tooltips for tab audio control
 ## Variables:

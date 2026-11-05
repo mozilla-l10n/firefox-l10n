@@ -95,9 +95,15 @@ move-to-start =
 move-to-end =
     .label = Flytt heilt til høgre
     .accesskey = h
+move-to-end-alt =
+    .label = Slutt
+    .accesskey = S
 move-to-new-window =
     .label = Flytt til eit nytt vindauge
     .accesskey = F
+move-to-new-window-alt =
+    .label = Nytt vindauge
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +118,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Lat att dupliserte faner
     .accesskey = a
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Dupliser faner
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Lat att duplikat av denne fana
     .accesskey = a
@@ -128,6 +138,8 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Ny gruppe
     .accesskey = N
+tab-context-add-tab-to-group-new-group =
+    .label = Ny gruppe
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

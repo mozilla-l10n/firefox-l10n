@@ -52,3 +52,30 @@ extension-nova-tide-name = Tidvatn
 extension-nova-ash-name = Oske
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = Røyk
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = Grå
+# Name for a blue theme.
+extension-classic-blue-name = Blå
+# Name for a cyan theme.
+extension-classic-cyan-name = Cyan
+# Name for a violet theme.
+extension-classic-violet-name = Fiolett
+# Name for a green theme.
+extension-classic-green-name = Grøn
+# Name for a purple theme.
+extension-classic-purple-name = Lilla
+# Name for a pink theme.
+extension-classic-pink-name = Rosa
+# Name for a yellow theme.
+extension-classic-yellow-name = Gul
+# Name for a red theme.
+extension-classic-red-name = Raud
+# Name for an orange theme.
+extension-classic-orange-name = Oransje
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = OLED-svart

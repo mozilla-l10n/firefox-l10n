@@ -1428,6 +1428,12 @@ newtab-widget-menu-move-left = Til venstre
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Til høgre
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Heim
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgetar
 newtab-widget-size-small = liten
 newtab-widget-size-medium = middels
 newtab-widget-size-large = Stor
