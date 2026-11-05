@@ -90,6 +90,9 @@ security-view-technical =
     .value = Kitekitên Teknîkî
 help-button =
     .label = Alîkarî
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Malpera { $website } ji bo rûpelên temaşe dikî desteka nasnavkirinê nade.
 security-technical-encrypted-page = Rûpela ku temaşe dikî, berî ku bê vexwendin, hatnasnavkirin.
 security-technical-mixed-content-description = Parçeya rûpela dibînî beriya li ser înternetê bê şandin nehatiye şîfrekirin.
 
@@ -102,6 +105,8 @@ security-technical-mixed-content-description = Parçeya rûpela dibînî beriya 
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Girêdan nayê binasnavkirin
 security-technical-mixed-content =
     .value = Girêdan Qismen Şîfrekirî ye
 

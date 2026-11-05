@@ -26,6 +26,11 @@ download-cert-window2 =
     .title = Sertîfîka tê jêbarkirin
     .style = min-width: 46em
 download-cert-message = Te Ewlekariya Rêvebira Sertîfîkayeke nû (CA) pirs kir.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Dixwazî jo bo van armancan li "{ $caName }" 'ê ewle bî?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Rayedarê Sertîfîkayê (bênav)
 download-cert-trust-ssl =
     .label = Ev CA ji bo diyarkirina malperan ewle ye.
 download-cert-trust-email =
