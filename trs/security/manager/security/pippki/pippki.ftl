@@ -12,6 +12,8 @@ change-password-token = Sa dugumîn sò': { $tokenName }
 change-password-old = Da’nga’ huì nikājt akuan’ nïn:
 change-password-new = Da'nga' huì nakàa:
 change-password-reenter = Da'nga' huìi (gachrun ñû):
+change-password-not-set =
+    .value = (nitāj si nunj)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = si naduninj ma sertifikado
 download-cert-message = Gachin ni'io' da' gida'aj si nuguan' 'ngò Dukuâ sun 'iaj sertifikando (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Hua ruhuât garasunt “{ $caName }” guendâ nej sa hua nan anj.
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sa natsij na (nitaj si yugui)
 download-cert-trust-ssl =
     .label = Ga'nin' da' ni CA nani'ìn da'ngà' daj hua sitio web.
 download-cert-trust-email =
@@ -71,3 +78,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Da'ngà' huìi guenda sertifikado na (gi'iaj hìo'):
 set-password-reminder = Sa ña'āanj: Si sā gini'ñunt si da'ngà' huì si sertifikadot nī si ga'ue nari' ñut'. Na'nïnj sa' hue'e.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Gi'iaj 'ngo sunnuj ni, gachrun da'nga' hùi garajsunt nga na'nin sà't si nuguàn' sertifikadô nan:
+
+## Protected authentication dialog
+
