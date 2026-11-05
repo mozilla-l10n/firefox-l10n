@@ -60,6 +60,36 @@ security-view-technical =
     .value = تكنیكی تفصیل
 help-button =
     .label = مدد
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = { $website } ویب سایٹ چھ نْہ تعاون کران اینکریپشن تتھ پیجس باپت یوس توہیہ ویو کران چھیو۔
+security-technical-no-encryption-transit = انفارمیشن یوس سوزنْہ یِیہ اِنٹرنیٹس پیٹھ اینکریپشن بغیر ہیکن وْچھیتھ باقی لوکھ ییلہ یہ ٹرانزیٹس منز آسِہ۔
+security-technical-encrypted-page = یہ پیج یوس توہیہ وْچھان چھیو اوس اینکریپٹہ کرنْہ ّمُت اِنٹرنیٹس پیٹھ ٹرانسمِٹ کرنْہ برونہہ۔
+security-technical-encrypted-description = اینکریپشن چُھ بناوان مُشکل ان آتھارایزْڈ نفرن باپت سو انفارمیشن ویو کرْنئ یوس دون کمپیوٹرن منز باگ پکان آسِہ۔ امہ موجوب چُھ تقریبن نامُمکن گشھان ذِ کانہہ پرِ یہ پیج ییلہ یہ نیٹوْرکس پیٹھ پکان آسِہ۔
+
+## These strings are used to tell the user if the website is storing cookies
+## and data on the users computer in the security tab of pageInfo
+## Variables:
+##   $value (number) - Amount of data being stored
+##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = كنیكشن چھئنئ  ان كرپٹیڈ
+security-technical-mixed-content =
+    .value = كنیكشن چھئ پارشلی اینكریپٹ آمُت كرنئ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = کنیکشن چُھ اینکریپٹیڈ ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = بروکْن اینکریپشن ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

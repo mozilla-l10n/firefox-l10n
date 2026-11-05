@@ -12,6 +12,8 @@ change-password-token = حفئظتی عالئ: { $tokenName }
 change-password-old = حالیئ خفیئ لفظ:
 change-password-new = نئو ئ خفیہ لفظ
 change-password-reenter = نئو ئ خفیہ لفظ(دوبارہ)
+change-password-not-set =
+    .value = (چھئ نئ سیٹ)
 
 ## Reset Primary Password dialog
 
@@ -24,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = سرٹیفکیٹ  ڈاونلوڈ كران
 download-cert-message = تہئ چھُوئ وننئ آمُت زئ تہئ كریو نئوئ سرٹئفیكیٹ ایتھورٹی  (CA)پیٹھ بروسئ
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = تہئ چھئوئ یژھان  "{ $caName }" پیٹھ بروسئ كروْن یمئن مقصدن خٲطرو؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = سرٹیفیکیٹ ایتھارٹی (ناوئ روْستی)
 download-cert-trust-ssl =
     .label = یتھ CA پیٹھ كریو بروسئ ویب سایٹس پرزناونئ خٲطرئ.
 download-cert-trust-email =
@@ -48,3 +55,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = سرٹئفیكیٹ بیك اپ خوفیا لفظ ( دوبارئ)
 set-password-reminder = ضروری:  اگر توہیہ مشید گژھ تُہند سرٹیفیکیٹ بیک اپ پاوس وأرڈ،توہیہ ہیکیو نْہ پتْہ یہ بیک اپ ریسٹور کْرتھ۔ مہربأنی کْرتھ کْریو یہ ریکارڈ أکس محفوظ جایہ منز۔
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = مہربأنی کْرتھ کْریو اینٹر سو پاس وأرڈ یوس استعمال کرنْہ آمُت اوس  اینکریپٹہ کرنْہ باپت یہ سرتیفیکیٹ بیک اپ:
+
+## Protected authentication dialog
+
