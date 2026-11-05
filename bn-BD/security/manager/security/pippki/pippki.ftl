@@ -12,6 +12,8 @@ change-password-token = নিরাপত্তা ডিভাইস: { $token
 change-password-old = বর্তমান পাসওয়ার্ড:
 change-password-new = নতুন পাসওয়ার্ড:
 change-password-reenter = নতুন পাসওয়ার্ড (পুনরায় লিখুন):
+change-password-not-set =
+    .value = (নির্ধারিত হয়নি)
 
 ## Reset Primary Password dialog
 

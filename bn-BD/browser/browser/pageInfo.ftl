@@ -109,6 +109,7 @@ security-technical-encrypted-page = ইন্টারনেটের মাধ�
 security-technical-encrypted-description = এনক্রিপশন ব্যবহারের ফলে বিভিন্ন কম্পিউটারের মধ্যে বিনিময় হওয়া তথ্য কোনো তৃতীয় ব্যক্তির দ্বারা অন্যায্যভাবে পাঠ করা কঠিন। এই কারণে নেটওয়ার্কে যাত্রাকালে সম্ভবত এই পাতাটি কারও দ্বারা পড়া হয়নি
 security-technical-mixed-content-description = ইন্টারনেটের মাধ্যমে প্রেরণ করার পূর্বে, প্রদর্শিত পাতার কিছু অংশবিশেষ এনক্রিপ্ট করা হয়নি।
 security-technical-weak-cipher = এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার এবং ব্যক্তিগত নয়. অন্য মানুষ আপনার তথ্য দেখতে বা ওয়েবসাইট এর আচরণ পরিবর্তন করতে পারেন।
+security-technical-ct-compliant = ওয়েবসাইটটি স্বচ্ছতা নীতি অনুসরণ করে।
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
