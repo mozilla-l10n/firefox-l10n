@@ -14,6 +14,8 @@ change-password-token = Adatvédelmi eszköz: { $tokenName }
 change-password-old = Jelenlegi jelszó:
 change-password-new = Új jelszó:
 change-password-reenter = Új jelszó (ismét):
+change-password-not-set =
+    .value = (nincs beállítva)
 pippki-failed-pw-change = Nem sikerült megváltoztatni a jelszót.
 pippki-incorrect-pw = Nem helyesen adta meg a jelenlegi jelszót. Próbálja újra.
 pippki-pw-change-ok = A jelszó megváltoztatása sikeres.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Jelszó (ismét):
 set-password-reminder = Fontos: Ha elfelejti a tanúsítványokról készült biztonsági mentéshez használt jelszót, nem fogja tudni visszaállítani a tanúsítványokat a mentésből.  Írja fel biztonságos helyre.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
