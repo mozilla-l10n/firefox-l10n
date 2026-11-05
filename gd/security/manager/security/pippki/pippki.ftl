@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = A' luchdadh a-nuas teisteanas
 download-cert-message = Chaidh iarraidh ort earbsa a chur ann an ùghdarras teisteanachaidh (ÙT) ùr.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = A bheil thu airson earbsa a chur ann an "{ $caName }" a chum na leanas?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Ùghdarras teisteanachaidh (gun ainm)
 download-cert-trust-ssl =
     .label = Cuir earbsa san ùghdarras teisteanachaidh seo gus làraichean-lìn aithneachadh.
 download-cert-trust-email =
@@ -91,6 +96,7 @@ set-password-reminder = Cudromach: ma dhìochuimhnicheas tu facal-faire lethbhre
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Cuir a-steach am facal-faire a chleachd thu gus lethbhreac-glèidhidh an teisteanais seo a chrioptachadh:
 
 ## Protected authentication dialog
 

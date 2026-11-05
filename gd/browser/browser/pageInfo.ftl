@@ -107,6 +107,11 @@ security-view-technical =
     .value = Mion-fhiosrachadh teicnigeach
 help-button =
     .label = Cobhair
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Chan eil an làrach-lìn { $website } a' cur taic ri crioptachadh na duilleige a tha thu a' coimhead air.
+security-technical-no-encryption-transit = 'S urrainn do dhaoine eile fiosrachadh gun chrioptachadh a chuireas tu a-null air an lìon fhaicinn 's e a' trasnadh an lìn.
+security-technical-no-encryption-page = Cha deach an duilleag a tha thu a’ coimhead air a chrioptachadh mus deach a chur a-nall thairis air an lìon.
 security-technical-encrypted-page = Chaidh an duilleag a tha thu a' coimhead air a chrioptachadh mus deach a chur a-nall thairis air an lìon.
 security-technical-encrypted-description = Bidh e doirbh do dhaoine gun ùghdarras fiosrachadh a tha a' siubhal eadar coimpiutairean fhaicinn ma chaidh a chrioptachadh. Mar sin, chan eil coltas gun leugh duine sam bith an duilleag seo 's e a' siubhal an lìonraidh.
 security-technical-mixed-content-description = Cha deach cuid dhen duilleag a tha thu a' coimhead air a chrioptachadh mus deach a chur a-nall thairis air an lìon.
@@ -126,6 +131,8 @@ security-site-data-no = Chan eil
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Chan eil an ceangal air a chrioptachadh
 security-technical-mixed-content =
     .value = Ceangal air a chrioptachadh gu ìre
 
