@@ -14,6 +14,8 @@ change-password-token = Sigurnosni uređaj: { $tokenName }
 change-password-old = Trenutna lozinka:
 change-password-new = Nova lozinka:
 change-password-reenter = Nova lozinka (ponovo):
+change-password-not-set =
+    .value = (nije postavljeno)
 pippki-failed-pw-change = Nije moguće promijeniti lozinku.
 pippki-incorrect-pw = Niste unijeli ispravnu trenutnu lozinku. Molimo pokušajte ponovo.
 pippki-pw-change-ok = Lozinka je uspješno promijenjena.
@@ -98,3 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lozinka backupa certifikata (opet):
 set-password-reminder = Važno: Ukoliko zaboravite lozinku backupa certifikata, kasnije istu nećete moći povratiti.  Molimo da lozinku spremite na sigurno mjesto.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
