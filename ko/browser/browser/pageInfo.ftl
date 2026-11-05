@@ -110,6 +110,11 @@ security-view-technical =
     .value = 기술적 세부 사항
 help-button =
     .label = 도움말
+security-technical-encrypted-page = 현재 보고 계신 페이지는 인터넷을 통해 전송되기 전에 암호화되었습니다.
+security-technical-encrypted-description = 암호화는 컴퓨터 간에 이동하는 정보를 권한이 없는 사람이 보기 힘들게 합니다. 그렇기 때문에 이 페이지가 전송될 때 누군가 읽었을 가능성은 낮습니다.
+security-technical-mixed-content-description = 보고있는 페이지의 일부가 인터넷에 전송되기 전에 암호화되지 않았습니다.
+security-technical-weak-cipher = 이 웹 사이트에 대한 연결은 약한 암호화를 사용하며 비공개가 아닙니다. 다른 사람들이 정보를 보거나 웹 사이트의 동작을 변형할 수 있습니다.
+security-technical-ct-compliant = 이 웹 사이트는 인증서 투명도 정책을 준수합니다.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = 예, 쿠키와 { $value } { $unit }의 사이트 �
 security-site-data-only = 예, { $value } { $unit } 사이트 데이터
 security-site-data-cookies-only = 예, 쿠키
 security-site-data-no = 아니요
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = 일부분만 암호화된 연결
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = 암호화된 연결 ({ $algorithm }, { $keySize } 비트 키, { $protocol })
+security-technical-broken-encryption =
+    .value = 깨진 암호화 ({ $algorithm }, { $keySize } 비트 키, { $protocol })
 
 ##
 

@@ -14,6 +14,8 @@ change-password-token = 보안 장치: { $tokenName }
 change-password-old = 현재 비밀번호:
 change-password-new = 새 비밀번호:
 change-password-reenter = 새 비밀번호(재입력):
+change-password-not-set =
+    .value = (설정 안 됨)
 pippki-failed-pw-change = 비밀번호를 변경할 수 없습니다.
 pippki-incorrect-pw = 현재 비밀번호를 올바르게 입력하지 않았습니다. 다시 시도하세요.
 pippki-pw-change-ok = 비밀번호가 성공적으로 변경되었습니다.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = 인증서 백업 비밀번호 (재입력):
 set-password-reminder = 중요: 만약 인증서 백업 비밀번호를 분실하면 백업한 인증서를 다시 가져올 수 없습니다.  안전한 곳에 기록해 두세요.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
