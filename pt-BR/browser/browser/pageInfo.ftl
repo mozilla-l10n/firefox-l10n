@@ -110,6 +110,11 @@ security-view-technical =
     .value = Detalhes técnicos
 help-button =
     .label = Ajuda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = O site { $website } não oferece criptografia para a página exibida.
+security-technical-no-encryption-transit = Informações não criptografadas estão sujeitas a interceptação durante a transmissão pela rede.
+security-technical-no-encryption-page = A página exibida não foi criptografada antes ser transmitida pela internet.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -124,6 +129,8 @@ security-site-data-no = Não
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Conexão não criptografada
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")

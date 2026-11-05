@@ -99,6 +99,10 @@ set-password-repeat-backup-pw =
     .value = Senha de backup do certificado (confirmar):
 set-password-reminder = Importante: Se você esquecer a senha do backup de certificados, não poderá restaurar esse backup mais tarde. Anote em um local seguro.
 
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Digite a senha que foi usada para criptografar este backup do certificado:
+
 ## Protected authentication dialog
 
 protected-auth-window =
