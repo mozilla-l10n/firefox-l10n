@@ -24,6 +24,8 @@ pippki-pw-not-wanted = ¡Alvertencia! Decidiesti nun usar una contraseña. { pip
 
 ## Downloading cert dialog
 
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Entidá certificadora (ensin nome)
 
 ## Client Authentication Ask dialog
 
