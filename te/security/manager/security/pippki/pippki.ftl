@@ -12,6 +12,8 @@ change-password-token = రక్షణ సాధనం: { $tokenName }
 change-password-old = ప్రస్తుత సంకేతపదం:
 change-password-new = కొత్త సంకేతపదం:
 change-password-reenter = కొత్త సంకేతపదం (మరలా):
+change-password-not-set =
+    .value = (అమర్చబడ లేదు)
 
 ## Reset Primary Password dialog
 
@@ -76,3 +78,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదం(మరలా):
 set-password-reminder = ముఖ్యమైనది: మీరు మీ ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదాన్ని మరిచిపోయినట్లైతే, మీరు ఈ బ్యాక్అప్‌ను తర్వాత తిరిగిపొందలేరు. దయచేసి దీనిని భద్రమైన స్థానమునందు వుంచుకోండి.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
