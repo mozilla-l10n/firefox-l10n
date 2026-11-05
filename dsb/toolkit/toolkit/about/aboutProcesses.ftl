@@ -18,6 +18,28 @@ about-processes-shutdown-tab =
     .title = Rejtarik zacyniś
 about-processes-unload-tab =
     .title = Rejtarik pušćis
+about-processes-reload-tab =
+    .title = Rejtarik znowego zacytaś
+about-processes-select-all-tabs =
+    .title = Wšykne rejtariki wubraś
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Rejtariki toś togo sedła pokazaś
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Rejtariki toś togo sedła schowaś
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Rejtariki z { $site } wuprozniś
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Rejtariki z { $site } zasej zacytaś
+about-processes-expand-all-sites =
+    .title = Wšykne pokazaś
 about-processes-collapse-all-sites =
     .title = Wše schowaś
 about-processes-go-to-tab =

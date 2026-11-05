@@ -271,6 +271,12 @@ menu-help =
 menu-get-help =
     .label = Kömək Alın
     .accesskey = K
+menu-help-more-troubleshooting-info =
+    .label = Daha çox problem həll etmə məlumatı
+    .accesskey = D
+menu-help-enter-troubleshoot-mode2 =
+    .label = Problemlərin Həlli Rejimi...
+    .accesskey = P
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -176,6 +176,9 @@ appmenu-about =
 appmenu-get-help =
     .label = Yardım əldə edin
     .accesskey = y
+appmenu-help-more-troubleshooting-info =
+    .label = Daha çox problem həll etmə məlumatı
+    .accesskey = d
 # Menu header for combination of "Help" menu and report broken site
 appmenu-help-and-report-header =
     .title = Kömək və Hesabat
