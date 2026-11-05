@@ -6,15 +6,15 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = פריקה של לשוניות
+about-unloads-page-title = ביטול טעינת לשוניות
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
-    ניתן לעיין ב<a data-l10n-name="doc-link">פריקה של לשוניות</a> כדי ללמוד יותר על
+    ניתן לעיין ב<a data-l10n-name="doc-link">ביטול טעינת לשוניות</a> כדי ללמוד יותר על
     היכולת והעמוד הזה.
-about-unloads-last-updated = עדכון אחרון: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = פריקה
-    .title = פריקת לשונית עם העדיפות הגבוהה ביותר
+about-unloads-last-updated = עדכון אחרון: { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
+about-unloads-button-unload = ביטול טעינה
+    .title = ביטול טעינת לשונית עם העדיפות הגבוהה ביותר
 about-unloads-no-unloadable-tab = אין לשוניות שניתן לפרוק.
 about-unloads-column-priority = עדיפות
 about-unloads-column-host = מארח
@@ -27,7 +27,7 @@ about-unloads-column-memory = זיכרון
     .title = הערכת ניצול הזיכרון של הלשונית
 about-unloads-column-processes = מזהי תהליכים
     .title = מספרי הזיהוי של התהליכים שמאחסנים את תוכן הלשונית
-about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-accessed = { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } מ״ב
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } מ״ב

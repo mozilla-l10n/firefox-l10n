@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Inportatu beste nabig
 contextual-manager-passwords-command-import = Inportatu fitxategitik…
 contextual-manager-passwords-command-export = Esportatu pasahitzak
 contextual-manager-passwords-command-remove-all = Ezabatu pasahitz guztiak
+contextual-manager-passwords-command-delete-all = Ezabatu pasahitz guztiak
 contextual-manager-passwords-command-options = Aukerak
 contextual-manager-passwords-command-help = Laguntza
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Kendu pasahitza?
         [one] Kendu pasahitza?
        *[other] Kendu { $total } pasahitz?
+    }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Ezabatu pasahitz { $total }?
+       *[other] Ezabatu { $total } pasahitz?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords

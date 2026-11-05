@@ -6,8 +6,8 @@
 ## Strings used for device manager
 
 devmgr-window =
-    .title = מנהל התקנים
     .style = min-width: 67em; min-height: 32em;
+    .title = מנהל התקנים
 devmgr-devlist =
     .label = מודולי והתקני אבטחה
 devmgr-header-details =
@@ -27,8 +27,8 @@ devmgr-button-load =
     .label = טעינה
     .accesskey = ט
 devmgr-button-unload =
-    .label = פריקה
-    .accesskey = פ
+    .label = ביטול טעינה
+    .accesskey = ב
 devmgr-button-enable-fips =
     .label = הפעלת FIPS
     .accesskey = F
