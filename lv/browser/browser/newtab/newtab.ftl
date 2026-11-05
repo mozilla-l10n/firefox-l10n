@@ -195,6 +195,9 @@ newtab-privacy-empty-state = { -brand-short-name } aiztur izsekotājus, tādēj�
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Šeit var apskatīt pašreizējo kopskaitu.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Mazāk izsekotāju, ātrāka pārlūkošana.
+newtab-privacy-empty-state-small-message = Pārlūkojiet, lai sāktu bloķēšanu.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -208,14 +211,29 @@ newtab-privacy-etp-off-turn-on-tracking = Iestatījumos ieslēdz aizsardzību pr
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } automātiski bloķē izsekotājus pārlūkošanas laikā.
+newtab-privacy-message-info-1-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-info-2 = Izsekotāju bloķēšana palīdz uzņēmumiem neļaut jums izsekot tiešsaistē.
+newtab-privacy-message-info-2-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-info-3 = Daudzām vietnēm ir izsekotāji, tāpēc uzņēmumi, kurus nekad neesat apmeklējis, var sekot jums tiešsaistē.
+newtab-privacy-message-info-3-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-info-4 = Izvēloties { -brand-short-name }, tiek izvēlēta aizsardzība pēc noklusējuma.
+newtab-privacy-message-info-4-cta = Skatīt aizsardzības iestatījumus
 newtab-privacy-message-info-5 = Bloķēti izsekotāji nozīmē, ka mazāk uzņēmumu var sekot jums dažādās vietnēs.
 newtab-privacy-message-info-5-cta = Skatīt aizsardzības iestatījumus
 newtab-privacy-message-info-6 = Saglabājiet savus datus pakalpojumā { -brand-short-name }. Mēs tos nekad nepārdodam, bet citas pārlūkprogrammas to varētu darīt.
 newtab-privacy-message-info-6-cta = Uzzināt vairāk
 newtab-privacy-message-info-7 = Skatiet, kuri izsekotāji { -brand-short-name } ir bloķēti.
 newtab-privacy-message-info-7-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-info-8 = Pārlūkošana, izmantojot { -brand-short-name }, atbalsta { -vendor-short-name } misiju veidot labāku tīmekli.
 newtab-privacy-message-info-8-cta = Uzzināt vairāk
+newtab-privacy-message-info-9 = Padariet { -brand-short-name } par savu iecienītāko pārlūkprogrammu, lai nodrošinātu iebūvētu privātumu.
+newtab-privacy-message-info-9-cta = Iestatīt kā noklusējuma vērtību
+newtab-privacy-message-info-10 = Saglabājiet paroles mapē { -brand-short-name }, lai visur izmantotu spēcīgus, unikālus pieteikumvārdus.
+newtab-privacy-message-info-10-cta = Dodieties uz parolēm
+newtab-privacy-message-info-11 = Uzziniet, kā { -brand-short-name } palīdz saglabāt jūsu pārlūkošanu privātāku.
 newtab-privacy-message-info-11-cta = Uzzināt vairāk
+newtab-privacy-message-info-12 = Izsekotāju bloķēšana var palīdzēt ietaupīt joslas platumu ierobežotos datu plānos.
 
 ## Privacy widget — promotional messages
 ##
@@ -499,6 +517,7 @@ newtab-topsites-add-shortcut-label = Pievienot saīsni
 newtab-topsites-add-shortcut-title =
     .aria-label = Pievienot saīsni
     .title = Pievienot saīsni
+newtab-shortcuts-pinned-area = Piesprausta zona
 newtab-topsites-title-label = Virsraksts
 newtab-topsites-title-input =
     .placeholder = Ievadīt nosaukumu
@@ -510,6 +529,8 @@ newtab-topsites-image-url-label = Pielāgota attēla adrese
 newtab-topsites-use-custom-image-link = Izmantot pielāgotu attēlu
 newtab-topsites-use-image-link = Izmantot pielāgotu attēlu…
 newtab-topsites-image-validation = Neizdevās ielādēt attēlu. Izmēģiniet citu adresi.
+newtab-topsites-clear-input =
+    .aria-label = Skaidrs teksts
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 

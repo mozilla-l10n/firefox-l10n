@@ -303,12 +303,40 @@ welcome-back-spotlight-title = Atgriezieties pie iebūvētās privātuma aizsard
 welcome-back-spotlight-subtitle = Laipni lūdzam atpakaļ vienīgajā lielajā pārlūkprogrammā, ko atbalsta bezpeļņas organizācija. Mēs veicam papildu pasākumus, lai aizsargātu jūsu datus neatkarīgi no jūsu atrašanās vietas.
 welcome-back-embedded-import-title = Importējiet savus datus un padariet { -brand-short-name } par mājām
 
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Vecākām { -brand-short-name } versijām var sākt rasties problēmas 2025. gada 14. janvārī.</strong>
+root-certificate-succession-infobar-march-message = <strong>Atjauninājums, lai turpinātu lietot { -brand-short-name } pēc 2025. gada 14. marta.</strong>
+root-certificate-succession-infobar-link = Kāpēc man ir nepieciešams atjauninājums?
+root-certificate-succession-infobar-primary-button =
+    .label = Atjaunināt tagad
+    .accesskey = u
+root-certificate-succession-infobar-secondary-button =
+    .label = Vēlāk
+    .accesskey = l
+
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Jūs palaidāt garām svarīgu { -brand-short-name } atjauninājumu
+root-certificate-windows-background-notification-subtitle = Ja neatjaunināsiet pārlūku, tās daļas drīz pārstās darboties. Tagad ir īstais laiks iegūt mūsu jaunākos aizsardzības līdzekļus un funkcijas.
 root-certificate-windows-background-notification-learn-more-button = Uzzināt vairāk
+root-certificate-windows-background-notification-update-button = Atjaunināt { -brand-short-name }
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .aria-label = Aizvērt
+    .title = Aizvērt
+fxa-menu-message-sign-up-button = Reģistrēties
+fxa-menu-message-sign-in-button = Pierakstīties
+fxa-menu-message-sync-button = Sākt vienādošanu
+fxa-menu-message-sync-devices-primary-text = Vienādojiet visas savas ierīces
+fxa-menu-message-sync-devices-secondary-text = Saņemiet savu informāciju, piemēram, grāmatzīmes un paroles, uzreiz visur, kur izmantojat { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Saņemiet savu informāciju, piemēram, grāmatzīmes un paroles, uzreiz visur, kur izmantojat { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Vienādojiet visas savas ierīces
+fxa-menu-message-backup-data-primary-text = Veidojiet rezerves kopiju pārlūka datiem
+fxa-menu-message-backup-data-secondary-text = Automātiski aizsargājiet grāmatzīmes, paroles un citu informāciju visās savās ierīcēs.
+fxa-menu-message-backup-data-collapsed-text = Veidojiet rezerves kopiju pārlūka datiem
 fxa-menu-message-backup-sync-primary-text = Saglabājiet savus datus drošībā un vienādotus
 fxa-menu-message-backup-sync-secondary-text = Vienādošana veido arī rezerves kopijas lielāko daļu jūsu datu, lai jūs varētu tiem piekļūt visur, kur izmantojat { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Vienādot un veidot rezerves kopijas jūsu datiem
@@ -404,16 +432,34 @@ etp-strict-exceptions-infobar-not-now = Ne tagad
 set-default-menu-message-simple-layout-title = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
 set-default-menu-message-row-layout-title = Padarīt { -brand-short-name } par savu galveno pārlūkprogrammu
+set-default-menu-message-row-layout-title-variant = Vai padarīt { -brand-short-name } par noklusējuma pārlūku?
+set-default-menu-message-row-layout-subtitle = Iegūstiet ātrumu, drošību un privātumu katrā pārlūkošanas reizē.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Saglabājiet { -brand-short-name } pa rokai — padariet to par noklusējuma lietotni un saglabājiet to savā dokā.
+       *[other] Turiet { -brand-short-name } pa rokai — padariet to par noklusējuma vērtību un saglabājiet to uzdevumjoslā.
+    }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Saglabājiet { -brand-short-name } pa rokai
+       *[other] Atvērt visas saites ar { -brand-short-name }
+    }
 set-default-menu-message-split-layout-subtitle =
     { PLATFORM() ->
         [macos] Padari to par noklusējumu un turi to Dock!
        *[other] Iegūsti ātrāku pārlūkošanu un automātisku privātuma aizsardzību.
     }
+set-default-menu-message-primary-button = Iestatīt kā noklusējuma
+set-default-menu-message-primary-button-variant = Iestatīt par galveno pārlūku
+set-default-menu-message-primary-button-short-variant = Padarīt { -brand-short-name } par noklusējuma vērtību
 
 ## Firefox Relay 50 Masks Announcement
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = Uzsaucam 50 e-pasta aizsegus
+relay-50-masks-announcement-subtitle = Tagad jūs saņemat 50 bezmaksas maskas (iepriekš bija 5). Izmantojiet vienu katram kontam, lai saglabātu sava īstā epasta konfidencialitāti.
+relay-50-masks-announcement-primary-button = Dodieties uz { -relay-brand-name }
+    .accesskey = D
 relay-50-masks-announcement-secondary-button = Noraidīt
     .accesskey = N
 
