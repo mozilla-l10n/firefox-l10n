@@ -27,6 +27,7 @@ customize-mode-uidensity-menu-normal =
     .accesskey = N
 customize-mode-undo-cmd =
     .label = Geri al
+customize-mode-uidensity-link = Pəncərə qalınlığı tənzimləmələri
 customize-mode-touchbar-cmd =
     .label = Touch Bar-ı fərdiləşdir…
 
