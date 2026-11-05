@@ -77,6 +77,11 @@ show-sidebars =
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .label = Yan panellər
+    .tooltiptext = Yan paneli göstər ({ $shortcut })
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
     .label = Yan panellər
     .tooltiptext = Yan paneli gizlət ({ $shortcut })

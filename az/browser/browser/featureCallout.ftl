@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Sidebar Strings
+
+sidebar-button-callout-title = Vərəq başlıqlarını yan paneldə göstər
+sidebar-button-callout-vertical-tabs = Vərəqlərinizi göstərmək üçün alət sətrindəki yan panel düyməsinə toxunun.
+
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-cta-button = Şaquli vərəqləri sına

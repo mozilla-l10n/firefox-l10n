@@ -652,3 +652,7 @@ hnt-card-wallpaper-header = Wubjeŕśo nowy slězynowy wobraz
 hnt-card-wallpaper-primary-button = Zachopśo pśiměrowaś
 hnt-card-taskbar-tabs-header = Pśidajśo swójej nadawkowej rědce Windows swóje nejlubše sedła
 hnt-card-taskbar-tabs-primary-button = Nadawkowej rědce sedła pśidaś
+hnt-card-extensions-header = Wuwónoźćo z rozšyrjenjami nejlěpše z { -brand-short-name }
+hnt-card-extensions-body = Pśiměŕśo swóje pśeglědowanje z našymi nejwěcej woblubowane rozšyrjenjami.
+hnt-card-extensions-primary-button = Wuslěźiś
+hnt-card-last-card-header-end = Slědowański šćit jo zmóžnjony.

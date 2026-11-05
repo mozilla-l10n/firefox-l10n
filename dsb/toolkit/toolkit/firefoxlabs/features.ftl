@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Notice rejtarikow su eksperimentel
 experimental-features-tab-context-menu =
     .label = Optiměrowany meni rejtarikow
 experimental-features-tab-context-menu-description = Glědajśo jadnorjejšy kontekstowy meni, gaž z pšaweju tastu na rejtarik klikaśo. Jo se nacerił, aby ceste akcije lažčej namakał. <a data-l10n-name="connect">Měnjenje źěliś</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Resursowy monitor

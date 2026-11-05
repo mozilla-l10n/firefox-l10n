@@ -39,6 +39,14 @@ download-ui-cancel-downloads-ok =
         [1] 1 ześěgnjenje pśetergnuś
        *[other] { $downloadsCount } ześěgnjenjow pśetergnuś
     }
+download-ui-confirm-cancel-button = Pśetergnuś
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } skóńcyś
+       *[other] { -brand-short-name } skóńcyś
+    }
+download-ui-confirm-offline-button = Offline hyś
+download-ui-confirm-private-browsing-button = Wokno zacyniś
 
 ##
 
