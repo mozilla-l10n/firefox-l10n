@@ -233,15 +233,15 @@ pin-tabs-callout-4-title = Websites dy’t jo it meast besykje fêstmeitsje
 
 sidebar-customization-callout-1-title = Sydbalke: jo plak foar ark en ljepblêden
 sidebar-customization-callout-1-subtitle = De  { -brand-product-name }-sydbalke jout jo rappe tagong ta jo navigaasjeskiednis, ljepblêden fan oare apparaten, en in AI-chatbot – alles sûnder jo haadfinster te ferlitten.
-sidebar-customization-callout-callout-button = Sidebalke oanpasse
-sidebar-customization-callout-dismiss-button = Sidebalke ferstopje
+sidebar-customization-callout-callout-button = Sydbalke oanpasse
+sidebar-customization-callout-dismiss-button = Sydbalke ferstopje
 sidebar-customization-callout-2-title = De { -brand-product-name }-sydbalke fan josels meitsje
 sidebar-customization-callout-2-subtitle = Foegje ark ta en smyt se fuort. Pleats jo ljepblêden yn de sydbalke. Probearje in AI-chatbot. Hoe jo jo sydbalke oanpasse, is oan jo.
 
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Help { -brand-short-name } te ferbetterjen
-sidebar-callout-survey-satisfaction-question = Hoe tefreden binne jo mei de sidebalkeûnderfining yn { -brand-short-name }?
+sidebar-callout-survey-satisfaction-question = Hoe tefreden binne jo mei de sydbalkeûnderfining yn { -brand-short-name }?
 sidebar-callout-survey-privacy-notice-link = Privacyferklearring
 sidebar-callout-survey-very-satisfied = Hiel tefreden
 sidebar-callout-survey-satisfied = Tefreden
@@ -251,22 +251,22 @@ sidebar-callout-survey-very-dissatisfied-2 = Hiel ûntefreden
 sidebar-callout-survey-dont-use-it = Ik brûk it net
 sidebar-callout-survey-productive-question =
     Yn hoefier binne jo it iens of net iens mei dizze stelling:<br/>
-    ‘De { -brand-short-name }-sidebalke helpt my produktiver te wêzen’?
+    ‘De { -brand-short-name }-sydbalke helpt my produktiver te wêzen’?
 sidebar-callout-survey-strongly-agree = Beslist mei iens
 sidebar-callout-survey-agree = Iens
 sidebar-callout-survey-disagree = Net mei iens
 sidebar-callout-survey-strongly-disagree = Beslist net mei iens
-sidebar-callout-survey-features-question = Hjirûnder folgje mooglike funksjes yn de sidebalke. Hokker soe jo produktiviteit in { -brand-short-name } it meast ferbetterje?
+sidebar-callout-survey-features-question = Hjirûnder folgje mooglike funksjes yn de sydbalke. Hokker soe jo produktiviteit in { -brand-short-name } it meast ferbetterje?
 sidebar-callout-survey-split-view = Twa ferskate websites tagelyk besjen, yn in splitste werjefte njonken inoar
-sidebar-callout-survey-keep-website-open = In website, lykas e-mail of aginda, iepen hâlde yn de sidebalke wylst jo sneupe
+sidebar-callout-survey-keep-website-open = In website, lykas e-mail of aginda, iepen hâlde yn de sydbalke wylst jo sneupe
 sidebar-callout-survey-saved-websites-2 = Flugge tagong ta jo blêdwizers
 sidebar-callout-survey-none-of-above = Gjin fan boppesteande
 sidebar-callout-survey-submit = Yntsjinje
 sidebar-callout-survey-thank-you = Tank foar jo kommentaar!
-sidebar-genai-survey-satisfaction-question = Hoe tefreden binne jo mei tagong ta in AI-chatbot yn de sidebalke?
+sidebar-genai-survey-satisfaction-question = Hoe tefreden binne jo mei tagong ta in AI-chatbot yn de sydbalke?
 sidebar-genai-survey-productive-question =
     Yn hoefier binne jo it iens of net iens mei dizze stelling:<br/>
-    ‘De AI-chatbot yn de sidebalke helpt my produktiver te wêzen’?
+    ‘De AI-chatbot yn de sydbalke helpt my produktiver te wêzen’?
 splitview-onboarding-callout-title-1 = Splitste werjefte: in bettere manier om te multitaske
 splitview-onboarding-callout-subtitle-1 = Klik mei jo rjochtermûsknop op dit ljepblêd en kies ‘Splitste werjefte tafoegje’ om twa ljepblêden tagelyk te sjen.
 splitview-onboarding-callout-cta-1 = No probearje

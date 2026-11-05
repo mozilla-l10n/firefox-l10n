@@ -21,7 +21,7 @@ customkeys-file-copy-tab-url = Ljepblêd-URL kopiearje
 customkeys-file-focus-search = Fokus op de sykbalke
 customkeys-history-reopen-tab = Lêst sletten ljepblêd opnij iepenje
 customkeys-history-reopen-window = Lêst sletten finster opnij iepenje
-customkeys-sidebar-toggle = Sidebalke yn-/útskeakelje
+customkeys-sidebar-toggle = Sydbalke yn-/útskeakelje
 customkeys-view-bookmarks-toolbar = Blêdwizerarkbalke yn-/útskeakelje
 customkeys-view-picture-in-picture = Picture-in-Picture
 customkeys-view-add-split-view = Splitste werjefte tafoegje
@@ -115,7 +115,7 @@ customkeys-reset-all-confirm-button-cancel = Annulearje
 ## Sidebar
 
 customkeys-sidebar =
-    .aria-label = Sidebalke
+    .aria-label = Sydbalke
 customkeys-title-heading =
     .heading = Fluchtoetsen
 # Search is a verb, as in "search through shortcuts".

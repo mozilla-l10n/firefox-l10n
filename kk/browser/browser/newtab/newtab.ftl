@@ -192,6 +192,9 @@ newtab-privacy-empty-state = { -brand-short-name } трекерлерді авт
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Жалпы қорытындыны мына жерден қараңыз.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Азырақ трекер, жылдамырақ шолу.
+newtab-privacy-empty-state-small-message = Блоктауды бастау үшін шолыңыз.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1427,6 +1430,12 @@ newtab-widget-menu-move-left = Сол жақ
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Оң жақ
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Үй беті
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Виджеттер
 newtab-widget-size-small = Кішкентай
 newtab-widget-size-medium = Орташа
 newtab-widget-size-large = Үлкен

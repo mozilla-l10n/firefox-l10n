@@ -190,12 +190,16 @@ contextual-manager-passwords-radiobutton-all = Барлығы ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Ескертулер ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Парольді өшіру керек пе?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Парольді өшіру керек пе?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Мұны қайтаруға болмайды.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Артқа
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Өшіру
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Өшіру
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Бас тарту
 contextual-manager-passwords-alert-card =
@@ -226,6 +230,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Парольді жаңарту
 contextual-manager-passwords-remove-label =
+    .title = Парольді өшіру
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Парольді өшіру
 contextual-manager-passwords-origin-field =
     .label = Веб-сайт адресі
@@ -339,6 +346,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Иә, парольді өшіру
         [one] Иә, парольді өшіру
+       *[other] Иә, парольдерді өшіру
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Иә, парольді өшіру
        *[other] Иә, парольдерді өшіру
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.

@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Беттер тобын кез �
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Беттер топтарын кез келген уақытта Барлық беттер тізімін шығару мәзірінен қайта ашыңыз.
 tab-groups-onboarding-dismiss = ОК
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Беттер топтары автоматты түрде сақталады. Оларды осы жерден табасыз.
 
 ## Multi Profiles feature onboarding messages
 
@@ -637,3 +639,7 @@ welcome-back-onboarding-card-label-tabs = Вертикалды беттер ме
 welcome-back-onboarding-card-label-vpn = Кіріктірілген VPN арқылы адресіңізді жасырыңыз
 welcome-back-onboarding-card-label-pdf = PDF файлдарын белгілеу, қол қою және олармен жұмыс істеу
 welcome-back-onboarding-card-tilebutton-label = Қолданып көру
+
+## New Tab Onboarding cards
+
+hnt-card-wallpaper-primary-button = Баптауды бастау
