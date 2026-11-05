@@ -14,6 +14,8 @@ change-password-token = უსაფრთხოების მოწყობ�
 change-password-old = მიმდინარე პაროლი:
 change-password-new = ახალი პაროლი:
 change-password-reenter = ახალი პაროლი (კვლავ):
+change-password-not-set =
+    .value = (არ მითითებულა)
 pippki-failed-pw-change = პაროლის შეცვლა, ვერ ხერხდება.
 pippki-incorrect-pw = თქვენ მიერ მითითებული მიმდინარე პაროლი მცდარია. სცადეთ ხელახლა.
 pippki-pw-change-ok = პაროლი წარმატებით შეიცვალა.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = სერტიფიკატის დუბლირების პაროლი (კვლავ):
 set-password-reminder = მნიშვნელოვანია: თუ სერტიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
