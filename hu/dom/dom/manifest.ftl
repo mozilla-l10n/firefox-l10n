@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Az azonosító tag nem érvényes webcímre oldódott fel.
+dom-manifest-id-not-same-origin = Az azonosító tagnak ugyanolyan eredetűnek kell lennie, mint a start_url tagnak.
+dom-manifest-should-be-object = A jegyzékfájlnak objektumnak kell lennie.
+dom-manifest-scope-url-invalid = A hatókör webcíme érvénytelen.
+dom-manifest-scope-not-same-origin = A hatókör webcímének azonos eredetűnek kell lennie, mint a dokumentum.
+dom-manifest-start-url-outside-scope = A kezdő webcím kívül esik a hatókörön, így a hatókör érvénytelen.
+dom-manifest-start-url-invalid = A kezdő webcím érvénytelen.
+dom-manifest-start-url-should-be-same-origin = A kezdő webcímnek azonos eredetűnek kell lennie, mint a dokumentum.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
