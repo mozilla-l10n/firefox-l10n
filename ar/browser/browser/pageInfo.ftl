@@ -107,6 +107,11 @@ security-view-technical =
     .value = التفاصيل التقنية
 help-button =
     .label = مساعدة
+security-technical-encrypted-page = عُمِّيت الصّفحة التي تعرضها قبل إرسالها عبر الإنترنت.
+security-technical-encrypted-description = تصعّب التعمية غير المخوّلين على المعلومات المرسلة بين الحواسيب. من غير المحتمل أنّ شخصًا ما يقرأ هذه الصّفحة بينما تنتقل عبر الشّبكة.
+security-technical-mixed-content-description = أجزاء من الصّفحة التي تعرضها لم تُعمّى قبل إرسالها عبر الإنترنت.
+security-technical-weak-cipher = اتصالك بهذا الموقع يستخدم تعمية ضعيفة وليس خاصًّا أيضًا. يمكن للآخرين الاطلاع على معلوماتك أو تغيير سلوك الموقع.
+security-technical-ct-compliant = يتوافق هذا الموقع مع سياسة شفافية الشهادة.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +123,21 @@ security-site-data-cookies = نعم، كعكات و بيانات مواقع ب�
 security-site-data-only = نعم، بيانات مواقع بحجم { $value } { $unit }
 security-site-data-cookies-only = نعم، كعكات
 security-site-data-no = لا
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = الاتّصال مُعمّى جزئيّا
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = الاتصال مُعمّى ({ $algorithm }، مفاتيح { $keySize } بتة، { $protocol })
+security-technical-broken-encryption =
+    .value = تعمية معطوبة ({ $algorithm }، مفاتيح { $keySize } بتة، { $protocol })
 
 ##
 

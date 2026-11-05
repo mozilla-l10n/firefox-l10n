@@ -14,6 +14,8 @@ change-password-token = جهاز الأمن: { $tokenName }
 change-password-old = كلمة السر الحالية:
 change-password-new = كلمة السر الجديدة:
 change-password-reenter = كلمة السر الجديدة (مرة ثانية):
+change-password-not-set =
+    .value = (غير مضبوط)
 pippki-incorrect-pw = لم تُدخل كلمة السر الرئيسية الصحيحة. رجاءً أعِد المحاولة.
 pippki-pw-erased-ok = حذفت كلمة سرك. { pippki-pw-empty-warning }
 
@@ -82,3 +84,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = كلمة سر النسخة الاحتياطية للشهادة (مرّة ثانية):
 set-password-reminder = هامّ: إذا نسيت كلمة سر النسخة الاحتياطية للشهادة، لن تكون قادرًا على استعادة هذه النسخة الاحتياطية لاحقًا.  الرجاء تسجيلها بمكان آمن.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
