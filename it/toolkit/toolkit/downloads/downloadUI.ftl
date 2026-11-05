@@ -46,3 +46,4 @@ download-ui-file-executable-security-warning-title = Aprire il file eseguibile?
 # Variables:
 #   $executable (String): The executable file to be opened.
 download-ui-file-executable-security-warning = “{ $executable }” è un file eseguibile e potrebbe contenere virus o altri codici potenzialmente dannosi per il computer. Aprire questo file con cautela. Procedere con l’apertura di “{ $executable }”?
+
