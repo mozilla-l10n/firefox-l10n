@@ -40,6 +40,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Վկայագրի ներբեռնում
 download-cert-message = Դուք հայց եք ստացել մի նոր Վկայագրի լիազորման (CA) համար:
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ցանկանու՞մ եք վստահել "{ $caName }"-ին հետևյալ նպատակի համար:
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Վկայագրման կենտրոն (անանուն)
 download-cert-trust-ssl =
     .label = Վստահել այս CA-ին՝ վեբ հանգույցների նույնացման համար:
 download-cert-trust-email =
