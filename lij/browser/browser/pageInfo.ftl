@@ -102,6 +102,16 @@ security-view-technical =
     .value = Detalli Tecnichi
 help-button =
     .label = Goidda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = O scito { $website } o no sopòrta a criptaçion pe sta pagina che ti veddi.
+security-technical-no-encryption-transit = E informaçioin spedie pe internet sensa ese criptæ peuan ese viste quande tranxitan.
+security-technical-no-encryption-page = Sta pagina che t'amii a no l'é criptâ primma de êse trasmissa in sce l'Internet.
+security-technical-encrypted-page = A pagina che t'amii a l'é cifrâ primma da trasmiscion via Internet.
+security-technical-encrypted-description = A cifratura a fâ vegnî difiçile amiâ e informaçioin scangiæ tra computer a personn-e no aotorizæ. Quindi o l'é inprobabile che quarchedun o segge ariescio a leze o contegnuo di sta pagina into tranxitâ inta ræ.
+security-technical-mixed-content-description = Quarche elemento da pagina che ti amii o no l'é cifrou primma da trasmiscion via Internet.
+security-technical-weak-cipher = A conescion a sto scito web o deuvia 'na cifratua debole e a no l'é privâ. Atre personn-e porieivan veddise e informaçioin trasmisse ò cangiâ o conportamento do scito.
+security-technical-ct-compliant = O scito no va d'acòrdio co-i critei de trasparensa di certificati.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +123,23 @@ security-site-data-cookies = Sci, cookie e { $value } { $unit } de dæti di scit
 security-site-data-only = Sci, { $value } { $unit } de dæti di sciti
 security-site-data-cookies-only = Sci, cookie
 security-site-data-no = No
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Conescion no criptâ
+security-technical-mixed-content =
+    .value = Conescion criptâ in parte
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Conescion cifrâ ({ $algorithm }, ciavi a { $keySize } bit, { $protocol })
+security-technical-broken-encryption =
+    .value = Cifratua no bonn-a ({ $algorithm }, ciavi a { $keySize } bit, { $protocol })
 
 ##
 
