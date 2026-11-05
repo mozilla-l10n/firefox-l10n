@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Goo ma tabatiyan-tiira zumandi
 download-cert-message = Ir ga hãa kaŋ war ma naanay tabatiyan-tiira hini taagaa.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = War ga baa ka naanay "{ $caName }" almuraadey wey še?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Tabatiyan-tiira hini (bila-nda-maa)
 download-cert-trust-ssl =
     .label = Naanay tabatiyan-tiira hinoo woo ka Interneti nungey tammaasa.
 download-cert-trust-email =
@@ -76,6 +81,7 @@ set-password-reminder = Hawgay: Nda war dirŋa war tabatiyan-tiira banda-gaabu �
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Taare šennikufaloo dam, kaŋ nda war na tabatiyan-tiira banda-gaaboo woo tugandi:
 
 ## Protected authentication dialog
 

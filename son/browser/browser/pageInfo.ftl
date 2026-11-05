@@ -96,6 +96,11 @@ security-view-technical =
     .value = Goywaanay šilbayhayey
 help-button =
     .label = Faaba
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Interneti nungoo { $website } ši hin ka moɲoo kaŋ war g'a guna tugandi.
+security-technical-no-encryption-transit = Alhabaroo kaŋ sanbandi Interneti bande bila nda boro waaniyaŋ ma hib ja dii tuguyanoo fondaa ra.
+security-technical-no-encryption-page = Moɲoo kaŋ war goo m'a guna mana tugandi jina hal'a ma toonandi Interneti bande.
 security-technical-encrypted-page = Moɲoo kaŋ war g'a guna mana tugandi jina hal'a ma toonandi Interneti bande.
 security-technical-encrypted-description = Kufalyanoo g'a šendandi borey kaŋ ši nda fondo se, i ma dii alhabar kaŋ ga bisa ordinaterey game. Adiši, a ši hima, boro kul ma hin ka moɲoo woo caw waati kaŋ a ga bisa sankaa ra.
 security-technical-mixed-content-description = Moɲoo jerey kaŋ war g'i guna mana tugandi jina ka bisandi Interneti bande.
@@ -110,6 +115,8 @@ security-technical-weak-cipher = War ciyaroo interneti nungoo woo ga ga goy nda 
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Ciyaroo mana tugandi
 security-technical-mixed-content =
     .value = Ciyari jere tugante
 
