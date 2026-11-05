@@ -26,6 +26,11 @@ download-cert-window2 =
     .title = Go bula Setifikheiti
     .style = min-width: 46em
 download-cert-message = O kgopetšwe go tshepha Taolo e mpsha ya Disetifikheiti (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = E ka ba o nyaka go tshepha "{ $caName }" ya dinepo tše di latelago?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Taolo ya Setifikheiti (ga sa fiwa leina)
 download-cert-trust-email =
     .label = Tshepha CA ye go hlatha bašomiši ba e-poso.
 download-cert-message-desc = Pele o ka tshepha CA ye morerong o mongwe le o mongwe, o swanetše go lekola setifikheiti sa yona le maano-tshepedišo le ditsela tša yona (ge di le gona).
