@@ -14,6 +14,8 @@ change-password-token = ආරක්‍ෂණ උපාංගය: { $tokenName }
 change-password-old = වත්මන් මුරපදය:
 change-password-new = නව මුරපදය:
 change-password-reenter = නව මුරපදය (නැවත):
+change-password-not-set =
+    .value = (සකසා නැත)
 pippki-failed-pw-change = මුරපදය වෙනස් කළ නොහැකිය.
 pippki-incorrect-pw = ඔබ නිවැරදි වත්මන් මුරපදය ඇතුල් කර නැත. නැවත උත්සාහ කරන්න.
 pippki-pw-change-ok = මුරපදය වෙනස් කෙරිණි.
@@ -87,3 +89,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = සහතිකයේ උපස්ථ මුරපදය (නැවත):
 set-password-reminder = වැදගත්: ඔබගේ සහතිකයේ උපස්ථ මුරපදය අමතක වුවහොත්, මෙම උපස්ථය පසුව ප්‍රත්‍යර්පණය කිරීමට නොහැකි වනු ඇත. එය ආරක්‍ෂිත ස්ථානයක සටහන් කරන්න.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

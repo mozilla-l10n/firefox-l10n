@@ -101,6 +101,10 @@ security-view-technical =
     .value = තාක්‍ෂණික දත්ත
 help-button =
     .label = උදව්
+security-technical-encrypted-page = ඔබ දකින පිටුව අන්තර්ජාලය හරහා සම්ප්‍රේෂණය වීමට පෙර සංකේතනය කර ඇත.
+security-technical-encrypted-description = සංකේතනය මගින් අනවසර පුද්ගලයින්ට පරිගණක අතර ගමන් කරන තොරතුරු දැකීම ඉතා අපහසු කරයි. එබැවින් මෙම පිටුව ජාලය හරහා ගමන් කිරීමේදී කිසිවකු එය කියවා ඇතැයි සිතීමට නොහැකිය.
+security-technical-mixed-content-description = ඔබ නරඹන පිටුවේ කොටස් අන්තර්ජාලය හරහා සම්ප්‍රේෂණය කිරීමට පෙර සංකේතනය කර නොතිබුණි.
+security-technical-weak-cipher = මෙම අඩවිය වෙත ඔබගේ සම්බන්ධතාව සඳහා දුර්වල හා පෞද්ගලික නොවන සංකේතනයක් භාවිතා කරයි. වෙනත් පුද්ගලයින්ට ඔබගේ තොරතුරු දැකීමට හෝ අඩවියේ හැසිරීම වෙනස් කිරීමට හැකිය.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -112,6 +116,19 @@ security-site-data-cookies = ඔව්, දත්තකඩ සහ අඩවි�
 security-site-data-only = ඔව්, අඩවියේ දත්ත { $unit } { $value }
 security-site-data-cookies-only = ඔව්, දත්තකඩ
 security-site-data-no = නැහැ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = සම්බන්ධතාව අර්ධ සංකේතිතයි
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = සම්බන්ධතාව සංකේතිතයි ({ $algorithm }, බිටු { $keySize } යතුරු, { $protocol })
 
 ##
 
