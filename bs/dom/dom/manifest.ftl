@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Član ID-a nije rezultirao važećim URL-om.
+dom-manifest-id-not-same-origin = Član id mora imati isto porijeklo kao i član start_url.
+dom-manifest-should-be-object = Manifest bi trebao biti objekat.
+dom-manifest-scope-url-invalid = URL scope-a nije ispravan.
+dom-manifest-scope-not-same-origin = URL scope-a mora imati isti izvor kao dokument.
+dom-manifest-start-url-outside-scope = Početni URL je izvan scope-a, pa je scope neispravan.
+dom-manifest-start-url-invalid = Početni UL nije ispravan.
+dom-manifest-start-url-should-be-same-origin = Početni URL mora imati isti izvor kao dokument.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
@@ -36,3 +44,9 @@ dom-manifest-image-url-is-invalid = Stavka { $memberName } na indeksu { $index }
 #   $index (Number) - The index of the image object that is unusable, starting from 0.
 # Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
 dom-manifest-image-unusable = Stavka { $memberName } na indeksu { $index } nema upotrebljivu svrhu. Bit će ignorirana.
+# Variables:
+#   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
+#   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
+#   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes repeated purpose(s): a, b."
+dom-manifest-image-repeated-purposes = Stavka { $memberName } na indeksu { $index } uključuje ponovljene svrhe: { $purposes }.
