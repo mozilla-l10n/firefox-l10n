@@ -14,6 +14,8 @@ change-password-token = Dispositivo de seguranza: { $tokenName }
 change-password-old = Contrasinal actual:
 change-password-new = Novo contrasinal:
 change-password-reenter = Novo contrasinal (outra vez):
+change-password-not-set =
+    .value = (sen definir)
 pippki-failed-pw-change = Non foi posíbel cambiar o contrasinal.
 pippki-incorrect-pw = Non introduciu o contrasinal actual correcto. Por favor, inténteo de novo.
 pippki-pw-change-ok = Cambiouse correctamente o contrasinal.
@@ -98,3 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contrasinal da copia de seguranza do certificado (outra vez):
 set-password-reminder = Importante: Se esquece o contrasinal da copia de seguranza do certificado non poderá restaurar esa copia. Gárdeo nun lugar seguro.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
