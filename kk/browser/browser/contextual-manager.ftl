@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Басқа брауз
 contextual-manager-passwords-command-import = Файлдан импорттау…
 contextual-manager-passwords-command-export = Парольдерді экспорттау
 contextual-manager-passwords-command-remove-all = Барлық парольдерді өшіру
+contextual-manager-passwords-command-delete-all = Барлық парольдерді өшіру
 contextual-manager-passwords-command-options = Опциялар
 contextual-manager-passwords-command-help = Көмек
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Парольді өшіру керек пе?
        *[other] Remove all { $total } passwords?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } парольді өшіру керек пе?
+       *[other] { $total } парольді өшіру керек пе?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -114,6 +122,13 @@ contextual-manager-passwords-remove-all-confirm =
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Өшіру
+       *[other] Барлығын өшіру
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
         [1] Өшіру
        *[other] Барлығын өшіру
