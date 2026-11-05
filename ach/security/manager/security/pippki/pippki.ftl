@@ -12,6 +12,8 @@ change-password-token = Nyonyo me Gwoko kuc: { $tokenName }
 change-password-old = Mung me donyo matye:
 change-password-new = Mung me donyo manyen:
 change-password-reenter = Mung me donyo manyen (doki):
+change-password-not-set =
+    .value = (pe kitero)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Mung me donyo me waraga (doki):
 set-password-reminder = Pire tek: Ka wiyi owil ki mung me kano waraga, pe iromo dong gwoko man lacen.  Tim ber i ket rekod ne i kabedo ma ogwoke maber.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
