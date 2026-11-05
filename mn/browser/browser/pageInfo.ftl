@@ -80,6 +80,7 @@ security-view-technical =
     .value = Техникийн мэдээлэл
 help-button =
     .label = Тусламж
+security-technical-no-encryption-transit = Интернэтээр дамжуулагдаж буй мэдээлэл хэрэв нууцлалын хувиргуургүй бол бусад хүмүүст харагдах боломжтой.
 security-technical-encrypted-page = Таны үзэж байгаа хуудас интернэтээр дамжуулагдахаасаа өмнө нууцлалын хувиргалт хийгдсэн байна.
 security-technical-mixed-content-description = Таны харж буй хуудасны зарим хэсэгт интернэтээр дамжуулагдахаасаа өмнө нууц хувиргалт хийгдээгүй байна
 
