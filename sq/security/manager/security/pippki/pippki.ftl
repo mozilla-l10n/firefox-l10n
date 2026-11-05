@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Shkarkim Dëshmie
 download-cert-message = Ju është kërkuar të besoni një Autoritet të ri Dëshmish (AD).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Doni të besohet "{ $caName }" për qëllimet vijues?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritet Dëshmish (pa emër)
 download-cert-trust-ssl =
     .label = Beso këtë AD në identifikim sajtesh.
 download-cert-trust-email =
