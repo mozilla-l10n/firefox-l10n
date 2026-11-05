@@ -98,6 +98,11 @@ security-view-technical =
     .value = ತಾಂತ್ರಿಕ ವಿವರಗಳು
 help-button =
     .label = ನೆರವು
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = ನೀವು ನೋಡುತ್ತಿರುವ ಜಾಲಪುಟಕ್ಕೆ  { $website } ಜಾಲ ತಾಣವು ಗೂಢಲಿಪೀಕರಣವನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.
+security-technical-no-encryption-transit = ಗೂಢಲಿಪೀಕರಣಗೊಳಿಸದೆ ಅಂತರಜಾಲದ ಮೂಲಕ ಕಳುಹಿಸಲಾದ ಮಾಹಿತಿಯನ್ನು  ಅದರ ಮಾರ್ಗ ಮಧ್ಯದಲ್ಲೇ ಇತರರಿಂದ ನೋಡಲ್ಪಡುವ ಸಂಭವವಿರುತ್ತದೆ.
+security-technical-no-encryption-page = ನೀವು ನೋಡುತ್ತಿರುವ ಪುಟದ ಕೆಲವು ಭಾಗವು ಅಂತರಜಾಲದ ಮೂಲಕ ಪ್ರಸಾರಿಸುವ ಮೊದಲು ಗೂಢಲಿಪೀಕರಣಗೊಂಡಿದೆ.
 security-technical-encrypted-page = ನೀವು ನೋಡುತ್ತಿರುವ ಪುಟದ ಕೆಲವು ಭಾಗವು ಅಂತರಜಾಲದ ಮೂಲಕ ಪ್ರಸಾರಿಸುವ ಮೊದಲು ಗೂಢಲಿಪೀಕರಣಗೊಂಡಿದೆ.
 security-technical-encrypted-description = ಗೂಢಲಿಪೀಕರಣಗೊಳಿಸುವುದರಿಂದ ಎರಡು ಗಣಕಗಳ ಮಧ್ಯೆ ಪ್ರವಹಿಸುವ ಮಾಹಿತಿಯನ್ನು ಅನಧೀಕೃತ ವ್ಯಕ್ತಿಗಳಿಂದ ನೋಡುವುದನ್ನು ತಡೆಯಬಹುದಾಗಿದೆ. ಅದೆ ಕಾರಣದಿಂದಾಗಿ ಜಾಲದ ಮುಖಾಂತರ ವರ್ಗಾಯಿತಗೊಂಡ ಈ ಪುಟವನ್ನು ಬೇರೊಬ್ಬರಿಂದ ನೋಡಲ್ಪಟ್ಟ ಸಾಧ್ಯತೆಗಳು ಕಡಿಮೆಯಾಗಿರುತ್ತವೆ.
 security-technical-mixed-content-description = ನೀವು ನೋಡುತ್ತಿರುವ ಪುಟದ ಕೆಲವು ಭಾಗವು ಅಂತರಜಾಲದ ಮೂಲಕ ಪ್ರಸಾರಿಸುವ ಮೊದಲು ಗೂಢಲಿಪೀಕರಣಗೊಳಿಸಿಲ್ಲ.
@@ -113,6 +118,8 @@ security-site-data-no = ಇಲ್ಲ
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = ಸಂಪರ್ಕವು ಗೂಢಲಿಪೀಕರಣಗೊಂಡಿಲ್ಲ
 security-technical-mixed-content =
     .value = ಸಂಪರ್ಕವು ಆಂಶಿಕವಾಗಿ ಗೂಢಲಿಪೀಕರಣಗೊಂಡಿದೆ
 
