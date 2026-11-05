@@ -103,6 +103,7 @@ set-password-reminder = Belangrijk: als u uw wachtwoord voor de reservekopie van
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Voer het wachtwoord in dat bij het versleutelen van de reservekopie van dit certificaat is gebruikt:
 
 ## Protected authentication dialog
 

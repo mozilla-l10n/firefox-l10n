@@ -110,6 +110,11 @@ security-view-technical =
     .value = Technische details
 help-button =
     .label = Help
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = De website { $website } ondersteunt geen versleuteling voor de pagina die u bekijkt.
+security-technical-no-encryption-transit = Gegevens die zonder versleuteling over het internet worden verzonden, kunnen onderweg door anderen worden ingezien.
+security-technical-no-encryption-page = De pagina die u bekijkt was niet versleuteld voordat deze over het internet werd verzonden.
 security-technical-encrypted-page = De pagina die u bekijkt is versleuteld voordat deze over het internet werd verzonden.
 security-technical-encrypted-description = Versleuteling maakt het moeilijk voor onbevoegde personen om gegevens te bekijken die tussen computers worden uitgewisseld. Het is daarom onwaarschijnlijk dat iemand deze pagina heeft gelezen terwijl hij over het netwerk werd verzonden.
 security-technical-mixed-content-description = Delen van de pagina die u bekijkt waren niet versleuteld voordat ze over het internet werden verzonden.
@@ -129,6 +134,8 @@ security-site-data-no = Nee
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Niet-versleutelde verbinding
 security-technical-mixed-content =
     .value = Gedeeltelijk versleutelde verbinding
 
