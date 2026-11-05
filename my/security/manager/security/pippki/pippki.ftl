@@ -12,6 +12,8 @@ change-password-token = လုံခြုံရေး ကိရိယာ: { $to
 change-password-old = လက်ရှိ စကားဝှက် -
 change-password-new = စကားဝှက် အသစ် -
 change-password-reenter = စကားဝှက် အသစ် (ပြန်ရေးပါ) -
+change-password-not-set =
+    .value = (ချမှတ်မထားဘူး)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက် (ပြန်ရေးပါ) -
 set-password-reminder = Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
