@@ -104,6 +104,11 @@ security-view-technical =
     .value = Mionsonraí Teicniúla
 help-button =
     .label = Cabhair
+security-technical-encrypted-page = Criptíodh an leathanach ar a bhfuil tú ag amharc roimh é a thraschur ar an Idirlíon.
+security-technical-encrypted-description = De bharr criptiúcháin, tá sé an-deacair do dhaoine faisnéis a léamh gan cead agus í á traschur idir ríomhairí. Is beag seans, mar sin, gur léigh aon duine an leathanach seo agus é ag taisteal tríd an líonra.
+security-technical-mixed-content-description = Níor criptíodh cuid den leathanach ar a bhfuil tú ag amharc roimh é a thraschur thar an Idirlíon.
+security-technical-weak-cipher = Úsáideann do cheangal leis an suíomh seo criptiúchán lag nach bhfuil príobháideach. Is féidir le daoine eile do shonraí a fheiceáil agus iompar an tsuímh a athrú.
+security-technical-ct-compliant = Cloíonn an suíomh seo leis an bpolasaí Trédhearcacht Teastais.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +120,21 @@ security-site-data-cookies = Tá, fianáin agus { $value }{ $unit } de shonraí 
 security-site-data-only = Tá, { $value }{ $unit } de shonraí suímh
 security-site-data-cookies-only = Tá, fianáin
 security-site-data-no = Níl
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Ceangal páirtchriptithe
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Ceangal Criptithe ({ $algorithm }, eochracha { $keySize } giotán, { $protocol })
+security-technical-broken-encryption =
+    .value = Criptiúchán Briste ({ $algorithm }, eochracha { $keySize } giotán, { $protocol })
 
 ##
 

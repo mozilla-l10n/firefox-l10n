@@ -12,6 +12,8 @@ change-password-token = Gléas Slándála: { $tokenName }
 change-password-old = Focal Faire Reatha:
 change-password-new = Focal Faire Nua:
 change-password-reenter = Focal Faire Nua (Arís):
+change-password-not-set =
+    .value = (gan socrú)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Focal faire an chúltaca teastais (arís):
 set-password-reminder = Tábhachtach: má dhéanann tú dearmad ar an bhfocal faire don chúltaca teastais ní bheidh tú in ann an cúltaca seo a chur ar ais. Breac síos tuairisc de in áit shlán.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
