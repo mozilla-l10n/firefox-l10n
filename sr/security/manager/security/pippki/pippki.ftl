@@ -103,6 +103,7 @@ set-password-reminder = Важно: ако заборавите лозинку �
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Унесите лозинку која је коришћења за шифровање ове резервне копије:
 
 ## Protected authentication dialog
 
