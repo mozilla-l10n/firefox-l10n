@@ -14,6 +14,8 @@ change-password-token = Urządzenie zabezpieczające: { $tokenName }
 change-password-old = Bieżące hasło:
 change-password-new = Nowe hasło:
 change-password-reenter = Nowe hasło (ponownie):
+change-password-not-set =
+    .value = (nie ustawione)
 pippki-failed-pw-change = Nie można zmienić hasła.
 pippki-incorrect-pw = Nie podano właściwego hasła. Proszę spróbować ponownie.
 pippki-pw-change-ok = Hasło zostało zmienione.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Pobieranie certyfikatu
 download-cert-message = Otrzymano prośbę o dołączenie nowego organu certyfikacji do listy zaufanych organów.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Czy zakwalifikować „{ $caName }” jako źródło godne zaufania w następujących przypadkach?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Organ certyfikacji (bez nazwy)
 download-cert-trust-ssl =
     .label = Zaufaj temu organowi certyfikacji przy identyfikacji witryn internetowych.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Hasło kopii zapasowej certyfikatu (ponownie):
 set-password-reminder = Ważne: jeżeli hasło zabezpieczające kopię certyfikatu zostanie utracone, późniejsze odtworzenie certyfikatu będzie niemożliwe. Zaleca się zachowanie hasła w bezpiecznym miejscu.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Proszę wprowadzić hasło, użyte przy szyfrowaniu kopii bezpieczeństwa tego certyfikatu:
 
 ## Protected authentication dialog
 
