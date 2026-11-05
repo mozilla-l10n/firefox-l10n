@@ -103,6 +103,7 @@ set-password-reminder = สำคัญมาก : หากคุณลืม�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = โปรดป้อนรหัสผ่านที่ใช้ในการเข้ารหัสข้อมูลสำรองใบรับรองนี้:
 
 ## Protected authentication dialog
 

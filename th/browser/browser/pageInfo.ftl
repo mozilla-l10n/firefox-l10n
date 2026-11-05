@@ -107,6 +107,11 @@ security-view-technical =
     .value = รายละเอียดทางเทคนิค
 help-button =
     .label = ช่วยเหลือ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = เว็บไซต์ { $website } ไม่รองรับการเข้ารหัสสำหรับหน้าที่คุณกำลังดู
+security-technical-no-encryption-transit = ข้อมูลที่ถูกส่งผ่านอินเทอร์เน็ตโดยไม่มีการเข้ารหัสสามารถมองเห็นได้โดยผู้คนอื่น ๆ ขณะอยู่ในระหว่างการขนส่ง
+security-technical-no-encryption-page = หน้าที่คุณกำลังดูไม่ได้ถูกเข้ารหัสก่อนที่จะถูกส่งผ่านอินเทอร์เน็ต
 security-technical-encrypted-page = หน้าที่คุณกำลังดูถูกเข้ารหัสก่อนที่จะถูกส่งผ่านอินเทอร์เน็ต
 security-technical-encrypted-description = การเข้ารหัสทำให้ผู้คนที่ไม่ได้รับอนุญาตดูข้อมูลที่เดินทางระหว่างคอมพิวเตอร์ได้ยาก ดังนั้นจึงไม่น่ามีใครก็ตามอ่านหน้านี้ในขณะที่หน้าเดินทางผ่านเครือข่าย
 security-technical-mixed-content-description = บางส่วนของหน้าที่คุณกำลังดูไม่ได้ถูกเข้ารหัสก่อนที่จะถูกส่งผ่านอินเทอร์เน็ต
@@ -126,6 +131,8 @@ security-site-data-no = ไม่
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = การเชื่อมต่อไม่ได้ถูกเข้ารหัส
 security-technical-mixed-content =
     .value = การเชื่อมต่อถูกเข้ารหัสบางส่วน
 
