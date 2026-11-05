@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Copy
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = Select All
     .accesskey = A
-
 general-tab =
     .label = General
     .accesskey = G
@@ -38,7 +35,6 @@ general-meta-name =
     .label = Name
 general-meta-content =
     .label = Content
-
 media-tab =
     .label = Media
     .accesskey = M
@@ -66,13 +62,11 @@ media-save-as =
 media-save-image-as =
     .label = Save As…
     .accesskey = e
-
 perm-tab =
     .label = Permissions
     .accesskey = P
 permissions-for =
     .value = Permissions for:
-
 security-tab =
     .label = Security
     .accesskey = S
@@ -91,25 +85,34 @@ security-view-identity-verifier =
     .value = Verified by:
 security-view-privacy =
     .value = Privacy & History
-
 security-view-privacy-history-value = Have I visited this website prior to today?
-
 security-view-privacy-passwords-value = Have I saved any passwords for this website?
-
 security-view-privacy-viewpasswords =
     .label = View Saved Passwords
     .accesskey = w
 security-view-technical =
     .value = Technical Details
-
 help-button =
     .label = Help
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = The website { $website } does not support encryption for the page you are viewing.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -131,7 +134,6 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Yes
 saved-passwords-no = No
-
 no-page-title =
     .value = Untitled Page:
 general-quirks-mode =
@@ -145,14 +147,12 @@ media-unknown-not-cached =
     .value = Unknown (not cached)
 permissions-use-default =
     .label = Use Default
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Image
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -162,14 +162,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
