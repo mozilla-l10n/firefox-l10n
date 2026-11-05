@@ -1199,6 +1199,8 @@ newtab-widget-lists-menu-edit = Rediģēt saraksta nosaukumu
 newtab-widget-lists-menu-edit2 =
     .aria-label = Rediģēt saraksta nosaukumu
 newtab-widget-lists-menu-create = Izveidot jaunu sarakstu
+newtab-widget-lists-menu-delete = Dzēst šo sarakstu
+newtab-widget-lists-menu-copy = Kopēt sarakstu starpliktuvē
 newtab-widget-lists-menu-learn-more = Uzzināt vairāk
 # "Change" is a verb here: the button switches which list is shown
 newtab-widget-lists-change-list =
@@ -1208,12 +1210,51 @@ newtab-widget-lists-button-add-item = Pievienot vienumu
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
     .placeholder = Pievienot vienumu
+newtab-widget-lists-input-error = Lūdzu, iekļaujiet tekstu, lai pievienotu vienumu.
+newtab-widget-lists-input-menu-open-link = Atvērt saiti
+newtab-widget-lists-input-menu-move-up = Pārvietot uz augšu
+newtab-widget-lists-input-menu-move-down = Pārvietot uz leju
+newtab-widget-lists-input-menu-delete = Dzēst
+newtab-widget-lists-input-menu-edit = Rediģēt
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Rediģēt vienumu
+newtab-widget-lists-edit-clear =
+    .aria-label = Atcelt
+    .title = Atcelt
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
 newtab-widget-lists-open-menu-button =
     .aria-label = Atvērt sarakstu izvēlni
     .title = Atvērt sarakstu izvēlni
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Izveidot jaunu sarakstu
+newtab-widget-lists-name-label-default =
+    .label = Uzdevumu saraksts
+newtab-widget-lists-name-label-checklist =
+    .label = Kontrolsaraksts
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Uzdevumu saraksts
+newtab-widget-lists-name-placeholder-checklist2 =
+    .aria-label = Rediģēt saraksta nosaukumu
+    .placeholder = Kontrolsaraksts
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .aria-label = Rediģēt saraksta nosaukumu
+    .placeholder = Jauns saraksts
+newtab-widget-section-title = Logrīki
+newtab-widget-menu-hide = Slēpt logrīku
+newtab-widget-menu-change-size = Mainīt izmēru
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Pārvietot
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Kreisā
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Pa labi
 # Shown on the widgets section header button while the section is
 # auto-minimized to its title row, to open the section back up.
 newtab-widget-section-show-widgets =
@@ -1245,12 +1286,94 @@ newtab-crossword-widget-open-menu-button =
 # crossword. “Particle” is a brand name and should not be translated.
 newtab-crossword-menu-powered-by-particle = Darbina Particle
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Tava atpūta ir beigusies
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Vai nepieciešams pārtraukums?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Gatavs koncentrēties?
+
 ##
 
+newtab-sports-widget-menu-follow-teams = Sekot komandām
+newtab-sports-widget-menu-view-schedule = Skatīt grafiku
+newtab-sports-widget-menu-view-upcoming = Skatīt gaidāmos
+newtab-sports-widget-menu-view-results = Skatīt rezultātus
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Svarīgi datumi
 newtab-sports-widget-menu-learn-more = Uzzināt vairāk
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Sekojiet līdzi Pasaules kausa notikumiem
+newtab-sports-widget-get-updates = Saņemiet tiešraides spēļu atjauninājumus un daudz ko citu.
+newtab-sports-widget-follow-teams =
+    .label = Sekot komandām
+newtab-sports-widget-view-matches =
+    .label = Skatīt spēles
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [zero] Sekot līdzi { $number } komandām
+        [one] Sekot līdzi { $number } komandai
+       *[other] Sekot līdzi { $number } komandām
+    }
+newtab-sports-widget-choose-wallpaper =
+    .label = Izvēlieties fonu
+newtab-sports-widget-skip = Izlaist
 newtab-sports-widget-search-country =
     .aria-label = Meklēt valsti
     .placeholder = Meklēt valsti
+newtab-sports-widget-cancel = Atcelt
+newtab-sports-widget-back-button =
+    .aria-label = Atpakaļ
+newtab-sports-widget-done-button =
+    .label = Gatavs
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (izslēgts)
+newtab-sports-widget-view-all =
+    .label = Skatīt visu
+newtab-sports-widget-show-less =
+    .label = Rādīt mazāk
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Tikai komandas, kurām sekojat
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Uzraudzīt
+    .title = Skatīties tiešraidē
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Skatīties tiešraidē
+    .title = Skatīties tiešraidē
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Aizvērt
+    .title = Aizvērt
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Bezmaksas
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Bezmaksas izmēģinājums
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Bezmaksas un maksas
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Maksas
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Tikai atlasītās spēles
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Pieejams jūsu reģionā
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Citi reģioni
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Atvērt straumi
+    .title = Atvērt straumi
+newtab-sports-widget-group-stage = Grupu posms
+newtab-sports-widget-group-a = A grupa
+newtab-sports-widget-group-b = B grupa
+newtab-sports-widget-group-c = C grupa
 newtab-sports-widget-results = Iznākums
 
 ## World Cup wallpaper OMC messages

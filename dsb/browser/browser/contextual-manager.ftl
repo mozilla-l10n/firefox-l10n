@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Z drugego wobglědowa
 contextual-manager-passwords-command-import = Z dataje importěrowaś…
 contextual-manager-passwords-command-export = Gronidła eksportěrowaś
 contextual-manager-passwords-command-remove-all = Wšykne gronidła wótwónoźeś
+contextual-manager-passwords-command-delete-all = Wšykne gronidła lašowaś
 contextual-manager-passwords-command-options = Nastajenja
 contextual-manager-passwords-command-help = Pomoc
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -106,6 +107,15 @@ contextual-manager-passwords-remove-all-title =
         [few] { $total } gronidła wótwónoźeś?
        *[other] Wšykne { $total } gronidłow wótwónoźeś?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } gronidło lašowaś?
+        [two] { $total } gronidle lašowaś?
+        [few] { $total } gronidła lašowaś?
+       *[other] { $total } gronidłow lašowaś?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -125,6 +135,16 @@ contextual-manager-passwords-remove-all-confirm-button =
         [two] Wše wótwónoźeś
         [few] Wše wótwónoźeś
        *[other] Wše wótwónoźeś
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Lašowaś
+        [one] Lašowaś
+        [two] Wobej lašowaś
+        [few] Wšykne lašowaś
+       *[other] Wšykne lašowaś
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
