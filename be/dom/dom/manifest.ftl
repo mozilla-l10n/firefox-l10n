@@ -7,6 +7,30 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Удзельніка id не ўдалося развязаць у дзейсны URL.
+dom-manifest-id-not-same-origin = Удзельнік id павінен мець тое ж паходжанне, што і ўдзельнік start_url.
+dom-manifest-should-be-object = Маніфест мусіць быць аб'ектам.
+dom-manifest-scope-url-invalid = Абсяг бачнасці URL недапушчальны.
+dom-manifest-scope-not-same-origin = Абсяг бачнасці URL мусіць мець адно паходжанне з дакументам.
+dom-manifest-start-url-outside-scope = Стартавы URL па-за межамі абсягу бачнасці, таму абсяг недапушчальны.
+dom-manifest-start-url-invalid = Стартавы URL недапушчальны.
+dom-manifest-start-url-should-be-same-origin = Стартавы URL мусіць мець адно паходжанне з дакументам.
+# Variables:
+#   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
+#   $property (String) - The name of the invalid property, e.g. "start_url".
+#   $expectedType (String) - The expected type of the property value, e.g. "string".
+# Example: "Expected the manifest’s start_url member to be a string."
+dom-manifest-invalid-type = Чаканы член { $property } аб'екта { $objectName } мусіць быць { $expectedType }.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
+#   $value (String) - The invalid value of the property.
+# Example: "theme_color: 42 is not a valid CSS color."
+dom-manifest-invalid-css-color = { $property }: { $value } не дапушчальны колер CSS.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "lang".
+#   $value (String) - The invalid value of the property.
+# Example: "lang: 42 is not a valid language code."
+dom-manifest-lang-is-invalid = { $property }: { $value } не дапушчальны код мовы.
 # Variables:
 #   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
 #   $index (Number) - The index of the image object that is invalid, starting from 0.
