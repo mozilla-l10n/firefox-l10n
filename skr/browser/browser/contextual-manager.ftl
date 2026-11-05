@@ -120,6 +120,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] ہٹاؤ
        *[other] سارے ہٹاؤ
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] مٹاؤ
+        [one] مٹاؤ
+       *[other] تمام مٹاؤ
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -185,6 +193,8 @@ contextual-manager-passwords-remove-login-card-message = تساں ایں کوں 
 contextual-manager-passwords-remove-login-card-back-message = پچھوں
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = ہٹاؤ
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = مٹاؤ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = منسوخ
 contextual-manager-passwords-alert-card =

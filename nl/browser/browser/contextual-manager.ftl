@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importeren vanuit een
 contextual-manager-passwords-command-import = Uit een bestand importeren…
 contextual-manager-passwords-command-export = Wachtwoorden exporteren
 contextual-manager-passwords-command-remove-all = Alle wachtwoorden verwijderen
+contextual-manager-passwords-command-delete-all = Alle wachtwoorden verwijderen
 contextual-manager-passwords-command-options = Opties
 contextual-manager-passwords-command-help = Help
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Wachtwoord verwijderen?
        *[other] Alle { $total } wachtwoorden verwijderen?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } wachtwoord verwijderen?
+       *[other] { $total } wachtwoorden verwijderen?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -120,6 +128,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Verwijderen
        *[other] Alle verwijderen
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Verwijderen
+       *[other] Alles verwijderen
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -135,6 +150,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Dit verwijdert het wachtwoord dat is opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
         [one] Dit verwijdert het wachtwoord dat is opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert alle wachtwoorden die zijn opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Dit verwijdert het uit { -brand-short-name } op elk apparaat dat uw wachtwoorden synchroniseert. U kunt dit niet ongedaan maken.
+       *[other] Dit verwijdert ze van { -brand-short-name } op elk apparaat dat uw wachtwoorden synchroniseert. U kunt dit niet ongedaan maken.
     }
 contextual-manager-passwords-origin-label = Website
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -179,12 +201,16 @@ contextual-manager-passwords-radiobutton-all = Alle ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Waarschuwingen ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Wachtwoord verwijderen?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Wachtwoord verwijderen?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = U kunt dit niet ongedaan maken.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Terug
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Verwijderen
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Verwijderen
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annuleren
 contextual-manager-passwords-alert-card =
@@ -215,6 +241,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Wachtwoord bijwerken
 contextual-manager-passwords-remove-label =
+    .title = Wachtwoord verwijderen
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Wachtwoord verwijderen
 contextual-manager-passwords-origin-field =
     .label = Websiteadres
@@ -330,6 +359,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Ja, wachtwoord verwijderen
         [one] Ja, wachtwoord verwijderen
+       *[other] Ja, wachtwoorden verwijderen
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Ja, wachtwoord verwijderen
        *[other] Ja, wachtwoorden verwijderen
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.

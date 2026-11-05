@@ -39,6 +39,14 @@ download-ui-cancel-downloads-ok =
         [1] 1 download annuleren
        *[other] { $downloadsCount } downloads annuleren
     }
+download-ui-confirm-cancel-button = Annuleren
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } afsluiten
+       *[other] { -brand-short-name } afsluiten
+    }
+download-ui-confirm-offline-button = Offline gaan
+download-ui-confirm-private-browsing-button = Venster sluiten
 
 ##
 

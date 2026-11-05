@@ -638,3 +638,11 @@ welcome-back-onboarding-card-label-tabs = Ruim op met verticale tabbladen en gro
 welcome-back-onboarding-card-label-vpn = Blijf anoniem met de ingebouwde VPN
 welcome-back-onboarding-card-label-pdf = Markeer, onderteken en werk met PDF’s
 welcome-back-onboarding-card-tilebutton-label = Uitproberen
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Uw gegevens importeren
+hnt-card-default-primary-button = Koppelingen openen met { -brand-short-name }
+hnt-card-wallpaper-primary-button = Beginnen met aanpassen
+hnt-card-taskbar-tabs-primary-button = Websites aan taakbalk toevoegen
+hnt-card-extensions-primary-button = Verkennen

@@ -65,3 +65,17 @@ extension-classic-blue-name = Blauw
 extension-classic-cyan-name = Cyaan
 # Name for a violet theme.
 extension-classic-violet-name = Lila
+# Name for a green theme.
+extension-classic-green-name = Groen
+# Name for a purple theme.
+extension-classic-purple-name = Paars
+# Name for a pink theme.
+extension-classic-pink-name = Roze
+# Name for a yellow theme.
+extension-classic-yellow-name = Geel
+# Name for a red theme.
+extension-classic-red-name = Rood
+# Name for an orange theme.
+extension-classic-orange-name = Oranje
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = OLED-zwart

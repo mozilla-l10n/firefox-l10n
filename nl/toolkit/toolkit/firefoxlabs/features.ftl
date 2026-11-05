@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Tabbladnotities zijn een experimen
 experimental-features-tab-context-menu =
     .label = Gestroomlijnd tabbladmenu
 experimental-features-tab-context-menu-description = Zie een eenvoudiger contextmenu wanneer u met de rechtermuisknop op een tabblad klikt. Het is ontworpen om veelgebruikte acties beter vindbaar te maken. <a data-l10n-name="connect">Feedback delen</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Bronnenmonitor

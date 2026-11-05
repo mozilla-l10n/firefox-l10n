@@ -89,6 +89,7 @@ about-logins-intro-import3 = ہُݨیں پاس ورڈ رلاوݨ کِیتے اُ
 about-logins-login-item-new-login-title = پاس ورڈ شامل کرو
 login-item-edit-button = تبدیلی کرو
 about-logins-login-item-remove-button = ہٹاؤ
+about-logins-login-item-delete-button = مٹاؤ
 login-item-origin-label = ویب سائٹ پتہ
 about-logins-origin-tooltip2 = پورا پتہ درج کرو اَتے یقینی بݨاؤ جو اِیہ تُہاݙے سائن اِن کرݨ دے اَصلُوں مطابق ہِے۔
 # Variables
@@ -174,9 +175,13 @@ confirmation-dialog-dismiss-button =
     .title = منسوخ
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = پاس ورڈ ہٹاؤں؟
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = پاسورڈ مٹاؤ؟
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = تساں ایہ عمل واپس نہوے کر سڳدے۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = مٹاؤ
 
 ## Variables
 ##   $count (number) - Number of items
@@ -186,6 +191,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] ہٹاؤ
         [one] ہٹاؤ
        *[other] سارے ہٹاؤ
+    }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] مٹاؤ
+        [one] مٹاؤ
+       *[other] سارے مٹاؤ
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
