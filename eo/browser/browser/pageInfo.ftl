@@ -110,6 +110,11 @@ security-view-technical =
     .value = Teknikaj detaloj
 help-button =
     .label = Helpo
+security-technical-encrypted-page = La paĝo, kiun vi vidas, estis ĉifrita antaŭ ol esti rete sendita.
+security-technical-encrypted-description = Ĉifrado igas malfacila la rigardon de informoj kiuj vojaĝas inter komputiloj. Pro tio, ne estas probable ke iu estu leginta tiun ĉi paĝon dum ĝi vojaĝis tra la reto.
+security-technical-mixed-content-description = Partoj de la paĝo, kiun vi vidas, ne estis ĉifritaj antaŭ ol esti senditaj al la reto.
+security-technical-weak-cipher = La konekto al tiu ĉi retejo uzas malfortan ĉifradon kaj ne estas privata. Aliaj povus vidi vian informon aŭ modifi la konduton de la retejo.
+security-technical-ct-compliant = La retejo konformas al la politiko de travideblo de atestiloj.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Jes, kuketojn kaj { $value } { $unit } da retejaj d
 security-site-data-only = Jes, { $value } { $unit } da retejaj datumoj
 security-site-data-cookies-only = Jes, kuketojn
 security-site-data-no = Ne
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Parte ĉifrita konekto
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Ĉifrita konekto ({ $algorithm }, ŝlosiloj de { $keySize } bitoj, { $protocol })
+security-technical-broken-encryption =
+    .value = Rompita ĉifrado ({ $algorithm }, ŝlosiloj de { $keySize } bitoj, { $protocol })
 
 ##
 

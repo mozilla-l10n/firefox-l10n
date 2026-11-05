@@ -14,6 +14,8 @@ change-password-token = Sekureca aparato: { $tokenName }
 change-password-old = Nuna pasvorto:
 change-password-new = Nova pasvorto:
 change-password-reenter = Nova pasvorto (denove):
+change-password-not-set =
+    .value = (ne difinita)
 pippki-failed-pw-change = Ne eblas ŝanĝi la ĉefan pasvorton.
 pippki-incorrect-pw = Vi ne tajpis la ĝustan (nunan) ĉefan pasvorton. Bonvolu klopodi denove.
 pippki-pw-change-ok = Ĉefa pasvorto sukcese ŝanĝita.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Pasvorto por atestila sekurkopio (denove):
 set-password-reminder = Grava rimarko: Se vi forgesas la pasvorton  de via atestila sekurkopio vi ne povos uzi la sekurkopion poste. Bonvolu registri la pasvorton en sekura loko.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
