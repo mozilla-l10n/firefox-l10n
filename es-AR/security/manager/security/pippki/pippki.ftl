@@ -14,6 +14,8 @@ change-password-token = Dispositivo de seguridad: { $tokenName }
 change-password-old = Contraseña actual:
 change-password-new = Contraseña nueva:
 change-password-reenter = Contraseña nueva (de nuevo):
+change-password-not-set =
+    .value = (no establecida)
 pippki-failed-pw-change = No se puede cambiar la contraseña.
 pippki-incorrect-pw = No introdujo la actual contraseña maestra correctamente. Vuelva a intentarlo.
 pippki-pw-change-ok = Contraseña cambiada correctamente.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contraseña de resguardo del certificado (de nuevo):
 set-password-reminder = Importante: Si olvida su contraseña de resguardo del certificado, no podrá restaurar el backup posteriormente.  Guárdela en un lugar seguro.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
