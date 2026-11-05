@@ -96,6 +96,7 @@ security-view-technical =
     .value = Iinkcukacha zobuchwepheshe
 help-button =
     .label = Uncedo
+security-technical-no-encryption-transit = Ulwazi oluthunyelwe ngeintanethi ngaphandle kokugqunywa lunokubonwa ngabanye abantu xa lusendleleni.
 security-technical-encrypted-page = Ikhasi olijongileyo belunoguqulelo oluntsonkothileyo phambi kokuthuthelwa Kunxibelelwano.
 security-technical-encrypted-description = Ukukhowuda kwenza kube nzima kubantu abangagunyaziswanga ukujonga ulwazi xa behamba phakathi kweekhompyutha. Ngoko ke akunakwenzeka kungabikho mntu ofunda eli khasi njengoko belihamba phakathi komsebenzi wenethwekhi.
 security-technical-mixed-content-description = Iinxalenye zekhasi olijongileyo bezingenaluguqulelo luntsonkothileyo phambi kokuba zithuthelwe Kunxibelelwano.
@@ -110,6 +111,8 @@ security-technical-weak-cipher = Uqhagamshelo lwakho kule webhsayithi lusebenzis
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Umdibaniso Awunanguqulelo Entsonkothileyo
 security-technical-mixed-content =
     .value = Umdibaniso Unoguqulelo Oluntsonkothileyo Olungaphelelanga
 

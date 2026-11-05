@@ -23,6 +23,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Kuthotywa Umthwalo Wesatifikethi
 download-cert-message = Ucelwe ukuba uthembe Ugunyaziwe Wesatifikethi omtsha (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ingaba ufuna ukuthemba i- "{ $caName }" ngezizathu ezilandelayo?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Ugunyaziwe Wesatifikethi (akanagama)
 download-cert-trust-email =
     .label = Themba le-CA ukuchonga abasebenzisi bemeyile.
 download-cert-message-desc = Phambi kokuyithemba le-CA ngaso nasiphi isizathu, kufuneka uqale uhlole isatifikethi sayo nomgaqonkqubo kunye neendlela zokuqhuba (ukuba zikhona).
@@ -48,6 +53,7 @@ set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Nceda ngenisa iphaswedi ebisetyenziselwa uguqulelo oluntsonkothileyo ngekopi egcinwayo yesi satifikethi:
 
 ## Protected authentication dialog
 
