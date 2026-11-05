@@ -111,6 +111,10 @@ security-view-technical =
     .value = 技術情報
 help-button =
     .label = ヘルプ
+security-technical-encrypted-page = 表示中のページはインターネット上に送信される前に暗号化されています。
+security-technical-encrypted-description = 暗号化によってコンピューター間の通信の傍受は困難になり、このページをネットワークで転送中に誰かにその内容をのぞき見られる可能性は低くなります。
+security-technical-mixed-content-description = 表示しているページの一部はインターネットに転送される前に暗号化されていません。
+security-technical-weak-cipher = このウェブサイトへの接続に使用されている暗号は強度が弱くプライベートではありません。他者があなたの情報を見たりウェブサイトの動作を変更できます。
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -122,6 +126,21 @@ security-site-data-cookies = はい、Cookie と { $value } { $unit } のサイ�
 security-site-data-only = はい、{ $value } { $unit } のサイトデータ
 security-site-data-cookies-only = はい、Cookie のみ
 security-site-data-no = いいえ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = 一部の接続だけが暗号化されています
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = 接続が暗号化されています ({ $algorithm }、鍵長 { $keySize } bit、{ $protocol })
+security-technical-broken-encryption =
+    .value = 脆弱な暗号化 ({ $algorithm }、鍵長 { $keySize } bit、{ $protocol })
 
 ##
 
