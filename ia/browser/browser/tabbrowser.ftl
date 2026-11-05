@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Redimensionar schedas de visualisation scisse
 tab-devtools-splitter =
     .aria-label = Redimensionar pannello de utensiles de disveloppator
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Adder schedas a gruppo
+    .accesskey = g
 
 ## Tooltips for tab audio control
 ## Variables:

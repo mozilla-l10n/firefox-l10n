@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Бет түсіндірмелер�
 experimental-features-tab-context-menu =
     .label = Оңтайландырылған беттер мәзірі
 experimental-features-tab-context-menu-description = Бетті оң жақпен шерткен кезде қарапайымдау контекстік мәзірді көріңіз. Ол жалпы әрекеттерді табуды жеңілдету үшін жасалған. <a data-l10n-name="connect">Пікір қалдыру</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Ресурстарды бақылаушысы
+experimental-features-resource-monitor-description = Ашық беттеріңіз үшін жады мен процессордың болжамды пайдаланылуын бүйірлік панельден қараңыз және ресурстарды босату үшін пайдаланбайтын беттерді босатыңыз. <a data-l10n-name="connect">Пікір қалдыру</a>

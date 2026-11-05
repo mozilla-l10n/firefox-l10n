@@ -219,6 +219,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Бөлінген көріністі жылжыту
     .accesskey = р
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Беттерді қайда жылжыту
+    .accesskey = л
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

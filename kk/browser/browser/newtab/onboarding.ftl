@@ -654,9 +654,13 @@ hnt-card-pin-body =
        *[other] Тапсырмалар панелінен қорғалған шолуға қайта өтіңіз.
     }
 hnt-card-mobile-header = Телефоныңызға кірістірілген қорғауды алыңыз
+hnt-card-mobile-body = Жол жүргенде қосымша жекелік үшін мобильді { -brand-product-name } жүктеп алыңыз.
+hnt-card-mobile-primary-button = Мобильді құрылғыларға арналған { -brand-product-name } алу.
 hnt-card-wallpaper-header = Жаңа тұсқағаз таңдаңыз
 hnt-card-wallpaper-body = Өзіңізге ұнайтын фонмен осы экранды үйіңіздей жайлы етіңіз.
 hnt-card-wallpaper-primary-button = Баптауды бастау
+hnt-card-taskbar-tabs-header = Таңдаулы сайттарыңызды Windows тапсырмалар панеліне қосыңыз
+hnt-card-taskbar-tabs-body = Ең жиі кіретін сайттарыңызды { -brand-product-name } ұсынатын барлық қорғаумен, қолданба сияқты ашыңыз.
 hnt-card-taskbar-tabs-primary-button = Тапсырмалар панеліне сайттарды қосу
 hnt-card-extensions-header = { -brand-short-name } мүмкіндіктерін кеңейтулермен арттырыңыз
 hnt-card-extensions-body = Шолуыңызды ең сүйікті кеңейтулерімізбен баптаңыз.

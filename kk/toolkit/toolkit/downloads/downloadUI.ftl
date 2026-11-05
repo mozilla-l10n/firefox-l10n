@@ -39,6 +39,44 @@ download-ui-cancel-downloads-ok =
         [1] Бір жүктелуді болдырмау
        *[other] Бірнеше ({ $downloadsCount }) жүктелуді болдырмау
     }
+download-ui-confirm-cancel-button = Бас тарту
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 1 жүктеуді тоқтатып, { -brand-short-name } жұмысын аяқтау керек пе?
+               *[other] { $downloadsCount } жүктеуді тоқтатып, { -brand-short-name } жұмысын аяқтау керек пе?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 1 жүктеуді тоқтатып, { -brand-short-name } ішінен шығу керек пе?
+               *[other] { $downloadsCount } жүктеуді тоқтатып, { -brand-short-name } ішінен шығу керек пе?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } қайта ашылған кезде жүктеулерді жалғастыруға тырысады, бірақ орындалу барысы жоғалуы мүмкін.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } жұмысын аяқтау
+       *[other] { -brand-short-name } жұмысын аяқтау
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] 1 жүктемені тоқтатып, желіден тыс режимге өту керек пе?
+       *[other] { $downloadsCount } жүктемені тоқтатып, желіден тыс режимге өту керек пе?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } сіз желіге қайта қосылған кезде жүктеулерді жалғастыруға тырысады, бірақ орындалу барысы жоғалуы мүмкін.
+download-ui-confirm-offline-button = Желіден тыс режиміне өту
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 1 жүктемені тоқтатып, бұл Жекелік режимі терезесін жабу керек пе?
+       *[other] { $downloadsCount } жүктемені тоқтатып, бұл Жекелік режимі терезесін жабу керек пе?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Бұл жүктеуді жалғастыра алмайтын боласыз.
+       *[other] Бұл жүктеулерді жалғастыра алмайтын боласыз.
+    }
+download-ui-confirm-private-browsing-button = Терезені жабу
 
 ##
 
