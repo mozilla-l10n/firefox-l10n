@@ -93,6 +93,9 @@ help-button =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = वेबसायट { $website } तुमी पळयतात त्या पानाखातीरच्या एनक्रिप्शनाक फाटबळ दिना.
+security-technical-no-encryption-transit = एनक्रिप्शनाबगर इंटरनेटावेल्यान धाडिल्ली माहिती हेर लोक ती वाटेंत आसतना पळोवपाक शकतात.
+security-technical-encrypted-page = तुमी पळयतात ते पान इंटरनेटावेल्यान धाडचेपयली एनक्रिप्टेड केल्ले.
+security-technical-encrypted-description = एनक्रिप्शन अनधिकृत मनशांक संगणकांमजगती प्रवास करपी माहिती पळोवपाक अशक्य करता. ताकालागून नेटवर्कावेल्यान प्रवास करता आस्तना हे पान कोणी वाचपाची शक्यता कमी आसा.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -105,12 +108,16 @@ security-technical-no-encryption-website = वेबसायट { $website } �
 
 security-technical-no-encryption =
     .value = जोडणी एनक्रिप्टेड ना
+security-technical-mixed-content =
+    .value = जोडणी काय  प्रमाणांत एनक्रिप्टेड
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
 ##   $keySize (number) - The size of the encryption key in bits
 ##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
 
+security-technical-encrypted =
+    .value = जोडणी एनक्रिप्टेड ({ $algorithm }, { $keySize } बीट कीज, { $protocol })
 
 ##
 

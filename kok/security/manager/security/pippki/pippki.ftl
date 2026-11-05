@@ -12,6 +12,8 @@ change-password-token = सुरक्षा उपकरण: { $tokenName }
 change-password-old = सद्याचो गुप्तशब्द:
 change-password-new = नवो गुप्तशब्द :
 change-password-reenter = नवो गुप्तशब्द (परतून):
+change-password-not-set =
+    .value = (थारोंवक ना)
 
 ## Reset Primary Password dialog
 
