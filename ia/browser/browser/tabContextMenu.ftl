@@ -155,7 +155,7 @@ tab-context-close-duplicate-tabs2 =
     .label = Clauder duplicatos de iste scheda
     .accesskey = d
 tab-context-share-url =
-    .label = Compartir
+    .label = Condivider
     .accesskey = o
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
