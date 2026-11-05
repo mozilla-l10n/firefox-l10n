@@ -14,6 +14,8 @@ change-password-token = Kryptographie-Modul: { $tokenName }
 change-password-old = Aktuelles Passwort:
 change-password-new = Neues Passwort:
 change-password-reenter = Neues Passwort (nochmals):
+change-password-not-set =
+    .value = (nicht gesetzt)
 pippki-failed-pw-change = Passwort konnte nicht geändert werden.
 pippki-incorrect-pw = Sie haben nicht das richtige aktuelle Passwort eingegeben. Bitte versuchen Sie es erneut.
 pippki-pw-change-ok = Passwort erfolgreich geändert.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Zertifikats-Backup-Passwort (nochmals):
 set-password-reminder = Wichtig: Wenn Sie Ihr Zertifikats-Backup-Passwort vergessen, können Sie dieses Backup später nicht wiederherstellen. Bitte schreiben Sie es an einem sicheren Platz nieder.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
