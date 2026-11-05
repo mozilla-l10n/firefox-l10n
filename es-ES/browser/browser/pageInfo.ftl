@@ -110,6 +110,15 @@ security-view-technical =
     .value = Detalles técnicos
 help-button =
     .label = Ayuda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = El sitio web { $website } no admite cifrado para la página que está viendo.
+security-technical-no-encryption-page = La página que está viendo no fue cifrada antes de transmitirse por Internet.
+security-technical-encrypted-page = La página que está viendo fue cifrada antes de transmitirse por Internet.
+security-technical-encrypted-description = El cifrado dificulta que personas no autorizadas vean la información que viaja entre sistemas. Es, por tanto, improbable que nadie lea esta página mientras viajó por la red.
+security-technical-mixed-content-description = Parte de la página que está viendo no estaba cifrada antes de ser transmitida por Internet.
+security-technical-weak-cipher = Su conexión a este sitio web usa cifrado débil y no es privado. Otras personas pueden ver su información o modificar el comportamiento del sitio web.
+security-technical-ct-compliant = Este sitio web cumple con la directiva de transparencia de certificados.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +130,23 @@ security-site-data-cookies = Sí, cookies y { $value } { $unit } de datos del si
 security-site-data-only = Sí, { $value } { $unit } de datos del sitio
 security-site-data-cookies-only = Sí, cookies
 security-site-data-no = No
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Conexión sin cifrar
+security-technical-mixed-content =
+    .value = Conexión parcialmente cifrada
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Conexión cifrada ({ $algorithm }, claves de { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Cifrado estropeado ({ $algorithm }, claves de { $keySize } bits, { $protocol })
 
 ##
 
