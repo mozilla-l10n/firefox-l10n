@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Sie können Ihre Tab-Gruppen jed
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Öffnen Sie Ihre Tab-Gruppen jederzeit aus dem Menü "Alle Tabs auflisten" wieder.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Tab-Gruppen werden automatisch gespeichert. Sie finden sie hier.
 
 ## Multi Profiles feature onboarding messages
 
@@ -638,3 +640,29 @@ welcome-back-onboarding-card-label-tabs = Aufräumen mit vertikalen Tabs und Gru
 welcome-back-onboarding-card-label-vpn = Mit integriertem VPN unsichtbar bleiben
 welcome-back-onboarding-card-label-pdf = PDFs hervorheben, signieren und damit arbeiten
 welcome-back-onboarding-card-tilebutton-label = Ausprobieren
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = { -brand-short-name } in Sekundenschnelle einrichten
+hnt-card-import-body = Importieren Sie Lesezeichen, Passwörter und mehr aus einem anderen Browser.
+hnt-card-import-primary-button = Eigene Daten importieren
+hnt-card-default-body = { -brand-product-name } ist der einzige große Browser, der Sie schützen soll, statt Sie zu verfolgen.
+hnt-card-default-primary-button = Links mit { -brand-short-name } öffnen
+hnt-card-pin-header = { -brand-short-name } immer griffbereit
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Kehren Sie über das Dock zum geschützten Surfen zurück.
+       *[other] Kehren Sie über die Taskleiste zum geschützten Surfen zurück.
+    }
+hnt-card-mobile-header = Integrierter Schutz für Ihr Smartphone
+hnt-card-mobile-body = Laden Sie { -brand-product-name } für Mobilgeräte herunter, für mehr Privatsphäre unterwegs.
+hnt-card-mobile-primary-button = { -brand-product-name } fürs Smartphone holen.
+hnt-card-wallpaper-header = Neues Hintergrundbild auswählen
+hnt-card-wallpaper-body = Mit Ihrem Lieblingshintergrund wird dieser Bildschirm zu Ihrer Startseite.
+hnt-card-wallpaper-primary-button = Beginnen Sie mit den Anpassungen
+hnt-card-taskbar-tabs-header = Lieblingswebsites an die Windows-Taskleiste anheften
+hnt-card-taskbar-tabs-body = Öffnen Sie Ihre meistbesuchten Websites wie eine App – mit dem umfassenden Schutz von { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Websites zur Taskleiste hinzufügen
+hnt-card-extensions-header = Mit Erweiterungen mehr aus { -brand-short-name } herausholen
+hnt-card-extensions-body = Passen Sie Ihr Surfen mit unseren beliebtesten Erweiterungen an.
+hnt-card-extensions-primary-button = Entdecken
