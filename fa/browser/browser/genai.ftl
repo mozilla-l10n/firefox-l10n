@@ -82,15 +82,35 @@ genai-shortcut-more-actions-button =
     .tooltiptext = گزینه‌های بیشتر
 genai-more-actions-panel =
     .aria-label = انتخاب کنش‌هایی که نمایش داده شوند
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = پرسش از { $provider }
+genai-more-actions-ai-generic =
+    .label = پرسش از هوش مصنوعی
+genai-more-actions-search =
+    .label = جست‌وجو
+genai-more-actions-copy =
+    .label = رونوشت
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = وقتی متنی را انتخاب کنید، این منو را نمی‌بینید. برای نمایش دوبارهٔ آن به تنظیمات <span data-l10n-name="chevron"></span> زبانه‌ها و مرور بروید.
+genai-more-actions-manage-settings =
+    .label = مدیریت تنظیمات
+genai-selection-callout-title = برای انتخاب یک کنش، متن را برجسته کنید
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = هنگام انتخاب متن، جست‌وجو یا رونوشت کنید. با منوی <span data-l10n-name="more-actions">•••</span> انتخاب کنید کدام کنش‌ها نمایش داده شوند.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = پرسش از { $provider }
 genai-menu-new-badge = جدید
 genai-menu-summarize-page = خلاصه‌سازی صفحه
+genai-menu-summarize-with-ai = خلاصه‌سازی با هوش مصنوعی
 genai-input-ask-smart-window =
     .placeholder = بپرسید…
 genai-input-ask-generic =
     .placeholder = از چت‌بات هوشواره بپرسید…
+genai-input-ask-ai =
+    .placeholder = پرسش از هوش مصنوعی…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = از { $provider } بپرسید…
@@ -182,6 +202,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = استفاده از چت‌بات هوشواره بدون نیاز به تغییر زبانه
@@ -248,6 +270,16 @@ highlight-to-search-settings-ask-provider =
     .label = پرسیدن از { $provider }
 highlight-to-search-settings-ask-generic =
     .label = پرسیدن از هوش مصنوعی
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = جست‌وجو
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = رونوشت
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = مشاهدهٔ اطلاعات بیشتر به کمک هوشواره؟
 # Message that appears when user is shown the opt-in flow for link previews

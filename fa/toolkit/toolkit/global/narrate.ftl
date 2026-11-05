@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = بلندخوانی
+narrate-rate-input =
+    .aria-label = سرعت خوانش را از ‎-100 تا 100 انتخاب کنید؛ 0 سرعت پیش‌گزیده است.
+    .title = سرعت
 narrate-rate-slow =
     .title = کند کردن خوانش
 narrate-rate-fast =

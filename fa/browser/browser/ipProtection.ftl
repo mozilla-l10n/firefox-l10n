@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = معرفی VPN، اکنون درست �
 ipprotection-feature-introduction-title-1 = ‏VPN داخلی { -brand-product-name } را امتحان کنید
 ipprotection-feature-introduction-link-text-2 = از <a data-l10n-name="learn-more-vpn">VPN داخلی</a> جدید ما برای پنهان کردن موقعیت مکانی و محافظت از داده‌های خود استفاده کنید.
 ipprotection-feature-introduction-title-privacy = افزودن لایهٔ دیگری از حریم‌خصوصی
+ipprotection-feature-introduction-title-privacy-1 = با VPN داخلی، لایهٔ دیگری از حریم خصوصی اضافه کنید
 ipprotection-feature-introduction-link-text-privacy-1 = ‏<a data-l10n-name="learn-more-vpn">VPN داخلی { -brand-product-name }</a> به محافظت از وب‌گردی شما کمک می‌کند. از میان چندین موقعیت مکانی انتخاب کنید تا مکان وب‌گردی‌تان خصوصی‌تر بماند.
 ipprotection-feature-introduction-link-text-privacy-3 = با انتخاب از میان چندین موقعیت مکانی، <a data-l10n-name="learn-more-vpn">حریم‌خصوصی بیشتری</a> برای پنهان کردن مکان وب‌گردی خود داشته باشید.
 # Used for multiple discovery callouts after release of the site inclusions feature
@@ -36,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = برنامه‌ای بر�
 ipprotection-feature-introduction-description-summer-promo = با VPN داخلی { -brand-product-name } فراتر بروید: موقعیت‌های مکانی بیشتر و پهنای باند نامحدود. مهلت تا ۳۱ اوت.
 ipprotection-feature-introduction-link-text-private-browsing-2 = از <a data-l10n-name="learn-more-vpn">VPN داخلی</a> جدید ما برای پنهان کردن موقعیت مکانی و حفاظت از داده‌ها، حتی در پنجرهٔ ناشناس، استفاده کنید.
 ipprotection-feature-introduction-description-private-browsing = حتی در پنجرهٔ ناشناس، با پنهان کردن موقعیت مکانی خود با امنیت بیشتری وب‌گردی کنید.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = هنگام مرور، موقعیت مکانی‌تان را پنهان‌تر نگه دارید. قانون بگذارید تا VPN هر وقت <a data-l10n-name="learn-more-vpn">حریم خصوصی بیشتر</a> یا مرور بر اساس موقعیت مکانی می‌خواهید روشن شود و هر وقت نمی‌خواهید خاموش شود.
 ipprotection-feature-introduction-title-captive-portal = به Wi-Fi عمومی متصل هستید؟ VPN داخلی { -brand-product-name } را امتحان کنید.
 ipprotection-feature-introduction-description-captive-portal = حتی روی Wi-Fi عمومی، با پنهان کردن موقعیت مکانی با محافظت بیشتری وب‌گردی کنید.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -111,14 +114,18 @@ ipprotection-android-promo-callout-primary-button = متوجه شدم
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = قاعده‌های VPN داخلی را تنظیم کنید و به مرور ادامه دهید
 ipprotection-site-inclusions-callout-title-lapsed-users = VPN داخلی را امتحان کنید؛ حالا سایت به سایت
+ipprotection-site-inclusions-callout-description-1 = هر وقت حریم خصوصی بیشتر یا مرور بر اساس موقعیت مکانی می‌خواهید VPN را روشن کنید و جایی که نمی‌خواهید خاموش کنید.
+ipprotection-site-inclusions-callout-description-lapsed-users = قانون بگذارید تا VPN هر وقت حریم خصوصی بیشتر یا مرور بر اساس موقعیت مکانی می‌خواهید روشن شود و هر وقت نمی‌خواهید خاموش شود.
 ipprotection-site-inclusions-callout-primary-button = تنظیم قاعده‌ها
 ipprotection-site-inclusions-callout-secondary-button-existing-users = فعلاً نه
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رد کردن
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = با VPN داخلی، مرور خود را خصوصی‌تر و ردیابی آن را دشوارتر کنید.
 ipprotection-holiday-promo-primary-button = باز کردن VPN
 ipprotection-holiday-promo-secondary-button = رد کردن
+ipprotection-holiday-promo-title-1 = تا ۳۱ ژانویه از VPN نامحدود استفاده کنید
 
 ## Panel
 
@@ -145,6 +152,12 @@ site-rules-status-heading = قانون شما
 site-rules-description-exclusion = ‏VPN برای این سایت خاموش است
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = ‏VPN برای این سایت روشن است
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = VPN برای { $website } همیشه روشن شود؟
+    .message = هر زمان بخواهید می‌توانید قوانین خود را در تنظیمات به‌روز کنید.
 ipprotection-settings-link =
     .label = تنظیمات
 
@@ -155,6 +168,8 @@ ipprotection-button-turn-vpn-off = خاموش کردن VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = خاموش کردن VPN در همه جا
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = روشن کردن
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = روشن کردن VPN
 # Button while VPN is connecting
@@ -167,6 +182,8 @@ ipprotection-connection-status-excluded-1 = ‏VPN برای این سایت خا
     .aria-label = ‏VPN برای این سایت خاموش است
 ipprotection-connection-status-connecting-1 = ‏VPN در حال اتصال است…
     .aria-label = ‏VPN در حال اتصال است…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = خاموش کردن
 
 ## Location controls
 
@@ -234,6 +251,7 @@ ipprotection-message-continuous-onboarding-intro = ‏VPN را روشن کنید
 ipprotection-message-continuous-onboarding-autostart = برای داشتن یک لایهٔ امنیتی بیشتر، <a data-l10n-name="setting-link">VPN را طوری تنظیم کنید که هر بار با باز شدن { -brand-short-name } روشن شود</a>.
 ipprotection-message-continuous-onboarding-site-settings = ‏{ -brand-short-name } وب‌سایت‌هایی را که برای استفاده از VPN تنظیم کرده‌اید به خاطر خواهد آورد. هر زمان می‌توانید آن‌ها را در <a data-l10n-name="setting-link">تنظیمات</a> به‌روزرسانی کنید.
 confirmation-hint-ipprotection-navigated-to-excluded-site = ‏VPN برای این سایت خاموش است
+confirmation-hint-ipprotection-navigated-to-included-site = VPN برای این وبگاه روشن است
 ipprotection-open-button = باز کردن { -brand-product-name }
 ipprotection-come-back-title = برای امتحان VPN داخلی بازگردید
 ipprotection-message-body-hide-location = برای حریم‌خصوصی و کنترل بیشتر، هنگام مرور وب در { -brand-product-name } موقعیت مکانی‌تان را پنهان کنید.
@@ -269,6 +287,11 @@ ip-protection-learn-more = بیشتر بدانید
 ip-protection-not-opted-in-4 =
     .heading = ‏VPN داخلی { -brand-short-name } را امتحان کنید
     .message = با پنهان کردن موقعیت مکانی خود با محافظت بیشتری وب‌گردی کنید.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = آماده‌اید امتحانش کنید؟
+    .message = هر ماه { $maxUsage } گیگابایت رایگان بگیرید و انتخاب کنید کدام وبگاه‌ها از VPN استفاده کنند.
 ip-protection-not-opted-in-button = شروع کنید
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -279,6 +302,23 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } وب‌سایت
         }
     .label = مدیریت تنظیمات وب‌سایت
+ip-protection-site-rules-header-1 =
+    .heading = مدیریت قوانین VPN
+ip-protection-site-rules-button-1 =
+    .description = برای وبگاه‌هایی که به حریم خصوصی بیشتر یا خاموش بودن VPN نیاز دارند قانون بگذارید.
+    .label = مدیریت قوانین VPN
+ip-protection-site-rules-list-section-1 =
+    .description = قانون بگذارید تا VPN به‌طور خودکار روشن یا خاموش شود.
+    .label = قوانین وبگاه
+ip-protection-site-rules-add-button =
+    .label = افزودن قانون
+ip-protection-site-rules-delete-all-button =
+    .label = حذف همهٔ قوانین
+ip-protection-site-rules-empty = قوانینی که بگذارید اینجا نمایش داده می‌شوند.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN همیشه روشن
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN همیشه خاموش
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =

@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = اتصال را روی د
 neterror-dns-not-found-offline-hint-modem = مودم یا روتر خود را بررسی کنید.
 neterror-dns-not-found-offline-hint-reconnect = اتصال به Wi-Fi را قطع و دوباره وصل کنید.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = هیچ چیزی روی درگاه { $port } اتصال نمی‌پذیرد. بررسی کنید که کارساز محلی شما در حال اجرا باشد.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = اگر در حال اجراست، بررسی کنید که از درگاه { $port } استفاده کند.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = بررسی کنید که کارساز روی این نشانی اتصال بپذیرد. برخی کارسازها فقط روی [::1] یا فقط روی 127.0.0.1 گوش می‌دهند.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = تغییر اندازهٔ زبانه‌های نمای دوتایی
 tab-devtools-splitter =
     .aria-label = تغییر اندازهٔ پنل ابزارهای توسعه‌دهنده
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = افزودن زبانه‌ها به گروه
+    .accesskey = گ
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -289,6 +294,13 @@ tab-context-move-tab-to-new-group =
            *[other] افزودن زبانه‌ها به گروه جدید
         }
     .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] افزودن به گروه
+           *[other] افزودن { $tabCount } زبانه به گروه
+        }
+    .accesskey = گ
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -457,11 +469,17 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = جداسازی نمای دوتایی
     .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = جدا کردن زبانه‌ها
+    .accesskey = ج
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = معکوس کردن ترتیب زبانه‌ها
     .accesskey = r
 tab-context-badge-new = جدید
+# The label of a badge shown in menu items to call out features that are in beta.
+tab-context-badge-beta = بتا
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.

@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = قالب ویدئو یا نوع MIME پ�
 videocontrols-error-no-source = هیچ ویدئویی با قالب پشتیبانی شده و نوع MIME یافت نشد.
 videocontrols-error-generic = به دلیل خطای نامشخض، پخش ویدئو متوقف گردید.
 videocontrols-status-picture-in-picture = ویدئو در حال اجرا در حالت تصویر-در-تصویر است.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = ویدیو در حالت تصویر در تصویر در حال پخش است
 # This message shows the current position and total video duration
 #
 # Variables:

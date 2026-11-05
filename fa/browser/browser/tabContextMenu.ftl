@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = بستن زبانه‌ها به راست
     .accesskey = ر
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = زبانه‌های سمت راست
+    .accesskey = ر
 close-tabs-to-the-start-vertical =
     .label = بستن زبانه‌های بالایی
+    .accesskey = ب
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = زبانه‌های بالا
     .accesskey = ب
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = بستن زبانه‌ها به چپ
     .accesskey = چ
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = زبانه‌های سمت چپ
+    .accesskey = چ
 close-tabs-to-the-end-vertical =
     .label = بستن زبانه‌های پایینی
+    .accesskey = پ
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = زبانه‌های پایین
     .accesskey = پ
 close-other-tabs =
     .label = بستن زبانه‌های دیگر
     .accesskey = د
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = همهٔ زبانه‌های دیگر
+    .accesskey = ه
 reload-tabs =
     .label = بازخوانی زبانه‌ها
     .accesskey = خ
@@ -92,11 +114,21 @@ tab-context-open-in-new-container-tab2 =
 move-to-start =
     .label = انتقال به ابتدا
     .accesskey = ب
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = ابتدا
+    .accesskey = ا
 move-to-end =
     .label = انتقال به انتها
     .accesskey = ن
+move-to-end-alt =
+    .label = انتها
+    .accesskey = ن
 move-to-new-window =
     .label = انتقال به پنجرهٔ جدید
+    .accesskey = پ
+move-to-new-window-alt =
+    .label = پنجرهٔ جدید
     .accesskey = پ
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -111,6 +143,10 @@ tab-context-close-multiple-tabs2 =
     .accesskey = چ
 tab-context-close-duplicate-tabs =
     .label = بستن زبانه‌های تکراری
+    .accesskey = ت
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = زبانه‌های تکراری
     .accesskey = ت
 tab-context-close-duplicate-tabs2 =
     .label = بستن نسخه‌های تکراری این زبانه
@@ -128,6 +164,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = گروه جدید
     .accesskey = گ
+tab-context-add-tab-to-group-new-group =
+    .label = گروه جدید
+tab-context-add-tab-to-group-closed-groups =
+    .label = گروه‌های بسته‌شده
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -157,6 +197,14 @@ tab-context-move-tabs =
         }
     .accesskey = ج
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] انتقال به
+           *[other] انتقال { $tabCount } زبانه به
+        }
+    .accesskey = ق
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -168,6 +216,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = انتقال نمای دوتایی به
     .accesskey = ن
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = انتقال زبانه‌ها به
+    .accesskey = ق
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

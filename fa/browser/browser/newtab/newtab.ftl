@@ -474,8 +474,14 @@ newtab-picture-set-wallpaper2 =
 newtab-picture-menu-manage-wallpaper = مدیریت پس‌زمینه
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = پنهان کردن این تصویر
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = نمایش تصویر
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = بیشتر بدانید
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = نمایش تصویر
+    .title = نمایش تصویر
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = فردا برای دیدن تصویر جدید دوباره سر بزنید
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -520,13 +526,39 @@ newtab-recent-searches-empty-trending = جست‌وجوهای پرطرفدار �
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = طالع‌بینی
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = گشودن منوی طالع‌بینی
+    .title = گشودن منوی طالع‌بینی
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = بیشتر بدانید
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = قدرت گرفته توسط Yahoo
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = سفر
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = گشودن منوی سفر
+    .title = گشودن منوی سفر
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = بیشتر بدانید
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = قدرت گرفته توسط Kayak
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = بیشتر بدانید
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -744,6 +776,9 @@ newtab-discovery-empty-section-topstories-header = همهٔ موارد خوان�
 newtab-discovery-empty-section-topstories-content = بعداً برای دیدن مطالب بیشتر سر بزنید.
 newtab-discovery-empty-section-topstories-try-again-button = تلاش دوباره
 newtab-discovery-empty-section-topstories-loading = در حال بارگیری…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = مطالب در حال حاضر در دسترس نیستند
+newtab-discovery-empty-section-topstories-unavailable-body = اتصال خود را بررسی کنید یا بعداً دوباره تلاش کنید.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = اوه! این بخش تقریباً بارگیری شد، اما هنوز کامل نیست.
 
@@ -834,6 +869,10 @@ newtab-custom-widget-search-toggle =
     .label = جست‌وجو
 newtab-custom-widget-horoscopes-toggle =
     .label = طالع‌بینی
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = سفر
 newtab-custom-widget-section-title = ابزارک‌ها
 newtab-custom-widget-section-toggle =
     .label = ابزارک‌ها
@@ -1032,6 +1071,9 @@ newtab-wallpaper-firefox-peak-dark = چهرهٔ روباه در لبهٔ چپ ر
 newtab-wallpaper-firefox-peak-light = چهرهٔ روباه در لبهٔ چپ روی پس‌زمینهٔ روشن
 newtab-wallpaper-firefox-sky-dark = تپه‌های ارغوانی تیره زیر آسمان شب
 newtab-wallpaper-firefox-sky-light = تپه‌های روشن زیر آسمانی ملایم
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = نشان باشگاه Wrexham AFC روی پس‌زمینهٔ قرمز
 
 ## Firefox
 
@@ -1064,6 +1106,14 @@ newtab-weather-menu-change-location = تغییر مکان
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = جست‌وجوی مکان
     .placeholder = جست‌وجوی مکان
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = بازگشت
+    .title = بازگشت
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = پیشنهادهای مکان
 newtab-weather-cancel-input =
     .aria-label = انصراف
     .title = انصراف
@@ -1369,6 +1419,9 @@ newtab-widget-menu-move-left = راست
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = چپ
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = خانه
 newtab-widget-size-small = کوچک
 newtab-widget-size-medium = متوسط
 newtab-widget-size-large = بزرگ

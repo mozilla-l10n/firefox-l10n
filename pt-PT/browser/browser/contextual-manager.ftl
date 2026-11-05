@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar de outro nav
 contextual-manager-passwords-command-import = Importar de um ficheiro:
 contextual-manager-passwords-command-export = Exportar palavras-passe
 contextual-manager-passwords-command-remove-all = Remover todas as palavras-passe
+contextual-manager-passwords-command-delete-all = Apagar todas as palavras-passe
 contextual-manager-passwords-command-options = Opções
 contextual-manager-passwords-command-help = Ajuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Remover palavra-passe?
         [one] Remover uma palavra-passe?
        *[other] Remover todas as { $total } palavras-passe?
+    }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Apagar { $total } palavra-passe?
+       *[other] Apagar { $total } palavras-passe?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
