@@ -116,6 +116,10 @@ security-technical-no-encryption-website = Ο ιστότοπος { $website } δ
 security-technical-no-encryption-transit = Οι πληροφορίες που στέλνονται μέσω διαδικτύου χωρίς κρυπτογράφηση δεν είναι ασφαλείς και μπορεί να τις δουν τρίτοι.
 security-technical-no-encryption-page = Η σελίδα που βλέπετε δεν ήταν κρυπτογραφημένη πριν από τη μεταφορά μέσω του διαδικτύου.
 security-technical-encrypted-page = Η σελίδα που βλέπετε κρυπτογραφήθηκε προτού μεταδοθεί μέσω του διαδικτύου.
+security-technical-encrypted-description = Η κρυπτογράφηση καθιστά δύσκολη την προβολή πληροφοριών που ανταλλάσσονται μεταξύ των υπολογιστών από μη εξουσιοδοτημένα άτομα. Συνεπώς, είναι απίθανο να διαβάζει κάποιος αυτήν τη σελίδα, ενώ μεταφέρεται μέσω του δικτύου.
+security-technical-mixed-content-description = Τμήματα της σελίδας που βλέπετε δεν κρυπτογραφήθηκαν προτού μεταδοθούν μέσω του διαδικτύου.
+security-technical-weak-cipher = Η σύνδεσή σας με αυτόν τον ιστότοπο χρησιμοποιεί αδύναμη κρυπτογράφηση και δεν είναι ιδιωτική. Άλλα άτομα μπορούν να δουν τις πληροφορίες σας ή να τροποποιήσουν τη συμπεριφορά του ιστοτόπου.
+security-technical-ct-compliant = Αυτός ο ιστότοπος συμμορφώνεται με την πολιτική διαφάνειας πιστοποιητικών.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -132,6 +136,8 @@ security-site-data-no = Όχι
 
 security-technical-no-encryption =
     .value = Μη κρυπτογραφημένη σύνδεση
+security-technical-mixed-content =
+    .value = Η σύνδεση είναι μερικώς κρυπτογραφημένη
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
