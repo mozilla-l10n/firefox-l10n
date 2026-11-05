@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Bajando certificado
 download-cert-message = Se te ha pedido que confíes en una nueva autoridad de certificación (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = ¿Desea confiar "{ $caName }" para los siguientes propósitos?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoridad de Certificación (sin nombre)
 download-cert-trust-ssl =
     .label = Confiar en esta CA para identificar sitios web.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Importante: Si olvidas tu contraseña de respaldo del ce
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Por favor, ingresa la contraseña que fue usada para encriptar este respaldo de certificado:
 
 ## Protected authentication dialog
 
