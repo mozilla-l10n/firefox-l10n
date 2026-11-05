@@ -14,6 +14,8 @@ change-password-token = Dispositivo de segurança: { $tokenName }
 change-password-old = Senha atual:
 change-password-new = Nova senha:
 change-password-reenter = Confirmar a nova senha:
+change-password-not-set =
+    .value = (não definida)
 pippki-failed-pw-change = Não foi possível alterar a senha.
 pippki-incorrect-pw = Você não digitou corretamente a senha atual. Tente novamente.
 pippki-pw-change-ok = Senha alterada com sucesso.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Baixando certificado
 download-cert-message = Você foi solicitado a marcar como confiável uma nova Autoridade Certificadora (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Quer considerar “{ $caName }” confiável para os seguintes propósitos?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoridade certificadora (sem nome)
 download-cert-trust-ssl =
     .label = Confiar nesta CA para identificar sites.
 download-cert-trust-email =
