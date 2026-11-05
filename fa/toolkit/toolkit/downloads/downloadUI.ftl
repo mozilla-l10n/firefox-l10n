@@ -39,6 +39,44 @@ download-ui-cancel-downloads-ok =
         [1] صرف نظر از ۱ بارگیری
        *[other] صرف نظر از { $downloadsCount } بارگیری
     }
+download-ui-confirm-cancel-button = لغو
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] ۱ بارگیری متوقف شود و از { -brand-short-name } خارج شوید؟
+               *[other] { $downloadsCount } بارگیری متوقف شود و از { -brand-short-name } خارج شوید؟
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] ۱ بارگیری متوقف شود و از { -brand-short-name } خارج شوید؟
+               *[other] { $downloadsCount } بارگیری متوقف شود و از { -brand-short-name } خارج شوید؟
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } هنگام باز شدن دوباره تلاش می‌کند بارگیری‌ها را از سر بگیرد، اما ممکن است پیشرفت آن‌ها از دست برود.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] خروج از { -brand-short-name }
+       *[other] خروج از { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] ۱ بارگیری متوقف شود و برون‌خط شوید؟
+       *[other] { $downloadsCount } بارگیری متوقف شود و برون‌خط شوید؟
+    }
+download-ui-confirm-offline-message = { -brand-short-name } وقتی دوباره برخط شوید تلاش می‌کند بارگیری‌ها را از سر بگیرد، اما ممکن است پیشرفت آن‌ها از دست برود.
+download-ui-confirm-offline-button = برون‌خط شدن
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] ۱ بارگیری متوقف شود و این پنجرهٔ خصوصی بسته شود؟
+       *[other] { $downloadsCount } بارگیری متوقف شود و این پنجرهٔ خصوصی بسته شود؟
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] نمی‌توانید این بارگیری را از سر بگیرید.
+       *[other] نمی‌توانید این بارگیری‌ها را از سر بگیرید.
+    }
+download-ui-confirm-private-browsing-button = بستن پنجره
 
 ##
 

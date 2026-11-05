@@ -142,6 +142,12 @@ permissions-site-notification-desc = وب‌سایت‌های زیر درخوا�
 permissions-site-notification-disable-label =
     .label = مسدود کردن درخواست‌های جدید برای ارسال اعلان
 permissions-site-notification-disable-desc = این گزینه مانع از ارسال درخواست مجوز اعلان توسط هر وب‌سایتی می‌شود که در بالا فهرست نشده است. مسدود کردن اعلان‌ها ممکن است عملکرد برخی ویژگی‌های وب‌سایت را مختل کند.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = اجازهٔ آگاهی‌های وبگاه هنگام بسته بودن { -brand-short-name }
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = تنظیمات آگاهی سیستم‌عامل شما نیز اعمال می‌شود.
 
 ## Site Permissions - Location
 
@@ -162,6 +168,15 @@ permissions-site-xr-desc = وب‌سایت‌های زیر درخواست دست
 permissions-site-xr-disable-label =
     .label = مسدود کردن درخواست‌های جدید برای دسترسی به دستگاه‌های واقعیت مجازی
 permissions-site-xr-disable-desc = این گزینه مانع از ارسال درخواست دسترسی به دستگاه‌های واقعیت مجازی توسط هر وب‌سایتی می‌شود که در بالا فهرست نشده است. مسدود کردن دسترسی ممکن است عملکرد برخی ویژگی‌های وب‌سایت را مختل کند.
+
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = تنظیمات - وبگاه‌های مسدودشده برای پیوندهای برنامه
+permissions-site-app-links-desc = این وبگاه‌ها اجازه ندارند برای باز کردن پیوندهای برنامه، مانند رایانامه (mailto:)، درخواست بدهند. با برداشتن یک وبگاه از فهرست، اجازه می‌دهید دوباره درخواست کند.
 
 ## Site Permissions - Camera
 

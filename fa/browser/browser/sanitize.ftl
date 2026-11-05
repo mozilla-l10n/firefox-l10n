@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = پاک‌سازی تمام تاریخچه
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = حذف داده‌های مرور
 clear-data-settings-label = هنگام بسته شدن، { -brand-short-name } باید همه را به‌طور خودکار پاک کند
 sanitize-on-shutdown-description = پاک‌سازی خودکار تمام موارد علامت‌خورده هنگام بسته شدن { -brand-short-name }.
 
@@ -47,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = از { $midnightTime } تا کنون
 clear-time-duration-value-today =
     .label = امروز
+clear-time-duration-value-all-time =
+    .label = همهٔ زمان‌ها
 clear-time-duration-value-everything =
     .label = تمام تاریخچه
 clear-time-duration-suffix =
@@ -56,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = تاریخچه
+item-history-and-downloads2 =
+    .label = تاریخچهٔ مرور و بارگیری‌ها
+    .accesskey = ت
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = وبگاه‌های بازدیدشده و فهرست بارگیری‌ها
 item-history-and-downloads =
     .label = تاریخچهٔ وب‌گردی و دانلود
     .accesskey = ت
@@ -72,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = کوکی‌ها و داده‌های سایت
     .accesskey = د
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = شما را از وبگاه‌ها خارج می‌کند و ممکن است سبدهای خرید را خالی کند
 item-cookies-site-data-description = ممکن است باعث خروج شما از حساب‌های کاربری در سایت‌ها شده یا سبد خرید را خالی کند
 item-active-logins =
     .label = نشست‌های فعال
@@ -79,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = کَش
     .accesskey = ش
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = پرونده‌های موقت ({ $amount } { $unit })
+    .accesskey = پ
+item-cached-content2 =
+    .label = پرونده‌های موقت
+    .accesskey = پ
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = به بارگذاری سریع‌تر وبگاه‌ها کمک می‌کند
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -98,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = اطلاعات ذخیره‌شده در فرم‌ها
     .accesskey = ط
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = نام‌ها، رایانامه‌ها و ورودی‌های فرم
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = مجوزها و ترجیحات وبگاه‌ها
 item-formdata-description = مواردی مانند نام‌ها، ایمیل‌ها و دیگر اطلاعات واردشده در فرم‌ها را پاک می‌کند
 item-site-prefs-description = مجوزها و ترجیحات مربوط به سایت‌ها را به تنظیمات اولیه بازنشانی می‌کند
 data-section-label = داده‌ها
@@ -107,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = داده‌های آفلاین وب‌سایت‌ها
     .accesskey = ف
+sanitize-everything-undo-warning2 = این کار برگشت‌پذیر نیست.
 sanitize-everything-undo-warning = این عمل قابل بازگشت نیست.
 window-close =
     .key = w

@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = یادداشت‌های زبانه
 experimental-features-tab-context-menu =
     .label = منوی ساده‌شدهٔ زبانه
 experimental-features-tab-context-menu-description = با کلیک راست روی یک زبانه، منوی زمینه‌ای ساده‌تری را مشاهده کنید؛ این منو به گونه‌ای طراحی شده که دسترسی به اقدامات متداول را آسان‌تر کند. <a data-l10n-name="connect">ارسال بازخورد</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = پایشگر منابع
+experimental-features-resource-monitor-description = مصرف تخمینی حافظه و CPU زبانه‌های باز خود را مستقیم در نوار کناری ببینید و زبانه‌هایی را که استفاده نمی‌کنید تخلیه کنید تا منابع آزاد شوند. <a data-l10n-name="connect">ارسال بازخورد</a>

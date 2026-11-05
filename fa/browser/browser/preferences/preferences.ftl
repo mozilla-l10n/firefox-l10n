@@ -357,6 +357,8 @@ website-language-heading =
     .label = زبان وب‌سایت
 website-preferred-language =
     .label = زبان‌های برگزیده
+website-language-list =
+    .aria-label = زبان‌های ترجیحی
 website-add-language =
     .label = افزودن زبان
 website-add-language-button =
@@ -813,6 +815,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = نشانی(های) وب‌سایت
+home-custom-homepage-list =
+    .aria-label = نشانی‌های وبگاه
 home-custom-homepage-address =
     .placeholder = نشانی را وارد کنید
 home-custom-homepage-address-button =
@@ -944,6 +948,8 @@ search-one-click-desc = موتورهای جست‌وجوی جایگزینی را
 search-one-click-header-3 =
     .description = انتخاب کنید کدام موتورهای جست‌وجو و میانبرها در نوار نشانی ظاهر شوند.
     .label = موتورهای جست‌وجوی دیگر
+search-engine-list =
+    .aria-label = موتورهای جست‌وجو و میان‌برها
 update-search-engine-success =
     .message = موتور جست‌وجو با موفقیت به‌روزرسانی شد
 search-edit-engine-2 =
@@ -1199,6 +1205,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = تاریخچه
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = زبانه‌های باز
+    .tooltiptext = زبانه‌های باز دیگر دستگاه‌های شما
+    .accesskey = ز
 sync-engine-tabs =
     .label = زبانه‌های باز
     .tooltiptext = فهرستی از موارد باز در تمام دستگاه‌های همگام‌شده
@@ -1207,6 +1218,22 @@ sync-engine-passwords =
     .label = گذرواژه‌ها
     .tooltiptext = گذرواژه‌هایی که ذخیره کرده‌اید
     .accesskey = P
+sync-engine-addresses2 =
+    .label = نشانی‌ها
+    .tooltiptext = نشانی‌هایی که در { -brand-short-name } ذخیره کرده‌اید
+    .accesskey = ن
+sync-engine-payment-methods3 =
+    .label = روش‌های پرداخت
+    .tooltiptext = روش‌های پرداختی که ذخیره کرده‌اید
+    .accesskey = ر
+sync-engine-addons2 =
+    .label = برافزاها
+    .tooltiptext = برافزاها و پوسته‌هایی که به { -brand-short-name } رومیزی افزوده‌اید
+    .accesskey = ا
+sync-engine-settings2 =
+    .label = تنظیمات
+    .tooltiptext = تنظیمات { -brand-short-name } در صورت امکان
+    .accesskey = ت
 sync-engine-addresses =
     .label = نشانی‌ها
     .tooltiptext = نشانی‌های پستی ذخیره‌شده (تنها نسخهٔ دسکتاپ)
@@ -1398,6 +1425,10 @@ autofill-payment-methods-manage-payments-button =
     .label = مدیریت روش‌های پرداخت
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = الزام ورود به دستگاه برای پر کردن خودکار
+    .accesskey = ا
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = نیاز به احراز هویت دستگاه برای تکمیل خودکار و مدیریت روش‌های پرداخت
     .accesskey = o
@@ -1471,6 +1502,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
@@ -1795,6 +1848,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = انتخاب وب‌سایت‌هایی که می‌توانند افزونه نصب کنند
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = اجازه به وبگاه‌ها برای درخواست گشودن پیوندهای برنامه.
+    .accesskey = ج
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = مدیریت وبگاه‌های مسدودشده
+    .accesskey = م
 permissions-location2 =
     .label = موقعیت مکانی
 permissions-localhost2 =
@@ -1819,6 +1881,62 @@ permissions-data-section =
     .heading = مجوزها و داده‌ها
 pane-permissions-data-title2 = مجوزها و داده‌ها
     .title = مجوزها و داده‌ها
+notifications-section-header =
+    .heading = آگاهی‌ها
+notifications-entry-card-header =
+    .description = انتخاب کنید کدام وبگاه‌ها می‌توانند آگاهی بفرستند و این آگاهی‌ها چگونه نمایش داده شوند.
+    .label = آگاهی‌ها
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } وبگاه
+           *[other] { $count } وبگاه
+        }
+    .label = مدیریت تنظیمات آگاهی
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = مدیریت تنظیمات آگاهی وبگاه‌ها
+notifications-website-card-header =
+    .description = انتخاب کنید وبگاه‌ها چگونه می‌توانند آگاهی بفرستند.
+    .label = آگاهی‌های وبگاه‌ها
+notifications-filter =
+    .placeholder = جست‌وجوی وبگاه‌ها
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = وبگاه
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = اجازه دادن به آگاهی‌ها
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = وبگاه‌ها
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = همیشه
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = اجازه
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = هرگز
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = هیچ آگاهی وبگاهی افزوده نشده است.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = هیچ آگاهی وبگاهی با جست‌وجوی شما مطابقت ندارد.
 
 ## Privacy Section - Data Collection
 
