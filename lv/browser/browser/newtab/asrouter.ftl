@@ -377,6 +377,16 @@ nova-early-access-infobar-primary-button = Sapratu
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = Vai palaist { -brand-short-name } katru reizi, kad piesakāties sistēmā Windows?
+launch-options-spotlight-title-session-restore = Vai atkārtoti atvērt sesiju, kad { -brand-short-name } restartējas?
+launch-options-spotlight-checkbox-launch-on-login = Atvērt { -brand-short-name } startēšanas laikā
+launch-options-spotlight-checkbox-pin-to-taskbar = Piespraust uzdevumjoslai
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Atkārtoti atvērt pašreizējos logus un cilnes
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Atkārtoti atvērt iepriekšējos logus un cilnes
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Saglabāt un aizvērt { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Saglabāt un turpināt
 

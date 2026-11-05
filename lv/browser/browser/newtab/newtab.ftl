@@ -17,6 +17,9 @@ newtab-settings-dialog-label =
     .aria-label = Iestatījumi
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .aria-label = Noraidīt
+    .title = Noraidīt
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -27,14 +30,40 @@ home-homepage-new-windows =
     .label = Jauni logi
 home-homepage-new-tabs =
     .label = Jaunas cilnes
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Izvēlieties konkrētu vietni
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Tīmekļa vietnes adrese(-es)
+home-custom-homepage-address =
+    .placeholder = Ievadiet adresi
 home-custom-homepage-address-button =
     .label = Pievienot adresi
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Vēl nav pievienota neviena tīmekļa vietne.
+home-custom-homepage-delete-address-button =
+    .aria-label = Dzēst adresi
+    .title = Dzēst adresi
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Aizstāt ar
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pašlaik atvērtās lapas
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Grāmatzīmes…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Meklēt
 home-prefs-manage-widgets-link =

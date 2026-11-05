@@ -283,6 +283,14 @@ tab-context-move-tab-to-new-group =
            *[other] Adder schedas a un nove gruppo
         }
     .accesskey = g
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Adder a gruppo
+            [one] Adder { $tabCount } scheda a gruppo
+           *[other] Adder { $tabCount } schedas a gruppo
+        }
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
