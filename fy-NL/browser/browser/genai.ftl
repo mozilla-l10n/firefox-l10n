@@ -27,7 +27,7 @@ genai-prompts-summarize =
     .value = Makket in gearfetting fan de seleksje yn eksakte en beskriuwende wurden. Gebrûk kopteksten en opsommingslisten yn de gearfetting, om dizze scanber te meitsjen. Behâld de betsjutting en feitlike krektens.
 # Prompt purpose: help users understand what a webpage covers at a glance
 # $url (string) - address of the webpage to summarize
-genai-prompts-summarize-page = Gearfetsje de website op { $url } mei presys en bûnige taal. Brûk kopteksten en opsommingstekens yn de gearfetting, om dizze scanber te meitsjen. Hâld de betsjutting en feitlike krektens yn acht.
+genai-prompts-summarize-page = Gearfetsje de webside op { $url } mei presys en bûnige taal. Brûk kopteksten en opsommingstekens yn de gearfetting, om dizze scanber te meitsjen. Hâld de betsjutting en feitlike krektens yn acht.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Taal ferienfâldigje
@@ -64,8 +64,8 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Fuortsmite út sydbalke
 genai-shortcut-button-3 =
-    .aria-label = Fragen oer dizze tekst
-    .tooltiptext = Fragen oer dizze tekst
+    .aria-label = Freegje oer dizze tekst
+    .tooltiptext = Freegje oer dizze tekst
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =
@@ -93,7 +93,7 @@ genai-more-actions-copy =
     .label = Kopiearje
 # The span is a right-pointing chevron that separates the steps of the path to
 # the setting, in place of a ">" character.
-genai-more-actions-all-off-notice = Jo sjogge dit menu as jo tekst selektearje. Besykje Ynstellingen <span data-l10n-name="chevron"></span> en blêdzje om de side opnij te toanen.
+genai-more-actions-all-off-notice = Jo sjogge dit menu net as jo tekst selektearje. Besykje Ynstellingen <span data-l10n-name="chevron"></span> en blêdzje om de side opnij te toanen.
 genai-more-actions-manage-settings =
     .label = Ynstellingen beheare
 genai-selection-callout-title = Selektearje tekst om in aksje te kiezen
@@ -105,7 +105,7 @@ genai-shortcut-button =
 genai-menu-new-badge = Nij
 genai-menu-summarize-page = Side gearfetsje
 genai-input-ask-smart-window =
-    .placeholder = Fragen…
+    .placeholder = Freegje…
 genai-input-ask-generic =
     .placeholder = AI-chatbot freegje…
 # $provider (string) - name of the provider

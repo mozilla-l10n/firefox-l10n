@@ -105,14 +105,14 @@ addon-confirm-install-some-unsigned-message = Warskôging: dizze website wol { $
 ##   $addonName (String): the add-on name.
 
 addon-install-error-network-failure = De add-on koe net download wurde, fanwegen in flater yn de ferbining.
-addon-install-error-incorrect-hash = De add-on koe net ynstallearre wurde, omdat dizze net oerienkomt mei de ferwachte add-on { -brand-short-name }.
+addon-install-error-incorrect-hash = De add-on koe net ynstallearre wurde, omdat dizze net oerienkomt mei de add-on dy’t { -brand-short-name } ferwachte.
 addon-install-error-corrupt-file = De fan dizze website downloade add-on koe net ynstallearre wurde, omdat dizze skansearre liket.
 addon-install-error-file-access = { $addonName } koe net ynstallearre wurde, omdat { -brand-short-name } it nedige bestân net oanpasse kin.
 addon-install-error-not-signed = { -brand-short-name } hat opkeard dat dizze website in net-ferifiearre add-on ynstallearre hat.
 addon-install-error-invalid-domain = De add-on { $addonName } kin net fan dizze lokaasje ynstallearre wurde.
 addon-install-error-no-addon-name-file-access = De add-on koe net ynstallearre wurde, omdat { -brand-short-name } it nedige bestân net oanpasse kin.
 addon-local-install-error-network-failure = Dizze add-on koe net ynstallearre wurde, fanwegen in bestânssysteemflater.
-addon-local-install-error-incorrect-hash = Dizze add-on koe net ynstallearre wurde, omdat dizze net oerienkomt mei de ferwachte add-on { -brand-short-name }.
+addon-local-install-error-incorrect-hash = Dizze add-on koe net ynstallearre wurde, omdat dizze net oerienkomt mei de add-on dy’t { -brand-short-name } ferwachte.
 addon-local-install-error-corrupt-file = Dizze add-on koe net ynstallearre wurde, omdat dizze skansearre liket.
 addon-local-install-error-file-access = { $addonName } koe net ynstallearre wurde, omdat { -brand-short-name } it nedige bestân net oanpasse kin.
 addon-local-install-error-not-signed = Dizze add-on koe net ynstallearre wurde, omdat dizze net ferifiearre is.

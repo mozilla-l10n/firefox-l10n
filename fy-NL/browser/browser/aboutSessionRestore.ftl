@@ -15,11 +15,11 @@ restore-page-show-tabs = Foarige ljepblêden toane
 #
 # Variables:
 #    $windowNumber: Progressive number associated to each window
-restore-page-window-label = Skerm #{ $windowNumber }
+restore-page-window-label = Finster #{ $windowNumber }
 restore-page-restore-header =
     .label = Werom bringe
 restore-page-list-header =
-    .label = Skermen en ljepblêden
+    .label = Finsters en ljepblêden
 restore-page-try-again-button =
     .label = Sesje werstelle
     .accesskey = S

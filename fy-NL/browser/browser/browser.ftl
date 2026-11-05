@@ -191,7 +191,7 @@ urlbar-dismissal-acknowledgment-weather = Tank foar jo kommentaar. Jo sjogge gji
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Type minder, fyn mear: Sykje nei { $engineName } streekrjocht fan jo adresbalke út.
+urlbar-search-tips-onboard = Type minder, fyn mear: sykje mei { $engineName } streekrjocht fan jo adresbalke út.
 urlbar-search-tips-redirect-2 = Begjin yn de adresbalke mei sykjen om suggestjes fan { $engineName } en jo browserskiednis te sjen.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
@@ -485,7 +485,7 @@ identity-active-blocked = { -brand-short-name } hat ûnderdielen fan dizze side 
 identity-custom-root = Ferbining ferifiearre troch in sertifikaatútjouwer dy’t net troch Mozilla werkend wurdt.
 identity-passive-loaded = Underdielen fan dizze side binne net befeilige (lykas ôfbyldingen).
 identity-active-loaded = Jo hawwe befeiliging op dizze side útskeakele.
-identity-weak-encryption = Dizze side brûkt swakke befeiliging.
+identity-weak-encryption = Dizze side brûkt swakke fersifering.
 identity-https-only-connection-upgraded = (opwurdearre nei HTTPS)
 identity-https-only-label2 = Dizze website automatysk nei in befeilige ferbining opwurdearje
 identity-https-only-dropdown-on =

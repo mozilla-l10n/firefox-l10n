@@ -238,7 +238,7 @@ menu-history-hidden-tabs =
 menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
 menu-history-undo-window-menu =
-    .label = Koartlyn sluten skermen
+    .label = Koartlyn sluten finsters
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Skiednis trochsykje

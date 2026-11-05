@@ -7,7 +7,7 @@
 # when following backup restoration steps. Please only include characters that
 # can be used for folders. Invalid characters will be automatically stripped out
 # or replaced with underscores.
-backup-folder-name = { -brand-product-name } reparearje
+backup-folder-name = { -brand-product-name } werstelle
 # This string is used for the generated file that will be stored within the
 # backup-folder-name folder. It will have the profile name and an encoding of
 # the backup date appended to it, followed by `.html`. Please only include
@@ -101,7 +101,7 @@ turn-off-scheduled-backups-confirm-button = Reservekopy útskeakelje en fuortsmi
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
-restore-from-backup-header = Jo gegevens reparearje
+restore-from-backup-header = Jo gegevens werstelle
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Wat wurdt der wersteld?
@@ -214,7 +214,7 @@ backup-error-retry = Der is wat misgien. Probearje it opnij.
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-header = { -brand-short-name } is ree om reparearre te wurden
-backup-file-title = { -brand-short-name } reparearje
+backup-file-title = { -brand-short-name } werstelle
 backup-file-intro = Gean werom nei it blêdzjen en reparearje al jo blêdwizers, skiednis en oare gegevens. <a data-l10n-name="backup-file-support-link">Mear ynfo</a>
 backup-file-path-label = Reservekopybestân:
 backup-file-encryption-state-label = Fersifere:
@@ -225,7 +225,7 @@ backup-file-creation-date-label = Makke:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-backup-file-how-to-restore-header = Reparearje:
+backup-file-how-to-restore-header = Werstelle:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Iepenje it tapassingsmenu ☰ en gean nei Ynstellingen > Syngronisaasje
