@@ -24,6 +24,11 @@ download-cert-window2 =
     .title = Ukukhuphela Iintifikhethi
     .style = min-width: 46em
 download-cert-message = Kube nesibawo sokobana uthembe Isiphathimandla esitjha Sesitifikhethi (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ufuna ukuthemba "{ $caName }" mayelana nehloso elandelako?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Isiphathi-mandla Sesitifikhethi (asinagama)
 download-cert-trust-ssl =
     .label = Themba CA le ukubona ama-web sites.
 download-cert-trust-email =
@@ -32,8 +37,6 @@ download-cert-message-desc = Ngaphambili kokuthemba CA le mayelana nayiphi ihlos
 download-cert-view-cert =
     .label = Bona
 download-cert-view-text = Qalisisa Iintifikhethi zeCA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -52,9 +55,8 @@ set-password-repeat-backup-pw =
     .value = Inomboro yokungena yesisekelo sesitifikhethi (godu):
 set-password-reminder = Kuqakathekile: Nakube uyalibala inomboro yokungena yesisekelo sesitifikhethi, angeze ukwazi ukuvuselela isisekelwesi esikhathi esizako.  Sibawa uyitlole endaweni ebulungekileko.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 
