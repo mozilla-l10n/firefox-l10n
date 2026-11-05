@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
 download-cert-message = একটি নতুন সার্টিফিকেট কর্তৃপক্ষকে (CA) বিশ্বাস করার অনুরোধ জানানো হয়েছে।
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = নিম্নলিখিত কাজের জন্য আপনি কি "{ $caName }"-র উপর আস্থা রাখতে ইচ্ছুক?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = সার্টিফিকেট কর্তৃপক্ষ (নামবিহীন)
 download-cert-trust-ssl =
     .label = ওয়েব-সাইট সনাক্ত করতে এই CA-টি বিশ্বাস করা হবে।
 download-cert-trust-email =
