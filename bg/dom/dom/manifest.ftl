@@ -18,3 +18,8 @@ dom-manifest-invalid-type = Очакваше се { $property } на { $objectNa
 #   $value (String) - The invalid value of the property.
 # Example: "theme_color: 42 is not a valid CSS color."
 dom-manifest-invalid-css-color = { $property }: { $value } не е валиден CSS цвят.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "lang".
+#   $value (String) - The invalid value of the property.
+# Example: "lang: 42 is not a valid language code."
+dom-manifest-lang-is-invalid = { $property }: { $value } е невалиден код на език.
