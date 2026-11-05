@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Certificaat downloaden
 download-cert-message = U wordt gevraagd een nieuwe certificaatautoriteit (CA) te vertrouwen.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Wilt u ‘{ $caName }’ vertrouwen voor de volgende doeleinden?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certificaatautoriteit (naamloos)
 download-cert-trust-ssl =
     .label = Deze CA vertrouwen voor het identificeren van websites.
 download-cert-trust-email =
