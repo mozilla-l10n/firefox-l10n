@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Mengunduh Sertifikat
 download-cert-message = Anda diminta untuk mempercayai Otoritas Sertifikat (CA) yang baru.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ingin mempercayai "{ $caName }" untuk penggunaan berikut?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Otoritas Sertifikat (tanpa nama)
 download-cert-trust-ssl =
     .label = Percayai CA ini untuk mengidentifikasi situs web.
 download-cert-trust-email =
