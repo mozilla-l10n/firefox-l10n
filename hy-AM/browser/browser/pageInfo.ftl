@@ -107,6 +107,11 @@ security-view-technical =
     .value = Տեխնիկական Մանրամասնություններ
 help-button =
     .label = Օգնություն
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Դիտվող էջի համար { $website } հանգույցը ծածկագրում չի աջակցում:
+security-technical-no-encryption-transit = Համացանցով ուղղարկված չծածկագրված տեղեկությունը կարող է փոխանցման ընթացքում դիտվել այլ անձաց կողմից:
+security-technical-no-encryption-page = Ձեր կողմից դիտվող էջը չի ծածկագրվել նախքան համացանցով ուղղարկվելը:
 security-technical-encrypted-page = Ձեր կողմից դիտվող էջը ծածկագրվել է նախքան համացանցով ուղղարկվելը:
 security-technical-encrypted-description = Գաղտնագրումը խստիվ բարդացնում է ոչ արտոնյալ անձանց կողմից համակարգիչների միջև ճանապարհորդող տեղեկագրության կարդալը: Այդ իսկ պատճառով խիստ անհավանական է, որ որևէ մեկը այս էջը ցանցով փոխանցվելիս կարդացած լինի:
 security-technical-mixed-content-description = Ձեր դիտած էջի որոշ մասեր համացանցով փոխանցվելիս չէին գաղտնագրվել:
@@ -126,6 +131,8 @@ security-site-data-no = Ոչ
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Կապակցումը Գաղտնագրված չէ
 security-technical-mixed-content =
     .value = Կապը մասնակի գաղտնագրված է
 
