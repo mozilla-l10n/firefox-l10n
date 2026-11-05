@@ -103,6 +103,7 @@ set-password-reminder = Importante: Si olvida su contraseña de resguardo del ce
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Ingrese la contraseña que se usó para cifrar este backup de certificado:
 
 ## Protected authentication dialog
 
