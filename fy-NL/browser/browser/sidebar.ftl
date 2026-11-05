@@ -75,13 +75,13 @@ sidebar-vertical-tabs =
 sidebar-settings2 =
     .label = Ynstellingen
 sidebar-hide-tabs-and-sidebar =
-    .label = Ljepblêden en sidebalke ferstopje
+    .label = Ljepblêden en sydbalke ferstopje
 sidebar-open-tools-from-sidebar =
     .label = Ark fan sydbalke út iepenje
 sidebar-show-on-the-right =
-    .label = Sidebalke nei rjochts ferpleatse
+    .label = Sydbalke nei rjochts ferpleatse
 sidebar-show-on-the-left =
-    .label = Sidebalke nei links ferpleatse
+    .label = Sydbalke nei links ferpleatse
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
@@ -116,11 +116,11 @@ sidebar-context-menu-bookmark-tab =
 sidebar-context-menu-copy-link =
     .label = Keppeling kopiearje
 sidebar-context-menu-hide-sidebar =
-    .label = Sidebalke ferstopje
+    .label = Sydbalke ferstopje
 sidebar-context-menu-enable-vertical-tabs =
     .label = Fertikale ljepblêden ynskeakelje
 sidebar-context-menu-customize-sidebar =
-    .label = Sidebalke oanpasse
+    .label = Sydbalke oanpasse
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -202,7 +202,7 @@ sidebar-menu-open-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = Blêdwizers
 sidebar-menu-customize-label =
-    .label = Sidebalke oanpasse
+    .label = Sydbalke oanpasse
 sidebar-menu-contextual-password-manager-label =
     .label = Wachtwurden
 sidebar-menu-resource-monitor-label =
@@ -242,7 +242,7 @@ sidebar-menu-close-ai-chatbot-provider-tooltip = { $provider } slute ({ $shortcu
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Sidebalke oanpasse
+    .heading = Sydbalke oanpasse
 sidebar-menu-history-header =
     .heading = Skiednis
 sidebar-menu-syncedtabs-header =
@@ -267,7 +267,7 @@ sidebar-bookmarks-folder-mobile = Mobyl-blêdwizers
 
 ## Titles for sidebar menu panels.
 
-sidebar-customize-title = Sidebalke oanpasse
+sidebar-customize-title = Sydbalke oanpasse
 sidebar-history-title = Skiednis
 sidebar-syncedtabs-title = Ljepblêden fan oare apparaten
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
@@ -300,31 +300,31 @@ sidebar-bookmarks-title = Blêdwizers
 synced-tabs-context-close-tab-title =
     .title = Ljepblêd op { $deviceName } slute
 show-sidebars =
-    .label = Sidebalken
-    .tooltiptext = Sidebalken toane
+    .label = Sydbalken
+    .tooltiptext = Sydbalken toane
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .label = Sidebalken
-    .tooltiptext = Sidebalke útklappe ({ $shortcut })
+    .label = Sydbalken
+    .tooltiptext = Sydbalke útklappe ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .label = Sidebalken
-    .tooltiptext = Sidebalke ynklappe ({ $shortcut })
+    .label = Sydbalken
+    .tooltiptext = Sydbalke ynklappe ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .label = Sidebalken
-    .tooltiptext = Sidebalke toane ({ $shortcut })
+    .label = Sydbalken
+    .tooltiptext = Sydbalke toane ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .label = Sidebalken
-    .tooltiptext = Sidebalke ferstopje ({ $shortcut })
+    .label = Sydbalken
+    .tooltiptext = Sydbalke ferstopje ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

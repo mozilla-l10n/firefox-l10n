@@ -18,7 +18,7 @@ reader-view = Lêzerwerjefte
 open-location = Fier sykterm of adres yn
 share = Diele
 close-window = Finster slute
-open-sidebar = Sidebalken
+open-sidebar = Sydbalken
 # This string describes shortcuts for search.
 search-popover = Fluchkeppelingen sykje
 # Describes searches limited to a specific scope

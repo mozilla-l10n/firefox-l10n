@@ -147,6 +147,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Бұл барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған парольді өшіреді және кез келген бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін емес.
        *[other] Бұл барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған барлық парольдерді өшіреді және кез келген бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін емес.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Бұл оны парольдеріңізді синхрондайтын әрбір құрылғыдағы { -brand-short-name } ішінен өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+       *[other] Бұл оларды парольдеріңізді синхрондайтын әрбір құрылғыдағы { -brand-short-name } ішінен өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+    }
 contextual-manager-passwords-origin-label = Вебсайт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Пайдаланушы аты

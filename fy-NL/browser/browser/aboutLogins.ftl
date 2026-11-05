@@ -264,7 +264,7 @@ about-logins-confirm-export-dialog-message2 =
     As jo it bestân net mear nedich hawwe, rekommandearje wy jo oan it fuort te smiten, sadat oaren dy’t dit apparaat brûke jo wachtwurden net sjen kinne.
 about-logins-confirm-export-dialog-confirm-button2 = Trochgean mei eksportearjen
 about-logins-alert-import-message = Detaillearre ymportgearfetting besjen
-confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
+confirm-discard-changes-dialog-title = Net-bewarre wizigingen ferwerpe?
 confirm-discard-changes-dialog-message = Alle net-bewarre wizigingen gean ferlern.
 confirm-discard-changes-dialog-confirm-button = Ferwerpe
 

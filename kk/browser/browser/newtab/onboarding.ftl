@@ -642,4 +642,6 @@ welcome-back-onboarding-card-tilebutton-label = Қолданып көру
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = { -brand-short-name } санаулы секунд ішінде баптаңыз
+hnt-card-import-body = Басқа браузерден бетбелгілерді, парольдерді және басқаларды көшіріп алыңыз.
 hnt-card-wallpaper-primary-button = Баптауды бастау

@@ -86,7 +86,7 @@ about-private-browsing-nova-info-subheader2 = Wy wiskje elke sykopdracht en oanm
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Basisprinsipen fan priveefinsters
-about-private-browsing-spotlight-basics-subtitle = Priveefinsters helpe jo navigaasje privee te hâlden foar oaren op dit apparaat. Se meitsje jo net anonym en wiskje al jo gegevens net.
+about-private-browsing-spotlight-basics-subtitle = Priveefinsters helpe jo navigaasje privee te hâlden foar oaren op dit apparaat. Se meitsje jo net anonym en wiskje net al jo gegevens.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Wat jo witte moatte

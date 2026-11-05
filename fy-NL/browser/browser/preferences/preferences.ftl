@@ -289,7 +289,7 @@ browser-layout-vertical-tabs2 =
     .title = Ljepblêden oan sydkant, yn de sydbalke
 browser-layout-show-sidebar2 =
     .description = Benaderje fluch blêdwizers, ljepblêden fan jo telefoan, AI-chatbots en mear sûnder jo haadfinster te ferlitten.
-    .label = Sidebalke toane
+    .label = Sydbalke toane
 page-navigation-group =
     .label = Sidenavigaasje
 
@@ -2186,7 +2186,7 @@ browser-theme-group =
 browser-theme-manage-link =
     .label = { -brand-short-name }-tema’s beheare
 appearance-window-density-group =
-    .description = Pas de romte rûnom finstereleminten, lykas de arkbalke, ljepblêden en de sidebalke oan.
+    .description = Pas de romte rûnom finstereleminten, lykas de arkbalke, ljepblêden en de sydbalke oan.
     .label = Finstertichtens
 appearance-window-density-radio-group =
     .aria-label = Finstertichtens
