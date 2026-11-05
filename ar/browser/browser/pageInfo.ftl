@@ -107,6 +107,11 @@ security-view-technical =
     .value = التفاصيل التقنية
 help-button =
     .label = مساعدة
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = لا يدعم موقع وِب { $website } تعمية الصّفحة التي تعرضها.
+security-technical-no-encryption-transit = يمكن للآخرين الاطلاع على المعلومات المرسلة عبر الإنترنت دون تعمية أثناء إرسالها.
+security-technical-no-encryption-page = لم تُعمّى الصّفحة التي تعرضها قبل إرسالها عبر الإنترنت.
 security-technical-encrypted-page = عُمِّيت الصّفحة التي تعرضها قبل إرسالها عبر الإنترنت.
 security-technical-encrypted-description = تصعّب التعمية غير المخوّلين على المعلومات المرسلة بين الحواسيب. من غير المحتمل أنّ شخصًا ما يقرأ هذه الصّفحة بينما تنتقل عبر الشّبكة.
 security-technical-mixed-content-description = أجزاء من الصّفحة التي تعرضها لم تُعمّى قبل إرسالها عبر الإنترنت.
@@ -126,6 +131,8 @@ security-site-data-no = لا
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = الاتّصال غير مُعمّى
 security-technical-mixed-content =
     .value = الاتّصال مُعمّى جزئيّا
 

@@ -36,6 +36,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = يجري تنزيل الشّهادات
 download-cert-message = يُطلب منك الوثوق بسلطة شهادات جديدة.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = هل تريد الوثوق في ”{ $caName }“ للأغراض التّالية؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = سلطة شهادات (غير مسمّاة)
 download-cert-trust-ssl =
     .label = ثِق في سلطة الشّهادات هذه لتعريف مواقع وِب.
 download-cert-trust-email =
@@ -87,6 +92,7 @@ set-password-reminder = هامّ: إذا نسيت كلمة سر النسخة ا�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = الرّجاء إدخال كلمة السرّ التي استخدمت لتعمية النّسخة الاحتياطية من هذه الشّهادة:
 
 ## Protected authentication dialog
 
