@@ -29,7 +29,7 @@ protection-report-page-summary = { -brand-short-name } kin efter de skermen jo p
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } beskermet efter de skermen jo privacy wylst jo sneupe. Dit is in personalisearre gearfetting fan dy beskerming, ynklusyf helpmiddelen om fet te krijen op jo online befeiliging.
 protection-report-settings-link = Jo privacy- en befeiligingsynstellingen beheare
-etp-card-title-always = Ferbettere beskerming tsjin befeiliging: altyd oan
+etp-card-title-always = Ferbettere beskerming tsjin folgjen: altyd oan
 etp-card-title-custom-not-blocking = Ferbettere beskerming tsjin folgjen: ÚT
 etp-card-content-description = { -brand-short-name } soarget der automatysk foar dat bedriuwen jo net stikem folgje op ynternet.
 protection-report-etp-card-content-custom-not-blocking = Alle beskermingen binne op it stuit útskeakele. Kies hokker trackers jo blokkearje wolle troch jo { -brand-short-name } beskermingsynstellingen te behearen.

@@ -273,7 +273,7 @@ mr2022-onboarding-import-image-alt =
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Kikkerts dy’t oer pompeblêden springe mei in QR-koade om { -brand-product-name } te downloaden foar mobyl yn it midden
 mr2022-onboarding-pin-private-image-alt =
-    .aria-label = Toverstêf lit it { -brand-product-name }-priveenavigaasjelogo út in ferskine
+    .aria-label = Toverstêf lit it { -brand-product-name }-priveenavigaasjelogo út in hoed ferskine
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Lichte en donkere hannen dogge in high five
 mr2022-onboarding-gratitude-image-alt =
@@ -299,7 +299,7 @@ amo-picker-collection-link = Mear add-ons ferkenne
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Wy hâlde jo graach feilich
-onboarding-easy-setup-security-and-privacy-subtitle = Us troch in non-profitorganisaasje browser helpt bedriuwen foar te kommen dat bedriuwen jo stikem folgje op ynternet.
+onboarding-easy-setup-security-and-privacy-subtitle = Us troch in non-profitorganisaasje stipe browser helpt foar te kommen dat bedriuwen jo stikem folgje op ynternet.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Bliuw fersifere wannear’t jo fan apparaat wikselje
 onboarding-mobile-download-security-and-privacy-subtitle = Wannear’t jo syngronisearre binne, fersiferet { -brand-short-name } jo wachtwurden, blêdwizers en mear. Boppedat kinne jo ljepblêden fan jo oare apparaten ophelje.

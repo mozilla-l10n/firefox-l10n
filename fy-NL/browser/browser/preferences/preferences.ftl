@@ -154,7 +154,7 @@ startup-windows-launch-on-login-profile-disabled =
 windows-launch-on-login =
     .label = { -brand-short-name } automatysk iepenje by it opstarten fan jo kompjûter
     .accesskey = a
-windows-launch-on-login-disabled = Dizze foarkar is útskeakele yn Windows. Gean nei <a data-l10n-name="startup-link">Apps</a> yn Systeemynstellingen om dit te wizigjen.
+windows-launch-on-login-disabled = Dizze foarkar is útskeakele yn Windows. Gean nei <a data-l10n-name="startup-link">Apps > Opstarten</a> yn Systeeminstellingen om dit te wizigjen.
 # Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Ek in nij ljepblêd iepenje
@@ -943,7 +943,7 @@ addressbar-skip-result-menu-on-tab =
     .label = It resultatemenu oerslaan as jo de tab-toets brûke om de fokus te ferpleatsen
 search-suggestions-header-2 =
     .label = Sykmasinesuggestjes
-search-one-click-header2 = Fluchkeppelingen sykje
+search-one-click-header2 = Sykfluchkeppelingen
 search-one-click-desc = Kies de alternative sykmasinen dy’t ûnder de adresbalke en sykbalke ferskine as jo in kaaiwurd begjinne yn te fieren.
 search-one-click-header-3 =
     .description = Kies hokker sykmasinen en fluchkeppelingen yn jo adresbalke ferskine.
@@ -1365,7 +1365,7 @@ forms-windows-sso =
     .label = Windows-single-sign-on tastean foar Microsoft- wurk- en skoalle-accounts
 forms-windows-sso-learn-more-link = Mear ynfo
 forms-windows-sso-desc = Accounts beheare yn jo apparaatynstellingen
-windows-passkey-settings-label = Wachtwurden beheare yn systeemynstellingen
+windows-passkey-settings-label = Wachtwurdkaaien beheare yn systeemynstellingen
 privacy-panel-settings-header =
     .description = Untfang help om jo online gegevens te beskermjen yn { -brand-short-name }.
     .label = Ynstellingen privacypaniel
@@ -2205,7 +2205,7 @@ appearance-window-density-compact =
     .description = Redusearre spasjearring foar lytsere skermen
     .label = Kompakt
 appearance-window-density-touch =
-    .description = Gruttere finstereleminten, lykas klikdoelen, optimalisearre foar oanraakskermen
+    .description = Gruttere finstereleminten en klikdoelen, optimalisearre foar oanraakskermen
     .label = Oanraking
 related-settings-group =
     .label = Relatearre ynstellingen
