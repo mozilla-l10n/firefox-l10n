@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = प्रमाणपत्र डाउनलोड करत आहे
 download-cert-message = आपणास नवीन प्रमाणपत्र अधिप्रमाणन (CA) वर विश्वास ठेवण्यास कळवण्यात आले आहे.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = आपणास "{ $caName }" वर पुढील कारणांसाठी विश्वास ठेवायचे?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = प्रमाणपत्र अधिप्रमाणन (निनामी)
 download-cert-trust-ssl =
     .label = संकेत स्थळे ओळखण्याकरिता ह्या CA वर विश्वास ठेवा.
 download-cert-trust-email =
@@ -76,6 +81,7 @@ set-password-reminder = महत्वाचे: आपण प्रतिक�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = या प्रमाणपत्राचा बॅकअप एन्क्रिप्ट करताना वापरलेला पासवर्ड टाका:
 
 ## Protected authentication dialog
 

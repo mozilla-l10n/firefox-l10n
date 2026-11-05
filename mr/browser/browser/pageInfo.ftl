@@ -104,6 +104,11 @@ security-view-technical =
     .value = तांत्रिक तपशील
 help-button =
     .label = मदत
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = संकेत स्थळ { $website } तर्फे आपण पहात असलेल्या पृष्ठाकरीता एनक्रिप्शन नाही.
+security-technical-no-encryption-transit = इंटरनेटवरील विना एनक्रिप्शन पाठविलेली माहिती इतरांकडुन स्थानांतरेवेळी पाहिल्या जाऊ शकते.
+security-technical-no-encryption-page = इंटरनेटवर स्थानांतर करण्यापूर्वी आपण पहात असलेले पृष्ठ एनक्रिप्ट केले नव्हते.
 security-technical-encrypted-page = इंटरनेटवर स्थानांतर करण्यापूर्वी आपण पहात असलेले पृष्ठ एनक्रिप्ट केले होते.
 security-technical-encrypted-description = एनक्रिप्शनमुळे अनधिकृत व्यक्तिंना एका संगणकावरून दुसऱ्या संगणकावर पाठविलेली माहिती पाहण्यास कठिण जाते. त्यामुळे नेटवर्कवरून ये जा करणारे हे पृष्ठ कुणी वाचेल याची शक्यता खुप कमी आहे.
 security-technical-mixed-content-description = इंटरनेटवर स्थानांतर करण्यापूर्वी पृष्ठामधील काही भाग कुटलिपीत नाही.
@@ -123,6 +128,8 @@ security-site-data-no = नाही
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = जुळवणी एनक्रिप्टेड नाही
 security-technical-mixed-content =
     .value = जुळवणी अंशतः कुटलिपीत
 
