@@ -91,6 +91,7 @@ set-password-reminder = Pouezus: Mar bez ankouaet ger-tremen ho testeni atoriñ 
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Roit ar ger-tremen arveret evit enrinegañ an testeni atoriñ-mañ:
 
 ## Protected authentication dialog
 

@@ -107,6 +107,11 @@ security-view-technical =
     .value = Munudoù kalvezel
 help-button =
     .label = Skoazell
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = N'eo ket skoret an enrinegañ evit ar pajennadoù emaoc'h o welout gant al lec'hienn { $website }.
+security-technical-no-encryption-transit = Ar stlennoù kaset dre internet hep bezañ bet enrineget a c’hallfe bezañ lennet gant tud all e-pad m’emañ o veajiñ.
+security-technical-no-encryption-page = Ar bajennad emaoc'h o welet na oa ket bet enrineget kent bezañ kehentet dre an internet.
 security-technical-encrypted-page = Ar bajennad emaoc'h o welet a oa bet enrineget kent bezañ kehentet dre an internet.
 security-technical-encrypted-description = Dre an enrinegañ eo diaes-kenañ, evit an dud nad int ket bet aotreet, gwelout ar stlennoù o veajiñ etre an urzhiataerioù. Neuze n’eus ket kalz tebegezhioù ma vefe bet lennet ar bajennad-mañ gant unan bennak e-pad m’edo o veajiñ dre ar rouedad.
 security-technical-mixed-content-description = Lodoù eus ar bajennad emaoc'h o welout n'int ket bet enrineget kent bezañ kehentet dre an internet.
@@ -126,6 +131,8 @@ security-site-data-no = Ket
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Kennaskañ dienrinek
 security-technical-mixed-content =
     .value = Kennaskañ enrinek a-zarn
 
