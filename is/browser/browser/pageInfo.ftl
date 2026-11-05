@@ -110,6 +110,11 @@ security-view-technical =
     .value = Tæknileg atriði
 help-button =
     .label = Help
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Vefsvæðið { $website } styður ekki dulritun fyrir síðuna sem þú ert að skoða.
+security-technical-no-encryption-transit = Þær upplýsingar sem eru sendar yfir netið án dulritunar geta aðrir skoðað á meðan gögnin eru að sendast.
+security-technical-no-encryption-page = Síðan sem þú ert að skoða var ekki dulkóðuð áður en hún var send yfir Internetið.
 security-technical-encrypted-page = Síðan sem þú ert að skoða var dulkóðuð áður en hún var send yfir Internetið.
 security-technical-encrypted-description = Dulritun gerir óviðkomandi nánast ómögulegt að skoða upplýsingar sem eru að ferðast á milli tölva. Það er því frekar ólíklegt að nokkur geti lesið síðu þegar hún er send á netinu.
 security-technical-mixed-content-description = Sumir hlutar af síðunni sem þú ert að skoða voru ekki dulkóðaðar áður en þær voru sendar yfir Internetið.
@@ -129,6 +134,8 @@ security-site-data-no = Nei
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Tenging ekki dulkóðuð
 security-technical-mixed-content =
     .value = Tenging að hluta til dulkóðuð
 

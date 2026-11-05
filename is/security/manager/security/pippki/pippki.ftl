@@ -96,6 +96,7 @@ set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits ge
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Settu inn lykilorðið sem var notað til að dulkóða öryggisafrit skilríkis:
 
 ## Protected authentication dialog
 
