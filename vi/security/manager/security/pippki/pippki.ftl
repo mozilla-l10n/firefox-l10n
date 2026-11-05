@@ -14,6 +14,8 @@ change-password-token = Thiết bị bảo mật: { $tokenName }
 change-password-old = Mật khẩu hiện tại:
 change-password-new = Mật khẩu mới:
 change-password-reenter = Mật khẩu mới (nhập lại):
+change-password-not-set =
+    .value = (chưa đặt)
 pippki-failed-pw-change = Không thể thay đổi mật khẩu.
 pippki-incorrect-pw = Bạn đã không nhập đúng mật khẩu hiện tại. Vui lòng thử lại.
 pippki-pw-change-ok = Đã thay đổi mật khẩu.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Mật khẩu sao lưu chứng chỉ (nhập lại):
 set-password-reminder = Quan trọng: Nếu bạn quên mật khẩu sao lưu chứng chỉ, sau này bạn sẽ không thể phục hồi bản sao lưu này. Hãy lưu vào một nơi an toàn.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
