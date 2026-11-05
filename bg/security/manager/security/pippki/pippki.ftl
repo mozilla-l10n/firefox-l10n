@@ -14,6 +14,8 @@ change-password-token = Устройство по безопасността: { 
 change-password-old = Текуща парола:
 change-password-new = Нова парола:
 change-password-reenter = Нова парола (отново):
+change-password-not-set =
+    .value = (не е зададена)
 pippki-failed-pw-change = Грешка при промяна на паролата.
 pippki-incorrect-pw = Паролата, която въведохте е грешна. Опитайте отново.
 pippki-pw-change-ok = Паролата е успешно сменена.
@@ -91,3 +93,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Парола на резервното копие на сертификат (отново):
 set-password-reminder = Важно: Ако забравите паролата на резервното копие на сертификата, по-късно няма да може да възстановите от това резервно копие. Моля, запишете я на сигурно място.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
