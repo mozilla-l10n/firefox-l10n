@@ -24,6 +24,14 @@ dom-manifest-invalid-css-color = { $property }: { $value } är inte en giltig CS
 # Example: "lang: 42 is not a valid language code."
 dom-manifest-lang-is-invalid = { $property }: { $value } är inte en giltig språkkod.
 # Variables:
+#   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
+#   $index (Number) - The index of the image object that is invalid, starting from 0.
+#   $member (String) - The name of the member that is invalid, e.g. "src".
+#   $value (String) - The invalid value.
+# There is no final period, so that it is not mistaken for part of the URL.
+# Example: "icons item at index 2 is invalid. The src member is an invalid URL http://:Invalid"
+dom-manifest-image-url-is-invalid = Objektet { $memberName } vid index { $index } är ogiltig. Medlemmen { $member } är en ogiltig URL { $value }
+# Variables:
 #   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
 #   $index (Number) - The index of the image object that is unusable, starting from 0.
 # Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
