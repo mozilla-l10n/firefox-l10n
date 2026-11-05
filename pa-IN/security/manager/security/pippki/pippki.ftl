@@ -14,6 +14,8 @@ change-password-token = ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ: { $tokenName }
 change-password-old = ਮੌਜੂਦਾ ਪਾਸਵਰਡ:
 change-password-new = ਨਵਾਂ ਪਾਸਵਰਡ:
 change-password-reenter = ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):
+change-password-not-set =
+    .value = (ਸੈੱਟ ਨਹੀਂ)
 pippki-failed-pw-change = ਪਾਸਵਰਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 pippki-incorrect-pw = ਤੁਸੀਂ ਆਪਣਾ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਠੀਕ ਨਹੀਂ ਭਰਿਆ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
 pippki-pw-change-ok = ਪਾਸਵਰਡ ਕਾਮਯਾਬੀ ਨਾਲ ਬਦਲਿਆ ਹੈ।
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ (ਪੁਸ਼ਟੀ):
 set-password-reminder = ਖਾਸ: ਜੇਕਰ ਤੁਸੀਂ ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਤਾਂ ਤੁਸੀਨ ਇਸ ਬੈਕਅੱਪ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੋਗੇ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਰੱਖੋ।
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

@@ -110,6 +110,11 @@ security-view-technical =
     .value = ਤਕਨੀਕੀ ਵੇਰਵੇ
 help-button =
     .label = ਮਦਦ
+security-technical-encrypted-page = ਸਫਾ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਵੇਖ ਰਹੇ ਹੋ, ਇੰਟਰਨੈੱਟ ਉੱਪਰ ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟਡ ਕੀਤਾ ਗਿਆ ਹੈ।
+security-technical-encrypted-description = ਇਕ੍ਰਿਪਸ਼ਨ ਨਾ-ਪ੍ਰਮਾਣਿਤ ਵਿਅਕਤੀਆਂ ਨੂੰ ਕੰਪਿਊਟਰਾਂ ਵਿੱਚ ਭੇਜੀ ਜਾਣ ਵਾਲੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣਾ ਅਸੰਭਵ ਬਣਾ ਦਿੰਦੀ ਹੈ। ਇਸਕਰਕੇ ਇਸ ਦੀ ਸੰਭਵਨਾ ਬਹੁਤ ਘੱਟ ਹੈ ਕਿ ਨੈੱਟਵਰਕਾਂ ਵਿੱਚ ਭੇਜਣ ਦੌਰਾਨ ਕੋਈ ਇਸ ਸਫੇ ਨੂੰ ਪੜ ਸਕੇ।
+security-technical-mixed-content-description = ਸਫ਼ੇ ਦੇ ਹਿੱਸੇ, ਜੋ ਕਿ ਤੁਸੀਂ ਵੇਖ ਰਹੇ ਹੋ, ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਹਨ
+security-technical-weak-cipher = ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਕਮਜ਼ੋਰ ਇੰਕ੍ਰਿਪਨ ਵਰਤਦਾ ਹੈ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ। ਤੁਹਾਡੇ ਵਲੋਂ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਨੂੰ ਹੋਰ ਲੋਕ ਵੇਖ ਸਕਦੇ ਹਨ ਜਾਂ ਵੈੱਬਸਾਈਟ ਦੇ ਰਵੱਈਏ ਨੂੰ ਸੋਧਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+security-technical-ct-compliant = ਇਹ ਵੈੱਬਸਾਈਟ ਸਰਟੀਫਿਕੇਟ ਟਰਾਂਸਪਰੇਸੀ ਪਾਲਸੀ ਦੇ ਅਨੁਕੂਲ ਹੈ।
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼ ਅਤੇ { $valu
 security-site-data-only = ਹਾਂ ਜੀ, { $value } { $unit } ਸਾਈਟ ਡਾਟਾ
 security-site-data-cookies-only = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼
 security-site-data-no = ਨਹੀਂ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = ਕਨੈਕਸ਼ਨ ਅਧੂਰਾ ਇੰਕ੍ਰਿਪਟਡ ਹੈ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = ਕਨੈਕਸ਼ਨ ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ({ $algorithm }, { $keySize } ਬਿੱਟ ਕੁੰਜੀਆਂ, { $protocol })
+security-technical-broken-encryption =
+    .value = ਖ਼ਰਾਬ ਇੰਕ੍ਰਿਪਸ਼ਨ ({ $algorithm }, { $keySize } ਬਿੱਟ ਕੁੰਜੀਆਂ, { $protocol })
 
 ##
 
