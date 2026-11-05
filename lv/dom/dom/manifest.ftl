@@ -7,6 +7,12 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-should-be-object = Manifestam jābū objektam.
+dom-manifest-scope-url-invalid = Apjoma URL nav korekta.
+dom-manifest-scope-not-same-origin = Apjoma URL jābūt tādai pat kā izcelsmes dokumentam.
+dom-manifest-start-url-outside-scope = Sākuma URL ir ārpus apjoma, tātad apjoms nav derīgs.
+dom-manifest-start-url-invalid = Apjoma URL nav korekta.
+dom-manifest-start-url-should-be-same-origin = Apjoma URL jābūt tādai pat kā izcelsmes dokumentam.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
