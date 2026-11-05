@@ -92,6 +92,32 @@ security-view-technical =
     .value = Obulambulukufu Obw'ekikugu
 help-button =
     .label = Yamba
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Omuko { $website } tteguwagira okukweka ku muko gwoliko.
+security-technical-no-encryption-transit = Obubaka obuwerezeddwa okuyita ku lutimbe nga ttemakyakalanyi ngaywa kulabwa abuntu abalala mu lungendo.
+security-technical-encrypted-page = Ekyapa kyolimu kulaba kyi kikisibwa nga ttekyinaba kutwalirwa ku lutimbe lwe siyona.
+security-technical-mixed-content-description = Ebifuu bimu ku kyapa kyoli mu laba ttebikisibwa nga ttebinatwalindwa ku lutimbe lwe siyona.
+
+## These strings are used to tell the user if the website is storing cookies
+## and data on the users computer in the security tab of pageInfo
+## Variables:
+##   $value (number) - Amount of data being stored
+##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Eggatta nga Ttekyakalanyi
+security-technical-mixed-content =
+    .value = Ekwaso Ekisibwa mu bitundutundu
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
