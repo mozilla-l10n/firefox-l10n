@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sertifikaadi allalaadimine
 download-cert-message = Uus sertifitseerimiskeskus (SK) palub end tunnustada.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Kas usaldad SK-d "{ $caName }" järgnevaks otstarbeks?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifitseerimiskeskus (nimi määramata)
 download-cert-trust-ssl =
     .label = Usalda seda SK-d veebilehtede tuvastamisel.
 download-cert-trust-email =
@@ -91,6 +96,7 @@ set-password-reminder = Tähtis: kui sa unustad varukoopia parooli, ei ole võim
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Palun sisesta selle sertifikaadi varukoopia krüptimiseks kasutatud parool:
 
 ## Protected authentication dialog
 
