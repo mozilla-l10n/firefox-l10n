@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar de un altere
 contextual-manager-passwords-command-import = Importar de un file…
 contextual-manager-passwords-command-export = Exportar contrasignos
 contextual-manager-passwords-command-remove-all = Remover tote le contrasignos
+contextual-manager-passwords-command-delete-all = Deler tote le contrasignos
 contextual-manager-passwords-command-options = Optiones
 contextual-manager-passwords-command-help = Adjuta
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Remover contrasigno?
        *[other] Remover tote le { $total } contrasignos?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Deler { $count } contrasigno?
+       *[other] Deler { $count } contrasignos?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -117,6 +125,14 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Remover
        *[other] Remover toto
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Deler
+        [one] Deler toto
+       *[other] Deler toto
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -133,6 +149,14 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Isto removera tu contrasigno salvate a { -brand-short-name } sur tote tu apparatos synchronisate e qualcunque aviso de violation. Tu non potera disfacer iste action.
         [one] Isto removera tu contrasigno salvate a { -brand-short-name } sur tote tu apparatos synchronisate e qualcunque aviso de violation. Tu non potera disfacer iste action.
        *[other] Isto removera tu contrasignos salvate a { -brand-short-name } sur tote tu apparatos synchronisate e qualcunque aviso de violation. Tu non potera disfacer iste action.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Isto lo dele ab { -brand-short-name } sur cata apparato que synchronisa tu contrasignos. Tu non pote disfacer lo.
+        [one] Isto los dele ab { -brand-short-name } sur cata apparato que synchronisa tu contrasignos. Tu non pote disfacer lo.
+       *[other] Isto los dele ab { -brand-short-name } sur cata apparato que synchronisa tu contrasignos. Tu non pote disfacer lo.
     }
 contextual-manager-passwords-origin-label = Sito web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -177,12 +201,16 @@ contextual-manager-passwords-radiobutton-all = Tote ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Remover le contrasigno?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Deler le contrasigno?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Tu non potera disfacer lo
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Retro
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Remover
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Deler
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancellar
 contextual-manager-passwords-alert-card =
@@ -214,6 +242,9 @@ contextual-manager-passwords-update-label =
     .label = Actualisar contrasigno
 contextual-manager-passwords-remove-label =
     .title = Remover contrasigno
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Deler le contrasigno
 contextual-manager-passwords-origin-field =
     .label = Adresse web
     .placeholder = https://www.example.com
@@ -328,6 +359,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Si, remover contrasigno
        *[other] Si, remover contrasignos
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Si, deler le contrasigno
+        [one] Si, deler le contrasigno
+       *[other] Si, deler le contrasignos
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Pro visualisar le contrasignos salvate, insere le contrasigno principal.

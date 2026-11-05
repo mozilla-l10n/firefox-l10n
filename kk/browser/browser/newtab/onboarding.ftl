@@ -654,4 +654,14 @@ hnt-card-pin-body =
        *[other] Тапсырмалар панелінен қорғалған шолуға қайта өтіңіз.
     }
 hnt-card-mobile-header = Телефоныңызға кірістірілген қорғауды алыңыз
+hnt-card-wallpaper-header = Жаңа тұсқағаз таңдаңыз
+hnt-card-wallpaper-body = Өзіңізге ұнайтын фонмен осы экранды үйіңіздей жайлы етіңіз.
 hnt-card-wallpaper-primary-button = Баптауды бастау
+hnt-card-taskbar-tabs-primary-button = Тапсырмалар панеліне сайттарды қосу
+hnt-card-extensions-header = { -brand-short-name } мүмкіндіктерін кеңейтулермен арттырыңыз
+hnt-card-extensions-body = Шолуыңызды ең сүйікті кеңейтулерімізбен баптаңыз.
+hnt-card-extensions-primary-button = Шолу
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Бәрі дайын. Өз ісіңізге кірісіңіз.
+hnt-card-last-card-header-end = Бақылаудан қорғаныс іске қосулы.

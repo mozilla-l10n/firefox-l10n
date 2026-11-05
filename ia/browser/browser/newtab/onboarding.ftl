@@ -637,3 +637,7 @@ welcome-back-onboarding-card-label-tabs = Pone in ordine con schedas vertical e 
 welcome-back-onboarding-card-label-vpn = Remane celate con le VPN integrate
 welcome-back-onboarding-card-label-pdf = Evidentia, firma, e labora con le files pdf
 welcome-back-onboarding-card-tilebutton-label = Prova lo
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Importar tu datos
