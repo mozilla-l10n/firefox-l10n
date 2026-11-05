@@ -110,6 +110,16 @@ security-view-technical =
     .value = Технички детали
 help-button =
     .label = Помош
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Мрежното место { $website } не поддржува енкрипција за страницата која ја гледате.
+security-technical-no-encryption-transit = Информациите кои преку Интернет се праќаат без енкрипција можат да бидат видени од други луѓе.
+security-technical-no-encryption-page = Страницата што ја гледате не беше шифрирана пред да се пренесе преку интернет.
+security-technical-encrypted-page = Страницата што ја гледате беше шифрирана пред да се пренесе преку интернет.
+security-technical-encrypted-description = Шифрирањето им отежнува на неовластените лица да ги прегледуваат информациите што патуваат меѓу компјутерите. Затоа е малку веројатно дека некој ја прочитал оваа страница додека патувала низ мрежата.
+security-technical-mixed-content-description = Делови од страницата што ја гледате не беа шифрирани пред да се пренесат преку интернет.
+security-technical-weak-cipher = Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна. Други луѓе можат да ги видат Вашите информации или да го променат однесувањето на мрежното место.
+security-technical-ct-compliant = Ова мрежно место е во согласност со политиката за транспарентност на сертификати.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Да, колачиња и { $value } { $unit } по
 security-site-data-only = Да, { $value } { $unit } податоци од местото
 security-site-data-cookies-only = Да, колачиња
 security-site-data-no = Не
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Врската не е енкриптирана
+security-technical-mixed-content =
+    .value = Врската е само делумно енкриптирана
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Шифрирана врска ({ $algorithm }, { $keySize } бит клучеви, { $protocol })
+security-technical-broken-encryption =
+    .value = Неисправно шифрирање ({ $algorithm }, { $keySize } битни клучеви, { $protocol })
 
 ##
 
