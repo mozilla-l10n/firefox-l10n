@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
 download-cert-message = కొత్త ధృవీకరణపత్ర అధారిటీ (CA)ని నమ్మమని మీరు అడగబడుతున్నారు.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = క్రింది ప్రయోజనాల కొరకు “{ $caName }” ను నమ్మాలని అనుకొంటున్నారా?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ధృవీకరణపత్రం అధారిటీ (పేరులేదు)
 download-cert-trust-ssl =
     .label = వెబ్ సైట్లను గుర్తించడానికి ఈ CAను విశ్వసించు.
 download-cert-trust-email =
