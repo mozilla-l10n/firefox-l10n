@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = Spør { $provider }
 genai-menu-new-badge = Ny
 genai-menu-summarize-page = Oppsummer side
+genai-menu-summarize-with-ai = Oppsummer med AI
 genai-input-ask-smart-window =
     .placeholder = Spør…
 genai-input-ask-generic =
     .placeholder = Spør AI chatbot…
+genai-input-ask-ai =
+    .placeholder = Spør AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider } …

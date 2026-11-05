@@ -61,3 +61,21 @@ extension-nova-smoke-name = Røyk
 extension-classic-proton-name = Grå
 # Name for a blue theme.
 extension-classic-blue-name = Blå
+# Name for a cyan theme.
+extension-classic-cyan-name = Cyan
+# Name for a violet theme.
+extension-classic-violet-name = Fiolett
+# Name for a green theme.
+extension-classic-green-name = Grønn
+# Name for a purple theme.
+extension-classic-purple-name = Lilla
+# Name for a pink theme.
+extension-classic-pink-name = Rosa
+# Name for a yellow theme.
+extension-classic-yellow-name = Gul
+# Name for a red theme.
+extension-classic-red-name = Rød
+# Name for an orange theme.
+extension-classic-orange-name = Oransje
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = OLED-svart
