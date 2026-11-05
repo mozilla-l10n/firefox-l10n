@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Завантаження сертифіката
 download-cert-message = Вас просять довіряти новому центру сертифікації (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ви хочете довіряти “{ $caName }” для таких цілей?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Центр сертифікації (безіменний)
 download-cert-trust-ssl =
     .label = Довіряти при ідентифікації вебсайтів.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Увага: якщо ви забудете ваш пар
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Введіть пароль, який був використаний для шифрування цієї резервної копії сертифіката:
 
 ## Protected authentication dialog
 

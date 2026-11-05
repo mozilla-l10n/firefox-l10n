@@ -110,6 +110,11 @@ security-view-technical =
     .value = Технічні подробиці
 help-button =
     .label = Допомога
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Сайт { $website } не підтримує шифрування для цієї сторінки.
+security-technical-no-encryption-transit = Інформація, переслана по інтернету без шифрування, може бути перехоплена під час передачі.
+security-technical-no-encryption-page = Сторінка, яку ви переглядаєте, не була зашифрована перед тим, як була передана через Інтернет.
 security-technical-encrypted-page = Сторінка, яку ви переглядаєте, була зашифрована перед тим, як була передана через Інтернет.
 security-technical-encrypted-description = Шифрування значно ускладнює перегляд інформації, що передається між комп'ютерами, сторонніми особами. Тому малоймовірно, що хтось зможе прочитати цю сторінку під час її передавання в мережі.
 security-technical-mixed-content-description = Частини сторінки, яку ви переглядаєте, не були зашифровані перед їх передаванням в Інтернеті.
@@ -129,6 +134,8 @@ security-site-data-no = Ні
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = З'єднання не зашифроване
 security-technical-mixed-content =
     .value = З'єднання частково зашифроване
 
