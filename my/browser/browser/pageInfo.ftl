@@ -102,6 +102,11 @@ security-view-technical =
     .value = နည်းပညာဆိုင်ရာ အသေးစိတ်အချက်အလက်များ
 help-button =
     .label = အကူအညီ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = The website { $website } does not support encryption for the page you are viewing.
+security-technical-no-encryption-transit = စာဝှက်စနစ် မပါပဲ ပို့လိုက်တဲ့ အချက်အလက်ကို ၄င်းကူးပြောင်းနေချိန်မှာ အခြား လူများက မြင်တွေ့နိုင်တယ်။
+security-technical-no-encryption-page = သင်ကြည့်နေသော စာမျက်နှာသည် အင်တာနက်ပေါ်သို့ တက်မလာခင် encrypt မပြုလုပ်လာခဲ့ပါ
 security-technical-encrypted-page = သင်ရှုမြင်နေတဲ့ စာမျက်နှာဟာ အင်တာနက်ပေါ် မကူးပြောင်းခင် စာဝှက်ထားတယ်။
 security-technical-encrypted-description = Encryption ကွန်ပျူတာများကြားတွင် သတင်းအချက်အလက်ကူး ယူနေသည်ကို ကြားဖြတ်ရယူခြင်းအား ခက်ခဲစေပါသည်။ထို့ကြောင့် ယခု စာမျက်နှာအား တစ်ခြားတစ်စုံတရာမှ ကြည့်ရှုခြင်း မရှိစေ ရန်သုံးခြင်းဖြစ်ပါသှ်။
 security-technical-mixed-content-description = သင်ရှုမြင်နေတဲ့ စာမျက်နှာ အပိုင်းများဟာ အင်တာနက်ပေါ် မထုတ်လွှင့်ခင် စာဝှက် မထားဘူး။
@@ -121,6 +126,8 @@ security-site-data-no = မသိမ်းပါ
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = စာဝှက်မထားတဲ့ ချိတ်ဆက်မှု
 security-technical-mixed-content =
     .value = ချိတ်ဆက်မှု တပိုင်းတစ စာဝှက်ထားတယ်
 

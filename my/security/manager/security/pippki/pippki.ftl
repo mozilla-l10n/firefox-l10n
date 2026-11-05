@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = လက်မှတ် ဆွဲချနေတယ်
 download-cert-message = လက်မှတ် အာဏာပိုင် (CA) သစ်တခုကို စိတ်ချဖို့ သင့်ကို တောင်းဆိုခဲ့တယ်။
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = အောက်ပါ ရည်ရွယ်ချက်အတွက် "{ $caName }" ကို သင် စိတ်ချလိုသလား။
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = လက်မှတ် အခွင့်အာဏာ (အမည်​မပေးထားသော)
 download-cert-trust-ssl =
     .label = ဝဘ်ဆိုက်များကို ခွဲခြားသိရှိနိုင်ရန် ယခု CA ကို သုံးမည်။
 download-cert-trust-email =
@@ -76,6 +81,7 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = စာဝှက်စဉ် အသုံးပြုခဲ့သော ဒီအရန်အထောက်အထားလက်မှတ်၏ စကားဝှက်ကို ရိုက်ပါ။:
 
 ## Protected authentication dialog
 
