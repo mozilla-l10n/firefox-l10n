@@ -22,6 +22,8 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Μάθετε περισσότερα
+# Shown in the dropdown of a login field on a page that is not secure (HTTP).
+autocomplete-insecure-login-warning = Αυτή η σύνδεση δεν είναι ασφαλής. Οι συνδέσεις που γίνονται εδώ ενδέχεται να υποκλαπούν.
 
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
