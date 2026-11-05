@@ -12,6 +12,8 @@ change-password-token = Peranti Sekuriti: { $tokenName }
 change-password-old = Kata laluan semasa:
 change-password-new = Katalalan baru:
 change-password-reenter = Kata laluan baru (lagi):
+change-password-not-set =
+    .value = (tidak ditetapkan)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Kata laluan sandaran sijil (lagi):
 set-password-reminder = Penting: Jika anda lupa kata laluan sandaran sijil anda, anda tidak akan dapat pulihkan sandaran ini lagi.  Sila catat di lokasi yang selamat.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
