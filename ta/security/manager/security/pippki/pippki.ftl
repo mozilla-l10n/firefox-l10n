@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = சான்றிதழ் பதிவிறக்கம் செய்யப்படுகிறது
 download-cert-message = புதிய் சான்றிதழ் உரிமம் (CA) பெற்றவர்களை நம்ப சொல்கிறார்கள்.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Do you want to trust "{ $caName }" for the  following purposes?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = சான்றிதழ் ஆணையம் (பெயரிடாதது)
 download-cert-trust-ssl =
     .label = இணையதளத்தை கண்டுபிடிக்க இந்த CA வை நம்பு.
 download-cert-trust-email =
@@ -76,6 +81,7 @@ set-password-reminder = முக்கியம்: உங்கள் சா�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = காப்பு சான்றிதழை மறைகுறியாக்க பயன்படுத்தப்பட்ட கடவுச்சொல்லை உள்ளிடவும்:
 
 ## Protected authentication dialog
 
