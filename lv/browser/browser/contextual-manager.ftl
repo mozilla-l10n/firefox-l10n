@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Ievietot datus no cit
 contextual-manager-passwords-command-import = Ievietot no datnes…
 contextual-manager-passwords-command-export = Izgūt paroles
 contextual-manager-passwords-command-remove-all = Noņemt visas paroles
+contextual-manager-passwords-command-delete-all = Dzēst visas paroles
 contextual-manager-passwords-command-options = Iespējas
 contextual-manager-passwords-command-help = Palīdzība
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,14 @@ contextual-manager-passwords-remove-all-title =
         [zero] Noņemt { $total } paroļu?
         [one] Noņemt { $total } paroli?
        *[other] Noņemt { $total } paroles?
+    }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Vai dzēst { $total } paroli?
+        [zero] Vai dzēst { $total } paroles?
+       *[other] Vai dzēst { $total } paroles?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
