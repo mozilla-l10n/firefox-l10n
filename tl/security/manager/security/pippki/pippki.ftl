@@ -14,6 +14,8 @@ change-password-token = Security Device: { $tokenName }
 change-password-old = Kasalukuyang password:
 change-password-new = Bagong password:
 change-password-reenter = Bagong password (ulit):
+change-password-not-set =
+    .value = (not set)
 pippki-failed-pw-change = Hindi kayang magpalit ng password.
 pippki-incorrect-pw = Hindi ka nagpasok ng tamang kasalukuyang password. Subukan uli.
 pippki-pw-change-ok = Matagumpay na napalitan ang password.
@@ -86,3 +88,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup password (pakiulit):
 set-password-reminder = Mahalaga: Kung nakalimutan mo ang iyong password sa backup certificate, hindi mo magagawang ibalik ang backup na ito mamaya. Paki-record ang mga ito sa isang ligtas na lokasyon.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
