@@ -110,6 +110,11 @@ security-view-technical =
     .value = Tekniske detaljer
 help-button =
     .label = Hjelp
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Nettstedet { $website } støtter ikke kryptering for nettsiden du ser på.
+security-technical-no-encryption-transit = Informasjon som blir sendt over Internett uten kryptering kan bli lest av andre mens den overføres.
+security-technical-no-encryption-page = Siden som du ser på ble ikke kryptert før den ble overført over Internett.
 security-technical-encrypted-page = Siden som du ser på ble kryptert før den ble overført over Internett.
 security-technical-encrypted-description = Kryptering gjør det vanskelig for uautoriserte personer å se informasjonen som overføres mellom datamaskiner. Det er derfor usannsynlig at noen leste nettsiden mens den ble overført over nettverket.
 security-technical-mixed-content-description = Deler av siden du viser ble ikke kryptert før den ble overført over Internett.
@@ -129,6 +134,8 @@ security-site-data-no = Nei
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Tilkoblingen er ikke kryptert
 security-technical-mixed-content =
     .value = Innholdet er delvis kryptert
 

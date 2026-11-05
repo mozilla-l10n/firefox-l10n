@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Laster ned sertifikat
 download-cert-message = Du er forespurt å ha tillit til en ny sertifikatutsteder (CA)
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vil du stole på «{ $caName }» for følgende formål?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifikatutsteder (uten navn)
 download-cert-trust-ssl =
     .label = Stol på denne CA-en til å identifisere nettsider.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Viktig: Hvis du glemmer passordet til sertifikatsikkerhe
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Skriv inn passordet som ble brukt til å kryptere denne sertifikat-sikkerhetskopien:
 
 ## Protected authentication dialog
 
