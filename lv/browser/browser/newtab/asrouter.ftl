@@ -74,6 +74,8 @@ fxa-adoption-addresses-backup-subtitle = Aizsargājiet savas saglabātās adrese
 fxa-adoption-credit-cards-backup-title = Veidosim drošības kopijas jūsu maksājuma metodēm
 fxa-adoption-credit-cards-backup-subtitle = Aizsargājiet savus maksājuma veidus, vienādojot tos ar savās ierīcēs, izmantojot šifrēšanu.
 fxa-adoption-bookmarks-treatment-backup-title = Veidosim rezerves kopiju (-as) jūsu grāmatzīmēm
+fxa-adoption-bookmarks-treatment-backup-subtitle = Aizsargājiet savas grāmatzīmes, sinhronizējot tās ar ierīcēm, izmantojot šifrēšanu.
+fxa-adoption-primary-button-label = Reģistrēties
 
 ## What's New toolbar button and panel
 
@@ -193,6 +195,20 @@ fox-doodle-pin-secondary = Ne tagad
 set-default-pdf-handler-headline = <strong>PDF datnes tagad tiek atvērtas ar { -brand-short-name }.</strong> Labo vai paraksti veidlapas savā pārlūkā! Lai mainītu, iestatījumos jāmeklē “PDF”.
 set-default-pdf-handler-primary = Sapratu
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Parakstieties uz punktētās līnijas — vai jebkur citur!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Uzzīmējiet, ierakstiet vai augšupielādējiet savu parakstu un pēc tam novietojiet to tieši tur, kur vēlaties. Saglabājiet savus iecienītākos parakstus nākamajai reizei.
+annotations-make-default-pdf-handler-title = Vai { -brand-short-name } ir jūsu noklusējuma PDF redaktors?
+annotations-make-default-pdf-handler-subtitle = Jums būs piekļuve mūsu rīkiem katru reizi, kad atvērsiet PDF failu.
+annotations-make-default-pdf-primary-cta-label = Iestatīt kā noklusējuma vērtību
+annotations-make-default-pdf-next-label = Nākamais
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Plānojat tikt pie jaunas ierīces?
@@ -213,6 +229,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Izveidot kontu
 device-migration-fxa-spotlight-getting-new-device-header-2 = Plānojat tikt pie jaunas ierīces?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Veiciet dažus vienkāršus soļus, lai, sākot darbu ar jaunu ierīci, paņemtu līdzi grāmatzīmes, vēsturi un paroles.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kā dublēt savus datus
+device-migration-fxa-spotlight-sync-header = Pārlūkojiet ne mirkli
+device-migration-fxa-spotlight-sync-body = Sinhronizējiet visu svarīgo informāciju, piemēram, grāmatzīmes un paroles, izmantojot šifrēšanu. Visu varat piekļūt jebkur, kur izmantojat { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Sākt darbu
 
 ## Set as Default PDF Reader Infobar
 

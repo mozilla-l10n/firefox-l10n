@@ -24,7 +24,7 @@ genai-settings-chat-scout-links = Výberom služby Yahoo Scout vyjadrujete súhl
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = Vytvor súhrn
-    .value = Vytvor súhrn pomocou presného a výstižného jazyka. Použi hlavičky a zoznamy s odrážkami v súhrne, aby bolo možné ho skenovať. Zachovaj význam a vecnú presnosť.
+    .value = Vytvor súhrn označeného textu pomocou presného a stručného jazyka. V zhrnutí použi nadpisy a odrážky, aby bol text prehľadný. Zachovaj pôvodný význam a faktickú správnosť.
 # Prompt purpose: help users understand what a webpage covers at a glance
 # $url (string) - address of the webpage to summarize
 genai-prompts-summarize-page = Vytvor súhrn webovej stránky na adrese { $url } presným a stručným jazykom. Použi nadpisy a zoznamy s odrážkami, aby sa dal rýchlo prečítať. Zachovaj pôvodný význam a faktickú správnosť.
@@ -35,15 +35,15 @@ genai-prompts-simplify =
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Otestuj ma
-    .value = Opýtaj sa ma označený text. Pýtaj sa ma na rôzne typy otázok, napríklad otázky s viacerými možnosťami, pravdivé alebo nepravdivé a krátke odpovede. Počkaj na moju odpoveď, kým prejdeš na ďalšiu otázku.
+    .value = Otestuj ma z označeného textu. Klaď mi rôzne typy otázok, napríklad otázky s výberom z možností, otázky typu „pravda alebo nepravda“ či otázky vyžadujúce krátku odpoveď. Pred prechodom na ďalšiu otázku počkaj na moju odpoveď.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Vysvetli to
-    .value = Vysvetli kľúčové pojmy v tomto výbere pomocou jednoduchých slov. Použi aj príklady.
+    .value = Vysvetli kľúčové pojmy v označenom texte jednoduchými slovami. Použi aj príklady.
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
     .label = Skontroluj text
-    .value = Skontroluj označený text na pravopisné a gramatické chyby. Identifikuj prípadné chyby a poskytni opravenú verziu textu. Zachovaj význam a vecnú správnosť a najskôr vypíš zoznam navrhovaných opráv, po ktorom nasleduje konečná, opravená verzia textu.
+    .value = Skontroluj, či sa v označenom texte nevyskytujú pravopisné alebo gramatické chyby. Označ prípadné chyby a uveď opravenú verziu textu. Zachovaj pôvodný význam a faktickú správnosť. Najprv vypíš zoznam navrhovaných opráv a následne uveď finálnu, opravenú verziu textu.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
