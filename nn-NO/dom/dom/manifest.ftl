@@ -7,6 +7,30 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = ID-medlemmen matcha ikkje ein gyldig URL.
+dom-manifest-id-not-same-origin = Id-medlemmen må ha same opphav som start_url-medlemmen.
+dom-manifest-should-be-object = Manifest bør vera eit objekt.
+dom-manifest-scope-url-invalid = Skop-URL er ugyldig.
+dom-manifest-scope-not-same-origin = Skop-URL må vere av same opphav som dokumentet.
+dom-manifest-start-url-outside-scope = Start-URL er utanfor skopet, så skopet er ugyldig.
+dom-manifest-start-url-invalid = Start-URL er ugyldig.
+dom-manifest-start-url-should-be-same-origin = Start-URL må vere av same opphav som dokumentet.
+# Variables:
+#   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
+#   $property (String) - The name of the invalid property, e.g. "start_url".
+#   $expectedType (String) - The expected type of the property value, e.g. "string".
+# Example: "Expected the manifest’s start_url member to be a string."
+dom-manifest-invalid-type = Venta at { $objectName } sin { $property }-medlem å vere ein { $expectedType }.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
+#   $value (String) - The invalid value of the property.
+# Example: "theme_color: 42 is not a valid CSS color."
+dom-manifest-invalid-css-color = { $property }: { $value } er ikkje ein gyldig CSS-farge.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "lang".
+#   $value (String) - The invalid value of the property.
+# Example: "lang: 42 is not a valid language code."
+dom-manifest-lang-is-invalid = { $property }: { $value } er ikkje ein gyldig språkkode.
 # Variables:
 #   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
 #   $index (Number) - The index of the image object that is invalid, starting from 0.
