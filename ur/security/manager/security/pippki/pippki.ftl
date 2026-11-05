@@ -32,6 +32,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = تصدیق نامہ ڈاؤن لوڈ کر رہا ہے
 download-cert-message = آپ کو نئی مقتدرہ تصدیق نامہ (سی اے) پر بھروسے کے لیے کہا گیا ہے۔
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = کیا آپ مندرجہ ذیل مقاصد کے لیے "{ $caName }" پر بھروسا کرنا چاہتے ہیں؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = مقتدرہ تصدیق نامہ(بے نام)
 download-cert-trust-ssl =
     .label = ویب سائٹیں شناخت کرنے کے لیے اس CA پر بھروسا کریں۔
 download-cert-trust-email =
@@ -82,6 +87,7 @@ set-password-reminder = اہم: اگر آپ اپنا تصدیق نامہ پشت�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = برائے مہربانی وہ پاس ورڈ داخل کریں جو یہ تصدیق نامہ پشتارہ خفیہ کرنے میں استعمال کیا گیا تھا۔
 
 ## Protected authentication dialog
 
