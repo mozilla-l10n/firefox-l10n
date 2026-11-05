@@ -107,6 +107,11 @@ security-view-technical =
     .value = Detalhs tecnics
 help-button =
     .label = Ajuda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Lo site Web { $website } supòrta pas lo chiframent per la pagina actualament afichada.
+security-technical-no-encryption-transit = Las entresenhas mandadas sus Internet sens chiframent pòdon èsser vistas per d'autras personas durant lor transit.
+security-technical-no-encryption-page = La pagina que vesètz es estada chifrada abans sa transmission sus Internet.
 security-technical-encrypted-page = La pagina que vesètz es estada chifrada abans sa transmission sus Internet.
 security-technical-encrypted-description = Lo chiframent fa fòrt dificil a las personas pas autorizadas la visualizacion de la pagina durant son transit entre ordenadors. Doncas, es fòrt improbable que qualqu'un pòsca legir aquesta pagina durant son transit sus la ret.
 security-technical-mixed-content-description = D'unas partidas de la pagina que visionatz son pas estadas chifradas abans d'èsser transmesas sus Internet.
@@ -126,6 +131,8 @@ security-site-data-no = Non
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Connexion pas chifrada
 security-technical-mixed-content =
     .value = Connexion parcialament chifrada
 

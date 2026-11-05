@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Telecargament del certificat
 download-cert-message = Se vos a demandat de confirmar una autoritat de certificacion novèla (AC).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Volètz far fisança a « { $caName } » per las accions seguentas ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritat de certificacion (pas de nom)
 download-cert-trust-ssl =
     .label = Confirmar aquesta AC per identificar de sites Web.
 download-cert-trust-email =
@@ -93,6 +98,7 @@ set-password-reminder = Important : s'avètz oblidat vòstre senhal de segureta
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Picatz lo senhal per chifrar la còpia de seguretat d'aqueste certificat :
 
 ## Protected authentication dialog
 
