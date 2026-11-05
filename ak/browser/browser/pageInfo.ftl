@@ -88,6 +88,7 @@ security-view-technical =
     .value = nhunumu a edi akotene
 help-button =
     .label = Mboa
+security-technical-no-encryption-transit = Obubaka obuwerezeddwa okuyita ku lutimbe nga ttemakyakalanyi ngaywa kulabwa abuntu abalala mu lungendo.
 security-technical-encrypted-page = Ekyapa kyolimu kulaba kyi kikisibwa nga ttekyinaba kutwalirwa ku lutimbe lwe siyona.
 security-technical-mixed-content-description = Ebifuu bimu ku kyapa kyoli mu laba ttebikisibwa nga ttebinatwalindwa ku lutimbe lwe siyona.
 
