@@ -7,6 +7,12 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-should-be-object = Manifest-ը պետք է առարկա լինի։
+dom-manifest-scope-url-invalid = Շրջանակի URL֊ն անվավեր է։
+dom-manifest-scope-not-same-origin = Շրջանակի URL֊ը պետք է լինի նույն ծագմամբ, ինչպես փաստաթուղթը։
+dom-manifest-start-url-outside-scope = Մեկնարկային URL֊ն ընդգրկված է շրջանակից դուրս, ուստի շրջանակը անվավեր է։
+dom-manifest-start-url-invalid = Տվյալը անվավեր է
+dom-manifest-start-url-should-be-same-origin = Մեկնարկի URL֊ը պետք է լինի նույն ծագմամբ, ինչպես փաստաթուղթը․
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
