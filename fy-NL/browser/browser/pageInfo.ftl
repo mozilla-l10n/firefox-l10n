@@ -110,6 +110,11 @@ security-view-technical =
     .value = Technyske details
 help-button =
     .label = Help
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = De website { $website } stipet gjin kodearring foar de side dy’t jo besjogge.
+security-technical-no-encryption-transit = Ynformaasje dy’t sûnder kodearring oer it ynternet wurdt ferstjoerd, kin wylst de oerdracht sjoen wurde troch oare persoanen.
+security-technical-no-encryption-page = De side dy’t jo besjen wie net fersifere eardat dizze oer it ynternet ferstjoerd waard.
 security-technical-encrypted-page = De side dy’t jo besjogge is fersifere foardat dizze oer it ynternet ferstjoerd waard.
 security-technical-encrypted-description = Fersifering makket it swier foar persoanen sûnder foech om gegevens te besjen dy’t tusken kompjûters útwiksele wurdt. It is dêrom net wierskynlik dat ien dizze side lêzen hat wylst dit oer it netwurk ferstjoerd waard.
 security-technical-mixed-content-description = Dielen fan de side dy’t jo besjogge wiene net fersifere eardat se oer it ynternet ferstjoerd waarden.
@@ -129,6 +134,8 @@ security-site-data-no = Nee
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Net-befeilige ferbining
 security-technical-mixed-content =
     .value = Foar in part fersisere ferbining
 

@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sertifikaat downloade
 download-cert-message = Jo wurdt frege in nije sertifikaatautoriteit (CA) te fertrouwen.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Wolle jo ‘{ $caName }’ fertrouwe foar de folgjende doelen?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifikaatautoriteit (nammeleas)
 download-cert-trust-ssl =
     .label = Fertrou dizze CA foar it identifisearjen fan websites.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Wichtich: as jo jo wachtwurd foar de reservekopy fan it 
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Fier it wachtwurd yn dat brûkt is om de reservekopy fan dit sertifikaat te fersiferjen:
 
 ## Protected authentication dialog
 
