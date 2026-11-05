@@ -66,6 +66,27 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Meklēt
+home-prefs-stories-header2 =
+    .description = Izcils saturs, ko atlasa { -brand-product-name } saime
+    .label = Stāsti
+home-prefs-widgets-header =
+    .label = Logrīki
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Saraksti
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Logrīks Taimeris
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sports
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Pulkstenis
+home-prefs-mission-message2 =
+    .message = Mūsu sponsori atbalsta mūsu misiju veidot labāku tīmekli.
+home-prefs-manage-topics-link2 =
+    .label = Pārvaldīt tēmas
 home-prefs-manage-widgets-link =
     .label = Pārvaldīt logrīkus
 home-prefs-choose-wallpaper-link2 =
@@ -120,6 +141,9 @@ home-prefs-recent-activity-select =
     .aria-label = Nesenās darbības
 home-prefs-weather-header-srd =
     .label = Laikapstākļi
+home-prefs-support-firefox-header-srd =
+    .label = Atbalsts { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Uzziniet, kā
 
 ## Strings for the Privacy widget
 
@@ -134,6 +158,34 @@ newtab-privacy-widget-open-menu-button =
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
     .aria-label = Privātums
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Izsekotājs šodien bloķēts
+        [zero] Izsekotāji šodien bloķēti
+       *[other] Izsekotāji šodien bloķēti
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Visā { $count } vietnē
+        [zero] Vairāk nekā { $count } vietnēs
+       *[other] Vairāk nekā { $count } vietnēs
+    }
 
 ## Privacy widget — empty state
 

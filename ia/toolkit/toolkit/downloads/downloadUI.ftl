@@ -61,6 +61,26 @@ download-ui-confirm-quit-button =
         [windows] Exir de { -brand-short-name }
        *[other] Quita { -brand-short-name }
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Stoppar 1 discargamento e disconnecter se?
+        [one] Stoppar 1 discargamento e disconnecter se?
+       *[other] Stoppar { $downloadsCount } discargamentos e disconnecter se?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } probara a recomenciar le discargamentos de ubi tu te re-connecteva, ma le progresso pote esser perdite.
+download-ui-confirm-offline-button = Disconnecter se
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Stoppar 1 discargamento e clauder iste Fenestra private?
+        [one] Stoppar 1 discargamento e clauder iste Fenestra private?
+       *[other] Stoppar { $downloadsCount } discargamentos e clauder iste Fenestra private?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Tu non potera recomenciar iste discargamento.
+        [one] Tu non potera recomenciar iste discargamento.
+       *[other] Tu non potera recomenciar iste discargamentos.
+    }
 download-ui-confirm-private-browsing-button = Clauder fenestra
 
 ##

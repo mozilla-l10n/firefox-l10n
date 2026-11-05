@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Vide un menu contextual plu
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Monitor de ressources
+experimental-features-resource-monitor-description = Vide le uso estimate de memoria e CPU pro tu schedas aperte justo in le barra lateral, e discarga le schedas que tu non usa pro liberar ressources. <a data-l10n-name="connect">Condivide tu commentario</a>
