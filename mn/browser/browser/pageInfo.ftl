@@ -5,13 +5,11 @@
 menu-copy =
     .label = Сануул
     .accesskey = С
-
 select-all =
     .key = A
 menu-select-all =
     .label = Бүгдийг сонго
     .accesskey = Б
-
 general-tab =
     .label = Ердийн
     .accesskey = р
@@ -31,7 +29,6 @@ general-meta-name =
     .label = Нэр
 general-meta-content =
     .label = Бүтэц
-
 media-tab =
     .label = Дуу дүрс
     .accesskey = Д
@@ -59,13 +56,11 @@ media-save-as =
 media-save-image-as =
     .label = Нэр өгч хадгал…
     .accesskey = г
-
 perm-tab =
     .label = Хандах эрх
     .accesskey = э
 permissions-for =
     .value = Хандах эрхийн сан:
-
 security-tab =
     .label = Нууцлал
     .accesskey = ц
@@ -78,21 +73,35 @@ security-view-identity-owner =
     .value = Эзэмшигч:
 security-view-identity-verifier =
     .value = Шалгасан:
-
 security-view-privacy-viewpasswords =
     .label = Хадгалсан нууц үгсийг харах
     .accesskey = а
 security-view-technical =
     .value = Техникийн мэдээлэл
-
 help-button =
     .label = Тусламж
+security-technical-encrypted-page = Таны үзэж байгаа хуудас интернэтээр дамжуулагдахаасаа өмнө нууцлалын хувиргалт хийгдсэн байна.
+security-technical-mixed-content-description = Таны харж буй хуудасны зарим хэсэгт интернэтээр дамжуулагдахаасаа өмнө нууц хувиргалт хийгдээгүй байна
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Холболт нууцлалын хувиргалт хийгдээгүй байна
+security-technical-mixed-content =
+    .value = Холболт зарим хэсэгтээ нууц хувиргалт хийгдсэн
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -109,7 +118,6 @@ media-link = Тэмдэг зураг
 media-input = Оруулга
 saved-passwords-yes = Тийм
 saved-passwords-no = Үгүй
-
 no-page-title =
     .value = Гарчиггүй:
 general-quirks-mode =
@@ -121,14 +129,12 @@ media-unknown-not-cached =
     .value = Үл мэдэгдэх (түр хадгалагдаагүй)
 permissions-use-default =
     .label = Анхдагч эрхийг хэрэглэ
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Зураг
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -138,7 +144,6 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (сунгасан хэмжээ { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
