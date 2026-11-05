@@ -103,6 +103,7 @@ set-password-reminder = Important: Dacă uiți parola de siguranță pentru cert
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Te rugăm să introduci parola cu care s-a criptat această copie de siguranță a certificatelor:
 
 ## Protected authentication dialog
 

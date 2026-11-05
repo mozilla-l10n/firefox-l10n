@@ -110,6 +110,11 @@ security-view-technical =
     .value = Detalii tehnice
 help-button =
     .label = Ajutor
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Site-ul web { $website } nu suportă criptare pentru pagina pe care o vezi.
+security-technical-no-encryption-transit = Informațiile trimise prin internet fără criptare pot fi văzute și de alte persoane în timpul tranzitului.
+security-technical-no-encryption-page = Pagina pe care o vezi a fost criptată înainte de a fi trimisă prin internet.
 security-technical-encrypted-page = Pagina pe care o vezi a fost criptată înainte de a fi transmisă prin internet.
 security-technical-encrypted-description = Criptarea face dificilă interceptarea de către persoane neautorizate a informațiilor transmise între calculatoare. Prin urmare, este puțin probabil ca altcineva să citească această pagină așa cum a fost transmisă prin rețea.
 security-technical-mixed-content-description = Părți din pagina vizualizată nu au fost criptate înainte de a fi transmise prin internet.
@@ -129,6 +134,8 @@ security-site-data-no = Nu
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Conexiune necriptată
 security-technical-mixed-content =
     .value = Conexiune criptată parțial
 
