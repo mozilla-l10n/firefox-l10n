@@ -282,8 +282,8 @@ tab-context-move-tab-to-new-group =
 tab-context-add-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Aggiungi al gruppo
-           *[other] Aggiungi { $tabCount } schede al gruppo
+            [1] Aggiungi a un gruppo
+           *[other] Aggiungi { $tabCount } schede a un gruppo
         }
     .accesskey = u
 tab-context-move-tab-to-group =
