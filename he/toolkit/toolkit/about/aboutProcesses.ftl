@@ -18,6 +18,30 @@ about-processes-shutdown-tab =
     .title = סגירת לשונית
 about-processes-unload-tab =
     .title = ביטול טעינת לשונית
+about-processes-reload-tab =
+    .title = טעינת לשונית מחדש
+about-processes-select-all-tabs =
+    .title = בחירת כל הלשוניות
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = הרחבת הלשוניות של אתר זה
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = כיווץ הלשוניות של אתר זה
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = ביטול טעינת לשוניות מ־{ $site }
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = טעינה מחדש של הלשוניות מ־{ $site }
+about-processes-expand-all-sites =
+    .title = הרחבת הכל
+about-processes-collapse-all-sites =
+    .title = כיווץ הכל
 about-processes-go-to-tab =
     .title = מעבר ללשונית
 # Profiler icons
@@ -30,6 +54,18 @@ about-processes-profile-process =
             [one] יצירת פרופיל לכל התהליכונים של תהליך זה לשנייה אחת
            *[other] יצירת פרופיל לכל התהליכונים של תהליך זה ל־{ $duration } שניות
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = חיפוש לשוניות
+    .placeholder = חיפוש לשוניות
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = לא נמצאו לשוניות התואמות ל־״{ $query }״
 
 ## Column headers
 
@@ -118,6 +154,25 @@ about-processes-tab-count =
         [one] לשונית אחת
        *[other] { $count } לשוניות
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] לשונית אחת נבחרה
+       *[other] { $count } לשוניות נבחרו
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] (לשונית אחת)
+       *[other] ({ $count } לשוניות)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = ביטול בחירה
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
