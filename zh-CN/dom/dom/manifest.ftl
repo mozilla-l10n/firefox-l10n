@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = id 成员未解析为有效 URL。
+dom-manifest-id-not-same-origin = id 成员须与 start_url 成员的 origin 相同。
+dom-manifest-should-be-object = 清单应该是一个对象。
+dom-manifest-scope-url-invalid = 作用域 URL 无效。
+dom-manifest-scope-not-same-origin = 作用域 URL 必须与文档同源。
+dom-manifest-start-url-outside-scope = 起始 URL 在作用域之外，因此作用域无效。
+dom-manifest-start-url-invalid = 起始 URL 无效。
+dom-manifest-start-url-should-be-same-origin = 起始 URL 必须与文档同源。
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
