@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Descargando certificado
 download-cert-message = Solicitouse que confíe nunha nova entidade de acreditación (AC).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Quere confiar en "{ $caName }" para as seguintes finalidades?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Entidade de acreditación (sen nome)
 download-cert-trust-ssl =
     .label = Confiar nesta AC para identificar sitios web.
 download-cert-trust-email =
