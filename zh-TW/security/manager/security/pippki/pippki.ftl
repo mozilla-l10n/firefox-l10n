@@ -14,6 +14,8 @@ change-password-token = 安全裝置: { $tokenName }
 change-password-old = 目前密碼:
 change-password-new = 新密碼:
 change-password-reenter = 新密碼 (再輸入一次):
+change-password-not-set =
+    .value = (未設定)
 pippki-failed-pw-change = 無法更改密碼。
 pippki-incorrect-pw = 您輸入的目前密碼錯誤，請再試一次。
 pippki-pw-change-ok = 成功變更密碼。
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = 憑證備份密碼 (再輸入一次):
 set-password-reminder = 重要: 如果您忘了憑證備份密碼，將會無法回存備份。請多備一份到安全的地方。
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

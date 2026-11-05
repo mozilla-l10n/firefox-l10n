@@ -110,6 +110,11 @@ security-view-technical =
     .value = 技術細節
 help-button =
     .label = 說明
+security-technical-encrypted-page = 您正在瀏覽的網頁在傳送前有經過加密。
+security-technical-encrypted-description = 加密功能會讓未授權的使用者很難偷聽兩台電腦間傳輸的資訊，所以此頁面在網路上傳輸時很難會有人看到內容。
+security-technical-mixed-content-description = 您正瀏覽的頁面有一部份在網路上傳送時未加密。
+security-technical-weak-cipher = 您與此網站間的連線使用較弱的加密，並不夠私密，其他人能夠看到您的資訊或修改該網站的行為。
+security-technical-ct-compliant = 此網站遵守憑證透明度（Certificate Transparency）政策。
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = 有，Cookie 及 { $value } { $unit } 的網站資�
 security-site-data-only = 有，{ $value } { $unit } 的網站資料
 security-site-data-cookies-only = 有，僅 Cookie
 security-site-data-no = 無
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = 部份連線加密
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = 連線已加密（{ $algorithm }、{ $keySize } 位元金鑰、{ $protocol }）
+security-technical-broken-encryption =
+    .value = 不安全的加密（{ $algorithm }、{ $keySize } 位元金鑰、{ $protocol }）
 
 ##
 
