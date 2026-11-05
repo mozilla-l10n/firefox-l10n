@@ -14,6 +14,8 @@ change-password-token = سلامتی آلہ: { $tokenName }
 change-password-old = حالیہ پاس ورڈ:
 change-password-new = نیا پاس ورڈ:
 change-password-reenter = نیا پاس ورڈ (دوبارہ):
+change-password-not-set =
+    .value = (سیٹ نہیں)
 pippki-failed-pw-change = پاس ورڈ تبدیل کرنے سے قاصر ہے
 pippki-pw-change-ok = پاسوڑد کامیابی سے تبدیل ہو گیا ہے.
 
@@ -77,3 +79,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = تصدیق نامہ پشتارہ پاس ورڈ (دوبارہ):
 set-password-reminder = اہم: اگر آپ اپنا تصدیق نامہ پشتارہ پاس ورڈ بھول جاتے ہیں تو بعد میں آپ یہ پشتارہ بحال کرنے کے اہل نہیں رہیں گے۔ لہذہٰ اسے محفوظ محل وقوع میں ریکارڈ کریں۔
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
