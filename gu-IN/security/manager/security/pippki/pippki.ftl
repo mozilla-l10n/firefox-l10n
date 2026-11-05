@@ -12,6 +12,8 @@ change-password-token = સુરક્ષા ઉપકરણ: { $tokenName }
 change-password-old = વર્તમાન પાસવર્ડ:
 change-password-new = નવો પાસવર્ડ:
 change-password-reenter = નવો પાસવર્ડ (ફરીથી):
+change-password-not-set =
+    .value = (ગોઠવેલ નથી)
 
 ## Reset Primary Password dialog
 
@@ -75,3 +77,9 @@ set-password-repeat-backup-pw =
 set-password-reminder =
     મહત્વનુઃ  જો તમે પ્રમાણપત્ર બેકઅપ પાસવર્ડ ભૂલી જશો તો ફરી બેકઅપ ફાઇલોને ખોલી શકશો નહિ.
     તેમને સુરક્ષિત જગ્યાએ નોંધી રાખો.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

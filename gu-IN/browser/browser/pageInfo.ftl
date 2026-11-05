@@ -102,6 +102,11 @@ security-view-technical =
     .value = ટેક્નિકલ વિગતો
 help-button =
     .label = મદદ
+security-technical-encrypted-page = તમે જોઈ રહ્યાં છો તે પૃષ્ઠ ઇન્ટરનેટ પર પ્રસારિત થતાં પહેલાં એન્ક્રિપ્ટ કરાયું હતું.
+security-technical-encrypted-description = એન્ક્રિપ્શન અનધિકૃત લોકો કમ્પ્યુટર્સ વચ્ચે મુસાફરીની માહિતી જોવાનું મુશ્કેલ બનાવે છે. તે અસંભવિત છે કે કોઈ પણ વ્યક્તિ આ પૃષ્ઠને વાંચે છે કારણ કે તે સમગ્ર નેટવર્કમાં પ્રવાસ કરે છે.
+security-technical-mixed-content-description = ઇન્ટરનેટ પર પ્રસારિત થતાં પહેલાં તમે જે પાનું જોઈ રહ્યાં છો તે ભાગ એનક્રિપ્ટ થયેલ ન હતા.
+security-technical-weak-cipher = આ વેબસાઇટ પરનું તમારું જોડાણ નબળા એન્ક્રિપ્શનનો ઉપયોગ કરે છે અને ખાનગી નથી. અન્ય લોકો તમારી માહિતી જોઈ શકે છે અથવા વેબસાઈટના વર્તનને સુધારી શકે છે.
+security-technical-ct-compliant = આ વેબસાઇટ પ્રમાણપત્ર પારદર્શિતા નીતિનું પાલન કરે છે.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -113,6 +118,21 @@ security-site-data-cookies = હા, કૂકીઝ અને સાઇટ ડ�
 security-site-data-only = હા, સાઇટ ડેટાના { $value } { $unit }
 security-site-data-cookies-only = હા, કૂકીઝ
 security-site-data-no = ના
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = જોડાણ અંશતઃ એનક્રિપ્ટ થયેલ છે
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = કનેક્શન એન્ક્રિપ્ટેડ ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = તૂટેલી એન્ક્રિપ્શન ({ $algorithm }, { $keySize } bit કીઓ, { $protocol })
 
 ##
 
