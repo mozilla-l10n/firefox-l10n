@@ -110,6 +110,16 @@ security-view-technical =
     .value = Detais tecnics
 help-button =
     .label = Jutori
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Il sît web { $website } nol supuarte la cifradure pe pagjine che tu stâs viodint.
+security-technical-no-encryption-transit = Lis informazions mandadis su Internet cence cifrazion a puedin jessi viodudis di altris personis dilunc il transit.
+security-technical-no-encryption-page = La pagjine che tu stâs visualizant no je stade cifrade prime de sô trasmission su internet.
+security-technical-encrypted-page = La pagjine che tu sês daûr a cjalâ e je stade cifrade prime di jessi trasmitude su Internet.
+security-technical-encrypted-description = La cifradure e rint dificil osservâ lis informazions scambiadis tra computers a personis no autorizadis. Al è duncje improbabil che cualchidun al sedi rivât a lei il contignût di cheste pagjine dilunc il transit vie pe rêt.
+security-technical-mixed-content-description = Tocs de pagjine che tu sês daûr a cjalâ no son stâts cifrâts prime di jessi trasmetûts in Internet.
+security-technical-weak-cipher = La tô conession a chest sît web e dopre une cifradure debile e no je privade. Altris personis a puedin viodi lis informazions mandadis e modificâ il compuartament dal sît.
+security-technical-ct-compliant = Chest sît web al è conformi aes politichis di trasparence dai certificâts.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Sì, cookies e { $value } { $unit } di dâts di sî
 security-site-data-only = Sì, { $value } { $unit } di dâts di sîts
 security-site-data-cookies-only = Sì, cookies
 security-site-data-no = No
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Conession no cifrade
+security-technical-mixed-content =
+    .value = Conession cifrade in part
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Conession cifrade ({ $algorithm }, clâfs a { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Cifradure difetose ({ $algorithm }, clâfs a { $keySize } bits, { $protocol })
 
 ##
 
