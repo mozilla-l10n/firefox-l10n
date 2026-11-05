@@ -107,6 +107,15 @@ contextual-manager-passwords-remove-all-title =
         [few] Wšě { $total } hesła wotstronić?
        *[other] Wšě { $total } hesłow wotstronić?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } hesło zhašeć?
+        [two] { $total } hesle zhašeć?
+        [few] { $total } hesła zhašeć?
+       *[other] { $total } hesłow zhašeć?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -127,6 +136,16 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Wšě wotstronić
        *[other] Wšě wotstronić
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Zhašeć
+        [one] { $total } zhašeć
+        [two] { $total } zhašeć
+        [few] { $total } zhašeć
+       *[other] Wšě zhašeć
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -146,6 +165,16 @@ contextual-manager-passwords-remove-all-message-sync =
         [two] To { $total } hesle wotstroni, kotrejž sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
         [few] To { $total } hesła wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
        *[other] To wšě hesła wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] To jo z { -brand-short-name } na kóždym graće zhaša, kotryž waše hesła synchronizuje. Njemóžeće to cofnyć.
+        [one] To je z { -brand-short-name } na kóždym graće zhaša, kotryž waše hesła synchronizuje. Njemóžeće to cofnyć.
+        [two] To je z { -brand-short-name } na kóždym graće zhaša, kotryž waše hesła synchronizuje. Njemóžeće to cofnyć.
+        [few] To je z { -brand-short-name } na kóždym graće zhaša, kotryž waše hesła synchronizuje. Njemóžeće to cofnyć.
+       *[other] To je z { -brand-short-name } na kóždym graće zhaša, kotryž waše hesła synchronizuje. Njemóžeće to cofnyć.
     }
 contextual-manager-passwords-origin-label = Websydło
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -192,12 +221,16 @@ contextual-manager-passwords-radiobutton-all = Wšě ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Warnowanja ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Hesło wotstronić?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Hesło zhašeć?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Njemóžeće to cofnyć.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Wróćo
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Wotstronić
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Zhašeć
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Přetorhnyć
 contextual-manager-passwords-alert-card =
@@ -229,6 +262,9 @@ contextual-manager-passwords-update-label =
     .label = Hesło aktualizować
 contextual-manager-passwords-remove-label =
     .title = Hesło wotstronić
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Hesło zhašeć
 contextual-manager-passwords-origin-field =
     .label = Adresa websydła
     .placeholder = https://www.example.com
@@ -350,6 +386,16 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [two] Haj, { $total } hesle wotstronić
         [few] Haj, { $total } hesła wotstronić
        *[other] Haj, { $total } hesłow wotstronić
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Haj, hesło zhašeć
+        [one] Haj, hesło zhašeć
+        [two] Haj, hesle zhašeć
+        [few] Haj, hesła zhašeć
+       *[other] Haj, hesła zhašeć
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Zo byšće swoje składowane hesła widźał, zapodajće swoje hłowne hesło.

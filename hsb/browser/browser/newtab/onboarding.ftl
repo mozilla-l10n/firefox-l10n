@@ -638,3 +638,13 @@ welcome-back-onboarding-card-label-tabs = Zrumujće z wertikalnymi rajtarkami a 
 welcome-back-onboarding-card-label-vpn = Wostańće schowany ze zatwarjenym VPN
 welcome-back-onboarding-card-label-pdf = Wuzběhńće, signujće PDF a dźěłajće z nimi
 welcome-back-onboarding-card-tilebutton-label = Wupruwować
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Konfigurujće swój { -brand-short-name } za sekundy
+hnt-card-import-body = Dóstańće swoje zapołožki, hesła a wjace z druheho wobhladowaka.
+hnt-card-import-primary-button = Waše daty importować
+hnt-card-default-primary-button = Wotkazy z { -brand-short-name } wočinić
+hnt-card-pin-header = Dźeržće { -brand-short-name } klik preč
+hnt-card-mobile-header = Dóstańće zatwarjeny škit na swojim telefonje.
+hnt-card-mobile-primary-button = { -brand-product-name } za mobilny grat wobstarać.

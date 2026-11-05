@@ -62,6 +62,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Tabs durchsuchen
     .placeholder = Tabs durchsuchen
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Keine Tabs gefunden, die zu "{ $query }" passen
 
 ## Column headers
 
@@ -160,6 +164,22 @@ about-processes-tab-count =
     { $count ->
         [one] { $count } Tab
        *[other] { $count } Tabs
+    }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } Tab ausgewählt
+       *[other] { $count } Tabs ausgewählt
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } Tab)
+       *[other] ({ $count } Tabs)
     }
 # Bulk-action bar icon button: clears the selection without acting on it.
 about-processes-bulk-cancel-selection =

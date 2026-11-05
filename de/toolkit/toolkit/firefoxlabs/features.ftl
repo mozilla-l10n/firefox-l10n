@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Tab-Notizen sind eine experimentel
 experimental-features-tab-context-menu =
     .label = Optimiertes Tab-Menü
 experimental-features-tab-context-menu-description = Sehen Sie ein einfacheres Kontextmenü nach einem Rechtsklick auf einen Tab. Es wurde entwickelt, um häufige Aktionen einfacher zu finden. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Ressourcen-Monitor
+experimental-features-resource-monitor-description = Zeigen Sie die geschätzte Arbeitsspeicher- und CPU-Auslastung Ihrer geöffneten Tabs direkt in der Sidebar an und entladen Sie ungenutzte Tabs, um Ressourcen freizugeben. <a data-l10n-name="connect">Feedback geben</a>

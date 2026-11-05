@@ -61,8 +61,16 @@ extension-nova-smoke-name = Rauch
 extension-classic-proton-name = Grau
 # Name for a blue theme.
 extension-classic-blue-name = Blau
+# Name for a cyan theme.
+extension-classic-cyan-name = Cyan
+# Name for a violet theme.
+extension-classic-violet-name = Violett
 # Name for a green theme.
 extension-classic-green-name = Grün
+# Name for a purple theme.
+extension-classic-purple-name = Purpur
+# Name for a pink theme.
+extension-classic-pink-name = Pink
 # Name for a yellow theme.
 extension-classic-yellow-name = Gelb
 # Name for a red theme.

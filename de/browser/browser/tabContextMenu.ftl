@@ -117,8 +117,15 @@ tab-context-open-in-container =
 move-to-start =
     .label = An Anfang verschieben
     .accesskey = A
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = An den Anfang
+    .accesskey = A
 move-to-end =
     .label = Ans Ende verschieben
+    .accesskey = E
+move-to-end-alt =
+    .label = An das Ende
     .accesskey = E
 move-to-new-window =
     .label = In neues Fenster verschieben
