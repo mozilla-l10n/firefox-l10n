@@ -39,6 +39,34 @@ download-ui-cancel-downloads-ok =
         [1] Cancelar 1 descarga
        *[other] Cancelar { $downloadsCount } descargas
     }
+download-ui-confirm-cancel-button = Cancelar
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] ¿Detener 1 descarga y salir de { -brand-short-name }?
+                [one] ¿Detener 1 descarga y salir de { -brand-short-name }?
+               *[other] ¿Detener { $downloadsCount } descargas y salir { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] ¿Detener 1 descarga y salir de { -brand-short-name }?
+                [one] ¿Detener 1 descarga y salir de { -brand-short-name }?
+               *[other] ¿Detener { $downloadsCount } descargas y salir de { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } intentará reanudar las descargas cuando se vuelva a abrir, pero es posible que se pierda el progreso.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Salir de { -brand-short-name }
+       *[other] Salir de { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] ¿Detener 1 descarga y desconectarse?
+        [one] ¿Detener 1 descarga y desconectarse?
+       *[other] ¿Detener { $downloadsCount } descargas y desconectarse?
+    }
 
 ##
 

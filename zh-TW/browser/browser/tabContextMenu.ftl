@@ -38,19 +38,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = 關閉左方分頁
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = 左側分頁
+    .accesskey = l
 close-tabs-to-the-start-vertical =
     .label = 關閉上方分頁
+    .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = 上方分頁
     .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = 關閉右方分頁
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = 右側分頁
+    .accesskey = i
 close-tabs-to-the-end-vertical =
     .label = 關閉下方分頁
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = 下方分頁
+    .accesskey = i
 close-other-tabs =
     .label = 關閉其他分頁
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = 其他所有分頁
     .accesskey = o
 reload-tabs =
     .label = 重新載入分頁
@@ -89,14 +111,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = 用新容器分頁開啟
     .accesskey = e
+tab-context-open-in-container =
+    .label = 用容器開啟
+    .accesskey = e
 move-to-start =
     .label = 移動至開頭
+    .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = 開頭
     .accesskey = S
 move-to-end =
     .label = 移動至結尾
     .accesskey = E
+move-to-end-alt =
+    .label = 結尾
+    .accesskey = E
 move-to-new-window =
     .label = 移動至新視窗
+    .accesskey = W
+move-to-new-window-alt =
+    .label = 新視窗
     .accesskey = W
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -111,6 +146,10 @@ tab-context-close-multiple-tabs2 =
     .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = 關閉重複的分頁
+    .accesskey = x
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = 複製分頁
     .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = 關閉與此分頁重複的分頁
@@ -128,6 +167,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = 新增群組
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = 新增群組
+tab-context-add-tab-to-group-closed-groups =
+    .label = 關閉的群組
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -156,6 +199,14 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] 移動到
+           *[other] 移動 { $tabCount } 個分頁到…
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -166,6 +217,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = 移動分割畫面到
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = 移動分頁到
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

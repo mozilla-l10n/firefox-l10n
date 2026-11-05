@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = 「分頁註記」是一個可讓�
 experimental-features-tab-context-menu =
     .label = 簡潔的分頁選單
 experimental-features-tab-context-menu-description = 對分頁按右鍵時可看到更簡潔的選單，這樣的設計是為了讓您更容易尋找常見功能。<a data-l10n-name="connect">分享意見回饋</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = 資源監視器
