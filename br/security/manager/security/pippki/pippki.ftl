@@ -14,6 +14,8 @@ change-password-token = Trevnad diogelroez: { $tokenName }
 change-password-old = Ger-tremen war arver:
 change-password-new = Ger-tremen nevez:
 change-password-reenter = Ger-tremen nevez (c'hoazh):
+change-password-not-set =
+    .value = (n'eo ket kefluniet)
 pippki-failed-pw-change = N’haller ket kemmañ ar ger-tremen.
 pippki-incorrect-pw = N’ho peus ket enanket ar ger-tremen reizh. Klaskit en-dro mar plij.
 pippki-pw-change-ok = Ger-tremen kemmet gant berzh.
@@ -86,3 +88,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ger-tremen an testeni atoriñ (c'hoazh):
 set-password-reminder = Pouezus: Mar bez ankouaet ger-tremen ho testeni atoriñ ne viot ket evit assav an atoradenn diwezhatoc'h. Enrollit ho ker-tremen en ul lec'h diarvar.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
