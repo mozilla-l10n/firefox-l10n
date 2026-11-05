@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Сертификатты жүктеу
 download-cert-message = Сізден жаңа Сертификаттау Орталығына (CA) сену сұранды.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Сіз "{ $caName }"-ке келесі мақсаттармен сенуді қалайсыз ба?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Сертификаттау орталығы (атаусыз)
 download-cert-trust-ssl =
     .label = Веб-сайттарды идентификациялауда осы CA сену.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Маңызды: Егер сертификатты қал
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Сертификаттың қор көшірмесін шифрлеу үшін қолданылған паролді енгізіңіз:
 
 ## Protected authentication dialog
 

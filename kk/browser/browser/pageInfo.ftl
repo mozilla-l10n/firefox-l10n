@@ -110,6 +110,11 @@ security-view-technical =
     .value = Техникалық ақпарат
 help-button =
     .label = Көмек
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Веб-сайт { $website }  сіз ашып отырған парақ үшін шифрлеуді қолдамайды.
+security-technical-no-encryption-transit = Интернет арқылы берілетін ақпарат шифрленбесе, берілу кезінде оны басқа адамдар көре алады.
+security-technical-no-encryption-page = Ашылып тұрған парақ Интернет арқылы берілу алдында шифрленген жоқ.
 security-technical-encrypted-page = Ашылып тұрған парақ Интернет арқылы берілу алдында шифрленді.
 security-technical-encrypted-description = Интернеттен берілу алдында парақты шифрлеу оны бөтен адамдар оқи алатын мүмкіндігін қиындатады.
 security-technical-mixed-content-description = Ашылып тұрған парақтың бір бөлігі Интернет арқылы берілу алдында шифленбеді.
@@ -129,6 +134,8 @@ security-site-data-no = Жоқ
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Байланыс шифрленбеген
 security-technical-mixed-content =
     .value = Байланыс жартылай шифрленген
 
