@@ -14,6 +14,8 @@ change-password-token = सुरक्षा युक्ति: { $tokenName }
 change-password-old = मौजूदा कूटशब्द:
 change-password-new = नया कूटशब्द:
 change-password-reenter = नया कूटशब्द (फिर):
+change-password-not-set =
+    .value = (सेट नहीं)
 pippki-failed-pw-change = पासवर्ड बदलने में असमर्थ।
 pippki-pw-change-ok = पासवर्ड सफलतापूर्वक बदल दिया गया है।
 
@@ -75,3 +77,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र बैकअप कूटशब्द (फिर):
 set-password-reminder = Important: अगर आप अपना प्रमाणपत्र बैकअप कूटशब्द भूल गये हैं, आप इस बैकअप को बाद में फिर नहीं ला पायेंगे. कृपया इसे सुरक्षित स्थान में रिकार्ड करें.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
