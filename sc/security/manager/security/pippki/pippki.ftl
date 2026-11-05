@@ -14,6 +14,8 @@ change-password-token = Dispositivu de seguresa: { $tokenName }
 change-password-old = Crae atuale:
 change-password-new = Crae noa:
 change-password-reenter = Crae noa (cunfirma·dda):
+change-password-not-set =
+    .value = (non definida)
 pippki-failed-pw-change = Impossìbile modificare sa crae.
 pippki-pw-empty-warning = Non s'ant a amparare is craes privadas e is craes sarvadas tuas.
 
@@ -30,6 +32,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Iscarrighende su tzertificadu
 download-cert-message = Ti si dimandat de ti fidare de una autoridade de tzertificatzione (CA) noa.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ti boles fidare de “{ $caName }” pro custos iscopos?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoridade de tzertificatzione (chena nòmine)
 download-cert-trust-ssl =
     .label = Fida·ti de custa CA pro identificare sitos web.
 download-cert-trust-email =
@@ -44,3 +51,13 @@ download-cert-view-text = Esàmina su tzertificadu de sa CA
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = Emìtidu pro: { $issuedTo }
+
+## Set password (p12) dialog
+
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Inserta sa crae chi est istada impreada pro tzifrare sa còpia de seguresa de custu tzertificadu:
+
+## Protected authentication dialog
+
