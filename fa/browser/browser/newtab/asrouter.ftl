@@ -526,3 +526,17 @@ refresh-profile-infobar-button = نوسازی { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>می‌خواهید زبانه‌های قبلی باز شوند؟</strong> می‌توانید نشست پیشین خود را از منوی { -brand-short-name } <img data-l10n-name="icon"/> و بخش تاریخچه بازیابی کنید.
 restore-session-startup-suggestion-button = روش انجام را نشان بده
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = وبگاه‌های دلخواهتان را مثل یک برنامه باز کنید
+taskbar-tabs-spotlight-subtitle = با یک کلیک، وبگاه‌های پرکاربردتان در پنجره‌ای ساده با همهٔ محافظت‌های { -brand-short-name } باز می‌شوند.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = برای افزودن به نوار وظیفه انتخاب کنید
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = افزودن
+taskbar-tabs-spotlight-done-button = تمام

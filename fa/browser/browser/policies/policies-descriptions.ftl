@@ -121,6 +121,7 @@ policy-OfferToSaveLogins = الزام تنظیماتی که به { -brand-short-
 policy-OfferToSaveLoginsDefault = تعیین مقدار پیش‌فرض برای اجازه به { -brand-short-name } جهت پیشنهاد ذخیرهٔ اطلاعات ورود و گذرواژه‌ها. هر دو مقدار true و false پذیرفته می‌شوند.
 policy-OverrideFirstRunPage = جایگزینی صفحهٔ نخستین اجرا. اگر می‌خواهید صفحهٔ نخستین اجرا را غیرفعال کنید، این خط‌مشی را خالی بگذارید.
 policy-OverridePostUpdatePage = جایگزینی صفحهٔ پس از به‌روزرسانی با عنوان «چیزهای تازه». اگر می‌خواهید صفحهٔ پس از به‌روزرسانی را غیرفعال کنید، این خط‌مشی را خالی بگذارید.
+policy-PasswordManagerEnabled2 = به‌کار انداختن یا ازکار انداختن ذخیرهٔ گذرواژه‌ها در مدیر گذرواژه. اگر ازکار افتاده باشه، گذرواژه‌ها (about:logins) نیز مسدود می‌شود.
 policy-PasswordManagerEnabled = فعال‌سازی ذخیرهٔ گذرواژه‌ها در مدیریت گذرواژه.
 policy-PasswordManagerExceptions = جلوگیری از ذخیرهٔ گذرواژه‌ها توسط { -brand-short-name } برای سایت‌های مشخص‌شده.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -139,6 +140,7 @@ policy-RelaunchRequired = الزام به راه‌اندازی مجدد { -bran
 policy-RequestedLocales = تعیین فهرست زبان‌های درخواستی برنامه بر پایهٔ اولویت.
 policy-SanitizeOnShutdown2 = پاک‌سازی داده‌های ناوبری هنگام خروج از مرورگر.
 policy-SearchBar = تعیین محل پیش‌فرض نوار جست‌وجو. کاربر همچنان مجاز به سفارشی‌سازی آن است.
+policy-SearchEngines2 = پیکربندی تنظیمات موتور جست‌وجو.
 policy-SearchEngines = پیکربندی تنظیمات موتور جست‌وجو. این خط‌مشی تنها در نسخهٔ پشتیبانی بلندمدت (ESR) در دسترس است.
 policy-SearchSuggestEnabled = فعال یا غیرفعال کردن پیشنهادهای جست‌وجو.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

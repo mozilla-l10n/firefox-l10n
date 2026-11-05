@@ -349,6 +349,10 @@ ip-protection-delete-all-site-rules-confirm =
     .label = حذف همهٔ قوانین
 # Shown in place of the delete confirmation when deleting a rule fails.
 ip-protection-delete-site-rule-error = حذف قانون ممکن نشد
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = حذف قوانین ممکن نشد
+ip-protection-delete-site-rule-retry =
+    .label = تلاش دوباره
 
 ## IP Protection Bandwidth
 
@@ -413,5 +417,7 @@ vpn-error-page-keep-browsing = ادامه دادن به وب‌گردی در ه�
 vpn-error-page-new-session = شروع یک نشست (Session) جدید
 vpn-paused-alert-close-tabs-button = بستن همهٔ زبانه‌ها
 vpn-paused-alert-continue-wo-vpn-button = ادامه دادن بدون VPN
+vpn-error-alert-title-1 = VPN و قوانین در حال حاضر کار نمی‌کنند.
+vpn-error-alert-body-1 = خاموش و روشن کردن VPN ممکن است مشکل را برطرف کند.
 vpn-error-alert-title = ‏VPN در حال حاضر کار نمی‌کند.
 vpn-error-alert-body = لطفاً بعداً دوباره امتحان کنید.
