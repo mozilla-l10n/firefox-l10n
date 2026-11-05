@@ -132,6 +132,15 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Dzēst visu
        *[other] Dzēst visu
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Dzēst
+        [zero] Izdzēst visas
+        [one] Izdzēst visas
+       *[other] Izdzēst visas
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -149,6 +158,15 @@ contextual-manager-passwords-remove-all-message-sync =
         [zero] Tas noņems visas paroles, kas saglabātas pakalpojumā { -brand-short-name } visās jūsu sinhronizētajās ierīcēs, un noņems visus brīdinājumus par datu noplūdi. Šo darbību nevar atsaukt.
         [one] Tas noņems paroli, kas saglabāta pakalpojumā { -brand-short-name } visās jūsu sinhronizētajās ierīcēs, un noņems visus brīdinājumus par datu noplūdi. Šo darbību nevar atsaukt.
        *[other] Tas noņems visas paroles, kas saglabātas pakalpojumā { -brand-short-name } visās jūsu sinhronizētajās ierīcēs, un noņems visus brīdinājumus par datu noplūdi. Šo darbību nevar atsaukt.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Tas izdzēsīs to no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
+        [zero] Tas izdzēsīs tās no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
+        [one] Tas izdzēsīs tās no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
+       *[other] Tas izdzēsīs tās no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
     }
 contextual-manager-passwords-origin-label = Tīmekļvietne
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -194,12 +212,16 @@ contextual-manager-passwords-radiobutton-all = Visas ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Brīdinājumi ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Izņemt paroli?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Dzēst paroli?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = To nevar atsaukt.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Atpakaļ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Noņemt
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Dzēst
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Atcelt
 contextual-manager-passwords-alert-card =
@@ -231,6 +253,9 @@ contextual-manager-passwords-update-label =
     .label = Atjaunināt paroli
 contextual-manager-passwords-remove-label =
     .title = Noņemt paroli
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Dzēst paroli
 contextual-manager-passwords-origin-field =
     .label = Vietnes adrese
     .placeholder = https://www.example.com
@@ -349,6 +374,15 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [zero] Jā, izņemt paroles
         [one] Jā, izņemt paroli
        *[other] Jā, izņemt paroles
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Jā, dzēst paroli
+        [zero] Jā, izdzēst paroles
+        [one] Jā, izdzēst paroles
+       *[other] Jā, izdzēst paroles
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Lai apskatītu saglabātās paroles, jāievada sava galvenē parole.

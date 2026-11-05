@@ -165,10 +165,23 @@ ipprotection-settings-link =
 
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Izslēgt VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Izslēdziet VPN visur
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on-1 = Ieslēgt
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Ieslēgt VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Ieslēdzas…
+ipprotection-connection-status-connected-1 = VPN ir ieslēgts
+    .aria-label = VPN ir ieslēgts
+ipprotection-connection-status-disconnected-1 = VPN ir izslēgts
+    .aria-label = VPN ir izslēgts
 ipprotection-connection-status-excluded-1 = VPN šai vietnei ir izslēgts
     .aria-label = VPN šai vietnei ir izslēgts
+ipprotection-connection-status-connecting-1 = VPN izveido savienojumu…
+    .aria-label = VPN izveido savienojumu…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Izslēgt
 
@@ -177,6 +190,11 @@ ipprotection-button-turn-vpn-off-1 = Izslēgt
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Atrašanās vieta: ieteicama
+ipprotection-recommended-location-description = { -brand-product-name } atrod ātrāko atrašanās vietu
+ipprotection-recommended-location-badge = Jauns
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Atrašanās vieta: { $valsts }
 ipprotection-locations-subview =
     .title = Izvēlieties vietu
 ipprotection-locations-subview-description = Izvēlieties citu atrašanās vietu, no kuras pārlūkot.
@@ -262,12 +280,19 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Jums gandrīz be
 ip-protection-description =
     .description = Iebūvēts VPN, lai uzlabotu jūsu privātumu, pārlūkojot vietni { -brand-short-name }.
     .label = VPN
+ip-protection-description-1 =
+    .description = Iegūstiet papildu privātumu, paslēpjot savu atrašanās vietu pārlūkošanas laikā.
+    .label = Iebūvēts VPN
 ip-protection-learn-more = Uzzināt vairāk
+ip-protection-not-opted-in-4 =
+    .heading = Izmēģiniet { -brand-short-name } iebūvēto VPN
+    .message = Pārlūkojiet ar papildu aizsardzību, paslēpjot savu atrašanās vietu.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-inclusions-enabled =
     .heading = Esi gatavībā izmēģināt?
     .message = Katru mēnesi iegūsi { $maxUsage } GB, un varēsi izvēlēties, kurās vietnēs izmantot VPN.
+ip-protection-not-opted-in-button = Sākt darbu
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
@@ -305,11 +330,24 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Izdzēst { $website } kārtulu
     .title = Izdzēst
+ip-protection-autostart =
+    .label = Automātiski ieslēgt VPN
+ip-protection-autostart-checkbox =
+    .label = Kad atveru { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = Privātajos logos
+ip-protection-vpn-upgrade-link =
+    .description = Izvēlieties pielāgotas VPN atrašanās vietas un pievienojiet aizsardzību visām savām lietotnēm līdz pat piecās ierīcēs neatkarīgi no tā, vai atrodaties mājās vai publiskā Wi-Fi tīklā.
+    .label = Iegūstiet vēl lielāku aizsardzību ārpus { -brand-short-name } ar { -mozilla-vpn-brand-name }
+ip-protection-vpn-upgrade-link-1 =
+    .description = Izvēlieties no vairāk nekā 300 atrašanās vietām un aizsargājiet visas savas lietotnes līdz pat 5 ierīcēs.
+    .label = Uzlabojiet aizsardzību ar { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Pārvaldīt tīmekļvietņu iestatījumus
+ip-protection-exclusions-desc = Izmantojiet VPN visām tīmekļa vietnēm, izņemot tās, kas ir šajā sarakstā. Pievienojiet tīmekļa vietni šeit vai atverot VPN.
 ip-protection-site-rule-window =
     .title = Iestatīt kārtulu
 ip-protection-edit-site-rule-window =
@@ -357,8 +395,48 @@ ip-protection-delete-all-site-rules-error = Kārtulas nevarēja izdzēst
 ip-protection-delete-site-rule-retry =
     .label = Jāmēģina vēlreiz
 
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Šomēnes atlicis vēl { $usageLeft } GB no { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = Atlikušie <span data-l10n-name="usage">{ $usageLeft } GB</span> no { $maxUsage } GB
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Šomēnes atlicis vēl { $usageLeft } GB no { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Šomēnes atlicis { $usageLeft } MB no { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Atlikušie <span data-l10n-name="usage">{ $usageLeft } MB</span> no { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Atlikušie MB no  { $maxUsage } GB: { $usageLeft } MB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Jūs esat izmantojis visus { $maxUsage } GB savu VPN datu. Piekļuve tiks atiestatīta nākamajā mēnesī.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Katra mēneša pirmajā dienā atiestata uz { $maxUsage } GB.
+ip-protection-bandwidth-header-1 = Mēneša datu ierobežojums
+
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, atsvaidzināts un gatavs lietošanai
+ipprotection-bandwidth-reset-text = Ieslēdziet VPN, lai iegūtu papildu privātuma uzlabojumu – bez maksas katru mēnesi.
 ipprotection-bandwidth-reset-button = Sapratu
 
 ## IP Protection alerts
