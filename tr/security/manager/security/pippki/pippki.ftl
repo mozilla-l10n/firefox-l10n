@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sertifika indiriliyor
 download-cert-message = Yeni bir Sertifika Makamına (CA) güvenmeniz istendi.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Aşağıdaki amaçlarla “{ $caName }” sertifikasına güvenmek istiyor musunuz?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Sertifika Makamı (isimsiz)
 download-cert-trust-ssl =
     .label = Web sitelerini tanımlamak için bu CA’ya güven.
 download-cert-trust-email =
