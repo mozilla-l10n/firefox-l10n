@@ -9,6 +9,8 @@ password-quality-meter = Imitha lengiyo yelibitophawu
 change-password-old = Libitophawu lanyalo:
 change-password-new = Libitophawu lelisha:
 change-password-reenter = Libitophawu lelisha (futsi):
+change-password-not-set =
+    .value = (akukasethwa)
 
 ## Reset Primary Password dialog
 
