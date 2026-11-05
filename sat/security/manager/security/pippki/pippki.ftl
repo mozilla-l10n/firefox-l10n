@@ -14,6 +14,8 @@ change-password-token = ᱡᱟᱹᱯᱛᱤ ᱥᱟᱫᱷᱚᱱ: { $tokenName }
 change-password-old = ᱱᱤᱛᱚᱜᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ :
 change-password-new = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ :
 change-password-reenter = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ (ᱫᱩᱦᱲᱟᱹ):
+change-password-not-set =
+    .value = (ᱵᱟᱝ ᱥᱮᱴ ᱠᱟᱱᱟ)
 pippki-failed-pw-change = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱝ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ
 pippki-incorrect-pw = ᱟᱢ ᱴᱷᱤᱠ ᱱᱤᱛᱚᱜᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱢ ᱟᱫᱮᱨ ᱦᱚᱪᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱫᱟᱨᱟᱭ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
 pippki-pw-change-ok = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚ ᱨᱟᱹᱥ ᱞᱮᱠᱟᱛᱮ ᱵᱚᱫᱚᱞ ᱮᱱᱟ ᱾
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚᱭᱮᱫ ᱟ
 download-cert-message = ᱟᱢ ᱱᱟᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ (CA) ᱪᱮᱛᱟᱱ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱞᱤ ᱭᱟᱠᱟᱱᱟᱢ᱾
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = ᱱᱚᱣᱟ ᱠᱚ ᱦᱩᱫᱤᱥ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱟᱢ ”{ $caName }” ᱨᱮ ᱯᱟᱹᱛᱭᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ (ᱵᱮᱜᱚᱨ ᱧᱩᱛᱩᱢ)
 download-cert-trust-ssl =
     .label = ᱱᱚᱣᱟ CA ᱣᱮᱵ ᱥᱟᱭᱤᱴ ᱠᱚ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱢᱮ᱾
 download-cert-trust-email =
