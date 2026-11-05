@@ -7,6 +7,12 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-should-be-object = Ba chóir don lastliosta a bheith ina réad.
+dom-manifest-scope-url-invalid = Tá an URL scóipe neamhbhailí.
+dom-manifest-scope-not-same-origin = Ní ionann bunfhoinse an URL scóipe agus an cháipéis.
+dom-manifest-start-url-outside-scope = Tá an URL tosaigh lasmuigh den scóip, agus tá an scóip neamhbhailí dá bharr sin.
+dom-manifest-start-url-invalid = Tá an URL tosaigh neamhbhailí.
+dom-manifest-start-url-should-be-same-origin = Ní ionann bunfhoinse an URL tosaigh agus an cháipéis.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
