@@ -113,6 +113,7 @@ help-button =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = El sitio web { $website } no admite cifrado para la página que está viendo.
+security-technical-no-encryption-transit = La información enviada por Internet sin cifrar puede ser vista por otras personas.
 security-technical-no-encryption-page = La página que está viendo no fue cifrada antes de transmitirse por Internet.
 security-technical-encrypted-page = La página que está viendo fue cifrada antes de transmitirse por Internet.
 security-technical-encrypted-description = El cifrado dificulta que personas no autorizadas vean la información que viaja entre sistemas. Es, por tanto, improbable que nadie lea esta página mientras viajó por la red.
