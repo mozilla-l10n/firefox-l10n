@@ -18,6 +18,14 @@ about-processes-shutdown-tab =
     .title = Ljepblêd slute
 about-processes-unload-tab =
     .title = Ljepblêd losse
+about-processes-reload-tab =
+    .title = Ljepblêd fernije
+about-processes-select-all-tabs =
+    .title = Alle ljepblêden selektearje
+about-processes-expand-all-sites =
+    .title = Alles útklappe
+about-processes-collapse-all-sites =
+    .title = Alle ynklappe
 about-processes-go-to-tab =
     .title = Nei ljepblêd
 # Profiler icons
@@ -30,6 +38,14 @@ about-processes-profile-process =
             [one] Alle threads fan dit proses profilearje wylst { $duration } sekonde
            *[other] Alle threads fan dit proses profilearje wylst { $duration } sekonden
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Ljepblêden trochsykje
+    .placeholder = Ljepblêden trochsykje
 
 ## Column headers
 

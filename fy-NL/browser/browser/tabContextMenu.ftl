@@ -186,6 +186,14 @@ tab-context-move-tabs =
         }
     .accesskey = f
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Ferpleatse nei
+           *[other] { $tabCount } ljepblêden ferpleatse nei
+        }
+    .accesskey = f
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -198,6 +206,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Splitste werjefte ferpleatse nei
     .accesskey = p
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Ljepblêden ferpleatse nei
+    .accesskey = f
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
