@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Wrthi'n Llwytho Tystysgrifau i Lawr
 download-cert-message = Rydych wedi cael cais i ymddiried mewn Awdurdod Tystysgrifo (CA) newydd.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ydych chi eisiau ymddiried yn "{ $caName }" at y pwrpasau canlynol?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Awdurdod Tystysgrifo (dienw)
 download-cert-trust-ssl =
     .label = Ymddiried yn yr Awdurdod Tystysgrifo i adnabod gwefannau.
 download-cert-trust-email =
