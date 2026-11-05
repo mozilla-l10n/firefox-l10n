@@ -103,6 +103,7 @@ set-password-reminder = 重要：如果您忘记了您的证书备份密码，�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = 请输入被用来加密此证书备份的密码：
 
 ## Protected authentication dialog
 
