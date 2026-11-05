@@ -52,6 +52,10 @@ close-tabs-to-the-end-vertical =
 close-other-tabs =
     .label = Overige tabbladen sluiten
     .accesskey = e
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Alle overige
+    .accesskey = A
 reload-tabs =
     .label = Tabbladen vernieuwen
     .accesskey = n
@@ -92,12 +96,22 @@ tab-context-open-in-new-container-tab2 =
 move-to-start =
     .label = Verplaatsen naar begin
     .accesskey = b
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Begin
+    .accesskey = B
 move-to-end =
     .label = Verplaatsen naar einde
     .accesskey = d
+move-to-end-alt =
+    .label = Einde
+    .accesskey = E
 move-to-new-window =
     .label = Verplaatsen naar nieuw venster
     .accesskey = w
+move-to-new-window-alt =
+    .label = Nieuw venster
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +126,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Dubbele tabbladen sluiten
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Dubbele tabbladen
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Duplicaten van dit tabblad sluiten
     .accesskey = c
@@ -128,6 +146,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nieuwe groep
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Nieuwe groep
+tab-context-add-tab-to-group-closed-groups =
+    .label = Gesloten groepen
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -161,6 +183,14 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Verplaatsen naar
+           *[other] { $tabCount } tabbladen verplaatsen naar
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -173,6 +203,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Gesplitste weergave verplaatsen naar
     .accesskey = p
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Tabbladen verplaatsen naar
+    .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

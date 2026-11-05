@@ -80,8 +80,11 @@ genai-shortcut-button =
     .aria-label = לשאול את { $provider }
 genai-menu-new-badge = חדש
 genai-menu-summarize-page = סיכום העמוד
+genai-menu-summarize-with-ai = סיכום בעזרת AI
 genai-input-ask-generic =
     .placeholder = לשאול צ’אטבוט AI…
+genai-input-ask-ai =
+    .placeholder = לשאול את AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = לשאול את { $provider }…

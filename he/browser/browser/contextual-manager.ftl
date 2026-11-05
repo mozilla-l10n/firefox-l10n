@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = ייבוא מדפדפ
 contextual-manager-passwords-command-import = ייבוא מקובץ…
 contextual-manager-passwords-command-export = ייצוא ססמאות
 contextual-manager-passwords-command-remove-all = הסרת כל הססמאות
+contextual-manager-passwords-command-delete-all = מחיקת כל הססמאות
 contextual-manager-passwords-command-options = אפשרויות
 contextual-manager-passwords-command-help = עזרה
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] להסיר את הססמה?
        *[other] להסיר את כל { $total } הססמאות?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] למחוק ססמה אחת?
+       *[other] למחוק את כל { $total } הססמאות?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -118,6 +126,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] הסרה
        *[other] הסרת הכל
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] מחיקה
+       *[other] מחיקת הכל
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -131,6 +146,13 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] פעולה זו תסיר את הססמה שנשמרה ב־{ -brand-short-name } בכל המכשירים המסונכרנים שלך ותסיר גם את כל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
        *[other] פעולה זו תסיר את כל הססמאות שנשמרו ב־{ -brand-short-name } בכל המכשירים המסונכרנים שלך ותסיר גם את כל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] פעולה זו תמחק אותה מ־{ -brand-short-name } בכל מכשיר שמסתנכרן עם הססמאות שלך. לא ניתן לבטל פעולה זו.
+       *[other] פעולה זו תמחק אותן מ־{ -brand-short-name } בכל מכשיר שמסתנכרן עם הססמאות שלך. לא ניתן לבטל פעולה זו.
     }
 contextual-manager-passwords-origin-label = אתר
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -174,12 +196,16 @@ contextual-manager-passwords-radiobutton-all = הכל ({ $total })
 contextual-manager-passwords-radiobutton-alerts = התרעות ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = להסיר ססמה?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = למחוק את הססמה?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = לא ניתן לבטל פעולה זו.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = חזרה
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = הסרה
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = מחיקה
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ביטול
 contextual-manager-passwords-alert-card =
@@ -211,6 +237,9 @@ contextual-manager-passwords-update-label =
     .label = עדכון ססמה
 contextual-manager-passwords-remove-label =
     .title = הסרת הססמה
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = מחיקת ססמה
 contextual-manager-passwords-origin-field =
     .label = כתובת אתר
     .placeholder = https://www.example.com
@@ -323,6 +352,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] כן, להסיר את הססמה
        *[other] כן, להסיר את הססמאות
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] כן, למחוק את הססמה
+       *[other] כן, למחוק את הססמאות
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = כדי לראות את הססמאות השמורות שלך, יש להכניס את הססמה הראשית שלך.

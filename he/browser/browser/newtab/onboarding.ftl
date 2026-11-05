@@ -398,6 +398,8 @@ tab-groups-onboarding-session-restore-title-3 = ניתן לפתוח מחדש א�
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ניתן לפתוח מחדש את קבוצות הלשוניות שלך מהתפריט ״רשימת כל הלשוניות״ בכל עת.
 tab-groups-onboarding-dismiss = אישור
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = קבוצות לשוניות נשמרות אוטומטית. ניתן למצוא אותן כאן.
 
 ## Multi Profiles feature onboarding messages
 
@@ -623,3 +625,29 @@ welcome-back-onboarding-card-label-tabs = לעשות סדר באמצעות לש�
 welcome-back-onboarding-card-label-vpn = להישאר מוסתר בעזרת VPN מובנה
 welcome-back-onboarding-card-label-pdf = סימון, חתימה ועבודה עם קובצי PDF
 welcome-back-onboarding-card-tilebutton-label = בואו ננסה
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = הגדרת ה־{ -brand-short-name } שלך בשניות
+hnt-card-import-body = קבלת הלשוניות, הססמאות שלך ועוד מדפדפן אחר.
+hnt-card-import-primary-button = ייבוא הנתונים שלך
+hnt-card-default-body = ‏{ -brand-product-name } הוא הדפדפן העיקרי היחיד שנבנה כדי להגן עליך, לא כדי לעקוב אחריך.
+hnt-card-default-primary-button = פתיחת קישורים באמצעות { -brand-short-name }
+hnt-card-pin-header = לשמור את { -brand-short-name } במרחק נגיעה
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] חזרה לגלישה מוגנת מה־Dock שלך.
+       *[other] חזרה לגלישה מוגנת משורת המשימות שלך.
+    }
+hnt-card-mobile-header = קבלת הגנה מובנית בטלפון שלך
+hnt-card-mobile-body = הורדת { -brand-product-name } לנייד לקבלת פרטיות מוגברת בדרכים.
+hnt-card-mobile-primary-button = קבלת { -brand-product-name } לנייד.
+hnt-card-wallpaper-header = בחירה בתמונת רקע חדשה
+hnt-card-wallpaper-body = תנו למסך הזה להרגיש כמו בית עם רקע שאתם אוהבים.
+hnt-card-wallpaper-primary-button = להתחיל להתאים אישית
+hnt-card-taskbar-tabs-header = הוספת האתרים האהובים עליך לשורת המשימות שלך ב־Windows
+hnt-card-taskbar-tabs-body = פתיחת האתרים הנצפים ביותר שלך כמו יישומון עם כל ההגנות של { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = הוספת אתרים לשורת המשימות
+hnt-card-extensions-header = שיפור { -brand-short-name } בעזרת הרחבות
+hnt-card-extensions-body = התאמה אישית של הגלישה שלך עם ההרחבות האהובות עלינו.
+hnt-card-extensions-primary-button = עיון

@@ -226,6 +226,9 @@ contextual-manager-passwords-update-label =
     .label = پاس ورڈ اپڈیٹ کرو
 contextual-manager-passwords-remove-label =
     .title = پاس ورڈ مٹاؤ
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = پاسورڈ مٹاؤ
 contextual-manager-passwords-origin-field =
     .label = ویب سائٹ پتہ
     .placeholder = https://www.example.com

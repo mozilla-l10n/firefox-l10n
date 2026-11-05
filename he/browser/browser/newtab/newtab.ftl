@@ -192,6 +192,9 @@ newtab-privacy-empty-state = ‏{ -brand-short-name } חוסם באופן אוט
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = הסכום המצטבר יוצג כאן.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = פחות רכיבי מעקב, גלישה מהירה יותר.
+newtab-privacy-empty-state-small-message = יש לגלוש כדי להתחיל לחסום.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1420,6 +1423,12 @@ newtab-widget-menu-move-left = שמאלה
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = ימינה
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = בית
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = ווידג’טים
 newtab-widget-size-small = קטן
 newtab-widget-size-medium = בינוני
 newtab-widget-size-large = גדול

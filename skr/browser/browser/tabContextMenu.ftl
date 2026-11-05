@@ -92,12 +92,22 @@ tab-context-open-in-new-container-tab2 =
 move-to-start =
     .label = منڈھ تے ونڄو
     .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = شروع کرو
+    .accesskey = ش
 move-to-end =
     .label = چھیکڑ تے ونڄو
     .accesskey = E
+move-to-end-alt =
+    .label = چھیکڑ
+    .accesskey = چ
 move-to-new-window =
     .label = نویں ونڈو تے ونڄو
     .accesskey = W
+move-to-new-window-alt =
+    .label = نویں ونڈو
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +122,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = واڳی ٹیباں بند کرو
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = واڳی ٹیباں
+    .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = واڳی ٹیباں بند کرو
     .accesskey = و
@@ -128,6 +142,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = نواں گروپ
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = نواں گروپ
+tab-context-add-tab-to-group-closed-groups =
+    .label = بند گروپ
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

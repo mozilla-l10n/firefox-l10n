@@ -612,6 +612,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name }-thema’s
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Klassieke thema’s
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Meer tonen
 aboutaddons-themes-picker-see-less = Minder tonen
