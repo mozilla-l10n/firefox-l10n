@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = הורדת אישור
 download-cert-message = התבקשת לתת אמון ברשות אישורים (CA) חדשה.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = האם ברצונך לתת אמון ב־“{ $caName }” למטרות הבאות?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = רשות אישורים (ללא שם)
 download-cert-trust-ssl =
     .label = מתן אמון ברשות אישורים זו לזיהוי אתרים.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = חשוב: אם הססמה שלך לגיבוי האישו
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = נא להזין את הססמה שנעשה בה שימוש להצפין את גיבוי האישורים הזה:
 
 ## Protected authentication dialog
 

@@ -110,6 +110,11 @@ security-view-technical =
     .value = פרטים טכניים
 help-button =
     .label = עזרה
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = האתר { $website } אינו תומך בהצפנה עבור הדף בו הינך צופה.
+security-technical-no-encryption-transit = מידע שנשלח ברשת האינטרנט ללא הצפנה יכול להיראות על־ידי אנשים זרים בזמן העברתו.
+security-technical-no-encryption-page = הדף בו הינך צופה לא הוצפן לפני שהועבר דרך האינטרנט.
 security-technical-encrypted-page = הדף בו הינך צופה הוצפן לפני שהועבר דרך האינטרנט.
 security-technical-encrypted-description = הצפנה מקשה על אנשים לא מורשים להציג מידע בין מחשבים. לכן הסבירות לכך שמישהו הצליח לקרוא את העמוד הזה בזמן שהוא הועבר דרך הרשת היא נמוכה מאוד.
 security-technical-mixed-content-description = חלקים מהדף שהינך צופה בו לא הוצפנו לפני שהועבר דרך האינטרנט.
@@ -129,6 +134,8 @@ security-site-data-no = לא
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = חיבור לא מוצפן
 security-technical-mixed-content =
     .value = החיבור מוצפן באופן חלקי
 
