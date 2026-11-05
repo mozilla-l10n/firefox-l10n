@@ -86,3 +86,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ (ᱫᱚᱦᱲᱟ ):
 set-password-reminder = ᱞᱟᱹᱠᱛᱤᱭᱟᱜ: ᱡᱩᱫᱤ ᱟᱢ ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱦᱤᱲᱤᱧ ᱟᱠᱟᱫ ᱟᱢ, ᱟᱢ ᱛᱟᱭᱚᱢ ᱛᱮ ᱱᱚᱣᱟ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟ ᱛᱮ ᱵᱟᱢ ᱡᱚᱜᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱟ᱾ ᱱᱚᱣᱟ ᱱᱚᱣᱟ ᱥᱚᱱᱮᱥᱮᱫ ᱡᱟᱭᱜᱟ ᱨᱮ ᱨᱮᱠᱚᱨᱰ ᱢᱮ ᱾
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱫᱮᱨ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱴᱤᱯᱷᱤᱠᱮᱴ ᱵᱮᱠᱚᱯᱷ ᱫᱟᱱᱟᱝᱟᱜ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱱᱟ :
+
+## Protected authentication dialog
+

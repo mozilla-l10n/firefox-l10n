@@ -119,6 +119,17 @@ security-site-data-only = ᱦᱚᱭ, ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱨᱮᱭᱟ�
 security-site-data-cookies-only = ᱦᱚᱭ, ᱠᱩᱠᱤ ᱠᱚ
 security-site-data-no = ᱵᱟᱝ
 
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = ᱡᱚᱱᱚᱲᱟᱣ ᱵᱟᱭ ᱫᱟᱱᱟᱝ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+
 ##
 
 image-size-unknown = ᱵᱟᱝ ᱵᱟᱲᱟᱭᱟᱜ
