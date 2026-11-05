@@ -12,6 +12,8 @@ change-password-token = सुरक्षा साधन: { $tokenName }
 change-password-old = सध्याचा पासवर्ड:
 change-password-new = नवीन पासवर्ड:
 change-password-reenter = नवीन पासवर्ड(पुन्हा):
+change-password-not-set =
+    .value = (स्थापित नाही)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रतिकृती पासवर्ड प्रमाणपत्र (पुन्हा):
 set-password-reminder = महत्वाचे: आपण प्रतिकृती पासवर्ड प्रमाणपत्र विसरलात तर याची प्रतिकृती पुनःस्थापित करता येणार नाही.  कृपया सुरक्षित ठिकाणी त्याची नोंद करा.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
