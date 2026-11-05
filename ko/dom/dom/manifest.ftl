@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = ID 멤버가 유효한 URL로 확인되지 않았습니다.
+dom-manifest-id-not-same-origin = id 멤버는 start_url 멤버와 같은 출처를 가져야 합니다.
+dom-manifest-should-be-object = 매니페스트는 객체이어야 합니다.
+dom-manifest-scope-url-invalid = 스코프 URL이 유효하지 않습니다.
+dom-manifest-scope-not-same-origin = 스코프 URL은 문서와 같은 출처를 가지고 있어야 합니다.
+dom-manifest-start-url-outside-scope = 시작 URL이 스코프를 벗어나서 유효하지 않습니다.
+dom-manifest-start-url-invalid = 시작 URL이 유효하지 않습니다.
+dom-manifest-start-url-should-be-same-origin = 시작 URL은 문서와 같은 출처를 가지고 있어야 합니다.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
