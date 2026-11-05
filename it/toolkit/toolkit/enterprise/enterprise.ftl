@@ -60,6 +60,10 @@ security-software-disk-encryption-in-progress = Crittografia o decrittazione in 
 # Firefox could not determine whether the operating-system volume is encrypted.
 # This does not mean that encryption is disabled.
 security-software-disk-encryption-unknown = Non determinata
+# Shown in the about:support "Content Analysis (DLP)" section.
+content-analysis-agent-path-does-not-apply = n.d.
+content-analysis-agent-builtin-version = Versione integrata dell’agente
+content-analysis-agent-builtin-version-does-not-apply = n.d.
 enterprise-toolbar-button =
     .label = { -brand-short-name }
     .tooltiptext = { -brand-short-name }
