@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = 下载证书
 download-cert-message = 您被要求信任一个新的证书颁发机构（CA）。
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = 您要信任“{ $caName }”用于如下目的吗？
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = 证书颁发机构（未命名）
 download-cert-trust-ssl =
     .label = 信任由此证书颁发机构来标识网站。
 download-cert-trust-email =
