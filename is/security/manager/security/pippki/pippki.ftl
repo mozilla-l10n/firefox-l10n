@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Hleð niður skilríki
 download-cert-message = Þú ert beðinn um að treysta nýrri vottunarstöð (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Viltu treysta “{ $caName }” fyrir eftirfarandi hluti?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Vottunarstöð (ónefnt)
 download-cert-trust-ssl =
     .label = Treysta þessum CA-vottunaraðila til að auðkenna vefsvæði.
 download-cert-trust-email =
