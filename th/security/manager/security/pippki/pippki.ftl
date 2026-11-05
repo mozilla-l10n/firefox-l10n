@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = กำลังดาวน์โหลดใบรับรอง
 download-cert-message = คุณได้รับคำขอให้เชื่อถือผู้ออกใบรับรอง (CA) ใหม่
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = คุณต้องการเชื่อถือ "{ $caName }" ด้วยเหตุผลดังกล่าวหรือไม่?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ผู้ออกใบรับรอง (ไม่มีชื่อ)
 download-cert-trust-ssl =
     .label = เชื่อถือ CA นี้เพื่อระบุเว็บไซต์
 download-cert-trust-email =
