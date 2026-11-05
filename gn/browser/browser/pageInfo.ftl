@@ -110,6 +110,16 @@ security-view-technical =
     .value = Mba’emimi aporekoguáva
 help-button =
     .label = Ñepytyvõ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Pe ñanduti renda { $website } nomoneĩri mbopapapy ko kuatiarogue ehechávape g̃uarã.
+security-technical-no-encryption-transit = Marando emondóva ñanduti rupive embopapapy’ỹre ikatu ohecha ambue tapicha.
+security-technical-no-encryption-page = Ko kuatiarogue ehechavahína oñembopapapýkuri ojehupi mboyve ñandutípe.
+security-technical-encrypted-page = Ko kuatiarogue ehechavahína oñembopapapýkuri ojehupi mboyve ñandutípe.
+security-technical-encrypted-description = Encryption ombahasy umi tapicha moneĩpyrévape ohechávo marandu ojeguerahaukáva mohendaha rupive. Upéicha rupi, hasýta peteĩme jepe omoñe’ẽvo ko kuatiarogue, oho haguére ñanduti rupi.
+security-technical-mixed-content-description = Oĩhína kuatiarogue pehẽ ehechavahína oñembopapa’ỹva’ekue ojehupi mboyve ñandutípe.
+security-technical-weak-cipher = Nde jeike ko ñanduti kuatiaroguépe oiporu papapy ikangýva ha iñemi’ỹva. Ambue tapicha ikatu ohecha nemarandu térã omoambue ko ñanduti kuatiarogue reko.
+security-technical-ct-compliant = Ko tenda oguereko tesakãite mboajepyre rehegua.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +131,23 @@ security-site-data-cookies = Héẽ, umi kookie ha { $value } { $unit } tendaku�
 security-site-data-only = Héẽ,{ $value } { $unit } tendakuéra mba’ekuaarã
 security-site-data-cookies-only = Héẽ, umi kookie
 security-site-data-no = Ahániri
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Jeikekatu mbopapa’ỹre
+security-technical-mixed-content =
+    .value = Jeikekatu ipapapy sa’íva
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Jeikekatu mbopapapýva ({ $algorithm }, { $keySize } pe’aha bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Mbopapapýva Broken ({ $algorithm }, { $keySize } pe’aha bits, { $protocol })
 
 ##
 
