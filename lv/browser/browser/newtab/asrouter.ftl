@@ -321,9 +321,14 @@ windows-10-eos-sync-callout-get-started-button = Sākt darbu
 windows-10-eos-feature-toast-title = Stateniskās cilnes un ciļņu kopas ir klāt!
 # In English, "dropped" is a colloquial form for released.
 windows-10-eos-feature-toast-subtitle = Pēc plaša pieprasījuma { -brand-product-name } ir ieviesis jaunas funkcijas, lai jūsu pārlūkošana būtu vienkāršāka un koncentrētāka.
+windows-10-eos-feature-toast-whats-new-button = Skatiet jaunumus
+windows-10-eos-feature-toast-dismiss-button = Noraidīt
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft vairs neatbalsta operētājsistēmu Windows 10.</strong> Dublējiet savu informāciju, lai sagatavotu { -brand-product-name } operētājsistēmai Windows 11.
+windows-10-eos-global-infobar-primary-button = Ieslēgt rezerves kopiju
+    .accesskey = I
 windows-10-eos-global-infobar-learn-more-link = Uzzināt vairāk
     .accessKey = U
 
@@ -334,10 +339,18 @@ windows-10-eos-global-infobar-learn-more-link = Uzzināt vairāk
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Stingra izsekošanas aizsardzība var izraisīt vietņu darbības pārtraukumus.</strong> Novērsiet bieži sastopamas problēmas, atbloķējot būtiskus elementus, kas varētu saturēt izsekotājus.
 etp-strict-exceptions-infobar-learn-more = Uzzināt vairāk
+etp-strict-exceptions-infobar-button = Lietot labojumus
+    .accesskey = a
+etp-strict-exceptions-infobar-not-now = Ne tagad
+    .accesskey = N
 
 ## 'Set to default' messaging displayed within the App menu
 
+set-default-menu-message-simple-layout-title = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
+set-default-menu-message-row-layout-title = Padarīt { -brand-short-name } par savu galveno pārlūkprogrammu
 set-default-menu-message-split-layout-subtitle =
     { PLATFORM() ->
         [macos] Padari to par noklusējumu un turi to Dock!
@@ -348,9 +361,14 @@ set-default-menu-message-split-layout-subtitle =
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = Uzsaucam 50 e-pasta aizsegus
+relay-50-masks-announcement-secondary-button = Noraidīt
+    .accesskey = N
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } iegūst jaunu izskatu.</strong> Jūs priekšskatāt agrīnu, nepārstrādātu versiju pirms izlaišanas vēlāk šogad.
+nova-early-access-share-feedback-link = Kopīgot atsauksmes
+    .accesskey = s
 nova-early-access-infobar-primary-button = Sapratu
     .accesskey = S
 

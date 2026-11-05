@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = استورِد من �
 contextual-manager-passwords-command-import = استورِد من ملف…
 contextual-manager-passwords-command-export = صدّر كلمات السر
 contextual-manager-passwords-command-remove-all = أزل كل كلمات السر
+contextual-manager-passwords-command-delete-all = احذف جميع كلمات السر
 contextual-manager-passwords-command-options = الخيارات
 contextual-manager-passwords-command-help = مساعدة
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -154,12 +155,16 @@ contextual-manager-passwords-radiobutton-all = الكل ({ $total })
 contextual-manager-passwords-radiobutton-alerts = التنبيهات ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = إزالة كلمة السر؟
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = حذف كلمة السر؟
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = لا يمكنك التراجع عن هذا.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = السابق
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = أزِل
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = احذف
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ألغِ
 contextual-manager-passwords-alert-card =
@@ -191,6 +196,9 @@ contextual-manager-passwords-update-label =
     .label = حدّث كلمة السر
 contextual-manager-passwords-remove-label =
     .title = أزِل كلمة السر
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = احذف كلمة السر
 contextual-manager-passwords-origin-field =
     .label = عنوان الموقع
     .placeholder = https://www.example.com

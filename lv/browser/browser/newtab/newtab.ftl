@@ -127,7 +127,12 @@ newtab-privacy-etp-off-turn-on-tracking = Iestatījumos ieslēdz aizsardzību pr
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-5 = Bloķēti izsekotāji nozīmē, ka mazāk uzņēmumu var sekot jums dažādās vietnēs.
+newtab-privacy-message-info-5-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-info-6 = Saglabājiet savus datus pakalpojumā { -brand-short-name }. Mēs tos nekad nepārdodam, bet citas pārlūkprogrammas to varētu darīt.
 newtab-privacy-message-info-6-cta = Uzzināt vairāk
+newtab-privacy-message-info-7 = Skatiet, kuri izsekotāji { -brand-short-name } ir bloķēti.
+newtab-privacy-message-info-7-cta = Skatīt aizsardzības iestatījumus
 newtab-privacy-message-info-8-cta = Uzzināt vairāk
 newtab-privacy-message-info-11-cta = Uzzināt vairāk
 
