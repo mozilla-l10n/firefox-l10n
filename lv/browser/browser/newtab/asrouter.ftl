@@ -266,10 +266,61 @@ fxa-menu-message-mobile-collapsed-text = Vienādot ar jūsu tālruni
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Laipni lūgti atpakaļ
+multi-cta-fox-doodle-set-default-checkbox = Iestatīt { -brand-short-name } uz noklusējuma vērtību
+multi-cta-fox-doodle-pin-startmenu-checkbox = Piespraust { -brand-short-name } izvēlnei Sākt
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Saglabāt { -brand-short-name } dokā
+       *[other] Piespraust { -brand-short-name } uzdevumjoslai
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Sākt pārlūkošanu
+multi-cta-fox-doodle-main-browser-primary-button-label = Padarīt { -brand-short-name } par manu galveno pārlūkprogrammu
+multi-cta-fox-doodle-quick-reminder-subtitle = Šeit ir īss atgādinājums, ka varat paturēt savu iecienītāko uz privātumu vērsto pārlūkprogrammu tikai viena klikšķa attālumā.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Saglabājiet savu iecienītāko uz privātumu vērsto pārlūkprogrammu tikai viena klikšķa attālumā. Iestatiet { -brand-short-name } kā noklusējuma pārlūkprogrammu saišu atvēršanai un saglabājiet to savā Dock mapē.
+       *[other] Saglabājiet savu iecienītāko uz privātumu vērsto pārlūkprogrammu tikai viena klikšķa attālumā. Iestatiet { -brand-short-name } kā noklusējuma pārlūkprogrammu saišu atvēršanai un piespraudiet to uzdevumjoslai.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Saglabājiet savu iecienītāko uz privātumu vērsto pārlūkprogrammu tikai viena klikšķa attālumā. Iestatiet { -brand-short-name } kā noklusējuma pārlūkprogrammu saišu atvēršanai un piespraudiet to uzdevumjoslai un izvēlnei Sākt.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Vai drīzumā pāriesiet no Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Dublējiet savas paroles un grāmatzīmes, lai varētu pāriet uz jebkuru ierīci.
+windows-10-eos-sync-spotlight-primary-label = Izveidojiet sava { -brand-short-name } rezerves kopiju
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Jaunināt uz Windows 11? Nepazaudējiet grāmatzīmes un paroles.
+windows-10-eos-sync-toast-subtitle = Veidojiet rezerves kopiju saviem datiem, lai { -brand-short-name } būtu gatavs lietošanai jebkurā laikā — šajā vai nākamajā datorā.
+windows-10-eos-sync-toast-primary-label = Sākt darbu
+windows-10-eos-sync-toast-secondary-label = Atgādināt vēlāk
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } nav jau sākotnēji instalēts kā citas lielo tehnoloģiju uzņēmumu pārlūkprogrammas. Tieši tāda ir doma.
+windows-10-eos-challenger-sync-callout-subtitle = Kad dublējat savas { -brand-product-name } grāmatzīmes un paroles, ir vieglāk pārnest izvēlēto pārlūkprogrammu uz nākamo ierīci.
+windows-10-eos-challenger-pin-callout-subtitle = Piespraudiet { -brand-shorter-name } uzdevumjoslai, lai izvēlētā pārlūkprogramma vienmēr būtu pieejama, kad tā nepieciešama.
+windows-10-eos-challenger-sync-primary-button = Izveidojiet sava { -brand-shorter-name } rezerves kopiju
+windows-10-eos-challenger-pin-primary-button = Piespraust { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloķē kriptovalūtu ieguves programmas, sociālo mediju izsekotājus un pirkstu nospiedumu lasītājus.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Izsekošanas ierīces nevar identificēt jūsu ierīci vai sekot jums tīmeklī — jo mēs tām to neļaujam.
+windows-10-eos-sync-callout-privacy-screen-2-title = Nodrošiniet savas paroles un grāmatzīmes nākamajai ierīcei.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name } dublēšana atvieglo datu un privātuma iestatījumu saglabāšanu.
+windows-10-eos-sync-callout-privacy-info-button = Skatiet, kas ir bloķēts
+windows-10-eos-callout-addons-title = Izmēģiniet papildinājumus: vienkārši jauninājumi, liela ietekme
+windows-10-eos-callout-addons-subtitle = Šie paplašinājumi tika izvēlēti, lai palīdzētu jums saglabāt produktivitāti, aizsardzību un uzmanību novērsošu uzmanību.
+windows-10-eos-callout-addons-primary-button = Skatiet mūsu ieteikumus
+windows-10-eos-sync-callout-addons-title = Nepazaudējiet savus pievienojumprogrammas, jauninot no Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sinhronizējiet tūlīt, lai jūsu { -brand-product-name } pievienojumprogrammas vienmēr būtu pieejamas, pat pēc ierīces maiņas.
+windows-10-eos-sync-callout-next-button = Nākamais
+windows-10-eos-sync-callout-get-started-button = Sākt darbu
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Stateniskās cilnes un ciļņu kopas ir klāt!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Pēc plaša pieprasījuma { -brand-product-name } ir ieviesis jaunas funkcijas, lai jūsu pārlūkošana būtu vienkāršāka un koncentrētāka.
 
 ## Windows 10 EoS Global Infobar
 
