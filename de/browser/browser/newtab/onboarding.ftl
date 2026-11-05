@@ -666,3 +666,7 @@ hnt-card-taskbar-tabs-primary-button = Websites zur Taskleiste hinzufügen
 hnt-card-extensions-header = Mit Erweiterungen mehr aus { -brand-short-name } herausholen
 hnt-card-extensions-body = Passen Sie Ihr Surfen mit unseren beliebtesten Erweiterungen an.
 hnt-card-extensions-primary-button = Entdecken
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Fertig. Machen Sie Ihr Ding.
+hnt-card-last-card-header-end = Schutz vor Aktivitätenverfolgung ist an.

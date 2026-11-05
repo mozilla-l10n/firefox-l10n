@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Größe von Tabs in geteilter Ansicht ändern
 tab-devtools-splitter =
     .aria-label = Größe der Ansicht für Entwicklerwerkzeuge ändern
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Tabs zu Gruppe hinzufügen
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -280,6 +285,14 @@ tab-context-move-tab-to-new-group =
            *[other] Tabs zu neuer Gruppe hinzufügen
         }
     .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Zu Gruppe hinzufügen
+            [one] { $tabCount } Tab zur Gruppe hinzufügen
+           *[other] { $tabCount } Tabs zur Gruppe hinzufügen
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -452,6 +465,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Geteilte Ansicht beenden
     .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Tabs separieren
+    .accesskey = T
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Tabs umkehren

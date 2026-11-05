@@ -148,6 +148,14 @@ contextual-manager-passwords-remove-all-message-sync =
         [one] Dadurch werden das auf allen synchronisierten Geräten in { -brand-short-name } gespeicherte Passwort sowie Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
        *[other] Dadurch werden alle auf allen synchronisierten Geräten in { -brand-short-name } gespeicherten Passwörter und Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Dadurch wird es auf jedem Gerät aus { -brand-short-name } gelöscht, das Ihre Passwörter synchronisiert. Dies kann nicht rückgängig gemacht werden.
+        [one] Dadurch wird dieses aus { -brand-short-name } auf jedem Gerät gelöscht, das Ihre Passwörter synchronisiert. Dies kann nicht rückgängig gemacht werden.
+       *[other] Dadurch werden diese aus { -brand-short-name } auf jedem Gerät gelöscht, das Ihre Passwörter synchronisiert. Dies kann nicht rückgängig gemacht werden.
+    }
 contextual-manager-passwords-origin-label = Website
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Benutzername

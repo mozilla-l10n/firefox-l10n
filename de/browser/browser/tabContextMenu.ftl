@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Linke Tabs schließen
     .accesskey = L
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Tabs links davon
+    .accesskey = l
 close-tabs-to-the-start-vertical =
     .label = Obere Tabs schließen
     .accesskey = O
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Tabs darüber
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Rechte Tabs schließen
     .accesskey = R
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Tabs rechts schließen
+    .accesskey = r
 close-tabs-to-the-end-vertical =
     .label = Untere Tabs schließen
     .accesskey = U
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Tabs darunter
+    .accesskey = r
 close-other-tabs =
     .label = Andere Tabs schließen
     .accesskey = A
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Alle anderen
+    .accesskey = a
 reload-tabs =
     .label = Tabs neu laden
     .accesskey = d
@@ -89,6 +111,9 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = In neuem Tab in Umgebung öffnen
     .accesskey = m
+tab-context-open-in-container =
+    .label = In Umgebung öffnen
+    .accesskey = U
 move-to-start =
     .label = An Anfang verschieben
     .accesskey = A
@@ -98,6 +123,9 @@ move-to-end =
 move-to-new-window =
     .label = In neues Fenster verschieben
     .accesskey = n
+move-to-new-window-alt =
+    .label = Neues Fenster
+    .accesskey = F
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +140,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Doppelte Tabs schließen
     .accesskey = D
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Tabs duplizieren
+    .accesskey = d
 tab-context-close-duplicate-tabs2 =
     .label = Doppelte Tabs schließen
     .accesskey = D
@@ -128,6 +160,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Neue Gruppe
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = Neue Tab-Gruppe
+tab-context-add-tab-to-group-closed-groups =
+    .label = Geschlossene Tab-Gruppen
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
