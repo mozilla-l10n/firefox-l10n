@@ -38,6 +38,11 @@ tab-splitview-splitter =
     .aria-label = Wulkosć rajtarkow dźěleneho napohlada změnić
 tab-devtools-splitter =
     .aria-label = Wulkosć napohlada za nastroje wuwiwarjow změnić
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Rajtarki skupinje přidać
+    .accesskey = R
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -501,6 +506,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Rozdźěleny napohlad wotdźělić
     .accesskey = d
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Rajtarki dźělić
+    .accesskey = R
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Rajtarki wobroćić

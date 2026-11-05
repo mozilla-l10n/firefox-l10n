@@ -31,8 +31,8 @@ inactive-css-not-grid-container = <strong>{ $property }</strong> hat gjin effekt
 inactive-css-not-flex-item = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin flexitem is.
 inactive-css-not-flex-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin flexcontainer is.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin inline of table-cell-elemint is.
-inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::first-line-pseudo-eleminten
-inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::first-letter-pseudo-eleminten
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::first-line-pseudo-eleminten.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::first-letter-pseudo-eleminten.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::placeholder-pseudo-eleminten.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it in werjefte fan <strong>{ $display }</strong> hat.
 inactive-css-not-display-block-on-floated-2 = De wearde <strong>display</strong> is troch de engine yn <strong>{ $display }</strong> wizige, omdat it elemint <strong>floated</strong> is.
@@ -57,7 +57,7 @@ inactive-css-resize = <strong>{ $property }</strong> hat gjin effekt op dit elem
 inactive-css-ruby-element = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it in ruby-elemint is. De grutte wurdt bepaald troch de lettertypegrutte fan de rubytekst.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wurdt net stipe op markearre pseudo-eleminten.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::cue-pseudo-eleminten.
-inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> wurdt net stipe yn de folgjende browsers <strong>@position-try</strong>-regels:
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> wurdt net stipe yn de folgjende browsers <strong>@position-try</strong>-regels.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -76,7 +76,7 @@ inactive-css-no-principal-box = <strong>{ $property }</strong> hat gjin effekt o
 
 inactive-css-not-grid-or-flex-container-fix = Probearje <strong>display:grid</strong> of <strong>display:flex</strong> ta te foegjen. { learn-more }
 inactive-css-not-grid-or-flex-or-block-container-fix = Probearje <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>display:block</strong> ta te foegjen. { learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probearje <strong>display:grid</strong>, of <strong>display:flex</strong>, of <strong>colums:2</strong> ta te foegjen. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probearje <strong>display:grid</strong>, of <strong>display:flex</strong>, of <strong>columns:2</strong> ta te foegjen. { learn-more }
 inactive-css-not-multicol-container-fix = Probearje <strong>column-count</strong> of <strong>column-width</strong> ta te foegjen. { learn-more }
 inactive-css-column-span-fix = Probearje <strong>column-count</strong> of <strong>column-width</strong> oan ien fan de foarrinnende eleminten ta te foegjen. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Probearje <strong>position:absolute</strong> oan it elemint ta te foegjen, of <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> oan it boppelizzende nivo fan it elemint. { learn-more }
@@ -109,7 +109,7 @@ inactive-css-not-table-cell-fix = Probearje <strong>display:table-cell</strong> 
 inactive-scroll-padding-when-not-scroll-container-fix = Probearje <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> of <strong>overflow:hidden</strong> ta te foegjen. { learn-more }
 inactive-css-border-image-fix = Smyt yn it boppelizzende tabelelemint de eigenskip fuort, of wizigje de wearde fan <strong>border-collapse</strong> yn in oare wearde as <strong>collapse</strong>. { learn-more }
 inactive-css-resize-fix = Probearje <strong>overflow</strong> yn te stellen op in oare wearde as <strong>visible</strong> of te rjochtsjen op in ferfongen elemint dat dizze stipet. { learn-more }
-inactive-css-ruby-element-fix = Probearje de <strong>lettertypegrutte</strong> fan de rubytekst te wizigjen. { learn-more }
+inactive-css-ruby-element-fix = Probearje de <strong>font-size</strong> fan de rubytekst te wizigjen. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Probearje it oantal rigels te ferminderjen. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Mij it splitsen fan de ynhâld fan it elemint, byg. troch de kolommen fuort te smiten of troch <strong>page-break-inside:avoid</strong> te brûken. { learn-more }
 inactive-css-no-principal-box-fix = Probearje in <strong>display</strong>-wearde ta te foegjen dy’t in haadfak makket, lykas <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> of <strong>grid</strong>. { learn-more }

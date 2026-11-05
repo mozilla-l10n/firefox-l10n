@@ -151,6 +151,14 @@ contextual-manager-passwords-remove-all-message-sync =
         [one] Isto irá remover a palavra-passe guardada no { -brand-short-name } em todos os dispositivos sincronizados e remover quaisquer alertas de violação de dados. Não pode anular esta ação.
        *[other] Isto irá remover as palavras-passe guardadas no { -brand-short-name } em todos os dispositivos sincronizados e remover quaisquer alertas de violação de dados. Não pode anular esta ação.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Isto apaga-a do { -brand-short-name } em todos os dispositivos que sincronizem as suas palavras-passe. Não pode desfazer isto.
+        [one] Isto apaga-a do { -brand-short-name } em todos os dispositivos que sincronizem as suas palavras-passe. Não pode desfazer isto.
+       *[other] Isto apaga-as do { -brand-short-name } em todos os dispositivos que sincronizem as suas palavras-passe. Não pode desfazer isto.
+    }
 contextual-manager-passwords-origin-label = Website
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nome de utilizador
@@ -194,12 +202,16 @@ contextual-manager-passwords-radiobutton-all = Tudo ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Remover palavra-passe
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Apagar palavra-passe?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Não pode anular isto.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Voltar
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Remover
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Apagar
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
 contextual-manager-passwords-alert-card =
@@ -231,6 +243,9 @@ contextual-manager-passwords-update-label =
     .label = Atualizar palavra-passe
 contextual-manager-passwords-remove-label =
     .title = Remover palavra-passe
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Apagar palavra-passe
 contextual-manager-passwords-origin-field =
     .label = Endereço do site
     .placeholder = https://www.example.com

@@ -374,8 +374,8 @@ website-add-language-button =
 # Variables:
 #   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
 website-remove-language-button =
-    .aria-label = { $locale } fuortsmite?
-    .title = { $locale } fuortsmite?
+    .aria-label = { $locale } fuortsmite
+    .title = { $locale } fuortsmite
 choose-button =
     .label = Kieze…
     .accesskey = i
@@ -383,7 +383,7 @@ choose-browser-language-description = Kies de talen dy’t brûkt wurde foar it 
 manage-browser-languages-button =
     .label = Alternativen ynstelle…
     .accesskey = A
-confirm-browser-language-change-description = Start { -brand-short-name } opnij om dizze wizigingen ta te passen.
+confirm-browser-language-change-description = Start { -brand-short-name } opnij om dizze wizigingen ta te passen
 confirm-browser-language-change-button = Tapasse en opnij starte
 browser-language-heading =
     .description = Kies de taal dy’t brûkt wurdt om menu’s, berjochten en notifikaasjes fan { -brand-short-name } te toanen.
@@ -422,7 +422,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Dizze websites nea oersette
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = Iepenje om in website ta te foegjen it <img data-l10n-name="translations-icon"/>  oersetpaniel, selektearje <img data-l10n-name="settings-icon"/> oersetynstellingen en kies ‘Dizze website nea oersette’
+settings-translations-subpage-never-translate-sites-description = Iepenje om in website ta te foegjen it <img data-l10n-name="translations-icon"/> oersetpaniel, selektearje <img data-l10n-name="settings-icon"/> oersetynstellingen en kies ‘Dizze website nea oersette’
 settings-translations-subpage-language-select-option =
     .label = Taal tafoegje
 settings-translations-subpage-language-add-button =
@@ -781,7 +781,7 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (standert)
 home-mode-choice-custom =
-    .label = Oanpaste URL’s
+    .label = Oanpaste URL’s…
 home-mode-choice-blank =
     .label = Lege side
 home-homepage-custom-url =
@@ -880,7 +880,7 @@ home-prefs-recent-activity-header =
 home-prefs-recent-activity-description = In seleksje fan resinte websites en ynhâld
 home-prefs-weather-header =
     .label = It waar
-home-prefs-weather-description = It waar fan hjoed yn ien eachopslach.
+home-prefs-weather-description = It waar fan hjoed yn ien eachopslach
 home-prefs-weather-learn-more-link = Mear ynfo
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
@@ -1360,7 +1360,7 @@ forms-primary-pw-change =
 # use { "" } as the value.
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
-forms-master-pw-fips-desc = Wachtwurdwiziging mislearre.
+forms-master-pw-fips-desc = Wachtwurdwiziging mislearre
 forms-windows-sso =
     .label = Windows-single-sign-on tastean foar Microsoft- wurk- en skoalle-accounts
 forms-windows-sso-learn-more-link = Mear ynfo

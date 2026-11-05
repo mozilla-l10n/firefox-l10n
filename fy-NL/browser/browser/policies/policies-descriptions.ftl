@@ -25,7 +25,7 @@ policy-BackgroundAppUpdate2 = Eftergrûnfernijingen yn- of útskeakelje.
 policy-Backup = Reservekopy meitsje of reparearje fan profylgegevens útskeakelje.
 policy-BlockAboutAddons = Tagong ta de Add-onbehearder (about:addons) blokkearje.
 policy-BlockAboutConfig2 = Tagong ta avansearre foarkarren (about:config) blokkearje.
-policy-BlockAboutProfiles2 = Tagong ta Oer profilen about:profiles blokkearje.
+policy-BlockAboutProfiles2 = Tagong ta Oer profilen (about:profiles) blokkearje.
 policy-BlockAboutSupport2 = Tagong ta Probleemoplossingsynformaasje (about:support) blokkearje.
 policy-BlockAboutConfig = Tagong ta de about:config-side blokkearje.
 policy-BlockAboutProfiles = Tagong ta de about:profiles-side blokkearje.
@@ -45,7 +45,7 @@ policy-Containers = Belied oangeande konteners ynstelle.
 policy-DisableAccounts = Accountbasearre tsjinsten útskeakelje, wêrûnder syngronisaasje.
 policy-DisabledCiphers = Kodearringssuites útskeakelje.
 policy-DefaultBrowserSettingEnabled = Bepale oft de brûker { -brand-short-name } as standertbrowser ynstelle kin.
-policy-DefaultDownloadDirectory = Standert downloadmap ynstellen
+policy-DefaultDownloadDirectory = Standert downloadmap ynstelle.
 policy-DefaultSerialGuardSetting = Gebrûk fan de seriële API beheare.
 policy-DisableAppUpdate = Foarkomme dat de browser fernijd wurdt.
 policy-DisableBuiltinPDFViewer = PDF.js útskeakelje, de ynboude PDF-viewer yn { -brand-short-name }.
@@ -78,7 +78,7 @@ policy-DisableSetAsDesktopBackground = De menuopdracht As buroblêdachtergrûn y
 policy-DisableSystemAddonUpdate = Foarkomme dat de browser systeemadd-ons ynstallearret en bywurket.
 policy-DisableTelemetry = Telemetry útskeakelje.
 policy-DisableThirdPartyModuleBlocking2 = Foarkomme dat de brûker eksterne ynformaasje oer modulen (about:third-party) brûkt om modulen fan tredden te blokkearjen dy’t yn it { -brand-short-name }-proses ynjektearre binne.
-policy-DisableThirdPartyModuleBlocking = Foarkomme dat de brûker modulen fan tredden dy’t yn it { -brand-short-name }-proses ynjektearre wurde blokkearret
+policy-DisableThirdPartyModuleBlocking = Foarkomme dat de brûker modulen fan tredden dy’t yn it { -brand-short-name }-proses ynjektearre wurde blokkearret.
 policy-DisplayBookmarksToolbar = Standert de Blêdwizerarkbalke werjaan.
 policy-DisplayMenuBar = Standert de Menubalke werjaan.
 policy-DNSOverHTTPS = DNS oer HTTPS konfigurearje.
@@ -99,7 +99,7 @@ policy-FirefoxHome2 = { -firefox-home-brand-name } konfigurearje.
 policy-FirefoxSuggest = { -firefox-suggest-brand-name } konfigurearje.
 policy-GenerativeAI = Generative AI-funksjes konfigurearje.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Direkte navigaasje op yntranetsites forsearje yn stee fan sykje by it typen fan inkelde wurden yn de adresbalke.
-policy-Handlers = Standert tapassinghandlers konfigurearje
+policy-Handlers = Standert tapassinghandlers konfigurearje.
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startside ynstelle en opsjoneel beskoattelje.
@@ -107,7 +107,7 @@ policy-HttpAllowlist = Oarspronklike boarnen dy’t net nei HTTPS upgrade wurde.
 policy-HttpsOnlyMode = Allinnich-HTTPS-modus tasean om yn te skeakeljen.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
 policy-IPProtectionAvailable = Foarkomme dat de ynboude VPN beskikber is foar brûkers.
-policy-LegacyProfiles = Funksje om in ôfsûnderlik profyl foar elke ynstallaasje ôf te twingen útskeakelje
+policy-LegacyProfiles = Funksje om in ôfsûnderlik profyl foar elke ynstallaasje ôf te twingen útskeakelje.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 

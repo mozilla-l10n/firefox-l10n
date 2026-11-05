@@ -1422,6 +1422,9 @@ newtab-widget-menu-move-right = چپ
 # Submenu item under "Move"; pins the widget to Home, the New Tab space the
 # page opens on.
 newtab-widget-menu-move-to-home = خانه
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = ابزارک‌ها
 newtab-widget-size-small = کوچک
 newtab-widget-size-medium = متوسط
 newtab-widget-size-large = بزرگ
@@ -1516,6 +1519,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = باز کردن منوی جدول کلمات متقاطع
     .title = باز کردن منوی جدول کلمات متقاطع
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = قدرت گرفته توسط Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1829,6 +1835,10 @@ newtab-clock-widget-menu-edit = ویرایش ساعت‌ها
 newtab-clock-widget-menu-switch-to-12h = تغییر به قالب ۱۲ ساعته
 newtab-clock-widget-menu-switch-to-24h = تغییر به قالب ۲۴ ساعته
 newtab-clock-widget-label-your-clocks = ساعت‌های شما
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = بازگشت
+    .title = بازگشت
 newtab-clock-widget-search-location-input2 =
     .aria-label = جست‌وجوی یک شهر
     .placeholder = جست‌وجوی یک شهر

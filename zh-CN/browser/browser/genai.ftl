@@ -102,10 +102,13 @@ genai-shortcut-button =
     .aria-label = 询问 { $provider }
 genai-menu-new-badge = 新
 genai-menu-summarize-page = 生成页面摘要
+genai-menu-summarize-with-ai = 使用 AI 生成摘要
 genai-input-ask-smart-window =
     .placeholder = 询问…
 genai-input-ask-generic =
     .placeholder = 询问 AI 聊天机器人…
+genai-input-ask-ai =
+    .placeholder = 询问 AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = 询问 { $provider }…

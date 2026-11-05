@@ -437,8 +437,8 @@ desktop-to-mobile-qr-code-alt =
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-screen-1-title =
-    Upgrade nei Windows 11?
-    Litte wy in reservekopy fan jo { -brand-product-name }-gegevens meitjse
+    Bywurkje nei Windows 11?
+    Litte wy in reservekopy fan jo { -brand-product-name }-gegevens meitsje.
 create-backup-screen-1-subtitle = Beskermje automatysk jo wachtwurden, blêdwizers en mear yn 1–2 minuten.
 create-backup-screen-1-flair = Oanrekommandearre
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Mear ynfo</a>
@@ -535,13 +535,13 @@ onboarding-refresh-pin-set-default-subtitle = Wy beskermje jo gegevens en blokke
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Jo binne yn feilige poaten
 onboarding-refresh-import-subtitle = Bring jo wachtwurden, blêdwizers, skiednis en mear oer.
-onboarding-refresh-import-title = Lit { -brand-short-name } mear as thús fiele.
+onboarding-refresh-import-title = Lit { -brand-short-name } mear as thús fiele
 onboarding-refresh-onboarding-addons-subtitle = Utwreidingen binne lytse apps wêrmei’t jo { -brand-short-name } oanpasse kinne. Se kinne jo privacy ferbetterje, produktiviteit ferbetterje, it uterlik fan { -brand-short-name } wizigje, en noch folle mear.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Jou jo navigaasje in boost
 onboarding-refresh-sync-subtitle = Download blêdwizers, wachtwurden en mear, oeral wêr’t jo oanmeld binne by { -brand-short-name }. Plus, jo gegevens binne fersifere, sadat allinnich jo se sjen kinne.
 onboarding-refresh-sync-title = Gean oeral hinne. Syngronisearje alles.
-onboarding-refresh-gratitude-subtitle = Tank foar it brûken fan { -brand-short-name }, de iennige browser dy’t stipe wurdt troch in non-profitorganisaasje. Mei jo stipe wurkje wy om it ynternet  foar elkenien feiliger en mear tagonklik te meitsjen.
+onboarding-refresh-gratitude-subtitle = Tank foar it brûken fan { -brand-short-name }, de iennige browser dy’t stipe wurdt troch in non-profitorganisaasje. Mei jo stipe wurkje wy om it ynternet foar elkenien feiliger en mear tagonklik te meitsjen.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } is der foar jo
 

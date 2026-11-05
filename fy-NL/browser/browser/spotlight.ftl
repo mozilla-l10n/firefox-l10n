@@ -4,8 +4,8 @@
 
 # Dialog close button
 spotlight-dialog-close-button =
-    .title = Slute
     .aria-label = Slute
+    .title = Slute
 
 ## Mobile download button strings
 
@@ -17,6 +17,6 @@ spotlight-ios-marketplace-button =
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = { -focus-brand-name } downloade
-spotlight-focus-promo-subtitle = Scan de QR-koade om te downloaden
+spotlight-focus-promo-subtitle = Scan de QR-koade om te downloaden.
 spotlight-focus-promo-qr-code =
     .alt = Scan de QR-koade om { -focus-brand-name } te downloaden

@@ -256,6 +256,6 @@ media-file-size = { $size } KB
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =
-    .title = Sydeynfo - { $website }
+    .title = Sydeynfo – { $website }
 page-info-frame =
-    .title = Dielfinsterynfo - { $website }
+    .title = Dielfinsterynfo – { $website }

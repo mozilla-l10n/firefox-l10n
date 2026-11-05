@@ -83,7 +83,7 @@ lockwise-how-it-works-link = Hoe’t it wurket
 monitor-title = Let op datalekken
 monitor-link = Hoe’t it wurket
 monitor-header-content-no-account = Sjoch op { -monitor-brand-name } om te sjen oft jo troffen binne troch in bekend datalek en ûntfang warskôgingen oer nije datalekken.
-monitor-header-content-signed-in = { -monitor-brand-name } warskôget jo as jo gegevens foarkomme yn in bekend datalek
+monitor-header-content-signed-in = { -monitor-brand-name } warskôget jo as jo gegevens foarkomme yn in bekend datalek.
 monitor-sign-up-link = Ynskriuwe foar warskôgingen oer datalekken
     .title = Ynskriuwe foar warskôgingen oer datalekken op { -monitor-brand-name }
 auto-scan = Hjoed automatysk scand
@@ -169,40 +169,40 @@ monitor-resolve-breaches-link = Datalekken oplosse
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sosjale-mediatrackers
     .aria-label =
         { $count ->
             [one] { $count } sosjale-mediatracker ({ $percentage }%)
            *[other] { $count } sosjale-mediatrackers ({ $percentage }%)
         }
+    .title = Sosjale-mediatrackers
 bar-tooltip-cookie =
-    .title = Cross-site-trackingcookies
     .aria-label =
         { $count ->
             [one] { $count } cross-site-trackingcookie ({ $percentage }%)
            *[other] { $count } cross-site-trackingcookies ({ $percentage }%)
         }
+    .title = Cross-site-trackingcookies
 bar-tooltip-tracker =
-    .title = Folchynhâld
     .aria-label =
         { $count ->
             [one] { $count } folchynhâlditem ({ $percentage }%)
            *[other] { $count } folchynhâlditems ({ $percentage }%)
         }
+    .title = Folchynhâld
 bar-tooltip-fingerprinter =
-    .title = Fingerprinters
     .aria-label =
         { $count ->
             [one] { $count } fingerprinter ({ $percentage }%)
            *[other] { $count } fingerprinters ({ $percentage }%)
         }
+    .title = Fingerprinters
 bar-tooltip-cryptominer =
-    .title = Cryptominers
     .aria-label =
         { $count ->
             [one] { $count } cryptominer ({ $percentage }%)
            *[other] { $count } cryptominers ({ $percentage }%)
         }
+    .title = Cryptominers
 # Privacy Metrics Card
 privacy-metrics-title = Privacybeskermingen
 # Variables:

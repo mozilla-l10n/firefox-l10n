@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Rajtarki nalěwo začinić
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Rajtarki nalěwo
+    .accesskey = l
 close-tabs-to-the-start-vertical =
     .label = Rajtarki horjeka začinić
     .accesskey = h
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Rajtarki nad
+    .accesskey = n
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Rajtarki naprawo začinić
     .accesskey = n
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Rajtarki naprawo
+    .accesskey = r
 close-tabs-to-the-end-vertical =
     .label = Rajtarki deleka začinić
     .accesskey = d
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Rajtarki pod
+    .accesskey = o
 close-other-tabs =
     .label = Druhe rajtarki začinić
     .accesskey = D
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Wšě druhe
+    .accesskey = d
 reload-tabs =
     .label = Rajtarki znowa začitać
     .accesskey = R
@@ -89,15 +111,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = W nowym kontejnerowym rajtarku wočinić
     .accesskey = n
+tab-context-open-in-container =
+    .label = W kontejnerje wočinić
+    .accesskey = k
 move-to-start =
     .label = K spočatkej přesunyć
     .accesskey = K
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = K spočatkej
+    .accesskey = s
 move-to-end =
     .label = Ke kóncej přesunyć
     .accesskey = c
+move-to-end-alt =
+    .label = Ke kóncej
+    .accesskey = k
 move-to-new-window =
     .label = Do noweho wokna přesunyć
     .accesskey = n
+move-to-new-window-alt =
+    .label = Nowe wokno
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +147,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Dwójne rajtarki začinić
     .accesskey = D
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Rajtarki podwojić
+    .accesskey = R
 tab-context-close-duplicate-tabs2 =
     .label = Duplikaty tutoho rajtarka začinić
     .accesskey = l
@@ -128,6 +167,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nowa skupina
     .accesskey = N
+tab-context-add-tab-to-group-new-group =
+    .label = Nowa skupina
+tab-context-add-tab-to-group-closed-groups =
+    .label = Začinjene skupiny
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -169,6 +212,17 @@ tab-context-move-tabs =
         }
     .accesskey = s
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Přesunyć do
+            [one] { $tabCount } rajtarkow přesunyć do
+            [two] { $tabCount } rajtarkow přesunyć do
+            [few] { $tabCount } rajtarkow přesunyć do
+           *[other] { $tabCount } rajtarkow přesunyć do
+        }
+    .accesskey = r
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -183,6 +237,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Dźěleny napohlad přesunyć do
     .accesskey = l
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Rajtarki přesunyć do
+    .accesskey = u
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

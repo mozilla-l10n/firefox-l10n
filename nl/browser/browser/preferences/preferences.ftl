@@ -383,7 +383,7 @@ choose-browser-language-description = Kies de talen die worden gebruikt voor het
 manage-browser-languages-button =
     .label = Alternatieven instellen…
     .accesskey = l
-confirm-browser-language-change-description = Herstart { -brand-short-name } om deze wijzigingen toe te passen.
+confirm-browser-language-change-description = Herstart { -brand-short-name } om deze wijzigingen toe te passen
 confirm-browser-language-change-button = Toepassen en herstarten
 browser-language-heading =
     .description = Kies de taal die wordt gebruikt om menu’s, berichten en notificaties van { -brand-short-name } te tonen.
@@ -880,7 +880,7 @@ home-prefs-recent-activity-header =
 home-prefs-recent-activity-description = Een selectie van recente websites en inhoud
 home-prefs-weather-header =
     .label = Weer
-home-prefs-weather-description = De weersverwachting van vandaag in een oogopslag.
+home-prefs-weather-description = De weersverwachting van vandaag in een oogopslag
 home-prefs-weather-learn-more-link = Meer info
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =

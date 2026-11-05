@@ -40,6 +40,13 @@ download-ui-cancel-downloads-ok =
        *[other] { $downloadsCount } sćehnjenjow přetorhnyć
     }
 download-ui-confirm-cancel-button = Přetorhnyć
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } skónčić
+       *[other] { -brand-short-name } skónčić
+    }
+download-ui-confirm-offline-button = Offline hić
+download-ui-confirm-private-browsing-button = Wokno začinić
 
 ##
 

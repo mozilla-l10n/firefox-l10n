@@ -78,7 +78,7 @@ policy-DisableSetAsDesktopBackground = De menuopdracht Als bureaubladachtergrond
 policy-DisableSystemAddonUpdate = Voorkomen dat de browser systeemadd-ons installeert en bijwerkt.
 policy-DisableTelemetry = Telemetry uitschakelen.
 policy-DisableThirdPartyModuleBlocking2 = Voorkomen dat de gebruiker externe module-informatie (about:third-party) gebruikt om modules van derden te blokkeren die in het { -brand-short-name }-proces worden geïnjecteerd.
-policy-DisableThirdPartyModuleBlocking = Voorkomen dat de gebruiker modules van derden die in het { -brand-short-name }-proces worden geïnjecteerd blokkeert
+policy-DisableThirdPartyModuleBlocking = Voorkomen dat de gebruiker modules van derden die in het { -brand-short-name }-proces worden geïnjecteerd blokkeert.
 policy-DisplayBookmarksToolbar = Standaard de Bladwijzerwerkbalk weergeven.
 policy-DisplayMenuBar = Standaard de Menubalk weergeven.
 policy-DNSOverHTTPS = DNS over HTTPS configureren.
@@ -99,7 +99,7 @@ policy-FirefoxHome2 = { -firefox-home-brand-name } configureren.
 policy-FirefoxSuggest = { -firefox-suggest-brand-name } configureren.
 policy-GenerativeAI = Generatieve AI-functies configureren.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Directe navigatie op intranetsites forceren in plaats van zoeken bij het typen van enkele woorden in de adresbalk.
-policy-Handlers = Standaard toepassinghandlers configureren
+policy-Handlers = Standaard toepassinghandlers configureren.
 policy-HardwareAcceleration = Wanneer false, hardwareversnelling uitschakelen.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startpagina instellen en optioneel vergrendelen.
@@ -107,7 +107,7 @@ policy-HttpAllowlist = Oorspronkelijke bronnen die niet naar HTTPS worden geüpg
 policy-HttpsOnlyMode = Alleen-HTTPS-modus toestaan om in te schakelen.
 policy-InstallAddonsPermission = Toestaan dat bepaalde websites add-ons installeren.
 policy-IPProtectionAvailable = Voorkomen dat de ingebouwde VPN beschikbaar is voor gebruikers.
-policy-LegacyProfiles = Functie om een afzonderlijk profiel voor elke installatie af te dwingen uitschakelen
+policy-LegacyProfiles = Functie om een afzonderlijk profiel voor elke installatie af te dwingen uitschakelen.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
