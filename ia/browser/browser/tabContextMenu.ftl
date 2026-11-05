@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Clauder le schedas a sinistra
     .accesskey = C
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Schedas a sinistra
+    .accesskey = s
 close-tabs-to-the-start-vertical =
     .label = Clauder le schedas superior
+    .accesskey = s
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Schedas supra
     .accesskey = s
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Clauder le schedas a dextra
     .accesskey = h
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Schedas a dextra
+    .accesskey = e
 close-tabs-to-the-end-vertical =
     .label = Clauder le schedas inferior
+    .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Schedas infra
     .accesskey = i
 close-other-tabs =
     .label = Clauder le altere schedas
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Tote le alteros
+    .accesskey = o
 reload-tabs =
     .label = Recargar le schedas
     .accesskey = R
@@ -89,6 +111,9 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Aperir in un nove scheda contentor
     .accesskey = A
+tab-context-open-in-container =
+    .label = Aperir in contentor
+    .accesskey = c
 move-to-start =
     .label = Displaciar al initio
     .accesskey = i
@@ -121,6 +146,10 @@ tab-context-close-multiple-tabs2 =
     .accesskey = p
 tab-context-close-duplicate-tabs =
     .label = Clauder schedas duplicate
+    .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Duplicar schedas
     .accesskey = u
 tab-context-close-duplicate-tabs2 =
     .label = Clauder duplicatos de iste scheda

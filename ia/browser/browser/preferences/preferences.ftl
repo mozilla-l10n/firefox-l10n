@@ -1207,6 +1207,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Chronologia
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Aperir schedas
+    .tooltiptext = Aperi schedas ab tu altere apparatos
+    .accesskey = s
 sync-engine-tabs =
     .label = Schedas aperite
     .tooltiptext = Un lista de lo que es aperte sur tote le apparatos synchronisate
