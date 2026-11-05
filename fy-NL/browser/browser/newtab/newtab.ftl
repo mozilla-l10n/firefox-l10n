@@ -117,7 +117,7 @@ home-restore-defaults-srd =
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standert)
 home-mode-choice-custom-srd =
-    .label = Oanpaste URL’s
+    .label = Oanpaste URL’s…
 home-mode-choice-blank-srd =
     .label = Lege side
 home-prefs-shortcuts-header-srd =
@@ -1372,7 +1372,7 @@ newtab-widget-lists-menu-edit = Listnamme bewurkje
 newtab-widget-lists-menu-edit2 =
     .aria-label = Listnamme bewurkje
 newtab-widget-lists-menu-create = Nije list oanmeitsje
-newtab-widget-lists-menu-delete = Dizze list fuortsmite?
+newtab-widget-lists-menu-delete = Dizze list fuortsmite
 newtab-widget-lists-menu-copy = List nei klamboerd kopiearje
 newtab-widget-lists-menu-learn-more = Mear ynfo
 # "Change" is a verb here: the button switches which list is shown

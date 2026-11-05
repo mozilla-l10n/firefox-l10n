@@ -68,7 +68,7 @@ firefox-relay-offer-why-to-use-relay-1 = Beskermje jo Postfek YN tsjin spam troc
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrearje of meld jo earst oan by jo account om in e-mailmasker te brûken
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Registrearje of meld jo earst oan by jo account om in e-mailmasker te brûken.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Folgjende
     .accesskey = F

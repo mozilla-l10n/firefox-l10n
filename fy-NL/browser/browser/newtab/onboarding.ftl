@@ -85,22 +85,22 @@ mr1-onboarding-theme-description-system =
 mr1-onboarding-theme-tooltip-light =
     .title =
         In ljocht tema brûke foar knoppen,
-        menu‘s en finsters.
+        menu’s en finsters.
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         In ljocht tema brûke foar knoppen,
-        menu‘s en finsters.
+        menu’s en finsters.
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         In donker tema brûke foar knoppen,
-        menu‘s en finsters.
+        menu’s en finsters.
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         In donker tema brûke foar knoppen,
-        menu‘s en finsters.
+        menu’s en finsters.
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
@@ -305,7 +305,7 @@ onboarding-mobile-download-security-and-privacy-title = Bliuw fersifere wannear�
 onboarding-mobile-download-security-and-privacy-subtitle = Wannear’t jo syngronisearre binne, fersiferet { -brand-short-name } jo wachtwurden, blêdwizers en mear. Boppedat kinne jo ljepblêden fan jo oare apparaten ophelje.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } is der foar jo
-onboarding-gratitude-security-and-privacy-subtitle = Tank foar it brûken fan { -brand-short-name }, stipe troch de Mozilla Foundation. Mei jo stipe wurkje wy om it ynternet  foar elkenien feiliger en mear tagonklik te meitsjen.
+onboarding-gratitude-security-and-privacy-subtitle = Tank foar it brûken fan { -brand-short-name }, stipe troch de Mozilla Foundation. Mei jo stipe wurkje wy om it ynternet foar elkenien feiliger en mear tagonklik te meitsjen.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Jo gegevens tusken apparaten syngronisearje
 onboarding-sign-up-description = Skriuw jo yn foar in account en al jo wichtige gegevens – wachtwurden, blêdwizers en mear – wurde feilich bewarre en binne beskikber wannear’t jo jo oanmelde op in apparaat.

@@ -1380,7 +1380,7 @@ restore-session-startup-suggestion-button = Tonen hoe
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
-filepicker-blocked-infobar = Uw organisatie heeft toegang tot lokale bestanden op deze computer geblokkeerd.
+filepicker-blocked-infobar = Uw organisatie heeft toegang tot lokale bestanden op deze computer geblokkeerd
 
 ## Address bar result shown when someone who used the Extensions and Themes
 ## keyboard shortcut presses that shortcut after it moved to Search Tabs.

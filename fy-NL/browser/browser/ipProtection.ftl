@@ -29,7 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Brûk ús nije <a data-l10n-name
 ipprotection-feature-introduction-title-privacy = Foegje noch in laach privacy ta
 ipprotection-feature-introduction-title-privacy-1 = Foegje in ekstra laach privacy ta mei ynboude VPN
 ipprotection-feature-introduction-link-text-privacy-1 = De ynboude VPN fan <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> helpt jo navigaasje te beskermjen. Kies út ferskate lokaasjes om jo navigaasje mear privee te hâlden.
-ipprotection-feature-introduction-link-text-privacy-3 = Untfang <a data-l10n-name="learn-more-vpn">ekstra privacy</a> troch te kiezen út meardere lokaasjes  om te ferbergjen wêr’t jo sneupe.
+ipprotection-feature-introduction-link-text-privacy-3 = Untfang <a data-l10n-name="learn-more-vpn">ekstra privacy</a> troch te kiezen út meardere lokaasjes om te ferbergjen wêr’t jo sneupe.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Help jo lokaasje te ferbergjen foar <a data-l10n-name="learn-more-vpn">ekstra privacy</a> wylst jo sneupe. Skeakelje de VPN foar bepaalde websites yn of út.
 ipprotection-feature-introduction-text-summer-promo-1 = Skeakelje it yn om jo navigaasje mear privee te hâlden. <a data-l10n-name="summer-promo-link">Untfang ûnbeheinde bânbreedte</a> en mear lokaasjes om fan te blêdzjen. No oant en mei 31 augustus.
@@ -93,7 +93,7 @@ ipprotection-summer-promo-offramp-dismiss-secondary-button = Slute
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Kies wêr’t jo VPN brûke
-ipprotection-site-settings-callout-subtitle = Skeakelje VPN út foar in spesifike website en wy sille dit ûnthâlde foar de folgjende kear  dat jo dizze besykje.
+ipprotection-site-settings-callout-subtitle = Skeakelje VPN út foar in spesifike website en wy sille dit ûnthâlde foar de folgjende kear dat jo dizze besykje.
 ipprotection-site-settings-callout-button = Begrepen
 
 ## Location selection callout
@@ -281,7 +281,7 @@ ip-protection-description =
     .description = Ynboude VPN om jo privacy te ferbetterjen wylst jo mei { -brand-short-name } sneupe.
     .label = VPN
 ip-protection-description-1 =
-    .description = Untfang ekstra privacy troch jo lokaasje te ferstopjen wylst jo navigearje
+    .description = Untfang ekstra privacy troch jo lokaasje te ferstopjen wylst jo navigearje.
     .label = Ynboude VPN
 ip-protection-learn-more = Mear ynfo
 ip-protection-not-opted-in-4 =

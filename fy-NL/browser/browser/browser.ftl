@@ -344,7 +344,7 @@ quickactions-addons = Add-ons besjen
 quickactions-cmd-addons3 = útwreidingen, tema’s, add-ons
 # Opens preferences page at AI controls
 quickactions-manageai = AI-betsjinningseleminten beheare
-quickactions-cmd-manageai = ai útskeakelje, ai útskeakelje, ai beheare
+quickactions-cmd-manageai = ai útskeakelje, ai útsette, ai beheare
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Blêdwizers beheare
 quickactions-cmd-bookmarks = blêdwizers
@@ -1380,7 +1380,7 @@ restore-session-startup-suggestion-button = Toane hoe
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
-filepicker-blocked-infobar = Jo organisaasje hat tagong ta lokale bestannen op dizze kompjûter blokkearre.
+filepicker-blocked-infobar = Jo organisaasje hat tagong ta lokale bestannen op dizze kompjûter blokkearre
 
 ## Address bar result shown when someone who used the Extensions and Themes
 ## keyboard shortcut presses that shortcut after it moved to Search Tabs.

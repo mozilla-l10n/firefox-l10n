@@ -212,7 +212,7 @@ genai-chatbot-summarize-sidebar-provider-subtitle = Klik mei de rjochtermûsknop
 genai-chatbot-summarize-sidebar-generic-subtitle = Klik mei de rjochtermûsknop op de glitterknop yn de sydbalke en kies ‘Side gearfetsje’. De earste kear kieze jo ek in AI-chatbot.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Iepenje jo AI-chatbot yn de sydbalke en kies ûnderoan ‘Side gearfetsje’.
-genai-chatbot-summarize-footer-generic-subtitle = Foegje in AI-chatbot ta oan de  { -brand-short-name }-sydbalke om fluch siden gear te fetsjen.
+genai-chatbot-summarize-footer-generic-subtitle = Foegje in AI-chatbot ta oan de { -brand-short-name }-sydbalke om fluch siden gear te fetsjen.
 
 ## Model Optin Component
 

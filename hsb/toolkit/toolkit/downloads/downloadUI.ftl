@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] 1 sćehnjenje přetorhnyć
        *[other] { $downloadsCount } sćehnjenjow přetorhnyć
     }
+download-ui-confirm-cancel-button = Přetorhnyć
 
 ##
 

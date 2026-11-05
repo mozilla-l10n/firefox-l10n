@@ -20,7 +20,7 @@ about-unloads-intro =
 about-unloads-learn-more =
     Sjoch <a data-l10n-name="doc-link">Ljepblêden ûntlade</a> foar mear ynfo oer
     de funksje en dizze side.
-about-unloads-last-updated = Last updated: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-updated = Lêst bywurke: { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
 about-unloads-button-unload = Untlade
     .title = Ljepblêd mei de heechste prioriteit ûntlade
 about-unloads-no-unloadable-tab = Der binne gjin te ûntladen ljepblêden.
@@ -35,7 +35,7 @@ about-unloads-column-memory = Unthâld
     .title = It skatte ûnthâldgebrûk fan it ljepblêd
 about-unloads-column-processes = Proses-ID’s
     .title = ID’s fan de prosessen dy’t de ynhâld fan it ljepblêd hoste
-about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-accessed = { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } MB

@@ -534,7 +534,7 @@ restore-session-startup-suggestion-button = Toane hoe
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = Iepenje jo favorite websites lykas in app
-taskbar-tabs-spotlight-subtitle = Mei ien klik starte jo jo meast brûkte siden yn in streamlined finster mei alle beskermingen fan { -brand-short-name }.
+taskbar-tabs-spotlight-subtitle = Mei ien klik starte jo jo meast brûkte siden yn in ferienfâldige finster mei alle beskermingen fan { -brand-short-name }.
 # Heading above the list of suggested websites.
 taskbar-tabs-spotlight-sites-heading = Selektearje om ta te foegjen oan jo taakbalke
 # Button shown in each row of the list of websites. Clicking it adds the

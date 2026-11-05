@@ -82,7 +82,7 @@ login-intro-description2 = Alle wachtwurden dy’t jo bewarje yn { -brand-produc
 login-intro-instructions-fxa2 = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in account of meld jo oan.
 login-intro-instructions-fxa-settings = Gean nei Ynstellingen > Sync > Syngronisaasje ynskeakelje… Pleats in finkje by Oanmeldingen en wachtwurden.
 login-intro-instructions-fxa-passwords-help = Besykje <a data-l10n-name="passwords-help-link">help by wachtwurden</a> foar mear help.
-about-logins-intro-import3 = Selektearje de knop mei it plusteken hjirboppe om daliks in wachtwurd ta te foegjen. Jo kinne ek <a data-l10n-name="import-browser-link">wachtwurden út in oare browser</a> of  <a data-l10n-name="import-file-link">út in bestân ymportearje</a>.
+about-logins-intro-import3 = Selektearje de knop mei it plusteken hjirboppe om daliks in wachtwurd ta te foegjen. Jo kinne ek <a data-l10n-name="import-browser-link">wachtwurden út in oare browser</a> of <a data-l10n-name="import-file-link">út in bestân ymportearje</a>.
 
 ## Login
 

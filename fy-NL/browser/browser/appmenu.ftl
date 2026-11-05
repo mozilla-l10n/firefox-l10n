@@ -244,7 +244,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Foarynstelling foar it ûndersykjen fan netwurkbugs yn { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Netwurk
-profiler-popup-presets-networking-with-logs-description = Foarynstelling foar it ûndersykjen fan netwurkbugs yn { -brand-shorter-name }, ynklusyf netwurklochboeken. Dizze lochboeken kinne gefoelige ynformaasje befetsje, lykas de URL’s dy’t jo besykje
+profiler-popup-presets-networking-with-logs-description = Foarynstelling foar it ûndersykjen fan netwurkbugs yn { -brand-shorter-name }, ynklusyf netwurklochboeken. Dizze lochboeken kinne gefoelige ynformaasje befetsje, lykas de URL’s dy’t jo besykje.
 profiler-popup-presets-networking-with-logs-label =
     .label = Netwurken mei lochboeken
 profiler-popup-presets-power-description = Foarynstelling foar it ûndersykjen fan stroomferbrûkbugs yn { -brand-shorter-name }, mei lege overhead.
@@ -363,7 +363,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Oanmelde by jo account
 appmenuitem-monitor-title2 = Bliuw identiteitsstellerij foar
-appmenuitem-monitor-description2 = Untfang meldingen oer datalekken.
+appmenuitem-monitor-description2 = Untfang meldingen oer datalekken
 # Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
 appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name }-datalekwarskôgingen
 appmenuitem-monitor-title = { -monitor-brand-short-name }
