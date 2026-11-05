@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Zugangsdaten importie
 contextual-manager-passwords-command-import = Zugangsdaten importieren aus Datei…
 contextual-manager-passwords-command-export = Passwörter exportieren
 contextual-manager-passwords-command-remove-all = Alle Passwörter löschen
+contextual-manager-passwords-command-delete-all = Alle Passwörter löschen
 contextual-manager-passwords-command-options = Einstellungen
 contextual-manager-passwords-command-help = Hilfe
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Dieses Passwort entfernen?
        *[other] Alle { $total } Passwörter entfernen?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } Passwort löschen?
+       *[other] { $total } Passwörter löschen?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -174,12 +182,16 @@ contextual-manager-passwords-radiobutton-all = Alle ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Warnungen ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Passwort entfernen?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Passwort löschen?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Dies kann nicht rückgängig gemacht werden.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Zurück
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Entfernen
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Löschen
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Abbrechen
 contextual-manager-passwords-alert-card =
@@ -211,6 +223,9 @@ contextual-manager-passwords-update-label =
     .label = Passwort aktualisieren
 contextual-manager-passwords-remove-label =
     .title = Passwort entfernen
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Passwort löschen
 contextual-manager-passwords-origin-field =
     .label = Adresse der Website
     .placeholder = https://www.example.com
@@ -325,6 +340,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [one] Ja, Passwort entfernen
        *[other] Ja, Passwörter entfernen
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Ja, Passwort löschen
+        [one] Ja, Passwort löschen
+       *[other] Ja, Passwörter löschen
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Geben Sie Ihr Hauptpasswort ein, um Ihre gespeicherten Passwörter zu sehen.
