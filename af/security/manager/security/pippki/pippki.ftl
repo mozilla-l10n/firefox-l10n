@@ -12,6 +12,8 @@ change-password-token = Sekuriteitstoestel: { $tokenName }
 change-password-old = Huidige wagwoord:
 change-password-new = Nuwe wagwoord:
 change-password-reenter = Nuwe wagwoord (weer):
+change-password-not-set =
+    .value = (nie opgestel)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Rugsteunsertifikaat-wagwoord (weer):
 set-password-reminder = Belangrik: Indien u u sertifikaat-rugsteunwagwoord vergeet, sal u nie hierdie rugsteuning later kan terugkopieer nie.  Teken dit op 'n veilige plek aan.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+

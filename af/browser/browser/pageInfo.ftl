@@ -98,6 +98,11 @@ security-view-technical =
     .value = Tegniese details
 help-button =
     .label = Hulp
+security-technical-encrypted-page = Die bladsy wat u bekyk, is geënkripteer voor dit oor die internet versend is.
+security-technical-encrypted-description = Enkripsie maak dit moeilik vir ongemagtigde mense om inligting wat tussen rekenaars beweeg, te bekyk. Dit is dus onwaarskynlik dat enige iemand hierdie bladsy lees wanneer dit oor die netwerk oorgedra word.
+security-technical-mixed-content-description = Dele van die bladsy wat u bekyk, is nie geënkripteer voor dit oor die internet versend is nie.
+security-technical-weak-cipher = U verbinding aan dié webwerf gebruik swak enkripsie en is nie privaat nie. Ander mense kan u inligting sien of die webwerf se gedrag wysig.
+security-technical-ct-compliant = Dié webwerf voldoen aan die beleid vir sertifikaatdeursigtigheid.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -107,6 +112,21 @@ help-button =
 
 security-site-data-cookies-only = Ja, koekies
 security-site-data-no = Nee
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Verbinding gedeeltelik geënkripteer
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Verbinding geënkripteer ({ $algorithm }, { $keySize }-bissleutel, { $protocol })
+security-technical-broken-encryption =
+    .value = Gebreekte enkripsie ({ $algorithm }, { $keySize }-bissleutel, { $protocol })
 
 ##
 
