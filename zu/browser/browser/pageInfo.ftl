@@ -100,6 +100,8 @@ security-technical-mixed-content-description = Ezinye izingxenye zaleli khasi ol
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Ukuxhumana Akubhaliwe ngokucashile
 security-technical-mixed-content =
     .value = Ukuxhumana Kubhalwe Ngokucashile Ngokwengxenye
 
