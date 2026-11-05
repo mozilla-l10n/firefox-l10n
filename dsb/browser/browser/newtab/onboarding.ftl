@@ -638,3 +638,17 @@ welcome-back-onboarding-card-label-tabs = Zrumujśo z wertikalnymi rejtarikami a
 welcome-back-onboarding-card-label-vpn = Wóstańśo schowany ze zatwarjonym VPN
 welcome-back-onboarding-card-label-pdf = Wuzwigniśo, signěrujśo PDF a źěłajśo z nimi
 welcome-back-onboarding-card-tilebutton-label = Wopytajśo jen
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Konfigurěrujśo swój { -brand-short-name } za sekundy
+hnt-card-import-body = Dostańśo swóje cytańske znamjenja, gronidła a wěcej z drugego wobglědowaka.
+hnt-card-import-primary-button = Waše daty importěrowaś
+hnt-card-default-primary-button = Wótkaze z { -brand-short-name } wócyniś
+hnt-card-pin-header = Źaržćo { -brand-short-name } kliknjenje pšec
+hnt-card-mobile-header = Dostańśo zatwarjony šćit na swójom telefonje.
+hnt-card-mobile-primary-button = { -brand-product-name } za mobilny rěd wobstaraś.
+hnt-card-wallpaper-header = Wubjeŕśo nowy slězynowy wobraz
+hnt-card-wallpaper-primary-button = Zachopśo pśiměrowaś
+hnt-card-taskbar-tabs-header = Pśidajśo swójej nadawkowej rědce Windows swóje nejlubše sedła
+hnt-card-taskbar-tabs-primary-button = Nadawkowej rědce sedła pśidaś

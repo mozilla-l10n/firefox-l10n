@@ -387,6 +387,16 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Jo, { $total } gronidła wótwónoźeś
        *[other] Jo, { $total } gronidłow wótwónoźeś
     }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Jo, gronidło lašowaś
+        [one] Jo, gronidło lašowaś
+        [two] Jo, gronidle lašowaś
+        [few] Jo, gronidła lašowaś
+       *[other] Jo, gronidła lašowaś
+    }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Aby swóje skłaźone gronidła wiźeł, zapódajśo swójo głowne gronidło.
 # This string informs the user their primary password is used to authenticate and access their passwords

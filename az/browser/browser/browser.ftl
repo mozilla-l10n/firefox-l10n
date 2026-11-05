@@ -387,9 +387,12 @@ urlbar-result-action-ai-chat = Soruş
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Əlfəcinlər
+urlbar-searchmode-tabs4 = Vərəqlər
 urlbar-searchmode-actions4 = Əməliyyatlar
 urlbar-searchmode-bookmarks3 = Əlfəcinlər
     .accesskey = Ə
+urlbar-searchmode-tabs3 = Vərəqlər
+    .accesskey = V
 urlbar-searchmode-actions3 = Əməliyyatlar
     .accesskey = Ə
 # Label shown on the top of Searchmode Switcher popup. After this label, the
