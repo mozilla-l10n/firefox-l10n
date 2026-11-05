@@ -8,6 +8,8 @@ password-quality-meter = Ehintasɛmfua anoɔden esusufo
 
 change-password-new = Akasumulizo akapya:
 change-password-reenter = Akasumulizo akapya (nddamu):
+change-password-not-set =
+    .value = (wɔn nhyehɛɛe)
 
 ## Reset Primary Password dialog
 
@@ -20,6 +22,9 @@ download-cert-window2 =
     .title = Kuwanuula Santifikati
     .style = min-width: 46em
 download-cert-message = Obandee osabibwa ku kakasa Obunyiza bwa Santifikati empya (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Oyagala kukakasa "{ $caName }" kurwo ekozesa ezindirira?
 # Used as $caName in download-cert-trust-header when the Certificate Authority has no name
 download-cert-unnamed-ca = Obunyiza bwa Santifikati (ttenga yongendwawo)
 download-cert-trust-email =
