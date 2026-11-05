@@ -110,6 +110,7 @@ security-view-technical =
     .value = Τεχνικές λεπτομέρειες
 help-button =
     .label = Βοήθεια
+security-technical-encrypted-page = Η σελίδα που βλέπετε κρυπτογραφήθηκε προτού μεταδοθεί μέσω του διαδικτύου.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +122,19 @@ security-site-data-cookies = Ναι, cookie και { $value } { $unit } δεδο
 security-site-data-only = Ναι, { $value } { $unit } δεδομένων ιστοτόπου
 security-site-data-cookies-only = Ναι, cookie
 security-site-data-no = Όχι
+
+## These strings are used in the Technical Details section of the security tab
+
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Κρυπτογραφημένη σύνδεση ({ $algorithm }, { $keySize } bit κλειδιά, { $protocol })
+security-technical-broken-encryption =
+    .value = Εσφαλμένη κρυπτογράφηση ({ $algorithm }, { $keySize } bit κλειδιά, { $protocol })
 
 ##
 
