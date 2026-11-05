@@ -110,6 +110,11 @@ security-view-technical =
     .value = Detalles técnicos
 help-button =
     .label = Ayuda
+security-technical-encrypted-page = La página que estás viendo fue cifrada antes de ser transmitida por Internet.
+security-technical-encrypted-description = El cifrado hace que sea difícil para personas no autorizadas el ver la infromación que viaja entre computadores. Por ello es muy poco probable que alguien lea esta página mientras viaja por la red.
+security-technical-mixed-content-description = Partes de la página que esta viendo no fueron cifradas antes de ser transmitidas por Internet.
+security-technical-weak-cipher = Tu conexión a este sitio web usa un cifrado débil y no es privado. Otras personas pueden ver tu información o modificar el comportamiento del navegador.
+security-technical-ct-compliant = El sitio cumple con la política de transparencia de certificados.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Sí, cookies y { $value } { $unit } de datos del si
 security-site-data-only = Sí, { $value } { $unit } de datos del sitio
 security-site-data-cookies-only = Sí, cookies
 security-site-data-no = No
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Conexión parcialmente cifrada
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Conexión cifrada ({ $algorithm }, claves de { $keySize } bits, { $protocol })
+security-technical-broken-encryption =
+    .value = Cifrado roto ({ $algorithm }, claves de { $keySize } bits, { $protocol })
 
 ##
 
