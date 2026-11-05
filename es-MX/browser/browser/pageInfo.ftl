@@ -110,6 +110,11 @@ security-view-technical =
     .value = Detalles técnicos
 help-button =
     .label = Ayuda
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = El sitio web { $website } no admite cifrado para la página que estás viendo.
+security-technical-no-encryption-transit = La información enviada por Internet sin cifrar puede ser vista por otras personas.
+security-technical-no-encryption-page = La página que estás viendo no fue cifrada antes de ser transmitida por Internet.
 security-technical-encrypted-page = La página que estás viendo fue cifrada antes de ser transmitida por Internet.
 security-technical-encrypted-description = El cifrado dificulta el acceso a la información transmitida entre equipos por parte de personas no autorizadas. Por lo tanto, es poco probable que alguien más haya leído esta página mientras viajaba por la red.
 security-technical-mixed-content-description = Partes de la página que estás viendo que no fueron cifradas antes de transmitirse por Internet.
@@ -129,6 +134,8 @@ security-site-data-no = No
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Conexión sin cifrar
 security-technical-mixed-content =
     .value = Conexión parcialmente cifrada
 
