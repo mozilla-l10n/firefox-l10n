@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Descărcare certificat
 download-cert-message = Vi se cere să acreditați o autoritate nouă de certificare (AC).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vrei să acorzi încredere „{ $caName }” în următoarele scopuri?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoritate de certificare (fără nume)
 download-cert-trust-ssl =
     .label = Acreditează această AC pentru identificarea site-urilor web.
 download-cert-trust-email =
