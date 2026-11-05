@@ -104,6 +104,16 @@ security-view-technical =
     .value = Techniczne detajle
 help-button =
     .label = Pōmoc
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Necowy serwer { $website } niy ôbsuguje szyfrowanio strōny, na kero zaglōndosz.
+security-technical-no-encryption-transit = Na informacyje posyłane bez internet bez szyfrowanio może fto zaglōndać.
+security-technical-no-encryption-page = Strōna, na kero zaglōndosz, niy była szyfrowano przed przesłaniym bez internet.
+security-technical-encrypted-page = Strōna, na kero zaglōndosz, była szyfrowano przed przesłaniym bez internet.
+security-technical-encrypted-description = Skuli szyfrowanio ôsoby bez uprawniyń bydōm mieć ciynżyj ôboczyć na informacyje, co idōm miyndzy kōmputrami. Skuli tego je mało prawdopodobne, iże fto poczytoł ta strōna, jak wandrowała po necu.
+security-technical-mixed-content-description = Niykere kōnski pokazowanyj strōny niy były szyfrowane przed przesłaniym bez internet.
+security-technical-weak-cipher = Twoej połōnczynie z tōym serwerym używo słabego szyfrowanio i niy ma prywatne. Inksze ludzie poradzōm ôboczyć twoje dane abo zmiynić zachowanie tyj strōny.
+security-technical-ct-compliant = Ta strōna sztimuje ze prawidłami Certificate Transparency.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +125,23 @@ security-site-data-cookies = Ja, cookies a { $value }{ $unit } danych strōn
 security-site-data-only = Ja, { $value }{ $unit } danych strōn
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Niy
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Połōnczynie niy ma szyfrowane
+security-technical-mixed-content =
+    .value = Połōnczynie je po tajli szyfrowane
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Szyfrowane połōnczynie ({ $algorithm }, { $keySize }-bitowe klucze, { $protocol })
+security-technical-broken-encryption =
+    .value = Złōmane szyfrowanie ({ $algorithm }, { $keySize }-bitowe klucze, { $protocol })
 
 ##
 
