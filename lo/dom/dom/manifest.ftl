@@ -7,6 +7,12 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-should-be-object = Manifest ຄວນຈະເປັນອັອບເຈັກ.
+dom-manifest-scope-url-invalid = ຂອບເຂດຂອງ URL ບໍ່ຖືກຕ້ອງ.
+dom-manifest-scope-not-same-origin = ຂອບເຂດຂອງ URL ຫນ້າຈະມີຂະຫນາດດຽວກັນກັບເອກະສານຕົ້ນສະບັບ.
+dom-manifest-start-url-outside-scope = URL ເລີ່ມຕົ້ນຢູ່ນອກຂອບເຂດ, ສະນັ້ນຂອບເຂດບໍ່ຖືກຕ້ອງ.
+dom-manifest-start-url-invalid = URL ເລີ່ມຕົ້ນບໍ່ຖືກຕ້ອງ.
+dom-manifest-start-url-should-be-same-origin = URL ເລີ່ມຕົ້ນຫນ້າຈະມີຂະຫນາດດຽວກັນກັບເອກະສານຕົ້ນສະບັບ.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
