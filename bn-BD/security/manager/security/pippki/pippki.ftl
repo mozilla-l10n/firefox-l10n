@@ -24,6 +24,9 @@ download-cert-window2 =
     .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
     .style = min-width: 46em
 download-cert-message = একটি নতুন সার্টিফিকেট কর্তৃপক্ষকে (CA) বিশ্বাস করার অনুরোধ জানানো হয়েছে।
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = নিম্নলিখিত কাজের জন্য আপনি কি "{ $caName }"-র উপর আস্থা রাখতে ইচ্ছুক?
 # Used as $caName in download-cert-trust-header when the Certificate Authority has no name
 download-cert-unnamed-ca = সার্টিফিকেট কর্তৃপক্ষ (নামবিহীন)
 download-cert-trust-ssl =
@@ -76,6 +79,7 @@ set-password-reminder = গুরুত্বপূর্ণ: সার্টি
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = অনুগ্রহ করে এই সার্টিফিকেট ব্যাকআপটি এনক্রিপ্ট করতে ব্যবহৃত পাসওয়ার্ডটি লিখুন:
 
 ## Protected authentication dialog
 
