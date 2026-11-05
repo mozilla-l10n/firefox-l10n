@@ -194,7 +194,7 @@ newtab-privacy-empty-state = { -brand-short-name } bloque automatiquement les tr
 newtab-privacy-empty-state-tally = Consultez ici le total actualisé en continu.
 # Shorter empty-state copy for the small card, shown as two separate lines.
 newtab-privacy-empty-state-small-title = Moins de traqueurs, une navigation plus rapide.
-newtab-privacy-empty-state-small-message = Parcourez pour commencer le blocage.
+newtab-privacy-empty-state-small-message = Commencez à naviguer pour bloquer les traqueurs.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 

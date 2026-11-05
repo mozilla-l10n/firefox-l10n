@@ -196,6 +196,15 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Verschieben nach
+            [one] { $tabCount } Tab verschieben
+           *[other] { $tabCount } Tabs verschieben
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -208,6 +217,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Geteilte Ansicht verschieben
     .accesskey = A
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Tabs verschieben nach
+    .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

@@ -18,6 +18,30 @@ about-processes-shutdown-tab =
     .title = Tab schließen
 about-processes-unload-tab =
     .title = Tab entladen
+about-processes-reload-tab =
+    .title = Tab neu laden
+about-processes-select-all-tabs =
+    .title = Alle Tabs auswählen
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Tabs dieser Website ausklappen
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Tabs dieser Website einklappen
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Tabs von { $site } entladen
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Tabs von { $site } neu laden
+about-processes-expand-all-sites =
+    .title = Alle ausklappen
+about-processes-collapse-all-sites =
+    .title = Alle einklappen
 about-processes-go-to-tab =
     .title = Zum Tab gehen
 # Profiler icons
@@ -30,6 +54,14 @@ about-processes-profile-process =
             [one] Alle Threads dieses Prozesses für { $duration } Sekunde mit Profiler analysieren
            *[other] Alle Threads dieses Prozesses für { $duration } Sekunden mit Profiler analysieren
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Tabs durchsuchen
+    .placeholder = Tabs durchsuchen
 
 ## Column headers
 
@@ -129,6 +161,19 @@ about-processes-tab-count =
         [one] { $count } Tab
        *[other] { $count } Tabs
     }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Auswahl aufheben
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Entladen
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Neu laden
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Schließen
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -180,6 +225,12 @@ about-processes-cpu-fully-idle = untätig
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = untätig
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0,01 %
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0.1%
 
@@ -199,6 +250,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Änderung: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) } { $totalUnit }
 
 ## Duration units
 

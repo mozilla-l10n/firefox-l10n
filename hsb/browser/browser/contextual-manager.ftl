@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Z druheho wobhladowak
 contextual-manager-passwords-command-import = Z dataje importować…
 contextual-manager-passwords-command-export = Hesła eksportować
 contextual-manager-passwords-command-remove-all = Wšě hesła wotstronić
+contextual-manager-passwords-command-delete-all = Wšě hesła zhašeć
 contextual-manager-passwords-command-options = Nastajenja
 contextual-manager-passwords-command-help = Pomoc
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }

@@ -643,10 +643,10 @@ welcome-back-onboarding-card-tilebutton-label = Essayer
 
 ## New Tab Onboarding cards
 
-hnt-card-import-header = Configurez votre { -brand-short-name } en quelques secondes
+hnt-card-import-header = Paramétrez { -brand-short-name } en quelques secondes
 hnt-card-import-body = Importez vos marque-pages, mots de passe et autres données depuis un autre navigateur.
-hnt-card-import-primary-button = Importez vos données
-hnt-card-default-body = { -brand-product-name } est le seul grand navigateur conçu pour vous protéger, pas pour vous pister.
+hnt-card-import-primary-button = Importer vos données
+hnt-card-default-body = { -brand-product-name } est le seul navigateur majeur conçu pour vous protéger, et non pour vous pister.
 hnt-card-default-primary-button = Ouvrir les liens avec { -brand-short-name }
 hnt-card-pin-header = Gardez { -brand-short-name } à portée de main
 hnt-card-pin-body =

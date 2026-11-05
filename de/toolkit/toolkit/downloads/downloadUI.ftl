@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] 1 Download abbrechen
        *[other] { $downloadsCount } Downloads abbrechen
     }
+download-ui-confirm-cancel-button = Abbrechen
 
 ##
 
