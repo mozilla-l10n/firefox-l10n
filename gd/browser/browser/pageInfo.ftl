@@ -107,6 +107,11 @@ security-view-technical =
     .value = Mion-fhiosrachadh teicnigeach
 help-button =
     .label = Cobhair
+security-technical-encrypted-page = Chaidh an duilleag a tha thu a' coimhead air a chrioptachadh mus deach a chur a-nall thairis air an lìon.
+security-technical-encrypted-description = Bidh e doirbh do dhaoine gun ùghdarras fiosrachadh a tha a' siubhal eadar coimpiutairean fhaicinn ma chaidh a chrioptachadh. Mar sin, chan eil coltas gun leugh duine sam bith an duilleag seo 's e a' siubhal an lìonraidh.
+security-technical-mixed-content-description = Cha deach cuid dhen duilleag a tha thu a' coimhead air a chrioptachadh mus deach a chur a-nall thairis air an lìon.
+security-technical-weak-cipher = Tha an ceangal agad ris an làrach seo a’ cleachdadh crioptachadh lag is chan eil e prìobhaideachd. Chì daoine eile am fiosrachadh agad agus is urrainn dhaibh giùlan na làraich-lìn atharrachadh.
+security-technical-ct-compliant = Tha an làrach-lìn seo a’ gèilleadh ri poileasaidh soilleireachd nan teisteanasan.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +123,21 @@ security-site-data-cookies = Tha, na briosgaidean is { $value } { $unit } de dh�
 security-site-data-only = Tha, { $value } { $unit } de dhàta làraichean
 security-site-data-cookies-only = Tha, na briosgaidean
 security-site-data-no = Chan eil
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Ceangal air a chrioptachadh gu ìre
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Ceangal crioptaichte ({ $algorithm }, { $keySize } bit keys, { $protocol })
+security-technical-broken-encryption =
+    .value = Crioptachadh briste ({ $algorithm }, { $keySize } bit keys, { $protocol })
 
 ##
 

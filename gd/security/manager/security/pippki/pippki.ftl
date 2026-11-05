@@ -14,6 +14,8 @@ change-password-token = Uidheam tèarainteachd: { $tokenName }
 change-password-old = Am facal-faire làithreach:
 change-password-new = Am facal-faire ùr:
 change-password-reenter = Am faca-faire ùr (a-rithist):
+change-password-not-set =
+    .value = (gun suidheachadh)
 pippki-failed-pw-change = Cha b’ urrainn dhuinn am facal-faire atharrachadh.
 pippki-incorrect-pw = Cha do chuir thu a-steach am facal-faire làithreach ceart. Feuch ris a-rithist.
 pippki-pw-change-ok = Chaidh am facal-faire atharrachadh.
@@ -86,3 +88,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Facal-faire lethbhreac-glèidhidh an teisteanais (a-rithist):
 set-password-reminder = Cudromach: ma dhìochuimhnicheas tu facal-faire lethbhreac-glèidhidh an teisteanais agad, chan urrainn dhut an lethbhreac-glèidhidh seo a chleachdadh as dèidh sin.  Cum cunntas dheth ann an àite sàbhailte.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
