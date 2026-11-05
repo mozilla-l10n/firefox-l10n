@@ -110,6 +110,11 @@ security-view-technical =
     .value = Tæknileg atriði
 help-button =
     .label = Help
+security-technical-encrypted-page = Síðan sem þú ert að skoða var dulkóðuð áður en hún var send yfir Internetið.
+security-technical-encrypted-description = Dulritun gerir óviðkomandi nánast ómögulegt að skoða upplýsingar sem eru að ferðast á milli tölva. Það er því frekar ólíklegt að nokkur geti lesið síðu þegar hún er send á netinu.
+security-technical-mixed-content-description = Sumir hlutar af síðunni sem þú ert að skoða voru ekki dulkóðaðar áður en þær voru sendar yfir Internetið.
+security-technical-weak-cipher = Tengingin við þetta vefsvæði notar lélega dulritun og er ekki einangruð frá annarri umferð. Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.
+security-technical-ct-compliant = Þetta vefsvæði er samhæft við reglur um gagnsæi skilríkja.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Já, vefkökur og { $value } { $unit } af gögnum v
 security-site-data-only = Já, { $value } { $unit } af gögnum vefsvæðis
 security-site-data-cookies-only = Já, vefkökur
 security-site-data-no = Nei
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Tenging að hluta til dulkóðuð
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Tenging dulkóðuð ({ $algorithm }, { $keySize }-bita lyklar, { $protocol })
+security-technical-broken-encryption =
+    .value = Gölluð dulkóðuð ({ $algorithm }, { $keySize }-bita lyklar, { $protocol })
 
 ##
 

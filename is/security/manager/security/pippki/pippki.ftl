@@ -14,6 +14,8 @@ change-password-token = Öryggistæki: { $tokenName }
 change-password-old = Núverandi lykilorð:
 change-password-new = Nýtt lykilorð:
 change-password-reenter = Nýtt lykilorð (aftur):
+change-password-not-set =
+    .value = (ekki sett)
 pippki-failed-pw-change = Ekki hægt að breyta lykilorði.
 pippki-incorrect-pw = Þú slóst ekki inn rétt núverandi lykilorð. Reyndu aftur.
 pippki-pw-change-ok = Tókst að breyta lykilorði.
@@ -91,3 +93,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lykilorð öryggisafrits (aftur):
 set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits geturðu ekki endurheimt öryggisafritið seinna. Geymdu það öruggum stað.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
