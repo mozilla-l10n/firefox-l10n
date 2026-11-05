@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = در حال بارگیری گواهی
 download-cert-message = از شما تقاضا شده به یک مرجع صدور گواهی جدید اعتماد کنید.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = آیا می‌خواهید برای مقاصد زیر به «{ $caName }» اعتماد کنید؟
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = مرجع صدور گواهی (بی‌نام)
 download-cert-trust-ssl =
     .label = برای تشخیص هویت وبگاه‌ها به این مرجع صدور گواهی اعتماد شود.
 download-cert-trust-email =
