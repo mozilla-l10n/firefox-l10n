@@ -7,6 +7,30 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = El id del miembro no se resolvió en una URL válida.
+dom-manifest-id-not-same-origin = El id del miembro debe tener el mismo origen que el start_url del miembro.
+dom-manifest-should-be-object = El manifest debiera ser un objeto.
+dom-manifest-scope-url-invalid = La URL de extensión es inválida.
+dom-manifest-scope-not-same-origin = La URL de extensión debe ser del mismo origen que el documento.
+dom-manifest-start-url-outside-scope = La URL de inicio está fuera de la extensión, por lo que la extensión es inválida.
+dom-manifest-start-url-invalid = La URL de inicio es inválida.
+dom-manifest-start-url-should-be-same-origin = La URL de inicio debe ser del mismo origen que el documento.
+# Variables:
+#   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
+#   $property (String) - The name of the invalid property, e.g. "start_url".
+#   $expectedType (String) - The expected type of the property value, e.g. "string".
+# Example: "Expected the manifest’s start_url member to be a string."
+dom-manifest-invalid-type = Se esperaba que el miembro { $property } de { $objectName } fuese un { $expectedType }.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
+#   $value (String) - The invalid value of the property.
+# Example: "theme_color: 42 is not a valid CSS color."
+dom-manifest-invalid-css-color = { $property }: { $value } no es un color CSS válido.
+# Variables:
+#   $property (String) - The name of the property whose value is invalid, e.g. "lang".
+#   $value (String) - The invalid value of the property.
+# Example: "lang: 42 is not a valid language code."
+dom-manifest-lang-is-invalid = { $property }: { $value } no es un código de idioma válido.
 # Variables:
 #   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
 #   $index (Number) - The index of the image object that is invalid, starting from 0.
