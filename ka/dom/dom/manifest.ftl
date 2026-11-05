@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = ამ id-წევრმა, ვერ დაამუშავა მართებული URL-ბმული.
+dom-manifest-id-not-same-origin = ID-წევრისა და start_url-წევრის წარმომავლობა, უნდა ემთხვეოდეს.
+dom-manifest-should-be-object = Manifest უნდა იყოს ობიექტი.
+dom-manifest-scope-url-invalid = URL-სივრცე უმართებულოა.
+dom-manifest-scope-not-same-origin = URL-სივრცე და მასალა საერთო წარმომავლობის უნდა იყოს.
+dom-manifest-start-url-outside-scope = საწყისი URL საზღვრებს მიღმაა, ასე რომ აღნიშნული სივრცე უმართებულოა.
+dom-manifest-start-url-invalid = URL-ს დასაწყისი არამართებულია.
+dom-manifest-start-url-should-be-same-origin = URL-ს დასაწყისი და დოკუმენტი ერთი და იგივე წარმომავლობის უნდა იყოს.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
