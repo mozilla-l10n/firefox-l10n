@@ -14,6 +14,8 @@ change-password-token = Dispositivo de securitate: { $tokenName }
 change-password-old = Contrasigno actual:
 change-password-new = Nove contrasigno:
 change-password-reenter = Nove contrasigno (novemente):
+change-password-not-set =
+    .value = (non definite)
 pippki-failed-pw-change = Impossibile cambiar contrasigno.
 pippki-incorrect-pw = Tu non insereva le actual contrasigno correcte. Prova ancora.
 pippki-pw-change-ok = Contrasigno cambiate con successo.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Discargante certificato
 download-cert-message = On te ha demandate confider a un nove autoritate de certification (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Vole tu confider in “{ $caName }” pro le scopos sequente?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autotitate de certification (sin nomine)
 download-cert-trust-ssl =
     .label = Confider a iste CA pro identificar sitos del web.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contrasigno del copia de securitate del certificato (novemente):
 set-password-reminder = Importante: Si tu oblida le contrasigno de tu copia de securitate del certificato, tu non potera restaurar iste copia de securitate plus tarde. Per favor guarda lo in un loco secur.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Insere le contrasigno usate pro cryptar iste copia de securitate del certificato:
 
 ## Protected authentication dialog
 
