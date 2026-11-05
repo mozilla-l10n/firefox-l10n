@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = שינוי גודל של הלשוניות בתצוגה מפוצלת
 tab-devtools-splitter =
     .aria-label = שינוי גודל של חלונית כלי הפיתוח
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = הוספת לשוניות לקבוצה
+    .accesskey = ה
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -278,6 +283,13 @@ tab-context-move-tab-to-new-group =
            *[other] הוספת לשוניות לקבוצה חדשה
         }
     .accesskey = ק
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] הוספה לקבוצה
+           *[other] הוספת { $tabCount } לשוניות לקבוצה
+        }
+    .accesskey = ה
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -446,6 +458,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = הפרדת התצוגה המפוצלת
     .accesskey = מ
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = הפרדת לשוניות
+    .accesskey = ה
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = היפוך סדר הלשוניות

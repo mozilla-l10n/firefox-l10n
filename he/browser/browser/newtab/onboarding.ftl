@@ -651,3 +651,7 @@ hnt-card-taskbar-tabs-primary-button = הוספת אתרים לשורת המשי
 hnt-card-extensions-header = שיפור { -brand-short-name } בעזרת הרחבות
 hnt-card-extensions-body = התאמה אישית של הגלישה שלך עם ההרחבות האהובות עלינו.
 hnt-card-extensions-primary-button = עיון
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = הכל מוכן. קדימה, אפשר לצאת לדרך.
+hnt-card-last-card-header-end = הגנת מעקב פעילה.
