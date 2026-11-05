@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = הערות ללשוניות הן �
 experimental-features-tab-context-menu =
     .label = תפריט לשוניות משופר
 experimental-features-tab-context-menu-description = קבלת תפריט הקשר פשוט יותר בעת לחיצה ימנית על לשונית. זה נועד להקל על מציאת הפעולות הנפוצות. <a data-l10n-name="connect">שיתוף משוב</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = מנטר המשאבים
+experimental-features-resource-monitor-description = הצגת השימוש המשוער בזיכרון ובמעבד עבור הלשוניות הפתוחות שלך ישירות בסרגל הצד, וביטול טעינת לשוניות שאינן בשימוש כדי לפנות משאבים. <a data-l10n-name="connect">שיתוף משוב</a>

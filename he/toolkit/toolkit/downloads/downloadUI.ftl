@@ -39,6 +39,44 @@ download-ui-cancel-downloads-ok =
         [1] בטל הורדה אחת
        *[other] בטל { $downloadsCount } הורדות
     }
+download-ui-confirm-cancel-button = ביטול
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] לעצור הורדה אחת ולצאת מ־{ -brand-short-name }?
+               *[other] לעצור { $downloadsCount } הורדות ולצאת מ־{ -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] לעצור הורדה אחת ולצאת מ־{ -brand-short-name }?
+               *[other] לעצור { $downloadsCount } הורדות ולצאת מ־{ -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = ‏{ -brand-short-name } ינסה לחדש את ההורדות כשהוא ייפתח מחדש, אך ההתקדמות עלולה ללכת לאיבוד.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] יציאה מ־{ -brand-short-name }
+       *[other] יציאה מ־{ -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] לעצור הורדה אחת ולעבור למצב לא־מקוון?
+       *[other] לעצור { $downloadsCount } הורדות ולעבור למצב לא־מקוון?
+    }
+download-ui-confirm-offline-message = ‏{ -brand-short-name } ינסה לחדש את ההורדות כשיחזור למצב מקוון, אך ההתקדמות עלולה ללכת לאיבוד.
+download-ui-confirm-offline-button = מעבר למצב לא־מקוון
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] לעצור הורדה אחת ולסגור את החלון הפרטי הזה?
+       *[other] לעצור { $downloadsCount } הורדות ולסגור את החלון הפרטי הזה?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] לא יהיה באפשרותך לחדש את ההורדה הזאת.
+       *[other] לא יהיה באפשרותך לחדש את ההורדות האלו.
+    }
+download-ui-confirm-private-browsing-button = סגירת חלון
 
 ##
 
