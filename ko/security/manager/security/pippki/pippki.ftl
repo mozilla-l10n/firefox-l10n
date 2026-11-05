@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = 인증서 다운로드 중
 download-cert-message = 새 인증 기관 (CA)을 신뢰하라는 요청을 받았습니다.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = 다음과 같은 목적으로 "{ $caName }"를 신뢰하시겠습니까?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = 인증 기관 (이름 없음)
 download-cert-trust-ssl =
     .label = 신뢰된 인증 기관 (웹 사이트)
 download-cert-trust-email =
