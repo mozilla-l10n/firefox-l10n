@@ -98,6 +98,10 @@ security-view-technical =
     .value = ತಾಂತ್ರಿಕ ವಿವರಗಳು
 help-button =
     .label = ನೆರವು
+security-technical-encrypted-page = ನೀವು ನೋಡುತ್ತಿರುವ ಪುಟದ ಕೆಲವು ಭಾಗವು ಅಂತರಜಾಲದ ಮೂಲಕ ಪ್ರಸಾರಿಸುವ ಮೊದಲು ಗೂಢಲಿಪೀಕರಣಗೊಂಡಿದೆ.
+security-technical-encrypted-description = ಗೂಢಲಿಪೀಕರಣಗೊಳಿಸುವುದರಿಂದ ಎರಡು ಗಣಕಗಳ ಮಧ್ಯೆ ಪ್ರವಹಿಸುವ ಮಾಹಿತಿಯನ್ನು ಅನಧೀಕೃತ ವ್ಯಕ್ತಿಗಳಿಂದ ನೋಡುವುದನ್ನು ತಡೆಯಬಹುದಾಗಿದೆ. ಅದೆ ಕಾರಣದಿಂದಾಗಿ ಜಾಲದ ಮುಖಾಂತರ ವರ್ಗಾಯಿತಗೊಂಡ ಈ ಪುಟವನ್ನು ಬೇರೊಬ್ಬರಿಂದ ನೋಡಲ್ಪಟ್ಟ ಸಾಧ್ಯತೆಗಳು ಕಡಿಮೆಯಾಗಿರುತ್ತವೆ.
+security-technical-mixed-content-description = ನೀವು ನೋಡುತ್ತಿರುವ ಪುಟದ ಕೆಲವು ಭಾಗವು ಅಂತರಜಾಲದ ಮೂಲಕ ಪ್ರಸಾರಿಸುವ ಮೊದಲು ಗೂಢಲಿಪೀಕರಣಗೊಳಿಸಿಲ್ಲ.
+security-technical-weak-cipher = ಈ ಜಾಲತಾಣದ ನಿಮ್ಮ ಸಂಪರ್ಕ ದುರ್ಬಲ ಎನ್ಕ್ರಿಪ್ಷನ್ ಬಳಸುತ್ತಿದೆ ಮತ್ತು ಅದು ಖಾಸಗಿಯಾಗಿಲ್ಲ. ಇತರೆ ವ್ಯಕ್ತಿಗಳು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ನೋಡಬಹುದು ಅಥವಾ ನಿಮ್ಮ ಜಾಲತಾಣದ ವರ್ತನೆಯನ್ನು ಬದಲಿಸಬಹುದು.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -106,6 +110,21 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-no = ಇಲ್ಲ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = ಸಂಪರ್ಕವು ಆಂಶಿಕವಾಗಿ ಗೂಢಲಿಪೀಕರಣಗೊಂಡಿದೆ
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = ಸಂಪರ್ಕವನ್ನು ಗೂಢಲಿಪೀಕರಿಸಲಾಗಿದೆ ({ $algorithm }, { $keySize } ಬಿಟ್ ಕೀಲಿಗಳು, { $protocol })
+security-technical-broken-encryption =
+    .value = ಎನ್‌ಕ್ರಿಪ್ಷನ್ ಮುರಿದಿದೆ ({ $algorithm }, { $keySize } ಬಿಟ್ ಕೀಲಿಗಳು, { $protocol })
 
 ##
 

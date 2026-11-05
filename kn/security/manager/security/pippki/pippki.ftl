@@ -12,6 +12,8 @@ change-password-token = ಸುರಕ್ಷತಾ ಸಾಧನ: { $tokenName }
 change-password-old = ಪ್ರಸ್ತುತ ಗುಪ್ತಪದ:
 change-password-new = ಹೊಸ ಗುಪ್ತಪದ:
 change-password-reenter = ಹೊಸ ಗುಪ್ತಪದ (ಮತ್ತೊಮ್ಮೆ):
+change-password-not-set =
+    .value = (ಹೊಂದಿಸಲಾಗಿಲ್ಲ)
 
 ## Reset Primary Password dialog
 
@@ -70,3 +72,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ಪ್ರಮಾಣಪತ್ರದ ಬ್ಯಾಕ್ಅಪ್ ಗುಪ್ತಪದ (ಮತ್ತೊಮ್ಮೆ):
 set-password-reminder = ಗಮನಿಸಿ: ನೀವು ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರ ಬ್ಯಾಕ್ ಅಪ್ ಗುಪ್ತಪದವನ್ನು ಮರೆತ ಪಕ್ಷದಲ್ಲಿ, ನೀವು ನಂತರದ ಸಮಯದಲ್ಲಿ ಈ ಬ್ಯಾಕ್ಅಪ್ ಮರುಗಳಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.  ದಯವಿಟ್ಟು ಇದನ್ನು ಒಂದು ಸುರಕ್ಷಿತ ಸ್ಥಳದಲ್ಲಿ ಕಾಪಾಡಿ.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
