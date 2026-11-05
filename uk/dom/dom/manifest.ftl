@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = Ідентифікатор учасника не отримав дійсну URL-адресу.
+dom-manifest-id-not-same-origin = Учасник id повинен мати таке саме походження, як і учасник start_url.
+dom-manifest-should-be-object = Маніфест повинен бути об'єктом.
+dom-manifest-scope-url-invalid = URL діапазону недійсний.
+dom-manifest-scope-not-same-origin = URL діапазону повинен збігатися з джерелом документа.
+dom-manifest-start-url-outside-scope = Початковий URL знаходиться поза межами діапазону, отже діапазон є недійсним.
+dom-manifest-start-url-invalid = Початковий URL недійсний.
+dom-manifest-start-url-should-be-same-origin = Початковий URL повинен збігатися з джерелом документа.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
