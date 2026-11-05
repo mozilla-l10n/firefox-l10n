@@ -12,6 +12,8 @@ change-password-token = ସୁରକ୍ଷା ଯନ୍ତ୍ର: { $tokenName }
 change-password-old = ପ୍ରଚଳିତ ପ୍ରବେଶ ସଂକେତ:
 change-password-new = ନୂତନ ପ୍ରବେଶ ସଂକେତ:
 change-password-reenter = ପ୍ରବେଶ ସଂକେତ (ପୁଣିଥରେ):
+change-password-not-set =
+    .value = (ବିନ୍ୟାସିତ ନୁହଁ)
 
 ## Reset Primary Password dialog
 
@@ -70,3 +72,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ପ୍ରମାଣପତ୍ର ନକଲସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତ (ପୁଣିଥରେ):
 set-password-reminder = ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ: ଯଦି ଆପଣ ଆପଣଙ୍କର ପ୍ରମାଣପତ୍ର ନକଲ ସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତକୁ ଭୁଲିଯାଆନ୍ତି, ତେବେ ଆପଣ ପରେ ଏହି ନକଲ ସଂରକ୍ଷଣକୁ ପୁନଃସ୍ଥାପନ କରିବାରେ ସମର୍ଥ ହେବେ ନାହିଁ.  ଦୟାକରି ଏହାକୁ କୌଣସି ସୁରକ୍ଷିତ ସ୍ଥାନରେ ଲିପିବଦ୍ଧ କରନ୍ତୁ.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
