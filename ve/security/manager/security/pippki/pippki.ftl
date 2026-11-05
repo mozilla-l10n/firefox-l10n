@@ -12,6 +12,8 @@ change-password-token = Tshiimiswa tsha Tsireledzo: { $tokenName }
 change-password-old = Phasiwede Ino:
 change-password-new = Phasiwede Ntswa:
 change-password-reenter = Phasiwde Ntswa (hafhu):
+change-password-not-set =
+    .value = (a yo dzudzanya)
 
 ## Reset Primary Password dialog
 
