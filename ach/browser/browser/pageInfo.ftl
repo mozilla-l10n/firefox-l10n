@@ -104,6 +104,11 @@ security-view-technical =
     .value = Lok matut pi ludiro ne
 help-button =
     .label = Kony
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Kakube { $website } pe cwako coc me pot buk ma itye kaneno.
+security-technical-no-encryption-transit = Gicwalo Ngec iwi Intanet labongo coc ma romo neno gi jo mapat kun tero.
+security-technical-no-encryption-page = Pot buk ma itye kaneno ni pe ki mungo ma onongo pwod pe kicwalo iwi Intanet.
 security-technical-encrypted-page = Pot buk ma itye kaneno gicono woko mapwod gicwalo iwi Intanet.
 security-technical-encrypted-description = Mungo coc miyo bedo tek pi jo mape ki twero me neno ngec mawoto ikin kompiuta. Ka dong man pe romo twere ni ngat mo okwano pot buk man ma tye kawot arir i kube.
 security-technical-mixed-content-description = Dul kom pot buk ma itye kaneno gucono woko mapwod gicwalo iwi intanet.
@@ -122,6 +127,8 @@ security-site-data-no = Pe
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Kube Pe Kicono
 security-technical-mixed-content =
     .value = Kicono Kube Maber
 
