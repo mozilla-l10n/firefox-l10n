@@ -103,6 +103,7 @@ set-password-reminder = Pomembno: Če pozabite geslo varnostne kopije digitalneg
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Vnesite geslo, ki ste ga uporabili za šifriranje te varnostne kopije potrdila:
 
 ## Protected authentication dialog
 
