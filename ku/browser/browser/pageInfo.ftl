@@ -93,6 +93,7 @@ help-button =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = Malpera { $website } ji bo rûpelên temaşe dikî desteka nasnavkirinê nade.
+security-technical-no-encryption-transit = Kesên din dikarin agahiyên bênasnav yên ku li ser înternetê bên şandin, bibînin.
 security-technical-encrypted-page = Rûpela ku temaşe dikî, berî ku bê vexwendin, hatnasnavkirin.
 security-technical-mixed-content-description = Parçeya rûpela dibînî beriya li ser înternetê bê şandin nehatiye şîfrekirin.
 
