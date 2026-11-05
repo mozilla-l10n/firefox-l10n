@@ -24,6 +24,11 @@ download-cert-window2 =
     .title = U Longela ṱhanziela
     .style = min-width: 46em
 download-cert-message = No humbelwa uri ni fulufhele Mulanguli wa Ṱhanziela muswa (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ni khou ṱoḓa u fulufhela "{ $caName }" u itela ndivho dzi tevhelaho?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Mulanguli wa Ṱhanziela (ha ngo bulwa)
 download-cert-trust-ssl =
     .label = Fulufhelani hei CA u sumba dzi webusaithi.
 download-cert-trust-email =
@@ -32,8 +37,6 @@ download-cert-message-desc = Musi ni saathu u fulufhela hei CA kha mushumo muṅ
 download-cert-view-cert =
     .label = Vhonani
 download-cert-view-text = Ṱolani ṱhanziela dza CA
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -52,9 +55,8 @@ set-password-repeat-backup-pw =
     .value = Phasiwede ya thikhedzo ya ṱhanziela (hafhu):
 set-password-reminder = Zwa vhuṱhogwa: Arali na hangwa phasiwede ya thikhedzo ya thanziela yanu, ni nga si kone u vhuedzedza hei thikhedzo nga murahu.  Ni khou humbelwa uri ni i rekhode fhethu ho tsireledzeaho.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 
