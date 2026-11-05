@@ -14,3 +14,18 @@ extension-firefox-compact-dark-name = Aberkan
 extension-firefox-compact-dark-description = Asentel akussim s uzenziɣ aberkan.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Seqdec arwes s yiniten i tqeffalin, i wumuɣen d yisfuyla.
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = Amumad
+# Name for a blue theme.
+extension-classic-blue-name = Amidadi
+# Name for a green theme.
+extension-classic-green-name = Azegzaw
+# Name for a pink theme.
+extension-classic-pink-name = Axuxi
+# Name for an orange theme.
+extension-classic-orange-name = Aččinawi

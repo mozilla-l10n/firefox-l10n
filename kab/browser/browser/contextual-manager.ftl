@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Kter seg iminig nni�
 contextual-manager-passwords-command-import = Kter seg ufaylu…
 contextual-manager-passwords-command-export = Sifeḍ awalen n uεeddi
 contextual-manager-passwords-command-remove-all = Kkes akk awalen uffiren
+contextual-manager-passwords-command-delete-all = Kkes akk awalen n uɛeddi
 contextual-manager-passwords-command-options = Iɣewwaren
 contextual-manager-passwords-command-help = Tallalt
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -109,6 +110,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Kkes
        *[other] Kkes kullec
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Kkes
+        [one] Kkes-iten akk
+       *[other] Kkes-iten akk
+    }
 contextual-manager-passwords-origin-label = Asmel Web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Isem n useqdac
@@ -158,6 +167,8 @@ contextual-manager-passwords-remove-login-card-message = Ur tezmireḍ ara ad te
 contextual-manager-passwords-remove-login-card-back-message = Ɣer deffir
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Kkes
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Kkes
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Sefsex
 contextual-manager-passwords-alert-card =
@@ -183,6 +194,9 @@ contextual-manager-passwords-update-label =
     .label = Leqqem awal uffir
 contextual-manager-passwords-remove-label =
     .title = Kkes awal n uεeddi
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Kkes awal n uɛeddi
 contextual-manager-passwords-origin-field =
     .label = Tansa n usmel web
     .placeholder = https://www.example.com
