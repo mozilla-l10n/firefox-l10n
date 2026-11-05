@@ -102,6 +102,9 @@ security-view-technical =
     .value = Tehnik Tafsilât
 help-button =
     .label = Yardım
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = İnternet saytı { $website } seyretkeniñiz saife içün şifrelemeni desteklemey.
 security-technical-no-encryption-transit = İnternette şifrelenmeden gönderilen bilgiler aktarım sırasında başkaları tarafından görülebilir.
 security-technical-no-encryption-page = Seyrete olğanıñız saife İnternet üzerinden naqletilmezden evvel şifrelenmedi.
 security-technical-encrypted-page = Seyrete olğanıñız saife İnternet üzerinden naqletilmezden evvel şifrelendi.
@@ -123,6 +126,8 @@ security-site-data-no = Hayır
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Bağlantı şifrelenmiyor
 security-technical-mixed-content =
     .value = Bağlantıyı duruma göre şifreli kur
 
