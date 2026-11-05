@@ -644,4 +644,14 @@ welcome-back-onboarding-card-tilebutton-label = Қолданып көру
 
 hnt-card-import-header = { -brand-short-name } санаулы секунд ішінде баптаңыз
 hnt-card-import-body = Басқа браузерден бетбелгілерді, парольдерді және басқаларды көшіріп алыңыз.
+hnt-card-import-primary-button = Деректеріңізді импорттау
+hnt-card-default-body = { -brand-product-name } — сізді бақылау үшін емес, қорғау үшін жасалған жалғыз ірі браузер.
+hnt-card-default-primary-button = Сілтемелерді { -brand-short-name } арқылы ашу
+hnt-card-pin-header = { -brand-short-name } қол астыңызда ұстаңыз
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Док панелінен қорғалған шолуға қайта өтіңіз.
+       *[other] Тапсырмалар панелінен қорғалған шолуға қайта өтіңіз.
+    }
+hnt-card-mobile-header = Телефоныңызға кірістірілген қорғауды алыңыз
 hnt-card-wallpaper-primary-button = Баптауды бастау
