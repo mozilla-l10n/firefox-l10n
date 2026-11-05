@@ -120,6 +120,7 @@ security-technical-encrypted-page = 表示中のページはインターネッ�
 security-technical-encrypted-description = 暗号化によってコンピューター間の通信の傍受は困難になり、このページをネットワークで転送中に誰かにその内容をのぞき見られる可能性は低くなります。
 security-technical-mixed-content-description = 表示しているページの一部はインターネットに転送される前に暗号化されていません。
 security-technical-weak-cipher = このウェブサイトへの接続に使用されている暗号は強度が弱くプライベートではありません。他者があなたの情報を見たりウェブサイトの動作を変更できます。
+security-technical-ct-compliant = このウェブサイトは証明書の透明性ポリシーに準拠しています。
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
