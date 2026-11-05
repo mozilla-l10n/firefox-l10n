@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Сцягванне сертыфіката
 download-cert-message = Вас запыталі аб даверу да новага Цэнтра Сертыфікацыі (ЦС).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Вы хочаце давяраць "{ $caName }" з наступнымі мэтамі?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Цэнтр сертыфікацыі (без назвы)
 download-cert-trust-ssl =
     .label = Давяраць гэтаму ЦС ідэнтыфікаваць вэб-сайты.
 download-cert-trust-email =
