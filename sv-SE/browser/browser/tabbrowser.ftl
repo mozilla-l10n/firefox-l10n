@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Ändra storlek på flikar med delad vy
 tab-devtools-splitter =
     .aria-label = Ändra storlek på panelen Utvecklarverktyg
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Lägg till flikar i grupp
+    .accesskey = L
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -278,6 +283,14 @@ tab-context-move-tab-to-new-group =
            *[other] Lägg till flikar i ny grupp
         }
     .accesskey = g
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Lägg till i grupp
+            [one] Lägg till { $tabCount } flikar i grupp
+           *[other] Lägg till { $tabCount } flikar i grupp
+        }
+    .accesskey = L
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -445,6 +458,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Separera delad vy
+    .accesskey = S
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Separata flikar
     .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

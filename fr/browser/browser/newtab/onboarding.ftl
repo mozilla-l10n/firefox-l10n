@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Rouvrez à tout moment vos group
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Rouvrez vos groupes d’onglets à partir du menu Lister tous les onglets à tout moment.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Les groupes d’onglets sont enregistrés automatiquement. Retrouvez-les ici.
 
 ## Multi Profiles feature onboarding messages
 
@@ -638,3 +640,33 @@ welcome-back-onboarding-card-label-tabs = Mettez de l’ordre grâce aux onglets
 welcome-back-onboarding-card-label-vpn = Masquez votre localisation avec le VPN intégré
 welcome-back-onboarding-card-label-pdf = Surlignez, signez et modifiez des fichiers PDF
 welcome-back-onboarding-card-tilebutton-label = Essayer
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configurez votre { -brand-short-name } en quelques secondes
+hnt-card-import-body = Importez vos marque-pages, mots de passe et autres données depuis un autre navigateur.
+hnt-card-import-primary-button = Importez vos données
+hnt-card-default-body = { -brand-product-name } est le seul grand navigateur conçu pour vous protéger, pas pour vous pister.
+hnt-card-default-primary-button = Ouvrir les liens avec { -brand-short-name }
+hnt-card-pin-header = Gardez { -brand-short-name } à portée de main
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Revenez à la navigation protégée depuis votre dock.
+       *[other] Revenez à la navigation protégée depuis la barre des tâches.
+    }
+hnt-card-mobile-header = Obtenez une protection intégrée sur votre téléphone
+hnt-card-mobile-body = Téléchargez { -brand-product-name } pour mobile pour plus de confidentialité lors de vos déplacements.
+hnt-card-mobile-primary-button = Obtenez { -brand-product-name } sur mobile.
+hnt-card-wallpaper-header = Choisissez un nouveau fond d’écran
+hnt-card-wallpaper-body = Installez-vous confortablement sur cet écran avec l’arrière-plan que vous appréciez.
+hnt-card-wallpaper-primary-button = Commencer la personnalisation
+hnt-card-taskbar-tabs-header = Ajoutez vos sites préférés à votre barre des tâches de Windows
+hnt-card-taskbar-tabs-body = Ouvrez les sites les plus visités comme une application dotée de toutes les protections { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Ajouter des sites à la barre des tâches
+hnt-card-extensions-header = Plus de { -brand-short-name } d’extensions
+hnt-card-extensions-body = Personnalisez votre navigation avec nos extensions les plus appréciées.
+hnt-card-extensions-primary-button = Explorer
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Tout est réglé. Passez à l’action.
+hnt-card-last-card-header-end = La protection contre le pistage est activée.

@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Redimensionner les onglets de la vue scindée
 tab-devtools-splitter =
     .aria-label = Redimensionner le panneau des outils de développement
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Ajouter les onglets à un groupe
+    .accesskey = A
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -275,6 +280,14 @@ tab-context-move-tab-to-new-group =
            *[other] Ajouter les onglets à un nouveau groupe
         }
     .accesskey = A
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Ajouter au groupe
+            [one] Ajouter { $tabCount } onglets au groupe
+           *[other] Ajouter { $tabCount } onglets au groupe
+        }
+    .accesskey = A
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -444,6 +457,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Séparer la vue scindée
+    .accesskey = S
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Séparer les onglets
     .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Fermer les onglets sur la gauche
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Tabulations à gauche
+    .accesskey = T
 close-tabs-to-the-start-vertical =
     .label = Fermer les onglets au-dessus
     .accesskey = a
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Onglets au-dessus
+    .accesskey = O
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Fermer les onglets sur la droite
     .accesskey = m
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Onglets à droite
+    .accesskey = O
 close-tabs-to-the-end-vertical =
     .label = Fermer les onglets en dessous
     .accesskey = d
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Onglets en dessous
+    .accesskey = O
 close-other-tabs =
     .label = Fermer les autres onglets
     .accesskey = t
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Tous les autres
+    .accesskey = T
 reload-tabs =
     .label = Actualiser les onglets
     .accesskey = R
@@ -89,15 +111,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Ouvrir dans un nouvel onglet conteneur
     .accesskey = d
+tab-context-open-in-container =
+    .label = Ouvrir dans un conteneur
+    .accesskey = O
 move-to-start =
     .label = Déplacer vers le début
     .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Démarrer
+    .accesskey = D
 move-to-end =
     .label = Déplacer vers la fin
     .accesskey = E
+move-to-end-alt =
+    .label = Fin
+    .accesskey = F
 move-to-new-window =
     .label = Déplacer vers une nouvelle fenêtre
     .accesskey = n
+move-to-new-window-alt =
+    .label = Nouvelle fenêtre
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +147,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Fermer les onglets en double
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Dupliquer les onglets
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Fermer les doublons de cet onglet
     .accesskey = e
@@ -128,6 +167,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nouveau groupe
     .accesskey = N
+tab-context-add-tab-to-group-new-group =
+    .label = Nouveau groupe
+tab-context-add-tab-to-group-closed-groups =
+    .label = Groupes fermés
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -159,6 +202,15 @@ tab-context-move-tabs =
         }
     .accesskey = c
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Déplacer vers
+            [one] Déplacer { $tabCount } onglets vers
+           *[other] Déplacer { $tabCount } onglets vers
+        }
+    .accesskey = D
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -170,6 +222,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Déplacer la vue scindée vers
     .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Déplacer les onglets vers
+    .accesskey = D
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

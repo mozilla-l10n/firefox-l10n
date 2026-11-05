@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Flikanteckningar är en experiment
 experimental-features-tab-context-menu =
     .label = Strömlinjeformad flikmeny
 experimental-features-tab-context-menu-description = Se en enklare kontextmeny när du högerklickar på en flik. Den är utformad för att göra vanliga åtgärder lättare att hitta. <a data-l10n-name="connect">Dela feedback</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Resursövervakare
+experimental-features-resource-monitor-description = Se uppskattad minnes- och processoranvändning för dina öppna flikar direkt i sidofältet och frigör resurser. <a data-l10n-name="connect">Dela feedback</a>

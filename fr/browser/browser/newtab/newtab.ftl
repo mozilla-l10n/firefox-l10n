@@ -192,6 +192,9 @@ newtab-privacy-empty-state = { -brand-short-name } bloque automatiquement les tr
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Consultez ici le total actualisé en continu.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Moins de traqueurs, une navigation plus rapide.
+newtab-privacy-empty-state-small-message = Parcourez pour commencer le blocage.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1428,6 +1431,12 @@ newtab-widget-menu-move-left = À gauche
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = À droite
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Accueil
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgets
 newtab-widget-size-small = Petite
 newtab-widget-size-medium = Moyenne
 newtab-widget-size-large = Grande

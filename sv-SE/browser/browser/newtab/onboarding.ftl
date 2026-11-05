@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Återöppna dina flikgrupper fr�
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Återöppna dina flikgrupper från menyn Lista alla flikar när som helst.
 tab-groups-onboarding-dismiss = Ok
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Flikgrupper sparas automatiskt. Hitta dem här.
 
 ## Multi Profiles feature onboarding messages
 
@@ -635,3 +637,33 @@ welcome-back-onboarding-card-label-tabs = Få bättre ordning med vertikala flik
 welcome-back-onboarding-card-label-vpn = Surfa anonymt med inbyggt VPN
 welcome-back-onboarding-card-label-pdf = Markera, signera och redigera PDF-filer
 welcome-back-onboarding-card-tilebutton-label = Testa
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Konfigurera din { -brand-short-name } på några sekunder
+hnt-card-import-body = Ta in dina bokmärken, lösenord och mer från en annan webbläsare.
+hnt-card-import-primary-button = Importera din data
+hnt-card-default-body = { -brand-product-name } är den enda stora webbläsaren byggd för att skydda dig, inte spåra dig.
+hnt-card-default-primary-button = Öppna länkar med { -brand-short-name }
+hnt-card-pin-header = Håll { -brand-short-name } ett klick borta
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Hoppa tillbaka till skyddad surfning från din docka.
+       *[other] Hoppa tillbaka till skyddad surfning från aktivitetsfältet.
+    }
+hnt-card-mobile-header = Få inbyggt skydd på din telefon
+hnt-card-mobile-body = Hämta { -brand-product-name } för mobil för extra integritet på språng.
+hnt-card-mobile-primary-button = Få { -brand-product-name } för mobil.
+hnt-card-wallpaper-header = Välj en ny bakgrundsbild
+hnt-card-wallpaper-body = Gör att den här skärmen känns som hemma med en bakgrund du älskar.
+hnt-card-wallpaper-primary-button = Börja anpassa
+hnt-card-taskbar-tabs-header = Lägg till dina favoritplatser i aktivitetsfältet i Windows
+hnt-card-taskbar-tabs-body = Öppna dina mest besökta webbplatser som en app med alla { -brand-product-name }:s skydd.
+hnt-card-taskbar-tabs-primary-button = Lägg till webbplatser i aktivitetsfältet
+hnt-card-extensions-header = Öka { -brand-short-name } med tillägg
+hnt-card-extensions-body = Anpassa din surfning med våra mest älskade tillägg.
+hnt-card-extensions-primary-button = Utforska
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Allt klart. Gå och gör din grej.
+hnt-card-last-card-header-end = Spårningsskydd är på.

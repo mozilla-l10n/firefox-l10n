@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importera från en an
 contextual-manager-passwords-command-import = Importera från en fil…
 contextual-manager-passwords-command-export = Exportera lösenord
 contextual-manager-passwords-command-remove-all = Ta bort alla lösenord
+contextual-manager-passwords-command-delete-all = Ta bort alla lösenord
 contextual-manager-passwords-command-options = Alternativ
 contextual-manager-passwords-command-help = Hjälp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Ta bort lösenordet?
        *[other] Vill du ta bort alla { $total } lösenord?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Ta bort { $total } lösenord?
+       *[other] Ta bort { $total } lösenord?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -118,6 +126,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Ta bort
        *[other] Ta bort alla
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Ta bort
+        [one] Ta bort alla
+       *[other] Ta bort alla
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -131,6 +147,14 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] Detta tar bort lösenordet som sparats i { -brand-short-name } på alla dina synkroniserade enheter och tar bort alla intrångsvarningar. Du kan inte ångra den här åtgärden.
        *[other] Detta tar bort alla lösenord som sparats i { -brand-short-name } på alla dina synkroniserade enheter och tar bort alla intrångsvarningar. Du kan inte ångra den här åtgärden.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Detta tar bort lösenordet från { -brand-short-name } på alla enheter som synkroniserar dina lösenord. Det går inte att ångra.
+        [one] Detta tar bort dem från { -brand-short-name } på alla enheter som synkroniserar dina lösenord. Detta går inte att ångra.
+       *[other] Detta tar bort dem från { -brand-short-name } på alla enheter som synkroniserar dina lösenord. Detta går inte att ångra.
     }
 contextual-manager-passwords-origin-label = Webbplats
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -174,12 +198,16 @@ contextual-manager-passwords-radiobutton-all = Alla ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Varningar ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ta bort lösenord?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Ta bort lösenord?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Du kan inte ångra detta.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Tillbaka
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Ta bort
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Ta bort
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Avbryt
 contextual-manager-passwords-alert-card =
@@ -210,6 +238,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Uppdatera lösenord
 contextual-manager-passwords-remove-label =
+    .title = Ta bort lösenord
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Ta bort lösenord
 contextual-manager-passwords-origin-field =
     .label = Webbadress
@@ -323,6 +354,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Ja, ta bort lösenordet
        *[other] Ja, ta bort lösenorden
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Ja, ta bort lösenord
+        [one] Ja, ta bort lösenord
+       *[other] Ja, ta bort lösenord
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = För att se dina sparade lösenord anger du ditt primära lösenord.

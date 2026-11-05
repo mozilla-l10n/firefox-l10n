@@ -39,6 +39,49 @@ download-ui-cancel-downloads-ok =
         [1] Annuler le téléchargement
        *[other] Annuler les { $downloadsCount } téléchargements
     }
+download-ui-confirm-cancel-button = Annuler
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Arrêter 1 téléchargement et quitter { -brand-short-name } ?
+                [one] Arrêter { $downloadsCount } téléchargements et quitter { -brand-short-name } ?
+               *[other] Arrêter { $downloadsCount } téléchargements et quitter { -brand-short-name } ?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Arrêter 1 téléchargement et quitter { -brand-short-name } ?
+                [one] Arrêter { $downloadsCount } téléchargements et quitter { -brand-short-name } ?
+               *[other] Arrêter { $downloadsCount } téléchargements et quitter { -brand-short-name } ?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } essaiera de reprendre les téléchargements à la réouverture, mais leur progression pourrait être perdue.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Quitter { -brand-short-name }
+       *[other] Quitter { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Arrêter 1 téléchargement et le passer hors connexion ?
+        [one] Arrêter { $downloadsCount } téléchargements et passer hors connexion ?
+       *[other] Arrêter { $downloadsCount } téléchargements et passer hors connexion ?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } essaiera de reprendre les téléchargements lorsque vous serez à nouveau connecté·e, mais une progression pourra être interrompue.
+download-ui-confirm-offline-button = Passer en mode déconnecté
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Arrêter 1 téléchargement et fermer cette fenêtre privée ?
+        [one] Arrêter { $downloadsCount } téléchargements et fermer cette fenêtre privée ?
+       *[other] Arrêter { $downloadsCount } téléchargements et fermer cette fenêtre privée ?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Vous ne pourrez pas reprendre ce téléchargement.
+        [one] Vous ne pourrez pas reprendre ces téléchargements.
+       *[other] Vous ne pourrez pas reprendre ces téléchargements.
+    }
+download-ui-confirm-private-browsing-button = Fermer la fenêtre
 
 ##
 

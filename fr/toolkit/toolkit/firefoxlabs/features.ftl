@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Les notes d’onglets sont une fon
 experimental-features-tab-context-menu =
     .label = Menu d’onglet simplifié
 experimental-features-tab-context-menu-description = Découvrez un menu contextuel plus simple lorsque vous effectuez un clic droit sur un onglet. Il a été conçu pour faciliter l’accès aux actions courantes. <a data-l10n-name="connect">Donnez votre avis</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Moniteur de ressources
+experimental-features-resource-monitor-description = Consultez l’utilisation mémoire et processeur estimée pour vos onglets ouverts directement dans la barre latérale, et déchargez les onglets que vous n’utilisez pas pour libérer des ressources. <a data-l10n-name="connect">Partagez vos commentaires</a>

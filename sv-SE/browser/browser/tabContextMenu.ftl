@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Stäng flikar till vänster
     .accesskey = v
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Flikar till vänster
+    .accesskey = F
 close-tabs-to-the-start-vertical =
     .label = Stäng flikar ovan
     .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Flikar ovan
+    .accesskey = F
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Stäng flikar till höger
     .accesskey = h
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Flikar till höger
+    .accesskey = F
 close-tabs-to-the-end-vertical =
     .label = Stäng flikar nedan
     .accesskey = n
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Flikar nedan
+    .accesskey = F
 close-other-tabs =
     .label = Stäng alla andra flikar
     .accesskey = ä
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Alla andra
+    .accesskey = A
 reload-tabs =
     .label = Uppdatera flikar
     .accesskey = U
@@ -89,15 +111,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Öppna i en ny behållarflik
     .accesskey = b
+tab-context-open-in-container =
+    .label = Öppna i behållare
+    .accesskey = Ö
 move-to-start =
     .label = Flytta till början
     .accesskey = b
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Starta
+    .accesskey = S
 move-to-end =
     .label = Flytta till slut
     .accesskey = s
+move-to-end-alt =
+    .label = Slut
+    .accesskey = S
 move-to-new-window =
     .label = Flytta till nytt fönster
     .accesskey = t
+move-to-new-window-alt =
+    .label = Nytt fönster
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +147,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Stäng dubbletter av flikar
     .accesskey = d
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Duplicera flikar
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Stäng dubbletter av denna flik
     .accesskey = d
@@ -128,6 +167,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Ny grupp
     .accesskey = N
+tab-context-add-tab-to-group-new-group =
+    .label = Ny grupp
+tab-context-add-tab-to-group-closed-groups =
+    .label = Slutna grupper
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -158,6 +201,15 @@ tab-context-move-tabs =
         }
     .accesskey = t
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Flytta till
+            [one] Flytta { $tabCount } flikat till
+           *[other] Flytta { $tabCount } flikat till
+        }
+    .accesskey = F
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -169,6 +221,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Flytta delad vy till
     .accesskey = d
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Flytta flikar till
+    .accesskey = F
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
