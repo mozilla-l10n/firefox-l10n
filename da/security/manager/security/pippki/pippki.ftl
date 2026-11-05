@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Henter certifikat
 download-cert-message = Du er blevet bedt om at stole på en ny certifikatautoritet (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ønsker du at stole på "{ $caName }" til følgende formål?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikatautoritet (unavngivet)
 download-cert-trust-ssl =
     .label = Stol på denne CA til at identificere websteder.
 download-cert-trust-email =
