@@ -31,3 +31,14 @@ dom-manifest-lang-is-invalid = { $property }: Ang { $value } ay di-wastong langu
 # There is no final period, so that it is not mistaken for part of the URL.
 # Example: "icons item at index 2 is invalid. The src member is an invalid URL http://:Invalid"
 dom-manifest-image-url-is-invalid = Ang { $memberName } item sa index { $index } ay di-wasto. Ang { $member } member ay isang di-wastong URL { $value }
+# Variables:
+#   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
+#   $index (Number) - The index of the image object that is unusable, starting from 0.
+# Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
+dom-manifest-image-unusable = Ang { $memberName } item sa index { $index } ay walang silbi. Hindi ito papansinin.
+# Variables:
+#   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
+#   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
+#   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes repeated purpose(s): a, b."
+dom-manifest-image-repeated-purposes = Ang { $memberName } item sa index { $index } ay may naulit na layunin: { $purposes }.
