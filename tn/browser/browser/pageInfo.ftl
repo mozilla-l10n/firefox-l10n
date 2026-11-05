@@ -47,6 +47,8 @@ security-technical-encrypted-page = Tsebe e o e lebileng e sireleditswe pele ga 
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Kgolagano Ga e a Sirelediwa
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
