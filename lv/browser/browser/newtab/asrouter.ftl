@@ -69,6 +69,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinhronizēt grāmatzīmes tūlīt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Aizvērt poga
     .title = Aizvērt
+fxa-adoption-addresses-backup-title = Veidosim rezerves kopiju jūsu saglabātajām adresēm
+fxa-adoption-addresses-backup-subtitle = Aizsargājiet savas saglabātās adreses, vienādojot tās ar savām ierīcēm, izmantojot šifrēšanu.
+fxa-adoption-credit-cards-backup-title = Veidosim drošības kopijas jūsu maksājuma metodēm
+fxa-adoption-credit-cards-backup-subtitle = Aizsargājiet savus maksājuma veidus, vienādojot tos ar savās ierīcēs, izmantojot šifrēšanu.
+fxa-adoption-bookmarks-treatment-backup-title = Veidosim rezerves kopiju (-as) jūsu grāmatzīmēm
 
 ## What's New toolbar button and panel
 
@@ -248,6 +253,19 @@ tail-fox-spotlight-secondary-button = Ne tagad
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-learn-more-button = Uzzināt vairāk
+
+## FxA Menu Message variants
+
+fxa-menu-message-backup-sync-primary-text = Saglabājiet savus datus drošībā un vienādotus
+fxa-menu-message-backup-sync-secondary-text = Vienādošana veido arī rezerves kopijas lielāko daļu jūsu datu, lai jūs varētu tiem piekļūt visur, kur izmantojat { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Vienādot un veidot rezerves kopijas jūsu datiem
+fxa-menu-message-mobile-primary-text = Nosūtiet cilnes uz savu tālruni
+fxa-menu-message-mobile-secondary-text = Sinhronizējot cilnes ar mobilo ierīci, varat nekavējoties turpināt darbu no vietas, kur pārtraucāt.
+fxa-menu-message-mobile-collapsed-text = Vienādot ar jūsu tālruni
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Laipni lūgti atpakaļ
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 

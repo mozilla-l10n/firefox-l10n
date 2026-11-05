@@ -439,10 +439,26 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, atsvaidzināts un gat
 ipprotection-bandwidth-reset-text = Ieslēdziet VPN, lai iegūtu papildu privātuma uzlabojumu – bez maksas katru mēnesi.
 ipprotection-bandwidth-reset-button = Sapratu
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Šī vietne var nedarboties ar VPN.</strong> Mēģiniet pierakstīties vai izslēgt VPN, kamēr izmantojat šo vietni.
+ipp-activator-breakage-turn-off-warning = <strong>Šī vietne var nedarboties ar VPN.</strong> Mēģiniet izslēgt VPN, kamēr izmantojat šo vietni.
+
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN ir apturēts
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Jūs esat izmantojis visus { $maxUsage } GB savu VPN datu. VPN piekļuve tiks atiestatīta nākamajā mēnesī.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Jūs esat izmantojis visus { $maxUsage } GB savu VPN datu. Piekļuve tiks atiestatīta nākamajā mēnesī.
 vpn-error-page-continue-description = Jāizvēlas, kā turpināt bez VPN
+vpn-error-page-keep-browsing = Turpināt pārlūkošanu šajā sesijā
+vpn-error-page-new-session = Sākt jaunu sesiju
+vpn-paused-alert-close-tabs-button = Aizvērt visas cilnes
 vpn-paused-alert-continue-wo-vpn-button = Turpināt bez VPN
 vpn-error-alert-title-1 = VPN un kārtulas šobrīd nedarbojas.
 vpn-error-alert-body-1 = VPN izslēgšana un ieslēgšana var novērst sarežģījumu.
+vpn-error-alert-title = VPN pašlaik nedarbojas.
 vpn-error-alert-body = Vēlāk jāmēģina vēlreiz.

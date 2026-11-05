@@ -200,6 +200,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Pabeigts
 migration-safari-password-import-header = Ievietot paroles no Safari
+migration-safari-password-import-post-sequoia-step1 = Atveriet <a data-l10n-name="macos-passwords-app">lietotni Paroles</a> savā Mac datorā.
+migration-safari-password-import-post-sequoia-step2 = Izvēlņu joslā ekrāna augšdaļā izvēlieties Fails > Eksportēt visas paroles uz failu…
+migration-safari-password-import-post-sequoia-step3 = Saglabāt failu
+migration-safari-password-import-post-sequoia-step4 = Atlasiet saglabāto failu
 migration-safari-password-import-steps-header = Lai ievietotu Safari paroles:
 migration-safari-password-import-step1 = Programmā Safari atveriet izvēlni Safari un dodieties uz Preferences > Passwords
 migration-safari-password-import-step2 = Spiediet uz pogas <img data-l10n-name="safari-icon-3dots"/> un izvēlieties "Export All Passwords".
@@ -210,7 +214,9 @@ migration-chrome-windows-password-import-steps-header = Pārlūkā Chrome:
 migration-chrome-windows-password-import-step1 = Jāatver galvenā izvēlne <img data-l10n-name="chrome-icon-3dots"/> un jādodas uz Paroles un automātiskā aizpilde > Google paroļu pārvaldnieks.
 migration-chrome-windows-password-import-step2 = Izvēlnē atlasiet “Iestatījumi”.
 migration-chrome-windows-password-import-step3 = Izvēlieties “Lejupielādēt failu” un saglabājiet to savā ierīcē.
+migration-chrome-windows-password-import-step4 = Atgriezieties šeit un atlasiet “Atlasīt failu”, lai pabeigtu importēšanu.
 migration-manual-password-import-skip-button = Izlaist
+migration-manual-password-import-cancel-button = Atcelt
 migration-manual-password-import-select-button = Atlasīt datni
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
