@@ -104,6 +104,11 @@ security-view-technical =
     .value = సాంకేతిక వివరాలు
 help-button =
     .label = సహాయం
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = వెబ్ సైటు { $website } మీరు దర్శించుతున్నటువంటి పేజీకొరకు ఎన్క్రిప్షన్ మద్దతునీయదు.
+security-technical-no-encryption-transit = ఎన్క్రిప్షన్ చేయకుండా సమాచారాన్ని అంతర్జాలములో పంపితే అది బదిలీకరించుతున్నప్పుడు వేరే వారిద్వారా చూడబడుతుంది. 
+security-technical-no-encryption-page = మీరు చూస్తున్న పేజీ అంతర్జాలం ద్వారా బదిలీ కాక మునుపు ఎన్‌క్రిప్ట్ కాలేదు.
 security-technical-encrypted-page = మీరు చూస్తున్న పేజీ అంతర్జాలం ద్వారా బదిలీ అయ్యే ముందే ఎన్‌క్రిప్ట్ అయింది.
 security-technical-encrypted-description = ఎన్క్రిప్షన్ కంప్యూటర్లు మధ్య ప్రయాణించే సమాచారం వీక్షించడానికి అనధికార వ్యక్తులు కష్టతరం చేస్తోంది. ఇది నెట్వర్క్ వ్యాప్తంగా వెళ్లాయి ఎవరైనా ఈ పేజీ చదివే అందువలన అవకాశం ఉంది.
 security-technical-mixed-content-description = అంతర్జాలమునందు బదిలీకరించకమునుపు మీరు చూస్తున్నటువంటి పేజీయొక్క పార్టులు ఎన్క్రిప్టుచేయబడలేదు.
@@ -123,6 +128,8 @@ security-site-data-no = కాదు
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = అనుసంధానం గుప్తీకరింపబడలేదు
 security-technical-mixed-content =
     .value = అనుసంధానం పరోక్షంగా ఎన్క్రిప్ట్ చేయబడింది.
 
