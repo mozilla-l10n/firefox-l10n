@@ -20,3 +20,14 @@ dom-manifest-lang-is-invalid = { $property }: { $value } is geen geldige taalcod
 # There is no final period, so that it is not mistaken for part of the URL.
 # Example: "icons item at index 2 is invalid. The src member is an invalid URL http://:Invalid"
 dom-manifest-image-url-is-invalid = Item { $memberName } bij index { $index } is ongeldig. Het lid { $member } is een ongeldige URL { $value }
+# Variables:
+#   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
+#   $index (Number) - The index of the image object that is unusable, starting from 0.
+# Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
+dom-manifest-image-unusable = { $memberName }-item in index { $index } heeft geen bruikbaar doel. Het zal worden genegeerd.
+# Variables:
+#   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
+#   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
+#   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes repeated purpose(s): a, b."
+dom-manifest-image-repeated-purposes = { $memberName }-item op index { $index } bevat herhaalde doeleinde(n): { $purposes }.
