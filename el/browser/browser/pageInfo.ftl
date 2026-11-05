@@ -110,6 +110,11 @@ security-view-technical =
     .value = Τεχνικές λεπτομέρειες
 help-button =
     .label = Βοήθεια
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Ο ιστότοπος { $website } δεν υποστηρίζει κρυπτογράφηση για τη σελίδα που βλέπετε.
+security-technical-no-encryption-transit = Οι πληροφορίες που στέλνονται μέσω διαδικτύου χωρίς κρυπτογράφηση δεν είναι ασφαλείς και μπορεί να τις δουν τρίτοι.
+security-technical-no-encryption-page = Η σελίδα που βλέπετε δεν ήταν κρυπτογραφημένη πριν από τη μεταφορά μέσω του διαδικτύου.
 security-technical-encrypted-page = Η σελίδα που βλέπετε κρυπτογραφήθηκε προτού μεταδοθεί μέσω του διαδικτύου.
 
 ## These strings are used to tell the user if the website is storing cookies
@@ -125,6 +130,8 @@ security-site-data-no = Όχι
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Μη κρυπτογραφημένη σύνδεση
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")

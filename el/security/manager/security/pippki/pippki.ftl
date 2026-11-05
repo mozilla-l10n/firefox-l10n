@@ -99,6 +99,10 @@ set-password-repeat-backup-pw =
     .value = Κωδικός αντιγράφου ασφάλειας πιστοποιητικού (ξανά):
 set-password-reminder = Σημαντικό: Εάν ξεχάσετε τον κωδικό πρόσβασης του αντιγράφου ασφαλείας του πιστοποιητικού, δεν θα μπορείτε να το ανακτήσετε αργότερα. Φυλάξτε τον κωδικό πρόσβασης σε ασφαλή τοποθεσία.
 
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Εισαγάγετε τον κωδικό πρόσβασης που χρησιμοποιήθηκε για την κρυπτογράφηση του αντιγράφου ασφαλείας του πιστοποιητικού:
+
 ## Protected authentication dialog
 
 protected-auth-window =
