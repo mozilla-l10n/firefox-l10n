@@ -14,6 +14,8 @@ change-password-token = Siccarness Device: { $tokenName }
 change-password-old = Passwird the noo:
 change-password-new = New passwird:
 change-password-reenter = New passwird (again):
+change-password-not-set =
+    .value = (no set)
 pippki-failed-pw-change = No able tae chynge passwird.
 pippki-incorrect-pw = Ye didnae inpit whit's the richt passwird the noo. Gie it anither shot.
 pippki-pw-change-ok = Passwird chynged wioot onie problems.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Doonloadin Certificate
 download-cert-message = Ye've been speirt tae trust a new Certificate Authority (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Dae ye want tae trust “{ $caName }” fur the follaein purposes?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certificate Authority (no nemmed)
 download-cert-trust-ssl =
     .label = Trust this CA tae identify wabsites.
 download-cert-trust-email =
@@ -86,3 +93,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup passwird (aince mair):
 set-password-reminder = Important: If you forget yer certificate backup passwird, ye'll no be able tae restore this backup efter. Gonnae keep it in a sauf airtin.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Gonnae inpit the passwird that wis yaised tae encrypt this certificate backup:
+
+## Protected authentication dialog
+
