@@ -102,6 +102,10 @@ security-view-technical =
     .value = សេចក្តី​​លម្អិត​អំពី​​បច្ចេកទេស
 help-button =
     .label = ជំនួយ
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = តំបន់បណ្ដាញ { $website } មិន​គាំទ្រ​ការ​អ៊ិនគ្រីប​សម្រាប់​ទំព័រ​ដែល​អ្នក​កំពុងតែ​មើល​ទេ ។
+security-technical-no-encryption-transit = ព័ត៌មាន​ដែល​បាន​ផ្ញើ​តាម​អ៊ីនធឺណិត​ដោយ​មិនបាន​អ៊ិនគ្រីប​ នឹង​អាច​ធ្វើឲ្យ​អ្នក​ផ្សេងទៀត​មើល​ឃើញ ខណៈ​ដែល​វា​កំពុង​ត្រូវ​បាន​បញ្ជូន ។
 security-technical-encrypted-page = ទំព័រ​ដែល​អ្នក​កំពុង​មើល​ត្រូវ​បាន​អ៊ិនគ្រីប​ មុន​ពេល​បញ្ជូន​តាម​អ៊ីនធឺណិត ។
 security-technical-encrypted-description = ការ​ដាក់​លេខ​កូដ​ធ្វើឲ្យ​មាន​ការ​លំបាក​ដល់​អ្នក ដែល​មិន​មាន​សិទ្ធិ​ក្នុង​ការ​មើល​ព័ត៌មាន​ឆ្លងកាត់​រវាង​កុំព្យូទ័រ​នីមួយៗ។ ដូច្នេះ​វា​ប្រាកដ​ណាស់​ថា នឹង​មិន​មាន​អ្នកណា​ម្នាក់​បាន​អាន​ទំព័រ​នេះ​ឡើយ នៅ​ពេល​វា​ធ្វើ​ដំណើរ​ឆ្លងកាត់​បណ្ដាញ​។
 security-technical-mixed-content-description = ភាគច្រើន​នៃ​ទំព័រ​ដែល​អ្នក​កំពុង​មើល​ មិន​ទាន់​ត្រូវ​បាន​អ៊ិនគ្រីប​ទេ មុននឹង​បញ្ជូន​តាម​អ៊ីនធឺណិត ។
@@ -120,6 +124,8 @@ security-site-data-no = ទេ
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = ការ​តភ្ជាប់​មិន​ត្រូវ​បាន​អ៊ិនគ្រីប
 security-technical-mixed-content =
     .value = ការ​តភ្ជាប់​ត្រូវ​បាន​អ៊ិនគ្រីប​ដោយ​ផ្នែក
 

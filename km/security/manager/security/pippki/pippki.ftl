@@ -35,6 +35,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
 download-cert-message = អ្នក​ត្រូវ​បាន​ស្នើ​ឲ្យ​ជឿ​ទុកចិត្ត​លើ​​អាជ្ញាធរ​​វិញ្ញាបនបត្រ​ (CA) ថ្មី ។
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = តើ​អ្នក​ពិតជា​ចង់​ជឿជាក់​លើ "{ $caName }" សម្រាប់​ចម្លើយតប​ដូច​ខាងក្រោម​ឬ ?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = ប្រភព​វិញ្ញាបនបត្រ (គ្មាន​ឈ្មោះ)
 download-cert-trust-ssl =
     .label = ទុកចិត្ត​លើ CA នេះ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ ។
 download-cert-trust-email =
@@ -63,6 +68,7 @@ set-password-reminder = សំខាន់ ៖ ប្រសិនបើ​អ�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = សូម​បញ្ចូល​ពាក្យសម្ងាត់​ដែល​ធ្លាប់​បាន​ប្រើ​សម្រាប់​ដាក់​លេខ​កូដ​ការ​បម្រុងទុក​វិញ្ញាបនបត្រ​នេះ។
 
 ## Protected authentication dialog
 
