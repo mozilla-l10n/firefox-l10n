@@ -8,7 +8,7 @@ about-processes-title = Gestor de processos
 about-processes-column-action =
     .title = Ações
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Remover os separadores da memória e matar o processo

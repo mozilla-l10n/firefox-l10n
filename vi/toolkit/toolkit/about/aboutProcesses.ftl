@@ -8,7 +8,7 @@ about-processes-title = Quản lý tiến trình
 about-processes-column-action =
     .title = Hành động
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Đóng các thẻ và buộc dừng tiến trình

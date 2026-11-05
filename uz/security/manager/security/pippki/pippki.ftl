@@ -81,6 +81,3 @@ set-password-reminder = Muhim: agar siz sertifikat zahira parolini unutsangiz, u
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Ushbu sertifikat zahirasini kodlash uchun foydalanilgan parolni kiriting.
-
-## Protected authentication dialog
-

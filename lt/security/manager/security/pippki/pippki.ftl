@@ -97,6 +97,3 @@ set-password-reminder = Svarbu. Jei pamiršite atsarginės kopijos slaptažodį,
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Surinkite slaptažodį, kuriuo buvo užšifruota šio liudijimo atsarginė kopija:
-
-## Protected authentication dialog
-

@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår ny
 ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Dölj din plats när du surfar. Skapa regler som aktiverar VPN när du vill ha <a data-l10n-name="learn-more-vpn">extra integritet</a> eller surfa utifrån en viss plats, och inaktiverar det när du inte vill det.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Dölj din plats för <a data-l10n-name="learn-more-vpn">ökad integritet</a> när du surfar. Skapa regler som aktiverar VPN för ökad integritet eller platsbaserad surfning och inaktiverar det där det inte behövs.
 ipprotection-feature-introduction-title-captive-portal = På offentligt Wi-Fi? Testa { -brand-product-name }:s inbyggda VPN.
 ipprotection-feature-introduction-description-captive-portal = Surfa med extra skydd genom att dölja din plats, även på offentligt Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Ställ in regler fö
 ipprotection-site-inclusions-callout-title-lapsed-users = Prova inbyggt VPN, nu för enskilda webbplatser
 ipprotection-site-inclusions-callout-description-1 = Aktivera VPN på webbplatser där du vill ha extra integritet eller platsbaserad surfning, och inaktivera det på övriga.
 ipprotection-site-inclusions-callout-description-lapsed-users = Skapa regler som aktiverar VPN när du vill surfa mer privat eller platsbaserat och inaktiverar det när du inte behöver det.
-ipprotection-site-inclusions-callout-description = Aktivera det för webbplatser där du vill ha extra integritet eller surfa utifrån en viss plats, och inaktivera det för övriga.
 ipprotection-site-inclusions-callout-primary-button = Ange regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Inte nu
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorera
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Ta bort regeln för { $website }
     .title = Ta bort
-ip-protection-site-rules-header =
-    .heading = Hantera webbplatsens regler
-ip-protection-site-rules-button =
-    .description = Ange regler för webbplatser som behöver extra sekretess eller VPN avstängt.
-    .label = Hantera webbplatsens regler
 ip-protection-autostart =
     .label = Slå på VPN automatiskt
 ip-protection-autostart-checkbox =

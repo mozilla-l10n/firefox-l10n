@@ -87,6 +87,3 @@ set-password-reminder = ముఖ్యమైనది: మీరు మీ ధ�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = ఈ ధృవీకరణపత్రం బ్యాకప్‌ను ఎన్క్రిప్టు చేయుటకు ఉపయోగించిన సంకేతపదమును ప్రవేశపెట్టుము:
-
-## Protected authentication dialog
-

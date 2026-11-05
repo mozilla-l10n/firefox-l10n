@@ -8,7 +8,7 @@ about-processes-title = Manager de procese
 about-processes-column-action =
     .title = Acțiuni
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Descarcă filele din memorie și închide procesul

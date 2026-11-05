@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Bidra til å skjule plasseringen din mens du surfer. Angi regler for å slå på VPN når du vil ha <a data-l10n-name="learn-more-vpn">ekstra personvern</a> eller stedsbasert surfing, og slå det av når du ikke trenger det.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Bidra til å skjule plasseringen din for <a data-l10n-name="learn-more-vpn">ekstra personvern</a> mens du surfer. Angi regler for å slå på VPN for ekstra personvern eller stedsbasert surfing, og slå det av der du ikke trenger det.
 ipprotection-feature-introduction-title-captive-portal = På offentlig Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra beskyttelse ved å skjule plasseringen din, også på offentlig Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Angi regler for den 
 ipprotection-site-inclusions-callout-title-lapsed-users = Prøv innebygd VPN, nå nettsted for nettsted
 ipprotection-site-inclusions-callout-description-1 = Slå på VPN når du vil ha ekstra personvern eller stedsbasert surfing, og av der du ikke trenger det.
 ipprotection-site-inclusions-callout-description-lapsed-users = Angi regler for å slå på VPN når du ønsker ekstra personvern eller stedsbasert surfing, og av når du ikke ønsker det.
-ipprotection-site-inclusions-callout-description = Slå det på når du vil ha ekstra personvern eller stedsbasert surfing, og av der du ikke trenger det.
 ipprotection-site-inclusions-callout-primary-button = Sett regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ikke nå
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorer
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Slett regelen for { $website }
     .title = Slett
-ip-protection-site-rules-header =
-    .heading = Behandle nettstedsregler
-ip-protection-site-rules-button =
-    .description = Angi regler for nettsteder som trenger ekstra personvern eller VPN slått av.
-    .label = Behandle nettstedsregler
 ip-protection-autostart =
     .label = Slå på VPN automatisk
 ip-protection-autostart-checkbox =

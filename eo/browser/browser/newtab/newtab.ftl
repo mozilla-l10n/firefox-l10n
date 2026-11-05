@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Horloĝo
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Privateco
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Krucvortenigmo
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Financo
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Bildo de la tago
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Serĉi
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoskopo
 home-prefs-mission-message2 =
     .message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Elekti tiun ĉi bildon kiel ekranfonon
     .label = Elekti kiel ekranfonon
     .title = Elekti kiel ekranfonon
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Elekti la bildon de la tago kiel vian ekranfonon
-    .label = Elekti ekranfonon
-    .title = Elekti ekranfonon
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Administri ekranfonon
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Kaŝi tiun ĉi bildon
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Montri bildon
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Kaŝi la bildon de la tago
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Montri la bildon de la tago
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Pli da informo
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Montri bildon
     .title = Montri bildon
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Montri la bildon de la tago
-    .title = Montri la bildon de la tago
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Kontrolu denove morgaŭ por malkovri novan bildon
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = Horoskopo
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Malfermi horoskopan menuon
     .title = Malfermi horoskopan menuon
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Ebloj pri horoskopo
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Pli da informo
 # Context menu item linking to the Yahoo website, the provider of the

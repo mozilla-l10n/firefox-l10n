@@ -28,10 +28,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header2 =
     .label = Klask
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Klask
 home-prefs-firefox-logo-header =
     .label = Logo { -brand-short-name }
 # Variables:

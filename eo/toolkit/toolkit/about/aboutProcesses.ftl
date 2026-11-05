@@ -8,7 +8,7 @@ about-processes-title = Administranto de procezoj
 about-processes-column-action =
     .title = Agoj
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Malŝargi langetojn kaj fini procezon

@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = وورکل پوروفایل نۊ
 fxa-menu-create-profile-learn-more =
     .label = پوروفایل چنه؟
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = یک رسۊوی { -brand-product-name }
-appmenuitem-share-firefox-description = کسؽ ن موکش کۊنین تا گشت گری ن پسند کونه ک هریم سیخومی سیس موهم بۊ
 appmenu-profiles-2 =
     .label = پوروفایلا
 appmenu-profiles-header = پوروفایلا

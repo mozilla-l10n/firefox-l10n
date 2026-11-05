@@ -82,6 +82,3 @@ set-password-reminder = Teeŋtuɗum: So a hettii finnde dannditol  seedamfaagua,
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Tiiɗno naatnu finnde huutoraande nde ngol dannditol seedamfaagu gannetee:
-
-## Protected authentication dialog
-

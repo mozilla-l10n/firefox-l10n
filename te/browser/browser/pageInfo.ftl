@@ -107,7 +107,7 @@ help-button =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = వెబ్ సైటు { $website } మీరు దర్శించుతున్నటువంటి పేజీకొరకు ఎన్క్రిప్షన్ మద్దతునీయదు.
-security-technical-no-encryption-transit = ఎన్క్రిప్షన్ చేయకుండా సమాచారాన్ని అంతర్జాలములో పంపితే అది బదిలీకరించుతున్నప్పుడు వేరే వారిద్వారా చూడబడుతుంది. 
+security-technical-no-encryption-transit = ఎన్క్రిప్షన్ చేయకుండా సమాచారాన్ని అంతర్జాలములో పంపితే అది బదిలీకరించుతున్నప్పుడు వేరే వారిద్వారా చూడబడుతుంది.{ " " }
 security-technical-no-encryption-page = మీరు చూస్తున్న పేజీ అంతర్జాలం ద్వారా బదిలీ కాక మునుపు ఎన్‌క్రిప్ట్ కాలేదు.
 security-technical-encrypted-page = మీరు చూస్తున్న పేజీ అంతర్జాలం ద్వారా బదిలీ అయ్యే ముందే ఎన్‌క్రిప్ట్ అయింది.
 security-technical-encrypted-description = ఎన్క్రిప్షన్ కంప్యూటర్లు మధ్య ప్రయాణించే సమాచారం వీక్షించడానికి అనధికార వ్యక్తులు కష్టతరం చేస్తోంది. ఇది నెట్వర్క్ వ్యాప్తంగా వెళ్లాయి ఎవరైనా ఈ పేజీ చదివే అందువలన అవకాశం ఉంది.

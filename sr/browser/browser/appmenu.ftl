@@ -429,9 +429,6 @@ fxa-menu-create-profile-confirm =
     .label = Направи нови профил
 fxa-menu-create-profile-learn-more =
     .label = Шта су профили?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Подели { -brand-product-name }
-appmenuitem-share-firefox-description = Позовите некога да изабере прегледач којем је приватност на првом месту
 appmenu-profiles-2 =
     .label = Профили
 appmenu-profiles-header = Профили

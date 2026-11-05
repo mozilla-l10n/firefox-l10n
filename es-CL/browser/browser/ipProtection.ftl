@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Utiliza nuestra
 ipprotection-feature-introduction-description-private-browsing = Navega con mayor protección ocultando tu ubicación, incluso cuando estés en una ventana privada.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Ayuda a ocultar tu ubicación mientras navegas. Configura reglas para activar la VPN cuando quieras <a data-l10n-name="learn-more-vpn">mayor privacidad</a> o navegación basada en la ubicación, y desactivarla cuando no.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Ayuda a ocultar tu ubicación para una <a data-l10n-name="learn-more-vpn">mayor privacidad</a> mientras navegas. Configura reglas para activar la VPN para mayor privacidad o navegación basada en la ubicación, y desactívala cuando no la necesites.
 ipprotection-feature-introduction-title-captive-portal = ¿Conectado al Wi-Fi público? Prueba la VPN integrada de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navega con mayor protección ocultando tu ubicación, incluso en redes Wi-Fi públicas.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Establece las reglas
 ipprotection-site-inclusions-callout-title-lapsed-users = Prueba la VPN integrada, ahora sitio por sitio.
 ipprotection-site-inclusions-callout-description-1 = Activa la VPN cuando quieras privacidad adicional o navegación basada en la ubicación, y desactívala donde no quieras.
 ipprotection-site-inclusions-callout-description-lapsed-users = Establece reglas para activar la VPN cuando quieras privacidad adicional o navegación basada en la ubicación, y desactívala cuando no quieras.
-ipprotection-site-inclusions-callout-description = Actívala cuando quieras privacidad adicional o navegación basada en la ubicación, y desactívala donde no quieras.
 ipprotection-site-inclusions-callout-primary-button = Establecer reglas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ahora no
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ocultar
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Borrar la regla para { $website }
     .title = Eliminar
-ip-protection-site-rules-header =
-    .heading = Administrar las reglas del sitio web
-ip-protection-site-rules-button =
-    .description = Establece reglas para los sitios que requieren mayor privacidad o en los que la VPN debe estar desactivada.
-    .label = Administrar las reglas del sitio web
 ip-protection-autostart =
     .label = Activar VPN automáticamente
 ip-protection-autostart-checkbox =

@@ -8,7 +8,7 @@ about-processes-title = Ferlastýring
 about-processes-column-action =
     .title = Aðgerðir
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = Loka flipa

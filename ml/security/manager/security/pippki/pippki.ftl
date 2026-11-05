@@ -70,6 +70,3 @@ set-password-reminder = പ്രധാനപ്പെട്ടതു്: നി
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = ഈ സര്‍ട്ടിഫിക്കറ്റ് ബാക്കപ്പ് എന്‍ക്രിപ്റ്റ് ചെയ്തതിനു് ഉപയോഗിച്ച പാസ്‌വേര്‍ഡ് നല്‍കുക:
-
-## Protected authentication dialog
-

@@ -638,32 +638,3 @@ welcome-back-onboarding-card-label-tabs = Tidy up with vertical tabs and groups
 welcome-back-onboarding-card-label-vpn = Stay hidden with built-in VPN
 welcome-back-onboarding-card-label-pdf = Highlight, sign, and work with PDFs
 welcome-back-onboarding-card-tilebutton-label = Try it
-
-## New Tab Onboarding cards
-hnt-card-import-header = Set up your { -brand-short-name } in seconds
-hnt-card-import-body = Bring in your bookmarks, passwords, and more from another browser.
-hnt-card-import-primary-button = Import your data
-hnt-card-default-body = { -brand-product-name } is the only major browser built to protect you, not track you.
-hnt-card-default-primary-button = Open links with { -brand-short-name }
-hnt-card-pin-header = Keep { -brand-short-name } a click away
-hnt-card-pin-body =
-    { PLATFORM() ->
-        [macos] Jump back in to protected browsing from your dock.
-       *[other] Jump back in to protected browsing from your taskbar.
-    }
-hnt-card-mobile-header = Get built-in protection on your phone
-hnt-card-mobile-body = Download { -brand-product-name } for mobile for extra privacy on the go.
-hnt-card-mobile-primary-button = Get { -brand-product-name } for mobile.
-hnt-card-wallpaper-header = Pick a fresh wallpaper
-hnt-card-wallpaper-body = Make this screen feel like home with a background you love.
-hnt-card-wallpaper-primary-button = Start customizing
-hnt-card-taskbar-tabs-header = Add your favourite sites to your Windows taskbar
-hnt-card-taskbar-tabs-body = Open your most visited sites like an app with all of { -brand-product-name }’s protections.
-hnt-card-taskbar-tabs-primary-button = Add sites to taskbar
-hnt-card-extensions-header = Boost { -brand-short-name } with extensions
-hnt-card-extensions-body = Customize your browsing with our most loved extensions.
-hnt-card-extensions-primary-button = Explore
-# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
-# rather than simply doing what everyone else does.
-hnt-card-last-card-header-start = All set. Go do your thing.
-hnt-card-last-card-header-end = Tracking protection is on.

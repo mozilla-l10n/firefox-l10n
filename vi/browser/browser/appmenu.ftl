@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Tạo hồ sơ mới
 fxa-menu-create-profile-learn-more =
     .label = Hồ sơ là gì?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Chia sẻ { -brand-product-name }
-appmenuitem-share-firefox-description = Hãy mời ai đó sử dụng trình duyệt ưu tiên quyền riêng tư
 appmenu-profiles-2 =
     .label = Hồ sơ người dùng
 appmenu-profiles-header = Hồ sơ

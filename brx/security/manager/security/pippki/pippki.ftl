@@ -56,9 +56,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = चार्टिफिकेट बेकआप पासवार्ड (फिन):
 set-password-reminder = गोनांथार: नोंथाङा नोंथांनि सार्टिफिकेट बेकआप पासवार्डखौ बावयोब्ला नोंथाङा बे बेकआपखौ उनाव लाबोफिननो हानाय नङा। अननानै बेखौ मोनसे रैखाथि जायगायाव रेकर्ड खालाम।
-
-## Certificate backup import prompt
-
-
-## Protected authentication dialog
-

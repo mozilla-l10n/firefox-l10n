@@ -269,11 +269,6 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sitios web
         }
     .label = Administrar configuración del sitio web
-ip-protection-site-rules-header =
-    .heading = Administrar las reglas del sitio web
-ip-protection-site-rules-button =
-    .description = Establecer reglas para los sitios que requieren mayor privacidad o en los que la VPN debe estar desactivada.
-    .label = Administrar las reglas del sitio web
 ip-protection-autostart =
     .label = Activar la VPN automáticamente
 ip-protection-autostart-checkbox =

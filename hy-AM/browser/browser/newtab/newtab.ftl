@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ժամացույց
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Գաղտնիություն
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Խաչբառ
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Ֆինանսներ
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Օրվա նկարը
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Որոնում
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Հորոսկոպներ
 home-prefs-mission-message2 =
     .message = Մեր հովանավորները աջակցում են մեր առաքելությանը՝ ստեղծել ավելի լավ կայք։
 home-prefs-manage-topics-link2 =
@@ -444,33 +425,18 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = Բացել օրվա նկարի ընտրացանկը
     .title = Բացել օրվա նկարի ընտրացանկը
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Սահմանեք այսօրվա նկարը որպես ձեր պաստառ
-    .label = Կայել պաստառ
-    .title = Կայել պաստառ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Կառավարել պաստառը
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Թաքցնել այս նկարը
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Ցուցադրել նկարը
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Թաքցնել այսօրվա նկարը
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Ցուցադրել այսօրվա նկարը
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Իմանալ ավելին
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Ցուցադրել նկարը
     .title = Ցուցադրել նկարը
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Ցուցադրել այսօրվա նկարը
-    .title = Ցուցադրել այսօրվա նկարը
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Վաղը նորից ստուգեք նոր նկարի համար
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -520,9 +486,6 @@ newtab-horoscopes-widget-title = Հորոսկոպներ
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Բացել հորոսկոպների ցանկը
     .title = Բացել հորոսկոպների ցանկը
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Հորոսկոպի տարբերակներ
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Իմանալ ավելին
 # Context menu item linking to the Yahoo website, the provider of the

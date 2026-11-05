@@ -37,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Bạn có kế hoạch du
 ipprotection-feature-introduction-description-summer-promo = Mở rộng phạm vi phủ sóng với VPN tích hợp sẵn của { -brand-product-name }: nhiều địa điểm hơn, băng thông không giới hạn. Áp dụng từ nay đến hết ngày 31 tháng 8.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-description-private-browsing = Duyệt web với tính năng bảo mật cao hơn bằng cách ẩn vị trí của bạn, ngay cả khi bạn đang ở chế độ riêng tư.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Giúp ẩn vị trí của bạn để có thêm <a data-l10n-name="learn-more-vpn">quyền riêng tư</a> khi duyệt web. Thiết lập các quy tắc để bật VPN khi cần thêm quyền riêng tư hoặc duyệt web dựa trên vị trí, và tắt ở những nơi bạn không cần.
 ipprotection-feature-introduction-title-captive-portal = Dùng Wi-Fi công cộng? Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 ipprotection-feature-introduction-description-captive-portal = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí, ngay cả khi sử dụng Wi-Fi công cộng.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -115,7 +113,6 @@ ipprotection-android-promo-callout-primary-button = Đã hiểu
 ipprotection-site-inclusions-callout-title-existing-users = Thiết lập các quy tắc VPN tích hợp sẵn, sau đó duyệt web
 ipprotection-site-inclusions-callout-title-lapsed-users = Thử VPN tích hợp, giờ đây theo từng trang web
 ipprotection-site-inclusions-callout-description-1 = Bật VPN khi bạn muốn có thêm sự riêng tư hoặc duyệt web dựa trên vị trí, và tắt nó khi không cần thiết.
-ipprotection-site-inclusions-callout-description = Bật tính năng này khi bạn muốn có thêm sự riêng tư hoặc duyệt web dựa trên vị trí, và tắt nó khi bạn không cần.
 ipprotection-site-inclusions-callout-primary-button = Thiết lập quy tắc
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Để sau
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Bỏ qua
@@ -323,11 +320,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Xóa quy tắc cho { $website }
     .title = Xóa
-ip-protection-site-rules-header =
-    .heading = Quản lý quy tắc trang web
-ip-protection-site-rules-button =
-    .description = Đặt quy tắc cho các trang web cần bảo mật cao hơn hoặc tắt VPN.
-    .label = Quản lý quy tắc trang web
 ip-protection-autostart =
     .label = Tự động bật VPN
 ip-protection-autostart-checkbox =

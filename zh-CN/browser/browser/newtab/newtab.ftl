@@ -83,15 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = 时钟
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = 隐私保护
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = 填字游戏
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = 每日一图
 home-prefs-mission-message2 =
     .message = 建设一个更好的互联网的使命，离不开我们赞助商的支持。
 home-prefs-manage-topics-link2 =
@@ -402,25 +393,10 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = 打开每日一图菜单
     .title = 打开每日一图菜单
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = 将今日图片设置为壁纸
-    .label = 设为壁纸
-    .title = 设为壁纸
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理壁纸
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = 隐藏今日图片
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = 显示今日图片
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 详细了解
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = 显示今日图片
-    .title = 显示今日图片
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = 明天再来看看有没有新照片吧
 # Screen-reader text alternative for the picture; fallback used when the source

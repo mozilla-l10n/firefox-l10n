@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Brûk ús nije 
 ipprotection-feature-introduction-description-private-browsing = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels as jo in priveefinster brûke.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Help jo lokaasje te ferbergjen wylst jo sneupe. Stel regels yn om VPN yn te skeakeljen as jo <a data-l10n-name="learn-more-vpn">ekstra privacy</a> of lokaasje-basearre blêdzjen wolle, en út te skeakeljen as jo dat net wolle.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Help jo lokaasje te ferbergjen foar <a data-l10n-name="learn-more-vpn">ekstra privacy</a> wylst jo sneupe. Stel regels yn om de VPN yn te skeakeljen foar ekstra privacy of lokaasje-basearre navigearjen, en út te skeakeljen wêr’t jo dat net dogge.
 ipprotection-feature-introduction-title-captive-portal = Brûke jo iepenbiere wifi? Probearje de ynboude VPN fan { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels op iepenbiere wifi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Stel ynboude VPN-reg
 ipprotection-site-inclusions-callout-title-lapsed-users = Probearje de ynboude VPN, no per website
 ipprotection-site-inclusions-callout-description-1 = Skeakelje VPN yn as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
 ipprotection-site-inclusions-callout-description-lapsed-users = Stel regels yn om VPN yn te skeakeljen as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
-ipprotection-site-inclusions-callout-description = Skeakelje it yn as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
 ipprotection-site-inclusions-callout-primary-button = Regels ynstelle
 ipprotection-site-inclusions-callout-secondary-button-existing-users = No net
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Slute
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = De regel foar { $website } fuortsmite
     .title = Fuortsmite
-ip-protection-site-rules-header =
-    .heading = Websiteregels beheare
-ip-protection-site-rules-button =
-    .description = Regels ynstelle foar websites dy’t ekstra privacy nedich hawwe of VPN útskeakele wêze moat.
-    .label = Websiteregels beheare
 ip-protection-autostart =
     .label = VPN automatysk ynskeakelje
 ip-protection-autostart-checkbox =

@@ -109,6 +109,3 @@ set-password-reminder = E rëndësishme: Nëse harroni fjalëkalim kopjeruajtjej
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Ju lutemi, jepni fjalëkalimin që qe përdorur për fshehtëzimin e kësaj kopjeruajtjeje dëshmie:
-
-## Protected authentication dialog
-

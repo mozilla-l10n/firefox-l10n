@@ -8,7 +8,7 @@ about-processes-title = Procesowy zastojnik
 about-processes-column-action =
     .title = Akcije
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Rejtariki wuwólniś a proces znicyś

@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Wužywajśo na�
 ipprotection-feature-introduction-description-private-browsing = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo gaby wy był w priwatnem woknje.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Schowajśo swójo stojnišćo, gaž pśeglědujośo. Póstajśo pšawidła, aby VPN zmóžnił, gaž <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> abo na stojnišću bazěrujuce pśeglědowanje cośo, abo znjemóžnił, gaž to njecyniśo.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Pomagajśo, wašo stojnišćo za <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> schowaś, gaž pśeglědujośo. Nastajśo pšawidła, aby VPN za pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje zmóžnił, abo znjemóžnił, gaž jen njetrjebaśo.
 ipprotection-feature-introduction-title-captive-portal = W zjawnem WLAN? Wopytajśo zatwarjony VPN { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo w zjawnem WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Nastajśo pšawidła
 ipprotection-site-inclusions-callout-title-lapsed-users = Testujśo zatwarjony VPN, něnto sedło pó sedle
 ipprotection-site-inclusions-callout-description-1 = Zmóžniśo VPN, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, źož jen njetrjebaśo.
 ipprotection-site-inclusions-callout-description-lapsed-users = Póstajśo pšawidła, aby VPN zmóžnił, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, gaž jen njetrjebaśo.
-ipprotection-site-inclusions-callout-description = Zmóžniśo jen, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, źož jen njetrjebaśo.
 ipprotection-site-inclusions-callout-primary-button = Pšawidła póstajiś
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic něnto
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zachyśiś
@@ -334,11 +331,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Pšawidło za { $website } lašowaś
     .title = Lašowaś
-ip-protection-site-rules-header =
-    .heading = Pšawidła websedła zastojaś
-ip-protection-site-rules-button =
-    .description = Nastajśo pšawidła za websedła, kótarež pśidatnu priwatnosć abo znjemóžnjony VPN trjebaju.
-    .label = Pšawidła websedła zastojaś
 ip-protection-autostart =
     .label = VPN awtomatiski zmóžniś
 ip-protection-autostart-checkbox =

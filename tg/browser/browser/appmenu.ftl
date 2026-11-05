@@ -385,8 +385,6 @@ fxa-menu-create-profile-subpanel =
     .title = Эҷод кардани профили нав
 fxa-menu-create-profile-confirm =
     .label = Эҷод кардани профили нав
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Мубодила кардани «{ -brand-product-name }»
 appmenu-profiles-2 =
     .label = Профилҳо
 appmenu-profiles-header = Профилҳо

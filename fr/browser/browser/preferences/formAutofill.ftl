@@ -132,10 +132,6 @@ autofill-card-security-code-optional-2 =
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =
     .label = Cryptogramme visuel (facultatif)
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code =
-    .label = Cryptogramme visuel
 autofill-card-name-on-card = Titulaire
 autofill-card-expires-month = Mois d’expiration
 autofill-card-expires-year = Année d’expiration

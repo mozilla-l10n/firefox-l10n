@@ -372,8 +372,6 @@ fxa-menu-create-profile-confirm =
     .label = Створити новий профіль
 fxa-menu-create-profile-learn-more =
     .label = Що таке профілі?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Поширити { -brand-product-name }
 appmenu-profiles-2 =
     .label = Профілі
 appmenu-profiles-header = Профілі

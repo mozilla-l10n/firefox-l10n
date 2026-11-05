@@ -8,7 +8,7 @@ about-processes-title = Správce procesů
 about-processes-column-action =
     .title = Akce
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Zrušit načtení panelů a zabít proces

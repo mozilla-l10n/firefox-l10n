@@ -8,7 +8,7 @@ about-processes-title = مدير العمليات
 about-processes-column-action =
     .title = الإجراءات
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = ألغِ تحميل الألسنة واقتل العملية

@@ -378,9 +378,6 @@ appmenu-create-profile =
     .label = Nýtt notkunarsnið
 appmenu-edit-profile =
     .aria-label = Breyta notkunarsniði
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Deila { -brand-product-name }
-appmenuitem-share-firefox-description = Bjóddu einhverjum að velja vafrann sem setur friðhelgi einkalífsins í fyrsta sæti
 appmenu-profiles-2 =
     .label = Notkunarsnið
 appmenu-profiles-header = Notkunarsnið

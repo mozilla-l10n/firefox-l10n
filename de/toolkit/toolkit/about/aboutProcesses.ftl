@@ -8,7 +8,7 @@ about-processes-title = Prozessverwaltung
 about-processes-column-action =
     .title = Aktionen
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Tabs entladen und Prozess beenden

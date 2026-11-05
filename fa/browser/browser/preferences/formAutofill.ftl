@@ -122,10 +122,6 @@ autofill-card-expires-year-2 =
     .label = سال انقضا
 autofill-card-billing-address-2 =
     .label = آدرس صورت‌حساب
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code =
-    .label = CVV
 autofill-card-name-on-card = نام روی کارت
 autofill-card-expires-month = ماه انقضا
 autofill-card-expires-year = سال انقضا

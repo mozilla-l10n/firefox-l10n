@@ -8,7 +8,7 @@ about-processes-title = Prosesbehearder
 about-processes-column-action =
     .title = Aksjes
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Ljepblêden leechmeitsje en proses beëinigje

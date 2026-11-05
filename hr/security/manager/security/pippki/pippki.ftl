@@ -109,6 +109,3 @@ set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije c
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Molim upišite lozinku s kojom je šifrirana sigurnosna kopija ovog certifikata:
-
-## Protected authentication dialog
-

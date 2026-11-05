@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Жаңа профильді жасау
 fxa-menu-create-profile-learn-more =
     .label = Профильдер дегеніміз не?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = { -brand-product-name } бөлісу
-appmenuitem-share-firefox-description = Жекелікті бірінші орынға қоятын браузерді таңдауға біреуді шақырыңыз
 appmenu-profiles-2 =
     .label = Профильдер
 appmenu-profiles-header = Профильдер

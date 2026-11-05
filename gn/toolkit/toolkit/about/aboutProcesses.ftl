@@ -8,7 +8,7 @@ about-processes-title = Tapereko Mboguatahára
 about-processes-column-action =
     .title = Ñemongu’e
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Emboguejy tendayke ha ejapopa tapereko

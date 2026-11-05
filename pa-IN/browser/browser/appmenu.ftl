@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
 fxa-menu-create-profile-learn-more =
     .label = ਪਰੋਫ਼ਾਈਲ ਕੀ ਹੁੰਦੇ ਹਨ?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = { -brand-product-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
-appmenuitem-share-firefox-description = ਹੋਰਾਂ ਨੂੰ ਉਹ ਬਰਾਊਜ਼ਰ ਚੁਣਨ ਲਈ ਸੱਦਾ ਦਿਓ, ਜੋ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸਭ ਤੋਂ ਅੱਗੇ ਰੱਖਦਾ ਹੈ।
 appmenu-profiles-2 =
     .label = ਪਰੋਫਾਇਲ
 appmenu-profiles-header = ਪਰੋਫ਼ਾਈਲ

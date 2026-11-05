@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Kello
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Yksityisyys
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Ristisanatehtävä
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Talous
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Päivän kuva
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Haku
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoskoopit
 home-prefs-mission-message2 =
     .message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä.
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Aseta tämä kuva taustakuvaksi
     .label = Aseta taustakuvaksi
     .title = Aseta taustakuvaksi
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Aseta tämän päivän kuva taustakuvaksi
-    .label = Aseta taustakuva
-    .title = Aseta taustakuva
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Hallitse taustakuvaa
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Piilota tämä kuva
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Näytä kuva
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Piilota tämän päivän kuva
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Näytä tämän päivän kuva
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Lue lisää
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Näytä kuva
     .title = Näytä kuva
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Näytä tämän päivän kuva
-    .title = Näytä tämän päivän kuva
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Palaa huomenna uuden kuvan luokse
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = Horoskoopit
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Avaa horoskooppivalikko
     .title = Avaa horoskooppivalikko
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Horoskooppien asetukset
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Lue lisää
 

@@ -269,11 +269,6 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } verkkosivustoa
         }
     .label = Hallitse verkkosivuston asetuksia
-ip-protection-site-rules-header =
-    .heading = Hallinnoi verkkosivuston sääntöjä
-ip-protection-site-rules-button =
-    .description = Aseta säännöt sivustoille, jotka tarvitsevat lisäyksityisyyttä tai VPN:n pois päältä.
-    .label = Hallinnoi verkkosivuston sääntöjä
 ip-protection-autostart =
     .label = Ota VPN käyttöön automaattisesti
 ip-protection-autostart-checkbox =

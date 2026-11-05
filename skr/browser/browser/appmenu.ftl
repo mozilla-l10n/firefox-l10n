@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = نواں پروفائل بݨاؤ
 fxa-menu-create-profile-learn-more =
     .label = پروفائلز کیا ہن؟
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = { -brand-product-name } شیئر کرو
-appmenuitem-share-firefox-description = کسے کوں او براؤزر چݨݨ دی دعوت ݙیو جیڑھا پرائیویسی کوں پہلے رکھیندا ہے
 appmenu-profiles-2 =
     .label = پروفائلاں
 appmenu-profiles-header = پروفائلاں

@@ -8,7 +8,7 @@ about-processes-title = Xestor de procesos
 about-processes-column-action =
     .title = Accións
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Descargar lapelas e matar procesos

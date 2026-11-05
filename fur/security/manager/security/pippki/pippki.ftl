@@ -109,6 +109,3 @@ set-password-reminder = Impuartant: Se tu vessis di dismenteâ la tô password d
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Par plasê inserìs la password che e je stade doprade par cifrâ la copie di backup di chest certificât:
-
-## Protected authentication dialog
-

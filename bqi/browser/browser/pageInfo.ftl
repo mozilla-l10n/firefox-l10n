@@ -108,12 +108,6 @@ security-site-data-no = ن
 security-technical-no-encryption =
     .value = منپیز رزم ناهاڌه نؽ
 
-## Variables:
-##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
-##   $keySize (number) - The size of the encryption key in bits
-##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
-
-
 ##
 
 image-size-unknown = نشناخته

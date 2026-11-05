@@ -8,7 +8,7 @@ about-processes-title = Upravljač procesa
 about-processes-column-action =
     .title = Radnje
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Isključi kartice i prekini proces

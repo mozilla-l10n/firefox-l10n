@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Yeni profil oluştur
 fxa-menu-create-profile-learn-more =
     .label = Profil nedir?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = { -brand-product-name } tarayıcısını paylaş
-appmenuitem-share-firefox-description = Gizliliği ön planda tutan tarayıcıyı arkadaşlarınıza önerin
 appmenu-profiles-2 =
     .label = Profiller
 appmenu-profiles-header = Profiller

@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Feu servir la n
 ipprotection-feature-introduction-description-private-browsing = Navegueu amb protecció addicional amagant la vostra ubicació, fins i tot des d'una finestra privada.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Ajudeu a amagar la vostra ubicació mentre navegueu. Definiu regles per activar la VPN quan vulgueu <a data-l10n-name="learn-more-vpn">més privadesa</a> o navegar segons la ubicació, i per desactivar-la quan no.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Ajudeu a amagar la vostra ubicació per tenir <a data-l10n-name="learn-more-vpn">més privadesa</a> mentre navegueu. Definiu regles per activar la VPN quan vulgueu més privadesa o navegar segons la ubicació, i per desactivar-la quan no.
 ipprotection-feature-introduction-title-captive-portal = En una Wi-Fi pública? Proveu la VPN integrada del { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navegueu amb protecció addicional amagant la ubicació, fins i tot en xarxes Wi-Fi públiques.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Definiu les regles d
 ipprotection-site-inclusions-callout-title-lapsed-users = Proveu la VPN integrada, ara lloc per lloc
 ipprotection-site-inclusions-callout-description-1 = Activeu la VPN quan vulgueu més privadesa o navegar segons la ubicació, i desactiveu-la quan no.
 ipprotection-site-inclusions-callout-description-lapsed-users = Definiu regles per activar la VPN quan vulgueu més privadesa o navegar segons la ubicació, i per desactivar-la quan no.
-ipprotection-site-inclusions-callout-description = Activeu-la quan vulgueu més privadesa o navegar segons la ubicació, i desactiveu-la quan no.
 ipprotection-site-inclusions-callout-primary-button = Defineix regles
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ara no
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Descarta
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Suprimeix la regla de { $website }
     .title = Suprimeix
-ip-protection-site-rules-header =
-    .heading = Gestioneu les regles del lloc web
-ip-protection-site-rules-button =
-    .description = Establiu regles per als llocs que necessitin privadesa addicional o la VPN desactivada.
-    .label = Gestioneu les regles del lloc web
 ip-protection-autostart =
     .label = Activa la VPN automàticament
 ip-protection-autostart-checkbox =

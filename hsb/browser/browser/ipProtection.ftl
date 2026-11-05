@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće na�
 ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Schowajće swoje stejnišćo, hdyž přehladujeće. Postajće prawidła, zo byšće VPN zmóžnił, hdyž <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> abo na stejnišću bazowace přehladowanje chceće, abo znjemóžnił, hdyž to nječiniće.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Pomhajće, waše stejnišćo za <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> schować, hdyž přehladujeće. Postajće prawidła, zo byšće VPN za přidatnu priwatnosć abo na stejnišću bazowane přehladowanje zmóžnił, a znjemóžnił, hdyž jón njetrjebaće.
 ipprotection-feature-introduction-title-captive-portal = W zjawnym WLAN? Wupruwujće zatwarjeny VPN { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo w zjawnym WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Nastajće prawidła 
 ipprotection-site-inclusions-callout-title-lapsed-users = Testujće zatwarjeny VPN, nětko sydło po sydle
 ipprotection-site-inclusions-callout-description-1 = Zmóžńće VPN, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdźež jón njetrjebaće.
 ipprotection-site-inclusions-callout-description-lapsed-users = Postajće prawidła, zo byšće VPN zmóžnił, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdyž jón njetrjebaće.
-ipprotection-site-inclusions-callout-description = Zmóžńće jón, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdźež jón njetrjebaće.
 ipprotection-site-inclusions-callout-primary-button = Prawidła postajić
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic nětko
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zaćisnyć
@@ -334,11 +331,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Prawidło za { $website } zhašeć
     .title = Zhašeć
-ip-protection-site-rules-header =
-    .heading = Prawidła websydła rjadować
-ip-protection-site-rules-button =
-    .description = Nastajće prawidła za websydła, kotrež přidatnu priwatnosć abo znjemóžnjeny VPN trjebaja.
-    .label = Prawidła websydła rjadować
 ip-protection-autostart =
     .label = VPN awtomatisce zmóžnić
 ip-protection-autostart-checkbox =

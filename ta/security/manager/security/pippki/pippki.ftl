@@ -82,6 +82,3 @@ set-password-reminder = முக்கியம்: உங்கள் சா�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = காப்பு சான்றிதழை மறைகுறியாக்க பயன்படுத்தப்பட்ட கடவுச்சொல்லை உள்ளிடவும்:
-
-## Protected authentication dialog
-

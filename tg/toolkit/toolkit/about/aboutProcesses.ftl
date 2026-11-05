@@ -8,7 +8,7 @@ about-processes-title = Мудири равандҳо
 about-processes-column-action =
     .title = Амалҳо
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Холӣ кардани варақаҳо ва қатъ кардани равандҳо

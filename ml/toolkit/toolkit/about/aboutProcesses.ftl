@@ -8,7 +8,7 @@ about-processes-title = നടപടി മാനേജർ
 about-processes-column-action =
     .title = നടപടികൾ
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = ടാബുകളെ ഇറക്കിയിട്ടു് നടപടിയെ നിൎത്തുന്നു

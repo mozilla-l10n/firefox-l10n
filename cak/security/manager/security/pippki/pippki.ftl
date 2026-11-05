@@ -97,6 +97,3 @@ set-password-reminder = K'atzinel: We namestaj ri ewan rutzij ruto'öy ruwujil a
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Tab'ana' utzil tatz'ib'aj ri ewan tzij, ri xokisäx richin xewäx rusik'ixik re to'onel ruwachib'al ruwujil b'i'aj:
-
-## Protected authentication dialog
-

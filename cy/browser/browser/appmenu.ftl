@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Creu Proffil Newydd
 fxa-menu-create-profile-learn-more =
     .label = Beth yw Proffiliau?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Rhannu { -brand-product-name }
-appmenuitem-share-firefox-description = Gwahoddwch rywun i ddewis y porwr sy'n blaenoriaethu preifatrwydd
 appmenu-profiles-2 =
     .label = Proffiliau
 appmenu-profiles-header = Proffiliau

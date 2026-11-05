@@ -83,6 +83,3 @@ set-password-reminder = Svarīgi: ja šī parole tiks aizmirsta, nebūs iespēja
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Lūgums ievadīt paroli, kas tika izmantota, lai šifrētu šo sertifikāta dublējumu:
-
-## Protected authentication dialog
-

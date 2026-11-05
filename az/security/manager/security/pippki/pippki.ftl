@@ -82,6 +82,3 @@ set-password-reminder = Vacib: Əgər təsdiq sənədi yedəyi parolunuzu unutsa
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Lütfən bu sertifikatın yedəyini şifrələmək üçün istifadə ediləcək parolu daxil edin:
-
-## Protected authentication dialog
-

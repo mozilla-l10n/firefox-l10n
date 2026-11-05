@@ -82,6 +82,3 @@ set-password-reminder = Sa ña'āanj: Si sā gini'ñunt si da'ngà' huì si sert
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Gi'iaj 'ngo sunnuj ni, gachrun da'nga' hùi garajsunt nga na'nin sà't si nuguàn' sertifikadô nan:
-
-## Protected authentication dialog
-

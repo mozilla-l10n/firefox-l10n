@@ -82,6 +82,3 @@ set-password-reminder = Belangrik: Indien u u sertifikaat-rugsteunwagwoord verge
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Tik die wagwoord in wat gebruik is om hierdie sertifikaatrugsteun mee te enkripteer:
-
-## Protected authentication dialog
-

@@ -69,6 +69,3 @@ set-password-reminder = សំខាន់ ៖ ប្រសិនបើ​អ�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = សូម​បញ្ចូល​ពាក្យសម្ងាត់​ដែល​ធ្លាប់​បាន​ប្រើ​សម្រាប់​ដាក់​លេខ​កូដ​ការ​បម្រុងទុក​វិញ្ញាបនបត្រ​នេះ។
-
-## Protected authentication dialog
-

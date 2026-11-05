@@ -8,7 +8,7 @@ about-processes-title = Menedżer procesów
 about-processes-column-action =
     .title = Działania
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Usuń karty z pamięci i wymuś zakończenie procesu

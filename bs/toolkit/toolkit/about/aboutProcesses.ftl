@@ -8,7 +8,7 @@ about-processes-title = Menadžer procesa
 about-processes-column-action =
     .title = Radnje
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Isprazni tabove i prekini proces

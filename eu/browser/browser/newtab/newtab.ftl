@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Erlojua
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Pribatutasuna
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Gurutzegrama
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Finantza
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Eguneko argazkia
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Bilaketa
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoskopoak
 home-prefs-mission-message2 =
     .message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte.
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Ezarri irudi hau zure horma-paper gisa
     .label = Ezarri horma-papera
     .title = Ezarri horma-papera
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Ezarri gaurko irudia zure horma-paper gisa
-    .label = Ezarri horma-papera
-    .title = Ezarri horma-papera
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Kudeatu horma-papera
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Ezkutatu irudi hau
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Erakutsi irudia
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Ezkutatu gaurko irudia
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Erakutsi gaurko irudia
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Argibide gehiago
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Erakutsi irudia
     .title = Erakutsi irudia
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Erakutsi gaurko irudia
-    .title = Erakutsi gaurko irudia
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Itzuli bihar argazki berri bat ikusteko
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = Horoskopoak
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Ireki horoskopoaren menua
     .title = Ireki horoskopoaren menua
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Horoskopoaren aukerak
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Argibide gehiago
 # Context menu item linking to the Yahoo website, the provider of the

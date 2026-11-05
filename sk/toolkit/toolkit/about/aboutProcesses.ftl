@@ -8,7 +8,7 @@ about-processes-title = Správca procesov
 about-processes-column-action =
     .title = Akcie
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Zavrieť karty a zrušiť proces

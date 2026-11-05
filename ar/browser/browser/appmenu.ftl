@@ -409,7 +409,6 @@ fxa-menu-create-profile-confirm =
     .label = أنشِئ ملفًا شخصيًا
 fxa-menu-create-profile-learn-more =
     .label = ما هي الملفات الشخصية؟
-appmenuitem-share-firefox-description = ادعُ شخصًا ما لاختيار المتصفح الذي يضع الخصوصية في المقام الأول
 appmenu-profiles-2 =
     .label = ملفات تعريف
 appmenu-profiles-header = ملفات شخصية

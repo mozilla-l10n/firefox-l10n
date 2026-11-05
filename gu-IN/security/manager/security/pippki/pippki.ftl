@@ -86,6 +86,3 @@ set-password-reminder =
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = મહેરબાની કરીને પાસવર્ડ દાખલ કરો કે જે આ પ્રમાણપત્ર બૅકઅપ એનક્રિપ્ટ કરવા માટે વાપરવામાં આવ્યું હતું:
-
-## Protected authentication dialog
-

@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = ایجاد نمایهٔ جدید
 fxa-menu-create-profile-learn-more =
     .label = نمایه چیست؟
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = معرفی { -brand-product-name } به دیگران
-appmenuitem-share-firefox-description = دیگران را به استفاده از مرورگری که حریم خصوصی را در اولویت قرار می‌دهد دعوت کنید
 appmenu-profiles-2 =
     .label = نمایه‌ها
 appmenu-profiles-header = نمایه‌ها

@@ -107,25 +107,12 @@ security-technical-encrypted-page = तपाईँले हेरिरहन�
 security-technical-encrypted-description = गुप्तीकरणले अनधिकृत मान्छेहरूलाई कम्प्युटरहरूका बीच हुने जानकारीको आदान-प्रदान हेर्न अप्ठ्यारो पार्छ। त्यसैले यो पृष्ठलाई सञ्जाल वरपर कसैले पढ्ने धेरै सम्भावना छैन।
 security-technical-mixed-content-description = तपाईँले हेरिरहनु भएको पृष्ठको भागहरू इन्टरनेट माथि संचारित हुनुभन्दा पहिले गुप्तिकृत गरिएको थिएन।
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ## These strings are used in the Technical Details section of the security tab
 
 security-technical-no-encryption =
     .value = जडान गोप्य छैन
 security-technical-mixed-content =
     .value = जडान आंशिक रूपमा गुप्तिकरण गरियो
-
-## Variables:
-##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
-##   $keySize (number) - The size of the encryption key in bits
-##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
-
 
 ##
 

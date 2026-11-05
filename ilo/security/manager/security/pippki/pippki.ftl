@@ -41,9 +41,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Kontrasenias ti pannakatipon ti sertipiko (manen):
 set-password-reminder = Importante: No malipatanyo ti kontrasenias ti pannakatipon ti sertipiko, saanyonto a maipulang daytoy a pannakatipon intuno madamdama. Pagsuratanyo man ti natalged a disso.
-
-## Certificate backup import prompt
-
-
-## Protected authentication dialog
-

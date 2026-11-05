@@ -8,7 +8,7 @@ about-processes-title = Управник процеса
 about-processes-column-action =
     .title = Радње
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Затвори језичке и окончај процесе

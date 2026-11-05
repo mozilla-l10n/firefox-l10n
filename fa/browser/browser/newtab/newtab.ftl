@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = ساعت
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = حریم خصوصی
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = جدول کلمات
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = مالی
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = تصویر روز
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = جست‌وجو
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = طالع‌بینی
 home-prefs-mission-message2 =
     .message = حامیان مالی ما از مأموریت ما برای ساخت وبی بهتر پشتیبانی می‌کنند.
 home-prefs-manage-topics-link2 =
@@ -475,25 +456,10 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = باز کردن منوی تصویر روز
     .title = باز کردن منوی تصویر روز
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = تنظیم تصویر امروز به عنوان پس‌زمینه
-    .label = تنظیم به عنوان پس‌زمینه
-    .title = تنظیم به عنوان پس‌زمینه
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = مدیریت پس‌زمینه
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = مخفی کردن تصویر امروز
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = نمایش تصویر امروز
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = بیشتر بدانید
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = نمایش تصویر امروز
-    .title = نمایش تصویر امروز
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = فردا برای دیدن تصویر جدید دوباره سر بزنید
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -538,9 +504,6 @@ newtab-recent-searches-empty-trending = جست‌وجوهای پرطرفدار �
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = طالع‌بینی
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = گزینه‌های طالع‌بینی
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = بیشتر بدانید
 

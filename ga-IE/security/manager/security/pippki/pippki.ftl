@@ -82,6 +82,3 @@ set-password-reminder = Tábhachtach: má dhéanann tú dearmad ar an bhfocal fa
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Cuir isteach an focal faire a d'úsáid tú chun an cúlra teastais seo a chriptiú:
-
-## Protected authentication dialog
-

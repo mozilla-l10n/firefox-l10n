@@ -38,8 +38,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להש
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = סיוע בהסתרת המיקום שלך בזמן הגלישה. הגדרת כללים להפעלת VPN כשרוצים <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> או גלישה מבוססת מיקום, וכיבוי ה־VPN כשאין בו צורך.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = ניתן להסתיר את המיקום שלך לקבלת <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> תוך כדי הגלישה. אפשר להגדיר כללים להפעלת ה־VPN לקבלת פרטיות מוגברת או לגלישה מבוססת מיקום, ולהשאיר אותו כבוי במקומות שבהם אין בו צורך.
 ipprotection-feature-introduction-title-captive-portal = התחברת ל־Wi-Fi ציבורי? ניתן לנסות את ה־VPN המובנה של { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -117,7 +115,6 @@ ipprotection-site-inclusions-callout-title-existing-users = הגדרת כללי�
 ipprotection-site-inclusions-callout-title-lapsed-users = כדאי לנסות את ה־VPN המובנה, עכשיו לפי אתר
 ipprotection-site-inclusions-callout-description-1 = ניתן להפעיל את ה־VPN כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
 ipprotection-site-inclusions-callout-description-lapsed-users = ניתן להגדיר כללים כדי להפעיל את ה־VPN כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
-ipprotection-site-inclusions-callout-description = ניתן להפעיל אותו כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
 ipprotection-site-inclusions-callout-primary-button = הגדרת כללים
 ipprotection-site-inclusions-callout-secondary-button-existing-users = לא כעת
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = סגירה
@@ -331,11 +328,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = מחיקת הכלל עבור { $website }
     .title = מחיקה
-ip-protection-site-rules-header =
-    .heading = ניהול כללים לאתרים
-ip-protection-site-rules-button =
-    .description = הגדרת כללים לאתרים שצריכים פרטיות נוספת, או שצריכים שה־VPN יהיה כבוי.
-    .label = ניהול כללים לאתרים
 ip-protection-autostart =
     .label = הפעלת VPN באופן אוטומטי
 ip-protection-autostart-checkbox =

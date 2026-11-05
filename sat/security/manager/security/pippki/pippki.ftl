@@ -97,6 +97,3 @@ set-password-reminder = ᱞᱟᱹᱠᱛᱤᱭᱟᱜ: ᱡᱩᱫᱤ ᱟᱢ ᱟᱢ�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱫᱮᱨ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱴᱤᱯᱷᱤᱠᱮᱴ ᱵᱮᱠᱚᱯᱷ ᱫᱟᱱᱟᱝᱟᱜ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱱᱟ :
-
-## Protected authentication dialog
-

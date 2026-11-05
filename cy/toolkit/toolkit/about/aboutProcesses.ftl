@@ -8,7 +8,7 @@ about-processes-title = Rheolwr Prosesau
 about-processes-column-action =
     .title = Gweithredoedd
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Dadlwytho tabiau a lladd y broses

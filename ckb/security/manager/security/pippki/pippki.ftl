@@ -12,9 +12,6 @@ change-password-old = تێپەڕە وشەی ئێستا:
 change-password-not-set =
     .value = (ئامادە نەکراوە)
 
-## Reset Primary Password dialog
-
-
 ## Downloading cert dialog
 
 # Variables:
@@ -48,12 +45,6 @@ client-auth-cert-details-issued-by = نێردراوە لەلایەن: { $issuedB
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = هەڵگیراوە لە: { $storedOn }
 
-## Set password (p12) dialog
-
-
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = تکایە وشەی تێپەڕبوون کە بەکارهێنرابوو بۆ کلیلیدانی ئەم پاڵپشتییە(باکئەپ):
-
-## Protected authentication dialog
-

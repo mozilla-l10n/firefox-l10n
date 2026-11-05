@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Ստեղծել նոր պրոֆիլ
 fxa-menu-create-profile-learn-more =
     .label = Ի՞նչ են պրոֆիլները։
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Կիսվել { -brand-product-name }-ով
-appmenuitem-share-firefox-description = Հրավիրեք մեկին ընտրել այն դիտարկիչը, որը գաղտնիությունը դնում է առաջին տեղում
 appmenu-profiles-2 =
     .label = Հատկագրեր
 appmenu-profiles-header = Պրոֆիլներ

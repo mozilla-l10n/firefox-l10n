@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = اپݨی لوک
 ipprotection-feature-introduction-description-private-browsing = اپݨی لوکیشن لکاوݨ نال ودھیک تحفظ نال براؤز کرو، چاہے تساں پرائیویٹ ونڈو وچ ہو۔
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = جڈاں تساں براؤز کریندے پئے وے تاں اپݨی لوکیشن لکاوݨ وچ مدد گھنو۔ وی پی این چالو کرݨ دے ضابطے بݨاؤ جڈاں تساں <a data-l10n-name="learn-more-vpn">اضافی پرائیویسی</a> یا لوکیشن دے حساب نال براؤزنگ چاہندے وے، تے جڈاں نہ چاہندے وے تاں اونکوں بند کرو۔
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = براؤز کرݨ ویلے <a data-l10n-name="learn-more-vpn">ودھیک پرائیویسی</a> کیتے اپݨی لوکیشن لکاؤ۔ ودھیک پرائیویسی یا لوکیشن-بیسڈ براؤزنگ کیتے VPN آن کرݨ دے رولز سیٹ کرو، تے اتھاں بند جتھاں تساں نیں چاہندے۔
 ipprotection-feature-introduction-title-captive-portal = پبلک Wi-Fi تے ہو؟ { -brand-product-name } دا بلٹ-اِن VPN آزماؤ۔
 ipprotection-feature-introduction-description-captive-portal = اپݨی لوکیشن لکاوݨ نال ودھیک تحفظ نال براؤز کرو، چاہے پبلک Wi-Fi تے ہو۔
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = بلٹ ان VPN اص
 ipprotection-site-inclusions-callout-title-lapsed-users = بلٹ ان VPN آزماؤ، ہݨ سائٹ دے حساب نال
 ipprotection-site-inclusions-callout-description-1 = VPN آن کرو جݙاں تساں ودھیک پرائیویسی یا لوکیشن-بیسڈ براؤزنگ چاہندے ہو، تے جتھاں نہ چاہندے ہو اتھاں بند کرو۔
 ipprotection-site-inclusions-callout-description-lapsed-users = وی پی این چالو کرݨ دے ضابطے بݨاؤ جڈاں تساں اضافی پرائیویسی یا لوکیشن دے حساب نال براؤزنگ چاہندے وے، تے جڈاں نہ چاہندے وے تاں اونکوں بند کرو۔
-ipprotection-site-inclusions-callout-description = اونکوں آن کرو جݙاں تساں ودھیک پرائیویسی یا لوکیشن-بیسڈ براؤزنگ چاہندے ہو، تے جتھاں نہ چاہندے ہو اتھاں بند کرو۔
 ipprotection-site-inclusions-callout-primary-button = رولز سیٹ کرو
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ابھی نہیں
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = خارج کرو
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = { $website } دا رول ڈیلیٹ کرو
     .title = ڈیلیٹ کرو
-ip-protection-site-rules-header =
-    .heading = ویب سائٹ رولز دا انتظام کرو
-ip-protection-site-rules-button =
-    .description = این سائٹس کیتے رولز سیٹ کرو جنہیں ودھیک پرائیویسی دی ضرورت اے یا جنہاں کیتے VPN بند اے۔
-    .label = ویب سائٹ رولز دا انتظام کرو
 ip-protection-autostart =
     .label = VPN خودکار طور تے آن کرو
 ip-protection-autostart-checkbox =

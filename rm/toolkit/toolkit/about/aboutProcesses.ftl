@@ -8,7 +8,7 @@ about-processes-title = Administraziun da process
 about-processes-column-action =
     .title = Acziuns
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Stgargiar ils tabs e terminar ils process

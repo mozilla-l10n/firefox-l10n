@@ -8,7 +8,7 @@ about-processes-title = პროცესების მმართველ�
 about-processes-column-action =
     .title = მოქმედებები
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = ჩანართების განტვირთვა და დამუშავების შეწყვეტა

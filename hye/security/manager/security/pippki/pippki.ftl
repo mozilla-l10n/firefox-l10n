@@ -97,6 +97,3 @@ set-password-reminder = Կարեւոր է. Եթե մոռանաք ձեր վկայ
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Խնդրեմ նշէք վկայագրի այս կրկնաւրինակը ծածկագրելու համար աւգտագործուած գաղտնաբառը:
-
-## Protected authentication dialog
-

@@ -52,12 +52,6 @@ download-cert-view-text = Esàmina su tzertificadu de sa CA
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = Emìtidu pro: { $issuedTo }
 
-## Set password (p12) dialog
-
-
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Inserta sa crae chi est istada impreada pro tzifrare sa còpia de seguresa de custu tzertificadu:
-
-## Protected authentication dialog
-

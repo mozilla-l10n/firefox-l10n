@@ -109,6 +109,3 @@ set-password-reminder = Увага: якщо ви забудете ваш пар
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Введіть пароль, який був використаний для шифрування цієї резервної копії сертифіката:
-
-## Protected authentication dialog
-

@@ -8,7 +8,7 @@ about-processes-title = ตัวจัดการโพรเซส
 about-processes-column-action =
     .title = การกระทำ
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = เลิกโหลดแท็บและหยุดการทำงานของโพรเซส

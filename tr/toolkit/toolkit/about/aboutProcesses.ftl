@@ -8,7 +8,7 @@ about-processes-title = İşlem Yöneticisi
 about-processes-column-action =
     .title = Eylemler
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Sekmeleri kaldır ve işlemi sonlandır

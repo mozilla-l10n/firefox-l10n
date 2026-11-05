@@ -83,22 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ur
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Krydsord
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Finans
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Dagens billede
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Søgning
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoskoper
 home-prefs-mission-message2 =
     .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
 home-prefs-manage-topics-link2 =
@@ -384,33 +368,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Sæt dette billede som din baggrund
     .label = Indstil baggrund
     .title = Indstil baggrund
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Indstil dagens billede som din baggrund
-    .label = Indstil baggrund
-    .title = Indstil baggrund
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Håndter baggrund
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Skjul dette billede
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Vis billede
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Skjul dagens billede
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Vis dagens billede
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Lær mere
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Vis billede
     .title = Vis billede
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Vis dagens billede
-    .title = Vis dagens billede
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Dagens billede fra Wikimedia Commons

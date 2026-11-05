@@ -8,7 +8,7 @@ about-processes-title = 프로세스 관리자
 about-processes-column-action =
     .title = 작업
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = 탭 언로드 및 프로세스 종료

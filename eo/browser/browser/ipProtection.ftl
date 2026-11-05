@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan 
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en privata fenestro.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = VPN permesas kaŝi vian pozicion dum vi retumas. Difinu regulojn por decidi kiam ŝalti ĝin por provizi <a data-l10n-name="learn-more-vpn">aldonan privatecon</a> aŭ aliron al servoj limigitaj laŭ origino kaj kiam malŝalti ĝin.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Kaŝu vian pozicion por havi <a data-l10n-name="learn-more-vpn">kroman privatecon</a> dum vi retumas. Difinu regulojn por ŝalti la VPN por havi kroman privatecon aŭ retumi el alia ejo, aŭ por malŝalti la VPN kiam vi ne bezonas tion.
 ipprotection-feature-introduction-title-captive-portal = Ĉu vi uzas publikan Wi-Fi? Provu la integritan VPN de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en publika Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Difinu la regulojn p
 ipprotection-site-inclusions-callout-title-lapsed-users = Provu la integritan VPN, ekde nun ŝaltigebla por specifaj retejoj
 ipprotection-site-inclusions-callout-description-1 = Ŝaltu la VPN kiam vi volas havi kroman privatecon aŭ retumi el alia ejo, kaj malŝaltu ĝin kiam vi tion ne bezonas.
 ipprotection-site-inclusions-callout-description-lapsed-users = Difinu regulojn por decidi ĉu ŝalti la VPN kiam vi volas havi kroman privatecon aŭ retumi el alia ejo, aŭ ĉu malŝalti ĝin kiam vi tion ne bezonas.
-ipprotection-site-inclusions-callout-description = Ŝaltu ĝin kiam vi volas havi kroman privatecon aŭ retumi el alia ejo, kaj malŝaltu ĝin kiam vi tion ne bezonas.
 ipprotection-site-inclusions-callout-primary-button = Difini regulojn
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne nun
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignori
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Forigi la regulon por { $website }
     .title = Forigi
-ip-protection-site-rules-header =
-    .heading = Administri regulojn por retejoj
-ip-protection-site-rules-button =
-    .description = Difini regulojn por retejoj, kiuj bezonas kroman privatecon aŭ kiuj bezonas malŝaltitan VPN.
-    .label = Administri regulojn por retejoj
 ip-protection-autostart =
     .label = Aŭtomate ŝalti VPN
 ip-protection-autostart-checkbox =

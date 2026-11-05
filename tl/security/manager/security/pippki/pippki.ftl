@@ -97,6 +97,3 @@ set-password-reminder = Mahalaga: Kung nakalimutan mo ang iyong password sa back
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Pakipasok ang password na ginamit para ma-encrypt ang certificate backup na ito:
-
-## Protected authentication dialog
-

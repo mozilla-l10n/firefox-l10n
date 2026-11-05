@@ -56,9 +56,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড (আকৌ):
 set-password-reminder = গুৰুত্বপূৰ্ণ: প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড পাহৰিলে, পিছত আপুনি এই বেক-আপ পুনঃ স্থাপন কৰিব নোৱাৰে।  অনুগ্ৰহ কৰি ইয়াক এটা সুৰক্ষিত স্থানত ৰাখক।
-
-## Certificate backup import prompt
-
-
-## Protected authentication dialog
-

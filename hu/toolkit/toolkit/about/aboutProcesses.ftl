@@ -8,7 +8,7 @@ about-processes-title = Folyamatkezelő
 about-processes-column-action =
     .title = Műveletek
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Lapok eldobása és a folyamat kilövése

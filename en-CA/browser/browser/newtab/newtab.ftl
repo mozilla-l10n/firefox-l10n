@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Clock
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Privacy
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Crossword
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Finance
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Picture of the day
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Search
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoscopes
 home-prefs-mission-message2 =
     .message = Our sponsors support our mission to build a better web.
 home-prefs-manage-topics-link2 =
@@ -211,9 +192,6 @@ newtab-privacy-empty-state = { -brand-short-name } automatically blocks trackers
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = See a running tally here.
-# Shorter empty-state copy for the small card, shown as two separate lines.
-newtab-privacy-empty-state-small-title = Fewer trackers, faster browsing.
-newtab-privacy-empty-state-small-message = Browse to start blocking.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -489,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Set this picture as your wallpaper
     .label = Set wallpaper
     .title = Set wallpaper
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Set today’s picture as your wallpaper
-    .label = Set wallpaper
-    .title = Set wallpaper
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Manage wallpaper
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Hide this picture
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Show picture
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Hide today’s picture
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Show today’s picture
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Learn more
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Show picture
     .title = Show picture
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Show today’s picture
-    .title = Show today’s picture
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Check back tomorrow for a new picture
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -565,9 +528,6 @@ newtab-horoscopes-widget-title = Horoscopes
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Open horoscopes menu
     .title = Open horoscopes menu
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Horoscopes options
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Learn more
 # Context menu item linking to the Yahoo website, the provider of the
@@ -1157,8 +1117,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Search location
 # "Back" is an icon-only button next to the location search field that returns to the widget.
 newtab-weather-search-back-button =
-    .title = Back
     .aria-label = Back
+    .title = Back
 # Screen reader label for the dropdown below the location search field that
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
@@ -1468,12 +1428,6 @@ newtab-widget-menu-move-left = Left
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Right
-# Submenu item under "Move"; pins the widget to Home, the New Tab space the
-# page opens on.
-newtab-widget-menu-move-to-home = Home
-# Submenu item under "Move"; moves the widget from Home back to the Widgets
-# space, the New Tab space that holds every widget not pinned to Home.
-newtab-widget-menu-move-to-widgets = Widgets
 newtab-widget-size-small = Small
 newtab-widget-size-medium = Medium
 newtab-widget-size-large = Large
@@ -1886,8 +1840,8 @@ newtab-clock-widget-menu-switch-to-24h = Switch to 24-hour format
 newtab-clock-widget-label-your-clocks = Your clocks
 # "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
 newtab-clock-widget-search-back-button =
-    .title = Back
     .aria-label = Back
+    .title = Back
 newtab-clock-widget-search-location-input2 =
     .aria-label = Search for a city
     .placeholder = Search for a city

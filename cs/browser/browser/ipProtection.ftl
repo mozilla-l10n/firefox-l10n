@@ -51,8 +51,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Skryjte při prohlížení svou polohu. Nastavte si pravidla, která VPN zapnou, když chcete <a data-l10n-name="learn-more-vpn">více soukromí</a> nebo procházet web podle své polohy, a vypnou, když ji nepotřebujete.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Pomozte skrýt svou polohu a získejte <a data-l10n-name="learn-more-vpn">zvlášť soukromí</a> během prohlížení. Nastavte si pravidla pro zapnutí VPN pro zvýšení soukromí nebo prohlížení podle polohy a vypnutí tam, kde nechcete.
 ipprotection-feature-introduction-title-captive-portal =
     { -brand-product-name.case-status ->
         [with-cases] Používáte veřejnou Wi-Fi? Vyzkoušejte vestavěnou síť VPN ve { -brand-product-name(case: "gen") }.
@@ -142,7 +140,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Nastavte si vestavě
 ipprotection-site-inclusions-callout-title-lapsed-users = Vyzkoušejte vestavěnou VPN pro jednotlivé webové stránky
 ipprotection-site-inclusions-callout-description-1 = Zapněte VPN na webech, kde chcete více soukromí nebo přístup k obsahu podle polohy, a na ostatních ji nechte vypnutou.
 ipprotection-site-inclusions-callout-description-lapsed-users = Nastavte si pravidla, která VPN zapnou, když chcete více soukromí nebo procházet web z jiné lokality, a vypnou ji, když ji nepotřebujete.
-ipprotection-site-inclusions-callout-description = Zapněte ji, kdykoli chcete zvýšit soukromí nebo brouzdat podle polohy, a vypněte tam, kde ji nepotřebujete.
 ipprotection-site-inclusions-callout-primary-button = Nastavit pravidla
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Teď ne
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavřít
@@ -386,11 +383,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Smazat pravidlo pro { $website }
     .title = Smazat
-ip-protection-site-rules-header =
-    .heading = Správa pravidel webových stránek
-ip-protection-site-rules-button =
-    .description = Nastavte pravidla pro stránky, které potřebují více soukromí či vypnutou VPN.
-    .label = Správa pravidel webových stránek
 ip-protection-autostart =
     .label = Zapnout VPN automaticky
 ip-protection-autostart-checkbox =

@@ -82,6 +82,3 @@ set-password-reminder = Pire tek: Ka wiyi owil ki mung me kano waraga, pe iromo 
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Tim ber i ket mung me donyo ma onongo kitiyo kwede me mungo catibiket man:
-
-## Protected authentication dialog
-

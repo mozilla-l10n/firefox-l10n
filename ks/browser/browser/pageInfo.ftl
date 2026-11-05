@@ -67,13 +67,6 @@ security-technical-no-encryption-transit = انفارمیشن یوس سوزنْ�
 security-technical-encrypted-page = یہ پیج یوس توہیہ وْچھان چھیو اوس اینکریپٹہ کرنْہ ّمُت اِنٹرنیٹس پیٹھ ٹرانسمِٹ کرنْہ برونہہ۔
 security-technical-encrypted-description = اینکریپشن چُھ بناوان مُشکل ان آتھارایزْڈ نفرن باپت سو انفارمیشن ویو کرْنئ یوس دون کمپیوٹرن منز باگ پکان آسِہ۔ امہ موجوب چُھ تقریبن نامُمکن گشھان ذِ کانہہ پرِ یہ پیج ییلہ یہ نیٹوْرکس پیٹھ پکان آسِہ۔
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ## These strings are used in the Technical Details section of the security tab
 
 security-technical-no-encryption =

@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = گھڑی
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = رازداری
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = کراس ورڈ
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = فنانس
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = اَڄ دی تصویر
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = ڳولو
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = برجاں
 home-prefs-mission-message2 =
     .message = ساݙے سپانسر ساݙے مشن دی مدد کریندے ہن جو ہِک بہتر ویب بݨاوݨ۔
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = ایہ تصویر تہاݙا وال پیپر بݨاؤ
     .label = وال پیپر لاؤ
     .title = وال پیپر لاؤ
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = اج دی تصویر کوں وال پیپر طور تے لڳاؤ
-    .label = وال پیپر لڳاؤ
-    .title = وال پیپر لڳاؤ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = وال پیپر مینیج کرو
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = ایہ تصویر لُکاو
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = تصویر ݙکھاو
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = اج دی تصویر لُکاو
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = اج دی تصویر ݙکھاو
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = بیا سکھو
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = تصویر ݙکھاو
     .title = تصویر ݙکھاو
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = اج دی تصویر ݙکھاو
-    .title = اج دی تصویر ݙکھاو
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = نویں تصویر کیتے سَویرے واپس آو
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = زائچے
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = زائچیاں دا مینو کھولو
     .title = زائچیاں دا مینو کھولو
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = زائچیاں دے آپشنز
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = بیا سکھو
 # Context menu item linking to the Yahoo website, the provider of the

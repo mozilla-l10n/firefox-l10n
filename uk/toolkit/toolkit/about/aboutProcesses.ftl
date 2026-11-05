@@ -8,7 +8,7 @@ about-processes-title = Менеджер процесів
 about-processes-column-action =
     .title = Дії
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Розвантажити вкладки та вбити процес

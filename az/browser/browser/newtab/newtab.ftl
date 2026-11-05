@@ -76,9 +76,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Saat
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Günün şəkli
 home-prefs-manage-widgets-link =
     .label = Vicetləri idarə et
 # Variables:

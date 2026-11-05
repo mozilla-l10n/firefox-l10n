@@ -8,7 +8,7 @@ about-processes-title = Ruk'amöl B'ey Tajinïk
 about-processes-column-action =
     .title = Taq b'anoj
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Keqasäx taq ruwi' chuqa' tik'is tajinïk

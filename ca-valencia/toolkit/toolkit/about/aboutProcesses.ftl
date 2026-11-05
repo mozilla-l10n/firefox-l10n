@@ -8,7 +8,7 @@ about-processes-title = Gestor de processos
 about-processes-column-action =
     .title = Accions
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = Tanca la pestanya

@@ -109,6 +109,3 @@ set-password-reminder = Importante: Se esquece o contrasinal da copia de seguran
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Introduza o contrasinal utilizado para cifrar esta copia de seguranza do certificado:
-
-## Protected authentication dialog
-

@@ -8,7 +8,7 @@ about-processes-title = ਪਰੋਸੈਸ ਮੈਨੇਜਰ
 about-processes-column-action =
     .title = ਕਾਰਵਾਈਆਂ
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = ਟੈਬਾਂ ਨੂੰ ਅਣ-ਲੋਡ ਕਰੋ ਤੇ ਪਰੋਸੈਸ ਨੂੰ ਖਤਮ ਕਰੋ

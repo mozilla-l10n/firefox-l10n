@@ -8,7 +8,7 @@ about-processes-title = Prosessbehandler
 about-processes-column-action =
     .title = Handlinger
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Stopp faner og avslutt prosessen

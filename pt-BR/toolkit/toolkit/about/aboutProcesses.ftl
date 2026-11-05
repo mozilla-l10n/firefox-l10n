@@ -8,7 +8,7 @@ about-processes-title = Gerenciador de processos
 about-processes-column-action =
     .title = Ações
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Descarregar abas e encerrar processo

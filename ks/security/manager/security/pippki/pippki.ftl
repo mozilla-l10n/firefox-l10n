@@ -59,6 +59,3 @@ set-password-reminder = ضروری:  اگر توہیہ مشید گژھ تُہن�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = مہربأنی کْرتھ کْریو اینٹر سو پاس وأرڈ یوس استعمال کرنْہ آمُت اوس  اینکریپٹہ کرنْہ باپت یہ سرتیفیکیٹ بیک اپ:
-
-## Protected authentication dialog
-

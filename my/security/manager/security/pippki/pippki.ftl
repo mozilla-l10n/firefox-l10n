@@ -82,6 +82,3 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = စာဝှက်စဉ် အသုံးပြုခဲ့သော ဒီအရန်အထောက်အထားလက်မှတ်၏ စကားဝှက်ကို ရိုက်ပါ။:
-
-## Protected authentication dialog
-

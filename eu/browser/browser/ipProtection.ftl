@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Lagundu zure kokapena ezkutatzen nabigatu ahala. Ezarri VPNa aktibatzeko arauak <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> nahi duzunean edo kokapenean oinarritutako nabigaziorako, eta desaktibatu halakorik nahi ez duzunean.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Ezarri VPNa aktibatzeko arauak pribatutasun estra edo kokapenean oinarritutako nabigaziorako, eta desaktibatu behar ez duzunean.
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Ezarri integratutako
 ipprotection-site-inclusions-callout-title-lapsed-users = Probatu integratutako VPNa, orain gunean guneko konfigurazioarekin
 ipprotection-site-inclusions-callout-description-1 = Aktibatu VPNa pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu behar ez duzunean.
 ipprotection-site-inclusions-callout-description-lapsed-users = Ezarri arauak VPNa aktibatzeko pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu halakorik nahi ez duzunean.
-ipprotection-site-inclusions-callout-description = Aktiba ezazu pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu behar ez duzunean.
 ipprotection-site-inclusions-callout-primary-button = Ezarri arauak
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Une honetan ez
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Baztertu
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Ezabatu { $website } webgunerako araua
     .title = Ezabatu
-ip-protection-site-rules-header =
-    .heading = Kudeatu webguneen arauak
-ip-protection-site-rules-button =
-    .description = Ezarri arauak pribatutasun estra edo VPNa inaktibo izatea behar duten guneetarako.
-    .label = Kudeatu webguneen arauak
 ip-protection-autostart =
     .label = Aktibatu VPNa automatikoki
 ip-protection-autostart-checkbox =

@@ -8,7 +8,7 @@ about-processes-title = Gestore de protzessos
 about-processes-column-action =
     .title = Atziones
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Iscàrriga is ischedas e istuda su protzessu

@@ -54,6 +54,3 @@ set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Nceda ngenisa iphaswedi ebisetyenziselwa uguqulelo oluntsonkothileyo ngekopi egcinwayo yesi satifikethi:
-
-## Protected authentication dialog
-

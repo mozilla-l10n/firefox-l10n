@@ -83,15 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Rellògiu
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Riservadesa
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Faeddos rugrados
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Immàgine de sa die
 home-prefs-mission-message2 =
     .message = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius.
 home-prefs-manage-topics-link2 =
@@ -257,25 +248,10 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Cunfigura s’immagine de oe comente isfundu
-    .label = Cunfigura comente isfundu
-    .title = Cunfigura comente isfundu
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gesti is isfundos
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Cua s’immàgine de oe
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Ammustra s’immàgine de oe
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Àteras informatziones
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = A
-    .title = Ammustra s’immàgine de oe
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Torra cras pro agatare un’immagine noa.
 # Screen-reader text alternative for the picture; fallback used when the source

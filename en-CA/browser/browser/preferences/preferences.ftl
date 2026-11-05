@@ -1207,11 +1207,6 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = History
     .accesskey = r
-# This string is a modified noun (i.e. tabs that are open)
-sync-engine-tabs2 =
-    .label = Open tabs
-    .tooltiptext = Open tabs from your other devices
-    .accesskey = t
 sync-engine-tabs =
     .label = Open tabs
     .tooltiptext = A list of what’s open on all synced devices
@@ -1220,22 +1215,6 @@ sync-engine-passwords =
     .label = Passwords
     .tooltiptext = Passwords you’ve saved
     .accesskey = P
-sync-engine-addresses2 =
-    .label = Addresses
-    .tooltiptext = Addresses you’ve saved in { -brand-short-name }
-    .accesskey = e
-sync-engine-payment-methods3 =
-    .label = Payment methods
-    .tooltiptext = Payment methods you’ve saved
-    .accesskey = n
-sync-engine-addons2 =
-    .label = Add-ons
-    .tooltiptext = Extensions and themes you’ve added to { -brand-short-name } for desktop
-    .accesskey = A
-sync-engine-settings2 =
-    .label = Settings
-    .tooltiptext = { -brand-short-name } settings where applicable
-    .accesskey = s
 sync-engine-addresses =
     .label = Addresses
     .tooltiptext = Postal addresses you’ve saved (desktop only)
@@ -1515,8 +1494,8 @@ payment-moz-box-item =
 #   $securityCode (string) - The name of the card's security code, which depends
 #     on the card network (for example: CVV)
 payment-moz-box-item-with-security-code-2 =
-    .label = { $cardNumber }
     .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
 # Used in place of payment-moz-box-item-with-security-code-2 for a card that has
 # a saved security code but no expiry date to show alongside it. "•••" stands for
 # the hidden code.
@@ -1525,8 +1504,8 @@ payment-moz-box-item-with-security-code-2 =
 #   $securityCode (string) - The name of the card's security code, which depends
 #     on the card network (for example: CVV)
 payment-moz-box-item-security-code-only-2 =
-    .label = { $cardNumber }
     .description = { $securityCode } •••
+    .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
 # code itself. "CVV" is a common abbreviation for the security code printed on a

@@ -406,9 +406,6 @@ fxa-menu-create-profile-confirm =
     .label = Crea unu profilu nou
 fxa-menu-create-profile-learn-more =
     .label = Ite sunt is profilos?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Cumpartzi { -brand-product-name }
-appmenuitem-share-firefox-description = Invita a calicunu a seberare su navigadore chi ponet sa riservadesa a primu
 appmenu-profiles-2 =
     .label = Profilos
 appmenu-profiles-header = Profilos

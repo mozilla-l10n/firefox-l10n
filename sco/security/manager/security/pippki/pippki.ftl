@@ -97,6 +97,3 @@ set-password-reminder = Important: If you forget yer certificate backup passwird
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Gonnae inpit the passwird that wis yaised tae encrypt this certificate backup:
-
-## Protected authentication dialog
-

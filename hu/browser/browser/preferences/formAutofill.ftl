@@ -132,10 +132,6 @@ autofill-card-security-code-optional-2 =
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =
     .label = CVV (nem kötelező)
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code =
-    .label = CVV
 autofill-card-name-on-card = Kártyán szereplő név
 autofill-card-expires-month = Lejárat hónapja
 autofill-card-expires-year = Lejárat éve

@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = 時鐘
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = 隱私權
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = 填字遊戲
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = 金融
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = 每日一圖
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = 搜尋
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = 星座
 home-prefs-mission-message2 =
     .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link2 =
@@ -454,33 +435,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = 將此照片設為背景圖
     .label = 設為背景圖
     .title = 設為背景圖
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = 將今天的每日一圖設定為背景圖
-    .label = 設為背景圖
-    .title = 設為背景圖
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理背景圖
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = 隱藏此照片
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = 顯示照片
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = 隱藏今天的照片
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = 顯示今天的照片
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 更多資訊
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = 顯示照片
     .title = 顯示照片
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = 顯示今天的照片
-    .title = 顯示今天的照片
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = 請於明天再回來看看新照片
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -530,9 +496,6 @@ newtab-horoscopes-widget-title = 星座
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = 開啟星座選單
     .title = 開啟星座選單
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = 星座選項
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = 更多資訊
 # Context menu item linking to the Yahoo website, the provider of the

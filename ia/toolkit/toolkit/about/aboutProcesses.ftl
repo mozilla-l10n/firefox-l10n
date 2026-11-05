@@ -8,7 +8,7 @@ about-processes-title = Gestor de processo
 about-processes-column-action =
     .title = Actiones
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Evacuar schedas e terminar le processo

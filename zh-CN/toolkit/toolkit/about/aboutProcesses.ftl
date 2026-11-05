@@ -8,7 +8,7 @@ about-processes-title = 进程管理器
 about-processes-column-action =
     .title = 操作
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = 卸载标签页并结束进程

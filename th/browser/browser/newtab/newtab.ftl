@@ -83,15 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = นาฬิกา
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = ความเป็นส่วนตัว
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = ปริศนาอักษรไขว้
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = ภาพประจำวัน
 home-prefs-mission-message2 =
     .message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-manage-topics-link2 =
@@ -195,19 +186,8 @@ newtab-stocks-menu-learn-more = เรียนรู้เพิ่มเติ
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = ภาพประจำวัน · วิกิมีเดียคอมมอนส์
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = ตั้งค่าภาพประจำวันนี้เป็นรูปพื้นหลังของคุณ
-    .label = ตั้งค่ารูปพื้นหลัง
-    .title = ตั้งค่ารูปพื้นหลัง
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = จัดการรูปพื้นหลัง
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = ซ่อนภาพประจำวันนี้
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = แสดงภาพประจำวันนี้
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = เรียนรู้เพิ่มเติม
 

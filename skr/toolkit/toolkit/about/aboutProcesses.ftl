@@ -8,7 +8,7 @@ about-processes-title = پروسیس مینیجر
 about-processes-column-action =
     .title = عمل
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = ٹیباں کوں ان لوڈ کرو تے عمل کوں ختم کرو۔

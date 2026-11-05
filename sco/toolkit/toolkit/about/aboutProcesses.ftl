@@ -6,7 +6,7 @@
 about-processes-column-action =
     .title = Actions
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = Sneck tab

@@ -107,13 +107,6 @@ security-technical-encrypted-description = गोपन अनधिकृत �
 security-technical-mixed-content-description = इंटरनेट पर भेजल जाएबाक पहिने अहाँक द्वारा देखल जाए रहल पन्नाक किछु हिस्सा गोपित नहि छल.
 security-technical-weak-cipher = अहाँक कनेक्शन ई वेबसाइट कलेल निम्न स्तर केर एन्क्रिप्शन इस्तेमाल क रहल अछि जे वजह सँ अहाँक वेबसाइट गुप्त नहि अछि. कोनो दोसर व्यक्ति अहाँक वेबसाइट मे बदलाव कए सकैत अछि.
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ## These strings are used in the Technical Details section of the security tab
 
 security-technical-no-encryption =

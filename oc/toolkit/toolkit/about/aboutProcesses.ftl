@@ -8,7 +8,7 @@ about-processes-title = Gestionari de processús
 about-processes-column-action =
     .title = Accions
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Descargar los onglets e atudar los processús

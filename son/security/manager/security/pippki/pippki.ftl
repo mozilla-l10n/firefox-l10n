@@ -82,6 +82,3 @@ set-password-reminder = Hawgay: Nda war dirŋa war tabatiyan-tiira banda-gaabu �
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Taare šennikufaloo dam, kaŋ nda war na tabatiyan-tiira banda-gaaboo woo tugandi:
-
-## Protected authentication dialog
-

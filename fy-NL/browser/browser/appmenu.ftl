@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Nij profyl oanmeitsje
 fxa-menu-create-profile-learn-more =
     .label = Wat binne profilen?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = { -brand-product-name } diele
-appmenuitem-share-firefox-description = Nûgje immen út om de browser te kiezen dy’t privacy foarop stelt
 appmenu-profiles-2 =
     .label = Profilen
 appmenu-profiles-header = Profilen

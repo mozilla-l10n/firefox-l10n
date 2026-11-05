@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z n
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Ukryj swoje położenie podczas przeglądania Internetu. Ustaw reguły, które włączą sieć VPN, gdy zależy Ci na <a data-l10n-name="learn-more-vpn">dodatkowej prywatności</a> lub dostępie zależnym od położenia, i wyłączą wtedy, gdy jej nie potrzebujesz.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Ukryj swoje położenie, zyskując <a data-l10n-name="learn-more-vpn">większą prywatność</a> podczas przeglądania Internetu. Ustaw reguły, które włączą sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłączą tam, gdzie jej nie potrzebujesz.
 ipprotection-feature-introduction-title-captive-portal = Korzystasz z publicznej sieci Wi-Fi? Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Ustaw reguły wbudow
 ipprotection-site-inclusions-callout-title-lapsed-users = Wypróbuj wbudowaną sieć VPN, którą teraz można włączać lub wyłączać dla wybranych witryn
 ipprotection-site-inclusions-callout-description-1 = Włącz sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
 ipprotection-site-inclusions-callout-description-lapsed-users = Ustaw reguły, które włączą sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłączą wtedy, gdy jej nie potrzebujesz.
-ipprotection-site-inclusions-callout-description = Włącz ją, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
 ipprotection-site-inclusions-callout-primary-button = Ustaw reguły
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nie teraz
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zamknij
@@ -333,11 +330,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Usuń regułę dla witryny „{ $website }”
     .title = Usuń
-ip-protection-site-rules-header =
-    .heading = Zarządzaj regułami dla witryn
-ip-protection-site-rules-button =
-    .description = Ustaw reguły dla witryn wymagających dodatkowej prywatności lub wyłączonej sieci VPN.
-    .label = Zarządzaj regułami dla witryn
 ip-protection-autostart =
     .label = Automatycznie włączaj VPN
 ip-protection-autostart-checkbox =

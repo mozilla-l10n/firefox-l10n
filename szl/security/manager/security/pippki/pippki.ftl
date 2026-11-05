@@ -97,6 +97,3 @@ set-password-reminder = Pozōr: jak przepōmnisz hasła do ibrycznyj kopii certy
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Wkludź hasło, co było użyte przi szyfrowaniu ibrycznyj kopii tego certyfikatu:
-
-## Protected authentication dialog
-

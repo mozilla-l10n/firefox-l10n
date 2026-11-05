@@ -8,7 +8,7 @@ about-processes-title = Process Manager
 about-processes-column-action =
     .title = Actions
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Unload tabs and kill process

@@ -106,13 +106,6 @@ security-technical-encrypted-description = Kufalyanoo g'a šendandi borey kaŋ �
 security-technical-mixed-content-description = Moɲoo jerey kaŋ war g'i guna mana tugandi jina ka bisandi Interneti bande.
 security-technical-weak-cipher = War ciyaroo interneti nungoo woo ga ga goy nda tuguyan yalaafante nd'a ši sutura. Boro tanayaŋ ga hin ka dii war alhabarey wala war nungoo aladaboo barmay.
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ## These strings are used in the Technical Details section of the security tab
 
 security-technical-no-encryption =

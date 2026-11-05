@@ -97,6 +97,3 @@ set-password-reminder = Tähtis: kui sa unustad varukoopia parooli, ei ole võim
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Palun sisesta selle sertifikaadi varukoopia krüptimiseks kasutatud parool:
-
-## Protected authentication dialog
-

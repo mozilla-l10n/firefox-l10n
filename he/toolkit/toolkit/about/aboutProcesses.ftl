@@ -8,7 +8,7 @@ about-processes-title = מנהל התהליכים
 about-processes-column-action =
     .title = פעולות
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = ביטול טעינת הלשוניות וסיום התהליך

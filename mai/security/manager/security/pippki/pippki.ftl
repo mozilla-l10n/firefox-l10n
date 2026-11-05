@@ -59,6 +59,3 @@ set-password-reminder = Important: जँ अहाँ अपन प्रमा
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = गुड़किल्ली एतए डालू जे एहि प्रमाणपत्रक गोपनक लेल प्रयुक्त होइछ.
-
-## Protected authentication dialog
-

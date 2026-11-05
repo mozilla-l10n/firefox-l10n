@@ -8,7 +8,7 @@ about-processes-title = مدیریت فرآیندها
 about-processes-column-action =
     .title = عملیات
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = تخلیهٔ زبانه‌ها از حافظه و بستن اجباری فرآیند

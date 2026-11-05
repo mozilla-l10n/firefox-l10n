@@ -8,7 +8,7 @@ about-processes-title = 處理程序管理員
 about-processes-column-action =
     .title = 動作
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = 解除載入分頁並結束處理程序

@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Create new profile
 fxa-menu-create-profile-learn-more =
     .label = What Are Profiles?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Share { -brand-product-name }
-appmenuitem-share-firefox-description = Invite someone to choose the browser that puts privacy first
 appmenu-profiles-2 =
     .label = Profiles
 appmenu-profiles-header = Profiles

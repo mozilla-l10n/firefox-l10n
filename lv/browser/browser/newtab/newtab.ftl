@@ -37,16 +37,6 @@ home-custom-homepage-address-button =
 
 home-prefs-search-header2 =
     .label = Meklēt
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Finanses
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Meklēt
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoskopi
 home-prefs-manage-widgets-link =
     .label = Pārvaldīt logrīkus
 home-prefs-choose-wallpaper-link2 =
@@ -346,9 +336,6 @@ newtab-horoscopes-widget-title = Horoskopi
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Atvērt horoskopu izvēlni
     .title = Atvērt horoskopu izvēlni
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Horoskopu iespējas
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Uzzināt vairāk
 # Context menu item linking to the Yahoo website, the provider of the

@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Helpwch i guddio'ch lleoliad wrth i chi bori. Gosodwch reolau i droi VPN ymlaen am <a data-l10n-name="learn-more-vpn">breifatrwydd ychwanegol</a> neu bori ar sail lleoliad, neu i ffwrdd pan nad oes ei angen.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Helpwch i guddio'ch lleoliad ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> wrth i chi bori. Gosodwch reolau i droi'r VPN ymlaen ar gyfer preifatrwydd ychwanegol neu bori ar sail lleoliad, a ei ddiffodd lle nad ydych chi.
 ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN cynhenid { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Gosodwch reolau VPN 
 ipprotection-site-inclusions-callout-title-lapsed-users = Rhowch gynnig ar VPN cynhenid, nawr fesul gwefan
 ipprotection-site-inclusions-callout-description-1 = Trowch y VPN ymlaen pan fyddwch chi eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i ddiffodd pan nad ydych chi.
 ipprotection-site-inclusions-callout-description-lapsed-users = Trowch y VPN ymlaen pan fyddwch eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i diffodd lle nad oes ei angen.
-ipprotection-site-inclusions-callout-description = Trowch ef ymlaen pan fyddwch eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i diffodd lle nad oes ei angen.
 ipprotection-site-inclusions-callout-primary-button = Gosod rheolau
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nid nawr
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
@@ -336,11 +333,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Dileu'r rheol ar gyfer { $website }
     .title = Dileu
-ip-protection-site-rules-header =
-    .heading = Rheoli rheolau gwefan
-ip-protection-site-rules-button =
-    .description = Gosodwch reolau ar gyfer gwefannau sydd angen preifatrwydd ychwanegol neu'r VPN i ffwrdd.
-    .label = Rheoli rheolau gwefan
 ip-protection-autostart =
     .label = Troi'r VPN ymlaen yn awtomatig
 ip-protection-autostart-checkbox =

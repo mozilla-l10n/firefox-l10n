@@ -55,9 +55,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup password (again):
 set-password-reminder = Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.
-
-## Certificate backup import prompt
-
-
-## Protected authentication dialog
-

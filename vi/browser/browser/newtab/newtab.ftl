@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Đồng hồ
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Riêng tư
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Trò chơi ô chữ
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Tài chính
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Hình ảnh của ngày
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Tìm kiếm
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Tử vi
 home-prefs-mission-message2 =
     .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link2 =
@@ -450,33 +431,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Đặt ảnh này làm hình nền của bạn
     .label = Đặt hình nền
     .title = Đặt hình nền
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Đặt ảnh của ngày làm hình nền thẻ mới của bạn
-    .label = Đặt hình nền
-    .title = Đặt hình nền
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Quản lý hình nền
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Ẩn hình ảnh này
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Hiện hình ảnh
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Ẩn hình ảnh của ngày
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Hiện hình ảnh của ngày
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Tìm hiểu thêm
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Hiện hình ảnh
     .title = Hiện hình ảnh
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Hiện hình ảnh của ngày
-    .title = Hiện hình ảnh của ngày
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Hãy quay lại vào ngày mai để xem hình ảnh mới
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -526,9 +492,6 @@ newtab-horoscopes-widget-title = Tử vi
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Mở menu tử vi
     .title = Mở menu tử vi
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Tuỳ chọn tử vi
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Tìm hiểu thêm
 

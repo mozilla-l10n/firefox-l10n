@@ -8,7 +8,7 @@ about-processes-title = Gjestôr procès
 about-processes-column-action =
     .title = Azions
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Discjame lis schedis e cope i procès

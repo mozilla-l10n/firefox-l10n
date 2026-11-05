@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們
 ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = 協助您在上網時隱藏實際所在位置。您可以設定規則，在需要<a data-l10n-name="learn-more-vpn">加強隱私</a>時，或需要開啟特定地點網站時才開啟 VPN；不需要時可維持關閉。
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = 在您上網時隱藏實際所在地點，以獲得<a data-l10n-name="learn-more-vpn">更多隱私保障</a>。您可以設定規則，對需要更多隱私保護或根據地點顯示不同資訊的網站開啟 VPN，或在不需要的地方關閉。
 ipprotection-feature-introduction-title-captive-portal = 透過公共 Wi-Fi 上網嗎？請試用 { -brand-product-name } 的內建 VPN。
 ipprotection-feature-introduction-description-captive-portal = 隱藏您的實際所在位置，就算是使用公共 Wi-Fi 也能獲得額外保護。
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = 設定內建 VPN 規
 ipprotection-site-inclusions-callout-title-lapsed-users = 試用內建 VPN 功能，現在可針對特定網站單獨開啟
 ipprotection-site-inclusions-callout-description-1 = 針對需加強隱私保護，或瀏覽特定地區內容時開啟 VPN，不需要時則關閉。
 ipprotection-site-inclusions-callout-description-lapsed-users = 設定規則，針對需加強隱私保護，或瀏覽特定地區內容時開啟 VPN，不需要時則關閉。
-ipprotection-site-inclusions-callout-description = 針對需加強隱私保護，或瀏覽特定地區內容時開啟，不需要時則關閉。
 ipprotection-site-inclusions-callout-primary-button = 設定規則
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 現在不要
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 知道了！
@@ -328,11 +325,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = 刪除 { $website } 的規則
     .title = 刪除
-ip-protection-site-rules-header =
-    .heading = 管理網站規則
-ip-protection-site-rules-button =
-    .description = 為需要加強保護隱私或關閉 VPN 才能使用的網站，設定規則。
-    .label = 管理網站規則
 ip-protection-autostart =
     .label = 自動開啟 VPN
 ip-protection-autostart-checkbox =

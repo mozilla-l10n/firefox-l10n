@@ -93,6 +93,3 @@ set-password-reminder = هامّ: إذا نسيت كلمة سر النسخة ا�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = الرّجاء إدخال كلمة السرّ التي استخدمت لتعمية النّسخة الاحتياطية من هذه الشّهادة:
-
-## Protected authentication dialog
-

@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = გამოი
 ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის პირად ფანჯრებში.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = გეხმარებათ თქვენი ადგილმდებარეობის დამალვაში გვერდების მონახულებისას. გამართეთ წესები, რომ ჩაირთოს VPN, როცა გსურთ <a data-l10n-name="learn-more-vpn">დამატებითი პირადულობა</a> ან სხვა მდებარეობაზე მორგებული გვერდების მონახულება, ხოლო გამოირთოს, როცა არ გჭირდებათ.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = გააუმჯობესეთ ადგილმდებარეობის დამალვით <a data-l10n-name="learn-more-vpn">პირადულობა</a> გვერდების მონახულებისას. მიუთითეთ წესები, როდის ჩაირთოს VPN გაუმჯობესებული პირადულობისთვის ან მდებარეობაზე მორგებული გვერდების მოსანახულებლად და როდის დარჩეს გამორთული.
 ipprotection-feature-introduction-title-captive-portal = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის საჯარო WiFi-ქსელებში.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = მომართ�
 ipprotection-site-inclusions-callout-title-lapsed-users = გამოცადეთ ჩაშენებული VPN, ახლა უკვე საიტების მიხედვით
 ipprotection-site-inclusions-callout-description-1 = ჩართეთ VPN, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
 ipprotection-site-inclusions-callout-description-lapsed-users = მიუთითეთ წესები, რომ მაშინ ჩაირთოს VPN, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამოირთოს, როცა არ გჭირდებათ.
-ipprotection-site-inclusions-callout-description = ჩართეთ, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
 ipprotection-site-inclusions-callout-primary-button = წესების მითითება
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ახლა არა
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = აცილება
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = წესის მიუთითებლად დარჩება { $website }
     .title = წაშლა
-ip-protection-site-rules-header =
-    .heading = საიტის წესების მართვა
-ip-protection-site-rules-button =
-    .description = მიუთითეთ წესები საიტებს, რომლებიც საჭიროებს დამატებით პირადულობას ან გამორთულ VPN-ს.
-    .label = საიტის წესების მართვა
 ip-protection-autostart =
     .label = თავისთავად ჩაირთოს VPN
 ip-protection-autostart-checkbox =

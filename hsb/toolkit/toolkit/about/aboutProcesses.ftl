@@ -8,7 +8,7 @@ about-processes-title = Procesowy zrjadowak
 about-processes-column-action =
     .title = Akcije
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Rajtarki wuswobodźić a proces zničić

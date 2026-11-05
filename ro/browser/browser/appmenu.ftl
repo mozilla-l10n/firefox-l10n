@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Creează un profil nou
 fxa-menu-create-profile-learn-more =
     .label = Ce sunt profilurile?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Partajează { -brand-product-name }
-appmenuitem-share-firefox-description = Invită pe cineva să aleagă browserul care pune confidențialitatea pe primul loc
 appmenu-profiles-2 =
     .label = Profiluri
 appmenu-profiles-header = Profiluri

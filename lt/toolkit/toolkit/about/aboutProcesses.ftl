@@ -8,7 +8,7 @@ about-processes-title = Procesų tvarkytuvė
 about-processes-column-action =
     .title = Veiksmai
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Iškelti korteles ir išjungti procesą

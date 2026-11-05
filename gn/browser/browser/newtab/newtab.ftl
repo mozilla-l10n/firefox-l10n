@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Aravopapaha
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Ñemigua
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Crucigráma
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Viruporukuaa
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Ta’ãnga araguáva
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Eheka
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Tenondekuaa
 home-prefs-mission-message2 =
     .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
 home-prefs-manage-topics-link2 =
@@ -427,33 +408,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Emoĩ ko ta’ãnga ne mba’erechaha ruguárõ
     .label = Emoĩ mba’erechaha ruguárõ
     .title = Emoĩ mba’erechaha ruguárõ
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Emoĩ ta’ãnga aragua mba’erechaha ruguárõ
-    .label = Emoĩ mba’erechaha ruguárõ
-    .title = Emoĩ mba’erechaha ruguárõ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Emongu’e jehechaha rugua
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Eñomi ko ta’ãnga
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Ehechauka ta’ãnga
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Eñomi ta’ãnga aragua
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Ehechauka ta’ãnga aragua
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Eikuaave
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Ehechauka ta’ãnga
     .title = Ehechauka ta’ãnga
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Ehechauka ta’ãnga aragua
-    .title = Ehechauka ta’ãnga aragua
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Eju jey ko’ẽrõ ta’ãnga pyahurã rekávo
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -486,9 +452,6 @@ newtab-search-widget-open-menu-button =
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Tenondekuaa
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Tenondekuaa poravorã
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Eikuaave
 # Context menu item linking to the Yahoo website, the provider of the

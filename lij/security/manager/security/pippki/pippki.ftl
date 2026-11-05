@@ -82,6 +82,3 @@ set-password-reminder = Inportante: Se ti t'ascòrdi a paròlla segreta di certi
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Scrivi a paròlla segreta adeuviâ pe cifrâ a còpia de backup di sto certificato:
-
-## Protected authentication dialog
-

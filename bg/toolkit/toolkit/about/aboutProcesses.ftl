@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Освобождаване на памет и прекъсване на процеси

@@ -8,7 +8,7 @@ about-processes-title = සැකසීම් කළමනාකරු
 about-processes-column-action =
     .title = ක්‍රියාමාර්ග
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = පටිත්ත වසන්න

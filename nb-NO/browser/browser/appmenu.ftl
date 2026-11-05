@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Opprett ny profil
 fxa-menu-create-profile-learn-more =
     .label = Hva er profiler?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Del { -brand-product-name }
-appmenuitem-share-firefox-description = Inviter noen til å velge nettleseren som setter personvern først
 appmenu-profiles-2 =
     .label = Profiler
 appmenu-profiles-header = Profiler

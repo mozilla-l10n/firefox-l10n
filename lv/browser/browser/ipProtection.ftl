@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Izmantojiet mū
 ipprotection-feature-introduction-description-private-browsing = Pārlūkojiet tīmekli ar papildu aizsardzību, slēpjot savu atrašanās vietu pat privātā logā.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Palīdz pārlūkošanas laikā paslēpt atrašanās vietu. Iestati kārtulas, lai ieslēgtu VPN, kad vēlies <a data-l10n-name="learn-more-vpn">papildu privātumu</a> vai no atrašanās vietas atkarīgu pārlūkošanu, vai izslēgtu, kad tas nav nepieciešams!
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Lai pārlūkošanas laikā nodrošinātu <a data-l10n-name="learn-more-vpn">papildu privātumu</a>, paslēpiet savu atrašanās vietu. Iestatiet noteikumus, lai ieslēgtu VPN papildu privātumam vai pārlūkošanai atkarībā no atrašanās vietas, un izslēgtu tos, ja to nevēlaties.
 ipprotection-feature-introduction-title-captive-portal = Vai izmantojat publisko Wi-Fi? Izmēģiniet { -brand-product-name } iebūvēto VPN.
 ipprotection-feature-introduction-description-captive-portal = Pārlūkojiet internetu ar papildu aizsardzību, slēpjot savu atrašanās vietu pat publiskajā Wi-Fi tīklā.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Iestatiet iebūvēto
 ipprotection-site-inclusions-callout-title-lapsed-users = Izmēģiniet iebūvēto VPN, tagad atsevišķi vietnēm
 ipprotection-site-inclusions-callout-description-1 = VPN var ieslēgt, kad ir vēlēšanās pēc papildu privātumu vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
 ipprotection-site-inclusions-callout-description-lapsed-users = Var iestatīt kārtulas, lai ieslēgtu VPN, kad ir vēlēšanās pēc papildu privātuma vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
-ipprotection-site-inclusions-callout-description = Ieslēdziet to, ja vēlaties papildu privātumu vai pārlūkošanu, pamatojoties uz atrašanās vietu, un izslēdziet, ja tas nav nepieciešams.
 ipprotection-site-inclusions-callout-primary-button = Iestatiet noteikumus
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne tagad
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Noraidīt
@@ -308,11 +305,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Izdzēst { $website } kārtulu
     .title = Izdzēst
-ip-protection-site-rules-header =
-    .heading = Pārvaldīt tīmekļvietnes kārtulas
-ip-protection-site-rules-button =
-    .description = Kārtulu iestatīšana vietnēm, kurās ir nepieciešams papildu privātums vai izslēgts VPN.
-    .label = Pārvaldīt tīmekļvietnes kārtulas
 
 ## IP Protection dialogs
 

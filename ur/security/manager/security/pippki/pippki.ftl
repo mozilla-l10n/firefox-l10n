@@ -88,6 +88,3 @@ set-password-reminder = اہم: اگر آپ اپنا تصدیق نامہ پشت�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = برائے مہربانی وہ پاس ورڈ داخل کریں جو یہ تصدیق نامہ پشتارہ خفیہ کرنے میں استعمال کیا گیا تھا۔
-
-## Protected authentication dialog
-

@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ �
 ipprotection-feature-introduction-description-private-browsing = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਹੋਵੋ।
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਜਦੋਂ ਤੁਹਾਨੂੰ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਜਾਂ ਟਿਕਾਣੇ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ VPN ਨੂੰ ਚਾਲੂ ਜਾਂ ਲੋੜ ਨਾ ਹੋਣ ਉੱਤੇ ਬੰਦ ਕਰਨ ਵਾਸਤੇ ਨਿਯਮ ਬਣਾਓ।
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਈ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਜਾਂ ਜਿੱਥੇ ਲੋੜ ਨਾ ਹੋਵੇ ਤਾਂ ਬੰਦ ਕਰਨ ਲਈ ਨਿਯਮ ਬਣਾਓ।
 ipprotection-feature-introduction-title-captive-portal = ਪਬਲਿਕ Wi-Fi ਵਰਤ ਰਹੇ ਹੋ? { -brand-product-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ।
 ipprotection-feature-introduction-description-captive-portal = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪਬਲਿਕ Wi-Fi ਵੀ ਵਰਤਦੇ ਹੋਵੋ।
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = ਵਿੱਚ ਮੌ�
 ipprotection-site-inclusions-callout-title-lapsed-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ, ਹੁਣ ਹਰ ਸਾਈਟ ਲਈ ਵੱਖਰਾ-ਵੱਖਰਾ
 ipprotection-site-inclusions-callout-description-1 = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰੋ।
 ipprotection-site-inclusions-callout-description-lapsed-users = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰਨ ਲਈ ਨਿਯਮ ਬਣਾਓ।
-ipprotection-site-inclusions-callout-description = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰੋ।
 ipprotection-site-inclusions-callout-primary-button = ਨਿਯਮ ਬਣਾਓ
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ਹੁਣੇ ਨਹੀਂ
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾਰਜ ਕਰੋ
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = { $website } ਲਈ ਨਿਯਮ ਨੂੰ ਹਟਾਓ
     .title = ਹਟਾਓ
-ip-protection-site-rules-header =
-    .heading = ਵੈੱਬਸਾਈਟ ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
-ip-protection-site-rules-button =
-    .description = ਸਾਈਟਾਂ ਲਈ ਨਿਯਮ ਬਣਾਓ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਚਾਹੀਦੀ ਹੈ ਜਾਂ VPN ਬੰਦ ਰੱਖਣਾ ਹੈ।
-    .label = ਵੈੱਬਸਾਈਟ ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 ip-protection-autostart =
     .label = VPN ਨੂੰ ਆਪਣੇ-ਆਪ ਚਾਲੂ ਕਰੋ
 ip-protection-autostart-checkbox =

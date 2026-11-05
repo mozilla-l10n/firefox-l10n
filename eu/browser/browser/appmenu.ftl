@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Sortu profil berria
 fxa-menu-create-profile-learn-more =
     .label = Zer dira profilak?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Partekatu { -brand-product-name }
-appmenuitem-share-firefox-description = Gonbidatu norbait pribatutasuna lehenesten duen nabigatzailea aukeratzera
 appmenu-profiles-2 =
     .label = Profilak
 appmenu-profiles-header = Profilak

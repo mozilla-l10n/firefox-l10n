@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Cloc
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Preifatrwydd
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Croesair
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Cyllid
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Darlun y dydd
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Chwilio
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horosgopau
 home-prefs-mission-message2 =
     .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link2 =
@@ -522,33 +503,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Gosodwch y llun hwn fel eich papur wal
     .label = Gosod y papur wal
     .title = Gosod y papur wal
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Gosod darlun y dydd heddiw fel eich papur wal
-    .label = Gosod y papur wal
-    .title = Gosod y papur wal
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Rheoli papur wal
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Cuddio'r llun yma
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Dangos llun
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Cuddio darlun heddiw
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Dangos darlun heddiw
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Dysgu rhagor
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Dangos llun
     .title = Dangos llun
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Dangos darlun heddiw
-    .title = Dangos darlun heddiw
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Dewch nôl yfory am lun newydd
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -598,9 +564,6 @@ newtab-horoscopes-widget-title = Horosgopau
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Agor dewislen horosgopau
     .title = Agor dewislen horosgopau
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Dewisiadau horosgopau
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Dysgu rhagor
 # Context menu item linking to the Yahoo website, the provider of the

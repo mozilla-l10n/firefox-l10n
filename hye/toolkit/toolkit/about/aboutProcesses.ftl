@@ -8,7 +8,7 @@ about-processes-title = Գործընթացների կառավարիչ
 about-processes-column-action =
     .title = Գործողութիւններ
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Վերբեռնել ներդիրները եւ աւարտել գործընթացը

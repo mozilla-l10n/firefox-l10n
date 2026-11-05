@@ -8,7 +8,7 @@ about-processes-title = Amsefrak n ukala
 about-processes-column-action =
     .title = Tigawin
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Sefsex asali n waccaren, rnu neɣ akala

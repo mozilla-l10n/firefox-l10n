@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie u
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Verbergen Sie Ihren Standort beim Surfen. Legen Sie Regeln fest, um VPN zu aktivieren, wenn Sie <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a> oder standortbasiertes Surfen wünschen, und deaktivieren Sie es, wenn Sie dies nicht tun.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Verbergen Sie beim Surfen Ihren Standort für <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a>. Legen Sie Regeln fest, um das VPN für zusätzlichen Schutz oder standortbezogenes Surfen zu aktivieren und dort zu deaktivieren, wo Sie es nicht benötigen.
 ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? Probieren Sie das integrierte VPN von { -brand-product-name } aus.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Integrierte VPN-Rege
 ipprotection-site-inclusions-callout-title-lapsed-users = Integriertes VPN jetzt gezielt für einzelne Websites testen
 ipprotection-site-inclusions-callout-description-1 = Aktivieren Sie VPN, wenn Sie mehr Privatsphäre oder standortbasiertes Surfen wünschen, und deaktivieren Sie es, wenn dies nicht der Fall ist.
 ipprotection-site-inclusions-callout-description-lapsed-users = Legen Sie Regeln fest, um VPN zu aktivieren, wenn Sie mehr Privatsphäre oder standortbasiertes Surfen wünschen, und zu deaktivieren, wenn Sie dies nicht tun.
-ipprotection-site-inclusions-callout-description = Aktivieren Sie es, wenn Sie mehr Privatsphäre oder standortbasiertes Surfen wünschen, und deaktivieren Sie es, wenn dies nicht der Fall ist.
 ipprotection-site-inclusions-callout-primary-button = Regeln festlegen
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nicht jetzt
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Schließen
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Regel für { $website } löschen
     .title = Löschen
-ip-protection-site-rules-header =
-    .heading = Regeln für Websites verwalten
-ip-protection-site-rules-button =
-    .description = Legen Sie Regeln für Websites fest, die mehr Datenschutz benötigen, oder die ein deaktiviertes VPN benötigen.
-    .label = Regeln für Websites verwalten
 ip-protection-autostart =
     .label = VPN automatisch aktivieren
 ip-protection-autostart-checkbox =

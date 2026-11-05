@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Гадзіннік
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Прыватнасць
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Крыжаванка
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Фінансы
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Фота дня
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Пошук
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Гараскопы
 home-prefs-mission-message2 =
     .message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту.
 home-prefs-manage-topics-link2 =
@@ -495,33 +476,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Усталяваць гэтую выяву ў якасці шпалер
     .label = Усталяваць шпалеры
     .title = Усталяваць шпалеры
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Усталюйце фота дня ў якасці шпалер
-    .label = Усталяваць шпалеры
-    .title = Усталяваць шпалеры
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Кіраваць шпалерамі
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Схаваць гэту выяву
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Паказаць выяву
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Схаваць фота дня
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Паказаць фота дня
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Даведацца больш
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Паказаць выяву
     .title = Паказаць выяву
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Паказаць фота дня
-    .title = Паказаць фота дня
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Зазірніце заўтра, каб убачыць новае фота
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -571,9 +537,6 @@ newtab-horoscopes-widget-title = Гараскопы
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Адкрыць меню гараскопаў
     .title = Адкрыць меню гараскопаў
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Параметры гараскопаў
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Падрабязней
 # Context menu item linking to the Yahoo website, the provider of the

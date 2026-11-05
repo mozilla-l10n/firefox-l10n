@@ -109,6 +109,3 @@ set-password-reminder = Ɣuṛ-k: Ma yella tettuḍ awal uffir n uḥraz n uselk
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Ma ulac aɣilif, sekcem awal uffir ittusqedcen i wewgelhen n weḥraz n uselkin-agi.
-
-## Protected authentication dialog
-

@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Saat
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Gizlilik
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Çapraz bulmaca
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Finans
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Günün resmi
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Arama
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Burçlar
 home-prefs-mission-message2 =
     .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Bu resmi duvar kâğıdı yap
     .label = Duvar kâğıdı yap
     .title = Duvar kâğıdı yap
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Günün resmini duvar kâğıdım yap
-    .label = Duvar kâğıdı yap
-    .title = Duvar kâğıdı yap
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Duvar kâğıdını yönet
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Bu resmi gizle
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Resmi göster
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Bugünkü resmi gizle
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Bugünkü resmi göster
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Daha fazla bilgi al
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Resmi göster
     .title = Resmi göster
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Bugünkü resmi göster
-    .title = Bugünkü resmi göster
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Yarın yeni bir resim burada sizi bekleyecek
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = Burçlar
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Burçlar menüsünü aç
     .title = Burçlar menüsünü aç
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Burçlar seçenekleri
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Daha fazla bilgi al
 # Context menu item linking to the Yahoo website, the provider of the

@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Óra
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Adatvédelem
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Keresztrejtvény
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Pénzügy
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = A nap képe
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Keresés
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoszkópok
 home-prefs-mission-message2 =
     .message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk.
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Kép beállítása háttérképként
     .label = Háttérkép beállítása
     .title = Háttérkép beállítása
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = A nap képének beállítása háttérképnek
-    .label = Háttérkép beállítása
-    .title = Háttérkép beállítása
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Háttérkép kezelése
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Kép elrejtése
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Kép megjelenítése
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = A nap képének elrejtése
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = A nap képének megjelenítése
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = További tudnivalók
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Kép megjelenítése
     .title = Kép megjelenítése
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = A nap képének megjelenítése
-    .title = A nap képének megjelenítése
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Nézzen vissza holnap új képért
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = Horoszkópok
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Horoszkóp menü megnyitása
     .title = Horoszkóp menü megnyitása
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Horoszkópbeállítások
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = További tudnivalók
 # Context menu item linking to the Yahoo website, the provider of the

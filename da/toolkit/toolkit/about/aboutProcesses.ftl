@@ -8,7 +8,7 @@ about-processes-title = Proces-håndtering
 about-processes-column-action =
     .title = Handlinger
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Inaktiver faneblade og afslut proces

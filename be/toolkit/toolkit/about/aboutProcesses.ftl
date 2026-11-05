@@ -8,7 +8,7 @@ about-processes-title = Менеджар працэсаў
 about-processes-column-action =
     .title = Дзеянні
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Выгрузіць карткі і забіць працэс

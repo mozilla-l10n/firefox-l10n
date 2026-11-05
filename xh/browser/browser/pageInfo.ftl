@@ -102,13 +102,6 @@ security-technical-encrypted-description = Ukukhowuda kwenza kube nzima kubantu 
 security-technical-mixed-content-description = Iinxalenye zekhasi olijongileyo bezingenaluguqulelo luntsonkothileyo phambi kokuba zithuthelwe Kunxibelelwano.
 security-technical-weak-cipher = Uqhagamshelo lwakho kule webhsayithi lusebenzisa i-enkripshini ebuthathaka yaye ayikho bucala Abanye abantu banokujonga inkcazelo yakho okanye batshintshe ukusebenza kwewebhsayithi.
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ## These strings are used in the Technical Details section of the security tab
 
 security-technical-no-encryption =

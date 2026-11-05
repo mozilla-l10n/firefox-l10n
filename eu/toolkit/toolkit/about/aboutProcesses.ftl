@@ -8,7 +8,7 @@ about-processes-title = Prozesuen kudeatzailea
 about-processes-column-action =
     .title = Ekintzak
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Hustu fitxak eta akabatu prozesua

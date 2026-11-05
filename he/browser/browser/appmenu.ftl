@@ -413,9 +413,6 @@ fxa-menu-create-profile-confirm =
     .label = יצירת פרופיל חדש
 fxa-menu-create-profile-learn-more =
     .label = מה הם פרופילים?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = שיתוף { -brand-product-name }
-appmenuitem-share-firefox-description = אפשר להזמין מישהו לבחור את הדפדפן ששם את הפרטיות במקום הראשון
 appmenu-profiles-2 =
     .label = פרופילים
 appmenu-profiles-header = פרופילים

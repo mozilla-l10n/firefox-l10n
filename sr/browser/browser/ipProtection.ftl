@@ -36,8 +36,6 @@ ipprotection-feature-introduction-title-summer-promo = Планирате пут
 ipprotection-feature-introduction-description-summer-promo = Идите даље уз уграђени ВПН { -brand-product-name }-а: више локација, неограничен проток. Сада до 31. августа.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке, чак и када сте у приватном прозору.
 ipprotection-feature-introduction-description-private-browsing = Претражујте уз додатну заштиту скривањем локације, чак и када сте у приватном прозору.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Помаже у скривању ваше локације за <a data-l10n-name="learn-more-vpn">додатну приватност</a> током прегледања. Подесите правила да укључите ВПН за додатну приватност или прегледање на основу локације, и искључите га тамо где вам то није потребно.
 ipprotection-feature-introduction-title-captive-portal = Користите јавну бежичну мрежу? Испробајте { -brand-product-name }-ов уграђени VPN.
 ipprotection-feature-introduction-description-captive-portal = Претражујте уз додатну заштиту скривањем локације, чак и на јавној бежичној мрежи.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -113,7 +111,6 @@ ipprotection-android-promo-callout-primary-button = Разумем
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Подесите правила за уграђени ВПН, а затим наставите са прегледањем
 ipprotection-site-inclusions-callout-title-lapsed-users = Испробајте уграђени ВПН, сада страницу по страницу
-ipprotection-site-inclusions-callout-description = Укључите га када желите додатну приватност или прегледање на основу локације, и искључите га тамо где вам то није потребно.
 ipprotection-site-inclusions-callout-primary-button = Подеси правила
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сада
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Одбаци
@@ -283,11 +280,6 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } веб страница
         }
     .label = Управљај поставкама веб странице
-ip-protection-site-rules-header =
-    .heading = Управљај подешавањима веб странице
-ip-protection-site-rules-button =
-    .description = Постави правила за странице којима је потребна додатна приватност или на којима треба искључити ВПН.
-    .label = Управљај подешавањима веб странице
 ip-protection-autostart =
     .label = Самостално укључи ВПН
 ip-protection-autostart-checkbox =

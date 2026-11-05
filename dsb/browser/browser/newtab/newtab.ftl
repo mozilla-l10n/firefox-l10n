@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Zeger
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Priwatnosć
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Kśicawka
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Finance
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Wobraz dnja
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Pytaś
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horoskopy
 home-prefs-mission-message2 =
     .message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili.
 home-prefs-manage-topics-link2 =
@@ -504,33 +485,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Nastajśo toś ten wobraz ako swój slězynowy wobraz
     .label = Slězynowy wobraz nastajiś
     .title = Slězynowy wobraz nastajiś
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Źinsajšny wobraz ako waš slězynowy wobraz nastajiś
-    .label = Slězynowy wobraz nastajiś
-    .title = Slězynowy wobraz nastajiś
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Slězynowy wobraz zastojaś
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Toś ten wobraz schowaś
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Wobraz pokazaś
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Źinsajšny wobraz schowaś
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Źinsajšny wobraz pokazaś
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Dalšne informacije
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Wobraz pokazaś
     .title = Wobraz pokazaś
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Źinsajšny wobraz pokazaś
-    .title = Źinsajšny wobraz pokazaś
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Wrośćo se witśe, aby nowy wobraz wiźeł
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -580,9 +546,6 @@ newtab-horoscopes-widget-title = Horoskopy
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Meni horoskopow wócyniś
     .title = Meni horoskopow wócyniś
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Nastajenja horoskopow
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Dalšne informacije
 # Context menu item linking to the Yahoo website, the provider of the

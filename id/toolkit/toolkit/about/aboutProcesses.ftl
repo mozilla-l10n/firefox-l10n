@@ -8,7 +8,7 @@ about-processes-title = Manajer Proses
 about-processes-column-action =
     .title = Tindakan
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Batal memuat tab dan hentikan proses

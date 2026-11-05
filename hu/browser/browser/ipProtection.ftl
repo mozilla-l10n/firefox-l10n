@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az �
 ipprotection-feature-introduction-description-private-browsing = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még privát ablakban is.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Segítsen elrejteni a tartózkodási helyét böngészés közben. Állítson be szabályokat a VPN bekapcsolásához a <a data-l10n-name="learn-more-vpn">további adatvédelem</a> vagy a helyfüggő böngészés érdekében, és kikapcsolja ott, ahol nincs rá szüksége.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Segítsen elrejteni a tartózkodási helyét a <a data-l10n-name="learn-more-vpn">további adatvédelem</a> érdekében böngészés közben. Állítson be szabályokat a VPN bekapcsolásához a fokozott adatvédelem vagy a helyalapú böngészés érdekében, és kapcsolja ki a VPN-t, ahol nem.
 ipprotection-feature-introduction-title-captive-portal = Nyilvános Wi-Fi-n van? Próbálja ki a { -brand-product-name } beépített VPN-jét.
 ipprotection-feature-introduction-description-captive-portal = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még nyilvános Wi-Fi-n is.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Állítson be szabá
 ipprotection-site-inclusions-callout-title-lapsed-users = Próbálja ki a beépített VPN-t, akár webhelyenként beállítva
 ipprotection-site-inclusions-callout-description-1 = Kapcsolja be, ha fokozott adatvédelmet vagy helyfüggő böngészést szeretne, és kapcsolja ki, ahol nem.
 ipprotection-site-inclusions-callout-description-lapsed-users = Állítson be szabályokat, amelyek bekapcsolják a VPN-t, ha fokozott adatvédelmet vagy helyfüggő böngészést szeretne, és kikapcsolják, ahol nem.
-ipprotection-site-inclusions-callout-description = Kapcsolja be, ha fokozott adatvédelmet vagy helyfüggő böngészést szeretne, és kapcsolja ki, ahol nem.
 ipprotection-site-inclusions-callout-primary-button = Szabályok beállítása
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Most nem
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Eltüntetés
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = { $website } szabályának törlése
     .title = Törlés
-ip-protection-site-rules-header =
-    .heading = Webhely szabályainak kezelése
-ip-protection-site-rules-button =
-    .description = Állítson be szabályokat azokhoz a webhelyekhez, amelyeknek fokozott adatvédelmet kell biztosítaniuk, vagy ki kell kapcsolni a VPN-t.
-    .label = Webhely szabályainak kezelése
 ip-protection-autostart =
     .label = VPN automatikus bekapcsolása
 ip-protection-autostart-checkbox =

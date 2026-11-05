@@ -36,8 +36,6 @@ ipprotection-feature-introduction-title-summer-promo = برنامه‌ای بر�
 ipprotection-feature-introduction-description-summer-promo = با VPN داخلی { -brand-product-name } فراتر بروید: موقعیت‌های مکانی بیشتر و پهنای باند نامحدود. مهلت تا ۳۱ اوت.
 ipprotection-feature-introduction-link-text-private-browsing-2 = از <a data-l10n-name="learn-more-vpn">VPN داخلی</a> جدید ما برای پنهان کردن موقعیت مکانی و حفاظت از داده‌ها، حتی در پنجرهٔ ناشناس، استفاده کنید.
 ipprotection-feature-introduction-description-private-browsing = حتی در پنجرهٔ ناشناس، با پنهان کردن موقعیت مکانی خود با امنیت بیشتری وب‌گردی کنید.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = هنگام مرور، برای <a data-l10n-name="learn-more-vpn">حریم خصوصی بیشتر</a> به پنهان کردن موقعیت مکانی‌تان کمک کنید. قاعده‌هایی بگذارید تا VPN هر جا حریم خصوصی بیشتر یا مرور بر اساس موقعیت می‌خواهید روشن شود و هر جا نمی‌خواهید خاموش بماند.
 ipprotection-feature-introduction-title-captive-portal = به Wi-Fi عمومی متصل هستید؟ VPN داخلی { -brand-product-name } را امتحان کنید.
 ipprotection-feature-introduction-description-captive-portal = حتی روی Wi-Fi عمومی، با پنهان کردن موقعیت مکانی با محافظت بیشتری وب‌گردی کنید.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -113,7 +111,6 @@ ipprotection-android-promo-callout-primary-button = متوجه شدم
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = قاعده‌های VPN داخلی را تنظیم کنید و به مرور ادامه دهید
 ipprotection-site-inclusions-callout-title-lapsed-users = VPN داخلی را امتحان کنید؛ حالا سایت به سایت
-ipprotection-site-inclusions-callout-description = هر وقت حریم خصوصی بیشتر یا مرور بر اساس موقعیت خواستید روشنش کنید، و هر جا نخواستید خاموشش کنید.
 ipprotection-site-inclusions-callout-primary-button = تنظیم قاعده‌ها
 ipprotection-site-inclusions-callout-secondary-button-existing-users = فعلاً نه
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رد کردن
@@ -282,11 +279,6 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } وب‌سایت
         }
     .label = مدیریت تنظیمات وب‌سایت
-ip-protection-site-rules-header =
-    .heading = مدیریت قواعد وب‌سایت‌ها در استفاده از VPN
-ip-protection-site-rules-button =
-    .description = تنظیم قوانین برای سایت‌هایی که به حریم‌خصوصی بیشتر یا خاموش بودن VPN نیاز دارند.
-    .label = مدیریت قوانین وب‌سایت
 ip-protection-autostart =
     .label = روشن شدن خودکار VPN
 ip-protection-autostart-checkbox =

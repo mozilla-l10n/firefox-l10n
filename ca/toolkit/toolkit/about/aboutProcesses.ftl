@@ -8,7 +8,7 @@ about-processes-title = Gestor de processos
 about-processes-column-action =
     .title = Accions
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Descarrega les pestanyes i finalitza el procés

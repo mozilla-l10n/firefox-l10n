@@ -81,9 +81,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = ساعة
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = الخصوصية
 home-prefs-mission-message2 =
     .message = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل.
 home-prefs-manage-topics-link2 =

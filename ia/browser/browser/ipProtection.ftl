@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Adjuta a celar tu position quando tu naviga. Stabili le regulas pro activar le VPN quando tu vole <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> o un navigation ab un position determinate, e disactivar lo quando non.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Adjuta a celar tu position pro <a data-l10n-name="learn-more-vpn">confidentialitate ulterior</a> quando tu naviga. Stabili regulas pro activar le VPN pro confidentialitate ulterior o navigation basate sur position, e disactivar ubi non.
 ipprotection-feature-introduction-title-captive-portal = Es tu sur un wi-fi public? Essaya le VPN integrate de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigar con protection ulterior celante tu position, mesmo sur wi-fi public.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Predefini le regulas
 ipprotection-site-inclusions-callout-title-lapsed-users = Essaya le VPN integrate, ora sito per sito
 ipprotection-site-inclusions-callout-description-1 = Activa le VPN quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactiva lo ubi tu non vole.
 ipprotection-site-inclusions-callout-description-lapsed-users = Stabili le regulas pro activar le VPN quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactivar lo quando non.
-ipprotection-site-inclusions-callout-description = Activa lo quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactiva ubi non.
 ipprotection-site-inclusions-callout-primary-button = Predefini regulas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Non ora
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorar
@@ -332,11 +329,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Dele le regula pro { $website }
     .title = Deler
-ip-protection-site-rules-header =
-    .heading = Gerer regulas de sito web
-ip-protection-site-rules-button =
-    .description = Defini regulas pro sitos que besonia de ulterior confidentialitate o VPN disactivate.
-    .label = Gerer regulas de sito web
 ip-protection-autostart =
     .label = Activar VPN automaticamente
 ip-protection-autostart-checkbox =

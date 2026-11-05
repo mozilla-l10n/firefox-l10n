@@ -8,7 +8,7 @@ about-processes-title = ᱠᱟᱹᱢᱤᱭᱟᱹ
 about-processes-column-action =
     .title = ᱠᱟᱹᱢᱤ ᱠᱚ
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱞᱟᱥ ᱢᱮ

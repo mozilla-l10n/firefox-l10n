@@ -98,6 +98,3 @@ set-password-reminder = වැදගත්: ඔබගේ සහතිකයේ �
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = මෙම සහතික උපස්ථය සංකේතනය කිරීමට භාවිතා කළ මුරපදය යොදන්න:
-
-## Protected authentication dialog
-

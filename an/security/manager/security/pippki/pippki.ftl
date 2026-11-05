@@ -82,6 +82,3 @@ set-password-reminder = Important: si ixuplida a clau d'a copia de seguranza d'o
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Escriba a clau que emplegó ta zifrar a copia de seguranza d'iste certificau.
-
-## Protected authentication dialog
-

@@ -414,9 +414,6 @@ fxa-menu-create-profile-confirm =
     .label = Emoheñói mba’ete pyahu
 fxa-menu-create-profile-learn-more =
     .label = ¿Mba’e umi mba’eteita?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Emoherakuã { -brand-product-name }
-appmenuitem-share-firefox-description = Eipepirũ peteĩape toiporavo kundahára omotenondéva tekoñemi
 appmenu-profiles-2 =
     .label = Mba’etekuéra
 appmenu-profiles-header = Mba’eteita

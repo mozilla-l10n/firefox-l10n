@@ -8,7 +8,7 @@ about-processes-title = Processhanterare
 about-processes-column-action =
     .title = Åtgärder
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Frigör flikar och avsluta processen

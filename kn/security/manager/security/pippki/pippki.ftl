@@ -81,6 +81,3 @@ set-password-reminder = ಗಮನಿಸಿ: ನೀವು ನಿಮ್ಮ ಪ್�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = ದಯವಿಟ್ಟು ಈ ಪ್ರಮಾಣಪತ್ರದ ಬ್ಯಾಕ್ಅಪ್‍ ಅನ್ನು ಎ‌ನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಬಳಸಲ್ಪಟ್ಟಂತಹ ಗುಪ್ತಪದವನ್ನು ದಾಖಲಿಸಿ:
-
-## Protected authentication dialog
-

@@ -82,6 +82,3 @@ set-password-reminder = Penting: Jika anda lupa kata laluan sandaran sijil anda,
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Sila masukkan kata laluan yang digunakan untuk menyulitkan sijil sandaran ini:
-
-## Protected authentication dialog
-

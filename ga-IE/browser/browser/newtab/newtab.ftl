@@ -61,12 +61,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Clog
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Príobháideacht
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Pictiúr an lae
 home-prefs-manage-topics-link2 =
     .label = Bainistigh topaicí
 home-prefs-manage-widgets-link =
@@ -160,15 +154,6 @@ newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháid
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Tuilleadh eolais
-
-## Strings for the Picture of the Day widget
-
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Taispeáin pictiúr an lae inniu
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Taispeáin pictiúr an lae inniu
-    .title = Taispeáin pictiúr an lae inniu
 
 ## Search box component.
 

@@ -8,7 +8,7 @@ about-processes-title = Prosessienhallinta
 about-processes-column-action =
     .title = Toiminnot
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Sulje välilehdet ja tapa prosessi

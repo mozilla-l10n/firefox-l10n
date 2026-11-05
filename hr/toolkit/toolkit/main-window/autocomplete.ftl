@@ -36,12 +36,3 @@ autocomplete-delete-address = Izbriši ovu adresu
 autocomplete-edit-payment-method = Uredi ovaj način plaćanja
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Izbriši ovaj način plaćanja
-
-## Confirmation shown before a record is removed from the autocomplete dropdown.
-## Gated by the browser.autocomplete.removeRecords.enabled pref.
-
-
-## Device sign-in prompt shown before a password is removed from the autocomplete
-## dropdown. The -win and -macosx variants are selected at runtime; other platforms
-## do not support device sign-in and fall back to the Primary Password dialog.
-

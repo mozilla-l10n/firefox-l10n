@@ -6,7 +6,7 @@
 about-processes-column-action =
     .title = Акции
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = Затвори јазиче

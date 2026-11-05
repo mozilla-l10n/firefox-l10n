@@ -8,7 +8,7 @@ about-processes-title = Gestionnaire de processus
 about-processes-column-action =
     .title = Actions
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Décharger les onglets et tuer le processus

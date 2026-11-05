@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Relógio
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = Privacidade
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = Palavras cruzadas
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = Finanças
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = Imagem do dia
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = Pesquisar
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = Horóscopos
 home-prefs-mission-message2 =
     .message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor.
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Defina esta imagem como fundo
     .label = Definir fundo
     .title = Definir fundo
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = Definir a imagem de hoje como o seu fundo
-    .label = Definir fundo
-    .title = Definir fundo
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gerir fundo
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Ocultar esta imagem
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = Mostrar imagem
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = Ocultar a imagem de hoje
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Mostrar a imagem de hoje
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Saber mais
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = Mostrar imagem
     .title = Mostrar imagem
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = Mostrar a imagem de hoje
-    .title = Mostrar a imagem de hoje
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Volte amanhã para uma nova imagem
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = Horóscopos
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = Abrir menu dos horóscopos
     .title = Abrir menu dos horóscopos
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = Opções dos horóscopos
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Saber mais
 # Context menu item linking to the Yahoo website, the provider of the

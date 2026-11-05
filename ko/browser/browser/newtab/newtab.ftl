@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = 시계
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = 개인 정보 보호
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = 십자말풀이
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = 금융
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = 오늘의 사진
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = 검색
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = 오늘의 운세
 home-prefs-mission-message2 =
     .message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다.
 home-prefs-manage-topics-link2 =
@@ -450,33 +431,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = 이 사진을 배경 화면으로 설정
     .label = 배경 화면 설정
     .title = 배경 화면 설정
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = 오늘의 사진을 배경 화면으로 설정하세요
-    .label = 배경 화면 설정
-    .title = 배경 화면 설정
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 배경 화면 관리
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = 사진 숨기기
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = 사진 보기
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = 오늘의 사진 숨기기
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = 오늘의 사진 보기
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 더 알아보기
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = 사진 보기
     .title = 사진 보기
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = 오늘의 사진 보기
-    .title = 오늘의 사진 보기
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = 새로운 사진은 내일 다시 확인해 주세요
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -526,9 +492,6 @@ newtab-horoscopes-widget-title = 오늘의 운세
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = 오늘의 운세 메뉴
     .title = 오늘의 운세 메뉴
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = 오늘의 운세 옵션
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = 더 알아보기
 # Context menu item linking to the Yahoo website, the provider of the

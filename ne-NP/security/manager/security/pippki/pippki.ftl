@@ -82,6 +82,3 @@ set-password-reminder = महत्वपूर्ण: तपाईँले �
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = कृपया यो प्रमाणपत्र जगेडालाई गोप्य राख्न प्रयोग गरिएको गोप्यशब्द प्रविष्ट गर्नुहोस्।
-
-## Protected authentication dialog
-

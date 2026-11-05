@@ -8,7 +8,7 @@ about-processes-title = Merer argerzhoù
 about-processes-column-action =
     .title = Oberezhioù
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Diskargañ an ivinelloù ha lazhañ an argerzh

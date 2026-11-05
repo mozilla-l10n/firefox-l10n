@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = Izveidot jaunu profilu
 fxa-menu-create-profile-learn-more =
     .label = Kas ir profili?
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Kopīgot { -brand-product-name }
-appmenuitem-share-firefox-description = Uzaiciniet kādu izvēlēties pārlūku, kas privātumu izvirza pirmajā vietā
 appmenu-profiles-2 =
     .label = Profili
 appmenu-profiles-header = Profili

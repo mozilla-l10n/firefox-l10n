@@ -8,7 +8,7 @@ about-processes-title = Менеджер процессов
 about-processes-column-action =
     .title = Действия
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Выгрузить вкладки и убить процесс

@@ -82,6 +82,3 @@ set-password-reminder = महत्वाचे: आपण प्रतिक�
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = या प्रमाणपत्राचा बॅकअप एन्क्रिप्ट करताना वापरलेला पासवर्ड टाका:
-
-## Protected authentication dialog
-

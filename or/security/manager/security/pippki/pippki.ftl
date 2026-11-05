@@ -81,6 +81,3 @@ set-password-reminder = ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ: ଯଦି �
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = ଏହି ସାର୍ଟିଫିକେଟର ବ୍ୟାକଅପ ଗୋପନ (ଏନକ୍ରିପ୍ଟ) କରିବାରେ ବ୍ୟବହୃତ ପାସୱାର୍ଡ଼ ଦିଅନ୍ତୁ:
-
-## Protected authentication dialog
-

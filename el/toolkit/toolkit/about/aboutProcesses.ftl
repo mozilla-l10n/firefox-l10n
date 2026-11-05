@@ -8,7 +8,7 @@ about-processes-title = Διαχείριση διεργασιών
 about-processes-column-action =
     .title = Ενέργειες
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Εκφόρτωση καρτελών και τερματισμός διεργασίας

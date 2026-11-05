@@ -8,7 +8,7 @@ about-processes-title = Upravitelj procesov
 about-processes-column-action =
     .title = Dejanja
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Zavrzi vsebino zavihkov in končaj proces

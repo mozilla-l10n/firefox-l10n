@@ -8,7 +8,7 @@ about-processes-title = Përgjegjës Procesesh
 about-processes-column-action =
     .title = Veprime
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Hiqe ngarkimin e skedave dhe asgjësoje procesin

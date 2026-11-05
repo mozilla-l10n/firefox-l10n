@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = 新建配置文件
 fxa-menu-create-profile-learn-more =
     .label = 什么是配置文件？
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = 分享 { -brand-product-name }
-appmenuitem-share-firefox-description = 邀请朋友选择这款隐私为先的浏览器
 appmenu-profiles-2 =
     .label = 配置文件
 appmenu-profiles-header = 配置文件

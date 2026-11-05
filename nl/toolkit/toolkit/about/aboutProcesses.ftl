@@ -8,7 +8,7 @@ about-processes-title = Procesbeheerder
 about-processes-column-action =
     .title = Acties
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Tabbladen leegmaken en proces beëindigen

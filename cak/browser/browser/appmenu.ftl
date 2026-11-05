@@ -328,8 +328,6 @@ appmenu-edit-profile =
     .aria-label = Tinuk' ruwäch b'i'aj
 fxa-menu-create-profile-confirm =
     .label = Tinuk' jun k'ak'a' ruwäch b'i'aj
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = Tikomonïx { -brand-product-name }
 appmenu-profiles-2 =
     .label = Ruwäch taq b'i'aj
 appmenu-profiles-header = Ruwäch taq b'i'aj

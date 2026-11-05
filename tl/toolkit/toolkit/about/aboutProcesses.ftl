@@ -5,7 +5,7 @@
 # Page title
 about-processes-title = Process Manager
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = Isara ang Tab

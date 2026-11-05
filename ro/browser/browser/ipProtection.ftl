@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Ajută la ascunderea locației când navighezi. Setează reguli pentru activarea VPN-ului când vrei <a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> sau navigare în funcție de locație și pentru dezactivarea lui când nu vrei să îl folosești.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> în timp ce navighezi. Setează reguli pentru activarea VPN-ului pentru un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Setează reguli pent
 ipprotection-site-inclusions-callout-title-lapsed-users = Încearcă VPN-ul încorporat, acum pentru fiecare site în parte
 ipprotection-site-inclusions-callout-description-1 = Activează VPN-ul încorporat când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-site-inclusions-callout-description-lapsed-users = Setează reguli pentru activarea VPN-ul când vrei un plus de confidențialitate sau navigare în funcție de locație și pentru a-l dezactiva când nu ai nevoie.
-ipprotection-site-inclusions-callout-description = Activează-l când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-site-inclusions-callout-primary-button = Setează reguli
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nu acum
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
@@ -333,11 +330,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Șterge regula pentru { $website }
     .title = Șterge
-ip-protection-site-rules-header =
-    .heading = Gestionează regulile pentru site-uri web
-ip-protection-site-rules-button =
-    .description = Setează reguli pentru site-uri care necesită un plus de confidențialitate sau dezactivarea VPN-ului.
-    .label = Gestionează regulile pentru site-uri web
 ip-protection-autostart =
     .label = Activează automat VPN-ul
 ip-protection-autostart-checkbox =

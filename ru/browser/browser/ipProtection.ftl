@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Использ�
 ipprotection-feature-introduction-description-private-browsing = Работайте в интернете с дополнительной защитой, скрывая своё местоположение, даже когда вы находитесь в приватном окне.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Помогите скрыть свое местоположение во время веб-сёрфинга. Установите правила, включающие VPN, когда вы хотите <a data-l10n-name="learn-more-vpn">дополнительную приватность</a> или веб-сёрфинг с учётом местоположения, и выключать, когда вы этого не хотите.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Помогите скрыть свое местоположение для <a data-l10n-name="learn-more-vpn">дополнительной конфиденциальности</a> при веб-сёрфинге. Установите правила, чтобы включать VPN для дополнительной конфиденциальности или просмотра на основе местоположения, и выключать там, где это не нужно.
 ipprotection-feature-introduction-title-captive-portal = Используете общедоступный Wi-Fi? Попробуйте встроенный в { -brand-product-name } VPN.
 ipprotection-feature-introduction-description-captive-portal = Работайте в интернете с дополнительной защитой, скрывая своё местоположение даже при подключении к общедоступной сети Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = Установите
 ipprotection-site-inclusions-callout-title-lapsed-users = Попробуйте встроенный VPN, теперь сайт за сайтом
 ipprotection-site-inclusions-callout-description-1 = Включите VPN, когда вам нужна дополнительная приватность или местоположение в Интернете, и выключите там, где вам это не нужно.
 ipprotection-site-inclusions-callout-description-lapsed-users = Установите правила для включения VPN, когда вам нужна дополнительная приватность или местоположение в зависимости от местоположения, и отключения, когда это не требуется.
-ipprotection-site-inclusions-callout-description = Включите это, когда вам нужна дополнительная приватность или сёрфинг на основе местоположения, и выключите, если это вам не нужно.
 ipprotection-site-inclusions-callout-primary-button = Установить правила
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сейчас
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Убрать
@@ -333,11 +330,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = Удалить правило для { $website }
     .title = Удалить
-ip-protection-site-rules-header =
-    .heading = Управление правилами веб-сайтов
-ip-protection-site-rules-button =
-    .description = Устанавливает правила для сайтов, которым необходима дополнительная приватность или отключение VPN.
-    .label = Управление правилами веб-сайтов
 ip-protection-autostart =
     .label = Включать VPN автоматически
 ip-protection-autostart-checkbox =

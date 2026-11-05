@@ -39,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a da
 ipprotection-feature-introduction-description-private-browsing = 사생활 보호 창에 있을 때도 위치를 숨겨 탐색을 추가 보호합니다.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = 탐색할 때 위치를 숨길 수 있습니다. <a data-l10n-name="learn-more-vpn">추가적인 개인 정보 보호</a> 또는 위치 기반 탐색을 원할때 VPN을 켜고 그렇지 않은 곳에서는 VPN을 끄는 규칙을 설정해 보세요.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = 탐색할 때 <a data-l10n-name="learn-more-vpn">개인 정보 보호</a>를 위해 위치를 숨길 수 있습니다. 추가 개인 정보 보호 또는 위치 기반 탐색을 위해 VPN을 켜고 그렇지 않은 곳에서는 끄는 규칙을 설정하세요.
 ipprotection-feature-introduction-title-captive-portal = 공용 Wi-Fi를 사용하고 계십니까? { -brand-product-name }에 내장된 VPN을 사용해 보세요.
 ipprotection-feature-introduction-description-captive-portal = 공용 Wi-Fi에서도 위치를 숨겨 탐색을 추가 보호합니다.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -118,7 +116,6 @@ ipprotection-site-inclusions-callout-title-existing-users = 내장 VPN 규칙을
 ipprotection-site-inclusions-callout-title-lapsed-users = 이제 사이트별로 내장 VPN을 이용해 보세요
 ipprotection-site-inclusions-callout-description-1 = 추가적인 개인 정보 보호 또는 위치 기반 탐색이 필요할 때 켜고 그렇지 않은 곳에서 끌 수 있습니다.
 ipprotection-site-inclusions-callout-description-lapsed-users = 추가적인 개인 정보 보호 또는 위치 기반 탐색이 필요할 때 켜고 그렇지 않은 곳에서 끌 수 있습니다.
-ipprotection-site-inclusions-callout-description = 추가적인 개인 정보 보호 또는 위치 기반 탐색이 필요할 때 켜고 그렇지 않은 곳에서 끌 수 있습니다.
 ipprotection-site-inclusions-callout-primary-button = 규칙 설정
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 나중에
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 닫기
@@ -328,11 +325,6 @@ ip-protection-site-rules-edit-button =
 ip-protection-site-rules-delete-button =
     .aria-label = { $website }의 규칙 삭제
     .title = 삭제
-ip-protection-site-rules-header =
-    .heading = 웹 사이트 규칙 관리
-ip-protection-site-rules-button =
-    .description = 추가적인 개인 정보 보호가 필요하거나 VPN이 꺼져야 하는 사이트에 규칙을 설정하세요.
-    .label = 웹 사이트 규칙 관리
 ip-protection-autostart =
     .label = 자동으로 VPN 켜기
 ip-protection-autostart-checkbox =

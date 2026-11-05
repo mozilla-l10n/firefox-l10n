@@ -106,25 +106,12 @@ security-technical-no-encryption-transit = Mabasa ti sabali a tao ti damag nga i
 security-technical-encrypted-page = Naikripta ti panid a basbasaenyo sakbay a nayakar aglasat iti Internet.
 security-technical-mixed-content-description = Dagiti paset ti panid a basbasaenyo ket saanda a naikripta sakbayda nayakar aglasat iti Internet.
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ## These strings are used in the Technical Details section of the security tab
 
 security-technical-no-encryption =
     .value = Saan a Nakakripta ti Panilpo
 security-technical-mixed-content =
     .value = Nakakripta a Sangkapaset Laeng ti Panilpo
-
-## Variables:
-##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
-##   $keySize (number) - The size of the encryption key in bits
-##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
-
 
 ##
 

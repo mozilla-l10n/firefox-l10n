@@ -8,7 +8,7 @@ about-processes-title = Үрдістер басқарушысы
 about-processes-column-action =
     .title = Әрекеттер
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Беттерді жадыдан түсіріп, үрдісті өлтіру

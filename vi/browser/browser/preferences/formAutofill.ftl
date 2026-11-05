@@ -126,10 +126,6 @@ autofill-card-billing-address-2 =
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =
     .label = CVV (không bắt buộc)
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code =
-    .label = CVV
 autofill-card-name-on-card = Tên trên thẻ
 autofill-card-expires-month = Hết hạn tháng
 autofill-card-expires-year = Hết hạn năm

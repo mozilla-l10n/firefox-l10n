@@ -97,6 +97,3 @@ set-password-reminder = Cudromach: ma dhìochuimhnicheas tu facal-faire lethbhre
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Cuir a-steach am facal-faire a chleachd thu gus lethbhreac-glèidhidh an teisteanais seo a chrioptachadh:
-
-## Protected authentication dialog
-

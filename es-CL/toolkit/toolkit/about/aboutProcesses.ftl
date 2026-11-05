@@ -8,7 +8,7 @@ about-processes-title = Administrador de procesos
 about-processes-column-action =
     .title = Acciones
 
-## Tooltips
+## Search
 
 about-processes-shutdown-process =
     .title = Detener pestañas y eliminar procesos

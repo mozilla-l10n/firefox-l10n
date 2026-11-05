@@ -80,19 +80,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = ساعت
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = سیخومی
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = جدول کلمه یل موتقاتع
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = شؽوات رۊز
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = پیتینیڌن
 home-prefs-mission-message2 =
     .message = هؽزگرووݩ مالی ایما ز مئمۊریت ایما سی وورکل کردن وبگه بؽڌر لادراری اکونن.
 home-prefs-manage-topics-link2 =
@@ -329,33 +316,18 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = نیشتن موجوز { $license }
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = سامووݩ شؽوات ٱمرۊز و عونوان پس زمینه
-    .label = سامووݩ و عونوان پس زمینه
-    .title = سامووݩ و عونوان پس زمینه
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = دؽوۉداری کاقز دیواری
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = بؽڌار کردن ای شؽوات
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = نشووݩ داڌن شؽوات
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = بؽڌار کردن شؽوات ٱمرۊز
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = نشووݩ داڌن شؽوات ٱمرۊز
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = قلوه دووسته بۊین
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = نشووݩ داڌن شؽوات
     .title = نشووݩ داڌن شؽوات
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = نشووݩ داڌن شؽوات ٱمرۊز
-    .title = نشووݩ داڌن شؽوات ٱمرۊز
 
 ## Strings for the Search widget
 

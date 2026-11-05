@@ -6,7 +6,7 @@
 about-processes-column-action =
     .title = اعمال
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = ٹیب بند کریں

@@ -109,6 +109,3 @@ set-password-reminder = Impurtant: sche ti emblidas tes pled-clav da segirezza d
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Endatescha il pled-clav ch'è vegnì utilisà per criptar la copia da segirezza da quest certificat:
-
-## Protected authentication dialog
-

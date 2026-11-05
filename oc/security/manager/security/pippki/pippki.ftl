@@ -99,6 +99,3 @@ set-password-reminder = Important : s'avètz oblidat vòstre senhal de segureta
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Picatz lo senhal per chifrar la còpia de seguretat d'aqueste certificat :
-
-## Protected authentication dialog
-

@@ -6,7 +6,7 @@
 about-processes-column-action =
     .title = क्रिया
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = टैब बंद करें

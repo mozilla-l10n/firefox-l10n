@@ -8,7 +8,7 @@ about-processes-title = Xestor de procesos
 about-processes-column-action =
     .title = Aiciones
 
-## Tooltips
+## Search
 
 about-processes-shutdown-tab =
     .title = Zarrar la llingüeta

@@ -21,15 +21,3 @@ reset-password-button-label =
 
 download-cert-view-cert =
     .label = Bheka
-
-## Client Authentication Ask dialog
-
-
-## Set password (p12) dialog
-
-
-## Certificate backup import prompt
-
-
-## Protected authentication dialog
-

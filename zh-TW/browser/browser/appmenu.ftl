@@ -415,9 +415,6 @@ fxa-menu-create-profile-confirm =
     .label = 建立新設定檔
 fxa-menu-create-profile-learn-more =
     .label = 設定檔是什麼？
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title2 = 分享 { -brand-product-name }
-appmenuitem-share-firefox-description = 邀請其他人選用將隱私看得最重要的瀏覽器
 appmenu-profiles-2 =
     .label = 設定檔
 appmenu-profiles-header = 設定檔

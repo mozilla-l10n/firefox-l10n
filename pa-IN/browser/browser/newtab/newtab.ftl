@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = ਘੜੀ
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = ਪਰਦੇਦਾਰੀ
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = ਕਰਾਸ-ਵਰਡ
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = ਵਿੱਤੀ
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = ਖੋਜ
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = ਕੁੰਡਲੀਆਂ
 home-prefs-mission-message2 =
     .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
 home-prefs-manage-topics-link2 =
@@ -486,33 +467,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = ਇਸ ਤਸਵੀਰ ਨੂੰ ਆਪਣੇ ਵਾਲਪੇਪਰ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
     .label = ਵਾਲਪੇਪਰ ਲਾਓ
     .title = ਵਾਲਪੇਪਰ ਲਾਓ
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਆਪਣੇ ਵਾਲਪੇਪਰ ਵਜੋਂ ਲਾਓ
-    .label = ਵਾਲਪੇਪਰ ਲਾਓ
-    .title = ਵਾਲਪੇਪਰ ਲਾਓ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ਵਾਲਪੇਪਰ ਦਾ ਇੰਤਜ਼ਾਮ
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = ਇਸ ਤਸਵੀਰ ਨੂੰ ਲੁਕਾਓ
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = ਤਸਵੀਰ ਨੂੰ ਵੇਖਾਓ
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਲੁਕਾਓ
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = ਹੋਰ ਜਾਣੋ
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = ਤਸਵੀਰ ਨੂੰ ਵੇਖਾਓ
     .title = ਤਸਵੀਰ ਨੂੰ ਵੇਖਾਓ
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
-    .title = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = ਨਵੀਂ ਤਸਵੀਰ ਲਈ ਭਲਕੇ ਵੇਖਿਓ
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -562,9 +528,6 @@ newtab-horoscopes-widget-title = ਕੁੰਡਲੀਆਂ
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = ਕੁੰਡਲੀਆਂ ਦਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
     .title = ਕੁੰਡਲੀਆਂ ਦਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = ਕੁੰਡਲੀਆਂ ਚੋਣਾਂ ਨੂੰ ਵੇਖੋ
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = ਹੋਰ ਜਾਣੋ
 # Context menu item linking to the Yahoo website, the provider of the

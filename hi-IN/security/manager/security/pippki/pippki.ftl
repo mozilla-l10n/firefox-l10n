@@ -86,6 +86,3 @@ set-password-reminder = Important: अगर आप अपना प्रमा
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = पासवर्ड यहां डालें जो कि इस प्रमाणपत्र के गोपन के लिये प्रयुक्त होता है:
-
-## Protected authentication dialog
-

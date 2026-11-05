@@ -83,25 +83,6 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = שעון
-# Privacy is a widget on New Tab that shows tracking protection activity.
-home-prefs-privacy-header =
-    .label = פרטיות
-# Crossword is a widget on New Tab that shows a daily crossword puzzle.
-home-prefs-crossword-widget-header =
-    .label = תשבץ
-# Finance is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header2 =
-    .label = שוק ההון
-# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
-home-prefs-picture-header =
-    .label = התמונה של היום
-# Search is a widget on New Tab that shows the user's recent and trending
-# searches.
-home-prefs-search-widget-header =
-    .label = חיפוש
-# Horoscopes is a widget on New Tab that shows daily horoscopes.
-home-prefs-horoscopes-header =
-    .label = הורוסקופ
 home-prefs-mission-message2 =
     .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link2 =
@@ -479,33 +460,18 @@ newtab-picture-set-wallpaper2 =
     .aria-label = הגדרת תמונה זו כתמונת הרקע שלך
     .label = הגדרת תמונת רקע
     .title = הגדרת תמונת רקע
-# Button that sets the current picture as the New Tab background wallpaper. The
-# button collapses to an icon when not hovered/focused, so .title is its tooltip.
-newtab-picture-set-wallpaper =
-    .aria-label = הגדרת התמונה של היום כתמונת הרקע שלך
-    .label = הגדרת תמונת רקע
-    .title = הגדרת תמונת רקע
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ניהול תמונת רקע
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = הסתרת תמונה זו
 # Context menu item that restores the picture after it has been hidden.
 newtab-picture-menu-show-photo2 = הצגת תמונה
-# Context menu item that hides today’s picture, replacing it with an existing
-# wallpaper.
-newtab-picture-menu-hide-photo = הסתרת התמונה של היום
-# Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = הצגת התמונה של היום
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = מידע נוסף
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
     .aria-label = הצגת תמונה
     .title = הצגת תמונה
-# Icon button shown on the widget once the picture is hidden; restores it.
-newtab-picture-show-button =
-    .aria-label = הצגת התמונה של היום
-    .title = הצגת התמונה של היום
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = כדאי לחזור מחר לתמונה חדשה
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -555,9 +521,6 @@ newtab-horoscopes-widget-title = הורוסקופ
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = פתיחת תפריט ההורוסקופ
     .title = פתיחת תפריט ההורוסקופ
-# Screen reader label for the widget's icon-only menu button.
-newtab-horoscopes-widget-menu-button =
-    .aria-label = אפשרויות הורוסקופ
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = מידע נוסף
 # Context menu item linking to the Yahoo website, the provider of the

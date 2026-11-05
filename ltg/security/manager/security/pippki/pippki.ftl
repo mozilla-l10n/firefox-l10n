@@ -82,6 +82,3 @@ set-password-reminder = Svareigi: Ka aizmierssi itū paroli, navareisi atjaunōt
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Lyudzu īvodit paroli, kas tyka izmontuota sertifikata rezerves puorspīdumi šifriešonā:
-
-## Protected authentication dialog
-
