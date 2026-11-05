@@ -14,6 +14,8 @@ change-password-token = Varnostna naprava: { $tokenName }
 change-password-old = Trenutno geslo:
 change-password-new = Novo geslo:
 change-password-reenter = Novo geslo (ponovno):
+change-password-not-set =
+    .value = (ni nastavljeno)
 pippki-failed-pw-change = Gesla ni bilo mogoče spremeniti.
 pippki-incorrect-pw = Vneseno geslo je napačno. Poskusite znova.
 pippki-pw-change-ok = Geslo je uspešno spremenjeno.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Geslo varnostne kopije digitalnega potrdila (ponovno):
 set-password-reminder = Pomembno: Če pozabite geslo varnostne kopije digitalnega potrdila, je pozneje ne boste mogli obnoviti. Geslo shranite na varnem mestu.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
