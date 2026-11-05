@@ -23,3 +23,14 @@ dom-manifest-invalid-css-color = { $property }: { $value } är inte en giltig CS
 #   $value (String) - The invalid value of the property.
 # Example: "lang: 42 is not a valid language code."
 dom-manifest-lang-is-invalid = { $property }: { $value } är inte en giltig språkkod.
+# Variables:
+#   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
+#   $index (Number) - The index of the image object that is unusable, starting from 0.
+# Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
+dom-manifest-image-unusable = Objekt { $memberName } på index { $index } saknar ett användbart syfte. Det kommer att ignoreras.
+# Variables:
+#   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
+#   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
+#   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes repeated purpose(s): a, b."
+dom-manifest-image-repeated-purposes = Objekt { $memberName } på index { $index } inkluderar upprepade ändamål: { $purposes }.
