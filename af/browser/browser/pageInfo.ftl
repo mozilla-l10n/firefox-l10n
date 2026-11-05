@@ -98,6 +98,11 @@ security-view-technical =
     .value = Tegniese details
 help-button =
     .label = Hulp
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Die webwerf { $website } ondersteun nie enkripsie vir die bladsy wat u bekyk nie.
+security-technical-no-encryption-transit = Inligting wat sonder enkripsie oor die internet gestuur word, kan deur ander mense gesien word terwyl dit gestuur word.
+security-technical-no-encryption-page = Die bladsy wat u bekyk, is nié geënkripteer voor dit oor die internet versend is nie.
 security-technical-encrypted-page = Die bladsy wat u bekyk, is geënkripteer voor dit oor die internet versend is.
 security-technical-encrypted-description = Enkripsie maak dit moeilik vir ongemagtigde mense om inligting wat tussen rekenaars beweeg, te bekyk. Dit is dus onwaarskynlik dat enige iemand hierdie bladsy lees wanneer dit oor die netwerk oorgedra word.
 security-technical-mixed-content-description = Dele van die bladsy wat u bekyk, is nie geënkripteer voor dit oor die internet versend is nie.
@@ -115,6 +120,8 @@ security-site-data-no = Nee
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Verbinding nie geënkripteer nie
 security-technical-mixed-content =
     .value = Verbinding gedeeltelik geënkripteer
 
