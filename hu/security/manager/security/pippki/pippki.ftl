@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Tanúsítvány letöltése
 download-cert-message = Arra kérik, hogy bízzon meg egy új hitelesítésszolgáltatóban (CA-ban).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Megbízik „{ $caName }” CA-ban a következő témákban?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Hitelesítésszolgáltató (névtelen)
 download-cert-trust-ssl =
     .label = Megbízás webhelyek azonosítására
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Fontos: Ha elfelejti a tanúsítványokról készült bi
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Adja meg a jelszót, amelyet ennek a tanúsítványokról készült biztonsági mentésnek a titkosításához használt:
 
 ## Protected authentication dialog
 
