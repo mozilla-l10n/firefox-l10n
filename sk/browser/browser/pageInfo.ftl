@@ -110,6 +110,11 @@ security-view-technical =
     .value = Technické detaily
 help-button =
     .label = Pomocník
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Server { $website } nepodporuje šifrovanie pre stránku, ktorú práve čítate.
+security-technical-no-encryption-transit = Informácie odoslané cez internet bez zašifrovania môžu byť počas cesty pozorované inými ľuďmi.
+security-technical-no-encryption-page = Zobrazená stránka nebola zašifrovaná predtým, ako bola odoslaná cez internet.
 security-technical-encrypted-page = Stránka, ktorú čítate, bola zašifrovaná predtým, ako bola odoslaná cez internet.
 security-technical-encrypted-description = Vďaka zašifrovaniu je pre neautorizovaných ľudí ťažké vidieť informácie, putujúce medzi dvoma počítačmi. Je preto nepravdepodobné, že by niekto prečítal túto stránku počas jej cesty po internete.
 security-technical-mixed-content-description = Časť práve prehliadanej stránky nebola zašifrovaná predtým, ako bola odoslaná cez internet.
@@ -129,6 +134,8 @@ security-site-data-no = Nie
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Pripojenie nie je šifrované
 security-technical-mixed-content =
     .value = Pripojenie je čiastočne šifrované
 

@@ -103,6 +103,7 @@ set-password-reminder = Dôležité: ak zabudnete heslo pre zálohu certifikáto
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Zadajte heslo, ktorým bola zašifrovaná táto záloha certifikátov:
 
 ## Protected authentication dialog
 
