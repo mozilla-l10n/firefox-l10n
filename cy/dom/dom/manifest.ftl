@@ -23,3 +23,22 @@ dom-manifest-invalid-css-color = { $property }: Nid yw { $value } yn lliw CSS di
 #   $value (String) - The invalid value of the property.
 # Example: "lang: 42 is not a valid language code."
 dom-manifest-lang-is-invalid = { $property }: Nid yw { $value } yn god iaith dilys.
+# Variables:
+#   $memberName (String) - The name of the parent property whose value is invalid, e.g. "icons".
+#   $index (Number) - The index of the image object that is invalid, starting from 0.
+#   $member (String) - The name of the member that is invalid, e.g. "src".
+#   $value (String) - The invalid value.
+# There is no final period, so that it is not mistaken for part of the URL.
+# Example: "icons item at index 2 is invalid. The src member is an invalid URL http://:Invalid"
+dom-manifest-image-url-is-invalid = Mae eitem { $memberName } ar fynegai { $index } yn annilys. Mae'r aelod { $member } yn URL annilys { $value }
+# Variables:
+#   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
+#   $index (Number) - The index of the image object that is unusable, starting from 0.
+# Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
+dom-manifest-image-unusable = Nid oes gan eitem { $memberName } ar fynegai { $index } bwrpas defnyddiol. Bydd yn cael ei anwybyddu.
+# Variables:
+#   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
+#   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
+#   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes repeated purpose(s): a, b."
+dom-manifest-image-repeated-purposes = Mae gan eitem { $memberName } ar fynegai { $index } bwrpas(au) sy'n cynnwys eu hailadrodd: { $purposes }.
