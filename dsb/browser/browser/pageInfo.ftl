@@ -122,6 +122,17 @@ security-site-data-only = Jo, { $value } { $unit } sedłowych datow
 security-site-data-cookies-only = Jo, cookieje
 security-site-data-no = Ně
 
+## These strings are used in the Technical Details section of the security tab
+
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Zwisk skoděrowany ({ $algorithm }, bitowe kluce { $keySize }, { $protocol })
+
 ##
 
 image-size-unknown = Njeznaty
