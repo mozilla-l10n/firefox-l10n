@@ -101,6 +101,9 @@ security-view-technical =
     .value = තාක්‍ෂණික දත්ත
 help-button =
     .label = උදව්
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = { $website } අඩවිය ඔබ දකින පිටුව සංකේතනයට සහාය නොදක්වයි.
 security-technical-encrypted-page = ඔබ දකින පිටුව අන්තර්ජාලය හරහා සම්ප්‍රේෂණය වීමට පෙර සංකේතනය කර ඇත.
 security-technical-encrypted-description = සංකේතනය මගින් අනවසර පුද්ගලයින්ට පරිගණක අතර ගමන් කරන තොරතුරු දැකීම ඉතා අපහසු කරයි. එබැවින් මෙම පිටුව ජාලය හරහා ගමන් කිරීමේදී කිසිවකු එය කියවා ඇතැයි සිතීමට නොහැකිය.
 security-technical-mixed-content-description = ඔබ නරඹන පිටුවේ කොටස් අන්තර්ජාලය හරහා සම්ප්‍රේෂණය කිරීමට පෙර සංකේතනය කර නොතිබුණි.
@@ -119,6 +122,8 @@ security-site-data-no = නැහැ
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = සම්බන්ධතාව අසංකේතිතයි
 security-technical-mixed-content =
     .value = සම්බන්ධතාව අර්ධ සංකේතිතයි
 
