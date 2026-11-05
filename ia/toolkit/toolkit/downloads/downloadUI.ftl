@@ -40,6 +40,27 @@ download-ui-cancel-downloads-ok =
        *[other] Cancellar { $downloadsCount } discargamentos
     }
 download-ui-confirm-cancel-button = Cancellar
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Stoppar 1 discargamento e exir de { -brand-short-name }?
+                [one] Stoppar 1 discargamento e exir de { -brand-short-name }?
+               *[other] Stoppar { $downloadsCount } discargamentos e exir de { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Stoppar 1 discargamento e quitar { -brand-short-name }?
+                [one] Stoppar 1 discargamento e quitar { -brand-short-name }?
+               *[other] Stoppar { $downloadsCount } discargamentos e quitar { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } probara a recomenciar discarga quando illo reaperi, ma le progresso pote esser perdite.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Exir de { -brand-short-name }
+       *[other] Quita { -brand-short-name }
+    }
 download-ui-confirm-private-browsing-button = Clauder fenestra
 
 ##
