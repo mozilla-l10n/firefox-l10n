@@ -14,6 +14,8 @@ change-password-token = Periferic de seguretat: { $tokenName }
 change-password-old = Senhal actual :
 change-password-new = Picatz lo senhal actual :
 change-password-reenter = Tornatz picatz lo senhal :
+change-password-not-set =
+    .value = (pas definit)
 pippki-failed-pw-change = Cambiament del senhal impossible.
 pippki-incorrect-pw = Avètz pas picat lo senhal principal actual corrècte. Tornatz ensajar.
 pippki-pw-change-ok = Senhal corrèctament modificat.
@@ -88,3 +90,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Senhal de salvament del certificat (encara) :
 set-password-reminder = Important : s'avètz oblidat vòstre senhal de seguretat, poiretz pas mai importar aquesta salvagarda mai tard. Conservatz-lo en luòc segur.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
