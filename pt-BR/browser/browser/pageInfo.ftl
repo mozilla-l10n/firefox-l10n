@@ -122,6 +122,17 @@ security-site-data-only = Sim, { $value } { $unit } de dados do site
 security-site-data-cookies-only = Sim, cookies
 security-site-data-no = Não
 
+## These strings are used in the Technical Details section of the security tab
+
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Conexão criptografada ({ $algorithm }, chaves de { $keySize } bits, { $protocol })
+
 ##
 
 image-size-unknown = Desconhecido
