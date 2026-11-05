@@ -110,6 +110,11 @@ security-view-technical =
     .value = Technyske details
 help-button =
     .label = Help
+security-technical-encrypted-page = De side dy’t jo besjogge is fersifere foardat dizze oer it ynternet ferstjoerd waard.
+security-technical-encrypted-description = Fersifering makket it swier foar persoanen sûnder foech om gegevens te besjen dy’t tusken kompjûters útwiksele wurdt. It is dêrom net wierskynlik dat ien dizze side lêzen hat wylst dit oer it netwurk ferstjoerd waard.
+security-technical-mixed-content-description = Dielen fan de side dy’t jo besjogge wiene net fersifere eardat se oer it ynternet ferstjoerd waarden.
+security-technical-weak-cipher = Jo ferbining mei dizze website brûkt in swakke fersifering en is net privee. Oare persoanen kinne jo gegevens besjen of it gedrach fan de website oanpasse.
+security-technical-ct-compliant = Dizze website foldocht oan it transparânsjebelied foar sertifikaten.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Ja, cookies en { $value } { $unit } oan websitegege
 security-site-data-only = Ja, { $value } { $unit } oan websitegegevens
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nee
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Foar in part fersisere ferbining
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Fersifere ferbining ({ $algorithm }, { $keySize }-bits kaaien, { $protocol })
+security-technical-broken-encryption =
+    .value = Unbetroubere fersifering ({ $algorithm }, { $keySize }-bits kaaien, { $protocol })
 
 ##
 
