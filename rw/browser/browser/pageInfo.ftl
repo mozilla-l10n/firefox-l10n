@@ -7,13 +7,11 @@ copy =
 menu-copy =
     .label = Gukoporora
     .accesskey = k
-
 select-all =
     .key = A
 menu-select-all =
     .label = Guhitamo Byose
     .accesskey = B
-
 general-url =
     .value = Aderesi:
 general-type =
@@ -30,7 +28,6 @@ general-meta-name =
     .label = Izina
 general-meta-content =
     .label = Ibikubiyemo
-
 media-alt-header =
     .label = Urwandiko Usimbura
 media-address =
@@ -44,18 +41,35 @@ media-long-desc =
 media-save-as =
     .label = Kubika Muri...
     .accesskey = M
-
 security-view-unknown = Kitazwi
     .value = Kitazwi
-
 help-button =
     .label = Ifashayobora
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Urubuga makuru { $website } ntirwemera imisobekere ya paji urimo kureba.
+security-technical-encrypted-page = Paji urimo kureba yasobetswe mbere yo koherezwa binyuze kuri Interineti.
+security-technical-mixed-content-description = Ibice bya paji urimo kureba byasobetswe mbere yuko byoherezwa kuri Interineti.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Umwinjiro Ntiwasobetswe
+security-technical-mixed-content =
+    .value = Umwinjiro Wasobetswe Igice
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -72,7 +86,6 @@ media-link = Agashushondanga
 media-input = Icyinjizwa
 saved-passwords-yes = Yego
 saved-passwords-no = Oya
-
 no-page-title =
     .value = Paji Itafite Izina:
 general-quirks-mode =
