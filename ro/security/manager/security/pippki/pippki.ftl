@@ -14,6 +14,8 @@ change-password-token = Dispozitiv de securitate: { $tokenName }
 change-password-old = Parola actuală:
 change-password-new = Parola nouă:
 change-password-reenter = Parola nouă (din nou):
+change-password-not-set =
+    .value = (nesetată)
 pippki-failed-pw-change = Parola nu a putut fi modificată.
 pippki-incorrect-pw = Nu ai introdus corect parola curentă. Te rugăm să încerci din nou.
 pippki-pw-change-ok = Parola a fost schimbată cu succes.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Parola backupului cu certificate (din nou):
 set-password-reminder = Important: Dacă uiți parola de siguranță pentru certificate, nu vei putea reface această copie mai târziu.  Te rugăm să ai grijă să o păstrezi într-un loc sigur.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
