@@ -110,6 +110,11 @@ security-view-technical =
     .value = Tekniske detaljer
 help-button =
     .label = Hjælp
+security-technical-encrypted-page = Den aktuelle side blev krypteret, før den blev sendt over internettet.
+security-technical-encrypted-description = Kryptering gør det meget vanskeligt for uautoriserede personer at aflæse informationer, der sendes mellem computere. Det er derfor meget usandsynligt, at nogen kunne se denne side, da den blev sendt over nettet.
+security-technical-mixed-content-description = Dele af den aktuelle side blev ikke krypteret, før den blev sendt over nettet.
+security-technical-weak-cipher = Din forbindelse til webstedet benytter en svag kryptering, og den er derfor ikke sikker. Fremmede kan se de overførte data eller ændre på webstedets opførsel.
+security-technical-ct-compliant = Dette websted overholder politikken for certifikat-gennemsigtighed.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Ja, cookies og { $value } { $unit } websteds-data
 security-site-data-only = Ja, { $value } { $unit } websteds-data
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nej
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Forbindelsen er delvist krypteret
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Forbindelsen er krypteret ({ $algorithm }, { $keySize }-bit-nøgle, { $protocol })
+security-technical-broken-encryption =
+    .value = Kryptering er brudt ({ $algorithm }, { $keySize }-bit-nøgle, { $protocol })
 
 ##
 

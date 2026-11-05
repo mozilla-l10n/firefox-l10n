@@ -14,6 +14,8 @@ change-password-token = Sikkerhedsenhed: { $tokenName }
 change-password-old = Nuværende adgangskode:
 change-password-new = Ny adgangskode:
 change-password-reenter = Ny adgangskode (igen):
+change-password-not-set =
+    .value = (ikke sat)
 pippki-failed-pw-change = Kan ikke ændre adgangskode.
 pippki-incorrect-pw = Du indtastede ikke den nuværende adgangskode. Prøv igen.
 pippki-pw-change-ok = Adgangskoden blev ændret.
@@ -98,3 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Adgangskode for sikkerhedskopi af certifikat (igen):
 set-password-reminder = Vigtigt: Hvis du glemmer din adgangskode, vil du ikke kunne gendanne denne sikkerhedskopi senere.  Gem den et sikkert sted.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
