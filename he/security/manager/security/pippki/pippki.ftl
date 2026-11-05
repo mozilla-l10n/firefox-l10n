@@ -14,6 +14,8 @@ change-password-token = התקן אבטחה: { $tokenName }
 change-password-old = ססמה נוכחית:
 change-password-new = ססמה חדשה:
 change-password-reenter = ססמה חדשה (שוב):
+change-password-not-set =
+    .value = (לא נקבע)
 pippki-failed-pw-change = לא ניתן לשנות את הססמה.
 pippki-incorrect-pw = לא הכנסת את הססמה הנוכחית הנכונה. נא לנסות שוב.
 pippki-pw-change-ok = הססמה שונתה בהצלחה.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ססמה לגיבוי אישור (שוב):
 set-password-reminder = חשוב: אם הססמה שלך לגיבוי האישור תישכח, לא תהיה לך אפשרות לשחזר גיבוי זה מאוחר יותר.  נא לרשום אותה במקום בטוח.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

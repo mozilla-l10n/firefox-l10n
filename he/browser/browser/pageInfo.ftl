@@ -110,6 +110,11 @@ security-view-technical =
     .value = פרטים טכניים
 help-button =
     .label = עזרה
+security-technical-encrypted-page = הדף בו הינך צופה הוצפן לפני שהועבר דרך האינטרנט.
+security-technical-encrypted-description = הצפנה מקשה על אנשים לא מורשים להציג מידע בין מחשבים. לכן הסבירות לכך שמישהו הצליח לקרוא את העמוד הזה בזמן שהוא הועבר דרך הרשת היא נמוכה מאוד.
+security-technical-mixed-content-description = חלקים מהדף שהינך צופה בו לא הוצפנו לפני שהועבר דרך האינטרנט.
+security-technical-weak-cipher = החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי. אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.
+security-technical-ct-compliant = אתר זה עומד בדרישות מדיניות שקיפות האישורים.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = כן, עוגיות ו־‎{ $value } { $unit } של
 security-site-data-only = כן, ‎{ $value } { $unit } של נתוני אתרים
 security-site-data-cookies-only = כן, עוגיות
 security-site-data-no = לא
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = החיבור מוצפן באופן חלקי
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = חיבור מוצפן ({ $algorithm }, מפתחות של‏ { $keySize } סיביות, { $protocol })
+security-technical-broken-encryption =
+    .value = הצפנה שבורה ({ $algorithm },‏ { $keySize } סיביות מפתח, { $protocol })
 
 ##
 
