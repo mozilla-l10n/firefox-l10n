@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = სერტიფიკატის გადმოწერა
 download-cert-message = თქვენგან მოითხოვეს სერტიფიკატების ახალი გამცემისთვის (CA) ნდობის გამოცხადება.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = გსურთ ენდოთ “{ $caName }”-ს შემდეგი მიზნებისთვის?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = სერტიფიკატის გამცემი (უსახელო)
 download-cert-trust-ssl =
     .label = ამ გამომცემის ნდობა ვებსაიტების დამოწმებისთვის.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = მნიშვნელოვანია: თუ ს�
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = გთხოვთ, შეიყვანოთ პაროლი, რომელიც ამ სერტიფიკატის მარქაფის დაშიფვრის დროს იყო გამოყენებული:
 
 ## Protected authentication dialog
 

@@ -110,6 +110,11 @@ security-view-technical =
     .value = ტექნიკური მონაცემები
 help-button =
     .label = დახმარება
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = საიტი { $website } არ იძლევა ამ გვერდის დაშიფვრის შესაძლებლობას.
+security-technical-no-encryption-transit = ინტერნეტით გადაცემისას დაუშიფრავი ინფორმაცია ადვილადაა ხელმისაწვდომი გარეშე პირთათვის.
+security-technical-no-encryption-page = გვერდი, რომელსაც ათვალიერებთ, ინტერნეტით გადაცემამდე არ დაშიფრულა.
 security-technical-encrypted-page = გვერდი, რომელსაც ათვალიერებთ, ინტერნეტით გადაცემამდე დაიშიფრა.
 security-technical-encrypted-description = დაშიფვრა უძნელებს უცხო პირებს, უნებართვოდ იხილონ კომპიუტერებს შორის მიმოცვლილი ინფორმაცია. ამიტომ ნაკლებ სავარაუდოა, ქსელში გადაცემისას ვინმემ იხილოს ეს გვერდი.
 security-technical-mixed-content-description = გვერდის შიგთავსის ნაწილი, რომელსაც ათვალიერებთ, ინტერნეტით გადაცემამდე არ დაშიფრულა.
@@ -129,6 +134,8 @@ security-site-data-no = არა
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = კავშირი დაუშიფრავია
 security-technical-mixed-content =
     .value = კავშირი ნაწილობრივ დაშიფრულია
 
