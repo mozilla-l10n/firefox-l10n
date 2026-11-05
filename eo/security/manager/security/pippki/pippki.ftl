@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Elŝutanta atestilon
 download-cert-message = Fido je nova atestila aŭtoritato (CA) estis petita al vi.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Ĉu vi volas fidi je "{ $caName }" por la jenaj taskoj?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Atestila aŭtoritato (sennoma)
 download-cert-trust-ssl =
     .label = Fidi tiun ĉi atestilan aŭtoritaton por identigi retejojn.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Grava rimarko: Se vi forgesas la pasvorton  de via atest
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Bonvolu tajpi la pasvorton uzitan por ĉifri la sekurkopion de tiu ĉi atestilo:
 
 ## Protected authentication dialog
 

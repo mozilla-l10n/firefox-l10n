@@ -110,6 +110,11 @@ security-view-technical =
     .value = Teknikaj detaloj
 help-button =
     .label = Helpo
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = La TTT-a retejo { $website } ne subtenas ĉifradon por la paĝo kiun vi vidas.
+security-technical-no-encryption-transit = Informo sendita pere de Interreto neĉifrite povas esti vidata de aliaj homoj dum ĝia transito.
+security-technical-no-encryption-page = Vi vidas paĝon kiu ne estis ĉifita antaŭ la reta transmeto.
 security-technical-encrypted-page = La paĝo, kiun vi vidas, estis ĉifrita antaŭ ol esti rete sendita.
 security-technical-encrypted-description = Ĉifrado igas malfacila la rigardon de informoj kiuj vojaĝas inter komputiloj. Pro tio, ne estas probable ke iu estu leginta tiun ĉi paĝon dum ĝi vojaĝis tra la reto.
 security-technical-mixed-content-description = Partoj de la paĝo, kiun vi vidas, ne estis ĉifritaj antaŭ ol esti senditaj al la reto.
@@ -129,6 +134,8 @@ security-site-data-no = Ne
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Ne ĉifrita konekto
 security-technical-mixed-content =
     .value = Parte ĉifrita konekto
 
