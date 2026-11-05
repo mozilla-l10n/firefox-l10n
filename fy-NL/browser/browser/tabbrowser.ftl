@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Formaat fan splitste ljepblêdwerjefe wizigje
 tab-devtools-splitter =
     .aria-label = Formaat fan it paniel Untwikkelersark wizigje
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Ljepblêden oan groep tafoegje
+    .accesskey = L
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -455,6 +460,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Splitste werjefte ôfsûnderje
     .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Ljepblêden skiede
+    .accesskey = L
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Ljepblêden omkeare

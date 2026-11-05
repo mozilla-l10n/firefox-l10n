@@ -52,6 +52,10 @@ close-tabs-to-the-end-vertical =
 close-other-tabs =
     .label = Oare ljepblêden slute
     .accesskey = O
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Alle oare
+    .accesskey = A
 reload-tabs =
     .label = Ljepblêden fernije
     .accesskey = L
@@ -89,15 +93,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Iepenje yn in nij kontenerljepblêd
     .accesskey = p
+tab-context-open-in-container =
+    .label = Yn kontener iepenje
+    .accesskey = Y
 move-to-start =
     .label = Ferpleatse nei begjin
     .accesskey = b
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Begjin
+    .accesskey = B
 move-to-end =
     .label = Ferpleatse nei ein
     .accesskey = e
+move-to-end-alt =
+    .label = Ein
+    .accesskey = E
 move-to-new-window =
     .label = Ferpleatse nei nij finster
     .accesskey = f
+move-to-new-window-alt =
+    .label = Nij finster
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +129,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Dûbele ljepblêden slute
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Dûbele jepblêden
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Duplikaten fan dit ljepblêd slute
     .accesskey = k
@@ -128,6 +149,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nije groep
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Nije groep
+tab-context-add-tab-to-group-closed-groups =
+    .label = Sletten groepen
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

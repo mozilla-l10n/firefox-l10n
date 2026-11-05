@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Ljepblêdnotysjes binne in eksperi
 experimental-features-tab-context-menu =
     .label = Streamline ljepblêdmenu
 experimental-features-tab-context-menu-description = Sjoch in ienfâldiger kontekstmenu as jo mei de rjochtermûsknop op in ljepblêd klikke. It is ûntwurpen om gewoane aksjes makliker te finen. <a data-l10n-name="connect">Kommentaar diele</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Boarnemonitor
