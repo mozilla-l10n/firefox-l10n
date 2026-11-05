@@ -110,6 +110,16 @@ security-view-technical =
     .value = Techniske drobnostki
 help-button =
     .label = Pomoc
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Websedło { $website } njepódpěra skoděrowanje za bok, kótaryž se rowno woglědujośo.
+security-technical-no-encryption-transit = Informacije, kótarež sćelu se bźez skoděrowanja pśez Internet, daju se wót drugich luźi wiźeś, mjaztym až jen pśeprěkuju.
+security-technical-no-encryption-page = Bok, kótaryž se woglědujośo, jo se skoděrował, pjerwjej až jo se pśez internet pósłał.
+security-technical-encrypted-page = Bok, kótaryž se woglědujośo, jo se skoděrował, pjerwjej až jo se pśez internet pósłał.
+security-technical-encrypted-description = Skoděrowanje póśěźujo njeawtorizěrowanym wósobam informacije wiźeś, kótarež wuměnjaju se mjazy licadłami. Jo togodla wjelgin njewěrjobne, až jo něchten toś ten bok pśecytał, gaž jo wón seś pśeprěkował.
+security-technical-mixed-content-description = Źěle boka, kótaryž se rowno woglědujośo, njejsu se skoděrowali, pjerwjej až su internet pśeprěkowali.
+security-technical-weak-cipher = Waš zwisk z toś tym websedłom wužywa słabe koděrowanje a njejo priwatny. Druge luźe mógu waše informacije wiźeś abo zaźarženje websedła změniś.
+security-technical-ct-compliant = Toś to websedło wótpowědujo pšawidłam certifikatoweje transparence.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -124,6 +134,10 @@ security-site-data-no = Ně
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Zwisk njeskoděrowany
+security-technical-mixed-content =
+    .value = Zwisk pó źělach skoděrowany
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
@@ -132,6 +146,8 @@ security-site-data-no = Ně
 
 security-technical-encrypted =
     .value = Zwisk skoděrowany ({ $algorithm }, bitowe kluce { $keySize }, { $protocol })
+security-technical-broken-encryption =
+    .value = Złamane šifrěrowanje ({ $algorithm }, bitowe kluce { $keySize }, { $protocol })
 
 ##
 

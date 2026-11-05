@@ -14,6 +14,8 @@ change-password-token = Wěstotny rěd: { $tokenName }
 change-password-old = Aktualne gronidło:
 change-password-new = Nowe gronidło:
 change-password-reenter = Nowe gronidło (hyšći raz):
+change-password-not-set =
+    .value = (njepóstajony)
 pippki-failed-pw-change = Njejo móžno, gronidło změniś.
 pippki-incorrect-pw = Njejsćo pšawe gronidło zapódał. Pšosym wopytajśo hyšći raz.
 pippki-pw-change-ok = Gronidło jo se wuspěšnje změniło.
@@ -39,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Ześěgnjenje certifikata
 download-cert-message = Su was pśepšosyli nowej certifikatowej awtoriśe (CA) dowěriś.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Cośo "{ $caName }" za slědujuce zaměry dowěriś?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikatowa awtorita (bźez mjenja)
 download-cert-trust-ssl =
     .label = Toś tej certifikatowej awtoriśe dowěriś, aby se websedła identificěrowali.
 download-cert-trust-email =
@@ -98,6 +105,10 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Gronidło zawěsćenja certifikata (hyšći raz):
 set-password-reminder = Wažny: Jolic zabydnjośo swójo gronidło za zawěsćenje certifikata, njamóžośo toś to zawěsćenje pózdźej wótnowiś. Pšosym wobchowajśo jo na wěstem městnje.
+
+## Certificate backup import prompt
+
+pippki-get-pkcs12-password-message = Pšosym zapódajśo gronidło, kótarež jo se za skoděrowanje toś togo zawěsćenja certifikata wužyło:
 
 ## Protected authentication dialog
 
