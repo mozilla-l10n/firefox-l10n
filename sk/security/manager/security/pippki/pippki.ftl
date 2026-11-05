@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Sťahuje sa certifikát
 download-cert-message = Vyžaduje sa dôverovať novej certifikačnej autorite.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Chcete dôverovať “{ $caName }” pre nasledujúce účely:
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikačná autorita (bez názvu)
 download-cert-trust-ssl =
     .label = Dôverovať tejto certifikačnej autorite pri identifikácii serverov.
 download-cert-trust-email =
