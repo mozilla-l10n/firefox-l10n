@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Jo kinne jo ljepblêdgroepen op 
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Jo kinne jo ljepblêdgroepen op elk winske momint opnij iepenje fan it menu Alle ljepblêdtitels toane út.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Tabgroepen wurde automatysk bewarre. Jo kinne se hjir fine.
 
 ## Multi Profiles feature onboarding messages
 
@@ -638,3 +640,10 @@ welcome-back-onboarding-card-label-tabs = Opromje mei fertikale ljepblêden en g
 welcome-back-onboarding-card-label-vpn = Bliuw anonym mei de ynboude VPN
 welcome-back-onboarding-card-label-pdf = Markearje, ûndertekenje en wurkje mei PDF’s
 welcome-back-onboarding-card-tilebutton-label = Probearje
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Jo gegevens ymportearje
+hnt-card-default-body = { -brand-product-name } is de iennige grutte browser dy’t boud is om jo te beskermjen, net om jo te folgjen.
+hnt-card-default-primary-button = Keppelingen iepenje mei { -brand-short-name }
+hnt-card-pin-header = Hâld { -brand-short-name } in klik fuort

@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = { $provider } freegje
 genai-menu-new-badge = Nij
 genai-menu-summarize-page = Side gearfetsje
+genai-menu-summarize-with-ai = Mei AI gearfetsje
 genai-input-ask-smart-window =
     .placeholder = Freegje…
 genai-input-ask-generic =
     .placeholder = AI-chatbot freegje…
+genai-input-ask-ai =
+    .placeholder = AI freegje…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } freegje…

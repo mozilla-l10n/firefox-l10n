@@ -550,10 +550,30 @@ newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 
 newtab-topsite-sponsored = Apmaksāts
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (piesprausta)
+    .title = { $title }
+
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Paziņojumi no { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Tikko
+newtab-topsites-hover-card-mark-all-read =
+    .aria-label = Atzīmēt visu kā izlasītu
+    .title = Atzīmēt visu kā izlasītu
+newtab-topsites-hover-card-settings =
+    .aria-label = Paziņojumu iestatījumi
+    .title = Paziņojumu iestatījumi
+newtab-topsites-hover-card-dismiss =
+    .aria-label = Noraidīt
+    .title = Noraidīt
 
 ## Context Menu - Action Tooltips.
 
@@ -579,11 +599,22 @@ newtab-menu-pin = Piespraust
 newtab-menu-unpin = Atspraust
 newtab-menu-delete-history = Izdzēst no vēstures
 newtab-menu-show-privacy-info = Mūsu sponsori un jūsu privātums
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Ziņojums
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Liegt
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Atcelt sekošanu
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Uzzināt vairāk
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = Pārvaldīt sponsorētu saturu
+newtab-menu-our-sponsors-and-your-privacy = Mūsu sponsori un jūsu privātums
+newtab-menu-report-this-ad = Ziņot par šo reklāmu
 
 ##
 
@@ -633,6 +664,8 @@ newtab-label-sponsored-by = Sponsorē { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min.
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Apmaksāts
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -700,6 +733,11 @@ newtab-custom-shortcuts-toggle =
     .label = Saīsnes
 newtab-custom-shortcuts-nova =
     .label = Saīsnes
+newtab-custom-web-notifications-toggle =
+    .description = Rādīt paziņojumus no jūsu vietnēm to saīsnēs
+    .label = Tīmekļa paziņojumi
+newtab-custom-row-description =
+    .description = Rindu skaits
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -716,12 +754,34 @@ newtab-custom-stories-toggle =
     .label = Ieteiktie stāsti
 newtab-recommended-stories-toggle =
     .label = Ieteiktie stāsti
+newtab-custom-stories-personalized-toggle =
+    .label = Stāsti
+newtab-custom-stories-personalized-checkbox =
+    .label = Personalizēti stāsti, pamatojoties uz jūsu aktivitātēm
+newtab-custom-stories-personalized-checkbox-label = Personalizēti stāsti, pamatojoties uz jūsu aktivitātēm
 newtab-custom-weather-toggle =
     .description = Šodienas prognoze ātrā acu uzmetienā
     .label = Laikapstākļi
+newtab-custom-widget-weather-toggle =
+    .label = Laikapstākļi
+newtab-custom-widget-lists-toggle =
+    .label = Saraksti
+newtab-custom-widget-timer-toggle =
+    .label = Logrīks Taimeris
+newtab-custom-widget-clock-toggle =
+    .label = Pulkstenis
+newtab-custom-widget-sports-toggle2 =
+    .label = Sports
+newtab-custom-widget-privacy-toggle =
+    .label = Privātums
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Krustvārdu mīkla
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Finanses
+newtab-custom-widget-picture-toggle =
+    .label = Dienas bilde
 newtab-custom-widget-search-toggle =
     .label = Meklēt
 newtab-custom-widget-horoscopes-toggle =
@@ -735,6 +795,16 @@ newtab-custom-widget-travel-toggle =
 # Game displays within an iframe with name “Yahoo Solitaire”
 newtab-custom-widget-solitaire-toggle =
     .label = Pasjanss
+newtab-custom-widget-section-title = Logrīki
+newtab-custom-widget-section-toggle =
+    .label = Logrīki
+newtab-widget-manage-title = Logrīki
+newtab-widget-manage-widget-button =
+    .label = Pārvaldīt logrīkus
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .aria-label = Aizvērt izvēlni
+    .title = Aizvērt
 newtab-custom-settings = Pārvaldīt vairāk iestatījumu
 
 ## Customization Menu
@@ -755,6 +825,12 @@ newtab-appearance-more-themes-button =
 newtab-appearance-manage-title = { -brand-product-name } tēmas
 # Header for the list of the user's already-installed themes in the full theme panel.
 newtab-appearance-your-themes-header = Tavas tēmas
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Iespējot
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Atspējot
 # Button that installs a theme.
 newtab-appearance-install-theme-button =
     .label = Uzstādīt tēmu
@@ -767,12 +843,18 @@ newtab-appearance-explore-more-themes-button = Izpētīt vairāk tēmu
 newtab-wallpaper-title = Tapetes
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = Atiestatīt uz noklusējumu
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
+newtab-wallpaper-upload-image = Augšupielādēt attēlu
 newtab-wallpaper-add-an-image = Pievienot attēlu
+newtab-wallpaper-custom-color = Izvēlieties krāsu
 newtab-wallpaper-toggle-title =
     .label = Tapetes
 # Label for the grid of wallpaper categories in the customize panel
 newtab-wallpaper-category-list =
     .aria-label = Ekrāntapešu kategorijas
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Attēla lielums pārsniedza { $file_size } MB. Lūdzu, mēģiniet augšupielādēt mazāku datni.
 newtab-wallpaper-error-upload-file-type = Mēs nevarējām augšupielādēt Tavu datni. Lūgums mēģināt vēlreiz ar attēla datni.
 newtab-wallpaper-light-red-panda = Sarkana panda
 newtab-wallpaper-light-mountain = Balts kalns
@@ -835,6 +917,7 @@ newtab-wallpaper-remove-image-cancel = Atcelt
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Vienkrāsains
+newtab-wallpaper-colors = Krāsas
 newtab-wallpaper-blue = Zils
 newtab-wallpaper-light-blue = Gaiši zils
 newtab-wallpaper-light-purple = Gaiši violets
@@ -860,6 +943,10 @@ newtab-wallpaper-abstract-purple = Violetas formas
 newtab-wallpaper-abstract-orange = Oranžas formas
 newtab-wallpaper-gradient-orange = Oranža un rozā krāsu pāreja
 newtab-wallpaper-abstract-blue-purple = Zilas un violetas formas
+newtab-wallpaper-abstract-white-curves = Balta ar ēnotām līknēm
+newtab-wallpaper-abstract-purple-green = Violeta un zaļa gaismas gradients
+newtab-wallpaper-abstract-blue-purple-waves = Zilas un violetas viļņotas formas
+newtab-wallpaper-abstract-black-waves = Melnas viļņotas formas
 
 ## Firefox wallpaper descriptions used for screen readers
 
@@ -870,6 +957,12 @@ newtab-wallpaper-storm-sky = Vētras debesis
 newtab-wallpaper-sky-with-pink-clouds = Debesis ar rozā mākoņiem
 newtab-wallpaper-red-panda-yawns-in-a-tree = Sarkanā panda žāvājas kokā
 newtab-wallpaper-white-mountains = Balti kalni
+newtab-wallpaper-hot-air-balloons = Dažādu krāsu karstā gaisa baloni dienas laikā
+newtab-wallpaper-starry-canyon = Zila zvaigžņota nakts
+newtab-wallpaper-suspension-bridge = Pelēka pilnībā piekaramā tilta fotogrāfija dienas laikā
+newtab-wallpaper-sand-dunes = Baltās smilšu kāpas
+newtab-wallpaper-palm-trees = Kokosriekstu palmu siluets zelta stundā
+newtab-wallpaper-blue-flowers = Ziedošu zilziedu ziedu tuvplāna fotogrāfija
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -903,6 +996,18 @@ newtab-wallpaper-firefox-sky-light = Gaiši pakalni zem maigām debesīm
 # “Wrexham AFC” is the name of a football club and should not be translated.
 # "crest" refers to the football club's logo (team badge).
 newtab-wallpaper-firefox-wrexham = Wrexham AFC ģerbonis uz sarkana fona
+
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
+## Celestial
+
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Debesu
+newtab-wallpaper-celestial-lunar-eclipse = Mēness aptumsums
 
 ## New Tab Weather
 
@@ -1024,14 +1129,76 @@ newtab-section-confirm-block-topic-p1 = Vai tiešām liegt šo tēmu?
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Liegt { $topic }
 
+## Strings for download mobile highlight
+
+newtab-download-mobile-highlight-image =
+    .aria-label = QR kods, lai lejupielādētu { -brand-product-name } Mobile
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Jūsu iecienītākie vienu rokas stiepiena attālumā
+newtab-shortcuts-highlight-subtitle = Pievienojiet saīsni, lai jūsu iecienītākās vietnes būtu viena klikšķa attālumā.
+
 ## Strings for reporting issues with ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Kāpēc jūs par to ziņojat?
+newtab-report-ads-reason-not-interested =
+    .label = Mani tas neinteresē
+newtab-report-ads-reason-inappropriate =
+    .label = Tas ir nepiedienīgi
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Esmu to redzējis pārāk daudz reižu
+newtab-report-content-wrong-category =
+    .label = Nepareiza kategorija
+newtab-report-content-outdated =
+    .label = Novecojis
+newtab-report-content-inappropriate-offensive =
+    .label = Nepiemērots vai aizskarošs
+newtab-report-content-spam-misleading =
+    .label = Surogātpasts vai maldinošs saturs
+newtab-report-content-requires-payment-subscription =
+    .label = Nepieciešama samaksa vai abonements
 newtab-report-content-requires-payment-subscription-learn-more = Uzzināt vairāk
+newtab-report-cancel = Atcelt
+newtab-report-submit = Iesniegt
+newtab-toast-thanks-for-reporting =
+    .message = Paldies, ka ziņojāt par šo.
+newtab-toast-widgets-hidden =
+    .message = Lai jebkurā laikā atkal pievienotu logrīkus, atlasiet zīmuļa ikonu.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Jūs tagad sekojat tēmai { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Jūs vairs nesekojat { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Jūs vairs neredzēsiet stāstus par { $topic } (vai { $topic }).
 
 ## Strings for task / to-do list productivity widget
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Iespējas ir neierobežotas. Pievieno kādu!
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Jauns
+newtab-widget-lists-label-beta =
+    .label = Beta versija
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Pabeigts ({ $number })
+newtab-widget-lists-celebration-headline = Labs darbs
+newtab-widget-lists-celebration-subhead = Viss skaidrs
+newtab-widget-task-list-menu-copy = Kopēt
+newtab-widget-lists-menu-edit = Rediģēt saraksta nosaukumu
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Rediģēt saraksta nosaukumu
+newtab-widget-lists-menu-create = Izveidot jaunu sarakstu
 newtab-widget-lists-menu-learn-more = Uzzināt vairāk
 # "Change" is a verb here: the button switches which list is shown
 newtab-widget-lists-change-list =
