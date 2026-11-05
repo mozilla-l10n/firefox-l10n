@@ -652,6 +652,11 @@ hnt-card-pin-body =
         [macos] Ugorjon vissza a védett böngészéshez a dokkról.
        *[other] Ugorjon vissza a védett böngészéshez a tálcáról.
     }
+hnt-card-mobile-header = Szerezzen beépített védelmet a telefonján
+hnt-card-mobile-body = Töltse le a mobilos { -brand-product-name }ot a menet közbeni további adatvédelemért.
+hnt-card-mobile-primary-button = Szerezze be a mobilos { -brand-product-name }ot.
+hnt-card-wallpaper-header = Válasszon friss háttérképet
+hnt-card-wallpaper-primary-button = Testreszabás megkezdése
 hnt-card-extensions-primary-button = Felfedezés
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.

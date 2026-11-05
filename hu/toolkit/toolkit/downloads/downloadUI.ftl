@@ -39,6 +39,32 @@ download-ui-cancel-downloads-ok =
         [1] 1 letöltés megszakítása
        *[other] { $downloadsCount } letöltés megszakítása
     }
+download-ui-confirm-cancel-button = Mégse
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Kilép a { -brand-short-name }ból?
+       *[other] Kilép a { -brand-short-name }ból
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Leállít 1 letöltést, és kapcsolat nélküli módba vált?
+        [one] Leállít { $downloadsCount } letöltést, és kapcsolat nélküli módba vált?
+       *[other] Leállít { $downloadsCount } letöltést, és kapcsolat nélküli módba vált?
+    }
+download-ui-confirm-offline-button = Kapcsolat nélküli módba lépés
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Leállít 1 letöltést, és bezárja ezt a privát ablakot?
+        [one] Leállít { $downloadsCount } letöltést, és bezárja ezt a privát ablakot?
+       *[other] Leállít { $downloadsCount } letöltést, és bezárja ezt a privát ablakot?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Nem fogja tudni folytatni ezt a letöltést.
+        [one] Nem fogja tudni folytatni ezeket a letöltéseket.
+       *[other] Nem fogja tudni folytatni ezeket a letöltéseket.
+    }
+download-ui-confirm-private-browsing-button = Ablak bezárása
 
 ##
 

@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = A lapjegyzetek egy kísérleti fun
 experimental-features-tab-context-menu =
     .label = Egyszerűsített lapmenü
 experimental-features-tab-context-menu-description = Lásson egy egyszerűbb helyi menüt, ha jobb gombbal kattint egy lapon. Úgy tervezték, hogy a gyakori műveletek könnyebben megtalálhatóak legyenek. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Erőforrás-figyelő
