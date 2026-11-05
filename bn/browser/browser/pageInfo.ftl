@@ -107,6 +107,11 @@ security-view-technical =
     .value = প্রযুক্তিগত বিবরণ
 help-button =
     .label = সাহায্য
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = আপনার সামনে প্রস্তুত করা পাতার জন্য { $website } ওয়েব-সাইটের দ্বারা এনক্রিপশন সমর্থিত হয় না।
+security-technical-no-encryption-transit = বিনা এনক্রিপশনে কোনো তথ্য ইন্টারনেটের মাধ্যমে প্রেরণ করা হলে যাত্রাকালে তা অন্যান্য ব্যক্তিদের সামনে উন্মুক্ত হওয়ার সম্ভাবনা রয়েছে।
+security-technical-no-encryption-page = ইন্টারনেটের মাধ্যমে প্রেরণ করার পূর্বে, আপনার সামনে প্রদর্শিত পাতাটি এনক্রিপ্ট করা হয় নাই।
 security-technical-encrypted-page = ইন্টারনেটের মাধ্যমে প্রেরণ করার পূর্বে, আপনার সামনে প্রদর্শিত পাতাটি এনক্রিপ্ট করা হয়েছিল।
 security-technical-encrypted-description = এনক্রিপশন ব্যবহারের ফলে বিভিন্ন কম্পিউটারের মধ্যে বিনিময় হওয়া তথ্য কোনো তৃতীয় ব্যক্তির দ্বারা অন্যায্যভাবে পাঠ করা কঠিন। এই কারণে নেটওয়ার্কে যাত্রাকালে সম্ভবত এই পাতাটি কারও দ্বারা পড়া হয়নি
 security-technical-mixed-content-description = ইন্টারনেটের মাধ্যমে প্রেরণ করার পূর্বে, প্রদর্শিত পাতার কিছু অংশবিশেষ এনক্রিপ্ট করা হয়নি।
@@ -126,6 +131,8 @@ security-site-data-no = না
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = সংযোগ এনক্রিপ্ট করা হয়নি
 security-technical-mixed-content =
     .value = সংযোগ আংশিকরূপে এনক্রিপ্ট করা
 

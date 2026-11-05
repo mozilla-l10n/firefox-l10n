@@ -76,6 +76,7 @@ set-password-reminder = গুরুত্বপূর্ণ: সার্টি
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = অনুগ্রহ করে এই সার্টিফিকেট ব্যাকআপটি এনক্রিপ্ট করতে ব্যবহৃত পাসওয়ার্ডটি লিখুন:
 
 ## Protected authentication dialog
 
