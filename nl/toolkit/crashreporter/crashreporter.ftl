@@ -16,7 +16,7 @@ crashreporter-view-report-title = Rapportinhoud
 crashreporter-comment-prompt = Voeg een opmerking toe (opmerkingen zijn publiekelijk zichtbaar)
 crashreporter-report-info = Dit rapport bevat tevens technische gegevens over de staat van de toepassing toen deze vastliep.
 crashreporter-checkbox-test-hardware = Controleren op hardware- en configuratieproblemen op mijn apparaat.
-crashreporter-checkbox-send-report = { -vendor-short-name } van deze crash op de hoogte stellen, zodat dit kan worden verholpen
+crashreporter-checkbox-send-report = { -vendor-short-name } van deze crash op de hoogte stellen, zodat dit kan worden verholpen.
 crashreporter-checkbox-include-url = Het adres van de bezochte pagina bijvoegen.
 crashreporter-submit-status = Uw crashrapport zal worden verzonden voordat u afsluit of herstart.
 crashreporter-submit-waiting-hardware-tests = Controleren op hardware- en configuratieproblemen…
@@ -32,9 +32,6 @@ crashreporter-button-close = Sluiten
 crashreporter-crash-identifier = Crash-ID: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = U kunt details over deze crash bekijken op { $url }.
-
-# Error strings
-
 # $path (String) - the file path
 crashreporter-error-opening-file = Kan bestand ({ $path }) niet openen
 # $path (String) - the file path

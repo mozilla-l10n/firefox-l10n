@@ -610,6 +610,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Drasty { -brand-product-name }
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Klasiske drasty
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Wjace pokazać
 aboutaddons-themes-picker-see-less = Mjenje pokazać

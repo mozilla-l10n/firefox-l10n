@@ -13,24 +13,24 @@ findbar-find-button-close =
     .tooltiptext = Sykbalke slute
 findbar-highlight-all2 =
     .label = Alles markearje
+    .tooltiptext = Alle foarkommen fan de tekst markearje
     .accesskey =
         { PLATFORM() ->
             [macos] l
            *[other] a
         }
-    .tooltiptext = Alle foarkommen fan de tekst markearje
 findbar-case-sensitive =
     .label = Haadlettergefoelich
-    .accesskey = H
     .tooltiptext = Haadlettergefoelich sykje
+    .accesskey = H
 findbar-match-diacritics =
     .label = Diakrityske tekens brûke
-    .accesskey = k
     .tooltiptext = Meitsje ûnderskied tusken letters mei aksinten en harren basistekens (sa is bygelyks by it sykjen nei ‘resume’ gjin oerienkomst mei ‘resumé’)
+    .accesskey = k
 findbar-entire-word =
     .label = Hiele wurden
-    .accesskey = e
     .tooltiptext = Allinnich hiele wurden sykje
+    .accesskey = e
 findbar-not-found = Tekst net fûn
 findbar-wrapped-to-top = Underkant fan de side berikt, trochgien fan de boppekant ôf
 findbar-wrapped-to-bottom = Boppekant fan de side berikt, trochgien fan de ûnderkant ôf
@@ -39,7 +39,7 @@ findbar-normal-find =
 findbar-fast-find =
     .placeholder = Fluch sykje
 findbar-fast-find-links =
-    .placeholder = Fluch sykje (allinnich keppelingen):
+    .placeholder = Fluch sykje (allinnich keppelingen)
 findbar-case-sensitive-status =
     .value = (Haadlettergefoelich)
 findbar-match-diacritics-status =

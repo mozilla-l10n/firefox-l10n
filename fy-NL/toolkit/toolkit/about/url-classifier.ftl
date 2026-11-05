@@ -92,7 +92,7 @@ url-classifier-content-classifier-col-matched = Oerienkommend
 url-classifier-content-classifier-col-exception = Utsûndering
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
-url-classifier-content-classifier-col-important = Wichtich
+url-classifier-content-classifier-col-important = Important
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = Engine-resultaat
 # Overall verdict shown when the request would be acted on (blocked or

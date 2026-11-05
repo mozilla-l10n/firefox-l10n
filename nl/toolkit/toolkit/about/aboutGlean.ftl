@@ -182,7 +182,7 @@ about-glean-button-load-all = Alle waarden laden
 about-glean-button-export-data = Gegevens exporteren
 about-glean-button-load-value = Laden
 # "Docs" is shorthand for "documentation"
-about-glean-button-dictionary-link = Documenten
+about-glean-button-dictionary-link = Documentatie
 about-glean-button-watch = Volgen
 # Meaning "to stop watching"
 about-glean-button-unwatch = Niet meer volgen

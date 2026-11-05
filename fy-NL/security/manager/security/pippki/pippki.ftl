@@ -33,7 +33,7 @@ reset-password-button-label =
     .label = Opnij inisjalisearje
 reset-primary-password-text = As jo jo haadwachtwurd opnij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, persoanlike sertifikaten en priveekaaien fergetten wurde. Binne jo wis dat jo jo haadwachtwurd opnij inisjalisearje wolle?
 pippki-reset-password-confirmation-title = Haadwachtwurd opnij ynstelle
-pippki-reset-password-confirmation-message = Jo haadwachtwurd is opnij ynsteld
+pippki-reset-password-confirmation-message = Jo haadwachtwurd is opnij ynsteld.
 
 ## Downloading cert dialog
 
@@ -99,12 +99,12 @@ client-auth-cert-remember-temporarily =
 
 set-password-window =
     .title = Kies in wachtwurd foar de reservekopy fan it sertifikaat
-set-password-message = It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopybestân dat jo op it punt stean te meitsjen.  Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.
+set-password-message = It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopybestân dat jo op it punt stean te meitsjen. Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.
 set-password-backup-pw =
     .value = Wachtwurd foar de reservekopy fan it sertifikaat:
 set-password-repeat-backup-pw =
     .value = Wachtwurd foar de reservekopy fan it sertifikaat (opnij):
-set-password-reminder = Wichtich: as jo jo wachtwurd foar de reservekopy fan it sertifikaat ferjitte, kinne jo dizze reservekopy letter net ferhelpe.  Bewarje it op in feilich plak.
+set-password-reminder = Wichtich: as jo jo wachtwurd foar de reservekopy fan it sertifikaat ferjitte, kinne jo dizze reservekopy letter net ferhelpe. Bewarje it op in feilich plak.
 
 ## Certificate backup import prompt
 

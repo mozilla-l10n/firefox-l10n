@@ -398,15 +398,23 @@ onboarding-checklist-remove-2 = حذف چک‌لیست
 
 tab-groups-onboarding-feature-callout-title = گروه‌بندی زبانه‌ها را برای شلوغی کمتر و تمرکز بیشتر امتحان کنید
 tab-groups-onboarding-feature-callout-subtitle = با کشیدن یک زبانه روی زبانه‌ای دیگر، نخستین گروه خود را بسازید و زبانه‌ها را ساماندهی کنید.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = گروه‌های زبانهٔ خود را هر زمان در منوی «جست‌وجو و مدیریت زبانه‌ها» پیدا کنید.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = گروه‌های زبانه‌های خود را هر زمان در منوی «فهرست همهٔ زبانه‌ها» پیدا کنید.
 tab-groups-onboarding-create-group-no-alltabs-button-title = گروه‌های خود را با جست‌وجوی آن‌ها در نوار نشانی پیدا کنید.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = وقتی یک گروه زبانه را می‌بندید، هر زمان می‌توانید آن را از منوی «جست‌وجو و مدیریت زبانه‌ها» دوباره باز کنید.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = هنگامی که یک گروه زبانه را می‌بندید، هر زمان خواستید آن را از منوی «فهرست همهٔ زبانه‌ها» دوباره باز کنید.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = گروه‌های بسته‌شدهٔ خود را با جست‌وجوی آن‌ها در نوار نشانی پیدا کنید.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = گروه‌های زبانهٔ خود را هر زمان از منوی «جست‌وجو و مدیریت زبانه‌ها» دوباره باز کنید.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = هر زمان خواستید گروه‌های زبانه‌های خود را از منوی «فهرست همهٔ زبانه‌ها» دوباره باز کنید.
 tab-groups-onboarding-dismiss = تأیید
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = گروه‌های زبانه به‌طور خودکار ذخیره می‌شوند. آن‌ها را اینجا پیدا کنید.
 
 ## Multi Profiles feature onboarding messages
 
@@ -556,10 +564,14 @@ onboarding-refresh-terms-of-use-with-links = با ادامه دادن، با <a 
 onboarding-refresh-data-collection-link = مدیریت تنظیمات جمع‌آوری داده‌ها
 onboarding-refresh-primary-button = ادامه
 onboarding-refresh-fro-import-header = داده‌های خود را انتقال دهید
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = این داده‌ها مال خودتان می‌مانند. { -brand-product-name } هرگز داده‌های شخصی را نمی‌فروشد.
 onboarding-refresh-fro-import-body = داده‌های شخصی شما محرمانه باقی می‌مانند. { -brand-product-name } هرگز آن‌ها را نخواهد فروخت.
 onboarding-refresh-fro-skip-button = رد شدن
 onboarding-refresh-fro-theme-header = از تغییر ظاهر مرورگر لذت ببرید
 onboarding-refresh-tab-layout-header = چیدمان دیگری برای زبانه‌ها امتحان کنید
+onboarding-refresh-fro-tab-layout-title = چیدمان زبانهٔ جدید را انتخاب کنید
 onboarding-refresh-tab-layout-top = در بالا
 onboarding-refresh-tab-layout-side = در نوار کناری
 onboarding-refresh-tab-layout-minimal = کمینه
@@ -628,3 +640,33 @@ welcome-back-onboarding-card-label-tabs = با زبانه‌های عمودی و
 welcome-back-onboarding-card-label-vpn = با VPN داخلی پنهان بمانید
 welcome-back-onboarding-card-label-pdf = برجسته کردن، امضاء کردن و کار با PDFها
 welcome-back-onboarding-card-tilebutton-label = امتحان کنید
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = { -brand-short-name } خود را در چند ثانیه آماده کنید
+hnt-card-import-body = نشانک‌ها، گذرواژه‌ها و موارد دیگر را از مرورگری دیگر بیاورید.
+hnt-card-import-primary-button = درون‌ریزی داده‌های شما
+hnt-card-default-body = { -brand-product-name } تنها مرورگر بزرگی است که برای محافظت از شما ساخته شده، نه ردیابی شما.
+hnt-card-default-primary-button = گشودن پیوندها با { -brand-short-name }
+hnt-card-pin-header = { -brand-short-name } را یک کلیک دم دست داشته باشید
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] از Dock خود به مرور محافظت‌شده برگردید.
+       *[other] از نوار وظیفهٔ خود به مرور محافظت‌شده برگردید.
+    }
+hnt-card-mobile-header = محافظت داخلی را در تلفن خود داشته باشید
+hnt-card-mobile-body = { -brand-product-name } نگارش تلفن همراه را برای حریم خصوصی بیشتر در هر کجا بارگیری کنید.
+hnt-card-mobile-primary-button = دریافت { -brand-product-name } نگارش تلفن همراه.
+hnt-card-wallpaper-header = پس‌زمینه‌ای تازه انتخاب کنید
+hnt-card-wallpaper-body = با پس‌زمینه‌ای که دوست دارید، به این صفحه حس خانه بدهید.
+hnt-card-wallpaper-primary-button = آغاز سفارشی‌سازی
+hnt-card-taskbar-tabs-header = وبگاه‌های دلخواهتان را به نوار وظیفهٔ Windows اضافه کنید
+hnt-card-taskbar-tabs-body = وبگاه‌های پربازدیدتان را مثل یک برنامه با همهٔ محافظت‌های { -brand-product-name } باز کنید.
+hnt-card-taskbar-tabs-primary-button = افزودن وبگاه‌ها به نوار وظیفه
+hnt-card-extensions-header = { -brand-short-name } را با افزونه‌ها قوی‌تر کنید
+hnt-card-extensions-body = مرور خود را با محبوب‌ترین افزونه‌های ما سفارشی کنید.
+hnt-card-extensions-primary-button = کاوش
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = همه‌چیز آماده است. بروید سراغ کار خودتان.
+hnt-card-last-card-header-end = محافظت در برابر ردیابی روشن است.

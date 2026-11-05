@@ -18,6 +18,26 @@ about-processes-shutdown-tab =
     .title = بستن زبانه
 about-processes-unload-tab =
     .title = تخلیهٔ زبانه
+about-processes-reload-tab =
+    .title = بارگذاری دوبارهٔ زبانه
+about-processes-select-all-tabs =
+    .title = انتخاب همهٔ زبانه‌ها
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = گشودن زبانه‌های این وبگاه
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = جمع کردن زبانه‌های این وبگاه
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = تخلیهٔ زبانه‌های { $site }
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = بار کردن دوبارهٔ زبانه‌های { $site }
 about-processes-go-to-tab =
     .title = رفتن به زبانه
 # Profiler icons

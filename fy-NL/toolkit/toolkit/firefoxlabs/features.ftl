@@ -28,7 +28,7 @@ experimental-features-group-newtab-widgets =
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Kies in oanpaste eftergrûn of kleur foar Nij-ljepbledside
-experimental-features-custom-wallpaper-description = Laad jo eigen eftergrûn op of kies in oanpaste kleur foar de eftergrûn fan jo Nij-ljepblêdside .
+experimental-features-custom-wallpaper-description = Laad jo eigen eftergrûn op of kies in oanpaste kleur foar de eftergrûn fan jo Nij-ljepblêdside.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Keppelingsfoarbylden

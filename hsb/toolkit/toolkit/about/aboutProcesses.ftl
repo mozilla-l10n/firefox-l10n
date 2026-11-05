@@ -18,6 +18,30 @@ about-processes-shutdown-tab =
     .title = Rajtark začinić
 about-processes-unload-tab =
     .title = Rajtark pušćić
+about-processes-reload-tab =
+    .title = Rajtark znowa začitać
+about-processes-select-all-tabs =
+    .title = Wšě rajtarki wubrać
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Rajtarki tutoho sydła pokazać
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Rajtarki tutoho sydła začinić
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Rajtarki z { $site } wuprózdnić
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Rajtarki z { $site } zaso začitać
+about-processes-expand-all-sites =
+    .title = Wšě pokazać
+about-processes-collapse-all-sites =
+    .title = Wšě schować
 about-processes-go-to-tab =
     .title = K rajtarkej
 # Profiler icons
@@ -32,6 +56,14 @@ about-processes-profile-process =
             [few] Wšě nitki tutoho procesa za { $duration } sekundy analyzować
            *[other] Wšě nitki tutoho procesa za { $duration } sekundow analyzować
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Rajtarki přepytać
+    .placeholder = Rajtarki přepytać
 
 ## Column headers
 

@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
-# This file gets parsed into a JS dictionary of all known error message ids in
-# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
-# refactoring them in some way, the script will need updating.
-
 psmerr-ssl-disabled = Kin gjin befeilige ferbining opsette, omdat it SSL-protokol útskeakele is.
 psmerr-ssl2-disabled = Kin gjin befeilige ferbining opsette, omdat de side in âldere, minder feilige ferzje fan it SSL-protokol brûkt.
 # This is a multi-line message.
@@ -297,7 +291,7 @@ sec-error-crl-already-exists = CRL bestiet al.
 sec-error-not-initialized = NSS is net inisjalisearre.
 sec-error-token-not-logged-in = De bewurking is mislearre, omdat de PKCS#11-token net oanmeld is.
 sec-error-ocsp-responder-cert-invalid = Sertifikaat fan konfigurearre OCSP-responder is ûnjildich.
-sec-error-ocsp-bad-signature = OCSP response hat in ynfalide ûndertekening.
+sec-error-ocsp-bad-signature = OCSP-antwurd hat in ynfalide ûndertekening.
 sec-error-out-of-search-limits = Sertifikaatfalidaasje-sykopdracht is bûten sykbeheiningen
 sec-error-invalid-policy-mapping = Policy mapping befettet anypolicy
 sec-error-policy-validation-failed = Sertifikaatketen foldocht net oan policy-falidaasje

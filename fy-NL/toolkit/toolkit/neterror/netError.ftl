@@ -125,7 +125,7 @@ neterror-loopback-refused-address = Kontrolearje oft de server ferbiningen op di
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús feilige DNS-provider. Dit is de reden:
-neterror-dns-not-found-trr-third-party-warning2 = Jo kinne trochgean mei jo standert DNS-resolver, in tredde partij kin lykwols mooglik sjen hokker websites jo besykje
+neterror-dns-not-found-trr-third-party-warning2 = Jo kinne trochgean mei jo standert DNS-resolver, in tredde partij kin lykwols mooglik sjen hokker websites jo besykje.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = De ferbining mei { $trrDomain } duorre langer as ferwachte.
 neterror-dns-not-found-trr-unknown-host2 = Dizze website is net fûn troch { $trrDomain }.

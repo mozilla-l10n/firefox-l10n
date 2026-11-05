@@ -54,7 +54,7 @@ about-logging-preset-webcodecs-description = Logboekmodulen om problemen mei Web
 about-logging-preset-ml-label = Masinaal leare
 about-logging-preset-ml-description = Logboekmodulen om masineoersettingsproblemen te diagnostisearjen
 about-logging-preset-web-compat-label = Webkompatibiliteit
-about-logging-preset-web-compat-description = Logboekmodulen om webkompatibiliteitsproblemen  te diagnostisearjen
+about-logging-preset-web-compat-description = Logboekmodulen om webkompatibiliteitsproblemen te diagnostisearjen
 about-logging-preset-navigation = Navigaasje
 about-logging-preset-navigation-description = Logboekmodules om problemen mei navigaasje en sesjeskiednis te diagnostisearjen
 about-logging-preset-vpn-label = VPN
@@ -81,7 +81,7 @@ about-logging-configuration-url-ignored = Konfiguraasje-URL negearre
 about-logging-file-and-profiler-override = Kin net tagelyk bestânsútfier forsearje en profileropsjes oerskriuwe
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-unknown-error = Der is in flater bard : { $errorText }
+about-logging-unknown-error = Der is in flater bard: { $errorText }
 about-logging-configured-via-url = Opsje konfigurearre fia URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud

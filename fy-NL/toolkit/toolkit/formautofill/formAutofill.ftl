@@ -114,7 +114,7 @@ credit-card-capture-save-as-new-payment-method-button =
 ## Used on the doorhanger when a saved card is submitted with a new or changed
 ## security code.
 
-credit-card-save-security-code-doorhanger-header = Befeiligingskoade bewarje
+credit-card-save-security-code-doorhanger-header = Befeiligingskoade bewarje?
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 

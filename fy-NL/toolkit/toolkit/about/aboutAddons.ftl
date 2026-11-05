@@ -101,7 +101,7 @@ detail-show-preferences =
            *[other] F
         }
 detail-rating =
-    .value = Wurdearring:
+    .value = Wurdearring
 addon-restart-now =
     .label = No opnij starte
 disabled-unsigned-heading =
@@ -115,11 +115,11 @@ legacy-extensions =
     .value = Ferâldere útwreidingen
 legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
 private-browsing-description2 =
-    { -brand-short-name } wizigt de manier wêrop útwreidingen yn priveenavigaasje wurkje. Nije útwreidingen dy’t jo oan
+    { -brand-short-name } wiziget de manier wêrop útwreidingen yn priveenavigaasje wurkje. Nije útwreidingen dy’t jo oan
     { -brand-short-name } tafoegje, wurkje standert net yn priveefinsters. Utsein jo dit tastean yn de ynstellingen, wurket
     de útwreiding net yn priveenavigaasje, en hat dizze dêryn gjin tagong ta jo online-aktiviteiten.
     Dizze wiziging is oanbrocht om jo priveenavigaasje privee te hâlden.
-    <label data-l10n-name="private-browsing-learn-more">Mear ynfo oer it behearen fan útwreidingen-ynstellingen.</label>
+    <label data-l10n-name="private-browsing-learn-more">Mear ynfo oer it behearen fan útwreidingen-ynstellingen</label>
 aboutaddons-sidebar =
     .heading = Add-ons
 addon-category-discover = Oanrekommandaasjes
@@ -412,7 +412,7 @@ addon-detail-group-label-quarantined-domains =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
-    .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen.
+    .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are performing the
@@ -426,7 +426,7 @@ addon-badge-verified4 =
 # recommendation. As such, we hard code "Firefox" and avoid personalising
 # language like the words "our" or "we".
 addon-badge-recommended4 =
-    .title = Firefox rekommandearret allinnich útwreidingen oan dy’t oan noarms foar befeiliging en prestaasjes foldogge.
+    .title = Firefox rekommandearret allinnich útwreidingen oan dy’t oan noarms foar befeiliging en prestaasjes foldogge
 
 ##
 

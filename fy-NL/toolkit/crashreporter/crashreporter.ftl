@@ -16,7 +16,7 @@ crashreporter-view-report-title = Rapportynhâld
 crashreporter-comment-prompt = Foegje in opmerking ta (opmerkingen binne iepenbier sichtber)
 crashreporter-report-info = Dit rapport hat ek technyske ynformaasje oer de steat fan de applikaasje doe it ferûngelokke.
 crashreporter-checkbox-test-hardware = Kontrolearje op hardware- en konfiguraasjeproblemen op myn apparaat.
-crashreporter-checkbox-send-report = { -vendor-short-name } fan dit ûngelok op de hichte stelle, sadat se dit ferhelpe kinne
+crashreporter-checkbox-send-report = { -vendor-short-name } fan dit ûngelok op de hichte stelle, sadat se dit ferhelpe kinne.
 crashreporter-checkbox-include-url = It adres fan de besochte side byfoegje.
 crashreporter-submit-status = Jo ûngelokrapport sil ferstjoerd wurde foardat jo ôfslute of opnij starte.
 crashreporter-submit-waiting-hardware-tests = Kontrolearje op hardware- en konfiguraasjeproblemen…
@@ -32,9 +32,6 @@ crashreporter-button-close = Slute
 crashreporter-crash-identifier = Ungelok ID: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = Jo kinne de details fan dit ûngelok sjen op { $url }.
-
-# Error strings
-
 # $path (String) - the file path
 crashreporter-error-opening-file = Kin bestân ({ $path }) net iepenje
 # $path (String) - the file path

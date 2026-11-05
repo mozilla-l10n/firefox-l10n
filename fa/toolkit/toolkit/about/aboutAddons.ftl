@@ -315,6 +315,8 @@ release-notes-addon-button = یادداشت‌های انتشار
 permissions-addon-button = مجوزها
 extension-enabled-heading = فعال شد
 extension-disabled-heading = غیرفعال شد
+theme-enabled-heading2 =
+    .heading = پوستهٔ فعال
 theme-disabled-heading3 =
     .heading = پوسته‌های ذخیره‌شده
 theme-enabled-heading = فعال شد
@@ -596,6 +598,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = پوسته‌های { -brand-product-name }
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = پوسته‌های کلاسیک
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = نمایش بیشتر
 aboutaddons-themes-picker-see-less = نمایش کمتر

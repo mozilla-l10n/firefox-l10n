@@ -161,6 +161,13 @@ about-glean-metrics-table-settings-timelines-circle-radius = شعاع دایره
 about-glean-metrics-table-settings-timelines-vertical-line-x-offset = آفست محور X برای خط Y
 # The offset on the y-axis from the x-axis for the y-axis line
 about-glean-metrics-table-settings-timelines-vertical-line-y-offset = آفست محور Y برای خط Y
+# label: Displayed near an input field that can be used to filter metrics
+# description: This message sits alongside an input field, further describing its purpose. Category refers to the category in which a given metric is recorded. Name refers to the name of a given metric. Type refers to a given metric's metric type. Value refers to the underlying value of a given metric. "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+# placeholder: Search is a verb in this case
+about-glean-filter-metrics =
+    .description = این کار جدول زیر را بر اساس دسته، نام، نوع و مقدار (اگر مقدار از نوع ساده باشد) پالایش می‌کند.
+    .label = پالایش سنجه‌ها
+    .placeholder = جست‌وجو
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = فیلتر
 # This message sits alongside an input field, further describing its purpose.
@@ -189,6 +196,10 @@ about-glean-store-submitted-pings-select-label = پینگ:
 about-glean-store-submitted-pings =
     .description = ذخیرهٔ پینگ‌های ارسال‌شده در حافظه را فعال می‌کند
     .label = ذخیرهٔ پینگ‌های ارسال‌شده
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = اطلاعات کارخواه
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = اطلاعات پینگ
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

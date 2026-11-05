@@ -15,7 +15,7 @@ download-ui-confirm-quit-cancel-downloads =
 download-ui-confirm-quit-cancel-downloads-mac =
     { $downloadsCount ->
         [1] As jo no stopje, wurdt it downloaden annulearre. Binne jo der wis fan dat jo stopje wolle?
-       *[other] As jo no stopje , wurde { $downloadsCount } downloadsesjes annulearre. Binne jo wis dat jo stopje wolle?
+       *[other] As jo no stopje, wurde { $downloadsCount } downloadsesjes annulearre. Binne jo wis dat jo stopje wolle?
     }
 download-ui-dont-quit-button =
     { PLATFORM() ->
