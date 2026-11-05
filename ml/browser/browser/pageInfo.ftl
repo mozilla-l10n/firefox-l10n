@@ -107,6 +107,11 @@ security-view-technical =
     .value = സാങ്കേതിക വിശദാംശങ്ങള്‍
 help-button =
     .label = തുണ
+security-technical-encrypted-page = നിങ്ങള്‍ കാണുന്ന താള്‍ ഇന്റര്‍നെറ്റില്‍ ട്രാന്‍സ്മിറ്റ് ചെയ്യുന്നതിനു മുമ്പായി എന്‍ക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു.
+security-technical-encrypted-description = കമ്പ്യൂട്ടറുകള്‍ തമ്മില്‍ കൈമാറപ്പെട്ടുകൊണ്ടിരിക്കുന്ന വിവരങ്ങള്‍ അനുവാദമില്ലാത്തവര്‍ക്കു് കാണുവാന്‍ എന്‍ക്രിപ്ഷന്‍ വിഷമകരമാക്കിത്തീര്‍ക്കുന്നു. അതുകൊണ്ടു് തന്നെ ഈ താള്‍ അതിന്റെ നെറ്റ്‍വര്‍ക്ക് വഴിയുള്ള സഞ്ചാരമധ്യേ ആരും വായിച്ചിട്ടുണ്ടാവാന്‍ സാധ്യതയില്ല.
+security-technical-mixed-content-description = ഇന്റര്‍നെറ്റില്‍ ട്രാന്‍സ്രമിറ്റ് ചെയ്യുന്നതിനു് മുമ്പായി നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന താളിന്റെ ചില ഭാഗങ്ങള്‍ എന്‍ക്രിപ്റ്റ് ചെയ്യുവാന്‍ സാധിച്ചില്ല.
+security-technical-weak-cipher = ഈ വെബ്‌ സൈറ്റിലേക്കുള്ള താങ്കളുടെ കണക്ഷന്‍ ദുര്‍ബലമായ എന്‍ക്രിപ്ഷനാണു ഉപയോഗിക്കുന്നത് കൂടാതെ അത് സ്വകാര്യവുമല്ല. മറ്റുള്ളവര്‍ക്കു് നിങ്ങളുടെ വിവരങ്ങള്‍ കാണാനോ ഈ വെബ്സൈറ്റിന്റെ പ്രവര്‍ത്തനത്തില്‍ മാറ്റം വരുത്താനോ സാധിക്കും.
+security-technical-ct-compliant = ഈ വെബ്സൈറ്റ് സർട്ടിഫിക്കറ്റ് സുതാര്യത നയം അനുസരിച്ച് പ്രവർത്തിക്കുന്നു.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +123,21 @@ security-site-data-cookies = ഉവ്വ്, കുക്കികളും സ
 security-site-data-only = അതെ, സൈറ്റ് ഡാറ്റയുടെ { $value } { $unit }
 security-site-data-cookies-only = അതെ, കുക്കികൾ
 security-site-data-no = അല്ല
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = കണക്ഷന്‍ പകുതിയായ എന്‍ക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു.
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = കണക്ഷന്‍ എന്‍ക്രിപ്റ്റ് ചെയ്തിരിയ്ക്കുന്നു ({ $algorithm }, { $keySize } ബിറ്റ് കീകള്‍, { $protocol })
+security-technical-broken-encryption =
+    .value = തകര്‍ക്കപ്പെട്ട എന്‍ക്രിപ്ഷന്‍ ({ $algorithm }, { $keySize } ബിറ്റ് കീകള്‍, { $protocol })
 
 ##
 
