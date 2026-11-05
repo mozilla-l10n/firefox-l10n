@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = O pellgargañ an testeni
 download-cert-message = Goulennet ez eus bet diganeoc'h kaout fiziañs en un aotrouniezh testeniañ nevez.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Fellout a ra deoc'h kaout fiziañs e "{ $caName }" evit ar palioù da heul?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Aotrouniezh testeniañ (anv ebet)
 download-cert-trust-ssl =
     .label = Kaout fiziañ en aotrouniezh testeniañ-mañ evit anaout al lec'hiennoù web.
 download-cert-trust-email =
