@@ -102,6 +102,11 @@ security-view-technical =
     .value = Butiran Teknikal
 help-button =
     .label = Bantuan
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Laman web { $website } tidak menyokong enkripsi halaman yang anda sedang layari.
+security-technical-no-encryption-transit = Maklumat yang dihantar melalui Internet tanpa enkripsi boleh dilihat oleh pihak lain ketika dalam transit.
+security-technical-no-encryption-page = Halaman yang sedang anda tonton tidak terenkripsi sebelum dihantar melalui Internet.
 security-technical-encrypted-page = Halaman yang anda sedang papar telah dienkripsi sebelum dihantar melalui Internet.
 security-technical-encrypted-description = Enkripsi menyukarkan orang yang tidak diberkenaan untuk melihat maklumat yang dihantar ke dalam sesebuah komputer. Oleh itu, kemungkinan besar tidak ada sesiapa yang membaca halaman ini semasa dihantar ke seluruh rangkaian.
 security-technical-mixed-content-description = Sebahagian halaman yang anda sedang papar tidak dienkripsi sebelum dihantar melalui Internet.
@@ -121,6 +126,8 @@ security-site-data-no = Tidak
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Sambungan Tidak Dienkripsi
 security-technical-mixed-content =
     .value = Sebahagian Sambungan Dienkripsi
 

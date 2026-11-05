@@ -26,6 +26,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Memuat turun Sijil
 download-cert-message = Anda telah diminta untuk mempercayai Autoriti Sijil (CA) yang baru.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Adakah anda ingin percaya "{ $caName }" untuk kegunaan berikut?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Autoriti Sijil (tidak bernama)
 download-cert-trust-ssl =
     .label = Percayai CA ini untuk mengenal pasti laman web.
 download-cert-trust-email =
@@ -76,6 +81,7 @@ set-password-reminder = Penting: Jika anda lupa kata laluan sandaran sijil anda,
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Sila masukkan kata laluan yang digunakan untuk menyulitkan sijil sandaran ini:
 
 ## Protected authentication dialog
 
