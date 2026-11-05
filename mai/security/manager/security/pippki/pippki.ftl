@@ -12,6 +12,8 @@ change-password-token = सुरक्षा युक्ति: { $tokenName }
 change-password-old = मोजुदा  गुड़किल्ली:
 change-password-new = नव गुड़किल्ली:
 change-password-reenter = नव गुड़किल्ली (फेर):
+change-password-not-set =
+    .value = (सेट नहि)
 
 ## Reset Primary Password dialog
 
@@ -48,3 +50,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र बैकअप गुड़किल्ली (फेर):
 set-password-reminder = Important: जँ अहाँ अपन प्रमाणपत्र बैकअप गुड़किल्ली भूलि गेलहुँ, अहाँ एहि बैकअप केँ बाद मे फेर नहि लाबि सकब. कृप्या एकरा सुरक्षित स्थान मे रिकार्ड करू.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
