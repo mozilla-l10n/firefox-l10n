@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Preuzimanje certifikata
 download-cert-message = Novo certifikacijsko tijelo (CA) traži da mu se vjeruje.
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Želiš li vjerovati „{ $caName }” za sljedeće svrhe?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certifikacijsko tijelo (bezimeno)
 download-cert-trust-ssl =
     .label = Vjeruj ovom CA-u za identifikaciju web stranica.
 download-cert-trust-email =
@@ -103,6 +108,7 @@ set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije c
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Molim upišite lozinku s kojom je šifrirana sigurnosna kopija ovog certifikata:
 
 ## Protected authentication dialog
 

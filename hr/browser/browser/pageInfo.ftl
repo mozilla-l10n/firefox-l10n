@@ -107,6 +107,11 @@ security-view-technical =
     .value = Tehnički detalji
 help-button =
     .label = Pomoć
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Web stranica { $website } ne podržava šifriranje stranice koju gledaš.
+security-technical-no-encryption-transit = Informacije koje su poslane putem interneta bez prethodnog šifriranja mogu vidjeti ostali tijekom prijenosa.
+security-technical-no-encryption-page = Stranica koju gledaš nije šifrirana prije slanja putem interneta.
 security-technical-encrypted-page = Stranica koju gledaš šifrirana je prije slanja putem interneta.
 security-technical-encrypted-description = Šifriranje otežava neovlaštenim osobama pregledavanje informacija koje putuju između računala. Stoga je mala vjerojatnost da je netko pročitao ovu stranicu dok je putovala mrežom.
 security-technical-mixed-content-description = Dijelovi stranice koju gledaš nisu šifrirani prije slanja putem interneta.
@@ -126,6 +131,8 @@ security-site-data-no = Ne
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Nešifrirana veza
 security-technical-mixed-content =
     .value = Djelomično šifrirana veza
 
