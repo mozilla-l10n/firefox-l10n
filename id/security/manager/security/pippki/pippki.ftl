@@ -14,6 +14,8 @@ change-password-token = Perangkat Keamanan: { $tokenName }
 change-password-old = Sandi lama:
 change-password-new = Sandi baru:
 change-password-reenter = Sandi baru (ulangi):
+change-password-not-set =
+    .value = (belum diatur)
 pippki-failed-pw-change = Gagal mengubah sandi.
 pippki-incorrect-pw = Anda tidak memasukkan sandi dengan benar. Silakan coba lagi.
 pippki-pw-change-ok = Sandi berhasil diubah.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sandi cadangan sertifikat (ulangi):
 set-password-reminder = Penting: Jika Anda lupa sandi cadangan sertifikat, Anda tidak akan dapat mengembalikan cadangan ini nantinya. Mohon disimpan di lokasi yang aman.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 

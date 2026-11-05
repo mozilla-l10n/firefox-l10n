@@ -110,6 +110,11 @@ security-view-technical =
     .value = Detail Teknis
 help-button =
     .label = Bantuan
+security-technical-encrypted-page = Laman yang dilihat telah dienkripsi sebelum dikirim melalui Internet.
+security-technical-encrypted-description = Enkripsi membuat informasi yang disampaikan antar komputer lebih sulit dilihat oleh pihak yang tidak diizinkan. Oleh karenanya, sangat tidak umum seseorang mampu membaca laman ini saat ditransfer melalui jaringan.
+security-technical-mixed-content-description = Beberapa bagian dari laman yang dilihat tidak dienkripsi sebelum dikirim melalui Internet.
+security-technical-weak-cipher = Sambungan Anda ke situs web ini menggunakan enkripsi leman dan tidak pribadi. Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.
+security-technical-ct-compliant = Situs ini tunduk pada kebijakan Transparansi Sertifikat.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Ya, kuki dan data situs { $value } { $unit }
 security-site-data-only = Ya, data situs { $value } { $unit }
 security-site-data-cookies-only = Ya, kuki
 security-site-data-no = Tidak
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Sambungan Terenkripsi Sebagian
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Sambungan Terenkripsi ({ $algorithm }, kunci { $keySize } bita, { $protocol })
+security-technical-broken-encryption =
+    .value = Enkripsi Rusak ({ $algorithm }, kunci { $keySize } bita, { $protocol })
 
 ##
 
