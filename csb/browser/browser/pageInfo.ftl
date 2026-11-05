@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kòpérëjë
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Wëbierzë wszëtkò
     .accesskey = ë
-
 general-tab =
     .label = Òglowé
     .accesskey = g
@@ -36,7 +33,6 @@ general-meta-name =
     .label = Miono
 general-meta-content =
     .label = Zamkłosc
-
 media-tab =
     .label = Media
     .accesskey = M
@@ -64,13 +60,11 @@ media-save-as =
 media-save-image-as =
     .label = Zapiszë jakno…
     .accesskey = i
-
 perm-tab =
     .label = Przistãp
     .accesskey = ã
 permissions-for =
     .value = Przistãp dlô:
-
 security-tab =
     .label = Bezpiek
     .accesskey = e
@@ -89,22 +83,34 @@ security-view-identity-verifier =
     .value = Zwerifikòwóné przez:
 security-view-privacy =
     .value = Priwatnota i historiô
-
 security-view-privacy-history-value = Móm na ti stronie ju rëchli bëti?
-
 security-view-privacy-passwords-value = Móm zapisóné parole dlô ti stronë?
-
 security-view-privacy-viewpasswords =
     .label = Wëskrzëni zapisóné parole
     .accesskey = w
 security-view-technical =
     .value = Techniczné detale
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = Serwer { $website } nie wspierô szifrowôniô dlô ti stronë.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-no-encryption =
+    .value = Sparłãczenié nie je szifrowóné
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -126,7 +132,6 @@ media-video = Wideò
 media-audio = Audio
 saved-passwords-yes = Jo
 saved-passwords-no = Nié
-
 no-page-title =
     .value = strona bez miona:
 general-quirks-mode =
@@ -140,14 +145,12 @@ media-unknown-not-cached =
     .value = Nieznóné (felëje w kaszu)
 permissions-use-default =
     .label = Ùżëjë domëslnëch
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Òbrôzk { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -157,14 +160,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (skalowóny do { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:

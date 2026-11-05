@@ -24,6 +24,11 @@ download-cert-window2 =
     .title = Zladënk certifikatów
     .style = min-width: 46em
 download-cert-message = Zażądano dôwaniô wiarë nowémù Òrganowi Certifikacje (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Dopùszczëc "{ $caName }" jakno dowierzany zdrój w nëch przitrôfkach?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Òrgan certifikacje (bez miona)
 download-cert-trust-ssl =
     .label = Wierzë nemù CA przë identifikacje Internetowëch stron.
 download-cert-trust-email =
@@ -32,8 +37,6 @@ download-cert-message-desc = Nim dôsz wiarë nemù CA, przezdrzë jegò certifi
 download-cert-view-cert =
     .label = Wëzdrzatk
 download-cert-view-text = Sprôwdzë certifikat Òrganu Certifikacje
-
-## Client Authorization Ask dialog
 
 ## Client Authentication Ask dialog
 
@@ -52,9 +55,8 @@ set-password-repeat-backup-pw =
     .value = Parola czertifikatù zazychrowaniô (jesz rôz):
 set-password-reminder = Wôżné: żlë òbaczysz parolã certifikatu zazychrowaniô, nie bãdzesz w sztãdze doprowadzëc negò zazychrowaniô pòzdze nazôd. Proszã zapiszë ną parolã w bezpiecznym môlu.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 
