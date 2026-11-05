@@ -12,6 +12,8 @@ change-password-token = பாதுகாப்பு சாதனம்: { $to
 change-password-old = தற்போதைய கடவுச்சொல்:
 change-password-new = புதிய கடவுச்சொல்:
 change-password-reenter = புதிய கடவுச்சொல் (மீண்டும்):
+change-password-not-set =
+    .value = (அமையவில்லை)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = சான்றிதழ் காப்பு கடவுச்சொல் (மீண்டும்):
 set-password-reminder = முக்கியம்: உங்கள் சான்றிதழ் காப்பு கடவுச்சொல்லை நீங்கள் மறந்திருந்தால், கோப்பை மீட்க முடியாது. எனவே பாதுகாப்பான இடத்தில் கடவுச்சொல்லை பதிவு செய்துகொள்ளவும்.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
