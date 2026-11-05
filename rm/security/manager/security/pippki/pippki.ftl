@@ -14,6 +14,8 @@ change-password-token = Modul da criptografia: { $tokenName }
 change-password-old = Pled-clav actual:
 change-password-new = Pled-clav nov:
 change-password-reenter = Pled-clav nov (repeter):
+change-password-not-set =
+    .value = (betg definì)
 pippki-failed-pw-change = Impussibel da midar il pled-clav.
 pippki-incorrect-pw = Ti n'has betg endatà il dretg pled-clav actual. Emprova anc ina giada.
 pippki-pw-change-ok = Midà cun success il pled-clav.
@@ -98,3 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Pled-clav da segirezza dal certificat (repeter):
 set-password-reminder = Impurtant: sche ti emblidas tes pled-clav da segirezza dal certificat, na pos ti pli tard betg pli restaurar questa copia da segirezza. Al notescha per plaschair en in lieu segir.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
