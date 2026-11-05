@@ -104,6 +104,11 @@ security-view-technical =
     .value = Detalyeng Pangteknikal
 help-button =
     .label = Tulong
+# Variables:
+#   $website (string) - The hostname of the website
+security-technical-no-encryption-website = The web site { $website } does not support encryption for the page you are viewing.
+security-technical-no-encryption-transit = Ang impormasyon na ipinadala sa Internet nang walang encryption ay makikita ng ibang tao habang ito ay nasa transit.
+security-technical-no-encryption-page = Ang pahinang tinitingnan mo ay hindi naka-encrypt bago mapadala sa Internet.
 security-technical-encrypted-page = Ang pahina na iyong tinitingnan ay naka-encrypt bago na ipinadala sa Internet.
 security-technical-encrypted-description = Sa pamamagitan ng encryption, pinapahirapan ang mga di-kanais-nais na tao mula sa pagsilip ng impormasyong napapadala sa iba't-ibang mga computer. Dahil dito, mababa ang tsansang may nakabasa sa pahinang ito habang pinadala ito sa network.
 security-technical-mixed-content-description = Mga bahagi ng pahina na iyong tinitingnan ay hindi naka-encrypt bago na ipinadala sa Internet.
@@ -123,6 +128,8 @@ security-site-data-no = Hindi
 
 ## These strings are used in the Technical Details section of the security tab
 
+security-technical-no-encryption =
+    .value = Hindi Encrypted ang Koneksyon
 security-technical-mixed-content =
     .value = Bahaging Nakakripta ang Koneksiyon
 

@@ -41,6 +41,11 @@ download-cert-window2 =
     .style = min-width: 46em
     .title = Kinukuha ang Sertipiko
 download-cert-message = Pinapakiusapan kang pagkatiwalaan ang isang bagong Certificate Authority (CA).
+# Variables:
+#   $caName (string) - The name of the Certificate Authority
+download-cert-trust-header = Magtitiwala ka ba sa "{ $caName }" para sa mga sumusunod na layon?
+# Used as $caName in download-cert-trust-header when the Certificate Authority has no name
+download-cert-unnamed-ca = Certificate Authority (walang pangalan)
 download-cert-trust-ssl =
     .label = Pagkatiwalaan ang CA na ito para matukoy ang mga website.
 download-cert-trust-email =
@@ -91,6 +96,7 @@ set-password-reminder = Mahalaga: Kung nakalimutan mo ang iyong password sa back
 
 ## Certificate backup import prompt
 
+pippki-get-pkcs12-password-message = Pakipasok ang password na ginamit para ma-encrypt ang certificate backup na ito:
 
 ## Protected authentication dialog
 
