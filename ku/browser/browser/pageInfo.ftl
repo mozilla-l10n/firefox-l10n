@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = j
 menu-copy =
     .label = Kopîkirin
     .accesskey = K
-
 select-all =
     .key = P
 menu-select-all =
     .label = Gişî hilbijêre
     .accesskey = G
-
 general-tab =
     .label = Giştî
     .accesskey = G
@@ -36,7 +33,6 @@ general-meta-name =
     .label = Nav
 general-meta-content =
     .label = Naverok
-
 media-tab =
     .label = Medya
     .accesskey = M
@@ -64,13 +60,11 @@ media-save-as =
 media-save-image-as =
     .label = Cuda Tomar Bike...
     .accesskey = a
-
 perm-tab =
     .label = Destûr
     .accesskey = D
 permissions-for =
     .value = Destûrê ji bo:
-
 security-tab =
     .label = Ewlekarî
     .accesskey = E
@@ -87,25 +81,35 @@ security-view-identity-domain =
     .value = Malper:
 security-view-identity-verifier =
     .value = Piştrastkirin:
-
 security-view-privacy-history-value = Gelo min îro serdana vê malperê kiribû?
-
 security-view-privacy-passwords-value = Gelo min nasnav ji bo vê malperê tomar kirine?
-
 security-view-privacy-viewpasswords =
     .label = Nasnavên Tomarbûyî Nîşan Bide
     .accesskey = W
 security-view-technical =
     .value = Kitekitên Teknîkî
-
 help-button =
     .label = Alîkarî
+security-technical-encrypted-page = Rûpela ku temaşe dikî, berî ku bê vexwendin, hatnasnavkirin.
+security-technical-mixed-content-description = Parçeya rûpela dibînî beriya li ser înternetê bê şandin nehatiye şîfrekirin.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Girêdan Qismen Şîfrekirî ye
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -127,7 +131,6 @@ media-video = Vîdeo
 media-audio = Audîo
 saved-passwords-yes = Erê
 saved-passwords-no = Na
-
 no-page-title =
     .value = Rûpela Bê Sernivîs:
 general-quirks-mode =
@@ -141,14 +144,12 @@ media-unknown-not-cached =
     .value = Nenîşankirî (nekete pêşbîrê)
 permissions-use-default =
     .label = Standard
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Wêne
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -158,14 +159,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (li { $scaledx }px × { $scaledy }px hat anîn)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:

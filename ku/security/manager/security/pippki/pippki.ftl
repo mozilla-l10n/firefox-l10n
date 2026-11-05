@@ -12,6 +12,8 @@ change-password-token = Amûrê Ewlekariyê: { $tokenName }
 change-password-old = Nasnavê Niha:
 change-password-new = Nasnavê nû:
 change-password-reenter = Nasnavê nû (dubare):
+change-password-not-set =
+    .value = ( mîheng nebûye)
 
 ## Reset Primary Password dialog
 
@@ -33,8 +35,6 @@ download-cert-view-cert =
     .label = Nîşan bide
 download-cert-view-text = Sertîfîkaya CA 'yê kontrol bike
 
-## Client Authorization Ask dialog
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -51,9 +51,8 @@ set-password-repeat-backup-pw =
     .value = Nasnavê Hilanîna Sertîfîkayê (dubare):
 set-password-reminder = Girîngî: Heke nasnavê xwe yê hilanîna sertîfîkayê ji bîr bikî, nikarî dû re vê hilanînê çêkî. Ji kerema xwe re vê li ciyeke ewle veşêre.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 
