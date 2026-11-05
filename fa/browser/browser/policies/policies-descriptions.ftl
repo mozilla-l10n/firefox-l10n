@@ -77,6 +77,7 @@ policy-DisableSecurityBypass = جلوگیری از دور زدن هشدارها�
 policy-DisableSetAsDesktopBackground = غیرفعال کردن دستور قرار دادن تصویر به عنوان پس‌زمینهٔ دسکتاپ.
 policy-DisableSystemAddonUpdate = جلوگیری از نصب و به‌روزرسانی افزونه‌های سیستمی توسط مرورگر.
 policy-DisableTelemetry = غیرفعال کردن دورسنجی (تله‌متری).
+policy-DisableThirdPartyModuleBlocking2 = جلوگیری از اینکه کاربر با اطلاعات ماژول‌های شخص ثالث (about:third-party) ماژول‌های شخص ثالث تزریق‌شده به پردازش { -brand-short-name } را مسدود کند.
 policy-DisableThirdPartyModuleBlocking = جلوگیری از مسدودسازی ماژول‌های شخص ثالثی که به فرآیند { -brand-short-name } تزریق می‌شوند توسط کاربر.
 policy-DisplayBookmarksToolbar = نمایش پیش‌فرض نوارابزار نشانک‌ها.
 policy-DisplayMenuBar = نمایش پیش‌فرض نوار منو.
