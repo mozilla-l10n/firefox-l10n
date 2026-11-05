@@ -110,6 +110,11 @@ security-view-technical =
     .value = Технички детаљи
 help-button =
     .label = Помоћ
+security-technical-encrypted-page = Страница коју прегледавате је шифрована пре слања преко интернета.
+security-technical-encrypted-description = Шифровање отежава неовлашћен преглед података који се размењују између рачунара. Стога је врло мало вероватно да неко може да прочита ову страницу док путује кроз мрежу.
+security-technical-mixed-content-description = Делови странице коју прегледавате нису шифроване пре преноса преко интернета.
+security-technical-weak-cipher = Веза за овај сајт користи слабо шифровање и није приватна. Друге особе могу да виде или да модификују понашање веб сајта.
+security-technical-ct-compliant = Овај веб сајт је у складу са полисом транспарентности сертификата.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -121,6 +126,21 @@ security-site-data-cookies = Да, колачиће и { $value } { $unit } по
 security-site-data-only = Да, { $value } { $unit } података сајта
 security-site-data-cookies-only = Да, колачиће
 security-site-data-no = Не
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Веза је делимично шифрована
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Шифрована веза ({ $algorithm }, { $keySize } битни кључ, { $protocol })
+security-technical-broken-encryption =
+    .value = Неисправно шифровање ({ $algorithm }, { $keySize } битни кључеви, { $protocol })
 
 ##
 
