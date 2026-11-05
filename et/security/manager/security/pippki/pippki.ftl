@@ -14,6 +14,8 @@ change-password-token = Turvaseade: { $tokenName }
 change-password-old = Praegune parool:
 change-password-new = Uus parool:
 change-password-reenter = Uue parooli kinnitus:
+change-password-not-set =
+    .value = (määramata)
 pippki-failed-pw-change = Parooli muutmine pole võimalik.
 pippki-incorrect-pw = Sa ei sisestanud praegu kehtivat õiget parooli. Palun proovi uuesti.
 pippki-pw-change-ok = Parooli muutmine õnnestus.
@@ -86,3 +88,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikaadi varukoopia parool (uuesti):
 set-password-reminder = Tähtis: kui sa unustad varukoopia parooli, ei ole võimalik sertifikaati taastada.  Hoia parooli kindlas kohas.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
