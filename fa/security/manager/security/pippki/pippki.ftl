@@ -14,6 +14,8 @@ change-password-token = دستگاه امنیتی: { $tokenName }
 change-password-old = گذرواژهٔ فعلی:
 change-password-new = گذرواژهٔ جدید:
 change-password-reenter = گذرواژهٔ جدید (دوباره وارد کنید):
+change-password-not-set =
+    .value = (تنظیم نشده)
 pippki-failed-pw-change = تغییر گذرواژه ممکن نشد.
 pippki-incorrect-pw = گذرواژهٔ فعلی را درست وارد نکردید. لطفاً دوباره امتحان کنید.
 pippki-pw-change-ok = گذرواژه با موفقیت تغییر کرد.
@@ -98,6 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = گذرواژهٔ پشتیبان گواهی (دوباره وارد کنید):
 set-password-reminder = مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.
+
+## Certificate backup import prompt
+
 
 ## Protected authentication dialog
 
