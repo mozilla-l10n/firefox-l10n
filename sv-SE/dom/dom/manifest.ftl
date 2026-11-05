@@ -7,6 +7,14 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
+dom-manifest-id-is-invalid = ID-medlemmen matchade inte en giltig URL.
+dom-manifest-id-not-same-origin = ID-medlemmen måste ha samma ursprung som start_url-medlemmen.
+dom-manifest-should-be-object = Manifest bör vara ett objekt.
+dom-manifest-scope-url-invalid = Område-URL är ogiltig.
+dom-manifest-scope-not-same-origin = Område-URL måste ha samma ursprung som dokumentet.
+dom-manifest-start-url-outside-scope = Start URL:en är utanför området, så området är ogiltigt.
+dom-manifest-start-url-invalid = Start URL:en är ogiltig.
+dom-manifest-start-url-should-be-same-origin = Start URL:en måste ha samma ursprung som dokumentet.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
