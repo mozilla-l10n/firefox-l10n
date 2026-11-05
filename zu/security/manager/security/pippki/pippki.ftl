@@ -12,6 +12,8 @@ change-password-token = Ithuluzi Lokulondeka: { $tokenName }
 change-password-old = Igama lokungena lamanje:
 change-password-new = Igama Lokungena Elisha:
 change-password-reenter = Igama lokungena elisha (futhi):
+change-password-not-set =
+    .value = (akuhleliwe)
 
 ## Reset Primary Password dialog
 
@@ -31,8 +33,6 @@ download-cert-view-cert =
     .label = Bheka
 download-cert-view-text = Hlola isitifiketi se-CA
 
-## Client Authorization Ask dialog
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -49,9 +49,8 @@ set-password-repeat-backup-pw =
     .value = Igama lokungena lesitifiketi ozosigcina (futhi):
 set-password-reminder = Okubalulekile: Uma ukhohlwa igama lokungena lesitifiketi ozosigcina, ngeke ukwazi ukubuyisa lesi esigciniwe kamuva.  Sicela ulibhale endaweni ephephile.
 
-## Protected Auth dialog
+## Certificate backup import prompt
 
-## Protected authentication alert
 
 ## Protected authentication dialog
 

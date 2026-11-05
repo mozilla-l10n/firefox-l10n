@@ -7,13 +7,11 @@ copy =
 menu-copy =
     .label = Kopisha
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Khetha Konke
     .accesskey = K
-
 general-tab =
     .label = Okuvamile
     .accesskey = G
@@ -33,7 +31,6 @@ general-meta-name =
     .label = Igama
 general-meta-content =
     .label = Okuqukethwe
-
 media-tab =
     .label = Umthombo Wezindaba
     .accesskey = M
@@ -61,13 +58,11 @@ media-save-as =
 media-save-image-as =
     .label = Gcina Ngokuthi…
     .accesskey = e
-
 perm-tab =
     .label = Izimvume
     .accesskey = P
 permissions-for =
     .value = Izimvume ze:
-
 security-tab =
     .label = Ukulondeka
     .accesskey = S
@@ -84,25 +79,35 @@ security-view-identity-domain =
     .value = Iwebhusayithi:
 security-view-identity-verifier =
     .value = Iqinisekiswe ngu:
-
 security-view-privacy-history-value = Ingabe ngiyivakashele le webhusayithi ngaphambi kwanamuhla?
-
 security-view-privacy-passwords-value = Ingabe kukhona amaphasiwedi engiwagcinile wale sayithi?
-
 security-view-privacy-viewpasswords =
     .label = Bheka amagama okungena agciniwe
     .accesskey = w
 security-view-technical =
     .value = Imininingwane yemisebenzi esizayo
-
 help-button =
     .label = Usizo
+security-technical-encrypted-page = Leli khasi olibukayo libhalwe ngokucashile ngaphambi kokuba lidluliselwe ku-Inthanethi.
+security-technical-mixed-content-description = Ezinye izingxenye zaleli khasi olibukayo azibhalwanga ngokucashile ngaphambi kokuba zidluliselwe ku-Inthanethi.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Ukuxhumana Kubhalwe Ngokucashile Ngokwengxenye
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
 
 ##
 
@@ -124,7 +129,6 @@ media-video = Ividiyo
 media-audio = Umsindo
 saved-passwords-yes = Yebo
 saved-passwords-no = Cha
-
 no-page-title =
     .value = Ikhasi elingenasihloko:
 general-quirks-mode =
@@ -138,14 +142,12 @@ media-unknown-not-cached =
     .value = Akwaziwa (akugcinwanga)
 permissions-use-default =
     .label = Sebenzisa okwakhona
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Isithombe esingu-{ $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -155,14 +157,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (kubalelwa ku-{ $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = I-{ $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
