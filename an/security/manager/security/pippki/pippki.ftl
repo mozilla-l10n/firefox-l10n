@@ -12,6 +12,8 @@ change-password-token = Dispositivo de seguranza: { $tokenName }
 change-password-old = Clau actual:
 change-password-new = Clau nueva:
 change-password-reenter = Clau nueva (unatra vegada):
+change-password-not-set =
+    .value = (no definiu)
 
 ## Reset Primary Password dialog
 
@@ -71,3 +73,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Clau d'a copia de seguranza d'o certificau (unatra vegada):
 set-password-reminder = Important: si ixuplida a clau d'a copia de seguranza d'o certificau no podrá restablir-la mas entabant.  Alce-la en un puesto seguro.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
