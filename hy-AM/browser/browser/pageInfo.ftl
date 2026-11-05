@@ -107,6 +107,11 @@ security-view-technical =
     .value = Տեխնիկական Մանրամասնություններ
 help-button =
     .label = Օգնություն
+security-technical-encrypted-page = Ձեր կողմից դիտվող էջը ծածկագրվել է նախքան համացանցով ուղղարկվելը:
+security-technical-encrypted-description = Գաղտնագրումը խստիվ բարդացնում է ոչ արտոնյալ անձանց կողմից համակարգիչների միջև ճանապարհորդող տեղեկագրության կարդալը: Այդ իսկ պատճառով խիստ անհավանական է, որ որևէ մեկը այս էջը ցանցով փոխանցվելիս կարդացած լինի:
+security-technical-mixed-content-description = Ձեր դիտած էջի որոշ մասեր համացանցով փոխանցվելիս չէին գաղտնագրվել:
+security-technical-weak-cipher = Կապակցումը այս կայքին օգտագործում է թույլ գաղտնագրում և գաղտնի չէ: Այլ անձիք կարող են տեսնել ձեր տեղեկատվությունը կամ փոփոխեն կայքի ժառանգորդին:
+security-technical-ct-compliant = Այս կայքը աշխատում է Վկայագրի թափանցիկության դրույթով:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +123,21 @@ security-site-data-cookies = Այո, թխուկները և կայքի տվյալ
 security-site-data-only = Այո, կայքի տվյալներ՝ { $value } { $unit }
 security-site-data-cookies-only = Այո, թխուկները
 security-site-data-no = Ոչ
+
+## These strings are used in the Technical Details section of the security tab
+
+security-technical-mixed-content =
+    .value = Կապը մասնակի գաղտնագրված է
+
+## Variables:
+##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
+##   $keySize (number) - The size of the encryption key in bits
+##   $protocol (string) - The protocol version (e.g. "TLS 1.3")
+
+security-technical-encrypted =
+    .value = Կապակցումը գաղտնագրված է ({ $algorithm }, { $keySize } բիթ բանալի, { $protocol })
+security-technical-broken-encryption =
+    .value = Վնասված գաղտնագրում ({ $algorithm }, { $keySize } բիթ բանալի, { $protocol })
 
 ##
 

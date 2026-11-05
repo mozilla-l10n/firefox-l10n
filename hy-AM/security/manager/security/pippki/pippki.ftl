@@ -14,6 +14,8 @@ change-password-token = Անվտանգության սարք: { $tokenName }
 change-password-old = Գործող գաղտնաբառը.
 change-password-new = Նոր Գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին) ՝
+change-password-not-set =
+    .value = (նշված չէ)
 pippki-failed-pw-change = Չստացվեց փոխել գաղտնաբառը:
 pippki-incorrect-pw = Դուք չեք մուտքագրել գործող վավեր գաղտնաբառը: Խնդրում ենք փորձել նորից:
 pippki-pw-change-ok = Գաղտնաբառը հաջողությամբ փոխվեց:
@@ -89,3 +91,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Վկայագրի Կրկնօրինակի Գաղտնաբառը (նորից).
 set-password-reminder = Կարևոր է. Եթե մոռանաք ձեր Վկայագրի կրկնօրինակի գաղտնաբառը. ի վիճակի չեք լինի այս կրկնօրինակն օգտագործել: Խնդրեմ, այն գրի առեք և ապահով տեղ պահեք:
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
