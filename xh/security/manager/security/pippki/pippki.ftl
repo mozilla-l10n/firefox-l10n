@@ -9,6 +9,8 @@ password-quality-meter = Umlinganiselo womgangatho wegama lokugqithisa
 change-password-old = Igama lokugqithisa langoku:
 change-password-new = Igama lokugqithisa elitsha:
 change-password-reenter = Igama lokugqithisa (kwakhona):
+change-password-not-set =
+    .value = (akumiselwanga)
 
 ## Reset Primary Password dialog
 
@@ -43,3 +45,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Igama lokugqithisa lekopi egcinwayo yesatifikethi (kwakhona):
 set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi egcinwayo yesatifikethi sakho, akusayi kukwazi ukubuyisela ikopi egcinwayo emva kwethuba.  Nceda yigcine ngokuyibhala kwindawo yokugcina ekhuselekileyo.
+
+## Certificate backup import prompt
+
+
+## Protected authentication dialog
+
