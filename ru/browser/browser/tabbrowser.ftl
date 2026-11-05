@@ -308,6 +308,15 @@ tab-context-move-tab-to-new-group =
            *[many] Добавить вкладки в новую группу
         }
     .accesskey = п
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Добавить в группу
+            [one] Добавить { $tabCount } вкладку в группу
+            [few] Добавить { $tabCount } вкладки в группу
+           *[many] Добавить { $tabCount } вкладок в группу
+        }
+    .accesskey = П
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -488,6 +497,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Разъединить разделение экрана
+    .accesskey = е
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Разделить вкладки
     .accesskey = е
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

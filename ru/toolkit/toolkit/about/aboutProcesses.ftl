@@ -18,6 +18,22 @@ about-processes-shutdown-tab =
     .title = Закрыть вкладку
 about-processes-unload-tab =
     .title = Выгрузить вкладку
+about-processes-reload-tab =
+    .title = Обновить вкладку
+about-processes-select-all-tabs =
+    .title = Выбрать все вкладки
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Развернуть вкладки этого сайта
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Свернуть вкладки этого сайта
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Выгрузить вкладки сайта { $site }
 about-processes-go-to-tab =
     .title = Перейти на вкладку
 # Profiler icons
