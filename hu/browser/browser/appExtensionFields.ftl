@@ -52,3 +52,30 @@ extension-nova-tide-name = Áradat
 extension-nova-ash-name = Hamu
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = Füst
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = Szürke
+# Name for a blue theme.
+extension-classic-blue-name = Kék
+# Name for a cyan theme.
+extension-classic-cyan-name = Cián
+# Name for a violet theme.
+extension-classic-violet-name = Ibolya
+# Name for a green theme.
+extension-classic-green-name = Zöld
+# Name for a purple theme.
+extension-classic-purple-name = Lila
+# Name for a pink theme.
+extension-classic-pink-name = Rózsaszín
+# Name for a yellow theme.
+extension-classic-yellow-name = Sárga
+# Name for a red theme.
+extension-classic-red-name = Vörös
+# Name for an orange theme.
+extension-classic-orange-name = Narancs
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = OLED fekete

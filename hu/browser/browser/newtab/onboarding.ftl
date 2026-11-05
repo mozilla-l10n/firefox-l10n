@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Bármikor nyissa újra a lapcsop
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Nyissa meg újra a lapcsoportokat az Összes lap felsorolása menüből.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = A lapcsoportok automatikusan mentésre kerülnek. Itt találja őket.
 
 ## Multi Profiles feature onboarding messages
 
@@ -637,3 +639,21 @@ welcome-back-onboarding-card-label-tabs = Tegyen rendet függőleges lapokkal é
 welcome-back-onboarding-card-label-vpn = Maradjon rejtve a beépített VPN-nel
 welcome-back-onboarding-card-label-pdf = Kiemelés, aláírás és munkavégzés PDF-ekkel
 welcome-back-onboarding-card-tilebutton-label = Próbálja ki
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Állítsa be pillanatok alatt a { -brand-short-name } böngészőt
+hnt-card-import-primary-button = Importálja az adatait
+hnt-card-default-body = A { -brand-product-name } az egyetlen jelentős böngésző, amelyet arra terveztek, hogy megvédje, ne pedig kövesse Önt.
+hnt-card-default-primary-button = Nyissa meg a hivatkozásokat a { -brand-short-name }szal
+hnt-card-pin-header = Tartsa a { -brand-short-name }ot egy kattintásnyira
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Ugorjon vissza a védett böngészéshez a dokkról.
+       *[other] Ugorjon vissza a védett böngészéshez a tálcáról.
+    }
+hnt-card-extensions-primary-button = Felfedezés
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Minden kész. Menjen, és tegye a dolgát.
+hnt-card-last-card-header-end = A követés elleni védelem be van kapcsolva.

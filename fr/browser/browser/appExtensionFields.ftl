@@ -68,7 +68,7 @@ extension-classic-violet-name = Violet
 # Name for a green theme.
 extension-classic-green-name = Vert
 # Name for a purple theme.
-extension-classic-purple-name = Violet
+extension-classic-purple-name = Pourpre
 # Name for a pink theme.
 extension-classic-pink-name = Rose
 # Name for a yellow theme.

@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importálás egy más
 contextual-manager-passwords-command-import = Importálás fájlból…
 contextual-manager-passwords-command-export = Jelszavak exportálása
 contextual-manager-passwords-command-remove-all = Összes jelszó eltávolítása
+contextual-manager-passwords-command-delete-all = Összes jelszó törlése
 contextual-manager-passwords-command-options = Beállítások
 contextual-manager-passwords-command-help = Súgó
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Eltávolítja a jelszót?
        *[other] Eltávolítja mind a(z) { $total } jelszót?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Töröl { $total } jelszót?
+       *[other] Töröl { $total } jelszót?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -120,6 +128,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Eltávolítás
        *[other] Összes eltávolítása
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Törlés
+        [one] Összes törlése
+       *[other] Összes törlése
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -135,6 +151,14 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
         [one] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
        *[other] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name }ba mentett összes jelszavát, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Ez törli a { -brand-short-name }ból az összes eszközön, amely szinkronizálja a jelszavait. Ez nem vonható vissza.
+        [one] Ez törli őket a { -brand-short-name }ból az összes eszközön, amely szinkronizálja a jelszavait. Ez nem vonható vissza.
+       *[other] Ez törli őket a { -brand-short-name }ból az összes eszközön, amely szinkronizálja a jelszavait. Ez nem vonható vissza.
     }
 contextual-manager-passwords-origin-label = Webhely
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -179,12 +203,16 @@ contextual-manager-passwords-radiobutton-all = Összes ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Figyelmeztetések ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Jelszó eltávolítása?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Törli a jelszót?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Ez nem vonható vissza.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Vissza
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eltávolítás
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Törlés
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Mégse
 contextual-manager-passwords-alert-card =
@@ -216,6 +244,9 @@ contextual-manager-passwords-update-label =
     .label = Jelszó frissítése
 contextual-manager-passwords-remove-label =
     .title = Jelszó eltávolítása
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Jelszó törlése
 contextual-manager-passwords-origin-field =
     .label = Honlap címe
     .placeholder = https://www.example.com
@@ -331,6 +362,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Igen, a jelszó eltávolítása
         [one] Igen, a jelszó eltávolítása
        *[other] Igen, a jelszavak eltávolítása
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Igen, a jelszó törlése
+        [one] Igen, a jelszavak törlése
+       *[other] Igen, a jelszavak törlése
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = A mentett jelszavak megtekintéséhez adja meg az elsődleges jelszavát.

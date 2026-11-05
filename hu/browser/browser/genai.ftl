@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = A(z) { $provider } megkérdezése
 genai-menu-new-badge = Új
 genai-menu-summarize-page = Oldal összegzése
+genai-menu-summarize-with-ai = Összegzés MI-vel
 genai-input-ask-smart-window =
     .placeholder = Kérdés…
 genai-input-ask-generic =
     .placeholder = Az MI csevegőbot megkérdezése…
+genai-input-ask-ai =
+    .placeholder = MI megkérdezése…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = A(z) { $provider } megkérdezése…

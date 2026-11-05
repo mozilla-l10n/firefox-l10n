@@ -31,6 +31,14 @@ about-processes-profile-process =
            *[other] A folyamat összes szálának profilozása { $duration } másodpercig.
         }
 
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Lapok keresése
+    .placeholder = Lapok keresése
+
 ## Column headers
 
 about-processes-column-name = Név
@@ -129,6 +137,32 @@ about-processes-tab-count =
         [one] { $count } lap
        *[other] { $count } lap
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } lap kiválasztva
+       *[other] { $count } lap kiválasztva
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } lap)
+       *[other] ({ $count } lap)
+    }
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Kisöprés
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Frissítés
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Bezárás
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
