@@ -657,3 +657,16 @@ hnt-card-pin-body =
 hnt-card-mobile-header = Eskuratu integratutako babesa zure telefonoan
 hnt-card-mobile-body = Deskargatu mugikorrerako { -brand-product-name } pribatutasun estra izateko edonon.
 hnt-card-mobile-primary-button = Eskuratu mugikorrerako { -brand-product-name }.
+hnt-card-wallpaper-header = Hautatu horma-paper berri bat
+hnt-card-wallpaper-body = Sentitu etxean bezala orri honetan zure gustuko atzeko plano bat erabiliz.
+hnt-card-wallpaper-primary-button = Hasi pertsonalizatzen
+hnt-card-taskbar-tabs-header = Gehitu zure gune gogokoenak Windowseko ataza-barran
+hnt-card-taskbar-tabs-body = Ireki gehien bisitatzen dituzun guneak aplikazioak bailiran { -brand-product-name }(r)en babes guztiekin.
+hnt-card-taskbar-tabs-primary-button = Gehitu guneak ataza-barran
+hnt-card-extensions-header = Eman bultzada { -brand-short-name }(r)i hedapenekin
+hnt-card-extensions-body = Pertsonalizatu zure nabigazioa gure hedapen kuttunenekin.
+hnt-card-extensions-primary-button = Arakatu
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Dena prest. Zu zeurera.
+hnt-card-last-card-header-end = Jarraipenaren babesa gaituta dago.

@@ -285,6 +285,13 @@ tab-context-move-tab-to-new-group =
            *[other] Gehitu fitxak talde berrira
         }
     .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Gehitu taldera
+           *[other] Gehitu { $tabCount } fitxa taldera
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -453,6 +460,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Banandu ikuspegi zatitua
     .accesskey = z
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Banandu fitxak
+    .accesskey = B
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Alderantzikatu fitxak
