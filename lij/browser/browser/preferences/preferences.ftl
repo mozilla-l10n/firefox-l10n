@@ -521,7 +521,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizzou
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-reload-tabs-button =

@@ -1409,7 +1409,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Фармоишӣ
     .accesskey = Ф
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Барои муҳофизат ва кори самаранок мутаносиб мебошад. Саҳифаҳо ба таври оддӣ бор карда мешаванд.
 content-blocking-etp-strict-desc = Муҳофизати қавитар, аммо метавонад боиси вайрон шудани баъзеи сомонаҳо ё муҳтаво гардад.

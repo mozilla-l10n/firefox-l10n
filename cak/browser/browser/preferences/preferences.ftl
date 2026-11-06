@@ -763,7 +763,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ichinan
     .accesskey = I
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Silan richin chajinem chuqa' rub'eyal nisamäj. Achi'el jutaqil xkesamäj ri taq ruxaq.
 content-blocking-etp-strict-desc = Nïm chajinem, xa xe chi nub'än chi jujun taq ruxaq o rupam man yesamäj ta.

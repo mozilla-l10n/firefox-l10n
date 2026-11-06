@@ -1744,7 +1744,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Таңдауыңызша
     .accesskey = ы
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Қорғаныс және өнімділік теңгерімі. Беттер әдеттегідей жүктеледі.
 content-blocking-etp-strict-desc = Қатаңырақ қорғаныс, бірақ, кейбір сайттар немесе мазмұнның бұзылуына әкеп соғуы мүмкін.

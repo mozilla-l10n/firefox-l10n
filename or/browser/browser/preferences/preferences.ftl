@@ -218,7 +218,7 @@ sitedata-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 
 content-blocking-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-tcp-rollout-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 

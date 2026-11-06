@@ -1723,7 +1723,7 @@ enhanced-tracking-protection-setting-custom =
     .label = მორგებული
     .accesskey = გ
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = წონასწორული უსაფრთხოებასა და წარმადობას შორის. გვერდები ჩაიტვირთება ჩვეულებრივ.
 content-blocking-etp-strict-desc = მძლავრი დაცვა, თუმცა გამოიწვევს საიტების ან შიგთავსის ნაწილის გაუმართაობას.

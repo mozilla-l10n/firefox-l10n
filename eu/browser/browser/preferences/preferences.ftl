@@ -1744,7 +1744,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pertsonalizatua
     .accesskey = s
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Babeserako eta errendimendurako orekatua. Orriak ohi bezala kargatuko dira.
 content-blocking-etp-strict-desc = Babes sendoagoa baina zenbait gune edo eduki apurtzea eragin lezake.

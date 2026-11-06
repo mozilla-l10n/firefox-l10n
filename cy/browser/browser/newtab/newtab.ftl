@@ -1123,7 +1123,8 @@ newtab-wallpaper-firefox-peak-dark = Wyneb llwynog ar yr ymyl chwith, ar gefndir
 newtab-wallpaper-firefox-peak-light = Wyneb llwynog ar yr ymyl chwith, ar gefndir golau
 newtab-wallpaper-firefox-sky-dark = Bryniau porffor tywyll dan awyr y nos
 newtab-wallpaper-firefox-sky-light = Bryniau golau o dan awyr feddal
-# “Wrexham AFC” is the name of a football club and should not be translated.
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
 # "crest" refers to the football club's logo (team badge).
 newtab-wallpaper-firefox-wrexham = Arfbais Clwb Pêl-droed Wrecsam ar gefndir coch
 

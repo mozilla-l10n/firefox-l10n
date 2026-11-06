@@ -614,7 +614,7 @@ enhanced-tracking-protection-setting-custom =
     .label = مخصوص
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = تحفظ اور کارکردگی کیلئے متوازن۔ صفحات عام طور پر لوڈ ہوں گے۔
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔

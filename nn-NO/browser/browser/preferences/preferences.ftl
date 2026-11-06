@@ -1723,7 +1723,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tilpassa
     .accesskey = T
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Balansert for vern og yting. Sider vil laste normalt.
 content-blocking-etp-strict-desc = Sterkare vern, men kan føre til at nokre nettstadar eller innhald ikkje vil fungere.

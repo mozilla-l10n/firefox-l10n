@@ -521,7 +521,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Özel
     .accesskey = e
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-tracking-protection-option-all-windows =
     .label = Episi pencerelerde

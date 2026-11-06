@@ -787,7 +787,7 @@ enhanced-tracking-protection-setting-custom =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱚᱢᱟᱱ ᱞᱟᱹᱜᱤᱫ ᱾ ᱥᱟᱦᱴᱟ ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱞᱟᱫᱮᱜᱼᱟ ᱾
 content-blocking-etp-strict-desc = ᱡᱟᱹᱥᱛᱤ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢᱚᱜᱼᱟᱭ, ᱢᱮᱱᱠᱷᱟᱱ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱥᱟᱭᱤᱴ ᱥᱮ ᱡᱤᱱᱤᱥ ᱠᱚ ᱨᱟᱹᱯᱩᱫ ᱫᱟᱲᱮᱟᱜᱼᱟ ᱾

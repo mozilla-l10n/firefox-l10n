@@ -1727,7 +1727,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Mukautettu
     .accesskey = M
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.

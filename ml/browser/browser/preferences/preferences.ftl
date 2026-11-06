@@ -806,7 +806,7 @@ enhanced-tracking-protection-setting-custom =
     .label = യഥേഷ്ടം
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-all-cookies = എല്ലാ കുക്കികളും
 content-blocking-cryptominers = ക്രിപ്റ്റോമൈനേഴ്സ്

@@ -465,7 +465,7 @@ enhanced-tracking-protection-setting-standard =
     .label = Caighdeánach
     .accesskey = d
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-cookies-label =
     .label = Fianáin

@@ -556,7 +556,7 @@ enhanced-tracking-protection-setting-custom =
     .label = पसंतीचे
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-custom-desc = कोणती ट्रॅकर्स आणि स्क्रिप्ट अवरोधित करायची ते निवडा.
 content-blocking-cross-site-tracking-cookies = क्रॉस-साईट ट्रॅकिंग कुकी

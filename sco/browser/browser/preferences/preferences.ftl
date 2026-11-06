@@ -714,7 +714,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Custom
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Eeksie-peeksie atween bieldin and performance. Pages will load as ordinar.
 content-blocking-etp-strict-desc = Mair bieldin, but micht gar some sites or content tae brek.

@@ -1641,7 +1641,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizado
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se cargarán normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede provocar que fallen algunos sitios o contenidos.

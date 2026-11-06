@@ -1744,7 +1744,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Aangepast
     .accesskey = A
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Gebalanceerd voor bescherming en prestaties. Pagina’s laden normaal.
 content-blocking-etp-strict-desc = Sterkere bescherming, maar kan er voor zorgen dat sommige websites of inhoud niet werken.

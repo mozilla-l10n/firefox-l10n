@@ -763,7 +763,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Włosno
     .accesskey = W
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Zbalansowane podug ôchrōny i sprowności. Strōny bydōm sie normalnie ladować.
 content-blocking-etp-strict-desc = Lepszo ôchrōna, ale niykere strōny abo jako zawartość mogōm niy fungować dobrze.

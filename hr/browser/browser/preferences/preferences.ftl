@@ -1715,7 +1715,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Prilagođeno
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
 content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti probleme nekim web-stranicama ili sadržajima.

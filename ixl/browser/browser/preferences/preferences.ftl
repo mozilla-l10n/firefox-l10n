@@ -166,7 +166,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Eetz chitu'
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-cookies-label =
     .label = Cookies

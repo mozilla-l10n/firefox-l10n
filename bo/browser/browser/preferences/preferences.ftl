@@ -449,7 +449,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Custom
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-tracking-protection-option-all-windows =
     .label = In all windows

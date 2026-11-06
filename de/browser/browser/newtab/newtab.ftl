@@ -1083,7 +1083,8 @@ newtab-wallpaper-firefox-peak-dark = Ein Fuchsgesicht am linken Rand auf einem d
 newtab-wallpaper-firefox-peak-light = Ein Fuchsgesicht am linken Rand auf einem hellen Hintergrund
 newtab-wallpaper-firefox-sky-dark = Dunkelviolette Hügel unter nächtlichem Himmel
 newtab-wallpaper-firefox-sky-light = Sanfte Hügel unter einem weichen Himmel
-# “Wrexham AFC” is the name of a football club and should not be translated.
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
 # "crest" refers to the football club's logo (team badge).
 newtab-wallpaper-firefox-wrexham = Das Wappen des Wrexham AFC auf rotem Hintergrund
 

@@ -1723,7 +1723,7 @@ enhanced-tracking-protection-setting-custom =
     .label = من مرضی دا
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = تحفظ تے کارکردگی کیتے متوازن۔ ورقے عام طور تے لوڈ تھیسن۔
 content-blocking-etp-strict-desc = تکڑا تحفظ، پر کجھ سائٹاں یا مواد دے ترٹݨ دا سبب بݨ سڳدا ہے۔

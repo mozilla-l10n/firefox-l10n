@@ -561,7 +561,7 @@ enhanced-tracking-protection-setting-custom =
     .label = ផ្ទាល់ខ្លួន
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-cookies-label =
     .label = ​ខូគី

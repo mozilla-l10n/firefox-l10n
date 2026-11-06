@@ -510,7 +510,7 @@ addressbar-locbar-openpage-option =
 
 content-blocking-learn-more = Дознајте повеќе
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-all-cookies = Сите колачиња
 content-blocking-unvisited-cookies = Колачиња од непосетени места

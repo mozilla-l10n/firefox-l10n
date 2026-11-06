@@ -517,7 +517,7 @@ enhanced-tracking-protection-setting-custom =
     .label = વૈવિધ્યપૂર્ણ
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-all-cookies = બધી કૂકીઝ
 content-blocking-reload-tabs-button =

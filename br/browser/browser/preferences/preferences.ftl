@@ -839,7 +839,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personelaet
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar pajennoù a gargo en un doare ordinal.
 content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù ’zo da derriñ.

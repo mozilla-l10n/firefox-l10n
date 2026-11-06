@@ -926,7 +926,7 @@ enhanced-tracking-protection-setting-custom =
     .label = سفارشی
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-custom-desc = پسند کۊنین کو رڌجۊر وو اسکریپت ن مسدۊد اکۊنین.
 content-blocking-isolate-cross-site-cookies = سوا کردن کۊکیا منجا وبگهی

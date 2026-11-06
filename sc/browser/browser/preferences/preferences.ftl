@@ -1512,7 +1512,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizada
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Echilìbriu intre amparu e rendimentu. Is pàginas s’ant a carrigare cun normalidade.
 content-blocking-etp-strict-desc = Amparu prus poderosu, però diat pòdere causare chi unos cantos sitos o cuntenutos non funtzionent.

@@ -937,7 +937,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Udmawan
     .accesskey = d
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Yerked gar ummesten akked tmellit. ISebtar ad d-alin s wudem amagnu.
 content-blocking-etp-strict-desc = Ammesten yettwaseǧhed, maca kra n yismal akked ugbur yemzer ur teddun ara akken iwata.

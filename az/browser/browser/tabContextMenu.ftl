@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Vərəqi Yenilə
     .accesskey = R
@@ -95,6 +91,10 @@ tab-context-close-duplicate-tabs =
 tab-context-close-duplicate-tabs2 =
     .label = Bu Vərəqin Surətlərini Qapat
     .accesskey = x
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

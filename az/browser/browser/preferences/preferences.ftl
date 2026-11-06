@@ -799,7 +799,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Fərdi
     .accesskey = F
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-reload-tabs-button =
     .label = Bütün Vərəqləri Yenilə

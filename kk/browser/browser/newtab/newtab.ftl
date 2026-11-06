@@ -1082,7 +1082,8 @@ newtab-wallpaper-firefox-peak-dark = Сол жақ шетінде, қараңғ�
 newtab-wallpaper-firefox-peak-light = Сол жақ шетінде, ашық фонда түлкінің беті
 newtab-wallpaper-firefox-sky-dark = Түнгі аспан астындағы қою күлгін төбелер
 newtab-wallpaper-firefox-sky-light = Тынық аспан астындағы жарық төбелер
-# “Wrexham AFC” is the name of a football club and should not be translated.
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
 # "crest" refers to the football club's logo (team badge).
 newtab-wallpaper-firefox-wrexham = Қызыл фондағы Wrexham AFC эмблемасы
 

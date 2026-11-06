@@ -521,7 +521,7 @@ addressbar-locbar-openpage-option =
 
 content-blocking-learn-more = Nong ngec mapol
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-all-cookies = Angija weng
 content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi

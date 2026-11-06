@@ -888,7 +888,7 @@ enhanced-tracking-protection-setting-custom =
     .label = අභිරුචි
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = ආරක්‍ෂාව හා කාර්ය සාධනය අතර සංතුලිතයි. පිටු සාමාන්‍ය ලෙස පූරණය වේ.
 content-blocking-etp-strict-desc = ප්‍රබල රැකවරණයක් ලබා දෙයි, නමුත් ඇතැම් අඩවි හෝ අන්තර්ගත කැඩී යාමට හේතුවනු ඇත.

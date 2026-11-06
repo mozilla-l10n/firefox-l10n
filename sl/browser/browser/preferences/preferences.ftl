@@ -1666,7 +1666,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Po meri
     .accesskey = m
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Uravnotežena zaščita in delovanje. Strani bodo delovale običajno.
 content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči nedelovanje nekaterih strani ali vsebine.

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Tornar cargar l’onglet
     .accesskey = r
@@ -95,6 +91,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grop novèl
     .accesskey = G
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -123,6 +123,8 @@ tab-context-move-tabs =
 tab-context-move-split-view =
     .label = Desplaçar la vista dividida a
     .accesskey = D
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

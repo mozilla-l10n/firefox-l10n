@@ -1748,7 +1748,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Персональная
     .accesskey = а
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Золотая середина: защита и производительность. Страницы будут загружаться нормально.
 content-blocking-etp-strict-desc = Усиленная защита может вызывать проблемы с некоторыми сайтами и их содержимым.

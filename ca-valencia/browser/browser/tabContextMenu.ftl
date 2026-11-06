@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Torna a carregar la pestanya
     .accesskey = r
@@ -73,6 +69,10 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Comparteix
     .accesskey = x
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

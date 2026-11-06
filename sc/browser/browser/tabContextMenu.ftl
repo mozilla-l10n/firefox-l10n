@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Torra a carrigare s'ischeda
     .accesskey = T
@@ -99,6 +95,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grupu nou
     .accesskey = G
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -129,6 +129,8 @@ tab-context-send-to-device =
            *[other] Imbia { $tabCount } ischedas a unu dispositivu
         }
     .accesskey = I
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

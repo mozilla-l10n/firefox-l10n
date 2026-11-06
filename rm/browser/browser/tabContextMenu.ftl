@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Chargiar danovamain il tab
     .accesskey = r
@@ -95,6 +91,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nova gruppa
     .accesskey = g
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -117,6 +117,8 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

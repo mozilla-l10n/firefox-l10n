@@ -1673,7 +1673,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tùy chỉnh
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Cân bằng để bảo vệ và hiệu suất. Các trang sẽ tải bình thường.
 content-blocking-etp-strict-desc = Bảo vệ mạnh mẽ hơn, nhưng có thể khiến một số trang web và nội dung bị phá vỡ.

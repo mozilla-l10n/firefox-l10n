@@ -429,7 +429,7 @@ addressbar-locbar-openpage-option =
 content-blocking-enhanced-tracking-protection = Gevorderde beskerming van spoorsnyers
 content-blocking-learn-more = Meer inligting
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-all-cookies = Alle koekies
 content-blocking-cryptominers = Kriptomyners

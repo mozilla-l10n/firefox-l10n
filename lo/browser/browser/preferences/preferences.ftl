@@ -719,7 +719,7 @@ enhanced-tracking-protection-setting-custom =
     .label = ປັບແຕ່ງ
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = ດຸ່ນດ່ຽງສໍາລັບການປົກປ້ອງແລະການປະຕິບັດ. ໜ້າຕ່າງໆຈະໂຫຼດຕາມປົກກະຕິ.
 content-blocking-etp-strict-desc = ການປົກປ້ອງທີ່ເຂັ້ມແຂງ, ແຕ່ອາດຈະເຮັດໃຫ້ບາງເວັບໄຊທ໌ຫຼືເນື້ອຫາທໍາລາຍ.

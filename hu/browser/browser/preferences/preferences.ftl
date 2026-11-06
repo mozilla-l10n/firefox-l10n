@@ -1736,7 +1736,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Egyéni
     .accesskey = E
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Az oldalak normálisan fognak betölteni.
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.

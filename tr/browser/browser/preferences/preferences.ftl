@@ -1723,7 +1723,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Özel
     .accesskey = Ö
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Tab neu laden
     .accesskey = d
@@ -171,6 +167,10 @@ tab-context-add-tab-to-group-new-group =
     .label = Neue Tab-Gruppe
 tab-context-add-tab-to-group-closed-groups =
     .label = Geschlossene Tab-Gruppen
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -253,6 +253,8 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Link zum Teilen erstellen
     .accesskey = e
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

@@ -602,7 +602,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pirsunalizzatu
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-strict-desc = Prutizziuni cchiù auta, ma certi siti o cuntinuti putìssiru farsijari.
 content-blocking-etp-custom-desc = Scarta quali trazzatura e prugrammi bluccari.

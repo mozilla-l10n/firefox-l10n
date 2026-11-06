@@ -761,7 +761,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Kohandatud
     .accesskey = K
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Tasakaalustatud kaitse ja jõudluse jaoks. Lehed laaditakse tavapäraselt.
 content-blocking-etp-strict-desc = Tugevam kaitse, võib põhjustada mõnel saidil või sisus probleeme.

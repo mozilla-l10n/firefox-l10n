@@ -1118,7 +1118,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Persunalisà
     .accesskey = u
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Equiliber tranter protecziun e prestaziun. Paginas chargian normal.
 content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per consequenza che tschertas websites u tscherts cuntegns na funcziuneschan betg pli.

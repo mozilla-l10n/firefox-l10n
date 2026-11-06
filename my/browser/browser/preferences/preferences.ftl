@@ -498,7 +498,7 @@ enhanced-tracking-protection-setting-custom =
     .label = စိတ်ကြိုက်
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-all-cookies = ကွတ်ကီးအားလုံး
 content-blocking-unvisited-cookies = မလည်ပတ်သောဆိုက်များမှ ကွတ်ကီးများ

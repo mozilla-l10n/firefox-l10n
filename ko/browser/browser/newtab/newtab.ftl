@@ -1046,7 +1046,8 @@ newtab-wallpaper-firefox-peak-dark = 어두운 배경의 왼쪽 가장자리에 
 newtab-wallpaper-firefox-peak-light = 밝은 배경의 왼쪽 가장자리에 있는 여우 얼굴
 newtab-wallpaper-firefox-sky-dark = 밤하늘 아래 어두운 보라색 언덕
 newtab-wallpaper-firefox-sky-light = 부드러운 하늘 아래 밝은 언덕
-# “Wrexham AFC” is the name of a football club and should not be translated.
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
 # "crest" refers to the football club's logo (team badge).
 newtab-wallpaper-firefox-wrexham = 빨간색 배경 위에 있는 Wrexham AFC 로고
 

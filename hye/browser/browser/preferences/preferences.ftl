@@ -758,7 +758,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Յարմարեցուած
     .accesskey = ե
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Հաւասարակշռուածուած է պաշտպանութեան եւ կատարողականութեան համար։ Էջերը կը բեռնուեն կանոնաւորապէս։
 content-blocking-etp-strict-desc = Աւելի ուժեղ պաշտպանութիւն, բայց կարող է որոշ կայքերի կամ բովանդակութեան համար խնդրահարոյց լինել։

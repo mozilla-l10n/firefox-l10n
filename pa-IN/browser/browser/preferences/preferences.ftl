@@ -1725,7 +1725,7 @@ enhanced-tracking-protection-setting-custom =
     .label = ਚੁਣਿੰਦਾ
     .accesskey = c
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ, ਸਫ਼ੇ ਆਮ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ।
 content-blocking-etp-strict-desc = ਵਧੇਰੇ ਸੁਰੱਖਿਆ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਦੇ ਨਾ ਕੰਮ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।

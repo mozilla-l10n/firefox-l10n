@@ -1080,7 +1080,8 @@ newtab-wallpaper-firefox-peak-dark = მელას სახე მარც�
 newtab-wallpaper-firefox-peak-light = მელას სახე მარცხენა კიდეზე, ნათელი ფონით
 newtab-wallpaper-firefox-sky-dark = მუქი მეწამული ბორცვები ღამის ცის ქვეშ
 newtab-wallpaper-firefox-sky-light = ნათელი ბორცვები ღია ცის ქვეშ
-# “Wrexham AFC” is the name of a football club and should not be translated.
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
 # "crest" refers to the football club's logo (team badge).
 newtab-wallpaper-firefox-wrexham = გერბი Wrexam AFC წითელ ფონზე
 

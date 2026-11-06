@@ -603,7 +603,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Penyesuaian
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Seimbang untuk perlindungan dan prestasi. Halaman akan dimuatkan seperti biasa.
 content-blocking-etp-strict-desc = Perlindungan lebih kuat, tetapi mungkin menyebabkan sesetengah laman web atau kandungan tidak berfungsi.

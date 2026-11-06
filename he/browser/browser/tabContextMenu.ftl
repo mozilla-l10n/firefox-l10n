@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = טעינת לשונית מחדש
     .accesskey = ט
@@ -171,6 +167,10 @@ tab-context-add-tab-to-group-new-group =
     .label = קבוצה חדשה
 tab-context-add-tab-to-group-closed-groups =
     .label = קבוצות סגורות
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -248,6 +248,8 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = יצירת קישור הניתן לשיתוף
     .accesskey = י
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Tải lại thẻ
     .accesskey = R
@@ -128,6 +124,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nhóm mới
     .accesskey = G
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -191,6 +191,8 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Tạo liên kết có thể chia sẻ
     .accesskey = a
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

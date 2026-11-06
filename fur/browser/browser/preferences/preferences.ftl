@@ -1593,7 +1593,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizât
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Belançât par vê protezion e prestazions. Lis pagjinis si cjariaran in maniere normâl.
 content-blocking-etp-strict-desc = Protezion miorade, ma cualchi sît o contignût al podarès no funzionâ ben.

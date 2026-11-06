@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Berritu fitxa
     .accesskey = r
@@ -171,6 +167,10 @@ tab-context-add-tab-to-group-new-group =
     .label = Talde berria
 tab-context-add-tab-to-group-closed-groups =
     .label = Itxitako taldeak
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -248,6 +248,8 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Sortu partekatzeko lotura
     .accesskey = a
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

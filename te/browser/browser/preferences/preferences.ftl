@@ -664,7 +664,7 @@ enhanced-tracking-protection-setting-custom =
     .label = అభిమతం
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-private-windows = అంతరంగిక కిటికీలలో ట్రాకింగ్ విషయం
 content-blocking-cross-site-tracking-cookies = క్రాస్ -సైట్ ట్రాకింగ్ కుకీలు

@@ -1732,7 +1732,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Адмысловая
     .accesskey = с
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Збалансаваная ахова і прадукцыйнасць. Старонкі загружаюцца нармальна.
 content-blocking-etp-strict-desc = Больш моцная ахова, але можа прывесці да парушэння некаторых сайтаў ці змесціва.

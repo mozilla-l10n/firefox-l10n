@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 reload-tab =
     .label = Аз нав бор кардани варақа
     .accesskey = А
@@ -118,6 +114,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Гурӯҳи нав
     .accesskey = Г
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -149,6 +149,8 @@ tab-context-send-to-device =
            *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
         }
     .accesskey = Ф
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

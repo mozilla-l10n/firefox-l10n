@@ -587,7 +587,7 @@ enhanced-tracking-protection-setting-custom =
     .label = मनपसंद
     .accesskey = त
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-private-windows = निजी विंडो में ट्रैकिंग सामग्री
 content-blocking-cross-site-tracking-cookies = क्रॉस-साइट ट्रैकिंग कुकी

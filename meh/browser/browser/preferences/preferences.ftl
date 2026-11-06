@@ -590,7 +590,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizado
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-cross-site-tracking-cookies = Cookies de rastreo multisitio
 content-blocking-all-cookies = Kuaiyo da cookies

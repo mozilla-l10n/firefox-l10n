@@ -1752,7 +1752,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Wuwažony za šćit a wugbaśe. Boki se normalnje zacytaju.
 content-blocking-etp-strict-desc = Mócnjejšy šćit, ale móžo zawinowaś, až někotare sedła abo wopśimjeśe wěcej njefunkcioněruju.

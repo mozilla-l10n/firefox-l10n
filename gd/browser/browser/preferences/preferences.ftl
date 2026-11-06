@@ -788,7 +788,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Gnàthaichte
     .accesskey = G
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Cothromaichte do dhìon is dèanadas. Thèid duilleagan a luchdadh gu h-àbhaisteach.
 content-blocking-etp-strict-desc = Dìon nas làidire ach dh’fhaoidte gum bris seo cuid a làraichean no susbaint.

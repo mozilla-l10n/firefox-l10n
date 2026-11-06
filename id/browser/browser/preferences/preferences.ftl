@@ -962,7 +962,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ubahsuai
     .accesskey = U
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Seimbang untuk perlindungan dan kinerja. Halaman akan dimuat secara normal.
 content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat menyebabkan beberapa situs atau konten rusak.

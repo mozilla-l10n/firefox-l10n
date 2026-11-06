@@ -555,7 +555,7 @@ enhanced-tracking-protection-setting-custom =
     .label = خوازراو
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-strict-desc = پارێزگاری زیاتر، بەڵام لەوانەیە زانیاری ماڵپەڕان بشکێندرێن .
 content-blocking-etp-custom-desc = دیاریبکە کام چاودێریکەر یان نووسە بلۆک بکرێت.

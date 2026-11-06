@@ -995,7 +995,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Sérsniðið
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Jafnvægi milli varna og afkasta. Síður hlaðast eðlilega.
 content-blocking-etp-strict-desc = Sterkari vernd en getur valdið því að sumar síður eða efni virki ekki.

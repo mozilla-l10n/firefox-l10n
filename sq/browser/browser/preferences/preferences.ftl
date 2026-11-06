@@ -1410,7 +1410,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vetjake
     .accesskey = V
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = E baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
 content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktojë mosfunksionim për disa sajte apo lëndë.

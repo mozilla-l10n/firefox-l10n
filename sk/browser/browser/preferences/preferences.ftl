@@ -1727,7 +1727,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastná
     .accesskey = V
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovplyvní načítanie webových stránok.
 content-blocking-etp-strict-desc = Viac blokovaného obsahu zvyšuje pravdepodobnosť, že niektoré stránky nebudú správne fungovať.

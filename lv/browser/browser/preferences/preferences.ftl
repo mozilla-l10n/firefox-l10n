@@ -1201,7 +1201,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pielāgots
     .accesskey = P
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Lapas tiks ielādētas kā parasti.
 content-blocking-etp-strict-desc = Spēcīgāka aizsardzība, bet var salauzt dažas vietnes vai saturu.

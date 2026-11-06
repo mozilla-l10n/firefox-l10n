@@ -362,7 +362,7 @@ enhanced-tracking-protection-setting-custom =
     .label = कास्टम
     .accesskey = C
 
-##
+## Privacy Section - Content Blocking
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव
