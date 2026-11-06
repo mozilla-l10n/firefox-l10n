@@ -40,7 +40,7 @@ tab-devtools-splitter =
 # The split view's two tabs are added to the group together.
 tab-context-add-split-view-to-group =
     .label = Lägg till flikar i grupp
-    .accesskey = L
+    .accesskey = g
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -287,10 +287,9 @@ tab-context-add-tab-to-group =
     .label =
         { $tabCount ->
             [1] Lägg till i grupp
-            [one] Lägg till { $tabCount } flikar i grupp
-           *[other] Lägg till { $tabCount } flikar i grupp
+           *[other] Lägg till { $tabCount } flikar i gruppen
         }
-    .accesskey = L
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -461,8 +460,8 @@ tab-context-separate-split-view =
     .accesskey = S
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view-alt =
-    .label = Separata flikar
-    .accesskey = S
+    .label = Dela upp flikarna
+    .accesskey = D
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Byt flikordning

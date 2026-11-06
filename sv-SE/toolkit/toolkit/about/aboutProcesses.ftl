@@ -25,7 +25,7 @@ about-processes-select-all-tabs =
 # A site is the set of open tabs on one domain, e.g. example.com and its
 # subdomains.
 about-processes-expand-site =
-    .title = Expandera webbplatsens flikar
+    .title = Expandera den här webbplatsens flikar
 # See about-processes-expand-site for what a site is.
 about-processes-collapse-site =
     .title = Komprimera den här webbplatsens flikar
@@ -33,7 +33,7 @@ about-processes-collapse-site =
 # Variables:
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-unload-site =
-    .title = Inaktivera flikar från { $site }
+    .title = Frigör flikar från { $site }
 # Variables:
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-reload-site =
@@ -41,7 +41,7 @@ about-processes-reload-site =
 about-processes-expand-all-sites =
     .title = Expandera alla
 about-processes-collapse-all-sites =
-    .title = Fäll ihop alla
+    .title = Komprimera alla
 about-processes-go-to-tab =
     .title = Gå till flik
 # Profiler icons
@@ -170,7 +170,7 @@ about-processes-tab-count =
 #   $count (Number) The number of selected tabs. Always ≥ 1.
 about-processes-bulk-selected-count =
     { $count ->
-        [one] { $count } flik vald
+        [one] { $count } flik markerad
        *[other] { $count } flikar markerade
     }
 # Shown next to a site’s label in a group header row.
@@ -178,7 +178,7 @@ about-processes-bulk-selected-count =
 #   $count (Number) The number of tabs in the site group.
 about-processes-site-tab-count =
     { $count ->
-        [one] (flik { $count })
+        [one] ({ $count } flik)
        *[other] ({ $count } flikar)
     }
 # Bulk-action bar icon button: clears the selection without acting on it.
@@ -190,7 +190,7 @@ about-processes-bulk-unload-tabs =
     .label = Frigör
 # Bulk-action bar button: reloads every selected tab.
 about-processes-bulk-reload-tabs =
-    .label = Uppdatera
+    .label = Ladda om
 # Bulk-action bar button: closes every selected tab.
 about-processes-bulk-close-tabs =
     .label = Stäng

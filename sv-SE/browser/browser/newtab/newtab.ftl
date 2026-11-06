@@ -194,7 +194,7 @@ newtab-privacy-empty-state = { -brand-short-name } blockerar automatiskt spårar
 newtab-privacy-empty-state-tally = Se en löpande sammanställning här.
 # Shorter empty-state copy for the small card, shown as two separate lines.
 newtab-privacy-empty-state-small-title = Färre spårare, snabbare surfning.
-newtab-privacy-empty-state-small-message = Bläddra för att starta blockering.
+newtab-privacy-empty-state-small-message = Börja surfa för att aktivera blockeringen.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1433,7 +1433,7 @@ newtab-widget-menu-move-left = Vänster
 newtab-widget-menu-move-right = Höger
 # Submenu item under "Move"; pins the widget to Home, the New Tab space the
 # page opens on.
-newtab-widget-menu-move-to-home = Hem
+newtab-widget-menu-move-to-home = Startsida
 # Submenu item under "Move"; moves the widget from Home back to the Widgets
 # space, the New Tab space that holds every widget not pinned to Home.
 newtab-widget-menu-move-to-widgets = Widgetar

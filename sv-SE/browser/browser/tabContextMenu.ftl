@@ -42,14 +42,14 @@ close-tabs-to-the-start =
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start-alt =
     .label = Flikar till vänster
-    .accesskey = F
+    .accesskey = v
 close-tabs-to-the-start-vertical =
     .label = Stäng flikar ovan
     .accesskey = o
 # The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
 close-tabs-to-the-start-vertical-alt =
-    .label = Flikar ovan
-    .accesskey = F
+    .label = Flikar ovanför
+    .accesskey = o
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -59,14 +59,14 @@ close-tabs-to-the-end =
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end-alt =
     .label = Flikar till höger
-    .accesskey = F
+    .accesskey = h
 close-tabs-to-the-end-vertical =
     .label = Stäng flikar nedan
     .accesskey = n
 # The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
 close-tabs-to-the-end-vertical-alt =
-    .label = Flikar nedan
-    .accesskey = F
+    .label = Flikar nedanför
+    .accesskey = n
 close-other-tabs =
     .label = Stäng alla andra flikar
     .accesskey = ä
@@ -113,14 +113,14 @@ tab-context-open-in-new-container-tab2 =
     .accesskey = b
 tab-context-open-in-container =
     .label = Öppna i behållare
-    .accesskey = Ö
+    .accesskey = b
 move-to-start =
     .label = Flytta till början
     .accesskey = b
 # Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
 move-to-start-alt =
-    .label = Starta
-    .accesskey = S
+    .label = Början
+    .accesskey = B
 move-to-end =
     .label = Flytta till slut
     .accesskey = s
