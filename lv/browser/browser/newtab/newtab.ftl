@@ -1144,6 +1144,7 @@ newtab-weather-change-location-search-use-current =
     .label = Izmantot pašreizējo atrašanās vietu
 newtab-weather-menu-weather-display = Laikapstākļu attēlotājs
 newtab-weather-todays-forecast = Šodienas laika prognoze
+newtab-weather-see-full-forecast = Skatīt pilnu prognozi
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -1157,8 +1158,26 @@ newtab-weather-menu-temperature-option-celsius = Celsija
 newtab-weather-menu-change-temperature-units-fahrenheit = Pārslēgties uz Fārenheita skalu
 newtab-weather-menu-change-temperature-units-celsius = Pārslēgties uz Celsija skalu
 newtab-weather-menu-learn-more = Uzzināt vairāk
+newtab-weather-menu-detect-my-location = Noteikt manu atrašanās vietu
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Laikapstākļu dati pašlaik nav pieejami.
+newtab-weather-opt-in-see-weather = Vai vēlaties redzēt laika apstākļus savā atrašanās vietā?
+newtab-weather-opt-in-not-now =
+    .label = Ne tagad
+newtab-weather-opt-in-yes =
+    .label = Jā
+newtab-weather-opt-in-headline = Iegūstiet vietējo laika prognozi
+newtab-weather-opt-in-use-location =
+    .label = Izmantot atrašanās vietu
+newtab-weather-opt-in-choose-location = Izvēlieties atrašanās vietu
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Ņujorka
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Augsta
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Zema
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -1210,8 +1229,19 @@ newtab-topic-selection-button-pick-interests = Izvēlieties savas intereses
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Sekot
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Sekot { $topic }
 newtab-section-following-button = Seko
 newtab-section-unfollow-button = Pārtraukt sekošanu
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Seko: Atcelt { $topic } sekošanu
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Precizējiet savu plūsmu
+newtab-section-follow-highlight-subtitle = Sekojiet savām interesēm, lai redzētu vairāk to, kas jums patīk.
 
 ## Topic navigation
 ## A row of buttons above the stories, each scrolling the page to that topic's section.
@@ -1226,6 +1256,12 @@ newtab-topic-navigation-more-button = Vairāk
 ## e.g. Blocked the politics section of stories.
 
 newtab-section-block-button = Liegt
+newtab-section-blocked-button = Bloķēts
+newtab-section-unblock-button = Atbloķēt
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Sekot { $topic }
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
