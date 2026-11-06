@@ -166,6 +166,13 @@ about-glean-metrics-table-settings-timelines-circle-radius = 원 반지름
 about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y축 X 오프셋
 # The offset on the y-axis from the x-axis for the y-axis line
 about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y축 Y 오프셋
+# label: Displayed near an input field that can be used to filter metrics
+# description: This message sits alongside an input field, further describing its purpose. Category refers to the category in which a given metric is recorded. Name refers to the name of a given metric. Type refers to a given metric's metric type. Value refers to the underlying value of a given metric. "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+# placeholder: Search is a verb in this case
+about-glean-filter-metrics =
+    .description = 분류, 이름, 유형, 값 (단순 형식인 경우)에 따라 아래의 표가 필터링 됩니다.
+    .label = 메트릭 필터
+    .placeholder = 검색
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = 필터
 # This message sits alongside an input field, further describing its purpose.
