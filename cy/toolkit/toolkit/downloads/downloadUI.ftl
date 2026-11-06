@@ -39,6 +39,58 @@ download-ui-cancel-downloads-ok =
         [1] Diddymu 1 Llwyth
        *[other] Diddymu { $downloadsCount } Llwyth
     }
+download-ui-confirm-cancel-button = Diddymu
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Atal 1 llwytho a gadael { -brand-short-name }?
+                [zero] Atal { $downloadsCount } llwytho a gadael { -brand-short-name }?
+                [one] Atal { $downloadsCount } llwytho a gadael { -brand-short-name }?
+                [two] Atal { $downloadsCount } lwytho a gadael { -brand-short-name }?
+                [few] Atal { $downloadsCount } llwytho a gadael { -brand-short-name }?
+                [many] Atal { $downloadsCount } llwytho a gadael { -brand-short-name }?
+               *[other] Atal { $downloadsCount } llwytho a gadael { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Atal 1 llwytho a chau { -brand-short-name }?
+                [zero] Atal { $downloadsCount } llwytho a chau { -brand-short-name }?
+                [one] Atal { $downloadsCount } llwytho a chau { -brand-short-name }?
+                [two] Atal { $downloadsCount } lwytho a chau { -brand-short-name }?
+                [few] Atal { $downloadsCount } llwytho a chau { -brand-short-name }?
+                [many] Atal { $downloadsCount } llwytho a chau { -brand-short-name }?
+               *[other] Atal { $downloadsCount } llwytho a chau { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = Bydd { -brand-short-name } yn ceisio ailddechrau llwytho pan fydd yn ailagor, ond mae'n bosibl y bydd y cynnydd yn cael ei golli.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Gadael { -brand-short-name }
+       *[other] Cau { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Atal 1 llwytho a mynd all-lein?
+        [zero] Atal { $downloadsCount } llwytho a mynd all-lein?
+        [one] Atal { $downloadsCount } llwytho a mynd all-lein?
+        [two] Atal { $downloadsCount } lwytho a mynd all-lein?
+        [few] Atal { $downloadsCount } llwytho a mynd all-lein?
+        [many] Atal { $downloadsCount } llwytho a mynd all-lein?
+       *[other] Atal { $downloadsCount } llwytho a mynd all-lein?
+    }
+download-ui-confirm-offline-message = Bydd { -brand-short-name } yn ceisio ailddechrau llwytho pan fyddwch yn ôl ar-lein, ond mae'n bosibl y bydd cynnydd yn cael ei golli.
+download-ui-confirm-offline-button = Ewch all-lein
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Atal 1 llwytho a chau'r Ffenestr Breifat hon?
+        [zero] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
+        [one] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
+        [two] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
+        [few] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
+        [many] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
+       *[other] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
+    }
 
 ##
 

@@ -666,3 +666,7 @@ hnt-card-taskbar-tabs-primary-button = Ychwanegu gwefannau i'r bar tasgau
 hnt-card-extensions-header = Rhowch hwb i { -brand-short-name } gydag estyniadau
 hnt-card-extensions-body = Cyfaddaswch eich pori gyda'n hestyniadau mwyaf poblogaidd.
 hnt-card-extensions-primary-button = Archwilio
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Iawn. Ewch ati.
+hnt-card-last-card-header-end = Mae diogelwch rhag tracio ymlaen.
