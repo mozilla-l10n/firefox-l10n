@@ -18,6 +18,30 @@ about-processes-shutdown-tab =
     .title = 탭 닫기
 about-processes-unload-tab =
     .title = 탭 언로드
+about-processes-reload-tab =
+    .title = 탭 새로 고침
+about-processes-select-all-tabs =
+    .title = 모든 탭 선택
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = 이 사이트의 탭 펼치기
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = 이 사이트의 탭 접기
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = { $site }의 탭 언로드
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = { $site }의 탭 새로 고침
+about-processes-expand-all-sites =
+    .title = 모두 펼치기
+about-processes-collapse-all-sites =
+    .title = 모두 접기
 about-processes-go-to-tab =
     .title = 탭으로 이동
 # Profiler icons
