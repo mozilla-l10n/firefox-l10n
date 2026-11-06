@@ -1812,11 +1812,22 @@ newtab-sports-widget-match-aria-label-upcoming =
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } pret { $awayTeam }, aizkavēta spēle
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } pret { $awayTeam }, pārcelta
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } pret { $awayTeam }, apturēta
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } pret { $awayTeam }, atcelts
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
 
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnija un Hercegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Kotdivuāra
 newtab-sports-widget-team-name-label-cod =

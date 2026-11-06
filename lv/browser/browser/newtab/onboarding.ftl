@@ -372,20 +372,61 @@ onboarding-checklist-pin = Piespraust { -brand-short-name } uzdevumjoslai
 onboarding-checklist-import = Importēt no iepriekšējās pārlūka
 onboarding-checklist-extension = Pievienot paplašinājumu
 onboarding-checklist-sign-up = Reģistrējieties vai piesakieties savā kontā
+onboarding-checklist-minimize =
+    .label = Minimizēt
+onboarding-checklist-remove =
+    .label = Noņemt kontrolsarakstu
+onboarding-checklist-remove-2 = Noņemt kontrolsarakstu
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Izmēģiniet ciļņu grupas, lai samazinātu nekārtību un labāk fokusētos
+tab-groups-onboarding-feature-callout-subtitle = Sakārtojiet savu pirmo grupu, velkot vienu cilni virs otras.
 # The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
 tab-groups-onboarding-create-group-title-4 = Savas ciļņu kopas jebkurā laikā var atrast izvēlnē “Meklēt un pārvaldīt cilnes”.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Ciļņu grupas varat atrast izvēlnē “Visu cilņu saraksts” jebkurā laikā.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Atrodi savas kopas, meklējot tās adrešu joslā!
 # The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
 tab-groups-onboarding-saved-groups-title-4 = Kad tiek aizvērta ciļņu kopa, to var jebkurā laikā var atkal atvērt izvēlnē “Meklēt un pārvaldīt cilnes”.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Aizverot ciļņu grupu, to jebkurā laikā var atkārtoti atvērt no izvēlnes “Visu ciļņu saraksts”.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Atrodi savas aizvērtās kopas, meklējot tās adrešu joslā!
 # The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
 tab-groups-onboarding-session-restore-title-3 = Savas ciļņu kopas jebkurā laikā var atkal atvērt izvēlnē “Meklēt un pārvaldīt cilnes”.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Jebkurā laikā atkārtoti atveriet ciļņu grupas no izvēlnes “Saraksts par visām ciļnēm”.
+tab-groups-onboarding-dismiss = Labi
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Cilņu grupas tiek automātiski saglabātas. Atrodiet tās šeit.
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Iepazīstieties ar { -brand-product-name } profiliem
+multi-profile-spotlight-body = Ērti pārslēdzieties starp pārlūkošanu darbam un izklaidei. Profili pilnībā atsevišķi glabā jūsu pārlūkošanas informāciju, tostarp meklēšanas vēsturi un paroles, lai jūs varētu visu organizēt.
+multi-profile-spotlight-cta = Izveidot profilu
+multi-profile-callout-title = Izveidojiet dažādus profilus darbam un izklaidei
+multi-profile-callout-subtitle = Profili ļauj pilnībā atsevišķi glabāt pārlūkošanas informāciju, piemēram, meklēšanas vēsturi un paroles.
+multi-profile-callout-cta = Izveidot profilu
+
+## Desktop to Mobile Adoption feature callout strings
+
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Lejupielādē, vienādo un sāc!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Noskenējiet QR kodu, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm. Pēc instalēšanas atlasiet “Sinhronizēt ar mobilo ierīci”, lai piekļūtu savām parolēm, grāmatzīmēm un citiem datiem, atrodoties ceļā.
+dismiss-button-label = Noraidīt
+sync-to-mobile-button-label = Vienādo ar mobilo tālruni
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR kods, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Jaunināt uz Windows 11?
+    Izveidosim jūsu { -brand-product-name } datu rezerves kopiju.
+create-backup-screen-1-subtitle = Automātiski aizsargājiet savas paroles, grāmatzīmes un citus datus 1–2 minūšu laikā.
+create-backup-screen-1-flair = Ieteicams
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Uzzināt vairāk</a>
 fx-backup-opt-in-confirm-btn-label = Turpināt
 
