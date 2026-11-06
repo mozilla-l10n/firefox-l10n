@@ -75,6 +75,13 @@ download-ui-confirm-private-browsing-title =
         [one] ¿Detener 1 descarga y cerrar esta ventana privada?
        *[other] ¿Detener { $downloadsCount } descargas y cerrar esta ventana privada?
     }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] No se podrá reanudar esta descarga.
+        [one] No se podrá reanudar esta descarga.
+       *[other] No se podrán reanudar estas descargas.
+    }
+download-ui-confirm-private-browsing-button = Cerrar ventana
 
 ##
 
