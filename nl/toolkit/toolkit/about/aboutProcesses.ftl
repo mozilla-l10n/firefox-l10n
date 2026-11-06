@@ -22,6 +22,22 @@ about-processes-reload-tab =
     .title = Tabblad vernieuwen
 about-processes-select-all-tabs =
     .title = Alle tabbladen selecteren
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = De tabbladen van deze website uitvouwen
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Tabbladen van deze website samenvouwen
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Tabbladen van { $site } lossen
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Tabbladen van { $site } opnieuw laden
 about-processes-expand-all-sites =
     .title = Alles uitvouwen
 about-processes-collapse-all-sites =
@@ -46,6 +62,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Tabbladen doorzoeken
     .placeholder = Tabbladen doorzoeken
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Geen tabbladen gevonden die overeenkomen met ‘{ $query }’
 
 ## Column headers
 

@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Zie een eenvoudiger context
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Bronnenmonitor
+experimental-features-resource-monitor-description = Bekijk het geschatte geheugen- en CPU-gebruik voor uw open tabbladen direct in de zijbalk, en los tabbladen die u niet gebruikt om bronnen vrij te maken. <a data-l10n-name="connect">Feedback delen</a>

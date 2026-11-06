@@ -40,12 +40,43 @@ download-ui-cancel-downloads-ok =
        *[other] { $downloadsCount } downloads annuleren
     }
 download-ui-confirm-cancel-button = Annuleren
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 1 download stoppen en { -brand-short-name } afsluiten?
+               *[other] { $downloadsCount } downloads stoppen en { -brand-short-name } afsluiten?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 1 download stoppen en  { -brand-short-name } afsluiten?
+               *[other] { $downloadsCount } downloads stoppen en { -brand-short-name } afsluiten?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } zal proberen downloads te hervatten zodra het opnieuw wordt geopend, maar de voortgang kan verloren gaan.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] { -brand-short-name } afsluiten
        *[other] { -brand-short-name } afsluiten
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] 1 download stoppen en offline gaan?
+       *[other] { $downloadsCount } downloads stoppen en offline gaan?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } zal proberen downloads te hervatten wanneer u weer online bent, maar de voortgang kan verloren gaan.
 download-ui-confirm-offline-button = Offline gaan
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 1 download stoppen en dit privévenster sluiten?
+       *[other] { $downloadsCount } downloads stoppen en dit privévenster sluiten?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] U kunt deze download niet hervatten.
+        [one] U kunt deze download niet hervatten.
+       *[other] U kunt deze downloads niet hervatten.
+    }
 download-ui-confirm-private-browsing-button = Venster sluiten
 
 ##
