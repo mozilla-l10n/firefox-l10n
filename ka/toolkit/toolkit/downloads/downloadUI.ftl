@@ -59,6 +59,24 @@ download-ui-confirm-quit-button =
         [windows] დაიხუროს { -brand-short-name }
        *[other] დაიხუროს { -brand-short-name }
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [one] შეწყდეს { $downloadsCount } ჩამოტვირთვა და გავიდეს კავშირგარეშედ?
+       *[other] შეწყდეს { $downloadsCount } ჩამოტვირთვა და გავიდეს კავშირგარეშედ?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } ეცდება განაგრძოს ჩამოტვირთვები კავშირზე დაბრუნებისას, მაგრამ წინსვლა შეიძლება დაიკარგოს.
+download-ui-confirm-offline-button = გასვლა კავშირგარეშედ
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [one] შეჩერდეს { $downloadsCount } ჩამოტვირთვა და დაიხუროს პირადი ფანჯარა?
+       *[other] შეჩერდეს { $downloadsCount } ჩამოტვირთვა და დაიხუროს პირადი ფანჯარა?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [one] ვეღარ განაგრძობთ ამ ჩამოტვირთვას.
+       *[other] ვეღარ განაგრძობთ ამ ჩამოტვირთვებს.
+    }
+download-ui-confirm-private-browsing-button = ფანჯრის დახურვა
 
 ##
 
