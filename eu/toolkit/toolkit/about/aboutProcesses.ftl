@@ -18,6 +18,30 @@ about-processes-shutdown-tab =
     .title = Itxi fitxa
 about-processes-unload-tab =
     .title = Hustu fitxa
+about-processes-reload-tab =
+    .title = Berritu fitxa
+about-processes-select-all-tabs =
+    .title = Hautatu fitxa guztiak
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Zabaldu gune honetako fitxak
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Tolestu gune honetako fitxak
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Hustu { $site } guneko fitxak
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Berritu { $site } guneko fitxak
+about-processes-expand-all-sites =
+    .title = Zabaldu denak
+about-processes-collapse-all-sites =
+    .title = Tolestu denak
 about-processes-go-to-tab =
     .title = Joan fitxara
 # Profiler icons
@@ -30,6 +54,18 @@ about-processes-profile-process =
             [one] Egin prozesu honetako hari guztien profila segundo batez
            *[other] Egin prozesu honetako hari guztien profila { $duration } segundoz
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Bilatu fitxak
+    .placeholder = Bilatu fitxak
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Ez da "{ $query }" testuarekin bat datorren fitxarik aurkitu
 
 ## Column headers
 
@@ -129,6 +165,35 @@ about-processes-tab-count =
         [one] Fitxa { $count }
        *[other] { $count } fitxa
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] Fitxa { $count } hautatuta
+       *[other] { $count } fitxa hautatuta
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] (fitxa { $count })
+       *[other] ({ $count } fitxa)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Utzi hautapena
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Hustu
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Berritu
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Itxi
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -180,6 +245,12 @@ about-processes-cpu-fully-idle = inaktibo
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = inaktibo
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < %0.01
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < %0.1
 
@@ -199,6 +270,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Bilakaera: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 

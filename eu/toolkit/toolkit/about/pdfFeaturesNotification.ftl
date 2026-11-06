@@ -4,5 +4,5 @@
 
 pdf-features-notification =
     .aria-label = Jakinarazpena
-    .heading = PDFekin aritzea errazagoa da orain.
+    .heading = PDFekin aritzea errazagoa da orain { -brand-short-name }(e)n.
 pdf-features-notification-message = Zatitu, elkartu eta aukera gehiago. <a data-l10n-name="features-link">Ikusi PDF eginbideak</a>

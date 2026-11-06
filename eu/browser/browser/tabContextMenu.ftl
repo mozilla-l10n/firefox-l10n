@@ -66,10 +66,14 @@ close-tabs-to-the-end-vertical =
 # The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
 close-tabs-to-the-end-vertical-alt =
     .label = Beheko fitxak
-    .accesskey = B
+    .accesskey = h
 close-other-tabs =
     .label = Itxi beste fitxak
     .accesskey = t
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Beste guztiak
+    .accesskey = B
 reload-tabs =
     .label = Berritu fitxak
     .accesskey = r
@@ -107,17 +111,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Ireki edukiontzi-fitxa berrian
     .accesskey = e
+tab-context-open-in-container =
+    .label = Ireki edukiontzian
+    .accesskey = e
 move-to-start =
     .label = Mugitu hasierara
     .accesskey = h
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Hasierara
+    .accesskey = H
 move-to-end =
     .label = Mugitu amaierara
     .accesskey = m
+move-to-end-alt =
+    .label = Amaierara
+    .accesskey = A
 move-to-new-window =
     .label = Eraman leiho berrira
     .accesskey = h
 move-to-new-window-alt =
-    .label = Leiho berria
+    .label = Leiho berrira
     .accesskey = L
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -133,6 +147,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Itxi bikoiztutako fitxak
     .accesskey = b
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Bikoiztutako fitxak
+    .accesskey = B
 tab-context-close-duplicate-tabs2 =
     .label = Itxi fitxa honen kopiak
     .accesskey = x
@@ -149,6 +167,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Talde berria
     .accesskey = b
+tab-context-add-tab-to-group-new-group =
+    .label = Talde berria
+tab-context-add-tab-to-group-closed-groups =
+    .label = Itxitako taldeak
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -179,6 +201,14 @@ tab-context-move-tabs =
         }
     .accesskey = M
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Aldatu lekuz hona:
+           *[other] Aldatu { $tabCount } fitxa lekuz hona
+        }
+    .accesskey = A
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -189,6 +219,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Aldatu lekuz ikuspegi zatitua hona
+    .accesskey = d
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Aldatu fitxak lekuz hona
     .accesskey = d
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
