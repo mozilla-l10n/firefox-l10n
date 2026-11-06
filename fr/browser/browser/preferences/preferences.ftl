@@ -1210,7 +1210,7 @@ sync-engine-history =
 # This string is a modified noun (i.e. tabs that are open)
 sync-engine-tabs2 =
     .label = Onglets ouverts
-    .tooltiptext = Ouvrir des onglets depuis vos autres appareils
+    .tooltiptext = Onglets ouverts sur vos autres appareils
     .accesskey = O
 sync-engine-tabs =
     .label = Onglets ouverts
@@ -1226,7 +1226,7 @@ sync-engine-addresses2 =
     .accesskey = A
 sync-engine-payment-methods3 =
     .label = Moyens de paiement
-    .tooltiptext = moyens de paiement enregistrés
+    .tooltiptext = Moyens de paiement enregistrés
     .accesskey = M
 sync-engine-addons2 =
     .label = Modules complémentaires

@@ -37,7 +37,7 @@ about-processes-unload-site =
 # Variables:
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-reload-site =
-    .title = Recharger les onglets depuis { $site }
+    .title = Recharger les onglets de { $site }
 about-processes-expand-all-sites =
     .title = Tout développer
 about-processes-collapse-all-sites =
@@ -60,12 +60,12 @@ about-processes-profile-process =
 # Search field above the tab list, filtering tabs by title or site. The
 # placeholder is shown inside the empty field.
 about-processes-search-tabs =
-    .aria-label = Rechercher dans les onglets
-    .placeholder = Rechercher dans les onglets
+    .aria-label = Rechercher des onglets
+    .placeholder = Rechercher des onglets
 # Shown in place of the tab list when a search matches no open tabs.
 # Variables:
 #   $query (String) The search text the user typed, unmodified.
-about-processes-search-no-results = Aucun onglet trouvé correspondant à « { $query } »
+about-processes-search-no-results = Aucun onglet ne correspond à « { $query } »
 
 ## Column headers
 
@@ -178,8 +178,8 @@ about-processes-bulk-selected-count =
 #   $count (Number) The number of tabs in the site group.
 about-processes-site-tab-count =
     { $count ->
-        [one] (onglets { $count })
-       *[other] ({ $count } onglets)
+        [one] ({ $count } onglet)
+       *[other] ({ $count } onglets)
     }
 # Bulk-action bar icon button: clears the selection without acting on it.
 about-processes-bulk-cancel-selection =
@@ -190,7 +190,7 @@ about-processes-bulk-unload-tabs =
     .label = Décharger
 # Bulk-action bar button: reloads every selected tab.
 about-processes-bulk-reload-tabs =
-    .label = Actualiser
+    .label = Recharger
 # Bulk-action bar button: closes every selected tab.
 about-processes-bulk-close-tabs =
     .label = Fermer
@@ -271,7 +271,7 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 # A tab’s memory of a gigabyte or more, shown to one decimal place.
-about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) } { $totalUnit }
 
 ## Duration units
 

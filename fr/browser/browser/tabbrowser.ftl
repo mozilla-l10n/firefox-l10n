@@ -283,9 +283,8 @@ tab-context-move-tab-to-new-group =
 tab-context-add-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Ajouter au groupe
-            [one] Ajouter { $tabCount } onglets au groupe
-           *[other] Ajouter { $tabCount } onglets au groupe
+            [1] Ajouter à un groupe
+           *[other] Ajouter { $tabCount } onglets à un groupe
         }
     .accesskey = A
 tab-context-move-tab-to-group =
