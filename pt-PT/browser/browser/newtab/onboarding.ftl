@@ -663,3 +663,7 @@ hnt-card-taskbar-tabs-primary-button = Adicionar sites à barra de tarefas
 hnt-card-extensions-header = Melhore o { -brand-short-name } com extensões
 hnt-card-extensions-body = Personalize a sua navegação com as nossas extensões mais populares.
 hnt-card-extensions-primary-button = Explorar
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Tudo pronto. Agora mãos à obra.
+hnt-card-last-card-header-end = A proteção contra rastreio está ativa.
