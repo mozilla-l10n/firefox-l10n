@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Cambiar el tamaño de las pestañas de vista dividida
 tab-devtools-splitter =
     .aria-label = Cambiar tamaño del panel de herramientas de desarrollador
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Agregar pestañas a un grupo
+    .accesskey = g
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -279,12 +284,20 @@ tab-context-move-tab-to-new-group =
            *[other] Agregar pestañas al nuevo grupo
         }
     .accesskey = g
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Agregar al grupo
+            [one] Agregar al grupo
+           *[other] Agregar { $tabCount } pestañas al grupo
+        }
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
             [1] Agregar pestaña a un grupo
             [one] Agregar pestaña a un grupo
-           *[other] Agregar pestañas a ungrupo
+           *[other] Agregar pestañas a un grupo
         }
     .accesskey = g
 tab-context-move-split-view-to-new-group =
@@ -451,6 +464,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Separar vista dividida
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Separar pestañas
     .accesskey = t
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

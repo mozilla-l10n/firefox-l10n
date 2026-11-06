@@ -67,6 +67,14 @@ download-ui-confirm-offline-title =
         [one] ¿Detener 1 descarga y desconectarse?
        *[other] ¿Detener { $downloadsCount } descargas y desconectarse?
     }
+download-ui-confirm-offline-message = { -brand-short-name } intentará reanudar las descargas cuando se vuelva a tener conexión, pero es posible que se pierda el progreso.
+download-ui-confirm-offline-button = Trabajar sin conexión
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] ¿Detener 1 descarga y cerrar esta ventana privada?
+        [one] ¿Detener 1 descarga y cerrar esta ventana privada?
+       *[other] ¿Detener { $downloadsCount } descargas y cerrar esta ventana privada?
+    }
 
 ##
 
