@@ -40,6 +40,42 @@ download-ui-cancel-downloads-ok =
        *[other] Ezeztatu { $downloadsCount } deskarga
     }
 download-ui-confirm-cancel-button = Utzi
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Gelditu deskarga bat eta irten { -brand-short-name }(e)tik?
+               *[other] Gelditu { $downloadsCount } deskarga eta irten { -brand-short-name }(e)tik?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Gelditu deskarga bat eta irten { -brand-short-name }(e)tik?
+               *[other] Gelditu { $downloadsCount } deskarga eta irten { -brand-short-name }(e)tik?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } deskargak berrekiten saiatuko da berriro irekitzen denean, baina hauen aurrerapena gal liteke.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Irten { -brand-short-name }(e)tik
+       *[other] Irten { -brand-short-name }(e)tik
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Gelditu deskarga bat eta lineaz kanpo jarri?
+       *[other] Gelditu { $downloadsCount } deskarga eta lineaz kanpo jarri?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } deskargak berrekiten saiatuko da berriro linean zaudenean, baina hauen aurrerapena gal liteke.
+download-ui-confirm-offline-button = Jarri lineaz kanpo
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Gelditu deskarga bat eta itxi leiho pribatu hau?
+       *[other] Gelditu { $downloadsCount } deskarga eta itxi leiho pribatu hau?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Ezingo duzu deskarga hau berrekin.
+       *[other] Ezingo dituzu deskarga hauek berrekin.
+    }
 download-ui-confirm-private-browsing-button = Itxi leihoa
 
 ##

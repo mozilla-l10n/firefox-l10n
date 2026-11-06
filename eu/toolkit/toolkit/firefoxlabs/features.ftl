@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Ikusi testuinguru-menu sinp
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Baliabideen monitorea
+experimental-features-resource-monitor-description = Ikusi irekitako fitxen memoriaren eta PUZaren gutxi gorabeherako erabilera alboko barran bertan, eta hustu erabiltzen ez dituzun fitxak baliabideak libratzeko. <a data-l10n-name="connect">Partekatu iritzia</a>
