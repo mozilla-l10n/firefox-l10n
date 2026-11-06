@@ -64,7 +64,7 @@ extension-classic-blue-name = Zils
 # Name for a cyan theme.
 extension-classic-cyan-name = Gaišzils
 # Name for a violet theme.
-extension-classic-violet-name = Violeta
+extension-classic-violet-name = Violets
 # Name for a green theme.
 extension-classic-green-name = Zaļš
 # Name for a purple theme.

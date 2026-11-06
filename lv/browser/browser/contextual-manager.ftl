@@ -18,7 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Ievietot datus no cit
 contextual-manager-passwords-command-import = Ievietot no datnes…
 contextual-manager-passwords-command-export = Izgūt paroles
 contextual-manager-passwords-command-remove-all = Noņemt visas paroles
-contextual-manager-passwords-command-delete-all = Dzēst visas paroles
+contextual-manager-passwords-command-delete-all = Izdzēst visas paroles
 contextual-manager-passwords-command-options = Iespējas
 contextual-manager-passwords-command-help = Palīdzība
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -110,9 +110,9 @@ contextual-manager-passwords-remove-all-title =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-title =
     { $total ->
-        [one] Vai dzēst { $total } paroli?
-        [zero] Vai dzēst { $total } paroles?
-       *[other] Vai dzēst { $total } paroles?
+        [one] Izdzēst { $total } paroli?
+        [zero] Izdzēst { $total } paroles?
+       *[other] Izdzēst { $total } paroles?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -136,7 +136,7 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
-        [1] Dzēst
+        [1] Izdzēst
         [zero] Izdzēst visas
         [one] Izdzēst visas
        *[other] Izdzēst visas
@@ -213,7 +213,7 @@ contextual-manager-passwords-radiobutton-alerts = Brīdinājumi ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Izņemt paroli?
 # This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
-contextual-manager-passwords-delete-login-card-title = Dzēst paroli?
+contextual-manager-passwords-delete-login-card-title = Izdzēst paroli?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = To nevar atsaukt.
 # This message gives the user an option to go back to the edit login form.
@@ -221,7 +221,7 @@ contextual-manager-passwords-remove-login-card-back-message = Atpakaļ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Noņemt
 # This message confirms that the user wants to delete an existing login when per-device sync is enabled.
-contextual-manager-passwords-delete-login-card-delete-button = Dzēst
+contextual-manager-passwords-delete-login-card-delete-button = Izdzēst
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Atcelt
 contextual-manager-passwords-alert-card =
@@ -255,7 +255,7 @@ contextual-manager-passwords-remove-label =
     .title = Noņemt paroli
 # Tooltip for the delete button in the edit password form when per-device sync is enabled
 contextual-manager-passwords-delete-label =
-    .title = Dzēst paroli
+    .title = Izdzēst paroli
 contextual-manager-passwords-origin-field =
     .label = Vietnes adrese
     .placeholder = https://www.example.com
@@ -379,7 +379,7 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-passwords-checkbox =
     { $total ->
-        [1] Jā, dzēst paroli
+        [1] Jā, izdzēst paroli
         [zero] Jā, izdzēst paroles
         [one] Jā, izdzēst paroles
        *[other] Jā, izdzēst paroles
