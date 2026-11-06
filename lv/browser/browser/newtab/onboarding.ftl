@@ -356,10 +356,22 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Pārlūkprogrammas logs, kura augšdaļā ir cilnes.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Izmēģiniet MI tērzēšanas robotu sānjoslā
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Apkopojiet tīmekļa saturu, ģenerējiet idejas, melnrakstiet ziņojumus — tas viss pārlūkošanas laikā. Izvēlieties no vairākiem pakalpojumu sniedzējiem. Pārslēdzieties jebkurā laikā. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
+onboarding-genai-sidebar-primary-button = Izvēlieties tērzēšanas robotu
+onboarding-genai-sidebar-secondary-button = Sākt pārlūkošanu
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Pabeidziet { -brand-short-name } iestatīšanu
+onboarding-checklist-subtitle = Veiciet šīs darbības, lai maksimāli izmantotu pārlūkošanas pieredzi.
+onboarding-checklist-set-default = Iestatīt { -brand-short-name } kā noklusējuma pārlūkprogrammu
+onboarding-checklist-pin = Piespraust { -brand-short-name } uzdevumjoslai
+onboarding-checklist-import = Importēt no iepriekšējās pārlūka
 onboarding-checklist-extension = Pievienot paplašinājumu
+onboarding-checklist-sign-up = Reģistrējieties vai piesakieties savā kontā
 
 ## Tab Groups feature onboarding strings
 
@@ -376,6 +388,12 @@ tab-groups-onboarding-session-restore-title-3 = Savas ciļņu kopas jebkurā lai
 
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Uzzināt vairāk</a>
 fx-backup-opt-in-confirm-btn-label = Turpināt
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-3 = Šifrēts un aizsargāts ar paroli
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Grāmatzīmes, vēsture, iestatījumi un citi iekļautie dati
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Saglabāts jūsu ierīcē
 
 ## Restored from Backup spotlight
 
