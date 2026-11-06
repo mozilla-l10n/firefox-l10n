@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = “탭 검색 및 관리” 메�
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = 탭 전체 목록 메뉴에서 언제든지 탭 그룹을 다시열 수 있습니다.
 tab-groups-onboarding-dismiss = 확인
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = 탭 그룹은 자동으로 저장됩니다. 여기에서 찾으세요.
 
 ## Multi Profiles feature onboarding messages
 
@@ -637,3 +639,21 @@ welcome-back-onboarding-card-label-tabs = 세로 탭과 그룹으로 정리해 �
 welcome-back-onboarding-card-label-vpn = 내장 VPN으로 숨김 상태 유지
 welcome-back-onboarding-card-label-pdf = PDF 강조 표시, 서명 및 작업
 welcome-back-onboarding-card-tilebutton-label = 사용해 보기
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = { -brand-short-name }를 몇 초 만에 설정하세요
+hnt-card-import-body = 다른 브라우저에서 북마크, 비밀번호 등을 가져오세요.
+hnt-card-import-primary-button = 데이터 가져오기
+hnt-card-default-body = { -brand-product-name }는 사용자를 추적하지 않고 사용자를 보호하기 위해 만들어진 유일한 주요 브라우저입니다.
+hnt-card-default-primary-button = { -brand-short-name }로 링크 열기
+hnt-card-pin-header = 클릭 한 번으로 { -brand-short-name }를 바로 사용하세요
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] 독에서 보호된 탐색으로 다시 이동하세요.
+       *[other] 작업 표시줄에서 보호된 탐색으로 다시 이동하세요.
+    }
+hnt-card-mobile-header = 휴대폰에 내장된 보호 기능 받기
+hnt-card-mobile-body = 이동 중에도 추가 개인 정보 보호를 위해 모바일용 { -brand-product-name }를 다운로드하세요.
+hnt-card-mobile-primary-button = 모바일용 { -brand-product-name } 받기
+hnt-card-wallpaper-header = 새로운 배경화면 선택
