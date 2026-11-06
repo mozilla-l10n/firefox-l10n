@@ -657,3 +657,15 @@ hnt-card-mobile-header = 휴대폰에 내장된 보호 기능 받기
 hnt-card-mobile-body = 이동 중에도 추가 개인 정보 보호를 위해 모바일용 { -brand-product-name }를 다운로드하세요.
 hnt-card-mobile-primary-button = 모바일용 { -brand-product-name } 받기
 hnt-card-wallpaper-header = 새로운 배경화면 선택
+hnt-card-wallpaper-body = 좋아하는 배경 화면으로 이 화면을 내 집처럼 편안하게 꾸며보세요.
+hnt-card-wallpaper-primary-button = 맞춤 설정 시작하기
+hnt-card-taskbar-tabs-header = Windows 작업 표시줄에 즐겨찾는 사이트를 추가하세요
+hnt-card-taskbar-tabs-body = 자주 방문하는 사이트를 앱처럼 열고, { -brand-product-name }의 강력한 보호 기능도 그대로 누려보세요.
+hnt-card-taskbar-tabs-primary-button = 작업 표시줄에 사이트 추가
+hnt-card-extensions-header = 확장 기능으로 { -brand-short-name } 성능 향상
+hnt-card-extensions-body = 가장 인기있는 확장 기능으로 탐색을 맞춤 설정하세요.
+hnt-card-extensions-primary-button = 탐색
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = 준비 완료. 이제 나만의 웹 탐색을 해보세요.
+hnt-card-last-card-header-end = 추적 방지 기능이 켜져 있습니다.
