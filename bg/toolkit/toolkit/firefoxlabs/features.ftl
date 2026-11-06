@@ -17,3 +17,9 @@ experimental-features-group-webpage-display =
     .label = Изчертаване на уеб страниците
 experimental-features-group-customize-browsing =
     .label = Персонализирайте вашето сърфиране
+
+## New Tab Productivity Widgets
+
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Картинка на деня

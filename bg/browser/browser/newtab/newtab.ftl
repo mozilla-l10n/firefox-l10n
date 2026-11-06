@@ -120,10 +120,24 @@ newtab-privacy-message-info-8-cta = Научете повече
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Картинка на деня · Общомедия (Wikimedia Commons)
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Картинка на деня
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Картинка на деня: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Отваряне на меню с картинка на деня
+    .title = Отваряне на меню с картинка на деня
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Управление на тапетите
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Научете повече
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Картинка на деня от Wikimedia Commons
 
 ## Strings for the Travel widget
 
@@ -379,6 +393,8 @@ newtab-custom-widget-timer-toggle =
     .label = Таймер
 newtab-custom-widget-privacy-toggle =
     .label = Поверителност
+newtab-custom-widget-picture-toggle =
+    .label = Картинка на деня
 # Solitaire is a widget on New Tab where you can play solitaire, a card game
 # for one player, also known as patience.
 # Game displays within an iframe with name “Yahoo Solitaire”
@@ -544,6 +560,8 @@ newtab-widget-task-list-menu-copy = Копиране
 newtab-widget-lists-menu-delete = Изтриване на този списък
 newtab-widget-lists-menu-learn-more = Научете повече
 newtab-widget-lists-input-menu-delete = Изтриване
+newtab-widget-lists-name-label-checklist =
+    .label = Задачи
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

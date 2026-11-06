@@ -266,6 +266,11 @@ onboarding-flair-text = Ново!
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Опитайте чатбот с AI в страничната лента
 
+## New user onboarding checklist
+
+onboarding-checklist-remove =
+    .label = Премахване на списъка със задачи
+
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Създаване на профил
