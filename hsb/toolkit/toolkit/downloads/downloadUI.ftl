@@ -54,6 +54,14 @@ download-ui-confirm-offline-title =
        *[other] { $downloadsCount } sćehnjenjow zastajić a offline hić?
     }
 download-ui-confirm-offline-button = Offline hić
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 1 sćehnjenje zastajić a tute priwatne wokno začinić?
+        [one] { $downloadsCount } sćehnjenje zastajić a tute priwatne wokno začinić?
+        [two] { $downloadsCount } sćehnjeni zastajić a tute priwatne wokno začinić?
+        [few] { $downloadsCount } sćehnjenja zastajić a tute priwatne wokno začinić?
+       *[other] { $downloadsCount } sćehnjenjow zastajić a tute priwatne wokno začinić?
+    }
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] Njemóžeće tute sćehnjenje pokročować.
