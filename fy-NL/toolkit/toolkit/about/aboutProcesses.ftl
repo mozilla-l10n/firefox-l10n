@@ -22,6 +22,22 @@ about-processes-reload-tab =
     .title = Ljepblêd fernije
 about-processes-select-all-tabs =
     .title = Alle ljepblêden selektearje
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Ljepblêden fan dizze website útklappe
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Ljepblêden fan dizze website ynklappe
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Ljepblêden fan { $site } ûntlade
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Ljepblêden fan { $site } opnij lade
 about-processes-expand-all-sites =
     .title = Alles útklappe
 about-processes-collapse-all-sites =
@@ -46,6 +62,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Ljepblêden trochsykje
     .placeholder = Ljepblêden trochsykje
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Gjin ljepblêden fûn dy’t oerienkomme mei ‘{ $query }’
 
 ## Column headers
 

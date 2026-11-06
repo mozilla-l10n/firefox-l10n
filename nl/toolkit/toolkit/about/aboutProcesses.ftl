@@ -25,7 +25,7 @@ about-processes-select-all-tabs =
 # A site is the set of open tabs on one domain, e.g. example.com and its
 # subdomains.
 about-processes-expand-site =
-    .title = De tabbladen van deze website uitvouwen
+    .title = Tabbladen van deze website uitvouwen
 # See about-processes-expand-site for what a site is.
 about-processes-collapse-site =
     .title = Tabbladen van deze website samenvouwen

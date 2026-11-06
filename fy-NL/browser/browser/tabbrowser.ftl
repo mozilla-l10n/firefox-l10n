@@ -286,6 +286,14 @@ tab-context-move-tab-to-new-group =
            *[other] Ljepblêden oan nije groep tafoegje
         }
     .accesskey = g
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Tafoegje oan groep
+            [one] { $tabCount } ljepblêd oan groep tafoegje
+           *[other] { $tabCount } ljepblêden oan groep tafoegje
+        }
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->

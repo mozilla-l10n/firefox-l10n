@@ -662,3 +662,4 @@ hnt-card-taskbar-tabs-body = Abra os seus sites mais visitados como uma aplicaç
 hnt-card-taskbar-tabs-primary-button = Adicionar sites à barra de tarefas
 hnt-card-extensions-header = Melhore o { -brand-short-name } com extensões
 hnt-card-extensions-body = Personalize a sua navegação com as nossas extensões mais populares.
+hnt-card-extensions-primary-button = Explorar

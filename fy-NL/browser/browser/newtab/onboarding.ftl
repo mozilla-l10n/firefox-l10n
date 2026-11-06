@@ -661,6 +661,12 @@ hnt-card-wallpaper-header = Kies in frisse eftergrûn
 hnt-card-wallpaper-body = Lit dit skerm as thús fiele mei in eftergrûn dêr’t jo wol oer meie.
 hnt-card-wallpaper-primary-button = Begjinne mei oanpassen
 hnt-card-taskbar-tabs-header = Set jo favorite websites op jo Windows-taakbalke
+hnt-card-taskbar-tabs-body = Iepenje jo meast besochte websites lykas in app, mei alle beskermingen fan { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Websites oan taakbalke tafoegje
+hnt-card-extensions-header = Helje mear út { -brand-short-name } mei útwreidingen
+hnt-card-extensions-body = Pas jo navigaasje oan mei ús meast leafste útwreidingen.
 hnt-card-extensions-primary-button = Ferkenne
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Alles klear. Doch wêr’t jo goed yn binne.
 hnt-card-last-card-header-end = Trackingbeskerming is oan.
