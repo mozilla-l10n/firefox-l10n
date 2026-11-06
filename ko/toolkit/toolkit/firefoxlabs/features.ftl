@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = 탭 메모는 브라우저 탭에 
 experimental-features-tab-context-menu =
     .label = 간소화된 탭 메뉴
 experimental-features-tab-context-menu-description = 탭을 마우스 오른쪽 버튼으로 클릭하면 간단한 컨텍스트 메뉴가 표시됩니다. 자주 쓰는 작업을 더 쉽게 찾을 수 있도록 설계되었습니다. <a data-l10n-name="connect">의견 공유</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = 리소스 모니터
+experimental-features-resource-monitor-description = 사이드바에서 바로 열린 탭의 예상 메모리 및 CPU 사용량을 확인하고 사용하지 않은 탭을 언로드하여 리소스를 확보하세요. <a data-l10n-name="connect">의견 공유</a>

@@ -40,7 +40,20 @@ download-ui-cancel-downloads-ok =
        *[other] 다운로드 { $downloadsCount }개 취소
     }
 download-ui-confirm-cancel-button = 취소
-download-ui-confirm-quit-message = { -brand-short-name }가 다시 열릴 때 다운로드를 계속하려고 시도하지만, 진행 상황이 손실될 수 있습니다.
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 다운로드 1개를 중지하고 { -brand-short-name }를 종료하시겠습니까?
+               *[other] 다운로드 { $downloadsCount }개를 중지하고 { -brand-short-name }를 종료하시겠습니까?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 다운로드 1개를 중지하고 { -brand-short-name }를 종료하시겠습니까?
+               *[other] 다운로드 { $downloadsCount }개를 중지하고 { -brand-short-name }를 종료하시겠습니까?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name }가 다시 열릴 때 다운로드를 계속하려고 하지만, 진행 상황이 손실될 수 있습니다.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] { -brand-short-name } 종료
@@ -51,7 +64,18 @@ download-ui-confirm-offline-title =
         [1] 다운로드 1개를 중지하고 오프라인 상태로 전환하시겠습니까?
        *[other] 다운로드 { $downloadsCount }개를 중지하고 오프라인 상태로 전환하시겠습니까?
     }
+download-ui-confirm-offline-message = 사용자가 온라인 상태가 되면 { -brand-short-name }가 다운로드를 계속하려고 하지만, 진행 상황이 손실될 수 있습니다.
 download-ui-confirm-offline-button = 오프라인 전환
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 다운로드 1개를 중지하고 사생활 보호 창을 닫으시겠습니까?
+       *[other] 다운로드 { $downloadsCount }개를 중지하고 사생활 보호 창을 닫으시겠습니까?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] 이 다운로드는 계속할 수 없습니다.
+       *[other] 이 다운로드는 계속할 수 없습니다.
+    }
 download-ui-confirm-private-browsing-button = 창 닫기
 
 ##

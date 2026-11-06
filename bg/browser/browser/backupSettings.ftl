@@ -45,6 +45,9 @@ settings-data-create-backup-error = Възникна грешка при съз�
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Име на файл: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .description = Възстановяване на данните от { -brand-product-name } от последния път, когато са архивирани.
+    .label = Възстановяване на вашите данни
 settings-data-backup-restore-scheduled-off =
     .description = Използване на архив на { -brand-product-name } от друго устройство за възстановяване на данните.
     .label = Възстановяване на вашите данни
@@ -82,6 +85,7 @@ turn-off-scheduled-backups-confirm-button = Изключване и изтрив
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Възстановяване на вашите данни
 restore-from-backup-filepicker-label = Файл за архива
 restore-from-backup-filepicker-title = Изберете файл на архива:
 restore-from-backup-file-choose-button =
@@ -145,6 +149,8 @@ disable-backup-encryption-header = Премахване на защитата с
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-path-label = Файл на архива:
+backup-file-moz-browser-restore-step-2-1 = Кликнете „Възстановяване на вашите данни“ и изберете този файл
+backup-file-other-browser-restore-step-3-1 = Кликнете „Възстановяване на вашите данни“ и изберете този файл
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
