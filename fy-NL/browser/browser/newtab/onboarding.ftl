@@ -643,14 +643,24 @@ welcome-back-onboarding-card-tilebutton-label = Probearje
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Stel jo { -brand-short-name } binnen inkelde sekonden yn
+hnt-card-import-body = Helje jo blêdwizers, wachtwurden en mear binnen fan in oare browser út.
 hnt-card-import-primary-button = Jo gegevens ymportearje
 hnt-card-default-body = { -brand-product-name } is de iennige grutte browser dy’t boud is om jo te beskermjen, net om jo te folgjen.
 hnt-card-default-primary-button = Keppelingen iepenje mei { -brand-short-name }
 hnt-card-pin-header = Hâld { -brand-short-name } in klik fuort
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Spring werom nei beskerme navigearje fan jo dock út.
+       *[other] Spring werom nei beskerme navigearje fan jo taakbalke út.
+    }
+hnt-card-mobile-header = Untfang ynboude beskerming op jo telefoan
 hnt-card-mobile-body = Download { -brand-product-name } foar mobyl foar ekstra privacy ûnderweis.
 hnt-card-mobile-primary-button = { -brand-product-name } foar mobyl downloade
 hnt-card-wallpaper-header = Kies in frisse eftergrûn
+hnt-card-wallpaper-body = Lit dit skerm as thús fiele mei in eftergrûn dêr’t jo wol oer meie.
 hnt-card-wallpaper-primary-button = Begjinne mei oanpassen
+hnt-card-taskbar-tabs-header = Set jo favorite websites op jo Windows-taakbalke
 hnt-card-taskbar-tabs-primary-button = Websites oan taakbalke tafoegje
 hnt-card-extensions-primary-button = Ferkenne
 hnt-card-last-card-header-end = Trackingbeskerming is oan.
