@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Mewnforio o Borwr Ara
 contextual-manager-passwords-command-import = Mewnforio o Ffeil…
 contextual-manager-passwords-command-export = Allforio cyfrineiriau
 contextual-manager-passwords-command-remove-all = Tynnu pob cyfrinair
+contextual-manager-passwords-command-delete-all = Dileu pob cyfrinair
 contextual-manager-passwords-command-options = Dewisiadau
 contextual-manager-passwords-command-help = Cymorth
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -108,6 +109,17 @@ contextual-manager-passwords-remove-all-title =
         [many] Tynnu pob un o'r { $total } chyfrinair?
        *[other] Tynnu pob un o'r { $total } cyfrinair?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Dileu { $total } cyfrinair?
+        [zero] Dileu { $total } cyfrinair?
+        [two] Dileu { $total } gyfrinair?
+        [few] Dileu { $total } cyfrinair?
+        [many] Dileu { $total } chyfrinair?
+       *[other] Dileu { $total } cyfrinair?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -132,6 +144,18 @@ contextual-manager-passwords-remove-all-confirm-button =
         [many] Tynnu
        *[other] Tynnu'r Cyfan
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Dileu
+        [zero] Dileu'r cyfan
+        [one] Dileu'r cyfan
+        [two] Dileu'r cyfan
+        [few] Dileu'r cyfan
+        [many] Dileu'r cyfan
+       *[other] Dileu'r cyfan
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -155,6 +179,18 @@ contextual-manager-passwords-remove-all-message-sync =
         [few] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
         [many] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
        *[other] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Mae hyn yn ei ddileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu eich cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [zero] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [one] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [two] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [few] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [many] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+       *[other] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
     }
 contextual-manager-passwords-origin-label = Gwefan
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -203,12 +239,16 @@ contextual-manager-passwords-radiobutton-all = ( { $total } ) i gyd
 contextual-manager-passwords-radiobutton-alerts = ( { $total } ) rhybudd
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Tynnu cyfrinair?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Dileu cyfrinair?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Does dim modd i chi ddadwneud hyn.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Nôl
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Tynnu
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Dileu
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Diddymu
 contextual-manager-passwords-alert-card =
@@ -240,6 +280,9 @@ contextual-manager-passwords-update-label =
     .label = Diweddaru cyfrinair
 contextual-manager-passwords-remove-label =
     .title = Tynnu'r cyfrinair
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Dileu cyfrinair
 contextual-manager-passwords-origin-field =
     .label = Cyfeiriad Gwefan
     .placeholder = https://www.example.com
@@ -367,6 +410,18 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Iawn, tynnu'r cyfrineiriau
         [many] Iawn, tynnu'r cyfrineiriau
        *[other] Iawn, tynnu'r cyfrineiriau
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Iawn, dileu cyfrinair
+        [zero] Iawn, dileu cyfrineiriau
+        [one] Iawn, dileu cyfrinair
+        [two] Iawn, dileu gyfrineiriau
+        [few] Iawn, dileu cyfrineiriau
+        [many] Iawn, dileu chyfrineiriau
+       *[other] Iawn, dileu cyfrineiriau
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = I weld eich cyfrineiriau sydd wedi'u cadw, rhowch eich prif gyfrinair.

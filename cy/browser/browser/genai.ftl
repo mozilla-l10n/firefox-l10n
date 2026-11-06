@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = Gofyn i { $provider }
 genai-menu-new-badge = Newydd
 genai-menu-summarize-page = Crynhoi Tudalen
+genai-menu-summarize-with-ai = Crynhoi gydag AI
 genai-input-ask-smart-window =
     .placeholder = Gofynnwch…
 genai-input-ask-generic =
     .placeholder = Gofyn i'r sgwrsfot AI…
+genai-input-ask-ai =
+    .placeholder = Gofyn i AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Gofyn i { $provider }…

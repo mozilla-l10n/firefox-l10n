@@ -204,6 +204,9 @@ newtab-privacy-empty-state = Mae { -brand-short-name } yn rhwystro tracwyr yn aw
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Gweld cyfrif cynyddol yma.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Llai o dracwyr, pori cyflymach.
+newtab-privacy-empty-state-small-message = Pori i ddechrau rhwystro.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1468,6 +1471,9 @@ newtab-widget-menu-move-left = Chwith
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = De
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Cartref
 newtab-widget-size-small = Bach
 newtab-widget-size-medium = Canolig
 newtab-widget-size-large = Mawr

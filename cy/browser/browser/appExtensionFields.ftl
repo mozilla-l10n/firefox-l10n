@@ -75,3 +75,7 @@ extension-classic-pink-name = Pinc
 extension-classic-yellow-name = Melyn
 # Name for a red theme.
 extension-classic-red-name = Coch
+# Name for an orange theme.
+extension-classic-orange-name = Oren
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = OLED Du
