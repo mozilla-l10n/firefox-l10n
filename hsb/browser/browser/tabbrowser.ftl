@@ -318,6 +318,16 @@ tab-context-move-tab-to-new-group =
            *[other] Nowej skupinje { $tabCount } rajtarkow přidać
         }
     .accesskey = N
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Skupinje přidać
+            [one] Skupinje { $tabCount } rajtark přidać
+            [two] Skupinje { $tabCount } rajtarkaj přidać
+            [few] Skupinje { $tabCount } rajtarki přidać
+           *[other] Skupinje { $tabCount } rajtarkow přidać
+        }
+    .accesskey = S
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->

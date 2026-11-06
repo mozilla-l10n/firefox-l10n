@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Wočińće kóždy čas swoje sk
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Wočińće zaso kóždy čas swoje skupiny rajtarkow z menija Wšě rajtarki nalistować.
 tab-groups-onboarding-dismiss = W porjadku
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Skupiny rajtarkow so awtomatisce składuja. Namakaće je tu.
 
 ## Multi Profiles feature onboarding messages
 

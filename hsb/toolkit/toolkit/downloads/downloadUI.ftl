@@ -45,6 +45,14 @@ download-ui-confirm-quit-button =
         [windows] { -brand-short-name } skónčić
        *[other] { -brand-short-name } skónčić
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] 1 sćehnjenje zastajić a offline hić?
+        [one] { $downloadsCount } sćehnjenje zastajić a offline hić?
+        [two] { $downloadsCount } sćehnjeni zastajić a offline hić?
+        [few] { $downloadsCount } sćehnjenja zastajić a offline hić?
+       *[other] { $downloadsCount } sćehnjenjow zastajić a offline hić?
+    }
 download-ui-confirm-offline-button = Offline hić
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->

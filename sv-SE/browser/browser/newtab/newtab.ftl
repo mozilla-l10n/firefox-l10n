@@ -577,7 +577,7 @@ newtab-solitaire-menu-learn-more = Läs mer
 # button that opens its menu.
 newtab-custom-widget-wrexhamafc =
     .label = Wrexham AFC
-    .menu-label = Öppna Wrexham AFC-menyn
+    .menu-label = Öppna menyn för Wrexham AFC
     .title = Wrexham AFC
 # Menu item opening a submenu that switches what the widget shows. “View” is a
 # noun here, as in “the view the widget shows”.
@@ -591,7 +591,7 @@ newtab-widget-wrexhamafc-menu-view = Visa
 
 newtab-widget-wrexhamafc-view-matches = Matcher
 newtab-widget-wrexhamafc-view-table = Tabell
-newtab-widget-wrexhamafc-view-fixtures = Fixturer
+newtab-widget-wrexhamafc-view-fixtures = Spelschema
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.
 newtab-widget-wrexhamafc-menu-wallpapers = Bakgrundsbilder
 
