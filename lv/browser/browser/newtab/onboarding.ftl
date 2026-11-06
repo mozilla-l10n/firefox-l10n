@@ -26,6 +26,7 @@ return-to-amo-addon-title = Tagad sagādāsim jums <img data-l10n-name="icon"/> 
 return-to-amo-add-extension-label = Pievienot paplašinājumu
 return-to-amo-add-theme-label = Pievienot tēmu
 return-to-amo-theme-install-complete-label = Tēma uzstādīta
+return-to-amo-extension-install-complete-label = Paplašinājums ir instalēts
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -55,6 +56,15 @@ mr1-onboarding-theme-label-dark = Tumšs
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Gatavs
+
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Apturēt animāciju
+onboarding-animation-play-button =
+    .aria-label = Atskaņot animāciju
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -282,6 +292,9 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } jūs atb
 onboarding-gratitude-security-and-privacy-subtitle = Paldies, ka izmantojat { -brand-short-name }, ko atbalsta Mozilla Foundation. Ar jūsu atbalstu mēs strādājam, lai padarītu internetu drošāku un pieejamāku ikvienam.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Vienādo savus datus starp ierīcēm
+onboarding-sign-up-description = Reģistrējieties kontam, un visa jūsu svarīgā informācija — paroles, grāmatzīmes un cita informācija — tiks droši glabāta un pieejama, pierakstoties jebkurā ierīcē.
+onboarding-sign-up-button = Reģistrēties vai pieteikties
+onboarding-sign-up-secondary-button = Sākt pārlūkošanu
 
 ## New user time and familiarity survey strings
 
@@ -304,8 +317,22 @@ onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet 
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Pastāstiet mums, kur vēlaties ievietot savas cilnes
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Sānjoslas iestatījumos pārslēdzies, kad vien vēlies!
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Jūsu cilnes, jūsu gaumē
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Vai jums ir atvērtas daudzas cilnes? Izmēģiniet cilnes sānos, lai iegūtu modernāku skatu. Vai arī saglabājiet klasisko izskatu ar cilnēm augšpusē. Pārslēdziet jebkurā laikā.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Izvēlieties cilnes izkārtojumu
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Lai iegūtu modernizētu skatu, kas palīdz koncentrēties, izmēģiniet cilnes sānos. Vai arī saglabājiet klasisko izskatu ar cilnēm augšpusē. Pārslēdziet jebkurā laikā.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Cilnes sānos
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Cilnes augšpusē
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Stateniskās cilnes ir klāt
 # Setup screen for vertical tabs for existing users
@@ -314,8 +341,21 @@ onboarding-existing-tabs-title2 = Iepazīstinām ar stateniskajām cilnēm
 onboarding-existing-tabs-subtitle = Izmēģini cilnes sānā! Sānjoslas iestatījumos pāŗslēdzies, kad vien vēlies!
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Izmēģināt stateniskas cilnes
+onboarding-flair-text = Jaunums!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Paturēt līmeniskas cilnes
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Pārlūkprogrammas logs, kurā ekrāna malā tiek rādītas cilnes kā daļa no { -brand-shorter-name } sānu joslas.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Pārlūkprogrammas logs, kurā ekrāna malā tiek rādītas cilnes kā daļa no { -brand-shorter-name } sānu joslas.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Pārlūkprogrammas logs, kura augšdaļā ir cilnes.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Pārlūkprogrammas logs, kura augšdaļā ir cilnes.
 
 ## New user onboarding checklist
 

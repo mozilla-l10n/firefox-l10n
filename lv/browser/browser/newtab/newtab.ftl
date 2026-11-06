@@ -1748,6 +1748,11 @@ newtab-nova-customization-callout-primary-button =
 
 # Context menu item: toggle the clock card off.
 newtab-clock-widget-menu-hide = Slēpt pulksteni
+newtab-clock-widget-menu-learn-more = Uzziniet vairāk
+newtab-clock-widget-menu-edit = Rediģēt pulksteņus
+newtab-clock-widget-menu-switch-to-12h = Pārslēgties uz 12 stundu formātu
+newtab-clock-widget-menu-switch-to-24h = Pārslēgties uz 24 stundu formātu
+newtab-clock-widget-label-your-clocks = Jūsu pulksteņi
 # "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
 newtab-clock-widget-search-back-button =
     .aria-label = Atpakaļ
@@ -1773,8 +1778,34 @@ newtab-clock-widget-button-add =
     .aria-label = Pievienot jaunu pulksteni
     .title = Pievienot jaunu pulksteni
 newtab-clock-widget-button-add-clock = Pievienot
+newtab-clock-widget-button-cancel = Atcelt
+newtab-clock-widget-button-back =
+    .aria-label = Atpakaļ
+    .title = Atpakaļ
+newtab-clock-widget-button-edit-clock =
+    .aria-label = Rediģēt pulksteni
+    .title = Rediģēt pulksteni
+newtab-clock-widget-button-save = Saglabāt
+newtab-clock-widget-button-remove-clock =
+    .aria-label = Noņemt pulksteni
+    .title = Noņemt pulksteni
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, iesauka: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Pievienot pulksteni
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Rediģēt pulksteni
 # "Search results" is the accessible label for the listbox dropdown that appears
 # below the location search field, listing matching cities as the user types.
 # It means "results of the search", not "search within the results".
@@ -1783,17 +1814,40 @@ newtab-clock-widget-search-results =
 # Fallback row in the search results that lets the user add a city that is
 # not in the list. $city (String) is the text the user has typed.
 newtab-clock-widget-add-custom = Pievienot “{ $city }” kā pielāgotu pulksteni
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .aria-label = Pilsētas nosaukums
+    .label = Pilsētas nosaukums
+    .placeholder = Dodiet vārdu šim pulkstenim
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
     .aria-label = Laika josla
     .label = Laika josla
     .placeholder = Meklēt pēc pilsētas, laika joslas vai UTC nobīdes
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Laika joslas rezultāti
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Nav atbilstošu laika joslu
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Atpakaļ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =
     .aria-label = Atvērt pulksteņa izvēlni
     .title = Atvērt pulksteņa izvēlni
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Nav atbilstību
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .aria-label = Atvērt pulksteņa izvēlni
+    .title = Atvērt pulksteņa izvēlni
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Segvārds: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ņujorka
