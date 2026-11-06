@@ -643,3 +643,15 @@ welcome-back-onboarding-card-tilebutton-label = Experimentar
 hnt-card-import-header = Configure o seu { -brand-short-name } em segundos
 hnt-card-import-body = Traga os seus marcadores, palavras-passe, e muito mais de outro navegador.
 hnt-card-import-primary-button = Importe os seus dados
+hnt-card-default-body = O { -brand-product-name } é o único navegador de grande dimensão concebido para o proteger, não para o monitorizar.
+hnt-card-default-primary-button = Abrir ligações com o { -brand-short-name }
+hnt-card-pin-header = Mantenha o { -brand-short-name } à distância de um clique
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Regresse à navegação protegida a partir do seu dock.
+       *[other] Regresse à navegação protegida a partir da sua barra de tarefas.
+    }
+hnt-card-mobile-header = Obtenha uma proteção integrada no seu telemóvel
+hnt-card-mobile-body = Transfira o { -brand-product-name } para dispositivos móveis para uma privacidade extra em qualquer lugar.
+hnt-card-mobile-primary-button = Obtenha o { -brand-product-name } para dispositivos móveis.
+hnt-card-wallpaper-header = Escolha uma nova imagem de fundo

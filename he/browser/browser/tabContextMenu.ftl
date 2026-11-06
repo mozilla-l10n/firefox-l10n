@@ -147,6 +147,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = סגירת לשוניות כפולות
     .accesskey = כ
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = לשוניות כפולות
+    .accesskey = כ
 tab-context-close-duplicate-tabs2 =
     .label = סגירת כפילויות של לשונית זו
     .accesskey = כ
