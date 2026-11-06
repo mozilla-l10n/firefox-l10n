@@ -1263,19 +1263,59 @@ newtab-section-unblock-button = Atbloķēt
 newtab-section-follow-topic =
     .aria-label = Sekot { $topic }
 # Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Atcelt { $topic } sekošanu
+# Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
     .aria-label = Liegt { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Atbloķēt tēmu { $topic }
 
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-topic-p1 = Vai tiešām liegt šo tēmu?
+newtab-section-confirm-block-topic-p2 = Bloķētās tēmas vairs netiks rādītas jūsu plūsmā.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Liegt { $topic }
+newtab-section-block-cancel-button = Atcelt
+
+## Strings for custom wallpaper highlight
+
+newtab-section-mangage-topics-title = Tēmas
+newtab-section-manage-topics-button-v2 =
+    .label = Pārvaldīt tēmas
+newtab-section-mangage-topics-followed-topics = Sekotājs
+newtab-section-mangage-topics-followed-topics-empty-state = Jūs vēl nesekojat nevienai tēmai.
+newtab-section-mangage-topics-blocked-topics = Bloķēts
+newtab-section-mangage-topics-blocked-topics-empty-state = Jūs vēl neesat bloķējis nevienu tēmu.
+newtab-custom-wallpaper-title = Pielāgotas tapetes ir šeit
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Augšupielādējiet savu fona attēlu vai izvēlieties pielāgotu krāsu, lai padarītu { -brand-product-name } par savu.
+newtab-custom-wallpaper-cta = Izmēģiniet to
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Izvēlieties fonu, lai padarītu { -brand-product-name } par savu
+newtab-new-user-custom-wallpaper-subtitle = Padariet katru jaunu cilni kā mājas sajūtu ar pielāgotiem fona attēliem un krāsām.
+newtab-new-user-custom-wallpaper-cta = Izmēģiniet to tūlīt
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Tikko klāt jaunas ekrāntapetes
+newtab-wallpaper-feature-highlight-subtitle = Izvēlieties savu iecienītāko fonu, lai ikviena jauna cilne radītu mājīguma sajūtu.
+newtab-wallpaper-feature-highlight-cta = Izvēlieties fonu
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Lejupielādēt { -brand-product-name } mobilajām ierīcēm
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Noskenējiet kodu, lai droši pārlūkotu tīmekli, atrodoties ceļā.
+newtab-download-mobile-highlight-body-variant-b = Turpiniet darbu no vietas, kur pārtraucāt, sinhronizējot cilnes, paroles un citus failus.
 newtab-download-mobile-highlight-body-variant-c = Vai zinājāt, ka varat ņemt { -brand-product-name } līdzi, atrodoties ceļā? Tas pats pārlūks. Jūsu kabatā.
 newtab-download-mobile-highlight-image =
     .aria-label = QR kods, lai lejupielādētu { -brand-product-name } Mobile
@@ -1630,6 +1670,16 @@ newtab-sports-widget-group-b = B grupa
 newtab-sports-widget-group-c = C grupa
 newtab-sports-widget-group-d = D grupa
 newtab-sports-widget-group-e = E grupa
+newtab-sports-widget-group-f = F grupa
+newtab-sports-widget-group-g = G grupa
+newtab-sports-widget-group-h = H grupa
+newtab-sports-widget-group-i = I grupa
+newtab-sports-widget-group-j = J grupa
+newtab-sports-widget-group-k = K grupa
+newtab-sports-widget-group-l = L grupa
+newtab-sports-widget-round-32 = 32. kārta
+newtab-sports-widget-round-16 = Astotdaļfināls
+newtab-sports-widget-quarter-finals = Ceturtdaļfināli
 newtab-sports-widget-results = Iznākums
 
 ## Sports widget — team names (FIFA country codes)
@@ -1682,6 +1732,7 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Šī telpa spēlē pēc jūsu noteikumiem
+newtab-activation-window-message-values-focus-message = { -brand-product-name } ļauj jums pārlūkot vietni tā, kā vēlaties, un sākt savu dienu tiešsaistē personiskākā veidā. Padariet { -brand-product-name } par savu.
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
@@ -1695,6 +1746,8 @@ newtab-nova-customization-callout-primary-button =
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Slēpt pulksteni
 # "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
 newtab-clock-widget-search-back-button =
     .aria-label = Atpakaļ
