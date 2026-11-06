@@ -50,7 +50,7 @@ dom-manifest-image-unusable = 인덱스 { $index }의 { $memberName } 항목에 
 #   $count (Number) - The number of unknown purposes.
 #   $purposes (String) - The list of unknown purposes, already formatted for the current locale, e.g. "a, b".
 # Example: "icons item at index 2 includes unsupported purposes: a, b."
-dom-manifest-image-unsupported-purposes = { $index } 인덱스의 { $brandName } 항목에 지원되지 않는 목적이 포함되어 있습니다: { $purposes }.
+dom-manifest-image-unsupported-purposes = { $index } 인덱스의 { $memberName } 항목에 지원되지 않는 목적이 포함되어 있습니다: { $purposes }.
 # Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
 #   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.

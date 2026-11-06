@@ -1713,7 +1713,105 @@ newtab-sports-widget-group-l = L grupa
 newtab-sports-widget-round-32 = 32. kārta
 newtab-sports-widget-round-16 = Astotdaļfināls
 newtab-sports-widget-quarter-finals = Ceturtdaļfināli
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = TIEŠRAIDE
+newtab-custom-widget-live-refresh =
+    .aria-label = Atsvaidzināt rezultātus
+    .title = Atsvaidzināt rezultātus
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Svarīgi datumi
+newtab-sports-widget-upcoming = Gaidāmie
+# Used for a match currently ongoing
+newtab-sports-widget-now = Tagad
 newtab-sports-widget-results = Iznākums
+newtab-sports-widget-semi-finals = Pusfināli
+newtab-sports-widget-bronze-finals = Bronzas fināls
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Fināls
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
+newtab-sports-widget-delayed = Kavēts
+newtab-sports-widget-postponed = Atlikts
+newtab-sports-widget-suspended = Apturēts
+newtab-sports-widget-cancelled = Atcelts
+newtab-sports-widget-information = Informācija par spēli
+newtab-sports-widget-no-live-data = Tiešraides spēles dati pašlaik netiek atjaunināti.
+newtab-sports-widget-view-results-link = Skatīt rezultātus
+newtab-sports-widget-third-place = Trešā vieta
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Otrās vietas ieguvējs
+newtab-sports-widget-champions = Čempioni
+newtab-sports-widget-world-cup-champions = 2026. gada Pasaules kausa čempioni
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Pilna laika
+newtab-sports-widget-match-halftime = Puslaiks
+newtab-sports-widget-match-extra-time = Papildlaiks
+newtab-sports-widget-match-penalties = Sodi
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = pret
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Sekojiet līdzi gaidāmās spēles informācijai
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Iepriekšējais
+    .title = Iepriekšējais
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Nākamais
+    .title = Nākamais
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Tiešraides spēle { $index } no { $total }
+    .title = Tiešraides spēle { $index } no { $total }
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } pret { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) pret { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Tiešraide: { $homeTeam }, { $homeScore } pret { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } pret { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } pret { $awayTeam }, aizkavēta spēle
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code

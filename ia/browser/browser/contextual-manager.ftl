@@ -109,8 +109,8 @@ contextual-manager-passwords-remove-all-title =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-title =
     { $total ->
-        [one] Deler { $count } contrasigno?
-       *[other] Deler { $count } contrasignos?
+        [one] Deler { $total } contrasigno?
+       *[other] Deler { $total } contrasignos?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
