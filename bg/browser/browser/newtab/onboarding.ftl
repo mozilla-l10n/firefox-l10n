@@ -270,6 +270,7 @@ onboarding-genai-sidebar-title = Опитайте чатбот с AI в стра
 
 onboarding-checklist-remove =
     .label = Премахване на списъка със задачи
+onboarding-checklist-remove-2 = Премахване на списъка със задачи
 
 ## Multi Profiles feature onboarding messages
 

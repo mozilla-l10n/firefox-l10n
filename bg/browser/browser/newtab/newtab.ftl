@@ -562,6 +562,10 @@ newtab-widget-lists-menu-learn-more = Научете повече
 newtab-widget-lists-input-menu-delete = Изтриване
 newtab-widget-lists-name-label-checklist =
     .label = Задачи
+newtab-widget-lists-name-placeholder-checklist2 =
+    .aria-label = Редактиране на името на списъка
+    .placeholder = Задачи
+newtab-widget-lists-name-default = Задачи
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
