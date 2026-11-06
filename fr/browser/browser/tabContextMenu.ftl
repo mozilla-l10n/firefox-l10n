@@ -41,8 +41,8 @@ close-tabs-to-the-start =
 # The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start-alt =
-    .label = Tabulations à gauche
-    .accesskey = T
+    .label = Onglets à gauche
+    .accesskey = O
 close-tabs-to-the-start-vertical =
     .label = Fermer les onglets au-dessus
     .accesskey = a
@@ -119,14 +119,14 @@ move-to-start =
     .accesskey = S
 # Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
 move-to-start-alt =
-    .label = Démarrer
-    .accesskey = D
+    .label = Au début
+    .accesskey = A
 move-to-end =
     .label = Déplacer vers la fin
     .accesskey = E
 move-to-end-alt =
-    .label = Fin
-    .accesskey = F
+    .label = À la fin
+    .accesskey = f
 move-to-new-window =
     .label = Déplacer vers une nouvelle fenêtre
     .accesskey = n
@@ -149,8 +149,8 @@ tab-context-close-duplicate-tabs =
     .accesskey = u
 # The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
 tab-context-close-duplicate-tabs-alt =
-    .label = Dupliquer les onglets
-    .accesskey = D
+    .label = Onglets en double
+    .accesskey = u
 tab-context-close-duplicate-tabs2 =
     .label = Fermer les doublons de cet onglet
     .accesskey = e
@@ -206,7 +206,6 @@ tab-context-move-tabs3 =
     .label =
         { $tabCount ->
             [1] Déplacer vers
-            [one] Déplacer { $tabCount } onglets vers
            *[other] Déplacer { $tabCount } onglets vers
         }
     .accesskey = D
