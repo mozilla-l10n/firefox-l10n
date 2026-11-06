@@ -40,12 +40,43 @@ download-ui-cancel-downloads-ok =
        *[other] { $downloadsCount } downloaden annulearje
     }
 download-ui-confirm-cancel-button = Annulearje
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 1 download stopje en { -brand-short-name } ôfslute?
+               *[other] { $downloadsCount } downloads stopje en { -brand-short-name } ôfslute?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 1 download stopje en  { -brand-short-name } ôfslute?
+               *[other] { $downloadsCount } downloads stopje en { -brand-short-name } ôfslute?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } sil probearje downloads te ferfetsjen as it opnij iepene wurdt, mar foarútgong kin ferlern gean.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] { -brand-short-name } ôfslute
        *[other] { -brand-short-name } ôfslute
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] 1 download stopje en offline gean?
+       *[other] { $downloadsCount } downloads stopje en offline gean?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } sil probearje downloads te ferfetsjen as jo wer online binne, mar foarútgong kin ferlern gean.
 download-ui-confirm-offline-button = Offline gean
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 1 download stopje en dit priveefinster slute?
+       *[other] { $downloadsCount } downloads stopje en dit priveefinster slute?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Jo kinne dizze download net ferfetsje.
+        [one] Jo kinne dizze download net ferfetsje.
+       *[other] Jo kinne dizze downloads net ferfetsje.
+    }
 download-ui-confirm-private-browsing-button = Finster slute
 
 ##

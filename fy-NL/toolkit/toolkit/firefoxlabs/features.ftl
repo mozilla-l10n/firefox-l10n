@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Sjoch in ienfâldiger konte
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Boarnemonitor
+experimental-features-resource-monitor-description = Besjoch it skatte ûnthâld- en CPU-gebrûk foar jo iepen ljepblêden daliks yn de sydbalke, en ûntlaad ljepblêden dy’t jo net brûke om boarnen frij te meitsjen. <a data-l10n-name="connect">Kommentaar diele</a>
