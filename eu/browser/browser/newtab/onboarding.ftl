@@ -646,3 +646,14 @@ welcome-back-onboarding-card-tilebutton-label = Probatu
 hnt-card-import-header = Konfiguratu zure { -brand-short-name } segundo gutxitan
 hnt-card-import-body = Ekarri zure laster-markak, pasahitzak eta gehiago beste nabigatzaile batetik.
 hnt-card-import-primary-button = Inportatu zure datuak
+hnt-card-default-body = { -brand-product-name } da zu babesteko eginda dagoen nabigatzaile nagusi bakarra, eta ez zure jarraipena egiteko.
+hnt-card-default-primary-button = Ireki loturak { -brand-short-name } erabiliz
+hnt-card-pin-header = Mantendu { -brand-short-name } klik bakarrera
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Itzuli babespeko nabigaziora zure dock-etik.
+       *[other] Itzuli babespeko nabigaziora zure atza-barratik.
+    }
+hnt-card-mobile-header = Eskuratu integratutako babesa zure telefonoan
+hnt-card-mobile-body = Deskargatu mugikorrerako { -brand-product-name } pribatutasun estra izateko edonon.
+hnt-card-mobile-primary-button = Eskuratu mugikorrerako { -brand-product-name }.

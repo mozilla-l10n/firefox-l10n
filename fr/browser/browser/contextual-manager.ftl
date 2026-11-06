@@ -108,8 +108,8 @@ contextual-manager-passwords-remove-all-title =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-title =
     { $total ->
-        [one] Supprimer le mot de passe { $total } ?
-       *[other] Supprimer { $total } mots de passe ?
+        [one] Supprimer { $total } mot de passe ?
+       *[other] Supprimer les { $total } mots de passe ?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -130,7 +130,6 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
-        [1] Supprimer
         [one] Tout supprimer
        *[other] Tout supprimer
     }

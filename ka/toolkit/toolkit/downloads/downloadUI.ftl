@@ -2,24 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-download-ui-confirm-title = გავაუქმო ყველა ჩამოტვირთვა?
+download-ui-confirm-title = გაუქმდეს ყველა ჩამოტვირთვა?
 
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
 download-ui-confirm-quit-cancel-downloads =
     { $downloadsCount ->
-        [1] თუ გახვალთ 1 ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ გასვლა?
+        [1] თუ ახლა გახვალთ, 1 ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ გასვლა?
        *[other] თუ ახლა გახვალთ { $downloadsCount } ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ გასვლა?
     }
 download-ui-confirm-quit-cancel-downloads-mac =
     { $downloadsCount ->
-        [1] თუ ახლა დაასრულებთ, 1 ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ დასრულება?
-       *[other] თუ ახლა დაასრულებთ { $downloadsCount } ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ დასრულება?
+        [1] თუ ახლა დატოვებთ, 1 ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ დატოვება?
+       *[other] თუ ახლა დატოვებთ, { $downloadsCount } ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ დატოვება?
     }
 download-ui-dont-quit-button =
     { PLATFORM() ->
-        [mac] გაგრძელება
+        [mac] დარჩენა
        *[other] დარჩენა
     }
 download-ui-confirm-offline-cancel-downloads =
@@ -38,6 +38,26 @@ download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ჩამოტვირთვის გაუქმება
        *[other] { $downloadsCount } ჩამოტვირთვის გაუქმება
+    }
+download-ui-confirm-cancel-button = გაუქმება
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [one] შეჩერდეს { $downloadsCount } ჩამოტვირთვა და დაიხუროს { -brand-short-name }?
+               *[other] შეჩერდეს { $downloadsCount } ჩამოტვირთვა და დაიხუროს { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [one] შეჩერდეს { $downloadsCount } ჩამოტვირთვა და დაიხუროს { -brand-short-name }?
+               *[other] შეჩერდეს { $downloadsCount } ჩამოტვირთვა და დაიხუროს { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } ეცდება განაგრძოს ჩამოტვირთვები, როცა კვლავ გაიხსნება, მაგრამ წინსვლა შეიძლება დაიკარგოს.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] დაიხუროს { -brand-short-name }
+       *[other] დაიხუროს { -brand-short-name }
     }
 
 ##
