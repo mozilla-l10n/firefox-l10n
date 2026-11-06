@@ -286,6 +286,14 @@ tab-context-move-tab-to-new-group =
            *[other] Tabbladen aan nieuwe groep toevoegen
         }
     .accesskey = g
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Toevoegen aan groep
+            [one] { $tabCount } tabblad toevoegen aan groep
+           *[other] { $tabCount } tabbladen toevoegen aan groep
+        }
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->

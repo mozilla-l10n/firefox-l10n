@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = U kunt uw tabbladgroepen op elk 
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = U kunt uw tabbladgroepen op elk gewenst moment opnieuw openen vanuit het menu Alle tabbladtitels tonen.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Tabbladgroepen worden automatisch opgeslagen. U vindt ze hier.
 
 ## Multi Profiles feature onboarding messages
 
@@ -641,8 +643,30 @@ welcome-back-onboarding-card-tilebutton-label = Uitproberen
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Stel uw { -brand-short-name } binnen enkele seconden in
+hnt-card-import-body = Haal uw bladwijzers, wachtwoorden en meer binnen vanuit een andere browser.
 hnt-card-import-primary-button = Uw gegevens importeren
+hnt-card-default-body = { -brand-product-name } is de enige grote browser die is ontwikkeld om u te beschermen, niet om u te volgen.
 hnt-card-default-primary-button = Koppelingen openen met { -brand-short-name }
+hnt-card-pin-header = Houd { -brand-short-name } op een klik afstand
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Spring terug naar beschermd navigeren vanuit uw dock.
+       *[other] Spring terug naar beschermd navigeren vanuit uw taakbalk.
+    }
+hnt-card-mobile-header = Ontvang ingebouwde bescherming op uw telefoon
+hnt-card-mobile-body = Download { -brand-product-name } voor mobiel voor extra privacy onderweg.
+hnt-card-mobile-primary-button = Download { -brand-product-name } voor mobiel.
+hnt-card-wallpaper-header = Kies een nieuwe achtergrond
+hnt-card-wallpaper-body = Laat dit scherm als thuis voelen met een achtergrond die u leuk vindt.
 hnt-card-wallpaper-primary-button = Beginnen met aanpassen
+hnt-card-taskbar-tabs-header = Zet uw favoriete websites op uw Windows-taakbalk
+hnt-card-taskbar-tabs-body = Open uw meest bezochte websites als een app, met alle beschermingen van { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Websites aan taakbalk toevoegen
+hnt-card-extensions-header = Haal meer uit { -brand-short-name } met extensies
+hnt-card-extensions-body = Pas uw navigatie aan met onze meest geliefde extensies.
 hnt-card-extensions-primary-button = Verkennen
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Alles klaar. Doe waar u goed in bent.
+hnt-card-last-card-header-end = Bescherming tegen volgen is ingeschakeld.

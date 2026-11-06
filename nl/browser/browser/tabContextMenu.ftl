@@ -38,17 +38,35 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Tabbladen aan de linkerkant sluiten
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Tabbladen links
+    .accesskey = i
 close-tabs-to-the-start-vertical =
     .label = Bovenstaande tabbladen sluiten
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Bovenstaande tabbladen
+    .accesskey = B
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Tabbladen aan de rechterkant sluiten
     .accesskey = r
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Tabbladen rechts
+    .accesskey = r
 close-tabs-to-the-end-vertical =
     .label = Onderstaande tabbladen sluiten
     .accesskey = O
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Onderstaande tabbladen
+    .accesskey = d
 close-other-tabs =
     .label = Overige tabbladen sluiten
     .accesskey = e
@@ -93,6 +111,9 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Openen in een nieuw containertabblad
     .accesskey = p
+tab-context-open-in-container =
+    .label = Openen in container
+    .accesskey = O
 move-to-start =
     .label = Verplaatsen naar begin
     .accesskey = b
