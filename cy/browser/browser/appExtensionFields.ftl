@@ -52,3 +52,26 @@ extension-nova-tide-name = Llanw
 extension-nova-ash-name = Lludw
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = Mwg
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = Llwyd
+# Name for a blue theme.
+extension-classic-blue-name = Glas
+# Name for a cyan theme.
+extension-classic-cyan-name = Gwyrddlas
+# Name for a violet theme.
+extension-classic-violet-name = Fioled
+# Name for a green theme.
+extension-classic-green-name = Gwyrdd
+# Name for a purple theme.
+extension-classic-purple-name = Porffor
+# Name for a pink theme.
+extension-classic-pink-name = Pinc
+# Name for a yellow theme.
+extension-classic-yellow-name = Melyn
+# Name for a red theme.
+extension-classic-red-name = Coch
