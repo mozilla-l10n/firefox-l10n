@@ -655,3 +655,4 @@ hnt-card-mobile-header = Obtenha uma proteção integrada no seu telemóvel
 hnt-card-mobile-body = Transfira o { -brand-product-name } para dispositivos móveis para uma privacidade extra em qualquer lugar.
 hnt-card-mobile-primary-button = Obtenha o { -brand-product-name } para dispositivos móveis.
 hnt-card-wallpaper-header = Escolha uma nova imagem de fundo
+hnt-card-wallpaper-body = Sintra-se em casa neste ecrã com um fundo de que goste.
