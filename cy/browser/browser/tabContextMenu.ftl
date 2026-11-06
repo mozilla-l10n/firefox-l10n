@@ -224,12 +224,12 @@ tab-context-move-tabs3 =
     .label =
         { $tabCount ->
             [1] Symud i
-            [zero] Symud { $tabCount } Tabiau i
-            [one] Symud { $tabCount } Tab i
-            [two] Symud { $tabCount } Dab i
-            [few] Symud { $tabCount } Thab i
-            [many] Symud { $tabCount } Thab i
-           *[other] Symud { $tabCount } Tab i
+            [zero] Symud { $tabCount } Tabiau at
+            [one] Symud { $tabCount } Tab at
+            [two] Symud { $tabCount } Dab at
+            [few] Symud { $tabCount } Thab at
+            [many] Symud { $tabCount } Thab at
+           *[other] Symud { $tabCount } Tab at
         }
     .accesskey = S
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
@@ -251,7 +251,7 @@ tab-context-move-split-view =
     .accesskey = G
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view-alt =
-    .label = Symud Tabiau i
+    .label = Symud Tabiau at
     .accesskey = T
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
