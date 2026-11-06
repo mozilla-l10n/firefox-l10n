@@ -277,11 +277,56 @@ newtab-privacy-message-milestone-week =
         [zero] Šonedēļ bloķēti { $count } izsekotāji. Skatiet, ko { -brand-short-name } slēpj no jums.
        *[other] Šonedēļ bloķēti { $count } izsekotāji. Skatiet, ko { -brand-short-name } slēpj no jums.
     }
+newtab-privacy-message-milestone-week-cta = Skatīt aizsardzības iestatījumus
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] Šomēnes bloķēts { $count } izsekotājs. Viens mazs solis privātuma labā. Viens liels solis sirdsmiera labā.
+        [zero] Šomēnes bloķēti { $count } izsekotāji. Viens mazs solis privātuma labā. Viens liels solis sirdsmiera labā.
+       *[other] Šomēnes bloķēti { $count } izsekotāji. Viens mazs solis privātuma labā. Viens liels solis sirdsmiera labā.
+    }
+newtab-privacy-message-milestone-month-cta = Skatīt aizsardzības iestatījumus
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] Šogad bloķēts { $count } izsekotājs. Tas ir spēcīgs gads jūsu privātuma aizsardzībā.
+        [zero] Šogad bloķēti { $count } izsekotāji. Tas ir spēcīgs gads jūsu privātuma aizsardzībā.
+       *[other] Šogad bloķēti { $count } izsekotāji. Tas ir spēcīgs gads jūsu privātuma aizsardzībā.
+    }
+newtab-privacy-message-milestone-year-cta = Skatīt aizsardzības iestatījumus
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } izsekotājs ir bloķēts. Tas ir liels progress ceļā uz privātumu pēc jūsu noteikumiem.
+        [zero] { $count } izsekotāji ir bloķēti. Tas ir ievērojams progress ceļā uz privātumu pēc jūsu noteikumiem.
+       *[other] { $count } izsekotāji ir bloķēti. Tas ir ievērojams progress ceļā uz privātumu pēc jūsu noteikumiem.
+    }
+newtab-privacy-message-milestone-total-cta = Skatīt aizsardzības iestatījumus
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Šodien bloķēti vairāk nekā 100 izsekotāju.) Mazāk izsekotāju nozīmē lielāku privātumu.
+newtab-privacy-message-daily-cap-cta = Skatīt aizsardzības iestatījumus
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Jūs esat aizsargāts { $count } dienu pēc kārtas.
+        [zero] Jūs esat aizsargāts { $count } dienas pēc kārtas.
+       *[other] Jūs esat aizsargāts { $count } dienas pēc kārtas.
+    }
+newtab-privacy-message-streak-cta = Skatīt aizsardzības iestatījumus
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Turpiniet pārlūkot, { -brand-short-name } turpinās bloķēt.
+newtab-privacy-message-first-protection-cta = Skatīt aizsardzības iestatījumus
 
 ## Strings for the Finance widget
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Uzzināt vairāk
+# Shown in the Finance widget when its data could not be loaded.
+newtab-stocks-error-not-available = Akciju dati nav pieejami.
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-stocks-widget-open-menu-button2 =
@@ -294,6 +339,9 @@ newtab-stocks-search-button =
     .aria-label = Meklēt pēc nosaukuma vai apzīmējuma
     .label = Meklēt
     .title = Meklēt pēc nosaukuma vai apzīmējuma
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Sāciet vērot akcijas, kas jums ir svarīgas
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -397,6 +445,11 @@ newtab-stocks-watchlist-full =
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Dienas attēls · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Dienas bilde
 # Title shown at the top of the widget, with the date of the picture shown.
 # $date (Date) - the day Wikimedia Commons featured the picture as its picture
 # of the day, shown in numbers (for example 10/8/2026).
@@ -409,6 +462,11 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Skatīt { $license } licenci
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -421,6 +479,8 @@ newtab-picture-set-wallpaper2 =
     .aria-label = Iestatīt šo attēlu kā tapeti
     .label = Iestatīt tapeti
     .title = Iestatīt tapeti
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Pārvaldīt fona attēlu
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Paslēpt šo attēlu
 # Context menu item that restores the picture after it has been hidden.
@@ -431,6 +491,11 @@ newtab-picture-menu-learn-more = Uzzināt vairāk
 newtab-picture-show-button2 =
     .aria-label = Parādīt attēlu
     .title = Parādīt attēlu
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Pārbaudiet rīt, lai redzētu jaunu attēlu
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wikimedia Commons dienas attēls
 
 ## Strings for the Search widget
 
@@ -1043,6 +1108,11 @@ newtab-wallpaper-category-title-firefox = { -brand-product-name }
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Debesu
 newtab-wallpaper-celestial-lunar-eclipse = Mēness aptumsums
+newtab-wallpaper-celestial-earth-night = Nakts foto no zemas Zemes orbītas
+newtab-wallpaper-celestial-starry-sky = Zvaigžņotas debesis
+newtab-wallpaper-celestial-eclipse-time-lapse = Mēness aptumsuma laika intervāla filmēšana
+newtab-wallpaper-celestial-black-hole = Melnā cauruma galaktikas ilustrācija
+newtab-wallpaper-celestial-river = Upes satelītattēls
 
 ## New Tab Weather
 
@@ -1069,7 +1139,11 @@ newtab-weather-location-search-results =
 newtab-weather-cancel-input =
     .aria-label = Atcelt
     .title = Atcelt
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Izmantot pašreizējo atrašanās vietu
 newtab-weather-menu-weather-display = Laikapstākļu attēlotājs
+newtab-weather-todays-forecast = Šodienas laika prognoze
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -1166,6 +1240,7 @@ newtab-section-block-topic-button = Liegt { $topic }
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-body-variant-c = Vai zinājāt, ka varat ņemt { -brand-product-name } līdzi, atrodoties ceļā? Tas pats pārlūks. Jūsu kabatā.
 newtab-download-mobile-highlight-image =
     .aria-label = QR kods, lai lejupielādētu { -brand-product-name } Mobile
 
@@ -1290,18 +1365,66 @@ newtab-widget-menu-move-left = Kreisā
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Pa labi
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Sākums
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Logrīki
+newtab-widget-size-small = Mazs
+newtab-widget-size-medium = Vidējs
+newtab-widget-size-large = Liels
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .aria-label = Slēpt visus logrīkus
+    .title = Slēpt logrīkus
+newtab-widget-section-maximize =
+    .aria-label = Izvērst visus logrīkus pilnā izmērā
+    .title = Izvērst logrīkus
+newtab-widget-section-minimize =
+    .aria-label = Sakļaut visus logrīkus kompaktā izmērā
+    .title = Minimizēt logrīkus
 # Shown on the widgets section header button while the section is
 # auto-minimized to its title row, to open the section back up.
 newtab-widget-section-show-widgets =
     .aria-label = Rādīt logrīkus
     .title = Rādīt logrīkus
+newtab-widget-section-menu-button =
+    .aria-label = Atvērt logrīku izvēlni
+    .title = Logrīku izvēlne
 newtab-widget-add-widgets-button =
     .aria-label = Pievienot logrīku
     .title = Pievienot logrīku
+newtab-widget-section-menu-manage = Pārvaldīt logrīkus
+newtab-widget-section-menu-hide-all = Slēpt logrīkus
 newtab-widget-section-menu-learn-more = Uzzināt vairāk
+newtab-widget-section-feedback = Pastāstiet mums savu viedokli
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Rādīt vairāk logrīku
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Rādīt mazāk logrīku
+newtab-widget-lists-name-default = Kontrolsaraksts
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-notification-title = Logrīks Taimeris
+newtab-widget-timer-notification-focus = Koncentrēšanās laiks ir beidzies. Labs darbs. Vajadzīgs pārtraukums?
+newtab-widget-timer-notification-break = Tavs pārtraukums ir beidzies. Vai esi gatavs koncentrēties?
+newtab-widget-timer-notification-warning = Paziņojumi ir izslēgti
+newtab-widget-timer-mode-focus =
+    .label = Fokuss
+newtab-widget-timer-mode-break =
+    .label = Pārtraukums
+newtab-widget-timer-label-play =
+    .label = Atskaņot
+newtab-widget-timer-label-pause =
+    .label = Pauze
+newtab-widget-timer-reset =
+    .title = Atstatīt
 newtab-widget-timer-menu-learn-more = Uzzināt vairāk
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.

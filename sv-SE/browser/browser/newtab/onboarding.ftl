@@ -413,7 +413,7 @@ tab-groups-onboarding-session-restore-title-3 = Återöppna dina flikgrupper fr�
 tab-groups-onboarding-session-restore-title-2 = Återöppna dina flikgrupper från menyn Lista alla flikar när som helst.
 tab-groups-onboarding-dismiss = Ok
 # "here" refers to the application menu button
-tab-groups-onboarding-auto-saved-title = Flikgrupper sparas automatiskt. Hitta dem här.
+tab-groups-onboarding-auto-saved-title = Flikgrupper sparas automatiskt. Du hittar dem här.
 
 ## Multi Profiles feature onboarding messages
 
@@ -640,21 +640,20 @@ welcome-back-onboarding-card-tilebutton-label = Testa
 
 ## New Tab Onboarding cards
 
-hnt-card-import-header = Konfigurera din { -brand-short-name } på några sekunder
-hnt-card-import-body = Ta in dina bokmärken, lösenord och mer från en annan webbläsare.
-hnt-card-import-primary-button = Importera din data
-hnt-card-default-body = { -brand-product-name } är den enda stora webbläsaren byggd för att skydda dig, inte spåra dig.
+hnt-card-import-header = Konfigurera { -brand-short-name } på några sekunder
+hnt-card-import-body = Importera bokmärken, lösenord och annat från en annan webbläsare.
+hnt-card-import-primary-button = Importera dina data
+hnt-card-default-body = { -brand-product-name } är den enda stora webbläsaren som är byggd för att skydda dig, inte spåra dig.
 hnt-card-default-primary-button = Öppna länkar med { -brand-short-name }
-hnt-card-pin-header = Håll { -brand-short-name } ett klick borta
+hnt-card-pin-header = Ha alltid { -brand-short-name } nära till hands
 hnt-card-pin-body =
     { PLATFORM() ->
         [macos] Hoppa tillbaka till skyddad surfning från din docka.
        *[other] Hoppa tillbaka till skyddad surfning från aktivitetsfältet.
     }
-hnt-card-mobile-header = Få inbyggt skydd på din telefon
-hnt-card-mobile-body = Hämta { -brand-product-name } för mobil för extra integritet på språng.
-hnt-card-mobile-primary-button = Få { -brand-product-name } för mobil.
-hnt-card-wallpaper-header = Välj en ny bakgrundsbild
+hnt-card-mobile-header = Skydda mobilen med inbyggda funktioner
+hnt-card-mobile-body = Ladda ner { -brand-product-name } till mobilen för bättre integritet när du är på språng.
+hnt-card-mobile-primary-button = Skaffa { -brand-product-name } för mobilen.
 hnt-card-wallpaper-body = Gör att den här skärmen känns som hemma med en bakgrund du älskar.
 hnt-card-wallpaper-primary-button = Börja anpassa
 hnt-card-taskbar-tabs-header = Lägg till dina favoritplatser i aktivitetsfältet i Windows
