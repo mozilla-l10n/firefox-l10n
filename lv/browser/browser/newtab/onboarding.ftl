@@ -428,6 +428,38 @@ create-backup-screen-1-title =
 create-backup-screen-1-subtitle = Automātiski aizsargājiet savas paroles, grāmatzīmes un citus datus 1–2 minūšu laikā.
 create-backup-screen-1-flair = Ieteicams
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Uzzināt vairāk</a>
+create-backup-screen-1-sync-label = Vienādots ar { -brand-product-name }
+create-backup-screen-1-sync-body = Rezerves kopijas visas ierīces, kurās esat pierakstījies
+create-backup-screen-1-backup-label = Rezerves kopija datorā
+create-backup-screen-1-backup-body = Saglabā jūsu ierīcē vai OneDrive
+create-backup-select-tile-button-label = Atlasīt
+create-backup-back-button-label = Atpakaļ
+create-backup-show-fewer =
+    .label = Rādīt mazāk līdzīgu
+create-backup-screen-2-title = Izvēlieties { -brand-product-name } datus rezerves kopijas izvedošanai
+create-backup-screen-2-subtitle = Aizņem tikai minūti. Jūsu dati tiek dublēti reizi dienā.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Vienkārša uzstādīšana
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Grāmatzīmes, vēsture, iestatījumi un citi dati
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Neietver paroles un maksājumus
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Nav šifrēts
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Visi dati
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Ietver paroles un maksājumus
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Šifrēts ar paroli
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Kur vēlaties saglabāt savu rezerves kopiju?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Izveidojiet rezerves faila paroli
+create-backup-screen-3-subtitle = Nepieciešams datu šifrēšanai. Saglabājiet tos vietā, kuru atcerēsities.
+fx-backup-opt-in-header = Izvēlieties faila atrašanās vietu
+fx-backup-opt-in-filepath-label = Izvēlieties vietu, uz kuru plānojat pārsūtīt datus uz jaunu ierīci, piemēram, OneDrive.
+fx-backup-opt-in-create-password-label = Ievadiet paroli
 fx-backup-opt-in-confirm-btn-label = Turpināt
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.

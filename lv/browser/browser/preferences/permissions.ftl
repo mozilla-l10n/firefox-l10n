@@ -185,11 +185,17 @@ permissions-site-camera-disable-desc = Tas liegs jebkurām lapām, kas nav uzska
 
 permissions-site-localhost-disable-label =
     .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt šīs ierīces lietotnēm un pakalpojumiem
+permissions-site-localhost-disable-desc = Tas neļaus nevienai vietnei, kas nav uzskaitīta iepriekš, pieprasīt piekļuvi lietotnēm un pakalpojumiem šajā ierīcē. Tas var izraisīt dažu vietņu funkciju darbības traucējumus.
 
 ## Site Permissions - Local network
 
+permissions-site-local-network-window =
+    .style = { permissions-window2.style }
+    .title = Iestatījumi — lokālā tīkla ierīces
+permissions-site-local-network-desc = Šīs vietnes ir pieprasījušas piekļuvi lietotnēm un pakalpojumiem ierīcēs, kas ir savienotas ar jūsu Wi-Fi vai lokālo tīklu. Varat izvēlēties atļaut vai bloķēt vietnēm to darīt.
 permissions-site-local-network-disable-label =
     .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt ierīču, kuras ir savienotas ar Wi-Fi vai vietējo tīklu, lietotnēm un pakalpojumiem.
+permissions-site-local-network-disable-desc = Tas neļaus nevienai vietnei, kas nav uzskaitīta iepriekš, pieprasīt piekļuvi lietotnēm un pakalpojumiem ierīcēs, kas ir savienotas ar jūsu Wi-Fi vai lokālā tīkla ierīcēm. Tas var traucēt dažu vietņu funkciju darbību.
 
 ## Site Permissions - Microphone
 
