@@ -394,20 +394,61 @@ fx-backup-opt-in-confirm-btn-label = Turpināt
 fx-backup-confirmation-screen-all-data-item-text-3 = Šifrēts un aizsargāts ar paroli
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Grāmatzīmes, vēsture, iestatījumi un citi iekļautie dati
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Saglabāts jūsu ierīcē
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Paroles un maksājumi nav iekļauti
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Lai iekļautu sensitīvus datus, dodieties uz <a data-l10n-name="settings">Iestatījumi</a>.
+fx-backup-confirmation-screen-item-subtext-1 = Rezerves kopēšana sāksies pēc dažām minūtēm un tiks veikta reizi dienā. Progresu varat pārbaudīt sadaļā <a data-l10n-name="settings">Iestatījumi</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } meklēs jūsu dublējumu, ja būs nepieciešams atkārtoti instalēt.
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Atjaunot no rezerves kopijas
+restore-from-backup-title = Atgūsim { -brand-short-name } tieši tādu, kādu jūs to vēlaties.
+restore-from-backup-subtitle = Atgūstiet visas grāmatzīmes, vēsturi un citus datus, lai varētu atgriezties pārlūkošanā.
+restore-from-backup-secondary-button = Neatjaunot
+multiple-backups-info-tile = <strong>Atrastas vairākas rezerves kopijas.</strong> Ir atlasīta jaunākā datne. Atjaunojiet citus profilus sadaļā <a data-l10n-name="settings-label">Iestatījumi.</a>
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Esam atpakaļ! Jūsu { -brand-short-name } dati ir atjaunoti.
+restored-from-backup-success-with-checklist-subtitle = Vai vēlaties, lai jūsu iecienītākā uz privātumu vērstā pārlūkprogramma būtu pieejama tikai viena klikšķa attālumā?
+restored-from-backup-success-no-checklist-subtitle = Šīs ierīces rezerves kopēšanu varat ieslēgt sadaļā <a data-l10n-name="settings">Iestatījumi</a>.
 restored-from-backup-success-with-checklist-primary-button = Saglabāt un turpināt
+restored-from-backup-success-with-checklist-secondary-button = Izlaist šo soli
 restored-from-backup-success-no-checklist-primary-button = Turpināt
+restored-from-backup-error-title = Hmm, radās problēma ar jūsu rezerves kopiju.
+restored-from-backup-error-subtitle = Ja jums ir vēl viena { -brand-short-name } rezerves kopija, mēģiniet atjaunot no tās. <a data-l10n-name="restore-problems">Vai joprojām rodas problēmas?</a>
+restored-from-backup-error-primary-button = Aizvērt
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Pielāgo savu { -brand-short-name } pieredzi
+onboarding-personalization-subtitle = Atbildiet uz dažiem jautājumiem, un mēs ieteiksim funkcijas un paplašinājumus, lai uzlabotu jūsu { -brand-short-name } lietošanu.
+onboarding-personalization-use-case-title = Kam jūs izmantosiet { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Personīgai lietošanai
+onboarding-personalization-use-case-school-option = Skola
+onboarding-personalization-use-case-work-option = Darbam
+onboarding-personalization-motivation-title = Kuras { -brand-short-name } funkcijas jums ir vissvarīgākās?
+onboarding-personalization-motivation-privacy-option = Privātums un drošība
+onboarding-personalization-motivation-productivity-option = Produktivitāte
+onboarding-personalization-motivation-other-option = Citi
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Mēs automātiski aizsargājam jūsu datus un bloķējam uzņēmumiem jūsu klikšķu izspiegošanu.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Tu esi drošās ķepās
+onboarding-refresh-import-subtitle = Pārnesiet savas paroles, grāmatzīmes, vēsturi un citus datus.
+onboarding-refresh-import-title = Padariet { -brand-short-name } par mājīgāku
 onboarding-refresh-onboarding-addons-subtitle = Paplašinājumi ir nelielas lietotnes, kas ļauj pielāgot { -brand-short-name }. Tie var pastiprināt privātumu, uzlabot ražīgumu, mainīt { -brand-short-name } izskatu un vēl daudz vairāk.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Piešķiriet pārlūkošanai stimulu
+onboarding-refresh-sync-subtitle = Saņemiet grāmatzīmes, paroles un citus datus visur, kur esat pierakstījies pakalpojumā { -brand-short-name }. Turklāt jūsu dati ir šifrēti, lai tos varētu redzēt tikai jūs.
+onboarding-refresh-sync-title = Dodieties jebkur. Vienādojiet visu.
+onboarding-refresh-gratitude-subtitle = Paldies, ka izmantojat { -brand-short-name } — vienīgo lielāko pārlūku, ko atbalsta bezpeļņas organizācija. Ar jūsu atbalstu mēs strādājam, lai padarītu internetu drošāku un pieejamāku ikvienam.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } jūs atbalsta
 
 ## First Run Onboarding refresh strings
 
@@ -443,6 +484,10 @@ onboarding-minimal-tabs-tooltip =
 # Description for minimal tabs image
 onboarding-minimal-tabs-description =
     .aria-description = Pārlūka logs, kurā cilnes attēlotas kā mazas ikonas ekrāna sānā samazinātā sānjoslā.
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Jebkurā laikā pārslēdzieties starp viedajām un klasiskajām Windows versijām.
 
 ## Smart Window ToU modal
 

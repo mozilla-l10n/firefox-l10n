@@ -71,3 +71,15 @@ extension-classic-cyan-name = Azurový
 extension-classic-violet-name = Fialový
 # Name for a green theme.
 extension-classic-green-name = Zelený
+# Name for a purple theme.
+extension-classic-purple-name = Fialový
+# Name for a pink theme.
+extension-classic-pink-name = Růžový
+# Name for a yellow theme.
+extension-classic-yellow-name = Žlutý
+# Name for a red theme.
+extension-classic-red-name = Červený
+# Name for an orange theme.
+extension-classic-orange-name = Oranžový
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = OLED černá

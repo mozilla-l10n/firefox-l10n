@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importovat z jiného 
 contextual-manager-passwords-command-import = Importovat ze souboru…
 contextual-manager-passwords-command-export = Exportovat hesla
 contextual-manager-passwords-command-remove-all = Odstranit všechna hesla
+contextual-manager-passwords-command-delete-all = Smazat všechna hesla
 contextual-manager-passwords-command-options = Možnosti
 contextual-manager-passwords-command-help = Nápověda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -110,6 +111,14 @@ contextual-manager-passwords-remove-all-title =
         [many] Odstranit všech { $total } hesel?
        *[other] Odstranit všech { $total } hesel?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Smazat { $total } heslo?
+        [few] Smazat { $total } hesla?
+       *[other] Smazat { $total } hesel?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -128,6 +137,15 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Odstranit
         [few] Odstranit vše
        *[other] Odstranit vše
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Smazat
+        [one] Smazat vše
+        [few] Smazat vše
+       *[other] Smazat vše
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -194,12 +212,16 @@ contextual-manager-passwords-radiobutton-all = Všechny ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Upozornění ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Odstranit heslo?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Smazat heslo?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Tuto akci nemůžete vrátit zpět.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Zpět
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Odstranit
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Smazat
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Zrušit
 contextual-manager-passwords-alert-card =
@@ -235,6 +257,9 @@ contextual-manager-passwords-update-label =
     .label = Aktualizovat heslo
 contextual-manager-passwords-remove-label =
     .title = Odebrat heslo
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Smazat heslo
 contextual-manager-passwords-origin-field =
     .label = Adresa serveru
     .placeholder = https://www.example.com
