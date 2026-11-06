@@ -410,6 +410,8 @@ tab-groups-onboarding-session-restore-title-3 = Reabra os seus grupos de separad
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Volte a abrir os seus grupos de separadores a partir do menu Listar Todos os Separadores, sempre que quiser.
 tab-groups-onboarding-dismiss = Ok
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Os grupos de separadores são guardados automaticamente. Encontre-os aqui.
 
 ## Multi Profiles feature onboarding messages
 
@@ -635,3 +637,9 @@ welcome-back-onboarding-card-label-tabs = Organize com separadores verticais e g
 welcome-back-onboarding-card-label-vpn = Mantenha-se oculto com a VPN integrada
 welcome-back-onboarding-card-label-pdf = Realçar, assinar e trabalhar com PDFs
 welcome-back-onboarding-card-tilebutton-label = Experimentar
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configure o seu { -brand-short-name } em segundos
+hnt-card-import-body = Traga os seus marcadores, palavras-passe, e muito mais de outro navegador.
+hnt-card-import-primary-button = Importe os seus dados
