@@ -149,7 +149,7 @@ tab-context-close-duplicate-tabs =
     .accesskey = x
 # The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
 tab-context-close-duplicate-tabs-alt =
-    .label = 複製分頁
+    .label = 重複分頁
     .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = 關閉與此分頁重複的分頁
