@@ -114,7 +114,7 @@ contextual-manager-passwords-remove-all-title =
 contextual-manager-passwords-delete-all-title =
     { $total ->
         [one] Dileu { $total } cyfrinair?
-        [zero] Dileu { $total } cyfrinair?
+        [zero] Dileu { $total } cyfrineiriau?
         [two] Dileu { $total } gyfrinair?
         [few] Dileu { $total } cyfrinair?
         [many] Dileu { $total } chyfrinair?
@@ -184,13 +184,13 @@ contextual-manager-passwords-remove-all-message-sync =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-message-sync =
     { $total ->
-        [1] Mae hyn yn ei ddileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu eich cyfrineiriau. Allwch chi ddim dadwneud hyn.
-        [zero] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
-        [one] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
-        [two] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
-        [few] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
-        [many] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
-       *[other] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Allwch chi ddim dadwneud hyn.
+        [1] Mae hyn yn ei ddileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu eich cyfrineiriau. Does dim modd dadwneud hyn.
+        [zero] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Does dim modd dadwneud hyn.
+        [one] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Does dim modd dadwneud hyn.
+        [two] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Does dim modd dadwneud hyn.
+        [few] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Does dim modd dadwneud hyn.
+        [many] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Does dim modd dadwneud hyn.
+       *[other] Mae hyn yn eu dileu oddi ar { -brand-short-name } ar bob dyfais sy'n cydweddu'ch cyfrineiriau. Does dim modd dadwneud hyn.
     }
 contextual-manager-passwords-origin-label = Gwefan
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector

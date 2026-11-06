@@ -1225,8 +1225,8 @@ sync-engine-history =
     .accesskey = H
 # This string is a modified noun (i.e. tabs that are open)
 sync-engine-tabs2 =
-    .label = Agor Tabiau
-    .tooltiptext = Agor tabiau o'ch dyfeisiau eraill
+    .label = Tabiau agored
+    .tooltiptext = Tabiau agored o'ch dyfeisiau eraill
     .accesskey = T
 sync-engine-tabs =
     .label = Tabiau ar agor

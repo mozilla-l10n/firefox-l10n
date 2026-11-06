@@ -91,6 +91,17 @@ download-ui-confirm-private-browsing-title =
         [many] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
        *[other] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
     }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hwn.
+        [zero] Ni fyddwch yn gallu ailddechrau'r lawrlwythiadau hyn.
+        [one] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hwn.
+        [two] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
+        [few] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
+        [many] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
+       *[other] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
+    }
+download-ui-confirm-private-browsing-button = Cau'r ffenestr
 
 ##
 

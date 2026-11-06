@@ -645,27 +645,27 @@ welcome-back-onboarding-card-tilebutton-label = Rhowch gynnig arno
 
 hnt-card-import-header = Gosodwch eich porwr { -brand-short-name } o fewn eiliadau
 hnt-card-import-body = Dewch â'ch nodau tudalen, cyfrineiriau, a mwy o borwr arall.
-hnt-card-import-primary-button = Mewnforiwch eich data
+hnt-card-import-primary-button = Dewch â'ch data
 hnt-card-default-body = { -brand-product-name } yw'r unig borwr mawr sydd wedi'i adeiladu i'ch diogelu, nid eich tracio.
 hnt-card-default-primary-button = Agorwch ddolenni gyda { -brand-short-name }
 hnt-card-pin-header = Cadwch { -brand-short-name } un clic i ffwrdd
 hnt-card-pin-body =
     { PLATFORM() ->
-        [macos] Ewch nôl mewn i bori wedi'i warchod o'ch bar tasgau.
-       *[other] Ewch nôl mewn i bori wedi'i warchod o'ch bar tasgau.
+        [macos] Ewch nôl i bori wedi'i warchod o'ch bar tasgau.
+       *[other] Ewch nôl i bori wedi'i warchod o'ch bar tasgau.
     }
-hnt-card-mobile-header = Cael diogelwch mewnol ar eich ffôn
-hnt-card-mobile-body = Llwythwch { -brand-product-name } i lawr ar gyfer ffôn symudol a chael preifatrwydd ychwanegol wrth fynd.
+hnt-card-mobile-header = Cael diogelwch cynhenid ar eich ffôn
+hnt-card-mobile-body = Llwythwch { -brand-product-name } i lawr ar gyfer ffonau symudol a chael preifatrwydd ychwanegol wrth fynd.
 hnt-card-mobile-primary-button = Cael { -brand-product-name } ar gyfer ffonau symudol.
 hnt-card-wallpaper-header = Dewiswch bapur wal ffres
-hnt-card-wallpaper-body = Gwnewch i'r sgrin hon deimlo fel eich cartref gyda chefndir rydych chi'n ei garu.
+hnt-card-wallpaper-body = Gwnewch i'r sgrin hon deimlo fel eich cartref gyda chefndir rydych chi'n ei hoffi.
 hnt-card-wallpaper-primary-button = Cychwyn cyfaddasu
 hnt-card-taskbar-tabs-header = Ychwanegwch eich hoff wefannau at eich bar tasgau Windows
 hnt-card-taskbar-tabs-body = Agorwch eich hoff wefannau fel ap gyda holl diogelwch { -brand-product-name }.
-hnt-card-taskbar-tabs-primary-button = Ychwanegu gwefannau i'r bar tasgau
+hnt-card-taskbar-tabs-primary-button = Ychwanegwch wefannau i'r bar tasgau
 hnt-card-extensions-header = Rhowch hwb i { -brand-short-name } gydag estyniadau
 hnt-card-extensions-body = Cyfaddaswch eich pori gyda'n hestyniadau mwyaf poblogaidd.
-hnt-card-extensions-primary-button = Archwilio
+hnt-card-extensions-primary-button = Archwiliwch
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
 hnt-card-last-card-header-start = Iawn. Ewch ati.
