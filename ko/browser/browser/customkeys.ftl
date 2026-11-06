@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = 탭 URL 복사
 customkeys-file-focus-search = 검색 표시줄로 포커스 이동
 customkeys-history-reopen-tab = 닫은 탭 다시 열기
 customkeys-history-reopen-window = 닫은 창 다시 열기
+customkeys-history-reopen-tab-current-window = 현재 창의 마지막으로 닫은 탭 다시 열기
 customkeys-sidebar-toggle = 사이드바 표시/숨기기
 customkeys-view-bookmarks-toolbar = 북마크 도구 모음 표시/숨기기
 customkeys-view-picture-in-picture = 화면 속 화면

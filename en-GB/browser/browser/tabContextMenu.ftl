@@ -34,20 +34,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Close Tabs to Left
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Tabs to Left
+    .accesskey = L
 close-tabs-to-the-start-vertical =
     .label = Close Tabs Above
+    .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Tabs Above
     .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Close Tabs to Right
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Tabs to Right
+    .accesskey = i
 close-tabs-to-the-end-vertical =
     .label = Close Tabs Below
+    .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Tabs Below
     .accesskey = i
 close-other-tabs =
     .label = Close Other Tabs
     .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = All Others
+    .accesskey = O
 reload-tabs =
     .label = Reload Tabs
     .accesskey = R
@@ -85,14 +107,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Open in a New Container Tab
     .accesskey = e
+tab-context-open-in-container =
+    .label = Open in Container
+    .accesskey = e
 move-to-start =
     .label = Move to Start
+    .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Start
     .accesskey = S
 move-to-end =
     .label = Move to End
     .accesskey = E
+move-to-end-alt =
+    .label = End
+    .accesskey = E
 move-to-new-window =
     .label = Move to New Window
+    .accesskey = W
+move-to-new-window-alt =
+    .label = New Window
     .accesskey = W
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -107,6 +142,10 @@ tab-context-close-multiple-tabs2 =
     .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = Close Duplicate Tabs
+    .accesskey = x
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Duplicate Tabs
     .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = Close Duplicates of This Tab
@@ -124,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = New Group
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = New Group
+tab-context-add-tab-to-group-closed-groups =
+    .label = Closed Groups
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -154,6 +197,14 @@ tab-context-move-tabs =
         { $tabCount ->
             [1] Move Tab
            *[other] Move Tabs
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Move to
+           *[other] Move { $tabCount } Tabs to
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)

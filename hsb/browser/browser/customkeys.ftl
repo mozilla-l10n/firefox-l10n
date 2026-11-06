@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = URL rajtarka kopěrować
 customkeys-file-focus-search = Fokusěrujće pytansku lajstu.
 customkeys-history-reopen-tab = Posledni začinjeny rajtark zaso wočinić
 customkeys-history-reopen-window = Posledni začinjene wokno zaso wočinić
+customkeys-history-reopen-tab-current-window = Wočińće posledni začinjeny rajtark aktualneho wokna znowa
 customkeys-sidebar-toggle = Bóčnicu přepinać
 customkeys-view-bookmarks-toolbar = Lajstu zapołožkow přepinać
 customkeys-view-picture-in-picture = Wobraz-we-wobrazu

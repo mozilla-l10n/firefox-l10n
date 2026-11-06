@@ -952,6 +952,14 @@ urlbar-view-context-menu-open-in-window2 = 새 창에서 열기
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = 새 사생활 보호 창에서 열기
     .accesskey = P
+urlbar-view-context-menu-search-in-tab = 새 탭에서 검색
+    .accesskey = w
+urlbar-view-context-menu-search-in-container-tab = 새 컨테이너 탭에서 검색
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = 새 창에서 검색
+    .accesskey = N
+urlbar-view-context-menu-search-in-private-window = 새 사생활 보호 창에서 검색
+    .accesskey = P
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
