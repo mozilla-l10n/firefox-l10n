@@ -52,8 +52,8 @@ dom-manifest-image-unusable = Objekt { $memberName } på index { $index } saknar
 # Example: "icons item at index 2 includes unsupported purposes: a, b."
 dom-manifest-image-unsupported-purposes =
     { $count ->
-        [one] Objekt på { $memberName } på index { $index } inkluderar ett ändamål som inte stöds: { $purposes }.
-       *[other] Objekt på { $memberName } vid index { $index } inkluderar ändamål som inte stöds: { $purposes }.
+        [one] Objektet { $memberName } med index { $index } innehåller ett syfte som inte stöds: { $purposes }.
+       *[other] Objektet { $memberName } med index { $index } innehåller syften som inte stöds: { $purposes }.
     }
 # Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".

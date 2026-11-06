@@ -1425,13 +1425,38 @@ newtab-widget-timer-label-pause =
     .label = Pauze
 newtab-widget-timer-reset =
     .title = Atstatīt
+newtab-widget-timer-menu-notifications = Izslēgt paziņojumus
+newtab-widget-timer-menu-notifications-on = Ieslēgt paziņojumus
 newtab-widget-timer-menu-learn-more = Uzzināt vairāk
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
     .aria-label = Atvērt laika atskaitīšanas izvēlni
     .title = Atvērt laika atskaitīšanas izvēlni
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Galvenie virsraksti
+newtab-daily-briefing-card-menu-dismiss = Noraidīt
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Atjaunināts pirms { $minutes } min
+newtab-widget-message-title = Saglabājiet koncentrēšanos ar sarakstiem un iebūvētu taimeri
+# to-dos stands for "things to do".
+newtab-widget-message-copy = No ātriem atgādinājumiem līdz ikdienas uzdevumiem, koncentrēšanās sesijām un stiepšanās pārtraukumiem — koncentrējieties uz uzdevumiem un ievērojiet laiku.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Viena vieta fokusam, prognozēm un citam
+newtab-widget-message-focus-forecasts-body = Uzturiet savu dienu plūstošu ar { -brand-product-name } logrīkiem. Pārbaudiet laika prognozi, sekojiet līdzi uzdevumiem vai sekojiet līdzi laikam visā pasaulē.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Padariet { -brand-product-name } par savu
+newtab-promo-card-body-addons = Izvēlieties tapeti no mūsu kolekcijas vai izveidojiet savu.
+newtab-promo-card-cta-addons = Izmēģini tagad
+newtab-promo-card-title = Atbalsts { -brand-product-name }
+newtab-promo-card-body = Mūsu sponsori atbalsta mūsu misiju veidot labāku tīmekli
 newtab-promo-card-cta = Uzzināt vairāk
+newtab-promo-card-dismiss-button =
+    .aria-label = Noraidīt
+    .title = Noraidīt
 
 ## Crossword widget
 
@@ -1446,6 +1471,41 @@ newtab-crossword-menu-powered-by-particle = Darbina Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [zero] Ieslēgt { $minutes } minūšu taimeri
+            [one] Ieslēgt { $minutes } minūtes taimeri
+           *[other] Ieslēgt { $minutes } minūšu taimeri
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Apturēt taimeri
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minūte
+            [zero] { $minutes } minūtes
+           *[other] { $minutes } minūtes
+        }
+newtab-widget-timer-decrease-min =
+    .title = Samazināt par 1 minūti
+newtab-widget-timer-increase-min =
+    .title = Palielināt par 1 minūti
+newtab-widget-timer-mode-group =
+    .aria-label = Taimera režīms
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Focus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pārtraukums
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Slēpt taimeri
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Labs darbs
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = Tava atpūta ir beigusies
 # Message shown inside the Timer widget after a focus session ends.
@@ -1536,11 +1596,56 @@ newtab-sports-widget-group-d = D grupa
 newtab-sports-widget-group-e = E grupa
 newtab-sports-widget-results = Iznākums
 
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-civ =
+    .label = Kotdivuāra
+newtab-sports-widget-team-name-label-cod =
+    .label = Kongo DR
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglija
+newtab-sports-widget-team-name-label-sco =
+    .label = Skotija
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Jānosaka
+
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Sāciet Pasaules kausu ar jaunām tapetēm
+newtab-sports-widget-message-wallpapers-body = Ienesiet turnīra laikā savā pārlūkā spēles dienas enerģiju.
+newtab-sports-widget-message-wallpapers-cta = Izvēlieties fonu
+newtab-sports-widget-message-wallpapers-semifinals-title = Iegūstiet jaunu fonu pusfinālam
+newtab-sports-widget-message-wallpapers-semifinals-body = Sagatavojiet augsni Pasaules kausa lielākajām spēlēm.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Pievienot logrīkus
+newtab-sports-widget-message-day-in-play-title = Saglabājiet savu dienu rosīgu ar { -brand-product-name } logrīkiem
+newtab-sports-widget-message-day-in-play-body = Sekojiet līdzi Pasaules kausam, esiet koncentrēti uz uzdevumiem, sekojiet līdzi laikam visā pasaulē un veiciet citas darbības.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Izpētiet logrīkus
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .aria-label = Noraidīt
+    .title = Noraidīt
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Padariet šo telpu par savu
+newtab-activation-window-message-customization-focus-message = Izvēlieties jaunu fona attēlu, pievienojiet saīsnes uz iecienītākajām vietnēm un esiet lietas kursā par jaunumiem, kas jūs interesē.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Sāciet pielāgošanu
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Šī telpa spēlē pēc jūsu noteikumiem
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 

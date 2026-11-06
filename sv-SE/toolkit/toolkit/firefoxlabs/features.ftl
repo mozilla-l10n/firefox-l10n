@@ -98,4 +98,4 @@ experimental-features-tab-context-menu-description = Se en enklare kontextmeny n
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Resursövervakare
-experimental-features-resource-monitor-description = Se uppskattad minnes- och processoranvändning för dina öppna flikar direkt i sidofältet och frigör resurser. <a data-l10n-name="connect">Dela feedback</a>
+experimental-features-resource-monitor-description = Se uppskattad minnes- och processoranvändning för dina öppna flikar direkt i sidofältet och inaktivera flikar du inte använder för att frigöra resurser. <a data-l10n-name="connect">Lämna feedback</a>

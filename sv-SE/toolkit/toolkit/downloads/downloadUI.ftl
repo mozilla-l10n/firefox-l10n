@@ -44,18 +44,16 @@ download-ui-confirm-quit-title =
     { PLATFORM() ->
         [windows]
             { $downloadsCount ->
-                [1] Avbryt hämtning 1 och avsluta { -brand-short-name }?
-                [one] Avbryt { $downloadsCount } hämtningar och avsluta { -brand-short-name }?
-               *[other] Avbryt { $downloadsCount } hämtningar och avsluta { -brand-short-name }?
+                [1] Avbryt nedladdning och avsluta { -brand-short-name }?
+               *[other] Avbryt { $downloadsCount } nedladdningar och avsluta { -brand-short-name }?
             }
        *[other]
             { $downloadsCount ->
-                [1] Avbryt hämtning 1 och avsluta { -brand-short-name }?
-                [one] Stoppa { $downloadsCount } hämtningar och avsluta { -brand-short-name }?
-               *[other] Stoppa { $downloadsCount } hämtningar och avsluta { -brand-short-name }?
+                [1] Avbryt nedladdning och avsluta { -brand-short-name }?
+               *[other] Avbryt { $downloadsCount } nedladdningar och avsluta { -brand-short-name }?
             }
     }
-download-ui-confirm-quit-message = { -brand-short-name } försöker återuppta nedladdningar när den öppnas igen, men framsteg kan gå förlorade.
+download-ui-confirm-quit-message = { -brand-short-name } försöker fortsätta hämtningarna när programmet öppnas igen, men hämtade data kan gå förlorade.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] Avsluta { -brand-short-name }
@@ -63,23 +61,20 @@ download-ui-confirm-quit-button =
     }
 download-ui-confirm-offline-title =
     { $downloadsCount ->
-        [1] Avbryt 1 hämtning och koppla ned?
-        [one] Stoppa { $downloadsCount } hämtningar och koppla ned?
-       *[other] Stoppa { $downloadsCount } hämtningar och koppla ned?
+        [1] Avbryt en nedladdning och koppla ned?
+       *[other] Avbryt { $downloadsCount } nedladdningar och koppla ned?
     }
-download-ui-confirm-offline-message = { -brand-short-name } försöker återuppta nedladdningar när du är online igen, men framsteg kan gå förlorade.
+download-ui-confirm-offline-message = { -brand-short-name } försöker återuppta nedladdningarna när du är online igen, men vissa framsteg kan gå förlorade.
 download-ui-confirm-offline-button = Koppla ned
 download-ui-confirm-private-browsing-title =
     { $downloadsCount ->
-        [1] Vill du stoppa 1 nedladdningen och stänga det här privata fönstret?
-        [one] Stoppa { $downloadsCount } hämtningar och stäng det här privata fönstret?
-       *[other] Stoppa { $downloadsCount } hämtningar och stäng det här privata fönstret?
+        [1] Avbryt 1 nedladdning och stäng detta privata fönster?
+       *[other] Avbryt { $downloadsCount } nedladdningar och stäng detta privata fönster?
     }
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
-        [1] Du kommer inte att kunna återuppta den här hämtningen.
-        [one] Du kommer inte att kunna återuppta dessa hämtningar.
-       *[other] Du kommer inte att kunna återuppta dessa hämtningar.
+        [1] Du kommer inte att kunna återuppta den här nedladdningen.
+       *[other] Du kommer inte att kunna återuppta dessa nedladdningar.
     }
 download-ui-confirm-private-browsing-button = Stäng fönster
 

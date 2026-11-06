@@ -654,15 +654,16 @@ hnt-card-pin-body =
 hnt-card-mobile-header = Skydda mobilen med inbyggda funktioner
 hnt-card-mobile-body = Ladda ner { -brand-product-name } till mobilen för bättre integritet när du är på språng.
 hnt-card-mobile-primary-button = Skaffa { -brand-product-name } för mobilen.
-hnt-card-wallpaper-body = Gör att den här skärmen känns som hemma med en bakgrund du älskar.
+hnt-card-wallpaper-header = Välj en ny bakgrundsbild
+hnt-card-wallpaper-body = Få den här skärmen att kännas som hemma med en bakgrund du gillar.
 hnt-card-wallpaper-primary-button = Börja anpassa
-hnt-card-taskbar-tabs-header = Lägg till dina favoritplatser i aktivitetsfältet i Windows
-hnt-card-taskbar-tabs-body = Öppna dina mest besökta webbplatser som en app med alla { -brand-product-name }:s skydd.
+hnt-card-taskbar-tabs-header = Fäst dina favoritwebbplatser i aktivitetsfältet i Windows
+hnt-card-taskbar-tabs-body = Öppna dina mest besökta webbplatser som appar, med alla skydd i { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Lägg till webbplatser i aktivitetsfältet
-hnt-card-extensions-header = Öka { -brand-short-name } med tillägg
-hnt-card-extensions-body = Anpassa din surfning med våra mest älskade tillägg.
+hnt-card-extensions-header = Få ut mer av { -brand-short-name } med tillägg
+hnt-card-extensions-body = Anpassa din surfupplevelse med våra populäraste tillägg.
 hnt-card-extensions-primary-button = Utforska
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
-hnt-card-last-card-header-start = Allt klart. Gå och gör din grej.
+hnt-card-last-card-header-start = Allt är klart. Gör det du är bäst på.
 hnt-card-last-card-header-end = Spårningsskydd är på.

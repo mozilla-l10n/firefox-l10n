@@ -205,8 +205,7 @@ tab-context-move-tabs3 =
     .label =
         { $tabCount ->
             [1] Flytta till
-            [one] Flytta { $tabCount } flikat till
-           *[other] Flytta { $tabCount } flikat till
+           *[other] Flytta { $tabCount } flikar till
         }
     .accesskey = F
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
