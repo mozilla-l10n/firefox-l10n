@@ -684,6 +684,11 @@ aboutaddons-themes-picker-heading =
             [with-cases] Vzhledy pro { -brand-product-name(case: "acc") }
            *[no-cases] Vzhledy pro aplikaci { -brand-product-name }
         }
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Klasické vzhledy
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Zobrazit více
 aboutaddons-themes-picker-see-less = Zobrazit méně

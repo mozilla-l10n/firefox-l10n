@@ -93,6 +93,9 @@ permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un k
 
 ## Exceptions - Clear on Shutdown
 
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = Atļautās tīmekļvietnes - papildinājumu uzstādīšana
 permissions-exceptions-shutdown-clearing-desc = Var norādīt, kuru tīmekļvietņu dati tiks paturēti, kad { -brand-short-name } notīra vēsturi pēc aizvēršanas. Jāievada pilnīga vietnes adrese, kuru ir vēlēšanās pārvaldīt, un jāklikšķina “Atļaut”
 
 ## Exceptions - HTTPS-Only Mode

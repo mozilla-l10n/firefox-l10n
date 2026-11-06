@@ -382,6 +382,15 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [many] Ano, odebrat hesla
        *[other] Ano, odebrat hesla
     }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Ano, smazat heslo
+        [one] Ano, smazat heslo
+        [few] Ano, smazat hesla
+       *[other] Ano, smazat hesla
+    }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Pro zobrazení uložených hesel zadejte své hlavní heslo.
 # This string informs the user their primary password is used to authenticate and access their passwords

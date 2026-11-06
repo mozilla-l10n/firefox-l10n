@@ -144,3 +144,47 @@ autofill-card-search-term-credit-cards = kredītkartes, kredīts, kartes, debetk
 
 # The dialog title for creating a passport in browser preferences.
 autofill-add-passport-title = Pievienot pasi
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-country =
+    .label = Valsts
+autofill-passport-number =
+    .label = Numurs
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Izdošanas datums
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Derīguma termiņš
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = YYYY
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Saglabāt pasi?
+passport-capture-save-doorhanger-description = Saglabājiet informāciju mapē { -brand-short-name }, lai varētu ātri aizpildīt veidlapas.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Saglabāt
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = Ne tagad
+    .accessKey = N
+passport-capture-never-save-button =
+    .label = Nekad nesaglabājiet pases
+    .accessKey = N

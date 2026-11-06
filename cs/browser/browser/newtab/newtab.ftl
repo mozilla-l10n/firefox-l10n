@@ -1498,6 +1498,9 @@ newtab-widget-menu-move-left = Doleva
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Doprava
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgety
 newtab-widget-size-small = Malý
 newtab-widget-size-medium = Střední
 newtab-widget-size-large = Velký

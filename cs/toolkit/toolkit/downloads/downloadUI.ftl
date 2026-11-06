@@ -35,6 +35,8 @@ download-ui-cancel-downloads-ok =
         [1] Zrušit stahování
        *[other] Zrušit { $downloadsCount } stahování
     }
+download-ui-confirm-cancel-button = Zrušit
+download-ui-confirm-private-browsing-button = Zavřít okno
 
 ##
 

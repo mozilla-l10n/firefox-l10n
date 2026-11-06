@@ -881,3 +881,7 @@ welcome-back-onboarding-card-label-tabs = Uspořádejte si panely pomocí svisl�
 welcome-back-onboarding-card-label-vpn = Skryjte se díky integrované VPN
 welcome-back-onboarding-card-label-pdf = Zvýrazňujte, podepisujte a upravujte soubory PDF
 welcome-back-onboarding-card-tilebutton-label = Vyzkoušet
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Import vašich dat

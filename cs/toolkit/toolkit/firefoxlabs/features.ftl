@@ -107,3 +107,6 @@ experimental-features-tab-notes-description = Poznámky na panelech jsou experim
 experimental-features-tab-context-menu =
     .label = Zjednodušená nabídka nad panelem
 experimental-features-tab-context-menu-description = Zobrazte jednodušší kontextovou nabídku po klepnutí pravým tlačítkem myši na panel. Je navržen tak, aby usnadňoval nalezení běžných akcí. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Správce procesů

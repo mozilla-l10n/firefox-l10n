@@ -491,14 +491,29 @@ smartwindow-switcher-callout = Jebkurā laikā pārslēdzieties starp viedajām 
 
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } Lietošanas noteikumi
+smartwindow-existing-user-fx-tou-body = Lai izmantotu { -smart-window-brand-name }, lūdzu, piekrītiet <a data-l10n-name="terms_of_use">Lietošanas noteikumiem</a> un atjauninātajam <a data-l10n-name="privacy_notice">Paziņojumam par konfidencialitāti</a>.
+smartwindow-existing-user-fx-tou-accept = Piekrist
 smartwindow-existing-user-fx-tou-go-back = Doties atpakaļ
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Padariet { -smart-window-brand-name } par savu iecienītāko
+smartwindow-onboarding-subtitle = Apkopojiet, salīdziniet un uzdodiet jautājumus bez vilcināšanās.
 smartwindow-onboarding-primary-button = Turpināt
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } talismans (komplekts) ar zvaigznes aksesuāriem
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Vai vēlaties, lai palīgs paliktu aizvērts?
+smartwindow-sidebar-auto-open-callout-body = Jūs to joprojām varat atvērt, kad vien tas ir nepieciešams.
+smartwindow-sidebar-auto-open-callout-accept = Jā, atstāt aizvērtu
+smartwindow-sidebar-auto-open-callout-dismiss = Nē, paldies
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistents paliks aizvērts
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Izmantojiet “Jautāt”, lai to atvērtu jebkurā lapā. To var mainīt jebkurā laikā sadaļā <a data-l10n-name="settings">Iestatījumi</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Sapratu
 
 ## Theme Picker screen strings

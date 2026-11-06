@@ -18,6 +18,14 @@ about-processes-shutdown-tab =
     .title = Zavřít panel
 about-processes-unload-tab =
     .title = Uvolní panel
+about-processes-reload-tab =
+    .title = Obnovit panel
+about-processes-select-all-tabs =
+    .title = Vybrat všechny panely
+about-processes-expand-all-sites =
+    .title = Rozbalit vše
+about-processes-collapse-all-sites =
+    .title = Sbalit vše
 about-processes-go-to-tab =
     .title = Přejde na panel
 # Profiler icons
@@ -31,6 +39,14 @@ about-processes-profile-process =
             [few] Profilovat všechna vlákna tohoto procesu po dobu { $duration } sekund
            *[other] Profilovat všechna vlákna tohoto procesu po dobu { $duration } sekund
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Hledat panely
+    .placeholder = Hledat panely
 
 ## Column headers
 
@@ -137,6 +153,28 @@ about-processes-tab-count =
         [few] { $count } panely
        *[other] { $count } panelů
     }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } panel)
+        [few] ({ $count } panely)
+       *[other] ({ $count } panelů)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Zrušit výběr
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Uvolnit
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Obnovit
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Zavřít
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -188,6 +226,10 @@ about-processes-cpu-fully-idle = nečinný
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = nečinný
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0,1 %
 
@@ -207,6 +249,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Průběh: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 

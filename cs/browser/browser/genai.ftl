@@ -108,10 +108,13 @@ genai-shortcut-button =
     .aria-label = Zeptat se { $provider }
 genai-menu-new-badge = Nové
 genai-menu-summarize-page = Shrnutí stránky
+genai-menu-summarize-with-ai = Shrnout pomocí AI
 genai-input-ask-smart-window =
     .placeholder = Zeptejte se…
 genai-input-ask-generic =
     .placeholder = Zeptat se AI chatbota…
+genai-input-ask-ai =
+    .placeholder = Zeptat se AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Zeptat se { $provider }…
