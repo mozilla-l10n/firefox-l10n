@@ -131,7 +131,6 @@ contextual-manager-passwords-remove-all-confirm-button =
 contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
         [1] Ta bort
-        [one] Ta bort alla
        *[other] Ta bort alla
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
@@ -152,8 +151,7 @@ contextual-manager-passwords-remove-all-message-sync =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-message-sync =
     { $total ->
-        [1] Detta tar bort lösenordet från { -brand-short-name } på alla enheter som synkroniserar dina lösenord. Det går inte att ångra.
-        [one] Detta tar bort dem från { -brand-short-name } på alla enheter som synkroniserar dina lösenord. Detta går inte att ångra.
+        [1] Detta tar bort det från { -brand-short-name } på alla enheter som synkroniserar dina lösenord. Detta går inte att ångra.
        *[other] Detta tar bort dem från { -brand-short-name } på alla enheter som synkroniserar dina lösenord. Detta går inte att ångra.
     }
 contextual-manager-passwords-origin-label = Webbplats
@@ -360,7 +358,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
 contextual-manager-passwords-delete-all-passwords-checkbox =
     { $total ->
         [1] Ja, ta bort lösenord
-        [one] Ja, ta bort lösenord
        *[other] Ja, ta bort lösenord
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.

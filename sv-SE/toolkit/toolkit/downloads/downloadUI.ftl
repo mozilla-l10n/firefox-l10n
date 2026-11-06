@@ -81,7 +81,7 @@ download-ui-confirm-private-browsing-message =
         [one] Du kommer inte att kunna återuppta dessa hämtningar.
        *[other] Du kommer inte att kunna återuppta dessa hämtningar.
     }
-download-ui-confirm-private-browsing-button = Stäng fönstret
+download-ui-confirm-private-browsing-button = Stäng fönster
 
 ##
 
