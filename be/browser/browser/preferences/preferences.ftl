@@ -1211,6 +1211,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Гісторыя
     .accesskey = Г
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Адкрытыя карткі
+    .tooltiptext = Адкрытыя карткі з іншых вашых прылад
+    .accesskey = к
 sync-engine-tabs =
     .label = Адкрытыя карткі
     .tooltiptext = Спіс адкрытага на ўсіх сінхранізаваных прыладах

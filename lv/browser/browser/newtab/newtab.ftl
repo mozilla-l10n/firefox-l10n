@@ -234,14 +234,49 @@ newtab-privacy-message-info-10-cta = Dodieties uz parolēm
 newtab-privacy-message-info-11 = Uzziniet, kā { -brand-short-name } palīdz saglabāt jūsu pārlūkošanu privātāku.
 newtab-privacy-message-info-11-cta = Uzzināt vairāk
 newtab-privacy-message-info-12 = Izsekotāju bloķēšana var palīdzēt ietaupīt joslas platumu ierobežotos datu plānos.
+newtab-privacy-message-info-12-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-info-13 = { -brand-short-name } bloķē izsekotājus, atbrīvojot joslas platumu vienmērīgākai straumēšanai.
+newtab-privacy-message-info-13-cta = Skatīt aizsardzības iestatījumus
 
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Uzziniet, vai jūsu personas dati parādās datu noplūdes gadījumā.
 newtab-privacy-message-promo-monitor-1-cta = Uzzināt vairāk
+newtab-privacy-message-promo-monitor-2 = Aizsargājiet savu informāciju ar bezmaksas datu pārkāpumu uzraudzību līdz pat 20 epastiem.
 newtab-privacy-message-promo-monitor-2-cta = Uzzināt vairāk
+newtab-privacy-message-promo-signin-1 = Šifrējiet grāmatzīmes, paroles un cilnes visās ierīcēs, izmantojot savu { -vendor-short-name } kontu.
+newtab-privacy-message-promo-signin-1-cta = Pieteikties
+newtab-privacy-message-promo-vpn-1 = Iepērkaties publiskajā Wi-Fi tīklā? Ieslēdziet iebūvēto VPN papildu aizsardzībai.
+newtab-privacy-message-promo-vpn-1-cta = Atvērt VPN
+newtab-privacy-message-promo-vpn-2 = Vai izmantojat lidostas Wi-Fi? Aizsargājiet savu pārlūkošanu, ieslēdzot iebūvēto VPN.
+newtab-privacy-message-promo-vpn-2-cta = Atvērt VPN
+newtab-privacy-message-promo-vpn-3 = Ieslēdziet iebūvēto VPN, lai saglabātu savu atrašanās vietu privātāku.
+newtab-privacy-message-promo-vpn-3-cta = Atvērt VPN
+newtab-privacy-message-promo-private-window-1 = Izmēģiniet privātu logu, lai pārlūkotu tīmekli privātāk, izmantojot koplietotu datoru.
+newtab-privacy-message-promo-private-window-1-cta = Atvērt privātu logu
+newtab-privacy-message-promo-relay-1 = Saglabājiet savu īsto epasta adresi cilvēkiem, kuriem uzticaties; reģistrācijai izmantojiet epasta masku.
+newtab-privacy-message-promo-relay-1-cta = Iegādājieties maskas
+newtab-privacy-message-promo-relay-2 = Aizsargā savu iesūtni no mēstulēm ar bezmaksas epasta aizsegšanu.
+newtab-privacy-message-promo-relay-2-cta = Iegūt aizsegus
+newtab-privacy-message-promo-relay-3 = Iegūstiet 50 bezmaksas epasta aizsegus, lai palīdzētu aizsargāt savu īsto epasta adresi.
+newtab-privacy-message-promo-relay-3-cta = Iegūt aizsegus
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] Šonedēļ bloķēts { $count } izsekotājs. Skatiet, ko { -brand-short-name } slēpj no jums.
+        [zero] Šonedēļ bloķēti { $count } izsekotāji. Skatiet, ko { -brand-short-name } slēpj no jums.
+       *[other] Šonedēļ bloķēti { $count } izsekotāji. Skatiet, ko { -brand-short-name } slēpj no jums.
+    }
 
 ## Strings for the Finance widget
 
