@@ -46,6 +46,14 @@ download-ui-confirm-quit-button =
        *[other] { -brand-short-name } skónčić
     }
 download-ui-confirm-offline-button = Offline hić
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Njemóžeće tute sćehnjenje pokročować.
+        [one] Njemóžeće tute sćehnjenje pokročować.
+        [two] Njemóžeće tutej { $downloadsCount } sćehnjeni pokročować.
+        [few] Njemóžeće tute { $downloadsCount } sćehnjenja pokročować.
+       *[other] Njemóžeće tute { $downloadsCount } sćehnjenjow pokročować.
+    }
 download-ui-confirm-private-browsing-button = Wokno začinić
 
 ##
