@@ -38,7 +38,7 @@ home-prefs-stories-header2 =
     .description = Изключително съдържание, подбрано от семейството на  { -brand-product-name }
     .label = Истории
 home-prefs-widgets-header =
-    .label = Приспособления
+    .label = Уиджети
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Таймер
@@ -49,7 +49,7 @@ home-prefs-sports-widget-header =
 home-prefs-clocks-header =
     .label = Часовник
 home-prefs-manage-widgets-link =
-    .label = Управление на приставките
+    .label = Управление на уиджетите
 home-prefs-firefox-logo-header =
     .label = Лого на { -brand-short-name }
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
@@ -157,6 +157,36 @@ newtab-solitaire-widget-open-menu-button =
     .title = Отваряне на меню за пасианс
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Научете повече
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Рексъм АФК
+    .menu-label = Отворете менюто на Wrexham AFC
+    .title = Рексъм АФК
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Мачове
+newtab-widget-wrexhamafc-view-table = Класиране
+newtab-widget-wrexhamafc-view-fixtures = Планирани срещи
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Плакати
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-widgets = Уиджети
 
 ## Search box component.
 
@@ -400,6 +430,10 @@ newtab-custom-widget-picture-toggle =
 # Game displays within an iframe with name “Yahoo Solitaire”
 newtab-custom-widget-solitaire-toggle =
     .label = Пасианс
+newtab-custom-widget-section-title = Уиджети
+newtab-custom-widget-section-toggle =
+    .label = Уиджети
+newtab-widget-manage-title = Уиджети
 newtab-widget-manage-widget-button =
     .label = Управление на приставките
 # Tooltip for close button
@@ -407,6 +441,14 @@ newtab-custom-close-menu-button =
     .aria-label = Затваряне на менюто
     .title = Затваряне
 newtab-custom-settings = Настройки
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Външен вид
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Вижте още теми
 
 ## New Tab Wallpapers
 
@@ -565,6 +607,23 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-checklist2 =
     .aria-label = Редактиране на името на списъка
     .placeholder = Задачи
+newtab-widget-section-title = Уиджети
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Уиджети
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .aria-label = Скриване на всички уиджети
+    .title = Скриване на уиджетите
+newtab-widget-section-menu-hide-all = Скриване на уиджетите
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Показване на повече уиджети
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Показване на по-малко уиджети
 newtab-widget-lists-name-default = Задачи
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -577,6 +636,12 @@ newtab-promo-card-cta = Научете повече
 
 newtab-sports-widget-done-button =
     .label = Готово
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
+
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Добавяне на уиджети
 
 ## Strings for the Clock widget
 

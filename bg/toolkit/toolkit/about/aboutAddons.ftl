@@ -446,3 +446,10 @@ mlmodel-heading = Управление на локални AI модели
 mlmodel-description = Някои функции и разширения на { -brand-short-name } се захранват от AI модели, които работят локално на вашето устройство. Този подход защитава вашата поверителност и в много случаи ускорява производителността. <a data-l10n-name="learn-more">Научете повече</a>
 # Label for the aggregated value of all files for a model
 mlmodel-addon-detail-totalsize-label = Размер на файла
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Външен вид

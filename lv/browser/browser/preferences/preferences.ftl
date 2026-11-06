@@ -351,6 +351,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Tālummainīt tikai tekstu
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = Ja ir ieslēgta opcija “Tikai teksta tālummaiņa” un jūsu noklusējuma tālummaiņa nav 100%, dažās vietnēs saturs var netikt pareizi parādīts.
 language-header = Valoda
 choose-language-description = Izvēlies vēlamo valodu, kurā attēlot lapas
 website-language-heading =
@@ -365,6 +367,18 @@ website-add-language =
 website-add-language-button =
     .aria-label = Pievienot atlasīto valodu
     .title = Pievienot atlasīto valodu
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Noņemt { $locale }
+    .title = Noņemt { $locale }
 choose-button =
     .label = Izvēlēties...
     .accesskey = v
@@ -374,19 +388,44 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Palaist no jauna { -brand-short-name }, lai pielietotu šīs izmaiņas
 confirm-browser-language-change-button = Pielietot un parstartēt
+browser-language-heading =
+    .description = Izvēlieties valodu, kurā tiks rādītas { -brand-short-name } izvēlnes, ziņojumi un paziņojumi.
+    .label = Pārlūka valoda
+browser-language-preferred-label =
+    .label = Vēlamā valoda
+browser-language-fallback-label =
+    .description = Izmanto, ja vēlamā valodas lokalizācija nav pilnīga.
+    .label = Rezerves valoda
 browser-language-install-error =
     .message = { -brand-short-name } pašlaik nevar atjaunināt valodas. Pārbaudiet, vai ir izveidots savienojums ar internetu un mēģiniet vēlreiz.
 fx-translate-web-pages = { -translations-brand-name }
 translate-exceptions =
     .label = Izņēmumi…
     .accesskey = z
+settings-translations-header =
+    .aria-label = Tulkojumi
+    .description = Tulkojiet lapas vai atlasīto tekstu. Lai aizsargātu jūsu privātumu, tulkojumi tiek glabāti jūsu ierīcē.
+    .label = Tulkojumi
+settings-translations-offer-to-translate-label =
+    .label = Piedāvāt pilnas lapas tulkojumu
 settings-translations-more-settings-button =
     .description = Iestati vēlamo valodām, tīmekļvietnēm un bezsaistes tulkošanai!
     .label = Vairāk tulkošanas iestatījumu
+settings-translations-subpage-header =
+    .heading = Vairāk tulkošanas iestatījumu
+settings-translations-subpage-speed-up-translation-header =
+    .description = Lejupielādējiet visas valodas, lai veiktu ātrāku tulkošanu un tulkošanu bezsaistē.
+    .label = Paātrināt tulkošanu
+settings-translations-subpage-automatic-translation-header =
+    .label = Automātiskā tulkošana
 settings-translations-subpage-always-translate-header =
     .label = Vienmēr tulkot šīs valodas
 settings-translations-subpage-never-translate-header =
     .label = Nekad netulkot šīs valodas
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nekad netulkot šīs vietnes
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Lai pievienotu vietni, atveriet tulkošanas paneli <img data-l10n-name="translations-icon"/>, atlasiet tulkošanas iestatījumus <img data-l10n-name="settings-icon"/> un pēc tam izvēlieties “Nekad netulkot šo vietni”.
 settings-translations-subpage-language-select-option =
     .label = Pievienot valodu
 settings-translations-subpage-language-add-button =
@@ -394,19 +433,51 @@ settings-translations-subpage-language-add-button =
     .title = Pievienot valodu
 settings-translations-subpage-download-languages-header =
     .label = Lejupielādēt valodas
+settings-translations-subpage-download-languages-select-option =
+    .label = Izvēlieties valodu
+settings-translations-subpage-download-languages-button =
+    .aria-label = Lejupielādēt valodu
+    .title = Lejupielādēt valodu
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
 settings-translations-subpage-no-languages-downloaded =
     .label = Nav lejupielādēta neviena valoda
 settings-translations-subpage-no-languages-added =
     .label = Nav pievienota neviena valoda
+settings-translations-subpage-download-progress = Notiek lejupielāde…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Nevarēja lejupielādēt { $language } ({ $size } MB)
 settings-translations-subpage-download-retry-button =
     .label = Mēģināt vēlreiz
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Dzēst { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Dzēst
+settings-translations-subpage-download-cancel-button =
+    .label = Atcelt
+settings-translations-subpage-no-sites-added =
+    .label = Nav pievienotas vietnes
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Izmantot operētājsistēmas “{ $localeName }” iestatījumus, lai formatētu datumus, laiku, skaitļus un mērus.
+settings-spellcheck-header =
+    .label = Pareizrakstības pārbaude
 check-user-spelling =
     .label = Rakstot pārbaudīt pareizrakstību
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Lejupielādēt vārdnīcas
+spellcheck-promo =
+    .heading = Kā lietot pareizrakstības pārbaudi
+    .message = Ar peles labo pogu noklikšķiniet uz teksta lauka, lai ieslēgtu vai izslēgtu pareizrakstības pārbaudi vai mainītu valodu. Ne visi lauki atbalsta pareizrakstības pārbaudi.
 
 ## General Section - Files and Applications
 
@@ -415,11 +486,17 @@ download-save-files-header =
     .label = Vieta, kur saglabāt datnes:
 download-save-where-3 =
     .aria-label = Vieta, kur saglabāt datnes:
+download-always-ask-where2 =
+    .label = Pirms lejupielādes jautājiet, kur saglabāt failus
+    .accesskey = a
 download-private-browsing-delete2 =
     .label = Aizverot izdzēst privāto logu lejupielādes
     .accesskey = i
 applications-header = Lietotnes
 applications-description = Izvēlies, kā { -brand-short-name } rīkosies ar no tīmekļa vai lietotnēm, kuras izmanto pārlūkošanas laikā, lejupielādētajām datnēm!
+applications-setting2 =
+    .description = Izvēlieties, kā { -brand-short-name } apstrādā lejupielādētos failus un saturu.
+    .label = Faili un lietojumprogrammas
 applications-filter =
     .placeholder = Meklēt pēc datņu tipa vai lietotnes
 applications-type-column =
@@ -493,8 +570,14 @@ applications-handle-new-file-types-description = Ko { -brand-short-name } vajadz
 applications-save-for-new-types =
     .label = Saglabāt datnes
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = Automātiski saglabāt failus
+    .accesskey = s
 applications-ask-before-handling =
     .label = Vaicāt, vai atvērt vai saglabāt datnes
+    .accesskey = a
+applications-ask-before-handling2 =
+    .label = Lūgt atvērt vai saglabāt failus
     .accesskey = a
 drm-group =
     .label = Digitālā satura tiesību pārvaldības (DRM) saturs
@@ -508,11 +591,16 @@ update-application-version = Versija { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Parādīt atjauninājumu vēsturi
     .accesskey = v
+update-application-installation =
+    .label = Uzstādīšana
 update-application-radio-group =
     .aria-label = Uzstādīšana
 update-application-auto-2 =
     .label = Automātiski uzstādīt atjauninājumus (ieteicams)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Pārbaudiet atjauninājumus, bet izvēlieties instalēšanas laiku
+    .accesskey = P
 update-application-background-enabled =
     .label = Kad { -brand-short-name } nav palaists
     .accesskey = K
@@ -773,6 +861,9 @@ search-add-engine =
 search-add-engine-2 =
     .label = Pievienot meklētāju
     .accesskey = P
+search-edit-engine =
+    .label = Labot
+    .accesskey = L
 search-find-more-link = Atrast vēl meklētājus
 search-filtering-for-add-engine = Pievienot meklētāju
 # This warning is displayed when the chosen keyword is already in use
@@ -782,7 +873,12 @@ search-keyword-warning-title = Šāds atslēgas vārds jau tiek izmantots
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jūs izvēlējāties atslēgas vārdu, ko šobrīd jau izmanto "{ $name }". Lūdzu, izvēlieties citu.
 search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau izmanto kāda grāmatzīme. Lūdzu, izvēlieties citu.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Jau pastāv meklētājprogramma ar nosaukumu “{ $name }”. Lūdzu, izvēlieties citu nosaukumu.
 remove-engine-confirmation = Vai tiešām noņemt šo meklētāju?
+remove-engine-remove = Noņemt
 remove-addon-engine-alert = Lai noņemtu šo meklētāju, jānoņem saistītais papildinājums.
 search-engine-group =
     .label = Noklusējuma meklētājs
@@ -794,17 +890,33 @@ search-section =
 
 ## Containers Section
 
+containers-section-header2 =
+    .heading = Konteinera iestatījumi
+containers-card-header2 =
+    .description = Atdaliet sīkfailus pa konteineriem, lai varētu izmantot dažādus kontus vienā vietnē un ierobežot izsekošanu starp vietnēm.
+    .label = Konteineri
 containers-add-button2 =
     .label = Pievienot jaunu konteineru
     .accesskey = a
 containers-list =
     .aria-label = Konteineri
+containers-new-tab-check3 =
+    .label = Katrai jaunai cilnei atlasiet konteineru
+    .accesskey = s
 # Checkbox in the Containers settings. By default, when a link is opened from
 # another application, Firefox tries to pick a matching container for it. When
 # this checkbox is checked, such links always open outside of any container.
 containers-external-links-check =
     .label = Neizmantot konteinerus saitēm, kas atvērtas no ārējām lietotnēm
     .accesskey = N
+containers-new-tab-check2 =
+    .description = Tas atvērs konteineru izvēlni katru reizi, kad nospiedīsiet pogu Atvērt jaunu cilni.
+    .label = Katrai jaunai cilnei atlasiet konteineru
+    .accesskey = s
+containers-settings-button2 =
+    .title = Iestatījumi
+containers-remove-button3 =
+    .title = Dzēst
 containers-sites-card-header =
     .description = Izvēlies vietnei konteineru, un { -brand-short-name } izmantos to katru reizi, kad tiks atvērta vietne!
     .label = Vietnēm atbilstoši konteineri
@@ -817,11 +929,25 @@ containers-sites-add-button =
 containers-site-container-select = { $site } konteiners
 containers-site-remove-button =
     .title = Izdzēst
+containers-remove-button2 =
+    .title = Noņemt
 
 ## Account and sync
 
 sync-group-label =
     .label = Vienādošana
+account-group-label2 =
+    .label = Konts
+account-disabled-group =
+    .description = Konta iestatījumi nav pieejami.
+    .label = Konts
+account-placeholder2 =
+    .description = Pierakstieties un saglabājiet savus datus privātus, šifrētus un uzreiz pieejamus visur, kur izmantojat { -brand-short-name }.
+    .label = Jūs neesat pierakstījies
+account-sync-section =
+    .heading = Konts un vienādošana
+pane-account-sync-title2 = Konts un vienādošana
+    .title = Konts un vienādošana
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -831,6 +957,12 @@ sync-signedout-description2 = Vienādo savas grāmatzīmes, vēsturi, cilnes, pa
 sync-signedout-account-signin3 =
     .label = Piesakies, lai vienādotu…
     .accesskey = I
+sync-signedout-account-signin-4 =
+    .label = Pierakstieties savā kontā, lai sāktu sinhronizāciju
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Pieteikties
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -867,7 +999,18 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nav apstiprināts.
+sync-signedin-unverified2 =
+    .description = Pārbaudiet savu iesūtni, lai apstiprinātu savu kontu un padarītu to oficiālu.
+    .label = { $email } vēl nav apstiprināts
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
+sync-signedin-login-failure2 =
+    .description = Pierakstieties vēlreiz, lai atjaunotu savienojumu un sāktu datu vienādošanu.
+    .label = Jūs esat izrakstījies no { $email }
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .description = { $email }
+    .label = { $name }
 
 ##
 
