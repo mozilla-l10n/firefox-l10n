@@ -137,7 +137,7 @@ tab-context-close-multiple-tabs2 =
     .accesskey = m
 tab-context-close-duplicate-tabs =
     .label = Cerrar pestañas duplicadas
-    .accesskey = u
+    .accesskey = x
 # The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
 tab-context-close-duplicate-tabs-alt =
     .label = Pestañas duplicadas
