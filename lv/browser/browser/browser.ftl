@@ -992,6 +992,14 @@ urlbar-view-context-menu-open-in-window2 = Atvērt jaunā logā
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Atvērt jaunā privātā logā
     .accesskey = P
+urlbar-view-context-menu-search-in-tab = Meklēt jaunā cilnē
+    .accesskey = M
+urlbar-view-context-menu-search-in-container-tab = Meklēt jaunā konteinera cilnē
+    .accesskey = n
+urlbar-view-context-menu-search-in-window = Meklēt jaunā logā
+    .accesskey = j
+urlbar-view-context-menu-search-in-private-window = Meklēt jaunā privātā logā
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

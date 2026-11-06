@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Ievietot starpliktuvē cilnes URL
 customkeys-file-focus-search = Uzmanību meklēšanas joslai
 customkeys-history-reopen-tab = Atkārtoti atvērt pēdējo aizvērto cilni
 customkeys-history-reopen-window = Atkārtoti atvērt pēdējo aizvērto logu
+customkeys-history-reopen-tab-current-window = Atkārtoti atvērt pašreizējā loga pēdējo aizvērto cilni
 customkeys-sidebar-toggle = Pārslēgt sānjoslu
 customkeys-view-bookmarks-toolbar = Pārslēgt grāmatzīmju rīkjoslu
 customkeys-view-picture-in-picture = Attēls attēlā
