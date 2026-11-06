@@ -32,6 +32,11 @@ tab-splitview-splitter =
     .aria-label = 분할 화면 탭 크기 조정
 tab-devtools-splitter =
     .aria-label = 개발자 도구 패널 크기 조정
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = 그룹에 탭 추가
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -256,6 +261,13 @@ tab-context-move-tab-to-new-group =
            *[other] 새 그룹에 탭 추가
         }
     .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] 그룹에 추가
+           *[other] 그룹에 탭 { $tabCount }개 추가
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -416,6 +428,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = 분할 화면 종료
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = 탭 분할 해제
     .accesskey = t
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

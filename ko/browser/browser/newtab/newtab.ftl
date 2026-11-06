@@ -180,6 +180,9 @@ newtab-privacy-empty-state = { -brand-short-name }는 추적기를 자동으로 
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = 누적된 차단 횟수를 여기에서 확인해 보세요.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = 더 적은 추적기, 더 빠른 탐색.
+newtab-privacy-empty-state-small-message = 웹 탐색을 시작하고 차단 기능을 확인해 보세요.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1391,6 +1394,12 @@ newtab-widget-menu-move-left = 왼쪽
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = 오른쪽
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = 홈
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = 위젯
 newtab-widget-size-small = 작게
 newtab-widget-size-medium = 중간
 newtab-widget-size-large = 크게
