@@ -1474,6 +1474,9 @@ newtab-widget-menu-move-right = De
 # Submenu item under "Move"; pins the widget to Home, the New Tab space the
 # page opens on.
 newtab-widget-menu-move-to-home = Cartref
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Teclynnau
 newtab-widget-size-small = Bach
 newtab-widget-size-medium = Canolig
 newtab-widget-size-large = Mawr
