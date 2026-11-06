@@ -98,4 +98,4 @@ experimental-features-tab-context-menu-description = Galwch weld dewislen cyd-de
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Monitor adnoddau
-experimental-features-resource-monitor-description = Dyma amcangyfrif o gof a defnydd CPU ar gyfer eich tabiau agored yn union yn y bar ochr, caewch dabiau sydd ddim yn cael eu defnyddio i ryddhau adnoddau. <a data-l10n-name="connect">Rhannu adborth</a>
+experimental-features-resource-monitor-description = Dyma amcangyfrif o gof a defnydd CPU ar gyfer eich tabiau agored yn eich bar ochr, caewch dabiau sydd ddim yn cael eu defnyddio i ryddhau adnoddau. <a data-l10n-name="connect">Rhannu adborth</a>

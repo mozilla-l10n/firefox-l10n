@@ -86,7 +86,7 @@ download-ui-confirm-private-browsing-title =
         [1] Atal 1 llwytho a chau'r Ffenestr Breifat hon?
         [zero] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
         [one] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
-        [two] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
+        [two] Atal { $downloadsCount } lwytho a chau'r Ffenestr Breifat hon?
         [few] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
         [many] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
        *[other] Atal { $downloadsCount } llwytho a chau'r Ffenestr Breifat hon?
@@ -94,14 +94,14 @@ download-ui-confirm-private-browsing-title =
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hwn.
-        [zero] Ni fyddwch yn gallu ailddechrau'r lawrlwythiadau hyn.
+        [zero] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
         [one] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hwn.
         [two] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
         [few] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
         [many] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
        *[other] Fyddwch chi ddim yn gallu ailddechrau'r llwytho hyn.
     }
-download-ui-confirm-private-browsing-button = Cau'r ffenestr
+download-ui-confirm-private-browsing-button = Cau ffenestr
 
 ##
 

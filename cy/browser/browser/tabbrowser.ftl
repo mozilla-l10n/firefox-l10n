@@ -40,6 +40,11 @@ tab-splitview-splitter =
     .aria-label = Newid maint tabiau'r golwg hollt
 tab-devtools-splitter =
     .aria-label = Newid Maint Panel Offer Datblygwr
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Ychwanegu Tabiau at Grŵp
+    .accesskey = Y
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -333,6 +338,18 @@ tab-context-move-tab-to-new-group =
            *[other] Ychwanegu Tabiau i Grŵp Newydd
         }
     .accesskey = N
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Ychwanegu at Grŵp
+            [zero] Ychwanegu { $tabCount } Tabiau at Grŵp
+            [one] Ychwanegu { $tabCount } Tab at Grŵp
+            [two] Ychwanegu { $tabCount } Dab at Grŵp
+            [few] Ychwanegu { $tabCount } Thab at Grŵp
+            [many] Ychwanegu { $tabCount } Tab at Grŵp
+           *[other] Ychwanegu { $tabCount } Thab at Grŵp
+        }
+    .accesskey = Y
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->

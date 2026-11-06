@@ -38,20 +38,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Cau Tabiau i'r Chwith
     .accesskey = h
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Tabiau i'r Chwith
+    .accesskey = C
 close-tabs-to-the-start-vertical =
     .label = Cau'r Tabiau Uchod
+    .accesskey = U
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Tabiau Uwchlaw
     .accesskey = U
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Cau Tabiau i'r Dde
     .accesskey = D
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Tabiau i'r Dde
+    .accesskey = D
 close-tabs-to-the-end-vertical =
     .label = Cau'r Tabiau Isod
+    .accesskey = I
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Tabiau Islaw
     .accesskey = I
 close-other-tabs =
     .label = Cau Tabiau Eraill
     .accesskey = C
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Y Gweddill
+    .accesskey = G
 reload-tabs =
     .label = Ail-lwytho Tabiau
     .accesskey = A
@@ -89,15 +111,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Agor mewn Tab Cynhwysydd Newydd
     .accesskey = A
+tab-context-open-in-container =
+    .label = Agor mewn Cynhwysydd
+    .accesskey = A
 move-to-start =
     .label = Symud i'r Cychwyn
+    .accesskey = C
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Cychwyn
     .accesskey = C
 move-to-end =
     .label = Symud i'r Diwedd
     .accesskey = D
+move-to-end-alt =
+    .label = Diwedd
+    .accesskey = D
 move-to-new-window =
     .label = Symud i Ffenestr Newydd
     .accesskey = N
+move-to-new-window-alt =
+    .label = Ffenestr Newydd
+    .accesskey = F
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -112,6 +147,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Cau Tabiau Dyblyg
     .accesskey = T
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Tabiau Dyblyg
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Cau Dyblygiadau'r Tab Hwn
     .accesskey = a
@@ -128,6 +167,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grŵp Newydd
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = Grŵp Newydd
+tab-context-add-tab-to-group-closed-groups =
+    .label = Grwpiau Wedi'u Cau
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -177,6 +220,19 @@ tab-context-move-tabs =
         }
     .accesskey = S
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Symud i
+            [zero] Symud { $tabCount } Tabiau i
+            [one] Symud { $tabCount } Tab i
+            [two] Symud { $tabCount } Dab i
+            [few] Symud { $tabCount } Thab i
+            [many] Symud { $tabCount } Thab i
+           *[other] Symud { $tabCount } Tab i
+        }
+    .accesskey = S
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -193,6 +249,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Symud Golwg Hollt i
     .accesskey = G
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Symud Tabiau i
+    .accesskey = T
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

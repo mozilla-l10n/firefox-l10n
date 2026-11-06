@@ -362,6 +362,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Sim, remover a palavra-passe
        *[other] Sim, remover as palavras-passe
     }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Sim, apagar palavra-passe
+        [one] Sim, apagar palavra-passe
+       *[other] Sim, apagar palavras-passe
+    }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Para ver as suas palavras-passe guardadas, insira a sua palavra-passe principal.
 # This string informs the user their primary password is used to authenticate and access their passwords
