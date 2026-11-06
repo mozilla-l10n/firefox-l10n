@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Kopiera flikens URL
 customkeys-file-focus-search = Fokusera på sökfältet
 customkeys-history-reopen-tab = Återställ senast stängda flik
 customkeys-history-reopen-window = Återställ senast stängda fönster
+customkeys-history-reopen-tab-current-window = Återöppna senast stängda fliken för det aktuella fönstret
 customkeys-sidebar-toggle = Visa/dölj sidofält
 customkeys-view-bookmarks-toolbar = Växla bokmärkesfältet
 customkeys-view-picture-in-picture = Bild-i-bild

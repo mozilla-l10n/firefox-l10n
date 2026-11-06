@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copier l’URL de l’onglet
 customkeys-file-focus-search = Activer la barre de recherche
 customkeys-history-reopen-tab = Rouvrir le dernier onglet fermé
 customkeys-history-reopen-window = Rouvrir la dernière fenêtre fermée
+customkeys-history-reopen-tab-current-window = Rouvrir le dernier onglet fermé de la fenêtre courante
 customkeys-sidebar-toggle = Afficher/Masquer le panneau latéral
 customkeys-view-bookmarks-toolbar = Afficher/Masquer la barre personnelle
 customkeys-view-picture-in-picture = Incrustation vidéo
