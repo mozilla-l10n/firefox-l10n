@@ -225,7 +225,7 @@ newtab-privacy-message-info-7-cta = Visualizza protezioni
 newtab-privacy-message-info-8 = Navigando con { -brand-short-name } sostieni la missione di { -vendor-short-name }: costruire un Web migliore.
 newtab-privacy-message-info-8-cta = Ulteriori informazioni
 newtab-privacy-message-info-9 = Rendi { -brand-short-name } il tuo browser di riferimento per una privacy integrata.
-newtab-privacy-message-info-9-cta = Imposta come browser predefinito
+newtab-privacy-message-info-9-cta = Imposta come predefinito
 newtab-privacy-message-info-10 = Salva le password in { -brand-short-name } per utilizzare credenziali complesse e univoche ovunque.
 newtab-privacy-message-info-10-cta = Vai alle password
 newtab-privacy-message-info-11 = Scopri in che modo { -brand-short-name } contribuisce a rendere la tua navigazione più riservata.
@@ -1498,6 +1498,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Mostra meno widget
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget non disponibile. Riprova più tardi.
 newtab-widget-lists-name-default = Lista di controllo
 
 ## Strings introduced by the Nova redesign of the Timer widget
