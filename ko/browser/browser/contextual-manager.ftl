@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = 다른 브라우저�
 contextual-manager-passwords-command-import = 파일에서 가져오기…
 contextual-manager-passwords-command-export = 비밀번호 내보내기
 contextual-manager-passwords-command-remove-all = 모든 비밀번호 제거
+contextual-manager-passwords-command-delete-all = 모든 비밀번호 삭제
 contextual-manager-passwords-command-options = 옵션
 contextual-manager-passwords-command-help = 도움말
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,9 @@ contextual-manager-passwords-remove-all-title =
         [1] 비밀번호를 제거하시겠습니까?
        *[other] 모든 비밀번호 { $total }개를 제거하시겠습니까?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title = 비밀번호 { $total }개를 삭제하시겠습니까?
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -113,6 +117,13 @@ contextual-manager-passwords-remove-all-confirm =
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] 삭제
+       *[other] 모두 삭제
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
         [1] 삭제
        *[other] 모두 삭제
@@ -130,6 +141,13 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] 동기화된 모든 기기에서 { -brand-short-name }에 저장한 비밀번호가 제거되고 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
        *[other] 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 비밀번호가 제거되고 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] 비밀번호를 동기화하는 모든 기기의 { -brand-short-name }에서 삭제됩니다. 이 작업은 되돌릴 수 없습니다.
+       *[other] 비밀번호를 동기화하는 모든 기기의 { -brand-short-name }에서 삭제됩니다. 이 작업은 되돌릴 수 없습니다.
     }
 contextual-manager-passwords-origin-label = 웹사이트
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -173,12 +191,16 @@ contextual-manager-passwords-radiobutton-all = 모두 ({ $total }개)
 contextual-manager-passwords-radiobutton-alerts = 알림 ({ $total }개)
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 비밀번호를 제거하시겠습니까?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = 비밀번호를 삭제하시겠습니까?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = 이 작업은 취소할 수 없습니다.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = 뒤로
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = 삭제
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = 삭제
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = 취소
 contextual-manager-passwords-alert-card =
@@ -210,6 +232,9 @@ contextual-manager-passwords-update-label =
     .label = 비밀번호 업데이트
 contextual-manager-passwords-remove-label =
     .title = 비밀번호 제거
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = 비밀번호 삭제
 contextual-manager-passwords-origin-field =
     .label = 웹 사이트 주소
     .placeholder = https://www.example.com
@@ -322,6 +347,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] 예, 비밀번호 제거
        *[other] 예, 비밀번호 제거
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] 예, 비밀번호 삭제
+       *[other] 예, 비밀번호 삭제
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = 저장된 비밀번호를 보려면, 기본 비밀번호를 입력하세요.
