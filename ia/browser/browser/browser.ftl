@@ -987,6 +987,12 @@ urlbar-view-context-menu-open-in-private-window2 = Aperir in nove fenestra priva
     .accesskey = p
 urlbar-view-context-menu-search-in-tab = Cercar in le nove scheda
     .accesskey = n
+urlbar-view-context-menu-search-in-container-tab = Cercar in le nove scheda contentor
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = Cercar in le nove fenestra
+    .accesskey = n
+urlbar-view-context-menu-search-in-private-window = Cercar in le nove fenestra private
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

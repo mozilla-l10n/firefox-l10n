@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copiar URL scheda
 customkeys-file-focus-search = Activar le Barra de recerca
 customkeys-history-reopen-tab = Reaperir ultime scheda claudite
 customkeys-history-reopen-window = Reaperir ultime fenestra claudite
+customkeys-history-reopen-tab-current-window = Reaperir le ultime scheda claudite del fenestra actual
 customkeys-sidebar-toggle = Monstrar/celar le barra lateral
 customkeys-view-bookmarks-toolbar = Activar/disactivar le Barra del marcapaginas
 customkeys-view-picture-in-picture = Imagine-in-imagine
