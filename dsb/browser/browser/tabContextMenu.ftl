@@ -216,9 +216,9 @@ tab-context-move-tabs3 =
     .label =
         { $tabCount ->
             [1] Pśesunuś do
-            [one] { $tabCount } rejtarikow pśesunuś do
-            [two] { $tabCount } rejtarikow pśesunuś do
-            [few] { $tabCount } rejtarikow pśesunuś do
+            [one] { $tabCount } rejtarik pśesunuś do
+            [two] { $tabCount } rejtarika pśesunuś do
+            [few] { $tabCount } rejtariki pśesunuś do
            *[other] { $tabCount } rejtarikow pśesunuś do
         }
     .accesskey = r

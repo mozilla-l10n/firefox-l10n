@@ -2298,19 +2298,99 @@ preferences-ai-controls-block-confirmation-translations = Tulkojumi
 preferences-ai-controls-block-confirmation-pdfjs = Attēla alternatīvais teksts { -brand-short-name } PDF skatītājā
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Cilņu grupu ieteikumi
 preferences-ai-controls-block-confirmation-key-points = Galvenie punkti saišu priekšskatījumos
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Tērzēšanas robotu pakalpojumu sniedzēji sānjoslā
 preferences-ai-controls-block-confirmation-speech-recognition = Runas atpazīšana
+preferences-ai-controls-block-confirmation-features-after = Bloķēšana ietekmē arī paplašinājumus, kas izmanto { -brand-short-name } nodrošināto mākslīgo intelektu.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Atcelt
 preferences-ai-controls-block-confirmation-confirm =
     .label = Liegt
+preferences-ai-controls-header3 =
+    .heading = MI vadība
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } ir modrs
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } iesaka dažus drošības uzlabojumus
+security-privacy-status-ok-label = Uzlabotā izsekošanas aizsardzība ir ieslēgta
+security-privacy-status-problem-label = Mēs atradām iestatījumus, kas ietekmē jūsu aizsardzību
+security-privacy-status-problem-helper-label = Skatīt problēmas
+security-privacy-status-pending-trackers-label = Meklēju, cik izsekotāju { -brand-short-name } ir bloķēti pēdējā mēneša laikā
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } izsekotājs ir bloķēts pēdējā mēneša laikā
+        [zero] { $trackerCount } izsekotāji bloķēti pēdējā mēneša laikā
+       *[other] { $trackerCount } izsekotāji bloķēti pēdējā mēneša laikā
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Jums ir <a data-l10n-name="strict-tracking-protection">stingra aizsardzība</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Jums ir <a data-l10n-name="custom-tracking-protection">pielāgota aizsardzība</a>
+security-privacy-status-up-to-date-label = Jums ir jaunākā un drošākā { -brand-short-name } versija.
+security-privacy-status-update-needed-label = Ir pieejama jauna { -brand-short-name } versija.
+security-privacy-status-update-error-label = { -brand-short-name } nevar atjaunināt savu saturu.
+security-privacy-status-update-checking-label = { -brand-short-name } pārbauda atjauninājumus
+security-privacy-status-update-needed-description = Atjauninājums, lai iegūtu jaunākos ātruma, stabilitātes un drošības atjauninājumus.
+security-privacy-status-update-button-label =
+    .label = Atjaunināt { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Vairogs ar izsaukuma zīmi, kas pauž bažas par jūsu drošības brīdinājumiem
+security-privacy-image-ok =
+    .alt = Vairogs ar atzīmi, kas norāda, ka jums nav neatrisinātu drošības problēmu
+security-privacy-issue-card =
+    .heading = Drošības brīdinājumi
+issue-card-reset-button =
+    .label = Atiestatīt
+issue-card-dismiss-button =
+    .aria-label = Noraidīt
+    .tooltiptext = Noraidīt
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .description = Vietnes izmanto izsekotājus, lai sekotu jums tiešsaistē un rādītu biedējošas reklāmas. { -brand-short-name } aizsargā jūs pārlūkošanas laikā, automātiski bloķējot izsekotājus, lai jūs kontrolētu savu digitālo pēdu.
+    .label = Uzlabotā pretizsekošanas aizsardzība
 preferences-etp-level-radio-group =
     .aria-label = Uzlabotā pretizsekošanas aizsardzība
+preferences-etp-level-standard =
+    .description = Spēcīga, uzticama aizsardzība, kas nevainojami darbojas ar lielāko daļu tīmekļa vietņu.
+    .label = Standarta (pēc noklusējuma)
+preferences-etp-level-strict =
+    .description = Spēcīgāka aizsardzība, kas bloķē vairāk izsekotāju, taču var izraisīt dažu vietņu darbības pārtraukumus.
+    .label = Stingrs
+preferences-etp-level-custom =
+    .description = Izvēlieties, kuras aizsardzības ieslēgt vai izslēgt.
+    .label = Pielāgots
+preferences-etp-status-advanced-button =
+    .label = Papildu iestatījumi
+preferences-etp-tracker-count-enabled =
+    .label = Rādīt bloķētos izsekotājus adreses joslā
+preferences-etp-status-protections-dashboard-link =
+    .description = Apskatiet, cik daudz viltīgu izsekotāju { -brand-short-name } ir bloķējis jūsu vietā, tostarp sociālo mediju izsekotājus, pirkstu nospiedumu lasītājus un kriptovalūtu ieguves rīkus.
+    .label = Skatiet savu personalizēto aizsardzības informācijas paneli
+preferences-etp-header =
+    .heading = Uzlabota izsekošanas aizsardzība
 preferences-etp-advanced-settings-group =
     .description = Vietnes izmanto izsekotājus, lai sekotu Tev tiešsaistē un rādītu šaušalīgas reklāmas. { -brand-short-name } aizsargā Tevi, kamēr Tu pārlūko, automātiski aizturot vairumu izsekotāju, lai Tu varētu būt noteicējs pār sevis atstātajām ciparu pēdām.
     .label = Paplašinātie iestatījumi
 preferences-etp-customize-button =
     .label = Pielāgot aizsardzību pret izsekošanu
+preferences-etp-reload-tabs-hint =
+    .message = Lai lietotu šīs izmaiņas, atkārtoti ielādējiet cilnes.
+preferences-etp-reload-tabs-hint-button =
+    .label = Atkārtoti ielādēt visas cilnes
+preferences-etp-rfp-warning-message =
+    .message = Tu izmanto Resist Fingerprinting (RFP), kas aizstāj dažus { -brand-short-name } pirkstu nospiedumu aizsardzības iestatījumus. Tas var izraisīt dažu vietņu darbības traucējumus.
+preferences-etp-level-warning-message =
+    .heading = Uzmanību! Dažas vietnes var nedarboties, kā paredzēts.
+    .message = Dažas vietnes savās funkcijās vai saturā iebūvē izsekotājus. Kad { -brand-short-name } tos bloķē, vietne izskatās nedarbojas. Mēģiniet izmantot “Labot vietnes problēmu” vai izslēgt izsekošanas aizsardzību attiecīgajā vietnē.
+preferences-etp-manage-exceptions-button =
+    .description = Pārvaldiet tīmekļa vietnes, kurās ir atspējota uzlabotā izsekošanas aizsardzība.
+    .label = Pārvaldīt izņēmumus
 preferences-etp-customize-header =
     .heading = Pielāgot aizsardzību pret izsekošanu
 preferences-etp-reset =
