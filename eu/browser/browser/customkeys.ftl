@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Kopiatu fitxaren URLa
 customkeys-file-focus-search = Jarri fokua bilaketa-barran
 customkeys-history-reopen-tab = Ireki berriro itxitako azken fitxa
 customkeys-history-reopen-window = Ireki berriro itxitako azken leihoa
+customkeys-history-reopen-tab-current-window = Ireki berriro uneko leihoan itxitako azken fitxa
 customkeys-sidebar-toggle = Txandakatu alboko barra
 customkeys-view-bookmarks-toolbar = Txandakatu laster-marken tresna-barra
 customkeys-view-picture-in-picture = Bideoa beste leiho batean

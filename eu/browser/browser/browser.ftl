@@ -984,6 +984,14 @@ urlbar-view-context-menu-open-in-window2 = Ireki leiho berrian
     .accesskey = h
 urlbar-view-context-menu-open-in-private-window2 = Ireki leiho pribatu berrian
     .accesskey = b
+urlbar-view-context-menu-search-in-tab = Bilatu fitxa berrian
+    .accesskey = B
+urlbar-view-context-menu-search-in-container-tab = Bilatu edukiontzi-fitxa berrian
+    .accesskey = d
+urlbar-view-context-menu-search-in-window = Bilatu leiho berrian
+    .accesskey = h
+urlbar-view-context-menu-search-in-private-window = Bilatu leiho pribatu berrian
+    .accesskey = i
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
