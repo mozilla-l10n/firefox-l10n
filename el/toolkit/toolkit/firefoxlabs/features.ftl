@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Οι σημειώσεις καρτ
 experimental-features-tab-context-menu =
     .label = Απλοποιημένο μενού καρτελών
 experimental-features-tab-context-menu-description = Δείτε ένα απλούστερο μενού επιλογών όταν κάνετε δεξί κλικ σε μια καρτέλα. Έχει σχεδιαστεί για να διευκολύνει την εύρεση κοινών ενεργειών. <a data-l10n-name="connect">Αποστολή σχολίων</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Εποπτεία πόρων

@@ -39,6 +39,13 @@ download-ui-cancel-downloads-ok =
         [1] Ακύρωση 1 λήψης
        *[other] Ακύρωση { $downloadsCount } λήψεων
     }
+download-ui-confirm-cancel-button = Ακύρωση
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Έξοδος από το { -brand-short-name }
+       *[other] Τερματισμός του { -brand-short-name }
+    }
+download-ui-confirm-private-browsing-button = Κλείσιμο παραθύρου
 
 ##
 

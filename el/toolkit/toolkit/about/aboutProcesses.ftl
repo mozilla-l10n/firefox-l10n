@@ -18,6 +18,12 @@ about-processes-shutdown-tab =
     .title = Κλείσιμο καρτέλας
 about-processes-unload-tab =
     .title = Εκφόρτωση καρτέλας
+about-processes-select-all-tabs =
+    .title = Επιλογή όλων των καρτελών
+about-processes-expand-all-sites =
+    .title = Ανάπτυξη όλων
+about-processes-collapse-all-sites =
+    .title = Σύμπτυξη όλων
 about-processes-go-to-tab =
     .title = Μετάβαση στην καρτέλα
 # Profiler icons
@@ -30,6 +36,14 @@ about-processes-profile-process =
             [one] Καταγραφή όλων των νημάτων αυτής της διεργασίας για { $duration } δευτερόλεπτο
            *[other] Καταγραφή όλων των νημάτων αυτής της διεργασίας για { $duration } δευτερόλεπτα
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Αναζήτηση καρτελών
+    .placeholder = Αναζήτηση καρτελών
 
 ## Column headers
 
@@ -129,6 +143,16 @@ about-processes-tab-count =
         [one] { $count } καρτέλα
        *[other] { $count } καρτέλες
     }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Ακύρωση επιλογής
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Εκφόρτωση
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Κλείσιμο
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -180,6 +204,12 @@ about-processes-cpu-fully-idle = αδρανής
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = αδρανής
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0,01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0.1%
 
@@ -199,6 +229,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Εξέλιξη: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 
