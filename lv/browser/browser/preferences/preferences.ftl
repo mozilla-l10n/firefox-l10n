@@ -1427,6 +1427,10 @@ sitedata-heading =
 sitedata-settings3 =
     .label = Notīrīt datus konkrētām vietnēm
     .accesskey = s
+sitedata-cookies-exceptions3 =
+    .description = Izvēlieties, kā konkrētas vietnes apstrādā sīkfailus un vietņu datus.
+    .label = Pārvaldīt izņēmumus
+    .accesskey = P
 cookies-site-data-group =
     .label = Sīkdatnes un vietnes dati
 
@@ -1465,6 +1469,32 @@ addressbar-locbar-engines-option-1 =
 addressbar-locbar-quickactions-option =
     .label = Ātrās darbības
     .accesskey = r
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nesenie meklējumi
+    .accesskey = N
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Populārākie meklēšanas ieteikumi
+    .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .description = Saņemiet no tīmekļa ieteikumus, kas saistīti ar jūsu meklēšanu.
+    .label = Ieteikumi no { -brand-short-name }
+addressbar-locbar-suggest-sponsored-option-2 =
+    .description = Atbalstiet { -brand-short-name } ar neregulāriem sponsorētiem ieteikumiem.
+    .label = Sponsoru ieteikumi
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Iegūt ieteikumus no Mozilla, kamēr rakstāt
+addressbar-dismissed-suggestions-label-2 =
+    .description = Atjaunot sponsoru un { -brand-short-name } noraidītos ieteikumus.
+    .label = Noraidītie ieteikumi
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Atjaunot iestatījumus
 
 ## Privacy Section - Content Blocking
 
@@ -1501,6 +1531,7 @@ content-blocking-private-windows = Izsekojošs saturs privātajos logos
 content-blocking-cross-site-cookies-in-all-windows2 = Starpvietņu sīkdatnes visos logos
 content-blocking-cross-site-tracking-cookies = Starpvietņu izsekošanas sīkdatnes
 content-blocking-all-cross-site-cookies-private-windows = Starpvietņu sīkdatnes privātajos logos
+content-blocking-isolate-cross-site-cookies = Izolēt starpvietņu sīkfailus
 content-blocking-social-media-trackers = Sociālo mediju izsekotāji
 content-blocking-all-cookies = Visas sīkdatnes
 content-blocking-unvisited-cookies = Sīkdatnes no neapmeklētām vietnēm
@@ -1516,6 +1547,10 @@ content-blocking-known-and-suspected-fingerprinters = Zināmi un varbūtēji cip
 content-blocking-etp-standard-tcp-rollout-description = Totālā Sīkdatņu Aizsardzība neļauj sīkdatnēm izkļūt ārpus vietnes, kurā atrodaties, tāpēc izsekotāji nevar tos izmantot, lai sekotu jums starp vietnēm.
 content-blocking-etp-standard-tcp-rollout-learn-more = Uzzināt vairāk
 content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību, mūsu visu laiku spēcīgāko privātuma funkciju
+content-blocking-warning-title-2 = Dažas vietnes var nedarboties ar stingru izsekošanas aizsardzību
+content-blocking-warning-title-custom = Dažas vietnes var nedarboties ar pielāgotu izsekošanas aizsardzību
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } iesaka izmantot iestatījumus “Labot vietnes problēmas”, lai samazinātu bojātu vietnes funkciju un satura skaitu. Ja vietne šķiet bojāta, mēģiniet izslēgt izsekošanas aizsardzību šai vietnei, lai ielādētu visu saturu.
 content-blocking-warning-learn-how = Uzziniet kā
 content-blocking-baseline-exceptions-3 =
     .description = Palīdz ielādēt vietnes un iespējas ar tikai būtisku daļu, kas var saturēt izsekotājus, atļaušanu. Nosedz vairumu izplatīto nebūšanu.
@@ -1525,6 +1560,9 @@ content-blocking-convenience-exceptions-3 =
     .description = Atjauno tādas lietas kā rakstā vai piebilžu sadaļā esošus video, atceļot elementu, kuri var saturēt izsekotājus, aizturēšanu. Tas var samazināt nepilnības ar vietnēm, bet sniedz mazāku aizsardzību. Jāizmanto kopā ar būtisku nepilnību labojumiem.
     .label = Novērst niecīgas vietņu nepilnības
 content-blocking-baseline-uncheck-warning-dialog-title = Vai tiešām izslēgt labojumus?
+content-blocking-baseline-uncheck-warning-dialog-body = Šis iestatījums palīdz novērst visbiežāk sastopamās vietņu problēmas. Ja to izslēgsiet, dažas vietnes var nedarboties, un { -brand-short-name } nevarēs palīdzēt novērst šīs problēmas.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Izslēgt labojumus
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Saglabāt labojumus ieslēgtus
 content-blocking-reload-description = Būs nepieciešams pārlādēt cilnes, lai pielietotu šīs izmaiņas.
 content-blocking-reload-tabs-button =
     .label = Pārlādēt visas cilnes
@@ -1583,6 +1621,9 @@ permissions-block-popups-exceptions-button4 =
     .label = Pārvaldīt izņēmumus
     .searchkeywords = uznirstošie logi
     .accesskey = i
+permissions-addon-install-warning3 =
+    .label = Rādīt brīdinājumu, kad vietnes mēģina instalēt paplašinājumus
+    .accesskey = R
 # App links are links that a website can ask to open for you, like email
 # (mailto:) links.
 permissions-allow-app-links =
