@@ -192,6 +192,9 @@ newtab-privacy-empty-state = O { -brand-short-name } bloqueia rastreadores autom
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Aqui aparece o total atualizado.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Menos rastreadores, navegação mais rápida.
+newtab-privacy-empty-state-small-message = Navegue para começar a bloquear rastreadores.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -567,6 +570,16 @@ newtab-solitaire-widget-open-menu-button =
     .title = Abrir menu de paciência
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Saiba mais
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-table = Tabela
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Fundos de tela
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1433,6 +1446,9 @@ newtab-widget-menu-move-left = Esquerda
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Direita
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgets
 newtab-widget-size-small = Pequeno
 newtab-widget-size-medium = Médio
 newtab-widget-size-large = Grande
@@ -1469,6 +1485,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Mostrar menos widgets
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget indisponível. Tente novamente mais tarde.
 newtab-widget-lists-name-default = Lista de tarefas
 
 ## Strings introduced by the Nova redesign of the Timer widget

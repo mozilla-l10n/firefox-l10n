@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] Cancelar download
        *[other] Cancelar { $downloadsCount } downloads
     }
+download-ui-confirm-cancel-button = Cancelar
 
 ##
 

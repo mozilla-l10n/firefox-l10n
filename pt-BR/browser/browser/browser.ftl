@@ -984,6 +984,14 @@ urlbar-view-context-menu-open-in-window2 = Abrir em nova janela
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Abrir em nova janela privativa
     .accesskey = p
+urlbar-view-context-menu-search-in-tab = Pesquisar em nova aba
+    .accesskey = v
+urlbar-view-context-menu-search-in-container-tab = Pesquisar em nova aba contêiner
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = Pesquisar em  nova janela
+    .accesskey = n
+urlbar-view-context-menu-search-in-private-window = Pesquisar em nova janela privativa
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copiar URL da aba
 customkeys-file-focus-search = Foco na a barra de pesquisa
 customkeys-history-reopen-tab = Reabrir última aba fechada
 customkeys-history-reopen-window = Reabrir última janela fechada
+customkeys-history-reopen-tab-current-window = Reabrir última aba fechada da janela atual
 customkeys-sidebar-toggle = Exibir/ocultar painel lateral
 customkeys-view-bookmarks-toolbar = Ativar/desativar barra de favoritos
 customkeys-view-picture-in-picture = Picture-in-Picture

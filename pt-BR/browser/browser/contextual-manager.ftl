@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar de outro nav
 contextual-manager-passwords-command-import = Importar de um arquivo…
 contextual-manager-passwords-command-export = Exportar senhas
 contextual-manager-passwords-command-remove-all = Remover todas as senhas
+contextual-manager-passwords-command-delete-all = Excluir todas as senhas
 contextual-manager-passwords-command-options = Opções
 contextual-manager-passwords-command-help = Ajuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Remover senha?
        *[other] Remover todas as { $total } senhas?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Excluir { $total } senha?
+       *[other] Excluir { $total } senhas?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -118,6 +126,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Remover
         [one] Remover
        *[other] Remover tudo
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Excluir
+        [one] Excluir
+       *[other] Excluir todas
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -175,12 +191,16 @@ contextual-manager-passwords-radiobutton-all = Todas ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Remover senha?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Excluir senha?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Isto não pode ser defeito.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Voltar
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Remover
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Excluir
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
 contextual-manager-passwords-alert-card =
@@ -212,6 +232,9 @@ contextual-manager-passwords-update-label =
     .label = Atualizar senha
 contextual-manager-passwords-remove-label =
     .title = Remover senha
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Excluir senha
 contextual-manager-passwords-origin-field =
     .label = Endereço do site
     .placeholder = https://www.example.com
@@ -324,6 +347,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Sim, remover senha
        *[other] Yes, remove passwords
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Sim, excluir senha
+        [one] Sim, excluir senha
+       *[other] Sim, excluir senhas
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Para ver suas senhas salvas, digite sua senha principal.

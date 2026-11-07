@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = Consultar { $provider }
 genai-menu-new-badge = Novidade
 genai-menu-summarize-page = Resumir página
+genai-menu-summarize-with-ai = Resumir com inteligência artificial
 genai-input-ask-smart-window =
     .placeholder = Perguntar…
 genai-input-ask-generic =
     .placeholder = Perguntar ao chatbot de inteligência artificial…
+genai-input-ask-ai =
+    .placeholder = Perguntar à inteligência artificial…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Consultar { $provider }…
