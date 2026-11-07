@@ -47,4 +47,10 @@ toolbox-always-on-top-disabled2 = Ieslēgt, ka vienmēr augšpusē
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Šo dokumentu var ielādēt arī no “{ $url }”, izmantojot DevTools “Lokālo režīmu”, ko var iespējot iestatījumu panelī.
 toolbox-local-mode-notice-add-to-settings-button = Pievienot iestatījumiem
+toolbox-local-mode-notice-try-it-button = Izmēģini
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navigācija uz esošo kartējumu
+toolbox-local-mode-notice-always-hide = Nerādīt man to vairs

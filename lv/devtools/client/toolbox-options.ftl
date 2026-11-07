@@ -30,10 +30,18 @@ options-context-inspector = Inspektors
 options-show-user-agent-styles-label = Rādīt pārlūka stilus
 options-show-user-agent-styles-tooltip =
     .title = Šīs iespējas ieslēgšana parādīs pārlūka ielādētos noklusējuma stilus
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Rādīt pārlūka Shadow DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Ieslēdzot šo opciju, tiks parādīti pārlūka apstrādātie Shadow DOM elementi.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Saīsināt DOM atribūtus
 options-collapse-attrs-tooltip =
     .title = Saīsināt garus atribūtus inspektorā
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Rādīt komentārus
+options-show-comments-tooltip =
+    .title = Rādīt komentāru mezglus Inspektorā
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Jāklikšķina un jāvelk, lai labotu izmēru vērtības
 options-inspector-draggable-properties-tooltip =
@@ -67,6 +75,23 @@ options-webconsole-label = Tīmekļa konsole
 options-webconsole-split-console-label = Ieslēgt dalīto konsoli
 options-webconsole-split-console-tooltip =
     .title = Atveriet sadalīto konsoli ar taustiņu Escape
+
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Tīkla monitors
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maksimālais pieprasījuma un atbildes pamatteksta lielums (iestatiet uz 0, lai iegūtu neierobežotu vērtību):
+options-netmonitor-body-limit-tooltip =
+    .title = Pieprasījumu vai atbilžu pamatteksti, kas pārsniedz norādīto izmēru, tiks saīsināti, kad tie tiks parādīti vai lejupielādēti Network Monitor. Iestatiet vērtību 0, lai nebūtu ierobežojumu.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Neierobežots
+options-netmonitor-body-limit-button =
+    .title = Labot maksimālo pieprasījuma/atbildes pamatteksta lielumu.
+options-netmonitor-body-limit-restore-default =
+    .title = Atjaunojiet noklusējuma vērtību maksimālajam pieprasījuma/atbildes pamatteksta lielumam.
+options-netmonitor-body-limit-set =
+    .title = Iestatiet pašreizējo ievades vērtību kā maksimālo pieprasījuma/atbildes pamatteksta lielumu.
 
 ## Style Editor section
 

@@ -8,14 +8,19 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Ievietot un pievienot dokumentam jaunu stila lapu
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filtrēt stila lapas
 styleeditor-visibility-toggle =
     .tooltiptext = Pārslēgt stila faila redzamību
     .accesskey = S
+styleeditor-visibility-toggle-system =
+    .tooltiptext = Sistēmas stila lapas nevar atspējot
 styleeditor-save-button = Saglabāt
     .tooltiptext = Saglabāt šo stila lapu datnē
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Stila redaktora iestatījumi
+styleeditor-at-rules = Noteikumi
 styleeditor-no-stylesheet = Šajā lapā nav stila dokumentu.
 styleeditor-no-stylesheet-tip = Iespējams jūs vēlaties <a data-l10n-name="append-new-stylesheet">pievienot jaunu stila dokumentu</a>?
 styleeditor-open-link-new-tab =
@@ -31,6 +36,8 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Pārlēkt uz rindu…
     .accesskey = u
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Nav atrasta atbilstoša stila lapa.
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
@@ -40,3 +47,13 @@ styleeditor-stylesheet-rule-count =
         [one] { $ruleCount } noteikumi.
        *[other] { $ruleCount } noteikumi.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Formatēt stila lapu pārskatāmi
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Formatēt var tikai CSS datnes
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Nevar formatēt 'tikai lasāmu' stila lapu.
