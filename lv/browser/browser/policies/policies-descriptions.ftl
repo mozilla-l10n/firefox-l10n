@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Iestatiet politikas, caur kurām chrome.storage.managed var piekļūt WebExtensions.
+policy-AIControls = Konfigurējiet mākslīgā intelekta vadīklas.
 policy-AllowedDomainsForApps = Definējiet domēnus, kuriem ir atļauts piekļūt Google Workspace.
 policy-AllowFileSelectionDialogs = Atļaut datņu atlases dialoglodziņus.
 policy-AppAutoUpdate = Ieslēgt vai izslēgt automātisku lietotnes atjaunināšanu.
@@ -21,6 +22,7 @@ policy-AutofillAddressEnabled = Ieslēgt adrešu automātisko aizpildīšanu.
 policy-AutofillCreditCardEnabled = Ieslēgt automātisko aizpildīšanu maksājumu veidiem.
 policy-AutoLaunchProtocolsFromOrigins = Definējiet sarakstu ar ārējiem protokoliem, kurus var izmantot no uzskaitītajiem avotiem, neprasot lietotājam.
 policy-BackgroundAppUpdate2 = Ieslēgt vai izslēgt fona atjauninātāju.
+policy-Backup = Atspējot profila datu dublēšanu vai atjaunošanu.
 policy-BlockAboutAddons = Liegt piekļuvi papildinājumu pārvaldniekam (about:addons).
 policy-BlockAboutConfig2 = Liegt piekļuvi paplašinātājiem iestatījumiem (about:config).
 policy-BlockAboutProfiles2 = Liegt piekļuvi “Par profiliem” (about:profiles).
@@ -32,13 +34,19 @@ policy-Bookmarks = Izveidojiet grāmatzīmes grāmatzīmju rīkjoslā, grāmatz�
 policy-CaptivePortal = Ieslēgt vai izslēgt caurlaides portālu atbalstu.
 policy-CertificatesDescription = Pievienojiet sertifikātus vai izmantojiet iebūvētos sertifikātus.
 policy-ClearOnShutdown = Notīrīt pārlūkošanas datus, kad { -brand-short-name } aizveras.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Iespējojiet CNSA 2.0 ML-KEM-1024 atslēgas līgumu TLS protokolam.
 policy-ContentAnalysis = Ieslēgt vai izslēgt savienojumu ar datu zudumu novēršanas aģentu.
 policy-Cookies = Atļaujiet vai aizliedziet vietnēm iestatīt sīkdatnes.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Iestatīt ar konteineriem saistītās politikas.
 policy-DisableAccounts = Izslēgt ar kontu saistītus pakalpojumus, tostarp sinhronizāciju.
 policy-DisabledCiphers = Liegt šifrus.
+policy-DefaultBrowserSettingEnabled = Kontrolējiet, vai lietotājs var iestatīt { -brand-short-name } kā noklusējuma pārlūku.
 policy-DefaultDownloadDirectory = Iestatīt noklusējuma lejupielādes mapi.
+policy-DefaultSerialGuardSetting = Kontrolējiet seriālā API lietošanu.
 policy-DisableAppUpdate = Neļaut pārlūkam atjaunināties.
 policy-DisableBuiltinPDFViewer = Izslēgt PDF.js, { -brand-short-name } iebūvēto PDF lasītāju.
 policy-DisableDefaultBrowserAgent2 = Neļaut noklusējuma pārlūka aģentam veikt jebkādas darbības.
@@ -53,6 +61,7 @@ policy-DisableFirefoxScreenshots = Izslēgt Firefox ekrānuzņēmumu iespēju.
 policy-DisableFirefoxStudies = Liedz { -brand-short-name } veikt pētījumus.
 policy-DisableForgetButton = Liedz pieeju Aizmirst pogai.
 policy-DisableFormHistory = Neatcerēties meklēšanas un veidlapu vēsturi.
+policy-DisableLaunchOnLogin = Neļaut { -brand-short-name } automātiski palaisties, kad lietotājs piesakās.
 policy-DisableMacOSUserPolicies = Neņemt vērā pamatnostādnes no lietotāja izvēlēm un no macOS lietotāja tvēruma konfigurācijas profiliem.
 policy-DisablePrimaryPasswordCreation = Ja iestatīts, nevar izveidot galveno paroli.
 policy-DisablePasswordReveal2 = Neļaut atklāt paroles saglabātajos pieteikšanās vienumos vai paroļu laukos.
@@ -60,6 +69,8 @@ policy-DisablePrivateBrowsing = Izslēgt privāto pārūkošanu.
 policy-DisableProfileImport = Izslēgt izvēlnes vienumu datu importēšanai no cita pārlūka.
 policy-DisableProfileRefresh2 = Atspēo pogu “Atsvaidzināt { -brand-short-name }” sarežģījumu novēršanas informācijā (about:support) un support.mozilla.org, kā arī uzvednē, kas piedāvā atsvaidzināt { -brand-short-name }, kad tas nav kādu laiku izmantots.
 policy-DisableProfileRefresh = Izslēgt { -brand-short-name } atsvaidzināšanas pogu lapā about:support
+policy-DisableRemoteImprovements = Neļaut { -brand-short-name } lietot veiktspējas, stabilitātes un funkciju izmaiņas starp atjauninājumiem.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Atspējot attālās piekļuves iestatījumus.
 policy-DisableSafeMode2 = Atspējot palaišanu no jauna sarežģījumu novēršanas režīmā (drošajā režīmā).
 policy-DisableSafeMode = Atspējo iespēju palaist no jauna drošajā režīmā. Piezīme: Shift taustiņa lietošanu, lai ieslēgtos drošajā režīmā, ir iespējams atspējot tikai Windows ar kopu pamatnostādni.
 policy-DisableSecurityBypass = Liedz lietotājam apiet noteiktus drošības brīdinājumus.
@@ -86,6 +97,7 @@ policy-ExtensionSettings = Pārvaldīt visus paplašinājumu uzstādīšanas asp
 policy-ExtensionUpdate = Ieslēgt vai izslēgt automātisku paplašinājumu atjaunināšanu.
 policy-FirefoxHome2 = Konfigurēt { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfigurēt { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Konfigurējiet ģeneratīvā mākslīgā intelekta funkcijas.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Piespiest skatīties iekšējā tīkla vietnēs, nevis meklēt, kad adreses joslā ieraksta vienu vārdu.
 policy-Handlers = Konfigurēt noklusējuma lietotņu apstrādātājus.
 policy-HardwareAcceleration = Ja atslēgts (false), izslēdz aparatūras paātrināšanu.
@@ -94,6 +106,7 @@ policy-Homepage = Iestata un iespējams slēdz sākuma lapu.
 policy-HttpAllowlist = Izcelsmes, kuras netiks uzlabotas uz HTTPS.
 policy-HttpsOnlyMode = Atļaut ieslēgt režīmu Tikai-HTTPS.
 policy-InstallAddonsPermission = Ļauj noteiktām tīmekļvietnēm uzstādīt papildinājumus.
+policy-IPProtectionAvailable = Neļaujiet iebūvētajam VPN būt pieejamam lietotājiem.
 policy-LegacyProfiles = Izslēgt funkciju, kas katrai instalācijai nodrošina atsevišķu profilu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -104,6 +117,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Noteiktajās vietnēs 
 ##
 
 policy-LocalFileLinks = Ļaut norādītajām vietnēm izveidot saites uz vietējām datnēm.
+policy-LocalNetworkAccess = Iespējot vai atspējot lokālā tīkla piekļuves pārbaudes.
 policy-ManagedBookmarks = Konfigurē administratora pārvaldīto grāmatzīmju sarakstu, kuras lietotājs nevar mainīt.
 policy-ManualAppUpdateOnly = Atļaut tikai manuālus atjauninājumus un nepaziņojiet lietotājam par atjauninājumiem.
 policy-PrimaryPassword = Pieprasīt vai aizliegt izmantot galveno paroli.
@@ -125,10 +139,12 @@ policy-PostQuantumKeyAgreementEnabled = Ieslēgt pēckvantu atslēgas līgumu TL
 policy-PDFjs = Izslēgt vai konfigurēt PDF.js, iebūvēto { -brand-short-name } PDF skatītāju.
 policy-Permissions2 = Konfigurēt kameras, mikrofona, atrašanās vietas, paziņojumu un automātiskās atskaņošanas atļaujas.
 policy-PictureInPicture = Ieslēgt vai izslēgt funkciju attēls-attēlā.
+policy-PopupBlocking2 = Atļaut noteiktām tīmekļa vietnēm rādīt uznirstošos logus un tikt novirzītām, izmantojot trešo pušu ietvarus.
 policy-Preferences = Iestatīt un noslēgt perefreneču apakškopu vērtības.
 policy-PrivateBrowsingModeAvailability = Iestatīt privātās pārlūkošanas režīma pieejamību.
 policy-PromptForDownloadLocation = Lejuplādējot vaicāt, kur saglabāt datnes.
 policy-Proxy = Konfigurē starpniekservera iestatījumus.
+policy-RelaunchRequired = Pieprasīt, lai { -brand-short-name } tiktu atkārtoti palaists noteiktā laika periodā, un informēt lietotāju par gaidāmo atkārtoto palaišanu.
 policy-RequestedLocales = Iestatiet pieejamo valodu sarakstu prioritātes secībā.
 policy-SanitizeOnShutdown2 = Izslēdzot notīrīt navigācijas datus.
 policy-SearchBar = Iestata noklusējuma meklēšanas joslas atrašanās vietu. Lietotājam joprojām ir ļauts to pielāgot.

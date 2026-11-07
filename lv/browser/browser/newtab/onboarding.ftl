@@ -461,9 +461,17 @@ fx-backup-opt-in-header = Izvēlieties faila atrašanās vietu
 fx-backup-opt-in-filepath-label = Izvēlieties vietu, uz kuru plānojat pārsūtīt datus uz jaunu ierīci, piemēram, OneDrive.
 fx-backup-opt-in-create-password-label = Ievadiet paroli
 fx-backup-opt-in-confirm-btn-label = Turpināt
+fx-backup-opt-in-cancel-btn-label = Atpakaļ
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Jūsu rezerves kopēšana ir ieplānota
+fx-backup-confirmation-screen-close-button = Aizvērt
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = Visi pārlūkošanas dati ir iekļauti
+fx-backup-confirmation-screen-all-data-item-text-2 = Saglabāts jūsu ierīcē
 fx-backup-confirmation-screen-all-data-item-text-3 = Šifrēts un aizsargāts ar paroli
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Grāmatzīmes, vēsture, iestatījumi un citi iekļautie dati
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Saglabāts jūsu ierīcē
@@ -588,10 +596,12 @@ smartwindow-sidebar-auto-open-callout-dismiss = Nē, paldies
 smartwindow-sidebar-auto-open-callout-accepted-title = Asistents paliks aizvērts
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Izmantojiet “Jautāt”, lai to atvērtu jebkurā lapā. To var mainīt jebkurā laikā sadaļā <a data-l10n-name="settings">Iestatījumi</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Sapratu
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Ja pārdomājat, varat jebkurā laikā atjaunināt noklusējuma iestatījumus sadaļā <a data-l10n-name="settings">Iestatījumi</a>.
 
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Izvēlies tēmu
+onboarding-theme-picker-subtitle = Ienes { -brand-short-name } nedaudz vairāk krāsu.
 onboarding-theme-picker-button-label = Saglabāt un turpināt
 
 ## Carousel navigation
@@ -614,3 +624,33 @@ welcome-back-onboarding-card-label-tabs = Sakop ar stateniskām cilnēm un kopā
 welcome-back-onboarding-card-label-vpn = Esi aizsegā ar iebūvētu VPN
 welcome-back-onboarding-card-label-pdf = Izcel, paraksti un strādā ar PDF
 welcome-back-onboarding-card-tilebutton-label = Izmēģini
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Iestatiet savu { -brand-short-name } dažu sekunžu laikā
+hnt-card-import-body = Ienesiet savas grāmatzīmes, paroles un citus datus no cita pārlūka.
+hnt-card-import-primary-button = Importējiet savus datus
+hnt-card-default-body = { -brand-product-name } ir vienīgā lielākā pārlūkprogramma, kas izveidota, lai jūs aizsargātu, nevis izsekotu.
+hnt-card-default-primary-button = Atvērt saites ar { -brand-short-name }
+hnt-card-pin-header = Saglabājiet { -brand-short-name } viena klikšķa attālumā
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Atgriezieties aizsargātajā pārlūkošanā no doka.
+       *[other] Atgriezieties aizsargātajā pārlūkošanā no uzdevumjoslas.
+    }
+hnt-card-mobile-header = Iegūstiet iebūvētu aizsardzību savā tālrunī
+hnt-card-mobile-body = Lejupielādējiet { -brand-product-name } mobilajām ierīcēm, lai nodrošinātu papildu privātumu, atrodoties ceļā.
+hnt-card-mobile-primary-button = Iegūstiet { -brand-product-name } mobilajām ierīcēm.
+hnt-card-wallpaper-header = Izvēlieties svaigas tapetes
+hnt-card-wallpaper-body = Padariet šo ekrānu par mājīgu ar fonu, kas jums patīk.
+hnt-card-wallpaper-primary-button = Sāciet pielāgošanu
+hnt-card-taskbar-tabs-header = Pievienojiet savas iecienītākās vietnes Windows uzdevumjoslai
+hnt-card-taskbar-tabs-body = Atveriet savas visbiežāk apmeklētās vietnes kā lietotni ar visiem { -brand-product-name } aizsardzības līdzekļiem.
+hnt-card-taskbar-tabs-primary-button = Pievienot vietnes uzdevumjoslai
+hnt-card-extensions-header = Uzlabojiet { -brand-short-name } ar paplašinājumiem
+hnt-card-extensions-body = Pielāgojiet savu pārlūkošanu ar mūsu iecienītākajiem paplašinājumiem.
+hnt-card-extensions-primary-button = Izpētīt
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Viss gatavs. Ej un dari savu darbu.
+hnt-card-last-card-header-end = Izsekošanas aizsardzība ir ieslēgta.
