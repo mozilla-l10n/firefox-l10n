@@ -64,6 +64,18 @@ download-ui-confirm-offline-title =
         [1] Stoppe 1 nedlasting og gå i frakoblet modus?
        *[other] Stoppe { $downloadsCount } nedlastinger og gå i frakoblet modus?
     }
+download-ui-confirm-offline-message = { -brand-short-name } vil prøve å fortsette nedlastingene når du er tilkoblet igjen, men fremdriften kan gå tapt.
+download-ui-confirm-offline-button = Gå i frakoblet modus
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Stoppe 1 nedlasting og lukke dette private vinduet?
+       *[other] Stoppe { $downloadsCount } nedlastinger og lukke dette private vinduet?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Du vil ikke kunne fortsette denne nedlastingen.
+       *[other] Du vil ikke kunne fortsette disse nedlastingene.
+    }
 download-ui-confirm-private-browsing-button = Lukk vindu
 
 ##

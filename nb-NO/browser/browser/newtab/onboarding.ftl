@@ -642,6 +642,12 @@ welcome-back-onboarding-card-tilebutton-label = Prøv det
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Sett opp { -brand-short-name } på få sekunder
+hnt-card-import-body = Importer bokmerker, passord og mer fra en annen nettleser.
+hnt-card-import-primary-button = Importer dine data
+hnt-card-default-body = { -brand-product-name } er den eneste store nettleseren som er laget for å beskytte deg, ikke spore deg.
+hnt-card-default-primary-button = Åpne lenker med { -brand-short-name }
+hnt-card-pin-header = Ha alltid { -brand-short-name } lett tilgjengelig
 hnt-card-wallpaper-primary-button = Begynn å tilpasse
 hnt-card-taskbar-tabs-header = Legg til favorittnettstedene dine på oppgavelinjen i Windows
 hnt-card-taskbar-tabs-body = Åpne nettstedene du besøker oftest, som apper med all beskyttelsen fra { -brand-product-name }.

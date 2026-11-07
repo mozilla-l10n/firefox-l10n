@@ -34,29 +34,57 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Aizvērt cilnes pa kreisi
     .accesskey = k
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Cilnes pa kreisi
+    .accesskey = I
 close-tabs-to-the-start-vertical =
     .label = Aizvērt cilnes augšpusē
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Cilnes augšpusē
+    .accesskey = I
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Aizvērt visas cilnes pa labi
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Cilnes pa labi
+    .accesskey = I
 close-tabs-to-the-end-vertical =
     .label = Aizvērt cilnes apakšā
+    .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Cilnes zemāk
     .accesskey = i
 close-other-tabs =
     .label = Aizvērt citas cilnes
     .accesskey = v
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Visas pārējās
+    .accesskey = o
 reload-tabs =
     .label = Pārlādēt cilnes
     .accesskey = R
 pin-tab =
     .label = Piespraust cilni
     .accesskey = s
+tab-context-pin-tab2 =
+    .label = Piespraust
+    .accesskey = P
 unpin-tab =
     .label = Atspraust cilni
     .accesskey = t
+tab-context-unpin-tab2 =
+    .label = Atspraust
+    .accesskey = p
 pin-selected-tabs =
     .label = Piespraust cilnes
     .accesskey = e
@@ -69,6 +97,10 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Saglabāt cilni grāmatzīmēs…
     .accesskey = g
+# Context menu item used to bookmark 1 or more selected tabs
+tab-context-bookmark-tab2 =
+    .label = Grāmatzīme
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Atvērt jaunā konteinera cilnē
     .accesskey = j
