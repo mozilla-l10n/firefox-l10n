@@ -180,6 +180,8 @@ about-logins-confirm-delete-dialog-title = ਪਾਸਵਰਡ ਨੂੰ ਹਟ�
 about-logins-confirm-delete-dialog-title2 = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਤੁਸੀਂ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = ਇਹ ਇਸ ਨੂੰ { -brand-short-name } ਵਿੱਚੋਂ ਹਰ ਡਿਵਾਈਸ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਸਿੰਕ ਕਰਦਾ ਹੈ, ਤੋਂ ਹਟਾਏਗਾ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
 about-logins-confirm-remove-dialog-confirm-button = ਹਟਾਓ
 # Confirm button for the modal to delete one saved password when per-device sync is enabled
 about-logins-confirm-delete-dialog-confirm-button = ਹਟਾਓ
@@ -243,6 +245,13 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [1] ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਸਿੰਕ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੋਂ { -brand-short-name } ਵਿੱਚ ਸੰਭਾਏ ਹੋਏ ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ। ਇਸ ਨਾਲ ਇੱਥੇ ਦਿਖਾਏ ਜਾਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਸੰਨ੍ਹਮਾਰੀ ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਵੀ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕੋਗੇ।
         [one] ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਸਿੰਕ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੋਂ { -brand-short-name } ਵਿੱਚ ਸੰਭਾਏ ਹੋਏ ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ। ਇਸ ਨਾਲ ਇੱਥੇ ਦਿਖਾਏ ਜਾਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਸੰਨ੍ਹਮਾਰੀ ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਵੀ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕੋਗੇ।
        *[other] ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਸਿੰਕ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੋਂ { -brand-short-name } ਵਿੱਚ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਹਟਾਏ ਜਾਣਗੇ। ਇਸ ਨਾਲ ਇੱਥੇ ਦਿਖਾਏ ਜਾਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਸੰਨ੍ਹਮਾਰੀ ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਵੀ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕੋਗੇ।
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] ਇਹ ਇਸ ਨੂੰ { -brand-short-name } ਵਿੱਚੋਂ ਹਰ ਡਿਵਾਈਸ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਸਿੰਕ ਕਰਦਾ ਹੈ, ਤੋਂ ਹਟਾਏਗਾ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
+        [one] ਇਹ ਇਹਨਾਂ ਨੂੰ { -brand-short-name } ਵਿੱਚੋਂ ਹਰ ਡਿਵਾਈਸ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਸਿੰਕ ਕਰਦਾ ਹੈ, ਤੋਂ ਹਟਾਏਗਾ।
+       *[other] ਇਹ ਇਹਨਾਂ ਨੂੰ { -brand-short-name } ਵਿੱਚੋਂ ਹਰ ਡਿਵਾਈਸ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਸਿੰਕ ਕਰਦਾ ਹੈ, ਤੋਂ ਹਟਾਏਗਾ।
     }
 
 ##

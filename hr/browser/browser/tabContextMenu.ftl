@@ -208,6 +208,16 @@ tab-context-move-tabs =
         }
     .accesskey = m
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Premjesti u
+            [one] Premjesti { $tabCount } karticu u
+            [few] Premjesti { $tabCount } kartice u
+           *[other] Premjesti { $tabCount } kartica u
+        }
+    .accesskey = j
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->

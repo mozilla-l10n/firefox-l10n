@@ -104,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
        *[other] Remove all { $total } passwords?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+       *[other] { $total } ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -119,6 +126,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] ਹਟਾਓ
        *[other] ਸਭ ਨੂੰ ਹਟਾਓ
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] ਹਟਾਓ
+        [one] ਸਭ ਨੂੰ ਹਟਾਓ
+       *[other] ਸਭ ਨੂੰ ਹਟਾਓ
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -132,6 +147,13 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] ਇਹ ਤੁਹਾਡੇ ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-short-name } ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਅਤੇ ਕਿਸੇ ਵੀ ਸੰਨ੍ਹਮਾਰੀ ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਹਟਾਏਗਾ। ਤੁਸੀਂ ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
        *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] ਇਹ ਇਸ ਨੂੰ { -brand-short-name } ਵਿੱਚੋਂ ਹਰ ਡਿਵਾਈਸ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਸਿੰਕ ਕਰਦਾ ਹੈ, ਤੋਂ ਹਟਾਏਗਾ।
+       *[other] ਇਹ ਇਹਨਾਂ ਨੂੰ { -brand-short-name } ਵਿੱਚੋਂ ਹਰ ਡਿਵਾਈਸ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਸਿੰਕ ਕਰਦਾ ਹੈ, ਤੋਂ ਹਟਾਏਗਾ।
     }
 contextual-manager-passwords-origin-label = ਵੈੱਬਸਾਈਟ
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -175,12 +197,16 @@ contextual-manager-passwords-radiobutton-all = ਸਭ ({ $total })
 contextual-manager-passwords-radiobutton-alerts = ਚੇਤਾਵਨੀਆਂ ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਕਰ ਸਕੋਗੇ।
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = ਪਿੱਛੇ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = ਹਟਾਓ
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = ਹਟਾਓ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ਰੱਦ ਕਰੋ
 contextual-manager-passwords-alert-card =
@@ -211,6 +237,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ
 contextual-manager-passwords-remove-label =
+    .title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
 contextual-manager-passwords-origin-field =
     .label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ
@@ -325,6 +354,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] ਹਾਂ, ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
        *[other] Yes, remove passwords
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] ਹਾਂ, ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+       *[other] ਹਾਂ, ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਵੇਖਣ ਲਈ ਆਪਣਾ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਦਿਓ।

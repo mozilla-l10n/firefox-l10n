@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = העתקת כתובת האתר
 customkeys-file-focus-search = העברת המיקוד לשורת החיפוש
 customkeys-history-reopen-tab = פתיחת הלשונית האחרונה שנסגרה מחדש
 customkeys-history-reopen-window = פתיחת החלון האחרון שנסגר מחדש
+customkeys-history-reopen-tab-current-window = פתיחה מחדש של הלשונית האחרונה שנסגרה מהחלון הנוכחי
 customkeys-sidebar-toggle = הצגה/הסתרה של סרגל הצד
 customkeys-view-bookmarks-toolbar = הצגה/הסתרה של סרגל כלים סימניות
 customkeys-view-picture-in-picture = תמונה בתוך תמונה

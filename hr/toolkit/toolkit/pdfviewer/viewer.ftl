@@ -739,6 +739,12 @@ pdfjs-digital-signature-properties-button-label = Svojstva digitalnog potpisa
 ##   $count (Number) - number of signatures at the worst level.
 
 pdfjs-digital-signature-properties-banner-verified = Dokument je potpisan važećim digitalnim potpisom
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokument je potpisan s { $count } isteklim certifikatom
+        [few] Dokument je potpisan s { $count } istekla certifikata
+       *[other] Dokument je potpisan s { $count } isteklih certifikata
+    }
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be

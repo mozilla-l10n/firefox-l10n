@@ -706,6 +706,10 @@ settings-keyboard-shortcuts-group =
     .label = Tipkovnički prečaci
 settings-keyboard-shortcuts-customkeys-link =
     .label = Prilagodite tipkovničke prečace
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Prilagodi postavke adresne trake u „Pretraga”
 settings-media-group =
     .label = Mediji
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -937,6 +941,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Navigacija u adresnoj traci
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Preskoči izbornik rezultata kada se koristi gumb „Tab” za pomicanje fokusa
 search-suggestions-header-2 =
     .label = Prijedlozi tražilice
 search-one-click-header2 = Prečaci za pretraživanje
@@ -1203,6 +1211,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Povijest
     .accesskey = j
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Otvorene kartice
+    .tooltiptext = Kartice otvorene na tvojim drugim uređajima
+    .accesskey = t
 sync-engine-tabs =
     .label = Otvorene kartice
     .tooltiptext = Popis otvorenih kartica na svim sinkroniziranim uređajima

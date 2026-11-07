@@ -35,6 +35,11 @@ tabbrowser-close-tabs-button =
         }
 tab-splitview-splitter =
     .aria-label = Promijeni veličinu kartica u podijeljenom prikazu
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Dodaj kartice u grupu
+    .accesskey = D
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -301,6 +306,15 @@ tab-context-move-tab-to-new-group =
            *[other] Dodaj kartice u novu grupu
         }
     .accesskey = D
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Dodaj u grupu
+            [one] Dodaj { $tabCount } karticu u grupu
+            [few] Dodaj { $tabCount } kartice u grupu
+           *[other] Dodaj { $tabCount } kartica u grupu
+        }
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -482,6 +496,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Razdvoji podijeljeni prikaz
     .accesskey = d
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Razdvoji kartice
+    .accesskey = R
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Preokreni redoslijed kartica
