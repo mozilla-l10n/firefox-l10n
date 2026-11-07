@@ -466,8 +466,23 @@ tab-note-editor-button-delete =
     .aria-label = Dzēst piezīmi
     .title = Dzēst piezīmi
     .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = Labot piezīmi
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Lasīt vairāk
 tab-note-panel-add-note-new-badge =
     .label = Jaunums
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [zero] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } rakstzīmes
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } rakstzīme
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } rakstzīmes
+    }
 
 ## Split View
 
@@ -475,5 +490,45 @@ tab-note-panel-add-note-new-badge =
 tab-context-add-split-view =
     .label = Pievienot sadalīto skatu
     .accesskey = s
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Atvērt sadalītajā skatā
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Atsevišķs sadalītais skats
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Atsevišķas cilnes
+    .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Apgrieztās cilnes
+    .accesskey = r
+tab-context-badge-new = Jauns
 # The label of a badge shown in menu items to call out features that are in beta.
 tab-context-badge-beta = Beta
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, Sadalīt skatu pa kreisi
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, Sadalīt skatu pa labi
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Atsevišķas cilnes
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Apgrieztās cilnes
+split-view-menuitem-close-both-tabs =
+    .label = Aizvērt abas cilnes

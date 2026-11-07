@@ -40,6 +40,31 @@ download-ui-cancel-downloads-ok =
        *[other] Avbryt { $downloadsCount } nedlastinger
     }
 download-ui-confirm-cancel-button = Avbryt
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Stoppe 1 nedlasting og avslutte { -brand-short-name }?
+               *[other] Stoppe { $downloadsCount } nedlastinger og avslutte { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Stoppe 1 nedlasting og avslutte { -brand-short-name }?
+               *[other] Stoppe { $downloadsCount } nedlastinger og avslutte { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } vil prøve å fortsette nedlastingene når programmet åpnes igjen, men fremdriften kan gå tapt.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Avslutt { -brand-short-name }
+       *[other] Avslutt { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Stoppe 1 nedlasting og gå i frakoblet modus?
+       *[other] Stoppe { $downloadsCount } nedlastinger og gå i frakoblet modus?
+    }
+download-ui-confirm-private-browsing-button = Lukk vindu
 
 ##
 

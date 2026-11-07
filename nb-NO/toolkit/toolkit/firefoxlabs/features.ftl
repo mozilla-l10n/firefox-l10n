@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Fanenotater er en eksperimentell f
 experimental-features-tab-context-menu =
     .label = Forenklet fanemeny
 experimental-features-tab-context-menu-description = Se en enklere sprettoppmeny når du høyreklikker på en fane. Den er utformet slik at vanlige handlinger blir enklere å finne. <a data-l10n-name="connect">Del tilbakemeldinger</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Ressursovervåking
+experimental-features-resource-monitor-description = Se estimert minne- og CPU-bruk for åpne faner rett i sidestolpen, og fjern faner du ikke bruker for å frigjøre ressurser. <a data-l10n-name="connect">Del tilbakemeldinger</a>

@@ -64,12 +64,21 @@ protections-panel-not-found-label = Nav konstatēts
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } bloķē izsekošanas saturu, kamēr atrodaties šajā vietnē, ja vien jūs to neatļaujat.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Atļaut { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } izsekotāji un saturs ir bloķēti
+smartblock-placeholder-desc = Jūsu { -brand-short-name } iestatījumi bloķēja šī satura izsekošanu dažādās vietnēs vai izmantošanu reklāmām.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Atļaut { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Bloķētā iegultā satura saturs
 
 ##
 

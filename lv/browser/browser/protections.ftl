@@ -268,3 +268,17 @@ privacy-metrics-private-window = { -brand-short-name } turpina bloķēt izsekot�
 ## VPN promo card and banner
 
 protections-vpn-title = Paplašiniet privātuma aizsardzību ārpus pārlūka robežām
+protections-vpn-header-content = Aizsargājiet visu savu ierīci ar { -mozilla-vpn-brand-name }. Viens pieskāriens šifrē visu datplūsmu un paslēpj jūsu atrašanās vietu.
+protections-get-vpn-link = Iegūt { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Abonēts
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [zero] Izmantojot { -mozilla-vpn-brand-name }, tiek šifrēta visa jūsu datplūsma un slēpta jūsu atrašanās vieta — līdz pat { $count } ierīcēs. Izmantojiet savu abonementu maksimāli — pievienojiet to no <a data-l10n-name="playstore-link">Google Play veikala</a> vai <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [one] Izmantojot { -mozilla-vpn-brand-name }, tiek šifrēta visa jūsu datplūsma un slēpta jūsu atrašanās vieta — līdz pat { $count } ierīcē. Izmantojiet savu abonementu maksimāli — pievienojiet to no <a data-l10n-name="playstore-link">Google Play veikala</a> vai <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Izmantojot { -mozilla-vpn-brand-name }, tiek šifrēta visa jūsu datplūsma un slēpta jūsu atrašanās vieta — līdz pat { $count } ierīcēs. Izmantojiet savu abonementu maksimāli — pievienojiet to no <a data-l10n-name="playstore-link">Google Play veikala</a> vai <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Aizsardzība, kas sniedzas tālāk par pārlūku
+protections-vpn-banner-content = Izmēģiniet { -mozilla-vpn-brand-name } bez riska un pārliecinieties, kāpēc TechRadar apgalvo: “tā ātrums, vienkāršība un zemā ikmēneša maksa padara to apskatīšanas vērtu.”
+protections-vpn-banner-link = Iegūt { -mozilla-vpn-brand-name }

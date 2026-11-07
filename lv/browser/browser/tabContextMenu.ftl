@@ -5,6 +5,9 @@
 reload-tab =
     .label = Pārlādēt cilni
     .accesskey = r
+reload-tab2 =
+    .label = Pārlādēt
+    .accesskey = R
 select-all-tabs =
     .label = Atlasīt visas cilnes
     .accesskey = v
@@ -17,8 +20,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Pavairot cilni
     .accesskey = P
+duplicate-tab2 =
+    .label = Dublēt
+    .accesskey = D
 duplicate-tabs =
     .label = Dublēt cilnes
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Dublēt
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
