@@ -88,8 +88,15 @@ tab-context-open-in-new-container-tab2 =
 move-to-start =
     .label = Eguerova Ñepyrũme
     .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Moñepyrũ
+    .accesskey = S
 move-to-end =
     .label = Eguerova ipahápe
+    .accesskey = E
+move-to-end-alt =
+    .label = Paha
     .accesskey = E
 move-to-new-window =
     .label = Ovetã pyahúpe jereraha
