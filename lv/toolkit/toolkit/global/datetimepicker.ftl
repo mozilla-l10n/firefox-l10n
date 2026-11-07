@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Stunda
 time-spinner-minute-label =
     .aria-label = Minūte
+time-spinner-second-label =
+    .aria-label = Sekundes
+time-spinner-millisecond-label =
+    .aria-label = Milisekundes
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Iepriekšējā minūte
 time-spinner-minute-next =
     .aria-label = Nākamā minūte
+time-spinner-second-previous =
+    .aria-label = Iepriekšējā sekunde
+time-spinner-second-next =
+    .aria-label = Nākamā sekunde
+time-spinner-millisecond-previous =
+    .aria-label = Iepriekšējā milisekunde
+time-spinner-millisecond-next =
+    .aria-label = Nākamā milisekunde
 time-spinner-day-period-previous =
     .aria-label = Iepriekšējais dienas periods
 time-spinner-day-period-next =

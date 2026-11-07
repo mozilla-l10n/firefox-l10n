@@ -111,7 +111,7 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Iespējojiet izstrādātāja i
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Iespējojiet USB atkļūdošanu Android izstrādātāja izvēlnē.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-file-transfer = Iespējojiet failu pārsūtīšanu un pārliecinieties, vai ierīce nav tikai uzlādes režīmā.
+about-debugging-setup-usb-step-enable-file-transfer = Iespējo datņu pārsūtīšanu un pārliecinies, ka ierīce nav tikai uzlādes režīmā!
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Iespējojiet USB atkļūdošanu pārlūkprogrammā Firefox Android ierīcē.
 # USB section step by step guide
@@ -241,7 +241,7 @@ about-debugging-tmp-extension-terminate-bgscript-button = Pārtraukt fona skript
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
-about-debugging-tmp-extension-install-message = Atlasiet failu manifest.json vai .xpi/.zip arhīvu
+about-debugging-tmp-extension-install-message = Atlasi datni manifest.json vai .xpi/.zip arhīvu
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = Šim tīmekļa paplašinājumam ir pagaidu ID. <a>Uzziniet vairāk</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's

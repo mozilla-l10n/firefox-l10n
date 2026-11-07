@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Cilņu piezīmes ir eksperimentāl
 experimental-features-tab-context-menu =
     .label = Optimizēta cilņu izvēlne
 experimental-features-tab-context-menu-description = Ar peles labo pogu noklikšķinot uz cilnes, skatiet vienkāršāku konteksta izvēlni. Tā ir izstrādāta, lai atvieglotu bieži veicamo darbību atrašanu. <a data-l10n-name="connect">Kopīgot atsauksmes</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Resursu monitors
+experimental-features-resource-monitor-description = Sānjoslā skatiet atvērto cilņu aptuveno atmiņas un centrālā procesora izmantošanu un atbrīvojiet resursus no neizmantotajām cilnēm. <a data-l10n-name="connect">Kopīgot atsauksmes</a>

@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = Izveidot un pievienot dokumentam jaunu stila failu
+    .tooltiptext = Izveidot un pievienot dokumentam jaunu stila lapu
     .accesskey = n
 styleeditor-import-button =
-    .tooltiptext = Import un pievienot dokumentam jaunu stila failu
+    .tooltiptext = Ievietot un pievienot dokumentam jaunu stila lapu
     .accesskey = I
 styleeditor-visibility-toggle =
     .tooltiptext = Pārslēgt stila faila redzamību
