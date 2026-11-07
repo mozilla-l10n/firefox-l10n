@@ -99,6 +99,9 @@ delete-profile-logins = Paroles
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Dzēst profilu “{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Vai dzēst profilu “{ $profilename }”?
 
 ##
 
@@ -113,14 +116,19 @@ delete-profile-confirm = Dzēst
 profiles-system-theme = Sistēmas
 profiles-system-theme-title =
     .title = Pielietot sistēmas tēmu
+profiles-gray-theme = Pelēks
 profiles-gray-theme-title =
     .title = Pielietot pelēko tēmu
+profiles-yellow-theme = Dzeltens
 profiles-yellow-theme-title =
     .title = Pielietot dzelteno tēmu
+profiles-orange-theme = Oranžs
 profiles-orange-theme-title =
     .title = Pielietot oranžo tēmu
+profiles-red-theme = Sarkans
 profiles-red-theme-title =
     .title = Pielietot sarkano tēmu
+profiles-pink-theme = Rozā
 profiles-pink-theme-title =
     .title = Pielietot rozā tēmu
 profiles-purple-theme = Purpura
@@ -143,6 +151,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Datu vākšanas iestatījumi ir mainīti.</strong> Citā profilā veiktās izmaiņas attiecas uz visiem šīs ierīces profiliem.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Skatīt iestatījumus
 # Secondary button label to dismiss the infobar without action
@@ -156,6 +166,9 @@ briefcase-avatar-alt =
     .alt = Portfelis
 picture-avatar-alt =
     .alt = Attēls
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Amatniecība
 flower-avatar-alt =
     .alt = Zieds
 folder-avatar-alt =
@@ -198,6 +211,8 @@ star-avatar-alt =
     .alt = Zvaigzne
 video-game-controller-avatar-alt =
     .alt = Videospēļu kontrolieris
+custom-avatar-alt =
+    .alt = Pielāgots avatārs
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globuss
@@ -214,11 +229,15 @@ bike-avatar-alt =
 book-avatar = Grāmata
 briefcase-avatar = Portfelis
 clock-avatar = Pulkstenis
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Amatniecība
 custom-avatar = Pielāgots avatārs
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Dimants
 flower-avatar = Zieds
 folder-avatar = Mape
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globuss
 hammer-avatar = Āmurs
 heart-avatar = Sirds
 heart-rate-avatar = Sirdsdarbības ātrums
@@ -230,14 +249,30 @@ message-avatar = Vēstule
 musical-note-avatar = Muzikālā nots
 palette-avatar = Palete
 paw-print-avatar = Ķepas nospiedums
+picture-avatar = Attēls
 plane-avatar = Lidmašīna
 # Present refers to a gift box, not the current time period
 present-avatar = Dāvana
 shopping-avatar = Iepirkumu grozs
+soccer-ball-avatar = Futbola bumba
 sparkle-single-avatar = Dzirkstele
 star-avatar = Zvaigzne
 video-game-controller-avatar = Videospēļu kontrolieris
 custom-avatar-crop-back-button =
     .aria-label = Atpakaļ
+custom-avatar-crop-view =
+    .aria-label = Apgriezt attēla skatu
+custom-avatar-crop-area =
+    .aria-label = Pielāgot apgriešanas laukumu
+custom-avatar-drag-handle =
+    .aria-label = Mainīt apgriešanas apgabala izmēru
+profiles-appmenu-callout-tour-title = Tavs jaunais profils ir gatavs lietošanai
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Izvēlnē ☰ pieskarieties sava profila vārdam, lai atvērtu citu, rediģētu šo vai pārslēgtos starp digitālajām dzīvēm.
+profiles-appmenu-callout-tour-primary-button = Parādi man, kā
 barbell-avatar = Stienis
 bike-avatar = Velosipēds
+barbell-avatar-tooltip =
+    .tooltiptext = Lietot stieņa avatāru
+bike-avatar-tooltip =
+    .tooltiptext = Lietot velosipēda avatāru

@@ -34,19 +34,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Zatvori lijeve kartice
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Lijeve kartice
+    .accesskey = L
 close-tabs-to-the-start-vertical =
     .label = Zatvori kartice iznad
     .accesskey = z
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Gornje kartice
+    .accesskey = G
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Zatvori desne kartice
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Desne kartice
+    .accesskey = s
 close-tabs-to-the-end-vertical =
     .label = Zatvori kartice ispod
     .accesskey = s
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Donje kartice
+    .accesskey = D
 close-other-tabs =
     .label = Zatvori ostale kartice
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Sve ostale
     .accesskey = o
 reload-tabs =
     .label = Ponovo učitaj kartice
@@ -85,15 +107,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Otvori u novoj kontejnerskoj kartici
     .accesskey = e
+tab-context-open-in-container =
+    .label = Otvori u kontejneru
+    .accesskey = e
 move-to-start =
     .label = Pomakni na početak
     .accesskey = p
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Početak
+    .accesskey = č
 move-to-end =
     .label = Pomakni na kraj
     .accesskey = k
+move-to-end-alt =
+    .label = Kraj
+    .accesskey = K
 move-to-new-window =
     .label = Premjesti u novi prozor
     .accesskey = z
+move-to-new-window-alt =
+    .label = Novi prozor
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -108,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Zatvori duple kartice
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Dupliciraj kartice
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Zatvori duplikate ove kartice
     .accesskey = x
@@ -124,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nova grupa
     .accesskey = N
+tab-context-add-tab-to-group-new-group =
+    .label = Nova grupa
+tab-context-add-tab-to-group-closed-groups =
+    .label = Zatvorene grupe
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -178,6 +221,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Premjesti podijeljeni prikaz u
     .accesskey = P
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Premjesti kartice u
+    .accesskey = j
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

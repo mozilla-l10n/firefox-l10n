@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Grāmatzīmes
+sidebar-menu-bookmarks-2 = Grāmatzīmes
 sidebar-menu-history =
     .label = Vēsture
 sidebar-menu-synced-tabs =

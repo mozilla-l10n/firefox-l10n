@@ -37,6 +37,11 @@ tab-splitview-splitter =
     .aria-label = Mainīt sadalīto skata ciļņu izmērus
 tab-devtools-splitter =
     .aria-label = Izstrādātāja rīku paneļa izmēru maiņa
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Pievienot cilnes kopai
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:

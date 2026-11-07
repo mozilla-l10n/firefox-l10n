@@ -40,6 +40,24 @@ download-ui-cancel-downloads-ok =
        *[other] Prekini { $downloadsCount } preuzimanja
     }
 download-ui-confirm-cancel-button = Odustani
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Zaustaviti jedno preuzimanje i izaći iz { -brand-short-name(case: "gen") }?
+                [one] Zaustaviti { $downloadsCount } preuzimanje i izaći iz { -brand-short-name(case: "gen") }?
+                [few] Zaustaviti { $downloadsCount } preuzimanja i izaći iz { -brand-short-name(case: "gen") }?
+               *[other] Zaustaviti { $downloadsCount } preuzimanja i izaći iz { -brand-short-name(case: "gen") }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Zaustaviti jedno preuzimanje i zatvoriti { -brand-short-name(case: "gen") }?
+                [one] Zaustaviti { $downloadsCount } preuzimanje i zatvoriti { -brand-short-name(case: "gen") }?
+                [few] Zaustaviti { $downloadsCount } preuzimanja i zatvoriti { -brand-short-name(case: "gen") }?
+               *[other] Zaustaviti { $downloadsCount } preuzimanja i zatvoriti { -brand-short-name(case: "gen") }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } će pokušati nastaviti preuzimanja kad se ponovno otvori, ali napredak bi se mogao izgubiti.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] Izađi iz { -brand-short-name(case: "gen") }

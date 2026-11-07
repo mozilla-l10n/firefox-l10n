@@ -16,3 +16,17 @@ recently-closed-menu-reopen-all-windows = Atkal atvērt visus logus
 
 recently-closed-panel-reopen-all-tabs = Atkal atvērt visas cilnes
 recently-closed-panel-reopen-all-windows = Atkal atvērt visus logus
+
+##
+
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } cilne, aizvērta pie { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [zero] { $winTitle } ({ $tabCount } cilnes, aizvērtas pie { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } cilnes, aizvērtas pie { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }
