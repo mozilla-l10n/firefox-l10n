@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Endre størrelsen på delt visning-faner
 tab-devtools-splitter =
     .aria-label = Endre størrelse på utviklerverktøypanelet
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Legg til faner i gruppen
+    .accesskey = g
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -447,6 +452,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Separat delt visning
+    .accesskey = p
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Splitt faner
     .accesskey = p
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

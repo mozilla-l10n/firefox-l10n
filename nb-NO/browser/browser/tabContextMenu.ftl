@@ -34,20 +34,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Lukk faner til venstre
     .accesskey = L
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Faner til venstre
+    .accesskey = a
 close-tabs-to-the-start-vertical =
     .label = Lukk faner ovenfor
     .accesskey = L
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Faner over
+    .accesskey = a
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Lukk faner til høyre
     .accesskey = u
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Faner til høyre
+    .accesskey = h
 close-tabs-to-the-end-vertical =
     .label = Lukk faner nedenfor
     .accesskey = k
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Faner nedenfor
+    .accesskey = a
 close-other-tabs =
     .label = Lukk andre faner
     .accesskey = a
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Alle andre
+    .accesskey = e
 reload-tabs =
     .label = Oppdater faner
     .accesskey = r
@@ -85,12 +107,22 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Åpne i en ny beholderfane
     .accesskey = e
+tab-context-open-in-container =
+    .label = Åpne i beholder
+    .accesskey = e
 move-to-start =
     .label = Flytt til begynnelsen
     .accesskey = b
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Start
+    .accesskey = S
 move-to-end =
     .label = Flytt til slutten
     .accesskey = t
+move-to-end-alt =
+    .label = Slutt
+    .accesskey = u
 move-to-new-window =
     .label = Flytt til et nytt vindu
     .accesskey = t

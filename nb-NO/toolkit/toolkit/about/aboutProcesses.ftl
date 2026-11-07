@@ -180,6 +180,8 @@ about-processes-cpu-fully-idle = inaktiv
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = inaktiv
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0.1%
 
@@ -199,6 +201,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Utvikling: { $deltaSign } { NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 

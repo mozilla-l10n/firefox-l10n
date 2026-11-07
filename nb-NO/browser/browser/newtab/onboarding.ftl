@@ -643,3 +643,13 @@ welcome-back-onboarding-card-tilebutton-label = Prøv det
 ## New Tab Onboarding cards
 
 hnt-card-wallpaper-primary-button = Begynn å tilpasse
+hnt-card-taskbar-tabs-header = Legg til favorittnettstedene dine på oppgavelinjen i Windows
+hnt-card-taskbar-tabs-body = Åpne nettstedene du besøker oftest, som apper med all beskyttelsen fra { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Legg til nettsteder på oppgavelinjen
+hnt-card-extensions-header = Gi { -brand-short-name } et løft med utvidelser
+hnt-card-extensions-body = Tilpass nettleseropplevelsen din med våre mest populære utvidelser.
+hnt-card-extensions-primary-button = Utforsk
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Alt er klart. Gjør det du vil.
+hnt-card-last-card-header-end = Sporingsbeskyttelse er på.
