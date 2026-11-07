@@ -172,7 +172,7 @@ contextual-manager-passwords-delete-all-message-sync =
     { $total ->
         [1] To jo z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
         [one] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
-        [two] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
+        [two] To jej z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
         [few] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
        *[other] To je z { -brand-short-name } na kuždem rěźe wulašujo, kótaryž waše gronidła synchronizěrujo. Njamóžośo to anulěrowaś.
     }
