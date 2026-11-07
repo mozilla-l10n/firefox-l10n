@@ -564,6 +564,34 @@ newtab-solitaire-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Μάθετε περισσότερα
 
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Άνοιγμα μενού Wrexham AFC
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Προβολή
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Αγώνες
+newtab-widget-wrexhamafc-view-table = Πίνακας
+newtab-widget-wrexhamafc-view-fixtures = Πρόγραμμα αγώνων
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Ταπετσαρίες
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -1429,6 +1457,12 @@ newtab-widget-menu-move-left = Αριστερά
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Δεξιά
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Αρχική
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Γραφικά στοιχεία
 newtab-widget-size-small = Μικρό
 newtab-widget-size-medium = Μεσαίο
 newtab-widget-size-large = Μεγάλο

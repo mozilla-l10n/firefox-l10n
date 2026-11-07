@@ -124,6 +124,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Νέα ομάδα
     .accesskey = ο
+tab-context-add-tab-to-group-new-group =
+    .label = Νέα ομάδα
+tab-context-add-tab-to-group-closed-groups =
+    .label = Κλεισμένες ομάδες
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -984,6 +984,14 @@ urlbar-view-context-menu-open-in-window2 = Άνοιγμα σε νέο παράθ
     .accesskey = ν
 urlbar-view-context-menu-open-in-private-window2 = Άνοιγμα σε νέο ιδιωτικό παράθυρο
     .accesskey = ι
+urlbar-view-context-menu-search-in-tab = Αναζήτηση σε νέα καρτέλα
+    .accesskey = ζ
+urlbar-view-context-menu-search-in-container-tab = Αναζήτηση σε νέα θεματική καρτέλα
+    .accesskey = τ
+urlbar-view-context-menu-search-in-window = Αναζήτηση σε νέο παράθυρο
+    .accesskey = ν
+urlbar-view-context-menu-search-in-private-window = Αναζήτηση σε νέο ιδιωτικό παράθυρο
+    .accesskey = δ
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

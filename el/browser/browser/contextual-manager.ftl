@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Εισαγωγή απ
 contextual-manager-passwords-command-import = Εισαγωγή από αρχείο…
 contextual-manager-passwords-command-export = Εξαγωγή κωδικών πρόσβασης
 contextual-manager-passwords-command-remove-all = Αφαίρεση όλων των κωδικών πρόσβασης
+contextual-manager-passwords-command-delete-all = Διαγραφή όλων των κωδικών πρόσβασης
 contextual-manager-passwords-command-options = Επιλογές
 contextual-manager-passwords-command-help = Βοήθεια
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Αφαίρεση κωδικού πρόσβασης;
        *[other] Αφαίρεση και των { $total } κωδικών πρόσβασης;
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Διαγραφή { $total } κωδικού πρόσβασης;
+       *[other] Διαγραφή { $total } κωδικών πρόσβασης;
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -116,6 +124,13 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Αφαίρεση
        *[other] Αφαίρεση όλων
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Διαγραφή
+       *[other] Διαγραφή όλων
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -173,12 +188,16 @@ contextual-manager-passwords-radiobutton-all = Όλοι ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Ειδοποιήσεις ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Αφαίρεση κωδικού πρόσβασης;
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Διαγραφή κωδικού πρόσβασης;
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Πίσω
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Αφαίρεση
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Διαγραφή
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Ακύρωση
 contextual-manager-passwords-alert-card =
@@ -210,6 +229,9 @@ contextual-manager-passwords-update-label =
     .label = Ενημέρωση κωδικού πρόσβασης
 contextual-manager-passwords-remove-label =
     .title = Αφαίρεση κωδικού πρόσβασης
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Διαγραφή κωδικού πρόσβασης
 contextual-manager-passwords-origin-field =
     .label = Διεύθυνση ιστοτόπου
     .placeholder = https://www.example.com
@@ -322,6 +344,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Ναι, αφαίρεση κωδικού πρόσβασης
        *[other] Ναι, αφαίρεση κωδικών πρόσβασης
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Ναι, διαγραφή κωδικού πρόσβασης
+       *[other] Ναι, διαγραφή κωδικών πρόσβασης
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Για να δείτε τους αποθηκευμένους κωδικούς πρόσβασής σας, εισαγάγετε τον κύριο κωδικό πρόσβασής σας.
