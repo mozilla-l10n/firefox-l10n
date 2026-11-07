@@ -1980,10 +1980,32 @@ data-collection =
     .label = { -brand-short-name } datu vākšana un izmantošana
     .searchkeywords = telemetrija
 data-collection-link = Skatīt privātuma paziņojumu
+data-collection-preferences-across-profiles =
+    .message = Šie iestatījumi attiecas uz visiem { -brand-product-name } profiliem šajā ierīcē.
+data-collection-profiles-link = Skatīt visus profilus
 data-collection-health-report-telemetry-disabled =
     .message = Jūs vairs neļaujat { -vendor-short-name } uzņemt tehniskos un mijiedarbības datus. Visi iepriekšējie dati tiks dzēsti 30 dienu laikā.
+data-collection-health-report =
+    .description = Tas palīdz mums uzlabot { -brand-product-name } funkcijas, veiktspēju un stabilitāti.
+    .label = Sūtīt tehniskos un mijiedarbības datus uz { -vendor-short-name }
+    .accesskey = r
+data-collection-health-report-disabled =
+    .description = Datu ziņošana šai būvējuma konfigurācijai ir atspējota.
+    .label = Sūtīt tehniskos un mijiedarbības datus uz { -vendor-short-name }
+    .accesskey = r
+data-collection-run-studies =
+    .description = { -brand-short-name } nejauši atlasa lietotājus funkciju testēšanai, kas palīdz uzlabot kvalitāti visiem.
+    .label = Atļaut { -brand-short-name } veikt funkciju pētījumus
 data-collection-studies-link =
     .label = Aplūkot { -brand-short-name } pētījumus
+data-collection-backlogged-crash-reports =
+    .description = Tas palīdz { -vendor-short-name } diagnosticēt un novērst problēmas ar pārlūku. Ziņojumos var būt iekļauti personas vai sensitīvi dati.
+    .label = Automātiski sūtīt avāriju pārskatus
+    .accesskey = c
+data-collection-usage-ping =
+    .description = Tas palīdz { -vendor-short-name } aprēķināt aktīvo lietotāju skaitu.
+    .label = Sūtīt ikdienas lietojuma ping uz { -vendor-short-name }
+    .accesskey = u
 
 ## Privacy Section - Security
 ##
@@ -1991,6 +2013,9 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Drošība
+browsing-protection-group2 =
+    .description = Bīstamas vietnes un lejupielādes var apdraudēt jūsu datus un ierīci. { -brand-short-name } tās automātiski bloķē un brīdina par riskantu vai nevēlamu programmatūru.
+    .label = Aizsardzība pret maldinošu saturu un bīstamu programmatūru
 security-enable-safe-browsing =
     .label = Liegt bīstamu un maldinošu saturu
     .accesskey = L
@@ -2239,13 +2264,40 @@ preferences-ai-controls-pdfjs-control =
 preferences-ai-controls-tab-group-suggestions-control =
     .description = Saņemiet ieteikumus cilņu nosaukumu piešķiršanai un kārtošanai.
     .label = Cilņu grupu ieteikumi
+preferences-ai-controls-key-points-control =
+    .description = Pirms saites atvēršanas skatiet īsu kopsavilkumu.
+    .label = Galvenie punkti saišu priekšskatījumos
 preferences-ai-controls-speech-recognition-control =
     .description = Runas transkribēšana vietēji.
     .label = Runas atpazīšana
 preferences-ai-controls-sidebar-chatbot-group-3 =
     .description = Paturi tērzēšanas botu redzeslaukā, kamēr pārlūko! Izvēlies no vairākiem nodrošinātājiem un pārslēdzies jebkurā laikā!
     .label = MI tērzēšanas botu nodrošinātāji sānu joslā
+preferences-ai-controls-sidebar-chatbot-group =
+    .description = Pārlūkošanas laikā paturiet redzamā vietā tērzēšanas robotu. Izvēlieties kādu no Anthropic Claude, ChatGPT, Copilot, Google Gemini un Le Chat Mistral.
+    .label = MI tērzēšanas robotu pakalpojumu sniedzēji sānjoslā
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Tērzēšanas robots sānjoslā
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Pieejams
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Iespējots
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloķēts
+preferences-ai-controls-state-description-before = Ko nozīmē opcijas:
+preferences-ai-controls-state-description-available = <strong>Pieejams:</strong> Jūs redzēsiet šo funkciju un varēsiet to izmantot.
+preferences-ai-controls-state-description-enabled = <strong>Iespējots:</strong> Jūs esat izvēlējies izmantot šo funkciju.
+preferences-ai-controls-state-description-blocked = <strong>Bloķēts:</strong> Jūs neredzēsiet un nevarēsiet izmantot šo funkciju. Ierīcē iebūvētajā mākslīgajā intelektā visi jau lejupielādētie modeļi tiek noņemti.
 preferences-ai-controls-block-confirmation-heading = Liegt MI uzlabojumus?
+preferences-ai-controls-block-confirmation-description = Jūs neredzēsiet jaunus vai pašreizējus mākslīgā intelekta uzlabojumus pakalpojumā { -brand-short-name }, kā arī uznirstošos logus par tiem. Pēc tam varēsiet atbloķēt visu, ko vēlaties turpināt lietot.
+preferences-ai-controls-block-confirmation-features-start = Kas tiks bloķēts:
+preferences-ai-controls-block-confirmation-translations = Tulkojumi
+preferences-ai-controls-block-confirmation-pdfjs = Attēla alternatīvais teksts { -brand-short-name } PDF skatītājā
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Cilņu grupu ieteikumi
+preferences-ai-controls-block-confirmation-key-points = Galvenie punkti saišu priekšskatījumos
 preferences-ai-controls-block-confirmation-speech-recognition = Runas atpazīšana
 preferences-ai-controls-block-confirmation-confirm =
     .label = Liegt
