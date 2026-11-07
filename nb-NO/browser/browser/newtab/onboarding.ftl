@@ -639,3 +639,7 @@ welcome-back-onboarding-card-label-tabs = Rydd opp med vertikale faner og gruppe
 welcome-back-onboarding-card-label-vpn = Hold deg skjult med innebygd VPN
 welcome-back-onboarding-card-label-pdf = Marker, signer og arbeid med PDF-filer
 welcome-back-onboarding-card-tilebutton-label = Prøv det
+
+## New Tab Onboarding cards
+
+hnt-card-wallpaper-primary-button = Begynn å tilpasse

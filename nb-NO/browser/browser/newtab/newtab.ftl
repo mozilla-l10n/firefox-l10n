@@ -589,7 +589,11 @@ newtab-widget-wrexhamafc-menu-view = Vis
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
 
+newtab-widget-wrexhamafc-view-matches = Kamper
 newtab-widget-wrexhamafc-view-table = Tabell
+newtab-widget-wrexhamafc-view-fixtures = Spilleplan
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Bakgrunnsbilder
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1498,6 +1502,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Vis færre widgeter
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widgeten er ikke tilgjengelig. Prøv igjen senere.
 newtab-widget-lists-name-default = Sjekkliste
 
 ## Strings introduced by the Nova redesign of the Timer widget
