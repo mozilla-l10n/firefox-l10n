@@ -308,6 +308,15 @@ tab-context-move-tab-to-new-group =
            *[other] Pievienot cilnes jaunai kopai
         }
     .accesskey = k
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Pievienot grupai
+            [zero] Pievienot grupai { $tabCount } cilnes
+            [one] Pievienot grupai { $tabCount } cilni
+           *[other] Pievienot grupai { $tabCount } cilnes
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -379,13 +388,84 @@ tab-context-ungroup-tab =
            *[other] Noņemt no grupām
         }
     .accesskey = r
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } vēl cilne
+        [zero] Vēl { $tabCount } cilnes
+       *[other] Vēl { $tabCount } cilnes
+    }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Sakārtojiet savas cilnes
+tab-groups-list-empty-description = Velciet vienu cilni uz citas vai ar peles labo pogu noklikšķiniet uz cilnes, lai sāktu kārtošanu. Jūsu grupas tiks saglabātas šeit, lai tās vēlāk būtu viegli atrast.
+tab-groups-list-empty-button = Izveidot ciļņu grupu
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Jauna grupa
+
+## Open/saved tab group context menu
+
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Pārvietot grupu uz jaunu logu
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Pārvietot grupu uz šo logu
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = Jauns
+    .label = Kopīgot grupu
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Dzēst grupu
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Atvērt grupu šajā logā
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Atvērt grupu jaunā logā
 
 ## Tab Notes
 
 tab-context-add-note =
     .label = Pievienot piezīmi
     .accesskey = P
+tab-context-edit-note =
+    .label = Labot piezīmi
+    .accesskey = E
+tab-context-delete-note =
+    .label = Dzēst piezīmi
+    .accesskey = D
 tab-note-editor-title-create = Pievienot piezīmi
+tab-note-editor-title-edit = Labot piezīmi
+tab-note-editor-text-field =
+    .placeholder = Ko jūs vēlaties atcerēties par šo cilni?
+tab-note-editor-button-cancel =
+    .label = Atcelt
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Saglabāt
+    .accesskey = S
+tab-note-editor-button-delete =
+    .aria-label = Dzēst piezīmi
+    .title = Dzēst piezīmi
+    .accesskey = D
 tab-note-panel-add-note-new-badge =
     .label = Jaunums
 

@@ -988,6 +988,12 @@ urlbar-view-context-menu-open-in-window2 = פתיחה בחלון חדש
     .accesskey = ח
 urlbar-view-context-menu-open-in-private-window2 = פתיחה בחלון פרטי חדש
     .accesskey = ר
+urlbar-view-context-menu-search-in-tab = חיפוש בלשונית חדשה
+    .accesskey = ח
+urlbar-view-context-menu-search-in-container-tab = חיפוש במגירת לשוניות חדשה
+    .accesskey = מ
+urlbar-view-context-menu-search-in-window = חיפוש בחלון חדש
+    .accesskey = ח
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
