@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copiar la URL de la pestaña
 customkeys-file-focus-search = Ir a la barra de búsqueda
 customkeys-history-reopen-tab = Reabrir la última pestaña cerrada
 customkeys-history-reopen-window = Reabrir la última ventana cerrada
+customkeys-history-reopen-tab-current-window = Reabrir la última pestaña cerrada de la ventana actual
 customkeys-sidebar-toggle = Alternar barra lateral
 customkeys-view-bookmarks-toolbar = Alternar barra de marcadores
 customkeys-view-picture-in-picture = Picture-in-Picture
