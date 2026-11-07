@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = URL rejtarika kopěrowaś
 customkeys-file-focus-search = Fokusěrujśo pytańsku rědku
 customkeys-history-reopen-tab = Zacynjony rejtarik znowego wótnowiś
 customkeys-history-reopen-window = Slědne zacynjone wokno zasej wócyniś
+customkeys-history-reopen-tab-current-window = Wócyńśo slědny zacynjony rejtarik aktualnego wokna znowego
 customkeys-sidebar-toggle = Bocnicu pśešaltowaś
 customkeys-view-bookmarks-toolbar = Rědka cytańskich znamjenjow pśešaltowaś
 customkeys-view-picture-in-picture = Wobraz-we-wobrazu
