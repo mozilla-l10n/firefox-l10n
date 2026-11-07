@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = …ਹੋਰ ਬਰ�
 contextual-manager-passwords-command-import = …ਤੋਂ ਫ਼ਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
 contextual-manager-passwords-command-export = ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 contextual-manager-passwords-command-remove-all = ਸਭ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
+contextual-manager-passwords-command-delete-all = …ਸਾਰੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
 contextual-manager-passwords-command-options = ਚੋਣਾਂ
 contextual-manager-passwords-command-help = ਮਦਦ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }

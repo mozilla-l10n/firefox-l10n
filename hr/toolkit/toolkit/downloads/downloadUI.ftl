@@ -39,6 +39,36 @@ download-ui-cancel-downloads-ok =
         [1] Prekini 1 preuzimanje
        *[other] Prekini { $downloadsCount } preuzimanja
     }
+download-ui-confirm-cancel-button = Odustani
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Izađi iz { -brand-short-name(case: "gen") }
+       *[other] Zatvori ({ -brand-short-name(case: "acc") }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Zaustaviti jedno preuzimanje i ići izvan mreže?
+        [one] Zaustaviti { $downloadsCount } preuzimanje i ići izvan mreže?
+        [few] Zaustaviti { $downloadsCount } preuzimanja i ići izvan mreže?
+       *[other] Zaustaviti { $downloadsCount } preuzimanja i ići izvan mreže?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } će pokušati nastaviti preuzimanja kad se vratiš na mrežu, ali napredak bi se mogao izgubiti.
+download-ui-confirm-offline-button = Idi izvan mreže
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Zaustaviti jedno preuzimanje i zatvoriti ovaj privatni prozor?
+        [one] Zaustaviti { $downloadsCount } preuzimanje i zatvoriti ovaj privatni prozor?
+        [few] Zaustaviti { $downloadsCount } preuzimanja i zatvoriti ovaj privatni prozor?
+       *[other] Zaustaviti { $downloadsCount } preuzimanja i zatvoriti ovaj privatni prozor?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Nećeš moći nastaviti ovo preuzimanje.
+        [one] Nećeš moći nastaviti ova preuzimanja.
+        [few] Nećeš moći nastaviti ova preuzimanja.
+       *[other] Nećeš moći nastaviti ova preuzimanja.
+    }
+download-ui-confirm-private-browsing-button = Zatvori prozor
 
 ##
 

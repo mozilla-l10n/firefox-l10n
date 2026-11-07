@@ -7,6 +7,8 @@ profile-window-body = Darba un personīgā pārlūkošana, tajā skaitā paroles
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Izvēlēties profilu, kad tiek atvērts { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } atvērs jūsu pēdējo izmantoto profilu.
 profile-window-create-profile = Izveidot profilu
 profile-card-edit-button =
     .aria-label = Labot profilu
@@ -40,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatars
 edit-profile-page-delete-button =
     .label = Dzēst
+edit-profile-page-avatar-selector-opener-button =
+    .title = Labot avatāru
 edit-profile-page-avatar-selector-opener-link = Labot
 avatar-selector-icon-tab = Ikona
 avatar-selector-custom-tab = Pielāgots
@@ -70,7 +74,10 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = “{ $profilename }” kopija ir gatava pielāgošanai
+copied-profile-page-header-description = Mēs nokopējām jūsu datus un iestatījumus jaunā profilā. Tagad piešķiriet tam nosaukumu, izvēlieties izskatu un padariet to par savu.
 restored-profile-page-header = Pielāgo savu atjaunoto profilu
+restored-profile-page-header-description = Katrs profils glabā savu neatkārtojamo pārlūkošanas vēsturi un iestatījumus atsevišķi no citiem profiliem. Turklāt { -brand-short-name } spēcīgā privātuma aizsardzība ir ieslēgta pēc noklusējuma.
+restored-profile-page-learn-more = Uzziniet vairāk
 profile-window-title-2 = { -brand-short-name } - Izvēlies profilu
 profile-window-logo =
     .alt = { -brand-short-name } logotips
@@ -89,6 +96,9 @@ delete-profile-bookmarks = Grāmatzīmes
 delete-profile-history = Vēsture (apmeklētās lapas, sīkdatnes, vietņu dati)
 delete-profile-autofill = Automātiskās aizpildes dati (adreses, maksājumu veidi)
 delete-profile-logins = Paroles
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Dzēst profilu “{ $profilename }”
 
 ##
 

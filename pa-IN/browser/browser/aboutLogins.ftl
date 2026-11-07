@@ -181,6 +181,8 @@ about-logins-confirm-delete-dialog-title2 = ਪਾਸਵਰਡ ਨੂੰ ਹਟ�
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਤੁਸੀਂ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
 about-logins-confirm-remove-dialog-confirm-button = ਹਟਾਓ
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = ਹਟਾਓ
 
 ## Variables
 ##   $count (number) - Number of items
@@ -191,8 +193,21 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] ਹਟਾਓ
        *[other] ਸਭ ਨੂੰ ਹਟਾਓ
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] ਹਟਾਓ
+        [one] ਸਾਰੇ ਹਟਾਓ
+       *[other] ਸਾਰੇ ਹਟਾਓ
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] ਹਾਂ, ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+       *[other] ਹਾਂ, ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
     { $count ->
         [1] ਹਾਂ, ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
        *[other] ਹਾਂ, ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
@@ -215,6 +230,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੋਂ { $count } ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
        *[other] ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੋਂ { $count } ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] ਕੀ { $count } ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+       *[other] ਕੀ { $count } ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
