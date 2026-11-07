@@ -136,9 +136,42 @@ about-debugging-tmp-extension-remove-button = Noņemt
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Atrašanās vieta
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Pašpiegādes (push) pakalpojums
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+    .label = Izcelsme
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Pakalpojumu darbinieka pārbaude pašlaik ir atspējota vairākprocesu { -brand-shorter-name } gadījumā
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = Cilne nav pilnībā ielādēta un to nevar pārbaudīt
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-name = Daudzprocesu rīklodziņš
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-description = Mērķa pārlūka galvenie procesi un satura procesi
 about-debugging-message-error-icon =
     .alt = Kļūdas ikona
+about-debugging-message-info-icon =
+    .alt = Informācijas ikona
+about-debugging-message-warning-icon =
+    .alt = Brīdinājuma ikona
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Aizvērt ziņojumu
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Aizvērt ziņojumu
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = Informācija par kļūdu
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Brīdinājuma detaļas
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Sīkāk
 about-debugging-sidebar =
     .heading = Atkļūdošana

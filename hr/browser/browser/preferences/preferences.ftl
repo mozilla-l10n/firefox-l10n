@@ -1224,6 +1224,22 @@ sync-engine-passwords =
     .label = Lozinke
     .tooltiptext = Lozinke koje ste spremili
     .accesskey = L
+sync-engine-addresses2 =
+    .label = Adrese
+    .tooltiptext = Adrese koje spremiš u { -brand-short-name }
+    .accesskey = e
+sync-engine-payment-methods3 =
+    .label = Načini plaćanja
+    .tooltiptext = Načini plaćanja koje spremiš
+    .accesskey = N
+sync-engine-addons2 =
+    .label = Dodaci
+    .tooltiptext = Proširenja i teme koje dodaš u { -brand-short-name } za stolna računala
+    .accesskey = a
+sync-engine-settings2 =
+    .label = Postavke
+    .tooltiptext = Postavke u { -brand-short-name(case: "loc") }, kada je primjenjivo
+    .accesskey = s
 sync-engine-addresses =
     .label = Adrese
     .tooltiptext = Poštanske adrese koje ste spremili (samo radna površina)
@@ -1414,6 +1430,10 @@ autofill-payment-methods-manage-payments-title =
 autofill-payment-methods-manage-payments-button =
     .label = Upravljaj načinima plaćanja
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Zahtijevaj prijavu na uređaju za automatsku ispunu
+    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Zahtijevaj prijavu uređajem za automatsko popunjavanje i upravljanje načinima plaćanja
@@ -1834,6 +1854,11 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Odaberi web-stranice koje mogu instalirati proširenja
     .accesskey = e
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Dopusti stranicama da traže otvaranje poveznica u aplikacijama
+    .accesskey = a
 # Opens the list of sites that are blocked from asking to open app links.
 permissions-app-links-manage-button =
     .label = Upravljaj blokiranim stranicama
@@ -2159,6 +2184,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Sigurnost veze i softvera
+preferences-connection-link-section =
+    .description = Pregledaj kako veza ostaje sigurna, kako se blokira štetni softver i kako se provjeravaju web stranice.
+    .label = Sigurnost veze i softvera
 preferences-connection-link-button =
     .label = Napredne postavke
 
@@ -2200,6 +2230,8 @@ appearance-window-density-touch =
     .label = Dodir
 related-settings-group =
     .label = Povezane postavke
+related-settings-accessibility-link =
+    .label = Prilagodi postavke zumiranja i fonta u „Pristupačnost”
 related-settings-home-link =
     .label = Prilagodi { -firefox-home-brand-name }
 related-settings-tabs-browsing-link =
@@ -2279,6 +2311,10 @@ security-privacy-status-problem-header = { -brand-short-name } predlaže neka si
 security-privacy-status-ok-label = Poboljšana zaštita od praćenja je uključena
 security-privacy-status-problem-label = Pronašli smo postavke koje utječu na tvoju zaštitu
 security-privacy-status-problem-helper-label = Prikaži probleme
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Imaš <a data-l10n-name="strict-tracking-protection">strogu zaštitu</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Imaš <a data-l10n-name="custom-tracking-protection">prilagođenu zaštitu</a>
 security-privacy-status-up-to-date-label = Imaš najnoviju i najsigurniju verziju { -brand-short-name(case: "gen") }
 security-privacy-status-update-needed-label = Dostupna je nova { -brand-short-name } inačica.
 security-privacy-status-update-error-label = { -brand-short-name } ima problema s ažuriranjem
