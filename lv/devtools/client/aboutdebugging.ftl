@@ -232,10 +232,71 @@ about-debugging-tmp-extension-reload-button = Pārlādēt
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Noņemt
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will forcefully terminate the extension background script (button
+# only visible in extensions that includes a non-persistent background script, either an
+# event page or a background service worker).
+about-debugging-tmp-extension-terminate-bgscript-button = Pārtraukt fona skriptu
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Atlasiet failu manifest.json vai .xpi/.zip arhīvu
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Šim tīmekļa paplašinājumam ir pagaidu ID. <a>Uzziniet vairāk</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = Manifesta adrese
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = Iekšējais UUID
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Atrašanās vieta
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Paplašinājuma ID
+# Text displayed for extensions in "runtime" pages, before displaying the status of the
+# extension background script.
+about-debugging-extension-backgroundscript =
+    .label = Fona skripts
+# Displayed for extension using a non-persistent background page (either an event page or
+# background service worker) when the background script is currently running.
+about-debugging-extension-backgroundscript-status-running = Darbojas
+# Displayed for extension using a non-persistent background page when is currently stopped.
+about-debugging-extension-backgroundscript-status-stopped = Apturēts
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+# .disabledTitle is processed by the fluent-react / ActionButton code.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Pakalpojuma darbinieka piespiešana pašlaik ir atspējota vairākprocesu { -brand-shorter-name } gadījumā
+# This string is displayed as a label of the button that starts a service worker.
+# .disabledTitle is processed by the fluent-react / ActionButton code.
+about-debugging-worker-action-start2 = Sākt
+    .disabledTitle = Pakalpojuma darbinieka palaišana pašlaik ir atspējota vairākprocesu { -brand-shorter-name } gadījumā
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Atreģistrēt
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Ielādēt
+    .value = Klausās ieneses notikumus
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Ielādēt
+    .value = Netiek uztverti ielādes notikumi
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Darbojas
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Apturēts
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Reģistrēju
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
