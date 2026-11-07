@@ -83,7 +83,7 @@ contentanalysis-error-message-print = Drukāšana liegta.
 #   $agent - The name of the DLP agent doing the analysis
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
 contentanalysis-timeout-block-error-message-content = Savienojumam ar { $agent } radās taimauts. { $contentName } ir bloķēts.
-contentanalysis-block-dialog-title-upload-file = Jums nav atļauts augšupielādēt šo failu.
+contentanalysis-block-dialog-title-upload-file = Tev nav ļauts augšupielādēt šo datni.
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Saskaņā ar jūsu organizācijas datu aizsardzības nostājām jums nav atļauts augšupielādēt datni “{ $filename }”. Lai iegūtu plašāku informāciju, sazinieties ar administratoru.

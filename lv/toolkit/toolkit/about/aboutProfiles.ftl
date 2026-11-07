@@ -43,8 +43,8 @@ profiles-delete-profile-confirm =
     Profila dzēšana neatgriežami aizvāks to no pieejamo profilu saraksta.
     Jūs varat izvēlēties izdzēst arī profila datu failus, kas satur jūsu iestatījumus, sertifikātus un citus lietotāja datus. Šī iespēja neatgriezeniski izdzēsīs mapi "{ $dir }".
     Vai vēlaties izdzēst profila datu failus?
-profiles-delete-files = Dzēst failus
-profiles-dont-delete-files = Nedzēst failus
+profiles-delete-files = Izdzēst datnes
+profiles-dont-delete-files = Neizdzēst datnes
 profiles-delete-profile-failed-title = Kļūda
 profiles-delete-profile-failed-message = Kļūda mēģinot dzēst profilu.
 profiles-opendir =

@@ -33,7 +33,7 @@ crashreporter-crash-identifier = Avārijas ID: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = Sīkāku informāciju par šo avāriju varat skatīt vietnē { $url }.
 # $path (String) - the file path
-crashreporter-error-opening-file = Neizdevās atvērt failu ({ $path })
+crashreporter-error-opening-file = Neizdevās atvērt datni ({ $path })
 # $path (String) - the file path
 crashreporter-error-loading-file = Neizdevās ielādēt datni ({ $path })
 # $path (String) - the path

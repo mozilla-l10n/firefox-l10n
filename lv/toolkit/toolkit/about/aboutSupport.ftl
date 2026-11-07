@@ -217,7 +217,7 @@ webgl2-driver-extensions = WebGL 2 draivera paplašinājumi
 webgl2-extensions = WebGL 2 paplašinājumi
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
-unknown-failure = Bloķēts; kļūdas kods { $failureCode }
+unknown-failure = Lieguma sarakstā; kļūdas kods { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitors
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Atjaunot nākamajā pārstartēšanā

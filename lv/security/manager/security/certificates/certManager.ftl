@@ -87,8 +87,8 @@ exception-mgr-permanent =
     .label = Patstāvīgi saglabāt šo izņēmumu
     .accesskey = P
 pk11-bad-password = Ievadīta nepareiza parole.
-pkcs12-decode-err = Nevar atkodēt failu.  Vai nu tas nav PKCS #12 formātā, ir bojāts vai arī tika ievadīta nepareiza parole.
-pkcs12-unknown-err-restore = Nezināmu iemeslu dēļ neizdevās atjaunot PKCS #12 failu.
+pkcs12-decode-err = Datnes atkodēšana neizdevās. Vai nu tā nav PKCS #12 formātā, ir bojāta vai arī ievadītā parole nav pareiza.
+pkcs12-unknown-err-restore = Nezināmu iemeslu dēļ neizdevās atjaunot PKCS #12 datni.
 pkcs12-unknown-err-backup = Nezināmu iemeslu dēļ neizdevās izveidot PKCS #12 dublējuma datni.
 pkcs12-unknown-err = Nezināmu iemeslu dēļ PKCS #12 darbība neizdevās.
 pkcs12-info-no-smartcard-backup = Nav iespējams dublēt sertifikātus no aparatūras drošības ierīces, piemēram, viedkartes.
@@ -103,7 +103,7 @@ choose-p12-restore-file-dialog = Importējamā faila nosaukums
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Sertifikāta datnes
-import-ca-certs-prompt = Izvēlieties failu, kas satur importējamo CA sertifikātu
+import-ca-certs-prompt = Atlasi datni, kas satur ievietojamo(s) CA sertifikātu(s)
 import-email-cert-prompt = Jāatlasa datne, kas satur ievietojamo e-pasta sertifikātu
 
 ## For editing certificates trust

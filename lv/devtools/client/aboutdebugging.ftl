@@ -297,6 +297,9 @@ about-debugging-worker-status-running = Darbojas
 about-debugging-worker-status-stopped = Apturēts
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Reģistrēju
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Tvērums
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
