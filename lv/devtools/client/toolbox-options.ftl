@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Iestatiet pašreizējo ievades vērtību kā maksimālo pieprasījuma/atbildes pamatteksta lielumu.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Eksperimentālās funkcijas
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Rādīt stila lapas atkļūdotājā
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stilu lapu saraksts un skatīšana atkļūdotājā
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (nepieciešama rīku komplekta atkārtota atvēršana)
+
 ## Style Editor section
 
 # The heading
@@ -131,6 +143,33 @@ options-sourceeditor-expandtab-label = Veidot atkāpes ar atstarpēm
 options-sourceeditor-tabsize-label = Tabulācijas izmērs
 options-sourceeditor-keybinding-label = Piesaistītie taustiņi
 options-sourceeditor-keybinding-default-label = Noklusējuma
+
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokālais režīms
+options-local-mode-only-work-locally = Lokālais režīms darbojas tikai lokāli un ir atspējots, atkļūdojot attālos kontekstus.
+options-local-mode-behavior = Lokālais režīms ļauj ielādēt lokālos failus, izmantojot https URL, bez jebkādas ārējas atkarības. URL var ielādēt tikai no cilnēm, kurās ir atvērti DevTools.
+options-local-mode-domain-label = Pielāgots domēns:
+options-local-mode-origin-input =
+    .placeholder = Vietējās kartēšanas izcelsme
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Šī izcelsme konfliktē ar citu esošu kartējumu
+options-local-mode-origin-invalid = Šī izcelsme nav derīga
+options-local-mode-folder-label = Lokālā mape:
+options-local-mode-choose-folder = Pārlūkot...
+    .title = Izvēlieties lokālo mapi, kurā rādīt šo kartējumu
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Izvēlieties lokālā režīma mapi: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Šī mape neeksistē vai ir nederīga.
+options-local-mode-toggle =
+    .title = Pārslēgt šo lokālo kartējumu
+options-local-mode-toggle-enable = Iespējot
+options-local-mode-toggle-disable = Atslēgts
 
 ## Advanced section
 
