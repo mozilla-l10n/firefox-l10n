@@ -7,6 +7,23 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Profilētāja iestatījumi
+perftools-intro-description = Ieraksti atver profiler.firefox.com jaunā cilnē. Visi dati tiek glabāti lokāli, taču varat izvēlēties tos augšupielādēt koplietošanai.
+
+## All of the headings for the various sections.
+
+perftools-heading-settings = Pilni iestatījumi
+perftools-heading-buffer = Bufera iestatījumi
+perftools-heading-features = Iespējas
+perftools-heading-features-default = Iespējas (ieteicamās pēc noklusējuma ir ieslēgtas)
+perftools-heading-features-disabled = Atspējotas iespējas
+perftools-heading-features-experimental = Eksperimentāls
+perftools-heading-threads = Pavediens
+perftools-heading-threads-jvm = JVM pavedieni
+perftools-heading-local-build = Lokālais būvējums
+
+##
+
 perftools-description-intro = Ieraksti palaiž <a>profiler.firefox.com</a> jaunā cilnē. Visi dati tiek glabāti lokāli, taču varat izvēlēties tos augšupielādēt koplietošanai.
 perftools-description-local-build = Ja šajā datorā profilējat paša kompilētu versiju, lūdzu, pievienojiet savas versijas objdir failu zemāk esošajam sarakstam, lai to varētu izmantot simbolu informācijas meklēšanai.
 perftools-pick-local-build-directory = Izvēlieties būvēšanas direktoriju
@@ -134,3 +151,22 @@ perftools-onboarding-close-button =
 perftools-presets-web-developer-label = Izstrādātāju rīki
 perftools-presets-web-developer-description = Ieteicamais iepriekšiestatījums lielākajai daļai tīmekļa lietotņu atkļūdošanas ar zemu pieslēguma vērtību.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Ieteicamais profilēšanas iestatījums { -brand-shorter-name }.
+perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description = Iepriekš iestatīts iestatījums grafikas kļūdu izmeklēšanai { -brand-shorter-name }.
+perftools-presets-media-label = Multivide
+perftools-presets-media-description2 = Iepriekš iestatīts iestatījums audio un video kļūdu izmeklēšanai { -brand-shorter-name }.
+perftools-presets-ml-label = Mašīnmācīšanās
+perftools-presets-ml-description2 = Iepriekš iestatīts iestatījums mašīnmācīšanās kļūdu izmeklēšanai { -brand-shorter-name }.
+perftools-presets-networking-label = Tīkls
+perftools-presets-networking-description = Iepriekš iestatīts iestatījums tīkla kļūdu izmeklēšanai { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Tīkls ar žurnāliem
+perftools-presets-networking-with-logs-description = Iepriekš iestatīts tīklošanas kļūdu izmeklēšanai pakalpojumā { -brand-shorter-name }, tostarp tīkla žurnālos. Šajos žurnālos var būt ietverta sensitīva informācija, piemēram, apmeklētie URL.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Enerģija
+perftools-presets-power-description = Iestatījums enerģijas patēriņa problēmu izpētei pārlūkā { -brand-shorter-name }, kas maz ietekmē veiktspēju.
+perftools-presets-debug-label = Atkļūdot
+perftools-presets-debug-description = Sākotnējais iestatījums atkļūdošanai pārlūkā { -brand-shorter-name }. Patērē daudz resursu, tāpēc neizmanto veiktspējas analīzei, bet gan pārlūka darbības izprašanai.
+perftools-presets-web-compat-label = Tīmekļa saderība
+perftools-presets-web-compat-description = Ieteicamais iestatījums vietņu saderības problēmu atkļūdošanai, nevis veiktspējas izsekošanai.
+perftools-presets-custom-label = Pielāgots

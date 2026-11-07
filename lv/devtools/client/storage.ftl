@@ -61,7 +61,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nosaukums
 storage-table-headers-cookies-value = Vērtība
+storage-table-headers-cookies-creation-time = Izveidots
+storage-table-headers-cookies-update-time = Atjaunots
 storage-table-headers-cache-status = Stāvoklis
+storage-table-headers-extension-storage-area = Krātuves apgabals
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -70,6 +73,7 @@ storage-tree-labels-local-storage = Local Storage
 storage-tree-labels-session-storage = Sesijas krātuve
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Kešatmiņa
+storage-tree-labels-extension-storage = Paplašinājuma krātuve
 
 ##
 
