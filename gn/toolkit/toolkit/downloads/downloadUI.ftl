@@ -39,6 +39,8 @@ download-ui-cancel-downloads-ok =
         [1] Peteĩ Ñemboguejy jeheja
        *[other] Eheja { $downloadsCount } Ñemboguejy
     }
+download-ui-confirm-cancel-button = Eheja
+download-ui-confirm-offline-button = Eike ñandutípe
 
 ##
 

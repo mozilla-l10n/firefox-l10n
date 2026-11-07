@@ -107,6 +107,9 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Eike mbyatyha rendayke pyahúpe
     .accesskey = e
+tab-context-open-in-container =
+    .label = Embojuruja mbyatyhápe
+    .accesskey = e
 move-to-start =
     .label = Eguerova Ñepyrũme
     .accesskey = S
@@ -123,6 +126,9 @@ move-to-end-alt =
 move-to-new-window =
     .label = Ovetã pyahúpe jereraha
     .accesskey = W
+move-to-new-window-alt =
+    .label = Ovetã pyahu
+    .accesskey = W
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -137,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Emboty tendayke ikõiva
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Emomokõi tendayke
+    .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = Emboty tendayke ikõiva
     .accesskey = x
@@ -153,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Aty pyahu
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = Aty pyahu
+tab-context-add-tab-to-group-closed-groups =
+    .label = Aty ñembotypýpa
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -201,6 +215,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Emongu’e jehechaha pehẽ amo
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Eguerova tendayke
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

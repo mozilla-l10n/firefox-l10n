@@ -18,6 +18,21 @@ about-processes-shutdown-tab =
     .title = Emboty tendayke
 about-processes-unload-tab =
     .title = Emboguejy tendayke
+about-processes-reload-tab =
+    .title = Emyanyhẽjey tendayke
+about-processes-select-all-tabs =
+    .title = Eiporavopaite tendayke
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Emyasãi tendaykeita ko tendagua
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Ipytupa tendaykeita ko tendagua
+about-processes-expand-all-sites =
+    .title = Embotuichave
+about-processes-collapse-all-sites =
+    .title = Pa’ãmbaite
 about-processes-go-to-tab =
     .title = Eho tendayképe
 # Profiler icons
@@ -129,6 +144,19 @@ about-processes-tab-count =
         [one] { $count } tendayke
        *[other] { $count } tendaykeita
     }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Ehejarei poravopy
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Mboguejy
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Myanyhẽjey
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Emboty
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -180,6 +208,12 @@ about-processes-cpu-fully-idle = Oĩreíva
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = Oĩreíva
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0.1%
 
@@ -199,6 +233,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Mongakuaa: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 

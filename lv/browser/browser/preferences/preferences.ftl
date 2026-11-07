@@ -1469,8 +1469,46 @@ addreses-edit-address-button-label =
     .aria-label = Rediģēt
 addresses-delete-address-prompt-title = Vai dzēst šo adresi?
 addresses-delete-address-prompt-confirm-button = Dzēst
+addresses-delete-address-prompt-cancel-button = Atcelt
 autofill-addresses-add-button = Pievienot jaunu adresi
+autofill-addresses-manage-addresses-title =
+    .heading = Pārvaldīt adreses un vairāk
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nav pievienotas adreses
+personal-info-group =
+    .label = Personīgā informācija
+autofill-personal-info-checkbox-message =
+    .label = Saglabāt un automātiski aizpildīt personas informāciju
+autofill-personal-info-manage-button =
+    .label = Pārvaldīt personas informāciju
+passports-list-header =
+    .label = Pases
+passports-delete-passport-button-label =
+    .aria-label = Dzēst
+passports-edit-passport-button-label =
+    .aria-label = Labot
+passports-delete-passport-prompt-title = Vai dzēst šo pasi?
+passports-delete-passport-prompt-confirm-button = Dzēst
+passports-delete-passport-prompt-cancel-button = Atcelt
 autofill-passports-add-button = Pievienot jaunu pasi
+autofill-personal-info-manage-title =
+    .heading = Pārvaldīt personas informāciju
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Nav pievienotas pases
+pane-passwords-autofill-title2 = Paroles un automātiskā aizpildīšana
+    .title = Paroles un automātiskā aizpildīšana
+preferences-passwords-autofill-header =
+    .heading = Paroles un automātiskā aizpildīšana
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .description = { $expDate }
+    .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
 # code itself: "•••" stands for the hidden code, so keep it as is rather than
@@ -1493,9 +1531,33 @@ payment-moz-box-item-with-security-code-2 =
 payment-moz-box-item-security-code-only-2 =
     .description = { $securityCode } •••
     .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV saglabāts
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV saglabāts
+    .label = { $cardNumber }
+addresses-group =
+    .label = Adreses un citi
+payments-group =
+    .label = Maksājuma metodes
 
 ## Privacy Section - History
 
+history-remember-option-never2 =
+    .description = Katrs logs darbojas kā privāts logs. Ja tas ir ieslēgts, paplašinājumiem ir jābūt atļautiem.
+    .label = Nekad neatcerēsies vēsturi
 history-remember-option-custom2 =
     .label = Pielāgot vēsturi
 history-remember-description4 =
@@ -1522,16 +1584,28 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Iestatījumi…
     .accesskey = t
+history-shutdown-exceptions =
+    .label = Pārvaldīt izņēmumus
+    .accesskey = x
 history-clear-button =
     .label = Notīrīt vēsturi…
     .accesskey = v
+history-header2 =
+    .heading = Vēsture
+history-section-header =
+    .description = Izvēlieties, ko vēlaties, lai { -brand-short-name } atcerētos, aizverot pārlūkprogrammu.
+    .label = Vēsture
 history-custom-section-header =
     .description = Pielāgo, ko vēlies, lai { -brand-short-name } atcerētos, kad aizver pārlūku.
     .label = Paplašinātie iestatījumi
+history-custom-button =
+    .label = Izvēlieties, ko vēlaties, lai { -brand-short-name } atcerētos
 history-group =
     .label = Vēsture
 history-mode-radio-group =
     .aria-label = Vēsture
+history-remember-option-all2 =
+    .label = Atceries vēsturi
 
 ## Privacy Section - Site Data
 
@@ -1881,6 +1955,13 @@ nimbus-rollouts =
 addon-recommendations3 =
     .description = Saņemiet paplašinājumu ieteikumus, lai uzlabotu pārlūkošanas pieredzi.
     .label = Atļaut personalizētus paplašinājumu ieteikumus
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Datu ziņošana šai būvējuma konfigurācijai ir atspējota.
+collection-backlogged-crash-reports2 =
+    .label = Automātiski sūtīt avāriju pārskatus
+    .accesskey = c
+collection-backlogged-crash-reports-description = Tas palīdz { -vendor-short-name } diagnosticēt un novērst problēmas ar pārlūku. Ziņojumos var būt iekļauti personas vai sensitīvi dati.
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = Tie paši iestatījumi, jauns izskats.
@@ -1893,6 +1974,12 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt izvērstu informāciju
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .description = Mēs cenšamies sniegt jums izvēles iespējas un apkopot tikai minimālos datus, kas nepieciešami, lai uzlabotu { -brand-product-name } ikvienam.
+    .label = { -brand-short-name } datu vākšana un izmantošana
+    .searchkeywords = telemetrija
+data-collection-link = Skatīt privātuma paziņojumu
 data-collection-health-report-telemetry-disabled =
     .message = Jūs vairs neļaujat { -vendor-short-name } uzņemt tehniskos un mijiedarbības datus. Visi iepriekšējie dati tiks dzēsti 30 dienu laikā.
 data-collection-studies-link =
