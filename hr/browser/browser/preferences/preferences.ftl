@@ -1912,6 +1912,8 @@ notifications-entry-manage-button-empty =
 notifications-website-card-header =
     .description = Odaberi kako web stranice mogu slati obavijesti
     .label = Obavijesti web stranica
+notifications-filter =
+    .placeholder = Pretraži web stranice
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
@@ -1939,6 +1941,9 @@ notifications-state-never = Nikad
 # notification decision.
 notifications-empty-message =
     .label = Nema dodanih obavijesti web stranica.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Nijedna web obavijest se ne podudara s tvojom pretragom.
 
 ## Privacy Section - Data Collection
 
@@ -2311,6 +2316,16 @@ security-privacy-status-problem-header = { -brand-short-name } predlaže neka si
 security-privacy-status-ok-label = Poboljšana zaštita od praćenja je uključena
 security-privacy-status-problem-label = Pronašli smo postavke koje utječu na tvoju zaštitu
 security-privacy-status-problem-helper-label = Prikaži probleme
+security-privacy-status-pending-trackers-label = Dohvaćanje broja programa za praćenje koje je { -brand-short-name } blokirao tijekom prošlog mjeseca
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] Blokiran je { $trackerCount } program za praćenje tijekom prošlog mjeseca
+        [few] Blokirana su { $trackerCount } programa za praćenje tijekom prošlog mjeseca
+       *[other] Blokirano je { $trackerCount } programa za praćenje tijekom prošlog mjeseca
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Imaš <a data-l10n-name="strict-tracking-protection">strogu zaštitu</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings

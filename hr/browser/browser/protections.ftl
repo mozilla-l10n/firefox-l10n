@@ -263,6 +263,7 @@ privacy-metrics-social =
 privacy-metrics-empty = Ovaj tjedan nije blokiran nijedan program za praćenje. { -brand-short-name } te štiti od sljedećih prijetnji tijekom pregledavanja.
 privacy-metrics-loading = Učitavanje statistike zaštite …
 privacy-metrics-error = Nije moguće učitati statistiku zaštite.
+privacy-metrics-private-window = { -brand-short-name } nastavlja blokirate programe za praćenje u privatnom prozoru, ali ne bilježi što je blokirano.
 
 ## VPN promo card and banner
 

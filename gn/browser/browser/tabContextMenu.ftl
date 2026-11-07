@@ -34,19 +34,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Emboty tendayke asu gotyo
     .accesskey = I
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Tendayke asu gotyo
+    .accesskey = l
 close-tabs-to-the-start-vertical =
     .label = Emboty tendayke yvategua
     .accesskey = I
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Tendayke yvate gotyo
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Tendayke mboty akatúa gotyo
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Tendayke akatúa gotyo
+    .accesskey = i
 close-tabs-to-the-end-vertical =
     .label = Emboty tendayke yvygotyogua
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Tendayke yvy gotyo
+    .accesskey = i
 close-other-tabs =
     .label = Ambue togue pyahu ñemboty
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Oĩmíva guive
     .accesskey = o
 reload-tabs =
     .label = Emyanyhẽjey tendayke

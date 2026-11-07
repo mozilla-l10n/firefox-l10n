@@ -18,6 +18,8 @@ colorpicker-tooltip-color-name-title = Vistuvāk: { $colorName }
 colorpicker-tooltip-hue-slider-title = Nokrāsa
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Necaurspīdība
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Elementiem specifiskas pseidoklases
 # A title text for the button in the Inspector toolbar that opens the menu
 # controlling how the Inspector panels are split.
 inspector-split-orientation-button-title = Paneļa izkārtojums
@@ -29,3 +31,36 @@ inspector-split-orientation-side-by-side = Blakus
 # A label for the split orientation menu item that locks the panels on top of
 # each other.
 inspector-split-orientation-stacked = Cits virs cita
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Ieslēgt/izslēgt gaišās krāsu shēmas emulāciju lapai
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Ieslēgt/izslēgt tumšās krāsu shēmas emulāciju lapai
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .aria-label = Pārslēgt CSS emulācijas funkcijas
+    .title = Pārslēgt CSS emulācijas funkcijas
+inspector-emulation-panel-color-scheme = Krāsu shēmas emulācija
+# A label text for the print emulation options
+inspector-emulation-panel-print = Aktivēt
+    .aria-label = Iespējot drukāto mediju emulāciju
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Gaišs
+    .aria-label = Iespējot gaišās krāsu shēmas emulāciju
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Tumšs
+    .aria-label = Iespējot tumšās krāsu shēmas emulāciju
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Nav emulācijas
+    .aria-label = Atspējot krāsu shēmas emulāciju
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Samazināt
+    .aria-label = Iespējot samazinātas kustības emulāciju
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Nav priekšrocību
+    .aria-label = Iespējot bez preferences samazinātas kustības emulācijai
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Nav emulācijas
+    .aria-label = Atspējot samazinātas kustības emulāciju

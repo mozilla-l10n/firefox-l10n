@@ -65,6 +65,8 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Tembiasakue
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Jeikehague rysýi ha mboguejypy
 item-history-and-downloads =
     .label = Kundaha ha ñemboguejypyre rembiasakue
     .accesskey = B
@@ -88,6 +90,11 @@ item-active-logins =
 item-cache =
     .label = Kache
     .accesskey = a
+item-cached-content2 =
+    .label = Marandurenda sapy’agua
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Eykeko tendaita henyhẽ pya’eve hag̃ua
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -116,6 +123,7 @@ item-site-settings =
 item-offline-apps =
     .label = Mba’ekuaarã ñanduti renda jeikekatu’ỹre
     .accesskey = O
+sanitize-everything-undo-warning2 = Kóva ndaikatúi eipe’a.
 sanitize-everything-undo-warning = Ko tembiapo ndaikatúi emboguevi.
 window-close =
     .key = w
