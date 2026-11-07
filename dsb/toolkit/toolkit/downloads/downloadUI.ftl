@@ -62,6 +62,14 @@ download-ui-confirm-private-browsing-title =
         [few] { $downloadsCount } ześěgnjenja zastajiś a toś to priwatne wokno zacyniś?
        *[other] { $downloadsCount } ześěgnjenjow zastajiś a toś to priwatne wokno zacyniś?
     }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Njamóžośo z toś tym ześěgnjenim pókšacowaś.
+        [one] Njamóžośo z toś tym ześěgnjenim pókšacowaś.
+        [two] Njamóžośo z toś tym { $downloadsCount } ześěgnjenjoma pókšacowaś.
+        [few] Njamóžośo z toś tym { $downloadsCount } ześěgnjenjami pókšacowaś.
+       *[other] Njamóžośo z toś tym { $downloadsCount } ześěgnjenjami pókšacowaś.
+    }
 download-ui-confirm-private-browsing-button = Wokno zacyniś
 
 ##

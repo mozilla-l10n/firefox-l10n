@@ -88,8 +88,24 @@ about-debugging-setup-title = Iestatīšana
 about-debugging-setup-intro = Konfigurējiet savienojuma metodi, ar kuru vēlaties attālināti atkļūdot ierīci.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Lai atkļūdotu paplašinājumus un pakalpojumu darbiniekus šajā { -brand-shorter-name } versijā, izmantojiet <a>{ about-debugging-this-firefox-runtime-name } </a>.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Ierīces pievienošana
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
 about-debugging-setup-usb-disabled = Pēc iespējošanas tiks lejupielādētas un { -brand-shorter-name } pievienotas nepieciešamās Android USB atkļūdošanas sastāvdaļas.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Iespējot USB ierīces
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Atspējot USB ierīces
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Notiek atjaunināšana…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Iespējots
+about-debugging-setup-usb-status-disabled = Deaktivēts
+about-debugging-setup-usb-status-updating = Notiek atjaunināšana…
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Pievienot

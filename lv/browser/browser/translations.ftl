@@ -74,6 +74,14 @@ translations-panel-error-dismiss-button =
     .label = Sapratu
 translations-panel-error-change-button =
     .label = Mainīt avota valodu
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = Atvainojiet, mēs vēl neatbalstām tulkojumus no { $language } valodas.
+translations-panel-error-unsupported-hint-unknown-2 = Atvainojiet, mēs vēl neatbalstām tulkojumus no šīs valodas.
 
 ## The default translation view contains two language dropdowns.
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -211,6 +219,16 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Tulkojot radās problēma. Lūdzu, mēģiniet vēlreiz.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = Atvainojiet, mēs vēl neatbalstām tulkojumus no { $language } valodas.
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = Atvainojiet, mēs vēl neatbalstām tulkojumus no šīs valodas.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Tulkošanas iestatījumi

@@ -178,6 +178,8 @@ about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = ایسا نترین ای کاری ک ٱنجوم داڌین ن لقو کۊنین وو وورگرتین.
 about-logins-confirm-remove-dialog-confirm-button = پاک کردن
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = پاک کردن
 
 ## Variables
 ##   $count (number) - Number of items

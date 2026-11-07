@@ -217,6 +217,51 @@ tab-context-move-tabs3 =
            *[other] Pārvietot { $tabCount } cilnes uz
         }
     .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Pārvietot cilni uz
+            [zero] Pārvietot { $tabCount } cilnes uz
+            [one] Pārvietot { $tabCount } cilni uz
+           *[other] Pārvietot { $tabCount } cilnes uz
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Pārvietot sadalīto skatu uz
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Pārvietot cilnes uz
+    .accesskey = v
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Sūtīt uz ierīci
+            [zero] Sūtīt { $tabCount } cilnes uz ierīci
+            [one] Sūtīt { $tabCount } cilni uz ierīci
+           *[other] Sūtīt { $tabCount } cilnes uz ierīci
+        }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = Sūtīt uz jūsu ierīcēm
+    .accesskey = n
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Sūtīt uz mobilo ierīci
+            [zero] Nosūtīt { $tabCount } cilnes uz mobilo ierīci
+            [one] Nosūtīt { $tabCount } cilni uz mobilo ierīci
+           *[other] Nosūtīt { $tabCount } cilnes uz mobilo ierīci
+        }
+    .accesskey = n
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Izveidot koplietojamu saiti
+    .accesskey = a
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
@@ -228,3 +273,7 @@ tab-context-unload-n-tabs =
            *[other] Izlādēt { $tabCount } ciļņu
         }
     .accesskey = i
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Izlādēt
+    .accesskey = U
