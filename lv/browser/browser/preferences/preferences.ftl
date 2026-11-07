@@ -763,6 +763,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header-generic =
     .label = Ieteiktie stāsti
 home-prefs-recommended-by-description-generic = Izcils saturs, ko atlasa { -brand-product-name } saime
+home-prefs-stories-description = Personalizēti stāsti, pamatojoties uz jūsu aktivitātēm
 
 ##
 
@@ -780,7 +781,15 @@ home-prefs-recent-activity-header =
 home-prefs-recent-activity-description = Neseno vietņu un satura izlase
 home-prefs-weather-header =
     .label = Laikapstākļi
+home-prefs-weather-description = Šodienas laika prognoze īsumā
 home-prefs-weather-learn-more-link = Uzzināt vairāk
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Atjaunot { -brand-product-name }
+home-prefs-mission-message = Mūsu sponsori atbalsta mūsu misiju veidot labāku tīmekli
+home-prefs-mission-message-learn-more-link = Uzziniet, kā
+home-prefs-manage-topics-link = Pārvaldīt tēmas
+home-prefs-choose-wallpaper-link = Izvēlieties fonu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -824,6 +833,8 @@ search-show-search-term-option-2 =
 search-separate-default-engine-2 =
     .label = Privātajos logos izmantot citu noklusējuma meklētāju
     .accesskey = P
+search-separate-default-engine-dropdown =
+    .aria-label = Noklusējuma meklētājs privātajos logos
 # "Navigation" here means moving around within the address bar and its results
 # list, not navigation to the address bar.
 addressbar-navigation-group =
@@ -843,6 +854,12 @@ search-engine-list =
     .aria-label = Meklētāji un īsinājumtaustiņi
 update-search-engine-success =
     .message = Meklētājs sekmīgi atjaunināts
+search-edit-engine-2 =
+    .title = Labot meklētāju
+search-delete-engine =
+    .title = Dzēst meklētāju
+search-enable-engine =
+    .title = Iespējot meklētāju
 search-outlink-to-extensions-page =
     .title = Pārvaldīt paplašinājumos un tēmās
 search-choose-engine-column =
@@ -1315,7 +1332,24 @@ autofill-payment-methods-manage-payments-button =
 autofill-payment-methods-require-device-sign-in-checkbox =
     .label = Pieprasīt pieteikšanos ierīcē, lai automātiski aizpildītu
     .accesskey = l
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Lai automātiski aizpildītu un pārvaldītu maksājuma veidus, ir nepieciešama ierīces pierakstīšanās.
+    .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Saglabāt drošības kodus
+    .accesskey = S
 autofill-payment-methods-add-button = Pievienot jaunu maksājumu veidu
+payments-list-header =
+    .label = Maksājuma metodes
+payments-delete-payment-prompt-title = Vai dzēst šo maksājuma veidu?
+payments-delete-payment-prompt-confirm-button = Dzēst
+payments-delete-payment-prompt-cancel-button = Atcelt
+payments-delete-payment-button-label =
+    .aria-label = Dzēst
+payments-edit-payment-button-label =
+    .aria-label = Labot
 autofill-addresses-add-button = Pievienot jaunu adresi
 autofill-passports-add-button = Pievienot jaunu pasi
 # Used in place of payment-moz-box-item when a security code is saved alongside

@@ -154,6 +154,9 @@ policy-SearchSuggestEnabled = Ieslēgt vai izslēgt meklēšanas ieteikumus.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Pievienot vai dzēst PKCS #11 moduļus.
 policy-ShowHomeButton = Rīkjoslā rādīt sākuma pogu.
+policy-SitePolicies = Vietnes noteikumi.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Nerādīt Lietošanas noteikumus un Paziņojumu par konfidencialitāti, kad pārlūks tiek palaists. Jūs apliecināt, ka piekrītat un jums ir tiesības pieņemt Lietošanas noteikumus visu to personu vārdā, kurām jūs sniedzat piekļuvi šai pārlūkam.
 policy-SSLVersionMax = Iestatīt maksimālo SSL versiju.
 policy-SSLVersionMin = Iestatīt minimālo SSL versiju.
 policy-StartDownloadsInTempDirectory = Piespiest lejupielādes sākt vietējā pagaidu vietā, nevis noklusējuma lejupielāžu mapē.
@@ -161,6 +164,11 @@ policy-SupportMenu = Palīdzības izvēlnē pievienot pielāgotu atbalsta izvēl
 policy-TranslateEnabled = Iespējot vai atspējot tīmekļvietņu tulkošanu.
 policy-UserMessaging = Nerādīt lietotājam noteiktus ziņojumus.
 policy-UseSystemPrintDialog = Drukāt, izmantojot sistēmas drukāšanas dialoglodziņu.
+policy-VisualSearchEnabled = Iespējot vai atspējot vizuālo meklēšanu.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Liegt tīmekļvietņu apmeklēšanu. Vairāk informācijas par pierakstu pieejama dokumentācijā.
 policy-Windows10SSO = Atļaut Windows vienreizējo ierakstīšanos Microsoft, darba un mācību iestādes kontiem.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Atļaut vienreizēju pierakstīšanos Microsoft Entra kontiem.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Iespējot vai atspējot XSLTProcessor JavaScript API un XSLT apstrādes instrukcijas atbalstu.

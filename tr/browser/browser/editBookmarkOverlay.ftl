@@ -12,7 +12,7 @@ bookmark-overlay-url =
 # bookmarks, not to its URL or address.
 bookmark-overlay-location-2 =
     .value = Konum
-    .accesskey = K
+    .accesskey = o
 bookmark-overlay-choose =
     .label = Seç…
 bookmark-overlay-folders-expander2 =

@@ -7,6 +7,10 @@ containers-window-close =
 containers-name-label2 =
     .label = Nosaukums
     .placeholder = Pievienot nosaukumu
+containers-icon-label2 =
+    .label = Ikona
+containers-color-label2 =
+    .label = Krāsa
 containers-dialog2 =
     .buttonlabelaccept = Saglabāt
     .buttonaccesskeyaccept = S
@@ -16,6 +20,11 @@ containers-dialog =
 containers-window-new3 =
     .style = min-width: 32em
     .title = Pievienot jaunu konteineru
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .style = min-width: 32em
+    .title = { $name } Konteinera iestatījumi
 
 ## Dialog that binds a website to a container.
 
@@ -39,3 +48,5 @@ containers-site-duplicate-error = Šī tīmekļvietne jau ir Tavā sarakstā
 ## Container creation panel, anchored to the URL bar.
 
 containers-panel-title = Pievienot jaunu konteineru
+containers-panel-create-button =
+    .label = Gatavs
