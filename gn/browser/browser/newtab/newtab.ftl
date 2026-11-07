@@ -448,6 +448,11 @@ newtab-search-widget-open-menu-button =
     .aria-label = Embojuruja poravorã jehekaha
     .title = Embojuruja poravorã jehekaha
 
+## Recent searches widget — empty states
+
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Umi ojehekavéva ndojeporukuaái ko’ag̃aite.
+
 ## Strings for the Horoscopes widget
 
 # Widget heading; also the widget's accessible name.
@@ -479,6 +484,27 @@ newtab-solitaire-widget-open-menu-button =
     .title = Embojuruja solitario poravoha
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Eikuaave
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Hecha
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Partídoita
+newtab-widget-wrexhamafc-view-table = Tábla
+newtab-widget-wrexhamafc-view-fixtures = Partído ñeha’ãrã
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Mba’erechaha rugua
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1336,6 +1362,12 @@ newtab-widget-menu-move-left = Asugua
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Akatúa
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Ñepyrũ
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgets
 newtab-widget-size-small = Michĩva
 newtab-widget-size-medium = Mbyteguáva
 newtab-widget-size-large = Tuicháva

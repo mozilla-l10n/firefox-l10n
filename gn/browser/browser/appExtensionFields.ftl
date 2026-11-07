@@ -77,3 +77,5 @@ extension-classic-yellow-name = Sa’yju
 extension-classic-red-name = Ñanduti
 # Name for an orange theme.
 extension-classic-orange-name = Narã
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = Hũ OLED

@@ -93,10 +93,13 @@ genai-shortcut-button =
     .aria-label = Eporandu { $provider }-pe
 genai-menu-new-badge = Pyahu
 genai-menu-summarize-page = Emombyky kuatiarogue
+genai-menu-summarize-with-ai = Emombyky IA ndive
 genai-input-ask-smart-window =
     .placeholder = Porandu…
 genai-input-ask-generic =
     .placeholder = Eporandu chatbot-pe IA rehegua…
+genai-input-ask-ai =
+    .placeholder = Eporandu IA-pe…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Eporandu { $provider }-pe…

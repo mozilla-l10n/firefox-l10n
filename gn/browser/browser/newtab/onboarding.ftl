@@ -617,3 +617,8 @@ welcome-back-onboarding-card-label-tabs = Eñemoĩ tendayke ñembo’y ha aty nd
 welcome-back-onboarding-card-label-vpn = Eime ñemíhápe VPN juajupyre ndive
 welcome-back-onboarding-card-label-pdf = Embosa’y, emboheraguapy ha emba’apo PDF ndive
 welcome-back-onboarding-card-tilebutton-label = Eha’ã jey
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Egueru mba’ekuaarã
+hnt-card-extensions-primary-button = Ehapykueho
