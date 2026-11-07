@@ -1624,6 +1624,9 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Rādīt brīdinājumu, kad vietnes mēģina instalēt paplašinājumus
     .accesskey = R
+permissions-addon-exceptions2 =
+    .label = Izvēlieties, kuras vietnes var instalēt paplašinājumus
+    .accesskey = e
 # App links are links that a website can ask to open for you, like email
 # (mailto:) links.
 permissions-allow-app-links =
@@ -1635,6 +1638,10 @@ permissions-app-links-manage-button =
     .accesskey = P
 permissions-location2 =
     .label = Atrašanās vieta
+permissions-localhost2 =
+    .label = Ierīces lietotnes un pakalpojumi
+permissions-local-network2 =
+    .label = Vietējā tīkla ierīces
 permissions-xr2 =
     .label = Virtuālā realitāte
 permissions-camera2 =
