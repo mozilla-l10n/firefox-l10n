@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Бет URL-ін көшіру
 customkeys-file-focus-search = Іздеу жолағына фокустау
 customkeys-history-reopen-tab = Соңғы жабылған бетті қайта ашу
 customkeys-history-reopen-window = Соңғы жабылған терезені қайта ашу
+customkeys-history-reopen-tab-current-window = Ағымдағы терезенің соңғы жабылған бетін қайта ашу
 customkeys-sidebar-toggle = Бүйір панелін көрсету/жасыру
 customkeys-view-bookmarks-toolbar = Бетбелгілер панелін көрсету/жасыру
 customkeys-view-picture-in-picture = Суреттегі сурет
