@@ -7,9 +7,21 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-description-intro = Ieraksti palaiž <a>profiler.firefox.com</a> jaunā cilnē. Visi dati tiek glabāti lokāli, taču varat izvēlēties tos augšupielādēt koplietošanai.
+perftools-description-local-build = Ja šajā datorā profilējat paša kompilētu versiju, lūdzu, pievienojiet savas versijas objdir failu zemāk esošajam sarakstam, lai to varētu izmantot simbolu informācijas meklēšanai.
+perftools-pick-local-build-directory = Izvēlieties būvēšanas direktoriju
+
+## The controls for the interval at which the profiler samples the code.
+
+perftools-range-interval-label = Paraugu ņemšanas intervāls:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ## Generic memory units that can be used in various places, eg for the buffer size.
 
+# Byte
+perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } B
+# Kibibyte
+perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } KiB
 # Mebibyte
 perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } MiB
 # Gibibyte
@@ -110,6 +122,15 @@ perftools-record-all-registered-threads = Apiet iepriekš minētās atlases un i
 perftools-tools-threads-input-label =
     .title = Šie pavedienu nosaukumi ir ar komatiem atdalīts saraksts, kas tiek izmantots, lai iespējotu pavedienu profilēšanu profilētājā. Lai nosaukums tiktu iekļauts, tam ir jābūt tikai daļējai atbilstībai pavediena nosaukumam. Tas ir jutīgs pret atstarpēm.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
+perftools-onboarding-message = <b>Jaunums</b>: { -profiler-brand-name } tagad ir integrēts izstrādātāju rīkos. <a>Uzziniet vairāk</a> par šo jauno, jaudīgo rīku.
+perftools-onboarding-close-button =
+    .aria-label = Aizvērt ievadziņojumu
+
 ## Profiler presets
 
+perftools-presets-web-developer-label = Izstrādātāju rīki
+perftools-presets-web-developer-description = Ieteicamais iepriekšiestatījums lielākajai daļai tīmekļa lietotņu atkļūdošanas ar zemu pieslēguma vērtību.
 perftools-presets-firefox-label = { -brand-shorter-name }
