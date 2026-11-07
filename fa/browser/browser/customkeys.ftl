@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = رونوشت نشانی زبانه
 customkeys-file-focus-search = رفتن به نوار جست‌وجو
 customkeys-history-reopen-tab = باز کردن مجدد آخرین زبانهٔ بسته‌شده
 customkeys-history-reopen-window = باز کردن مجدد آخرین پنجرهٔ بسته‌شده
+customkeys-history-reopen-tab-current-window = گشودن مجدد آخرین زبانهٔ بسته‌شدهٔ پنجرهٔ فعلی
 customkeys-sidebar-toggle = باز/بسته کردن نوار کناری
 customkeys-view-bookmarks-toolbar = نمایش/مخفی‌سازی نوار ابزار نشانک‌ها
 customkeys-view-picture-in-picture = تصویر در تصویر
