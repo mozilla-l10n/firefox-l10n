@@ -1246,6 +1246,11 @@ forms-primary-pw-change-2 =
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = Izslēdziet to
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Pieprasīt pieteikšanos ierīcē, lai aizpildītu un pārvaldītu paroles
+forms-os-reauth-2 =
+    .label = Pieprasīt pieteikšanos ierīcē, lai pārvaldītu paroles
 forms-primary-pw-learn-more-link = Uzzināt vairāk
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1267,6 +1272,14 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Uzzināt vairāk
 forms-windows-sso-desc = Pārvaldiet kontus savas ierīces iestatījumos
 windows-passkey-settings-label = Pārvaldiet piekļuves atslēgas sistēmas iestatījumos
+privacy-panel-settings-header =
+    .description = Saņemiet palīdzību savas informācijas aizsardzībā tiešsaistē, izmantojot { -brand-short-name }.
+    .label = Konfidencialitātes paneļa iestatījumi
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Rādīt pārkāpumu ziņojumus
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -1278,10 +1291,26 @@ primary-password-os-auth-dialog-message-win = Lai izveidotu galveno paroli, ieva
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = izveidot galveno paroli
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] mainīt maksājuma veidu iestatījumus
+       *[other] { -brand-short-name } mēģina mainīt maksājuma veidu iestatījumus. Lai to atļautu, pierakstieties savā ierīcē.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+autofill-payment-methods-header =
+    .aria-label = Maksājuma metodes
+autofill-payment-methods-checkbox-message-2 =
+    .label = Saglabāt un automātiski aizpildīt maksājuma informāciju
+    .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Pārvaldīt maksājuma metodes
+autofill-payment-methods-manage-payments-button =
+    .label = Pārvaldīt maksājumu veidus
+    .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-payment-methods-require-device-sign-in-checkbox =
     .label = Pieprasīt pieteikšanos ierīcē, lai automātiski aizpildītu
@@ -1354,7 +1383,14 @@ history-mode-radio-group =
 ## Privacy Section - Site Data
 
 sitedata-total-size-calculating = Aprēķina vietnes datu un kešatmiņas lielumu…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Tīmekļa vietnes pašlaik izmanto <strong>{ $value } { $unit } </strong> diska vietas.
 sitedata-learn-more = Uzzināt vairāk
+sitedata-delete-on-close2 =
+    .label = Notīrīt sīkfailus un vietnes datus katru reizi, kad aizverat { -brand-short-name }
+    .accesskey = N
 sitedata-delete-on-close-private-browsing3 =
     .message = Pamatojoties uz vēstures iestatījumiem, { -brand-short-name } izdzēš sīkdatnes un vietņu datus no sesijas, kad aizver pārlūku.
 sitedata-delete-on-close-private-browsing4 =
@@ -1364,12 +1400,20 @@ sitedata-option-block-cross-site-trackers =
     .label = Starpvietņu izsekotāji
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Starpvietņu izsekošanas sīkdatnes
+sitedata-option-block-cross-site-cookies2 =
+    .label = Izolēt starpvietņu sīkfailus
 sitedata-option-block-unvisited =
     .label = Sīkdatnes no lapām, kuras tiešā veidā nav apmeklētas
 sitedata-option-block-all-cross-site-cookies =
     .label = Visas starpvietņu sīkdatnes (var izraisīt vietņu darbības traucējumus)
 sitedata-option-block-all =
     .label = Visas sīkdatnes (vietnes noteikti salūzīs)
+sitedata-clear2 =
+    .label = Notīrīt pārlūkošanas datus
+    .accesskey = l
+sitedata-settings2 =
+    .label = Pārvaldīt pārlūkošanas datus
+    .accesskey = P
 sitedata-cookies-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
@@ -1377,6 +1421,12 @@ sitedata-cookies-exceptions2 =
     .description = Vari norādīt, kurām tīmekļvietnēm vienmēr ir vai nekad nav atļauts izmantot sīkdatnes un vietnes datus.
     .label = Pārvaldīt izņēmumus
     .accesskey = i
+sitedata-heading =
+    .description = Pārvaldiet sīkfailus, vēsturi, kešatmiņu, tīmekļa vietņu datus un citus datus.
+    .label = Pārlūkošanas dati
+sitedata-settings3 =
+    .label = Notīrīt datus konkrētām vietnēm
+    .accesskey = s
 cookies-site-data-group =
     .label = Sīkdatnes un vietnes dati
 

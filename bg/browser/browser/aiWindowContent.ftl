@@ -56,6 +56,13 @@ smart-window-grouped-and-ungrouped-label = Разделите са разгру�
 ## Action log
 
 action-log-searched-web = Търсене в интернет
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 стъпка е завършена
+       *[other] Завършени { $count } стъпки
+    }
 
 ## Citations
 

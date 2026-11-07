@@ -598,6 +598,10 @@ newtab-custom-wallpaper-cta = Опитайте
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Ново
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Приключени ({ $number })
 newtab-widget-task-list-menu-copy = Копиране
 newtab-widget-lists-menu-create = Създаване на нов списък
 newtab-widget-lists-menu-delete = Изтриване на този списък

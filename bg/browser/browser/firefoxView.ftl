@@ -61,6 +61,9 @@ firefoxview-overview-nav = Последно разглеждане
     .title = Последно разглеждане
 firefoxview-overview-header = Последно разглеждане
     .title = Последно разглеждане
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Раздели и история на сърфиране на всички устройства
 
 ## History in this context refers to browser history
 
@@ -136,7 +139,7 @@ firefoxview-search-results-count =
 #   $query (String) - The search query.
 firefoxview-search-results-empty = Няма резултати за „{ $query }“
 firefoxview-sort-history-by-date-label = Сортиране по дата
-firefoxview-sort-history-by-site-label = Сортиране по страница
+firefoxview-sort-history-by-site-label = Сортиране по сайт
 firefoxview-sort-open-tabs-by-recency-label = Сортиране по последна активност
 firefoxview-sort-open-tabs-by-order-label = Подреждане по реда им в прозореца
 
