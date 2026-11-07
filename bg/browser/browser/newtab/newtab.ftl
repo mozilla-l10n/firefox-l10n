@@ -616,9 +616,12 @@ newtab-widget-lists-name-placeholder-checklist2 =
     .aria-label = Редактиране на името на списъка
     .placeholder = Задачи
 newtab-widget-section-title = Уиджети
+newtab-widget-menu-change-size = Промяна на размера
 # Submenu item under "Move"; moves the widget from Home back to the Widgets
 # space, the New Tab space that holds every widget not pinned to Home.
 newtab-widget-menu-move-to-widgets = Уиджети
+newtab-widget-size-small = Малък
+newtab-widget-size-medium = Среден
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .aria-label = Скриване на всички уиджети
@@ -640,6 +643,10 @@ newtab-widget-lists-name-default = Задачи
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-notification-focus = Времето за фокусиране изтече. Добра работа. Имате нужда от почивка?
+newtab-widget-timer-notification-break = Вашата почивка приключи. Готови ли сте за работа?
+newtab-widget-timer-mode-break =
+    .label = Почивка
 newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа
 newtab-promo-card-cta = Научете повече

@@ -40,6 +40,22 @@ download-ui-cancel-downloads-ok =
        *[other] Cancelar { $downloadsCount } downloads
     }
 download-ui-confirm-cancel-button = Cancelar
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Interromper 1 download e sair do { -brand-short-name }?
+                [one] Interromper { $downloadsCount } download e sair do { -brand-short-name }?
+               *[other] Interromper { $downloadsCount } downloads e sair do { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Interromper 1 download e fechar o { -brand-short-name }?
+                [one] Interromper { $downloadsCount } download e fechar o { -brand-short-name }?
+               *[other] Interromper { $downloadsCount } downloads e fechar o { -brand-short-name }?
+            }
+    }
+download-ui-confirm-private-browsing-button = Fechar janela
 
 ##
 

@@ -21,3 +21,9 @@ pictureinpicture-fullscreen-btn2 =
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Изход от цял екран
     .tooltip = Изход от цял екран (двоен клик или { $shortcut })
+
+##
+
+pictureinpicture-font-size-medium-radio =
+    .label = Среден
+pictureinpicture-font-size-medium = Среден

@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Nota de aba é um recurso experime
 experimental-features-tab-context-menu =
     .label = Menu de abas simplificado
 experimental-features-tab-context-menu-description = Ter um menu de contexto mais simples ao clicar com o botão direito em uma aba. Projetado para facilitar encontrar as ações comuns. <a data-l10n-name="connect">Compartilhar opinião</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Monitor de recursos
