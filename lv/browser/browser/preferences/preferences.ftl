@@ -745,6 +745,16 @@ preferences-fonts-advanced-settings =
     .label = Papildu iestatījumi
     .accesskey = a
 
+## General Section - Proxy
+
+network-proxy-group2 =
+    .description = Konfigurēt kā { -brand-short-name } pieslēdzas internetam.
+    .label = Starpniekservera iestatījumi
+network-proxy-connection-settings2 =
+    .description = Šo iestatījumu maiņa var radīt savienojuma problēmas
+    .label = Konfigurēt starpniekserveri
+    .accesskey = p
+
 ## Home Section
 
 home-new-windows-tabs-header = Jauni logi un cilnes
@@ -758,6 +768,8 @@ home-default-browser-title =
     .label = Noklusējuma pārlūks
 is-default-browser-2 =
     .message = { -brand-short-name } ir noklusējuma pārlūks. Laba izvēle!
+is-not-default-browser-2 =
+    .message = Hmm, { -brand-short-name } nav jūsu noklusējuma pārlūks.
 set-as-my-default-browser-2 =
     .label = Padarīt par noklusējuma
     .accesskey = n
@@ -777,6 +789,9 @@ home-mode-choice-blank =
     .label = Tukša lapa
 home-homepage-custom-url =
     .placeholder = Ielīmējiet adresi...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Pārvaldīt paplašinājumu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -797,10 +812,39 @@ home-homepage-new-windows =
     .label = Jauni logi
 home-homepage-new-tabs =
     .label = Jaunas cilnes
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Izvēlieties konkrētu vietni
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Tīmekļa vietnes adrese(-es)
 home-custom-homepage-list =
     .aria-label = Tīmekļvietņu adreses
+home-custom-homepage-address =
+    .placeholder = Ievadiet adresi
 home-custom-homepage-address-button =
     .label = Pievienot adresi
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Vēl nav pievienota neviena tīmekļa vietne.
+home-custom-homepage-delete-address-button =
+    .aria-label = Dzēst adresi
+    .title = Dzēst adresi
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Aizstāt ar
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pašlaik atvērtās lapas
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Grāmatzīmes…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Paplašinājums ({ $extension })
 home-custom-homepage-header = Pielāgota sākumlapa
 home-custom-homepage-subpage =
     .heading = Pielāgota sākumlapa
@@ -819,6 +863,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header-generic =
     .label = Ieteiktie stāsti
 home-prefs-recommended-by-description-generic = Izcils saturs, ko atlasa { -brand-product-name } saime
+home-prefs-stories-header =
+    .label = Stāsti
 home-prefs-stories-description = Personalizēti stāsti, pamatojoties uz jūsu aktivitātēm
 
 ##
@@ -1406,6 +1452,23 @@ payments-delete-payment-button-label =
     .aria-label = Dzēst
 payments-edit-payment-button-label =
     .aria-label = Labot
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nav pievienotas maksājuma metodes
+autofill-addresses-checkbox-message =
+    .label = Saglabāt un automātiski aizpildīt adreses
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Pārvaldīt adreses un vairāk
+    .accesskey = P
+addresses-list-header =
+    .label = Adreses
+addreses-delete-address-button-label =
+    .aria-label = Dzēst
+addreses-edit-address-button-label =
+    .aria-label = Rediģēt
+addresses-delete-address-prompt-title = Vai dzēst šo adresi?
+addresses-delete-address-prompt-confirm-button = Dzēst
 autofill-addresses-add-button = Pievienot jaunu adresi
 autofill-passports-add-button = Pievienot jaunu pasi
 # Used in place of payment-moz-box-item when a security code is saved alongside
@@ -1845,6 +1908,8 @@ security-enable-safe-browsing =
     .label = Liegt bīstamu un maldinošu saturu
     .accesskey = L
 security-enable-safe-browsing-link = Uzzināt vairāk
+security-safe-browsing-warning =
+    .message = Izslēdzot šo funkciju, tiek samazināta aizsardzība pret krāpniecību, ļaunprātīgām vietnēm un bīstamām lejupielādēm.
 security-block-downloads =
     .label = Liegt bīstamas lejupielādes
     .accesskey = d
@@ -1863,6 +1928,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } beidzas brīvā vieta diskā</strong>. Tīmekļvietņu dati var netikt attēloti pareizi. Saglabātos datus var notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un vietņu dati.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } nepietiek vietas diskā.</strong> Lapu saturs var tikt nekorekti attēlots. Apmeklējiet “Uzzināt vairāk”, lai optimizētu diska izmantošanu.
+certs-description3 =
+    .description = Konfigurējiet sertifikātus, ko { -brand-short-name } izmanto drošu savienojumu pārbaudei.
+    .label = Sertifikāti
 
 ## Privacy Section - HTTPS-Only
 
