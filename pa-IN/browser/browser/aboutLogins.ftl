@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = …ਹੋਰ ਬਰਾ�
 about-logins-menu-menuitem-import-from-a-file = …ਤੋਂ ਫ਼ਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
 about-logins-menu-menuitem-export-logins2 = …ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 about-logins-menu-menuitem-remove-all-logins2 = …ਸਾਰੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
+about-logins-menu-menuitem-delete-all-logins = …ਸਾਰੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ਚੋਣਾਂ
@@ -89,6 +90,7 @@ about-logins-intro-import3 = ਹੁਣੇ ਨਵਾਂ ਪਾਸਵਰਡ ਜੋ
 about-logins-login-item-new-login-title = ਪਾਸਵਰਡ ਨੂੰ ਜੋੜੋ
 login-item-edit-button = ਸੋਧੋ
 about-logins-login-item-remove-button = ਹਟਾਓ
+about-logins-login-item-delete-button = ਹਟਾਓ
 login-item-origin-label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ
 about-logins-origin-tooltip2 = ਪੂਰਾ ਸਿਰਨਾਵਾਂ ਦਿਓ ਅਤੇ ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਉਸ ਨਾਲ ਮਿਲਦਾ ਹੈ, ਜਿੱਥੇ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰਨਾ ਹੈ।
 # Variables
@@ -174,6 +176,8 @@ confirmation-dialog-dismiss-button =
     .title = ਰੱਦ ਕਰੋ
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਤੁਸੀਂ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
 about-logins-confirm-remove-dialog-confirm-button = ਹਟਾਓ

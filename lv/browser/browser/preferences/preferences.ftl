@@ -1931,17 +1931,35 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } nepietiek vietas 
 certs-description3 =
     .description = Konfigurējiet sertifikātus, ko { -brand-short-name } izmanto drošu savienojumu pārbaudei.
     .label = Sertifikāti
+certs-view2 =
+    .label = Pārvaldīt sertifikātus
+    .accesskey = s
+certs-devices2 =
+    .label = Pārvaldīt drošības ierīces
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more2 = Kā darbojas tikai HTTPS
 httpsonly-radio-enabled =
     .label = Visos logos ieslēgt režīmu tikai-HTTPS
 httpsonly-radio-enabled-pbm =
     .label = Ieslēgt tikai-HTTPS režīmu tikai privātajos logos
+httpsonly-radio-disabled3 =
+    .description = { -brand-short-name } joprojām var uzlabot dažus savienojumus
+    .label = Neieslēgt režīmu tikai-HTTPS
+httpsonly-group =
+    .description = Ļauj tikai drošus savienojumus ar tīmekļvietnēm. { -brand-short-name } vaicās apstiprināt nedroša savienojuma izveidošanu.
+    .label = Tikai-HTTPS režīms
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
 preferences-doh-header = DNS caur HTTPS
+dns-over-https-group2 =
+    .description = Domēnu vārdu sistēma, izmantojot HTTPS (DoH), šifrē vietņu meklēšanu, tāpēc jūsu interneta pakalpojumu sniedzējam vai citiem ir grūtāk redzēt, kuras vietnes jūs gatavojaties apmeklēt.
+    .label = DNS caur HTTPS
 preferences-doh-description2 = Domēnu vārdu sistēma (DNS) ar HTTPS nosūta domēna vārda pieprasījumu šifrētā savienojumā, nodrošinot drošu DNS un neļaujot citiem redzēt, kurai tīmekļvietnei grasies piekļūt.
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -1993,6 +2011,79 @@ preferences-doh-select-resolver = Izvēlieties pakalpojuma sniedzēju:
 preferences-doh-manage-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
+preferences-doh-overview-default =
+    .description = Izmantojiet drošu DNS serveri reģionos, kur tas ir pieejams.
+    .label = Noklusējuma aizsardzība
+preferences-doh-overview-custom =
+    .description = Vienmēr izmantojiet drošu DNS, kontrolējot savu pakalpojumu sniedzēju un rezerves darbību.
+    .label = Pielāgots
+preferences-doh-overview-off =
+    .description = Izmantojiet savu noklusējuma DNS risinātāju.
+    .label = Izslēgts
+preferences-doh-advanced-button =
+    .label = Papildu iestatījumi
+preferences-doh-advanced-section =
+    .description = Domēnu vārdu sistēma, izmantojot HTTPS (DoH), šifrē vietņu meklēšanu, tāpēc jūsu interneta pakalpojumu sniedzējam vai citiem ir grūtāk redzēt, kuras vietnes jūs gatavojaties apmeklēt.
+    .label = Papildu iestatījumi
+preferences-doh-manage-exceptions2 =
+    .label = Pārvaldīt izņēmumus
+    .accesskey = x
+preferences-doh-radio-default =
+    .description = Izmantot drošu DNS reģionos, kur tas ir pieejams
+    .label = Noklusējuma
+preferences-doh-radio-custom =
+    .description = Vienmēr izmantojiet drošu DNS, kontrolējot savu pakalpojumu sniedzēju un rezerves darbību
+    .label = Pielāgots
+preferences-doh-radio-off =
+    .description = Izmantot savu noklusējuma DNS atrisinātāju
+    .label = Izslēgts
+preferences-doh-fallback-label =
+    .label = Vienmēr brīdināt mani, ja drošs DNS nav pieejams
+preferences-doh-status-item-off =
+    .message = DNS pār HTTPS ir izslēgts
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS pār HTTPS nedarbojas, jo, mēģinot izmantot pakalpojumu sniedzēju { $name }, radās kļūda ({ $reason }).
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS pār HTTPS nedarbojas, jo mēs saņēmām nederīgu URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS pār HTTPS izmanto pakalpojumu sniedzēju { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS pār HTTPS nedarbojas, jo, mēģinot izmantot lokālo pakalpojumu sniedzēju { $name }, radās kļūda ({ $reason }).
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS pār HTTPS izmanto vietējo pakalpojumu sniedzēju { $name }
+preferences-doh-select-resolver-label =
+    .label = Izvēlieties pakalpojuma sniedzēju:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Izmantojiet šo pakalpojumu sniedzēju DNS atrisināšanai, izmantojot HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Ievadiet pielāgota pakalpojumu sniedzēja URL
+preferences-doh-header2 =
+    .heading = DNS, izmantojot HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Savienojuma un programmatūras drošība
+preferences-connection-link-section =
+    .description = Skatiet, kā savienojumi tiek uzturēti droši, tiek bloķēta kaitīga programmatūra un tiek pārbaudītas tīmekļa vietnes.
+    .label = Savienojuma un programmatūras drošība
+preferences-connection-link-button =
+    .label = Papildu iestatījumi
 
 ## The following strings are used in the Download section of settings
 
@@ -2008,6 +2099,30 @@ browser-theme-group =
     .label = Pārlūka tēma
 browser-theme-manage-link =
     .label = Pārvaldīt { -brand-short-name } tēmas
+appearance-window-density-group =
+    .description = Pielāgojiet atstarpi ap loga elementiem, piemēram, rīkjoslu, cilnēm un sānu joslu.
+    .label = Logu blīvums
+appearance-window-density-radio-group =
+    .aria-label = Logu blīvums
+appearance-window-density-automatic =
+    .description = Standarta, kompaktā vai pieskāriena atstarpe tiek lietota automātiski
+    .label = Automātiski (pēc noklusējuma)
+appearance-window-density-automatic-no-touch =
+    .description = Standarta vai kompakta atstarpe tiek piemērota automātiski
+    .label = Automātiski (pēc noklusējuma)
+appearance-window-density-standard =
+    .description = Sabalansēts atstarpju skaits lielākajai daļai ekrānu
+    .label = Standarta
+appearance-window-density-auto-touch-mode =
+    .label = Izmantojiet skāriena atstarpi planšetdatora režīmā
+appearance-window-density-compact =
+    .description = Samazināta atstarpe mazākiem ekrāniem
+    .label = Kompakts
+appearance-window-density-touch =
+    .description = Lielāki logu elementi un klikšķināšanas mērķi, optimizēti skārienekrāniem
+    .label = Pieskārienu
+related-settings-group =
+    .label = Saistītie iestatījumi
 related-settings-accessibility-link =
     .label = Tālummaiņa un fonta iestatījumi ir pielāgojami sadaļā “Piekļūstamība”
 related-settings-home-link =
@@ -2017,7 +2132,16 @@ related-settings-tabs-browsing-link =
 
 ## AI controls page
 
+preferences-ai-controls-description = Jums vienmēr ir izvēle pakalpojumā { -brand-short-name }, tostarp par to, vai izmantot ar mākslīgo intelektu uzlabotas funkcijas. Drīzumā būs pieejamas vēl citas vadības iespējas.
 preferences-ai-controls-block-ai-label = Liegt MI uzlabojumus
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Bloķēšana nozīmē, ka jūs neredzēsiet jaunus vai pašreizējus mākslīgā intelekta uzlabojumus pakalpojumā { -brand-short-name }, kā arī uznirstošos logus par tiem. <a data-l10n-name="link">Iegūstiet plašāku informāciju</a> par iekļauto un to, kā kontrolēt tradicionālās mašīnmācīšanās funkcijas, piemēram, meklēšanas ieteikumus un rekomendācijas.
+preferences-ai-controls-blocked-message =
+    .message = Jauni un pašreizējie MI uzlabojumi pēc noklusējuma ir bloķēti. Lai atbloķētu konkrētu funkciju, izmantojiet tālāk norādītās vadīklas.
+preferences-ai-controls-on-device-group =
+    .description = Tie izmanto mazus mākslīgā intelekta modeļus, kas tiek lejupielādēti jūsu ierīcē, ja izmantojat šo funkciju. Šī pieeja palīdz aizsargāt jūsu privātumu.
+    .label = Ierīcē iebūvētais MI
 preferences-ai-controls-speech-recognition-control =
     .description = Runas transkribēšana vietēji.
     .label = Runas atpazīšana
