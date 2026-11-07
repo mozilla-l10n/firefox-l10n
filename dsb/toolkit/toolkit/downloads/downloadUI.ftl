@@ -45,7 +45,23 @@ download-ui-confirm-quit-button =
         [windows] { -brand-short-name } skóńcyś
        *[other] { -brand-short-name } skóńcyś
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] 1 ześěgnjenje zastajiś a offline hyś?
+        [one] { $downloadsCount } ześěgnjenje zastajiś a offline hyś?
+        [two] { $downloadsCount } ześěgnjeni zastajiś a offline hyś?
+        [few] { $downloadsCount } ześěgnjenja zastajiś a offline hyś?
+       *[other] { $downloadsCount } ześěgnjenjow zastajiś a offline hyś?
+    }
 download-ui-confirm-offline-button = Offline hyś
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 1 ześěgnjenje zastajiś a toś to priwatne wokno zacyniś?
+        [one] { $downloadsCount } ześěgnjenje zastajiś a toś to priwatne wokno zacyniś?
+        [two] { $downloadsCount } ześěgnjeni zastajiś a toś to priwatne wokno zacyniś?
+        [few] { $downloadsCount } ześěgnjenja zastajiś a toś to priwatne wokno zacyniś?
+       *[other] { $downloadsCount } ześěgnjenjow zastajiś a toś to priwatne wokno zacyniś?
+    }
 download-ui-confirm-private-browsing-button = Wokno zacyniś
 
 ##

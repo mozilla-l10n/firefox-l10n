@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Wócyńśo kuždy cas swóje kup
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Wócyńśo zasej kuždy cas swóje kupki rejtarikow z menija Wšykne rejtariki nalicyś.
 tab-groups-onboarding-dismiss = W pórěźe
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Kupki rejtarikow se awtomatiski składuju. Namakajośo je how.
 
 ## Multi Profiles feature onboarding messages
 

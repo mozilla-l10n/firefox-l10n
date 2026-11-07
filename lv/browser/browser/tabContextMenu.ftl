@@ -104,21 +104,52 @@ tab-context-bookmark-tab2 =
 tab-context-open-in-new-container-tab =
     .label = Atvērt jaunā konteinera cilnē
     .accesskey = j
+tab-context-open-in-new-container-tab2 =
+    .label = Atvērt jaunā konteinera cilnē
+    .accesskey = e
+tab-context-open-in-container =
+    .label = Atvērt konteinerā
+    .accesskey = e
 move-to-start =
     .label = Pārvietot uz sākumu
+    .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Sākt
     .accesskey = S
 move-to-end =
     .label = Pārvietot uz beigām
     .accesskey = E
+move-to-end-alt =
+    .label = Beigt
+    .accesskey = E
 move-to-new-window =
     .label = Pārvietot uz jaunu logu
     .accesskey = P
+move-to-new-window-alt =
+    .label = Jauns logs
+    .accesskey = W
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Pārvietot uz { $profileName }
 tab-context-close-multiple-tabs =
     .label = Aizvērt vairākas cilnes
     .accesskey = v
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Aizvērt vairākus
+    .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = Aizvērt dublētās cilnes
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Dublēt cilnes
+    .accesskey = x
+tab-context-close-duplicate-tabs2 =
+    .label = Aizvērt šīs cilnes dublikātus
+    .accesskey = x
 tab-context-share-url =
     .label = Dalīties
     .accesskey = D
@@ -132,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Jauna grupa
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Jauna grupa
+tab-context-add-tab-to-group-closed-groups =
+    .label = Slēgtas grupas
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -154,6 +189,15 @@ tab-context-close-n-tabs =
            *[other] Aizvērt { $tabCount } cilņu
         }
     .accesskey = A
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Aizvērt
+            [zero] Aizvērt { $tabCount } cilņu
+            [one] Aizvērt { $tabCount } cilni
+           *[other] Aizvērt { $tabCount } cilņu
+        }
+    .accesskey = A
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -163,6 +207,16 @@ tab-context-move-tabs =
            *[other] Pārvietot cilnes
         }
     .accesskey = c
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Pārvietot uz
+            [zero] Pārvietot { $tabCount } cilnes uz
+            [one] Pārvietot { $tabCount } cilni uz
+           *[other] Pārvietot { $tabCount } cilnes uz
+        }
+    .accesskey = v
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =

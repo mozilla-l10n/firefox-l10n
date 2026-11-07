@@ -318,6 +318,16 @@ tab-context-move-tab-to-new-group =
            *[other] Nowej kupce { $tabCount } rejtarikow pśidaś
         }
     .accesskey = N
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Kupce pśidaś
+            [one] Kupce { $tabCount } rejtarik pśidaś
+            [two] Kupce { $tabCount } rejtarika pśidaś
+            [few] Kupce { $tabCount } rejtariki pśidaś
+           *[other] Kupce { $tabCount } rejtarikow pśidaś
+        }
+    .accesskey = K
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->

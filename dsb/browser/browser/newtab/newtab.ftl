@@ -607,6 +607,9 @@ newtab-widget-wrexhamafc-menu-view = Naglěd
 
 newtab-widget-wrexhamafc-view-matches = Graśa
 newtab-widget-wrexhamafc-view-table = Tabela
+newtab-widget-wrexhamafc-view-fixtures = Grajny plan
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Slězynowe wobraze
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1517,6 +1520,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Mjenjej asistentow pokazaś
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Asistent njejo k dispoziciji. Wopytajśo pózdźej hyšći raz.
 newtab-widget-lists-name-default = Kontrolna lisćina
 
 ## Strings introduced by the Nova redesign of the Timer widget
