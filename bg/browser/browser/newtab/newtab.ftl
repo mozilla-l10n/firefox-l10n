@@ -651,6 +651,15 @@ newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа
 newtab-promo-card-cta = Научете повече
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Почивка
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Вашата почивка приключи
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Нуждаете ли се от почивка?
+
 ##
 
 newtab-sports-widget-done-button =
