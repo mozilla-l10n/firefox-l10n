@@ -994,6 +994,14 @@ urlbar-view-context-menu-open-in-window2 = Открыть в новом окне
     .accesskey = Т
 urlbar-view-context-menu-open-in-private-window2 = Открыть в новом приватном окне
     .accesskey = З
+urlbar-view-context-menu-search-in-tab = Искать в новой вкладке
+    .accesskey = ц
+urlbar-view-context-menu-search-in-container-tab = Искать в новой вкладке в контейнере
+    .accesskey = ш
+urlbar-view-context-menu-search-in-window = Искать в новом окне
+    .accesskey = Т
+urlbar-view-context-menu-search-in-private-window = Искать в новом приватном окне
+    .accesskey = З
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

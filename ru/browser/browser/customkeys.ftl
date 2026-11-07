@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Копировать URL вкладки
 customkeys-file-focus-search = Сфокусироваться на панели поиска
 customkeys-history-reopen-tab = Восстановление последней закрытой вкладки
 customkeys-history-reopen-window = Восстановление последнего закрытого окна
+customkeys-history-reopen-tab-current-window = Восстановить последнюю закрытую вкладку в текущем окне
 customkeys-sidebar-toggle = Показать/скрыть боковую панель
 customkeys-view-bookmarks-toolbar = Включить/выключить панель закладок
 customkeys-view-picture-in-picture = Картинка в картинке
