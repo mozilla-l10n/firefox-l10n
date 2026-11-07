@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = 複製分頁網址
 customkeys-file-focus-search = 聚焦於搜尋列
 customkeys-history-reopen-tab = 回復關閉的分頁
 customkeys-history-reopen-window = 回復關閉的視窗
+customkeys-history-reopen-tab-current-window = 重新開啟目前視窗中，最近一次關閉的分頁
 customkeys-sidebar-toggle = 切換側邊欄
 customkeys-view-bookmarks-toolbar = 切換書籤工具列
 customkeys-view-picture-in-picture = 子母畫面
