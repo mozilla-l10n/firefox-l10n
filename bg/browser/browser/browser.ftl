@@ -819,6 +819,8 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = п
 urlbar-view-context-menu-search-in-tab = Търсене в нов раздел
     .accesskey = { "" }
+urlbar-view-context-menu-search-in-window = Търсене в нов прозорец
+    .accesskey = Т
 
 ## Labels shown above groups of urlbar results
 

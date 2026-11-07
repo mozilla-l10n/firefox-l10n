@@ -599,9 +599,13 @@ newtab-custom-wallpaper-cta = Опитайте
 newtab-widget-lists-label-new =
     .label = Ново
 newtab-widget-task-list-menu-copy = Копиране
+newtab-widget-lists-menu-create = Създаване на нов списък
 newtab-widget-lists-menu-delete = Изтриване на този списък
 newtab-widget-lists-menu-learn-more = Научете повече
 newtab-widget-lists-input-menu-delete = Изтриване
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Създаване на нов списък
 newtab-widget-lists-name-label-checklist =
     .label = Задачи
 newtab-widget-lists-name-placeholder-checklist2 =
@@ -624,6 +628,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Показване на по-малко уиджети
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Уиджетът не е наличен. Проверете по-късно.
 newtab-widget-lists-name-default = Задачи
 
 ## Strings introduced by the Nova redesign of the Timer widget

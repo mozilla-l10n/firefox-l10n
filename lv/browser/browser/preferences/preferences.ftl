@@ -1059,6 +1059,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Tu vienādo šos vienumus visās savās savienotajās ierīcēs:
+sync-syncing-across-devices-heading-2 = Dati vienādoti dažādās ierīcēs
 sync-syncing-across-devices-heading-3 = Datu vienādošana šajā ierīcē
 sync-syncing-across-devices-empty-state2 =
     .description = Tu neko nevienādo… Vēl. Jāuzsāk vienādošana, lai visās ierīcēs piekļūtu visiem saviem datiem.
@@ -1080,6 +1081,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Pārvaldīt vienādotos datus
     .accesskey = P
+settings-sync-disconnect-button =
+    .label = Atvienoties
 
 ## The "Choose what to sync" dialog.
 
@@ -1089,6 +1092,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Vēsturi
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Atvērtās cilnes
+    .tooltiptext = Atveriet cilnes no citām ierīcēm
+    .accesskey = t
 sync-engine-tabs =
     .label = Atvērtās cilnes
     .tooltiptext = Saraksts ar atvērtajām lietām sinhronizētajās ierīcēs
@@ -1097,6 +1105,22 @@ sync-engine-passwords =
     .label = Paroles
     .tooltiptext = Paroles, ko saglabājāt
     .accesskey = P
+sync-engine-addresses2 =
+    .label = Adreses
+    .tooltiptext = Adreses, kuras esat saglabājis { -brand-short-name }
+    .accesskey = e
+sync-engine-payment-methods3 =
+    .label = Maksājumu veidi
+    .tooltiptext = Jūsu saglabātās maksājuma metodes
+    .accesskey = M
+sync-engine-addons2 =
+    .label = Papildinājumi
+    .tooltiptext = Paplašinājumi un tēmas, ko esat pievienojis pakalpojumam { -brand-short-name } datora versijai
+    .accesskey = a
+sync-engine-settings2 =
+    .label = Iestatījumi
+    .tooltiptext = { -brand-short-name } iestatījumi, ja piemērojami
+    .accesskey = s
 sync-engine-addresses =
     .label = Adreses
     .tooltiptext = Saglabātās pasta adreses (tikai datora versijā)
@@ -1113,6 +1137,13 @@ sync-engine-settings =
     .label = Iestatījumus
     .tooltiptext = Vispārīgie, privātuma un drošības iestatījumi, ko saglabājāt
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .buttonlabelaccept = Saglabāt
+    .buttonlabelextra2 = Atslēgties…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Pārvaldīt, kas tiek vienādots visās savienotājās ierīcēs
 sync-choose-what-to-sync-dialog5 =
     .buttonlabelaccept = Saglabāt
     .buttonlabelextra2 = Atvienot…
@@ -1157,10 +1188,16 @@ privacy-header = Pārlūka privātums
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Paroles
     .searchkeywords = lietotājvārdi
+forms-passwords-header =
+    .aria-label = Paroles
+    .label = Paroles
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Prasīt, lai saglabātu paroles
     .accesskey = a
+forms-manage-password-exceptions =
+    .label = Pārvaldīt paroles izņēmumus
+    .accesskey = m
 forms-exceptions =
     .label = Izņēmumi...
     .accesskey = z
@@ -1179,12 +1216,36 @@ relay-integration-learn-more-link = Uzzināt vairāk
 forms-fill-usernames-and-passwords =
     .label = Automātiski aizpildīt lietotājvārdus un paroles
     .accesskey = A
+forms-fill-usernames-and-passwords-2 =
+    .label = Saglabāt un automātiski aizpildīt lietotājvārdus un paroles
+    .accesskey = S
 forms-saved-passwords =
     .label = Saglabātās paroles
     .accesskey = g
+forms-saved-passwords-2 =
+    .label = Pārvaldīt saglabātās paroles
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Jūsu datorā ir saglabātas šo vietņu paroles
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Papildu aizsardzība
 forms-primary-pw-use =
     .label = Lietot galveno paroli
     .accesskey = L
+forms-primary-pw-use-2 =
+    .description = Pievieno papildu drošības slāni, lai aizsargātu jūsu saglabātās paroles.
+    .label = Izmantojiet primāro paroli
+    .accesskey = I
+forms-primary-pw-set =
+    .label = Iestatīt galveno paroli
+forms-primary-pw-on-2 = Galvenā parole ir <strong>IESLĒGTA</strong>
+forms-primary-pw-on =
+    .label = Galvenā parole ir ieslēgta
+forms-primary-pw-change-2 =
+    .label = Mainīt galveno paroli
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Izslēdziet to
 forms-primary-pw-learn-more-link = Uzzināt vairāk
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
