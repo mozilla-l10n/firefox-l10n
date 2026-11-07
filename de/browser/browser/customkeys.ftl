@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Tab-URL kopieren
 customkeys-file-focus-search = Fokussieren Sie die Suchleiste
 customkeys-history-reopen-tab = Zuletzt geschlossenen Tab wiederherstellen
 customkeys-history-reopen-window = Zuletzt geschlossenes Fenster wieder öffnen
+customkeys-history-reopen-tab-current-window = Letzten geschlossenen Tab des aktuellen Fensters wiederherstellen
 customkeys-sidebar-toggle = Sidebar umschalten
 customkeys-view-bookmarks-toolbar = Lesezeichen-Symbolleiste umschalten
 customkeys-view-picture-in-picture = Bild-im-Bild (PiP)
