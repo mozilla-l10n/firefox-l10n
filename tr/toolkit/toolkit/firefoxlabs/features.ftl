@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Sekme notları, tarayıcı sekmele
 experimental-features-tab-context-menu =
     .label = Basit sekme menüsü
 experimental-features-tab-context-menu-description = Bir sekmeye sağ tıkladığınızda daha basit bir bağlam menüsü görün. Sık kullanılan eylemlerin bulunmasını kolaylaştırmak için tasarlandı. <a data-l10n-name="connect">Görüş bildirin</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Kaynak izleyicisi

@@ -116,6 +116,10 @@ autofill-card-number = Kartes numurs
 autofill-card-invalid-number = Lūgums ievadīt derīgu kartes numuru
 autofill-card-name-on-card-2 =
     .label = Kartes īpašnieks
+autofill-card-expires-month-2 =
+    .label = Derīga līdz:
+autofill-card-expires-year-2 =
+    .label = Derīga līdz
 autofill-card-billing-address-2 =
     .label = Rēķina adrese
 # Variables:
@@ -144,11 +148,15 @@ autofill-card-search-term-credit-cards = kredītkartes, kredīts, kartes, debetk
 
 # The dialog title for creating a passport in browser preferences.
 autofill-add-passport-title = Pievienot pasi
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Labot pasi
 
 ## Passport field labels shared by the passport capture doorhanger and the
 ## passport management dialog. The labels are exposed as a .label attribute so
 ## they can be assigned directly to moz-input-text and moz-select fields.
 
+autofill-passport-name =
+    .label = Vārds
 autofill-passport-country =
     .label = Valsts
 autofill-passport-number =

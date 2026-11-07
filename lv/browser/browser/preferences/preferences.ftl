@@ -606,6 +606,9 @@ update-application-background-enabled =
     .accesskey = K
 update-application-warning-cross-user-setting-2 =
     .message = Šis iestatījums attieksies uz visiem Windows kontiem un { -brand-short-name } profiliem, kuri izmanto šo { -brand-short-name } instalāciju.
+update-application-suppress-prompts-2 =
+    .label = Rādīt mazāk atjauninājumu atgādinājumu
+    .accesskey = n
 update-setting-write-failure-title2 = Radās kļūda, saglabājot atjaunināšanas iestatījumus
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -621,6 +624,31 @@ update-in-progress-ok-button = &Atmest
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Par { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .description = Atjauninājumi uzlabo { -brand-short-name } ātrumu, stabilitāti un drošību.
+    .label = { -brand-short-name } atjauninājumi
+update-application-suppress-prompts-heading =
+    .label = Paziņojumi
+update-application-updates-managed-by-os =
+    .message = Atjauninājumus pārvalda jūsu operētājsistēma
+
+## Firefox support
+
+support-application-heading =
+    .description = Novērsiet problēmas vai dalieties idejās ar kopienu.
+    .label = { -brand-short-name } atbalsts
+support-get-help =
+    .label = Saņemt palīdzību
+support-share-ideas =
+    .label = Dalieties idejās un atsauksmēs
 
 ## General Section - Performance
 
@@ -648,6 +676,10 @@ performance-use-recommended-settings-checkbox-2 =
 browsing-use-autoscroll =
     .label = Lietot autoritināšanu
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Tastatūras navigācija un ritināšana
+motion-and-link-group =
+    .label = Kustības un saišu stils
 browsing-use-smooth-scrolling =
     .label = Lietot plūdeno ritināšanu
     .accesskey = l
@@ -669,15 +701,28 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Meklēt rakstīto tekstu, kolīdz es sāku rakstīt
     .accesskey = m
+settings-keyboard-shortcuts-group =
+    .description = Kontrolējiet savu pārvietošanos un mijiedarbību ar { -brand-short-name }.
+    .label = Īsinājumtaustiņi
 settings-keyboard-shortcuts-customkeys-link =
     .label = Pielāgot īsinājumtaustiņus
 # Link that takes the user to the Search category of settings, where the
 # address bar options live.
 settings-keyboard-shortcuts-addressbar-link =
     .label = Adreses joslas iestatījumu pielāgošana meklēšanā
+settings-media-group =
+    .label = Mediji
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Izmantojiet attēlu attēlā
+    .accesskey = e
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Turpināt atskaņot videoklipus režīmā “Attēls attēlā”, pārslēdzot cilnes
+    .accesskey = e
 browsing-media-control =
     .label = Pārvaldīt informācijas nesējus ar tastatūru, austiņām vai virtuālo saskarni
     .accesskey = v
+recommendations-group =
+    .label = Ieteikumi
 browsing-cfr-recommendations =
     .label = Ieteikt papildinājumus pārlūkojot
     .accesskey = r
@@ -688,6 +733,14 @@ browsing-group =
     .label = Pārlūkošana
 preferences-accessibility-header =
     .heading = Piekļūstamība
+preferences-default-zoom-select =
+    .aria-label = Noklusējuma tālummaiņa
+preferences-fonts-family =
+    .label = Fontu saime
+    .accesskey = F
+preferences-fonts-size =
+    .label = Fonta lielums
+    .accesskey = s
 
 ## Home Section
 

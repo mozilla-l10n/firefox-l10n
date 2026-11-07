@@ -101,10 +101,13 @@ genai-shortcut-button =
     .aria-label = { $provider } sohbet botuna sor
 genai-menu-new-badge = Yeni
 genai-menu-summarize-page = Sayfayı özetle
+genai-menu-summarize-with-ai = Yapay zekâyla özetle
 genai-input-ask-smart-window =
     .placeholder = Sor…
 genai-input-ask-generic =
     .placeholder = Yapay zekâ sohbet botuna sor…
+genai-input-ask-ai =
+    .placeholder = Yapay zekâya sor…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } sohbet botuna sor…

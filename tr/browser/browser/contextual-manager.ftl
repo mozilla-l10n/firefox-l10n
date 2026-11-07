@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Başka bir tarayıcı
 contextual-manager-passwords-command-import = Dosyadan içe aktar…
 contextual-manager-passwords-command-export = Parolaları dışa aktar
 contextual-manager-passwords-command-remove-all = Bütün parolaları sil
+contextual-manager-passwords-command-delete-all = Tüm parolaları sil
 contextual-manager-passwords-command-options = Seçenekler
 contextual-manager-passwords-command-help = Yardım
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Parola silinsin mi?
        *[other] { $total } parolanın hepsi silinsin mi?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] { $total } parola silinsin mi?
+       *[other] { $total } parola silinsin mi?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -118,6 +126,14 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Sil
         [one] Sil
+       *[other] Tümünü sil
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Sil
+        [one] Tümünü sil
        *[other] Tümünü sil
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
@@ -135,6 +151,14 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan silecektir. Bu işlemi geri alamazsınız.
         [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan silecektir. Bu işlemi geri alamazsınız.
        *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları ve ihlal uyarılarını eşitlenen tüm cihazlardan silecektir. Bu işlemi geri alamazsınız.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Bu işlem, parolayı eşitlediğiniz tüm cihazlardaki { -brand-short-name } uygulamasından siler. Bu işlemi geri alamazsınız.
+        [one] Bu işlem, parolaları eşitlediğiniz tüm cihazlardaki { -brand-short-name } uygulamasından siler. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem, parolaları eşitlediğiniz tüm cihazlardaki { -brand-short-name } uygulamasından siler. Bu işlemi geri alamazsınız.
     }
 contextual-manager-passwords-origin-label = Web sitesi
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -179,12 +203,16 @@ contextual-manager-passwords-radiobutton-all = Tümü ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Uyarılar ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Parola silinsin mi?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Parola silinsin mi?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Bu işlemi geri alamazsınız.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Geri dön
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Sil
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Sil
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Vazgeç
 contextual-manager-passwords-alert-card =
@@ -215,6 +243,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Parolayı güncelle
 contextual-manager-passwords-remove-label =
+    .title = Parolayı sil
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Parolayı sil
 contextual-manager-passwords-origin-field =
     .label = Web sitesi adresi
@@ -330,6 +361,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Evet, parolayı sil
         [one] Evet, parolayı sil
+       *[other] Evet, parolaları sil
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Evet, parolayı sil
+        [one] Evet, parolaları sil
        *[other] Evet, parolaları sil
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.

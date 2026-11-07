@@ -50,3 +50,5 @@ containers-site-duplicate-error = Šī tīmekļvietne jau ir Tavā sarakstā
 containers-panel-title = Pievienot jaunu konteineru
 containers-panel-create-button =
     .label = Gatavs
+containers-panel-cancel-button =
+    .label = Atcelt

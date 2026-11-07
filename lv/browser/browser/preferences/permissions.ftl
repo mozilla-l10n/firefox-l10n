@@ -105,6 +105,13 @@ permissions-exceptions-https-only-window2 =
     .title = Izņēmumi — tikai HTTPS režīms
 permissions-exceptions-https-only-desc2 = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
+    .title = Atļautās tīmekļa vietnes — uznirstošie logi un trešo pušu pāradresācijas
+permissions-exceptions-popup-desc2 = Varat norādīt, kurām tīmekļa vietnēm ir atļauts atvērt uznirstošos logus un kuras var novirzīt trešo pušu ietvari.
+
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
@@ -183,6 +190,10 @@ permissions-site-camera-disable-desc = Tas liegs jebkurām lapām, kas nav uzska
 
 ## Site Permissions - Loopback network
 
+permissions-site-localhost-window =
+    .style = { permissions-window2.style }
+    .title = Iestatījumi — ierīces lietotnes un pakalpojumi
+permissions-site-localhost-desc = Šīs vietnes ir pieprasījušas piekļuvi lietotnēm un pakalpojumiem šajā ierīcē. Varat izvēlēties atļaut vai bloķēt vietnēm to darīt.
 permissions-site-localhost-disable-label =
     .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt šīs ierīces lietotnēm un pakalpojumiem
 permissions-site-localhost-disable-desc = Tas neļaus nevienai vietnei, kas nav uzskaitīta iepriekš, pieprasīt piekļuvi lietotnēm un pakalpojumiem šajā ierīcē. Tas var izraisīt dažu vietņu funkciju darbības traucējumus.

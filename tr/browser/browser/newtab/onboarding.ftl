@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Sekme gruplarınızı dilediğin
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = İstediğiniz zaman “Tüm sekmeleri listele” menüsünden sekme gruplarınızı yeniden açabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Sekme grupları otomatik kaydedilir. Onlara buradan ulaşabilirsiniz.
 
 ## Multi Profiles feature onboarding messages
 
@@ -638,3 +640,14 @@ welcome-back-onboarding-card-label-tabs = Dikey sekmeler ve gruplarla düzeni sa
 welcome-back-onboarding-card-label-vpn = Yerleşik VPN ile gizli kalın
 welcome-back-onboarding-card-label-pdf = PDF’leri işaretleyin, imzalayın ve düzenleyin
 welcome-back-onboarding-card-tilebutton-label = Dene
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Verilerimi içe aktar
+hnt-card-default-primary-button = Bağlantıları { -brand-short-name } ile aç
+hnt-card-wallpaper-header = Yeni bir duvar kâğıdı seçin
+hnt-card-taskbar-tabs-primary-button = Siteleri görev çubuğuna ekle
+hnt-card-extensions-header = { -brand-short-name } tarayıcınızı uzantılarla güçlendirin
+hnt-card-extensions-body = En sevilen uzantılarımızla gezinme deneyiminizi özelleştirin.
+hnt-card-extensions-primary-button = Keşfet
+hnt-card-last-card-header-end = İzlenme koruması açık.

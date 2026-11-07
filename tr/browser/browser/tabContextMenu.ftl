@@ -124,6 +124,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Yeni grup
     .accesskey = u
+tab-context-add-tab-to-group-new-group =
+    .label = Yeni grup
+tab-context-add-tab-to-group-closed-groups =
+    .label = Kapalı gruplar
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

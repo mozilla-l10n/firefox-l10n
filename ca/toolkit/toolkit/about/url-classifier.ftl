@@ -12,6 +12,7 @@ url-classifier-search-error-invalid-url = L'URL no és vàlid
 url-classifier-search-error-no-features = No s'ha seleccionat cap característica
 url-classifier-search-btn = Inicia la cerca
 url-classifier-search-features = Característiques
+url-classifier-search-listType = Tipus de llista
 url-classifier-provider-title = Proveïdor
 url-classifier-provider = Proveïdor
 url-classifier-provider-last-update-time = Darrera actualització

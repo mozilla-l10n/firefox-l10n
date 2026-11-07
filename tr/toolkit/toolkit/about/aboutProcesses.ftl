@@ -18,6 +18,21 @@ about-processes-shutdown-tab =
     .title = Sekmeyi kapat
 about-processes-unload-tab =
     .title = Sekmeyi boşalt
+about-processes-reload-tab =
+    .title = Sekmeyi tazele
+about-processes-select-all-tabs =
+    .title = Tüm sekmeleri seç
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Bu sitenin sekmelerini genişlet
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Bu sitenin sekmelerini daralt
+about-processes-expand-all-sites =
+    .title = Tümünü genişlet
+about-processes-collapse-all-sites =
+    .title = Tümünü daralt
 about-processes-go-to-tab =
     .title = Sekmeye git
 # Profiler icons
@@ -30,6 +45,18 @@ about-processes-profile-process =
             [one] { $duration } saniye boyunca bu işlemin bütün iş parçacıklarını profille
            *[other] { $duration } saniye boyunca bu işlemin bütün iş parçacıklarını profille
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Sekmelerde ara
+    .placeholder = Sekmelerde ara
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = “{ $query }” ile eşleşen sekme bulunamadı
 
 ## Column headers
 
@@ -129,6 +156,35 @@ about-processes-tab-count =
         [one] { $count } sekme
        *[other] { $count } sekme
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } sekme seçildi
+       *[other] { $count } sekme seçildi
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } sekme)
+       *[other] ({ $count } sekme)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Seçimi iptal et
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Boşalt
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Tazele
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Kapat
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.

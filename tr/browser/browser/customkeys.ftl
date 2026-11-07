@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Sekme adresini kopyala
 customkeys-file-focus-search = Arama çubuğuna odaklan
 customkeys-history-reopen-tab = Son kapatılan sekmeyi yeniden aç
 customkeys-history-reopen-window = Son kapatılan pencereyi yeniden aç
+customkeys-history-reopen-tab-current-window = Geçerli pencerenin son kapatılan sekmesini yeniden aç
 customkeys-sidebar-toggle = Kenar çubuğunu aç/kapat
 customkeys-view-bookmarks-toolbar = Yer imleri araç çubuğunu aç/kapat
 customkeys-view-picture-in-picture = Görüntü içinde görüntü
