@@ -741,6 +741,9 @@ preferences-fonts-family =
 preferences-fonts-size =
     .label = Fonta lielums
     .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Papildu iestatījumi
+    .accesskey = a
 
 ## Home Section
 
