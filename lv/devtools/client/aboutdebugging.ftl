@@ -106,12 +106,49 @@ about-debugging-setup-usb-updating-button = Notiek atjaunināšana…
 about-debugging-setup-usb-status-enabled = Iespējots
 about-debugging-setup-usb-status-disabled = Deaktivēts
 about-debugging-setup-usb-status-updating = Notiek atjaunināšana…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Iespējojiet izstrādātāja izvēlni savā Android ierīcē.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Iespējojiet USB atkļūdošanu Android izstrādātāja izvēlnē.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Iespējojiet failu pārsūtīšanu un pārliecinieties, vai ierīce nav tikai uzlādes režīmā.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Iespējojiet USB atkļūdošanu pārlūkprogrammā Firefox Android ierīcē.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Pievienojiet Android ierīci datoram.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
+about-debugging-setup-usb-troubleshoot = Problēmas, izveidojot savienojumu ar USB ierīci? <a>Novērsiet problēmas</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Tīkla atrašanās vieta
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
+about-debugging-setup-network-troubleshoot = Problēmas, izveidojot savienojumu, izmantojot tīkla atrašanās vietu? <a>Novērsiet problēmas</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Pievienot
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Resursdators
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Noņemt
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Nederīgs resursdators “{ $host-value }”. Paredzētais formāts ir “resursdatora_nosaukums:porta_numurs”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Resursdators “{ $host-value }” jau ir reģistrēts.
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-temporary-extensions =
+    .name = Pagaidu paplašinājumi
 # Title of the extensions category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
@@ -132,9 +169,54 @@ about-debugging-runtime-shared-workers =
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-other-workers =
     .name = Citi strādņi
+# Title of the processes category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-processes =
+    .name = Procesi
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Profila veiktspēja
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to:
+# https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
+about-debugging-runtime-service-workers-not-compatible = Jūsu pārlūka konfigurācija nav saderīga ar Service Workers. <a>Uzziniet vairāk</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Pievienotais pārlūks ir ar novecojušu versiju ({ $runtimeVersion }). Minimālā atbalstītā versija ir ({ $minVersion }). Šī ir neatbalstīta iestatīšana un var izraisīt DevTools kļūmi. Lūdzu, atjauniniet pievienoto pārlūku. <a>Problēmu novēršana</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Šī Firefox versija nevar atkļūdot Firefox operētājsistēmai Android (68). Testēšanas nolūkos iesakām tālrunī instalēt Firefox operētājsistēmai Android Nightly. <a>Plašāka informācija</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Pievienotā pārlūkprogramma ir jaunāka ({ $runtimeVersion }, buildID { $runtimeID }) nekā jūsu { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Šī nav atbalstīta iestatīšana un var izraisīt DevTools kļūmi. Lūdzu, atjauniniet Firefox. <a>Problēmu novēršana</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Atvienoties
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Iespējot savienojuma uzvedni
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Atspējot savienojuma uzvedni
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Profilētājs
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Sakļaut/izvērst
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Vēl nekā nav.
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
@@ -142,6 +224,8 @@ about-debugging-debug-target-inspect-button = Izpētīt
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Ielādēt pagaidu papildinājumu…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Pagaidu pievienojumprogrammas instalēšanas laikā radās kļūda.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Pārlādēt

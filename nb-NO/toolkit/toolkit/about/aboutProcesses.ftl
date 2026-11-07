@@ -129,6 +129,9 @@ about-processes-tab-count =
         [one] { $count } fane
        *[other] { $count } faner
     }
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Lukk
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -180,6 +183,10 @@ about-processes-cpu-fully-idle = inaktiv
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = inaktiv
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
 # Special case: a positive tab-view CPU share below its two-decimal display precision.
 about-processes-tab-cpu-almost-idle2 = < 0.01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.

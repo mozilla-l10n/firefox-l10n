@@ -61,3 +61,15 @@ extension-nova-smoke-name = دی
 
 # Name for a blue theme.
 extension-classic-blue-name = کوۊ
+# Name for a cyan theme.
+extension-classic-cyan-name = فیرۊزه ای
+# Name for a violet theme.
+extension-classic-violet-name = بناوش
+# Name for a green theme.
+extension-classic-green-name = ساوز
+# Name for a purple theme.
+extension-classic-purple-name = بناوش
+# Name for a pink theme.
+extension-classic-pink-name = آل
+# Name for a red theme.
+extension-classic-red-name = سوئر

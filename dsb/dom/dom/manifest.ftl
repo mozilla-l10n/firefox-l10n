@@ -45,6 +45,19 @@ dom-manifest-image-url-is-invalid = Zapisk { $memberName } na indeksu { $index }
 # Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
 dom-manifest-image-unusable = Element { $memberName } pla indeksa { $index } njama wužywajobny zaměr. Buźo se ignorěrowaś.
 # Variables:
+#   $memberName (String) - The name of the parent property that contains the unsupported value, e.g. "icons".
+#   $index (Number) - The index of the image object that has the unsupported value, starting from 0.
+#   $count (Number) - The number of unknown purposes.
+#   $purposes (String) - The list of unknown purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes unsupported purposes: a, b."
+dom-manifest-image-unsupported-purposes =
+    { $count ->
+        [one] Element { $memberName } pla indeksa { $index } njepódprěty zaměr wopśimujo: { $purposes }.
+        [two] Element { $memberName } pla indeksa { $index } njepódprětej zaměra wopśimujo: { $purposes }.
+        [few] Element { $memberName } pla indeksa { $index } njepódprěte zaměry wopśimujo: { $purposes }.
+       *[other] Element { $memberName } pla indeksa { $index } njepódprěte zaměry wopśimujo: { $purposes }.
+    }
+# Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
 #   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
 #   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".

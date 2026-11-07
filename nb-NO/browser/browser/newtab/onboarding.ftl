@@ -648,6 +648,12 @@ hnt-card-import-primary-button = Importer dine data
 hnt-card-default-body = { -brand-product-name } er den eneste store nettleseren som er laget for å beskytte deg, ikke spore deg.
 hnt-card-default-primary-button = Åpne lenker med { -brand-short-name }
 hnt-card-pin-header = Ha alltid { -brand-short-name } lett tilgjengelig
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Gå raskt tilbake til beskyttet surfing fra Dock.
+       *[other] Gå raskt tilbake til beskyttet surfing fra oppgavelinjen.
+    }
+hnt-card-mobile-header = Få innebygd beskyttelse på telefonen din
 hnt-card-wallpaper-primary-button = Begynn å tilpasse
 hnt-card-taskbar-tabs-header = Legg til favorittnettstedene dine på oppgavelinjen i Windows
 hnt-card-taskbar-tabs-body = Åpne nettstedene du besøker oftest, som apper med all beskyttelsen fra { -brand-product-name }.
