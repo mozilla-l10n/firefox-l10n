@@ -1344,7 +1344,7 @@ newtab-wallpaper-feature-highlight-cta = Izvēlieties fonu
 newtab-download-mobile-highlight-title = Lejupielādēt { -brand-product-name } mobilajām ierīcēm
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Noskenējiet kodu, lai droši pārlūkotu tīmekli, atrodoties ceļā.
-newtab-download-mobile-highlight-body-variant-b = Turpiniet darbu no vietas, kur pārtraucāt, sinhronizējot cilnes, paroles un citus failus.
+newtab-download-mobile-highlight-body-variant-b = Turpini darbu, kur to pārtrauci, kad sinhronizē cilnes, paroles un citus failus!
 newtab-download-mobile-highlight-body-variant-c = Vai zinājāt, ka varat ņemt { -brand-product-name } līdzi, atrodoties ceļā? Tas pats pārlūks. Jūsu kabatā.
 newtab-download-mobile-highlight-image =
     .aria-label = QR kods, lai lejupielādētu { -brand-product-name } Mobile

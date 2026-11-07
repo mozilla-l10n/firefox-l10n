@@ -205,7 +205,7 @@ annotations-default-pdf-handler-headline = Parakstieties uz punktētās līnijas
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Uzzīmējiet, ierakstiet vai augšupielādējiet savu parakstu un pēc tam novietojiet to tieši tur, kur vēlaties. Saglabājiet savus iecienītākos parakstus nākamajai reizei.
 annotations-make-default-pdf-handler-title = Vai { -brand-short-name } ir jūsu noklusējuma PDF redaktors?
-annotations-make-default-pdf-handler-subtitle = Jums būs piekļuve mūsu rīkiem katru reizi, kad atvērsiet PDF failu.
+annotations-make-default-pdf-handler-subtitle = Tev būs piekļuve mūsu rīkiem katru reizi, kad atvērsi PDF datni.
 annotations-make-default-pdf-primary-cta-label = Iestatīt kā noklusējuma vērtību
 annotations-make-default-pdf-next-label = Nākamais
 

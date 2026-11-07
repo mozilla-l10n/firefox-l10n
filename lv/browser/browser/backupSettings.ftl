@@ -260,6 +260,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> izveidots { DATETIME($d
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Atjaunots no { $deviceName } ierīces { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } plkst. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-backup-file-restore-file-validation-error = Šis fails nedarbojas. Mēģiniet izvēlēties citu failu. <a data-l10n-name="restore-problems">Joprojām rodas problēmas?</a>
+backup-file-restore-file-validation-error = Šī datne nedarbojas. Jāmēģina izvēlēties citu datni. <a data-l10n-name="restore-problems">Joprojām ir sarežģījumi?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nav atlasīta datne
