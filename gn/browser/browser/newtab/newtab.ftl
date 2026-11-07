@@ -190,6 +190,9 @@ newtab-privacy-across-sites =
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Ápe oñembohekopyahupáta.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Sa’ive jehapykueho, ñeikundaha pya’eve.
+newtab-privacy-empty-state-small-message = Eikundaha ejokokuaa hag̃ua.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -457,6 +460,11 @@ newtab-recent-searches-empty-trending = Umi ojehekavéva ndojeporukuaái ko’ag
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Tenondekuaa
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Embojuruja tenonderãkuaa poravoha
+    .title = Embojuruja tenonderãkuaa poravoha
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Eikuaave
 # Context menu item linking to the Yahoo website, the provider of the
@@ -468,6 +476,11 @@ newtab-horoscopes-menu-powered-by-yahoo = Yahoo rembiporupyahu ndive
 # Widget heading; also the widget's accessible name. Travel (noun) is a
 # widget on New Tab for searching hotels, flights and car rentals.
 newtab-travel-widget-title = Jehomombyry
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Embojuruja jehorã poravoha
+    .title = Embojuruja jehorã poravoha
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Eikuaave
 

@@ -582,8 +582,11 @@ newtab-widget-wrexhamafc-menu-view = תצוגה
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
 
+newtab-widget-wrexhamafc-view-matches = תוצאות
 newtab-widget-wrexhamafc-view-table = טבלה
 newtab-widget-wrexhamafc-view-fixtures = לוח משחקים
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = תמונות רקע
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1491,6 +1494,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = להציג פחות ווידג’טים
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = הווידג’ט אינו זמין. נא לבדוק שוב מאוחר יותר.
 newtab-widget-lists-name-default = רשימת תיוג
 
 ## Strings introduced by the Nova redesign of the Timer widget

@@ -1932,6 +1932,10 @@ collection-backlogged-crash-reports2 =
     .label = Automatski šalji izvještaje o prekidu rada programa
     .accesskey = A
 collection-backlogged-crash-reports-description = To pomaže da { -vendor-short-name } dijagnosticira i riješi probleme s preglednikom. Izvještaji mogu uključivati osobne ili osjetljive podatke.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Iste postavke, novi izgled!
+    .message = Reorganizirali smo ovu stranicu kako bi se lakše pregledala i istražila. Tvoje osobne postavke nisu promijenjene i sve je i dalje ovdje. Savjet: koristi pretraživanje za skok na potrebnu postavku-
 settings-redesign-promo-dismiss-button =
     .label = Razumijem
 privacy-segmentation-section-header = Nove funkcije koje poboljšavaju tvoje pregledavanje interneta
@@ -2229,6 +2233,9 @@ preferences-ai-controls-key-points-control =
 preferences-ai-controls-speech-recognition-control =
     .description = Transkribiraj govor lokalno.
     .label = Prepoznavanje govora
+preferences-ai-controls-sidebar-chatbot-group-3 =
+    .description = Imaj chatbota na vidiku kada pregledavaš web. Biraj među više pružatelja usluga i prebaci se u bilo kojem trenutku.
+    .label = Pružatelji chatbotova s umjetnom inteligencijom u bočnoj traci
 preferences-ai-controls-sidebar-chatbot-group =
     .description = Zadrži chatbot u vidokrugu tijekom pregledavanja weba. Biraj između usluga Anthropic Claude, ChatGPT, Copilot, Google Gemini i Le Chat Mistral.
     .label = Pružatelji chatbotova umjetne inteligencije u bočnoj traci
@@ -2267,9 +2274,12 @@ preferences-ai-controls-header3 =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } stražari
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } predlaže neka sigurnosna poboljšanja
 security-privacy-status-ok-label = Poboljšana zaštita od praćenja je uključena
 security-privacy-status-problem-label = Pronašli smo postavke koje utječu na tvoju zaštitu
 security-privacy-status-problem-helper-label = Prikaži probleme
+security-privacy-status-up-to-date-label = Imaš najnoviju i najsigurniju verziju { -brand-short-name(case: "gen") }
 security-privacy-status-update-needed-label = Dostupna je nova { -brand-short-name } inačica.
 security-privacy-status-update-error-label = { -brand-short-name } ima problema s ažuriranjem
 security-privacy-status-update-checking-label = { -brand-short-name } provjerava ažuriranja

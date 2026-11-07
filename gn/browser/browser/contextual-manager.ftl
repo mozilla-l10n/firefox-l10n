@@ -187,12 +187,16 @@ contextual-manager-passwords-radiobutton-all = Opavave ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Kyhyjerã ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Eipe’a ñe’ẽñemi?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = ¿Embogue ñe’ẽñemi?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Ndaikatúi eipe’a kóva.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Tapykue
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Mboguete
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Mboguete
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Heja
 contextual-manager-passwords-alert-card =
@@ -224,6 +228,9 @@ contextual-manager-passwords-update-label =
     .label = Embopyahu ñe’ẽñemi
 contextual-manager-passwords-remove-label =
     .title = Emboguete ñe’ẽñemi
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Embogue ñe’ẽñemi
 contextual-manager-passwords-origin-field =
     .label = Ñanduti kundaharape
     .placeholder = https://www.example.com

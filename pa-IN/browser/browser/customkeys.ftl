@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = ਟੈਬ URL ਨੂੰ ਕਾਪੀ ਕਰੋ
 customkeys-file-focus-search = ਖੋਜ ਪੱਟੀ ਉੱਤੇ ਫੋਕਸ ਕਰੋ
 customkeys-history-reopen-tab = ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
 customkeys-history-reopen-window = ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਵਿੰਡੋ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
+customkeys-history-reopen-tab-current-window = ਮੌਜੂਦਾ ਵਿੰਡੋ ਵਿੱਚੋਂ ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
 customkeys-sidebar-toggle = ਬਾਹੀ ਬਦਲੋ
 customkeys-view-bookmarks-toolbar = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਬਦਲੋ
 customkeys-view-picture-in-picture = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ

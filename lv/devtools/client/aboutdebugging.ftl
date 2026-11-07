@@ -46,6 +46,48 @@ about-debugging-sidebar-no-devices = Nav atrasta neviena ierīce
 about-debugging-sidebar-item-connect-button = Savienoties
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Savienojas…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Savienojums neizdevās
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Savienojums joprojām gaida, pārbaudiet ziņojumus mērķa pārlūkā.
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Savienojuma noilgums
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Gaida pārlūka ievadi…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Atvienots
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+# Variables:
+#   $displayName (string) - Displayed name
+#   $deviceName (string) - Name of the device
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+# Variables:
+#   $displayName (string) - Displayed name
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/)
+about-debugging-sidebar-support = Kļūdu novēršanas atbalsts
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Palīdzības ikona
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Atsvaidzināt ierīces
+# Title of the Setup page.
+about-debugging-setup-title = Iestatīšana
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Konfigurējiet savienojuma metodi, ar kuru vēlaties attālināti atkļūdot ierīci.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Lai atkļūdotu paplašinājumus un pakalpojumu darbiniekus šajā { -brand-shorter-name } versijā, izmantojiet <a>{ about-debugging-this-firefox-runtime-name } </a>.
 # Explanatory text displayed in the Setup page when USB debugging is disabled
 about-debugging-setup-usb-disabled = Pēc iespējošanas tiks lejupielādētas un { -brand-shorter-name } pievienotas nepieciešamās Android USB atkļūdošanas sastāvdaļas.
 # Text of a button displayed after the network locations "Host" input.
