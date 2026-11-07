@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Kopier fane-URL
 customkeys-file-focus-search = Fokuser på søkefeltet
 customkeys-history-reopen-tab = Gjenåpne sist lukkede fane
 customkeys-history-reopen-window = Gjenåpne sist lukkede vindu
+customkeys-history-reopen-tab-current-window = Åpne den sist lukkede fanen i gjeldende vindu på nytt
 customkeys-sidebar-toggle = Slå av/på sidestolpe
 customkeys-view-bookmarks-toolbar = Vis/skjul bokmerkeverktøylinjen
 customkeys-view-picture-in-picture = Bilde-i-bilde

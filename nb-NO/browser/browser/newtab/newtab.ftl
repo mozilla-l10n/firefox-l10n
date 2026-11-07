@@ -194,6 +194,7 @@ newtab-privacy-empty-state = { -brand-short-name } blokkerer automatisk sporere,
 newtab-privacy-empty-state-tally = Se en løpende opptelling her.
 # Shorter empty-state copy for the small card, shown as two separate lines.
 newtab-privacy-empty-state-small-title = Færre sporere, raskere surfing.
+newtab-privacy-empty-state-small-message = Begynn å surfe for å starte blokkeringen.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -565,6 +566,30 @@ newtab-solitaire-widget-open-menu-button =
     .title = Åpne kabalmenyen
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Les mer
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Åpne Wrexham AFC-menyen
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Vis
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-table = Tabell
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
