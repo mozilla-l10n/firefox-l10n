@@ -218,3 +218,53 @@ bar-tooltip-cryptominer =
            *[other] { $count } kriptominētāju ({ $percentage }%)
         }
     .title = Kriptominētāji
+# Privacy Metrics Card
+privacy-metrics-title = Privātuma aizsardzība
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] Šonedēļ bloķēts { $count }
+        [zero] Šonedēļ bloķēti { $count }
+       *[other] Šonedēļ bloķēti { $count }
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } izsekotājs
+        [zero] { $count } izsekotāji
+       *[other] { $count } izsekotāji
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } pirkstu nospiedumu lasītāji
+        [zero] { $count } pirkstu nospiedumu lasītāji
+       *[other] { $count } pirkstu nospiedumu lasītāji
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } izsekošanas sīkdatnes
+        [zero] { $count } izsekošanas sīkdatnes
+       *[other] { $count } izsekošanas sīkdatnes
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] Sociālo tīklu izsekotājs { $count }
+        [zero] { $count } sociālie izsekotāji
+       *[other] { $count } sociālie izsekotāji
+    }
+privacy-metrics-empty = Šonedēļ nav bloķētu izsekotāju. { -brand-short-name } aizsargā jūs no tālāk norādītajiem draudiem pārlūkošanas laikā.
+privacy-metrics-loading = Notiek aizsardzības statistikas ielāde…
+privacy-metrics-error = Nevar ielādēt aizsardzības statistiku.
+privacy-metrics-private-window = { -brand-short-name } turpina bloķēt izsekotājus privātajos logos, bet nesaglabā ierakstus par to, kas tika bloķēts.
+
+## VPN promo card and banner
+
+protections-vpn-title = Paplašiniet privātuma aizsardzību ārpus pārlūka robežām

@@ -319,3 +319,16 @@ paw-print-avatar-tooltip =
     .tooltiptext = Lietot ķepas nospieduma avatāru
 plane-avatar-tooltip =
     .tooltiptext = Lietot lidmašīnas avatāru
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Lietot pašreizējo avatāru
+shopping-avatar-tooltip =
+    .tooltiptext = Lietot iepirkumu groza avatāru
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Lietot futbola bumbas avatāru
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Lietot mirdzošu avatāru
+star-avatar-tooltip =
+    .tooltiptext = Lietot zvaigznes avatāru
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Lietot videospēļu kontroliera avatāru
