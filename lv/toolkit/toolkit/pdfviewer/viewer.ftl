@@ -288,7 +288,7 @@ pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", tim
 
 ## Password
 
-pdfjs-password-label = Ievadiet paroli, lai atvērtu PDF failu.
+pdfjs-password-label = Jāievada parole, lai atvērtu šo PDF datni.
 pdfjs-password-invalid = Nepareiza parole, mēģiniet vēlreiz.
 pdfjs-password-ok-button = Labi
 pdfjs-password-cancel-button = Atcelt
@@ -583,11 +583,11 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Biezums
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Zīmējuma biezums: { $thickness }
-pdfjs-editor-add-signature-image-placeholder = Velciet failu šeit, lai augšupielādētu
+pdfjs-editor-add-signature-image-placeholder = Vilkt datni šeit, lai augšupielādētu
 pdfjs-editor-add-signature-image-browse-link =
     { PLATFORM() ->
-        [macos] Vai arī izvēlieties attēlu failus
-       *[other] Vai pārlūkojiet attēlu failus
+        [macos] Vai jāizvēlas attēlu datnes
+       *[other] Vai jāpārlūko attēlu datnes
     }
 
 ## Controls

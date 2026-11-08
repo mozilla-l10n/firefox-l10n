@@ -649,3 +649,6 @@ hnt-card-import-primary-button = გადმოიტანეთ თქვე�
 hnt-card-default-body = { -brand-product-name } ერთადერთი მოწინავე ბრაუზერია, რომელიც შექმნილია თქვენს დასაცავად და არა თქვენს სათვალთვალოდ.
 hnt-card-default-primary-button = ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
 hnt-card-pin-header = დატოვეთ { -brand-short-name } თითის ერთ გაწვდენაზე
+hnt-card-mobile-header = მიიღეთ ჩაშენებული დაცვა ტელეფონზეც
+hnt-card-mobile-primary-button = გადმოწერეთ { -brand-product-name } მობილურზე.
+hnt-card-wallpaper-header = აირჩიეთ ახალი ფონი

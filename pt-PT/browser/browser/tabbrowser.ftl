@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Ajustar o tamanho dos separadores da vista dividida
 tab-devtools-splitter =
     .aria-label = Redimensionar painel de Ferramentas de Programador
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Adicionar Separadores ao Grupo
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:

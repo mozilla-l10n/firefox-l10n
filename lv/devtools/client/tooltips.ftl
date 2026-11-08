@@ -53,6 +53,7 @@ inactive-css-collapsed-table-borders = <strong>{ $property } </strong> neietekm�
 inactive-css-not-table-cell = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav tabulas šūna.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas neritina.
 inactive-css-border-image = <strong>{ $property } </strong> neietekmē šo elementu, jo to nevar lietot iekšējiem tabulas elementiem, kuros <strong>border-collapse</strong> ir iestatīts uz <strong>collapse</strong> vecāktabulas elementā.
+inactive-css-resize = <strong>{ $property } </strong> neietekmē šo elementu, jo to var lietot tikai elementiem ar pārpildes vērtību, kas nav redzama, un noteiktiem aizstātiem elementiem, piemēram, teksta apgabaliem.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> netiek atbalstīts <strong>@position-try</strong> noteikumos.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.

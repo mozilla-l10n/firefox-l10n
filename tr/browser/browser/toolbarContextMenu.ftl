@@ -76,7 +76,7 @@ toolbar-context-menu-view-customize-toolbar-2 =
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =
     .label = Araç çubuğuna sabitle
-    .accesskey = A
+    .accesskey = s
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Her zaman göster
     .accesskey = H

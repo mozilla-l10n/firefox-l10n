@@ -6,7 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Multivide: JPEG XL
-experimental-features-media-jxl-description = Ja šī funkcija ir iespējota, { -brand-short-name } atbalsta JPEG XL (JXL) formātu. Tas ir uzlabots attēlu failu formāts, kas atbalsta bezzudumu pāreju no tradicionālajiem JPEG failiem. Plašāku informāciju skatiet <a data-l10n-name="bugzilla">bug 1539075</a>.
+experimental-features-media-jxl-description = Ar iespējotu šo iespēju { -brand-short-name } atbalsta JPEG XL (JXL) formātu. Tas ir uzlabots attēlu datņu formāts, kas atbalsta bezzudumu pāreju no ierastajām JPEG datnēm. Vairāk informācijas ir skatāma <a data-l10n-name="bugzilla">kļūdas pieteikumā 1539075</a>.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
