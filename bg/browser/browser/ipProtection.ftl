@@ -23,9 +23,17 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Премахване на VPN от лентата с инструменти
 
+## Site settings callout
+
+ipprotection-site-settings-callout-button = Разбрах
+
 ## Location selection callout
 
 ipprotection-location-selection-callout-primary-button = Опитайте
+
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Разбрах
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
