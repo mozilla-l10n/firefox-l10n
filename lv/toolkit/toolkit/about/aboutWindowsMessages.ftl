@@ -9,3 +9,12 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = Windows ziņojumu informācija
+windows-messages-intro =
+    Šajā lapā tiek rādīti jaunākie ziņojumi, ko Windows nosūtījis
+    uz { -brand-short-name } pārlūkprogrammas logiem.
+    Treknrakstā izceltais ieraksts apzīmē šo logu. Ņemiet vērā, ka šajā lapā tiek rādīti
+    jaunākie ziņojumi lapas ielādes laikā;
+    lai skatītu pašreizējos ziņojumus, jums būs jāatsvaidzina lapa.
+windows-messages-copy-to-clipboard = Kopēt starpliktuvē

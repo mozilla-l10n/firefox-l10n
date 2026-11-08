@@ -162,5 +162,21 @@ about-webauthn-ctap2-enroll-feedback-good = Paraugs bija labs.
 
 about-webauthn-ctap2-enroll-feedback-too-high = Paraugs bija pārāk augstu.
 about-webauthn-ctap2-enroll-feedback-too-low = Paraugs bija pārāk zemu.
-about-webauthn-ctap2-enroll-feedback-too-left = Paraugs bija pārāk kreisi.
-about-webauthn-ctap2-enroll-feedback-too-right = Paraugs bija pārāk labi.
+about-webauthn-ctap2-enroll-feedback-too-left = Paraugs bija pārāk pa kreisi.
+about-webauthn-ctap2-enroll-feedback-too-right = Paraugs bija pārāk pa labi.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Paraugs tika ņemts pārāk ātri.
+about-webauthn-ctap2-enroll-feedback-too-slow = Paraugs bija pārāk lēns.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Parauga kvalitāte bija slikta.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Paraugs bija pārāk sašķiebts.
+about-webauthn-ctap2-enroll-feedback-too-short = Paraugs bija pārāk īss.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Parauga apvienošanas kļūme.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Paraugs jau pastāv.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Lietotājs nav veicis nekādas darbības.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Lietotājs nepabeidza izlases veidošanu, kā paredzēts.
+about-webauthn-ctap2-enroll-feedback-other = Parauga kļūda.

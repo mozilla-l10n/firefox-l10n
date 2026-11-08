@@ -5,6 +5,9 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
 # Header for a section that shows client information
 about-glean-submitted-ping-client-info-title = Informācija par klientu
 # Header for a section that shows Ping information
