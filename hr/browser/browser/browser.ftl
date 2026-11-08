@@ -732,6 +732,41 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pitaj
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Posljednji put je posjećeno { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Posljednji put je posjećeno prije { $daysAgo } dan
+        [few] Posljednji put je posjećeno prije { $daysAgo } dana
+       *[other] Posljednji put je posjećeno prije { $daysAgo } dana
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Posljednji put je posjećeno prije { $weeksAgo } tjedan
+        [few] Posljednji put je posjećeno prije { $weeksAgo } tjedna
+       *[other] Posljednji put je posjećeno prije { $weeksAgo } tjedana
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Posljednji put je posjećeno prije { $monthsAgo } mjesec
+        [few] Posljednji put je posjećeno prije { $monthsAgo } mjeseca
+       *[other] Posljednji put je posjećeno prije { $monthsAgo } mjeseci
+    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -932,6 +967,14 @@ urlbar-view-context-menu-open-in-window2 = Otvori u novom prozoru
     .accesskey = v
 urlbar-view-context-menu-open-in-private-window2 = Otvori u novom privatnom prozoru
     .accesskey = n
+urlbar-view-context-menu-search-in-tab = Traži u novoj kartici
+    .accesskey = T
+urlbar-view-context-menu-search-in-container-tab = Traži u novoj kontejnerskoj kartici
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = Traži u novom prozoru
+    .accesskey = n
+urlbar-view-context-menu-search-in-private-window = Traži u novom privatnom prozoru
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

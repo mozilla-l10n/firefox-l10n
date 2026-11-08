@@ -143,6 +143,14 @@ about-processes-tab-count =
         [one] { $count } καρτέλα
        *[other] { $count } καρτέλες
     }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } καρτέλα)
+       *[other] ({ $count } καρτέλες)
+    }
 # Bulk-action bar icon button: clears the selection without acting on it.
 about-processes-bulk-cancel-selection =
     .title = Ακύρωση επιλογής

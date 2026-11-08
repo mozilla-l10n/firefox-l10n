@@ -194,6 +194,10 @@ aiwindow-fullpage-more =
     .label = Više
     .title = Više
 
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Prebaci se na { -smart-window-brand-name }
+
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
@@ -234,6 +238,15 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 
 firefoxview-chats-empty-header = Vrati se na svoje razgovore
 
+## Count displayed in fxview chat search results
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } razgovor
+        [few] { $count } razgovora
+       *[other] { $count } razgovora
+    }
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -269,9 +282,26 @@ aiwindow-feedback-modal-title = Pošalji povratne informacije
 aiwindow-feedback-submit = Pošalji
 aiwindow-feedback-cancel = Odustani
 aiwindow-feedback-reason-incorrect-or-misleading = Netočno ili obmanjujuće
+aiwindow-feedback-reason-harmful-or-offensive = Štetno ili uvredljivo
 aiwindow-feedback-reason-other = Ostalo
 aiwindow-feedback-preview-report = Pogledaj detalje razgovora
 aiwindow-feedback-preview-report-with-page = Pogledaj detalje razgovora i stranice
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Napiši prvi nacrt
+aiwindow-starter-writing-improve = Poboljšaj pisanje
+aiwindow-starter-writing-proofread = Provjeri pravopis poruke
+aiwindow-starter-planning-simplify = Pojednostavi temu
+aiwindow-starter-planning-brainstorm = Daj ideje
+aiwindow-starter-planning-plan = Pomogni u stvaranju plana
+aiwindow-starter-browsing-history = Pronađi kartice u povijesti
+aiwindow-starter-browsing-summarize = Izradi sažetak kartica
+aiwindow-starter-browsing-compare = Usporedi kartice
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

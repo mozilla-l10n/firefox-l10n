@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Uvezi iz drugog pregl
 contextual-manager-passwords-command-import = Uvezi iz datoteke…
 contextual-manager-passwords-command-export = Izvezi lozinke
 contextual-manager-passwords-command-remove-all = Ukloni sve lozinke
+contextual-manager-passwords-command-delete-all = Izbriši sve lozinke
 contextual-manager-passwords-command-options = Opcije
 contextual-manager-passwords-command-help = Pomoć
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,14 @@ contextual-manager-passwords-remove-all-title =
         [one] Ukloniti lozinku?
         [few] Ukloniti sve { $total } lozinke?
        *[other] Ukloniti svih { $total } lozinki?
+    }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Izbrisati { $total } lozinku?
+        [few] Izbrisati { $total } lozinke?
+       *[other] Izbrisati { $total } lozinka?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords

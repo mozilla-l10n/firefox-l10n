@@ -61,8 +61,12 @@ extension-nova-smoke-name = Καπνός
 extension-classic-proton-name = Γκρι
 # Name for a blue theme.
 extension-classic-blue-name = Μπλε
+# Name for a violet theme.
+extension-classic-violet-name = Βιολετί
 # Name for a green theme.
 extension-classic-green-name = Πράσινο
+# Name for a purple theme.
+extension-classic-purple-name = Μοβ
 # Name for a pink theme.
 extension-classic-pink-name = Ροζ
 # Name for a yellow theme.

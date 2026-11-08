@@ -14,6 +14,12 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = Organiziraj kartice
+# Shown while the on-device model clusters the open tabs into suggestions. It is
+# forming new groups from these tabs, not searching for tab groups that already
+# exist.
+smartwindow-group-tabs-loading = Provjeravanje kartica za moguće korisne grupe…
+# Shown when clustering produced no group worth suggesting.
+smartwindow-group-tabs-empty = Trenutno nema prijedloga za grupiranje kartica. Provjeri ponovno kasnije.
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Stvori sve grupe
 smartwindow-group-tabs-suggested-heading = Predložene grupe
@@ -35,3 +41,9 @@ smartwindow-group-tabs-view-tab-groups = Prikaži grupe kartica
 # Accessible name for the list of existing tab groups the row above opens.
 smartwindow-group-tabs-groups-list =
     .aria-label = Grupe kartica
+# Accessible name for the list of duplicate tabs the row above would close,
+# one row per tab. Activating a tab in the list switches to it.
+# "Duplicate tabs" refers to tabs that are copies of each other; it is not a
+# verb telling the user to duplicate anything.
+smartwindow-group-tabs-duplicates-list =
+    .aria-label = Duplicirane kartice koje se mogu zatvoriti

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-agent-task-description = Zadatak agenta standardnog preglednika provjerava kada se standardni preglednik promijeni iz { -brand-short-name } u jedan drugi preglednik. Ako se promjena dogodi pod sumnjivim okolnostima, od korisnika će se zatražiti da se vrate na { -brand-short-name } ne više od dva puta. Ovaj zadatak se automatski instalira od strane { -brand-short-name } i ponovo se instalira kada se { -brand-short-name } aktualizira. Za deaktiviranja ovog zadatka, aktualiziraj postavku “default-browser-agent.enabled” na stranici about:config ili { -brand-short-name } postavku pravila poduzeća “DisableDefaultBrowserAgent”.
+default-browser-notification-privacy-header-text = Ostati uz { -brand-short-name }?
 default-browser-notification-privacy-body-text = Tvoja je zadana postavka promijenjena. Vrati se na { -brand-short-name } za ugrađenu privatnost i zaštitu.
 default-browser-notification-yes-button-text = Da
 default-browser-notification-privacy-no-button-text = Ne hvala

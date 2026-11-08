@@ -12,6 +12,7 @@ confirmation-hint-password-updated = Lozinka aktualizirana
 confirmation-hint-address-created = Adresa spremljena
 confirmation-hint-address-updated = Adresa akutilizirana
 confirmation-hint-payment-method-saved = Način plaćanja je spremljen
+confirmation-hint-payment-method-updated = Način plaćanja je aktualiziran
 confirmation-hint-credit-card-created = Kartica je spremljena
 confirmation-hint-credit-card-updated = Kreditna kartica aktualizirana
 confirmation-hint-passport-created = Putovnica spremljena
@@ -22,6 +23,7 @@ confirmation-hint-send-to-device = Poslano!
 confirmation-hint-firefox-relay-mask-created = Nova maska je stvorena!
 confirmation-hint-firefox-relay-mask-reused = Postojeća maska je ponovo korištena!
 confirmation-hint-screenshot-copied = Snimka ekrana je kopirana!
+confirmation-hint-tab-group-saved = Grupa kartica je spremljena
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

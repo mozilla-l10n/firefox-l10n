@@ -40,6 +40,26 @@ download-ui-cancel-downloads-ok =
        *[other] { $downloadsCount } sćehnjenjow přetorhnyć
     }
 download-ui-confirm-cancel-button = Přetorhnyć
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 1 sćehnjenje zastajić a { -brand-short-name } skónčić?
+                [one] { $downloadsCount } sćehnjenje zastajić a { -brand-short-name } skónčić?
+                [two] { $downloadsCount } sćehnjeni zastajić a { -brand-short-name } skónčić?
+                [few] { $downloadsCount } sćehnjenja zastajić a { -brand-short-name } skónčić?
+               *[other] { $downloadsCount } sćehnjenjow zastajić a { -brand-short-name } skónčić?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 1 sćehnjenje zastajić a { -brand-short-name } skónčić?
+                [one] { $downloadsCount } sćehnjenje zastajić a { -brand-short-name } skónčić?
+                [two] { $downloadsCount } sćehnjeni zastajić a { -brand-short-name } skónčić?
+                [few] { $downloadsCount } sćehnjenja zastajić a { -brand-short-name } skónčić?
+               *[other] { $downloadsCount } sćehnjenjow zastajić a { -brand-short-name } skónčić?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } spyta, ze sćehnjenjemi pokročować, hdyž so zaso wočinja, ale postup móže so zhubić.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] { -brand-short-name } skónčić
@@ -53,6 +73,7 @@ download-ui-confirm-offline-title =
         [few] { $downloadsCount } sćehnjenja zastajić a offline hić?
        *[other] { $downloadsCount } sćehnjenjow zastajić a offline hić?
     }
+download-ui-confirm-offline-message = { -brand-short-name } spyta, ze sćehnjenjemi pokročować, hdyž sće zaso online , ale postup móže so zhubić.
 download-ui-confirm-offline-button = Offline hić
 download-ui-confirm-private-browsing-title =
     { $downloadsCount ->

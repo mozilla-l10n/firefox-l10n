@@ -637,3 +637,7 @@ welcome-back-onboarding-card-label-tabs = Τακτοποιήστε τον χώρ
 welcome-back-onboarding-card-label-vpn = Παραμείνετε ανώνυμοι με το ενσωματωμένο VPN
 welcome-back-onboarding-card-label-pdf = Επισημάνετε, υπογράψτε και επεξεργαστείτε αρχεία PDF
 welcome-back-onboarding-card-tilebutton-label = Δοκιμή
+
+## New Tab Onboarding cards
+
+hnt-card-extensions-primary-button = Εξερεύνηση

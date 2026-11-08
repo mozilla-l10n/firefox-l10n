@@ -94,10 +94,13 @@ genai-shortcut-button =
     .aria-label = Pitaj { $provider }
 genai-menu-new-badge = Novi
 genai-menu-summarize-page = Sažmi stranicu
+genai-menu-summarize-with-ai = Sažmi pomoću umjetne inteligencije
 genai-input-ask-smart-window =
     .placeholder = Pitaj…
 genai-input-ask-generic =
     .placeholder = Pitaj UI chatbota …
+genai-input-ask-ai =
+    .placeholder = Pitaj umjetnu inteligenciju…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pitaj { $provider }…
