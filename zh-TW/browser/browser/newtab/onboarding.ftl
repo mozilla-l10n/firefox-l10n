@@ -31,7 +31,7 @@ return-to-amo-extension-install-complete-label = 已安裝擴充套件
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = 跟 { -brand-short-name } 說聲嗨！
-mr1-return-to-amo-addon-title = 您有了一套觸手可及，又快又有隱私斯的瀏覽器。現在您還可以新增 <b>{ $addon-name }</b>，讓 { -brand-short-name } 能做更多事。
+mr1-return-to-amo-addon-title = 您有了一套觸手可及，又快又有隱私的瀏覽器。現在您還可以新增 <b>{ $addon-name }</b>，讓 { -brand-short-name } 能做更多事。
 mr1-return-to-amo-add-extension-label = 新增 { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -144,7 +144,7 @@ fx100-thank-you-subtitle = 這一版是我們的第 100 版！非常感謝您與
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] 將 { -brand-short-name } 放置於 Dock
-       *[other] 將 { -brand-short-name } 釘選到工具列
+       *[other] 將 { -brand-short-name } 釘選到工作列
     }
 fx100-upgrade-thanks-header = 100 倍的感謝您
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
@@ -176,10 +176,10 @@ mr2022-onboarding-welcome-pin-subtitle = 只要輕鬆一點就可以從任何地
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] 將 { -brand-short-name } 放置於 Dock
-       *[other] 將 { -brand-short-name } 釘選到工具列
+       *[other] 將 { -brand-short-name } 釘選到工作列
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
-mr2022-onboarding-pin-primary-button-label-msix = 將 { -brand-short-name } 釘選到工具列與開始選單
+mr2022-onboarding-pin-primary-button-label-msix = 將 { -brand-short-name } 釘選到工作列與開始選單
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -369,9 +369,9 @@ onboarding-genai-sidebar-secondary-button = 開始上網
 ## New user onboarding checklist
 
 onboarding-checklist-title = 完成設定 { -brand-short-name }
-onboarding-checklist-subtitle = 完成下列步驟，讓您獲得最完整的的上網體驗。
+onboarding-checklist-subtitle = 完成下列步驟，讓您獲得最完整的上網體驗。
 onboarding-checklist-set-default = 將 { -brand-short-name } 設為預設瀏覽器
-onboarding-checklist-pin = 將 { -brand-short-name } 釘選到工具列
+onboarding-checklist-pin = 將 { -brand-short-name } 釘選到工作列
 onboarding-checklist-import = 從先前使用的瀏覽器匯入資料
 onboarding-checklist-extension = 新增擴充套件
 onboarding-checklist-sign-up = 註冊或登入帳號
@@ -543,7 +543,7 @@ onboarding-refresh-tou-default = 用 { -brand-short-name } 開啟所有鏈結
 onboarding-refresh-tou-pin =
     { PLATFORM() ->
         [macos] 將 { -brand-short-name } 保留於 Dock
-       *[other] 將 { -brand-short-name } 新增到您的工具列
+       *[other] 將 { -brand-short-name } 新增到您的工作列
     }
 onboarding-refresh-tou-default-unchecked = 每次上網都保留內建防護
 onboarding-refresh-tou-pin-unchecked = 讓唯一的主流獨立瀏覽器隨手可得
@@ -649,7 +649,7 @@ hnt-card-wallpaper-body = 選擇您喜愛的背景，讓這個畫面更有家的
 hnt-card-wallpaper-primary-button = 開始自訂
 hnt-card-taskbar-tabs-header = 將您最愛的網站新增至 Windows 工作列
 hnt-card-taskbar-tabs-body = 像使用應用程式一樣開啟您最常造訪的網站，同時享有 { -brand-product-name } 的完整保護。
-hnt-card-taskbar-tabs-primary-button = 將網站新增至工具列
+hnt-card-taskbar-tabs-primary-button = 將網站新增至工作列
 hnt-card-extensions-header = 使用擴充套件加強 { -brand-short-name } 功能
 hnt-card-extensions-body = 使用我們最受歡迎的擴充套件，打造專屬於您的個人化上網體驗。
 hnt-card-extensions-primary-button = 探索

@@ -354,9 +354,9 @@ multi-cta-fox-doodle-quick-reminder-subtitle = 小提醒：您可以把最愛的
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
         [macos] 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並放置於 Dock。
-       *[other] 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工具列。
+       *[other] 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工作列。
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工具列與開始選單。
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工作列與開始選單。
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
@@ -375,7 +375,7 @@ windows-10-eos-sync-toast-secondary-label = 待會提醒我
 
 windows-10-eos-challenger-callout-title = 不像其他大型科技公司推出的瀏覽器：{ -brand-product-name } 不內建於新裝置中，這就是差別。
 windows-10-eos-challenger-sync-callout-subtitle = 備份 { -brand-product-name } 書籤與密碼之後，您很簡單就可以把瀏覽器的資料帶到下一台裝置中。
-windows-10-eos-challenger-pin-callout-subtitle = 將 { -brand-shorter-name } 釘選到工具列，這樣有需要的時候，就可以隨時使用您選擇的這套瀏覽器。
+windows-10-eos-challenger-pin-callout-subtitle = 將 { -brand-shorter-name } 釘選到工作列，這樣有需要的時候，就可以隨時使用您選擇的這套瀏覽器。
 windows-10-eos-challenger-sync-primary-button = 備份 { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = 釘選 { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } 會封鎖加密貨幣採礦程式、社群網路追蹤器，以及數位指紋追蹤程式。
@@ -431,7 +431,7 @@ set-default-menu-message-row-layout-subtitle = 隨時上網都有最快速度、
 set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
         [macos] 將 { -brand-short-name } 設為預設瀏覽器並保留在您的 Dock，方便隨手開啟。
-       *[other] 將 { -brand-short-name } 設為預設瀏覽器並保留在您的工具列，方便隨手開啟。
+       *[other] 將 { -brand-short-name } 設為預設瀏覽器並保留在您的工作列，方便隨手開啟。
     }
 set-default-menu-message-split-layout-title =
     { PLATFORM() ->

@@ -10,7 +10,7 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .description = 選擇要在工具列、桌面與開始選單顯示的自訂圖示。
+    .description = 選擇要在工作列、桌面與開始選單顯示的自訂圖示。
     .label = 瀏覽器圖示
 appearance-browser-icon-button =
     .label = 更改瀏覽器圖示

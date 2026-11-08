@@ -47,8 +47,8 @@ home-custom-homepage-address-button =
 home-custom-homepage-no-results =
     .label = 尚未加入任何網站。
 home-custom-homepage-delete-address-button =
-    .aria-label = 刪除地址
-    .title = 刪除地址
+    .aria-label = 刪除網址
+    .title = 刪除網址
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -218,7 +218,7 @@ newtab-privacy-message-info-8 = 使用 { -brand-short-name } 上網，就代表�
 newtab-privacy-message-info-8-cta = 了解更多
 newtab-privacy-message-info-9 = 將 { -brand-short-name } 設為您內建隱私保護的預設瀏覽器。
 newtab-privacy-message-info-9-cta = 設為預設瀏覽器
-newtab-privacy-message-info-10 = 將密碼儲存在 { -brand-short-name } 即可任何網站都使用強大、不重複的登入資訊。
+newtab-privacy-message-info-10 = 將密碼儲存在 { -brand-short-name } 即可在任何網站都使用強大、不重複的登入資訊。
 newtab-privacy-message-info-10-cta = 前往密碼
 newtab-privacy-message-info-11 = 看看 { -brand-short-name } 如何幫助您讓上網更有隱私。
 newtab-privacy-message-info-11-cta = 更多資訊
@@ -941,7 +941,7 @@ newtab-wallpaper-category-list =
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 圖片超過 { $file_size }MB 的檔案大小限制。請嘗試上傳小一點的檔案。
-newtab-wallpaper-error-upload-file-type = 無法上傳您的檔案，請稍後再重新上傳圖片。
+newtab-wallpaper-error-upload-file-type = 無法上傳您的檔案，請使用圖片檔案再試一次。
 newtab-wallpaper-light-red-panda = 小貓熊
 newtab-wallpaper-light-mountain = 白色山脈
 newtab-wallpaper-light-sky = 紫色與粉紅色的天空
