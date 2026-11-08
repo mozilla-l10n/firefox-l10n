@@ -94,8 +94,8 @@ fp-certerror-unknown-issuer-what-can-you-do-body = Wierskynlik neat, omdat der w
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = Omdat der in probleem is mei it sertifikaat fan de website. Websites brûke sertifikaten dy’t troch in sertifikaatautoriteit útjûn binne om te bewizen dat se echt binne wa’t se sizze dat se binne. It sertifikaat fan dizze website is selsûndertekene. It is net útjûn troch in erkende sertifikaatautoriteit – wy fertrouwe it dus standert net.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-self-signed-what-can-you-do-body = Net folle. It is wierskynlik in probleem is mei de website sels.
-fp-certerror-self-signed-important-note = WICHTICH OPMERKING: As jo probearje dizze side op in bedriuwsyntranet te besykjen, brûkt jo IT-ôfdieling mooglik selsûndertekene sertifikaten. Se kinne jo helpe by it kontrolearjen fan de echtheid derfan.
+fp-certerror-self-signed-what-can-you-do-body = Net folle. It is wierskynlik in probleem mei de website sels.
+fp-certerror-self-signed-important-note = WICHTIGE OPMERKING: As jo probearje dizze side op in bedriuwsyntranet te besykjen, brûkt jo IT-ôfdieling mooglik selsûndertekene sertifikaten. Se kinne jo helpe by it kontrolearjen fan de echtheid derfan.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.

@@ -16,7 +16,7 @@ prompt-to-install-no-button = Net ynstallearje
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = { -brand-short-name }-ynstallaasje mislearre.
-install-failed-message = { -brand-short-name }-ysntallaasje is mislearre, mar sil wurkje bliuwe.
+install-failed-message = { -brand-short-name }-ynstallaasje is mislearre, mar sil wurkje bliuwe.
 
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,

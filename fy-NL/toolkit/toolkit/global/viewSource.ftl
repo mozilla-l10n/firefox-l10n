@@ -9,7 +9,7 @@ view-source-go-to-line-title = Gean nei rigel
 view-source-go-to-line-text = Fier rigelnûmer yn
 view-source-invalid-input-title = Unjildige ynfier
 view-source-invalid-input-text = It ynfierde rigelnûmer is net jildich.
-view-source-out-of-range-title = Rige net fûn
+view-source-out-of-range-title = Rigel net fûn
 view-source-out-of-range-text = De opjûne rigel is net fûn.
 
 ##

@@ -80,7 +80,7 @@ neterror-sslkeylogging-warning =
 
 ## Specific error messages
 
-neterror-generic-error = { -brand-short-name } kin om ien oft oare reden dizze side net lade.
+neterror-generic-error = { -brand-short-name } kin om ien of oare reden dizze side net lade.
 neterror-load-error-try-again = Miskien is de website tydlik net beskikber. Probearje it letter nochris.
 neterror-load-error-connection = As jo gjin inkelde side lade kinne, kontrolearje dan de netwurkferbining fan jo kompjûter.
 neterror-load-error-firewall = As jo kompjûter of netwurk befeilige wurdt troch in firewall of proxy, soargje der dan foar dat { -brand-short-name } tagong hat ta it web.
@@ -113,7 +113,7 @@ neterror-dns-not-found-offline-hint-reconnect = Ferbrek de ferbining ferbyn opni
 
 neterror-loopback-refused-not-running = Der wurde op poarte { $port } gjin ferbiningen akseptearre. Kontrolearje oft jo lokale server aktyf is.
 # "it" is the local server that the user is trying to reach.
-neterror-loopback-refused-wrong-port = As dizze aktyf is, kontrolearje dan of dizze poarte { $port } brûkt.
+neterror-loopback-refused-wrong-port = As dizze aktyf is, kontrolearje dan oft dizze poarte { $port } brûkt.
 # "this address" is the IP address of the page that failed to load, for example
 # 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
 # and 127.0.0.1 in the text.
@@ -198,7 +198,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = As jo op in sa
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-certerror-expired-cert-what-can-you-do-about-it-clock = Jo kompjûterklok is ynsteld op { DATETIME($now, dateStyle: "medium") }. Soargje derfoar dat jo kompjûter op de krekte datum, tiid en tiidssône ynsteld is yn jo systeemynstellingen, en fernij dêrnei <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-clock = Jo kompjûterklok is ynsteld op { DATETIME($now, dateStyle: "medium") }. Soargje derfoar dat jo kompjûter op de krekte datum, tiid en tiidsône ynsteld is yn jo systeemynstellingen, en fernij dêrnei <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = As jo klok al op de krekte tiid ynsteld is, is de website wierskynlik net krekt konfigurearre, en kinne jo neat dwaan om it probleem te ferhelpen. Jo kinne wol de behearder fan de website oer it probleem ynformearje.
 certerror-bad-cert-domain-what-can-you-do-about-it = It probleem leit hiel wierskynlik by de website, en jo kinne neat dwaan om dit te ferhelpen. Jo kinne de behearder fan de website oer it probleem ynformearje.
 certerror-mitm-what-can-you-do-about-it-antivirus = As jo antifirussoftware in funksje befettet dy fersifere ferbiningen scant (faaks ‘webscanning’ of ‘https-scanning’ neamd), kinne jo dy funksje útskeakelje. As dat net wurket, kinne jo de antifirussoftware fuortsmite en opnij ynstallearje.
