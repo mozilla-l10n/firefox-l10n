@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Osztott nézet lapjainak átméretezése
 tab-devtools-splitter =
     .aria-label = Fejlesztői eszközök panel átméretezése
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Lapok hozzáadása a csoporthoz
+    .accesskey = L
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -281,6 +286,14 @@ tab-context-move-tab-to-new-group =
            *[other] Lapok hozzáadása új csoporthoz
         }
     .accesskey = c
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Hozzáadás csoporthoz
+            [one] { $tabCount } lap hozzáadása csoporthoz
+           *[other] { $tabCount } lap hozzáadása csoporthoz
+        }
+    .accesskey = c
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -455,6 +468,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Külön osztott nézet
     .accesskey = K
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Lapok szétválasztása
+    .accesskey = s
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Lapok felcserélése

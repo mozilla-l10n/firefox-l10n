@@ -39,6 +39,20 @@ download-ui-cancel-downloads-ok =
         [1] 取消 1 项下载
        *[other] 取消 { $downloadsCount } 项下载
     }
+download-ui-confirm-cancel-button = 取消
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 要停止 1 项下载并退出 { -brand-short-name } 吗？
+               *[other] 要停止 { $downloadsCount } 项下载并退出 { -brand-short-name } 吗？
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 要停止 1 项下载并退出 { -brand-short-name } 吗？
+               *[other] 要停止 { $downloadsCount } 项下载并退出 { -brand-short-name } 吗？
+            }
+    }
 
 ##
 

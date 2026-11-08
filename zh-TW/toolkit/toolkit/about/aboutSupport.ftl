@@ -383,8 +383,8 @@ zooming-enabled = 已開啟平滑手指縮放
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = 因為不支援的偏好設定: { $preferenceKey }，已停用異步滾輪輸入
-touch-warning = 因為不支援的偏好設定: { $preferenceKey }，已停用異步觸控輸入
+wheel-warning = 因為不支援的偏好設定：{ $preferenceKey }，已停用異步滾輪輸入
+touch-warning = 因為不支援的偏好設定：{ $preferenceKey }，已停用異步觸控輸入
 
 ## Strings representing the status of the Enterprise Policies engine.
 

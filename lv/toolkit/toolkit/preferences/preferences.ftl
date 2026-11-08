@@ -29,6 +29,7 @@ remove-primary-password =
 remove-primary-password-info =
     .value = Lai turpinātu, jāievada pašreizējā parole.
 remove-primary-password-warning1 = Jūsu galvenā parole tiek izmantota, lai aizsargātu sensitīvu informāciju, piemēram, pieteikšanās datus un paroles.
+remove-primary-password-warning2 = Ja noņemsiet savu galveno paroli, jūsu informācija netiks aizsargāta, ja jūsu dators tiks apdraudēts.
 remove-password-old =
     .label = Pašreizējā parole:
 set-password-not-set =

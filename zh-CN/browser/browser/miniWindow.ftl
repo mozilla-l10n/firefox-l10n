@@ -48,7 +48,7 @@ toolbar-button-mini-window =
     .tooltiptext = 使用迷你窗口
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
-    .label = 移动选择的区域到迷你窗口
+    .label = 选择区域移至迷你窗口
     .accesskey = w
 # Moves full tabs to Mini Windows, one window per tab.
 # Variables
