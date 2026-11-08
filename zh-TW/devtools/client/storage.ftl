@@ -26,7 +26,7 @@ storage-table-type-indexeddb-hint = 選擇資料庫來檢視或刪除 IndexedDB 
 storage-table-type-cache-hint = 選擇儲存空間來檢視或刪除快取項目。<a data-l10n-name="learn-more-link">了解更多</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
-storage-table-type-extensionstorage-hint = 選擇主機來檢視或編輯擴充套件。<a data-l10n-name="learn-more-link">了解更多</a>
+storage-table-type-extensionstorage-hint = 選擇主機來檢視或編輯擴充套件儲存空間。<a data-l10n-name="learn-more-link">了解更多</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = 過濾項目

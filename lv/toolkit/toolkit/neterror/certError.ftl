@@ -135,6 +135,34 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Jūsu ierīces pulkstenis
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = { $hostname } īpašnieks to nav pareizi iestatījis, un drošu savienojumu nevar izveidot.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Jūsu dators domā, ka tas ir { DATETIME($now, dateStyle: "medium") }, kas neļauj { -brand-short-name } droši izveidot savienojumu. Lai apmeklētu <strong>{ $hostname } </strong>, atjauniniet datora pulksteni sistēmas iestatījumos uz pašreizējo datumu, laiku un laika joslu un pēc tam atsvaidziniet lapu.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Atjauniniet datora pulksteni sistēmas iestatījumos uz pašreizējo datumu, laiku un laika joslu. Jūsu dators domā, ka tas ir { DATETIME($now, dateStyle: "medium") }.
+
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtais sertifikāts ir atsaukts un vairs netiek uzskatīts par uzticamu.
+cert-error-bad-signature = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sertifikātā norādītais paraksts nav derīgs.
+cert-error-key-pinning-failure = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtais sertifikāts izmanto citu publisko atslēgu nekā paredzēts.
+cert-error-bad-der = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtais sertifikāts nav pareizi kodēts.
+cert-error-cert-not-in-name-space = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtais sertifikāts neatbilst tā izdevēja sertifikāta nosaukuma ierobežojumiem.
+cert-error-inadequate-cert-type = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo tīmekļa serverim nav atļauts izmantot { $hostname } sniegto sertifikātu.
+cert-error-path-len-constraint-invalid = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtajam sertifikātam saknes sertifikāta ceļā ir pārāk daudz starpposma sertifikātu.
+cert-error-invalid-key = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtajam sertifikātam ir nederīga atslēga. Visticamāk, tā ir pārāk maza, lai būtu droša.
+cert-error-unknown-critical-extension = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtais sertifikāts satur neatbalstītu kritisku paplašinājumu.
+cert-error-extension-value-invalid = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtajā sertifikātā ir nederīgs paplašinājums.
+cert-error-untrusted-issuer = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegto sertifikātu izdevusi sertifikātu iestāde, kurai vairs neuzticas.
+cert-error-untrusted-cert = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtais sertifikāts ir atzīmēts kā neuzticams.
+cert-error-invalid-integer-encoding = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } norādītais sertifikāts satur nederīgu vesela skaitļa kodējumu. Biežākie iemesli ir negatīvi sērijas numuri, negatīvi RSA moduļi un kodējumi, kas ir garāki nekā nepieciešams.
+cert-error-unsupported-keyalg = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtajam sertifikātam ir neatbalstīts atslēgas tips.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo sertifikātu izdevēja iestāde, kas izdeva { $hostname } norādīto sertifikātu, vairs netiek uzskatīta par uzticamu.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } bloķēja jūsu apmeklējumu šajā vietnē, jo { $hostname } sniegtā sertifikāta parakstīšanas algoritms neatbilst tā parakstīšanas algoritma laukam.
 
 ## Messages used for certificate error titles
 
@@ -167,6 +195,7 @@ redirectLoop-title = Lapa netiek korekti pāradresēta
 unknownSocketType-title = Negaidīta atbilde no servera
 nssFailure2-title = Drošais savienojums neizdevās
 csp-xfo-error-title = { -brand-short-name } nevar atvērt šo lapu
+corruptedContentErrorv2-title = Bojāta satura kļūda
 sslv3Used-title = Neizdevās droši pieslēgties
 inadequateSecurityError-title = Savienojums nav drošs
 blockedByPolicy-title = Aizturēta lapa

@@ -255,4 +255,7 @@ fp-neterror-offline-what-can-you-do-body = Mēģiniet izveidot savienojumu, izma
 fp-neterror-http-auth-disabled-what-can-you-do-body = Mēģiniet mainīt URL uz HTTPS. Taču, visticamāk, problēma ir pašā vietnē.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Dažreiz tīmekļa vietnes izveido sev aizsardzību pret nevēlamu mijiedarbību ar citām vietnēm.
+fp-learn-more-about-https-connections = Uzziniet par HTTPS savienojumiem
+fp-neterror-vpn-error-title = Nevarēja izveidot savienojumu ar VPN
 fp-neterror-vpn-error-description = Pēc dažām minūtēm jāmēģina vēlreiz.
+fp-neterror-denied-port-access = Šī adrese izmanto tīkla portu, kas parasti tiek izmantots citiem mērķiem, nevis tīmekļa pārlūkošanai. { -brand-short-name } ir atcēlis pieprasījumu jūsu aizsardzībai.
