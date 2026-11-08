@@ -229,7 +229,7 @@ contextual-manager-passwords-title = 密碼
 contextual-manager-passwords-create-label =
     .label = 新增密碼
 contextual-manager-passwords-update-label =
-    .label = 已更新密碼
+    .label = 更新密碼
 contextual-manager-passwords-remove-label =
     .title = 刪除密碼
 # Tooltip for the delete button in the edit password form when per-device sync is enabled

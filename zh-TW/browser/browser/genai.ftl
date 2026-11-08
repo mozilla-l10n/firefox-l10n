@@ -93,16 +93,16 @@ genai-more-actions-copy =
     .label = 複製
 # The span is a right-pointing chevron that separates the steps of the path to
 # the setting, in place of a ">" character.
-genai-more-actions-all-off-notice = 選擇文字時不會看到此選單。前往設定 <span data-l10n-name="chevron"></span> 分頁並瀏覽，即可再次顯示。
+genai-more-actions-all-off-notice = 選擇文字時不會看到此選單。前往設定 <span data-l10n-name="chevron"></span> 分頁與瀏覽，即可再次顯示。
 genai-more-actions-manage-settings =
     .label = 管理設定
 genai-selection-callout-title = 反白文字即可選擇操作
 # "Search" and "Copy" are verbs.
-genai-selection-callout-text = 選擇文字後即可搜尋或複製。你可以透過 <span data-l10n-name="more-actions">•••</span> 選單選擇要顯示哪些操作。
+genai-selection-callout-text = 選擇文字後即可搜尋或複製。您可以透過 <span data-l10n-name="more-actions">•••</span> 選單選擇要顯示哪些操作。
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 問問 { $provider }
-genai-menu-new-badge = 新增
+genai-menu-new-badge = 新功能
 genai-menu-summarize-page = 摘要本頁
 genai-menu-summarize-with-ai = 使用 AI 摘要
 genai-input-ask-smart-window =

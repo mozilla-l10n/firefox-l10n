@@ -52,7 +52,7 @@ login-list-last-changed-option = 上次修改
 login-list-last-used-option = 上次使用
 login-list-intro-title2 = 未儲存密碼
 login-list-intro-description = 當您在 { -brand-product-name } 中儲存密碼後，就會顯示於此處。
-about-logins-login-list-empty-search-title2 = 未儲存密碼
+about-logins-login-list-empty-search-title2 = 找不到密碼
 about-logins-login-list-empty-search-description = 沒有符合您搜尋條件的結果。
 login-list-item-title-new-login2 = 新增密碼
 login-list-item-subtitle-missing-username = （無使用者名稱）
@@ -88,7 +88,7 @@ about-logins-origin-tooltip2 = 請輸入完整的網址，並且與您用來登�
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = 請確認您更改過此網站的密碼，再於此處修改。單純於此處修改並不會更改 { $webTitle } 上的密碼。
-about-logins-add-password-tooltip = 請確認您更改過此網站的密碼，再於此處修改。
+about-logins-add-password-tooltip = 請確認您儲存的是此網站目前使用的密碼。
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 使用者名稱
@@ -232,7 +232,7 @@ about-logins-confirm-delete-all-sync-dialog-message =
 ##
 
 about-logins-confirm-export-dialog-title2 = 匯出密碼的注意事項
-about-logins-confirm-export-dialog-message2 = 密碼匯出後，會以明碼的方式記錄在檔案中，建議您在使用完檔案後立即刪除密碼，避免其他有機會接觸到此裝置的人能夠看到您的密碼。
+about-logins-confirm-export-dialog-message2 = 密碼匯出後，會以明碼的方式記錄在檔案中，建議您在使用完檔案後立即刪除，避免其他有機會接觸到此裝置的人能夠看到您的密碼。
 about-logins-confirm-export-dialog-confirm-button2 = 繼續匯出
 about-logins-alert-import-message = 檢視詳細的匯入摘要
 confirm-discard-changes-dialog-title = 要放棄未儲存的變更嗎？

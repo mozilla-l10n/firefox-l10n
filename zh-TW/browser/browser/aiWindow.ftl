@@ -101,7 +101,7 @@ aiwindow-firstrun-title = 歡迎使用{ -smart-window-brand-name }
 aiwindow-firstrun-model-title = 什麼東西對您來說最重要？
 aiwindow-firstrun-model-title-v2 = 挑選模型開始使用
 aiwindow-firstrun-model-subtitle = 挑選一套能夠為{ -smart-window-brand-name }提供強大威力的模型，可隨時切換。
-aiwindow-firstrun-model-subtitle-v2 = 每套模型都可以幫助您在不同裝置間進行摘要、比對、探索。可隨時切換。
+aiwindow-firstrun-model-subtitle-v2 = 每套模型都可以幫助您在分頁間進行摘要、比對、探索。可隨時切換。
 aiwindow-firstrun-model-fast-label = 快速
 aiwindow-firstrun-model-fast-body = 快速回答
 # $shortName (string) - The short name of the model version
@@ -147,7 +147,7 @@ aiwindow-input-model-select-settings-link = 模型選項
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = 符合您的喜好，更有幫助的回答
-aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name }可從您的聊天內容、上網紀錄或兩者來建立記憶。久而久之，他們可讓回覆結果對您更有幫助。
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name }可從您的聊天內容、上網紀錄或兩者來建立記憶。久而久之，它們可讓回覆結果對您更有幫助。
 aiwindow-firstrun-memories-conversation-title = 讓對話繼續
 aiwindow-firstrun-memories-conversation-body = 從聊天內容學習，就代表您可以減少重複說明。
 aiwindow-firstrun-memories-relevance-title = 更多相關回覆

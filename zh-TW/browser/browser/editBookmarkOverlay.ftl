@@ -50,9 +50,9 @@ bookmark-properties-save-button =
 bookmark-properties-title-add-bookmark = 新增書籤
 # Title used when bookmarking multiple tabs at once into a new folder.
 bookmark-properties-title-add-multiple-bookmarks = 新增書籤
-bookmark-properties-title-add-folder = 新增書籤工具列
+bookmark-properties-title-add-folder = 新增書籤資料夾
 bookmark-properties-title-edit-bookmark = 編輯書籤
-bookmark-properties-title-edit-folder = 編輯書籤工具列
+bookmark-properties-title-edit-folder = 編輯書籤資料夾
 
 ## Default names for newly created bookmarks and folders.
 

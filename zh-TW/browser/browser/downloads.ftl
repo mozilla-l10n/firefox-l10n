@@ -217,7 +217,7 @@ downloads-files-not-downloaded =
        *[one] 未下載檔案。
     }
 downloads-blocked-from-url = 封鎖了來自 { $url } 的下載項目。
-downloads-blocked-download-detailed-info = { $url } 嘗試自動下載多個檔案，可能是這個網站發生問題，或是嘗試在您的電腦上亂儲存無用擋案。
+downloads-blocked-download-detailed-info = { $url } 嘗試自動下載多個檔案，可能是這個網站發生問題，或是嘗試在您的電腦上亂儲存無用檔案。
 
 ##
 
@@ -272,7 +272,7 @@ downloads-state-blocked-parental-controls = 依「家長監護」設定封鎖
 
 downloads-blocked-malware = 這個檔案含有病毒或惡意程式。
 downloads-blocked-potentially-unwanted = 這個檔案可能會傷害您的電腦。
-downloads-blocked-potentially-insecure = 未下載檔案: 有潛在的安全性風險。
+downloads-blocked-potentially-insecure = 未下載檔案：有潛在的安全性風險。
 downloads-blocked-uncommon = 這個檔案不是常見的可下載檔案。
 downloads-blocked-by-content-analysis = 您的組織封鎖此檔案。
 downloads-warned-by-content-analysis = 此下載項目可能不安全，需要確認。

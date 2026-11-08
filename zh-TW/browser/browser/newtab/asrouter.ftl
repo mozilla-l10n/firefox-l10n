@@ -65,7 +65,7 @@ cfr-doorhanger-bookmark-fxa-link-text = 立即同步書籤…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 關閉按鈕
     .title = 關閉
-fxa-adoption-addresses-backup-title = 一起備份儲存的網址吧！
+fxa-adoption-addresses-backup-title = 一起備份儲存的地址吧！
 fxa-adoption-addresses-backup-subtitle = 加密後同步到其他裝置中，以保護您儲存的地址。
 fxa-adoption-credit-cards-backup-title = 一起備份您的付款資訊吧！
 fxa-adoption-credit-cards-backup-subtitle = 加密後同步到其他裝置中，以保護您的付款資訊。
@@ -299,7 +299,7 @@ welcome-back-embedded-import-title = 匯入您的資料，讓使用 { -brand-sho
 
 ## Root Certificate Succession Infobar
 
-root-certificate-succession-infobar-january-message = <strong>舊版的 { -brand-short-name } 可能會在 2025 年 1 月 14 起遇到啟動問題。</strong>
+root-certificate-succession-infobar-january-message = <strong>舊版的 { -brand-short-name } 可能會在 2025 年 1 月 14 日起開始遇到問題。</strong>
 root-certificate-succession-infobar-march-message = <strong>若要在 2025 年 3 月 14 日後繼續使用 { -brand-short-name }，請更新。</strong>
 root-certificate-succession-infobar-link = 為什麼我需要更新？
 root-certificate-succession-infobar-primary-button =
@@ -346,7 +346,7 @@ multi-cta-fox-doodle-pin-startmenu-checkbox = 將 { -brand-short-name } 釘選�
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
         [macos] 將 { -brand-short-name } 放置於 Dock
-       *[other] 將 { -brand-short-name } 釘選到工具列
+       *[other] 將 { -brand-short-name } 釘選到工作列
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = 開始上網
 multi-cta-fox-doodle-main-browser-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
