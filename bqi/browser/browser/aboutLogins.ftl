@@ -232,6 +232,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] پاک کردن { $count }  رزم ز پوی دسگا یل؟
        *[other] پاک کردن پوی { $count }  رزم ز پوی دسگا یل؟
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } رزم پاک بۊ؟
+       *[other] { $count } رزم پاک بۊ؟
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
