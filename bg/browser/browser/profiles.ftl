@@ -31,6 +31,9 @@ edit-profile-page-delete-button =
     .label = Изтриване
 edit-profile-page-avatar-selector-opener-link = Промяна
 avatar-selector-add-image = Добавяне на изображение
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Изберете аватар
 edit-profile-page-no-name = Озаглавете този профил, за да го намерите с лекота по-късно. Може да се преименува по всяко време.
 new-profile-page-learn-more = Научете повече
 profile-window-logo =

@@ -805,6 +805,9 @@ home-homepage-new-windows =
     .label = Нови прозорци
 home-homepage-new-tabs =
     .label = Нов раздел
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Изберете конкретен сайт
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension

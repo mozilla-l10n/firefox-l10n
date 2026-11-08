@@ -265,6 +265,7 @@ onboarding-existing-vertical-tabs-label = Изпробвайте вертика�
 onboarding-flair-text = Ново!
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Опитайте чатбот с AI в страничната лента
+onboarding-genai-sidebar-primary-button = Изберете чатбот
 
 ## New user onboarding checklist
 
