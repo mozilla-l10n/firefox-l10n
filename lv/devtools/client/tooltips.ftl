@@ -5,6 +5,8 @@
 
 ### Localization for Developer Tools tooltips.
 
+learn-more = <span data-l10n-name="link">Uzziniet vairāk</span>
+devtools-tooltip-learn-more = Uzziniet vairāk
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -15,6 +17,10 @@
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-not-grid-or-flex-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav ne flex konteiners, ne režģa konteiners.
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav flex konteiners, režģa konteiners vai vairāku kolonnu konteiners.
+inactive-css-not-multicol-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav vairāku kolonnu konteiners.
+inactive-css-column-span = <strong>{ $property } </strong> neietekmē šo elementu, jo tas neatrodas vairāku kolonnu konteinerā.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> netiek atbalstīts <strong>@position-try</strong> noteikumos.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.

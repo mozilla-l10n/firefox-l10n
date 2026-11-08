@@ -33,7 +33,7 @@ tabbrowser-close-tabs-button =
            *[other] { $tabCount } ljepblêden slute
         }
 tab-splitview-splitter =
-    .aria-label = Formaat fan splitste ljepblêdwerjefe wizigje
+    .aria-label = Formaat fan splitste ljepblêdwerjefte wizigje
 tab-devtools-splitter =
     .aria-label = Formaat fan it paniel Untwikkelersark wizigje
 # Used for the "Add to Group" submenu when opened on a split view.

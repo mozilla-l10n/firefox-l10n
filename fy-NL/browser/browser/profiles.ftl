@@ -91,7 +91,7 @@ delete-profile-description = { -brand-short-name } smyt de folgjende gegevens pe
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Iepen finsters
 # Open is an adjective, as in "browser tabs currently open".
-delete-profile-tabs = Iepen ljeplêden
+delete-profile-tabs = Iepen ljepblêden
 delete-profile-bookmarks = Blêdwizers
 delete-profile-history = Skiednis (besochte siden, cookies, websitegegevens)
 delete-profile-autofill = Gegevens automatysk ynfolje (adressen, betelmetoaden)

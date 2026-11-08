@@ -129,6 +129,10 @@ neterror-dns-not-found-trr-third-party-warning2 = Varat turpināt lietot savu no
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } nevarēja izveidot savienojumu ar { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Savienojums ar { $trrDomain } aizņēma ilgāku laiku nekā paredzēts.
 neterror-dns-not-found-trr-unknown-host2 = Šī vietne netika atrasta, izmantojot { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Radās problēma ar { $trrDomain }.
+neterror-dns-not-found-bad-trr-url = Nederīgs URL.
+neterror-dns-not-found-system-sleep = Sistēma ir miega režīmā.
+neterror-dns-not-found-trr-unknown-problem = Negaidīta problēma.
 
 ##
 
@@ -141,6 +145,7 @@ neterror-file-not-found-what-can-you-do = Ja adrese tika ierakstīta pašrocīgi
 neterror-access-denied = Tas varētu būt noņemts, pārvietots vai arī datnes atļaujas varētu liegt piekļuvi.
 neterror-unknown-protocol = Varētu būt nepieciešams uzstādīt citu programmatūru, lai atvērtu šo adresi.
 neterror-redirect-loop = Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.
+neterror-unknown-socket-type-client-config = Tas varētu būt saistīts ar jūsu klienta konfigurācijas kļūdu.
 neterror-not-cached-intro = Pieprasītais dokuments vairs nav pieejams  { -brand-short-name } kešatmiņā.
 neterror-not-cached-sensitive = Drošības apsvērumu dēļ,  { -brand-short-name } neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.
 neterror-not-cached-try-again = Jāklikšķina “Mēģināt vēlreiz”, lai no tīmekļvietnes atkārtoti pieprasītu dokumentu.
@@ -152,6 +157,9 @@ neterror-proxy-connect-failure-settings = Pārliecinies, ka starpniekservera ies
 neterror-proxy-connect-failure-contact-admin = Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.
 neterror-content-encoding-error = Lūgums sazināties ar tīmekļvietnes īpašniekiem, lai ziņotu par šo sarežģījumu.
 neterror-unsafe-content-type = Lūgums sazināties ar tīmekļvietnes īpašniekiem, lai ziņotu par šo sarežģījumu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } neuzticas { $hostname }, jo savienojums nav drošs. Mēģiniet mainīt URL uz HTTPS.
 neterror-nss-failure-not-verified = Lapu, kuru šobrīd mēģini apskatīt, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu īstumu.
 neterror-nss-failure-contact-website = Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.
 # Variables:
@@ -163,6 +171,10 @@ certerror-sts-intro = { -brand-short-name } noteica iespējamus drošības draud
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } noteica nepilnību un nedevās uz <b>{ $hostname }</b>. Tīmekļvietne ir vai nu nepareizi konfigurēta, vai arī datora pulkstenim ir iestatīts nepareizs laiks.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname } </b>, visticamāk, ir droša vietne, taču drošu savienojumu nevarēja izveidot. Šo problēmu izraisa <b>{ $mitm } </b>, kas ir vai nu programmatūra jūsu datorā, vai tīklā.
 neterror-corrupted-content-intro = Lappuse, kuru mēģināt skatīt nevar parādīt, jo tika atrasta kļūda datu pārraidi.
 neterror-corrupted-content-contact-website = Lūdzu, sazinieties ar mājas īpašniekiem, lai informētu viņus par šo problēmu.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -189,10 +201,21 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ja izmanto uz�
 certerror-expired-cert-what-can-you-do-about-it-clock = Jūsu datora pulkstenis ir iestatīts uz { DATETIME($now, dateStyle: "medium") }. Pārliecinieties, vai jūsu sistēmas iestatījumos ir iestatīts pareizais datums, laiks un laika josla, un pēc tam atsvaidziniet <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Ja jūsu pulkstenis jau ir iestatīts pareizajā laikā, iespējams, ka vietne ir nepareizi konfigurēta, un jūs nevarat neko darīt, lai atrisinātu problēmu. Jūs varat informēt vietnes administratoru par problēmu.
 certerror-bad-cert-domain-what-can-you-do-about-it = Visdrīzāk iemesls ir tīmekļvietnē, un tur neko nevar darīt, lai to novērstu. Par nepilnību var ziņot tīmekļvietnes pārvaldītājam.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ja jūsu pretvīrusu programmatūrai ir funkcija, kas skenē šifrētus savienojumus (bieži saukta par “tīmekļa skenēšanu” vai “https skenēšanu”), varat atspējot šo funkciju. Ja tas nepalīdz, varat noņemt un atkārtoti instalēt pretvīrusu programmatūru.
+certerror-mitm-what-can-you-do-about-it-corporate = Ja izmantojat korporatīvo tīklu, varat sazināties ar savu IT nodaļu.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Ja neesat pazīstams ar <b>{ $mitm } </b>, tad tas varētu būt uzbrukums, un jums nevajadzētu turpināt vietnes apmeklēšanu.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ja neesat pazīstams ar <b>{ $mitm } </b>, tad tas varētu būt uzbrukums, un jūs neko nevarat darīt, lai piekļūtu vietnei.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> izmanto drošības politiku, ko sauc HTTP Strict Transport Security (HSTS), kas nozīmē, ka { -brand-short-name } var lapai pieslēgties lapai tikai drošajā režīmā. Jūs nevarat pievienot izņēmumu, lai apmeklētu šo lapu.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni.
+certerror-blocked-by-corp-headers-description = Dažreiz tīmekļa vietnes izveido aizsardzību pret nevēlamu mijiedarbību ar citām vietnēm sev un tādiem cilvēkiem kā jūs.
+certerror-coop-learn-more = Uzziniet vairāk par dažādu izcelsmes vietņu atvēršanas politikām (COOP).
+certerror-coep-learn-more = Uzziniet vairāk par dažādu izcelsmju iegulšanas politikām (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
@@ -205,7 +228,31 @@ fp-neterror-offline-body-title = Izskatās, ka ir sarežģījums ar interneta sa
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-connection-intro = { -brand-short-name } nevar izveidot drošu savienojumu ar serveri { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } nevar izveidot savienojumu ar serveri vietnē <strong>{ $hostname } </strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } nevar izveidot savienojumu ar serveri vietnē <strong>{ $hostname } </strong>.
 fp-neterror-net-timeout-intro = Serveris <strong>{ $hostname }</strong> pārāk ilgi neatbild.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Serveris vietnē <strong>{ $hostname } </strong> nosūtīja atpakaļ kļūdu: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname } </strong> nosūtīja atpakaļ galveni ar tukšām rakstzīmēm, ko neatļauj tīmekļa drošības standarti.
+fp-neterror-content-encoding-intro = Lapu, kuru mēģināt apskatīt, nevar parādīt, jo tajā tiek izmantota nederīga vai neatbalstīta saspiešanas forma.
+fp-neterror-coop-coep-intro = { -brand-short-name } neielādēja šo lapu, jo izskatās, ka drošības konfigurācija neatbilst iepriekšējai lapai.
+fp-neterror-blocked-by-policy-intro = Jūsu organizācija ir bloķējusi piekļuvi šai lapai vai tīmekļa vietnei.
+fp-neterror-http-auth-disabled-intro = Kāds, kas izliekas par vietnes īpašnieku, varētu mēģināt nozagt tādus datus kā jūsu lietotājvārdu, paroli vai epasta adresi.
+fp-neterror-http-auth-disabled-secure-connection = Šai vietnei ir nepieciešams drošs savienojums, un jūs nevarat pievienot izņēmumu, lai to apmeklētu.
+fp-neterror-why-did-this-happen = Kāpēc tas notika?
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Šķiet, ka šī vietne izmanto novecojušu programmatūru ar zināmām drošības problēmām.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } neuzticas { $hostname }, jo savienojums nav drošs.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Jāpārliecinās, ka izmanto jaunāko { -brand-short-name } versiju, ko var izdarīt izvēlnē Palīdzība > Par { -brand-short-name }. Ja izmanto jaunāko { -brand-short-name }, visdrīzāk, ka sarežģījums ir ar pašu vietni.
+fp-neterror-offline-what-can-you-do-body = Mēģiniet izveidot savienojumu, izmantojot citu ierīci. Pārbaudiet modemu vai maršrutētāju. Atvienojiet un atkārtoti pievienojiet Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Mēģiniet mainīt URL uz HTTPS. Taču, visticamāk, problēma ir pašā vietnē.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Dažreiz tīmekļa vietnes izveido sev aizsardzību pret nevēlamu mijiedarbību ar citām vietnēm.
 fp-neterror-vpn-error-description = Pēc dažām minūtēm jāmēģina vēlreiz.

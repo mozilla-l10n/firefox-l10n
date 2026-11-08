@@ -36,12 +36,20 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Pievienot elementu
+storage-delete-all-button =
+    .title = Dzēst visus
+# Refresh button title
+storage-refresh-button =
+    .title = Atsvaidzināt vienumus
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Dzēst visus
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Dzēst visas sesijas sīkdatnes
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopēt
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -61,6 +69,9 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nosaukums
 storage-table-headers-cookies-value = Vērtība
+storage-table-headers-cookies-expires = Derīguma termiņš / maksimālais vecums
+storage-table-headers-cookies-size = Izmērs
+storage-table-headers-cookies-last-accessed = Pēdējoreiz piekļūts
 storage-table-headers-cookies-creation-time = Izveidots
 storage-table-headers-cookies-update-time = Atjaunots
 storage-table-headers-cache-status = Stāvoklis

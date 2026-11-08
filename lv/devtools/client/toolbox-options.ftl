@@ -170,6 +170,13 @@ options-local-mode-toggle =
     .title = Pārslēgt šo lokālo kartējumu
 options-local-mode-toggle-enable = Iespējot
 options-local-mode-toggle-disable = Atslēgts
+options-local-mode-navigate-to =
+    .title = Pāriet uz šo kartēšanas URL
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Vai vēlaties noņemt “{ $mappingOrigin }” kartējumu?
+options-local-mode-new-mapping = Pievienot jaunu lokālo kartējumu
 
 ## Advanced section
 
@@ -179,6 +186,8 @@ options-context-advanced-settings = Papildu iestatījumi
 options-disable-http-cache-label = Izslēgt HTTP kešatmiņu (ja ir atvērti izstrādātāju rīki)
 options-disable-http-cache-tooltip =
     .title = Šīs iespējas ieslēgšana deaktivēs HTTP kešatmiņu visām cilnēm, kurām ir atvērta šo rīku josla. Pakalpojumu strādņus šī konfigurācijas iespēja neietekmē.
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Atspējot JavaScript
 options-disable-javascript-tooltip =
     .title = Šī iestatījuma ieslēgšana izslēgs JavaScript pašreizējā cilnē. Šis iestatījums netiks saglabāts pēc cilnes vai rīklodziņa aizvēršanas.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -205,6 +214,12 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Ieslēgt pirmkoda kartes
 options-source-maps-tooltip =
     .title = Ja ieslēgsiet šo iespēju, pirmkods tika kartēts rīkos.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (tikai pašreizējā sesijā, atkārtoti ielādē lapu)
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (atkārtoti ielādē lapu)
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

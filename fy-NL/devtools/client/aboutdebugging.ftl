@@ -50,7 +50,7 @@ about-debugging-sidebar-item-connect-button-connecting = Ferbine…
 about-debugging-sidebar-item-connect-button-connection-failed = Ferbining mislearre
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
-about-debugging-sidebar-item-connect-button-connection-not-responding = Ferbining nochyin behanneling, kontrolearje op berjochten yn de doelbrowser
+about-debugging-sidebar-item-connect-button-connection-not-responding = Ferbining noch yn behanneling, kontrolearje op berjochten yn de doelbrowser
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Wachttiid foar ferbining ferstrutsen
 # Text displayed in sidebar items for remote devices where a compatible browser (eg

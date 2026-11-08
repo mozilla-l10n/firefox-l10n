@@ -13,7 +13,7 @@ set-desktop-background-downloading =
 set-background-preview-unavailable = Foarbyld net beskikber
 # Name of the file that will be used as the desktop background. The
 # extension ".png" is added by the browser.
-set-desktop-background-filename = buroblêdeftergrûn
+set-desktop-background-filename = Buroblêdeftergrûn
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

@@ -134,7 +134,7 @@ info-exposed-passwords-resolved =
        *[other] Wachtwurden lekt yn net oploste datalekken
     }
 monitor-no-breaches-title = Goed nijs!
-monitor-no-breaches-description = Jo binne net troch bekende datalekken troffen. As dit wiziget, dan litten wy it jo witte.
+monitor-no-breaches-description = Jo binne net troch bekende datalekken troffen. As dit wiziget, dan litte wy it jo witte.
 monitor-view-report-link = Rapport besjen
     .title = Datalekken oplosse op { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Jo datalekken oplosse

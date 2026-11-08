@@ -1645,7 +1645,7 @@ sitedata-cookies-exceptions2 =
     .label = Utsûnderingen beheare
     .accesskey = U
 sitedata-heading =
-    .description = Jo cookies, skiednis, buffer en websitegegevens en mear beheare.
+    .description = Jo cookies, skiednis, buffer, websitegegevens en mear beheare.
     .label = Navigaasjegegevens
 sitedata-settings3 =
     .label = Gegevens foar spesifike websites wiskje
@@ -1747,7 +1747,7 @@ enhanced-tracking-protection-setting-custom =
 ## Privacy Section - Content Blocking
 
 content-blocking-etp-standard-desc = Balansearre foar beskerming en prestaasjes. Siden lade normaal.
-content-blocking-etp-strict-desc = Sterkere beskerming, mar kin der foar soargje dat guon websites of ynhâld net wurkje.
+content-blocking-etp-strict-desc = Sterkere beskerming, mar kin derfoar soargje dat guon websites of ynhâld net wurkje.
 content-blocking-etp-custom-desc = Kies hokker trackers en scripts jo blokkearje wolle.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokkearret it folgjende:
 content-blocking-private-windows = Folchynhâld yn priveefinsters
@@ -2346,7 +2346,7 @@ issue-card-dismiss-button =
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
+    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby’t trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
     .label = Ferbettere beskerming tsjin folgjen
 preferences-etp-level-radio-group =
     .aria-label = Ferbettere beskerming tsjin folgjen
@@ -2369,7 +2369,7 @@ preferences-etp-status-protections-dashboard-link =
 preferences-etp-header =
     .heading = Ferbettere beskerming tsjin folgjen
 preferences-etp-advanced-settings-group =
-    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
+    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby’t trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
     .label = Avansearre ynstellingen
 preferences-etp-customize-button =
     .label = Beskerming tsjin folgjen oanpasse
@@ -2395,7 +2395,7 @@ preferences-etp-reset-standard-button =
 preferences-etp-reset-strict-button =
     .label = Weromsette nei strang
 preferences-etp-custom-control-group =
-    .description = Kies hokker beskermingsynstellingen jo yn of út skeakelje wolle.
+    .description = Kies hokker beskermingsynstellingen jo yn- of útskeakelje wolle.
     .label = Beskerming tsjin folgjen
 preferences-etp-custom-cookies-enabled =
     .label = Cookies

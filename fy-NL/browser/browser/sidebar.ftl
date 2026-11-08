@@ -12,7 +12,7 @@ menu-view-resource-monitor =
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
 menu-view-open-tabs =
-    .label = Iepen ljeplêden
+    .label = Iepen ljepblêden
 sidebar-options-menu-button =
     .title = Menu iepenje
 # Accessible label for the splitter used to resize the sidebar.
@@ -198,7 +198,7 @@ sidebar-menu-synced-tabs-label =
 # menu. "Open tabs" is a noun phrase referring to the tabs currently open
 # in the browser, not an instruction to open tabs.
 sidebar-menu-open-tabs-label =
-    .label = Iepen ljeplêden
+    .label = Iepen ljepblêden
 sidebar-menu-bookmarks-label =
     .label = Blêdwizers
 sidebar-menu-customize-label =
@@ -250,7 +250,7 @@ sidebar-menu-syncedtabs-header =
 # Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
 # refers to the tabs currently open in the browser.
 sidebar-menu-open-tabs-header =
-    .heading = Iepen ljeplêden
+    .heading = Iepen ljepblêden
 sidebar-menu-cpm-header =
     .heading = Wachtwurden
 sidebar-menu-bookmarks-header =
@@ -272,7 +272,7 @@ sidebar-history-title = Skiednis
 sidebar-syncedtabs-title = Ljepblêden fan oare apparaten
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
 # currently open in the browser.
-sidebar-opentabs-title = Iepen ljeplêden
+sidebar-opentabs-title = Iepen ljepblêden
 # Title attribute for the pinned tabs section in the Open Tabs sidebar
 # panel.
 sidebar-opentabs-pinned-tabs =
