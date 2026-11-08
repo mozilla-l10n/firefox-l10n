@@ -69,7 +69,7 @@ aiwindow-input-cta-stop-button =
 ## Smartbar
 
 smartbar-placeholder =
-    .placeholder = Freegje, sykje of in URL type
+    .placeholder = Freegje, sykje of in URL typje
 smartbar-placeholder-hint-1 = @ brûken om resinte ljepblêden te fermelden…
 smartbar-placeholder-hint-2 = Wat freegje…
 smartbar-placeholder-hint-3 = Fier in webadres yn…
@@ -364,7 +364,7 @@ aiwindow-starter-planning-brainstorm = Gean los mei ideeën
 aiwindow-starter-planning-plan = Help in plan te meitsjen
 aiwindow-starter-browsing-history = Sykje ljepblêden yn de skiednis
 aiwindow-starter-browsing-summarize = Gearfetsje ljepblêden
-aiwindow-starter-browsing-compare = Fergelykje ljeplêden
+aiwindow-starter-browsing-compare = Fergelykje ljepblêden
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

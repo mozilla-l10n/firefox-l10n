@@ -22,7 +22,7 @@ smartwindow-group-tabs-loading = Ljepblêden kontrolearje op nuttige groepen…
 smartwindow-group-tabs-empty = Der binne no gjin ljepblêdgroepen om foar te stellen. Probearje it letter opnij.
 # Shown in place of suggestions when every group the model found has already
 # been created.
-smartwindow-group-tabs-all-sorted = Jo ljeplêden binne kreas oardere
+smartwindow-group-tabs-all-sorted = Jo ljepblêden binne kreas oardere
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Alle groepen oanmeitsje
 smartwindow-group-tabs-suggested-heading = Foarstelde groepen

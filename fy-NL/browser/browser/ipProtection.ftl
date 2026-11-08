@@ -156,7 +156,7 @@ site-rules-description-inclusion = VPN is oan foar dizze website
 # Variables
 #   $website (string) - The host of the current website (e.g. "example.com")
 site-rules-inclusion-prompt =
-    .heading = VPN altyd ynkseakelje foar { $website }?
+    .heading = VPN altyd ynskeakelje foar { $website }?
     .message = Wurkje op elk momint jo regels by yn ynstellingen.
 ipprotection-settings-link =
     .label = Ynstellingen
@@ -199,7 +199,7 @@ ipprotection-locations-subview =
     .title = Lokaasje kieze
 ipprotection-locations-subview-description = Kies in oare lokaasje om fan te navigearjen.
 ipprotecion-locations-subview-recommended-label = Oanrekommandearre
-ipprotection-locations-subview-recommended-description = Fyn de rapste lokaasje
+ipprotection-locations-subview-recommended-description = Fynt de rapste lokaasje
 # Label shown next to a VPN location that the user cannot select.
 # The aria-label is for accessibility, and should communicate that the
 # location is unavailable and the button is disabled.
@@ -229,7 +229,7 @@ ipprotection-connection-status-generic-error-description = Probearje it oer in p
 ipprotection-connection-status-generic-error-try-again = Probearje it letter noch ris.
 ipprotection-connection-status-network-error-title-1 = Kontrolearje jo ynternetferbining
     .aria-label = Kontrolearje jo ynternetferbining
-ipprotection-connection-status-network-error-description = Meitsje ferbining mei it ynternet en probearje dernei VPN yn te skeakeljen.
+ipprotection-connection-status-network-error-description = Meitsje ferbining mei it ynternet en probearje dêrnei VPN yn te skeakeljen.
 ipprotection-connection-status-blocked-error-title-1 = VPN is net beskikber
     .aria-label = VPN is net beskikber
 # "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox

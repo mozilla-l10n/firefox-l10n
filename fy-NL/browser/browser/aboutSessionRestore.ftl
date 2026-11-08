@@ -36,5 +36,5 @@ welcome-back-restore-button =
     .label = Begjinne!
     .accesskey = B
 welcome-back-restore-all-label = Alle finsters en ljepblêden werstelle
-welcome-back-restore-some-label = Allinnich dyjinge werom bringe dy’t jo winske
+welcome-back-restore-some-label = Allinnich dyjinge werom bringe dy’t jo winskje
 welcome-back-page-info-link = Jo add-ons en persoanlike oanpassingen binne fuortsmiten en jo browserynstellingen binne nei de standertwearden weromset. <a data-l10n-name="link-more">Mear ynfo oer wat jo dwaan kinne</a>, as dit jo probleem net oplost hat.

@@ -81,7 +81,7 @@ about-private-browsing-private-window-redesign-subheader = { -brand-short-name }
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Jo aktiviteit wurdt net fêstlein
-about-private-browsing-nova-info-subheader2 = Wy wiskje elke sykopdracht en oanmelding as jo al jo priveefinster slute. De ynboude beskermingen fan { -brand-short-name } binne hjir ek oanwêzich, lykas it blokkearjen fan trackers.
+about-private-browsing-nova-info-subheader2 = Wy wiskje elke sykopdracht en oanmelding as jo al jo priveefinsters slute. De ynboude beskermingen fan { -brand-short-name } binne hjir ek oanwêzich, lykas it blokkearjen fan trackers.
 
 ## Strings for the Private Window basics spotlight
 

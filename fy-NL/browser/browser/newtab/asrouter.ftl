@@ -178,7 +178,7 @@ cookie-banner-blocker-onboarding-learn-more = Mear ynfo
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = By ús binne jo feilich
-july-jam-body = Elke moanne blokkearret { -brand-short-name } gemiddeld mear as 3.000 trackers per brûker, wêrtroch jo feilich en flugge tagong hawwe ta it goede ynternet.
+july-jam-body = Elke moanne blokkearret { -brand-short-name } gemiddeld mear as 3.000 trackers per brûker, wêrtroch jo feilige en flugge tagong hawwe ta it goede ynternet.
 july-jam-set-default-primary = Myn keppelingen iepenje mei { -brand-short-name }
 fox-doodle-pin-headline = Wolkom werom
 # “indie” is short for the term “independent”.
@@ -378,7 +378,7 @@ windows-10-eos-sync-toast-secondary-label = Letter werinnerje
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } is net yn it foar ynstallearre lykas oare browsers fan Big Tech. Dat is it punt.
 windows-10-eos-challenger-sync-callout-subtitle = As jo in reservekopy meitsje fan jo { -brand-product-name }-blêdwizers en -wachtwurden, is it makliker om de browser dy’t jo keazen hawwe nei jo folgjende apparaat te bringen.
-windows-10-eos-challenger-pin-callout-subtitle = Set { -brand-shorter-name } oan jo taakbalke fêst, sadat de browser dy’t jo keazen hawwe der altyd is as jo it nedich binne.
+windows-10-eos-challenger-pin-callout-subtitle = Set { -brand-shorter-name } oan jo taakbalke fêst, sadat de browser dy’t jo keazen hawwe der altyd is as jo it nedich hawwe.
 windows-10-eos-challenger-sync-primary-button = In reservekopy fan { -brand-shorter-name } meitsje
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } fêstsette
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokkearret cryptominers, sosjale-mediatrackers en fingerprinters.
@@ -444,7 +444,7 @@ set-default-menu-message-split-layout-title =
 set-default-menu-message-split-layout-subtitle =
     { PLATFORM() ->
         [macos] Meitsje it jo standertbrowser en foegje it ta oan jo Dock.
-       *[other] Untfang flugger sneupe en automatyske privacybeskerming.
+       *[other] Untfang flugger sneupen en automatyske privacybeskerming.
     }
 set-default-menu-message-primary-button = Ynstelle as standert
 set-default-menu-message-primary-button-variant = Ynstelle as primêre browser
@@ -462,7 +462,7 @@ relay-50-masks-announcement-secondary-button = Slute
 
 ## Nova Early Access Infobar
 
-nova-early-access-infobar-title = <strong>{ -brand-product-name } krijt in nij úterlik.</strong> Jo besjogge in betide, net-polyste ferzje foarôfgeand oan de lansearring letter dit jier.
+nova-early-access-infobar-title = <strong>{ -brand-product-name } krijt in nij uterlik.</strong> Jo besjogge in betide, net-polyste ferzje foarôfgeand oan de lansearring letter dit jier.
 nova-early-access-share-feedback-link = Kommentaar diele
     .accesskey = K
 nova-early-access-infobar-primary-button = Begrepen

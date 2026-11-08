@@ -273,7 +273,7 @@ downloads-state-blocked-parental-controls = Blokkearre troch Alderlik tafersjoch
 
 downloads-blocked-malware = Dit bestân befettet in firus of malware.
 downloads-blocked-potentially-unwanted = Dit bestân kin skeadlik wêze foar jo kompjûter.
-downloads-blocked-potentially-insecure = Bestân net downloaden: mooglik befeiligingsrisiko.
+downloads-blocked-potentially-insecure = Bestân net download: mooglik befeiligingsrisiko.
 downloads-blocked-uncommon = Dit bestân wurdt net faak download.
 downloads-blocked-by-content-analysis = Dit bestân is troch jo organisaasje blokkearre.
 downloads-warned-by-content-analysis = Dizze download is mooglik ûnfeilich en fereasket befêstiging.

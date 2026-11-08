@@ -47,8 +47,8 @@ settings-update-other-instance-handling-updates =
 
 aboutdialog-update-manual-with-link = Fernijingen beskikber op <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Fernijingen beskikber op <a data-l10n-name="manual-link">{ $displayUrl }</a>
-update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <label data-l10n-name="unsupported-link">Mear ynfo</label>
-settings-update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <a data-l10n-name="unsupported-link">Mear ynfo</a>
+update-unsupported = Jo kinne gjin fernijingen mear útfiere op dit systeem. <label data-l10n-name="unsupported-link">Mear ynfo</label>
+settings-update-unsupported = Jo kinne gjin fernijingen mear útfiere op dit systeem. <a data-l10n-name="unsupported-link">Mear ynfo</a>
 update-restarting = Opnij starte…
 settings-update-restarting =
     .label = Opnij starte…

@@ -1403,7 +1403,7 @@ urlbar-addons-shortcut-moved-dismiss = Begrepen
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
-data-reporting-notification-message = { -brand-short-name } ferstjoerd automatysk in pear gegevens nei { -vendor-short-name }, sadat wy jo ûnderfining ferbetterje kinne.
+data-reporting-notification-message = { -brand-short-name } ferstjoert automatysk in pear gegevens nei { -vendor-short-name }, sadat wy jo ûnderfining ferbetterje kinne.
 data-reporting-notification-button =
     .label = Kieze wat ik diel
     .accesskey = K

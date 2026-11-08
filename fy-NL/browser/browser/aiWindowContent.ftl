@@ -168,7 +168,7 @@ smart-window-opened-tabs-summary-group =
         [one] Hat de groep ‘{ $label }’ makke en { $count } ljepblêd iepene.
        *[other] Hat de groep ‘{ $label }’ makke en { $count } ljepblêden iepene.
     }
-smart-window-opened-tabs-row-label = Iepene ljeplêden
+smart-window-opened-tabs-row-label = Iepene ljepblêden
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Fan ljepblêd wiksele
 # Variables

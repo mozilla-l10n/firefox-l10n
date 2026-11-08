@@ -99,9 +99,9 @@ firefoxview-history-context-forget-site = Dizze website ferjitte…
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-nav = Iepen ljeplêden
-    .title = Iepen ljeplêden
-firefoxview-opentabs-header = Iepen ljeplêden
+firefoxview-opentabs-nav = Iepen ljepblêden
+    .title = Iepen ljepblêden
+firefoxview-opentabs-header = Iepen ljepblêden
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 

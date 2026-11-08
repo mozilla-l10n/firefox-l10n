@@ -80,7 +80,7 @@ bookmarks-toolbar-callout-2a-primary-button-label = Begrepen
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Arkbalke ferstopje
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
-bookmarks-toolbar-callout-2b-title = Jo blêdwizerakbalke iepen hâlde?
+bookmarks-toolbar-callout-2b-title = Jo blêdwizerarkbalke iepen hâlde?
 bookmarks-toolbar-callout-2b-subtitle = Jo kinne oare websites dy’t jo faker besykje tafoegje. Fersleep gewoanwei ljepblêden hjirhinne om favorite websites foar de hân te hâlden.
 bookmarks-toolbar-callout-2b-primary-button-label = Iepen hâlde
 # Reverts the bookmarks toolbar to the default setting
@@ -150,7 +150,7 @@ taskbar-tabs-callout-primary-button-v3 = Oan taakbalke fêstsette
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ferlies net alles wat jo bewarre hawwe as jo oerstappe nei Windows 11.
-windows-10-eos-sync-urgency-subtitle-1 = Syngronisearje no om jo { -brand-short-name }-blêdwizers, -wachtwurden en -ynstelling feilich en maklik te werstellen.
+windows-10-eos-sync-urgency-subtitle-1 = Syngronisearje no om jo { -brand-short-name }-blêdwizers, -wachtwurden en -ynstellingen feilich en maklik te werstellen.
 windows-10-eos-sync-urgency-title-2 = Nimme jo ôfskie fan Windows 10? Beskermje jo gegevens as jo oerstappe.
 windows-10-eos-sync-urgency-subtitle-2 = Syngronisearje om blêdwizers en wachtwurden feilich en tagonklik te hâlden, sels as jo { -brand-short-name } net deistich brûke.
 windows-10-eos-sync-new-device-title-1 = Rin net it risiko om op jo folgjende apparaat opnij te begjinnen.
@@ -167,7 +167,7 @@ windows-10-eos-sync-tour-subtitle-1 = Sleep it iene ljepblêd boppe op it oare o
 windows-10-eos-sync-tour-title-2 = Oarderje foar Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Syngronisearje jo blêdwizers, wachtwurden en ynstellingen om der in reservekopy fan te meitsjen eardat jo oerskeakelje.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
-    .label = Minder oanrekommandearre toane
+    .label = Minder oanrekommandaasjes toane
 windows-10-eos-sync-dismiss-button-label = Slute
 windows-10-eos-sync-callout-primary-advance-button-label = Folgjende
 
@@ -206,7 +206,7 @@ sidebar-deprecation-cta-button = No probearje
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Oerweldige troch tefolle ljepblêden?
-vertical-tabs-callout-1-subtitle = Probearje ús nije fertikale ljepblêdyndieling om fluch jo list mei ljepblêden fluch te scannen. Iere testers melde dat dizze yndieling harren helpt om mear organisearre te fielen. Wikselje op elk winske momint.
+vertical-tabs-callout-1-subtitle = Probearje ús nije fertikale ljepblêdyndieling om jo list mei ljepblêden fluch te scannen. Iere testers melde dat dizze yndieling harren helpt om mear organisearre te fielen. Wikselje op elk winske momint.
 vertical-tabs-callout-1-cta-button = Fertikale ljepblêden probearje
 vertical-tabs-callout-2-cta-button = No probearje
 vertical-tabs-callout-2-title = In protte ljepblêden iepen hâlde? Probearje fertikale ljepblêden.
@@ -256,7 +256,7 @@ sidebar-callout-survey-strongly-agree = Beslist mei iens
 sidebar-callout-survey-agree = Iens
 sidebar-callout-survey-disagree = Net mei iens
 sidebar-callout-survey-strongly-disagree = Beslist net mei iens
-sidebar-callout-survey-features-question = Hjirûnder folgje mooglike funksjes yn de sydbalke. Hokker soe jo produktiviteit in { -brand-short-name } it meast ferbetterje?
+sidebar-callout-survey-features-question = Hjirûnder folgje mooglike funksjes yn de sydbalke. Hokker soe jo produktiviteit yn { -brand-short-name } it meast ferbetterje?
 sidebar-callout-survey-split-view = Twa ferskate websites tagelyk besjen, yn in splitste werjefte njonken inoar
 sidebar-callout-survey-keep-website-open = In website, lykas e-mail of aginda, iepen hâlde yn de sydbalke wylst jo sneupe
 sidebar-callout-survey-saved-websites-2 = Flugge tagong ta jo blêdwizers

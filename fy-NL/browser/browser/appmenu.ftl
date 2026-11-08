@@ -101,7 +101,7 @@ appmenu-remote-tabs-show-inactive-tabs =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Gjin iepen ljepblêden
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = Set ljepblêdsyngroanisaasje oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.
+appmenu-remote-tabs-tabsnotsyncing = Set ljepblêdsyngronisaasje oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.
 appmenu-remote-tabs-opensettings =
     .label = Ynstellingen
 # This is shown when Sync is configured but this appears to be the only device attached to
