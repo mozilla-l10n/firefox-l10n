@@ -662,4 +662,7 @@ hnt-card-taskbar-tabs-primary-button = Legg til nettstadar på oppgavelinja
 hnt-card-extensions-header = Gje { -brand-short-name } eit løft med utvidingar
 hnt-card-extensions-body = Tilpass nettlesaropplevinga di med dei mest populære utvidingane våre.
 hnt-card-extensions-primary-button = Utforsk
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Alt er klart. Gjer det du er best på.
 hnt-card-last-card-header-end = Sporingsvern er på.

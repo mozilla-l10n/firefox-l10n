@@ -18,6 +18,8 @@ about-processes-shutdown-tab =
     .title = Lat att fane
 about-processes-unload-tab =
     .title = Frigjer fane
+about-processes-reload-tab =
+    .title = Oppdater fane
 about-processes-select-all-tabs =
     .title = Vel alle faner
 about-processes-expand-all-sites =
@@ -140,6 +142,14 @@ about-processes-tab-count =
     { $count ->
         [one] { $count } fane
        *[other] { $count } faner
+    }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } fane vald
+       *[other] { $count } faner valde
     }
 # Bulk-action bar button: unloads every selected tab's content without
 # closing the tabs (see about-processes-unload-tab for the per-row version).
