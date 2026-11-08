@@ -182,6 +182,36 @@ media-device-format = Formāts
 media-device-channels = Kanāli
 media-device-rate = Ātrums
 media-device-latency = Aizture
+media-capabilities-title = Multivides iespējas
+media-codec-support-info = Kodeku atbalsta informācija
+# List all the entries of the database.
+media-capabilities-enumerate = Uzskaitīt datubāzi
+
+## Codec support table
+
+media-codec-support-sw-decoding = Programmatūras dekodēšana
+media-codec-support-hw-decoding = Aparatūras dekodēšana
+media-codec-support-sw-encoding = Programmatūras kodēšana
+media-codec-support-hw-encoding = Aparatūras kodēšana
+media-codec-support-codec-name = Kodeka nosaukums
+media-codec-support-supported = Atbalstīts
+media-codec-support-unsupported = Neatbalstīts
+media-codec-support-error = Informācija par kodeku atbalstu nav pieejama. Mēģiniet vēlreiz pēc multivides faila atskaņošanas.
+media-codec-support-lack-of-extension = Instalēt paplašinājumu
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informācija par satura atšifrēšanas moduļiem
+media-key-system-name = Atslēgas sistēmas nosaukums
+media-video-robustness = Video izturība
+media-audio-robustness = Audio izturība
+media-cdm-capabilities = Iespējas
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Skaidrs potenciālais klients
 
 ##
 
@@ -194,6 +224,19 @@ intl-locales-default = Noklusējuma valoda
 intl-os-title = Operētājsisēma
 intl-os-prefs-system-locales = Sistēmas valodas
 intl-regional-prefs = Reģiona iesatījumi
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Attālā atkļūdošana (Chromium protokols)
+remote-debugging-accepting-connections = Savienojumu pieņemšana
+remote-debugging-url = URL
 
 ##
 
@@ -253,10 +296,13 @@ try-newer-driver = Liegts videokartes dziņa versija. Jāmēģina videokartes dz
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametri
 compositing = Kompozicionēšana
+support-font-determination = Fonta redzamības atkļūdošanas informācija
 hardware-h264 = Aparatūras H264 kodēšana
 main-thread-no-omtc = galvenais pavediens, nav OMTC
 yes = Jā
 no = Nē
+unknown = Nezināms
+virtual-monitor-disp = Virtuālā monitora displejs
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -264,12 +310,15 @@ no = Nē
 
 found = Atrasts
 missing = Trūkst
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Apraksts
 gpu-vendor-id = Ražotāja ID
 gpu-device-id = Ierīces ID
 gpu-subsys-id = Subsys ID
 gpu-drivers = Draiveri
 gpu-ram = Atmiņa
+gpu-driver-vendor = Draivera versija
 gpu-driver-version = Draivera versija
 gpu-driver-date = Draivera datums
 gpu-active = Aktīvs
@@ -283,31 +332,45 @@ webgl2-renderer = WebGL2 Renderer
 webgl2-version = WebGL 2 draivera versija
 webgl2-driver-extensions = WebGL 2 draivera paplašinājumi
 webgl2-extensions = WebGL 2 paplašinājumi
+webgpu-default-adapter = WebGPU noklusējuma adapteris
+webgpu-fallback-adapter = WebGPU rezerves adapteris
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Iekļauts bloķēšanas sarakstā zināmu problēmu dēļ: <a data-l10n-name="bug-link">bug { $bugNumber } </a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Lieguma sarakstā; kļūdas kods { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitors
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX video dekodētājs
 reset-on-next-restart = Atjaunot nākamajā pārstartēšanā
 gpu-process-kill-button = Pārtraukt GPU procesu
+gpu-device-reset = Ierīces atiestatīšana
 gpu-device-reset-button = Izraisīt ierīces atiestatīšanu
 uses-tiling = Izmanto grupēšanu
 content-uses-tiling = Izmanto virsrakstošanu (saturs)
 off-main-thread-paint-enabled = Aktivēta zīmēšana ne galvenajā pavedienā
 off-main-thread-paint-worker-count = Ne galvenajā pavedienā zīmējošo darbinieku skaits
+target-frame-rate = Mērķa kadru ātrums
 min-lib-versions = Gaidītā minimālā versija
 loaded-lib-versions = Izmantotā versija
 has-seccomp-bpf = Seccomp-BPF (sistēmas izsaukumu atsijāšana)
 has-seccomp-tsync = Seccomp pavedienu vienādošana
 has-user-namespaces = Lietotāju vārdtelpas
 has-privileged-user-namespaces = Priviliģēto procesu lietotāju vārdtelpas
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Jūsu sistēma neatļauj šo funkciju. Tas var ierobežot { -brand-short-name } drošības funkcijas.
 can-sandbox-content = Satura apstrādes ierobešošana
 can-sandbox-media = Mediju spraudņu ierobežošana
 content-sandbox-level = Satura procesa ierobežošanas līmenis
 effective-content-sandbox-level = Efektīvs satura procesa ierobežošanas līmenis
+content-win32k-lockdown-state = Win32k satura procesa bloķēšanas stāvoklis
+support-sandbox-gpu-level = GPU procesa smilškastes līmenis
 sandbox-proc-type-content = saturs
 sandbox-proc-type-file = faila saturs
 sandbox-proc-type-media-plugin = informācijas nesēju spraudnis
+sandbox-proc-type-data-decoder = datu dekodētājs
 startup-cache-found-disk-cache-on-init = Init laikā atrasta diska kešatmiņa
 startup-cache-wrote-to-disk-cache = Ierakstīts diska kešatmiņā
 launcher-process-status-0 = Iespējots
@@ -318,6 +381,18 @@ launcher-process-status-unknown = Nezināms statuss
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-disabled-by-e10s-env = Vides atspējota
+fission-status-enabled-by-env = Iespējota vides dēļ
+fission-status-disabled-by-env = Vides atspējota
+fission-status-enabled-by-default = Iespējots pēc noklusējuma
+fission-status-disabled-by-default = Pēc noklusējuma atspējots
+fission-status-enabled-by-user-pref = Lietotāja iespējots
+fission-status-disabled-by-user-pref = Lietotājs atspējojis
+fission-status-disabled-by-e10s-other = E10 atspējoti
 async-pan-zoom = Asinhronā pietuvināšana/palielināšana
 apz-none = nav
 wheel-enabled = ripas ievade aktivēta
@@ -325,6 +400,7 @@ touch-enabled = skāriena ievade aktivēta
 drag-enabled = ritjoslas vilkšana aktivēta
 keyboard-enabled = klaviatūra aktivēta
 autoscroll-enabled = automātiskā ritināšana aktivēta
+zooming-enabled = iespējota vienmērīga tālummaiņa ar šķipsnu un saspiešanu
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -338,6 +414,54 @@ policies-inactive = Neaktīva
 policies-active = Aktīva
 policies-error = Kļūda
 
+## Printing section
+
+support-printing-title = Drukāšana
+support-printing-troubleshoot = Problēmu novēršana
+support-printing-clear-settings-button = Notīrīt saglabātos drukas iestatījumus
+support-printing-modified-settings = Mainīti drukas iestatījumi
+support-printing-prefs-name = Vārds
+support-printing-prefs-value = Vērtība
+
+## Remote Settings sections
+
+support-remote-settings-title = Tālvadības iestatījumi
+support-remote-settings-status = Statuss
+support-remote-settings-status-ok = Labi
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Nedarbojas
+support-remote-settings-last-check = Pēdējā pārbaude
+support-remote-settings-local-timestamp = Vietējais laika zīmogs
+support-remote-settings-sync-history = Vēsture
+support-remote-settings-sync-history-status = Statuss
+support-remote-settings-sync-history-datetime = Datums
+support-remote-settings-sync-history-infos = Informācija
+
+## Normandy sections
+
+support-remote-experiments-title = Attālinātie eksperimenti
+support-remote-experiments-name = Vārds
+support-remote-experiments-branch = Eksperimenta variants
+support-remote-experiments-see-about-studies = Plašāku informāciju, tostarp par to, kā atspējot atsevišķus eksperimentus vai atspējot { -brand-short-name } šāda veida eksperimentu veikšanu nākotnē, skatiet sadaļā <a data-l10n-name="support-about-studies-link">about:studies</a>.
+support-remote-features-title = Tālvadības funkcijas
+support-remote-features-name = Vārds
+support-remote-features-status = Statuss
+
+## Pointing devices
+
+pointing-device-mouse = Pele
+pointing-device-touchscreen = Skārienekrāns
+pointing-device-pen-digitizer = Pildspalvas digitalizators
+pointing-device-none = Nav norādes ierīču
+
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Satura analīze (DLP)
+content-analysis-active = Aktīvs
+content-analysis-connected-to-agent = Izveidots savienojums ar aģentu
+content-analysis-agent-path = Aģenta ceļš
+content-analysis-agent-failed-signature-verification = Aģentam neizdevās pārbaudīt parakstu
 content-analysis-request-count = Pieprasījumu skaits

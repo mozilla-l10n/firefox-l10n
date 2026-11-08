@@ -4,6 +4,7 @@
 
 about-pdf-title = { -brand-short-name } редактор на PDF
 about-pdf-dropzone-hint = Пуснете PDF файл тук за да започнете
+about-pdf-dropzone-invalid-file = Този файл не се поддържа. Изберете PDF, за да продължите.
 about-pdf-promo =
     .heading = Направете { -brand-short-name } вашият любим редактор на PDF
     .message = Отваряйте PDF файлове във { -brand-short-name } и работете на едно място – от подчертаване и подписване до обединяване на файлове и коментари.

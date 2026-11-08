@@ -4,6 +4,7 @@
 
 # The brief description of the Translations functionality on the page.
 about-translations-description = Незабавни преводи, които зачитат вашата поверителност.
+about-translations-detected-language-unsupported-subtext = Моля, изберете друг език.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Въведете текст за превод
