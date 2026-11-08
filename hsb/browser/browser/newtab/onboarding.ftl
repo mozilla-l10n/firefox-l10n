@@ -646,11 +646,19 @@ welcome-back-onboarding-card-tilebutton-label = Wupruwować
 hnt-card-import-header = Konfigurujće swój { -brand-short-name } za sekundy
 hnt-card-import-body = Dóstańće swoje zapołožki, hesła a wjace z druheho wobhladowaka.
 hnt-card-import-primary-button = Waše daty importować
+hnt-card-default-body = { -brand-product-name } je jenički wulki wobhladowak, kotryž je so wuwił, zo by was škitał, nic zo by was přesćěhował.
 hnt-card-default-primary-button = Wotkazy z { -brand-short-name } wočinić
 hnt-card-pin-header = Dźeržće { -brand-short-name } klik preč
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Wróćće so z doka k škitanemu přehladowanju.
+       *[other] Wróćće so z nadawkoweje lajsty k škitanemu přehladowanju.
+    }
 hnt-card-mobile-header = Dóstańće zatwarjeny škit na swojim telefonje.
+hnt-card-mobile-body = Sćehńće { -brand-product-name } za mobilne graty za přidatnu priwatnosć po puću.
 hnt-card-mobile-primary-button = { -brand-product-name } za mobilny grat wobstarać.
 hnt-card-wallpaper-header = Wubjerće nowy pozadkowy wobraz
+hnt-card-wallpaper-body = Čujće so ze swojim najlubšim pozadkom kaž doma.
 hnt-card-wallpaper-primary-button = Započńće přiměrjeć
 hnt-card-taskbar-tabs-header = Přidajće swojej nadawkowej lajsće Windows swoje najlubše sydła
 hnt-card-taskbar-tabs-primary-button = Nadawkowej lajsće sydła přidać
