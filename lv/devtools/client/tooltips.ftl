@@ -75,3 +75,6 @@ inactive-css-no-principal-box-fix = Mēģiniet pievienot <strong>display</strong
 inactive-css-not-grid-or-flex-container-fix-1 = Mēģiniet pievienot <strong>display:grid</strong> vai <strong>display:flex</strong>.
 inactive-css-not-grid-or-flex-or-block-container-fix-1 = Mēģiniet pievienot <strong>display:grid</strong>, <strong>display:flex</strong> vai <strong>display:block</strong>.
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Mēģiniet pievienot vai nu <strong>display:grid</strong>, <strong>display:flex</strong>, vai <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Mēģiniet pievienot vai nu <strong>kolonnu skaitu</strong>, vai <strong>kolonnu platumu</strong>.
+inactive-css-column-span-fix-1 = Mēģiniet pievienot <strong>column-count</strong> vai <strong>column-width</strong> vienam no tā priekšteča elementiem.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Mēģiniet elementam pievienot <strong>position:absolute</strong> vai elementa vecākam pievienot <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vai <strong>display:inline-flex</strong>.
