@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Pārvaldīt sīkdatnes un vietņu datus
-site-data-settings-description = Šīs tīmekļvietnes datorā glabā sīkdatnes un kešatmiņu. { -brand-short-name } patur tīmekļvietņu datus pastāvīgajā krātuvē līdz to izdzēšanai, nepastāvīgās krātuves dati tiek izdzēsti, kad nepieciešama papildu vieta.
+site-data-settings-description = Šīs tīmekļvietnes datorā glabā sīkdatnes un kešatmiņu. { -brand-short-name } patur tīmekļvietņu datus pastāvīgajā krātuvē līdz to izdzēšanai, ne-pastāvīgās krātuves dati tiek izdzēsti, kad nepieciešama papildu vieta.
 site-data-search-textbox =
     .placeholder = Meklēt lapas
     .accesskey = S

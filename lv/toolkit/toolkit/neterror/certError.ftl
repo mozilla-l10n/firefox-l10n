@@ -220,6 +220,6 @@ fp-certerror-hide-advanced-button = Slēpt papildu
 
 fp-certerror-intro = { -brand-short-name } noteica iespējami nopietnu drošības starpgadījumu ar <strong>{ $hostname }</strong>. Kāds, kas uzdodas par šo vietni, var mēģināt nozagt tādu informāciju kā maksājumu karšu datus, paroles vai e-pasta adreses.
 fp-certerror-expired-into = { -brand-short-name } atklāja drošības problēmu ar <strong>{ $hostname }</strong>. Vai nu vietne nav pareizi iestatīta, vai arī jūsu ierīces pulkstenis ir iestatīts uz nepareizu datumu/laiku.
-fp-certerror-transparency-intro = Kāds, kas izliekas par <strong>{ $hostname } </strong>, varētu mēģināt nozagt tādas lietas kā kredītkaršu informāciju, paroles vai epasta adreses.
+fp-certerror-transparency-intro = Kāds, kas izliekas par <strong>{ $hostname } </strong>, varētu mēģināt nozagt tādas lietas kā kredītkaršu informāciju, paroles vai e-pasta adreses.
 fp-certerror-override-exception-button-2 = Pāriet uz { $hostname } (riskanti)
     .accesskey = P

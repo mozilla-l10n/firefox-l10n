@@ -12,8 +12,8 @@ do-not-track-removal3 =
 non-technical-privacy-heading =
     .label = Papildu aizsardzība
 preferences-privacy-relay-available =
-    .description = Slēpj jūsu īsto epasta adresi, lai aizsargātu jūsu iesūtni no surogātpasta.
-    .label = Ieteikt { -relay-brand-name } epasta aizsesegs
+    .description = Slēpj jūsu īsto e-pasta adresi, lai aizsargātu jūsu iesūtni no surogātpasta.
+    .label = Ieteikt { -relay-brand-name } e-pasta aizsesegs
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

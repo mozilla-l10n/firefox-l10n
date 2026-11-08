@@ -140,7 +140,7 @@ neterror-file-not-found-filename = Pārbaudiet, vai faila vārds ir uzrakstīts 
 neterror-file-not-found-moved = Jāpārliecinās, ka datne nav pārvietota, pārdēvēta vai izdzēsta.
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
-neterror-file-not-found-intro = { -brand-short-name } nevar atrast datni <strong>{ $path }</strong>. Vai nu tā nepastāv, vai arī ceļš ir nepareizs.
+neterror-file-not-found-intro = { -brand-short-name } nevar atrast datni <strong>{ $path }</strong>. Vai nu tā ne-pastāv, vai arī ceļš ir nepareizs.
 neterror-file-not-found-what-can-you-do = Ja adrese tika ierakstīta pašrocīgi, datnes nosaukumā vai ceļā jāpārbauda lielo un mazo burtu vai citas rakstības kļūdas. Ja tika atvērta saglabāta grāmatzīme vai saite, kopš tās saglabāšanas brīža datne var būt pārvietota, pārdēvēta vai izdzēsta. Jāmēģina atrast to datņu pārvaldniekā vai ar meklēšanu nesenajos vienumos.
 neterror-access-denied = Tas varētu būt noņemts, pārvietots vai arī datnes atļaujas varētu liegt piekļuvi.
 neterror-unknown-protocol = Varētu būt nepieciešams uzstādīt citu programmatūru, lai atvērtu šo adresi.
@@ -243,7 +243,7 @@ fp-neterror-invalid-header-value-intro = <strong>{ $hostname } </strong> nosūt�
 fp-neterror-content-encoding-intro = Lapu, kuru mēģināt apskatīt, nevar parādīt, jo tajā tiek izmantota nederīga vai neatbalstīta saspiešanas forma.
 fp-neterror-coop-coep-intro = { -brand-short-name } neielādēja šo lapu, jo izskatās, ka drošības konfigurācija neatbilst iepriekšējai lapai.
 fp-neterror-blocked-by-policy-intro = Jūsu organizācija ir bloķējusi piekļuvi šai lapai vai tīmekļa vietnei.
-fp-neterror-http-auth-disabled-intro = Kāds, kas izliekas par vietnes īpašnieku, varētu mēģināt nozagt tādus datus kā jūsu lietotājvārdu, paroli vai epasta adresi.
+fp-neterror-http-auth-disabled-intro = Kāds, kas izliekas par vietnes īpašnieku, varētu mēģināt nozagt tādus datus kā jūsu lietotājvārdu, paroli vai e-pasta adresi.
 fp-neterror-http-auth-disabled-secure-connection = Šai vietnei ir nepieciešams drošs savienojums, un jūs nevarat pievienot izņēmumu, lai to apmeklētu.
 fp-neterror-why-did-this-happen = Kāpēc tas notika?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)

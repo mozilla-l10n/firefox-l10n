@@ -64,8 +64,8 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Iegūsti bezmaksas e-pasta aizsegu
-firefox-relay-and-fxa-popup-notification-first-sentence = Aizsargājiet savu iesūtni no surogātpasta, izmantojot bezmaksas <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } epasta masku</label>, lai paslēptu savu īsto adresi. Epasti no <label data-l10n-name="firefox-fxa-and-relay-offer-domain">šīs vietnes</label> joprojām nonāks jūsu iesūtnē, bet jūsu epasts būs paslēpts.
-firefox-relay-offer-why-to-use-relay-1 = Aizsargājiet savu iesūtni no surogātpasta, izmantojot bezmaksas <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } epasta masku</label>, lai paslēptu savu īsto adresi. Epasti no <label data-l10n-name="firefox-fxa-and-relay-offer-domain">šīs vietnes</label> joprojām nonāks jūsu iesūtnē, bet jūsu epasts būs paslēpts.
+firefox-relay-and-fxa-popup-notification-first-sentence = Aizsargā savu iesūtni no mēstulēm ar bezmaksas <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } e-pasta aizsegu</label>, lai paslēptu savu īsto adresi! E-pasta ziņojumi no <label data-l10n-name="firefox-fxa-and-relay-offer-domain">šīs vietnes</label> joprojām nonāks Tavā iesūtnē, bet ar aizsegtu e-pasta adresi.
+firefox-relay-offer-why-to-use-relay-1 = Aizsargā savu iesūtni no mēstulēm ar bezmaksas <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } e-pasta aizsegu</label>, lai paslēptu savu īsto adresi! E-pasta ziņojumi no <label data-l10n-name="firefox-fxa-and-relay-offer-domain">šīs vietnes</label> joprojām nonāks Tavā iesūtnē, bet ar aizsegt e-pasta adresi.
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

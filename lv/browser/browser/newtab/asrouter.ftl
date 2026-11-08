@@ -457,7 +457,7 @@ set-default-menu-message-primary-button-short-variant = Padarīt { -brand-short-
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = Uzsaucam 50 e-pasta aizsegus
-relay-50-masks-announcement-subtitle = Tagad jūs saņemat 50 bezmaksas maskas (iepriekš bija 5). Izmantojiet vienu katram kontam, lai saglabātu sava īstā epasta konfidencialitāti.
+relay-50-masks-announcement-subtitle = Tagad jūs saņemat 50 bezmaksas maskas (iepriekš bija 5). Izmantojiet vienu katram kontam, lai saglabātu sava īstā e-pasta konfidencialitāti.
 relay-50-masks-announcement-primary-button = Dodieties uz { -relay-brand-name }
     .accesskey = D
 relay-50-masks-announcement-secondary-button = Noraidīt

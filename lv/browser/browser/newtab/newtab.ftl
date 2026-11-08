@@ -245,7 +245,7 @@ newtab-privacy-message-info-13-cta = Skatīt aizsardzības iestatījumus
 
 newtab-privacy-message-promo-monitor-1 = Uzziniet, vai jūsu personas dati parādās datu noplūdes gadījumā.
 newtab-privacy-message-promo-monitor-1-cta = Uzzināt vairāk
-newtab-privacy-message-promo-monitor-2 = Aizsargājiet savu informāciju ar bezmaksas datu pārkāpumu uzraudzību līdz pat 20 epastiem.
+newtab-privacy-message-promo-monitor-2 = Aizsargā savu informāciju ar bezmaksas datu pārkāpumu uzraudzību līdz pat 20 e-pasta adresēm!
 newtab-privacy-message-promo-monitor-2-cta = Uzzināt vairāk
 newtab-privacy-message-promo-signin-1 = Šifrējiet grāmatzīmes, paroles un cilnes visās ierīcēs, izmantojot savu { -vendor-short-name } kontu.
 newtab-privacy-message-promo-signin-1-cta = Pieteikties
@@ -257,11 +257,11 @@ newtab-privacy-message-promo-vpn-3 = Ieslēdziet iebūvēto VPN, lai saglabātu 
 newtab-privacy-message-promo-vpn-3-cta = Atvērt VPN
 newtab-privacy-message-promo-private-window-1 = Izmēģiniet privātu logu, lai pārlūkotu tīmekli privātāk, izmantojot koplietotu datoru.
 newtab-privacy-message-promo-private-window-1-cta = Atvērt privātu logu
-newtab-privacy-message-promo-relay-1 = Saglabājiet savu īsto epasta adresi cilvēkiem, kuriem uzticaties; reģistrācijai izmantojiet epasta masku.
+newtab-privacy-message-promo-relay-1 = Saglabājiet savu īsto e-pasta adresi cilvēkiem, kuriem uzticaties; reģistrācijai izmantojiet e-pasta masku.
 newtab-privacy-message-promo-relay-1-cta = Iegādājieties maskas
-newtab-privacy-message-promo-relay-2 = Aizsargā savu iesūtni no mēstulēm ar bezmaksas epasta aizsegšanu.
+newtab-privacy-message-promo-relay-2 = Aizsargā savu iesūtni no mēstulēm ar bezmaksas e-pasta aizsegšanu.
 newtab-privacy-message-promo-relay-2-cta = Iegūt aizsegus
-newtab-privacy-message-promo-relay-3 = Iegūstiet 50 bezmaksas epasta aizsegus, lai palīdzētu aizsargāt savu īsto epasta adresi.
+newtab-privacy-message-promo-relay-3 = Iegūstiet 50 bezmaksas e-pasta aizsegus, lai palīdzētu aizsargāt savu īsto e-pasta adresi.
 newtab-privacy-message-promo-relay-3-cta = Iegūt aizsegus
 
 ## Privacy widget — celebration messages
