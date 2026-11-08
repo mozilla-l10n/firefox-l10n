@@ -25,3 +25,10 @@ date-spinner-label =
 ## Text of the clear button
 
 date-picker-clear-button = Изчистване
+
+## This label is used by screenreaders and other assistive technology
+## to indicate the purpose of a time picker dialog
+## for HTML's default <input type="time">
+
+time-picker-label =
+    .aria-label = Изберете час
