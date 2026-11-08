@@ -238,7 +238,7 @@ about-webrtc-received-label =
 #  $packets (Number) - The number of packets lost.
 about-webrtc-lost-label =
     { $packets ->
-       *[other] 已捨棄 { $packets } 個封包
+       *[other] 已遺失 { $packets } 個封包
     }
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
@@ -263,7 +263,7 @@ about-webrtc-trickle-caption-msg = 使用藍色強調太晚抵達的候選（接
 # This is used as a header for local SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
-about-webrtc-sdp-set-at-timestamp-local = 已將本地 SDP 時間戳記設為 { NUMBER($timestamp, useGrouping: "false") }
+about-webrtc-sdp-set-at-timestamp-local = 本地 SDP 設定於時間戳記 { NUMBER($timestamp, useGrouping: "false") }
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

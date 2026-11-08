@@ -128,7 +128,7 @@ place-database-verify-integrity = 確認資料完整
 place-database-last-idle-maintenance-data = 最後一次系統閒置自動維護日期
 # Vacuum refers to a type of database maintenance process
 place-database-last-vacuum-date = 最後一次資料庫 Vacuum 整理日期
-place-database-last-integrity-corruption-date = 最後一次完整性檢查日期
+place-database-last-integrity-corruption-date = 最後一次完整性損毀日期
 a11y-title = 輔助功能
 a11y-activated = 已啟用
 a11y-force-disabled = 已強迫停用輔助功能
@@ -304,7 +304,7 @@ webgl1-driver-extensions = WebGL 1 驅動程式擴充套件
 webgl1-extensions = WebGL 1 擴充套件
 webgl2-wsiinfo = WebGL 2 驅動程式 WSI 資訊
 webgl2-renderer = WebGL2 Renderer
-webgl2-version = WebGL 2 驅動程式 Renderer
+webgl2-version = WebGL 2 驅動程式版本
 webgl2-driver-extensions = WebGL 2 驅動程式擴充套件
 webgl2-extensions = WebGL 2 擴充套件
 webgpu-default-adapter = WebGPU 預設顯示卡

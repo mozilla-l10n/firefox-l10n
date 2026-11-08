@@ -106,7 +106,7 @@ addon-restart-now =
     .label = 立刻重新啟動
 disabled-unsigned-heading =
     .value = 已停用某些附加元件
-disabled-unsigned-description = 以下原件尚未經過驗證，無法在 { -brand-short-name } 使用。您可以<label data-l10n-name="find-addons">看看有沒有其他的替代方案</label>或是請開發者申請驗證。
+disabled-unsigned-description = 以下元件尚未經過驗證，無法在 { -brand-short-name } 使用。您可以<label data-l10n-name="find-addons">看看有沒有其他的替代方案</label>或是請開發者申請驗證。
 disabled-unsigned-learn-more = 了解我們為了保護您的線上安全作了哪些努力。
 disabled-unsigned-devinfo = 有興趣想要驗證附加元件的開發者可繼續閱讀我們的<label data-l10n-name="learn-more">驗證指南</label>。
 plugin-deprecation-description = 少了點東西嗎？{ -brand-short-name } 已不再支援某些外掛程式。<label data-l10n-name="learn-more">了解更多。</label>
@@ -180,7 +180,7 @@ addon-updates-update-addons-automatically = 自動更新附加元件
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = 重設所有附加元件的自動更新設定
+addon-updates-reset-updates-to-automatic = 將所有附加元件重設為自動更新
     .accesskey = R
 addon-updates-reset-updates-to-manual = 將所有附加元件設定成手動更新
     .accesskey = R
@@ -216,7 +216,7 @@ shortcuts-input =
     .placeholder = 輸入快速鍵
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
-    .aria-label = 移除捷徑
+    .aria-label = 移除快速鍵
 shortcuts-browserAction2 = 開啟工具列按鈕
 shortcuts-pageAction = 啟用頁面操作
 shortcuts-sidebarAction = 切換側邊欄
@@ -403,7 +403,7 @@ addon-badge-line4 =
 # security or performance reviews. As such, we avoid personalising language
 # like the words "our" or "we".
 addon-badge-verified4 =
-    .title = 我們審查過此擴充套件，確認符合安全性與運作效能標準
+    .title = 此擴充套件已經過審查，確認符合安全性與運作效能標準
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the

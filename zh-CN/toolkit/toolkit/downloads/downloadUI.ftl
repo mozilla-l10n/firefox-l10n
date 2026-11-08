@@ -71,6 +71,12 @@ download-ui-confirm-private-browsing-title =
         [1] 要停止 1 项下载并关闭此隐私窗口吗？
        *[other] 要停止 { $downloadsCount } 项下载并关闭此隐私窗口吗？
     }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] 此下载将无法恢复。
+       *[other] 这些下载将无法恢复。
+    }
+download-ui-confirm-private-browsing-button = 关闭窗口
 
 ##
 

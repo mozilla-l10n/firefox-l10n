@@ -6,8 +6,8 @@
 ## Strings used for device manager
 
 devmgr-window =
-    .title = 裝置管理員
     .style = min-width: 67em; min-height: 32em;
+    .title = 裝置管理員
 devmgr-devlist =
     .label = 安全模組與裝置
 devmgr-header-details =
@@ -68,7 +68,7 @@ devinfo-status-not-logged-in =
 devinfo-status-logged-in =
     .label = 已登入
 devinfo-status-ready =
-    .label = 使用
+    .label = 就緒
 devinfo-desc =
     .label = 描述
 devinfo-man-id =

@@ -105,7 +105,7 @@ certificate-viewer-boolean =
 
 certificate-viewer-download-pem = PEM（憑證）
     .download = { $fileName }.pem
-certificate-viewer-download-pem-chain = PEM（金鑰鏈）
+certificate-viewer-download-pem-chain = PEM（憑證鏈）
     .download = { $fileName }-chain.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
