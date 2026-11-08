@@ -18,6 +18,21 @@ about-processes-shutdown-tab =
     .title = ჩანართის დახურვა
 about-processes-unload-tab =
     .title = ჩანართის განტვირთვა
+about-processes-reload-tab =
+    .title = ჩანართის გაახლება
+about-processes-select-all-tabs =
+    .title = ყველა ჩანართის შერჩევა
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = ამ საიტის ჩანართებს გაშლა
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = ამ საიტის ჩანართების შეკეცვა
+about-processes-expand-all-sites =
+    .title = ყველას გაშლა
+about-processes-collapse-all-sites =
+    .title = ყველას შეკეცვა
 about-processes-go-to-tab =
     .title = გადასვლა ჩანართზე
 # Profiler icons

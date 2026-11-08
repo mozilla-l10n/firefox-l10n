@@ -21,6 +21,20 @@ inactive-css-not-grid-or-flex-container = <strong>{ $property } </strong> neiete
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav flex konteiners, režģa konteiners vai vairāku kolonnu konteiners.
 inactive-css-not-multicol-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav vairāku kolonnu konteiners.
 inactive-css-column-span = <strong>{ $property } </strong> neietekmē šo elementu, jo tas neatrodas vairāku kolonnu konteinerā.
+inactive-css-not-grid-or-flex-item = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav režģa vai flex elements.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav režģa vai elastīgs elements, kā arī absolūti pozicionēts elements.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav ne režģa elements, ne absolūti pozicionēts elements.
+inactive-css-not-absolutely-positioned-item = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav absolūti pozicionēts elements.
+inactive-css-no-default-anchor = <strong>{ $property } </strong> neietekmē šo elementu, jo tam nav noklusējuma enkura elementa.
+inactive-css-not-grid-item = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav režģa elements.
+inactive-css-not-grid-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav režģa konteiners.
+inactive-css-not-flex-item = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav režģa vai flex elements.
+inactive-css-not-flex-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav flex konteiners.
+inactive-css-not-inline-or-tablecell = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav iekļauts vai tabulas šūnas elements.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property } </strong> netiek atbalstīts ::first-line pseidoelementos.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property } </strong> netiek atbalstīts ::first-burt pseidoelementos.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property } </strong> netiek atbalstīts ::placeholder pseidoelementos.
+inactive-css-property-because-of-display = <strong>{ $property } </strong> neietekmē šo elementu, jo tam ir <strong>{ $display } </strong> attēlojums.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> netiek atbalstīts <strong>@position-try</strong> noteikumos.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.

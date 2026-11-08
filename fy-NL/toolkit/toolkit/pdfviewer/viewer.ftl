@@ -177,7 +177,7 @@ pdfjs-digital-signature-properties-sub-signatures =
 
 ## Print
 
-pdfjs-print-progress-message = Dokumint tariede oar ôfdrukken…
+pdfjs-print-progress-message = Dokumint tariede foar ôfdrukken…
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
@@ -296,7 +296,7 @@ pdfjs-web-fonts-disabled = Weblettertypen binne útskeakele: gebrûk fan ynslute
 pdfjs-editor-free-text-button =
     .title = Tekst
 pdfjs-editor-color-picker-free-text-input =
-    .title = Tekstleur wizigje
+    .title = Tekstkleur wizigje
 pdfjs-editor-free-text-button-label = Tekst
 pdfjs-editor-ink-button =
     .title = Tekenje
@@ -329,7 +329,7 @@ pdfjs-editor-signature-button-label = Hantekening tafoegje
 
 # “Highlight” is a noun, the string is used on the editor for highlights.
 pdfjs-editor-highlight-editor =
-    .aria-label = Markearingsbewurker
+    .aria-label = Markearringsbewurker
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Tekeningbewurker
@@ -774,7 +774,6 @@ pdfjs-digital-signature-properties-banner-revoked =
 
 pdfjs-digital-signature-properties-status-verified = Status: hantekening ferifiearre
 pdfjs-digital-signature-properties-status-invalid = Status: hantekening ûnjildich
-pdfjs-digital-signature-properties-status-unknown = Status: kin net ferifiearje wurde (net stipe)
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.

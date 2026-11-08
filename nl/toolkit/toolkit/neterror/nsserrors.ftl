@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
-# This file gets parsed into a JS dictionary of all known error message ids in
-# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
-# refactoring them in some way, the script will need updating.
-
 psmerr-ssl-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat het SSL-protocol is uitgeschakeld.
 psmerr-ssl2-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat de pagina een oudere, minder veilige versie van het SSL-protocol gebruikt.
 # This is a multi-line message.
@@ -214,7 +208,7 @@ sec-error-no-slot-selected = Geen lege plaats of token geselecteerd.
 sec-error-cert-nickname-collision = Er bestaat al een certificaat met dezelfde alias.
 sec-error-key-nickname-collision = Er bestaat al een sleutel met dezelfde alias.
 sec-error-safe-not-created = fout tijdens het maken van safe object
-sec-error-baggage-not-created = fout tijdens het maken van baggage object
+sec-error-baggage-not-created = fout tijdens het maken van bagageobject
 sec-error-bad-export-algorithm = Vereiste algoritme is niet toegestaan.
 sec-error-exporting-certificates = Fout bij poging tot exporteren van certificaten.
 sec-error-importing-certificates = Fout bij poging tot importeren van certificaten.

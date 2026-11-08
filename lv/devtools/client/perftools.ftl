@@ -25,7 +25,10 @@ perftools-heading-local-build = Lokālais būvējums
 ##
 
 perftools-description-intro = Ieraksti palaiž <a>profiler.firefox.com</a> jaunā cilnē. Visi dati tiek glabāti lokāli, taču varat izvēlēties tos augšupielādēt koplietošanai.
-perftools-description-local-build = Ja šajā datorā profilējat paša kompilētu versiju, lūdzu, pievienojiet savas versijas objdir failu zemāk esošajam sarakstam, lai to varētu izmantot simbolu informācijas meklēšanai.
+perftools-description-local-build =
+    Ja šajā datorā profilē sevis kompilētu versiju,
+    lūgums zemāk esošajam sarakstam pievienot savas versijas objdir,
+    lai to varētu izmantot zīmju informācijas uzmeklēšanai.
 perftools-pick-local-build-directory = Izvēlieties būvēšanas direktoriju
 
 ## The controls for the interval at which the profiler samples the code.

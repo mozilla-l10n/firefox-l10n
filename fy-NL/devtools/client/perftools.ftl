@@ -85,7 +85,7 @@ perftools-request-to-get-profile-and-stop-profiler = Profyl wurdt fêstlein
 perftools-button-start-recording = Opname starte
 perftools-button-capture-recording = Opname fêstlizze
 perftools-button-cancel-recording = Opname annulearje
-perftools-button-save-settings = Ynstellen bewarje en tebekgean
+perftools-button-save-settings = Ynstellingen bewarje en tebekgean
 perftools-button-restart = Opnij starte
 perftools-button-add-directory = In map tafoegje
 perftools-button-remove-directory = Selektearre fuortsmite
@@ -142,7 +142,7 @@ perftools-thread-jvm-pool =
 
 ##
 
-perftools-record-all-registered-threads = Boppesteande seleksje pasearje en alle registrearre threads opnimme
+perftools-record-all-registered-threads = Boppesteande seleksje passearje en alle registrearre threads opnimme
 perftools-tools-threads-input-label =
     .title = Dizze threadnammen binne in kommaskieden list, dy’t brûkt wurdt om it profilearjen fan de threads yn de profiler mooglik te meitsjen. De namme hoecht mar in part oerien te kommen mei de threadnamme om opnommen te wurden. Gefoelich foar wytromte.
 

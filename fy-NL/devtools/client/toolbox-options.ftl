@@ -65,7 +65,7 @@ options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
-options-default-color-unit-name = Kleurmammen
+options-default-color-unit-name = Kleurnammen
 
 ## Web Console section
 
@@ -112,7 +112,7 @@ options-styleeditor-label = Stylbewurker
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS auto-oanfolje
 options-stylesheet-autocompletion-tooltip =
-    .title = CSS-eigenskippen as weardes en selectors yn Stylbebwurker auto-oanfolje as jo type
+    .title = CSS-eigenskippen as wearden en selectors yn Stylbewurker auto-oanfolje as jo type
 
 ## Screenshot section
 
@@ -213,7 +213,7 @@ options-enable-service-workers-http-tooltip =
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Boarneferwizingen ynskeakelje
 options-source-maps-tooltip =
-    .title = As jo dizze opsje ynskeakelje, sille boarnen yn it ark tawizen wurde.
+    .title = As jo dizze opsje ynskeakelje, sille boarnen yn it ark tawiisd wurde.
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (allinnich aktuele sesje, fernijt de side)
