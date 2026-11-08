@@ -23,6 +23,14 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Премахване на VPN от лентата с инструменти
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Опитайте
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сега
+
 ## Holiday Promotion Callout
 
 ipprotection-holiday-promo-primary-button = Отворете VPN
@@ -35,6 +43,8 @@ site-exclusion-toggle-enabled-1 =
     .aria-label = VPN е включен за този сайт
     .label = Използвайте VPN за този сайт
 site-exclusion-toggle-description = Сайтът не работи? Опитайте да изключите VPN.
+ipprotection-settings-link =
+    .label = Настройки
 
 ## Status card
 
@@ -42,6 +52,8 @@ site-exclusion-toggle-description = Сайтът не работи? Опитай
 ipprotection-button-turn-vpn-off = Изключване на VPN
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on-1 = Включване
+# Button while VPN is connecting
+ipprotection-button-connecting = Включване…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Изключване
 
@@ -107,6 +119,8 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Управление на настройките за сайтове
+ip-protection-delete-site-rule-retry =
+    .label = Опитайте отново
 
 ## IP Protection alerts
 
