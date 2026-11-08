@@ -646,15 +646,27 @@ welcome-back-onboarding-card-tilebutton-label = Wopytajśo jen
 hnt-card-import-header = Konfigurěrujśo swój { -brand-short-name } za sekundy
 hnt-card-import-body = Dostańśo swóje cytańske znamjenja, gronidła a wěcej z drugego wobglědowaka.
 hnt-card-import-primary-button = Waše daty importěrowaś
+hnt-card-default-body = { -brand-product-name } jo jadnučki wjeliki wobglědowak, kótaryž jo se wuwił, aby was šćitał, nic aby was pśeslědował.
 hnt-card-default-primary-button = Wótkaze z { -brand-short-name } wócyniś
 hnt-card-pin-header = Źaržćo { -brand-short-name } kliknjenje pšec
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Wrośćo se z doka k šćitanemu pśeglědowanjeju.
+       *[other] Wrośćo se z nadawkoweje rědki k šćitanemu pśeglědowanjeju.
+    }
 hnt-card-mobile-header = Dostańśo zatwarjony šćit na swójom telefonje.
+hnt-card-mobile-body = Ześěgniśo { -brand-product-name } za mobilne rědy za pśidatnu priwatnosć pó droze.
 hnt-card-mobile-primary-button = { -brand-product-name } za mobilny rěd wobstaraś.
 hnt-card-wallpaper-header = Wubjeŕśo nowy slězynowy wobraz
+hnt-card-wallpaper-body = Cujśo se ze swójeju nejlubšeju slězynu kaž doma.
 hnt-card-wallpaper-primary-button = Zachopśo pśiměrowaś
 hnt-card-taskbar-tabs-header = Pśidajśo swójej nadawkowej rědce Windows swóje nejlubše sedła
+hnt-card-taskbar-tabs-body = Wócyńśo swóje nejcesćej woglědane sedła kaž nałoženje ze šćitom { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Nadawkowej rědce sedła pśidaś
 hnt-card-extensions-header = Wuwónoźćo z rozšyrjenjami nejlěpše z { -brand-short-name }
 hnt-card-extensions-body = Pśiměŕśo swóje pśeglědowanje z našymi nejwěcej woblubowane rozšyrjenjami.
 hnt-card-extensions-primary-button = Wuslěźiś
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Gótowe. Cyńśo swóju wěc.
 hnt-card-last-card-header-end = Slědowański šćit jo zmóžnjony.

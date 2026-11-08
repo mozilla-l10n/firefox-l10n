@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Hladajće jednoriši kontek
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Resursowy monitor
+experimental-features-resource-monitor-description = Pokazajće trochowany skład a wužiće CPU za waše rajtarki direktnje w bóčnicy a wuprózdńće rajtarki, kotrež njewužiwaće, zo byšće resursy wuswobodźił. <a data-l10n-name="connect">Měnjenje dźělić</a>

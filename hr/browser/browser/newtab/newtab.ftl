@@ -503,6 +503,18 @@ newtab-solitaire-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Saznaj više
 
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Utakmice
+newtab-widget-wrexhamafc-view-table = Tablica
+newtab-widget-wrexhamafc-view-fixtures = Nadolazeće utakmice
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Pozadine
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -1365,6 +1377,12 @@ newtab-widget-menu-move-left = Lijevo
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Desno
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Početna stranica
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgeti
 newtab-widget-size-small = Mali
 newtab-widget-size-medium = Srednji
 newtab-widget-size-large = Veliki
@@ -1401,6 +1419,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Prikaži manje widgeta
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget nije dostupan. Provjeri kasnije.
 newtab-widget-lists-name-default = Popis zadataka
 
 ## Strings introduced by the Nova redesign of the Timer widget

@@ -319,6 +319,12 @@ about-debugging-multiprocess-toolbox-name = Višeprocesni alati
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Glavni procesi i procesi sadržaja za ciljani preglednik
+about-debugging-message-error-icon =
+    .alt = Ikona greške
+about-debugging-message-info-icon =
+    .alt = Ikona informacija
+about-debugging-message-warning-icon =
+    .alt = Ikona upozorenja
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Zatvori poruku

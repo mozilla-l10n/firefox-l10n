@@ -142,6 +142,9 @@ permissions-site-notification-desc = Sljedeće web-stranice su zatražile da ti 
 permissions-site-notification-disable-label =
     .label = Blokiraj nove zahtjeve koji traže dozvolu za obavijesti
 permissions-site-notification-disable-desc = Ovo će spriječiti traženje dozvola za slanje obavijesti za svaku web-stranicu koja gore nije navedena. Blokiranje obavijesti može pokvariti neke funkcije web-stranice.
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Primjenjuju se i postavke obavijesti tvog operativnog sustava.
 
 ## Site Permissions - Location
 

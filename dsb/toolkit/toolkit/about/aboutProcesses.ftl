@@ -64,6 +64,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Rejtariki pśepytaś
     .placeholder = Rejtariki pśepytaś
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Žedne rejtariki, kótarež { $query }” wótpowěduju
 
 ## Column headers
 

@@ -53,54 +53,54 @@ inactive-css-collapsed-table-borders = <strong>{ $property }</strong> neietekmē
 inactive-css-not-table-cell = <strong>{ $property }</strong> neietekmē šo elementu, jo tas nav tabulas šūna.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> neietekmē šo elementu, jo tas neritinās.
 inactive-css-border-image = <strong>{ $property }</strong> neietekmē šo elementu, jo to nevar lietot iekšējiem tabulas elementiem, kuros <strong>border-collapse</strong> ir iestatīts uz <strong>collapse</strong> iekļaujošās tabulas elementā.
-inactive-css-resize = <strong>{ $property } </strong> neietekmē šo elementu, jo to var lietot tikai elementiem ar pārpildes vērtību, kas nav redzama, un noteiktiem aizstātiem elementiem, piemēram, teksta apgabaliem.
-inactive-css-ruby-element = <strong>{ $property } </strong> neietekmē šo elementu, jo tas ir ruby elements. Tā izmēru nosaka ruby teksta fonta lielums.
-inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property } </strong> netiek atbalstīts izcelšanas pseidoelementos.
-inactive-css-cue-pseudo-element-not-supported = <strong>{ $property } </strong> netiek atbalstīts ::cue pseidoelementos.
+inactive-css-resize = <strong>{ $property }</strong> neietekmē šo elementu, jo to var izmantot tikai elementiem ar pārpildes vērtību, kas nav redzama, un noteiktiem aizstātiem elementiem, piemēram, teksta apgabaliem.
+inactive-css-ruby-element = <strong>{ $property }</strong> neietekmē šo elementu, jo tas ir ruby elements. Tā izmēru nosaka ruby teksta fonta lielums.
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> netiek atbalstīts izcelšanas pseidoelementos.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> netiek atbalstīts ::cue pseidoelementos.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> netiek atbalstīts <strong>@position-try</strong> noteikumos.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
     { $lineCount ->
         [one] <strong>{ $property }</strong> neietekmē šo elementu, jo tam ir vairāk nekā { $lineCount } rinda.
-        [zero] <strong>{ $property }</strong> neietekmē šos elementus, jo tam ir vairāk nekā { $lineCount } rindu.
-       *[other] <strong>{ $property }</strong> neietekmē šos elementus, jo tam ir vairāk nekā { $lineCount } rindu.
+        [zero] <strong>{ $property }</strong> neietekmē šos elementu, jo tam ir vairāk nekā { $lineCount } rindu.
+       *[other] <strong>{ $property }</strong> neietekmē šos elementu, jo tam ir vairāk nekā { $lineCount } rindas.
     }
-inactive-css-text-wrap-balance-fragmented = <strong>{ $property } </strong> neietekmē šo elementu, jo tas ir fragmentēts, t. i., tā saturs ir sadalīts vairākās kolonnās vai lapās.
-inactive-css-no-width-height = <strong>{ $property } </strong> neietekmē šo elementu, jo tā platumu un augstumu nevar iestatīt.
-inactive-css-no-principal-box = <strong>{ $property } </strong> neietekmē šo elementu, jo tas neveido galveno lodziņu.
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> neietekmē šo elementu, jo tas ir sadalīts, tas ir, tā saturs ir sadalīts vairākās lejās vai lapās.
+inactive-css-no-width-height = <strong>{ $property }</strong> neietekmē šo elementu, jo tā platumu un augstumu nevar iestatīt.
+inactive-css-no-principal-box = <strong>{ $property }</strong> neietekmē šo elementu, jo tas neveido galveno lodziņu.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved. CSS properties and values in <strong> tags should
 ## not be translated.
 
-inactive-css-not-grid-or-flex-container-fix = Mēģiniet pievienot <strong>display:grid</strong> vai <strong>display:flex</strong>. { learn-more }
-inactive-css-not-grid-or-flex-or-block-container-fix = Mēģiniet pievienot <strong>display:grid</strong>, <strong>display:flex</strong> vai <strong>display:block</strong>.{ learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Mēģiniet pievienot vai nu <strong>display:grid</strong>, <strong>display:flex</strong>, vai <strong>columns:2</strong>. { learn-more }
-inactive-css-not-multicol-container-fix = Mēģiniet pievienot vai nu <strong>column-count</strong>, vai <strong>column-width</strong>. { learn-more }
-inactive-css-column-span-fix = Mēģiniet pievienot <strong>column-count</strong> vai <strong>column-width</strong> vienam no tā priekšteča elementiem. { learn-more }
-inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Mēģiniet elementam pievienot <strong>position:absolute</strong> vai elementa vecākam pievienot <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vai <strong>display:inline-flex</strong>. { learn-more }
-inactive-css-not-grid-or-absolutely-positioned-item-fix = Mēģiniet elementam pievienot <strong>position:absolute</strong> vai elementa vecākam pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>. { learn-more }
-inactive-css-not-absolutely-positioned-item-fix = Mēģiniet elementam pievienot <strong>position:absolute</strong>. { learn-more }
-inactive-css-no-default-anchor-fix = Mēģiniet pievienot <strong>position-anchor</strong> ar derīgu enkura nosaukumu. { learn-more }
-inactive-css-not-grid-or-flex-item-fix-3 = Mēģiniet elementa vecākam pievienot <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vai <strong>display:inline-flex</strong>. { learn-more }
-inactive-css-not-grid-item-fix-2 = Mēģiniet elementa vecākam pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>. { learn-more }
-inactive-css-not-grid-container-fix = Mēģiniet pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>. { learn-more }
-inactive-css-not-flex-item-fix-2 = Mēģiniet elementa vecākam pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>. { learn-more }
-inactive-css-not-flex-container-fix = Mēģiniet pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>. { learn-more }
-inactive-css-not-inline-or-tablecell-fix = Mēģiniet pievienot <strong>display:inline</strong> vai <strong>display:table-cell</strong>. { learn-more }
-inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Mēģiniet pievienot <strong>display:inline-block</strong> vai <strong>display:block</strong>. { learn-more }
-inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Mēģiniet pievienot <strong>display:inline-block</strong>. { learn-more }
-inactive-css-not-display-block-on-floated-fix = Mēģiniet noņemt <strong>float</strong> vai pievienot <strong>display:block</strong>. { learn-more }
-inactive-css-only-non-grid-or-flex-item-fix = Mēģiniet mainīt elementa konteinera <strong>display</strong> vērtību uz kaut ko citu, nevis <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> vai <strong>inline-grid</strong>, vai arī noņemiet <strong>float</strong>. { learn-more }
-inactive-css-not-block-fix = Mēģiniet pievienot tādas īpašības kā <strong>display:block</strong> vai <strong>float:left</strong>. { learn-more }
-inactive-css-not-block-container-fix = Mēģiniet pievienot <strong>display:block</strong>, <strong>display:inline-block</strong> vai <strong>display:flow-root</strong>. { learn-more }
-inactive-css-not-block-flex-grid-container-fix = Mēģiniet pievienot <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> vai <strong>display:flow-root</strong>. { learn-more }
-inactive-css-not-floated-fix = Mēģiniet pievienot īpašību <strong>float</strong> ar citu vērtību, nevis <strong>none</strong>. { learn-more }
-inactive-css-position-property-on-unpositioned-box-fix = Mēģini iestatīt tā <strong>position</strong> īpašību uz kaut ko citu, nevis <strong>static</strong>!{ learn-more }
-inactive-css-only-replaced-elements-fix = Pārliecinieties, vai pievienojat šo īpašību aizstātam elementam. { learn-more }
-inactive-text-overflow-when-no-overflow-fix = Mēģiniet pievienot <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix = Jāmēģina pievienot <strong>display:grid</strong> vai <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Jāmēģina pievienot <strong>display:grid</strong>, <strong>display:flex</strong> vai <strong>display:block</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Jāmēģina pievienot vai nu <strong>display:grid</strong>, <strong>display:flex</strong>, vai arī <strong>columns:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Jāmēģina pievienot vai nu <strong>column-count</strong>, vai arī <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Jāmēģina pievienot <strong>column-count</strong> vai <strong>column-width</strong> vienam no tā priekšteča elementiem. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Jāmēģina elementam pievienot <strong>position:absolute</strong> vai iekļaujošajam elementam pievienot <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vai <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Jāmēģina elementam pievienot <strong>position:absolute</strong> vai iekļaujošajam elementam pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-absolutely-positioned-item-fix = Jāmēģina elementam pievienot <strong>position:absolute</strong>. { learn-more }
+inactive-css-no-default-anchor-fix = Jāmēģina pievienot <strong>position-anchor</strong> ar derīgu enkura nosaukumu. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-3 = Jāmēģina elementa vecākam pievienot <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vai <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-item-fix-2 = Jāmēģina elementa vecākam pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-grid-container-fix = Jāmēģina pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix-2 = Jāmēģina elementa vecākam pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-flex-container-fix = Jāmēģina pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Jāmēģina pievienot <strong>display:inline</strong> vai <strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Jāmēģina pievienot <strong>display:inline-block</strong> vai <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Jāmēģina pievienot <strong>display:inline-block</strong>. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Jāmēģina noņemt <strong>float</strong> vai pievienot <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Jāmēģina mainīt elementa konteinera <strong>display</strong> vērtību uz kaut ko citu, nevis <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> vai <strong>inline-grid</strong>, vai arī jānoņem <strong>float</strong>. { learn-more }
+inactive-css-not-block-fix = Jāmēģina pievienot tādas īpašības kā <strong>display:block</strong> vai <strong>float:left</strong>. { learn-more }
+inactive-css-not-block-container-fix = Jāmēģina pievienot <strong>display:block</strong>, <strong>display:inline-block</strong> vai <strong>display:flow-root</strong>. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Jāmēģina pievienot <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> vai <strong>display:flow-root</strong>. { learn-more }
+inactive-css-not-floated-fix = Jāmēģina pievienot īpašību <strong>float</strong> ar citu vērtību, nevis <strong>none</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Jāmēģina iestatīt tā <strong>position</strong> īpašību uz kaut ko citu, nevis <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Jāpārliecinās, ka šī īpašība tiek pievienota aizstātam elementam. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Jāmēģina pievienot <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-no-size-containment-fix = Mēģiniet iestatīt tā <strong>display</strong> īpašību uz kaut ko citu, nevis <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> vai <strong>inline-table</strong>, un pārliecinieties, ka tā neatrodas tabulā vai Ruby segmentā. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Mēģiniet iestatīt tā <strong>display</strong> īpašību uz kaut ko citu, nevis <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> vai <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Mēģiniet iestatīt tā <strong>display</strong> īpašību uz kaut ko citu, nevis <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> vai <strong>table-footer-group</strong>. { learn-more }
@@ -129,4 +129,4 @@ inactive-css-not-grid-container-fix-1 = Mēģiniet pievienot <strong>display:gri
 inactive-css-not-flex-item-fix-3 = Mēģiniet elementa vecākam pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>.
 inactive-css-not-flex-container-fix-1 = Mēģiniet pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>.
 inactive-css-not-inline-or-tablecell-fix-1 = Mēģiniet pievienot <strong>display:inline</strong> vai <strong>display:table-cell</strong>.
-inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Mēģiniet pievienot <strong>display:inline-block</strong> vai <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Jāmēģina pievienot <strong>display:inline-block</strong> vai <strong>display:block</strong>.

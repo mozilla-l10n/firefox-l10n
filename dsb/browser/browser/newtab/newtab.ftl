@@ -198,6 +198,8 @@ newtab-privacy-empty-state = { -brand-short-name } pśeslědowaki awtomatiski bl
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Lejśo aktualnu cełkownu licbu.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Mjenjej pśeslědowakow, malsnjejše pśeglědowanje.
 newtab-privacy-empty-state-small-message = Pśeglědujśo, aby blokěrował.
 
 ## Privacy widget — Enhanced Tracking Protection off state

@@ -552,6 +552,12 @@ onboarding-refresh-tou-pin =
         [macos] Drži { -brand-short-name(case: "acc") } u Docku
        *[other] Dodaj { -brand-short-name(case: "acc") } na programsku traku
     }
+onboarding-refresh-fro-theme-header = Poigraj se s izgledom
+onboarding-refresh-tab-layout-header = Isprobaj drugačiji raspored kartica
+onboarding-refresh-fro-tab-layout-title = Odaberi novi raspored kartica
+onboarding-refresh-tab-layout-top = Na vrhu
+onboarding-refresh-tab-layout-side = Sa strane
+onboarding-refresh-tab-layout-minimal = Minimalno
 
 ## Smart Window ToU modal
 
@@ -594,3 +600,15 @@ welcome-back-onboarding-pill-label-tabs = Uredne kartice
 welcome-back-onboarding-pill-label-vpn = Ugrađeni VPN
 welcome-back-onboarding-pill-label-pdf = PDF alati
 welcome-back-onboarding-card-tilebutton-label = Isprobaj
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Uvezi svoje podatke
+hnt-card-default-primary-button = Otvori poveznice u { -brand-short-name(case: "loc") }
+hnt-card-wallpaper-header = Odaberi svježu pozadinu
+hnt-card-wallpaper-primary-button = Započni prilagođavanje
+hnt-card-extensions-primary-button = Istraži
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Sve je spremno. Idi radi svoje.
+hnt-card-last-card-header-end = Zaštita od praćenja je uključena.

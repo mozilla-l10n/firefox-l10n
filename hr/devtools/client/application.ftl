@@ -101,6 +101,10 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Service workeri
     .alt = Ikona service workera
     .title = Service workeri
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Povijest sesije
+    .alt = Ikona povijesti sesije
+    .title = Povijest sesije
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Prikaži podatke povijesti sesije

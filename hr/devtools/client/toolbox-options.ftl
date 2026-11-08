@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Skrati DOM atribute
 options-collapse-attrs-tooltip =
     .title = Skrati duge atribute u inspektoru
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Prikaži komentare
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Klikni i povuci za uređivanje vrijednosti veličine
 options-inspector-draggable-properties-tooltip =
@@ -67,6 +69,11 @@ options-webconsole-label = Web konzola
 options-webconsole-split-console-label = Aktiviraj podijeljenu konzolu
 options-webconsole-split-console-tooltip =
     .title = Otvori podijeljenu konzolu tipkom Escape
+
+## Network Monitor section
+
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Neograničeno
 
 ## Style Editor section
 
@@ -106,6 +113,12 @@ options-sourceeditor-expandtab-label = Uvlake s razmakom
 options-sourceeditor-tabsize-label = Veličina tabulatora
 options-sourceeditor-keybinding-label = Tipkovnički prečaci
 options-sourceeditor-keybinding-default-label = Standard
+
+## Local Mode section
+
+options-local-mode-folder-label = Lokalna mapa:
+options-local-mode-toggle-enable = Omogući
+options-local-mode-toggle-disable = Onemogući
 
 ## Advanced section
 

@@ -99,6 +99,8 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je isključen za ovu web-stranicu
     .label = Koristi VPN za ovu web-stranicu
 site-exclusion-toggle-description = Stranica ne radi? Probaj isključiti VPN.
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Tvoje pravilo
 # Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
 site-rules-description-exclusion = VPN je isključen za ovu web stranicu
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
