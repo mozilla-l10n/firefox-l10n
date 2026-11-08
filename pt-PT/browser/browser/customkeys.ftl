@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copiar URL do Separador
 customkeys-file-focus-search = Focar a Barra de Pesquisa
 customkeys-history-reopen-tab = Reabrir último separador fechado
 customkeys-history-reopen-window = Reabrir última janela fechada
+customkeys-history-reopen-tab-current-window = Reabrir Último Separador Fechado da Janela Atual
 customkeys-sidebar-toggle = Alternar barra lateral
 customkeys-view-bookmarks-toolbar = Alternar Barra de Ferramentas de Marcadores
 customkeys-view-picture-in-picture = Vídeo em janela flutuante

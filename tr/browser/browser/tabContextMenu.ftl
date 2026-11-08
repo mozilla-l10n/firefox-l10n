@@ -165,6 +165,15 @@ tab-context-move-tabs =
         }
     .accesskey = t
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Taşı
+            [one] { $tabCount } sekmeyi taşı
+           *[other] { $tabCount } sekmeyi taşı
+        }
+    .accesskey = ı
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->

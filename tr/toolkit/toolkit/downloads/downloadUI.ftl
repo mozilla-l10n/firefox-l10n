@@ -40,6 +40,12 @@ download-ui-cancel-downloads-ok =
        *[other] Evet, { $downloadsCount } dosyayı indirmekten vazgeç
     }
 download-ui-confirm-cancel-button = Vazgeç
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Bu indirmeye devam edemeyeceksiniz.
+        [one] Bu indirmelere devam edemeyeceksiniz.
+       *[other] Bu indirmelere devam edemeyeceksiniz.
+    }
 download-ui-confirm-private-browsing-button = Pencereyi kapat
 
 ##

@@ -649,6 +649,24 @@ hnt-card-import-primary-button = გადმოიტანეთ თქვე�
 hnt-card-default-body = { -brand-product-name } ერთადერთი მოწინავე ბრაუზერია, რომელიც შექმნილია თქვენს დასაცავად და არა თქვენს სათვალთვალოდ.
 hnt-card-default-primary-button = ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
 hnt-card-pin-header = დატოვეთ { -brand-short-name } თითის ერთ გაწვდენაზე
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] გადაეშვით გვერდების უსაფრთხო მონახულებაზე dock-იდან.
+       *[other] გადაეშვით გვერდების უსაფრთხო მონახულებაზე ამოცანათა ზოლიდან.
+    }
 hnt-card-mobile-header = მიიღეთ ჩაშენებული დაცვა ტელეფონზეც
+hnt-card-mobile-body = ჩამოტვირთეთ { -brand-product-name } მობილურზე პირდულობის უკეთ დასაცავად გარეთ გასვლისას.
 hnt-card-mobile-primary-button = გადმოწერეთ { -brand-product-name } მობილურზე.
 hnt-card-wallpaper-header = აირჩიეთ ახალი ფონი
+hnt-card-wallpaper-body = მოაწყვეთ ეკრანი თქვენებურად საყვარელი ფონების გამოყენებით.
+hnt-card-wallpaper-primary-button = დაიწყეთ მორგება
+hnt-card-taskbar-tabs-header = დაამატეთ რჩეული საიტები ამოცანათა ზოლზე
+hnt-card-taskbar-tabs-body = გახსენით ხშირი საიტები პროგრამებივით და დაცვას უზრუნველყოფს { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = საიტის დამატება ამოცანათა ზოლზე
+hnt-card-extensions-header = გააძლიერეთ { -brand-short-name } გაფართოებებით
+hnt-card-extensions-body = მოინახულეთ გვერდები თქვენებურად ყველასთვის საყვარელი გაფართოებებით.
+hnt-card-extensions-primary-button = მონახულება
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = ყველაფერი მზადაა. შეუდექით საქმეს.
+hnt-card-last-card-header-end = თვალთვალისგან დაცვა ჩართულია.

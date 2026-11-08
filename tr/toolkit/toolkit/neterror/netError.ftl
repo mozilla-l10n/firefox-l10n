@@ -111,6 +111,7 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi bağlantısını kesip yen
 ## Variables:
 ##   $port (String) - The port number the connection was refused on.
 
+neterror-loopback-refused-not-running = { $port } numaralı portta bağlantı kabul eden bir hizmet yok. Yerel sunucunuzun çalıştığını kontrol edin.
 # "it" is the local server that the user is trying to reach.
 neterror-loopback-refused-wrong-port = Çalışıyorsa { $port } portunu kullandığını kontrol edin.
 # "this address" is the IP address of the page that failed to load, for example

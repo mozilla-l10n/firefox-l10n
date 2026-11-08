@@ -567,6 +567,31 @@ newtab-solitaire-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Saber mais
 
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Abrir menu do  Wrexham AFC
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Vista
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Jogos
+newtab-widget-wrexhamafc-view-table = Tabela
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
