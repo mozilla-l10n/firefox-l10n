@@ -73,3 +73,5 @@ inactive-css-text-wrap-balance-lines-exceeded-fix = Centieties samazināt rindu 
 inactive-css-text-wrap-balance-fragmented-fix = Izvairieties no elementa satura sadalīšanas, piemēram, noņemot kolonnas vai izmantojot <strong>page-break-inside:avoid</strong>.{ learn-more }
 inactive-css-no-principal-box-fix = Mēģiniet pievienot <strong>display</strong> vērtību, kas izveido galveno lodziņu, piemēram, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> vai <strong>grid</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-fix-1 = Mēģiniet pievienot <strong>display:grid</strong> vai <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Mēģiniet pievienot <strong>display:grid</strong>, <strong>display:flex</strong> vai <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Mēģiniet pievienot vai nu <strong>display:grid</strong>, <strong>display:flex</strong>, vai <strong>columns:2</strong>.
