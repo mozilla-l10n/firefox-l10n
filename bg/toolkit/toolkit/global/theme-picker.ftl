@@ -26,7 +26,37 @@ theme-picker-use-linux-theme =
 # Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
 # color word; translate the sense of "standard."
 theme-picker-default =
-    .label = По подразбиране
+    .label = Стандартна
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun =
+    .label = Слънце
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark =
+    .label = Искра
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame =
+    .label = Пламък
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender =
+    .label = Лавандула
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk =
+    .label = Здрач
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = Лагуна
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = Бор
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide =
+    .label = Прилив
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash =
+    .label = Пепел
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke =
+    .label = Дим
 
 ## Theme aria-labels (for when labels are hidden)
 ## These are short, evocative names for color themes in Firefox. Each name
@@ -35,9 +65,40 @@ theme-picker-default =
 ## association in the target language. If no equivalent exists, prioritize color
 ## clarity. One word, 11 characters or fewer.
 
+# Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
+# color word; translate the sense of "standard."
+theme-picker-default-aria-label =
+    .aria-label = Стандартна
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun-aria-label =
+    .aria-label = Слънце
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark-aria-label =
+    .aria-label = Искра
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame-aria-label =
+    .aria-label = Пламък
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare-aria-label =
+    .aria-label = Факел
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender-aria-label =
+    .aria-label = Лавандула
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk-aria-label =
     .aria-label = Здрач
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon-aria-label =
     .aria-label = Лагуна
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine-aria-label =
+    .aria-label = Бор
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide-aria-label =
+    .aria-label = Прилив
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash-aria-label =
+    .aria-label = Пепел
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke-aria-label =
+    .aria-label = Дим
