@@ -335,6 +335,7 @@ windows-10-eos-global-infobar-primary-button = Включване на резе�
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Строгата защита от проследяване може да наруши работата на страниците.</strong> Отстранете често срещаните проблеми, като деблокирате основни елементи, които може да съдържат проследяващи елементи.
 etp-strict-exceptions-infobar-learn-more = Научете повече
 
 ## 'Set to default' messaging displayed within the App menu
