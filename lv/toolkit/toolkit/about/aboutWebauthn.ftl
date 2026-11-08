@@ -45,11 +45,11 @@ about-webauthn-results-pin-invalid-error =
         [zero] Kļūda: Nepareizs PIN kods. Mēģiniet vēlreiz. Jums atlikuši { $retriesLeft } mēģinājumi.
        *[other] Kļūda: Nepareizs PIN kods. Mēģiniet vēlreiz. Jums atlikuši { $retriesLeft } mēģinājumi.
     }
-about-webauthn-results-pin-blocked-error = Kļūda: Nav atlicis neviens mēģinājums, un jūsu ierīce ir bloķēta, jo pārāk daudz reižu tika ievadīts nepareizs PIN kods. Ierīce ir jāatiestata.
+about-webauthn-results-pin-blocked-error = Kļūda: Nav atlicis neviens mēģinājums, un jūsu ierīce ir liegta, jo pārāk daudz reižu tika ievadīts nepareizs PIN kods. Ierīce ir jāatiestata.
 about-webauthn-results-pin-not-set-error = Kļūda: PIN nav iestatīts. Šai darbībai ir nepieciešama PIN aizsardzība.
 about-webauthn-results-pin-too-short-error = Kļūda: Norādītais PIN kods ir pārāk īss.
 about-webauthn-results-pin-too-long-error = Kļūda: norādītais PIN kods ir pārāk garš.
-about-webauthn-results-pin-auth-blocked-error = Kļūda: Bija pārāk daudz neveiksmīgu mēģinājumu pēc kārtas, un PIN autentifikācija ir īslaicīgi bloķēta. Jūsu ierīcei nepieciešams strāvas padeves cikls (atvienojiet to no strāvas un ievietojiet to atkārtoti).
+about-webauthn-results-pin-auth-blocked-error = Kļūda: Bija pārāk daudz neveiksmīgu mēģinājumu pēc kārtas, un PIN autentifikācija ir īslaicīgi liegta. Jūsu ierīcei nepieciešams strāvas padeves cikls (atvienojiet to no strāvas un ievietojiet to atkārtoti).
 about-webauthn-results-cancelled-by-user-error = Kļūda: Lietotājs ir atcēlis darbību.
 
 ## Labels

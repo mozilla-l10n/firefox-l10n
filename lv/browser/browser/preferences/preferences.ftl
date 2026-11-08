@@ -2192,7 +2192,7 @@ preferences-doh-header2 =
 preferences-connection-header =
     .heading = Savienojuma un programmatūras drošība
 preferences-connection-link-section =
-    .description = Skatiet, kā savienojumi tiek uzturēti droši, tiek bloķēta kaitīga programmatūra un tiek pārbaudītas tīmekļa vietnes.
+    .description = Skatiet, kā savienojumi tiek uzturēti droši, tiek liegta kaitīga programmatūra un tiek pārbaudītas tīmekļa vietnes.
     .label = Savienojuma un programmatūras drošība
 preferences-connection-link-button =
     .label = Papildu iestatījumi
@@ -2286,14 +2286,14 @@ preferences-ai-controls-state-enabled =
     .label = Iespējots
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
-    .label = Bloķēts
+    .label = Liegts
 preferences-ai-controls-state-description-before = Ko nozīmē opcijas:
 preferences-ai-controls-state-description-available = <strong>Pieejams:</strong> Jūs redzēsiet šo funkciju un varēsiet to izmantot.
 preferences-ai-controls-state-description-enabled = <strong>Iespējots:</strong> Jūs esat izvēlējies izmantot šo funkciju.
-preferences-ai-controls-state-description-blocked = <strong>Bloķēts:</strong> Jūs neredzēsiet un nevarēsiet izmantot šo funkciju. Ierīcē iebūvētajā mākslīgajā intelektā visi jau lejupielādētie modeļi tiek noņemti.
+preferences-ai-controls-state-description-blocked = <strong>Liegts:</strong> Jūs neredzēsiet un nevarēsiet izmantot šo funkciju. Ierīcē iebūvētajā mākslīgajā intelektā visi jau lejupielādētie modeļi tiek noņemti.
 preferences-ai-controls-block-confirmation-heading = Liegt MI uzlabojumus?
 preferences-ai-controls-block-confirmation-description = Jūs neredzēsiet jaunus vai pašreizējus mākslīgā intelekta uzlabojumus pakalpojumā { -brand-short-name }, kā arī uznirstošos logus par tiem. Pēc tam varēsiet atbloķēt visu, ko vēlaties turpināt lietot.
-preferences-ai-controls-block-confirmation-features-start = Kas tiks bloķēts:
+preferences-ai-controls-block-confirmation-features-start = Kas tiks liegts:
 preferences-ai-controls-block-confirmation-translations = Tulkojumi
 preferences-ai-controls-block-confirmation-pdfjs = Attēla alternatīvais teksts { -brand-short-name } PDF skatītājā
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Cilņu grupu ieteikumi
@@ -2322,7 +2322,7 @@ security-privacy-status-pending-trackers-label = Meklēju, cik izsekotāju { -br
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label =
     { $trackerCount ->
-        [one] { $trackerCount } izsekotājs ir bloķēts pēdējā mēneša laikā
+        [one] { $trackerCount } izsekotājs ir liegts pēdējā mēneša laikā
         [zero] { $trackerCount } izsekotāji bloķēti pēdējā mēneša laikā
        *[other] { $trackerCount } izsekotāji bloķēti pēdējā mēneša laikā
     }
@@ -2368,7 +2368,7 @@ preferences-etp-level-custom =
 preferences-etp-status-advanced-button =
     .label = Papildu iestatījumi
 preferences-etp-tracker-count-enabled =
-    .label = Rādīt bloķētos izsekotājus adreses joslā
+    .label = Rādīt liegtos izsekotājus adreses joslā
 preferences-etp-status-protections-dashboard-link =
     .description = Apskatiet, cik daudz viltīgu izsekotāju { -brand-short-name } ir bloķējis jūsu vietā, tostarp sociālo mediju izsekotājus, pirkstu nospiedumu lasītājus un kriptovalūtu ieguves rīkus.
     .label = Skatiet savu personalizēto aizsardzības informācijas paneli

@@ -287,8 +287,8 @@ text-copied = Teksts nokopēts atmiņā
 
 blocked-driver = Liegts videokartes dziņa versijai.
 blocked-gfx-card = Liegts videokartei neatrisinātu dziņa nepilnību dēļ.
-blocked-os-version = Bloķēts jūsu operētājsistēmas versijai.
-blocked-mismatched-version = Bloķēts jūsu grafiskā draivera versijas atšķirībai starp reģistru un DLL.
+blocked-os-version = Liegts jūsu operētājsistēmas versijai.
+blocked-mismatched-version = Liegts jūsu grafiskā draivera versijas atšķirībai starp reģistru un DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Liegts videokartes dziņa versija. Jāmēģina videokartes dzini atjaunināt uz versiju { $driverVersion } vai jaunāku.

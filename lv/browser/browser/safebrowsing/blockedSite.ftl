@@ -6,7 +6,7 @@ safeb-blocked-phishing-page-title = Maldinoša lapa
 safeb-blocked-malware-page-title = Šī lapa var kaitēt jūsu datoram
 safeb-blocked-unwanted-page-title = Šajā lapā var būt kaitnieciskas programmas
 safeb-blocked-harmful-page-title = Šajā lapā var būt kaitnieciskas programmas
-safeb-blocked-addon-page-title = Vietne ir bloķēta jūsu drošības labad
+safeb-blocked-addon-page-title = Vietne ir liegta jūsu drošības labad
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā ar viltu var pamudināt darīt kaut ko bīstamu, piemēram, uzstādīt nevēlamu programmatūru vai atklāt personisku informāciju, piemēram, paroles vai maksājumu karšu datus.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā var mēģināt uzstādīt kaitniecisku programmatūru, kas datorā var zagt vai izdzēst personisku informāciju.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā var ar viltu likt uzstādīt kaitniecisku programmatūru (piemēram, nomainot sākumlapu vai rādot papildu reklāmas apmeklētajās vietnēs).
@@ -38,7 +38,7 @@ safeb-blocked-harmful-page-learn-more = Uzziniet vairāk par { -brand-short-name
 ##  $addonName (string) - the name of the harmful add-on
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-addon-page-error-desc-override = <strong>Kāpēc šī vietne tika bloķēta?</strong>
+safeb-blocked-addon-page-error-desc-override = <strong>Kāpēc šī vietne tika liegta?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> var būt saistīta ar maldinošu un kaitīgu darbību.
 safeb-blocked-addon-page-error-desc3-override = <strong>Ko ar šo var iesākt?</strong>
 safeb-blocked-addon-page-error-desc4-override = Lai tas vairs neatkārtotos, varat noņemt vai atspējot <strong>{ $addonName } </strong> no about:addons.
