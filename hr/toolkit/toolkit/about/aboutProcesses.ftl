@@ -12,8 +12,16 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Isključi kartice i prekini proces
+about-processes-kill-process =
+    .title = Zaustavi proces
 about-processes-shutdown-tab =
     .title = Zatvori karticu
+about-processes-unload-tab =
+    .title = Rastereti karticu
+about-processes-reload-tab =
+    .title = Ponovno učitaj karticu
+about-processes-select-all-tabs =
+    .title = Odaberi sve kartice
 
 ## Column headers
 
@@ -51,6 +59,15 @@ about-processes-unknown-process = Drugo: { $type } ({ $pid })
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Kartica: { $name }
 about-processes-preloaded-tab = Unaprijed učitana nova kartica
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } kartica
+        [few] { $count } kartice
+       *[other] { $count } kartica
+    }
 
 ## Utility process actor names
 

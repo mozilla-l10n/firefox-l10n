@@ -28,3 +28,7 @@ about-sync-log-filter-date-30days =
 
 about-sync-log-refresh-button =
     .label = Osvježi
+
+## Clear logs confirmation
+
+about-sync-log-clear-confirm-accept = Izbriši

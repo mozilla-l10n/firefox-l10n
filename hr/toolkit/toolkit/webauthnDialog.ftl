@@ -70,3 +70,13 @@ webauthn-allow = Dozvoli
     .accesskey = D
 webauthn-block = Blokiraj
     .accesskey = B
+webauthn-continue = Nastavi
+    .accesskey = N
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } želi stvoriti pristupni ključ za { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } želi koristiti pristupni ključ za { $rpId }.

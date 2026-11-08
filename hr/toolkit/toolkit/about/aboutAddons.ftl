@@ -319,6 +319,8 @@ release-notes-addon-button = Napomene o izdanju
 permissions-addon-button = Dozvole
 extension-enabled-heading = Aktivirano
 extension-disabled-heading = Onemogućeno
+theme-enabled-heading2 =
+    .heading = Aktivna tema
 theme-disabled-heading3 =
     .heading = Spremljene teme
 theme-enabled-heading = Aktivirano
@@ -546,3 +548,85 @@ mlmodel-addon-detail-used-by-label = Korišteno od
 mlmodel-addon-detail-model-card = Kartica modela
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Prikaži na Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Prilagodi { -brand-product-name } sebi
+    .message = Dodaj alate i stilove koji odgovaraju tvojim potrebama i ukusu.
+find-more-addons-promo-open-amo-button = Istraži proširenja i teme
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Pronađi svoje sljedeće omiljeno proširenje
+    .message = Prilagodi { -brand-product-name } s alatima za fokusiranje, privatnost, kupovinu i još toga.
+find-more-extensions-promo-open-amo-button = Istraži proširenja
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Pronađi još svježih izgleda
+    .message = Odaberi stil za { -brand-product-name } koji je po tvom ukusu.
+find-more-themes-promo-open-amo-button = Istraži teme
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Nekoliko proširenja može puno pomoći
+    .message = Imamo prijedloge koji ti mogu poboljšati fokusiranje, privatnost i još toga.
+list-empty-get-extensions-promo-button = Pronađi svoje prvo proširenje
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Svijetla
+themes-mode-dark =
+    .label = Tamna
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Uređaj
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Izgled
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } teme
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Klasične teme
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Prikaži više
+aboutaddons-themes-picker-see-less = Prikaži manje
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Omogući
+aboutaddons-themes-picker-disable-button =
+    .label = Onemogući
+aboutaddons-themes-picker-install-button =
+    .label = Instaliraj
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Nismo mogli ažurirati tvoju temu. Provjeri svoju vezu i pokušaj ponovno.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Koristi Linuxovu temu sustava

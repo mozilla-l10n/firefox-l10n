@@ -31,9 +31,29 @@ neterror-add-exception-button = Uvijek nastavi za ovu stranicu
 neterror-settings-button = Promijeni postavke DNS-a
 neterror-view-certificate-link = Pregled certifikata
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-reload-button =
+    .label = Učitaj ponovo
+    .accesskey = U
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Kȏd greške: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Saznaj više
+
 ##
 
 neterror-pref-reset = Izgleda da tvoje postavke sigurnosti mreže možda ovo uzrokuju. Želiš li obnoviti standardne postavke?
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Tvoja veza možda nije privatna
+    .message = Aplikacija ili usluga možda može vidjeti tvoj šifrirani promet s ove stranice.
 
 ## Specific error messages
 
@@ -162,6 +182,7 @@ fp-neterror-offline-body-title = Čini se da postoji problem s tvojom internetsk
 fp-neterror-connection-intro = { -brand-short-name } ne može uspostaviti vezu sa serverom { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se ne može povezati sa serverom na <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Server na <strong>{ $hostname }</strong> treba predugo da odgovori.
+fp-neterror-why-did-this-happen = Zašto se ovo dogodilo?
 fp-neterror-offline-what-can-you-do-body = Pokušaj se povezati na jednom drugom uređaju. Provjeri modem ili router. Prekini vezu i ponovo se spoji na Wi-Fi.
 fp-neterror-vpn-error-description = Pokušaj ponovo za par minuta.
 fp-neterror-denied-port-access = Ova adresa koristi mrežni priključak koji se obično koristi u druge svrhe osim pregledavanja weba. { -brand-short-name } je otkazao zahtjev radi tvoje zaštite.

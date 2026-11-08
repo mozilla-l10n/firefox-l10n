@@ -40,6 +40,26 @@ download-ui-cancel-downloads-ok =
        *[other] { $downloadsCount } ześěgnjenjow pśetergnuś
     }
 download-ui-confirm-cancel-button = Pśetergnuś
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 1 ześěgnjenje zastajiś a { -brand-short-name } skóńcyś
+                [one] { $downloadsCount } ześěgnjenje zastajiś a { -brand-short-name } skóńcyś?
+                [two] { $downloadsCount } ześěgnjeni zastajiś a { -brand-short-name } skóńcyś?
+                [few] { $downloadsCount } ześěgnjenja zastajiś a { -brand-short-name } skóńcyś?
+               *[other] { $downloadsCount } ześěgnjenjow zastajiś a { -brand-short-name } skóńcyś?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 1 ześěgnjenje zastajiś a { -brand-short-name } skóńcyś
+                [one] { $downloadsCount } ześěgnjenje zastajiś a { -brand-short-name } skóńcyś?
+                [two] { $downloadsCount } ześěgnjeni zastajiś a { -brand-short-name } skóńcyś?
+                [few] { $downloadsCount } ześěgnjenja zastajiś a { -brand-short-name } skóńcyś?
+               *[other] { $downloadsCount } ześěgnjenjow zastajiś a { -brand-short-name } skóńcyś?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } wopytajo, ze ześěgnjenjami pókšacowaś, gaž se zasej wócynja, ale póstup móžo se zgubiś.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] { -brand-short-name } skóńcyś
@@ -53,6 +73,7 @@ download-ui-confirm-offline-title =
         [few] { $downloadsCount } ześěgnjenja zastajiś a offline hyś?
        *[other] { $downloadsCount } ześěgnjenjow zastajiś a offline hyś?
     }
+download-ui-confirm-offline-message = { -brand-short-name } wopytajo, ze ześěgnjenjami pókšacowaś, gaž sćo zasej online, ale póstup móžo se zgubiś.
 download-ui-confirm-offline-button = Offline hyś
 download-ui-confirm-private-browsing-title =
     { $downloadsCount ->

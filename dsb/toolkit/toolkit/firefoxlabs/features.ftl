@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Glědajśo jadnorjejšy kon
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Resursowy monitor
+experimental-features-resource-monitor-description = Pokažćo pówoblicony skład a wužyśe CPU za waše rejtariki direktnje w bocnicy a wuprozniśo rejtariki, kótarež njewužywaśo, aby resurse wulichował. <a data-l10n-name="connect">Měnjenje źěliś</a>

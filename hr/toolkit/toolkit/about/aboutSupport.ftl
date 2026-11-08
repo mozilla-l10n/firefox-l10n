@@ -380,6 +380,7 @@ support-printing-prefs-value = Vrijednost
 
 ## Remote Settings sections
 
+support-remote-settings-title = Udaljene postavke
 support-remote-settings-status = Stanje
 support-remote-settings-status-ok = U redu
 # Status when synchronization is not working.
@@ -393,7 +394,9 @@ support-remote-settings-sync-history-infos = Informacije
 
 ## Normandy sections
 
+support-remote-experiments-title = Udaljeni eksperimenti
 support-remote-experiments-name = Ime
+support-remote-features-title = Udaljene značajke
 support-remote-features-name = Ime
 support-remote-features-status = Status
 
