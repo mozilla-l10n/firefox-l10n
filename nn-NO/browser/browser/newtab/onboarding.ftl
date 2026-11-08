@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Du kan når som helst opne faneg
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Opne fanegruppene dine på nytt frå List opp alle faner-menyen når som helst.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Fanegrupper blir automatisk lagra. Finn dei her.
 
 ## Multi Profiles feature onboarding messages
 
@@ -640,4 +642,7 @@ welcome-back-onboarding-card-tilebutton-label = Prøv det
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Set opp { -brand-short-name } på få sekund
+hnt-card-import-body = Importer bokmerke, passord, og meir. frå ein annan nettlesar.
+hnt-card-import-primary-button = Importer dine data
 hnt-card-extensions-primary-button = Utforsk
