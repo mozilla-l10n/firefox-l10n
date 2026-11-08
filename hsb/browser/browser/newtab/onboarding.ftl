@@ -661,8 +661,12 @@ hnt-card-wallpaper-header = Wubjerće nowy pozadkowy wobraz
 hnt-card-wallpaper-body = Čujće so ze swojim najlubšim pozadkom kaž doma.
 hnt-card-wallpaper-primary-button = Započńće přiměrjeć
 hnt-card-taskbar-tabs-header = Přidajće swojej nadawkowej lajsće Windows swoje najlubše sydła
+hnt-card-taskbar-tabs-body = Wočińće swoje najhusćišo wopytane sydła kaž nałoženje ze škitom { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Nadawkowej lajsće sydła přidać
 hnt-card-extensions-header = Wućehńće z rozšěrjenjemi najlěpše z { -brand-short-name }
 hnt-card-extensions-body = Přiměrće swoje přehladowanje z našimi najbóle woblubowane rozšěrjenjemi.
 hnt-card-extensions-primary-button = Wuslědźić
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Hotowe. Čińće swoju wěc.
 hnt-card-last-card-header-end = Slědowanski škit je zmóžnjeny.
