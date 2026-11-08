@@ -40,7 +40,7 @@ webauthn-register-direct-prompt-hint = { -brand-short-name } 可將此資訊匿�
 webauthn-select-sign-result-prompt = 找到 { $hostname } 的多組帳號。請選擇要使用哪一組，或取消。
 # Variables:
 #  $hostname (String): the origin (website) for which a device needs to be selected.
-webauthn-select-device-prompt = 找到 { $hostname } 的多組帳號。請選擇要使用哪一組。
+webauthn-select-device-prompt = 找到 { $hostname } 的多個裝置。請選擇要使用哪一個。
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-device-blocked-prompt = { $hostname } 的使用者驗證失敗。由於輸入了太多次錯誤的 PIN 碼，無法再嘗試登入。您的裝置已經鎖定，需要重設之後才可以再使用。

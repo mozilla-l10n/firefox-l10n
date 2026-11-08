@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
-# This file gets parsed into a JS dictionary of all known error message ids in
-# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
-# refactoring them in some way, the script will need updating.
-
 psmerr-ssl-disabled = 無法安全連線，因為 SSL 通訊協定已停用。
 psmerr-ssl2-disabled = 無法安全連線，因為該網站使用舊版、不安全的 SSL 通訊協定。
 # This is a multi-line message.
@@ -182,7 +176,7 @@ sec-error-cert-valid = 此憑證有效。
 sec-error-cert-not-valid = 此憑證無效。
 sec-error-cert-no-response = 憑證函式庫: 無回應
 sec-error-expired-issuer-certificate = 憑證簽發者的憑證已過期，請檢查您的系統日期及時間。
-sec-error-crl-expired = 憑證簽發者的已過期，請更新廢止清冊或檢查您的系統日期及時間。
+sec-error-crl-expired = 憑證簽發者的憑證廢止清冊已過期，請更新廢止清冊或檢查您的系統日期及時間。
 sec-error-crl-bad-signature = 憑證簽發者的廢止清冊簽章無效。
 sec-error-crl-invalid = 新憑證廢止清冊的格式無效。
 sec-error-extension-value-invalid = 憑證擴充欄位的值無效。
@@ -193,7 +187,7 @@ sec-error-cert-usages-invalid = 憑證使用的欄位無效。
 sec-internal-only = **專供內部使用的模組**
 sec-error-invalid-key = 金鑰不支援所請求的操作。
 sec-error-unknown-critical-extension = 憑證含未知的 Critical 擴充欄位。
-sec-error-old-crl = 新憑證廢止清冊不能比目前的清冊還晚。
+sec-error-old-crl = 新憑證廢止清冊並未比目前的清冊還新。
 sec-error-no-email-cert = 未加密或簽署: 您尚未擁有 Email 憑證。
 sec-error-no-recipient-certs-query = 未加密：您尚未擁有每位收件者的憑證。
 sec-error-not-a-recipient = 無法解密: 您不是收件人或是找不到相符的憑證或私密金鑰。
@@ -250,11 +244,11 @@ sec-error-js-invalid-module-name = 模組名稱無效。
 sec-error-js-invalid-dll = 模組路徑╱檔名無效。
 sec-error-js-add-mod-failure = 無法新增模組
 sec-error-js-del-mod-failure = 無法刪除模組
-sec-error-old-krl = 新金鑰廢止清冊不能比目前的清冊還晚。
+sec-error-old-krl = 新金鑰廢止清冊並未比目前的清冊還新。
 sec-error-ckl-conflict = 新洩漏金鑰清冊和目前的清冊簽發者不同，請刪除目前的洩漏金鑰清冊。
 sec-error-cert-not-in-name-space = 此憑證的憑證機構不允許用此名稱簽發憑證。
-sec-error-krl-not-yet-valid = 此憑證的金鑰廢止清冊尚未驗證。
-sec-error-crl-not-yet-valid = 此憑證的憑證廢止清冊尚未驗證。
+sec-error-krl-not-yet-valid = 此憑證的金鑰廢止清冊尚未生效。
+sec-error-crl-not-yet-valid = 此憑證的憑證廢止清冊尚未生效。
 sec-error-unknown-cert = 找不到請求的憑證。
 sec-error-unknown-signer = 找不到簽署者的憑證。
 sec-error-cert-bad-access-location = 憑證狀態伺服器位置的格式無效。

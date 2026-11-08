@@ -170,7 +170,7 @@ certerror-intro = { -brand-short-name } 偵測到可能有安全性風險，並�
 certerror-sts-intro = { -brand-short-name } 偵測到潛在的安全性威脅，並未連線到 <b>{ $hostname }</b>。此網站必須使用安全性連線。
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = { -brand-short-name } 偵測到潛在的安全性威脅，並未連線到 <b>{ $hostname }</b>。此網站可能有設定問題，或您的電腦上的時間不正確。
+certerror-expired-cert-intro = { -brand-short-name } 偵測到問題，並未連線到 <b>{ $hostname }</b>。此網站可能設定錯誤，或是您電腦的時間不正確。
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
