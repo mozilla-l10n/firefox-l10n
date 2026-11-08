@@ -85,7 +85,7 @@ neterror-load-error-try-again = 該網站可能暫時無法使用或太過忙碌
 neterror-load-error-connection = 若無法載入任何網站，請檢查您的網路連線狀態。
 neterror-load-error-firewall = 若電腦或網路被防火牆或 Proxy 保護，請確定 { -brand-short-name } 被允許存取網路。
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
-neterror-load-osx-permission = 若您要開啟的本地區域網路頁面，請確認已經在 macOS 的「隱私權與安全性」選項當中，授權 { -brand-short-name } 存取本地網路權限。
+neterror-load-osx-permission = 若您要開啟的是區域網路頁面，請確認已經在 macOS 的「隱私權與安全性」選項當中，授權 { -brand-short-name } 存取本地網路權限。
 neterror-http-error-page = 請檢查是否正確輸入網址。
 neterror-http-empty-response = 請檢查您輸入的網址是否正確，並稍後再試。
 # Variables:
@@ -113,11 +113,11 @@ neterror-dns-not-found-offline-hint-reconnect = 中斷，然後重新連線到 W
 
 neterror-loopback-refused-not-running = 沒有服務於通訊埠 { $port } 接受連線，請確認本機伺服器是否正在執行。
 # "it" is the local server that the user is trying to reach.
-neterror-loopback-refused-wrong-port = 若正在執行中，請確認該伺服器是否使用 { $port }。
+neterror-loopback-refused-wrong-port = 若正在執行中，請確認該伺服器是否使用通訊埠 { $port }。
 # "this address" is the IP address of the page that failed to load, for example
 # 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
 # and 127.0.0.1 in the text.
-neterror-loopback-refused-address = 請確認伺服器是否接受對位置的連線。部分伺服器僅監聽 [::1] 或 127.0.0.1。
+neterror-loopback-refused-address = 請確認伺服器是否接受對此位置的連線。部分伺服器僅監聽 [::1] 或 127.0.0.1。
 
 ## TRR-only specific messages
 ## Variables:

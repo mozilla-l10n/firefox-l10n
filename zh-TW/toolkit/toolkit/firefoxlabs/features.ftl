@@ -34,8 +34,8 @@ experimental-features-link-previews =
     .label = 鏈結預覽
 experimental-features-link-previews-description =
     { PLATFORM() ->
-        [macos] 若要在點擊鏈結前先了解網頁內容，請將滑鼠停留在鏈結上，然後按下 Shift (⇧) 與 Option (⌥) 或 Alt 鍵。預覽內容可會包含網頁標題、閱讀時間等詳細資訊。AI 還可以針對部分頁面閱讀網頁內容、整理重點資訊。AI 是針對閱讀與產生英文內容進行最佳化，而為了保護隱私，此 AI 是在您的電腦本機內運作，<a data-l10n-name="connect">歡迎提供意見回饋</a>。
-       *[other] 若要在點擊鏈結前先了解網頁內容，請將滑鼠停留在鏈結上，然後按下 Shift+Alt 鍵。預覽內容可會包含網頁標題、閱讀時間等詳細資訊。AI 還可以針對部分頁面閱讀網頁內容、整理重點資訊。AI 是針對閱讀與產生英文內容進行最佳化，而為了保護隱私，此 AI 是在您的電腦本機內運作，<a data-l10n-name="connect">歡迎提供意見回饋</a>。
+        [macos] 若要在點擊鏈結前先了解網頁內容，請將滑鼠停留在鏈結上，然後按下 Shift (⇧) 與 Option (⌥) 或 Alt 鍵。預覽內容可能會包含網頁標題、閱讀時間等詳細資訊。AI 還可以針對部分頁面閱讀網頁內容、整理重點資訊。AI 是針對閱讀與產生英文內容進行最佳化，而為了保護隱私，此 AI 是在您的電腦本機內運作，<a data-l10n-name="connect">歡迎提供意見回饋</a>。
+       *[other] 若要在點擊鏈結前先了解網頁內容，請將滑鼠停留在鏈結上，然後按下 Shift+Alt 鍵。預覽內容可能會包含網頁標題、閱讀時間等詳細資訊。AI 還可以針對部分頁面閱讀網頁內容、整理重點資訊。AI 是針對閱讀與產生英文內容進行最佳化，而為了保護隱私，此 AI 是在您的電腦本機內運作，<a data-l10n-name="connect">歡迎提供意見回饋</a>。
     }
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
@@ -49,9 +49,9 @@ experimental-features-newtab-sections-follow-block =
 experimental-features-newtab-sections-follow-block-description = 將「新分頁」頁面中的文章整理成不同主題區塊（體育、美食、娛樂等），讓您獲得更有條理的上網體驗。使用全新的關注或封鎖元件來自訂您要看到的內容。<a data-l10n-name="connect">分享意見回饋</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
-    .label = 將網站新增至工具列
+    .label = 將網站新增至工作列
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
-experimental-features-fx-web-apps-description = 將您常造訪的網站放置於工具列，以網頁應用程式方式開啟。可尋找網址列右方的「將分頁新增至工具列」圖示，即可以流線化的視窗開啟該網站，並依然獲得 { -brand-product-name } 的所有保護機制。<a data-l10n-name="connect">分享意見回饋</a>
+experimental-features-fx-web-apps-description = 將您常造訪的網站放置於工作列，以網頁應用程式方式開啟。可尋找網址列右方的「將分頁新增至工作列」圖示，即可以流線化的視窗開啟該網站，並依然獲得 { -brand-product-name } 的所有保護機制。<a data-l10n-name="connect">分享意見回饋</a>
 
 ## New Tab Productivity Widgets
 
@@ -66,11 +66,11 @@ experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name } 當中的計時器
 experimental-features-newtab-widget-timer-new =
     .label = 計時器
-experimental-features-newtab-widget-timer-description = 設定計時器讓您保持專心，並且搖晃視窗請您保持進度，或提醒該小歇一下了。<a data-l10n-name="connect">分享意見回饋</a>
+experimental-features-newtab-widget-timer-description = 設定計時器讓您保持專心，並且提醒您保持進度，或提醒該小歇一下了。<a data-l10n-name="connect">分享意見回饋</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name }當中的清單與計時器
-experimental-features-newtab-widget-lists-and-timer-description = 開啟新分頁時自動列出待辦清單，不論是要打包的項目，還是購物清單都可以在 { -brand-product-name } 當中安排。設定計時器讓您保持專心，並且搖晃視窗請您保持進度，或提醒該小歇一下了。<a data-l10n-name="connect">分享意見回饋</a>
+experimental-features-newtab-widget-lists-and-timer-description = 開啟新分頁時自動列出待辦清單，不論是要打包的項目，還是購物清單都可以在 { -brand-product-name } 當中安排。設定計時器讓您保持專心，並且提醒您保持進度，或提醒該小歇一下了。<a data-l10n-name="connect">分享意見回饋</a>
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = 天氣預報

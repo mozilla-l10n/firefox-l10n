@@ -22,15 +22,15 @@ permission-dialog-description-system-app = 要使用 { $appName } 開啟 { $sche
 permission-dialog-description-system-noapp = 要開啟 { $scheme } 鏈結嗎？
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
-    .heading = 要允許這個網站開啟您的數位錢包嗎嗎？
+    .heading = 要允許這個網站開啟您的數位錢包嗎？
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host-app = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓 <strong>{ $host }</strong> 能夠透過 <strong>{ $appName }</strong> 獲得您的真實身分資料。只有在您信任此網站時才繼續。
+wallet-custom-scheme-warning-host-app = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓 <strong>{ $host }</strong> 能夠透過 <strong>{ $appName }</strong> 要求取得您的真實身分資料。只有在您信任此網站時才繼續。
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-app = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓此網站透過 <strong>{ $appName }</strong> 獲得您的真實身分資料。只有在您信任此網站時才繼續。
+wallet-custom-scheme-warning-app = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓此網站透過 <strong>{ $appName }</strong> 要求取得您的真實身分資料。只有在您信任此網站時才繼續。
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓 <strong>{ $host }</strong> 能夠透過您的數位錢包獲得您的真實身分資料。只有在您信任此網站時才繼續。
+wallet-custom-scheme-warning-host = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓 <strong>{ $host }</strong> 能夠透過您的數位錢包要求取得您的真實身分資料。只有在您信任此網站時才繼續。
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓此網站透過您的數位錢包獲得您的真實身分資料。只有在您信任此網站時才繼續。
+wallet-custom-scheme-warning = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓此網站透過您的數位錢包要求取得您的真實身分資料。只有在您信任此網站時才繼續。
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -59,8 +59,8 @@ permission-dialog-set-change-app-link = 選擇另一套應用程式。
 ##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
-    .title = 選擇應用程式
     .style = min-width: 26em; min-height: 26em;
+    .title = 選擇應用程式
 chooser-dialog =
     .buttonlabelaccept = 開啟鏈結
     .buttonaccesskeyaccept = O
@@ -85,8 +85,8 @@ choose-dialog-privatebrowsing-disabled = 已於隱私瀏覽視窗停用
 ## web mail service (or the OS default app) should handle email links.
 
 mailto-handler-picker-window =
-    .title = 選擇您的電子郵件軟體
     .style = min-width: 26em; min-height: 26em;
+    .title = 選擇您的電子郵件軟體
 mailto-handler-picker-subtitle = 請挑選您要用來開啟電子郵件鏈結的應用程式，之後可以隨時在「設定」中更換。
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.

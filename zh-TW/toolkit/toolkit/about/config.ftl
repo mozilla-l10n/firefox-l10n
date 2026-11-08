@@ -7,7 +7,7 @@
 
 about-config-intro-warning-title = 調整設定前請務必小心！
 about-config-intro-warning-text = 調整進階設定，可能會影響 { -brand-short-name } 的效能或安全性。
-about-config-intro-warning-checkbox = 當我嘗試修改偏好設定時警告我
+about-config-intro-warning-checkbox = 當我嘗試存取這些偏好設定時警告我
 about-config-intro-warning-button = 接受風險並繼續
 
 ##

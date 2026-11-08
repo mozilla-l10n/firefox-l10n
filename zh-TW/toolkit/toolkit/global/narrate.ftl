@@ -11,13 +11,13 @@
 # Label for the toolbar button opening the read aloud menu.
 narrate-toggle-label = 大聲朗讀（{ $shortcut }）
 narrate-skip-previous =
-    .title = 上一頁（{ $shortcut }）
+    .title = 上一段（{ $shortcut }）
 narrate-start =
     .title = 啟動（{ $shortcut }）
 narrate-stop =
     .title = 結束（{ $shortcut }）
 narrate-skip-next =
-    .title = 下一頁（{ $shortcut }）
+    .title = 下一段（{ $shortcut }）
 
 ##
 

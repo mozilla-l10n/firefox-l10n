@@ -127,7 +127,7 @@ webext-site-perms-description-gated-perms-webserial =
     
     您將可以選擇網站可以存取哪些裝置。
     
-    一般來說，不應允許網站存取序列埠裝置。不正確使用可能會造成損畫，或影響安全性。
+    一般來說，不應允許網站存取序列埠裝置。不正確使用可能會造成損壞，或影響安全性。
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

@@ -80,7 +80,7 @@ fp-certerror-revoked-what-can-you-do-body = 由於這通常是網站的設定問
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = 此網站設定只接受安全連線，但網站的憑證有問題。這可能是因為有惡意的第三人正嘗試假扮為該網站。網站會透過憑證機構簽發的憑證來證明自己的身分，但由於 { $hostname } 提供的憑證無效， { -brand-short-name } 無法信任此網站。此網站使用的憑證，僅對下列網址有效：{ $validHosts }。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-bad-domain-what-can-you-do-body = 由於這通常是網站的設定問題，可能沒什麼能做的。網站會透過憑證機構簽發的憑證來證明自己的身分，但您如果使用的是企業網路，貴公司的技術支援單位可能有更多資訊；若您有使用防毒軟體，也可以搜尋看看該軟體是否會造成衝突或有已支的問題。
+fp-certerror-bad-domain-what-can-you-do-body = 由於這通常是網站的設定問題，可能沒什麼能做的。網站會透過憑證機構簽發的憑證來證明自己的身分，但您如果使用的是企業網路，貴公司的技術支援單位可能有更多資訊；若您有使用防毒軟體，也可以搜尋看看該軟體是否會造成衝突或有已知的問題。
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

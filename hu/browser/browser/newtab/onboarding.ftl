@@ -660,6 +660,7 @@ hnt-card-wallpaper-header = Válasszon friss háttérképet
 hnt-card-wallpaper-body = Tegye otthonossá ezt a képernyőt egy Önnek tetsző háttérrel.
 hnt-card-wallpaper-primary-button = Testreszabás megkezdése
 hnt-card-taskbar-tabs-header = Adja hozzá kedvenc oldalait a Windows tálcához
+hnt-card-taskbar-tabs-body = Nyissa meg a leglátogatottabb webhelyeit, mint egy alkalmazás, amely a { -brand-product-name } összes védelmével rendelkezik.
 hnt-card-taskbar-tabs-primary-button = Webhelyek hozzáadása a tálcához
 hnt-card-extensions-header = Tuningolja fel a { -brand-short-name }ot kiegészítőkkel
 hnt-card-extensions-body = Szabja testre a böngészését a legkedveltebb kiegészítőinkkel.
