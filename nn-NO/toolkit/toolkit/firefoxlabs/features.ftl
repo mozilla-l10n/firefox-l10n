@@ -95,3 +95,4 @@ experimental-features-tab-notes-description = Fanenotat er ein eksperimentell fu
 experimental-features-tab-context-menu =
     .label = Forenkla fanemeny
 experimental-features-tab-context-menu-description = Sjå ein enklare kontekstmeny når du høgreklikkar på ei fane. Den er utforma for å gjere vanlege handlingar enklare å finne. <a data-l10n-name="connect">Del tilbakemeldingar</a>
+experimental-features-resource-monitor-description = Sjå estimert minne- og CPU-bruk for opne faner rett i sidestolpen, og fjern faner du ikkje brukar for å frigjere ressursar. <a data-l10n-name="connect">Del tilbakemeldingar</a>

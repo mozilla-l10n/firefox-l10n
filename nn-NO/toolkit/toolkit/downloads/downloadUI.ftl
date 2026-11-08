@@ -40,6 +40,12 @@ download-ui-cancel-downloads-ok =
        *[other] Avbryt { $downloadsCount } nedlastingar
     }
 download-ui-confirm-cancel-button = Avbryt
+download-ui-confirm-quit-message = { -brand-short-name } vil prøve å halde fram nedlastingane når programmet blir opna igjen, men framdrifta kan gå tapt.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Avslutt { -brand-short-name }
+       *[other] Avslutt { -brand-short-name }
+    }
 
 ##
 
