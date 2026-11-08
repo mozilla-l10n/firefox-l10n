@@ -18,6 +18,30 @@ about-processes-shutdown-tab =
     .title = Lap bezárása
 about-processes-unload-tab =
     .title = Lap kiürítése
+about-processes-reload-tab =
+    .title = Lap újratöltése
+about-processes-select-all-tabs =
+    .title = Összes lap kiválasztása
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = A webhely lapjainak kibontása
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = A webhely lapjainak összecsukása
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = A(z) { $site } lapjainak kiürítése
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = A(z) { $site } lapjainak újratöltése
+about-processes-expand-all-sites =
+    .title = Összes kinyitása
+about-processes-collapse-all-sites =
+    .title = Összes összecsukása
 about-processes-go-to-tab =
     .title = Ugrás a lapra
 # Profiler icons
@@ -38,6 +62,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Lapok keresése
     .placeholder = Lapok keresése
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Nincs a(z) „{ $query }” keresésnek megfelelő lap
 
 ## Column headers
 

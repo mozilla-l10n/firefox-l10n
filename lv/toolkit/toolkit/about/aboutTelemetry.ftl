@@ -15,10 +15,12 @@ about-telemetry-option-group-older = Vecāks
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrijas dati
+about-telemetry-current-store = Pašreizējā krātuve:
 about-telemetry-more-information = Meklējat papildu informāciju?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox datu dokumentācijā</a> ir norādes par to kā strādāt ar mūsu datu rīkiem.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox telemetrijas klienta dokumentācijā</a> ir konceptu definīcijas, API dokumentācija un datu atsauces.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetrijas paneļi</a> ļauj vizualizēt Mozilla saņemtos telemetrijas datus.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Zondēšanas vārdnīcā</a> ir sniegta detalizēta informācija un apraksti par Telemetrijas apkopotajām zondēšanas datiem.
 about-telemetry-show-in-Firefox-json-viewer = Atvērt ar JSON pārlūku
 about-telemetry-home-section = Sākums
 about-telemetry-general-data-section = Vispārējie dati
@@ -54,6 +56,17 @@ about-telemetry-upload-type =
         [enabled] aktivēta
        *[disabled] deaktivēta
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } paraugs, vidējais = { $prettyAverage }, summa = { $sum }
+        [zero] { $sampleCount } paraugi, vidējais rādītājs = { $prettyAverage }, summa = { $sum }
+       *[other] { $sampleCount } paraugi, vidējais rādītājs = { $prettyAverage }, summa = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Šī lapa attēlo veiktspējas un funkciju izmantojuma statistiku, kas apkopota ar Telemetry moduļa palīdzību. Šī informācija tiek anonīmi nosūtīta { $telemetryServerOwner }, lai palīdzētu uzlabot { -brand-full-name }.
@@ -62,6 +75,7 @@ about-telemetry-settings-explanation = Telemetrija vāc { about-telemetry-data-t
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Katra informācijas vienība ir iepakota “<a data-l10n-name="ping-link">pings</a>”. Jūs skatāties uz { $name } { $timestamp } pingu.
+about-telemetry-data-details-current = Katra informācijas vienība tiek nosūtīta apkopota “<a data-l10n-name="ping-link">pings</a>“. Jūs skatāties pašreizējos datus.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -86,6 +100,8 @@ about-telemetry-no-search-results-all = Atvainojamies! Nevienā sadaļā nav nek
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Diemžēl šobrīd sadaļā “{ $sectionName }” dati nav pieejami
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = pašreizējie dati
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = visi
 # button label to copy the histogram
@@ -116,3 +132,6 @@ about-telemetry-category-header = kategorija
 about-telemetry-method-header = veids
 about-telemetry-object-header = objekts
 about-telemetry-extra-header = papildu
+# Variables:
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } process

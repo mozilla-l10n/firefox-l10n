@@ -143,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Ismétlődő lapok bezárása
     .accesskey = I
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Lapok duplikálása
+    .accesskey = d
 tab-context-close-duplicate-tabs2 =
     .label = Lap másolatainak bezárása
     .accesskey = z
@@ -159,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Új csoport
     .accesskey = j
+tab-context-add-tab-to-group-new-group =
+    .label = Új csoport
+tab-context-add-tab-to-group-closed-groups =
+    .label = Bezárt csoportok
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -196,6 +204,15 @@ tab-context-move-tabs =
         }
     .accesskey = h
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Áthelyezés
+            [one] { $tabCount } lap áthelyezése
+           *[other] { $tabCount } lap áthelyezése
+        }
+    .accesskey = l
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -208,6 +225,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Osztott nézet áthelyezése
     .accesskey = n
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Lapok áthelyezése
+    .accesskey = h
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

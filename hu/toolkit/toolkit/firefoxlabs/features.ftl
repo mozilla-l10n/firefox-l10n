@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Lásson egy egyszerűbb hel
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Erőforrás-figyelő
+experimental-features-resource-monitor-description = Tekintse meg a becsült memória- és CPU-használatot a nyitott lapoknál közvetlenül az oldalsávban, és ürítse ki a nem használt lapokat, hogy erőforrásokat szabadítson fel. <a data-l10n-name="connect">Visszajelzés megosztása</a>
