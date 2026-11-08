@@ -19,7 +19,7 @@ customize-menu-add-to-overflowmenu =
 ## Forget Button
 
 # The forget button can be added to the toolbar or overflow menu via the customization menu.
-panic-button-thankyou-msg1 = Jo resinte skiednis is wiskje.
+panic-button-thankyou-msg1 = Jo resinte skiednis is wiske.
 panic-button-thankyou-msg2 = Feilich sneupe!
 panic-button-thankyou-button =
     .label = Tankewol!

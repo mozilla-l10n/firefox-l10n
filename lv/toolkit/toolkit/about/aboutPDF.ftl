@@ -2,10 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-pdf-title = { -brand-short-name } PDF redaktors
+about-pdf-header = { -brand-short-name } PDF
+about-pdf-tagline = Bezmaksas rīks lasīšanai, apvienošanai, parakstīšanai, komentēšanai un citām darbībām — ar iebūvētu privātumu
 about-pdf-features-cta =
     .label = Izpēti PDF rīkus
+about-pdf-dropzone =
+    .title = Lai sāktu, šeit nometiet PDF failu vai nospiediet taustiņu Enter.
+about-pdf-dropzone-hint = Lai sāktu, šeit ievietojiet PDF failu
+about-pdf-dropzone-privacy-hint = Faili jūsu ierīcē paliek privāti.
+about-pdf-dropzone-invalid-file = Šis fails netiek atbalstīts. Lai turpinātu, izvēlieties PDF failu.
+about-pdf-dropzone-error-generic = Augšupielāde neizdevās. Mēģiniet vēlreiz vēlāk.
+about-pdf-browse-files =
+    .label = Pārlūkot failus
 # Title of the system file picker opened by the “Browse files” button.
 about-pdf-file-picker-title = Atvērt PDF
+about-pdf-promo =
+    .heading = Padariet { -brand-short-name } par savu iecienītāko PDF redaktoru
+    .message = Atveriet PDF failus programmā { -brand-short-name } un vienuviet apstrādājiet pamatfunkcijas, sākot no iezīmējumiem un parakstiem līdz apvienotiem failiem un komentāriem.
+about-pdf-set-default =
+    .label = Iestatīt pēc noklusējuma
+about-pdf-dismiss =
+    .label = Noraidīt
 
 ## The about:pdf#features page.
 

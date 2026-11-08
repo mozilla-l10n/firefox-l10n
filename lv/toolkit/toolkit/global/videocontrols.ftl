@@ -28,6 +28,9 @@ videocontrols-casting-button-label =
 # as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Izslēgts
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Attēls attēlā
 videocontrols-error-aborted = Video ielāde apturēta.
 videocontrols-error-network = Video atskaņošana apturēta tīkla kļūmes dēļ.
 videocontrols-error-decode = Video nevar atskaņot, jo datne ir bojāta.

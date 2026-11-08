@@ -32,6 +32,9 @@ user-context-shopping2 =
 user-context-manage-containers =
     .label = Pārvaldīt konteinerus
     .accesskey = O
+user-context-new-tab =
+    .label = Jauna cilne
+    .accesskey = N
 user-context-new-tab2 =
     .label = Jauna cilne
 user-context-add-container2 =
@@ -46,6 +49,8 @@ user-context-manage-containers2-panel-item = Pārvaldīt konteinerus
 
 user-context-color-blue =
     .label = Zils
+user-context-color-cyan =
+    .label = Gaišzils
 user-context-color-green =
     .label = Zaļš
 user-context-color-yellow =
@@ -58,6 +63,10 @@ user-context-color-pink =
     .label = Rozā
 user-context-color-purple =
     .label = Purpura
+user-context-color-violet =
+    .label = Violeta
+user-context-color-gray =
+    .label = Pelēka
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.

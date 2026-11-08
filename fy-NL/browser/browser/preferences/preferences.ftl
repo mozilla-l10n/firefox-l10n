@@ -170,9 +170,9 @@ preferences-data-migration-button =
 preferences-profiles-group-header =
     .heading = Profilen
 preferences-profiles-subpane-description =
-    .description = Elk profyl hat aparte navigaasjejegegevens en -ynstellingen, wêrûnder skiednis, wachtwurden en mear.
+    .description = Elk profyl hat aparte navigaasjegegevens en -ynstellingen, wêrûnder skiednis, wachtwurden en mear.
 preferences-profiles-section-header =
-    .description = Elk profyl hat aparte navigaasjejegegevens en -ynstellingen, wêrûnder skiednis, wachtwurden en mear.
+    .description = Elk profyl hat aparte navigaasjegegevens en -ynstellingen, wêrûnder skiednis, wachtwurden en mear.
     .label = Profilen
 preferences-manage-profiles-button =
     .label = Profilen beheare
@@ -295,7 +295,7 @@ page-navigation-group =
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = Taal en úterlik
+language-and-appearance-header = Taal en uterlik
 appearance-group2 =
     .description = Guon websites wizigje harren kleuren om har oan jo foarkarren oan te passen. Kies jo kleureskema.
     .label = Uterlik fan de website
@@ -492,7 +492,7 @@ download-private-browsing-delete2 =
 applications-header = Applikaasjes
 applications-description = Kieze hoe’t { -brand-short-name } omgiet mei de bestannen dy’t jo fan it web downloade of de tapassingen dy’t jo wylst it sneupen brûke.
 applications-setting2 =
-    .description = Kies hoe { -brand-short-name } omgiet mei downloade bestannen en ynhâld.
+    .description = Kies hoe’t { -brand-short-name } omgiet mei downloade bestannen en ynhâld.
     .label = Bestannen en tapassingen
 applications-filter =
     .placeholder = Bestânstypen of tapassingen sykje
@@ -656,7 +656,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limyt fan ynhâldsprosessen
     .accesskey = L
 performance-limit-content-process-enabled-desc = Ekstra ynhâldsprosessen kinne de prestaasjes by it gebrûk fan mear ljepblêden ferbetterje, mar sille ek mear ûnthâld brûke.
-performance-limit-content-process-blocked-desc = Oanpassen fan it oantal ynhâldsprosessen is allinnich mooglik mei multiproses-{ -brand-short-name }. <a data-l10n-name="learn-more">Ynformaasje oer it kontrolearjen of multiproses ynskeakele is</a>
+performance-limit-content-process-blocked-desc = Oanpassen fan it oantal ynhâldsprosessen is allinnich mooglik mei multiproses-{ -brand-short-name }. <a data-l10n-name="learn-more">Ynformaasje oer it kontrolearjen oft multiproses ynskeakele is</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -1060,7 +1060,7 @@ account-placeholder2 =
     .description = Meld jo oan en hâld jo gegevens privee, fersifere en daliks tagonklik, oeral wêr’t jo { -brand-short-name } brûke.
     .label = Jo binne net oanmeld
 account-sync-section =
-    .heading = Accoant en syngronisaasje
+    .heading = Account en syngronisaasje
 pane-account-sync-title2 = Account en syngronisaasje
     .title = Account en syngronisaasje
 

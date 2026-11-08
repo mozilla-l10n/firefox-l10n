@@ -27,6 +27,8 @@ neterror-return-to-previous-page-button = Doties atpakaļ
 neterror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams)
 neterror-try-again-button-2 = Mēģināt vēlreiz
     .accesskey = M
+neterror-add-exception-button = Vienmēr turpināt šajā vietnē
+neterror-settings-button = Mainīt DNS iestatījumus
 neterror-view-certificate-link = Apskatīt sertifikātu
 
 ## Search call-to-action shown on the online dnsNotFound error page when
@@ -68,14 +70,27 @@ neterror-search-cta-learn-more = Uzzināt vairāk
 
 neterror-pref-reset = Izskatās, ka šo varētu izraisīt tīkla drošības iestatījumi. Vai atjaunot noklusējuma iestatījumus?
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Jūsu savienojums, iespējams, nav privāts
+    .message = Lietotne vai pakalpojums var redzēt jūsu šifrēto datplūsmu no šīs vietnes.
+
 ## Specific error messages
 
 neterror-generic-error = Kāda nezināma iemesla dēļ { -brand-short-name } nevar atvērt šo lapu.
 neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai pārāk aizņemta. Pēc kāda brīža jāmēģina vēlreiz.
 neterror-load-error-connection = Ja nevar ielādēt nevienu lapu, jāpārbauda datora savienojums ar tīklu.
 neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Ja mēģināt ielādēt lokālā tīkla lapu, lūdzu, pārbaudiet, vai macOS konfidencialitātes un drošības iestatījumos vietnei { -brand-short-name } ir piešķirtas lokālā tīkla atļaujas.
 neterror-http-error-page = Pārliecinies, ka pareizi ievadīji tīmekļvietnes adresi!
 neterror-http-empty-response = Pārliecinies, ka pareizi ievadīji tīmekļvietnes adresi, un pēc brīža mēģini vēlreiz!
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } nosūtīja atpakaļ tukšu lapu.
 neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -87,6 +102,9 @@ neterror-dns-not-found-hint-firewall = Pārliecināties, ka { -brand-short-name 
 neterror-dns-not-found-hint-check-network-2 = Pārbaudīt savienojumu ar internetu.
 neterror-dns-not-found-hint-firewall-2 = Pārliecināties, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra).
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
+neterror-dns-not-found-offline-hint-different-device = Mēģiniet izveidot savienojumu citā ierīcē.
+neterror-dns-not-found-offline-hint-modem = Pārbaudiet modemu vai maršrutētāju.
+neterror-dns-not-found-offline-hint-reconnect = Atvienojiet un atkārtoti pievienojiet Wi-Fi savienojumu.
 
 ## Hints shown, as one list of steps, when a connection to this computer
 ## (localhost) is refused.
@@ -100,6 +118,17 @@ neterror-loopback-refused-wrong-port = Ja tas darbojas, jāpārliecinās, ka tas
 # 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
 # and 127.0.0.1 in the text.
 neterror-loopback-refused-address = Jāpārliecinās, ka serveris šajā adresē pieņem savienojumus. Daži serveri klausās tikai [::1] vai tikai 127.0.0.1.
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nevar aizsargāt jūsu pieprasījumu pēc šīs vietnes adreses, izmantojot mūsu drošo DNS pakalpojumu sniedzēju. Lūk, kāpēc:
+neterror-dns-not-found-trr-third-party-warning2 = Varat turpināt lietot savu noklusējuma DNS risinātāju. Tomēr trešā puse, iespējams, varēs redzēt, kuras vietnes jūs apmeklējat.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } nevarēja izveidot savienojumu ar { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Savienojums ar { $trrDomain } aizņēma ilgāku laiku nekā paredzēts.
+neterror-dns-not-found-trr-unknown-host2 = Šī vietne netika atrasta, izmantojot { $trrDomain }.
 
 ##
 

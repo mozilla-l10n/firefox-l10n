@@ -129,11 +129,19 @@ certerror-mitm-title = Programmatūra neļauj { -brand-short-name } droši izvei
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Brīdinājums: Drošības risks
 fp-certerror-body-title = Uzmanīgi! Kaut kas neizskatās pareizi.
 fp-certerror-why-site-dangerous = Kas liek šai vietnei izskatīties bīstamai?
 fp-certerror-what-can-you-do = Ko ar šo var iesākt?
+fp-certerror-advanced-title = Papildu
+fp-certerror-advanced-button = Paplašināti
+fp-certerror-hide-advanced-button = Slēpt papildu
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-intro = { -brand-short-name } noteica iespējami nopietnu drošības starpgadījumu ar <strong>{ $hostname }</strong>. Kāds, kas uzdodas par šo vietni, var mēģināt nozagt tādu informāciju kā maksājumu karšu datus, paroles vai e-pasta adreses.
+fp-certerror-expired-into = { -brand-short-name } atklāja drošības problēmu ar <strong>{ $hostname }</strong>. Vai nu vietne nav pareizi iestatīta, vai arī jūsu ierīces pulkstenis ir iestatīts uz nepareizu datumu/laiku.
+fp-certerror-transparency-intro = Kāds, kas izliekas par <strong>{ $hostname } </strong>, varētu mēģināt nozagt tādas lietas kā kredītkaršu informāciju, paroles vai epasta adreses.
+fp-certerror-override-exception-button-2 = Pāriet uz { $hostname } (riskanti)
+    .accesskey = P

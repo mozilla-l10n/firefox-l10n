@@ -41,7 +41,7 @@ appearance-browser-icon-requirement =
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =
-    .message = Jo hawwe alle bonupsiktogrammen ûntskoattele!
+    .message = Jo hawwe alle bonuspiktogrammen ûntskoattele!
 appearance-browser-icon-set-default-button =
     .label = Ynstelle as standert
 appearance-browser-icon-pin-button =
