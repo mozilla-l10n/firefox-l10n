@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Skupiny kariet môžete kedykoľ
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Skupiny kariet môžete kedykoľvek znova otvoriť z ponuky Zoznam všetkých kariet.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Skupiny kariet sa ukladajú automaticky. Nájdete ich v tejto ponuke.
 
 ## Multi Profiles feature onboarding messages
 

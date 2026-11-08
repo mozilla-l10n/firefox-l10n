@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = Opýtať sa { $provider }
 genai-menu-new-badge = Novinka
 genai-menu-summarize-page = Vytvor súhrn stránky
+genai-menu-summarize-with-ai = Vytvoriť súhrn pomocou umelej inteligencie
 genai-input-ask-smart-window =
     .placeholder = Opýtať sa…
 genai-input-ask-generic =
     .placeholder = Opýtať sa chatbota s umelou inteligenciou…
+genai-input-ask-ai =
+    .placeholder = Opýtať sa umelej inteligencie…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Opýtať sa { $provider }…

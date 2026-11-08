@@ -143,9 +143,9 @@ profiles-blue-theme-title =
 profiles-green-theme = Zelená
 profiles-green-theme-title =
     .title = Použiť zelenú tému
-profiles-cyan-theme = Azúrová
+profiles-cyan-theme = Tyrkysová
 profiles-cyan-theme-title =
-    .title = Použiť azúrovú tému
+    .title = Použiť tyrkysovú tému
 profiles-custom-theme-title =
     .title = Použiť vlastnú tému
 

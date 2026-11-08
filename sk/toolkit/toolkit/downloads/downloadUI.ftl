@@ -49,6 +49,7 @@ download-ui-cancel-downloads-ok =
         [few] Áno, zrušiť sťahovanie { $downloadsCount } súborov
        *[other] Áno, zrušiť sťahovanie { $downloadsCount } súborov
     }
+download-ui-confirm-cancel-button = Zrušiť
 
 ##
 

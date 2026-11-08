@@ -1001,8 +1001,14 @@ urlbar-view-context-menu-open-in-window2 = Otvoriť v novom okne
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Otvoriť v novom súkromnom okne
     .accesskey = s
+urlbar-view-context-menu-search-in-tab = Vyhľadať na novej karte
+    .accesskey = r
 urlbar-view-context-menu-search-in-container-tab = Hľadať v novej karte v kontajneri
     .accesskey = H
+urlbar-view-context-menu-search-in-window = Vyhľadať v novom okne
+    .accesskey = n
+urlbar-view-context-menu-search-in-private-window = Vyhľadať v novom súkromnom okne
+    .accesskey = s
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

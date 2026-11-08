@@ -10,7 +10,7 @@ non-technical-privacy-group =
 do-not-track-removal3 =
     .message = Funkcia “Nesledovať” (Do Not Track) už nie je podporovaná
 non-technical-privacy-heading =
-    .label = Dodatočná ochrana
+    .label = Ďalšie prvky ochrany
 preferences-privacy-relay-available =
     .description = Skryje vašu skutočnú e‑mailovú adresu, aby chránila vašu schránku pred spamom.
     .label = Navrhovať e‑mailové masky služby { -relay-brand-name }
@@ -1326,7 +1326,7 @@ forms-saved-passwords-2 =
 forms-saved-passwords-searchkeywords = Nasledujúce prihlasovacie údaje boli uložené do vášho počítača
 # Header for additional protections when managing password settings.
 forms-additional-protections-header =
-    .label = Dodatočná ochrana
+    .label = Ďalšie prvky ochrany
 forms-primary-pw-use =
     .label = Používať hlavné heslo
     .accesskey = h

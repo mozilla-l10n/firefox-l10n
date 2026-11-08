@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Kopírovať adresu URL karty
 customkeys-file-focus-search = Prejsť do vyhľadávacieho panela
 customkeys-history-reopen-tab = Znova otvoriť poslednú zatvorenú kartu
 customkeys-history-reopen-window = Znova otvoriť posledné zatvorené okno
+customkeys-history-reopen-tab-current-window = Znova otvoriť naposledy zatvorenú kartu v aktuálnom okne
 customkeys-sidebar-toggle = Prepnúť bočný panel
 customkeys-view-bookmarks-toolbar = Prepnúť panel s nástrojmi Záložky
 customkeys-view-picture-in-picture = Obraz v obraze

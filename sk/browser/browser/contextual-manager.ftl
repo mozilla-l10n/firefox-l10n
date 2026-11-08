@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importovať z iného 
 contextual-manager-passwords-command-import = Importovať zo súboru…
 contextual-manager-passwords-command-export = Exportovať heslá
 contextual-manager-passwords-command-remove-all = Odstrániť všetky heslá
+contextual-manager-passwords-command-delete-all = Odstrániť všetky heslá
 contextual-manager-passwords-command-options = Možnosti
 contextual-manager-passwords-command-help = Pomocník
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -106,6 +107,14 @@ contextual-manager-passwords-remove-all-title =
         [many] Odstrániť všetkých { $total } hesiel?
        *[other] Odstrániť všetkých { $total } hesiel?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Odstrániť { $total } heslo?
+        [few] Odstrániť { $total } heslá?
+       *[other] Odstrániť { $total } hesiel?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -121,6 +130,15 @@ contextual-manager-passwords-remove-all-confirm =
 contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Odstrániť všetky
+        [one] Odstrániť všetky
+        [few] Odstrániť všetky
+       *[other] Odstrániť všetky
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Odstrániť
         [one] Odstrániť všetky
         [few] Odstrániť všetky
        *[other] Odstrániť všetky
@@ -144,6 +162,15 @@ contextual-manager-passwords-remove-all-message-sync =
         [few] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
         [many] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
        *[other] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Heslo sa odstráni z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
+        [one] Odstránia sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
+        [few] Odstránia sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
+       *[other] Odstránia sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
     }
 contextual-manager-passwords-origin-label = Webová stránka
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -190,12 +217,16 @@ contextual-manager-passwords-radiobutton-all = Všetky ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Upozornenia ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Odstrániť heslo?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Odstrániť heslo?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Túto akciu nemôžete vrátiť späť.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Naspäť
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Odstrániť
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Odstrániť
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Zrušiť
 contextual-manager-passwords-alert-card =
@@ -226,6 +257,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Aktualizovať heslo
 contextual-manager-passwords-remove-label =
+    .title = Odstrániť heslo
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Odstrániť heslo
 contextual-manager-passwords-origin-field =
     .label = Adresa webovej stránky
@@ -347,6 +381,15 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Áno, odstrániť heslo
         [few] Áno, odstrániť heslá
         [many] Áno, odstrániť heslá
+       *[other] Áno, odstrániť heslá
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Áno, odstrániť heslo
+        [one] Áno, odstrániť heslo
+        [few] Áno, odstrániť heslá
        *[other] Áno, odstrániť heslá
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
