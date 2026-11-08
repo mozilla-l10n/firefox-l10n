@@ -254,7 +254,7 @@ newtab-privacy-message-promo-vpn-3 = Skeakelje de ynboude VPN yn om jo lokaasje 
 newtab-privacy-message-promo-vpn-3-cta = VPN iepenje
 newtab-privacy-message-promo-private-window-1 = Probearje in priveefinster om mear privee te navigearjen as jo in dielde kompjûter brûke.
 newtab-privacy-message-promo-private-window-1-cta = Priveefinster iepenje
-newtab-privacy-message-promo-relay-1 = Bewarje jo echte e-mailadres foar minsken dy’t jo fertrouwe; brûk in e-mailmasker foar reagistraasjes.
+newtab-privacy-message-promo-relay-1 = Bewarje jo echte e-mailadres foar minsken dy’t jo fertrouwe; brûk in e-mailmasker foar registraasjes.
 newtab-privacy-message-promo-relay-1-cta = Maskers krije
 newtab-privacy-message-promo-relay-2 = Beskermje jo Postfek YN tsjin spam mei fergeze e-mailmaskearing.
 newtab-privacy-message-promo-relay-2-cta = Maskers krije
@@ -803,7 +803,7 @@ newtab-section-header-todays-picks = De karren fan hjoed foar jo
 
 newtab-empty-section-highlights = Start mei sneupen en wy toane jo guon moaie artikelen, fideo’s en oare siden dy’t jo resint besocht hawwe of in blêdwizer fan makke hawwe.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
-newtab-empty-section-topstories-generic = Jo binne wer by. Kom letter werom foar mear ferhalen. Kin jo net wachtsje? Selektearje in populêr ûnderwerp om mear bjusterbaarlike ferhalen fan it hiele web te finen.
+newtab-empty-section-topstories-generic = Jo binne wer by. Kom letter werom foar mear ferhalen. Kinne jo net wachtsje? Selektearje in populêr ûnderwerp om mear bjusterbaarlike ferhalen fan it hiele web te finen.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -978,7 +978,7 @@ newtab-wallpaper-light-red-panda = Reade panda
 newtab-wallpaper-light-mountain = Wite berch
 newtab-wallpaper-light-sky = Himel mei pearze en rôze wolken
 newtab-wallpaper-light-color = Blauwe, rôze en giele foarmen
-newtab-wallpaper-light-landscape = Berch lânskip mei blauwe mist
+newtab-wallpaper-light-landscape = Berchlânskip mei blauwe mist
 newtab-wallpaper-light-beach = Strân mei palmbeam
 newtab-wallpaper-dark-aurora = Noarderljocht
 newtab-wallpaper-dark-color = Reade en blauwe foarmen
@@ -1079,7 +1079,7 @@ newtab-wallpaper-hot-air-balloons = Hjitteluchtballonnen yn ferskate kleuren oer
 newtab-wallpaper-starry-canyon = Blauwe stjerrenacht
 newtab-wallpaper-suspension-bridge = Foto’s fan in folsleine hingbrêge oerdeis
 newtab-wallpaper-sand-dunes = Wite sândunen
-newtab-wallpaper-palm-trees = Silhûet fan kokospalms wylst gouden oere
+newtab-wallpaper-palm-trees = Sylhûet fan kokospalms wylst gouden oere
 newtab-wallpaper-blue-flowers = Close-upfotografy fan blauwe blommen yn bloei
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -1833,7 +1833,7 @@ newtab-sports-widget-message-wallpapers-title = Begjin it WK mei nije eftergrûn
 newtab-sports-widget-message-wallpapers-body = Bring wat wedstriiddei-enerzjy nei jo browser foar it toernoai.
 newtab-sports-widget-message-wallpapers-cta = Eftergrûn kieze
 newtab-sports-widget-message-wallpapers-semifinals-title = Download in nije eftergrûn foar de heale finalen
-newtab-sports-widget-message-wallpapers-semifinals-body = Meitsje ien dekôr foar de grutste wedstriden fan it WK.
+newtab-sports-widget-message-wallpapers-semifinals-body = Meitsje in dekôr foar de grutste wedstriden fan it WK.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Widgets tafoegje
 newtab-sports-widget-message-day-in-play-title = Hâld jo dei yn beweging mei { -brand-product-name }-widgets

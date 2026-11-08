@@ -9,7 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = { -brand-short-name }-ynstallaasje foltôgje?
-prompt-to-install-message = Foltôgje dizze ien-stap-ynstallaasje om { -brand-short-name } by de tiid te hâlden en gegevensfelies foar te kommen. { -brand-short-name } sil oan jo applikaasjemap en Dock tafoege wurde.
+prompt-to-install-message = Foltôgje dizze ien-stap-ynstallaasje om { -brand-short-name } by de tiid te hâlden en gegevensferlies foar te kommen. { -brand-short-name } sil oan jo applikaasjemap en Dock tafoege wurde.
 prompt-to-install-yes-button = Ynstallearje
 prompt-to-install-no-button = Net ynstallearje
 

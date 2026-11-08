@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = ჩანართის ბმულის ა�
 customkeys-file-focus-search = ძიების ზოლში გადასვლა
 customkeys-history-reopen-tab = ბოლოს დახურულის დაბრუნება
 customkeys-history-reopen-window = ბოლოს დახურული ფანჯრის აღდგენა
+customkeys-history-reopen-tab-current-window = კვლავ გაიხსნას ბოლოს დახურული ჩანართი მიმდინარე ფანჯარაში
 customkeys-sidebar-toggle = გვერდითა ზოლის გადართვა
 customkeys-view-bookmarks-toolbar = სანიშნების ზოლის გადართვა
 customkeys-view-picture-in-picture = ეკრანი-ეკრანში

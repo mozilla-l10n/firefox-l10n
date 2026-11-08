@@ -42,7 +42,7 @@ detail-last-updated =
     .label = Lêst bywurke
 addon-detail-description-expand = Mear toane
 addon-detail-description-collapse = Minder toane
-detail-contributions-description = De ûnwikkeler fan dizze add-on freget om stipe foar de trochgeande ûntwikkeling troch it meitsjen fan in lytse bydrage.
+detail-contributions-description = De ûntwikkeler fan dizze add-on freget om stipe foar de trochgeande ûntwikkeling troch it meitsjen fan in lytse bydrage.
 detail-contributions-button = Bydrage
     .title = Bydrage oan de ûntwikkeling fan dizze add-on
     .accesskey = B
@@ -113,7 +113,7 @@ plugin-deprecation-description = Misse jo wat? Guon ynstekkers wurde net langer 
 legacy-warning-show-legacy = Ferâldere útwreidingen toane
 legacy-extensions =
     .value = Ferâldere útwreidingen
-legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
+legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts en binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
 private-browsing-description2 =
     { -brand-short-name } wiziget de manier wêrop útwreidingen yn priveenavigaasje wurkje. Nije útwreidingen dy’t jo oan
     { -brand-short-name } tafoegje, wurkje standert net yn priveefinsters. Utsein jo dit tastean yn de ynstellingen, wurket
@@ -297,7 +297,7 @@ addon-options-button =
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
-    Me útwreidingen en tema’s kinne jo { -brand-product-name } oanpasse. Se kinne privacy,
+    Mei útwreidingen en tema’s kinne jo { -brand-product-name } oanpasse. Se kinne privacy,
     produktiviteit en media ferbetterje, it uterlik fan { -brand-product-name } wizigje, en
     sa folle mear. Dizze lytse softwareprogramma’s wurde faak troch in tredde partij ûntwikkele. Dit is
     in seleksje dy’t Firefox <a data-l10n-name="learn-more-trigger">oanrekommandearret</a>
@@ -622,7 +622,7 @@ aboutaddons-themes-picker-see-less = Minder toane
 aboutaddons-themes-picker-enable-button =
     .label = Ynskeakelje
 aboutaddons-themes-picker-disable-button =
-    .label = Utskeakele
+    .label = Utskeakelje
 aboutaddons-themes-picker-install-button =
     .label = Ynstallearje
 # Shown when a Nova theme fails to be downloaded, installed, enabled, or

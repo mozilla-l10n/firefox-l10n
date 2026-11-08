@@ -985,6 +985,14 @@ urlbar-view-context-menu-open-in-window2 = გახსნა ახალ ფ�
     .accesskey = ფ
 urlbar-view-context-menu-open-in-private-window2 = გახსნა ახალ პირად ფანჯარაში
     .accesskey = პ
+urlbar-view-context-menu-search-in-tab = ძიება ახალ ჩანართში
+    .accesskey = ხ
+urlbar-view-context-menu-search-in-container-tab = ძიება ახალ სათავს ჩანართში
+    .accesskey = ს
+urlbar-view-context-menu-search-in-window = ძიება ახალ ფანჯარაში
+    .accesskey = ლ
+urlbar-view-context-menu-search-in-private-window = ძიება ახალ პირად ფანჯარაში
+    .accesskey = პ
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

@@ -160,7 +160,7 @@ about-webauthn-ctap2-enroll-feedback-good = Scan wie goed.
 
 about-webauthn-ctap2-enroll-feedback-too-high = Scan wie te heech.
 about-webauthn-ctap2-enroll-feedback-too-low = Scan wie te leech.
-about-webauthn-ctap2-enroll-feedback-too-left = Scan wie te tefolle nei links.
+about-webauthn-ctap2-enroll-feedback-too-left = Scan wie tefolle nei links.
 about-webauthn-ctap2-enroll-feedback-too-right = Scan wie te tefolle nei rjochts.
 
 ##

@@ -276,7 +276,7 @@ crashes-time-days =
 pending-reports =
     { $reports ->
         [one] Alle ûngelokrapporten (ynklusyf { $reports } ûngelok op wacht yn it opjûne tiidsrak)
-       *[other] Alle ûngelokrapporten (ynklusyf { $reports } ûngelokken op wacht yn it opjûne tiidsrak))
+       *[other] Alle ûngelokrapporten (ynklusyf { $reports } ûngelokken op wacht yn it opjûne tiidsrak)
     }
 raw-data-copied = Rûge gegevens nei klamboerd kopiearre
 text-copied = Tekst nei klamboerd kopiearre
@@ -330,7 +330,7 @@ webgl2-renderer = Renderer fan WebGL 2-stjoerprogramma
 webgl2-version = Ferzje fan WebGL 2-stjoerprogramma
 webgl2-driver-extensions = Utwreidingen fan WebGL 2-stjoerprogramma
 webgl2-extensions = WebGL 2-útwreidingen
-webgpu-default-adapter = WebGPU-standertdadapter
+webgpu-default-adapter = WebGPU-standertadapter
 webgpu-fallback-adapter = WebGPU-tebekfaladapter
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -355,7 +355,7 @@ loaded-lib-versions = Brûkte ferzje
 has-seccomp-bpf = Seccomp-BPF (Systeemoanropfiltering)
 has-seccomp-tsync = Seccomp-threadsyngronisaasje
 has-user-namespaces = Namespaces fan brûker
-has-privileged-user-namespaces = Namespaces fan brûker foar proscessen mei foech
+has-privileged-user-namespaces = Namespaces fan brûker foar prosessen mei foech
 # Variables
 # $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
 support-user-namespaces-unavailable = { $status } – Dizze funksje is net tastien troch jo systeem. Dit kin befeiligingsfunksjes fan { -brand-short-name } beheine.

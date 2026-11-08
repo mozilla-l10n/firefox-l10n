@@ -13,7 +13,7 @@ about-glean-page-title2 = Oer { -glean-brand-name }
 about-glean-header = Oer { -glean-brand-name }
 about-glean-interface-description =
     De <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
-    is gegevenssamlingsbiblioteek dy’t brûkt wurdt yn { -vendor-short-name }-projekten.
+    is in gegevenssamlingsbiblioteek dy’t brûkt wurdt yn { -vendor-short-name }-projekten.
     Dizze interface is ûntwurpen foar gebrûk troch ûntwikkelers en testers om hânmjittich
     <a data-l10n-name="fog-link">ynstrumintaasje te testen</a>.
 about-glean-category-about-glean = Oer { -glean-brand-name }
@@ -29,8 +29,8 @@ about-glean-upload-fake-enabled =
     Gegevensoplaad is útskeakele,
     mar wy lige en sizze tsjin de { glean-sdk-brand-name } dat dizze ynskeakele is,
     sadat gegevens noch hieltyd lokaal opnomen wurde.
-    Noat: as jo in debuglabel ynstelle, wurden pings oplaad nei de
-    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, nettsjinsteandede ynstellingen.
+    Noat: as jo in debuglabel ynstelle, wurde pings oplaad nei de
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, nettsjinsteande de ynstellingen.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Relevante <a data-l10n-name="fog-prefs-and-defines-doc-link">foarkarren en definysjes</a> omfetsje:
 # Variables:
@@ -50,7 +50,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-additional-links =
-    Foar in útlis oer ferskate manieren om gegevens fêst te lizzen en te finen it
+    Foar in útlis oer ferskate manieren om gegevens fêst te lizzen en te finen, sjoch it
     ljepblêd <strong>Oer gegevens</strong>.
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -104,7 +104,7 @@ about-glean-profiler-explanation =
     Earst moatte jo <a data-l10n-name="firefox-profiler-link">in prestaasjesprofyl fêstlizze</a>.
     Sadree’t jo it profyl fêstlein hawwe, selektearje <q>Marker Chart</q> en sjoch nei de markearringen ûnder <q>Telemetry</q>.
 about-glean-profiler-explanation-profiler =
-    Yn it prestaasjesprofyl kinne jo alle sammele statistiken besjen, wannear’t sammele
+    Yn it prestaasjesprofyl kinne jo alle sammele statistiken besjen, wannear’t se sammele
     binne, en krekt hokker wearden sammele binne. Troch yndividuele markearringen oan te wizen,
     kinne jo ferifiearje dat de krekte wearde sammele is en oft de kolleksje barde op it krekte momint.
 controls-button-label-verbose = Ynstellingen tapasse en ping ferstjoere
@@ -114,7 +114,7 @@ about-glean-feedback-settings-and-ping =
     .message = Ynstellingen tapast en ping ferstjoerd!
 about-glean-about-data-header = Oer gegevens
 about-glean-about-data-description =
-    Der is ferskillend ark dy’t jo brûke kinne om jo gegevens te besjen, ôfhinklik fan
+    Der is ferskillend ark dat jo brûke kinne om jo gegevens te besjen, ôfhinklik fan
     wêr’t jo nei sykje.
 about-glean-about-data-description-list-intro =
     Besjoch de ûndersteande list foar spesifike gebrûksfoarbylden

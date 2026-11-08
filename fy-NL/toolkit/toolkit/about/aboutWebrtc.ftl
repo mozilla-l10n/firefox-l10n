@@ -91,7 +91,7 @@ about-webrtc-nominated = Beneamd
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selektearre
-about-webrtc-save-page-label = Side bewarre
+about-webrtc-save-page-label = Side bewarje
 about-webrtc-enable-logging-label = WebRTC-lochboekfoarynstelling ynskeakelje
 about-webrtc-peerconnections-section-heading = RTCPeerConnection-statistiken
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection-statistiken toane

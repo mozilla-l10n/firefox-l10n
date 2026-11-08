@@ -21,13 +21,13 @@ whypaused-debugger-statement = Pauzearre by debuggerstatement
 whypaused-breakpoint = Pauzearre op brekpunt
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event breakpoint.
-whypaused-event-breakpoint = Pausearre by barrensbreakpoint
+whypaused-event-breakpoint = Pauzearre by barrensbreakpoint
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Pauzearre by útsûndering
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a DOM mutation breakpoint
-whypaused-mutation-breakpoint = Pausearre by DOM-mutaasje
+whypaused-mutation-breakpoint = Pauzearre by DOM-mutaasje
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Tafoege:
@@ -36,13 +36,13 @@ whypaused-mutation-breakpoint-added = Tafoege:
 whypaused-mutation-breakpoint-removed = Fuortsmiten:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
-whypaused-interrupted = Pausearre by útfiering
+whypaused-interrupted = Pauzearre by útfiering
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pauzearre wylst oerstappen
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
-whypaused-pause-on-dom-events = Pauzearre by barrenlúterer
+whypaused-pause-on-dom-events = Pauzearre by barrenlústerer
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Flater mei kondisjoneel brekpunt

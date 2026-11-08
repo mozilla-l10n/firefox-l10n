@@ -27,7 +27,7 @@ experimental-features-group-newtab-widgets =
     .label = Widgets op { -firefox-home-brand-name }
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
-    .label = Kies in oanpaste eftergrûn of kleur foar Nij-ljepbledside
+    .label = Kies in oanpaste eftergrûn of kleur foar Nij-ljepblêdside
 experimental-features-custom-wallpaper-description = Laad jo eigen eftergrûn op of kies in oanpaste kleur foar de eftergrûn fan jo Nij-ljepblêdside.
 # Link Previews with AI
 experimental-features-link-previews =
