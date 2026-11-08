@@ -48,7 +48,7 @@ app-basics-update-dir =
 app-basics-update-history = Atjauninājumu vēsture
 app-basics-show-update-history = Parādīt atjauninājumu vēsturi
 # Represents the path to the binary used to start the application.
-app-basics-binary = Lietojumprogrammas binārais fails
+app-basics-binary = Lietotnes binārā datne
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profila direktorija
