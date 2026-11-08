@@ -56,7 +56,7 @@ printui-two-sided-printing-long-edge = Draaie op lange side
 printui-two-sided-printing-short-edge = Draaie op koarte side
 # Section title for miscellaneous print options
 printui-options = Opsjes
-printui-headers-footers-checkbox = Kop- en foetteksten ôfdrukke
+printui-headers-footers-checkbox = Kop- en fuotteksten ôfdrukke
 printui-backgrounds-checkbox = Eftergrûnen ôfdrukke
 
 ## The "Format" section, select a version of the website to print. Radio
@@ -95,7 +95,7 @@ printui-margins-custom-left-mm = Links (mm)
 printui-margins-custom-right = Rjochts
 printui-margins-custom-right-inches = Rjochts (inches)
 printui-margins-custom-right-mm = Rjochts (mm)
-printui-system-dialog-link = Ofdrukke fia it systeemdialoochfienster…
+printui-system-dialog-link = Ofdrukke fia it systeemdialoochfinster…
 printui-primary-button = Ofdrukke
 printui-primary-button-save = Bewarje
 printui-cancel-button = Annulearje

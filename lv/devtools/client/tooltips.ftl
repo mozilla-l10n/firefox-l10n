@@ -35,6 +35,24 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property } </s
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property } </strong> netiek atbalstīts ::first-burt pseidoelementos.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property } </strong> netiek atbalstīts ::placeholder pseidoelementos.
 inactive-css-property-because-of-display = <strong>{ $property } </strong> neietekmē šo elementu, jo tam ir <strong>{ $display } </strong> attēlojums.
+inactive-css-not-display-block-on-floated-2 = Dzinējs ir mainījis <strong>display</strong> vērtību uz <strong>{ $display } </strong>, jo elements ir <strong>peldošs</strong>.
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property } </strong> neietekmē vērtību, jo to nevar izmantot režģa vai flex elementiem.
+inactive-css-not-block = <strong>{ $property } </strong> neietekmē šo elementu, jo tas attiecas tikai uz bloka līmeņa elementiem.
+inactive-css-not-block-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas attiecas tikai uz bloku konteinera elementiem.
+inactive-css-not-block-flex-grid-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas attiecas tikai uz bloku, flex un režģa konteinera elementiem.
+inactive-css-not-floated = <strong>{ $property } </strong> neietekmē vērtību, jo tā attiecas tikai uz peldošajiem elementiem.
+inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> ierobežojuma dēļ nav iespējams pārrakstīt <strong>{ $property }</strong>.
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav pozicionēts elements.
+inactive-css-only-replaced-elements = <strong>{ $property } </strong> neietekmē šo elementu, jo to var lietot tikai aizstātajiem elementiem.
+inactive-text-overflow-when-no-overflow = <strong>{ $property } </strong> neietekmē šo elementu, jo <strong>overflow:hidden</strong> nav iestatīts.
+inactive-css-no-size-containment = <strong>{ $property } </strong> neietekmē šo elementu, jo tam nav izmēra ierobežojuma.
+inactive-css-not-for-internal-table-elements = <strong>{ $property } </strong> neietekmē tabulas iekšējos elementus.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property } </strong> neietekmē tabulas iekšējos elementus, izņemot tabulas šūnas.
+inactive-css-not-table = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav tabula.
+inactive-css-collapsed-table-borders = <strong>{ $property } </strong> neietekmē šo elementu, jo tā ir tabula ar sakļautām apmalēm.
+inactive-css-not-table-cell = <strong>{ $property } </strong> neietekmē šo elementu, jo tas nav tabulas šūna.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas neritina.
+inactive-css-border-image = <strong>{ $property } </strong> neietekmē šo elementu, jo to nevar lietot iekšējiem tabulas elementiem, kuros <strong>border-collapse</strong> ir iestatīts uz <strong>collapse</strong> vecāktabulas elementā.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> netiek atbalstīts <strong>@position-try</strong> noteikumos.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.

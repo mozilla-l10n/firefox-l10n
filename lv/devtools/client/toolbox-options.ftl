@@ -149,7 +149,7 @@ options-sourceeditor-keybinding-default-label = Noklusējuma
 # The heading
 options-local-mode-label = Lokālais režīms
 options-local-mode-only-work-locally = Lokālais režīms darbojas tikai lokāli un ir atspējots, atkļūdojot attālos kontekstus.
-options-local-mode-behavior = Lokālais režīms ļauj ielādēt lokālos failus, izmantojot https URL, bez jebkādas ārējas atkarības. URL var ielādēt tikai no cilnēm, kurās ir atvērti DevTools.
+options-local-mode-behavior = Vietējais režīms ļauj ielādēt vietējās datnes ar https URL bez jebkādas ārējas atkarības. URL var ielādēt tikai no cilnēm, kurās ir atvērts DevTools.
 options-local-mode-domain-label = Pielāgots domēns:
 options-local-mode-origin-input =
     .placeholder = Vietējās kartēšanas izcelsme

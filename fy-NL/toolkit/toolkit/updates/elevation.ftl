@@ -12,7 +12,7 @@ elevation-error-manual =
     probearjen en de lêste ferzje yn te laden:
 elevation-finished-page = Fernijing klear foar ynstallaasje
 elevation-finished-background-page =
-    In feilichheids- en stabliliteitsfernijing foar { -brand-short-name } is krekt downloaden
+    In feilichheids- en stabiliteitsfernijing foar { -brand-short-name } is krekt downloaden
     en is ree om ynstallearre te wurden.
 elevation-finished-background = Fernijing:
 elevation-more-elevated =

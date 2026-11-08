@@ -774,6 +774,7 @@ pdfjs-digital-signature-properties-banner-revoked =
 
 pdfjs-digital-signature-properties-status-verified = Status: hantekening ferifiearre
 pdfjs-digital-signature-properties-status-invalid = Status: hantekening ûnjildich
+pdfjs-digital-signature-properties-status-unknown = Status: kin net ferifiearre wurde (net stipe)
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.

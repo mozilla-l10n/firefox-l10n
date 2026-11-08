@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = ნებისმიერ დ�
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ნებისმიერ დროს შეგეძლებათ თქვენი ჩანართის ჯგუფები კვლავ გახსნათ ყველა ჩანართის მენიუდან.
 tab-groups-onboarding-dismiss = კარგი
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = ჩანართების ჯგუფები თავისით ინახება. მოიძიებთ აქ.
 
 ## Multi Profiles feature onboarding messages
 
@@ -638,3 +640,12 @@ welcome-back-onboarding-card-label-tabs = შვეულად ჩამოა�
 welcome-back-onboarding-card-label-vpn = დაფარეთ მონაცემები ჩაშენებული VPN-ით
 welcome-back-onboarding-card-label-pdf = დაურთეთ მონიშვნები, დასვით ხელმოწერა და გამართეთ PDF
 welcome-back-onboarding-card-tilebutton-label = მოსინჯვა
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = გამართეთ თქვენი { -brand-short-name } წამებში
+hnt-card-import-body = წამოიღეთ თქვენი სანიშნები, პაროლები და ა. შ. სხვა ბრაუზერიდან.
+hnt-card-import-primary-button = გადმოიტანეთ თქვენი მონაცემები
+hnt-card-default-body = { -brand-product-name } ერთადერთი მოწინავე ბრაუზერია, რომელიც შექმნილია თქვენს დასაცავად და არა თქვენს სათვალთვალოდ.
+hnt-card-default-primary-button = ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
+hnt-card-pin-header = დატოვეთ { -brand-short-name } თითის ერთ გაწვდენაზე

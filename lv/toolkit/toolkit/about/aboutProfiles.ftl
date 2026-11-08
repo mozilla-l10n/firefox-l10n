@@ -40,9 +40,9 @@ profiles-delete-profile-title = Dzēst profilu
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Profila dzēšana neatgriežami aizvāks to no pieejamo profilu saraksta.
-    Jūs varat izvēlēties izdzēst arī profila datu failus, kas satur jūsu iestatījumus, sertifikātus un citus lietotāja datus. Šī iespēja neatgriezeniski izdzēsīs mapi "{ $dir }".
-    Vai vēlaties izdzēst profila datu failus?
+    Profila izdzēšana neatgriezeniski noņems to no pieejamo profilu saraksta.
+    Var arī izvēlēties izdzēst arī profila datu datnes, kas satur iestatījumus, sertifikātus un citus ar lietotāju saistītus datus. Šī iespēja neatgriezeniski izdzēsīs mapi “{ $dir }”.
+    Vai izdzēst profila datu datnes?
 profiles-delete-files = Izdzēst datnes
 profiles-dont-delete-files = Neizdzēst datnes
 profiles-delete-profile-failed-title = Kļūda
