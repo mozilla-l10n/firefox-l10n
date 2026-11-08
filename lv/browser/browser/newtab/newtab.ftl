@@ -291,22 +291,22 @@ newtab-privacy-message-milestone-month-cta = Skatīt aizsardzības iestatījumus
 #   $count (number) - Trackers blocked this year
 newtab-privacy-message-milestone-year =
     { $count ->
-        [one] Šogad bloķēts { $count } izsekotājs. Tas ir spēcīgs gads jūsu privātuma aizsardzībā.
-        [zero] Šogad bloķēti { $count } izsekotāji. Tas ir spēcīgs gads jūsu privātuma aizsardzībā.
-       *[other] Šogad bloķēti { $count } izsekotāji. Tas ir spēcīgs gads jūsu privātuma aizsardzībā.
+        [one] Šogad liegts { $count } izsekotājs. Tas ir spēcīgs gads Tava privātuma aizsardzībā.
+        [zero] Šogad liegti { $count } izsekotāju. Tas ir spēcīgs gads Tava privātuma aizsardzībā.
+       *[other] Šogad liegti { $count } izsekotāji. Tas ir spēcīgs gads Tava privātuma aizsardzībā.
     }
 newtab-privacy-message-milestone-year-cta = Skatīt aizsardzības iestatījumus
 # Variables:
 #   $count (number) - Trackers blocked all-time
 newtab-privacy-message-milestone-total =
     { $count ->
-        [one] { $count } izsekotājs ir bloķēts. Tas ir liels progress ceļā uz privātumu pēc jūsu noteikumiem.
-        [zero] { $count } izsekotāji ir bloķēti. Tas ir ievērojams progress ceļā uz privātumu pēc jūsu noteikumiem.
-       *[other] { $count } izsekotāji ir bloķēti. Tas ir ievērojams progress ceļā uz privātumu pēc jūsu noteikumiem.
+        [one] Liegts { $count } izsekotājs. Tā ir būtiska virzība ceļā uz privātumu pēc Taviem noteikumiem.
+        [zero] { $count } izsekotāju ir liegti. Tā ir būtiska virzība ceļā uz privātumu pēc Taviem noteikumiem.
+       *[other] { $count } izsekotāji ir liegti. Tā ir būtiska virzība ceļā uz privātumu pēc Taviem noteikumiem.
     }
 newtab-privacy-message-milestone-total-cta = Skatīt aizsardzības iestatījumus
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
-newtab-privacy-message-daily-cap = (Šodien bloķēti vairāk nekā 100 izsekotāju.) Mazāk izsekotāju nozīmē lielāku privātumu.
+newtab-privacy-message-daily-cap = (Šodien liegti vairāk nekā 100 izsekotāju.) Mazāk izsekotāju nozīmē lielāku privātumu.
 newtab-privacy-message-daily-cap-cta = Skatīt aizsardzības iestatījumus
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -318,7 +318,7 @@ newtab-privacy-message-streak =
     }
 newtab-privacy-message-streak-cta = Skatīt aizsardzības iestatījumus
 # Shown the first time the tracker count goes above zero.
-newtab-privacy-message-first-protection = Turpiniet pārlūkot, { -brand-short-name } turpinās bloķēt.
+newtab-privacy-message-first-protection = Turpini pārlūkot, { -brand-short-name } turpinās liegt!
 newtab-privacy-message-first-protection-cta = Skatīt aizsardzības iestatījumus
 
 ## Strings for the Finance widget
@@ -1285,8 +1285,8 @@ newtab-topic-navigation-more-button = Vairāk
 ## e.g. Blocked the politics section of stories.
 
 newtab-section-block-button = Liegt
-newtab-section-blocked-button = Bloķēts
-newtab-section-unblock-button = Atbloķēt
+newtab-section-blocked-button = Liegts
+newtab-section-unblock-button = Atcelt liegumu
 # Variables:
 #   $topic (string) - Name of topic that user is following
 newtab-section-follow-topic =
@@ -1302,12 +1302,12 @@ newtab-section-block-topic =
 # Variables:
 #   $topic (string) - Name of topic that user is unblocking
 newtab-section-unblock-topic =
-    .aria-label = Atbloķēt tēmu { $topic }
+    .aria-label = Atcelt liegumu { $topic }
 
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-topic-p1 = Vai tiešām liegt šo tēmu?
-newtab-section-confirm-block-topic-p2 = Bloķētās tēmas vairs netiks rādītas jūsu plūsmā.
+newtab-section-confirm-block-topic-p2 = Liegtās tēmas plūsmā vairs netiks rādītas.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Liegt { $topic }
@@ -1320,7 +1320,7 @@ newtab-section-manage-topics-button-v2 =
     .label = Pārvaldīt tēmas
 newtab-section-mangage-topics-followed-topics = Sekotājs
 newtab-section-mangage-topics-followed-topics-empty-state = Jūs vēl nesekojat nevienai tēmai.
-newtab-section-mangage-topics-blocked-topics = Bloķēts
+newtab-section-mangage-topics-blocked-topics = Liegts
 newtab-section-mangage-topics-blocked-topics-empty-state = Jūs vēl neesat bloķējis nevienu tēmu.
 newtab-custom-wallpaper-title = Pielāgotas tapetes ir šeit
 # 'Make firefox yours" means to customize or personalize

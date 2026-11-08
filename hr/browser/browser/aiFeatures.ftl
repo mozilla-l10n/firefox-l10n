@@ -101,3 +101,6 @@ smart-window-model-fast-v2 =
 smart-window-model-flexible-v2 =
     .description = Spreman za razne zadatke. Puni naziv: { $model } tvrtke { $ownerName }
     .label = { $shortName }: fleksibilno
+smart-window-model-personal-v2 =
+    .description = Stvoren za personaliziranu pomoć na više jezika. Puno ime: { $model } tvrtke { $ownerName }
+    .label = { $shortName }: osobno

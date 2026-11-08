@@ -5,6 +5,9 @@
 
 ## Chrome
 
+appmenuitem-new-ai-window =
+    .label = Novi { -smart-window-brand-name }
+    .value = Novi { -smart-window-brand-name }
 appmenuitem-new-classic-window =
     .label = Novi klasični prozor
 menu-file-new-ai-window =
@@ -45,6 +48,8 @@ aiwindow-input-cta-submit-label-chat = Pitaj
 aiwindow-input-cta-submit-label-navigate = Idi
 aiwindow-input-cta-submit-label-search = Traži
 aiwindow-input-cta-submit-label-stop = Zaustavi
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Generiranje odgovora je započelo
 aiwindow-input-cta-menu-label-chat = Pitaj
 aiwindow-input-cta-menu-label-navigate = Idi na stranicu
 # $searchEngineName (string) - The name of the default search engine
@@ -57,6 +62,9 @@ aiwindow-input-cta-stop-button =
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Pitaj, traži ili unesi URL
+smartbar-placeholder-hint-1 = Koristi @ za spominjanje nedavnih kartica…
 smartbar-placeholder-hint-2 = Pitaj bilo što…
 smartbar-placeholder-hint-3 = Unesi web adresu…
 smartbar-placeholder-hint-4 = Pretraži web…
@@ -83,6 +91,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Dobro došli u { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Što ti je važno?
+aiwindow-firstrun-model-title-v2 = Odaberi model za početak
 aiwindow-firstrun-model-fast-label = Brzo
 aiwindow-firstrun-model-fast-body = Odgovara brzo
 # $shortName (string) - The short name of the model version
@@ -126,6 +135,8 @@ aiwindow-input-model-select-settings-link = Postavke modela
 
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } može učiti iz tvojih razgovora, pregledavanja ili oboje i time stvarati sjećanja. Sjećanja s vremenom čine odgovore korisnijima.
 aiwindow-firstrun-memories-privacy-body = Sjećanja se pohranjuju na ovom uređaju. Možeš ih izbrisat ili isključiti bilo kada.
+aiwindow-firstrun-memories-checkbox-chats = Razgovori u značajci „{ -smart-window-brand-name }”
+aiwindow-firstrun-memories-update-settings = Ažuriraj u postavkama bilo kada.
 aiwindow-firstrun-memories-no-create = Shvaćam. { -smart-window-brand-name } neće stvarati sjećanja. To možeš promijeniti bilo kada u postavkama.
 
 ## Ask Toolbar Button

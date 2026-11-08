@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Poruke razgovora u značajci „{ -smart-window-brand-name }”
 
 ## Context chips in the chat content
 
@@ -18,6 +19,7 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Nešto nije u redu. Pokušaj kasnije ponovo.
 smartwindow-assistant-error-budget-header = Dostigao/la si današnje ograničenje razgovora.
+smartwindow-assistant-error-account-header = Za korištenje značajke „{ -smart-window-brand-name }”, moraš se prijaviti.
 smartwindow-retry-btn = Pokušaj ponovo
 smartwindow-clear-btn = Novi razgovor
 smartwindow-signin-btn = Prijavi se
@@ -201,6 +203,14 @@ action-log-checking-memories = Provjera sjećanja
 action-log-checked-memories = Provjerena su sjećanja
 action-log-searching-settings = Pretraživanje postavki
 action-log-searched-settings = Pretražene su postavke
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Izvršen je { $count } korak
+        [few] Izvršena su { $count } koraka
+       *[other] Izvršeno je { $count } koraka
+    }
 
 ## Citations
 

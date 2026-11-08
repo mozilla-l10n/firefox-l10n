@@ -643,6 +643,7 @@ welcome-back-onboarding-card-tilebutton-label = Próbálja ki
 ## New Tab Onboarding cards
 
 hnt-card-import-header = Állítsa be pillanatok alatt a { -brand-short-name } böngészőt
+hnt-card-import-body = Importálja könyvjelzőit, jelszavait és egyéb adatait egy másik böngészőből.
 hnt-card-import-primary-button = Importálja az adatait
 hnt-card-default-body = A { -brand-product-name } az egyetlen jelentős böngésző, amelyet arra terveztek, hogy megvédje, ne pedig kövesse Önt.
 hnt-card-default-primary-button = Nyissa meg a hivatkozásokat a { -brand-short-name }szal
@@ -656,7 +657,9 @@ hnt-card-mobile-header = Szerezzen beépített védelmet a telefonján
 hnt-card-mobile-body = Töltse le a mobilos { -brand-product-name }ot a menet közbeni további adatvédelemért.
 hnt-card-mobile-primary-button = Szerezze be a mobilos { -brand-product-name }ot.
 hnt-card-wallpaper-header = Válasszon friss háttérképet
+hnt-card-wallpaper-body = Tegye otthonossá ezt a képernyőt egy Önnek tetsző háttérrel.
 hnt-card-wallpaper-primary-button = Testreszabás megkezdése
+hnt-card-taskbar-tabs-header = Adja hozzá kedvenc oldalait a Windows tálcához
 hnt-card-extensions-primary-button = Felfedezés
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.

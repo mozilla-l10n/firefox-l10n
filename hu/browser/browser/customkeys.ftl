@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Lap webcímének másolása
 customkeys-file-focus-search = Fókuszálás a keresősávra
 customkeys-history-reopen-tab = Legutóbb bezárt lap újranyitása
 customkeys-history-reopen-window = Legutóbb bezárt ablak újranyitása
+customkeys-history-reopen-tab-current-window = A jelenlegi ablak legutóbb bezárt lapjának újranyitása
 customkeys-sidebar-toggle = Oldalsáv be/ki
 customkeys-view-bookmarks-toolbar = Könyvjelzők eszköztár be/ki
 customkeys-view-picture-in-picture = Kép a képben

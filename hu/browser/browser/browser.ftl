@@ -985,6 +985,14 @@ urlbar-view-context-menu-open-in-window2 = Megnyitás új ablakban
     .accesskey = M
 urlbar-view-context-menu-open-in-private-window2 = Megnyitás új privát ablakban
     .accesskey = p
+urlbar-view-context-menu-search-in-tab = Keresés új lapon
+    .accesskey = K
+urlbar-view-context-menu-search-in-container-tab = Keresés új konténerlapon
+    .accesskey = j
+urlbar-view-context-menu-search-in-window = Keresés új ablakban
+    .accesskey = a
+urlbar-view-context-menu-search-in-private-window = Keresés új privát ablakban
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
