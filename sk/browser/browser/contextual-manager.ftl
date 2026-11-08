@@ -139,7 +139,7 @@ contextual-manager-passwords-remove-all-confirm-button =
 contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
         [1] Odstrániť
-        [one] Odstrániť všetky
+        [one] Odstrániť
         [few] Odstrániť všetky
        *[other] Odstrániť všetky
     }
@@ -167,8 +167,8 @@ contextual-manager-passwords-remove-all-message-sync =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-message-sync =
     { $total ->
-        [1] Heslo sa odstráni z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
-        [one] Odstránia sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
+        [1] Odstráni sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
+        [one] Odstráni sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
         [few] Odstránia sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
        *[other] Odstránia sa tým z aplikácie { -brand-short-name } vo všetkých zariadeniach, ktoré synchronizujú vaše heslá. Túto akciu nemožno vrátiť späť.
     }

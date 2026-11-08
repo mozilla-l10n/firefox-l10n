@@ -18,6 +18,28 @@ about-processes-shutdown-tab =
     .title = Zavrieť kartu
 about-processes-unload-tab =
     .title = Uvoľniť kartu
+about-processes-select-all-tabs =
+    .title = Vybrať všetky karty
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Rozbaliť karty tejto stránky
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Zbaliť karty tejto stránky
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Uvoľniť karty webu { $site }
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Znova načítať karty webu { $site }
+about-processes-expand-all-sites =
+    .title = Rozbaliť všetko
+about-processes-collapse-all-sites =
+    .title = Zbaliť všetko
 about-processes-go-to-tab =
     .title = Prejsť na kartu
 # Profiler icons
@@ -31,6 +53,18 @@ about-processes-profile-process =
             [few] Profilovať všetky vlákna tohto procesu po dobu { $duration } sekúnd
            *[other] Profilovať všetky vlákna tohto procesu po dobu { $duration } sekúnd
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Hľadať v kartách
+    .placeholder = Hľadať v kartách
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Nenašli sa žiadne karty zodpovedajúce vyhľadávaniu “{ $query }”
 
 ## Column headers
 
@@ -133,6 +167,25 @@ about-processes-tab-count =
         [few] { $count } karty
        *[other] { $count } kariet
     }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } karta)
+        [few] ({ $count } karty)
+       *[other] ({ $count } kariet)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Zrušiť výber
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Uvoľniť
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Znova načítať
 # Bulk-action bar button: closes every selected tab.
 about-processes-bulk-close-tabs =
     .label = Zavrieť

@@ -639,3 +639,12 @@ welcome-back-onboarding-card-label-tabs = Urobte si poriadok pomocou zvislých k
 welcome-back-onboarding-card-label-vpn = Chráňte si súkromie pomocou vstavanej VPN
 welcome-back-onboarding-card-label-pdf = Zvýrazňujte, podpisujte a upravujte PDF súbory
 welcome-back-onboarding-card-tilebutton-label = Vyskúšať
+
+## New Tab Onboarding cards
+
+hnt-card-import-body = Importujte si záložky, heslá a ďalšie údaje z iného prehliadača.
+hnt-card-import-primary-button = Importovať údaje
+hnt-card-default-body = { -brand-product-name } je jediný z veľkých prehliadačov vytvorený tak, aby vás chránil, a nie sledoval.
+hnt-card-default-primary-button = Otvárať odkazy v prehliadači { -brand-short-name }
+hnt-card-wallpaper-body = Vyberte si obľúbené pozadie a cíťte sa na tejto obrazovke ako doma.
+hnt-card-wallpaper-primary-button = Začať s prispôsobením

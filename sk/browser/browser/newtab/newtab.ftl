@@ -1878,7 +1878,7 @@ newtab-activation-window-message-dismiss-button =
 newtab-activation-window-message-customization-focus-header = Prispôsobte si tento priestor
 newtab-activation-window-message-customization-focus-message = Vyberte si novú tapetu, pridajte odkazy na svoje obľúbené stránky a zostaňte v obraze o príbehoch, ktoré vás zaujímajú.
 newtab-activation-window-message-customization-focus-primary-button =
-    .label = Začať prispôsobovať
+    .label = Začať s prispôsobením
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
 # meant to evoke the idea that newtab is malleable and customizable. The call to
 # action is to customize newtab with a background image or colour, or by tweaking

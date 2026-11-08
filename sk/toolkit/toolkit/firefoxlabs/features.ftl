@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = Poznámky ku kartám je experiment
 experimental-features-tab-context-menu =
     .label = Zjednodušená ponuka pre karty
 experimental-features-tab-context-menu-description = Po kliknutí pravým tlačidlom myši na kartu sa zobrazí jednoduchšia kontextová ponuka. Je navrhnutá tak, aby uľahčila vyhľadávanie bežných akcií. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Monitor prostriedkov

@@ -50,6 +50,14 @@ download-ui-cancel-downloads-ok =
        *[other] Áno, zrušiť sťahovanie { $downloadsCount } súborov
     }
 download-ui-confirm-cancel-button = Zrušiť
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Ukončiť { -brand-short-name(case: "acc") }
+       *[other] Ukončiť { -brand-short-name(case: "acc") }
+    }
+download-ui-confirm-offline-message = { -brand-short-name } sa po obnovení internetového pripojenia pokúsi pokračovať v sťahovaní, no doterajší priebeh sa môže stratiť.
+download-ui-confirm-offline-button = Prejsť do režimu bez pripojenia
+download-ui-confirm-private-browsing-button = Zavrieť okno
 
 ##
 
