@@ -16,6 +16,7 @@ smart-window-context-chips-tag-count =
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Nešto nije u redu. Pokušaj kasnije ponovo.
 smartwindow-assistant-error-budget-header = Dostigao/la si današnje ograničenje razgovora.
 smartwindow-retry-btn = Pokušaj ponovo
 smartwindow-clear-btn = Novi razgovor
@@ -80,7 +81,26 @@ smart-window-closed-tabs-label =
         [few] Zatvorene su { $count } kartice
        *[other] Zatvoreno je { $count } kartica
     }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Gotovo! Kartice su zatvorene.
+        [few] Gotovo! Kartice su zatvorene.
+       *[other] Gotovo! Kartice su zatvorene.
+    }
 smart-window-closed-tabs-row-label = Zatvorene kartice
+smart-window-closed-and-restored-label = Zatvorene i vraćene kartice
+smart-window-restored-row-label =
+    { $count ->
+        [one] Vraćena je { $count } kartica
+        [few] Vraćene su { $count } kartice
+       *[other] Vraćeno je { $count } kartica
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Kartice su zatvorene, a zatim vraćene.
+        [few] Kartice su zatvorene, a zatim vraćene.
+       *[other] Kartice su zatvorene, a zatim vraćene.
+    }
 smart-window-cancelled-label = Zahtjev je otkazan.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupiraj
@@ -112,7 +132,33 @@ smart-window-grouped-tabs-label =
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = Grupa kartica
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Stvorena je grupa „{ $label }” i dodana je { $count } kartica.
+        [few] Stvorena je grupa „{ $label }” i dodane su { $count } kartice.
+       *[other] Stvorena je grupa „{ $label }” i dodano je { $count } kartica.
+    }
 smart-window-grouped-tabs-row-label = Grupirane kartice
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Otvorena je { $count } kartica
+        [few] Otvorene su { $count } kartice
+       *[other] Otvoreno je { $count } kartica
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Otvorena je { $count } kartica.
+        [few] Otvorene su { $count } kartice.
+       *[other] Otvoreno je { $count } kartica.
+    }
 smart-window-opened-tabs-row-label = Otvorene kartice
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Prebačene kartice
@@ -155,3 +201,10 @@ action-log-checking-memories = Provjera sjećanja
 action-log-checked-memories = Provjerena su sjećanja
 action-log-searching-settings = Pretraživanje postavki
 action-log-searched-settings = Pretražene su postavke
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = + još { $count }

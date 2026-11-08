@@ -17,6 +17,12 @@ smartwindow-group-tabs-panel-heading = Organiziraj kartice
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Stvori sve grupe
 smartwindow-group-tabs-suggested-heading = Predložene grupe
+# Accessible name for the flyout that lists the tabs of one suggested group.
+# Activating a tab in the list switches to it.
+# Variables:
+#   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
+smartwindow-group-tabs-flyout-list =
+    .aria-label = Kartice u grupi { $groupLabel }
 # Heading for the list of groups the user just created (and can still undo).
 smartwindow-group-tabs-just-created-heading = Upravo stvoreno
 # Action that dissolves every group in the "Just created" list. The tabs stay

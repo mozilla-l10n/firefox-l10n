@@ -5,6 +5,17 @@
 
 ## Chrome
 
+appmenuitem-new-classic-window =
+    .label = Novi klasični prozor
+menu-file-new-ai-window =
+    .label = Novi { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Novi klasični prozor
+menu-history-chats =
+    .label = Razgovori
+menu-history-chats-recent =
+    .label = Nedavni razgovori
+smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nova kartica
 
 ## Smart Window Toggle Button
@@ -50,13 +61,28 @@ smartbar-placeholder-hint-2 = Pitaj bilo što…
 smartbar-placeholder-hint-3 = Unesi web adresu…
 smartbar-placeholder-hint-4 = Pretraži web…
 
+## Mentions
+
+smartbar-mentions-list-no-results-label = Nema rezultata
+smartbar-mentions-list-tab-groups-label = Nedavne grupe
+smartbar-mentions-list-recent-tabs-label = Nedavne kartice
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Dodaj karticu ili stranicu
+    .tooltiptext = Dodaj karticu ili stranicu
+
 ## Website Chip
 
+aiwindow-website-chip-history-deleted = Povijest je izbrisana
 aiwindow-website-chip-remove-button =
     .aria-label = Ukloni
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = Dobro došli u { -smart-window-brand-name }
+aiwindow-firstrun-model-title = Što ti je važno?
 aiwindow-firstrun-model-fast-label = Brzo
 aiwindow-firstrun-model-fast-body = Odgovara brzo
 # $shortName (string) - The short name of the model version
@@ -228,10 +254,13 @@ smart-window-default-promo-additional-button = Ne sada
 
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Pošalji povratne informacije
 aiwindow-feedback-submit = Pošalji
 aiwindow-feedback-cancel = Odustani
 aiwindow-feedback-reason-incorrect-or-misleading = Netočno ili obmanjujuće
 aiwindow-feedback-reason-other = Ostalo
+aiwindow-feedback-preview-report = Pogledaj detalje razgovora
+aiwindow-feedback-preview-report-with-page = Pogledaj detalje razgovora i stranice
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
