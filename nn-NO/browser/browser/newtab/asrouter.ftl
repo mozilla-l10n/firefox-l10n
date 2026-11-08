@@ -297,7 +297,7 @@ tail-fox-spotlight-secondary-button = Ikkje no
 
 welcome-back-spotlight-title = Gå tilbake til innebygd personvern
 welcome-back-spotlight-subtitle = Velkomen tilbake til den einaste store nettlesaren som er støtta av ein ideell organisasjon. Vi tek ekstra grep for å verne dataa dine same kvar du surfar.
-welcome-back-embedded-import-title = Importer dataa dine og gjer { -brand-short-name } til din eigen
+welcome-back-embedded-import-title = Importer dine data og gjer { -brand-short-name } til din eigen
 
 ## Root Certificate Succession Infobar
 

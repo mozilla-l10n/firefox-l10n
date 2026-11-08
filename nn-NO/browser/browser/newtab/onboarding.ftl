@@ -645,4 +645,19 @@ welcome-back-onboarding-card-tilebutton-label = Prøv det
 hnt-card-import-header = Set opp { -brand-short-name } på få sekund
 hnt-card-import-body = Importer bokmerke, passord, og meir. frå ein annan nettlesar.
 hnt-card-import-primary-button = Importer dine data
+hnt-card-default-body = { -brand-product-name } er den einaste store nettlesaren som er laga for å verne deg, ikkje spore deg.
+hnt-card-default-primary-button = Opne lenker med { -brand-short-name }
+hnt-card-pin-header = Ha alltid { -brand-short-name } lett tilgjengeleg
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Gå raskt tilbake til verna surfing frå Dock.
+       *[other] Gå raskt tilbake til verna surfing frå oppgåvelinja.
+    }
+hnt-card-mobile-header = Få innebygd vern på telefonen din
+hnt-card-mobile-primary-button = Få { -brand-product-name } for mobil.
+hnt-card-wallpaper-header = Vel eit nytt bakgrunnsbilde
+hnt-card-wallpaper-primary-button = Start tilpassing
+hnt-card-taskbar-tabs-header = Legg til favorittnettstadane dine på oppgåvelinja i Windows
+hnt-card-taskbar-tabs-primary-button = Legg til nettstadar på oppgavelinja
+hnt-card-extensions-header = Gje { -brand-short-name } eit løft med utvidingar
 hnt-card-extensions-primary-button = Utforsk
