@@ -54,6 +54,9 @@ inactive-css-not-table-cell = <strong>{ $property } </strong> neietekmē šo ele
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property } </strong> neietekmē šo elementu, jo tas neritina.
 inactive-css-border-image = <strong>{ $property } </strong> neietekmē šo elementu, jo to nevar lietot iekšējiem tabulas elementiem, kuros <strong>border-collapse</strong> ir iestatīts uz <strong>collapse</strong> vecāktabulas elementā.
 inactive-css-resize = <strong>{ $property } </strong> neietekmē šo elementu, jo to var lietot tikai elementiem ar pārpildes vērtību, kas nav redzama, un noteiktiem aizstātiem elementiem, piemēram, teksta apgabaliem.
+inactive-css-ruby-element = <strong>{ $property } </strong> neietekmē šo elementu, jo tas ir ruby elements. Tā izmēru nosaka ruby teksta fonta lielums.
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property } </strong> netiek atbalstīts izcelšanas pseidoelementos.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property } </strong> netiek atbalstīts ::cue pseidoelementos.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> netiek atbalstīts <strong>@position-try</strong> noteikumos.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
@@ -117,3 +120,13 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Mēģiniet
 inactive-css-not-multicol-container-fix-1 = Mēģiniet pievienot vai nu <strong>kolonnu skaitu</strong>, vai <strong>kolonnu platumu</strong>.
 inactive-css-column-span-fix-1 = Mēģiniet pievienot <strong>column-count</strong> vai <strong>column-width</strong> vienam no tā priekšteča elementiem.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Mēģiniet elementam pievienot <strong>position:absolute</strong> vai elementa vecākam pievienot <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vai <strong>display:inline-flex</strong>.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Mēģiniet elementam pievienot <strong>position:absolute</strong> vai elementa vecākam pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>.
+inactive-css-not-absolutely-positioned-item-fix-1 = Mēģiniet elementam pievienot <strong>position:absolute</strong>.
+inactive-css-no-default-anchor-fix-1 = Mēģiniet pievienot `position-anchor` ar derīgu enkura nosaukumu.
+inactive-css-not-grid-or-flex-item-fix-4 = Mēģiniet elementa vecākam pievienot <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vai <strong>display:inline-flex</strong>.
+inactive-css-not-grid-item-fix-3 = Mēģiniet pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong> elementa vecākajam elementam.
+inactive-css-not-grid-container-fix-1 = Mēģiniet pievienot <strong>display:grid</strong> vai <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Mēģiniet elementa vecākam pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>.
+inactive-css-not-flex-container-fix-1 = Mēģiniet pievienot <strong>display:flex</strong> vai <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Mēģiniet pievienot <strong>display:inline</strong> vai <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Mēģiniet pievienot <strong>display:inline-block</strong> vai <strong>display:block</strong>.
