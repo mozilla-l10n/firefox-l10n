@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = გიპასუხებთ { $provider }
 genai-menu-new-badge = სიახლე
 genai-menu-summarize-page = გვერდის შეჯამება
+genai-menu-summarize-with-ai = შეჯამება ხელგონით
 genai-input-ask-smart-window =
     .placeholder = ჰკითხეთ…
 genai-input-ask-generic =
     .placeholder = ჰკითხეთ AI-თანამოსაუბრეს…
+genai-input-ask-ai =
+    .placeholder = ჰკითხეთ ხელგონს…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = გიპასუხებთ { $provider }…

@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = ჩანართის შენ
 experimental-features-tab-context-menu =
     .label = მეტად სადა ჩანართების მენიუ
 experimental-features-tab-context-menu-description = იხილეთ მეტად გაიოლებული მენიუ ჩანართზე მარჯვენა წკაპისას. შექმნილია ხშირი მოქმედებების იოლად მოსანახად. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = დატვირთვის მეთვალყურეობა
+experimental-features-resource-monitor-description = იხილეთ მეხსიერებისა და პროცესორის დატვირთვის მიახლოებითი მაჩვენებლები გახსნილი ჩანართებისთვის პირდაპირ გვერდით ზოლზე და განტვირთეთ გამოუყენებელი ჩანართები რესურსების გამოსათავისუფლებლად. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>

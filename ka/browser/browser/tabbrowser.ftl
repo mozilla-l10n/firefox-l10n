@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = გაყოფილი ხედის ჩანართების ზომის ცვლა
 tab-devtools-splitter =
     .aria-label = შემმუშავებლის ხელსაწყოების ზომის ცვლა
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = ჩანართების დამატება ჯგუფში
+    .accesskey = ჯ
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -280,6 +285,13 @@ tab-context-move-tab-to-new-group =
            *[other] ჩანართების დამატება ახალ ჯგუფში
         }
     .accesskey = ჯ
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] ჯგუფში დამატება
+           *[other] დაამატეთ { $tabCount } ჩანართი ჯგუფში
+        }
+    .accesskey = ჯ
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -448,6 +460,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = გაყოფილი ხედის გაცალკევება
     .accesskey = ყ
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = ჩანართების განცალკევება
+    .accesskey = ც
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = ჩანართების უკუდალაგება
