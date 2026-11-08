@@ -985,6 +985,14 @@ urlbar-view-context-menu-open-in-window2 = Iepenje yn nij finster
     .accesskey = j
 urlbar-view-context-menu-open-in-private-window2 = Iepenje yn nij priveefinster
     .accesskey = v
+urlbar-view-context-menu-search-in-tab = Sykje yn nij ljepblêd
+    .accesskey = l
+urlbar-view-context-menu-search-in-container-tab = Sykje yn nij kontenerljepblêd
+    .accesskey = k
+urlbar-view-context-menu-search-in-window = Sykje yn nij finster
+    .accesskey = f
+urlbar-view-context-menu-search-in-private-window = Sykje yn nij priveefinster
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the

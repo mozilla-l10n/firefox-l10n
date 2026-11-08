@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Tabblad-URL kopiëren
 customkeys-file-focus-search = De zoekbalk focussen
 customkeys-history-reopen-tab = Laatst gesloten tabblad opnieuw openen
 customkeys-history-reopen-window = Laatst gesloten venster opnieuw openen
+customkeys-history-reopen-tab-current-window = Laatst gesloten tabblad van het huidige venster opnieuw openen
 customkeys-sidebar-toggle = Zijbalk in-/uitschakelen
 customkeys-view-bookmarks-toolbar = Bladwijzerwerkbalk in-/uitschakelen
 customkeys-view-picture-in-picture = Picture-in-Picture
