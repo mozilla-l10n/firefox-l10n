@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Ayrık görünüm sekmelerini yeniden boyutlandır
 tab-devtools-splitter =
     .aria-label = Geliştirici Araçları panelini yeniden boyutlandır
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Sekmeleri gruba ekle
+    .accesskey = g
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -289,6 +294,14 @@ tab-context-move-tab-to-new-group =
            *[other] Sekmeleri yeni gruba ekle
         }
     .accesskey = u
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Gruba ekle
+            [one] { $tabCount } sekmeyi gruba ekle
+           *[other] { $tabCount } sekmeyi gruba ekle
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -462,6 +475,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Ayrık görünümden çıkar
     .accesskey = r
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Sekmeleri ayır
+    .accesskey = ı
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Sekmeleri tersine çevir

@@ -643,6 +643,7 @@ welcome-back-onboarding-card-tilebutton-label = Dene
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = { -brand-short-name } tarayıcınızı saniyeler içinde kullanıma hazırlayın
 hnt-card-import-primary-button = Verilerimi içe aktar
 hnt-card-default-primary-button = Bağlantıları { -brand-short-name } ile aç
 hnt-card-wallpaper-header = Yeni bir duvar kâğıdı seçin

@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Bir sekmeye sağ tıkladı�
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Kaynak izleyicisi
+experimental-features-resource-monitor-description = Açık sekmelerinizin tahmini bellek ve CPU kullanımını doğrudan kenar çubuğunda görebilir, kullanmadığınız sekmeleri boşaltarak kaynakları serbest bırakabilirsiniz. <a data-l10n-name="connect">Görüş bildirin</a>

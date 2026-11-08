@@ -75,3 +75,13 @@ about-private-browsing-felt-privacy-v1-info-link = কে আমার কার
 
 about-private-browsing-nova-info-body = আপনার সমস্ত ব্যক্তিগত উইন্ডো বন্ধ করলে আপনার কুকি, ইতিহাস এবং সাইট ডেটা মুছে যায়।
 about-private-browsing-nova-info-link = কারা এখনও আমার কার্যকলাপ দেখতে পারবে?
+about-private-browsing-private-window-redesign-subheader = আপনার ব্রাউজিংয়ের সময় গোপনীয়তা রক্ষা করার জন্য { -brand-short-name }  ডিজাইন করা হয়েছে, যাতে বিল্ট-ইন ট্র্যাকিং সুরক্ষা রয়েছে। এই উইন্ডোটি বন্ধ করলে এর ইতিহাস, কুকিজ এবং সাইটের ডেটা মুছে যায়, যাতে এই ডিভাইস ব্যবহারকারী অন্য কারো থেকে আপনার ব্রাউজিং ব্যক্তিগত থাকে।
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = আপনার সমস্ত রেকর্ড সুরক্ষিত
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-subtitle = ব্যক্তিগত উইন্ডো এই ডিভাইসে আপনার ব্রাউজিংকে অন্যদের থেকে গোপন রাখতে সাহায্য করে। এগুলি আপনাকে বেনামী করে না বা আপনার সমস্ত ডেটা মুছে ফেলে না।
+about-private-browsing-spotlight-basics-activity-seen = বিভিন্ন সাইট, সার্চ ইঞ্জিন, ইন্টারনেট পরিষেবা প্রদানকারী বা আপনার নিয়োগকর্তা এখনও কিছু কার্যকলাপ দেখতে পারেন।

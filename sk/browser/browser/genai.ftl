@@ -171,7 +171,7 @@ genai-options-reload-provider =
 genai-options-show-shortcut =
     .label = Zobrazovať skratku pri výbere textu
 genai-options-hide-shortcut =
-    .label = Skryť skratku pri výbere textu
+    .label = Skryť skratku pri označení textu
 genai-options-about-chatbot =
     .label = O chatbotoch s umelou inteligenciou vo { -brand-short-name(case: "loc") }
 

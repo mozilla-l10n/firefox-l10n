@@ -116,7 +116,7 @@ extension-controlling-password-saving = Toto nastavenie je spravované rozšíre
 extension-controlling-web-notifications = Toto nastavenie je spravované rozšírením <img data-l10n-name="icon"/><strong>{ $name }</strong>
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> vyžaduje kontajnerové karty.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> vyžaduje karty v kontajneroch.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = Toto nastavenie je spravované rozšírením <img data-l10n-name="icon"/><strong>{ $name }</strong>
@@ -235,13 +235,13 @@ show-tabs-in-taskbar =
     .label = Zobrazovať ukážky kariet v paneli úloh systému Windows
     .accesskey = Z
 browser-containers-enabled-2 =
-    .label = Používať kontajnerové karty
+    .label = Používať karty v kontajneroch
     .accesskey = k
 browser-containers-learn-more = Ďalšie informácie
 browser-containers-settings-2 =
     .label = Spravovať nastavenia
     .accesskey = r
-containers-disable-alert-title = Zavrieť všetky kontajnerové karty?
+containers-disable-alert-title = Zavrieť všetky karty v kontajneroch?
 startup-group =
     .label = Spustenie
 
@@ -250,9 +250,9 @@ startup-group =
 
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Ak zakážete kontajnerové karty, { $tabCount } kontajnerová karta bude zatvorená. Naozaj chcete zakázať kontajnerové karty?
-        [few] Ak zakážete kontajnerové karty, { $tabCount } kontajnerové karty budú zatvorené. Naozaj chcete zakázať kontajnerové karty?
-       *[other] Ak zakážete kontajnerové karty, { $tabCount } kontajnerových kariet bude zatvorených. Naozaj chcete zakázať kontajnerové karty?
+        [one] Ak zakážete karty v kontajneroch, zatvorí sa { $tabCount } kontajnerová karta. Naozaj chcete zakázať karty v kontajneroch?
+        [few] Ak zakážete karty v kontajneroch, zatvoria sa { $tabCount } kontajnerové karty. Naozaj chcete zakázať karty v kontajneroch?
+       *[other] Ak zakážete karty v kontajneroch, zatvorí sa { $tabCount } kontajnerových kariet. Naozaj chcete zakázať karty v kontajneroch?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
