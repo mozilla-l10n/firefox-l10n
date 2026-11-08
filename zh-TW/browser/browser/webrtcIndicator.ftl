@@ -127,7 +127,7 @@ webrtc-allow-share-screen-and-audio-capture-with-file = 要允許這個本機檔
 ##   $thirdParty (String): the third party origin.
 
 webrtc-allow-share-audio-capture-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 聽到此分頁播放的音訊嗎？
-webrtc-allow-share-camera-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 使用您的攝影機與麥克風嗎？
+webrtc-allow-share-camera-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 使用您的攝影機嗎？
 webrtc-allow-share-microphone-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 使用您的麥克風嗎？
 webrtc-allow-share-screen-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 看到您的螢幕畫面嗎？
 # "Speakers" is used in a general sense that might include headphones or

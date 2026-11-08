@@ -17,6 +17,9 @@ cert-error-trust-untrusted-issuer = Šis sertifikāts nav uzticams, jo tā izdev
 cert-error-trust-signature-algorithm-disabled = Sertifikāts nav uzticams, jo ir parakstīts ar algoritmu, kas nav uzskatāms par drošu.
 cert-error-trust-expired-issuer = Šis sertifikāts nav uzticams, jo ir beidzies tā izdevēja sertifikāta derīgums.
 cert-error-trust-self-signed = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } neuzticas vietnei { $hostname }, jo tā nevarēja pierādīt atbilstību publisko sertifikātu pārredzamības prasībām.
 cert-error-untrusted-default = Sertifikāts nāk no nedroša avota.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -51,6 +54,7 @@ cert-error-code-prefix-link = Kļūdas kods: <a data-l10n-name="error-code-link"
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Notikusi kļūda savienojoties ar { $hostname }. { $errorMessage }
+cert-error-old-tls-version = Šī tīmekļa vietne, iespējams, neatbalsta TLS 1.2 protokolu, kas ir { -brand-short-name } atbalstītā minimālā versija.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
@@ -70,6 +74,11 @@ fp-certerror-return-to-previous-page-recommended-button-2 = Doties atpakaļ (iet
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } brīdina par šo vietni, jo { $hostname } sertifikāts ir atsaukts un vairs nav uzticams.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-revoked-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Tu vari sazināties ar tīmekļvietnes turētāju, lai noskaidrotu, vai tiek strādāts pie risinājuma.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Vietne ir iestatīta tā, lai atļautu tikai drošus savienojumus, taču ir problēma ar vietnes sertifikātu. Iespējams, ka ļaunprātīga persona mēģina uzdoties par vietni. Vietnes izmanto sertifikātu iestādes izsniegtus sertifikātus, lai pierādītu, ka tās patiešām ir tie, par kuriem tās uzdodas. { -brand-short-name } neuzticas šai vietnei, jo tās sertifikāts nav derīgs { $hostname }. Sertifikāts ir derīgs tikai: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Vietnes izmanto sertifikātus, kurus izdod sertifikātu autoritātes, lai pierādītu, ka vietnes tiešām ir tās, par ko uzdodas. Ja atrodies uzņēmuma tīklā, atbalsta komandai var būt vairāk informācijas. Ja izmanto pretvīrusu programmatūru, vari meklēt iespējamas nesaderības vai zināmas nepilnības.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
@@ -78,14 +87,54 @@ fp-certerror-bad-domain-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir 
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } brīdina par šo vietni, jo { $hostname } sertifikātu izdeva autoritāte, kas vairs nav uzticama.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-untrusted-issuer-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Tu vari sazināties ar tīmekļvietnes turētāju, lai noskaidrotu, vai tiek strādāts pie risinājuma.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Ir problēma ar vietnes sertifikātu. Iespējams, ka kāds ļaunprātīgs lietotājs mēģina atdarināt vietni. Vietnes izmanto sertifikātu iestādes izsniegtus sertifikātus, lai pierādītu, ka tās patiešām ir tie, par kuriem tās uzdodas. { -brand-short-name } neuzticas šai vietnei, jo mēs nevaram pateikt, kas izdevis sertifikātu, tas ir pašparakstīts vai vietne nesūta starpposma sertifikātus, kuriem mēs uzticamies.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Ja atrodies uzņēmuma tīklā, atbalsta komandai var būt vairāk informācijas. Ja izmanto pretvīrusu programmatūru, to var būt nepieciešams konfigurēt, lai darbotos kopā ar { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Jo ir problēma ar vietnes sertifikātu. Vietnes izmanto sertifikātu izdevējas iestādes izsniegtus sertifikātus, lai pierādītu savu identitāti. Šīs vietnes sertifikāts ir pašparakstīts. To nav izdevusi atzīta sertifikātu izdevēja iestāde, tāpēc mēs tam neuzticamies pēc noklusējuma.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ne daudz. Visticamāk, problēma ir pašā vietnē.
+fp-certerror-self-signed-important-note = SVARĪGA PIEZĪME. Ja mēģināt apmeklēt šo vietni uzņēmuma iekštīklā, jūsu IT darbinieki var izmantot pašparakstītus sertifikātus. Tie var palīdzēt jums pārbaudīt to autentiskumu.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Vietnes izmanto sertifikātu izdevējas iestādes izsniegtus sertifikātus, lai pierādītu savu identitāti. { -brand-short-name } neuzticas šai vietnei, jo izskatās, ka sertifikāta derīguma termiņš beidzies { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Vietnes izmanto sertifikātu izdevējas iestādes izsniegtus sertifikātus, lai pierādītu savu identitāti. { -brand-short-name } neuzticas šai vietnei, jo izskatās, ka sertifikāts nebūs derīgs līdz { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Jūsu ierīces pulkstenis ir iestatīts uz { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Ja tas ir pareizi, drošības problēma, iespējams, ir saistīta ar pašu vietni. Ja tas nav pareizi, varat to mainīt ierīces sistēmas iestatījumos.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kļūdas kods: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } neuzticas { $hostname }, jo nevarēja pierādīt, ka tas atbilst publisko sertifikātu caurspīdīguma prasībām.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-transparency-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni.
+fp-learn-more-about-secure-connection-failures = Uzziniet vairāk par drošu savienojumu kļūmēm
 fp-learn-more-about-cert-issues = Uzzināt vairāk par šāda veida sarežģījumiem ar sertifikātiem
+fp-learn-more-about-time-related-errors = Uzziniet vairāk par ar laiku saistītu kļūdu novēršanu
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } neuzticas šai vietnei, jo izskatās, ka sniegtais sertifikāts nav derīgs līdz { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Jūsu ierīces pulkstenis ir iestatīts uz { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Ja tas ir pareizi, drošības problēma, iespējams, ir saistīta ar pašu vietni. Ja tas nav pareizi, varat to mainīt ierīces sistēmas iestatījumos.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = { $hostname } īpašnieks to nav pareizi iestatījis, un drošu savienojumu nevar izveidot.
 
 ## Messages used for certificate error titles
 

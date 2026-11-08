@@ -65,7 +65,7 @@ edit-profile-page-duplicate-name = 已有這個名稱的設定檔，請改用其
 edit-profile-page-profile-saved = 已儲存
 new-profile-page-title = 新增設定檔
 new-profile-page-header = 自訂您的新設定檔
-new-profile-page-header-description = 每一套設定檔之間的瀏覽紀錄、設定等均彼此獨立。另外，{ -brand-short-name } 強大的安全性保護設定都會預設開啟。
+new-profile-page-header-description = 每一套設定檔之間的瀏覽紀錄、設定等均彼此獨立。另外，{ -brand-short-name } 強大的隱私保護設定都會預設開啟。
 new-profile-page-learn-more = 更多資訊
 new-profile-page-input-placeholder =
     .placeholder = 使用諸如「工作」或「個人」這樣的名稱
@@ -76,7 +76,7 @@ new-profile-page-done-button =
 copied-profile-page-header-2 = 已經可以調整您的「{ $profilename }」了
 copied-profile-page-header-description = 已將您的資料與設定複製到新的設定檔中。接下來取個名字、挑選外觀，讓它有您的風格。
 restored-profile-page-header = 自訂您還原的設定檔
-restored-profile-page-header-description = 每一套設定檔之間的瀏覽紀錄、設定等均彼此獨立。另外，{ -brand-short-name } 強大的安全性保護設定都會預設開啟。
+restored-profile-page-header-description = 每一套設定檔之間的瀏覽紀錄、設定等均彼此獨立。另外，{ -brand-short-name } 強大的隱私保護設定都會預設開啟。
 restored-profile-page-learn-more = 更多資訊
 profile-window-title-2 = { -brand-short-name } - 選擇設定檔
 profile-window-logo =
@@ -98,7 +98,7 @@ delete-profile-autofill = 表單自動填寫資料（地址、付款方式等）
 delete-profile-logins = 密碼
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title-2 = 刪除「{ $profilename }」原則
+delete-profile-page-title-2 = 刪除「{ $profilename }」設定檔
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header-2 = 要刪除「{ $profilename }」設定檔嗎？

@@ -25,7 +25,7 @@ protection-report-page-content-title = 保護資訊儀錶板
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = 當您上網時，{ -brand-short-name } 可在背景保護您的隱私。以下是這些保護的個人摘要，以及能夠用來保護線上安全性的各種工具。
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = 當您上網時，{ -brand-short-name } 可在背景保護您的隱私。以下是這些保護的個人摘要，以及能夠用來保護線上安全性的各種工具。
+protection-report-page-summary-default = 當您上網時，{ -brand-short-name } 會在背景保護您的隱私。以下是這些保護的個人摘要，以及能夠用來保護線上安全性的各種工具。
 protection-report-settings-link = 管理您的隱私權與安全性設定
 etp-card-title-always = 加強型追蹤保護：總是開啟
 etp-card-title-custom-not-blocking = 加強型追蹤保護：關閉
@@ -159,35 +159,35 @@ monitor-resolve-breaches-link = 處理資料外洩事件
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = 社群網路追蹤器
     .aria-label =
         { $count ->
            *[other] { $count } 組社群網路追蹤器（{ $percentage }%）
         }
+    .title = 社群網路追蹤器
 bar-tooltip-cookie =
-    .title = 跨網站追蹤 Cookie
     .aria-label =
         { $count ->
            *[other] { $count } 組跨網站追蹤 Cookie（{ $percentage }%）
         }
+    .title = 跨網站追蹤 Cookie
 bar-tooltip-tracker =
-    .title = 追蹤用內容
     .aria-label =
         { $count ->
            *[other] { $count } 組追蹤用內容（{ $percentage }%）
         }
+    .title = 追蹤用內容
 bar-tooltip-fingerprinter =
-    .title = 數位指紋追蹤程式
     .aria-label =
         { $count ->
            *[other] { $count } 組數位指紋追蹤程式（{ $percentage }%）
         }
+    .title = 數位指紋追蹤程式
 bar-tooltip-cryptominer =
-    .title = 加密貨幣採礦程式
     .aria-label =
         { $count ->
            *[other] { $count } 組加密貨幣採礦程式（{ $percentage }%）
         }
+    .title = 加密貨幣採礦程式
 # Privacy Metrics Card
 privacy-metrics-title = 隱私保護
 # Variables:
@@ -220,5 +220,5 @@ protections-vpn-title-subscribed = VPN：已訂閱
 #   $count (number): Number of devices
 protections-vpn-header-content-subscribed = 使用 { -mozilla-vpn-brand-name } 於最多 { $count } 台裝置加密您的所有網路流量，隱藏您的實際所在位置。獲得您的訂閱內容的完整功能：請到 <a data-l10n-name="playstore-link">Google Play 商店</a>或 <a data-l10n-name="appstore-link">Apple App Store</a> 下載。
 protections-vpn-banner-header = 保護不僅限於瀏覽器
-protections-vpn-banner-content = 免費試用 { -mozilla-vpn-brand-name }，看看為什麼 TechRadar 說「他的速度、簡潔程度、每月低價格使其值得一試」。
+protections-vpn-banner-content = 免費試用 { -mozilla-vpn-brand-name }，看看為什麼 TechRadar 說「它的速度、簡潔程度、每月低價格使其值得一試」。
 protections-vpn-banner-link = 下載 { -mozilla-vpn-brand-name }

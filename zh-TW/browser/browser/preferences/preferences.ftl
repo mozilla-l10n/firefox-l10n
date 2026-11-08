@@ -2020,7 +2020,7 @@ certs-devices-enable-fips = 啟用 FIPS
 space-alert-over-5gb-settings-button =
     .label = 開啟選項
     .accesskey = O
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。您可以到「選項 > 隱私權與安全性 > Cookie 與網站資料」清除目前儲存的網站資料。
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。您可以到「設定 > 隱私權與安全性 > Cookie 與網站資料」清除目前儲存的網站資料。
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。請點擊「瞭解更多」清理磁碟空間，讓您有更好的瀏覽體驗。
 certs-description3 =
     .description = 設定 { -brand-short-name } 要用來確認加密連線的憑證。
@@ -2226,7 +2226,7 @@ related-settings-tabs-browsing-link =
 
 ## AI controls page
 
-preferences-ai-controls-description = 您可隨時在 { -brand-short-name } 決定是否使用 AI 擴充功能。即將推出更多控制設定。
+preferences-ai-controls-description = 您可隨時在 { -brand-short-name } 決定是否使用 AI 強化功能。即將推出更多控制設定。
 preferences-ai-controls-block-ai-label = 封鎖 AI 強化功能
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
@@ -2244,7 +2244,7 @@ preferences-ai-controls-pdfjs-control =
     .description = 當您新增圖片到 PDF 當中時，根據圖片內容加入描述，讓圖片更有親和力。
     .label = { -brand-short-name } PDF 檢視器中的圖片替代文字
 preferences-ai-controls-tab-group-suggestions-control =
-    .description = 管理您的分頁，並提供名稱建議。
+    .description = 取得為分頁命名與整理分頁的建議。
     .label = 分頁群組建議
 preferences-ai-controls-key-points-control =
     .description = 在開啟鏈結之前先看一下快速摘要。

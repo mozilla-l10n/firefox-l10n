@@ -12,7 +12,7 @@ menu-view-resource-monitor =
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
 menu-view-open-tabs =
-    .label = 開啟分頁
+    .label = 已開啟的分頁
 sidebar-options-menu-button =
     .title = 開啟選單
 # Accessible label for the splitter used to resize the sidebar.
@@ -198,7 +198,7 @@ sidebar-menu-synced-tabs-label =
 # menu. "Open tabs" is a noun phrase referring to the tabs currently open
 # in the browser, not an instruction to open tabs.
 sidebar-menu-open-tabs-label =
-    .label = 開啟分頁
+    .label = 已開啟的分頁
 sidebar-menu-bookmarks-label =
     .label = 書籤
 sidebar-menu-customize-label =

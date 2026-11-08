@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = 新分頁
-tabbrowser-empty-private-tab-title = 開新隱私分頁
+tabbrowser-empty-private-tab-title = 新隱私分頁
 tabbrowser-menuitem-close-tab =
     .label = 關閉分頁
 tabbrowser-menuitem-close =
@@ -131,7 +131,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = 下次不要再顯示此對話方塊
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-all-duplicate-tabs-title = 要關閉重複開啟的分頁嗎？
-tabbrowser-confirm-close-all-duplicate-tabs-text = 將關閉此視窗中重複的分頁，只保留最後一個開啟的分頁。
+tabbrowser-confirm-close-all-duplicate-tabs-text = 將關閉此視窗中重複的分頁，只保留最後使用的分頁。
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = 關閉分頁
 
 ##
@@ -299,7 +299,7 @@ tab-group-editor-action-copy-links =
     .label =
         { $linkCount ->
             [1] 複製群組中的鏈結
-           *[other] 複製群組中的 { $linkCount } 的鏈結
+           *[other] 複製群組中的 { $linkCount } 個鏈結
         }
 tab-group-editor-action-save =
     .label = 儲存並關閉群組

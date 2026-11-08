@@ -4,7 +4,7 @@
 
 safeb-blocked-phishing-page-title = 前方有詐騙網站！
 safeb-blocked-malware-page-title = 前往此網站可能會傷害您的電腦
-safeb-blocked-unwanted-page-title = 此網站可能含有惡意軟體
+safeb-blocked-unwanted-page-title = 此網站可能含有有害軟體
 safeb-blocked-harmful-page-title = 此網站可能含有惡意軟體
 safeb-blocked-addon-page-title = 為了您的安全，已封鎖此網站
 safeb-blocked-phishing-page-short-desc = 因為網頁中的內容可能會誤導您安裝惡意軟體，或讓您提供密碼、信用卡號等個人資訊，{ -brand-short-name } 已封鎖此頁面。

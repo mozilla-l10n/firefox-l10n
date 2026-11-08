@@ -89,10 +89,10 @@ protections-panel-cryptominers = 加密貨幣採礦程式會使用您電腦的�
 protections-panel-fingerprinters = 數位指紋追蹤程式會針對您的瀏覽器、電腦設定來建立您的獨特輪廓，並在不同網站間追蹤您。
 protections-panel-tracking-content = 網站中可能會有包含追蹤碼的外部廣告、影片或其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。
 protections-panel-social-media-trackers = 社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。
-protections-panel-description-shim-allowed = 由於您已與此頁面中的部分追蹤器互動過，已解除封鎖下列標示的追蹤器。
+protections-panel-description-shim-allowed = 由於您已與此頁面中的部分追蹤器互動過，已部分解除封鎖下列標示的追蹤器。
 protections-panel-description-shim-allowed-learn-more = 了解更多
 protections-panel-shim-allowed-indicator =
-    .tooltiptext = 部分追蹤器已解除封鎖
+    .tooltiptext = 已解除封鎖部分追蹤器
 protections-panel-content-blocking-manage-settings =
     .label = 管理保護設定
     .accesskey = M
@@ -121,5 +121,5 @@ protections-panel-report-broken-site =
 ## Protections panel info message
 
 cfr-protections-panel-header = 上網不被追蹤
-cfr-protections-panel-body = 保留自己的資料。{ -brand-short-name } 不讓常見的追蹤器記錄您的上網行為。
+cfr-protections-panel-body = 保留自己的資料。{ -brand-short-name } 不讓許多常見的追蹤器記錄您的上網行為。
 cfr-protections-panel-link-text = 了解更多
