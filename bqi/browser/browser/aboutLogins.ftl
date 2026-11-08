@@ -175,6 +175,8 @@ confirmation-dialog-dismiss-button =
     .title = لقو
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = رزم پاک بۊ؟
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = ایسا نترین ای کاری ک ٱنجوم داڌین ن لقو کۊنین وو وورگرتین.
 about-logins-confirm-remove-dialog-confirm-button = پاک کردن
@@ -190,12 +192,26 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] پاک کردن
        *[other] پاک کردن پوی
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] پاک کردن
+        [one] پاک کردن
+       *[other] پاک کردن پوی
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] هری، رزم ن پاک کۊنین
         [one] هری، رزم ن پاک کۊنین
        *[other] هری، رزما ن پاک کۊنین
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] هری، رزم پاک بۊ
+        [one] هری، رزم پاک بۊ
+       *[other] هری، رزما پاک بۊن
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =

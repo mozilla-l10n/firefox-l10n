@@ -286,7 +286,7 @@ downloads-warned-by-content-analysis = ეს ჩამოტვირთვა 
 downloads-content-analysis-no-agent-error = ფაილი შეიზღუდა, ვინაიდან { $agent } მიუწვდომელია.
 downloads-content-analysis-invalid-agent-signature-error = ფაილი შეიზღუდა, ვინაიდან { $agent } ვერ ადასტურებს ხელმოწერას.
 downloads-content-analysis-unspecified-error = ფაილი შეიზღუდა, ვინაიდან { $agent } ხარვეზებით უკავშირდება.
-downloads-content-analysis-timeout-error = { $agent } ვადაგასულია, ასე რომ ეს ფაილი შეიზღუდა.
+downloads-content-analysis-timeout-error = { $agent } ვადაგასულია, ასე რომ, ეს ფაილი შეიზღუდა.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

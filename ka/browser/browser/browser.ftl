@@ -1692,7 +1692,7 @@ urlbar-trust-icon-trackers-blocked-longform-label =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-description = { -brand-product-name } მიიჩნევს, რომ კომპანიები ნაკლებად უნდა გადევნებდნენ თვალს. ასე რომ ჩვენ ვზღუდავთ რაც შეიძლება მეტ მათგანს.
+trustpanel-blocker-description = { -brand-product-name } მიიჩნევს, რომ კომპანიები ნაკლებად უნდა გადევნებდნენ თვალს. ასე რომ, ჩვენ ვზღუდავთ რაც შეიძლება მეტ მათგანს.
 trustpanel-blocked-header = { -brand-product-name } თქვენთვის ზღუდავს შემდეგს:
 trustpanel-tracking-header = { -brand-product-name } საიტების გაუმართაობის ასარიდებლად არ ზღუდავს შემდეგს:
 trustpanel-tracking-description = მეთვალყურეების შეზღუდვით ზოგიერთმა ღილაკმა, კითხვარის შესავსებმა და ანგარიშზე შესვლის ველებმა შეიძლება ვერ იმუშაოს.

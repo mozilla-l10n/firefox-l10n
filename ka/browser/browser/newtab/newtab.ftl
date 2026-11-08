@@ -192,6 +192,9 @@ newtab-privacy-empty-state = { -brand-short-name } თავისთავა�
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = შეჯამებულად ნაჩვენებია აქ.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = ნაკლები მეთვალყურე, მეტად სწრაფი თვალიერება.
+newtab-privacy-empty-state-small-message = მოინახულეთ შეზღუდვის ასამუშავებლად.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -209,7 +212,7 @@ newtab-privacy-message-info-1 = { -brand-short-name } თავისთავ�
 newtab-privacy-message-info-1-cta = დაცვის შესახებ
 newtab-privacy-message-info-2 = მეთვალყურეთა შეზღუდვა აღუკვეთს კომპანიებს ინტერნეტში თქვენს დევნას.
 newtab-privacy-message-info-2-cta = დაცვის შესახებ
-newtab-privacy-message-info-3 = ბევრ საიტზეა განთავსებული მეთვალყურეები, ასე რომ იმ კომპანიებსაც შეუძლია თვალი გადევნონ, რომლებიც არც კი მოგინახულებიათ.
+newtab-privacy-message-info-3 = ბევრ საიტზეა განთავსებული მეთვალყურეები, ასე რომ, იმ კომპანიებსაც შეუძლია თვალი გადევნონ, რომლებიც არც კი მოგინახულებიათ.
 newtab-privacy-message-info-3-cta = დაცვის შესახებ
 newtab-privacy-message-info-4 = აირჩიოთ { -brand-short-name } იგივეა, რომ აირჩიოთ თავისთავადი დაცვა.
 newtab-privacy-message-info-4-cta = დაცვის შესახებ
@@ -1457,6 +1460,12 @@ newtab-widget-menu-move-left = მარცხნივ
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = მარჯვნივ
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = მთავარი
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = ჩანამატები
 newtab-widget-size-small = მომცრო
 newtab-widget-size-medium = საშუალო
 newtab-widget-size-large = მოზრდილი

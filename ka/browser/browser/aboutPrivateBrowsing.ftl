@@ -63,7 +63,7 @@ about-private-browsing-relay-promo-link-text = მოსინჯეთ ელ�
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } თავადვე მოიცილებს ფუნთუშების მოთხოვნებს
-about-private-browsing-cookie-banners-promo-body = ახლა უკვე თავისთავადაა შესაძლებელი ფუნთუშის მოთხოვნების უარყოფა, ასე რომ შეგიძლიათ აირიდოთ ზედმეტი თვალთვალი და ყურადღების გაფანტვა გვერდების მონახულებისას.
+about-private-browsing-cookie-banners-promo-body = ახლა უკვე თავისთავადაა შესაძლებელი ფუნთუშის მოთხოვნების უარყოფა, ასე რომ, შეგიძლიათ აირიდოთ ზედმეტი თვალთვალი და ყურადღების გაფანტვა გვერდების მონახულებისას.
 
 ## Strings for the info section of about:privatebrowsing
 
