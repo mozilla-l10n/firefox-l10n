@@ -660,4 +660,6 @@ hnt-card-wallpaper-primary-button = Start tilpassing
 hnt-card-taskbar-tabs-header = Legg til favorittnettstadane dine på oppgåvelinja i Windows
 hnt-card-taskbar-tabs-primary-button = Legg til nettstadar på oppgavelinja
 hnt-card-extensions-header = Gje { -brand-short-name } eit løft med utvidingar
+hnt-card-extensions-body = Tilpass nettlesaropplevinga di med dei mest populære utvidingane våre.
 hnt-card-extensions-primary-button = Utforsk
+hnt-card-last-card-header-end = Sporingsvern er på.

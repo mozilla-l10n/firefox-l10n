@@ -285,6 +285,13 @@ tab-context-move-tab-to-new-group =
            *[other] Legg til faner i ny gruppe
         }
     .accesskey = n
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Legg til i gruppe
+           *[other] Legg til { $tabCount } faner i gruppa
+        }
+    .accesskey = L
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -307,7 +314,7 @@ tab-context-move-split-view-to-group =
         }
     .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
-    .label = Opne profileringsverktøy-panelet
+    .label = Attlatne grupper
 tab-group-editor-action-new-tab =
     .label = Ny fane i gruppe
 tab-group-editor-action-new-window =

@@ -107,9 +107,16 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Opne i ei ny behaldarfane
     .accesskey = O
+tab-context-open-in-container =
+    .label = Opne i behaldar
+    .accesskey = e
 move-to-start =
     .label = Flytt heilt til venstre
     .accesskey = v
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Start
+    .accesskey = S
 move-to-end =
     .label = Flytt heilt til høgre
     .accesskey = h
@@ -158,6 +165,8 @@ tab-context-new-group =
     .accesskey = N
 tab-context-add-tab-to-group-new-group =
     .label = Ny gruppe
+tab-context-add-tab-to-group-closed-groups =
+    .label = Attlatne grupper
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
