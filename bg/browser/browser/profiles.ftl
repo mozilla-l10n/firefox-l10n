@@ -36,6 +36,7 @@ avatar-selector-icon-list =
     .aria-label = Изберете аватар
 edit-profile-page-no-name = Озаглавете този профил, за да го намерите с лекота по-късно. Може да се преименува по всяко време.
 new-profile-page-learn-more = Научете повече
+profile-window-title-2 = { -brand-short-name } – Избор на потребителски профил
 profile-window-logo =
     .alt = Лого на { -brand-short-name }
 

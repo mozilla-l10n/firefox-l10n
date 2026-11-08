@@ -13,6 +13,7 @@
 webext-perms-sideload-header = { $extension } pievienots
 webext-perms-optional-perms-header2 = { $extension } ir nepieciešamas papildu atļaujas
 webext-perms-header2 = Pievienot { $extension }
+webext-perms-list-intro-unsigned = Šis nepārbaudītais paplašinājums var apdraudēt jūsu privātumu vai ierīces drošību. Pievienojiet to tikai tad, ja uzticaties avotam.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -20,6 +21,14 @@ webext-perms-header-required-perms = Nepieciešamās atļaujas:
 webext-perms-header-optional-settings = Izvēles iestatījumi:
 webext-perms-header-update-required-perms = Jaunas nepieciešamās atļaujas:
 webext-perms-header-optional-required-perms = Jaunas atļaujas:
+webext-perms-header-data-collection-perms = Nepieciešamā datu vākšana:
+webext-perms-header-data-collection-is-none = Datu vākšana:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Jauna obligātā datu vākšana:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Jauna datu vākšana:
 
 ##
 
@@ -51,12 +60,29 @@ webext-perms-optional-perms-deny =
     .label = Neatļaut
     .accesskey = N
 webext-perms-host-description-all-urls = Piekļuve visiem datiem visās tīmekļvietnēs
+webext-perms-host-description-file-urls = Piekļūstiet lokālajiem failiem savā datorā
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Piekļuve visiem datiem { $domain } domēna vietnēs
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Pieeja jūsu datiem no { $domain }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Piekļūstiet saviem datiem vietnēm domēnos { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { $domainCount ->
+        [zero] Piekļūstiet saviem datiem vietnēs { $domainCount } domēnos
+        [one] Piekļūstiet saviem datiem vietnēs { $domainCount } domēnā
+       *[other] Piekļūstiet saviem datiem vietnēs { $domainCount } domēnos
+    }
 
 ## Strings for data collection permissions in the permission prompt.
 

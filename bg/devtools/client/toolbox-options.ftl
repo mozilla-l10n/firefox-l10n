@@ -88,6 +88,11 @@ options-sourceeditor-tabsize-label = Размер на табулатора
 options-sourceeditor-keybinding-label = Клавишни комбинации
 options-sourceeditor-keybinding-default-label = Стандартни
 
+## Local Mode section
+
+options-local-mode-choose-folder = Разглеждане…
+    .title = Изберете локална папка, която да обслужва това съпоставяне
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

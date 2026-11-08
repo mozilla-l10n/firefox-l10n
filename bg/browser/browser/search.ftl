@@ -32,3 +32,7 @@ add-engine-window =
     .title = Добавяне на търсеща машина
 add-engine-button = Добавяне на търсеща машина от потребител
 add-engine-name = Име на търсеща машина
+
+## The following strings are used as error messages.
+
+add-engine-name-exists = Това име вече се използва. Моля, изберете другo.

@@ -7,6 +7,13 @@
 
 
 ## These labels are used by screenreaders and other assistive technology
+## to indicate the purpose of this picker as both a calendar with a month-year
+## and a time selection dialog for HTML's <input type="datetime-local">
+
+datetime-picker-label =
+    .aria-label = Изберете дата и час
+
+## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's default <input type="date">
 
