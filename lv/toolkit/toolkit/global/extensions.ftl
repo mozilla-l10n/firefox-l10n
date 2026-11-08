@@ -60,7 +60,7 @@ webext-perms-optional-perms-deny =
     .label = Neatļaut
     .accesskey = N
 webext-perms-host-description-all-urls = Piekļuve visiem datiem visās tīmekļvietnēs
-webext-perms-host-description-file-urls = Piekļūstiet lokālajiem failiem savā datorā
+webext-perms-host-description-file-urls = Piekļūsti vietējām datnēm datorā
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Piekļuve visiem datiem { $domain } domēna vietnēs
