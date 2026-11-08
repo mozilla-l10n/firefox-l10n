@@ -173,7 +173,7 @@ main-context-menu-open-link-split-view =
     .label = Otvoriť odkaz v rozdelenom zobrazení
     .accesskey = r
 main-context-menu-open-link-container-tab =
-    .label = Otvoriť odkaz na novej kontajnerovej karte
+    .label = Otvoriť odkaz na novej karte v kontajneri
     .accesskey = z
 main-context-menu-open-link-new-window =
     .label = Otvoriť odkaz v novom okne
@@ -443,7 +443,7 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
-    .label = Otvoriť odkaz na novej karte kontajnera { $containerName }
+    .label = Otvoriť odkaz na novej karte v kontajneri { $containerName }
     .accesskey = z
 main-context-menu-reveal-password =
     .label = Odhaliť heslo

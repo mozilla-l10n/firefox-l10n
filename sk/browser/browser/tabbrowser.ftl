@@ -494,8 +494,8 @@ tab-context-separate-split-view =
     .accesskey = e
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
-    .label = Otočiť poradie kariet
-    .accesskey = O
+    .label = Prehodiť karty
+    .accesskey = o
 tab-context-badge-new = Novinka
 # The label of a badge shown in menu items to call out features that are in beta.
 tab-context-badge-beta = Beta
@@ -519,6 +519,6 @@ split-view-menuitem-separate-tabs =
     .label = Oddeliť karty
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
-    .label = Otočiť karty
+    .label = Prehodiť karty
 split-view-menuitem-close-both-tabs =
     .label = Zavrieť obe karty

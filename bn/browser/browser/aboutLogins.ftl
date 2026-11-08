@@ -89,6 +89,7 @@ about-logins-intro-import3 = এখন একটি পাসওয়ার্�
 about-logins-login-item-new-login-title = পাসওয়ার্ড যোগ করুন
 login-item-edit-button = সম্পাদনা
 about-logins-login-item-remove-button = অপসারণ
+about-logins-login-item-delete-button = মুছে ফেলুন
 login-item-origin-label = ওয়েবসাইটের ঠিকানা
 about-logins-origin-tooltip2 = সম্পূর্ণ ঠিকানা লিখুন এবং নিশ্চিত করুন যে আপনি যেখানে সাইন ইন করেছেন তার সাথে এটির সঠিক মিল।
 # Variables

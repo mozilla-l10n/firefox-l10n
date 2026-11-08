@@ -45,6 +45,17 @@ dom-manifest-image-url-is-invalid = { $index }. indeksteki { $memberName } öğe
 # Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
 dom-manifest-image-unusable = { $index } numaralı indeksteki { $memberName } öğesinin kullanılabilir bir amacı yok. Görmezden geliniyor.
 # Variables:
+#   $memberName (String) - The name of the parent property that contains the unsupported value, e.g. "icons".
+#   $index (Number) - The index of the image object that has the unsupported value, starting from 0.
+#   $count (Number) - The number of unknown purposes.
+#   $purposes (String) - The list of unknown purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes unsupported purposes: a, b."
+dom-manifest-image-unsupported-purposes =
+    { $count ->
+        [one] { $index } numaralı indeksteki { $memberName } öğesi desteklenmeyen bir amaç içeriyor: { $thirds }.
+       *[other] { $index } numaralı indeksteki { $memberName } öğesi desteklenmeyen amaçlar içeriyor: { $thirds }.
+    }
+# Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
 #   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
 #   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".

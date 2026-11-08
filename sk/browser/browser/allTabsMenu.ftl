@@ -6,7 +6,7 @@
 all-tabs-menu-search-tabs =
     .label = Hľadať v kartách
 all-tabs-menu-new-user-context =
-    .label = Nová kontajnerová karta
+    .label = Nová karta v kontajneri
 all-tabs-menu-hidden-tabs =
     .label = Skryté karty
 all-tabs-menu-close-duplicate-tabs =

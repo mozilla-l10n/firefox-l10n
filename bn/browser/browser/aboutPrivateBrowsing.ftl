@@ -52,6 +52,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = আপনার ডেস্কটপ থেকে কোনো কুকি বা ইতিহাস সংরক্ষিত হয়নি। ব্রাউজ করুন এমনভাবে যেন কেউ দেখছে না।
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = ইমেল মাস্ক ব্যবহার করে ইনবক্স স্প্যাম প্রতিরোধ করুন।
+about-private-browsing-relay-promo-title = সাইন আপ করার সময়, কেনাকাটা করার সময় বা অনলাইনে শেয়ার করার সময় ইমেল মাস্ক ব্যবহার করে আপনার আসল ঠিকানা গোপন রাখুন।
+about-private-browsing-relay-promo-link-text = ইমেল মাস্ক ব্যবহার করে দেখুন
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -64,3 +70,8 @@ about-private-browsing-cookie-banners-promo-body = আমরা এখন স্
 about-private-browsing-felt-privacy-v1-info-header = এই ডিভাইসে কোন ট্রেস রাখবেন না
 about-private-browsing-felt-privacy-v1-info-body = আপনি যখন আপনার সমস্ত ব্যক্তিগত উইন্ডো বন্ধ করেন তখন { -brand-short-name } আপনার কুকি, ইতিহাস এবং সাইট ডেটা মুছে দেয়৷
 about-private-browsing-felt-privacy-v1-info-link = কে আমার কার্যকলাপ দেখতে সক্ষম হতে পারে?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = আপনার সমস্ত ব্যক্তিগত উইন্ডো বন্ধ করলে আপনার কুকি, ইতিহাস এবং সাইট ডেটা মুছে যায়।
+about-private-browsing-nova-info-link = কারা এখনও আমার কার্যকলাপ দেখতে পারবে?

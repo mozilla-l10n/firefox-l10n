@@ -34,19 +34,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Soldaki sekmeleri kapat
     .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Soldaki sekmeler
+    .accesskey = S
 close-tabs-to-the-start-vertical =
     .label = Üstteki sekmeleri kapat
+    .accesskey = Ü
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Üstteki sekmeler
     .accesskey = Ü
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Sağdaki sekmeleri kapat
     .accesskey = a
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Sağdaki sekmeler
+    .accesskey = a
 close-tabs-to-the-end-vertical =
     .label = Alttaki sekmeleri kapat
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Alttaki sekmeler
+    .accesskey = A
 close-other-tabs =
     .label = Diğer sekmeleri kapat
+    .accesskey = D
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Diğer sekmeler
     .accesskey = D
 reload-tabs =
     .label = Sekmeleri tazele
@@ -85,14 +107,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Yeni kapsayıcı sekmede aç
     .accesskey = e
+tab-context-open-in-container =
+    .label = Kapsayıcıda aç
+    .accesskey = ı
 move-to-start =
     .label = En başa taşı
     .accesskey = E
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Başa
+    .accesskey = B
 move-to-end =
     .label = En sona taşı
     .accesskey = s
+move-to-end-alt =
+    .label = Sona
+    .accesskey = S
 move-to-new-window =
     .label = Yeni pencereye taşı
+    .accesskey = Y
+move-to-new-window-alt =
+    .label = Yeni pencereye
     .accesskey = Y
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -108,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Yinelenen sekmeleri kapat
     .accesskey = Y
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Sekmeleri çoğalt
+    .accesskey = S
 tab-context-close-duplicate-tabs2 =
     .label = Bu sekmenin kopyalarını kapat
     .accesskey = B
