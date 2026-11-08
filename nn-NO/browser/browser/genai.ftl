@@ -104,6 +104,7 @@ genai-shortcut-button =
     .aria-label = Spør { $provider }
 genai-menu-new-badge = Ny
 genai-menu-summarize-page = Samanfatt side
+genai-menu-summarize-with-ai = Oppsummer med KI
 genai-input-ask-smart-window =
     .placeholder = Spør…
 genai-input-ask-generic =

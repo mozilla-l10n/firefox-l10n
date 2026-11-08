@@ -147,6 +147,14 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Dette vil fjerne passordet lagra i { -brand-short-name } på alle dei synkroniserte einingane dine, samt eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
        *[other] Dette vil fjerne alle passorda lagra i { -brand-short-name } på alle dei synkroniserte einingane dine, samt eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Dette slettar det frå { -brand-short-name } på alle einingar som synkroniserer passorda dine. Du kan ikkje angre dette.
+        [one] Dette slettar passorda frå { -brand-short-name } på alle einingar som synkroniserer passorda dine. Du kan ikkje angre dette.
+       *[other] Dette slettar passorda frå { -brand-short-name } på alle einingar som synkroniserer passorda dine. Du kan ikkje angre dette.
+    }
 contextual-manager-passwords-origin-label = Nettstad
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Brukarnamn
@@ -348,6 +356,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Ja, fjern passordet
        *[other] Yes, remove passwords
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Ja, slett passordet
+        [one] Ja, slett passordet
+       *[other] Ja, slett passorda
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = For å sjå dei lagra passorda dine, skriv inn hovudpassordet ditt.
