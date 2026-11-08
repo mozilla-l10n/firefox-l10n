@@ -36,6 +36,9 @@ theme-picker-spark =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
     .label = Пламък
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = Пламък
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = Лавандула
@@ -50,7 +53,7 @@ theme-picker-pine =
     .label = Бор
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide =
-    .label = Прилив
+    .label = Море
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash =
     .label = Пепел
@@ -80,7 +83,7 @@ theme-picker-flame-aria-label =
     .aria-label = Пламък
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare-aria-label =
-    .aria-label = Факел
+    .aria-label = Пламък
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = Лавандула
@@ -95,7 +98,7 @@ theme-picker-pine-aria-label =
     .aria-label = Бор
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide-aria-label =
-    .aria-label = Прилив
+    .aria-label = Море
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash-aria-label =
     .aria-label = Пепел

@@ -27,6 +27,9 @@ home-homepage-new-windows =
     .label = Нови прозорци
 home-homepage-new-tabs =
     .label = Нов раздел
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Изберете конкретен сайт
 
 ## Firefox Home content
 
@@ -50,6 +53,8 @@ home-prefs-clocks-header =
     .label = Часовник
 home-prefs-manage-widgets-link =
     .label = Управление на уиджетите
+home-prefs-choose-wallpaper-link2 =
+    .label = Изберете тапет
 home-prefs-firefox-logo-header =
     .label = Лого на { -brand-short-name }
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
@@ -662,6 +667,8 @@ newtab-widget-timer-celebration-message-focus = Нуждаете ли се от 
 
 ##
 
+newtab-sports-widget-choose-wallpaper =
+    .label = Изберете тапет
 newtab-sports-widget-done-button =
     .label = Готово
 
