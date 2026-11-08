@@ -591,6 +591,9 @@ newtab-widget-wrexhamafc-menu-view = Vista
 
 newtab-widget-wrexhamafc-view-matches = Jogos
 newtab-widget-wrexhamafc-view-table = Tabela
+newtab-widget-wrexhamafc-view-fixtures = Calendário de jogos
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Imagens de fundo
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1499,6 +1502,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Mostrar menos widgets
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget indisponível. Verifique mais tarde.
 newtab-widget-lists-name-default = Lista de verificação
 
 ## Strings introduced by the Nova redesign of the Timer widget

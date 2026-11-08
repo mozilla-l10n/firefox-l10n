@@ -170,9 +170,9 @@ newtab-privacy-widget-label =
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] Izsekotājs šodien bloķēts
-        [zero] Izsekotāji šodien bloķēti
-       *[other] Izsekotāji šodien bloķēti
+        [one] Šodien liegts aizturētājs
+        [zero] Šodien liegti aizturētāji
+       *[other] Šodien liegti aizturētāji
     }
 # Second line of the readout, under the large number and "Trackers blocked
 # today". Counts the sites those trackers were blocked on. The English is
@@ -219,11 +219,11 @@ newtab-privacy-message-info-3 = Daudzām vietnēm ir izsekotāji, tāpēc uzņē
 newtab-privacy-message-info-3-cta = Skatīt aizsardzības iestatījumus
 newtab-privacy-message-info-4 = Izvēloties { -brand-short-name }, tiek izvēlēta aizsardzība pēc noklusējuma.
 newtab-privacy-message-info-4-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-5 = Bloķēti izsekotāji nozīmē, ka mazāk uzņēmumu var sekot jums dažādās vietnēs.
+newtab-privacy-message-info-5 = Liegti izsekotāji nozīmē, ka mazāk uzņēmumu var sekot Tev dažādās vietnēs.
 newtab-privacy-message-info-5-cta = Skatīt aizsardzības iestatījumus
 newtab-privacy-message-info-6 = Saglabājiet savus datus pakalpojumā { -brand-short-name }. Mēs tos nekad nepārdodam, bet citas pārlūkprogrammas to varētu darīt.
 newtab-privacy-message-info-6-cta = Uzzināt vairāk
-newtab-privacy-message-info-7 = Skatiet, kuri izsekotāji { -brand-short-name } ir bloķēti.
+newtab-privacy-message-info-7 = Apskati, kuri izsekotāji { -brand-short-name } ir liegti!
 newtab-privacy-message-info-7-cta = Skatīt aizsardzības iestatījumus
 newtab-privacy-message-info-8 = Pārlūkošana, izmantojot { -brand-short-name }, atbalsta { -vendor-short-name } misiju veidot labāku tīmekli.
 newtab-privacy-message-info-8-cta = Uzzināt vairāk
@@ -273,18 +273,18 @@ newtab-privacy-message-promo-relay-3-cta = Iegūt aizsegus
 #   $count (number) - Trackers blocked this week
 newtab-privacy-message-milestone-week =
     { $count ->
-        [one] Šonedēļ bloķēts { $count } izsekotājs. Skatiet, ko { -brand-short-name } slēpj no jums.
-        [zero] Šonedēļ bloķēti { $count } izsekotāji. Skatiet, ko { -brand-short-name } slēpj no jums.
-       *[other] Šonedēļ bloķēti { $count } izsekotāji. Skatiet, ko { -brand-short-name } slēpj no jums.
+        [one] Šonedēļ liegts { $count } izsekotājs. Apskati, ko { -brand-short-name } novāc Tavā pārlūkošanas ceļā!
+        [zero] Šonedēļ liegti { $count } izsekotāju. Apskati, ko { -brand-short-name } novāc Tavā pārlūkošanas ceļā!
+       *[other] Šonedēļ liegti { $count } izsekotāji. Apskati, ko { -brand-short-name } novāc Tavā pārlūkošanas ceļā!
     }
 newtab-privacy-message-milestone-week-cta = Skatīt aizsardzības iestatījumus
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month =
     { $count ->
-        [one] Šomēnes bloķēts { $count } izsekotājs. Viens mazs solis privātuma labā. Viens liels solis sirdsmiera labā.
-        [zero] Šomēnes bloķēti { $count } izsekotāji. Viens mazs solis privātuma labā. Viens liels solis sirdsmiera labā.
-       *[other] Šomēnes bloķēti { $count } izsekotāji. Viens mazs solis privātuma labā. Viens liels solis sirdsmiera labā.
+        [one] Šomēnes liegts { $count } izsekotājs. Viens mazs solis privātumam. Viens liels solis prāta mieram.
+        [zero] Šomēnes liegti { $count } izsekotāji. Viens mazs solis privātumam. Viens liels solis prāta mieram.
+       *[other] Šomēnes liegti { $count } izsekotāji. Viens mazs solis privātumam. Viens liels solis prāta mieram.
     }
 newtab-privacy-message-milestone-month-cta = Skatīt aizsardzības iestatījumus
 # Variables:

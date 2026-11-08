@@ -1702,9 +1702,9 @@ urlbar-trust-icon-notsecure-label = Nav droša
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label =
     { $count ->
-        [one] { $count } izsekotājs ir bloķēts
-        [zero] { $count } izsekotāji bloķēti
-       *[other] { $count } izsekotāji bloķēti
+        [one] Liegts { $count } izsekotājs
+        [zero] Liegti { $count } izsekotāju
+       *[other] Liegti { $count } izsekotāji
     }
 
 ## Variables
