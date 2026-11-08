@@ -56,4 +56,4 @@ dom-manifest-image-unsupported-purposes = Index { $index } 的 { $memberName } �
 #   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
 #   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
 # Example: "icons item at index 2 includes repeated purpose(s): a, b."
-dom-manifest-image-repeated-purposes = Index { $index } 的 { $memberName } 有重複的用途: { $purposes }。
+dom-manifest-image-repeated-purposes = Index { $index } 的 { $memberName } 有重複的用途：{ $purposes }。
