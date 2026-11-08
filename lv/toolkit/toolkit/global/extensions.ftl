@@ -86,12 +86,53 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Izstrādātājs apgalvo, ka šim paplašinājumam nav nepieciešama datu vākšana.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Izstrādātājs apgalvo, ka šis paplašinājums apkopo: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Izstrādātājs apgalvo, ka paplašinājums apkopos: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Izstrādātājs apgalvo, ka paplašinājums vēlas apkopot: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Lai atjauninātu paplašinājumu { $extension }, nepieciešami jauni iestatījumi.
+webext-perms-update-list-intro-with-data-collection = Atcelt, lai saglabātu pašreizējo versiju un iestatījumus, vai atjaunināt, lai iegūtu jauno versiju un apstiprinātu izmaiņas.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } ir nepieciešami papildu iestatījumi
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection-only = { $extension } ir nepieciešama papildu datu ievākšana
+
+## Headers used in the webextension permissions dialog for synthetic add-ons.
+## The part of the string describing what privileges the extension gives should be consistent
+## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
+## Note, this string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $hostname (String): the hostname of the site the add-on is being installed from.
+
+webext-site-perms-header-with-gated-perms-midi = Šis papildinājums nodrošina { $hostname } piekļuvi jūsu MIDI ierīcēm.
+webext-site-perms-header-with-gated-perms-midi-sysex = Šis papildinājums nodrošina { $hostname } piekļuvi jūsu MIDI ierīcēm (ar SysEx atbalstu).
+webext-site-perms-header-with-gated-perms-serial = Šis papildinājums nodrošina { $hostname } piekļuvi jūsu seriālajām ierīcēm.
+
+##
+
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Tās parasti ir spraudņa ierīces, piemēram, audio sintezatori, bet tās var būt arī iebūvētas datorā.
+    
+    Tīmekļa vietnēm parasti nav atļauts piekļūt MIDI ierīcēm. Nepareiza lietošana var radīt bojājumus vai apdraudēt drošību.
+webext-site-perms-description-gated-perms-webserial =
+    Tās ir tādas ierīces kā mikrokontrolleri, 3D printeri un citas ierīces, kas izveido savienojumu, izmantojot USB, seriālos portus vai Bluetooth.
+    
+    Jūs varēsiet izvēlēties, kurām ierīcēm vietne var piekļūt.
+    
+    Vietnēm parasti nav atļauts piekļūt seriālajām ierīcēm. Nepareiza lietošana var radīt bojājumus vai apdraudēt drošību.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -100,7 +141,15 @@ webext-perms-optional-text-with-data-collection-only = { $extension } ir nepieci
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Pievienot { $extension }? Šis paplašinājums nodrošina { $hostname } šādas spējas:
+webext-site-perms-header-unsigned-with-perms = Vai pievienot { $extension }? Šis paplašinājums nav verificēts. Ļaunprātīgi paplašinājumi var nozagt jūsu privāto informāciju vai apdraudēt jūsu datoru. Pievienojiet to tikai tad, ja uzticaties avotam. Šis paplašinājums piešķir { $hostname } šādas iespējas:
+
+## These should remain in sync with permissions.NAME.label in sitePermissions.properties
+
+webext-site-perms-midi = Piekļuve MIDI ierīcēm
+webext-site-perms-midi-sysex = Piekļūstiet MIDI ierīcēm, izmantojot SysEx atbalstu
+webext-site-perms-serial = Piekļuve seriālajām ierīcēm
 
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Jūsu krāsu gammas motīvs tika noņemta.</b> { -brand-shorter-name } atjaunināja savu krāsu kolekciju. Jaunākās versijas varat atrast papildinājumu vietnē.
+webext-colorway-theme-migration-notification-button = Iegūstiet atjauninātas krāsu kombinācijas

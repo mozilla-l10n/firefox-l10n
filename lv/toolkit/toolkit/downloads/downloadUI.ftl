@@ -39,6 +39,54 @@ download-ui-cancel-downloads-ok =
         [1] Atcelt 1 lejupielādi
        *[other] Atcelt { $downloadsCount } lejupielādes
     }
+download-ui-confirm-cancel-button = Atcelt
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Apturēt 1. lejupielādi un iziet no { -brand-short-name }?
+                [zero] Apturēt { $downloadsCount } lejupielādes un iziet no { -brand-short-name }?
+                [one] Apturēt { $downloadsCount } lejupielādes un iziet no { -brand-short-name }?
+               *[other] Apturēt { $downloadsCount } lejupielādes un iziet no { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Apturēt 1 lejupielādi un aizvērt { -brand-short-name }?
+                [zero] Apturēt { $downloadsCount } lejupielādes un aizvērt { -brand-short-name }?
+                [one] Apturēt { $downloadsCount } lejupielādes un aizvērt { -brand-short-name }?
+               *[other] Apturēt { $downloadsCount } lejupielādes un aizvērt { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } mēģinās atsākt lejupielādes, kad tās atkal tiks atvērtas, taču progress var tikt zaudēts.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Izeja { -brand-short-name }
+       *[other] Aizvērt { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Apturēt 1 lejupielādi un pāriet bezsaistē?
+        [zero] Vai pārtraukt { $downloadsCount } lejupielādes un pāriet bezsaistē?
+        [one] Vai pārtraukt { $downloadsCount } lejupielādes un pāriet bezsaistē?
+       *[other] Vai pārtraukt { $downloadsCount } lejupielādes un pāriet bezsaistē?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } mēģinās atsākt lejupielādes, kad atkal būsiet tiešsaistē, taču progress var tikt zaudēts.
+download-ui-confirm-offline-button = Dodieties bezsaistē
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Vai apturēt 1. lejupielādi un aizvērt šo privāto logu?
+        [zero] Apturēt { $downloadsCount } lejupielādes un aizvērt šo privāto logu?
+        [one] Apturēt { $downloadsCount } lejupielādes un aizvērt šo privāto logu?
+       *[other] Apturēt { $downloadsCount } lejupielādes un aizvērt šo privāto logu?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Jūs nevarēsiet atsākt šo lejupielādi.
+        [zero] Jūs nevarēsiet atsākt šīs lejupielādes.
+        [one] Jūs nevarēsiet atsākt šo lejupielādi.
+       *[other] Jūs nevarēsiet atsākt šīs lejupielādes.
+    }
+download-ui-confirm-private-browsing-button = Aizvērt logu
 
 ##
 
