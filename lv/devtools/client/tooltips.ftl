@@ -137,3 +137,26 @@ inactive-css-not-block-fix-1 = Mēģiniet pievienot tādas īpašības kā <stro
 inactive-css-not-block-container-fix-1 = Mēģiniet pievienot <strong>display:block</strong>, <strong>display:inline-block</strong> vai <strong>display:flow-root</strong>.
 inactive-css-not-block-flex-grid-container-fix-1 = Mēģiniet pievienot <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> vai <strong>display:flow-root</strong>.
 inactive-css-not-floated-fix-1 = Mēģiniet pievienot īpašību <strong>float</strong> ar citu vērtību, nevis <strong>none</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Mēģiniet iestatīt tā <strong>display</strong> īpašību uz kaut ko citu, nevis <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> vai <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Mēģiniet pievienot <strong>display:table</strong> vai <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Mēģiniet pievienot <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Mēģiniet pievienot <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Mēģiniet pievienot <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> vai <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Noņemiet šo rekvizītu vecākelementa tabulā vai mainiet <strong>border-collapse</strong> vērtību uz vērtību, kas nav <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Mēģiniet iestatīt <strong>overflow</strong> uz citu vērtību, nevis <strong>visible</strong>, vai atlasīt aizstātu elementu, kas to atbalsta.
+inactive-css-ruby-element-fix-1 = Mēģiniet mainīt rubīna teksta <strong>fonta lielumu</strong>.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Centieties samazināt rindu skaitu.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Izvairieties no elementa satura sadalīšanas, piemēram, noņemot kolonnas vai izmantojot <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Mēģiniet pievienot <strong>display</strong> vērtību, kas izveido galveno lodziņu, piemēram, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> vai <strong>grid</strong>.
+
+## In the Rule View when a CSS property may have compatibility issues with other browsers
+## we display an icon. When this icon is hovered this message is displayed to explain why
+## the property is incompatible and the platforms it is incompatible on.
+## Variables:
+##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
+##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
+
+css-compatibility-default-message = <strong>{ $property } </strong> netiek atbalstīts šādos pārlūkos:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> bija eksperimentāls īpašums, kas tagad ir novecojis saskaņā ar W3C standartiem. Tas netiek atbalstīts šādās pārlūkprogrammās:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property } </strong> bija eksperimentāls īpašums, kas tagad ir novecojis saskaņā ar W3C standartiem.
+css-compatibility-deprecated-message = <strong>{ $property } </strong> vairs netiek atbalstīts saskaņā ar W3C standartiem. Tas netiek atbalstīts šādos pārlūkos:

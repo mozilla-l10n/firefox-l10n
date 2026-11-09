@@ -205,6 +205,9 @@ newtab-privacy-empty-state = { -brand-short-name } automaticky blokuje sledovac�
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Zde uvidíte průběžný počet.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Méně sledovacích prvků, rychlejší procházení.
+newtab-privacy-empty-state-small-message = Začněte procházet a blokování se spustí.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -608,6 +611,34 @@ newtab-solitaire-widget-open-menu-button =
     .title = Otevřít nabídku solitaire
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Zjistit více
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Otevřít nabídku Wrexham AFC
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Zobrazit
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Zápasy
+newtab-widget-wrexhamafc-view-table = Tabulka
+newtab-widget-wrexhamafc-view-fixtures = Rozpis zápasů
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Tapety
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1499,6 +1530,9 @@ newtab-widget-menu-move-left = Doleva
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Doprava
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Domovská stránka
 # Submenu item under "Move"; moves the widget from Home back to the Widgets
 # space, the New Tab space that holds every widget not pinned to Home.
 newtab-widget-menu-move-to-widgets = Widgety
@@ -1538,6 +1572,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Zobrazit méně widgetů
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget není k dispozici. Zkuste to později.
 newtab-widget-lists-name-default = Kontrolní seznam
 
 ## Strings introduced by the Nova redesign of the Timer widget

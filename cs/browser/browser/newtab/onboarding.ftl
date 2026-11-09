@@ -580,6 +580,8 @@ tab-groups-onboarding-session-restore-title-3 = Skupiny panelů můžete kdykoli
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Skupiny panelů můžete kdykoli znovu otevřít z nabídky Seznam všech panelů.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Skupiny panelů se ukládají automaticky. Najdete je zde.
 
 ## Multi Profiles feature onboarding messages
 
@@ -884,4 +886,17 @@ welcome-back-onboarding-card-tilebutton-label = Vyzkoušet
 
 ## New Tab Onboarding cards
 
+hnt-card-import-body = Přeneste si své záložky, hesla a další data z jiného prohlížeče.
 hnt-card-import-primary-button = Import vašich dat
+hnt-card-default-body = { -brand-product-name } je jediný z velkých prohlížečů, který vás chrání, místo aby vás sledoval.
+hnt-card-mobile-header = Chraňte svůj telefon pomocí integrované ochrany
+hnt-card-wallpaper-header = Zvolte si novou tapetu
+hnt-card-wallpaper-body = Vyberte si oblíbené pozadí a ciťte se na této obrazovce jako doma.
+hnt-card-wallpaper-primary-button = Začít s přizpůsobováním
+hnt-card-taskbar-tabs-header = Připněte si oblíbené stránky na hlavní panel Windows
+hnt-card-taskbar-tabs-primary-button = Přidat stránky na hlavní panel
+hnt-card-extensions-primary-button = Prozkoumat
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Vše je připraveno. Teď už je to na vás.
+hnt-card-last-card-header-end = Ochrana proti sledování je zapnuta.
