@@ -93,7 +93,7 @@ genai-more-actions-copy =
     .label = Kopiëren
 # The span is a right-pointing chevron that separates the steps of the path to
 # the setting, in place of a ">" character.
-genai-more-actions-all-off-notice = U ziet dit menu niet als u tekst selecteert. Bezoek Instellingen <span data-l10n-name="chevron"></span> en blader om de pagina opnieuw te tonen.
+genai-more-actions-all-off-notice = U ziet dit menu niet als u tekst selecteert. Bezoek Instellingen <span data-l10n-name="chevron"></span> Tabbladen en navigatie om dit menu opnieuw te tonen.
 genai-more-actions-manage-settings =
     .label = Instellingen beheren
 genai-selection-callout-title = Selecteer tekst om een actie te kiezen

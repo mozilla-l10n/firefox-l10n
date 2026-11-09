@@ -56,8 +56,8 @@ main-context-menu-use-mini-window =
 move-to-mini-window =
     .label =
         { $tabCount ->
-            [1] 移至迷你窗口
-           *[other] 移至迷你窗口
+            [1] 移动到迷你窗口
+           *[other] 移动到迷你窗口
         }
     .accesskey = M
 

@@ -41,7 +41,7 @@ about-processes-reload-site =
 about-processes-expand-all-sites =
     .title = Alles útklappe
 about-processes-collapse-all-sites =
-    .title = Alle ynklappe
+    .title = Alles ynklappe
 about-processes-go-to-tab =
     .title = Nei ljepblêd
 # Profiler icons
