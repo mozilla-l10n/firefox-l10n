@@ -18,6 +18,8 @@ about-processes-shutdown-tab =
     .title = 关闭标签页
 about-processes-unload-tab =
     .title = 卸载标签页
+about-processes-reload-tab =
+    .title = 重新加载标签页
 about-processes-select-all-tabs =
     .title = 选择所有标签页
 # A site is the set of open tabs on one domain, e.g. example.com and its
@@ -69,6 +71,8 @@ about-processes-search-no-results = 未找到与“{ $query }”匹配的标签�
 about-processes-column-name = 名称
 about-processes-column-memory-resident = 内存
 about-processes-column-cpu-total = CPU
+# Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
+about-processes-column-memory-resident-tab = 内存
 
 ## Process names
 ## Variables:
@@ -147,6 +151,31 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = 标签页：{ $name }
 about-processes-preloaded-tab = 预加载的新标签页
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count = { $count } 个标签页
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count = 已选择 { $count } 个标签页
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count = （{ $count } 个标签页）
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = 取消选择
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = 卸载
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = 重新加载
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = 关闭
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -169,6 +198,7 @@ about-processes-utility-actor-js-oracle = Oracle
 about-processes-utility-actor-windows-utils = Windows 工具
 about-processes-utility-actor-windows-file-dialog = Windows 文件对话框
 about-processes-utility-actor-pkcs11-module = 安全模块助手
+about-processes-utility-actor-hw-inference = 硬件加速推理
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -191,6 +221,20 @@ about-processes-cpu-almost-idle = < 0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = 空闲
     .title = 总 CPU 时间：{ NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Special case: a tab is currently idle.
+about-processes-tab-cpu-fully-idle = 空闲
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01%
+# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
+about-processes-tab-cpu-almost-idle = < 0.1%
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -208,6 +252,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = 变化：{ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 
