@@ -317,7 +317,7 @@ smartwindow-close-tab-callout-subtitle = Torneu a obrir les pestanyes de l'histo
 
 smart-window-default-promo-heading = Voleu que la { -smart-window-brand-name } sigui la finestra per defecte?
 smart-window-default-promo-message = El { -brand-short-name } s'obrirà sempre a la { -smart-window-brand-name }.
-smart-window-default-promo-primary-button = Estableix com a predeterminat
+smart-window-default-promo-primary-button = Defineix per defecte
 smart-window-default-promo-additional-button = Ara no
 
 ## Feedback modal
