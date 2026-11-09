@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Αλλαγή μεγέθους καρτελών διαχωρισμού προβολής
 tab-devtools-splitter =
     .aria-label = Αλλαγή μεγέθους πίνακα εργαλείων ανάπτυξης
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Προσθήκη καρτελών σε ομάδα
+    .accesskey = ο
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -278,6 +283,13 @@ tab-context-move-tab-to-new-group =
         { $tabCount ->
             [1] Προσθήκη καρτέλας σε νέα ομάδα
            *[other] Προσθήκη καρτελών σε νέα ομάδα
+        }
+    .accesskey = ο
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Προσθήκη σε ομάδα
+           *[other] Προσθήκη { $tabCount } καρτελών σε ομάδα
         }
     .accesskey = ο
 tab-context-move-tab-to-group =

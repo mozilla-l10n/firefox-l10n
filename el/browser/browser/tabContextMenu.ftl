@@ -48,6 +48,10 @@ close-tabs-to-the-end-vertical =
 close-other-tabs =
     .label = Κλείσιμο άλλων καρτελών
     .accesskey = ω
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Όλες τις άλλες
+    .accesskey = λ
 reload-tabs =
     .label = Ανανέωση καρτελών
     .accesskey = Α
@@ -85,6 +89,9 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Άνοιγμα σε νέα θεματική καρτέλα
     .accesskey = ε
+tab-context-open-in-container =
+    .label = Άνοιγμα σε θεματική καρτέλα
+    .accesskey = ε
 move-to-start =
     .label = Μετακίνηση στην αρχή
     .accesskey = α
@@ -118,6 +125,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Κλείσιμο διπλών καρτελών
     .accesskey = λ
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Αντιγραφή καρτελών
+    .accesskey = γ
 tab-context-close-duplicate-tabs2 =
     .label = Κλείσιμο διπλότυπων καρτέλας
     .accesskey = ω
@@ -170,6 +181,14 @@ tab-context-move-tabs =
            *[other] Μετακίνηση καρτελών
         }
     .accesskey = τ
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Μετακίνηση σε
+           *[other] Μετακίνηση { $tabCount } καρτελών σε
+        }
+    .accesskey = ν
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =

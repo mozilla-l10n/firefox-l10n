@@ -192,6 +192,8 @@ newtab-privacy-empty-state = Το { -brand-short-name } αποκλείει αυ�
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Δείτε εδώ το σύνολο που ενημερώνεται συνεχώς.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Λιγότεροι ιχνηλάτες, ταχύτερη περιήγηση.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -224,7 +226,7 @@ newtab-privacy-message-info-8-cta = Μάθετε περισσότερα
 newtab-privacy-message-info-9 = Ορίστε το { -brand-short-name } ως το προεπιλεγμένο πρόγραμμα περιήγησής σας για ενσωματωμένη ιδιωτικότητα.
 newtab-privacy-message-info-9-cta = Ορισμός ως προεπιλογή
 newtab-privacy-message-info-10 = Αποθηκεύστε κωδικούς πρόσβασης στο { -brand-short-name } για χρήση ισχυρών, μοναδικών στοιχείων σύνδεσης παντού.
-newtab-privacy-message-info-10-cta = Μετάβαση στους κωδικούς πρόσβασης
+newtab-privacy-message-info-10-cta = Προβολή κωδικών πρόσβασης
 newtab-privacy-message-info-11 = Μάθετε πώς το { -brand-short-name } βοηθά στη διατήρηση της ιδιωτικότητας της περιήγησής σας.
 newtab-privacy-message-info-11-cta = Μάθετε περισσότερα
 newtab-privacy-message-info-12 = Ο αποκλεισμός ιχνηλατών συμβάλλει στην εξοικονόμηση εύρους ζώνης σε πακέτα με περιορισμένα δεδομένα.

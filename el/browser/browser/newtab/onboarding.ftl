@@ -641,3 +641,4 @@ welcome-back-onboarding-card-tilebutton-label = Δοκιμή
 ## New Tab Onboarding cards
 
 hnt-card-extensions-primary-button = Εξερεύνηση
+hnt-card-last-card-header-end = Η προστασία από καταγραφή είναι ενεργή.

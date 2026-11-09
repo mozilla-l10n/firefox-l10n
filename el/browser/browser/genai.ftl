@@ -104,10 +104,13 @@ genai-shortcut-button =
     .aria-label = Ερώτηση στο { $provider }
 genai-menu-new-badge = Νέο
 genai-menu-summarize-page = Σύνοψη σελίδας
+genai-menu-summarize-with-ai = Σύνοψη με ΤΝ
 genai-input-ask-smart-window =
     .placeholder = Ερώτηση…
 genai-input-ask-generic =
     .placeholder = Ερώτηση στο chatbot ΤΝ…
+genai-input-ask-ai =
+    .placeholder = Ερώτηση στην ΤΝ…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Ερώτηση στο { $provider }…

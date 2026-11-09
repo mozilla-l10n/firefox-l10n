@@ -18,8 +18,26 @@ about-processes-shutdown-tab =
     .title = Κλείσιμο καρτέλας
 about-processes-unload-tab =
     .title = Εκφόρτωση καρτέλας
+about-processes-reload-tab =
+    .title = Ανανέωση καρτέλας
 about-processes-select-all-tabs =
     .title = Επιλογή όλων των καρτελών
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Ανάπτυξη καρτελών ιστοτόπου
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Σύμπτυξη καρτελών ιστοτόπου
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Εκφόρτωση καρτελών από το { $site }
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Ανανέωση καρτελών από το { $site }
 about-processes-expand-all-sites =
     .title = Ανάπτυξη όλων
 about-processes-collapse-all-sites =
@@ -143,6 +161,14 @@ about-processes-tab-count =
         [one] { $count } καρτέλα
        *[other] { $count } καρτέλες
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } επιλεγμένη καρτέλα
+       *[other] { $count } επιλεγμένες καρτέλες
+    }
 # Shown next to a site’s label in a group header row.
 # Variables:
 #   $count (Number) The number of tabs in the site group.
@@ -158,6 +184,9 @@ about-processes-bulk-cancel-selection =
 # closing the tabs (see about-processes-unload-tab for the per-row version).
 about-processes-bulk-unload-tabs =
     .label = Εκφόρτωση
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Ανανέωση
 # Bulk-action bar button: closes every selected tab.
 about-processes-bulk-close-tabs =
     .label = Κλείσιμο
