@@ -22,6 +22,15 @@ about-processes-reload-tab =
     .title = Obnovit panel
 about-processes-select-all-tabs =
     .title = Vybrat všechny panely
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Uvolnit panely stránky { $site }
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Znovu načíst panely stránky { $site }
 about-processes-expand-all-sites =
     .title = Rozbalit vše
 about-processes-collapse-all-sites =
@@ -47,6 +56,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Hledat panely
     .placeholder = Hledat panely
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Nenalezeny žádné panely odpovídající hledání „{ $query }“
 
 ## Column headers
 
@@ -230,6 +243,8 @@ about-processes-tab-cpu-fully-idle = nečinný
 # Variables:
 #    $percent (Number) Always >= 0, and never above 1.
 about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01 %
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0,1 %
 
