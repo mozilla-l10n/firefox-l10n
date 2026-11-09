@@ -11,11 +11,11 @@ customkeys-change = Canvia
 customkeys-reset = Reinicia
 customkeys-clear = Esborra
 customkeys-new-key = Premeu una tecla nova:
-customkeys-reset-all = Restaura totes les dreceres de teclat als valors predeterminats
+customkeys-reset-all = Reinicia totes les dreceres de teclat als valors per defecte
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Aquesta tecla ja està assignada a { $conflict }. Voleu substituir-la?
-customkeys-reset-all-confirm = Segur que voleu restablir totes les dreceres de teclat als valors predeterminats?
+customkeys-reset-all-confirm = Segur que voleu reiniciar totes les dreceres de teclat als valors per defecte?
 customkeys-file-duplicate-tab = Duplica la pestanya
 customkeys-file-copy-tab-url = Copia l'URL de la pestanya
 customkeys-file-focus-search = Focus a la barra de cerca

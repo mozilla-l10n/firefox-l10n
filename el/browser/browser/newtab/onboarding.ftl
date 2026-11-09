@@ -653,12 +653,19 @@ hnt-card-pin-body =
         [macos] Επιστρέψτε στην προστατευμένη περιήγηση από το Dock σας.
        *[other] Επιστρέψτε στην προστατευμένη περιήγηση από τη γραμμή εργασιών σας.
     }
+hnt-card-mobile-header = Αποκτήστε ενσωματωμένη προστασία στο τηλέφωνό σας
+hnt-card-mobile-body = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές για επιπλέον ιδιωτικότητα εν κινήσει.
 hnt-card-mobile-primary-button = Απόκτηση του { -brand-product-name } για κινητές συσκευές.
 hnt-card-wallpaper-header = Επιλέξτε μια νέα ταπετσαρία
+hnt-card-wallpaper-body = Κάντε αυτήν την οθόνη σαν το σπίτι σας με ένα αγαπημένο φόντο.
 hnt-card-wallpaper-primary-button = Έναρξη προσαρμογής
 hnt-card-taskbar-tabs-header = Προσθέστε τους αγαπημένους σας ιστοτόπους στη γραμμή εργασιών των Windows
+hnt-card-taskbar-tabs-body = Μετατρέψτε τους ιστοτόπους που επισκέπτεστε πιο συχνά σε εφαρμογές, με όλα τα μέτρα προστασίας του { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Προσθήκη ιστοτόπων στη γραμμή εργασιών
 hnt-card-extensions-header = Βελτιώστε το { -brand-short-name } με επεκτάσεις
 hnt-card-extensions-body = Προσαρμόστε την περιήγησή σας με τις πιο αγαπημένες επεκτάσεις μας.
 hnt-card-extensions-primary-button = Εξερεύνηση
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Όλα έτοιμα. Μπορείτε να κάνετε αυτά που σας αρέσουν.
 hnt-card-last-card-header-end = Η προστασία από καταγραφή είναι ενεργή.
