@@ -20,8 +20,23 @@ whypaused-debugger-statement = Apturēts pie atkļūdotāja izteiksmes
 # currently paused on a breakpoint
 whypaused-breakpoint = Apturēts pie apturēšanas punkta
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Apturēts notikuma pārtraukuma punktā
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Apturēts pie izņēmuma
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Pauzēts DOM mutācijas dēļ
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Pievienots:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Noņemts:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Apturēts izpildes laikā
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Apturēts ejot pa soļiem
@@ -32,8 +47,17 @@ whypaused-pause-on-dom-events = Apturēts pie notikumu klausītāja
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Kļūda pārtraukuma punktā ar nosacījumu
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Apturēts pēc XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Apturēs pie solījuma noraidījuma
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Apturēts, iegūstot rekvizīta vērtību
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Apturēts rekvizītu komplektā
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Apturēts pie pieņēmuma

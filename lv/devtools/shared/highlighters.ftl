@@ -14,6 +14,12 @@
 # $column (integer) - The column index
 grid-row-column-positions = Rinda { $row } / Kolona { $column }
 # The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid container.
+gridtype-container = Režģa konteiners
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid item.
+gridtype-item = Režģa elements
+# The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a grid container and a grid item.
 gridtype-dual = Režģa konteiners/vienība
 # The layout type of an element shown in the infobar when hovering over a DOM element and

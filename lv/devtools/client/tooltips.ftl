@@ -160,3 +160,24 @@ css-compatibility-default-message = <strong>{ $property } </strong> netiek atbal
 css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> bija eksperimentāls īpašums, kas tagad ir novecojis saskaņā ar W3C standartiem. Tas netiek atbalstīts šādās pārlūkprogrammās:
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property } </strong> bija eksperimentāls īpašums, kas tagad ir novecojis saskaņā ar W3C standartiem.
 css-compatibility-deprecated-message = <strong>{ $property } </strong> vairs netiek atbalstīts saskaņā ar W3C standartiem. Tas netiek atbalstīts šādos pārlūkos:
+css-compatibility-deprecated-supported-message = <strong>{ $property } </strong> vairs netiek atbalstīts saskaņā ar W3C standartiem.
+css-compatibility-experimental-message = <strong>{ $property } </strong> ir eksperimentāls īpašums. Tas netiek atbalstīts šādos pārlūkos:
+css-compatibility-experimental-supported-message = <strong>{ $property } </strong> ir eksperimentāla īpašība.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Uzziniet vairāk</span> par <strong>{ $rootProperty } </strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Šis selektors izmanto neierobežotu <strong>:has()</strong>, kas var būt lēns.
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Radniecīgie selektori pēc <strong>:scope</strong> nekad neatbildīs nekam
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
+css-selector-container-query-condition-no-container = Nav atrasts konteiners ‘{ $name }’
