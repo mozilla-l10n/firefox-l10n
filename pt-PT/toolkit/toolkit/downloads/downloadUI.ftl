@@ -40,6 +40,48 @@ download-ui-cancel-downloads-ok =
        *[other] Cancelar { $downloadsCount } transferências
     }
 download-ui-confirm-cancel-button = Cancelar
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Parar 1 transferência e sair do { -brand-short-name }?
+                [one] Parar { $downloadsCount } transferência e sair do { -brand-short-name }?
+               *[other] Parar { $downloadsCount } transferências e sair do { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Parar 1 transferência e sair do { -brand-short-name }?
+                [one] Parar { $downloadsCount } transferência e sair do { -brand-short-name }?
+               *[other] Parar { $downloadsCount } transferências e sair do { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = O { -brand-short-name } irá tentar retomar as transferências quando reabrir, mas o progresso poderá ser perdido.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Sair do { -brand-short-name }
+       *[other] Sair do { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Parar 1 transferência e ficar offline?
+        [one] Parar { $downloadsCount } transferência e ficar offline?
+       *[other] Parar { $downloadsCount } transferências e ficar offline?
+    }
+download-ui-confirm-offline-message = O { -brand-short-name } irá tentar retomar as transferências quando estiver novamente online, mas o progresso poderá ser perdido.
+download-ui-confirm-offline-button = Ficar offline
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Parar 1 transferência e fechar esta Janela Privada?
+        [one] Parar { $downloadsCount } transferência e fechar esta Janela Privada?
+       *[other] Parar { $downloadsCount } transferências e fechar esta Janela Privada?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Não irá poder retomar esta transferência.
+        [one] Não irá poder retomar esta transferência.
+       *[other] Não irá poder retomar estas transferências.
+    }
+download-ui-confirm-private-browsing-button = Fechar janela
 
 ##
 

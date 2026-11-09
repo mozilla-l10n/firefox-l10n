@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = As notas de separadores são uma f
 experimental-features-tab-context-menu =
     .label = Menu simplificado do separador
 experimental-features-tab-context-menu-description = Veja um menu de contexto mais simples ao clicar com o botão direito num separador. Foi desenhado para tornar mais fácil encontrar ações comuns. <a data-l10n-name="connect">Partilhar feedback</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Monitor de recursos
+experimental-features-resource-monitor-description = Veja a utilização estimada de memória e de CPU para os seus separadores abertos diretamente na barra lateral, e esvazie os separadores que não está a utilizar para libertar recursos. <a data-l10n-name="connect">Partilhar feedback</a>
