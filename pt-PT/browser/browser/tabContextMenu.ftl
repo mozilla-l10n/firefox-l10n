@@ -34,19 +34,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Fechar separadores à esquerda
     .accesskey = e
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Separadores à Esquerda
+    .accesskey = e
 close-tabs-to-the-start-vertical =
     .label = Fechar separadores acima
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Separadores Acima
+    .accesskey = A
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Fechar separadores à direita
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Separadores à Direita
+    .accesskey = D
 close-tabs-to-the-end-vertical =
     .label = Fechar separadores abaixo
     .accesskey = b
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Separadores Abaixo
+    .accesskey = b
 close-other-tabs =
     .label = Fechar outros separadores
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Todos os Outros
     .accesskey = o
 reload-tabs =
     .label = Recarregar separadores
@@ -85,9 +107,16 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Abrir num Novo Separador Contentor
     .accesskey = e
+tab-context-open-in-container =
+    .label = Abrir no Contentor
+    .accesskey = e
 move-to-start =
     .label = Mover para o início
     .accesskey = i
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Iniciar
+    .accesskey = I
 move-to-end =
     .label = Mover para o fim
     .accesskey = f

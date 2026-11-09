@@ -285,6 +285,14 @@ tab-context-move-tab-to-new-group =
            *[other] Adicionar separadores ao novo grupo
         }
     .accesskey = g
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Adicionar ao Grupo
+            [one] Adicionar { $tabCount } Separador ao Grupo
+           *[other] Adicionar { $tabCount } Separadores ao Grupo
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -453,6 +461,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separar vista dividida
     .accesskey = v
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Separar Separadores
+    .accesskey = s
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Inverter separadores

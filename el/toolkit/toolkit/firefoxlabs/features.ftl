@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Δείτε ένα απλο�
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Εποπτεία πόρων
+experimental-features-resource-monitor-description = Δείτε την εκτιμώμενη χρήση της μνήμης και της CPU για τις ανοικτές καρτέλες στην πλαϊνή γραμμή και εκφορτώστε αυτές που δεν χρησιμοποιείτε για να απελευθερώσετε πόρους. <a data-l10n-name="connect">Αποστολή σχολίων</a>

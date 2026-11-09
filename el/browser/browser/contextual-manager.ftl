@@ -146,6 +146,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Θα αφαιρεθεί από όλες τις συγχρονισμένες συσκευές σας ο κωδικός πρόσβασης που έχετε αποθηκεύσει στο { -brand-short-name }, καθώς και τυχόν ειδοποιήσης παραβίασης. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
        *[other] Θα αφαιρεθούν από όλες τις συγχρονισμένες συσκευές σας όλοι οι κωδικοί πρόσβασης που έχετε αποθηκεύσει στο { -brand-short-name }, καθώς και τυχόν ειδοποιήσης παραβίασης. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Θα διαγραφεί από το { -brand-short-name } σε όλες τις συσκευές που συγχρονίζουν τους κωδικούς πρόσβασής σας. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+       *[other] Θα διαγραφούν από το { -brand-short-name } σε όλες τις συσκευές που συγχρονίζουν τους κωδικούς πρόσβασής σας. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+    }
 contextual-manager-passwords-origin-label = Ιστότοπος
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Όνομα χρήστη

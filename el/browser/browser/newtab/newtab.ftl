@@ -194,6 +194,7 @@ newtab-privacy-empty-state = Το { -brand-short-name } αποκλείει αυ�
 newtab-privacy-empty-state-tally = Δείτε εδώ το σύνολο που ενημερώνεται συνεχώς.
 # Shorter empty-state copy for the small card, shown as two separate lines.
 newtab-privacy-empty-state-small-title = Λιγότεροι ιχνηλάτες, ταχύτερη περιήγηση.
+newtab-privacy-empty-state-small-message = Περιηγηθείτε για να ξεκινήσει ο αποκλεισμός.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1501,6 +1502,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Εμφάνιση λιγότερων γραφικών στοιχείων
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Μη διαθέσιμο γραφικό στοιχείο. Επιστρέψτε αργότερα.
 newtab-widget-lists-name-default = Λίστα ελέγχου
 
 ## Strings introduced by the Nova redesign of the Timer widget

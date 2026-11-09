@@ -62,6 +62,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Αναζήτηση καρτελών
     .placeholder = Αναζήτηση καρτελών
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Δεν βρέθηκαν καρτέλες που να ταιριάζουν με τον όρο «{ $query }»
 
 ## Column headers
 

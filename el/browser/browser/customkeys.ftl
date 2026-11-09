@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Αντιγραφή URL καρτέλας
 customkeys-file-focus-search = Εστίαση στη γραμμή αναζήτησης
 customkeys-history-reopen-tab = Επαναφορά τελευταίας κλειστής καρτέλας
 customkeys-history-reopen-window = Επαναφορά τελευταίου κλειστού παραθύρου
+customkeys-history-reopen-tab-current-window = Επαναφορά τελευταίας κλειστής καρτέλας του τρέχοντος παραθύρου
 customkeys-sidebar-toggle = (Απ)ενεργοποίηση πλαϊνής γραμμής
 customkeys-view-bookmarks-toolbar = Εναλλαγή γραμμής σελιδοδεικτών
 customkeys-view-picture-in-picture = Εικόνα εντός εικόνας

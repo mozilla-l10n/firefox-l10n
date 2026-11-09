@@ -34,17 +34,35 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Κλείσιμο καρτελών στα αριστερά
     .accesskey = μ
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Καρτέλες στα αριστερά
+    .accesskey = α
 close-tabs-to-the-start-vertical =
     .label = Κλείσιμο των από πάνω καρτελών
     .accesskey = λ
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Καρτέλες από πάνω
+    .accesskey = π
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Κλείσιμο καρτελών στα δεξιά
     .accesskey = ξ
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Καρτέλες στα δεξιά
+    .accesskey = δ
 close-tabs-to-the-end-vertical =
     .label = Κλείσιμο των από κάτω καρτελών
     .accesskey = ι
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Καρτέλες από κάτω
+    .accesskey = κ
 close-other-tabs =
     .label = Κλείσιμο άλλων καρτελών
     .accesskey = ω
