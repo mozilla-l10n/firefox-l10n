@@ -380,6 +380,10 @@ newtab-stocks-watchlist-full = 最多可添加 { $limit } 支股票。请先移�
 newtab-picture-header = 每日一图 · 维基共享资源
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = 每日一图
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = 每日一图：{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -398,10 +402,25 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = 打开每日一图菜单
     .title = 打开每日一图菜单
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = 将此图片设为壁纸
+    .label = 设为壁纸
+    .title = 设为壁纸
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理壁纸
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = 隐藏此图片
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = 显示图片
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 详细了解
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = 显示图片
+    .title = 显示图片
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = 明天再来看看有没有新照片吧
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -441,6 +460,16 @@ newtab-search-widget-open-menu-button =
 newtab-recent-searches-empty-recent = 近期搜索会显示在这里，方便随时重新搜索。
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = 热门搜索当前不可用。
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = 星座
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = 打开星座菜单
+    .title = 打开星座菜单
 
 ## Strings for the Travel widget
 
