@@ -142,7 +142,7 @@ home-prefs-recent-activity-select =
 home-prefs-weather-header-srd =
     .label = Laikapstākļi
 home-prefs-support-firefox-header-srd =
-    .label = Atbalsts { -brand-product-name }
+    .label = Atbalstīt { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Uzziniet, kā
 
 ## Strings for the Privacy widget
@@ -1560,7 +1560,7 @@ newtab-widget-message-focus-forecasts-body = Uzturiet savu dienu plūstošu ar {
 newtab-promo-card-title-addons = Padariet { -brand-product-name } par savu
 newtab-promo-card-body-addons = Izvēlieties tapeti no mūsu kolekcijas vai izveidojiet savu.
 newtab-promo-card-cta-addons = Izmēģini tagad
-newtab-promo-card-title = Atbalsts { -brand-product-name }
+newtab-promo-card-title = Atbalstīt { -brand-product-name }
 newtab-promo-card-body = Mūsu sponsori atbalsta mūsu misiju veidot labāku tīmekli
 newtab-promo-card-cta = Uzzināt vairāk
 newtab-promo-card-dismiss-button =

@@ -149,7 +149,7 @@ policy-RequestedLocales = Iestatiet pieejamo valodu sarakstu prioritātes secīb
 policy-SanitizeOnShutdown2 = Izslēdzot notīrīt navigācijas datus.
 policy-SearchBar = Iestata noklusējuma meklēšanas joslas atrašanās vietu. Lietotājam joprojām ir ļauts to pielāgot.
 policy-SearchEngines2 = Konfigurēt meklētāja iestatījumus.
-policy-SearchEngines = Konfigurē meklētāju iestatījumus. Šī politika ir pieejama vienīgi pagarinātā atbalsta laidienos (ESR).
+policy-SearchEngines = Konfigurē meklētāju iestatījumus. Šī pamatnostādne ir pieejama vienīgi pagarinātā atbalsta laidien (ESR) versijā.
 policy-SearchSuggestEnabled = Ieslēgt vai izslēgt meklēšanas ieteikumus.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Pievienot vai dzēst PKCS #11 moduļus.
