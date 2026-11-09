@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] Cancelar 1 transferência
        *[other] Cancelar { $downloadsCount } transferências
     }
+download-ui-confirm-cancel-button = Cancelar
 
 ##
 
