@@ -642,6 +642,7 @@ welcome-back-onboarding-card-tilebutton-label = Vyskúšať
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Nastavte si { -brand-short-name(case: "acc") } za niekoľko sekúnd
 hnt-card-import-body = Importujte si záložky, heslá a ďalšie údaje z iného prehliadača.
 hnt-card-import-primary-button = Importovať údaje
 hnt-card-default-body = { -brand-product-name } je jediný z veľkých prehliadačov vytvorený tak, aby vás chránil, a nie sledoval.
