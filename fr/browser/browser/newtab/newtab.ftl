@@ -589,7 +589,7 @@ newtab-widget-wrexhamafc-menu-view = Affichage
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
 
-newtab-widget-wrexhamafc-view-matches = Correspondances
+newtab-widget-wrexhamafc-view-matches = Matchs
 newtab-widget-wrexhamafc-view-table = Tableau
 newtab-widget-wrexhamafc-view-fixtures = Calendrier
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.

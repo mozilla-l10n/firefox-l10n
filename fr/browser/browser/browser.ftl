@@ -991,7 +991,7 @@ urlbar-view-context-menu-search-in-container-tab = Rechercher dans un nouvel ong
 urlbar-view-context-menu-search-in-window = Rechercher dans une nouvelle fenêtre
     .accesskey = f
 urlbar-view-context-menu-search-in-private-window = Rechercher dans une fenêtre de navigation privée
-    .accesskey = R
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
