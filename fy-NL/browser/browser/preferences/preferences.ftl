@@ -2346,7 +2346,7 @@ issue-card-dismiss-button =
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby’t trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
+    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby’t de measte trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
     .label = Ferbettere beskerming tsjin folgjen
 preferences-etp-level-radio-group =
     .aria-label = Ferbettere beskerming tsjin folgjen

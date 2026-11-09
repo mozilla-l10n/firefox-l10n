@@ -112,7 +112,7 @@ options-styleeditor-label = Stylbewurker
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS auto-oanfolje
 options-stylesheet-autocompletion-tooltip =
-    .title = CSS-eigenskippen as wearden en selectors yn Stylbewurker auto-oanfolje as jo type
+    .title = CSS-eigenskippen, -wearden en -selectors yn Stylbewurker automatysk oanfolje wylst jo type
 
 ## Screenshot section
 

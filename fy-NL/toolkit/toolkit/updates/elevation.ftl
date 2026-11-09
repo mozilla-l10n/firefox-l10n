@@ -12,8 +12,8 @@ elevation-error-manual =
     probearjen en de lêste ferzje yn te laden:
 elevation-finished-page = Fernijing klear foar ynstallaasje
 elevation-finished-background-page =
-    In feilichheids- en stabiliteitsfernijing foar { -brand-short-name } is krekt downloaden
-    en is ree om ynstallearre te wurden.
+    In feilichheids- en stabiliteitsfernijing foar { -brand-short-name } is krekt download
+    en ree om ynstallearre te wurden.
 elevation-finished-background = Fernijing:
 elevation-more-elevated =
     Dizze fernijing hat administratorrjochten nedich. De fernijing sil

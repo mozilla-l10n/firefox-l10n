@@ -166,7 +166,7 @@ tab-context-new-group =
 tab-context-add-tab-to-group-new-group =
     .label = 新建群组
 tab-context-add-tab-to-group-closed-groups =
-    .label = 已关闭的群组
+    .label = 关闭的群组
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -211,8 +211,8 @@ tab-context-move-tabs3 =
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
-            [1] 移动标签页
-           *[other] 移动 { $tabCount } 个标签页
+            [1] 移动标签页到
+           *[other] 移动 { $tabCount } 个标签页到
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)

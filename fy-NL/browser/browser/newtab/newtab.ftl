@@ -1079,7 +1079,7 @@ newtab-wallpaper-hot-air-balloons = Hjitteluchtballonnen yn ferskate kleuren oer
 newtab-wallpaper-starry-canyon = Blauwe stjerrenacht
 newtab-wallpaper-suspension-bridge = Foto’s fan in folsleine hingbrêge oerdeis
 newtab-wallpaper-sand-dunes = Wite sândunen
-newtab-wallpaper-palm-trees = Sylhûet fan kokospalms wylst gouden oere
+newtab-wallpaper-palm-trees = Sylhûet fan kokospalms yn it gouden oere
 newtab-wallpaper-blue-flowers = Close-upfotografy fan blauwe blommen yn bloei
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
