@@ -44,7 +44,7 @@ download-ui-confirm-quit-title =
     { PLATFORM() ->
         [windows]
             { $downloadsCount ->
-                [1] 1 ześěgnjenje zastajiś a { -brand-short-name } skóńcyś
+                [1] 1 ześěgnjenje zastajiś a { -brand-short-name } skóńcyś?
                 [one] { $downloadsCount } ześěgnjenje zastajiś a { -brand-short-name } skóńcyś?
                 [two] { $downloadsCount } ześěgnjeni zastajiś a { -brand-short-name } skóńcyś?
                 [few] { $downloadsCount } ześěgnjenja zastajiś a { -brand-short-name } skóńcyś?
@@ -52,7 +52,7 @@ download-ui-confirm-quit-title =
             }
        *[other]
             { $downloadsCount ->
-                [1] 1 ześěgnjenje zastajiś a { -brand-short-name } skóńcyś
+                [1] 1 ześěgnjenje zastajiś a { -brand-short-name } skóńcyś?
                 [one] { $downloadsCount } ześěgnjenje zastajiś a { -brand-short-name } skóńcyś?
                 [two] { $downloadsCount } ześěgnjeni zastajiś a { -brand-short-name } skóńcyś?
                 [few] { $downloadsCount } ześěgnjenja zastajiś a { -brand-short-name } skóńcyś?
