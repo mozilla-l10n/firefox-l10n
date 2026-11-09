@@ -103,7 +103,7 @@ tab-context-close-multiple-tabs =
     .accesskey = M
 # Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
-    .label = 关闭多项
+    .label = 批量关闭
     .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = 关闭重复标签页

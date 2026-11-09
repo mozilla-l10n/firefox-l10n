@@ -73,7 +73,7 @@ about-processes-column-memory-resident = 内存
 about-processes-column-cpu-total = CPU
 # Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
 about-processes-column-cpu-total-tab = CPU
-    .title = % CPU 总处理能力（所有核心）
+    .title = % CPU 总容量（所有核心）
 # Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
 about-processes-column-memory-resident-tab = 内存
 
