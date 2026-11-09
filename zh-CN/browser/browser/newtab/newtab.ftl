@@ -470,11 +470,69 @@ newtab-horoscopes-widget-title = 星座
 newtab-horoscopes-widget-open-menu-button =
     .aria-label = 打开星座菜单
     .title = 打开星座菜单
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = 详细了解
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = 由 Yahoo 提供
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = 旅行
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = 打开旅行菜单
+    .title = 打开旅行菜单
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = 详细了解
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = 由 Kayak 提供
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = 纸牌
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = 打开纸牌菜单
+    .title = 打开纸牌菜单
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = 详细了解
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = 雷克瑟姆队
+    .menu-label = 打开雷克瑟姆队菜单
+    .title = 雷克瑟姆队
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = 视图
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = 赛程
+newtab-widget-wrexhamafc-view-table = 积分榜
+newtab-widget-wrexhamafc-view-fixtures = 赛程
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = 壁纸
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
