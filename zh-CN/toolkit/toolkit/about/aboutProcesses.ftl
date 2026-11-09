@@ -16,6 +16,32 @@ about-processes-kill-process =
     .title = 结束进程
 about-processes-shutdown-tab =
     .title = 关闭标签页
+about-processes-unload-tab =
+    .title = 卸载标签页
+about-processes-select-all-tabs =
+    .title = 选择所有标签页
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = 展开此网站的标签页
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = 收起此网站的标签页
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = 卸载 { $site } 的标签页
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = 重新加载 { $site } 的标签页
+about-processes-expand-all-sites =
+    .title = 全部展开
+about-processes-collapse-all-sites =
+    .title = 全部折叠
+about-processes-go-to-tab =
+    .title = 前往标签页
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -25,6 +51,18 @@ about-processes-profile-process =
         { $duration ->
            *[other] 分析此进程的所有线程 { $duration } 秒
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = 搜索标签页
+    .placeholder = 搜索标签页
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = 未找到与“{ $query }”匹配的标签页
 
 ## Column headers
 
