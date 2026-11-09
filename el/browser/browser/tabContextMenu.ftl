@@ -88,9 +88,16 @@ tab-context-open-in-new-container-tab2 =
 move-to-start =
     .label = Μετακίνηση στην αρχή
     .accesskey = α
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Αρχή
+    .accesskey = Α
 move-to-end =
     .label = Μετακίνηση στο τέλος
     .accesskey = τ
+move-to-end-alt =
+    .label = Τέλος
+    .accesskey = Τ
 move-to-new-window =
     .label = Μετακίνηση σε νέο παράθυρο
     .accesskey = π

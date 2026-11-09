@@ -1207,6 +1207,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Ιστορικό
     .accesskey = ρ
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Ανοικτές καρτέλες
+    .tooltiptext = Ανοικτές καρτέλες από τις άλλες συσκευές σας
+    .accesskey = τ
 sync-engine-tabs =
     .label = Ανοικτές καρτέλες
     .tooltiptext = Μια λίστα με όλα όσα είναι ανοικτά στις συγχρονισμένες συσκευές

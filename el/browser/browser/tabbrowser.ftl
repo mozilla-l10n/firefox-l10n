@@ -448,6 +448,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Αναίρεση διαχωρισμού προβολής
     .accesskey = σ
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Διαχωρισμός καρτελών
+    .accesskey = τ
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Αντιστροφή καρτελών
