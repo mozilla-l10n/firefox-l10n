@@ -85,11 +85,21 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Otvoriť na novej karte v kontajneri
     .accesskey = k
+tab-context-open-in-container =
+    .label = Otvoriť v kontajneri
+    .accesskey = e
 move-to-start =
     .label = Presunúť na začiatok
     .accesskey = z
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Na začiatok
+    .accesskey = z
 move-to-end =
     .label = Presunúť na koniec
+    .accesskey = k
+move-to-end-alt =
+    .label = Na koniec
     .accesskey = k
 move-to-new-window =
     .label = Presunúť do nového okna
@@ -178,6 +188,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Presunúť rozdelené zobrazenie do
     .accesskey = P
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Presunúť karty
+    .accesskey = e
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

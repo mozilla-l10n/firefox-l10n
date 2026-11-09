@@ -647,5 +647,25 @@ hnt-card-import-body = Importujte si záložky, heslá a ďalšie údaje z inéh
 hnt-card-import-primary-button = Importovať údaje
 hnt-card-default-body = { -brand-product-name } je jediný z veľkých prehliadačov vytvorený tak, aby vás chránil, a nie sledoval.
 hnt-card-default-primary-button = Otvárať odkazy v prehliadači { -brand-short-name }
+hnt-card-pin-header = Majte { -brand-short-name(case: "acc") } vždy na jedno kliknutie
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Vráťte sa k bezpečnému prehliadaniu priamo z doku.
+       *[other] Vráťte sa k bezpečnému prehliadaniu priamo z panela úloh.
+    }
+hnt-card-mobile-header = Získajte vstavanú ochranu vo svojom telefóne
+hnt-card-mobile-body = Stiahnite si mobilnú verziu { -brand-product-name(case: "gen") } a získajte viac súkromia aj na cestách.
+hnt-card-mobile-primary-button = Získať { -brand-product-name } pre mobilné zariadenia
+hnt-card-wallpaper-header = Vyberte si sviežu tapetu
 hnt-card-wallpaper-body = Vyberte si obľúbené pozadie a cíťte sa na tejto obrazovke ako doma.
 hnt-card-wallpaper-primary-button = Začať s prispôsobením
+hnt-card-taskbar-tabs-header = Pridajte si obľúbené stránky na panel úloh vo Windowse
+hnt-card-taskbar-tabs-body = Otvárajte svoje najnavštevovanejšie stránky ako aplikácie a využívajte pritom všetky ochranné funkcie prehliadača { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Pridať stránky na panel úloh
+hnt-card-extensions-header = Vylepšite { -brand-short-name(case: "acc") } pomocou rozšírení
+hnt-card-extensions-body = Prispôsobte si prehliadanie s našimi najobľúbenejšími rozšíreniami.
+hnt-card-extensions-primary-button = Preskúmať
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Všetko je pripravené. Teraz sa venujte tomu, čo vás baví.
+hnt-card-last-card-header-end = Ochrana pred sledovaním je zapnutá.

@@ -37,6 +37,11 @@ tab-splitview-splitter =
     .aria-label = Zmena veľkosti kariet rozdeleného zobrazenia
 tab-devtools-splitter =
     .aria-label = Zmena veľkosti panela Vývojárske nástroje
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Pridať karty do skupiny
+    .accesskey = r
 
 ## Tooltips for tab audio control
 ## Variables:
