@@ -7,11 +7,11 @@
 ## Manifest. "id", "scope", "start_url" and "src" are manifest member names
 ## and should not be translated.
 
-dom-manifest-id-is-invalid = L’id del membro non è un URL valido dopo la risoluzione.
-dom-manifest-id-not-same-origin = L’id del membro deve avere la stessa origine del membro start_url.
+dom-manifest-id-is-invalid = Il membro “id” non è un URL valido dopo la risoluzione.
+dom-manifest-id-not-same-origin = Il membro “id” deve avere la stessa origine del membro start_url.
 dom-manifest-should-be-object = Il manifesto dovrebbe essere un oggetto.
-dom-manifest-scope-url-invalid = L’ambito dell’URL non è valido.
-dom-manifest-scope-not-same-origin = L’ambito dell’URL deve avere la stessa origine del documento.
+dom-manifest-scope-url-invalid = L’URL dell’ambito non è valido.
+dom-manifest-scope-not-same-origin = L’URL dell’ambito deve avere la stessa origine del documento.
 dom-manifest-start-url-outside-scope = Start URL è al di fuori dell’ambito, pertanto l’ambito non è valido.
 dom-manifest-start-url-invalid = Start URL non è valido.
 dom-manifest-start-url-should-be-same-origin = Start URL deve avere la stessa origine del documento.
@@ -60,4 +60,4 @@ dom-manifest-image-unsupported-purposes =
 #   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
 #   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
 # Example: "icons item at index 2 includes repeated purpose(s): a, b."
-dom-manifest-image-repeated-purposes = L’elemento “{ $memberName }” in posizione { $index } include più di uno scopo (“purpose”): { $purposes }.
+dom-manifest-image-repeated-purposes = L’elemento “{ $memberName }” in posizione { $index } include scopi (“purpose”) ripetuti: { $purposes }.
