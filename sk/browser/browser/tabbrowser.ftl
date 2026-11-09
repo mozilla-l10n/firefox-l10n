@@ -309,6 +309,15 @@ tab-context-move-tab-to-new-group =
            *[other] Pridať karty do novej skupiny
         }
     .accesskey = r
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Pridať do skupiny
+            [one] Pridať do skupiny
+            [few] Pridať { $tabCount } karty do skupiny
+           *[other] Pridať { $tabCount } kariet do skupiny
+        }
+    .accesskey = d
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -497,6 +506,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Rozpojiť rozdelené zobrazenie
     .accesskey = e
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Oddeliť karty
+    .accesskey = O
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Prehodiť karty

@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Po kliknutí pravým tlači
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Monitor prostriedkov
+experimental-features-resource-monitor-description = Sledujte odhadované využitie pamäte a procesora otvorenými kartami priamo v bočnom paneli a nepoužívané karty uvoľnite, aby ste šetrili systémové zdroje. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
