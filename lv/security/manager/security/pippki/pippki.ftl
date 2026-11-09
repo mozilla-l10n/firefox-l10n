@@ -83,3 +83,9 @@ set-password-reminder = Svarīgi: ja šī parole tiks aizmirsta, nebūs iespēja
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Lūgums ievadīt paroli, kas tika izmantota, lai šifrētu šo sertifikāta dublējumu:
+
+## Protected authentication dialog
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Lūgums autentificēties drošības ierīcē ({ $tokenName }). Kā to izdarīt ir atkarīgs no ierīces (piemēram, izmantojot pirkstu nospiedumu lasītāju vai ievadot kodu ar papildtastatūru).
