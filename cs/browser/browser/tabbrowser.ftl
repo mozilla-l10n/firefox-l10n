@@ -37,6 +37,11 @@ tab-splitview-splitter =
     .aria-label = Změnit velikost panelů v rozděleném zobrazení
 tab-devtools-splitter =
     .aria-label = Změna velikosti panelu Nástroje pro webové vývojáře
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Přidat panely do skupiny
+    .accesskey = P
 
 ## Tooltips for tab audio control
 ## Variables:
