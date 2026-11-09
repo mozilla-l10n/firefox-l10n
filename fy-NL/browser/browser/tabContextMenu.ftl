@@ -145,7 +145,7 @@ tab-context-close-duplicate-tabs =
     .accesskey = u
 # The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
 tab-context-close-duplicate-tabs-alt =
-    .label = Dûbele jepblêden
+    .label = Dûbele ljepblêden
     .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Duplikaten fan dit ljepblêd slute

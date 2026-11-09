@@ -365,7 +365,7 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-all-passwords-checkbox =
     { $total ->
-        [1] Ja, wachturd fuortsmite
+        [1] Ja, wachtwurd fuortsmite
        *[other] Ja, wachtwurden fuortsmite
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.

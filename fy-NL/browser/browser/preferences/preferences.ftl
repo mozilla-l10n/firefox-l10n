@@ -1209,7 +1209,7 @@ sync-engine-history =
     .accesskey = n
 # This string is a modified noun (i.e. tabs that are open)
 sync-engine-tabs2 =
-    .label = Iepen ljeplêden
+    .label = Iepen ljepblêden
     .tooltiptext = Iepenje ljepblêden fan jo oare apparaten
     .accesskey = l
 sync-engine-tabs =
