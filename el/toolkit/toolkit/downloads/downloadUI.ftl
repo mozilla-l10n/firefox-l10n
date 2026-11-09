@@ -40,10 +40,41 @@ download-ui-cancel-downloads-ok =
        *[other] Ακύρωση { $downloadsCount } λήψεων
     }
 download-ui-confirm-cancel-button = Ακύρωση
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Διακοπή 1 λήψης και έξοδος από το { -brand-short-name };
+               *[other] Διακοπή { $downloadsCount } λήψεων και έξοδος από το { -brand-short-name };
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Διακοπή 1 λήψης και τερματισμός του { -brand-short-name };
+               *[other] Διακοπή { $downloadsCount } λήψεων και τερματισμός του { -brand-short-name };
+            }
+    }
+download-ui-confirm-quit-message = Το { -brand-short-name } θα προσπαθήσει να συνεχίσει τις λήψεις όταν ανοίξει ξανά, αλλά η πρόοδός τους ενδέχεται να χαθεί.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] Έξοδος από το { -brand-short-name }
        *[other] Τερματισμός του { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Διακοπή 1 λήψης και χρήση εκτός σύνδεσης;
+       *[other] Διακοπή { $downloadsCount } λήψεων και χρήση εκτός σύνδεσης;
+    }
+download-ui-confirm-offline-message = Το { -brand-short-name } θα προσπαθήσει να συνεχίσει τις λήψεις όταν συνδεθείτε ξανά στο διαδίκτυο, αλλά η πρόοδός τους ενδέχεται να χαθεί.
+download-ui-confirm-offline-button = Χρήση εκτός σύνδεσης
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Διακοπή 1 λήψης και κλείσιμο ιδιωτικού παραθύρου;
+       *[other] Διακοπή { $downloadsCount } λήψεων και κλείσιμο ιδιωτικού παραθύρου;
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Δεν θα μπορέσετε να συνεχίσετε αυτήν τη λήψη.
+       *[other] Δεν θα μπορέσετε να συνεχίσετε αυτές τις λήψεις.
     }
 download-ui-confirm-private-browsing-button = Κλείσιμο παραθύρου
 
