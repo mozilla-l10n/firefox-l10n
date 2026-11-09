@@ -50,7 +50,7 @@ download-ui-confirm-quit-title =
             }
        *[other]
             { $downloadsCount ->
-                [1] 1 Download abbrechen und { -brand-short-name } beenden?
+                [1] 1 Download stoppen und { -brand-short-name } beenden?
                 [one] { $downloadsCount } Download stoppen und { -brand-short-name } beenden?
                *[other] { $downloadsCount } Downloads stoppen und { -brand-short-name } beenden?
             }
