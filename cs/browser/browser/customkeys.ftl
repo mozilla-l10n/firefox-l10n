@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Zkopírovat URL panelu
 customkeys-file-focus-search = Přejít do vyhledávacího pole
 customkeys-history-reopen-tab = Obnovit naposledy zavřený panel
 customkeys-history-reopen-window = Obnovit naposledy zavřené okno
+customkeys-history-reopen-tab-current-window = Znovu otevřít poslední zavřený panel v aktuálním okně
 customkeys-sidebar-toggle = Přepnout postranní lištu
 customkeys-view-bookmarks-toolbar = Přepnout lištu záložek
 customkeys-view-picture-in-picture = Obraz v obraze

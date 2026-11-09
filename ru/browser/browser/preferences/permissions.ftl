@@ -109,7 +109,7 @@ permissions-exceptions-https-only-desc2 = Вы можете отключить �
 
 permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
-    .title = Разрешённые веб-сайты — Всплывающие окна и Сторонние перенаправления
+    .title = Разрешённые веб-сайты — Всплывающие окна и сторонние перенаправления
 permissions-exceptions-popup-desc2 = Вы можете указать, каким веб-сайтам разрешено открывать всплывающие окна и перенаправляться сторонними фреймами.
 
 ## Exceptions - Saved Passwords
