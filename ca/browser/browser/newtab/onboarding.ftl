@@ -609,7 +609,7 @@ smartwindow-sidebar-auto-open-callout-dismiss = No, gràcies
 smartwindow-sidebar-auto-open-callout-accepted-title = L’assistent romandrà tancat
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Utilitzeu Demana per obrir-lo en qualsevol pàgina. Canvieu això en qualsevol moment a <a data-l10n-name="settings">Configuració</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Entesos
-smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si canvieu d'opinió, podeu actualitzar el valor predeterminat a <a data-l10n-name="settings">Configuració</a> en qualsevol moment.
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si canvieu d'opinió, podeu actualitzar el valor per defecte als <a data-l10n-name="settings">Paràmetres</a> en qualsevol moment.
 
 ## Theme Picker screen strings
 

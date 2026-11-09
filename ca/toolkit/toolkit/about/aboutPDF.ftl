@@ -21,7 +21,7 @@ about-pdf-promo =
     .heading = Feu que el { -brand-short-name } sigui el vostre editor de PDF principal
     .message = Obriu fitxers PDF amb el { -brand-short-name } i gestioneu les funcions bàsiques en un sol lloc, des de ressaltats i signatures a fitxers fusionats i comentaris.
 about-pdf-set-default =
-    .label = Estableix com a predeterminat
+    .label = Defineix per defecte
 about-pdf-dismiss =
     .label = Ignora
 

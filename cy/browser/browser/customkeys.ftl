@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copïo URL Tab
 customkeys-file-focus-search = Canolbwyntio'r Bar Chwilio
 customkeys-history-reopen-tab = Ail agor Tabiau Caewyd Diwethaf
 customkeys-history-reopen-window = Ail agor ffenestr Caewyd Diwethaf
+customkeys-history-reopen-tab-current-window = Ailagor Tab Caewyd Diwethaf y Ffenest Gyfredol
 customkeys-sidebar-toggle = Toglo'r Bar Ochr
 customkeys-view-bookmarks-toolbar = Toglo Bar Offer Nodau Tudalen
 customkeys-view-picture-in-picture = Llun-mewn-Llun

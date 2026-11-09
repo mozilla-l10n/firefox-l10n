@@ -93,8 +93,8 @@ mailto-handler-picker-subtitle = Trieu l'aplicació que voleu utilitzar per als 
 mailto-handler-picker-always-ask = Demana-m'ho sempre quan faci clic a un enllaç de correu electrònic
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
-    .label = Estableix com a predeterminat
-    .accesskey = s
+    .label = Defineix per defecte
+    .accesskey = D
 # Dismisses the picker without choosing an email app for now.
 mailto-handler-picker-not-now =
     .label = Ara no

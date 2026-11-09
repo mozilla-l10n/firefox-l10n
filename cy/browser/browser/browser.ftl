@@ -1021,6 +1021,14 @@ urlbar-view-context-menu-open-in-window2 = Agor mewn Ffenestr Newydd
     .accesskey = F
 urlbar-view-context-menu-open-in-private-window2 = Agor mewn Ffenestr Breifat Newydd
     .accesskey = B
+urlbar-view-context-menu-search-in-tab = Chwilio mewn Tab Newydd
+    .accesskey = T
+urlbar-view-context-menu-search-in-container-tab = Chwilio mewn Tab Cynhwysydd Newydd
+    .accesskey = h
+urlbar-view-context-menu-search-in-window = Chwilio mewn Ffenest Newydd
+    .accesskey = F
+urlbar-view-context-menu-search-in-private-window = Chwilio mewn Ffenestr Breifat Newydd
+    .accesskey = B
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
