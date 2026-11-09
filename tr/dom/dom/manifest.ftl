@@ -52,8 +52,8 @@ dom-manifest-image-unusable = { $index } numaralı indeksteki { $memberName } ö
 # Example: "icons item at index 2 includes unsupported purposes: a, b."
 dom-manifest-image-unsupported-purposes =
     { $count ->
-        [one] { $index } numaralı indeksteki { $memberName } öğesi desteklenmeyen bir amaç içeriyor: { $thirds }.
-       *[other] { $index } numaralı indeksteki { $memberName } öğesi desteklenmeyen amaçlar içeriyor: { $thirds }.
+        [one] { $index } numaralı indeksteki { $memberName } öğesi desteklenmeyen bir amaç içeriyor: { $purposes }.
+       *[other] { $index } numaralı indeksteki { $memberName } öğesi desteklenmeyen amaçlar içeriyor: { $purposes }.
     }
 # Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".

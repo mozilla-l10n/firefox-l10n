@@ -68,10 +68,6 @@ about-glean-label-for-ping-names =
     Pretējā gadījumā <code>event</code> metriku noklusējuma vērtība ir
     <code>events</code> ping, un visu pārējo metriku noklusējuma vērtība ir
     <code>metrics</code> ping.
-# An in-line check box precedes this string.
-about-glean-label-for-log-pings =
-    (Pēc izvēles. Atzīmējiet iepriekšējo lodziņu, ja vēlaties, lai ping tiktu reģistrēti arī to iesniegšanas laikā.
-    Papildus būs jāiespējo reģistrēšana.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
