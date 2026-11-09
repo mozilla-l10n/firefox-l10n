@@ -89,7 +89,7 @@ permissions-exceptions-manage-etp-desc = Var norādīt, kurās vietnēs ir izsl�
 permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
     .title = Izņēmumi - sīkdatnes un kešatmiņa
-permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un kurām nav atļauts izmantot sīkdatnes un kešatmiņu. Ierakstiet precīzu lapas adresi un klikšķiniet uz Bloķēt, Atļaut uz sesiju  vai Atļaut.
+permissions-exceptions-cookie-desc = Tu vari norādīt, kurām lapām ir un kurām nav atļauts izmantot sīkdatnes un kešatmiņu. Ieraksti precīzu lapas adresi un klikšķini uz “Liegt”, “Atļaut sesijas laikā”  vai “Atļaut”.
 
 ## Exceptions - Clear on Shutdown
 

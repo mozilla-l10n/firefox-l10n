@@ -120,9 +120,15 @@ move-to-start-alt =
 move-to-end =
     .label = Mover para o fim
     .accesskey = f
+move-to-end-alt =
+    .label = Fim
+    .accesskey = F
 move-to-new-window =
     .label = Mover para nova janela
     .accesskey = j
+move-to-new-window-alt =
+    .label = Nova Janela
+    .accesskey = J
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -137,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Fechar separadores duplicados
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Duplicar Separadores
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Fechar Duplicados Deste Separador
     .accesskey = x
@@ -153,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Novo grupo
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Novo Grupo
+tab-context-add-tab-to-group-closed-groups =
+    .label = Grupos Fechados
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -190,6 +204,15 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Mover para
+            [one] Mover { $tabCount } Separador para
+           *[other] Mover { $tabCount } Separadores para
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -201,6 +224,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Mover Vista Dividida para
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Mover Separadores para
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

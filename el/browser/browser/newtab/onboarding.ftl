@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Ανοίξτε ξανά τις �
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ανοίξτε ξανά τις ομάδες καρτελών σας από το μενού «Παράθεση όλων των καρτελών» ανά πάσα στιγμή.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Οι ομάδες καρτελών αποθηκεύονται αυτόματα. Βρείτε τις εδώ.
 
 ## Multi Profiles feature onboarding messages
 
@@ -640,5 +642,23 @@ welcome-back-onboarding-card-tilebutton-label = Δοκιμή
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Ρυθμίστε το { -brand-short-name } σε δευτερόλεπτα
+hnt-card-import-body = Εισαγάγετε σελιδοδείκτες, κωδικούς πρόσβασης και άλλα δεδομένα από κάποιο άλλο πρόγραμμα περιήγησης.
+hnt-card-import-primary-button = Εισαγωγή δεδομένων
+hnt-card-default-body = Το { -brand-product-name } είναι το μόνο μεγάλο πρόγραμμα περιήγησης που δημιουργήθηκε για να σας προστατεύει και όχι για να σας παρακολουθεί.
+hnt-card-default-primary-button = Άνοιγμα συνδέσμων με το { -brand-short-name }
+hnt-card-pin-header = Κρατήστε το { -brand-short-name } ένα κλικ μακριά
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Επιστρέψτε στην προστατευμένη περιήγηση από το Dock σας.
+       *[other] Επιστρέψτε στην προστατευμένη περιήγηση από τη γραμμή εργασιών σας.
+    }
+hnt-card-mobile-primary-button = Απόκτηση του { -brand-product-name } για κινητές συσκευές.
+hnt-card-wallpaper-header = Επιλέξτε μια νέα ταπετσαρία
+hnt-card-wallpaper-primary-button = Έναρξη προσαρμογής
+hnt-card-taskbar-tabs-header = Προσθέστε τους αγαπημένους σας ιστοτόπους στη γραμμή εργασιών των Windows
+hnt-card-taskbar-tabs-primary-button = Προσθήκη ιστοτόπων στη γραμμή εργασιών
+hnt-card-extensions-header = Βελτιώστε το { -brand-short-name } με επεκτάσεις
+hnt-card-extensions-body = Προσαρμόστε την περιήγησή σας με τις πιο αγαπημένες επεκτάσεις μας.
 hnt-card-extensions-primary-button = Εξερεύνηση
 hnt-card-last-card-header-end = Η προστασία από καταγραφή είναι ενεργή.

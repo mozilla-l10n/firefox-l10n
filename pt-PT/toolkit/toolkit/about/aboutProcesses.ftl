@@ -18,6 +18,30 @@ about-processes-shutdown-tab =
     .title = Fechar separador
 about-processes-unload-tab =
     .title = Descarregar separador
+about-processes-reload-tab =
+    .title = Recarregar separador
+about-processes-select-all-tabs =
+    .title = Selecionar todos os separadores
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Expandir os separadores deste site
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Colapsar os separadores deste site
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Esvaziar separadores de { $site }
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Recarregar separadores de { $site }
+about-processes-expand-all-sites =
+    .title = Expandir tudo
+about-processes-collapse-all-sites =
+    .title = Colapsar tudo
 about-processes-go-to-tab =
     .title = Ir para separador
 # Profiler icons
@@ -30,6 +54,14 @@ about-processes-profile-process =
             [one] Perfilar todas as threads deste processo durante { $duration } segundo
            *[other] Perfilar todas as threads deste processo durante { $duration } segundos
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Pesquisar separadores
+    .placeholder = Pesquisar separadores
 
 ## Column headers
 
