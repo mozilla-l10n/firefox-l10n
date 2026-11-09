@@ -23,10 +23,13 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = 朗读
+narrate-rate-input =
+    .aria-label = 从 -100 到 100 间选择旁白语速，默认语速为 0。
+    .title = 语速
 narrate-rate-slow =
-    .title = 放慢旁白速度
+    .title = 放慢旁白语速
 narrate-rate-fast =
-    .title = 加快旁白速度
+    .title = 加快旁白语速
 narrate-voice-header = 语音
 # Default voice is determined by the language of the document.
 narrate-voice-default = 默认
