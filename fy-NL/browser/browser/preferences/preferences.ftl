@@ -1210,7 +1210,7 @@ sync-engine-history =
 # This string is a modified noun (i.e. tabs that are open)
 sync-engine-tabs2 =
     .label = Iepen ljepblêden
-    .tooltiptext = Iepenje ljepblêden fan jo oare apparaten
+    .tooltiptext = Iepen ljepblêden fan jo oare apparaten
     .accesskey = l
 sync-engine-tabs =
     .label = Iepen ljepblêden
@@ -1226,7 +1226,7 @@ sync-engine-addresses2 =
     .accesskey = e
 sync-engine-payment-methods3 =
     .label = Betellingsmetoaden
-    .tooltiptext = Betellingsmethoden dy’t jo bewarre hawwe
+    .tooltiptext = Betellingsmetoaden dy’t jo bewarre hawwe
     .accesskey = n
 sync-engine-addons2 =
     .label = Add-ons

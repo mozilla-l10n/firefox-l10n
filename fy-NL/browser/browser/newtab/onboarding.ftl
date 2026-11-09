@@ -414,7 +414,7 @@ tab-groups-onboarding-session-restore-title-3 = Jo kinne jo ljepblêdgroepen op 
 tab-groups-onboarding-session-restore-title-2 = Jo kinne jo ljepblêdgroepen op elk winske momint opnij iepenje fan it menu Alle ljepblêdtitels toane út.
 tab-groups-onboarding-dismiss = OK
 # "here" refers to the application menu button
-tab-groups-onboarding-auto-saved-title = Tabgroepen wurde automatysk bewarre. Jo kinne se hjir fine.
+tab-groups-onboarding-auto-saved-title = Ljepblêdgroepen wurde automatysk bewarre. Jo kinne se hjir fine.
 
 ## Multi Profiles feature onboarding messages
 
@@ -651,8 +651,8 @@ hnt-card-default-primary-button = Keppelingen iepenje mei { -brand-short-name }
 hnt-card-pin-header = Hâld { -brand-short-name } in klik fuort
 hnt-card-pin-body =
     { PLATFORM() ->
-        [macos] Spring werom nei beskerme navigearje fan jo dock út.
-       *[other] Spring werom nei beskerme navigearje fan jo taakbalke út.
+        [macos] Spring werom nei beskerme navigearjen fan jo dock út.
+       *[other] Spring werom nei beskerme navigearjen fan jo taakbalke út.
     }
 hnt-card-mobile-header = Untfang ynboude beskerming op jo telefoan
 hnt-card-mobile-body = Download { -brand-product-name } foar mobyl foar ekstra privacy ûnderweis.
@@ -664,7 +664,7 @@ hnt-card-taskbar-tabs-header = Set jo favorite websites op jo Windows-taakbalke
 hnt-card-taskbar-tabs-body = Iepenje jo meast besochte websites lykas in app, mei alle beskermingen fan { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Websites oan taakbalke tafoegje
 hnt-card-extensions-header = Helje mear út { -brand-short-name } mei útwreidingen
-hnt-card-extensions-body = Pas jo navigaasje oan mei ús meast leafste útwreidingen.
+hnt-card-extensions-body = Pas jo navigaasje oan mei ús meast leafde útwreidingen.
 hnt-card-extensions-primary-button = Ferkenne
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
