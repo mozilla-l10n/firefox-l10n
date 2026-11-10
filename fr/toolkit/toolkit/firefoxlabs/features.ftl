@@ -98,4 +98,4 @@ experimental-features-tab-context-menu-description = Découvrez un menu contextu
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Moniteur de ressources
-experimental-features-resource-monitor-description = Consultez l’utilisation mémoire et processeur estimée pour vos onglets ouverts directement dans la barre latérale, et déchargez les onglets que vous n’utilisez pas pour libérer des ressources. <a data-l10n-name="connect">Partagez vos commentaires</a>
+experimental-features-resource-monitor-description = Consultez directement dans le panneau latéral l’utilisation estimée de la mémoire et du processeur par vos onglets ouverts, et déchargez les onglets que vous n’utilisez pas pour libérer des ressources. <a data-l10n-name="connect">Donnez votre avis</a>
