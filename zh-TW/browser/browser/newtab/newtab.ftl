@@ -1846,6 +1846,20 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = 搜尋城市
     .placeholder = 搜尋城市
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = 暱稱（選填）
+    .description =
+        { $count ->
+           *[other] 剩餘 { $count } 個字元
+        }
+    .label = 暱稱（選填）
+    .placeholder = 新增暱稱
 newtab-clock-widget-search-location-input =
     .aria-label = 搜尋城市
     .label = 位置

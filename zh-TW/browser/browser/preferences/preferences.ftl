@@ -1158,6 +1158,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = 同步中…
     .title = 立刻同步
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = 現在起，您選擇的同步項目只會套用至此裝置。
 
 ## The list of things currently syncing.
 
