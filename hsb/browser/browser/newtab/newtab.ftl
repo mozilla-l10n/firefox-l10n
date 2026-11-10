@@ -1922,6 +1922,23 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Město pytać
     .placeholder = Město pytać
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Přimjeno (na přeće)
+    .description =
+        { $count ->
+            [one] { $count } znamješko wyše
+            [two] { $count } znamješce wyše
+            [few] { $count } znamješka wyše
+           *[other] { $count } znamješkow wyše
+        }
+    .label = Přimjeno (na přeće)
+    .placeholder = Přimjeno přidać
 newtab-clock-widget-search-location-input =
     .aria-label = Město pytać
     .label = Stejnišćo

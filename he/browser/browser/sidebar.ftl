@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = הוספת הדף לסימניות…
 sidebar-history-context-menu-delete-pages =
     .label = מחיקת הדפים מההיסטוריה
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = מחיקה
 
 ## Labels for sidebar bookmarks context menu items
 
