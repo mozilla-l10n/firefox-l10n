@@ -145,6 +145,9 @@ permissions-site-notification-disable-desc = 所有列表外的网站将无法�
 # Shown only where notifications can be delivered while the browser is closed.
 permissions-site-notification-closed-delivery-label =
     .label = 允许网站在 { -brand-short-name } 关闭时发送通知
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = 同时受操作系统的通知设置影响。
 
 ## Site Permissions - Location
 
@@ -165,6 +168,15 @@ permissions-site-xr-desc = 下列网站曾请求使用您的虚拟现实设备�
 permissions-site-xr-disable-label =
     .label = 禁止网站提出虚拟现实设备使用请求
 permissions-site-xr-disable-desc = 将阻止上述之外的网站请求使用您的虚拟现实设备。不授予虚拟现实设备权限可能会影响某些网站的功能。
+
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = 设置 - 禁止打开应用链接的网站
+permissions-site-app-links-desc = 下列网站已被禁止请求打开应用链接，例如邮件链接（mailto:）。移除网站后，其可再次请求。
 
 ## Site Permissions - Camera
 
