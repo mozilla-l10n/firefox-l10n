@@ -1351,6 +1351,12 @@ newtab-report-ads-reason-inappropriate =
     .label = È inappropriata
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = L’ho vista troppe volte
+newtab-report-ads-reason-scam =
+    .label = Truffa o frode
+newtab-report-ads-reason-misleading =
+    .label = Informazioni ingannevoli o false
+newtab-report-ads-reason-offensive =
+    .label = Offensivo o inappropriato
 newtab-report-content-wrong-category =
     .label = Categoria errata
 newtab-report-content-outdated =
@@ -1886,6 +1892,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Cerca una città
     .placeholder = Cerca una città
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Nome (facoltativo)
+    .description =
+        { $count ->
+            [one] { $count } carattere rimasto
+           *[other] { $count } caratteri rimasti
+        }
+    .label = Nome (facoltativo)
+    .placeholder = Aggiungi un nome
 newtab-clock-widget-search-location-input =
     .aria-label = Cerca una città
     .label = Posizione

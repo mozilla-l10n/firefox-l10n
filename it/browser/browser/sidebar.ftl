@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Aggiungi pagina ai segnalibri…
 sidebar-history-context-menu-delete-pages =
     .label = Elimina pagine dalla cronologia
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Elimina
 
 ## Labels for sidebar bookmarks context menu items
 
