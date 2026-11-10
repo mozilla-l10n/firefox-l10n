@@ -1164,11 +1164,12 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = 您目前与已连接的设备同步以下项目：
 sync-syncing-across-devices-heading-2 = 跨设备同步的数据
+sync-syncing-across-devices-heading-3 = 此设备正在同步的数据
 sync-syncing-across-devices-empty-state2 =
     .description = 尚未同步任何数据。开始同步，让所有数据在您的各设备上触手可得。
     .label = 管理同步的数据
 sync-syncing-across-devices-empty-state3 =
-    .description = 尚未同步任何项目，请选择此设备要同步的项目。
+    .description = 尚未同步任何数据，请选择此设备要同步的数据。
     .label = 管理同步的数据
 sync-currently-syncing-bookmarks = 书签
 sync-currently-syncing-history = 历史记录
@@ -1246,14 +1247,14 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
-    .title = 管理需要同步到所有已连接设备上的项目
+    .title = 管理同步到所有已连接设备上的数据
 sync-choose-what-to-sync-dialog5 =
     .buttonlabelaccept = 保存
     .buttonlabelextra2 = 断开连接…
     .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
-    .title = 管理此设备同步的项目
+    .title = 管理此设备同步的数据
 
 ## The device name controls.
 
@@ -1524,6 +1525,13 @@ payment-moz-box-item-security-code-only-2 =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item-with-security-code =
     .description = { $expDate } | 安全码已保存
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV 已保存
     .label = { $cardNumber }
 addresses-group =
     .label = 地址等信息
@@ -1905,6 +1913,10 @@ notifications-state-allow = 允许
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = 永不
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = 未添加网站通知。
 
 ## Privacy Section - Data Collection
 
