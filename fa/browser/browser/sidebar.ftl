@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = نشانک کردن صفحه…
 sidebar-history-context-menu-delete-pages =
     .label = حذف صفحه‌ها از تاریخچه
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = حذف
 
 ## Labels for sidebar bookmarks context menu items
 

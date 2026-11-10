@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = پوشانه جدید ایجاد 
 confirmation-hint-firefox-relay-mask-reused = پوشانه موجود دوباره استفاده شد!
 confirmation-hint-screenshot-copied = نماگرفت رونوشت شد!
 confirmation-hint-tab-group-saved = گروه زبانه ذخیره شد
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = گروه‌های زبانه را در این منو پیدا کنید
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
