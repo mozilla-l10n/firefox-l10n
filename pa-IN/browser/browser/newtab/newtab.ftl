@@ -591,6 +591,8 @@ newtab-widget-wrexhamafc-menu-view = ਵੇਖੋ
 
 newtab-widget-wrexhamafc-view-matches = ਮੇਲ
 newtab-widget-wrexhamafc-view-table = ਟੇਬਲ
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = ਵਾਲਪੇਪਰ
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -808,6 +810,9 @@ newtab-discovery-empty-section-topstories-header = ਤੁਸੀਂ ਅਟਕ ਗ
 newtab-discovery-empty-section-topstories-content = ਹੋਰ ਕਹਾਣੀਆਂ ਲਈ ਬਾਅਦ ‘ਚ ਜਾਂਚ ਕਰੋ।
 newtab-discovery-empty-section-topstories-try-again-button = ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ
 newtab-discovery-empty-section-topstories-loading = ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = ਲੇਖ ਹਾਲੇ ਮੌਜੂਦ ਨਹੀਂ ਹਨ।
+newtab-discovery-empty-section-topstories-unavailable-body = ਆਪਣੇ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜਾਂ ਬਾਅਦ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ਓਹ ਹੋ! ਅਸੀਂ ਇਹ ਭਾਗ ਲੋਡ ਕਰ ਹੀ ਲਿਆ ਸੀ, ਫੇਰ ਵੀ ਹੋ ਨੀ ਸਕਿਆ।
 
@@ -1345,6 +1350,12 @@ newtab-report-ads-reason-inappropriate =
     .label = ਇਹ ਬੇਤੁਕਾ ਹੈ
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = ਮੈਂ ਇਸ ਨੂੰ ਬਹੁਤ ਵਾਰ ਦੇਖਿਆ
+newtab-report-ads-reason-scam =
+    .label = ਘੋਟਾਲਾ ਜਾਂ ਠੱਗੀ
+newtab-report-ads-reason-misleading =
+    .label = ਗੁੰਮਰਾਹਕੁੰਣ ਜਾਂ ਗਲਤ ਦਾਅਵੇ
+newtab-report-ads-reason-offensive =
+    .label = ਹਮਲਾਵਰ ਜਾਂ ਅਢੁੱਕਵਾਂ
 newtab-report-content-wrong-category =
     .label = ਗਲਤ ਵਰਗ
 newtab-report-content-outdated =
@@ -1451,6 +1462,12 @@ newtab-widget-menu-move-left = ਖੱਬੇ
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = ਸੱਜੇ
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = ਘਰ
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = ਵਿਜੈੱਟ
 newtab-widget-size-small = ਛੋਟੇ
 newtab-widget-size-medium = ਮੱਧਮ
 newtab-widget-size-large = ਵੱਡੇ
@@ -1487,6 +1504,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = ਘੱਟ ਵਿਜੈੱਟ ਵੇਖਾਓ
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = ਵਿਜੈੱਟ ਮੌਜੂਦ ਨਹੀਂ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਚੈਕ ਕਰਿਓ।
 newtab-widget-lists-name-default = ਚੈਕ-ਲਿਸਟ
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1545,6 +1566,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = ਕਰਾਸਵਰਡ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
     .title = ਕਰਾਸਵਰਡ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Particle ਵਲੋਂ ਤਿਆਰ
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1865,6 +1889,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
     .placeholder = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = ਨਾਂ (ਚੋਣਵਾਂ)
+    .description =
+        { $count ->
+            [one] { $count } ਅੱਖਰ ਬਾਕੀ
+           *[other] { $count } ਅੱਖਰ ਬਾਕੀ
+        }
+    .label = ਨਾਂ (ਚੋਣਵਾਂ)
+    .placeholder = ਕੋਈ ਨਾਂ ਜੋੜੋ
 newtab-clock-widget-search-location-input =
     .aria-label = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
     .label = ਟਿਕਾਣਾ

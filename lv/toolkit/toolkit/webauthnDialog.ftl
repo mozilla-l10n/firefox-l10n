@@ -72,3 +72,11 @@ webauthn-block = Liegt
     .accesskey = L
 webauthn-continue = Turpināt
     .accesskey = T
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } vēlas izveidot piekļuves atslēgu { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } vēlas izmantot piekļuves atslēgu { $rpId }.

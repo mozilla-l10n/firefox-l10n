@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = ਆਪਣੇ ਟੈਬ ਗਰੁ
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ਸਭ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਫੇਰ ਖੋਲ੍ਹੋ।
 tab-groups-onboarding-dismiss = ਠੀਕ ਹੈ
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = ਟੈਬ ਗਰੁੱਪ ਆਪੇ ਸੰਭਾਲੇ ਜਾਂਦੇ ਹਨ। ਉਹਨਾਂ ਨੂੰ ਇੱਥੇ ਲੱਭੋ।
 
 ## Multi Profiles feature onboarding messages
 
@@ -636,3 +638,7 @@ welcome-back-onboarding-card-label-tabs = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾ�
 welcome-back-onboarding-card-label-vpn = ਵਿੱਚੇ ਮੌਜੂਦ VPN ਨਾਲ ਲੁਕਾ ਕੇ ਰੱਖੋ
 welcome-back-onboarding-card-label-pdf = PDF ਵਿੱਚ ਉਘਾੜੋ, ਦਸਤਖ਼ਤ ਕਰੋ ਅਤੇ ਹੋਰ ਕੰਮ ਕਰੋ
 welcome-back-onboarding-card-tilebutton-label = ਅਜ਼ਮਾਓ
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਸਕਿੰਟਾਂ ਵਿੱਚ ਤਿਆਰ ਕਰੋ
