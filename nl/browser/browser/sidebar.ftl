@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Bladwijzer voor pagina maken…
 sidebar-history-context-menu-delete-pages =
     .label = Pagina’s uit geschiedenis verwijderen
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Verwijderen
 
 ## Labels for sidebar bookmarks context menu items
 
