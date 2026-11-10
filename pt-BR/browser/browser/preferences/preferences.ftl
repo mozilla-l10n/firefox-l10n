@@ -1170,6 +1170,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Sincronizando…
     .title = Sincronizar agora
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Suas preferências de sincronização agora se aplicam somente a este dispositivo.
 
 ## The list of things currently syncing.
 
@@ -1207,6 +1210,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Histórico
     .accesskey = H
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Abrir abas
+    .tooltiptext = Abrir abas de seus outros dispositivos
+    .accesskey = b
 sync-engine-tabs =
     .label = Abas abertas
     .tooltiptext = Uma lista do que está aberto em todos os dispositivos sincronizados
@@ -1215,6 +1223,14 @@ sync-engine-passwords =
     .label = Senhas
     .tooltiptext = Senhas que você salvou
     .accesskey = S
+sync-engine-addresses2 =
+    .label = Endereços
+    .tooltiptext = Endereços que você salvou no { -brand-short-name }
+    .accesskey = E
+sync-engine-payment-methods3 =
+    .label = Métodos de pagamento
+    .tooltiptext = Métodos de pagamento que você salvou
+    .accesskey = M
 sync-engine-addresses =
     .label = Endereços
     .tooltiptext = Endereços postais que você salvou (computador apenas)

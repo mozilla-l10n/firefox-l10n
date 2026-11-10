@@ -661,3 +661,11 @@ hnt-card-wallpaper-body = Deixe esta tela fazer você se sentir casa com um fund
 hnt-card-wallpaper-primary-button = Comece a personalizar
 hnt-card-taskbar-tabs-header = Adicione seus sites favoritos à barra de tarefas do Windows
 hnt-card-taskbar-tabs-body = Acesse seus sites mais visitados como se fossem aplicativos, com todas as proteções do { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Adicione sites à barra de tarefas
+hnt-card-extensions-header = Aprimore o { -brand-short-name } com extensões
+hnt-card-extensions-body = Personalize sua navegação com nossas extensões mais populares.
+hnt-card-extensions-primary-button = Conheça
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Tudo pronto. Agora é com você.
+hnt-card-last-card-header-end = A proteção contra rastreamento está ativada.
