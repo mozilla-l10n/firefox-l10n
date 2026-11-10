@@ -654,7 +654,7 @@ hnt-card-pin-body =
         [macos] Reprenez votre navigation protégée depuis le Dock.
        *[other] Reprenez votre navigation protégée depuis la barre des tâches.
     }
-hnt-card-mobile-header = Obtenez une protection intégrée sur votre téléphone
+hnt-card-mobile-header = Profitez d’une protection intégrée sur votre téléphone
 hnt-card-mobile-body = Téléchargez { -brand-product-name } pour mobile pour plus de confidentialité lors de vos déplacements.
 hnt-card-mobile-primary-button = Installez { -brand-product-name } sur votre appareil mobile.
 hnt-card-wallpaper-header = Choisissez un nouveau fond d’écran
@@ -668,5 +668,5 @@ hnt-card-extensions-body = Personnalisez votre navigation avec nos extensions le
 hnt-card-extensions-primary-button = Explorer
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
-hnt-card-last-card-header-start = Tout est réglé. Passez à l’action.
+hnt-card-last-card-header-start = Tout est prêt. Faites ce qui vous plaît.
 hnt-card-last-card-header-end = La protection contre le pistage est activée.

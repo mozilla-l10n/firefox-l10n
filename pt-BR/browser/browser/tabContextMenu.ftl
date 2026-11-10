@@ -34,20 +34,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Fechar abas à esquerda
     .accesskey = e
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Abas à esquerda
+    .accesskey = e
 close-tabs-to-the-start-vertical =
     .label = Fechar abas acima
     .accesskey = F
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Abas acima
+    .accesskey = c
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Fechar abas à direita
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Abas à direita
+    .accesskey = d
 close-tabs-to-the-end-vertical =
     .label = Fechar abas abaixo
+    .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Abas abaixo
     .accesskey = i
 close-other-tabs =
     .label = Fechar as outras abas
     .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Todas as outras
+    .accesskey = u
 reload-tabs =
     .label = Recarregar abas
     .accesskey = R
@@ -85,15 +107,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Abrir em nova aba contêiner
     .accesskey = e
+tab-context-open-in-container =
+    .label = Abrir em contêiner
+    .accesskey = c
 move-to-start =
     .label = Mover para o início
     .accesskey = i
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Início
+    .accesskey = I
 move-to-end =
     .label = Mover para o final
     .accesskey = f
+move-to-end-alt =
+    .label = Final
+    .accesskey = F
 move-to-new-window =
     .label = Mover para nova janela
     .accesskey = n
+move-to-new-window-alt =
+    .label = Nova janela
+    .accesskey = j
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -107,6 +142,10 @@ tab-context-close-multiple-tabs2 =
     .accesskey = v
 tab-context-close-duplicate-tabs =
     .label = Fechar abas duplicadas
+    .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Duplicar abas
     .accesskey = u
 tab-context-close-duplicate-tabs2 =
     .label = Fechar duplicatas desta aba
@@ -124,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Novo grupo
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Novo grupo
+tab-context-add-tab-to-group-closed-groups =
+    .label = Grupos fechados
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -158,6 +201,15 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Mover para
+            [one] Mover { $tabCount } aba para
+           *[other] Mover { $tabCount } abas para
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -168,6 +220,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Mover exibição dividida para
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Mover abas para
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

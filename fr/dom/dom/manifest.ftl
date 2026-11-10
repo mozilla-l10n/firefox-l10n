@@ -52,8 +52,8 @@ dom-manifest-image-unusable = L’élément { $memberName } en position { $index
 # Example: "icons item at index 2 includes unsupported purposes: a, b."
 dom-manifest-image-unsupported-purposes =
     { $count ->
-        [one] L’élément { $memberName } en index { $index } possède un objectif non pris en charge : { $purposes }.
-       *[other] L’élément { $memberName } en index { $index } contient des fins non prises en charge : { $purposes }.
+        [one] L’élément { $memberName } en position { $index } comprend un objectif non pris en charge : { $purposes }.
+       *[other] L’élément { $memberName } en position { $index } comprend des objectifs non pris en charge : { $purposes }.
     }
 # Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
