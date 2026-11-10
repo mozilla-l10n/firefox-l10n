@@ -1355,6 +1355,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Nem megfelelő
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Túl sokszor láttam
+newtab-report-ads-reason-scam =
+    .label = Átverés vagy csalás
+newtab-report-ads-reason-misleading =
+    .label = Megtévesztő vagy valótlan állítások
+newtab-report-ads-reason-offensive =
+    .label = Sértő vagy nem megfelelő
 newtab-report-content-wrong-category =
     .label = Hibás kategória
 newtab-report-content-outdated =
@@ -1890,6 +1896,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Város keresése
     .placeholder = Város keresése
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Becenév (nem kötelező)
+    .description =
+        { $count ->
+            [one] { $count } karakter maradt
+           *[other] { $count } karakter maradt
+        }
+    .label = Becenév (nem kötelező)
+    .placeholder = Becenév hozzáadása
 newtab-clock-widget-search-location-input =
     .aria-label = Város keresése
     .label = Hely

@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = Új maszk létrehozva.
 confirmation-hint-firefox-relay-mask-reused = A meglévő maszk újrafelhasználva.
 confirmation-hint-screenshot-copied = Képernyőkép másolva.
 confirmation-hint-tab-group-saved = Lapcsoport mentve
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Lapcsoportok keresése ebben a menüben
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

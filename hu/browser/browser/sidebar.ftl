@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Lap könyvjelzőzése…
 sidebar-history-context-menu-delete-pages =
     .label = Oldalak törlése az előzményekből
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Törlés
 
 ## Labels for sidebar bookmarks context menu items
 
