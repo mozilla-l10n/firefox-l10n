@@ -145,7 +145,7 @@ tab-context-close-duplicate-tabs =
     .accesskey = d
 # The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
 tab-context-close-duplicate-tabs-alt =
-    .label = Duplicera flikar
+    .label = Duplicerade flikar
     .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Stäng dubbletter av denna flik
