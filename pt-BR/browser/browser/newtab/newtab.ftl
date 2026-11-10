@@ -571,13 +571,31 @@ newtab-solitaire-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Saiba mais
 
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Abrir menu do Wrexham AFC
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Exibição
+
 ## Options in the View submenu, each switching the widget to a different view.
 ## These are football terms: “Matches” shows the club’s latest or next match,
 ## with its score once it has started; “Table” shows the league table, the
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
 
+newtab-widget-wrexhamafc-view-matches = Jogos
 newtab-widget-wrexhamafc-view-table = Tabela
+newtab-widget-wrexhamafc-view-fixtures = Calendário de jogos
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.
 newtab-widget-wrexhamafc-menu-wallpapers = Fundos de tela
 
@@ -1341,6 +1359,10 @@ newtab-report-ads-reason-inappropriate =
     .label = É inapropriado
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Já vi isso demais.
+newtab-report-ads-reason-scam =
+    .label = Golpe ou fraude
+newtab-report-ads-reason-misleading =
+    .label = Alegações falsas ou enganosas
 newtab-report-content-wrong-category =
     .label = Categoria errada
 newtab-report-content-outdated =
