@@ -155,6 +155,11 @@ about-processes-inactive-threads =
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Tēmas ID: { $tid }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Cilne: { $name }
+about-processes-preloaded-tab = Iepriekš ielādēta jauna cilne
 # Tab count shown in the groupby=tab view's totals bar.
 # Variables:
 #   $count (Number) The number of open tabs currently listed. Always ≥ 0.
@@ -164,9 +169,59 @@ about-processes-tab-count =
         [one] { $count } cilne
        *[other] { $count } cilnes
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] Atlasīta cilne { $count }
+        [zero] Atlasītas { $count } cilnes
+       *[other] Atlasītas { $count } cilnes
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } cilne)
+        [zero] ({ $count } cilnes)
+       *[other] ({ $count } cilnes)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Atcelt atlasi
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Izlādēt
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Pārlādēt
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Aizvērt
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Apakškadrs: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Apakškadri ({ $number }): { $shortUrl }
 
 ## Utility process actor names
 
+about-processes-utility-actor-unknown = Nezināms darbonis
+about-processes-utility-actor-audio-decoder-generic = Vispārīgs audio dekodētājs
+about-processes-utility-actor-audio-decoder-applemedia = Apple Media Audio Dekodetājs
+about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework audio dekodētājs
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation multivides dzinēja CDM
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = JavaScript Oracle
+about-processes-utility-actor-windows-utils = Windows Utils
+about-processes-utility-actor-windows-file-dialog = Windows failu dialoglodziņš
+about-processes-utility-actor-pkcs11-module = Drošības moduļa palīgs
 about-processes-utility-actor-hw-inference = Aparatūras paātrināts izvedums
 
 ## Displaying CPU (percentage and total)
@@ -178,11 +233,46 @@ about-processes-utility-actor-hw-inference = Aparatūras paātrināts izvedums
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Kopējais CPU laiks: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (mērīšana)
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0.1%
+    .title = Kopējais CPU laiks: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: process or thread is currently idle.
+about-processes-cpu-fully-idle = dīkstāve
+    .title = Kopējais CPU laiks: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
 # Variables:
 #    $percent (Number) Always >= 0, and never above 1.
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = dīkstāvē
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = < 0.1%
+
+## Displaying Memory (total and delta)
+## Variables:
+##    $total (Number) The amount of memory currently used by the process.
+##    $totalUnit (String) The unit in which to display $total. See the definitions
+##                        of `memory-unit-*`.
+##    $delta (Number) The absolute value of the amount of memory added recently.
+##    $deltaSign (String) Either "+" if the amount of memory has increased
+##                        or "-" if it has decreased.
+##    $deltaUnit (String) The unit in which to display $delta. See the definitions
+##                        of `memory-unit-*`.
+
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Attīstība: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }

@@ -126,6 +126,9 @@ move-to-end-alt =
 move-to-new-window =
     .label = Flytt til et nytt vindu
     .accesskey = t
+move-to-new-window-alt =
+    .label = Nytt vindu
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -140,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Lukk dupliserte faner
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Dupliserte faner
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Lukk duplikater av denne fanen
     .accesskey = u

@@ -34,8 +34,14 @@ about-processes-collapse-site =
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-unload-site =
     .title = Frigjør fanene fra { $site } fra minnet
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Last inn fanene fra { $site } på nytt
 about-processes-expand-all-sites =
     .title = Utvid alle
+about-processes-collapse-all-sites =
+    .title = Slå sammen alle
 about-processes-go-to-tab =
     .title = Gå til fane
 # Profiler icons
@@ -56,6 +62,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Søk i faner
     .placeholder = Søk i faner
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Fant ingen faner som samsvarer med «{ $query }»
 
 ## Column headers
 
@@ -155,6 +165,25 @@ about-processes-tab-count =
         [one] { $count } fane
        *[other] { $count } faner
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } fane valgt
+       *[other] { $count } faner valgt
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } fane)
+       *[other] ({ $count } faner)
+    }
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Oppdater
 # Bulk-action bar button: closes every selected tab.
 about-processes-bulk-close-tabs =
     .label = Lukk

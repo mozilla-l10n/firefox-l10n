@@ -285,6 +285,13 @@ tab-context-move-tab-to-new-group =
            *[other] Legg til faner i ny gruppe
         }
     .accesskey = L
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Legg til i gruppe
+           *[other] Legg til { $tabCount } faner i gruppen
+        }
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
