@@ -55,6 +55,12 @@ download-ui-confirm-quit-title =
                *[other] Interromper { $downloadsCount } downloads e fechar o { -brand-short-name }?
             }
     }
+download-ui-confirm-quit-message = Ao reabrir, o { -brand-short-name } tentará retomar o que estava baixando, mas o progresso pode ser perdido.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Sair do { -brand-short-name }
+       *[other] Sair do { -brand-short-name }
+    }
 download-ui-confirm-offline-title =
     { $downloadsCount ->
         [1] Interromper 1 download e entrar em modo offline?

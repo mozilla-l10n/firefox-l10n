@@ -1355,6 +1355,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Desegokia da
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Gehiegitan ikusi dut
+newtab-report-ads-reason-scam =
+    .label = Iruzurra
+newtab-report-ads-reason-misleading =
+    .label = Engainagarria edo baieztapen faltsuak
+newtab-report-ads-reason-offensive =
+    .label = Iraingarria edo desegokia
 newtab-report-content-wrong-category =
     .label = Kategoria okerra
 newtab-report-content-outdated =
@@ -1890,6 +1896,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Bilatu hiria
     .placeholder = Bilatu hiria
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Ezizena (aukerakoa)
+    .description =
+        { $count ->
+            [one] Karaktere { $count } faltan
+           *[other] { $count } karaktere faltan
+        }
+    .label = Ezizena (aukerakoa)
+    .placeholder = Gehitu ezizena
 newtab-clock-widget-search-location-input =
     .aria-label = Bilatu hiria
     .label = Kokapena
