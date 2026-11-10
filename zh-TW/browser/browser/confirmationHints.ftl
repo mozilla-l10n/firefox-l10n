@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = 已產生新的轉寄信箱！
 confirmation-hint-firefox-relay-mask-reused = 重複使用現有的轉寄信箱！
 confirmation-hint-screenshot-copied = 已複製擷圖！
 confirmation-hint-tab-group-saved = 已儲存分頁群組
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = 可在此選單搜尋分頁群組
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed = 已關閉 { $tabCount } 個分頁
