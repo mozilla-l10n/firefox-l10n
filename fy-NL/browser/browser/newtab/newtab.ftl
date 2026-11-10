@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = Jo favoriten foar de hân
 newtab-shortcuts-highlight-subtitle = Foegje in fluchkeppeling ta om jo favorite websites op ien klik ôfstân te hâlden.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Wêrom melde jo dit?

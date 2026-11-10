@@ -1365,6 +1365,7 @@ newtab-shortcuts-highlight-title = Waše fawority k ruce
 newtab-shortcuts-highlight-subtitle = Pśidajśo zwězanje, aby swóje nejlubše sedła jadno kliknjenje pšec źaržał.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Cogodla dawaśo to k wěsći?

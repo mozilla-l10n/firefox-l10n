@@ -1314,6 +1314,7 @@ newtab-shortcuts-highlight-title = Вашы любімыя рэчы ў вас �
 newtab-shortcuts-highlight-subtitle = Дадайце цэтлік, каб вашы любімыя сайты былі на адлегласці дотыку.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Чаму вы паведамляеце пра гэта?

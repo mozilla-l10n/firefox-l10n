@@ -719,6 +719,7 @@ newtab-shortcuts-highlight-title = I tiei preferîts a puartade di man
 newtab-shortcuts-highlight-subtitle = Zonte une scurte par mantignî i tiei sîts preferîts a puartade di clic.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Parcè stâstu segnalant cheste publicitât?

@@ -1337,6 +1337,7 @@ newtab-shortcuts-highlight-title = המועדפים שלך בקצות האצבע
 newtab-shortcuts-highlight-subtitle = ניתן להוסיף קיצור דרך כדי לשמור את האתרים המועדפים עליך במרחק קליק אחד.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = על מה הדיווח?

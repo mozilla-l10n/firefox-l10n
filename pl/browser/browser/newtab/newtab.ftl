@@ -1324,6 +1324,7 @@ newtab-shortcuts-highlight-title = Ulubione zawsze pod ręką
 newtab-shortcuts-highlight-subtitle = Dodaj skrót, aby mieć ulubione witryny pod jednym kliknięciem.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Dlaczego to zgłaszasz?

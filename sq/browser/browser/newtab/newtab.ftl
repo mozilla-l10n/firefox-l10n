@@ -643,6 +643,7 @@ newtab-shortcuts-highlight-title = Të parapëlqyerat tuaja në majë të gishta
 newtab-shortcuts-highlight-subtitle = Shtoni një shkurtore, për t’i mbajtur sajtet e parapëlqyer vetëm një klikim larg.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Pse po njoftoni për këtë?

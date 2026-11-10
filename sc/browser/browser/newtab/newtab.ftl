@@ -839,6 +839,7 @@ newtab-shortcuts-highlight-title = Is preferidos tuos a unu clic
 newtab-shortcuts-highlight-subtitle = Agiunghe unu curtzadòrgiu pro mantènnere is sitos preferidos tuos a unu clic isceti.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Pro ite ses sinnalende custu?

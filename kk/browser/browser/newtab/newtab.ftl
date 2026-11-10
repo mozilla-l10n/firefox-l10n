@@ -1344,6 +1344,7 @@ newtab-shortcuts-highlight-title = Таңдаулыларыңыз әрқашан
 newtab-shortcuts-highlight-subtitle = Таңдаулы сайттарыңызға бір рет басу арқылы кіру үшін жарлық қосыңыз.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Бұл туралы неге хабарлап отырсыз?

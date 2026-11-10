@@ -435,6 +435,7 @@ newtab-section-mangage-topics-blocked-topics = Stanket
 newtab-custom-wallpaper-cta = Esaeañ
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-cancel = Nullañ
 newtab-report-submit = Kas

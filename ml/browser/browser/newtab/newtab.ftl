@@ -471,6 +471,7 @@ newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്ക�
 newtab-new-user-custom-wallpaper-cta = ഉപയോഗിച്ചു നോക്കൂ
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-ads-reason-not-interested =
     .label = എനിക്കിതിൽ താല്പര്യമില്ല

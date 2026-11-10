@@ -698,6 +698,7 @@ newtab-shortcuts-highlight-title = Ваші закладки завжди під
 newtab-shortcuts-highlight-subtitle = Додайте ярлик, щоб мати миттєвий доступ до своїх улюблених сайтів.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Чому ви повідомляєте про це?

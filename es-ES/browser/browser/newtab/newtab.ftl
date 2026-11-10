@@ -719,6 +719,7 @@ newtab-shortcuts-highlight-title = Sus favoritos en la punta de sus dedos
 newtab-shortcuts-highlight-subtitle = Añada un acceso directo para mantener sus favoritos a un clic de distancia.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = ¿Por qué está informando de esto?

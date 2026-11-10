@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = Tu preferentias a tu punctas de digitos
 newtab-shortcuts-highlight-subtitle = Adde un accesso directe pro mantener tu sitos favorite a portata de clic.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Proque reporta tu isto?

@@ -1304,6 +1304,7 @@ newtab-shortcuts-highlight-title = ਤੁਹਾਡੇ ਮਨਪਸੰਦ ਤੁ�
 newtab-shortcuts-highlight-subtitle = ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਕਲਿੱਕ ਨਾਲ ਖੋਲ੍ਹਣ ਲਈ ਸ਼ਾਰਟਕੱਟ ਵਿੱਚ ਜੋੜੋ।
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = ਤੁਸੀਂ ਇਸ ਬਾਰੇ ਰਿਪੋਰਟ ਕਿਉਂ ਕਰ ਰਹੇ ਹੋ?

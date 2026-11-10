@@ -579,6 +579,7 @@ newtab-shortcuts-highlight-title = Eftirlætin þín innan seilingar
 newtab-shortcuts-highlight-subtitle = Bættu við flýtileið til að hafa uppáhaldsvefina þína í eins-smells fjarlægð.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Af hverju ertu að tilkynna þetta?

@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = Τα αγαπημένα σας, στα χέρ
 newtab-shortcuts-highlight-subtitle = Προσθέστε μια συντόμευση για να έχετε κοντά σας τους αγαπημένους ιστοτόπους σας.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Γιατί το αναφέρετε αυτό;

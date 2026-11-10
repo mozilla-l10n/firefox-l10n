@@ -987,6 +987,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = مووردا خاستنی ایسا من دسرس تووݩ هڌ
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = سیچه یونه گوزارش ادی؟

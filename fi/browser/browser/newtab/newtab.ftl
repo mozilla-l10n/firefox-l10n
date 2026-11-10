@@ -1290,6 +1290,7 @@ newtab-shortcuts-highlight-title = Suosikkisi sormiesi ulottuvilla
 newtab-shortcuts-highlight-subtitle = Lisää pikakuvake, niin suosikkisivustosi ovat yhden napsautuksen päässä.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Miksi ilmoitat tästä?

@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = Zure gogokoak esku-eskura
 newtab-shortcuts-highlight-subtitle = Gehitu lasterbidea zure gogoko guneak klik bakarrera mantentzeko.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Zergatik ari zara honen berri ematen?

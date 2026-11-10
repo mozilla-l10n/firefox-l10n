@@ -1385,6 +1385,7 @@ newtab-shortcuts-highlight-title = Eich ffefrynnau ar flaenau eich bysedd
 newtab-shortcuts-highlight-subtitle = Ychwanegwch lwybr byr i gadw'ch hoff wefannau un clic i ffwrdd.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Pam ydych chi'n adrodd am hyn?

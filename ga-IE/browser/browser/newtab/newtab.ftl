@@ -429,6 +429,7 @@ newtab-section-mangage-topics-title = Topaicí
 newtab-custom-wallpaper-cta = Bain triail as
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-ads-reason-not-interested =
     .label = Níl suim agam

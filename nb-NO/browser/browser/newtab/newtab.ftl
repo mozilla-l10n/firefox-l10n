@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = Dine favoritter lett tilgjengelig
 newtab-shortcuts-highlight-subtitle = Legg til en snarvei for å ha favorittnettstedene dine ett klikk unna.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Hvorfor rapporterer du dette?

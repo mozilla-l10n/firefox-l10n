@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = علاقه‌مندی‌های شما در د
 newtab-shortcuts-highlight-subtitle = با افزودن میانبر، سایت‌های محبوب خود را تنها با یک کلیک باز کنید.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = چرا این مورد را گزارش می‌کنید؟

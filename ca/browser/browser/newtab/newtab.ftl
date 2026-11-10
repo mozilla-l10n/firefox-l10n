@@ -1304,6 +1304,7 @@ newtab-shortcuts-highlight-title = Els vostres favorits a l'abast de la mà
 newtab-shortcuts-highlight-subtitle = Afegiu una drecera per a tenir els vostres llocs favorits a un sol clic.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Per què ho denuncieu?

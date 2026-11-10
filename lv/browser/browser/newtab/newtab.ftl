@@ -1355,6 +1355,7 @@ newtab-shortcuts-highlight-title = Jūsu iecienītākie vienu rokas stiepiena at
 newtab-shortcuts-highlight-subtitle = Pievienojiet saīsni, lai jūsu iecienītākās vietnes būtu viena klikšķa attālumā.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Kāpēc jūs par to ziņojat?

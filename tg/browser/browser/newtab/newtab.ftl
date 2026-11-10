@@ -826,6 +826,7 @@ newtab-shortcuts-highlight-title = Сомонаҳои дӯстдоштаи шу�
 newtab-shortcuts-highlight-subtitle = Миёнбуреро илова кунед, то сомонаҳои дӯстдоштаи шумо бо зеркунии як тугма дастрас шаванд.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Чаро шумо дар бораи ин гузориш медиҳед?

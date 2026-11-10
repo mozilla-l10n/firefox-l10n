@@ -175,7 +175,7 @@ permissions-site-xr-disable-desc = 将阻止上述之外的网站请求使用您
 
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
-    .title = 设置 - 禁止打开应用链接的网站
+    .title = 设置 - 屏蔽应用链接的网站
 permissions-site-app-links-desc = 下列网站已被禁止请求打开应用链接，例如邮件链接（mailto:）。移除网站后，其可再次请求。
 
 ## Site Permissions - Camera

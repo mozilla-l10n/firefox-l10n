@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = Vos sites préférés à portée de main
 newtab-shortcuts-highlight-subtitle = Ajoutez un raccourci pour accéder à vos sites préférés en un clic.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Pourquoi signalez-vous ce contenu ?

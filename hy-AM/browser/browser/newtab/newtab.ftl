@@ -1192,6 +1192,7 @@ newtab-download-mobile-highlight-body-variant-c = Գիտեի՞ք, որ կարո�
 newtab-shortcuts-highlight-title = Ձեր սիրելիները՝ ձեր մատների ծայրերին
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Ինչո՞ւ եք սա հաղորդում։

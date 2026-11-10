@@ -768,6 +768,7 @@ newtab-shortcuts-highlight-title = รายการโปรดของคุ
 newtab-shortcuts-highlight-subtitle = เพิ่มทางลัดเพื่อให้เข้าถึงไซต์โปรดของคุณได้ในคลิกเดียว
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = ทำไมคุณถึงรายงานสิ่งนี้?

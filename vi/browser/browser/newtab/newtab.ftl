@@ -1256,6 +1256,7 @@ newtab-shortcuts-highlight-title = Những mục yêu thích của bạn trong t
 newtab-shortcuts-highlight-subtitle = Thêm lối tắt để truy cập các trang web yêu thích chỉ bằng một cú nhấp chuột.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Tại sao bạn báo cáo điều này?

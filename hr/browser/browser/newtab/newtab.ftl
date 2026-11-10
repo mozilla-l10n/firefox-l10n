@@ -1262,6 +1262,7 @@ newtab-shortcuts-highlight-title = Vaši favoriti na dohvat ruke
 newtab-shortcuts-highlight-subtitle = Dodajte prečac kako biste svoje omiljene stranice imali nadohvat ruke.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Zašto ovo prijavljuješ?

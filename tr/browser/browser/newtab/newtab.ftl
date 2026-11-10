@@ -1335,6 +1335,7 @@ newtab-shortcuts-highlight-title = Favori kısayollarınız parmaklarınızın u
 newtab-shortcuts-highlight-subtitle = Sevdiğiniz siteleri bir tık kadar yakınınızda tutmak için kısayol ekleyebilirsiniz.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Bunu neden rapor ediyorsunuz?

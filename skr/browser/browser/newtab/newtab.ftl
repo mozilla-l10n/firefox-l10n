@@ -1304,6 +1304,7 @@ newtab-shortcuts-highlight-title = تساݙیاں پسندیدہ چیزاں ہݨ
 newtab-shortcuts-highlight-subtitle = اپݨی پسندیدہ سائٹس کوں ہک کلک تے رکھݨ کیتے کوئی شارٹ کٹ شامل کرو۔
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = تساں ایں دی رپورٹ کیوں کریندے ہو؟

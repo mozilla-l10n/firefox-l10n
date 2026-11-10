@@ -293,6 +293,7 @@ newtab-topic-selection-button-update-interests = మీ ఆసక్తులన
 newtab-topic-selection-button-pick-interests = మీ ఆసక్తులను ఎంచుకోండి
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-requires-payment-subscription-learn-more = ఇంకా తెలుసుకోండి
 newtab-report-cancel = రద్దుచేయి

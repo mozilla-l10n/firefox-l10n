@@ -1345,6 +1345,7 @@ newtab-shortcuts-highlight-title = ხელთ იქონიეთ რჩე�
 newtab-shortcuts-highlight-subtitle = დაამატეთ მალსახმობი, რომ რჩეულ საიტებთან წვდომა ერთი წკაპით შეგეძლოთ.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = რა არის მოხსენების მიზეზი?

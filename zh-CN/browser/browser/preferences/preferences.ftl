@@ -1844,6 +1844,10 @@ permissions-addon-exceptions2 =
 permissions-allow-app-links =
     .label = 允许网站询问是否打开应用链接。
     .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = 管理已屏蔽的网站
+    .accesskey = M
 permissions-location2 =
     .label = 位置
 permissions-localhost2 =
@@ -1917,6 +1921,9 @@ notifications-state-never = 永不
 # notification decision.
 notifications-empty-message =
     .label = 未添加网站通知。
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = 没有符合搜索条件的网站通知。
 
 ## Privacy Section - Data Collection
 

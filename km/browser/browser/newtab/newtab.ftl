@@ -187,6 +187,7 @@ newtab-topic-selection-cancel-button = បោះបង់
 newtab-new-user-custom-wallpaper-cta = សាកល្បងឥឡូវនេះ
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-ads-reason-not-interested =
     .label = ខ្ញុំមិនចាប់អារម្មណ៍ទេ

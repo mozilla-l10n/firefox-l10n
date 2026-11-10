@@ -1265,6 +1265,7 @@ newtab-shortcuts-highlight-title = Eguerohoryvéva ne kuã ykerete
 newtab-shortcuts-highlight-subtitle = Embojuaju jeike pya’eha ereko hag̃ua erohoryvéva nde ykére.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = ¿Mba’ére emombe’u kóva rehegua?

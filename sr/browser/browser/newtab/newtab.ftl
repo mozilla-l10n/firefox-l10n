@@ -1204,6 +1204,7 @@ newtab-shortcuts-highlight-title = Ваше омиљене ставке на д�
 newtab-shortcuts-highlight-subtitle = Додајте пречицу да би ваше омиљене веб странице биле на само један клик.
 
 ## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
 
 newtab-report-content-why-reporting-this =
     .label = Зашто ово пријављујете?
