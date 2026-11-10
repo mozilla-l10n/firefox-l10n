@@ -26,6 +26,12 @@ about-logging-no-log-file = Cap
 
 ## Logging presets
 
+about-logging-preset-webgpu-description = Mòduls de registre per diagnosticar problemes de WebGPU
+about-logging-preset-gfx-label = Gràfics
+about-logging-preset-gfx-description = Mòduls de registre per diagnosticar problemes de gràfics
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Mòduls de registre per diagnosticar problemes específics del Microsoft Windows
 about-logging-preset-custom-label = Personalitzat
 about-logging-preset-custom-description = Mòduls de registre seleccionats manualment
 # Error handling

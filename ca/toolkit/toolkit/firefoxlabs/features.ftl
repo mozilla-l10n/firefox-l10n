@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Multimèdia: JPEG XL
+experimental-features-media-jxl-description = Amb aquesta funció habilitada, el { -brand-short-name } admet el format JPEG XL (JXL). Aquest és un format de fitxer d'imatge millorat que admet la transició sense pèrdues dels fitxers JPEG tradicionals. Vegeu <a data-l10n-name="bugzilla">l'informe d'error 1539075</a> per a obtenir més detalls.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JIT de JavaScript: Warp

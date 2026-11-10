@@ -39,6 +39,44 @@ download-ui-cancel-downloads-ok =
         [1] Cancel·la 1 baixada
        *[other] Cancel·la { $downloadsCount } baixades
     }
+download-ui-confirm-cancel-button = Cancel·la
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Voleu aturar una baixada i sortir del { -brand-short-name }?
+               *[other] Voleu aturar { $downloadsCount } baixades i sortir del { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Voleu aturar una baixada i sortir del { -brand-short-name }?
+               *[other] Voleu aturar { $downloadsCount } baixades i sortir del { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = El { -brand-short-name } intentarà reprendre les baixades quan es torni a obrir, però és possible que se'n perdi el progrés.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Surt del { -brand-short-name }
+       *[other] Surt del { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Voleu aturar una baixada i desconnectar-vos?
+       *[other] Voleu aturar { $downloadsCount } baixades i desconnectar-vos?
+    }
+download-ui-confirm-offline-message = El { -brand-short-name } intentarà reprendre les baixades quan torneu a estar en línia, però és possible que se'n perdi el progrés.
+download-ui-confirm-offline-button = Desconnecta
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Voleu aturar una baixada i tancar aquesta finestra privada?
+       *[other] Voleu aturar { $downloadsCount } baixades i tancar aquesta finestra privada?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Aquesta baixada no es podrà reprendre.
+       *[other] Aquestes baixades no es podran reprendre.
+    }
+download-ui-confirm-private-browsing-button = Tanca la finestra
 
 ##
 
