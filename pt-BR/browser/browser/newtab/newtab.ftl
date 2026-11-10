@@ -1363,6 +1363,8 @@ newtab-report-ads-reason-scam =
     .label = Golpe ou fraude
 newtab-report-ads-reason-misleading =
     .label = Alegações falsas ou enganosas
+newtab-report-ads-reason-offensive =
+    .label = Ofensivo ou inadequado
 newtab-report-content-wrong-category =
     .label = Categoria errada
 newtab-report-content-outdated =
@@ -1469,6 +1471,9 @@ newtab-widget-menu-move-left = Esquerda
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Direita
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Início
 # Submenu item under "Move"; moves the widget from Home back to the Widgets
 # space, the New Tab space that holds every widget not pinned to Home.
 newtab-widget-menu-move-to-widgets = Widgets
@@ -1893,6 +1898,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Procurar uma cidade
     .placeholder = Procurar uma cidade
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Apelido (opcional)
+    .description =
+        { $count ->
+            [one] { $count } caractere restante
+           *[other] { $count } caracteres restantes
+        }
+    .label = Apelido (opcional)
+    .placeholder = Adicionar um apelido
 newtab-clock-widget-search-location-input =
     .aria-label = Procurar uma cidade
     .label = Local

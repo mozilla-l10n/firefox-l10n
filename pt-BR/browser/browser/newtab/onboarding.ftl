@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Reabra seus grupos de abas quand
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reabra quando quiser seus grupos de abas a partir do menu de listar todas as abas.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Grupos de abas são salvos automaticamente. Encontre aqui.
 
 ## Multi Profiles feature onboarding messages
 
