@@ -964,6 +964,14 @@ urlbar-view-context-menu-open-in-window2 = 新規ウインドウで開く
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = 新規プライベートウインドウで開く
     .accesskey = P
+urlbar-view-context-menu-search-in-tab = 新規タブで検索
+    .accesskey = w
+urlbar-view-context-menu-search-in-container-tab = 新規コンテナータブで検索
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = 新規ウインドウで検索
+    .accesskey = N
+urlbar-view-context-menu-search-in-private-window = 新規プライベートウインドウで検索
+    .accesskey = P
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
@@ -1239,7 +1247,7 @@ eme-notifications-drm-content-disabled-message = このページの音声や動�
 eme-notifications-drm-content-disabled-button =
     .label = DRM を有効にする
     .accesskey = E
-eme-notifications-drm-content-cdm-installing-message = このページの音声や映像の再生に必要なコンポーネントをインストールしています。後で試してください。
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } がこのページの音声や映像の再生に必要なコンポーネントをインストールしています。後でもう一度試してください。
 decoder-doctor-no-codecs-linux-message = 動画を再生するには、対応する動画コーデックをインストールしてください。
 decoder-doctor-no-hw-acceleration-message = Microsoft Media Feature Pack をインストールすると、動画の再生品質が向上します。
 decoder-doctor-no-pulse-audio-message = 音声を再生するには、PulseAudio をインストールしてください。
