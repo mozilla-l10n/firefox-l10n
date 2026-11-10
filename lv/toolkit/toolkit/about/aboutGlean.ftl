@@ -79,6 +79,43 @@ about-glean-label-for-controls-submit =
     Nospied iepriekšējo pogu, lai atzīmētu visus { -glean-brand-name } ping ar savu birku un iesniegtu atlasīto ping!
     (Visi ping, kas iesniegti no šī brīža līdz lietotnes palaišanai no jauna, tiks atzīmēti ar birku
     <code>{ $debug-tag } </code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Apmeklējiet { glean-debug-ping-viewer-brand-name } lapu, lai skatītu ping pieprasījumus ar jūsu tagu</a>.
+    No pogas nospiešanas līdz ping pieprasījuma saņemšanai nevajadzētu paiet vairāk par dažām sekundēm.
+    Dažreiz tas var aizņemt tikai dažas minūtes.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Lai veiktu vairāk <i>ad hoc</i> testēšanas,
+    varat arī noteikt konkrētas instrumentācijas pašreizējo vērtību,
+    atverot izstrādātāju rīku konsoli šeit, vietnē <code>about:glean</code>
+    un izmantojot <code>testGetValue()</code> API, piemēram,
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    metrikai ar nosaukumu <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Lūdzu, ņemiet vērā, ka jūs izmantojat Glean JS API, izmantojot devtools konsoli.
+    Tas nozīmē, ka metrikas kategorija un metrikas nosaukums ir formatēti <code>camelCase</code> formātā, atšķirībā no Rust un C++ API.
+about-glean-profiler-explanation =
+    Lai skatītu pilnu visu reģistrēto rādītāju skatu, varat izmantot { -profiler-brand-name }.
+    Vispirms jums ir <a data-l10n-name="firefox-profiler-link">jāuztver veiktspējas profils</a>.
+    Kad esat uztvēris profilu, atlasiet <q>Markeru diagramma</q> un apskatiet marķierus sadaļā <q>Telemetry</q>.
+about-glean-profiler-explanation-profiler = Veiktspējas profilā var redzēt visus apkopotos rādītājus, to apkopošanas laiku un tieši kādas vērtības tika apkopotas. Novietojot kursoru virs atsevišķiem marķieriem, varat pārbaudīt, vai tika apkopota pareizā vērtība un vai apkopošana notika pareizajā laikā.
+controls-button-label-verbose = Lietot iestatījumus un iesniegt ping
+about-glean-feedback-settings-only =
+    .message = Iestatījumi lietoti!
+about-glean-feedback-settings-and-ping =
+    .message = Iestatījumi ir lietoti, un pings nosūtīts!
+about-glean-about-data-header = Par datiem
+about-glean-about-data-description = Atkarībā no tā, ko meklējat, datu skatīt varat izmantot dažādus rīkus.
+about-glean-about-data-description-list-intro = Lūdzu, skatiet tālāk sniegto sarakstu, lai iepazītos ar konkrētiem katra rīka lietošanas gadījumiem:
+about-glean-about-data-list-item-dictionary =
+    Lai pārlūkotu { -glean-brand-name } apkopoto datu sarakstu katrā lietojumprogrammā, lūdzu, skatiet 
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } vārdnīcu</a>.
+about-glean-about-data-list-item-about-telemetry = Lai pārlūkotu datus, ko apkopo mantotā telemetrija, lūdzu, skatiet sadaļu <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Lai pārlūkotu atkļūdošanas tagus, skatītu pilnus pingus, tiešraides notikuma straumi vai metrikas vizualizācijas, lūdzu, skatiet
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler = Lai ierakstītu veiktspējas profilu un skatītu visus reģistrētos rādītājus, lūdzu, izmantojiet `<a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>`.
 # Header for a section that shows client information
 about-glean-submitted-ping-client-info-title = Informācija par klientu
 # Header for a section that shows Ping information

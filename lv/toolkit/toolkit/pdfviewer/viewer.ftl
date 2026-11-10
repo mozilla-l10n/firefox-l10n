@@ -340,8 +340,8 @@ pdfjs-editor-ink-editor =
 # Variables:
 #   $description (String) - a string describing/labeling the signature.
 pdfjs-editor-signature-editor2 =
-    .aria-description = Paraksta redaktors: { $description }
-    .aria-label = Paraksta redaktors
+    .aria-description = Paraksta labotājs: { $description }
+    .aria-label = Paraksta labotājs
 # Used when a signature editor is selected/hovered.
 # Variables:
 #   $description (String) - a string describing/labeling the signature.

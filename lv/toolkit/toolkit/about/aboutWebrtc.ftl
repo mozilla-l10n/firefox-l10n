@@ -248,6 +248,15 @@ about-webrtc-lost-label =
         [zero] Pazaudētas { $packets } paketes
        *[other] Pazaudētas { $packets } paketes
     }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Nosūtīta { $packets } pakete
+        [zero] Nosūtītas { $packets } paketes
+       *[other] Nosūtītas { $packets } paketes
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -257,3 +266,33 @@ about-webrtc-jitter-label = Jitter { $jitter }
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
 about-webrtc-trickle-caption-msg = Kavējošie kandidāti (kas ierodas pēc atbildes) ir iekrāsoti zila
+
+## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
+## See http://wikipedia.org/wiki/Session_Description_Protocol
+
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Iestatīt lokālo SDP pie laika zīmoga { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Iestatīt attālo SDP uz laika zīmogs { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Laika zīmogs { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
+
+## These are displayed on the button that shows or hides the SDP information disclosure
+
+about-webrtc-show-msg-sdp = Rādīt SDP
+about-webrtc-hide-msg-sdp = Slēpt SDP
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = Rādīt multivides kontekstu
+about-webrtc-media-context-hide-msg = Slēpt multivides kontekstu
+about-webrtc-media-context-heading = Multivides konteksts
