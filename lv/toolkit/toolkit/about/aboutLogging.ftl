@@ -62,11 +62,20 @@ about-logging-preset-vpn-description = Žurnāla moduļi IP aizsardzības (VPN) 
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Žurnāla moduļi WebGPU problēmu diagnosticēšanai
 about-logging-preset-gfx-label = Grafika
+about-logging-preset-gfx-description = Žurnāla moduļi grafikas problēmu diagnosticēšanai
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Žurnāla moduļi, lai diagnosticētu Microsoft Windows specifiskas problēmas
+about-logging-preset-custom-label = Pielāgots
+about-logging-preset-custom-description = Manuāli atlasīti žurnāla moduļi
 # Error handling
 about-logging-error = Kļūda:
 
 ##
 
+about-logging-invalid-output = Nederīga atslēgas “{ $v }" vērtība “{ $k }”
+about-logging-unknown-logging-preset = Nezināms žurnalēšanas iestatījums “{ $v }“
+about-logging-unknown-profiler-preset = Nezināms profilētāja iestatījums “{ $v }“
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-unknown-error = Atgadījās kļūda: { $errorText }
