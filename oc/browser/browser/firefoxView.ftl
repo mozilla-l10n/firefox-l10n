@@ -15,6 +15,7 @@ firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ara meteis
+firefoxview-syncedtabs-signin-primarybutton-2 = Connexion
 firefoxview-syncedtabs-adddevice-primarybutton = Ensajar { -brand-product-name } per mobil
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar los onglets dobèrts
 firefoxview-syncedtabs-synctabs-header = Actualizatz vòstres paramètres de sincronizacion

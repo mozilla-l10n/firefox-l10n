@@ -246,6 +246,7 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .aria-label = Tampar
     .title = Tampar
+fxa-menu-message-sign-in-button = Connexion
 fxa-menu-message-backup-sync-primary-text = Gardatz e sincronizatz vòstras donadas
 
 ## Multi-CTA Fox Doodle Spotlight

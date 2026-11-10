@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Error messages in the chat content
+
+smartwindow-signin-btn = Connexion
+
 ## Action log
 
 action-log-searching-tabs = Recèrca demest los onglets

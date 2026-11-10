@@ -25,3 +25,10 @@ fxa-menu-send-tab-to-device-description = Enviatz un onglet sul pic a qual perif
 fxa-menu-sign-out =
     .label = Se desconnectar…
 fxa-menu-sync-description = Accedissètz a vòstre Web de pertot
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Se connectar per sincronizar
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Se connectar per sincronizar

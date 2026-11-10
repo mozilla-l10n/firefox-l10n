@@ -566,6 +566,9 @@ sync-signedout-description2 = Sincronizar vòstres marcapaginas, istoric, onglet
 sync-signedout-account-signin3 =
     .label = Connexion per sincronizar…
     .accesskey = i
+sync-signedout-account-short =
+    .label = Connexion
+    .accesskey = C
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download

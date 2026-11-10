@@ -71,6 +71,13 @@ home-prefs-recent-activity-select =
 home-prefs-weather-header-srd =
     .label = Metèo
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-signin-1-cta = Connexion
+
 ## Strings for the Travel widget
 
 # Context menu item linking to more information about the widget.

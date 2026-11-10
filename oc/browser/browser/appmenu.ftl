@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Mesa a jorn impossibla — sistèma incompatible
 appmenuitem-banner-update-restart =
     .label = Mesa a jorn disponibla — reaviar ara
+appmenu-nova-fxa-sign-in = Connexion
 appmenuitem-new-tab =
     .label = Onglet novèl
 appmenuitem-new-window =
@@ -100,6 +101,9 @@ appmenu-remote-tabs-unverified = Cal verificar vòstre compte.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ara
 appmenuitem-fxa-sign-in = Se connectar a { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestion del compte
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Se connectar per sincronizar
 appmenu-account-header = Compte
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -108,6 +112,7 @@ appmenu-fxa-last-sync = Darrièra sincro. { $time }
     .label = Darrièra sincro. { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar e enregistrar las donadas
 appmenu-fxa-signed-in-label = Connexion
+appmenu-fxa-sign-in-promo-link = Connexion
 appmenu-fxa-setup-sync =
     .label = Activar la sincronizacion…
 appmenu-fxa-setup-sync-new = Activar
@@ -202,6 +207,13 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Cercar dins l’istoric
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Connexion
 
 ## Help panel
 
