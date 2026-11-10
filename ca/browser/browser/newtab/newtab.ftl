@@ -546,6 +546,9 @@ newtab-travel-widget-open-menu-button =
     .title = Obre el menú de viatges
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Més informació
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Funciona amb Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -777,6 +780,7 @@ newtab-discovery-empty-section-topstories-header = Ja esteu al dia.
 newtab-discovery-empty-section-topstories-content = Torneu més tard per veure si hi ha més articles.
 newtab-discovery-empty-section-topstories-try-again-button = Torna-ho a provar
 newtab-discovery-empty-section-topstories-loading = S'està carregant…
+newtab-discovery-empty-section-topstories-unavailable-body = Comproveu la connexió o torneu-ho a provar més tard.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ups! Sembla que aquesta secció no s'ha carregat del tot.
 
@@ -1074,6 +1078,10 @@ newtab-wallpaper-firefox-peak-dark = La cara d'una guineu a la vora esquerra, so
 newtab-wallpaper-firefox-peak-light = La cara d'una guineu a la vora esquerra, sobre un fons clar
 newtab-wallpaper-firefox-sky-dark = Turons de color porpra fosc sota un cel nocturn
 newtab-wallpaper-firefox-sky-light = Turons clars sota un cel suau
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = L'escut del Wrexham AFC sobre fons vermell
 
 ## Firefox
 
@@ -1514,6 +1522,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Obre el menú de paraules encreuades
     .title = Obre el menú de paraules encreuades
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Funciona amb Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

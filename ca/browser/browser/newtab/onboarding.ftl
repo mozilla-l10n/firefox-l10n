@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Reobriu els grups de pestanyes d
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Torneu a obrir els vostres grups de pestanyes des del menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-dismiss = D'acord
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Els grups de pestanyes es desen automàticament. Els trobareu aquí.
 
 ## Multi Profiles feature onboarding messages
 
@@ -637,3 +639,7 @@ welcome-back-onboarding-card-label-tabs = Endreceu-ho amb pestanyes verticals i 
 welcome-back-onboarding-card-label-vpn = Manteniu-vos ocult amb la VPN integrada
 welcome-back-onboarding-card-label-pdf = Ressalteu, signeu i treballeu amb PDF
 welcome-back-onboarding-card-tilebutton-label = Prova-ho
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configureu el { -brand-short-name } en segons
