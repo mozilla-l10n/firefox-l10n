@@ -1154,6 +1154,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = 동기화중…
     .title = 지금 동기화
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = 동기화 선택이 이제 이 기기에만 적용됩니다.
 
 ## The list of things currently syncing.
 

@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = 페이지 북마크…
 sidebar-history-context-menu-delete-pages =
     .label = 기록에서 페이지 삭제
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = 삭제
 
 ## Labels for sidebar bookmarks context menu items
 

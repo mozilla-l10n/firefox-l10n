@@ -1319,7 +1319,11 @@ newtab-report-ads-reason-inappropriate =
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = 너무 많이 본 경우
 newtab-report-ads-reason-scam =
-    .label = 스캠 또는 사기
+    .label = 사기 또는 기만
+newtab-report-ads-reason-misleading =
+    .label = 오도하거나 허위인 주장
+newtab-report-ads-reason-offensive =
+    .label = 불쾌하거나 부적절함
 newtab-report-content-wrong-category =
     .label = 잘못된 분류
 newtab-report-content-outdated =
@@ -1843,6 +1847,20 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = 도시 검색
     .placeholder = 도시 검색
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = 별명 (선택 사항)
+    .description =
+        { $count ->
+           *[other] { $count }자 남음
+        }
+    .label = 별명 (선택 사항)
+    .placeholder = 별명 추가
 newtab-clock-widget-search-location-input =
     .aria-label = 도시 검색
     .label = 위치
