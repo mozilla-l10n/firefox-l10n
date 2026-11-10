@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = Nytt alias skapat!
 confirmation-hint-firefox-relay-mask-reused = Befintligt alias återanvänds!
 confirmation-hint-screenshot-copied = Skärmdump kopierad!
 confirmation-hint-tab-group-saved = Flikgrupp sparad
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Sök efter flikgrupper i den här menyn
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

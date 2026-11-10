@@ -1355,6 +1355,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Det är olämpligt
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Jag har sett den alldeles för många gånger
+newtab-report-ads-reason-scam =
+    .label = Bluff eller bedrägligt
+newtab-report-ads-reason-misleading =
+    .label = Vilseledande eller falska påståenden
+newtab-report-ads-reason-offensive =
+    .label = Kränkande eller olämplig
 newtab-report-content-wrong-category =
     .label = Fel kategori
 newtab-report-content-outdated =
@@ -1889,6 +1895,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Sök efter en stad
     .placeholder = Sök efter en stad
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Smeknamn (valfritt)
+    .description =
+        { $count ->
+            [one] { $count } tecken kvar
+           *[other] { $count } tecken kvar
+        }
+    .label = Smeknamn (valfritt)
+    .placeholder = Lägg till ett smeknamn
 newtab-clock-widget-search-location-input =
     .aria-label = Sök efter en stad
     .label = Plats

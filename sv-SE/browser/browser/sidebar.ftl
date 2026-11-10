@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Bokmärk sida…
 sidebar-history-context-menu-delete-pages =
     .label = Ta bort sidor från historiken
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Ta bort
 
 ## Labels for sidebar bookmarks context menu items
 
