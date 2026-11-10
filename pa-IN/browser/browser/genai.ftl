@@ -102,10 +102,13 @@ genai-shortcut-button =
     .aria-label = { $provider } ਨੂੰ ਪੁੱਛੋ
 genai-menu-new-badge = ਨਵਾਂ
 genai-menu-summarize-page = ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ
+genai-menu-summarize-with-ai = AI ਨਾਲ ਸਾਰ ਬਣਾਓ
 genai-input-ask-smart-window =
     .placeholder = …ਪੁੱਛੋ
 genai-input-ask-generic =
     .placeholder = …AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
+genai-input-ask-ai =
+    .placeholder = …AI ਨੂੰ ਪੁੱਛੋ
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = …{ $provider } ਨੂੰ ਪੁੱਛੋ

@@ -457,5 +457,7 @@ vpn-error-page-keep-browsing = ਇਸ ਸ਼ੈਸ਼ਨ ਵਿੱਚ ਬਰਾਊਜ਼�
 vpn-error-page-new-session = ਨਵਾਂ ਸੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ
 vpn-paused-alert-close-tabs-button = ਸਾਰੀਆਂ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
 vpn-paused-alert-continue-wo-vpn-button = VPN ਤੋਂ ਬਿਨਾਂ ਜਾਰੀ ਰੱਖੋ
+vpn-error-alert-title-1 = ਇਸ ਵੇਲੇ VPN ਅਤੇ ਨਿਯਮ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੇ ਹਨ।
+vpn-error-alert-body-1 = VPN ਨੂੰ ਚਲਾ ਕੇ ਬੰਦ ਕਰਨ ਨਾਲ ਮਸਲਾ ਠੀਕ ਹੋ ਸਕਦਾ ਹੈ।
 vpn-error-alert-title = ਇਸ ਵੇਲੇ VPN ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ।
 vpn-error-alert-body = ਬਾਅਦ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।

@@ -192,6 +192,9 @@ newtab-privacy-empty-state = ਤੁਹਾਡੀਆਂ ਸਰਗਰਮੀ ਨੂ�
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = ਮੌਜੂਦਾ ਅੰਕੜਿਆਂ ਨੂੰ ਇੱਥਏ ਵੇਖੋ।
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = ਘੱਟ ਟਰੈਕਰ, ਵੱਧ ਤੇਜ਼ ਬਰਾਊਜ਼ਿੰਗ।
+newtab-privacy-empty-state-small-message = ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ ਬਰਾਊਜ਼ ਕਰੋ।
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -546,6 +549,9 @@ newtab-travel-widget-open-menu-button =
     .title = ਯਾਤਰਾ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Kayak ਵਲੋਂ ਤਿਆਰ
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -560,6 +566,31 @@ newtab-solitaire-widget-open-menu-button =
     .title = ਸੌਲੇਟਾਇਰ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = ਹੋਰ ਜਾਣੋ
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Wrexham AFC ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = ਵੇਖੋ
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = ਮੇਲ
+newtab-widget-wrexhamafc-view-table = ਟੇਬਲ
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

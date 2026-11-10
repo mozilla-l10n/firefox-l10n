@@ -67,6 +67,7 @@ download-ui-confirm-offline-title =
        *[other] Interromper { $downloadsCount } downloads e entrar em modo offline?
     }
 download-ui-confirm-offline-message = Quando voltar ter a conexão com a internet, o { -brand-short-name } tentará retomar o que estava baixando, mas o progresso pode ser perdido.
+download-ui-confirm-offline-button = Entrar no modo sem conexão
 download-ui-confirm-private-browsing-title =
     { $downloadsCount ->
         [1] Interromper 1 download e fechar esta janela privativa?
