@@ -643,3 +643,9 @@ welcome-back-onboarding-card-tilebutton-label = Prova-ho
 ## New Tab Onboarding cards
 
 hnt-card-import-header = Configureu el { -brand-short-name } en segons
+hnt-card-import-body = Importeu les vostres adreces d'interès, contrasenyes i més des d'un altre navegador.
+hnt-card-import-primary-button = Importeu les vostres dades
+hnt-card-default-body = El { -brand-product-name } és l'únic navegador important dissenyat per protegir-vos, no pas per espiar-vos.
+hnt-card-default-primary-button = Obre els enllaços amb el { -brand-short-name }
+hnt-card-pin-header = Tingueu el { -brand-short-name } a un clic de distància
+hnt-card-mobile-header = Obtingueu protecció integrada al telèfon
