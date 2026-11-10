@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = 已安装的语言
 browser-languages-available-label = 可用语言 (*正體=繁体)
 browser-languages-error = { -brand-short-name } 目前无法更新您的语言。请检查您是否已连接到互联网，然后重试。
+browser-languages-update-error =
+    .message = { -brand-short-name } 目前无法更新您的语言。请检查您是否已连接到互联网，然后重试。

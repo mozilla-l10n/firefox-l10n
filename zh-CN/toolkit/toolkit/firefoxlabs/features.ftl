@@ -95,3 +95,6 @@ experimental-features-tab-notes-description = 标签页备注是一项实验功�
 experimental-features-tab-context-menu =
     .label = 简化标签页菜单
 experimental-features-tab-context-menu-description = 右键点击标签页时，将显示精简的上下文菜单，更方便寻找常用操作。 <a data-l10n-name="connect">分享反馈</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = 资源监视器
