@@ -3,3 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 popup-notification-learn-more = Uzzināt vairāk
+popup-notification-more-actions-button =
+    .aria-label = Vairāk darbību
+popup-notification-default-button2 =
+    .label = Labi
+    .accesskey = O

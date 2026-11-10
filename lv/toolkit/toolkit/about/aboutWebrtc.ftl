@@ -7,7 +7,7 @@
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
 # The text "WebRTC" is a proper noun and should not be translated.
-about-webrtc-document-title = WebRTC iekšas
+about-webrtc-document-title = WebRTC iekšējā informācija
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = saglabāt about:webrtc kā

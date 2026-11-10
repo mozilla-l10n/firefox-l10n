@@ -85,3 +85,44 @@ certificate-viewer-ocsp-stapling = OCSP atbildes pievienošana
 certificate-viewer-subject-key-id = Subjekta atslēgas ID
 certificate-viewer-authority-key-id = Iestādes atslēgas ID
 certificate-viewer-authority-info-aia = Informācija par iestādi (AIA)
+certificate-viewer-certificate-policies = Sertifikāta politikas
+certificate-viewer-embedded-scts = Iegultie SCTs
+certificate-viewer-crl-endpoints = CRL Endpoints
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Lejupielādēt
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Jā
+       *[false] Nē
+    }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (sertifikāts)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (ķēde)
+    .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Šis paplašinājums ir atzīmēts kā kritisks, kas nozīmē, ka klientiem ir jānoraida sertifikāts, ja viņi to nesaprot.
+certificate-viewer-export = Izgūt
+    .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (nezināms)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = Sertifikāts
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Jūsu sertifikāti
+certificate-viewer-tab-people = Cilvēki
+certificate-viewer-tab-servers = Serveri
+certificate-viewer-tab-ca = Iestādes
