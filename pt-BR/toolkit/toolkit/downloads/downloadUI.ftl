@@ -55,6 +55,11 @@ download-ui-confirm-quit-title =
                *[other] Interromper { $downloadsCount } downloads e fechar o { -brand-short-name }?
             }
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Interromper 1 download e entrar em modo offline?
+       *[other] Interromper { $downloadsCount } downloads e entrar em modo offline?
+    }
 download-ui-confirm-private-browsing-button = Fechar janela
 
 ##
