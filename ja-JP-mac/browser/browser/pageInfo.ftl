@@ -114,12 +114,12 @@ help-button =
 # Variables:
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = ウェブサイト { $website } は表示中のページの暗号化をサポートしていません。
-security-technical-no-encryption-transit = 暗号化せずにインターネットに送信された情報は他人に傍受される可能性があります。
+security-technical-no-encryption-transit = 暗号化せずにインターネットに送信された情報は他者に傍受される可能性があります。
 security-technical-no-encryption-page = 表示中のページは転送される前から暗号化されていません。
-security-technical-encrypted-page = 表示中のページはインターネット上に送信される前に暗号化されています。
-security-technical-encrypted-description = 暗号化によってコンピューター間の通信の傍受は困難になり、このページをネットワークで転送中に誰かにその内容をのぞき見られる可能性は低くなります。
+security-technical-encrypted-page = 表示中のページはインターネットに送信される前に暗号化されています。
+security-technical-encrypted-description = 暗号化によってコンピューター間の通信の傍受が困難になり、このページのネットワーク転送中に誰かにその内容をのぞき見られる可能性が低くなります。
 security-technical-mixed-content-description = 表示しているページの一部はインターネットに転送される前に暗号化されていません。
-security-technical-weak-cipher = このウェブサイトへの接続に使用されている暗号は強度が弱くプライベートではありません。他者があなたの情報を見たりウェブサイトの動作を変更できます。
+security-technical-weak-cipher = このウェブサイトへの接続に使用されている暗号は強度が弱く、プライバシーが保護されません。他者にあなたの情報をのぞき見られたりウェブサイトの動作を変更されたりする可能性があります。
 security-technical-ct-compliant = このウェブサイトは証明書の透明性ポリシーに準拠しています。
 
 ## These strings are used to tell the user if the website is storing cookies
@@ -138,7 +138,7 @@ security-site-data-no = いいえ
 security-technical-no-encryption =
     .value = 接続が暗号化されていません
 security-technical-mixed-content =
-    .value = 一部の接続だけが暗号化されています
+    .value = 接続が部分的に暗号化されています
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")
