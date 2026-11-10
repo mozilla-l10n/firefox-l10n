@@ -1906,11 +1906,11 @@ newtab-clock-widget-input-nickname2 =
     .aria-label = Nom personnalisé (facultatif)
     .description =
         { $count ->
-            [one] { $count } caractère restant
-           *[other] { $count } caractères restants
+            [one] { $count } caractère restant
+           *[other] { $count } caractères restants
         }
     .label = Nom personnalisé (facultatif)
-    .placeholder = Ajouter un pseudonyme
+    .placeholder = Ajouter un nom personnalisé
 newtab-clock-widget-search-location-input =
     .aria-label = Rechercher une ville
     .label = Emplacement

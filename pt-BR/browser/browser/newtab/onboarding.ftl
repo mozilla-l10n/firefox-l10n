@@ -648,3 +648,16 @@ hnt-card-import-primary-button = Importe seus dados
 hnt-card-default-body = O { -brand-product-name } é o único grande navegador criado para te proteger, não para te rastrear.
 hnt-card-default-primary-button = Abrir links com o { -brand-short-name }
 hnt-card-pin-header = Abra o { -brand-short-name } com apenas um clique
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Volte à navegação protegida diretamente do dock.
+       *[other] Volte à navegação protegida direto da barra de tarefas.
+    }
+hnt-card-mobile-header = Tenha proteção integrada no seu celular
+hnt-card-mobile-body = Use o { -brand-product-name } para dispositivos móveis para ter privacidade extra em qualquer lugar.
+hnt-card-mobile-primary-button = Instale o { -brand-product-name } para dispositivos móveis.
+hnt-card-wallpaper-header = Escolha um novo fundo de tela
+hnt-card-wallpaper-body = Deixe esta tela fazer você se sentir casa com um fundo que você ama.
+hnt-card-wallpaper-primary-button = Comece a personalizar
+hnt-card-taskbar-tabs-header = Adicione seus sites favoritos à barra de tarefas do Windows
+hnt-card-taskbar-tabs-body = Acesse seus sites mais visitados como se fossem aplicativos, com todas as proteções do { -brand-product-name }.

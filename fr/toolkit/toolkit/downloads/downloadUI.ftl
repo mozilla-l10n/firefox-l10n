@@ -53,16 +53,15 @@ download-ui-confirm-offline-title =
        *[other] Arrêter { $downloadsCount } téléchargements et passer hors connexion ?
     }
 download-ui-confirm-offline-message = { -brand-short-name } tentera de reprendre les téléchargements une fois la connexion rétablie, mais leur progression risque d’être perdue.
+download-ui-confirm-offline-button = Passer en mode hors connexion
 download-ui-confirm-private-browsing-title =
     { $downloadsCount ->
-        [1] Arrêter 1 téléchargement et fermer cette fenêtre privée ?
-        [one] Arrêter { $downloadsCount } téléchargements et fermer cette fenêtre privée ?
-       *[other] Arrêter { $downloadsCount } téléchargements et fermer cette fenêtre privée ?
+        [1] Arrêter 1 téléchargement et fermer cette fenêtre de navigation privée ?
+       *[other] Arrêter { $downloadsCount } téléchargements et fermer cette fenêtre de navigation privée ?
     }
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] Vous ne pourrez pas reprendre ce téléchargement.
-        [one] Vous ne pourrez pas reprendre ces téléchargements.
        *[other] Vous ne pourrez pas reprendre ces téléchargements.
     }
 download-ui-confirm-private-browsing-button = Fermer la fenêtre

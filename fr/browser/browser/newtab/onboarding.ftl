@@ -651,8 +651,8 @@ hnt-card-default-primary-button = Ouvrir les liens avec { -brand-short-name }
 hnt-card-pin-header = Gardez { -brand-short-name } à portée de main
 hnt-card-pin-body =
     { PLATFORM() ->
-        [macos] Revenez à la navigation protégée depuis votre dock.
-       *[other] Revenez à la navigation protégée depuis la barre des tâches.
+        [macos] Reprenez votre navigation protégée depuis le Dock.
+       *[other] Reprenez votre navigation protégée depuis la barre des tâches.
     }
 hnt-card-mobile-header = Obtenez une protection intégrée sur votre téléphone
 hnt-card-mobile-body = Téléchargez { -brand-product-name } pour mobile pour plus de confidentialité lors de vos déplacements.
