@@ -796,6 +796,19 @@ newtab-custom-widget-crossword-toggle =
     .label = Խաչբառ
 newtab-custom-widget-picture-toggle =
     .label = Օրվա նկարը
+newtab-custom-widget-search-toggle =
+    .label = Որոնում
+newtab-custom-widget-horoscopes-toggle =
+    .label = Հորոսկոպներ
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Ճամփորդություն
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitaire
 newtab-custom-widget-section-title = Վիջեթներ
 newtab-custom-widget-section-toggle =
     .label = Վիջեթներ
@@ -807,6 +820,13 @@ newtab-custom-close-menu-button =
     .aria-label = Փակել ցանկը
     .title = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Վերադառնալ «Կարգավորել» բաժին
+    .title = Վերադառնալ «Կարգավորել» բաժին
 
 ## New Tab Appearance (browser theme picker)
 
@@ -1005,6 +1025,10 @@ newtab-weather-menu-change-location = Փոխել տեղադրությունը
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Որոնել տեղադրությունը
     .placeholder = Որոնել տեղադրությունը
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Տեղադրության առաջարկներ
 newtab-weather-cancel-input =
     .aria-label = Չեղարկել
     .title = Չեղարկել
@@ -1308,6 +1332,12 @@ newtab-widget-menu-move-left = Ձախ
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Աջ
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Տուն
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Վիջեթներ
 newtab-widget-size-small = Փոքր
 newtab-widget-size-medium = Միջին
 newtab-widget-size-large = Մեծ
@@ -1344,6 +1374,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Ցուցադրել ավելի քիչ կայքեր
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Վիջեթը հասանելի չէ։ Ստուգեք ավելի ուշ։
 newtab-widget-lists-name-default = Ստուգաթերթիկ
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1402,6 +1436,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Բացել խաչբառի ցանկը
     .title = Բացել խաչբառի ցանկը
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Մասնիկների կողմից մշակված
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

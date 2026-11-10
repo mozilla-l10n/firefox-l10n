@@ -1475,6 +1475,7 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-panel-heading = Ջնջե՞լ բոլոր դիտարկման տվյալները։
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.

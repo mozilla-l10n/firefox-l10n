@@ -168,6 +168,8 @@ about-logins-confirm-delete-dialog-title = Հեռացնե՞լ գաղտնաբառ
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Դուք չեք կարող հետարկել այս գործողությունը:
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Ջնջել
 
 ## Variables
 ##   $count (number) - Number of items
@@ -178,12 +180,26 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Հեռացնել բոլորը
        *[other] Հեռացնել բոլորը
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Ջնջել
+        [one] Ջնջել բոլորը
+       *[other] Ջնջել բոլորը
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Այո, հեռացնել գաղտնաբառը
         [one] Այո, հեռացնել գաղտնաբառերը
        *[other] Այո, հեռացնել գաղտնաբառերը
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Այո, ջնջել գաղտնաբառը
+        [one] Այո, ջնջել գաղտնաբառերը
+       *[other] Այո, ջնջել գաղտնաբառերը
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =

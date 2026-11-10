@@ -656,14 +656,14 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Obtenez une protection intégrée sur votre téléphone
 hnt-card-mobile-body = Téléchargez { -brand-product-name } pour mobile pour plus de confidentialité lors de vos déplacements.
-hnt-card-mobile-primary-button = Obtenez { -brand-product-name } sur mobile.
+hnt-card-mobile-primary-button = Installez { -brand-product-name } sur votre appareil mobile.
 hnt-card-wallpaper-header = Choisissez un nouveau fond d’écran
-hnt-card-wallpaper-body = Installez-vous confortablement sur cet écran avec l’arrière-plan que vous appréciez.
-hnt-card-wallpaper-primary-button = Commencer la personnalisation
-hnt-card-taskbar-tabs-header = Ajoutez vos sites préférés à votre barre des tâches de Windows
-hnt-card-taskbar-tabs-body = Ouvrez les sites les plus visités comme une application dotée de toutes les protections { -brand-product-name }.
+hnt-card-wallpaper-body = Faites de cet écran votre espace avec un arrière-plan qui vous plaît.
+hnt-card-wallpaper-primary-button = Personnaliser maintenant
+hnt-card-taskbar-tabs-header = Ajoutez vos sites préférés à la barre des tâches Windows
+hnt-card-taskbar-tabs-body = Ouvrez vos sites préférés comme des applications, tout en profitant de toutes les protections de { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Ajouter des sites à la barre des tâches
-hnt-card-extensions-header = Plus de { -brand-short-name } d’extensions
+hnt-card-extensions-header = Améliorez { -brand-short-name } grâce aux extensions
 hnt-card-extensions-body = Personnalisez votre navigation avec nos extensions les plus appréciées.
 hnt-card-extensions-primary-button = Explorer
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,

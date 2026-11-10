@@ -93,10 +93,13 @@ genai-shortcut-button =
     .aria-label = Հարցրեք { $provider }-ին
 genai-menu-new-badge = Նոր
 genai-menu-summarize-page = Ամփոփել էջը
+genai-menu-summarize-with-ai = { "" }
 genai-input-ask-smart-window =
     .placeholder = Հարցնել…
 genai-input-ask-generic =
     .placeholder = Հարցրեք ԱԲ չաթբոտին…
+genai-input-ask-ai =
+    .placeholder = Հարցրեք արհեստական բանականությանը…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Հարցրեք { $provider }-ին…
@@ -239,11 +242,21 @@ link-preview-settings-enable =
     .label = Միացնել հղումների նախադիտումները
 link-preview-settings-long-press =
     .label = Դյուրանցում. Սեղմեք և պահեք հղումը 1 վայրկյան (երկար սեղմեք)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Հարցրեք { $provider }-ին
+highlight-to-search-settings-ask-generic =
+    .label = Հարցրեք ԱԲ-ին
 # Checkbox label for one of the actions in the menu that appears when selecting
 # text on a page. "Search" is a verb: the action searches the selected text
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Որոնում
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Պատճենել
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Տեսնու՞մ եք ավելին ԱԲ միջոցով։
 # Onboarding card title for long press

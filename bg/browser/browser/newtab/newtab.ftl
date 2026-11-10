@@ -598,6 +598,16 @@ newtab-topic-navigation-more-button = Още
 
 newtab-custom-wallpaper-cta = Опитайте
 
+## Strings for reporting issues with ads and content
+## Preceded by "Why are you reporting this?"
+
+newtab-report-ads-reason-scam =
+    .label = Заблуда или измама
+newtab-report-ads-reason-misleading =
+    .label = Подвеждащи или лъжливи твърдения
+newtab-report-ads-reason-offensive =
+    .label = Обидно или неподходящо
+
 ## Strings for task / to-do list productivity widget
 
 # A simple label next to the default list name letting users know this is a new / beta feature

@@ -560,3 +560,16 @@ onboarding-refresh-tab-layout-header = Փորձեք ներդիրի այլ դաս
 onboarding-refresh-tab-layout-top = Վերևում
 onboarding-refresh-tab-layout-side = Կողքում
 onboarding-refresh-tab-layout-minimal = Նվազագույն
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Ընդունել
+smartwindow-existing-user-fx-tou-go-back = Գնալ ետ
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Շարունակել
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Ուզո՞ւմ եք օգնականը փակ պահել։
