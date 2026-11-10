@@ -108,9 +108,53 @@ about-processes-unknown-process = Cits: { $type } ({ $pid })
 ## Properties of isolated web processes
 
 about-processes-web-isolated-property-private = privāts
+about-processes-web-isolated-property-serviceworker = apkalpojošaisdarbinieks
+about-processes-web-isolated-property-jit-disabled = JIT ir atspējots
+about-processes-web-isolated-property-with-coop-coep = izolēta krusteniskā izcelsme
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Details within processes
 
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } aktīva saruna no { $number }: { $list }
+        [zero] { $active } aktīvas tēmas no { $number }: { $list }
+       *[other] { $active } aktīvas tēmas no { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } neaktīvs pavediens
+        [zero] { $number } neaktīvi pavedieni
+       *[other] { $number } neaktīvi pavedieni
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Tēmas ID: { $tid }
 # Tab count shown in the groupby=tab view's totals bar.
 # Variables:
 #   $count (Number) The number of open tabs currently listed. Always ≥ 0.

@@ -18,6 +18,24 @@ about-processes-shutdown-tab =
     .title = Lukk fane
 about-processes-unload-tab =
     .title = Frigjør fane
+about-processes-reload-tab =
+    .title = Oppdater fane
+about-processes-select-all-tabs =
+    .title = Velg alle faner
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Utvid fanene for dette nettstedet
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Slå sammen fanene for dette nettstedet
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Frigjør fanene fra { $site } fra minnet
+about-processes-expand-all-sites =
+    .title = Utvid alle
 about-processes-go-to-tab =
     .title = Gå til fane
 # Profiler icons
@@ -30,6 +48,14 @@ about-processes-profile-process =
             [one] Profilér alle trådene i denne prosessen i { $duration } sekund
            *[other] Profilér alle trådene i denne prosessen i { $duration } sekunder
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Søk i faner
+    .placeholder = Søk i faner
 
 ## Column headers
 
