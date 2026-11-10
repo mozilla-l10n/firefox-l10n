@@ -142,6 +142,9 @@ permissions-site-notification-desc = 下列网站曾请求向您发送通知。�
 permissions-site-notification-disable-label =
     .label = 禁止新的发送通知请求
 permissions-site-notification-disable-desc = 所有列表外的网站将无法请求获得发送通知的权限。禁止此权限可能会影响某些网站的功能。
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = 允许网站在 { -brand-short-name } 关闭时发送通知
 
 ## Site Permissions - Location
 

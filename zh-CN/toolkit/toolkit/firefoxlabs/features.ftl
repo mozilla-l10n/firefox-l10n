@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = 右键点击标签页时，
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = 资源监视器
+experimental-features-resource-monitor-description = 在侧栏中查看已打开标签页的内存和 CPU 使用情况估计，并卸载暂时不使用的标签页以释放资源。<a data-l10n-name="connect">分享反馈</a>
