@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Blêdwizer foar side meitsje…
 sidebar-history-context-menu-delete-pages =
     .label = Siden út skiednis fuortsmite
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Fuortsmite
 
 ## Labels for sidebar bookmarks context menu items
 
