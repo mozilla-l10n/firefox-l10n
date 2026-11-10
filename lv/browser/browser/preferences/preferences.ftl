@@ -1174,6 +1174,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Vienādo...
     .title = Vienādot tagad
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Jūsu vienādošanas izvēles tagad attiecas tikai uz šo ierīci.
 
 ## The list of things currently syncing.
 

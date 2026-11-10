@@ -1365,6 +1365,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Tas ir nepiedienīgi
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Esmu to redzējis pārāk daudz reižu
+newtab-report-ads-reason-scam =
+    .label = Krāpniecība vai krāpnieciska rīcība
+newtab-report-ads-reason-misleading =
+    .label = Maldinoši vai nepatiesi apgalvojumi
+newtab-report-ads-reason-offensive =
+    .label = Aizskarošs vai nepiedienīgs
 newtab-report-content-wrong-category =
     .label = Nepareiza kategorija
 newtab-report-content-outdated =
@@ -1903,6 +1909,22 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Meklēt pilsētu
     .placeholder = Meklēt pilsētu
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Segvārds (izvēles)
+    .description =
+        { $count ->
+            [one] Atlikusi { $count } rakstzīme
+            [zero] Atlikušas { $count } rakstzīmes
+           *[other] Atlikušas { $count } rakstzīmes
+        }
+    .label = Segvārds (izvēles)
+    .placeholder = Pievienot segvārdu
 newtab-clock-widget-search-location-input =
     .aria-label = Meklēt pilsētu
     .label = Atrašanās vieta
