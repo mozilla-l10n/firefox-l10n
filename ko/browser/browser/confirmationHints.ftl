@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = 새로운 가리기가 생성됨!
 confirmation-hint-firefox-relay-mask-reused = 기존 가리기 재사용됨!
 confirmation-hint-screenshot-copied = 스크린샷이 복사되었습니다!
 confirmation-hint-tab-group-saved = 탭 그룹 저장됨
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = 이 메뉴에서 탭 그룹 찾기
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed = 탭 { $tabCount }개 닫음
