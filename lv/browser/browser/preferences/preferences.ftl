@@ -2251,7 +2251,7 @@ preferences-ai-controls-description = Jums vienmēr ir izvēle pakalpojumā { -b
 preferences-ai-controls-block-ai-label = Liegt MI uzlabojumus
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = Bloķēšana nozīmē, ka jūs neredzēsiet jaunus vai pašreizējus mākslīgā intelekta uzlabojumus pakalpojumā { -brand-short-name }, kā arī uznirstošos logus par tiem. <a data-l10n-name="link">Iegūstiet plašāku informāciju</a> par iekļauto un to, kā kontrolēt tradicionālās mašīnmācīšanās funkcijas, piemēram, meklēšanas ieteikumus un rekomendācijas.
+preferences-ai-controls-block-ai-description = Liegšana nozīmē, ka { -brand-short-name } neredzēsi jaunus vai pašreizējus MI uzlabojumus, kā arī uznirstošos logus par tiem. <a data-l10n-name="link">Iegūsti vairāk informācijas</a> par iekļauto un to, kā pārvaldīt tradicionālās mašīnmācīšanās iespējas, piemēram, meklēšanas ieteikumus un ierosinājumus!
 preferences-ai-controls-blocked-message =
     .message = Jauni un pašreizējie MI uzlabojumi pēc noklusējuma ir bloķēti. Lai atbloķētu konkrētu funkciju, izmantojiet tālāk norādītās vadīklas.
 preferences-ai-controls-on-device-group =
@@ -2295,7 +2295,7 @@ preferences-ai-controls-state-description-available = <strong>Pieejams:</strong>
 preferences-ai-controls-state-description-enabled = <strong>Iespējots:</strong> Jūs esat izvēlējies izmantot šo funkciju.
 preferences-ai-controls-state-description-blocked = <strong>Liegts:</strong> Jūs neredzēsiet un nevarēsiet izmantot šo funkciju. Ierīcē iebūvētajā mākslīgajā intelektā visi jau lejupielādētie modeļi tiek noņemti.
 preferences-ai-controls-block-confirmation-heading = Liegt MI uzlabojumus?
-preferences-ai-controls-block-confirmation-description = Jūs neredzēsiet jaunus vai pašreizējus mākslīgā intelekta uzlabojumus pakalpojumā { -brand-short-name }, kā arī uznirstošos logus par tiem. Pēc tam varēsiet atbloķēt visu, ko vēlaties turpināt lietot.
+preferences-ai-controls-block-confirmation-description = { -brand-short-name } neredzēsi jaunus vai pašreizējus MI uzlabojumus, kā arī uznirstošos logus par tiem. Pēc tam varēsi atsaukt liegumu visam, ko vēlēsies turpināt izmantot.
 preferences-ai-controls-block-confirmation-features-start = Kas tiks liegts:
 preferences-ai-controls-block-confirmation-translations = Tulkojumi
 preferences-ai-controls-block-confirmation-pdfjs = Attēla alternatīvais teksts { -brand-short-name } PDF skatītājā

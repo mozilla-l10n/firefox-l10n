@@ -109,7 +109,7 @@ permissions-exceptions-https-only-desc2 = Konkrētām vietnēm varat izslēgt re
 
 permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
-    .title = Atļautās tīmekļa vietnes — uznirstošie logi un trešo pušu pāradresācijas
+    .title = Atļautās tīmekļvietnes — uznirstošie logi un trešo pušu pārvirzīšana
 permissions-exceptions-popup-desc2 = Varat norādīt, kurām tīmekļa vietnēm ir atļauts atvērt uznirstošos logus un kuras var novirzīt trešo pušu ietvari.
 
 ## Exceptions - Saved Passwords
@@ -164,7 +164,7 @@ permissions-site-location-disable-desc = Tas liegs jebkurām tīmekļvietnēm, k
 permissions-site-xr-window2 =
     .style = { permissions-window2.style }
     .title = Iestatījumi — virtuālās realitātes atļaujas
-permissions-site-xr-desc = Tālāk norādītās vietnes ir pieprasījušas piekļuvi jūsu virtuālās realitātes ierīcēm. Varat norādīt, kurām vietnēm ir atļauts piekļūt jūsu virtuālās realitātes ierīcēm. Varat arī bloķēt jaunus pieprasījumus, kuros tiek lūgts piekļūt jūsu virtuālās realitātes ierīcēm.
+permissions-site-xr-desc = Šīs tīmekļvietnes ir pieprasījušas piekļuvi virtuālās realitātes ierīcēm. Var norādīt, kurām vietnēm ir atļauts tām piekļūt. Var arī liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt virtuālās realitātes ierīcēm.
 permissions-site-xr-disable-label =
     .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt virtuālās realitātes ierīcēm
 permissions-site-xr-disable-desc = Tas liegs vietnēm, kas nav norādītas iepriekš, pieprasīt atļauju piekļūt jūsu virtuālās realitātes ierīcēm. Bloķējot piekļuvi virtuālās realitātes ierīcēm, var nestrādāt dažu vietņu funkcijas.

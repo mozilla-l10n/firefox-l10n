@@ -116,7 +116,85 @@ about-glean-about-data-list-item-debug-ping-viewer =
     Lai pārlūkotu atkļūdošanas tagus, skatītu pilnus pingus, tiešraides notikuma straumi vai metrikas vizualizācijas, lūdzu, skatiet
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Lai ierakstītu veiktspējas profilu un skatītu visus reģistrētos rādītājus, lūdzu, izmantojiet `<a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>`.
+about-glean-metrics-table-header = Visi rādītāji
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategorija
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Vārds
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tips
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Vērtība
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Darbības
+about-glean-metrics-table-settings-button = Iestatījumi
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Rādījumu tabulu un vizualizāciju iestatījumi
+about-glean-metrics-table-settings-category-general = Vispārīgi
+about-glean-metrics-table-settings-hide-empty-value-rows = Slēpt tukšas vērtību rindas
+about-glean-metrics-table-settings-category-visualizations = Vizualizācijas
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Piemērs
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogramma
+about-glean-metrics-table-settings-histograms-chart-max = Diagrammas maksimālais augstums
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Maksimālais augstums mērogots
+about-glean-metrics-table-settings-histograms-box-padding = Kastes polsterējums
+about-glean-metrics-table-settings-histograms-chart-padding = Diagrammas atkāpes
+about-glean-metrics-table-settings-histograms-left-padding = Papildu kreisā atkāpe
+about-glean-metrics-table-settings-category-visualizations-timeline = Laika skala
+about-glean-metrics-table-settings-timelines-height = Augstums
+about-glean-metrics-table-settings-timelines-width = Platums
+about-glean-metrics-table-settings-timelines-chart-padding = Diagrammas atkāpes
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Apļa rādiuss
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y ass X nobīde
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y ass Y nobīde
+# label: Displayed near an input field that can be used to filter metrics
+# description: This message sits alongside an input field, further describing its purpose. Category refers to the category in which a given metric is recorded. Name refers to the name of a given metric. Type refers to a given metric's metric type. Value refers to the underlying value of a given metric. "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+# placeholder: Search is a verb in this case
+about-glean-filter-metrics =
+    .description = Tas filtrēs tālāk redzamo tabulu pēc kategorijas, nosaukuma, tipa un vērtības (ja vērtība ir vienkāršs tips).
+    .label = Filtrēt mērījumus
+    .placeholder = Meklēt
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtrs
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Tas filtrēs tālāk redzamo tabulu pēc kategorijas, nosaukuma, tipa un vērtības (ja vērtība ir vienkāršs tips).
+about-glean-button-load-all = Ielādēt visas vērtības
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = Eksportēt datus
+about-glean-button-load-value = Ielādēt
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentācija
+about-glean-button-watch = Skatīties
+# Meaning "to stop watching"
+about-glean-button-unwatch = Atcelt skatīšanos
+about-glean-no-data-to-display = Nav datu, ko parādīt.
+# Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> metrikas vēl netiek atbalstītas <code>about:glean</code> skatā.
+about-glean-unknown-metric-type-warning = Nezināms metrikas veids.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Iespējo iesniegto pingu saglabāšanu atmiņā
+    .label = Saglabāt iesniegtos pings
 # Header for a section that shows client information
 about-glean-submitted-ping-client-info-title = Informācija par klientu
 # Header for a section that shows Ping information
 about-glean-submitted-ping-ping-info-title = Informācija par ping
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Iebūvētie pingi
+about-glean-ping-list-optgroup-custom =
+    .label = Pielāgoti ping

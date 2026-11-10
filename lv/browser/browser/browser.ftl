@@ -24,7 +24,7 @@ popups-infobar-dont-show-message2 =
     .label = Nerādīt šo ziņojumu, ja ir liegti uznirstošie logi vai trešo pušu pārvirzīšanas
     .accesskey = N
 edit-popup-settings2 =
-    .label = Pārvaldīt uznirstošo logu un trešo pušu pāradresācijas iestatījumus…
+    .label = Pārvaldīt uznirstošo logu un trešo pušu pārvirzīšanas iestatījumus…
     .accesskey = P
 # Variables
 #   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
@@ -225,7 +225,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = Jūs esat bloķējis šīs vietnes pastāvīgo krātuvi.
 urlbar-popup-blocked2 =
-    .tooltiptext = Jūs esat bloķējis uznirstošos logus un trešo pušu pāradresācijas šai vietnei.
+    .tooltiptext = Tu šajā tīmekļvietnē liedzi uznirstošos logus un trešo pušu pārvirzīšanu.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Tu šajā tīmekļvietnē liedzi automātisku informācijas nesēju atskaņošanu.
 urlbar-canvas-blocked =
@@ -1327,8 +1327,8 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow2 =
-    .label = Atļaut uznirstošos logus un trešo pušu pāradresācijas vietnei { $uriHost }
-    .accesskey = p
+    .label = { $uriHost } atļaut uznirstošos logus un trešo pušu pārvirzīšanu
+    .accesskey = n
 
 ##
 

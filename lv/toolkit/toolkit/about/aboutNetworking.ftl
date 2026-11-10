@@ -4,9 +4,16 @@
 
 about-networking-title = Par tīklu
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Notīrīt HTTP kešatmiņu
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Notīrīt DNS kešatmiņu
+about-networking-dns-trr-url = DoH URL
+about-networking-dns-trr-mode = DoH režīms
+about-networking-dns-suffix = DNS sufikss
 about-networking-websockets = WebSockets
+about-networking-alt-svc = Alt-Svc
+about-networking-alt-svc-origin = Origin
 # Certificates are stored inside every cached token, so the same certificate is
 # held many times over.
 # $references (Number) - Total number of stored certificate copies
