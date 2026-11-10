@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Bok ako cytańske znamje składowaś …
 sidebar-history-context-menu-delete-pages =
     .label = Boki z historije lašowaś
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Lašowaś
 
 ## Labels for sidebar bookmarks context menu items
 

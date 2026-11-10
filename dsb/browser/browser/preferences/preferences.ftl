@@ -1178,6 +1178,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Synchronizěrujo se…
     .title = Něnto synchronizěrowaś
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Waš wuběrk za synchronizaciju něnto jano za toś ten rěd płaśi.
 
 ## The list of things currently syncing.
 
