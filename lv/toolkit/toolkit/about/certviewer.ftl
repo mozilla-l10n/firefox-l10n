@@ -22,10 +22,26 @@ certificate-viewer-tab-title = Sertifikāts lietotājam { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Inc. Country
 certificate-viewer-country = Valsts
+certificate-viewer-curve = Līkne
+certificate-viewer-distribution-point = Izplatīšanas punkts
+certificate-viewer-dns-name = DNS nosaukums
 certificate-viewer-ip-address = IP adrese
+certificate-viewer-other-name = Cits vārds
+certificate-viewer-exponent = Eksponents
 certificate-viewer-id = ID
+certificate-viewer-key-exchange-group = Atslēgu apmaiņas grupa
 certificate-viewer-key-id = Atslēgas ID
 certificate-viewer-key-size = Atslēgas izmērs
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Inc. Locality
+certificate-viewer-locality = Vieta
+certificate-viewer-location = Atrašanās vieta
+# Log is a noun meaning a record of events.
+certificate-viewer-log-name = Žurnāla nosaukums
+# Log is a noun meaning a record of events.
+certificate-viewer-logid = Žurnāla ID
+certificate-viewer-method = Metode
+certificate-viewer-modulus = Modulis
 certificate-viewer-protocol = Protokols
 certificate-viewer-purposes = Mērķi
 certificate-viewer-sha-1 = SHA-1
