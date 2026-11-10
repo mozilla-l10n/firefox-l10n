@@ -180,9 +180,14 @@ newtab-privacy-empty-state = { -brand-short-name } 会自动拦截跟踪器，�
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = 在此查看实时计数。
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = 减少跟踪器，浏览更快速。
+newtab-privacy-empty-state-small-message = 开始浏览后，即会拦截跟踪器。
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = 减少跟踪器，浏览更快速。
 newtab-privacy-etp-off-turn-on-tracking = 前往“设置”开启跟踪保护，即可开始拦截。
 
 ## Privacy widget — informational messages
@@ -276,6 +281,11 @@ newtab-privacy-message-first-protection-cta = 查看保护信息
 newtab-stocks-menu-learn-more = 详细了解
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = 无法获取股市数据。
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = 打开财经菜单
+    .title = 打开财经菜单
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -300,6 +310,9 @@ newtab-stocks-list-watchlist = 关注列表
     .label = 关注列表
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = 搜索名称或代码
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = 财经
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -354,6 +367,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = 搜索结果
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = 搜索股票代码或公司，将其添加到关注列表
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
