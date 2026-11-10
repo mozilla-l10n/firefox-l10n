@@ -642,3 +642,5 @@ welcome-back-onboarding-card-tilebutton-label = ਅਜ਼ਮਾਓ
 ## New Tab Onboarding cards
 
 hnt-card-import-header = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਸਕਿੰਟਾਂ ਵਿੱਚ ਤਿਆਰ ਕਰੋ
+hnt-card-import-body = ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਜਾਂ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਲਿਆਓ।
+hnt-card-import-primary-button = ਡਾਟੇ ਨੂੰ ਦਰਾਮਦ ਕਰੋ
