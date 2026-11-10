@@ -12,11 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Неправилен PIN. Опитайте отново.
 webauthn-pin-required-prompt = Моля, въведете PIN за вашето устройство.
 webauthn-select-sign-result-unknown-account = Непознат акаунт
-webauthn-a-passkey-label = Използвайте ключ-парола
-webauthn-another-passkey-label = Използвайте друг ключ-парола
+webauthn-a-passkey-label = Използване на ключ за достъп
+webauthn-another-passkey-label = Използвайте друг ключ за достъп
 # Variables:
 #   $domain (String): the domain of the site.
-webauthn-specific-passkey-label = Ключ-парола за { $domain }
+webauthn-specific-passkey-label = Ключ за достъп за { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
@@ -62,3 +62,11 @@ webauthn-allow = Разрешаване
     .accesskey = А
 webauthn-block = Блокиране
     .accesskey = Б
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } иска да създаде ключ за достъп за { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } иска да използва ключ за достъп за { $rpId }.
