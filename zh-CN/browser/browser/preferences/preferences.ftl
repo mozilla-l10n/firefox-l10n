@@ -1220,6 +1220,10 @@ sync-engine-addons2 =
     .label = 附加组件
     .tooltiptext = 添加到桌面版 { -brand-short-name } 的扩展和主题
     .accesskey = A
+sync-engine-settings2 =
+    .label = 设置
+    .tooltiptext = 适用的 { -brand-short-name } 设置
+    .accesskey = s
 sync-engine-addresses =
     .label = 邮政地址
     .tooltiptext = 您已保存的邮政地址（仅限桌面版）
@@ -1243,6 +1247,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = 管理需要同步到所有已连接设备上的项目
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = 保存
+    .buttonlabelextra2 = 断开连接…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = 管理此设备同步的项目
 
 ## The device name controls.
 
@@ -1404,6 +1415,10 @@ autofill-payment-methods-manage-payments-button =
     .label = 管理付款方式
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = 需要通过设备登录才能自动填写
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = 自动填写和管理付款方式前需验证设备登录信息
     .accesskey = o
@@ -1477,6 +1492,38 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | 安全码已保存
     .label = { $cardNumber }
 addresses-group =
     .label = 地址等信息
@@ -1784,6 +1831,11 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = 选择可以安装扩展的网站
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = 允许网站询问是否打开应用链接。
+    .accesskey = A
 permissions-location2 =
     .label = 位置
 permissions-localhost2 =
@@ -1808,6 +1860,51 @@ permissions-data-section =
     .heading = 权限与数据
 pane-permissions-data-title2 = 权限与数据
     .title = 权限与数据
+notifications-section-header =
+    .heading = 通知
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+           *[other] { $count } 个网站
+        }
+    .label = 管理通知设置
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = 管理网站通知设置
+notifications-website-card-header =
+    .description = 选择网站发送通知的方式。
+    .label = 网站通知
+notifications-filter =
+    .placeholder = 搜索网站
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = 网站
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = 允许通知
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = 网站
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = 始终
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = 允许
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = 永不
 
 ## Privacy Section - Data Collection
 
