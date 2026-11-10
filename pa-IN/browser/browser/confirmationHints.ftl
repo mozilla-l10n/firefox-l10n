@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = ਨਵਾਂ ਮਾਸਕ ਬਣ�
 confirmation-hint-firefox-relay-mask-reused = ਮੌਜੂਦਾ ਮਸਕਾ ਮੁੜ-ਵਰਤਿਆ!
 confirmation-hint-screenshot-copied = ਸਕਰੀਨਸ਼ਾਟ ਕਾਪੀ ਕੀਤਾ!
 confirmation-hint-tab-group-saved = ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = ਇਸ ਮੇਨੂ ਵਿੱਚ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਲੱਭੋ
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

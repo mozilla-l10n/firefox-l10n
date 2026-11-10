@@ -96,6 +96,7 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = ਜਦੋਂ ਤੁਸੀਂ ਲਿਖਤ ਨੂੰ ਚੁਣੋਗੇ ਤਾਂ ਇਹ ਮੇਨੂ ਨਹੀਂ ਵੇਖੋਗੇ। ਇਸ ਨੂੰ ਮੁੜ ਕੇ ਵੇਖਣ ਲਈ ਸੈਟਿੰਗਾਂ <span data-l10n-name="chevron"></span> ਟੈਬਾਂ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਵੇਖੋ।
 genai-more-actions-manage-settings =
     .label = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+genai-selection-callout-title = ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਲਿਖਤ ਨੂੰ ਉਭਾਰੋ
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } ਨੂੰ ਪੁੱਛੋ

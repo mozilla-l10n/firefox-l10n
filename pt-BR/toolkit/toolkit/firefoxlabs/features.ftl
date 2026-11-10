@@ -98,3 +98,4 @@ experimental-features-tab-context-menu-description = Ter um menu de contexto mai
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Monitor de recursos
+experimental-features-resource-monitor-description = Veja uma estimativa do uso de memória e CPU das abas abertas, diretamente na barra lateral, e descarregue as que não estiver usando para liberar recursos. <a data-l10n-name="connect">Compartilhe sua opinião</a>
