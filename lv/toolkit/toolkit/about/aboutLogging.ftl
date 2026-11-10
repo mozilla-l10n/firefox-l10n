@@ -23,9 +23,45 @@ about-logging-info = Informācija:
 about-logging-log-modules-selection = Žurnāla moduļa izvēle
 about-logging-new-log-modules = Jauni žurnāla moduļi:
 about-logging-logging-output-selection = Žurnāla izvade
+about-logging-logging-to-file = Žurnalēšana datnē
+about-logging-logging-to-profiler = Žurnalēšana pakalpojumā { -profiler-brand-name }
+about-logging-no-log-modules = Nekas
+about-logging-no-log-file = Nekas
+about-logging-logging-preset-selector-text = Žurnalēšanas iepriekšiestatījums:
+about-logging-with-profiler-stacks-checkbox = Iespējot žurnāla ziņojumu steka izsekošanas datus
+about-logging-with-javascript-tracing-checkbox = Iespējot JavaScript izsekošanu
+about-logging-menu =
+    .title = Papildu iespējas
 
 ## Logging presets
 
+about-logging-preset-networking-label = Tīkls
+about-logging-preset-networking-description = Žurnāla moduļi tīkla problēmu diagnosticēšanai
+about-logging-preset-networking-cookie-label = Sīkdatnes
+about-logging-preset-networking-cookie-description = Žurnāla moduļi sīkdatņu problēmu diagnosticēšanai
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Žurnāla moduļi WebSocket problēmu diagnosticēšanai
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Žurnāla moduļi HTTP/3 un QUIC problēmu diagnosticēšanai
+about-logging-preset-networking-http3-upload-speed-label = HTTP/3 augšupielādes ātrums
+about-logging-preset-networking-http3-upload-speed-description = Žurnāla moduļi HTTP/3 augšupielādes ātruma problēmu diagnosticēšanai
+about-logging-preset-media-playback-label = Multivides atskaņošana
+about-logging-preset-media-playback-description = Žurnāla moduļi multivides atskaņošanas problēmu diagnosticēšanai (nevis videokonferenču problēmu)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Žurnāla moduļi WebRTC zvanu diagnosticēšanai
+about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Žurnāla moduļi, lai diagnosticētu problēmas ar WebCodecs audio/video dekoderiem un kodētājiem, kā arī attēlu dekoderiem
+about-logging-preset-ml-label = Mašīnmācīšanās
+about-logging-preset-ml-description = Žurnāla moduļi mašīnmācīšanās problēmu diagnosticēšanai
+about-logging-preset-web-compat-label = Tīmekļa saderība
+about-logging-preset-web-compat-description = Žurnāla moduļi tīmekļa saderības problēmu diagnosticēšanai
+about-logging-preset-navigation = Navigācija
+about-logging-preset-navigation-description = Žurnāla moduļi navigācijas un sesiju vēstures problēmu diagnosticēšanai
+about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = Žurnāla moduļi IP aizsardzības (VPN) problēmu diagnosticēšanai
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Žurnāla moduļi WebGPU problēmu diagnosticēšanai
+about-logging-preset-gfx-label = Grafika
 # Error handling
 about-logging-error = Kļūda:
 
