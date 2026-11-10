@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Stronu jako zapołožku składować …
 sidebar-history-context-menu-delete-pages =
     .label = Strony z historije zhašeć
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Zhašeć
 
 ## Labels for sidebar bookmarks context menu items
 

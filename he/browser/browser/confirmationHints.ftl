@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = נוצרה מסכה חדשה!
 confirmation-hint-firefox-relay-mask-reused = נעשה שימוש חוזר במסכה קיימת!
 confirmation-hint-screenshot-copied = צילום המסך הועתק!
 confirmation-hint-tab-group-saved = קבוצת הלשוניות נשמרה
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = אפשר למצוא קבוצות לשוניות בתפריט זה
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
