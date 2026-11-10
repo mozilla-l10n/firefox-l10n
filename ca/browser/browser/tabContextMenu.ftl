@@ -34,19 +34,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Tanca les pestanyes de l'esquerra
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Pestanyes de l'esquerra
+    .accesskey = e
 close-tabs-to-the-start-vertical =
     .label = Tanca les pestanyes de sobre
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Pestanyes de sobre
+    .accesskey = e
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Tanca les pestanyes de la dreta
     .accesskey = d
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Pestanyes de la dreta
+    .accesskey = d
 close-tabs-to-the-end-vertical =
     .label = Tanca les pestanyes de sota
     .accesskey = d
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Pestanyes de sota
+    .accesskey = d
 close-other-tabs =
     .label = Tanca les altres pestanyes
+    .accesskey = a
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Totes les altres
     .accesskey = a
 reload-tabs =
     .label = Torna a carregar les pestanyes
@@ -85,9 +107,16 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Obre en una pestanya de contenidor nova
     .accesskey = e
+tab-context-open-in-container =
+    .label = Obre en un contenidor
+    .accesskey = c
 move-to-start =
     .label = Mou al principi
     .accesskey = p
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Principi
+    .accesskey = P
 move-to-end =
     .label = Mou al final
     .accesskey = f

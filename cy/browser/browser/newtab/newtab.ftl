@@ -1395,6 +1395,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Mae'n amhriodol
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Rwyf wedi ei weld ormod o weithiau
+newtab-report-ads-reason-scam =
+    .label = Twyll neu dwyllodrus
+newtab-report-ads-reason-misleading =
+    .label = Hawliadau camarweiniol neu ffug
+newtab-report-ads-reason-offensive =
+    .label = Sarhaus neu amhriodol
 newtab-report-content-wrong-category =
     .label = Categori anghywir
 newtab-report-content-outdated =
@@ -1942,6 +1948,25 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Chwilio am ddinas
     .placeholder = Chwilio am ddinas
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Llysenw (dewisol)
+    .description =
+        { $count ->
+            [one] { $count } nod ar ôl
+            [zero] { $count } nodau ar ôl
+            [two] { $count } nod ar ôl
+            [few] { $count } nod ar ôl
+            [many] { $count } nod ar ôl
+           *[other] { $count } nod ar ôl
+        }
+    .label = Llysenw (dewisol)
+    .placeholder = Ychwanegu llysenw
 newtab-clock-widget-search-location-input =
     .aria-label = Chwilio am ddinas
     .label = Lleoliad

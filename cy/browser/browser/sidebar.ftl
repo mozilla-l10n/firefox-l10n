@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Gosod Nod i Dudalen…
 sidebar-history-context-menu-delete-pages =
     .label = Dileu Tudalennau o Hanes
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Dileu
 
 ## Labels for sidebar bookmarks context menu items
 
