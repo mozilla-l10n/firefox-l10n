@@ -140,7 +140,7 @@ sidebar-history-context-menu-delete-pages =
     .label = Dzēst lapas no vēstures
 # Deletes every page listed under a date or site heading in the history sidebar.
 sidebar-history-context-menu-delete =
-    .label = Dzēst
+    .label = Izdzēst
 
 ## Labels for sidebar bookmarks context menu items
 

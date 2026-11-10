@@ -239,6 +239,15 @@ about-webrtc-received-label =
         [zero] Saņemtas { $packets } paketes
        *[other] Saņemtas { $packets } paketes
     }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Pazaudēta { $packets } pakete
+        [zero] Pazaudētas { $packets } paketes
+       *[other] Pazaudētas { $packets } paketes
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

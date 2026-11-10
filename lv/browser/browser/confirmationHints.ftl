@@ -25,7 +25,7 @@ confirmation-hint-firefox-relay-mask-reused = Esošais aizsegs izmantots atkārt
 confirmation-hint-screenshot-copied = Ekrānuzņēmums nokopēts!
 confirmation-hint-tab-group-saved = Ciļņu kopa saglabāta
 # Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
-confirmation-hint-tab-group-button-removed = Atrast ciļņu grupas šajā izvēlnē
+confirmation-hint-tab-group-button-removed = Atrast ciļņu kopas šajā izvēlnē
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
