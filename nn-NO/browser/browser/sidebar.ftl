@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Bokmerk side…
 sidebar-history-context-menu-delete-pages =
     .label = Slett sider frå historikken
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Slett
 
 ## Labels for sidebar bookmarks context menu items
 
