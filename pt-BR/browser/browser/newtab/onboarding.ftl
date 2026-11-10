@@ -639,3 +639,12 @@ welcome-back-onboarding-card-label-tabs = Organização com abas na vertical e g
 welcome-back-onboarding-card-label-vpn = Proteção de privacidade com a VPN integrada
 welcome-back-onboarding-card-label-pdf = Destaque, assine e trabalhe com PDFs
 welcome-back-onboarding-card-tilebutton-label = Experimentar
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configure seu { -brand-short-name } em segundos
+hnt-card-import-body = Traga seus favoritos, senhas e mais dados de outro navegador.
+hnt-card-import-primary-button = Importe seus dados
+hnt-card-default-body = O { -brand-product-name } é o único grande navegador criado para te proteger, não para te rastrear.
+hnt-card-default-primary-button = Abrir links com o { -brand-short-name }
+hnt-card-pin-header = Abra o { -brand-short-name } com apenas um clique
