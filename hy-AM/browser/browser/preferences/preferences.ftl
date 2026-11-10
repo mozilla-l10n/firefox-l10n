@@ -950,6 +950,8 @@ containers-add-button2 =
     .accesskey = A
 containers-settings-button2 =
     .title = Կարգավորումներ
+containers-site-remove-button =
+    .title = Ջնջել
 containers-remove-button2 =
     .title = Հեռացնել
 
@@ -959,6 +961,12 @@ sync-group-label =
     .label = Համաժամեցում
 account-group-label2 =
     .label = Հաշիվ
+account-disabled-group =
+    .description = Հաշվի կարգավորումները հասանելի չեն։
+    .label = Հաշիվ
+account-placeholder2 =
+    .description = Մուտք գործեք և պահեք ձեր տվյալները գաղտնի, կոդավորված և անմիջապես հասանելի՝ ամենուրեք, որտեղ օգտագործում եք { -brand-short-name }-ը։
+    .label = Դուք մուտք չեք գործել
 account-sync-section =
     .heading = Հաշիվ և համաժամեցում
 pane-account-sync-title2 = Հաշիվ և համաժամեցում
@@ -1039,6 +1047,13 @@ prefs-syncing-on = Համաժամեցում։ ՄԻԱՑՎԱԾ
 prefs-syncing-on-2 =
     .label = Համաժամեցումը միացված է
 prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՎԱԾ
+prefs-syncing-off-2 =
+    .description = Միացրեք համաժամեցումը՝ ձեր էջանիշները, գաղտնաբառերը, պատմությունը և այլն ցանկացած սարքում ստանալու համար:
+    .label = Համաժամեցումն ԱՆՋԱՏՎԱԾ է
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Միացրեք համաժամեցումը՝ ձեր էջանիշները, գաղտնաբառերը, պատմությունը և այլն այս սարքում ստանալու համար։
+    .label = Համաժամեցումն ԱՆՋԱՏՎԱԾ է
 prefs-sync-turn-on-syncing =
     .label = Միացնել համաժամեցումը…
     .accesskey = s
@@ -1090,6 +1105,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Պատմություն
     .accesskey = թ
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Բացել ներդիրները
+    .tooltiptext = Բացեք ներդիրները ձեր մյուս սարքերից
+    .accesskey = Բ
 sync-engine-tabs =
     .label = Բաց ներդիրներ
     .tooltiptext = Ցանկ, թե ինչ է բացված բոլոր համաժամեցված սարքերում
@@ -1098,6 +1118,22 @@ sync-engine-passwords =
     .label = Գաղտնաբառեր
     .tooltiptext = Ձեր կողմից պահված գաղտնաբառերը
     .accesskey = P
+sync-engine-addresses2 =
+    .label = Հասցեներ
+    .tooltiptext = { -brand-short-name }-ում պահպանված հասցեներ
+    .accesskey = Հ
+sync-engine-payment-methods3 =
+    .label = Վճարամիջոցներ
+    .tooltiptext = Ձեր պահպանած վճարման եղանակները
+    .accesskey = Վ
+sync-engine-addons2 =
+    .label = Հավելումներ
+    .tooltiptext = Ձեր կողմից { -brand-short-name }-ին աշխատասեղանի համար ավելացված ընդլայնումներ և թեմաներ
+    .accesskey = Հ
+sync-engine-settings2 =
+    .label = Կարգավորումներ
+    .tooltiptext = { -brand-short-name } կարգավորումներ, որտեղ կիրառելի է
+    .accesskey = Կ
 sync-engine-addresses =
     .label = Հասցեներ
     .tooltiptext = Փոստային հասցեներ, որոնք դուք պահել եք (միայն դեսքթոփում)
@@ -1301,6 +1337,9 @@ payments-no-payments-stored-message =
 autofill-addresses-checkbox-message =
     .label = Պահել և ինքնալրացնել հասցեները
     .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Կառավարեք հասցեները և այլն
+    .accesskey = Կ
 addresses-list-header =
     .label = Հասցեներ
 addreses-delete-address-button-label =
@@ -1316,6 +1355,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Հասցեներ չեն ավելացվել
+personal-info-group =
+    .label = Անձնական տեղեկություններ
+autofill-personal-info-checkbox-message =
+    .label = Պահպանել և ավտոմատ լրացնել անձնական տեղեկությունները
+autofill-personal-info-manage-button =
+    .label = Կառավարել անձնական տեղեկությունները
+passports-list-header =
+    .label = Գաղտնաբառեր
+passports-delete-passport-button-label =
+    .aria-label = Ջնջել
+passports-edit-passport-button-label =
+    .aria-label = Խմբագրել
+passports-delete-passport-prompt-title = Ջնջե՞լ այս անձնագիրը։
+passports-delete-passport-prompt-confirm-button = Ջնջել
+passports-delete-passport-prompt-cancel-button = Չեղարկել
+autofill-passports-add-button = Ավելացնել անձնագիր
+autofill-personal-info-manage-title =
+    .heading = Կառավարել անձնական տեղեկությունները
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Անձնագրեր չեն ավելացվել
 pane-passwords-autofill-title2 = Գաղտնաբառեր և ինքնալրացում
     .title = Գաղտնաբառեր և ինքնալրացում
 preferences-passwords-autofill-header =
@@ -1327,6 +1387,18 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
     .label = { $cardNumber }
 addresses-group =
     .label = Հասցեներ և այլն
@@ -1617,6 +1689,56 @@ permissions-data-section =
     .heading = Թույլտվություններ և տվյալներ
 pane-permissions-data-title2 = Թույլտվություններ և տվյալներ
     .title = Թույլտվություններ և տվյալներ
+notifications-section-header =
+    .heading = Ծանուցումներ
+notifications-entry-card-header =
+    .description = Ընտրեք, թե որ կայքերը կարող են ծանուցումներ ուղարկել և ինչպես են այդ ծանուցումները ցուցադրվում։
+    .label = Ծանուցումներ
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } կայք
+           *[other] { $count } կայքեր
+        }
+    .label = Կառավարել ծանուցումները
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Կառավարեք կայքի ծանուցումների կարգավորումները
+notifications-filter =
+    .placeholder = Որոնել կայքեր
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Կայք
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Թույլատրել ծանուցումները
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Կայքեր
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Միշտ
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Թույլատրել
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Երբեք
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Կայքի ծանուցումներ չեն ավելացվել։
 
 ## Privacy Section - Data Collection
 
@@ -1785,12 +1907,27 @@ preferences-doh-overview-default =
 preferences-doh-overview-custom =
     .description = Միշտ օգտագործեք անվտանգ DNS՝ ձեր մատակարարի և պահեստային ռեժիմի վերահսկողությամբ։
     .label = Հարմարեցված
+preferences-doh-advanced-button =
+    .label = Ընդլայնված կարգավորումներ
 preferences-doh-advanced-section =
     .description = HTTPS-ի (DoH) միջոցով դոմեյնային անունների համակարգը կոդավորում է կայքերի որոնումները, ուստի ձեր ինտերնետ մատակարարի կամ ուրիշների համար ավելի դժվար է տեսնել, թե որ կայքերն եք այցելելու։
     .label = Լրացուցիչ կարգավորումներ
+preferences-doh-manage-exceptions2 =
+    .label = Կառավարել բացառությունները...
+    .accesskey = Կ
+preferences-doh-radio-default =
+    .description = Օգտագործել անվտանգ DNS  այն տարածքներում, որտեղ դա մաստելի է
+    .label = Սկզբնադիր
 preferences-doh-radio-custom =
     .description = Միշտ օգտագործեք անվտանգ DNS՝ ձեր մատակարարի և պահեստային ռեժիմի վերահսկողությամբ
     .label = Հարմարեցված
+preferences-doh-radio-off =
+    .description = Օգտագործել Ձեր սկզբնադիր DNS լուծողը
+    .label = Անջ.
+preferences-doh-fallback-label =
+    .label = Միշտ զգուշացրեք ինձ, եթե անվտանգ DNS-ը հասանելի չէ
+preferences-doh-status-item-off =
+    .message = HTTPS-ի միջոցով DNS-ը անջատված է
 preferences-doh-custom-provider-label =
     .aria-label = Մուտքագրեք հատուկ մատակարարի URL-ը
 preferences-doh-header2 =

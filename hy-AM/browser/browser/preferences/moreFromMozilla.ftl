@@ -13,6 +13,9 @@ more-from-moz-subtitle = { -vendor-short-name }-ի այլ ծրագրեր, որո
 more-from-moz-firefox-mobile-title = { -brand-product-name } բջջային
 more-from-moz-firefox-mobile-description = Բջջային դիտարկիչ, որը առաջին տեղում է դնում Ձեր գաղտնիությունը:
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } բջջային
+more-from-moz-firefox-mobile =
+    .description = Բջջային դիտարկիչ, որը առաջին տեղում է դնում Ձեր գաղտնիությունը:
+    .label = { -brand-product-name } բջջային
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Ներբեռնեք Ձեր բջջային սարքում: Պահեք Ձեր տեսախցիկը QR կոդի վրա: Երբ հղումը հայտնվի՝ հպեք դրան:
 more-from-moz-qr-code-box-firefox-mobile-button = Փոխարենը էլ. նամակ ուղարկել Ձեր հեռախոսին
@@ -43,6 +46,13 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } ԱԲ վեբ-կայքի ստ
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-button = Սովորեք վեբ մշակում
+more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Անվճար էլ. փոստ, օրացույց և կոնտակտներ՝ կազմակերպված ձեր ձևով։
+more-from-moz-thunderbird-button = Ստանալ { -thunderbird-brand-short-name }-ը
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.

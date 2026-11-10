@@ -573,3 +573,25 @@ smartwindow-onboarding-primary-button = Շարունակել
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-title = Ուզո՞ւմ եք օգնականը փակ պահել։
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Հիմնական առանձնահատկությունները
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = Սկսել դիտարկումը
+welcome-back-onboarding-secondary-button-label = Տեսեք, թե ինչն է նոր
+welcome-back-onboarding-pill-label-vpn = Ներկառուցված VPN
+welcome-back-onboarding-pill-label-pdf = PDF գործիքներ
+welcome-back-onboarding-card-tilebutton-label = Փորձել
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Ներմուծել դիտարկիչի տվյալները
+hnt-card-mobile-primary-button = Ստացեք { -brand-product-name }-ը բջջայինի համար
+hnt-card-taskbar-tabs-primary-button = Ավելացնել ներդիրը խնդրագոտիում
+hnt-card-extensions-primary-button = Դիտարկել

@@ -7,3 +7,13 @@ containers-window-close =
 containers-dialog =
     .buttonlabelaccept = Պատրաստ է
     .buttonaccesskeyaccept = Պ
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Ավելացնել կայք
+containers-site-label =
+    .label = Կայք
+    .placeholder = haysoft.org
+containers-site-container-label =
+    .label = Պարունակ

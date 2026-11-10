@@ -40,3 +40,7 @@ appearance-browser-icon-pin-button =
 
 appearance-browser-icon-default =
     .label = Սկզբնադիր
+appearance-browser-icon-retro2004 =
+    .label = Ռետրո 2004
+appearance-browser-icon-retro2017 =
+    .label = Ռետրո 2017
