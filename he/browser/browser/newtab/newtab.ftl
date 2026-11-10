@@ -1349,6 +1349,10 @@ newtab-report-ads-reason-seen-it-too-many-times =
     .label = ראיתי את זה יותר מדי פעמים
 newtab-report-ads-reason-scam =
     .label = תרמית או הונאה
+newtab-report-ads-reason-misleading =
+    .label = טענות מטעות או שקריות
+newtab-report-ads-reason-offensive =
+    .label = פוגעני או בלתי הולם
 newtab-report-content-wrong-category =
     .label = קטגוריה שגויה
 newtab-report-content-outdated =
@@ -1888,6 +1892,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = חיפוש אחר עיר
     .placeholder = חיפוש אחר עיר
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = כינוי (אופציונלי)
+    .description =
+        { $count ->
+            [one] נותר תו אחד
+           *[other] נותרו { $count } תווים
+        }
+    .label = כינוי (אופציונלי)
+    .placeholder = הוספת כינוי
 newtab-clock-widget-search-location-input =
     .aria-label = חיפוש אחר עיר
     .label = מיקום
