@@ -181,6 +181,13 @@ about-processes-site-tab-count =
         [one] ({ $count } fane)
        *[other] ({ $count } faner)
     }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Avbryt utvalg
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Frigjør
 # Bulk-action bar button: reloads every selected tab.
 about-processes-bulk-reload-tabs =
     .label = Oppdater

@@ -276,3 +276,25 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Attīstība: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
+
+## Duration units
+
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = h
+duration-unit-d = d
+
+## Memory units
+
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB

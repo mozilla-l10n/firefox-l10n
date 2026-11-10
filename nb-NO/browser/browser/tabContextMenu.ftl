@@ -163,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Ny gruppe
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Ny gruppe
+tab-context-add-tab-to-group-closed-groups =
+    .label = Lukkede grupper
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -196,6 +200,14 @@ tab-context-move-tabs =
         }
     .accesskey = F
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Flytt til
+           *[other] Flytt { $tabCount } faner til
+        }
+    .accesskey = y
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -207,6 +219,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Flytt delt visning til
     .accesskey = F
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Flytt faner til
+    .accesskey = y
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
