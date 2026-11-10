@@ -1356,11 +1356,11 @@ newtab-report-ads-reason-inappropriate =
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Je l’ai vu trop de fois
 newtab-report-ads-reason-scam =
-    .label = Arnaque ou frauduleux
+    .label = Arnaque ou fraude
 newtab-report-ads-reason-misleading =
     .label = Informations trompeuses ou mensongères
 newtab-report-ads-reason-offensive =
-    .label = Offensant ou inapproprié
+    .label = Choquant ou inapproprié
 newtab-report-content-wrong-category =
     .label = Mauvaise catégorie
 newtab-report-content-outdated =
@@ -1512,7 +1512,7 @@ newtab-widget-section-show-less =
 # Shown in place of a widget's content when the widget could not be loaded.
 # The widget's name is shown and read out separately, just before this message,
 # so this message names no widget.
-newtab-widget-error-not-available = Widget indisponible. Revenez plus tard.
+newtab-widget-error-not-available = Contenu indisponible. Réessayez plus tard.
 newtab-widget-lists-name-default = Liste de tâches
 
 ## Strings introduced by the Nova redesign of the Timer widget

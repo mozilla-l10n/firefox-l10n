@@ -154,7 +154,6 @@ contextual-manager-passwords-remove-all-message-sync =
 contextual-manager-passwords-delete-all-message-sync =
     { $total ->
         [1] Ce mot de passe sera supprimé de { -brand-short-name } sur tous les appareils qui synchronisent vos mots de passe. Cette action est irréversible.
-        [one] Ces mots de passe seront supprimés de { -brand-short-name } sur tous les appareils qui synchronisent vos mots de passe. Cette action est irréversible.
        *[other] Ces mots de passe seront supprimés de { -brand-short-name } sur tous les appareils qui synchronisent vos mots de passe. Cette action est irréversible.
     }
 contextual-manager-passwords-origin-label = Site web
