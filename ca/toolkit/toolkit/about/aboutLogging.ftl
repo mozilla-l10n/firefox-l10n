@@ -15,6 +15,8 @@ about-logging-set-log-file = Defineix el fitxer de registre
 about-logging-set-log-modules = Defineix els mòduls de registre
 about-logging-start-logging = Inicia el registre
 about-logging-stop-logging = Atura el registre
+about-logging-copy-as-url = Copia els paràmetres actuals com a URL
+about-logging-url-copied = Els paràmetres de registre s'han copiat al porta-retalls com a URL predefinit
 about-logging-buttons-disabled = El registre s'ha configurat mitjançant variables d'entorn; la configuració dinàmica no està disponible.
 about-logging-some-elements-disabled = Registre configurat mitjançant URL, algunes opcions de configuració no estan disponibles
 about-logging-info = Informació:
@@ -23,9 +25,20 @@ about-logging-new-log-modules = Mòduls de registre nous:
 about-logging-logging-to-file = Registre en un fitxer
 about-logging-no-log-modules = Cap
 about-logging-no-log-file = Cap
+about-logging-with-profiler-stacks-checkbox = Habilita les traces de pila per als missatges de registre
+about-logging-with-javascript-tracing-checkbox = Habilita les traces de Javascript
+about-logging-menu =
+    .title = Opcions avançades
 
 ## Logging presets
 
+about-logging-preset-networking-label = Xarxa
+about-logging-preset-networking-description = Mòduls de registre per diagnosticar problemes de xarxa
+about-logging-preset-networking-cookie-label = Galetes
+about-logging-preset-networking-cookie-description = Mòduls de registre per diagnosticar problemes amb les galetes
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Mòduls de registre per diagnosticar problemes de WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-webgpu-description = Mòduls de registre per diagnosticar problemes de WebGPU
 about-logging-preset-gfx-label = Gràfics
 about-logging-preset-gfx-description = Mòduls de registre per diagnosticar problemes de gràfics

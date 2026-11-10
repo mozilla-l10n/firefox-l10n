@@ -126,6 +126,9 @@ move-to-end-alt =
 move-to-new-window =
     .label = Mou a una finestra nova
     .accesskey = v
+move-to-new-window-alt =
+    .label = Finestra nova
+    .accesskey = F
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -140,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Tanca les pestanyes duplicades
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Duplica les pestanyes
+    .accesskey = D
 tab-context-close-duplicate-tabs2 =
     .label = Tanca els duplicats d'aquesta pestanya
     .accesskey = x
@@ -156,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grup nou
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = Grup nou
+tab-context-add-tab-to-group-closed-groups =
+    .label = Grups tancats
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -189,6 +200,14 @@ tab-context-move-tabs =
         }
     .accesskey = M
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Mou a
+           *[other] Mou { $tabCount } pestanyes a
+        }
+    .accesskey = M
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -200,6 +219,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Mou la vista dividida a
     .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Mou les pestanyes a
+    .accesskey = M
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
