@@ -293,6 +293,9 @@ newtab-stocks-search-button =
     .aria-label = 搜索名称或代码
     .label = 搜索
     .title = 搜索名称或代码
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = 开始关注您感兴趣的股票
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -544,7 +547,7 @@ newtab-widget-wrexhamafc-menu-view = 视图
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
 
-newtab-widget-wrexhamafc-view-matches = 赛程
+newtab-widget-wrexhamafc-view-matches = 比赛
 newtab-widget-wrexhamafc-view-table = 积分榜
 newtab-widget-wrexhamafc-view-fixtures = 赛程
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.
@@ -766,6 +769,9 @@ newtab-discovery-empty-section-topstories-header = 都读完了！
 newtab-discovery-empty-section-topstories-content = 待会再来看是否有新文章。
 newtab-discovery-empty-section-topstories-try-again-button = 重试
 newtab-discovery-empty-section-topstories-loading = 正在加载…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = 暂时无法获取文章
+newtab-discovery-empty-section-topstories-unavailable-body = 请检查网络连接或稍后再试。
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = 哎呀！无法完全加载此版块。
 
@@ -846,10 +852,24 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = 填字游戏
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = 财经
 newtab-custom-widget-picture-toggle =
     .label = 每日一图
 newtab-custom-widget-search-toggle =
     .label = 搜索
+newtab-custom-widget-horoscopes-toggle =
+    .label = 星座
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = 旅行
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = 纸牌
 newtab-custom-widget-section-title = 小组件
 newtab-custom-widget-section-toggle =
     .label = 小组件
@@ -1076,6 +1096,10 @@ newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 搜索位置
     .placeholder = 搜索位置
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = 建议的位置
 newtab-weather-cancel-input =
     .aria-label = 取消
     .title = 取消
@@ -1381,6 +1405,9 @@ newtab-widget-menu-move-left = 左侧
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = 右侧
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = 小组件
 newtab-widget-size-small = 小
 newtab-widget-size-medium = 中
 newtab-widget-size-large = 大
@@ -1417,6 +1444,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = 折叠小组件
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = 小组件不可用，请稍后再来查看。
 newtab-widget-lists-name-default = 核对清单
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1475,6 +1506,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = 打开填字游戏菜单
     .title = 打开填字游戏菜单
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = 由 Particle 提供
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1778,6 +1812,10 @@ newtab-clock-widget-menu-edit = 编辑时钟
 newtab-clock-widget-menu-switch-to-12h = 切换为 12 小时制
 newtab-clock-widget-menu-switch-to-24h = 切换为 24 小时制
 newtab-clock-widget-label-your-clocks = 您的时钟
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = 返回
+    .title = 返回
 newtab-clock-widget-search-location-input2 =
     .aria-label = 搜索城市
     .placeholder = 搜索城市
