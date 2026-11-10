@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = 视频格式或 MIME 类型不受支持�
 videocontrols-error-no-source = 没有找到支持的视频格式和 MIME 类型。
 videocontrols-error-generic = 视频播放因未知错误中止。
 videocontrols-status-picture-in-picture = 正以画中画模式播放此视频。
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = 正以画中画播放视频。
 # This message shows the current position and total video duration
 #
 # Variables:

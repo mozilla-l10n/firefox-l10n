@@ -29,6 +29,7 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
+-firefox-enterprise-brand-name = Firefox 企业版
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
