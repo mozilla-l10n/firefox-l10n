@@ -254,6 +254,9 @@ newtab-privacy-message-promo-relay-3-cta = 获取马甲邮箱
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week = 本周已拦截 { $count } 个跟踪器，来看看 { -brand-short-name } 的拦截成果。
 newtab-privacy-message-milestone-week-cta = 查看保护信息
 # Variables:
 #   $count (number) - Trackers blocked this month
@@ -1060,10 +1063,18 @@ newtab-wallpaper-firefox-hills-dark = 狐狸奔跑在暗色的山丘上
 newtab-wallpaper-firefox-hills-light = 狐狸奔跑在明亮的山丘上
 newtab-wallpaper-firefox-tail-dark = 深色背景上的狐狸尾巴
 newtab-wallpaper-firefox-tail-light = 浅色背景上的狐狸尾巴
+newtab-wallpaper-firefox-side-kit-dark = 狐狸从深色背景左侧探出脑袋
+newtab-wallpaper-firefox-side-kit-light = 狐狸从浅色背景左侧探出脑袋
 newtab-wallpaper-firefox-sitting-hill-dark = 狐狸坐在深紫色山丘上
 newtab-wallpaper-firefox-sitting-hill-light = 狐狸坐在明亮的山丘上
+newtab-wallpaper-firefox-peak-dark = 深色背景左侧边缘露出狐狸的脸
+newtab-wallpaper-firefox-peak-light = 浅色背景左侧边缘露出狐狸的脸
 newtab-wallpaper-firefox-sky-dark = 夜幕下的深紫色山峦
 newtab-wallpaper-firefox-sky-light = 柔和天空下的明亮山峦
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = 红色背景上的雷克瑟姆队队徽
 
 ## Firefox
 
@@ -1096,6 +1107,10 @@ newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 搜索位置
     .placeholder = 搜索位置
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = 返回
+    .title = 返回
 # Screen reader label for the dropdown below the location search field that
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
@@ -1405,6 +1420,9 @@ newtab-widget-menu-move-left = 左侧
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = 右侧
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = 主页
 # Submenu item under "Move"; moves the widget from Home back to the Widgets
 # space, the New Tab space that holds every widget not pinned to Home.
 newtab-widget-menu-move-to-widgets = 小组件
