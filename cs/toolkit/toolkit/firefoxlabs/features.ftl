@@ -110,3 +110,4 @@ experimental-features-tab-context-menu-description = Zobrazte jednodušší kont
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Správce procesů
+experimental-features-resource-monitor-description = Sledujte odhadované využití paměti a procesoru otevřenými panely přímo v postranní liště a uvolněte nepoužívané panely, abyste šetřili systémové prostředky. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>

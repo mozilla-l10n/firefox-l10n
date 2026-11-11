@@ -44,6 +44,13 @@ download-ui-confirm-quit-button =
     }
 download-ui-confirm-offline-message = { -brand-short-name } se pokusí pokračovat ve stahování, až budete znovu online, ale dosavadní průběh může být ztracen.
 download-ui-confirm-offline-button = Přejít do offline režimu
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Toto stahování nebude možné obnovit.
+        [one] Toto stahování nebude možné obnovit.
+        [few] Tyto stahování nebudou možné obnovit.
+       *[other] Tato stahování nebude možné obnovit.
+    }
 download-ui-confirm-private-browsing-button = Zavřít okno
 
 ##
