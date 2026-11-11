@@ -1879,6 +1879,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Buscar una ciudad
     .placeholder = Buscar una ciudad
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Apodo (opcional)
+    .description =
+        { $count ->
+            [one] { $count } caracter restante
+           *[other] { $count } caracteres restantes
+        }
+    .label = Apodo (opcional)
+    .placeholder = Agregar un apodo
 newtab-clock-widget-search-location-input =
     .aria-label = Buscar una ciudad
     .label = Ubicación
