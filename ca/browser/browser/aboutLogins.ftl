@@ -196,6 +196,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Elimina
        *[other] Elimina-ho tot
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [one] Suprimeix
+       *[other] Suprimeix-les totes
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
