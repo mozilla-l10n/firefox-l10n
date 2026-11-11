@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-psmerr-ssl-disabled = Nevar droši pieslēgties, jo SSL protokols ir deaktivēts.
-psmerr-ssl2-disabled = Nevar droši pieslēgties, jo lapa izmanto vecāku, nedrošu SSL protokola versiju.
+psmerr-ssl-disabled = Nevar izveidot savienojumu drošā veidā, jo SSL protokols ir atspējots.
+psmerr-ssl2-disabled = Nevar izveidot savienojumu drošā veidā, jo vietne izmanto vecāku, nedrošu SSL protokola versiju.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ir saņemts nederīgs sertifikāts.  Lūgums sazināties ar servera pārvaldītāju vai savu e-pasta sarakstes biedru un nododot šādu informāciju:
@@ -110,7 +110,7 @@ ssl-error-insufficient-security-alert = Serveris pieprasa šifrētājus, kas ir 
 ssl-error-internal-error-alert = Partneris ziņo, ka saskāries ar iekšēju kļūdu.
 ssl-error-user-canceled-alert = Partnera lietotājs atcēla sasveicināšanos.
 ssl-error-no-renegotiation-alert = Partneris nepieļauj atkārtu vienošanos par SSL drošības raksturvērtībām.
-ssl-error-server-cache-not-configured = SSL servera kešatmiņa nav konfigurēta un šai pieslēgvietai nav atslēgta.
+ssl-error-server-cache-not-configured = SSL servera kešatmiņa nav konfigurēta un nav atslēgta šai pieslēgvietai.
 ssl-error-unsupported-extension-alert = SSL partneris neatbalsta pieprasīto TLS hello paplašinājumu.
 ssl-error-certificate-unobtainable-alert = SSL partneris nevarēja iegūt jūsu sertifikātu no piedāvātā URL.
 ssl-error-unrecognized-name-alert = SSL partnerim nav sertifikāta pieprasītajam DNS nosaukumam.
@@ -204,7 +204,7 @@ sec-error-need-random = drošības bibliotēka: nepieciešami nejauši dati.
 sec-error-no-module = drošības bibliotēka: neviens no drošības moduļiem nevar veikt pieprasīto darbību.
 sec-error-no-token = Drošības karte vai pilnvara ne-pastāv, tā ir jāinicializē vai tā tika noņemta.
 sec-error-read-only = drošības bibliotēka: tikai nolasīšanai paredzēta datubāze.
-sec-error-no-slot-selected = Nav izvēlēta pieslēgvieta vai marķieris.
+sec-error-no-slot-selected = Nav atlasīta neviena pieslēgvieta vai pilnvara.
 sec-error-cert-nickname-collision = Sertifikāts ar šādu segvārdu jau eksistē.
 sec-error-key-nickname-collision = Atslēga ar šādu segvārdu jau eksistē.
 sec-error-safe-not-created = kļūda veidojot drošo objektu
@@ -239,7 +239,7 @@ sec-error-invalid-password = Ievadītā parole ir nederīga.  Lūdzu izvēlietie
 sec-error-retry-old-password = Vecā parole ievadīta nepareizi. Lūgums mēģināt vēlreiz.
 sec-error-bad-nickname = Sertifikāta segvārds jau tiek izmantots.
 sec-error-not-fortezza-issuer = Partnera FORTEZZA ķēdei ir ne-FORTEZZA sertifikāts.
-sec-error-cannot-move-sensitive-key = Sensitīvo atslēgu nevar pārvietot uz pieslēgvietu, kur tā ir nepieciešama.
+sec-error-cannot-move-sensitive-key = Jūtīgu atslēgu nevar pārvietot uz pieslēgvietu, kur tā ir nepieciešama.
 sec-error-js-invalid-module-name = Nekorekts moduļa nosaukums.
 sec-error-js-invalid-dll = Nekorekts moduļa ceļš/faila nosaukums
 sec-error-js-add-mod-failure = Nevar pievienot moduli
@@ -286,7 +286,7 @@ sec-error-crl-v1-critical-extension = Izdevēja V1 CRL ir ar kritisku paplašin�
 sec-error-crl-unknown-critical-extension = Izdevēja V2 CRL ir ar nezināmu kritisku paplašinājumu.
 sec-error-unknown-object-type = Norādīts nezināms objekta veids.
 sec-error-incompatible-pkcs11 = PKCS #11 dzinis pārkāpj specifikāciju nesavietojamā veidā.
-sec-error-no-event = Šobrīd nav pieejama neviena jauna pieslēgvietu notikuma.
+sec-error-no-event = Šobrīd nav pieejams neviens jauns pieslēgvietu notikums.
 sec-error-crl-already-exists = CRL jau eksistē.
 sec-error-not-initialized = NSS nav inicializēts.
 sec-error-token-not-logged-in = Darbība neizdevās, jo PKCS#11 marķieris nav pieteicies.
@@ -303,7 +303,7 @@ sec-error-bad-info-access-location = Slikta informācijas piekļuves vieta serti
 sec-error-libpkix-internal = Libpkix iekšējā kļūda sertifikāta validācijas procesā
 sec-error-pkcs11-general-error = PKCS #11 modulis atgrieza CKR_GENERAL_ERROR, kas nozīmē, ka notikusi nelabojama kļūda.
 sec-error-pkcs11-function-failed = PKCS #11 modulis atgrieza CKR_FUNCTION_FAILED, kas nozīmē, ka pieprasīto funkciju nevar izpildīt. Mēģina atkārtot funkcijas izpildi, varbūt sanāks.
-sec-error-pkcs11-device-error = PKCS #11 modulis atgrieza CKR_DEVICE_ERROR, kas nozīmē, ka radusies problēma ar marķieri vai pieslēgvietu.
+sec-error-pkcs11-device-error = PKCS #11 modulis atgrieza CKR_DEVICE_ERROR, kas nozīmē, ka radies sarežģījums ar pilnvaru vai pieslēgvietu.
 sec-error-bad-info-access-method = Nezināma informācijas piekļuves vieta sertifikāta paplašinājumā.
 sec-error-crl-import-failed = Kļūda CRL ievietošanas mēģinājumā.
 sec-error-expired-password = Ir beidzies paroles derīgums.

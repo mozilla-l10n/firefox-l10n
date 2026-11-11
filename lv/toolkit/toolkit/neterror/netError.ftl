@@ -211,7 +211,7 @@ certerror-mitm-what-can-you-do-about-it-attack = Ja neesat pazīstams ar <b>{ $m
 certerror-mitm-what-can-you-do-about-it-attack-sts = Ja neesat pazīstams ar <b>{ $mitm } </b>, tad tas varētu būt uzbrukums, un jūs neko nevarat darīt, lai piekļūtu vietnei.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> izmanto drošības politiku, ko sauc HTTP Strict Transport Security (HSTS), kas nozīmē, ka { -brand-short-name } var lapai pieslēgties lapai tikai drošajā režīmā. Jūs nevarat pievienot izņēmumu, lai apmeklētu šo lapu.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ir drošības pamatnostādne, dēvēta par HTTP Strict Transport Security (HSTS), kas nozīmē, ka { -brand-short-name } var pieslēgties vietnei tikai drošā veidā. Nevar pievienot izņēmumu, lai apmeklētu šo vietni.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni.
 certerror-blocked-by-corp-headers-description = Dažreiz tīmekļa vietnes izveido aizsardzību pret nevēlamu mijiedarbību ar citām vietnēm sev un tādiem cilvēkiem kā jūs.
 certerror-coop-learn-more = Uzziniet vairāk par dažādu izcelsmes vietņu atvēršanas politikām (COOP).
