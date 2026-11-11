@@ -441,7 +441,7 @@ ipprotection-bandwidth-reset-button = Sapratu
 
 ## IP Protection add-on breakage warnings
 
-ipp-activator-breakage-sign-in-warning = <strong>Šī vietne var nedarboties ar VPN.</strong> Mēģiniet pierakstīties vai izslēgt VPN, kamēr izmantojat šo vietni.
+ipp-activator-breakage-sign-in-warning = <strong>Šī vietne var nedarboties ar VPN.</strong> Jāmēģina pieteikties vai izslēgt VPN, kamēr izmanto šo vietni.
 ipp-activator-breakage-turn-off-warning = <strong>Šī vietne var nedarboties ar VPN.</strong> Mēģiniet izslēgt VPN, kamēr izmantojat šo vietni.
 
 ## IP Protection alerts

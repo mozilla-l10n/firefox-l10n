@@ -590,7 +590,7 @@ newtab-widget-wrexhamafc-menu-view = Affichage
 ## upcoming scheduled matches.
 
 newtab-widget-wrexhamafc-view-matches = Matchs
-newtab-widget-wrexhamafc-view-table = Tableau
+newtab-widget-wrexhamafc-view-table = Classement
 newtab-widget-wrexhamafc-view-fixtures = Calendrier
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.
 newtab-widget-wrexhamafc-menu-wallpapers = Fonds d’écran
