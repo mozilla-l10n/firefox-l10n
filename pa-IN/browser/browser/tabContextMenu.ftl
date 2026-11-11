@@ -34,19 +34,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = ਖੱਬੇ ਪਾਸੇ ਵਾਲੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
     .accesskey = I
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = ਖੱਬਿਓ ਟੈਬਾਂ
+    .accesskey = l
 close-tabs-to-the-start-vertical =
     .label = ਉੱਪਰਲੀਆਂ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
     .accesskey = I
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = ਟੈਬਾਂ ਉੱਤੇ
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = ਸੱਜੇ ਪਾਸੇ ਵਾਲੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = ਸੱਜਿਓ ਟੈਬਾਂ
+    .accesskey = i
 close-tabs-to-the-end-vertical =
     .label = ਹੇਠਲੀਆਂ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = ਟੈਬਾਂ ਹੇਠਾਂ
+    .accesskey = i
 close-other-tabs =
     .label = ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = ਸਭ ਹੋਰ
     .accesskey = o
 reload-tabs =
     .label = ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ
@@ -85,14 +107,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = ਨਵੇਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = e
+tab-context-open-in-container =
+    .label = ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = e
 move-to-start =
     .label = ਸ਼ੁਰੂ 'ਤੇ ਭੇਜੋ
+    .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = ਸ਼ੁਰੂ
     .accesskey = S
 move-to-end =
     .label = ਅੰਤ 'ਤੇ ਭੇਜੋ
     .accesskey = E
+move-to-end-alt =
+    .label = ਅੰਤ
+    .accesskey = E
 move-to-new-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਭੇਜੋ
+    .accesskey = W
+move-to-new-window-alt =
+    .label = ਨਵੀਂ ਵਿੰਡੋ
     .accesskey = W
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -108,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ
+    .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = ਇਸ ਟੈਬ ਦੀਆਂ ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਕਰੋ
     .accesskey = x
@@ -124,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = ਨਵਾਂ ਗਰੁੱਪ
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = ਨਵਾਂ ਗਰੁੱਪ
+tab-context-add-tab-to-group-closed-groups =
+    .label = ਗਰੁੱਪ ਬੰਦ ਕੀਤੇ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -158,6 +201,14 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] ਇੱਥੇ ਭੇਜੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਭੇਜੋ
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -168,6 +219,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = ਵੰਡੀ ਹੋਈ ਝਲਕ ਵਿੱਚ ਭੇਜੋ
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = ਟੈਬਾਂ ਨੂੰ ਭੇਜੋ
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

@@ -314,6 +314,8 @@ release-notes-addon-button = ਰੀਲੀਜ਼ ਨੋਟਸ
 permissions-addon-button = ਇਜਾਜ਼ਤਾਂ
 extension-enabled-heading = ਸਮਰੱਥ ਹੈ
 extension-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+theme-enabled-heading2 =
+    .heading = ਸਰਗਰਮ ਥੀਮ
 theme-disabled-heading3 =
     .heading = ਸੰਭਾਲੇ ਥੀਮ
 theme-enabled-heading = ਸਮਰੱਥ ਹੈ
@@ -595,6 +597,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name } ਥੀਮ
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = ਕਲਾਸਿਕ ਥੀਮ
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = ਹੋਰ ਵੇਖਾਓ
 aboutaddons-themes-picker-see-less = ਘੱਟ ਵੇਖਾਓ

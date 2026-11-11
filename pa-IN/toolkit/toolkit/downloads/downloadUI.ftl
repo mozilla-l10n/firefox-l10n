@@ -39,6 +39,14 @@ download-ui-cancel-downloads-ok =
         [1] 1 ਡਾਊਨਲੋਡ ਰੱਦ ਕਰੋ
        *[other] { $downloadsCount } ਡਾਊਨਲੋਡ ਰੱਦ ਕਰੋ
     }
+download-ui-confirm-cancel-button = ਰੱਦ ਕਰੋ
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ਤੋਂ ਬਾਰਰ ਜਾਓ
+       *[other] { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰੋ
+    }
+download-ui-confirm-offline-button = ਆਫ਼ਲਾਈਨ ਜਾਓ
+download-ui-confirm-private-browsing-button = ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ
 
 ##
 

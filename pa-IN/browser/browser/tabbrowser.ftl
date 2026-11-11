@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = ਵੰਡ ਝਲਕ ਟੈਬਾਂ ਦਾ ਆਕਾਰ ਬਦਲੋ
 tab-devtools-splitter =
     .aria-label = ਡਿਵੈਲਪਰ ਟੂਲ ਪੈਨਲ ਦਾ ਆਕਾਰ ਬਦਲੋ
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = ਟੈਬਾਂ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -279,6 +284,13 @@ tab-context-move-tab-to-new-group =
            *[other] ਟੈਬਾਂ ਨੂੰ ਨਵੇਂ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
         }
     .accesskey = ਟ
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] ਗਰੁੱਪ ਵਿਚ ਜੋੜੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -448,6 +460,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = ਵੰਡੀ ਹੋਈ ਝਲਕ ਵਿੱਚ ਵੱਖਰਾ ਕਰੋ
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = ਟੈਬਾਂ ਨੂੰ ਵੱਖ ਕਰੋ
     .accesskey = t
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
