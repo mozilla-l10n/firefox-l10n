@@ -952,6 +952,14 @@ urlbar-view-context-menu-open-in-window2 = 新建窗口打开
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = 新建隐私窗口打开
     .accesskey = P
+urlbar-view-context-menu-search-in-tab = 新建新标签页搜索
+    .accesskey = w
+urlbar-view-context-menu-search-in-container-tab = 新建身份标签页搜索
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = 新建窗口搜索
+    .accesskey = N
+urlbar-view-context-menu-search-in-private-window = 新建隐私窗口搜索
+    .accesskey = P
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
@@ -1423,6 +1431,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = 确定要清除数据并开始新的隐私浏览吗？
+reset-pbm-panel-description3 = 这将清除历史记录和 Cookie，并退出网站登录。隐私窗口将关闭，同时开始新的隐私浏览。
 reset-pbm-panel-description2 = 这将删除历史记录、Cookie 以及其他所有网站数据，但不关闭隐私窗口。
 reset-pbm-panel-always-ask-checkbox =
     .label = 总是询问
@@ -1445,6 +1454,8 @@ fire-button-toolbar-button =
     .label = 删除部分或所有浏览数据
     .tooltiptext = 删除部分或所有浏览数据
 fire-button-panel-heading = 确定要删除所有浏览数据吗？
+fire-button-panel-description = 这将删除历史记录、Cookie 和网站数据，并退出网站登录。本窗口将关闭，然后 { -brand-short-name } 会打开新窗口。
+fire-button-panel-choose-description = 若不想全部删除，也可选择要删除的数据。
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.
