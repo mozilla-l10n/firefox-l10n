@@ -164,7 +164,7 @@ appmenu-fxa-signed-in-label = Pieteikties
 # update banner is present, prompting the user to sign in and sync. The user can
 # dismiss it, after which the compact sign-in row is shown in its place.
 appmenu-fxa-sign-in-promo-heading2 = Vienādojiet savus datus visur
-appmenu-fxa-sign-in-promo-link = Pierakstīties
+appmenu-fxa-sign-in-promo-link = Pieteikties
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Noraidīt pierakstīšanās reklāmu
     .title = Noraidīt
@@ -284,7 +284,7 @@ appmenu-search-history =
 
 appmenu-sync-promo-signin =
     .heading = Sinhronizācija dažādās ierīcēs
-appmenu-sync-promo-signin-cta = Pierakstīties
+appmenu-sync-promo-signin-cta = Pieteikties
 appmenu-sync-promo-turnonsync =
     .heading = Sinhronizējiet savas cilnes un vēsturi
 appmenu-sync-promo-turnonsync-cta = Ieslēgt vienādošanu

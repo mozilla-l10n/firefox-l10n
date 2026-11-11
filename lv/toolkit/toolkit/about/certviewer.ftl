@@ -15,7 +15,7 @@ certificate-viewer-algorithm = Algoritms
 certificate-viewer-certificate-authority = Sertifikācijas iestāde
 certificate-viewer-cipher-suite = Šifru komplekts
 certificate-viewer-common-name = Parastais nosaukums
-certificate-viewer-email-address = Epasta adrese
+certificate-viewer-email-address = E-pasta adrese
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Sertifikāts lietotājam { $firstCertName }

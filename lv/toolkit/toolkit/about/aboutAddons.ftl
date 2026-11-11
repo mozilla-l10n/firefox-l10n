@@ -283,7 +283,7 @@ install-theme-button = Instalēt motīvu
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Pārvaldīt
-find-more-addons = Atrast citus papildinājumus
+find-more-addons = Atrast vairāk papildinājumu
 find-more-themes = Atrast vairāk motīvus
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
@@ -463,7 +463,7 @@ updates-heading = Pārvaldiet savus atjauninājumus
 sitepermission-heading = Pārvaldiet savas vietnes atļaujas
 discover-heading = Personalizējiet savu { -brand-short-name }
 shortcuts-heading = Pārvaldīt paplašinājumu saīsnes
-default-heading-search-label = Atrast citus papildinājumus
+default-heading-search-label = Atrast vairāk papildinājumu
 addons-heading-search-input =
     .placeholder = Meklēt addons.mozilla.org
 addons-heading-search-button =
