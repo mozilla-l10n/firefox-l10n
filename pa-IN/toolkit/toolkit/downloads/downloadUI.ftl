@@ -40,12 +40,42 @@ download-ui-cancel-downloads-ok =
        *[other] { $downloadsCount } ਡਾਊਨਲੋਡ ਰੱਦ ਕਰੋ
     }
 download-ui-confirm-cancel-button = ਰੱਦ ਕਰੋ
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] 1 ਡਾਊਨਲੋਡ ਨੂੰ ਰੋਕ ਕੇ { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+               *[other] { $downloadsCount } ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਰੋਕ ਕੇ { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] 1 ਡਾਊਨਲੋਡ ਨੂੰ ਰੋਕ ਕੇ { -brand-short-name } ਵਿੱਚੋਂ ਬਾਹਰ ਜਾਣਾ ਹੈ?
+               *[other] { $downloadsCount } ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਰੋਕ ਕੇ { -brand-short-name } ਵਿੱਚੋਂ ਬਾਹਰ ਜਾਣਾ ਹੈ?
+            }
+    }
+download-ui-confirm-quit-message = ਜਦੋਂ ਤੁਸੀਂ ਵਾਪਸ ਖੋਲ੍ਹਿਆ ਤਾਂ { -brand-short-name } ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੇਗਾ, ਪਰ ਕੀਤੇ ਗਏ ਡਾਊਨਲੋਡ ਖ਼ਤਮ ਹੋ ਸਕਦੇ ਹਨ।
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] { -brand-short-name } ਤੋਂ ਬਾਰਰ ਜਾਓ
        *[other] { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰੋ
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] 1 ਡਾਊਨਲੋਡ ਨੂੰ ਰੋਕ ਕੇ ਆਫ਼ਲਾਈਨ ਜਾਣਾ ਹੈ?
+       *[other] { $downloadsCount } ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਰੋਕ ਕੇ ਆਫ਼ਲਾਈਨ ਜਾਣਾ ਹੈ?
+    }
+download-ui-confirm-offline-message = ਜਦੋਂ ਤੁਸੀਂ ਵਾਪਸ ਆਨਲਾਈਨ ਹੋਏ ਤਾਂ { -brand-short-name } ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੇਗਾ, ਪਰ ਕੀਤੇ ਗਏ ਡਾਊਨਲੋਡ ਖ਼ਤਮ ਹੋ ਸਕਦੇ ਹਨ।
 download-ui-confirm-offline-button = ਆਫ਼ਲਾਈਨ ਜਾਓ
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] 1 ਡਾਊਨਲੋਡ ਨੂੰ ਰੋਕ ਕੇ ਇਸ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+       *[other] { $downloadsCount } ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਰੋਕ ਕੇ ਇਸ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] ਤੁਸੀਂ ਇਸ ਡਾਊਨਲੋਡ ਨੂੰ ਵਾਪਸ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੋਗੇ।
+       *[other] ਤੁਸੀਂ ਇਹਨਾਂ ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਵਾਪਸ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੋਗੇ।
+    }
 download-ui-confirm-private-browsing-button = ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ
 
 ##
