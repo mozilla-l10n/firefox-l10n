@@ -312,6 +312,8 @@ release-notes-addon-button = 发行说明
 permissions-addon-button = 权限
 extension-enabled-heading = 已启用
 extension-disabled-heading = 已禁用
+theme-enabled-heading2 =
+    .heading = 启用的主题
 theme-disabled-heading3 =
     .heading = 保存的主题
 theme-enabled-heading = 已启用
@@ -518,6 +520,7 @@ mlmodel-pdfjs = { -brand-short-name } 使用此模型为您添加到 PDF 的图�
 mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此模型建议标签页群组名称
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此模型为标签页群组建议标签页
 mlmodel-formfill-engine = { -brand-short-name } 使用此模型帮助填写地址表单
+mlmodel-speech-recognition = { -brand-short-name } 使用此模型在设备端进行语音识别
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = 端侧 AI
 addon-category-mlmodel-title =
@@ -579,9 +582,17 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = 跟随设备
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = 外观
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name } 主题
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = 经典主题
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = 展开
 aboutaddons-themes-picker-see-less = 折叠
