@@ -1170,6 +1170,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
     .title = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = ਹੁਣ ਤੁਹਾਡੀਆਂ ਸਿੰਕ ਕਰਨ ਸੰਬੰਧੀ ਚੋਣਾਂ ਸਿਰਫ਼ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹੀ ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ।
 
 ## The list of things currently syncing.
 
@@ -1207,6 +1210,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = ਅਤੀਤ
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .tooltiptext = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .accesskey = t
 sync-engine-tabs =
     .label = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
     .tooltiptext = ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਉੱਪਰ ਕੀ ਕੀ ਖੁੱਲ੍ਹਿਆ ਹੈ, ਉਸਦੀ ਸੂਚੀ
