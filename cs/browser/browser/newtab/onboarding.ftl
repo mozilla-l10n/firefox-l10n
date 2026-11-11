@@ -886,15 +886,42 @@ welcome-back-onboarding-card-tilebutton-label = Vyzkoušet
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavte si { -brand-short-name(case: "acc") } během několika sekund
+       *[no-cases] Nastavte si aplikaci { -brand-short-name } během několika sekund
+    }
 hnt-card-import-body = Přeneste si své záložky, hesla a další data z jiného prohlížeče.
 hnt-card-import-primary-button = Import vašich dat
 hnt-card-default-body = { -brand-product-name } je jediný z velkých prohlížečů, který vás chrání, místo aby vás sledoval.
+hnt-card-default-primary-button =
+    { -brand-short-name.case-status ->
+        [with-cases] Otevírat odkazy ve { -brand-short-name(case: "gen") }
+       *[no-cases] Otevírat odkazy v aplikaci { -brand-short-name }
+    }
+hnt-card-pin-header = Mějte { -brand-short-name } vždy po ruce
 hnt-card-mobile-header = Chraňte svůj telefon pomocí integrované ochrany
+hnt-card-mobile-body =
+    { -brand-product-name.case-status ->
+        [with-cases] Stáhněte si mobilní verzi { -brand-product-name(case: "gen") } a chraňte své soukromí i na cestách.
+       *[no-cases] Stáhněte si mobilní verzi aplikace { -brand-product-name } a chraňte své soukromí i na cestách.
+    }
+hnt-card-mobile-primary-button =
+    { -brand-product-name.case-status ->
+        [with-cases] Získat { -brand-product-name(case: "acc") } do mobilu.
+       *[no-cases] Získat aplikaci { -brand-product-name } do mobilu.
+    }
 hnt-card-wallpaper-header = Zvolte si novou tapetu
 hnt-card-wallpaper-body = Vyberte si oblíbené pozadí a ciťte se na této obrazovce jako doma.
 hnt-card-wallpaper-primary-button = Začít s přizpůsobováním
 hnt-card-taskbar-tabs-header = Připněte si oblíbené stránky na hlavní panel Windows
 hnt-card-taskbar-tabs-primary-button = Přidat stránky na hlavní panel
+hnt-card-extensions-header =
+    { -brand-short-name.case-status ->
+        [with-cases] Rozšiřte možnosti { -brand-short-name(case: "gen") } pomocí rozšíření
+       *[no-cases] Rozšiřte možnosti aplikace { -brand-short-name } pomocí rozšíření
+    }
+hnt-card-extensions-body = Přizpůsobte si prohlížení s našimi nejoblíbenějšími rozšířeními.
 hnt-card-extensions-primary-button = Prozkoumat
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.

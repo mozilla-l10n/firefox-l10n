@@ -1280,6 +1280,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Probíhá synchronizace…
     .title = Synchronizovat
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Vaše volby synchronizace nyní platí pouze pro toto zařízení.
 
 ## The list of things currently syncing.
 
@@ -1342,6 +1345,10 @@ sync-engine-addons2 =
     .label = Doplňky
     .tooltiptext = Rozšíření a vzhledy, které jste přidali do aplikace { -brand-short-name } pro počítač
     .accesskey = D
+sync-engine-settings2 =
+    .label = Nastavení
+    .tooltiptext = Nastavení { -brand-short-name(case: "gen") } (pokud je relevantní)
+    .accesskey = N
 sync-engine-addresses =
     .label = Adresy
     .tooltiptext = Uložené poštovní adresy (pouze na počítači)

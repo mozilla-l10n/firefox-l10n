@@ -1425,6 +1425,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Je to nevhodné
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Už jsem to viděl(a) mockrát
+newtab-report-ads-reason-scam =
+    .label = Klamavá nebo podvodná
+newtab-report-ads-reason-misleading =
+    .label = Klamavá nebo nepravdivá tvrzení
+newtab-report-ads-reason-offensive =
+    .label = Pohoršující nebo nevhodné
 newtab-report-content-wrong-category =
     .label = Špatná kategorie
 newtab-report-content-outdated =
@@ -1986,6 +1992,22 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Vyhledat město
     .placeholder = Vyhledat město
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Vlastní název (volitelné)
+    .description =
+        { $count ->
+            [one] Zbývá { $count } znak
+            [few] Zbývá { $count } znaky
+           *[other] Zbývá { $count } znaků
+        }
+    .label = Vlastní název (volitelné)
+    .placeholder = Přidat vlastní název
 newtab-clock-widget-search-location-input =
     .aria-label = Vyhledat město
     .label = Umístění
