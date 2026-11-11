@@ -93,7 +93,6 @@ genai-shortcut-button =
     .aria-label = Հարցրեք { $provider }-ին
 genai-menu-new-badge = Նոր
 genai-menu-summarize-page = Ամփոփել էջը
-genai-menu-summarize-with-ai = { "" }
 genai-input-ask-smart-window =
     .placeholder = Հարցնել…
 genai-input-ask-generic =
