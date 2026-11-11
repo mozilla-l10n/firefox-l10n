@@ -18,6 +18,8 @@ about-processes-shutdown-tab =
     .title = Zavrieť kartu
 about-processes-unload-tab =
     .title = Uvoľniť kartu
+about-processes-reload-tab =
+    .title = Obnoviť kartu
 about-processes-select-all-tabs =
     .title = Vybrať všetky karty
 # A site is the set of open tabs on one domain, e.g. example.com and its
@@ -166,6 +168,15 @@ about-processes-tab-count =
         [one] { $count } karta
         [few] { $count } karty
        *[other] { $count } kariet
+    }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] Počet vybraných kariet: { $count }
+        [few] Počet vybraných kariet: { $count }
+       *[other] Počet vybraných kariet: { $count }
     }
 # Shown next to a site’s label in a group header row.
 # Variables:

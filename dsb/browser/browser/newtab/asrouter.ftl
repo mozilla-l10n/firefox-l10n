@@ -130,7 +130,7 @@ cfr-doorhanger-video-support-primary-button = Něnto aktualizěrowaś
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Zda se, až zjawny WLAN wužywaśo
-spotlight-public-wifi-vpn-body = Aby swóje stojnišćo a pśeglědowańsku aktiwitu schował a, rozwažćo wirtuelnu priwatnu seś (VPN). Buźo wam pomagaś, was šćitaś, gaž na zjawnych městnach ako na pśikład na lětanišćach a w kafejownjach pśeglědujośo.
+spotlight-public-wifi-vpn-body = Aby swóje stojnišćo a pśeglědowańsku aktiwitu schował, rozwažćo wirtuelnu priwatnu seś (VPN). Buźo wam pomagaś, was šćitaś, gaž na zjawnych městnach ako na pśikład na lětanišćach a w kafejownjach pśeglědujośo.
 spotlight-public-wifi-vpn-primary-button = Šćitajśo swóju priwatnosć z { -mozilla-vpn-brand-name }
     .accesskey = t
 spotlight-public-wifi-vpn-link = Nic něnto

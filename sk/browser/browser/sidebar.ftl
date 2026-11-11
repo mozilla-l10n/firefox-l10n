@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Pridať stránku medzi záložky…
 sidebar-history-context-menu-delete-pages =
     .label = Odstrániť stránky z histórie
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Odstrániť
 
 ## Labels for sidebar bookmarks context menu items
 
