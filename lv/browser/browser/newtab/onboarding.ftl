@@ -137,7 +137,7 @@ fx100-thank-you-hero-text =
     100
     Paldies
     <span data-l10n-name="zap">Jumsim</span>
-fx100-thank-you-subtitle = Šis ir mūsu 100. laidiens! Paldies, ka palīdzat mums izveidot labāku un veselīgāku internetu.
+fx100-thank-you-subtitle = Šis ir mūsu 100. laidiens. Paldies, ka palīdzi mums izveidot labāku un veselīgāku internetu!
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Paturēt { -brand-short-name } dokā
@@ -643,7 +643,7 @@ hnt-card-mobile-body = Lejupielādē { -brand-product-name } mobilajām ierīcē
 hnt-card-mobile-primary-button = Iegūsti { -brand-product-name } mobilajām ierīcēm!
 hnt-card-wallpaper-header = Izvēlies svaigu ekrāntapeti
 hnt-card-wallpaper-body = Padari šo skatu mājīgu ar fonu, kas Tev patīk!
-hnt-card-wallpaper-primary-button = Sāc pielāgošanu
+hnt-card-wallpaper-primary-button = Sākt pielāgošanu
 hnt-card-taskbar-tabs-header = Pievieno savas iecienītākās vietnes Windows uzdevumjoslai
 hnt-card-taskbar-tabs-body = Atver visbiežāk apmeklētās vietnes kā lietotni ar visiem { -brand-product-name } aizsardzības līdzekļiem!
 hnt-card-taskbar-tabs-primary-button = Pievienot vietnes uzdevumjoslai

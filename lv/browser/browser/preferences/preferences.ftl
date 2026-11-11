@@ -2253,7 +2253,7 @@ preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Liegšana nozīmē, ka { -brand-short-name } neredzēsi jaunus vai pašreizējus MI uzlabojumus, kā arī uznirstošos logus par tiem. <a data-l10n-name="link">Iegūsti vairāk informācijas</a> par iekļauto un to, kā pārvaldīt tradicionālās mašīnmācīšanās iespējas, piemēram, meklēšanas ieteikumus un ierosinājumus!
 preferences-ai-controls-blocked-message =
-    .message = Jauni un pašreizējie MI uzlabojumi pēc noklusējuma ir bloķēti. Lai atbloķētu konkrētu funkciju, izmantojiet tālāk norādītās vadīklas.
+    .message = Jauni un pašreizējie MI uzlabojumi pēc noklusējuma ir liegti. Lai atļautu noteiktu iespēju, jāizmanto zemāk esošās vadīklas.
 preferences-ai-controls-on-device-group =
     .description = Tie izmanto mazus mākslīgā intelekta modeļus, kas tiek lejupielādēti jūsu ierīcē, ja izmantojat šo funkciju. Šī pieeja palīdz aizsargāt jūsu privātumu.
     .label = Ierīcē iebūvētais MI
@@ -2319,15 +2319,15 @@ security-privacy-status-problem-header = { -brand-short-name } iesaka dažus dro
 security-privacy-status-ok-label = Uzlabotā izsekošanas aizsardzība ir ieslēgta
 security-privacy-status-problem-label = Mēs atradām iestatījumus, kas ietekmē jūsu aizsardzību
 security-privacy-status-problem-helper-label = Skatīt problēmas
-security-privacy-status-pending-trackers-label = Meklēju, cik izsekotāju { -brand-short-name } ir bloķēti pēdējā mēneša laikā
+security-privacy-status-pending-trackers-label = Uzmeklē, cik izsekotāju { -brand-short-name } ir aizturēti pēdējā mēneša laikā
 # This label tells the user how many trackers we have blocked for them.
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label =
     { $trackerCount ->
         [one] { $trackerCount } izsekotājs ir liegts pēdējā mēneša laikā
-        [zero] { $trackerCount } izsekotāji bloķēti pēdējā mēneša laikā
-       *[other] { $trackerCount } izsekotāji bloķēti pēdējā mēneša laikā
+        [zero] { $trackerCount } izsekotāju ir liegti pēdējā mēneša laikā
+       *[other] { $trackerCount } izsekotāji ir liegti pēdējā mēneša laikā
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Jums ir <a data-l10n-name="strict-tracking-protection">stingra aizsardzība</a>
@@ -2440,8 +2440,8 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 ## Warnings section
 
 security-privacy-issue-warning-fingerprinters =
-    .description = Tas var ļaut dažiem izsekotājiem sekot jums bez sīkdatnēm.
-    .label = Zināmi pirkstu nospiedumu sensori nav bloķēti
+    .description = Tas var ļaut dažiem izsekotājiem sekot Tev bez sīkdatnēm.
+    .label = Nav liegti zināmi lietotāju nosakošu datu vācēji
 security-privacy-issue-warning-third-party-cookies =
     .description = Trešo pušu sīkdatnes tiek izmantoti, lai izsekotu jūs dažādās tīmekļa vietnēs.
     .label = Trešo pušu sīkdatnes ir iespējoti
@@ -2449,8 +2449,8 @@ security-privacy-issue-warning-password-manager =
     .description = Paroļu pārvaldnieki palīdz saglabāt spēcīgas paroles jūsu kontiem.
     .label = Paroļu pārvaldnieks ir atspējots
 security-privacy-issue-warning-popup-blocker =
-    .description = Uznirstošie logi ir traucējoši un potenciāli kaitīgi.
-    .label = Uznirstošo logu bloķētājs ir atspējots
+    .description = Uznirstošie logi ir traucējoši un iespējami kaitīgi.
+    .label = Uznirstošo logu aizturētājs ir atspējots
 security-privacy-issue-warning-extension-install =
     .description = Tīmekļa vietnes var instalēt paplašinājumus vietnei { -brand-short-name }, neprasot to.
     .label = Tīmekļa vietnes var instalēt paplašinājumus
