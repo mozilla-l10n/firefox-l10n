@@ -644,6 +644,24 @@ welcome-back-onboarding-card-tilebutton-label = ਅਜ਼ਮਾਓ
 hnt-card-import-header = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਸਕਿੰਟਾਂ ਵਿੱਚ ਤਿਆਰ ਕਰੋ
 hnt-card-import-body = ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਜਾਂ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਲਿਆਓ।
 hnt-card-import-primary-button = ਡਾਟੇ ਨੂੰ ਦਰਾਮਦ ਕਰੋ
+hnt-card-default-body = { -brand-product-name } ਹੀ ਇੱਕ ਪ੍ਰਮੁੱਖ ਬਰਾਊਜ਼ਰ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਬਣਾਇਆ ਗਿਆ, ਤੁਹਾਡੀ ਟੋਹ ਲੈਣ ਲਈ ਨਹੀਂ।
+hnt-card-default-primary-button = ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
+hnt-card-pin-header = { -brand-short-name } ਨੂੰ ਕਲਿੱਕ ਜਿੰਨਾ ਆਪਣੇ ਕੋਲ ਰੱਖੋ
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] ਆਪਣੇ ਡੌਕ ਤੋਂ ਸੁਰੱਖਿਅਤ ਹੋਈ ਬਰਾਊਜ਼ਿੰਗ ਉੱਤੇ ਵਾਪਸ ਜਾਓ।
+       *[other] ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਤੋਂ ਸੁਰੱਖਿਅਤ ਹੋਈ ਬਰਾਊਜ਼ਿੰਗ ਉੱਤੇ ਵਾਪਸ ਜਾਓ।
+    }
+hnt-card-mobile-header = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਵਿਚੇ ਮੌਜੂਦ ਸੁਰੱਖਿਆ ਲਵੋ
+hnt-card-mobile-body = ਹਰ ਵੇਲੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਲਈ ਮੋਬਾਈਲ ਵਾਸਤੇ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰੋ।
+hnt-card-mobile-primary-button = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਵੋ।
+hnt-card-wallpaper-header = ਕੋਈ ਨਵਾਂ ਵਾਲਪੇਪਰ ਚੁਣੋ
+hnt-card-wallpaper-body = ਇਸ ਸਕਰੀਨ ਨੂੰ ਤੁਹਾਨੂੰ ਚੰਗੀ ਲੱਗਦੀ ਬੈਕਗਰਾਊਂਡ ਨਾਲ ਆਪਣੀ ਮਨਪਸੰਦ ਬਣਾਓ।
+hnt-card-wallpaper-primary-button = ਪਸੰਦੀਦਾ ਬਣਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ
+hnt-card-taskbar-tabs-header = ਆਪਣੀ Windows ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਜੋੜੋ
+hnt-card-taskbar-tabs-primary-button = ਸਾਈਟਾਂ ਨੂੰ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਜੋੜੋ
+hnt-card-extensions-header = { -brand-short-name } ਨੂੰ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਵਧੀਆ ਬਣਾਓ
+hnt-card-extensions-body = ਸਾਡੀਆਂ ਸਭ ਤੋਂ ਪਸੰਦ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਮਨਪਸੰਦ ਬਣਾਓ।
 hnt-card-extensions-primary-button = ਪੜਚੋਲ
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
