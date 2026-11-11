@@ -65,7 +65,7 @@ firefoxview-tabpickup-password-locked-description-2 = Jūsu privātuma labad sin
 firefoxview-tabpickup-signed-out-header = Piesakies, lai atkal savienotos
 firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un piekļūtu savām cilnēm, jāpiesakās savā kontā.
 firefoxview-tabpickup-signed-out-primarybutton = Pieteikties
-firefoxview-tabpickup-signed-out-header-2 = Piesakieties, lai skatītu savas cilnes
+firefoxview-tabpickup-signed-out-header-2 = Jāpiesakās, lai apskatītu savas cilnes
 firefoxview-tabpickup-signed-out-description-2 = Lai skatītu cilnes citās ierīcēs, atkārtoti izveidojiet savienojumu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
