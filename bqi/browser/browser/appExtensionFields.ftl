@@ -71,6 +71,8 @@ extension-classic-green-name = ساوز
 extension-classic-purple-name = بناوش
 # Name for a pink theme.
 extension-classic-pink-name = آل
+# Name for a yellow theme.
+extension-classic-yellow-name = هیل
 # Name for a red theme.
 extension-classic-red-name = سوئر
 # Name for an orange theme.
