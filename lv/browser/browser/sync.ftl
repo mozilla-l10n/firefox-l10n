@@ -114,7 +114,7 @@ sync-account-in-use-header = Konts jau tiek lietots
 sync-account-in-use-header-merge = { $acctEmail } jau ir pierakstījies profilā “{ $otherProfile }”.
 sync-account-in-use-description = Šo kontu var saistīt tikai ar vienu profilu šajā datorā.
 # Dialog 2 - account signed in on another profile with merge option
-sync-account-already-signed-in-header = Šis konts ir pierakstīts citā profilā. Vai vienādot abus profilus?
+sync-account-already-signed-in-header = Ar šo kontu ir veikta pieteikšanās citā profilā. Vai vienādot abus profilus?
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $currentProfile (String): Name of the current profile signing in
