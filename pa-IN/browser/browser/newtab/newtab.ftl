@@ -576,9 +576,9 @@ newtab-solitaire-menu-learn-more = ਹੋਰ ਜਾਣੋ
 # Customize panel toggle, and .menu-label the screen reader label of the
 # button that opens its menu.
 newtab-custom-widget-wrexhamafc =
-    .label = Wrexham AFC
-    .menu-label = Wrexham AFC ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
-    .title = Wrexham AFC
+    .label = ਰੈਕਸਹੈਮ AFC
+    .menu-label = ਰੈਕਸਹੈਮ AFC ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਰੈਕਸਹੈਮ AFC
 # Menu item opening a submenu that switches what the widget shows. “View” is a
 # noun here, as in “the view the widget shows”.
 newtab-widget-wrexhamafc-menu-view = ਵੇਖੋ
@@ -591,6 +591,7 @@ newtab-widget-wrexhamafc-menu-view = ਵੇਖੋ
 
 newtab-widget-wrexhamafc-view-matches = ਮੇਲ
 newtab-widget-wrexhamafc-view-table = ਟੇਬਲ
+newtab-widget-wrexhamafc-view-fixtures = ਫਿਕਸਚਰ
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.
 newtab-widget-wrexhamafc-menu-wallpapers = ਵਾਲਪੇਪਰ
 
@@ -1110,6 +1111,10 @@ newtab-wallpaper-firefox-peak-dark = ਗੂੜ੍ਹੇ ਬੈਕਗਰਾਊਂ
 newtab-wallpaper-firefox-peak-light = ਹਲਕੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ, ਖੱਬੇ ਕੋਨੇ ਉੱਤੇ ਕਿਸੇ ਲੂੰਬੜ ਦਾ ਮੂੰਹ
 newtab-wallpaper-firefox-sky-dark = ਰਾਤ ਦੇ ਅਸਮਾਨ ਹੇਠਾਂ ਗੂੜ੍ਹੀਆਂ ਜਾਮਨੀ ਪਹਾੜੀਆਂ
 newtab-wallpaper-firefox-sky-light = ਨਰਮ ਅਸਮਾਨ ਦੇ ਹੇਠਾਂ ਚਾਨਣੀਆਂ ਪਹਾੜੀਆਂ
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = ਲਾਲ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ ਰੈਕਸਹੈਮ AFC ਕਰੈਸਟ
 
 ## Firefox
 

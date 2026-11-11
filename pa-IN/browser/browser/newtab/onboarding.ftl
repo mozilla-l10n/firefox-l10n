@@ -644,3 +644,8 @@ welcome-back-onboarding-card-tilebutton-label = ਅਜ਼ਮਾਓ
 hnt-card-import-header = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਸਕਿੰਟਾਂ ਵਿੱਚ ਤਿਆਰ ਕਰੋ
 hnt-card-import-body = ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਜਾਂ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਲਿਆਓ।
 hnt-card-import-primary-button = ਡਾਟੇ ਨੂੰ ਦਰਾਮਦ ਕਰੋ
+hnt-card-extensions-primary-button = ਪੜਚੋਲ
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = ਸਭ ਤਿਆਰ ਹੈ। ਜਾਓ ਤੇ ਆਪਣਾ ਕੰਮ ਕਰੋ।
+hnt-card-last-card-header-end = ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਚਾਲੂ ਹੈ।

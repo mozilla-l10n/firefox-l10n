@@ -6,6 +6,8 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-sign-in-2 =
+    .label = Впишете се, за да споделите
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =

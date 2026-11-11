@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Налично е издание – несъвместима система
 appmenuitem-banner-update-restart =
     .label = Налично е издание – рестартирайте
+appmenu-nova-fxa-sign-in = Вписване
 appmenu-nova-switch-device-promo =
     .message = Скоро ще имате ново устройство? Вземете { -brand-short-name } със себе си!
 appmenu-nova-switch-device-link = Как да прехвърлите данните си
@@ -105,6 +106,9 @@ appmenu-remote-tabs-unverified = Профилът ви трябва да бъд�
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране сега
 appmenuitem-fxa-sign-in = Вписване в { -brand-product-name }
 appmenuitem-fxa-manage-account = Управление на профил
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Впишете се, за да синхронизирате
 fxa-menu-manage-devices =
     .label = Управлявайте устройствата си
 appmenu-account-header = Профил
@@ -115,6 +119,7 @@ appmenu-fxa-last-sync = Последна синхронизация { $time }
     .label = Последна синхронизация { $time }
 appmenu-fxa-sync-and-save-data2 = Синхронизиране и запазване на данни
 appmenu-fxa-signed-in-label = Вход
+appmenu-fxa-sign-in-promo-link = Вписване
 appmenu-fxa-setup-sync =
     .label = Включване синхронизиране
 appmenu-fxa-setup-sync-new = Включване
@@ -220,6 +225,13 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Търсене в историята
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Вписване
 
 ## Help panel
 
