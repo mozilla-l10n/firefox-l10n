@@ -99,6 +99,7 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-saved-passwords-window =
     .style = { permissions-window2.style }
     .title = Изключения - Запазени пароли
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } няма да запазва пароли за сайтове, изброени тук.
 
 ## Exceptions - Add-ons
 

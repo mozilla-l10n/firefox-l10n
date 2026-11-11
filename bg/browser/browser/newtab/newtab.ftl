@@ -119,6 +119,7 @@ newtab-privacy-menu-learn-more = Научете повече
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-8-cta = Научете повече
+newtab-privacy-message-info-10 = Запазете паролите в { -brand-short-name }, за да използвате силни и уникални регистрации навсякъде.
 
 ## Strings for the Picture of the Day widget
 
