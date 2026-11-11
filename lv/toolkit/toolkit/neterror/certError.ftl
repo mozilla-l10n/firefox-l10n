@@ -166,7 +166,7 @@ cert-error-signature-algorithm-mismatch = { -brand-short-name } bloķēja jūsu 
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = Nevar pieslēgties
+connectionFailure-title = Nav iespējams izveidot savienojumu
 deniedPortAccess-title = Piekļuve šai adresei ir ierobežota
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -196,7 +196,7 @@ unknownSocketType-title = Negaidīta atbilde no servera
 nssFailure2-title = Drošais savienojums neizdevās
 csp-xfo-error-title = { -brand-short-name } nevar atvērt šo lapu
 corruptedContentErrorv2-title = Bojāta satura kļūda
-sslv3Used-title = Neizdevās droši pieslēgties
+sslv3Used-title = Neizdevās izveidot savienojumu drošā veidā
 inadequateSecurityError-title = Savienojums nav drošs
 blockedByPolicy-title = Aizturēta lapa
 clockSkewError-title = Jūsu datora pulkstenis ir nepareizs
