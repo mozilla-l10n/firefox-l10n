@@ -11,9 +11,9 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
-toolbox-meatball-menu-dock-bottom-label = Pieslēgt apakšā
-toolbox-meatball-menu-dock-left-label = Pieslēgt pa kreisi
-toolbox-meatball-menu-dock-right-label = Pieslēgt pa labi
+toolbox-meatball-menu-dock-bottom-label = Novietot apakšā
+toolbox-meatball-menu-dock-left-label = Novietot kreisajā pusē
+toolbox-meatball-menu-dock-right-label = Novietot labajā pusē
 toolbox-meatball-menu-dock-separate-window-label = Atsevišķā logā
 toolbox-meatball-menu-splitconsole-label = Rādīt dalīto konsoli
 toolbox-meatball-menu-hideconsole-label = Paslēpt dalīto konsoli

@@ -152,7 +152,7 @@ perftools-onboarding-close-button =
 ## Profiler presets
 
 perftools-presets-web-developer-label = Izstrādātāju rīki
-perftools-presets-web-developer-description = Ieteicamais iepriekšiestatījums lielākajai daļai tīmekļa lietotņu atkļūdošanas ar zemu pieslēguma vērtību.
+perftools-presets-web-developer-description = Ieteicamais priekšiestatījums lielākās tīmekļa lietotņu daļas atkļūdošanai ar mazu virstēriņu.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Ieteicamais profilēšanas iestatījums { -brand-shorter-name }.
 perftools-presets-graphics-label = Grafika
