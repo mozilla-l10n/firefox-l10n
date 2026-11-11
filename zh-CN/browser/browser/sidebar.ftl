@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = 最近访问
 sidebar-history-sort-option-most-visited =
     .label = 最常访问
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = 有点空落落？从其他浏览器导入历史记录吧。
+sidebar-history-import-promo-button =
+    .label = 导入 { -brand-short-name }
 
 ## Labels for sidebar search
 
@@ -132,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = 为页面添加书签…
 sidebar-history-context-menu-delete-pages =
     .label = 从历史记录中删除页面
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = 删除
 
 ## Labels for sidebar bookmarks context menu items
 

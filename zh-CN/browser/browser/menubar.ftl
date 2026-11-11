@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] 关闭 { $tabCount } 个标签页
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = 关闭
+    .accesskey = C
 menu-file-close-window =
     .label = 关闭窗口
     .accesskey = d
@@ -236,6 +241,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = 搜索历史记录
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = 搜索标签页
 
 ## Bookmarks Menu
 
@@ -261,6 +269,10 @@ menu-bookmarks-other =
     .label = 其他书签
 menu-bookmarks-mobile =
     .label = 移动设备上的书签
+# The native macOS menu may limit the number of entries. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = 在侧栏中显示更多项目
 
 ## Profiles Menu
 
