@@ -36,6 +36,13 @@ download-ui-cancel-downloads-ok =
        *[other] Zrušit { $downloadsCount } stahování
     }
 download-ui-confirm-cancel-button = Zrušit
+download-ui-confirm-quit-message = { -brand-short-name } se při příštím spuštění pokusí ve stahování pokračovat, ale dosavadní průběh může být ztracen.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Ukončit { -brand-short-name(case: "acc") }
+       *[other] Ukončit { -brand-short-name(case: "acc") }
+    }
+download-ui-confirm-offline-message = { -brand-short-name } se pokusí pokračovat ve stahování, až budete znovu online, ale dosavadní průběh může být ztracen.
 download-ui-confirm-offline-button = Přejít do offline režimu
 download-ui-confirm-private-browsing-button = Zavřít okno
 

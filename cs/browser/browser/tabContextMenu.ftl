@@ -113,9 +113,16 @@ tab-context-open-in-container =
 move-to-start =
     .label = Přesunout na začátek
     .accesskey = z
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Na začátek
+    .accesskey = z
 move-to-end =
     .label = Přesunout na konec
     .accesskey = e
+move-to-end-alt =
+    .label = Na konec
+    .accesskey = k
 move-to-new-window =
     .label = Přesunout do nového okna
     .accesskey = k

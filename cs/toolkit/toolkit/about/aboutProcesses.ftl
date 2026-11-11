@@ -22,6 +22,13 @@ about-processes-reload-tab =
     .title = Obnovit panel
 about-processes-select-all-tabs =
     .title = Vybrat všechny panely
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Rozbalit panely této stránky
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Sbalit panely této stránky
 # See about-processes-expand-site for what a site is.
 # Variables:
 #   $site (String) The site’s name, e.g. example.com.
@@ -165,6 +172,15 @@ about-processes-tab-count =
         [one] { $count } panel
         [few] { $count } panely
        *[other] { $count } panelů
+    }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] Vybrán { $count } panel
+        [few] Vybrány { $count } panely
+       *[other] Vybráno { $count } panelů
     }
 # Shown next to a site’s label in a group header row.
 # Variables:
