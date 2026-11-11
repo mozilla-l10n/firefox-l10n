@@ -97,6 +97,8 @@ genai-more-actions-all-off-notice = ਜਦੋਂ ਤੁਸੀਂ ਲਿਖਤ �
 genai-more-actions-manage-settings =
     .label = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 genai-selection-callout-title = ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਲਿਖਤ ਨੂੰ ਉਭਾਰੋ
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = ਜਦੋਂ ਤੁਸੀਂ ਲਿਖਤ ਨੂੰ ਚੁਣੋ ਤਾਂ ਖੋਜੋ ਤਾਂ ਕਾਪੀ ਕਰੋ। ਕਿਹੜੀ ਕਾਰਵਾਈ ਦਿਖਾਈ ਜਾਵੇ, ਇਸ ਦੀ ਚੋਣ <span data-l10n-name="more-actions">•••</span> ਮੇਨੂ ਵਿੱਚੋਂ ਕਰੋ।
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } ਨੂੰ ਪੁੱਛੋ

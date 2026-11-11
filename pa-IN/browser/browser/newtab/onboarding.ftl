@@ -659,6 +659,7 @@ hnt-card-wallpaper-header = ਕੋਈ ਨਵਾਂ ਵਾਲਪੇਪਰ ਚੁ�
 hnt-card-wallpaper-body = ਇਸ ਸਕਰੀਨ ਨੂੰ ਤੁਹਾਨੂੰ ਚੰਗੀ ਲੱਗਦੀ ਬੈਕਗਰਾਊਂਡ ਨਾਲ ਆਪਣੀ ਮਨਪਸੰਦ ਬਣਾਓ।
 hnt-card-wallpaper-primary-button = ਪਸੰਦੀਦਾ ਬਣਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ
 hnt-card-taskbar-tabs-header = ਆਪਣੀ Windows ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਜੋੜੋ
+hnt-card-taskbar-tabs-body = ਆਪਣੀਆਂ ਸਭ ਤੋਂ ਵੱਧ ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਨੂੰ { -brand-product-name } ਦੀ ਸੁਰੱਖਿਆ ਵਿੱਚ ਇੱਕ ਐਪ ਵਾਂਗ ਖੋਲ੍ਹੋ।
 hnt-card-taskbar-tabs-primary-button = ਸਾਈਟਾਂ ਨੂੰ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਜੋੜੋ
 hnt-card-extensions-header = { -brand-short-name } ਨੂੰ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਵਧੀਆ ਬਣਾਓ
 hnt-card-extensions-body = ਸਾਡੀਆਂ ਸਭ ਤੋਂ ਪਸੰਦ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਮਨਪਸੰਦ ਬਣਾਓ।
