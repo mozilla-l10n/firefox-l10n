@@ -197,7 +197,7 @@ newtab-privacy-empty-state = { -brand-short-name } aiztur izsekotājus, tādēj�
 newtab-privacy-empty-state-tally = Šeit var apskatīt pašreizējo kopskaitu.
 # Shorter empty-state copy for the small card, shown as two separate lines.
 newtab-privacy-empty-state-small-title = Mazāk izsekotāju, ātrāka pārlūkošana.
-newtab-privacy-empty-state-small-message = Pārlūkojiet, lai sāktu bloķēšanu.
+newtab-privacy-empty-state-small-message = Pārlūko, lai uzsāktu aizturēšanu!
 
 ## Privacy widget — Enhanced Tracking Protection off state
 

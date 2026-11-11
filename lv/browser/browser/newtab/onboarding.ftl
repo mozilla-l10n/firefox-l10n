@@ -398,7 +398,7 @@ tab-groups-onboarding-session-restore-title-3 = Savas ciļņu kopas jebkurā lai
 tab-groups-onboarding-session-restore-title-2 = Jebkurā laikā atkārtoti atveriet ciļņu grupas no izvēlnes “Saraksts par visām ciļnēm”.
 tab-groups-onboarding-dismiss = Labi
 # "here" refers to the application menu button
-tab-groups-onboarding-auto-saved-title = Cilņu grupas tiek automātiski saglabātas. Atrodiet tās šeit.
+tab-groups-onboarding-auto-saved-title = Cilņu kopas tiek automātiski saglabātas. Tās ir atrodamas šeit.
 
 ## Multi Profiles feature onboarding messages
 
@@ -627,21 +627,21 @@ welcome-back-onboarding-card-tilebutton-label = Izmēģini
 
 ## New Tab Onboarding cards
 
-hnt-card-import-header = Iestatiet savu { -brand-short-name } dažu sekunžu laikā
-hnt-card-import-body = Ienesiet savas grāmatzīmes, paroles un citus datus no cita pārlūka.
-hnt-card-import-primary-button = Importējiet savus datus
-hnt-card-default-body = { -brand-product-name } ir vienīgā lielākā pārlūkprogramma, kas izveidota, lai jūs aizsargātu, nevis izsekotu.
+hnt-card-import-header = Iestati{ -brand-short-name } dažās sekundēs
+hnt-card-import-body = Pārcel no cita pārlūka savas grāmatzīmes, paroles un citus datus!
+hnt-card-import-primary-button = Ievieto savus datus
+hnt-card-default-body = { -brand-product-name } ir vienīgais no galvenajiem pārlūkiem, kas izveidots, lai aizsargātu, nevis izsekotu.
 hnt-card-default-primary-button = Atvērt saites ar { -brand-short-name }
-hnt-card-pin-header = Saglabājiet { -brand-short-name } viena klikšķa attālumā
+hnt-card-pin-header = Turi { -brand-short-name } viena klikšķa attālumā
 hnt-card-pin-body =
     { PLATFORM() ->
-        [macos] Atgriezieties aizsargātajā pārlūkošanā no doka.
-       *[other] Atgriezieties aizsargātajā pārlūkošanā no uzdevumjoslas.
+        [macos] Atgriezies aizsargātajā pārlūkošanā no doka.
+       *[other] Atgriezies aizsargātajā pārlūkošanā no uzdevumjoslas.
     }
-hnt-card-mobile-header = Iegūstiet iebūvētu aizsardzību savā tālrunī
-hnt-card-mobile-body = Lejupielādējiet { -brand-product-name } mobilajām ierīcēm, lai nodrošinātu papildu privātumu, atrodoties ceļā.
-hnt-card-mobile-primary-button = Iegūstiet { -brand-product-name } mobilajām ierīcēm.
-hnt-card-wallpaper-header = Izvēlieties svaigas tapetes
+hnt-card-mobile-header = Iegūsti iebūvētu aizsardzību savā tālrunī
+hnt-card-mobile-body = Lejupielādē { -brand-product-name } mobilajām ierīcēm, lai nodrošinātu papildu privātumu kustībā!
+hnt-card-mobile-primary-button = Iegūsti { -brand-product-name } mobilajām ierīcēm!
+hnt-card-wallpaper-header = Izvēlies svaigu ekrāntapeti
 hnt-card-wallpaper-body = Padariet šo ekrānu par mājīgu ar fonu, kas jums patīk.
 hnt-card-wallpaper-primary-button = Sāciet pielāgošanu
 hnt-card-taskbar-tabs-header = Pievienojiet savas iecienītākās vietnes Windows uzdevumjoslai
