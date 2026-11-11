@@ -1355,6 +1355,12 @@ newtab-report-ads-reason-inappropriate =
     .label = It is net geskikt
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Ik haw it te faak sjoen
+newtab-report-ads-reason-scam =
+    .label = Oplichting of fraude
+newtab-report-ads-reason-misleading =
+    .label = Misliedende of falske bewearingen
+newtab-report-ads-reason-offensive =
+    .label = Beledigjend of ûnfatsoenlik
 newtab-report-content-wrong-category =
     .label = Ferkearde kategory
 newtab-report-content-outdated =
@@ -1890,6 +1896,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Stêd sykje
     .placeholder = Stêd sykje
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Bynamme (opsjoneel)
+    .description =
+        { $count ->
+            [one] { $count } teken oer
+           *[other] { $count } tekens oer
+        }
+    .label = Bynamme (opsjoneel)
+    .placeholder = In bynamme tafoegje
 newtab-clock-widget-search-location-input =
     .aria-label = Stêd sykje
     .label = Lokaasje

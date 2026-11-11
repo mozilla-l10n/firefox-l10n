@@ -1170,6 +1170,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Syngronisearret…
     .title = No syngronisearje
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Jo syngronisaasjekarren binne no allinnich op dit apparaat fan tapassing.
 
 ## The list of things currently syncing.
 
@@ -1848,7 +1851,7 @@ permissions-addon-install-warning3 =
     .label = Warskôging toane as websites probearje útwreidingen te ynstallearjen
     .accesskey = W
 permissions-addon-exceptions2 =
-    .label = Kies hokker websiden útwreidingen ynstallearje meie
+    .label = Kies hokker websites útwreidingen ynstallearje meie
     .accesskey = K
 # App links are links that a website can ask to open for you, like email
 # (mailto:) links.

@@ -1170,6 +1170,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Synchroniseren…
     .title = Nu synchroniseren
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Uw synchronisatiekeuzes zijn nu alleen op dit apparaat van toepassing.
 
 ## The list of things currently syncing.
 
