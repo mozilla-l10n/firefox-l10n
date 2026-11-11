@@ -61,3 +61,9 @@ extension-nova-smoke-name = Humo
 extension-classic-proton-name = Gris
 # Name for a blue theme.
 extension-classic-blue-name = Azul
+# Name for a cyan theme.
+extension-classic-cyan-name = Cian
+# Name for a violet theme.
+extension-classic-violet-name = Violeta
+# Name for a green theme.
+extension-classic-green-name = Verde
