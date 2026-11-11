@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = ¡Nuevo alias creado!
 confirmation-hint-firefox-relay-mask-reused = ¡Alias existente reusado!
 confirmation-hint-screenshot-copied = ¡Captura de pantalla copiada!
 confirmation-hint-tab-group-saved = Grupo de pestañas guardado
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Buscar grupos de pestañas en este menú
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
