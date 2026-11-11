@@ -52,3 +52,12 @@ extension-nova-tide-name = Marea
 extension-nova-ash-name = Ceniza
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = Humo
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = Gris
+# Name for a blue theme.
+extension-classic-blue-name = Azul
