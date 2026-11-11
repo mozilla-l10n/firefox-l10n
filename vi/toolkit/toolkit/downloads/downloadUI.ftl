@@ -39,6 +39,44 @@ download-ui-cancel-downloads-ok =
         [1] Hủy 1 phiên tải xuống
        *[other] Hủy { $downloadsCount } phiên tải xuống
     }
+download-ui-confirm-cancel-button = Huỷ bỏ
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Dừng 1 tải xuống và thoát { -brand-short-name }?
+               *[other] Dừng { $downloadsCount } tải xuống và thoát { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Dừng 1 tải xuống và thoát { -brand-short-name }?
+               *[other] Dừng { $downloadsCount } tải xuống và thoát { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } sẽ thử tiếp tục tải xuống khi mở lại, nhưng tiến trình có thể bị mất.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Thoát { -brand-short-name }
+       *[other] Thoát { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Dừng 1 tải xuống và chuyển sang ngoại tuyến?
+       *[other] Dừng { $downloadsCount } tải xuống và chuyển sang ngoại tuyến?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } sẽ thử tiếp tục tải xuống khi bạn quay lại trực tuyến, nhưng tiến trình có thể bị mất.
+download-ui-confirm-offline-button = Chuyển sang ngoại tuyến
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Dừng 1 tải xuống và đóng Cửa sổ riêng tư?
+       *[other] Dừng { $downloadsCount } tải xuống và đóng Cửa sổ riêng tư?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Bạn sẽ không thể tiếp tục mục tải xuống này.
+       *[other] Bạn sẽ không thể tiếp tục các mục tải xuống này.
+    }
+download-ui-confirm-private-browsing-button = Đóng cửa sổ
 
 ##
 
