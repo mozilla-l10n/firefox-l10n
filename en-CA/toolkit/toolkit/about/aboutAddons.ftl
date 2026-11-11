@@ -272,6 +272,9 @@ colorway-removal-notice-button = Get updated colourways themes
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Your Windows contrast settings are overriding { -brand-short-name } themes. Turn off these settings to use themes in { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } has its own built-in light and dark themes that follow your system settings.
 privacy-policy = Privacy Policy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -608,6 +611,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name } themes
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Classic themes
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Show more
 aboutaddons-themes-picker-see-less = Show less

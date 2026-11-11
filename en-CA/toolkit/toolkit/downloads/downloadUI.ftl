@@ -39,6 +39,44 @@ download-ui-cancel-downloads-ok =
         [1] Cancel 1 Download
        *[other] Cancel { $downloadsCount } Downloads
     }
+download-ui-confirm-cancel-button = Cancel
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Stop 1 download and exit { -brand-short-name }?
+               *[other] Stop { $downloadsCount } downloads and exit { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Stop 1 download and quit { -brand-short-name }?
+               *[other] Stop { $downloadsCount } downloads and quit { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } will try to resume downloads when it reopens, but progress may be lost.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Exit { -brand-short-name }
+       *[other] Quit { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Stop 1 download and go offline?
+       *[other] Stop { $downloadsCount } downloads and go offline?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } will try to resume downloads when you’re back online, but progress may be lost.
+download-ui-confirm-offline-button = Go offline
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Stop 1 download and close this Private Window?
+       *[other] Stop { $downloadsCount } downloads and close this Private Window?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] You won’t be able to resume this download.
+       *[other] You won’t be able to resume these downloads.
+    }
+download-ui-confirm-private-browsing-button = Close window
 
 ##
 

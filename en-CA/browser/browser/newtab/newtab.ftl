@@ -192,6 +192,9 @@ newtab-privacy-empty-state = { -brand-short-name } automatically blocks trackers
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = See a running tally here.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Fewer trackers, faster browsing.
+newtab-privacy-empty-state-small-message = Browse to start blocking.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -563,6 +566,32 @@ newtab-solitaire-widget-open-menu-button =
     .title = Open solitaire menu
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Learn more
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .title = Wrexham AFC
+    .label = Wrexham AFC
+    .menu-label = Open Wrexham AFC menu
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = View
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+newtab-widget-wrexhamafc-view-matches = Matches
+newtab-widget-wrexhamafc-view-table = Table
+newtab-widget-wrexhamafc-view-fixtures = Fixtures
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Wallpapers
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1324,6 +1353,12 @@ newtab-report-ads-reason-inappropriate =
     .label = It’s inappropriate
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = I’ve seen it too many times
+newtab-report-ads-reason-scam =
+    .label = Scam or fraudulent
+newtab-report-ads-reason-misleading =
+    .label = Misleading or false claims
+newtab-report-ads-reason-offensive =
+    .label = Offensive or inappropriate
 newtab-report-content-wrong-category =
     .label = Wrong category
 newtab-report-content-outdated =
@@ -1430,6 +1465,12 @@ newtab-widget-menu-move-left = Left
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Right
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Home
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgets
 newtab-widget-size-small = Small
 newtab-widget-size-medium = Medium
 newtab-widget-size-large = Large
@@ -1466,6 +1507,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Show fewer widgets
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget unavailable. Check back later.
 newtab-widget-lists-name-default = Checklist
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1847,6 +1892,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Search for a city
     .placeholder = Search for a city
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .label = Nickname (optional)
+    .placeholder = Add a nickname
+    .aria-label = Nickname (optional)
+    .description =
+        { $count ->
+            [one] { $count } character left
+           *[other] { $count } characters left
+        }
 newtab-clock-widget-search-location-input =
     .aria-label = Search for a city
     .label = Location
