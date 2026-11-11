@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = 马甲创建成功！
 confirmation-hint-firefox-relay-mask-reused = 已复用现有马甲！
 confirmation-hint-screenshot-copied = 截图已复制！
 confirmation-hint-tab-group-saved = 标签页群组已保存
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = 可在此菜单中查找标签页群组
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed = 已关闭 { $tabCount } 个标签页

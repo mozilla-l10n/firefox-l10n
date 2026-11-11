@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = 实用工具”Media Foundation Eng
 process-type-utility-actor-js-oracle = 实用工具”JavaScript Oracle“
 process-type-utility-actor-windows-utils = 实用工具”Windows Utils“
 process-type-utility-actor-windows-file-dialog = 实用工具”Windows File Dialog“
+process-type-utility-actor-hw-inference = 实用工具“硬件加速推理”
 
 ##
 ## Other

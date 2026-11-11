@@ -1356,6 +1356,10 @@ newtab-report-ads-reason-seen-it-too-many-times =
     .label = Мен оны тым көп рет көрдім
 newtab-report-ads-reason-scam =
     .label = Скам немесе алаяқтық
+newtab-report-ads-reason-misleading =
+    .label = Жаңылдыратын не жалған ақпарат
+newtab-report-ads-reason-offensive =
+    .label = Қорлайтын немесе орынсыз
 newtab-report-content-wrong-category =
     .label = Қате санат
 newtab-report-content-outdated =
@@ -1889,6 +1893,20 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Қаланы іздеу
     .placeholder = Қаланы іздеу
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Балама аты (міндетті емес)
+    .description =
+        { $count ->
+           *[other] { $count } таңба қалды
+        }
+    .label = Балама аты (міндетті емес)
+    .placeholder = Балама ат қосу
 newtab-clock-widget-search-location-input =
     .aria-label = Қаланы іздеу
     .label = Орналасу

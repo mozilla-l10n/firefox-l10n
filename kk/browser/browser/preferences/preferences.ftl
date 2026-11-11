@@ -1170,6 +1170,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Синхрондау…
     .title = Қазір синхрондау
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Синхрондау таңдауларыңыз енді тек осы құрылғыға қолданылады.
 
 ## The list of things currently syncing.
 
