@@ -1163,6 +1163,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Sincronizando…
     .title = Sincronizar ahora
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Las opciones de sincronización ahora se aplican solo a este dispositivo.
 
 ## The list of things currently syncing.
 

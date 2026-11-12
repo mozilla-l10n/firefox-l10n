@@ -644,9 +644,11 @@ welcome-back-onboarding-card-tilebutton-label = Pruébelo
 ## New Tab Onboarding cards
 
 hnt-card-import-header = Configure { -brand-short-name } en segundos
+hnt-card-import-body = Traiga sus marcadores, contraseñas y más desde otro navegador.
 hnt-card-import-primary-button = Importar datos
 hnt-card-default-body = { -brand-product-name } es el único navegador importante creado para protegerlo, no para rastrearlo.
 hnt-card-default-primary-button = Abrir enlaces con { -brand-short-name }
+hnt-card-pin-header = Mantenga { -brand-short-name } a un clic de distancia
 hnt-card-mobile-primary-button = Consiga { -brand-product-name } para dispositivos móviles
 hnt-card-wallpaper-header = Elegir un fondo de pantalla nuevo
 hnt-card-wallpaper-primary-button = Empezar a personalizar
