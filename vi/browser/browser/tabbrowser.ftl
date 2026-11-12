@@ -32,6 +32,11 @@ tab-splitview-splitter =
     .aria-label = Thay đổi kích thước thẻ của chia cửa sổ
 tab-devtools-splitter =
     .aria-label = Thay đổi kích cỡ bảng Công cụ dành cho nhà phát triển
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Thêm các thẻ vào nhóm
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -256,6 +261,13 @@ tab-context-move-tab-to-new-group =
            *[other] Thêm các thẻ vào nhóm mới
         }
     .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Thêm vào nhóm
+           *[other] Thêm { $tabCount } thẻ vào nhóm
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -418,6 +430,10 @@ tab-context-open-in-split-view =
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
+    .label = Tách các thẻ
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
     .label = Tách các thẻ
     .accesskey = t
 # Reverse the order of the two tabs in the split view

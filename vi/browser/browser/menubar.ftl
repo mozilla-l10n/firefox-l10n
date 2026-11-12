@@ -269,6 +269,10 @@ menu-bookmarks-other =
     .label = Dấu trang khác
 menu-bookmarks-mobile =
     .label = Dấu trang trên di động
+# The native macOS menu may limit the number of entries. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Hiển thị thêm trong thanh lề
 
 ## Profiles Menu
 

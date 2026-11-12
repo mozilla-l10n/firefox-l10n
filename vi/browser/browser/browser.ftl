@@ -952,6 +952,14 @@ urlbar-view-context-menu-open-in-window2 = Mở trong cửa sổ mới
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Mở trong cửa sổ riêng tư mới
     .accesskey = P
+urlbar-view-context-menu-search-in-tab = Tìm trong thẻ mới
+    .accesskey = w
+urlbar-view-context-menu-search-in-container-tab = Tìm kiếm trong thẻ ngăn chứa mới
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = Tìm kiếm trong cửa sổ mới
+    .accesskey = N
+urlbar-view-context-menu-search-in-private-window = Tìm kiếm trong cửa sổ riêng tư mới
+    .accesskey = P
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
@@ -1423,6 +1431,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Xoá dữ liệu và bắt đầu phiên riêng tư mới?
+reset-pbm-panel-description3 = Thao tác này sẽ xoá lịch sử duyệt web và cookie, đồng thời đăng xuất bạn khỏi các trang web. Cửa sổ duyệt web riêng tư của bạn sẽ đóng lại và một cửa sổ mới sẽ mở ra.
 reset-pbm-panel-description2 = Thao tác này sẽ xoá lịch sử, cookie và tất cả dữ liệu khác của trang web mà không đóng Cửa sổ riêng tư.
 reset-pbm-panel-always-ask-checkbox =
     .label = Luôn hỏi tôi
@@ -1458,6 +1467,9 @@ fire-button-panel-confirm-button =
     .label = Xoá tất cả
     .accesskey = D
 fire-button-panel-complete = Đã xoá dữ liệu duyệt web
+fire-button-toolbar-button2 =
+    .label = Xoá một phần hoặc toàn bộ dữ liệu
+    .tooltiptext = Xoá một phần hoặc toàn bộ dữ liệu duyệt web của bạn
 
 ## Autorefresh blocker
 

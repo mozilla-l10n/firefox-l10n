@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Chặn { -brand-short-name } chạy các nghiên 
 policy-DisableForgetButton = Chặn truy cập vào nút Quên.
 policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu.
 policy-DisableLaunchOnLogin = Ngăn { -brand-short-name } tự động khởi chạy khi người dùng đăng nhập.
+policy-DisableMacOSUserPolicies = Bỏ qua các chính sách từ tuỳ chọn của người dùng và từ cấu hình user-scope trên macOS.
 policy-DisablePrimaryPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
 policy-DisablePasswordReveal2 = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu hoặc trường mật khẩu.
 policy-DisablePrivateBrowsing = Vô hiệu hóa duyệt web riêng tư.

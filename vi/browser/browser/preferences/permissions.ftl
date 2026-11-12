@@ -142,6 +142,12 @@ permissions-site-notification-desc = Các trang web dưới đây đã yêu cầ
 permissions-site-notification-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép gửi thông báo
 permissions-site-notification-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc gửi thông báo. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Cho phép nhận thông báo trên trang web khi đóng { -brand-short-name }
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Các cài đặt thông báo của hệ điều hành của bạn cũng được áp dụng.
 
 ## Site Permissions - Location
 

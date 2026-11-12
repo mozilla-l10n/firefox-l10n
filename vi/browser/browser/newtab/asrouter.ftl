@@ -524,3 +524,17 @@ refresh-profile-infobar-button = Làm mới { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Đã mở các thẻ trước đó?</strong> Bạn có thể khôi phục phiên trước đó của mình từ menu ứng dụng { -brand-short-name } <img data-l10n-name="icon"/>, trong mục Lịch sử.
 restore-session-startup-suggestion-button = Hướng dẫn cho tôi
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Mở các trang web yêu thích của bạn như một ứng dụng
+taskbar-tabs-spotlight-subtitle = Chỉ với một cú nhấp chuột, bạn có thể mở các trang web thường dùng nhất của mình trong một cửa sổ được tối giản hóa với tất cả các tính năng bảo vệ của { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Chọn để thêm vào thanh tác vụ của bạn
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Thêm
+taskbar-tabs-spotlight-done-button = Xong
