@@ -2166,7 +2166,7 @@ preferences-doh-select-resolver-label =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
     .label = { $name }
-    .tooltiptext = 使用者此提供者進行 DNS over HTTPS 解析
+    .tooltiptext = 使用此提供者進行 DNS over HTTPS 解析
 preferences-doh-custom-provider-label =
     .aria-label = 輸入自訂提供者網址
 preferences-doh-header2 =

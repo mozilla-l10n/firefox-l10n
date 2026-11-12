@@ -60,7 +60,7 @@ inspector-emulation-panel-reduced-motion-reduce = 減少
     .aria-label = 啟用減少動畫模擬功能
 # A label text for the no preference for reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-no-preference = 無偏好
-    .aria-label = 不偏好減少動畫模擬功能
+    .aria-label = 啟用「無偏好」減少動畫模擬功能
 # A label text for the no reduced motion emulation radio button option (uses user's preference).
 inspector-emulation-panel-reduced-motion-none = 不模擬
     .aria-label = 停用減少動畫模擬功能

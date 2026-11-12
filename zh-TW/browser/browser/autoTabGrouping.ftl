@@ -22,7 +22,7 @@ smartwindow-group-tabs-loading = 正在分析分頁並建議有用的分組方�
 smartwindow-group-tabs-empty = 目前無法建議分組方式，請稍後再試。
 # Shown in place of suggestions when every group the model found has already
 # been created.
-smartwindow-group-tabs-all-sorted = 好好整理您的分頁
+smartwindow-group-tabs-all-sorted = 您的分頁整理得真好
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = 建立所有群組
 smartwindow-group-tabs-suggested-heading = 建議的群組

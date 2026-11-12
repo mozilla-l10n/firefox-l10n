@@ -92,7 +92,7 @@ url-classifier-content-classifier-col-matched = 符合
 url-classifier-content-classifier-col-exception = 例外
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
-url-classifier-content-classifier-col-important = 重要
+url-classifier-content-classifier-col-important = Important
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = 引擎結果
 # Overall verdict shown when the request would be acted on (blocked or

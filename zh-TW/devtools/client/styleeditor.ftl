@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = 建立並將新的樣式表擴充至文件尾端
+    .tooltiptext = 建立並將新的樣式表附加到文件尾端
     .accesskey = N
 styleeditor-import-button =
     .tooltiptext = 匯入並將已經存在的樣式表附加到文件尾端
