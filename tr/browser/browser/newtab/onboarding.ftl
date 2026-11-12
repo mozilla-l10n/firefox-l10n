@@ -646,6 +646,7 @@ welcome-back-onboarding-card-tilebutton-label = Dene
 hnt-card-import-header = { -brand-short-name } tarayıcınızı saniyeler içinde kullanıma hazırlayın
 hnt-card-import-primary-button = Verilerimi içe aktar
 hnt-card-default-primary-button = Bağlantıları { -brand-short-name } ile aç
+hnt-card-mobile-primary-button = Mobil cihazlar için { -brand-product-name }’u indirin.
 hnt-card-wallpaper-header = Yeni bir duvar kâğıdı seçin
 hnt-card-wallpaper-primary-button = Özelleştirmeye başla
 hnt-card-taskbar-tabs-header = Sevdiğiniz siteleri Windows görev çubuğunuza ekleyin
