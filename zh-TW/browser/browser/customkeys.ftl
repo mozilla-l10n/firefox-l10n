@@ -123,6 +123,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = 搜尋快速鍵
     .placeholder = 搜尋快速鍵
-customkeys-description = 控制您如何移動游標以及與 { -brand-short-name } 互動。
+customkeys-description = 控制您如何瀏覽以及與 { -brand-short-name } 互動。
 customkeys-support-link-text = 更多資訊
 customkeys-reset-all-button = 還原預設值

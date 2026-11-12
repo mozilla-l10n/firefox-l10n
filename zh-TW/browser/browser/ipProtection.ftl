@@ -291,7 +291,7 @@ ip-protection-not-opted-in-4 =
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-inclusions-enabled =
     .heading = 準備好試用了嗎？
-    .message = 每月免費獲得 { $maxUsage } GB 的免費流量，並可自行選擇要讓哪些網站透過 VPN 連線。
+    .message = 每月免費獲得 { $maxUsage } GB 流量，並可自行選擇要讓哪些網站透過 VPN 連線。
 ip-protection-not-opted-in-button = 開始使用
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
