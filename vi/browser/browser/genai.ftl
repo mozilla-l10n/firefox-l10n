@@ -74,18 +74,43 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Sao chép văn bản đã chọn
     .tooltiptext = Sao chép văn bản đã chọn
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Đã sao chép
 genai-shortcut-more-actions-button =
     .aria-label = Tuỳ chọn khác
     .tooltiptext = Tuỳ chọn khác
+genai-more-actions-panel =
+    .aria-label = Chọn những hành động muốn hiển thị
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Hỏi { $provider }
+genai-more-actions-ai-generic =
+    .label = Hỏi AI
+genai-more-actions-search =
+    .label = Tìm kiếm
+genai-more-actions-copy =
+    .label = Sao chép
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Bạn sẽ không thấy menu này khi chọn văn bản. Hãy vào Cài đặt <span data-l10n-name="chevron"></span> > Thẻ và duyệt web để hiển thị lại.
+genai-more-actions-manage-settings =
+    .label = Quản lý cài đặt
+genai-selection-callout-title = Chọn văn bản để chọn hành động
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Tìm kiếm hoặc sao chép khi bạn chọn văn bản. Chọn hành động để hiển thị bằng menu <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Hỏi { $provider }
 genai-menu-new-badge = Mới
 genai-menu-summarize-page = Tóm tắt trang
+genai-menu-summarize-with-ai = Tóm tắt bằng AI
 genai-input-ask-smart-window =
     .placeholder = Hỏi…
 genai-input-ask-generic =
     .placeholder = Hỏi chatbot AI…
+genai-input-ask-ai =
+    .placeholder = Hỏi AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Hỏi { $provider }…
@@ -244,6 +269,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Tìm kiếm
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Sao chép
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Xem thêm với AI?
 # Message that appears when user is shown the opt-in flow for link previews
