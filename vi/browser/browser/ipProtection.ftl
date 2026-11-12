@@ -37,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = Bạn có kế hoạch du
 ipprotection-feature-introduction-description-summer-promo = Mở rộng phạm vi phủ sóng với VPN tích hợp sẵn của { -brand-product-name }: nhiều địa điểm hơn, băng thông không giới hạn. Áp dụng từ nay đến hết ngày 31 tháng 8.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-description-private-browsing = Duyệt web với tính năng bảo mật cao hơn bằng cách ẩn vị trí của bạn, ngay cả khi bạn đang ở chế độ riêng tư.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Giúp ẩn vị trí của bạn khi duyệt web. Thiết lập các quy tắc để bật VPN khi bạn muốn <a data-l10n-name="learn-more-vpn">quyền riêng tư bổ sung</a> hoặc duyệt web dựa trên vị trí, và tắt khi bạn không muốn.
 ipprotection-feature-introduction-title-captive-portal = Dùng Wi-Fi công cộng? Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 ipprotection-feature-introduction-description-captive-portal = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí, ngay cả khi sử dụng Wi-Fi công cộng.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -113,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Đã hiểu
 ipprotection-site-inclusions-callout-title-existing-users = Thiết lập các quy tắc VPN tích hợp sẵn, sau đó duyệt web
 ipprotection-site-inclusions-callout-title-lapsed-users = Thử VPN tích hợp, giờ đây theo từng trang web
 ipprotection-site-inclusions-callout-description-1 = Bật VPN khi bạn muốn có thêm sự riêng tư hoặc duyệt web dựa trên vị trí, và tắt nó khi không cần thiết.
+ipprotection-site-inclusions-callout-description-lapsed-users = Thiết lập các quy tắc để bật VPN khi bạn muốn tăng cường quyền riêng tư hoặc duyệt web dựa trên vị trí, và tắt khi không cần.
 ipprotection-site-inclusions-callout-primary-button = Thiết lập quy tắc
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Để sau
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Bỏ qua
@@ -122,6 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Bỏ qua
 ipprotection-holiday-promo-description = Giúp việc duyệt web của bạn riêng tư hơn và khó bị theo dõi hơn với VPN tích hợp sẵn.
 ipprotection-holiday-promo-primary-button = Mở VPN
 ipprotection-holiday-promo-secondary-button = Bỏ qua
+ipprotection-holiday-promo-title-1 = Nhận VPN không giới hạn đến hết ngày 31 tháng 1
 
 ## Panel
 
@@ -247,6 +251,7 @@ ipprotection-message-continuous-onboarding-intro = Bật VPN để ẩn vị tr�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Đặt VPN để bật</a> mỗi khi bạn mở { -brand-short-name } để có thêm một lớp bảo vệ.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } sẽ ghi nhớ những trang web bạn đã thiết lập để sử dụng VPN. Cập nhật các thiết lập này trong <a data-l10n-name="setting-link">cài đặt</a> bất cứ lúc nào.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Đã tắt VPN cho trang web này
+confirmation-hint-ipprotection-navigated-to-included-site = Đã bật VPN cho trang web này
 ipprotection-open-button = Mở { -brand-product-name }
 ipprotection-come-back-title = Quay lại để thử VPN được tích hợp sẵn
 ipprotection-message-body-hide-location = Ẩn vị trí của bạn khi duyệt web trong { -brand-product-name } để có thêm quyền riêng tư và kiểm soát.
@@ -448,5 +453,7 @@ vpn-error-page-keep-browsing = Tiếp tục duyệt web trong phiên này
 vpn-error-page-new-session = Bắt đầu phiên mới
 vpn-paused-alert-close-tabs-button = Đóng tất cả các thẻ
 vpn-paused-alert-continue-wo-vpn-button = Tiếp tục mà không cần VPN
+vpn-error-alert-title-1 = VPN và các quy tắc hiện không hoạt động.
+vpn-error-alert-body-1 = Việc bật và tắt VPN có thể khắc phục sự cố.
 vpn-error-alert-title = VPN hiện không hoạt động.
 vpn-error-alert-body = Hãy thử lại sau.
