@@ -345,6 +345,8 @@ website-language-heading =
     .label = Ngôn ngữ trang web
 website-preferred-language =
     .label = Ngôn ngữ ưu tiên
+website-language-list =
+    .aria-label = Ngôn ngữ ưu tiên
 website-add-language =
     .label = Thêm ngôn ngữ
 website-add-language-button =
@@ -801,6 +803,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Địa chỉ trang web
+home-custom-homepage-list =
+    .aria-label = Địa chỉ trang web
 home-custom-homepage-address =
     .placeholder = Nhập địa chỉ
 home-custom-homepage-address-button =
@@ -928,6 +932,8 @@ search-one-click-desc = Chọn các công cụ tìm kiếm thay thế xuất hi�
 search-one-click-header-3 =
     .description = Hãy chọn những công cụ tìm kiếm và lối tắt nào sẽ hiển thị trên thanh địa chỉ của bạn.
     .label = Các công cụ tìm kiếm khác
+search-engine-list =
+    .aria-label = Công cụ tìm kiếm và lối tắt
 update-search-engine-success =
     .message = Công cụ tìm kiếm đã được cập nhật thành công
 search-edit-engine-2 =
@@ -991,6 +997,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Thêm ngăn chứa
     .accesskey = A
+containers-list =
+    .aria-label = Ngăn chứa
 containers-new-tab-check3 =
     .label = Chọn một ngăn chứa cho mỗi thẻ mới
     .accesskey = S
@@ -1146,6 +1154,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Đang đồng bộ hóa…
     .title = Đồng bộ hóa ngay
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Các tùy chọn đồng bộ của bạn hiện chỉ áp dụng cho thiết bị này.
 
 ## The list of things currently syncing.
 
@@ -1183,6 +1194,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Lịch sử
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Thẻ đang mở
+    .tooltiptext = Thẻ đang mở từ các thiết bị khác của bạn
+    .accesskey = t
 sync-engine-tabs =
     .label = Các thẻ đang mở
     .tooltiptext = Danh sách những trang web đang mở trên các thiết bị được đồng bộ
@@ -1191,6 +1207,22 @@ sync-engine-passwords =
     .label = Mật khẩu
     .tooltiptext = Các mật khẩu bạn đã lưu
     .accesskey = P
+sync-engine-addresses2 =
+    .label = Địa chỉ
+    .tooltiptext = Địa chỉ bạn đã lưu trong { -brand-short-name }
+    .accesskey = e
+sync-engine-payment-methods3 =
+    .label = Phương thức thanh toán
+    .tooltiptext = Các phương thức thanh toán bạn đã lưu
+    .accesskey = n
+sync-engine-addons2 =
+    .label = Tiện ích
+    .tooltiptext = Tiện ích mở rộng và chủ đề bạn đã thêm vào { -brand-short-name } dành cho máy tính để bàn
+    .accesskey = A
+sync-engine-settings2 =
+    .label = Cài đặt
+    .tooltiptext = Cài đặt { -brand-short-name } nếu có thể áp dụng
+    .accesskey = s
 sync-engine-addresses =
     .label = Địa chỉ
     .tooltiptext = Địa chỉ bưu chính bạn đã lưu (chỉ trên phiên bản máy tính)
@@ -1382,6 +1414,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Quản lý phương thức thanh toán
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Yêu cầu đăng nhập trên thiết bị để tự động điền
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Yêu cầu đăng nhập từ thiết bị để tự động điền và quản lý phương thức thanh toán
     .accesskey = o
@@ -1455,6 +1491,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
@@ -1812,6 +1870,58 @@ permissions-data-section =
     .heading = Quyền hạn và dữ liệu
 pane-permissions-data-title2 = Quyền hạn và dữ liệu
     .title = Quyền hạn và dữ liệu
+notifications-section-header =
+    .heading = Thông báo
+notifications-entry-card-header =
+    .description = Chọn những trang web nào có thể gửi thông báo và cách hiển thị các thông báo đó.
+    .label = Thông báo
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description = { $count } trang web
+    .label = Quản lý cài đặt thông báo
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Quản lý cài đặt thông báo của trang web
+notifications-website-card-header =
+    .description = Chọn cách các trang web có thể gửi thông báo.
+    .label = Thông báo trên trang web
+notifications-filter =
+    .placeholder = Tìm kiếm trang web
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Trang web
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Cho phép thông báo
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Trang web
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Luôn luôn
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Cho phép
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Không bao giờ
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Chưa thêm thông báo nào từ trang web.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Không có thông báo trang web nào phù hợp với tìm kiếm của bạn.
 
 ## Privacy Section - Data Collection
 
