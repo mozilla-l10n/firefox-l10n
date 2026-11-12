@@ -56,11 +56,11 @@ main-context-menu-use-mini-window =
 move-to-mini-window =
     .label =
         { $tabCount ->
-            [1] In Minifenster verschieben
-            [one] Zu Mini-Fenstern verschieben
-           *[other] Zu Mini-Fenstern verschieben
+            [1] In Mini-Fenster verschieben
+            [one] In Mini-Fenster verschieben
+           *[other] In Mini-Fenster verschieben
         }
-    .accesskey = Z
+    .accesskey = v
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
