@@ -113,3 +113,10 @@ smartwindow-close-tab-callout-title = පටිත්ත වැසිණි
 
 smart-window-default-promo-primary-button = පෙරනිමි කරන්න
 smart-window-default-promo-additional-button = දැන් නොවේ
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = ප්‍රතිපෝෂණ බෙදාගන්න
+aiwindow-feedback-submit = යොමන්න
+aiwindow-feedback-cancel = අවලංගු
+aiwindow-feedback-reason-other = වෙනත්

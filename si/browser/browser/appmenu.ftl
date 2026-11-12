@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = යාවත්කාල කළ නොහැකිය — පද්ධතියට නොගැළපේ
 appmenuitem-banner-update-restart =
     .label = යාවත්කාලයක් තිබේ — දැන් යළි අරඹන්න
+appmenu-nova-fxa-sign-in = පිවිසෙන්න
 appmenuitem-new-tab =
     .label = නව පටිත්ත
 appmenuitem-new-window =
@@ -27,6 +28,8 @@ appmenuitem-downloads =
     .label = බාගැනීම්
 appmenuitem-passwords =
     .label = මුරපද
+appmenuitem-extensions =
+    .label = දිගු
 appmenuitem-print =
     .label = මුද්‍රණය...
 appmenuitem-find-in-page =
@@ -35,6 +38,10 @@ appmenuitem-translate =
     .label = පිටුව පරිවර්තනය…
 appmenuitem-zoom =
     .value = විශාලනය
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = { -brand-product-name } බෙදාගන්න
 appmenuitem-more-tools =
     .label = තවත් මෙවලම්
 appmenuitem-help =
@@ -91,6 +98,14 @@ appmenu-remote-tabs-unverified = ඔබගේ ගිණුම සත්‍යා
 appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
+fxa-menu-manage-devices =
+    .label = ඔබගේ උපාංග කළමනාකරණය
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = සියලු උපාංග
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = සියලු උපාංග
 appmenu-account-header = ගිණුම
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -99,6 +114,7 @@ appmenu-fxa-last-sync = අවසාන සමමුහූර්තය { $time }
     .label = අවසාන සමමුහූර්තය { $time }
 appmenu-fxa-sync-and-save-data2 = සමමුහූර්ත කර සුරකින්න
 appmenu-fxa-signed-in-label = පිවිසෙන්න
+appmenu-fxa-sign-in-promo-link = පිවිසෙන්න
 appmenu-fxa-setup-sync =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
 appmenuitem-save-page =
@@ -217,6 +233,10 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = මෙවලම් තීරුව රිසිකරණය…
+appmenu-abouttranslations =
+    .label = පරිවර්තනය...
+appmenu-edit-pdf =
+    .label = PDF සංස්කරණය…
 appmenu-developer-tools-subheader = පිරික්සුම් මෙවලම්
 appmenu-developer-tools-extensions =
     .label = සංවර්ධකයින් සඳහා දිගු
@@ -230,3 +250,4 @@ appmenuitem-monitor-description = දත්ත උල්ලංඝන ඇඟව�
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = සැබෑ වි-තැපෑල හා දුරකථනය ආවරණයට
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenu-services-header = මාගේ සේවා

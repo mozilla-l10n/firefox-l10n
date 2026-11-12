@@ -11,3 +11,6 @@ all-tabs-menu-hidden-tabs =
     .label = සැඟවුණු පටිති
 all-tabs-menu-close-all-duplicate-tabs =
     .label = සියලු අනුපිටපත් පටිති වසන්න
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = සියල්ල පෙන්වන්න

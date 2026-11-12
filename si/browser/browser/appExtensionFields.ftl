@@ -14,3 +14,20 @@ extension-firefox-compact-dark-name = අඳුරු
 extension-firefox-compact-dark-description = අඳුරු වර්ණ රටාවක් සහිත තේමාවකි.
 extension-firefox-alpenglow-name = ෆයර්ෆොක්ස් ඇප්ලෙන්ගෝ
 extension-firefox-alpenglow-description = බොත්තම්, වට්ටෝරු හා කවුළු සඳහා වර්ණවත් පෙනුමක් භාවිතා කරන්න.
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a green theme.
+extension-classic-green-name = කොළ
+# Name for a purple theme.
+extension-classic-purple-name = දම්
+# Name for a pink theme.
+extension-classic-pink-name = රෝස
+# Name for a yellow theme.
+extension-classic-yellow-name = කහ
+# Name for a red theme.
+extension-classic-red-name = රතු
+# Name for an orange theme.
+extension-classic-orange-name = තැඹිලි
