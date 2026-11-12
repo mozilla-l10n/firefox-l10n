@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Đọc to
+narrate-rate-input =
+    .aria-label = Chọn tốc độ đọc từ -100 đến 100, trong đó 0 là mặc định.
+    .title = Tốc độ
 narrate-rate-slow =
     .title = Giảm tốc độ nói
 narrate-rate-fast =
