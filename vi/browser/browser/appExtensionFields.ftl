@@ -52,3 +52,30 @@ extension-nova-tide-name = Thuỷ triều
 extension-nova-ash-name = Tro tàn
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = Khói
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = Xám
+# Name for a blue theme.
+extension-classic-blue-name = Xanh dương
+# Name for a cyan theme.
+extension-classic-cyan-name = Xanh lơ
+# Name for a violet theme.
+extension-classic-violet-name = Tím
+# Name for a green theme.
+extension-classic-green-name = Xanh lục
+# Name for a purple theme.
+extension-classic-purple-name = Tía
+# Name for a pink theme.
+extension-classic-pink-name = Hồng
+# Name for a yellow theme.
+extension-classic-yellow-name = Vàng
+# Name for a red theme.
+extension-classic-red-name = Đỏ
+# Name for an orange theme.
+extension-classic-orange-name = Da cam
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = Nền đen OLED

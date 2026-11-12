@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Bạn có thể mở lại các 
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Mở lại nhóm thẻ của bạn từ menu Liệt kê tất cả thẻ bất cứ lúc nào.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Các nhóm thẻ được lưu tự động. Hãy tìm chúng ở đây.
 
 ## Multi Profiles feature onboarding messages
 
@@ -561,10 +563,14 @@ onboarding-refresh-terms-of-use-with-links = Bằng cách tiếp tục, bạn đ
 onboarding-refresh-data-collection-link = Quản lý cài đặt thu thập dữ liệu
 onboarding-refresh-primary-button = Tiếp tục
 onboarding-refresh-fro-import-header = Mang theo dữ liệu của bạn
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Thông tin này thuộc về bạn. { -brand-product-name } không bao giờ bán dữ liệu cá nhân.
 onboarding-refresh-fro-import-body = Dữ liệu cá nhân của bạn sẽ được bảo mật. { -brand-product-name } sẽ không bao giờ bán dữ liệu đó.
 onboarding-refresh-fro-skip-button = Bỏ qua
 onboarding-refresh-fro-theme-header = Thử phong cách mới
 onboarding-refresh-tab-layout-header = Hãy thử bố cục thẻ khác
+onboarding-refresh-fro-tab-layout-title = Chọn bố cục thẻ mới
 onboarding-refresh-tab-layout-top = Ở trên
 onboarding-refresh-tab-layout-side = Ở bên cạnh
 onboarding-refresh-tab-layout-minimal = Tối giản
@@ -633,3 +639,33 @@ welcome-back-onboarding-card-label-tabs = Sắp xếp gọn gàng với thẻ d�
 welcome-back-onboarding-card-label-vpn = Ẩn danh với VPN tích hợp sẵn
 welcome-back-onboarding-card-label-pdf = Tô sáng, ký tên và làm việc với tập tin PDF
 welcome-back-onboarding-card-tilebutton-label = Thử ngay
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Thiết lập { -brand-short-name } của bạn trong vài giây
+hnt-card-import-body = Sao chép dấu trang, mật khẩu và các dữ liệu khác từ trình duyệt khác.
+hnt-card-import-primary-button = Nhập dữ liệu của bạn
+hnt-card-default-body = { -brand-product-name } là trình duyệt duy nhất được xây dựng để bảo vệ bạn, chứ không phải theo dõi bạn.
+hnt-card-default-primary-button = Mở liên kết bằng { -brand-short-name }
+hnt-card-pin-header = Truy cập { -brand-short-name } chỉ với một nhấp chuột
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Quay lại chế độ duyệt web an toàn từ thanh dock của bạn.
+       *[other] Quay lại chế độ duyệt web an toàn từ thanh tác vụ của bạn.
+    }
+hnt-card-mobile-header = Nhận tính năng bảo vệ tích hợp trên điện thoại của bạn
+hnt-card-mobile-body = Tải xuống ứng dụng { -brand-product-name } cho thiết bị di động để tăng cường bảo mật khi di chuyển.
+hnt-card-mobile-primary-button = Tải { -brand-product-name } cho thiết bị di động.
+hnt-card-wallpaper-header = Chọn một hình nền mới
+hnt-card-wallpaper-body = Biến màn hình này thành nơi ấm cúng như ở nhà với hình nền mà bạn yêu thích.
+hnt-card-wallpaper-primary-button = Bắt đầu tuỳ chỉnh
+hnt-card-taskbar-tabs-header = Thêm các trang web yêu thích của bạn vào thanh tác vụ Windows
+hnt-card-taskbar-tabs-body = Mở các trang web bạn truy cập nhiều nhất như một ứng dụng với tất cả các tính năng bảo vệ của { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Thêm trang web vào thanh tác vụ
+hnt-card-extensions-header = Tăng cường { -brand-short-name } với các tiện ích mở rộng
+hnt-card-extensions-body = Tùy chỉnh trải nghiệm duyệt web của bạn với các tiện ích mở rộng được yêu thích nhất của chúng tôi.
+hnt-card-extensions-primary-button = Khám phá
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Đã xong. Cứ thoải mái làm điều bạn thích.
+hnt-card-last-card-header-end = Trình chống theo dõi đang bật.
