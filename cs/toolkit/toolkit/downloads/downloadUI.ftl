@@ -42,8 +42,22 @@ download-ui-confirm-quit-button =
         [windows] Ukončit { -brand-short-name(case: "acc") }
        *[other] Ukončit { -brand-short-name(case: "acc") }
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Zastavit stahování a přejít do režimu offline?
+        [one] Zastavit { $downloadsCount } stahování  a přejít do režimu offline?
+        [few] Zastavit { $downloadsCount } stahování  a přejít do režimu offline?
+       *[other] Zastavit { $downloadsCount } stahování  a přejít do režimu offline?
+    }
 download-ui-confirm-offline-message = { -brand-short-name } se pokusí pokračovat ve stahování, až budete znovu online, ale dosavadní průběh může být ztracen.
 download-ui-confirm-offline-button = Přejít do offline režimu
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Zastavit 1 stahování a zavřít anonymní okno?
+        [one] Zastavit stahování { $downloadsCount } souboru a zavřít anonymní okno?
+        [few] Zastavit stahování { $downloadsCount } souborů a zavřít anonymní okno?
+       *[other] Zastavit stahování { $downloadsCount } souborů a zavřít anonymní okno?
+    }
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] Toto stahování nebude možné obnovit.

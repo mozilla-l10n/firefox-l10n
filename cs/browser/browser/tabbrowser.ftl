@@ -336,6 +336,15 @@ tab-context-move-tab-to-new-group =
            *[other] Přidat panely do nové skupiny
         }
     .accesskey = d
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Přidat do skupiny
+            [one] Přidat { $tabCount } panel do skupiny
+            [few] Přidat { $tabCount } panely do skupiny
+           *[other] Přidat { $tabCount } panelů do skupiny
+        }
+    .accesskey = P
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
