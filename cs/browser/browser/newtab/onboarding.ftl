@@ -900,6 +900,11 @@ hnt-card-default-primary-button =
        *[no-cases] Otevírat odkazy v aplikaci { -brand-short-name }
     }
 hnt-card-pin-header = Mějte { -brand-short-name } vždy po ruce
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Vraťte se k bezpečnému prohlížení přímo z doku.
+       *[other] Vraťte se k bezpečnému prohlížení přímo z hlavního panelu.
+    }
 hnt-card-mobile-header = Chraňte svůj telefon pomocí integrované ochrany
 hnt-card-mobile-body =
     { -brand-product-name.case-status ->
@@ -915,6 +920,7 @@ hnt-card-wallpaper-header = Zvolte si novou tapetu
 hnt-card-wallpaper-body = Vyberte si oblíbené pozadí a ciťte se na této obrazovce jako doma.
 hnt-card-wallpaper-primary-button = Začít s přizpůsobováním
 hnt-card-taskbar-tabs-header = Připněte si oblíbené stránky na hlavní panel Windows
+hnt-card-taskbar-tabs-body = Otevírejte své nejnavštěvovanější stránky jako aplikace a využívejte přitom veškerou ochranu, kterou { -brand-product-name } nabízí.
 hnt-card-taskbar-tabs-primary-button = Přidat stránky na hlavní panel
 hnt-card-extensions-header =
     { -brand-short-name.case-status ->
