@@ -17,6 +17,16 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Включване синхронизиране
 fxa-menu-connect-another-device =
     .label = Добавяне на устройство…
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Изпращане на { $tabCount } раздел до устройство
+            [one] Изпращане на { $tabCount } раздел до устройство
+           *[other] Изпращане на { $tabCount } раздела до устройство
+        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Синхронизиране на устройства…

@@ -119,6 +119,15 @@ tab-context-move-tabs =
            *[other] Преместване на раздели
         }
     .accesskey = П
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Изпращане към устройство
+            [one] Изпращане на { $tabCount } раздел до устройство
+           *[other] Изпращане на { $tabCount } раздела до устройство
+        }
+    .accesskey = И
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
