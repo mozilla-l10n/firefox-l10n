@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Kể từ { $midnightTime }
 clear-time-duration-value-today =
     .label = Hôm nay
+clear-time-duration-value-all-time =
+    .label = Mọi lúc
 clear-time-duration-value-everything =
     .label = Mọi lúc
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Lịch sử
+item-history-and-downloads2 =
+    .label = Lịch sử duyệt web và tải xuống
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Danh sách các trang web đã truy cập và tập tin đã tải xuống
 item-history-and-downloads =
     .label = Lịch sử duyệt web & tải xuống
     .accesskey = d
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookie và dữ liệu trang
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Đăng xuất bạn khỏi trang web và có thể xoá giỏ hàng.
 item-cookies-site-data-description = Có thể đăng xuất bạn khỏi các trang web hoặc bị làm trống giỏ hàng
 item-active-logins =
     .label = Đăng nhập đang hoạt động
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Bộ nhớ đệm
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Tập tin tạm thời ({ $amount } { $unit })
+    .accesskey = f
+item-cached-content2 =
+    .label = Tập tin tạm thời
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Giúp trang web tải nhanh hơn
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Thông tin biểu mẫu đã lưu
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Tên, email và các mục nhập biểu mẫu
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Quyền và tùy chọn trang web
 item-formdata-description = Xóa những thứ như tên, email và các mục khác bạn nhập trong biểu mẫu
 item-site-prefs-description = Đặt lại quyền hạn và tùy chọn trang web của bạn về cài đặt gốc
 data-section-label = Dữ liệu
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Dữ liệu trang web ngoại tuyến
     .accesskey = O
+sanitize-everything-undo-warning2 = Hành động này không thể hoàn tác.
 sanitize-everything-undo-warning = Thao tác này không thể hoàn tác được.
 window-close =
     .key = w
