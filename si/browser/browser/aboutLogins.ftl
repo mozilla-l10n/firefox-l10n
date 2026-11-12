@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = වෙනත් අත�
 about-logins-menu-menuitem-import-from-a-file = ගොනුවකින් ආයාත කරන්න…
 about-logins-menu-menuitem-export-logins2 = මුරපද නිර්යාතය…
 about-logins-menu-menuitem-remove-all-logins2 = සියලු මුරපද ඉවත් කරන්න…
+about-logins-menu-menuitem-delete-all-logins = සියලු මුරපද මකන්න...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] විකල්ප
@@ -86,6 +87,7 @@ about-logins-intro-import3 = දැන් මුරපදයක් එක් ක
 about-logins-login-item-new-login-title = මුරපදය එක් කරන්න
 login-item-edit-button = සංස්කරණය
 about-logins-login-item-remove-button = ඉවත් කරන්න
+about-logins-login-item-delete-button = මකන්න
 login-item-origin-label = අඩවියේ ලිපිනය
 about-logins-origin-tooltip2 = සම්පූර්ණ ලිපිනය ඇතුළත් කර එය ඔබ පිවිසෙන තැනට හරියටම ගැළපෙනවා දැයි බලන්න.
 # Variables
@@ -163,6 +165,8 @@ about-logins-confirm-delete-dialog-title = මුරපදය ඉවත් ක�
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
 about-logins-confirm-remove-dialog-confirm-button = ඉවත් කරන්න
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = මකන්න
 
 ## Variables
 ##   $count (number) - Number of items
@@ -171,6 +175,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ඉවත් කරන්න
        *[other] සියල්ල ඉවතලන්න
+    }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] මකන්න
+       *[other] සියල්ල මකන්න
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =

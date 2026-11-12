@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = ව්‍යවසාය ප්‍රතිපත්ති
+aboutpolicies-page-heading =
+    .heading = ප්‍රතිපත්ති ගැන
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = සක්‍රිය
 errors-tab = දෝෂ
