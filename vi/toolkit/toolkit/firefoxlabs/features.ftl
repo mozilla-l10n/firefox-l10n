@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Ghi chú thẻ là một tính nă
 experimental-features-tab-context-menu =
     .label = Menu thẻ được sắp xếp hợp lý
 experimental-features-tab-context-menu-description = Bạn sẽ thấy menu ngữ cảnh đơn giản hơn khi nhấp chuột phải vào một thẻ. Menu này được thiết kế để giúp bạn dễ dàng tìm thấy các thao tác thường dùng. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Trình giám sát tài nguyên
+experimental-features-resource-monitor-description = Xem mức sử dụng bộ nhớ và CPU ước tính cho các thẻ đang mở ngay trong thanh lề, và đóng các thẻ bạn không sử dụng để giải phóng tài nguyên. <a data-l10n-name="connect">Chia sẻ phản hồi</a>

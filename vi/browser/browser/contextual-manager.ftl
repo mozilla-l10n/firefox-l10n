@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Nhập dữ liệu t�
 contextual-manager-passwords-command-import = Nhập từ tập tin…
 contextual-manager-passwords-command-export = Xuất mật khẩu
 contextual-manager-passwords-command-remove-all = Xóa tất cả mật khẩu
+contextual-manager-passwords-command-delete-all = Xoá tất cả mật khẩu
 contextual-manager-passwords-command-options = Tùy chọn
 contextual-manager-passwords-command-help = Trợ giúp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,9 @@ contextual-manager-passwords-remove-all-title =
         [1] Xoá mật khẩu?
        *[other] Xoá tất cả { $total } mật khẩu?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title = Xoá { $total } mật khẩu?
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -117,6 +121,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Xóa
        *[other] Xóa tất cả
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Xoá
+       *[other] Xoá tất cả
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -130,6 +141,13 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] Thao tác này sẽ xóa mật khẩu đã lưu ở { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa của bạn và mọi cảnh báo rò rỉ. Bạn không thể hoàn tác hành động này.
        *[other] Thao tác này sẽ xóa các mật khẩu đã lưu ở { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa của bạn và mọi cảnh báo rò rỉ. Bạn không thể hoàn tác hành động này.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Thao tác này sẽ xoá nó khỏi { -brand-short-name } trên mọi thiết bị đồng bộ mật khẩu của bạn. Bạn không thể hoàn tác thao tác này.
+       *[other] Thao tác này sẽ xoá chúng khỏi { -brand-short-name } trên mọi thiết bị đồng bộ mật khẩu của bạn. Bạn không thể hoàn tác thao tác này.
     }
 contextual-manager-passwords-origin-label = Trang web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -173,12 +191,16 @@ contextual-manager-passwords-radiobutton-all = Tất cả ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Cảnh báo ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Xóa mật khẩu?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Xoá mật khẩu?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Bạn không thể hoàn tác điều này.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Quay lại
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Xóa
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Xoá
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Hủy bỏ
 contextual-manager-passwords-alert-card =
@@ -209,6 +231,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Đã cập nhật mật khẩu
 contextual-manager-passwords-remove-label =
+    .title = Xoá mật khẩu
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Xoá mật khẩu
 contextual-manager-passwords-origin-field =
     .label = Địa chỉ trang web
@@ -322,6 +347,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Đúng, xóa mật khẩu
        *[other] Đúng, xóa các mật khẩu
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Đúng, xoá mật khẩu
+       *[other] Đúng, xoá mật khẩu
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Để xem mật khẩu đã lưu, hãy nhập mật khẩu chính của bạn.

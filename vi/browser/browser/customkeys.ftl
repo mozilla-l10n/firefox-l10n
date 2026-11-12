@@ -17,9 +17,11 @@ customkeys-reset-all = Đặt lại tất cả các phím tắt về mặc đị
 customkeys-conflict-confirm = Phím này đã được gán cho { $conflict }. Bạn có muốn thay thế nó không?
 customkeys-reset-all-confirm = Bạn có chắc chắn muốn đặt lại tất cả phím tắt về mặc định không?
 customkeys-file-duplicate-tab = Nhân đôi thẻ
+customkeys-file-copy-tab-url = Sao chép URL thẻ
 customkeys-file-focus-search = Đặt tiêu điểm vào thanh tìm kiếm
 customkeys-history-reopen-tab = Mở lại thẻ đã đóng gần đây nhất
 customkeys-history-reopen-window = Mở lại cửa sổ đã đóng gần đây nhất
+customkeys-history-reopen-tab-current-window = Mở lại thẻ đã đóng gần nhất của cửa sổ hiện tại.
 customkeys-sidebar-toggle = Bật/tắt thanh lề
 customkeys-view-bookmarks-toolbar = Bật/tắt thanh công cụ dấu trang
 customkeys-view-picture-in-picture = Hình trong hình
@@ -83,6 +85,16 @@ customkeys-key-new =
     .label = Nhấn phím mới:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (không thể thay đổi)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (được thiết lập trong cài đặt bàn phím macOS)
+       *[other] (được thiết lập trong cài đặt bàn phím của hệ thống của bạn)
+    }
 
 ## Confirmation dialogs
 
