@@ -180,6 +180,9 @@ newtab-privacy-empty-state = { -brand-short-name } tự động chặn các trì
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Xem tổng kết cập nhật liên tục tại đây.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Ít trình theo dõi hơn, duyệt web nhanh hơn.
+newtab-privacy-empty-state-small-message = Duyệt để bắt đầu chặn.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -494,6 +497,9 @@ newtab-horoscopes-widget-open-menu-button =
     .title = Mở menu tử vi
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Tìm hiểu thêm
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Được cung cấp bởi Yahoo
 
 ## Strings for the Travel widget
 
@@ -507,6 +513,9 @@ newtab-travel-widget-open-menu-button =
     .title = Mở menu du lịch
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Tìm hiểu thêm
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Được cung cấp bởi Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -521,6 +530,34 @@ newtab-solitaire-widget-open-menu-button =
     .title = Mở menu solitaire
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Tìm hiểu thêm
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Mở menu Wrexham AFC
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Chế độ xem
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Các trận đấu
+newtab-widget-wrexhamafc-view-table = Bảng
+newtab-widget-wrexhamafc-view-fixtures = Lịch thi đấu
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Hình nền
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -738,6 +775,9 @@ newtab-discovery-empty-section-topstories-header = Bạn đã bắt kịp!
 newtab-discovery-empty-section-topstories-content = Kiểm tra lại sau để biết thêm câu chuyện.
 newtab-discovery-empty-section-topstories-try-again-button = Thử lại
 newtab-discovery-empty-section-topstories-loading = Đang tải…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Câu chuyện không khả dụng bây giờ
+newtab-discovery-empty-section-topstories-unavailable-body = Kiểm tra kết nối của bạn hoặc thử lại sau.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi gần như tải phần này, nhưng không hoàn toàn.
 
@@ -1034,6 +1074,10 @@ newtab-wallpaper-firefox-peak-dark = Khuôn mặt của một con cáo ở cạn
 newtab-wallpaper-firefox-peak-light = Khuôn mặt của một con cáo ở cạnh trái, trên nền sáng
 newtab-wallpaper-firefox-sky-dark = Những ngọn đồi màu tím sẫm dưới bầu trời đêm
 newtab-wallpaper-firefox-sky-light = Những ngọn đồi thoai thoải dưới bầu trời dịu nhẹ
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Huy hiệu của câu lạc bộ Wrexham AFC trên nền đỏ
 
 ## Firefox
 
@@ -1066,6 +1110,14 @@ newtab-weather-menu-change-location = Thay đổi khu vực
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Tìm kiếm khu vực
     .placeholder = Tìm kiếm khu vực
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Quay lại
+    .title = Quay lại
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Đề xuất vị trí
 newtab-weather-cancel-input =
     .aria-label = Huỷ bỏ
     .title = Huỷ bỏ
@@ -1266,6 +1318,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Không phù hợp
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Tôi đã nhìn thấy nó quá nhiều lần
+newtab-report-ads-reason-scam =
+    .label = Lừa đảo hoặc gian lận
+newtab-report-ads-reason-misleading =
+    .label = Thông tin gây hiểu nhầm hoặc sai sự thật
+newtab-report-ads-reason-offensive =
+    .label = Xúc phạm hoặc không phù hợp
 newtab-report-content-wrong-category =
     .label = Sai danh mục
 newtab-report-content-outdated =
@@ -1372,6 +1430,12 @@ newtab-widget-menu-move-left = Trái
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Phải
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Trang chủ
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widget
 newtab-widget-size-small = Nhỏ
 newtab-widget-size-medium = Trung bình
 newtab-widget-size-large = Lớn
@@ -1408,6 +1472,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Hiện ích widget hơn
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget không khả dụng. Vui lòng quay lại sau.
 newtab-widget-lists-name-default = Danh sách việc cần làm
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1466,6 +1534,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Mở menu trò chơi ô chữ
     .title = Mở menu trò chơi ô chữ
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Được cung cấp bởi Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1772,9 +1843,24 @@ newtab-clock-widget-menu-edit = Chỉnh sửa đồng hồ
 newtab-clock-widget-menu-switch-to-12h = Chuyển sang định dạng 12 giờ
 newtab-clock-widget-menu-switch-to-24h = Chuyển sang định dạng 24 giờ
 newtab-clock-widget-label-your-clocks = Đồng hồ của bạn
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Quay lại
+    .title = Quay lại
 newtab-clock-widget-search-location-input2 =
     .aria-label = Tìm kiếm một thành phố
     .placeholder = Tìm kiếm một thành phố
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Biệt danh (không bắt buộc)
+    .description = { $count } ký tự còn lại
+    .label = Biệt danh (không bắt buộc)
+    .placeholder = Thêm một biệt danh
 newtab-clock-widget-search-location-input =
     .aria-label = Tìm kiếm một thành phố
     .label = Vị trí
