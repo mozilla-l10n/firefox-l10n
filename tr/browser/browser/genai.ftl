@@ -96,6 +96,7 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Metin seçtiğinizde bu menüyü görmeyeceksiniz. Yeniden görmek isterseniz Ayarlar <span data-l10n-name="chevron"></span> Sekmeler ve gezinti sayfasını ziyaret edin.
 genai-more-actions-manage-settings =
     .label = Ayarları yönet
+genai-selection-callout-title = İşlem yapmak istediğiniz metni seçin
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } sohbet botuna sor

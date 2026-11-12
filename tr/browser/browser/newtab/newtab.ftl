@@ -194,6 +194,7 @@ newtab-privacy-empty-state = { -brand-short-name }, takip kodlarını kendiliği
 newtab-privacy-empty-state-tally = Rakamlara bakın.
 # Shorter empty-state copy for the small card, shown as two separate lines.
 newtab-privacy-empty-state-small-title = Daha az takip kodu, daha hızlı gezinti.
+newtab-privacy-empty-state-small-message = Engellemeyi başlatmak için internette gezinin.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -571,6 +572,13 @@ newtab-solitaire-menu-learn-more = Daha fazla bilgi al
 ## and British English. “Wrexham AFC” is the club’s name. Use the name the
 ## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
 
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham ASC
+    .menu-label = Wrexham AFC menüsünü aç
+    .title = Wrexham ASC
 # Menu item opening a submenu that switches what the widget shows. “View” is a
 # noun here, as in “the view the widget shows”.
 newtab-widget-wrexhamafc-menu-view = Görünüm
@@ -581,7 +589,9 @@ newtab-widget-wrexhamafc-menu-view = Görünüm
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
 
+newtab-widget-wrexhamafc-view-matches = Maçlar
 newtab-widget-wrexhamafc-view-table = Tablo
+newtab-widget-wrexhamafc-view-fixtures = Fikstür
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.
 newtab-widget-wrexhamafc-menu-wallpapers = Duvar kâğıtları
 

@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Yer imlerine ekle…
 sidebar-history-context-menu-delete-pages =
     .label = Sayfaları geçmişten sil
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Sil
 
 ## Labels for sidebar bookmarks context menu items
 
