@@ -50,6 +50,23 @@ download-ui-cancel-downloads-ok =
        *[other] Áno, zrušiť sťahovanie { $downloadsCount } súborov
     }
 download-ui-confirm-cancel-button = Zrušiť
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Zastaviť sťahovanie a ukončiť { -brand-short-name(case: "acc") }?
+                [one] Zastaviť sťahovanie a ukončiť { -brand-short-name(case: "acc") }?
+                [few] Zastaviť sťahovanie { $downloadsCount } súborov a ukončiť { -brand-short-name(case: "acc") }?
+               *[other] Zastaviť sťahovanie { $downloadsCount } súborov a ukončiť { -brand-short-name(case: "acc") }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Zastaviť sťahovanie a ukončiť { -brand-short-name(case: "acc") }?
+                [one] Zastaviť sťahovanie a ukončiť { -brand-short-name(case: "acc") }?
+                [few] Zastaviť sťahovanie { $downloadsCount } súborov a ukončiť { -brand-short-name(case: "acc") }?
+               *[other] Zastaviť sťahovanie { $downloadsCount } súborov a ukončiť { -brand-short-name(case: "acc") }?
+            }
+    }
 download-ui-confirm-quit-message = { -brand-short-name } sa po opätovnom spustení pokúsi pokračovať v sťahovaní, no doterajší priebeh sa môže stratiť.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
@@ -65,6 +82,13 @@ download-ui-confirm-offline-title =
     }
 download-ui-confirm-offline-message = { -brand-short-name } sa po obnovení internetového pripojenia pokúsi pokračovať v sťahovaní, no doterajší priebeh sa môže stratiť.
 download-ui-confirm-offline-button = Prejsť do režimu bez pripojenia
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Zastaviť sťahovanie a zavrieť toto súkromné okno?
+        [one] Zastaviť sťahovanie a zavrieť toto súkromné okno?
+        [few] Zastaviť sťahovanie { $downloadsCount } súborov a zavrieť toto súkromné okno?
+       *[other] Zastaviť sťahovanie { $downloadsCount } súborov a zavrieť toto súkromné okno?
+    }
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] V tomto sťahovaní nebudete môcť pokračovať.

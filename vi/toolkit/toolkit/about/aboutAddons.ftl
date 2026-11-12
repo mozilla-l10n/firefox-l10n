@@ -325,6 +325,8 @@ release-notes-addon-button = Ghi chú phát hành
 permissions-addon-button = Quyền hạn
 extension-enabled-heading = Đã bật
 extension-disabled-heading = Đã vô hiệu hóa
+theme-enabled-heading2 =
+    .heading = Chủ đề đang kích hoạt
 theme-disabled-heading3 =
     .heading = Chủ đề đã lưu
 theme-enabled-heading = Đã bật
@@ -605,6 +607,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Chủ đề { -brand-product-name }
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Chủ đề cổ điển
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Xem thêm
 aboutaddons-themes-picker-see-less = Xem ít hơn

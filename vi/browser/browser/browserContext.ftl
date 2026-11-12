@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Thêm dịch vụ tìm kiếm
     .accesskey = S
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Bật menu hành động
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Gửi đường dẫn tới thiết bị
     .accesskey = n
