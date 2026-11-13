@@ -654,8 +654,10 @@ hnt-card-pin-body =
        *[other] Gå raskt tilbake til verna surfing frå oppgåvelinja.
     }
 hnt-card-mobile-header = Få innebygd vern på telefonen din
+hnt-card-mobile-body = Last ned { -brand-product-name } for mobil for ekstra personvern når du er på farta.
 hnt-card-mobile-primary-button = Få { -brand-product-name } for mobil.
 hnt-card-wallpaper-header = Vel eit nytt bakgrunnsbilde
+hnt-card-wallpaper-body = Gjer denne skjermen meir personleg med eit bakgrunnsbilde du likar.
 hnt-card-wallpaper-primary-button = Start tilpassing
 hnt-card-taskbar-tabs-header = Legg til favorittnettstadane dine på oppgåvelinja i Windows
 hnt-card-taskbar-tabs-primary-button = Legg til nettstadar på oppgavelinja
