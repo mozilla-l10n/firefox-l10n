@@ -1174,6 +1174,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Synchronizowanie…
     .title = Synchronizuj teraz
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Wybór synchronizowanych danych dotyczy teraz tylko tego urządzenia.
 
 ## The list of things currently syncing.
 
@@ -1211,6 +1214,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historia
     .accesskey = H
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Otwarte karty
+    .tooltiptext = Otwarte karty na innych urządzeniach
+    .accesskey = O
 sync-engine-tabs =
     .label = Otwarte karty
     .tooltiptext = Lista otwartych stron na wszystkich synchronizowanych urządzeniach
@@ -1219,6 +1227,22 @@ sync-engine-passwords =
     .label = Hasła
     .tooltiptext = Zachowane hasła
     .accesskey = H
+sync-engine-addresses2 =
+    .label = Adresy
+    .tooltiptext = Adresy zachowane w { -brand-short-name(case: "loc") }
+    .accesskey = A
+sync-engine-payment-methods3 =
+    .label = Metody płatności
+    .tooltiptext = Zachowane metody płatności
+    .accesskey = M
+sync-engine-addons2 =
+    .label = Dodatki
+    .tooltiptext = Rozszerzenia i motywy dodane do { -brand-short-name(case: "gen") } w wersji na komputery
+    .accesskey = D
+sync-engine-settings2 =
+    .label = Ustawienia
+    .tooltiptext = Ustawienia { -brand-short-name(case: "gen") }, które można synchronizować
+    .accesskey = U
 sync-engine-addresses =
     .label = Adresy
     .tooltiptext = Zachowane adresy pocztowe (tylko na komputerach)
