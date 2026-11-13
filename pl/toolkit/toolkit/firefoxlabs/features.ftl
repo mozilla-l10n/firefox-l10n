@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Notatki na kartach to eksperymenta
 experimental-features-tab-context-menu =
     .label = Uproszczone menu karty
 experimental-features-tab-context-menu-description = Prostsze menu kontekstowe karty po kliknięciu jej prawym przyciskiem. Zostało ono zaprojektowane tak, aby można było łatwiej odszukać najczęściej potrzebne działania. <a data-l10n-name="connect">Podziel się opinią</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Monitor zasobów
+experimental-features-resource-monitor-description = Sprawdzaj szacowane zużycie pamięci i procesora przez otwarte karty bezpośrednio w panelu bocznym oraz usypiaj nieużywane karty, aby zwolnić zasoby. <a data-l10n-name="connect">Podziel się opinią</a>

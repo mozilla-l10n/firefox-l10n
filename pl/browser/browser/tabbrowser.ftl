@@ -37,6 +37,11 @@ tab-splitview-splitter =
     .aria-label = Zmień rozmiar kart w podzielonym widoku
 tab-devtools-splitter =
     .aria-label = Zmień rozmiar panelu narzędzi dla programistów
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Dodaj karty do grupy
+    .accesskey = D
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -301,6 +306,15 @@ tab-context-move-tab-to-new-group =
            *[other] Dodaj karty do nowej grupy
         }
     .accesskey = D
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Dodaj do grupy
+            [one] Dodaj { $tabCount } kartę do grupy
+            [few] Dodaj { $tabCount } karty do grupy
+           *[many] Dodaj { $tabCount } kart do grupy
+        }
+    .accesskey = D
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -472,6 +486,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Rozdziel widok
+    .accesskey = R
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Rozdziel karty
     .accesskey = R
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

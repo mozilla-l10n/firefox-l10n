@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = Utworzono nową maskę
 confirmation-hint-firefox-relay-mask-reused = Użyto istniejącej maski
 confirmation-hint-screenshot-copied = Skopiowano zrzut ekranu
 confirmation-hint-tab-group-saved = Zachowano grupę kart
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Grupy kart są w tym menu
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

@@ -96,7 +96,7 @@ webext-perms-description-data-some-update = El desenvolupador diu que aquesta ex
 webext-perms-description-data-some-optional = El desenvolupador diu que aquesta extensió vol recopilar: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text-with-data-collection = { $extension } requereix que s'actualitzin paràmetres nous
+webext-perms-update-text-with-data-collection = Es necessiten paràmetres nous per a actualitzar { $extension }.
 webext-perms-update-list-intro-with-data-collection = Cancel·leu per conservar la versió i la configuració actuals o actualitzeu per obtenir la nova versió i aprovar els canvis.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
