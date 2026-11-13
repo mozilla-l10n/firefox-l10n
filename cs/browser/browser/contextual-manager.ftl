@@ -167,6 +167,15 @@ contextual-manager-passwords-remove-all-message-sync =
         [many] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } na všech vašich synchronizovaných zařízeních a odebere všechna upozornění na úniky. Tuto akci nemůžete vzít zpět.
        *[other] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } na všech vašich synchronizovaných zařízeních a odebere všechna upozornění na úniky. Tuto akci nemůžete vzít zpět.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Tímto smažete své heslo z aplikace { -brand-short-name } na všech zařízeních, která synchronizují vaše hesla. Tuto akci nelze vzít zpět.
+        [one] Tímto smažete své heslo z aplikace { -brand-short-name } na všech zařízeních, která synchronizují vaše hesla. Tuto akci nelze vzít zpět.
+        [few] Tímto smažete svá hesla z aplikace { -brand-short-name } na všech zařízeních, která synchronizují vaše hesla. Tuto akci nelze vzít zpět.
+       *[other] Tímto smažete svá hesla z aplikace { -brand-short-name } na všech zařízeních, která synchronizují vaše hesla. Tuto akci nelze vzít zpět.
+    }
 contextual-manager-passwords-origin-label = Webová stránka
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Uživatelské jméno

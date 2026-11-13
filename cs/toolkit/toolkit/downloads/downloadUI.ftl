@@ -36,6 +36,23 @@ download-ui-cancel-downloads-ok =
        *[other] Zrušit { $downloadsCount } stahování
     }
 download-ui-confirm-cancel-button = Zrušit
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Zastavit stahování a ukončit { -brand-short-name }?
+                [one] Zastavit stahování { $downloadsCount } souboru a ukončit { -brand-short-name }?
+                [few] Zastavit stahování { $downloadsCount } souborů a ukončit { -brand-short-name }?
+               *[other] Zastavit stahování { $downloadsCount } souborů a ukončit { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Zastavit stahování a ukončit aplikaci { -brand-short-name }?
+                [one] Zastavit { $downloadsCount } stahování a ukončit { -brand-short-name }?
+                [few] Zastavit { $downloadsCount } stahování a ukončit { -brand-short-name }?
+               *[other] Zastavit { $downloadsCount } stahování a ukončit { -brand-short-name }?
+            }
+    }
 download-ui-confirm-quit-message = { -brand-short-name } se při příštím spuštění pokusí ve stahování pokračovat, ale dosavadní průběh může být ztracen.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
