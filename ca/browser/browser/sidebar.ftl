@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Afegeix la pàgina a les adreces d'interès…
 sidebar-history-context-menu-delete-pages =
     .label = Suprimeix les pàgines de l'historial
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Suprimeix
 
 ## Labels for sidebar bookmarks context menu items
 

@@ -648,6 +648,11 @@ hnt-card-import-primary-button = Importeu les vostres dades
 hnt-card-default-body = El { -brand-product-name } és l'únic navegador important dissenyat per protegir-vos, no pas per espiar-vos.
 hnt-card-default-primary-button = Obre els enllaços amb el { -brand-short-name }
 hnt-card-pin-header = Tingueu el { -brand-short-name } a un clic de distància
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Torneu a la navegació protegida des de l’acoblador.
+       *[other] Torneu a la navegació protegida des de la barra de tasques.
+    }
 hnt-card-mobile-header = Obtingueu protecció integrada al telèfon
 hnt-card-mobile-body = Baixeu el { -brand-product-name } per al mòbil per a tenir més privadesa allà on sigueu.
 hnt-card-mobile-primary-button = Instal·la el { -brand-product-name } per al mòbil.
@@ -660,4 +665,7 @@ hnt-card-taskbar-tabs-primary-button = Afegeix llocs a la barra de tasques
 hnt-card-extensions-header = Milloreu el { -brand-short-name } amb extensions
 hnt-card-extensions-body = Personalitzeu la navegació amb les nostres extensions més populars.
 hnt-card-extensions-primary-button = Explora
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Tot a punt. Feu la vostra.
 hnt-card-last-card-header-end = La protecció contra el seguiment està activada.
