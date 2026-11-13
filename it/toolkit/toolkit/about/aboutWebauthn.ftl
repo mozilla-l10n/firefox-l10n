@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gestione PIN
 about-webauthn-credential-management-section-title = Gestione credenziali
 about-webauthn-pin-required-section-title = PIN obbligatorio
 about-webauthn-confirm-deletion-section-title = Conferma eliminazione
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Registrazione log
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Registrazioni biometriche
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Impossibile gestire le opzioni in quanto 
 about-webauthn-text-not-available = Non disponibile per questa piattaforma.
 about-webauthn-bio-enrollment-list-subsection-title = Registrazioni:
 about-webauthn-add-bio-enrollment-section-title = Aggiungi nuova registrazione
+about-webauthn-logging-warning = Il registro potrebbe contenere dati personali, ad esempio nomi utente, identificativi degli account e indirizzi di siti web. Esaminalo prima di condividerlo.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Vengono registrate solo le richieste all’implementazione CTAP nativa di { -brand-short-name }. Non vengono registrate le richieste alle API WebAuthn della piattaforma né alle estensioni del browser.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Aggiungi registrazione
 about-webauthn-cancel-button = Annulla
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Elimina
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Avvia
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Interrompi
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Cancella
 about-webauthn-start-enrollment-button = Avvia registrazione
 about-webauthn-update-button = Aggiorna
 
