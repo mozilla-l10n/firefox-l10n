@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-sync-log-title = Njëkohësoni regjistra
+about-sync-log-page-header =
+    .description = Regjistra diagnostikim shkruar nga njëkohësimi
+    .heading = Njëkohësoni regjistra
 
 ## Filter controls
 
@@ -23,11 +27,16 @@ about-sync-log-filter-date-7days =
     .label = 7 ditët e fundit
 about-sync-log-filter-date-30days =
     .label = 30 ditët e fundit
+about-sync-log-search-input =
+    .aria-label = Kërkoni te regjistra
+    .placeholder = Kërkoni te regjistra
 
 ## Toolbar actions
 
 about-sync-log-refresh-button =
     .label = Rifreskoje
+about-sync-log-download-button =
+    .label = Shkarkoni regjistra të dukshëm (.zip)
 about-sync-log-clear-button =
     .label = Spastroji regjistrat
 
@@ -53,11 +62,24 @@ about-sync-log-row-error =
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
+about-sync-log-empty = S’ka regjistra njëkohësimi të regjistruar.
+about-sync-log-empty-filtered = S’ka regjistra me përkim me filtrat e tanishëm.
 
 ## Inline viewer
 
 about-sync-log-view-error = S’u lexua dot kjo kartelë regjistër.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Hape të papërpunuar
 
 ## Clear logs confirmation
 
+about-sync-log-clear-confirm-title = Të spastrohen regjistra njëkohësimesh?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Kjo do të fshijë përgjithnjë { $count } kartelë regjistri të dukshëm.
+       *[other] Kjo do të fshijë përgjithnjë { $count } kartela regjistrash të dukshëm.
+    }
 about-sync-log-clear-confirm-accept = Fshije

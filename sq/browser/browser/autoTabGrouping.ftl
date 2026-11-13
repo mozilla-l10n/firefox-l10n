@@ -3,10 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Organize Tabs Toolbar Button
+
+smartwindow-organize-tabs-button =
+    .label = Sistemoni Skeda
+    .tooltiptext = Sistemoni Skeda
+
 ## Organize Tabs Panel
 ## The panel opened from the "Organize Tabs" toolbar button, which suggests
 ## groups for the window's open tabs and creates the ones the user picks.
 
+smartwindow-group-tabs-panel-heading = Sistemoni Skeda
 smartwindow-group-tabs-suggested-heading = Grupe të sugjeruar
 # Accessible name for the flyout that lists the tabs of one suggested group.
 # Activating a tab in the list switches to it.
