@@ -45,14 +45,46 @@ printui-paper-size-label = Kağız ölçüsü
 # Section title (noun) for the print scaling options
 printui-scale = Miqyas
 printui-scale-fit-to-page-width = Səhifə genişliyinə sığdır
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Miqyas
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = İki üzlü çap
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Uzun kənarından çevir
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Qısa kənarından çevir
+# Section title for miscellaneous print options
+printui-options = Seçimlər
+printui-headers-footers-checkbox = Başlıqları və altbilgiləri çap et
+printui-backgrounds-checkbox = Fonda olanları çap et
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Format
+# Option for printing the original page.
+printui-source-radio = Orijinal
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Seçim
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Sadələşdirilmiş
 
 ##
 
 printui-color-mode-label = Rəng rejimi
 printui-color-mode-color = Rəng
+printui-color-mode-bw = Qara və ağ
+printui-margins = Kənar boşluqlar
+printui-margins-default = Standart
+printui-margins-none = Yoxdur
 printui-primary-button = Çap et
+printui-loading = Önbaxış hazırlanır
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Çapa ön baxış
 printui-pages-per-sheet = Vərəq başına səhifə
 
 ## Error messages shown when a user has an invalid input
