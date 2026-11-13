@@ -195,12 +195,15 @@ newtab-privacy-empty-state = { -brand-short-name } automatycznie blokuje element
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Tutaj zobaczysz liczbę zablokowanych elementów.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Mniej elementów śledzących, szybsze przeglądanie.
+newtab-privacy-empty-state-small-message = Przeglądaj Internet, aby zacząć blokować.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = Szybsze przeglądanie. Mniej elementów śledzących.
-newtab-privacy-etp-off-turn-on-tracking = Aby rozpocząć blokowanie, włącz ochronę przed śledzeniem w ustawieniach.
+newtab-privacy-etp-off-turn-on-tracking = Aby zacząć blokować, włącz ochronę przed śledzeniem w ustawieniach.
 
 ## Privacy widget — informational messages
 ##
@@ -572,6 +575,30 @@ newtab-solitaire-widget-open-menu-button =
     .title = Otwórz menu widżetu pasjansa
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Więcej informacji
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham A.F.C.
+    .menu-label = Otwórz menu widżetu Wrexham A.F.C.
+    .title = Wrexham A.F.C.
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Widok
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Mecze
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

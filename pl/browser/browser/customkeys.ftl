@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Kopiuj adres karty
 customkeys-file-focus-search = Przejdź do paska wyszukiwania
 customkeys-history-reopen-tab = Przywróć ostatnią zamkniętą kartę
 customkeys-history-reopen-window = Przywróć ostatnie zamknięte okno
+customkeys-history-reopen-tab-current-window = Przywróć ostatnią zamkniętą kartę w bieżącym oknie
 customkeys-sidebar-toggle = Przełącz panel boczny
 customkeys-view-bookmarks-toolbar = Przełącz pasek zakładek
 customkeys-view-picture-in-picture = Obraz w obrazie
