@@ -21,6 +21,9 @@ storage-table-type-sessionstorage-hint = Seleccioneu un amfitrió per mostrar i 
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
 storage-table-type-indexeddb-hint = Seleccioneu una base de dades per mostrar i suprimir les entrades IndexedDB. <a data-l10n-name="learn-more-link">Més informació</a>
+# Hint shown when the cache storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
+storage-table-type-cache-hint = Seleccioneu un emmagatzematge per mostrar i suprimir les entrades d’emmagatzematge en memòria cau. <a data-l10n-name="learn-more-link">Més informació</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
 storage-table-type-extensionstorage-hint = Seleccioneu un amfitrió per mostrar i editar l'emmagatzematge de les extensions. <a data-l10n-name="learn-more-link">Més informació</a>
