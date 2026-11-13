@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importuj z innej prz
 contextual-manager-passwords-command-import = Importuj z pliku…
 contextual-manager-passwords-command-export = Eksportuj hasła
 contextual-manager-passwords-command-remove-all = Usuń wszystkie hasła
+contextual-manager-passwords-command-delete-all = Usuń wszystkie hasła
 contextual-manager-passwords-command-options = Opcje
 contextual-manager-passwords-command-help = Pomoc
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,14 @@ contextual-manager-passwords-remove-all-title =
         [few] Czy usunąć wszystkie { $total } hasła?
        *[many] Czy usunąć wszystkie { $total } haseł?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Czy usunąć { $total } hasło?
+        [few] Czy usunąć { $total } hasła?
+       *[many] Czy usunąć { $total } haseł?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -114,6 +123,13 @@ contextual-manager-passwords-remove-all-confirm =
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Usuń
+       *[other] Usuń wszystkie
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
     { $total ->
         [1] Usuń
        *[other] Usuń wszystkie
@@ -174,12 +190,16 @@ contextual-manager-passwords-radiobutton-all = Wszystkie ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Powiadomienia ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Czy usunąć to hasło?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Czy usunąć to hasło?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Tego nie można cofnąć.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Wstecz
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Usuń
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Usuń
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anuluj
 contextual-manager-passwords-alert-card =
@@ -210,6 +230,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Aktualizuj hasło
 contextual-manager-passwords-remove-label =
+    .title = Usuń hasło
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Usuń hasło
 contextual-manager-passwords-origin-field =
     .label = Adres witryny
@@ -320,6 +343,13 @@ contextual-manager-passwords-discard-changes-close-button = Zamknij
 contextual-manager-passwords-discard-changes-go-back-button = Wstecz
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Tak, usuń hasło
+       *[other] Tak, usuń hasła
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
     { $total ->
         [1] Tak, usuń hasło
        *[other] Tak, usuń hasła

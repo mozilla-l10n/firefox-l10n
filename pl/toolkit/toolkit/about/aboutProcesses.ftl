@@ -17,7 +17,31 @@ about-processes-kill-process =
 about-processes-shutdown-tab =
     .title = Zamknij kartę
 about-processes-unload-tab =
-    .title = Uśpij kartę
+    .title = Usuń kartę z pamięci
+about-processes-reload-tab =
+    .title = Odśwież kartę
+about-processes-select-all-tabs =
+    .title = Zaznacz wszystkie karty
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Rozwiń karty tej witryny
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Zwiń karty tej witryny
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Usuń karty witryny { $site } z pamięci
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Odśwież karty witryny { $site }
+about-processes-expand-all-sites =
+    .title = Rozwiń wszystkie
+about-processes-collapse-all-sites =
+    .title = Zwiń wszystkie
 about-processes-go-to-tab =
     .title = Przejdź do karty
 # Profiler icons
@@ -31,6 +55,18 @@ about-processes-profile-process =
             [few] Profiluj wszystkie wątki tego procesu przez { $duration } sekundy
            *[many] Profiluj wszystkie wątki tego procesu przez { $duration } sekund
         }
+
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Szukaj w kartach
+    .placeholder = Szukaj w kartach
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Brak kart pasujących do „{ $query }”
 
 ## Column headers
 
@@ -133,6 +169,37 @@ about-processes-tab-count =
         [few] { $count } karty
        *[many] { $count } kart
     }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] Zaznaczono { $count } kartę
+        [few] Zaznaczono { $count } karty
+       *[many] Zaznaczono { $count } kart
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } karta)
+        [few] ({ $count } karty)
+       *[many] ({ $count } kart)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Wyczyść zaznaczenie
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Usuń z pamięci
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Odśwież
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Zamknij
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -184,6 +251,12 @@ about-processes-cpu-fully-idle = nieaktywny
 about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = nieaktywna
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = <0,01%
 # Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
 about-processes-tab-cpu-almost-idle = <0,1%
 
@@ -203,6 +276,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Zmiana w czasie: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) } { $totalUnit }
 
 ## Duration units
 
