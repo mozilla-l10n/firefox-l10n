@@ -122,7 +122,7 @@ extension-controlling-privacy-containers = L'extensió <img data-l10n-name="icon
 extension-controlling-websites-content-blocking-all-trackers = L'extensió <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla aquest paràmetre.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlling-proxy-config = L'extensió <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla com el { -brand-short-name } es connecta a Internet.
+extension-controlling-proxy-config = L'extensió <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla com el { -brand-short-name } es connecta a Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #

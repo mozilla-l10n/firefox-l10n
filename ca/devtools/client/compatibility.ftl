@@ -27,6 +27,7 @@ compatibility-settings-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Paràmetres
+compatibility-target-browsers-header = Navegadors de destinació
 
 ##
 
