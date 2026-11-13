@@ -261,3 +261,18 @@ aiwindow-feedback-preview-report = Shihni hollësi fjalosjeje
 aiwindow-starter-writing-first-draft = Shkruani një skicë të parë
 aiwindow-starter-writing-improve = Përmirëso shkrimin
 aiwindow-starter-writing-proofread = Kontrolloni një mesazh
+aiwindow-starter-planning-simplify = Thjeshtoni një subjekt
+aiwindow-starter-planning-plan = Ndihmoni të hartohet një plan
+aiwindow-starter-browsing-history = Gjeni skeda në historik
+aiwindow-starter-browsing-summarize = Përmblidh skeda
+aiwindow-starter-browsing-compare = Krahasoni skeda
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Hidhe tej { $text }
+    .title = Hidhe tej { $text }

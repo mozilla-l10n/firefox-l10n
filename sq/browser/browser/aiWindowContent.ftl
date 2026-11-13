@@ -3,9 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } Etiketë
+       *[other] { $tags } Etiketa
+    }
+
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Diç shkoi ters. Ju lutemi, riprovoni.
+smartwindow-assistant-error-account-header = Që të përdorni { -smart-window-brand-name }, do t’ju duhet të bëni hyrjen.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Gabim shërbyesi (HTTP { $status }). Ju lutemi, riprovoni.
@@ -65,3 +76,56 @@ smart-window-restored-row-label =
         [one] U rikthye { $count } skedë
        *[other] U rikthyen { $count } skeda
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Hape
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Hap { $count } skedë
+       *[other] Hap { $count } skeda
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] U grupua { $count } skedë
+       *[other] U grupuan { $count } skeda
+    }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grup Skedash
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] U krijua grupi “{ $label }” dhe u shtua { $count } skedë.
+       *[other] U krijua grupi “{ $label }” dhe u shtuan { $count } skeda.
+    }
+smart-window-grouped-tabs-row-label = Skeda të grupuara
+smart-window-opened-tabs-row-label = Skeda të hapura
+
+## Action log
+
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] U plotësua 1 step
+       *[other] U plotësuan { $count } hapa
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = U ngarkuan përfundime kërkimi në këtë skedë. Po analizohen…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } të tjera
