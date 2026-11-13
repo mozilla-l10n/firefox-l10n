@@ -39,6 +39,8 @@ download-ui-cancel-downloads-ok =
         [1] Anuluj pobieranie 1 pliku
        *[other] Anuluj pobieranie { $downloadsCount } plików
     }
+download-ui-confirm-cancel-button = Anuluj
+download-ui-confirm-private-browsing-button = Zamknij okno
 
 ##
 

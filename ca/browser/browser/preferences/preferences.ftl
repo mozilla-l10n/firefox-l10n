@@ -1170,6 +1170,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = S'està sincronitzant…
     .title = Sincronitza ara
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Les opcions de sincronització ara només s’apliquen a aquest dispositiu.
 
 ## The list of things currently syncing.
 
@@ -1207,6 +1210,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Pestanyes obertes
+    .tooltiptext = Pestanyes que teniu obertes en altres dispositius
+    .accesskey = P
 sync-engine-tabs =
     .label = Pestanyes obertes
     .tooltiptext = Una llista d'allò que està obert en tots els dispositius sincronitzats
@@ -1215,6 +1223,22 @@ sync-engine-passwords =
     .label = Contrasenyes
     .tooltiptext = Contrasenyes que heu desat
     .accesskey = C
+sync-engine-addresses2 =
+    .label = Adreces
+    .tooltiptext = Adreces que heu en el { -brand-short-name }
+    .accesskey = A
+sync-engine-payment-methods3 =
+    .label = Formes de pagament
+    .tooltiptext = Formes de pagament que heu desat
+    .accesskey = F
+sync-engine-addons2 =
+    .label = Complements
+    .tooltiptext = Extensions i temes que heu afegit al { -brand-short-name } per a l’escriptori
+    .accesskey = C
+sync-engine-settings2 =
+    .label = Paràmetres
+    .tooltiptext = Paràmetres rellevants del { -brand-short-name }
+    .accesskey = P
 sync-engine-addresses =
     .label = Adreces
     .tooltiptext = Adreces postals que heu desat (només a l'ordinador)

@@ -148,6 +148,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Spowoduje to usunięcie hasła zachowanego w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
        *[other] Spowoduje to usunięcie haseł zachowanych w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Spowoduje to usunięcie hasła z { -brand-short-name(case: "gen") } na wszystkich urządzeniach synchronizujących Twoje hasła. Tego nie można cofnąć.
+       *[other] Spowoduje to usunięcie haseł z { -brand-short-name(case: "gen") } na wszystkich urządzeniach synchronizujących Twoje hasła. Tego nie można cofnąć.
+    }
 contextual-manager-passwords-origin-label = Witryna
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nazwa użytkownika
