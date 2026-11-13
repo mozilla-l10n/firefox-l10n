@@ -8,6 +8,11 @@ profiles-create = Izveidot jaunu profilu
 profiles-restart-title = Palaist no jauna
 profiles-restart-in-safe-mode = Palaist no jauna ar atspējotiem papildinājumiem…
 profiles-restart-normal = Palaist no jauna ierasti…
+profiles-conflict = Cita { -brand-product-name } kopija ir veikusi izmaiņas profilos. Pirms citu izmaiņu veikšanas ir jārestartē { -brand-short-name }.
+profiles-flush-fail-title = Izmaiņas nav saglabātas
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Negaidīta kļūda neļāva saglabāt jūsu izmaiņas.
+profiles-flush-restart-button = Restartēt { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profils: { $name }
@@ -22,10 +27,13 @@ profiles-rootdir = Saknes mape
 profiles-localdir = Vietēja mape
 profiles-current-profile = Šis profils šobrīd tiek izmantots, tāpēc to nevar izdzēst.
 profiles-in-use-profile = Šis profils tiek lietots citā programmā, un to nevar dzēst.
+profiles-cannot-delete-profile = Nevar izdzēst profilu, kas ir saistīts ar citiem profiliem.
 profiles-rename = Pārdēvēt
 profiles-remove = Noņemt
 profiles-set-as-default = Iestatīt kā noklusējuma profilu
 profiles-launch-profile = Atvērt profilu jaunā pārlūkā
+profiles-cannot-set-as-default-title = Nevar iestatīt noklusējuma vērtību
+profiles-cannot-set-as-default-message = Noklusējuma profilu { -brand-short-name } nevar mainīt.
 profiles-yes = jā
 profiles-no = nē
 profiles-rename-profile-title = Pārdēvēt profilu

@@ -6,6 +6,9 @@ common-dialog-title-null = Šī lapa saka
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Nezināms
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = Aizņemts
 common-dialog-username =
     .value = Lietotājvārds
 common-dialog-password =

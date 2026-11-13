@@ -31,6 +31,9 @@ reset-primary-password-window2 =
     .title = Atiestatīt primāro paroli
 reset-password-button-label =
     .label = Atstatīt
+reset-primary-password-text = Ja atiestatīsiet savu primāro paroli, visas jūsu saglabātās tīmekļa un e-pasta paroles, personīgie sertifikāti un privātās atslēgas tiks aizmirstas. Vai tiešām vēlaties atiestatīt savu primāro paroli?
+pippki-reset-password-confirmation-title = Atiestatīt primāro paroli
+pippki-reset-password-confirmation-message = Jūsu galvenā parole ir atiestatīta.
 
 ## Downloading cert dialog
 
@@ -56,6 +59,11 @@ download-cert-view-text = Apskatīt CA sertifikātu
 
 client-auth-window =
     .title = Lietotāja identifikācijas pieprasījums
+client-auth-send-no-certificate =
+    .label = Nesūtiet sertifikātu
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” ir pieprasījis jūs identificēt sevi ar sertifikātu:
 client-auth-cert-details = Izvēlētā sertifikāta detaļas:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -80,6 +88,12 @@ client-auth-cert-details-issued-by = Izdots: { $issuedBy }
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Saglabāts: { $storedOn }
 client-auth-cert-remember-label = Atcerēties šo izvēli:
+client-auth-cert-remember-never =
+    .label = Reiz
+client-auth-cert-remember-always =
+    .label = Pastāvīgi
+client-auth-cert-remember-temporarily =
+    .label = Šai sesijai
 
 ## Set password (p12) dialog
 
@@ -98,6 +112,8 @@ pippki-get-pkcs12-password-message = Lūgums ievadīt paroli, kas tika izmantota
 
 ## Protected authentication dialog
 
+protected-auth-window =
+    .title = Aizsargāta autentifikācija
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Lūgums autentificēties drošības ierīcē ({ $tokenName }). Kā to izdarīt ir atkarīgs no ierīces (piemēram, izmantojot pirkstu nospiedumu lasītāju vai ievadot kodu ar papildtastatūru).

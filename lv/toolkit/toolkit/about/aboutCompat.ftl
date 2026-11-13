@@ -10,6 +10,7 @@ label-interventions = Intervences
 label-more-information = Vairāk informācijas: kļūda { $bug }
 text-disabled-in-about-config = Šī funkcija ir izslēgta sadaļā about:config
 text-no-interventions = Nekādas intervences netiek izmantotas
+text-page-title = Tīmekļa saderība
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when
