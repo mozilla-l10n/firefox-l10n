@@ -12,6 +12,12 @@ printui-sheets-count =
     }
 printui-page-range-picker =
     .aria-label = Səhifə aralığını seçin
+printui-landscape-2 =
+    .label = Üfüqi
+    .title = Üfüqi
+printui-portrait-2 =
+    .label = Şaquli
+    .title = Şaquli
 # Section title for the printer or destination device to target
 printui-destination-label = Hədəf
 # Section title (noun) for the two-sided print options
