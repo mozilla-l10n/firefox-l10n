@@ -147,6 +147,13 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Això eliminarà la contrasenya desada al { -brand-short-name } de tots els dispositius sincronitzats i les alertes de filtracions. Aquesta acció no es pot desfer.
        *[other] Això eliminarà totes les contrasenyes desades al { -brand-short-name } de tots els dispositius sincronitzats i les alertes de filtracions. Aquesta acció no es pot desfer.
     }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Això la suprimirà del { -brand-short-name } en tots els dispositius que sincronitzen les vostres contrasenyes. Aquesta acció no es pot desfer.
+       *[other] Això les suprimirà del { -brand-short-name } en tots els dispositius que sincronitzen les vostres contrasenyes. Aquesta acció no es pot desfer.
+    }
 contextual-manager-passwords-origin-label = Lloc web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nom d’usuari
@@ -189,12 +196,16 @@ contextual-manager-passwords-radiobutton-all = Totes ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alertes ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Voleu eliminar la contrasenya?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Voleu suprimir la contrasenya?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Aquesta acció no es pot desfer.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Enrere
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Elimina
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Suprimeix
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancel·la
 contextual-manager-passwords-alert-card =
@@ -226,6 +237,9 @@ contextual-manager-passwords-update-label =
     .label = Actualitza la contrasenya
 contextual-manager-passwords-remove-label =
     .title = Elimina la contrasenya
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Suprimeix la contrasenya
 contextual-manager-passwords-origin-field =
     .label = Adreça del lloc web
     .placeholder = https://www.example.com
@@ -338,6 +352,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Sí, elimina la contrasenya
        *[other] Yes, remove passwords
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Sí, suprimeix la contrasenya
+       *[other] Sí, suprimeix les contrasenyes
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Per veure les contrasenyes desades, introduïu la vostra contrasenya principal.

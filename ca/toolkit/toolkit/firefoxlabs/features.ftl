@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Les notes de pestanyes són una fu
 experimental-features-tab-context-menu =
     .label = Menú de pestanya simplificat
 experimental-features-tab-context-menu-description = Vegeu un menú contextual més senzill quan feu clic amb el botó dret en una pestanya. Està dissenyat perquè les accions habituals siguin més fàcils de trobar. <a data-l10n-name="connect">Envieu comentaris</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Monitor de recursos
+experimental-features-resource-monitor-description = Vegeu l’ús estimat de memòria i CPU de les pestanyes obertes directament a la barra lateral i descarregueu de la memòria les pestanyes que no utilitzeu per a alliberar recursos. <a data-l10n-name="connect">Envieu comentaris</a>

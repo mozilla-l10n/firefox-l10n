@@ -254,7 +254,7 @@ tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
             [1] Descarrega la pestanya de la memòria
-           *[other] Unload { $tabCount } Tabs
+           *[other] Descarrega { $tabCount } pestanyes de la memòria
         }
     .accesskey = e
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
