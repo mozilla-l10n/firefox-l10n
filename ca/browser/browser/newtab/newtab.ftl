@@ -192,6 +192,9 @@ newtab-privacy-empty-state = El { -brand-short-name } bloca automàticament els 
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Aquí podeu veure el recompte actualitzat.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Menys elements de seguiment, una navegació més ràpida.
+newtab-privacy-empty-state-small-message = Navegueu per començar a blocar.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -564,6 +567,34 @@ newtab-solitaire-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Més informació
 
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Obre el menú del Wrexham AFC
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Vista
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Partits
+newtab-widget-wrexhamafc-view-table = Classificació
+newtab-widget-wrexhamafc-view-fixtures = Calendari
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Fons de pantalla
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -780,6 +811,8 @@ newtab-discovery-empty-section-topstories-header = Ja esteu al dia.
 newtab-discovery-empty-section-topstories-content = Torneu més tard per veure si hi ha més articles.
 newtab-discovery-empty-section-topstories-try-again-button = Torna-ho a provar
 newtab-discovery-empty-section-topstories-loading = S'està carregant…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Els articles no estan disponibles ara mateix
 newtab-discovery-empty-section-topstories-unavailable-body = Comproveu la connexió o torneu-ho a provar més tard.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ups! Sembla que aquesta secció no s'ha carregat del tot.
@@ -1322,6 +1355,12 @@ newtab-report-ads-reason-inappropriate =
     .label = És inadequat
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = L'he vist massa cops
+newtab-report-ads-reason-scam =
+    .label = Estafa o frau
+newtab-report-ads-reason-misleading =
+    .label = Afirmacions enganyoses o falses
+newtab-report-ads-reason-offensive =
+    .label = Ofensiu o inapropiat
 newtab-report-content-wrong-category =
     .label = Categoria incorrecta
 newtab-report-content-outdated =
@@ -1428,6 +1467,12 @@ newtab-widget-menu-move-left = Esquerra
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Dreta
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Inici
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Ginys
 newtab-widget-size-small = Petita
 newtab-widget-size-medium = Mitjana
 newtab-widget-size-large = Grossa
@@ -1464,6 +1509,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Mostra menys ginys
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = El giny no està disponible. Torneu-ho a provar més tard.
 newtab-widget-lists-name-default = Llista de comprovació
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1847,6 +1896,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Cerca una ciutat
     .placeholder = Cerca una ciutat
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Sobrenom (opcional)
+    .description =
+        { $count ->
+            [one] Queda { $count } caràcter
+           *[other] Queden { $count } caràcters
+        }
+    .label = Sobrenom (opcional)
+    .placeholder = Afegeix un sobrenom
 newtab-clock-widget-search-location-input =
     .aria-label = Cerca una ciutat
     .label = Ubicació

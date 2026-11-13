@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copia l'URL de la pestanya
 customkeys-file-focus-search = Focus a la barra de cerca
 customkeys-history-reopen-tab = Torna a obrir la darrera pestanya tancada
 customkeys-history-reopen-window = Torna a obrir la darrera finestra tancada
+customkeys-history-reopen-tab-current-window = Torna a obrir la darrera pestanya tancada de la finestra actual
 customkeys-sidebar-toggle = Mostra/amaga la barra lateral
 customkeys-view-bookmarks-toolbar = Mostra/amaga la barra d'eines d'adreces d'interès
 customkeys-view-picture-in-picture = Imatge sobre imatge

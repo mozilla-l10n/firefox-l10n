@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Canvia la mida de les pestanyes dividides
 tab-devtools-splitter =
     .aria-label = Redimensiona el plafó d'eines per a desenvolupadors
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Afegeix les pestanyes a un grup
+    .accesskey = g
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -277,14 +282,14 @@ tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
             [1] Afegeix la pestanya a un grup nou
-           *[other] Add Tabs to New Group
+           *[other] Afegeix les pestanyes a un grup nou
         }
     .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
             [1] Afegeix la pestanya a un grup
-           *[other] Add Tabs to Group
+           *[other] Afegeix les pestanyes a un grup
         }
     .accesskey = g
 tab-context-move-split-view-to-new-group =
