@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Προσθήκη σελιδοδείκτη…
 sidebar-history-context-menu-delete-pages =
     .label = Διαγραφή σελίδων από το ιστορικό
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Διαγραφή
 
 ## Labels for sidebar bookmarks context menu items
 
