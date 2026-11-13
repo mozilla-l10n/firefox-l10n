@@ -86,7 +86,7 @@ about-private-browsing-nova-info-subheader2 = Esborrarem totes les cerques i els
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Conceptes bàsics de les finestres privades
-about-private-browsing-spotlight-basics-subtitle = Les finestres privades ajuden a mantenir la vostra navegació privada respecte a altres usuaris d'aquest dispositiu. No us fan anònim ni esborren totes les teves dades.
+about-private-browsing-spotlight-basics-subtitle = Les finestres privades ajuden a mantenir la vostra navegació privada respecte a altres usuaris d'aquest dispositiu. No us fan anònim ni esborren totes les vostres dades.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Què cal saber

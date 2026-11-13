@@ -285,6 +285,13 @@ tab-context-move-tab-to-new-group =
            *[other] Afegeix les pestanyes a un grup nou
         }
     .accesskey = g
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Afegeix a un grup
+           *[other] Afegeix { $tabCount } pestanyes a un grup
+        }
+    .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -453,6 +460,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separa la vista dividida
     .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Separa les pestanyes
+    .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Inverteix les pestanyes

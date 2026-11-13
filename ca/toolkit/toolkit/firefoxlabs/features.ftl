@@ -90,7 +90,7 @@ experimental-features-semantic-history-search-description = Utilitzeu un model d
 # Tab Notes
 experimental-features-tab-notes =
     .label = Notes de la pestanya
-experimental-features-tab-notes-description = Les notes de pestanyes són una funció experimental que permet afegir notes a les teves pestanyes. Anoteu el context, recordatoris o els passos següents així podràs recordar perquè ho vas obrir. Ens agradaria escoltar les vostres opinions. <a data-l10n-name="connect">Compartiu-les</a>
+experimental-features-tab-notes-description = Les notes de pestanyes són una funció experimental que permet afegir notes a les vostres pestanyes. Anoteu el context, recordatoris o els passos següents així podreu recordar perquè les vàreu obrir. Ens agradaria escoltar les vostres opinions. <a data-l10n-name="connect">Compartiu-les</a>
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Menú de pestanya simplificat

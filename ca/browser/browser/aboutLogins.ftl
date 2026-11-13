@@ -249,7 +249,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-delete-all-sync-dialog-message =
     { $count ->
         [1] Això la suprimirà del { -brand-short-name } en tots els dispositius que sincronitzen les vostres contrasenyes. Aquesta acció no es pot desfer.
-       *[other] Això les suprimirà del { -brand-short-name } en tots els dispositius que sincronitzen les teves contrasenyes. Aquesta acció no es pot desfer.
+       *[other] Això les suprimirà del { -brand-short-name } en tots els dispositius que sincronitzen les vostres contrasenyes. Aquesta acció no es pot desfer.
     }
 
 ##

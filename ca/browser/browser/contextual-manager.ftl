@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importa d’un altre 
 contextual-manager-passwords-command-import = Importa d’un fitxer…
 contextual-manager-passwords-command-export = Exporta les contrasenyes
 contextual-manager-passwords-command-remove-all = Elimina totes les contrasenyes
+contextual-manager-passwords-command-delete-all = Suprimeix totes les contrasenyes
 contextual-manager-passwords-command-options = Opcions
 contextual-manager-passwords-command-help = Ajuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -103,6 +104,13 @@ contextual-manager-passwords-remove-all-title =
         [1] Voleu eliminar la contrasenya?
        *[other] Voleu eliminar totes les { $total } contrasenyes?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Voleu suprimir { $total } contrasenya?
+       *[other] Voleu suprimir { $total } contrasenyes?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -117,6 +125,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Elimina
         [one] Elimina
        *[other] Elimina-ho tot
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Suprimeix
+       *[other] Suprimeix-les totes
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords

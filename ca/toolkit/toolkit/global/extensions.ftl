@@ -149,4 +149,5 @@ webext-site-perms-serial = Accés a dispositius sèrie
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>El vostre tema de combinacions de colors s’ha eliminat.</b> El { -brand-shorter-name } ha actualitzat la seva col·lecció de combinacions de colors. Podeu trobar les versions més recents al lloc web de complements.
 webext-colorway-theme-migration-notification-button = Obtén les combinacions de colors actualitzades
