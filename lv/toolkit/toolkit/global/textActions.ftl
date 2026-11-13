@@ -39,17 +39,25 @@ text-action-paste-shortcut =
 text-action-delete =
     .label = Dzēst
     .accesskey = D
+text-action-reveal-password =
+    .label = Atklāt paroli
+    .accesskey = v
 text-action-select-all =
     .label = Iezīmēt visu
     .accesskey = v
 text-action-select-all-shortcut =
     .key = A
+text-action-spell-no-suggestions =
+    .label = Nav pareizrakstības ieteikumu
 text-action-spell-add-to-dictionary =
     .label = Pievienot vārdnīcai
     .accesskey = P
 text-action-spell-undo-add-to-dictionary =
     .label = Atcelt pievienošanu vārdnīcai
     .accesskey = A
+text-action-spell-check-toggle =
+    .label = Pārbaudīt pareizrakstību
+    .accesskey = g
 text-action-spell-add-dictionaries =
     .label = Pievienot vārdnīcas…
     .accesskey = P
@@ -81,6 +89,8 @@ text-action-copy-clean-link-to-highlight-2 =
 text-action-remove-highlight-2 =
     .label = Noņemt izcēlumu
     .accesskey = i
+text-action-highlight-selection =
+    .label = Iezīmēt atlasi
 # This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection-1 =
     .label = Pievienot atlasei piebildi
@@ -93,3 +103,10 @@ text-action-copy-link-to-highlight =
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
     .label = Ievietot starpliktuvē tīru saiti izcelšanai
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Noņemt iezīmēto
+profile-window-menu-edit =
+    .label = Labot
+    .accesskey = L

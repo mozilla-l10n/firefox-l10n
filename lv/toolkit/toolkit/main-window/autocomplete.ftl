@@ -64,6 +64,10 @@ autocomplete-more-options-for-entry = Vairāk { $entry } iespēju
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
 autocomplete-remove-record-message = Šo darbību nevar atsaukt.
+autocomplete-delete-record-button = Dzēst
+autocomplete-delete-password-title = Izdzēst paroli?
+autocomplete-delete-address-title = Dzēst adresi?
+autocomplete-delete-payment-method-title = Vai dzēst maksājuma veidu?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

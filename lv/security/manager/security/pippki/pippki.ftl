@@ -21,9 +21,14 @@ pippki-incorrect-pw = Jūs neievadījāt pareizo pašreizējo paroli. Lūdzu, m�
 pippki-pw-change-ok = Parole veiksmīgi nomainīta.
 pippki-pw-empty-warning = Jūsu saglabātās paroles un privātās atslēgas netiks aizsargātas.
 pippki-pw-erased-ok = Jūs esat izdzēsis savu paroli. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Brīdinājums! Jūs esat nolēmis neizmantot paroli. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Jūs pašlaik atrodaties FIPS režīmā. FIPS prasa, lai parole nebūtu tukša.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window2 =
+    .style = min-width: 40em
+    .title = Atiestatīt primāro paroli
 reset-password-button-label =
     .label = Atstatīt
 
