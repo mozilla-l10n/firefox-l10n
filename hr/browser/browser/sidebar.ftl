@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Zabilježi stranicu …
 sidebar-history-context-menu-delete-pages =
     .label = Izbriši stranice iz povijesti
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Izbriši
 
 ## Labels for sidebar bookmarks context menu items
 

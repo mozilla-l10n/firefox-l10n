@@ -1174,6 +1174,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Sinkroniziranje…
     .title = Sinkroniziraj sada
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Tvoj odabir za sinkronizaciju sad se primjenjuje samo na ovom uređaju.
 
 ## The list of things currently syncing.
 

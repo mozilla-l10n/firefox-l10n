@@ -132,6 +132,15 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Ukloni sve
        *[other] Ukloni sve
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Izbriši
+        [one] Izbriši sve
+        [few] Izbriši sve
+       *[other] Izbriši sve
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
