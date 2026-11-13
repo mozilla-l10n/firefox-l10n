@@ -599,6 +599,10 @@ newtab-widget-wrexhamafc-menu-view = Widok
 ## upcoming scheduled matches.
 
 newtab-widget-wrexhamafc-view-matches = Mecze
+newtab-widget-wrexhamafc-view-table = Klasyfikacja
+newtab-widget-wrexhamafc-view-fixtures = Terminarz
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Tapety
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1361,6 +1365,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Jest niestosowna
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Pojawiła się zbyt wiele razy
+newtab-report-ads-reason-scam =
+    .label = Próba oszustwa lub wyłudzenia
+newtab-report-ads-reason-misleading =
+    .label = Mylące lub nieprawdziwe informacje
+newtab-report-ads-reason-offensive =
+    .label = Obraźliwe lub nieodpowiednie treści
 newtab-report-content-wrong-category =
     .label = Błędna kategoria
 newtab-report-content-outdated =
@@ -1467,6 +1477,12 @@ newtab-widget-menu-move-left = W lewo
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = W prawo
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Strona startowa
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widżety
 newtab-widget-size-small = Mały
 newtab-widget-size-medium = Średni
 newtab-widget-size-large = Duży
@@ -1503,6 +1519,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Mniej widżetów
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widżet jest niedostępny. Spróbuj ponownie później.
 newtab-widget-lists-name-default = Lista rzeczy do zrobienia
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1889,6 +1909,22 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Wyszukaj miasto
     .placeholder = Wyszukaj miasto
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Nazwa (opcjonalnie)
+    .description =
+        { $count ->
+            [one] Pozostał { $count } znak
+            [few] Pozostały { $count } znaki
+           *[many] Pozostało { $count } znaków
+        }
+    .label = Nazwa (opcjonalnie)
+    .placeholder = Dodaj nazwę
 newtab-clock-widget-search-location-input =
     .aria-label = Wyszukaj miasto
     .label = Położenie
