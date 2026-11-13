@@ -15,7 +15,9 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Autoritātes
 certmgr-mine = Jums ir jūs identificējoši sertifikāti no šīm organizācijām
+certmgr-remembered = Šie sertifikāti tiek izmantoti, lai jūs identificētu tīmekļa vietnēs
 certmgr-people = Datnē ir sertifikāti, kas norāda uz šo cilvēku identitāti
+certmgr-server = Šie ieraksti identificē servera sertifikāta kļūdu izņēmumus
 certmgr-ca = Datnē ir sertifikāti, kas norāda uz šīm sertificēšanas autoritātēm
 certmgr-edit-ca-cert2 =
     .style = min-width: 48em;
@@ -28,6 +30,8 @@ certmgr-edit-cert-trust-email =
 certmgr-delete-cert2 =
     .style = min-width: 48em; min-height: 24em;
     .title = Dzēst sertifikātu
+certmgr-cert-host =
+    .label = Resursdators
 certmgr-cert-name =
     .label = Sertifikāta nosaukums
 certmgr-cert-server =
@@ -42,6 +46,8 @@ certmgr-email =
     .label = E-pasta adrese
 certmgr-serial =
     .label = Sērijas numurs
+certmgr-fingerprint-sha-256 =
+    .label = SHA-256 pirkstu nospiedums
 certmgr-view =
     .label = Apskatīt…
     .accesskey = A
@@ -118,7 +124,10 @@ delete-user-cert-title =
     .title = Dzēst savus sertifikātus
 delete-user-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos sertifikātus?
 delete-user-cert-impact = Ja izdzēsīsiet vienu no saviem sertifikātiem, vairs nevarēsiet to izmantot sevis identificēšanai tīmeklī.
+delete-ssl-override-title =
+    .title = Dzēst servera sertifikāta izņēmumu
 delete-ssl-override-confirm = Vai tiešām izdzēst šo servera izņēmumu?
+delete-ssl-override-impact = Dzēšot servera izņēmumu, tiek atjaunotas ierastās drošības pārbaudes šim serverim un ir nepieciešams, lai tas izmantotu derīgu sertifikātu.
 delete-ca-cert-title =
     .title = Dzēst CA sertifikātus
 delete-ca-cert-confirm = Tu izvēlējies izdzēst šos CA sertifikātus. Tiks noņemta visa Iebūvēto sertifikātu uzticamība, kam ir tāda pati iedarbība. Vai tiešām izdzēst sertifikātus vai atsaukt to uzticamību?
@@ -133,6 +142,17 @@ delete-email-cert-impact = Ja izdzēsīsiet personas e-pasta sertifikātu, jūs 
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Sertifikāts ar sērijas numurs: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Nesūtīt klienta sertifikātu
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Nav saglabāts)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Nav pieejams)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Pastāvīgs
+temporary-override = Pagaidu
 
 ## Add Security Exception dialog
 

@@ -17,6 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Dzēst profilu...
     .accesskey = D
+profile-selection-conflict-message = Cita { -brand-product-name } kopija ir veikusi izmaiņas profilos. Pirms citu izmaiņu veikšanas ir jārestartē { -brand-short-name }.
 
 ## Messages used in the profile manager
 
@@ -27,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Izmantot izvēlēto profilu, nejautājot ielādes laikā
     .accesskey = s
+profile-has-selectable-profiles-title = Nevar izdzēst profilu, kas ir saistīts ar citiem profiliem.
+profile-has-selectable-profiles-message = Lai dzēstu šo profilu, atveriet to un { -brand-short-name } izvēlnes sadaļā “Profili” atlasiet “Pārvaldīt profilus”. Pēc visu šeit izveidoto papildu profilu dzēšanas varat atgriezties sadaļā about:profiles un dzēst šo profilu.

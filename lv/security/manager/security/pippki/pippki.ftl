@@ -6,6 +6,8 @@ password-quality-meter = Paroles kvalitātes mērītājs
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = Mainīt paroli
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Drošības ierīce: { $tokenName }
@@ -14,6 +16,11 @@ change-password-new = Jaunā parole:
 change-password-reenter = Jaunā parole (vēlreiz):
 change-password-not-set =
     .value = (nav iestatīts)
+pippki-failed-pw-change = Nevar mainīt paroli.
+pippki-incorrect-pw = Jūs neievadījāt pareizo pašreizējo paroli. Lūdzu, mēģiniet vēlreiz.
+pippki-pw-change-ok = Parole veiksmīgi nomainīta.
+pippki-pw-empty-warning = Jūsu saglabātās paroles un privātās atslēgas netiks aizsargātas.
+pippki-pw-erased-ok = Jūs esat izdzēsis savu paroli. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
