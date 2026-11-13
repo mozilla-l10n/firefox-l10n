@@ -14,7 +14,7 @@ date-crashed-heading = Վթարի օրը
 submit-crash-button-label = Ուղարկել
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
-submit-crash-button-failure-label = Ձախողում
+submit-crash-button-failure-label = Ձախողվեց
 crashes-submitted-label = Հաղորդված վթարների զեկույցներ
 date-submitted-heading = Հաղորդման ամսաթիվը
 view-crash-button-label = Տեսք

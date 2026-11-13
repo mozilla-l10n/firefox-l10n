@@ -258,7 +258,7 @@ downloads-error-generic =
 ## Downloads Panel and the Downloads View.
 
 downloads-state-starting = Մեկնարկում է…
-downloads-state-failed = Ձախողում
+downloads-state-failed = Ձախողվեց
 downloads-state-paused = Դադարի մեջ
 downloads-state-canceled = Չեղարկված
 downloads-state-completed = Ավարտված է
