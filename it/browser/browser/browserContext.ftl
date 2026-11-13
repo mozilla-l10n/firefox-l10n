@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Connetti un dispositi
 main-context-menu-use-saved-password =
     .label = Utilizza password salvata
     .accesskey = U
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Utilizza un alias di posta elettronica { -relay-brand-short-name }
     .accesskey = e
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Novità
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Copia pagina
+    .accesskey = C
+main-context-menu-pdfjs-cut-page2 =
+    .label = Taglia pagina
+    .accesskey = T
+main-context-menu-pdfjs-delete-page2 =
+    .label = Elimina pagina
+    .accesskey = E
+main-context-menu-pdfjs-save-page2 =
+    .label = Salva selezione come…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Copia pagina
 main-context-menu-pdfjs-cut-page =
