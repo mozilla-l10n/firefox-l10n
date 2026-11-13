@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Segnala ai siti web di non vendere o condividere i miei dati
     .accesskey = S
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Come utilizzare il controllo ortografico
     .message = Fai clic con il tasto destro del mouse su un campo di testo per attivare o disattivare il controllo ortografico o per cambiare la lingua. Non tutti i campi supportano il controllo ortografico.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = File e applicazioni
 download-save-files-header =
@@ -2478,4 +2481,3 @@ referrals-section-header2 =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link2 =
     .label = Condividi { -brand-product-name }
-
