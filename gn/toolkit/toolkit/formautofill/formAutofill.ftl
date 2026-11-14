@@ -93,6 +93,16 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-capture-update-payment-method-button =
     .label = Mbohekopyahu
     .accessKey = U
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Ñongatu pyahu
+    .accessKey = S
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = ¿Eñongatu tekorosãrã ayvu?
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
