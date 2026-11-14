@@ -377,3 +377,35 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Ignora { $text }
     .title = Ignora { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Ti affianca per aiutarti a portare a termine le tue attività.
+    Pianifica, confronta, esplora e molto altro.
+smartwindow-onboarding-title = Rendila davvero tua
+smartwindow-onboarding-subtitle = Personalizza la funzionalità { -smart-window-brand-name(form: "uppercase-singular") } come preferisci. Puoi cambiare in qualsiasi momento nelle impostazioni.
+smartwindow-onboarding-model-label = Scegli il modello di IA
+smartwindow-onboarding-model-description = Il modello viene utilizzato per chat e azioni nelle { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Automatico
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Consigliato
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name(form: "uppercase-singular") } sceglie il modello più adatto alla tua attività
+smartwindow-onboarding-model-mistral-description = Ideale per chat e navigazione in più lingue
+smartwindow-onboarding-model-gemini-description = Risposte immediate quando hai bisogno di velocità
+smartwindow-onboarding-memories-label = Scegli come { -smart-window-brand-name(form: "uppercase-singular") } può imparare a conoscerti
+smartwindow-onboarding-memories-description = { -smart-window-brand-name(form: "uppercase-singular") } può apprendere dalle chat, dalla navigazione o da entrambe per creare memorie. Col passare del tempo può utilizzarle per personalizzare la tua esperienza.
+smartwindow-onboarding-memories-both = Chat e navigazione
+smartwindow-onboarding-memories-browsing = Solo navigazione
+smartwindow-onboarding-memories-chats = Solo chat
+smartwindow-onboarding-memories-none = Non imparare dalle attività
+smartwindow-onboarding-memories-both-description = Chat nelle { -smart-window-brand-name }, navigazione in { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Navigazione attraverso { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Chat nelle { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Riceverai meno suggerimenti su misura e potresti dover ripetere alcune informazioni nelle varie chat.
+smartwindow-onboarding-default-window =
+    .description = Usala quando avvii o riavvii { -brand-short-name }, così come quando apri link da altre app.
+    .label = Avvia in modalità { -smart-window-brand-name(form: "uppercase-singular") }
+smartwindow-onboarding-save =
+    .label = Salva e continua
