@@ -105,7 +105,7 @@ tabbrowser-unblock-tab-audio-aria-label =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
     { $tabCount ->
-        [one] Zamknąć { $tabCount } kartę?
+        [one] Zamknąć tę kartę?
         [few] Zamknąć { $tabCount } karty?
        *[many] Zamknąć { $tabCount } kart?
     }
@@ -120,7 +120,7 @@ tabbrowser-ask-close-tabs-checkbox = Pytaj o potwierdzenie przed zamknięciem w
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { $windowCount ->
-        [one] Zamknąć { $windowCount } okno?
+        [one] Zamknąć to okno?
         [few] Zamknąć { $windowCount } okna?
        *[many] Zamknąć { $windowCount } okien?
     }
@@ -310,7 +310,7 @@ tab-context-add-tab-to-group =
     .label =
         { $tabCount ->
             [1] Dodaj do grupy
-            [one] Dodaj { $tabCount } kartę do grupy
+            [one] Dodaj do grupy
             [few] Dodaj { $tabCount } karty do grupy
            *[many] Dodaj { $tabCount } kart do grupy
         }
