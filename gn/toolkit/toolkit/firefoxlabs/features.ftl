@@ -74,3 +74,6 @@ experimental-features-tab-notes =
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Tendayke poravoha mombykypyre
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Porupyrã monitor

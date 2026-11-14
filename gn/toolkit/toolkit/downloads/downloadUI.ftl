@@ -40,6 +40,11 @@ download-ui-cancel-downloads-ok =
        *[other] Eheja { $downloadsCount } Ñemboguejy
     }
 download-ui-confirm-cancel-button = Eheja
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Esẽ { -brand-short-name }-gui
+       *[other] Ñesẽ { -brand-short-name }-gui
+    }
 download-ui-confirm-offline-button = Eike ñandutípe
 
 ##
