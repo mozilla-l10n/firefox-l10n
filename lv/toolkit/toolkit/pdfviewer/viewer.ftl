@@ -598,9 +598,9 @@ pdfjs-editor-add-signature-image-browse-link =
 
 ## Controls
 
-pdfjs-editor-add-signature-description-label = Apraksts (alternatīvais teksts)
+pdfjs-editor-add-signature-description-label = Apraksts (paskaidrojošais teksts)
 pdfjs-editor-add-signature-description-input =
-    .title = Apraksts (alternatīvais teksts)
+    .title = Apraksts (paskaidrojošais teksts)
 pdfjs-editor-add-signature-description-default-when-drawing = Paraksts
 pdfjs-editor-add-signature-clear-button-label = Skaidrs paraksts
 pdfjs-editor-add-signature-clear-button =

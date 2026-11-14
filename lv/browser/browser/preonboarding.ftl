@@ -15,7 +15,7 @@ preonboarding-manage-and-read-header-v2 = Lasīt izmantošanas noteikumus un pri
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Izlasiet mūsu lietošanas noteikumus
 # Label for header style button that toggles showing the Privacy Notice
-preonboarding-privacy-notice-header-button-title = Izlasiet mūsu privātuma paziņojumu
+preonboarding-privacy-notice-header-button-title = Lasīt mūsu privātuma paziņojumu
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Pārvaldīt diagnostikas un mijiedarbības datus
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
