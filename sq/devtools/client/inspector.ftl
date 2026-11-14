@@ -18,6 +18,8 @@ colorpicker-tooltip-color-name-title = Më e afërta te: { $colorName }
 colorpicker-tooltip-hue-slider-title = Ngjyresë
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Patejdukshmëri
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Pseudoklasa specifike për elementë
 # A title text for the button in the Inspector toolbar that opens the menu
 # controlling how the Inspector panels are split.
 inspector-split-orientation-button-title = Skemë panelesh
@@ -56,3 +58,9 @@ inspector-emulation-panel-color-scheme-none = Pa emulim
 # A label text for the reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-reduce = Reduktoje
     .aria-label = Aktivizo emulim të reduktuar lëvizjesh
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Pa parapëlqim
+    .aria-label = Mos aktivizo parapëlqim për emulim të reduktuar lëvizjesh
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Pa emulim
+    .aria-label = Çaktivizo emulim të reduktuar lëvizjesh
