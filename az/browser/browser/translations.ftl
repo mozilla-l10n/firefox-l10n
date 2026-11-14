@@ -40,7 +40,7 @@ translations-panel-settings-never-translate-unknown-language =
     .label = Heç vaxt bu dili tərcümə etmə
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Heç vaxt bu saytı tərcümə etmə
+    .label = Bu saytı heç vaxt tərcümə etmə
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.

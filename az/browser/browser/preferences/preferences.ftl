@@ -238,17 +238,28 @@ settings-translations-subpage-speed-up-translation-header =
     .label = Tərcüməni sürətləndirin
 settings-translations-subpage-automatic-translation-header =
     .label = Avtomatik tərcümə
+settings-translations-subpage-always-translate-header =
+    .label = Həmişə bu dilləri tərcümə et
 settings-translations-subpage-never-translate-header =
     .label = Bu dilləri heç vaxt tərcümə etmə
 settings-translations-subpage-never-translate-sites-header =
     .label = Bu saytları heç vaxt tərcümə etmə
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Sayt əlavə etmək üçün <img data-l10n-name="translations-icon"/> tərcümə panelini açın, <img data-l10n-name="settings-icon"/> tərcümə tənzimləmələrini seçin, sonra “Bu saytı heç vaxt tərcümə etmə” seçimini edin.
 settings-translations-subpage-language-select-option =
-    .label = Dil əlavə et
+    .label = Dil əlavə edin
 settings-translations-subpage-language-add-button =
-    .aria-label = Dil əlavə edin
-    .title = Dil əlavə edin
+    .aria-label = Dili əlavə et
+    .title = Dili əlavə et
+settings-translations-subpage-download-languages-header =
+    .label = Dilləri endirin
 settings-translations-subpage-download-languages-select-option =
     .label = Dil seçin
+settings-translations-subpage-download-languages-button =
+    .aria-label = Dili endir
+    .title = Dili endir
+settings-translations-subpage-no-languages-downloaded =
+    .label = Heç bir dil endirilməyib
 settings-translations-subpage-no-languages-added =
     .label = Heç bir dil əlavə edilməyib
 # Variables:
