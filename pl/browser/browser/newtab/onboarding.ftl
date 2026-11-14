@@ -637,3 +637,19 @@ welcome-back-onboarding-card-label-tabs = Zaprowadź porządek dzięki pionowym 
 welcome-back-onboarding-card-label-vpn = Zachowaj prywatność dzięki wbudowanej sieci VPN
 welcome-back-onboarding-card-label-pdf = Wyróżniaj tekst, podpisuj i edytuj pliki PDF
 welcome-back-onboarding-card-tilebutton-label = Wypróbuj
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Skonfiguruj { -brand-short-name(case: "acc") } w mgnieniu oka
+hnt-card-import-body = Przenieś zakładki, hasła i pozostałe dane z innej przeglądarki.
+hnt-card-import-primary-button = Zaimportuj swoje dane
+hnt-card-default-body = { -brand-product-name } to jedyna duża przeglądarka zbudowana do ochrony, a nie do śledzenia.
+hnt-card-default-primary-button = Otwieraj odnośniki w { -brand-short-name(case: "loc") }
+hnt-card-pin-header = Miej { -brand-short-name(case: "acc") } pod jednym kliknięciem
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Wracaj do bezpiecznego przeglądania z Docka.
+       *[other] Wracaj do bezpiecznego przeglądania z paska zadań.
+    }
+hnt-card-mobile-header = Korzystaj z wbudowanej ochrony na telefonie
+hnt-card-mobile-body = Pobierz { -brand-product-name(case: "acc") } na telefon, aby korzystać z dodatkowej prywatności wszędzie tam, gdzie jesteś.
