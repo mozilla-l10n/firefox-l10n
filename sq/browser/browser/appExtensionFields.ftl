@@ -39,3 +39,26 @@ extension-nova-lagoon-name = Lagunë
 extension-nova-pine-name = Pishë
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 extension-nova-ash-name = Hi
+
+## A selection of official Firefox themes from previous Firefox releases, for users
+## who prefer a gradient-free look. These theme names are shown in the about:addons
+## "Classic themes" section and in the theme add-on cards.
+
+# Name for a blue theme.
+extension-classic-blue-name = Blu
+# Name for a cyan theme.
+extension-classic-cyan-name = Blu e gjelbër
+# Name for a violet theme.
+extension-classic-violet-name = Vjollcë
+# Name for a green theme.
+extension-classic-green-name = E gjelbër
+# Name for a purple theme.
+extension-classic-purple-name = E purpur
+# Name for a pink theme.
+extension-classic-pink-name = E trëndafiltë
+# Name for a yellow theme.
+extension-classic-yellow-name = E verdhë
+# Name for a red theme.
+extension-classic-red-name = E kuqe
+# Name for an orange theme.
+extension-classic-orange-name = Portokalli

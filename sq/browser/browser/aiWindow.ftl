@@ -238,6 +238,19 @@ smart-window-close-confirm =
     .aria-label = Anuloje kërkesën dhe mbylle
     .tooltiptext = Anuloje kërkesën dhe mbylle
 smart-window-confirm-close-tab = Mbylle
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Mbyll { $count } skedë
+       *[other] Mbyll { $count } skeda
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Skeda u mbyll
 
 ## Smart Window new tab promo
 

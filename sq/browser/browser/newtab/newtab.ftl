@@ -77,6 +77,12 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Kohëmatës
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sporte
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Sahat
 home-prefs-mission-message2 =
     .message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë.
 home-prefs-manage-topics-link2 =
@@ -133,10 +139,145 @@ home-prefs-support-firefox-header-srd =
     .label = Përkrahni { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Mësoni se si
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Mësoni më tepër
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privatësi
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Gjurmues i bllokuar sot
+       *[other] Gjurmues të bllokuar sot
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Nëpër { $count } sajt
+       *[other] Nëpër { $count } sajte
+    }
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1-cta = Shihni mbrojtje
+newtab-privacy-message-info-2-cta = Shihni mbrojtje
+newtab-privacy-message-info-3-cta = Shihni mbrojtje
+newtab-privacy-message-info-4-cta = Shihni mbrojtje
+newtab-privacy-message-info-5-cta = Shihni mbrojtje
+newtab-privacy-message-info-6-cta = Mësoni më tepër
+newtab-privacy-message-info-7-cta = Shihni mbrojtje
+newtab-privacy-message-info-8-cta = Mësoni më tepër
+newtab-privacy-message-info-9-cta = Vëre parazgjedhje
+newtab-privacy-message-info-11-cta = Mësoni më tepër
+newtab-privacy-message-info-12-cta = Shihni mbrojtje
+newtab-privacy-message-info-13-cta = Shihni mbrojtje
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Mësoni më tepër
+newtab-privacy-message-promo-monitor-2-cta = Mësoni më tepër
+newtab-privacy-message-promo-signin-1-cta = Hyni
+newtab-privacy-message-promo-vpn-1-cta = Hape VPN-në
+newtab-privacy-message-promo-vpn-2-cta = Hape VPN-në
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-daily-cap-cta = Shihni mbrojtje
+newtab-privacy-message-streak-cta = Shihni mbrojtje
+newtab-privacy-message-first-protection-cta = Shihni mbrojtje
+
+## Strings for the Finance widget
+
+# Context menu item linking to more information about the Finance widget.
+newtab-stocks-menu-learn-more = Mësoni më tepër
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Financë
+
+## Finance widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Përfundime kërkimi
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Mbrapsht
+    .title = Mbrapsht
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Pa përfundime për “{ $query }”
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Po ngarkohet…
+
+## Strings for the Picture of the Day widget
+
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Mësoni më tepër
+
+## Strings for the Search widget
+
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Mësoni më tepër
+
 ## Strings for the Travel widget
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Mësoni më tepër
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Mësoni më tepër
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-table = Tabelë
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Sfonde
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Histori
+newtab-spaces-tab-widgets = Widget-e
+newtab-spaces-tab-activity = Veprimtari
 
 ## Search box component.
 
@@ -211,6 +352,23 @@ newtab-topsite-sponsored = E sponsorizuar
 topsite-label-pinned =
     .aria-label = { $title } (i fiksuar)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Njoftime nga { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Mu tani
+newtab-topsites-hover-card-mark-all-read =
+    .aria-label = Vëru shenjë të tërave si të lexuara
+    .title = Vëru shenjë të tërave si të lexuara
+newtab-topsites-hover-card-settings =
+    .aria-label = Rregullime për njoftimet
+    .title = Rregullime për njoftimet
+newtab-topsites-hover-card-dismiss =
+    .aria-label = Hidhe tej
+    .title = Hidhe tej
 
 ## Context Menu - Action Tooltips.
 
@@ -327,6 +485,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Riprovoni
 newtab-discovery-empty-section-topstories-loading = Po ngarkohet…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam këtë ndarje, por jo dhe aq.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = I mëparshmi
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Pasuesi
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

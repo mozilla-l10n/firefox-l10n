@@ -103,6 +103,14 @@ appmenu-remote-tabs-unverified = Llogaria juaj duhet verifikuar.
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji tani
 appmenuitem-fxa-sign-in = Hyni te { -brand-product-name }
 appmenuitem-fxa-manage-account = Administroni llogari
+fxa-menu-sync-status-on = Njëkohësimi është Aktiv
+fxa-menu-sync-status-off = Njëkohësimi është i Çaktivizuar
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Njëkohësoni të Dhënat Tuaja
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Të dhënat tuaj s’po njëkohësohen
 # Button shown next to "Sync is Off" when the user is signed in but sync is
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
@@ -250,6 +258,7 @@ appmenu-search-history =
 ## headings are specific to the panel they appear in.
 
 appmenu-sync-promo-signin-cta = Hyni
+appmenu-sync-promo-turnonsync-cta = Aktivizo njëkohësim
 appmenu-sync-promo-connectdevice-cta = Lidhni një pajisje
 
 ## Help panel

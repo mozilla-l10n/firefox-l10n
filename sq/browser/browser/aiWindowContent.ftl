@@ -76,6 +76,8 @@ smart-window-restored-row-label =
         [one] U rikthye { $count } skedë
        *[other] U rikthyen { $count } skeda
     }
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Grupoji
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Hape
 # Button label - "Open" is a verb (action to open, then group, tabs)
