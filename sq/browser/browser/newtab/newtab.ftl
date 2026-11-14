@@ -935,6 +935,21 @@ newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Listë e re
 newtab-widget-section-title = Widget-e
 newtab-widget-menu-hide = Fshihe widget-in
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Lëvize
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Majtas
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Djathtas
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Kreu
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widget-e
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .aria-label = Fshihni krejt widget-et
@@ -976,12 +991,60 @@ newtab-daily-briefing-card-timestamp = Përditësuar { $minutes }m më parë
 newtab-widget-message-title = Mbani përqendrimin, me lista dhe kohëmatës të brendshëm
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Nga kujtues të shpejtë e deri te për-t’u-bërë të përditshme, nga sesione përqendrimi e deri te pushime — merruni me punë dhe ndiqni kohën.
+newtab-promo-card-cta-addons = Provojeni tani
 newtab-promo-card-title = Përkrahni { -brand-product-name }
 newtab-promo-card-body = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 newtab-promo-card-cta = Mësoni më tepër
 newtab-promo-card-dismiss-button =
     .aria-label = Hidheni tej
     .title = Hidhe tej
+
+##
+
+newtab-sports-widget-menu-learn-more = Mësoni më tepër
+newtab-sports-widget-choose-wallpaper =
+    .label = Zgjidhni një sfond
+newtab-sports-widget-skip = Anashkaloje
+newtab-sports-widget-cancel = Anuloje
+newtab-sports-widget-back-button =
+    .aria-label = Mbrapsht
+newtab-sports-widget-done-button =
+    .label = U bë
+newtab-sports-widget-view-all =
+    .label = Shihini krejt
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Mbylle
+    .title = Mbylle
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Falas
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Rajone të tjera
+newtab-sports-widget-quarter-finals = Çerekfinale
+# Used for a match currently ongoing
+newtab-sports-widget-now = Tani
+newtab-sports-widget-results = Përfundime
+newtab-sports-widget-semi-finals = Gjysmëfinale
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finale
+newtab-sports-widget-view-results-link = Shihni përfundime
+newtab-sports-widget-third-place = Vendi i tretë
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Nënkampion
+newtab-sports-widget-champions = Kampionë
+newtab-sports-widget-match-penalties = Njëmbëdhjetëmetërsha
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnjë dhe Hercegovinë
+newtab-sports-widget-team-name-label-civ =
+    .label = Bregu i Fildishtë
+newtab-sports-widget-team-name-label-eng =
+    .label = Angli
+newtab-sports-widget-team-name-label-sco =
+    .label = Skoci
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1007,6 +1070,38 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name }-
 
 ## Strings for the Clock widget
 
+newtab-clock-widget-button-add-clock = Shtoje
+newtab-clock-widget-button-cancel = Anuloje
+newtab-clock-widget-button-back =
+    .aria-label = Mbrapsht
+    .title = Mbrapsht
+newtab-clock-widget-button-save = Ruaje
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, nofkë: { $nickname }
+newtab-clock-widget-add-clock-form =
+    .aria-label = Shtoni sahat
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Përpunoni sahat
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Përfundime kërkimi
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Mbrapsht
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Nofkë: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nju Jork Siti
@@ -1017,6 +1112,7 @@ newtab-clock-city-us-san-diego = San Diego
 newtab-clock-city-us-dallas = Dallas
 newtab-clock-city-us-houston = Houston
 newtab-clock-city-us-philadelphia = Filadelfia
+newtab-clock-city-us-atlanta = Atlanta
 newtab-clock-city-us-washington-dc = Uashington D.C.
 newtab-clock-city-us-boston = Boston
 newtab-clock-city-us-miami = Miami
