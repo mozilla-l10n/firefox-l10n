@@ -126,3 +126,7 @@ onboarding-minimal-tabs-description =
 
 onboarding-theme-picker-subtitle = { -brand-short-name }-a bir az daha rəng qatın.
 onboarding-theme-picker-button-label = Saxla və davam et
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-pill-label-pdf = PDF alətləri

@@ -40,6 +40,37 @@ download-ui-cancel-downloads-ok =
        *[other] Anuluj pobieranie { $downloadsCount } plików
     }
 download-ui-confirm-cancel-button = Anuluj
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Czy zatrzymać pobieranie bieżącego pliku i zakończyć { -brand-short-name(case: "acc") }?
+               *[other] Czy zatrzymać pobieranie wszystkich { $downloadsCount } plików i zakończyć { -brand-short-name(case: "acc") }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Czy zatrzymać pobieranie bieżącego pliku i zakończyć { -brand-short-name(case: "acc") }?
+               *[other] Czy zatrzymać pobieranie wszystkich { $downloadsCount } plików i zakończyć { -brand-short-name(case: "acc") }?
+            }
+    }
+download-ui-confirm-quit-message = Po ponownym uruchomieniu { -brand-short-name } spróbuje wznowić pobieranie, ale dotychczasowy postęp może zostać utracony.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Zakończ { -brand-short-name(case: "acc") }
+       *[other] Zakończ { -brand-short-name(case: "acc") }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Czy zatrzymać pobieranie bieżącego pliku i przejść do trybu offline?
+       *[other] Czy zatrzymać pobieranie wszystkich { $downloadsCount } plików i przejść do trybu offline?
+    }
+download-ui-confirm-offline-message = Po ponownym połączeniu z Internetem { -brand-short-name } spróbuje wznowić pobieranie, ale dotychczasowy postęp może zostać utracony.
+download-ui-confirm-offline-button = Przejdź do trybu offline
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Czy zatrzymać pobieranie bieżącego pliku i zamknąć to prywatne okno?
+       *[other] Czy zatrzymać pobieranie wszystkich { $downloadsCount } plików i zamknąć to prywatne okno?
+    }
 download-ui-confirm-private-browsing-button = Zamknij okno
 
 ##
