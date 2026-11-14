@@ -3,3 +3,15 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Mbaje mend këtë vendim
+speech-recognition-model-download-allow =
+    .label = Vazhdo
+    .accesskey = V
+speech-recognition-model-download-not-now =
+    .label = Jo Tani
+    .accesskey = J
+speech-recognition-model-download-cancel =
+    .label = Anuloje
+    .accesskey = A
+speech-recognition-model-download-ok =
+    .label = OK
+    .accesskey = O
