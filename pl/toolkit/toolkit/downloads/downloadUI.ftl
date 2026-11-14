@@ -71,6 +71,11 @@ download-ui-confirm-private-browsing-title =
         [1] Czy zatrzymać pobieranie bieżącego pliku i zamknąć to prywatne okno?
        *[other] Czy zatrzymać pobieranie wszystkich { $downloadsCount } plików i zamknąć to prywatne okno?
     }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Tego pobierania nie będzie można wznowić.
+       *[other] Tych pobrań nie będzie można wznowić.
+    }
 download-ui-confirm-private-browsing-button = Zamknij okno
 
 ##
