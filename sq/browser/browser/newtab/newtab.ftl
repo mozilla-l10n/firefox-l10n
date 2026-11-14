@@ -509,6 +509,8 @@ newtab-custom-shortcuts-toggle =
     .label = Shkurtore
 newtab-custom-shortcuts-nova =
     .label = Shkurtore
+newtab-custom-row-description =
+    .description = Numër rreshtash
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -538,6 +540,21 @@ newtab-custom-widget-lists-toggle =
     .label = Lista
 newtab-custom-widget-timer-toggle =
     .label = Kohëmatës
+newtab-custom-widget-clock-toggle =
+    .label = Sahat
+newtab-custom-widget-sports-toggle2 =
+    .label = Sporte
+newtab-custom-widget-privacy-toggle =
+    .label = Privatësi
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Financë
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopë
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Udhëtim
 newtab-custom-widget-section-title = Widget-e
 newtab-custom-widget-section-toggle =
     .label = Widget-e
@@ -550,6 +567,24 @@ newtab-custom-close-menu-button =
     .title = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Dukje
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Shihni më tepër tema
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Tema { -brand-product-name }-i
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Temat tuaja
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Aktivizoje
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Çaktivizoje
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -558,6 +593,7 @@ newtab-wallpaper-title = Sfonde
 newtab-wallpaper-reset = Riktheje te parazgjedhjet
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Ngarkoni një figurë
+newtab-wallpaper-add-an-image = Shtoni figurë
 newtab-wallpaper-custom-color = Zgjidhni një ngjyrë
 newtab-wallpaper-toggle-title =
     .label = Sfonde
@@ -670,6 +706,17 @@ newtab-weather-menu-change-location = Ndryshoni vendndodhje
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Kërkoni për vendndodhje
     .placeholder = Kërkoni për vendndodhje
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Mbrapsht
+    .title = Mbrapsht
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Sugjerime vendndodhjeje
+newtab-weather-cancel-input =
+    .aria-label = Anuloje
+    .title = Anuloje
 newtab-weather-menu-weather-display = Shfaqje moti
 newtab-weather-todays-forecast = Moti për sot
 newtab-weather-see-full-forecast = Shihni parashikimin e plotë të motit
@@ -757,6 +804,8 @@ newtab-section-follow-highlight-subtitle = Ndiqni interesat tuaja, që të shihn
 
 newtab-topic-navigation-label =
     .aria-label = Tema
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Më tepër
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -773,6 +822,7 @@ newtab-section-confirm-block-topic-p2 = Subjektet e bllokuar s’do të shfaqen 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bllokoje { $topic }
+newtab-section-block-cancel-button = Anuloje
 
 ## Strings for custom wallpaper highlight
 
@@ -869,6 +919,9 @@ newtab-widget-lists-input-menu-move-up = Ngjite sipër
 newtab-widget-lists-input-menu-move-down = Zbrite poshtë
 newtab-widget-lists-input-menu-delete = Fshije
 newtab-widget-lists-input-menu-edit = Përpunoni
+newtab-widget-lists-edit-clear =
+    .aria-label = Anuloje
+    .title = Anuloje
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Krijoni një listë të re
