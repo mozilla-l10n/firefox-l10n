@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = Δημιουργήθηκε νέα
 confirmation-hint-firefox-relay-mask-reused = Επαναχρησιμοποιήθηκε υπάρχουσα μάσκα!
 confirmation-hint-screenshot-copied = Το στιγμιότυπο αντιγράφηκε!
 confirmation-hint-tab-group-saved = Η ομάδα καρτελών αποθηκεύτηκε
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Βρείτε τις ομάδες καρτελών σε αυτό το μενού
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
