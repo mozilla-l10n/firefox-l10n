@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = W każdej chwili możesz przywr
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = W każdej chwili możesz przywrócić swoje grupy kart w menu „Pokaż wszystkie karty”.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Grupy kart zachowują się automatycznie. Znajdziesz je tutaj.
 
 ## Multi Profiles feature onboarding messages
 
@@ -663,3 +665,7 @@ hnt-card-taskbar-tabs-primary-button = Dodaj witryny do paska zadań
 hnt-card-extensions-header = Wzmocnij { -brand-short-name(case: "acc") } dzięki rozszerzeniom
 hnt-card-extensions-body = Dostosuj przeglądarkę za pomocą naszych najpopularniejszych rozszerzeń.
 hnt-card-extensions-primary-button = Przeglądaj
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Wszystko gotowe. Możesz przeglądać po swojemu.
+hnt-card-last-card-header-end = Ochrona przed śledzeniem jest włączona.
