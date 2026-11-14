@@ -273,6 +273,15 @@ onboarding-checklist-remove =
     .label = Премахване на списъка със задачи
 onboarding-checklist-remove-2 = Премахване на списъка със задачи
 
+## Tab Groups feature onboarding strings
+
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Намирайте групите си раздели в менюто „Търсене и управление на раздели“ по всяко време.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Когато затворите група раздели, можете да я отворите отново от менюто „Търсене и управление на раздели“ по всяко време.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Отворете отново групите си от раздели от менюто „Търсене и управление на раздели“ по всяко време.
+
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Създаване на профил
