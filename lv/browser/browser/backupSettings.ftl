@@ -213,7 +213,7 @@ backup-error-retry = Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
-backup-file-header = { -brand-short-name } ir gatavs datu atjaunošanai
+backup-file-header = { -brand-short-name } ir gatavs atjaunošanai
 backup-file-title = Atjaunot { -brand-short-name }
 backup-file-intro = Atgriezieties pie pārlūkošanas un atgūstiet visas savas grāmatzīmes, vēsturi un citus datus. <a data-l10n-name="backup-file-support-link">Uzziniet vairāk</a>
 backup-file-path-label = Rezerves datne:

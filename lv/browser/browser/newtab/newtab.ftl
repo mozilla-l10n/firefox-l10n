@@ -1529,7 +1529,7 @@ newtab-widget-lists-name-default = Kontrolsaraksts
 
 newtab-widget-timer-notification-title = Logrīks Taimeris
 newtab-widget-timer-notification-focus = Koncentrēšanās laiks ir beidzies. Labs darbs. Vajadzīgs pārtraukums?
-newtab-widget-timer-notification-break = Tavs pārtraukums ir beidzies. Vai esi gatavs koncentrēties?
+newtab-widget-timer-notification-break = Tavs pārtraukums ir beidzies. Vai esi gatavībā pievērsties darbam?
 newtab-widget-timer-notification-warning = Paziņojumi ir izslēgti
 newtab-widget-timer-mode-focus =
     .label = Fokuss

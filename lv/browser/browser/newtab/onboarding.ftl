@@ -236,7 +236,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Rādīt izvērst
 
 mr2022-onboarding-gratitude-title = Jūs palīdzat mums izveidot labāku tīmekli
 mr2022-onboarding-gratitude-subtitle = Paldies, ka izmantojat { -brand-short-name }, ko atbalsta Mozilla Foundation. Ar jūsu atbalstu mēs strādājam, lai padarītu internetu atvērtāku, pieejamāku un labāku ikvienam.
-mr2022-onboarding-gratitude-primary-button-label = Uzziniet, kas jauns
+mr2022-onboarding-gratitude-primary-button-label = Apskati, kas jauns
 mr2022-onboarding-gratitude-secondary-button-label = Sākt pārlūkošanu
 
 ## Onboarding spotlight for infrequent users
