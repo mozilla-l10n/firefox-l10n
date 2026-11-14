@@ -104,6 +104,7 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Вид процес
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Аргументи
+restart-in-troubleshoot-mode-label = Режим за отстраняване на неизправности…
 clear-startup-cache-title = Опитайте да изчистите междинната памет за стартиране
 
 ## Media titles
