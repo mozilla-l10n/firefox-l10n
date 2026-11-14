@@ -653,3 +653,13 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Korzystaj z wbudowanej ochrony na telefonie
 hnt-card-mobile-body = Pobierz { -brand-product-name(case: "acc") } na telefon, aby korzystać z dodatkowej prywatności wszędzie tam, gdzie jesteś.
+hnt-card-mobile-primary-button = Pobierz { -brand-product-name(case: "acc") } na telefon
+hnt-card-wallpaper-header = Wybierz nową tapetę
+hnt-card-wallpaper-body = Dodaj ulubione tło, aby czuć się na tym ekranie jak w domu.
+hnt-card-wallpaper-primary-button = Dostosuj
+hnt-card-taskbar-tabs-header = Dodaj ulubione witryny do paska zadań systemu Windows
+hnt-card-taskbar-tabs-body = Otwieraj najczęściej odwiedzane witryny jak aplikacje, korzystając ze wszystkich zabezpieczeń { -brand-product-name(case: "gen") }.
+hnt-card-taskbar-tabs-primary-button = Dodaj witryny do paska zadań
+hnt-card-extensions-header = Wzmocnij { -brand-short-name(case: "acc") } dzięki rozszerzeniom
+hnt-card-extensions-body = Dostosuj przeglądarkę za pomocą naszych najpopularniejszych rozszerzeń.
+hnt-card-extensions-primary-button = Przeglądaj
