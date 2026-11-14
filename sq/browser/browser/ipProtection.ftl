@@ -29,6 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Përdorni <a data-l10n-name="lea
 ipprotection-feature-introduction-title-privacy = Shtoni një tjetër shtresë privatësie
 ipprotection-feature-introduction-title-privacy-1 = Shtoni një tjetër shtesë privatësie, me VPN të brendshme
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ja e brendshme e { -brand-product-name }-it</a> ndihmon të mbrohet shfletimi juaj. Zgjidhni nga një sërë vendndodhjesh të ndryshme, për ta mbajtur më privat faktin se ku shfletoni.
+ipprotection-feature-introduction-link-text-privacy-3 = Merrni <a data-l10n-name="learn-more-vpn">privatësi ekstra</a>, duke zgjedhur nga një shumicë vendndodhjesh për të fshehur se ku shfletoni.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja, edhe kur gjendeni në një Dritare Private.
 ipprotection-feature-introduction-button-primary = Pasuesja
 ipprotection-feature-introduction-button-secondary-not-now = Jo tani
@@ -37,13 +38,29 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Jo, faleminderit
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Jo, faleminderit
+ipprotection-feature-introduction-button-secondary-remove = Hiqe VPN-në nga paneli
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Hiqe VPN-në nga paneli
+ipprotection-feature-introduction-button-open-vpn = Hape VPN-në
 ipprotection-feature-introduction-button-get-started = Fillojani
+
+## Summer promo offramp callout buttons
+
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Hape VPN-në
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Vëre si parazgjedhje
+ipprotection-summer-promo-offramp-get-subscription-button = Merrni { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Hidhe tej
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Zgjidhni se ku përdorni VPN
 ipprotection-site-settings-callout-subtitle = Çaktivizoni VPN-në për një sajt specifik dhe do ta mbajmë mend herës tjetër që e vizitoni.
 ipprotection-site-settings-callout-button = E mora vesh
+
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Provojeni
+ipprotection-location-selection-callout-secondary-button = Hidhe tej
 
 ## VPN for Android promo callout
 
@@ -52,6 +69,12 @@ ipprotection-android-promo-callout-primary-button = E mora vesh
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Jo tani
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Hidhe tej
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Hape VPN-në
+ipprotection-holiday-promo-secondary-button = Hidhe tej
 
 ## Panel
 
@@ -64,6 +87,14 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .aria-label = VPN-ja është e mbyllur për këtë sajt
     .label = Përdore VPN-në për këtë sajt
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Administroni rregulla VPN-je
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Rregulli juaj
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN-ja është e çaktivizuar për këtë sajt
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN-ja është e hapur për këtë sajt
 ipprotection-settings-link =
     .label = Rregullime
 
@@ -74,6 +105,8 @@ ipprotection-button-turn-vpn-off = Çaktivizoje VPN-në
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Çaktivizoje VPN-në gjithkund
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Aktivizoje
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Aktivizoje VPN-në
 # Button while VPN is connecting
@@ -86,6 +119,24 @@ ipprotection-connection-status-excluded-1 = VPN-ja është e mbyllur për këtë
     .aria-label = VPN-ja është e mbyllur për këtë sajt
 ipprotection-connection-status-connecting-1 = VPN-ja po lidhet…
     .aria-label = VPN-ja po lidhet…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Çaktivizoje
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Vendndodhje: E rekomanduara
+ipprotection-recommended-location-description = { -brand-product-name }-i gjen vendndodhjen më të shpejtë
+ipprotection-recommended-location-badge = E RE
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Vendndodhje: { $country }
+ipprotection-locations-subview =
+    .title = Zgjidhni vendndodhje
+ipprotection-locations-subview-description = Zgjidhni një tjetër vendndodhje prej nga ku të shfletohet.
+ipprotecion-locations-subview-recommended-label = E rekomanduar
+ipprotection-locations-subview-recommended-description = Gjen vendndodhjen më të shpejtë.
 
 ## VPN paused state
 
@@ -119,6 +170,8 @@ ipprotection-message-continuous-onboarding-intro = Që të fshihni vendndodhjen 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ujdiseni VPN-në të aktivizohet</a> sa herë që hapni { -brand-short-name }-in, për një shtresë shtesë mbrojtjeje.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }-i do të mbajë mend me cilët sajte keni vendosur të përdoret VPN. Përditësojeni këtë kurdo te <a data-l10n-name="setting-link">rregullimet</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ja është e mbyllur për këtë sajt
+confirmation-hint-ipprotection-navigated-to-included-site = VPN-ja është e hapur për këtë sajt
+ipprotection-open-button = Hapni { -brand-product-name }-in
 ipprotection-connection-status-generic-error-title-1 = S’u lidh dot me VPN-në
     .aria-label = S’u lidh dot me VPN-në
 
@@ -155,6 +208,25 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sajte
         }
     .label = Administroni rregullime sajti
+ip-protection-site-rules-header-1 =
+    .heading = Administroni rregulla VPN-je
+ip-protection-site-rules-delete-all-button =
+    .label = Fshiji krejt rregullat
+ip-protection-site-rules-empty = Rregullat që caktoni do të duken këtu.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN përherë aktive
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN përherë e çaktivizuar
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Përpunoni rregullin për { $website }
+    .title = Përpunojeni
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Fshije rregullin për { $website }
+    .title = Fshije
 ip-protection-autostart =
     .label = Hape automatikisht VPN-në
 ip-protection-autostart-checkbox =
@@ -170,6 +242,47 @@ ip-protection-vpn-upgrade-link =
 ip-protection-exceptions-dialog-window =
     .title = Administroni rregullime sajti
 ip-protection-exclusions-desc = Përdor VPN për krejt sajtet, hiq ata në këtë listë. Shtoni këtu një sajt, ose duke hapur VPN-në.
+ip-protection-edit-site-rule-window =
+    .title = Përpunoni rregullin
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Ruaje
+    .buttonaccesskeyaccept = R
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Jepni një sajt, mandej përzgjidhni gjendje VPN për të.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Sajt
+    .placeholder = p.sh.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Gjendje VPN-je
+ip-protection-site-rule-status-on =
+    .label = Përherë aktive
+ip-protection-site-rule-status-off =
+    .label = Përherë e çaktivizuar
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Jepni një adresë të vlefshme sajti.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Ky sajt ka tashmë një rregull
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Gabim gjatë krijimit të rregullit. Ju lutemi, riprovoni.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Të fshihet rregulli për { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Anuloje
+ip-protection-delete-site-rule-confirm =
+    .label = Fshije
+ip-protection-delete-all-site-rules-message = Të fshihen krejt rregullat për sajte?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Fshiji krejt rregullat
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = S’u fshi dot rregulli
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = S’u fshinë dot rregullat
+ip-protection-delete-site-rule-retry =
+    .label = Riprovoni
 
 ## IP Protection Bandwidth
 
@@ -216,7 +329,11 @@ vpn-paused-alert-title = VPN-ja u ndal
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi i VPN-së do të rifillohet muajin që vjen.
+vpn-error-page-continue-description = Zgjidhni si të vazhdohet pa VPN
+vpn-error-page-keep-browsing = Vazhdo shfletimin në këtë sesion
+vpn-error-page-new-session = Nis një sesion të ri
 vpn-paused-alert-close-tabs-button = Mbylli krejt skedat
 vpn-paused-alert-continue-wo-vpn-button = Vazhdo pa VPN
+vpn-error-alert-title-1 = VPN-ja dhe rregullat s’funksionojnë tani për tani.
 vpn-error-alert-title = VPN-ja s’është duke funksionuar.
 vpn-error-alert-body = Riprovoni më vonë.
