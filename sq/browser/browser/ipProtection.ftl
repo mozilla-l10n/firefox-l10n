@@ -26,6 +26,9 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Ju paraqesim VPN-në, tanimë drejt e nga brenda shfletuesit tuaj
 ipprotection-feature-introduction-title-1 = Provoni VPN-në e brendshme të { -brand-product-name }-it
 ipprotection-feature-introduction-link-text-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja.
+ipprotection-feature-introduction-title-privacy = Shtoni një tjetër shtresë privatësie
+ipprotection-feature-introduction-title-privacy-1 = Shtoni një tjetër shtesë privatësie, me VPN të brendshme
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ja e brendshme e { -brand-product-name }-it</a> ndihmon të mbrohet shfletimi juaj. Zgjidhni nga një sërë vendndodhjesh të ndryshme, për ta mbajtur më privat faktin se ku shfletoni.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja, edhe kur gjendeni në një Dritare Private.
 ipprotection-feature-introduction-button-primary = Pasuesja
 ipprotection-feature-introduction-button-secondary-not-now = Jo tani

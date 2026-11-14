@@ -5,3 +5,16 @@
 moz-box-link-anchor =
     .title = Hapet në skedë të re
 moz-box-link-opens-in-new-tab = Hapet në skedë të re
+moz-box-item-reorder-handle =
+    .aria-label = Rirenditeni objektin duke përdorur Ctrl+Shift+ArrowUp, ose Ctrl+Shift+ArrowDown
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Rirenditeni { $item } duke përdorur Ctrl+Shift+ArrowUp, ose Ctrl+Shift+ArrowDown
+
+## Screen reader announcements made after an item in a reorderable list is moved.
+## Variables:
+##   $position (number) - The new position of the item in the list, starting at 1.
+##   $total (number) - The total number of items in the list.
+
+moz-box-group-reorder-announcement = Objekti u kalua në pozicionin { $position } nga { $total } gjithsej
