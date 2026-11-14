@@ -195,6 +195,11 @@ website-language-heading =
     .label = Vebsaytın dili
 website-preferred-language =
     .label = Üstünlük verilən dillər
+website-add-language =
+    .label = Dil əlavə et
+website-add-language-button =
+    .aria-label = Seçilmiş dili əlavə et
+    .title = Seçilmiş dili əlavə et
 choose-button =
     .label = Seçin…
     .accesskey = S
@@ -228,6 +233,34 @@ settings-translations-more-settings-button =
     .label = Daha çox tərcümə tənzimləməsi
 settings-translations-subpage-header =
     .heading = Daha çox tərcümə tənzimləməsi
+settings-translations-subpage-speed-up-translation-header =
+    .description = Daha sürətli və internet bağlantısı olmadan tərcümə üçün dilləri tam yükləyin.
+    .label = Tərcüməni sürətləndirin
+settings-translations-subpage-automatic-translation-header =
+    .label = Avtomatik tərcümə
+settings-translations-subpage-never-translate-header =
+    .label = Bu dilləri heç vaxt tərcümə etmə
+settings-translations-subpage-never-translate-sites-header =
+    .label = Bu saytları heç vaxt tərcümə etmə
+settings-translations-subpage-language-select-option =
+    .label = Dil əlavə et
+settings-translations-subpage-language-add-button =
+    .aria-label = Dil əlavə edin
+    .title = Dil əlavə edin
+settings-translations-subpage-download-languages-select-option =
+    .label = Dil seçin
+settings-translations-subpage-no-languages-added =
+    .label = Heç bir dil əlavə edilməyib
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size }MB) silinsin?
+settings-translations-subpage-download-delete-button =
+    .label = Sil
+settings-translations-subpage-download-cancel-button =
+    .label = Ləğv et
+settings-translations-subpage-no-sites-added =
+    .label = Heç bir sayt əlavə edilməyib
 check-user-spelling =
     .label = Hərf səhvləriniz siz yazdıqca yoxlanılsın
     .accesskey = y
@@ -448,6 +481,9 @@ home-custom-homepage-address =
     .placeholder = Ünvanı daxil et
 home-custom-homepage-address-button =
     .label = Ünvan əlavə et
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Hələ vebsayt əlavə edilməyib.
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Əlfəcinlər…
@@ -679,6 +715,9 @@ primary-password-os-auth-dialog-message-macosx = Baş Parol yarat
 
 ## Privacy section - Autofill
 
+payments-delete-payment-prompt-cancel-button = Ləğv et
+addresses-delete-address-prompt-cancel-button = Ləğv et
+passports-delete-passport-prompt-cancel-button = Ləğv et
 pane-passwords-autofill-title2 = Parollar və avto doldurma
     .title = Parollar və avto doldurma
 preferences-passwords-autofill-header =
@@ -950,6 +989,8 @@ preferences-ai-controls-block-confirmation-description = { -brand-short-name }-d
 preferences-ai-controls-block-confirmation-features-start = Nələr əngəllənəcək:
 preferences-ai-controls-block-confirmation-translations = Tərcümələr
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Ləğv et
 preferences-ai-controls-header3 =
     .heading = Süni intellekt idarəetmələri
 
