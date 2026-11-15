@@ -65,7 +65,7 @@ mr2022-onboarding-secondary-skip-button-label = Bu addımı keç
 ## MR2022 New User Easy Setup screen strings
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
-mr2022-onboarding-easy-setup-primary-button-label = Saxla və davam et
+mr2022-onboarding-easy-setup-primary-button-label = Saxla və davam elə
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Əvvəlki səyyahdan idxal et
 
@@ -105,7 +105,7 @@ restore-from-backup-secondary-top-button = Nüsxədən geri qaytar
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Hər şey hazır! { -brand-short-name } məlumatlarınız geri qaytarıldı.
-restored-from-backup-success-with-checklist-primary-button = Saxla və davam et
+restored-from-backup-success-with-checklist-primary-button = Saxla və davam elə
 restored-from-backup-success-with-checklist-secondary-button = Bu addımı keç
 
 ## Onboarding 2026 brand refresh
@@ -125,7 +125,7 @@ onboarding-minimal-tabs-description =
 ## Theme Picker screen strings
 
 onboarding-theme-picker-subtitle = { -brand-short-name }-a bir az daha rəng qatın.
-onboarding-theme-picker-button-label = Saxla və davam et
+onboarding-theme-picker-button-label = Saxla və davam elə
 
 ## Welcome Back Onboarding
 

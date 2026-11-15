@@ -47,7 +47,7 @@ genai-page-button-summarize = Səhifənin icmalını çıxart
 genai-onboarding-choose-header = { -brand-short-name } yan panelində istifadə edəcəyiniz Sİ söhbət botunu seçin
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = İstənilən vaxt dəyişin. Seçim etməkdə kömək üçün <a data-l10n-name="learn-more">hər bir söhbət botu haqqında ətraflı öyrənin</a>.
-genai-onboarding-primary = Davam et
+genai-onboarding-primary = Davam elə
 genai-onboarding-secondary = Bağla
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
@@ -64,7 +64,7 @@ genai-chatbot-summarize-button = Səhifənin icmalını çıxart
 ## Model Optin Component
 
 genai-model-optin-continue =
-    .label = Davam et
+    .label = Davam elə
 genai-model-optin-optout =
     .label = Ləğv et
 genai-model-optin-cancel =

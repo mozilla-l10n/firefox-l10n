@@ -13,23 +13,23 @@ findbar-find-button-close =
     .tooltiptext = Axtarış sətrini bağla
 findbar-highlight-all2 =
     .label = Hamısını işıqlandır
+    .tooltiptext = İfadənin olduğu hər yeri işıqlandır
     .accesskey =
         { PLATFORM() ->
             [macos] l
            *[other] a
         }
-    .tooltiptext = İfadənin olduğu hər yeri işıqlandır
 findbar-case-sensitive =
     .label = Reqistri nəzərə al
-    .accesskey = n
     .tooltiptext = Böyük/kiçik hərf həssaslığı ilə axtar
+    .accesskey = n
 findbar-entire-word =
     .label = Tam Sözlər
-    .accesskey = T
     .tooltiptext = Sadəcə tam sözləri axtar
+    .accesskey = T
 findbar-not-found = Uyğunlaşma tapılmadı
-findbar-wrapped-to-top = Səhifənin sonuna gəlindi, başdan davam et
-findbar-wrapped-to-bottom = Səhifənin əvvəlinə gəlindi, sondan davam et
+findbar-wrapped-to-top = Səhifənin sonuna gəlindi, başdan davam elə
+findbar-wrapped-to-bottom = Səhifənin əvvəlinə gəlindi, sondan davam elə
 findbar-normal-find =
     .placeholder = Səhifədə tap
 findbar-fast-find =
