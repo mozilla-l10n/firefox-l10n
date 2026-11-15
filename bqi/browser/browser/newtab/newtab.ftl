@@ -245,6 +245,9 @@ newtab-stocks-list-markets = بازارا
     .label = بازارا
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = پیتینیڌن و ری نوم یا نماد
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = مالی
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -337,10 +340,24 @@ newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
 newtab-recent-searches-tab-recent = پیتینیڌنا دیندایی
 # Tab listing what is trending with the user's search engine.
 newtab-recent-searches-tab-trending = سرتالا ترند
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = وا { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = هیم سکو
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = پاک کردن «{ $search }» ز پیتینیڌنا دیندایی
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = پیتینیڌن
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = گۊشیڌن نومگه پیتینیڌن
+    .title = گۊشیڌن نومگه پیتینیڌن
 
 ## Strings for the Horoscopes widget
 
