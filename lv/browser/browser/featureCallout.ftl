@@ -198,7 +198,7 @@ tab-groups-2026-onboarding-cta-button = Izveidot grupu
 
 sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
 sidebar-button-callout-subtitle = Sānjoslas poga ir izmantojama, lai izvērstu sānjoslu, lai varētu redzēt ciļņu virsrakstus.
-sidebar-button-callout-vertical-tabs = Lai parādītu cilnes, rīkjoslā atlasiet sānu joslas pogu.
+sidebar-button-callout-vertical-tabs = Lai parādītu cilnes, rīkjoslā jāatlasa sānu joslas poga.
 sidebar-deprecation-callout-title = Atjaunināta sānu josla drīzumā būs pieejama
 sidebar-deprecation-callout-subtitle = Mēs pakāpeniski pārtraucam lietot sānu joslas versiju, kuru pašlaik izmantojat. Izmēģiniet atjaunināto sānu joslu. Tā ir ātrāka un jūs iegūstat piekļuvi vairāk rīkiem.
 sidebar-deprecation-cta-button = Izmēģiniet tagad

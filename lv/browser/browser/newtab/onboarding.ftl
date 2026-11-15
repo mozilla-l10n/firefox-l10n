@@ -334,7 +334,7 @@ onboarding-new-vertical-tabs-label = Cilnes sānos
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Cilnes augšpusē
 # Setup screen for vertical tabs for existing users
-onboarding-existing-tabs-title = Stateniskās cilnes ir klāt
+onboarding-existing-tabs-title = Stateniskas cilnes ir klāt
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Iepazīstinām ar stateniskajām cilnēm
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.

@@ -399,7 +399,7 @@ windows-10-eos-sync-callout-get-started-button = Sākt darbu
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
-windows-10-eos-feature-toast-title = Stateniskās cilnes un ciļņu kopas ir klāt!
+windows-10-eos-feature-toast-title = Stateniskas cilnes un ciļņu kopas ir klāt!
 # In English, "dropped" is a colloquial form for released.
 windows-10-eos-feature-toast-subtitle = Pēc plaša pieprasījuma { -brand-product-name } ir ieviesis jaunas funkcijas, lai jūsu pārlūkošana būtu vienkāršāka un koncentrētāka.
 windows-10-eos-feature-toast-whats-new-button = Skatiet jaunumus

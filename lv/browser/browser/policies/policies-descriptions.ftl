@@ -66,7 +66,7 @@ policy-DisableMacOSUserPolicies = Neņemt vērā pamatnostādnes no lietotāja i
 policy-DisablePrimaryPasswordCreation = Ja iestatīts, nevar izveidot galveno paroli.
 policy-DisablePasswordReveal2 = Neļaut atklāt paroles saglabātajos pieteikšanās vienumos vai paroļu laukos.
 policy-DisablePrivateBrowsing = Izslēgt privāto pārūkošanu.
-policy-DisableProfileImport = Izslēgt izvēlnes vienumu datu importēšanai no cita pārlūka.
+policy-DisableProfileImport = Atspējot izvēlnes vienumu datu ievietošanai no cita pārlūka.
 policy-DisableProfileRefresh2 = Atspēo pogu “Atsvaidzināt { -brand-short-name }” sarežģījumu novēršanas informācijā (about:support) un support.mozilla.org, kā arī uzvednē, kas piedāvā atsvaidzināt { -brand-short-name }, kad tas nav kādu laiku izmantots.
 policy-DisableProfileRefresh = Izslēgt { -brand-short-name } atsvaidzināšanas pogu lapā about:support
 policy-DisableRemoteImprovements = Neļaut { -brand-short-name } lietot veiktspējas, stabilitātes un funkciju izmaiņas starp atjauninājumiem.
@@ -94,7 +94,7 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Izslēgt brīdin�
 # English or translate them as verbs.
 policy-Extensions = Uzstāda, noņem vai slēdz paplašinājumus. Uzstādīšanas iespējai kā parametri ir jānorāda URL vai ceļi. Noņemšanas un slēgšanas iespējām - paplašinājuma identifikators.
 policy-ExtensionSettings = Pārvaldīt visus paplašinājumu uzstādīšanas aspektus.
-policy-ExtensionUpdate = Ieslēgt vai izslēgt automātisku paplašinājumu atjaunināšanu.
+policy-ExtensionUpdate = Iespējot vai atspējot automātisku paplašinājumu atjaunināšanu.
 policy-FirefoxHome2 = Konfigurēt { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfigurēt { -firefox-suggest-brand-name }.
 policy-GenerativeAI = Konfigurējiet ģeneratīvā mākslīgā intelekta funkcijas.

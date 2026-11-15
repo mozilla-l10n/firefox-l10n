@@ -69,3 +69,27 @@ more-from-moz-new-products-button = Shihni produkte të reja
 more-from-moz-firefox-mobile-qr-promo =
     .message = Skanojeni me kamerën e telefonit apo tabletit tuaj, që të merrni aplikacionin. Prekeni lidhjen, kur të duket.
 more-from-moz-firefox-mobile-email-link = Dërgojeni me email lidhjen e shkarkimit te telefoni juaj
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .description = Mësoni se kur janë ekspozuar në internet të dhënat tuaja personale, me një kontroll falas.
+    .label = { -mozmonitor-brand-name }
+more-from-moz-firefox-relay-card =
+    .description = Mbroni të marrët tuaj nga mesazhe të padëshiruar, me maskim falas email-esh.
+    .label = { -relay-brand-name }
+more-from-moz-mdn-card =
+    .description = Mësoni programim web me udhërrëfyes dhe referenca falas.
+    .label = { -mdn-brand-name }
+more-from-moz-thunderbird-card =
+    .description = Përdorni email-in tuaj, kalendarë dhe kontakte që nga një aplikacion i shpejtë.
+    .label = { -thunderbird-brand-name }
+more-from-moz-thunderbird-box-link =
+    .label = Merrni { -thunderbird-brand-short-name }-in
+more-from-moz-firefox-enterprise-box-link =
+    .label = Mësoni rreth { -firefox-enterprise-brand-name }
+more-from-moz-solo-box-link =
+    .label = Provoni { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Shihni produkte të reja
