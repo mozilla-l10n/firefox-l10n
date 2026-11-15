@@ -625,3 +625,8 @@ welcome-back-onboarding-pill-label-pdf = PDF-työkalut
 welcome-back-onboarding-card-label-vpn = Suojaa yksityisyyttäsi sisäänrakennetulla VPN:llä
 welcome-back-onboarding-card-label-pdf = Korosta, allekirjoita ja muokkaa PDF-tiedostoja
 welcome-back-onboarding-card-tilebutton-label = Kokeile
+
+## New Tab Onboarding cards
+
+hnt-card-default-primary-button = Avaa linkit { -brand-short-name }illa
+hnt-card-pin-header = Pidä { -brand-short-name } yhden napsautuksen päässä
