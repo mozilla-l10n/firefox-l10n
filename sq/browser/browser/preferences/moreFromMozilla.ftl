@@ -5,12 +5,17 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-page-header =
+    .heading = Më tepër nga { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Më tepër nga { -vendor-short-name }
 more-from-moz-subtitle = Shihni produkte të tjera { -vendor-short-name } që punojnë për të përkrahur një internet të shëndetshëm.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Për Celular
 more-from-moz-firefox-mobile-description = Shfletuesi për celular që vë privatësinë mbi të gjitha.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } për Celular
+more-from-moz-firefox-mobile =
+    .description = Shfletuesi për celular që vë privatësinë tuaj mbi të gjitha.
+    .label = { -brand-product-name } për Celular
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Zbuloni një shtresë më tepër shfletimi anonim dhe mbrojtjeje
 more-from-moz-qr-code-box-firefox-mobile-title = Shkarkojeni duke përdorur pajisjen tuaj celulare. Drejtoni kamerën tuaj drejt kodit QR. Kur të shfaqet një lidhje, prekeni.
@@ -45,3 +50,22 @@ more-from-moz-solo-title-2 = Krijues IA Sajtesh { -solo-ai-brand-name }
 more-from-moz-mdn-description = Mësoni zhvillim web me udhërrëfyes dhe referenca falas, shteruese.
 more-from-moz-mdn-button = Mësoni zhvillim web
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Email, kalendar dhe kontakte falas — sistemuar sipas mënyrë tuaj.
+more-from-moz-thunderbird-button = Merrni { -thunderbird-brand-short-name }-in
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Produkte të Reja { -vendor-short-name }
+more-from-moz-new-products-description = Zbuloni produktet më të reja nga { -vendor-short-name }.
+more-from-moz-new-products-button = Shihni produkte të reja
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Skanojeni me kamerën e telefonit apo tabletit tuaj, që të merrni aplikacionin. Prekeni lidhjen, kur të duket.
+more-from-moz-firefox-mobile-email-link = Dërgojeni me email lidhjen e shkarkimit te telefoni juaj
