@@ -1173,8 +1173,25 @@ newtab-widget-section-minimize =
 newtab-widget-section-show-widgets =
     .aria-label = Shfaqni ndarjen e widget-eve
     .title = Shfaq widget-e
+newtab-widget-section-menu-button =
+    .aria-label = Hapni menu widget-esh
+    .title = Menu widget-esh
+newtab-widget-add-widgets-button =
+    .aria-label = Shtoni <em>widget</em>
+    .title = Shtoni <em>widget</em>
 newtab-widget-section-menu-manage = Administroni widget-e
+newtab-widget-section-menu-hide-all = Fshihni widget-et
+newtab-widget-section-menu-learn-more = Mësoni më tepër
 newtab-widget-section-feedback = Tregonani si ju duket
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Shfaq më tepër widget-e
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Shfaq më pak widget-e
+newtab-widget-lists-name-default = Listë hapash
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1195,6 +1212,11 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Çaktivizoni njoftimet
 newtab-widget-timer-menu-notifications-on = Aktivizoni njoftimet
 newtab-widget-timer-menu-learn-more = Mësoni më tepër
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Hapni menu kohëmatësi
+    .title = Hap menu kohëmatësi
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Tituj Kryesues
 newtab-daily-briefing-card-menu-dismiss = Hidhe tej
@@ -1204,6 +1226,11 @@ newtab-daily-briefing-card-timestamp = Përditësuar { $minutes }m më parë
 newtab-widget-message-title = Mbani përqendrimin, me lista dhe kohëmatës të brendshëm
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Nga kujtues të shpejtë e deri te për-t’u-bërë të përditshme, nga sesione përqendrimi e deri te pushime — merruni me punë dhe ndiqni kohën.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Bëjeni { -brand-product-name }-in tuajin
+newtab-promo-card-body-addons = Zgjidhni një sfond nga koleksioni ynë, ose krijoni një tuajin.
 newtab-promo-card-cta-addons = Provojeni tani
 newtab-promo-card-title = Përkrahni { -brand-product-name }
 newtab-promo-card-body = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
@@ -1212,8 +1239,47 @@ newtab-promo-card-dismiss-button =
     .aria-label = Hidheni tej
     .title = Hidhe tej
 
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Hap menu fjalëkryqesh
+    .title = Hap menu fjalëkryqesh
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Bazuar në Particle
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-pause-aria =
+    .aria-label = Ndale kohëmatësin
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minutë
+           *[other] { $minutes } minuta
+        }
+newtab-widget-timer-decrease-min =
+    .title = Ule me 1 minutë
+newtab-widget-timer-increase-min =
+    .title = Shto 1 minutë
+newtab-widget-timer-mode-group =
+    .aria-label = Mënyrë kohëmatësi
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = { "" }
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Pushimi juaj mbaroi
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Ju duhet një pushim?
+
 ##
 
+newtab-sports-widget-menu-view-results = Shihni përfundime
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Data kyçe
 newtab-sports-widget-menu-learn-more = Mësoni më tepër
 newtab-sports-widget-choose-wallpaper =
     .label = Zgjidhni një sfond
@@ -1233,18 +1299,59 @@ newtab-sports-widget-watch-stream-free = Falas
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = Rajone të tjera
 newtab-sports-widget-quarter-finals = Çerekfinale
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Data kyçe
+newtab-sports-widget-upcoming = Së Afërmi
 # Used for a match currently ongoing
 newtab-sports-widget-now = Tani
 newtab-sports-widget-results = Përfundime
 newtab-sports-widget-semi-finals = Gjysmëfinale
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
+newtab-sports-widget-postponed = E shtyrë
+newtab-sports-widget-suspended = E pezulluar
+newtab-sports-widget-cancelled = E anuluar
+newtab-sports-widget-information = Hollësi rreth ndeshjes
 newtab-sports-widget-view-results-link = Shihni përfundime
 newtab-sports-widget-third-place = Vendi i tretë
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Nënkampion
 newtab-sports-widget-champions = Kampionë
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-penalties = Njëmbëdhjetëmetërsha
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } kundër { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) kundër { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
@@ -1258,6 +1365,15 @@ newtab-sports-widget-team-name-label-eng =
     .label = Angli
 newtab-sports-widget-team-name-label-sco =
     .label = Skoci
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Zgjidhni sfond
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Shtoni widget-e
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Eksploroni widget-e
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1283,6 +1399,17 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name }-
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Fshihe sahatin
+newtab-clock-widget-menu-learn-more = Mësoni më tepër
+newtab-clock-widget-menu-edit = Përpunoni sahate
+newtab-clock-widget-menu-switch-to-12h = Kalo në formatin 12-orësh
+newtab-clock-widget-menu-switch-to-24h = Kalo në formatin 24-rësh
+newtab-clock-widget-label-your-clocks = Sahatet tuaj
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Mbrapsht
+    .title = Mbrapsht
 newtab-clock-widget-button-add-clock = Shtoje
 newtab-clock-widget-button-cancel = Anuloje
 newtab-clock-widget-button-back =

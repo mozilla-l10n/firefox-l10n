@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] Anulo 1 Shkarkim
        *[other] Anulo { $downloadsCount } Shkarkime
     }
+download-ui-confirm-cancel-button = Anuloje
 
 ##
 
