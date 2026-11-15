@@ -16,6 +16,9 @@ customkeys-reset-all = Rikthe krejt shkurtoret te parazgjedhjet
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Ky tast i është përshoqëruar tashmë { $conflict }. Doni të zëvendësohet?
 customkeys-reset-all-confirm = Jeni i sigurt se doni të rikthehen krejt shkurtoret e tastierës te parazgjedhjet përkatëse?
+customkeys-file-duplicate-tab = Përsëdyte Skedën
+customkeys-file-copy-tab-url = KopjoicURL Skede
+customkeys-file-focus-search = Kaloje Fokusin te Shtylla e Kërkimeve
 customkeys-history-reopen-tab = Rihap Skedën e Fundit të Mbyllur
 customkeys-history-reopen-window = Rihap Dritaren e Fundit të Mbyllur
 customkeys-sidebar-toggle = Shfaq/Fshih Anështyllën
