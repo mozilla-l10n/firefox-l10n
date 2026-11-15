@@ -447,7 +447,7 @@ recommended-themes-card-heading =
 recommended-themes-heading = Ieteicamie motīvi
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
-addon-sitepermissions-required = Piešķir <span data-l10n-name="hostname">{ $hostname } </span> šādas iespējas:
+addon-sitepermissions-required = Piešķir <span data-l10n-name="hostname">{ $hostname }</span> šādas spējas:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Jūtaties radoši? <a data-l10n-name="link">Izveidojiet savu motīvu, izmantojot Firefox Color.</a>
@@ -538,7 +538,7 @@ addon-category-mlmodel = Ierīcē iebūvētais MI
 addon-category-mlmodel-title =
     .title = Ierīcē iebūvētais MI
 mlmodel-heading = Pārvaldiet ierīcē esošos MI modeļus
-mlmodel-description = Dažas { -brand-short-name } funkcijas un paplašinājumi darbojas ar MI modeļiem, kas darbojas lokāli jūsu ierīcē. Šī pieeja aizsargā jūsu privātumu un daudzos gadījumos paātrina veiktspēju. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
+mlmodel-description = Dažas { -brand-short-name } iespējas un paplašinājumus darbina MI modeļi, kas vietēji darbojas ierīcē. Šī pieeja aizsargā privātumu un daudzos gadījumos paātrina veiktspēju. <a data-l10n-name="learn-more">Uzzināt vairāk</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Noņemt

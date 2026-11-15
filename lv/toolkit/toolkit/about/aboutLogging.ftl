@@ -98,7 +98,7 @@ about-logging-saved = Saglabāts { $path }
 about-logging-uploading-progress = Profila datu augšupielāde: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Variables:
 #   $url (string) - The URL where the profile can be found
-about-logging-uploaded = Augšupielādēts mapē <a data-l10n-name="uploaded-message-url">{ $url } </a>
+about-logging-uploaded = Augšupielādēts mapē <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Kopīgošanas URL
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.

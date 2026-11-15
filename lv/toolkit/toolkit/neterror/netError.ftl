@@ -174,14 +174,14 @@ certerror-expired-cert-intro = { -brand-short-name } noteica nepilnību un nedev
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm = <b>{ $hostname } </b>, visticamāk, ir droša vietne, taču drošu savienojumu nevarēja izveidot. Šo problēmu izraisa <b>{ $mitm } </b>, kas ir vai nu programmatūra jūsu datorā, vai tīklā.
+certerror-mitm = <b>{ $hostname }</b>, visticamāk, ir droša vietne, taču nevarēja izveidot drošu savienojumu. Šo nebūšanu izraisa <b>{ $mitm }</b>, kas ir vai nu programmatūra datorā, vai arī tīkls.
 neterror-corrupted-content-intro = Lappuse, kuru mēģināt skatīt nevar parādīt, jo tika atrasta kļūda datu pārraidi.
 neterror-corrupted-content-contact-website = Lūdzu, sazinieties ar mājas īpašniekiem, lai informētu viņus par šo problēmu.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Papildu informācija:  SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> izmanto novecojušu un nedrošu drošības tehnoloģiju. Uzbrucējs varētu piekļūt informācijai, kuru uzskatījāt par droši aizsargātu. Lapas administratoram vajadzēs salabot serveri, pirms varēsiet apmeklē lapu.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> izmanto novecojušu un nedrošu drošības tehnoloģiju. Uzbrucējs varētu piekļūt informācijai, kuru uzskatīji par droši aizsargātu. Tīmekļvietnes pārvaldītājam vajadzēs salabot serveri, pirms varēsi apmeklēt vietni.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Kļūdas kods: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
@@ -205,10 +205,10 @@ certerror-mitm-what-can-you-do-about-it-antivirus = Ja jūsu pretvīrusu program
 certerror-mitm-what-can-you-do-about-it-corporate = Ja izmantojat korporatīvo tīklu, varat sazināties ar savu IT nodaļu.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack = Ja neesat pazīstams ar <b>{ $mitm } </b>, tad tas varētu būt uzbrukums, un jums nevajadzētu turpināt vietnes apmeklēšanu.
+certerror-mitm-what-can-you-do-about-it-attack = Ja nav zināšanu par <b>{ $mitm }</b>, tad tas varētu būt uzbrukums, un Tev nevajadzētu turpināt vietnes apmeklēšanu.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack-sts = Ja neesat pazīstams ar <b>{ $mitm } </b>, tad tas varētu būt uzbrukums, un jūs neko nevarat darīt, lai piekļūtu vietnei.
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ja nav zināšanu par <b>{ $mitm } </b>, tad tas varētu būt uzbrukums, un nav nekā, ko Tu varētu darīt, lai piekļūtu vietnei.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ir drošības pamatnostādne, dēvēta par HTTP Strict Transport Security (HSTS), kas nozīmē, ka { -brand-short-name } var pieslēgties vietnei tikai drošā veidā. Nevar pievienot izņēmumu, lai apmeklētu šo vietni.
@@ -229,17 +229,17 @@ fp-neterror-offline-body-title = Izskatās, ka ir sarežģījums ar interneta sa
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nevar izveidot drošu savienojumu ar serveri { $hostname }.
-fp-neterror-offline-intro = { -brand-short-name } nevar izveidot savienojumu ar serveri vietnē <strong>{ $hostname } </strong>
-fp-neterror-offline-intro-2 = { -brand-short-name } nevar izveidot savienojumu ar serveri vietnē <strong>{ $hostname } </strong>.
+fp-neterror-offline-intro = { -brand-short-name } nevar izveidot savienojumu ar serveri <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } nevar izveidot savienojumu ar serveri <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Serveris <strong>{ $hostname }</strong> pārāk ilgi neatbild.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
-fp-neterror-http-error-intro = Serveris vietnē <strong>{ $hostname } </strong> nosūtīja atpakaļ kļūdu: { $responsestatus } { $responsestatustext }
+fp-neterror-http-error-intro = Serveris <strong>{ $hostname }</strong> atpakaļ nosūtīja kļūdu: { $responsestatus } { $responsestatustext }
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-invalid-header-value-intro = <strong>{ $hostname } </strong> nosūtīja atpakaļ galveni ar tukšām rakstzīmēm, ko neatļauj tīmekļa drošības standarti.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> nosūtīja atpakaļ galveni ar tukšām rakstzīmēm, ko neatļauj tīmekļa drošības standarti.
 fp-neterror-content-encoding-intro = Lapu, kuru mēģināt apskatīt, nevar parādīt, jo tajā tiek izmantota nederīga vai neatbalstīta saspiešanas forma.
 fp-neterror-coop-coep-intro = { -brand-short-name } neielādēja šo lapu, jo izskatās, ka drošības konfigurācija neatbilst iepriekšējai lapai.
 fp-neterror-blocked-by-policy-intro = Jūsu organizācija ir bloķējusi piekļuvi šai lapai vai tīmekļa vietnei.

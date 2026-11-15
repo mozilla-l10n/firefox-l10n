@@ -138,7 +138,7 @@ fp-certerror-invalid-cert-why-dangerous = { $hostname } īpašnieks to nav parei
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $now (Date) - The current datetime, to be formatted as a date
-fp-certerror-clock-skew-intro = Jūsu dators domā, ka tas ir { DATETIME($now, dateStyle: "medium") }, kas neļauj { -brand-short-name } droši izveidot savienojumu. Lai apmeklētu <strong>{ $hostname } </strong>, atjauniniet datora pulksteni sistēmas iestatījumos uz pašreizējo datumu, laiku un laika joslu un pēc tam atsvaidziniet lapu.
+fp-certerror-clock-skew-intro = Dators uzskata, ka ir { DATETIME($now, dateStyle: "medium") }, kas neļauj { -brand-short-name } droši izveidot savienojumu. Lai apmeklētu <strong>{ $hostname }</strong>, sistēmas iestatījumos jāatjaunina datora pulkstenis uz pašreizējo datumu, laiku un laika joslu un pēc tam jāatsvaidzina lapa.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $now (Date) - The current datetime, to be formatted as a date
@@ -220,6 +220,6 @@ fp-certerror-hide-advanced-button = Slēpt papildu
 
 fp-certerror-intro = { -brand-short-name } noteica iespējami nopietnu drošības starpgadījumu ar <strong>{ $hostname }</strong>. Kāds, kas uzdodas par šo vietni, var mēģināt nozagt tādu informāciju kā maksājumu karšu datus, paroles vai e-pasta adreses.
 fp-certerror-expired-into = { -brand-short-name } atklāja drošības problēmu ar <strong>{ $hostname }</strong>. Vai nu vietne nav pareizi iestatīta, vai arī jūsu ierīces pulkstenis ir iestatīts uz nepareizu datumu/laiku.
-fp-certerror-transparency-intro = Kāds, kas izliekas par <strong>{ $hostname } </strong>, varētu mēģināt nozagt tādas lietas kā kredītkaršu informāciju, paroles vai e-pasta adreses.
+fp-certerror-transparency-intro = Kāds, kas izliekas par <strong>{ $hostname }</strong>, varētu mēģināt nozagt tādus datus kā kredītkaršu informāciju, paroles vai e-pasta adreses.
 fp-certerror-override-exception-button-2 = Pāriet uz { $hostname } (riskanti)
     .accesskey = P

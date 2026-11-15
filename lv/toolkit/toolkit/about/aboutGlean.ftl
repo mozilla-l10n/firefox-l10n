@@ -14,8 +14,8 @@ about-glean-header = Par { -glean-brand-name }
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } </a>
     ir datu vākšanas bibliotēka, kas tiek izmantota { -vendor-short-name } projektos.
-    Šī saskarne ir paredzēta izstrādātājiem un testētājiem, lai manuāli
-    <a data-l10n-name="fog-link">testētu instrumentāciju</a>.
+    Šī saskarne ir paredzēta izstrādātājiem un pārbaudītājiem, lai pašrocīgi
+    <a data-l10n-name="fog-link">pārbaudītu instrumentāciju</a>.
 about-glean-category-about-glean = Par { -glean-brand-name }
 about-glean-category-manual-testing = Manuālā testēšana
 about-glean-category-adhoc-testing = Ad hoc testēšana
@@ -28,9 +28,9 @@ about-glean-upload-enabled-local = Datu augšupielāde ir iespējota tikai nosū
 about-glean-upload-fake-enabled =
     Datu augšupielāde ir atspējota,
     bet mēs melojam un sakām { glean-sdk-brand-name }, ka tā ir iespējota,
-    tāpēc dati joprojām tiek ierakstīti lokāli.
-    Piezīme. Ja iestatāt atkļūdošanas tagu, ping tiks augšupielādēti uz
-    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name } </a> neatkarīgi no iestatījumiem.
+    tāpēc dati joprojām tiek ierakstīti vietēji.
+    Piezīme. Ja iestati atkļūdošanas tagu, ping tiks augšupielādēti
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> neatkarīgi no iestatījumiem.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Attiecīgās <a data-l10n-name="fog-prefs-and-defines-doc-link">preferences un definīcijas</a> ietver:
 # Variables:
