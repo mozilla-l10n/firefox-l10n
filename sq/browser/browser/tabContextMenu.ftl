@@ -59,9 +59,17 @@ close-tabs-to-the-end-alt =
 close-tabs-to-the-end-vertical =
     .label = Mbylli Skedat Poshtë
     .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Skeda Poshtë
+    .accesskey = o
 close-other-tabs =
     .label = Mbylli Skedat e Tjera
     .accesskey = T
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Krejt të Tjerat
+    .accesskey = K
 reload-tabs =
     .label = Ringarko Skedat
     .accesskey = R
@@ -130,7 +138,7 @@ tab-context-close-multiple-tabs =
     .accesskey = u
 # Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
-    .label = Mbyll Njëherësh Disa
+    .label = Mbyll Njëherësh
     .accesskey = D
 tab-context-close-duplicate-tabs =
     .label = Mbyll Skeda të Përsëdytura
@@ -211,6 +219,10 @@ tab-context-move-tabs2 =
         }
     .accesskey = S
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Kaloje Pamjen e Ndarë te
+    .accesskey = P
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view-alt =
     .label = Shpjeri Skedat te
     .accesskey = S
@@ -245,4 +257,8 @@ tab-context-unload-n-tabs =
             [1] Hiqe Skedën Nga Kujtesa
            *[other] Unload { $tabCount } Tabs
         }
+    .accesskey = H
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Hiqe nga kujtesa
     .accesskey = H
