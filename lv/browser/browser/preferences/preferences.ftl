@@ -1777,8 +1777,8 @@ content-blocking-known-and-suspected-fingerprinters = Zināmi un varbūtēji cip
 content-blocking-etp-standard-tcp-rollout-description = Totālā Sīkdatņu Aizsardzība neļauj sīkdatnēm izkļūt ārpus vietnes, kurā atrodaties, tāpēc izsekotāji nevar tos izmantot, lai sekotu jums starp vietnēm.
 content-blocking-etp-standard-tcp-rollout-learn-more = Uzzināt vairāk
 content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību, mūsu visu laiku spēcīgāko privātuma funkciju
-content-blocking-warning-title-2 = Dažas vietnes var nedarboties ar stingru izsekošanas aizsardzību
-content-blocking-warning-title-custom = Dažas vietnes var nedarboties ar pielāgotu izsekošanas aizsardzību
+content-blocking-warning-title-2 = Dažas vietnes var nedarboties ar stingru aizsardzību pret izsekošanu
+content-blocking-warning-title-custom = Dažas vietnes var nedarboties ar pielāgotu aizsardzību pret izsekošanu
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } iesaka izmantot iestatījumus “Labot vietnes problēmas”, lai samazinātu bojātu vietnes funkciju un satura skaitu. Ja vietne šķiet bojāta, mēģiniet izslēgt izsekošanas aizsardzību šai vietnei, lai ielādētu visu saturu.
 content-blocking-warning-learn-how = Uzziniet kā

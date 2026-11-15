@@ -160,7 +160,7 @@ spotlight-pin-secondary-button = Ne tagad
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = Jauns { -brand-short-name }. Privātāks. Mazāk izsekotāju. Bez kompromisiem.
-mr2022-background-update-toast-text = Izmēģiniet jaunāko { -brand-short-name } tagad, kas jaunināta ar mūsu līdz šim spēcīgāko pretizsekošanas aizsardzību.
+mr2022-background-update-toast-text = Izmēģini jaunāko { -brand-short-name } tagad, kas jaunināts ar mūsu līdz šim spēcīgāko aizsardzību pret izsekošanu.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -420,7 +420,7 @@ windows-10-eos-global-infobar-learn-more-link = Uzzināt vairāk
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
-etp-strict-exceptions-infobar-message = <strong>Stingra izsekošanas aizsardzība var izraisīt vietņu darbības pārtraukumus.</strong> Novērsiet bieži sastopamas problēmas, atbloķējot būtiskus elementus, kas varētu saturēt izsekotājus.
+etp-strict-exceptions-infobar-message = <strong>Stingra aizsardzība pret izsekošanu var izraisīt vietņu bojājumus.</strong> Bieži sastopamus sarežģījumus var novērst ar aizturēšanas atcelšanu būtiskiem elementiem, kas varētu saturēt izsekotājus.
 etp-strict-exceptions-infobar-learn-more = Uzzināt vairāk
 etp-strict-exceptions-infobar-button = Lietot labojumus
     .accesskey = a

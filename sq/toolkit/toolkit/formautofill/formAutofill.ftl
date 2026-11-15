@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name }-i po provon 
 autofill-edit-payment-method-os-prompt-macos = shfaq hollësi metode të ruajtur pagesash
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }-i po provon të shfaqë hollësi metode të ruajtur pagesash. Ripohoni më poshtë hyrjen në këtë llogari Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name }-i po provon të shfaqë hollësi metode të ruajtur pagesash.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = fshijë hollësi të depozituara metode pagesash
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name }-i po rreket të fshijë hollësi të depozituara metode pagese. Ripohoni hyrje te kjo llogari Windows më poshtë.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name }-i po provon të fshijë hollësi të depozituara metode pagesash.
 # The button leads users to Form Autofill browser preferences.
 credit-card-doorhanger-options-button =
     .title = Mundësi Vetëplotësimi Formularësh
@@ -28,12 +33,18 @@ autofill-options-link = Mundësi Vetëplotësimi Formularësh
 credit-card-doorhanger-credit-cards-sync-checkbox = Njëkohëso nëpër pajisjet e mia krejt kartat e ruajtura
 credit-card-save-doorhanger-header = Të ruhet në mënyrë të sigurt kjo kartë?
 credit-card-save-doorhanger-description = { -brand-short-name }-i e fshehtëzon numrin e kartës tuaj. Kodi juaj i sigurisë s’do të ruhet.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name }-i e fshehtëzon numrin e kartës tuaj dhe kodin e sigurisë, që vetëm ju të mund t’i përdorni për të plotësuar formularë pagesash.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Ruaj përherë kode sigurie për metoda pagesash.
 credit-card-capture-save-button =
     .label = Ruaje
     .accessKey = R
 credit-card-capture-cancel-button =
     .label = Jo tani
     .accessKey = J
+credit-card-capture-never-save-payment-methods-button =
+    .label = Mos ruaj kurrë metoda pagesash
+    .accessKey = K
 credit-card-capture-never-save-button =
     .label = Mos ruaj kurrë karta
     .accessKey = k
@@ -108,6 +119,10 @@ credit-card-save-security-code-doorhanger-header = Të ruhet kod sigurie?
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = Të ruhet kjo metodë pagesash?
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name }-i fshehtëzon dhe vetë plotëson hollësitë tuaja të pagesës për përfundim më të shpejtë të blerjes.
 credit-card-capture-dismiss-button =
     .label = Hidhe tej
     .accessKey = H

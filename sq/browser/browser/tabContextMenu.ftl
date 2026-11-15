@@ -5,6 +5,9 @@
 reload-tab =
     .label = Ringarkoje Skedën
     .accesskey = R
+reload-tab2 =
+    .label = Ringarkoje
+    .accesskey = R
 select-all-tabs =
     .label = Përzgjidhi Krejt Skedat
     .accesskey = z
@@ -17,8 +20,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Përsëdyte Skedën
     .accesskey = P
+duplicate-tab2 =
+    .label = Përsëdytje
+    .accesskey = P
 duplicate-tabs =
     .label = Përsëdytni Skeda
+    .accesskey = P
+duplicate-tabs2 =
+    .label = Përsëdytje
     .accesskey = P
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
