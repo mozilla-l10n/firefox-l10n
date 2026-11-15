@@ -246,14 +246,27 @@ newtab-privacy-message-promo-monitor-2 = Mbroni të dhënat tuaja me mbikëqyrje
 newtab-privacy-message-promo-monitor-2-cta = Mësoni më tepër
 newtab-privacy-message-promo-signin-1 = Mbajini faqerojtësit, fjalëkalimet dhe skedat  të fshehtëzuara nëpër pajisje me llogarinë tuaj { -vendor-short-name }.
 newtab-privacy-message-promo-signin-1-cta = Hyni
+newtab-privacy-message-promo-vpn-1 = Po blini duke përdorur Wi-Fi publike? Aktivizoni VPN të brendshme, për mbrojtje shtesë.
 newtab-privacy-message-promo-vpn-1-cta = Hape VPN-në
+newtab-privacy-message-promo-vpn-2 = Po përdorni Wi-Fi aeroporti Mbroni shfletimin tuaj duke aktivizuar VPN-në e brendshme.
 newtab-privacy-message-promo-vpn-2-cta = Hape VPN-në
+newtab-privacy-message-promo-vpn-3 = Aktivizoni VPN-në  brendshme që të ndihmoni të mbahet vendndodhja juaj më private.
+newtab-privacy-message-promo-vpn-3-cta = Hape VPN-në
+newtab-privacy-message-promo-private-window-1 = Provoni një dritare private, që të shfletoni më privatisht, kur përdorni një kompjuter të përbashkët me të tjerë.
+newtab-privacy-message-promo-private-window-1-cta = Hap dritare private
+newtab-privacy-message-promo-relay-1-cta = Merrni maska
+newtab-privacy-message-promo-relay-2-cta = Merrni maska
+newtab-privacy-message-promo-relay-3-cta = Merrni maska
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+newtab-privacy-message-milestone-week-cta = Shihni mbrojtje
+newtab-privacy-message-milestone-month-cta = Shihni mbrojtje
+newtab-privacy-message-milestone-year-cta = Shihni mbrojtje
+newtab-privacy-message-milestone-total-cta = Shihni mbrojtje
 newtab-privacy-message-daily-cap-cta = Shihni mbrojtje
 newtab-privacy-message-streak-cta = Shihni mbrojtje
 newtab-privacy-message-first-protection-cta = Shihni mbrojtje
@@ -262,9 +275,28 @@ newtab-privacy-message-first-protection-cta = Shihni mbrojtje
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Mësoni më tepër
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Tregje
+    .label = Tregje
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Kërkoni sipas emri, ose simboli
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Financë
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, deri më { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, rënie { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, pa ndryshim, { $change }, { $price }
 
 ## Finance widget ticker search
 
@@ -294,9 +326,24 @@ newtab-picture-menu-learn-more = Mësoni më tepër
 
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Mësoni më tepër
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Hapni menu kërkimesh
+    .title = Hap menu kërkimesh
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopë
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Mësoni më tepër
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Udhëtim
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Mësoni më tepër
 
@@ -306,6 +353,15 @@ newtab-travel-menu-learn-more = Mësoni më tepër
 
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Mësoni më tepër
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Shfaqje
 
 ## Options in the View submenu, each switching the widget to a different view.
 ## These are football terms: “Matches” shows the club’s latest or next match,
@@ -431,6 +487,7 @@ newtab-menu-content-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Përpunoni
+newtab-menu-add-topsite = Shtoni Shkurtore të Re
 newtab-menu-open-new-window = Hape në Dritare të Re
 newtab-menu-open-new-private-window = Hape në Dritare të Re Private
 newtab-menu-dismiss = Hidhe tej
@@ -443,6 +500,9 @@ newtab-menu-report = Raportojeni
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bllokoje
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Hiqi Ndjekjen
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Mësoni më tepër
 
@@ -533,12 +593,24 @@ newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam k
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } nga { $total } gjithsej
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = I mëparshmi
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Pasuesi
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Ndale vetëluajtjen
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Vazhdo vetëluajtjen
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -554,6 +626,9 @@ newtab-custom-shortcuts-toggle =
     .label = Shkurtore
 newtab-custom-shortcuts-nova =
     .label = Shkurtore
+newtab-custom-web-notifications-toggle =
+    .description = Shfaqni njoftime nga sajtet tuaj në shkurtoret e tyre
+    .label = Njoftime Web
 newtab-custom-row-description =
     .description = Numër rreshtash
 # Variables
@@ -591,9 +666,16 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sporte
 newtab-custom-widget-privacy-toggle =
     .label = Privatësi
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Fjalëkryq
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Financë
+newtab-custom-widget-picture-toggle =
+    .label = Foto e ditës
+newtab-custom-widget-search-toggle =
+    .label = Kërko
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopë
 # Travel (noun) is a widget on New Tab for searching hotels, flights
@@ -629,6 +711,11 @@ newtab-appearance-enable-theme-button =
 # Button that disables the active theme and reverts to the default.
 newtab-appearance-disable-theme-button =
     .label = Çaktivizoje
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instaloje temën
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Eksploroni më tepër tema
 
 ## New Tab Wallpapers
 
@@ -642,6 +729,9 @@ newtab-wallpaper-add-an-image = Shtoni figurë
 newtab-wallpaper-custom-color = Zgjidhni një ngjyrë
 newtab-wallpaper-toggle-title =
     .label = Sfonde
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategori sfondesh
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Figura tejkalonte kufirin { $file_size }MB e madhësive të kartelave. Ju lutemi, provoni të ngarkoni një kartelë më të vogël.
@@ -660,6 +750,36 @@ newtab-wallpaper-dark-mountain = Peizazh malor
 newtab-wallpaper-dark-city = Peizazh qyteti i purpurt
 newtab-wallpaper-dark-fox-anniversary = Një dhelpër në shesh pranë një pylli
 newtab-wallpaper-light-fox-anniversary = Një dhelpër në një lëndinë, në një peizazh malor të mjegullt
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Figurat tuaja
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Figurat, sfondet tuaj që keni ruajtur
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Figura { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Hiqe { $name }
+    .title = Hiqe figurën
 
 ## Solid Colors
 
