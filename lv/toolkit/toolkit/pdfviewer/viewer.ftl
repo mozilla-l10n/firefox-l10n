@@ -655,7 +655,7 @@ pdfjs-editor-add-comment-button =
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
 pdfjs-toggle-views-manager-notification-button =
-    .title = Pārslēgt sānu joslu (dokumentā ir sīktēli/saturs/pielikumi/slāņi)
+    .title = Pārslēgt sānjoslu (dokumentā ir sīktēli/saturs/pielikumi/slāņi)
 pdfjs-toggle-views-manager-button1-label = Pārvaldīt lapas
 pdfjs-views-manager-sidebar =
     .aria-label = Sānu josla
