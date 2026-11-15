@@ -63,7 +63,7 @@ home-prefs-stories-header2 =
     .description = { -brand-product-name } ailəsi tərəfindən seçilmiş xüsusi məzmun
     .label = Hekayələr
 home-prefs-widgets-header =
-    .label = Vicetlər
+    .label = Vidcetlər
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Siyahılar
@@ -77,7 +77,7 @@ home-prefs-sports-widget-header =
 home-prefs-clocks-header =
     .label = Saat
 home-prefs-manage-widgets-link =
-    .label = Vicetləri idarə et
+    .label = Vidcetləri idarə elə
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -275,12 +275,12 @@ newtab-custom-widget-clock-toggle =
     .label = Saat
 newtab-custom-widget-picture-toggle =
     .label = Günün şəkli
-newtab-custom-widget-section-title = Vicetlər
+newtab-custom-widget-section-title = Vidcetlər
 newtab-custom-widget-section-toggle =
-    .label = Vicetlər
-newtab-widget-manage-title = Vicetlər
+    .label = Vidcetlər
+newtab-widget-manage-title = Vidcetlər
 newtab-widget-manage-widget-button =
-    .label = Vicetləri idarə et
+    .label = Vidcetləri idarə elə
 
 ## New Tab Appearance (browser theme picker)
 
@@ -308,14 +308,14 @@ newtab-wallpaper-toggle-title =
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-section-title = Vicetlər
+newtab-widget-section-title = Vidcetlər
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .aria-label = Bütün vicetləri gizlət
-    .title = Vicetləri gizlət
+    .aria-label = Bütün vidcetləri gizlət
+    .title = Vidcetləri gizlət
 newtab-widget-section-maximize =
-    .aria-label = Bütün vicetləri tam ölçüyə genişləndir
-    .title = Vicetləri genişləndir
+    .aria-label = Bütün vidcetləri tam ölçüyə genişləndir
+    .title = Vidcetləri genişləndir
 newtab-widget-section-minimize =
     .aria-label = Bütün vicetləri yığcam ölçüyə sal
     .title = Vicetləri kiçilt
