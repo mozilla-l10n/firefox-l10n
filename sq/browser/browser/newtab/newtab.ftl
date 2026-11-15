@@ -269,16 +269,46 @@ newtab-privacy-message-milestone-year-cta = Shihni mbrojtje
 newtab-privacy-message-milestone-total-cta = Shihni mbrojtje
 newtab-privacy-message-daily-cap-cta = Shihni mbrojtje
 newtab-privacy-message-streak-cta = Shihni mbrojtje
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Vazhdoni shfletimin, { -brand-short-name }-i do të vazhdojë bllokimet.
 newtab-privacy-message-first-protection-cta = Shihni mbrojtje
 
 ## Strings for the Finance widget
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Mësoni më tepër
+# Shown in the Finance widget when its data could not be loaded.
+newtab-stocks-error-not-available = S’ka të dhëna aksionesh.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Hapni menu finance
+    .title = Hap menu finance
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .aria-label = Kërkoni sipas emri, ose simboli
+    .label = Kërko
+    .title = Kërkoni sipas emri, ose simboli
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Filloni të vëzhgoni aksionet që kanë rëndësi për ju
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .aria-label = Kërkoni sipas emri, ose simboli
+    .label = Kërko
+    .title = Kërkoni sipas emri, ose simboli
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Tregje
     .label = Tregje
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Listë të mbikëqyrurish
+    .label = Listë të mbikëqyrurish
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Kërkoni sipas emri, ose simboli
 # Accessible name for the Finance widget. It is usually not shown, since the
@@ -298,12 +328,49 @@ newtab-stocks-ticker-status-down = { $name }, rënie { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, pa ndryshim, { $change }, { $price }
 
+## Finance widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Shtojeni { $name } te listë të mbikëqyrurish
+    .title = Shtoje { $name } te listë të mbikëqyrurish
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Hiqeni { $name } nga listë të mbikëqyrurish
+    .title = Hiqe { $name } nga listë të mbikëqyrurish
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } gjendet te lista e të mbikëqyrurve tuaj
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = U shtua { $name } te listë të mbikëqyrurish
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = U hoq { $name } nga listë të mbikëqyrurish
+
 ## Finance widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Kërkoni sipas emri, ose simboli
+    .placeholder = Kërkoni sipas emri, ose simboli
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Përfundime kërkimi
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Kërkoni për simbole, ose shoqëri për t’u shtuar te lista juaj e të mbikëqyrurve
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -316,11 +383,58 @@ newtab-stocks-search-back-button =
 newtab-stocks-search-no-results = Pa përfundime për “{ $query }”
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Po ngarkohet…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = S’u kërkua dot tani. Riprovoni më vonë.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Mund të shtoni deri në { $limit } aksion. Që të shtoni një, hiqni një tjetër.
+       *[other] Mund të shtoni deri në { $limit } aksione. Që të shtoni një, hiqni një tjetër.
+    }
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Foto e ditës · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Foto e ditës
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Foto e ditës: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Shihni licencën { $license }
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Hapni menu fotoje të ditës
+    .title = Hap menu fotoje të ditës
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Administroni sfond
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Fshihe këtë foto
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Shfaqe foton
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Mësoni më tepër
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Shfaqe foton
+    .title = Shfaqe foton
 
 ## Strings for the Search widget
 
