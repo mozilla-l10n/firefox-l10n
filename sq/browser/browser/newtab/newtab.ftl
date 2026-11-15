@@ -1001,7 +1001,15 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Një dhelpër në skajin e djathtë, në një sfond portokalli
-newtab-wallpaper-firefox-colorful-sky = Valë portokalli përmes një qielli të purpur mbrëmjeje
+newtab-wallpaper-firefox-colorful-sky = Valë portokalli përmes një qielli ngjyrë vjollcë  mbrëmjeje
+newtab-wallpaper-firefox-desert-dark = Një dhelpër ulur në një shkretëtirë ngjyrë vjollcë
+newtab-wallpaper-firefox-desert-light = Një dhelpër që rend përmes një shkretëtire të çelët
+newtab-wallpaper-firefox-hills-dark = Një dhelpër që rend mbi kodra të errëta
+newtab-wallpaper-firefox-hills-light = Një dhelpër që rend mbi kodra të çelëta
+newtab-wallpaper-firefox-tail-dark = Bisht dhelpre në një sfond të errët
+newtab-wallpaper-firefox-tail-light = Bisht dhelpre në një sfond të çelët
+newtab-wallpaper-firefox-side-kit-dark = Një dhelpër më anë të majtë, në një sfond të errët
+newtab-wallpaper-firefox-side-kit-light = Një dhelpër më anë të majtë, në një sfond të çelët
 
 ## Firefox
 
