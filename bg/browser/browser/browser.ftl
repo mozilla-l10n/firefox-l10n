@@ -1238,6 +1238,10 @@ reset-pbm-panel-complete = Информацията от поверителни�
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-panel-heading = Изтриване на всички данни за сърфирането?
+fire-button-panel-confirm-button =
+    .label = Изтриване на всичко
+    .accesskey = И
 fire-button-toolbar-button2 =
     .label = Изтриване на някои или всички данни
     .tooltiptext = Изтриване на част или всички данни за сърфирането

@@ -18,6 +18,10 @@ ai-window-toggleview-switch-ai =
     .value = { -smart-window-brand-name }
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 
+## Website Chip
+
+aiwindow-website-chip-history-deleted = Историята е изтрита
+
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Добре дошли в { -smart-window-brand-name }

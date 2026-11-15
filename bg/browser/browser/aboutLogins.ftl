@@ -179,6 +179,8 @@ about-logins-confirm-delete-dialog-title = Премахване на парол�
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Това действие е необратимо.
 about-logins-confirm-remove-dialog-confirm-button = Премахване
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Изтриване
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,6 +189,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [one] Премахване
        *[other] Премахване на всички
+    }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Изтриване
+        [one] Изтриване
+       *[other] Изтриване на всички
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -218,6 +227,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Премахване на { $count } регистрация от всички устройства?
        *[other] Премахване на { $count } регистрации от всички устройства?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Изтриване на { $count } парола?
+       *[other] Изтриване на { $count } пароли?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

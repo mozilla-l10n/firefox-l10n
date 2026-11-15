@@ -118,6 +118,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Премахване
        *[other] Премахване на всички
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Изтриване
+        [one] Изтриване
+       *[other] Изтриване на всичко
+    }
 contextual-manager-passwords-origin-label = Уебсайт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Потребителско име
@@ -158,6 +166,8 @@ contextual-manager-passwords-remove-login-card-message = Не може да от
 contextual-manager-passwords-remove-login-card-back-message = Назад
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Премахване
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Изтриване
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Отказ
 contextual-manager-passwords-alert-back-button =
