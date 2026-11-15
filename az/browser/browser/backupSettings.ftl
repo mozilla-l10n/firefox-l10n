@@ -77,3 +77,10 @@ restore-from-backup-profiles-disabled-message = Bu hərəkət cari { -brand-shor
 
 enable-backup-encryption-header = Həssas məlumatlarınızı nüsxələyin
 enable-backup-encryption-support-link = Ətraflı öyrənin
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-creation-device-label = Cihaz:

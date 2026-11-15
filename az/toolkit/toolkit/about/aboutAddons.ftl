@@ -275,3 +275,9 @@ plugins-widevine-description = Bu qoşma şifrələnmiş mediaların Encrypted M
 
 mlmodel-heading = Cizahızınızdakı Sİ modellərini idarə edin
 mlmodel-description = { -brand-short-name } daxilində bəzi xüsusiyyətlər və uzantılar cihazınızda yerli olaraq çalışan Sİ modelləri əsasında işləyir. Bu yanaşma məxfiliyinizi qoruyur və bir sıra hallarda performansı artırır. <a data-l10n-name="learn-more">Ətraflı öyrənin</a>
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Açıq

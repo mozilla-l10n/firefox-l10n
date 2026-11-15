@@ -337,7 +337,7 @@ urlbar-search-mode-indicator-close =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Ünvanı daxil et və ya axtar
+    .placeholder = Ünvanı daxil elə və ya axtar
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .aria-label = Əlfəcinlərdə axtar
@@ -381,9 +381,16 @@ urlbar-result-action-search-in-private = Məxfi Pəncərədə axtar
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ilə axtar
+urlbar-result-action-sponsored = Sponsorlaşdırılıb
 urlbar-result-action-switch-tab = Vərəqə keç
 urlbar-result-action-move-tab-to-split-view = Vərəqi Bölünmüş Görünüşə Daşı
 urlbar-result-action-visit = Ziyarət et
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Sponsorlaşdırılıb
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Soruş
 
@@ -538,6 +545,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinxron Vərəqlər
     .tooltiptext = Digər cihazlardan olan vərəqləri göstər
+toolbar-button-send-tab =
+    .label = Vərəqi göndər
+    .tooltiptext = Mövcud vərəqi başqa cihaza göndər
 toolbar-button-new-private-window =
     .label = Yeni məxfi pəncərə
     .tooltiptext = Yeni məxfi səyahət pəncərəsi açın ({ $shortcut })

@@ -489,7 +489,7 @@ home-homepage-new-tabs =
 home-homepage-custom-homepage-button =
     .label = Müəyyən bir sayt seç
 home-custom-homepage-address =
-    .placeholder = Ünvanı daxil et
+    .placeholder = Ünvanı daxil elə
 home-custom-homepage-address-button =
     .label = Ünvan əlavə et
 # Shown when no custom websites/URLs to use as a homepage have been added yet

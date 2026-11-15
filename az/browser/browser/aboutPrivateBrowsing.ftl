@@ -12,11 +12,11 @@ about-private-browsing-search-btn =
 about-private-browsing-handoff =
     .title = { $engine } ilə axtarın və ya ünvanı daxil edin
 about-private-browsing-handoff-no-engine =
-    .title = Axtar və ya ünvanı daxil et
+    .title = Axtar və ya ünvanı daxil elə
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = { $engine } ilə axtarın və ya ünvanı daxil edin
-about-private-browsing-handoff-text-no-engine = Axtar və ya ünvanı daxil et
+about-private-browsing-handoff-text-no-engine = Axtar və ya ünvanı daxil elə
 about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
 about-private-browsing-hide-activity = İnternetdə gəzdiyiniz hər yerdə fəaliyyətinizi və yerinizi gizlədin.
 about-private-browsing-get-privacy = İnternetdə gəzdiyiniz hər yerdə məxfilik qoruması alın

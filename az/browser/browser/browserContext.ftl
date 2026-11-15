@@ -230,12 +230,15 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Audionu e-poçt ilə göndər…
     .accesskey = -
+main-context-menu-send-to-device-2 =
+    .label = Cihaza göndər
+    .accesskey = n
 
 ##
 
 main-context-menu-link-send-to-device =
     .label = Keçidi cihaza göndər
-    .accesskey = d
+    .accesskey = n
 main-context-menu-frame =
     .label = Bu Çərçivə
     .accesskey = u

@@ -14,7 +14,7 @@ new-tab = Yeni vərəq
 add-bookmark = Əlfəcin əlavə et
 reader-view = Oxuyucu Görünüşü
 # Meant to match the string displayed in an empty URL bar.
-open-location = Ünvanı daxil et və ya axtar
+open-location = Ünvanı daxil elə və ya axtar
 share = Paylaş
 close-window = Pəncərəni Qapat
 # This string describes shortcuts for search.

@@ -27,4 +27,4 @@ view-source-context-wrap-long-lines-2 =
     .accesskey = U
 view-source-context-highlight-syntax-2 =
     .label = Sintaksiz Rəngləndirmə
-    .accesskey = S
+    .accesskey = x

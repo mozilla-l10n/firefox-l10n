@@ -40,6 +40,7 @@ mr1-return-to-amo-add-extension-label = { $addon-name } əlavə et
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } səyyahından idxal et
+mr1-onboarding-theme-label-light = Açıq
 
 ## Strings for Thank You page
 

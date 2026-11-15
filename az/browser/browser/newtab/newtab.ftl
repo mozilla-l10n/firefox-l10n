@@ -35,7 +35,7 @@ home-homepage-custom-homepage-button =
 home-custom-homepage-card-header =
     .label = Sayt ünvan(lar)ı
 home-custom-homepage-address =
-    .placeholder = Ünvanı daxil et
+    .placeholder = Ünvanı daxil elə
 home-custom-homepage-address-button =
     .label = Ünvan əlavə et
 # Shown when no custom websites/URLs to use as a homepage have been added yet
@@ -98,9 +98,9 @@ home-prefs-shortcuts-header-srd =
 home-prefs-shortcuts-select =
     .aria-label = Qısayollar
 home-prefs-shortcuts-by-option-sponsored-srd =
-    .label = Sponsorlu qısayollar
+    .label = Sponsorlaşdırılmış qısayollar
 home-prefs-recommended-by-option-sponsored-stories-srd =
-    .label = Sponsorlaşdırılmış Hekayələr
+    .label = Sponsorlaşdırılmış hekayələr
 home-prefs-highlights-option-visited-pages-srd =
     .label = Baxılmış Səhifələr
 home-prefs-highlights-options-bookmarks-srd =
@@ -136,9 +136,9 @@ newtab-search-box-handoff-input =
     .placeholder = { $engine } ilə axtarın və ya ünvanı daxil edin
     .title = { $engine } ilə axtarın və ya ünvanı daxil edin
 newtab-search-box-handoff-input-no-engine =
-    .aria-label = Axtar və ya ünvanı daxil et
-    .placeholder = Axtar və ya ünvanı daxil et
-    .title = Axtar və ya ünvanı daxil et
+    .aria-label = Axtar və ya ünvanı daxil elə
+    .placeholder = Axtar və ya ünvanı daxil elə
+    .title = Axtar və ya ünvanı daxil elə
 newtab-search-box-text = İnternetdə axtar
 newtab-search-box-input =
     .aria-label = İnternetdə axtar
@@ -179,6 +179,10 @@ newtab-confirm-delete-history-p1 = Bu səhifənin bütün parçalarını tarixç
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu əməliyyat geri alına bilməz.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Sponsorlaşdırılıb
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -207,6 +211,10 @@ newtab-menu-report = Bildir
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Əngəllə
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = Sponsorlaşdırılmış məzmunu idarə elə
 
 ##
 
@@ -242,6 +250,16 @@ newtab-label-bookmarked = Əlfəcinlənib
 newtab-label-recommended = Populyar
 newtab-label-saved = { -pocket-brand-name }-ə saxlandı
 newtab-label-download = Endirildi
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#   $sponsorOrSource (string) - The name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponsorlaşdırılıb
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#   $sponsor (string) - The name of a sponsor
+newtab-label-sponsored-by = { $sponsor } tərəfindən sponsorlaşdırılıb
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Sponsorlaşdırılıb
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -306,6 +324,12 @@ newtab-wallpaper-title = Divar kağızları
 newtab-wallpaper-toggle-title =
     .label = Divar kağızları
 
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsorlaşdırılıb
+
 ## Strings for task / to-do list productivity widget
 
 newtab-widget-section-title = Vidcetlər
@@ -317,21 +341,21 @@ newtab-widget-section-maximize =
     .aria-label = Bütün vidcetləri tam ölçüyə genişləndir
     .title = Vidcetləri genişləndir
 newtab-widget-section-minimize =
-    .aria-label = Bütün vicetləri yığcam ölçüyə sal
-    .title = Vicetləri kiçilt
+    .aria-label = Bütün vidcetləri yığcam ölçüyə daralt
+    .title = Vidcetləri kiçilt
 newtab-widget-section-menu-button =
-    .aria-label = Vicetlər menyusunu aç
-    .title = Vicetlər menyusu
-newtab-widget-section-menu-manage = Vicetləri idarə et
-newtab-widget-section-menu-hide-all = Vicetləri gizlət
+    .aria-label = Vidcetlər menyusunu aç
+    .title = Vidcetlər menyusu
+newtab-widget-section-menu-manage = Vidcetləri idarə elə
+newtab-widget-section-menu-hide-all = Vidcetləri gizlət
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
-    .label = Daha çox vicet göstər
+    .label = Daha çox vidcet göstər
 # Button shown when the widgets row is expanded to multiple rows,
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
-    .label = Daha az vicet göstər
+    .label = Daha az vidcet göstər
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -346,9 +370,9 @@ newtab-sports-widget-show-less =
 ## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-add-widgets-cta =
-    .label = Vicet əlavə et
+    .label = Vidcet əlavə elə
 newtab-sports-widget-message-explore-widgets-cta =
-    .label = Vicetləri kəşf et
+    .label = Vidcetləri kəşf elə
 
 ## Strings for the Clock widget
 
