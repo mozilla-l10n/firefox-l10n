@@ -41,7 +41,7 @@ safeb-blocked-harmful-page-learn-more = Uzziniet vairāk par { -brand-short-name
 safeb-blocked-addon-page-error-desc-override = <strong>Kāpēc šī vietne tika liegta?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> var būt saistīta ar maldinošu un kaitīgu darbību.
 safeb-blocked-addon-page-error-desc3-override = <strong>Ko ar šo var iesākt?</strong>
-safeb-blocked-addon-page-error-desc4-override = Lai tas vairs neatkārtotos, varat noņemt vai atspējot <strong>{ $addonName } </strong> no about:addons.
+safeb-blocked-addon-page-error-desc4-override = Lai tas vairs neatkārtotos, about:addons var noņemt vai atspējot <strong>{ $addonName }</strong>.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Uzziniet vairāk par { -brand-short-name } aizsardzību pret kaitīgiem papildinājumiem</a>.
 
 ## Alert shown when reporting a site as not deceptive fails

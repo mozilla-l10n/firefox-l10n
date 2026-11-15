@@ -163,12 +163,12 @@ inactive-css-no-principal-box-fix-1 = Mēģiniet pievienot <strong>display</stro
 
 css-compatibility-default-message = <strong>{ $property } </strong> netiek atbalstīts šādos pārlūkos:
 css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> bija eksperimentāls īpašums, kas tagad ir novecojis saskaņā ar W3C standartiem. Tas netiek atbalstīts šādās pārlūkprogrammās:
-css-compatibility-deprecated-experimental-supported-message = <strong>{ $property } </strong> bija eksperimentāls īpašums, kas tagad ir novecojis saskaņā ar W3C standartiem.
-css-compatibility-deprecated-message = <strong>{ $property } </strong> vairs netiek atbalstīts saskaņā ar W3C standartiem. Tas netiek atbalstīts šādos pārlūkos:
-css-compatibility-deprecated-supported-message = <strong>{ $property } </strong> vairs netiek atbalstīts saskaņā ar W3C standartiem.
-css-compatibility-experimental-message = <strong>{ $property } </strong> ir eksperimentāls īpašums. Tas netiek atbalstīts šādos pārlūkos:
-css-compatibility-experimental-supported-message = <strong>{ $property } </strong> ir eksperimentāla īpašība.
-css-compatibility-learn-more-message = <span data-l10n-name="link">Uzziniet vairāk</span> par <strong>{ $rootProperty } </strong>
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> bija izmēģinājuma īpašība, kas pēc W3C standartiem tagad ir novecojusi.
+css-compatibility-deprecated-message = Pēc W3C standartiem <strong>{ $property }</strong> vairs netiek atbalstīta. Tā netiek atbalstīta šādos pārlūkos:
+css-compatibility-deprecated-supported-message = Pēc W3C standartiem <strong>{ $property }</strong> vairs netiek atbalstīta.
+css-compatibility-experimental-message = <strong>{ $property }</strong> ir izmēģinājuma īpašība. Tā netiek atbalstīta šādos pārlūkos:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> ir izmēģinājuma īpašība.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Uzzināt vairāk</span> par <strong>{ $rootProperty }</strong>
 
 ## In the Rule View when a rule selector can causes issues, we display an icon.
 ## When this icon is hovered one or more of those messages are displayed to explain what

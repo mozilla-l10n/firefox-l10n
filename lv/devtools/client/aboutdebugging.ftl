@@ -87,7 +87,7 @@ about-debugging-setup-title = Iestatīšana
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfigurējiet savienojuma metodi, ar kuru vēlaties attālināti atkļūdot ierīci.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Lai atkļūdotu paplašinājumus un pakalpojumu darbiniekus šajā { -brand-shorter-name } versijā, izmantojiet <a>{ about-debugging-this-firefox-runtime-name } </a>.
+about-debugging-setup-this-firefox2 = Izmanto <a>{ about-debugging-this-firefox-runtime-name }</a>, lai šajā { -brand-shorter-name } atkļūdotu paplašinājumus un pakalpojumu strādņus.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Ierīces pievienošana
 # USB section of the Setup page
