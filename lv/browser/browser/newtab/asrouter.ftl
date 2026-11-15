@@ -429,7 +429,7 @@ etp-strict-exceptions-infobar-not-now = Ne tagad
 
 ## 'Set to default' messaging displayed within the App menu
 
-set-default-menu-message-simple-layout-title = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
+set-default-menu-message-simple-layout-title = { -brand-short-name } šobrīd nav noklusējuma pārlūks
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
 set-default-menu-message-row-layout-title = Padarīt { -brand-short-name } par savu galveno pārlūkprogrammu
 set-default-menu-message-row-layout-title-variant = Vai padarīt { -brand-short-name } par noklusējuma pārlūku?

@@ -115,7 +115,7 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = Parole
 restore-from-backup-password-description = Tas atslēdz šifrēto dublējumu.
 restore-from-backup-cancel-button = Atcelt
-restore-from-backup-confirm-button = Atjaunot un restartēt
+restore-from-backup-confirm-button = Atjaunot un palaist no jauna
 restore-from-backup-restoring-button = Atjaunošana…
 restore-from-backup-type-group-label =
     .label = Vai aizstāt pašreizējo profilu?
@@ -216,6 +216,7 @@ backup-error-retry = Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz.
 backup-file-header = { -brand-short-name } ir gatavs atjaunošanai
 backup-file-title = Atjaunot { -brand-short-name }
 backup-file-intro = Atgriezieties pie pārlūkošanas un atgūstiet visas savas grāmatzīmes, vēsturi un citus datus. <a data-l10n-name="backup-file-support-link">Uzziniet vairāk</a>
+backup-file-path-label = Dublējuma datne:
 backup-file-encryption-state-label = Šifrēts:
 backup-file-encryption-state-value-encrypted = Jā
 backup-file-encryption-state-value-not-encrypted = Nē

@@ -45,7 +45,7 @@ firefoxview-tabpickup-network-offline-header = Jāpārbauda savienojums ar inter
 firefoxview-tabpickup-network-offline-description = Ja izmanto ugunsmūri vai starpniekserveri, jāpārbauda, vai { -brand-short-name } ir atļauja piekļūt tīmeklim.
 firefoxview-tabpickup-network-offline-primarybutton = Mēģināt vēlreiz
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } šobrīd nevar izveidot savienojumu
-firefoxview-tabpickup-network-offline-description-2 = Iespējams, esat bezsaistē vai kaut kas bloķē savienojumu.
+firefoxview-tabpickup-network-offline-description-2 = Iespējams, ka esi bezsaistē vai kaut kas aiztur savienojumu.
 firefoxview-tabpickup-sync-error-header = Mums ir problēmas ar sinhronizāciju
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } pašlaik nevar sasniegt vienādošanas pakalpojumu. Pēc brīža jāmēģina vēlreiz.
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
