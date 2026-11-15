@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Lisää sivu kirjanmerkkeihin…
 sidebar-history-context-menu-delete-pages =
     .label = Poista sivut historiasta
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Poista
 
 ## Labels for sidebar bookmarks context menu items
 

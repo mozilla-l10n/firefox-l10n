@@ -1174,6 +1174,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Synkronoidaan…
     .title = Synkronoi nyt
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Synkronointiasetuksesi koskevat nyt vain tätä laitetta.
 
 ## The list of things currently syncing.
 
@@ -1211,6 +1214,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Sivuhistoria
     .accesskey = S
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Avoimet välilehdet
+    .tooltiptext = Avoimet välilehdet muilla laitteillasi
+    .accesskey = A
 sync-engine-tabs =
     .label = Avoimet välilehdet
     .tooltiptext = Lista kaikilla synkronoiduilla laitteilla auki olevista välilehdistä
@@ -1219,6 +1227,22 @@ sync-engine-passwords =
     .label = Salasanat
     .tooltiptext = Tallentamasi salasanat
     .accesskey = T
+sync-engine-addresses2 =
+    .label = Osoitteet
+    .tooltiptext = Osoitteet, jotka olet tallentanut { -brand-short-name }iin
+    .accesskey = O
+sync-engine-payment-methods3 =
+    .label = Maksutavat
+    .tooltiptext = Tallennetamasi maksutavat
+    .accesskey = M
+sync-engine-addons2 =
+    .label = Lisäosat
+    .tooltiptext = Laajennukset ja teemat, jotka olet lisännyt { -brand-short-name }in työpöytäsovellukseen
+    .accesskey = L
+sync-engine-settings2 =
+    .label = Asetukset
+    .tooltiptext = { -brand-short-name }in asetukset soveltuvin osin
+    .accesskey = A
 sync-engine-addresses =
     .label = Osoitteet
     .tooltiptext = Tallentamasi postiosoitteet (vain Firefoxin työpöytäversiossa)
