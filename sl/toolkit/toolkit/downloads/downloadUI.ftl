@@ -39,6 +39,7 @@ download-ui-cancel-downloads-ok =
         [1] Prekliči 1 prenos
        *[other] Prekliči prenose (skupaj { $downloadsCount })
     }
+download-ui-confirm-cancel-button = Prekliči
 
 ##
 
