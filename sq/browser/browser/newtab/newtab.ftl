@@ -1702,6 +1702,7 @@ newtab-sports-widget-upcoming = Së Afërmi
 newtab-sports-widget-now = Tani
 newtab-sports-widget-results = Përfundime
 newtab-sports-widget-semi-finals = Gjysmëfinale
+newtab-sports-widget-bronze-finals = Finale Vendi të Tretë
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
 # Variables:
@@ -1711,19 +1712,47 @@ newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: 
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
+newtab-sports-widget-delayed = Me vonesë
 newtab-sports-widget-postponed = E shtyrë
 newtab-sports-widget-suspended = E pezulluar
 newtab-sports-widget-cancelled = E anuluar
 newtab-sports-widget-information = Hollësi rreth ndeshjes
+newtab-sports-widget-no-live-data = Të dhënat për ndeshjen drejtpërsëdrejti s’po përdisohen këtë çast
 newtab-sports-widget-view-results-link = Shihni përfundime
 newtab-sports-widget-third-place = Vendi i tretë
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Nënkampion
 newtab-sports-widget-champions = Kampionë
+newtab-sports-widget-world-cup-champions = Kampionë Botërorë 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Kohëzgjatje e rregullt
+newtab-sports-widget-match-halftime = Pjesë
+newtab-sports-widget-match-extra-time = Shtesë
 newtab-sports-widget-match-penalties = Njëmbëdhjetëmetërsha
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = kundër
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Na ndiqni për hollësi së afërmi rreth ndeshjesh
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = E mëparshmja
+    .title = E mëparshmja
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Pasuesja
+    .title = Pasuesja
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Ndeshje drejtpërsëdrejti { $index } nga { $total } gjithsej
+    .title = Ndeshje drejtpërsëdrejti { $index } nga { $total } gjithsej
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
