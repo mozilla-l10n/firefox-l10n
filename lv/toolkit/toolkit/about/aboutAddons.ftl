@@ -632,4 +632,4 @@ aboutaddons-themes-picker-error-message =
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
 aboutaddons-linux-theme-colors-checkbox-label =
-    .label = Izmantot Linux sistēmas motīvu
+    .label = Izmantot Linux sistēmas tēmu

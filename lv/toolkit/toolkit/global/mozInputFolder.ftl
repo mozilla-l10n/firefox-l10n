@@ -5,11 +5,11 @@
 choose-folder-button =
     .label =
         { PLATFORM() ->
-            [macos] Izvēlieties...
+            [macos] Izvēlēties...
            *[other] Pārlūkot...
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] e
+            [macos] v
            *[other] o
         }

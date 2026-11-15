@@ -523,9 +523,9 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Lietot macOS noklusējuma lietotni
-            [windows] Lietot Windows noklusējuma lietotni
-           *[other] Lietot sistēmas noklusējuma lietotni
+            [macos] Izmantot macOS noklusējuma lietotni
+            [windows] Izmantot Windows noklusējuma lietotni
+           *[other] Izmantot sistēmas noklusējuma lietotni
         }
 applications-use-other =
     .label = Izmantot citu...

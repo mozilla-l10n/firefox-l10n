@@ -96,7 +96,7 @@ options-netmonitor-body-limit-set =
 ## Experimental section
 
 # The heading
-options-experimental-label = Eksperimentālās funkcijas
+options-experimental-label = Izmēģinājuma iespējas
 # The label for the checkbox that toggles showing stylesheets in the debugger
 options-stylesheets-in-the-debugger-label = Rādīt stila lapas atkļūdotājā
 options-stylesheets-in-the-debugger-tooltip =

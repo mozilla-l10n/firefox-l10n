@@ -14,7 +14,7 @@ theme-picker-mode =
 theme-picker-themes =
     .aria-label = Motīvi
 theme-picker-use-linux-theme =
-    .label = Izmantot Linux sistēmas motīvu
+    .label = Izmantot Linux sistēmas tēmu
 
 ## Theme labels
 ## These are short, evocative names for color themes in Firefox. Each name
