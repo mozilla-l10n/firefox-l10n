@@ -1780,7 +1780,7 @@ content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību
 content-blocking-warning-title-2 = Dažas vietnes var nedarboties ar stingru aizsardzību pret izsekošanu
 content-blocking-warning-title-custom = Dažas vietnes var nedarboties ar pielāgotu aizsardzību pret izsekošanu
 # “Fix site issues” references the string content-blocking-exceptions-subheader
-content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } iesaka izmantot iestatījumus “Labot vietnes problēmas”, lai samazinātu bojātu vietnes funkciju un satura skaitu. Ja vietne šķiet bojāta, mēģiniet izslēgt izsekošanas aizsardzību šai vietnei, lai ielādētu visu saturu.
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } iesaka izmantot iestatījumus “Novērst vietnes nepilnības”, lai samazinātu bojātu vietnes iespēju un satura apjomu. Ja vietne šķiet bojāta, tajā jāmēģina izslēgt aizsardzība pret izsekošanu, lai ielādētu visu saturu.
 content-blocking-warning-learn-how = Uzziniet kā
 content-blocking-baseline-exceptions-3 =
     .description = Palīdz ielādēt vietnes un iespējas ar tikai būtisku daļu, kas var saturēt izsekotājus, atļaušanu. Nosedz vairumu izplatīto nebūšanu.
@@ -2330,9 +2330,9 @@ security-privacy-status-trackers-label =
        *[other] { $trackerCount } izsekotāji ir liegti pēdējā mēneša laikā
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
-security-privacy-status-strict-enabled-label = Jums ir <a data-l10n-name="strict-tracking-protection">stingra aizsardzība</a>
+security-privacy-status-strict-enabled-label = Tev ir <a data-l10n-name="strict-tracking-protection">stingra aizsardzība</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
-security-privacy-status-custom-enabled-label = Jums ir <a data-l10n-name="custom-tracking-protection">pielāgota aizsardzība</a>
+security-privacy-status-custom-enabled-label = Tev ir <a data-l10n-name="custom-tracking-protection">pielāgota aizsardzība</a>
 security-privacy-status-up-to-date-label = Jums ir jaunākā un drošākā { -brand-short-name } versija.
 security-privacy-status-update-needed-label = Ir pieejama jauna { -brand-short-name } versija.
 security-privacy-status-update-error-label = { -brand-short-name } nevar atjaunināt savu saturu.
@@ -2390,7 +2390,7 @@ preferences-etp-rfp-warning-message =
     .message = Tu izmanto Resist Fingerprinting (RFP), kas aizstāj dažus { -brand-short-name } pirkstu nospiedumu aizsardzības iestatījumus. Tas var izraisīt dažu vietņu darbības traucējumus.
 preferences-etp-level-warning-message =
     .heading = Uzmanību! Dažas vietnes var nedarboties kā paredzēts.
-    .message = Dažas vietnes savās iespējās vai saturā iebūvē izsekotājus. Kad { -brand-short-name } tos aiztur, vietne izskatās bojāta. Var mēģināt izmantot “Labot sarežģījumu ar vietni” vai attiecīgajā vietnē izslēgt aizsardzību pret izsekošanu.
+    .message = Dažas vietnes savās iespējās vai saturā iebūvē izsekotājus. Kad { -brand-short-name } tos aiztur, vietne izskatās bojāta. Var mēģināt izmantot “Novērst vietnes nepilnību” vai attiecīgajā vietnē izslēgt aizsardzību pret izsekošanu.
 preferences-etp-manage-exceptions-button =
     .description = Pārvaldiet tīmekļa vietnes, kurās ir atspējota uzlabotā izsekošanas aizsardzība.
     .label = Pārvaldīt izņēmumus

@@ -54,9 +54,15 @@ reload-tabs =
 pin-tab =
     .label = Fiksoje Skedën
     .accesskey = F
+tab-context-pin-tab2 =
+    .label = Fiksoje
+    .accesskey = F
 unpin-tab =
     .label = Shfiksoje Skedën
     .accesskey = f
+tab-context-unpin-tab2 =
+    .label = Shfiksoje
+    .accesskey = S
 pin-selected-tabs =
     .label = Fiksoji Skedat
     .accesskey = F
@@ -69,17 +75,37 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Faqeruaje Skedën…
     .accesskey = q
+# Context menu item used to bookmark 1 or more selected tabs
+tab-context-bookmark-tab2 =
+    .label = Faqeruaje
+    .accesskey = F
 tab-context-open-in-new-container-tab =
     .label = Hape në Skedë të Re Kontejneri
     .accesskey = a
+tab-context-open-in-new-container-tab2 =
+    .label = Hape në një Skedë Kontejneri të Ri
+    .accesskey = H
+tab-context-open-in-container =
+    .label = Hape në Kontejner
+    .accesskey = H
 move-to-start =
     .label = Shpjere në Fillim
     .accesskey = i
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Fillim
+    .accesskey = F
 move-to-end =
     .label = Shpjere në Fund
     .accesskey = u
+move-to-end-alt =
+    .label = Fund
+    .accesskey = F
 move-to-new-window =
     .label = Kaloje në Dritare të Re
+    .accesskey = D
+move-to-new-window-alt =
+    .label = Dritare e Re
     .accesskey = D
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -88,9 +114,20 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Mbyll Skeda të Shumta
     .accesskey = u
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Mbyll Disa Njëherësh
+    .accesskey = D
 tab-context-close-duplicate-tabs =
     .label = Mbyll Skeda të Përsëdytura
     .accesskey = M
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Skeda të Përsëdytura
+    .accesskey = y
+tab-context-close-duplicate-tabs2 =
+    .label = Mbyll Përsëdytje të Kësaj Skede
+    .accesskey = y
 tab-context-share-url =
     .label = Ndajeni me të tjerët
     .accesskey = N
@@ -104,6 +141,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grup i Ri
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = Grup i Ri
+tab-context-add-tab-to-group-closed-groups =
+    .label = Grupe të Mbyllur
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -123,6 +164,14 @@ tab-context-close-n-tabs =
            *[other] Mbylli { $tabCount } Skedat
         }
     .accesskey = b
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Mbylle
+            [one] Mbyll { $tabCount } Skedë
+           *[other] Mbylli { $tabCount } Skedat
+        }
+    .accesskey = M
 tab-context-move-tabs =
     .label =
         { $tabCount ->

@@ -55,7 +55,7 @@ protections-close-button2 =
     .aria-label = Aizvērt
     .title = Aizvērt
 mobile-app-title = Liegt reklāmu izsekotājus vairākās ierīcēs
-mobile-app-card-content = Izmantojiet mobilo pārlūku ar iebūvētu aizsardzību pret reklāmu izsekošanu.
+mobile-app-card-content = Izmanto mobilo pārlūku ar iebūvētu aizsardzību pret izsekošanu reklāmās.
 mobile-app-links = { -brand-product-name } Pārlūks operētājsistēmām <a data-l10n-name="android-mobile-inline-link">Android</a> un <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nekad vairs neaizmirstiet paroli
 passwords-title-logged-in = Pārvaldiet jūsu paroles
