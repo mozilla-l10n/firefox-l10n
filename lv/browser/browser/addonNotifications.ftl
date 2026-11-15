@@ -38,8 +38,8 @@ site-permission-install-first-prompt-serial-message = Šīs piekļuves drošība
 xpinstall-disabled-by-policy = Jūsu organizācija ir izslēgusi programmatūras instalēšanu.
 xpinstall-disabled = Programmatūras instalēšana ir izslēgta. Spiediet Ieslēgt un mēģiniet vēlreiz.
 xpinstall-disabled-button =
-    .label = Ieslēgt
-    .accesskey = g
+    .label = Iespējot
+    .accesskey = n
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.

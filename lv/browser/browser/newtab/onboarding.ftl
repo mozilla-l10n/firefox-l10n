@@ -520,7 +520,7 @@ onboarding-refresh-pin-set-default-subtitle = Mēs automātiski aizsargājam jū
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Tu esi drošās ķepās
-onboarding-refresh-import-subtitle = Pārnesiet savas paroles, grāmatzīmes, vēsturi un citus datus.
+onboarding-refresh-import-subtitle = Pārcel savas paroles, grāmatzīmes, vēsturi un citus datus!
 onboarding-refresh-import-title = Padariet { -brand-short-name } par mājīgāku
 onboarding-refresh-onboarding-addons-subtitle = Paplašinājumi ir nelielas lietotnes, kas ļauj pielāgot { -brand-short-name }. Tie var pastiprināt privātumu, uzlabot ražīgumu, mainīt { -brand-short-name } izskatu un vēl daudz vairāk.
 # "Give your browsing a boost" means to enhance or improve the browsing experience

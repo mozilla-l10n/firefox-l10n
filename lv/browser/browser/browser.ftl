@@ -1064,7 +1064,7 @@ picture-in-picture-panel-header = Attēls-attēlā
 picture-in-picture-panel-headline = Šī vietne neiesaka attēls-attēlā
 picture-in-picture-panel-body = Videoklipi var netikt parādīti tā, kā to paredzējis izstrādātājs, ja tiek izmantota funkcija attēls-attēlā.
 picture-in-picture-enable-toggle =
-    .label = Tomēr ieslēgt
+    .label = Vienalga iespējot
 
 ## Full Screen and Pointer Lock UI
 

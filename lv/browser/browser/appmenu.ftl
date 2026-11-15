@@ -163,7 +163,7 @@ appmenu-fxa-signed-in-label = Pieteikties
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync. The user can
 # dismiss it, after which the compact sign-in row is shown in its place.
-appmenu-fxa-sign-in-promo-heading2 = Vienādojiet savus datus visur
+appmenu-fxa-sign-in-promo-heading2 = Vienādo savus datus visur
 appmenu-fxa-sign-in-promo-link = Pieteikties
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Noraidīt pierakstīšanās reklāmu
