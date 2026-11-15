@@ -22,9 +22,9 @@ third-party-th-process = Process
 third-party-th-duration = Ielādes ilgums (ms)
 third-party-th-status = Stāvoklis
 third-party-tag-ime = IME
-    .title = Šāda tipa modulis ir ielādēts kad izmantojat trešās puses IME.
+    .title = Šāda veida modulis tiek ielādēts, kad izmanto trešo pušu IME.
 third-party-tag-shellex = Čaulas paplašinājums
-    .title = Šāda tipa modulis ir ielādēts kad atverat sistēmas datņu dialoglodziņu.
+    .title = Šāda veida modulis tiek ielādēts, kad atver sistēmas datņu dialoglodziņu.
 third-party-tag-background = Fons
     .title =
         Šis modulis nenobloķēja lietotni, jo tas bija ielādēts

@@ -42,7 +42,7 @@ videocontrols-error-aborted = Video ielāde apturēta.
 videocontrols-error-network = Video atskaņošana apturēta tīkla kļūmes dēļ.
 videocontrols-error-decode = Video nevar atskaņot, jo datne ir bojāta.
 videocontrols-error-src-not-supported = Video formāts vai MIME veids nav atbalstīs.
-videocontrols-error-no-source = Netika atrasts atbalstīta formāta vai MIME tipa video.
+videocontrols-error-no-source = Netika atrasts atbalstīta formāta vai MIME veida video.
 videocontrols-error-generic = Video atskaņošana apturēta nezināmas kļūmes dēļ.
 videocontrols-status-picture-in-picture = Šis videoklips tiek atskaņots režīmā “Attēls attēlā”.
 # Android counterpart of videocontrols-status-picture-in-picture.

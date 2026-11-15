@@ -156,8 +156,8 @@ about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y ass Y no
 # description: This message sits alongside an input field, further describing its purpose. Category refers to the category in which a given metric is recorded. Name refers to the name of a given metric. Type refers to a given metric's metric type. Value refers to the underlying value of a given metric. "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 # placeholder: Search is a verb in this case
 about-glean-filter-metrics =
-    .description = Tas filtrēs tālāk redzamo tabulu pēc kategorijas, nosaukuma, tipa un vērtības (ja vērtība ir vienkāršs tips).
-    .label = Filtrēt mērījumus
+    .description = Tas atsijās tālāk redzamo tabulu pēc kategorijas, nosaukuma, veida un vērtības (ja vērtība ir vienkāršs veids).
+    .label = Atsijāt mērījumus
     .placeholder = Meklēt
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrs
@@ -167,7 +167,7 @@ about-glean-label-for-filter-metrics = Filtrs
 # Type refers to a given metric's metric type.
 # Value refers to the underlying value of a given metric.
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
-about-glean-description-for-filter-metrics = Tas filtrēs tālāk redzamo tabulu pēc kategorijas, nosaukuma, tipa un vērtības (ja vērtība ir vienkāršs tips).
+about-glean-description-for-filter-metrics = Tas atsijās zemāk esošo tabulu pēc kategorijas, nosaukuma, veida un vērtības (ja vērtība ir vienkāršs veids).
 about-glean-button-load-all = Ielādēt visas vērtības
 # A button that, when pressed, exports the data currently shown in the metrics table
 about-glean-button-export-data = Eksportēt datus
