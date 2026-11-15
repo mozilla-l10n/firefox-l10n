@@ -1342,6 +1342,10 @@ newtab-report-ads-reason-inappropriate =
     .label = Është e papërshtatshme
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = E kam parë shumë herë
+newtab-report-ads-reason-scam =
+    .label = Mashtrim, ose i rrejshëm
+newtab-report-ads-reason-misleading =
+    .label = Pretendime ngatërruese, ose të pavërteta
 newtab-report-ads-reason-offensive =
     .label = Fyese, ose e papërshtatshme
 newtab-report-content-wrong-category =
@@ -1369,6 +1373,10 @@ newtab-section-toast-follow =
 #   $topic (string) - Topic that the user has unfollowed
 newtab-section-toast-unfollow =
     .message = S’e ndiqni më { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = S’do të shihni më histori rreth { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -1488,6 +1496,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Shfaq më pak widget-e
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget-i s’kihet dot. Kontrolloni më vonë.
 newtab-widget-lists-name-default = Listë hapash
 
 ## Strings introduced by the Nova redesign of the Timer widget
