@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimes
 ipprotection-feature-introduction-title-1 = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
+ipprotection-feature-introduction-title-privacy-1 = Lisää kerros yksityisyyttä sisäänrakennetulla VPN:llä
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
 ipprotection-feature-introduction-link-text-privacy-3 = Saat <a data-l10n-name="learn-more-vpn">enemmän yksityisyyttä</a> valitsemalla useista sijainneista, joihin selauksesi alkuperä piilotetaan.
 ipprotection-feature-introduction-text-summer-promo-1 = Ota se käyttöön pitääksesi selaamisesi yksityisempänä. <a data-l10n-name="summer-promo-link">Saat rajattoman kaistanleveyden</a> ja lisää sijainteja selailun alkuperän piilottamiseksi. Nyt 31. elokuuta asti.
@@ -50,6 +51,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Poista VPN työkalupalkista
 ipprotection-feature-introduction-button-open-vpn = Avaa VPN
 ipprotection-feature-introduction-button-get-started = Aloitetaan
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Suojaa yksityisyytesi tehokkaasti { -brand-product-name }in sisäänrakennetulla VPN:llä
 
 ## Summer promo offramp callout buttons
 
@@ -102,13 +107,19 @@ ipprotection-android-promo-callout-primary-button = Selvä
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Aseta sisäänrakennetut VPN-säännöt ja jatka selaamista
+ipprotection-site-inclusions-callout-title-lapsed-users = Kokeile sisäänrakennettua VPN:ää sivustokohtaisesti
+ipprotection-site-inclusions-callout-primary-button = Aseta säännöt
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ei nyt
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Hylkää
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Tee selaamisestasi yksityistä ja vaikeammin jäljitettävää sisäänrakennetulla VPN:llä.
 ipprotection-holiday-promo-primary-button = Avaa VPN
 ipprotection-holiday-promo-secondary-button = Hylkää
+ipprotection-holiday-promo-title-1 = Käytä rajatonta VPN:ää 31. tammikuuta asti
 
 ## Panel
 
@@ -135,6 +146,12 @@ site-rules-status-heading = Sinun sääntö
 site-rules-description-exclusion = VPN ei ole käytössä tällä sivustolla
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN on käytössä tällä sivustolla
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Laitetaanko VPN aina päälle sivustolle { $website }?
+    .message = Päivitä sääntöjä milloin tahansa asetuksissa.
 ipprotection-settings-link =
     .label = Asetukset
 
@@ -145,6 +162,8 @@ ipprotection-button-turn-vpn-off = Sammuta VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Poista VPN käytöstä kaikkialla
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Ota käyttöön
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Ota VPN käyttöön
 # Button while VPN is connecting
@@ -157,6 +176,8 @@ ipprotection-connection-status-excluded-1 = VPN ei ole käytössä tällä sivus
     .aria-label = VPN ei ole käytössä tällä sivustolla
 ipprotection-connection-status-connecting-1 = VPN muodostaa yhteyttä…
     .aria-label = VPN muodostaa yhteyttä…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Poista käytöstä
 
 ## Location controls
 
@@ -224,6 +245,7 @@ ipprotection-message-continuous-onboarding-intro = Ota VPN käyttöön piilottaa
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aseta VPN käynnistymään</a> aina, kun avaat { -brand-short-name }in, saadaksesi lisäsuojausta.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } muistaa, mitkä verkkosivustot olet asettanut käyttämään VPN:ää. Voit päivittää sivustot <a data-l10n-name="setting-link">asetuksissa</a> milloin tahansa.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ei ole käytössä tällä sivustolla
+confirmation-hint-ipprotection-navigated-to-included-site = VPN on käytössä tällä sivustolla
 ipprotection-open-button = Avaa { -brand-product-name }
 ipprotection-come-back-title = Palaa takaisin kokeilemaan sisäänrakennettua VPN:ää
 ipprotection-message-body-hide-location = Piilota sijaintisi selatessasi { -brand-product-name }illa saadaksesi paremman yksityisyyden ja hallinnan.
@@ -259,6 +281,11 @@ ip-protection-learn-more = Lue lisää
 ip-protection-not-opted-in-4 =
     .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
     .message = Selaa lisäsuojauksella piilottamalla sijaintisi.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Oletko valmis kokeilemaan?
+    .message = Saat { $maxUsage } Gt ilmaiseksi joka kuukausi ja voit valita, mitkä sivustot käyttävät VPN:ää.
 ip-protection-not-opted-in-button = Aloitetaan
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -269,6 +296,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } verkkosivustoa
         }
     .label = Hallitse verkkosivuston asetuksia
+ip-protection-site-rules-header-1 =
+    .heading = Hallinnoi VPN-sääntöjä
+ip-protection-site-rules-button-1 =
+    .description = Aseta säännöt sivustoille, jotka tarvitsevat lisäyksityisyyttä tai VPN:n pois päältä.
+    .label = Hallinnoi VPN-sääntöjä
+ip-protection-site-rules-list-section-1 =
+    .description = Aseta säännöt VPN:n automaattiseen päälle- tai poiskytkentään.
+    .label = Sivustosäännöt
+ip-protection-site-rules-add-button =
+    .label = Aseta sääntö
+ip-protection-site-rules-delete-all-button =
+    .label = Poista kaikki säännöt
+ip-protection-site-rules-empty = Asettamasi säännöt näkyvät tässä.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN aina päällä
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN aina pois päältä
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Muokkaa sivuston { $website } sääntöä
+    .title = Muokkaa
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Poista sivuston { $website } sääntö
+    .title = Poista
 ip-protection-autostart =
     .label = Ota VPN käyttöön automaattisesti
 ip-protection-autostart-checkbox =
@@ -287,6 +341,52 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Hallitse verkkosivuston asetuksia
 ip-protection-exclusions-desc = Käytä VPN:ää kaikille muille paitsi tällä listalla oleville verkkosivustoille. Lisää verkkosivusto tähän tai avaamalla VPN.
+ip-protection-site-rule-window =
+    .title = Aseta sääntö
+ip-protection-edit-site-rule-window =
+    .title = Muokkaa sääntöä
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Aseta
+    .buttonaccesskeyaccept = A
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Tallenna
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Kirjoita sivusto ja valitse sitten sen VPN-tila.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Sivusto
+    .placeholder = esim. acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN:n tila
+ip-protection-site-rule-status-on =
+    .label = Aina päällä
+ip-protection-site-rule-status-off =
+    .label = Aina pois päältä
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Anna kelvollinen verkkosivuston osoite.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Tällä sivustolla on jo sääntö.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Säännön luominen epäonnistui. Yritä uudelleen.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Poistetaanko sivuston { $website } sääntö?
+ip-protection-delete-site-rule-cancel =
+    .label = Peruuta
+ip-protection-delete-site-rule-confirm =
+    .label = Poista
+ip-protection-delete-all-site-rules-message = Poistetaanko kaikki sivustosäännöt?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Poista kaikki säännöt
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Sääntöä ei voitu poistaa
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Sääntöjä ei voitu poistaa
+ip-protection-delete-site-rule-retry =
+    .label = Yritä uudestaan
 
 ## IP Protection Bandwidth
 
@@ -351,5 +451,7 @@ vpn-error-page-keep-browsing = Jatka selaamista tässä istunnossa
 vpn-error-page-new-session = Aloita uusi istunto
 vpn-paused-alert-close-tabs-button = Sulje kaikki välilehdet
 vpn-paused-alert-continue-wo-vpn-button = Jatka ilman VPN:ää
+vpn-error-alert-title-1 = VPN ja säännöt eivät toimi juuri nyt.
+vpn-error-alert-body-1 = VPN:n kytkeminen päälle ja pois päältä voi korjata ongelman.
 vpn-error-alert-title = VPN ei toimi juuri nyt.
 vpn-error-alert-body = Yrittää myöhemmin uudelleen.
