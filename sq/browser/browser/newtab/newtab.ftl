@@ -435,11 +435,26 @@ newtab-picture-menu-learn-more = Mësoni më tepër
 newtab-picture-show-button2 =
     .aria-label = Shfaqe foton
     .title = Shfaqe foton
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Shihni prapë nesër për një foto të re
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Foto e ditës nga Wikimedia Commons
 
 ## Strings for the Search widget
 
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Mësoni më tepër
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Kërkime së fundi
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Në modë
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = përmes { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Mu tani
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -452,14 +467,25 @@ newtab-search-widget-open-menu-button =
 newtab-horoscopes-widget-title = Horoskopë
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Mësoni më tepër
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Bazuar në Yahoo
 
 ## Strings for the Travel widget
 
 # Widget heading; also the widget's accessible name. Travel (noun) is a
 # widget on New Tab for searching hotels, flights and car rentals.
 newtab-travel-widget-title = Udhëtim
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Hapni menu udhëtimesh
+    .title = Hap menu udhëtimesh
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Mësoni më tepër
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Bazuar në Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -483,7 +509,9 @@ newtab-widget-wrexhamafc-menu-view = Shfaqje
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
 
+newtab-widget-wrexhamafc-view-matches = Ndeshje
 newtab-widget-wrexhamafc-view-table = Tabelë
+newtab-widget-wrexhamafc-view-fixtures = Ndeshje të Ardhshme
 # Menu item opening the New Tab customize panel, where wallpapers are chosen.
 newtab-widget-wrexhamafc-menu-wallpapers = Sfonde
 
@@ -702,6 +730,7 @@ newtab-discovery-empty-section-topstories-header = S’ka tjetër!
 newtab-discovery-empty-section-topstories-content = Kontrolloni më vonë për më tepër shembuj.
 newtab-discovery-empty-section-topstories-try-again-button = Riprovoni
 newtab-discovery-empty-section-topstories-loading = Po ngarkohet…
+newtab-discovery-empty-section-topstories-unavailable-body = Kontrolloni lidhjen tuaj, ose riprovoni.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam këtë ndarje, por jo dhe aq.
 
@@ -971,6 +1000,8 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Një dhelpër në skajin e djathtë, në një sfond portokalli
+newtab-wallpaper-firefox-colorful-sky = Valë portokalli përmes një qielli të purpur mbrëmjeje
 
 ## Firefox
 
@@ -1382,8 +1413,6 @@ newtab-widget-timer-increase-min =
     .title = Shto 1 minutë
 newtab-widget-timer-mode-group =
     .aria-label = Mënyrë kohëmatësi
-# Small label shown beneath the live time while the focus timer is running or paused.
-newtab-widget-timer-running-focus = { "" }
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = Pushimi juaj mbaroi
 # Message shown inside the Timer widget after a focus session ends.
