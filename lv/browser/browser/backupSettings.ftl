@@ -54,7 +54,7 @@ settings-data-backup-restore-scheduled-on =
     .label = Atjaunot savus datus
 settings-data-backup-restore-scheduled-off =
     .description = Izmanto { -brand-product-name } dublējumu no citas ierīces, lai atjaunotu savus datus!
-    .label = Atjauno savus datus
+    .label = Atjaunot savus datus
 settings-sensitive-data =
     .label = Sensitīvi dati
 settings-data-toggle-encryption-support-link = Uzzināt vairāk
@@ -84,7 +84,7 @@ turn-on-scheduled-backups-encryption-create-password-label = Parole
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Atkārtojiet paroli
 turn-on-scheduled-backups-cancel-button = Atcelt
-turn-on-scheduled-backups-confirm-button = Ieslēgt rezerves kopijas izveidi
+turn-on-scheduled-backups-confirm-button = Ieslēgt dublēšanu
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Radās problēma ar jūsu atlasīto rezerves kopijas mapi. Izvēlieties citu mapi un mēģiniet vēlreiz.
@@ -101,7 +101,7 @@ turn-off-scheduled-backups-confirm-button = Izslēgt veidošanu un dzēst rezerv
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
-restore-from-backup-header = Atjauno savus datus
+restore-from-backup-header = Atjaunot savus datus
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Kas tiks atjaunots?
@@ -229,14 +229,14 @@ backup-file-how-to-restore-header = Kā atjaunot:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Jāatver lietotnes izvēlne ☰ un jādodas uz Iestatījumi > Vienādošana
-backup-file-moz-browser-restore-step-2-1 = Noklikšķiniet uz “Atjaunot datus” un atlasiet šo datni.
+backup-file-moz-browser-restore-step-2-1 = Klikšķini uz “Atjaunot savus datus” un atlasi šo datni!
 backup-file-moz-browser-restore-step-3 = Restartējiet { -brand-short-name }, kad tas tiek prasīts
 backup-file-other-browser-restore-step-1 = Lejupielādējiet un instalējiet { -brand-short-name }
 backup-file-download-moz-browser-button = Lejupielādēt
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Jāpalaiž { -brand-short-name }, jāatver lietotnes izvēlne un jādodas uz Iestatījumi > Vienādošana
-backup-file-other-browser-restore-step-3-1 = Noklikšķiniet uz “Atjaunot datus” un atlasiet šo datni
+backup-file-other-browser-restore-step-3-1 = Klikšķini uz “Atjaunot savus datus” un atlasi šo datni!
 backup-file-other-browser-restore-step-4 = Restartējiet { -brand-short-name }, kad tas tiek prasīts
 
 ## These strings are used in the about:restore and about:welcome pages

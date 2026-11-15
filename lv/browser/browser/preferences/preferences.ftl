@@ -751,7 +751,7 @@ network-proxy-group2 =
     .description = Konfigurēt, kā { -brand-short-name } savienojas ar internetu.
     .label = Starpniekservera iestatījumi
 network-proxy-connection-settings2 =
-    .description = Šo iestatījumu maiņa var radīt savienojuma problēmas
+    .description = Šo iestatījumu maiņa var radīt savienojuma traucējumus
     .label = Konfigurēt starpniekserveri
     .accesskey = p
 
@@ -1469,7 +1469,7 @@ addresses-list-header =
 addreses-delete-address-button-label =
     .aria-label = Dzēst
 addreses-edit-address-button-label =
-    .aria-label = Rediģēt
+    .aria-label = Labot
 addresses-delete-address-prompt-title = Vai dzēst šo adresi?
 addresses-delete-address-prompt-confirm-button = Dzēst
 addresses-delete-address-prompt-cancel-button = Atcelt
