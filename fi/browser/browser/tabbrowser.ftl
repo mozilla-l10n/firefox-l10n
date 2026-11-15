@@ -286,6 +286,14 @@ tab-context-move-tab-to-new-group =
            *[other] Lisää välilehdet uuteen ryhmään
         }
     .accesskey = u
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Lisää ryhmään
+            [one] Lisää { $tabCount } välilehti ryhmään
+           *[other] Lisää { $tabCount } välilehteä ryhmään
+        }
+    .accesskey = L
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->

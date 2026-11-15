@@ -644,6 +644,7 @@ welcome-back-onboarding-card-tilebutton-label = Dene
 ## New Tab Onboarding cards
 
 hnt-card-import-header = { -brand-short-name } tarayıcınızı saniyeler içinde kullanıma hazırlayın
+hnt-card-import-body = Başka bir tarayıcıdaki yer imlerinizi, parolalarınızı ve diğer verilerinizi içe aktarın.
 hnt-card-import-primary-button = Verilerimi içe aktar
 hnt-card-default-primary-button = Bağlantıları { -brand-short-name } ile aç
 hnt-card-mobile-primary-button = Mobil cihazlar için { -brand-product-name }’u indirin.

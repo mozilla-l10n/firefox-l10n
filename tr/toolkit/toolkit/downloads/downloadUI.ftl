@@ -40,6 +40,12 @@ download-ui-cancel-downloads-ok =
        *[other] Evet, { $downloadsCount } dosyayı indirmekten vazgeç
     }
 download-ui-confirm-cancel-button = Vazgeç
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } uygulamasından çık
+       *[other] { -brand-short-name } uygulamasından çık
+    }
+download-ui-confirm-offline-button = Çevrimdışı ol
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] Bu indirmeye devam edemeyeceksiniz.

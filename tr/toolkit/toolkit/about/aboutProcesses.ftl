@@ -34,6 +34,10 @@ about-processes-collapse-site =
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-unload-site =
     .title = { $site } sekmelerini boşalt
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = { $site } sekmelerini yeniden yükle
 about-processes-expand-all-sites =
     .title = Tümünü genişlet
 about-processes-collapse-all-sites =

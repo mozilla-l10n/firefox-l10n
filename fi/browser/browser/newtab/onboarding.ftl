@@ -407,6 +407,8 @@ tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Löydä suljetut 
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Avaa välilehtiryhmäsi uudelleen Listaa kaikki välilehdet -valikosta milloin tahansa.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Välilehtiryhmät tallennetaan automaattisesti. Löydät ne täältä.
 
 ## Multi Profiles feature onboarding messages
 
@@ -556,6 +558,9 @@ onboarding-refresh-terms-of-use-with-links = Jatkamalla hyväksyt <a data-l10n-n
 onboarding-refresh-data-collection-link = Muokkaa tiedonkeruun asetuksia
 onboarding-refresh-primary-button = Jatka
 onboarding-refresh-fro-import-header = Tuo tietosi
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Tietosi kuuluvat sinulle. { -brand-product-name } ei koskaan myy henkilökohtaisia tietojasi.
 onboarding-refresh-fro-import-body = Henkilökohtaiset tietosi pysyvät henkilökohtaisina. { -brand-product-name } ei koskaan myy niitä.
 onboarding-refresh-fro-skip-button = Ohita
 onboarding-refresh-fro-theme-header = Leikittele tyyleillä
@@ -621,8 +626,11 @@ onboarding-carousel-nav =
 welcome-back-onboarding-title = Uusilla ominaisuuksilla saat enemmän aikaan
 welcome-back-onboarding-primary-button-label = Aloita selaaminen
 welcome-back-onboarding-secondary-button-label = Tutustu muihin uutuuksiin
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Siistit välilehdet
 welcome-back-onboarding-pill-label-vpn = Sisäänrakennettu VPN
 welcome-back-onboarding-pill-label-pdf = PDF-työkalut
+welcome-back-onboarding-card-label-tabs = Pidä välilehdet siistissä järjestyksessä pystysuuntaisten välilehtien ja ryhmien avulla
 welcome-back-onboarding-card-label-vpn = Suojaa yksityisyyttäsi sisäänrakennetulla VPN:llä
 welcome-back-onboarding-card-label-pdf = Korosta, allekirjoita ja muokkaa PDF-tiedostoja
 welcome-back-onboarding-card-tilebutton-label = Kokeile
@@ -632,6 +640,7 @@ welcome-back-onboarding-card-tilebutton-label = Kokeile
 hnt-card-import-header = Määritä { -brand-short-name } sekunneissa
 hnt-card-import-body = Tuo kirjanmerkit, salasanat ja muut tiedot toisesta selaimesta.
 hnt-card-import-primary-button = Tuo omat tietosi
+hnt-card-default-body = { -brand-product-name } on ainoa merkittävä selain, joka on rakennettu suojaamaan sinua, ei seuraamaan sinua.
 hnt-card-default-primary-button = Avaa linkit { -brand-short-name }illa
 hnt-card-pin-header = Pidä { -brand-short-name } yhden napsautuksen päässä
 hnt-card-pin-body =
