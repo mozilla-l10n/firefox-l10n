@@ -36,6 +36,11 @@ tab-splitview-splitter =
     .aria-label = Muuta jaetun näkymän välilehtien kokoa
 tab-devtools-splitter =
     .aria-label = Muuta kehittäjätyökalujen paneelin kokoa
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Lisää välilehdet ryhmään
+    .accesskey = L
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -452,6 +457,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Eriytä näkymä
     .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Eriytä välilehdet
+    .accesskey = E
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Vaihda järjestys

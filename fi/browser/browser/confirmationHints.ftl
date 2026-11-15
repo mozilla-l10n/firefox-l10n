@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = Uusi maski luotu!
 confirmation-hint-firefox-relay-mask-reused = Olemassa oleva maski käytetty uudelleen!
 confirmation-hint-screenshot-copied = Kuvakaappaus kopioitu!
 confirmation-hint-tab-group-saved = Välilehtiryhmä tallennettu
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Löydä välilehtiryhmät tästä valikosta
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

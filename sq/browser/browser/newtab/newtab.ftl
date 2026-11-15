@@ -93,6 +93,11 @@ home-prefs-choose-wallpaper-link2 =
     .label = Zgjidhni një sfond
 home-prefs-firefox-logo-header =
     .label = Stemë e { -brand-short-name }-it
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Që të përdorni këto veçori, caktoni { -firefox-home-brand-name } -in për skeda të reja apo dritare të reja.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -143,6 +148,11 @@ home-prefs-mission-message-learn-more-link-srd = Mësoni se si
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Mësoni më tepër
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Hapni menu privatësie
+    .title = Hap menu privatësie
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -174,16 +184,39 @@ newtab-privacy-across-sites =
        *[other] Nëpër { $count } sajte
     }
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name }-i bllokon automatikisht gjurmues, duke mbajtur private pjesë më të mëdha të veprimtarisë tuaj.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Shihni këtu numrin gjithsej që përditësohet.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Më pak gjurmues, shfletim më i shpejtë.
+newtab-privacy-empty-state-small-message = Që të fillojë bllokimi, shfletoni.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Shfletim më i shpejtë. Më pak gjurmues.
+newtab-privacy-etp-off-turn-on-tracking = Që të fillojë bllokimi, aktivizoni te rregullimet mbrojtje nga gjurmimi.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name }-i bllokon automatikisht gjurmues teksa shfletoni.
 newtab-privacy-message-info-1-cta = Shihni mbrojtje
+newtab-privacy-message-info-2 = Bllokimi i gjurmuesve ndihmon të ndalen shoqëri t’ju ndjekin në internet.
 newtab-privacy-message-info-2-cta = Shihni mbrojtje
+newtab-privacy-message-info-3 = Mjaft sajte kanë gjurmues, që shoqëri që s’i keni vizituar kurrë të mund t’ju ndjekin në internet.
 newtab-privacy-message-info-3-cta = Shihni mbrojtje
+newtab-privacy-message-info-4 = Zgjedhja e { -brand-short-name }-it do të thotë zgjedhje e mbrojtjes, si parazgjedhje.
 newtab-privacy-message-info-4-cta = Shihni mbrojtje
+newtab-privacy-message-info-5 = Gjurmues të bllokuar do të thotë më pak shoqëri munden t’ju ndjekin nëpër sajte.
 newtab-privacy-message-info-5-cta = Shihni mbrojtje
 newtab-privacy-message-info-6-cta = Mësoni më tepër
 newtab-privacy-message-info-7-cta = Shihni mbrojtje

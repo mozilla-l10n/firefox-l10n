@@ -192,6 +192,9 @@ newtab-privacy-empty-state = { -brand-short-name } estää seuraimet automaattis
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Näe kasvava lukema täällä.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Vähemmän seuraimia, nopeampaa selaamista.
+newtab-privacy-empty-state-small-message = Aloita estäminen selaamalla.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -558,6 +561,18 @@ newtab-solitaire-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Lue lisää
 
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Ottelut
+newtab-widget-wrexhamafc-view-table = Taulukko
+newtab-widget-wrexhamafc-view-fixtures = Otteluohjelma
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Taustakuvat
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -778,6 +793,8 @@ newtab-discovery-empty-section-topstories-header = Olet ajan tasalla!
 newtab-discovery-empty-section-topstories-content = Katso myöhemmin lisää juttuja.
 newtab-discovery-empty-section-topstories-try-again-button = Yritä uudelleen
 newtab-discovery-empty-section-topstories-loading = Ladataan…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Tarinoita ei ole saatavilla juuri nyt
 newtab-discovery-empty-section-topstories-unavailable-body = Tarkista verkkoyhteytesi tai yritä myöhemmin uudelleen.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hups! Tämä osio ladattiin melkein, mutta ei ihan.
@@ -1406,6 +1423,9 @@ newtab-widget-menu-move-left = Vasen
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Oikea
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Pienoisohjelmat
 newtab-widget-size-small = Pieni
 newtab-widget-size-medium = Keskikokoinen
 newtab-widget-size-large = Suuri
@@ -1442,6 +1462,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Näytä vähemmän pienoisohjelmia
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Pienoisohjelma ei ole käytettävissä. Yritä myöhemmin uudelleen.
 newtab-widget-lists-name-default = Tarkistuslista
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1822,6 +1846,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Hae kaupunkia
     .placeholder = Hae kaupunkia
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Nimimerkki (valinnainen)
+    .description =
+        { $count ->
+            [one] { $count } merkki jäljellä
+           *[other] { $count } merkkiä jäljellä
+        }
+    .label = Nimimerkki (valinnainen)
+    .placeholder = Lisää nimimerkki
 newtab-clock-widget-search-location-input =
     .aria-label = Hae kaupunkia
     .label = Sijainti

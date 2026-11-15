@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Tuo toisesta selaimes
 contextual-manager-passwords-command-import = Tuo tiedostosta…
 contextual-manager-passwords-command-export = Vie salasanat
 contextual-manager-passwords-command-remove-all = Poista kaikki salasanat
+contextual-manager-passwords-command-delete-all = Poista kaikki salasanat
 contextual-manager-passwords-command-options = Asetukset
 contextual-manager-passwords-command-help = Ohje
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Poistetaanko kaikki { $total } salasanaa?
        *[other] Poistetaanko kaikki { $total } salasanaa?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Poistetaanko { $total } salasana?
+       *[other] Poistetaanko { $total } salasanaa?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -116,6 +124,14 @@ contextual-manager-passwords-remove-all-confirm =
 contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Poista
+       *[other] Poista kaikki
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Poista
+        [one] Poista
        *[other] Poista kaikki
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
@@ -177,12 +193,16 @@ contextual-manager-passwords-radiobutton-all = Kaikki ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Hälytykset ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Poistetaanko salasana?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Poistetaanko salasana?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Tätä ei voi kumota.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Takaisin
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Poista
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Poista
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Peruuta
 contextual-manager-passwords-alert-card =
@@ -213,6 +233,9 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Päivitä salasana
 contextual-manager-passwords-remove-label =
+    .title = Poista salasana
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
     .title = Poista salasana
 contextual-manager-passwords-origin-field =
     .label = Verkkosivuston osoite
@@ -325,6 +348,14 @@ contextual-manager-passwords-discard-changes-close-button = Sulje
 contextual-manager-passwords-discard-changes-go-back-button = Takaisin
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Kyllä, poista salasana
+        [one] Kyllä, poista salasana
+       *[other] Kyllä, poista salasanat
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
     { $total ->
         [1] Kyllä, poista salasana
         [one] Kyllä, poista salasana

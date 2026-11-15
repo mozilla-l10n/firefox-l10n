@@ -39,6 +39,19 @@ download-ui-cancel-downloads-ok =
         [1] Peruuta lataus
        *[other] Peruuta { $downloadsCount } latausta
     }
+download-ui-confirm-cancel-button = Peruuta
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Lopeta { -brand-short-name }
+       *[other] Lopeta { -brand-short-name }
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Et voi jatkaa tätä latausta.
+        [one] Et voi jatkaa tätä latausta.
+       *[other] Et voi jatkaa näitä latauksia.
+    }
+download-ui-confirm-private-browsing-button = Sulje ikkuna
 
 ##
 

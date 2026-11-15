@@ -94,6 +94,9 @@ move-to-end =
 move-to-new-window =
     .label = Siirrä uuteen ikkunaan
     .accesskey = S
+move-to-new-window-alt =
+    .label = Uusi ikkuna
+    .accesskey = U
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -124,6 +127,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Uusi ryhmä
     .accesskey = r
+tab-context-add-tab-to-group-new-group =
+    .label = Uusi ryhmä
+tab-context-add-tab-to-group-closed-groups =
+    .label = Suljetut ryhmät
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
