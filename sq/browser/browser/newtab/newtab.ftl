@@ -1010,6 +1010,16 @@ newtab-wallpaper-firefox-tail-dark = Bisht dhelpre në një sfond të errët
 newtab-wallpaper-firefox-tail-light = Bisht dhelpre në një sfond të çelët
 newtab-wallpaper-firefox-side-kit-dark = Një dhelpër më anë të majtë, në një sfond të errët
 newtab-wallpaper-firefox-side-kit-light = Një dhelpër më anë të majtë, në një sfond të çelët
+newtab-wallpaper-firefox-sitting-hill-dark = Një dhelpër ulur në kodra ngjyrë vjollcë të errët
+newtab-wallpaper-firefox-sitting-hill-light = Një dhelpër ulur në kodra të çelëta
+newtab-wallpaper-firefox-peak-dark = Fytyra e një dhelpre në anën e majtë, në një sfond të errët
+newtab-wallpaper-firefox-peak-light = Fytyra e një dhelpre në anën e majtë, në një sfond të çelët
+newtab-wallpaper-firefox-sky-dark = Kodra ngjyrë vjollcë të errët nën qiellin e natës
+newtab-wallpaper-firefox-sky-light = Kodra të çelëta nën një qiell të kaltër
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Stema e Wrexham AFC në një sfond të kuq
 
 ## Firefox
 
@@ -1033,6 +1043,11 @@ newtab-wallpaper-celestial-river = Pamje satelitore e një lumi
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ E sponsorizuar
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Hapni menu moti
+    .title = Hap menu moti
 newtab-weather-menu-change-location = Ndryshoni vendndodhje
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Kërkoni për vendndodhje
@@ -1048,6 +1063,9 @@ newtab-weather-location-search-results =
 newtab-weather-cancel-input =
     .aria-label = Anuloje
     .title = Anuloje
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Përdor vendndodhjen e tanishme
 newtab-weather-menu-weather-display = Shfaqje moti
 newtab-weather-todays-forecast = Moti për sot
 newtab-weather-see-full-forecast = Shihni parashikimin e plotë të motit
@@ -1072,6 +1090,10 @@ newtab-weather-opt-in-not-now =
     .label = Jo tani
 newtab-weather-opt-in-yes =
     .label = Po
+newtab-weather-opt-in-headline = Merrni parashikimin vendor të motit
+newtab-weather-opt-in-use-location =
+    .label = Përdor vendndodhjen
+newtab-weather-opt-in-choose-location = Zgjidhni vendndodhje
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Nju Jork Siti
 # Variables:
@@ -1379,6 +1401,8 @@ newtab-daily-briefing-card-timestamp = Përditësuar { $minutes }m më parë
 newtab-widget-message-title = Mbani përqendrimin, me lista dhe kohëmatës të brendshëm
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Nga kujtues të shpejtë e deri te për-t’u-bërë të përditshme, nga sesione përqendrimi e deri te pushime — merruni me punë dhe ndiqni kohën.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Një vend për përqendrim, mot, etj
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1421,17 +1445,31 @@ newtab-widget-timer-increase-min =
     .title = Shto 1 minutë
 newtab-widget-timer-mode-group =
     .aria-label = Mënyrë kohëmatësi
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pushim
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Fshihe kohëmatësin
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Punë e paqme
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = Pushimi juaj mbaroi
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = Ju duhet një pushim?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Gati për t’u përqendruar?
 
 ##
 
+newtab-sports-widget-menu-follow-teams = Ndiqni ekipe
+newtab-sports-widget-menu-view-schedule = Shihni kalendarin
+newtab-sports-widget-menu-view-upcoming = Shihni ato afër
 newtab-sports-widget-menu-view-results = Shihni përfundime
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Data kyçe
 newtab-sports-widget-menu-learn-more = Mësoni më tepër
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Ndiqni Kupën e Botës
 newtab-sports-widget-choose-wallpaper =
     .label = Zgjidhni një sfond
 newtab-sports-widget-skip = Anashkaloje

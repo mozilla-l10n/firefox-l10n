@@ -536,7 +536,7 @@ newtab-search-widget-open-menu-button =
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
-newtab-recent-searches-empty-recent = Nejnowše pytanja se how pokazuju, aby je kuždy cas wubraś.
+newtab-recent-searches-empty-recent = Nejnowše pytanja se how pokazuju, aby mógli je kuždy cas wubraś.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Popularne pytanja tuchylu njejsu k dispoziciji.
 
