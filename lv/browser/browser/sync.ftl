@@ -99,13 +99,13 @@ sync-profile-different-account-title = Šim profilam sasniegts kontu limits
 sync-profile-different-account-header = Šis profils iepriekš tika vienādots ar citu kontu
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
-sync-profile-different-account-description = Lai jūsu dati būtu sakārtoti un droši, katru { -brand-product-name } profilu var sinhronizēt tikai ar vienu kontu. Lai pieteiktos, izmantojot { $acctEmail }, izveidojiet jaunu profilu.
+sync-profile-different-account-description = Lai turētu datus kārtībā un drošībā, katru { -brand-product-name } profilu var vienādot tikai ar vienu kontu. Lai pieteiktos ar { $acctEmail }, jāizveido jauns profils.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profils vienādots ar citu kontu
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
-sync-profile-different-account-description-merge = Lai jūsu dati būtu sakārtoti un drošībā, iesakām izveidot jaunu profilu, lai pieteiktos, izmantojot { $acctEmail }. Ja izvēlēsities turpināt vienādoti šajā profilā, dati no abiem kontiem tiks neatgriezeniski apvienoti profilā “{ $profileName }”.
+sync-profile-different-account-description-merge = Lai turētu datus kārtībā un drošībā, iesakām izveidot jaunu profilu, lai pieteiktos ar { $acctEmail }. Ja izvēlēsies turpināt vienādot šajā profilā, dati no abiem kontiem tiks neatgriezeniski apvienoti profilā “{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Konts jau tiek lietots
 # Variables:
