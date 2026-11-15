@@ -124,13 +124,13 @@ webext-site-perms-header-with-gated-perms-serial = Šis papildinājums nodrošin
 # Note, the empty line is used to create a line break between the two sections.
 # Note, this string will be used as raw markup. Avoid characters like <, >, &
 webext-site-perms-description-gated-perms-midi =
-    Tās parasti ir spraudņa ierīces, piemēram, audio sintezatori, bet tās var būt arī iebūvētas datorā.
+    Tās parasti ir pievienojamas ierīces, piemēram, skaņas sintezatori, bet tās var būt arī iebūvētas datorā.
     
-    Tīmekļa vietnēm parasti nav atļauts piekļūt MIDI ierīcēm. Nepareiza lietošana var radīt bojājumus vai apdraudēt drošību.
+    Tīmekļvietnēm parasti nav atļauts piekļūt MIDI ierīcēm. Nepareiza izmantošana var radīt bojājumus vai apdraudēt drošību.
 webext-site-perms-description-gated-perms-webserial =
-    Tās ir tādas ierīces kā mikrokontrolleri, 3D printeri un citas ierīces, kas izveido savienojumu, izmantojot USB, seriālos portus vai Bluetooth.
+    Tās ir tādas ierīces kā mikrokontrolleri, 3D printeri un citas ierīces, kuras pievieno ar USB, seriālajiem portiem vai Bluetooth.
     
-    Jūs varēsiet izvēlēties, kurām ierīcēm vietne var piekļūt.
+    Varēsi izvēlēties, kurām ierīcēm tīmekļvietne var piekļūt.
     
     Vietnēm parasti nav atļauts piekļūt seriālajām ierīcēm. Nepareiza lietošana var radīt bojājumus vai apdraudēt drošību.
 

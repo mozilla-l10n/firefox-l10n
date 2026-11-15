@@ -1616,7 +1616,7 @@ sitedata-total-size-calculating = Aprēķina vietnes datu un kešatmiņas lielum
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size3 = Tīmekļa vietnes pašlaik izmanto <strong>{ $value } { $unit } </strong> diska vietas.
+sitedata-total-size3 = Tīmekļvietnes šobrīd izmanto <strong>{ $value } { $unit }</strong> diska vietas.
 sitedata-learn-more = Uzzināt vairāk
 sitedata-delete-on-close2 =
     .label = Notīrīt sīkdatnes un vietņu datus katrā { -brand-short-name } aizvēršanas reizē
@@ -1640,7 +1640,7 @@ sitedata-option-block-all =
     .label = Visas sīkdatnes (vietnes noteikti salūzīs)
 sitedata-clear2 =
     .label = Notīrīt pārlūkošanas datus
-    .accesskey = l
+    .accesskey = t
 sitedata-settings2 =
     .label = Pārvaldīt pārlūkošanas datus
     .accesskey = P

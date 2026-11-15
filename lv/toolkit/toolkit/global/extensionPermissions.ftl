@@ -9,7 +9,7 @@
 
 webext-perms-description-bookmarks = Lasīt un mainīt grāmatzīmes
 webext-perms-description-browserSettings = Lasīt un mainīt pārlūka iestatījumus
-webext-perms-description-browsingData = Pārlūkošanas vēstures, sīkdatņu un citu datu tīrīšana
+webext-perms-description-browsingData = Notīrīt neseno pārlūkošanas vēsturi, sīkdatnes un saistītos datus
 webext-perms-description-clipboardRead = Nolasīt datus no starpliktuves
 webext-perms-description-clipboardWrite = Ievietot datus starpliktuvē
 webext-perms-description-declarativeNetRequest = Liegt saturu jebkurā lapā
