@@ -1699,11 +1699,20 @@ newtab-clock-widget-input-nickname =
     .aria-label = Nofkë (në daçi)
     .label = Nofkë (në daçi)
     .placeholder = Shtoni një nofkë
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .aria-label = Shtoni sahat të ri
+    .title = Shtoni sahat të ri
 newtab-clock-widget-button-add-clock = Shtoje
 newtab-clock-widget-button-cancel = Anuloje
 newtab-clock-widget-button-back =
     .aria-label = Mbrapsht
     .title = Mbrapsht
+newtab-clock-widget-button-edit-clock =
+    .aria-label = Përpunoni sahat
+    .title = Përpunoni sahat
 newtab-clock-widget-button-save = Ruaje
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
