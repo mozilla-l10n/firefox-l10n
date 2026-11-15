@@ -780,11 +780,24 @@ newtab-wallpaper-your-images-item-numbered = Figura { $number }
 newtab-wallpaper-remove-image =
     .aria-label = Hiqe { $name }
     .title = Hiqe figurën
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Hiqni figurën { $number }
+    .title = Hiqe figurën { $number }
+newtab-wallpaper-remove-image-title = Të hiqet figura?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Ky veprim s’mund të zhbëhet.
+newtab-wallpaper-remove-image-confirm = Hiqe
+newtab-wallpaper-remove-image-cancel = Anuloje
 
 ## Solid Colors
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Ngjyra të plota
+newtab-wallpaper-colors = Ngjyra
 newtab-wallpaper-blue = Blu
 newtab-wallpaper-light-blue = Blu e çelët
 newtab-wallpaper-light-purple = E purpur e çelët
@@ -1035,6 +1048,8 @@ newtab-report-ads-reason-inappropriate =
     .label = Është e papërshtatshme
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = E kam parë shumë herë
+newtab-report-ads-reason-offensive =
+    .label = Fyese, ose e papërshtatshme
 newtab-report-content-wrong-category =
     .label = Kategori e gabuar
 newtab-report-content-outdated =
@@ -1052,6 +1067,14 @@ newtab-toast-thanks-for-reporting =
     .message = Faleminderit për njoftimin rreth kësaj.
 newtab-toast-widgets-hidden =
     .message = Përzgjidhni ikonën laps për të rishtuar kurdo widget-e.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Tani po ndiqni { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = S’e ndiqni më { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -1066,6 +1089,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Të plotësuara ({ $number })
+newtab-widget-lists-celebration-headline = Punë të mbarë
+newtab-widget-lists-celebration-subhead = Të tëra të mbaruara
 newtab-widget-task-list-menu-copy = Kopjoje
 newtab-widget-lists-menu-edit = Përpunoni emër liste
 newtab-widget-lists-menu-edit2 =
@@ -1074,6 +1099,10 @@ newtab-widget-lists-menu-create = Krijoni një listë të re
 newtab-widget-lists-menu-delete = Fshije këtë listë
 newtab-widget-lists-menu-copy = Kopjoje listën në të papastër
 newtab-widget-lists-menu-learn-more = Mësoni më tepër
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Ndryshoni listën
+    .title = Ndryshoni listën
 newtab-widget-lists-button-add-item = Shtoni një objekt
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Shtoni një objekt
@@ -1084,22 +1113,36 @@ newtab-widget-lists-input-menu-move-up = Ngjite sipër
 newtab-widget-lists-input-menu-move-down = Zbrite poshtë
 newtab-widget-lists-input-menu-delete = Fshije
 newtab-widget-lists-input-menu-edit = Përpunoni
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Përpunoni objektin
 newtab-widget-lists-edit-clear =
     .aria-label = Anuloje
     .title = Anuloje
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Hap menu listash
+    .title = Hap menu listash
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Krijoni një listë të re
 newtab-widget-lists-name-label-default =
     .label = Listë punësh
+newtab-widget-lists-name-label-checklist =
+    .label = Listë hapash
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Listë punësh
+newtab-widget-lists-name-placeholder-checklist2 =
+    .aria-label = Përpunoni emër liste
+    .placeholder = Listë hapash
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .aria-label = Përpunoni emër liste
     .placeholder = Listë e re
 newtab-widget-section-title = Widget-e
 newtab-widget-menu-hide = Fshihe widget-in
+newtab-widget-menu-change-size = Ndryshojini madhësinë
 # Parent label for a submenu in the widget menu that reorders the widget
 # among its siblings. "Left" and "Right" appear as items inside this submenu.
 newtab-widget-menu-move = Lëvize
@@ -1125,6 +1168,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Tkurri krejt widget-et sa madhësia kompakte
     .title = Minimizoji widget-et
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Shfaqni ndarjen e widget-eve
+    .title = Shfaq widget-e
 newtab-widget-section-menu-manage = Administroni widget-e
 newtab-widget-section-feedback = Tregonani si ju duket
 
