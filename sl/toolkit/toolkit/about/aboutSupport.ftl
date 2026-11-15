@@ -416,8 +416,8 @@ zooming-enabled = omogočeno gladko povečanje s približevanjem prstov
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = asinhroni vnos s koleščkom onemogočen zaradi nedpodprte nastavitve: { $preferenceKey }
-touch-warning = asinhroni vnos na dotik onemogočen zaradi nedpodprte nastavitve: { $preferenceKey }
+wheel-warning = asinhroni vnos s koleščkom onemogočen zaradi nepodprte nastavitve: { $preferenceKey }
+touch-warning = asinhroni vnos na dotik onemogočen zaradi nepodprte nastavitve: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 

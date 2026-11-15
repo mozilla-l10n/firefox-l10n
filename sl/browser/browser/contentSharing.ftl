@@ -59,4 +59,4 @@ content-sharing-modal-too-many-pages =
 content-sharing-modal-some-invalid-links = Nekaterih povezav ni mogoče deliti.
 content-sharing-modal-generic-error-2 =
     .heading = Prišlo je do napake
-    .message = Strani a deljenje tokrat ni bilo mogoče ustvariti. Poskusite znova pozneje.
+    .message = Strani za deljenje tokrat ni bilo mogoče ustvariti. Poskusite znova pozneje.

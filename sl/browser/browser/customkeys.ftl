@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Kopiraj spletni naslov zavihka
 customkeys-file-focus-search = Osredotoči iskalno vrstico
 customkeys-history-reopen-tab = Obnovi zadnji zaprti zavihek
 customkeys-history-reopen-window = Obnovi zadnje zaprto okno
+customkeys-history-reopen-tab-current-window = Ponovno odpri nazadnje zaprti zavihek trenutnega okna
 customkeys-sidebar-toggle = Prikaži/skrij stransko vrstico
 customkeys-view-bookmarks-toolbar = Prikaži/Skrij vrstico zaznamkov
 customkeys-view-picture-in-picture = Slika v sliki

@@ -38,6 +38,11 @@ tab-splitview-splitter =
     .aria-label = Spremeni velikost zavihkov v razdeljenem pogledu
 tab-devtools-splitter =
     .aria-label = Spremeni velikost plošče razvojnih orodij
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Dodaj zavihke k skupini
+    .accesskey = D
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -312,6 +317,16 @@ tab-context-move-tab-to-new-group =
            *[other] Dodaj zavihke k novi skupini
         }
     .accesskey = s
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Dodaj v skupino
+            [one] Dodaj { $tabCount } zavihek v skupino
+            [two] Dodaj { $tabCount } zavihka v skupino
+            [few] Dodaj { $tabCount } zavihke v skupino
+           *[other] Dodaj { $tabCount } zavihkov v skupino
+        }
+    .accesskey = D
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -495,6 +510,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Loči razdeljeni pogled
+    .accesskey = L
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Loči zavihke
     .accesskey = L
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

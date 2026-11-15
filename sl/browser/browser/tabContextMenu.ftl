@@ -85,6 +85,9 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Odpri v novem zavihku vsebnika
     .accesskey = e
+tab-context-open-in-container =
+    .label = Odpri v vsebniku
+    .accesskey = e
 move-to-start =
     .label = Premakni na začetek
     .accesskey = č
@@ -94,6 +97,9 @@ move-to-end =
 move-to-new-window =
     .label = Premakni v novo okno
     .accesskey = o
+move-to-new-window-alt =
+    .label = Novo okno
+    .accesskey = N
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -108,6 +114,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Zapri podvojene zavihke
     .accesskey = v
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Podvoji zavihke
+    .accesskey = P
 tab-context-close-duplicate-tabs2 =
     .label = Zapri dvojnike tega zavihka
     .accesskey = j
@@ -124,6 +134,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nova skupina
     .accesskey = k
+tab-context-add-tab-to-group-new-group =
+    .label = Nova skupina
+tab-context-add-tab-to-group-closed-groups =
+    .label = Zaprte skupine
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

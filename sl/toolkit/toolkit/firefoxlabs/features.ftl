@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Zapiski na zavihkih so poskusna zm
 experimental-features-tab-context-menu =
     .label = Poenostavljen meni zavihkov
 experimental-features-tab-context-menu-description = Ob desnem kliku na zavihek se prikaže poenostavljen meni, ki omogoča lažji dostop do najpogostejših dejanj. <a data-l10n-name="connect">Delite svoje mnenje</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Nadzornik sredstev
+experimental-features-resource-monitor-description = V stranski vrstici si oglejte, koliko pomnilnika in CPE porablja kateri odprti zavihek, in sprostite vire zavihkov, ki jih ne uporabljate. <a data-l10n-name="connect">Sporočite povratne informacije</a>

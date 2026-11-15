@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Uvozi iz drugega brsk
 contextual-manager-passwords-command-import = Uvozi iz datoteke …
 contextual-manager-passwords-command-export = Izvozi gesla
 contextual-manager-passwords-command-remove-all = Odstrani vsa gesla
+contextual-manager-passwords-command-delete-all = Izbriši vsa gesla
 contextual-manager-passwords-command-options = Možnosti
 contextual-manager-passwords-command-help = Pomoč
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -124,6 +125,16 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Odstrani vse
        *[other] Odstrani vse
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Izbriši
+        [one] Izbriši vse
+        [two] Izbriši vse
+        [few] Izbriši vse
+       *[other] Izbriši vse
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -192,6 +203,8 @@ contextual-manager-passwords-remove-login-card-message = Tega ne bo mogoče razv
 contextual-manager-passwords-remove-login-card-back-message = Nazaj
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Odstrani
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Izbriši
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Prekliči
 contextual-manager-passwords-alert-card =
@@ -223,6 +236,9 @@ contextual-manager-passwords-update-label =
     .label = Posodobi geslo
 contextual-manager-passwords-remove-label =
     .title = Odstrani geslo
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Izbriši geslo
 contextual-manager-passwords-origin-field =
     .label = Naslov spletnega mesta
     .placeholder = https://www.example.com
@@ -341,6 +357,16 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [two] Da, odstrani gesli
         [few] Da, odstrani gesla
        *[other] Da, odstrani gesla
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Da, izbriši geslo
+        [one] Da, izbriši gesla
+        [two] Da, izbriši gesli
+        [few] Da, izbriši gesla
+       *[other] Da, izbriši gesla
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Za ogled shranjenih gesel vnesite svoje glavno geslo.

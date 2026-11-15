@@ -262,7 +262,7 @@ discopane-notice-learn-more = Več o tem
 # Notice for the colorway theme removal
 colorway-removal-notice-message =
     .heading = Vaše teme barvne kombinacije so bile odstranjene.
-    .message = { -brand-product-name } je posodobil svojo zbirko barvnih kombinacije. Stare različice smo odstranili s seznama “Shranjene teme”. Poiščite nove različice na spletnem mestu dodatkov.
+    .message = { -brand-product-name } je posodobil svojo zbirko barvnih kombinacij. Stare različice smo odstranili s seznama “Shranjene teme”. Poiščite nove različice na spletnem mestu dodatkov.
 colorway-removal-notice-learn-more = Več o tem
 colorway-removal-notice-button = Odkrijte posodobljene barvne kombinacije
 # Notice to make user aware that themes are not applied in forced colors mode.

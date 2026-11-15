@@ -118,7 +118,7 @@ security-technical-no-encryption-page = Ta stran ni bila šifrirana pred prenaš
 security-technical-encrypted-page = Ta stran je bila šifrirana pred prenašanjem preko interneta.
 security-technical-encrypted-description = Šifriranje nepooblaščenim osebam oteži ogled podatkov, ki se prenašajo med računalniki. Zato je malo verjetno, da je kdo prebral to stran, medtem ko je potovala po omrežju.
 security-technical-mixed-content-description = Deli strani niso bili šifrirani pred pošiljanjem preko interneta.
-security-technical-weak-cipher = Vaša povezava na to stran uporablja šibko šifriranje in ni zasebna. Drugi osebe lahko dostopajo do vaših podatkov ali spreminjajo delovanje spletne strani.
+security-technical-weak-cipher = Vaša povezava na to stran uporablja šibko šifriranje in ni zasebna. Druge osebe lahko dostopajo do vaših podatkov ali spreminjajo delovanje spletne strani.
 security-technical-ct-compliant = Stran je skladna s politiko preglednosti potrdil.
 
 ## These strings are used to tell the user if the website is storing cookies

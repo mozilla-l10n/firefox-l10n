@@ -8,7 +8,7 @@
 ## and should not be translated.
 
 dom-manifest-id-is-invalid = Član id se ni razrešil v veljaven URL.
-dom-manifest-id-not-same-origin = Član id mora imeti enako poreklo kot član start_url.
+dom-manifest-id-not-same-origin = Član id mora imeti enak izvor kot član start_url.
 dom-manifest-should-be-object = Manifest mora biti objekt.
 dom-manifest-scope-url-invalid = URL obsega ni veljaven.
 dom-manifest-scope-not-same-origin = URL obsega mora biti istega izvora kot dokument.

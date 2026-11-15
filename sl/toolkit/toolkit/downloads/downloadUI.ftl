@@ -40,6 +40,12 @@ download-ui-cancel-downloads-ok =
        *[other] Prekliči prenose (skupaj { $downloadsCount })
     }
 download-ui-confirm-cancel-button = Prekliči
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Zapri { -brand-short-name(sklon: "tozilnik") }
+       *[other] Izhod iz { -brand-short-name(sklon: "rodilnik") }
+    }
+download-ui-confirm-private-browsing-button = Zapri okno
 
 ##
 

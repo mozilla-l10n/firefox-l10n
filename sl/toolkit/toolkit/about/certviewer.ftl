@@ -12,7 +12,7 @@ certificate-viewer-error-title = Prišlo je do napake.
 ## Certificate information labels
 
 certificate-viewer-algorithm = Algoritem
-certificate-viewer-certificate-authority = Uradna oseba za digitalna potrdila
+certificate-viewer-certificate-authority = Overitelj digitalnih potrdil
 certificate-viewer-cipher-suite = Zbirka šifre
 certificate-viewer-common-name = Skupno ime
 certificate-viewer-email-address = E-poštni naslov

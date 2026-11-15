@@ -17,7 +17,7 @@ contentanalysis-slow-agent-dialog-body-file = { $agent } pregleduje, ali je “{
 #   $count (number) - The number of additional items in the request for analysis
 contentanalysis-slow-agent-dialog-body-file-and-more =
     { $count ->
-        [one] { $agent } pregleduje, ali sta “{ $filename }” in še { $count } predmet skladen s pravilniki vaše organizacije. To lahko traja nekaj časa.
+        [one] { $agent } pregleduje, ali sta “{ $filename }” in še { $count } predmet skladna s pravilniki vaše organizacije. To lahko traja nekaj časa.
         [two] { $agent } pregleduje, ali so “{ $filename }” in še { $count } predmeta skladni s pravilniki vaše organizacije. To lahko traja nekaj časa.
         [few] { $agent } pregleduje, ali so “{ $filename }” in še { $count } predmeti skladni s pravilniki vaše organizacije. To lahko traja nekaj časa.
        *[other] { $agent } pregleduje, ali so “{ $filename }” in še { $count } predmetov skladni s pravilniki vaše organizacije. To lahko traja nekaj časa.
