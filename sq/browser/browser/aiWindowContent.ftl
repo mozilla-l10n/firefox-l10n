@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Mesazhe fjalosjeje { -smart-window-brand-name }
 
 ## Context chips in the chat content
 
@@ -16,7 +17,11 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Diç shkoi ters. Ju lutemi, riprovoni.
+smartwindow-assistant-error-budget-header = Keni mbërritur në kufirin e sotëm të fjalosjes.
 smartwindow-assistant-error-account-header = Që të përdorni { -smart-window-brand-name }, do t’ju duhet të bëni hyrjen.
+smartwindow-assistant-error-many-requests-header = Ju lutemi, prisni një çast dhe riprovoni. Në nj kohë të shkurtër u dërguan shumë mesazhe.
+smartwindow-assistant-error-max-length-header = Është koha për të nisur një fjalosje të re. Kjo e tanishmja ka mbërritur në kufi të gjatësisë për të.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } s’e kapi dot shërbyesin. Provoni një rrjet tjetër, ose çaktivizoni VPN-në tuaj.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Gabim shërbyesi (HTTP { $status }). Ju lutemi, riprovoni.
@@ -37,6 +42,12 @@ aiwindow-copy-table =
     .aria-label = Kopjoje tabelën
     .tooltiptext = Kopjojeni tabelën
 aiwindow-table-scroll-indicator = Rrëshqitni, për të parë më tepër
+aiwindow-thumbs-up =
+    .aria-label = Jepni përshtypje pozitive
+    .tooltiptext = Jepni përshtypje pozitive
+aiwindow-thumbs-down =
+    .aria-label = Jepni përshtypje negative
+    .tooltiptext = Jepni përshtypje negative
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -53,6 +64,10 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Riprovo
 smartwindow-nl-retry-message = Nëse ende doni të mbyllni skeda, zgjidhni <strong>Riprovoni</strong> dhe bëni përzgjedhjen tuaj te karta që hapet.
+smartwindow-nl-retry-group-tabs-message = Nëse doni ende të gruponi skeda, zgjidhni <strong>Riprovo</strong> dhe përzgjidhni cilat, te karta që hapet.
+smartwindow-nl-thinking = Po shihet për skeda me përkim…
+smartwindow-loading-assistant-response =
+    .aria-label = Po ngarkohet përgjigje asistenti
 smartwindow-nl-undo-button =
     .label = Zhbëje
 
@@ -76,8 +91,15 @@ smart-window-restored-row-label =
         [one] U rikthye { $count } skedë
        *[other] U rikthyen { $count } skeda
     }
+smart-window-cancelled-label = Kërkesa u anulua.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupoji
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Grupo { $count } skedë
+       *[other] Gruponi { $count } skeda
+    }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Hape
 # Button label - "Open" is a verb (action to open, then group, tabs)
@@ -106,10 +128,33 @@ smart-window-grouped-tabs-summary =
        *[other] U krijua grupi “{ $label }” dhe u shtuan { $count } skeda.
     }
 smart-window-grouped-tabs-row-label = Skeda të grupuara
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] U hap { $count } skedë
+       *[other] U hapën { $count } skeda
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] U hap { $count } skedë.
+       *[other] U hapën { $count } skeda.
+    }
 smart-window-opened-tabs-row-label = Skeda të hapura
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = U kalua te “{ $title }”.
 
 ## Action log
 
+action-log-reading-page = Lexim faqeje
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Lënda e faqes u lexua
+action-log-searching-web = Kërkim në web
+action-log-searched-web = U kërkua në web
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =
