@@ -40,6 +40,43 @@ download-ui-cancel-downloads-ok =
        *[other] Anulo { $downloadsCount } Shkarkime
     }
 download-ui-confirm-cancel-button = Anuloje
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Të ndalet 1 shkarkim dhe të mbyllet { -brand-short-name }-i?
+               *[other] Të ndalen { $downloadsCount } shkarkime dhe të mbyllet { -brand-short-name }-i?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Të ndalet 1 shkarkim dhe të mbyllet { -brand-short-name }-i?
+               *[other] Të ndalen { $downloadsCount } shkarkime dhe të mbyllet { -brand-short-name }-i?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name }-i do të provojë të rimarrë shkarkimet, kur të rihapet, por përparimi në ta mund të ketë humbur.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Dil ngat { -brand-short-name }-i
+       *[other] Mbylle { -brand-short-name }-in
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Të ndalet 1 shkarkim dhe të dilet nga linja?
+       *[other] Të ndalen { $downloadsCount } shkarkime dhe të dilet nga linja?
+    }
+download-ui-confirm-offline-message = { -brand-short-name }-i do të provojë t’u rikthehet shkarkimeve, kur të riktheheni në linjë, por përparim në to mund të ketë humbur.
+download-ui-confirm-offline-button = Kalo i palidhur
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Të ndalet 1 shkarkim dhe të mbyllet kjo Dritare Private?
+       *[other] Të ndalen { $downloadsCount } shkarkime dhe të mbyllet kjo Dritare Private?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] S’ do të jeni në gjendje të rimerrni këtë shkarkim.
+       *[other] S’do të jeni në gjendje të rimerrni këto shkarkime.
+    }
+download-ui-confirm-private-browsing-button = Mbylleni dritaren
 
 ##
 

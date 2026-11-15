@@ -41,6 +41,17 @@ smart-window-model-learn-link = Mësoni rreth modelesh
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .description = Modeli { $model } nga { $ownerName }
+    .label = I shpejtë: Përgjigjet shpejt
+smart-window-model-flexible =
+    .description = Modeli { $model } nga { $ownerName }
+    .label = I zhdërvjellët: Solid për shumicën e nevojave
+smart-window-model-personal =
+    .description = Modeli { $model } nga { $ownerName }
+    .label = Personal: Përgjigjet më të përpunuara
+smart-window-model-custom =
+    .label = Vetjak: Përdorni LLM-në tuaj
 smart-window-model-custom-name =
     .label = Emër modeli
     .placeholder = Shembull: glm4
@@ -60,3 +71,12 @@ ai-window-delete-all-memories-button =
 ai-window-delete-all-memories-title = Të fshihen krejt kujtesat?
 ai-window-delete-all-memories-confirm = Fshije
 ai-window-delete-all-memories-cancel = Anuloje
+smart-window-model-fast-v2 =
+    .description = Më i miri për përgjigje të shpejta, kur shpejtësi ka rëndësi. Emër i plotë: { $model } nga { $ownerName }
+    .label = { $shortName }: I shpejtë
+smart-window-model-flexible-v2 =
+    .description = Gati për një mori punësh. Emër i plotë: { $model } nga { $ownerName }
+    .label = { $shortName }: I zhdërvjellët
+smart-window-model-personal-v2 =
+    .description = I ndërtuar për ndihmë të personalizuar nëpër gjuhë të ndryshme. Emër i plotë: { $model } by { $ownerName }
+    .label = { $shortName }: Personal
