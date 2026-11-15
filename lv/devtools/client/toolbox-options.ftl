@@ -181,7 +181,7 @@ options-local-mode-new-mapping = Pievienot jaunu lokālo kartējumu
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
-options-context-advanced-settings = Papildu iestatījumi
+options-context-advanced-settings = Paplašinātie iestatījumi
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Izslēgt HTTP kešatmiņu (ja ir atvērti izstrādātāju rīki)
 options-disable-http-cache-tooltip =

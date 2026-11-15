@@ -802,7 +802,7 @@ newtab-section-menu-privacy-notice = Privātuma politika
 
 ## Section Headers.
 
-newtab-section-header-topsites = Populārākās lapas
+newtab-section-header-topsites = Apmeklētākās vietnes
 newtab-section-header-recent-activity = Nesenās darbības
 newtab-section-header-stories = Pārdomas rosinoši stāsti
 # "picks" refers to recommended articles

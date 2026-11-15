@@ -28,7 +28,7 @@ ipprotection-feature-introduction-title-1 = Izmēģini { -brand-product-name } i
 ipprotection-feature-introduction-link-text-2 = Izmantojiet mūsu jauno <a data-l10n-name="learn-more-vpn">iebūvēto VPN</a>, lai paslēptu savu atrašanās vietu un aizsargātu savus datus.
 ipprotection-feature-introduction-title-privacy = Pievienojiet vēl vienu privātuma slāni
 ipprotection-feature-introduction-title-privacy-1 = Pievienot vēl vienu privātuma slāni ar iebūvēto VPN
-ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } iebūvētais VPN</a> palīdz aizsargāt jūsu pārlūkošanu. Izvēlieties no vairākām atrašanās vietām, lai saglabātu privātāku pārlūkošanas vietu.
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } iebūvētais VPN</a> palīdz aizsargāt pārlūkošanu. Izvēlies no vairākām atrašanās vietām, lai saglabātu privātāku pārlūkošanas vietu.
 ipprotection-feature-introduction-link-text-privacy-3 = Iegūstiet <a data-l10n-name="learn-more-vpn">papildu privātumu</a>, izvēloties no vairākām atrašanās vietām, lai paslēptu pārlūkošanas laiku.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Lai <a data-l10n-name="learn-more-vpn">nodrošinātu papildu privātumu</a> pārlūkošanas laikā, paslēpiet savu atrašanās vietu. Ieslēdziet vai izslēdziet VPN noteiktām vietnēm.
