@@ -181,11 +181,11 @@ monitor-resolve-breaches-link = Atrisināt noplūdes
 bar-tooltip-social =
     .aria-label =
         { $count ->
-            [zero] { $count } sociālo mediju izsekotājs ({ $percentage }%)
-            [one] { $count }sociālo mediju izsekotāji ({ $percentage }%)
-           *[other] { $count } sociālo mediju izsekotāju ({ $percentage }%)
+            [zero] { $count } izsekotāju sabiedriskajos tīklos ({ $percentage }%)
+            [one] { $count } izsekotājs sabiedriskajos tīklos ({ $percentage }%)
+           *[other] { $count } izsekotājs sabiedriskajos tīklos ({ $percentage }%)
         }
-    .title = Sociālo mediju izsekotāji
+    .title = Izsekotāji sabiedriskajos tīklos
 bar-tooltip-cookie =
     .aria-label =
         { $count ->

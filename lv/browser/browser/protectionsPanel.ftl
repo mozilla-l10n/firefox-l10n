@@ -48,7 +48,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 
 protections-panel-no-trackers-found = Šajā lapā netika atrasts neviens izsekotājs, ko pazītu { -brand-short-name }.
 protections-panel-content-blocking-tracking-protection = Izsekošanas saturs
-protections-panel-content-blocking-socialblock = Sociālo mediju izsekotāji
+protections-panel-content-blocking-socialblock = Izsekotāji sabiedriskajos tīklos
 protections-panel-content-blocking-cryptominers-label = Kriptominētāji
 protections-panel-content-blocking-fingerprinters-label = Ciparnospiedumi
 

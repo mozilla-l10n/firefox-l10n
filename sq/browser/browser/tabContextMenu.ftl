@@ -34,13 +34,27 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Mbyll Skedat në të Majtë
     .accesskey = j
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Skeda në të Majtë
+    .accesskey = M
 close-tabs-to-the-start-vertical =
     .label = Mbylli Skedat Sipër
     .accesskey = ë
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Skeda Sipër
+    .accesskey = S
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Mbyll Skedat në të Djathtë
+    .accesskey = D
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Skeda në të Djathtë
     .accesskey = D
 close-tabs-to-the-end-vertical =
     .label = Mbylli Skedat Poshtë
@@ -116,7 +130,7 @@ tab-context-close-multiple-tabs =
     .accesskey = u
 # Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
-    .label = Mbyll Disa Njëherësh
+    .label = Mbyll Njëherësh Disa
     .accesskey = D
 tab-context-close-duplicate-tabs =
     .label = Mbyll Skeda të Përsëdytura
@@ -180,6 +194,26 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Shpjere te
+           *[other] Shpjeri { $tabCount } Skedat te
+        }
+    .accesskey = e
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Shpjere Skedën te
+           *[other] Shpjeri { $tabCount } Skedat tebs to
+        }
+    .accesskey = S
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Shpjeri Skedat te
+    .accesskey = S
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -187,6 +221,9 @@ tab-context-send-to-device =
             [1] Dërgoje te Pajisje
            *[other] Send { $tabCount } Tabs to Device
         }
+    .accesskey = D
+tab-context-send-to-device2 =
+    .label = Dërgojini te Pajisje Tuajat
     .accesskey = D
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -196,6 +233,10 @@ tab-context-send-to-mobile =
            *[other] Send { $tabCount } Tabs to Mobile
         }
     .accesskey = D
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Krijo Lidhje të Ndashme Me të Tjerë
+    .accesskey = K
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-unload-n-tabs =
