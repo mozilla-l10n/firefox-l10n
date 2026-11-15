@@ -26,7 +26,7 @@ about-private-browsing-focus-promo-cta = Lejupielādēt { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privāta pārlūkošana, lai kur jūs dotos
 about-private-browsing-focus-promo-text = Mūsu speciālā privātās pārlūkošanas mobilā lietotne katru reizi notīra vēsturi un sīkdatnes.
 about-private-browsing-focus-promo-header-c = Nākamā līmeņa privātums mobilajā ierīcē
-about-private-browsing-focus-promo-text-c = { -focus-brand-name } katru reizi notīra jūsu vēsturi, kā arī bloķē reklāmas un izsekotājus.
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } katru reizi notīra vēsturi katru reizi, kamēr aiztur reklāmas un izsekotājus.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

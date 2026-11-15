@@ -6,7 +6,7 @@ global-privacy-control-description =
     .label = Teikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
     .accesskey = s
 non-technical-privacy-group =
-    .label = Vietņu privātuma preferences
+    .label = Tīmekļvietņu privātuma izvēles
 do-not-track-removal3 =
     .message = Mēs vairs neatbalstām iespēju “Neizsekot”.
 non-technical-privacy-heading =
@@ -1767,7 +1767,7 @@ content-blocking-all-cookies = Visas sīkdatnes
 content-blocking-unvisited-cookies = Sīkdatnes no neapmeklētām vietnēm
 content-blocking-all-windows-tracking-content = Izsekojošs saturs visos logos
 content-blocking-all-cross-site-cookies = Visas starpvietņu sīkdatnes
-content-blocking-cryptominers = Kriptominētāji
+content-blocking-cryptominers = Kriptovalūtu ieguves rīki
 content-blocking-fingerprinters = Nospiedumi
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
@@ -1813,8 +1813,8 @@ content-blocking-expand-section =
     .tooltiptext = Papildu informācija
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Kriptominētāji
-    .accesskey = j
+    .label = Kriptovalūtu ieguves rīki
+    .accesskey = i
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #

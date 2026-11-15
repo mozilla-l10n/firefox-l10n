@@ -49,7 +49,7 @@ tracker-tab-title = Izsekošanas saturs
 tracker-tab-description = Vietnes var ielādēt ārējas reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura liegšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un pieteikšanās lauki var nedarboties. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 fingerprinter-tab-title = Ciparnospiedumi
 fingerprinter-tab-content = Ciparnospiedumi apkopo iestatījumus no pārlūka un datora, lai izveidotu Tevis raksturojumu. Ar šo ciparnospiedumu viņi var izsekot Tevi dažādās tīmekļvietnēs. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
-cryptominer-tab-title = Kriptominētāji
+cryptominer-tab-title = Kriptovalūtu ieguves rīki
 cryptominer-tab-content = Kriptovalūtu ieguvēji izmanto sistēmas skaitļošanas jaudu, lai iegūtu ciparu naudu. Kriptovalūtu ieguvēju skripti iztukšo akumulatoru, palēnina datora darbību un var palielināt rēķinu par elektrību. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 protections-close-button2 =
     .aria-label = Aizvērt
@@ -213,11 +213,11 @@ bar-tooltip-fingerprinter =
 bar-tooltip-cryptominer =
     .aria-label =
         { $count ->
-            [zero] { $count } kriptominētājs ({ $percentage }%)
-            [one] { $count } kriptominētāji ({ $percentage }%)
-           *[other] { $count } kriptominētāju ({ $percentage }%)
+            [zero] { $count } kriptovalūtu ieguves rīku ({ $percentage }%)
+            [one] { $count } kriptovalūtu ieguves rīks ({ $percentage }%)
+           *[other] { $count } kriptovalūtu ieguves rīki ({ $percentage }%)
         }
-    .title = Kriptominētāji
+    .title = Kriptovalūtu ieguves rīki
 # Privacy Metrics Card
 privacy-metrics-title = Privātuma aizsardzība
 # Variables:
