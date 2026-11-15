@@ -21,3 +21,6 @@ preonboarding-manage-data-header-button-title = Diaqnostika və qarşılıqlı t
 preonboarding-terms-of-use-header-button-title-b-v2 = İstifadə Şərtləri
 # Description under label for header style buttons
 preonboarding-header-button-description = Ətraflı oxu
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Texniki və aktivlik məlumatlarını { -vendor-short-name }-ya göndər
+preonboarding-checklist-crash-reports-label = Çökmə hesabatlarını avtomatik göndər

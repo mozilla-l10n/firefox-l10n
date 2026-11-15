@@ -897,12 +897,27 @@ pane-permissions-data-title2 = İcazələr və məlumatlar
 
 ## Privacy Section - Data Collection
 
+collection-backlogged-crash-reports2 =
+    .label = Çökmə hesabatlarını avtomatik göndər
+    .accesskey = c
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = Eyni tənzimləmələr, yeni görünüşdə!
     .message = Bu səhifəni gözdən keçirməyi və lazım olanları tapmağı daha asan etmək üçün yenidən təşkil etdik. Şəxsi ayarlarınız dəyişməyib və hər şey əvvəlki kimi buradadır. Məsləhət: sizə lazım olan bölməyə birbaşa keçmək üçün axtarışdan istifadə edin.
+data-collection-health-report =
+    .description = Bu { -brand-product-name } özəlliklərini, məhsuldarlığını və sabitliyini inkişaf etməyimizə kömək olur.
+    .label = Texniki və aktivlik məlumatlarını { -vendor-short-name }-ya göndər
+    .accesskey = r
+data-collection-health-report-disabled =
+    .description = Məlumat hesabatı bu buraxılış konfiqurasiyası üçün söndürülüb.
+    .label = Texniki və aktivlik məlumatlarını { -vendor-short-name }-ya göndər
+    .accesskey = r
 data-collection-studies-link =
     .label = { -brand-short-name } tədqiqatlarını gör
+data-collection-backlogged-crash-reports =
+    .description = Bu { -vendor-short-name }-ya səyyahla bağlı problemləri təyin edib düzəltməyə kömək edir. Hesabatlarda şəxsi və həssas məlumat ola bilər.
+    .label = Çökmə hesabatlarını avtomatik göndər
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
