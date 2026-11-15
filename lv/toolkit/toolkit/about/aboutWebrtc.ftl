@@ -196,7 +196,7 @@ about-webrtc-send-bandwidth-bytes-sec = Sūtīšanas joslas platums (baiti/sekun
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Saņemšanas joslas platums (baiti/sekundē)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
-about-webrtc-max-padding-bytes-sec = Maksimālā papildināšana (baiti/sekundē)
+about-webrtc-max-padding-bytes-sec = Lielākā pieļaujamā papildināšana (baiti/sekundē)
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Pakešu intervāla aizkave, ms
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,

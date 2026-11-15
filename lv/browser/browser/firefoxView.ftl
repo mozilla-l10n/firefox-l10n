@@ -205,7 +205,7 @@ firefoxview-choose-browser-button = Izvēlieties pārlūku
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header-2 = Jūs kontrolējat, ko { -brand-short-name } atceras.
+firefoxview-dont-remember-history-empty-header-2 = Tu pārvaldi, ko { -brand-short-name } atceras.
 firefoxview-dont-remember-history-empty-description-one = Šobrīd { -brand-short-name } neatceras jūsu pārlūkošanas aktivitātes. Lai to mainītu, <a data-l10n-name="history-settings-url-two">atjauniniet vēstures iestatījumus</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Jūs neesat reģistrējis saziņu.

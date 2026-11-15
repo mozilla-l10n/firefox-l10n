@@ -52,8 +52,8 @@ pane-privacy-title3 = Privātums un drošība
 pane-privacy-section =
     .heading = Privātums un drošība
 pane-sync-title3 = Vienādošana
-pane-ai-controls-title2 = MI vadība
-    .title = MI vadība
+pane-ai-controls-title2 = MI vadīklas
+    .title = MI vadīklas
 pane-about-firefox-title = Par { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Izskats
@@ -2057,15 +2057,15 @@ certs-devices2 =
 
 httpsonly-learn-more2 = Kā darbojas tikai HTTPS
 httpsonly-radio-enabled =
-    .label = Visos logos ieslēgt režīmu tikai-HTTPS
+    .label = Iespējot tikai HTTPS režīmu visos logos
 httpsonly-radio-enabled-pbm =
-    .label = Ieslēgt tikai-HTTPS režīmu tikai privātajos logos
+    .label = Iespējot tikai HTTPS režīmu tikai privātajos logos
 httpsonly-radio-disabled3 =
     .description = { -brand-short-name } joprojām var uzlabot dažus savienojumus
-    .label = Neieslēgt režīmu tikai-HTTPS
+    .label = Neiespējot tikai HTTPS režīmu
 httpsonly-group =
-    .description = Ļauj tikai drošus savienojumus ar tīmekļvietnēm. { -brand-short-name } vaicās apstiprināt nedroša savienojuma izveidošanu.
-    .label = Tikai-HTTPS režīms
+    .description = Atļauj tikai drošus savienojumus ar tīmekļvietnēm. { -brand-short-name } vaicās pirms nedroša savienojuma izveidošanas.
+    .label = Tikai HTTPS režīms
 httpsonly-label2 =
     .aria-label = { httpsonly-group.label }
 
@@ -2091,7 +2091,7 @@ preferences-doh-status-disabled = Izslēgts
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nav aktīvs ({ $reason })
-preferences-doh-group-message2 = Ieslēgt DNS caur HTTPS, izmantojot:
+preferences-doh-group-message2 = Iespējot DNS caur HTTPS ar:
 preferences-doh-radio-group =
     .aria-label = Iespējot DNS caur HTTPS ar:
 preferences-doh-expand-section =
@@ -2112,7 +2112,7 @@ preferences-doh-enabled-desc = Tu pārvaldi, kad izmantot drošo DNS, un izvēl�
 preferences-doh-enabled-detailed-desc-1 = Izmantot atlasīto pakalpojumu sniedzēju
 preferences-doh-enabled-detailed-desc-2 = Izmantot savu noklusējuma DNS atrisinātāju tikai tad, ja ir problēma ar drošo DNS
 preferences-doh-setting-strict =
-    .label = Maksimālā aizsardzība
+    .label = Vislielākā aizsardzība
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } vienmēr izmantos drošo DNS. Pirms sistēmas DNS izmantošanas tiks parādīts brīdinājums par drošības apdraudējumu.
 preferences-doh-strict-detailed-desc-1 = Izmantot tikai atlasīto pakalpojumu sniedzēju
@@ -2247,7 +2247,7 @@ related-settings-tabs-browsing-link =
 
 ## AI controls page
 
-preferences-ai-controls-description = Jums vienmēr ir izvēle pakalpojumā { -brand-short-name }, tostarp par to, vai izmantot ar mākslīgo intelektu uzlabotas funkcijas. Drīzumā būs pieejamas vēl citas vadības iespējas.
+preferences-ai-controls-description = Tev { -brand-short-name } vienmēr ir izvēle, tostarp par to, vai izmantot ar MI uzlabotas iespējas. Drīzumā būs pieejamas vēl citas vadīklas.
 preferences-ai-controls-block-ai-label = Liegt MI uzlabojumus
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
@@ -2309,7 +2309,7 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Liegt
 preferences-ai-controls-header3 =
-    .heading = MI vadība
+    .heading = MI vadīklas
 
 ## Privacy and security status card
 

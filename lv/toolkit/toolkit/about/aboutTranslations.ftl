@@ -17,8 +17,8 @@ about-translations-policy-disabled-info-message =
     .message = Šo nostāju ir iestatījis jūsu administrators.
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
-    .heading = Lai tulkotu tekstu, atbloķējiet šo funkciju.
-    .message = Šķiet, ka atjauninājāt mākslīgā intelekta vadīklas, lai bloķētu šo funkciju. Lai sāktu to lietot, varat to jebkurā laikā atbloķēt.
+    .heading = Lai tulkotu tekstu, šī iespēja jāieslēdz.
+    .message = Šķiet, ka atjaunināji MI vadīklas, lai liegtu šo iespēju. Ieslēgt var jebkurā laikā, lai to sāktu izmantot.
 about-translations-feature-blocked-unblock-button = Atbloķēt
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =

@@ -11,7 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Iestatiet politikas, caur kurām chrome.storage.managed var piekļūt WebExtensions.
-policy-AIControls = Konfigurējiet mākslīgā intelekta vadīklas.
+policy-AIControls = Konfigurēt MI vadīklas.
 policy-AllowedDomainsForApps = Definējiet domēnus, kuriem ir atļauts piekļūt Google Workspace.
 policy-AllowFileSelectionDialogs = Atļaut datņu atlases dialoglodziņus.
 policy-AppAutoUpdate = Ieslēgt vai izslēgt automātisku lietotnes atjaunināšanu.

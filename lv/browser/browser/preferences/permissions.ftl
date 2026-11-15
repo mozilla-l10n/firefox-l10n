@@ -103,7 +103,7 @@ permissions-exceptions-shutdown-clearing-desc = Var norādīt, kuru tīmekļviet
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = Izņēmumi — tikai HTTPS režīms
-permissions-exceptions-https-only-desc2 = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS.
+permissions-exceptions-https-only-desc2 = Tikai HTTPS režīmu var ieslēgt noteiktām tīmekļvietnēm. { -brand-short-name } nemēģinās to savienojumu uzlabot uz drošo HTTPS.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
