@@ -1096,6 +1096,12 @@ newtab-weather-opt-in-use-location =
 newtab-weather-opt-in-choose-location = Zgjidhni vendndodhje
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Nju Jork Siti
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = E lartë
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = E ulët
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -1146,6 +1152,10 @@ newtab-topic-selection-button-pick-interests = Zgjidhni interesat tuaja
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Ndiqe
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Ndiqeni { $topic }
 newtab-section-following-button = Po e Ndiqni
 newtab-section-unfollow-button = Hiqi Ndjekjen
 # A modal may appear next to the Follow button, directing users to try out the feature
@@ -1167,6 +1177,22 @@ newtab-topic-navigation-more-button = Më tepër
 newtab-section-block-button = Bllokoje
 newtab-section-blocked-button = E bllokuar
 newtab-section-unblock-button = Zhbllokoje
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Ndiqeni { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Hiqe ndjekjen e { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Bllokoje { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Zhbllokoje { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -1196,6 +1222,11 @@ newtab-custom-wallpaper-cta = Provojeni
 newtab-new-user-custom-wallpaper-title = Zgjidhni një sfond, për ta bërë { -brand-product-name }-in si e doni
 newtab-new-user-custom-wallpaper-subtitle = Bëjeni çdo skedë të re t’ju duket si shtëpia juaj, me sfonde dhe ngjyra tuajat.
 newtab-new-user-custom-wallpaper-cta = Provojeni tani
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Sapo erdhën sfonde të rinj të freskët
+newtab-wallpaper-feature-highlight-cta = Zgjidhni sfond
 
 ## Strings for download mobile highlight
 
@@ -1333,6 +1364,9 @@ newtab-widget-menu-move-to-home = Kreu
 # Submenu item under "Move"; moves the widget from Home back to the Widgets
 # space, the New Tab space that holds every widget not pinned to Home.
 newtab-widget-menu-move-to-widgets = Widget-e
+newtab-widget-size-small = I vogël
+newtab-widget-size-medium = Mesatar
+newtab-widget-size-large = I madh
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .aria-label = Fshihni krejt widget-et
@@ -1478,6 +1512,10 @@ newtab-sports-widget-back-button =
     .aria-label = Mbrapsht
 newtab-sports-widget-done-button =
     .label = U bë
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminuar)
 newtab-sports-widget-view-all =
     .label = Shihini krejt
 newtab-sports-widget-watch-dialog-close =
@@ -1487,7 +1525,21 @@ newtab-sports-widget-watch-dialog-close =
 newtab-sports-widget-watch-stream-free = Falas
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = Rajone të tjera
+newtab-sports-widget-group-b = Grupi B
+newtab-sports-widget-group-c = Grupi C
+newtab-sports-widget-group-d = Grupi D
+newtab-sports-widget-group-e = Grupi E
+newtab-sports-widget-group-f = Grupi F
+newtab-sports-widget-group-g = Grupi G
+newtab-sports-widget-group-h = Grupi H
+newtab-sports-widget-group-i = Grupi I
+newtab-sports-widget-group-j = Grupi J
+newtab-sports-widget-group-k = Grupi K
+newtab-sports-widget-group-l = Grupi L
 newtab-sports-widget-quarter-finals = Çerekfinale
+newtab-custom-widget-live-refresh =
+    .aria-label = Rifresko përfundimet
+    .title = Rifresko përfundimet
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Data kyçe
 newtab-sports-widget-upcoming = Së Afërmi
@@ -1501,6 +1553,9 @@ newtab-sports-widget-final = Finale
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
 newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-postponed = E shtyrë
 newtab-sports-widget-suspended = E pezulluar
 newtab-sports-widget-cancelled = E anuluar
@@ -1541,6 +1596,18 @@ newtab-sports-widget-match-aria-label-results-penalties =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } kundër { $awayTeam }, e vonuar
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } kundër { $awayTeam }, e shtyrë
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } kundër { $awayTeam }, e pezulluar
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } kundër { $awayTeam }, anuluar
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
@@ -1550,10 +1617,14 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bosnjë dhe Hercegovinë
 newtab-sports-widget-team-name-label-civ =
     .label = Bregu i Fildishtë
+newtab-sports-widget-team-name-label-cod =
+    .label = RD Kongo
 newtab-sports-widget-team-name-label-eng =
     .label = Angli
 newtab-sports-widget-team-name-label-sco =
     .label = Skoci
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Për t’u përcaktuar
 
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
@@ -1599,6 +1670,35 @@ newtab-clock-widget-label-your-clocks = Sahatet tuaj
 newtab-clock-widget-search-back-button =
     .aria-label = Mbrapsht
     .title = Mbrapsht
+newtab-clock-widget-search-location-input2 =
+    .aria-label = Kërkoni për një qytet
+    .placeholder = Kërkoni për një qytet
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Nofkë (në daçi)
+    .description =
+        { $count ->
+            [one] Edhe { $count } shenjë
+           *[other] Edhe { $count } shenja
+        }
+    .label = Nofkë (në daçi)
+    .placeholder = Shtoni një nofkë
+newtab-clock-widget-search-location-input =
+    .aria-label = Kërkoni për një qytet
+    .label = Vendndodhje
+    .placeholder = Kërkoni për një qytet
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .aria-label = Nofkë (në daçi)
+    .label = Nofkë (në daçi)
+    .placeholder = Shtoni një nofkë
 newtab-clock-widget-button-add-clock = Shtoje
 newtab-clock-widget-button-cancel = Anuloje
 newtab-clock-widget-button-back =
