@@ -408,6 +408,9 @@ urlbar-searchmode-actions3 = Əməliyyatlar
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Bu dəfə bununla axtarın:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Bununla axtar:
 urlbar-searchmode-popup-search-settings2 = Axtarış Tənzimləmələri
 urlbar-searchmode-popup-settings2 = Tənzimləmələr
 urlbar-searchmode-popup-search-settings = Axtarış Tənzimləmələri

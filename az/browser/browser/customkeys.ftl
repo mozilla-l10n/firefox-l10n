@@ -6,6 +6,7 @@
 ## Added shortcuts:
 
 customkeys-title = Klaviatura Qısayolları
+customkeys-search = Axtarış:
 customkeys-reset-all-confirm = Bütün klaviatura qısayollarını ilkin vəziyyətinə bərpa etmək istədiyinizdən əminsiniz?
 customkeys-view-picture-in-picture = Şəkil içində şəkil
 customkeys-view-add-split-view = Bölünmüş Görünüşə Əlavə et

@@ -329,6 +329,11 @@ newtab-wallpaper-toggle-title =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorlaşdırılıb
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .aria-description = { $provider } ∙ Sponsorlaşdırılıb
+    .title = Proqnoza { $provider } tərəfində bax
 
 ## Strings for task / to-do list productivity widget
 

@@ -503,12 +503,14 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-search-header =
     .label = Web Axtarış
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsorlaşdırılmış qısayollar
 
 ##
 
 home-prefs-recommended-by-learn-more = Bu necə işləyir
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Sponsorlaşdırılmış Hekayələr
+    .label = Sponsorlaşdırılmış hekayələr
 home-prefs-highlights-option-visited-pages =
     .label = Baxılmış Səhifələr
 home-prefs-highlights-options-bookmarks =
@@ -829,6 +831,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Açıq vərəqlər
     .accesskey = A
+addressbar-locbar-suggest-sponsored-option-2 =
+    .description = Bəzən göstərilən sponsorlaşdırılmış məsləhətlərlə { -brand-short-name }-ya dəstək ol
+    .label = Sponsorlar tərəfindən məsləhət görülüb
 
 ## Privacy Section - Content Blocking
 
