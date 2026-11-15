@@ -560,6 +560,7 @@ onboarding-refresh-fro-import-body = Henkilökohtaiset tietosi pysyvät henkilö
 onboarding-refresh-fro-skip-button = Ohita
 onboarding-refresh-fro-theme-header = Leikittele tyyleillä
 onboarding-refresh-tab-layout-header = Kokeile erilaista välilehtien asettelua
+onboarding-refresh-fro-tab-layout-title = Valitse uusi välilehtien asettelu
 onboarding-refresh-tab-layout-top = Ylhäällä
 onboarding-refresh-tab-layout-side = Sivussa
 onboarding-refresh-tab-layout-minimal = Minimaalinen
@@ -628,5 +629,29 @@ welcome-back-onboarding-card-tilebutton-label = Kokeile
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Määritä { -brand-short-name } sekunneissa
+hnt-card-import-body = Tuo kirjanmerkit, salasanat ja muut tiedot toisesta selaimesta.
+hnt-card-import-primary-button = Tuo omat tietosi
 hnt-card-default-primary-button = Avaa linkit { -brand-short-name }illa
 hnt-card-pin-header = Pidä { -brand-short-name } yhden napsautuksen päässä
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Palaa suojattuun selaamiseen Dockista.
+       *[other] Palaa suojattuun selaamiseen tehtäväpalkista.
+    }
+hnt-card-mobile-header = Hanki sisäänrakennettu suojaus puhelimeesi
+hnt-card-mobile-body = Lataa { -brand-product-name } mobiililaitteellesi ja suojaa yksityisyyttäsi myös liikkeellä ollessasi.
+hnt-card-mobile-primary-button = Hanki { -brand-product-name } mobiililaitteelle.
+hnt-card-wallpaper-header = Valitse raikas taustakuva
+hnt-card-wallpaper-body = Tee tästä näkymästä kotoisa valitsemalla mieleisesi taustakuva.
+hnt-card-wallpaper-primary-button = Aloita mukauttaminen
+hnt-card-taskbar-tabs-header = Kiinnitä suosikkisivustosi Windowsin tehtäväpalkkiin
+hnt-card-taskbar-tabs-body = Avaa suosikkisivustosi sovelluksen tavoin ja hyödynnä kaikkia { -brand-product-name }in suojauksia.
+hnt-card-taskbar-tabs-primary-button = Lisää sivustoja tehtäväpalkkiin
+hnt-card-extensions-header = Tehosta { -brand-short-name }ia laajennuksilla
+hnt-card-extensions-body = Mukauta selaamistasi suosituimmilla laajennuksilla.
+hnt-card-extensions-primary-button = Selaa
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Kaikki valmista.
+hnt-card-last-card-header-end = Seurannan suojaus on päällä.

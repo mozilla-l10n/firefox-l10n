@@ -16,6 +16,34 @@ about-processes-kill-process =
     .title = Tapa prosessi
 about-processes-shutdown-tab =
     .title = Sulje välilehti
+about-processes-unload-tab =
+    .title = Vapauta välilehti muistista
+about-processes-reload-tab =
+    .title = Lataa välilehti uudelleen
+about-processes-select-all-tabs =
+    .title = Valitse kaikki välilehdet
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Laajenna tämän sivuston välilehdet
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Supista tämän sivuston välilehdet
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Vapauta sivuston { $site } välilehdet muistista
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Lataa sivuston { $site } välilehdet uudelleen
+about-processes-expand-all-sites =
+    .title = Laajenna kaikki
+about-processes-collapse-all-sites =
+    .title = Supista kaikki
+about-processes-go-to-tab =
+    .title = Siirry välilehteen
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -58,6 +86,13 @@ about-processes-utility-process = Apuohjelma ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Muu: { $type } ({ $pid })
 
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
+
 ## Details within processes
 
 # Single-line summary of threads (non-idle process)
@@ -97,6 +132,36 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Välilehti: { $name }
 about-processes-preloaded-tab = Esiladattu uusi välilehti
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } välilehti
+       *[other] { $count } välilehteä
+    }
+# Selected-tab count shown in the groupby=tab view's bulk-action bar.
+# Variables:
+#   $count (Number) The number of selected tabs. Always ≥ 1.
+about-processes-bulk-selected-count =
+    { $count ->
+        [one] { $count } välilehti valittu
+       *[other] { $count } välilehteä valittu
+    }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } välilehti)
+       *[other] ({ $count } välilehteä)
+    }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Peruuta valinta
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Sulje
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -139,6 +204,18 @@ about-processes-cpu-almost-idle = < 0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = joutilas
     .title = Suoritinaika yhteensä: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01%
+# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
+about-processes-tab-cpu-almost-idle = < 0.1%
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -156,6 +233,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Muutos: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 
