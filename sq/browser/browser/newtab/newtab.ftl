@@ -218,12 +218,21 @@ newtab-privacy-message-info-4 = Zgjedhja e { -brand-short-name }-it do të thot�
 newtab-privacy-message-info-4-cta = Shihni mbrojtje
 newtab-privacy-message-info-5 = Gjurmues të bllokuar do të thotë më pak shoqëri munden t’ju ndjekin nëpër sajte.
 newtab-privacy-message-info-5-cta = Shihni mbrojtje
+newtab-privacy-message-info-6 = Mbajini të dhënat tuaja me { -brand-short-name }. Ne s’i shesim kurrë, por të tjerë shfletues mund ta bëjnë.
 newtab-privacy-message-info-6-cta = Mësoni më tepër
+newtab-privacy-message-info-7 = Shihni cilët gjurmues ka bllokuar { -brand-short-name }-i.
 newtab-privacy-message-info-7-cta = Shihni mbrojtje
+newtab-privacy-message-info-8 = Shfletimi me { -brand-short-name } është përkrahje e misionit të { -vendor-short-name }-s për ndërtimin e një web-i më të mirë.
 newtab-privacy-message-info-8-cta = Mësoni më tepër
+newtab-privacy-message-info-9 = Bëjeni { -brand-short-name }-in shfletuesin të cilit i ktheheni përherë, për privatësi të brendshme.
 newtab-privacy-message-info-9-cta = Vëre parazgjedhje
+newtab-privacy-message-info-10 = Ruani fjalëkalime në { -brand-short-name } që të përdorni kudo kredenciale të fuqishëm, unikë, hyrjesh.
+newtab-privacy-message-info-10-cta = Kalo te fjalëkalimet
+newtab-privacy-message-info-11 = Shihni se si ndihmon { -brand-short-name }-i të mbahet më privat shfletimi juaj.
 newtab-privacy-message-info-11-cta = Mësoni më tepër
+newtab-privacy-message-info-12 = Bllokimi i gjurmuesve ndihmon të kursehet sasi trafiku në plane me të dhëna të kufizuara.
 newtab-privacy-message-info-12-cta = Shihni mbrojtje
+newtab-privacy-message-info-13 = { -brand-short-name }-i bllokon gjurmues, duke liruar sasi trafiku, për transmetime më të rrjedhshme.
 newtab-privacy-message-info-13-cta = Shihni mbrojtje
 
 ## Privacy widget — promotional messages
@@ -231,8 +240,11 @@ newtab-privacy-message-info-13-cta = Shihni mbrojtje
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Shihni nëse të dhëna tuajat personale shfaqen në një cenim të dhënash.
 newtab-privacy-message-promo-monitor-1-cta = Mësoni më tepër
+newtab-privacy-message-promo-monitor-2 = Mbroni të dhënat tuaja me mbikëqyrje falas shkeljesh të dhënash, për deri në 20 email-e.
 newtab-privacy-message-promo-monitor-2-cta = Mësoni më tepër
+newtab-privacy-message-promo-signin-1 = Mbajini faqerojtësit, fjalëkalimet dhe skedat  të fshehtëzuara nëpër pajisje me llogarinë tuaj { -vendor-short-name }.
 newtab-privacy-message-promo-signin-1-cta = Hyni
 newtab-privacy-message-promo-vpn-1-cta = Hape VPN-në
 newtab-privacy-message-promo-vpn-2-cta = Hape VPN-në
