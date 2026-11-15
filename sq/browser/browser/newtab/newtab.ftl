@@ -290,8 +290,24 @@ newtab-privacy-message-milestone-year =
        *[other] { $count } gjurmues të bllokuar këtë vit. Ky është një vit i fuqishëm i mbrojtjes së privatësisë tuaj.
     }
 newtab-privacy-message-milestone-year-cta = Shihni mbrojtje
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } gjurmues i bllokuar. Ky është përparim i madh drejt privatësisë sipas rregullave tuaja.
+       *[other] { $count } gjurmues të bllokuar. Ky është përparim i madh drejt privatësisë sipas rregullave tuaja.
+    }
 newtab-privacy-message-milestone-total-cta = Shihni mbrojtje
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ gjurmues të bllokuar sot.) Më pak gjurmues do të thotë më tepër privatësi.
 newtab-privacy-message-daily-cap-cta = Shihni mbrojtje
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Jeni mbrojtur { $count } ditë.
+       *[other] Jeni mbrojtur { $count } ditë rresht.
+    }
 newtab-privacy-message-streak-cta = Shihni mbrojtje
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Vazhdoni shfletimin, { -brand-short-name }-i do të vazhdojë bllokimet.
@@ -447,6 +463,13 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = Hapni menu fotoje të ditës
     .title = Hap menu fotoje të ditës
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Vëreni këtë foto si sfondin tuaj
+    .label = Caktoni sfond
+    .title = Caktoni sfond
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Administroni sfond
 # Context menu item that hides the picture shown in the widget.
@@ -479,16 +502,35 @@ newtab-recent-searches-tab-trending = Në modë
 newtab-recent-searches-trending-attribution = përmes { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Mu tani
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Hiqe “{ $search }” nga kërkime së fundi
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Kërkim
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
     .aria-label = Hapni menu kërkimesh
     .title = Hap menu kërkimesh
 
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Kërkime së fundi do të shfaqen këtu, ndaj mund t’i merrni sërish kurdo.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Kërkimet në modë s’mund të kihen këtë çast.
+
 ## Strings for the Horoscopes widget
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopë
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Hapni menu horoskopësh
+    .title = Hap menu horoskopësh
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Mësoni më tepër
 # Context menu item linking to the Yahoo website, the provider of the
@@ -523,6 +565,13 @@ newtab-solitaire-menu-learn-more = Mësoni më tepër
 ## and British English. “Wrexham AFC” is the club’s name. Use the name the
 ## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
 
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Hapni menu për Wrexham AFC
+    .title = Wrexham AFC
 # Menu item opening a submenu that switches what the widget shows. “View” is a
 # noun here, as in “the view the widget shows”.
 newtab-widget-wrexhamafc-menu-view = Shfaqje
@@ -580,6 +629,7 @@ newtab-topsites-add-shortcut-label = Shtoni Shkurtore
 newtab-topsites-add-shortcut-title =
     .aria-label = Shtoni Shkurtore
     .title = Shtoni Shkurtore
+newtab-shortcuts-pinned-area = Zonë e Fiksuar
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
@@ -754,6 +804,8 @@ newtab-discovery-empty-section-topstories-header = S’ka tjetër!
 newtab-discovery-empty-section-topstories-content = Kontrolloni më vonë për më tepër shembuj.
 newtab-discovery-empty-section-topstories-try-again-button = Riprovoni
 newtab-discovery-empty-section-topstories-loading = Po ngarkohet…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Historitë s’mund të kihen këtë çast.
 newtab-discovery-empty-section-topstories-unavailable-body = Kontrolloni lidhjen tuaj, ose riprovoni.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam këtë ndarje, por jo dhe aq.
@@ -860,6 +912,13 @@ newtab-custom-close-menu-button =
     .aria-label = Mbylleni menunë
     .title = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Mbrapsht te “Përshtateni”
+    .title = Mbrapsht te “Përshtateni”
 
 ## New Tab Appearance (browser theme picker)
 
@@ -1182,6 +1241,10 @@ newtab-section-follow-button-label =
     .aria-label = Ndiqeni { $topic }
 newtab-section-following-button = Po e Ndiqni
 newtab-section-unfollow-button = Hiqi Ndjekjen
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Ndiqet: Hiqja ndjekjen { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Përimtoni prurjen tuaj
 newtab-section-follow-highlight-subtitle = Ndiqni interesat tuaja, që të shihni më tepër gjëra nga ato që pëlqeni.
@@ -1250,6 +1313,7 @@ newtab-new-user-custom-wallpaper-cta = Provojeni tani
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Sapo erdhën sfonde të rinj të freskët
+newtab-wallpaper-feature-highlight-subtitle = Zgjidhni të parapëlqyerin tuaj dhe bëjeni çdo skedë t’ju duket si shtëpia juaj.
 newtab-wallpaper-feature-highlight-cta = Zgjidhni sfond
 
 ## Strings for download mobile highlight
