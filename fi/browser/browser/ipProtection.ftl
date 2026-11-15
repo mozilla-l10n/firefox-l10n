@@ -110,6 +110,7 @@ ipprotection-android-promo-callout-primary-button = Selvä
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Aseta sisäänrakennetut VPN-säännöt ja jatka selaamista
 ipprotection-site-inclusions-callout-title-lapsed-users = Kokeile sisäänrakennettua VPN:ää sivustokohtaisesti
+ipprotection-site-inclusions-callout-description-1 = Ota VPN käyttöön sivustoilla, joilla haluat enemmän yksityisyyttä tai selata sijainnin perusteella, ja pidä se muualla poissa käytöstä.
 ipprotection-site-inclusions-callout-primary-button = Aseta säännöt
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ei nyt
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Hylkää

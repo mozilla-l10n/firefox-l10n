@@ -50,6 +50,23 @@ toolbar-button-mini-window =
 main-context-menu-use-mini-window =
     .label = Siirrä osio pienoisikkunaan
     .accesskey = S
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Siirrä pienoisikkunaan
+            [one] Siirrä pienoisikkunaan
+           *[other] Siirry pienoisikkunoihin
+        }
+    .accesskey = S
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Valitse sivun osa, jonka haluat pitää näkyvissä
+mini-window-overlay-instructions = Vedä tai napsauta valitaksesi alueen, jonka haluat siirtää pienoisikkunaan. Se pysyy päällimmäisenä selaamisen aikana.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.

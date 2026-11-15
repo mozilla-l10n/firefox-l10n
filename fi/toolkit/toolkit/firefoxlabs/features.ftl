@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Välilehtien muistiinpanot ovat ko
 experimental-features-tab-context-menu =
     .label = Virtaviivaistettu välilehtivalikko
 experimental-features-tab-context-menu-description = Näe yksinkertaisempi kontekstivalikko, kun napsautat välilehteä hiiren kakkospainikkeella. Se on suunniteltu helpottamaan yleisten toimintojen löytämistä. <a data-l10n-name="connect">Jaa palautetta</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Resurssien valvonta
+experimental-features-resource-monitor-description = Näe avoinna olevien välilehtien arvioitu muistin ja suorittimen käyttö suoraan sivupaneelissa ja vapauta resursseja poistamalla käyttämättömiä välilehtiä muistista. <a data-l10n-name="connect">Anna palautetta</a>

@@ -70,18 +70,40 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Kopioi valittu teksti
     .tooltiptext = Kopioi valittu teksti
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopioitu
 genai-shortcut-more-actions-button =
     .aria-label = Lisää valintoja
     .tooltiptext = Lisää valintoja
+genai-more-actions-panel =
+    .aria-label = Valitse näytettävät toiminnot
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Kysy palvelulta { $provider }
+genai-more-actions-ai-generic =
+    .label = Kysy tekoälyltä
+genai-more-actions-search =
+    .label = Hae
+genai-more-actions-copy =
+    .label = Kopioi
+genai-more-actions-manage-settings =
+    .label = Hallinnoi asetuksia
+genai-selection-callout-title = Korosta teksti valitaksesi toiminnon
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Hae tai kopioi, kun valitset tekstiä. Valitse näytettävät toiminnot <span data-l10n-name="more-actions">•••</span>-valikosta.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Kysy palvelulta { $provider }
 genai-menu-new-badge = Uusi
 genai-menu-summarize-page = Tee yhteenveto sivusta
+genai-menu-summarize-with-ai = Tee yhteenveto tekoälyllä
 genai-input-ask-smart-window =
     .placeholder = Kysy…
 genai-input-ask-generic =
     .placeholder = Kysy AI-chatbotilta…
+genai-input-ask-ai =
+    .placeholder = Kysy tekoälyltä…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Kysy { $provider }…
@@ -229,6 +251,24 @@ link-preview-settings-key-points =
     .label = Anna tekoälyn lukea sivun alku ja luoda pääkohdat
 link-preview-settings-long-press =
     .label = Oikotie: Napsauta linkkiä ja pidä sitä painettuna 1 sekunnin ajan (pitkä painallus)
+highlight-to-search-settings-enable =
+    .description = Saat nopeasti käyttöösi hyödyllisiä toimintoja, kun valitset sisältöä.
+    .label = Näytä toimintovalikko tekstiä valittaessa
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Kysy palvelulta { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Kysy tekoälyltä
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Hae
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopioi
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Enemmän näköä tekoälyn avulla?
 # Message that appears when user is shown the opt-in flow for link previews

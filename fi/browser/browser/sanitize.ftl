@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Poista kaikki historiatiedot
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Poista selaustiedot
 clear-data-settings-label = Kun { -brand-short-name } suljetaan, seuraavat tiedot poistetaan:
 sanitize-on-shutdown-description = Tyhjennä kaikki valitut kohteet automaattisesti, kun { -brand-short-name } sulkeutuu.
 
@@ -47,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = { $midnightTime } lähtien
 clear-time-duration-value-today =
     .label = Tämä päivä
+clear-time-duration-value-all-time =
+    .label = Kaikelta ajalta
 clear-time-duration-value-everything =
     .label = Kaikki
 clear-time-duration-suffix =
@@ -56,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historiatiedot
+item-history-and-downloads2 =
+    .label = Selaus- ja lataushistoria
+    .accesskey = S
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Vieraillut sivustot ja ladattujen tiedoston luettelo
 item-history-and-downloads =
     .label = Sivu- ja lataushistoria
     .accesskey = S
@@ -72,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Evästeet ja sivustotiedot
     .accesskey = E
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Kirjaa sinut ulos ja saattaa tyhjentää ostoskorit
 item-cookies-site-data-description = Saattaa kirjata sinut ulos sivustoilta tai tyhjentää ostoskorit
 item-active-logins =
     .label = Aktiiviset kirjautumiset
@@ -79,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Väliaikaistiedostot
     .accesskey = V
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Väliaikaiset tiedostot ({ $amount } { $unit })
+    .accesskey = V
+item-cached-content2 =
+    .label = Väliaikaiset tiedostot
+    .accesskey = V
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Nopeuttaa sivustojen latautumista
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -98,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Tallennetut lomaketiedot
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nimet, sähköpostiosoitteet ja lomaketiedot
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Sivustojen käyttöoikeudet ja asetukset
 item-formdata-description = Tyhjentää tiedot, kuten nimet, sähköpostiosoitteet ja muut lomakkeisiin syöttämäsi asiat
 item-site-prefs-description = Palauttaa käyttöoikeudet ja sivustoasetukset alkuperäisiin asetuksiin
 data-section-label = Muut tiedot
@@ -107,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Yhteydettömän tilan tiedot
     .accesskey = Y
+sanitize-everything-undo-warning2 = Tätä ei voi perua.
 sanitize-everything-undo-warning = Tätä toimintoa ei voi peruuttaa.
 window-close =
     .key = w
@@ -116,6 +148,14 @@ sanitize-button-ok2 =
     .label = Poista
 sanitize-button-ok-on-shutdown =
     .label = Tallenna muutokset
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Poista
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Sulje
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
