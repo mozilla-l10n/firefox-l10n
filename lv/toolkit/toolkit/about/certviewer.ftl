@@ -122,7 +122,7 @@ certificate-viewer-unknown-file-name = Sertifikāts
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
-certificate-viewer-tab-mine = Jūsu sertifikāti
+certificate-viewer-tab-mine = Tavi sertifikāti
 certificate-viewer-tab-people = Cilvēki
 certificate-viewer-tab-servers = Serveri
 certificate-viewer-tab-ca = Iestādes

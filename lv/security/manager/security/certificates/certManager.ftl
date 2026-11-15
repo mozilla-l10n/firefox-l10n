@@ -121,7 +121,7 @@ edit-trust-ca = Sertifikāts "{ $certName }" pārstāv Sertifikātu Autoritāti
 ## For Deleting Certificates
 
 delete-user-cert-title =
-    .title = Dzēst savus sertifikātus
+    .title = Izdzēst savus sertifikātus
 delete-user-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos sertifikātus?
 delete-user-cert-impact = Ja izdzēsīsiet vienu no saviem sertifikātiem, vairs nevarēsiet to izmantot sevis identificēšanai tīmeklī.
 delete-ssl-override-title =
@@ -129,11 +129,11 @@ delete-ssl-override-title =
 delete-ssl-override-confirm = Vai tiešām izdzēst šo servera izņēmumu?
 delete-ssl-override-impact = Dzēšot servera izņēmumu, tiek atjaunotas ierastās drošības pārbaudes šim serverim un ir nepieciešams, lai tas izmantotu derīgu sertifikātu.
 delete-ca-cert-title =
-    .title = Dzēst CA sertifikātus
+    .title = Izdzēst vai atsaukt uzticību CA sertifikātiem
 delete-ca-cert-confirm = Tu izvēlējies izdzēst šos CA sertifikātus. Tiks noņemta visa Iebūvēto sertifikātu uzticamība, kam ir tāda pati iedarbība. Vai tiešām izdzēst sertifikātus vai atsaukt to uzticamību?
 delete-ca-cert-impact = Ja izdzēsīsiet sertifikātu autoritātes (CA) sertifikātu, šī programma vairs neuzticēsies nevienam sertifikātam, ko izsniegusi šī autoritāte.
 delete-email-cert-title =
-    .title = Dzēst e-pasta sertifikātus
+    .title = Izdzēst e-pasta sertifikātus
 delete-email-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šo cilvēku e-pasta sertifikātus?
 delete-email-cert-impact = Ja izdzēsīsiet personas e-pasta sertifikātu, jūs vairs nevarēsiet šai personai nosūtīt šifrētas vēstules.
 # Used for semi-uniquely representing a cert.
