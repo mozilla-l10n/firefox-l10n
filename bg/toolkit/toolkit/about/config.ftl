@@ -8,7 +8,7 @@
 about-config-intro-warning-title = Продължете с повишено внимание
 about-config-intro-warning-text = Промяната на разширените настройки може да повлияе на бързодействието или сигурността на { -brand-short-name }.
 about-config-intro-warning-checkbox = Повторно предупреждаване при отваряне на тези настройки
-about-config-intro-warning-button = Продължаване въпреки риска
+about-config-intro-warning-button = Приемам риска и продължавам
 
 ##
 
