@@ -1563,6 +1563,14 @@ newtab-crossword-menu-powered-by-particle = Bazuar në Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Nis afatmatës { $minutes }-minutësh
+           *[other] Nis afatmatës { $minutes }-minutësh
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Ndale kohëmatësin
 # Variables:
@@ -1579,6 +1587,8 @@ newtab-widget-timer-increase-min =
     .title = Shto 1 minutë
 newtab-widget-timer-mode-group =
     .aria-label = Mënyrë kohëmatësi
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Përqendrim
 # Small label shown beneath the live time while the break timer is running or paused.
 newtab-widget-timer-running-break = Pushim
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
@@ -1604,9 +1614,23 @@ newtab-sports-widget-menu-key-dates = Data kyçe
 newtab-sports-widget-menu-learn-more = Mësoni më tepër
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Ndiqni Kupën e Botës
+newtab-sports-widget-follow-teams =
+    .label = Ndiqni ekipe
+newtab-sports-widget-view-matches =
+    .label = Shihni ndeshje
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Ndiqni deri në { $number } ekip
+       *[other] Ndiqni deri në { $number } ekipe
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Zgjidhni një sfond
 newtab-sports-widget-skip = Anashkaloje
+newtab-sports-widget-search-country =
+    .aria-label = Kërkoni vend
+    .placeholder = Kërkoni vend
 newtab-sports-widget-cancel = Anuloje
 newtab-sports-widget-back-button =
     .aria-label = Mbrapsht
@@ -1618,13 +1642,42 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-team-name-eliminated = { $teamName } (eliminuar)
 newtab-sports-widget-view-all =
     .label = Shihini krejt
+newtab-sports-widget-show-less =
+    .label = Shfaq më pak
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Vetëm ekipet e ndjekur
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Shiheni
+    .title = Shiheni drejtpërsëdrejti
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Shiheni drejtpërsëderjti
+    .title = Shiheni drejtpërsëderjti
 newtab-sports-widget-watch-dialog-close =
     .aria-label = Mbylle
     .title = Mbylle
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Falas
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Provë falas
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Falas dhe me pagesë
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Me pagesë
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Vetëm disa ndeshje
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Mund të kihen në rajonin tuaj
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = Rajone të tjera
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Hap transmetimin
+    .title = Hap transmetimin
+newtab-sports-widget-group-stage = Fazë Grupesh
+newtab-sports-widget-group-a = Grupi A
 newtab-sports-widget-group-b = Grupi B
 newtab-sports-widget-group-c = Grupi C
 newtab-sports-widget-group-d = Grupi D
@@ -1637,6 +1690,8 @@ newtab-sports-widget-group-j = Grupi J
 newtab-sports-widget-group-k = Grupi K
 newtab-sports-widget-group-l = Grupi L
 newtab-sports-widget-quarter-finals = Çerekfinale
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = DREJTPËRDREJT
 newtab-custom-widget-live-refresh =
     .aria-label = Rifresko përfundimet
     .title = Rifresko përfundimet
