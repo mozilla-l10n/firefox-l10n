@@ -424,13 +424,13 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-screen-1-title =
     Jaunināt uz Windows 11?
-    Izveidosim jūsu { -brand-product-name } datu rezerves kopiju.
+    Dublēsim Tavus { -brand-product-name } datus!
 create-backup-screen-1-subtitle = Automātiski aizsargājiet savas paroles, grāmatzīmes un citus datus 1–2 minūšu laikā.
 create-backup-screen-1-flair = Ieteicams
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Uzzināt vairāk</a>
 create-backup-screen-1-sync-label = Vienādots ar { -brand-product-name }
 create-backup-screen-1-sync-body = Rezerves kopijas visas ierīces, kurās esat pierakstījies
-create-backup-screen-1-backup-label = Rezerves kopija datorā
+create-backup-screen-1-backup-label = Dublēt datorā
 create-backup-screen-1-backup-body = Saglabā jūsu ierīcē vai OneDrive
 create-backup-select-tile-button-label = Atlasīt
 create-backup-back-button-label = Atpakaļ
@@ -453,7 +453,7 @@ create-backup-screen-2-all-list-2 = Ietver paroles un maksājumus
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Šifrēts ar paroli
 # Title for a screen asking users to choose a file location
-create-backup-screen-3-location = Kur vēlaties saglabāt savu rezerves kopiju?
+create-backup-screen-3-location = Kur saglabāt Tavu dublējumu?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Izveidojiet rezerves faila paroli
 create-backup-screen-3-subtitle = Nepieciešams datu šifrēšanai. Saglabājiet tos vietā, kuru atcerēsities.
@@ -477,7 +477,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Grāmatzīmes, vēsture, 
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Saglabāts jūsu ierīcē
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Paroles un maksājumi nav iekļauti
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Lai iekļautu sensitīvus datus, dodieties uz <a data-l10n-name="settings">Iestatījumi</a>.
-fx-backup-confirmation-screen-item-subtext-1 = Rezerves kopēšana sāksies pēc dažām minūtēm un tiks veikta reizi dienā. Progresu varat pārbaudīt sadaļā <a data-l10n-name="settings">Iestatījumi</a>.
+fx-backup-confirmation-screen-item-subtext-1 = Dublēšana sāksies pēc dažām minūtēm un tiks veikta reizi dienā. Virzību var pārbaudīt <a data-l10n-name="settings">iestatījumos</a>.
 fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } meklēs jūsu dublējumu, ja būs nepieciešams atkārtoti instalēt.
 
 ## Restore from Backup Flow about:welcome screens
@@ -496,7 +496,7 @@ restored-from-backup-success-no-checklist-subtitle = Šīs ierīces rezerves kop
 restored-from-backup-success-with-checklist-primary-button = Saglabāt un turpināt
 restored-from-backup-success-with-checklist-secondary-button = Izlaist šo soli
 restored-from-backup-success-no-checklist-primary-button = Turpināt
-restored-from-backup-error-title = Hmm, radās problēma ar jūsu rezerves kopiju.
+restored-from-backup-error-title = Hmmm, bija sarežģījums ar dublējuma datni!
 restored-from-backup-error-subtitle = Ja jums ir vēl viena { -brand-short-name } rezerves kopija, mēģiniet atjaunot no tās. <a data-l10n-name="restore-problems">Vai joprojām rodas problēmas?</a>
 restored-from-backup-error-primary-button = Aizvērt
 

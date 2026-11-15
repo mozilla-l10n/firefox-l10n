@@ -69,11 +69,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinhronizēt grāmatzīmes tūlīt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Aizvērt poga
     .title = Aizvērt
-fxa-adoption-addresses-backup-title = Veidosim rezerves kopiju jūsu saglabātajām adresēm
+fxa-adoption-addresses-backup-title = Dublēsim saglabātās adreses
 fxa-adoption-addresses-backup-subtitle = Aizsargājiet savas saglabātās adreses, vienādojot tās ar savām ierīcēm, izmantojot šifrēšanu.
 fxa-adoption-credit-cards-backup-title = Veidosim drošības kopijas jūsu maksājuma metodēm
 fxa-adoption-credit-cards-backup-subtitle = Aizsargājiet savus maksājuma veidus, vienādojot tos ar savās ierīcēs, izmantojot šifrēšanu.
-fxa-adoption-bookmarks-treatment-backup-title = Veidosim rezerves kopiju (-as) jūsu grāmatzīmēm
+fxa-adoption-bookmarks-treatment-backup-title = Dublēsim grāmatzīmes
 fxa-adoption-bookmarks-treatment-backup-subtitle = Aizsargājiet savas grāmatzīmes, sinhronizējot tās ar ierīcēm, izmantojot šifrēšanu.
 fxa-adoption-primary-button-label = Reģistrēties
 
@@ -334,9 +334,9 @@ fxa-menu-message-sync-devices-primary-text = Vienādojiet visas savas ierīces
 fxa-menu-message-sync-devices-secondary-text = Saņemiet savu informāciju, piemēram, grāmatzīmes un paroles, uzreiz visur, kur izmantojat { -brand-short-name }.
 fxa-menu-message-sync-devices-secondary-text2 = Saņemiet savu informāciju, piemēram, grāmatzīmes un paroles, uzreiz visur, kur izmantojat { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Vienādojiet visas savas ierīces
-fxa-menu-message-backup-data-primary-text = Veidojiet rezerves kopiju pārlūka datiem
+fxa-menu-message-backup-data-primary-text = Dublē savus pārlūka datus
 fxa-menu-message-backup-data-secondary-text = Automātiski aizsargājiet grāmatzīmes, paroles un citu informāciju visās savās ierīcēs.
-fxa-menu-message-backup-data-collapsed-text = Veidojiet rezerves kopiju pārlūka datiem
+fxa-menu-message-backup-data-collapsed-text = Dublē pārlūka datus
 fxa-menu-message-backup-sync-primary-text = Saglabājiet savus datus drošībā un vienādotus
 fxa-menu-message-backup-sync-secondary-text = Vienādošana dublē lielāko daļu datu, lai varētu tiem piekļūt visur, kur izmanto { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Vienādot un veidot rezerves kopijas jūsu datiem
@@ -368,12 +368,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Saglabājiet savu iecienīt
 
 windows-10-eos-sync-spotlight-title = Vai drīzumā pāriesiet no Windows 10?
 windows-10-eos-sync-spotlight-subtitle = Dublējiet savas paroles un grāmatzīmes, lai varētu pāriet uz jebkuru ierīci.
-windows-10-eos-sync-spotlight-primary-label = Izveidojiet sava { -brand-short-name } rezerves kopiju
+windows-10-eos-sync-spotlight-primary-label = Dublē { -brand-short-name }
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Jaunināt uz Windows 11? Nepazaudējiet grāmatzīmes un paroles.
-windows-10-eos-sync-toast-subtitle = Veidojiet rezerves kopiju saviem datiem, lai { -brand-short-name } būtu gatavs lietošanai jebkurā laikā — šajā vai nākamajā datorā.
+windows-10-eos-sync-toast-subtitle = Dublē savus datus, lai { -brand-short-name } būtu gatavs izmantošanai jebkurā laikā šajā vai citā datorā!
 windows-10-eos-sync-toast-primary-label = Sākt darbu
 windows-10-eos-sync-toast-secondary-label = Atgādināt vēlāk
 
@@ -382,7 +382,7 @@ windows-10-eos-sync-toast-secondary-label = Atgādināt vēlāk
 windows-10-eos-challenger-callout-title = { -brand-product-name } nav jau sākotnēji instalēts kā citas lielo tehnoloģiju uzņēmumu pārlūkprogrammas. Tieši tāda ir doma.
 windows-10-eos-challenger-sync-callout-subtitle = Kad dublējat savas { -brand-product-name } grāmatzīmes un paroles, ir vieglāk pārnest izvēlēto pārlūkprogrammu uz nākamo ierīci.
 windows-10-eos-challenger-pin-callout-subtitle = Piespraudiet { -brand-shorter-name } uzdevumjoslai, lai izvēlētā pārlūkprogramma vienmēr būtu pieejama, kad tā nepieciešama.
-windows-10-eos-challenger-sync-primary-button = Izveidojiet sava { -brand-shorter-name } rezerves kopiju
+windows-10-eos-challenger-sync-primary-button = Dublēt { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Piespraust { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloķē kriptovalūtu ieguves programmas, sociālo mediju izsekotājus un pirkstu nospiedumu lasītājus.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Izsekošanas ierīces nevar identificēt jūsu ierīci vai sekot jums tīmeklī — jo mēs tām to neļaujam.
@@ -408,7 +408,7 @@ windows-10-eos-feature-toast-dismiss-button = Noraidīt
 ## Windows 10 EoS Global Infobar
 
 windows-10-eos-global-infobar-title = <strong>Microsoft vairs neatbalsta operētājsistēmu Windows 10.</strong> Dublējiet savu informāciju, lai sagatavotu { -brand-product-name } operētājsistēmai Windows 11.
-windows-10-eos-global-infobar-primary-button = Ieslēgt rezerves kopiju
+windows-10-eos-global-infobar-primary-button = Ieslēgt dublēšanu
     .accesskey = I
 windows-10-eos-global-infobar-learn-more-link = Uzzināt vairāk
     .accessKey = U

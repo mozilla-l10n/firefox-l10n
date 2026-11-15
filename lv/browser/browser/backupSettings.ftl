@@ -18,31 +18,31 @@ backup-folder-name = Atjaunot { -brand-product-name }
 # profile name and backup date are appended to it:
 #
 # FirefoxBackup_default_20240606-1830.html
-backup-file-name = { -brand-product-name } Rezerves kopija
+backup-file-name = { -brand-product-name } dublējums
 settings-data-backup-header2 =
-    .description = Automātiski aizsargā jūsu grāmatzīmes, vēsturi un citus datus.
-    .label = Rezerves kopija
-settings-data-backup-toggle = Pārvaldīt rezerves kopiju
+    .description = Automātiski aizsargā grāmatzīmes, vēsturi un citus datus!
+    .label = Dublējums
+settings-data-backup-toggle = Pārvaldīt dublējumu
 settings-data-backup-toggle-on2 =
-    .label = Ieslēgt rezerves kopiju
+    .label = Ieslēgt dublēšanu
 settings-data-backup-toggle-off2 =
-    .label = Izslēgt rezerves kopiju
-settings-data-backup-trigger-button = Izveidot rezerves kopiju
+    .label = Izslēgt dublēšanu
+settings-data-backup-trigger-button = Dublēt tagad
 settings-data-backup-in-progress-button = Notiek rezerves kopijas izveide…
 settings-data-backup-in-progress-message =
     .message = Notiek rezerves kopijas izveide…
 settings-data-backup-last-backup-date = Pēdējā rezerves kopija: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
-    .label = Rezerves kopēšana ir ieslēgta
+    .label = Dublēšana ir IESLĒGTA
 settings-data-backup-scheduled-backups-off2 =
-    .label = Rezerves kopēšana ir izslēgta
+    .label = Dublēšana ir IZSLĒGTA
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Rezerves kopijas atrašanās vieta
 settings-data-backup-last-backup-location-show-in-folder = Rādīt mapē
 settings-data-backup-last-backup-location-edit = Labot…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } bija kļūda rezerves kopijas izveidošanā.
-settings-sensitive-data-encryption-description = Izveido rezerves kopiju savām parolēm un maksājuma veidiem, kā arī glabā visus savus datus drošībā ar šifrēšanu!
+settings-sensitive-data-encryption-description = Dublē savas paroles un maksājuma veidus, kā arī glabā visus savus datus drošībā ar šifrēšanu!
 settings-data-toggle-encryption-label2 =
     .description = Dublē savas paroles un maksājuma veidus, kā arī glabā visus savus datus drošībā ar šifrēšanu.
     .label = Dublē savus jūtīgos datus
@@ -50,11 +50,11 @@ settings-data-toggle-encryption-label2 =
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datnes nosaukums: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .description = Atgūstiet savus { -brand-product-name } datus no pēdējās rezerves kopijas.
-    .label = Atjaunojiet savus datus
+    .description = Atgūsti savus { -brand-product-name } datus no pēdējā dublējuma!
+    .label = Atjaunot savus datus
 settings-data-backup-restore-scheduled-off =
-    .description = Lai atjaunotu datus, izmantojiet { -brand-product-name } rezerves kopiju no citas ierīces.
-    .label = Atjaunojiet savus datus
+    .description = Izmanto { -brand-product-name } dublējumu no citas ierīces, lai atjaunotu savus datus!
+    .label = Atjauno savus datus
 settings-sensitive-data =
     .label = Sensitīvi dati
 settings-data-toggle-encryption-support-link = Uzzināt vairāk
@@ -63,7 +63,7 @@ settings-data-change-password2 =
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
-turn-on-scheduled-backups-header = Ieslēgt rezerves kopiju
+turn-on-scheduled-backups-header = Ieslēgt dublēšanu
 turn-on-scheduled-backups-description = { -brand-short-name } izveidos jūsu datu momentuzņēmumu ik pēc 24 stundām. Varat to atjaunot, ja rodas problēma vai iegādājaties jaunu ierīci.
 turn-on-scheduled-backups-support-link = Kas tiks iekļauts rezerves kopija?
 # "Location" refers to the save location or a folder where users want backups stored.
@@ -89,11 +89,11 @@ turn-on-scheduled-backups-confirm-button = Ieslēgt rezerves kopijas izveidi
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Radās problēma ar jūsu atlasīto rezerves kopijas mapi. Izvēlieties citu mapi un mēģiniet vēlreiz.
 turn-on-scheduled-backups-error-default-dir-denied = Mēs nevarējām piekļūt jūsu rezerves kopijas mapei. Mēģiniet izvēlēties jaunu atrašanās vietu.
-backup-error-file-system = Veidojot rezerves kopiju { -brand-short-name }, radās problēma ar atlasīto rezerves kopijas mapi.
+backup-error-file-system = { -brand-short-name } dublēšanas laikā bija sarežģījums ar atlasīto rezerves kopiju mapi.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
-turn-off-scheduled-backups-header = Izslēgt rezerves kopiju?
+turn-off-scheduled-backups-header = Izslēgt dublēšanu?
 turn-off-scheduled-backups-description = Tādējādi tiek dzēsti arī visi jūsu rezervju kopiju dati. To nevar atsaukt.
 turn-off-scheduled-backups-support-link = Uzzināt vairāk
 turn-off-scheduled-backups-cancel-button = Atcelt
@@ -101,11 +101,11 @@ turn-off-scheduled-backups-confirm-button = Izslēgt veidošanu un dzēst rezerv
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
-restore-from-backup-header = Atjaunojiet savus datus
+restore-from-backup-header = Atjauno savus datus
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Kas tiks atjaunots?
-restore-from-backup-filepicker-label = Rezerves datne
+restore-from-backup-filepicker-label = Dublējuma datne
 restore-from-backup-filepicker-title = Izvēlieties rezerves kopijas datni:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
@@ -113,14 +113,14 @@ restore-from-backup-file-choose-button =
        *[other] Pārlūkot...
     }
 restore-from-backup-password-label = Parole
-restore-from-backup-password-description = Tas atbloķē jūsu šifrēto rezerves kopiju.
+restore-from-backup-password-description = Tas atslēdz šifrēto dublējumu.
 restore-from-backup-cancel-button = Atcelt
 restore-from-backup-confirm-button = Atjaunot un restartēt
 restore-from-backup-restoring-button = Atjaunošana…
 restore-from-backup-type-group-label =
     .label = Vai aizstāt pašreizējo profilu?
 restore-from-backup-type-replace =
-    .label = Aizstāt visus datus ar šo rezerves kopiju
+    .label = Aizstāt visus datus ar šo dublējumu
 restore-from-backup-type-add =
     .label = Saglabāt datus un izveidot jaunu profilu
 restore-from-backup-profiles-disabled-message = Tas aizstās visus jūsu pašreizējos { -brand-short-name } datus ar jūsu rezerves kopijas datiem.
@@ -155,7 +155,7 @@ backup-service-error-unsupported-application =
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } nevarēja atjaunot
-    .message = Restartējiet { -brand-short-name } un mēģiniet atjaunot rezerves kopiju vēlreiz.
+    .message = { -brand-short-name } jāpalaiž no jauna un vēlreiz jāmēģina atjaunot dublējumu.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
@@ -164,7 +164,7 @@ backup-service-error-went-wrong2 =
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
-enable-backup-encryption-header = Izveidojiet savu sensitīvo datu rezerves kopiju
+enable-backup-encryption-header = Dublē savus jūtīgos datus
 enable-backup-encryption-support-link = Uzzināt vairāk
 enable-backup-encryption-create-password-label = Parole
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -216,7 +216,6 @@ backup-error-retry = Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz.
 backup-file-header = { -brand-short-name } ir gatavs atjaunošanai
 backup-file-title = Atjaunot { -brand-short-name }
 backup-file-intro = Atgriezieties pie pārlūkošanas un atgūstiet visas savas grāmatzīmes, vēsturi un citus datus. <a data-l10n-name="backup-file-support-link">Uzziniet vairāk</a>
-backup-file-path-label = Rezerves datne:
 backup-file-encryption-state-label = Šifrēts:
 backup-file-encryption-state-value-encrypted = Jā
 backup-file-encryption-state-value-not-encrypted = Nē

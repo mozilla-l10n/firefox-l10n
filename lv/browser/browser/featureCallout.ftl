@@ -109,7 +109,7 @@ start-page-callout-secondary-label = Noraidīt
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
-fxa-adoption-passwords-title = Parole saglabāta. Izveidosim tās rezerves kopiju.
+fxa-adoption-passwords-title = Parole saglabāta. Dublēsim to!
 fxa-adoption-passwords-subtitle = Aizsargājiet savas paroles, sinhronizējot tās ar ierīcēm, izmantojot šifrēšanu.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Reģistrēties
@@ -160,7 +160,7 @@ windows-10-eos-sync-new-device-subtitle-2 = Neatkarīgi no tā, cik bieži lieto
 windows-10-eos-sync-new-device-primary-label = Vienādojiet tagad
 windows-10-eos-sync-general-title-1 = Aizsargājiet savu personalizēto { -brand-short-name }.
 windows-10-eos-sync-general-subtitle-1 = Veidojiet rezerves kopijas un vienādojiet savas paroles, grāmatzīmes, iestatījumus un citus datus, lai saglabātu to, uz ko paļaujaties.
-windows-10-eos-sync-general-title-2 = Tagad ir īstais laiks izveidot rezerves kopiju savām parolēm un grāmatzīmēm.
+windows-10-eos-sync-general-title-2 = Tagad ir īstais laiks dublēt savas paroles un grāmatzīmes.
 windows-10-eos-sync-general-subtitle-2 = Vienādojiet tūlīt, lai aizsargātu lietas, kurām uzticaties { -brand-short-name }, — un atgūstiet tās jebkur un jebkurā laikā.
 windows-10-eos-sync-tour-title-1 = Pārāk daudz cilņu? Sakārtojiet tās, izmantojot cilņu grupas.
 windows-10-eos-sync-tour-subtitle-1 = Velciet vienu cilni virs otras, lai izveidotu grupu un uzturētu lietas kārtībā.

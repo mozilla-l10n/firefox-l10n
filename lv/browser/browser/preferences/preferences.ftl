@@ -1951,7 +1951,7 @@ notifications-no-results-message =
 ## Privacy Section - Data Collection
 
 backup-multi-profile-warning-message =
-    .message = Lai pārliecinātos, ka šīs izmaiņas ir iekļautas jūsu dublējumos, atveriet katru profilu un iestatījumos izvēlieties “Rezerves kopiju tūlīt”.
+    .message = Lai pārliecinātos, ka šīs izmaiņas ir iekļautas dublējumos, jāatver katrs profils un iestatījumos jāizvēlas “Dublēt tagad”.
 nimbus-rollouts =
     .description = Izmaiņas tiks ieviestas attālināti.
     .label = Atļaut { -brand-short-name } uzlabot funkcijas, veiktspēju un stabilitāti starp atjauninājumiem
