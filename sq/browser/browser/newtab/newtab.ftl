@@ -254,8 +254,11 @@ newtab-privacy-message-promo-vpn-3 = Aktivizoni VPN-në  brendshme që të ndihm
 newtab-privacy-message-promo-vpn-3-cta = Hape VPN-në
 newtab-privacy-message-promo-private-window-1 = Provoni një dritare private, që të shfletoni më privatisht, kur përdorni një kompjuter të përbashkët me të tjerë.
 newtab-privacy-message-promo-private-window-1-cta = Hap dritare private
+newtab-privacy-message-promo-relay-1 = Përdorni email tuaj të njëmendtë për njerëzit të cilëve u besoni; përdorni një maskë email-i për regjistrim lart e poshtë.
 newtab-privacy-message-promo-relay-1-cta = Merrni maska
+newtab-privacy-message-promo-relay-2 = Mbroni të marrët tuaj nga mesazhe të padëshiruar, me maskim falas email-esh.
 newtab-privacy-message-promo-relay-2-cta = Merrni maska
+newtab-privacy-message-promo-relay-3 = Merrni 50 maska falas email-i, për t’ju ndihmuar të mbani privat email-in tuaj të njëmendtë.
 newtab-privacy-message-promo-relay-3-cta = Merrni maska
 
 ## Privacy widget — celebration messages
@@ -263,8 +266,29 @@ newtab-privacy-message-promo-relay-3-cta = Merrni maska
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } gjurmues i bllokuar këtë javë. Shihni se çfarë mban larg jush { -brand-short-name }-i
+       *[other] { $count } gjurmues të bllokuar këtë javë. Shihni se çfarë mban larg jush { -brand-short-name }-i
+    }
 newtab-privacy-message-milestone-week-cta = Shihni mbrojtje
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } gjurmues i bllokuar këtë muaj. Një hap i vockël për privatësinë. Një hap i madh për ta pasur mendjen të fjetur.
+       *[other] { $count } gjurmues të bllokuar këtë muaj. Një hap i vockël për privatësinë. Një hap i madh për ta pasur mendjen të fjetur.
+    }
 newtab-privacy-message-milestone-month-cta = Shihni mbrojtje
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } gjurmues i bllokuar këtë vit. Ky është një vit i fuqishëm i mbrojtjes së privatësisë tuaj.
+       *[other] { $count } gjurmues të bllokuar këtë vit. Ky është një vit i fuqishëm i mbrojtjes së privatësisë tuaj.
+    }
 newtab-privacy-message-milestone-year-cta = Shihni mbrojtje
 newtab-privacy-message-milestone-total-cta = Shihni mbrojtje
 newtab-privacy-message-daily-cap-cta = Shihni mbrojtje
