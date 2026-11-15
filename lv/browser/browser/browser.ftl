@@ -503,7 +503,7 @@ identity-permissions-storage-access-hint = Šīs puses var izmantot starpvietņu
 identity-permissions-storage-access-learn-more = Uzzināt vairāk
 identity-permissions-reload-hint = Lai izmaiņas stātos spēkā, iespējams, jums būs atkārtoti jāielādē lapa.
 identity-clear-site-data =
-    .label = Notīrīt sīkdatnes un vietnes datus…
+    .label = Notīrīt sīkdatnes un vietņu datus…
 identity-connection-not-secure-security-view = Savienojums ar šo vietni nav drošs.
 identity-connection-verified = Savienojums ar šo vietni ir drošs.
 identity-ev-owner-label2 = Sertifikāts izdots
@@ -1674,7 +1674,7 @@ trustpanel-header-enabled-insecure = Šajā vietnē jāuzmanās
 trustpanel-description-enabled-insecure = { -brand-product-name } pamanīja kaut ko aizdomīgu.
 trustpanel-header-disabled = Jūs izslēdzāt aizsardzību
 trustpanel-description-disabled = { -brand-product-name } šobrīd nedarbojas. Mēs iesakām atkal ieslēgt aizsardzību.
-trustpanel-clear-cookies-button = Notīrīt sīkdatnes un vietnes datus
+trustpanel-clear-cookies-button = Notīrīt sīkdatnes un vietņu datus
 trustpanel-privacy-link = Privātuma iestatījumi
 # Variables
 #  $host (String): the hostname of the site that is being displayed.

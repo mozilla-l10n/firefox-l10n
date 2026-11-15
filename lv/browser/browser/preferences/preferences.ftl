@@ -110,16 +110,16 @@ restart-later = Palaist no jauna vēlāk
 
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolē šo iestatījumu.
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> pārvalda šo iestatījumu.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolē šo iestatījumu.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> pārvalda šo iestatījumu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ir nepieciešamas konteinera cilnes.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolē šo iestatījumu.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> pārvalda šo iestatījumu.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontrolē, kā { -brand-short-name } savienojas ar internetu.
@@ -1352,11 +1352,11 @@ forms-saved-passwords-searchkeywords = Jūsu datorā ir saglabātas šo vietņu 
 forms-additional-protections-header =
     .label = Papildu aizsardzība
 forms-primary-pw-use =
-    .label = Lietot galveno paroli
-    .accesskey = L
+    .label = Izmantot galveno paroli
+    .accesskey = I
 forms-primary-pw-use-2 =
-    .description = Pievieno papildu drošības slāni, lai aizsargātu jūsu saglabātās paroles.
-    .label = Izmantojiet primāro paroli
+    .description = Pievieno papildu drošības slāni, lai aizsargātu saglabātās paroles.
+    .label = Izmantot galveno paroli
     .accesskey = I
 forms-primary-pw-set =
     .label = Iestatīt galveno paroli
@@ -1424,12 +1424,12 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 autofill-payment-methods-header =
-    .aria-label = Maksājuma metodes
+    .aria-label = Maksājumu veidi
 autofill-payment-methods-checkbox-message-2 =
     .label = Saglabāt un automātiski aizpildīt maksājumu informāciju
     .accesskey = j
 autofill-payment-methods-manage-payments-title =
-    .heading = Pārvaldīt maksājuma metodes
+    .heading = Pārvaldīt maksājumu veidus
 autofill-payment-methods-manage-payments-button =
     .label = Pārvaldīt maksājumu veidus
     .accesskey = m
@@ -1447,7 +1447,7 @@ autofill-payment-methods-save-security-codes-checkbox =
     .accesskey = S
 autofill-payment-methods-add-button = Pievienot jaunu maksājumu veidu
 payments-list-header =
-    .label = Maksājuma metodes
+    .label = Maksājumu veidi
 payments-delete-payment-prompt-title = Vai dzēst šo maksājuma veidu?
 payments-delete-payment-prompt-confirm-button = Dzēst
 payments-delete-payment-prompt-cancel-button = Atcelt
@@ -1552,9 +1552,9 @@ payment-moz-box-item-security-code-only =
     .description = CVV saglabāts
     .label = { $cardNumber }
 addresses-group =
-    .label = Adreses un citi
+    .label = Adreses un vēl
 payments-group =
-    .label = Maksājuma metodes
+    .label = Maksājumu veidi
 
 ## Privacy Section - History
 
@@ -2108,7 +2108,7 @@ preferences-doh-default-detailed-desc-5 = Izslēgt, kad tīkls norāda { -brand-
 preferences-doh-setting-enabled =
     .label = Paaugstināta aizsardzība
     .accesskey = i
-preferences-doh-enabled-desc = Jūs kontrolējat, kad izmantot drošo DNS, un izvēlēties pakalpojumu sniedzēju.
+preferences-doh-enabled-desc = Tu pārvaldi, kad izmantot drošo DNS, un izvēlēties pakalpojumu sniedzēju.
 preferences-doh-enabled-detailed-desc-1 = Izmantot atlasīto pakalpojumu sniedzēju
 preferences-doh-enabled-detailed-desc-2 = Izmantot savu noklusējuma DNS atrisinātāju tikai tad, ja ir problēma ar drošo DNS
 preferences-doh-setting-strict =
