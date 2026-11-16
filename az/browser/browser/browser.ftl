@@ -455,7 +455,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button2 =
     .label = Saxla
-    .accesskey = S
+    .accesskey = a
 bookmark-panel-save-button =
     .label = Saxla
 # Width of the bookmark panel.
@@ -493,6 +493,7 @@ identity-https-only-dropdown-off =
     .label = Sönülü
 identity-https-only-dropdown-off-temporarily =
     .label = Müvəqqəti sönülü
+identity-https-only-info-turn-on3 = Əgər { -brand-short-name }-un əlaqənizi mümkün olduğunda yüksəltməsini istəyirsinizsə, sayt üçün HTTPS yüksəltməyi aktivləşdirin.
 identity-https-only-info-turn-off3 = Sayt düzgün işləmirsə, bu saytda HTTPS rejimini söndürməyə çalışın.
 identity-https-only-info-no-upgrade = Təhlükəsiz HTTPS bağlantısına yüksəltmək mümkün deyil.
 identity-permissions-storage-access-header = Saytlararası çərəzlər
@@ -570,6 +571,7 @@ popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr payla
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = { -brand-short-name } səyyahınızı paylaşırsınız. Yeni vərəqə keçsəniz başqaları bunu görəcəklər.
 sharing-warning-screen = Bütün ekranınızı paylaşırsınız.
 sharing-warning-proceed-to-tab =
     .label = Vərəqə keç
@@ -1066,6 +1068,9 @@ fullscreen-warning-no-domain = Bu sənəd artıq tam ekrandır
 fullscreen-exit-button = Tam erkandan çıx (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam erkandan çıx (esc)
+fullscreen-keyboardlock-exit-button = Tam Ekrandan çıx (Esc basılı tutun)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Tam Ekrandan çıx (Esc basılı tutun)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1123,9 +1128,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Əlfəcinlər
     .toolbarname = Əlfəcinlər Paneli
     .accesskey = B
-    .aria-label = Əlfəcinlər
 bookmarks-toolbar-menu =
     .label = Əlfəcin paneli
 bookmarks-toolbar-placeholder =
@@ -1607,6 +1612,7 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Bu səhifə { -brand-short-name }-u yavaşladır. Sürətləndirmək üçün bu səhifəni dayandırın.
 process-hang-nonspecific-tab-message = Bir veb-səhifə { -brand-short-name } səyyahını yavaşladır. Səyyahınızı sürətləndirmək üçün həmin səhifəni dayandırın.
 # Variables:
 #   $title (String): the title of the tab.
