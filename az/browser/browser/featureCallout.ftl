@@ -86,6 +86,18 @@ bookmarks-toolbar-callout-2b-primary-button-label = Açıq saxla
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = İndi yox
 
+## Perplexity callout strings
+
+perplexity-callout-primary-label = Perplexity-dən soruş
+perplexity-callout-secondary-label-1 = Qapat
+perplexity-callout-secondary-label-2 = Başa düşdüm
+
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-primary-label = Startpage-i yoxla
+start-page-callout-secondary-label = Qapat
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
