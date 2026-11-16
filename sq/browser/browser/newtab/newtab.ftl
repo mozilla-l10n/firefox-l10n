@@ -557,6 +557,13 @@ newtab-travel-menu-powered-by-kayak = Bazuar në Kayak
 ## can play solitaire, a card game for one player, also known as patience.
 ## Game displays within an iframe with name “Yahoo Solitaire”
 
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitaire
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Hapni menu Solitaire-i
+    .title = Hapni menu Solitaire-i
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Mësoni më tepër
 
@@ -901,6 +908,11 @@ newtab-custom-widget-horoscopes-toggle =
 # and car rentals.
 newtab-custom-widget-travel-toggle =
     .label = Udhëtim
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitaire
 newtab-custom-widget-section-title = Widget-e
 newtab-custom-widget-section-toggle =
     .label = Widget-e
@@ -1537,6 +1549,7 @@ newtab-widget-message-title = Mbani përqendrimin, me lista dhe kohëmatës të 
 newtab-widget-message-copy = Nga kujtues të shpejtë e deri te për-t’u-bërë të përditshme, nga sesione përqendrimi e deri te pushime — merruni me punë dhe ndiqni kohën.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Një vend për përqendrim, mot, etj
+newtab-widget-message-focus-forecasts-body = Mbajeni të rrjedhshme ditën tuaj, me widget-e { -brand-product-name }. Shihni motin, merruni me punët, ose ndiqni kohën anembanë rruzullit.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1614,6 +1627,7 @@ newtab-sports-widget-menu-key-dates = Data kyçe
 newtab-sports-widget-menu-learn-more = Mësoni më tepër
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Ndiqni Kupën e Botës
+newtab-sports-widget-get-updates = Merrni përditësime për ndeshje drejtpërsëdrejti, etj.
 newtab-sports-widget-follow-teams =
     .label = Ndiqni ekipe
 newtab-sports-widget-view-matches =
@@ -1827,6 +1841,7 @@ newtab-sports-widget-message-wallpapers-semifinals-body = Bëni gati atmosferën
 newtab-sports-widget-message-add-widgets-cta =
     .label = Shtoni widget-e
 newtab-sports-widget-message-day-in-play-title = Bëjeni ditën tuaj më dinamike me widget-e { -brand-product-name }-i
+newtab-sports-widget-message-day-in-play-body = Ndiqni Botërorin, përqendrohuni në punën që keni në dorë, ndiqni kohën anembanë rruzullit, etj.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Eksploroni widget-e
 
@@ -1851,6 +1866,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Kjo hapësirë u bindet rregullave tuaja
 newtab-activation-window-message-values-focus-message = { -brand-product-name }-i ju lejon të shfletoni si doni, me një mënyrë më personale për t’ia filluar ditës suaj në internet. Bëjeni { -brand-product-name }-in tuajin.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Shtoni penelin tuaj përfundimtar te { -brand-product-name }-i
+newtab-nova-customization-callout-message = Eksploroni tema dhe sfonde të çelët ose të errët, që e bëjnë { -brand-product-name }-in e ri ta ndjeni më tepër si tuajin.
+newtab-nova-customization-callout-primary-button =
+    .label = Zgjidhni pamjen tuaj
 
 ## Strings for the Clock widget
 
@@ -1909,6 +1934,9 @@ newtab-clock-widget-button-edit-clock =
     .aria-label = Përpunoni sahat
     .title = Përpunoni sahat
 newtab-clock-widget-button-save = Ruaje
+newtab-clock-widget-button-remove-clock =
+    .aria-label = Hiqe sahatin
+    .title = Hiqe sahatin
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
