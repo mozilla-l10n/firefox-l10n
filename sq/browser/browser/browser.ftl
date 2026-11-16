@@ -749,6 +749,65 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pyetni
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = E vizituar së fundi më { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] E vizituat së fundi { $daysAgo } ditë më parë
+       *[other] E vizituat së fundi { $daysAgo } ditë më parë
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] E vizituat së fundi { $weeksAgo } javë më parë
+       *[other] E vizituat së fundi { $weeksAgo } javë më parë
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] E vizituat së fundi { $monthsAgo } muaj më parë
+       *[other] E vizituat së fundi { $monthsAgo } muaj më parë
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = E vizituat së fundi më { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Faqeruajtur më { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Vizituar së fundi më { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Vizituar së fundi më { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Vizituar së fundi më { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -877,6 +936,8 @@ urlbar-searchmode-popup-one-off-header = Këtë herë kërko me:
 urlbar-searchmode-popup-header = Kërko me:
 urlbar-searchmode-popup-search-settings2 = Rregullime Mbi Kërkimin
 urlbar-searchmode-popup-settings2 = Rregullime
+urlbar-searchmode-popup-settings = Rregullime
+    .accesskey = R
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -892,6 +953,18 @@ urlbar-result-action-switch-to-tabgroup = Kalo te { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Hap { $group }
+
+## Used in the menu of a urlbar result.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Hape në Skedë të Re
+    .accesskey = H
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Hape në Skedë të Re Kontejneri
+    .accesskey = H
+urlbar-view-context-menu-open-in-window =
+    .label = Hape në Dritare të Re
+    .accesskey = H
 
 ## Labels shown above groups of urlbar results
 

@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importoni nga Tjetër
 contextual-manager-passwords-command-import = Importoni prej një Kartele…
 contextual-manager-passwords-command-export = Eksporto fjalëkalime
 contextual-manager-passwords-command-remove-all = Hiqini tërë fjalëkalimet
+contextual-manager-passwords-command-delete-all = Fshiji krejt fjalëkalimet
 contextual-manager-passwords-command-options = Mundësi
 contextual-manager-passwords-command-help = Ndihmë
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Të hiqen krejt { $total } fjalëkalim?
        *[other] Të hiqen krejt { $total } fjalëkalimet?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Të fshihet { $total } fjalëkalim?
+       *[other] Të fshihen { $total } fjalëkalime?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -118,6 +126,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Hiqe
        *[other] Hiqi Krejt
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Fshije
+        [one] Fshije
+       *[other] Fshiji krejt
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -131,6 +147,13 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] Kjo do të heqë fjalëkalimin e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara dhe do të heqë çfarëdo sinjalizimesh për cenime. Këtë veprim s’mund të zhbëni.
        *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] Kjo e fshin fjalëkalimin tuaj nga { -brand-short-name } në çdo pajisje që njëkohëson fjalëkalimet tuaja. S’mundeni ta zhbëni këtë.
+       *[other] Kjo i fshin ata nga { -brand-short-name } në çdo pajisje që njëkohëson fjalëkalimet tuaja. S’mundeni ta zhbëni këtë.
     }
 contextual-manager-passwords-origin-label = Sajt
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -175,12 +198,16 @@ contextual-manager-passwords-radiobutton-all = Krejt ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Sinjalizime ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Të hiqet fjalëkalimi?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Të fshihet fjalëkalimi?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = S’mund ta zhbëni këtë.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Mbrapsht
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Hiqi
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Fshije
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anuloje
 contextual-manager-passwords-alert-card =
@@ -212,6 +239,9 @@ contextual-manager-passwords-update-label =
     .label = Përditësoni fjalëkalimin
 contextual-manager-passwords-remove-label =
     .title = Hiqe fjalëkalimin
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Fshije fjalëkalimin
 contextual-manager-passwords-origin-field =
     .label = Adresë sajti
     .placeholder = https://www.example.com
@@ -327,6 +357,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Po, hiqe fjalëkalimin
         [one] Po, hiqe fjalëkalimin
        *[other] Po, hiqi fjalëkalimet
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Po, fshije fjalëkalimin
+        [one] Po, fshije fjalëkalimin
+       *[other] Po, fshiji fjalëkalimet
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Që të shihni fjalëkalimet tuaj të ruajtur, jepni fjalëkalimin tuaj parësor.

@@ -63,6 +63,30 @@ download-ui-confirm-quit-button =
         [windows] Выйсці з { -brand-short-name }
        *[other] Выйсці з { -brand-short-name }
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Спыніць сцягванне і перайсці ў рэжым па-за сеткаю?
+        [one] Спыніць { $downloadsCount } сцягванне і перайсці ў рэжым па-за сеткаю?
+        [few] Спыніць { $downloadsCount } сцягванні і перайсці ў рэжым па-за сеткаю?
+       *[many] Спыніць { $downloadsCount } сцягванняў і перайсці ў рэжым па-за сеткаю?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } паспрабуе ўзнавіць сцягванне пасля вяртання ў сетку, але прагрэс можа быць страчаны.
+download-ui-confirm-offline-button = Перайсці па-за сетку
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Спыніць сцягванне і закрыць прыватнае акно?
+        [one] Спыніць { $downloadsCount } сцягванне і закрыць гэта прыватнае акно?
+        [few] Спыніць { $downloadsCount } сцягванні і закрыць гэта прыватнае акно?
+       *[many] Спыніць { $downloadsCount } сцягванняў і закрыць гэта прыватнае акно?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Вы не зможаце ўзнавіць гэта сцягванне.
+        [one] Вы не зможаце ўзнавіць гэтыя сцягванні.
+        [few] Вы не зможаце ўзнавіць гэтыя сцягванні.
+       *[many] Вы не зможаце ўзнавіць гэтыя сцягванні.
+    }
+download-ui-confirm-private-browsing-button = Закрыць акно
 
 ##
 
