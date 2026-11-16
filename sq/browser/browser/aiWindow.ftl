@@ -328,9 +328,19 @@ aiwindow-feedback-disclaimer = Parashtrimi ndan me të tjerë përshtypjet tuaja
 aiwindow-feedback-submit = Parashtroje
 aiwindow-feedback-cancel = Anuloje
 aiwindow-feedback-reason-incorrect-or-misleading = E pasaktë, ose ngatërruese
+aiwindow-feedback-reason-doesnt-address-my-request = S’merret me kërkesën time
+aiwindow-feedback-reason-lacks-personalization = I mungon personalizimi, ose konteksti
+aiwindow-feedback-reason-performance-or-usability = Problem funksionimi, ose përdorimi
 aiwindow-feedback-reason-harmful-or-offensive = E dëmshme, ose fyese
 aiwindow-feedback-reason-other = Tjetër
 aiwindow-feedback-preview-report = Shihni hollësi fjalosjeje
+aiwindow-feedback-preview-report-with-page = Shihni hollësi fjalosje dhe faqeje
+aiwindow-feedback-include-page-content = Jep faqet e referuara në këtë fjalosje
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Ndërro skemë pamjeje
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
@@ -350,6 +360,12 @@ aiwindow-starter-browsing-compare = Krahasoni skeda
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
+aiwindow-starter-scroll-start =
+    .aria-label = Rrëshqit mbrapsht
+    .tooltiptext = Rrëshqitni mbrapsht
+aiwindow-starter-scroll-end =
+    .aria-label = Rrëshqit përpara
+    .tooltiptext = Rrëshqitni përpara
 # Dismisses a "pick up where you left off" resume-activity suggestion pill.
 # Variables:
 #   $text (String) - The suggestion headline being dismissed

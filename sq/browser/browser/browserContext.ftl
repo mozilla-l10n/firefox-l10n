@@ -338,6 +338,16 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Dërgoje në Celular
     .accesskey = D
+main-context-menu-send-to-mobile-connect-phone2 = Lidhni telefonin tuaj
+main-context-menu-send-to-mobile-device-missing2 = S’e Shihni Pajisjen Tuaj?
+main-context-menu-send-to-mobile-sign-in-from-link = Bëni hyrjen, që të Dërgohet një Lidhje
+main-context-menu-send-to-mobile-sign-in-from-page = Bëni hyrjen, që të Dërgohet një Faqe
+main-context-menu-send-to-mobile-enable-sync3 = Aktivizoni Njëkohësimin, që të Dërgohen Skeda
+main-context-menu-send-to-mobile-enable-sync-from-link = Aktivizoni Njëkohësimin, që të Dërgohet një Lidhje
+main-context-menu-send-to-mobile-enable-sync-from-page = Aktivizoni Njëkohësimin, që të Dërgohet një Faqe
+main-context-menu-send-to-mobile-connect-phone3 = Lidhni një Pajisje, që të Dërgohen Skeda
+main-context-menu-send-to-mobile-connect-phone-from-link = Lidhni një Pajisje, që të Dërgohet një Lidhje
+main-context-menu-send-to-mobile-connect-phone-from-page = Lidhni një Pajisje, që të Dërgohet një Faqe
 
 ##
 

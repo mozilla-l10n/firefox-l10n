@@ -39,6 +39,30 @@ download-ui-cancel-downloads-ok =
         [1] Скасаваць 1 сцягванне
        *[other] Скасаваць { $downloadsCount } загрузак (кі)
     }
+download-ui-confirm-cancel-button = Скасаваць
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Спыніць сцягванне і выйсці з { -brand-short-name }?
+                [one] Спыніць { $downloadsCount } сцягванне і выйсці з { -brand-short-name }?
+                [few] Спыніць { $downloadsCount } сцягванні і выйсці з { -brand-short-name }?
+               *[many] Спыніць { $downloadsCount } сцягванняў і выйсці з { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Спыніць сцягванне і выйсці з { -brand-short-name }?
+                [one] Спыніць { $downloadsCount } сцягванне і выйсці з { -brand-short-name }?
+                [few] Спыніць { $downloadsCount } сцягванні і выйсці з { -brand-short-name }?
+               *[many] Спыніць { $downloadsCount } сцягванняў і выйсці з { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } паспрабуе ўзнавіць сцягванне пасля паўторнага адкрыцця, але прагрэс можа быць страчаны.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Выйсці з { -brand-short-name }
+       *[other] Выйсці з { -brand-short-name }
+    }
 
 ##
 

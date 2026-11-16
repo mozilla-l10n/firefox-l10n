@@ -127,6 +127,14 @@ credit-card-capture-dismiss-button =
     .label = Адхіліць
     .accessKey = А
 
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Заўжды захоўваць коды бяспекі
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Не захоўваць коды бяспекі
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.

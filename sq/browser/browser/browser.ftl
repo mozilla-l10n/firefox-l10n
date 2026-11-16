@@ -26,6 +26,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administroni rregullime për flluska dhe ridrejtime nga palë të treta…
     .accesskey = A
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Shihni hollësi sajti
+            [1] Shihni hollësi sajti (1 gjurmues i bllokuar)
+           *[other] Shihni hollësi sajti ({ $count } gjurmues të bllokuar)
+        }
 # Caption shown in the native macOS share picker for the items being shared.
 # Variables:
 #   $count (Number) - The number of links being shared.
@@ -35,6 +44,24 @@ menu-share-links =
             [one] { $count } Lidhje
            *[other] { $count } Lidhje
         }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Mesazhe, Etj…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Mesazhe, Postë, Etj…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Ndajeni me të tjerë…
+    .accesskey = N
 urlbar-identity-button =
     .aria-label = Shihni hollësi sajti
 
@@ -98,6 +125,8 @@ urlbar-result-menu-tip-get-help2 = Merrni ndihmë
     .accesskey = d
 urlbar-result-menu-dismiss-suggestion2 = Hidhe tej këtë sugjerim
     .accesskey = H
+urlbar-result-menu-remove-top-site = Hiqe këtë sajt kryesues
+    .accesskey = k
 urlbar-result-menu-manage-firefox-suggest2 = Administroni { -firefox-suggest-brand-name }
     .accesskey = A
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -200,6 +229,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.
 urlbar-midi-blocked =
     .tooltiptext = E keni bllokuar hyrjen MIDI për këtë sajt.
+urlbar-serial-blocked =
+    .tooltiptext = Keni bllokuar hyrje në portë seriale për këtë sajt.
 urlbar-install-blocked =
     .tooltiptext = Ia keni bllokuar këtij sajti instalimin e shtesave.
 # Variables
@@ -218,6 +249,9 @@ urlbar-split-view-button =
 
 urlbar-menuitem-paste-and-go =
     .label = Ngjite dhe Vazhdo
+    .accesskey = N
+urlbar-menuitem-paste-and-search =
+    .label = Ngjite dhe Kërko
     .accesskey = N
 
 ## Searchbar context menu
@@ -305,6 +339,9 @@ quickactions-addons = Shihini Shtesa
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = zgjerime, tema, shtesa
+# Opens preferences page at AI controls
+quickactions-manageai = Administroni kontrolle IA
+quickactions-cmd-manageai = çaktivizo ia, ia-ja off, administroni ia
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administroni faqerojtës
 quickactions-cmd-bookmarks = faqerojtës
@@ -332,15 +369,24 @@ quickactions-cmd-inspector2 = mbikëqyrë, mjete zhvilluesi
 quickactions-colorpicker = Zgjidhni një ngjyrë
 # Opens Firefox Library
 quickactions-cmd-library = bibliotekë
+quickactions-library = Hap Bibliotekën
 # Opens about:logins
 quickactions-logins2 = Administroni fjalëkalime
 quickactions-cmd-logins = kredenciale hyrjesh, fjalëkalime
+# Mutes all tabs playing audio
+quickactions-mute = Heshto skeda që luajnë audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = heshtoje, shët, sus
 # Opens the print dialog
 quickactions-print2 = Shtypni faqe
 quickactions-cmd-print = shtype
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Ruaje faqen si PDF
 quickactions-cmd-savepdf2 = pdf, ruaje faqen
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Hap përpunues PDF-sh
 quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Hap dritare private
@@ -373,6 +419,9 @@ quickactions-cmd-update = përditësoje
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Shihni Burim Faqeje
 quickactions-cmd-viewsource2 = shihini burimin, burim, burim faqeje
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Hap { -firefoxlabs-brand-name }
+quickactions-cmd-labs = laboratorë, eksperiment
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Mësoni më tepër rreth Veprimesh të shpejta
@@ -456,6 +505,7 @@ identity-verifier-label2 = Verifikuar nga
 identity-ev-owner-label = Dëshmi lëshuar për:
 identity-verifier-label = Vërtetuar nga:
 identity-description-custom-root2 = Mozilla nuk e njeh këtë lëshues dëshmish. Mund të jetë shtuar nga sistemi juaj operativ ose nga një përgjegjës.
+identity-cert-exception-overridden = Keni shtuar përjashtim sigurie për këtë sajt.
 identity-remove-cert-exception =
     .label = Hiqeni Përjashtimin
     .accesskey = H
@@ -468,6 +518,8 @@ identity-description-passive-loaded-insecure2 = Ky sajt përmban lëndë që s'�
 identity-description-passive-loaded-mixed2 = Edhe pse { -brand-short-name }-i ka bllokuar një pjesë të lëndës, në këtë faqe prapë ka lëndë që s'është e siguruar (fjala vjen, figura).
 identity-description-active-loaded = Ky sajt përmban lëndë që s'është e siguruar (fjala vjen, programthe) dhe lidhja juaj me të s'është private.
 identity-description-active-loaded-insecure = Të dhënat që ndani me këtë sajt mund të shihen nga të tjerë (fjala vjen, fjalëkalime, mesazhe, karta krediti, etj.).
+identity-description-tls-key-logging-heading = Lidhja juaj mund të mos jetë private
+identity-description-tls-key-logging-message = Një aplikacion, apo  një shërbim mund të shohë trafikun tuaj të fshehtëzuar nga ky sajt.
 identity-more-info-link-text =
     .label = Më tepër hollësi
 
@@ -523,6 +575,7 @@ sharing-warning-disable-for-session =
 ## WebSerial "select a port" popup
 
 webserial-select-port-label = Përzgjidhni një portë seriale:
+webserial-no-ports-available = S’ka porta seriale të përdorshme
 
 ## URL Bar
 
