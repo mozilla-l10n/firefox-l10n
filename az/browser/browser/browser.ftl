@@ -491,7 +491,6 @@ identity-https-only-dropdown-off =
     .label = Sönülü
 identity-https-only-dropdown-off-temporarily =
     .label = Müvəqqəti sönülü
-identity-https-only-info-turn-on3 = Məxfiliyinizi və təhlükəsizliyinizi artırmaq üçün bu saytda HTTPS-i aktiv edin.
 identity-https-only-info-turn-off3 = Sayt düzgün işləmirsə, bu saytda HTTPS rejimini söndürməyə çalışın.
 identity-https-only-info-no-upgrade = Təhlükəsiz HTTPS bağlantısına yüksəltmək mümkün deyil.
 identity-permissions-storage-access-header = Saytlararası çərəzlər

@@ -654,3 +654,14 @@ hnt-card-pin-body =
        *[other] Вяртайцеся да абароненага аглядання з панэлі задач.
     }
 hnt-card-mobile-header = Атрымайце ўбудаваную ахову на сваім тэлефоне
+hnt-card-mobile-body = Сцягніце { -brand-product-name } для мабільных прылад, каб атрымаць дадатковую прыватнасць у дарозе.
+hnt-card-mobile-primary-button = Атрымаць { -brand-product-name } для мабільных прылад.
+hnt-card-wallpaper-header = Выберыце свежыя шпалеры
+hnt-card-wallpaper-body = Зрабіце гэты экран сваім, як дома, з дапамогай фону, які вам падабаецца.
+hnt-card-wallpaper-primary-button = Пачаць уладкаванне
+hnt-card-taskbar-tabs-header = Дадайце свае любімыя сайты на панэль задач Windows
+hnt-card-taskbar-tabs-body = Адкрывайце найчасцей наведаныя сайты як праграму з усёй аховай { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Дадаць сайты на панэль задач
+hnt-card-extensions-header = Узмацніце { -brand-short-name } пашырэннямі
+hnt-card-extensions-body = Уладкуйце сваё агляданне з дапамогай нашых самых улюбёных пашырэнняў.
+hnt-card-extensions-primary-button = Азнаёміцца
