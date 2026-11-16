@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = З { $midnightTime }
 clear-time-duration-value-today =
     .label = Сёння
+clear-time-duration-value-all-time =
+    .label = За ўвесь час
 clear-time-duration-value-everything =
     .label = Усё
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Гісторыю
+item-history-and-downloads2 =
+    .label = Гісторыя аглядання і сцягванняў
+    .accesskey = і
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Спіс наведаных сайтаў і сцягнутых файлаў
 item-history-and-downloads =
     .label = Гісторыя аглядання і сцягванняў
     .accesskey = а
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Кукі і дадзеныя сайтаў
     .accesskey = у
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Прыводзіць да выхаду і можа ачысціць кошыкі
 item-cookies-site-data-description = Можа прывесці да выхаду з сайтаў або ачысціць кошыкі
 item-active-logins =
     .label = Дзейныя ўваходы
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Кэш
     .accesskey = К
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Часовыя файлы ({ $amount } { $unit })
+    .accesskey = а
+item-cached-content2 =
+    .label = Часовыя файлы
+    .accesskey = а
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Дапамагае сайтам загружацца хутчэй
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Захаваная інфармацыя формы
     .accesskey = З
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Імёны, адрасы электроннай пошты і запісы ў формах
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Дазволы і налады сайтаў
 item-formdata-description = Ачышчае такія рэчы, як імёны, адрасы электроннай пошты і іншае, што вы ўводзіце ў формы
 item-site-prefs-description = Скідвае вашы дазволы і параметры сайтаў да зыходных налад
 data-section-label = Дадзеныя
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Пазасеткавыя дадзеныя вэб-сайтаў
     .accesskey = П
+sanitize-everything-undo-warning2 = Гэта нельга адмяніць.
 sanitize-everything-undo-warning = Гэта дзеянне нельга адмяніць.
 window-close =
     .key = w

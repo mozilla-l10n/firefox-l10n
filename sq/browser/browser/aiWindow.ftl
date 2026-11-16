@@ -152,8 +152,16 @@ aiwindow-firstrun-memories-conversation-body = Të nxënit nga fjalosjet do të 
 aiwindow-firstrun-memories-relevance-title = Përgjigjet më me peshë
 aiwindow-firstrun-memories-relevance-body = Të nxënit nga shfletimi i jep { -smart-window-brand-name } kuadër më të gjerë.
 aiwindow-firstrun-memories-privacy-title = I konceptuar privat
+aiwindow-firstrun-memories-privacy-body = Kujtesat ruhen në këtë pajisje. Fshijini, ose çaktivizojini kurdo.
+aiwindow-firstrun-memories-choose-label = Zgjidhni ç’mëson { -smart-window-brand-name } nga
 aiwindow-firstrun-memories-checkbox-chats = Fjalosje në { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Shfletim nëpër { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Përditësojeni kurdo, që nga rregullimet.
+aiwindow-firstrun-memories-no-create = E mora vesh. { -smart-window-brand-name } s’do të krijojë kujtesa. Përditësojeni te rregullimet kur të doni.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-subtitle = Shfletoni, kërkoni dhe pyetni që nga një vend. Mundeni prapë  të hapni Dritare Private dhe Klasike, kur doni.
 
 ## Ask Toolbar Button
 
