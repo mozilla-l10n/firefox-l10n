@@ -412,6 +412,8 @@ tab-groups-onboarding-session-restore-title-3 = Вы можаце ў любы �
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Вы можаце ў любы час зноў адкрыць групы картак з меню «Пералічыць усе карткі».
 tab-groups-onboarding-dismiss = Добра
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Групы картак захоўваюцца аўтаматычна. Іх можна знайсці тут.
 
 ## Multi Profiles feature onboarding messages
 
@@ -637,3 +639,18 @@ welcome-back-onboarding-card-label-tabs = Навядзіце парадак з 
 welcome-back-onboarding-card-label-vpn = Заставайцеся схаванымі дзякуючы убудаванаму VPN
 welcome-back-onboarding-card-label-pdf = Вылучайце, падпісвайце і працуйце з PDF-файламі
 welcome-back-onboarding-card-tilebutton-label = Паспрабаваць
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Наладзьце свой { -brand-short-name } за лічаныя секунды
+hnt-card-import-body = Перанясіце свае закладкі, паролі і іншае з іншага браўзера.
+hnt-card-import-primary-button = Імпартаваць вашы дадзеныя
+hnt-card-default-body = { -brand-product-name } — адзіны буйны браўзер, створаны для вашай абароны, а не для сачэння.
+hnt-card-default-primary-button = Адкрываць спасылкі ў { -brand-short-name }
+hnt-card-pin-header = Трымайце { -brand-short-name } на адлегласці аднаго націску
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Вяртайцеся да абароненага аглядання з доку.
+       *[other] Вяртайцеся да абароненага аглядання з панэлі задач.
+    }
+hnt-card-mobile-header = Атрымайце ўбудаваную ахову на сваім тэлефоне
