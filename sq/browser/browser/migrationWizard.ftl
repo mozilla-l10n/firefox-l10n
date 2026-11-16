@@ -29,6 +29,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 Secure Browser
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
+migration-wizard-migrator-display-name-self = { -brand-product-name }
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Fjalëkalim nga kartelë CSV
 migration-wizard-migrator-display-name-file-bookmarks = Faqerojtës nga kartelë HTML
@@ -50,6 +51,17 @@ migration-imported-edge-reading-list = Listë Leximesh (Prej Edge-it)
 migration-no-permissions-message = { -brand-short-name } s’hyn dot te profile shfletuesish të tjerë të instaluar në këtë pajisje.
 migration-no-permissions-instructions = Që të vazhdohet me importim të dhënash nga tjetër shfletues, akordojini { -brand-short-name }-it hyrje te dosja profil e tij.
 migration-no-permissions-instructions-step1 = Përzgjidhni “Vazhdo”
+# The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Te zgjedhësi i kartelave, zgjidhni “Hape”
+       *[other] Te zgjedhësi i kartelave, kaloni te <code>{ $permissionsPath }</code> dhe zgjidhni “Përzgjidhni”
+    }
 # The second step in getting permissions to read data for the selected
 # browser type.
 #

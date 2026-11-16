@@ -210,6 +210,11 @@ link-preview-settings-key-points =
 link-preview-settings-long-press =
     .label = Shkurtore: Klikojeni dhe mbajeni të shtypur lidhjen për 1 sekondë (shtypje e gjatë)
 # Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Kërko
+# Checkbox label for one of the actions in the menu that appears when selecting
 # text on a page. "Copy" is a verb: the action copies the selected text to the
 # clipboard.
 highlight-to-search-settings-copy =

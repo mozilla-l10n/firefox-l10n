@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Rregullime…
+menu-application-set-as-default =
+    .label = Vëre { -brand-shorter-name }-in si Shfletuesin Parazgjedhje
 menu-application-services =
     .label = Shërbime
 menu-application-hide-this =
@@ -98,6 +100,9 @@ menu-file-share-qrcode3 =
     .accesskey = K
 menu-file-share-qrcode =
     .label = Prodhoni Kod QR…
+    .accesskey = Q
+menu-file-share-qrcode2 =
+    .label = Prodho Kod QR
     .accesskey = Q
 menu-file-print-setup =
     .label = Rregullim Faqeje…
@@ -217,6 +222,8 @@ menu-history-show-all-history =
     .label = Shfaq Krejt Historikun
 menu-history-clear-recent-history =
     .label = Spastroni Historikun Së Fundi…
+menu-history-remote-tabs-promo =
+    .label = Skeda Prej Pajisjesh të Tjera
 menu-history-synced-tabs =
     .label = Skeda të Njëkohësuara
 menu-history-restore-last-session =
@@ -230,6 +237,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Kërko te Historiku
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Kërko Në Skeda
 
 ## Bookmarks Menu
 
@@ -238,6 +248,8 @@ menu-bookmarks-menu =
     .accesskey = F
 menu-bookmarks-manage =
     .label = Administroni Faqerojtës
+menu-bookmarks-remote-tabs-promo =
+    .label = Njëkohëso Faqerojtësit në Celular
 menu-bookmark-tab =
     .label = Faqeruani Skedën e Tanishme…
 menu-edit-bookmark =
@@ -253,6 +265,10 @@ menu-bookmarks-other =
     .label = Faqerojtës të Tjerë
 menu-bookmarks-mobile =
     .label = Faqerojtës Celulari
+# The native macOS menu may limit the number of entries. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Shfaq Më Tepër në Anështyllë
 
 ## Profiles Menu
 
@@ -303,6 +319,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Të dhëna Faqeje
     .accesskey = T
+menu-tools-edit-pdf =
+    .label = Përpunoni PDF…
+    .accesskey = P
 menu-settings =
     .label = Rregullime
     .accesskey =

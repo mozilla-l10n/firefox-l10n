@@ -268,11 +268,13 @@ launch-on-login-autostart-infobar-turn-off-button = Çaktivizoje
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-startup-checkbox = Hape { -brand-short-name }-in gjatë nisjes së sistemit
 launch-on-login-spotlight-pin-taskbar-checkbox = Fiksoje te paneli
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Hap dritare dhe skeda të mëparshme
+launch-on-login-spotlight-primary-button = Ruaje dhe mbylle { -brand-short-name }-in
 
 ## Tail Fox Set Default Spotlight
 

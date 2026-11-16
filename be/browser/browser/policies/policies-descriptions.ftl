@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Прадухіляць запуск даслед�
 policy-DisableForgetButton = Прадухіліць доступ да кнопкі «Забыць».
 policy-DisableFormHistory = Не запамінаць гісторыю пошуку і запаўнення формаў.
 policy-DisableLaunchOnLogin = Забараніць аўтаматычны запуск { -brand-short-name } пры ўваходзе карыстальніка ў сістэму.
+policy-DisableMacOSUserPolicies = Ігнараваць палітыкі з налад карыстальніка і з профіляў канфігурацыі з вобласцю дзеяння карыстальніка ў macOS.
 policy-DisablePrimaryPasswordCreation = Значэнне true не дазваляе стварыць галоўны пароль.
 policy-DisablePasswordReveal2 = Не дазваляць паказваць паролі ў захаваных лагінах або палях пароляў.
 policy-DisablePrivateBrowsing = Адключыць прыватнае агляданне.

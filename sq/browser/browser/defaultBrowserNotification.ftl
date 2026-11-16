@@ -43,3 +43,4 @@ default-browser-guidance-notification-v2-title = Përfundoni bërjen e { -brand-
 default-browser-guidance-notification-v2-body = Te Rregullimet, përzgjidhni “Vëre si parazgjedhje” për { -brand-short-name }-in.
 default-browser-guidance-notification-v2-title-only = Përfundoni bërjen e { -brand-short-name }-it shfletuesin tuaj parazgjedhje, te Rregullimet
 default-browser-guidance-notification-auto-trigger-title = Hapini lidhjet tuaja me { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Zgjidheni { -brand-short-name }-in si shfletuesin tuaj parazgjedhje, që nga Rregullimet.
