@@ -518,11 +518,12 @@ applications-use-app =
 applications-use-app-default =
     .label = { $app-name } istifadə olunsun (standart)
 applications-use-os-default =
-    { PLATFORM() ->
-        [macos] macOS standart tətbiqindən istifadə et
-        [windows] Windows standart tətbiqindən istifadə et
-       *[other] Sistem standart tətbiqindən istifadə et
-    }
+    .label =
+        { PLATFORM() ->
+            [macos] macOS standart tətbiqindən istifadə et
+            [windows] Windows standart tətbiqindən istifadə et
+           *[other] Sistem standart tətbiqindən istifadə et
+        }
 applications-use-other =
     .label = Başqasından istifadə et…
 applications-select-helper = Köməkçi proqramı seçin
@@ -777,7 +778,6 @@ home-newtabs-mode-label = Yeni vərəqlər
 home-restore-defaults =
     .label = İlkin vəziyyəti bərpa et
     .accesskey = R
-home-mode-choice-default-fx = { -brand-short-name } Əsas Səhifəsi (Standart)
 home-mode-choice-custom =
     .label = Fərdi Ünvanlar…
 home-mode-choice-blank =
@@ -850,14 +850,14 @@ home-prefs-content-header2 = { -firefox-home-brand-name } içerikleri
 home-prefs-content-description2 = { -firefox-home-brand-name } ekranınızda görmek istediğiniz içerikleri seçin.
 home-prefs-search-header =
     .label = Web Axtarış
-home-prefs-shortcuts-header = Qısayollar
+home-prefs-shortcuts-header =
+    .label = Qısayollar
 home-prefs-shortcuts-description = Tez-tez ziyarət etdiyiniz saytlar
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorlaşdırılmış qısayollar
 home-prefs-recommended-by-header-generic =
     .label = Önerilen makaleler
 home-prefs-recommended-by-description-generic = { -brand-product-name } ailesinin seçtiği harika içerikler
-home-prefs-stories-header = Pocket tərəfindən tövsiyə olunur
 home-prefs-stories-description = İnternetin ən maraqlı məqalələri
 
 ##
@@ -874,7 +874,8 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-recent-activity-header =
     .label = Son fəaliyyət
 home-prefs-recent-activity-description = Son kullanılan siteler ve içeriklerden bir seçki
-home-prefs-weather-header = Hava proqnozu
+home-prefs-weather-header =
+    .label = Hava proqnozu
 home-prefs-weather-description = Yerli hava məlumatları
 home-prefs-weather-learn-more-link = Ətraflı məlumat al
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
@@ -1340,7 +1341,8 @@ forms-saved-passwords-2 =
     .accesskey = a
 forms-saved-passwords-searchkeywords = Aşağıdaki sitelerin giriş bilgileri bilgisayarınızda kayıtlıdır
 # Header for additional protections when managing password settings.
-forms-additional-protections-header = Əlavə qoruma
+forms-additional-protections-header =
+    .label = Əlavə qoruma
 forms-primary-pw-use =
     .label = Baş paroldan istifadə et
     .accesskey = U
@@ -1409,7 +1411,8 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-autofill-payment-methods-header = Ödəniş üsulları
+autofill-payment-methods-header =
+    .aria-label = Ödəniş üsulları
 autofill-payment-methods-checkbox-message-2 =
     .label = Ödeme bilgilerini saxla ve otomatik doldur
     .accesskey = Ö
@@ -1443,9 +1446,12 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Heç bir ödəniş üsulu saxlanılmayıb
-autofill-addresses-checkbox-message = Ünvanları avtomatik doldur
+autofill-addresses-checkbox-message =
+    .label = Ünvanları avtomatik doldur
+    .accesskey = a
 autofill-addresses-manage-addresses-button =
     .label = Saxlanılmış ünvanlar…
+    .accesskey = S
 addresses-list-header =
     .label = Ünvanlar
 addreses-delete-address-button-label =
@@ -1456,7 +1462,8 @@ addresses-delete-address-prompt-title = Bu ünvan silinsin?
 addresses-delete-address-prompt-confirm-button = Sil
 addresses-delete-address-prompt-cancel-button = Ləğv et
 autofill-addresses-add-button = { "" }
-autofill-addresses-manage-addresses-title = Saxlanılmış ünvanlar
+autofill-addresses-manage-addresses-title =
+    .heading = Saxlanılmış ünvanlar
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Heç bir ünvan əlavə edilməyib
@@ -1766,8 +1773,6 @@ content-blocking-warning-learn-how = Nasıl yapılacağını öğrenin
 content-blocking-baseline-exceptions-3 =
     .description = Yalnızca takip kodu içerebilecek temel öğelerin engelini kaldırarak sitelerin ve özelliklerin yüklenmesine yardımcı olur. En yaygın sorunları kapsar.
     .label = Önemli site sorunlarını düzelt (önerilir)
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
-content-blocking-convenience-exceptions-3 = Bəzi saytların düzgün işləməsi üçün istisnalara icazə verin.
 content-blocking-baseline-uncheck-warning-dialog-title = Qorumanı söndürmək istəyirsiniz?
 content-blocking-baseline-uncheck-warning-dialog-body = Bu qorumanı söndürmək məxfiliyinizə təsir edə bilər.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Düzeltmeleri qapat
@@ -1776,7 +1781,9 @@ content-blocking-reload-description = Dəyişikliklərin qüvvəyə minməsi ü�
 content-blocking-reload-tabs-button =
     .label = Bütün Vərəqləri Yenilə
     .accesskey = R
-content-blocking-tracking-content-label = İzləmə məzmunu
+content-blocking-tracking-content-label =
+    .label = İzləmə məzmunu
+    .accesskey = m
 content-blocking-tracking-protection-option-all-windows =
     .label = Bütün pəncərələrdə
     .accesskey = B
@@ -2228,7 +2235,6 @@ preferences-ai-controls-block-ai-label = Sİ təkmilləşdirmələrini əngəll�
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Əngəlləmək o deməkdir ki, siz { -brand-short-name } səyyahında yeni və ya hazırkı Sİ təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz. Təkmilləşdirmələrə nələrin daxil edildiyi və axtarış təklifləri, tövsiyələr kimi ənənəvi maşın öyrənməsi funksiyalarına necə nəzarət etmə barədə <a data-l10n-name="link">ətraflı məlumat əldə edin</a>.
-preferences-ai-controls-blocked-message = AI xüsusiyyətləri inzibatçınız tərəfindən əngəllənib.
 preferences-ai-controls-on-device-group =
     .description = Bunlar özəllikdən istifadə etdiyiniz zaman cihazınıza yüklənən kiçik süni intellekt modellərindən istifadə edir. Bu yanaşma məxfiliyinizi qorumağa kömək edir.
     .label = Daxili Süni İntellekt
@@ -2236,18 +2242,12 @@ preferences-ai-controls-translations-control =
     .description = Üstünlük verdiyiniz dildə kəsintisiz veb səyahət edin.
     .label = Tərcümələr
 preferences-ai-controls-translations-more-link = Daha çox tərcümə tənzimləməsi
-preferences-ai-controls-pdfjs-control =
-    .label = PDF xülasəsi
 preferences-ai-controls-tab-group-suggestions-control =
     .description = Sekmelerinizi adlandırmak ve organize etmek üçün öneriler alabilirsiniz.
     .label = Vərəq grubu önerileri
-preferences-ai-controls-key-points-control =
-    .label = Əsas məqamlar xülasəsi
 preferences-ai-controls-speech-recognition-control =
     .description = Konuşmayı bu cihazda metne dönüştür.
     .label = Konuşma tanıma
-preferences-ai-controls-sidebar-chatbot-group-3 =
-    .label = Süni intellekt çat-bot yan paneli
 preferences-ai-controls-sidebar-chatbot-group =
     .description = Səyahət edərkən bir söhbət botunu görünən vəziyyətdə saxlayın. Anthropic Claude, ChatGPT, Copilot, Google Gemini və Le Chat Mistral arasında seçim edin.
     .label = Yan paneldə Sİ söhbət botu təminatçıları
@@ -2278,7 +2278,8 @@ preferences-ai-controls-block-confirmation-speech-recognition = Yerli nitq tanı
 preferences-ai-controls-block-confirmation-features-after = və digər AI xüsusiyyətləri.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Ləğv et
-preferences-ai-controls-block-confirmation-confirm = Əngəllə
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Əngəllə
 preferences-ai-controls-header3 =
     .heading = Süni intellekt idarəetmələri
 

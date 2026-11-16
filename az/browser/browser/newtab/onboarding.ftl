@@ -36,7 +36,8 @@ mr1-return-to-amo-add-extension-label = { $addon-name } əlavə et
 
 ## Multistage onboarding strings (about:welcome pages)
 
-onboarding-welcome-steps-indicator-label = Addım { $current } / { $total }
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Addım { $current } / { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Hərəkəti azalt
 # String for the Firefox Accounts button
@@ -70,22 +71,6 @@ onboarding-animation-play-button =
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of system theme
-mr1-onboarding-theme-tooltip-system = Sistem mövzusu
-# Input description for system theme
-mr1-onboarding-theme-description-system = Əməliyyat sisteminizin görünüşünə uyğunlaşır.
-# Tooltip displayed on hover of light theme
-mr1-onboarding-theme-tooltip-light = İşıqlı mövzu
-# Input description for light theme
-mr1-onboarding-theme-description-light = Təmiz və aydın işıqlı mövzu.
-# Tooltip displayed on hover of dark theme
-mr1-onboarding-theme-tooltip-dark = Qaranlıq mövzu
-# Input description for dark theme
-mr1-onboarding-theme-description-dark = Gözləri yormayan qaranlıq mövzu.
-# Tooltip displayed on hover of Alpenglow theme
-mr1-onboarding-theme-tooltip-alpenglow = Alpenglow mövzusu
-# Input description for Alpenglow theme
-mr1-onboarding-theme-description-alpenglow = Qürub rəngləri ilə parlaq qradiyent.
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Standart mövzu
 
@@ -224,14 +209,6 @@ onboarding-infrequent-import-primary-button = { -brand-short-name }-a idxal et
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
-mr2022-onboarding-pin-image-alt = { "" }
-mr2022-onboarding-default-image-alt = { "" }
-mr2022-onboarding-import-image-alt = { "" }
-mr2022-onboarding-mobile-download-image-alt = { "" }
-mr2022-onboarding-pin-private-image-alt = { "" }
-mr2022-onboarding-privacy-segmentation-image-alt = { "" }
-mr2022-onboarding-gratitude-image-alt = { "" }
-
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
@@ -313,14 +290,6 @@ onboarding-existing-vertical-tabs-label = Şaquli vərəqləri sınayın
 onboarding-flair-text = Yeni!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Üfüqi vərəqləri saxla
-# Tooltip displayed on hover for vertical tabs image
-onboarding-vertical-tabs-tooltip = Şaquli vərəqlər
-# Description for vertical tabs image
-onboarding-vertical-tabs-description = Daha çox vərəqi aydın görmək üçün şaquli düzülüş.
-# Tooltip displayed on hover for horizontal tabs image
-onboarding-horizontal-tabs-tooltip = Üfüqi vərəqlər
-# Description for horizontal tabs image
-onboarding-horizontal-tabs-description = Klassik üfüqi vərəqlər görünüşü.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Süni intellekt köməkçisi ilə kəşf edin
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
@@ -382,7 +351,6 @@ desktop-to-mobile-headline = Mobil üçün { -brand-product-name } əldə edin
 desktop-to-mobile-subtitle = Tətbiqi endirmək üçün kameranızla QR kodu skan edin.
 dismiss-button-label = Rədd et
 sync-to-mobile-button-label = Mobilə sinxronlaşdır
-desktop-to-mobile-qr-code-alt = { "" }
 
 ## Fx Backup onboarding: Create Backup spotlight
 
@@ -396,7 +364,8 @@ create-backup-screen-1-backup-label = Ehtiyat nüsxəsi yaradın
 create-backup-screen-1-backup-body = Tarixçənizi, əlfəcinlərinizi, parollarınızı və daha çoxunu saxlayın.
 create-backup-select-tile-button-label = Seç
 create-backup-back-button-label = Geri
-create-backup-show-fewer = Daha az göstər
+create-backup-show-fewer =
+    .label = Daha az göstər
 create-backup-screen-2-title = Nüsxələnəcək məlumatları seçin
 create-backup-screen-2-subtitle = Hansı məlumatların nüsxəsini saxlamaq istədiyinizi seçin.
 # Label for the "Easy setup" backup option
@@ -540,8 +509,6 @@ smartwindow-existing-user-fx-tou-go-back = Geri qayıt
 smartwindow-onboarding-title = Ağıllı Pəncərələrlə tanış olun
 smartwindow-onboarding-subtitle = Pəncərələrinizi və vərəqlərinizi avtomatik təşkil edin.
 smartwindow-onboarding-primary-button = Başla
-# Kit is referring to the Firefox mascot
-smartwindow-onboarding-image-alt = { "" }
 
 ## Smart Window Sidebar Auto-Open Pref
 

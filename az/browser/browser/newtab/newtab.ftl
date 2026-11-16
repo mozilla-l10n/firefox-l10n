@@ -152,6 +152,7 @@ newtab-privacy-menu-learn-more = Ətraflı öyrən
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
     .title = Məxfilik menyusunu aç
+    .aria-label = Məxfilik menyusunu aç
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -1141,18 +1142,22 @@ newtab-weather-sponsored = { $provider } ∙ Sponsorlu
 # widget's menu.
 newtab-weather-widget-open-menu-button =
     .title = Hava menyusunu aç
+    .aria-label = Hava menyusunu aç
 newtab-weather-menu-change-location = Məkanı dəyiş
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Məkan axtar
+    .aria-label = Məkan axtar
 # "Back" is an icon-only button next to the location search field that returns to the widget.
 newtab-weather-search-back-button =
     .title = Geri
+    .aria-label = Geri
 # Screen reader label for the dropdown below the location search field that
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Məkan təklifləri
 newtab-weather-cancel-input =
     .title = İmtina
+    .aria-label = İmtina
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Cari məkanı istifadə et

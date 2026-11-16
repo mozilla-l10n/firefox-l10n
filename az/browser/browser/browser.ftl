@@ -25,6 +25,7 @@ popups-infobar-dont-show-message2 =
     .accesskey = D
 edit-popup-settings2 =
     .label = Tənzimləmələri Redaktə Et…
+    .accesskey = T
 # Variables
 #   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
 urlbar-identity-button2 =
@@ -454,6 +455,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button2 =
     .label = Saxla
+    .accesskey = S
 bookmark-panel-save-button =
     .label = Saxla
 # Width of the bookmark panel.
@@ -1127,6 +1129,7 @@ bookmarks-subview-edit-bookmark =
 bookmarks-toolbar =
     .toolbarname = Əlfəcinlər Paneli
     .accesskey = B
+    .aria-label = Əlfəcinlər
 bookmarks-toolbar-menu =
     .label = Əlfəcin paneli
 bookmarks-toolbar-placeholder =
@@ -1321,14 +1324,17 @@ popups-infobar-allow2 =
 
 picture-in-picture-hide-toggle =
     .label = Şəkil-içində-şəkil keçidini gizlət
+    .accesskey = g
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
     .label = Şəkil-içində-şəkil keçidini sağ tərəfə köçür
+    .accesskey = a
 picture-in-picture-move-toggle-left =
     .label = Şəkil-içində-şəkil keçidini sol tərəfə köçür
+    .accesskey = l
 
 ##
 
@@ -1362,6 +1368,7 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Yeni vərəq
 tabs-toolbar-list-all-tabs-2 =
+    .label = Bütün vərəqləri axtarın və idarə edin
     .tooltiptext = Bütün vərəqləri axtarın və idarə edin
 tabs-toolbar-list-all-tabs =
     .label = Bütün vərəqləri siyahıla
@@ -1492,8 +1499,10 @@ fire-button-panel-choose-description = Hər şeyi silmək istəmirsinizsə, bunu
 fire-button-panel-choose-link = Seç…
 fire-button-panel-cancel-button =
     .label = İmtina
+    .accesskey = m
 fire-button-panel-confirm-button =
     .label = Məlumatları sil
+    .accesskey = s
 fire-button-panel-complete = Səyyah məlumatları silindi
 fire-button-toolbar-button2 =
     .label = Məlumatları təmizlə
