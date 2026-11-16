@@ -1170,6 +1170,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Eşitleniyor…
     .title = Şimdi eşitle
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Eşitleme tercihleriniz artık yalnızca bu cihaz için geçerli.
 
 ## The list of things currently syncing.
 
