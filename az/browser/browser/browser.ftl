@@ -22,6 +22,20 @@ browser-main-private-window-title =
 browser-main-private-suffix-for-content = Məxfi Səyahət
 edit-popup-settings2 =
     .label = Tənzimləmələri Redaktə Et…
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } keçid
+           *[other] { $count } keçid
+        }
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Paylaş…
+    .accesskey = p
 urlbar-identity-button =
     .aria-label = Sayt məlumatlarını gör
 
