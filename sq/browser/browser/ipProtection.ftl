@@ -30,7 +30,10 @@ ipprotection-feature-introduction-title-privacy = Shtoni një tjetër shtresë p
 ipprotection-feature-introduction-title-privacy-1 = Shtoni një tjetër shtesë privatësie, me VPN të brendshme
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ja e brendshme e { -brand-product-name }-it</a> ndihmon të mbrohet shfletimi juaj. Zgjidhni nga një sërë vendndodhjesh të ndryshme, për ta mbajtur më privat faktin se ku shfletoni.
 ipprotection-feature-introduction-link-text-privacy-3 = Merrni <a data-l10n-name="learn-more-vpn">privatësi ekstra</a>, duke zgjedhur nga një shumicë vendndodhjesh për të fshehur se ku shfletoni.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Ndihmoni të fshihet vendndodhja juaj, për <a data-l10n-name="learn-more-vpn">privatësi shtesë</a>, teksa shfletoni. Aktivizoni, ose çaktivizoni VPN-në për sajte të caktuar.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja, edhe kur gjendeni në një Dritare Private.
+ipprotection-feature-introduction-description-captive-portal = Shfletoni me mbrojtje shtesë, duke fshehur vendndodhjen tuaj, madje edhe në Wi-Fi publik.
 ipprotection-feature-introduction-button-primary = Pasuesja
 ipprotection-feature-introduction-button-secondary-not-now = Jo tani
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -44,8 +47,18 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Hape VPN-në
 ipprotection-feature-introduction-button-get-started = Fillojani
 
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maksimizoni privatësinë me VPN-në e brendshme të { -brand-product-name }-it
+
 ## Summer promo offramp callout buttons
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Kufijtë e VPN-së tuaj të brendshme rikthehen te parazgjedhjet më 1 shtator
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = VPN-ja juaj e brendshme sapo u përmirësua
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Hape VPN-në
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Vëre si parazgjedhje
 ipprotection-summer-promo-offramp-get-subscription-button = Merrni { -mozilla-vpn-brand-name }
@@ -197,7 +210,13 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Jeni thuajse pa 
 ip-protection-description =
     .description = VPN e brendshme për të zgjeruar privatësinë tuaj teksa shfletoni në { -brand-short-name }.
     .label = VPN
+ip-protection-description-1 =
+    .description = Gëzoni privatësi shtesë duke fshehur vendndodhjen tuaj teksa shfletoni.
+    .label = VPN e brendshme
 ip-protection-learn-more = Mësoni më tepër
+ip-protection-not-opted-in-4 =
+    .heading = Provoni VPN-në e brendshme të { -brand-short-name }-it
+    .message = Shfletoni me mbrojtje shtesë, duke fshehur vendndodhjen tuaj.
 ip-protection-not-opted-in-button = Fillojani
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -210,6 +229,14 @@ ip-protection-site-exceptions-all-sites-button =
     .label = Administroni rregullime sajti
 ip-protection-site-rules-header-1 =
     .heading = Administroni rregulla VPN-je
+ip-protection-site-rules-button-1 =
+    .description = Caktoni rregulla për sajte ku duhet privatësi shtesë, ose ky VPN-ja duhet çaktivizuar.
+    .label = Administroni rregulla VPN-je
+ip-protection-site-rules-list-section-1 =
+    .description = Caktoni rregulla për aktivizim, ose çaktivizim vetvetiu të VPN-së.
+    .label = Rregulla sajtesh
+ip-protection-site-rules-add-button =
+    .label = Caktoni rregull
 ip-protection-site-rules-delete-all-button =
     .label = Fshiji krejt rregullat
 ip-protection-site-rules-empty = Rregullat që caktoni do të duken këtu.
@@ -236,14 +263,22 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .description = Zgjidhni vendndodhje vetjake VPN dhe shtoni mbrojtje te krejt aplikacionet tuaja për deri në pesë pajisje, qoftë kur jeni në shtëpi, apo në Wi-Fi publik.
     .label = Merrni edhe më tepër mbrojtje jashtë { -brand-short-name }-it, me { -mozilla-vpn-brand-name }
+ip-protection-vpn-upgrade-link-1 =
+    .description = Zgjidhni mes mbi 300 vendndodhjes dhe mbrojini krejt aplikacionet tuaja në deri 5 pajisje.
+    .label = Shpjereni më tej mbrojtjen, me { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Administroni rregullime sajti
 ip-protection-exclusions-desc = Përdor VPN për krejt sajtet, hiq ata në këtë listë. Shtoni këtu një sajt, ose duke hapur VPN-në.
+ip-protection-site-rule-window =
+    .title = Caktoni rregull
 ip-protection-edit-site-rule-window =
     .title = Përpunoni rregullin
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Caktoje
+    .buttonaccesskeyaccept = C
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Ruaje
     .buttonaccesskeyaccept = R
@@ -290,6 +325,11 @@ ip-protection-delete-site-rule-retry =
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Edhe { $usageLeft } GB nga { $maxUsage } GB këtë muaj
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = Edhe <span data-l10n-name="usage">{ $usageLeft } GB</span> nga { $maxUsage } GB gjithsej
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -298,6 +338,11 @@ ip-protection-bandwidth-left-gb = Edhe { $usageLeft } nga { $maxUsage } GB
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Edhe { $usageLeft } MB nga { $maxUsage } GB këtë muaj
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Edhe <span data-l10n-name="usage">{ $usageLeft } MB</span> nga { $maxUsage } GB gjithsej
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -329,11 +374,15 @@ vpn-paused-alert-title = VPN-ja u ndal
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi i VPN-së do të rifillohet muajin që vjen.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi do të rifillohet muajin që vjen.
 vpn-error-page-continue-description = Zgjidhni si të vazhdohet pa VPN
 vpn-error-page-keep-browsing = Vazhdo shfletimin në këtë sesion
 vpn-error-page-new-session = Nis një sesion të ri
 vpn-paused-alert-close-tabs-button = Mbylli krejt skedat
 vpn-paused-alert-continue-wo-vpn-button = Vazhdo pa VPN
 vpn-error-alert-title-1 = VPN-ja dhe rregullat s’funksionojnë tani për tani.
+vpn-error-alert-body-1 = Aktivizimi dhe çaktivizimi i VPN-së mund ta ndreqë problemin.
 vpn-error-alert-title = VPN-ja s’është duke funksionuar.
 vpn-error-alert-body = Riprovoni më vonë.
