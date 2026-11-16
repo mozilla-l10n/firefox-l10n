@@ -5,6 +5,11 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Məxfi Səyahət
+# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+browser-shortcut-description = Sürətli və məxfi veb səyahəti
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
+browser-main-window-default-title = { -brand-full-name }
 # Note: only on macOS do we use a `-` separator between the brand name and the
 # "Private Browsing" suffix.
 browser-main-private-window-title =
@@ -15,6 +20,8 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Məxfi Səyahət
+edit-popup-settings2 =
+    .label = Tənzimləmələri Redaktə Et…
 urlbar-identity-button =
     .aria-label = Sayt məlumatlarını gör
 
@@ -212,38 +219,103 @@ search-one-offs-actions =
 ## the action. English commas should be used, i.e. ,
 
 # Opens the about:addons page in the home / recommendations section
-quickactions-addons = Əlavələri gör
+quickactions-addons = Əlavələrə bax
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-addons3 = uzantılar, mövzular, əlavələr
+quickactions-cmd-addons3 = uzantılar, mövzular, əlavələr, uzantı
+# Opens preferences page at AI controls
+quickactions-manageai = AI nəzarətini idarə et
+quickactions-cmd-manageai = ai söndür, ai qapat, ai idarə et
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Yaxın tarixçəni təmizlə
+quickactions-cmd-clearrecenthistory2 = çərəzlər, çərəzləri təmizlə, keş, keşi təmizlə, səyahət məlumatları, tarixçə, yaxın tarixçəni təmizlə
 # Opens about:downloads page
 quickactions-downloads2 = Endirmələrə bax
-quickactions-cmd-downloads = endirilənlər
+quickactions-cmd-downloads = endirmələr
 # Opens about:addons page in the extensions section
 quickactions-extensions = Uzantıları idarə et
-quickactions-cmd-help = yardım, dəstək
+quickactions-cmd-extensions2 = uzantılar, əlavələr
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } Aç
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } aç, { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } kömək
+quickactions-cmd-help = kömək, dəstək
+# Opens the devtools web inspector
+quickactions-inspector2 = Tərtibatçı Alətlərini Aç
+quickactions-cmd-inspector2 = təftişçi, devtools, tərtibatçı alətləri
 # Opens the devtools eyedropper to pick a color from the page
-quickactions-colorpicker = Rəng seçin
-quickactions-library = Kitabxananı aç
+quickactions-colorpicker = Rəng seç
+quickactions-cmd-colorpicker = rəng seçici, pipetka, rəng seç
+# Opens Firefox Library
+quickactions-cmd-library = kitabxana
+quickactions-library = Kitabxananı Aç
+# Opens about:logins
+quickactions-logins2 = Parolları idarə et
+quickactions-cmd-logins = girişlər, parollar
+# Mutes all tabs playing audio
+quickactions-mute = Səs oynadan vərəqlərin səsini kəs
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = səssiz, səsi kəs
 # Opens the print dialog
 quickactions-print2 = Səhifəni çap et
-quickactions-cmd-print = çap et
+quickactions-cmd-print = çap
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Səhifəni PDF kimi saxla
 quickactions-cmd-savepdf2 = pdf, səhifəni saxla
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = PDF redaktorunu aç
+quickactions-cmd-editpdf = pdf
+# Opens a new private browsing window
+quickactions-private2 = Məxfi pəncərə aç
 quickactions-cmd-private = məxfi səyahət
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = { -brand-short-name } yenilə
 quickactions-cmd-refresh = yenilə
+# Restarts the browser
+quickactions-restart = { -brand-short-name } yenidən başlat
 quickactions-cmd-restart = yenidən başlat
 # Opens the screenshot tool
 quickactions-screenshot3 = Ekran görüntüsü al
+quickactions-cmd-screenshot2 = ekran görüntüsü, ekran şəkli
+# Opens about:translations
+quickactions-translate = Tərcümə et
+quickactions-cmd-translate = tərcümə et
 # Opens about:preferences
 quickactions-settings2 = Tənzimləmələri idarə et
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = tənzimləmələr, nizamlamalar, seçimlər, idarə et
 # Opens about:addons page in the themes section
 quickactions-themes = Mövzuları idarə et
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = mövzular, əlavələr
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = { -brand-short-name } yenilə
+quickactions-cmd-update = yenilə
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Səhifənin qaynağına bax
+quickactions-cmd-viewsource2 = qaynağa bax, qaynaq, səhifə qaynağı
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } Aç
+quickactions-cmd-labs = laboratoriya, eksperiment
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Sürətli fəaliyyətlər haqqında ətraflı öyrənin
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Seçmək üçün tab düyməsini basın:
 
 ## Bookmark Panel
 
@@ -264,6 +336,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Yadda saxlarkən redaktoru göstər
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = Saxla
 bookmark-panel-save-button =
     .label = Saxla
 # Width of the bookmark panel.
@@ -284,6 +358,17 @@ identity-custom-root = Bağlantı Mozilla tərəfindən tanınmamış sertifikat
 identity-passive-loaded = Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.
 identity-active-loaded = Bu səhifədə qorumanı söndürmüsünüz.
 identity-weak-encryption = Bu səhifə zəif şifrləmə istifadə edir.
+identity-https-only-connection-upgraded = Təkmilləşdirilmiş HTTPS bağlantısı
+identity-https-only-label2 = Avtomatik olaraq təhlükəsiz bağlantıya yüksəldin
+identity-https-only-dropdown-on =
+    .label = Açıq
+identity-https-only-dropdown-off =
+    .label = Sönülü
+identity-https-only-dropdown-off-temporarily =
+    .label = Müvəqqəti sönülü
+identity-https-only-info-turn-on3 = Məxfiliyinizi və təhlükəsizliyinizi artırmaq üçün bu saytda HTTPS-i aktiv edin.
+identity-https-only-info-turn-off3 = Sayt düzgün işləmirsə, bu saytda HTTPS rejimini söndürməyə çalışın.
+identity-https-only-info-no-upgrade = Təhlükəsiz HTTPS bağlantısına yüksəltmək mümkün deyil.
 identity-permissions-storage-access-header = Saytlararası çərəzlər
 identity-permissions-storage-access-hint = Aşağıdakı tərəflər siz bu saytda olarkən saytlararası çərəzlər və sayt məlumatlarından istifadə edə bilər.
 identity-permissions-storage-access-learn-more = Ətraflı öyrənin
@@ -324,10 +409,26 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Əlfəcinləri idxal et…
     .tooltiptext = Əlfəcinləri başqa brauzerdən { -brand-short-name } proqramına idxal edin.
+bookmarks-toolbar-empty-message = Sürətli giriş üçün əlfəcinlərinizi buraya, əlfəcinlər panelinə yerləşdirin. <a data-l10n-name="manage-bookmarks">Əlfəcinləri idarə et…</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Dinamiklər
 popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr paylaşılacaq.
+
+## WebRTC window or screen share tab switch warning
+
+sharing-warning-window = Bu pəncərəni paylaşırsınız.
+sharing-warning-screen = Bütün ekranınızı paylaşırsınız.
+sharing-warning-proceed-to-tab =
+    .label = Vərəqə keç
+sharing-warning-disable-for-session =
+    .label = Bu seans üçün paylaşma qorumasını söndür
 
 ## URL Bar
 
@@ -438,10 +539,14 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = Şəkildə şəkil rejimində aç ({ $shortcut })
+    .tooltiptext = Şəkil-içində-şəkili aç ({ $shortcut })
 picture-in-picture-urlbar-button-close =
-    .tooltiptext = Şəkil içində şəkli bağla ({ $shortcut })
-picture-in-picture-panel-header = Şəkil içində şəkil
+    .tooltiptext = Şəkil-içində-şəkili qapat ({ $shortcut })
+picture-in-picture-panel-header = Şəkil-içində-şəkil
+picture-in-picture-panel-headline = Bu veb-sayt Şəkil-içində-şəkili tövsiyə etmir
+picture-in-picture-panel-body = Şəkil-içində-şəkil aktiv olduqda videolar tərtibatçının nəzərdə tutduğu kimi göstərilməyə bilər.
+picture-in-picture-enable-toggle =
+    .label = Yenə də aktiv et
 
 ## Full Screen and Pointer Lock UI
 
@@ -453,6 +558,9 @@ fullscreen-warning-no-domain = Bu sənəd artıq tam ekrandır
 fullscreen-exit-button = Tam erkandan çıx (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam erkandan çıx (esc)
+fullscreen-keyboardlock-exit-button = Tam ekrandan çıxmaq üçün { $key } basıb saxlayın
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Tam ekrandan çıxmaq üçün { $key } basıb saxlayın
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -506,6 +614,12 @@ bookmarks-tools =
     .label = Əlfəcin alətləri
 bookmarks-subview-edit-bookmark =
     .label = Bu əlfəcini düzəlt…
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Əlfəcinlər Paneli
+    .accesskey = B
 bookmarks-toolbar-menu =
     .label = Əlfəcin paneli
 bookmarks-toolbar-placeholder =
@@ -520,6 +634,12 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Əlfəcinlər
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Mətn Kodlaşdırmasını Bərpa Et
+    .tooltiptext = Düzgün mətn kodlaşdırmasını təxmin edin
 
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
@@ -539,6 +659,25 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Keçidi e-poçtla göndər
     .tooltiptext = Bu səhifənin keçidini e-poçtla göndər
+toolbar-button-logins =
+    .label = Parollar
+    .tooltiptext = Saxlanmış parollarınıza baxın və idarə edin
+qrcode-panel-error =
+    .message = QR kodu yaratmaq alınmadı.
+qrcode-copy-button =
+    .label = Köçür
+qrcode-copy-success =
+    .message = QR kod panoya köçürüldü.
+qrcode-copy-error =
+    .message = QR kodu köçürmək alınmadı.
+qrcode-save-button =
+    .label = Saxla
+qrcode-window-title = QR Kod
+qrcode-dialog-title = QR Kod
+qrcode-image =
+    .aria-label = QR kod
+qrcode-close-button =
+    .aria-label = Qapat
 toolbar-button-save-page =
     .label = Səhifəni Yadda Saxla
     .tooltiptext = Bu səhifəni yadda saxla ({ $shortcut })
@@ -554,6 +693,12 @@ toolbar-button-send-tab =
 toolbar-button-new-private-window =
     .label = Yeni məxfi pəncərə
     .tooltiptext = Yeni məxfi səyahət pəncərəsi açın ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Bu səhifəni paylaş
+    .tooltiptext = Bu səhifəni paylaş
+toolbar-button-tab-groups =
+    .label = Vərəq qrupları
+    .tooltiptext = Vərəq qruplarınızı göstərin
 toolbar-button-history =
     .label = Tarixçə
     .tooltiptext = Sizin tarixçənizi göstərsin ({ $shortcut })
@@ -589,13 +734,23 @@ toolbar-button-paste =
     .label = Yapışdır
     .tooltiptext = Yapışdır ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = QR kod
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = { $domain } üçün QR kod
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bu saytda olan bəzi səs və ya video DRM proqramını işlədir, bu { -brand-short-name } tərəfindən sizə verilən servisləri limitləyir.
 eme-notifications-drm-content-playing-manage = Tənzimləmələri idarə et
+eme-notifications-drm-content-playing-dismiss = Rədd et
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Bu səhifədə bəzi audio və ya videoları oynatmaq üçün DRM-i aktiv etməlisiniz.
 eme-notifications-drm-content-disabled-button =
     .label = DRM Aktivləşdir
     .accesskey = A
@@ -620,6 +775,13 @@ plugin-crashed-notification-submit-button =
     .label = Çökmə hesabatını göndər
     .accesskey = g
 
+## Password save/update panel
+
+panel-save-update-username-2 =
+    .label = İstifadəçi adı
+panel-save-update-password-2 =
+    .label = Parol
+
 ##
 
 ui-tour-info-panel-close =
@@ -627,6 +789,24 @@ ui-tour-info-panel-close =
 
 ##
 
+picture-in-picture-hide-toggle =
+    .label = Şəkil-içində-şəkil keçidini gizlət
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Şəkil-içində-şəkil keçidini sağ tərəfə köçür
+picture-in-picture-move-toggle-left =
+    .label = Şəkil-içində-şəkil keçidini sol tərəfə köçür
+
+##
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Naviqasiya
 navbar-downloads =
     .label = Endirilənlər
 navbar-overflow-2 =
@@ -651,9 +831,19 @@ tabs-toolbar =
     .aria-label = Brauzer vərəqləri
 tabs-toolbar-new-tab =
     .label = Yeni vərəq
+tabs-toolbar-list-all-tabs-2 =
+    .tooltiptext = Bütün vərəqləri axtarın və idarə edin
 tabs-toolbar-list-all-tabs =
     .label = Bütün vərəqləri siyahıla
     .tooltiptext = Bütün vərəqləri siyahıla
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Vərəqi bura atın
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Təşkilatınız bu kompüterdə yerli fayllara girişi əngəlləyib
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -718,7 +908,24 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Məlumatları təmizlə
+    .tooltiptext = Səyahət məlumatlarınızın bəzilərini və ya hamısını silin
+fire-button-panel-heading = Bütün səyahət məlumatları silinsin?
+fire-button-panel-description = Bu, tarixçəni, çərəzləri və sayt məlumatlarını silir. Saytlardan çıxış ediləcək. Bu pəncərə qapanacaq və { -brand-short-name } yenisini açacaq.
+fire-button-panel-choose-description = Hər şeyi silmək istəmirsinizsə, bunun əvəzinə xüsusi məlumatları seçin.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Seç…
+fire-button-panel-cancel-button =
+    .label = İmtina
+fire-button-panel-confirm-button =
+    .label = Məlumatları sil
 fire-button-panel-complete = Səyyah məlumatları silindi
+fire-button-toolbar-button2 =
+    .label = Məlumatları təmizlə
+    .tooltiptext = Səyahət məlumatlarınızın bəzilərini və ya hamısını silin
 
 ## Autorefresh blocker
 
@@ -777,8 +984,15 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Bu səhifədəki bir veb prosesi səhifəni yavaşladır. Problem həll olunmayana qədər bu səhifə cavab verməyə bilər.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” uzantısı səhifəni yavaşladır. Problem həll olunmayana qədər bu səhifə cavab verməyə bilər.
 process-hang-addon-learn-more =
     .value = Ətraflı öyrən
+process-hang-stop-button =
+    .label = Dayandır
+    .accesskey = D
 
 ## Onboarding Finish Setup checklist
 
@@ -809,6 +1023,9 @@ trustpanel-privacy-link = Məxfilik Tənzimləmələri
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = { $host } üçün çərəzləri və sayt məlumatlarını təmizlə
+trustpanel-clear-cookies-description = Çərəzləri və sayt məlumatlarını silmək sizi saytlardan çıxara və ya alış-veriş səbətlərini boşalda bilər.
+trustpanel-clear-cookies-subview-button-clear = Sil
+trustpanel-clear-cookies-subview-button-cancel = İmtina
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =

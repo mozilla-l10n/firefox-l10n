@@ -114,6 +114,74 @@ home-prefs-recent-activity-select =
 home-prefs-weather-header-srd =
     .label = Hava
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Ətraflı öyrən
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .title = Məxfilik menyusunu aç
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Məxfilik
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Bu gün { $count } izləyici əngəlləndi
+       *[other] Bu gün { $count } izləyici əngəlləndi
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] { $count } saytda
+       *[other] { $count } saytda
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } saytlarda sizi izləməyə çalışan reklamları və məzmunu avtomatik olaraq əngəlləyir.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Sayğaca burada baxın.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Daha az izləyici, daha sürətli səyahət.
+newtab-privacy-empty-state-small-message = Əngəlləməyə başlamaq üçün səyahət edin.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Daha sürətli səyahət. Daha az izləyici.
+newtab-privacy-etp-off-turn-on-tracking = Tənzimləmələrdə izlənmə qorumalarını açın
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } izləyiciləri avtomatik olaraq əngəlləyir, buna görə də veb-saytlar daha tez açılır.
+newtab-privacy-message-info-1-cta = Qorumalara bax
+newtab-privacy-message-info-2 = İzləyicilərin əngəllənməsi şirkətlərin internetdə fəaliyyətinizə casusluq etməsinin qarşısını almağa kömək edir.
+newtab-privacy-message-info-2-cta = Qorumalara bax
+
 ## Strings for the Picture of the Day widget
 
 # Shorter title shown at the top of the widget, without the source name.
@@ -168,7 +236,7 @@ newtab-topsites-image-validation = Şəkli yükləmək mümkün olmadı. Fərqli
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Ləğv et
-newtab-topsites-delete-history-button = Tarixçədən Sil
+newtab-topsites-delete-history-button = Tarixçədən sil
 newtab-topsites-save-button = Saxla
 newtab-topsites-preview-button = Ön baxış
 newtab-topsites-add-button = Əlavə et
@@ -321,19 +389,60 @@ newtab-appearance-explore-more-themes-button = Daha çox mövzu kəşf et
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = Divar kağızları
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
+newtab-wallpaper-reset = İlkin vəziyyəti bərpa et
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
+newtab-wallpaper-upload-image = Şəkil yükləyin
+newtab-wallpaper-add-an-image = Şəkil əlavə edin
+newtab-wallpaper-custom-color = Rəng seçin
 newtab-wallpaper-toggle-title =
     .label = Divar kağızları
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Divar kağızı kateqoriyaları
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Şəkil { $maxSize } MB fayl ölçüsü limitini aşdı. Daha kiçik bir şəkil sınayın.
+newtab-wallpaper-error-upload-file-type = Faylınızı yükləyə bilmədik. Başqa bir şəkil sınayın.
 
 ## New Tab Weather
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-sponsored = { $provider } ∙ Sponsorlaşdırılıb
+newtab-weather-sponsored = { $provider } ∙ Sponsorlu
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .title = Hava menyusunu aç
+newtab-weather-menu-change-location = Məkanı dəyiş
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Məkan axtar
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .title = Geri
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Məkan təklifləri
+newtab-weather-cancel-input =
+    .title = İmtina
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Cari məkanı istifadə et
+newtab-weather-menu-weather-display = Hava göstəricisi
+newtab-weather-todays-forecast = Bugünkü hava proqnozu
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
     .aria-description = { $provider } ∙ Sponsorlaşdırılıb
     .title = Proqnoza { $provider } tərəfində bax
+
+## Strings for custom wallpaper highlight
+
+newtab-custom-wallpaper-title = Fərdi divar kağızları artıq buradadır
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Öz divar kağızınızı yükləyin və ya fərdi rəng seçin.
+newtab-custom-wallpaper-cta = Sına
 
 ## Strings for task / to-do list productivity widget
 
