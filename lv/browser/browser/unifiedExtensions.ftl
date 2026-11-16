@@ -64,8 +64,8 @@ unified-extensions-mb-about-addons-link = Dodieties uz paplašinājuma iestatīj
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single2 =
-    .heading = { $extensionName } atspējota
-    .message = Šis paplašinājums ir ierobežots un ir atspējots. Varat to iespējot iestatījumos, taču tas var būt riskanti.
+    .heading = { $extensionName } atspējots
+    .message = Šis paplašinājums ir ierobežots un tika atspējots. To var iespējot iestatījumos, taču tas var būt bīstami.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -76,11 +76,11 @@ unified-extensions-mb-blocklist-error-single =
 unified-extensions-mb-blocklist-warning-multiple2 =
     .heading =
         { $extensionsCount ->
-            [zero] { $extensionsCount } paplašinājumi ir atspējoti
+            [zero] { $extensionsCount } paplašinājumu ir atspējoti
             [one] { $extensionsCount } paplašinājums ir atspējots
            *[other] { $extensionsCount } paplašinājumi ir atspējoti
         }
-    .message = Daži no jūsu paplašinājumiem ir ierobežoti vai ir atspējoti. Varat tos iespējot iestatījumos, taču tas var būt riskanti.
+    .message = Daži no paplašinājumiem ir ierobežoti vai ir atspējoti. Tos var iespējot iestatījumos, taču tas var būt bīstami.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =
