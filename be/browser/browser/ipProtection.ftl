@@ -37,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = Плануеце пада
 ipprotection-feature-introduction-description-summer-promo = Атрымайце больш з убудаваным VPN ад { -brand-product-name }: больш месцаў, неабмежаваная прапускная здольнасць. Дзейнічае да 31 жніўня.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Дапамажыце схаваць ваша месцазнаходжанне ў часе аглядання. Усталюйце правілы для ўключэння VPN, калі хочаце <a data-l10n-name="learn-more-vpn">дадатковай прыватнасці</a> або аглядання ў залежнасці ад месцазнаходжання, а таксама для выключэння, калі гэта не патрэбна.
 ipprotection-feature-introduction-title-captive-portal = У грамадскай сетцы Wi-Fi? Паспрабуйце ўбудаваны ў { -brand-product-name } VPN.
 ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -113,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Зразумела
 ipprotection-site-inclusions-callout-title-existing-users = Усталюйце правілы ўбудаванага VPN, а затым аглядайце далей
 ipprotection-site-inclusions-callout-title-lapsed-users = Паспрабуйце ўбудаваны VPN, каторы цяпер можна ўключаць або выключаць для асобных сайтаў
 ipprotection-site-inclusions-callout-description-1 = Уключайце VPN, калі вам патрэбна дадатковая прыватнасць або агляданне ў залежнасці ад месцазнаходжання, і выключайце, калі не.
+ipprotection-site-inclusions-callout-description-lapsed-users = Усталюйце правілы, каб уключаць VPN, калі хочаце дадатковай прыватнасці або аглядання ў залежнасці ад месцазнаходжання, і выключаць, калі гэта не патрэбна.
 ipprotection-site-inclusions-callout-primary-button = Усталяваць правілы
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не цяпер
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Адхіліць
@@ -455,5 +458,7 @@ vpn-error-page-keep-browsing = Працягваць агляданне ў гэ�
 vpn-error-page-new-session = Пачаць новы сеанс
 vpn-paused-alert-close-tabs-button = Закрыць усе карткі
 vpn-paused-alert-continue-wo-vpn-button = Працягнуць без VPN
+vpn-error-alert-title-1 = VPN і правілы зараз не працуюць.
+vpn-error-alert-body-1 = Уключэнне і выключэнне VPN можа вырашыць праблему.
 vpn-error-alert-title = VPN зараз не працуе.
 vpn-error-alert-body = Паўтарыць спробу пазней.
