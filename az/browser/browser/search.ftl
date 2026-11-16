@@ -25,6 +25,38 @@ searchbar-input =
 searchbar-icon =
     .tooltiptext = Axtar
 
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-button = Tamam
+
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+reset-search-settings-button = Tamam
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = { $engineName } axtarış mühərriyi kimi əlavə olunsun?
+install-search-engine-add = Əlavə et
+install-search-engine-no = Xeyr
+
+## The following strings are used as input labels.
+
+add-engine-window =
+    .style = min-width: 32em;
+    .title = Axtarış mühərriyi əlavə et
+edit-engine-window =
+    .style = min-width: 32em;
+    .title = Axtarış mühərriyinə düzəliş ver
+add-engine-button = Fərdi mühərrik əlavə et
+add-engine-name = Axtarış mühərriyinin adı
+
 ## The following strings are used as labels for the dialog's buttons.
 
 # buttonlabelextra1 is the label of a button to open the advanced section

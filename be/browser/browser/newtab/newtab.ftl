@@ -195,6 +195,9 @@ newtab-privacy-empty-state = { -brand-short-name } аўтаматычна бла
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Глядзіце бягучы падлік тут.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Менш трэкераў, хутчэйшае агляданне.
+newtab-privacy-empty-state-small-message = Аглядайце інтэрнэт, каб пачаць блакаванне.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -555,6 +558,9 @@ newtab-travel-widget-open-menu-button =
     .title = Адкрыць меню падарожжаў
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Даведацца больш
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Пры падтрымцы Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -569,6 +575,19 @@ newtab-solitaire-widget-open-menu-button =
     .title = Адкрыць меню пасьянсу
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Падрабязней
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Рэксем АФК
+    .menu-label = Адкрыць меню ФК «Рэксэм»
+    .title = Рэксем АФК
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

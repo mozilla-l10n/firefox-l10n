@@ -666,7 +666,7 @@ urlbar-result-action-search-in-private = Məxfi Pəncərədə axtar
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ilə axtar
-urlbar-result-action-sponsored = Sponsorlaşdırılıb
+urlbar-result-action-sponsored = Sponsordan
 urlbar-result-action-switch-tab = Vərəqə keç
 urlbar-result-action-move-tab-to-split-view = Vərəqi Bölünmüş Görünüşə Daşı
 urlbar-result-action-visit = Ziyarət et

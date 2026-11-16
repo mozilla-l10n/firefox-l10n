@@ -48,6 +48,9 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
 site-data-removing-header = Çərəzlər və Sayt Məlumatları silinir
 site-data-removing-desc = Çərəzlər və sayt məlumatlarını sildikdə avtomatik saytlardan çıxış etmiş ola bilərsiz. Bunu etmək istədiyinizə əminsiniz?
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = Çərəzləri və sayt məlumatlarını silmə sizi saytlardakı hesablarınızdan çıxara bilər. <strong>{ $baseDomain }</strong> üçün çərəzləri və sayt məlumatlarını silmək istədiyinizdən əminsiniz?
 site-data-removing-table = Aşağıdakı saytlar üçün çərəzlər və sayt məlumatları silinəcək
 
 ## Clear all site data prompt

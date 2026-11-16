@@ -666,7 +666,7 @@ newtab-confirm-delete-history-p2 = Bu əməliyyat geri alına bilməz.
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = Sponsorlaşdırılıb
+newtab-topsite-sponsored = Sponsordan
 
 ## Label used by screen readers for pinned top sites
 
@@ -783,7 +783,7 @@ newtab-label-sponsored-by = { $sponsor } tərəfindən sponsorlaşdırılıb
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } dk
 # This string is used under fixed size ads to indicate sponsored content
-newtab-label-sponsored-fixed = Sponsorlaşdırılıb
+newtab-label-sponsored-fixed = Sponsordan
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
