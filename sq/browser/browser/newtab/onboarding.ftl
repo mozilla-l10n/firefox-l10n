@@ -57,6 +57,15 @@ mr1-onboarding-theme-label-dark = E errët
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = U bë
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Ndale animacionin
+onboarding-animation-play-button =
+    .aria-label = Luaje animacionin
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -376,6 +385,11 @@ onboarding-checklist-pin = Fiksoje { -brand-short-name }-in te paneli
 onboarding-checklist-import = Importo prej shfletuesi të mëparshëm
 onboarding-checklist-extension = Shtoni një zgjerim
 onboarding-checklist-sign-up = Regjistrohuni, ose bëni hyrjen te llogaria juaj
+onboarding-checklist-minimize =
+    .label = Minimizoje
+onboarding-checklist-remove =
+    .label = Hiqe listën e hapave
+onboarding-checklist-remove-2 = Hiqe listën e hapave
 
 ## Tab Groups feature onboarding strings
 
@@ -521,3 +535,32 @@ onboarding-refresh-sync-title = Shkoni ngado. Njëkohësoni gjithçka.
 onboarding-refresh-gratitude-subtitle = Faleminderit që përdorni { -brand-short-name }-in, i vetmi shfletues i rëndësishëm që ka pas një ent jofitimprurës. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } ju mbron krahët
+
+## First Run Onboarding refresh strings
+
+onboarding-refresh-primary-button = Vazhdo
+onboarding-refresh-fro-skip-button = Anashkaloje
+onboarding-refresh-tab-layout-top = Sipër
+onboarding-refresh-tab-layout-side = Në krah
+onboarding-refresh-tab-layout-minimal = Minimale
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-rejected-title = E mora vesh
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Zgjidhni një temë
+onboarding-theme-picker-button-label = Ruaje dhe vazhdo
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = Nisni shfletimin
+welcome-back-onboarding-secondary-button-label = Shihni ç’ka tjetër të re
+welcome-back-onboarding-pill-label-vpn = VPN e brendshme
+welcome-back-onboarding-pill-label-pdf = Mjete PDF-sh
+welcome-back-onboarding-card-tilebutton-label = Provojeni
+
+## New Tab Onboarding cards
+
+hnt-card-extensions-primary-button = Eksploroni

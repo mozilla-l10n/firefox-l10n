@@ -76,6 +76,11 @@ menu-file-close-tab =
            *[other] Mbylli { $tabCount } Skedat
         }
     .accesskey = M
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Mbylle
+    .accesskey = M
 menu-file-close-window =
     .label = Mbylleni Dritaren
     .accesskey = D
@@ -88,6 +93,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Ndajeni me të tjerët
     .accesskey = N
+menu-file-share-qrcode3 =
+    .label = Krijo Kod QR
+    .accesskey = K
 menu-file-share-qrcode =
     .label = Prodhoni Kod QR…
     .accesskey = Q

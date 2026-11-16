@@ -70,3 +70,5 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Mbylljani zërin skedës
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Rikthejani zërin skedës
+fxviewtabrow-send-to-mobile-not-verified = Llogari Jo e Verifikuar
+fxviewtabrow-send-to-mobile-verify-account = Verifikoni Llogarinë Tuaj

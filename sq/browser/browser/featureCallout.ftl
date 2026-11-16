@@ -156,6 +156,17 @@ windows-10-eos-sync-callout-primary-advance-button-label = Pasuesja
 link-preview-onboarding-callout-title = E re: Klikoni dhe mbajeni të shtypur, që të bëni paraparje lidhjesh
 link-preview-onboarding-callout-description = Shihni një përshkrim të shkurtër, kohë leximi, etj, për të vendosur nëse një lidhje ia vlen të klikohet. Mund të bëhet edhe me djathtasklikim.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Nisni një grup
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Shfaq te anështylla tituj skedash

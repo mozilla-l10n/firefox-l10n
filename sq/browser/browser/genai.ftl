@@ -58,6 +58,10 @@ genai-menu-remove-provider =
     .label = Hiqe { $provider }
 genai-menu-remove-sidebar =
     .label = Hiqe nga Anështylla
+genai-more-actions-copy =
+    .label = Kopjoje
+genai-more-actions-manage-settings =
+    .label = Administroni rregullime
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pyetni { $provider }
@@ -205,6 +209,11 @@ link-preview-settings-key-points =
     .label = Lejojen IA-në të lexojë fillimin e faqes dhe të prodhojë pikat kyçe
 link-preview-settings-long-press =
     .label = Shkurtore: Klikojeni dhe mbajeni të shtypur lidhjen për 1 sekondë (shtypje e gjatë)
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopjoje
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Shihni më tepër me IA?
 # Message that appears when user is shown the opt-in flow for link previews

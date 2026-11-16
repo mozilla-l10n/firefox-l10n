@@ -306,6 +306,8 @@ appmenu-customizetoolbar =
     .label = Përshtateni Panelin…
 appmenu-abouttranslations =
     .label = Përtheni…
+appmenu-edit-pdf =
+    .label = Përpunoni PDF…
 appmenu-developer-tools-subheader = Mjete Shfletuesi
 appmenu-developer-tools-extensions =
     .label = Zgjerime për Zhvillues
@@ -318,11 +320,19 @@ appmenuitem-sign-in-account = Bëni hyrjen në llogarinë tuaj
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Merrni sinjalizime cenimesh të dhënash
 appmenuitem-relay-title = { -relay-brand-short-name }
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Shihni Maska Email-i
 appmenuitem-relay-description = Maskoni email-in dhe telefonin tuaj të njëmendtë
 appmenuitem-services-relay-description = Hap pultin e maskave të email-eve
+appmenuitem-vpn-title2 = Fshihni Vendndodhjen tuaj, me { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Merrni mbrojtje shtesë nëpër pajisje
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Merrni mbrojtje të tërë pajisjes
 appmenu-services-header = Shërbimet e mia
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Mjete privatësie
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -335,10 +345,22 @@ appmenu-manage-profiles =
     .label = Administroni profile
 appmenu-copy-profile =
     .label = Kopjoje këtë profil
+appmenu-create-profile2 =
+    .label = Krijoni një Profil të Ri
 appmenu-create-profile =
     .label = Profil i ri
 appmenu-edit-profile =
     .aria-label = Përpunoni profil
+appmenu-edit-this-profile =
+    .label = Përpunojeni Këtë Profil
+appmenu-profile-current-in-use = Profil i tanishëm në përdorim
+fxa-menu-create-profile-subpanel =
+    .title = Krijoni një profil të ri
+fxa-menu-create-profile-heading = Ngrijeni më lart shfletimin tuaj, me një profil të ri
+fxa-menu-create-profile-confirm =
+    .label = Krijoni profil të ri
+fxa-menu-create-profile-learn-more =
+    .label = Ç’janë Profilet?
 appmenu-profiles-2 =
     .label = Profile
 appmenu-profiles-header = Profile

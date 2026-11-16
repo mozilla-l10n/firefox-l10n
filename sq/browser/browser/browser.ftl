@@ -108,6 +108,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Administroni { -firefox-suggest-bra
 urlbar-result-menu-report-inaccurate-location2 = Njoftoni për vendndodhje të pasaktë
 urlbar-result-menu-show-less-frequently2 = Shfaqi më rrallë
 urlbar-result-menu-dont-show-weather-suggestions2 = Mos shfaq sugjerime moti
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Hidhe tej këtë sugjerim
+    .accesskey = H
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Hiqe prej historiku
+    .accesskey = H
 urlbar-result-menu-learn-more =
     .label = Mësoni më tepër
     .accesskey = M
@@ -318,6 +328,10 @@ quickactions-cmd-help = ndihmë, asistencë
 # Opens the devtools web inspector
 quickactions-inspector2 = Hap Mjete Zhvilluesish
 quickactions-cmd-inspector2 = mbikëqyrë, mjete zhvilluesi
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Zgjidhni një ngjyrë
+# Opens Firefox Library
+quickactions-cmd-library = bibliotekë
 # Opens about:logins
 quickactions-logins2 = Administroni fjalëkalime
 quickactions-cmd-logins = kredenciale hyrjesh, fjalëkalime
@@ -386,6 +400,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Shfaqe përpunuesin, kur bëhen ruajtje
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = Ruaje
+    .accesskey = R
 bookmark-panel-save-button =
     .label = Ruaje
 # Width of the bookmark panel.
@@ -434,7 +451,10 @@ identity-clear-site-data =
     .label = Spastroni Cookie-t dhe të Dhëna Sajti…
 identity-connection-not-secure-security-view = S'jeni lidhur në mënyrë të siguruar me këtë sajt.
 identity-connection-verified = Jeni lidhur në mënyrë të siguruar me këtë sajt.
+identity-ev-owner-label2 = Dëshmi lëshuar për
+identity-verifier-label2 = Verifikuar nga
 identity-ev-owner-label = Dëshmi lëshuar për:
+identity-verifier-label = Vërtetuar nga:
 identity-description-custom-root2 = Mozilla nuk e njeh këtë lëshues dëshmish. Mund të jetë shtuar nga sistemi juaj operativ ose nga një përgjegjës.
 identity-remove-cert-exception =
     .label = Hiqeni Përjashtimin
@@ -779,6 +799,14 @@ urlbar-searchmode-bookmarks4 = Faqerojtës
 urlbar-searchmode-tabs4 = Skeda
 urlbar-searchmode-history4 = Historik
 urlbar-searchmode-actions4 = Veprime
+urlbar-searchmode-bookmarks3 = Faqerojtës
+    .accesskey = F
+urlbar-searchmode-tabs3 = Skeda
+    .accesskey = S
+urlbar-searchmode-history3 = Historik
+    .accesskey = H
+urlbar-searchmode-actions3 = Veprime
+    .accesskey = V
 urlbar-searchmode-exit-button2 =
     .title = Mbylle
 urlbar-searchmode-default2 =
@@ -794,6 +822,8 @@ urlbar-searchmode-popup-one-off-header = Këtë herë kërko me:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Kërko me:
+urlbar-searchmode-popup-search-settings2 = Rregullime Mbi Kërkimin
+urlbar-searchmode-popup-settings2 = Rregullime
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1099,6 +1129,8 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Më tepër…
+menu-share-windows =
+    .label = Më tepër Mundësi
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1183,6 +1215,15 @@ restore-session-startup-suggestion-button = Tregomëni se si
 
 filepicker-blocked-infobar = Enti juaj e ka bllokuar hyrjen te kartela vendore në këtë kompjuter
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-change-shortcuts = Administroni shkurtore
+urlbar-addons-shortcut-moved-dismiss = E mora vesh
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } dërgon vetvetiu disa të dhëna te { -vendor-short-name } që të mund të përmirësojmë punimin e tij për ju.
@@ -1194,11 +1235,17 @@ private-browsing-indicator-label = Shfletim privat
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Shfletim privat
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Hollësi shfletimi privat
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Gjendeni në Dritare Private
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Parandalim humbjeje të dhënash (DLP) nga { $agentName }. Klikoni për më tepër hollësi.
+content-analysis-panel-title2 = Parandalim humbjesh të dhënash
 content-analysis-panel-title = Mbrojtje të dhënash
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1244,6 +1291,21 @@ reset-pbm-panel-cancel-button =
     .label = Anuloje
     .accesskey = A
 reset-pbm-panel-complete = Të dhënat e sesionit privat u fshinë
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Zgjidhni…
+fire-button-panel-cancel-button =
+    .label = Anuloje
+    .accesskey = A
+fire-button-panel-confirm-button =
+    .label = Fshiji krejt
+    .accesskey = F
+fire-button-panel-complete = Të dhënat e shfletimit u fshinë
 
 ## Autorefresh blocker
 
@@ -1499,6 +1561,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } lejoi { $count } nxjerrës kriptomonedhash
     }
 trustpanel-cryptominer-tab-list-header = Këto sajte po rreken të nxjerrin kriptomonedha:
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Hidhe tej
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Gjurmues i bllokuar në këtë sajt
@@ -1509,3 +1572,5 @@ trustpanel-blocker-section-header2 =
 
 reduced-protection-infobar-reload-button = Ringarkoje
     .accesskey = R
+reduced-protection-infobar-never-show-button = Mos e shfaq sërish
+    .accesskey = M

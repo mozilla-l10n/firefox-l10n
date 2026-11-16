@@ -185,6 +185,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = I plotësuar
 migration-safari-password-import-header = Importoni Fjalëkalime nga Safari
+migration-safari-password-import-post-sequoia-step3 = Ruaje kartelën
+migration-safari-password-import-post-sequoia-step4 = Përzgjidhni kartelën që ruajtët
 migration-safari-password-import-steps-header = Për të importuar fjalëkalime nga Safari:
 migration-safari-password-import-step1 = Në Safari hapni menunë “Safari” dhe kaloni te Parapëlqime > Fjalëkalime
 migration-safari-password-import-step2 = Përzgjidhni butonin <img data-l10n-name="safari-icon-3dots"/> dhe zgjidhni “Eksportoji Krejt Fjalëkalimet”
@@ -197,6 +199,7 @@ migration-chrome-windows-password-import-step2 = Që nga menuja përzgjidhni “
 migration-chrome-windows-password-import-step3 = Zgjidhni “Shkarkoje kartelën” dhe ruajeni te pajisja juaj.
 migration-chrome-windows-password-import-step4 = Kthehuni këtu dhe “Përzgjidhni kartelë” që të përfundojë importimi.
 migration-manual-password-import-skip-button = Anashkaloje
+migration-manual-password-import-cancel-button = Anuloje
 migration-manual-password-import-select-button = Përzgjidhni Kartelë
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.

@@ -31,19 +31,27 @@ extension-nova-sun-name = Diell
 extension-nova-spark-name = Xixë
 # Name for a red-orange theme. Refers to the color of fire.
 extension-nova-flame-name = Flakë
+# Name for a soft purple theme. Refers to the lavender flower.
+extension-nova-lavender-name = Livandë
 # Name for a medium purple theme. Refers to the sky just after sunset.
 extension-nova-dusk-name = Muzg
 # Name for a medium blue theme. Refers to a sheltered body of water.
 extension-nova-lagoon-name = Lagunë
 # Name for a green theme. Refers to pine trees.
 extension-nova-pine-name = Pishë
+# Name for a soft teal theme. Refers to ocean tides.
+extension-nova-tide-name = Valë
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 extension-nova-ash-name = Hi
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+extension-nova-smoke-name = Tym
 
 ## A selection of official Firefox themes from previous Firefox releases, for users
 ## who prefer a gradient-free look. These theme names are shown in the about:addons
 ## "Classic themes" section and in the theme add-on cards.
 
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = Gri
 # Name for a blue theme.
 extension-classic-blue-name = Blu
 # Name for a cyan theme.
