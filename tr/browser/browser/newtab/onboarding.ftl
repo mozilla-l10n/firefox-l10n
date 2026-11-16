@@ -646,8 +646,14 @@ welcome-back-onboarding-card-tilebutton-label = Dene
 hnt-card-import-header = { -brand-short-name } tarayıcınızı saniyeler içinde kullanıma hazırlayın
 hnt-card-import-body = Başka bir tarayıcıdaki yer imlerinizi, parolalarınızı ve diğer verilerinizi içe aktarın.
 hnt-card-import-primary-button = Verilerimi içe aktar
+hnt-card-default-body = { -brand-product-name } sizi izlemek için değil korumak için geliştirilmiş tek büyük tarayıcıdır.
 hnt-card-default-primary-button = Bağlantıları { -brand-short-name } ile aç
 hnt-card-pin-header = { -brand-short-name } bir tık kadar yakınınızda olsun
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Dock’unuzdan korumalı gezintiye geçin.
+       *[other] Görev çubuğunuzdan korumalı gezintiye geçin.
+    }
 hnt-card-mobile-header = Yerleşik korumayı telefonunuzda da kullanın
 hnt-card-mobile-body = Her yerde daha fazla gizlilik için { -brand-product-name } mobil uygulamasını indirin.
 hnt-card-mobile-primary-button = Mobil cihazlar için { -brand-product-name }’u indirin.
@@ -660,4 +666,7 @@ hnt-card-taskbar-tabs-primary-button = Siteleri görev çubuğuna ekle
 hnt-card-extensions-header = { -brand-short-name } tarayıcınızı uzantılarla güçlendirin
 hnt-card-extensions-body = En sevilen uzantılarımızla gezinme deneyiminizi özelleştirin.
 hnt-card-extensions-primary-button = Keşfet
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Her şey hazır. İnternette gezinmeye başlayın.
 hnt-card-last-card-header-end = İzlenme koruması açık.

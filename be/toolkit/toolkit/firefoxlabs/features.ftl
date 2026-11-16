@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Нататкі да картак �
 experimental-features-tab-context-menu =
     .label = Аптымізаванае меню картак
 experimental-features-tab-context-menu-description = Па націску правай кнопкай мышы на картцы з'яўляецца больш простае кантэкстнае меню. Яно спраектавана так, каб было лягчэй шукаць найчасцей патрэбныя дзеянні. <a data-l10n-name="connect">Падзяліцца водгукам</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Манітор рэсурсаў
+experimental-features-resource-monitor-description = Глядзіце прыблізнае выкарыстанне памяці і працэсара для адкрытых картак прама на бакавой панэлі і выгружайце карткі, якія не ўжываеце, каб вызваліць рэсурсы. <a data-l10n-name="connect">Падзяліцца водгукам</a>

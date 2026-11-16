@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Імпартаваць 
 about-logins-menu-menuitem-import-from-a-file = Імпартаваць з файла…
 about-logins-menu-menuitem-export-logins2 = Экспартаваць паролі…
 about-logins-menu-menuitem-remove-all-logins2 = Выдаліць усе паролі…
+about-logins-menu-menuitem-delete-all-logins = Выдаліць усе паролі…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Налады
@@ -91,6 +92,7 @@ about-logins-intro-import3 = Націсніце кнопку са знакам �
 about-logins-login-item-new-login-title = Дадаць пароль
 login-item-edit-button = Змяніць
 about-logins-login-item-remove-button = Выдаліць
+about-logins-login-item-delete-button = Выдаліць
 login-item-origin-label = Адрас сайта
 about-logins-origin-tooltip2 = Увядзіце поўны адрас і пераканайцеся, што ён дакладна адпавядае месцу, дзе вы ўваходзіце.
 # Variables
@@ -176,9 +178,15 @@ confirmation-dialog-dismiss-button =
     .title = Скасаваць
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Выдаліць пароль?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Выдаліць пароль?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Вы не зможаце адмяніць гэта дзеянне.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Гэта выдаліць яго з { -brand-short-name } на кожнай прыладзе, якая сінхранізуе вашы паролі. Вы не зможаце адмяніць гэта.
 about-logins-confirm-remove-dialog-confirm-button = Выдаліць
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Выдаліць
 
 ## Variables
 ##   $count (number) - Number of items
@@ -190,11 +198,27 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Выдаліць усе
        *[many] Выдаліць усе
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Выдаліць
+        [one] Выдаліць усе
+        [few] Выдаліць усе
+       *[many] Выдаліць усе
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Так, выдаліць пароль
         [one] Так, выдаліць пароль
+        [few] Так, выдаліць паролі
+       *[many] Так, выдаліць паролі
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Так, выдаліць пароль
+        [one] Так, выдаліць паролі
         [few] Так, выдаліць паролі
        *[many] Так, выдаліць паролі
     }
@@ -219,6 +243,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Выдаліць { $count } пароль з усіх прылад?
         [few] Выдаліць усе { $count } паролі з усіх прылад?
        *[many] Выдаліць усе { $count } пароляў з усіх прылад?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Выдаліць { $count } пароль?
+        [few] Выдаліць { $count } паролі?
+       *[many] Выдаліць { $count } пароляў?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

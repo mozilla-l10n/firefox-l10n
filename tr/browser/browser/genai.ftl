@@ -97,6 +97,8 @@ genai-more-actions-all-off-notice = Metin seçtiğinizde bu menüyü görmeyecek
 genai-more-actions-manage-settings =
     .label = Ayarları yönet
 genai-selection-callout-title = İşlem yapmak istediğiniz metni seçin
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Seçtiğiniz metni arayın veya kopyalayın. <span data-l10n-name="more-actions">•••</span> menüsünde gösterilecek eylemleri seçin.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } sohbet botuna sor
