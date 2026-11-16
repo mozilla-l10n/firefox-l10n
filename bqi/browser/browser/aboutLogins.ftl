@@ -180,6 +180,8 @@ about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
 about-logins-confirm-delete-dialog-title2 = رزم پاک بۊ؟
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = ایسا نترین ای کاری ک ٱنجوم داڌین ن لقو کۊنین وو وورگرتین.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = ای کار هونه ز { -brand-short-name } من پوی دسگایلی ک رزما تووݩ ن هوم گوم اکونن پاک اکونه. دی وورگشتنی من ای کار نؽ.
 about-logins-confirm-remove-dialog-confirm-button = پاک کردن
 # Confirm button for the modal to delete one saved password when per-device sync is enabled
 about-logins-confirm-delete-dialog-confirm-button = پاک کردن
@@ -245,6 +247,13 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [1] ای کار پوی رزما زفت وابیڌه من { -brand-short-name } ن من پوی دسگایل هوم گوم وابیڌه ایسا پاک کونه. ای کار هومچیناکو هوشدار نشت دووسمندی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ای کار دی وورگندی منس نؽ.
         [one] ای کار پوی رزما زفت وابیڌه من { -brand-short-name } ن من پوی دسگایل هوم گوم وابیڌه ایسا پاک کونه. ای کار هومچیناکو هوشدار نشت دووسمندی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ای کار دی وورگندی منس نؽ.
        *[other] ای کار پوی رزما زفت وابیڌه من { -brand-short-name } ن من پوی دسگایل هوم گوم وابیڌه ایسا پاک کونه. ای کار هومچیناکو هوشدار نشت دووسمندی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ای کار دی وورگندی منس نؽ.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] ای کار هونه ز { -brand-short-name } من پوی دسگایلی ک رزما تووݩ ن هوم گوم اکونن پاک اکونه. دی وورگشتنی من ای کار نؽ.
+        [one] ای کار هونه ز { -brand-short-name } من پوی دسگایلی ک رزما تووݩ ن هوم گوم اکونن پاک اکونه. دی وورگشتنی من ای کار نؽ.
+       *[other] ای کار هونه ز { -brand-short-name } من پوی دسگایلی ک رزما تووݩ ن هوم گوم اکونن پاک اکونه. دی وورگشتنی من ای کار نؽ.
     }
 
 ##
