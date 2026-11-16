@@ -118,6 +118,22 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] پاک کردن
        *[other] پاک کردن پوی
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] پاک کردن
+        [one] پاک کردن
+       *[other] پاک کردن پوی
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] ای کار رزما زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+        [one] ای کار رزما زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+       *[other] ای کار رزما زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+    }
 contextual-manager-passwords-origin-label = وبگه اینترنتی
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = نوم منتوری
