@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Limpiar todo el historial
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Eliminar datos de navegación
 clear-data-settings-label = Al cerrarlo, { -brand-short-name } debería limpiarlo todo automáticamente
 sanitize-on-shutdown-description = Borra automáticamente todos los elementos marcados cuando se cierre { -brand-short-name }.
 
@@ -47,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Desde las { $midnightTime }
 clear-time-duration-value-today =
     .label = Hoy
+clear-time-duration-value-all-time =
+    .label = Desde siempre
 clear-time-duration-value-everything =
     .label = Todo
 clear-time-duration-suffix =
@@ -56,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historial
+item-history-and-downloads2 =
+    .label = Historial de navegación y descargas
+    .accesskey = g
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Sitios visitados y lista de descargas
 item-history-and-downloads =
     .label = Historial de navegación y descargas
     .accesskey = g
@@ -72,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies y datos del sitio
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Cierra sesión en sitios y puede vaciar carritos de compras
 item-cookies-site-data-description = Puede cerrar sesión en sitios o vaciar carritos de compras
 item-active-logins =
     .label = Sesiones activas
@@ -79,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Caché
     .accesskey = A
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Archivos temporales ({ $amount } { $unit })
+    .accesskey = m
+item-cached-content2 =
+    .label = Archivos temporales
+    .accesskey = m
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Ayuda a que los sitios se carguen más rápido
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -98,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Información guardada del formulario
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nombres, correos electrónicos y datos introducidos en formularios
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Permisos y preferencias del sitio
 item-formdata-description = Borra información como nombres, correos electrónicos y otros elementos introducidos en formularios
 item-site-prefs-description = Restablece los permisos y preferencias del sitio a la configuración original
 data-section-label = Datos
@@ -107,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Datos de sitios web sin conexión
     .accesskey = O
+sanitize-everything-undo-warning2 = Esta acción no se puede deshacer.
 sanitize-everything-undo-warning = Esta acción no se puede deshacer.
 window-close =
     .key = w
@@ -116,6 +148,14 @@ sanitize-button-ok2 =
     .label = Limpiar
 sanitize-button-ok-on-shutdown =
     .label = Guardar cambios
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Eliminar
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Cerrar
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

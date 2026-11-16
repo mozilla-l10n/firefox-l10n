@@ -1321,6 +1321,27 @@ reset-pbm-toolbar-button2 =
     .label = Borrar sesión privada
     .tooltiptext = Borrar sesión privada
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-heading = ¿Eliminar todos los datos de navegación?
+fire-button-panel-description = Esto elimina el historial, las cookies y los datos del sitio. Se cerrará su sesión en los sitios web. Esta ventana se cerrará y { -brand-short-name } abrirá una nueva.
+fire-button-panel-choose-description = Si no desea eliminarlo todo, seleccione datos específicos en su lugar.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Seleccionar…
+fire-button-panel-cancel-button =
+    .label = Cancelar
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Eliminar todo
+    .accesskey = E
+fire-button-panel-complete = Se han eliminado los datos de navegación
+fire-button-toolbar-button2 =
+    .label = Eliminar algunos o todos los datos
+    .tooltiptext = Eliminar algunos o todos sus datos de navegación
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } evitó que esta página se recargara automáticamente.
