@@ -61,6 +61,11 @@ download-ui-confirm-quit-button =
     }
 download-ui-confirm-offline-message = { -brand-short-name } vil prøve å halde fram nedlastingane når du er tilkopla igjen, men framdrifta kan gå tapt.
 download-ui-confirm-offline-button = Kople frå
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Stoppe 1 nedlasting og late att dette private vindauget?
+       *[other] Stoppe { $downloadsCount } nedlastingar og late att dette private vindauget?
+    }
 download-ui-confirm-private-browsing-message =
     { $downloadsCount ->
         [1] Du vil ikkje kunne halde fram denne nedlastinga.
