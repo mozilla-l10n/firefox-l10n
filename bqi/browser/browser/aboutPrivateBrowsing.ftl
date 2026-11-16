@@ -91,7 +91,10 @@ about-private-browsing-spotlight-basics-subtitle = نیمدری یل سیخوم�
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = چ وا دووست
 about-private-browsing-spotlight-basics-activity-seen = گاشڌ ی قرده ز فعالیتا تووݩ هنی سی وبگه یل، موتورا پیتینیڌن، جۊر کونووݩ اینترنت یا ساوکار تووݩ دیاری بۊ.
+about-private-browsing-spotlight-basics-bookmarks-downloads = نشووکا وو دانلودا ری دسگا تووݩ امئنن وو گاشڌ من نوار نشۊوی نشووݩ داڌه بۊون.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = زفت وابیڌن قلوه هریم سیخومی
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } زبار لیش ٱفزارا وو وبگه یل گۊل زن و توور خوتکار و ایسا هوشدار اده.
+about-private-browsing-spotlight-basics-vpn = وا VPN منی، رڌجۊری جاگه تووݩ ن سخت تر کۊنین.
 about-private-browsing-spotlight-basics-learn-more = قلوه دووسته بۊین
