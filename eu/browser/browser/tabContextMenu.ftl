@@ -111,14 +111,14 @@ tab-context-open-in-container =
     .label = Ireki edukiontzian
     .accesskey = e
 move-to-start =
-    .label = Mugitu hasierara
+    .label = Eraman hasierara
     .accesskey = h
 # Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
 move-to-start-alt =
     .label = Hasierara
     .accesskey = H
 move-to-end =
-    .label = Mugitu amaierara
+    .label = Eraman amaierara
     .accesskey = m
 move-to-end-alt =
     .label = Amaierara
@@ -195,35 +195,34 @@ tab-context-close-n-tabs2 =
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Mugitu fitxa
-            [one] Mugitu fitxa
-           *[other] Mugitu fitxak
+            [1] Eraman fitxa
+           *[other] Eraman fitxak
         }
-    .accesskey = M
+    .accesskey = m
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs3 =
     .label =
         { $tabCount ->
-            [1] Aldatu lekuz hona:
-           *[other] Aldatu { $tabCount } fitxa lekuz hona
+            [1] Eraman hona:
+           *[other] Eraman { $tabCount } fitxa hona
         }
-    .accesskey = A
+    .accesskey = M
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
-            [1] Aldatu fitxa lekuz hona
-           *[other] Aldatu { $tabCount } fitxa lekuz hona
+            [1] Eraman fitxa hona
+           *[other] Eraman { $tabCount } fitxa hona
         }
-    .accesskey = d
+    .accesskey = t
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
-    .label = Aldatu lekuz ikuspegi zatitua hona
-    .accesskey = d
+    .label = Eraman ikuspegi zatitua hona
+    .accesskey = M
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view-alt =
-    .label = Aldatu fitxak lekuz hona
-    .accesskey = d
+    .label = Eraman fitxak hona
+    .accesskey = M
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

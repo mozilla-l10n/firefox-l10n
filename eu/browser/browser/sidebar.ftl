@@ -79,9 +79,9 @@ sidebar-hide-tabs-and-sidebar =
 sidebar-open-tools-from-sidebar =
     .label = Ireki tresnak alboko barratik
 sidebar-show-on-the-right =
-    .label = Aldatu lekuz alboko barra eskuinera
+    .label = Eraman alboko barra eskuinera
 sidebar-show-on-the-left =
-    .label = Aldatu lekuz alboko barra ezkerrera
+    .label = Eraman alboko barra ezkerrera
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =

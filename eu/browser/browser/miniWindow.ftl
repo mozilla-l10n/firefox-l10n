@@ -56,10 +56,10 @@ main-context-menu-use-mini-window =
 move-to-mini-window =
     .label =
         { $tabCount ->
-            [1] Aldatu lekuz leiho txikira
-           *[other] Aldatu lekuz leiho txikietara
+            [1] Eraman leiho txikira
+           *[other] Eraman leiho txikietara
         }
-    .accesskey = m
+    .accesskey = h
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
@@ -70,6 +70,6 @@ mini-window-overlay-instructions = Arrastatu edo egin klik leiho txikira lekuz a
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
-mini-window-panel-header = Aukeratu zer aldatu lekuz leiho txikira
+mini-window-panel-header = Aukeratu zer eraman behar den leiho txikira
 mini-window-panel-move-selection = Aldatu hautapena lekuz
 mini-window-panel-move-full-tab = Aldatu fitxa osoa lekuz

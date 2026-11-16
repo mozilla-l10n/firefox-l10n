@@ -1460,7 +1460,7 @@ newtab-widget-menu-hide = Ezkutatu widgeta
 newtab-widget-menu-change-size = Aldatu tamaina
 # Parent label for a submenu in the widget menu that reorders the widget
 # among its siblings. "Left" and "Right" appear as items inside this submenu.
-newtab-widget-menu-move = Aldatu lekuz
+newtab-widget-menu-move = Eraman
 # Submenu item under "Move"; moves the widget one position to the left.
 # RTL locales should translate this as "Right".
 newtab-widget-menu-move-left = Ezkerrera
