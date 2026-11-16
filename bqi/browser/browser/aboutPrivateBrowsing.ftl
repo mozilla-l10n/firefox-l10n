@@ -90,6 +90,7 @@ about-private-browsing-spotlight-basics-subtitle = نیمدری یل سیخوم�
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = چ وا دووست
+about-private-browsing-spotlight-basics-activity-seen = گاشڌ ی قرده ز فعالیتا تووݩ هنی سی وبگه یل، موتورا پیتینیڌن، جۊر کونووݩ اینترنت یا ساوکار تووݩ دیاری بۊ.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = زفت وابیڌن قلوه هریم سیخومی
