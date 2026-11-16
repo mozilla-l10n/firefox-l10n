@@ -588,6 +588,21 @@ newtab-custom-widget-wrexhamafc =
     .label = Рэксем АФК
     .menu-label = Адкрыць меню ФК «Рэксэм»
     .title = Рэксем АФК
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Від
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Матчы
+newtab-widget-wrexhamafc-view-table = Табліца
+newtab-widget-wrexhamafc-view-fixtures = Расклад матчаў
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Шпалеры
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -805,6 +820,9 @@ newtab-discovery-empty-section-topstories-header = Вы ўсё прачытал�
 newtab-discovery-empty-section-topstories-content = Звярніцеся пазней, каб пабачыць больш артыкулаў.
 newtab-discovery-empty-section-topstories-try-again-button = Паспрабаваць зноў
 newtab-discovery-empty-section-topstories-loading = Чытаецца…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Гісторыі зараз недаступныя
+newtab-discovery-empty-section-topstories-unavailable-body = Праверце падключэнне ці паспрабуйце пазней.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ой! Мы амаль загрузілі гэты раздзел, але не зусім.
 
@@ -1103,6 +1121,10 @@ newtab-wallpaper-firefox-peak-dark = Пыса лісы з левага краю
 newtab-wallpaper-firefox-peak-light = Пыса лісы з левага краю, на светлым фоне
 newtab-wallpaper-firefox-sky-dark = Цёмна-фіялетавыя пагоркі пад начным небам
 newtab-wallpaper-firefox-sky-light = Светлыя пагоркі пад ціхім небам
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Герб футбольнага клуба Рэксем на чырвоным фоне
 
 ## Firefox
 
@@ -1343,6 +1365,12 @@ newtab-report-ads-reason-inappropriate =
     .label = Гэта недарэчна
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Я бачыў гэта занадта шмат разоў
+newtab-report-ads-reason-scam =
+    .label = Ашуканства або махлярства
+newtab-report-ads-reason-misleading =
+    .label = Ілжывыя або падманлівыя сцвярджэнні
+newtab-report-ads-reason-offensive =
+    .label = Абразлівы або недарэчны змест
 newtab-report-content-wrong-category =
     .label = Няправільная катэгорыя
 newtab-report-content-outdated =
@@ -1449,6 +1477,12 @@ newtab-widget-menu-move-left = Улева
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Управа
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Хатняя старонка
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Віджэты
 newtab-widget-size-small = Малы
 newtab-widget-size-medium = Сярэдні
 newtab-widget-size-large = Вялікі
@@ -1485,6 +1519,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Паказваць менш віджэтаў
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Віджэт недаступны. Праверце пазней.
 newtab-widget-lists-name-default = Кантрольны спіс
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1543,6 +1581,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Адкрыць меню крыжаванкі
     .title = Адкрыць меню крыжаванкі
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Пры падтрымцы Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1868,6 +1909,22 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Пошук горада
     .placeholder = Пошук горада
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Мянушка (неабавязкова)
+    .description =
+        { $count ->
+            [one] Застаўся { $count } знак
+            [few] Засталіся { $count } знакі
+           *[many] Засталося { $count } знакаў
+        }
+    .label = Мянушка (неабавязкова)
+    .placeholder = Дадаць мянушку
 newtab-clock-widget-search-location-input =
     .aria-label = Пошук горада
     .label = Месцазнаходжанне

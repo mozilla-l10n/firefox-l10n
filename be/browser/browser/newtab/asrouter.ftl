@@ -530,3 +530,10 @@ refresh-profile-infobar-button = Аднавіць { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Адкрыць папярэднія карткі?</strong> Вы можаце аднавіць папярэдні сеанс з меню <img data-l10n-name="icon"/> праграмы { -brand-short-name }, у раздзеле "Гісторыя".
 restore-session-startup-suggestion-button = Паказаць мне як
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Адкрывайце свае любімыя сайты як праграму
