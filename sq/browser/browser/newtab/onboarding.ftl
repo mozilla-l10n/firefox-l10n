@@ -585,6 +585,9 @@ hnt-card-mobile-primary-button = Merrni { -brand-product-name } për celular.
 hnt-card-wallpaper-header = Merrni një sfond të freskët
 hnt-card-wallpaper-body = Bëjeni këtë skenë të ndiheni si në shtëpi, me një sfond që e doni.
 hnt-card-wallpaper-primary-button = Filloni ta përshtatni
+hnt-card-taskbar-tabs-body = Hapni sajtet tuaj më të vizituar, si një aplikacion, me krejt mbrojtjen nga { -brand-product-name }-i.
+hnt-card-taskbar-tabs-primary-button = Shtoni sajte te shtyllë punësh
+hnt-card-extensions-header = Përforcojeni { -brand-short-name }-in me zgjerime
 hnt-card-extensions-primary-button = Eksploroni
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
