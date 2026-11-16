@@ -5,6 +5,17 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Nizamlamalar
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Tənzimləmələr…
+menu-application-set-as-default =
+    .label = { -brand-shorter-name } Əsas Səyyah Olaraq Təyin Edilsin
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = { -brand-product-name } Paylaş
 menu-application-services =
     .label = Xidmətlər
 menu-application-hide-this =
@@ -62,6 +73,20 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Faylı aç…
     .accesskey = A
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Vərəqi Qapat
+           *[other] { $tabCount } Vərəqi Qapat
+        }
+    .accesskey = Q
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Qapat
+    .accesskey = Q
 menu-file-close-window =
     .label = Pəncərəni Qapat
     .accesskey = r
@@ -71,6 +96,15 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Keçidi e-poçt ilə göndər…
     .accesskey = K
+menu-file-share-url =
+    .label = Paylaş
+    .accesskey = P
+menu-file-share-qrcode3 =
+    .label = QR Kod Yarat
+    .accesskey = Q
+menu-file-share-qrcode =
+    .label = QR Kod Törət…
+    .accesskey = Q
 menu-file-share-qrcode2 =
     .label = QR kod yarat
     .accesskey = Q
@@ -92,6 +126,9 @@ menu-file-go-offline =
 menu-edit =
     .label = Düzəlt
     .accesskey = D
+menu-edit-find-in-page =
+    .label = Səhifədə Tap…
+    .accesskey = T
 menu-edit-find-again =
     .label = Yenidən Tap
     .accesskey = Y
@@ -107,6 +144,9 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Alət sətirləri
     .accesskey = A
+menu-view-customize-toolbar2 =
+    .label = Alətlər Panelini Fərdiləşdir…
+    .accesskey = F
 menu-view-sidebar =
     .label = Yan panel
     .accesskey = Y
@@ -140,6 +180,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Əsas Səhifə Stili
     .accesskey = t
+menu-view-repair-text-encoding =
+    .label = Mətn Kodlaşdırmasını Bərpa Et
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -195,6 +238,12 @@ menu-history-undo-menu =
     .label = Son qapadılmış vərəqlər
 menu-history-undo-window-menu =
     .label = Son qapadılmış pəncərələr
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Tarixçədə Axtar
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Vərəqlərdə Axtar
 
 ## Bookmarks Menu
 
@@ -205,6 +254,10 @@ menu-bookmarks-manage =
     .label = Əlfəcinləri İdarə Et
 menu-bookmarks-remote-tabs-promo =
     .label = Əlfəcinləri mobilə sinxronizə et
+menu-bookmark-tab =
+    .label = Cari Vərəqi Əlfəcinlə…
+menu-edit-bookmark =
+    .label = Bu Əlfəcini Redaktə Et…
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
     .label = Əlfəcinlərdə axtar
@@ -223,8 +276,17 @@ menu-places-show-more-in-sidebar =
 
 ## Profiles Menu
 
+menu-profiles-manage-profiles =
+    .label = Profilləri İdarə Et
 menu-profiles-new-profile =
     .label = Yeni profil
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (cari)
+menu-profiles-menu =
+    .label = Profillər
+    .accesskey = P
 
 ## Tools Menu
 
@@ -237,12 +299,21 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Uzantılar və Mövzular
     .accesskey = U
+menu-tools-fxa-sign-in2 =
+    .label = Daxil Ol
+    .accesskey = D
+menu-tools-turn-on-sync2 =
+    .label = Sinxronlaşdırmanı Aç…
+    .accesskey = S
 menu-tools-sync-now =
     .label = İndi Sinxronizə et
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } ilə yenidən bağlan…
     .accesskey = y
+menu-tools-browser-tools =
+    .label = Səyyah Alətləri
+    .accesskey = S
 menu-tools-task-manager =
     .label = Tapşırıq İdarəçisi
     .accesskey = T
@@ -252,6 +323,16 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Səhifə məlumatları
     .accesskey = S
+menu-tools-edit-pdf =
+    .label = PDF Redaktə Et…
+    .accesskey = P
+menu-settings =
+    .label = Tənzimləmələr
+    .accesskey =
+        { PLATFORM() ->
+            [windows] T
+           *[other] T
+        }
 menu-tools-layout-debugger =
     .label = Düzüm Sazlayıcısı
     .accesskey = L
@@ -274,9 +355,18 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Daha çox problem həll etmə məlumatı
     .accesskey = D
+menu-help-share-ideas =
+    .label = Fikirlərinizi və Əks Əlaqənizi Paylaşın…
+    .accesskey = F
 menu-help-enter-troubleshoot-mode2 =
     .label = Problemlərin Həlli Rejimi...
     .accesskey = P
+menu-help-exit-troubleshoot-mode =
+    .label = Problemləri Həlletmə Rejimini Söndür
+    .accesskey = P
+menu-help-switch-device =
+    .label = Yeni Cihaza Keçid
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -287,3 +377,7 @@ menu-help-not-deceptive =
     .accesskey = d
 menu-report-broken-site =
     .label = İşləməyən Saytı Bildir
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals2 =
+    .label = { -brand-product-name } Paylaş

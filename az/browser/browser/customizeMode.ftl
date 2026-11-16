@@ -25,11 +25,19 @@ customize-mode-uidensity-menu-normal =
     .label = Normal
     .tooltiptext = Normal
     .accesskey = N
+customize-mode-uidensity-menu-compact-unsupported =
+    .label = Yığcam (dəstəklənmir)
+    .tooltiptext = Yığcam (dəstəklənmir)
+    .accesskey = Y
 customize-mode-undo-cmd =
     .label = Geri al
 customize-mode-uidensity-link = Pəncərə qalınlığı tənzimləmələri
+customize-mode-lwthemes-link-2 = Mövzuları idarə et
+customize-mode-lwthemes-link = Mövzuları İdarə Et
 customize-mode-touchbar-cmd =
     .label = Touch Bar-ı fərdiləşdir…
+customize-mode-downloads-button-autohide =
+    .label = Boş olduqda düyməni gizlət
 
 ## Labels for the special items that can be added to toolbars in customize mode
 

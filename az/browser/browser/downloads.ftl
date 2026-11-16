@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = Dayandır
     .accesskey = y
@@ -32,14 +37,49 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = F
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Fayl daşınıb və ya yoxdur
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fayl silindi
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Fayl ləğv edildi (Əngəlləndi)
 # Variables:
 #   $size (String) - The size number, for example "1.5".
 #   $unit (String) - The measurement unit, for example "MB".
 downloads-size-with-units = { $size } { $unit }
 downloads-size-unknown = Həcmi bilinmir
 
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+downloads-cmd-use-system-default =
+    .label = Sistem Baxıcısında Aç
+    .accesskey = S
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = { $handler } ilə aç
+    .accesskey = a
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-use-system-default =
+    .label = Həmişə Sistem Baxıcısında Aç
+    .accesskey = H
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Həmişə { $handler } ilə aç
+    .accesskey = H
+
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Həmişə oxşar faylları aç
+    .accesskey = H
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
@@ -120,6 +160,16 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = { $hours } saat { $minutes } dəqiqəyə açılır…
+downloading-file-opens-in-minutes-2 =
+    .value = { $minutes } dəqiqəyə açılır…
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = { $minutes } dəqiqə { $seconds } saniyəyə açılır…
+downloading-file-opens-in-seconds-2 =
+    .value = { $seconds } saniyəyə açılır…
+downloading-file-opens-in-some-time-2 =
+    .value = Tamamlandıqda açılır…
 downloading-file-click-to-open =
     .value = Tamamlananda aç
 
@@ -148,6 +198,7 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Fayllar cihazınızda qalır
+downloads-private-browsing-message = Bütün məxfi pəncərələri qapatsanız belə, bu cihazı işlədən hər kəs endirmələri görə bilər.
 downloads-private-browsing-delete-button =
     .label = Faylları avtomatik sil
     .accesskey = S
@@ -166,6 +217,7 @@ downloads-files-not-downloaded =
        *[other] { $num } fayl endirilmədi.
     }
 downloads-blocked-from-url = { $url } ünvanından endirilmə əngəlləndi.
+downloads-blocked-download-detailed-info = { $url } saytı avtomatik olaraq bir neçə fayl endirməyə cəhd etdi. Sayt xarab ola bilər və ya cihazınızda spam faylları saxlamağa çalışır.
 
 ##
 
@@ -221,7 +273,20 @@ downloads-state-blocked-parental-controls = Valideyn nəzarəti tərəfindən bl
 
 downloads-blocked-malware = Bu faylda virus və ya zərərli proqram var.
 downloads-blocked-potentially-unwanted = Bu fayl kompüterinizə ziyan verə bilər.
+downloads-blocked-potentially-insecure = Fayl endirilmədi: Potensial təhlükəsizlik riski.
 downloads-blocked-uncommon = Bu fayl indiyə qədər çox endirilməyib.
+downloads-blocked-by-content-analysis = Bu fayl təşkilatınız tərəfindən əngəlləndi.
+downloads-warned-by-content-analysis = Bu endirmə təhlükəli ola bilər və təsdiq tələb edir.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+downloads-content-analysis-no-agent-error = Fayl əngəlləndi, çünki { $agent } əlçatan deyil.
+downloads-content-analysis-invalid-agent-signature-error = Fayl əngəlləndi, çünki { $agent } imza yoxlamasından keçə bilmədi.
+downloads-content-analysis-unspecified-error = { $agent } ilə əlaqədə xəta baş verdiyi üçün fayl əngəlləndi.
+downloads-content-analysis-timeout-error = { $agent } vaxtaşımına uğradı, buna görə də fayl əngəlləndi.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -233,8 +298,14 @@ downloads-unblock-header-unblock = Bu endirməyə icazə vermək istədiyinizə 
 downloads-unblock-header-open = Bu faylı açmaq istədiyinizə əminsiniz?
 downloads-unblock-type-malware = Bu faylda kompüterinizə zərər verəcək virus və ya zərərli proqram var.
 downloads-unblock-type-potentially-unwanted = Faydalı kimi görünən bu fayl, proqramlarınızda və tənzimləmələrinizdə gözlənilməz dəyişikliklər edəcək.
+downloads-unblock-type-content-analysis-warn = Təşkilatınız bu məzmunu təhlükəli kimi qeyd edən məlumat itkisinin qarşısını alan proqram təminatı istifadə edir.
 downloads-unblock-type-uncommon = Bu fayl indiyə qədər çox endirilməyib və açılması təhlükəli ola bilər. İçində virus saxlaya və ya proqramlarınız və tənzimləmələriniz üzərində gözlənilməyən dəyişikliklər edə bilər.
+downloads-unblock-insecure = Cari sənəd təhlükəsiz HTTPS bağlantısı ilə ötürülsə də, endirmə HTTP üzərindən təklif olunur. Davam etsəniz, endirmə prosesi zamanı fayl xarab ola və ya dəyişdirilə bilər.
 downloads-unblock-tip = Alternativ bir endirmə qaynağı axtara bilər və ya sonra yenidən yoxlaya bilərsiniz.
+downloads-unblock-content-analysis-warn-tip = Yenə də onu endirməyi seçə bilərsiniz.
+downloads-unblock-content-analysis-blocked = Təşkilatınız bu endirməni əngəlləyən məlumat itkisinin qarşısını alan proqram təminatından istifadə edir.
+downloads-unblock-content-analysis-override = Bu qərar yalnız təşkilatınız tərəfindən dəyişdirilə bilər.
+downloads-unblock-content-analysis-tip = Endirməyə davam edə və ya onu ləğv edə bilərsiniz.
 downloads-unblock-button-open =
     .label = Aç
 downloads-unblock-button-unblock =
