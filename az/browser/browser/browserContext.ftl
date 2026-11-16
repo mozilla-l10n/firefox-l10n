@@ -104,6 +104,12 @@ toolbar-button-stop-reload =
 toolbar-button-stop-reload-2 =
     .title = Yenilə
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Hesab
+    .tooltiptext = Hesab
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -112,6 +118,10 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Səhifəni Əlfəcinlə…
+    .tooltiptext = Səhifəni əlfəcinlə
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -123,6 +133,35 @@ main-context-menu-bookmark-page-mac =
 # so should probably have the same access key if possible.
 main-context-menu-edit-bookmark-mac =
     .label = Əlfəcini Düzəlt…
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Səhifəni Əlfəcinlə…
+    .tooltiptext = Səhifəni əlfəcinlə ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Əlfəcini Redaktə Et…
+    .tooltiptext = Əlfəcini redaktə et
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Əlfəcini Redaktə Et…
+    .tooltiptext = Əlfəcini redaktə et ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Səhifəni Əlfəcinlə…
+    .tooltiptext = Səhifəni əlfəcinlə ({ $shortcut })
+    .accesskey = m
+main-context-menu-edit-bookmark =
+    .aria-label = Əlfəcini Redaktə Et…
+    .tooltiptext = Əlfəcini redaktə et
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Əlfəcini Redaktə Et…
+    .tooltiptext = Əlfəcini redaktə et ({ $shortcut })
     .accesskey = m
 main-context-menu-open-link =
     .label = Keçidi Aç
@@ -142,15 +181,36 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Keçidi Yeni Məxfi Pəncərədə Aç
     .accesskey = M
+main-context-menu-bookmark-link-2 =
+    .label = Keçidi Əlfəcinlə…
+    .accesskey = B
 main-context-menu-save-link =
     .label = Bağlantını fərqli saxla…
     .accesskey = f
+main-context-menu-bookmark-page-2 =
+    .aria-label = Səhifəni Əlfəcinlə…
+    .tooltiptext = Səhifəni əlfəcinlə
 
 ##
 
 main-context-menu-copy-email =
     .label = E-poçt ünvanını köçür
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = Telefon Nömrəsini Köçür
+    .accesskey = T
+main-context-menu-copy-link-simple =
+    .label = Keçidi Köçür
+    .accesskey = K
+main-context-menu-preview-link =
+    .label = Keçidə Önbaxış
+    .accesskey = Ö
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Təmiz Keçidi Köçür
+    .accesskey = T
 
 ## Media (video/audio) controls
 ##
@@ -173,6 +233,19 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Səsi aç
     .accesskey = ə
+main-context-menu-media-play-speed-2 =
+    .label = Sürət
+    .accesskey = S
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Dövr
     .accesskey = D
@@ -203,27 +276,56 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Şəkli Yenilə
     .accesskey = Y
+main-context-menu-image-view-new-tab =
+    .label = Şəkli Yeni Vərəqdə Aç
+    .accesskey = V
+main-context-menu-video-view-new-tab =
+    .label = Videonu Yeni Vərəqdə Aç
+    .accesskey = V
 main-context-menu-image-copy =
     .label = Şəkli Köçür
     .accesskey = y
+main-context-menu-image-copy-link =
+    .label = Şəkil Keçidini Köçür
+    .accesskey = K
+main-context-menu-video-copy-link =
+    .label = Video Keçidini Köçür
+    .accesskey = K
+main-context-menu-audio-copy-link =
+    .label = Audio Keçidini Köçür
+    .accesskey = K
 main-context-menu-image-save-as =
     .label = Şəkili fərqli saxla…
     .accesskey = r
 main-context-menu-image-email =
     .label = Rəsmi e-poçt ilə göndər…
     .accesskey = R
+main-context-menu-image-set-image-as-background =
+    .label = Şəkli Masaüstü Arxa Planı Olaraq Qur…
+    .accesskey = M
+main-context-menu-image-copy-text =
+    .label = Şəkildən Mətni Köçür
+    .accesskey = M
 main-context-menu-image-info =
     .label = Şəkil məlumatlarını göstər
     .accesskey = r
 main-context-menu-image-desc =
     .label = Açıqlamanı Göstər
     .accesskey = A
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Şəkli { $engine } ilə axtar
+    .accesskey = a
 main-context-menu-video-save-as =
     .label = Videonu Fərqli Saxla…
     .accesskey = a
 main-context-menu-audio-save-as =
     .label = Səsi fərqli saxla…
     .accesskey = f
+main-context-menu-video-take-snapshot =
+    .label = Anlıq Görüntü Çək…
+    .accesskey = A
 main-context-menu-video-email =
     .label = Videonu e-poçt ilə göndər…
     .accesskey = V
@@ -233,12 +335,50 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Cihaza göndər
     .accesskey = n
+main-context-menu-send-to-mobile-2 =
+    .label = Mobil Cihaza Göndər
+    .accesskey = M
+main-context-menu-send-to-mobile-sign-in = Vərəqləri Göndərmək üçün Daxil Olun
+main-context-menu-send-to-mobile-enable-sync2 = Vərəq göndərmək üçün sinxronlaşdırmanı aktiv edin
+main-context-menu-send-to-mobile-connect-phone2 = Telefonunuzu qoşun
+main-context-menu-send-to-mobile-device-missing2 = Cihazınızı Görmürsünüz?
+main-context-menu-send-to-mobile-sign-in-from-link = Keçid Göndərmək üçün Daxil Olun
+main-context-menu-send-to-mobile-sign-in-from-page = Səhifə Göndərmək üçün Daxil Olun
+main-context-menu-send-to-mobile-enable-sync3 = Vərəqləri Göndərmək üçün Sinxronlaşdırmanı Açın
+main-context-menu-send-to-mobile-enable-sync-from-link = Keçid Göndərmək üçün Sinxronlaşdırmanı Açın
+main-context-menu-send-to-mobile-enable-sync-from-page = Səhifə Göndərmək üçün Sinxronlaşdırmanı Açın
+main-context-menu-send-to-mobile-connect-phone3 = Vərəqləri Göndərmək üçün Cihaz Qoşun
+main-context-menu-send-to-mobile-connect-phone-from-link = Keçid Göndərmək üçün Cihaz Qoşun
+main-context-menu-send-to-mobile-connect-phone-from-page = Səhifə Göndərmək üçün Cihaz Qoşun
 
 ##
 
+# Displayed when there are saved passwords and the user clicks inside a username or password field
+main-context-menu-use-saved-password =
+    .label = Saxlanmış Parolu İşlət
+    .accesskey = P
+main-context-menu-use-relay-mask =
+    .label = { -relay-brand-short-name } E-poçt Maskası İşlət
+    .accesskey = E
+main-context-menu-suggest-strong-password =
+    .label = Güclü Parol Təklif Et…
+    .accesskey = G
+main-context-menu-manage-passwords =
+    .label = Parolları İdarə Et
+    .accesskey = P
+main-context-menu-add-engine =
+    .label = Axtarış Mühərrikini Əlavə Et
+    .accesskey = A
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Fəaliyyətlər Menyusunu Aktiv Et
+    .accesskey = F
 main-context-menu-link-send-to-device =
     .label = Keçidi cihaza göndər
     .accesskey = n
+main-context-menu-link-send-to-mobile =
+    .label = Keçidi Mobil Cihaza Göndər
+    .accesskey = M
 main-context-menu-frame =
     .label = Bu Çərçivə
     .accesskey = u
@@ -254,6 +394,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Çərçivəni yenilə
     .accesskey = e
+main-context-menu-frame-add-bookmark =
+    .label = Çərçivəni Əlfəcinlə…
+    .accesskey = Ə
 main-context-menu-frame-save-as =
     .label = Çərçivəni Fərqli Saxla…
     .accesskey = Ç
@@ -266,6 +409,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Çərçivə Məlumatlarını Göstər
     .accesskey = M
+main-context-menu-print-selection-2 =
+    .label = Seçimi Çap Et…
+    .accesskey = Ç
 main-context-menu-view-selection-source =
     .label = Seçimin qaynaq kodunu göstər
     .accesskey = e
@@ -284,8 +430,33 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Təftiş et
     .accesskey = T
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Əlçatanlıq Xassələrini Yoxla
+    .accesskey = Ə
 main-context-menu-inspect-a11y-properties =
     .label = Əlçatanlıq özəlliklərini yoxla
 main-context-menu-eme-learn-more =
     .label = DRM haqqında ətraflı öyrən…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Keçidi Yeni { $containerName } Vərəqində Aç
+    .accesskey = V
+main-context-menu-reveal-password =
+    .label = Parolu Göstər
+    .accesskey = P
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Yeni
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page =
+    .label = Səhifəni köçür
+main-context-menu-pdfjs-cut-page =
+    .label = Səhifəni kəs
+main-context-menu-pdfjs-delete-page =
+    .label = Səhifəni sil
+main-context-menu-pdfjs-save-page =
+    .label = Seçimi fərqli saxla…
