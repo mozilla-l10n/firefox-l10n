@@ -22,7 +22,50 @@ appearance-browser-icon-button =
 appearance-browser-icon-subpage-title =
     .heading = Daha çox simgə
 
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Standart
+# “Bonus” rather than “Special” as these are additional icons unlocked by an
+# action.
+appearance-browser-icon-bonus-group2 =
+    .label = Bonus
+
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = { -brand-short-name } fərdiləşdirmək üçün bonus tülkü nişanlarını tamamlayın və kilidini açın.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Bütün bonus nişanların kilidini açdınız!
+appearance-browser-icon-set-default-button =
+    .label = Standart təyin et
 appearance-browser-icon-pin-button =
     .label = Tapşırıq panelinə bərkit
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Standart
+appearance-browser-icon-retro2004 =
+    .label = Retro 2004
+appearance-browser-icon-retro2017 =
+    .label = Retro 2017
+appearance-browser-icon-pride =
+    .label = Pride
+appearance-browser-icon-minimal =
+    .label = Minimal
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Pikselli
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .description = Müəllif: @heyheymomodraws
+    .label = Momo

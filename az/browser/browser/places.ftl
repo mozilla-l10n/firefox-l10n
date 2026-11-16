@@ -5,17 +5,38 @@
 places-open =
     .label = Aç
     .accesskey = A
+places-open-in-tab =
+    .label = Yeni Vərəqdə Aç
+    .accesskey = V
+places-open-in-container-tab =
+    .label = Yeni Konteyner Vərəqində Aç
+    .accesskey = K
+places-open-all-bookmarks =
+    .label = Bütün Əlfəcinləri Aç
+    .accesskey = B
 places-open-all-in-tabs =
     .label = Hamısını Vərəqlərdə Aç
     .accesskey = A
+places-open-in-window =
+    .label = Yeni Pəncərədə Aç
+    .accesskey = P
+places-open-in-private-window =
+    .label = Yeni Məxfi Pəncərədə Aç
+    .accesskey = M
 places-empty-bookmarks-folder =
     .label = (Boş)
+places-add-bookmark =
+    .label = Əlfəcin Əlavə Et…
+    .accesskey = k
 places-add-folder-contextmenu =
     .label = Qovluq Əlavə Et…
     .accesskey = F
 places-add-folder =
     .label = Qovluq Əlavə Et…
     .accesskey = o
+places-add-separator =
+    .label = Ayırıcı Əlavə Et
+    .accesskey = A
 places-view =
     .label = Görünüş
     .accesskey = G
@@ -40,9 +61,31 @@ places-history =
     .aria-label = Tarixçə
 places-bookmarks-search =
     .placeholder = Əlfəcinlərdə Axtar
+places-forget-domain-data =
+    .label = Bu Saytı Unut…
+    .accesskey = U
 places-sortby-name =
     .label = Ada görə sırala
     .accesskey = k
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Əlfəcini Redaktə Et…
+    .accesskey = R
+places-edit-generic =
+    .label = Redaktə Et…
+    .accesskey = R
+places-edit-folder2 =
+    .label = Qovluğu Redaktə Et…
+    .accesskey = Q
+# Variables
+#   $count (number) - Number of folders to delete
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Qovluğu Sil
+           *[other] Qovluqları Sil
+        }
+    .accesskey = S
 # Variables:
 #   $count (number) - The number of pages selected for removal.
 places-delete-page =
@@ -74,6 +117,15 @@ places-delete-bookmark =
            *[other] Əlfəcinləri sil
         }
     .accesskey = S
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Səhifəni Əlfəcinlə…
+           *[other] Səhifələri Əlfəcinlə…
+        }
+    .accesskey = Ə
 places-untag-bookmark =
     .label = Etiketi çıxart
     .accesskey = ç
@@ -198,3 +250,14 @@ places-search-downloads =
 ##
 
 places-locked-prompt = { -brand-short-name } proqramına aid fayllardan biri başqa bir proqram tərəfindən istifadə olunduğu üçün, əlfəcin və səyahət keçmişi sistemi işləməyəcək. Bəzi təhlükəsizlik proqramları buna səbəb ola bilər.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Yeni
+    .label = Qovluğu Paylaş
+    .accesskey = P
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = Yeni
+    .label = Qovluğu Paylaş

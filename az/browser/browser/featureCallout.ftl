@@ -88,15 +88,23 @@ bookmarks-toolbar-callout-2b-secondary-button-label = İndi yox
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Düzgün cavaba dərhal ehtiyacınız var?
+perplexity-callout-theme-2-title = Perplexity sınayın: axtarışın yeni yolu
+perplexity-callout-theme-1-subtitle-1 = Perplexity sınayın. Mənbələr daxil tam cavablar istədiyiniz zaman onu axtarış düyməsindən seçin.
+perplexity-callout-theme-1-subtitle-2 = Suallar verin. Tam, yaxşı istinadlı cavablar alın. Perplexity sınamaq üçün onu axtarış düyməsindən seçin.
+perplexity-callout-theme-2-subtitle-1 = Perplexity-dən soruşun. Mənbələr daxil tam cavablar alacaqsınız.
+perplexity-callout-theme-2-subtitle-2 = Suallar verin. Tam, yaxşı istinadlı cavablar alın.
 perplexity-callout-primary-label = Perplexity-dən soruş
-perplexity-callout-secondary-label-1 = Qapat
+perplexity-callout-secondary-label-1 = Rədd et
 perplexity-callout-secondary-label-2 = Başa düşdüm
 
 ## Startpage callout strings. Startpage (https://www.startpage.com/) is a
 ## brand name and should not be translated or transliterated.
 
-start-page-callout-primary-label = Startpage-i yoxla
-start-page-callout-secondary-label = Qapat
+start-page-callout-title = Məxfiliyə yönəlmiş yeni axtarışı sınamaq istəyirsiniz?
+start-page-callout-subtitle = Startpage sınayın. O, başlanğıcdan axtarışlarınızı daha məxfi saxlamaq üçün hazırlanıb.
+start-page-callout-primary-label = Startpage sına
+start-page-callout-secondary-label = Rədd et
 
 ## Account Adoption Passwords callout strings
 
