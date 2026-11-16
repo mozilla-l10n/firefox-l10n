@@ -76,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = کؽ گاشڌ ترسته بۊ
 about-private-browsing-nova-info-body = بستن پوی نیمدری یل سیخومی، کۊکیا، ویرگار وو داده یل وبگه ایسا ن پاک اکونه.
 about-private-browsing-nova-info-link = کؽ گاشڌ ترسته بۊ هنی فعالیت مونه بنیره؟
 about-private-browsing-private-window-basics-link = اۊسۊل ٱولیه نیمدری سیخومی
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } جۊری تراهی وابیڌه ک وا زفت وابیڌنا منی ری و ری رڌجۊری، مجال گشتن هریم سیخومی ایسا ن زفت اکونه. بستن ای نیمدری ویرگار، کۊکیا وو داده یل وبگه هونه پاک اکونه تا گشتن ایسا ز تؽ منتورووݩ دیری ای دسگا سیخومی بمهنه.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -85,6 +86,7 @@ about-private-browsing-nova-info-subheader2 = هر سا پوی نیمدریا س
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = اۊسۊل ٱولیه نیمدری سیخومی
+about-private-browsing-spotlight-basics-subtitle = نیمدری یل سیخومی هیاری کونن تا گشتن ایسا ز تؽ منتورووݩ دیری ای دسگا سیخومی بمهنه. ٱما ایسا ن ناشناس نؽکونن وو پوی داده یل تووݩ ن پاک نؽکونن.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = چ وا دووست
