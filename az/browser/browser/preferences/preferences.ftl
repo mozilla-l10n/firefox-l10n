@@ -916,10 +916,6 @@ search-suggestions-cant-show-2 =
 addressbar-header-1 =
     .description = Ünvan sətrində hansı təkliflərin göstəriləcəyini seçin.
     .label = Ünvan sətri
-# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
-addressbar-header-firefox-suggest-2 =
-    .description = Ünvan sətrində axtarış edərkən faydalı təkliflər görün.
-    .label = { -firefox-suggest-brand-name }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1405,8 +1401,6 @@ primary-password-os-auth-dialog-message-win = Ana parol oluşturmak üçün Wind
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Baş Parol yarat
 master-password-os-auth-dialog-caption = { -brand-full-name }
-# The macOS string is preceded by the operating system with "Firefox is trying to ".
-autofill-creditcard-os-dialog-message = Saxlanılmış ödəniş məlumatlarınıza daxil olmaq üçün təsdiqləyin.
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -1461,7 +1455,6 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = Bu ünvan silinsin?
 addresses-delete-address-prompt-confirm-button = Sil
 addresses-delete-address-prompt-cancel-button = Ləğv et
-autofill-addresses-add-button = { "" }
 autofill-addresses-manage-addresses-title =
     .heading = Saxlanılmış ünvanlar
 # This message is displayed when no addresses are stored in Firefox
@@ -1708,9 +1701,6 @@ addressbar-locbar-suggest-sponsored-option-2 =
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Yazarkən Mozilla-dan təklifləri əldə et
-addressbar-dismissed-suggestions-label-2 =
-    .description = Rədd edilmiş təklifləri bərpa edin
-    .label = Rədd edilmiş təkliflər
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Təklifləri bərpa et
 
@@ -1774,7 +1764,6 @@ content-blocking-baseline-exceptions-3 =
     .description = Yalnızca takip kodu içerebilecek temel öğelerin engelini kaldırarak sitelerin ve özelliklerin yüklenmesine yardımcı olur. En yaygın sorunları kapsar.
     .label = Önemli site sorunlarını düzelt (önerilir)
 content-blocking-baseline-uncheck-warning-dialog-title = Qorumanı söndürmək istəyirsiniz?
-content-blocking-baseline-uncheck-warning-dialog-body = Bu qorumanı söndürmək məxfiliyinizə təsir edə bilər.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Düzeltmeleri qapat
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Düzeltmeleri açık tut
 content-blocking-reload-description = Dəyişikliklərin qüvvəyə minməsi üçün vərəqlərinizi yenidən yükləməlisiniz.
@@ -2270,12 +2259,10 @@ preferences-ai-controls-block-confirmation-heading = Sİ təkmilləşdirmələri
 preferences-ai-controls-block-confirmation-description = { -brand-short-name }-da yeni və ya cari süni intellekt təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz.  Sonradan istifadəsinə davam etmək istədiyiniz şeylərin əngəlini qaldıra bilərsiniz.
 preferences-ai-controls-block-confirmation-features-start = Nələr əngəllənəcək:
 preferences-ai-controls-block-confirmation-translations = Tərcümələr
-preferences-ai-controls-block-confirmation-pdfjs = PDF xülasəsi
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Vərəq qrupu təklifləri
 preferences-ai-controls-block-confirmation-key-points = Əsas məqamlar xülasəsi
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
 preferences-ai-controls-block-confirmation-speech-recognition = Yerli nitq tanıma
-preferences-ai-controls-block-confirmation-features-after = və digər AI xüsusiyyətləri.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Ləğv et
 preferences-ai-controls-block-confirmation-confirm =

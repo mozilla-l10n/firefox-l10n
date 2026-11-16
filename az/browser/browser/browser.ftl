@@ -570,7 +570,6 @@ popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr payla
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = Bu pəncərəni paylaşırsınız.
 sharing-warning-screen = Bütün ekranınızı paylaşırsınız.
 sharing-warning-proceed-to-tab =
     .label = Vərəqə keç
@@ -1067,9 +1066,6 @@ fullscreen-warning-no-domain = Bu sənəd artıq tam ekrandır
 fullscreen-exit-button = Tam erkandan çıx (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam erkandan çıx (esc)
-fullscreen-keyboardlock-exit-button = Tam ekrandan çıxmaq üçün { $key } basıb saxlayın
-# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-keyboardlock-exit-mac-button = Tam ekrandan çıxmaq üçün { $key } basıb saxlayın
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1611,14 +1607,10 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
-process-hang-selected-tab-message = Bu səhifədəki bir veb prosesi səhifəni yavaşladır. Problem həll olunmayana qədər bu səhifə cavab verməyə bilər.
 process-hang-nonspecific-tab-message = Bir veb-səhifə { -brand-short-name } səyyahını yavaşladır. Səyyahınızı sürətləndirmək üçün həmin səhifəni dayandırın.
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = “{ $title }” { -brand-short-name } səyyahını yavaşladır. Səyyahınızı sürətləndirmək üçün həmin səhifəni dayandırın.
-# Variables:
-#   $addonName (String): the name of the extension.
-process-hang-addon-message = “{ $addonName }” uzantısı səhifəni yavaşladır. Problem həll olunmayana qədər bu səhifə cavab verməyə bilər.
 process-hang-addon-learn-more =
     .value = Ətraflı öyrən
 process-hang-stop-button =

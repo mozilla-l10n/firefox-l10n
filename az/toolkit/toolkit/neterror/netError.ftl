@@ -98,5 +98,3 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> sayt�
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-
-fp-neterror-denied-port-access = Bu ünvan baxışdan başqa məqsədlər üçün istifadə edilən bir şəbəkə bağlantı nöqtəsi istifadə edir. Brauzeriniz təhlükəsizlik üçün bu bağlanma istəyini yerinə yetirmədi.

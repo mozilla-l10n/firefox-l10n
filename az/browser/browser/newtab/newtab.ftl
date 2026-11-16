@@ -970,9 +970,6 @@ newtab-wallpaper-toggle-title =
 # Label for the grid of wallpaper categories in the customize panel
 newtab-wallpaper-category-list =
     .aria-label = Divar kağızı kateqoriyaları
-# Variables
-#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
-newtab-wallpaper-error-max-file-size = Şəkil { $maxSize } MB fayl ölçüsü limitini aşdı. Daha kiçik bir şəkil sınayın.
 newtab-wallpaper-error-upload-file-type = Faylınızı yükləyə bilmədik. Başqa bir şəkil sınayın.
 newtab-wallpaper-light-red-panda = Kızıl panda
 newtab-wallpaper-light-mountain = Beyaz dağ
@@ -1313,8 +1310,6 @@ newtab-section-mangage-topics-followed-topics-empty-state = Henüz hiçbir konuy
 newtab-section-mangage-topics-blocked-topics = Engellendi
 newtab-section-mangage-topics-blocked-topics-empty-state = Henüz hiçbir konuyu engellemediniz.
 newtab-custom-wallpaper-title = Fərdi divar kağızları artıq buradadır
-# 'Make firefox yours" means to customize or personalize
-newtab-custom-wallpaper-subtitle = Öz divar kağızınızı yükləyin və ya fərdi rəng seçin.
 newtab-custom-wallpaper-cta = Sına
 
 ## Strings for new user activation custom wallpaper highlight
