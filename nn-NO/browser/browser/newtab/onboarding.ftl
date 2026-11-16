@@ -660,6 +660,7 @@ hnt-card-wallpaper-header = Vel eit nytt bakgrunnsbilde
 hnt-card-wallpaper-body = Gjer denne skjermen meir personleg med eit bakgrunnsbilde du likar.
 hnt-card-wallpaper-primary-button = Start tilpassing
 hnt-card-taskbar-tabs-header = Legg til favorittnettstadane dine på oppgåvelinja i Windows
+hnt-card-taskbar-tabs-body = Opne dei mest besøkte nettstadane dine som ein app med alt vernet frå { -brand-product-name }.
 hnt-card-taskbar-tabs-primary-button = Legg til nettstadar på oppgavelinja
 hnt-card-extensions-header = Gje { -brand-short-name } eit løft med utvidingar
 hnt-card-extensions-body = Tilpass nettlesaropplevinga di med dei mest populære utvidingane våre.

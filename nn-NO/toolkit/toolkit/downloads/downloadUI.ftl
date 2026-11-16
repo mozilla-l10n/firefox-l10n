@@ -40,6 +40,19 @@ download-ui-cancel-downloads-ok =
        *[other] Avbryt { $downloadsCount } nedlastingar
     }
 download-ui-confirm-cancel-button = Avbryt
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Stoppe 1 nedlasting og avslutte { -brand-short-name }?
+               *[other] Stoppe { $downloadsCount } nedlastingar og avslutte { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Stoppe 1 nedlasting og avslutte { -brand-short-name }?
+               *[other] Stoppe { $downloadsCount } nedlastingar og avslutte { -brand-short-name }?
+            }
+    }
 download-ui-confirm-quit-message = { -brand-short-name } vil prøve å halde fram nedlastingane når programmet blir opna igjen, men framdrifta kan gå tapt.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
@@ -48,6 +61,11 @@ download-ui-confirm-quit-button =
     }
 download-ui-confirm-offline-message = { -brand-short-name } vil prøve å halde fram nedlastingane når du er tilkopla igjen, men framdrifta kan gå tapt.
 download-ui-confirm-offline-button = Kople frå
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Du vil ikkje kunne halde fram denne nedlastinga.
+       *[other] Du vil ikkje kunne halde fram desse nedlastingane.
+    }
 download-ui-confirm-private-browsing-button = Lat att vindauge
 
 ##
