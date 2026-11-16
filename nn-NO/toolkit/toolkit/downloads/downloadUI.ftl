@@ -59,6 +59,11 @@ download-ui-confirm-quit-button =
         [windows] Avslutt { -brand-short-name }
        *[other] Avslutt { -brand-short-name }
     }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Stoppe 1 nedlasting og gå i fråkopla modus?
+       *[other] Stoppe { $downloadsCount } nedlastingar og gå i fråkopla modus?
+    }
 download-ui-confirm-offline-message = { -brand-short-name } vil prøve å halde fram nedlastingane når du er tilkopla igjen, men framdrifta kan gå tapt.
 download-ui-confirm-offline-button = Kople frå
 download-ui-confirm-private-browsing-title =
