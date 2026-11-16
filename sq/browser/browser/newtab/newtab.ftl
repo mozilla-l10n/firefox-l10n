@@ -1775,6 +1775,12 @@ newtab-sports-widget-match-aria-label-results =
 #   $awayPenalty (number) - The away team's penalty shootout score
 newtab-sports-widget-match-aria-label-results-penalties =
     .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) kundër { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Drejtpërsëdrejti: { $homeTeam }, { $homeScore } kundër { $awayTeam }, { $awayScore }
 # An upcoming scheduled match row. Announces kickoff time and date.
 # Variables:
 #   $date (Date) - The scheduled kickoff date/time
@@ -1813,9 +1819,14 @@ newtab-sports-widget-team-tbd = Për t’u përcaktuar
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Festoni fillimin e Botërorit me sfonde të rinj
+newtab-sports-widget-message-wallpapers-body = Shtoni te shfletuesi juaj pak energji dite ndeshjesh gjatë turneut
 newtab-sports-widget-message-wallpapers-cta = Zgjidhni sfond
+newtab-sports-widget-message-wallpapers-semifinals-title = Merrni një sfond të ri për gjysmëfinalet
+newtab-sports-widget-message-wallpapers-semifinals-body = Bëni gati atmosferën për ndeshjet më të fuqishme të Botërorit.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Shtoni widget-e
+newtab-sports-widget-message-day-in-play-title = Bëjeni ditën tuaj më dinamike me widget-e { -brand-product-name }-i
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Eksploroni widget-e
 
