@@ -574,6 +574,17 @@ welcome-back-onboarding-card-tilebutton-label = Provojeni
 ## New Tab Onboarding cards
 
 hnt-card-import-header = Ujdiseni { -brand-short-name }-in brenda sekondash
+hnt-card-import-body = Sillni faqerojtësit tuaj, fjalëkalimet dhe të tjera gjëra, prej një shfletuesi tjetër.
+hnt-card-import-primary-button = Importoni të dhënat tuaja
+hnt-card-default-body = { -brand-product-name }-i është i vetmi shfletues i rëndësishëm i krijuar për t’ju mbrojtur, jo për t’ju gjurmuar.
+hnt-card-default-primary-button = Hapini lidhjet me { -brand-short-name }
+hnt-card-pin-header = Mbajeni { -brand-short-name } një klikim larg
+hnt-card-mobile-header = Merrni mbrojtje të brendshme në telefonin tuaj
+hnt-card-mobile-body = Shkarkoni { -brand-product-name }-in për celular, për privatësi shtesë gjatë lëvizjesh.
+hnt-card-mobile-primary-button = Merrni { -brand-product-name } për celular.
+hnt-card-wallpaper-header = Merrni një sfond të freskët
+hnt-card-wallpaper-body = Bëjeni këtë skenë të ndiheni si në shtëpi, me një sfond që e doni.
+hnt-card-wallpaper-primary-button = Filloni ta përshtatni
 hnt-card-extensions-primary-button = Eksploroni
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
