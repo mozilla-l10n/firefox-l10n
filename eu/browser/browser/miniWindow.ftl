@@ -48,7 +48,7 @@ toolbar-button-mini-window =
     .tooltiptext = Erabili leiho txikia
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
-    .label = Aldatu atala lekuz leiho txikira
+    .label = Eraman atala leiho txikira
     .accesskey = h
 # Moves full tabs to Mini Windows, one window per tab.
 # Variables
@@ -65,11 +65,11 @@ move-to-mini-window =
 ## what to move into a Mini Window.
 
 mini-window-overlay-header = Hautatu ikusgai mantentzeko orriaren zatia
-mini-window-overlay-instructions = Arrastatu edo egin klik leiho txikira lekuz aldatu beharreko eremua hautatzeko. Goian mantenduko da nabigatzen duzun bitartean.
+mini-window-overlay-instructions = Arrastatu edo egin klik leiho txikira eraman beharreko eremua hautatzeko. Goian mantenduko da nabigatzen duzun bitartean.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Aukeratu zer eraman behar den leiho txikira
-mini-window-panel-move-selection = Aldatu hautapena lekuz
-mini-window-panel-move-full-tab = Aldatu fitxa osoa lekuz
+mini-window-panel-move-selection = Eraman hautapena
+mini-window-panel-move-full-tab = Eraman fitxa osoa

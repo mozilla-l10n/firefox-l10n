@@ -203,7 +203,7 @@ tab-context-move-tabs =
 tab-context-move-tabs3 =
     .label =
         { $tabCount ->
-            [1] Eraman hona:
+            [1] Eraman hona
            *[other] Eraman { $tabCount } fitxa hona
         }
     .accesskey = M

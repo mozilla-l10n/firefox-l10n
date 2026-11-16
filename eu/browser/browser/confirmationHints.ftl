@@ -34,4 +34,4 @@ confirmation-hint-duplicate-tabs-closed =
        *[other] { $tabCount } fitxa itxita
     }
 # Subtle notification shown when Extensions button moves into the application menu.
-confirmation-hint-extensions-button-hidden = Menura mugituta
+confirmation-hint-extensions-button-hidden = Menura eramanda

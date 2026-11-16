@@ -1477,6 +1477,9 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = قلوه دووسته بۊین
+process-hang-stop-button =
+    .label = واڌاشتن
+    .accesskey = و
 
 ## Onboarding Finish Setup checklist
 

@@ -49,6 +49,12 @@ downloads-shortcut =
             [linux] Y
            *[other] J
         }
+addons-shortcut-2 =
+    .key =
+        { PLATFORM() ->
+            [macos] E
+           *[other] F
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
