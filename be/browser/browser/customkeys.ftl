@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Капіяваць URL карткі
 customkeys-file-focus-search = Фокус на радок пошуку
 customkeys-history-reopen-tab = Паўторна адкрыць апошнюю закрытую картку
 customkeys-history-reopen-window = Паўторна адкрыць апошняе закрытае акно
+customkeys-history-reopen-tab-current-window = Пераадкрыць апошнюю закрытую картку бягучага акна
 customkeys-sidebar-toggle = Паказаць/схаваць бакавую панэль
 customkeys-view-bookmarks-toolbar = Паказаць/схаваць паліцу закладак
 customkeys-view-picture-in-picture = Выява ў выяве
@@ -84,6 +85,16 @@ customkeys-key-new =
     .label = Націсніце новую клавішу:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (не можа быць зменена)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (усталёўваецца ў наладах клавіятуры macOS)
+       *[other] (усталёўваецца ў наладах клавіятуры вашай сістэмы)
+    }
 
 ## Confirmation dialogs
 
