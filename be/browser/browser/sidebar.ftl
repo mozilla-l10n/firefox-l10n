@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Зрабіць закладку…
 sidebar-history-context-menu-delete-pages =
     .label = Выдаліць старонкі з гісторыі
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Выдаліць
 
 ## Labels for sidebar bookmarks context menu items
 

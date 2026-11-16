@@ -37,6 +37,11 @@ tab-splitview-splitter =
     .aria-label = Змяніць памер картак падзеленага выгляду
 tab-devtools-splitter =
     .aria-label = Змяніць памер паліцы прылад распрацоўшчыка
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Дадаць карткі ў групу
+    .accesskey = п
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -303,6 +308,15 @@ tab-context-move-tab-to-new-group =
            *[many] Дадаць карткі ў новую групу
         }
     .accesskey = п
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Дадаць у групу
+            [one] Дадаць { $tabCount } картку ў групу
+            [few] Дадаць { $tabCount } карткі ў групу
+           *[many] Дадаць { $tabCount } картак у групу
+        }
+    .accesskey = п
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -484,6 +498,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Асобны падзелены выгляд
     .accesskey = е
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Раздзяліць карткі
+    .accesskey = Р
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Пераставіць карткі

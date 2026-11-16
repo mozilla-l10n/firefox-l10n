@@ -271,6 +271,10 @@ menu-bookmarks-other =
     .label = Іншыя закладкі
 menu-bookmarks-mobile =
     .label = Мабільныя закладкі
+# The native macOS menu may limit the number of entries. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Паказаць больш у бакавой панэлі
 
 ## Profiles Menu
 
