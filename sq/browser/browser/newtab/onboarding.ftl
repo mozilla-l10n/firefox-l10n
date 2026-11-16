@@ -547,14 +547,24 @@ onboarding-refresh-tab-layout-minimal = Minimale
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-rejected-title = E mora vesh
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Nëse ndërroni mendje, mund ta përditësoni kurdo parazgjedhjen, që nga <a data-l10n-name="settings">Rregullimet</a>.
 
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Zgjidhni një temë
+onboarding-theme-picker-subtitle = Sillni pakëz ngjyrë më tepër te { -brand-short-name }-i.
 onboarding-theme-picker-button-label = Ruaje dhe vazhdo
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Gjëra në pah për veçorinë
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = Veçori të reja, të krijuara për t’ju ndihmuar të bëni më tepër gjëra
 welcome-back-onboarding-primary-button-label = Nisni shfletimin
 welcome-back-onboarding-secondary-button-label = Shihni ç’ka tjetër të re
 welcome-back-onboarding-pill-label-vpn = VPN e brendshme
@@ -563,6 +573,7 @@ welcome-back-onboarding-card-tilebutton-label = Provojeni
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Ujdiseni { -brand-short-name }-in brenda sekondash
 hnt-card-extensions-primary-button = Eksploroni
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.

@@ -397,6 +397,9 @@ windows-10-eos-feature-toast-dismiss-button = Hidhe tej
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft-i s’e mbulon më Windows 10-n.</strong> Kopjeruani informacionin tuaj, që ta bëni gati { -brand-product-name }-in për Windows 11-n.
+windows-10-eos-global-infobar-primary-button = Aktivizoni kopjeruajtjet
+    .accesskey = A
 windows-10-eos-global-infobar-learn-more-link = Mësoni më tepër
     .accessKey = M
 
@@ -429,11 +432,34 @@ set-default-menu-message-row-layout-subtitle-variant =
 set-default-menu-message-primary-button = Vëre si parazgjedhje
 set-default-menu-message-primary-button-variant = Vëre si shfletuesin parësor
 
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 maska email-i, nga ne
+relay-50-masks-announcement-primary-button = Kalo te { -relay-brand-name }
+    .accesskey = K
+relay-50-masks-announcement-secondary-button = Hidhe tej
+    .accesskey = H
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-primary-button = E mora vesh
+    .accesskey = E
+
 ## Firefox launch options spotlight
 ##
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = Të niset { -brand-short-name }-i sa herë që bëni hyrjen në Windows?
+launch-options-spotlight-title-session-restore = Të rihapet sesioni juaj, kur riniset { -brand-short-name }-i?
+launch-options-spotlight-checkbox-launch-on-login = Hape { -brand-short-name }-i gjatë nisjes së sistemit
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Rihap dritare dhe skeda të tanishme
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Rihap dritare dhe skeda të mëparshme
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Ruaje dhe mbylle { -brand-short-name }-in
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Ruaje dhe vazhdo
 
@@ -448,8 +474,19 @@ launch-options-spotlight-primary-button-launch = Ruaje dhe vazhdo
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name } ende ju mbron krahët
+lapsed-user-toast-subtitle = Shihni rrugë të reja përmes të cilave mund të shfletoni me më tepër zgjedhje, privatësi dhe kontroll.
 lapsed-user-toast-whats-new-button = Shihni ç’ka të re
 lapsed-user-toast-dismiss-button = Hidhe tej
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Pamje e re. Jo fillim nga e para.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Sillni faqerojtësit tuaj, fjalëkalimet dhe historikun nga shfletuesi që përdorni sot.
 
 ## Refresh Firefox infobar
 ##
@@ -473,4 +510,8 @@ restore-session-startup-suggestion-button = Tregomëni se si
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Hapini sajtet tuaj të parapëlqyer si një aplikacion
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Shtoje
 taskbar-tabs-spotlight-done-button = U krye
