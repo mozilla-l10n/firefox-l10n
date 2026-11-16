@@ -1467,6 +1467,12 @@ file-picker-crashed-show-in-folder =
     .label = نشووݩ داڌن من دوبلگه
     .accessKey = F
 
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-learn-more =
+    .label = قلوه دووسته بۊین
+    .accesskey = ق
+
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
 process-hang-addon-learn-more =
