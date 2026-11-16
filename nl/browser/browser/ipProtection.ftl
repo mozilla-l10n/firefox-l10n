@@ -240,7 +240,7 @@ ipprotection-connection-status-blocked-error-description = Vanwege lokale wetgev
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = U nadert uw VPN-limiet
-    .message = U hebt nog { $usageLeft } GB van { $maxUsage } GB over deze maand
+    .message = U hebt nog { $usageLeft } GB van { $maxUsage } GB over deze maand.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

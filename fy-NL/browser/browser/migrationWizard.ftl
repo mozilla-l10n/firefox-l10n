@@ -178,7 +178,7 @@ migration-list-favorites-label = favoriten
 migration-list-password-label = wachtwurden
 migration-list-history-label = skiednis
 migration-list-extensions-label = útwreidingen
-migration-list-autofill-label = gegevens automatysk ynfolje
+migration-list-autofill-label = gegevens foar automatysk ynfoljen
 migration-list-payment-methods-label = betellingsmetoaden
 
 ##

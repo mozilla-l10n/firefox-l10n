@@ -43,7 +43,7 @@ genai-prompts-explain =
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
     .label = Proeflêze
-    .value = Proeflês de seleksje op stavering- en grammatikale flaters. Identifisearje flaters en bied in korrizjearre ferzje fan de tekst. Behâld de betsjutting en feitlike krekten en leverje earst de list mei foarstelde korreksjes, folge troch de úteinlik korrizjearre ferzje fan de tekst.
+    .value = Proeflês de seleksje op stavering- en grammatikale flaters. Identifisearje flaters en bied in korrizjearre ferzje fan de tekst. Behâld de betsjutting en feitlike krektens en leverje earst de list mei foarstelde korreksjes, folge troch de úteinlik korrizjearre ferzje fan de tekst.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -146,7 +146,7 @@ genai-menu-no-provider-2 =
     .label = In AI-chatbot freegje
     .accesskey = c
 genai-menu-ask-smart-window =
-    .label = Fragen…
+    .label = Freegje…
     .accesskey = F
 
 ## Chatbot header
@@ -175,7 +175,7 @@ genai-options-about-chatbot =
 ## Chatbot message
 
 genai-page-warning =
-    .message = Omdat de side lang is, is dit foar in part de gearfetting.
+    .message = Omdat de side lang is, is dit in dielgearfetting.
 
 ## Chatbot footer
 

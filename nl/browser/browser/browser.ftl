@@ -1556,7 +1556,7 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 redirect-warning-with-popup-message =
     { $popupCount ->
-        [0] { -brand-short-name } heeft voorkomen dat deze website doorstuurde
+        [0] { -brand-short-name } heeft voorkomen dat deze website doorstuurde.
         [1] { -brand-short-name } heeft voorkomen dat deze website een pop-upvenster opende en doorstuurde.
         [one] { -brand-short-name } heeft voorkomen dat deze website een pop-upvenster opende en doorstuurde.
        *[other] { -brand-short-name } heeft voorkomen dat deze website { $popupCount } pop-upvensters opende en doorstuurde.

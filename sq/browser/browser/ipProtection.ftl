@@ -32,8 +32,17 @@ ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-3 = Merrni <a data-l10n-name="learn-more-vpn">privatësi ekstra</a>, duke zgjedhur nga një shumicë vendndodhjesh për të fshehur se ku shfletoni.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Ndihmoni të fshihet vendndodhja juaj, për <a data-l10n-name="learn-more-vpn">privatësi shtesë</a>, teksa shfletoni. Aktivizoni, ose çaktivizoni VPN-në për sajte të caktuar.
+ipprotection-feature-introduction-text-summer-promo-1 = Aktivizojeni, për ta mbajtur shfletimin tuaj më privat. <a data-l10n-name="summer-promo-link">Merrni sasi të pakufizuar trafiku</a> dhe më tepër vendndodhje prej nga të shfletoni. Tani deri më 31 gusht.
+ipprotection-feature-introduction-title-summer-promo = Keni në plan për të udhëtuar? Merreni privatësinë me vete.
+ipprotection-feature-introduction-description-summer-promo = Shkoni më tej, me VPN-në e brendshme të { -brand-product-name }-it: më tepër vendndodhje, sasi e pakufizuar trafiku. Tani deri më 31 gusht.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja, edhe kur gjendeni në një Dritare Private.
+ipprotection-feature-introduction-description-private-browsing = Shfletoni me mbrojtje shtesë, duke fshehur vendndodhjen tuaj, madje edhe kur gjendeni në një Dritare Private.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Ndihmoni në fshehjen e vendndodhjes tuaj teksa shfletoni. Caktoni rregulla për aktivizim të VPN-së, kur doni <a data-l10n-name="learn-more-vpn">privatësi shtesë</a>, ose shfletim me bazë vendndodhjen, dhe çaktivizojeni, kur s’doni.
+ipprotection-feature-introduction-title-captive-portal = Në Wi-Fi publik? Provoni VPN-në e brendshme të { -brand-product-name }-it.
 ipprotection-feature-introduction-description-captive-portal = Shfletoni me mbrojtje shtesë, duke fshehur vendndodhjen tuaj, madje edhe në Wi-Fi publik.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Merrni <a data-l10n-name="learn-more-vpn">privatësi ekstra</a>, duke zgjedhur nga një numër vendndodhjesh, për të fshehur se nga ku shfletoni.
 ipprotection-feature-introduction-button-primary = Pasuesja
 ipprotection-feature-introduction-button-secondary-not-now = Jo tani
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +64,13 @@ ipprotection-feature-introduction-title-private-browsing = Maksimizoni privatës
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Kufijtë e VPN-së tuaj të brendshme rikthehen te parazgjedhjet më 1 shtator
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Përdorni { $maxUsage } GB tuajt dhe 6 vendndodhje, për privatësi shtesë, që ta bëni shfletimin tuaj më të vështirë për t’ju ndjekur.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Përdorni { $maxUsage } GB tuajt dhe më tepër se 20 vendndodhje, për privatësi shtesë, që ta bëni shfletimin tuaj më të vështirë për t’ju ndjekur.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
@@ -77,10 +93,16 @@ ipprotection-location-selection-callout-secondary-button = Hidhe tej
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Merreni VPN-në e brendshme me vete në Android
+ipprotection-android-promo-callout-description = Skanoni kodin QR që të merrni { -brand-product-name }-in për Android dhe aktivizoni VPN-në e brendshme për më tepër privatësi rrugës. Së shpejti vjen edhe për iOS.
 ipprotection-android-promo-callout-primary-button = E mora vesh
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Caktoni rregulla VPN-je të brendshme, mandej jepini shfletimit
+ipprotection-site-inclusions-callout-title-lapsed-users = Provoni VPN-në e brendshme, tani sajt pas sajti
+ipprotection-site-inclusions-callout-description-1 = Aktivizojeni VPN-në, kur doni privatësi shtesë, ose shfletim me bazë vendndodhjen dhe çaktivizojeni kur s’doni të tillë.
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Jo tani
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Hidhe tej
 

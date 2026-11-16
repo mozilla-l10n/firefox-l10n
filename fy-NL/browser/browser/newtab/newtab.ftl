@@ -430,8 +430,8 @@ newtab-stocks-search-error = Kin op dit stuit net sykje. Probearje it letter noc
 #   $limit (Number) - the maximum number of stocks the watchlist can hold.
 newtab-stocks-watchlist-full =
     { $limit ->
-        [one] Jo kinne oant { $limit } oandiel tafoegje. Ferwiderje ien om in oare ta te foegjen.
-       *[other] Jo kinne maksimaal { $limit } oandielen tafoegje. Ferwiderje ien om in oare ta te foegjen.
+        [one] Jo kinne oant { $limit } oandiel tafoegje. Smyt ien fuort om in oare ta te foegjen.
+       *[other] Jo kinne maksimaal { $limit } oandielen tafoegje. Smyt ien fuort om in oare ta te foegjen.
     }
 
 ## Strings for the Picture of the Day widget

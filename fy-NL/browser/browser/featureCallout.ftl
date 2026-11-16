@@ -210,7 +210,7 @@ vertical-tabs-callout-1-subtitle = Probearje ús nije fertikale ljepblêdyndieli
 vertical-tabs-callout-1-cta-button = Fertikale ljepblêden probearje
 vertical-tabs-callout-2-cta-button = No probearje
 vertical-tabs-callout-2-title = In protte ljepblêden iepen hâlde? Probearje fertikale ljepblêden.
-vertical-tabs-callout-2-subtitle = Dizze yndieling makket it maklik om jo list mei ljeppers fluch te scannen. Plus, jo kinne de breedte oanpasse om mear of minder fan jo ljepblêdtitels te sjen.
+vertical-tabs-callout-2-subtitle = Dizze yndieling makket it maklik om jo list mei ljepblêden fluch te scannen. Plus, jo kinne de breedte oanpasse om mear of minder fan jo ljepblêdtitels te sjen.
 
 ## Sidebar Vertical Tabs Pinning Strings
 

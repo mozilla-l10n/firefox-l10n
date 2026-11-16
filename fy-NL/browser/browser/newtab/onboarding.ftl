@@ -543,7 +543,7 @@ onboarding-refresh-onboarding-addons-subtitle = Utwreidingen binne lytse apps w�
 onboarding-refresh-onboarding-addons-title = Jou jo navigaasje in boost
 onboarding-refresh-sync-subtitle = Download blêdwizers, wachtwurden en mear, oeral wêr’t jo oanmeld binne by { -brand-short-name }. Plus, jo gegevens binne fersifere, sadat allinnich jo se sjen kinne.
 onboarding-refresh-sync-title = Gean oeral hinne. Syngronisearje alles.
-onboarding-refresh-gratitude-subtitle = Tank foar it brûken fan { -brand-short-name }, de iennige browser dy’t stipe wurdt troch in non-profitorganisaasje. Mei jo stipe wurkje wy om it ynternet foar elkenien feiliger en mear tagonklik te meitsjen.
+onboarding-refresh-gratitude-subtitle = Tank foar it brûken fan { -brand-short-name }, de iennige grutte browser dy’t stipe wurdt troch in non-profitorganisaasje. Mei jo stipe wurkje wy om it ynternet foar elkenien feiliger en mear tagonklik te meitsjen.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } is der foar jo
 

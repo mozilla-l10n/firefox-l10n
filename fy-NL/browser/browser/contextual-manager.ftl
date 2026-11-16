@@ -139,8 +139,8 @@ contextual-manager-passwords-delete-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Dit smyt jo wachtwurd dy’t bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
-        [one] Dit smyt jo wachtwurd dy’t bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+        [1] Dit smyt jo wachtwurd dat bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+        [one] Dit smyt jo wachtwurd dat bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
        *[other] Dit smyt de wachtwurden dy’t bewarre binne yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
     }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC

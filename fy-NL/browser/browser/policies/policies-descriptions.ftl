@@ -118,7 +118,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op spesifike websites 
 
 policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
 policy-LocalNetworkAccess = Kontrôles foar lokale netwurktagong yn- of útskeakelje.
-policy-ManagedBookmarks = Konfigurearret in list mei blêdwizers dy’t beheard wurde troch in behearder en dy’t net troch de brûker wizige wurde kin.
+policy-ManagedBookmarks = Konfigurearret in list mei blêdwizers dy’t beheard wurde troch in behearder en dy’t net troch de brûker wizige wurde kinne.
 policy-ManualAppUpdateOnly = Allinnich hânmjittige fernijingen tastean en de brûker net oer fernijingen ynformearje.
 policy-PrimaryPassword = In haadwachtwurd fereaskje of foarkomme.
 policy-PrintingEnabled = Ofdrukke yn- of útskeakelje.

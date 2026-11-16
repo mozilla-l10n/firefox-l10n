@@ -209,7 +209,7 @@ ipprotection-locations-unavailable-label-1 = Net beskikber
 ipprotection-locations-unavailable-label = Net beskikber
 ipprotection-locations-subview-promo =
     .heading = Bring beskerming fierder mei { -mozilla-vpn-brand-name }
-    .message = Kies út mear as300 lokaasjes en beskermje al jo apps op maksimaal fiif apparaten
+    .message = Kies út mear as 300 lokaasjes en beskermje al jo apps op maksimaal fiif apparaten
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } downloade
 
 ## VPN paused state
@@ -240,7 +240,7 @@ ipprotection-connection-status-blocked-error-description = Fanwegen lokale wetjo
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Jo naderje jo VPN-limyt
-    .message = Jo hawwe noch { $usageLeft } GB fan { $maxUsage } GB oer dizze moanne
+    .message = Jo hawwe noch { $usageLeft } GB fan { $maxUsage } GB oer dizze moanne.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
