@@ -22,8 +22,26 @@ about-processes-reload-tab =
     .title = Oppdater fane
 about-processes-select-all-tabs =
     .title = Vel alle faner
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Utvid fanene for denne nettstaden
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Slå saman fanene for denne nettstaden
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Frigjer fanene frå { $site } frå minnet
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-reload-site =
+    .title = Last inn fanene frå { $site } på nytt
 about-processes-expand-all-sites =
     .title = Utvid alle
+about-processes-collapse-all-sites =
+    .title = Slå saman alle
 about-processes-go-to-tab =
     .title = Gå til fane
 # Profiler icons
@@ -44,6 +62,10 @@ about-processes-profile-process =
 about-processes-search-tabs =
     .aria-label = Søk i faner
     .placeholder = Søk i faner
+# Shown in place of the tab list when a search matches no open tabs.
+# Variables:
+#   $query (String) The search text the user typed, unmodified.
+about-processes-search-no-results = Fann ingen faner som samsvarar med «{ $query }»
 
 ## Column headers
 
@@ -159,6 +181,9 @@ about-processes-site-tab-count =
         [one] ({ $count } fane)
        *[other] ({ $count } faner)
     }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Avbryt utval
 # Bulk-action bar button: unloads every selected tab's content without
 # closing the tabs (see about-processes-unload-tab for the per-row version).
 about-processes-bulk-unload-tabs =
