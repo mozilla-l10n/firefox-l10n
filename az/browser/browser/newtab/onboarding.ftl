@@ -36,14 +36,62 @@ mr1-return-to-amo-add-extension-label = { $addon-name } əlavə et
 
 ## Multistage onboarding strings (about:welcome pages)
 
+onboarding-welcome-steps-indicator-label = Addım { $current } / { $total }
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Hərəkəti azalt
+# String for the Firefox Accounts button
+mr1-onboarding-sign-in-button-label = Daxil ol
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } səyyahından idxal et
+mr1-onboarding-theme-header = Mövzunuzu seçin
+mr1-onboarding-theme-subtitle = { -brand-short-name } görünüşünü əhvalınıza uyğunlaşdırın.
+mr1-onboarding-theme-secondary-button-label = İndi yox
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Sistem mövzusu
 mr1-onboarding-theme-label-light = Açıq
+mr1-onboarding-theme-label-dark = Qaranlıq
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Saxla və davam et
+
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Animasiyanı dayandır
+onboarding-animation-play-button =
+    .aria-label = Animasiyanı oynat
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system = Sistem mövzusu
+# Input description for system theme
+mr1-onboarding-theme-description-system = Əməliyyat sisteminizin görünüşünə uyğunlaşır.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light = İşıqlı mövzu
+# Input description for light theme
+mr1-onboarding-theme-description-light = Təmiz və aydın işıqlı mövzu.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark = Qaranlıq mövzu
+# Input description for dark theme
+mr1-onboarding-theme-description-dark = Gözləri yormayan qaranlıq mövzu.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow = Alpenglow mövzusu
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow = Qürub rəngləri ilə parlaq qradiyent.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Standart mövzu
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = { -brand-short-name } seçdiyiniz üçün təşəkkür edirik
 mr2-onboarding-thank-you-text = { -brand-short-name } qeyri-kommersiya təşkilatı tərəfindən dəstəklənən müstəqil veb səyyahdır. Birlikdə vebi daha təhlükəsiz, sağlam və məxfi edirik.
 mr2-onboarding-start-browsing-button-label = Səyahətə başlayın
 
@@ -58,64 +106,416 @@ mr2-onboarding-start-browsing-button-label = Səyahətə başlayın
 
 onboarding-live-language-header = Dilinizi seçin
 mr2022-onboarding-live-language-text = { -brand-short-name } sizinlə öz dilinizdə danışır
+mr2022-language-mismatch-subtitle = { -brand-short-name } dilini dəyişmək istəyirsiniz?
+onboarding-live-language-button-label-downloading = Dil paketi endirilir…
+onboarding-live-language-waiting-button = Gözləyin…
+onboarding-live-language-installing = Quraşdırılır…
+mr2022-onboarding-live-language-switch-to = { $language } dilinə keç
+mr2022-onboarding-live-language-continue-in = { $language } dilində davam et
+onboarding-live-language-secondary-cancel-download = Endirməni ləğv et
+onboarding-live-language-skip-button-label = Ötür
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text = 100-cü versiyanı qeyd edirik
+fx100-thank-you-subtitle = Müstəqil interneti seçdiyiniz üçün təşəkkür edirik.
+fx100-thank-you-pin-primary-button-label = { -brand-short-name } tapşırıq panelinə bərkit
+fx100-upgrade-thanks-header = { -brand-short-name } səyyahını seçdiyiniz üçün təşəkkürlər
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = { -brand-short-name } yenilədiyiniz üçün təşəkkür edirik.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Səyahətinizi məxfi və sürətli saxlamağa davam edirik.
 mr2022-onboarding-secondary-skip-button-label = Bu addımı keç
 
 ## MR2022 New User Easy Setup screen strings
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Saxla və davam elə
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = { -brand-short-name } standart səyyahım et
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Əvvəlki səyyahdan idxal et
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = { -brand-short-name } xoş gəlmisiniz
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Sürətli, təhlükəsiz və məxfi səyahət üçün hazırıq.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label = Tapşırıq panelinə bərkit
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Bərkit
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = { -brand-short-name } həmişə əlinizin altında olsun
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Sürətli giriş üçün səyyahınızı tapşırıq panelinə bərkidin.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = { -brand-short-name } standart səyyahınız edərək internetdə təhlükəsiz səyahət edin.
+mr2022-onboarding-existing-pin-checkbox-label = Tapşırıq panelinə bərkit
+
+## MR2022 New User Set Default screen strings
+
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name } əsas səyyahınız edin
+mr2022-onboarding-set-default-primary-button-label = Standart səyyah et
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Keçidləri avtomatik olaraq { -brand-short-name } ilə açın.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Bir neçə sadə addımla səyyahınızı quraşdırın.
+mr2022-onboarding-get-started-primary-button-label = Başla
 mr2022-onboarding-import-primary-button-label-no-attribution = Əvvəlki səyyahdan idxal et
+
+## MR2022 Multistage Mobile Download screen strings
+
+mr2022-onboarding-mobile-download-cta-text = Mobil tətbiqi endirin
+mr2022-onboarding-no-mobile-download-cta-text = İndi yox
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = Bir toxunuşla məxfi səyahət imkanı əldə edin
 mr2022-upgrade-onboarding-pin-private-window-subtitle = İş masanızdan birbaşa çərəzlər və baxış tarixçəsi saxlanılmadan istifadə edin. Heç kim sizi izləmirmiş kimi internetdə səyahət edin.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label = Məxfi pəncərəni bərkit
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-title = Məxfiliyinizə nəzarət edin
+mr2022-onboarding-privacy-segmentation-subtitle = Məlumatlarınızı izləyicilərdən və maraqlı gözlərdən qoruyun.
+mr2022-onboarding-privacy-segmentation-text-cta = Məxfilik seçimlərini fərdiləşdirin
+mr2022-onboarding-privacy-segmentation-button-primary-label = Qorumanı aktiv et
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Daha sonra
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-title = Hamısı hazırdır!
+mr2022-onboarding-gratitude-subtitle = İnterneti daha yaxşı bir məkana çevirməyə kömək edirsiniz.
+mr2022-onboarding-gratitude-primary-button-label = Səyahətə başla
+mr2022-onboarding-gratitude-secondary-button-label = Tənzimləmələrə bax
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Məlumatlarınızı asanlıqla gətirin
+onboarding-infrequent-import-subtitle = Digər səyyahlardan əlfəcinlərinizi və parollarınızı bir kliklə köçürün.
 onboarding-infrequent-import-primary-button = { -brand-short-name }-a idxal et
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt = { "" }
+mr2022-onboarding-default-image-alt = { "" }
+mr2022-onboarding-import-image-alt = { "" }
+mr2022-onboarding-mobile-download-image-alt = { "" }
+mr2022-onboarding-pin-private-image-alt = { "" }
+mr2022-onboarding-privacy-segmentation-image-alt = { "" }
+mr2022-onboarding-gratitude-image-alt = { "" }
+
+## Device migration onboarding
+
+onboarding-device-migration-image-alt =
+    .aria-label = Noutbuk kompüterinin ekranında tülkü
+onboarding-device-migration-title = Yenidən xoş gəldiniz!
+onboarding-device-migration-subtitle2 = Əlfəcinlərinizi, parollarınızı və açıq vərəqlərinizi bu cihaza gətirmək üçün hesabınıza daxil olun.
+onboarding-device-migration-primary-button-label = Daxil ol
+
+## Add-ons Picker screen
+
+amo-picker-title = { -brand-short-name } səyyahına daha çox güc qatın
+amo-picker-subtitle = Seçilmiş uzantılarımızla səyahət təcrübənizi fərdiləşdirin.
+amo-picker-install-button-label = Quraşdır
+amo-picker-install-complete-label = Quraşdırıldı
+amo-picker-collection-link = Kolleksiyadakı bütün uzantılara baxın
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Sizi təhlükəsiz saxlamağı sevirik
+onboarding-easy-setup-security-and-privacy-subtitle = Qeyri-kommersiya təşkilatının dəstəklədiyi səyyahımız şirkətlərin sizi izləməsini dayandırmağa kömək edir.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = { -brand-product-name } cibinizdə
+onboarding-mobile-download-security-and-privacy-subtitle = Telefonunuzda da eyni güclü qorumadan zövq alın.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = Daha məxfi internetə xoş gəlmisiniz
+onboarding-gratitude-security-and-privacy-subtitle = Məlumatlarınızın qorunmasına önəm verdiyiniz üçün təşəkkür edirik.
+# Sign up or Sign in screen
+onboarding-sign-up-title = { -brand-product-name } hesabınıza daxil olun
+onboarding-sign-up-description = Bütün cihazlarınızda parollarınızı, əlfəcinlərinizi və vərəqlərinizi əldə edin.
+onboarding-sign-up-button = Hesab yarat
+onboarding-sign-up-secondary-button = Daha sonra
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Nə qədər müddətdir { -brand-short-name } istifadə edirsiniz?
+onboarding-new-user-familiarity-based-survey-title = { -brand-short-name } haqqında nə qədər məlumatlısınız?
+onboarding-new-user-survey-subtitle = Təcrübənizi fərdiləşdirməyimizə kömək edin.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Növbəti
+onboarding-new-user-survey-legal-link-label = Məxfilik Bildirişi
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Bu gün başladım
+onboarding-new-user-survey-time-based-option-2 = Bir neçə aydır
+onboarding-new-user-survey-time-based-option-3 = Bir ildən çoxdur
+onboarding-new-user-survey-time-based-option-4 = Uzun illərdir
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Tamamilə yeniyəm
+onboarding-new-user-survey-familiarity-based-option-2 = Əvvəllər istifadə etmişəm
+onboarding-new-user-survey-familiarity-based-option-3 = Mütəmadi istifadə edirəm
+onboarding-new-user-survey-familiarity-based-option-4 = Təcrübəli istifadəçiyəm
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Vərəq düzülüşünü seçin
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Vərəqlərinizi sizə ən uyğun şəkildə təşkil edin.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Çoxlu vərəqlərlə işləyirsiniz?
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Onlarla vərəq arasında heç vaxt itməyin.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Vərəqlərinizin düzənini seçin
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Fokuslanmağınıza kömək edəcək sadələşdirilmiş görünüş üçün.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Şaquli vərəqlər
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Üfüqi vərəqlər
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Şaquli vərəqlər buradadır
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Şaquli vərəqlərlə tanışlıq
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Vərəqlərinizi yanda sınayın. İstədiyiniz vaxt dəyişdirin.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Şaquli vərəqləri sınayın
+onboarding-flair-text = Yeni!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Üfüqi vərəqləri saxla
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip = Şaquli vərəqlər
+# Description for vertical tabs image
+onboarding-vertical-tabs-description = Daha çox vərəqi aydın görmək üçün şaquli düzülüş.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip = Üfüqi vərəqlər
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description = Klassik üfüqi vərəqlər görünüşü.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Süni intellekt köməkçisi ilə kəşf edin
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Veb məzmununu xülasələşdirin, ideyalar toplayın, mesajlar tərtib edin və daha çoxunu edin — hamısı birbaşa səyyahınızda.
+onboarding-genai-sidebar-primary-button = Çat-bot seçin
+onboarding-genai-sidebar-secondary-button = Səyahətə başla
+
+## New user onboarding checklist
+
+onboarding-checklist-title = { -brand-short-name } quraşdırmasını tamamlayın
+onboarding-checklist-subtitle = Səyyahınızdan maksimum yararlanmaq üçün bu addımları tamamlayın.
+onboarding-checklist-set-default = { -brand-short-name } səyyahını standart səyyah kimi təyin edin
+onboarding-checklist-pin = { -brand-short-name } tapşırıq panelinə bərkidin
+onboarding-checklist-import = Əvvəlki səyyahdan idxal edin
+onboarding-checklist-extension = Uzantı əlavə edin
+onboarding-checklist-sign-up = Hesabınıza qeydiyyatdan keçin və ya daxil olun
+onboarding-checklist-minimize =
+    .label = Kiçilt
+onboarding-checklist-remove =
+    .label = Yoxlama siyahısını sil
+onboarding-checklist-remove-2 = Yoxlama siyahısını sil
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Vərəq Qrupları
+tab-groups-onboarding-feature-callout-subtitle = Əlaqəli vərəqləri bir yerdə saxlayaraq səliqəli işləyin.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Mövzuya görə vərəqləri təşkil edin
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Vərəqlərinizi qruplaşdırın
+tab-groups-onboarding-create-group-no-alltabs-button-title = Yeni vərəq qrupu yaradın
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Qrupları istənilən vaxt bərpa edin
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Saxlanılmış vərəq qrupları
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Saxlanılmış qruplarınıza baxın
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Qruplarınız qorunub saxlanıldı
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Əvvəlki seansı bərpa edin
+tab-groups-onboarding-dismiss = Başa düşdüm
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Vərəq qrupları avtomatik saxlanılır
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = Həyatınızı ayırın
+multi-profile-spotlight-body = Ayrı-ayrı tarixçə, əlfəcinlər və çərəzlərlə müxtəlif profillər yaradın.
+multi-profile-spotlight-cta = Yeni profil yarat
+multi-profile-callout-title = Çoxsaylı profillər
+multi-profile-callout-subtitle = İş və şəxsi həyatınızı ayrı profillərlə bölün.
+multi-profile-callout-cta = Profillərə bax
+
+## Desktop to Mobile Adoption feature callout strings
+
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Mobil üçün { -brand-product-name } əldə edin
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Tətbiqi endirmək üçün kameranızla QR kodu skan edin.
+dismiss-button-label = Rədd et
+sync-to-mobile-button-label = Mobilə sinxronlaşdır
+desktop-to-mobile-qr-code-alt = { "" }
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title = Səyahət məlumatlarınızı qoruyun
+create-backup-screen-1-subtitle = Məlumatlarınızı təhlükəsiz saxlamaq üçün ehtiyat nüsxəsi yaradın və ya sinxronlaşdırın.
+create-backup-screen-1-flair = Tövsiyə olunur
+create-backup-learn-more-link = Ətraflı öyrən
+create-backup-screen-1-sync-label = Məlumatları sinxronlaşdırın
+create-backup-screen-1-sync-body = Bütün cihazlarınızda eyni məlumatlara daxil olun.
+create-backup-screen-1-backup-label = Ehtiyat nüsxəsi yaradın
+create-backup-screen-1-backup-body = Tarixçənizi, əlfəcinlərinizi, parollarınızı və daha çoxunu saxlayın.
+create-backup-select-tile-button-label = Seç
+create-backup-back-button-label = Geri
+create-backup-show-fewer = Daha az göstər
+create-backup-screen-2-title = Nüsxələnəcək məlumatları seçin
+create-backup-screen-2-subtitle = Hansı məlumatların nüsxəsini saxlamaq istədiyinizi seçin.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Asan quraşdırma
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Əlfəcinlər və qovluqlar
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Yadda saxlanmış parollar
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Quraşdırılmış uzantılar
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Bütün məlumatlar
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Açıq vərəqlər və pəncərələr
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Səyahət tarixçəsi və çərəzlər
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Məkan: { $filepath }
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Ehtiyat nüsxəsi məkanı
+create-backup-screen-3-subtitle = Ehtiyat nüsxəsi faylınız seçilmiş məkanda saxlanılacaq.
+fx-backup-opt-in-header = Ehtiyat nüsxəsi yaradılsın?
+fx-backup-opt-in-filepath-label = Fayl yolu:
+fx-backup-opt-in-create-password-label = Ehtiyat nüsxəsi üçün parol yaradın
+fx-backup-opt-in-confirm-btn-label = Davam et
+fx-backup-opt-in-cancel-btn-label = İmtina
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Ehtiyat nüsxəsi uğurla yaradıldı
+fx-backup-confirmation-screen-close-button = Qapat
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Bütün səyahət məlumatları
+fx-backup-confirmation-screen-all-data-item-text-2 = Tarixçə, çərəzlər və önbellek
+fx-backup-confirmation-screen-all-data-item-text-3 = Açıq vərəqlər və seanslar
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Əlfəcinlər və qovluqlar
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Saxlanılmış parollar
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Uzantılar və mövzular
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Tənzimləmələr və seçimlər
+fx-backup-confirmation-screen-item-subtext-1 = Məlumatlarınız şifrələnib
+fx-backup-confirmation-screen-item-subtext-2 = İstənilən vaxt bərpa edilə bilər
 
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Nüsxədən geri qaytar
+restore-from-backup-title = Məlumatları bərpa edin
+restore-from-backup-subtitle = Əvvəlki ehtiyat nüsxənizdən məlumatları bərpa edin.
+restore-from-backup-secondary-button = Daha sonra
+multiple-backups-info-tile = Birdən çox ehtiyat nüsxəsi tapıldı
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Hər şey hazır! { -brand-short-name } məlumatlarınız geri qaytarıldı.
+restored-from-backup-success-with-checklist-subtitle = Məlumatlarınız bərpa edildi. İndi quraşdırmanı tamamlaya bilərsiniz.
+restored-from-backup-success-no-checklist-subtitle = Bütün məlumatlarınız uğurla bərpa edildi.
 restored-from-backup-success-with-checklist-primary-button = Saxla və davam elə
 restored-from-backup-success-with-checklist-secondary-button = Bu addımı keç
+restored-from-backup-success-no-checklist-primary-button = Səyahətə başla
+restored-from-backup-error-title = Bərpa xətası
+restored-from-backup-error-subtitle = Ehtiyat nüsxəsi faylı zədələnib və ya oxuna bilmir.
+restored-from-backup-error-primary-button = Yenidən cəhd et
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Səyyahınızı fərdiləşdirin
+onboarding-personalization-subtitle = Sizə ən yaxşı təcrübəni təqdim etmək üçün səyyahınızı fərdiləşdirin.
+onboarding-personalization-use-case-title = { -brand-short-name } əsasən nə üçün istifadə edəcəksiniz?
+onboarding-personalization-use-case-personal-option = Şəxsi istifadə
+onboarding-personalization-use-case-school-option = Təhsil / Məktəb
+onboarding-personalization-use-case-work-option = İş / Peşəkar
+onboarding-personalization-motivation-title = { -brand-short-name } istifadə etməyə sizi nə vadar etdi?
+onboarding-personalization-motivation-privacy-option = Daha çox məxfilik
+onboarding-personalization-motivation-productivity-option = Daha yüksək məhsuldarlıq
+onboarding-personalization-motivation-other-option = Digər
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Sürətli və təhlükəsiz səyahəti həmişə əlçatan edin.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Əsas səyyahınız edin
 onboarding-refresh-import-subtitle = Parollarınız, əlfəcinləriniz, baxış tarixçəniz və daha çoxunu özünüzlə gətirin.
 onboarding-refresh-import-title = { -brand-short-name } ilə özünüzü evinizdəki kimi hiss edin
+onboarding-refresh-onboarding-addons-subtitle = Səyahətinizi uzantılarla gücləndirin.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Faydalı əlavələr
+onboarding-refresh-sync-subtitle = Vərəqlərinizi və parollarınızı bütün cihazlarınızda sinxronlaşdırın.
+onboarding-refresh-sync-title = Hər yerdə sinxron qalın
+onboarding-refresh-gratitude-subtitle = Daha yaxşı və məxfi bir veb qurmağa kömək edirsiniz.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = Seçiminiz üçün təşəkkürlər!
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-short-name } xoş gəlmisiniz
+onboarding-refresh-hero-text = Yeni { -brand-short-name } ilə tanış olun
+onboarding-refresh-tou-default = { -brand-short-name } standart səyyahım et
+onboarding-refresh-tou-pin = Tapşırıq panelinə bərkit
+onboarding-refresh-tou-default-unchecked = Standart səyyah təyin edilməsin
+onboarding-refresh-tou-pin-unchecked = Tapşırıq panelinə bərkidilməsin
+onboarding-refresh-terms-of-use-with-links = Davam etməklə <a data-l10n-name="terms">Xidmət Şərtləri</a> və <a data-l10n-name="privacy">Məxfilik Bildirişi</a> ilə razılaşırsınız.
+onboarding-refresh-data-collection-link = Məlumat toplama haqqında öyrənin
+onboarding-refresh-primary-button = Davam et
+onboarding-refresh-fro-import-header = Məlumatlarınızı gətirin
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Köhnə səyyahınızdan məlumatları bir addımda köçürün.
+onboarding-refresh-fro-import-body = Əvvəlki səyyahınızdan əlfəcinləri və parolları köçürün.
+onboarding-refresh-fro-skip-button = Ötür
+onboarding-refresh-fro-theme-header = Mövzunuzu seçin
+onboarding-refresh-tab-layout-header = Vərəq düzülüşü
+onboarding-refresh-fro-tab-layout-title = Vərəq tərzinizi seçin
+onboarding-refresh-tab-layout-top = Yuxarıda (Üfüqi)
+onboarding-refresh-tab-layout-side = Yanda (Şaquli)
+onboarding-refresh-tab-layout-minimal = Minimal
 # Tooltip displayed on hover for minimal tabs image
 onboarding-minimal-tabs-tooltip =
     .title = Vərəqləri ekranın kənarı boyunca kiçildilmiş yan paneldə kiçik simgələr kimi göstərən səyyah pəncərəsi.
@@ -123,11 +523,86 @@ onboarding-minimal-tabs-tooltip =
 onboarding-minimal-tabs-description =
     .aria-description = Vərəqləri ekranın kənarı boyunca kiçildilmiş yan paneldə kiçik simgələr kimi göstərən səyyah pəncərəsi.
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Pəncərələr arasında asanlıqla keçid edin.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Ağıllı Pəncərə Tənzimləmələri
+smartwindow-existing-user-fx-tou-body = Ağıllı pəncərə tənzimləmələri ilə daha məhsuldar işləyin.
+smartwindow-existing-user-fx-tou-accept = Qəbul et
+smartwindow-existing-user-fx-tou-go-back = Geri qayıt
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Ağıllı Pəncərələrlə tanış olun
+smartwindow-onboarding-subtitle = Pəncərələrinizi və vərəqlərinizi avtomatik təşkil edin.
+smartwindow-onboarding-primary-button = Başla
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt = { "" }
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Yan paneli avtomatik aç?
+smartwindow-sidebar-auto-open-callout-body = Yan panel ehtiyacınız olduqda avtomatik açıla bilər.
+smartwindow-sidebar-auto-open-callout-accept = Aç
+smartwindow-sidebar-auto-open-callout-dismiss = Rədd et
+smartwindow-sidebar-auto-open-callout-accepted-title = Tənzimləmə tətbiq edildi
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Yan panel artıq avtomatik açılacaq.
+smartwindow-sidebar-auto-open-callout-rejected-title = Dəyişiklik edilmədi
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Bu seçimi istənilən vaxt tənzimləmələrdən dəyişə bilərsiniz.
+
 ## Theme Picker screen strings
 
+onboarding-theme-picker-title = Rənginizi seçin
 onboarding-theme-picker-subtitle = { -brand-short-name }-a bir az daha rəng qatın.
 onboarding-theme-picker-button-label = Saxla və davam elə
 
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Xüsusiyyət vurğuları
+
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = { -brand-short-name } yeniliklərini kəşf edin
+welcome-back-onboarding-primary-button-label = Kəşf et
+welcome-back-onboarding-secondary-button-label = Ötür
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Yeni xüsusiyyət
+welcome-back-onboarding-pill-label-vpn = Təhlükəsizlik
 welcome-back-onboarding-pill-label-pdf = PDF alətləri
+welcome-back-onboarding-card-label-tabs = Şaquli Vərəqlər
+welcome-back-onboarding-card-label-vpn = Daxili VPN
+welcome-back-onboarding-card-label-pdf = PDF Redaktoru
+welcome-back-onboarding-card-tilebutton-label = Sına
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Məlumatları idxal edin
+hnt-card-import-body = Əlfəcinlərinizi və parollarınızı digər səyyahlardan gətirin.
+hnt-card-import-primary-button = İdxal et
+hnt-card-default-body = Hər dəfə keçid açarkən { -brand-short-name } istifadə edin.
+hnt-card-default-primary-button = Standart et
+hnt-card-pin-header = Tapşırıq panelinə bərkidin
+hnt-card-pin-body = Səyyahınızı həmişə bir klik məsafəsində saxlayın.
+hnt-card-mobile-header = Mobilə keçin
+hnt-card-mobile-body = Mobil cihazınızda da eyni məxfi səyahəti əldə edin.
+hnt-card-mobile-primary-button = Tətbiqi əldə et
+hnt-card-wallpaper-header = Divar kağızı seçin
+hnt-card-wallpaper-body = Yeni vərəq səhifənizi xüsusi divar kağızları ilə bəzəyin.
+hnt-card-wallpaper-primary-button = Divar kağızlarına bax
+hnt-card-taskbar-tabs-header = Tapşırıq paneli vərəqləri
+hnt-card-taskbar-tabs-body = Tapşırıq panelindən birbaşa sevdiyiniz vərəqlərə keçin.
+hnt-card-taskbar-tabs-primary-button = Aktiv et
+hnt-card-extensions-header = Fərdiləşdirin
+hnt-card-extensions-body = Sevdiyiniz uzantıları əlavə edərək səyyahınızı təkmilləşdirin.
+hnt-card-extensions-primary-button = Uzantılara baxın
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Kəşf edin
+hnt-card-last-card-header-end = və daha çox

@@ -405,6 +405,11 @@ newtab-wallpaper-category-list =
 newtab-wallpaper-error-max-file-size = Şəkil { $maxSize } MB fayl ölçüsü limitini aşdı. Daha kiçik bir şəkil sınayın.
 newtab-wallpaper-error-upload-file-type = Faylınızı yükləyə bilmədik. Başqa bir şəkil sınayın.
 
+## Firefox wallpaper descriptions used for screen readers
+
+# Tooltip for dismiss button
+feature-highlight-dismiss-button = Rədd et
+
 ## New Tab Weather
 
 # Variables:
