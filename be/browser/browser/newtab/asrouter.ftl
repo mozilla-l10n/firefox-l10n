@@ -537,3 +537,10 @@ restore-session-startup-suggestion-button = Паказаць мне як
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = Адкрывайце свае любімыя сайты як праграму
+taskbar-tabs-spotlight-subtitle = Адно націсканне запускае найчасцей ужываныя сайты ў зручным акне з усёй аховай { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Выберыце, каб дадаць на панэль задач
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Дадаць
+taskbar-tabs-spotlight-done-button = Гатова

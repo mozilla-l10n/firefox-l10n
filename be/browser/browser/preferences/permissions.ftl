@@ -142,6 +142,12 @@ permissions-site-notification-desc = Наступныя вэб-сайты зап
 permissions-site-notification-disable-label =
     .label = Блакаваць новыя запыты на дасыланне абвестак
 permissions-site-notification-disable-desc = Гэта не дазволіць вэб-сайтам, акрамя пералічаных вышэй, запытваць дазвол на дасыланне абвестак. Блакаванне абвестак можа парушыць некаторыя функцыі сайта.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Дазволіць абвесткі сайтаў па закрыцці { -brand-short-name }
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Таксама прымяняюцца налады абвестак вашай аперацыйнай сістэмы.
 
 ## Site Permissions - Location
 
