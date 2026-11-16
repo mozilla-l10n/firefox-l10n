@@ -15,7 +15,7 @@ about-telemetry-option-group-older = Alder
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry-gegevens
-about-telemetry-current-store = Aktuele winkel:
+about-telemetry-current-store = Aktueel ûnthâld:
 about-telemetry-more-information = Sykje jo mear ynformaasje?
 about-telemetry-firefox-data-doc = De <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> befettet hantliedingen oer it wurkjen mei ús gegevensark.
 about-telemetry-telemetry-client-doc = De <a data-l10n-name="client-doc-link">Firefox Telemetry-clientdokumintaasje</a> befettet definysjes foar konsepten, API-dokumintaasje en gegevensferwizingen.
@@ -34,7 +34,7 @@ about-telemetry-events-section = Eveneminten
 about-telemetry-simple-measurements-section = Ienfâldige mjittingen
 about-telemetry-slow-sql-section = Stadige SQL-ynstruksjes
 about-telemetry-addon-details-section = Add-on-details
-about-telemetry-late-writes-section = Lêste add-ons
+about-telemetry-late-writes-section = Lette skriuwaksjes
 about-telemetry-raw-payload-section = Net bewurke nettolading
 about-telemetry-raw = Net bewurke JSON
 about-telemetry-full-sql-warning = NOTE: Stadige SQL-debugging is ynskeakele. Folsleine SQL-strings kinne hjirûnder toand wurde, mar se sille net ferstjoerd wurde nei Telemetry.
@@ -63,8 +63,8 @@ about-telemetry-upload-type =
 #   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
-        [one] { $sampleCount } foarbyld, gemiddelde = { $prettyAverage }, som = { $sum }
-       *[other] { $sampleCount } foarbylden, gemiddelde = { $prettyAverage }, som = { $sum }
+        [one] { $sampleCount } stekproef, gemiddelde = { $prettyAverage }, som = { $sum }
+       *[other] { $sampleCount } stekproeven, gemiddelde = { $prettyAverage }, som = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
@@ -124,7 +124,7 @@ about-telemetry-values-header = Wearde
 #   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Lette skriuwaksje #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
-about-telemetry-memory-map-title = Unthâldtawizing:
+about-telemetry-memory-map-title = Unthâldkaart:
 about-telemetry-error-fetching-symbols = Der is in flater bard by it opheljen fan symboalen. Kontrolearje oft jo ferbûn binne mei it ynternet en probearje it opnij.
 about-telemetry-time-stamp-header = tiidsoantsjutting
 about-telemetry-category-header = kategory

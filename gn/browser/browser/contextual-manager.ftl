@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Egueru ambue kundahá
 contextual-manager-passwords-command-import = Marandurendágui jegueru…
 contextual-manager-passwords-command-export = Ñe’ẽñemi guerahauka
 contextual-manager-passwords-command-remove-all = Emboguepa opaite ñe’ẽñemi
+contextual-manager-passwords-command-delete-all = Emboguepaite ñe’ẽñemieta
 contextual-manager-passwords-command-options = Jeporavorã
 contextual-manager-passwords-command-help = Pytyvõ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -346,6 +347,14 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Héẽ, emboguete ñe’ẽñemi
         [one] Héẽ, emboguete ñe’ẽñeminguéra
        *[other] Héẽ, emboguete ñe’ẽñeminguéra
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Héẽ, embogue ñe’ẽñem
+        [one] Héẽ, embogue ñe’ẽñemieta
+       *[other] Héẽ, embogue ñe’ẽñemieta
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Ehecha hag̃ua ne ñe’ẽñemi ñongatupye, emoinge ñe’ẽñemi eiporúva.

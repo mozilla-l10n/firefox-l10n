@@ -147,7 +147,7 @@ about-glean-metrics-table-settings-button = Instellingen
 # Settings for the metrics table and its visualizations in about:glean
 about-glean-metrics-table-settings-title = Statistiektabelinstellingen
 about-glean-metrics-table-settings-category-general = Algemeen
-about-glean-metrics-table-settings-hide-empty-value-rows = Regels met lege waarden verbergen
+about-glean-metrics-table-settings-hide-empty-value-rows = Rijen met lege waarden verbergen
 about-glean-metrics-table-settings-category-visualizations = Visualisaties
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Voorbeeld

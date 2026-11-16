@@ -6,7 +6,7 @@ third-party-page-title = Ynformaasje modulen fan tredden
 third-party-section-title = List fan modulen fan tredden yn { -brand-short-name }
 third-party-intro =
     Dizze side toant de modulen fan tredden dy’t yn jo { -brand-short-name }
-    ynboud binne. Elke module dy’t net troch Microsoft of { -vendor-short-name }
+    ynjektearre binne. Elke module dy’t net troch Microsoft of { -vendor-short-name }
     ûndertekene is, wurdt beskôge as module fan tredden.
 third-party-message-empty = Der binne gjin modulen fan tredden detektearre.
 third-party-message-no-duration = Net opnommen

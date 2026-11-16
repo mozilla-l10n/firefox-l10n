@@ -18,7 +18,7 @@ about-translations-policy-disabled-info-message =
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
     .heading = Deblokkearje dizze funksje om tekst oer te setten
-    .message = It liket derop dat jo AI-betsjinningseleminten bywurke hawwe om dizze funksje te blokkearjen. Deblokkearje de funksje op elk winske momint om dizze brûken te gean.
+    .message = It liket derop dat jo AI-betsjinningseleminten bywurke hawwe om dizze funksje te blokkearjen. Deblokkearje de funksje op elk winske momint om dizze brûke te gean.
 about-translations-feature-blocked-unblock-button = Blokkearring opheffe
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =

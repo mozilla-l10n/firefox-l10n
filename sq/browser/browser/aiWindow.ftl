@@ -94,6 +94,9 @@ aiwindow-firstrun-title = Mirë se vini në { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Ç’është e rëndësishme për ju?
 aiwindow-firstrun-model-title-v2 = Që t’ia fillohet, zgjidhni një model
 aiwindow-firstrun-model-fast-label = I shpejtë
+aiwindow-firstrun-model-fast-body = Përgjigjet shpejt
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = I shpejtë: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -105,6 +108,8 @@ aiwindow-firstrun-model-flexible-body = Gati për një larmi punësh
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = E rekomanduar
 aiwindow-firstrun-model-personal-label = Personale
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
 aiwindow-firstrun-button = Fillojmë
 aiwindow-firstrun-back-button = Mbrapsht
 aiwindow-firstrun-next-button = Pasuesja
@@ -115,10 +120,12 @@ aiwindow-input-model-select-button-label-fast = I shpejtë
 aiwindow-input-model-select-button-label-allpurpose = I zhdërvjellët
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Vetjak
+aiwindow-input-model-select-button-description-custom = Përdorni LLM-në tuaj
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Përdorni LLM-në tuaj
 aiwindow-input-model-select-default-badge =
     .label = Parazgjedhje
     .title = Modeli parazgjedhje i përzgjedhur
@@ -126,6 +133,8 @@ aiwindow-input-model-select-settings-link = Rregullime modeli
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Më tepër përgjigje të dobishme, sipas kushteve tuaja
+aiwindow-firstrun-memories-relevance-title = Përgjigjet më me peshë
 aiwindow-firstrun-memories-privacy-title = I konceptuar privat
 aiwindow-firstrun-memories-checkbox-chats = Fjalosje në { -smart-window-brand-name }
 aiwindow-firstrun-memories-update-settings = Përditësojeni kurdo, që nga rregullimet.

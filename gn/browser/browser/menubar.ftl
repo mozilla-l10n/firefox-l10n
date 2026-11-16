@@ -270,6 +270,10 @@ menu-bookmarks-other =
     .label = Ambuekuéra Techaukaha
 menu-bookmarks-mobile =
     .label = Pumbyry Rechaukaha
+# The native macOS menu may limit the number of entries. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Ehechaukave tenda yképe
 
 ## Profiles Menu
 

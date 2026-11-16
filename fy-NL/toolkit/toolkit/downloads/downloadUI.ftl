@@ -49,7 +49,7 @@ download-ui-confirm-quit-title =
             }
        *[other]
             { $downloadsCount ->
-                [1] 1 download stopje en  { -brand-short-name } ôfslute?
+                [1] 1 download stopje en { -brand-short-name } ôfslute?
                *[other] { $downloadsCount } downloads stopje en { -brand-short-name } ôfslute?
             }
     }

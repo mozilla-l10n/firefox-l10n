@@ -120,13 +120,13 @@ about-glean-about-data-description-list-intro =
     Besjoch de ûndersteande list foar spesifike gebrûksfoarbylden
     foar elk helpmiddel:
 about-glean-about-data-list-item-dictionary =
-    Besjoch, om troch de list mei troch { -glean-brand-name } sammele gegevens per tapassing te blêdzjen, de
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-biblioteek</a>.
+    Besjoch, om troch de list mei troch { -glean-brand-name } sammele gegevens per tapassing te blêdzjen, it
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-wurdboek</a>.
 about-glean-about-data-list-item-about-telemetry =
     Besjoch om troch de fia legacy-telemetry sammele gegevens te blêdzjen
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer =
-    Besjoch om troch debuglabels te blêdzjen, folsleine pings te besjen, in live-barresstream te besjen of statistyk-
+    Besjoch om troch debuglabels te blêdzjen, folsleine pings te besjen, in live-barrensstream te besjen of statistyk-
     fisualisaasjes te besjen de
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler =
@@ -147,7 +147,7 @@ about-glean-metrics-table-settings-button = Ynstellingen
 # Settings for the metrics table and its visualizations in about:glean
 about-glean-metrics-table-settings-title = Statistyktabelynstellingen
 about-glean-metrics-table-settings-category-general = Algemien
-about-glean-metrics-table-settings-hide-empty-value-rows = Regels mei lege wearden ferstopje
+about-glean-metrics-table-settings-hide-empty-value-rows = Rigen mei lege wearden ferstopje
 about-glean-metrics-table-settings-category-visualizations = Fisualisaasjes
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Foarbyld

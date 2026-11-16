@@ -52,6 +52,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Pa ruajtje cookie-sh apo historiku, drejt e nga desktopi juaj. Shfletoni si të mos mbikëqyrë njeri.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-link-text = Provoni maska email-i
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -67,6 +71,9 @@ about-private-browsing-felt-privacy-v1-info-link = Cilët mund të jenë në gje
 
 ## Strings for the Private Window basics spotlight
 
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Ç’duhet të dihet
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Më tepër mbrojtje privatësie

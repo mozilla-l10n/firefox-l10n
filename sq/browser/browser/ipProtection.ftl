@@ -76,6 +76,15 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = VPN-ja juaj e brendshme sapo u përmirësua
 ipprotection-summer-promo-offramp-subscriber-description = Tanimë, si një pajtimtar në { -mozilla-vpn-brand-name } përfitoni sasi të pakufizuar trafiku dhe më tepër vendndodhje.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Mbani vendndodhjet tuaja shtesë VPN-je të brendshme
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Bëjeni { -brand-product-name }-in shfletuesin tuaj dhe merrni mbi 20 vende shtesë prej nga të shfletohet, pas 31 gushtit.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Kaloni një nivel më sipër me { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Mbani sasi të pakufizuara trafiku pas 31 gushtit, me 300 e ca vendndodhje në 5 pajisje, për ta bërë shfletimin tuaj më të vështirë për t’ju ndjekur.
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Hape VPN-në
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Vëre si parazgjedhje
 ipprotection-summer-promo-offramp-get-subscription-button = Merrni { -mozilla-vpn-brand-name }
@@ -89,6 +98,8 @@ ipprotection-site-settings-callout-button = E mora vesh
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = E re: Ndërroni vendndodhjen tuaj
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">VPN-ja e brendshme e { -brand-product-name }-it</a> ju lejon të zgjidhni mes një numri vendndodhjesh shfletimi, ose na e lini ne të zgjedhim më të shpejtin për ju.
 ipprotection-location-selection-callout-primary-button = Provojeni
 ipprotection-location-selection-callout-secondary-button = Hidhe tej
 
@@ -141,6 +152,12 @@ site-rules-status-heading = Rregulli juaj
 site-rules-description-exclusion = VPN-ja është e çaktivizuar për këtë sajt
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN-ja është e hapur për këtë sajt
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Të aktivizohet përherë VPN-ja për { $website }?
+    .message = Përditësoni rregullat tuaj kurdo, te rregullimet.
 ipprotection-settings-link =
     .label = Rregullime
 
@@ -270,6 +287,11 @@ ip-protection-learn-more = Mësoni më tepër
 ip-protection-not-opted-in-4 =
     .heading = Provoni VPN-në e brendshme të { -brand-short-name }-it
     .message = Shfletoni me mbrojtje shtesë, duke fshehur vendndodhjen tuaj.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Gati për ta provuar?
+    .message = Merrni { $maxUsage } GB falas çdo muaj dhe zgjidhni për cilët sajte të përdoret VPN.
 ip-protection-not-opted-in-button = Fillojani
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

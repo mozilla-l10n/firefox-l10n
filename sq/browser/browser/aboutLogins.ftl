@@ -89,6 +89,7 @@ about-logins-intro-import3 = Që të shtoni një fjalëkalim tani, përzgjidhni 
 about-logins-login-item-new-login-title = Shtoni fjalëkalim
 login-item-edit-button = Përpunojeni
 about-logins-login-item-remove-button = Hiqi
+about-logins-login-item-delete-button = Fshije
 login-item-origin-label = Adresë sajti
 about-logins-origin-tooltip2 = Jepni adresën e plotë dhe sigurohuni se përputhet plotësisht, kur bëni hyrjen.
 # Variables
@@ -174,9 +175,13 @@ confirmation-dialog-dismiss-button =
     .title = Anulim
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Të hiqet fjalëkalimi?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Të fshihet fjalëkalimi?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = S’mund ta zhbëni këtë veprim.
 about-logins-confirm-remove-dialog-confirm-button = Hiqi
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Fshije
 
 ## Variables
 ##   $count (number) - Number of items
@@ -186,11 +191,25 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Hiqe
        *[other] Hiqi Krejt
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Fshije
+        [one] Fshiji Krejt
+       *[other] Fshiji Krejt
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Po, hiqe fjalëkalimin
        *[other] Po, hiqi fjalëkalimet
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Po, fshije fjalëkalimin
+        [one] Po, fshije fjalëkalimin
+       *[other] Po, fshiji fjalëkalimet
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -209,6 +228,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Të hiqet { $count } fjalëkalim nga krejt pajisjet?
        *[other] Të hiqen { $count } fjalëkalime nga krejt pajisjet?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Të fshihet { $count } fjalëkalim?
+       *[other] Të fshihen { $count } fjalëkalime?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

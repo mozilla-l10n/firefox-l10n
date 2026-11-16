@@ -12,6 +12,7 @@ confirmation-hint-password-updated = Ñe’ẽñemi hekopyahupyre
 confirmation-hint-address-created = Kundaharape ñongatupyre
 confirmation-hint-address-updated = Kundaharape hekopyahupyre
 confirmation-hint-payment-method-saved = Jehepyme’ẽrã ñongatupyre
+confirmation-hint-payment-method-updated = Jehepyme’ẽrã hekopyahúva
 confirmation-hint-credit-card-created = Kuatia’atã ñongatupyre
 confirmation-hint-credit-card-updated = Kuatia’atã hekopyahupyre
 confirmation-hint-passport-created = Pasaporte ñongatupyre
@@ -23,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = ¡Tovamo’ãha pyahu moheñoipyr
 confirmation-hint-firefox-relay-mask-reused = ¡Tovamo’ãha jeporujey!
 confirmation-hint-screenshot-copied = ¡Mba’erechaha japyhypyre!
 confirmation-hint-tab-group-saved = Tendayke aty ñongatupyre
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Eheka tendayke aty ko poravorãme
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
