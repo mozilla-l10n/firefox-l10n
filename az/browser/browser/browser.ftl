@@ -1617,6 +1617,9 @@ process-hang-nonspecific-tab-message = Bir veb-səhifə { -brand-short-name } s�
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = “{ $title }” { -brand-short-name } səyyahını yavaşladır. Səyyahınızı sürətləndirmək üçün həmin səhifəni dayandırın.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” { -brand-short-name }-u yavaşladır. Səyyahınızı sürətləndirmək üçün bu əlavəni dayandırın.
 process-hang-addon-learn-more =
     .value = Ətraflı öyrən
 process-hang-stop-button =
