@@ -564,3 +564,6 @@ welcome-back-onboarding-card-tilebutton-label = Provojeni
 ## New Tab Onboarding cards
 
 hnt-card-extensions-primary-button = Eksploroni
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Gjithçka gati. Shkoni e bëni ç’keni qejf.

@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Hape Lidhjen në { -smart-window-brand-name } të Re
+    .accesskey = H
 appmenuitem-new-ai-window =
     .label = { -smart-window-brand-name } e re
     .value = { -smart-window-brand-name } e re
@@ -41,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Hapni Dritare të Re Private
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Dritare klasike
+toolbar-switcher-customizable-label-v2 =
+    .label = Këmbyes { -smart-window-brand-name }
+    .tooltiptext = Kaloni nga Dritare e Mençur në atë Klasike dhe Anasjelltas
 
 ## Input CTA
 
@@ -64,6 +70,7 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Pyetni, kërkoni, ose jepni një URL
+smartbar-placeholder-hint-1 = Përdorni @ që të përmendni te skeda së fundi…
 smartbar-placeholder-hint-2 = Pyetni për çfarëdo…
 smartbar-placeholder-hint-3 = Jepni një adresë web…
 smartbar-placeholder-hint-4 = Kërkoni në Web…
@@ -93,23 +100,29 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Mirë se vini në { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Ç’është e rëndësishme për ju?
 aiwindow-firstrun-model-title-v2 = Që t’ia fillohet, zgjidhni një model
+aiwindow-firstrun-model-subtitle = Zgjidhni një model për funksionimin e { -smart-window-brand-name }. Ndërrojeni kur të doni.
+aiwindow-firstrun-model-subtitle-v2 = Secili model mund t’ju ndihmojë të përmblidhni, krahasoni dhe eksploroni nëpër skedat tuaja. Ndërrojeni kur të doni.
 aiwindow-firstrun-model-fast-label = I shpejtë
 aiwindow-firstrun-model-fast-body = Përgjigjet shpejt
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = I shpejtë: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Më i miri për përgjigje të shpejta, kur lëvizni me shpejtësi
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } nga { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = I zhdërvjellët
+aiwindow-firstrun-model-allpurpose-body = Përkim solid me shumicën e nevojave
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = I zhdërvjellët: { $shortName }
 aiwindow-firstrun-model-flexible-body = Gati për një larmi punësh
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = E rekomanduar
 aiwindow-firstrun-model-personal-label = Personale
+aiwindow-firstrun-model-personal-body = Përgjigjet më të personalizuara
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = I ngritur për ndihmë të personalizuar nëpër gjuhë
 aiwindow-firstrun-button = Fillojmë
 aiwindow-firstrun-back-button = Mbrapsht
 aiwindow-firstrun-next-button = Pasuesja

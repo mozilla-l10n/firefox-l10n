@@ -80,9 +80,23 @@ genai-shortcut-copy-confirmation = Скапіявана
 genai-shortcut-more-actions-button =
     .aria-label = Дадатковыя налады
     .tooltiptext = Дадатковыя налады
+genai-more-actions-panel =
+    .aria-label = Выберыце, якія дзеянні паказваць
 # $provider (string) - name of the chatbot provider
 genai-more-actions-ai-provider =
     .label = Спытаць { $provider }
+genai-more-actions-ai-generic =
+    .label = Спытаць штучны інтэлект
+genai-more-actions-search =
+    .label = Шукаць
+genai-more-actions-copy =
+    .label = Капіяваць
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Вы не ўбачыце гэтае меню пры вылучэнні тэксту. Каб зноў паказаць яго, наведайце раздзел <span data-l10n-name="chevron"></span> Карткі і агляданне ў Наладах.
+genai-more-actions-manage-settings =
+    .label = Кіраваць наладамі
+genai-selection-callout-title = Вылучыце тэкст, каб выбраць дзеянне
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Спытаць { $provider }

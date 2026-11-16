@@ -155,6 +155,8 @@ action-log-reading-page = Lexim faqeje
 action-log-read-page = Lënda e faqes u lexua
 action-log-searching-web = Kërkim në web
 action-log-searched-web = U kërkua në web
+action-log-searching-settings = U kërkua te regjistra
+action-log-searched-settings = U kërkua te regjistrat
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -665,3 +665,7 @@ hnt-card-taskbar-tabs-primary-button = Дадаць сайты на панэль
 hnt-card-extensions-header = Узмацніце { -brand-short-name } пашырэннямі
 hnt-card-extensions-body = Уладкуйце сваё агляданне з дапамогай нашых самых улюбёных пашырэнняў.
 hnt-card-extensions-primary-button = Азнаёміцца
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Усё гатова. Займайцеся.
+hnt-card-last-card-header-end = Ахова ад сачэння ўключана
