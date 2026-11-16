@@ -97,15 +97,20 @@ genai-more-actions-all-off-notice = Вы не ўбачыце гэтае меню
 genai-more-actions-manage-settings =
     .label = Кіраваць наладамі
 genai-selection-callout-title = Вылучыце тэкст, каб выбраць дзеянне
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Пошук або капіяванне пры вылучэнні тэксту. Выберыце, якія дзеянні будуць паказаны, з дапамогай меню <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Спытаць { $provider }
 genai-menu-new-badge = Новае
 genai-menu-summarize-page = Падсумаваць змест старонкі
+genai-menu-summarize-with-ai = Падсумаваць з штучным інтэлектам
 genai-input-ask-smart-window =
     .placeholder = Спытаць…
 genai-input-ask-generic =
     .placeholder = Спытаць чат-бота ШІ…
+genai-input-ask-ai =
+    .placeholder = Спытаць штучны інтэлект…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Спытаць { $provider }…
@@ -273,6 +278,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Шукаць
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Капіяваць
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Бачыць больш з дапамогай штучнага інтэлекту?
 # Message that appears when user is shown the opt-in flow for link previews

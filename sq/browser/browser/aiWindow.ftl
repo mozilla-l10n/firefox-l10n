@@ -147,7 +147,10 @@ aiwindow-input-model-select-settings-link = Rregullime modeli
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Më tepër përgjigje të dobishme, sipas kushteve tuaja
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } mund të nxërë nga fjalosjet tuaja, shfletimi, ose nga të dy për të krijuar kujtesa. Përgjatë kohës, ato i bëjnë përgjigjet më të dobishme.
+aiwindow-firstrun-memories-conversation-body = Të nxënit nga fjalosjet do të thotë se do t’ju duhet të përsëritni më pak veten.
 aiwindow-firstrun-memories-relevance-title = Përgjigjet më me peshë
+aiwindow-firstrun-memories-relevance-body = Të nxënit nga shfletimi i jep { -smart-window-brand-name } kuadër më të gjerë.
 aiwindow-firstrun-memories-privacy-title = I konceptuar privat
 aiwindow-firstrun-memories-checkbox-chats = Fjalosje në { -smart-window-brand-name }
 aiwindow-firstrun-memories-update-settings = Përditësojeni kurdo, që nga rregullimet.
