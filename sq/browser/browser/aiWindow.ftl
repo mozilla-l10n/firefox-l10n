@@ -162,11 +162,22 @@ aiwindow-firstrun-memories-no-create = E mora vesh. { -smart-window-brand-name }
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-subtitle = Shfletoni, kërkoni dhe pyetni që nga një vend. Mundeni prapë  të hapni Dritare Private dhe Klasike, kur doni.
+aiwindow-firstrun-default-checkbox-label = Hape përherë { -brand-product-name }-in në { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Ndërrojeni që nga rregullimet, kur të doni
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Pyet
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Kujtesa aktive
+    .tooltiptext = Përdorni kujtesa në përgjigje, kur është e dobishme
+aiwindow-memories-off =
+    .aria-label = Kujtesa joaktive
+    .tooltiptext = Mos përdor kujtesa në përgjigje
 
 ## New Chat Button
 
@@ -209,6 +220,10 @@ aiwindow-fullpage-more =
     .label = Më tepër
     .title = Më tepër
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Të dhënat e njëkohësuara do të mbeten në llogarinë tuaj. { -smart-window-brand-name(plural-form: "true") } të hapura do të kalohen nën Dritare Klasike.
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = Kaloni në { -smart-window-brand-name }
@@ -235,6 +250,8 @@ smartwindow-disclaimer = IA-ja mund të bëjë gabime.
 firefoxview-chats-nav = Fjalosje
     .title = Fjalosje
 firefoxview-chats-header = Fjalosje
+firefoxview-chat-context-delete = Fshije prej Fjalosjesh
+    .accesskey = F
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-chats =
     .placeholder = Kërkoni në fjalosje
@@ -250,6 +267,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Kthehuni te fjalosjet tuaja
+firefoxview-chats-empty-description = Ngaqë përdorni { -smart-window-brand-name }, fjalosjet tuaja do të ruhen këtu.
 
 ## Count displayed in fxview chat search results
 
@@ -258,6 +276,13 @@ firefoxview-search-chat-results-count =
         [one] { $count } fjalosje
        *[other] { $count } fjalosje
     }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Historik shfletimi, shkarkimesh dhe fjalosjes
+    .accesskey = H
+item-history-downloads-and-chat-description = Spastron historik sajtesh, shkarkimesh dhe fjalosjesh
 
 ## Natural Language Interactions
 
@@ -284,16 +309,25 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Skeda u mbyll
+smartwindow-close-tab-callout-subtitle = Rihapni kurdo skeda nga Historiku.
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Të bëhet { -smart-window-brand-name } parazgjedhja juaj?
+smart-window-default-promo-message = { -brand-short-name }-i do të hapet në { -smart-window-brand-name } çdo herë.
 smart-window-default-promo-primary-button = Vëre si parazgjedhje
 smart-window-default-promo-additional-button = Jo tani
 
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Ndani përshtypje me të tjerë
+aiwindow-feedback-what-worked-well = Ç’punoi mirë? Ju lutemi, pa hollësi personale.
+aiwindow-feedback-choose-any = Zgjidhni cilëndo që ka vend
+aiwindow-feedback-add-details = Shtoni këtu hollësi, në daçi. Ju lutemi, pa hollësi personale.
+aiwindow-feedback-disclaimer = Parashtrimi ndan me të tjerë përshtypjet tuaja dhe këtë fjalosje, për ta ndihmuar { -brand-shorter-name }-in të përmirësojë { -smart-window-brand-name }. Fjalosjet tuaja të tjera mbeten private. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 aiwindow-feedback-submit = Parashtroje
 aiwindow-feedback-cancel = Anuloje
+aiwindow-feedback-reason-incorrect-or-misleading = E pasaktë, ose ngatërruese
 aiwindow-feedback-reason-harmful-or-offensive = E dëmshme, ose fyese
 aiwindow-feedback-reason-other = Tjetër
 aiwindow-feedback-preview-report = Shihni hollësi fjalosjeje

@@ -34,20 +34,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Закрыць карткі злева
     .accesskey = л
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Карткі злева
+    .accesskey = л
 close-tabs-to-the-start-vertical =
     .label = Закрыць карткі вышэй
+    .accesskey = ш
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Карткі вышэй
     .accesskey = ш
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Закрыць карткі справа
     .accesskey = с
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Карткі справа
+    .accesskey = р
 close-tabs-to-the-end-vertical =
     .label = Закрыць карткі ніжэй
     .accesskey = ж
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Карткі ніжэй
+    .accesskey = н
 close-other-tabs =
     .label = Закрыць іншыя карткі
     .accesskey = і
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Усе астатнія
+    .accesskey = У
 reload-tabs =
     .label = Абнавіць карткі
     .accesskey = К
@@ -85,15 +107,28 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Адкрыць у новай картцы ў кантэйнеры
     .accesskey = у
+tab-context-open-in-container =
+    .label = Адкрыць у кантэйнеры
+    .accesskey = у
 move-to-start =
     .label = Перанесці ў пачатак
     .accesskey = ч
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Пачатак
+    .accesskey = П
 move-to-end =
     .label = Перанесці ў канец
     .accesskey = ц
+move-to-end-alt =
+    .label = Канец
+    .accesskey = К
 move-to-new-window =
     .label = Перанесці ў новае акно
     .accesskey = а
+move-to-new-window-alt =
+    .label = Новае акно
+    .accesskey = Н
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
@@ -108,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Закрыць дублікаты картак
     .accesskey = л
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Дублікаты картак
+    .accesskey = Д
 tab-context-close-duplicate-tabs2 =
     .label = Закрыць дублікаты гэтай карткі
     .accesskey = x
@@ -124,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Новая група
     .accesskey = п
+tab-context-add-tab-to-group-new-group =
+    .label = Новая група
+tab-context-add-tab-to-group-closed-groups =
+    .label = Закрытыя групы
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -165,6 +208,16 @@ tab-context-move-tabs =
         }
     .accesskey = м
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Перамясціць у
+            [one] Перамясціць { $tabCount } картак на
+            [few] Перамясціць { $tabCount } картак на
+           *[many] Перамясціць { $tabCount } картак на
+        }
+    .accesskey = П
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -177,6 +230,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Перамясціць падзелены выгляд у
+    .accesskey = м
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Перамясціць карткі ў
     .accesskey = м
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
