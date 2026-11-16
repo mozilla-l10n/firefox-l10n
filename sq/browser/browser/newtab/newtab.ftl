@@ -1959,8 +1959,41 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Përfundime kërkimi
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Shtoje “{ $city }” si një sahat vetjak
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .aria-label = Emër qyteti
+    .label = Emër qyteti
+    .placeholder = Emërtojeni këtë sahat
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .aria-label = Zonë kohore
+    .label = Zonë kohore
+    .placeholder = Kërkoni sipas qyteti, zone kohore, ose shmangie UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Përfundime zone kohore
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = S’ka zona kohore me përkim
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Mbrapsht
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Hapni menunë e sahateve
+    .title = Hap menunë e sahateve
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = S’ka përkime
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .aria-label = Hapni menunë për sahat
+    .title = Hap menunë për sahat
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Nofkë: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
