@@ -180,7 +180,11 @@ about-logins-confirm-delete-dialog-title = ¿Eliminar contraseña?
 about-logins-confirm-delete-dialog-title2 = ¿Borrar contraseña?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = No puedes deshacer esta acción.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Esto la elimina de { -brand-short-name } en todos los dispositivos que sincronizan tus contraseñas. No puedes deshacer esta acción.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Borrar
 
 ## Variables
 ##   $count (number) - Number of items
@@ -191,12 +195,26 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Eliminar
        *[other] Eliminar todas
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Eliminar
+        [one] Eliminar todo
+       *[other] Eliminar todo
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Sí, eliminar contraseña
         [one] Sí, eliminar contraseña
        *[other] Sí, eliminar contraseñas
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Sí, borrar contraseña
+        [one] Sí, borrar contraseñas
+       *[other] Sí, borrar contraseñas
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -217,12 +235,25 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] ¿Eliminar { $count } contraseña de todos los dispositivos?
        *[other] ¿Eliminar todas las { $count } contraseñas de todos los dispositivos?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] ¿Eliminar { $count } contraseña?
+       *[other] ¿Eliminar { $count } contraseñas?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Esto eliminará la contraseña guardada en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparezca aquí. No puedes deshacer esta acción.
         [one] Esto eliminará la contraseña guardada en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparezca aquí. No puedes deshacer esta acción.
        *[other] Esto eliminará todas las contraseñas guardadas en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparezca aquí. No puedes deshacer esta acción.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Esto la elimina de { -brand-short-name } en todos los dispositivos que sincronizan tus contraseñas. No puedes deshacer esta acción.
+        [one] Esto las elimina de { -brand-short-name } en todos los dispositivos que sincronizan tus contraseñas. No puedes deshacer esta acción.
+       *[other] Esto las elimina de { -brand-short-name } en todos los dispositivos que sincronizan tus contraseñas. No puedes deshacer esta acción.
     }
 
 ##

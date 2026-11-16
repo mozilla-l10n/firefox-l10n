@@ -11,6 +11,8 @@ confirmation-hint-password-created = Contraseña guardada
 confirmation-hint-password-updated = Contraseña actualizada
 confirmation-hint-address-created = Dirección guardada
 confirmation-hint-address-updated = Dirección actualizada
+confirmation-hint-payment-method-saved = Método de pago guardado
+confirmation-hint-payment-method-updated = Método de pago actualizado
 confirmation-hint-credit-card-created = Tarjeta guardada
 confirmation-hint-credit-card-updated = Tarjeta actualizada
 confirmation-hint-passport-created = Pasaporte guardado
@@ -22,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = ¡Nueva máscara creada!
 confirmation-hint-firefox-relay-mask-reused = ¡Máscara existente reutilizada!
 confirmation-hint-screenshot-copied = ¡Captura de pantalla copiada!
 confirmation-hint-tab-group-saved = Grupo de pestañas guardado
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Encuentra grupos de pestañas en este menú
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

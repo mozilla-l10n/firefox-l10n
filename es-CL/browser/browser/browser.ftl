@@ -985,6 +985,14 @@ urlbar-view-context-menu-open-in-window2 = Abrir en una nueva ventana
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Abrir en una nueva ventana privada
     .accesskey = P
+urlbar-view-context-menu-search-in-tab = Buscar en nueva pestaña
+    .accesskey = w
+urlbar-view-context-menu-search-in-container-tab = Buscar en nueva pestaña contenedora
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = Buscar en una nueva ventana
+    .accesskey = N
+urlbar-view-context-menu-search-in-private-window = Buscar en una nueva ventana privada
+    .accesskey = P
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
@@ -1462,6 +1470,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = ¿Borrar datos y comenzar una nueva sesión privada?
+reset-pbm-panel-description3 = Esto borra tu historial y las cookies, y cierra tu sesión en los sitios web. Tu ventana privada se cerrará y se abrirá una nueva.
 reset-pbm-panel-description2 = Esto elimina el historial, las cookies y todos los demás datos del sitio sin cerrar la ventana privada.
 reset-pbm-panel-always-ask-checkbox =
     .label = Preguntarme siempre
@@ -1497,6 +1506,9 @@ fire-button-panel-confirm-button =
     .label = Eliminar todo
     .accesskey = D
 fire-button-panel-complete = Datos de navegación eliminados
+fire-button-toolbar-button2 =
+    .label = Eliminar algunos o todos los datos
+    .tooltiptext = Elimina parte o la totalidad de tus datos de navegación
 
 ## Autorefresh blocker
 
