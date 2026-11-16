@@ -11,6 +11,7 @@ confirmation-hint-password-created = Ñe’ẽñemi ñongatupyre
 confirmation-hint-password-updated = Ñe’ẽñemi hekopyahupyre
 confirmation-hint-address-created = Kundaharape ñongatupyre
 confirmation-hint-address-updated = Kundaharape hekopyahupyre
+confirmation-hint-payment-method-saved = Jehepyme’ẽrã ñongatupyre
 confirmation-hint-credit-card-created = Kuatia’atã ñongatupyre
 confirmation-hint-credit-card-updated = Kuatia’atã hekopyahupyre
 confirmation-hint-passport-created = Pasaporte ñongatupyre

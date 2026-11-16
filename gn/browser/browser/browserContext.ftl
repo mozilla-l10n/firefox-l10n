@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Embojuaju hekaha mongu’eha
     .accesskey = S
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Emyandy poravorã jeku’egua
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Emondo Juajuha Mba’e’okápe
     .accesskey = n

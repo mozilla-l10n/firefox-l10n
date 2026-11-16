@@ -191,7 +191,7 @@ tabbrowser-context-unmute-selected-tabs =
     .label = Ljepblêden dempe opheffe
     .accesskey = o
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
-tabbrowser-tab-audio-playing-description = Lûd ôfspylje
+tabbrowser-tab-audio-playing-description = Lûd wurdt ôfspile
 
 ## Ctrl-Tab dialog
 

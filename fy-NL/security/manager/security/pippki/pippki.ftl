@@ -16,13 +16,13 @@ change-password-new = Nij wachtwurd:
 change-password-reenter = Nij wachtwurd (opnij):
 change-password-not-set =
     .value = (net ynsteld)
-pippki-failed-pw-change = Kin haadwachtwurd net wizigje.
-pippki-incorrect-pw = Jo ha net it korrekte haadwachtwurd ynfierd. Probearje it opnij.
+pippki-failed-pw-change = Kin wachtwurd net wizigje.
+pippki-incorrect-pw = Jo ha net it korrekte aktuele wachtwurd ynfierd. Probearje it opnij.
 pippki-pw-change-ok = Wachtwurd mei sukses wizige.
 pippki-pw-empty-warning = Jo bewarre wachtwurden en priveekaaien sille net beskerme wurde.
-pippki-pw-erased-ok = Jo hawwe jo haadwachtwurd fuortsmiten. { pippki-pw-empty-warning }
-pippki-pw-not-wanted = Warskôging! Jo ha besletten gjin haadwachtwurd te brûken. { pippki-pw-empty-warning }
-pippki-pw-change2empty-in-fips-mode = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
+pippki-pw-erased-ok = Jo hawwe jo wachtwurd fuortsmiten. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Warskôging! Jo ha besletten gjin wachtwurd te brûken. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Jo binne no yn FIPS-modus. FIPS fereasket dat it wachtwurd net leech is.
 
 ## Reset Primary Password dialog
 
@@ -99,7 +99,7 @@ client-auth-cert-remember-temporarily =
 
 set-password-window =
     .title = Kies in wachtwurd foar de reservekopy fan it sertifikaat
-set-password-message = It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopybestân dat jo op it punt stean te meitsjen. Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.
+set-password-message = It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reservekopybestân dat jo op it punt stean te meitsjen. Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.
 set-password-backup-pw =
     .value = Wachtwurd foar de reservekopy fan it sertifikaat:
 set-password-repeat-backup-pw =

@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = Meitsje en pas in nije stylblêd ta op it dokumint
+    .tooltiptext = Meitsje en pas in nij stylblêd ta op it dokumint
     .accesskey = N
 styleeditor-import-button =
-    .tooltiptext = Ymportearje en pas ta op in besteand stylblêd op it dokumint
+    .tooltiptext = Ymportearje in besteand stylblêd en pas it ta op it dokumint
     .accesskey = Y
 styleeditor-filter-input =
     .placeholder = Stylblêden filterje

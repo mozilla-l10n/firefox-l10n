@@ -8,7 +8,7 @@ webconsole-commands-usage-block =
     
     Begjinne mei it blokkearje fan netwurkoanfragen
     
-      Akseptearret mar ien argumint URLSTRING, in tekenreeks sûnder oanhellingstekens dy’t brûkt wurde sil om alle oanfragen wêrfan de URL dizze tekenreeks befettet te blokkearjen.
+      Akseptearret mar ien argumint URL_STRING, in tekenreeks sûnder oanhellingstekens dy’t brûkt wurde sil om alle oanfragen wêrfan de URL dizze tekenreeks befettet te blokkearjen.
       Brûk :unblock of de oanfraachblokkearingssydbalke fan Netwurkmonitor om dit ûngedien te meitsjen.
 # Usage string for :unblock command
 webconsole-commands-usage-unblock =

@@ -75,6 +75,7 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = VPN-ja juaj e brendshme sapo u përmirësua
+ipprotection-summer-promo-offramp-subscriber-description = Tanimë, si një pajtimtar në { -mozilla-vpn-brand-name } përfitoni sasi të pakufizuar trafiku dhe më tepër vendndodhje.
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Hape VPN-në
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Vëre si parazgjedhje
 ipprotection-summer-promo-offramp-get-subscription-button = Merrni { -mozilla-vpn-brand-name }
@@ -103,25 +104,35 @@ ipprotection-android-promo-callout-primary-button = E mora vesh
 ipprotection-site-inclusions-callout-title-existing-users = Caktoni rregulla VPN-je të brendshme, mandej jepini shfletimit
 ipprotection-site-inclusions-callout-title-lapsed-users = Provoni VPN-në e brendshme, tani sajt pas sajti
 ipprotection-site-inclusions-callout-description-1 = Aktivizojeni VPN-në, kur doni privatësi shtesë, ose shfletim me bazë vendndodhjen dhe çaktivizojeni kur s’doni të tillë.
+ipprotection-site-inclusions-callout-description-lapsed-users = Caktoni rregulla që të aktivizohet VPN-ja, kur doni privatësi shtesë, ose shfletim me bazë vendndodhjen dhe çaktivizojeni kur s’doni të tillë.
+ipprotection-site-inclusions-callout-primary-button = Caktoni rregulla
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Jo tani
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Hidhe tej
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Bëjeni privat shfletimin tuaj dhe të vështirë të gjurmohet, me VPN-në e brendshme.
 ipprotection-holiday-promo-primary-button = Hape VPN-në
 ipprotection-holiday-promo-secondary-button = Hidhe tej
+ipprotection-holiday-promo-title-1 = Merrni VPN të pakufizuar deri më 31 janar
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Fshiheni vendndodhjen tuaj</a> teksa shfletoni në { -brand-product-name }.
+unauthenticated-private-location-message = Ndihmon <a data-l10n-name="learn-more-vpn">të mbahet private vendndodhja juaj</a> në { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Zgjidhni nga një numër vendndodhjesh, ose lëreni { -brand-product-name }-in të zgjedhë më të shpejtin.
+unauthenticated-site-rules-message = Kontrolloni cilët sajte përdorin VPN dhe cilët jo.
 unauthenticated-get-started = Fillojani
+unauthenticated-terms-of-service-privacy-notice = Duke vazhduar, pajtoheni me <a data-l10n-name="vpn-terms-of-service">Kushte Shërbimi</a> dhe <a data-l10n-name="vpn-privacy-notice">Shënim Privatësie</a>.
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN-ja është e hapur për këtë sajt
     .label = Përdore VPN-në për këtë sajt
 site-exclusion-toggle-disabled-1 =
     .aria-label = VPN-ja është e mbyllur për këtë sajt
     .label = Përdore VPN-në për këtë sajt
+site-exclusion-toggle-description = S’funksionon sajti? Provoni të çaktivizoni VPN-në.
 # Manages rules for VPN to turn on or off automatically for certain websites
 site-rules-manage-rules-link-text = Administroni rregulla VPN-je
 # Heading for user defined rules on VPN usage for particular websites
@@ -172,12 +183,28 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Zgjidhni një tjetër vendndodhje prej nga ku të shfletohet.
 ipprotecion-locations-subview-recommended-label = E rekomanduar
 ipprotection-locations-subview-recommended-description = Gjen vendndodhjen më të shpejtë.
+# Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = S’mund të kihet
+    .aria-label = S’mund të kihet, e çaktivizuar
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = S’mund të kihet
+ipprotection-locations-subview-promo =
+    .heading = Shpjereni më tej mbrojtjen, me { -mozilla-vpn-brand-name }
+    .message = Zgjidhni nga 300+ vendndodhje dhe mbroni krejt aplikacionet tuaja në deri në 5 pajisje.
+ipprotection-locations-subview-promo-button = Merrni { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
 upgrade-vpn-title = Merrni mbrojtje shtesë tej shfletuesit
 upgrade-vpn-description = Zgjidhni vendndodhjen e VPN-së suaj, përdorni VPN për krejt aplikacionet tuaj dhe deri në 5 pajisje dhe jini i siguruar në çfarëdo rrjeti — në shtëpi, apo në Wi-Fi publik.
 upgrade-vpn-button = Provoni { -mozilla-vpn-brand-name }
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi do të rifillohet muajin që vjen.
+ipprotection-connection-status-paused-title-2 = VPN-ja është ndalur
+    .aria-label = VPN-ja është ndalur
 
 ## Messages and errors
 
@@ -188,6 +215,8 @@ ipprotection-connection-status-network-error-title-1 = Kontrolloni lidhjen tuaj 
 ipprotection-connection-status-network-error-description = Lidhuni në internet, mandej provoni të hapni VPN-në.
 ipprotection-connection-status-blocked-error-title-1 = VPN-ja s’është e përdorshme
     .aria-label = VPN-ja s’është e përdorshme
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Ligje dhe kufizime vendore kufizojnë se ku mund të përdorni VPN. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 ipprotection-connection-status-blocked-error-description = Ligje vendore na pengojnë të japim shërbim VPN në të këtë rajon. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -207,6 +236,8 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ja është e mbyllur për këtë sajt
 confirmation-hint-ipprotection-navigated-to-included-site = VPN-ja është e hapur për këtë sajt
 ipprotection-open-button = Hapni { -brand-product-name }-in
+ipprotection-come-back-title = Rikthehuni dhe provoni VPN-në e brendshe
+ipprotection-message-body-hide-location = Fshihni vendndodhjen tuaj kur shfletoni me { -brand-product-name }-in, për më tepër privatësi dhe kontroll.
 ipprotection-connection-status-generic-error-title-1 = S’u lidh dot me VPN-në
     .aria-label = S’u lidh dot me VPN-në
 

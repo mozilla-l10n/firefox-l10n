@@ -183,8 +183,8 @@ tab-context-close-n-tabs =
     .label =
         { $tabCount ->
             [1] Ljepblêd slute
-            [one] { $tabCount } ljepblêd sluten
-           *[other] { $tabCount } ljepblêden sluten
+            [one] { $tabCount } ljepblêd slute
+           *[other] { $tabCount } ljepblêden slute
         }
     .accesskey = s
 tab-context-close-n-tabs2 =

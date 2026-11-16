@@ -474,7 +474,7 @@ spellcheck-download-dictionaries =
     .label = Wurdboeken downloade
 spellcheck-promo =
     .heading = Staveringshifker brûke
-    .message = Klik mei jo rjochtermûsknop op in tekstfjild om staveringshifkjen yn of út te skeakeljen of om de taal te wizigjen. Net alle fjilden stypje staveringhifkjen.
+    .message = Klik mei jo rjochtermûsknop op in tekstfjild om staveringshifkjen yn of út te skeakeljen of om de taal te wizigjen. Net alle fjilden stypje staveringshifkjen.
 
 ## General Section - Files and Applications
 
@@ -484,7 +484,7 @@ download-save-files-header =
 download-save-where-3 =
     .aria-label = Bestannen bewarje yn
 download-always-ask-where2 =
-    .label = Freegje wêr’t bestannen bewarre moatte wurde foar it downloaden.
+    .label = Freegje wêr’t bestannen bewarre moatte wurde foar it downloaden
     .accesskey = F
 download-private-browsing-delete2 =
     .label = Downloads fan priveefinsters út by sluten fuortsmite
@@ -693,7 +693,7 @@ browsing-use-cursor-navigation =
     .label = Hieltyd de pylktoetsen brûke om te navigearjen yn siden
     .accesskey = p
 browsing-use-full-keyboard-navigation =
-    .label = Brûk de tab-toets om de fokus te ferpleatsen tusken formulierbesjoeringseleminten en keppelingen
+    .label = Brûk de tab-toets om de fokus te ferpleatsen tusken formulierbestjoeringseleminten en keppelingen
     .accesskey = t
 browsing-search-on-start-typing =
     .label = Nei tekst sykje as ik begjin mei typen
@@ -916,7 +916,7 @@ search-show-suggestions-above-history-option-2 =
 search-show-suggestions-private-windows-2 =
     .label = Syksuggestjes yn priveefinsters
 search-suggestions-cant-show-2 =
-    .message = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
+    .message = Sykfoarstellen wurde net yn lokaasjebalkeresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
 addressbar-header-1 =
     .description = Kies hokker suggestjes yn jo adresbalke toand wurde
     .label = Adresbalke
@@ -1374,7 +1374,7 @@ forms-primary-pw-learn-more-link = Mear ynfo
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = Haadwachtwurd wizigje
+    .label = Haadwachtwurd wizigje…
     .accesskey = a
 forms-primary-pw-change =
     .label = Haadwachtwurd wizigje…
@@ -1654,7 +1654,7 @@ sitedata-settings3 =
     .label = Gegevens foar spesifike websites wiskje
     .accesskey = s
 sitedata-cookies-exceptions3 =
-    .description = Kies hoe spesifike websites omgean mei cookies en websitegegevens.
+    .description = Kies hoe’t spesifike websites omgean mei cookies en websitegegevens.
     .label = Utsûnderingen beheare
     .accesskey = g
 cookies-site-data-group =
@@ -1827,7 +1827,7 @@ content-blocking-suspected-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Utsûndering beheare…
+    .label = Utsûnderingen beheare…
     .accesskey = U
 
 ## Privacy Section - Permissions
@@ -2002,7 +2002,7 @@ data-collection-backlogged-crash-reports =
     .accesskey = k
 data-collection-usage-ping =
     .description = Dit helpt { -vendor-short-name } om aktive brûkers te skatten.
-    .label = Ping foar deistich gebrûk nei { -vendor-short-name } ferstjoerd
+    .label = Ping foar deistich gebrûk nei { -vendor-short-name } ferstjoere
     .accesskey = d
 
 ## Privacy Section - Security
@@ -2119,7 +2119,7 @@ preferences-doh-setting-off =
 preferences-doh-off-desc = Brûk jo standert DNS-resolver
 preferences-doh-select-resolver = Kies provider:
 preferences-doh-manage-exceptions =
-    .label = Utsûndering beheare…
+    .label = Utsûnderingen beheare…
     .accesskey = s
 preferences-doh-overview-default =
     .description = Feilige DNS brûke yn regio’s wêr’t dizze beskikber is.
@@ -2349,7 +2349,7 @@ issue-card-dismiss-button =
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby’t de measte trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
+    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst jo sneupe, wêrby’t trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
     .label = Ferbettere beskerming tsjin folgjen
 preferences-etp-level-radio-group =
     .aria-label = Ferbettere beskerming tsjin folgjen
@@ -2372,7 +2372,7 @@ preferences-etp-status-protections-dashboard-link =
 preferences-etp-header =
     .heading = Ferbettere beskerming tsjin folgjen
 preferences-etp-advanced-settings-group =
-    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby’t trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
+    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby’t de measte trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
     .label = Avansearre ynstellingen
 preferences-etp-customize-button =
     .label = Beskerming tsjin folgjen oanpasse
@@ -2458,10 +2458,10 @@ security-privacy-issue-warning-ech2 =
     .description = Encrypted Client Hello helpt foar jo ynternetoanbieder te ferstopjen hokker websites jo op it punt steane te besykjen.
     .label = Encrypted Client Hello is útskeakele
 security-privacy-issue-warning-doh =
-    .description = DNS oer HTTPS ferstoppet foar jo netwurkbehearder hokker websites jo besykje.
+    .description = DNS oer HTTPS ferstoppet foar jo ynternetoanbieder hokker websites jo besykje.
     .label = DNS oer HTTPS is útskeakele
 security-privacy-issue-warning-ech =
-    .description = Encrypted Client Hello ferstoppet foar jo netwurkbehearder hokker websites jo besykje.
+    .description = Encrypted Client Hello ferstoppet foar jo ynternetoanbieder hokker websites jo besykje.
     .label = Encrypted Client Hello is útskeakele
 security-privacy-issue-warning-proxy-autodetection =
     .description = Automatyske proxykonfiguraasje kin net-fertroude netwurken jo aktiviteit monitoarje litte.

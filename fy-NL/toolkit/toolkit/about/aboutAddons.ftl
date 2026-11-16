@@ -92,8 +92,8 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Opsjes fan dizze add-ons wizigje
-           *[other] Foarkarren fan dizze add-ons wizigje
+            [windows] Opsjes fan dizze add-on wizigje
+           *[other] Foarkarren fan dizze add-on wizigje
         }
     .accesskey =
         { PLATFORM() ->
@@ -412,7 +412,7 @@ addon-detail-group-label-quarantined-domains =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
-    .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen
+    .title = Offisjele troch Mozilla boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are performing the

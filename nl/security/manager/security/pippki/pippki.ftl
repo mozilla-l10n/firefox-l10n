@@ -16,13 +16,13 @@ change-password-new = Nieuw wachtwoord:
 change-password-reenter = Nieuw wachtwoord (nogmaals):
 change-password-not-set =
     .value = (niet ingesteld)
-pippki-failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
-pippki-incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
+pippki-failed-pw-change = Kan wachtwoord niet wijzigen.
+pippki-incorrect-pw = U hebt niet het juiste huidige wachtwoord ingevoerd. Probeer het opnieuw.
 pippki-pw-change-ok = Wachtwoord met succes gewijzigd.
 pippki-pw-empty-warning = Uw opgeslagen wachtwoorden en privésleutels zullen niet worden beschermd.
-pippki-pw-erased-ok = U hebt uw hoofdwachtwoord verwijderd. { pippki-pw-empty-warning }
-pippki-pw-not-wanted = Waarschuwing! U hebt besloten geen hoofdwachtwoord te gebruiken. { pippki-pw-empty-warning }
-pippki-pw-change2empty-in-fips-mode = U bent momenteel in FIPS-modus. FIPS vereist een ingesteld hoofdwachtwoord.
+pippki-pw-erased-ok = U hebt uw wachtwoord verwijderd. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Waarschuwing! U hebt besloten geen wachtwoord te gebruiken. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = U bent momenteel in FIPS-modus. FIPS vereist een ingesteld wachtwoord.
 
 ## Reset Primary Password dialog
 

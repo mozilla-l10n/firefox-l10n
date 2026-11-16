@@ -57,7 +57,7 @@ inactive-css-resize = <strong>{ $property }</strong> hat gjin effekt op dit elem
 inactive-css-ruby-element = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it in ruby-elemint is. De grutte wurdt bepaald troch de lettertypegrutte fan de rubytekst.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wurdt net stipe op markearre pseudo-eleminten.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::cue-pseudo-eleminten.
-inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> wurdt net stipe yn de folgjende browsers <strong>@position-try</strong>-regels.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> wurdt net stipe yn <strong>@position-try</strong>-regels.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
