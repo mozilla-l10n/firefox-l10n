@@ -7,6 +7,7 @@ restart-required-heading2 = وابخشی، { -brand-short-name } لنگ ره و�
 restart-required-why-now-question = سیچه سکو؟
 restart-required-more-details-heading = جۊزعیات قلوه
 restart-required-multiple-instances-question = سیچه ای تفاق وا چند پوروفایل یا چند نمووه ز { -brand-short-name } گاشڌ بوۊفته؟
+restart-required-unsaved-work-question = گاشڌ کارا زفت نوابیڌوم ز دست رون؟
 restart-button-label2 = ره وندن دووارته
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = قلوه بنیرین
