@@ -1174,6 +1174,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Сінхранізацыя...
     .title = Сінхранізаваць зараз
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Налады сінхранізацыі зараз прымяняюцца толькі да гэтай прылады.
 
 ## The list of things currently syncing.
 
@@ -1224,6 +1227,22 @@ sync-engine-passwords =
     .label = Паролі
     .tooltiptext = Паролі, якія вы захавалі
     .accesskey = о
+sync-engine-addresses2 =
+    .label = Адрасы
+    .tooltiptext = Адрасы, якія вы захавалі ў { -brand-short-name }
+    .accesskey = А
+sync-engine-payment-methods3 =
+    .label = Спосабы аплаты
+    .tooltiptext = Захаваныя вамі спосабы аплаты
+    .accesskey = С
+sync-engine-addons2 =
+    .label = Дадаткі
+    .tooltiptext = Пашырэнні і тэмы, якія вы дадалі ў { -brand-short-name } для камп'ютара
+    .accesskey = Д
+sync-engine-settings2 =
+    .label = Налады
+    .tooltiptext = Налады { -brand-short-name }, якія можна сінхранізаваць
+    .accesskey = ы
 sync-engine-addresses =
     .label = Адрасы
     .tooltiptext = Паштовыя адрасы, якія вы захавалі (толькі для камп'ютара)
