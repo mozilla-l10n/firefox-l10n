@@ -342,6 +342,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Cleachd facal-faire air a shàbhaladh
     .accesskey = C
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Cleachd masg puist-d { -relay-brand-short-name }
     .accesskey = e
@@ -423,6 +426,18 @@ main-context-menu-reveal-password =
     .accesskey = m
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Ùr
+main-context-menu-pdfjs-copy-page2 =
+    .label = Dèan lethbhreac dhen duilleag
+    .accesskey = D
+main-context-menu-pdfjs-cut-page2 =
+    .label = Geàrr an duilleag
+    .accesskey = G
+main-context-menu-pdfjs-delete-page2 =
+    .label = Sguab an duilleag às
+    .accesskey = S
+main-context-menu-pdfjs-save-page2 =
+    .label = Sàbhail na thagh thu mar…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Dèan lethbhreac dhen duilleag
 main-context-menu-pdfjs-cut-page =
