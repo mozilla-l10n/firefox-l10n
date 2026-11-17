@@ -43,6 +43,9 @@ appmenuitem-zoom =
     .value = Tamaño
 appmenuitem-more-tools =
     .label = Más herramientas
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ayuda e informes
 appmenuitem-help =
     .label = Ayuda
 appmenuitem-exit2 =
@@ -233,6 +236,9 @@ appmenu-help-share-ideas =
     .accesskey = s
 appmenu-help-switch-device =
     .label = Cambiar a un nuevo dispositivo
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ayuda e informes
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -289,9 +295,19 @@ appmenu-manage-profiles =
     .label = Administrar perfiles
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Crear un perfil nuevo
 appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+fxa-menu-create-profile-subpanel =
+    .title = Crear un perfil nuevo
+fxa-menu-create-profile-heading = Mejore su navegación con un perfil nuevo
+fxa-menu-create-profile-description = Mantenga separados sus marcadores, contraseñas e historial para la navegación laboral y personal.
+fxa-menu-create-profile-confirm =
+    .label = Crear perfil nuevo
+fxa-menu-create-profile-learn-more =
+    .label = ¿Qué son los perfiles?
 appmenu-profiles-2 =
     .label = Perfiles
