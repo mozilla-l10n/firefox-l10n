@@ -23,6 +23,8 @@ customkeys-nav-reload = ໂຫຼດຄືນໃໝ່
 customkeys-nav-stop = ຢຸດ
 customkeys-category-navigation-2 =
     .heading = ການນຳທາງ
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = ບໍ່ຖືກຕ້ອງ
 customkeys-key-clear =
     .aria-label = ລຶບລ້າງ
     .tooltiptext = ລຶບລ້າງ
