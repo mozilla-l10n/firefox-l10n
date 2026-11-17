@@ -79,3 +79,5 @@ extension-classic-yellow-name = هیل
 extension-classic-red-name = سوئر
 # Name for an orange theme.
 extension-classic-orange-name = نارنجی
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = شه OLED
