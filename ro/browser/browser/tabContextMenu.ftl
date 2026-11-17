@@ -34,19 +34,41 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Închide filele de la stânga
     .accesskey = l
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = File la stânga
+    .accesskey = l
 close-tabs-to-the-start-vertical =
     .label = Închide filele de mai sus
+    .accesskey = I
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = File sus
     .accesskey = I
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Închide filele de la dreapta
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = File la dreapta
+    .accesskey = i
 close-tabs-to-the-end-vertical =
     .label = Închide filele de mai jos
     .accesskey = i
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = File jos
+    .accesskey = i
 close-other-tabs =
     .label = Închide celelalte file
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Toate celelalte
     .accesskey = o
 reload-tabs =
     .label = Reîncarcă filele
@@ -85,14 +107,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Deschide într-o filă container nouă
     .accesskey = e
+tab-context-open-in-container =
+    .label = Deschide într-un container
+    .accesskey = e
 move-to-start =
     .label = Mută la început
+    .accesskey = S
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Început
     .accesskey = S
 move-to-end =
     .label = Mută la sfârșit
     .accesskey = E
+move-to-end-alt =
+    .label = Sfârșit
+    .accesskey = E
 move-to-new-window =
     .label = Mută într-o fereastră nouă
+    .accesskey = W
+move-to-new-window-alt =
+    .label = Fereastră nouă
     .accesskey = W
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -108,6 +143,10 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Închide filele duplicate
     .accesskey = u
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Filele duplicat
+    .accesskey = x
 tab-context-close-duplicate-tabs2 =
     .label = Închide duplicatele acestei file
     .accesskey = x
@@ -124,6 +163,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grup nou
     .accesskey = G
+tab-context-add-tab-to-group-new-group =
+    .label = Grup nou
+tab-context-add-tab-to-group-closed-groups =
+    .label = Grupuri închise
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -165,6 +208,16 @@ tab-context-move-tabs =
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Mută în
+            [one] Mută { $tabCount } filă în
+            [few] Mută { $tabCount } file în
+           *[other] Mută { $tabCount } de file în
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -177,6 +230,10 @@ tab-context-move-tabs2 =
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Mută ecranul divizat la
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Mută filele în
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

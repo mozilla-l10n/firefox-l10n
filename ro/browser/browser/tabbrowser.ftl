@@ -301,6 +301,15 @@ tab-context-move-tab-to-new-group =
            *[other] Adaugă filele într-un grup nou
         }
     .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Adaugă în grup
+            [one] Adaugă { $tabCount } filă în grup
+            [few] Adaugă { $tabCount } file în grup
+           *[other] Adaugă { $tabCount } de file în grup
+        }
+    .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -475,6 +484,10 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Separă ecranul divizat
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Separă filele
     .accesskey = t
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =

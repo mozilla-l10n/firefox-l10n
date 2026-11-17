@@ -388,10 +388,13 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+smartwindow-onboarding-title = Přiměrće sej jo.
 smartwindow-onboarding-model-label = Wubjerće swój model KI
 smartwindow-onboarding-model-auto = Awtomatisce
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Doporučeny
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } najlěpši model za waš nadawk wuběra
+smartwindow-onboarding-model-mistral-description = Dobry, jeli we wjacorych rěčach četujeće a přehladujeće
 smartwindow-onboarding-model-gemini-description = Spěšne wotmołwy, hdyž so spěšnje pohibujeće
 smartwindow-onboarding-memories-label = Wubjerće, kak { -smart-window-brand-name } wo was wuknje
 smartwindow-onboarding-memories-both = Chaty a přehladowanje
