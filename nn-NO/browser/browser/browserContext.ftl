@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Kople til ei eining f
 main-context-menu-use-saved-password =
     .label = Bruk lagra passord
     .accesskey = B
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Bruk { -relay-brand-short-name } e-postalias
     .accesskey = B
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Ny
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Kopier side
+    .accesskey = K
+main-context-menu-pdfjs-cut-page2 =
+    .label = Klipp ut side
+    .accesskey = K
+main-context-menu-pdfjs-delete-page2 =
+    .label = Slett side
+    .accesskey = S
+main-context-menu-pdfjs-save-page2 =
+    .label = Lagre utval som…
+    .accesskey = L
 main-context-menu-pdfjs-copy-page =
     .label = Kopier side
 main-context-menu-pdfjs-cut-page =
