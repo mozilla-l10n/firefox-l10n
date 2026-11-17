@@ -351,6 +351,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Sambungkan Peranti un
 main-context-menu-use-saved-password =
     .label = Gunakan Kata Sandi Tersimpan
     .accesskey = G
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Gunakan Topeng Email { -relay-brand-short-name }
     .accesskey = T
@@ -432,6 +435,18 @@ main-context-menu-reveal-password =
     .accesskey = S
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Baru
+main-context-menu-pdfjs-copy-page2 =
+    .label = Salin laman
+    .accesskey = S
+main-context-menu-pdfjs-cut-page2 =
+    .label = Potong laman
+    .accesskey = P
+main-context-menu-pdfjs-delete-page2 =
+    .label = Hapus laman
+    .accesskey = H
+main-context-menu-pdfjs-save-page2 =
+    .label = Simpan pilihan sebagai…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Salin laman
 main-context-menu-pdfjs-cut-page =
