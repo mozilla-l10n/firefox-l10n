@@ -73,7 +73,7 @@ about-private-browsing-felt-privacy-v1-info-link = 誰可能看到我的上網�
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
-about-private-browsing-nova-info-body = 關閉您的所有隱私視窗就會清除您的 Cookie、上網紀錄與網站資料。
+about-private-browsing-nova-info-body = 關閉所有隱私視窗後，就會清除 Cookie、上網紀錄與網站資料。
 about-private-browsing-nova-info-link = 還有誰可能看到我的上網紀錄？
 about-private-browsing-private-window-basics-link = 隱私視窗基本知識
 about-private-browsing-private-window-redesign-subheader = { -brand-short-name } 內建追蹤保護功能，設計來在您上網時保護隱私權。關閉此視窗後，會清除其中的瀏覽紀錄、Cookie 與網站資料，避免其他使用此裝置的人得知您的上網活動。
