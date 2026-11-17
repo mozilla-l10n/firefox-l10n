@@ -331,6 +331,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Seqdec awal uffir yettwaskelsen
     .accesskey = a
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Seqdec agelmus n yimayl { -relay-brand-short-name }
     .accesskey = I
@@ -412,6 +415,15 @@ main-context-menu-reveal-password =
     .accesskey = S
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Amaynut
+main-context-menu-pdfjs-copy-page2 =
+    .label = Nɣel asebter
+    .accesskey = N
+main-context-menu-pdfjs-cut-page2 =
+    .label = Gzem asebter
+    .accesskey = G
+main-context-menu-pdfjs-delete-page2 =
+    .label = Kkes asebter
+    .accesskey = K
 main-context-menu-pdfjs-copy-page =
     .label = Nɣel asebter
 main-context-menu-pdfjs-cut-page =
