@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conet un dispositîf 
 main-context-menu-use-saved-password =
     .label = Dopre password salvade
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Dopre une mascare di pueste eletroniche { -relay-brand-short-name }
     .accesskey = E
@@ -441,6 +444,18 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Novitâts
+main-context-menu-pdfjs-copy-page2 =
+    .label = Copie pagjine
+    .accesskey = C
+main-context-menu-pdfjs-cut-page2 =
+    .label = Taie pagjine
+    .accesskey = T
+main-context-menu-pdfjs-delete-page2 =
+    .label = Elimine pagjine
+    .accesskey = E
+main-context-menu-pdfjs-save-page2 =
+    .label = Salve selezion come…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Copie pagjine
 main-context-menu-pdfjs-cut-page =
