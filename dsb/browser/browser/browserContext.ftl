@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Zwěžćo rěd, aby b
 main-context-menu-use-saved-password =
     .label = Skłaźone gronidło wužywaś
     .accesskey = r
+
+##
+
 main-context-menu-use-relay-mask =
     .label = E-mailowu masku { -relay-brand-short-name } wužywaś
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Nowy
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Bok kopěrowaś
+    .accesskey = B
+main-context-menu-pdfjs-cut-page2 =
+    .label = Bok wurězaś
+    .accesskey = B
+main-context-menu-pdfjs-delete-page2 =
+    .label = Bok lašowaś
+    .accesskey = B
+main-context-menu-pdfjs-save-page2 =
+    .label = Wuběrk składowaś ako…
+    .accesskey = W
 main-context-menu-pdfjs-copy-page =
     .label = Bok kopěrowaś
 main-context-menu-pdfjs-cut-page =
