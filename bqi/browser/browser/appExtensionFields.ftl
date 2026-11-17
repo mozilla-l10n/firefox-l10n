@@ -59,6 +59,8 @@ extension-nova-smoke-name = دی
 ## who prefer a gradient-free look. These theme names are shown in the about:addons
 ## "Classic themes" section and in the theme add-on cards.
 
+# Name for a neutral light gray theme, the classic pre-Nova Firefox look.
+extension-classic-proton-name = خاکستری
 # Name for a blue theme.
 extension-classic-blue-name = کوۊ
 # Name for a cyan theme.
