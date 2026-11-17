@@ -650,6 +650,11 @@ support-get-help =
 support-share-ideas =
     .label = Del idear og tilbakemeldingar
 
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = Registrer deg
+
 ## General Section - Performance
 
 performance-settings-learn-more = Les meir

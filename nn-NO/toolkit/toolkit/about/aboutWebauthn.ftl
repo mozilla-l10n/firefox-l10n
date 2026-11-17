@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-kodebehandsaming
 about-webauthn-credential-management-section-title = Handsam innloggingsdetaljar
 about-webauthn-pin-required-section-title = PIN er påkravd
 about-webauthn-confirm-deletion-section-title = Stadfest sletting
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Loggar
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometriske registreringar
 
@@ -75,6 +77,12 @@ about-webauthn-add-bio-enrollment-button = Legg til registrering
 about-webauthn-cancel-button = Avbryt
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Slett
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Start
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stopp
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Tøm
 about-webauthn-start-enrollment-button = Start registrering
 about-webauthn-update-button = Oppdater
 

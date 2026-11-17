@@ -381,3 +381,8 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Avvis { $text }
     .title = Avvis { $text }
+
+## Single-page onboarding
+
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Tilrådd
