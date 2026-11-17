@@ -370,3 +370,8 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = رڌ کردن { $text }
     .title = رڌ کردن { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-memories-none = ز فعالیتا ویر مگرین
+smartwindow-onboarding-memories-browsing-description = گشتن من { -brand-short-name }
