@@ -211,6 +211,7 @@ ipprotection-locations-subview-promo =
     .heading = Pówušćo šćit z { -mozilla-vpn-brand-name }
     .message = Wubjeŕśo z wěcej ako 300 stojnišćow a šćitajśo wšykne swóje nałoženja na do 5 rědach.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobstaraś
+ipprotection-locations-subview-set-default-promo-button = Wótkaze z { -brand-short-name } wócyniś
 
 ## VPN paused state
 

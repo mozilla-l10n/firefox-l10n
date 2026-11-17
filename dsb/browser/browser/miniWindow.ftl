@@ -74,5 +74,7 @@ mini-window-overlay-instructions = Śěgniśo abo klikniśo, aby wobceŕk wubra�
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Wubjeŕśo, což se ma do miniwokna pśesunuś
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Źěl boka
 mini-window-panel-move-selection = Wuběrk pśesunuś
 mini-window-panel-move-full-tab = Ceły rejtarik pśesunuś

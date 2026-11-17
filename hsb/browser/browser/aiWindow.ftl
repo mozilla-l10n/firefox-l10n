@@ -391,7 +391,7 @@ aiwindow-starter-dismiss =
 smartwindow-onboarding-title = Přiměrće sej jo.
 smartwindow-onboarding-subtitle = Konfigurujće { -smart-window-brand-name } tak, kaž chceće. Přewjedźće kóždy čas změny w nastajenjach.
 smartwindow-onboarding-model-label = Wubjerće swój model KI
-smartwindow-onboarding-model-description = Model je zakład za chaty a akcije w { -smart-window-brand-name }
+smartwindow-onboarding-model-description = Model je zakład za chaty a akcije w { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Awtomatisce
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Doporučeny

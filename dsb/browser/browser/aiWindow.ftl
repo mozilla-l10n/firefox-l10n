@@ -389,3 +389,26 @@ aiwindow-starter-dismiss =
 ## Single-page onboarding
 
 smartwindow-onboarding-title = Pśiměŕśo se jo.
+smartwindow-onboarding-subtitle = Konfigurěrujśo { -smart-window-brand-name } tak, kaž cośo. Pśewjeźćo kuždy cas změny w nastajenjach.
+smartwindow-onboarding-model-label = Wubjeŕśo swój model KI
+smartwindow-onboarding-model-description = Model jo zakład za chaty a akcije w { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Awtomatiski
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Dopórucony
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } nejlěpšy model za waš nadawk wuběra
+smartwindow-onboarding-model-mistral-description = Dobry, jolic w někotarych rěcach chattujośo a pśeglědujośo
+smartwindow-onboarding-model-gemini-description = Malsne wótegrona, gaž se malsnje gibjośo
+smartwindow-onboarding-memories-label = Wubjeŕśo, kak { -smart-window-brand-name } wó was wuknjo
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } móžo z chatow, pśeglědowanja abo wobeju wuknuś, aby dopomnjeśa napórało. Wužywa je, aby wašo dožywjenje póněcom personalizěrowało.
+smartwindow-onboarding-memories-both = Chaty a pśeglědowanje
+smartwindow-onboarding-memories-browsing = Jano pśeglědowanje
+smartwindow-onboarding-memories-chats = Jano chaty
+smartwindow-onboarding-memories-none = Z aktiwity njewuknuś
+smartwindow-onboarding-memories-both-description = Chaty w { -smart-window-brand-name }, pśeglědowanje w { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = W { -brand-short-name } pśeglědowaś
+smartwindow-onboarding-memories-chats-description = Chaty w { -smart-window-brand-name }
+smartwindow-onboarding-default-window =
+    .description = Wužywajśo to, gaž { -brand-short-name } startujo, znowego startujo abo wótkaze z drugich nałoženjow wócynja.
+    .label = W { -smart-window-brand-name } startowaś
+smartwindow-onboarding-save =
+    .label = Składowaś a gótowy

@@ -272,6 +272,9 @@ colorway-removal-notice-button = Bywurke kleurstellingentema’s krije
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Jo kontrastynstellingen fan Windows hawwe foarrang op { -brand-short-name }-tema’s. Skeakelje dizze ynstellingen út om tema’s yn { -brand-short-name } te brûken.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } hat syn eigen ynboude ljochte en tsjustere tema’s dy’t jo systeemynstellingen folgje.
 privacy-policy = Privacybelied
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

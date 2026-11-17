@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Pinkoadebehear
 about-webauthn-credential-management-section-title = Referinsjes beheare
 about-webauthn-pin-required-section-title = Pinkoade fereaske
 about-webauthn-confirm-deletion-section-title = Fuortsmiten befêstigje
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Logboekregistraasje
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometryske ynskriuwingen
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Kin opsjes net beheare, omdat jo befeilig
 about-webauthn-text-not-available = Net beskikber op dit platfoarm.
 about-webauthn-bio-enrollment-list-subsection-title = Ynskriuwingen:
 about-webauthn-add-bio-enrollment-section-title = Nije ynskriuwing tafoegje
+about-webauthn-logging-warning = It lochboek kin persoanlike ynformaasje befetsje, lykas brûkersnammen, account-ID’s en website-adressen. Beoardielje dit eardat jo it diele.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Dit registrearret allinnich oanfragen nei de systeemeigen CTAP-ymplemintaasje fan { -brand-short-name }. It registrearret gjin oanfragen nei platfoarm WebAuthn-API’s of browserútwreidingen.
 
 ## Results label
 
