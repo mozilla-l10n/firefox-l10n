@@ -381,3 +381,10 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Descartar { $text }
     .title = Descartar { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-model-auto = Automático
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Recomendado
+smartwindow-onboarding-model-auto-description = O { -smart-window-brand-name } escolhe o melhor modelo para cada tarefa
