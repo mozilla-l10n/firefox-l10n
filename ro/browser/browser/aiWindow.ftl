@@ -383,3 +383,35 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Renunță { $text }
     .title = Renunță { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Lucrează alături de tine.
+    Planifică, compară, explorează și multe altele.
+smartwindow-onboarding-title = Hai să îl personalizăm
+smartwindow-onboarding-subtitle = Configurează { -smart-window-brand-name } cum vrei. Faci modificări în setări oricând.
+smartwindow-onboarding-model-label = Alege un model AI
+smartwindow-onboarding-model-description = Modelul permite conversații și acțiuni în { -smart-window-brand-name }
+smartwindow-onboarding-model-auto = Auto
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Recomandat
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } alege cel mai bun model pentru sarcină
+smartwindow-onboarding-model-mistral-description = Bun pentru conversații și navigare în mai multe limbi
+smartwindow-onboarding-model-gemini-description = Răspunsuri rapide când te grăbești
+smartwindow-onboarding-memories-label = Alege cum învață { -smart-window-brand-name } despre tine
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } poate învăța din conversații, din navigare sau ambele ca să creeze memorii. Le folosește ca să îți personalizeze experiența în timp.
+smartwindow-onboarding-memories-both = Conversații și navigare
+smartwindow-onboarding-memories-browsing = Numai navigare
+smartwindow-onboarding-memories-chats = Numai conversații
+smartwindow-onboarding-memories-none = Nu învață din ce faci
+smartwindow-onboarding-memories-both-description = Conversații în { -smart-window-brand-name }, navigare cu { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Navigare cu { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Conversații în { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Vei vedea mai puține sugestii personalizate și este posibil să trebuiască să repeți detalii dacă ai mai multe conversații.
+smartwindow-onboarding-default-window =
+    .description = Folosește-l când pornești, repornești sau deschizi linkuri din alte aplicații cu { -brand-short-name }.
+    .label = Începe în { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Salvează și continuă
