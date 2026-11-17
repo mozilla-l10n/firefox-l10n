@@ -375,3 +375,6 @@ aiwindow-starter-dismiss =
 
 smartwindow-onboarding-memories-none = ز فعالیتا ویر مگرین
 smartwindow-onboarding-memories-browsing-description = گشتن من { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = چتا من { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = زفت کوݩ وو راو
