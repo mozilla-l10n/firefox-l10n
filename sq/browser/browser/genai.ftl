@@ -209,6 +209,8 @@ link-preview-settings-key-points =
     .label = Lejojen IA-në të lexojë fillimin e faqes dhe të prodhojë pikat kyçe
 link-preview-settings-long-press =
     .label = Shkurtore: Klikojeni dhe mbajeni të shtypur lidhjen për 1 sekondë (shtypje e gjatë)
+highlight-to-search-settings-ask-generic =
+    .label = Pyetni IA-në
 # Checkbox label for one of the actions in the menu that appears when selecting
 # text on a page. "Search" is a verb: the action searches the selected text
 # with the default search engine.

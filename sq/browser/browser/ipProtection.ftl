@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Shpjereni më tej mbrojtjen, me { -mozilla-vpn-brand-name }
     .message = Zgjidhni nga 300+ vendndodhje dhe mbroni krejt aplikacionet tuaja në deri në 5 pajisje.
 ipprotection-locations-subview-promo-button = Merrni { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Më tepër vendndodhje. Më tepër mbrojtje.
+    .message = Bëjeni { -brand-short-name }-in parazgjedhjen tuaj dhe merrni { $count } vendndodhje më tepër. Lidhjet tuaja hapen këtu, ku VPN-ja është e brendshme.
+ipprotection-locations-subview-set-default-promo-button = Hapini lidhjet me { -brand-short-name }
 
 ## VPN paused state
 

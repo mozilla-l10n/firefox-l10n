@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Rregullime…
 menu-application-set-as-default =
     .label = Vëre { -brand-shorter-name }-in si Shfletuesin Parazgjedhje
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Jepuani { -brand-product-name }-in të tjerëve
 menu-application-services =
     .label = Shërbime
 menu-application-hide-this =
@@ -373,3 +377,7 @@ menu-help-not-deceptive =
     .accesskey = r
 menu-report-broken-site =
     .label = Njoftoni Sajt të Dëmtuar
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals2 =
+    .label = Jepuani { -brand-product-name }-in të tjerëve

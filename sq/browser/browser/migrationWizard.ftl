@@ -197,6 +197,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = I plotësuar
 migration-safari-password-import-header = Importoni Fjalëkalime nga Safari
+migration-safari-password-import-post-sequoia-step1 = Hapni <a data-l10n-name="macos-passwords-app">aplikacionin Fjalëkalime</a> në Mac-un tuaj
+migration-safari-password-import-post-sequoia-step2 = Nga shtylla e menusë në krye të skenës, zgjidhni Kartelë > Eksportoni Krejt Fjalëkalimet në Kartelë…
 migration-safari-password-import-post-sequoia-step3 = Ruaje kartelën
 migration-safari-password-import-post-sequoia-step4 = Përzgjidhni kartelën që ruajtët
 migration-safari-password-import-steps-header = Për të importuar fjalëkalime nga Safari:

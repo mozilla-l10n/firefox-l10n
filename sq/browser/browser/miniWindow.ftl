@@ -71,5 +71,9 @@ mini-window-overlay-instructions = Tërhiqni, ose klikoni, që të përzgjidhni 
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Zgjidhni ç’të kalohet te një Minidritare
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Pjesë faqeje
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Krejt faqen
 mini-window-panel-move-selection = Lëviz përzgjedhjen
 mini-window-panel-move-full-tab = Lëviz krejt skedën

@@ -260,6 +260,9 @@ launch-on-login-infobar-final-reject-button = Jo, faleminderit
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name }-i tani niset kur bëni hyrjen në Windows. Këtë mund ta ndryshoni përherë më vonë, te rregullimet.
 launch-on-login-autostart-infobar-turn-off-button = Çaktivizoje
     .accesskey = Ç
 
@@ -268,6 +271,7 @@ launch-on-login-autostart-infobar-turn-off-button = Çaktivizoje
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title = Të hapet { -brand-short-name }-i herës tjetër që niset kompjuteri juaj?
 launch-on-login-spotlight-startup-checkbox = Hape { -brand-short-name }-in gjatë nisjes së sistemit
 launch-on-login-spotlight-pin-taskbar-checkbox = Fiksoje te paneli
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
