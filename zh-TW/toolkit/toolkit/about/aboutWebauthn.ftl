@@ -33,6 +33,9 @@ about-webauthn-text-non-ctap2-device = 由於您的安全性 Token 不支援 CTA
 about-webauthn-text-not-available = 與此平台不相容。
 about-webauthn-bio-enrollment-list-subsection-title = 登記項目：
 about-webauthn-add-bio-enrollment-section-title = 新增登記項目
+about-webauthn-logging-warning = 紀錄檔可能包含使用者名稱、帳號識別碼及網址等個人資訊。分享前請先確認內容。
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = 只會記錄傳送至 { -brand-short-name } 原生 CTAP 實作的請求，不會記錄傳送至平台 WebAuthn API 或瀏覽器擴充套件的請求。
 
 ## Results label
 

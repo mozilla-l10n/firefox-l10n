@@ -262,6 +262,9 @@ colorway-removal-notice-button = 下載新版配色佈景主題
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = 您的 Windows 對比模式設定會蓋過 { -brand-short-name } 佈景主題。關閉設定後即可使用 { -brand-short-name } 的佈景主題。
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } 內建亮暗佈景主題，可依照您的系統設定自動切換。
 privacy-policy = 隱私權保護政策
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -376,4 +376,20 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+smartwindow-onboarding-title = 打造專屬您的體驗
+smartwindow-onboarding-model-label = 挑選你的 AI 模型
+smartwindow-onboarding-model-description = 模型是 { -smart-window-brand-name } 聊天與動作功能的核心。
 smartwindow-onboarding-model-auto = 自動
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = 推薦
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } 會挑選最適合您任務的模型
+smartwindow-onboarding-model-mistral-description = 若您會使用多種語言聊天與瀏覽網頁，這個最適合您
+smartwindow-onboarding-model-gemini-description = 最適合用來快問快答
+smartwindow-onboarding-memories-label = 選擇 { -smart-window-brand-name } 要如何了解您
+smartwindow-onboarding-memories-both = 聊天與上網
+smartwindow-onboarding-memories-browsing = 僅透過上網過程
+smartwindow-onboarding-memories-chats = 僅透過聊天
+smartwindow-onboarding-memories-none = 不要從使用行為中了解我
+smartwindow-onboarding-memories-chats-description = { -smart-window-brand-name }中的聊天功能
+smartwindow-onboarding-save =
+    .label = 儲存並繼續

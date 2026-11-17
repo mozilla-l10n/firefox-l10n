@@ -71,5 +71,9 @@ mini-window-overlay-instructions = 拖曳或點擊即可選擇要移動至迷你
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = 選擇要移動到迷你視窗的內容
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = 部分內容
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = 完整頁面
 mini-window-panel-move-selection = 移動選擇項目
 mini-window-panel-move-full-tab = 移動整個分頁

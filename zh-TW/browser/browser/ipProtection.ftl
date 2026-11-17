@@ -211,6 +211,7 @@ ipprotection-locations-subview-promo =
     .heading = 用 { -mozilla-vpn-brand-name } 獲得更佳保護
     .message = 用最多 5 台裝置，從超過 300 個位置連線並保護您的所有應用程式。
 ipprotection-locations-subview-promo-button = 獲得 { -mozilla-vpn-brand-name }
+ipprotection-locations-subview-set-default-promo-button = 用 { -brand-short-name } 開啟鏈結
 
 ## VPN paused state
 
