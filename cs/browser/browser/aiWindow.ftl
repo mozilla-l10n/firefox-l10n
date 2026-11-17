@@ -393,3 +393,16 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Zrušit { $text }
     .title = Zrušit { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Pomáhá vám zvládnout vše potřebné.
+    Plánujte, porovnávejte, objevujte a mnohem víc.
+smartwindow-onboarding-title = Přizpůsobte si ho podle sebe
+smartwindow-onboarding-subtitle = Přizpůsobte si funkci { -smart-window-brand-name } podle svých představ. Nastavení můžete kdykoli změnit.
+smartwindow-onboarding-model-label = Vyberte si model umělé inteligence
+smartwindow-onboarding-model-auto = Automaticky
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Doporučené
