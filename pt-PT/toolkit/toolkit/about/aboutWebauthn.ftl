@@ -75,6 +75,12 @@ about-webauthn-add-bio-enrollment-button = Adicionar registo
 about-webauthn-cancel-button = Cancelar
 about-webauthn-send-pin-button = Ok
 about-webauthn-delete-button = Eliminar
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Iniciar
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Parar
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Limpar
 about-webauthn-start-enrollment-button = Iniciar registo
 about-webauthn-update-button = Atualizar
 
