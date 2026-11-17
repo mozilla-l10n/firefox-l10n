@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = เชื่อมต
 main-context-menu-use-saved-password =
     .label = ใช้รหัสผ่านที่บันทึกไว้
     .accesskey = ห
+
+##
+
 main-context-menu-use-relay-mask =
     .label = ใช้ตัวปกปิดอีเมลของ { -relay-brand-short-name }
     .accesskey = อ
@@ -441,6 +444,18 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = ใหม่
+main-context-menu-pdfjs-copy-page2 =
+    .label = คัดลอกหน้า
+    .accesskey = ค
+main-context-menu-pdfjs-cut-page2 =
+    .label = ตัดหน้า
+    .accesskey = ต
+main-context-menu-pdfjs-delete-page2 =
+    .label = ลบหน้า
+    .accesskey = ล
+main-context-menu-pdfjs-save-page2 =
+    .label = บันทึกส่วนที่เลือกเป็น…
+    .accesskey = บ
 main-context-menu-pdfjs-copy-page =
     .label = คัดลอกหน้า
 main-context-menu-pdfjs-cut-page =
