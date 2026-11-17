@@ -13,6 +13,9 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Standardindstillinger
 smart-window-model-learn-link = Læs mere om modeller
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } vælger den bedste model til din opgave
+    .label = Auto-model
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -23,3 +26,9 @@ smart-window-model-custom-save =
     .label = Gem
 ai-window-delete-all-memories-confirm = Slet
 ai-window-delete-all-memories-cancel = Annuller
+smart-window-model-mistral =
+    .description = God, hvis du chatter og browser på flere sprog. Fulde navn: { $model } af { $ownerName }
+    .label = { $shortName }
+smart-window-model-gemini =
+    .description = Hurtige svar, når du har travlt. Fulde navn: { $model } af { $ownerName }
+    .label = { $shortName }

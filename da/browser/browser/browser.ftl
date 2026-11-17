@@ -343,6 +343,7 @@ quickactions-addons = Vis tilføjelser
 quickactions-cmd-addons3 = udvidelser, temaer, tilføjelser
 # Opens preferences page at AI controls
 quickactions-manageai = Håndter AI-indstillinger
+quickactions-cmd-manageai = deaktiver ai, ai fra, håndter ai
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Håndter bogmærker
 quickactions-cmd-bookmarks = bogmærker
@@ -377,6 +378,10 @@ quickactions-logins2 = Håndter adgangskoder
 quickactions-cmd-logins = logins, adgangskoder
 # Mutes all tabs playing audio
 quickactions-mute = Slå lyd fra i faneblade, der afspiller lyd
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = slå lyden fra, ssh, hys, tys
 # Opens the print dialog
 quickactions-print2 = Udskriv side
 quickactions-cmd-print = udskriv
@@ -976,6 +981,14 @@ urlbar-view-context-menu-open-in-container-tab2 = Åbn i nyt kontekst-faneblad
 urlbar-view-context-menu-open-in-window2 = Åbn i et nyt vindue
     .accesskey = v
 urlbar-view-context-menu-open-in-private-window2 = Åbn i et nyt privat vindue
+    .accesskey = p
+urlbar-view-context-menu-search-in-tab = Søg i nyt faneblad
+    .accesskey = f
+urlbar-view-context-menu-search-in-container-tab = Søg i nyt kontekst-faneblad
+    .accesskey = k
+urlbar-view-context-menu-search-in-window = Søg i nyt vindue
+    .accesskey = v
+urlbar-view-context-menu-search-in-private-window = Søg i nyt privat vindue
     .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When

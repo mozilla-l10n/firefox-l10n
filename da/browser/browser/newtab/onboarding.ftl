@@ -581,3 +581,12 @@ welcome-back-onboarding-pill-label-pdf = PDF-værktøjer
 welcome-back-onboarding-card-label-vpn = Hold dig skjult med indbygget VPN
 welcome-back-onboarding-card-label-pdf = Fremhæv, underskriv og arbejd med PDF-filer
 welcome-back-onboarding-card-tilebutton-label = Prøv det
+
+## New Tab Onboarding cards
+
+hnt-card-import-primary-button = Importer dine data
+hnt-card-default-body = { -brand-product-name } er den eneste større browser, der er bygget til at beskytte dig, ikke spore dig.
+hnt-card-default-primary-button = Åbn links med { -brand-short-name }
+hnt-card-mobile-primary-button = Hent { -brand-product-name } til mobilen.
+hnt-card-wallpaper-header = Vælg en ny frisk baggrund
+hnt-card-last-card-header-end = Beskyttelse mod sporing er slået til.

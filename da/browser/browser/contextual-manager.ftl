@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importer fra en anden
 contextual-manager-passwords-command-import = Importer fra fil…
 contextual-manager-passwords-command-export = Eksporter adgangskoder
 contextual-manager-passwords-command-remove-all = Fjern alle adgangskoder
+contextual-manager-passwords-command-delete-all = Slet alle adgangskoder
 contextual-manager-passwords-command-options = Indstillinger
 contextual-manager-passwords-command-help = Hjælp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -104,6 +105,13 @@ contextual-manager-passwords-remove-all-title =
         [one] Fjern adgangskode?
        *[other] Fjern alle { $total } adgangskoder?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Slet { $total } adgangskode?
+       *[other] Slet { $total } adgangskoder?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -118,6 +126,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Fjern
         [one] Fjern
        *[other] Fjern alle
+    }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Slet
+       *[other] Slet alle
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -186,12 +201,16 @@ contextual-manager-passwords-radiobutton-all = Alle ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Advarsler ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Fjern adgangskoden?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Slet adgangskode?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Du kan ikke fortryde dette.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Tilbage
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fjern
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Slet
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annuller
 contextual-manager-passwords-alert-card =
@@ -223,6 +242,9 @@ contextual-manager-passwords-update-label =
     .label = Opdater adgangskode
 contextual-manager-passwords-remove-label =
     .title = Fjern adgangskode
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Slet adgangskode
 contextual-manager-passwords-origin-field =
     .label = Webstedets adresse
     .placeholder = https://www.eksempel.dk
@@ -336,6 +358,13 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Ja, fjern adgangskode
         [one] Ja, fjern adgangskode
        *[other] Ja, fjern adgangskoder
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Ja, slet adgangskode
+       *[other] Ja, slet adgangskoder
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Indtast din hovedadgangskode for at se dine gemte adgangskoder.

@@ -212,3 +212,25 @@ aiwindow-feedback-reason-other = Andet
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
 aiwindow-starter-browsing-compare = Sammenlign faneblade
+
+## Single-page onboarding
+
+smartwindow-onboarding-subtitle = Opsæt { -smart-window-brand-name }, som du ønsker. Foretag ændringer når som helst i indstillingerne.
+smartwindow-onboarding-model-label = Vælg din AI-model
+smartwindow-onboarding-model-auto = Automatisk
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Anbefalet
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } vælger den bedste model til din opgave
+smartwindow-onboarding-model-mistral-description = Godt, hvis du chatter og browser på flere sprog
+smartwindow-onboarding-model-gemini-description = Hurtige svar, når du har travlt
+smartwindow-onboarding-memories-label = Vælg hvordan { -smart-window-brand-name } lærer om dig
+smartwindow-onboarding-memories-both = Chat og browsing
+smartwindow-onboarding-memories-browsing = Kun browsing
+smartwindow-onboarding-memories-chats = Kun chats
+smartwindow-onboarding-memories-none = Lær ikke af aktivitet
+smartwindow-onboarding-memories-chats-description = Chats i { -smart-window-brand-name }
+smartwindow-onboarding-default-window =
+    .description = Brug det, når { -brand-short-name } starter, genstarter eller åbner links fra andre apps.
+    .label = Start i { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Gem og fortsæt
