@@ -638,6 +638,11 @@ support-get-help =
 support-share-ideas =
     .label = 分享想法與意見回饋
 
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = 訂閱
+
 ## General Section - Performance
 
 performance-settings-learn-more = 了解更多

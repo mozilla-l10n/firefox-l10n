@@ -373,3 +373,7 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = 關閉 { $text }
     .title = 關閉 { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-model-auto = 自動

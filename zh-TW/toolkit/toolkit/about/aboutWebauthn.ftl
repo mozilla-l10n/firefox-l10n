@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN 碼管理
 about-webauthn-credential-management-section-title = 管理登入資訊
 about-webauthn-pin-required-section-title = 必須輸入 PIN 碼
 about-webauthn-confirm-deletion-section-title = 確認刪除
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = 紀錄
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = 登記生物識別資訊
 
@@ -74,6 +76,12 @@ about-webauthn-add-bio-enrollment-button = 新增登記資訊
 about-webauthn-cancel-button = 取消
 about-webauthn-send-pin-button = 確定
 about-webauthn-delete-button = 刪除
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = 開始
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = 停止
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = 清除
 about-webauthn-start-enrollment-button = 開始登記資訊
 about-webauthn-update-button = 更新
 
