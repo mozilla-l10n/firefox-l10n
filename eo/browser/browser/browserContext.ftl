@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Konektu aparaton por 
 main-context-menu-use-saved-password =
     .label = Uzi konservitan pasvorton
     .accesskey = p
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Uzi retpoŝtan maskon de { -relay-brand-short-name }
     .accesskey = r

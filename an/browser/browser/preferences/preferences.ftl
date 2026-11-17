@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 managed-notice = Lo tuyo navegador ye chestionau per la tuya organización.
 managed-notice-nav =
     .label = Lo tuyo navegador ye chestionau per la tuya organización.
@@ -146,7 +149,7 @@ check-user-spelling =
     .label = Comprebar la ortografía entre que escribo
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fichers y aplicacions
 download-save-files-header =

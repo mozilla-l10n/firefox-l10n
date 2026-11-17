@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = Umom
 pane-home-title = Rümôh (Home)
 pane-search-title2 = Mita
@@ -121,7 +124,7 @@ check-user-spelling =
     .label = Ci neukalen keulai speling droen lagé neu tép
     .accesskey = C
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Beureukaih ngön Aplikasi
 download-save-files-header =

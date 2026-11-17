@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Csatlakoztasson egy e
 main-context-menu-use-saved-password =
     .label = Mentett jelszó használata
     .accesskey = j
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } e-mail-maszk használata
     .accesskey = e

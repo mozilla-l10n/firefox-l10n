@@ -342,9 +342,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Cleachd facal-faire air a shàbhaladh
     .accesskey = C
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Cleachd masg puist-d { -relay-brand-short-name }
     .accesskey = e

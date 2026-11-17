@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = صلّ جهاز لإ�
 main-context-menu-use-saved-password =
     .label = استعمل كلمة سر محفوظة
     .accesskey = ع
-
-##
-
 main-context-menu-use-relay-mask =
     .label = استخدم قناع البريد الإلكتروني { -relay-brand-short-name }.
     .accesskey = د

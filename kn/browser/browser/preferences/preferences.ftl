@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = ಸಾಮಾನ್ಯ
 pane-home-title = ಮನೆ
 pane-search-title2 = ಹುಡುಕು
@@ -80,7 +83,7 @@ translate-exceptions =
     .label = ಹೊರತಾದವುಗಳು...
     .accesskey = x
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = ಕಡತಗಳು ಮತ್ತು ಅನ್ವಯಕಗಳು
 download-save-files-header =

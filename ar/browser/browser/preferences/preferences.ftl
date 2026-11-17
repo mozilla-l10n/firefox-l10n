@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = أخبر مواقع الويب بعدم بيع بياناتي أو مشاركتها
     .accesskey = ش
@@ -481,7 +484,7 @@ spellcheck-promo =
     .heading = كيفية استخدام التدقيق الإملائي
     .message = انقر بزر الفأرة الأيمن فوق أي حقل نصي لتشغيل التدقيق الإملائي أو إيقافه، أو لتغيير اللغة. لا تدعم جميع الحقول التدقيق الإملائي.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = الملفات و التطبيقات
 download-save-files-header =

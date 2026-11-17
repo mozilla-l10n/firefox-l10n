@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Websydłam k wěsći daś, až njamaju móje daty pśedaś abo źěliś
     .accesskey = d
@@ -482,7 +485,7 @@ spellcheck-promo =
     .heading = Kak móžośo pšawopisnu kontrolu wužywaś
     .message = Klikniśo z pšaweju tastu do tekstowego póla, aby pšawopisnu kontrolu zmóžnił abo znjemóžnił, aby rěc změnił. Nic wšykne póla pšawopisnu kontrolu pódpěraju.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Dataje a nałoženja
 download-save-files-header =

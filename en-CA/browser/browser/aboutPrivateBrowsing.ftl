@@ -84,6 +84,7 @@ about-private-browsing-nova-info-header = You’re off the record
 about-private-browsing-nova-info-subheader2 = We’ll erase every search and sign-in when you close all your Private Windows. { -brand-short-name }’s built-in protections are on here too, like blocking trackers.
 
 ## Strings for the Private Window basics spotlight
+
 about-private-browsing-spotlight-basics-title = Private Window basics
 about-private-browsing-spotlight-basics-subtitle = Private Windows help keep your browsing private from others on this device. They don’t make you anonymous or clear all of your data.
 # This is a section header in the Private Window basics spotlight dialog,
@@ -102,4 +103,3 @@ about-private-browsing-spotlight-basics-vpn = Use built-in VPN to make your loca
 # Translations should be consistent with the existing "Strict" string in about:preferences.
 about-private-browsing-spotlight-basics-strict-tracking = Switch to Strict in settings for stronger tracking protections.
 about-private-browsing-spotlight-basics-learn-more = Learn more
-

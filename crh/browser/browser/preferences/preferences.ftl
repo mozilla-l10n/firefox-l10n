@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = Umumiy
 pane-home-title = Ev
 pane-search-title2 = Qıdırma
@@ -129,7 +132,7 @@ check-user-spelling =
     .label = Men tuşlağanda imlâmnı teşker
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Dosyeler ve Uyğulamalar
 download-save-files-header =

@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Zwjazajće grat, zo b
 main-context-menu-use-saved-password =
     .label = Składowane hesło wužiwać
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = E-mejlowu masku { -relay-brand-short-name } wužiwać
     .accesskey = E

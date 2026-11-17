@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Ferbyn in apparaat om
 main-context-menu-use-saved-password =
     .label = Bewarre wachtwurden brûke
     .accesskey = B
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-e-mailmasker brûke
     .accesskey = m

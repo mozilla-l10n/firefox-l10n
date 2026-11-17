@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης δεδομένων στους ιστοτόπους
     .accesskey = σ
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Οδηγίες χρήσης του ορθογραφικού ελέγχου
     .message = Κάντε δεξί κλικ σε ένα πεδίο κειμένου για να (απ)ενεργοποιήσετε τον ορθογραφικό έλεγχο ή να αλλάξετε τη γλώσσα. Ο ορθογραφικός έλεγχος δεν υποστηρίζεται σε όλα τα πεδία.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Αρχεία και εφαρμογές
 download-save-files-header =

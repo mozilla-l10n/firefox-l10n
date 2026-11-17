@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Ejerure ñanduti rendápe ani ovende ha omoherakuã che mba’ekuaarã
     .accesskey = s
@@ -471,7 +474,7 @@ spellcheck-promo =
     .heading = Mba’éicha eiporúta ñe’ẽ jehaiporãha
     .message = Eikutu akatúa gotyo moñe’ẽrã korápe emyandy térã embogue hag̃ua ñe’ẽ jehaiporãha térã emoambuévo ñe’ẽ. Ndaopvavéi kora omoneĩ ñe’ẽ jehaiporãha.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Marandurenda ha Tembiporu’i
 download-save-files-header =

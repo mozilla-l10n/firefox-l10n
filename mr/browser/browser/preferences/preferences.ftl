@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 managed-notice = आपला ब्राउझर आपल्या संस्थेद्वारे व्यवस्थापित केला जात आहे.
 managed-notice-nav =
     .label = आपला ब्राउझर आपल्या संस्थेद्वारे व्यवस्थापित केला जात आहे.
@@ -130,7 +133,7 @@ check-user-spelling =
     .label = टाइप करतेवेळी शुध्दलेखन तपासत रहा
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = फाईल आणि ॲप्लिकेशन
 download-save-files-header =

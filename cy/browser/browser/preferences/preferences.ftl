@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Dweud wrth wefannau i beidio â gwerthu neu rannu fy nata
     .accesskey = g
@@ -488,7 +491,7 @@ spellcheck-promo =
     .heading = Sut i ddefnyddio gwirio sillafu
     .message = Cliciwch i'r dde ar faes testun i droi gwirio sillafu ymlaen neu i ffwrdd neu i newid iaith. Dyw pob maes ddim yn cefnogi gwirio sillafu.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Ffeiliau a Rhaglenni
 download-save-files-header =

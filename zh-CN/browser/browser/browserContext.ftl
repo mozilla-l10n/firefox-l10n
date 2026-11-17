@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 连接设备以发送
 main-context-menu-use-saved-password =
     .label = 使用保存的密码
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 马甲邮箱
     .accesskey = E

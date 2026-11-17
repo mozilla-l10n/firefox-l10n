@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Taq Runuk'ulem
 category-nav-heading =
     .heading = Taq Runuk'ulem
@@ -197,7 +200,7 @@ check-user-spelling =
     .label = Tinik'öx ri nutz'ib'anik toq yitz'ib'an
     .accesskey = n
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Taq Yakb'äl chuqa' taq Chokoy
 download-save-files-header =

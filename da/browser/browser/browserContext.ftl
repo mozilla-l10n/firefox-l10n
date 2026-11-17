@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tilslut en enhed for 
 main-context-menu-use-saved-password =
     .label = Brug gemt adgangskode
     .accesskey = B
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Brug { -relay-brand-short-name }-mail-maske
     .accesskey = m

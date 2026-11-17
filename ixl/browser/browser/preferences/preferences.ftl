@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-home-title = Ixe´te'ba'l
 pane-search-title2 = Chuka
     .title = Chuka
@@ -39,7 +42,7 @@ language-header = Yolb'al
 choose-language-description = Txa u yolb'ale' ve ni tal aama aq'al li kuch unq'a paginae'
 confirm-browser-language-change-button = B'anb'e as a xe'tisa
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)

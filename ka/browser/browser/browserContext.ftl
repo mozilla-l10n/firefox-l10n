@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = დააკავშ
 main-context-menu-use-saved-password =
     .label = შენახული პაროლის გამოყენება
     .accesskey = ო
-
-##
-
 main-context-menu-use-relay-mask =
     .label = გამოიყენეთ { -relay-brand-short-name } ელფოსტის შესანიღბად
     .accesskey = ე

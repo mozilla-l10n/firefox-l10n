@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 페이지를 보내�
 main-context-menu-use-saved-password =
     .label = 저장된 비밀번호 사용
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } 이메일 가리기 사용
     .accesskey = E

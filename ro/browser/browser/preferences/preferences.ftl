@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Spune site-urilor web să nu-mi vândă sau să nu-mi partajeze datele
     .accesskey = s
@@ -477,7 +480,7 @@ spellcheck-promo =
     .heading = Cum se folosește verificarea ortografică
     .message = Dă clic dreapta într-un câmp de text ca să activezi sau să dezactivezi verificarea ortografică sau ca să schimbi limba. Nu toate câmpurile permit verificarea ortografică.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fișiere și aplicații
 download-save-files-header =

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Paràmetres
 category-nav-heading =
     .heading = Paràmetres
@@ -172,7 +175,7 @@ check-user-spelling =
     .label = Verifica l'ortografia a mesura que s'escriu
     .accesskey = o
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fitxers i aplicacions
 download-save-files-header =

@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conectează un dispoz
 main-context-menu-use-saved-password =
     .label = Folosește parola salvată
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Folosește masca de e-mail { -relay-brand-short-name }
     .accesskey = E

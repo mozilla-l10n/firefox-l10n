@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = ການຕັ້ງຄ່າ
 category-nav-heading =
     .heading = ການຕັ້ງຄ່າ
@@ -170,7 +173,7 @@ translate-exceptions =
 use-system-locale =
     .label = ໃຊ້ການຕັ້ງຄ່າລະບົບປະຕິບັດການຂອງທ່ານສຳລັບ “{ $localeName }” ເພື່ອຈັດຮູບແບບວັນທີ, ເວລາ, ຕົວເລກ, ແລະການວັດແທກ.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = ໄຟລ໌ແລະແອັບພລິເຄຊັນ
 download-save-files-header =

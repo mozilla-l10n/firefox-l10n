@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Reci web-stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
@@ -479,7 +482,7 @@ spellcheck-promo =
     .heading = Kako koristiti provjeru pravopisa
     .message = Klikni desnom tipkom miša na polje za unos teksta da uključiš ili isključiš provjeru pravopisa ili promijeniš jezik. Provjeru pravopisa ne podržavaju sva polja.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Datoteke i aplikacije
 download-save-files-header =

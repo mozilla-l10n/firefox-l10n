@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Կայքերին հաղորդել, որ չտարածեն և չվաճառեն իմ տվյալները
     .accesskey = չ
@@ -448,7 +451,7 @@ spellcheck-promo =
     .heading = Ինչպես օգտագործել ուղղագրության ստուգումը
     .message = Ուղղագրության ստուգումը միացնելու կամ անջատելու, կամ լեզուն փոխելու համար տեքստային դաշտի վրա սեղմեք աջ կոճակը։ Ոչ բոլոր դաշտերն են աջակցում ուղղագրության ստուգումը։
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Ֆայլեր և հավելվածներ
 download-save-files-header =

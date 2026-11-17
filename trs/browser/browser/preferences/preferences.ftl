@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 managed-notice = Yi'nïn' nikòt ni huej dugumi dàj 'iaj sun riña nana'uît nuguan'an.
 managed-notice-nav =
     .label = Yi'nïn' nikòt ni huej dugumi dàj 'iaj sun riña nana'uît nuguan'an.
@@ -132,7 +135,7 @@ check-user-spelling =
     .label = Natsij si achrùn hue'et
     .accesskey = N
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Archivo ni aplikasion
 download-save-files-header =

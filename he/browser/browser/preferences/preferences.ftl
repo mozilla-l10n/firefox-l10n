@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = להורות לאתרים לא למכור או לשתף את הנתונים שלי
     .accesskey = מ
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = כיצד להשתמש בבדיקת איות
     .message = יש ללחוץ מקש ימני על שדה טקסט כדי להפעיל או לכבות את בדיקת האיות, או לשנות את השפה. לא כל השדות תומכים בבדיקת איות.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = קבצים ויישומים
 download-save-files-header =

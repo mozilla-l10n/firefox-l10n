@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = Iamu ampe
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
@@ -22,7 +25,7 @@ choose-button =
     .label = K´umanharhitani...
     .accesskey = ´
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 applications-type-column =
     .label = Najasi ukua

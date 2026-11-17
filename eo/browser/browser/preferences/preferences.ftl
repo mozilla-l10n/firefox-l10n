@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Peti al retejoj ne vendi aŭ dividi miajn datumojn
     .accesskey = v
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Kiel uzi la kontrolon de literumo
     .message = Alklaku per la dekstra butono sur teksta kampo por ŝalti aŭ malŝalti la kontrolon de literumo aŭ por ŝanĝi la lingvon. Kelkaj kampoj ne subtenas kontrolon de literumo.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Dosieroj kaj programoj
 download-save-files-header =

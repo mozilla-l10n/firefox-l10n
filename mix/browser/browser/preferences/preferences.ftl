@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = General
 pane-home-title = Kitsàa
 pane-search-title2 = Nda tuku
@@ -48,7 +51,7 @@ choose-button =
     .label = Katsi…
     .accesskey = K
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 download-save-files-header =
     .label = Chika va'a tutu nu

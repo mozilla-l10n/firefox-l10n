@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Пайваст кар
 main-context-menu-use-saved-password =
     .label = Истифода кардани ниҳонвожаи нигоҳдошташуда
     .accesskey = И
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Истифодаи ниқоби почтаи электронии «{ -relay-brand-short-name }»
     .accesskey = И

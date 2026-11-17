@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Կարգաւորումներ
 category-nav-heading =
     .heading = Կարգաւորումներ
@@ -205,7 +208,7 @@ check-user-spelling =
     .label = Գրելիս ստուգել ուղղագրութիւնը
     .accesskey = մ
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Նիշեր եւ յաւելուածներ
 download-save-files-header =

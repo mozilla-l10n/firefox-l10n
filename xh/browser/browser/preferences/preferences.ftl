@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = Jikelele
 pane-search-title2 = Khangela
     .title = Khangela
@@ -92,7 +95,7 @@ check-user-spelling =
     .label = Khangela upelo lwakho njengoko uchwetheza
     .accesskey = u
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 download-save-files-header =
     .label = Gcina iifayile kwi

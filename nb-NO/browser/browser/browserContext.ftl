@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Koble til en enhet fo
 main-context-menu-use-saved-password =
     .label = Bruk lagret passord
     .accesskey = B
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Bruk { -relay-brand-short-name } e-postalias
     .accesskey = e

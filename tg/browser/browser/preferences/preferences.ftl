@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Ба сомонаҳо хабар диҳед, то онҳо маълумоти маро нафурӯшанд ва ошкор накунанд
     .accesskey = Б
@@ -427,7 +430,7 @@ check-user-spelling =
 spellcheck-download-dictionaries =
     .label = Боргирӣ кардани луғатҳо
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Файлҳо ва барномаҳо
 download-save-files-header =

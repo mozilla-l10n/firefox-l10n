@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = יש לחבר מכש�
 main-context-menu-use-saved-password =
     .label = שימוש בססמה שמורה
     .accesskey = ש
-
-##
-
 main-context-menu-use-relay-mask =
     .label = שימוש במסכת דוא״ל של { -relay-brand-short-name }
     .accesskey = ד

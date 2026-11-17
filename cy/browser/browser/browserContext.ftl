@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Cysylltwch Ddyfais i 
 main-context-menu-use-saved-password =
     .label = Defnyddio Cyfrinair wedi'i Gadw
     .accesskey = C
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Defnyddio Arallenw E-bost { -relay-brand-short-name }
     .accesskey = D

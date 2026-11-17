@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
 category-nav-heading =
     .heading = ᱥᱟᱡᱟᱣ ᱠᱚ
@@ -211,7 +214,7 @@ check-user-spelling =
     .label = ᱚᱞ ᱚᱞ ᱛᱮ ᱟᱢᱟᱜ ᱜᱟᱵᱟᱱ ᱧᱮᱞ ᱢᱮ
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = ᱨᱮᱫᱽ ᱟᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ
 download-save-files-header =

@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Під'єднайте
 main-context-menu-use-saved-password =
     .label = Використати збережений пароль
     .accesskey = б
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Використати маску електронної пошти { -relay-brand-short-name }
     .accesskey = е

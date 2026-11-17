@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = මාගේ දත්ත විකිණීමෙන් හෝ බෙදා ගැනීමෙන් වළකින ලෙස අඩවි වලට පවසන්න
     .accesskey = s
@@ -241,7 +244,7 @@ check-user-spelling =
     .label = ඔබ ලියන විට අකුරු වින්‍යාසය පරීක්‍ෂා කරන්න
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = ගොනු සහ යෙදුම්
 download-save-files-header =

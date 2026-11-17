@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Yêu cầu trang web không bán hoặc chia sẻ dữ liệu của tôi
     .accesskey = s
@@ -464,7 +467,7 @@ spellcheck-promo =
     .heading = Cách sử dụng Kiểm tra chính tả
     .message = Nhấp chuột phải vào ô văn bản để bật/tắt kiểm tra chính tả hoặc thay đổi ngôn ngữ. Không phải tất cả các ô đều hỗ trợ kiểm tra chính tả.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Tập tin và ứng dụng
 download-save-files-header =

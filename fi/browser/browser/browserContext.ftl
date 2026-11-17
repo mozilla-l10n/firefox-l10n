@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Yhdistä laite lähet
 main-context-menu-use-saved-password =
     .label = Käytä tallennettua salasanaa
     .accesskey = s
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Käytä { -relay-brand-short-name }-sähköpostimaskia
     .accesskey = E

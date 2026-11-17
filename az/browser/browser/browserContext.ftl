@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Səhifə Göndərmək
 main-context-menu-use-saved-password =
     .label = Saxlanmış Parolu İşlət
     .accesskey = P
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } E-poçt Maskası İşlət
     .accesskey = E

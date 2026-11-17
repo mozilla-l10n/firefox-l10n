@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = ویب سائٹاں کوں آکھو جو میݙا ڈیٹا نہ ویچِن تے نہ کئیں کوں ݙِکھاوِن
     .accesskey = ݙ
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = سپیل چیکنگ کیویں استعمال کرو
     .message = سپیل چیک آن یا آف کرݨ کیتے یا زبان بدلݨ کیتے کہیں وی ٹیکسٹ فیلڈ تے سڄا کلک کرو۔ ساریاں فیلڈز سپیل چیک دی حمایت نیں کریندیاں۔
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = فائلاں تے ایپلی کیشن
 download-save-files-header =

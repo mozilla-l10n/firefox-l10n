@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Sayfa göndermek içi
 main-context-menu-use-saved-password =
     .label = Kayıtlı parolayı kullan
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } e-posta maskesini kullan
     .accesskey = E

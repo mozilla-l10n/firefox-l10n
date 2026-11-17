@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Sätted
 category-nav-heading =
     .heading = Sätted
@@ -209,7 +212,7 @@ check-user-spelling =
     .label = Sisestamisel kontrollitakse õigekirja
     .accesskey = m
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Failid ja rakendused
 download-save-files-header =

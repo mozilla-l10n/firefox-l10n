@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Fortel nettstadar om å ikkje selje eller dele mine data
     .accesskey = o
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Slik brukar du stavekontroll
     .message = Høgreklikk i eit tekstfelt for å slå stavekontrollen på eller av, eller for å endre språk. Ikkje alle felt støttar stavekontroll.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Filer og program
 download-save-files-header =

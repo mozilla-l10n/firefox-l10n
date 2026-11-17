@@ -345,9 +345,6 @@ main-context-menu-send-to-mobile-2 =
 main-context-menu-use-saved-password =
     .label = Utilisar il pled-clav memorisà
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilisar in alias dad e-mail da { -relay-brand-short-name }
     .accesskey = e

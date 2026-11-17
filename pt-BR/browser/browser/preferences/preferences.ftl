@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Pedir aos sites para não vender nem compartilhar meus dados
     .accesskey = t
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Como usar a verificação ortográfica
     .message = Clique com o botão direito em um campo de texto para ativar ou desativar a verificação ortográfica, ou mudar o idioma. Nem todos os campos oferecem suporte a verificação ortográfica.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Arquivos e aplicativos
 download-save-files-header =

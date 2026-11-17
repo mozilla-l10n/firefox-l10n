@@ -325,9 +325,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Tokisäx Yakon Ewan Tzij
     .accesskey = z
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Tokisäx Ruk'oj rutaqoya'l { -relay-brand-short-name }
     .accesskey = t

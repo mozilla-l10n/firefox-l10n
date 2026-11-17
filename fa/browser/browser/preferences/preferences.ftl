@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = به وب‌سایت‌ها اطلاع داده شود که اطلاعات من را نفروشند یا به اشتراک نگذارند
     .accesskey = s
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = نحوهٔ استفاده از بررسی املا
     .message = روی یک فیلد متنی راست‌کلیک کنید تا بررسی املا را خاموش/روشن نمایید یا زبان آن را تغییر دهید. همهٔ فیلدها از بررسی املا پشتیبانی نمی‌کنند.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = فایل‌ها و برنامه‌ها
 download-save-files-header =

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Informuj witryny, że mają nie sprzedawać ani nie udostępniać moich danych.
     .accesskey = n
@@ -479,7 +482,7 @@ spellcheck-promo =
     .heading = Jak korzystać ze sprawdzania pisowni
     .message = Kliknij pole tekstowe prawym przyciskiem, aby włączyć lub wyłączyć sprawdzanie pisowni albo zmienić język. Nie wszystkie pola obsługują sprawdzanie pisowni.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Pliki i aplikacje
 download-save-files-header =

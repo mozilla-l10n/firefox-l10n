@@ -293,9 +293,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ប្រើពាក្យសម្ងាត់ដែលបានរក្សាទុក
     .accesskey = o
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = ណែនាំពាក្យសម្ងាត់ខ្លាំង...
     .accesskey = S

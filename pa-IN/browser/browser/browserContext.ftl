@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = ਕਿਸੇ ਸਫ਼�
 main-context-menu-use-saved-password =
     .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
     .accesskey = E

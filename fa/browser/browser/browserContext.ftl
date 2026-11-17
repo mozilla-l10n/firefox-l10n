@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = برای ارسال �
 main-context-menu-use-saved-password =
     .label = استفاده از گذرواژهٔ ذخیره‌شده
     .accesskey = گ
-
-##
-
 main-context-menu-use-relay-mask =
     .label = استفاده از ماسک ایمیل { -relay-brand-short-name }
     .accesskey = م

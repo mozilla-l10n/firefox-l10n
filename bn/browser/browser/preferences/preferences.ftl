@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -157,7 +160,7 @@ check-user-spelling =
     .label = টাইপ করার সময় বানান পরীক্ষা করা হবে
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = ফাইল ও অ্যাপ্লিকেশন
 download-save-files-header =

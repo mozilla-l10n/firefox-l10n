@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 managed-notice = Brauzeringiz tashkilotingiz tomonidan boshqariladi.
 managed-notice-nav =
     .label = Brauzeringiz tashkilotingiz tomonidan boshqariladi.
@@ -127,7 +130,7 @@ check-user-spelling =
     .label = Yozganimda imlo tekshirilsin
     .accesskey = Y
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fayl va ilovalar
 download-save-files-header =

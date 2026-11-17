@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = سیٹنگ
 category-nav-heading =
     .heading = سیٹنگ
@@ -128,7 +131,7 @@ check-user-spelling =
     .label = ٹائپ کرتے وقت اپنی املا کی پڑتال کریں
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = فلیں اور ایپلی کیشن
 download-save-files-header =

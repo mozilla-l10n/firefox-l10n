@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Connete unu dispositi
 main-context-menu-use-saved-password =
     .label = Imprea una crae sarvada
     .accesskey = I
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Imprea un'alias de posta eletrònica de { -relay-brand-short-name }
     .accesskey = I

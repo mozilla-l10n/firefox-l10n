@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = 웹 사이트에 내 정보 판매 또는 공유 금지 요청
     .accesskey = s
@@ -464,7 +467,7 @@ spellcheck-promo =
     .heading = 맞춤법 검사 사용법
     .message = 맞춤법 검사를 켜거나 끄거나 언어를 변경하려면 텍스트 필드를 마우스 오른쪽 버튼으로 누르세요. 모든 필드가 맞춤법 검사를 지원하는 것은 아닙니다.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = 파일 및 애플리케이션
 download-save-files-header =

@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Sambungkan Peranti un
 main-context-menu-use-saved-password =
     .label = Guna Kata Laluan Tersimpan
     .accesskey = G
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Guna Topeng E-mel { -relay-brand-short-name }
     .accesskey = T

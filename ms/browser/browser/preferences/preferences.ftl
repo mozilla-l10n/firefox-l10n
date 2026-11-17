@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Tetapan
 managed-notice = Pelayar anda dikendalikan oleh organisasi anda.
 category-list =
@@ -135,7 +138,7 @@ check-user-spelling =
     .label = Semak ejaan ketika anda menaip
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fail dan Aplikasi
 download-save-files-header =

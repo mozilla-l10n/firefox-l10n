@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = སྤྱི་ཡོངས
 pane-home-title = གཙོ་ངོས
 pane-search-title2 = འཚོལ་བཤེར
@@ -129,7 +132,7 @@ check-user-spelling =
     .label = ཁྱེད་ཀྱིས་འཇུག་པའི་སྐབས་སུ་དག་ཆ་ལྟ་ཞིབ་བྱེད་པ།
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = ཡིག་ཆ་དང་ཉེར་སྤྱོད
 download-save-files-header =

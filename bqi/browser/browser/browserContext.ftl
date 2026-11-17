@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = منپیز دسگا �
 main-context-menu-use-saved-password =
     .label = و کار گرؽڌن رزم زفت وابیڌه
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = و کار گرؽڌن ماسک ایمیل { -relay-brand-short-name }
     .accesskey = E

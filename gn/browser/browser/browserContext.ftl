@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Embojuaju mba’e’o
 main-context-menu-use-saved-password =
     .label = Eiporu ñe’ẽñemi ñongatupyre
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Eiporu { -relay-brand-short-name } Email Mask
     .accesskey = E

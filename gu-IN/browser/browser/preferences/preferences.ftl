@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = સામાન્ય
 pane-home-title = મુખ્ય
 pane-search-title2 = શોધ
@@ -129,7 +132,7 @@ check-user-spelling =
     .label = તમે લખો તે મુજબ તમારી જોડણી તપાસો
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = ફાઇલો અને એપ્લિકેશન્સ
 download-save-files-header =

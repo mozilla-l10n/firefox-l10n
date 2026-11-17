@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat o
 main-context-menu-use-saved-password =
     .label = Erabili gordetako pasahitza
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Erabili { -relay-brand-short-name } posta-maskara
     .accesskey = E

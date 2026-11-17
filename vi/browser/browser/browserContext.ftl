@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Kết nối với thi
 main-context-menu-use-saved-password =
     .label = Sử dụng mật khẩu đã lưu
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Sử dụng email ẩn danh { -relay-brand-short-name }
     .accesskey = E

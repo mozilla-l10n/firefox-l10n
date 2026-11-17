@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = सरासनस्रा
 pane-home-title = ह'म
 pane-search-title2 = नागिर
@@ -70,7 +73,7 @@ translate-exceptions =
     .label = Exceptions…
     .accesskey = x
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = फाइलफोर आरो एप्लिकेसन
 download-save-files-header =

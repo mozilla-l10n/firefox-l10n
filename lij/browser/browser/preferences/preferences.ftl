@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = Generale
 pane-home-title = Pagina prinçipâ
 pane-search-title2 = Çerca
@@ -129,7 +132,7 @@ check-user-spelling =
     .label = Contròlla l'òrtografia quande scrivo
     .accesskey = l
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Schedai e aplicaçioin
 download-save-files-header =

@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Za pošiljanje strani
 main-context-menu-use-saved-password =
     .label = Uporabi shranjeno geslo
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Uporabi e-poštno masko { -relay-brand-short-name }
     .accesskey = e

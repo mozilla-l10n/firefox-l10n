@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Esan webguneei nire datuak ez saltzeko edo partekatzeko
     .accesskey = s
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Nola erabili ortografiaren egiaztapena
     .message = Egin eskuin-klika testu-eremu batea ortografiaren egiaztapena gaitzeko edo desgaitzeko edota hizkuntza aldatzeko. Eremu guztiek ez dute ortografia egiaztatzea onartzen.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fitxategiak eta aplikazioak
 download-save-files-header =

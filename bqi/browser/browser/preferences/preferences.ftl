@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 non-technical-privacy-group =
     .label = سامووا هریم سیخومی وبگه
 # Do not translate.
@@ -278,7 +281,7 @@ check-user-spelling =
     .label = واجۊری املا هوم زمووݩ وا هؽل کردن
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = فایلا وو برنومه یل
 download-save-files-header =

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Spletnim mestom sporočaj, naj ne prodajajo ali delijo mojih podatkov
     .accesskey = n
@@ -482,7 +485,7 @@ spellcheck-promo =
     .heading = Kako uporabljati preverjanje črkovanja
     .message = Z desno miškino tipko kliknite na polje z besedilom, da vklopite ali izklopite preverjanje črkovanja ali da zamenjate jezik. Vsa besedilna polja ne podpirajo preverjanja črkovanja.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Datoteke in programi
 download-save-files-header =

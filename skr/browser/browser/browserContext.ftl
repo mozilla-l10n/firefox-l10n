@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = پیج بھیجݨ ک�
 main-context-menu-use-saved-password =
     .label = محفوظ پاس ورڈ استعمال کرو
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ای میل مسسک ورتو
     .accesskey = E

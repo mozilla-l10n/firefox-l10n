@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = เชื่อมต
 main-context-menu-use-saved-password =
     .label = ใช้รหัสผ่านที่บันทึกไว้
     .accesskey = ห
-
-##
-
 main-context-menu-use-relay-mask =
     .label = ใช้ตัวปกปิดอีเมลของ { -relay-brand-short-name }
     .accesskey = อ

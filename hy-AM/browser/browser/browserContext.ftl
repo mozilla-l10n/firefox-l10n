@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Միացրեք սար
 main-context-menu-use-saved-password =
     .label = Օգտվել պահված գաղտնաբառից
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Օգտագործել { -relay-brand-short-name } Էլ․ փոստի դիմակը
     .accesskey = Է

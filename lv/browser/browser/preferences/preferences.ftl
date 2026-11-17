@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Teikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
     .accesskey = s
@@ -479,7 +482,7 @@ spellcheck-promo =
     .heading = Kā lietot pareizrakstības pārbaudi
     .message = Ar peles labo pogu noklikšķiniet uz teksta lauka, lai ieslēgtu vai izslēgtu pareizrakstības pārbaudi vai mainītu valodu. Ne visi lauki atbalsta pareizrakstības pārbaudi.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Datnes un lietotnes
 download-save-files-header =

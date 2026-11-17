@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Zwěžćo rěd, aby b
 main-context-menu-use-saved-password =
     .label = Skłaźone gronidło wužywaś
     .accesskey = r
-
-##
-
 main-context-menu-use-relay-mask =
     .label = E-mailowu masku { -relay-brand-short-name } wužywaś
     .accesskey = E

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Megmondás a webhelyeknek, hogy ne adják el vagy osszák meg az adatait
     .accesskey = M
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = A helyesírás-ellenőrzés használata
     .message = Kattintson jobb gombbal egy szövegmezőre a be- és kikapcsoláshoz vagy nyelvváltáshoz. Nem minden mező támogatja a helyesírás-ellenőrzést.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fájlok és alkalmazások
 download-save-files-header =

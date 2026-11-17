@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = সাধাৰণ
 pane-search-title2 = সন্ধান কৰক
     .title = সন্ধান কৰক
@@ -41,7 +44,7 @@ translate-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = x
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 download-save-files-header =
     .label = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব

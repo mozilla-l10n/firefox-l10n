@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Indicar als sites web de vendre pas nimai partejar mas donadas
     .accesskey = s
@@ -248,7 +251,7 @@ check-user-spelling =
     .label = Verificar l'ortografia en picant
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fichièrs e aplicacions
 download-save-files-header =

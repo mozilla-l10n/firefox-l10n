@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = பொது
 pane-home-title = முகப்பு
 pane-search-title2 = தேடு
@@ -123,7 +126,7 @@ check-user-spelling =
     .label = நான் தட்டச்சு செய்யும் போதே எழுத்துப்பிழையைச் சரிபார்
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = கோப்புகள் மற்றும் செயலிகள்
 download-save-files-header =

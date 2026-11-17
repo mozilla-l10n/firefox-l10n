@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Axustes
 category-nav-heading =
     .heading = Axustes
@@ -168,7 +171,7 @@ check-user-spelling =
     .label = Comprobar la ortografía mentanto treclexes
     .accesskey = R
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Ficheros y aplicaciones
 download-save-files-header =

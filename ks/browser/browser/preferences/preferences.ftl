@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = عام
 pane-search-title2 = ژھآنڈیو
     .title = ژھآنڈیو
@@ -36,7 +39,7 @@ translate-exceptions =
     .label = غٲر مومول
     .accesskey = x
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 download-save-files-header =
     .label = فایل كریو محفوظ

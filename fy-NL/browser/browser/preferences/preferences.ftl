@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Fertel websites dat se myn gegevens net ferkeapje of diele meie
     .accesskey = s
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Staveringshifker brûke
     .message = Klik mei jo rjochtermûsknop op in tekstfjild om staveringshifkjen yn of út te skeakeljen of om de taal te wizigjen. Net alle fjilden stypje staveringshifkjen.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Bestannen en Tapassingen
 download-save-files-header =

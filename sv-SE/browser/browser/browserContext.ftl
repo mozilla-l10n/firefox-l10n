@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Anslut en enhet för 
 main-context-menu-use-saved-password =
     .label = Använd sparat lösenord
     .accesskey = A
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Använd { -relay-brand-short-name } e-postalias
     .accesskey = A

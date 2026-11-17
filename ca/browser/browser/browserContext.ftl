@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Connecteu un disposit
 main-context-menu-use-saved-password =
     .label = Utilitza una contrasenya desada
     .accesskey = U
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilitza una màscara d'adreça electrònica del { -relay-brand-short-name }
     .accesskey = U

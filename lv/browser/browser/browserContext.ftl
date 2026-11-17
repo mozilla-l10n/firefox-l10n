@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Pievienojiet ierīci,
 main-context-menu-use-saved-password =
     .label = Izmantot saglabāto paroli
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Izmantot { -relay-brand-short-name } e-pasta aizsegu
     .accesskey = e

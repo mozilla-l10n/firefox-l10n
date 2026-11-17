@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Pro odeslání strán
 main-context-menu-use-saved-password =
     .label = Použít uložené heslo
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Použít e-mailovou masku { -relay-brand-short-name }
     .accesskey = e

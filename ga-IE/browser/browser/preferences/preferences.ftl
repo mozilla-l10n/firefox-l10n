@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Socruithe
 category-nav-heading =
     .heading = Socruithe
@@ -122,7 +125,7 @@ check-user-spelling =
     .label = Seiceáil litriú le linn clóscríofa
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Comhaid agus Feidhmchláir
 download-save-files-header =

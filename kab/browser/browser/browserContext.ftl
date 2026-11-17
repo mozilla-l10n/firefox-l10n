@@ -331,9 +331,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Seqdec awal uffir yettwaskelsen
     .accesskey = a
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Seqdec agelmus n yimayl { -relay-brand-short-name }
     .accesskey = I

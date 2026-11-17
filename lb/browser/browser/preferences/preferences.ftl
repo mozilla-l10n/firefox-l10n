@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = Allgemeng
 pane-home-title = Accueil
 pane-search-title2 = Sichen
@@ -90,7 +93,7 @@ check-user-spelling =
     .label = Deng Orthographie iwwer dem Tippen nokucken
     .accesskey = O
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Fichieren an Applikatiounen
 download-save-files-header =

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = Golvonī
 pane-home-title = Sōkums
 pane-search-title2 = Mekleit
@@ -125,7 +128,7 @@ check-user-spelling =
     .label = Rokstūt puorbaudeit pareizraksteibu
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Faili i programys
 download-save-files-header =

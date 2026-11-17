@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Pyydä verkkosivustoja olemaan myymättä tai jakamatta tietojani
     .accesskey = s
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Oikeinkirjoituksen tarkistuksen käyttö
     .message = Napsauta hiiren oikealla painikkeella tekstikenttää tarkistaaksesi oikeinkirjoituksen tai poistaaksesi sen käytöstä, tai vaihtaaksesi kieltä. Kaikki kentät eivät tue oikeinkirjoituksen tarkistusta.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Tiedostot ja ohjelmat
 download-save-files-header =

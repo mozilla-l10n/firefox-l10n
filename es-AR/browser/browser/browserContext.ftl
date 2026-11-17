@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conectar un dispositi
 main-context-menu-use-saved-password =
     .label = Usar contraseña guardada
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Usar alias de correo electrónico de { -relay-brand-short-name }
     .accesskey = e

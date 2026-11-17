@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Бетті жібер
 main-context-menu-use-saved-password =
     .label = Сақталған парольді қолдану
     .accesskey = о
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } эл. пошта маскасын қолдану
     .accesskey = о

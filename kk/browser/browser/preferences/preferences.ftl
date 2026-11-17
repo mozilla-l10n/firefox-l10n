@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Веб-сайттарға менің деректерімді сатпауды немесе олармен бөліспеуді айту
     .accesskey = с
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Емлені тексеруді қалай пайдалануға болады
     .message = Емле тексеруді іске қосу немесе сөндіру, немесе тілді өзгерту үшін мәтіндік өрісті оң жақ батырмамен шертіңіз. Емлені тексеру мүмкіндігіне барлық өрістер бірдей қолдау көрсетпейді.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Файлдар және қолданбалар
 download-save-files-header =

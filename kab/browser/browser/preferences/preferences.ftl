@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Ssuter i yismal web ur snuzuyen, ur beṭṭun isefka-w
     .accesskey = s
@@ -267,7 +270,7 @@ check-user-spelling =
     .label = Senqed tira-iw ticki ttaruɣ
     .accesskey = q
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Ifuyla d isnasen
 download-save-files-header =

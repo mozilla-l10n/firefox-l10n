@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = 告訴網站不要銷售或分享我的資料
     .accesskey = s
@@ -464,7 +467,7 @@ spellcheck-promo =
     .heading = 如何進行拼字檢查
     .message = 對文字欄位按右鍵，即可開關拼字檢查功能或更改語言。不是所有輸入欄位都支援拼字檢查。
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = 檔案與應用程式
 download-save-files-header =

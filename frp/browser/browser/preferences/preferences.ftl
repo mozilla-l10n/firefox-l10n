@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 pane-general-title = G·ènèrâl
 pane-home-title = Reçua
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -19,7 +22,7 @@ always-check-default =
     .label = Tojòrn vèrifiar que { -brand-short-name } est lo navìgatòr prèsèlèccionâ
     .accesskey = T
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 applications-always-ask =
     .label = Tojòrn demandar

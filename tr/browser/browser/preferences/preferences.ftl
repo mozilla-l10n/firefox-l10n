@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Web sitelerine verilerimi satmamalarını ve paylaşmamalarını söyle
     .accesskey = W
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Yazım denetimi nasıl kullanılır?
     .message = Yazım denetimini açıp kapatmak veya dil değiştirmek için metin alanlarına sağ tıklayın. Bazı alanlar yazım denetimini desteklemeyebilir.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Dosyalar ve uygulamalar
 download-save-files-header =

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 settings-page-title = Settins
 category-nav-heading =
     .heading = Settins
@@ -172,7 +175,7 @@ check-user-spelling =
     .label = Check yer spellin as ye type
     .accesskey = t
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Files and Applications
 download-save-files-header =

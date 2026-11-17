@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tengdu tæki til að 
 main-context-menu-use-saved-password =
     .label = Nota vistað lykilorð
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Notaðu { -relay-brand-short-name } tölvupósthulu
     .accesskey = o

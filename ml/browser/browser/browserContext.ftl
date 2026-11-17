@@ -340,9 +340,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = താൾ അയയ്�
 main-context-menu-use-saved-password =
     .label = കരുതിവച്ച ഒളിവാക്കിനെ ഉപയോഗിക്കുക
     .accesskey = ഉ
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
     .accesskey = ഉ

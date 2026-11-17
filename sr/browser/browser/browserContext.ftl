@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Повежите ур
 main-context-menu-use-saved-password =
     .label = Користи сачувану лозинку
     .accesskey = К
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Користи { -relay-brand-short-name } маскирање е-поште
     .accesskey = е

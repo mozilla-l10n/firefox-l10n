@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Websites vertellen mijn gegevens niet te verkopen of te delen
     .accesskey = s
@@ -476,7 +479,7 @@ spellcheck-promo =
     .heading = Spellingscontrole gebruiken
     .message = Klik met uw rechtermuisknop op een tekstveld om spellingscontrole in of uit te schakelen of om de taal te wijzigen. Niet alle velden ondersteunen spellingscontrole.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Bestanden en Toepassingen
 download-save-files-header =

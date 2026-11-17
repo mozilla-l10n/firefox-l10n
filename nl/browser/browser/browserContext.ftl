@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Verbind een apparaat 
 main-context-menu-use-saved-password =
     .label = Opgeslagen wachtwoord gebruiken
     .accesskey = O
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-e-mailmasker gebruiken
     .accesskey = m

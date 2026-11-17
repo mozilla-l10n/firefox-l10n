@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Downloads - Files and applications
+
 global-privacy-control-description =
     .label = Nara a is sitos web de non bèndere nen cumpartzire is datos mios
     .accesskey = N
@@ -455,7 +458,7 @@ spellcheck-promo =
     .heading = Comente s’impreat su controllu ortogràficu
     .message = Incarca cun su butone deretu unu campu de testu pro ativare o disativare sa curretzione ortogràfica. Non totu is campos sunt cumpatìbiles cun sa curretzione ortogràfica.
 
-## General Section - Files and Applications
+## Downloads - Files and applications
 
 files-and-applications-title = Archìvios e aplicatziones
 download-save-files-header =
