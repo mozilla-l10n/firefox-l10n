@@ -345,6 +345,9 @@ main-context-menu-send-to-mobile-2 =
 main-context-menu-use-saved-password =
     .label = Utilisar il pled-clav memorisà
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Utilisar in alias dad e-mail da { -relay-brand-short-name }
     .accesskey = e
@@ -429,6 +432,18 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nov
+main-context-menu-pdfjs-copy-page2 =
+    .label = Copiar la pagina
+    .accesskey = C
+main-context-menu-pdfjs-cut-page2 =
+    .label = Tagliar ora la pagina
+    .accesskey = T
+main-context-menu-pdfjs-delete-page2 =
+    .label = Stizzar la pagina
+    .accesskey = S
+main-context-menu-pdfjs-save-page2 =
+    .label = Memorisar la selecziun sco…
+    .accesskey = M
 main-context-menu-pdfjs-copy-page =
     .label = Copiar la pagina
 main-context-menu-pdfjs-cut-page =
