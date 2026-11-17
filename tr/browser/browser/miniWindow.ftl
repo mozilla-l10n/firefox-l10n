@@ -72,5 +72,9 @@ mini-window-overlay-instructions = Mini pencereye taşımak istediğiniz alanı 
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Mini pencereye taşınacak içeriği seçin
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Sayfanın bir kısmı
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Sayfanın tamamı
 mini-window-panel-move-selection = Seçimi taşı
 mini-window-panel-move-full-tab = Sekmenin tamamını taşı
