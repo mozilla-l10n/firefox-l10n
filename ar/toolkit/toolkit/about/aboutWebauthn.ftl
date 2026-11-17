@@ -40,6 +40,12 @@ about-webauthn-confirm-deletion-label = أنت على وشك حذف:
 about-webauthn-cancel-button = ألغِ
 about-webauthn-send-pin-button = حسنًا
 about-webauthn-delete-button = احذف
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = ابدأ
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = أوقف
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = امحُ
 about-webauthn-start-enrollment-button = بدء التسجيل
 about-webauthn-update-button = حدّث
 
