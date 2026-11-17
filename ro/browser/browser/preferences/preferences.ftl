@@ -363,6 +363,8 @@ website-language-heading =
     .label = Limbă site web
 website-preferred-language =
     .label = Limbi preferate
+website-language-list =
+    .aria-label = Limbi preferate
 website-add-language =
     .label = Adaugă o limbă
 website-add-language-button =
@@ -651,6 +653,14 @@ support-get-help =
 support-share-ideas =
     .label = Împărtășește idei și feedbackuri
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Obții ghiduri, recomandări și știri despre cum să faci experiența pe { -brand-product-name } să funcționeze perfect pentru tine.
+    .label = Buletin de știri { -brand-product-name }
+newsletter-sign-up-link =
+    .label = Fă-ți un cont
+
 ## General Section - Performance
 
 performance-settings-learn-more = Află mai multe
@@ -819,6 +829,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresă(e) site web
+home-custom-homepage-list =
+    .aria-label = Adrese site-uri web
 home-custom-homepage-address =
     .placeholder = Introdu adresa
 home-custom-homepage-address-button =
@@ -951,6 +963,8 @@ search-one-click-desc = Alege motoarele de căutare alternative care apar sub ba
 search-one-click-header-3 =
     .description = Alege ce motoare de căutare și comenzi rapide să apară în bara de adrese.
     .label = Motoare de căutare suplimentare
+search-engine-list =
+    .aria-label = Motoare de căutare și comenzi rapide
 update-search-engine-success =
     .message = Motorul de căutare a fost actualizat cu succes
 search-edit-engine-2 =
@@ -1014,6 +1028,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Adaugă un container nou
     .accesskey = A
+containers-list =
+    .aria-label = Containere
 containers-new-tab-check3 =
     .label = Selectează un container pentru fiecare filă nouă
     .accesskey = S

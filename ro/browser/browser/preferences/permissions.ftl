@@ -142,6 +142,12 @@ permissions-site-notification-desc = Următoarele site-uri web au solicitat să 
 permissions-site-notification-disable-label =
     .label = Blochează noile solicitări de permitere a notificărilor
 permissions-site-notification-disable-desc = Acest lucru va împiedica orice site web care nu este listat mai sus să ceară permisiunea de a trimite notificări. Blocarea notificărilor ar putea interfera cu unele funcții ale site-urilor web.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Permite notificări de la site-uri când { -brand-short-name } este închis
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Se aplică și setările pentru notificări din sistemul de operare.
 
 ## Site Permissions - Location
 

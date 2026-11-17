@@ -570,6 +570,18 @@ newtab-solitaire-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Află mai multe
 
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Meciuri
+newtab-widget-wrexhamafc-view-table = Clasament
+newtab-widget-wrexhamafc-view-fixtures = Calendar meciuri
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Imagini de fundal
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -786,6 +798,9 @@ newtab-discovery-empty-section-topstories-header = Ești prins!
 newtab-discovery-empty-section-topstories-content = Revino mai târziu pentru mai multe articole.
 newtab-discovery-empty-section-topstories-try-again-button = Încearcă din nou
 newtab-discovery-empty-section-topstories-loading = Se încarcă…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Articolele nu sunt disponibile în acest moment
+newtab-discovery-empty-section-topstories-unavailable-body = Verifică-ți conexiunea sau încearcă din nou mai târziu.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ups! Aproape că am încărcat această secțiune, dar nu complet.
 
@@ -1084,6 +1099,10 @@ newtab-wallpaper-firefox-peak-dark = Chipul unei vulpi în marginea stângă, pe
 newtab-wallpaper-firefox-peak-light = Chipul unei vulpi în marginea stângă, pe un fundal luminos
 newtab-wallpaper-firefox-sky-dark = Dealuri violet închis sub un cer nocturn
 newtab-wallpaper-firefox-sky-light = Dealuri luminoase sub un cer senin
+# “Wrexham AFC” is the name of a football club. Use the name the club is known
+# by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Stema Wrexham AFC pe fundal roșu
 
 ## Firefox
 
@@ -1324,6 +1343,12 @@ newtab-report-ads-reason-inappropriate =
     .label = E necuviincios
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = L-am văzut de prea multe ori
+newtab-report-ads-reason-scam =
+    .label = Escrocherie sau fraudă
+newtab-report-ads-reason-misleading =
+    .label = Afirmații înșelătoare sau false
+newtab-report-ads-reason-offensive =
+    .label = Jignitor sau nepotrivit
 newtab-report-content-wrong-category =
     .label = Categorie greșită
 newtab-report-content-outdated =
@@ -1430,6 +1455,12 @@ newtab-widget-menu-move-left = Stânga
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Dreapta
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Acasă
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgeturi
 newtab-widget-size-small = Mic
 newtab-widget-size-medium = Mediu
 newtab-widget-size-large = Mare
@@ -1466,6 +1497,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Afișează mai puține widgeturi
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget indisponibil. Încearcă din nou mai târziu.
 newtab-widget-lists-name-default = Listă de verificare
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1524,6 +1559,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Deschide meniul de rebus
     .title = Deschide meniul de rebus
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Susținut de Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1849,6 +1887,22 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Caută un oraș
     .placeholder = Caută un oraș
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Denumire personalizată (opțional)
+    .description =
+        { $count ->
+            [one] A mai rămas { $count } caracter
+            [few] Au mai rămas { $count } caractere
+           *[other] Au mai rămas { $count } de caractere
+        }
+    .label = Denumire personalizată (opțional)
+    .placeholder = Adaugă o denumire personalizată
 newtab-clock-widget-search-location-input =
     .aria-label = Caută un oraș
     .label = Locație

@@ -18,6 +18,13 @@ about-processes-shutdown-tab =
     .title = Închide fila
 about-processes-unload-tab =
     .title = Descărcă fila din memorie
+# A site is the set of open tabs on one domain, e.g. example.com and its
+# subdomains.
+about-processes-expand-site =
+    .title = Extinde filele acestui site
+# See about-processes-expand-site for what a site is.
+about-processes-collapse-site =
+    .title = Restrânge filele acestui site
 about-processes-go-to-tab =
     .title = Mergi la filă
 # Profiler icons

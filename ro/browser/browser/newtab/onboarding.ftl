@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Redeschizi oricând grupurile de
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Redeschide grupurile de file în orice moment din meniul Listează toate filele.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Grupurile de file sunt salvate automat. Le găsești aici.
 
 ## Multi Profiles feature onboarding messages
 
@@ -562,10 +564,14 @@ onboarding-refresh-terms-of-use-with-links = Prin continuare, ești de acord cu 
 onboarding-refresh-data-collection-link = Gestionează setările de colectare a datelor
 onboarding-refresh-primary-button = Continuă
 onboarding-refresh-fro-import-header = Ia-ți datele cu tine
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Rămân ale tale. { -brand-product-name } nu vinde niciodată date cu caracter personal.
 onboarding-refresh-fro-import-body = Datele tale cu caracter personal rămân personale. { -brand-product-name } nu le va vinde niciodată.
 onboarding-refresh-fro-skip-button = Omite
 onboarding-refresh-fro-theme-header = Joacă-te cu aspectul tău
 onboarding-refresh-tab-layout-header = Încearcă o altă dispunere a filelor
+onboarding-refresh-fro-tab-layout-title = Alege o nouă dispunere a filelor
 onboarding-refresh-tab-layout-top = În partea de sus
 onboarding-refresh-tab-layout-side = În lateral
 onboarding-refresh-tab-layout-minimal = Minimal
@@ -634,3 +640,33 @@ welcome-back-onboarding-card-label-tabs = Fă ordine cu file și grupuri vertica
 welcome-back-onboarding-card-label-vpn = Stai ascuns(ă) cu VPN-ul încorporat
 welcome-back-onboarding-card-label-pdf = Evidențiezi, semnezi și lucrezi în PDF
 welcome-back-onboarding-card-tilebutton-label = Încearcă
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configurează { -brand-short-name } în câteva secunde
+hnt-card-import-body = Importă-ți marcajele, parolele și multe altele dintr-un alt browser.
+hnt-card-import-primary-button = Importă-ți datele
+hnt-card-default-body = { -brand-product-name } este singurul browser major făcut să te protejeze, nu să te urmărească.
+hnt-card-default-primary-button = Deschide linkurile cu { -brand-short-name }
+hnt-card-pin-header = Ține { -brand-short-name } la un clic distanță
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Treci înapoi la navigarea protejată din doc.
+       *[other] Treci înapoi la navigarea protejată din bara de sarcini.
+    }
+hnt-card-mobile-header = Obține protecție încorporată pe telefon
+hnt-card-mobile-body = Descarcă { -brand-product-name } pentru dispozitive mobile pentru un plus de confidențialitate în mers.
+hnt-card-mobile-primary-button = Obține { -brand-product-name } pentru dispozitive mobile.
+hnt-card-wallpaper-header = Alege o imagine de fundal nouă
+hnt-card-wallpaper-body = Personalizează acest ecran cu o imagine de fundal care îți place foarte mult.
+hnt-card-wallpaper-primary-button = Începe personalizarea
+hnt-card-taskbar-tabs-header = Adaugă-ți site-urile preferate în bara de sarcini Windows
+hnt-card-taskbar-tabs-body = Deschizi site-urile pe care intri cel mai des, cum ar fi o aplicație, cu toate protecțiile { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Adaugă site-uri în bara de sarcini
+hnt-card-extensions-header = Îmbunătățește { -brand-short-name } cu extensii
+hnt-card-extensions-body = Personalizează navigarea cu extensiile care îți plac cel mai mult.
+hnt-card-extensions-primary-button = Explorează
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Gata. Îți poți vedea de treabă.
+hnt-card-last-card-header-end = Protecția împotriva urmăririi este activată.

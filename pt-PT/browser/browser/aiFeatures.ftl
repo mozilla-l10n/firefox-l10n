@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Escolha um modelo baseado no que é importante para si.
     .label = Modelo de assistente
+smart-window-model-section-v2 =
+    .description = Os modelos são o que potenciam as conversas e as ações.
+    .label = Modelo
 smart-window-model-radio-group =
     .aria-label = Modelo de assistente
 smart-window-model-learn-link = Saber mais sobre modelos
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } escolhe o melhor modelo para a sua tarefa
+    .label = Modelo automático
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -68,6 +74,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Detalhes do modelo guardados. Comece um novo chat para testar.
 ai-window-memories-section =
     .description = O { -brand-short-name } pode aprender com a sua atividade para criar memórias. São utilizadas para ajudar a personalizar as respostas e são guardadas localmente neste dispositivo.
+    .label = Memórias
+ai-window-memories-section-v2 =
+    .description = { -brand-short-name } pode aprender com a sua atividade para criar memórias. São utilizadas para ajudar a adaptar a sua experiência e são guardados localmente no seu dispositivo.
     .label = Memórias
 ai-window-learn-from-chat-activity =
     .label = Aprender com as conversas do { -smart-window-brand-name }
