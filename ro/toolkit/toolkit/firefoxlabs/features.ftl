@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Notele despre file sunt o funcțio
 experimental-features-tab-context-menu =
     .label = Meniu pentru file simplificat
 experimental-features-tab-context-menu-description = Vezi un meniu contextual mai simplu când dai clic dreapta pe o filă. Este conceput pentru a facilita găsirea acțiunilor comune. <a data-l10n-name="connect">Trimite feedback</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Monitor de resurse
+experimental-features-resource-monitor-description = Vezi estimări de utilizare CPU și a memoriei pentru filele deschise chiar în bara laterală și descarci filele pe care nu le folosești pentru eliberarea resurselor. <a data-l10n-name="connect">Dă-ne feedback</a>

@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gestionarea PIN-urilor
 about-webauthn-credential-management-section-title = Gestionează datele de autentificare
 about-webauthn-pin-required-section-title = Necesită PIN
 about-webauthn-confirm-deletion-section-title = Confirmă ștergerea
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Înregistrare în jurnal
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Înscrieri biometrice
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Nu se pot gestiona opțiunile deoarece je
 about-webauthn-text-not-available = Nu este disponibil pe această platformă.
 about-webauthn-bio-enrollment-list-subsection-title = Înscrieri:
 about-webauthn-add-bio-enrollment-section-title = Adaugă o nouă înscriere
+about-webauthn-logging-warning = Jurnalul poate conține informații cu caracter personal, cum ar fi denumiri de utilizator, identificatoare de conturi și adrese de site-uri web. Verifică-le înainte de a partaja.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Înregistrează în jurnal numai cereri către implementarea CTAP nativă din { -brand-short-name }. Nu înregistrează cereri către API-urile platformei WebAuthn sau extensiile de browser.
 
 ## Results label
 
@@ -76,6 +81,12 @@ about-webauthn-add-bio-enrollment-button = Adaugă înscriere
 about-webauthn-cancel-button = Anulează
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Șterge
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Start
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stop
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Șterge
 about-webauthn-start-enrollment-button = Începe înscrierea
 about-webauthn-update-button = Actualizează
 

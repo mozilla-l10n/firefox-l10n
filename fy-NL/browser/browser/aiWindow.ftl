@@ -389,3 +389,19 @@ smartwindow-onboarding-welcome-subtitle =
     It wurket mei jo gear om dingen dien te krijen.
     Plan, fergelykje, ferken en mear.
 smartwindow-onboarding-title = Litte wy it fan jo meitsje
+smartwindow-onboarding-subtitle = Stel { -smart-window-brand-name } yn sa as jo dat wolle. Meitsje op elk momint wizigingen yn ynstellingen.
+smartwindow-onboarding-model-label = Kies jo AI-model
+smartwindow-onboarding-model-description = It model makket chats en aksjes yn { -smart-window-brand-name } mooglik.
+smartwindow-onboarding-model-auto = Automatysk
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Oanrekommandearre
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } kiest it bêste model foar jo taak
+smartwindow-onboarding-model-mistral-description = Goed as jo yn meardere talen chatte en sneupe
+smartwindow-onboarding-model-gemini-description = Flugge antwurden as jo fluch foarút wolle
+smartwindow-onboarding-memories-label = Kies hoe’t { -smart-window-brand-name } jo leart kennen
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } kin leare fan jo chats, navigaasje, of beide, om oantinkens te meitsjen. Se meitsje antwurden yn de rin fan de tiid nuttiger.
+smartwindow-onboarding-memories-both = Chats en navigaasje
+smartwindow-onboarding-memories-browsing = Allinnich navigaasje
+smartwindow-onboarding-memories-chats = Allinnich chats
+smartwindow-onboarding-memories-none = Net leare fan aktiviteit
+smartwindow-onboarding-memories-both-description = Chats yn { -smart-window-brand-name }, navigaasje yn { -brand-short-name }
