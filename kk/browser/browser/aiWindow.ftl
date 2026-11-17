@@ -381,3 +381,10 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } елемеу
     .title = { $text } елемеу
+
+## Single-page onboarding
+
+smartwindow-onboarding-model-auto = Автоматты түрде
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Ұсынылатын
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } сіздің тапсырмаңыз үшін ең жақсы модельді таңдайды

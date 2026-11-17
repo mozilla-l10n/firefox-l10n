@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Кіраванне PIN-кодамі
 about-webauthn-credential-management-section-title = Кіраванне ўліковымі дадзенымі
 about-webauthn-pin-required-section-title = Патрэбен PIN-код
 about-webauthn-confirm-deletion-section-title = Пацвердзіць выдаленне
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Журналы
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Біяметрычныя рэгістрацыі
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Немагчыма кіраваць па�
 about-webauthn-text-not-available = Недаступна на гэтай платформе.
 about-webauthn-bio-enrollment-list-subsection-title = Рэгістрацыі:
 about-webauthn-add-bio-enrollment-section-title = Дадаць новую рэгістрацыю
+about-webauthn-logging-warning = Журнал можа ўтрымліваць асабістую інфармацыю, такую як імёны карыстальнікаў, ідэнтыфікатары ўліковых запісаў і адрасы вэб-сайтаў. Праверце яго перад тым, як дзяліцца ім.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Рэгіструюцца толькі запыты да апаратна-спецыфічнай рэалізацыі CTAP у { -brand-short-name }. Запыты да інтэрфейсаў платформы WebAuthn або пашырэнняў браўзера не рэгіструюцца.
 
 ## Results label
 
@@ -76,6 +81,12 @@ about-webauthn-add-bio-enrollment-button = Дадаць рэгістрацыю
 about-webauthn-cancel-button = Скасаваць
 about-webauthn-send-pin-button = Добра
 about-webauthn-delete-button = Выдаліць
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Пачаць
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Спыніць
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Ачысціць
 about-webauthn-start-enrollment-button = Пачаць рэгістрацыю
 about-webauthn-update-button = Абнавіць
 
