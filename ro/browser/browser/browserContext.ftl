@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conectează un dispoz
 main-context-menu-use-saved-password =
     .label = Folosește parola salvată
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Folosește masca de e-mail { -relay-brand-short-name }
     .accesskey = E
@@ -448,6 +451,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Nou
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Copiază pagina
+    .accesskey = C
+main-context-menu-pdfjs-cut-page2 =
+    .label = Decupează pagina
+    .accesskey = D
+main-context-menu-pdfjs-delete-page2 =
+    .label = Șterge pagina
+    .accesskey = Ș
+main-context-menu-pdfjs-save-page2 =
+    .label = Salvează selecția ca…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Copiază pagina
 main-context-menu-pdfjs-cut-page =
