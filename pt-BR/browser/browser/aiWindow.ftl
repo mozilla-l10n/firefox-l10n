@@ -384,7 +384,14 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+smartwindow-onboarding-title = Vamos deixar do seu jeito
+smartwindow-onboarding-subtitle = Configure { -smart-window-brand-name } como preferir. Altere quando quiser nas configurações.
+smartwindow-onboarding-model-label = Escolha seu modelo de inteligência artificial
+smartwindow-onboarding-model-description = O modelo faz funcionar conversas e ações em { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Automático
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Recomendado
 smartwindow-onboarding-model-auto-description = O { -smart-window-brand-name } escolhe o melhor modelo para cada tarefa
+smartwindow-onboarding-model-mistral-description = Bom se você conversar e navegar em vários idiomas
+smartwindow-onboarding-model-gemini-description = Respostas rápidas quando você quer agilidade
+smartwindow-onboarding-memories-label = Escolha como { -smart-window-brand-name } deve aprender sobre você
