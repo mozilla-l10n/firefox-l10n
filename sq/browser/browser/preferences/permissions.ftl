@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .title = Përjashtime - “Cookies” dhe të Dhëna Sajtesh
 permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet përherë ose kurrë të përdorin “cookies” dhe të dhëna sajtesh. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni Bllokoje, Lejoje për Sesion, ose Lejoje.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = Përjashtim - Spastroje Historikun gjatë Fikjes
+permissions-exceptions-shutdown-clearing-desc = Mund të specifikoni cilët sajte do të mbajnë të dhënat e tyre, kur { -brand-short-name }-i spastron historikun gjatë mbylljesh. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni mbi “Lejoje”.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -135,6 +142,12 @@ permissions-site-notification-desc = Sajtet vijues kanë kërkuar t’ju dërgoj
 permissions-site-notification-disable-label =
     .label = Blloko kërkesa të reja për lejim njoftimesh
 permissions-site-notification-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje për të dërguar njoftime. Bllokimi i njoftimeve mund të prishë punimin e ndonjë veçorie të sajtit.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Lejo njoftime  sajti, kur { -brand-short-name }-i është i mbyllur
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Zbatohen edhe rregullime njoftimesh të OS-it tuaj.
 
 ## Site Permissions - Location
 

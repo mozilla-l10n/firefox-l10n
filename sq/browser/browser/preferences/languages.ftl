@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Gjuhë të instaluara
 browser-languages-available-label = Gjuhë të gatshme
 browser-languages-error = { -brand-short-name } nuk mund të përditësojë gjuhët tuaja tani. Kontrolloni se jeni të lidhur në internet ose riprovoni.
+browser-languages-update-error =
+    .message = { -brand-short-name }-i s’munde të përditësojë gjuhën tuaj këtë çast. Kontrolloni se keni i lidhur në internet, ose riprovoni.
