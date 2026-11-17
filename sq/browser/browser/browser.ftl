@@ -1400,6 +1400,9 @@ private-browsing-info-panel-description = Kjo ndihmon të mbahet shfletimi juaj 
 content-analysis-indicator-tooltip =
     .tooltiptext = Parandalim humbjeje të dhënash (DLP) nga { $agentName }. Klikoni për më tepër hollësi.
 content-analysis-panel-title2 = Parandalim humbjesh të dhënash
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Enti juaj përdor <b>{ $agentName }</b> që të kontrollojë se si mund të ndahen me të tjerë të dhëna me spec. <a data-l10n-name="info">Mësoni më tepër</a>
 content-analysis-panel-title = Mbrojtje të dhënash
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1438,17 +1441,32 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-panel-heading2 = Të spastrohen të dhënat dhe të niset sesion i ri privat?
+reset-pbm-panel-description3 = Kjo spastron historikun dhe cookie-t tuaj dhe bën daljen tuaj nga llogari nëpër sajte. Dritarja juaj Private do të mbyllet dhe do të hapet një nga e para.
+reset-pbm-panel-description2 = Kjo fshin historikun, cookie-t dhe krejt të dhëna të tjera sajtesh, pa mbyllur Dritaren tuaj Private.
 reset-pbm-panel-always-ask-checkbox =
     .label = Pyetmë përherë
     .accesskey = P
 reset-pbm-panel-cancel-button =
     .label = Anuloje
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Spastro sesion privat
+    .accesskey = S
 reset-pbm-panel-complete = Të dhënat e sesionit privat u fshinë
+reset-pbm-toolbar-button2 =
+    .label = Spastro sesion privat
+    .tooltiptext = Spastroni sesion privat
 
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Fshini ca, ose krejt të dhënat tuaja të shfletimit
+    .tooltiptext = Fshini ca, ose krejt të dhënat tuaja të shfletimit
+fire-button-panel-heading = Të fshihen krejt të dhënat e shfletimit?
+fire-button-panel-description = Kjo sjell fshirjen e historikut, cookie-ve dhe të dhënave të sajteve. Do të bëhet dalja juaj nga llogari nëpër sajte. Kjo dritare do të mbyllet dhe { -brand-short-name }-i do të hapë një të re.
+fire-button-panel-choose-description = Nëse s’doni të fshihet gjithçka, zgjidhni të dhëna specifike atëherë.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.
@@ -1460,6 +1478,9 @@ fire-button-panel-confirm-button =
     .label = Fshiji krejt
     .accesskey = F
 fire-button-panel-complete = Të dhënat e shfletimit u fshinë
+fire-button-toolbar-button2 =
+    .label = Fshini ca, ose krejt të dhëna
+    .tooltiptext = Fshini ca, ose krejt të dhënat tuaja të shfletimit
 
 ## Autorefresh blocker
 
