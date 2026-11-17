@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Pripojiť zariadenie 
 main-context-menu-use-saved-password =
     .label = Použiť uložené heslo
     .accesskey = h
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Použiť e‑mailovú masku služby { -relay-brand-short-name }
     .accesskey = R
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Novinka
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Kopírovať stranu
+    .accesskey = K
+main-context-menu-pdfjs-cut-page2 =
+    .label = Vystrihnúť stranu
+    .accesskey = V
+main-context-menu-pdfjs-delete-page2 =
+    .label = Odstrániť stranu
+    .accesskey = O
+main-context-menu-pdfjs-save-page2 =
+    .label = Uložiť výber ako…
+    .accesskey = U
 main-context-menu-pdfjs-copy-page =
     .label = Kopírovať stranu
 main-context-menu-pdfjs-cut-page =
