@@ -1652,6 +1652,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Jo i Siguruar
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] U bllokua { $count } gjurmues
+       *[other] U bllokuan { $count } gjurmues
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1736,7 +1744,11 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } lejoi { $count } nxjerrës kriptomonedhash
     }
 trustpanel-cryptominer-tab-list-header = Këto sajte po rreken të nxjerrin kriptomonedha:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Keni një llogari në këtë sajt?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }-i pa se ky sajt pat një cenim të dhënash 12 muajt e fundit. Shihni nëse qetë prekur dhe ju.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Hidhe tej
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Fillo kontroll falas
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Gjurmues i bllokuar në këtë sajt
@@ -1745,6 +1757,8 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Sajti duket i dëmtuar?</strong> Ringarkoni faqen, që të ulet përkohësisht mbrojtja juaj nga gjurmimet.
 reduced-protection-infobar-reload-button = Ringarkoje
     .accesskey = R
 reduced-protection-infobar-never-show-button = Mos e shfaq sërish

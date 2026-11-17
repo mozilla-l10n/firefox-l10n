@@ -53,9 +53,12 @@ firefoxview-tabpickup-password-locked-link = Mësoni më tepër
 firefoxview-tabpickup-password-locked-primarybutton = Jepni Fjalëkalim Parësor
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Mësoni më tepër</a>
 firefoxview-tabpickup-password-locked-header-2 = Shkyçini skedat me fjalëkalimin tuaj parësor
+firefoxview-tabpickup-password-locked-description-2 = Për hir të privatësisë tuaj, skedat e njëkohësuara janë të mbrojtura. Që të shihni skeda nga pajisje tuaja të tjera, jepni fjalëkalimin tuaj parësor për { -brand-short-name }-in.
 firefoxview-tabpickup-signed-out-header = Që të rilidhet, bëni hyrjen
 firefoxview-tabpickup-signed-out-description2 = Që të rilidheni dhe të merrni skedat tuaja, bëni hyrjen në llogarinë tuaj.
 firefoxview-tabpickup-signed-out-primarybutton = Hyni
+firefoxview-tabpickup-signed-out-header-2 = Që të shihni skedat tuaja, bëni hyrjen
+firefoxview-tabpickup-signed-out-description-2 = Që të shihni skeda nga pajisje të tjera, rilidhuni.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -72,6 +75,9 @@ firefoxview-overview-nav = Shfletim së fundi
     .title = Shfletim së fundi
 firefoxview-overview-header = Shfletim së fundi
     .title = Shfletim së fundi
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Skeda dhe historik shfletimi nëpër pajisje
 
 ## History in this context refers to browser history
 
@@ -80,6 +86,8 @@ firefoxview-history-nav = Historik
 firefoxview-history-header = Historik
 firefoxview-history-context-delete = Fshije prej Historiku
     .accesskey = F
+firefoxview-history-context-forget-site = Harroje Këtë Sajt…
+    .accesskey = H
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
