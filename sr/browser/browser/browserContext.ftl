@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Повежите ур
 main-context-menu-use-saved-password =
     .label = Користи сачувану лозинку
     .accesskey = К
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Користи { -relay-brand-short-name } маскирање е-поште
     .accesskey = е
@@ -441,6 +444,18 @@ main-context-menu-reveal-password =
     .accesskey = р
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Ново
+main-context-menu-pdfjs-copy-page2 =
+    .label = Умножи страницу
+    .accesskey = У
+main-context-menu-pdfjs-cut-page2 =
+    .label = Исеци страницу
+    .accesskey = И
+main-context-menu-pdfjs-delete-page2 =
+    .label = Обриши страницу
+    .accesskey = О
+main-context-menu-pdfjs-save-page2 =
+    .label = Сачувај изабрано као…
+    .accesskey = С
 main-context-menu-pdfjs-copy-page =
     .label = Умножи страницу
 main-context-menu-pdfjs-cut-page =
