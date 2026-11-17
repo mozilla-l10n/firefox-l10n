@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = יש לחבר מכש�
 main-context-menu-use-saved-password =
     .label = שימוש בססמה שמורה
     .accesskey = ש
+
+##
+
 main-context-menu-use-relay-mask =
     .label = שימוש במסכת דוא״ל של { -relay-brand-short-name }
     .accesskey = ד
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = חדש
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = העתקת עמוד
+    .accesskey = ה
+main-context-menu-pdfjs-cut-page2 =
+    .label = גזירת עמוד
+    .accesskey = ג
+main-context-menu-pdfjs-delete-page2 =
+    .label = מחיקת עמוד
+    .accesskey = מ
+main-context-menu-pdfjs-save-page2 =
+    .label = שמירת הבחירה בשם…
+    .accesskey = ש
 main-context-menu-pdfjs-copy-page =
     .label = העתקת עמוד
 main-context-menu-pdfjs-cut-page =
