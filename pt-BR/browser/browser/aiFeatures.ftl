@@ -38,6 +38,9 @@ smart-window-model-section-v2 =
 smart-window-model-radio-group =
     .aria-label = Modelo de assistente
 smart-window-model-learn-link = Mais informações sobre modelos
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } escolhe o melhor modelo para cada tarefa
+    .label = Modelo automático
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -71,6 +74,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Detalhes do modelo salvos. Inicie uma nova conversa para testar.
 ai-window-memories-section =
     .description = O { -brand-short-name } pode aprender a partir de sua atividade para criar memórias. Elas são usadas para ajudar a personalizar respostas e são armazenadas localmente neste dispositivo.
+    .label = Memórias
+ai-window-memories-section-v2 =
+    .description = O { -brand-short-name } pode aprender com sua atividade para criar memórias. Usadas para ajudar a personalizar sua experiência de uso, são armazenados localmente no seu dispositivo.
     .label = Memórias
 ai-window-learn-from-chat-activity =
     .label = Aprender com conversas no { -smart-window-brand-name }
@@ -109,3 +115,12 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Feito para ajuda personalizada em vários idiomas. Nome completo: { $model } de { $ownerName }
     .label = { $shortName }: Pessoal
+smart-window-model-qwen =
+    .description = Pronto para uma variedade de tarefas. Nome completo: { $model } por { $ownerName }
+    .label = { $shortName }
+smart-window-model-mistral =
+    .description = Bom se você conversa e navega em vários idiomas. Nome completo: { $model } por { $ownerName }
+    .label = { $shortName }
+smart-window-model-gemini =
+    .description = Respostas rápidas quando você quer agilidade. Nome completo: { $model } por { $ownerName }
+    .label = { $shortName }
