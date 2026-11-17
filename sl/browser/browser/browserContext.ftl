@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Za pošiljanje strani
 main-context-menu-use-saved-password =
     .label = Uporabi shranjeno geslo
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Uporabi e-poštno masko { -relay-brand-short-name }
     .accesskey = e
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Novo
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Kopiraj stran
+    .accesskey = K
+main-context-menu-pdfjs-cut-page2 =
+    .label = Izreži stran
+    .accesskey = z
+main-context-menu-pdfjs-delete-page2 =
+    .label = Izbriši stran
+    .accesskey = z
+main-context-menu-pdfjs-save-page2 =
+    .label = Shrani izbor kot …
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Kopiraj stran
 main-context-menu-pdfjs-cut-page =
