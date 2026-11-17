@@ -662,6 +662,14 @@ support-get-help =
 support-share-ideas =
     .label = Rhannu syniadau ac adborth…
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Cael syniadau, cyngor a newyddion i wneud i'ch profiad o { -brand-product-name } weithio orau i chi.
+    .label = Cylchlythyr { -brand-product-name }
+newsletter-sign-up-link =
+    .label = Ymuno
+
 ## General Section - Performance
 
 performance-settings-learn-more = Darllen rhagor

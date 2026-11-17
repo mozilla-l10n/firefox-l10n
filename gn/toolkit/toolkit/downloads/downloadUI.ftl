@@ -46,6 +46,7 @@ download-ui-confirm-quit-button =
        *[other] Ñesẽ { -brand-short-name }-gui
     }
 download-ui-confirm-offline-button = Eike ñandutípe
+download-ui-confirm-private-browsing-button = Emboty ovetã
 
 ##
 

@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Rheoli PIN
 about-webauthn-credential-management-section-title = Rheoli manylion
 about-webauthn-pin-required-section-title = Mae angen PIN
 about-webauthn-confirm-deletion-section-title = Cadarnhau dileu
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Cofnodi
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Cofrestriadau biometrig
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Methu â rheoli'r dewisiadau oherwydd nad
 about-webauthn-text-not-available = Nid yw ar gael ar y platfform hwn.
 about-webauthn-bio-enrollment-list-subsection-title = Cofrestriadau:
 about-webauthn-add-bio-enrollment-section-title = Ychwanegu cofrestriad newydd
+about-webauthn-logging-warning = Gall y cofnod gynnwys manylion personol, fel enwau defnyddwyr, dynodwyr cyfrif a chyfeiriadau gwefannau. Gwiriwch ef cyn ei rannu.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Mae hyn ond yn cofnodi ceisiadau i weithrediad CTAP brodorol { -brand-short-name }. Nid yw'n cofnodi ceisiadau i APIs platfform WebAuthn nac estyniadau porwr.
 
 ## Results label
 
@@ -79,6 +84,12 @@ about-webauthn-add-bio-enrollment-button = Ychwanegu cofrestriad
 about-webauthn-cancel-button = Diddymu
 about-webauthn-send-pin-button = Iawn
 about-webauthn-delete-button = Dileu
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Cychwyn
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Atal
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Clirio
 about-webauthn-start-enrollment-button = Cychwyn cofrestriad
 about-webauthn-update-button = Diweddaru
 

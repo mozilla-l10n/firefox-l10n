@@ -274,6 +274,9 @@ colorway-removal-notice-button = Cael y themâu llwybrau lliw diweddaraf
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Mae eich gosodiadau cyferbyniad Windows yn diystyru themâu { -brand-short-name }. Diffoddwch y gosodiadau hyn i ddefnyddio themâu yn { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = Mae gan { -smart-window-brand-name } ei themâu golau a thywyll ei hun sy'n dilyn gosodiadau eich system.
 privacy-policy = Polisi Preifatrwydd
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

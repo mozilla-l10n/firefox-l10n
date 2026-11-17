@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN ñangarekohára
 about-webauthn-credential-management-section-title = Eñangareko terachaukaháre
 about-webauthn-pin-required-section-title = PIN tekotevẽva
 about-webauthn-confirm-deletion-section-title = Emoneĩ ñemboguete
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Eñemboheraguapy
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biométrica mboheraguapy
 
@@ -75,6 +77,12 @@ about-webauthn-add-bio-enrollment-button = Embojuaju jehaipy
 about-webauthn-cancel-button = Heja
 about-webauthn-send-pin-button = MONEĨ
 about-webauthn-delete-button = Mboguete
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Moñepyrũ
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Pyta
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Mopotĩ
 about-webauthn-start-enrollment-button = Emoñepyrũ jehaipy
 about-webauthn-update-button = Mbohekopyahu
 
