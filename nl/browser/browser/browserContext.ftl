@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Verbind een apparaat 
 main-context-menu-use-saved-password =
     .label = Opgeslagen wachtwoord gebruiken
     .accesskey = O
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-e-mailmasker gebruiken
     .accesskey = m
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Nieuw
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Pagina kopiëren
+    .accesskey = P
+main-context-menu-pdfjs-cut-page2 =
+    .label = Pagina knippen
+    .accesskey = P
+main-context-menu-pdfjs-delete-page2 =
+    .label = Pagina verwijderen
+    .accesskey = P
+main-context-menu-pdfjs-save-page2 =
+    .label = Selectie opslaan als…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Pagina kopiëren
 main-context-menu-pdfjs-cut-page =
