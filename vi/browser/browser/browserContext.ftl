@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Kết nối với thi
 main-context-menu-use-saved-password =
     .label = Sử dụng mật khẩu đã lưu
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Sử dụng email ẩn danh { -relay-brand-short-name }
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Mới
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Sao chép trang
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = Cắt trang
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = Xoá trang
+    .accesskey = l
+main-context-menu-pdfjs-save-page2 =
+    .label = Lưu phần được chọn thành…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Sao chép trang
 main-context-menu-pdfjs-cut-page =
