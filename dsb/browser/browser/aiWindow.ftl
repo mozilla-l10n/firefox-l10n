@@ -385,3 +385,7 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } zachyśiś
     .title = { $text } zachyśiś
+
+## Single-page onboarding
+
+smartwindow-onboarding-title = Pśiměŕśo se jo.

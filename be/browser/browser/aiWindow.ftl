@@ -391,3 +391,21 @@ smartwindow-onboarding-welcome-subtitle =
     Працуе разам з вамі, каб выканаць задачы.
     Плануйце, параўноўвайце, даследуйце і іншае.
 smartwindow-onboarding-title = Давайце зробім гэта вашым
+smartwindow-onboarding-subtitle = Наладзьце { -smart-window-brand-name } так, як вам падабаецца. Рабіце змены ў наладках у любы час.
+smartwindow-onboarding-model-label = Выберыце сваю мадэль штучнага інтэлекту
+smartwindow-onboarding-model-description = Мадэль сілкуе чаты і дзеянні ў { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Аўтаматычна
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Рэкамендавана
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } выбірае найлепшую мадэль для вашай задачы
+smartwindow-onboarding-model-mistral-description = Добра, калі вы можаце мець зносіны і аглядаць сеціва на некалькіх мовах
+smartwindow-onboarding-model-gemini-description = Хуткія адказы, калі вы рухаецеся шпарка
+smartwindow-onboarding-memories-label = Выберыце, як { -smart-window-brand-name } будзе даведвацца пра вас
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } можа вучыцца з вашых чатаў, аглядання або абодвух, каб ствараць успаміны. Ён выкарыстоўвае іх для персаналізацыі вашага досведу з цягам часу.
+smartwindow-onboarding-memories-both = Чаты і агляданне
+smartwindow-onboarding-memories-browsing = Толькі агляданне
+smartwindow-onboarding-memories-chats = Толькі чаты
+smartwindow-onboarding-memories-none = Не вучыцца на дзейнасці
+smartwindow-onboarding-memories-both-description = Чаты ў { -smart-window-brand-name }, агляданне ў { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Агляданне ў { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Чаты ў { -smart-window-brand-name }
