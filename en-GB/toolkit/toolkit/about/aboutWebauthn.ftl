@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN Management
 about-webauthn-credential-management-section-title = Manage credentials
 about-webauthn-pin-required-section-title = PIN required
 about-webauthn-confirm-deletion-section-title = Confirm deletion
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Logging
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometric enrolments
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Unable to manage options because your sec
 about-webauthn-text-not-available = Not available on this platform.
 about-webauthn-bio-enrollment-list-subsection-title = Enrolments:
 about-webauthn-add-bio-enrollment-section-title = Add new enrolment
+about-webauthn-logging-warning = The log may contain personal information, such as user names, account identifiers and web site addresses. Review it before sharing.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = This only logs requests to the native CTAP implementation of { -brand-short-name }. It does not log requests to platform WebAuthn APIs or browser extensions.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Add enrolment
 about-webauthn-cancel-button = Cancel
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Delete
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Start
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stop
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Clear
 about-webauthn-start-enrollment-button = Start enrolment
 about-webauthn-update-button = Update
 

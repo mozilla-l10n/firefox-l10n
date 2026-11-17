@@ -269,6 +269,9 @@ colorway-removal-notice-button = 업데이트된 컬러웨이 테마 받기
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Windows 대비 설정이 { -brand-short-name } 테마를 재정의합니다. { -brand-short-name } 테마를 사용하려면 이 설정을 끄세요.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name }에는 시스템 설정을 따르는 자체 내장 밝고 어두운 테마가 있습니다.
 privacy-policy = 개인정보처리방침
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

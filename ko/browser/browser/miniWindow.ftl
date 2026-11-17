@@ -71,5 +71,9 @@ mini-window-overlay-instructions = 마우스로 드래그하거나 클릭하여 
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = 미니 창으로 이동할 항목 선택
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = 페이지 일부
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = 전체 페이지
 mini-window-panel-move-selection = 선택 영역 이동
 mini-window-panel-move-full-tab = 전체 탭 이동

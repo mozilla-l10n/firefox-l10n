@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN 관리
 about-webauthn-credential-management-section-title = 자격 증명 관리
 about-webauthn-pin-required-section-title = PIN 필요
 about-webauthn-confirm-deletion-section-title = 삭제 확인
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = 로깅
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = 생체 인식 등록
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = 보안 토큰이 CTAP2를 지원하지 �
 about-webauthn-text-not-available = 이 플랫폼에서는 사용할 수 없습니다.
 about-webauthn-bio-enrollment-list-subsection-title = 등록:
 about-webauthn-add-bio-enrollment-section-title = 새 등록 추가
+about-webauthn-logging-warning = 로그에는 사용자 이름, 계정 식별자, 웹 사이트 주소와 같은 개인 정보가 들어있을 수 있습니다. 공유하기 전에 검토하세요.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = { -brand-short-name }의 네이티브 CTAP 구현에 대한 요청만 로깅합니다. 플랫폼 WebAuthn API 또는 브라우저 확장 기능에 대한 요청은 로깅하지 않습니다.
 
 ## Results label
 
@@ -74,6 +79,12 @@ about-webauthn-add-bio-enrollment-button = 등록 추가
 about-webauthn-cancel-button = 취소
 about-webauthn-send-pin-button = 확인
 about-webauthn-delete-button = 삭제
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = 시작
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = 중지
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = 지우기
 about-webauthn-start-enrollment-button = 등록 시작
 about-webauthn-update-button = 업데이트
 

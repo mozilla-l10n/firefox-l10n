@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name }으로 보호 수준 높이기
     .message = 300개 이상의 위치 중에서 선택하고, 최대 5개 기기에서 모든 앱을 보호하세요.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } 받기
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = 더 많은 위치. 더 많은 보호.
+    .message = { -brand-short-name }를 기본 브라우저로 설정하고 { $count }개의 위치를 추가로 이용해 보세요. 링크는 VPN이 내장된 여기에서 열립니다.
+ipprotection-locations-subview-set-default-promo-button = 링크를 { -brand-short-name }로 열기
 
 ## VPN paused state
 

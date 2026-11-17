@@ -638,6 +638,14 @@ support-get-help =
 support-share-ideas =
     .label = 아이디어 및 의견 공유
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = { -brand-product-name } 경험을 가장 잘 할 수 있도록 방법, 조언, 뉴스를 받아보세요.
+    .label = { -brand-product-name } 뉴스레터
+newsletter-sign-up-link =
+    .label = 가입
+
 ## General Section - Performance
 
 performance-settings-learn-more = 더 알아보기
