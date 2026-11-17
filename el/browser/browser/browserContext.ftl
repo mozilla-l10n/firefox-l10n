@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Συνδέστε μι
 main-context-menu-use-saved-password =
     .label = Χρήση αποθηκευμένου κωδικού πρόσβασης
     .accesskey = υ
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Χρήση μάσκας email του { -relay-brand-short-name }
     .accesskey = e
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Νέο
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Αντιγραφή σελίδας
+    .accesskey = Α
+main-context-menu-pdfjs-cut-page2 =
+    .label = Αποκοπή σελίδας
+    .accesskey = Α
+main-context-menu-pdfjs-delete-page2 =
+    .label = Διαγραφή σελίδας
+    .accesskey = Δ
+main-context-menu-pdfjs-save-page2 =
+    .label = Αποθήκευση επιλογής ως…
+    .accesskey = Α
 main-context-menu-pdfjs-copy-page =
     .label = Αντιγραφή σελίδας
 main-context-menu-pdfjs-cut-page =
