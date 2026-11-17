@@ -385,7 +385,9 @@ aiwindow-starter-dismiss =
 ## Single-page onboarding
 
 # The line break is intentional and is preserved when displayed.
-smartwindow-onboarding-welcome-subtitle = Il travaille à vos côtés pour accomplir vos tâches. Planifiez, comparez, explorez et bien plus encore.
+smartwindow-onboarding-welcome-subtitle =
+    Elles vous accompagnent pour mener à bien vos tâches.
+    Planifiez, comparez, explorez et bien plus encore.
 smartwindow-onboarding-title = Adaptons-le à vous
 smartwindow-onboarding-subtitle = Personnalisez les { -smart-window-brand-name(form: "lower-plural") } selon vos préférences. Vous pourrez modifier ces choix à tout moment dans les paramètres.
 smartwindow-onboarding-model-label = Choisissez votre modèle d’IA
@@ -397,7 +399,7 @@ smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } cho
 smartwindow-onboarding-model-mistral-description = Idéal pour discuter et naviguer dans plusieurs langues
 smartwindow-onboarding-model-gemini-description = Des réponses rapides lorsque vous devez gagner du temps
 smartwindow-onboarding-memories-label = Choisissez comment { -smart-window-brand-name } en apprend sur vous
-smartwindow-onboarding-memories-description = { -smart-window-brand-name } peut apprendre des discussions, de la navigation ou des deux pour créer des moments inoubliables. Il les utilise pour personnaliser votre expérience au fil du temps.
+smartwindow-onboarding-memories-description = Les { -smart-window-brand-name(form: "lower-plural") } peuvent apprendre de vos discussions, de votre navigation, ou des deux, pour créer des souvenirs. Ces souvenirs leurs permettent de personnaliser progressivement votre expérience.
 smartwindow-onboarding-memories-both = Conversations et navigation
 smartwindow-onboarding-memories-browsing = Navigation uniquement
 smartwindow-onboarding-memories-chats = Conversations uniquement
