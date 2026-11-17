@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Пайваст кар
 main-context-menu-use-saved-password =
     .label = Истифода кардани ниҳонвожаи нигоҳдошташуда
     .accesskey = И
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Истифодаи ниқоби почтаи электронии «{ -relay-brand-short-name }»
     .accesskey = И
@@ -441,6 +444,18 @@ main-context-menu-reveal-password =
     .accesskey = Н
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Нав
+main-context-menu-pdfjs-copy-page2 =
+    .label = Нусха бардоштани саҳифа
+    .accesskey = Н
+main-context-menu-pdfjs-cut-page2 =
+    .label = Буридани саҳифа
+    .accesskey = Б
+main-context-menu-pdfjs-delete-page2 =
+    .label = Нест кардани саҳифа
+    .accesskey = Н
+main-context-menu-pdfjs-save-page2 =
+    .label = Нигоҳ доштани интихоб ҳамчун…
+    .accesskey = Н
 main-context-menu-pdfjs-copy-page =
     .label = Нусха бардоштани саҳифа
 main-context-menu-pdfjs-cut-page =
