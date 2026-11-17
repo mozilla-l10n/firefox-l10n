@@ -29,6 +29,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Jo tani
     .accessKey = o
+address-capture-never-save-addresses-button =
+    .label = Mos ruaj kurrë adresa
+    .accessKey = o
 address-capture-cancel-button =
     .label = Anuloje
     .accessKey = A
@@ -98,6 +101,7 @@ autofill-address-tel = Telefon
 autofill-address-email = Email
 autofill-cancel-button = Anuloje
 autofill-save-button = Ruaje
+autofill-country-warning-message-2 = Vetëplotësimi i formularëve aktualisht mund të përdoret vetëm në disa vende.
 autofill-country-warning-message = Vetëplotësimi i Formularëve hëpërhë është i vlefshëm vetëm për disa vende.
 autofill-message-tooltip = Shihni mesazh rreth vetëplotësimit
 # The dialog title for creating credit cards in browser preferences.
@@ -110,8 +114,22 @@ autofill-card-number = Numër Karte
 autofill-card-invalid-number = Ju lutemi, jepni një numër të vlefshëm karte
 autofill-card-name-on-card-2 =
     .label = Emër në Kartë
+autofill-card-expires-month-2 =
+    .label = Muaj skadimi
+autofill-card-expires-year-2 =
+    .label = Vit skadimi
 autofill-card-billing-address-2 =
     .label = Adresë Faturimi
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (në daçi)
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-optional =
+    .label = CVV (në daçi)
 autofill-card-name-on-card = Emër në Kartë
 autofill-card-expires-month = Muaj Skadimi
 autofill-card-expires-year = Vit Skadimi
@@ -123,3 +141,56 @@ autofill-card-network = Lloj Karte
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = karta krediti, kredit, karta, karta debiti, debit, kuletë, përfundim blerjeje
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Shtoni pasaportë
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Përpunoni pasaportë
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Emër
+autofill-passport-country =
+    .label = Vend
+autofill-passport-number =
+    .label = Numër
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Datë emetimi
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Datë skadimi
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = VVVV
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Të ruhet pasaporta?
+passport-capture-save-doorhanger-description = Ruani hollësi te { -brand-short-name }-i, që të mund të plotësoni shpejt e shpejt formularë.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Ruaje
+    .accessKey = R
+passport-capture-not-now-button =
+    .label = Jo tani
+    .accessKey = J
+passport-capture-never-save-button =
+    .label = Mos ruaj kurrë pasaporta
+    .accessKey = M
