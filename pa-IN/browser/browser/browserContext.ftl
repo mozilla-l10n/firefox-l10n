@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = ਕਿਸੇ ਸਫ਼�
 main-context-menu-use-saved-password =
     .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = ਨਵਾਂ
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = ਬੀਟਾ
+main-context-menu-pdfjs-copy-page2 =
+    .label = ਸਫ਼ੇ ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = ਸਫ਼ੇ ਨੂੰ ਕੱਟੋ
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = ਸਫ਼ੇ ਨੂੰ ਹਟਾਓ
+    .accesskey = l
+main-context-menu-pdfjs-save-page2 =
+    .label = ਚੋਣ ਨੂੰ ਇਸ ਵਜੋਂ ਸੰਭਾਲੋ…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = ਸਫ਼ੇ ਨੂੰ ਕਾਪੀ ਕਰੋ
 main-context-menu-pdfjs-cut-page =
