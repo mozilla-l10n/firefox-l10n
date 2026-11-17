@@ -389,3 +389,11 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Cau { $text }
     .title = Cau { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Mae'n gweithio ochr yn ochr â chi i wneud pethau.
+    Cynllunio, cymharu, archwilio, a mwy.
+smartwindow-onboarding-title = Gadewch i ni ei wneud yn addas i chi
