@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Vai alla scheda 8
 customkeys-nav-select-last-tab = Vai all’ultima scheda
 customkeys-nav-toggle-mute = Disattiva/attiva audio
 customkeys-edit-find-previous = Trova precedente
+customkeys-edit-find-selection = Usa il testo selezionato per la ricerca
 customkeys-tools-screenshot = Cattura schermata
 customkeys-category-navigation-2 =
     .heading = Navigazione
