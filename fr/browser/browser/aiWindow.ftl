@@ -392,10 +392,10 @@ smartwindow-onboarding-title = Adaptons-le à vous
 smartwindow-onboarding-subtitle = Personnalisez les { -smart-window-brand-name(form: "lower-plural") } selon vos préférences. Vous pourrez modifier ces choix à tout moment dans les paramètres.
 smartwindow-onboarding-model-label = Choisissez votre modèle d’IA
 smartwindow-onboarding-model-description = Le modèle permet de discuter et d’effectuer des actions dans les { -smart-window-brand-name(form: "lower-plural") }.
-smartwindow-onboarding-model-auto = Auto
+smartwindow-onboarding-model-auto = Automatique
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Recommandé
-smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } choisit le meilleur modèle pour votre tâche
+smartwindow-onboarding-model-auto-description = La { -smart-window-brand-name(form: "lower-singular") } sélectionne le modèle le plus approprié pour votre tâche
 smartwindow-onboarding-model-mistral-description = Idéal pour discuter et naviguer dans plusieurs langues
 smartwindow-onboarding-model-gemini-description = Des réponses rapides lorsque vous devez gagner du temps
 smartwindow-onboarding-memories-label = Choisissez les sources d’apprentissage pour les { -smart-window-brand-name(form: "lower-plural") }
