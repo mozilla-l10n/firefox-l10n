@@ -39,6 +39,42 @@ download-ui-cancel-downloads-ok =
         [1] Annuller hentning af 1 fil
        *[other] Annuller hentning af { $downloadsCount } filer
     }
+download-ui-confirm-cancel-button = Annuller
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Stop 1 filhentning og afslut { -brand-short-name }?
+               *[other] Stop { $downloadsCount } filhentninger og afslut { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Stop 1 filhentning og afslut { -brand-short-name }?
+               *[other] Stop { $downloadsCount } filhentninger og afslut { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Afslut { -brand-short-name }
+       *[other] Afslut { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] Stop 1 filhentning og gå offline?
+       *[other] Stop { $downloadsCount } filhentninger og gå offline?
+    }
+download-ui-confirm-offline-button = Gå offline
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] Stop 1 filhentning og luk dette private vindue?
+       *[other] Stop { $downloadsCount } filhentninger og luk dette private vindue?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] Du vil ikke kunne genoptage denne filhentning.
+       *[other] Du vil ikke kunne genoptage disse filhentninger.
+    }
+download-ui-confirm-private-browsing-button = Luk vindue
 
 ##
 

@@ -85,3 +85,6 @@ experimental-features-newtab-widget-clocks =
 experimental-features-semantic-history-search =
     .label = Semantisk historiksøgning
 experimental-features-semantic-history-search-description = Brug en lokal maskinlærings-model til at foreslå poster fra historikken relateret til dine søgninger - baseret på forståelse af naturligt sprog i adressefeltet i { -brand-product-name }. <a data-l10n-name="connect">Del feedback</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Ressourceovervågning

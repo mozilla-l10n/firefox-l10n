@@ -556,6 +556,12 @@ onboarding-refresh-primary-button = Fortsæt
 # Refers to personal data, indicating that ownership of imported data remains with the user.
 onboarding-refresh-fro-import-subtitle = Det forbliver dine. { -brand-product-name } sælger aldrig personlige data.
 onboarding-refresh-fro-skip-button = Spring over
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Et browservindue, der viser faneblade som små ikoner langs siden af skærmen i et minimeret sidepanel.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Et browservindue, der viser faneblade som små ikoner langs siden af skærmen i et minimeret sidepanel.
 
 ## Smart Window ToU modal
 
@@ -587,6 +593,7 @@ welcome-back-onboarding-card-tilebutton-label = Prøv det
 
 ## New Tab Onboarding cards
 
+hnt-card-import-header = Opsæt din { -brand-short-name } på få sekunder
 hnt-card-import-primary-button = Importer dine data
 hnt-card-default-body = { -brand-product-name } er den eneste større browser, der er bygget til at beskytte dig, ikke spore dig.
 hnt-card-default-primary-button = Åbn links med { -brand-short-name }
