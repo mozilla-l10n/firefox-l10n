@@ -381,3 +381,10 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Ignorar { $text }
     .title = Ignorar { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Trabaja a tu lado para hacer las cosas.
+    Planificá, compará, explorá y mucho más.
