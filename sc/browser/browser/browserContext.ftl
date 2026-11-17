@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Connete unu dispositi
 main-context-menu-use-saved-password =
     .label = Imprea una crae sarvada
     .accesskey = I
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Imprea un'alias de posta eletrònica de { -relay-brand-short-name }
     .accesskey = I
@@ -445,6 +448,18 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nou
+main-context-menu-pdfjs-copy-page2 =
+    .label = Còpia sa pàgina
+    .accesskey = C
+main-context-menu-pdfjs-cut-page2 =
+    .label = Sega sa pàgina
+    .accesskey = S
+main-context-menu-pdfjs-delete-page2 =
+    .label = Cantzella sa pàgina
+    .accesskey = C
+main-context-menu-pdfjs-save-page2 =
+    .label = Sarva sa seletzione comente…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Còpia sa pàgina
 main-context-menu-pdfjs-cut-page =
