@@ -388,3 +388,21 @@ aiwindow-starter-dismiss =
 smartwindow-onboarding-welcome-subtitle =
     Trabaja a tu lado para hacer las cosas.
     Planificá, compará, explorá y mucho más.
+smartwindow-onboarding-subtitle = Configure { -smart-window-brand-name } a su gusto. Puede hacer cambios cuando quiera desde los ajustes.
+smartwindow-onboarding-model-label = Elija su modelo de IA
+smartwindow-onboarding-model-auto = Automático
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Recomendado
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } elige el mejor modelo para tu tarea
+smartwindow-onboarding-model-mistral-description = Bueno si se chatea y se navega en varios idiomas
+smartwindow-onboarding-memories-both = Chats y navegación
+smartwindow-onboarding-memories-browsing = Solo navegación
+smartwindow-onboarding-memories-chats = Solo chats
+smartwindow-onboarding-memories-none = No aprender de la actividad
+smartwindow-onboarding-memories-both-description = Chats en { -smart-window-brand-name } y navegación en { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Navegación en { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Chats en { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Verá menos sugerencias personalizadas y es posible que tenga que repetir detalles en todos los chats.
+smartwindow-onboarding-default-window =
+    .description = Se usa cuando se incie { -brand-short-name }, se reinicie o se abran enlaces desde otras aplicaciones.
+    .label = Iniciar en { -smart-window-brand-name }

@@ -72,5 +72,9 @@ mini-window-overlay-instructions = Arrastrar o hacer clic para seleccionar un á
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Elegir qué mover a una mini ventana
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Parte de la página
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Página completa
 mini-window-panel-move-selection = Mover selección
 mini-window-panel-move-full-tab = Mover pestaña completa
