@@ -86,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookie-uri și date ale site-urilor
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Te deconectează și este posibil să șteargă articolele din coșurile de cumpărături
 item-cookies-site-data-description = Este posibil să te deconecteze de la site-uri sau să îți golească coșurile de cumpărături
 item-active-logins =
     .label = Autentificările active

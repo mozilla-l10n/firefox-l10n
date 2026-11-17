@@ -381,3 +381,13 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } schließen
     .title = { $text } schließen
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Es unterstützt Sie dabei, Dinge zu erledigen.
+    Planen, vergleichen, entdecken und mehr.
+smartwindow-onboarding-title = Passen Sie es sich an
+smartwindow-onboarding-subtitle = Richten Sie { -smart-window-brand-name } nach Ihren Wünschen ein. Änderungen können Sie jederzeit in den Einstellungen vornehmen.
+smartwindow-onboarding-model-label = Wählen Sie Ihr KI-Modell

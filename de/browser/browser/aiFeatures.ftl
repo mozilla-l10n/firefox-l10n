@@ -35,6 +35,9 @@ smart-window-model-section =
 smart-window-model-radio-group =
     .aria-label = Assistenten-Modell
 smart-window-model-learn-link = Weitere Informationen zu Modellen
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } wählt das beste Modell für Ihre Aufgabe aus
+    .label = Auto-Modell
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -68,6 +71,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Modelldetails gespeichert. Starten Sie einen neuen Chat zum Testen.
 ai-window-memories-section =
     .description = { -brand-short-name } kann anhand Ihrer Aktivitäten Erinnerungen erstellen. Diese Daten dienen dazu, Antworten individuell anzupassen, und werden lokal auf diesem Gerät gespeichert.
+    .label = Erinnerungen
+ai-window-memories-section-v2 =
+    .description = { -brand-short-name } kann anhand Ihrer Aktivität lernen, um Erinnerungen zu erstellen. Diese werden verwendet, um Ihr Erlebnis anzupassen und werden lokal auf Ihrem Gerät gespeichert.
     .label = Erinnerungen
 ai-window-learn-from-chat-activity =
     .label = Aus Chats in { -smart-window-brand-name(form: "lowercase-plural-dative") } lernen
@@ -106,3 +112,12 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Entwickelt für personalisierte Hilfe in allen Sprachen. Vollständiger Name: { $model } von { $ownerName }
     .label = { $shortName }: Persönlich
+smart-window-model-qwen =
+    .description = Bereit für eine Vielzahl von Aufgaben. Vollständiger Name: { $model } von { $ownerName }
+    .label = { $shortName }
+smart-window-model-mistral =
+    .description = Gut, wenn Sie in mehreren Sprachen chatten und surfen. Vollständiger Name: { $model } von { $ownerName }
+    .label = { $shortName }
+smart-window-model-gemini =
+    .description = Schnelle Antworten, wenn es schnell gehen muss. Vollständiger Name: { $model } von { $ownerName }
+    .label = { $shortName }
