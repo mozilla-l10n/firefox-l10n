@@ -381,3 +381,35 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } sluiten
     .title = { $text } sluiten
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Het werkt naast u om dingen gedaan te krijgen.
+    Plan, vergelijk, verken en meer.
+smartwindow-onboarding-title = Laten we het van u maken
+smartwindow-onboarding-subtitle = Stel { -smart-window-brand-name } in zoals u dat wilt. U kunt op elk gewenst moment wijzigingen aanbrengen in instellingen.
+smartwindow-onboarding-model-label = Kies uw AI-model
+smartwindow-onboarding-model-description = Het model maakt chats en acties in { -smart-window-brand-name } mogelijk.
+smartwindow-onboarding-model-auto = Automatisch
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Aanbevolen
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } kiest het beste model voor uw taak
+smartwindow-onboarding-model-mistral-description = Goed als u in meerdere talen chat en surft
+smartwindow-onboarding-model-gemini-description = Snelle antwoorden als u snel vooruit wilt
+smartwindow-onboarding-memories-label = Kies hoe { -smart-window-brand-name } u leert kennen
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } kan leren van chats, navigatie, of beide, om herinneringen te creëren. Ze worden gebruikt om uw ervaring in de loop van de tijd te personaliseren.
+smartwindow-onboarding-memories-both = Chats en navigatie
+smartwindow-onboarding-memories-browsing = Alleen navigatie
+smartwindow-onboarding-memories-chats = Alleen chats
+smartwindow-onboarding-memories-none = Niet leren van activiteit
+smartwindow-onboarding-memories-both-description = Chats in { -smart-window-brand-name }, navigatie in { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Navigeren met { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Chats in { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = U ziet minder suggesties op maat en mogelijk moet u details in chats herhalen.
+smartwindow-onboarding-default-window =
+    .description = Gebruik dit wanneer { -brand-short-name } start, herstart of koppelingen vanuit andere apps opent.
+    .label = Starten in { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Opslaan en doorgaan

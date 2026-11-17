@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Pincodebeheer
 about-webauthn-credential-management-section-title = Referenties beheren
 about-webauthn-pin-required-section-title = Pincode vereist
 about-webauthn-confirm-deletion-section-title = Verwijdering bevestigen
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Logboekregistratie
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometrische inschrijvingen
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Kan opties niet beheren, omdat uw beveili
 about-webauthn-text-not-available = Niet beschikbaar op dit platform.
 about-webauthn-bio-enrollment-list-subsection-title = Inschrijvingen:
 about-webauthn-add-bio-enrollment-section-title = Nieuwe inschrijving toevoegen
+about-webauthn-logging-warning = Het logboek kan persoonlijke gegevens bevatten, zoals gebruikersnamen, account-ID’s en websiteadressen. Beoordeel het voordat u het deelt.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Dit logt alleen aanvragen naar de systeemeigen CTAP-implementatie van { -brand-short-name }. Er worden geen aanvragen naar platform WebAuthn-API’s of browserextensies vastgelegd.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Inschrijving toevoegen
 about-webauthn-cancel-button = Annuleren
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Verwijderen
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Starten
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stoppen
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Wissen
 about-webauthn-start-enrollment-button = Inschrijving starten
 about-webauthn-update-button = Bijwerken
 

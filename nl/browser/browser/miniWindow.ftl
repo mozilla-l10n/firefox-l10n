@@ -72,5 +72,9 @@ mini-window-overlay-instructions = Sleep of klik om een gebied te selecteren voo
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Kies wat u naar een minivenster wilt verplaatsen
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Onderdeel van pagina
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Volledige pagina
 mini-window-panel-move-selection = Selectie verplaatsen
 mini-window-panel-move-full-tab = Volledig tabblad verplaatsen
