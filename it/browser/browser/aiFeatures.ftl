@@ -124,3 +124,4 @@ smart-window-model-mistral =
 smart-window-model-gemini =
     .description = Risposte rapide quando la velocità è ciò che conta. Nome completo: { $model } di { $ownerName }
     .label = { $shortName }
+

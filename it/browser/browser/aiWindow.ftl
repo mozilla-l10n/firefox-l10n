@@ -409,3 +409,4 @@ smartwindow-onboarding-default-window =
     .label = Avvia in modalità { -smart-window-brand-name(form: "uppercase-singular") }
 smartwindow-onboarding-save =
     .label = Salva e continua
+
