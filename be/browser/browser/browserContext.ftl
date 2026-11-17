@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Падключыць 
 main-context-menu-use-saved-password =
     .label = Выкарыстаць захаваны пароль
     .accesskey = В
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Выкарыстаць маску эл. пошты { -relay-brand-short-name }
     .accesskey = у
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Новае
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Бэта
+main-context-menu-pdfjs-copy-page2 =
+    .label = Капіяваць старонку
+    .accesskey = К
+main-context-menu-pdfjs-cut-page2 =
+    .label = Выразаць старонку
+    .accesskey = В
+main-context-menu-pdfjs-delete-page2 =
+    .label = Выдаліць старонку
+    .accesskey = В
+main-context-menu-pdfjs-save-page2 =
+    .label = Захаваць вылучэнне як…
+    .accesskey = З
 main-context-menu-pdfjs-copy-page =
     .label = Капіяваць старонку
 main-context-menu-pdfjs-cut-page =
