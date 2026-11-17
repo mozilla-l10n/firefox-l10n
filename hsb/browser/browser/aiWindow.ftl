@@ -398,3 +398,7 @@ smartwindow-onboarding-memories-both = Chaty a přehladowanje
 smartwindow-onboarding-memories-browsing = Jenož přehladowanje
 smartwindow-onboarding-memories-chats = Jenož chaty
 smartwindow-onboarding-memories-none = Z aktiwity njewuknyć
+smartwindow-onboarding-memories-browsing-description = W { -brand-short-name } přehladować
+smartwindow-onboarding-memories-chats-description = Chaty w { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Składować a hotowy

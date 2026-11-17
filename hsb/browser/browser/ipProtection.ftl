@@ -211,6 +211,7 @@ ipprotection-locations-subview-promo =
     .heading = Powyšće škit z { -mozilla-vpn-brand-name }
     .message = Wubjerće z wjace hač 300 stejnišćow a škitajće wšě swoje nałoženja na do 5 gratach.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobstarać
+ipprotection-locations-subview-set-default-promo-button = Wotkazy z { -brand-short-name } wočinić
 
 ## VPN paused state
 

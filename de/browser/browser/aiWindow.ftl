@@ -405,6 +405,7 @@ smartwindow-onboarding-memories-browsing = Nur Surfen
 smartwindow-onboarding-memories-chats = Nur Chats
 smartwindow-onboarding-memories-none = Aktivitäten nicht zum Lernen verwenden
 smartwindow-onboarding-memories-both-description = Chats im { -smart-window-brand-name }, surfen mit { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Surfen mit { -brand-short-name }
 smartwindow-onboarding-memories-chats-description = Chats in { -smart-window-brand-name }
 smartwindow-onboarding-memories-none-description = Sie sehen weniger maßgeschneiderte Vorschläge und müssen Details möglicherweise in allen Chats wiederholen.
 smartwindow-onboarding-default-window =
