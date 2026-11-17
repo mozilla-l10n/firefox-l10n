@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Ta skyddet ännu längre med { -mozilla-vpn-brand-name }
     .message = Välj bland fler än 300 platser och skydda alla dina appar på upp till 5 enheter.
 ipprotection-locations-subview-promo-button = Hämta { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Fler platser. Mer skydd.
+    .message = Gör { -brand-short-name } till din standard och få { $count } platser till. Dina länkar öppnas här, där VPN är inbyggt.
+ipprotection-locations-subview-set-default-promo-button = Öppna länkar med { -brand-short-name }
 
 ## VPN paused state
 

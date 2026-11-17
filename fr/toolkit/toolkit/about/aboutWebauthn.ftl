@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gestion du code PIN
 about-webauthn-credential-management-section-title = Gérer les informations d’authentification
 about-webauthn-pin-required-section-title = Code PIN requis
 about-webauthn-confirm-deletion-section-title = Confirmer la suppression
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Journalisation
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Enregistrements biométriques
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Impossible de gérer les options, car vot
 about-webauthn-text-not-available = Non disponible sur cette plateforme.
 about-webauthn-bio-enrollment-list-subsection-title = Enregistrements :
 about-webauthn-add-bio-enrollment-section-title = Ajouter un nouvel enregistrement
+about-webauthn-logging-warning = Le journal peut contenir des informations personnelles, telles que des noms d’utilisateur, des identifiants de compte et des adresses de sites web. Vérifiez-le avant de la partager.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Cela journalise uniquement les requêtes adressées à l’implémentation CTAP native de { -brand-short-name }. Il n’enregistre pas les requêtes envoyées aux API de la plateforme WebAuthn ou aux extensions de navigateur.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Ajouter un enregistrement
 about-webauthn-cancel-button = Annuler
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Supprimer
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Démarrer
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Arrêter
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Effacer
 about-webauthn-start-enrollment-button = Commencer l’enregistrement
 about-webauthn-update-button = Mettre à jour
 

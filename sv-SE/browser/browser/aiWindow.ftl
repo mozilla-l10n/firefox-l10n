@@ -381,3 +381,33 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Ignorera { $text }
     .title = Ignorera { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle = Den fungerar tillsammans med dig för att få saker gjorda. Planera, jämföra, utforska och mer.
+smartwindow-onboarding-title = Låt oss göra den till din
+smartwindow-onboarding-subtitle = Konfigurera { -smart-window-brand-name } som du vill. Gör ändringar när som helst i inställningarna.
+smartwindow-onboarding-model-label = Välj din AI-modell
+smartwindow-onboarding-model-description = Modellen driver chattar och åtgärder i { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Automatisk
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Rekommenderad
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } väljer den bästa modellen för din uppgift
+smartwindow-onboarding-model-mistral-description = Bra om du chattar och surfar på flera språk
+smartwindow-onboarding-model-gemini-description = Snabba svar när du flyttar snabbt
+smartwindow-onboarding-memories-label = Välj hur { -smart-window-brand-name } lär sig mer om dig
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } kan lära sig av chattar, surfning eller båda för att skapa minnen. Den använder dem för att anpassa din upplevelse över tiden.
+smartwindow-onboarding-memories-both = Chattar och surfning
+smartwindow-onboarding-memories-browsing = Endast surfning
+smartwindow-onboarding-memories-chats = Endast chattar
+smartwindow-onboarding-memories-none = Lär dig inte av aktivitet
+smartwindow-onboarding-memories-both-description = Chattar i { -smart-window-brand-name }, surfar på { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Surfa inom { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Chattar i { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Du ser färre skräddarsydda förslag och kan behöva upprepa detaljer i chattar.
+smartwindow-onboarding-default-window =
+    .description = Använd den när { -brand-short-name } startar, startar om eller öppnar länkar från andra appar.
+    .label = Börja om { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Spara och sätt igång

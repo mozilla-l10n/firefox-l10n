@@ -272,6 +272,9 @@ colorway-removal-notice-button = მიიღეთ განახლებუ�
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = თქვენი Windows ფერების გამოკვეთის პარამეტრებითაა მომართული და { -brand-short-name } ვერ იყენებს გაფორმებებს. გამორთეთ ეს პარამეტრები, რომ გააფორმოთ { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } საკუთარი თანმომყოლი ნათელი და მუქი გაფორმებებითაა, რომლებიც იცვლება თქვენი სისტემის პარამეტრების მიხედვით.
 privacy-policy = პირადულობის დებულება
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

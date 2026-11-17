@@ -265,6 +265,9 @@ colorway-removal-notice-button = Få uppdaterade colorways-teman
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Dina kontrastinställningar i Windows åsidosätter teman i { -brand-short-name }. Stäng av dessa inställningar för att använda teman i { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } har sina egna inbyggda ljusa och mörka teman som följer dina systeminställningar.
 privacy-policy = Sekretesspolicy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

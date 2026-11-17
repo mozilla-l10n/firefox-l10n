@@ -381,3 +381,33 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Ignorer { $text }
     .title = Ignorer { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle = Il travaille à vos côtés pour accomplir vos tâches. Planifiez, comparez, explorez et bien plus encore.
+smartwindow-onboarding-title = Adaptons-le à vous
+smartwindow-onboarding-subtitle = Configurez { -smart-window-brand-name } comme bon vous semble. Modifiez-les à tout moment depuis les paramètres.
+smartwindow-onboarding-model-label = Choisissez votre modèle d’IA
+smartwindow-onboarding-model-description = Le modèle alimente les discussions et les actions dans { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Auto
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Recommandé
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } choisit le meilleur modèle pour votre tâche
+smartwindow-onboarding-model-mistral-description = Si vous discutez et naviguez en plusieurs langues
+smartwindow-onboarding-model-gemini-description = Des réponses rapides quand vous allez vite
+smartwindow-onboarding-memories-label = Choisissez comment { -smart-window-brand-name } en apprend sur vous
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } peut apprendre des discussions, de la navigation ou des deux pour créer des moments inoubliables. Il les utilise pour personnaliser votre expérience au fil du temps.
+smartwindow-onboarding-memories-both = Discussions et navigation
+smartwindow-onboarding-memories-browsing = Navigation seule
+smartwindow-onboarding-memories-chats = Chats uniquement
+smartwindow-onboarding-memories-none = Ne pas apprendre de mon activité
+smartwindow-onboarding-memories-both-description = Discussions dans { -smart-window-brand-name }, parcourant { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = En naviguant sur { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Les discussions des { -smart-window-brand-name(form: "lower-plural") }
+smartwindow-onboarding-memories-none-description = Vous verrez moins de suggestions sur mesure et vous devrez peut-être répéter les détails d’une discussion à l’autre.
+smartwindow-onboarding-default-window =
+    .description = Utilisez-le au démarrage, au redémarrage ou à l’ouverture de liens depuis { -brand-short-name }.
+    .label = Débuter dans { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Enregistrez et c’est parti

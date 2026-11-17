@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-hantering
 about-webauthn-credential-management-section-title = Hantera autentiseringsuppgifter
 about-webauthn-pin-required-section-title = PIN krävs
 about-webauthn-confirm-deletion-section-title = Bekräfta radering
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Loggning
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometriska registreringar
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Det går inte att hantera alternativ efte
 about-webauthn-text-not-available = Ej tillgängligt på denna plattform.
 about-webauthn-bio-enrollment-list-subsection-title = Registreringar:
 about-webauthn-add-bio-enrollment-section-title = Lägg till ny registrering
+about-webauthn-logging-warning = Loggen kan innehålla personlig information, såsom användarnamn, kontoidentifierare och webbplatsadresser. Granska den innan du delar.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Detta loggar endast förfrågningar till den nativa CTAP-implementeringen av { -brand-short-name }. Den loggar inte förfrågningar till plattformens WebAuthn API eller webbläsartillägg.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Lägg till registrering
 about-webauthn-cancel-button = Avbryt
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Ta bort
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Starta
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stopp
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Rensa
 about-webauthn-start-enrollment-button = Starta registrering
 about-webauthn-update-button = Uppdatera
 

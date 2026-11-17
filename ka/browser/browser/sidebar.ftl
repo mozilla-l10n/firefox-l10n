@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = გვერდის ჩანიშვნა…
 sidebar-history-context-menu-delete-pages =
     .label = გვერდების ისტორიიდან ამოშლა
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = წაშლა
 
 ## Labels for sidebar bookmarks context menu items
 
