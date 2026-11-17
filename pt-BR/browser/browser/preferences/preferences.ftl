@@ -652,6 +652,9 @@ support-share-ideas =
 
 ## Firefox newsletter
 
+newsletter-settings-heading =
+    .description = Receba guias, conselhos e novidades para tornar sua experiência de uso do { -brand-product-name } melhor para você.
+    .label = Boletim informativo do { -brand-product-name }
 newsletter-sign-up-link =
     .label = Criar uma conta
 

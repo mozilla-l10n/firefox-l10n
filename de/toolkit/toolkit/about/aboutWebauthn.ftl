@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-Verwaltung
 about-webauthn-credential-management-section-title = Zugangsdaten verwalten
 about-webauthn-pin-required-section-title = PIN erforderlich
 about-webauthn-confirm-deletion-section-title = Löschen bestätigen
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Protokollieren
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometrische Erfassungen
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Die Optionen können nicht verwaltet werd
 about-webauthn-text-not-available = Auf dieser Plattform nicht verfügbar.
 about-webauthn-bio-enrollment-list-subsection-title = Erfassungen:
 about-webauthn-add-bio-enrollment-section-title = Neue Erfassung hinzufügen
+about-webauthn-logging-warning = Das Protokoll kann personenbezogene Daten wie Benutzernamen, Kontokennungen und Website-Adressen enthalten. Prüfen Sie es, bevor Sie es weitergeben.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Es werden nur Anfragen an die native CTAP-Implementierung von { -brand-short-name } protokolliert. Anfragen an WebAuthn-APIs der Plattform oder Browser-Erweiterungen werden nicht erfasst.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Erfassung hinzufügen
 about-webauthn-cancel-button = Abbrechen
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Löschen
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Start
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stopp
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Protokoll leeren
 about-webauthn-start-enrollment-button = Erfassung starten
 about-webauthn-update-button = Aktualisieren
 

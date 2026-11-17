@@ -381,3 +381,15 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Dispensar { $text }
     .title = Dispensar { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Trabalha consigo para o ajudar a realizar tarefas.
+    Planeia, compara, explora e muito mais.
+smartwindow-onboarding-title = Vamos torná-lo seu
+smartwindow-onboarding-subtitle = Configure o { -smart-window-brand-name } como quiser. Faça alterações a qualquer momento nas definições.
+smartwindow-onboarding-model-label = Escolha o seu modelo de IA
+smartwindow-onboarding-model-description = O modelo potencia conversas e ações no { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Automático

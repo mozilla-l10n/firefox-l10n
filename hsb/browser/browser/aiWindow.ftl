@@ -385,3 +385,16 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } zaćisnyć
     .title = { $text } zaćisnyć
+
+## Single-page onboarding
+
+smartwindow-onboarding-model-label = Wubjerće swój model KI
+smartwindow-onboarding-model-auto = Awtomatisce
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Doporučeny
+smartwindow-onboarding-model-gemini-description = Spěšne wotmołwy, hdyž so spěšnje pohibujeće
+smartwindow-onboarding-memories-label = Wubjerće, kak { -smart-window-brand-name } wo was wuknje
+smartwindow-onboarding-memories-both = Chaty a přehladowanje
+smartwindow-onboarding-memories-browsing = Jenož přehladowanje
+smartwindow-onboarding-memories-chats = Jenož chaty
+smartwindow-onboarding-memories-none = Z aktiwity njewuknyć

@@ -34,6 +34,8 @@ about-webauthn-text-not-available = Não disponível nesta plataforma.
 about-webauthn-bio-enrollment-list-subsection-title = Cadastros:
 about-webauthn-add-bio-enrollment-section-title = Adicionar novo cadastro
 about-webauthn-logging-warning = O log pode conter informações pessoais, como nomes de usuário, identificadores de contas e endereços de sites. Revise antes de compartilhar.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Só registra log de requisições para a implementação CTAP nativa do { -brand-short-name }. Não registra log de requisições para APIs da plataforma WebAuthn ou de extensões do navegador.
 
 ## Results label
 
