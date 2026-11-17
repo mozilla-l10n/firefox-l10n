@@ -410,4 +410,4 @@ smartwindow-onboarding-default-window =
     .description = Utilisez-le au démarrage, au redémarrage ou à l’ouverture de liens depuis { -brand-short-name }.
     .label = Débuter dans { -smart-window-brand-name }
 smartwindow-onboarding-save =
-    .label = Enregistrez et c’est parti
+    .label = Enregistrer et continuer

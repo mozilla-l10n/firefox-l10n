@@ -72,7 +72,7 @@ mini-window-overlay-instructions = Faites glisser le pointeur ou cliquez pour s�
 
 mini-window-panel-header = Sélectionnez le contenu à déplacer dans une mini-fenêtre
 # Selection for what to move to a Mini Window
-mini-window-panel-part-of-page = Partie de la page
+mini-window-panel-part-of-page = Zone de la page
 # Selection for what to move to a Mini Window
 mini-window-panel-full-page = Page entière
 mini-window-panel-move-selection = Déplacer la sélection
