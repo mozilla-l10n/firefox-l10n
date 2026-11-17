@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gerenciamento de PIN
 about-webauthn-credential-management-section-title = Gerenciar credenciais
 about-webauthn-pin-required-section-title = PIN obrigatório
 about-webauthn-confirm-deletion-section-title = Confirmar exclusão
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Registro de log
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Cadastros biométricos
 
@@ -31,6 +33,7 @@ about-webauthn-text-non-ctap2-device = Não foi possível gerenciar opções por
 about-webauthn-text-not-available = Não disponível nesta plataforma.
 about-webauthn-bio-enrollment-list-subsection-title = Cadastros:
 about-webauthn-add-bio-enrollment-section-title = Adicionar novo cadastro
+about-webauthn-logging-warning = O log pode conter informações pessoais, como nomes de usuário, identificadores de contas e endereços de sites. Revise antes de compartilhar.
 
 ## Results label
 
@@ -75,6 +78,12 @@ about-webauthn-add-bio-enrollment-button = Adicionar cadastro
 about-webauthn-cancel-button = Cancelar
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Excluir
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Iniciar
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Parar
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Limpar
 about-webauthn-start-enrollment-button = Iniciar cadastro
 about-webauthn-update-button = Atualizar
 

@@ -38,6 +38,9 @@ smart-window-model-section-v2 =
 smart-window-model-radio-group =
     .aria-label = מודל העוזרת
 smart-window-model-learn-link = מידע נוסף על מודלים
+smart-window-model-auto =
+    .description = ‏{ -smart-window-brand-name } בוחר את המודל הטוב ביותר למשימה שלך
+    .label = מודל אוטומטי
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -71,6 +74,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = פרטי המודל נשמרו. ניתן להתחיל צ’אט חדש כדי לנסות אותו.
 ai-window-memories-section =
     .description = ‏{ -brand-short-name } יכול ללמוד מהפעילות שלך כדי ליצור זכרונות. הם משמשים להתאמה אישית של התשובות ומאוחסנים באופן מקומי במכשיר הזה.
+    .label = זכרונות
+ai-window-memories-section-v2 =
+    .description = ‏{ -brand-short-name } יכול ללמוד מהפעילות שלך כדי ליצור זכרונות. הם משמשים להתאמה אישית של החוויה שלך ומאוחסנים באופן מקומי במכשיר שלך.
     .label = זכרונות
 ai-window-learn-from-chat-activity =
     .label = ללמוד מצ’אטים ב־{ -smart-window-brand-name }
@@ -109,3 +115,6 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = בנוי למתן סיוע מותאם אישית במגוון שפות. השם המלא: { $model } מאת { $ownerName }
     .label = ‏{ $shortName }: אישי
+smart-window-model-qwen =
+    .description = מוכן למגוון משימות. שם מלא: { $model } מאת { $ownerName }
+    .label = { $shortName }

@@ -270,6 +270,9 @@ colorway-removal-notice-button = Obtenha temas de esquemas de cores atualizados
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Suas configurações de contraste do Windows estão sobrepondo temas do { -brand-short-name }. Desative essas configurações para usar temas no { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } tem seus próprios temas claro e escuro integrados que acompanham as configurações do sistema.
 privacy-policy = Política de privacidade
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

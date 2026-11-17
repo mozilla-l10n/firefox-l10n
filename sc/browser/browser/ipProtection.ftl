@@ -43,6 +43,7 @@ ipprotection-feature-introduction-button-get-started = Cumintza
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Aberi sa VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Cunfigura comente predefinida
+ipprotection-summer-promo-offramp-get-subscription-button = Otene { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Iscarta
 
 ## Site settings callout
@@ -53,6 +54,7 @@ ipprotection-site-settings-callout-button = Apo cumprèndidu
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-description-1 = Sa <a data-l10n-name="learn-more-vpn">VPN integrada de { -brand-product-name }</a> ti permitit de seberare intre meda positziones de navigatzione o de nos lassare istabilire cale est cussa prus lestra pro tue.
 ipprotection-location-selection-callout-primary-button = Proa immoe
 ipprotection-location-selection-callout-secondary-button = Iscarta
 
@@ -69,8 +71,10 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Iscarta
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Nàviga in manera prus privada e prus difìtzile de sighire cun sa VPN integrada.
 ipprotection-holiday-promo-primary-button = Aberi sa VPN
 ipprotection-holiday-promo-secondary-button = Iscarta
+ipprotection-holiday-promo-title-1 = Otene VPN sena lìmites finas a su 31 de ghennàrgiu
 
 ## Panel
 
@@ -84,6 +88,13 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .aria-label = Sa VPN est disativada pro custu situ
     .label = Imprea sa VPN pro custu situ
+site-exclusion-toggle-description = Su situ non funtzionat? Proa a disativare sa VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Gesti is règulas de sa VPN
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = Sa VPN est disativada pro custu situ
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = Sa VPN est ativa pro custu situ
 ipprotection-settings-link =
     .label = Cunfiguratzione
 
@@ -122,6 +133,7 @@ ipprotecion-locations-subview-recommended-label = Cussigiadu
 ipprotection-locations-subview-recommended-description = Agata sa positzione prus lestra
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = No a disponimentu
+ipprotection-locations-subview-promo-button = Otene { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
