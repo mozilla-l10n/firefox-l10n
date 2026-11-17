@@ -383,3 +383,11 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Адхіліць { $text }
     .title = Адхіліць { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Працуе разам з вамі, каб выканаць задачы.
+    Плануйце, параўноўвайце, даследуйце і іншае.
+smartwindow-onboarding-title = Давайце зробім гэта вашым
