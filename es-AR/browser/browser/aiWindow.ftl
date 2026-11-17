@@ -386,8 +386,8 @@ aiwindow-starter-dismiss =
 
 # The line break is intentional and is preserved when displayed.
 smartwindow-onboarding-welcome-subtitle =
-    Trabaja a tu lado para hacer las cosas.
-    Planificá, compará, explorá y mucho más.
+    Trabaja a su lado para hacer las cosas.
+    Planifique, compare, explore y mucho más.
 smartwindow-onboarding-subtitle = Configure { -smart-window-brand-name } a su gusto. Puede hacer cambios cuando quiera desde los ajustes.
 smartwindow-onboarding-model-label = Elija su modelo de IA
 smartwindow-onboarding-model-auto = Automático
