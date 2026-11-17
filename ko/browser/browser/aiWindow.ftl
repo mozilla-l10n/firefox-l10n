@@ -373,3 +373,32 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } 닫기
     .title = { $text } 닫기
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    함께 작업하여 작업을 완료합니다.
+    계획, 비교, 탐색 등을 할 수 있습니다.
+smartwindow-onboarding-title = 나만의 것으로 만들어 보세요.
+smartwindow-onboarding-subtitle = { -smart-window-brand-name }를 원하는 대로 설정하세요. 언제든지 설정을 변경할 수 있습니다.
+smartwindow-onboarding-model-label = AI 모델을 선택하세요
+smartwindow-onboarding-model-description = 모델은 { -smart-window-brand-name }의 채팅과 작업을 지원합니다.
+smartwindow-onboarding-model-auto = 자동
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = 추천
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name }가 작업에 가장 적합한 모델을 선택합니다
+smartwindow-onboarding-model-mistral-description = 여러 언어로 채팅하고 탐색할 때 유용합니다.
+smartwindow-onboarding-model-gemini-description = 빠르게 이동할 때 신속한 답변을 제공합니다.
+smartwindow-onboarding-memories-label = { -smart-window-brand-name }가 사용자에 대해 학습하는 방법 선택
+smartwindow-onboarding-memories-description = { -smart-window-brand-name }는 채팅이나 탐색 또는 둘 다로부터 학습하여 기억을 만들 수 있습니다. 시간이 지남에 따라 경험을 개인화하는 데 사용합니다.
+smartwindow-onboarding-memories-both = 채팅 및 탐색
+smartwindow-onboarding-memories-browsing = 탐색만
+smartwindow-onboarding-memories-chats = 채팅만
+smartwindow-onboarding-memories-none = 활동 학습 안 함
+smartwindow-onboarding-memories-both-description = { -smart-window-brand-name }에서 채팅, { -brand-short-name }에서 탐색
+smartwindow-onboarding-memories-browsing-description = { -brand-short-name }에서 탐색
+smartwindow-onboarding-memories-chats-description = { -smart-window-brand-name }에서 채팅
+smartwindow-onboarding-memories-none-description = 맞춤형 제안이 줄어들며, 여러 채팅에서 세부 내용을 반복해서 입력해야 할 수 있습니다.
+smartwindow-onboarding-save =
+    .label = 저장하고 시작
