@@ -389,7 +389,9 @@ aiwindow-starter-dismiss =
 ## Single-page onboarding
 
 smartwindow-onboarding-title = Přiměrće sej jo.
+smartwindow-onboarding-subtitle = Konfigurujće { -smart-window-brand-name } tak, kaž chceće. Přewjedźće kóždy čas změny w nastajenjach.
 smartwindow-onboarding-model-label = Wubjerće swój model KI
+smartwindow-onboarding-model-description = Model je zakład za chaty a akcije w { -smart-window-brand-name }
 smartwindow-onboarding-model-auto = Awtomatisce
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Doporučeny
@@ -397,11 +399,16 @@ smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } naj
 smartwindow-onboarding-model-mistral-description = Dobry, jeli we wjacorych rěčach četujeće a přehladujeće
 smartwindow-onboarding-model-gemini-description = Spěšne wotmołwy, hdyž so spěšnje pohibujeće
 smartwindow-onboarding-memories-label = Wubjerće, kak { -smart-window-brand-name } wo was wuknje
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } móže z chatow, přehladowanja abo wobeju wuknyć, zo by dopomnjeća wutworiło. Wužiwa je, zo by waše dožiwjenje počasu personalizowało.
 smartwindow-onboarding-memories-both = Chaty a přehladowanje
 smartwindow-onboarding-memories-browsing = Jenož přehladowanje
 smartwindow-onboarding-memories-chats = Jenož chaty
 smartwindow-onboarding-memories-none = Z aktiwity njewuknyć
+smartwindow-onboarding-memories-both-description = Chaty w { -smart-window-brand-name }, přehladowanje w { -brand-short-name }
 smartwindow-onboarding-memories-browsing-description = W { -brand-short-name } přehladować
 smartwindow-onboarding-memories-chats-description = Chaty w { -smart-window-brand-name }
+smartwindow-onboarding-default-window =
+    .description = Wužiwajće to, hdyž { -brand-short-name } startuje, znowa startuje abo wotkazy z druhich nałoženjow wočinja.
+    .label = W { -smart-window-brand-name } startować
 smartwindow-onboarding-save =
     .label = Składować a hotowy

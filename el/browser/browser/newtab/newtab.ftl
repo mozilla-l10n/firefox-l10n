@@ -1355,6 +1355,8 @@ newtab-report-ads-reason-inappropriate =
     .label = Είναι ακατάλληλο
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = Το έχω δει πάρα πολλές φορές
+newtab-report-ads-reason-offensive =
+    .label = Προσβλητικό ή ακατάλληλο
 newtab-report-content-wrong-category =
     .label = Λάθος κατηγορία
 newtab-report-content-outdated =
@@ -1889,6 +1891,21 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = Αναζήτηση πόλης
     .placeholder = Αναζήτηση πόλης
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = Ψευδώνυμο (προαιρετικό)
+    .description =
+        { $count ->
+            [one] Απομένει { $count } χαρακτήρας
+           *[other] Απομένουν { $count } χαρακτήρες
+        }
+    .label = Ψευδώνυμο (προαιρετικό)
+    .placeholder = Προσθήκη ψευδωνύμου
 newtab-clock-widget-search-location-input =
     .aria-label = Αναζήτηση πόλης
     .label = Τοποθεσία

@@ -269,6 +269,9 @@ colorway-removal-notice-button = Obține teme de culori actualizate
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Setările de contrast Windows au prioritate față de temele { -brand-short-name }. Dezactivează aceste setări ca să folosești teme în { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } are propriile teme luminoase și întunecate încorporate, care merg după setările tale de sistem.
 privacy-policy = Politică de confidențialitate
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -321,6 +324,8 @@ release-notes-addon-button = Note privind versiunea
 permissions-addon-button = Permisiuni
 extension-enabled-heading = Activate
 extension-disabled-heading = Dezactivate
+theme-enabled-heading2 =
+    .heading = Temă activă
 theme-disabled-heading3 =
     .heading = Teme salvate
 theme-enabled-heading = Activate
@@ -603,6 +608,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Teme { -brand-product-name }
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Teme clasice
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Afișează mai multe
 aboutaddons-themes-picker-see-less = Arată mai puțin

@@ -71,5 +71,9 @@ mini-window-overlay-instructions = Σύρετε ή κάντε κλικ για ν
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Επιλέξτε τι θέλετε να μεταφέρετε σε Μίνι παράθυρο
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Μέρος της σελίδας
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Ολόκληρη σελίδα
 mini-window-panel-move-selection = Μετακίνηση επιλογής
 mini-window-panel-move-full-tab = Μετακίνηση πλήρους καρτέλας

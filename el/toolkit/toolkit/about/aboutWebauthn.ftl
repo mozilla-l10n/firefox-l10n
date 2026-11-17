@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Διαχείριση PIN
 about-webauthn-credential-management-section-title = Διαχείριση διαπιστευτηρίων
 about-webauthn-pin-required-section-title = Απαιτείται PIN
 about-webauthn-confirm-deletion-section-title = Επιβεβαίωση διαγραφής
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Καταγραφή
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Βιομετρικές εγγραφές
 
@@ -75,6 +77,12 @@ about-webauthn-add-bio-enrollment-button = Προσθήκη εγγραφής
 about-webauthn-cancel-button = Ακύρωση
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Διαγραφή
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Έναρξη
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Διακοπή
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Απαλοιφή
 about-webauthn-start-enrollment-button = Έναρξη εγγραφής
 about-webauthn-update-button = Ενημέρωση
 

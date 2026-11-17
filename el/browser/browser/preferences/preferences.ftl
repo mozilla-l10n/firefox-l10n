@@ -650,6 +650,11 @@ support-get-help =
 support-share-ideas =
     .label = Κοινοποίηση ιδεών και σχολίων
 
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = Εγγραφή
+
 ## General Section - Performance
 
 performance-settings-learn-more = Μάθετε περισσότερα

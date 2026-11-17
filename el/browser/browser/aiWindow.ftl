@@ -381,3 +381,19 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Απόρριψη του «{ $text }»
     .title = Απόρριψη του «{ $text }»
+
+## Single-page onboarding
+
+smartwindow-onboarding-title = Ας το κάνουμε δικό σας
+smartwindow-onboarding-model-label = Επιλέξτε το μοντέλο ΤΝ σας
+smartwindow-onboarding-model-auto = Αυτόματα
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Προτεινόμενο
+smartwindow-onboarding-model-mistral-description = Ιδανικό για συνομιλία και περιήγηση σε πολλές γλώσσες
+smartwindow-onboarding-model-gemini-description = Γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία
+smartwindow-onboarding-memories-both = Συνομιλίες και περιήγηση
+smartwindow-onboarding-memories-browsing = Μόνο περιήγηση
+smartwindow-onboarding-memories-chats = Μόνο συνομιλίες
+smartwindow-onboarding-memories-chats-description = Συνομιλίες στο { -smart-window-brand-name(form: "lowerSingularNom") }
+smartwindow-onboarding-save =
+    .label = Αποθήκευση και μετάβαση
