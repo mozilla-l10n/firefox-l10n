@@ -413,6 +413,8 @@ tab-groups-onboarding-session-restore-title-3 = Åbn dine fanebladsgrupper igen 
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Åbn dine fanebladsgrupper igen fra menuen List alle faneblade.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Fanebladsgrupper gemmes automatisk. Find dem her.
 
 ## Multi Profiles feature onboarding messages
 
@@ -548,6 +550,7 @@ onboarding-refresh-gratitude-title = { -brand-short-name } passer på dig
 ## First Run Onboarding refresh strings
 
 onboarding-refresh-tou-default = Åbn alle links med { -brand-short-name }
+onboarding-refresh-data-collection-link = Håndter indstillinger for indsamling af data
 onboarding-refresh-primary-button = Fortsæt
 # "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
 # Refers to personal data, indicating that ownership of imported data remains with the user.

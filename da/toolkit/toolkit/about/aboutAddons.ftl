@@ -276,6 +276,9 @@ colorway-removal-notice-button = Få opdaterede farvekombinations-temaer
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Dine Windows-indstillinger for kontrast tilsidesætter temaer i { -brand-short-name }. Deaktiver indstillingerne for at bruge temaer i { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } har sine egne indbyggede lyse og mørke temaer, der følger dine systemindstillinger.
 privacy-policy = Privatlivs-politik
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -604,6 +607,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name }-temaer
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Klassiske temaer
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Vis flere
 aboutaddons-themes-picker-see-less = Vis færre

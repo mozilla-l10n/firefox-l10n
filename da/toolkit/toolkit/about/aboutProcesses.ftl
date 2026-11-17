@@ -18,6 +18,8 @@ about-processes-shutdown-tab =
     .title = Luk faneblad
 about-processes-unload-tab =
     .title = Nedluk faneblad
+about-processes-reload-tab =
+    .title = Genindlæs faneblad
 about-processes-go-to-tab =
     .title = Gå til faneblad
 # Profiler icons

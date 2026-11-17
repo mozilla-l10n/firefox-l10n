@@ -625,6 +625,14 @@ support-get-help =
 support-share-ideas =
     .label = Del ideer og feedback
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Få vejledninger, råd og nyheder, så du får den bedste oplevelse med { -brand-product-name }.
+    .label = { -brand-product-name }-nyhedsbrev
+newsletter-sign-up-link =
+    .label = Tilmeld dig
+
 ## General Section - Performance
 
 performance-settings-learn-more = Læs mere
@@ -897,6 +905,10 @@ search-separate-default-engine-2 =
     .accesskey = B
 search-separate-default-engine-dropdown =
     .aria-label = Standard-søgetjeneste i private vinduer
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Spring resultatmenuen over, når du bruger tabulatortasten til at flytte fokus
 search-suggestions-header-2 =
     .label = Forslag fra søgetjenester
 search-one-click-header2 = Søge-genveje
@@ -1125,6 +1137,12 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Du synkroniserer disse elementer på tværs af alle dine forbundne enheder:
 sync-syncing-across-devices-heading-2 = Synkroniserede data på tværs af enheder
+sync-syncing-across-devices-empty-state2 =
+    .description = Du synkroniserer ikke noget ... endnu. Start synkroniseringen for at få alle dine data på alle dine enheder.
+    .label = Håndter synkroniserede data
+sync-syncing-across-devices-empty-state3 =
+    .description = Du synkroniserer ikke noget ... endnu. Vælg, hvad der skal synkroniseres på denne enhed.
+    .label = Håndter synkroniserede data
 sync-currently-syncing-bookmarks = Bogmærker
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Åbne faneblade
@@ -1150,6 +1168,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historik
     .accesskey = H
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Åbne faneblade
+    .tooltiptext = Åbne faneblade fra dine andre enheder
+    .accesskey = b
 sync-engine-tabs =
     .label = Åbne faneblade
     .tooltiptext = En liste over åbne faneblade på alle synkroniserede enheder
@@ -1158,6 +1181,22 @@ sync-engine-passwords =
     .label = Adgangskoder
     .tooltiptext = Gemte adgangskoder
     .accesskey = A
+sync-engine-addresses2 =
+    .label = Adresser
+    .tooltiptext = Adresser, du har gemt i { -brand-short-name }
+    .accesskey = A
+sync-engine-payment-methods3 =
+    .label = Betalingsmetoder
+    .tooltiptext = Betalingsmetoder, du har gemt
+    .accesskey = B
+sync-engine-addons2 =
+    .label = Tilføjelser
+    .tooltiptext = Udvidelser og temaer, du har føjet til { -brand-short-name } til computer
+    .accesskey = T
+sync-engine-settings2 =
+    .label = Indstillinger
+    .tooltiptext = { -brand-short-name }-indstillinger hvor det er relevant
+    .accesskey = I
 sync-engine-addresses =
     .label = Adresser
     .tooltiptext = Gemte postadresser (kun til computer)
@@ -1487,6 +1526,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Indstillinger…
     .accesskey = I
+history-shutdown-exceptions =
+    .label = Håndter undtagelser
+    .accesskey = H
 history-clear-button =
     .label = Ryd historik…
     .accesskey = h
@@ -1778,9 +1820,27 @@ notifications-section-header =
 notifications-entry-card-header =
     .description = Vælg hvilke websteder, der kan sende beskeder, og hvordan de vises.
     .label = Beskeder
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } websted
+           *[other] { $count } websteder
+        }
+    .label = Håndter indstillinger for beskeder
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Håndter Indstillinger for websteds-beskeder
 notifications-website-card-header =
     .description = Vælg, hvordan websteder kan sende beskeder.
     .label = Websteds-beskeder
+notifications-filter =
+    .placeholder = Søg efter websteder
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
@@ -2037,6 +2097,8 @@ downloads-folder-name = Hentede filer
 
 preferences-appearance-header =
     .heading = Udseende
+related-settings-group =
+    .label = Relaterede indstillinger
 related-settings-home-link =
     .label = Tilpas { -firefox-home-brand-name }
 
@@ -2065,6 +2127,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .description = Se en hurtig sammenfatning, før du åbner et link.
     .label = Hovedpunkter i forhåndsvisning af links
+preferences-ai-controls-speech-recognition-control =
+    .description = Transskriber tale lokalt.
+    .label = Talegenkendelse
 preferences-ai-controls-sidebar-chatbot-group =
     .description = Hav en chatbot i nærheden, når du bruger nettet. Vælg mellem Anthropic Claude, ChatGPT, Copilot, Google Gemini og Le Chat Mistral.
     .label = AI-chatbot-leverandører i sidepanelet
@@ -2091,6 +2156,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Alternativ tekst for billeder
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Forslag til fanebladsgrupper
 preferences-ai-controls-block-confirmation-key-points = Hovedpunkter i forhåndsvisning af links
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbot-leverandører i sidepanelet
+preferences-ai-controls-block-confirmation-speech-recognition = Talegenkendelse
 preferences-ai-controls-block-confirmation-features-after = Blokering påvirker også udvidelser, der bruger AI leveret af { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Annuller
@@ -2135,6 +2201,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .description = Websteder bruger sporings-mekanismer til at følge dig online og vise skumle reklamer. { -brand-short-name } beskytter dig, mens du browser, og blokerer automatisk sporings-mekanismer, så du har kontrol over dine digitale spor.
+    .label = Udvidet beskyttelse mod sporing
 preferences-etp-level-radio-group =
     .aria-label = Udvidet beskyttelse mod sporing
 preferences-etp-level-custom =
@@ -2146,6 +2215,9 @@ preferences-etp-tracker-count-enabled =
     .label = Vis antal blokerede sporings-mekanismer i adressefeltet
 preferences-etp-header =
     .heading = Udvidet beskyttelse mod sporing
+preferences-etp-advanced-settings-group =
+    .description = Websteder bruger sporings-mekanismer til at følge dig online og vise skumle reklamer. { -brand-short-name } beskytter dig, mens du browser, og blokerer de fleste sporings-mekanismer automatisk, så du har kontrol over dine digitale spor.
+    .label = Avancerede indstillinger
 preferences-etp-customize-button =
     .label = Tilpas beskyttelse mod sporing
 preferences-etp-reload-tabs-hint =

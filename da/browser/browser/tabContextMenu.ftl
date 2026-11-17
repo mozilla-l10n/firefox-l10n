@@ -34,20 +34,42 @@ duplicate-tabs2 =
 close-tabs-to-the-start =
     .label = Luk faneblade til venstre
     .accesskey = v
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start-alt =
+    .label = Faneblade til venstre
+    .accesskey = v
 close-tabs-to-the-start-vertical =
     .label = Luk faneblade ovenfor
+    .accesskey = o
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the top of the tabstrip.
+close-tabs-to-the-start-vertical-alt =
+    .label = Faneblade ovenfor
     .accesskey = o
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Luk faneblade til højre
     .accesskey = h
+# The following string is displayed on a menuitem ("Close Multiple") that closes the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
+close-tabs-to-the-end-alt =
+    .label = Faneblade til højre
+    .accesskey = h
 close-tabs-to-the-end-vertical =
     .label = Luk faneblade nedenfor
+    .accesskey = n
+# The following string is displayed on a menuitem ("Close Multiple") in vertical layout that closes the tabs from the currently targeted tab to the bottom of the tabstrip.
+close-tabs-to-the-end-vertical-alt =
+    .label = Faneblade nedenfor
     .accesskey = n
 close-other-tabs =
     .label = Luk øvrige faneblade
     .accesskey = ø
+# The following string is displayed on a menuitem ("Close Multiple"), this closes all tabs in the tabstrip except for the selected tab.
+close-other-tabs-alt =
+    .label = Alle andre
+    .accesskey = A
 reload-tabs =
     .label = Genindlæs faneblade
     .accesskey = e
@@ -85,14 +107,27 @@ tab-context-open-in-new-container-tab =
 tab-context-open-in-new-container-tab2 =
     .label = Åbn i et nyt kontekst-faneblad
     .accesskey = t
+tab-context-open-in-container =
+    .label = Åbn i Kontekst
+    .accesskey = K
 move-to-start =
     .label = Flyt længst til venstre
+    .accesskey = e
+# Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
+move-to-start-alt =
+    .label = Længst til venstre
     .accesskey = e
 move-to-end =
     .label = Flyt længst til højre
     .accesskey = h
+move-to-end-alt =
+    .label = Længst til højre
+    .accesskey = h
 move-to-new-window =
     .label = Flyt til nyt vindue
+    .accesskey = v
+move-to-new-window-alt =
+    .label = Nyt vindue
     .accesskey = v
 # Variables
 #  $profileName (string): The name of the profile to move tab to
@@ -103,6 +138,10 @@ tab-context-close-multiple-tabs =
     .accesskey = a
 tab-context-close-duplicate-tabs =
     .label = Luk kopierede faneblade
+    .accesskey = o
+# The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
+tab-context-close-duplicate-tabs-alt =
+    .label = Kopierede faneblade
     .accesskey = o
 tab-context-share-url =
     .label = Del
@@ -117,6 +156,10 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Ny gruppe
     .accesskey = g
+tab-context-add-tab-to-group-new-group =
+    .label = Ny gruppe
+tab-context-add-tab-to-group-closed-groups =
+    .label = Lukkede grupper
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -153,6 +196,14 @@ tab-context-move-tabs =
         }
     .accesskey = y
 # Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs3 =
+    .label =
+        { $tabCount ->
+            [1] Flyt til
+           *[other] Flyt { $tabCount } faneblade til
+        }
+    .accesskey = y
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
@@ -164,6 +215,10 @@ tab-context-move-tabs2 =
 tab-context-move-split-view =
     .label = Flyt opdelt visning til
     .accesskey = y
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view-alt =
+    .label = Flyt faneblade til
+    .accesskey = e
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

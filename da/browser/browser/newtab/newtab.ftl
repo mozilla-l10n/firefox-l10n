@@ -174,6 +174,8 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } blokerer automatisk sporings-mekanismer, hvilket holder mere af din aktivitet privat.
+# Shorter empty-state copy for the small card, shown as two separate lines.
+newtab-privacy-empty-state-small-title = Færre sporings-mekanismer, hurtigere browsing.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -440,6 +442,34 @@ newtab-travel-menu-powered-by-kayak = Leveret af Kayak
 newtab-solitaire-widget-title = 7-kabale
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Læs mere
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Åbn menuen Wrexham AFC
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Vis
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-matches = Kampe
+newtab-widget-wrexhamafc-view-table = Tabel
+newtab-widget-wrexhamafc-view-fixtures = Kampprogram
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Baggrunde
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1270,6 +1300,12 @@ newtab-widget-menu-move-left = Venstre
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Højre
+# Submenu item under "Move"; pins the widget to Home, the New Tab space the
+# page opens on.
+newtab-widget-menu-move-to-home = Startside
+# Submenu item under "Move"; moves the widget from Home back to the Widgets
+# space, the New Tab space that holds every widget not pinned to Home.
+newtab-widget-menu-move-to-widgets = Widgets
 newtab-widget-size-small = Lille
 newtab-widget-size-medium = Mellem
 newtab-widget-size-large = Stor
@@ -1306,6 +1342,10 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Vis færre widgets
+# Shown in place of a widget's content when the widget could not be loaded.
+# The widget's name is shown and read out separately, just before this message,
+# so this message names no widget.
+newtab-widget-error-not-available = Widget er ikke tilgængelig. Prøv igen senere.
 newtab-widget-lists-name-default = Tjekliste
 
 ## Strings introduced by the Nova redesign of the Timer widget
