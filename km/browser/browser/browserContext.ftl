@@ -293,6 +293,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ប្រើពាក្យសម្ងាត់ដែលបានរក្សាទុក
     .accesskey = o
+
+##
+
 main-context-menu-suggest-strong-password =
     .label = ណែនាំពាក្យសម្ងាត់ខ្លាំង...
     .accesskey = S
@@ -354,6 +357,15 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = ថ្មី
+main-context-menu-pdfjs-copy-page2 =
+    .label = ចម្លងទំព័រ
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = កាត់ទំព័រ
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = លុបទំព័រ
+    .accesskey = l
 main-context-menu-pdfjs-copy-page =
     .label = ចម្លងទំព័រ
 main-context-menu-pdfjs-cut-page =
