@@ -11,6 +11,8 @@ confirmation-hint-password-created = Գաղտնաբառը պահվեց
 confirmation-hint-password-updated = Գաղտնաբառը թարմացվեց
 confirmation-hint-address-created = Հասցեն պահվեց
 confirmation-hint-address-updated = Հասցեն թարմացվեց
+confirmation-hint-payment-method-saved = Վճարամիջոցը պահպանված է
+confirmation-hint-payment-method-updated = Վճարամիջոցը թարմացված է
 confirmation-hint-credit-card-created = Քարտը պահվեց
 confirmation-hint-credit-card-updated = Քարտը թարմացվեց
 confirmation-hint-passport-created = Անձնագիր պահպանված է
@@ -22,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = Ստեղծվե՛ց նոր դիմ�
 confirmation-hint-firefox-relay-mask-reused = Գոյություն ունեցող դիմակը վերաօգտագործվե՛ց
 confirmation-hint-screenshot-copied = Էկրանի պատկերը պատճենվե՛ց
 confirmation-hint-tab-group-saved = Ներդիրների խումբը պահպանվեց
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Գտեք ներդիրների խմբերը այս ընտրացանկում
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

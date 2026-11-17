@@ -373,3 +373,12 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Փակել { $text }-ը
     .title = Փակել { $text }-ը
+
+## Single-page onboarding
+
+smartwindow-onboarding-memories-both = Զրույցներ և դիտարկում
+smartwindow-onboarding-memories-browsing = Միայն դտարկում
+smartwindow-onboarding-memories-chats = Միայն զրույցներ
+smartwindow-onboarding-memories-none = Մի՛ սովորեք գործունեությունից
+smartwindow-onboarding-save =
+    .label = Պահպանել և գնալ

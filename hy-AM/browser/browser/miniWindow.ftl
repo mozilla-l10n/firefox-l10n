@@ -72,5 +72,7 @@ mini-window-overlay-instructions = Քաշեք կամ սեղմեք՝ մինի պ�
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Ընտրեք, թե ինչը տեղափոխել մինի պատուհան
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Էջի մի մասը
 mini-window-panel-move-selection = Տեղափոխել ընտրությունը
 mini-window-panel-move-full-tab = Տեղափոխել ամբողջ ներդիրը
