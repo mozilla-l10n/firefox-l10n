@@ -393,3 +393,9 @@ smartwindow-onboarding-subtitle = Configure o { -smart-window-brand-name } como 
 smartwindow-onboarding-model-label = Escolha o seu modelo de IA
 smartwindow-onboarding-model-description = O modelo potencia conversas e ações no { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Automático
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Recomendado
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } escolhe o melhor modelo para a sua tarefa
+smartwindow-onboarding-model-mistral-description = Bom se conversa e navega em múltiplos idiomas
+smartwindow-onboarding-model-gemini-description = Respostas rápidas quando tem pressa
+smartwindow-onboarding-memories-label = Escolha como o { -smart-window-brand-name } aprende sobre si

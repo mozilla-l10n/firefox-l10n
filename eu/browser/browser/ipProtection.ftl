@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Areagotu babesak { -mozilla-vpn-brand-name }(r)ekin
     .message = Aukeratu 300 kokapen baino gehiagoren artetik eta babestu zure aplikazio guztiak 5 gailura arte.
 ipprotection-locations-subview-promo-button = Eskuratu { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Kokapen gehiago. Babes handiagoa.
+    .message = Lehenetsi { -brand-short-name } eta erabili beste { $count } kokapen. Zure loturak hemen irekitzen dira, VPNa integratuta dagoen tokian.
+ipprotection-locations-subview-set-default-promo-button = Ireki loturak { -brand-short-name } erabiliz
 
 ## VPN paused state
 

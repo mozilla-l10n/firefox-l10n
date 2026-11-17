@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN kudeaketa
 about-webauthn-credential-management-section-title = Kudeatu kredentzialak
 about-webauthn-pin-required-section-title = PINa beharrezkoa
 about-webauthn-confirm-deletion-section-title = Berretsi ezabatzea
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Erregistroa
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometria-matrikulak
 
@@ -31,6 +33,7 @@ about-webauthn-text-non-ctap2-device = Ezin dira aukerak kudeatu zure segurtasun
 about-webauthn-text-not-available = Ez dago erabilgarri plataforma honetan.
 about-webauthn-bio-enrollment-list-subsection-title = Matrikulak:
 about-webauthn-add-bio-enrollment-section-title = Gehitu matrikula berria
+about-webauthn-logging-warning = Erregistroak informazio pertsonala eduki lezake, adibidez erabiltzaile-izenak, kontuen identifikatzaileak eta webguneen helbideak. Berrikus ezazu partekatu aurretik.
 
 ## Results label
 
