@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 페이지를 보내�
 main-context-menu-use-saved-password =
     .label = 저장된 비밀번호 사용
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } 이메일 가리기 사용
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = 신규
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = 베타
+main-context-menu-pdfjs-copy-page2 =
+    .label = 페이지 복사
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = 페이지 잘라내기
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = 페이지 삭제
+    .accesskey = l
+main-context-menu-pdfjs-save-page2 =
+    .label = 선택한 페이지 다른 이름으로 저장…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = 페이지 복사
 main-context-menu-pdfjs-cut-page =
