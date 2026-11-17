@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN pārvaldība
 about-webauthn-credential-management-section-title = Pārvaldīt akreditācijas datus
 about-webauthn-pin-required-section-title = Nepieciešams PIN kods
 about-webauthn-confirm-deletion-section-title = Apstiprināt dzēšanu
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Žurnalēšana
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometriskās reģistrācijas
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Nevar pārvaldīt opcijas, jo jūsu droš
 about-webauthn-text-not-available = Nav pieejams šajā platformā.
 about-webauthn-bio-enrollment-list-subsection-title = Reģistrācija:
 about-webauthn-add-bio-enrollment-section-title = Pievienot jaunu reģistrāciju
+about-webauthn-logging-warning = Žurnālā var būt ietverta personiska informācija, piemēram, lietotājvārdi, konta identifikatori un tīmekļa vietņu adreses. Pirms kopīgošanas pārskatiet to.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Tas reģistrē pieprasījumus tikai { -brand-short-name } vietējai CTAP implementācijai. Tas nereģistrē pieprasījumus platformas WebAuthn API vai pārlūkprogrammas paplašinājumiem.
 
 ## Results label
 
@@ -76,6 +81,12 @@ about-webauthn-add-bio-enrollment-button = Pievienot reģistrāciju
 about-webauthn-cancel-button = Atcelt
 about-webauthn-send-pin-button = Labi
 about-webauthn-delete-button = Dzēst
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Sākt
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Apturēt
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Attīrīt
 about-webauthn-start-enrollment-button = Sākt reģistrāciju
 about-webauthn-update-button = Atjaunināt
 
