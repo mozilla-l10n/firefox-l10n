@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat o
 main-context-menu-use-saved-password =
     .label = Erabili gordetako pasahitza
     .accesskey = h
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Erabili { -relay-brand-short-name } posta-maskara
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Berria
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Kopiatu orria
+    .accesskey = K
+main-context-menu-pdfjs-cut-page2 =
+    .label = Ebaki orria
+    .accesskey = E
+main-context-menu-pdfjs-delete-page2 =
+    .label = Ezabatu orria
+    .accesskey = E
+main-context-menu-pdfjs-save-page2 =
+    .label = Gorde hautapena honela…
+    .accesskey = G
 main-context-menu-pdfjs-copy-page =
     .label = Kopiatu orria
 main-context-menu-pdfjs-cut-page =
