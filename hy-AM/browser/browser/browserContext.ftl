@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Միացրեք սար
 main-context-menu-use-saved-password =
     .label = Օգտվել պահված գաղտնաբառից
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Օգտագործել { -relay-brand-short-name } Էլ․ փոստի դիմակը
     .accesskey = Է
@@ -443,6 +446,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Նոր
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Պատճենել էջը
+    .accesskey = Պ
+main-context-menu-pdfjs-cut-page2 =
+    .label = Կտրել էջը
+    .accesskey = Կ
+main-context-menu-pdfjs-delete-page2 =
+    .label = Ջնջել էջը
+    .accesskey = Ջ
+main-context-menu-pdfjs-save-page2 =
+    .label = Պահպանել ընտրությունը որպես…
+    .accesskey = Պ
 main-context-menu-pdfjs-copy-page =
     .label = Պատճենել էջը
 main-context-menu-pdfjs-cut-page =
