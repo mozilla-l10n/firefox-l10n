@@ -355,6 +355,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Lidhni një Pajisje, 
 main-context-menu-use-saved-password =
     .label = Përdorim Fjalëkalimin e Ruajtur
     .accesskey = F
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Përdor Maskë { -relay-brand-short-name } Email-i
     .accesskey = E
@@ -439,6 +442,18 @@ main-context-menu-reveal-password =
     .accesskey = f
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = E re
+main-context-menu-pdfjs-copy-page2 =
+    .label = Kopjo faqen
+    .accesskey = K
+main-context-menu-pdfjs-cut-page2 =
+    .label = Prije faqen
+    .accesskey = P
+main-context-menu-pdfjs-delete-page2 =
+    .label = Fshije faqen
+    .accesskey = F
+main-context-menu-pdfjs-save-page2 =
+    .label = Ruaje përzgjedhjen si…
+    .accesskey = R
 main-context-menu-pdfjs-copy-page =
     .label = Kopjo faqen
 main-context-menu-pdfjs-cut-page =

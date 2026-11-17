@@ -340,6 +340,9 @@ main-context-menu-send-to-mobile-enable-sync-from-page = താൾ അയയ്�
 main-context-menu-use-saved-password =
     .label = കരുതിവച്ച ഒളിവാക്കിനെ ഉപയോഗിക്കുക
     .accesskey = ഉ
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
     .accesskey = ഉ
@@ -419,6 +422,18 @@ main-context-menu-reveal-password =
     .accesskey = വ
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = പുതിയതു്
+main-context-menu-pdfjs-copy-page2 =
+    .label = താളു പകൎത്തുക
+    .accesskey = ത
+main-context-menu-pdfjs-cut-page2 =
+    .label = താളു മുറിക്കുക
+    .accesskey = ത
+main-context-menu-pdfjs-delete-page2 =
+    .label = താളു മായ്ക്കുക
+    .accesskey = ത
+main-context-menu-pdfjs-save-page2 =
+    .label = തിരഞ്ഞെടുത്തതു പേരോടെ കരുതിവയ്ക്കക…
+    .accesskey = ത
 main-context-menu-pdfjs-copy-page =
     .label = താളു പകൎത്തുക
 main-context-menu-pdfjs-cut-page =

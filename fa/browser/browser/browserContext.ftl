@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = برای ارسال �
 main-context-menu-use-saved-password =
     .label = استفاده از گذرواژهٔ ذخیره‌شده
     .accesskey = گ
+
+##
+
 main-context-menu-use-relay-mask =
     .label = استفاده از ماسک ایمیل { -relay-brand-short-name }
     .accesskey = م
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = جدید
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = بتا
+main-context-menu-pdfjs-copy-page2 =
+    .label = کپی صفحه
+    .accesskey = ک
+main-context-menu-pdfjs-cut-page2 =
+    .label = برش صفحه
+    .accesskey = ب
+main-context-menu-pdfjs-delete-page2 =
+    .label = حذف صفحه
+    .accesskey = ح
+main-context-menu-pdfjs-save-page2 =
+    .label = ذخیرهٔ قسمت انتخاب‌شده با نام…
+    .accesskey = ذ
 main-context-menu-pdfjs-copy-page =
     .label = کپی صفحه
 main-context-menu-pdfjs-cut-page =

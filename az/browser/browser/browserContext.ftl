@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Səhifə Göndərmək
 main-context-menu-use-saved-password =
     .label = Saxlanmış Parolu İşlət
     .accesskey = P
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } E-poçt Maskası İşlət
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Yeni
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Səhifəni köçür
+    .accesskey = S
+main-context-menu-pdfjs-cut-page2 =
+    .label = Səhifəni kəs
+    .accesskey = S
+main-context-menu-pdfjs-delete-page2 =
+    .label = Səhifəni sil
+    .accesskey = S
+main-context-menu-pdfjs-save-page2 =
+    .label = Seçimi fərqli saxla…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Səhifəni köçür
 main-context-menu-pdfjs-cut-page =

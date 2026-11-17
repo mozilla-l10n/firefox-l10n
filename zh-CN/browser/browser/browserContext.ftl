@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 连接设备以发送
 main-context-menu-use-saved-password =
     .label = 使用保存的密码
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 马甲邮箱
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = 新
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = 测试版
+main-context-menu-pdfjs-copy-page2 =
+    .label = 复制页面
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = 剪切页面
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = 删除页面
+    .accesskey = l
+main-context-menu-pdfjs-save-page2 =
+    .label = 另存选中内容为…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = 复制页面
 main-context-menu-pdfjs-cut-page =

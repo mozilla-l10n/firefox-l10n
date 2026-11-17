@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Csatlakoztasson egy e
 main-context-menu-use-saved-password =
     .label = Mentett jelszó használata
     .accesskey = j
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } e-mail-maszk használata
     .accesskey = e
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Új
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Oldal másolása
+    .accesskey = O
+main-context-menu-pdfjs-cut-page2 =
+    .label = Oldal kivágása
+    .accesskey = O
+main-context-menu-pdfjs-delete-page2 =
+    .label = Oldal törlése
+    .accesskey = O
+main-context-menu-pdfjs-save-page2 =
+    .label = Kiválasztás mentése másként…
+    .accesskey = K
 main-context-menu-pdfjs-copy-page =
     .label = Oldal másolása
 main-context-menu-pdfjs-cut-page =

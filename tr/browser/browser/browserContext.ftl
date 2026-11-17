@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Sayfa göndermek içi
 main-context-menu-use-saved-password =
     .label = Kayıtlı parolayı kullan
     .accesskey = u
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } e-posta maskesini kullan
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Yeni
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Sayfayı kopyala
+    .accesskey = S
+main-context-menu-pdfjs-cut-page2 =
+    .label = Sayfayı kes
+    .accesskey = S
+main-context-menu-pdfjs-delete-page2 =
+    .label = Sayfayı sil
+    .accesskey = S
+main-context-menu-pdfjs-save-page2 =
+    .label = Seçimi farklı kaydet…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Sayfayı kopyala
 main-context-menu-pdfjs-cut-page =

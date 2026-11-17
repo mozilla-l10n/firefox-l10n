@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Konektu aparaton por 
 main-context-menu-use-saved-password =
     .label = Uzi konservitan pasvorton
     .accesskey = p
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Uzi retpoŝtan maskon de { -relay-brand-short-name }
     .accesskey = r
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Nova
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Kopii paĝon
+    .accesskey = K
+main-context-menu-pdfjs-cut-page2 =
+    .label = Eltondi paĝon
+    .accesskey = E
+main-context-menu-pdfjs-delete-page2 =
+    .label = Forigi paĝon
+    .accesskey = F
+main-context-menu-pdfjs-save-page2 =
+    .label = Konservi elektaĵon kiel…
+    .accesskey = K
 main-context-menu-pdfjs-copy-page =
     .label = Kopii paĝon
 main-context-menu-pdfjs-cut-page =

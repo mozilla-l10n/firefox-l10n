@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Бетті жібер
 main-context-menu-use-saved-password =
     .label = Сақталған парольді қолдану
     .accesskey = о
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } эл. пошта маскасын қолдану
     .accesskey = о
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Жаңа
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Бета
+main-context-menu-pdfjs-copy-page2 =
+    .label = Бетті көшіру
+    .accesskey = Б
+main-context-menu-pdfjs-cut-page2 =
+    .label = Бетті қиып алу
+    .accesskey = Б
+main-context-menu-pdfjs-delete-page2 =
+    .label = Бетті өшіру
+    .accesskey = Б
+main-context-menu-pdfjs-save-page2 =
+    .label = Таңдауды қалайша сақтау…
+    .accesskey = Т
 main-context-menu-pdfjs-copy-page =
     .label = Бетті көшіру
 main-context-menu-pdfjs-cut-page =

@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = پیج بھیجݨ ک�
 main-context-menu-use-saved-password =
     .label = محفوظ پاس ورڈ استعمال کرو
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ای میل مسسک ورتو
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = نواں
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = پیج کاپی کرو
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = پیج کٹ کرو
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = پیج حذف کرو
+    .accesskey = l
+main-context-menu-pdfjs-save-page2 =
+    .label = منتخب کوں محفوظ کرو…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = پیج کاپی کرو
 main-context-menu-pdfjs-cut-page =

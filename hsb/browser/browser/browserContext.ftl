@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Zwjazajće grat, zo b
 main-context-menu-use-saved-password =
     .label = Składowane hesło wužiwać
     .accesskey = h
+
+##
+
 main-context-menu-use-relay-mask =
     .label = E-mejlowu masku { -relay-brand-short-name } wužiwać
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Nowy
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Stronu kopěrować
+    .accesskey = S
+main-context-menu-pdfjs-cut-page2 =
+    .label = Stronu wutřihać
+    .accesskey = S
+main-context-menu-pdfjs-delete-page2 =
+    .label = Stronu zhašeć
+    .accesskey = S
+main-context-menu-pdfjs-save-page2 =
+    .label = Wuběr składować jako…
+    .accesskey = W
 main-context-menu-pdfjs-copy-page =
     .label = Stronu kopěrować
 main-context-menu-pdfjs-cut-page =

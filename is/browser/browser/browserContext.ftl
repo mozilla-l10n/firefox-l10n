@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tengdu tæki til að 
 main-context-menu-use-saved-password =
     .label = Nota vistað lykilorð
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Notaðu { -relay-brand-short-name } tölvupósthulu
     .accesskey = o
@@ -443,6 +446,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Nýtt
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta-prófunarútgáfa
+main-context-menu-pdfjs-copy-page2 =
+    .label = Afrita síðu
+    .accesskey = A
+main-context-menu-pdfjs-cut-page2 =
+    .label = Klippa síðu
+    .accesskey = K
+main-context-menu-pdfjs-delete-page2 =
+    .label = Eyða síðu
+    .accesskey = E
+main-context-menu-pdfjs-save-page2 =
+    .label = Vista val sem…
+    .accesskey = V
 main-context-menu-pdfjs-copy-page =
     .label = Afrita síðu
 main-context-menu-pdfjs-cut-page =

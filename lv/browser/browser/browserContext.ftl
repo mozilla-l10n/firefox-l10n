@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Pievienojiet ierīci,
 main-context-menu-use-saved-password =
     .label = Izmantot saglabāto paroli
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Izmantot { -relay-brand-short-name } e-pasta aizsegu
     .accesskey = e
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Jaunums
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Kopēt lapu
+    .accesskey = K
+main-context-menu-pdfjs-cut-page2 =
+    .label = Izgriezt lapu
+    .accesskey = z
+main-context-menu-pdfjs-delete-page2 =
+    .label = Dzēst lapu
+    .accesskey = D
+main-context-menu-pdfjs-save-page2 =
+    .label = Saglabāt atlasīto kā...
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Kopēt lapu
 main-context-menu-pdfjs-cut-page =

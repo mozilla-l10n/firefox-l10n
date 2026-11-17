@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Embojuaju mba’e’o
 main-context-menu-use-saved-password =
     .label = Eiporu ñe’ẽñemi ñongatupyre
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Eiporu { -relay-brand-short-name } Email Mask
     .accesskey = E
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Pyahu
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Embokuatia kuatiarogue
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = Eikytĩ kuatiarogue
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = Embogue kuatiarogue
+    .accesskey = l
+main-context-menu-pdfjs-save-page2 =
+    .label = Eñongatu jeporavopy…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = Embokuatia kuatiarogue
 main-context-menu-pdfjs-cut-page =

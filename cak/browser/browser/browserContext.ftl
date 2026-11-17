@@ -325,6 +325,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Tokisäx Yakon Ewan Tzij
     .accesskey = z
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Tokisäx Ruk'oj rutaqoya'l { -relay-brand-short-name }
     .accesskey = t
@@ -406,6 +409,18 @@ main-context-menu-reveal-password =
     .accesskey = k
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = K'ak'a'
+main-context-menu-pdfjs-copy-page2 =
+    .label = Tiwachib'ëx ruxaq
+    .accesskey = T
+main-context-menu-pdfjs-cut-page2 =
+    .label = Tiqupïx ruxaq
+    .accesskey = T
+main-context-menu-pdfjs-delete-page2 =
+    .label = Tiyuj ruxaq
+    .accesskey = T
+main-context-menu-pdfjs-save-page2 =
+    .label = Tiyak achi'el…
+    .accesskey = T
 main-context-menu-pdfjs-copy-page =
     .label = Tiwachib'ëx ruxaq
 main-context-menu-pdfjs-cut-page =
