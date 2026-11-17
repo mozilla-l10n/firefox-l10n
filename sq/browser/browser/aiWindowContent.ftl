@@ -150,11 +150,29 @@ smart-window-switched-tab-summary = U kalua te “{ $title }”.
 
 ## Action log
 
+action-log-searching-history = Kërkim në historik
+action-log-searched-history = U kërkua në historik
 action-log-reading-page = Lexim faqeje
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Lënda e faqes u lexua
 action-log-searching-web = Kërkim në web
 action-log-searched-web = U kërkua në web
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Po kërkohet në web me <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = U kërkua në web me <a data-l10n-name="exa-link">Exa</a>
+# Shown instead of action-log-searched-web-with-exa when Exa both searched the
+# web and wrote the reply shown to the user, rather than the assistant answering
+# from the search results. Exa is the name of a third-party web search API and a
+# brand name that should not be translated. The <a> wraps "Exa" as a link to a
+# support article explaining the third-party web search integration.
+action-log-searched-and-answered-with-exa = U kërkua me dhe u dha përgjigje me <a data-l10n-name="exa-link">Exa</a>
+action-log-checking-memories = Kontroll kujtesash
+action-log-checked-memories = U kontrolluan kujtesa
 action-log-searching-settings = U kërkua te regjistra
 action-log-searched-settings = U kërkua te regjistrat
 # Variables

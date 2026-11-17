@@ -148,6 +148,7 @@ aiwindow-input-model-select-settings-link = Rregullime modeli
 
 aiwindow-firstrun-memories-title = Më tepër përgjigje të dobishme, sipas kushteve tuaja
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } mund të nxërë nga fjalosjet tuaja, shfletimi, ose nga të dy për të krijuar kujtesa. Përgjatë kohës, ato i bëjnë përgjigjet më të dobishme.
+aiwindow-firstrun-memories-conversation-title = Mbani bisedën gjallë
 aiwindow-firstrun-memories-conversation-body = Të nxënit nga fjalosjet do të thotë se do t’ju duhet të përsëritni më pak veten.
 aiwindow-firstrun-memories-relevance-title = Përgjigjet më me peshë
 aiwindow-firstrun-memories-relevance-body = Të nxënit nga shfletimi i jep { -smart-window-brand-name } kuadër më të gjerë.
@@ -341,6 +342,12 @@ aiwindow-feedback-include-page-content = Jep faqet e referuara në këtë fjalos
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Ndërro skemë pamjeje
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Ndërroni mënyrë: Pamje Si Listë
+    .tooltiptext = Pamje Si Listë
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Ndërroni mënyrë: Pamje Si Mozaik
+    .tooltiptext = Pamje Si Mozaik
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
@@ -352,6 +359,7 @@ aiwindow-starter-writing-first-draft = Shkruani një skicë të parë
 aiwindow-starter-writing-improve = Përmirëso shkrimin
 aiwindow-starter-writing-proofread = Kontrolloni një mesazh
 aiwindow-starter-planning-simplify = Thjeshtoni një subjekt
+aiwindow-starter-planning-brainstorm = Gjeni ide
 aiwindow-starter-planning-plan = Ndihmoni të hartohet një plan
 aiwindow-starter-browsing-history = Gjeni skeda në historik
 aiwindow-starter-browsing-summarize = Përmblidh skeda
@@ -372,3 +380,21 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Hidhe tej { $text }
     .title = Hidhe tej { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Funksionon teksa mbaroni punë.
+    Planifikoni, krahasoni, eksploroni, etj.
+smartwindow-onboarding-title = Le ta bëjmë tuajin
+smartwindow-onboarding-subtitle = Ujdiseni { -smart-window-brand-name } si doni. Bëni kurdo ndryshime, që nga rregullimet.
+smartwindow-onboarding-model-label = Zgjidhni modelin tuaj IA
+smartwindow-onboarding-model-description = Modeli përdoret për fjalosje dhe veprime në { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Automatik
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = I rekomanduar
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } zgjedh modelin për punën tuaj
+smartwindow-onboarding-model-mistral-description = I mirë, nëse fjaloseni dhe shfletoni në shumë gjuhë
+smartwindow-onboarding-model-gemini-description = Përgjigje të shpejta, kur lëvizni shpejt
+smartwindow-onboarding-memories-label = Zgjidhni se si mëson rreth jush { -smart-window-brand-name }
