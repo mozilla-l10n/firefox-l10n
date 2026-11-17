@@ -72,5 +72,9 @@ mini-window-overlay-instructions = Ziehen oder klicken Sie, um einen Bereich aus
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Auswahl, was ins Mini-Fenster verschoben wird
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Teil der Seite
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Ganze Seite
 mini-window-panel-move-selection = Auswahl verschieben
 mini-window-panel-move-full-tab = Gesamten Tab verschieben
