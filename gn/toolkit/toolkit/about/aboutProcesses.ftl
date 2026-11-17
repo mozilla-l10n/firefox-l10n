@@ -46,6 +46,14 @@ about-processes-profile-process =
            *[other] Opavave inimbo mba’etee ko tapereko hetaiterei { $duration } aravo’ive
         }
 
+## Search
+
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Eheka tendaykeita
+    .placeholder = Eheka tendaykeita
+
 ## Column headers
 
 about-processes-column-name = Téra

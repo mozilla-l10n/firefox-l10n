@@ -76,5 +76,9 @@ mini-window-overlay-instructions = Llusgwch neu clicio'r dewis ardal i symud i F
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Dewiswch beth i'w symud i Ffenestr Fach
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Rhan o dudalen
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Tudalen lawn
 mini-window-panel-move-selection = Symud y dewis
 mini-window-panel-move-full-tab = Symud tab llawn

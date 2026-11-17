@@ -645,6 +645,11 @@ support-get-help =
 support-share-ideas =
     .label = Emoherakuã ãroky ha ñe’ẽngue
 
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = Mboheraguapy
+
 ## General Section - Performance
 
 performance-settings-learn-more = Kuaave

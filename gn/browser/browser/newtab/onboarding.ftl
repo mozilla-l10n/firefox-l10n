@@ -621,4 +621,8 @@ welcome-back-onboarding-card-tilebutton-label = Eha’ã jey
 ## New Tab Onboarding cards
 
 hnt-card-import-primary-button = Egueru mba’ekuaarã
+hnt-card-default-primary-button = Embojuruja juajuha { -brand-short-name } ndive
+hnt-card-wallpaper-header = Eiporavo mba’erechaha rugua pyahu
+hnt-card-wallpaper-primary-button = Eñepyrũ emboava
+hnt-card-taskbar-tabs-primary-button = Embojuaju tendayke tembiaporã rupáre
 hnt-card-extensions-primary-button = Ehapykueho

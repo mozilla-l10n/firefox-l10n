@@ -134,6 +134,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Embojuaju kuatiarogue techaukaháre…
 sidebar-history-context-menu-delete-pages =
     .label = Emboguete kuatiarogu rembiasakue
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Mboguete
 
 ## Labels for sidebar bookmarks context menu items
 

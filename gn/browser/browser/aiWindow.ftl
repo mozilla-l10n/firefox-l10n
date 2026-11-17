@@ -378,3 +378,12 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Ehejarei { $text }
     .title = Ehejarei { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-model-auto = Jehegui
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Jeroviaha
+smartwindow-onboarding-memories-chats = Chatea añoite
+smartwindow-onboarding-save =
+    .label = Eñongatu ha eku’ejey

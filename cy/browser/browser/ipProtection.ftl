@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Ewch â'r diogelu ymhellach gyda { -mozilla-vpn-brand-name }
     .message = Dewiswch o 300+ o leoliadau a diogelu eich apiau ar hyd at 5 dyfais.
 ipprotection-locations-subview-promo-button = Cael { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Mwy o leoliadau. Mwy o ddiogelwch.
+    .message = Gwnewch { -brand-short-name } fel eich porwr arferol a chael { $count } yn fwy o leoliadau. Mae eich dolenni'n agor yma, pan fydd y VPN yn gynhenid
+ipprotection-locations-subview-set-default-promo-button = Agor dolenni gyda { -brand-short-name }
 
 ## VPN paused state
 

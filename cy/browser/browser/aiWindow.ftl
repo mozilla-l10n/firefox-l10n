@@ -397,3 +397,27 @@ smartwindow-onboarding-welcome-subtitle =
     Mae'n gweithio ochr yn ochr â chi i wneud pethau.
     Cynllunio, cymharu, archwilio, a mwy.
 smartwindow-onboarding-title = Gadewch i ni ei wneud yn addas i chi
+smartwindow-onboarding-subtitle = Gallwch osod { -smart-window-brand-name } fel sydd orau i chi. Gwnewch newidiadau unrhyw bryd yn y gosodiadau.
+smartwindow-onboarding-model-label = Dewiswch eich model AI
+smartwindow-onboarding-model-description = Mae'r model yn pweru sgyrsiau a gweithredoedd yn { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Awto
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Cymeradwy
+smartwindow-onboarding-model-auto-description = Mae { -smart-window-brand-name } yn dewis y model gorau ar gyfer eich tasg
+smartwindow-onboarding-model-mistral-description = Yn dda os ydych chi'n sgwrsio a phori mewn sawl iaith
+smartwindow-onboarding-model-gemini-description = Atebion cyflym pan fyddwch chi'n symud yn gyflym
+smartwindow-onboarding-memories-label = Dewiswch sut mae { -smart-window-brand-name } yn dysgu amdanoch chi
+smartwindow-onboarding-memories-description = Gall { -smart-window-brand-name } ddysgu o sgyrsiau, pori, neu'r ddau i greu atgofion. Mae'n eu defnyddio i bersonoli'ch profiad dros amser.
+smartwindow-onboarding-memories-both = Sgyrsiau a phori
+smartwindow-onboarding-memories-browsing = Dim ond pori
+smartwindow-onboarding-memories-chats = Dim ond sgyrsiau
+smartwindow-onboarding-memories-none = Peidio dysgu o weithgaredd
+smartwindow-onboarding-memories-both-description = Sgyrsiau yn { -smart-window-brand-name } , yn pori ar draws { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Yn pori ar draws { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Sgyrsiau yn { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Byddwch yn gweld llai o awgrymiadau wedi'u teilwra ac efallai y bydd angen i chi ailadrodd manylion ar draws sgyrsiau.
+smartwindow-onboarding-default-window =
+    .description = Defnyddiwch ef pan fydd { -brand-short-name } yn cychwyn, yn ailgychwyn, neu'n agor dolenni o apiau eraill.
+    .label = Cychwyn yn { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Cadw a mynd
