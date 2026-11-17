@@ -15,8 +15,12 @@ appmenuitem-banner-update-unsupported =
     .label = S’arrihet të përditësohet — mospërputhje sistemi
 appmenuitem-banner-update-restart =
     .label = Përditësim gati — riniseni tani
+appmenu-nova-update-title = Që të përditësohet { -brand-short-name }-i, riniseni
 appmenu-nova-update-description = Skedat tuaja do të rihapen.
 appmenu-nova-fxa-sign-in = Hyni
+appmenu-nova-switch-device-promo =
+    .message = Ju vjen pajisje e re së shpejti? Merreni { -brand-short-name }-in me ju!
+appmenu-nova-switch-device-link = Si të migroni të dhënat tuaja
 appmenuitem-new-tab =
     .label = Skedë e re
 appmenuitem-new-window =
@@ -43,8 +47,15 @@ appmenuitem-translate =
     .label = Përktheni faqen…
 appmenuitem-zoom =
     .value = Zmadhim/Zvogëlim
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Jepuani { -brand-product-name }-in të tjerëve
 appmenuitem-more-tools =
     .label = Më Tepër Mjete
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ndihmë dhe Njoftim
 appmenuitem-help =
     .label = Ndihmë
 appmenuitem-exit2 =
@@ -119,6 +130,10 @@ fxa-menu-sync-status-turn-on-button-aria-label = Aktivizojeni
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Për njëkohësim, bëni hyrjen
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Njëkohësoje { $deviceName } Që Tani
 fxa-menu-manage-sync-settings =
     .label = Administroni Rregullime Njëkohësimi
 fxa-menu-add-device =
@@ -133,6 +148,8 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Krejt Pajisjet
+fxa-menu-get-firefox-mobile =
+    .label = Merrni { -brand-product-name } për Android ose iOS
 fxa-menu-secure-sync-subpanel =
     .title = Njëkohësim i siguruar
 appmenu-account-header = Llogari
@@ -148,6 +165,9 @@ appmenu-fxa-signed-in-label = Hyni
 # dismiss it, after which the compact sign-in row is shown in its place.
 appmenu-fxa-sign-in-promo-heading2 = Njëkohësoni të dhënat tuaja kudo
 appmenu-fxa-sign-in-promo-link = Hyni
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Hidheni tej promocionin gjatë hyrjes në llogari
+    .title = Hidheni tej
 appmenu-fxa-setup-sync =
     .label = Aktivizoni Sync-un…
 appmenu-fxa-setup-sync-new = Aktivizoje
@@ -257,7 +277,11 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Qëndroni i njëkohësuar nëpër pajisje
 appmenu-sync-promo-signin-cta = Hyni
+appmenu-sync-promo-turnonsync =
+    .heading = Njëkohësoni skedat dhe historikun tuaj
 appmenu-sync-promo-turnonsync-cta = Aktivizo njëkohësim
 appmenu-sync-promo-connectdevice-cta = Lidhni një pajisje
 

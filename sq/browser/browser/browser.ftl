@@ -965,6 +965,14 @@ urlbar-view-context-menu-open-in-container-tab =
 urlbar-view-context-menu-open-in-window =
     .label = Hape në Dritare të Re
     .accesskey = H
+urlbar-view-context-menu-search-in-private-window = Kërkoni në Dritare Private të Re
+    .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Anashkaloje këtë menu, kur përdoret tasti TAB
+    .accesskey = A
 
 ## Labels shown above groups of urlbar results
 
@@ -1035,6 +1043,9 @@ fullscreen-warning-no-domain = Ky dokument tani shfaqet sa krejt ekrani
 fullscreen-exit-button = Dilni nga Sa Krejt Ekrani (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Dilni Nga Sa Krejt Ekrani (esc)
+fullscreen-keyboardlock-exit-button = Dil Nga Mënyra “Sa Krejt Ekrani” (Shtypni dhe mbani të shtypur tastin Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Dil Nga Mënyra “Sa Krejt Ekrani” (Shtypni dhe mbani të shtypur tastin esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1162,12 +1173,18 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Skeda të Njëkohësuara
     .tooltiptext = Shfaqni skeda nga pajisje të tjera
+toolbar-button-send-tab =
+    .label = Dërgoni skedë
+    .tooltiptext = Dërgojeni skedën e tanishme te një tjetër pajisje
 toolbar-button-new-private-window =
     .label = Dritare e re private
     .tooltiptext = Hapni një dritare të re shfletimi privat ({ $shortcut })
 toolbar-button-share-tab =
     .label = Ndajeni me të tjerët
     .tooltiptext = Ndajeni këtë faqe me të tjerët
+toolbar-button-tab-groups =
+    .label = Grupe skedash
+    .tooltiptext = Shfaqni grupet tuaj të skedave
 toolbar-button-history =
     .label = Historik
     .tooltiptext = Shfaqni historikun tuaj ({ $shortcut })
@@ -1207,6 +1224,9 @@ toolbar-button-paste =
 ## is added automatically.
 
 qrcode-save-filename-base = kodqr
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1323,6 +1343,9 @@ tabs-toolbar =
     .aria-label = Skedash shfletuesi
 tabs-toolbar-new-tab =
     .label = Skedë e Re
+tabs-toolbar-list-all-tabs-2 =
+    .label = Kërkoni dhe administroni skeda
+    .tooltiptext = Kërkoni dhe administroni skeda
 tabs-toolbar-list-all-tabs =
     .label = Paraqiti krejt skedat
     .tooltiptext = Paraqiti krejt skedat
@@ -1347,6 +1370,8 @@ filepicker-blocked-infobar = Enti juaj e ka bllokuar hyrjen te kartela vendore n
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } tani kërkon skeda
+urlbar-addons-shortcut-moved-description = Që të hapni zgjerime dhe tema, përdorni { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Administroni shkurtore
 urlbar-addons-shortcut-moved-dismiss = E mora vesh
 
@@ -1366,6 +1391,9 @@ private-browsing-indicator-button =
     .tooltiptext = Hollësi shfletimi privat
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Gjendeni në Dritare Private
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Kjo ndihmon të mbahet shfletimi juaj i fshehur nga të tjerë në këtë pajisje, por s’ju bën të padukshëm në internet. <a data-l10n-name="learn-more">Cilët mund të jenë në gjendje të shohin veprimtarinë time?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
