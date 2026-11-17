@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN кодтарын басқару
 about-webauthn-credential-management-section-title = Тіркелу деректерін басқару
 about-webauthn-pin-required-section-title = PIN коды керек
 about-webauthn-confirm-deletion-section-title = Өшіруді растау
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Журналдау
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Биометриялық тіркелулер
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Параметрлерді басқару
 about-webauthn-text-not-available = Бұл платформада қолжетімді емес.
 about-webauthn-bio-enrollment-list-subsection-title = Тіркелулер:
 about-webauthn-add-bio-enrollment-section-title = Жаңа тіркелуді қосу
+about-webauthn-logging-warning = Журналда пайдаланушы аттары, тіркелгі идентификаторлары және веб-сайт мекенжайлары сияқты жеке ақпарат болуы мүмкін. Бөлісу алдында оны қарап шығыңыз.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Бұл тек { -brand-short-name } жергілікті CTAP іске асыруына сұраныстарды тіркейді. Ол платформаның WebAuthn API интерфейстеріне немесе браузер кеңейтулеріне сұраныстарды тіркемейді.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Тіркелуді қосу
 about-webauthn-cancel-button = Бас тарту
 about-webauthn-send-pin-button = ОК
 about-webauthn-delete-button = Өшіру
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Бастау
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Тоқтату
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Тазарту
 about-webauthn-start-enrollment-button = Тіркелуді бастау
 about-webauthn-update-button = Жаңарту
 
