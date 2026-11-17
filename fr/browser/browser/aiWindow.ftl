@@ -387,7 +387,7 @@ aiwindow-starter-dismiss =
 # The line break is intentional and is preserved when displayed.
 smartwindow-onboarding-welcome-subtitle = Il travaille à vos côtés pour accomplir vos tâches. Planifiez, comparez, explorez et bien plus encore.
 smartwindow-onboarding-title = Adaptons-le à vous
-smartwindow-onboarding-subtitle = Configurez { -smart-window-brand-name } comme bon vous semble. Modifiez-les à tout moment depuis les paramètres.
+smartwindow-onboarding-subtitle = Personnalisez les { -smart-window-brand-name(form: "lower-plural") } selon vos préférences. Vous pourrez modifier ces choix à tout moment dans les paramètres.
 smartwindow-onboarding-model-label = Choisissez votre modèle d’IA
 smartwindow-onboarding-model-description = Le modèle alimente les discussions et les actions dans { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Auto
