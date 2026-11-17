@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = დააკავშ
 main-context-menu-use-saved-password =
     .label = შენახული პაროლის გამოყენება
     .accesskey = ო
+
+##
+
 main-context-menu-use-relay-mask =
     .label = გამოიყენეთ { -relay-brand-short-name } ელფოსტის შესანიღბად
     .accesskey = ე
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = სიახლე
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = გვერდის ასლი
+    .accesskey = გ
+main-context-menu-pdfjs-cut-page2 =
+    .label = გვერდის ამოჭრა
+    .accesskey = გ
+main-context-menu-pdfjs-delete-page2 =
+    .label = გვერდის წაშლა
+    .accesskey = გ
+main-context-menu-pdfjs-save-page2 =
+    .label = შერჩეულების შენახვა…
+    .accesskey = შ
 main-context-menu-pdfjs-copy-page =
     .label = გვერდის ასლი
 main-context-menu-pdfjs-cut-page =
