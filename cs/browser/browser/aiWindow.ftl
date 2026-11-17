@@ -406,3 +406,12 @@ smartwindow-onboarding-model-label = Vyberte si model umělé inteligence
 smartwindow-onboarding-model-auto = Automaticky
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Doporučené
+smartwindow-onboarding-model-auto-description = Funkce { -smart-window-brand-name } zvolí nejvhodnější model pro váš úkol
+smartwindow-onboarding-model-mistral-description = Ideální pro chatování a prohlížení webu ve více jazycích
+smartwindow-onboarding-model-gemini-description = Rychlé odpovědi, když jste v jednom kole
+smartwindow-onboarding-memories-label = Vyberte, jak vás má funkce { -smart-window-brand-name } poznávat
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } se může učit z chatů, procházení webu nebo obojího a vytvářet si vzpomínky. Ty pak postupně využívá k přizpůsobení vašich zkušeností.
+smartwindow-onboarding-memories-both = Chaty a prohlížení
+smartwindow-onboarding-memories-browsing = Pouze procházení
+smartwindow-onboarding-memories-chats = Pouze chaty
+smartwindow-onboarding-memories-none = Neučit se z aktivity
