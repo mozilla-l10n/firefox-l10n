@@ -1294,6 +1294,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Sito ingannevole
+safebrowsing-reported-attack-site-message = Segnalato sito malevolo
+safebrowsing-reported-unwanted-site-message = Segnalato sito contenente software indesiderato
+safebrowsing-reported-harmful-site-message = Segnalato sito dannoso
+safebrowsing-get-me-out-of-here-button =
+    .label = Allontanarsi da questo sito
+    .accesskey = A
+safebrowsing-not-a-deceptive-site-button =
+    .label = Non è un sito ingannevole…
+    .accesskey = N
+safebrowsing-not-an-attack-site-button =
+    .label = Non è un sito malevolo…
+    .accesskey = N
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1310,6 +1323,10 @@ captive-portal-show-login-page-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Forse volevi aprire { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Sì, apri { $hostName }
+    .accesskey = S
 
 ## Password save/update panel
 
