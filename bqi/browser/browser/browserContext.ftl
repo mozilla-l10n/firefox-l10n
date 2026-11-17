@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = منپیز دسگا �
 main-context-menu-use-saved-password =
     .label = و کار گرؽڌن رزم زفت وابیڌه
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = و کار گرؽڌن ماسک ایمیل { -relay-brand-short-name }
     .accesskey = E
@@ -448,6 +451,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = نۊ
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = آزمایشی
+main-context-menu-pdfjs-copy-page2 =
+    .label = لف گیری بلگه
+    .accesskey = o
+main-context-menu-pdfjs-cut-page2 =
+    .label = بورش بلگه
+    .accesskey = g
+main-context-menu-pdfjs-delete-page2 =
+    .label = پاک کردن بلگه
+    .accesskey = l
+main-context-menu-pdfjs-save-page2 =
+    .label = زفت پسند و عونوان…
+    .accesskey = S
 main-context-menu-pdfjs-copy-page =
     .label = لف گیری بلگه
 main-context-menu-pdfjs-cut-page =
