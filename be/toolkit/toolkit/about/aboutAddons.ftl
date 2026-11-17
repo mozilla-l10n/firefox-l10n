@@ -274,6 +274,9 @@ colorway-removal-notice-button = Атрымаць абноўленыя тэмы 
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Вашы налады кантраснасці Windows перавызначаюць тэмы { -brand-short-name }. Выключыце гэтыя налады, каб выкарыстоўваць тэмы ў { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } мае ўласныя ўбудаваныя светлыя і цёмныя тэмы, якія адпавядаюць наладам вашай сістэмы.
 privacy-policy = Палітыка прыватнасці
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -73,5 +73,9 @@ mini-window-overlay-instructions = Перацягніце або націсні�
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Абярыце, што перамясціць у міні-акно
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Частку старонкі
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Усю старонку
 mini-window-panel-move-selection = Перамясціць вылучэнне
 mini-window-panel-move-full-tab = Перамясціць усю картку
