@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = 依照您的偏好選擇模型。
     .label = 助理模型
+smart-window-model-section-v2 =
+    .description = 模型是聊天與動作功能的核心。
+    .label = 模型
 smart-window-model-radio-group =
     .aria-label = 助理模型
 smart-window-model-learn-link = 了解各種模型的相關資訊
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } 會挑選最適合您任務的模型
+    .label = 自動選擇模型
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -68,6 +74,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = 已儲存模型資訊，請發起新聊天進行測試。
 ai-window-memories-section =
     .description = { -brand-short-name } 可從您的上網行為建立記憶。記憶會儲存在本裝置中，用來回覆更符合您的內容。
+    .label = 記憶
+ai-window-memories-section-v2 =
+    .description = { -brand-short-name } 可以從您的使用過程中學習，以建立記憶。記憶會儲存在您的裝置中，幫助調整您的使用體驗。
     .label = 記憶
 ai-window-learn-from-chat-activity =
     .label = 從{ -smart-window-brand-name }的對話學習
