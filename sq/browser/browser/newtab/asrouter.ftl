@@ -433,13 +433,20 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe kijeni te Paneli juaj.
        *[other] Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe kijeni te paneli juaj i punëve.
     }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Bëjeni parazgjedhjen tuaj dhe mbajeni në Dock-un tuaj.
+       *[other] Përfitoni shfletim më të shpejtë dhe mbrojtje të automatizuar privatësie.
+    }
 set-default-menu-message-primary-button = Vëre si parazgjedhje
 set-default-menu-message-primary-button-variant = Vëre si shfletuesin parësor
+set-default-menu-message-primary-button-short-variant = Bëjeni { -brand-short-name }-in parazgjedhje
 
 ## Firefox Relay 50 Masks Announcement
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 maska email-i, nga ne
+relay-50-masks-announcement-subtitle = Tani përfitoni 50 maska falas (nga 5 më parë). Përdorni një për secilën llogari, për ta mbajtur privat email-in tuaj të njëmendtë.
 relay-50-masks-announcement-primary-button = Kalo te { -relay-brand-name }
     .accesskey = K
 relay-50-masks-announcement-secondary-button = Hidhe tej
