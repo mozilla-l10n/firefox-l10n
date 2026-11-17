@@ -73,5 +73,9 @@ mini-window-overlay-instructions = Velc vai klikšķini uz apgabala, lai pārvie
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Izvēlies, ko vēlies pāŗvietot uz sīklogu
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Lapas daļa
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Pilna lapa
 mini-window-panel-move-selection = Pārvietot atlasīto
 mini-window-panel-move-full-tab = Pārvietot visu cilni

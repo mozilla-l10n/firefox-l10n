@@ -653,6 +653,14 @@ support-get-help =
 support-share-ideas =
     .label = Dalieties idejās un atsauksmēs
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Saņemiet norādījumus, padomus un jaunumus, lai jūsu { -brand-product-name } pieredze būtu pēc iespējas labāka.
+    .label = { -brand-product-name } jaunumi
+newsletter-sign-up-link =
+    .label = Reģistrēties
+
 ## General Section - Performance
 
 performance-settings-learn-more = Uzzināt vairāk

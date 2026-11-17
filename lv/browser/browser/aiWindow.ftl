@@ -383,3 +383,35 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Noraidīt { $text }
     .title = Noraidīt { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Tas strādā kopā ar jums, lai paveiktu lietas.
+    Plānojiet, salīdziniet, izpētiet un veiciet citas darbības.
+smartwindow-onboarding-title = Padarīsim to par tavējo
+smartwindow-onboarding-subtitle = Iestatiet { -smart-window-brand-name } tieši tā, kā vēlaties. Veiciet izmaiņas iestatījumos jebkurā laikā.
+smartwindow-onboarding-model-label = Izvēlieties savu mākslīgā intelekta modeli
+smartwindow-onboarding-model-description = Modelis nodrošina tērzēšanu un darbības pakalpojumā { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Auto
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Ieteicams
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } izvēlas jūsu uzdevumam vispiemērotāko modeli
+smartwindow-onboarding-model-mistral-description = Labi, ja varat tērzēt un pārlūkot vairākās valodās
+smartwindow-onboarding-model-gemini-description = Ātras atbildes, kad strādājat ātri
+smartwindow-onboarding-memories-label = Izvēlieties, no kā { -smart-window-brand-name } mācās
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } var mācīties no tērzēšanas, pārlūkošanas vai abiem, lai radītu atmiņas. Tas izmanto tos, lai laika gaitā personalizētu jūsu pieredzi.
+smartwindow-onboarding-memories-both = Tērzēšana un pārlūkošana
+smartwindow-onboarding-memories-browsing = Tikai pārlūkošana
+smartwindow-onboarding-memories-chats = Tikai tērzēšanas sarunas
+smartwindow-onboarding-memories-none = Nemācies no aktivitātes
+smartwindow-onboarding-memories-both-description = Tērzēšana pakalpojumā { -smart-window-brand-name }, pārlūkošana pakalpojumā { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Pārlūkošana pakalpojumā { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Tērzēšanas sarunas pakalpojumā { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Jūs redzēsiet mazāk pielāgotu ieteikumu un, iespējams, būs jāatkārto informācija vairākās tērzēšanas sarunās.
+smartwindow-onboarding-default-window =
+    .description = Izmantojiet to, kad { -brand-short-name } startē, restartējas vai atver saites no citām lietotnēm.
+    .label = Sāciet pēc { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Saglabāt un doties tālāk

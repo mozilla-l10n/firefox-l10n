@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Paaugstiniet aizsardzības līmeni ar { -mozilla-vpn-brand-name }
     .message = Izvēlieties no vairāk nekā 300 atrašanās vietām un aizsargājiet visas savas lietotnes līdz pat 5 ierīcēs.
 ipprotection-locations-subview-promo-button = Iegūt { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Vairāk atrašanās vietu. Vairāk aizsardzības.
+    .message = Iestatiet { -brand-short-name } par savu noklusējuma atrašanās vietu un iegūstiet vēl { $count } atrašanās vietas. Jūsu saites tiek atvērtas šeit, kur ir iebūvēts VPN.
+ipprotection-locations-subview-set-default-promo-button = Atvērt saites ar { -brand-short-name }
 
 ## VPN paused state
 
