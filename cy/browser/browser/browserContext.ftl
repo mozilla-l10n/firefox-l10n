@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Cysylltwch Ddyfais i 
 main-context-menu-use-saved-password =
     .label = Defnyddio Cyfrinair wedi'i Gadw
     .accesskey = C
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Defnyddio Arallenw E-bost { -relay-brand-short-name }
     .accesskey = D
@@ -452,6 +455,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = Newydd
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
+main-context-menu-pdfjs-copy-page2 =
+    .label = Copïo tudalen
+    .accesskey = C
+main-context-menu-pdfjs-cut-page2 =
+    .label = Torri tudalen
+    .accesskey = T
+main-context-menu-pdfjs-delete-page2 =
+    .label = Dileu tudalen
+    .accesskey = D
+main-context-menu-pdfjs-save-page2 =
+    .label = Cadw'r dewis fel…
+    .accesskey = C
 main-context-menu-pdfjs-copy-page =
     .label = Copïo tudalen
 main-context-menu-pdfjs-cut-page =
