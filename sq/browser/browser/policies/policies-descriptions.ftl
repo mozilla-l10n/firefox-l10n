@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Caktoni rregulla të cilat WebExtensions mund t’i shohin përmes chrome.storage.managed.
+policy-AIControls = Formësoni kontrolle IA.
 policy-AllowedDomainsForApps = Përcaktoni përkatësi të lejuara të hyjnë në Google Workspace.
 policy-AllowFileSelectionDialogs = Lejo dialogë përzgjedhjeje kartelash
 policy-AppAutoUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme aplikacionesh.
@@ -23,21 +24,32 @@ policy-AutoLaunchProtocolsFromOrigins = Përcaktoni një listë protokollesh të
 policy-BackgroundAppUpdate2 = Aktivizoni ose çaktivizoni përditësuesin në prapaskenë.
 policy-Backup = Çaktivizoni kopjeruajtje apo rikthim të dhënash profili.
 policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
+policy-BlockAboutConfig2 = Blloko hyrje te Parapëlqime të Thelluara (about:config).
+policy-BlockAboutProfiles2 = Blloko hyrje te About Profiles (about:profiles).
+policy-BlockAboutSupport2 = Blloko hyrje te Hollësi Diagnostikimi (about:support).
 policy-BlockAboutConfig = Bllokoni hyrje te faqja about:config.
 policy-BlockAboutProfiles = Bllokoni hyrje te faqja about:profiles.
 policy-BlockAboutSupport = Bllokoni hyrje te faqja about:support.
 policy-Bookmarks = Krijoni faqerojtës te paneli Faqerojtës, menuja Faqerojtës, ose te një dosje e caktuar brenda tyre.
 policy-CaptivePortal = Aktivizoni ose çaktivizoni mbulim për captive portal.
 policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
+policy-ClearOnShutdown = Spastro të dhëna shfletimi, kur mbyllet { -brand-short-name }.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Aktivizo marrëveshje CNSA 2.0 ML-KEM-1024 kyçash për TLS.
 policy-ContentAnalysis = Aktivizoni, ose çaktivizoni lidhje me agjent parandalimi humbjeje të dhënash.
 policy-Cookies = Lejoni ose jo që sajte të depozitojnë “cookies”.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Caktoni rregulla lidhur me kontejnerët.
 policy-DisableAccounts = Çaktivizo shërbime të bazuara në llogari, përfshi njëkohësimin.
 policy-DisabledCiphers = Çaktivizo shifra.
+policy-DefaultBrowserSettingEnabled = Kontrolloni nëse përdoruesi mund ta vërë a jo { -brand-short-name }-in si shfletuesin parazgjedhje.
 policy-DefaultDownloadDirectory = Caktoni drejtori parazgjedhje shkarkimesh.
+policy-DefaultSerialGuardSetting = Kontrolloni përdorimin e API-t Seriale.
 policy-DisableAppUpdate = Pengoje shfletuesin të përditësohet.
 policy-DisableBuiltinPDFViewer = Çaktivizoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
+policy-DisableDefaultBrowserAgent2 = Pengo ndërmarrje të çfarëdo veprimi nga agjenti i shfletuesit parazgjedhje.
 policy-DisableDefaultBrowserAgent = Pengo agjent shfletuesi parazgjedhje të ndërmarrë ndonjë veprim. E zbatueshme vetëm për Windows; platformat e tjera s’e kanë agjentin.
 policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
 policy-DisableEncryptedClientHello = Çaktivizoni përdorimin e veçorisë “Encrypted Client Hello” (ECH) TLS.

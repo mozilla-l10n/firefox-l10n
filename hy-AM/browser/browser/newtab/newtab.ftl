@@ -425,6 +425,13 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = Բացել օրվա նկարի ընտրացանկը
     .title = Բացել օրվա նկարի ընտրացանկը
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Սահմանեք այս նկարը որպես ձեր պաստառ
+    .label = Կայել պաստառ
+    .title = Կայել պաստառ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Կառավարել պաստառը
 # Context menu item that hides the picture shown in the widget.
@@ -511,6 +518,34 @@ newtab-travel-menu-learn-more = Իմանալ ավելին
 
 # Widget heading; also the widget's accessible name.
 newtab-solitaire-widget-title = Solitaire
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Իմանալ ավելին
+
+## Strings for the Wrexham AFC widget. Wrexham AFC is a football club from
+## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
+## and British English. “Wrexham AFC” is the club’s name. Use the name the
+## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
+# The widget's name. .title is its heading and accessible name, .label its
+# Customize panel toggle, and .menu-label the screen reader label of the
+# button that opens its menu.
+newtab-custom-widget-wrexhamafc =
+    .label = Wrexham AFC
+    .menu-label = Բացել Wrexham AFC-ի ցանկը
+    .title = Wrexham AFC
+# Menu item opening a submenu that switches what the widget shows. “View” is a
+# noun here, as in “the view the widget shows”.
+newtab-widget-wrexhamafc-menu-view = Տեսք
+
+## Options in the View submenu, each switching the widget to a different view.
+## These are football terms: “Matches” shows the club’s latest or next match,
+## with its score once it has started; “Table” shows the league table, the
+## standings of the teams in the club’s league; and “Fixtures” lists the club’s
+## upcoming scheduled matches.
+
+newtab-widget-wrexhamafc-view-table = Աղյուսակ
+# Menu item opening the New Tab customize panel, where wallpapers are chosen.
+newtab-widget-wrexhamafc-menu-wallpapers = Պաստառներ
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

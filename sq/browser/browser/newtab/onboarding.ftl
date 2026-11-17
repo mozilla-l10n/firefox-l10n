@@ -588,7 +588,9 @@ hnt-card-wallpaper-primary-button = Filloni ta përshtatni
 hnt-card-taskbar-tabs-body = Hapni sajtet tuaj më të vizituar, si një aplikacion, me krejt mbrojtjen nga { -brand-product-name }-i.
 hnt-card-taskbar-tabs-primary-button = Shtoni sajte te shtyllë punësh
 hnt-card-extensions-header = Përforcojeni { -brand-short-name }-in me zgjerime
+hnt-card-extensions-body = Përshtateni shfletimin tuaj me zgjerimet tona më të dashura.
 hnt-card-extensions-primary-button = Eksploroni
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
 hnt-card-last-card-header-start = Gjithçka gati. Shkoni e bëni ç’keni qejf.
+hnt-card-last-card-header-end = Mbrojtja nga gjurmimet është aktive.

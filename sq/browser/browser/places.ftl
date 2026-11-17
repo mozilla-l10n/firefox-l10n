@@ -249,3 +249,14 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Sistemi i faqerojtësve dhe historikut nuk do të jetë funksional, ngaqë një nga kartelat e { -brand-short-name }-it është duke u përdorur nga një aplikacion tjetër. Ky problem mund të shkaktohet nga disa programe sigurie.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = E re
+    .label = Ndajeni Dosjen Me të Tjerë
+    .accesskey = a
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = E re
+    .label = Ndajeni Dosjen Me të Tjerë

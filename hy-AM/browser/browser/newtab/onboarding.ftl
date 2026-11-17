@@ -574,6 +574,11 @@ smartwindow-onboarding-primary-button = Շարունակել
 
 smartwindow-sidebar-auto-open-callout-title = Ուզո՞ւմ եք օգնականը փակ պահել։
 
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Ընտրեք ոճ
+onboarding-theme-picker-button-label = Պահել և շարունակել
+
 ## Carousel navigation
 
 # Default accessible name for the row of pills used to move between carousel
