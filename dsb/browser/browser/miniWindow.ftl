@@ -76,5 +76,7 @@ mini-window-overlay-instructions = Śěgniśo abo klikniśo, aby wobceŕk wubra�
 mini-window-panel-header = Wubjeŕśo, což se ma do miniwokna pśesunuś
 # Selection for what to move to a Mini Window
 mini-window-panel-part-of-page = Źěl boka
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Ceły bok
 mini-window-panel-move-selection = Wuběrk pśesunuś
 mini-window-panel-move-full-tab = Ceły rejtarik pśesunuś

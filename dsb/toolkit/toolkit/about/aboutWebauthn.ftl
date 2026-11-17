@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Zastojanje PIN
 about-webauthn-credential-management-section-title = Pśizjawjeńske daty zastojaś
 about-webauthn-pin-required-section-title = PIN trjebny
 about-webauthn-confirm-deletion-section-title = Lašowanje wobkšuśiś
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Protokolěrowanje
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometriske pśizjawjenja
 
@@ -77,6 +79,12 @@ about-webauthn-add-bio-enrollment-button = Registraciju pśidaś
 about-webauthn-cancel-button = Pśetergnuś
 about-webauthn-send-pin-button = W pórěźe
 about-webauthn-delete-button = Lašowaś
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Startowaś
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Zastajiś
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Wuprozniś
 about-webauthn-start-enrollment-button = Registraciju startowaś
 about-webauthn-update-button = Aktualizěrowaś
 
