@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importă dintr-un alt b
 about-logins-menu-menuitem-import-from-a-file = Importă dintr-un fișier…
 about-logins-menu-menuitem-export-logins2 = Exportă parolele…
 about-logins-menu-menuitem-remove-all-logins2 = Elimină toate parolele…
+about-logins-menu-menuitem-delete-all-logins = Șterge toate parolele…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opțiuni
@@ -91,6 +92,7 @@ about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus ca s�
 about-logins-login-item-new-login-title = Adaugă parolă
 login-item-edit-button = Editează
 about-logins-login-item-remove-button = Elimină
+about-logins-login-item-delete-button = Șterge
 login-item-origin-label = Adresa site-ului web
 about-logins-origin-tooltip2 = Introdu adresa completă și asigură-te că este exact cea unde te autentifici.
 # Variables
@@ -176,9 +178,15 @@ confirmation-dialog-dismiss-button =
     .title = Anulează
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Elimini parola?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Ștergi parola?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Acțiunea este ireversibilă.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = O șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Șterge
 
 ## Variables
 ##   $count (number) - Number of items
@@ -190,11 +198,27 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Elimină-le pe toate
        *[other] Elimină-le pe toate
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Șterge
+        [one] Șterge tot
+        [few] Șterge tot
+       *[other] Șterge tot
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Da, elimină parola
        *[other] Yes, remove passwords
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Da, șterge parola
+        [one] Da, șterge parola
+        [few] Da, șterge parolele
+       *[other] Da, șterge parolele
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -216,11 +240,26 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [few] Elimini { $count } parole de pe toate dispozitivele?
        *[other] Elimini { $count } de parole de pe toate dispozitivele?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Ștergi { $count } parolă?
+        [few] Ștergi { $count } parole?
+       *[other] Ștergi { $count } de parole?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Vei elimina parola salvată în { -brand-short-name } și pe toate dispozitivele sincronizate. Vei elimina și orice alerte de încălcare a securității datelor care apar aici. Acțiunea este ireversibilă.
        *[other] Vei elimina parola salvată în { -brand-short-name } și pe toate dispozitivele sincronizate. Vei elimina și orice alerte de încălcare a securității datelor care apar aici. Acțiunea este ireversibilă.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] O șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
+        [one] O șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
+        [few] Le șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
+       *[other] Le șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
     }
 
 ##
