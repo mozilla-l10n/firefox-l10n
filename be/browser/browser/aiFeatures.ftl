@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Выбірайце мадэль зыходзячы з таго, што для вас важна.
     .label = Мадэль памочніка
+smart-window-model-section-v2 =
+    .description = Мадэлі — гэта тое, што сілкуе чаты і дзеянні.
+    .label = Мадэль
 smart-window-model-radio-group =
     .aria-label = Мадэль памочніка
 smart-window-model-learn-link = Даведацца пра мадэлі
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } выбірае найлепшую мадэль для вашай задачы
+    .label = Аўтаматычная мадэль
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -68,6 +74,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Звесткі пра мадэль захаваны. Пачніце новы чат для праверкі.
 ai-window-memories-section =
     .description = { -brand-short-name } можа вучыцца на аснове вашай дзейнасці, каб ствараць успаміны. Яны выкарыстоўваюцца для персаналізацыі адказаў і захоўваюцца лакальна на гэтай прыладзе.
+    .label = Успаміны
+ai-window-memories-section-v2 =
+    .description = { -brand-short-name } можа вучыцца на аснове вашых дзеянняў, каб ствараць успаміны. Яны выкарыстоўваюцца для персаналізацыі адказаў і захоўваюцца лакальна на гэтай прыладзе.
     .label = Успаміны
 ai-window-learn-from-chat-activity =
     .label = Вучыцца з чатаў у { -smart-window-brand-name }
@@ -106,3 +115,6 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Створана для персаналізаванай дапамогі на розных мовах. Поўная назва: { $model } ад { $ownerName }
     .label = { $shortName }: асабістая
+smart-window-model-qwen =
+    .description = Гатова да выканання розных задач. Поўная назва: { $model } ад { $ownerName }
+    .label = { $shortName }
