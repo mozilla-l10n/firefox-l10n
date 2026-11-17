@@ -73,7 +73,7 @@ about-private-browsing-felt-privacy-v1-info-link = Who might be able to see my a
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
-about-private-browsing-nova-info-body = Closing all your private windows deletes your cookies, history and site data.
+about-private-browsing-nova-info-body = Closing all your Private Windows deletes your cookies, history, and site data.
 about-private-browsing-nova-info-link = Who might still be able to see my activity?
 about-private-browsing-private-window-basics-link = Private Window basics
 about-private-browsing-private-window-redesign-subheader = { -brand-short-name } is designed to protect your privacy as you browse, with built-in tracking protections. Closing this window erases its history, cookies, and site data to keep your browsing private from others who use this device.
