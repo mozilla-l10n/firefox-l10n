@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Marchează pagina...
 sidebar-history-context-menu-delete-pages =
     .label = Șterge paginile din istoric
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Șterge
 
 ## Labels for sidebar bookmarks context menu items
 

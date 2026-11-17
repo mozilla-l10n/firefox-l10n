@@ -74,5 +74,9 @@ mini-window-overlay-instructions = Sćehńće abo klikńće, zo byšće wobłuk 
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Wubjerće, štož so ma do miniwokna přesunyć
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Dźěl strony
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Cyła strona
 mini-window-panel-move-selection = Wuběr přesunyć
 mini-window-panel-move-full-tab = Cyły rajtark přesunyć

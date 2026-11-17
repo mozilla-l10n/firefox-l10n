@@ -98,6 +98,17 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Fișiere temporare ({ $amount } { $unit })
+    .accesskey = f
+item-cached-content2 =
+    .label = Fișiere temporare
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Ajută site-urile să se încarce mai repede
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Fișiere și pagini temporare din cache ({ $amount } { $unit })
     .accesskey = f
@@ -114,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Informații salvate din formulare
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nume, adrese de e-mail și câmpuri de formulare
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Permisiuni și preferințe pentru site-uri web
 item-formdata-description = Șterge informații precum nume, adrese de e-mail și alte elemente pe care le introduci în formulare
 item-site-prefs-description = Resetează permisiunile și preferințele site-urilor la setările inițiale
 data-section-label = Date
@@ -123,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Datele offline ale site-urilor web
     .accesskey = O
+sanitize-everything-undo-warning2 = Acțiunea este ireversibilă.
 sanitize-everything-undo-warning = Acțiunea este ireversibilă.
 window-close =
     .key = w

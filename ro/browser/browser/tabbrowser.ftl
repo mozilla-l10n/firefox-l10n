@@ -37,6 +37,11 @@ tab-splitview-splitter =
     .aria-label = Redimensionează filele în ecranul divizat
 tab-devtools-splitter =
     .aria-label = Redimensionează panoul Instrumentelor pentru dezvoltatori
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Adaugă filele într-un grup
+    .accesskey = G
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -299,8 +304,8 @@ tab-context-move-tab-to-new-group =
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Adaugă fila într-un grup nou
-           *[other] Adaugă filele într-un grup nou
+            [1] Adaugă fila într-un grup
+           *[other] Adaugă filele într-un grup
         }
     .accesskey = G
 tab-context-move-split-view-to-new-group =

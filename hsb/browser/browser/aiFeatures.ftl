@@ -35,6 +35,9 @@ smart-window-model-section =
 smart-window-model-radio-group =
     .aria-label = Asistentny model
 smart-window-model-learn-link = Zhońće wjace wo modelach
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } najlěpši model za waš nadawk wuběra
+    .label = Awtomatiski model
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection

@@ -656,6 +656,11 @@ support-get-help =
 support-share-ideas =
     .label = Ideje a měnjenja dźělić
 
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = Registrować
+
 ## General Section - Performance
 
 performance-settings-learn-more = Dalše informacije
