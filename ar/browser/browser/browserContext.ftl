@@ -357,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = صلّ جهاز لإ�
 main-context-menu-use-saved-password =
     .label = استعمل كلمة سر محفوظة
     .accesskey = ع
+
+##
+
 main-context-menu-use-relay-mask =
     .label = استخدم قناع البريد الإلكتروني { -relay-brand-short-name }.
     .accesskey = د
@@ -448,6 +451,18 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = جديد
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = تجريبي
+main-context-menu-pdfjs-copy-page2 =
+    .label = انسخ الصفحة
+    .accesskey = ا
+main-context-menu-pdfjs-cut-page2 =
+    .label = قص الصفحة
+    .accesskey = ق
+main-context-menu-pdfjs-delete-page2 =
+    .label = احذف الصفحة
+    .accesskey = ا
+main-context-menu-pdfjs-save-page2 =
+    .label = احفظ التحديد باسم...
+    .accesskey = ا
 main-context-menu-pdfjs-copy-page =
     .label = انسخ الصفحة
 main-context-menu-pdfjs-cut-page =
