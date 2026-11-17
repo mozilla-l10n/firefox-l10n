@@ -376,7 +376,12 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    與您一起輕鬆完成各項工作。
+    規劃、比較、探索，還能做得更多。
 smartwindow-onboarding-title = 打造專屬您的體驗
+smartwindow-onboarding-subtitle = 依照您的喜好設定 { -smart-window-brand-name }。您隨時都能到設定再作調整。
 smartwindow-onboarding-model-label = 挑選你的 AI 模型
 smartwindow-onboarding-model-description = 模型是 { -smart-window-brand-name } 聊天與動作功能的核心。
 smartwindow-onboarding-model-auto = 自動
@@ -386,10 +391,17 @@ smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } 會
 smartwindow-onboarding-model-mistral-description = 若您會使用多種語言聊天與瀏覽網頁，這個最適合您
 smartwindow-onboarding-model-gemini-description = 最適合用來快問快答
 smartwindow-onboarding-memories-label = 選擇 { -smart-window-brand-name } 要如何了解您
+smartwindow-onboarding-memories-description = { -smart-window-brand-name }可從聊天內容、上網紀錄或兩者來建立記憶。久而久之，可透過記憶來個人化您的使用體驗。
 smartwindow-onboarding-memories-both = 聊天與上網
 smartwindow-onboarding-memories-browsing = 僅透過上網過程
 smartwindow-onboarding-memories-chats = 僅透過聊天
 smartwindow-onboarding-memories-none = 不要從使用行為中了解我
+smartwindow-onboarding-memories-both-description = 在 { -smart-window-brand-name }聊天，使用 { -brand-short-name } 瀏覽
+smartwindow-onboarding-memories-browsing-description = 使用 { -brand-short-name } 瀏覽
 smartwindow-onboarding-memories-chats-description = { -smart-window-brand-name }中的聊天功能
+smartwindow-onboarding-memories-none-description = 將減少您看到的個人化建議內容，也可能需要在不同對話中重複提供相關資訊。
+smartwindow-onboarding-default-window =
+    .description = 啟動、重新啟動 { -brand-short-name }，或開啟其他應用程式中的鏈結時使用它。
+    .label = 預設以 { -smart-window-brand-name }啟動
 smartwindow-onboarding-save =
     .label = 儲存並繼續

@@ -211,6 +211,11 @@ ipprotection-locations-subview-promo =
     .heading = 用 { -mozilla-vpn-brand-name } 獲得更佳保護
     .message = 用最多 5 台裝置，從超過 300 個位置連線並保護您的所有應用程式。
 ipprotection-locations-subview-promo-button = 獲得 { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = 更多地點。更多保護。
+    .message = 將 { -brand-short-name } 設為您的預設瀏覽器，就可以再獲得 { $count } 個地點，直接在此透過內建 VPN 功能開啟鏈結。
 ipprotection-locations-subview-set-default-promo-button = 用 { -brand-short-name } 開啟鏈結
 
 ## VPN paused state

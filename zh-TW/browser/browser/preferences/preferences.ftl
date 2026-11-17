@@ -640,6 +640,9 @@ support-share-ideas =
 
 ## Firefox newsletter
 
+newsletter-settings-heading =
+    .description = 訂閱使用秘訣、建議與相關新聞，讓 { -brand-product-name } 為您發揮最大威力。
+    .label = { -brand-product-name } 電子報
 newsletter-sign-up-link =
     .label = 訂閱
 
