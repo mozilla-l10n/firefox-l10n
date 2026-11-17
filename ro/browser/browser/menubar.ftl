@@ -134,6 +134,9 @@ menu-edit-find-in-page =
 menu-edit-find-again =
     .label = Caută din nou
     .accesskey = g
+menu-edit-find-selection =
+    .label = Folosește selecția pentru căutare
+    .accesskey = S
 menu-edit-bidi-switch-text-direction =
     .label = Schimbă direcția textului
     .accesskey = w
@@ -271,6 +274,10 @@ menu-bookmarks-other =
     .label = Alte marcaje
 menu-bookmarks-mobile =
     .label = Marcaje mobile
+# The native macOS menu may limit the number of entries. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Afișează mai multe în bara laterală
 
 ## Profiles Menu
 

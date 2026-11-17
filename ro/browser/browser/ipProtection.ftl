@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Du protecția mai departe cu { -mozilla-vpn-brand-name }
     .message = Alege dintre 300+ de locații și protejează-ți toate aplicațiile pe până la 5 dispozitive.
 ipprotection-locations-subview-promo-button = Obține { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Mai multe locații. Mai multă protecție.
+    .message = Fă { -brand-short-name } implicit și obține { $count } (de) locații în plus. Linkurile se deschid aici când VPN-ul este încorporat.
+ipprotection-locations-subview-set-default-promo-button = Deschide linkurile cu { -brand-short-name }
 
 ## VPN paused state
 
@@ -458,5 +464,7 @@ vpn-error-page-keep-browsing = Continuă să navighezi în această sesiune
 vpn-error-page-new-session = Începe o sesiune nouă
 vpn-paused-alert-close-tabs-button = Închide toate filele
 vpn-paused-alert-continue-wo-vpn-button = Continuă fără VPN
+vpn-error-alert-title-1 = VPN-ul și regulile nu funcționează momentan.
+vpn-error-alert-body-1 = Activarea și dezactivarea VPN-ului ar putea rezolva problema.
 vpn-error-alert-title = VPN-ul nu funcționează momentan.
 vpn-error-alert-body = Încearcă din nou mai târziu.

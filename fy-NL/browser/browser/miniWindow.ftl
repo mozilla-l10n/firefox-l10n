@@ -72,5 +72,9 @@ mini-window-overlay-instructions = Sleep of klik om in gebiet te selektearjen om
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Kies wat jo nei in minifinster ferpleatse wolle
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Underdiel fan side
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Folsleine side
 mini-window-panel-move-selection = Seleksje ferpleatse
 mini-window-panel-move-full-tab = Folslein ljepblêd ferpleatse

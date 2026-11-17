@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Copiază URL-ul filei
 customkeys-file-focus-search = Focalizare pe bara de căutare
 customkeys-history-reopen-tab = Redeschide ultima filă închisă
 customkeys-history-reopen-window = Redeschide ultima fereastră închisă
+customkeys-history-reopen-tab-current-window = Redeschide ultima filă închisă din fereastra actuală
 customkeys-sidebar-toggle = Comută bara laterală
 customkeys-view-bookmarks-toolbar = Comută între marcaje și bara de instrumente
 customkeys-view-picture-in-picture = Imagine în imagine
@@ -84,6 +85,16 @@ customkeys-key-new =
     .label = Apasă tasta nouă:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (nu se poate modifica)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (configurată în setările tastaturii din macOS)
+       *[other] (configurată în setările tastaturii din sistemul tău)
+    }
 
 ## Confirmation dialogs
 

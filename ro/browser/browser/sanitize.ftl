@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = De la { $midnightTime }
 clear-time-duration-value-today =
     .label = Azi
+clear-time-duration-value-all-time =
+    .label = Dintotdeauna
 clear-time-duration-value-everything =
     .label = Tot
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Istoric
+item-history-and-downloads2 =
+    .label = Istoric navigare și descărcări
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Site-uri pe care ai intrat și listă cu descărcări
 item-history-and-downloads =
     .label = Istoricul navigării și al descărcărilor
     .accesskey = B

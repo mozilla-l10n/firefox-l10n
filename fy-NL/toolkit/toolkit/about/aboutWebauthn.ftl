@@ -75,6 +75,12 @@ about-webauthn-add-bio-enrollment-button = Ynskriuwing tafoegje
 about-webauthn-cancel-button = Annulearje
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Fuortsmite
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Starte
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stopje
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Wiskje
 about-webauthn-start-enrollment-button = Ynskriuwing starte
 about-webauthn-update-button = Bywurkje
 

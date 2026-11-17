@@ -91,17 +91,26 @@ genai-more-actions-search =
     .label = Caută
 genai-more-actions-copy =
     .label = Copiază
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Nu vei vedea acest meniu când selectezi text. Mergi în Setări <span data-l10n-name="chevron"></span> File și navigare pentru a-l afișa din nou.
 genai-more-actions-manage-settings =
     .label = Gestionează setările
+genai-selection-callout-title = Evidențiază textul pentru a alege o acțiune
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Caută sau copiază când selectezi text. Alege ce acțiuni apar cu meniul <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Întreabă { $provider }
 genai-menu-new-badge = Nou
 genai-menu-summarize-page = Fă rezumatul paginii
+genai-menu-summarize-with-ai = Fă un rezumat cu AI
 genai-input-ask-smart-window =
     .placeholder = Întreabă...
 genai-input-ask-generic =
     .placeholder = Întreabă chatbotul AI...
+genai-input-ask-ai =
+    .placeholder = Întreabă AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Întreabă { $provider }…

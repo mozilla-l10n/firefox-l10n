@@ -11,6 +11,8 @@ confirmation-hint-password-created = Parolă salvată
 confirmation-hint-password-updated = Parolă actualizată
 confirmation-hint-address-created = Adresă salvată
 confirmation-hint-address-updated = Adresă actualizată
+confirmation-hint-payment-method-saved = Metodă de plată salvată
+confirmation-hint-payment-method-updated = Metodă de plată actualizată
 confirmation-hint-credit-card-created = Card salvat
 confirmation-hint-credit-card-updated = Card actualizat
 confirmation-hint-passport-created = Pașaport salvat
@@ -22,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = Mască nouă creată!
 confirmation-hint-firefox-relay-mask-reused = Mască existentă refolosită!
 confirmation-hint-screenshot-copied = Captură de ecran copiată!
 confirmation-hint-tab-group-saved = Grupul de file a fost salvat
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = Găsește grupuri de file în acest meniu
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

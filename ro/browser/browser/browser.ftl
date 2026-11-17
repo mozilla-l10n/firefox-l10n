@@ -994,6 +994,14 @@ urlbar-view-context-menu-open-in-window2 = Deschide în fereastră nouă
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Deschide în fereastră nouă privată
     .accesskey = P
+urlbar-view-context-menu-search-in-tab = Caută într-o filă nouă
+    .accesskey = w
+urlbar-view-context-menu-search-in-container-tab = Caută într-o filă container nouă
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = Caută într-o fereastră nouă
+    .accesskey = N
+urlbar-view-context-menu-search-in-private-window = Caută într-o fereastră privată nouă
+    .accesskey = P
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
@@ -1472,6 +1480,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Ștergi datele și începi o sesiune privată nouă?
+reset-pbm-panel-description3 = Îți șterge istoricul și cookie-urile și te deconectează de pe site-uri. Ferestrele private se vor închide și se va deschide una nouă.
 reset-pbm-panel-description2 = Va șterge istoricul, cookie-urile și toate celelalte date ale site-ului fără să închizi fereastra privată.
 reset-pbm-panel-always-ask-checkbox =
     .label = Întreabă-mă mereu
@@ -1507,6 +1516,9 @@ fire-button-panel-confirm-button =
     .label = Șterge tot
     .accesskey = D
 fire-button-panel-complete = Datele de navigare au fost șterse
+fire-button-toolbar-button2 =
+    .label = Șterge o parte sau toate datele
+    .tooltiptext = Șterge o parte sau toate datele tale de navigare
 
 ## Autorefresh blocker
 

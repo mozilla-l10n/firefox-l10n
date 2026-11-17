@@ -1185,6 +1185,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Se sincronizează…
     .title = Sincronizează acum
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Alegerile tale de sincronizare se aplică acum doar pentru acest dispozitiv.
 
 ## The list of things currently syncing.
 
@@ -1222,6 +1225,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Istoric
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = File deschise
+    .tooltiptext = File deschise de pe celelalte dispozitive ale tale
+    .accesskey = t
 sync-engine-tabs =
     .label = File deschise
     .tooltiptext = O listă cu ce este deschis pe toate dispozitivele sincronizate
@@ -1230,6 +1238,22 @@ sync-engine-passwords =
     .label = Parole
     .tooltiptext = Parole pe care le-ai salvat
     .accesskey = P
+sync-engine-addresses2 =
+    .label = Adrese
+    .tooltiptext = Adrese pe care le-ai salvat în { -brand-short-name }
+    .accesskey = e
+sync-engine-payment-methods3 =
+    .label = Metode de plată
+    .tooltiptext = Metode de plată pe care le-ai salvat
+    .accesskey = n
+sync-engine-addons2 =
+    .label = Suplimente
+    .tooltiptext = Extensii și teme pe care le-ai adăugat în { -brand-short-name } pentru desktop
+    .accesskey = A
+sync-engine-settings2 =
+    .label = Setări
+    .tooltiptext = Setări { -brand-short-name }, acolo unde este cazul
+    .accesskey = s
 sync-engine-addresses =
     .label = Adrese
     .tooltiptext = Adrese poștale salvate (doar desktop)
@@ -1421,6 +1445,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Gestionează metodele de plată
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Necesită autentificarea pe dispozitiv pentru completare automată
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Trebuie să intri în cont pe dispozitiv ca să completezi automat și să gestionezi metodele de plată
     .accesskey = o
@@ -1494,6 +1522,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the

@@ -73,5 +73,9 @@ mini-window-overlay-instructions = Trage sau dă clic ca să selectezi o zonă d
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Alege ce vrei să muți într-o fereastră mini
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Parte din pagină
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Pagină completă
 mini-window-panel-move-selection = Mută selecția
 mini-window-panel-move-full-tab = Mută fila întreagă

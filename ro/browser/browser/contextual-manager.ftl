@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importă dintr-un alt
 contextual-manager-passwords-command-import = Importă dintr-un fișier…
 contextual-manager-passwords-command-export = Exportă parolele
 contextual-manager-passwords-command-remove-all = Elimină toate parolele
+contextual-manager-passwords-command-delete-all = Șterge toate parolele
 contextual-manager-passwords-command-options = Opțiuni
 contextual-manager-passwords-command-help = Ajutor
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -105,6 +106,14 @@ contextual-manager-passwords-remove-all-title =
         [few] Elimini toate cele { $total } parole?
        *[other] Elimini toate cele { $total } de parole?
     }
+# Confirm the deletion of all saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-title =
+    { $total ->
+        [one] Ștergi { $total } parolă?
+        [few] Ștergi { $total } parole?
+       *[other] Ștergi { $total } de parole?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -121,6 +130,15 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Elimină-le pe toate
        *[other] Elimină-le pe toate
     }
+# Button label to confirm deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-confirm-button =
+    { $total ->
+        [1] Șterge
+        [one] Șterge tot
+        [few] Șterge tot
+       *[other] Șterge tot
+    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
@@ -134,6 +152,15 @@ contextual-manager-passwords-remove-all-message-sync =
     { $total ->
         [1] Vei elimina parola salvată în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea este ireversibilă.
        *[other] Vei elimina toate parolele salvate în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea este ireversibilă.
+    }
+# Message for modal to confirm the deletion of all saved passwords when user HAS SYNC with per-device sync
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-message-sync =
+    { $total ->
+        [1] O șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
+        [one] Le șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
+        [few] Le șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
+       *[other] Le șterge din { -brand-short-name } de pe toate dispozitivele care îți sincronizează parolele. Acțiunea nu poate fi anulată.
     }
 contextual-manager-passwords-origin-label = Site web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -179,12 +206,16 @@ contextual-manager-passwords-radiobutton-all = Toate ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alerte ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Elimini parola?
+# This message is displayed to make sure that a user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-title = Ștergi parola?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Acțiunea este ireversibilă.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Înapoi
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Elimină
+# This message confirms that the user wants to delete an existing login when per-device sync is enabled.
+contextual-manager-passwords-delete-login-card-delete-button = Șterge
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anulează
 contextual-manager-passwords-alert-card =
@@ -216,6 +247,9 @@ contextual-manager-passwords-update-label =
     .label = Actualizează parola
 contextual-manager-passwords-remove-label =
     .title = Elimină parola
+# Tooltip for the delete button in the edit password form when per-device sync is enabled
+contextual-manager-passwords-delete-label =
+    .title = Șterge parola
 contextual-manager-passwords-origin-field =
     .label = Adresa site-ului web
     .placeholder = https://www.example.com
@@ -328,6 +362,15 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Da, elimină parola
        *[other] Yes, remove passwords
+    }
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Da, șterge parola
+        [one] Da, șterge parola
+        [few] Da, șterge parolele
+       *[other] Da, șterge parolele
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = Ca să îți vezi parolele salvate, introdu parola primară.
