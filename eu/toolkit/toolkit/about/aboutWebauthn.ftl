@@ -34,6 +34,8 @@ about-webauthn-text-not-available = Ez dago erabilgarri plataforma honetan.
 about-webauthn-bio-enrollment-list-subsection-title = Matrikulak:
 about-webauthn-add-bio-enrollment-section-title = Gehitu matrikula berria
 about-webauthn-logging-warning = Erregistroak informazio pertsonala eduki lezake, adibidez erabiltzaile-izenak, kontuen identifikatzaileak eta webguneen helbideak. Berrikus ezazu partekatu aurretik.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Honek { -brand-short-name }(r)en CTAP inplementazio natiboaren eskaerak erregistratzen ditu soilik. Ez ditu plataformaren WebAuthn APIetarako edo nabigatzailearen hedapenetarako eskaerak erregistratzen.
 
 ## Results label
 
@@ -78,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Gehitu matrikula
 about-webauthn-cancel-button = Utzi
 about-webauthn-send-pin-button = Ados
 about-webauthn-delete-button = Ezabatu
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Hasi
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Gelditu
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Garbitu
 about-webauthn-start-enrollment-button = Hasi matrikula
 about-webauthn-update-button = Eguneratu
 
