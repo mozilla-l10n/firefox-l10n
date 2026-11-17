@@ -169,6 +169,14 @@ permissions-site-xr-disable-label =
     .label = Blloko kërkesa të reja për hyrje në pajisjet tuaja të realitetit virtual
 permissions-site-xr-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje të hyjë në pajisje tuaja të realitetit virtual. Bllokimi i hyrjes në pajisjet tuaja të realitetit virtual mund të prishë punimin e ca anëve të sajtit.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Rregullime - Sajte të Bllokuar për Lidhje Aplikacionesh
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
