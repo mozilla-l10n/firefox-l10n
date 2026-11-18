@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Ves a la pestanya 8
 customkeys-nav-select-last-tab = Ves a l'última pestanya
 customkeys-nav-toggle-mute = Silencia/no silenciïs l'àudio
 customkeys-edit-find-previous = Cerca l'anterior
+customkeys-edit-find-selection = Utilitza la selecció per a la cerca
 customkeys-tools-screenshot = Fes una captura de pantalla
 customkeys-category-navigation-2 =
     .heading = Navegació

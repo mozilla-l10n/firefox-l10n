@@ -31,6 +31,11 @@ perftools-button-add-directory = Afegeix un directori
 perftools-button-remove-directory = Elimina la selecció
 perftools-button-edit-settings = Edita els paràmetres…
 
+## More actions menu
+
+perftools-menu-more-actions-button =
+    .title = Més accions
+
 ## Profiler presets
 
 perftools-presets-web-developer-label = Desenvolupador web
