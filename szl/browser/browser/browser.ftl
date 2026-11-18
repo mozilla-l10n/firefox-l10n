@@ -712,10 +712,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Ôszydno strōna!
+safebrowsing-reported-attack-site-message = Zgłoszōno strōna, co atakuje!
+safebrowsing-reported-unwanted-site-message = Złoszōno strōna ze niychcianym softwarym!
+safebrowsing-reported-harmful-site-message = Zgłoszōno szkłōdliwo strōna!
+safebrowsing-get-me-out-of-here-button =
+    .label = Biermy sie z tyj strōny!
+    .accesskey = B
+safebrowsing-not-a-deceptive-site-button =
+    .label = To niy ma ôszydno strōna…
+    .accesskey = T
+safebrowsing-not-an-attack-site-button =
+    .label = To niy ma strōna, co atakuje…
+    .accesskey = T
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Trza połōnczynio z tym necym, podwiela pudzie mieć dostymp do internetu.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Ôdewrzij strōna logowanio do necu
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -723,6 +741,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Niy chcesz aby iść do { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ja, pōdź do { $hostName }
+    .accesskey = J
 
 ## Password save/update panel
 
