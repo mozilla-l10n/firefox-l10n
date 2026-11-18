@@ -89,6 +89,17 @@ urlbar-result-menu-dismiss-suggestion2 = এই পরামর্শটি ব�
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = ভুল লোকেশন রিপোর্ট করুন
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = কম ঘন ঘন দেখান
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = আবহাওয়ার পরামর্শ দেখাবেন না
+    .accesskey = n
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = ভুল লোকেশন রিপোর্ট করুন
 urlbar-result-menu-show-less-frequently2 = কম ঘন ঘন দেখান
 urlbar-result-menu-dont-show-weather-suggestions2 = আবহাওয়ার পরামর্শ দেখাবেন না
