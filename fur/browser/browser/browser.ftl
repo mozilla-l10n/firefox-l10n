@@ -764,6 +764,9 @@ urlbar-result-realtime-opt-in-not-now = No cumò
 urlbar-result-realtime-opt-in-dismiss = Siere
 urlbar-result-realtime-opt-in-dismiss-all2 = No sta mostrâ chescj sugjeriments
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = No sta mostrâ sugjeriments sui marcjâts
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = No sta mostrâ sugjeriments sui marcjâts
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = No sta mostrâ chescj sugjeriments
