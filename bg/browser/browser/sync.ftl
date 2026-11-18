@@ -52,6 +52,9 @@ fxa-menu-send-to-mobile-sign-in = Влезте, за да изпращате р�
 
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = За да запазите вашите данни организирани и защитени, всеки потребителски профил в { -brand-product-name } може да бъде синхронизиран само с един акаунт. За да влезете чрез { $actEmail }, създайте нов потребителски профил.
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
 sync-profile-different-account-description-merge = За да запазите данните си организирани и защитени, препоръчваме да създадете нов потребителски профил, в който да влизате чрез { $acctEmail }. Ако изберете да продължите синхронизирането в този потребителски профил, данните и от двата профила ще бъдат завинаги обединени в „{ $profileName }“.
 # Dialog 2 - account signed in on another profile without option to merge

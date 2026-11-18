@@ -72,6 +72,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = “Cookies” dhe të dhëna sajtesh
     .accesskey = C
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Bën daljen tuaj nga llogaria dhe mund të spastrojë shporta blerjeje
 item-cookies-site-data-description = Mund të bëjnë nxjerrjen tuaj nga llogari sajtesh, ose të zbrazin shporta blerjesh
 item-active-logins =
     .label = Kredenciale Hyrjeje Aktive
@@ -79,6 +81,17 @@ item-active-logins =
 item-cache =
     .label = Fshehtinë
     .accesskey = e
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Kartela të përkohshme ({ $amount } { $unit })
+    .accesskey = a
+item-cached-content2 =
+    .label = Kartela të përkohshme
+    .accesskey = a
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = I ndihmon sajtet të ngarkohen më shpejt
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -98,6 +111,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Hollësi formulari të ruajtura
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Emra, email-e dhe zëra formularësh
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Leje dhe parapëlqime sajtesh
 item-formdata-description = Spastron gjëra të tilla si emra, email-e dhe objekte të tjerë që jepni në formularë
 item-site-prefs-description = Rikthen lejet dhe parapëlqime sajtesh tuajat te rregullimet origjinale
 data-section-label = Të dhëna
@@ -107,6 +124,7 @@ item-site-settings =
 item-offline-apps =
     .label = Të dhëna Sajti Jashtë Linje
     .accesskey = T
+sanitize-everything-undo-warning2 = Kjo s’mund të zhbëhet.
 sanitize-everything-undo-warning = Ky veprim s’mund të zhbëhet.
 window-close =
     .key = w
@@ -116,6 +134,14 @@ sanitize-button-ok2 =
     .label = Spastroje
 sanitize-button-ok-on-shutdown =
     .label = Ruaji Ndryshimet
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Fshije
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Mbylle
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

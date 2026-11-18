@@ -1747,7 +1747,34 @@ notifications-website-card-header =
     .description = Zgjidhni se si mund të dërgojnë njoftime sajtet.
     .label = Njoftime sajti
 notifications-filter =
-    .placeholder = Kërko në sajte
+    .placeholder = Të kërkojë në sajte
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Sajt
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Lejo njoftime
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Sajte
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Përherë
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Lejoje
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Kurrë
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = S’u shtuan njoftime sajtesh.
 
 ## Privacy Section - Data Collection
 
@@ -1763,6 +1790,8 @@ collection-backlogged-crash-reports2 =
     .label = Dërgo vetvetiu njoftime vithisjesh
     .accesskey = v
 collection-backlogged-crash-reports-description = Kjo e ndihmon { -vendor-short-name }-n të diagnostikojë dhe ndreqë probleme me shfletuesin. Raportet mund të përfshijnë të dhëna personale, ose rezervat.
+settings-redesign-promo-dismiss-button =
+    .label = E mora vesh
 privacy-segmentation-section-header = Veçori të reja që thellojnë shfletimin tuaj
 privacy-segmentation-section-description = Kur ofrojmë veçori që përdorin të dhënat tuaja për t’ju dhënë ju një punim më personal:
 privacy-segmentation-radio-off =
@@ -1784,8 +1813,19 @@ data-collection-health-report =
     .description = Kjo na ndihmon të përmirësojmë veçori, funksionimin dhe qëndrueshmërinë e { -brand-product-name }-it.
     .label = Dërgo te { -vendor-short-name } të dhëna teknike dhe ndërveprimesh
     .accesskey = k
+data-collection-health-report-disabled =
+    .description = Për këtë formësim montimesh, raportimi i të dhënave është i çaktivizuar.
+    .label = Dërgo te { -vendor-short-name } të dhëna teknike dhe ndërveprimesh
+    .accesskey = D
+data-collection-run-studies =
+    .description = { -brand-short-name }-i përzgjedh kuturu përdorues për të testuar veçori, çka ndihmon të përmirësohet cilësia për gjithkënd.
+    .label = Lejojeni { -brand-short-name }-in të kryejë studime
 data-collection-studies-link =
     .label = Shihni studime { -brand-short-name }
+data-collection-backlogged-crash-reports =
+    .description = Kjo e ndihmon { -vendor-short-name }-n të diagnostikojë dhe ndreqë probleme me shfletuesin. Raportet mund të përfshijnë të dhëna personale, ose rezervat.
+    .label = Dërgo vetvetiu njoftime vithisjesh
+    .accesskey = D
 data-collection-usage-ping =
     .description = Kjo e ndihmon { -vendor-short-name }-n të hamendësojë numrin e përdoruesve aktivë.
     .label = Dërgo te { -vendor-short-name } ping përdorimi ditor
@@ -1971,10 +2011,31 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
 
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Siguri lidhjesh dhe software-i
+preferences-connection-link-button =
+    .label = Rregullime të mëtejshme
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Dukje
+browser-theme-group =
+    .description = Stilizojeni { -brand-short-name }-in sipas mënyrës tuaj. Ngjyrat e temës aplikohen për panele, menu dhe mesazhe.
+    .label = Temë Shfletuesi
+browser-theme-manage-link =
+    .label = Administroni tema { -brand-short-name }-i
+related-settings-group =
+    .label = Rregullime të afërta
+related-settings-home-link =
+    .label = Përshtatni { -firefox-home-brand-name }-in
 
 ## AI controls page
 

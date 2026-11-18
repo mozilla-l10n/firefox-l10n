@@ -68,3 +68,5 @@ shopping-avatar-alt =
 ## Tooltips for default avatar icons
 
 shopping-avatar = Количка за пазаруване
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = В менюто ☰ докоснете името на вашия профил, за да отворите друг, да редактирате този или да прескачате между вашите цифрови животи.

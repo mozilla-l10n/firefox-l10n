@@ -13,4 +13,5 @@ contentanalysis-operationtype-print = отпечатване
 contentanalysis-notification-title = Анализ на съдържанието
 contentanalysis-error-message-dropped-text = Влаченето и пускането е забранено.
 contentanalysis-error-message-print = Отказен печат.
+contentanalysis-block-dialog-title-clipboard-copy = Не ви е позволено да копирате това съдържание
 contentanalysis-inprogress-quit-title = Излизане от { -brand-shorter-name }?

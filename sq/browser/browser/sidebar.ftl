@@ -6,8 +6,18 @@ menu-view-genai-chat =
     .label = Robot IA Fjalosjesh
 menu-view-contextual-password-manager =
     .label = Fjalëkalime
+menu-view-resource-monitor =
+    .label = Mbikëqyrës Burimesh
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Skeda të Hapura
 sidebar-options-menu-button =
     .title = Hape menunë
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Ripërmasoni anështyllën
 
 ## Labels for sidebar history panel
 
@@ -40,6 +50,14 @@ sidebar-history-sort-option-date-and-site =
     .label = Datash dhe Sajtesh
 sidebar-history-sort-option-last-visited =
     .label = Vizituar së fundi më
+sidebar-history-sort-option-most-visited =
+    .label = Më të vizituarit
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Mungon gjë? Merrni historikun nga një shfletues tjetër.
+sidebar-history-import-promo-button =
+    .label = Importoji te { -brand-short-name }
 
 ## Labels for sidebar search
 
@@ -54,8 +72,12 @@ sidebar-search-results-header =
 sidebar-customize-firefox-settings = Administroni rregullime { -brand-short-name }-i
 sidebar-vertical-tabs =
     .label = Skeda vertikale
+sidebar-settings2 =
+    .label = Rregullime
 sidebar-hide-tabs-and-sidebar =
     .label = Fshih skeda dhe anështyllë
+sidebar-open-tools-from-sidebar =
+    .label = Hapni mjete që nga anështylla
 sidebar-show-on-the-right =
     .label = Shpjere anështyllën djathtas
 sidebar-show-on-the-left =
@@ -64,6 +86,14 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zgjeroje anështyllën, kur i kalohet kursori përsipër
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Shfaq paraparje, kur kalohet kursori përsipër
+sidebar-manage-extensions2 = Administroni krejt zgjerimet
+sidebar-customize-extensions-header2 = Zgjerime
+sidebar-customize-firefox-tools-header2 =
+    .label = Mjete
 
 ## Labels for sidebar context menu items
 
@@ -108,6 +138,56 @@ sidebar-history-context-menu-bookmark-page =
     .label = Faqeruani Faqe…
 sidebar-history-context-menu-delete-pages =
     .label = Fshini Faqe nga Historiku
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Fshije
+
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Përpunoni Faqerojtës…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Fshije Faqerojtësin
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Fshije
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Mbylle Skedën
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Renditi sipas
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Renditje skedash
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Aktive së fundi
+
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = Skeda së fundi
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Mbylle { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Mbylljani zërin skedës
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Hapjani zërin skedës
 
 ## Labels for sidebar menu items.
 
@@ -117,12 +197,19 @@ sidebar-menu-history-label =
     .label = Historik
 sidebar-menu-synced-tabs-label =
     .label = Skeda prej pajisjesh të tjera
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Skeda të hapura
 sidebar-menu-bookmarks-label =
     .label = Faqerojtës
 sidebar-menu-customize-label =
     .label = Përshtatni anështyllën
 sidebar-menu-contextual-password-manager-label =
     .label = Fjalëkalime
+sidebar-menu-resource-monitor-label =
+    .label = Mbikëqyrës burimesh
 sidebar-menu-more-tools-label =
     .label = Më tepër mjete
 
@@ -163,16 +250,49 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Skeda prej pajisjesh të tjera
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Skeda të hapura
 sidebar-menu-cpm-header =
     .heading = Fjalëkalime
+sidebar-menu-bookmarks-header =
+    .heading = Faqerojtës
 sidebar-panel-header-close-button =
     .tooltiptext = Mbylle
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menu Faqerojtësish
+sidebar-bookmarks-folder-toolbar = Panel Faqerojtësish
+sidebar-bookmarks-folder-other = Faqerojtës të Tjerë
+sidebar-bookmarks-folder-mobile = Faqerojtës Celulari
 
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Përshtatni anështyllën
 sidebar-history-title = Historik
 sidebar-syncedtabs-title = Skeda prej pajisjesh të tjera
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Skeda të hapura
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Skeda të fiksuara
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Dritarja { $winID } (e tanishmja)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Dritare { $winID }
+sidebar-bookmarks-title = Faqerojtës
 
 ## Context for closing synced tabs when hovering over the items
 
