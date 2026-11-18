@@ -1405,13 +1405,24 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Podvodná stránka!
+safebrowsing-reported-attack-site-message = Nahlášená útočná stránka!
+safebrowsing-reported-unwanted-site-message = Nahlášená stránka s nežádoucím softwarem!
+safebrowsing-reported-harmful-site-message = Nahlášená škodlivá stránka!
 safebrowsing-get-me-out-of-here-button =
     .label = Rychle odsud pryč!
     .accesskey = R
+safebrowsing-not-a-deceptive-site-button =
+    .label = Tato stránka není podvodná…
+    .accesskey = k
+safebrowsing-not-an-attack-site-button =
+    .label = Toto není útočná stránka…
+    .accesskey = T
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Pro přístup na internet se musíte do této sítě nejprve přihlásit.
 # Shown in all tabs except the login page tab. Clicking it shows the portal
 # login page tab.
 captive-portal-show-login-page-button =
