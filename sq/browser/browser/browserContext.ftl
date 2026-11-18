@@ -338,6 +338,8 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Dërgoje në Celular
     .accesskey = D
+main-context-menu-send-to-mobile-sign-in = Që të Dërgoni Skeda, Bëni Hyrjen
+main-context-menu-send-to-mobile-enable-sync2 = Që të dërgohen skeda, aktivizoni njëkohësimin
 main-context-menu-send-to-mobile-connect-phone2 = Lidhni telefonin tuaj
 main-context-menu-send-to-mobile-device-missing2 = S’e Shihni Pajisjen Tuaj?
 main-context-menu-send-to-mobile-sign-in-from-link = Bëni hyrjen, që të Dërgohet një Lidhje
@@ -367,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Shtoni Motor Kërkimesh
     .accesskey = S
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Aktivizo Menu Veprimesh
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Dërgoje Lidhjen te Pajisja
     .accesskey = P
@@ -424,6 +430,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Inspektojeni
     .accesskey = I
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Inspektoni Veti Përdorimi Nga Persona Me Aftësi të Kufizuara
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Inspektoni Veti Përdorimi Nga Persona Me Aftësi të Kufizuara
 main-context-menu-eme-learn-more =
@@ -439,6 +450,8 @@ main-context-menu-reveal-password =
     .accesskey = f
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = E re
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = Beta
 main-context-menu-pdfjs-copy-page2 =
     .label = Kopjo faqen
     .accesskey = K

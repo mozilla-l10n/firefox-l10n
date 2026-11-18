@@ -88,6 +88,7 @@ turn-on-scheduled-backups-confirm-button = Aktivizoni kopjeruajtjet
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Pati një problem me dosjen që përzgjodhët për kopjeruajtje. Zgjidhni tjetër dosje dhe riprovoni.
+turn-on-scheduled-backups-error-default-dir-denied = S’hymë dot te dosja e kopjeruajtjeve. Provoni të zgjidhni një vendndodhje të re.
 backup-error-file-system = Pati një problem me dosjen që përzgjodhët për kopjeruajtje teksa bëhej një e tillë { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
@@ -176,6 +177,7 @@ change-backup-encryption-header = Ndryshoni fjalëkalim kopjeruajtjeje
 
 password-rules-header = Domosdoshmëri fjalëkalimi
 password-rules-length-description = Të paktën 8 shenja
+password-rules-email-description2 = S’është adresë email
 password-rules-email-description = Jo adresën tuaj email
 password-rules-disclaimer = Jini të parrezik — mos ripërdorni fjalëkalime. Shihni më tepër ndihmëza se si të <a data-l10n-name="password-support-link">krijohen fjalëkalime të fuqishëm</a>.
 password-validity-has-email = S’mund të jetë një adresë email
@@ -227,12 +229,14 @@ backup-file-how-to-restore-header = Si të rikthehet:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Hapni menunë ☰ të aplikacionit dhe kaloni te Rregullime > Njëkohësim
+backup-file-moz-browser-restore-step-2-1 = Klikoni mbi “Riktheni të dhënat tuaja” dhe përzgjidhni këtë kartelë
 backup-file-moz-browser-restore-step-3 = Rinisni { -brand-short-name }-in kur t’ju kërkohet
 backup-file-other-browser-restore-step-1 = Shkarkoni dhe instaloni { -brand-short-name }-in
 backup-file-download-moz-browser-button = Shkarkoje
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Nisni { -brand-short-name }-in, hapni menunë ☰ e aplikacionit dhe kaloni te Rregullime > Njëkohësim
+backup-file-other-browser-restore-step-3-1 = Klikoni mbi “Riktheni të dhënat tuaja” dhe përzgjidhni këtë kartelë
 backup-file-other-browser-restore-step-4 = Rinisni { -brand-short-name }-in kur t’ju kërkohet
 
 ## These strings are used in the about:restore and about:welcome pages

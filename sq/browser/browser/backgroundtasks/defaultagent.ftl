@@ -3,5 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-agent-task-description = Puna e Agjentit të Shfletuesit Parazgjedhje është të kontrollojë kur parazgjedhja ndryshohet nga { -brand-short-name } në një tjetër shfletues. Nëse ndryshimi ndodh në rrethana të dyshimta, përdoruesve do t’u kërkohet, jo më shumë se dy herë, nëse duan ta kthejnë mbrapsht te { -brand-short-name }. Kjo punë instalohet automatikisht nga { -brand-short-name } dhe riinstalohet, kur përditësohet { -brand-short-name }. Që ta çaktivizoni këtë sjellje, përditësoni parapëlqimin “default-browser-agent.enabled” te faqja about:config ose rregullimin “DisableDefaultBrowserAgent” për { -brand-short-name } në shkallë ndërmarrjesh.
+default-browser-notification-privacy-header-text = Të qëndrohet me { -brand-short-name }-in?
+default-browser-notification-privacy-body-text = Parazgjedhja juaj ndryshoi. Rikthehuni te { -brand-short-name }-i për privatësi dhe mbrojtje të brendshme.
 default-browser-notification-yes-button-text = Po
 default-browser-notification-privacy-no-button-text = Jo, faleminderit

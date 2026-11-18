@@ -347,6 +347,7 @@ quickactions-bookmarks2 = Administroni faqerojtës
 quickactions-cmd-bookmarks = faqerojtës
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Spastro historik së fundi
+quickactions-cmd-clearrecenthistory2 = “cookies”, spastro cookie-t, fshehtinë, spastro fshehtinë, të dhëna shfletimi, spastro të dhëna shfletimi, historik, spastro historik së fundi
 # Opens about:downloads page
 quickactions-downloads2 = Shihni shkarkime
 quickactions-cmd-downloads = shkarkime
@@ -367,6 +368,7 @@ quickactions-inspector2 = Hap Mjete Zhvilluesish
 quickactions-cmd-inspector2 = mbikëqyrë, mjete zhvilluesi
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Zgjidhni një ngjyrë
+quickactions-cmd-colorpicker = zgjedhës ngjyrash, pikatore, zgjidhni ngjyrë
 # Opens Firefox Library
 quickactions-cmd-library = bibliotekë
 quickactions-library = Hap Bibliotekën

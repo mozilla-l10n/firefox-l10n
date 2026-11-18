@@ -302,6 +302,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Jepuani { -brand-product-name }-in të tjerëve
+    .accesskey = J
 appmenu-get-help =
     .label = Merrni ndihmë
     .accesskey = M
@@ -313,6 +318,9 @@ appmenu-help-share-ideas =
     .accesskey = d
 appmenu-help-switch-device =
     .label = Kalim në një pajisje të re
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ndihmë dhe Njoftim
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -351,15 +359,23 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Bëni hyrjen në llogarinë tuaj
+appmenuitem-monitor-title2 = I paraprini Vjedhjes së Identitetit
+appmenuitem-monitor-description2 = Merrni sinjalizime rreth cenimesh të dhënash
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Sinjalizime { -monitor-brand-short-name } Cenimesh të Dhënash
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Merrni sinjalizime cenimesh të dhënash
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mbajeni Email-in Tuaj Privat
+appmenuitem-relay-description2 = Ndihmon të parandalohen mesazhe të padëshiruar në të marrët tuaj
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
 appmenuitem-relay-title-signed-in = Shihni Maska Email-i
 appmenuitem-relay-description = Maskoni email-in dhe telefonin tuaj të njëmendtë
 appmenuitem-services-relay-description = Hap pultin e maskave të email-eve
 appmenuitem-vpn-title2 = Fshihni Vendndodhjen tuaj, me { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Merrni mbrojtje shtesë nëpër pajisje
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Shkarkoni { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Merrni mbrojtje të tërë pajisjes
 appmenu-services-header = Shërbimet e mia
@@ -391,6 +407,7 @@ appmenu-profile-current-in-use = Profil i tanishëm në përdorim
 fxa-menu-create-profile-subpanel =
     .title = Krijoni një profil të ri
 fxa-menu-create-profile-heading = Ngrijeni më lart shfletimin tuaj, me një profil të ri
+fxa-menu-create-profile-description = Mbani faqerojtësit tuaj, fjalëkimet dhe historikun veçmas nga shfletimi juaj për punë dhe personal.
 fxa-menu-create-profile-confirm =
     .label = Krijoni profil të ri
 fxa-menu-create-profile-learn-more =
@@ -405,3 +422,15 @@ appmenu-secure-sync-header = Njëkohësim i siguruar
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Skeda së fundi
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Shihni { $tabCount } Skedë të Njëkohësuar
+           *[other] Shihni Krejt { $tabCount } Skedat e Njëkohësuara
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Dërgoje Faqen e Tanishme te Kjo Pajisje
