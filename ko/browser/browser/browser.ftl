@@ -135,6 +135,17 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } 관
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = 부정확한 위치 신고
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = 덜 자주 보기
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = 날씨 제안을 표시하지 않음
+    .accesskey = n
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = 부정확한 위치 신고
 urlbar-result-menu-show-less-frequently2 = 덜 자주 보기
 urlbar-result-menu-dont-show-weather-suggestions2 = 날씨 제안을 표시하지 않음
