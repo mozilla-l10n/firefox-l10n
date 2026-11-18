@@ -847,6 +847,9 @@ urlbar-result-realtime-opt-in-not-now = Ne tagad
 urlbar-result-realtime-opt-in-dismiss = Noraidīt
 urlbar-result-realtime-opt-in-dismiss-all2 = Nerādīt šos ieteikumus
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Nerādīt tirgus ieteikumus
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Nerādīt tirgus ieteikumus
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Nerādīt šos ieteikumus
