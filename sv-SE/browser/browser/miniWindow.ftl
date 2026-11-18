@@ -72,7 +72,7 @@ mini-window-overlay-instructions = Dra eller klicka för att välja ett område 
 
 mini-window-panel-header = Välj vad du vill flytta till ett minifönster
 # Selection for what to move to a Mini Window
-mini-window-panel-part-of-page = Del av sidan
+mini-window-panel-part-of-page = En del av sidan
 # Selection for what to move to a Mini Window
 mini-window-panel-full-page = Hela sidan
 mini-window-panel-move-selection = Flytta markering

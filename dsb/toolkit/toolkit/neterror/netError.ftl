@@ -205,10 +205,10 @@ certerror-mitm-what-can-you-do-about-it-antivirus = Jolic waša antiwirusowa sof
 certerror-mitm-what-can-you-do-about-it-corporate = Jolic sćo we firmowej seśi, móžośo se ze swójim IT-wótźělenim do zwiska stajiś.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack = Jolic se z <b>{ $mitm }</b> njewuznawaśo, mógło to nadpad a wy njedejał z tym sedłom zwězaś.
+certerror-mitm-what-can-you-do-about-it-attack = Jolic se z <b>{ $mitm }</b> njewuznawaśo, mógło to nadpad byś a wy njedejał z tym sedłom zwězaś.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack-sts = Jolic se z <b>{ $mitm }</b> njewuznawaśo, mógło to nadpad, a njedajo nic, což móžośo, aby pśistup k sydłoju měł.
+certerror-mitm-what-can-you-do-about-it-attack-sts = Jolic se z <b>{ $mitm }</b> njewuznawaśo, mógło to nadpad byś, a njedajo nic, což móžośo, aby pśistup k sedłoju měł.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ma wěstotne pšawidło z mjenim HTTP Strict Transport Security (HSTS), kótarež wóznamjenijo, až { -brand-short-name } móžo se jano wěsće zwězaś. Njamóžośo wuwześe pśidaś, aby se toś tomu sydłoju woglědał.

@@ -1162,6 +1162,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Embojuehe...
     .title = Embojuehe ko’ág̃a
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Ñembojuehe ko’ág̃a ejapóta ko mba’e’okápe añoite.
 
 ## The list of things currently syncing.
 
