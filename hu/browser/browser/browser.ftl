@@ -1321,10 +1321,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Félrevezető oldal!
+safebrowsing-reported-attack-site-message = Bejelentett támadó webhely!
+safebrowsing-reported-unwanted-site-message = Bejelentett, nem kívánatos szoftvereket terjesztő oldal!
+safebrowsing-reported-harmful-site-message = Bejelentett ártalmas oldal!
+safebrowsing-get-me-out-of-here-button =
+    .label = Oldal elhagyása
+    .accesskey = O
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ez nem félrevezető oldal…
+    .accesskey = n
+safebrowsing-not-an-attack-site-button =
+    .label = Ez nem támadó webhely…
+    .accesskey = E
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Az internet elérése előtt be kell jelentkezni a hálózatra.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Hálózati bejelentkezés oldal megnyitása
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
