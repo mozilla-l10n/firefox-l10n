@@ -65,6 +65,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partajează…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Vezi informații despre site
 
@@ -759,6 +762,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizat
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Întreabă
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1298,6 +1306,20 @@ plugin-crashed-notification-submit-button =
     .label = Trimite un raport de defecțiuni
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1349,6 +1371,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1499,9 +1524,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Șterge o parte sau toate datele de navigare
-    .tooltiptext = Șterge o parte sau toate datele de navigare
 fire-button-panel-heading = Ștergi toate datele de navigare?
 fire-button-panel-description = Îți va șterge istoricul, cookie-urile și datele despre site-uri. Vei ieși din conturi de pe toate site-urile. Această fereastră se va închide și { -brand-short-name } va deschide una nouă.
 fire-button-panel-choose-description = Dacă nu vrei să ștergi tot, alege, în schimb, date specifice.
@@ -1619,6 +1641,13 @@ file-picker-crashed-open = Fereastra de dialog pentru fișiere Windows s-a oprit
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Fișierul va fi salvat în { $path }.
 file-picker-crashed-save-nowhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Nu s-a găsit nicio locație implicită; fișierul nu va fi salvat.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Afișează în dosar
     .accessKey = F
@@ -1694,6 +1723,9 @@ trustpanel-blocker-see-all = Afișează tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecții împotriva urmăririi pentru { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
