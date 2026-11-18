@@ -1299,6 +1299,7 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = 您是要访问 { $hostName } 吗？
 
 ## Password save/update panel
 
