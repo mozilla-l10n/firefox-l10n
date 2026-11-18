@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gestion de PIN
 about-webauthn-credential-management-section-title = Gerer le credentiales
 about-webauthn-pin-required-section-title = PIN obligatori
 about-webauthn-confirm-deletion-section-title = Confirmar deletion
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Registros
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Registrationes biometric
 
@@ -75,6 +77,12 @@ about-webauthn-add-bio-enrollment-button = Adder inrolamento
 about-webauthn-cancel-button = Cancellar
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Deler
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Initiar
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Stoppar
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Vacuar
 about-webauthn-start-enrollment-button = Initiar inrolamento
 about-webauthn-update-button = Actualisar
 

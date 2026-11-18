@@ -650,6 +650,11 @@ support-get-help =
 support-share-ideas =
     .label = Compartir ideas e commentarios
 
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = Inscriber se
+
 ## General Section - Performance
 
 performance-settings-learn-more = Saper plus

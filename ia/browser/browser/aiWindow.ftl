@@ -381,3 +381,9 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Ignorar { $text }
     .title = Ignorar { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-model-auto = Automatic
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Recommendate

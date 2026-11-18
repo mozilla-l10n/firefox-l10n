@@ -211,6 +211,7 @@ ipprotection-locations-subview-promo =
     .heading = Sume ulterior protection con { -mozilla-vpn-brand-name }
     .message = Elige de plus que 300 positiones e protege tote tu applicationes sur maximo 5 apparatos.
 ipprotection-locations-subview-promo-button = Obtene { -mozilla-vpn-brand-name }
+ipprotection-locations-subview-set-default-promo-button = Aperir ligamines con { -brand-short-name }
 
 ## VPN paused state
 

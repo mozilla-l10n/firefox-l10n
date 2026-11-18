@@ -572,6 +572,22 @@ onboarding-minimal-tabs-tooltip =
 onboarding-minimal-tabs-description =
     .aria-description = Një dritare shfletuesi që shfaq skeda si ikona të vockla përgjatë anës së ekranit, në një anështyllë të minimizuar.
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Kaloni kurdo nga Dritare Klasike në të Mençur dhe anasjelltas.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Terma Përdorimi për { -brand-product-name }-in
+smartwindow-existing-user-fx-tou-body = Që të përdorni { -smart-window-brand-name }, Ju lutemi, pranoni <a data-l10n-name="terms_of_use">Kushte Përdorimi</a> dhe <a data-l10n-name="privacy_notice">Shënimin e përditësuar të Privatësisë</a>.
+smartwindow-existing-user-fx-tou-accept = Pranojeni
+smartwindow-existing-user-fx-tou-go-back = Kthehuni mbrapsht
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-subtitle = Përmblidhni, krahasoni dhe bëni pyetje pa humbur kohë.
+
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-rejected-title = E mora vesh

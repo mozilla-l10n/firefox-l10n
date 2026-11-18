@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Elige un modello basate sur lo que es importante pro te.
     .label = Modello de assistente
+smart-window-model-section-v2 =
+    .description = Le modellos face functionar le chats e le actiones
+    .label = Modello
 smart-window-model-radio-group =
     .aria-label = Modello de assistente
 smart-window-model-learn-link = Saper plus re modellos
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } elige le melior modello pro tu carga
+    .label = Modello automatic
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -67,6 +73,9 @@ smart-window-model-custom-save =
     .label = Salvar
 smart-window-model-custom-save-confirmation = Detalios de modello salvate. Initia un nove chat pro verificar.
 ai-window-memories-section =
+    .description = { -brand-short-name } pote apprender ab tu activitate a crear memorias.
+    .label = Memorias
+ai-window-memories-section-v2 =
     .description = { -brand-short-name } pote apprender ab tu activitate a crear memorias.
     .label = Memorias
 ai-window-learn-from-chat-activity =
@@ -106,3 +115,6 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Create pro assistentia personalisate trans linguas. Nomine complete: { $model } per { $ownerName }
     .label = { $shortName }: Personal
+smart-window-model-qwen =
+    .description = Illos es usate pro adjutar a adaptar tu experientia e es reservate localmente sur tu apparato.
+    .label = { $shortName }
