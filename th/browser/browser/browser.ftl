@@ -1229,6 +1229,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = ไซต์หลอกลวง!
+safebrowsing-reported-attack-site-message = ไซต์รุกรานตามการรายงาน!
+safebrowsing-reported-unwanted-site-message = ไซต์ที่มีซอฟต์แวร์ไม่พึงประสงค์ตามการรายงาน!
+safebrowsing-reported-harmful-site-message = ไซต์อันตรายตามการรายงาน!
+safebrowsing-get-me-out-of-here-button =
+    .label = นำฉันออกไปจากที่นี่!
+    .accesskey = น
+safebrowsing-not-a-deceptive-site-button =
+    .label = นี่ไม่ใช่ไซต์หลอกลวง…
+    .accesskey = ห
+safebrowsing-not-an-attack-site-button =
+    .label = นี่ไม่ใช่ไซต์รุกราน…
+    .accesskey = ร
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1240,6 +1253,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = คุณหมายถึงจะไปยัง { $hostName } หรือไม่?
+keyword-uri-fixup-go-to-button =
+    .label = ใช่ พาฉันไปที่ { $hostName }
+    .accesskey = ช
 
 ## Password save/update panel
 
