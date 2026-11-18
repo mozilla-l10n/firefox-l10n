@@ -318,6 +318,11 @@ search-one-offs-add-engine =
     .tooltiptext = Adaugă motorul de căutare „{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Adaugă motor de căutare
+    .accesskey = A
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Adaugă motor de căutare
 
