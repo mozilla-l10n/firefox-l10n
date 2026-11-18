@@ -1316,6 +1316,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Sajt i Rremë!
+safebrowsing-reported-attack-site-message = I raportuar si Sajt Sulmesh!
+safebrowsing-reported-unwanted-site-message = I raportuar si Sajt Software-i të Padëshiruar!
+safebrowsing-reported-harmful-site-message = Sajt i Raportuar Si i Dëmshëm!
+safebrowsing-get-me-out-of-here-button =
+    .label = Hiqmë prej këtej!
+    .accesskey = H
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ky s’është sajt i rremë…
+    .accesskey = R
+safebrowsing-not-an-attack-site-button =
+    .label = Ky s’është sajt sulmesh…
+    .accesskey = S
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
