@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Изберете профил на { -brand-short-name }
+profile-window-body = Дръжте служебното си и личното сърфиране, включително неща като пароли и отметки, напълно разделени. Или създайте профили за всеки, който използва това устройство.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Избор на профил при отваряне на { -brand-short-name }
