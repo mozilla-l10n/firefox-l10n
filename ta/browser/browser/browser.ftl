@@ -438,10 +438,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = ஏமாற்றும் தளம்!
+safebrowsing-reported-attack-site-message = தாக்கப்பட்ட இணையதளம் என அறிக்கையிடப்பட்டுள்ளது!
+safebrowsing-reported-unwanted-site-message = விரும்பத்தகா மென்பொருள் தளமென புகார் செய்யப்பட்டது!
+safebrowsing-reported-harmful-site-message = தீங்கான தளம் புகாரளிக்கப்பட்டது!
+safebrowsing-get-me-out-of-here-button =
+    .label = இங்கிருந்து என்ன வெளியேற்று!
+    .accesskey = வ
+safebrowsing-not-a-deceptive-site-button =
+    .label = இது ஏமாற்றுத் தளமல்ல…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = இது ஒரு தாக்கப்பட்ட இணைய தளம் இல்லை…
+    .accesskey = ஒ
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = இணையத்தை அணுகும் முன்னர் இந்தப் பிணையத்தில் உள்நுழைய வேண்டும்.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = பிணையப் புகுபதிகை பக்கத்தைத் திறக்கவும்
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -449,6 +467,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = { $hostName } என்பதற்கு போக நினைத்தீர்களா?
+keyword-uri-fixup-go-to-button =
+    .label = ஆம், { $hostName } என்பதற்கு செல்
+    .accesskey = ஆ
 
 ## Password save/update panel
 
