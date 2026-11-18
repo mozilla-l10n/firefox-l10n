@@ -746,6 +746,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Veebivõltsingu hoiatus!
+safebrowsing-reported-attack-site-message = Ründava veebilehe hoiatus!
+safebrowsing-reported-unwanted-site-message = Soovimatu tarkvara levitamise kahtlus!
+safebrowsing-reported-harmful-site-message = Kahjuliku veebilehe hoiatus!
+safebrowsing-get-me-out-of-here-button =
+    .label = Aita mind siit välja!
+    .accesskey = A
+safebrowsing-not-a-deceptive-site-button =
+    .label = See pole veebivõltsing…
+    .accesskey = S
+safebrowsing-not-an-attack-site-button =
+    .label = See pole ründav veebileht…
+    .accesskey = S
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -757,6 +770,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Kas soovisid minna aadressile "{ $hostName }"?
+keyword-uri-fixup-go-to-button =
+    .label = Jah, ava aadress "{ $hostName }"
+    .accesskey = J
 
 ## Password save/update panel
 
