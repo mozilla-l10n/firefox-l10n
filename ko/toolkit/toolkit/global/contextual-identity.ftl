@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = 점
 user-context-icon-fence =
     .label = 울타리
+user-context-icon-robot =
+    .label = 로봇

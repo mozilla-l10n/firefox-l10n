@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = 탭 8로 이동
 customkeys-nav-select-last-tab = 마지막 탭으로 이동
 customkeys-nav-toggle-mute = 오디오 음소거/음소거 해제
 customkeys-edit-find-previous = 이전 찾기
+customkeys-edit-find-selection = 찾기에 선택 영역 사용
 customkeys-tools-screenshot = 스크린샷 찍기
 customkeys-category-navigation-2 =
     .heading = 탐색
