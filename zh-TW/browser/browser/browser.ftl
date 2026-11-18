@@ -1022,6 +1022,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } 上的熱門趨勢
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = 不要顯示搜尋趨勢
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 不要顯示搜尋趨勢
     .accesskey = D
 # The result menu labels shown next to trending results.
