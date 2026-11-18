@@ -140,6 +140,17 @@ urlbar-result-menu-manage-firefox-suggest2 = Կառավարել { -firefox-sugge
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Հաղորդել ոճ ճշգրիտ տեղադրության մասին
+    .accesskey = Հ
+urlbar-result-menu-show-less-frequently3 = Ցուցադրել հազվադեպ
+    .accesskey = Ց
+urlbar-result-menu-dont-show-weather-suggestions3 = Չցուցադրել եղանակի առաջարկներ
+    .accesskey = Չ
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Հաղորդել ոճ ճշգրիտ տեղադրության մասին
 urlbar-result-menu-show-less-frequently2 = Ցուցադրել հազվադեպ
 urlbar-result-menu-dont-show-weather-suggestions2 = Չցուցադրել եղանակի առաջարկներ
@@ -842,6 +853,9 @@ urlbar-result-realtime-opt-in-allow = Ցուցադրել առաջարկներ
 urlbar-result-realtime-opt-in-not-now = Ոչ հիմա
 urlbar-result-realtime-opt-in-dismiss = Բաց թողնել
 urlbar-result-realtime-opt-in-dismiss-all2 = Չցուցադրել այս առաջարկները
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Չցուցադրել այս առաջարկները
+    .accesskey = Չ
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Չցուցադրել այս առաջարկները
 urlbar-result-realtime-opt-in-dismiss-all =
