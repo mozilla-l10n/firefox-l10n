@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 分享…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 檢視網站資訊
 
@@ -751,6 +754,11 @@ urlbar-result-weather-title-city-only = { $city } 氣溫 <strong>{ $temperature 
 urlbar-result-weather-provider-sponsored = { $provider }∙贊助資訊
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 詢問
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1272,6 +1280,20 @@ plugin-crashed-notification-submit-button =
     .label = 送出一份錯誤報告
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1322,6 +1344,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1470,9 +1495,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = 刪除您部分或全部的瀏覽資料
-    .tooltiptext = 刪除您部分或全部的瀏覽資料
 fire-button-panel-heading = 要刪除所有瀏覽資料嗎？
 fire-button-panel-description = 將清除瀏覽紀錄、Cookie 與網站資料，並將您登出所有網站。此視窗將會關閉，接著 { -brand-short-name } 會開啟新視窗。
 fire-button-panel-choose-description = 若不想刪除所有資料，可以只選擇特定資料進行刪除。
@@ -1578,6 +1600,13 @@ file-picker-crashed-open = Windows 檔案對話框發生錯誤，無法選擇任
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 檔案對話框發生錯誤，檔案將儲存至 { $path }。
 file-picker-crashed-save-nowhere = Windows 檔案對話框發生錯誤，找不到預設資料夾，無法儲存檔案。
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 於資料夾顯示
     .accessKey = F
@@ -1653,6 +1682,9 @@ trustpanel-blocker-see-all = 檢視全部
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } 的追蹤保護
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
