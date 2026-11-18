@@ -1006,6 +1006,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } 인기
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = 인기 검색어를 표시하지 않음
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 인기 검색어를 표시하지 않음
     .accesskey = D
 # The result menu labels shown next to trending results.
