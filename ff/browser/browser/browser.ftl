@@ -466,10 +466,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Lowre Fuuntoore!
+safebrowsing-reported-attack-site-message = Jaŋtaama ko Lowre Njangu!
+safebrowsing-reported-unwanted-site-message = Koko jaŋtaa Lowre Topirde añaande!
+safebrowsing-reported-harmful-site-message = Jaŋtaama lowre bonnde!
+safebrowsing-get-me-out-of-here-button =
+    .label = Yaltin am ɗoo!
+    .accesskey = m
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ɗum wonaa lowre fuuntoore…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Ɗum wonaa lowre njangu…
+    .accesskey = n
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Aɗa foti seŋaade tawo e ngolɗoo laylaytol hade maa heɓde enternet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Uddit Hello Seŋorgo Laylaytol
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
