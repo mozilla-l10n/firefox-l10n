@@ -599,6 +599,9 @@ urlbar-result-realtime-opt-in-not-now = এখন নয়
 urlbar-result-realtime-opt-in-dismiss = বাতিল
 urlbar-result-realtime-opt-in-dismiss-all2 = এই পরামর্শগুলি দেখাবেন না
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = মার্কেটের পরামর্শগুলি দেখাবেন না
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = মার্কেটের পরামর্শগুলি দেখাবেন না
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = এই পরামর্শগুলি দেখাবেন না
