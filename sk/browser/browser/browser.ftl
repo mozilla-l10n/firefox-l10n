@@ -853,6 +853,9 @@ urlbar-result-realtime-opt-in-not-now = Teraz nie
 urlbar-result-realtime-opt-in-dismiss = Zavrieť
 urlbar-result-realtime-opt-in-dismiss-all2 = Nezobrazovať tieto návrhy
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Nezobrazovať návrhy z akciových trhov
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Nezobrazovať návrhy z akciových trhov
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Nezobrazovať tieto návrhy
