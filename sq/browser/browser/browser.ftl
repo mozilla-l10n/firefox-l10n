@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Ndajeni me të tjerë…
     .accesskey = N
+
+##
+
 urlbar-identity-button =
     .aria-label = Shihni hollësi sajti
 
@@ -751,6 +754,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pyetni
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1284,6 +1292,20 @@ plugin-crashed-notification-submit-button =
     .label = Parashtroni një njoftim vithisjeje
     .accesskey = P
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1334,6 +1356,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = M
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1482,9 +1507,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Fshini ca, ose krejt të dhënat tuaja të shfletimit
-    .tooltiptext = Fshini ca, ose krejt të dhënat tuaja të shfletimit
 fire-button-panel-heading = Të fshihen krejt të dhënat e shfletimit?
 fire-button-panel-description = Kjo sjell fshirjen e historikut, cookie-ve dhe të dhënave të sajteve. Do të bëhet dalja juaj nga llogari nëpër sajte. Kjo dritare do të mbyllet dhe { -brand-short-name }-i do të hapë një të re.
 fire-button-panel-choose-description = Nëse s’doni të fshihet gjithçka, zgjidhni të dhëna specifike atëherë.
@@ -1594,6 +1616,13 @@ file-picker-crashed-open = Dialogu Windows për kartela u vithis. S’përzgjidh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialogu Windows për kartela u vithis. Kartela do të ruhet te { $path }.
 file-picker-crashed-save-nowhere = Dialogu Windows për kartela u vithis. S’përzgjidhej dot dosje parazgjedhje; kartela s’do të ruhet.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Shfaqe Në Dosje
     .accessKey = D
@@ -1669,6 +1698,9 @@ trustpanel-blocker-see-all = Shihini Krejt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Mbrojtje nga gjurmimet për { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
