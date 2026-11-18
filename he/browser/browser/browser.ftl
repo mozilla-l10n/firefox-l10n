@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = לא כעת
 urlbar-result-realtime-opt-in-dismiss = סגירה
 urlbar-result-realtime-opt-in-dismiss-all2 = לא להציג הצעות אלו
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = לא להציג הצעות שוק מניות
+    .accesskey = ל
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = לא להציג הצעות שוק מניות
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = לא להציג הצעות אלו
