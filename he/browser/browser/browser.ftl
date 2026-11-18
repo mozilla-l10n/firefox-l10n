@@ -1042,6 +1042,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = פופולרי ב־{ $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = לא להציע חיפושים פופולריים
+    .accesskey = ל
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = לא להציע חיפושים פופולריים
     .accesskey = פ
 # The result menu labels shown next to trending results.
