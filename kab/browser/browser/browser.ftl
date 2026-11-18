@@ -827,6 +827,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Yettwassen ɣef { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ur d-skanay ara inadiyen yettwassnen
+    .accesskey = U
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ur d-skanay ara inadiyen yettwassnen
     .accesskey = U
 # The result menu labels shown next to trending results.
