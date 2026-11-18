@@ -452,6 +452,7 @@ plugin-crashed-notification-submit-button =
 safebrowsing-deceptive-site-message = প্রতারক সাইট!
 safebrowsing-reported-attack-site-message = চিহ্নিত হাণিকারক সাইট!
 safebrowsing-reported-unwanted-site-message = সন্দেহভাজন অবাঞ্ছিত সফ্টওয়্যার সাইট রিপোর্ট করা হয়েছে!
+safebrowsing-reported-harmful-site-message = ক্ষতিগ্রস্ত সাইট রিপোর্ট করুন!
 safebrowsing-get-me-out-of-here-button =
     .label = আমি এখান থেকে প্রস্থান করতে চাই!
     .accesskey = G
