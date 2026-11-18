@@ -1349,6 +1349,10 @@ captive-portal-show-login-page-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Μήπως θέλατε να μεταβείτε στο { $hostName };
+keyword-uri-fixup-go-to-button =
+    .label = Ναι, μετάβαση στο { $hostName }
+    .accesskey = Ν
 
 ## Password save/update panel
 
