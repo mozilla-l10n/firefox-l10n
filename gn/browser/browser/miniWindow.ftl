@@ -70,6 +70,7 @@ mini-window-overlay-header = Embosa’y kuatiarogue vore ojehecha hag̃ua
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
+mini-window-panel-header = Eiporavo mba’e emongu’étava ovetã’ípe
 # Selection for what to move to a Mini Window
 mini-window-panel-part-of-page = Kuatiarogue rehegua
 # Selection for what to move to a Mini Window
