@@ -315,6 +315,11 @@ search-one-offs-add-engine =
     .tooltiptext = Προσθήκη μηχανής αναζήτησης «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Προσθήκη μηχανής αναζήτησης
+    .accesskey = Π
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Προσθήκη μηχανής αναζήτησης
 
