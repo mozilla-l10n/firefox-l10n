@@ -1046,6 +1046,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Tendences meklētājā { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Nerādīt tendences meklēšanas vaicājumos
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nerādīt tendences meklēšanas vaicājumos
     .accesskey = N
 # The result menu labels shown next to trending results.
