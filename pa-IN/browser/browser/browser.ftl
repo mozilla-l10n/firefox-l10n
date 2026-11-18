@@ -1040,6 +1040,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } ਉੱਤੇ ਰੁਝਾਨ
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = ਖੋਜਾਂ ਦੇ ਰੁਝਾਨ ਨਾ ਦਿਖਾਓ
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ਖੋਜਾਂ ਦੇ ਰੁਝਾਨ ਨਾ ਦਿਖਾਓ
     .accesskey = D
 # The result menu labels shown next to trending results.
