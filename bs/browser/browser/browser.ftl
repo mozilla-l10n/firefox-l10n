@@ -776,6 +776,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = U trendu na { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ne prikazuj popularna pretraživanja
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ne prikazuj popularna pretraživanja
     .accesskey = D
 # The result menu labels shown next to trending results.
