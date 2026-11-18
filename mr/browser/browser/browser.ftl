@@ -463,10 +463,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = फसवी साईट!
+safebrowsing-reported-attack-site-message = प्रभावीत स्थळ कळविले गेले!
+safebrowsing-reported-unwanted-site-message = नको असलेली सॉफ्टवेअर साईट कळवली!
+safebrowsing-reported-harmful-site-message = हानीकारक साइट नोंदवली!
+safebrowsing-get-me-out-of-here-button =
+    .label = मला येथून बाहेर काढा!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = ही साईट फसवी नाही…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = ही अटॅक साइट नाही…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = इंटरनेट वापरण्या आधी आपल्याला या नेटवर्क मध्ये लॉग इन करावे लागेल.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = नेटवर्क लॉग इन पृष्ठ उघडा
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -474,6 +492,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = आपणास { $hostName } कडे जायचे?
+keyword-uri-fixup-go-to-button =
+    .label = होय, मला { $hostName } कडे न्या
+    .accesskey = Y
 
 ## Password save/update panel
 
