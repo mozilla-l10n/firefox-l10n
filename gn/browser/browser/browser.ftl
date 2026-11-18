@@ -53,6 +53,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Moherakuã…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Ehecha marandu ko tenda pegua
 
@@ -301,6 +304,11 @@ search-one-offs-add-engine =
     .aria-label = Embojuaju jehekaha mongu’eha “{ $engineName }”
     .label = Embojuaju “{ $engineName }”
     .tooltiptext = Embojuaju jehekaha mongu’eha “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Hekaha mbojoapy
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -746,6 +754,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Ykekopyre
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Porandu
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1279,6 +1292,20 @@ plugin-crashed-notification-submit-button =
     .label = Jekái mbotapykue mondo
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1329,6 +1356,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1574,6 +1604,13 @@ file-picker-crashed-open = Marandurenda ñemongetaha Windows pegua ndoikói. Ndo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Marandurenda ñemongetaha Windows pegua ndoikói. Marandurenda ohóta { $path }-pe.
 file-picker-crashed-save-nowhere = Marandurenda ñemongetaha Windows ndoikói. Ndojejuhúi marandurenda ypyguáva; marandurenda noñeñongatumo’ãi.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ehechauka ñongatuhápe
     .accessKey = F
@@ -1649,6 +1686,9 @@ trustpanel-blocker-see-all = Hechapa
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Tapykuehoha mo’ãha { $host }-pe g̃uarã
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
