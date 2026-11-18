@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Comparteix…
     .accesskey = C
+
+##
+
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -311,6 +314,11 @@ search-one-offs-add-engine =
     .aria-label = Afegeix el motor de cerca «{ $engineName }»
     .label = Afegeix «{ $engineName }»
     .tooltiptext = Afegeix el motor de cerca «{ $engineName }»
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Afegeix un motor de cerca
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -756,6 +764,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinat
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1289,6 +1302,20 @@ plugin-crashed-notification-submit-button =
     .label = Envia un informe de fallada
     .accesskey = f
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1339,6 +1366,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = e
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1489,9 +1519,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Suprimeix algunes o totes les dades de navegació
-    .tooltiptext = Suprimeix algunes o totes les dades de navegació
 fire-button-panel-heading = Voleu suprimir totes les dades de navegació?
 fire-button-panel-description = Això suprimeix l'historial, les galetes i les dades dels llocs. Es tancarà la sessió als llocs. Aquesta finestra es tancarà i el { -brand-short-name } n'obrirà una de nova.
 fire-button-panel-choose-description = Si no voleu suprimir-ho tot, trieu només algunes dades.
@@ -1602,6 +1629,13 @@ file-picker-crashed-open = El diàleg de fitxers del Windows ha fallat. No s'ha 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diàleg de fitxers del Windows ha fallat. El fitxer es desarà a { $path }.
 file-picker-crashed-save-nowhere = El diàleg de fitxers del Windows ha fallat. No s'ha trobat cap carpeta per defecte; el fitxer no es desarà.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostra en la carpeta
     .accessKey = M
@@ -1677,6 +1711,9 @@ trustpanel-blocker-see-all = Mostra-ho tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteccions conta el seguiment per a { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
