@@ -1311,10 +1311,24 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Tenda ombotavykuaáva!
+safebrowsing-reported-attack-site-message = ¡Ko tenda ha’e peteĩ ñanduti ivaíva!
+safebrowsing-reported-unwanted-site-message = ¡Oñemombe’u Software renda ivaíva!
+safebrowsing-reported-harmful-site-message = ¡Oje’ehína ko Ñandutirenda Ivaiha!
+safebrowsing-get-me-out-of-here-button =
+    .label = Cheguenohẽ ko’águi!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Kóva ndaha’éi tenda ombotavyséva…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Kóva ndaha’éi tenda ivaíva…
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Emoñepyrũ tembiapo ko ñandutírapépe eike mboyve ñandutípe.
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
