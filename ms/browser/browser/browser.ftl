@@ -833,6 +833,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Laman Mengelirukan!
+safebrowsing-reported-attack-site-message = Ini Laman Penyerang!
+safebrowsing-reported-unwanted-site-message = Ini Laman Perisian Yang Tidak Diingini!
+safebrowsing-reported-harmful-site-message = Ini Laman Berbahaya!
+safebrowsing-get-me-out-of-here-button =
+    .label = Keluarkan saya dari sini!
+    .accesskey = K
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ini bukan laman mengelirukan…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Ini bukan laman penyerang…
+    .accesskey = P
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -844,6 +857,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Adakah anda bermaksud untuk pergi ke { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ya, bawa saya ke { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
