@@ -1009,6 +1009,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } 热门搜索
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = 不再显示热门搜索
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 不再显示热门搜索
     .accesskey = D
 # The result menu labels shown next to trending results.
