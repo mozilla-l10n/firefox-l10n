@@ -315,6 +315,11 @@ search-one-offs-add-engine =
     .tooltiptext = Legg til søkjemotor «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Legg til søkjemotor
+    .accesskey = L
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Legg til søkjemotor
 
