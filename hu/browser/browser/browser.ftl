@@ -1039,6 +1039,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Felkapott ebben: { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ne jelenjenek meg a felkapott keresések
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ne jelenjenek meg a felkapott keresések
     .accesskey = N
 # The result menu labels shown next to trending results.
