@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Chia sẻ…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Xem thông tin trang
 
@@ -747,6 +750,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Được tài trợ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Hỏi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1256,6 +1264,20 @@ plugin-crashed-notification-submit-button =
     .label = Gửi báo cáo lỗi
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1302,6 +1324,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1450,9 +1475,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Xóa một phần hoặc toàn bộ dữ liệu duyệt web của bạn
-    .tooltiptext = Xóa một phần hoặc toàn bộ dữ liệu duyệt web của bạn
 fire-button-panel-heading = Xoá toàn bộ dữ liệu duyệt web?
 fire-button-panel-description = Thao tác này sẽ xóa lịch sử, cookie và dữ liệu trang web. Bạn sẽ bị đăng xuất khỏi trang web. Cửa sổ này sẽ đóng lại và { -brand-short-name } sẽ mở một cửa sổ mới.
 fire-button-panel-choose-description = Nếu bạn không muốn xóa toàn bộ, hãy chọn xóa dữ liệu cụ thể.
@@ -1557,6 +1579,13 @@ file-picker-crashed-open = Không thể mở hộp thoại tập tin Windows. Kh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Hộp thoại tập tin Windows đã bị lỗi. Tập tin sẽ được lưu vào { $path }.
 file-picker-crashed-save-nowhere = Hộp thoại tập tin Windows đã bị lỗi. Không tìm thấy thư mục mặc định; tập tin sẽ không được lưu.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Hiển thị trong thư mục
     .accessKey = F
@@ -1632,6 +1661,9 @@ trustpanel-blocker-see-all = Xem tất cả
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Trình chống theo dõi cho { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
