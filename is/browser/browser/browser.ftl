@@ -763,6 +763,9 @@ urlbar-result-realtime-opt-in-not-now = Ekki núna
 urlbar-result-realtime-opt-in-dismiss = Afgreiða
 urlbar-result-realtime-opt-in-dismiss-all2 = Ekki sýna þessar tillögur
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ekki sýna tillögur um fjármálamarkaði
+    .accesskey = E
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ekki sýna tillögur um fjármálamarkaði
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ekki sýna þessar tillögur
