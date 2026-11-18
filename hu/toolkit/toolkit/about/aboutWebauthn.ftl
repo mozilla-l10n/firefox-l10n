@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-kezelés
 about-webauthn-credential-management-section-title = Hitelesítő adatok kezelése
 about-webauthn-pin-required-section-title = PIN szükséges
 about-webauthn-confirm-deletion-section-title = Törlés megerősítése
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Naplózás
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometrikus regisztrációk
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = A beállítások nem kezelhetők, mert a 
 about-webauthn-text-not-available = Nem érhető el ezen a platformon.
 about-webauthn-bio-enrollment-list-subsection-title = Regisztrációk:
 about-webauthn-add-bio-enrollment-section-title = Új regisztráció hozzáadása
+about-webauthn-logging-warning = A napló személyes adatokat tartalmazhat, például felhasználóneveket, fiókazonosítókat és webhelycímeket. Megosztás előtt tekintse át.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Ez csak a { -brand-short-name } natív CTAP-megvalósításához érkezett kéréseket naplózza. Nem naplózza a WebAuthn API-knak vagy a böngészőkiegészítőknek küldött kéréseket.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Regisztráció hozzáadása
 about-webauthn-cancel-button = Mégse
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Törlés
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Kezdés
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Leállítás
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Törlés
 about-webauthn-start-enrollment-button = Regisztráció indítása
 about-webauthn-update-button = Frissítés
 

@@ -63,6 +63,6 @@
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
     { $case ->
-        [lower] intelligens ablak
-       *[upper] Intelligens ablak
+       *[lower] intelligens ablak
+        [upper] Intelligens ablak
     }

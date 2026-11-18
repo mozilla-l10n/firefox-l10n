@@ -650,6 +650,14 @@ support-get-help =
 support-share-ideas =
     .label = Ötletek és visszajelzések megosztása
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Kapjon leírásokat, tanácsokat és híreket, hogy a lehető legjobbá tegye a { -brand-product-name }szal kapcsolatos élményét.
+    .label = { -brand-product-name } hírlevél
+newsletter-sign-up-link =
+    .label = Feliratkozás
+
 ## General Section - Performance
 
 performance-settings-learn-more = További tudnivalók

@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Növelje a védelmét a { -mozilla-vpn-brand-name }-nel
     .message = Válasszon több mint 300 hely közül, és védje meg az alkalmazásait akár 5 eszközön.
 ipprotection-locations-subview-promo-button = A { -mozilla-vpn-brand-name } beszerzése
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = További helyek. Több védelem.
+    .message = Tegye a { -brand-short-name }ot az alapértelmezetté, és kapjon további { $count } helyet. A hivatkozásai itt nyílnak meg, ahol a VPN be van építve.
+ipprotection-locations-subview-set-default-promo-button = Hivatkozások megnyitása a { -brand-short-name }szal
 
 ## VPN paused state
 

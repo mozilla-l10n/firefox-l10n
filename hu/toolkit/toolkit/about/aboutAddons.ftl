@@ -273,6 +273,9 @@ colorway-removal-notice-button = Frissített színvilágtémák beszerzése
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = A Windows kontrasztbeállításai felülírják a { -brand-short-name } témákat. Kapcsolja ki ezeket a beállításokat, hogy témákat használjon a { -brand-short-name }ban.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = Az { -smart-window-brand-name(case: "lower") } saját beépített világos és sötét témáival rendelkezik, amelyek követik a rendszerbeállításokat.
 privacy-policy = Adatvédelmi irányelvek
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

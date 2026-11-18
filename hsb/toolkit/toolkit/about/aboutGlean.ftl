@@ -57,7 +57,7 @@ about-glean-manual-testing =
     Dospołne instrukcije so w
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentach testowanja instrumentacije</a>
     a w <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentaciji</a> dokumentuja,
-    ale, krótko prajene, zo byšće manuelnje testował, hač waša instrumentacije funguje, wy měł:
+    ale, krótko prajene, zo byšće manuelnje testował, hač waša instrumentacija funguje, wy měł:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ping njesłać)
 # An in-line text input field precedes this string.

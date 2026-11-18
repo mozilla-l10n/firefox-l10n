@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-smartwindow-messages-document-title = { -smart-window-brand-name } csevegőüzenetei
+smartwindow-messages-document-title = Az { -smart-window-brand-name } csevegőüzenetei
 
 ## Context chips in the chat content
 
@@ -19,7 +19,7 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Hiba történt, próbálja újra.
 smartwindow-assistant-error-budget-header = Elérte a mai csevegési korlátot.
 smartwindow-assistant-error-account-header = Az { -smart-window-brand-name } használatához be kell jelentkeznie.
-smartwindow-assistant-error-capacity-header = A { -smart-window-brand-name(case: "lower") } elérte a korlátját. Próbálja újra később.
+smartwindow-assistant-error-capacity-header = Az { -smart-window-brand-name(case: "lower") } elérte a korlátját. Próbálja újra később.
 smartwindow-assistant-error-budget-body = Ebben az ablakban továbbra is böngészhet. A csevegés újra elérhető lesz, amint a napi korlát visszaáll.
 smartwindow-assistant-error-many-requests-header = Várjon egy kicsit, és próbálja újra. Rövid időn belül túl sok üzenet lett elküldve.
 smartwindow-assistant-error-max-length-header = Itt az ideje, hogy új csevegést kezdjen. Ez elérte a hosszkorlátját.

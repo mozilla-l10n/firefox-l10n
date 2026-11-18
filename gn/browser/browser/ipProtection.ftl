@@ -107,6 +107,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Emboyke
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Eikundaha ñemi ha hasyve hag̃ua ojehapykueko VPN juajupyre ndive.
 ipprotection-holiday-promo-primary-button = Embojuruja VPN
 ipprotection-holiday-promo-secondary-button = Emboyke
 ipprotection-holiday-promo-title-1 = Ereko VPN opa’ỹva 31 jasyteĩ peve

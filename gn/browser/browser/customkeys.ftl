@@ -21,6 +21,7 @@ customkeys-file-copy-tab-url = Embokuatia tendayke URL
 customkeys-file-focus-search = Eho jehekaha rupápe
 customkeys-history-reopen-tab = Eipe’a jey tendayke oñembotyramóva
 customkeys-history-reopen-window = Eipe’a jey tendayke oñembotyramóva
+customkeys-history-reopen-tab-current-window = Embojurujajey tendayke mbotypyre ovetã ag̃aguápe
 customkeys-sidebar-toggle = Emyandy térã embogue tenda yke
 customkeys-view-bookmarks-toolbar = Embojopyru techaukaha rembiporu renda
 customkeys-view-picture-in-picture = Picture-in-picture

@@ -21,7 +21,7 @@ menu-history-chats =
     .label = Csevegések
 menu-history-chats-recent =
     .label = Legutóbbi csevegések
-smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-fullpage-heading = { -smart-window-brand-name(case: "upper") }
 smartwindow-document-title = Új lap
 
 ## Smart Window Toggle Button
@@ -33,8 +33,8 @@ ai-window-toggleview-switch-classic-description =
     .label = Szokásos böngészés
     .value = Szokásos böngészés
 ai-window-toggleview-switch-ai =
-    .label = { -smart-window-brand-name }
-    .value = { -smart-window-brand-name }
+    .label = { -smart-window-brand-name(case: "upper") }
+    .value = { -smart-window-brand-name(case: "upper") }
 ai-window-toggleview-switch-ai-description =
     .label = Kérdezzen böngészés közben
     .value = Kérdezzen böngészés közben
@@ -42,11 +42,11 @@ ai-window-toggleview-switch-private =
     .label = Privát ablak
 ai-window-toggleview-open-private =
     .label = Új privát ablak megnyitása
-ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-active = { -smart-window-brand-name(case: "upper") }
 ai-window-toggleview-status-label-inactive = Klasszikus ablak
 toolbar-switcher-customizable-label-v2 =
-    .label = { -smart-window-brand-name } kapcsolója
-    .tooltiptext = Váltás az Intelligens és a Klasszikus ablakok között
+    .label = { -smart-window-brand-name(case: "upper") } kapcsolója
+    .tooltiptext = Váltás az intelligens és a klasszikus ablakok között
 
 ## Input CTA
 
@@ -206,7 +206,7 @@ aiwindow-history-menu-back =
     .aria-label = Vissza
     .tooltiptext = Vissza
 aiwindow-history-menu-view-all-chats = Összes csevegés megtekintése
-aiwindow-history-menu-settings = { -smart-window-brand-name } beállításai
+aiwindow-history-menu-settings = { -smart-window-brand-name(case: "upper") } beállításai
 
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
@@ -388,3 +388,27 @@ aiwindow-starter-dismiss =
 smartwindow-onboarding-welcome-subtitle =
     Ön mellett dolgozik, hogy könnyebben elvégezhesse a teendőit.
     Tervezés, összehasonlítás, felfedezés és egyebek.
+smartwindow-onboarding-subtitle = Állítsa be úgy az { -smart-window-brand-name }ot, ahogy szeretné. Bármikor módosíthatja a beállításokat.
+smartwindow-onboarding-model-label = Válassza ki az MI modelljét
+smartwindow-onboarding-model-description = A modell működteti a csevegéseket és műveleteket az { -smart-window-brand-name }ban.
+smartwindow-onboarding-model-auto = Automatikus
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Ajánlott
+smartwindow-onboarding-model-auto-description = Az { -smart-window-brand-name } választja ki a feladatához legjobban megfelelő modellt
+smartwindow-onboarding-model-mistral-description = Ideális, ha több nyelven cseveg és böngészik
+smartwindow-onboarding-model-gemini-description = Gyors válaszok, ha gyorsan halad
+smartwindow-onboarding-memories-label = Válassza ki, hogy az { -smart-window-brand-name(case: "lower") } hogyan ismerje meg Önt
+smartwindow-onboarding-memories-description = Az { -smart-window-brand-name(case: "lower") } tanulhat a csevegésekből, a böngészésből vagy mindkettőből, és memóriákat hozhat létre. Ezeket arra használja, hogy idővel személyre szabja az élményét.
+smartwindow-onboarding-memories-both = Csevegések és böngészés
+smartwindow-onboarding-memories-browsing = Csak böngészés
+smartwindow-onboarding-memories-chats = Csak csevegés
+smartwindow-onboarding-memories-none = Ne tanuljon a tevékenységből
+smartwindow-onboarding-memories-both-description = Csevegések az { -smart-window-brand-name(case: "lower") }ban, böngészés a { -brand-short-name } egészében
+smartwindow-onboarding-memories-browsing-description = Böngészés a { -brand-short-name }szal
+smartwindow-onboarding-memories-chats-description = Csevegések az { -smart-window-brand-name(case: "lower") }ban
+smartwindow-onboarding-memories-none-description = Kevesebb személyre szabott javaslatot fog látni, és előfordulhat, hogy meg kell ismételnie a részleteket a csevegésekben.
+smartwindow-onboarding-default-window =
+    .description = Használat, ha a { -brand-short-name } elindul, újraindul, vagy hivatkozásokat nyit meg más alkalmazásokból.
+    .label = Kezdés { -smart-window-brand-name(case: "lower") }ban
+smartwindow-onboarding-save =
+    .label = Mentés és továbblépés

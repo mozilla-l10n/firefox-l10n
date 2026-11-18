@@ -72,5 +72,9 @@ mini-window-overlay-instructions = Húzza vagy kattintson a terület kijelölés
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Válassza ki, hogy mit helyez át egy mini ablakba
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Az oldal egy része
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = A teljes oldal
 mini-window-panel-move-selection = Kijelölés mozgatása
 mini-window-panel-move-full-tab = Teljes lap áthelyezése

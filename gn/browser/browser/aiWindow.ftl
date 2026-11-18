@@ -386,6 +386,12 @@ smartwindow-onboarding-model-label = Eiporavo nde IA
 smartwindow-onboarding-model-auto = Jehegui
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Jeroviaha
+smartwindow-onboarding-memories-both = Jechatea ha ñeikundaha
+smartwindow-onboarding-memories-browsing = Ñeikundaha añoite
 smartwindow-onboarding-memories-chats = Chatea añoite
+smartwindow-onboarding-memories-none = Ndereikuaái tembiapógui
+smartwindow-onboarding-memories-both-description = Echatea { -smart-window-brand-name }, eikundaha { -brand-short-name } ndive
+smartwindow-onboarding-memories-browsing-description = Eikundaha { -brand-short-name } rupi
+smartwindow-onboarding-memories-chats-description = Echatea { -smart-window-brand-name } ndive
 smartwindow-onboarding-save =
     .label = Eñongatu ha eku’ejey

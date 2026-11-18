@@ -2,27 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
-smart-window-block-title = { -smart-window-brand-name } blokkolása?
+preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name(case: "upper") }
+smart-window-block-title = Blokkolja az { -smart-window-brand-name }ot?
 smart-window-block-description-both = Ez törli az { -smart-window-brand-name(case: "lower") } csevegéseit és memóriáit.
 smart-window-block-description-chats = Ez törli az { -smart-window-brand-name(case: "lower") } csevegéseit.
 smart-window-block-description-memories = Ez törli az { -smart-window-brand-name(case: "lower") } memóriáit.
 ai-window-features-group =
     .description = Tegyen fel kérdéseket, hasonlítson össze lapokat és kapjon személyre szabott javaslatokat egy beépített asszisztenssel.
-    .label = { -smart-window-brand-name }
+    .label = { -smart-window-brand-name(case: "upper") }
 smart-window-select-label =
-    .label = { -smart-window-brand-name }
+    .label = { -smart-window-brand-name(case: "upper") }
 ai-window-activate-link =
     .label = Kezdő lépések
 ai-window-personalize-button =
-    .label = { -smart-window-brand-name } beállításai
+    .label = { -smart-window-brand-name(case: "upper") } beállításai
 ai-window-personalize-header =
-    .heading = { -smart-window-brand-name }
+    .heading = { -smart-window-brand-name(case: "upper") }
 ai-window-default-section =
     .label = Alapértelmezett beállítások
 ai-window-is-default-window =
-    .description = { -smart-window-brand-name } megnyitása a { -brand-short-name } indításakor, újraindításakor vagy más alkalmazásokból való megnyitásakor.
-    .label = { -smart-window-brand-name } használata alapértelmezés szerint
+    .description = Az { -smart-window-brand-name } megnyitása a { -brand-short-name } indításakor, újraindításakor vagy más alkalmazásokból való megnyitásakor.
+    .label = Az { -smart-window-brand-name } használata alapértelmezés szerint
 ai-window-open-sidebar =
     .description = Az asszisztens oldalsáv megjelenítése minden új lapon. Zárja be bármikor.
     .label = Asszisztens automatikus megnyitása
@@ -119,7 +119,7 @@ smart-window-model-qwen =
     .description = Készen áll a különböző feladatokra. Teljes név: { $model }, gyártó: { $ownerName }
     .label = { $shortName }
 smart-window-model-mistral =
-    .description = Jó, ha több nyelven cseveg és böngészik. Teljes név: { $model }, gyártó: { $ownerName }
+    .description = Ideális, ha több nyelven cseveg és böngészik. Teljes név: { $model }, gyártó: { $ownerName }
     .label = { $shortName }
 smart-window-model-gemini =
     .description = Gyors válaszok, ha gyorsan halad. Teljes név: { $model }, gyártó: { $ownerName }

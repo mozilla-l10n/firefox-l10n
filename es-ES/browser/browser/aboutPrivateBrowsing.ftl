@@ -81,7 +81,7 @@ about-private-browsing-private-window-redesign-subheader = { -brand-short-name }
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = El historial de navegación se eliminará.
-about-private-browsing-nova-info-subheader2 = Eliminaremos todas las búsquedas e inicios de sesión cuando cierre todas sus ventanas privadas. Las protecciones integradas de { -brand-short-name }, como el bloqueo de rastreadores, también están activas aquí.
+about-private-browsing-nova-info-subheader2 = Eliminaremos todas las búsquedas e inicios de sesión cuando cierre todas las ventanas privadas. Las protecciones integradas de { -brand-short-name }, como el bloqueo de rastreadores, también están activas aquí.
 
 ## Strings for the Private Window basics spotlight
 
