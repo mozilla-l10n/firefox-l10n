@@ -1183,6 +1183,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Сомонаи қалбакӣ!
+safebrowsing-reported-attack-site-message = Дар бораи сомонаи ҳамлакунанда гузориш диҳед!
+safebrowsing-reported-unwanted-site-message = Гузориш дода шудааст, ки ин сомона дорои нармафзори номатлуб мебошад!
+safebrowsing-reported-harmful-site-message = Гузориш дода шудааст, ки ин сомона дорои нармафзори зараровар мебошад!
+safebrowsing-get-me-out-of-here-button =
+    .label = Маро аз ин ҷо дуртар баред!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Сомонаи ҷорӣ қалбакӣ нест…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Ин сомонаи ҳамлакунанда нест…
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
