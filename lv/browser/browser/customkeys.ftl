@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Dodieties uz 8. cilni
 customkeys-nav-select-last-tab = Doties uz pēdējo cilni
 customkeys-nav-toggle-mute = Izslēgt/Ieslēgt audio skaņu
 customkeys-edit-find-previous = Atrast iepriekšējo
+customkeys-edit-find-selection = Izmantot atlasi meklēšanai
 customkeys-tools-screenshot = Uzņemiet ekrānuzņēmumu
 customkeys-category-navigation-2 =
     .heading = Navigācija

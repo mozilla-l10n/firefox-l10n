@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Ātrs
 aiwindow-input-model-select-button-label-allpurpose = Elastīgs
 aiwindow-input-model-select-button-label-personal = Personīgā
 aiwindow-input-model-select-button-label-custom = Pielāgots
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automātiski
 aiwindow-input-model-select-default-badge =
     .label = Noklusējuma
     .title = Atlasītais noklusējuma modelis
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Ieteicams
+    .title = Ieteicamais modelis
 aiwindow-input-model-select-settings-link = Modeļa iestatījumi
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } izvēlas jūsu uzdevumam vispiemērotāko modeli
+aiwindow-input-model-select-fast-description = Ātras atbildes steidzamiem uzdevumiem
+aiwindow-input-model-select-flexible-description = Piemērots dažādiem uzdevumiem
+aiwindow-input-model-select-personal-description = Piemērots tērzēšanai un pārlūkošanai vairākās valodās
 
 ## Firstrun memories onboarding
 

@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Punkts
 user-context-icon-fence =
     .label = Žogs
+user-context-icon-robot =
+    .label = Robots

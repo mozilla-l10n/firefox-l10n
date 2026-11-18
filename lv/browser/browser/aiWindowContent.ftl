@@ -240,6 +240,12 @@ action-log-completed-steps =
         [zero] Pabeigtas { $count } darbības
        *[other] Pabeigti { $count } soļi
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Uzdevumam izvēlēts modelis: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Piemērotākā modeļa izvēle
 
 ## Assistant Loader
 
