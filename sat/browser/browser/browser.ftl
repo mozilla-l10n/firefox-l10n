@@ -721,6 +721,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } ᱨᱮ ᱴᱨᱮᱱᱰᱤᱝᱚᱜ ᱠᱟᱱᱟ
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱞᱚᱢ ᱩᱫᱩᱜᱼᱟ
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱞᱚᱢ ᱩᱫᱩᱜᱼᱟ
     .accesskey = D
 # The result menu labels shown next to trending results.
