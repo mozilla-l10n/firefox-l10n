@@ -1320,10 +1320,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Фишингті сайт!
+safebrowsing-reported-attack-site-message = Бұл сайт компьютерлерге шабуыл жасауға қолданылатыны туралы ақпарат бар!
+safebrowsing-reported-unwanted-site-message = Осы сайт ұнамсыз бағдарламалық қамтаманы таратуға қатысатыны туралы ақпарат бар!
+safebrowsing-reported-harmful-site-message = Хабарланған зиянкес сайт!
+safebrowsing-get-me-out-of-here-button =
+    .label = Осыдан кеткім келеді!
+    .accesskey = к
+safebrowsing-not-a-deceptive-site-button =
+    .label = Бұл фишингті сайт емес…
+    .accesskey = ф
+safebrowsing-not-an-attack-site-button =
+    .label = Бұл шабуыл жасайтын сайт емес…
+    .accesskey = ш
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Интернетке қатынау үшін бұл желіге кіруіңіз керек.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Желіге кіру парағын ашу
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
