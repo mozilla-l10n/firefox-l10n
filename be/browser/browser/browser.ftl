@@ -850,6 +850,9 @@ urlbar-result-realtime-opt-in-not-now = Не зараз
 urlbar-result-realtime-opt-in-dismiss = Адхіліць
 urlbar-result-realtime-opt-in-dismiss-all2 = Не паказваць гэтыя прапановы
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Не паказваць прапановы па рынку
+    .accesskey = Н
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Не паказваць прапановы па рынку
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Не паказваць гэтыя прапановы
