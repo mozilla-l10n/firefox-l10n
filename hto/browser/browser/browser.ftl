@@ -181,6 +181,24 @@ bookmarks-sidebar-content =
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Bíe plugin { $pluginName } já táɨjɨakañede.
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = ¿Dɨno jaikadɨo { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Jɨ́ɨ, kúe úui { $hostName }
+    .accesskey = Y
+
 ## Password save/update panel
 
 
