@@ -542,6 +542,9 @@ applications-save-for-new-types2 =
 applications-ask-before-handling =
     .label = Pyet në të hapen apo të ruhen kartelat
     .accesskey = P
+applications-ask-before-handling2 =
+    .label = Pyet të hapen apo të ruhen kartelat
+    .accesskey = P
 drm-group =
     .label = Lëndë nën Digital Rights Management (DRM)
 play-drm-content =
@@ -554,11 +557,24 @@ update-application-version = Version { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Shfaq Historik Përditësimesh
     .accesskey = P
+update-application-installation =
+    .label = Instalim
+update-application-radio-group =
+    .aria-label = Instalim
+update-application-auto-2 =
+    .label = T’i instalojë vetvetiu përditësimet (e këshillueshme)
+    .accesskey = T
+update-application-check-choose-2 =
+    .label = Të kontrollojë për përditësime, për të zgjidhet kur të instalohen
+    .accesskey = k
 update-application-background-enabled =
     .label = Kur { -brand-short-name }-i nuk xhiron
     .accesskey = K
 update-application-warning-cross-user-setting-2 =
     .message = Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profile { -brand-short-name } që përdorin këtë instalim të { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Shfaq më pak kujtues përditësimesh
+    .accesskey = u
 update-setting-write-failure-title2 = Gabim në ruajtje rregullimesh Përditësimi
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -575,6 +591,21 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Mbi { -brand-short-name }-in
+
+## Firefox updates
+
+update-application-heading =
+    .description = Përditësimet përmirësojë shpejtësinë, qëndrueshmërinë dhe sigurinë e { -brand-short-name }-it.
+    .label = Përditësime { -brand-short-name }
+update-application-suppress-prompts-heading =
+    .label = Njoftime
+update-application-updates-managed-by-os =
+    .message = Përditësimet administrohen nga sistemi juaj operativ
+
 ## Firefox support
 
 support-application-heading =
@@ -584,6 +615,14 @@ support-get-help =
     .label = Merrni ndihmë
 support-share-ideas =
     .label = Ndani me të tjerët ide dhe përshtypje
+
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Merrni udhëzues si-të, këshilla dhe lajme, për ta bërë punimin tuaj në  { -brand-product-name } më të mirin për ju.
+    .label = Buletin { -brand-product-name }
+newsletter-sign-up-link =
+    .label = Regjistrohuni
 
 ## General Section - Performance
 
@@ -628,12 +667,19 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Kërko për tekst, kur niset të shtypet
     .accesskey = t
+settings-keyboard-shortcuts-group =
+    .description = Kontrolloni se si lëvizni në dhe ndërveproni me { -brand-short-name }-in.
+    .label = Shkurtore tastiere
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Përshtatni shkurtore tastiere
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Vazhdo luajtje videosh nën mënyrën “Picture-in-Picture”, kur ndërrohen skeda
     .accesskey = V
 browsing-media-control =
     .label = Kontrolloni media përmes tastiere, headset-i, ose ndërfaqeje virtuale
     .accesskey = K
+recommendations-group =
+    .label = Rekomandime
 browsing-cfr-recommendations =
     .label = Rekomandim zgjerimesh, teksa shfletoni
     .accesskey = R
@@ -642,6 +688,19 @@ browsing-cfr-features =
     .accesskey = R
 browsing-group =
     .label = Shfletim
+preferences-accessibility-header =
+    .heading = Përdorim nga persona me aftësi të kufizuara
+preferences-default-zoom-select =
+    .aria-label = Zoom parazgjedhje
+preferences-fonts-family =
+    .label = Familje shkronjash
+    .accesskey = D
+preferences-fonts-size =
+    .label = Madhësi shkronjash
+    .accesskey = M
+preferences-fonts-advanced-settings =
+    .label = Rregullime të mëtejshme
+    .accesskey = R
 
 ## General Section - Proxy
 
@@ -716,6 +775,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresë(a) sajti
+home-custom-homepage-list =
+    .aria-label = Adresa sajtesh
 home-custom-homepage-address =
     .placeholder = Jepni adresë
 home-custom-homepage-address-button =
@@ -832,6 +893,10 @@ search-separate-default-engine-2 =
     .accesskey = P
 search-separate-default-engine-dropdown =
     .aria-label = Motor parazgjedhje kërkimesh për dritare private
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Lëvizje në shtyllë adresash
 search-suggestions-header-2 =
     .label = Sugjerime motorësh kërkimi
 search-one-click-header2 = Shkurtore Kërkimi
@@ -839,6 +904,8 @@ search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duken nën 
 search-one-click-header-3 =
     .description = Zgjidhni cilët motorë kërkimesh dhe shkurtore të shfaqen te shtylla juaj e adresave.
     .label = Motorë të tjerë kërkimesh
+search-engine-list =
+    .aria-label = Motorë kërkimi dhe shkurtore
 update-search-engine-success =
     .message = Motori i kërkimeve u përditësua me sukses
 search-edit-engine-2 =
@@ -869,6 +936,7 @@ search-edit-engine =
     .label = Përpunoni
     .accesskey = P
 search-find-more-link = Gjeni më tepër motorë kërkimesh
+search-filtering-for-add-engine = Shtoni Motor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Fjalëkyç i Përsëdytur
@@ -887,6 +955,22 @@ search-engine-group =
     .label = Motor Parazgjedhje Kërkimesh
 search-default-engine =
     .aria-label = Motor Parazgjedhje Kërkimesh
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Kërko
+
+## Containers Section
+
+containers-section-header2 =
+    .heading = Rregullime kontejneri
+containers-add-button2 =
+    .label = Shto kontejner të ri
+    .accesskey = t
+containers-list =
+    .aria-label = Kontejnerë
+containers-new-tab-check3 =
+    .label = Përzgjidhni një kontejner për çdo skedë të re
+    .accesskey = P
 
 ## Account and sync
 
@@ -1243,6 +1327,15 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = S’u shtuan adresa
+autofill-personal-info-manage-title =
+    .heading = Administroni hollësi personale
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = S’u shtua pasaportë
+pane-passwords-autofill-title2 = Fjalëkalime dhe vetëplotësim
+    .title = Fjalëkalime dhe vetëplotësim
+preferences-passwords-autofill-header =
+    .heading = Fjalëkalime dhe vetëplotësim
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1250,6 +1343,45 @@ addresses-no-addresses-stored-message =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV i ruajtur
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV i ruajtur
     .label = { $cardNumber }
 addresses-group =
     .label = Adresa, etj
@@ -1287,6 +1419,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Rregullime…
     .accesskey = R
+history-shutdown-exceptions =
+    .label = Administroni Përjashtime
+    .accesskey = P
 history-clear-button =
     .label = Spastroni Historikun…
     .accesskey = S
@@ -1554,6 +1689,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Zgjidhni cilët sajte mund të instalojnë zgjerime
     .accesskey = Z
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Lejojuni sajteve të kërkojnë të hapen lidhje aplikacionesh
+    .accesskey = L
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Administroni sajte të bllokuar
+    .accesskey = A
 permissions-location2 =
     .label = Vendndodhje
 permissions-localhost2 =
@@ -1574,6 +1718,36 @@ permissions-notification2 =
 permissions-header3 =
     .description = Administroni çfarë mund të përdorin, kontrollojnë apo shkaktojnë sajtet
     .label = Leje
+permissions-data-section =
+    .heading = Leje dhe të dhëna
+pane-permissions-data-title2 = Leje dhe të dhëna
+    .title = Leje dhe të dhëna
+notifications-section-header =
+    .heading = Njoftime
+notifications-entry-card-header =
+    .description = Zgjidhni cilët sajte mund të dërgojnë njoftime dhe se si shfaqen këto sinjalizime.
+    .label = Njoftime
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } sajt
+           *[other] { $count } sajte
+        }
+    .label = Administroni rregullime njoftimesh
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Administroni rregullime njoftimesh sajti
+notifications-website-card-header =
+    .description = Zgjidhni se si mund të dërgojnë njoftime sajtet.
+    .label = Njoftime sajti
+notifications-filter =
+    .placeholder = Kërko në sajte
 
 ## Privacy Section - Data Collection
 
