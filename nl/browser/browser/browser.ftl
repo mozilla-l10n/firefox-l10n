@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = Niet nu
 urlbar-result-realtime-opt-in-dismiss = Sluiten
 urlbar-result-realtime-opt-in-dismiss-all2 = Deze suggesties niet tonen
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Geen beurssuggesties tonen
+    .accesskey = G
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Geen beurssuggesties tonen
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Deze suggesties niet tonen
