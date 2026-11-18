@@ -968,10 +968,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = ᱮᱲᱮ ᱥᱟᱭᱤᱴ!
+safebrowsing-reported-attack-site-message = ᱢᱩᱦᱟᱹ ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱮᱢ!
+safebrowsing-reported-unwanted-site-message = ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤᱭᱟᱜ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱥᱟᱦᱴᱟ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱱᱟ!
+safebrowsing-reported-harmful-site-message = ᱵᱟᱹᱲᱤᱡ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱱ ᱥᱟᱭᱤᱴ!
+safebrowsing-get-me-out-of-here-button =
+    .label = ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱞ ᱮᱧ ᱢᱮ!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = ᱱᱚᱶᱟ ᱫᱚ ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱵᱟᱝ ᱠᱟᱱᱟ …
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫ ᱢᱩᱦᱟᱹ ᱥᱟᱭᱤᱴ ᱵᱟᱝ ᱠᱟᱱᱟ …
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = ᱟᱢ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱶᱟ ᱱᱮᱴᱣᱟᱨᱠ ᱨᱮ ᱞᱚᱜᱤᱱ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = ᱱᱮᱴᱣᱟᱨᱠ ᱵᱚᱞᱚ ᱥᱟᱦᱴᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
