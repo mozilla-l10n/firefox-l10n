@@ -867,6 +867,9 @@ urlbar-result-realtime-opt-in-not-now = Nid nawr
 urlbar-result-realtime-opt-in-dismiss = Cau
 urlbar-result-realtime-opt-in-dismiss-all2 = Peidio dangos yr awgrymiadau hyn
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Peidio dangos awgrymiadau marchnad
+    .accesskey = P
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Peidio dangos awgrymiadau marchnad
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Peidio dangos yr awgrymiadau hyn
