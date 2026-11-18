@@ -74,6 +74,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Sdílet…
     .accesskey = S
+
+##
+
 urlbar-identity-button =
     .aria-label = Zobrazit informace o stránce
 
@@ -322,6 +325,11 @@ search-one-offs-add-engine =
     .aria-label = Přidat vyhledávač „{ $engineName }“
     .label = Přidat „{ $engineName }“
     .tooltiptext = Přidá vyhledávač „{ $engineName }“
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Přidat vyhledávač
+    .accesskey = P
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -824,6 +832,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dotázat se
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1373,6 +1386,20 @@ plugin-crashed-notification-submit-button =
     .label = Odeslat hlášení o pádu
     .accesskey = d
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1425,6 +1452,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1587,9 +1617,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Smazat některé nebo všechny údaje o prohlížení
-    .tooltiptext = Smaže některé nebo všechny údaje o prohlížení
 fire-button-panel-heading = Smazat všechna data prohlížení?
 fire-button-panel-description = Tímto smažete historii, cookies a údaje stránek. Z webů budete odhlášeni. Toto okno se zavře a { -brand-short-name } otevře nové.
 fire-button-panel-choose-description = Pokud nechcete smazat vše, vyberte místo toho jen konkrétní data.
@@ -1764,6 +1791,13 @@ file-picker-crashed-open = Souborový dialog systému Windows spadl. Nepodařilo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Souborový dialog systému Windows spadl. Soubor bude uložen do cesty { $path }.
 file-picker-crashed-save-nowhere = Souborový dialog systému Windows spadl. Nebyla nalezena žádná výchozí složka; soubor nebude uložen.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Zobrazit ve složce
     .accessKey = Z
@@ -1843,6 +1877,9 @@ trustpanel-blocker-see-all = Zobrazit vše
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ochrana proti sledování pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
