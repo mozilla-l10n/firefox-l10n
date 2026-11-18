@@ -466,6 +466,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = အတုအယောင်ဝဘ်ဆိုက်
+safebrowsing-reported-attack-site-message = သတိပေးထားခြင်းခံရသောတိုက်ခိုက်ခံရသည့်ဆိုက်!
+safebrowsing-reported-unwanted-site-message = အတိုင်ကြားခံထားရသည့် မလိုအပ်သည့်ဆော့ဖ်ဝဲများ ဆိုက်။
+safebrowsing-reported-harmful-site-message = အန္တရာယ်ရှိသော ဝဘ်ဆိုက်ကို တိုင်ကြားထားသည်။
+safebrowsing-get-me-out-of-here-button =
+    .label = Gဒီနေရာမှ ကျွန်ပ်ကကို ဆွဲထုတ်ပါ။
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = အတုအယောင်ဝဘ်ဆိုက် မဟုတ်ပါ…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = a ဤဆိုက်သည်တိုက်ခိုက်မခံထားရပါ...
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -477,6 +490,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = { $hostName } သို့သွားရန် ရည်ရွယ်ပါသလား။
+keyword-uri-fixup-go-to-button =
+    .label = ဟုတ်ကဲ့၊ { $hostName } သို့ ပို့ပေးပါ
+    .accesskey = Y
 
 ## Password save/update panel
 
