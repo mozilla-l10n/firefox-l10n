@@ -842,6 +842,9 @@ urlbar-result-realtime-opt-in-not-now = Inte nu
 urlbar-result-realtime-opt-in-dismiss = Ignorera
 urlbar-result-realtime-opt-in-dismiss-all2 = Visa inte dessa förslag
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Visa inte marknadsförslag
+    .accesskey = V
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Visa inte marknadsförslag
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Visa inte dessa förslag
