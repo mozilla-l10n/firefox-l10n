@@ -530,10 +530,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Kakube me bwola!
+safebrowsing-reported-attack-site-message = Ripot ma kigoyo ikom kakube me kamony!
+safebrowsing-reported-unwanted-site-message = Kakube pi purugram mape kimito ma kimiyo ripote!
+safebrowsing-reported-harmful-site-message = Kakube ma kimiyo ripot ni rac!
+safebrowsing-get-me-out-of-here-button =
+    .label = Kwanya woko ki kany!
+    .accesskey = K
+safebrowsing-not-a-deceptive-site-button =
+    .label = Man pe kakube me bwola…
+    .accesskey = b
+safebrowsing-not-an-attack-site-button =
+    .label = Man pe obedo kakube me kamony…
+    .accesskey = m
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Myero kong i dony iyie netwak man me nongo intanet
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Yab potbuk me donyo iyie netwak
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -541,6 +559,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = I mito no me cito i { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Eyo, cwala i { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
