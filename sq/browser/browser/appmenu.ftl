@@ -244,6 +244,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Punim në rrjet
+profiler-popup-presets-networking-with-logs-label =
+    .label = Punim në Rrjet, me Regjistra
 profiler-popup-presets-power-description = Paracaktim për hetim të metash përdorimi energjie në { -brand-shorter-name }, me ngarkesë të ulët.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -283,7 +285,15 @@ appmenu-sync-promo-signin-cta = Hyni
 appmenu-sync-promo-turnonsync =
     .heading = Njëkohësoni skedat dhe historikun tuaj
 appmenu-sync-promo-turnonsync-cta = Aktivizo njëkohësim
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Merrni skedat tuaja nga celulari
 appmenu-sync-promo-connectdevice-cta = Lidhni një pajisje
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Sillni me vete shfletuesit tuaj
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Merrini faqerojtësit tuaj me vete, gjatë lëvizjesh
 
 ## Help panel
 

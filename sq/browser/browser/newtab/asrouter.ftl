@@ -454,6 +454,7 @@ relay-50-masks-announcement-secondary-button = Hidhe tej
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name }-i po merr një pamje të re.</strong> Po bëni paraparje të një version të hershëm, të palatuar, para hedhjes në qarkullim më vonë këtë vit.
 nova-early-access-infobar-primary-button = E mora vesh
     .accesskey = E
 
