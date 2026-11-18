@@ -791,6 +791,9 @@ urlbar-result-realtime-opt-in-not-now = Jangan sekarang
 urlbar-result-realtime-opt-in-dismiss = Tutup
 urlbar-result-realtime-opt-in-dismiss-all2 = Jangan tampilkan saran ini
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Jangan tampilkan saran pasar
+    .accesskey = J
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Jangan tampilkan saran pasar
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Jangan tampilkan saran ini
