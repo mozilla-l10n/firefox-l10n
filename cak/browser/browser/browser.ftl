@@ -986,10 +986,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = ¡Q'olonel Ruxaq K'amaya'l!
+safebrowsing-reported-attack-site-message = ¡Re ruxaq k'amaya'l re' k'ayew rik'in!
+safebrowsing-reported-unwanted-site-message = ¡Ruxaq k'amaya'l ri k'o itzel kema' chupam!
+safebrowsing-reported-harmful-site-message = ¡Ruxaq K'amaya'l ya'on rutzijol chi nitzelan!
+safebrowsing-get-me-out-of-here-button =
+    .label = Kinawelesaj el wawe!
+    .accesskey = K
+safebrowsing-not-a-deceptive-site-button =
+    .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…
+    .accesskey = q
+safebrowsing-not-an-attack-site-button =
+    .label = Re re' man jun tz'ilonel ta ruxaq k'amaya'l…
+    .accesskey = j
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = K'o chi natikirsaj molojri'ïl pa re k'amab'ey re' chuwäch yatok pa k'amaya'l.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Tijaq tikirib'äl ruxaq rumolojri'ïl k'amab'ey
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
