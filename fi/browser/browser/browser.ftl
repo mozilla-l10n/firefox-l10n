@@ -1029,6 +1029,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Suosittuja hakukoneessa { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Älä näytä suositujja hakuja
+    .accesskey = Ä
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Älä näytä suositujja hakuja
     .accesskey = Ä
 # The result menu labels shown next to trending results.
