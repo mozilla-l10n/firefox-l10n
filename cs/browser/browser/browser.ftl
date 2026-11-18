@@ -151,6 +151,17 @@ urlbar-result-menu-manage-firefox-suggest2 = Spravovat { -firefox-suggest-brand-
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Nahlásit nepřesnou polohu
+    .accesskey = N
+urlbar-result-menu-show-less-frequently3 = Zobrazit méně často
+    .accesskey = Z
+urlbar-result-menu-dont-show-weather-suggestions3 = Nezobrazovat návrhy počasí
+    .accesskey = N
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Nahlásit nepřesnou polohu
 urlbar-result-menu-show-less-frequently2 = Zobrazit méně často
 urlbar-result-menu-dont-show-weather-suggestions2 = Nezobrazovat návrhy počasí
@@ -916,6 +927,9 @@ urlbar-result-realtime-opt-in-allow = Povolit našeptávání
 urlbar-result-realtime-opt-in-not-now = Teď ne
 urlbar-result-realtime-opt-in-dismiss = Zavřít
 urlbar-result-realtime-opt-in-dismiss-all2 = Tyto návrhy nezobrazovat
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Nezobrazovat návrhy z akciových trhů
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Nezobrazovat návrhy z akciových trhů
 urlbar-result-realtime-opt-in-dismiss-all =
