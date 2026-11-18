@@ -140,6 +140,17 @@ urlbar-result-menu-manage-firefox-suggest2 = Pārvaldīt { -firefox-suggest-bran
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Ziņot par nepareizu atrašanās vietu
+    .accesskey = Z
+urlbar-result-menu-show-less-frequently3 = Rādīt retāk
+    .accesskey = R
+urlbar-result-menu-dont-show-weather-suggestions3 = Nerādīt laikapstākļu ieteikumus
+    .accesskey = N
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Ziņot par nepareizu atrašanās vietu
 urlbar-result-menu-show-less-frequently2 = Rādīt retāk
 urlbar-result-menu-dont-show-weather-suggestions2 = Nerādīt laikapstākļu ieteikumus
