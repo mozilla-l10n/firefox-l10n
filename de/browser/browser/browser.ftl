@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = Nicht jetzt
 urlbar-result-realtime-opt-in-dismiss = Schließen
 urlbar-result-realtime-opt-in-dismiss-all2 = Diese Vorschläge nicht anzeigen
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Marktvorschläge nicht anzeigen
+    .accesskey = M
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Marktvorschläge nicht anzeigen
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Diese Vorschläge nicht anzeigen
