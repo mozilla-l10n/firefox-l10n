@@ -1313,6 +1313,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = فریبی سائٹ!
+safebrowsing-reported-attack-site-message = اٹیک سائٹ رپورٹ کیتی ڳئی!
+safebrowsing-reported-unwanted-site-message = اݨ بھاوݨی سافٹ ویئر سائٹ رپورٹ تھئی!
+safebrowsing-reported-harmful-site-message = نقصانی سائٹ دی اطلاع ݙتی ڳئی!
+safebrowsing-get-me-out-of-here-button =
+    .label = میکوں اتھوں کڈھو!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = ایہ فریبی سائٹ کائنی …
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = ایہ ہک اٹیک سائٹ کائنی …
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1329,6 +1342,10 @@ captive-portal-show-login-page-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = کیا تساں { $hostName } تے ونڄݨ چاہندے او؟
+keyword-uri-fixup-go-to-button =
+    .label = جیاں، میکوں { $hostName } تے گھن ڄلو
+    .accesskey = Y
 
 ## Password save/update panel
 
