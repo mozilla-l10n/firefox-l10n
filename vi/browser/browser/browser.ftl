@@ -311,6 +311,11 @@ search-one-offs-add-engine =
     .tooltiptext = Thêm công cụ tìm kiếm “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Thêm dịch vụ tìm kiếm
+    .accesskey = h
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Thêm dịch vụ tìm kiếm
 
