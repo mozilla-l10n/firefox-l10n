@@ -1010,6 +1010,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } の検索トレンド
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = 検索トレンドを表示しない
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 検索トレンドを表示しない
     .accesskey = D
 # The result menu labels shown next to trending results.
