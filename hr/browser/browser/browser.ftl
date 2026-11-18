@@ -54,6 +54,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Dijeli…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Prikaži informacije o stranici
 
@@ -296,6 +299,11 @@ search-one-offs-add-engine =
     .aria-label = Dodaj tražilicu “{ $engineName }”
     .label = Dodaj “{ $engineName }”
     .tooltiptext = Dodaj tražilicu “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Dodaj tražilicu
+    .accesskey = D
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -560,6 +568,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deaktiviraj zaštitu dijeljenja za ovu sesiju
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -732,6 +743,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pitaj
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1271,6 +1287,20 @@ plugin-crashed-notification-submit-button =
     .label = Pošalji izvještaj o prekidu rada programa
     .accesskey = š
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1322,6 +1352,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1465,9 +1498,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Izbriši neke ili sve svoje podatke pregledavanja
-    .tooltiptext = Izbriši neke ili sve svoje podatke pregledavanja
 fire-button-panel-heading = Izbrisati sve podatke pregledavanja?
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
@@ -1584,6 +1614,13 @@ file-picker-crashed-open = Windows dijaloški okvir za odabir datoteke se sruši
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows dijaloški okvir za odabir datoteke se srušio. Datoteka će biti spremljena u { $path }.
 file-picker-crashed-save-nowhere = Windows dijaloški okvir za odabir datoteke se srušio. Standardna mapa za spremanje nije pronađena. Datoteka neće biti spremljena.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Prikaži u mapi
     .accessKey = m
@@ -1659,6 +1696,9 @@ trustpanel-blocker-see-all = Pogledaj sve
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaštite od praćenja za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
