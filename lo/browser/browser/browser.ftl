@@ -993,6 +993,10 @@ safebrowsing-not-an-attack-site-button =
 ## and requires the user to log in before browsing.
 
 captive-portal-info-message = ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບເຄືອຂ່າຍນີ້ກ່ອນທີ່ທ່ານຈະສາມາດເຂົ້າເຖິງອິນເຕີເນັດໄດ້.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = ເປີດໜ້າລົງທະບຽນເຄືອຂ່າຍ
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -1000,6 +1004,10 @@ captive-portal-info-message = ທ່ານຕ້ອງເຂົ້າສູ່�
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = ທ່ານຈະໄປທີ່ { $hostName } ແມ່ນບໍ່?
+keyword-uri-fixup-go-to-button =
+    .label = ແມ່ນ, ພາຂ້ອຍໄປທີ່ { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
