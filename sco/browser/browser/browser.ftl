@@ -668,6 +668,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Begowkin Site!
+safebrowsing-reported-attack-site-message = Reportit Onding Site!
+safebrowsing-reported-unwanted-site-message = Reportit Unwantit Saftware Site!
+safebrowsing-reported-harmful-site-message = Reportit Hairmfu Site!
+safebrowsing-get-me-out-of-here-button =
+    .label = Get me oot o here!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = This isnae a begowkin site…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = This isnae an onding site…
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
