@@ -855,6 +855,9 @@ urlbar-result-realtime-opt-in-not-now = Ne zdaj
 urlbar-result-realtime-opt-in-dismiss = Opusti
 urlbar-result-realtime-opt-in-dismiss-all2 = Ne prikazuj teh predlogov
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ne prikazuj predlogov z borze
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ne prikazuj predlogov z borze
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ne prikazuj teh predlogov
