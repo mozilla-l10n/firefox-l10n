@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Compartilhar…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver informação do site
 
@@ -755,6 +758,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Perguntar
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1288,6 +1296,20 @@ plugin-crashed-notification-submit-button =
     .label = Enviar um relatório de falha
     .accesskey = E
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1338,6 +1360,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = e
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,9 +1513,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Excluir parte ou todos os dados de navegação
-    .tooltiptext = Excluir parte ou todos os dados de navegação
 fire-button-panel-heading = Excluir todos os dados de navegação?
 fire-button-panel-description = Exclui histórico, cookies e dados de sites. Sessões de acesso em sites são encerradas. Esta janela é fechada e o { -brand-short-name } abre uma nova.
 fire-button-panel-choose-description = Se não quiser excluir tudo, escolha dados específicos.
@@ -1599,6 +1621,13 @@ file-picker-crashed-open = O diálogo de arquivos do Windows falhou. Nenhum arqu
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = O diálogo de arquivos do Windows falhou. O arquivo será salvo em { $path }.
 file-picker-crashed-save-nowhere = O diálogo de arquivos do Windows falhou. Nenhuma pasta padrão foi encontrada, o arquivo não será salvo.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar na pasta
     .accessKey = p
@@ -1674,6 +1703,9 @@ trustpanel-blocker-see-all = Ver tudo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteções contra rastreamento em { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
