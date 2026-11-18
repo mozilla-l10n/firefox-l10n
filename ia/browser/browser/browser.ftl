@@ -316,6 +316,11 @@ search-one-offs-add-engine =
     .tooltiptext = Adder motor de recerca “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Adder un motor de recerca
+    .accesskey = A
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Adder un motor de recerca
 
