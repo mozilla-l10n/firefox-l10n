@@ -1034,6 +1034,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Prirje te { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Mos shfaq prirje kërkimesh
+    .accesskey = M
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Mos shfaq prirje kërkimesh
     .accesskey = M
 # The result menu labels shown next to trending results.
