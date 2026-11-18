@@ -833,6 +833,9 @@ urlbar-result-realtime-opt-in-not-now = Ani ko’ág̃a
 urlbar-result-realtime-opt-in-dismiss = Mboyke
 urlbar-result-realtime-opt-in-dismiss-all2 = Ani ehechauka ko’ã ñemoñe’ẽ
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ani ehechauka ñemoñe’ẽ ñemuhagua
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ani ehechauka ñemoñe’ẽ ñemuhagua
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ani ehechauka ko’ã ñemoñe’ẽ
