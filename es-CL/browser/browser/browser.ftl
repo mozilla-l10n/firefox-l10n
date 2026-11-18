@@ -1321,10 +1321,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = ¡Sitio fraudulento!
+safebrowsing-reported-attack-site-message = ¡Sospecha de sitio malicioso!
+safebrowsing-reported-unwanted-site-message = ¡Sitio sospechoso de software indeseable!
+safebrowsing-reported-harmful-site-message = ¡Sitio peligroso reportado!
+safebrowsing-get-me-out-of-here-button =
+    .label = ¡Sácame de aquí!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Este no es un sitio fraudulento…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Este no es un sitio peligroso…
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Debes conectarte a esta red antes de que puedas acceder a Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Abrir página de conexión de la red
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -1332,6 +1350,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = ¿Quizá querías ir a { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Sí, llevarme a { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
