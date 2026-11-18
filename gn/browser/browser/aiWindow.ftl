@@ -381,6 +381,7 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+smartwindow-onboarding-title = Jajapo ndéve g̃uarã
 smartwindow-onboarding-model-auto = Jehegui
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Jeroviaha
