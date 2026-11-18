@@ -384,6 +384,32 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Illo labora a tu latere pro completar tu labor.
+    Planifica, compara, explora, e plus.
+smartwindow-onboarding-title = Rende lo tue
+smartwindow-onboarding-subtitle = Configura { -smart-window-brand-name } como te place. Apporta cambiamentos quandocunque in parametros.
+smartwindow-onboarding-model-label = Elige tu modello de intelligentia artificial
+smartwindow-onboarding-model-description = Le modello supporta chats e actiones in { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Automatic
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Recommendate
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } elige le melior modello pro tu carga
+smartwindow-onboarding-model-mistral-description = Ideal si tu chatta e naviga in plure linguas
+smartwindow-onboarding-model-gemini-description = Responsas rapide quando tu te move rapidemente
+smartwindow-onboarding-memories-label = Elige como { -smart-window-brand-name } apprende re te
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } pote apprender ab chats, navigation, o ambe pro crear memorias. Illo los usa pro personalisar tu experientia in le tempore.
+smartwindow-onboarding-memories-both = Tu ligamines se aperi ci, ubi VPN es integrate.
+smartwindow-onboarding-memories-browsing = Navigation solo
+smartwindow-onboarding-memories-chats = Chats solo
+smartwindow-onboarding-memories-none = Non apprender ab le activitate
+smartwindow-onboarding-memories-both-description = Chats in { -smart-window-brand-name }, navigation in { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Navigation per { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Chats in { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Tu videra minus suggestiones personalisate e potera deber repeter detalios de un chat al altere.
+smartwindow-onboarding-default-window =
+    .description = Usa lo quando { -brand-short-name } parti, se reinitialisa, o aperi ligamines de altere applicationes.
+    .label = Initiar in { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Salvar e ir
