@@ -983,6 +983,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Tendèntzia in { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = No ammustres is chircas de tendèntzias
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = No ammustres is chircas de tendèntzias
     .accesskey = N
 # The result menu labels shown next to trending results.
