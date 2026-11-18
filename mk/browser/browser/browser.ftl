@@ -638,6 +638,13 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-reported-attack-site-message = Напаѓачко место!
+safebrowsing-get-me-out-of-here-button =
+    .label = Однеси ме на сигурно!
+    .accesskey = д
+safebrowsing-not-an-attack-site-button =
+    .label = Ова не е напаѓачко место…
+    .accesskey = О
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -649,6 +656,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Мислевте да појдете до { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Да, однеси ме до { $hostName }
+    .accesskey = Д
 
 ## Password save/update panel
 
