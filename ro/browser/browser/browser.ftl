@@ -1048,6 +1048,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = În tendințe pe { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Nu afișa căutări în tendințe
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nu afișa căutări în tendințe
     .accesskey = D
 # The result menu labels shown next to trending results.
