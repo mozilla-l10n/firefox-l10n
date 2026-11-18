@@ -776,6 +776,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = మోసపూరితమన సైటు!
+safebrowsing-reported-attack-site-message = దాడికి గురైన సైటుగా నమోదయ్యింది!
+safebrowsing-reported-unwanted-site-message = అవసరంలేని సాఫ్ట్‌వేర్ సైట్ నివేదించెను!
+safebrowsing-reported-harmful-site-message = హానికరమైన సైటు నివేదించబడింది!
+safebrowsing-get-me-out-of-here-button =
+    .label = ఇక్కడినుండి నన్ను బయటకు తీసుకెళ్ళుము!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = ఇది ఒక మోసపూరిత సైటు కాదు...
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = ఇది దాడి చేసే వెబ్ సైటు కాదు…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -787,6 +800,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = మీరు { $hostName } వద్దకు వెళ్ళాలనుకుంటున్నారా?
+keyword-uri-fixup-go-to-button =
+    .label = అవును, నన్ను { $hostName }‌కు తీసుకువెళ్ళు
+    .accesskey = Y
 
 ## Password save/update panel
 
