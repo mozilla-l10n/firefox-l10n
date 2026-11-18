@@ -724,6 +724,9 @@ urlbar-result-realtime-opt-in-not-now = Ҳоло не
 urlbar-result-realtime-opt-in-dismiss = Нодида гузарондан
 urlbar-result-realtime-opt-in-dismiss-all2 = Пешниҳодҳои зерин нишон дода нашаванд
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Пешниҳодҳои бозоршиносӣ нишон дода нашаванд
+    .accesskey = П
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Пешниҳодҳои бозоршиносӣ нишон дода нашаванд
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Пешниҳодҳои зерин нишон дода нашаванд
@@ -905,6 +908,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ҳавасангез дар «{ $engine }»
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ҷустуҷӯҳои ҳавасангез дигар нишон дода нашаванд
+    .accesskey = Ҷ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ҷустуҷӯҳои ҳавасангез дигар нишон дода нашаванд
     .accesskey = D
