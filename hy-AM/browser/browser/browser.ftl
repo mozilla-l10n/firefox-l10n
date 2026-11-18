@@ -1039,6 +1039,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Թրենդային { $engine }-ում
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Մի ցուցադրեք թրենդային որոնումները
+    .accesskey = Մ
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Մի ցուցադրեք թրենդային որոնումները
     .accesskey = D
 # The result menu labels shown next to trending results.
