@@ -1320,10 +1320,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = سایت گمراه‌کننده!
+safebrowsing-reported-attack-site-message = سایت تهاجمی گزارش شده!
+safebrowsing-reported-unwanted-site-message = سایت نرم افزاری ناخواسته گزارش شده
+safebrowsing-reported-harmful-site-message = سایت‌های مضرِ گزارش شده!
+safebrowsing-get-me-out-of-here-button =
+    .label = ترک این مکان!
+    .accesskey = ت
+safebrowsing-not-a-deceptive-site-button =
+    .label = این یک سایت گمراه‌کننده نیست…
+    .accesskey = گ
+safebrowsing-not-an-attack-site-button =
+    .label = این یک سایت تهاجمی نیست…
+    .accesskey = ی
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = شما باستی در ابتدا وارد این شبکه شوید تا بتوانید به اینترنت دسترسی داشته باشید.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = بازکردن صفحه ورود به شبکه
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -1331,6 +1349,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = می‌خواستید به { $hostName } بروید؟
+keyword-uri-fixup-go-to-button =
+    .label = بله، مرا به { $hostName } ببر
+    .accesskey = Y
 
 ## Password save/update panel
 
