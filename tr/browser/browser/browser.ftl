@@ -1321,6 +1321,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Aldatıcı site!
+safebrowsing-reported-attack-site-message = Saldırı sitesi olarak bildirilmiş!
+safebrowsing-reported-unwanted-site-message = İstenmeyen yazılım sitesi!
+safebrowsing-reported-harmful-site-message = Bu sitenin zararlı olabileceği bildirildi!
+safebrowsing-get-me-out-of-here-button =
+    .label = Beni buradan kurtar!
+    .accesskey = k
+safebrowsing-not-a-deceptive-site-button =
+    .label = Bu site aldatıcı değil…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Bu bir saldırı sitesi değil…
+    .accesskey = d
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1332,6 +1345,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = { $hostName } adresine mi gitmek istemiştiniz?
+keyword-uri-fixup-go-to-button =
+    .label = Evet, { $hostName } adresine git
+    .accesskey = E
 
 ## Password save/update panel
 
