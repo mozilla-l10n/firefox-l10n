@@ -557,6 +557,7 @@ onboarding-refresh-fro-import-header = Egueru ne mba’ekuaarã
 onboarding-refresh-fro-skip-button = Jepo
 onboarding-refresh-fro-theme-header = Ehuga nde jehecharãre
 onboarding-refresh-tab-layout-header = Eiporu tendayke iñambuéva
+onboarding-refresh-fro-tab-layout-title = Eiporavo tendayke rendarã pyahu
 onboarding-refresh-tab-layout-top = Yvate
 onboarding-refresh-tab-layout-side = Peteĩ yképe
 onboarding-refresh-tab-layout-minimal = Jeporu’ive
