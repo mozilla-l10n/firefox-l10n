@@ -346,6 +346,13 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-reported-attack-site-message = ଖବର କରାଯାଇଥିବା ଆକ୍ରମଣ ସାଇଟ!
+safebrowsing-get-me-out-of-here-button =
+    .label = ମୋତେ ଏଠାରୁ ବାହାର କରନ୍ତୁ!
+    .accesskey = G
+safebrowsing-not-an-attack-site-button =
+    .label = ଏହା ଗୋଟିଏ ଆକ୍ରମଣ ସାଇଟ ନୁହଁ…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -357,6 +364,7 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = { $hostName } କୁ ଯିବା ପାଇଁ ଚାହୁଁଛନ୍ତି କି?
 
 ## Password save/update panel
 
