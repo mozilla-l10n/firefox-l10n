@@ -623,6 +623,9 @@ urlbar-result-realtime-opt-in-not-now = ບໍ່ແມ່ນຕອນນີ້
 urlbar-result-realtime-opt-in-dismiss = ຍົກເລີກ
 urlbar-result-realtime-opt-in-dismiss-all2 = ຢ່າສະແດງຄໍາແນະນໍາເຫຼົ່ານີ້
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = ຢ່າສະແດງຄໍາແນະນໍາໃນຕະຫຼາດ
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = ຢ່າສະແດງຄໍາແນະນໍາໃນຕະຫຼາດ
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = ຢ່າສະແດງຄໍາແນະນໍາເຫຼົ່ານີ້
@@ -737,6 +740,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = ກຳລັງເປັນທີ່ນິຍົມໃນ { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = ຢ່າສະແດງການຄົ້ນຫາທີ່ມີກຳລັງມາແຮງ
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ຢ່າສະແດງການຄົ້ນຫາທີ່ມີກຳລັງມາແຮງ
     .accesskey = D
