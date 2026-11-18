@@ -1288,6 +1288,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = 사기 사이트!
+safebrowsing-reported-attack-site-message = 보고된 공격 사이트!
+safebrowsing-reported-unwanted-site-message = 사용자 동의 없이 설치하는 소프트웨어 사이트로 신고되었습니다!
+safebrowsing-reported-harmful-site-message = 유해한 사이트로 신고됨!
+safebrowsing-get-me-out-of-here-button =
+    .label = 밖으로 나가기!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = 이 사이트는 사기 사이트가 아닙니다…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = 공격 사이트 아님…
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
