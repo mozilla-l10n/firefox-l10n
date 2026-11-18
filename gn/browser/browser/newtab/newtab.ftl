@@ -740,6 +740,7 @@ newtab-discovery-empty-section-topstories-try-again-button = Eha’ã jey
 newtab-discovery-empty-section-topstories-loading = Henyhẽhína…
 # Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
 newtab-discovery-empty-section-topstories-unavailable-header = Tembiasakue ndojeporukuaái ko’ág̃a
+newtab-discovery-empty-section-topstories-unavailable-body = Ehechajey ne ñanduti reko ha eha’ã jey.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyhẽ ko pehẽ’i, hákatu nahenyhẽmbamo’ãi.
 

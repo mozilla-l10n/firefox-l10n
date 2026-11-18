@@ -519,6 +519,7 @@ restore-session-startup-suggestion-button = Ehechauka mba’éichapa
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Embojuruja tenda ehayhúva ikatúva tembiporu’i
 # Heading above the list of suggested websites.
 taskbar-tabs-spotlight-sites-heading = Embosa’y embojuajúvo tembiaporã rupáre
 # Button shown in each row of the list of websites. Clicking it adds the
