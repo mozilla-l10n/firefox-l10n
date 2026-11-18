@@ -1328,6 +1328,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Maldinoša lapa!
+safebrowsing-reported-attack-site-message = Kaitnieku lapa!
+safebrowsing-reported-unwanted-site-message = Bīstama nevēlamas programmatūras lapa!
+safebrowsing-reported-harmful-site-message = Ziņoja par kaitīgu lapu!
+safebrowsing-get-me-out-of-here-button =
+    .label = Vediet mani prom no šejienes!
+    .accesskey = V
+safebrowsing-not-a-deceptive-site-button =
+    .label = Šī nav maldinoša lapa…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Šī lapa neveic uzbrukumus…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
