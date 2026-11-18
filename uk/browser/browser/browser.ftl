@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [few] Переглянути інформацію про сайт (заблоковано { $count } вистежувачі)
            *[many] Переглянути інформацію про сайт (заблоковано { $count } вистежувачів)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Перегляд інформації про сайт
 
@@ -279,6 +282,11 @@ search-one-offs-add-engine =
     .aria-label = Додати пошукову систему “{ $engineName }”
     .label = Додати “{ $engineName }”
     .tooltiptext = Додати пошукову систему “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Додати пошукову систему
+    .accesskey = Д
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -722,6 +730,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсоровано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Запитати
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1247,6 +1260,20 @@ plugin-crashed-notification-submit-button =
     .label = Надіслати звіт про цей збій
     .accesskey = з
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1299,6 +1326,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1345,6 +1375,13 @@ restore-session-startup-suggestion-button = Покажіть як
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Ваша організація заблокувала доступ до локальних файлів на цьому комп'ютері
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1425,6 +1462,10 @@ reset-pbm-panel-complete = Дані приватного сеансу видал
 reset-pbm-toolbar-button2 =
     .label = Стерти приватний сеанс
     .tooltiptext = Стерти приватний сеанс
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1524,6 +1565,13 @@ file-picker-crashed-open = Стався збій діалогового вікн
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Стався збій діалогового вікна провідника Windows. Файл буде збережено в { $path }.
 file-picker-crashed-save-nowhere = Стався збій діалогового вікна провідника Windows. Неможливо знайти типову теку. Файл не буде збережено.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Показати у теці
     .accessKey = П
@@ -1599,6 +1647,9 @@ trustpanel-blocker-see-all = Показати все
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Захист від стеження для { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
