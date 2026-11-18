@@ -838,6 +838,9 @@ urlbar-result-realtime-opt-in-not-now = Jo tani
 urlbar-result-realtime-opt-in-dismiss = Hidhe tej
 urlbar-result-realtime-opt-in-dismiss-all2 = Mos i shfaq këto sugjerime
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Mos shfaq sugjerime tregu
+    .accesskey = M
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Mos shfaq sugjerime tregu
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Mos i shfaq këto sugjerime
