@@ -140,6 +140,17 @@ urlbar-result-menu-manage-firefox-suggest2 = Gestiona el { -firefox-suggest-bran
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Informa d’una ubicació incorrecta
+    .accesskey = n
+urlbar-result-menu-show-less-frequently3 = Mostra-ho menys sovint
+    .accesskey = M
+urlbar-result-menu-dont-show-weather-suggestions3 = No mostris la informació meteorològica
+    .accesskey = N
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Informa d’una ubicació incorrecta
 urlbar-result-menu-show-less-frequently2 = Mostra-ho menys sovint
 urlbar-result-menu-dont-show-weather-suggestions2 = No mostris la informació meteorològica
