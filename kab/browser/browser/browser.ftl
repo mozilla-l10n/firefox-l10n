@@ -1087,6 +1087,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Asmel web n ukellex!
+safebrowsing-reported-attack-site-message = Ahat d asmel n uẓḍam!
+safebrowsing-reported-unwanted-site-message = Asmel-a yettwassen belli yegber iseɣẓanen ur yettwabɣan ara!
+safebrowsing-reported-harmful-site-message = Asmel-agi yettwassen d amihaw!
+safebrowsing-get-me-out-of-here-button =
+    .label = Sufeɣ-iyi sya!
+    .accesskey = A
+safebrowsing-not-a-deceptive-site-button =
+    .label = Mači d asmel web ur nemɛin ara…
+    .accesskey = m
+safebrowsing-not-an-attack-site-button =
+    .label = Mačči d-asmel n uẓḍam…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
