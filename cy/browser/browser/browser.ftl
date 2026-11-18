@@ -1075,6 +1075,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Yn tueddu ar { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Peidio â dangos chwiliadau tuedd
+    .accesskey = P
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Peidio â dangos chwiliadau tuedd
     .accesskey = P
 # The result menu labels shown next to trending results.
