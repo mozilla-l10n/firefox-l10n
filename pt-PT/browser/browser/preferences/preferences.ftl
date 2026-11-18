@@ -650,6 +650,14 @@ support-get-help =
 support-share-ideas =
     .label = Partilhar ideias e comentários
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Receba tutoriais, dicas, e notícias para fazer com que a sua experiência com o { -brand-product-name } seja a melhor para si.
+    .label = { -brand-product-name } newsletter
+newsletter-sign-up-link =
+    .label = Registar
+
 ## General Section - Performance
 
 performance-settings-learn-more = Saber mais
