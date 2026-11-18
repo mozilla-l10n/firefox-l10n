@@ -628,5 +628,7 @@ hnt-card-mobile-body = Emboguejy { -brand-product-name } pumbyrýpe ha nderekoñ
 hnt-card-mobile-primary-button = Ereko { -brand-product-name } ne pumbyrýpe.
 hnt-card-wallpaper-header = Eiporavo mba’erechaha rugua pyahu
 hnt-card-wallpaper-primary-button = Eñepyrũ emboava
+hnt-card-taskbar-tabs-header = Embojuaju tenda erohoryvéva tembiaporãita rupápe
 hnt-card-taskbar-tabs-primary-button = Embojuaju tendayke tembiaporã rupáre
+hnt-card-extensions-header = Emombarete { -brand-short-name } jepysokue ndive
 hnt-card-extensions-primary-button = Ehapykueho
