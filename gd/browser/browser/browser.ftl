@@ -849,6 +849,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = A’ treandadh air { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Na seall luirg a tha a’ treandadh
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Na seall luirg a tha a’ treandadh
     .accesskey = N
 # The result menu labels shown next to trending results.
