@@ -841,6 +841,9 @@ urlbar-result-realtime-opt-in-not-now = Ei nyt
 urlbar-result-realtime-opt-in-dismiss = Hylkää
 urlbar-result-realtime-opt-in-dismiss-all2 = Älä näytä näitä ehdotuksia
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Älä näytä osakemarkkinaehdotuksia
+    .accesskey = Ä
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Älä näytä osakemarkkinaehdotuksia
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Älä näytä näitä ehdotuksia
