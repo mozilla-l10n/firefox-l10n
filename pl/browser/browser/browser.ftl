@@ -1334,6 +1334,11 @@ plugin-crashed-notification-submit-button =
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Ta sieć wymaga zalogowania, aby uzyskać dostęp do Internetu.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Zaloguj się do sieci
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -1341,6 +1346,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Wyszukano „{ $hostName }”, ale jest to jednak również adres — przejść do niego?
+keyword-uri-fixup-go-to-button =
+    .label = Przejdź do { $hostName }
+    .accesskey = P
 
 ## Password save/update panel
 
