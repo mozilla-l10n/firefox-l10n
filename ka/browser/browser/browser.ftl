@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = ახლა არა
 urlbar-result-realtime-opt-in-dismiss = აცილება
 urlbar-result-realtime-opt-in-dismiss-all2 = აღარ გამოჩნდეს ამგვარი შემოთავაზებები
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = აღარ გამოჩნდეს ბაზრის შემოთავაზებები
+    .accesskey = ა
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = აღარ გამოჩნდეს ბაზრის შემოთავაზებები
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = აღარ გამოჩნდეს ამგვარი შემოთავაზებები
