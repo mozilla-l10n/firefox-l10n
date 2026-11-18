@@ -1321,10 +1321,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Aquest lloc pot ser enganyós!
+safebrowsing-reported-attack-site-message = S'ha informat que es tracta d'un lloc atacant!
+safebrowsing-reported-unwanted-site-message = Aquest lloc pot contenir programari indesitjable!
+safebrowsing-reported-harmful-site-message = S'ha informat que el lloc web és maliciós!
+safebrowsing-get-me-out-of-here-button =
+    .label = Treu-me d'aquí!
+    .accesskey = T
+safebrowsing-not-a-deceptive-site-button =
+    .label = No és cap lloc enganyós…
+    .accesskey = e
+safebrowsing-not-an-attack-site-button =
+    .label = No és cap lloc atacant…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Heu d'iniciar la sessió en aquesta xarxa per poder accedir a Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Obre la pàgina d'inici de sessió a la xarxa
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
