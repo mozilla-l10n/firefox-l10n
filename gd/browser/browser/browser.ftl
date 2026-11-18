@@ -695,6 +695,9 @@ urlbar-result-realtime-opt-in-not-now = Chan ann an-dràsta
 urlbar-result-realtime-opt-in-dismiss = Leig seachad
 urlbar-result-realtime-opt-in-dismiss-all2 = Na seall na molaidhean seo
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Na seall molaidhean na margaide
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Na seall molaidhean na margaide
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Na seall na molaidhean seo
