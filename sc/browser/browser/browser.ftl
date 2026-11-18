@@ -801,6 +801,9 @@ urlbar-result-realtime-opt-in-not-now = Immoe nono
 urlbar-result-realtime-opt-in-dismiss = Iscarta
 urlbar-result-realtime-opt-in-dismiss-all2 = No ammustres custos cussìgios
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = No ammustres cussìgios de mercados
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = No ammustres cussìgios de mercados
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = No ammustres custos cussìgios
