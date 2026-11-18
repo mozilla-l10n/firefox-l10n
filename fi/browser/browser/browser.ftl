@@ -314,6 +314,11 @@ search-one-offs-add-engine =
     .tooltiptext = Lisää hakukone ”{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Lisää hakukone
+    .accesskey = L
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Lisää hakukone
 
