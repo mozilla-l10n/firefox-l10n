@@ -395,15 +395,23 @@ onboarding-checklist-remove-2 = Hiqe listën e hapave
 
 tab-groups-onboarding-feature-callout-title = Provoni grupe skedash për më pak rrëmujë, më tepër përqendrim
 tab-groups-onboarding-feature-callout-subtitle = Sistemoni gjërat, duke tërhequr një skedë mbi një tjetër, që të krijoni grupin tuaj të parë.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Gjejini grupet tuaj të skedave te menuja “Kërkoni te dhe administroni skeda”, kurdo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Gjeni kurdo grupet tuaj të skedave të menuja “Shfaq Krejt Skedat”.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gjeni grupet tuaj të skedave duke kërkuar për ta te shtylla e adresave.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Kur mbyllni një grup skedash, rihapeni që nga menuja “Kërkoni te dhe administroni skeda”, kurdo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Kur mbyllni një grup skedash, rihapeni kurdo që nga menuja “Shfaq Krejt Skedat”.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Gjeni grupet tuaj të mbyllur të skedave duke kërkuar për ta te shtylla e adresave.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Rihapini grupet tuaj të skedave që nga menuja “Kërkoni te dhe administroni skeda”, kurdo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Rihapni kurdo grupet tuaj të skedave, që nga menuja “Shfaq Krejt Skedat”.
 tab-groups-onboarding-dismiss = OK
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Grupet e skedave ruhen vetvetiu. Gjejini këtu.
 
 ## Multi Profiles feature onboarding messages
 
@@ -538,11 +546,31 @@ onboarding-refresh-gratitude-title = { -brand-short-name } ju mbron krahët
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } ju mbron krahët, duke ia nisur që tani
+onboarding-refresh-hero-text = Ndërtuar për t’ju mbrojtur, jo për t’ju ndjekur.
+onboarding-refresh-tou-default = Hapi krejt lidhjet me { -brand-short-name }
+onboarding-refresh-tou-pin-unchecked = Mbajeni të vetmin shfletues të rëndësishëm të pavarur vetëm një klikim larg
+onboarding-refresh-terms-of-use-with-links = Duke vazhduar, pajtoheni me <a data-l10n-name="terms_of_use">{ -brand-product-name } Termat e Përdorimit</a> dhe <a data-l10n-name="privacy_notice">Shënimin tonë mbi Privatësinë</a>. Për të ndihmuar të përmirësohet shfletuesi, { -brand-product-name }-i dërgon te { -vendor-short-name } të dhëna diagnostikimi dhe ndërveprimi.
+onboarding-refresh-data-collection-link = Administroni rregullime grumbullimi të dhënash
 onboarding-refresh-primary-button = Vazhdo
+onboarding-refresh-fro-import-header = Sillni të dhënat tuaja
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Mbetet i juaji. { -brand-product-name }-i s’shet kurrë të dhëna personale.
+onboarding-refresh-fro-import-body = Të dhënat tuaja personale mbeten personale. { -brand-product-name }-i s’do t’i shesë kurrë.
 onboarding-refresh-fro-skip-button = Anashkaloje
+onboarding-refresh-tab-layout-header = Provoni një skemë të re skedash
+onboarding-refresh-fro-tab-layout-title = Zgjidhni një skemë të re skedash
 onboarding-refresh-tab-layout-top = Sipër
 onboarding-refresh-tab-layout-side = Në krah
 onboarding-refresh-tab-layout-minimal = Minimale
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Një dritare shfletuesi që shfaq skeda si ikona të vockla përgjatë anës së ekranit, në një anështyllë të minimizuar.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Një dritare shfletuesi që shfaq skeda si ikona të vockla përgjatë anës së ekranit, në një anështyllë të minimizuar.
 
 ## Smart Window Sidebar Auto-Open Pref
 
