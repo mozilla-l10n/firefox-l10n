@@ -699,6 +699,9 @@ urlbar-result-realtime-opt-in-not-now = Betg ussa
 urlbar-result-realtime-opt-in-dismiss = Serrar
 urlbar-result-realtime-opt-in-dismiss-all2 = Betg mussar questas propostas
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Betg mussar propostas en connex cun la bursa
+    .accesskey = B
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Betg mussar propostas en connex cun la bursa
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Betg mussar questas propostas
