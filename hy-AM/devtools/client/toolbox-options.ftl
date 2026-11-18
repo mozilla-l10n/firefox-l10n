@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM-ի հատկանիշների կարճեցում
 options-collapse-attrs-tooltip =
     .title = Երկար հատկանիշների կարճեցում տեսուչում
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Ցուցադրել մեկնաբանությունները
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Կենտրոնացել հաջորդ ներածումը <kbd>Enter</kbd>-ի վրա
