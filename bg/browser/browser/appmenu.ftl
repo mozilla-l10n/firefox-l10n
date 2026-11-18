@@ -324,3 +324,12 @@ fxa-menu-create-profile-subpanel =
     .title = Създаване на нов профил
 appmenu-profiles-2 =
     .label = Профили
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Вижте { $tabCount } синхронизиран раздел
+           *[other] Вижте всичките { $tabCount } синхронизирани раздела
+        }

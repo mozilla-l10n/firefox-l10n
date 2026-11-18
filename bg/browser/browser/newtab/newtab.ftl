@@ -682,6 +682,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Изберете тапет
 newtab-sports-widget-done-button =
     .label = Готово
+newtab-sports-widget-view-all =
+    .label = Вижте всичко
 
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
