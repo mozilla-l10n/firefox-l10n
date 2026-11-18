@@ -187,6 +187,27 @@ plugin-crashed-notification-submit-button =
     .label = Sélôj rapòrt ò awarie
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-reported-attack-site-message = Zgłoszonô strona robiącô ataczi!
+safebrowsing-get-me-out-of-here-button =
+    .label = Wez mie stądka precz!
+    .accesskey = W
+safebrowsing-not-an-attack-site-button =
+    .label = To nie je atakùjącô strona…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 
@@ -317,6 +338,12 @@ popup-show-popup-menuitem =
 #
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Unsigned add-ons notification
+
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
 
 ## Onboarding Finish Setup checklist
