@@ -143,6 +143,17 @@ urlbar-result-menu-manage-firefox-suggest2 = Spravovať { -firefox-suggest-brand
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Nahlásiť nepresnú polohu
+    .accesskey = N
+urlbar-result-menu-show-less-frequently3 = Zobrazovať menej často
+    .accesskey = Z
+urlbar-result-menu-dont-show-weather-suggestions3 = Nezobrazovať návrhy počasia
+    .accesskey = N
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Nahlásiť nepresnú polohu
 urlbar-result-menu-show-less-frequently2 = Zobrazovať menej často
 urlbar-result-menu-dont-show-weather-suggestions2 = Nezobrazovať návrhy počasia
