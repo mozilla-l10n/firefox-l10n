@@ -183,6 +183,8 @@ about-glean-no-data-to-display = S’ka të dhëna për shfaqje.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje <code>DualLabeledCounter</code>.
 about-glean-unknown-metric-type-warning = Lloj i panjohur matjeje.
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Hollësi Klienti
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

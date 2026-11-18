@@ -54,6 +54,7 @@ about-logging-preset-ml-label = Nxënie Nga Makinat
 about-logging-preset-ml-description = Module regjistrimi për diagnostikim problemesh me të nxënët nga makina
 about-logging-preset-web-compat-description = Module regjistrimi për diagnostikim problemesh përputhjeje me standarde web
 about-logging-preset-navigation = Lëvizje
+about-logging-preset-vpn-label = VPN
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Module regjistrimi për diagnostikim problemesh WebGPU
 about-logging-preset-gfx-label = Grafikë

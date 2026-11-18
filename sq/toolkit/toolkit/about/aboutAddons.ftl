@@ -609,3 +609,13 @@ aboutaddons-themes-picker-disable-button =
     .label = Çaktivizoje
 aboutaddons-themes-picker-install-button =
     .label = Instaloje
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = S’u përditësua dot tema juaj. Kontrolloni lidhjen tuaj dhe riprovoni.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Përdor temë sistemi Linux
