@@ -844,6 +844,9 @@ urlbar-result-realtime-opt-in-not-now = ਹੁਣੇ ਨਹੀਂ
 urlbar-result-realtime-opt-in-dismiss = ਖ਼ਾਰਜ ਕਰੋ
 urlbar-result-realtime-opt-in-dismiss-all2 = ਇਹ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = ਇਹ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
