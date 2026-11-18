@@ -826,6 +826,9 @@ urlbar-result-realtime-opt-in-not-now = 現在不要
 urlbar-result-realtime-opt-in-dismiss = 知道了！
 urlbar-result-realtime-opt-in-dismiss-all2 = 不要顯示這些建議
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = 不要顯示金融市場建議
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = 不要顯示金融市場建議
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = 不要顯示這些建議
