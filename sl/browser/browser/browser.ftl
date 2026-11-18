@@ -1349,6 +1349,10 @@ safebrowsing-not-an-attack-site-button =
 ## and requires the user to log in before browsing.
 
 captive-portal-info-message = Preden lahko dostopate do interneta, se morate prijaviti v omrežje.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Odpri stran za prijavo v omrežje
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
