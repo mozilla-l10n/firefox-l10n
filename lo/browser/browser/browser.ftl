@@ -975,6 +975,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = ເວັບໄຊທ໌ປອມແປງ!
+safebrowsing-reported-attack-site-message = ເວັບໄຊທ໌ຮຸກຮານຕາມທີ່ມີການລາຍງານໄວ້!
+safebrowsing-reported-unwanted-site-message = ເວັບໄຊທ໌ທີ່ມີຊອບແວທີ່ບໍ່ພຶງປະສົງຕາມທີ່ມີການລາຍງານໄວ້!
+safebrowsing-reported-harmful-site-message = ເວັບໄຊທ໌ອັນຕະລາຍຕາມທີ່ມີການລາຍງານໄວ້!
+safebrowsing-get-me-out-of-here-button =
+    .label = ພາຂ້ອຍອອກຈາກບ່ອນນີ້!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = ນີ້ບໍ່ແມ່ນເວັບໄຊທ໌ປອມແປງ…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = ນີ້ບໍ່ແມ່ນເວັບໄຊທ໌ຮຸຸກຮານ…
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
