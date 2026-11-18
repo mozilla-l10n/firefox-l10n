@@ -48,6 +48,13 @@ aiwindow-close-sidebar =
     .aria-label = Затваряне
     .tooltiptext = Затваряне
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu-view-all-chats = Преглед на всички разговори
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = Превключете към { -smart-window-brand-name }
