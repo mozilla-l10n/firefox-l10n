@@ -140,6 +140,17 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } yö
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Hatalı konum bildir
+    .accesskey = H
+urlbar-result-menu-show-less-frequently3 = Daha az göster
+    .accesskey = D
+urlbar-result-menu-dont-show-weather-suggestions3 = Hava durumu önerilerini gösterme
+    .accesskey = H
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Hatalı konum bildir
 urlbar-result-menu-show-less-frequently2 = Daha az göster
 urlbar-result-menu-dont-show-weather-suggestions2 = Hava durumu önerilerini gösterme
@@ -842,6 +853,9 @@ urlbar-result-realtime-opt-in-allow = Önerileri göster
 urlbar-result-realtime-opt-in-not-now = Şimdi değil
 urlbar-result-realtime-opt-in-dismiss = Kapat
 urlbar-result-realtime-opt-in-dismiss-all2 = Bu önerileri gösterme
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Borsa önerilerini gösterme
+    .accesskey = B
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Borsa önerilerini gösterme
 urlbar-result-realtime-opt-in-dismiss-all =
