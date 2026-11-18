@@ -190,6 +190,7 @@ ipprotection-locations-subview-promo =
     .heading = Eraha ne ñemo’ã yvateve { -mozilla-vpn-brand-name } ndive.
     .message = Eiporavo 300 tendaite pa’ũgui ha emo’ã opaite ne rembiporu’i 5 mba’e’oka peve.
 ipprotection-locations-subview-promo-button = Ereko { -mozilla-vpn-brand-name }
+ipprotection-locations-subview-set-default-promo-button = Embojuruja juajuha { -brand-short-name } ndive
 
 ## VPN paused state
 
@@ -433,5 +434,7 @@ vpn-error-page-keep-browsing = Eikundaha meme ko tendápe
 vpn-error-page-new-session = Eñepyrũ jeike pyahu
 vpn-paused-alert-close-tabs-button = Embotypaite tendayke
 vpn-paused-alert-continue-wo-vpn-button = Eku’ejey VPN-ỹ rehe
+vpn-error-alert-title-1 = VPN ha mbojojahaita ndoikoporãi ko’ag̃a.
+vpn-error-alert-body-1 = Emyandy ha embogue VPN omyatyrõkuaa apañuái.
 vpn-error-alert-title = VPN ndoikoporãi ko’ag̃aite.
 vpn-error-alert-body = Eha’ã jey ag̃ave.
