@@ -1290,6 +1290,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Можливо, ви хотіли перейти на { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Так, перейти на { $hostName }
+    .accesskey = Т
 
 ## Password save/update panel
 
