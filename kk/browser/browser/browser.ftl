@@ -1038,6 +1038,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } ішінде танымал
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Танымал іздеулерді көрсетпеу
+    .accesskey = Т
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Танымал іздеулерді көрсетпеу
     .accesskey = п
 # The result menu labels shown next to trending results.
