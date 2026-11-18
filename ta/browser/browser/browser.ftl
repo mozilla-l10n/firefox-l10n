@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = தள தகவலினைப் பார்
 
@@ -39,6 +42,15 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = நிரந்தர சேமிப்பகத்தில் தரவை வை
 urlbar-addons-notification-anchor =
     .tooltiptext = கூடுதல் இணைப்பு நிறுவல் செய்திப் பலகத்தை திற
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+## Local search mode indicator labels in the urlbar
+
 
 ##
 
@@ -81,6 +93,9 @@ clear-search-history =
     .label = தேடும் வரலாற்றைத் துடை
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -102,8 +117,26 @@ search-one-offs-context-set-as-default =
     .accesskey = D
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = தேடுபொறியைச் சேர்
+    .accesskey = h
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = தேடுபொறியைச் சேர்
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -162,9 +195,18 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = மூடுக
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -197,6 +239,32 @@ urlbar-result-action-search-w-engine = { $engine } மூலம் தேடவ�
 urlbar-result-action-switch-tab = கீற்றிற்கு மாறு
 urlbar-result-action-visit = பார்
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -205,6 +273,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = வாசிப்பு தோற்றத்தை மூடு
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -270,6 +343,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = புத்தகக்குறிகள்
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -326,6 +402,10 @@ toolbar-button-paste =
     .label = ஒட்டு
     .tooltiptext = ஒட்டு ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = இந்த தளத்தில் சில பாடல் அல்லது காணொளி DRM மென்பொருளைப் பயன்படுத்துகிறது, { -brand-short-name } நீங்கள் அதை செய்ய விட்டால் வசதிகளைக் குறைக்க கூடும்.
@@ -356,12 +436,43 @@ plugin-crashed-notification-submit-button =
     .label = முறிவுற்ற அறிக்கையை சமர்ப்பிக்க
     .accesskey = ச
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
+## Password save/update panel
+
+
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = மூடுக
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = பதிவிறக்கங்கள்
@@ -389,12 +500,50 @@ tabs-toolbar-list-all-tabs =
     .label = அனைத்து கீற்றுகளையும் பட்டியலிடு
     .tooltiptext = அனைத்து கீற்றுகளையும் பட்டியலிடு
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } தானாகவே சில தரவை { -vendor-short-name } க்கு அனுப்பும், அதன் மூலம் நாங்கள் உங்கள் அனுபவத்தை மேம்படுத்த முடியும்.
 data-reporting-notification-button =
     .label = நான் என்ன பகிர்கிறேன் என்பதைத் தேர்வு செய்யவும்
     .accesskey = த
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -403,6 +552,9 @@ refresh-blocked-redirect-label = { -brand-short-name } தானாக வேற
 refresh-blocked-allow =
     .label = அனுமதி
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -434,6 +586,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = '{ $popupURI }'ஐ காட்டு
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = ஒன்று அல்லது அதற்கு மேற்பட்ட நிறுவப்பட்ட கூடுதல் இணைப்புகளை பரிசோதிக்க முடியவில்லை மேலும் அவை முடக்கப்பட்டன.
@@ -445,3 +607,19 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = மேலும் அறிய
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
