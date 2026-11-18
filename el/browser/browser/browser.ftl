@@ -842,6 +842,9 @@ urlbar-result-realtime-opt-in-not-now = Όχι τώρα
 urlbar-result-realtime-opt-in-dismiss = Απόρριψη
 urlbar-result-realtime-opt-in-dismiss-all2 = Να μην εμφανίζονται αυτές οι προτάσεις
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Να μην εμφανίζονται προτάσεις μετοχών
+    .accesskey = Ν
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Να μην εμφανίζονται προτάσεις μετοχών
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Να μην εμφανίζονται αυτές οι προτάσεις
