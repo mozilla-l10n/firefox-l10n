@@ -109,6 +109,8 @@ options-enable-chrome-tooltip =
     .title = Отмятането на тази настройка ще ви позволи да използвате различни развойни инструменти в контекста на четеца (чрез Инструменти > Разработчик > Кутия с инструменти) и за отстраняване на дефекти на добавки от управлението на добавки
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Отдалечено дебъгване
+options-enable-custom-formatters-tooltip =
+    .title = Включването на тази опция ще позволи на сайтовете да дефинират потребителски форматери за обекти от DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Включване на обслужващите нишки през HTTP (при отворена кутия с инструменти)
 options-enable-service-workers-http-tooltip =

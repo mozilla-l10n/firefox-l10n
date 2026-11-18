@@ -656,8 +656,8 @@ support-share-ideas =
 ## Firefox newsletter
 
 newsletter-settings-heading =
-    .description = Saņemiet norādījumus, padomus un jaunumus, lai jūsu { -brand-product-name } pieredze būtu pēc iespējas labāka.
-    .label = { -brand-product-name } jaunumi
+    .description = Iegūsti pamācības, padomus un jaunumus, lai pieredze ar { -brand-product-name } būtu pēc iespējas labāka!
+    .label = { -brand-product-name } biļetens
 newsletter-sign-up-link =
     .label = Reģistrēties
 

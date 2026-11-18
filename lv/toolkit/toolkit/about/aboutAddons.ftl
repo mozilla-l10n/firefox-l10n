@@ -271,7 +271,7 @@ forced-colors-theme-notice =
     .message = Jūsu Windows kontrasta iestatījumi ignorē { -brand-short-name } motīvus. Izslēdziet šos iestatījumus, lai izmantotu motīvus { -brand-short-name }.
 # Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
 smartwindow-themes-notice =
-    .message = { -smart-window-brand-name } ir iebūvētas gaišās un tumšās tēmas, kas atbilst jūsu sistēmas iestatījumiem.
+    .message = { -smart-window-brand-name } ir iebūvētas gaišās un tumšās tēmas, kas ievēro sistēmas iestatījumus.
 privacy-policy = Privātuma pamatnostādnes
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -145,6 +145,12 @@ permissions-site-xr-disable-label =
     .label = Блокиране на всички нови заявки с искане за достъп до вашите устройства за виртуална реалност
 permissions-site-xr-disable-desc = По този начин ще попречите на страниците, които не са в списъка да искат разрешение за достъп до вашите устройства за виртуална реалност. Спирането достъпа до устройствата за виртуална реалност може да попречи на някои страници да функционират правилно.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-desc = На тези сайтове е забранено да искат отваряне на връзки към приложения, като например поща (mailto:). Премахнете сайт, за да му позволите отново да пита.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

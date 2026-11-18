@@ -33,9 +33,9 @@ about-webauthn-text-non-ctap2-device = Nevar pārvaldīt opcijas, jo jūsu droš
 about-webauthn-text-not-available = Nav pieejams šajā platformā.
 about-webauthn-bio-enrollment-list-subsection-title = Reģistrācija:
 about-webauthn-add-bio-enrollment-section-title = Pievienot jaunu reģistrāciju
-about-webauthn-logging-warning = Žurnālā var būt ietverta personiska informācija, piemēram, lietotājvārdi, konta identifikatori un tīmekļa vietņu adreses. Pirms kopīgošanas pārskatiet to.
+about-webauthn-logging-warning = Žurnālā var būt ietverta personīga informācija, piemēram, lietotājvārdi, konta identifikatori un tīmekļvietņu adreses. Pirms kopīgošanas tas ir jāpārskata.
 # CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
-about-webauthn-logging-scope-note = Tas reģistrē pieprasījumus tikai { -brand-short-name } vietējai CTAP implementācijai. Tas nereģistrē pieprasījumus platformas WebAuthn API vai pārlūkprogrammas paplašinājumiem.
+about-webauthn-logging-scope-note = Tas ieraksta pieprasījumus tikai { -brand-short-name } vietējam CTAP īstenojumam. Tas neieraksta pieprasījumus WebAuthn platformas API vai pārlūka paplašinājumiem.
 
 ## Results label
 
@@ -86,7 +86,7 @@ about-webauthn-start-button = Sākt
 # Stops recording the log of messages exchanged with a security token.
 about-webauthn-stop-button = Apturēt
 # Clears the log of messages exchanged with a security token.
-about-webauthn-clear-button = Attīrīt
+about-webauthn-clear-button = Notīrīt
 about-webauthn-start-enrollment-button = Sākt reģistrāciju
 about-webauthn-update-button = Atjaunināt
 

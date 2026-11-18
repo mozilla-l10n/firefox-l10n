@@ -1754,6 +1754,11 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Изберете кои уебсайтове могат да инсталират разширения
     .accesskey = И
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Разрешаване на сайтовете да поискат отваряне на връзки в приложения
+    .accesskey = Р
 permissions-location2 =
     .label = Местоположение
 permissions-localhost2 =
