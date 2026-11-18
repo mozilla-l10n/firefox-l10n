@@ -1039,6 +1039,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } ხშირად მოძიებულით
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = არ გამოჩნდეს ხშირად მოძიებული
+    .accesskey = ა
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = არ გამოჩნდეს ხშირად მოძიებული
     .accesskey = გ
 # The result menu labels shown next to trending results.
