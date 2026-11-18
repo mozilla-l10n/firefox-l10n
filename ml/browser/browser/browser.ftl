@@ -990,10 +990,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = തെറ്റിദ്ധരിപ്പിക്കുന്ന സൈറ്റ്!
+safebrowsing-reported-attack-site-message = ഈ സൈറ്റ് അതിക്രമം രേഖപ്പെടുത്തിയിരിക്കുന്നു!
+safebrowsing-reported-unwanted-site-message = അനാവശ്യ സോഫ്റ്റ്‌വെയര്‍ സൈറ്റ് എന്ന് അറിയിക്കപ്പെട്ടിട്ടുള്ളതു്!
+safebrowsing-reported-harmful-site-message = ഹാനികരമായ സൈറ്റ് റിപ്പോർട്ട് ചെയ്തു!
+safebrowsing-get-me-out-of-here-button =
+    .label = ഇവിടെ നിന്നും പുറത്തു് കടത്തുക!
+    .accesskey = ഇ
+safebrowsing-not-a-deceptive-site-button =
+    .label = ഇതൊരു തെറ്റിദ്ധരിപ്പിക്കുന്ന സൈറ്റ് അല്ല...
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = ഇതു് ഒരു സൈറ്റ് അതിക്രമം അല്ല…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = നിങ്ങൾ ഇന്റർനെറ്റ് ആക്സസ് ചെയ്യുന്നതിനു മുമ്പ് ഈ നെറ്റ്വർക്കിലേക്ക് നിങ്ങൾ ലോഗിൻ ചെയ്യണം.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = നെറ്റ്വർക്ക് ലോഗിൻ പേജ് തുറക്കുക
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -1001,6 +1019,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = { $hostName }-ലേക്ക് പോകണമെന്നാണോ?
+keyword-uri-fixup-go-to-button =
+    .label = ഉവ്വ്, { $hostName }-ലേക്ക് പോകുക
+    .accesskey = Y
 
 ## Password save/update panel
 
