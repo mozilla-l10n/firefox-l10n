@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = Most nem
 urlbar-result-realtime-opt-in-dismiss = Eltüntetés
 urlbar-result-realtime-opt-in-dismiss-all2 = Ne jelenjenek meg ezek a javaslatok
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ne jelenjenek meg pénzpiaci javaslatok
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ne jelenjenek meg pénzpiaci javaslatok
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ne jelenjenek meg ezek a javaslatok
