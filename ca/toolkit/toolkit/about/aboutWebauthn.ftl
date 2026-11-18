@@ -36,3 +36,13 @@ about-webauthn-results-pin-invalid-error =
 
 about-webauthn-cancel-button = Cancel·la
 about-webauthn-send-pin-button = D’acord
+about-webauthn-delete-button = Suprimeix
+about-webauthn-update-button = Actualitza
+
+## Authenticator options fields
+## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
+
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = Cert
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = Fals

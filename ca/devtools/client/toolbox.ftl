@@ -18,3 +18,8 @@ toolbox-meatball-menu-hideconsole-label = Amaga la consola dividida
 toolbox-meatball-menu-settings-label = Paràmetres
 toolbox-meatball-menu-documentation-label = Documentació…
 toolbox-meatball-menu-community-label = Comunitat…
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-try-it-button = Proveu-ho

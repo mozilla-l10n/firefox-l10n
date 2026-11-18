@@ -12,6 +12,7 @@ about-networking-dns-trr-url = URL de DoH
 about-networking-dns-trr-mode = Mode DoH
 about-networking-dns-suffix = Sufix DNS
 about-networking-websockets = WebSockets
+about-networking-alt-svc-origin = Origen
 about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-ttl = TTL
 about-networking-refresh = Actualitza

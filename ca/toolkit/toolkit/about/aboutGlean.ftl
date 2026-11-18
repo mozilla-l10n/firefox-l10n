@@ -12,3 +12,23 @@ about-glean-page-title2 = Quant a { -glean-brand-name }
 about-glean-header = Quant a { -glean-brand-name }
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (no envieu cap ping)
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categoria
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nom
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tipus
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valor
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Accions
+about-glean-metrics-table-settings-category-general = General
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Exemple
+about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
+about-glean-metrics-table-settings-timelines-height = Alçada
+about-glean-metrics-table-settings-timelines-width = Amplada
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtre
+about-glean-button-load-value = Carrega
+about-glean-button-watch = Vigila

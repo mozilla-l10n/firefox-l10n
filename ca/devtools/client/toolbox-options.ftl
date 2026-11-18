@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Trunca els atributs DOM
 options-collapse-attrs-tooltip =
     .title = Trunca els atributs llargs a l'inspector
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Mostra els comentaris
 
 ## "Default Color Unit" options for the Inspector
 
@@ -44,6 +46,16 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Noms de colors
+
+## Web Console section
+
+# The heading
+options-webconsole-label = Consola web
+
+## Experimental section
+
+# The heading
+options-experimental-label = Funcions experimentals
 
 ## Style Editor section
 
@@ -115,3 +127,5 @@ options-source-maps-tooltip =
 # Variables:
 #   $toolLabel (String): The name of the tool not being supported
 options-tool-not-supported-marker = { $toolLabel } *
+# Used as a label for auto theme
+options-auto-theme-label = Automàtic
