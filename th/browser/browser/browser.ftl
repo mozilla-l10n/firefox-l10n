@@ -947,6 +947,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = กำลังมาแรงใน { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = ไม่ต้องแสดงการค้นหาที่กำลังมาแรง
+    .accesskey = ไ
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ไม่ต้องแสดงการค้นหาที่กำลังมาแรง
     .accesskey = ม
 # The result menu labels shown next to trending results.
