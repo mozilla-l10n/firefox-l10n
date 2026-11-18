@@ -826,6 +826,9 @@ urlbar-result-realtime-opt-in-not-now = 後で
 urlbar-result-realtime-opt-in-dismiss = 閉じる
 urlbar-result-realtime-opt-in-dismiss-all2 = これらの候補を表示しない
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = 市場データの候補を表示しない
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = 市場データの候補を表示しない
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = これらの候補を表示しない
