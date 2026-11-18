@@ -35,6 +35,7 @@ fxa-menu-send-to-mobile =
             [1] Dërgoje në celular
            *[other] Send { $tabCount } tabs to mobile
         }
+fxa-menu-send-to-mobile-device-missing2 = S’e shihni pajisjen tuaj?
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Po njëkohësohen Pajisje…

@@ -72,6 +72,11 @@ options-webconsole-split-console-label = Aktivizo Konsolë të Ndarë
 options-webconsole-split-console-tooltip =
     .title = Hap Konsolë të Ndarë me Tastin Esc
 
+## Experimental section
+
+# The heading
+options-experimental-label = Veçori Eksperimentale
+
 ## Style Editor section
 
 # The heading
@@ -110,6 +115,19 @@ options-sourceeditor-expandtab-label = Zhvendos duke përdorur hapësira
 options-sourceeditor-tabsize-label = Madhësi tabulacioni
 options-sourceeditor-keybinding-label = Shkurtore
 options-sourceeditor-keybinding-default-label = Parazgjedhje
+
+## Local Mode section
+
+options-local-mode-domain-label = Përkatësi vetjake:
+options-local-mode-origin-invalid = Kjo origjinë është e pavlefshme
+options-local-mode-folder-label = Dosje vendore:
+options-local-mode-choose-folder = Shfletoni…
+    .title = Zgjidhni një dosje vendore që të shërbehet ky përshoqërim
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Kjo dosje s’ekziston, ose është e pavlefshme.
+options-local-mode-toggle-enable = Aktivizoje
+options-local-mode-toggle-disable = Çaktivizoje
 
 ## Advanced section
 

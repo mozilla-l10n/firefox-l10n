@@ -33,6 +33,27 @@ perftools-pick-local-build-directory = Zgjidhni drejtori montimesh
 perftools-range-interval-label = Interval kampionizimi:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
+## Generic memory units that can be used in various places, eg for the buffer size.
+
+# Byte
+perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } B
+# Kibibyte
+perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } KiB
+# Mebibyte
+perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } MiB
+# Gibibyte
+perftools-memory-unit-gib = { NUMBER($num, maxFractionalUnits: 2) } GiB
+# Tebibyte
+perftools-memory-unit-tib = { NUMBER($num, maxFractionalUnits: 2) } TiB
+# Pebibyte
+perftools-memory-unit-pib = { NUMBER($num, maxFractionalUnits: 2) } PiB
+# Exbibyte
+perftools-memory-unit-eib = { NUMBER($num, maxFractionalUnits: 2) } EiB
+# Zebibyte
+perftools-memory-unit-zib = { NUMBER($num, maxFractionalUnits: 2) } ZiB
+# Yobibyte
+perftools-memory-unit-yib = { NUMBER($num, maxFractionalUnits: 2) } YiB
+
 ##
 
 # The size of the memory buffer used to store things in the profiler.
@@ -121,6 +142,7 @@ perftools-presets-ml-label = Nxënie Nga Makinat
 perftools-presets-ml-description2 = Model për hetim të metash në nxënie nga makinat në { -brand-shorter-name }.
 perftools-presets-networking-label = Punim në rrjet
 perftools-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Punim në Rrjet, me Regjistra
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energji
 perftools-presets-power-description = Paracaktim për hetim të metash përdorimi energjie në { -brand-shorter-name }, me ngarkesë të ulët.

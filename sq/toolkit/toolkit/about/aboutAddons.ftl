@@ -118,6 +118,8 @@ private-browsing-description2 =
     Në { -brand-short-name } po ndryshon mënyra se si funksionojnë zgjerimet nën shfletim privat. Çfarëdo zgjerimi i ri që shtoni te
     { -brand-short-name } s’do të xhirohet në Dritare Private, si parazgjedhje. Veç në e lejofshi te rregullimet, zgjerimi s’do të funksionojë, teksa gjendeni nën shfletim privat dhe s’do të mund të përdorë veprimtaritë tuaja internetore të atyshme. Këtë ndryshim e kemi bërë për ta mbajtur privat shfletimin tuaj privat.
     <label data-l10n-name="private-browsing-learn-more">Mësoni si të administroni rregullime zgjerimi.</label>
+aboutaddons-sidebar =
+    .heading = Shtesa
 addon-category-discover = Rekomandime
 addon-category-discover-title =
     .title = Rekomandime
@@ -321,6 +323,8 @@ release-notes-addon-button = Shënime Versioni
 permissions-addon-button = Leje
 extension-enabled-heading = I aktivizuar
 extension-disabled-heading = E çaktivizuar
+theme-enabled-heading2 =
+    .heading = Temë Aktive
 theme-disabled-heading3 =
     .heading = Tema të Ruajtura
 theme-enabled-heading = E aktivizuar
@@ -433,6 +437,10 @@ addon-permissions-empty2 = Ky zgjerim nuk lyp ndonjë leje.
 addon-permissions-required-label = Të domosdoshme:
 addon-permissions-optional-label = Opsionale:
 addon-permissions-learnmore = Mësoni më tepër rreth lejesh
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Disa leje administrohen nga enti juaj.
 recommended-extensions-heading = Zgjerime të Këshilluara
 recommended-themes-card-heading =
     .heading = Tema të Këshilluara
@@ -541,3 +549,63 @@ mlmodel-addon-detail-used-by-label = Përdorur nga
 mlmodel-addon-detail-model-card = Skedë modeli
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Shiheni te Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo-open-amo-button = Eksploroni zgjerime dhe tema
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo-open-amo-button = Eksploroni zgjerime
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo-open-amo-button = Eksploroni tema
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo-button = Gjeni zgjerimin tuaj të parë
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = E çelët
+themes-mode-dark =
+    .label = E errët
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Pajisje
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Dukje
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Tema { -brand-product-name }-i
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Tema klasike
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Shfaq më tepër
+aboutaddons-themes-picker-see-less = Shfaq më pak
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Aktivizoje
+aboutaddons-themes-picker-disable-button =
+    .label = Çaktivizoje
+aboutaddons-themes-picker-install-button =
+    .label = Instaloje

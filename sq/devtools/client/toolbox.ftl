@@ -43,3 +43,10 @@ toolbox-always-on-top-enabled2 = Çaktivizo “Përherë në krye”
     .title = Kjo do të rinisë Mjetet e Zhvilluesit
 toolbox-always-on-top-disabled2 = Aktivizo “Përherë në krye”
     .title = Kjo do të rinisë Mjetet e Zhvilluesit
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Shtoje te rregullimet
+toolbox-local-mode-notice-try-it-button = Provojeni
+toolbox-local-mode-notice-always-hide = Mos ma shfaq më këtë

@@ -321,6 +321,12 @@ about-debugging-multiprocess-toolbox-name = Kuti mjetesh Multiproces
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Procesi Kryesor dhe Procese Lënde për shfletuesin e synuar
+about-debugging-message-error-icon =
+    .alt = Ikonë gabimi
+about-debugging-message-info-icon =
+    .alt = Ikonë hollësish
+about-debugging-message-warning-icon =
+    .alt = Ikonë sinjalizimi
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Mbylle mesazhin
@@ -333,3 +339,5 @@ about-debugging-message-details-label-error = Hollësi gabimi
 about-debugging-message-details-label-warning = Hollësi sinjalizimi
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Hollësi
+about-debugging-sidebar =
+    .heading = Diagnostikim
