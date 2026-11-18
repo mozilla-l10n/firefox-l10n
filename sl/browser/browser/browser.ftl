@@ -1331,10 +1331,24 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Zavajajoča stran!
+safebrowsing-reported-attack-site-message = Napadalna stran!
+safebrowsing-reported-unwanted-site-message = Morebitna stran z neželeno programsko opremo!
+safebrowsing-reported-harmful-site-message = Prijavljena škodljiva stran!
+safebrowsing-get-me-out-of-here-button =
+    .label = Hočem stran!
+    .accesskey = H
+safebrowsing-not-a-deceptive-site-button =
+    .label = To ni zavajajoča stran …
+    .accesskey = n
+safebrowsing-not-an-attack-site-button =
+    .label = To ni napadalna stran …
+    .accesskey = N
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Preden lahko dostopate do interneta, se morate prijaviti v omrežje.
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
