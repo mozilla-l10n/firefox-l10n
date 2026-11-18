@@ -309,6 +309,14 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-reported-attack-site-message = Saete e Begilweng ya Tlhaselo!
+safebrowsing-reported-unwanted-site-message = Saete e Begilweng ya Serweboleta se sa Batliweng!
+safebrowsing-get-me-out-of-here-button =
+    .label = Nkentshe fa!
+    .accesskey = N
+safebrowsing-not-an-attack-site-button =
+    .label = Ga se saete ya tlhaselo...
+    .accesskey = s
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -320,6 +328,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = A o raya gore o ya ko { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ee, nkise ko { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
