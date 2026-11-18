@@ -1216,10 +1216,24 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Svindlsvæði!
+safebrowsing-reported-attack-site-message = Þetta er tilkynnt árásarsvæði!
+safebrowsing-reported-unwanted-site-message = Tilkynna óæskilegt vefsvæði!
+safebrowsing-reported-harmful-site-message = Tilkynna hættulegt vefsvæði!
+safebrowsing-get-me-out-of-here-button =
+    .label = Hjálpaðu mér héðan út!
+    .accesskey = H
+safebrowsing-not-a-deceptive-site-button =
+    .label = Þetta er ekki svindlsvæði…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Þetta er ekki árásarsvæði…
+    .accesskey = Þ
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Þú verður að skrá þig inn á þetta netkerfi áður en þú færð aðgang að Internetinu.
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
