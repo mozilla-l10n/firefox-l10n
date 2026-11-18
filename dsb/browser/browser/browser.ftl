@@ -855,6 +855,9 @@ urlbar-result-realtime-opt-in-not-now = Nic něnto
 urlbar-result-realtime-opt-in-dismiss = Zachyśiś
 urlbar-result-realtime-opt-in-dismiss-all2 = Toś te naraźenja njepokazaś
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Toś te wikowe naraźenja njepokazaś
+    .accesskey = T
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Toś te wikowe naraźenja njepokazaś
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Toś te naraźenja njepokazaś
