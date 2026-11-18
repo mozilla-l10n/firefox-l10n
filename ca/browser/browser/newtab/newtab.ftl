@@ -1274,7 +1274,7 @@ newtab-topic-navigation-more-button = Més
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
-newtab-section-block-button = Bloqueja
+newtab-section-block-button = Bloca
 newtab-section-blocked-button = Blocat
 newtab-section-unblock-button = Desbloca
 # Variables:

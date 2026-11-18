@@ -13,6 +13,8 @@ styleeditor-filter-input =
 styleeditor-visibility-toggle =
     .tooltiptext = Commuta la visibilitat del full d'estil
     .accesskey = D
+styleeditor-visibility-toggle-system =
+    .tooltiptext = Els fulls d'estil del sistema no es poden desactivar
 styleeditor-save-button = Desa
     .tooltiptext = Desa aquest full d'estil en un fitxer
     .accesskey = D
@@ -33,6 +35,8 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Salta a la línia…
     .accesskey = S
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = No s'ha trobat cap full d'estil coincident.
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
@@ -44,3 +48,10 @@ styleeditor-stylesheet-rule-count =
 # Title for the pretty print button in the editor footer.
 styleeditor-pretty-print-button =
     .title = Full d'estil d'impressió bonic
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Només es poden mostrar en un format intel·ligible els fitxers CSS
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Un full d'estil de només lectura no es pot mostrar en format intel·ligible.
