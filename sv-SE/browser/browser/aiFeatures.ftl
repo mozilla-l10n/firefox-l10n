@@ -32,15 +32,9 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Välj en modell baserat på vad som är viktigt för dig.
     .label = Assistentmodell
-smart-window-model-section-v2 =
-    .description = Modeller är det som driver chattar och actions.
-    .label = Modell
 smart-window-model-radio-group =
     .aria-label = Assistentmodell
 smart-window-model-learn-link = Lär dig mer om modeller
-smart-window-model-auto =
-    .description = { -smart-window-brand-name } väljer den bästa modellen för din uppgift
-    .label = Bilmodell
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection

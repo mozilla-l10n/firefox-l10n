@@ -24,6 +24,7 @@ policy-AutoLaunchProtocolsFromOrigins = Ejapo taperekoite rysýi okaygua ojeporu
 policy-BackgroundAppUpdate2 = Emyandy térã embogue pe ñemboheko mokõihaguáva.
 policy-Backup = Eipe’a ñongatu jey térã eru jey mba’ete mba’ekuaarã.
 policy-BlockAboutAddons = Ejoko Moĩmbaha ñangarekohápe jeike (about: addons).
+policy-BlockAboutConfig2 = Ejoko jeike Jerohoryvéva oikóvape (about:config).
 policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
 policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.
 policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
