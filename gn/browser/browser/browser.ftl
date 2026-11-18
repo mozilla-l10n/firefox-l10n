@@ -1029,6 +1029,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Ojehayhuvéva { $engine } pegua
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Anive ehechauka jeheka ojehayhuvéva
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Anive ehechauka jeheka ojehayhuvéva
     .accesskey = D
 # The result menu labels shown next to trending results.
