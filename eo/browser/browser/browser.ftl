@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = Ne nun
 urlbar-result-realtime-opt-in-dismiss = Ignori
 urlbar-result-realtime-opt-in-dismiss-all2 = Ne montri tiun ĉi sugestojn
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ne montri sugestojn el akciaj merkatoj
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ne montri sugestojn el akciaj merkatoj
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ne montri tiun ĉi sugestojn
