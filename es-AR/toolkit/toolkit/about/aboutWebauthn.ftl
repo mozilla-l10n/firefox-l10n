@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Administrador de PIN
 about-webauthn-credential-management-section-title = Administrar credenciales
 about-webauthn-pin-required-section-title = PIN requerido
 about-webauthn-confirm-deletion-section-title = Confirmar borrado
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Registro
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Inscripciones biométricas
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = No se pueden administrar las opciones por
 about-webauthn-text-not-available = No disponible en esta plataforma.
 about-webauthn-bio-enrollment-list-subsection-title = Inscripciones:
 about-webauthn-add-bio-enrollment-section-title = Agregar nueva inscripción
+about-webauthn-logging-warning = El registro puede contener información personal, como nombres de usuario, identificadores de cuenta y direcciones de sitios web. Revíselo antes de compartirlo.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Esto solo registra solicitudes a la implementación nativa de CTAP de { -brand-short-name }. No registra solicitudes a las API de WebAuthn de la plataforma ni a las extensiones del navegador.
 
 ## Results label
 
@@ -75,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = Agregar inscripción
 about-webauthn-cancel-button = Cancelar
 about-webauthn-send-pin-button = Aceptar
 about-webauthn-delete-button = Borrar
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Iniciar
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Detener
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Limpiar
 about-webauthn-start-enrollment-button = Iniciar inscripción
 about-webauthn-update-button = Actualizar
 
