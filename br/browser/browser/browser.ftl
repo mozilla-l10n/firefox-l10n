@@ -890,10 +890,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Lec'hienn dagus!
+safebrowsing-reported-attack-site-message = Lec'hienn dagus marilhet!
+safebrowsing-reported-unwanted-site-message = Marilhet eo bet al lec'hienn meziantoù dic'hoantaet!
+safebrowsing-reported-harmful-site-message = Danevellet eo bet al lec'hienn dagus!
+safebrowsing-get-me-out-of-here-button =
+    .label = Lamit kuit ac'hanon deus amañ!
+    .accesskey = L
+safebrowsing-not-a-deceptive-site-button =
+    .label = N'eo ket ul lec'hienn dagus...
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = N'eo ket ul lec'hienn dagus…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Ret eo deoc'h kennaskañ d'ar rouedad-mañ a-raok bezañ gouest da haeziñ an Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Digeriñ ar bajenn gennaskañ d'ar rouedad
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
