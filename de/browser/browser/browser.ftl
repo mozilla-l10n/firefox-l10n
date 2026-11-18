@@ -316,6 +316,11 @@ search-one-offs-add-engine =
     .tooltiptext = Suchmaschine "{ $engineName }" hinzufügen
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Suchmaschine hinzufügen
+    .accesskey = S
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Suchmaschine hinzufügen
 
