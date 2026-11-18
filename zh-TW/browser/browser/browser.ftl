@@ -1304,6 +1304,13 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = 詐騙網站！
+safebrowsing-get-me-out-of-here-button =
+    .label = 帶我離開這裡！
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = 這不是詐騙網站…
+    .accesskey = D
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1315,6 +1322,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = 您是不是要去 { $hostName }？
+keyword-uri-fixup-go-to-button =
+    .label = 是，請帶我到 { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
