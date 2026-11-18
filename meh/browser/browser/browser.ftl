@@ -630,10 +630,23 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Ntu túvi va´a nu ya´a!
+safebrowsing-reported-attack-site-message = ¡Nuu ya´a nkachida a kuvi sá´á xeen!
+safebrowsing-reported-unwanted-site-message = ¡Nuu ya´a nkachida a kumi software ntu íyo va´a!
+safebrowsing-get-me-out-of-here-button =
+    .label = ¡Tava nuu´u nu ya´a!
+    .accesskey = S
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ya´a ntu kuvi iin nuu kantu´un…
+    .accesskey = e
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Síne nuu nu kajie´e sesión red
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -641,6 +654,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = ¿Sana kuvinu kachinu { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Aja, kuiso nuu'u { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
