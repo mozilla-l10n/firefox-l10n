@@ -762,10 +762,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Apgaulinga svetainė!
+safebrowsing-reported-attack-site-message = Svetainė laikoma kenkėjiška!
+safebrowsing-reported-unwanted-site-message = Pranešta apie kenkėjiškos programinės įr. svetainę!
+safebrowsing-reported-harmful-site-message = Žinoma kenkėjiška svetainė!
+safebrowsing-get-me-out-of-here-button =
+    .label = Išeiti
+    .accesskey = I
+safebrowsing-not-a-deceptive-site-button =
+    .label = Tai nėra apgaulinga svetainė…
+    .accesskey = g
+safebrowsing-not-an-attack-site-button =
+    .label = Tai nėra kenkėjiška svetainė…
+    .accesskey = n
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Turite prisijungti prie šio tinklo, kad galėtumėte naudotis internetu.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Atverti prisijungimo tinklalapį
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
