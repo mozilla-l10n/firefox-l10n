@@ -1038,6 +1038,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Trender på { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Visa inte populära sökningar
+    .accesskey = V
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Visa inte populära sökningar
     .accesskey = n
 # The result menu labels shown next to trending results.
