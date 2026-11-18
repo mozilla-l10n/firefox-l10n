@@ -490,6 +490,10 @@ safebrowsing-not-an-attack-site-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = नोंथाङा { $hostName } आव थांनायखौ फोरमायदों नामा?
+keyword-uri-fixup-go-to-button =
+    .label = नंगौ, आंखौ { $hostName } आव लां
+    .accesskey = Y
 
 ## Password save/update panel
 
