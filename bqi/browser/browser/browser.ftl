@@ -41,6 +41,9 @@ urlbar-identity-button2 =
 urlbar-share-url =
     .label = یک رسۊوی…
     .accesskey = ی
+
+##
+
 urlbar-identity-button =
     .aria-label = نیشتن دووسمندیا وبگه
 
@@ -284,6 +287,11 @@ search-one-offs-add-engine =
     .aria-label = ٱووردن موتور پیتینیڌن «{ $engineName }»
     .label = ٱووردن «{ $engineName }»
     .tooltiptext = ٱووردن موتور پیتینیڌن «{ $engineName }»
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = ٱووردن موتور پیتینیڌن
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -730,6 +738,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · هؽزگری وابیڌه
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = پۊرسیڌن
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the result is bookmarked. The date will be
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -1180,6 +1193,20 @@ plugin-crashed-notification-submit-button =
     .label = فشناڌن ی گوزارش خراوی
     .accesskey = ف
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1230,6 +1257,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1463,6 +1493,13 @@ file-picker-crashed-open = نیمدری پسند فایل ویندووز کرش 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = نیمدری پسند فایل ویندووز کرش کرد. فایل من تور { $path } زفت ابۊ.
 file-picker-crashed-save-nowhere = نیمدری پسند فایل ویندووز کرش کرد. دوبلگه پؽش فرز ن نجوست؛ فایل زفت نؽبۊ.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = نشووݩ داڌن من دوبلگه
     .accessKey = F
@@ -1529,6 +1566,9 @@ trustpanel-blocker-see-all = نیشتن پوی
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = زفت وابیڌنا جلاو رڌجۊری سی { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
