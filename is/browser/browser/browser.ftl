@@ -939,6 +939,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Vinsælt á { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ekki sýna vinsælar leitir
+    .accesskey = E
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ekki sýna vinsælar leitir
     .accesskey = k
 # The result menu labels shown next to trending results.
