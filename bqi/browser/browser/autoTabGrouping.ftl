@@ -23,6 +23,17 @@ smartwindow-group-tabs-suggested-heading = بونکۊیل پؽشنهاڌی
 #   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
 smartwindow-group-tabs-flyout-list =
     .aria-label = بلگه یل { $groupLabel }
+# Accessible name for a suggested-group row. Activating the row creates the
+# group.
+# Variables:
+#   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
+#   $tabCount (Number) - Number of tabs the group would contain
+smartwindow-group-tabs-suggestion =
+    .aria-label =
+        { $tabCount ->
+            [one] وورکل بونکۊ { $groupLabel }، { $tabCount } بلگه
+           *[other] وورکل بونکۊ { $groupLabel }، { $tabCount } بلگه
+        }
 # Heading for the list of groups the user just created (and can still undo).
 smartwindow-group-tabs-just-created-heading = تازه وورکل وابیڌه
 # Action that dissolves every group in the "Just created" list. The tabs stay
@@ -35,3 +46,12 @@ smartwindow-group-tabs-view-tab-groups = نیشتن بونکۊیل بلگه
 # Accessible name for the list of existing tab groups the row above opens.
 smartwindow-group-tabs-groups-list =
     .aria-label = بونکۊیل بلگه
+# Action that closes this window's duplicate tabs, keeping the most recently
+# used tab of each set. Only shown when there are duplicates to close.
+# Variables:
+#   $tabCount (Number) - Number of duplicate tabs that activating it closes
+smartwindow-group-tabs-close-duplicates =
+    { $tabCount ->
+        [one] بستن { $tabCount } بلگه تکراری
+       *[other] بستن { $tabCount } بلگه تکراری
+    }
