@@ -842,6 +842,9 @@ urlbar-result-realtime-opt-in-not-now = Une honetan ez
 urlbar-result-realtime-opt-in-dismiss = Baztertu
 urlbar-result-realtime-opt-in-dismiss-all2 = Ez erakutsi gomendio hauek
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ez erakutsi merkatuko gomendiorik
+    .accesskey = E
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ez erakutsi merkatuko gomendiorik
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ez erakutsi gomendio hauek
