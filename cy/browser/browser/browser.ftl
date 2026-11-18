@@ -71,6 +71,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Rhannu…
     .accesskey = R
+
+##
+
 urlbar-identity-button =
     .aria-label = Gweld manylion y wefan
 
@@ -768,6 +771,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Wedi'i noddi
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Gofyn
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1325,6 +1333,20 @@ plugin-crashed-notification-submit-button =
     .label = Cyflwyno adroddiad chwalu
     .accesskey = C
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1379,6 +1401,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = C
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1529,9 +1554,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Dileu rhywfaint neu'r cyfan o'ch data pori
-    .tooltiptext = Dileu rhywfaint neu'r cyfan o'ch data pori
 fire-button-panel-heading = Dileu'r holl ddata pori?
 fire-button-panel-description = Mae hyn yn dileu hanes, cwcis, a data gwefan. Byddwch yn cael eich allgofnodi o wefannau. Bydd y ffenestr hon yn cau, a bydd { -brand-short-name } yn agor un newydd.
 fire-button-panel-choose-description = Os nad ydych chi am ddileu popeth, dewiswch ddata penodol yn lle hynny.
@@ -1662,6 +1684,13 @@ file-picker-crashed-open = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Mae deialog ffeil Windows wedi chwalu. Bydd y ffeil yn cael ei chadw i { $path }.
 file-picker-crashed-save-nowhere = Mae deialog ffeil Windows wedi chwalu. Doedd dim modd dod o hyd i ffolder rhagosodedig; fydd y ffeil ddim yn cael ei chadw.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Dangos mewn Ffolder
     .accessKey = F
@@ -1737,6 +1766,9 @@ trustpanel-blocker-see-all = Gweld y Cyfan
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Diogelwch tracio ar gyfer  { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
