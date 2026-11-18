@@ -668,6 +668,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Խաբուսիկ կայք։
+safebrowsing-reported-attack-site-message = Զեկուցուած է իբրեւ հարձակողական կայք։
+safebrowsing-reported-unwanted-site-message = Այս կայքը հաղորդուել է որպէս անցանկալի ծրագրերի կայք։
+safebrowsing-reported-harmful-site-message = Զեկուցուած վնասակար կայք։
+safebrowsing-get-me-out-of-here-button =
+    .label = Դուրս բեր ինձ այստեղից։
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Սա խաբուսիկ կայք չէ…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Սա հարձակողական կայք չէ…
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
