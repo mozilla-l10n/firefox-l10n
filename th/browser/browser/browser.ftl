@@ -773,6 +773,9 @@ urlbar-result-realtime-opt-in-not-now = ยังไม่ทำตอนนี�
 urlbar-result-realtime-opt-in-dismiss = ปิด
 urlbar-result-realtime-opt-in-dismiss-all2 = ไม่ต้องแสดงคำแนะนำเหล่านี้
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = ไม่ต้องแสดงคำแนะนำเกี่ยวกับตลาดหุ้น
+    .accesskey = ไ
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = ไม่ต้องแสดงคำแนะนำเกี่ยวกับตลาดหุ้น
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = ไม่ต้องแสดงคำแนะนำเหล่านี้
