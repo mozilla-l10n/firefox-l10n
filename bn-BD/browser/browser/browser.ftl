@@ -452,6 +452,7 @@ plugin-crashed-notification-submit-button =
 safebrowsing-deceptive-site-message = ক্ষতিকারক সাইট
 safebrowsing-reported-attack-site-message = রিপোর্টকৃত আক্রমনকারী সাইট!
 safebrowsing-reported-unwanted-site-message = সন্দেহভাজন অবাঞ্ছিত সফ্টওয়্যার সাইট রিপোর্ট করা হয়েছে!
+safebrowsing-reported-harmful-site-message = ক্ষতিকর সাইট হিসেবে চিহ্নিত!
 safebrowsing-get-me-out-of-here-button =
     .label = এখান থেকে বেড়িয়ে যেতে চাই!
     .accesskey = G
@@ -478,6 +479,9 @@ captive-portal-show-login-page-button =
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
 keyword-uri-fixup-message = আপনি কি { $hostName } যাওয়ার কথা বোঝাতে চাচ্ছেন?
+keyword-uri-fixup-go-to-button =
+    .label = হ্যাঁ, আমাকে { $hostName } নিয়ে যাও
+    .accesskey = Y
 
 ## Password save/update panel
 
