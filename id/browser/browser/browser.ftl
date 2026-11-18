@@ -283,6 +283,11 @@ search-one-offs-add-engine =
     .tooltiptext = Tambahkan mesin pencari "{ $engineName }"
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Tambah mesin pencari
+    .accesskey = T
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Tambah mesin pencari
 
