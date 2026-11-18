@@ -381,10 +381,27 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Isayithi Yenkohliso!
+safebrowsing-reported-attack-site-message = Isayithi yohlaselo exeliweyo!
+safebrowsing-reported-unwanted-site-message = Isayithi ye-Software eNgafunekiyo eChaziweyo!
+safebrowsing-get-me-out-of-here-button =
+    .label = Ndikhuphe apha!
+    .accesskey = N
+safebrowsing-not-a-deceptive-site-button =
+    .label = Le siyosayithi yenkohliso…
+    .accesskey = y
+safebrowsing-not-an-attack-site-button =
+    .label = Asiyosayithi yohlaselo le…
+    .accesskey = y
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Umele uloge ungene kule nethwekhi ngaphambi kokuba ufikelele kwi-Intanethi.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Vula iPhepha lokuLoga uNgene kwiNethwekhi
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
