@@ -1038,6 +1038,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Τάσεις στο { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Απόκρυψη δημοφιλών αναζητήσεων
+    .accesskey = Α
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Απόκρυψη δημοφιλών αναζητήσεων
     .accesskey = Α
 # The result menu labels shown next to trending results.
