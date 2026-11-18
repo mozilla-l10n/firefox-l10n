@@ -842,6 +842,9 @@ urlbar-result-realtime-opt-in-not-now = اکنون نه
 urlbar-result-realtime-opt-in-dismiss = رد کردن
 urlbar-result-realtime-opt-in-dismiss-all2 = این پیشنهادها نشان داده نشوند
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = پیشنهادهای بازار بورس نشان داده نشوند
+    .accesskey = پ
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = پیشنهادهای بازار بورس نشان داده نشوند
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = این پیشنهادها نشان داده نشوند
