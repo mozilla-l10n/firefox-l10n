@@ -94,28 +94,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = ยินดีต้อนรับสู่{ -smart-window-brand-name }
-aiwindow-firstrun-model-title = อะไรคือสิ่งสำคัญสำหรับคุณ?
 aiwindow-firstrun-model-title-v2 = เลือกโมเดลเพื่อเริ่มต้น
-aiwindow-firstrun-model-subtitle = เลือกโมเดลที่จะใช้กับ { -smart-window-brand-name } สลับได้ทุกเมื่อ
 aiwindow-firstrun-model-subtitle-v2 = แต่ละโมเดลช่วยคุณสรุป เปรียบเทียบ และสำรวจแท็บต่าง ๆ ของคุณได้ สลับได้ทุกเมื่อ
-aiwindow-firstrun-model-fast-label = เร็ว
-aiwindow-firstrun-model-fast-body = ตอบอย่างรวดเร็ว
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = เร็ว: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = ดีที่สุดสำหรับการหาคำตอบอย่างรวดเร็วเมื่อคุณกำลังเร่งรีบ
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = โมเดล { $model } โดย { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = ยืดหยุ่น
-aiwindow-firstrun-model-allpurpose-body = ตอบโจทย์ความต้องการส่วนใหญ่ได้ดีมาก
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = ยืดหยุ่น: { $shortName }
 aiwindow-firstrun-model-flexible-body = พร้อมสำหรับงานหลากหลายประเภท
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = แนะนำ
-aiwindow-firstrun-model-personal-label = ส่วนบุคคล
-aiwindow-firstrun-model-personal-body = คำตอบที่ปรับแต่งมาให้เหมาะสมที่สุด
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = ส่วนบุคคล: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = ออกแบบมาเพื่อการช่วยเหลือเฉพาะบุคคลในภาษาต่าง ๆ
@@ -129,12 +117,6 @@ aiwindow-input-model-select-button-label-fast = เร็ว
 aiwindow-input-model-select-button-label-allpurpose = ยืดหยุ่น
 aiwindow-input-model-select-button-label-personal = ส่วนบุคคล
 aiwindow-input-model-select-button-label-custom = กำหนดเอง
-aiwindow-input-model-select-button-description-custom = ใช้ LLM ของคุณเอง
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = ใช้ LLM ของคุณเอง
 aiwindow-input-model-select-default-badge =
     .label = ค่าเริ่มต้น
     .title = โมเดลเริ่มต้นที่เลือก

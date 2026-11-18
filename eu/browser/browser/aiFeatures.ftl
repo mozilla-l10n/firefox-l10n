@@ -26,15 +26,6 @@ smart-window-model-learn-link = Ereduei buruzko argibide gehiago
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = { $model } eredua, egilea: { $ownerName }
-    .label = Azkarra: berehala erantzuten du
-smart-window-model-flexible =
-    .description = { $model } eredua, egilea: { $ownerName }
-    .label = Malgua: aukera sendoa ohiko beharretarako
-smart-window-model-personal =
-    .description = { $model } eredua, egilea: { $ownerName }
-    .label = Pertsonala: neurrira egindako erantzunak
 smart-window-model-custom =
     .label = Pertsonalizatua: erabili zure LLM propioa
 smart-window-model-custom-name =

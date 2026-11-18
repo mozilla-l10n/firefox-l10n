@@ -128,10 +128,6 @@ autofill-card-billing-address-2 =
 #     network isn't known yet)
 autofill-card-security-code-optional-2 =
     .label = { $securityCode } (izbirno)
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-optional =
-    .label = CVV (neobvezno)
 autofill-card-name-on-card = Ime na kartici
 autofill-card-expires-month = Mesec poteka
 autofill-card-expires-year = Leto poteka

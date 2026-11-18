@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = { -smart-window-brand-name } وچ خوش آمدید
-aiwindow-firstrun-model-title = تہاݙے کیتے کیا اہم اے؟
 aiwindow-firstrun-model-title-v2 = شروع کرݨ کیتے ماڈل چُݨو
-aiwindow-firstrun-model-subtitle = { -smart-window-brand-name } چلاوݨ کیتے ماڈل چُݨو۔ کݙاہیں وی تبدیل کرو۔
 aiwindow-firstrun-model-subtitle-v2 = ہر ماڈل تہاݙے ٹیبز وچ خلاصہ کرݨ، موازنہ کرݨ تے ڳولݨ وچ تہاݙی مدد کر سڳدا اے۔ کݙاہیں وی تبدیل کرو۔
-aiwindow-firstrun-model-fast-label = تیز
-aiwindow-firstrun-model-fast-body = جلدی جواب ݙیندا اے۔
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = تیز: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = تیز جواباں کیتے بہترین، جدوں تسیں جلدی وچ ہوو۔
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = { $ownerName } دا ماڈل { $model }
-aiwindow-firstrun-model-allpurpose-label = لچکدار
-aiwindow-firstrun-model-allpurpose-body = زیادہ تر ضرورتاں کیتے موزوں
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = لچکدار: { $shortName }
 aiwindow-firstrun-model-flexible-body = مختلف کماں کیتے تیار
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = سفارش تھئے ہوئے
-aiwindow-firstrun-model-personal-label = ذاتی
-aiwindow-firstrun-model-personal-body = سب توں ذاتی نوعیت دے جواب
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = ذاتی: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = زباناں وچ ذاتی نوعیت دی مدد کیتے بݨایا ڳیا
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = تیز
 aiwindow-input-model-select-button-label-allpurpose = لچکدار
 aiwindow-input-model-select-button-label-personal = ذاتی
 aiwindow-input-model-select-button-label-custom = مخصوص
-aiwindow-input-model-select-button-description-custom = اپݨا LLM ورتو
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = اپݨا LLM ورتو
 aiwindow-input-model-select-default-badge =
     .label = ڈیفالٹ
     .title = چُݨیا ڳیا ڈیفالٹ ماڈل

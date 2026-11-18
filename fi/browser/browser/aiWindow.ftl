@@ -95,28 +95,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Tervetuloa, tämä on { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Mikä on sinulle tärkeää?
 aiwindow-firstrun-model-title-v2 = Valitse malli aloittaaksesi
-aiwindow-firstrun-model-subtitle = Valitse malli, jota { -smart-window-brand-name } käyttää. Vaihda milloin tahansa.
 aiwindow-firstrun-model-subtitle-v2 = Jokainen malli voi auttaa sinua tekemään yhteenvetoja, sekä vertailemaan ja tutkimaan välilehtiä. Voit vaihtaa milloin tahansa.
-aiwindow-firstrun-model-fast-label = Nopea
-aiwindow-firstrun-model-fast-body = Vastaa nopeasti
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Nopea: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Paras nopeisiin vastauksiin
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Malli { $model }, tekijä { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Joustava
-aiwindow-firstrun-model-allpurpose-body = Vastaa useimpia tarpeita
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Joustava: { $shortName }
 aiwindow-firstrun-model-flexible-body = Valmis monenlaisiin tehtäviin
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Suositeltu
-aiwindow-firstrun-model-personal-label = Henkilökohtainen
-aiwindow-firstrun-model-personal-body = Räätälöidyimmät vastaukset
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Henkilökohtainen: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Luotu räätälöityä apua varten eri kielillä
@@ -130,12 +118,6 @@ aiwindow-input-model-select-button-label-fast = Nopea
 aiwindow-input-model-select-button-label-allpurpose = Joustava
 aiwindow-input-model-select-button-label-personal = Henkilökohtainen
 aiwindow-input-model-select-button-label-custom = Mukautettu
-aiwindow-input-model-select-button-description-custom = Käytä omaa kielimallia
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Käytä omaa kielimallia
 aiwindow-input-model-select-default-badge =
     .label = Oletus
     .title = Valittu oletusmalli

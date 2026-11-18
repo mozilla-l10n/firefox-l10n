@@ -386,18 +386,12 @@ onboarding-checklist-remove-2 = چیک لسٹ ہٹاؤ
 
 tab-groups-onboarding-feature-callout-title = گھٹ بھیڑ تے ٻیا توجہ کیتے ٹیب گروپس آزماؤ
 tab-groups-onboarding-feature-callout-subtitle = ہِک ٹیب کوں ٻئی ٹیب دے اُتے گھسٹیٹ کے اپݨا پہلا گروپ بݨا کے منظم تھیو۔
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = کسے وی ویلے “ڳولو تے ٹیبز منیج کرو” مینیو وچ اپݨے ٹیب گروپس لبھو۔
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = اپݨے ٹیب گروپس کوں کہیں وی ویلے List All Tabs مینیو وچ ڳولو۔
 tab-groups-onboarding-create-group-no-alltabs-button-title = اپݨے گروپس کوں ایڈریس بار وچ ڳول کے لَبھو۔
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = جدوں تساں ہِک ٹیب گروپ بند کرو، اوکوں کدھی وی “ٹیبز ڳولو تے منیج کرو” مینیو توں ٻاہر کھولو۔
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = جدوں تساں ہِک ٹیب گروپ بند کرو، اوکوں کدھی وی “سب ٹیبز دی فہرست” مینیو توں ٻاہر کھولو۔
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = اپݨے بند گروپس کوں ایڈریس بار وچ ڳول کے لَبھو۔
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = اپݨے ٹیب گروپس کوں کدھی وی “ٹیبز ڳولو تے منیج کرو” مینیو توں ٻاہر کھولو۔
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = اپݨے ٹیب گروپس کوں کدھی وی “سب ٹیبز دی فہرست” مینیو توں ٻاہر کھولو۔
 tab-groups-onboarding-dismiss = ٹھیک ہے

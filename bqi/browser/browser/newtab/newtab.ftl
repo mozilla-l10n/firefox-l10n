@@ -836,9 +836,6 @@ newtab-weather-menu-change-location = آلشت جاگه
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = پیتینیڌن جاگه
     .placeholder = پیتینیڌن جاگه
-newtab-weather-cancel-input =
-    .aria-label = لقو
-    .title = لقو
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = و کار گرؽڌن جاگه هیم سکویی
@@ -1059,10 +1056,6 @@ newtab-widget-lists-menu-create = وورکل ی نومگه نۊ
 newtab-widget-lists-menu-delete = پاک کردن ای نومگه
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = آلشت نومگه
-    .title = آلشت نومگه
 newtab-widget-lists-button-add-item = ٱووردن ی موورد
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ٱووردن ی موورد

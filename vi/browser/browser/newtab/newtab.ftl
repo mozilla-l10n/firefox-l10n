@@ -1118,9 +1118,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Đề xuất vị trí
-newtab-weather-cancel-input =
-    .aria-label = Huỷ bỏ
-    .title = Huỷ bỏ
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Sử dụng khu vực hiện tại
@@ -1377,10 +1374,6 @@ newtab-widget-lists-menu-create = Tạo một danh sách mới
 newtab-widget-lists-menu-delete = Xóa danh sách này
 newtab-widget-lists-menu-copy = Sao chép danh sách vào bộ nhớ tạm
 newtab-widget-lists-menu-learn-more = Tìm hiểu thêm
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Thay đổi danh sách
-    .title = Thay đổi danh sách
 newtab-widget-lists-button-add-item = Thêm một mục
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Thêm một mục
@@ -1793,8 +1786,6 @@ newtab-sports-widget-team-tbd = Sẽ được xác định sau
 newtab-sports-widget-message-wallpapers-title = Khởi động World Cup với những hình nền mới
 newtab-sports-widget-message-wallpapers-body = Hãy mang chút năng lượng của ngày thi đấu đến trình duyệt của bạn trong suốt giải đấu.
 newtab-sports-widget-message-wallpapers-cta = Chọn hình nền
-newtab-sports-widget-message-wallpapers-semifinals-title = Tải hình nền mới cho vòng bán kết
-newtab-sports-widget-message-wallpapers-semifinals-body = Chuẩn bị cho những trận đấu hấp dẫn nhất của World Cup.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Add widgets
 newtab-sports-widget-message-day-in-play-title = Hãy giữ cho ngày của bạn luôn thú vị với các widget của { -brand-product-name }

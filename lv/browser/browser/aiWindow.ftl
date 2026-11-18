@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Laipni lūdzam { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Kas Tev ir svarīgs?
 aiwindow-firstrun-model-title-v2 = Izvēlieties modeli, lai sāktu
-aiwindow-firstrun-model-subtitle = Izvēlieties modeli, kas darbina { -smart-window-brand-name }. Pārslēdziet jebkurā laikā.
 aiwindow-firstrun-model-subtitle-v2 = Katrs modelis var palīdzēt apkopot, salīdzināt un izpētīt dažādās cilnēs. Pārslēdzieties jebkurā laikā.
-aiwindow-firstrun-model-fast-label = Ātri
-aiwindow-firstrun-model-fast-body = Ātras atbildes
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Ātri: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Vislabāk ātrām atbildēm, kad strādājat ātri
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Modelis { $model }, ko izveidojis { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Elastīgs
-aiwindow-firstrun-model-allpurpose-body = Stabila piemērotība lielākajai daļai vajadzību
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Elastīgs: { $shortName }
 aiwindow-firstrun-model-flexible-body = Gatavs dažādiem uzdevumiem
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Ieteikts
-aiwindow-firstrun-model-personal-label = Personīgā
-aiwindow-firstrun-model-personal-body = Vispiemērotākās atbildes
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personīgā informācija: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Radīts personalizētai palīdzībai dažādās valodās
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Ātrs
 aiwindow-input-model-select-button-label-allpurpose = Elastīgs
 aiwindow-input-model-select-button-label-personal = Personīgā
 aiwindow-input-model-select-button-label-custom = Pielāgots
-aiwindow-input-model-select-button-description-custom = Izmantojiet savu LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Izmantojiet savu LLM
 aiwindow-input-model-select-default-badge =
     .label = Noklusējuma
     .title = Atlasītais noklusējuma modelis

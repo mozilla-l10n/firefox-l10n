@@ -49,8 +49,6 @@ smartbar-placeholder-hint-3 = Veb ünvanı daxil elə…
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-model-fast-label = Sürətli
-aiwindow-firstrun-model-fast-body = Cəld cavab verir
 aiwindow-firstrun-back-button = Geri
 aiwindow-firstrun-next-button = İrəli
 
@@ -59,5 +57,4 @@ aiwindow-firstrun-next-button = İrəli
 aiwindow-input-model-select-button-label-fast = Sürətli
 aiwindow-input-model-select-button-label-allpurpose = Çevik
 aiwindow-input-model-select-button-label-personal = Şəxsi
-aiwindow-input-model-select-button-description-custom = Öz böyük dil modelinizi istifadə edin
 aiwindow-input-model-select-settings-link = Model tənzimləmələri

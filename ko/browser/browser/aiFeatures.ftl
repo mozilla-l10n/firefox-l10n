@@ -47,15 +47,6 @@ smart-window-model-auto =
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = { $ownerName }의 { $model } 모델
-    .label = 빠름: 신속한 답변 제공
-smart-window-model-flexible =
-    .description = { $ownerName }의 { $model } 모델
-    .label = 유연함: 대부분의 작업에 적합
-smart-window-model-personal =
-    .description = { $ownerName }의 { $model } 모델
-    .label = 맞춤형: 나에게 최적화된 답변 제공
 smart-window-model-custom =
     .label = 사용자 지정: 내가 가진 자체 LLM 사용
 smart-window-model-custom-name =

@@ -34,10 +34,6 @@ aiwindow-firstrun-model-personal-label-v2 = Личен: { $shortName }
 
 aiwindow-input-model-select-button-label-personal = Личен
 aiwindow-input-model-select-button-label-custom = По избор
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-default-badge =
     .label = По подразбиране
     .title = Избраният модел по подразбиране

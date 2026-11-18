@@ -398,18 +398,12 @@ onboarding-checklist-remove-2 = حذف چک‌لیست
 
 tab-groups-onboarding-feature-callout-title = گروه‌بندی زبانه‌ها را برای شلوغی کمتر و تمرکز بیشتر امتحان کنید
 tab-groups-onboarding-feature-callout-subtitle = با کشیدن یک زبانه روی زبانه‌ای دیگر، نخستین گروه خود را بسازید و زبانه‌ها را ساماندهی کنید.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = گروه‌های زبانهٔ خود را هر زمان در منوی «جست‌وجو و مدیریت زبانه‌ها» پیدا کنید.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = گروه‌های زبانه‌های خود را هر زمان در منوی «فهرست همهٔ زبانه‌ها» پیدا کنید.
 tab-groups-onboarding-create-group-no-alltabs-button-title = گروه‌های خود را با جست‌وجوی آن‌ها در نوار نشانی پیدا کنید.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = وقتی یک گروه زبانه را می‌بندید، هر زمان می‌توانید آن را از منوی «جست‌وجو و مدیریت زبانه‌ها» دوباره باز کنید.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = هنگامی که یک گروه زبانه را می‌بندید، هر زمان خواستید آن را از منوی «فهرست همهٔ زبانه‌ها» دوباره باز کنید.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = گروه‌های بسته‌شدهٔ خود را با جست‌وجوی آن‌ها در نوار نشانی پیدا کنید.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = گروه‌های زبانهٔ خود را هر زمان از منوی «جست‌وجو و مدیریت زبانه‌ها» دوباره باز کنید.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = هر زمان خواستید گروه‌های زبانه‌های خود را از منوی «فهرست همهٔ زبانه‌ها» دوباره باز کنید.
 tab-groups-onboarding-dismiss = تأیید

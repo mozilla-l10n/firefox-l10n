@@ -397,18 +397,12 @@ onboarding-checklist-remove-2 = Выдаліць кантрольны спіс
 
 tab-groups-onboarding-feature-callout-title = Паспрабуйце групы картак — менш мітусні, больш увагі
 tab-groups-onboarding-feature-callout-subtitle = Навядзіце парадак, перацягнуўшы адну картку на другую, каб стварыць сваю першую групу.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Знайдзіце свае групы картак у меню «Пошук і кіраванне карткамі» у любы час.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Знайдзіце свае групы картак у меню «Пералічыць усе карткі» у любы час.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Знайдзіце свае групы, пашакаўшы іх у адрасным радку.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Пасля закрыцця групы картак яе можна зноў адкрыць у любы час з меню «Пошук і кіраванне карткамі».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Пасля закрыцця групы картак яе можна зноў адкрыць у любы час з меню «Пералічыць усе карткі».
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Знайдзіце свае закрытыя групы, пашакаўшы іх у адрасным радку.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Вы можаце ў любы час зноў адкрыць групы картак з меню «Пошук і кіраванне карткамі».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Вы можаце ў любы час зноў адкрыць групы картак з меню «Пералічыць усе карткі».
 tab-groups-onboarding-dismiss = Добра

@@ -1133,9 +1133,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Sijaintiehdotukset
-newtab-weather-cancel-input =
-    .aria-label = Peruuta
-    .title = Peruuta
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Käytä nykyistä sijaintia
@@ -1386,10 +1383,6 @@ newtab-widget-lists-menu-create = Luo uusi lista
 newtab-widget-lists-menu-delete = Poista tämä lista
 newtab-widget-lists-menu-copy = Kopioi lista leikepöydälle
 newtab-widget-lists-menu-learn-more = Lue lisää
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Vaihda listaa
-    .title = Vaihda listaa
 newtab-widget-lists-button-add-item = Lisää kohde
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Lisää kohde
@@ -1805,8 +1798,6 @@ newtab-sports-widget-team-tbd = Määritetään myöhemmin
 newtab-sports-widget-message-wallpapers-title = Aloita MM-kisat uusilla taustakuvilla
 newtab-sports-widget-message-wallpapers-body = Tuo ottelupäivän energiaa selaimeesi.
 newtab-sports-widget-message-wallpapers-cta = Valitse taustakuva
-newtab-sports-widget-message-wallpapers-semifinals-title = Hanki uusi taustakuva välieriin
-newtab-sports-widget-message-wallpapers-semifinals-body = Luo pohjaa jalkapallon MM-kisojen suurimmille otteluille.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lisää pienoisohjelmia
 newtab-sports-widget-message-day-in-play-title = Pidä päiväsi käynnissä { -brand-product-name }in pienoisohjelmien avulla

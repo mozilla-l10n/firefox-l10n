@@ -151,8 +151,8 @@ newtab-privacy-menu-learn-more = Ətraflı öyrən
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
-    .title = Məxfilik menyusunu aç
     .aria-label = Məxfilik menyusunu aç
+    .title = Məxfilik menyusunu aç
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -1138,23 +1138,20 @@ newtab-weather-sponsored = { $provider } ∙ Sponsorlu
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-weather-widget-open-menu-button =
-    .title = Hava menyusunu aç
     .aria-label = Hava menyusunu aç
+    .title = Hava menyusunu aç
 newtab-weather-menu-change-location = Məkanı dəyiş
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Məkan axtar
     .aria-label = Məkan axtar
+    .placeholder = Məkan axtar
 # "Back" is an icon-only button next to the location search field that returns to the widget.
 newtab-weather-search-back-button =
-    .title = Geri
     .aria-label = Geri
+    .title = Geri
 # Screen reader label for the dropdown below the location search field that
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Məkan təklifləri
-newtab-weather-cancel-input =
-    .title = İmtina
-    .aria-label = İmtina
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Cari məkanı istifadə et
@@ -1409,10 +1406,6 @@ newtab-widget-lists-menu-create = Yeni liste oluştur
 newtab-widget-lists-menu-delete = Bu listeyi sil
 newtab-widget-lists-menu-copy = Listeyi panoya kopyala
 newtab-widget-lists-menu-learn-more = Ətraflı məlumat al
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Listeyi değiştir
-    .title = Listeyi değiştir
 newtab-widget-lists-button-add-item = Görev əlavə et
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Görev əlavə et
@@ -1834,8 +1827,6 @@ newtab-sports-widget-team-tbd = Belli değil
 newtab-sports-widget-message-wallpapers-title = Dünya Kupası’na yeni duvar kâğıtlarıyla başlayın
 newtab-sports-widget-message-wallpapers-body = Maçların heyecanını tarayıcınıza taşıyın.
 newtab-sports-widget-message-wallpapers-cta = Duvar kâğıdı seçin
-newtab-sports-widget-message-wallpapers-semifinals-title = Yarı finaller üçün yeni bir duvar kâğıdı indirin
-newtab-sports-widget-message-wallpapers-semifinals-body = Dünya Kupası’nın en büyük maçlarına hazırlanın.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Vidcet əlavə elə
 newtab-sports-widget-message-day-in-play-title = { -brand-product-name } araçlarıyla gününüze keyif katın

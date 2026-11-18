@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = ਟਿਕਾਣਾ ਸੁਝਾਅ
-newtab-weather-cancel-input =
-    .aria-label = ਰੱਦ ਕਰੋ
-    .title = ਰੱਦ ਕਰੋ
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = ਮੌਜੂਦਾ ਟਿਕਾਣੇ ਨੂੰ ਵਰਤੋਂ
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = ਇੱਕ ਨਵੀਂ ਲਿਸਟ ਬਣਾ�
 newtab-widget-lists-menu-delete = ਇਸ ਸੂਚੀ ਨੂੰ ਹਟਾਓ
 newtab-widget-lists-menu-copy = ਸੂਚੀ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
 newtab-widget-lists-menu-learn-more = ਹੋਰ ਜਾਣੋ
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = ਸੂਚੀ ਨੂੰ ਬਦਲੋ
-    .title = ਸੂਚੀ ਨੂੰ ਬਦਲੋ
 newtab-widget-lists-button-add-item = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
@@ -1837,8 +1830,6 @@ newtab-sports-widget-team-tbd = ਪਤਾ ਲੱਗਣਾ ਹੈ
 newtab-sports-widget-message-wallpapers-title = ਵਰਲਡ ਕੱਪ ਨੂੰ ਨਵੇਂ ਵਾਲਪੇਪਰ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ
 newtab-sports-widget-message-wallpapers-body = ਟੂਰਨਾਮੈਂਟ ਲਈ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਕੁਝ ਮੈਚ ਵਾਲੇ ਦਿਨਾਂ ਵਰਗੀ ਊਰਜਾ ਲਿਆਓ।
 newtab-sports-widget-message-wallpapers-cta = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
-newtab-sports-widget-message-wallpapers-semifinals-title = ਸੈਮੀ-ਫਾਈਨਲ ਲਈ ਨਵਾਂ ਵਾਲਪੇਪਰ ਲਵੋ
-newtab-sports-widget-message-wallpapers-semifinals-body = ਵਰਲਡ ਕੱਪ ਦੇ ਸਭ ਤੋਂ ਵੱਡੇ ਮੈਚਾਂ ਲਈ ਸਟੇਜ ਸਜਾਓ।
 newtab-sports-widget-message-add-widgets-cta =
     .label = ਵਿਜੈੱਟ ਜੋੜੋ
 newtab-sports-widget-message-day-in-play-title = { -brand-product-name } ਵਿਜੈਟ ਨਾਲ ਆਪਣੇ ਦਿਨ ਵਿੱਚ ਖੇਡ ਨੂੰ ਬਣਾਈ ਰੱਖੋ

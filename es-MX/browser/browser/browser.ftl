@@ -36,9 +36,6 @@ urlbar-identity-button2 =
             [one] Ver información del sitio ({ $count } rastreador bloqueado)
            *[other] Ver información del sitio ({ $count } rastreadores bloqueados)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Ver información de sitio
 
@@ -740,11 +737,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1357,9 +1349,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1406,13 +1395,6 @@ restore-session-startup-suggestion-button = Mostrar cómo
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Su organización ha bloqueado el acceso a archivos locales en esta computadora
-
-## Address bar result shown when someone who used the Extensions and Themes
-## keyboard shortcut presses that shortcut after it moved to Search Tabs.
-## Variables:
-##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
-##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1599,13 +1581,6 @@ file-picker-crashed-open = El diálogo de archivo de Windows ha fallado. No se p
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diálogo de archivo de Windows ha fallado. El archivo se guardará en { $path }.
 file-picker-crashed-save-nowhere = El diálogo de archivo de Windows ha fallado. No se pudo encontrar ninguna carpeta predeterminada; el archivo no se guardará.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Mostrar en carpeta
     .accessKey = M
@@ -1681,9 +1656,6 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecciones contra el rastreo para { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

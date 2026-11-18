@@ -1195,9 +1195,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Awgrymiadau lleoliad
-newtab-weather-cancel-input =
-    .aria-label = Diddymu
-    .title = Diddymu
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Defnyddiwch y lleoliad presennol
@@ -1454,10 +1451,6 @@ newtab-widget-lists-menu-create = Creu rhestr newydd
 newtab-widget-lists-menu-delete = Dileu'r rhestr hon
 newtab-widget-lists-menu-copy = Copïo'r rhestr i'r clipfwrdd
 newtab-widget-lists-menu-learn-more = Dysgu rhagor
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Newid rhestr
-    .title = Newid rhestr
 newtab-widget-lists-button-add-item = Ychwanegu eitem
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Ychwanegu eitem
@@ -1891,8 +1884,6 @@ newtab-sports-widget-team-tbd = I'w benderfynu
 newtab-sports-widget-message-wallpapers-title = Cychwyn Cwpan y Byd gyda phapurau wal newydd
 newtab-sports-widget-message-wallpapers-body = Dewch ag ychydig o egni diwrnod gêm i'ch porwr ar gyfer y twrnamaint.
 newtab-sports-widget-message-wallpapers-cta = Dewis papur wal
-newtab-sports-widget-message-wallpapers-semifinals-title = Cael papur wal newydd ar gyfer y rowndiau cynderfynol
-newtab-sports-widget-message-wallpapers-semifinals-body = Patatoi ar gyfer gemau mwyaf Cwpan y Byd.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Ychwanegu teclyn
 newtab-sports-widget-message-day-in-play-title = Cadwch eich diwrnod ar waith gyda theclynnau { -brand-product-name }

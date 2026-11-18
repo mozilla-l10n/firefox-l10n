@@ -128,10 +128,6 @@ autofill-card-billing-address-2 =
 #     network isn't known yet)
 autofill-card-security-code-optional-2 =
     .label = { $securityCode } (không bắt buộc)
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-optional =
-    .label = CVV (không bắt buộc)
 autofill-card-name-on-card = Tên trên thẻ
 autofill-card-expires-month = Hết hạn tháng
 autofill-card-expires-year = Hết hạn năm

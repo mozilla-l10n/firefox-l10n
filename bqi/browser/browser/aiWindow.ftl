@@ -94,27 +94,15 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = و { -smart-window-brand-name } خش ٱوۊڌین
-aiwindow-firstrun-model-title = چ چیه سی ایسا موهم هڌ؟
 aiwindow-firstrun-model-title-v2 = سی شۊرۊع ی مودل پسند کۊنین
-aiwindow-firstrun-model-subtitle = ی مودل سی رۊشن کردن { -smart-window-brand-name } پسند کۊنین. هر سا ک خاستین ترین هو ن آلشت کۊنین.
-aiwindow-firstrun-model-fast-label = زل
-aiwindow-firstrun-model-fast-body = زی جواو اده
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = زل: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = بؽڌرین گۊزینه سی جواوا زی، مجالی ک عجله دارین
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = مودل { $model } و دست { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = انعتاف پزیر
-aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیازا
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = انعتاف پزیر: { $shortName }
 aiwindow-firstrun-model-flexible-body = ٱماڌه سی تیف موتنوعی ز کارا
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = پؽشنهاڌ وابیڌه
-aiwindow-firstrun-model-personal-label = سیخومی
-aiwindow-firstrun-model-personal-body = موناسو ترین جواوا
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = سیخومی: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = وورکل وابیڌه سی هیاری سیخومی وابیڌه من زووا موختلف
@@ -128,12 +116,6 @@ aiwindow-input-model-select-button-label-fast = زل
 aiwindow-input-model-select-button-label-allpurpose = انعتاف پزیر
 aiwindow-input-model-select-button-label-personal = سیخومی
 aiwindow-input-model-select-button-label-custom = سفارشی
-aiwindow-input-model-select-button-description-custom = LLM خوتووݩ ن و کار بگیرین
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = LLM خوتووݩ ن و کار بگیرین
 aiwindow-input-model-select-default-badge =
     .label = پؽش فرز
     .title = مودل پؽش فرز پسند وابیڌه

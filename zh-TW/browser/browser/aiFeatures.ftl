@@ -47,15 +47,6 @@ smart-window-model-auto =
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = 由 { $ownerName } 提供的 { $model } 模型
-    .label = 快速：快速回答
-smart-window-model-flexible =
-    .description = 由 { $ownerName } 提供的 { $model } 模型
-    .label = 靈活：能滿足大多數需求
-smart-window-model-personal =
-    .description = 由 { $ownerName } 提供的 { $model } 模型
-    .label = 個人化：針對您量身打造的回答
 smart-window-model-custom =
     .label = 自訂：使用您自己的 LLM 模型
 smart-window-model-custom-name =

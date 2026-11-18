@@ -1165,9 +1165,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Прапановы месцазнаходжання
-newtab-weather-cancel-input =
-    .aria-label = Скасаваць
-    .title = Скасаваць
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Ужыць дзейнае месцазнаходжанне
@@ -1424,10 +1421,6 @@ newtab-widget-lists-menu-create = Стварыць новы спіс
 newtab-widget-lists-menu-delete = Выдаліць гэты спіс
 newtab-widget-lists-menu-copy = Скапіяваць спіс у буфер абмену
 newtab-widget-lists-menu-learn-more = Падрабязней
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Змяніць спіс
-    .title = Змяніць спіс
 newtab-widget-lists-button-add-item = Дадаць элемент
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Дадаць элемент
@@ -1852,8 +1845,6 @@ newtab-sports-widget-team-tbd = Падлягае вызначэнню
 newtab-sports-widget-message-wallpapers-title = Пачніце чэмпіянат свету з новымі шпалерамі
 newtab-sports-widget-message-wallpapers-body = Захапіцеся энергіяй матчавага дня ў сваім браўзеры ў час турніру.
 newtab-sports-widget-message-wallpapers-cta = Абраць шпалеры
-newtab-sports-widget-message-wallpapers-semifinals-title = Атрымайце новыя шпалеры для паўфіналаў
-newtab-sports-widget-message-wallpapers-semifinals-body = Падрыхтуйце глебу для найважнейшых матчаў чэмпіянату свету.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Дадаць віджэты
 newtab-sports-widget-message-day-in-play-title = Не выходзьце з гульні з дапамогай віджэтаў { -brand-product-name }

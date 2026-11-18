@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = { -smart-window-brand-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
-aiwindow-firstrun-model-title = ਤੁਹਾਡੇ ਲਈ ਕੀ ਜ਼ਰੂਰੀ ਹੈ?
 aiwindow-firstrun-model-title-v2 = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਮਾਡਲ ਨੂੰ ਚੁਣੋ
-aiwindow-firstrun-model-subtitle = { -smart-window-brand-name } ਨੂੰ ਚਲਾਉਣ ਲਈ ਕਿਸੇ ਮਾਡਲ ਨੂੰ ਚੁਣੋ। ਕਿਸੇ ਵੀ ਸਮੇਂ ਬਦਲ ਦਿਓ।
 aiwindow-firstrun-model-subtitle-v2 = ਹਰ ਮਾਡਲ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਦੁਆਲੇ ਸਾਰ ਬਣਾਉਣ, ਟਾਕਰਾ ਕਰਨ ਅਤੇ ਜਾਣਕਾਰੀ ਲੱਭਣ ਲਈ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ। ਕਿਸੇ ਵੇਲੇ ਵੀ ਬਦਲ ਲਵੋ।
-aiwindow-firstrun-model-fast-label = ਤੇਜ਼
-aiwindow-firstrun-model-fast-body = ਫ਼ੌਰਨ ਜਵਾਬ ਦਿਓ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = ਤੇਜ਼: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = ਜਦੋਂ ਤੁਹਾਨੂੰ ਕਾਹਲੀ ਹੋਵੇ ਤਾਂ ਫ਼ੌਰੀ ਜਵਾਬ ਦੇਣ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = { $ownerName } ਵਲੋਂ { $model } ਮਾਡਲ
-aiwindow-firstrun-model-allpurpose-label = ਲਚਕਦਾਰ
-aiwindow-firstrun-model-allpurpose-body = ਬਹੁਤੀਆਂ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = ਲਚਕੀਲਾ: { $shortName }
 aiwindow-firstrun-model-flexible-body = ਕਈ ਕੰਮਾਂ ਲਈ ਤਿਆਰ
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = ਸਿਫ਼ਾਰਸ਼ੀ
-aiwindow-firstrun-model-personal-label = ਨਿੱਜੀ
-aiwindow-firstrun-model-personal-body = ਸਭ ਤੋਂ ਵੱਧ ਢੁੱਕਵੇਂ ਜਵਾਬ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = ਨਿੱਜੀ: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਨਿੱਜੀ ਮਦਦ ਵਾਸਤੇ ਬਣਾਇਆ
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = ਤੇਜ਼
 aiwindow-input-model-select-button-label-allpurpose = ਲਚਕਦਾਰ
 aiwindow-input-model-select-button-label-personal = ਨਿੱਜੀ
 aiwindow-input-model-select-button-label-custom = ਕਸਟਮ
-aiwindow-input-model-select-button-description-custom = ਤੁਸੀਂ ਆਪਣਾ LLM ਵਰਤੋਂ
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = ਤੁਸੀਂ ਆਪਣਾ LLM ਵਰਤੋਂ
 aiwindow-input-model-select-default-badge =
     .label = ਮੂਲ
     .title = ਚੁਣਿਆ ਗਿਆ ਮੂਲ ਮਾਡਲ

@@ -41,15 +41,6 @@ smart-window-model-learn-link = Mësoni rreth modelesh
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Modeli { $model } nga { $ownerName }
-    .label = I shpejtë: Përgjigjet shpejt
-smart-window-model-flexible =
-    .description = Modeli { $model } nga { $ownerName }
-    .label = I zhdërvjellët: Solid për shumicën e nevojave
-smart-window-model-personal =
-    .description = Modeli { $model } nga { $ownerName }
-    .label = Personal: Përgjigjet më të përpunuara
 smart-window-model-custom =
     .label = Vetjak: Përdorni LLM-në tuaj
 smart-window-model-custom-name =

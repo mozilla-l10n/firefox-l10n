@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Вітаем у { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Што для вас важна?
 aiwindow-firstrun-model-title-v2 = Выберыце мадэль для пачатку
-aiwindow-firstrun-model-subtitle = Выберыце мадэль для { -smart-window-brand-name }. Пераключайцеся ў любы час.
 aiwindow-firstrun-model-subtitle-v2 = Кожная мадэль зможа дапаможа вам падсумаваць, параўнаць або прааналізаваць вашы карткі. Пераключыцца можна ў кожную хвіліну.
-aiwindow-firstrun-model-fast-label = Хуткая
-aiwindow-firstrun-model-fast-body = Адказвае хутка
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Хутка: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Найлепш падыходзіць для хуткіх адказаў, калі вы рухаецеся шпарка
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Мадэль { $model } ад { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Гнуткая
-aiwindow-firstrun-model-allpurpose-body = Надзейна падыходзіць для большасці патрэб
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Гнуткая: { $shortName }
 aiwindow-firstrun-model-flexible-body = Гатовая да розных задач
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Рэкамендаваная
-aiwindow-firstrun-model-personal-label = Асабістая
-aiwindow-firstrun-model-personal-body = Найбольш адаптаваныя адказы
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Асабістая: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Створана для персаналізаванай дапамогі на розных мовах
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Хуткая
 aiwindow-input-model-select-button-label-allpurpose = Гнуткая
 aiwindow-input-model-select-button-label-personal = Асабістая
 aiwindow-input-model-select-button-label-custom = Адмысловая
-aiwindow-input-model-select-button-description-custom = Выкарыстоўваць сваю уласную LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Выкарыстоўваць сваю уласную LLM
 aiwindow-input-model-select-default-badge =
     .label = Прадвызначана
     .title = Выбраная прадвызначаная мадэль

@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Location suggestions
-newtab-weather-cancel-input =
-    .aria-label = Cancel
-    .title = Cancel
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Use current location
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Create a new list
 newtab-widget-lists-menu-delete = Delete this list
 newtab-widget-lists-menu-copy = Copy list to clipboard
 newtab-widget-lists-menu-learn-more = Learn more
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Change list
-    .title = Change list
 newtab-widget-lists-button-add-item = Add an item
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Add an item
@@ -1838,8 +1831,6 @@ newtab-sports-widget-team-tbd = To be determined
 newtab-sports-widget-message-wallpapers-title = Kick off the World Cup with new wallpapers
 newtab-sports-widget-message-wallpapers-body = Bring some match-day energy to your browser for the tournament.
 newtab-sports-widget-message-wallpapers-cta = Choose wallpaper
-newtab-sports-widget-message-wallpapers-semifinals-title = Get a new wallpaper for the semi-finals
-newtab-sports-widget-message-wallpapers-semifinals-body = Set the stage for the World Cup’s biggest matches.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Add widgets
 newtab-sports-widget-message-day-in-play-title = Keep your day in play with { -brand-product-name } widgets

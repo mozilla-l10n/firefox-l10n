@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Kokapenen gomendioak
-newtab-weather-cancel-input =
-    .aria-label = Utzi
-    .title = Utzi
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Erabili uneko kokapena
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Sortu zerrenda berria
 newtab-widget-lists-menu-delete = Ezabatu zerrenda hau
 newtab-widget-lists-menu-copy = Kopiatu zerrenda arbelean
 newtab-widget-lists-menu-learn-more = Argibide gehiago
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Aldatu zerrenda
-    .title = Aldatu zerrenda
 newtab-widget-lists-button-add-item = Gehitu elementua
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Gehitu elementua
@@ -1839,8 +1832,6 @@ newtab-sports-widget-team-tbd = Zehazteke
 newtab-sports-widget-message-wallpapers-title = Hasi Munduko Kopa horma-paper berriekin
 newtab-sports-widget-message-wallpapers-body = Jarri txapelketarako partida-eguneko energia zure nabigatzailean.
 newtab-sports-widget-message-wallpapers-cta = Aukeratu horma-papera
-newtab-sports-widget-message-wallpapers-semifinals-title = Lortu finalerdietarako horma-paper berri bat
-newtab-sports-widget-message-wallpapers-semifinals-body = Prestatu Munduko Kopako partida garrantzitsuenetarako.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Gehitu widgetak
 newtab-sports-widget-message-day-in-play-title = Izan eguna jokoan { -brand-product-name }(r)en widgetekin

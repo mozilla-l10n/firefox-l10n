@@ -397,18 +397,12 @@ onboarding-checklist-remove-2 = Forigi kontrolliston
 
 tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por pli da ordo kaj fokuso.
 tab-groups-onboarding-feature-callout-subtitle = Ordigu viajn langetojn per treno de unu sur alia, por krei vian unuan grupon.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Retrovu viajn grupojn de langetoj iam ajn en la menuo “Serĉi kaj administri langetojn“.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Trovu iam ajn viajn grupojn de langetoj en la menuo Listigi ĉiujn langetojn
 tab-groups-onboarding-create-group-no-alltabs-button-title = Retrovu viajn grupojn de langetoj per serĉo en la adresa strio.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Se vi fermas grupon de langetoj, malfermu ĝin denove iam ajn el la menuo “Serĉi kaj administri langetojn“.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Se vi fermas grupon de langetoj, vi povas iam ajn remalfermi ĝin en la menuo Listigi ĉiujn langetojn
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Retrovu viajn fermitajn grupojn de langetoj per serĉo en la adresa strio.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Denove malfermu viajn grupojn de langetoj iam ajn el la menuo “Serĉi kaj administri langetojn“.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Remalfermi iam ajn viajn grupojn de langetoj en la menuo Listigi ĉiujn langetojn
 tab-groups-onboarding-dismiss = Akcepti

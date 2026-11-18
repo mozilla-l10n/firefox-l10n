@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = به { -smart-window-brand-name } خوش آمدید
-aiwindow-firstrun-model-title = چه چیزی برای شما اهمیت دارد؟
 aiwindow-firstrun-model-title-v2 = برای شروع مدلی را انتخاب کنید
-aiwindow-firstrun-model-subtitle = مدلی را برای به‌کارگیری در { -smart-window-brand-name } انتخاب کنید. هر زمان می‌توانید آن را تغییر دهید.
 aiwindow-firstrun-model-subtitle-v2 = هر مدل می‌تواند در خلاصه کردن، مقایسه و کاوش در زبانه‌هایتان به شما کمک کند. هر زمان می‌توانید آن را تغییر دهید.
-aiwindow-firstrun-model-fast-label = سریع
-aiwindow-firstrun-model-fast-body = سریع پاسخ می‌دهد
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = سریع: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = بهترین گزینه برای پاسخ‌های سریع، زمانی که عجله دارید
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = مدل { $model } از { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = منعطف
-aiwindow-firstrun-model-allpurpose-body = انتخابی مطمئن برای اکثر نیازها
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = منعطف: { $shortName }
 aiwindow-firstrun-model-flexible-body = آماده برای طیف متنوعی از کارها
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = پیشنهادی
-aiwindow-firstrun-model-personal-label = شخصی‌سازی‌شده
-aiwindow-firstrun-model-personal-body = متناسب‌ترین پاسخ‌ها با نیاز شما
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = شخصی‌سازی‌شده: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = طراحی‌شده برای راهنمایی شخصی‌سازی‌شده در زبان‌های مختلف
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = سریع
 aiwindow-input-model-select-button-label-allpurpose = منعطف
 aiwindow-input-model-select-button-label-personal = شخصی‌سازی‌شده
 aiwindow-input-model-select-button-label-custom = سفارشی
-aiwindow-input-model-select-button-description-custom = استفاده از مدل زبانی بزرگ (LLM) خودتان
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = استفاده از مدل زبانی بزرگ (LLM) خودتان
 aiwindow-input-model-select-default-badge =
     .label = پیش‌فرض
     .title = مدل پیش‌فرض انتخاب‌شده

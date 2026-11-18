@@ -34,15 +34,6 @@ smart-window-model-learn-link = زبار مودلا دووسته بۊین
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = مودل { $model } ز { $ownerName }
-    .label = زل: زی جواو اده
-smart-window-model-flexible =
-    .description = مودل { $model } و دست { $ownerName }
-    .label = انعتاف پزیر: موناسو سی بیشتر نیازا
-smart-window-model-personal =
-    .description = مودل { $model } ز { $ownerName }
-    .label = سیخومی: موناسو ترین جواوا
 smart-window-model-custom =
     .label = سفارشی: و کار گرؽڌن مودل زووی گپ (LLM) خوتووݩ
 smart-window-model-custom-name =

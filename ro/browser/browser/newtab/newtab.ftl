@@ -1165,9 +1165,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Sugestii de locații
-newtab-weather-cancel-input =
-    .aria-label = Anulează
-    .title = Anulează
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Folosește locația curentă
@@ -1424,10 +1421,6 @@ newtab-widget-lists-menu-create = Creează o listă nouă
 newtab-widget-lists-menu-delete = Șterge lista
 newtab-widget-lists-menu-copy = Copiază lista în clipboard
 newtab-widget-lists-menu-learn-more = Află mai multe
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Schimbă lista
-    .title = Schimbă lista
 newtab-widget-lists-button-add-item = Adaugă un element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Adaugă un element
@@ -1852,8 +1845,6 @@ newtab-sports-widget-team-tbd = De stabilit
 newtab-sports-widget-message-wallpapers-title = Începe Cupa Mondială cu imagini noi de fundal
 newtab-sports-widget-message-wallpapers-body = Adu energia zilei de meci în browser pentru turneu.
 newtab-sports-widget-message-wallpapers-cta = Alege o imagine de fundal
-newtab-sports-widget-message-wallpapers-semifinals-title = Obține o nouă imagine de fundal pentru semifinale
-newtab-sports-widget-message-wallpapers-semifinals-body = Pregătește terenul pentru cele mai importante meciuri ale Cupei Mondiale.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adaugă widgeturi
 newtab-sports-widget-message-day-in-play-title = Ține-ți ziua în joc cu widgeturi { -brand-product-name }

@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Bonvenon al { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Kio estas grava por vi?
 aiwindow-firstrun-model-title-v2 = Elektu modelon por komenci
-aiwindow-firstrun-model-subtitle = Elektu modelon por funkciigi { -smart-window-brand-name }. Ŝanĝu iam ajn.
 aiwindow-firstrun-model-subtitle-v2 = Ĉiu modelo povas helpi vin resumi, kompari kaj esplori viajn langetojn. Vi povos ŝanĝi la modelon iam ajn.
-aiwindow-firstrun-model-fast-label = Rapida
-aiwindow-firstrun-model-fast-body = Rapidaj respondoj
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Rapida: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Plej bona por respondoj, en kiuj rapideco gravas
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Adaptebla
-aiwindow-firstrun-model-allpurpose-body = Adaptita al la plimulto de bezonoj
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Adaptebla: { $shortName }
 aiwindow-firstrun-model-flexible-body = Preta por pluraj taskoj
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Rekomendita
-aiwindow-firstrun-model-personal-label = Persona
-aiwindow-firstrun-model-personal-body = La plej personecigitaj respondoj
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Persona: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Konstruita por personecigita helpo en multaj lingvoj
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Rapida
 aiwindow-input-model-select-button-label-allpurpose = Adaptebla
 aiwindow-input-model-select-button-label-personal = Persona
 aiwindow-input-model-select-button-label-custom = Personecigita
-aiwindow-input-model-select-button-description-custom = Uzu vian propran modelon
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Uzu vian propran LLM
 aiwindow-input-model-select-default-badge =
     .label = Normo
     .title = La elektita norma modelo

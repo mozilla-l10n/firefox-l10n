@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Platsförslag
-newtab-weather-cancel-input =
-    .aria-label = Avbryt
-    .title = Avbryt
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Använd aktuell plats
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Skapa en ny lista
 newtab-widget-lists-menu-delete = Ta bort denna lista
 newtab-widget-lists-menu-copy = Kopiera lista till urklipp
 newtab-widget-lists-menu-learn-more = Läs mer
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Ändra lista
-    .title = Ändra lista
 newtab-widget-lists-button-add-item = Lägg till ett objekt
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Lägg till ett objekt
@@ -1838,8 +1831,6 @@ newtab-sports-widget-team-tbd = Kommer att bestämmas
 newtab-sports-widget-message-wallpapers-title = Sparka igång VM med nya bakgrundsbilder
 newtab-sports-widget-message-wallpapers-body = Ta med lite energi till din webbläsare under tävlingen.
 newtab-sports-widget-message-wallpapers-cta = Välj bakgrundsbild
-newtab-sports-widget-message-wallpapers-semifinals-title = Skaffa en ny bakgrundsbild till semifinalerna
-newtab-sports-widget-message-wallpapers-semifinals-body = Förbered dig för VM:s största matcher.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lägg till widgetar
 newtab-sports-widget-message-day-in-play-title = Håll igång dagen med { -brand-product-name } widgets

@@ -571,13 +571,14 @@ newtab-solitaire-menu-learn-more = Learn more
 ## Wrexham, Wales. For now, the widget is only expected to be shown in Welsh
 ## and British English. “Wrexham AFC” is the club’s name. Use the name the
 ## club is known by in your language, if it has one: in Welsh, “CPD Wrecsam”.
+
 # The widget's name. .title is its heading and accessible name, .label its
 # Customize panel toggle, and .menu-label the screen reader label of the
 # button that opens its menu.
 newtab-custom-widget-wrexhamafc =
-    .title = Wrexham AFC
     .label = Wrexham AFC
     .menu-label = Open Wrexham AFC menu
+    .title = Wrexham AFC
 # Menu item opening a submenu that switches what the widget shows. “View” is a
 # noun here, as in “the view the widget shows”.
 newtab-widget-wrexhamafc-menu-view = View
@@ -587,6 +588,7 @@ newtab-widget-wrexhamafc-menu-view = View
 ## with its score once it has started; “Table” shows the league table, the
 ## standings of the teams in the club’s league; and “Fixtures” lists the club’s
 ## upcoming scheduled matches.
+
 newtab-widget-wrexhamafc-view-matches = Matches
 newtab-widget-wrexhamafc-view-table = Table
 newtab-widget-wrexhamafc-view-fixtures = Fixtures
@@ -1153,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Location suggestions
-newtab-weather-cancel-input =
-    .aria-label = Cancel
-    .title = Cancel
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Use current location
@@ -1412,10 +1411,6 @@ newtab-widget-lists-menu-create = Create a new list
 newtab-widget-lists-menu-delete = Delete this list
 newtab-widget-lists-menu-copy = Copy list to clipboard
 newtab-widget-lists-menu-learn-more = Learn more
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Change list
-    .title = Change list
 newtab-widget-lists-button-add-item = Add an item
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Add an item
@@ -1835,8 +1830,6 @@ newtab-sports-widget-team-tbd = To be determined
 newtab-sports-widget-message-wallpapers-title = Kick off the World Cup with new wallpapers
 newtab-sports-widget-message-wallpapers-body = Bring some match-day energy to your browser for the tournament.
 newtab-sports-widget-message-wallpapers-cta = Choose wallpaper
-newtab-sports-widget-message-wallpapers-semifinals-title = Get a new wallpaper for the semi-finals
-newtab-sports-widget-message-wallpapers-semifinals-body = Set the stage for the World Cup’s biggest matches.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Add widgets
 newtab-sports-widget-message-day-in-play-title = Keep your day in play with { -brand-product-name } widgets
@@ -1899,14 +1892,14 @@ newtab-clock-widget-search-location-input2 =
 # Variables:
 #   $count (number) - How many more characters the nickname can have.
 newtab-clock-widget-input-nickname2 =
-    .label = Nickname (optional)
-    .placeholder = Add a nickname
     .aria-label = Nickname (optional)
     .description =
         { $count ->
             [one] { $count } character left
            *[other] { $count } characters left
         }
+    .label = Nickname (optional)
+    .placeholder = Add a nickname
 newtab-clock-widget-search-location-input =
     .aria-label = Search for a city
     .label = Location

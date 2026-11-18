@@ -41,15 +41,6 @@ smart-window-model-learn-link = 了解模型
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = { $ownerName } 的 { $model } 模型
-    .label = 快速：迅捷回答
-smart-window-model-flexible =
-    .description = { $ownerName } 的 { $model } 模型
-    .label = 灵活：满足大多数需求
-smart-window-model-personal =
-    .description = { $ownerName } 的 { $model } 模型
-    .label = 个人化：提供最懂您的回答
 smart-window-model-custom =
     .label = 自定义：使用您自己的大语言模型
 smart-window-model-custom-name =

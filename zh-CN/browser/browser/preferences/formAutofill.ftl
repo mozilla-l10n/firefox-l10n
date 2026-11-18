@@ -128,10 +128,6 @@ autofill-card-billing-address-2 =
 #     network isn't known yet)
 autofill-card-security-code-optional-2 =
     .label = { $securityCode }（选填）
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-optional =
-    .label = 安全码（选填）
 autofill-card-name-on-card = 卡面姓名
 autofill-card-expires-month = 到期月
 autofill-card-expires-year = 到期年

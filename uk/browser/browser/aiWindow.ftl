@@ -94,23 +94,11 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Вітаємо в { -smart-window-brand-name(case: "loc", form: "lower-singular") }
-aiwindow-firstrun-model-title = Що для вас важливо?
 aiwindow-firstrun-model-title-v2 = Виберіть модель, щоб почати
-aiwindow-firstrun-model-subtitle = Виберіть модель для { -smart-window-brand-name(case: "gen", form: "lower-singular") }. Можна змінити будь-коли.
-aiwindow-firstrun-model-fast-label = Швидка
-aiwindow-firstrun-model-fast-body = Швидко відповідає
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Модель { $model } від { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Гнучка
-aiwindow-firstrun-model-allpurpose-body = Оптимальна для більшості потреб
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Гнучка: { $shortName }
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Рекомендовано
-aiwindow-firstrun-model-personal-label = Особиста
-aiwindow-firstrun-model-personal-body = Найбільш персоналізовані відповіді
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Особиста: { $shortName }
 aiwindow-firstrun-button = Вперед
@@ -123,11 +111,6 @@ aiwindow-input-model-select-button-label-fast = Швидка
 aiwindow-input-model-select-button-label-allpurpose = Гнучка
 aiwindow-input-model-select-button-label-personal = Особиста
 aiwindow-input-model-select-button-label-custom = Власна
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Використовуйте власну LLM
 aiwindow-input-model-select-default-badge =
     .label = Типова
     .title = Вибрано типову модель

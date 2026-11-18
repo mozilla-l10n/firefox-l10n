@@ -1175,9 +1175,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Naraźenja městnow
-newtab-weather-cancel-input =
-    .aria-label = Pśetergnuś
-    .title = Pśetergnuś
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Aktualne stojnišćo wužywaś
@@ -1434,10 +1431,6 @@ newtab-widget-lists-menu-create = Nowu lisćinu napóraś
 newtab-widget-lists-menu-delete = Toś tu lisćinu lašowaś
 newtab-widget-lists-menu-copy = Lisćinu do mjazywótkłada kopěrowaś
 newtab-widget-lists-menu-learn-more = Dalšne informacije
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Lisćinu změniś
-    .title = Lisćinu změniś
 newtab-widget-lists-button-add-item = Zapisk pśidaś
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Zapisk pśidaś
@@ -1865,8 +1858,6 @@ newtab-sports-widget-team-tbd = Musy se póstajiś
 newtab-sports-widget-message-wallpapers-title = Zachopśo swětowe mejstaŕstwo z nowym slězynowymi wobrazami
 newtab-sports-widget-message-wallpapers-body = Pśinjasćo atmosferu grajnego dnja do swójogo wobglědowaka za turněr.
 newtab-sports-widget-message-wallpapers-cta = Slězynowy wobraz wubraś
-newtab-sports-widget-message-wallpapers-semifinals-title = Wobstarajśo se nowy slězynow wobraz za połfinale
-newtab-sports-widget-message-wallpapers-semifinals-body = Pśigótujśo jawišćo za nejwětše graśa swětowego mejstaŕstwa.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Asistenty pśidaś
 newtab-sports-widget-message-day-in-play-title = Grajśo z asistentami { -brand-product-name } ceły źeń

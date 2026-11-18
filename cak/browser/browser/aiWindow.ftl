@@ -81,13 +81,10 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Ütz apetik pa { -smart-window-brand-name }
-aiwindow-firstrun-model-title = ¿Atux ri k'atzinel chawe?
-aiwindow-firstrun-model-fast-label = Anin
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Anin: { $shortName }
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Chilab'en
-aiwindow-firstrun-model-personal-label = Awichin
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Ichinan: { $shortName }
 aiwindow-firstrun-button = Jo'
@@ -99,10 +96,6 @@ aiwindow-firstrun-next-button = Jun chik
 aiwindow-input-model-select-button-label-fast = Anin
 aiwindow-input-model-select-button-label-personal = Awichin
 aiwindow-input-model-select-button-label-custom = Ichinan
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 
 ## Firstrun memories onboarding
 

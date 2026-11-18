@@ -9,10 +9,6 @@ ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
 
-## Firstrun onboarding
-
-aiwindow-firstrun-model-title = మీకు ఏది ముఖ్యం?
-
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =

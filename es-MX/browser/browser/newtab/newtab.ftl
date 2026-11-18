@@ -1415,7 +1415,6 @@ newtab-sports-widget-team-tbd = Por definir
 newtab-sports-widget-message-wallpapers-title = Inicia el Mundial con nuevos fondos de pantalla
 newtab-sports-widget-message-wallpapers-body = Lleva toda la energía del partido a tu navegador durante el torneo.
 newtab-sports-widget-message-wallpapers-cta = Elegir fondo de pantalla
-newtab-sports-widget-message-wallpapers-semifinals-title = Obtén un nuevo fondo de pantalla para las semifinales
 newtab-sports-widget-message-add-widgets-cta =
     .label = Agregar widgets
 newtab-sports-widget-message-day-in-play-title = Mantén el ritmo de tu día con los widgets de { -brand-product-name }

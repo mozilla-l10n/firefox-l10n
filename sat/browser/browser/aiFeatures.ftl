@@ -41,15 +41,6 @@ smart-window-model-learn-link = ᱢᱳᱰᱮᱞ ᱠᱚ ᱵᱟᱨᱮᱛᱮ ᱥᱮ
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = ᱢᱳᱰᱮᱞ { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
-    .label = ᱩᱥᱟᱹᱨᱟ: ᱩᱥᱟᱹᱨᱟ ᱛᱮᱞᱟ ᱮᱢᱚᱜ ᱢᱮ
-smart-window-model-flexible =
-    .description = ᱢᱳᱰᱮᱞ { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
-    .label = ᱞᱤᱪᱟᱹᱲ: ᱡᱟᱹᱥᱛᱤ ᱞᱟᱹᱠᱛᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱴᱮᱡ ᱯᱷᱤᱴ
-smart-window-model-personal =
-    .description = ᱢᱚᱰᱮᱞ { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
-    .label = ᱯᱚᱨᱥᱚᱱᱟᱞ: ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
 smart-window-model-custom =
     .label = ᱠᱟᱥᱴᱚᱢ: ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨ LLM ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 smart-window-model-custom-name =

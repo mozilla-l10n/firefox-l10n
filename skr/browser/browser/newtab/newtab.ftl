@@ -1114,9 +1114,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = ٹکانے دیاں تجویزاں
-newtab-weather-cancel-input =
-    .aria-label = منسوخ کرو
-    .title = منسوخ کرو
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = موجودہ لوکیشن ورتو
@@ -1367,10 +1364,6 @@ newtab-widget-lists-menu-create = نویں فہرست بݨاو
 newtab-widget-lists-menu-delete = ایہ فہرست مٹاو
 newtab-widget-lists-menu-copy = فہرست کوں کلپ بورڈ تے کاپی کرو
 newtab-widget-lists-menu-learn-more = بیا سکھو
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = فہرست ٻدلو
-    .title = فہرست ٻدلو
 newtab-widget-lists-button-add-item = ہِک آئٹم شامل کرو
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ہِک آئٹم شامل کرو
@@ -1779,8 +1772,6 @@ newtab-sports-widget-team-tbd = طے تھیݨا باقی۔
 newtab-sports-widget-message-wallpapers-title = ورلڈ کپ دا آغاز نویاں والپیپرز نال کرو۔
 newtab-sports-widget-message-wallpapers-body = ٹورنامنٹ کیتے اپݨے براؤزر وچ میچ ݙینہہ دا جوش گھن آؤ۔
 newtab-sports-widget-message-wallpapers-cta = والپیپر چُݨو۔
-newtab-sports-widget-message-wallpapers-semifinals-title = سیمی فائنلز کیتے نواں والپیپر گھِنو۔
-newtab-sports-widget-message-wallpapers-semifinals-body = ورلڈ کپ دے سب توں وݙے میچز کیتے ماحول بݨاؤ۔
 newtab-sports-widget-message-add-widgets-cta =
     .label = ویجٹس شامل کرو۔
 newtab-sports-widget-message-day-in-play-title = اپݨا ݙینہہ { -brand-product-name } ویجٹس نال کھیل وچ رکھو۔

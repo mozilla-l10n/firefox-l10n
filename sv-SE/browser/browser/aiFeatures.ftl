@@ -41,15 +41,6 @@ smart-window-model-learn-link = Lär dig mer om modeller
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Modell { $model } av { $ownerName }
-    .label = Snabb: Svarar snabbt
-smart-window-model-flexible =
-    .description = Modell { $model } av { $ownerName }
-    .label = Flexibel: Stabil passform för de flesta behov
-smart-window-model-personal =
-    .description = Modell { $model } av { $ownerName }
-    .label = Personlig: ​​Mest skräddarsydda svar
 smart-window-model-custom =
     .label = Anpassad: Använd din egen LLM
 smart-window-model-custom-name =

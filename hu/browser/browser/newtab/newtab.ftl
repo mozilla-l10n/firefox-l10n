@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Javasolt helyek
-newtab-weather-cancel-input =
-    .aria-label = Mégse
-    .title = Mégse
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Jelenlegi hely használata
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Új lista létrehozása
 newtab-widget-lists-menu-delete = Lista törlése
 newtab-widget-lists-menu-copy = Lista vágólapra másolása
 newtab-widget-lists-menu-learn-more = További tudnivalók
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Lista módosítása
-    .title = Lista módosítása
 newtab-widget-lists-button-add-item = Elem hozzáadása
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Elem hozzáadása
@@ -1839,8 +1832,6 @@ newtab-sports-widget-team-tbd = Még nincs meghatározva
 newtab-sports-widget-message-wallpapers-title = Indítsa a világbajnokságot új háttérképekkel
 newtab-sports-widget-message-wallpapers-body = Vigyen egy kis játékos energiát a böngészőjébe a bajnokság alatt.
 newtab-sports-widget-message-wallpapers-cta = Háttérkép választása
-newtab-sports-widget-message-wallpapers-semifinals-title = Szerezzen új háttérképet az elődöntőkhöz
-newtab-sports-widget-message-wallpapers-semifinals-body = Készítsd elő a színteret a világbajnokság legnagyobb mérkőzéseire!
 newtab-sports-widget-message-add-widgets-cta =
     .label = Kisalkalmazások hozzáadása
 newtab-sports-widget-message-day-in-play-title = Maradjon játékban egész nap a { -brand-product-name } kisalkalmazásaival

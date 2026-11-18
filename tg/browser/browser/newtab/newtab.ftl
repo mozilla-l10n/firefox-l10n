@@ -665,9 +665,6 @@ newtab-weather-menu-change-location = Иваз кардани макон
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Ҷустуҷӯи макон
     .placeholder = Ҷустуҷӯи макон
-newtab-weather-cancel-input =
-    .aria-label = Бекор кардан
-    .title = Бекор кардан
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Истифодаи ҷойгиршавии ҷорӣ

@@ -75,12 +75,8 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Хуш омадед ба «{ -smart-window-brand-name }»
-aiwindow-firstrun-model-title = Барои шумо чӣ муҳим аст?
-aiwindow-firstrun-model-fast-label = Тез
-aiwindow-firstrun-model-allpurpose-label = Фасеҳ
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Тавсияшуда
-aiwindow-firstrun-model-personal-label = Шахсӣ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Шахсӣ: { $shortName }
 aiwindow-firstrun-button = Ба пеш
@@ -93,12 +89,6 @@ aiwindow-input-model-select-button-label-fast = Тез
 aiwindow-input-model-select-button-label-allpurpose = Фасеҳ
 aiwindow-input-model-select-button-label-personal = Шахсӣ
 aiwindow-input-model-select-button-label-custom = Фармоишӣ
-aiwindow-input-model-select-button-description-custom = Аз «LLM»-и худ истифода баред
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Аз «LLM»-и худ истифода баред
 aiwindow-input-model-select-default-badge =
     .label = Пешфарз
     .title = Модели пешфарзии интихобшуда

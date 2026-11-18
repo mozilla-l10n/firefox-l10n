@@ -382,18 +382,12 @@ onboarding-checklist-remove-2 = Noņemt kontrolsarakstu
 
 tab-groups-onboarding-feature-callout-title = Izmēģiniet ciļņu grupas, lai samazinātu nekārtību un labāk fokusētos
 tab-groups-onboarding-feature-callout-subtitle = Sakārtojiet savu pirmo grupu, velkot vienu cilni virs otras.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Savas ciļņu kopas jebkurā laikā var atrast izvēlnē “Meklēt un pārvaldīt cilnes”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Ciļņu grupas varat atrast izvēlnē “Visu cilņu saraksts” jebkurā laikā.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Atrodi savas kopas, meklējot tās adrešu joslā!
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Kad tiek aizvērta ciļņu kopa, to var jebkurā laikā var atkal atvērt izvēlnē “Meklēt un pārvaldīt cilnes”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Aizverot ciļņu grupu, to jebkurā laikā var atkārtoti atvērt no izvēlnes “Visu ciļņu saraksts”.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Atrodi savas aizvērtās kopas, meklējot tās adrešu joslā!
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Savas ciļņu kopas jebkurā laikā var atkal atvērt izvēlnē “Meklēt un pārvaldīt cilnes”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Jebkurā laikā atkārtoti atveriet ciļņu grupas no izvēlnes “Saraksts par visām ciļnēm”.
 tab-groups-onboarding-dismiss = Labi

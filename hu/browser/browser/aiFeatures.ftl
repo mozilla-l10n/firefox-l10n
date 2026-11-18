@@ -47,15 +47,6 @@ smart-window-model-auto =
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = { $model } modell, gyártó: { $ownerName }
-    .label = Gyors: gyorsan válaszol
-smart-window-model-flexible =
-    .description = { $model } modell, gyártó: { $ownerName }
-    .label = Rugalmas: a legtöbb igényhez illeszkedik
-smart-window-model-personal =
-    .description = { $model } modell, gyártó: { $ownerName }
-    .label = Személyes: leginkább személyre szabott válaszok
 smart-window-model-custom =
     .label = Egyéni: saját LLM használata
 smart-window-model-custom-name =

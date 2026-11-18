@@ -1147,9 +1147,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = הצעות למיקומים
-newtab-weather-cancel-input =
-    .aria-label = ביטול
-    .title = ביטול
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = שימוש במיקום הנוכחי
@@ -1406,10 +1403,6 @@ newtab-widget-lists-menu-create = יצירת רשימה חדשה
 newtab-widget-lists-menu-delete = מחיקת רשימה זו
 newtab-widget-lists-menu-copy = העתקת הרשימה ללוח העריכה
 newtab-widget-lists-menu-learn-more = מידע נוסף
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = שינוי רשימה
-    .title = שינוי רשימה
 newtab-widget-lists-button-add-item = הוספת פריט
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = הוספת פריט
@@ -1835,8 +1828,6 @@ newtab-sports-widget-team-tbd = טרם נקבע
 newtab-sports-widget-message-wallpapers-title = חגגו את פתיחת המונדיאל עם תמונות רקע חדשות
 newtab-sports-widget-message-wallpapers-body = הכניסו לדפדפן שלכם אווירת יום משחק לטורניר.
 newtab-sports-widget-message-wallpapers-cta = בחירת תמונת רקע
-newtab-sports-widget-message-wallpapers-semifinals-title = קבלת תמונת רקע חדשה לחצי הגמר
-newtab-sports-widget-message-wallpapers-semifinals-body = הכינו את המסך למשחקים הגדולים ביותר של המונדיאל.
 newtab-sports-widget-message-add-widgets-cta =
     .label = הוספת ווידג'טים
 newtab-sports-widget-message-day-in-play-title = להישאר במשחק עם הווידג’טים של { -brand-product-name }

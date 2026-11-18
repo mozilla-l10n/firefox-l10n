@@ -1165,9 +1165,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Предложения местоположений
-newtab-weather-cancel-input =
-    .aria-label = Отмена
-    .title = Отмена
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Использовать текущее местоположение
@@ -1424,10 +1421,6 @@ newtab-widget-lists-menu-create = Создать новый список
 newtab-widget-lists-menu-delete = Удалить этот список
 newtab-widget-lists-menu-copy = Копировать список в буфер обмена
 newtab-widget-lists-menu-learn-more = Подробнее
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Изменить список
-    .title = Изменить список
 newtab-widget-lists-button-add-item = Добавить элемент
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Добавить элемент
@@ -1852,8 +1845,6 @@ newtab-sports-widget-team-tbd = В ожидании
 newtab-sports-widget-message-wallpapers-title = Начните ЧМ с новых обоев
 newtab-sports-widget-message-wallpapers-body = Внесите немного энергии игрового дня в свой браузер для этого турнира.
 newtab-sports-widget-message-wallpapers-cta = Выберите обои
-newtab-sports-widget-message-wallpapers-semifinals-title = Получите новые обои для полуфиналов
-newtab-sports-widget-message-wallpapers-semifinals-body = Подготовьте платформу для самых важных матчей ЧМ.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Добавить виджеты
 newtab-sports-widget-message-day-in-play-title = Проводите день с игрой с помощью виджетов { -brand-product-name }

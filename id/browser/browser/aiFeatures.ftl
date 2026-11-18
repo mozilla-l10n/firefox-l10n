@@ -41,15 +41,6 @@ smart-window-model-learn-link = Pelajari tentang model
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Model { $model } oleh { $ownerName }
-    .label = Cepat: Menjawab dengan cepat
-smart-window-model-flexible =
-    .description = Model { $model } oleh { $ownerName }
-    .label = Fleksibel: Pas untuk sebagian besar kebutuhan
-smart-window-model-personal =
-    .description = Model { $model } oleh { $ownerName }
-    .label = Pribadi: Jawaban yang paling disesuaikan
 smart-window-model-custom =
     .label = Ubahan: Gunakan LLM Anda sendiri
 smart-window-model-custom-name =

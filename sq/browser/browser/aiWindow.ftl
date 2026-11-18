@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Mirë se vini në { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Ç’është e rëndësishme për ju?
 aiwindow-firstrun-model-title-v2 = Që t’ia fillohet, zgjidhni një model
-aiwindow-firstrun-model-subtitle = Zgjidhni një model për funksionimin e { -smart-window-brand-name }. Ndërrojeni kur të doni.
 aiwindow-firstrun-model-subtitle-v2 = Secili model mund t’ju ndihmojë të përmblidhni, krahasoni dhe eksploroni nëpër skedat tuaja. Ndërrojeni kur të doni.
-aiwindow-firstrun-model-fast-label = I shpejtë
-aiwindow-firstrun-model-fast-body = Përgjigjet shpejt
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = I shpejtë: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Më i miri për përgjigje të shpejta, kur lëvizni me shpejtësi
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Model { $model } nga { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = I zhdërvjellët
-aiwindow-firstrun-model-allpurpose-body = Përkim solid me shumicën e nevojave
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = I zhdërvjellët: { $shortName }
 aiwindow-firstrun-model-flexible-body = Gati për një larmi punësh
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = E rekomanduar
-aiwindow-firstrun-model-personal-label = Personale
-aiwindow-firstrun-model-personal-body = Përgjigjet më të personalizuara
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = I ngritur për ndihmë të personalizuar nëpër gjuhë
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = I shpejtë
 aiwindow-input-model-select-button-label-allpurpose = I zhdërvjellët
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Vetjak
-aiwindow-input-model-select-button-description-custom = Përdorni LLM-në tuaj
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Përdorni LLM-në tuaj
 aiwindow-input-model-select-default-badge =
     .label = Parazgjedhje
     .title = Modeli parazgjedhje i përzgjedhur

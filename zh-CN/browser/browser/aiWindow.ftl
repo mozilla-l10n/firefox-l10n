@@ -95,28 +95,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = 欢迎使用{ -smart-window-brand-name }
-aiwindow-firstrun-model-title = 您侧重于哪一需求？
 aiwindow-firstrun-model-title-v2 = 选择模型开始使用
-aiwindow-firstrun-model-subtitle = 选择驱动{ -smart-window-brand-name }的模型。以后可随时切换。
 aiwindow-firstrun-model-subtitle-v2 = 所有模型都可为您生成摘要、进行对比、跨标签页搜罗内容。以后随时可以切换。
-aiwindow-firstrun-model-fast-label = 快速
-aiwindow-firstrun-model-fast-body = 迅敏回答
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = 快速：{ $shortName }
 aiwindow-firstrun-model-fast-body-v2 = 最适合日常快速对话
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = { $ownerName } 的 { $model } 模型
-aiwindow-firstrun-model-allpurpose-label = 灵活
-aiwindow-firstrun-model-allpurpose-body = 满足大多数需求
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = 灵活：{ $shortName }
 aiwindow-firstrun-model-flexible-body = 各种任务都能应对
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = 推荐
-aiwindow-firstrun-model-personal-label = 个人化
-aiwindow-firstrun-model-personal-body = 提供最懂您的回答
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = 个人化：{ $shortName }
 aiwindow-firstrun-model-personal-body-v2 = 为提供个性化帮助而构建，支持多种语言。
@@ -130,12 +118,6 @@ aiwindow-input-model-select-button-label-fast = 快速
 aiwindow-input-model-select-button-label-allpurpose = 灵活
 aiwindow-input-model-select-button-label-personal = 个人化
 aiwindow-input-model-select-button-label-custom = 自定义
-aiwindow-input-model-select-button-description-custom = 使用您自己的大语言模型
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = 使用您自己的大语言模型
 aiwindow-input-model-select-default-badge =
     .label = 默认
     .title = 已选择的默认模型

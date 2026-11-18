@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Konum önerileri
-newtab-weather-cancel-input =
-    .aria-label = Vazgeç
-    .title = Vazgeç
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Şu anki konumu kullan
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Yeni liste oluştur
 newtab-widget-lists-menu-delete = Bu listeyi sil
 newtab-widget-lists-menu-copy = Listeyi panoya kopyala
 newtab-widget-lists-menu-learn-more = Daha fazla bilgi al
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Listeyi değiştir
-    .title = Listeyi değiştir
 newtab-widget-lists-button-add-item = Görev ekle
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Görev ekle
@@ -1839,8 +1832,6 @@ newtab-sports-widget-team-tbd = Belli değil
 newtab-sports-widget-message-wallpapers-title = Dünya Kupası’na yeni duvar kâğıtlarıyla başlayın
 newtab-sports-widget-message-wallpapers-body = Maçların heyecanını tarayıcınıza taşıyın.
 newtab-sports-widget-message-wallpapers-cta = Duvar kâğıdı seçin
-newtab-sports-widget-message-wallpapers-semifinals-title = Yarı finaller için yeni bir duvar kâğıdı indirin
-newtab-sports-widget-message-wallpapers-semifinals-body = Dünya Kupası’nın en büyük maçlarına hazırlanın.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Araç ekleyin
 newtab-sports-widget-message-day-in-play-title = { -brand-product-name } araçlarıyla gününüze keyif katın

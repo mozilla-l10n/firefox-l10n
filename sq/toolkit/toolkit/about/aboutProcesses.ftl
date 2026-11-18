@@ -35,8 +35,6 @@ about-processes-expand-all-sites =
     .title = Zgjeroji të tëra
 about-processes-collapse-all-sites =
     .title = Tkurri krejt
-about-processes-go-to-tab =
-    .title = Kalo te skeda
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -47,9 +45,6 @@ about-processes-profile-process =
             [one] Profilizo krejt përbërëset e këtij procesi për { $duration } sekondë
            *[other] Profilizo krejt përbërëset e këtij procesi për { $duration } sekonda
         }
-
-## Search
-
 # Search field above the tab list, filtering tabs by title or site. The
 # placeholder is shown inside the empty field.
 about-processes-search-tabs =

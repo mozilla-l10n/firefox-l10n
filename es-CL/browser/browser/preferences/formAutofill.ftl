@@ -122,10 +122,6 @@ autofill-card-expires-year-2 =
     .label = Caduca el año
 autofill-card-billing-address-2 =
     .label = Dirección de facturación
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-optional =
-    .label = CVV (opcional)
 autofill-card-name-on-card = Nombre en la tarjeta
 autofill-card-expires-month = Mes de vencimiento
 autofill-card-expires-year = Año de vencimiento

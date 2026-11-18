@@ -1064,9 +1064,6 @@ newtab-weather-change-location-search-input-placeholder =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Տեղադրության առաջարկներ
-newtab-weather-cancel-input =
-    .aria-label = Չեղարկել
-    .title = Չեղարկել
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Օգտագործել ներկայիս գտնվելու վայրը
@@ -1314,10 +1311,6 @@ newtab-widget-lists-menu-create = Ստեղծել նոր ցանկ
 newtab-widget-lists-menu-delete = Ջնջել այս ցանկը
 newtab-widget-lists-menu-copy = Պատճենել ցանկը սեղմատախտակին
 newtab-widget-lists-menu-learn-more = Իմանալ ավելին
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Փոփոխությունների ցանկ
-    .title = Փոփոխությունների ցանկ
 newtab-widget-lists-button-add-item = Ավելացնել միույթ
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Ավելացնել միույթ
@@ -1713,8 +1706,6 @@ newtab-sports-widget-team-tbd = Թիմը կորոշվի
 newtab-sports-widget-message-wallpapers-title = Սկսե՛ք Աշխարհի առաջնությունը նոր պաստառներով
 newtab-sports-widget-message-wallpapers-body = Ավելացրեք խաղային օրվա էներգիան ձեր զննարկիչին՝ մրցաշարի համար։
 newtab-sports-widget-message-wallpapers-cta = Ընտրեք պաստառ
-newtab-sports-widget-message-wallpapers-semifinals-title = Ստացեք կիսաեզրափակչի նոր պաստառ
-newtab-sports-widget-message-wallpapers-semifinals-body = Պատրաստվեք Աշխարհի գավաթի ամենակարևոր խաղերի համար։
 newtab-sports-widget-message-add-widgets-cta =
     .label = Ավելացնել վիջեթներ
 newtab-sports-widget-message-day-in-play-title = Ձեր օրը դարձրեք հետաքրքիր { -brand-product-name } վիջեթների միջոցով

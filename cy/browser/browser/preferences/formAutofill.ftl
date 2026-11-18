@@ -128,10 +128,6 @@ autofill-card-billing-address-2 =
 #     network isn't known yet)
 autofill-card-security-code-optional-2 =
     .label = { $securityCode } (dewisol)
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-optional =
-    .label = CVV (dewisol)
 autofill-card-name-on-card = Enw ar y Cerdyn
 autofill-card-expires-month = Mis Dod i Ben
 autofill-card-expires-year = Blwyddyn Daw i Ben

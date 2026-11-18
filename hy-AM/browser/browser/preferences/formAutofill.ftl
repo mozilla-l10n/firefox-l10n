@@ -113,10 +113,6 @@ autofill-card-name-on-card-2 =
     .label = Անունը քարտի վրա
 autofill-card-billing-address-2 =
     .label = Վճարման հասցե
-# "CVV" is a common abbreviation for the security code printed on a payment
-# card. Use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-optional =
-    .label = CVV (ըստ ցանկության)
 autofill-card-name-on-card = Անունը քարտի վրա
 autofill-card-expires-month = Սպռ. ամիս
 autofill-card-expires-year = Սպռ. տարի

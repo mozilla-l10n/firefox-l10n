@@ -94,18 +94,9 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Ti donamus su benebènnidu a { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Ite est de importu pro tue?
 aiwindow-firstrun-model-title-v2 = Sèbera unu modellu pro cumintzare
-aiwindow-firstrun-model-fast-label = Lestru
-aiwindow-firstrun-model-fast-body = Rispostas lestras
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Modellu { $model } dae { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Flessìbile
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Cussigiadu
-aiwindow-firstrun-model-personal-label = Personale
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personale: { $shortName }
 aiwindow-firstrun-button = Incumintzamus
@@ -118,11 +109,6 @@ aiwindow-input-model-select-button-label-fast = Lestru
 aiwindow-input-model-select-button-label-allpurpose = Flessìbile
 aiwindow-input-model-select-button-label-personal = Personale
 aiwindow-input-model-select-button-label-custom = Personalizadu
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Imprea su LLM tuo
 aiwindow-input-model-select-default-badge =
     .label = Predefinidu
     .title = Su modellu seberadu comente predefinidu

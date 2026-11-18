@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Velkommen til { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Hva er viktig for deg?
 aiwindow-firstrun-model-title-v2 = Velg en modell for å starte
-aiwindow-firstrun-model-subtitle = Velg en modell for { -smart-window-brand-name }. Du kan bytte når som helst.
 aiwindow-firstrun-model-subtitle-v2 = Hver modell kan hjelpe deg med å oppsummere, sammenligne og utforske på tvers av fanene dine. Bytt når som helst.
-aiwindow-firstrun-model-fast-label = Hurtig
-aiwindow-firstrun-model-fast-body = Raske svar
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Hurtig: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Best til raske svar når du har det travelt.
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Modell { $model } fra { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Fleksibel
-aiwindow-firstrun-model-allpurpose-body = Passer godt til de fleste behov
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
 aiwindow-firstrun-model-flexible-body = Klar for mange ulike oppgaver.
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Anbefalt
-aiwindow-firstrun-model-personal-label = Personlig
-aiwindow-firstrun-model-personal-body = Mest tilpassede svar
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personlig: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Gir personlig tilpasset hjelp på tvers av språk.
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Hurtig
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Personlig
 aiwindow-input-model-select-button-label-custom = Tilpasset
-aiwindow-input-model-select-button-description-custom = Bruk din egen LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Bruk din egen LLM
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Valgt standardmodell

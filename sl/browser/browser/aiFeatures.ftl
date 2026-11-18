@@ -17,15 +17,6 @@ smart-window-model-learn-link = Spoznajte modele
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Model { $model } podjetja { $ownerName }
-    .label = Hiter: hitri odgovori
-smart-window-model-flexible =
-    .description = Model { $model } podjetja { $ownerName }
-    .label = Prilagodljiv: ustrezen za večino nalog
-smart-window-model-personal =
-    .description = Model { $model } podjetja { $ownerName }
-    .label = Oseben: odgovori, najbolj prilagojeni vam
 smart-window-model-custom-name =
     .label = Ime modela
     .placeholder = Primer: glm4

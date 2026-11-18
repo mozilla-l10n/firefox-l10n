@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = მდებარეობის შემოთავაზებები
-newtab-weather-cancel-input =
-    .aria-label = გაუქმება
-    .title = გაუქმება
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = მიმდინარე მდებარეობის გამოყენება
@@ -1408,10 +1405,6 @@ newtab-widget-lists-menu-create = ახალი სიის შექმნ�
 newtab-widget-lists-menu-delete = ამ სიის წაშლა
 newtab-widget-lists-menu-copy = სიის ასლის აღება
 newtab-widget-lists-menu-learn-more = ვრცლად
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = სიის შეცვლა
-    .title = სიის შეცვლა
 newtab-widget-lists-button-add-item = ჩანაწერის დამატება
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ჩანაწერის დამატება
@@ -1833,8 +1826,6 @@ newtab-sports-widget-team-tbd = გამოსავლენია
 newtab-sports-widget-message-wallpapers-title = აღნიშნეთ მსოფლიო თასის დაწყება ახალი ფონებით
 newtab-sports-widget-message-wallpapers-body = გადმოიტანეთ ყოველი თამაშის დღის მუხტი ბრაუზერში შეჯიბრების მიმდინარეობისას.
 newtab-sports-widget-message-wallpapers-cta = ფონის არჩევა
-newtab-sports-widget-message-wallpapers-semifinals-title = ახალი ფონი ნახევარფინალებისთვის
-newtab-sports-widget-message-wallpapers-semifinals-body = კარგად მოეწყვეთ მსოფლიო პირველობის უდიდესი თამაშებისთვის.
 newtab-sports-widget-message-add-widgets-cta =
     .label = ჩანამატის დამატება
 newtab-sports-widget-message-day-in-play-title = გაიხალისეთ დღე ჩანამატებით, რომელთაც გთავაზობთ { -brand-product-name }

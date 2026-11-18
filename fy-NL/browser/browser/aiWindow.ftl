@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Wolkom by { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Wat is wichtich foar jo?
 aiwindow-firstrun-model-title-v2 = Kies in model om te begjinnen
-aiwindow-firstrun-model-subtitle = Kies in model om { -smart-window-brand-name } oan te stjoeren. Wikselje op elk winske momint.
 aiwindow-firstrun-model-subtitle-v2 = Elk model kin jo helpe om gear te fetsjen, te fergelykjen en ferkennen op al jo ljepblêden. Wikselje op elk winske momint.
-aiwindow-firstrun-model-fast-label = Fluch
-aiwindow-firstrun-model-fast-body = Antwurdt fluch
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Fluch: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = It bêste foar flugge antwurden as jo fluch wurkje
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Model { $model } fan { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Fleksibel
-aiwindow-firstrun-model-allpurpose-body = Deugdlik passend foar de measte behoeften
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
 aiwindow-firstrun-model-flexible-body = Klear foar in breed skala oan taken
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Oanrekommandearre
-aiwindow-firstrun-model-personal-label = Persoanlik
-aiwindow-firstrun-model-personal-body = Meast ôfstimde antwurden
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Persoanlik: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Boud foar personalisearre help yn meardere talen
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Fluch
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Persoanlik
 aiwindow-input-model-select-button-label-custom = Oanpast
-aiwindow-input-model-select-button-description-custom = Jo eigen LLM brûke
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Jo eigen LLM brûke
 aiwindow-input-model-select-default-badge =
     .label = Standert
     .title = It selektearre standertmodel

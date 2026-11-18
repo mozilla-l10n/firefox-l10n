@@ -1165,9 +1165,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Proponowane położenia
-newtab-weather-cancel-input =
-    .aria-label = Anuluj
-    .title = Anuluj
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Użyj obecnego położenia
@@ -1424,10 +1421,6 @@ newtab-widget-lists-menu-create = Utwórz nową listę
 newtab-widget-lists-menu-delete = Usuń tę listę
 newtab-widget-lists-menu-copy = Kopiuj listę do schowka
 newtab-widget-lists-menu-learn-more = Więcej informacji
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Przełącz listę
-    .title = Przełącz listę
 newtab-widget-lists-button-add-item = Dodaj pozycję
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Dodaj pozycję
@@ -1852,8 +1845,6 @@ newtab-sports-widget-team-tbd = Jeszcze nieznane
 newtab-sports-widget-message-wallpapers-title = Zacznij mistrzostwa świata z nowymi tapetami
 newtab-sports-widget-message-wallpapers-body = Podczas turnieju poczuj w swojej przeglądarce energię dnia meczowego.
 newtab-sports-widget-message-wallpapers-cta = Wybierz tapetę
-newtab-sports-widget-message-wallpapers-semifinals-title = Ustaw nową tapetę na półfinały
-newtab-sports-widget-message-wallpapers-semifinals-body = Przygotuj grunt pod najważniejsze mecze mistrzostw świata.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj widżety
 newtab-sports-widget-message-day-in-play-title = Nie wychodź z gry dzięki widżetom { -brand-product-name(case: "gen") }

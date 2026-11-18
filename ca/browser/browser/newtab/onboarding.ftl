@@ -397,18 +397,12 @@ onboarding-checklist-remove-2 = Elimina la llista de verificació
 
 tab-groups-onboarding-feature-callout-title = Els grups de pestanyes milloren l’organització i la concentració
 tab-groups-onboarding-feature-callout-subtitle = Arrossegueu una pestanya sobre una altra per crear el vostre primer grup.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Trobeu els grups de pestanyes al menú «Cerca i gestiona les pestanyes» en qualsevol moment.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Trobareu els vostres grups de pestanyes al menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Trobeu els vostres grups cercant-los a la barra d'adreces.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Quan tanqueu un grup de pestanyes, torneu-lo a obrir des del menú «Cerca i gestiona les pestanyes» en qualsevol moment.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Quan tanqueu un grup de pestanyes, el podeu tornar a obrir des del menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Trobeu els grups tancats cercant-los a la barra d'adreces.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Reobriu els grups de pestanyes des del menú «Cerca i gestiona les pestanyes» en qualsevol moment.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Torneu a obrir els vostres grups de pestanyes des del menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-dismiss = D'acord

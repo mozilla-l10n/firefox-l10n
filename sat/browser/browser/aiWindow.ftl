@@ -94,28 +94,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = { -smart-window-brand-name } ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
-aiwindow-firstrun-model-title = ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟᱜ ᱠᱟᱱᱟ ?
 aiwindow-firstrun-model-title-v2 = ᱮᱦᱚᱵ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱢᱚᱰᱮᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-aiwindow-firstrun-model-subtitle = ᱯᱟᱣᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱢᱚᱰᱮᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ { -smart-window-brand-name } ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ᱾
 aiwindow-firstrun-model-subtitle-v2 = ᱥᱟᱱᱟᱢ ᱢᱚᱰᱮᱞ ᱜᱮ ᱟᱢ ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱨᱮ ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ, ᱛᱩᱞᱟᱹ ᱡᱚᱠᱷᱟ ᱟᱨ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱢᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
-aiwindow-firstrun-model-fast-label = ᱞᱚᱜᱚᱱ
-aiwindow-firstrun-model-fast-body = ᱞᱚᱜᱚᱱ ᱛᱮᱞᱟ ᱮᱢᱟ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = ᱞᱚᱜᱚᱱ: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = ᱩᱥᱟᱹᱨᱟ ᱛᱮᱞᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱮᱥ ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱞᱚᱜᱚᱱ ᱮᱢ ᱞᱟᱦᱟᱜ ᱠᱟᱱᱟ
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = { $ownerName } ᱫᱟᱨᱟᱭ ᱛᱮ ᱢᱳᱰᱮᱞ { $model }
-aiwindow-firstrun-model-allpurpose-label = ᱞᱤᱪᱟᱹᱲ
-aiwindow-firstrun-model-allpurpose-body = ᱵᱤᱥᱛᱤ ᱞᱟᱹᱠᱛᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱴᱮᱡ ᱯᱷᱤᱴ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = ᱞᱤᱪᱟᱹᱲ: { $shortName }
 aiwindow-firstrun-model-flexible-body = ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = ᱵᱟᱛᱟᱣᱟᱜ
-aiwindow-firstrun-model-personal-label = ᱱᱚᱡᱚᱨ
-aiwindow-firstrun-model-personal-body = ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = ᱱᱤᱡᱮᱨᱟᱜ: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = ᱥᱟᱱᱟᱢ ᱯᱟᱹᱨᱥᱤ ᱨᱮ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱᱟ
@@ -129,12 +117,6 @@ aiwindow-input-model-select-button-label-fast = ᱞᱚᱜᱚᱱ
 aiwindow-input-model-select-button-label-allpurpose = ᱞᱤᱪᱟᱹᱲ
 aiwindow-input-model-select-button-label-personal = ᱱᱚᱡᱚᱨ
 aiwindow-input-model-select-button-label-custom = ᱠᱩᱥᱤᱭᱟᱜ
-aiwindow-input-model-select-button-description-custom = ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨ LLM ᱵᱮᱵᱷᱟᱨ ᱢᱮ
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨ LLM ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 aiwindow-input-model-select-default-badge =
     .label = ᱢᱩᱞ
     .title = ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱ ᱢᱩᱞ ᱢᱳᱰᱮᱞ

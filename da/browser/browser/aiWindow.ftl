@@ -84,12 +84,6 @@ aiwindow-input-model-select-button-label-fast = Hurtig
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Personlig
 aiwindow-input-model-select-button-label-custom = Tilpasset
-aiwindow-input-model-select-button-description-custom = Brug din egen LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Brug din egen LLM
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Den valgte standardmodel

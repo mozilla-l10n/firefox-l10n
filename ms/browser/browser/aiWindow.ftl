@@ -94,28 +94,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Selamat datang ke { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Apa yang penting kepada anda?
 aiwindow-firstrun-model-title-v2 = Pilih model untuk mula
-aiwindow-firstrun-model-subtitle = Pilih model untuk memacu { -smart-window-brand-name }. Tukar bila-bila masa.
 aiwindow-firstrun-model-subtitle-v2 = Setiap model boleh membantu anda meringkaskan, membandingkan, dan meneroka merentas tab anda. Tukar bila-bila masa.
-aiwindow-firstrun-model-fast-label = Pantas
-aiwindow-firstrun-model-fast-body = Menjawab dengan pantas
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Pantas: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Paling sesuai untuk jawapan pantas bila anda buru-buru
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Model { $model } oleh { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Fleksibel
-aiwindow-firstrun-model-allpurpose-body = Sesuai untuk kebanyakan keperluan
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
 aiwindow-firstrun-model-flexible-body = Sedia untuk pelbagai tugas
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Disyorkan
-aiwindow-firstrun-model-personal-label = Peribadi
-aiwindow-firstrun-model-personal-body = Jawapan paling tersuai
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Peribadi: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Dibina untuk bantuan diperibadikan merentas bahasa
@@ -129,12 +117,6 @@ aiwindow-input-model-select-button-label-fast = Pantas
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Peribadi
 aiwindow-input-model-select-button-label-custom = Tersuai
-aiwindow-input-model-select-button-description-custom = Gunakan LLM anda sendiri
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Gunakan LLM anda sendiri
 aiwindow-input-model-select-default-badge =
     .label = Lalai
     .title = Model lalai yang dipilih

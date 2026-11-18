@@ -7,6 +7,7 @@
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
+
 ## Welcome page strings
 
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
@@ -108,8 +109,6 @@ mr2022-onboarding-easy-setup-set-default-checkbox-label = { -brand-short-name } 
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Əvvəlki səyyahdan idxal et
 
-## MR2022 New User Pin Firefox screen strings
-
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
@@ -129,8 +128,6 @@ mr2022-onboarding-set-default-title = { -brand-short-name } əsas səyyahınız 
 mr2022-onboarding-get-started-primary-subtitle = Bir neçə sadə addımla səyyahınızı quraşdırın.
 mr2022-onboarding-get-started-primary-button-label = Başla
 mr2022-onboarding-import-primary-button-label-no-attribution = Əvvəlki səyyahdan idxal et
-
-## MR2022 Multistage Mobile Download screen strings
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -155,9 +152,6 @@ mr2022-onboarding-gratitude-secondary-button-label = Tənzimləmələrə bax
 onboarding-infrequent-import-title = Məlumatlarınızı asanlıqla gətirin
 onboarding-infrequent-import-subtitle = Digər səyyahlardan əlfəcinlərinizi və parollarınızı bir kliklə köçürün.
 onboarding-infrequent-import-primary-button = { -brand-short-name }-a idxal et
-
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
 
 ## Device migration onboarding
 
@@ -253,18 +247,12 @@ onboarding-checklist-remove-2 = Yoxlama siyahısını sil
 
 tab-groups-onboarding-feature-callout-title = Vərəq Qrupları
 tab-groups-onboarding-feature-callout-subtitle = Əlaqəli vərəqləri bir yerdə saxlayaraq səliqəli işləyin.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Mövzuya görə vərəqləri təşkil edin
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Vərəqlərinizi qruplaşdırın
 tab-groups-onboarding-create-group-no-alltabs-button-title = Yeni vərəq qrupu yaradın
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Qrupları istənilən vaxt bərpa edin
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Saxlanılmış vərəq qrupları
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Saxlanılmış qruplarınıza baxın
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Qruplarınız qorunub saxlanıldı
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Əvvəlki seansı bərpa edin
 tab-groups-onboarding-dismiss = Başa düşdüm

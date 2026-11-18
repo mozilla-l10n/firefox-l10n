@@ -38,14 +38,5 @@ smart-window-model-learn-link = Gouzout hiroc'h a-zivout ar patromoù
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Patrom { $model } gant { $ownerName }
-    .label = Herrek: respontoù buan
-smart-window-model-flexible =
-    .description = Patrom { $model } gant { $ownerName }
-    .label = Gwevn: mat evit darn vrasañ an ezhommoù
-smart-window-model-personal =
-    .description = Patrom { $model } gant { $ownerName }
-    .label = Personel: respontoù personelaet ar muiañ
 smart-window-model-custom =
     .label = Personelaet: Implijit ho LLM deoc'h c'hwi

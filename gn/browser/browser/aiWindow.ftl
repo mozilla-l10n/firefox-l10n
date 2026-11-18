@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Eg̃uahẽporã { -smart-window-brand-name }
-aiwindow-firstrun-model-title = ¿Mba’épa upe eipotavéva?
 aiwindow-firstrun-model-title-v2 = Eiporavo peteĩva eñepyrũ hag̃ua
-aiwindow-firstrun-model-subtitle = Eiporavo peteĩchagua eiporu hag̃ua { -smart-window-brand-name }. Emoambue eikotevẽ vove.
 aiwindow-firstrun-model-subtitle-v2 = Peteĩteĩva ne pytyvõkuaa emombyky, ejogua ha embojovake opaite ne rendayke. Emoambuekuaa ejapose vove.
-aiwindow-firstrun-model-fast-label = Ipya’e
-aiwindow-firstrun-model-fast-body = Embohovái pya’e
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Pya’e: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Ñembohovái pya’erã iporãva tekotevẽtarõ pya’eve
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Techarã { $model } { $ownerName } rehe
-aiwindow-firstrun-model-allpurpose-label = Pepykuaáva
-aiwindow-firstrun-model-allpurpose-body = Oñeme’ẽ oĩva tekotevẽre
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Pepykuaa: { $shortName }
 aiwindow-firstrun-model-flexible-body = Oĩma apopyrãitápe g̃uarã
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Jeroviaháva
-aiwindow-firstrun-model-personal-label = Avamba’e
-aiwindow-firstrun-model-personal-body = Mbohovái heseguaitéva
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Avamba’e: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Ojejapo ñepytyvõrãite ñe’ẽita pa’ũme g̃uarã
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Ipya’e
 aiwindow-input-model-select-button-label-allpurpose = Pepykuaáva
 aiwindow-input-model-select-button-label-personal = Avamba’e
 aiwindow-input-model-select-button-label-custom = Ñemomba’epyre
-aiwindow-input-model-select-button-description-custom = Eiporu LLM teéva
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Eiporu LLM teéva
 aiwindow-input-model-select-default-badge =
     .label = Ijypykue
     .title = Jehecharã ypykue poravopyre

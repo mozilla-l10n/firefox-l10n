@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = { -smart-window-brand-name } ішіне қош келдіңіз
-aiwindow-firstrun-model-title = Сіз үшін не маңызды?
 aiwindow-firstrun-model-title-v2 = Бастау үшін модельді таңдаңыз
-aiwindow-firstrun-model-subtitle = { -smart-window-brand-name } үшін модельді таңдаңыз. Оны кез келген уақытта ауыстыруға болады.
 aiwindow-firstrun-model-subtitle-v2 = Әрбір модель сізге беттерді қорытындылауға, салыстыруға және зерттеуге көмектеседі. Кез келген уақытта ауыса аласыз.
-aiwindow-firstrun-model-fast-label = Жылдам
-aiwindow-firstrun-model-fast-body = Жылдам жауап береді
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Жылдам: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Жылдамдық керек кезде ең жақсы нұсқа
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Модель: { $model }, иесі: { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Икемді
-aiwindow-firstrun-model-allpurpose-body = Көптеген қажеттіліктерге толық сәйкес келеді
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Икемді: { $shortName }
 aiwindow-firstrun-model-flexible-body = Әртүрлі тапсырмаларға дайын
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Ұсынылатын
-aiwindow-firstrun-model-personal-label = Жеке
-aiwindow-firstrun-model-personal-body = Ең бейімделген жауаптар
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Жеке: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Әр түрлі тілдерде жекелендірілген көмек үшін жасалған
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Жылдам
 aiwindow-input-model-select-button-label-allpurpose = Икемді
 aiwindow-input-model-select-button-label-personal = Жеке
 aiwindow-input-model-select-button-label-custom = Таңдауыңызша
-aiwindow-input-model-select-button-description-custom = Өзіңіздің LLM-іңізді пайдалану
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Өзіңіздің LLM-іңізді пайдалану
 aiwindow-input-model-select-default-badge =
     .label = Бастапқы
     .title = Таңдалған бастапқы модель

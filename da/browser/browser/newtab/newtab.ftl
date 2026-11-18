@@ -1003,9 +1003,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Placeringsforslag
-newtab-weather-cancel-input =
-    .aria-label = Annuller
-    .title = Annuller
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Brug nuværende placering
@@ -1253,10 +1250,6 @@ newtab-widget-lists-menu-create = Opret en ny liste
 newtab-widget-lists-menu-delete = Slet denne liste
 newtab-widget-lists-menu-copy = Kopier liste til udklipsholderen
 newtab-widget-lists-menu-learn-more = Læs mere
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Skift liste
-    .title = Skift liste
 newtab-widget-lists-button-add-item = Tilføj et element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Tilføj et element

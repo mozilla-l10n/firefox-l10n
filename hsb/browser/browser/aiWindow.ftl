@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Witajće k { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Što je wam wažne?
 aiwindow-firstrun-model-title-v2 = Wubjerće model, zo byšće započał
-aiwindow-firstrun-model-subtitle = Wubjerće model, zo byšće { -smart-window-brand-name } wužiwał. Móžeće jón kóždy čas změnić.
 aiwindow-firstrun-model-subtitle-v2 = Kóždy model móže wam pomhać, waše rajtarki zjimać, přirunować a wuslědźeć. Přepinajće kóždy čas.
-aiwindow-firstrun-model-fast-label = Spěšny
-aiwindow-firstrun-model-fast-body = Wotmołwja spěšnje
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Spěšny: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Najlěpše za spěšne wotmołwy, hdyž so spěšnje pohibujeće
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Model { $model } wot { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Fleksibelny
-aiwindow-firstrun-model-allpurpose-body = Přihódny za najwjace potrěbnosćow
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Fleksibelny: { $shortName }
 aiwindow-firstrun-model-flexible-body = Hotowy za wšelake nadawki
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Doporučeny
-aiwindow-firstrun-model-personal-label = Wosobinski
-aiwindow-firstrun-model-personal-body = Najlěpje přiměrjene wotmołwy
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Wosobinski: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Wutworjeny za personalizowanu pomoc we wjacorych rěčach
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Spěšny
 aiwindow-input-model-select-button-label-allpurpose = Fleksibelny
 aiwindow-input-model-select-button-label-personal = Wosobinski
 aiwindow-input-model-select-button-label-custom = Swójski
-aiwindow-input-model-select-button-description-custom = Wužiwajće swójski LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Wužiwajće swójski LLM
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Wubrany standardny  model

@@ -1115,9 +1115,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = 建议的位置
-newtab-weather-cancel-input =
-    .aria-label = 取消
-    .title = 取消
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = 使用当前位置
@@ -1368,10 +1365,6 @@ newtab-widget-lists-menu-create = 创建新清单
 newtab-widget-lists-menu-delete = 删除此清单
 newtab-widget-lists-menu-copy = 复制清单到剪贴板
 newtab-widget-lists-menu-learn-more = 详细了解
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = 更换清单
-    .title = 更换清单
 newtab-widget-lists-button-add-item = 添加项目
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = 添加项目
@@ -1781,8 +1774,6 @@ newtab-sports-widget-team-tbd = 待定
 newtab-sports-widget-message-wallpapers-title = 换上新壁纸，迎接世界杯
 newtab-sports-widget-message-wallpapers-body = 赛事期间，将赛场活力注入浏览器
 newtab-sports-widget-message-wallpapers-cta = 选择壁纸
-newtab-sports-widget-message-wallpapers-semifinals-title = 换上新壁纸，迎接半决赛
-newtab-sports-widget-message-wallpapers-semifinals-body = 迎接最盛大的世界杯比赛。
 newtab-sports-widget-message-add-widgets-cta =
     .label = 添加小组件
 newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 小组件，全天候关注精彩赛事

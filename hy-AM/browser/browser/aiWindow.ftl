@@ -95,28 +95,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Բարի գալուստ { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Ի՞նչն է կարևոր ձեզ համար։
 aiwindow-firstrun-model-title-v2 = Սկսելու համար ընտրեք մոդել
-aiwindow-firstrun-model-subtitle = Ընտրեք { -smart-window-brand-name }-ը աշխատեցնելու մոդել։ Փոխարկեք ցանկացած ժամանակ։
 aiwindow-firstrun-model-subtitle-v2 = Յուրաքանչյուր մոդել կարող է օգնել ձեզ ամփոփել, համեմատել և ուսումնասիրել ձեր ներդիրները։ Փոխեք ցանկացած ժամանակ։
-aiwindow-firstrun-model-fast-label = Արագ
-aiwindow-firstrun-model-fast-body = Արագ պատասխաններ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Արագ՝ { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Լավագույնն է արագ պատասխանների համար, երբ արագ եք շարժվում
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Մոդել { $model }՝ { $ownerName }-ի կողմից
-aiwindow-firstrun-model-allpurpose-label = Ճկուն
-aiwindow-firstrun-model-allpurpose-body = Հաստատուն համապատասխանություն մեծամասնության կարիքներին
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Ճկուն՝ { $shortName }
 aiwindow-firstrun-model-flexible-body = Պատրաստ է բազմազան առաջադրանքների
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Առաջարկվող
-aiwindow-firstrun-model-personal-label = Անձնական
-aiwindow-firstrun-model-personal-body = Առավել հարմարեցված պատասխաններ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Անձնական՝ { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Ստեղծված է տարբեր լեզուներով անհատականացված օգնության համար
@@ -130,12 +118,6 @@ aiwindow-input-model-select-button-label-fast = Արագ
 aiwindow-input-model-select-button-label-allpurpose = Ճկուն
 aiwindow-input-model-select-button-label-personal = Անձնական
 aiwindow-input-model-select-button-label-custom = Հարմարեցված
-aiwindow-input-model-select-button-description-custom = Օգտագործեք ձեր սեփական LLM-ը (LLM)
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Օգտագործեք ձեր սեփական LLM-ը
 aiwindow-input-model-select-default-badge =
     .label = Սկզբնադիր
     .title = Ընտրված սկզբնադիր մոդլեը

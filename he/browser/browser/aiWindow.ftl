@@ -97,28 +97,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = ברוכים הבאים ל־{ -smart-window-brand-name }
-aiwindow-firstrun-model-title = מה חשוב לך?
 aiwindow-firstrun-model-title-v2 = יש לבחור במודל כדי להתחיל
-aiwindow-firstrun-model-subtitle = יש לבחור במודל שיפעיל את { -smart-window-brand-name }. ניתן להחליף בינהם בכל עת.
 aiwindow-firstrun-model-subtitle-v2 = כל מודל יכול לעזור לך לסכם, להשוות ולחקור מידע מהלשוניות שלך. ניתן להחליף בינהם בכל עת.
-aiwindow-firstrun-model-fast-label = מהיר
-aiwindow-firstrun-model-fast-body = קבלת תשובות בזריזות
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = מהיר: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = הכי מתאים לתשובות מהירות כשאין זמן להתעכב.
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = מודל { $model } מאת { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = גמיש
-aiwindow-firstrun-model-allpurpose-body = בחירה טובה לרוב הצרכים
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = גמיש: { $shortName }
 aiwindow-firstrun-model-flexible-body = מוכן למגוון רחב של משימות
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = מומלץ
-aiwindow-firstrun-model-personal-label = אישי
-aiwindow-firstrun-model-personal-body = התשובות המותאמות ביותר
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = אישי: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = בנוי למתן סיוע מותאם אישית במגוון שפות
@@ -132,12 +120,6 @@ aiwindow-input-model-select-button-label-fast = מהיר
 aiwindow-input-model-select-button-label-allpurpose = גמיש
 aiwindow-input-model-select-button-label-personal = אישי
 aiwindow-input-model-select-button-label-custom = מותאם אישית
-aiwindow-input-model-select-button-description-custom = שימוש ב־LLM משלך
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = שימוש ב־LLM משלך
 aiwindow-input-model-select-default-badge =
     .label = ברירת מחדל
     .title = המודל ברירת המחדל שנבחר

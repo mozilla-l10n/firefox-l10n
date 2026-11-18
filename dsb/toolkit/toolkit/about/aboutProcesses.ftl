@@ -42,8 +42,6 @@ about-processes-expand-all-sites =
     .title = Wšykne pokazaś
 about-processes-collapse-all-sites =
     .title = Wše schowaś
-about-processes-go-to-tab =
-    .title = K rejtarikoju
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -56,9 +54,6 @@ about-processes-profile-process =
             [few] Wšykne nitki toś togo procesa za { $duration } sekundy analyzěrowaś
            *[other] Wšykne nitki toś togo procesa za { $duration } sekundow analyzěrowaś
         }
-
-## Search
-
 # Search field above the tab list, filtering tabs by title or site. The
 # placeholder is shown inside the empty field.
 about-processes-search-tabs =
@@ -251,10 +246,6 @@ about-processes-cpu-almost-idle = < 0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = inaktiwny
     .title = Cełkowny CPU-cas: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
-# Variables:
-#    $percent (Number) Always >= 0, and never above 1.
-about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = inaktiwny
 # A tab’s share of total CPU capacity across all cores, shown to two decimal places.
@@ -263,8 +254,6 @@ about-processes-tab-cpu-fully-idle = inaktiwny
 about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
 # Special case: a positive tab-view CPU share below its two-decimal display precision.
 about-processes-tab-cpu-almost-idle2 = < 0,01 %
-# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
-about-processes-tab-cpu-almost-idle = < 0,1%
 
 ## Displaying Memory (total and delta)
 ## Variables:

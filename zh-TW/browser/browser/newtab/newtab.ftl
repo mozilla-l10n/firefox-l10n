@@ -1123,9 +1123,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = 位置建議
-newtab-weather-cancel-input =
-    .aria-label = 取消
-    .title = 取消
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = 使用目前所在位置
@@ -1382,10 +1379,6 @@ newtab-widget-lists-menu-create = 新增清單
 newtab-widget-lists-menu-delete = 刪除此清單
 newtab-widget-lists-menu-copy = 複製清單到剪貼簿
 newtab-widget-lists-menu-learn-more = 更多資訊
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = 變更清單
-    .title = 變更清單
 newtab-widget-lists-button-add-item = 新增項目
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = 新增項目
@@ -1795,8 +1788,6 @@ newtab-sports-widget-team-tbd = 尚未決定
 newtab-sports-widget-message-wallpapers-title = 使用新的背景圖片，為世足賽拉開序幕
 newtab-sports-widget-message-wallpapers-body = 將賽事的活力帶進您的瀏覽器。
 newtab-sports-widget-message-wallpapers-cta = 挑選背景圖
-newtab-sports-widget-message-wallpapers-semifinals-title = 獲得準決賽的新背景圖
-newtab-sports-widget-message-wallpapers-semifinals-body = 準備好參加世界盃足球賽最重要的賽事。
 newtab-sports-widget-message-add-widgets-cta =
     .label = 新增小工具
 newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 小工具隨時關注最新足球賽事

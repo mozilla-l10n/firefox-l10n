@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Croeso i { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Beth sy'n bwysig i chi?
 aiwindow-firstrun-model-title-v2 = Dewiswch fodel i ddechrau
-aiwindow-firstrun-model-subtitle = Dewiswch fodel i bweru { -smart-window-brand-name }. Gallwch ei newid unrhyw bryd.
 aiwindow-firstrun-model-subtitle-v2 = Gall pob model eich helpu i grynhoi, cymharu ac archwilio ar draws eich tabiau. Newidiwch unrhyw bryd.
-aiwindow-firstrun-model-fast-label = Cyflym
-aiwindow-firstrun-model-fast-body = Yn ateb yn gyflym
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Cyflym: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Y gorau ar gyfer atebion cyflym pan fyddwch yn symud yn gyflym
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Model { $model } gan { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Hyblyg
-aiwindow-firstrun-model-allpurpose-body = Y dewis addas ar gyfer y rhan fwyaf o anghenion
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Hyblyg: { $shortName }
 aiwindow-firstrun-model-flexible-body = Yn barod am amrywiaeth o dasgau
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Argymhellwyd
-aiwindow-firstrun-model-personal-label = Personol
-aiwindow-firstrun-model-personal-body = Atebion wedi'u personoli fwyaf
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personol: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Wedi'i adeiladu ar gyfer cymorth personol ar draws ieithoedd
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Cyflym
 aiwindow-input-model-select-button-label-allpurpose = Hyblyg
 aiwindow-input-model-select-button-label-personal = Personol
 aiwindow-input-model-select-button-label-custom = Cyfaddas
-aiwindow-input-model-select-button-description-custom = Defnyddiwch eich LLM eich hun
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Defnyddiwch eich LLM eich hun
 aiwindow-input-model-select-default-badge =
     .label = Rhagosodedig
     .title = Y model dewis rhagosodedig

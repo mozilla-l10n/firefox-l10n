@@ -90,24 +90,14 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Dobro došli u { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Što ti je važno?
 aiwindow-firstrun-model-title-v2 = Odaberi model za početak
-aiwindow-firstrun-model-fast-label = Brzo
-aiwindow-firstrun-model-fast-body = Odgovara brzo
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Brzo: { $shortName }
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Model { $model } tvrtke { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Fleksibilno
-aiwindow-firstrun-model-allpurpose-body = Dobar odabir za većinu potreba
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Fleksibilno: { $shortName }
 aiwindow-firstrun-model-flexible-body = Spreman za razne zadatke
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Preporučeno
-aiwindow-firstrun-model-personal-label = Osobno
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Osobno: { $shortName }
 aiwindow-firstrun-button = Idemo
@@ -120,12 +110,6 @@ aiwindow-input-model-select-button-label-fast = Brzo
 aiwindow-input-model-select-button-label-allpurpose = Fleksibilno
 aiwindow-input-model-select-button-label-personal = Osobno
 aiwindow-input-model-select-button-label-custom = Prilagođeno
-aiwindow-input-model-select-button-description-custom = Koristi vlastiti LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Koristi vlastiti LLM
 aiwindow-input-model-select-default-badge =
     .label = Zadano
     .title = Odabrani zadani model

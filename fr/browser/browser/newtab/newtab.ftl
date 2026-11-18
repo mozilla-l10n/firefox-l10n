@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Suggestions d’emplacements
-newtab-weather-cancel-input =
-    .aria-label = Annuler
-    .title = Annuler
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utiliser l’emplacement actuel
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Créer une nouvelle liste
 newtab-widget-lists-menu-delete = Supprimer cette liste
 newtab-widget-lists-menu-copy = Copier la liste dans le presse-papiers
 newtab-widget-lists-menu-learn-more = En savoir plus
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Changer de liste
-    .title = Changer de liste
 newtab-widget-lists-button-add-item = Ajouter un élément
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Ajouter un élément
@@ -1839,8 +1832,6 @@ newtab-sports-widget-team-tbd = À déterminer
 newtab-sports-widget-message-wallpapers-title = Célébrez le début de la Coupe du monde avec de nouveaux fonds d’écran
 newtab-sports-widget-message-wallpapers-body = Ajoutez une touche d’ambiance de jour de match à votre navigateur pendant le tournoi.
 newtab-sports-widget-message-wallpapers-cta = Choisir un fond d’écran
-newtab-sports-widget-message-wallpapers-semifinals-title = Obtenez un nouveau fond d’écran pour les demi-finales
-newtab-sports-widget-message-wallpapers-semifinals-body = Mettez-vous dans l’ambiance pour les plus grands matchs de la Coupe du monde.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Ajouter des widgets
 newtab-sports-widget-message-day-in-play-title = Restez dans l’ambiance avec les widgets { -brand-product-name }

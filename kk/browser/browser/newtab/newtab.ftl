@@ -1154,9 +1154,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Орналасу бойынша ұсыныстар
-newtab-weather-cancel-input =
-    .aria-label = Бас тарту
-    .title = Бас тарту
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Ағымдағы орналасуды пайдалану
@@ -1413,10 +1410,6 @@ newtab-widget-lists-menu-create = Жаңа тізімді жасау
 newtab-widget-lists-menu-delete = Бұл тізімді өшіру
 newtab-widget-lists-menu-copy = Тізімді алмасу буферіне көшіру
 newtab-widget-lists-menu-learn-more = Көбірек білу
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Тізімді өзгерту
-    .title = Тізімді өзгерту
 newtab-widget-lists-button-add-item = Элементті қосу
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Элементті қосу
@@ -1836,8 +1829,6 @@ newtab-sports-widget-team-tbd = Анықталуы керек
 newtab-sports-widget-message-wallpapers-title = Әлем чемпионатын жаңа тұсқағаздармен бастаңыз
 newtab-sports-widget-message-wallpapers-body = Турнирге дайындық үшін браузеріңізге ойын күніне күш-қуат әкеліңіз.
 newtab-sports-widget-message-wallpapers-cta = Тұсқағазды таңдау
-newtab-sports-widget-message-wallpapers-semifinals-title = Жартылай финалға жаңа тұсқағаз алыңыз
-newtab-sports-widget-message-wallpapers-semifinals-body = Әлем чемпионатының ең маңызды матчтарына дайындық жасаңыз.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Виджеттерді қосу
 newtab-sports-widget-message-day-in-play-title = Күніңізді { -brand-product-name } виджеттерімен қызықты өткізіңіз

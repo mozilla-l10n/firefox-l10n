@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Boas-vindas ao { -smart-window-brand-name }
-aiwindow-firstrun-model-title = O que é importante para você?
 aiwindow-firstrun-model-title-v2 = Escolha um modelo para começar
-aiwindow-firstrun-model-subtitle = Escolha um modelo a usar no { -smart-window-brand-name }. Mude quando quiser.
 aiwindow-firstrun-model-subtitle-v2 = Cada modelo pode ajudar a resumir, comparar e explorar nas abas. Mude quando quiser.
-aiwindow-firstrun-model-fast-label = Rápido
-aiwindow-firstrun-model-fast-body = Responde rapidamente
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Rápido: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Melhor para obter respostas rápidas, quando você está com pressa
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Flexível
-aiwindow-firstrun-model-allpurpose-body = Adequado para a maioria das situações
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexível: { $shortName }
 aiwindow-firstrun-model-flexible-body = Pronto para diversas tarefas
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Recomendado
-aiwindow-firstrun-model-personal-label = Pessoal
-aiwindow-firstrun-model-personal-body = Respostas mais personalizadas
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Pessoal: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Feito para ajuda personalizada em vários idiomas
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Rápido
 aiwindow-input-model-select-button-label-allpurpose = Flexível
 aiwindow-input-model-select-button-label-personal = Pessoal
 aiwindow-input-model-select-button-label-custom = Personalizado
-aiwindow-input-model-select-button-description-custom = Usar seu próprio LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Use seu próprio LLM
 aiwindow-input-model-select-default-badge =
     .label = Padrão
     .title = O modelo padrão selecionado

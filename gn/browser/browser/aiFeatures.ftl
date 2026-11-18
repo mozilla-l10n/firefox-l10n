@@ -44,15 +44,6 @@ smart-window-model-learn-link = Eikuaa techarã rehegua
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Techarã { $model } { $ownerName } rupi.
-    .label = Embohovái pya’e
-smart-window-model-flexible =
-    .description = Techarã { $model } { $ownerName } rehe
-    .label = Hu’ũva: Ojueheguáva heta tekotevẽme g̃uarã
-smart-window-model-personal =
-    .description = Peteĩva { $model } { $ownerName } rehe
-    .label = Peteĩ mba’éva: Ñembohovái mboavapyre
 smart-window-model-custom =
     .label = Mboavapyre: Eiporu LLM teéva
 smart-window-model-custom-name =

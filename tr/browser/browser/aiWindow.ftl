@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = { -smart-window-brand-name(form: "uppercase-singular") }ye hoş geldiniz
-aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
 aiwindow-firstrun-model-title-v2 = Başlamak için bir model seçin
-aiwindow-firstrun-model-subtitle = { -smart-window-brand-name(form: "uppercase-singular") }de kullanacak modeli seçin. İstediğiniz zaman değiştirebilirsiniz.
 aiwindow-firstrun-model-subtitle-v2 = Modeller sekmelerinizi özetlemenize, karşılaştırmanıza ve keşfetmenize yardımcı olur. İstediğiniz zaman modelinizi değiştirebilirsiniz.
-aiwindow-firstrun-model-fast-label = Hızlı
-aiwindow-firstrun-model-fast-body = Hızlı cevap verir
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Hızlı: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Zamanınız kısıtlıysa hızlı cevaplar almak için ideal
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = { $ownerName } tarafından geliştirilen { $model } modeli
-aiwindow-firstrun-model-allpurpose-label = Esnek
-aiwindow-firstrun-model-allpurpose-body = Çoğu ihtiyaç için ideal
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Esnek: { $shortName }
 aiwindow-firstrun-model-flexible-body = Farklı görevlere hazır
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Önerilen
-aiwindow-firstrun-model-personal-label = Kişisel
-aiwindow-firstrun-model-personal-body = En özelleştirilmiş cevaplar
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Kişisel: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Farklı dillerde size özel yardım için tasarlandı
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Hızlı
 aiwindow-input-model-select-button-label-allpurpose = Esnek
 aiwindow-input-model-select-button-label-personal = Kişisel
 aiwindow-input-model-select-button-label-custom = Özel
-aiwindow-input-model-select-button-description-custom = Kendi LLM’inizi kullanın
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Kendi LLM’inizi kullanın
 aiwindow-input-model-select-default-badge =
     .label = Varsayılan
     .title = Seçilen varsayılan model

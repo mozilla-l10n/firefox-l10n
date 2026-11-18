@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Καλώς ορίσατε στο { -smart-window-brand-name(form: "uppperSingularNom") }
-aiwindow-firstrun-model-title = Τι είναι σημαντικό για εσάς;
 aiwindow-firstrun-model-title-v2 = Επιλέξτε ένα μοντέλο για να ξεκινήσετε
-aiwindow-firstrun-model-subtitle = Επιλέξτε ένα μοντέλο για το { -smart-window-brand-name(form: "lowerSingularNom") }. Μπορείτε να το αλλάξετε ανά πάσα στιγμή.
 aiwindow-firstrun-model-subtitle-v2 = Κάθε μοντέλο μπορεί να σας βοηθήσει να συνοψίσετε, να συγκρίνετε και να εξερευνήσετε όλες τις καρτέλες σας. Μπορείτε να κάνετε εναλλαγή ανά πάσα στιγμή.
-aiwindow-firstrun-model-fast-label = Γρήγορο
-aiwindow-firstrun-model-fast-body = Απαντά γρήγορα
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Γρήγορο: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Ιδανικό για γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Μοντέλο { $model } από την { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Ευέλικτο
-aiwindow-firstrun-model-allpurpose-body = Ιδανική επιλογή για τις περισσότερες ανάγκες
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Ευέλικτο: { $shortName }
 aiwindow-firstrun-model-flexible-body = Έτοιμο για μια ποικιλία εργασιών
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Προτείνεται
-aiwindow-firstrun-model-personal-label = Προσωπικό
-aiwindow-firstrun-model-personal-body = Οι πιο προσαρμοσμένες απαντήσεις
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Προσωπικό: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Σχεδιασμένο για εξατομικευμένη βοήθεια σε όλες τις γλώσσες
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Γρήγορο
 aiwindow-input-model-select-button-label-allpurpose = Ευέλικτο
 aiwindow-input-model-select-button-label-personal = Προσωπικό
 aiwindow-input-model-select-button-label-custom = Προσαρμοσμένο
-aiwindow-input-model-select-button-description-custom = Χρησιμοποιήστε το δικό σας LLM
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Χρησιμοποιήστε το δικό σας LLM
 aiwindow-input-model-select-default-badge =
     .label = Προεπιλεγμένο
     .title = Το προεπιλεγμένο μοντέλο

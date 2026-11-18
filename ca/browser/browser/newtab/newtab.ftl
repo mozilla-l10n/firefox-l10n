@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Suggeriments d'ubicació
-newtab-weather-cancel-input =
-    .aria-label = Cancel·la
-    .title = Cancel·la
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utilitza la ubicació actual
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Crea una llista nova
 newtab-widget-lists-menu-delete = Suprimeix aquesta llista
 newtab-widget-lists-menu-copy = Copia la llista al porta-retalls
 newtab-widget-lists-menu-learn-more = Més informació
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Canvia la llista
-    .title = Canvia la llista
 newtab-widget-lists-button-add-item = Afegeix un element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Afegeix un element
@@ -1839,8 +1832,6 @@ newtab-sports-widget-team-tbd = Per determinar
 newtab-sports-widget-message-wallpapers-title = Comenceu la Copa del Món amb fons de pantalla nous
 newtab-sports-widget-message-wallpapers-body = Porteu l'energia dels dies de partit al navegador durant el torneig.
 newtab-sports-widget-message-wallpapers-cta = Tria un fons de pantalla
-newtab-sports-widget-message-wallpapers-semifinals-title = Obteniu un fons de pantalla nou per a les semifinals
-newtab-sports-widget-message-wallpapers-semifinals-body = Prepareu l'escenari per als partits més importants de la Copa del Món.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Afegeix ginys
 newtab-sports-widget-message-day-in-play-title = Mantingueu el ritme del dia amb els ginys del { -brand-product-name }

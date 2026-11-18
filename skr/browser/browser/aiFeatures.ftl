@@ -41,15 +41,6 @@ smart-window-model-learn-link = ماڈلاں بارے ڄاݨو
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = { $ownerName } دا ماڈل { $model }
-    .label = تیز: جلدی جواب ݙیندا ہے
-smart-window-model-flexible =
-    .description = { $ownerName } دا ماڈل { $model }
-    .label = لچکدار: اکثر ضرورتاں کیتے موزوں
-smart-window-model-personal =
-    .description = { $ownerName } دا ماڈل { $model }
-    .label = ذاتی: سب توں موزوں جواب
 smart-window-model-custom =
     .label = کسٹم: اپݨا LLM ورتو
 smart-window-model-custom-name =

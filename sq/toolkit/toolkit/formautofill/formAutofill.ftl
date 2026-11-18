@@ -33,9 +33,6 @@ autofill-options-link = Mundësi Vetëplotësimi Formularësh
 credit-card-doorhanger-credit-cards-sync-checkbox = Njëkohëso nëpër pajisjet e mia krejt kartat e ruajtura
 credit-card-save-doorhanger-header = Të ruhet në mënyrë të sigurt kjo kartë?
 credit-card-save-doorhanger-description = { -brand-short-name }-i e fshehtëzon numrin e kartës tuaj. Kodi juaj i sigurisë s’do të ruhet.
-credit-card-save-doorhanger-description-security-code = { -brand-short-name }-i e fshehtëzon numrin e kartës tuaj dhe kodin e sigurisë, që vetëm ju të mund t’i përdorni për të plotësuar formularë pagesash.
-credit-card-doorhanger-save-security-codes-checkbox =
-    .label = Ruaj përherë kode sigurie për metoda pagesash.
 credit-card-capture-save-button =
     .label = Ruaje
     .accessKey = R
@@ -62,11 +59,6 @@ autofill-clear-form-label = Spastroje Formularin e Vetëplotësuar
 autofill-manage-addresses-label = Administroni adresa
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Administroni metoda pagesash
-# Used as the primary label of an autofill drop down suggestion when the focused
-# field is the card security code. The card's masked number is shown underneath
-# it as the secondary label. "CVC" is a common abbreviation for the code printed
-# on a payment card; use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-label = CVC
 
 ## The name of the security code printed on a payment card, as each card
 ## network calls it.
@@ -134,22 +126,6 @@ credit-card-doorhanger-always-save-security-codes-toggle =
     .label = Ruaj përherë kode sigurie
 credit-card-doorhanger-dont-save-security-codes-toggle =
     .label = Mos ruaj kode sigurie
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
-credit-card-doorhanger-details-name = { $name }
-credit-card-doorhanger-details-expiration = { $month }/{ $year }
-credit-card-doorhanger-details-cvv = CVV u ruajt
-credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
-credit-card-doorhanger-details-name-cvv = { $name } | CVV e ruajtur
-credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV e ruajtur
-credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV e ruajtur
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

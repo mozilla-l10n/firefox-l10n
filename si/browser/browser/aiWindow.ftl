@@ -47,12 +47,6 @@ aiwindow-firstrun-next-button = ඊළඟ
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-custom = අභිරුචි
-aiwindow-input-model-select-button-description-custom = ඔබගේ LLM භාවිතා කරන්න
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = ඔබගේ LLM භාවිතා කරන්න
 
 ## Close Sidebar Button
 

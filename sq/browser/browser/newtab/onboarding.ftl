@@ -395,18 +395,12 @@ onboarding-checklist-remove-2 = Hiqe listën e hapave
 
 tab-groups-onboarding-feature-callout-title = Provoni grupe skedash për më pak rrëmujë, më tepër përqendrim
 tab-groups-onboarding-feature-callout-subtitle = Sistemoni gjërat, duke tërhequr një skedë mbi një tjetër, që të krijoni grupin tuaj të parë.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Gjejini grupet tuaj të skedave te menuja “Kërkoni te dhe administroni skeda”, kurdo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Gjeni kurdo grupet tuaj të skedave të menuja “Shfaq Krejt Skedat”.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gjeni grupet tuaj të skedave duke kërkuar për ta te shtylla e adresave.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Kur mbyllni një grup skedash, rihapeni që nga menuja “Kërkoni te dhe administroni skeda”, kurdo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Kur mbyllni një grup skedash, rihapeni kurdo që nga menuja “Shfaq Krejt Skedat”.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Gjeni grupet tuaj të mbyllur të skedave duke kërkuar për ta te shtylla e adresave.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Rihapini grupet tuaj të skedave që nga menuja “Kërkoni te dhe administroni skeda”, kurdo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Rihapni kurdo grupet tuaj të skedave, që nga menuja “Shfaq Krejt Skedat”.
 tab-groups-onboarding-dismiss = OK

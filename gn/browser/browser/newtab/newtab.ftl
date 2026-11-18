@@ -1076,9 +1076,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Tendaite je’epyre
-newtab-weather-cancel-input =
-    .aria-label = Heja
-    .title = Heja
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Eiporu ne rendaite ag̃agua
@@ -1329,10 +1326,6 @@ newtab-widget-lists-menu-create = Emoheñói tysýi pyahu
 newtab-widget-lists-menu-delete = Embogue ko tysýi
 newtab-widget-lists-menu-copy = Embohasa tysýi kuatiajokohápe
 newtab-widget-lists-menu-learn-more = Eikuaave
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Emoambue tysýi
-    .title = Emoambue tysýi
 newtab-widget-lists-button-add-item = Embojuaju jehaipy
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Embojuaju jehaipy
@@ -1749,8 +1742,6 @@ newtab-sports-widget-team-tbd = Ojekuaa’ỹva gueteri
 newtab-sports-widget-message-wallpapers-title = Eg̃uahẽ Mundial ñepyrũme mba’erechaha rugua pyahu reheve
 newtab-sports-widget-message-wallpapers-body = Emog̃uahẽ upe energía partído oikotaha ára ne mohendahápe.
 newtab-sports-widget-message-wallpapers-cta = Eiporavo mba’erechaha rugua
-newtab-sports-widget-message-wallpapers-semifinals-title = Erekóke mba’erechaha rugua pyahu semifinal-pe g̃uarã
-newtab-sports-widget-message-wallpapers-semifinals-body = Embosako’i eikotevẽva partidoita ehechaséva Copa del Mundo rehegua.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Embojuaju widgets
 newtab-sports-widget-message-day-in-play-title = Ereko nde ára pukukue jeku’épe umi widget { -brand-product-name } rupi.

@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = پیشنهادهای مکان
-newtab-weather-cancel-input =
-    .aria-label = انصراف
-    .title = انصراف
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = استفاده از مکان فعلی
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = ایجاد فهرست جدید
 newtab-widget-lists-menu-delete = حذف این فهرست
 newtab-widget-lists-menu-copy = کپی فهرست در کلیپ‌بورد
 newtab-widget-lists-menu-learn-more = بیشتر بدانید
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = تغییر فهرست
-    .title = تغییر فهرست
 newtab-widget-lists-button-add-item = افزودن یک مورد
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = افزودن یک مورد
@@ -1837,8 +1830,6 @@ newtab-sports-widget-team-tbd = نامشخص
 newtab-sports-widget-message-wallpapers-title = شروع جام جهانی با پس‌زمینه‌های جدید
 newtab-sports-widget-message-wallpapers-body = با شروع مسابقات، شور و هیجان روز بازی را به مرورگر خود بیاورید.
 newtab-sports-widget-message-wallpapers-cta = انتخاب پس‌زمینه
-newtab-sports-widget-message-wallpapers-semifinals-title = دریافت پس‌زمینهٔ ویژه برای نیمه‌نهایی
-newtab-sports-widget-message-wallpapers-semifinals-body = صحنه را برای مهم‌ترین مسابقات جام جهانی آماده کنید.
 newtab-sports-widget-message-add-widgets-cta =
     .label = افزودن ابزارک‌ها
 newtab-sports-widget-message-day-in-play-title = روز خود را با ابزارک‌های { -brand-product-name } هیجان‌انگیز نگه دارید

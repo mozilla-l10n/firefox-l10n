@@ -398,18 +398,12 @@ onboarding-checklist-remove-2 = Fjern tjekliste
 
 tab-groups-onboarding-feature-callout-title = Prøv fanebladsgrupper for at skabe mere orden og fokus
 tab-groups-onboarding-feature-callout-subtitle = Organiser dine faneblade ved at trække et faneblad hen oven på et andet for at skabe din første gruppe.
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Find dine fanebladsgrupper i menuen "Søg i og håndter faneblade" når som helst.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Find dine fanebladsgrupper i menuen List alle faneblade.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Find dine grupper ved at søge efter dem i adressefeltet.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Når du lukker en fanebladsgruppe, kan du altid åbne den igen fra menuen "Søg i og håndter faneblade".
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Når du lukker en fanebladsgruppe, kan du altid åbne den igen fra menuen List alle faneblade.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Find dine lukkede grupper ved at søge efter dem i adressefeltet.
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Åbn dine fanebladsgrupper igen fra menuen "Søg i og håndter faneblade".
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Åbn dine fanebladsgrupper igen fra menuen List alle faneblade.
 tab-groups-onboarding-dismiss = OK

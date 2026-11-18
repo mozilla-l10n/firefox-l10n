@@ -1124,9 +1124,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Sugestoj por pozicio
-newtab-weather-cancel-input =
-    .aria-label = Nuligi
-    .title = Nuligi
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Uzi nunan pozicion
@@ -1377,10 +1374,6 @@ newtab-widget-lists-menu-create = Krei novan liston
 newtab-widget-lists-menu-delete = Forigi tiun ĉi liston
 newtab-widget-lists-menu-copy = Kopii liston al tondujo
 newtab-widget-lists-menu-learn-more = Pli da informo
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Ŝanĝi liston
-    .title = Ŝanĝi liston
 newtab-widget-lists-button-add-item = Aldoni elementon
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Aldoni elementon
@@ -1796,8 +1789,6 @@ newtab-sports-widget-team-tbd = Difinota
 newtab-sports-widget-message-wallpapers-title = Komencu la mondpokalon kun novaj ekranfonoj
 newtab-sports-widget-message-wallpapers-body = Aldonu iom da luda energio al via retumilo.
 newtab-sports-widget-message-wallpapers-cta = Elekti ekranfonon
-newtab-sports-widget-message-wallpapers-semifinals-title = Ricevu novan ekranfonon por la duonfinaloj
-newtab-sports-widget-message-wallpapers-semifinals-body = Preparu la etoson por la plej gravaj ludoj de la mondpokalo.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Aldoni komponantojn
 newtab-sports-widget-message-day-in-play-title = Restu en la etoso pokala per la komponantoj de { -brand-product-name }

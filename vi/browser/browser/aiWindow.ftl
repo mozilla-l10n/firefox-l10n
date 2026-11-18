@@ -98,28 +98,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Chào mừng đến với { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Điều gì quan trọng với bạn?
 aiwindow-firstrun-model-title-v2 = Chọn một mô hình để bắt đầu
-aiwindow-firstrun-model-subtitle = Chọn một mô hình để cung cấp năng lượng cho { -smart-window-brand-name }. Chuyển đổi bất cứ lúc nào.
 aiwindow-firstrun-model-subtitle-v2 = Mỗi mô hình có thể giúp bạn tóm tắt, so sánh và khám phá nội dung trên các thẻ. Bạn có thể chuyển đổi bất cứ lúc nào.
-aiwindow-firstrun-model-fast-label = Nhanh
-aiwindow-firstrun-model-fast-body = Trả lời nhanh chóng
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Nhanh: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Thích hợp nhất để trả lời nhanh khi bạn cần câu trả lời ngay
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Mô hình { $model } bởi { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Linh hoạt
-aiwindow-firstrun-model-allpurpose-body = Phù hợp với hầu hết các nhu cầu
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Linh hoạt: { $shortName }
 aiwindow-firstrun-model-flexible-body = Sẵn sàng cho nhiều tác vụ khác nhau
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Được đề xuất
-aiwindow-firstrun-model-personal-label = Cá nhân
-aiwindow-firstrun-model-personal-body = Câu trả lời được cá nhân hóa nhất
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Cá nhân hoá: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Được xây dựng để hỗ trợ cá nhân hóa trên nhiều ngôn ngữ
@@ -133,12 +121,6 @@ aiwindow-input-model-select-button-label-fast = Nhanh
 aiwindow-input-model-select-button-label-allpurpose = Linh hoạt
 aiwindow-input-model-select-button-label-personal = Cá nhân
 aiwindow-input-model-select-button-label-custom = Tùy chọn
-aiwindow-input-model-select-button-description-custom = Sử dụng LLM của riêng bạn
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Sử dụng LLM của riêng bạn
 aiwindow-input-model-select-default-badge =
     .label = Mặc định
     .title = Mô hình mặc định đã chọn

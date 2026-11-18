@@ -33,9 +33,6 @@ autofill-options-link = Tùy chọn tự động điền mẫu
 credit-card-doorhanger-credit-cards-sync-checkbox = Đồng bộ hóa tất cả các thẻ đã lưu trên các thiết bị của tôi
 credit-card-save-doorhanger-header = Lưu thẻ này một cách an toàn?
 credit-card-save-doorhanger-description = { -brand-short-name } mã hóa số thẻ của bạn. Mã bảo mật trên thẻ của bạn sẽ không được lưu.
-credit-card-save-doorhanger-description-security-code = { -brand-short-name } mã hóa số thẻ và mã bảo mật của bạn, vì vậy chỉ bạn mới có thể sử dụng chúng để điền vào các biểu mẫu thanh toán.
-credit-card-doorhanger-save-security-codes-checkbox =
-    .label = Luôn lưu lại mã bảo mật cho các phương thức thanh toán.
 credit-card-capture-save-button =
     .label = Lưu
     .accessKey = S
@@ -62,11 +59,6 @@ autofill-clear-form-label = Xóa biểu mẫu tự động điền
 autofill-manage-addresses-label = Quản lý địa chỉ
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Quản lý phương thức thanh toán
-# Used as the primary label of an autofill drop down suggestion when the focused
-# field is the card security code. The card's masked number is shown underneath
-# it as the secondary label. "CVC" is a common abbreviation for the code printed
-# on a payment card; use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-label = CVC
 
 ## The name of the security code printed on a payment card, as each card
 ## network calls it.
@@ -134,22 +126,6 @@ credit-card-doorhanger-always-save-security-codes-toggle =
     .label = Luôn luôn lưu mã bảo mật
 credit-card-doorhanger-dont-save-security-codes-toggle =
     .label = Không lưu mã bảo mật
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
-credit-card-doorhanger-details-name = { $name }
-credit-card-doorhanger-details-expiration = { $month }/{ $year }
-credit-card-doorhanger-details-cvv = Đã lưu CVV
-credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
-credit-card-doorhanger-details-name-cvv = { $name } | Đã lưu CVV
-credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | Đã lưu CVV
-credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | Đã lưu CVV
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -94,28 +94,16 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Добро дошли у { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Шта је вама важно?
 aiwindow-firstrun-model-title-v2 = Изаберите модел за почетак
-aiwindow-firstrun-model-subtitle = Изаберите модел који ће погонити { -smart-window-brand-name }. Промените га у било ком тренутку.
 aiwindow-firstrun-model-subtitle-v2 = Сваки модел вам може помоћи да сажмете, упоредите и истражите садржај ваших језичака. Пребаците се у било ком тренутку.
-aiwindow-firstrun-model-fast-label = Брзо
-aiwindow-firstrun-model-fast-body = Брзо одговара
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Брз: { $shortName }
 aiwindow-firstrun-model-fast-body-v2 = Најбоље за брзе одговоре када брзо радите
-# $model (string) - The name of the AI model
-# $ownerName (string) - The name of the model owner/provider
-# $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Модел { $model } од { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Прилагодљив
-aiwindow-firstrun-model-allpurpose-body = Добро одговара већини потреба
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Прилагодљив: { $shortName }
 aiwindow-firstrun-model-flexible-body = Спреман за разнолике задатке
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Препоручено
-aiwindow-firstrun-model-personal-label = Лично
-aiwindow-firstrun-model-personal-body = Најприлагођенији одговори
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Лични: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Осмишљен за персонализовану помоћ на различитим језицима
@@ -129,12 +117,6 @@ aiwindow-input-model-select-button-label-fast = Брзо
 aiwindow-input-model-select-button-label-allpurpose = Прилагодљив
 aiwindow-input-model-select-button-label-personal = Лично
 aiwindow-input-model-select-button-label-custom = Прилагођено
-aiwindow-input-model-select-button-description-custom = Употребите сопствени ВЈМ
-# Variables:
-# $ownerName (string) - The name of the model owner/provider
-# $model (string) - The model name
-aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = Употребите сопствени ВЈМ
 aiwindow-input-model-select-default-badge =
     .label = Подразумевано
     .title = Изабрани подразумевани модел

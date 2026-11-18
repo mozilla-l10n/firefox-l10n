@@ -41,15 +41,6 @@ smart-window-model-learn-link = Lue lisää malleista
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Malli { $model }, valmistaja { $ownerName }
-    .label = Nopea: Vastaa nopeasti
-smart-window-model-flexible =
-    .description = Malli { $model }, valmistaja { $ownerName }
-    .label = Joustava: Sopii useimpiin tarpeisiin
-smart-window-model-personal =
-    .description = Malli { $model }, valmistaja { $ownerName }
-    .label = Henkilökohtainen: Räätälöidyimmät vastaukset
 smart-window-model-custom =
     .label = Mukautettu: Käytä omaa kielimallia
 smart-window-model-custom-name =

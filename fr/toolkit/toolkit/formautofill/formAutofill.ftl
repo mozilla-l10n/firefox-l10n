@@ -33,9 +33,6 @@ autofill-options-link = Options de remplissage automatique des formulaires
 credit-card-doorhanger-credit-cards-sync-checkbox = Synchroniser toutes les cartes enregistrées entre mes appareils
 credit-card-save-doorhanger-header = Enregistrer cette carte en toute sécurité ?
 credit-card-save-doorhanger-description = { -brand-short-name } chiffre votre numéro de carte. Votre code de sécurité ne sera pas enregistré.
-credit-card-save-doorhanger-description-security-code = { -brand-short-name } chiffre votre numéro de carte et votre code de sécurité, afin que vous seul·e puissiez les utiliser pour remplir des formulaires de paiement.
-credit-card-doorhanger-save-security-codes-checkbox =
-    .label = Toujours enregistrer les codes de sécurité pour les moyens de paiement.
 credit-card-capture-save-button =
     .label = Enregistrer
     .accessKey = E
@@ -62,11 +59,6 @@ autofill-clear-form-label = Effacer les données du remplissage automatique
 autofill-manage-addresses-label = Gérer les adresses
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Gérer les moyens de paiement
-# Used as the primary label of an autofill drop down suggestion when the focused
-# field is the card security code. The card's masked number is shown underneath
-# it as the secondary label. "CVC" is a common abbreviation for the code printed
-# on a payment card; use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-label = Cryptogramme visuel
 
 ## The name of the security code printed on a payment card, as each card
 ## network calls it.
@@ -134,22 +126,6 @@ credit-card-doorhanger-always-save-security-codes-toggle =
     .label = Toujours enregistrer les codes de sécurité
 credit-card-doorhanger-dont-save-security-codes-toggle =
     .label = Ne pas enregistrer les codes de sécurité
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
-credit-card-doorhanger-details-name = { $name }
-credit-card-doorhanger-details-expiration = { $month }/{ $year }
-credit-card-doorhanger-details-cvv = Cryptogramme visuel enregistré
-credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
-credit-card-doorhanger-details-name-cvv = { $name } | Cryptogramme visuel enregistré
-credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | Cryptogramme visuel enregistré
-credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | Cryptogramme visuel enregistré
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

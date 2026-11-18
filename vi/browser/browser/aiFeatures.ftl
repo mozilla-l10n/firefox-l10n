@@ -41,15 +41,6 @@ smart-window-model-learn-link = Tìm hiểu thêm về mô hình
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Mô hình { $model } bởi { $ownerName }
-    .label = Nhanh: Trả lời nhanh
-smart-window-model-flexible =
-    .description = Mô hình { $model } bởi { $ownerName }
-    .label = Linh hoạt: Phù hợp với hầu hết các nhu cầu
-smart-window-model-personal =
-    .description = Mô hình { $model } bởi { $ownerName }
-    .label = Cá nhân: Câu trả lời được cá nhân hóa nhất
 smart-window-model-custom =
     .label = Tùy chỉnh: Sử dụng LLM của riêng bạn
 smart-window-model-custom-name =

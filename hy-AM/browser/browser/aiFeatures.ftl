@@ -41,15 +41,6 @@ smart-window-model-learn-link = Իմանալ մոդելների մասին
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Մոդլե { $model }՝ { $ownerName }-ից
-    .label = Արագ. Պատասխանում է արագ
-smart-window-model-flexible =
-    .description = Մոդլե { $model }՝ { $ownerName }-ի կողմից
-    .label = Ճկուն. Հստակ համապատասխանում է կարիքների համար
-smart-window-model-personal =
-    .description = Մոդել { $model }՝ { $ownerName }-ի կողմից
-    .label = Անձնական. Առավել հարմարեցված պատասխաններ
 smart-window-model-custom =
     .label = Անհատականացված. Օգտագործեք ձեր սեփական LLM
 smart-window-model-custom-name =

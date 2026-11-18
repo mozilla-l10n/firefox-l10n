@@ -1165,9 +1165,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Atrašanās vietas ieteikumi
-newtab-weather-cancel-input =
-    .aria-label = Atcelt
-    .title = Atcelt
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Izmantot pašreizējo atrašanās vietu
@@ -1424,10 +1421,6 @@ newtab-widget-lists-menu-create = Izveidot jaunu sarakstu
 newtab-widget-lists-menu-delete = Dzēst šo sarakstu
 newtab-widget-lists-menu-copy = Kopēt sarakstu starpliktuvē
 newtab-widget-lists-menu-learn-more = Uzzināt vairāk
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Mainīt sarakstu
-    .title = Mainīt sarakstu
 newtab-widget-lists-button-add-item = Pievienot vienumu
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
@@ -1852,8 +1845,6 @@ newtab-sports-widget-team-tbd = Jānosaka
 newtab-sports-widget-message-wallpapers-title = Sāciet Pasaules kausu ar jaunām tapetēm
 newtab-sports-widget-message-wallpapers-body = Ienesiet turnīra laikā savā pārlūkā spēles dienas enerģiju.
 newtab-sports-widget-message-wallpapers-cta = Izvēlieties fonu
-newtab-sports-widget-message-wallpapers-semifinals-title = Iegūstiet jaunu fonu pusfinālam
-newtab-sports-widget-message-wallpapers-semifinals-body = Sagatavojiet augsni Pasaules kausa lielākajām spēlēm.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Pievienot logrīkus
 newtab-sports-widget-message-day-in-play-title = Saglabājiet savu dienu rosīgu ar { -brand-product-name } logrīkiem

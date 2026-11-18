@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Lokaasjesuggestjes
-newtab-weather-cancel-input =
-    .aria-label = Annulearje
-    .title = Annulearje
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Aktuele lokaasje brûke
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Nije list oanmeitsje
 newtab-widget-lists-menu-delete = Dizze list fuortsmite
 newtab-widget-lists-menu-copy = List nei klamboerd kopiearje
 newtab-widget-lists-menu-learn-more = Mear ynfo
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = List wizigje
-    .title = List wizigje
 newtab-widget-lists-button-add-item = In item tafoegje
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = In item tafoegje
@@ -1839,8 +1832,6 @@ newtab-sports-widget-team-tbd = Noch te bepalen
 newtab-sports-widget-message-wallpapers-title = Begjin it WK mei nije eftergrûnen
 newtab-sports-widget-message-wallpapers-body = Bring wat wedstriiddei-enerzjy nei jo browser foar it toernoai.
 newtab-sports-widget-message-wallpapers-cta = Eftergrûn kieze
-newtab-sports-widget-message-wallpapers-semifinals-title = Download in nije eftergrûn foar de heale finalen
-newtab-sports-widget-message-wallpapers-semifinals-body = Meitsje in dekôr foar de grutste wedstriden fan it WK.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Widgets tafoegje
 newtab-sports-widget-message-day-in-play-title = Hâld jo dei yn beweging mei { -brand-product-name }-widgets

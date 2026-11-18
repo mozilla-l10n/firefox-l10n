@@ -51,11 +51,6 @@ autofill-clear-form-label = Emopotĩ myanyhẽha ijeheguíva
 autofill-manage-addresses-label = Kundaharape ñangareko
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Eñangareko mba’éichapa ehepyme’ẽta
-# Used as the primary label of an autofill drop down suggestion when the focused
-# field is the card security code. The card's masked number is shown underneath
-# it as the secondary label. "CVC" is a common abbreviation for the code printed
-# on a payment card; use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-label = CVC
 
 ## The name of the security code printed on a payment card, as each card
 ## network calls it.
@@ -109,22 +104,6 @@ credit-card-save-security-code-doorhanger-header = ¿Eñongatu tekorosãrã ayvu
 credit-card-capture-dismiss-button =
     .label = Mboyke
     .accessKey = D
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
-credit-card-doorhanger-details-name = { $name }
-credit-card-doorhanger-details-expiration = { $month }/{ $year }
-credit-card-doorhanger-details-cvv = CVV ñongatupyre
-credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
-credit-card-doorhanger-details-name-cvv = { $name } | CVV ñongatupyre
-credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV ñongatupyre
-credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV ñongatupyre
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

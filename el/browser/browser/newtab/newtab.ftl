@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Προτάσεις τοποθεσίας
-newtab-weather-cancel-input =
-    .aria-label = Ακύρωση
-    .title = Ακύρωση
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Χρήση τρέχουσας τοποθεσίας
@@ -1410,10 +1407,6 @@ newtab-widget-lists-menu-create = Δημιουργία νέας λίστας
 newtab-widget-lists-menu-delete = Διαγραφή λίστας
 newtab-widget-lists-menu-copy = Αντιγραφή λίστας στο πρόχειρο
 newtab-widget-lists-menu-learn-more = Μάθετε περισσότερα
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Αλλαγή λίστας
-    .title = Αλλαγή λίστας
 newtab-widget-lists-button-add-item = Προσθήκη στοιχείου
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Προσθήκη στοιχείου
@@ -1834,8 +1827,6 @@ newtab-sports-widget-team-tbd = Θα καθοριστεί
 newtab-sports-widget-message-wallpapers-title = Ξεκινήστε το Παγκόσμιο Κύπελλο με νέες ταπετσαρίες
 newtab-sports-widget-message-wallpapers-body = Φέρτε λίγη από την ατμόσφαιρα των αγώνων στο πρόγραμμα περιήγησής σας, καθ' όλη τη διάρκεια του τουρνουά.
 newtab-sports-widget-message-wallpapers-cta = Επιλογή ταπετσαρίας
-newtab-sports-widget-message-wallpapers-semifinals-title = Αποκτήστε μια νέα ταπετσαρία για τους ημιτελικούς
-newtab-sports-widget-message-wallpapers-semifinals-body = Προετοιμάστε το έδαφος για τους μεγαλύτερους αγώνες του Παγκοσμίου Κυπέλλου.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Προσθήκη γραφικών στοιχείων
 newtab-sports-widget-message-day-in-play-title = Διατηρήστε την ημέρα σας γεμάτη δράση με τα γραφικά στοιχεία του { -brand-product-name }

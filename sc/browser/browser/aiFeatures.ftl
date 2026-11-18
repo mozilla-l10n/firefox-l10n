@@ -41,15 +41,6 @@ smart-window-model-learn-link = Impara in pitzus de is modellos
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
-smart-window-model-fast =
-    .description = Modellu { $model } dae { $ownerName }
-    .label = Lestru: rispondet a sa lestra
-smart-window-model-flexible =
-    .description = Modellu { $model } dae { $ownerName }
-    .label = Flessìbile: una solutzione adeguada pro su prus de is bisòngios
-smart-window-model-personal =
-    .description = Modellu { $model } dae { $ownerName }
-    .label = Personale: rispostas prus personalizadas
 smart-window-model-custom =
     .label = Personalizadu: imprea unu modellu (LLM) pròpiu
 smart-window-model-custom-name =

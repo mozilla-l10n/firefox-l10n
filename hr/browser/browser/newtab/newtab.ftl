@@ -1072,9 +1072,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Prijedlozi lokacija
-newtab-weather-cancel-input =
-    .aria-label = Odustani
-    .title = Odustani
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Koristi trenutnu lokaciju
@@ -1325,10 +1322,6 @@ newtab-widget-lists-menu-create = Stvori novi popis
 newtab-widget-lists-menu-delete = Obriši ovaj popis
 newtab-widget-lists-menu-copy = Kopiraj popis u međuspremnik
 newtab-widget-lists-menu-learn-more = Saznaj više
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Promijeni popis
-    .title = Promijeni popis
 newtab-widget-lists-button-add-item = Dodaj stavku
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Dodaj stavku

@@ -42,8 +42,6 @@ about-processes-expand-all-sites =
     .title = 모두 펼치기
 about-processes-collapse-all-sites =
     .title = 모두 접기
-about-processes-go-to-tab =
-    .title = 탭으로 이동
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -53,9 +51,6 @@ about-processes-profile-process =
         { $duration ->
            *[other] { $duration }초 동안 이 프로세스의 모든 스레드를 프로파일링
         }
-
-## Search
-
 # Search field above the tab list, filtering tabs by title or site. The
 # placeholder is shown inside the empty field.
 about-processes-search-tabs =
@@ -224,10 +219,6 @@ about-processes-cpu-almost-idle = < 0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = 유휴
     .title = 전체 CPU 시간: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
-# Variables:
-#    $percent (Number) Always >= 0, and never above 1.
-about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = 유휴
 # A tab’s share of total CPU capacity across all cores, shown to two decimal places.
@@ -236,8 +227,6 @@ about-processes-tab-cpu-fully-idle = 유휴
 about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
 # Special case: a positive tab-view CPU share below its two-decimal display precision.
 about-processes-tab-cpu-almost-idle2 = < 0.01%
-# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
-about-processes-tab-cpu-almost-idle = < 0.1%
 
 ## Displaying Memory (total and delta)
 ## Variables:

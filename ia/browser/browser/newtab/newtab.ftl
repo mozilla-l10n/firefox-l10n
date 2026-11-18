@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Suggestiones de localisation
-newtab-weather-cancel-input =
-    .aria-label = Cancellar
-    .title = Cancellar
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Usar position actual
@@ -1414,10 +1411,6 @@ newtab-widget-lists-menu-create = Crear un nove lista
 newtab-widget-lists-menu-delete = Deler iste lista
 newtab-widget-lists-menu-copy = Copiar lista al area de transferentia
 newtab-widget-lists-menu-learn-more = Pro saper plus
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Cambiar lista
-    .title = Cambiar lista
 newtab-widget-lists-button-add-item = Adder un elemento
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Adder un elemento
@@ -1839,8 +1832,6 @@ newtab-sports-widget-team-tbd = A definir
 newtab-sports-widget-message-wallpapers-title = Lancea le Cuppa del mundo con nove fundos de schermo
 newtab-sports-widget-message-wallpapers-body = Apporta alcun energia de die de match a tu navigator pro le torneo.
 newtab-sports-widget-message-wallpapers-cta = Eliger fundo
-newtab-sports-widget-message-wallpapers-semifinals-title = Obtene un nove fundo de schermo pro le semifinales
-newtab-sports-widget-message-wallpapers-semifinals-body = Definir le stage pro le major matches de Cuppa del Mundo .
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adder widgets
 newtab-sports-widget-message-day-in-play-title = Mantene tu die in joco con le widgets de  { -brand-product-name }

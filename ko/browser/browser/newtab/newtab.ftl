@@ -1118,9 +1118,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = 위치 제안
-newtab-weather-cancel-input =
-    .aria-label = 취소
-    .title = 취소
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = 현재 위치 사용
@@ -1377,10 +1374,6 @@ newtab-widget-lists-menu-create = 새 목록 만들기
 newtab-widget-lists-menu-delete = 이 목록 삭제
 newtab-widget-lists-menu-copy = 클립보드에 목록 복사
 newtab-widget-lists-menu-learn-more = 더 알아보기
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = 목록 변경
-    .title = 목록 변경
 newtab-widget-lists-button-add-item = 항목 추가
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = 항목 추가
@@ -1790,8 +1783,6 @@ newtab-sports-widget-team-tbd = 미정
 newtab-sports-widget-message-wallpapers-title = 새로운 배경 화면으로 월드컵을 시작하세요
 newtab-sports-widget-message-wallpapers-body = 토너먼트 기간 동안 브라우저에 경기 날의 생생한 열기를 더해 보세요.
 newtab-sports-widget-message-wallpapers-cta = 배경 화면 선택
-newtab-sports-widget-message-wallpapers-semifinals-title = 새 준결승전 배경 화면을 받으세요
-newtab-sports-widget-message-wallpapers-semifinals-body = 월드컵에서 가장 큰 성패를 가릴 수 있는 발판을 마련하세요.
 newtab-sports-widget-message-add-widgets-cta =
     .label = 위젯 추가
 newtab-sports-widget-message-day-in-play-title = { -brand-product-name } 위젯으로 활기를 되찾으세요

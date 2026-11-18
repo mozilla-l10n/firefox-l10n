@@ -1155,9 +1155,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Sugjerime vendndodhjeje
-newtab-weather-cancel-input =
-    .aria-label = Anuloje
-    .title = Anuloje
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Përdor vendndodhjen e tanishme
@@ -1413,10 +1410,6 @@ newtab-widget-lists-menu-create = Krijoni një listë të re
 newtab-widget-lists-menu-delete = Fshije këtë listë
 newtab-widget-lists-menu-copy = Kopjoje listën në të papastër
 newtab-widget-lists-menu-learn-more = Mësoni më tepër
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Ndryshoni listën
-    .title = Ndryshoni listën
 newtab-widget-lists-button-add-item = Shtoni një objekt
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Shtoni një objekt
@@ -1836,8 +1829,6 @@ newtab-sports-widget-team-tbd = Për t’u përcaktuar
 newtab-sports-widget-message-wallpapers-title = Festoni fillimin e Botërorit me sfonde të rinj
 newtab-sports-widget-message-wallpapers-body = Shtoni te shfletuesi juaj pak energji dite ndeshjesh gjatë turneut
 newtab-sports-widget-message-wallpapers-cta = Zgjidhni sfond
-newtab-sports-widget-message-wallpapers-semifinals-title = Merrni një sfond të ri për gjysmëfinalet
-newtab-sports-widget-message-wallpapers-semifinals-body = Bëni gati atmosferën për ndeshjet më të fuqishme të Botërorit.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Shtoni widget-e
 newtab-sports-widget-message-day-in-play-title = Bëjeni ditën tuaj më dinamike me widget-e { -brand-product-name }-i

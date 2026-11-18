@@ -1205,9 +1205,6 @@ newtab-weather-search-back-button =
 # lists matching locations as the user types.
 newtab-weather-location-search-results =
     .aria-label = Navrhované lokality
-newtab-weather-cancel-input =
-    .aria-label = Zrušit
-    .title = Zrušit
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Použít aktuální polohu
@@ -1484,10 +1481,6 @@ newtab-widget-lists-menu-create = Vytvoření nového seznamu
 newtab-widget-lists-menu-delete = Smazat tento seznam
 newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
 newtab-widget-lists-menu-learn-more = Zjistit více
-# "Change" is a verb here: the button switches which list is shown
-newtab-widget-lists-change-list =
-    .aria-label = Změnit seznam
-    .title = Změnit seznam
 newtab-widget-lists-button-add-item = Přidat položku
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Přidat položku
@@ -1923,8 +1916,6 @@ newtab-sports-widget-team-tbd = Bude upřesněno
 newtab-sports-widget-message-wallpapers-title = Odstartujte světový šampionát s novými tapetami
 newtab-sports-widget-message-wallpapers-body = Vneste do svého prohlížeče trochu té zápasové energie na dobu turnaje.
 newtab-sports-widget-message-wallpapers-cta = Zvolte si tapetu
-newtab-sports-widget-message-wallpapers-semifinals-title = Získejte novou tapetu pro semi-finále
-newtab-sports-widget-message-wallpapers-semifinals-body = Připravte si půdu pro nejvýznamnější zápasy mistrovství světa.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Přidat widgety
 newtab-sports-widget-message-day-in-play-title =
