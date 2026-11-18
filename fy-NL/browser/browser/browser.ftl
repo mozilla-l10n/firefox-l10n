@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Diele…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Website-ynformaasje werjaan
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsore
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Freegje
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1289,6 +1297,20 @@ plugin-crashed-notification-submit-button =
     .label = Stjoer in ûngelokrapport
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1339,6 +1361,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1489,9 +1514,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = In part of al jo navigaasjegegevens fuortsmite
-    .tooltiptext = In part of al jo navigaasjegegevens fuortsmite
 fire-button-panel-heading = Alle navigaasjegegevens fuortsmite?
 fire-button-panel-description = Dit smyt skiednis, cookies en websitegegevens fuort. Jo wurde ôfmeld fan websites. Dit finster sil slute, en { -brand-short-name } sil in nij finster iepenje.
 fire-button-panel-choose-description = As jo net alles fuortsmite wolle, kies yn stee derfan dan spesifike gegevens.
@@ -1602,6 +1624,13 @@ file-picker-crashed-open = It Windows-bestânsdialoochfinster is ferûngelokke. 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = It Windows-bestânsdialoochfinster is ferûngelokke. It bestân wurdt bewarre yn { $path }.
 file-picker-crashed-save-nowhere = It Windows-bestânsdialoochfinster is ferûngelokke. Der is gjin standertmap fûn; it bestân sil net bewarre wurde.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Yn map toane
     .accessKey = m
@@ -1677,6 +1706,9 @@ trustpanel-blocker-see-all = Alles besjen
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Beskerming tsjin folgjen foar { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
