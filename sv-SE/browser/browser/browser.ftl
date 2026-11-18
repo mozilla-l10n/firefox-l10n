@@ -1320,6 +1320,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Vilseledande webbplats!
+safebrowsing-reported-attack-site-message = Rapporterat skadlig plats!
+safebrowsing-reported-unwanted-site-message = Rapporterad webbplats med oönskad programvara!
+safebrowsing-reported-harmful-site-message = Rapporterad skadlig webbplats!
+safebrowsing-get-me-out-of-here-button =
+    .label = Ta mig härifrån!
+    .accesskey = T
+safebrowsing-not-a-deceptive-site-button =
+    .label = Detta är inte en vilseledande webbplats…
+    .accesskey = v
+safebrowsing-not-an-attack-site-button =
+    .label = Detta är inte en angreppswebbplats…
+    .accesskey = e
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1331,6 +1344,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Menade du att gå till { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ja, ta mig till { $hostName }
+    .accesskey = J
 
 ## Password save/update panel
 
