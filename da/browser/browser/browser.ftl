@@ -1318,6 +1318,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Vildledende websted!
+safebrowsing-reported-attack-site-message = Anmeldt angrebswebsted!
+safebrowsing-reported-unwanted-site-message = Anmeldt websted med uønsket software!
+safebrowsing-reported-harmful-site-message = Anmeldt skadeligt websted!
+safebrowsing-get-me-out-of-here-button =
+    .label = Få mig væk herfra!
+    .accesskey = F
+safebrowsing-not-a-deceptive-site-button =
+    .label = Dette er ikke et vildledende websted…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Dette er ikke et websted som spreder skadelig software…
+    .accesskey = D
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
