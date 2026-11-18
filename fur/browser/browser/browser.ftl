@@ -1218,6 +1218,11 @@ plugin-crashed-notification-submit-button =
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Tu scugnis eseguî l'acès a cheste rêt prime di podê lâ su internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Vierç la pagjine di acès de rêt
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -1225,6 +1230,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Volevistu lâ su { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Sì, puartimi su { $hostName }
+    .accesskey = S
 
 ## Password save/update panel
 
