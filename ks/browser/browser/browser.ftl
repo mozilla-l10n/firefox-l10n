@@ -268,6 +268,13 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-reported-attack-site-message = حملئ ور سایٹ كریو بیان
+safebrowsing-get-me-out-of-here-button =
+    .label = مے کڈیو ییمہ منز نیبر!&
+    .accesskey = G
+safebrowsing-not-an-attack-site-button =
+    .label = یہ چھ نْہ & اکھ حملْہ سایِٹ۔ ۔ ۔
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
