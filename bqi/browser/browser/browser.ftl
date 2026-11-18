@@ -1212,6 +1212,9 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-not-a-deceptive-site-button =
+    .label = یو ی وبگه بلا کوننده نؽ…
+    .accesskey = ب
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1223,6 +1226,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = خاستین و { $hostName } ریوین؟
+keyword-uri-fixup-go-to-button =
+    .label = هری، مونه و { $hostName } بوور
+    .accesskey = ه
 
 ## Password save/update panel
 
