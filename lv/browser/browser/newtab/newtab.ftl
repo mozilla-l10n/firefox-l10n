@@ -1494,8 +1494,8 @@ newtab-widget-section-maximize =
     .aria-label = Izvērst visus logrīkus pilnā izmērā
     .title = Izvērst logrīkus
 newtab-widget-section-minimize =
-    .aria-label = Sakļaut visus logrīkus kompaktā izmērā
-    .title = Minimizēt logrīkus
+    .aria-label = Sakļaut visus logrīkus ciešā izmērā
+    .title = Samazināt logrīkus
 # Shown on the widgets section header button while the section is
 # auto-minimized to its title row, to open the section back up.
 newtab-widget-section-show-widgets =
