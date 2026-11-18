@@ -616,6 +616,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Tendéncias sus { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Mostrar pas las recèrcas popularas
+    .accesskey = M
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Mostrar pas las recèrcas popularas
     .accesskey = M
 # The result menu labels shown next to trending results.
