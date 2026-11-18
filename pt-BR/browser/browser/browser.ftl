@@ -1337,6 +1337,7 @@ safebrowsing-not-an-attack-site-button =
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Você precisa se autenticar nesta rede para poder acessar a internet.
 # Shown in all tabs except the login page tab. Clicking it shows the portal
 # login page tab.
 captive-portal-show-login-page-button =
