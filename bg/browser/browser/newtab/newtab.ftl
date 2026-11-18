@@ -222,7 +222,7 @@ newtab-search-box-input =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Добавяне на търсеща машина
-newtab-topsites-add-shortcut-header = Нова клавишна комбинация
+newtab-topsites-add-shortcut-header = Нов пряк път
 newtab-topsites-edit-shortcut-header = Промяна на икона
 newtab-topsites-add-shortcut-label = Добавяне на пряк път
 newtab-topsites-add-shortcut-title =
