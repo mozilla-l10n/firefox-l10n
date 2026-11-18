@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Condividi…
     .accesskey = C
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualizza informazioni sul sito
 
@@ -306,6 +309,11 @@ search-one-offs-add-engine =
     .aria-label = Aggiungi motore di ricerca “{ $engineName }”
     .label = Aggiungi “{ $engineName }”
     .tooltiptext = Aggiungi motore di ricerca “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Aggiungi motore di ricerca
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -751,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizzato
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Chiedi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1367,6 +1380,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1516,9 +1532,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Elimina in parte o del tutto i dati di navigazione
-    .tooltiptext = Elimina in parte o del tutto i dati di navigazione
 fire-button-panel-heading = Eliminare tutti i dati di navigazione?
 fire-button-panel-description = Questa operazione elimina cronologia, cookie e dati dei siti web. Verrai disconnesso dai siti. Questa finestra verrà chiusa e { -brand-short-name } ne aprirà una nuova.
 fire-button-panel-choose-description = Se non vuoi eliminare tutto, seleziona i dati che desideri eliminare.
@@ -1624,6 +1637,13 @@ file-picker-crashed-open = La finestra di selezione file di Windows si è chiusa
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Il file verrà salvato come { $path }.
 file-picker-crashed-save-nowhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Non è stata trovata una cartella predefinita e il file non verrà salvato.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostra nella cartella
     .accessKey = M
@@ -1702,6 +1722,9 @@ trustpanel-blocker-see-all = Mostra tutti
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezioni antitracciamento per { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
