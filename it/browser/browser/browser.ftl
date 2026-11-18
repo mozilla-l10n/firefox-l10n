@@ -135,6 +135,17 @@ urlbar-result-menu-manage-firefox-suggest2 = Gestisci { -firefox-suggest-brand-n
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Segnala posizione non precisa
+    .accesskey = S
+urlbar-result-menu-show-less-frequently3 = Mostra meno frequentemente
+    .accesskey = M
+urlbar-result-menu-dont-show-weather-suggestions3 = Non mostrare suggerimenti sul meteo
+    .accesskey = N
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Segnala posizione non precisa
 urlbar-result-menu-show-less-frequently2 = Mostra meno frequentemente
 urlbar-result-menu-dont-show-weather-suggestions2 = Non mostrare suggerimenti sul meteo
@@ -837,6 +848,9 @@ urlbar-result-realtime-opt-in-allow = Mostra suggerimenti
 urlbar-result-realtime-opt-in-not-now = Non adesso
 urlbar-result-realtime-opt-in-dismiss = Chiudi
 urlbar-result-realtime-opt-in-dismiss-all2 = Non mostrare questi suggerimenti
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Non mostrare suggerimenti sui mercati
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Non mostrare suggerimenti sui mercati
 urlbar-result-realtime-opt-in-dismiss-all =
