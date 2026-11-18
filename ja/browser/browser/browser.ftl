@@ -1292,6 +1292,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = 詐欺サイトとして報告されています！
+safebrowsing-reported-attack-site-message = 攻撃サイトとして報告されています！
+safebrowsing-reported-unwanted-site-message = 望ましくないソフトウェアサイトとして報告されています！
+safebrowsing-reported-harmful-site-message = 有害サイトとして報告されています！
+safebrowsing-get-me-out-of-here-button =
+    .label = スタートページに戻る
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = 詐欺サイトの誤報告を指摘...
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = 攻撃サイトの誤報告を指摘...
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -1303,6 +1316,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = { $hostName } へ移動しようとしましたか？
+keyword-uri-fixup-go-to-button =
+    .label = はい、{ $hostName } へ移動します
+    .accesskey = Y
 
 ## Password save/update panel
 
