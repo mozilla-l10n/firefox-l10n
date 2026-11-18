@@ -961,6 +961,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Ngetren di { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Jangan tampilkan penelusuran ngetren
+    .accesskey = J
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Jangan tampilkan penelusuran ngetren
     .accesskey = J
 # The result menu labels shown next to trending results.
