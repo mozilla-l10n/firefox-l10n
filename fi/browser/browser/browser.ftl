@@ -1311,6 +1311,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Petollinen sivusto!
+safebrowsing-reported-attack-site-message = Ilmoitettu hyökkäyssivusto!
+safebrowsing-reported-unwanted-site-message = Ilmoitettu ei-haluttuja sovelluksia jakava sivusto!
+safebrowsing-reported-harmful-site-message = Ilmoitettu haitallinen sivusto!
+safebrowsing-get-me-out-of-here-button =
+    .label = Siirry pois sivustolta!
+    .accesskey = S
+safebrowsing-not-a-deceptive-site-button =
+    .label = Tämä ei ole petollinen sivusto…
+    .accesskey = e
+safebrowsing-not-an-attack-site-button =
+    .label = Tämä ei ole hyökkäyssivusto…
+    .accesskey = e
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
