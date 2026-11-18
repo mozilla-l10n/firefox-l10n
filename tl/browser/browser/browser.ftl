@@ -720,6 +720,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Mapanlinlang na Site!
+safebrowsing-reported-attack-site-message = Iniulat na Attack Site!
+safebrowsing-reported-unwanted-site-message = Iniulat na Unwanted Software Site!
+safebrowsing-reported-harmful-site-message = Iniulat ang Mapanganib na Site!
+safebrowsing-get-me-out-of-here-button =
+    .label = Itakas mo ako rito!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Hindi ito isang mapanlinlang na site…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Hindi ito isang attack site...
+    .accesskey = A
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
@@ -731,6 +744,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Ang ibig mo bang sabihin ay pumunta sa { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Oo, dalhin mo ako sa { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
