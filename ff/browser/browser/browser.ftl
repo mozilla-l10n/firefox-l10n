@@ -495,6 +495,10 @@ captive-portal-show-login-page-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Mbele ɗuum ina firta yo a yah e { $hostName }
+keyword-uri-fixup-go-to-button =
+    .label = Eey, naw am to { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
