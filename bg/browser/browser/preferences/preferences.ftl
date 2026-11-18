@@ -1288,7 +1288,7 @@ forms-primary-pw-on-2 = Главната парола е <strong>ВКЛЮЧЕН�
 forms-primary-pw-on =
     .label = Главната парола е ВКЛЮЧЕНА
 forms-primary-pw-change-2 =
-    .label = Промяна на основната парола
+    .label = Промяна на главната парола
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = Изключете

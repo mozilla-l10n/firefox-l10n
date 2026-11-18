@@ -38,10 +38,12 @@ firefoxview-tabpickup-sync-disconnected-header = Включете синхрон
 firefoxview-tabpickup-sync-disconnected-description = За да вземете разделите, ще трябва да разрешите синхронизиране във { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Включете синхронизирането в настройките
 firefoxview-tabpickup-password-locked-header = Въведете вашата главна парола, за да видите разделите
-firefoxview-tabpickup-password-locked-description = За да вземете разделите, ще трябва да въведете основната парола за { -brand-short-name }.
+firefoxview-tabpickup-password-locked-description = За да вземете разделите, ще трябва да въведете главната парола за { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Научете повече
 firefoxview-tabpickup-password-locked-primarybutton = Въведете главната парола
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Научете повече</a>
+firefoxview-tabpickup-password-locked-header-2 = Отключете разделите с главната парола
+firefoxview-tabpickup-password-locked-description-2 = За ваша поверителност синхронизираните раздели са защитени. Въведете главната парола за { -brand-short-name }, за да видите разделите от другите си устройства.
 firefoxview-tabpickup-signed-out-header = Впишете се, за да се свържете отново
 firefoxview-tabpickup-signed-out-description2 = За да се свържете отново и да отворите вашите раздели, първо влезте в профила си.
 firefoxview-tabpickup-signed-out-primarybutton = Вписване

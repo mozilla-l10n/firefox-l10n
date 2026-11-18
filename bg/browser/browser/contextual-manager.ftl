@@ -264,4 +264,8 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Промените няма да бъдат запазени.
 contextual-manager-passwords-discard-changes-close-button = Затваряне
 contextual-manager-passwords-discard-changes-go-back-button = Връщане назад
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = За да видите запазените пароли, въведете главната парола.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Въведете главната парола
 contextual-manager-primary-password-learn-more-link = Научете повече
