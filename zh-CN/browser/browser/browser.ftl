@@ -822,6 +822,9 @@ urlbar-result-realtime-opt-in-not-now = 暂时不要
 urlbar-result-realtime-opt-in-dismiss = 知道了
 urlbar-result-realtime-opt-in-dismiss-all2 = 不再显示此类建议
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = 不再显示市场建议
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = 不再显示市场建议
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = 不再显示此类建议
