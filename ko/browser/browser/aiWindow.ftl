@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = 빠름
 aiwindow-input-model-select-button-label-allpurpose = 유연함
 aiwindow-input-model-select-button-label-personal = 맞춤형
 aiwindow-input-model-select-button-label-custom = 사용자 지정
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = 자동
 aiwindow-input-model-select-default-badge =
     .label = 기본
     .title = 선택된 기본 모델
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = 추천
+    .title = 추천 모델
 aiwindow-input-model-select-settings-link = 모델 설정
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name }가 작업에 가장 적합한 모델을 선택합니다
+aiwindow-input-model-select-fast-description = 빠르게 이동할 때 신속한 답변을 제공합니다
+aiwindow-input-model-select-flexible-description = 다양한 작업에 유연하게 대응합니다
+aiwindow-input-model-select-personal-description = 여러 언어로 채팅하고 탐색할 때 유용합니다
 
 ## Firstrun memories onboarding
 
