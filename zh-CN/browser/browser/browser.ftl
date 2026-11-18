@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 共享…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 查看网站信息
 
@@ -306,6 +309,11 @@ search-one-offs-add-engine =
     .aria-label = 添加搜索引擎“{ $engineName }”
     .label = 添加“{ $engineName }”
     .tooltiptext = 添加搜索引擎“{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = 添加搜索引擎
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -747,6 +755,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 赞助
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 询问
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1256,6 +1269,20 @@ plugin-crashed-notification-submit-button =
     .label = 提交崩溃报告
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1302,6 +1329,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1450,9 +1480,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = 删除部分或所有浏览数据
-    .tooltiptext = 删除部分或所有浏览数据
 fire-button-panel-heading = 确定要删除所有浏览数据吗？
 fire-button-panel-description = 这将删除历史记录、Cookie 和网站数据，并退出网站登录。本窗口将关闭，然后 { -brand-short-name } 会打开新窗口。
 fire-button-panel-choose-description = 若不想全部删除，也可选择要删除的数据。
@@ -1554,6 +1581,13 @@ file-picker-crashed-open = Windows 文件对话框发生崩溃，无法选择文
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 文件对话框发生崩溃，此文件将保存至 { $path }。
 file-picker-crashed-save-nowhere = Windows 文件对话框发生崩溃，且找不到默认文件夹，此文件将不会保存。
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 在文件夹中显示
     .accessKey = F
@@ -1629,6 +1663,9 @@ trustpanel-blocker-see-all = 查看全部
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = 跟踪保护：{ $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
