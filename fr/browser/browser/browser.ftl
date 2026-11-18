@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partager…
     .accesskey = P
+
+##
+
 urlbar-identity-button =
     .aria-label = Afficher les informations du site
 
@@ -310,6 +313,11 @@ search-one-offs-add-engine =
     .aria-label = Ajouter le moteur de recherche « { $engineName } »
     .label = Ajouter « { $engineName } »
     .tooltiptext = Ajouter le moteur de recherche « { $engineName } »
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Ajouter un moteur de recherche
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -755,6 +763,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisé
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Demander
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1288,6 +1301,20 @@ plugin-crashed-notification-submit-button =
     .label = Envoyer un rapport de plantage
     .accesskey = r
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1338,6 +1365,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = G
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,9 +1518,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Supprimer tout ou partie de vos données de navigation
-    .tooltiptext = Supprimer tout ou partie de vos données de navigation
 fire-button-panel-heading = Supprimer toutes les données de navigation ?
 fire-button-panel-description = Cette action efface l’historique, les cookies et les données des sites. Vous serez déconnecté·e des sites. Cette fenêtre se fermera et { -brand-short-name } en ouvrira une nouvelle.
 fire-button-panel-choose-description = Si vous ne souhaitez pas tout supprimer, sélectionnez plutôt des données spécifiques.
@@ -1596,6 +1623,13 @@ file-picker-crashed-open = La boîte de dialogue de fichiers de Windows a plant�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La boîte de dialogue de fichiers de Windows a planté. Le fichier sera enregistré à l’emplacement { $path }.
 file-picker-crashed-save-nowhere = La boîte de dialogue de fichiers de Windows a planté. Aucun dossier de sauvegarde par défaut n’a pu être trouvé, le fichier ne sera pas enregistré.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Afficher dans le dossier
     .accessKey = d
@@ -1671,6 +1705,9 @@ trustpanel-blocker-see-all = Tout afficher
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protections contre le pistage pour { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
