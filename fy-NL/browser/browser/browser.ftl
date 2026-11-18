@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = No net
 urlbar-result-realtime-opt-in-dismiss = Slute
 urlbar-result-realtime-opt-in-dismiss-all2 = Dizze foarstellen net toane
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Gjin beurssuggestjes toane
+    .accesskey = G
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Gjin beurssuggestjes toane
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Dizze foarstellen net toane
