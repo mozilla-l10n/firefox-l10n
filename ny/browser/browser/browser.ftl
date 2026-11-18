@@ -23,6 +23,7 @@
 
 ## URLbar context menu
 
+
 ## Searchbar context menu
 
 
@@ -134,6 +135,7 @@
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
+
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
 
@@ -142,6 +144,24 @@
 
 
 ## Notification bars for media playback issues
+
+
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-get-me-out-of-here-button =
+    .label = Ndichotseni pano!
+    .accesskey = N
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
 
 ## Password save/update panel
 
@@ -158,9 +178,6 @@
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##
@@ -186,6 +203,7 @@ navbar-downloads =
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 
@@ -210,6 +228,7 @@ navbar-downloads =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+
 ## Autorefresh blocker
 
 
@@ -230,6 +249,12 @@ navbar-downloads =
 #
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Unsigned add-ons notification
+
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
 
 ## Onboarding Finish Setup checklist

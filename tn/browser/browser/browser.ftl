@@ -69,6 +69,11 @@ full-screen-exit =
 
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Tsenya selaodisi kgolo sa patlo
+    .accesskey = T
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Tsenya selaodisi kgolo sa patlo
 
@@ -301,6 +306,32 @@ plugin-crashed-notification-reload-button =
 plugin-crashed-notification-submit-button =
     .label = Romela pegelo ya palelo
     .accesskey = R
+
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-reported-attack-site-message = Saete e Begilweng ya Tlhaselo!
+safebrowsing-reported-unwanted-site-message = Saete e Begilweng ya Serweboleta se sa Batliweng!
+safebrowsing-get-me-out-of-here-button =
+    .label = Nkentshe fa!
+    .accesskey = N
+safebrowsing-not-an-attack-site-button =
+    .label = Ga se saete ya tlhaselo...
+    .accesskey = s
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = A o raya gore o ya ko { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ee, nkise ko { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 

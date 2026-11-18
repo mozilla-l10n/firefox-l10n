@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Chia sẻ…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Xem thông tin trang
 
@@ -127,6 +130,17 @@ urlbar-result-menu-remove-top-site = Xóa trang web hàng đầu này
     .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = Quản lý { -firefox-suggest-brand-name }
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Báo cáo vị trí không chính xác
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = Hiển thị ít thường xuyên hơn
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = Không hiển thị đề xuất về thời tiết
+    .accesskey = n
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -306,6 +320,11 @@ search-one-offs-add-engine =
     .aria-label = Thêm công cụ tìm kiếm “{ $engineName }”
     .label = Thêm “{ $engineName }”
     .tooltiptext = Thêm công cụ tìm kiếm “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Thêm dịch vụ tìm kiếm
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -747,6 +766,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Được tài trợ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Hỏi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -808,6 +832,9 @@ urlbar-result-realtime-opt-in-allow = Hiển thị đề xuất
 urlbar-result-realtime-opt-in-not-now = Để sau
 urlbar-result-realtime-opt-in-dismiss = Bỏ qua
 urlbar-result-realtime-opt-in-dismiss-all2 = Không hiển thị những đề xuất này
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Không hiển thị đề xuất thị trường
+    .accesskey = n
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Không hiển thị đề xuất thị trường
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -992,6 +1019,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Đang thịnh hành trên { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Không hiển thị các tìm kiếm thịnh hành
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Không hiển thị các tìm kiếm thịnh hành
     .accesskey = K
@@ -1256,6 +1286,42 @@ plugin-crashed-notification-submit-button =
     .label = Gửi báo cáo lỗi
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Trang web lừa đảo!
+safebrowsing-reported-attack-site-message = Có người báo đây là trang web có ác ý!
+safebrowsing-reported-unwanted-site-message = Trang này có nghi ngờ cài đặt phần mềm không mong muốn!
+safebrowsing-reported-harmful-site-message = Báo cáo trang web độc hại!
+safebrowsing-get-me-out-of-here-button =
+    .label = Đưa tôi ra khỏi đây!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Đây không phải là một trang lừa đảo…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Trang này không có ác ý…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Bạn phải đăng nhập vào hệ thống này trước khi bạn có thể truy cập Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Mở trang đăng nhập hệ thống
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Có phải bạn muốn truy cập { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Đúng, đưa tôi đến { $hostName }
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1302,6 +1368,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1450,9 +1519,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Xóa một phần hoặc toàn bộ dữ liệu duyệt web của bạn
-    .tooltiptext = Xóa một phần hoặc toàn bộ dữ liệu duyệt web của bạn
 fire-button-panel-heading = Xoá toàn bộ dữ liệu duyệt web?
 fire-button-panel-description = Thao tác này sẽ xóa lịch sử, cookie và dữ liệu trang web. Bạn sẽ bị đăng xuất khỏi trang web. Cửa sổ này sẽ đóng lại và { -brand-short-name } sẽ mở một cửa sổ mới.
 fire-button-panel-choose-description = Nếu bạn không muốn xóa toàn bộ, hãy chọn xóa dữ liệu cụ thể.
@@ -1557,6 +1623,13 @@ file-picker-crashed-open = Không thể mở hộp thoại tập tin Windows. Kh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Hộp thoại tập tin Windows đã bị lỗi. Tập tin sẽ được lưu vào { $path }.
 file-picker-crashed-save-nowhere = Hộp thoại tập tin Windows đã bị lỗi. Không tìm thấy thư mục mặc định; tập tin sẽ không được lưu.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Hiển thị trong thư mục
     .accessKey = F
@@ -1632,6 +1705,9 @@ trustpanel-blocker-see-all = Xem tất cả
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Trình chống theo dõi cho { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

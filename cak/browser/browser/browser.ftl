@@ -11,6 +11,9 @@ browser-main-window-default-title = { -brand-full-name }
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Ichinan okem pa k'amaya'l
+
+##
+
 urlbar-identity-button =
     .aria-label = Titz'et retamab'al ruxaq k'amaya'l
 
@@ -205,6 +208,11 @@ search-one-offs-add-engine =
     .aria-label = Titz'aqatisäx kanob'äl “{ $engineName }”
     .label = Titz'aqatisäx “{ $engineName }”
     .tooltiptext = Titz'aqatisäx kanob'äl “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Titz'aqatisäx Kanob'äl
+    .accesskey = T
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -432,6 +440,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Tichup ri komon ruwäch chajinïk pa re molojri'ïl re'
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -586,6 +597,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Temen
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Tik'utüx
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -968,6 +984,42 @@ plugin-crashed-notification-submit-button =
     .label = Tik'ut pe jun rutzijol chi rij sachoj
     .accesskey = T
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = ¡Q'olonel Ruxaq K'amaya'l!
+safebrowsing-reported-attack-site-message = ¡Re ruxaq k'amaya'l re' k'ayew rik'in!
+safebrowsing-reported-unwanted-site-message = ¡Ruxaq k'amaya'l ri k'o itzel kema' chupam!
+safebrowsing-reported-harmful-site-message = ¡Ruxaq K'amaya'l ya'on rutzijol chi nitzelan!
+safebrowsing-get-me-out-of-here-button =
+    .label = Kinawelesaj el wawe!
+    .accesskey = K
+safebrowsing-not-a-deceptive-site-button =
+    .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…
+    .accesskey = q
+safebrowsing-not-an-attack-site-button =
+    .label = Re re' man jun tz'ilonel ta ruxaq k'amaya'l…
+    .accesskey = j
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = K'o chi natikirsaj molojri'ïl pa re k'amab'ey re' chuwäch yatok pa k'amaya'l.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Tijaq tikirib'äl ruxaq rumolojri'ïl k'amab'ey
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = ¿Rik'in jub'a' k'o chi yab'e pa { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ja', kinak'waj pa { $hostName }
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -984,6 +1036,10 @@ menu-share-windows =
     .label = Ch'aqa' chik taq Cha'oj
 ui-tour-info-panel-close =
     .tooltiptext = Titz'apïx
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -1002,6 +1058,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = k
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1036,11 +1095,24 @@ tabs-toolbar-list-all-tabs =
     .label = Kecholajïx ronojel taq ruwi'
     .tooltiptext = Kecholajïx ronojel taq ruwi'
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> ¿La yejaq taq ruwi' xe'ik'o yan?</strong> Yatikïr natzolij ri amolojri'ïl pa ri rucha'ob'äl choköy{ -brand-short-name } <img data-l10n-name="icon"/>, pa Natab'äl.
 restore-session-startup-suggestion-button = Tik'ut achi'el
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1083,6 +1155,10 @@ unified-extensions-button-quarantined =
         Taq k'amal
         Jujun taq k'amal man ya'on ta q'ij chi ke
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -1093,6 +1169,10 @@ reset-pbm-panel-cancel-button =
     .accesskey = q
 reset-pbm-panel-complete = Xeyuj ri taq rutzij ichinan molojri'il
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } man xuya' ta q'ij richin xsamäj ta el pa ruyonil.
@@ -1100,6 +1180,9 @@ refresh-blocked-redirect-label = { -brand-short-name } man xuya' ta q'ij chi re 
 refresh-blocked-allow =
     .label = Tiya' q'ij
     .accesskey = y
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -1152,6 +1235,13 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Tik'ut pa Molyakb'äl
     .accessKey = M
@@ -1179,6 +1269,9 @@ process-hang-stop-button =
     .label = Tiq'at
     .accesskey = q
 
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust icon & panel
 
 trustpanel-connection-label-secure = Rujikomal okem
@@ -1193,6 +1286,9 @@ trustpanel-clear-cookies-description = Yeruyüj taq kuki chuqa' taq rutzij ruxaq
 trustpanel-clear-cookies-subview-button-clear = Tijosq'ïx
 trustpanel-clear-cookies-subview-button-cancel = Tiq'at
 trustpanel-blocker-see-all = Titzet Ronojel
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

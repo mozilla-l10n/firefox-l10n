@@ -23,6 +23,7 @@
 
 ## URLbar context menu
 
+
 ## Searchbar context menu
 
 
@@ -152,6 +153,7 @@ bookmarks-toolbar-placeholder-button =
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
+
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
 
@@ -160,6 +162,25 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Notification bars for media playback issues
+
+
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-reported-attack-site-message = Сүйтгэх довтолгоотой гэж мэдэгдсэн хуудас!
+safebrowsing-not-an-attack-site-button =
+    .label = Энэ сүйтгэх довтолгоо хийдэг хуудас биш…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
 
 ## Password save/update panel
 
@@ -176,9 +197,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##
@@ -209,6 +227,7 @@ tabs-toolbar-list-all-tabs =
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 
@@ -232,6 +251,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -262,6 +282,12 @@ popup-show-popup-menuitem =
 #
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Unsigned add-ons notification
+
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
 
 ## Onboarding Finish Setup checklist

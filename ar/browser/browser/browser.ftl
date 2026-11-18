@@ -38,6 +38,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = شارك…
     .accesskey = ر
+
+##
+
 urlbar-identity-button =
     .aria-label = اعرض معلومات الموقع
 
@@ -105,6 +108,17 @@ urlbar-result-menu-dismiss-suggestion2 = أهمل هذا الاقتراح
     .accesskey = م
 urlbar-result-menu-manage-firefox-suggest2 = أدر { -firefox-suggest-brand-name }
     .accesskey = د
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = بلّغ عن موقع غير دقيق
+    .accesskey = ب
+urlbar-result-menu-show-less-frequently3 = اعرض أقل تواترا
+    .accesskey = ا
+urlbar-result-menu-dont-show-weather-suggestions3 = لا تعرض اقتراحات الطقس
+    .accesskey = ل
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -284,6 +298,11 @@ search-one-offs-add-engine =
     .aria-label = أضِف محرك البحث ”{ $engineName }“
     .label = أضِف ”{ $engineName }“
     .tooltiptext = أضِف محرك البحث ”{ $engineName }“
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = أضف محرك بحث
+    .accesskey = أ
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -733,6 +752,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · مموّل
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = اسأل
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -767,6 +791,9 @@ urlbar-result-realtime-opt-in-allow = اعرض الاقتراحات
 urlbar-result-realtime-opt-in-not-now = ليس الآن
 urlbar-result-realtime-opt-in-dismiss = أهمِل
 urlbar-result-realtime-opt-in-dismiss-all2 = لا تعرض هذه الاقتراحات
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = لا تعرض اقتراحات السوق
+    .accesskey = ل
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = لا تعرض اقتراحات السوق
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -967,6 +994,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = مُتداول في { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = لا تعرض عمليات البحث المُتداولة
+    .accesskey = ل
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = لا تعرض عمليات البحث المُتداولة
     .accesskey = م
@@ -1231,6 +1261,42 @@ plugin-crashed-notification-submit-button =
     .label = بلّغ عن الانهيار
     .accesskey = ن
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = موقع مخادع!
+safebrowsing-reported-attack-site-message = موقع هجمات مُبلغ عنه!
+safebrowsing-reported-unwanted-site-message = موقع غير مرغوب فيه مبلّغ عنه!
+safebrowsing-reported-harmful-site-message = موقع ضار مُبلّغ عنه!
+safebrowsing-get-me-out-of-here-button =
+    .label = أخرجني من هنا!
+    .accesskey = ه
+safebrowsing-not-a-deceptive-site-button =
+    .label = هذا ليس موقعًا مخادعًا…
+    .accesskey = م
+safebrowsing-not-an-attack-site-button =
+    .label = هذا ليس موقع هجمات…
+    .accesskey = م
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = تحتاج الولوج إلى هذه الشبكة أولا لتستطيع الوصول إلى الإنترنت.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = افتح صفحة الولوج إلى الشبكة
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = هل كنت تريد الذهاب إلى { $hostName }؟
+keyword-uri-fixup-go-to-button =
+    .label = نعم، خذني إلى { $hostName }
+    .accesskey = ن
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1285,6 +1351,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = س
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1434,9 +1503,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = احذف بعض أو كل بيانات تصفحك
-    .tooltiptext = احذف بعض أو كل بيانات تصفحك
 fire-button-panel-heading = حذف جميع بيانات التصفح؟
 fire-button-panel-description = سيؤدي هذا إلى حذف سجل التصفح وملفات تعريف الارتباط وبيانات الموقع. سيتم تسجيل خروجك من المواقع. ستُغلق هذه النافذة، وسيتم فتح نافذة جديدة باستخدام { -brand-short-name }.
 fire-button-panel-choose-description = إذا كنت لا ترغب في حذف كل شيء، فاختر بيانات محددة بدلاً من ذلك.
@@ -1537,6 +1603,13 @@ file-picker-crashed-open = انهار مربع حوار ملف ويندوز. ل�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = انهار مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
 file-picker-crashed-save-nowhere = انهار مربع حوار ملف ويندوز. لم يتم العثور على المجلد المبدئي؛ ولن يُحفظ الملف.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = اعرض في المجلد
     .accessKey = م
@@ -1612,6 +1685,9 @@ trustpanel-blocker-see-all = اعرض الكل
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = حماية التتبع لـ { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

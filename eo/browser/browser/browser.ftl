@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Dividi…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Vidi informon de la retejo
 
@@ -132,6 +135,17 @@ urlbar-result-menu-remove-top-site = Forigi tiun ĉi oftan retejon
     .accesskey = F
 urlbar-result-menu-manage-firefox-suggest2 = Administri { -firefox-suggest-brand-name }
     .accesskey = A
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Raporti neprecizan lokon
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = Montri malpli ofte
+    .accesskey = M
+urlbar-result-menu-dont-show-weather-suggestions3 = Ne montri sugestojn pri veterprognozo
+    .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -311,6 +325,11 @@ search-one-offs-add-engine =
     .aria-label = Aldoni serĉilon “{ $engineName }
     .label = Aldoni { $engineName }
     .tooltiptext = Aldoni serĉilon { $engineName }
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Aldoni serĉilon
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -756,6 +775,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patronita
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Demandi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -829,6 +853,9 @@ urlbar-result-realtime-opt-in-allow = Montri sugestojn
 urlbar-result-realtime-opt-in-not-now = Ne nun
 urlbar-result-realtime-opt-in-dismiss = Ignori
 urlbar-result-realtime-opt-in-dismiss-all2 = Ne montri tiun ĉi sugestojn
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ne montri sugestojn el akciaj merkatoj
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ne montri sugestojn el akciaj merkatoj
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1017,6 +1044,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populara en { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ne montri popularajn serĉojn
+    .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ne montri popularajn serĉojn
     .accesskey = N
@@ -1281,6 +1311,42 @@ plugin-crashed-notification-submit-button =
     .label = Sendi raporton pri paneo
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Trompa retejo!
+safebrowsing-reported-attack-site-message = Raportita ataka retejo!
+safebrowsing-reported-unwanted-site-message = Denuncita programtruda retejo!
+safebrowsing-reported-harmful-site-message = Denuncita danĝera retejo!
+safebrowsing-get-me-out-of-here-button =
+    .label = Lasu min foriri el ĉi tie!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Tiu ĉi ne estas trompa retejo…
+    .accesskey = t
+safebrowsing-not-an-attack-site-button =
+    .label = Tio ĉi ne estas ataka retejo…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Vi devas komenci seancon en tiu ĉi reto antaŭ ol vi povos aliri Interreton.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Malfermi paĝon por komenci seancon en reto
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Ĉu vi volis iri al { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Jes, bonvolu iri al { $hostName }
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1331,6 +1397,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = m
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1481,9 +1550,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Forigi ĉion aŭ parton de viaj retumaj datumoj
-    .tooltiptext = Forigi ĉion aŭ parton de viaj retumaj datumoj
 fire-button-panel-heading = Ĉu forigi ĉiujn retumajn datumojn?
 fire-button-panel-description = Tio ĉi forigas historion, kuketojn kaj retejajn datumojn. Viaj seancoj en retejoj estos finitaj. Tiu ĉi fenestro fermiĝos kaj { -brand-short-name } malfermos novan.
 fire-button-panel-choose-description = Se vi ne volas forigi ĉion, vi povas anstataŭe elekti specifajn datumojn.
@@ -1593,6 +1659,13 @@ file-picker-crashed-open = La dosiera dialogo de Windows paneis. Neniu dosierujo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La dosiera dialogo de Windows paneis. La dosiero estos konservita en { $path }.
 file-picker-crashed-save-nowhere = La dosiera dialogo de Windows paneis. Neniu norma dosierujo estis trovita do la dosiero ne estos konservita.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Montri en dosierujo
     .accessKey = d
@@ -1668,6 +1741,9 @@ trustpanel-blocker-see-all = Vidi ĉiujn
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protektoj kontraŭ spuriloj por { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

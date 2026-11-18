@@ -135,6 +135,17 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } を
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = 位置情報の誤りを報告
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = 表示頻度を減らす
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = 天気予報の提案を表示しない
+    .accesskey = n
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = 位置情報の誤りを報告
 urlbar-result-menu-show-less-frequently2 = 表示頻度を減らす
 urlbar-result-menu-dont-show-weather-suggestions2 = 天気予報の提案を表示しない
@@ -252,7 +263,7 @@ urlbar-menuitem-paste-and-go =
     .label = ペーストして移動
     .accesskey = G
 urlbar-menuitem-paste-and-search =
-    .label =  ペーストして検索
+    .label = ペーストして検索
     .accesskey = S
 
 ## Searchbar context menu
@@ -309,6 +320,11 @@ search-one-offs-add-engine =
     .label = “{ $engineName }” を追加
     .tooltiptext = 検索エンジン “{ $engineName }” を追加します
     .aria-label = 検索エンジン “{ $engineName }” を追加
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = 検索エンジンを追加
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -370,9 +386,9 @@ quickactions-cmd-inspector2 = inspector, devtools, dev tools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Pick a color
 quickactions-cmd-colorpicker = color picker, eyedropper, pick color
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
@@ -821,6 +837,9 @@ urlbar-result-realtime-opt-in-not-now = 後で
 urlbar-result-realtime-opt-in-dismiss = 閉じる
 urlbar-result-realtime-opt-in-dismiss-all2 = これらの候補を表示しない
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = 市場データの候補を表示しない
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = 市場データの候補を表示しない
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = これらの候補を表示しない
@@ -1004,6 +1023,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } の検索トレンド
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = 検索トレンドを表示しない
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 検索トレンドを表示しない
     .accesskey = D
@@ -1268,6 +1290,42 @@ plugin-crashed-notification-submit-button =
     .label = クラッシュレポートを送信
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = 詐欺サイトとして報告されています！
+safebrowsing-reported-attack-site-message = 攻撃サイトとして報告されています！
+safebrowsing-reported-unwanted-site-message = 望ましくないソフトウェアサイトとして報告されています！
+safebrowsing-reported-harmful-site-message = 有害サイトとして報告されています！
+safebrowsing-get-me-out-of-here-button =
+    .label = スタートページに戻る
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = 詐欺サイトの誤報告を指摘...
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = 攻撃サイトの誤報告を指摘...
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = インターネットへ接続するには、このネットワークにログインする必要があります。
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = ネットワークのログインページを開く
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = { $hostName } へ移動しようとしましたか？
+keyword-uri-fixup-go-to-button =
+    .label = はい、{ $hostName } へ移動します
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1471,9 +1529,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = 閲覧データの一部またはすべてを削除
-    .tooltiptext = 閲覧データの一部またはすべてを削除します
 fire-button-panel-heading = すべての閲覧データを削除しますか？
 fire-button-panel-description = この操作は履歴、Cookie、サイトデータを削除し、ウェブサイトからログアウトします。このウインドウが閉じられ、{ -brand-short-name } が新規ウインドウを開きます。
 fire-button-panel-choose-description = 削除したくないデータがある場合は、そのデータの種類を選んでください。

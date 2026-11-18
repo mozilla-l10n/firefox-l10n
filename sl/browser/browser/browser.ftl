@@ -67,6 +67,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Deli …
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Poglejte podatke o strani
 
@@ -136,6 +139,17 @@ urlbar-result-menu-remove-top-site = Odstrani izmed glavnih strani
     .accesskey = t
 urlbar-result-menu-manage-firefox-suggest2 = Upravljaj { -firefox-suggest-brand-name }
     .accesskey = U
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Prijavi netočno lokacijo
+    .accesskey = P
+urlbar-result-menu-show-less-frequently3 = Prikazuj manj pogosto
+    .accesskey = P
+urlbar-result-menu-dont-show-weather-suggestions3 = Ne prikazuj podatkov o vremenu
+    .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -315,6 +329,11 @@ search-one-offs-add-engine =
     .aria-label = Dodaj iskalnik »{ $engineName }«
     .label = Dodaj »{ $engineName }«
     .tooltiptext = Dodaj iskalnik »{ $engineName }«
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Dodaj iskalnik
+    .accesskey = D
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -762,6 +781,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Vprašaj
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -841,6 +865,9 @@ urlbar-result-realtime-opt-in-allow = Prikaži predloge
 urlbar-result-realtime-opt-in-not-now = Ne zdaj
 urlbar-result-realtime-opt-in-dismiss = Opusti
 urlbar-result-realtime-opt-in-dismiss-all2 = Ne prikazuj teh predlogov
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ne prikazuj predlogov z borze
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ne prikazuj predlogov z borze
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1035,6 +1062,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trenutno priljubljeno – { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ne prikazuj trenutno priljubljenih iskanj
+    .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ne prikazuj trenutno priljubljenih iskanj
     .accesskey = N
@@ -1299,6 +1329,42 @@ plugin-crashed-notification-submit-button =
     .label = Pošlji poročilo o sesutju
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Zavajajoča stran!
+safebrowsing-reported-attack-site-message = Napadalna stran!
+safebrowsing-reported-unwanted-site-message = Morebitna stran z neželeno programsko opremo!
+safebrowsing-reported-harmful-site-message = Prijavljena škodljiva stran!
+safebrowsing-get-me-out-of-here-button =
+    .label = Hočem stran!
+    .accesskey = H
+safebrowsing-not-a-deceptive-site-button =
+    .label = To ni zavajajoča stran …
+    .accesskey = n
+safebrowsing-not-an-attack-site-button =
+    .label = To ni napadalna stran …
+    .accesskey = N
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Preden lahko dostopate do interneta, se morate prijaviti v omrežje.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Odpri stran za prijavo v omrežje
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Ali ste želeli obiskati { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Da, odpri { $hostName }
+    .accesskey = D
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1351,6 +1417,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1617,6 +1686,13 @@ file-picker-crashed-open = Okno sistema Windows za izbiro mesta shranjevanja se 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Okno sistema Windows za izbiro mesta shranjevanja se je sesulo. Datoteka se bo shranila v { $path }.
 file-picker-crashed-save-nowhere = Okno sistema Windows za izbiro mesta shranjevanja se je sesulo. Privzete mape ni bilo mogoče najti, zato datoteka ne bo shranjena.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Prikaži v mapi
     .accessKey = m
@@ -1692,6 +1768,9 @@ trustpanel-blocker-see-all = Prikaži vse
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaščite pred sledenjem za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Ndajeni me të tjerë…
     .accesskey = N
+
+##
+
 urlbar-identity-button =
     .aria-label = Shihni hollësi sajti
 
@@ -129,6 +132,17 @@ urlbar-result-menu-remove-top-site = Hiqe këtë sajt kryesues
     .accesskey = k
 urlbar-result-menu-manage-firefox-suggest2 = Administroni { -firefox-suggest-brand-name }
     .accesskey = A
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Njoftoni për vendndodhje të pasaktë
+    .accesskey = N
+urlbar-result-menu-show-less-frequently3 = Shfaqi më rrallë
+    .accesskey = S
+urlbar-result-menu-dont-show-weather-suggestions3 = Mos shfaq sugjerime moti
+    .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -308,6 +322,11 @@ search-one-offs-add-engine =
     .aria-label = Shtoni motorin e kërkimeve “{ $engineName }”
     .label = Shtoni “{ $engineName }”
     .tooltiptext = Shtoni motorin e kërkimeve “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Shtoni motor kërkimesh
+    .accesskey = S
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -751,6 +770,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pyetni
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -824,6 +848,9 @@ urlbar-result-realtime-opt-in-allow = Shfaq sugjerime
 urlbar-result-realtime-opt-in-not-now = Jo tani
 urlbar-result-realtime-opt-in-dismiss = Hidhe tej
 urlbar-result-realtime-opt-in-dismiss-all2 = Mos i shfaq këto sugjerime
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Mos shfaq sugjerime tregu
+    .accesskey = M
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Mos shfaq sugjerime tregu
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1020,6 +1047,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Prirje te { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Mos shfaq prirje kërkimesh
+    .accesskey = M
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Mos shfaq prirje kërkimesh
     .accesskey = M
@@ -1284,6 +1314,42 @@ plugin-crashed-notification-submit-button =
     .label = Parashtroni një njoftim vithisjeje
     .accesskey = P
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Sajt i Rremë!
+safebrowsing-reported-attack-site-message = I raportuar si Sajt Sulmesh!
+safebrowsing-reported-unwanted-site-message = I raportuar si Sajt Software-i të Padëshiruar!
+safebrowsing-reported-harmful-site-message = Sajt i Raportuar Si i Dëmshëm!
+safebrowsing-get-me-out-of-here-button =
+    .label = Hiqmë prej këtej!
+    .accesskey = H
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ky s’është sajt i rremë…
+    .accesskey = R
+safebrowsing-not-an-attack-site-button =
+    .label = Ky s’është sajt sulmesh…
+    .accesskey = S
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Duhet të bëni hyrjen në këtë rrjet, përpara se të përdorni Internetin.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Hap faqe hyrjeje në rrjet
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Te { $hostName } synonit të shkonit?
+keyword-uri-fixup-go-to-button =
+    .label = Po, shpjemëni te { $hostName }
+    .accesskey = P
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1334,6 +1400,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = M
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1482,9 +1551,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Fshini ca, ose krejt të dhënat tuaja të shfletimit
-    .tooltiptext = Fshini ca, ose krejt të dhënat tuaja të shfletimit
 fire-button-panel-heading = Të fshihen krejt të dhënat e shfletimit?
 fire-button-panel-description = Kjo sjell fshirjen e historikut, cookie-ve dhe të dhënave të sajteve. Do të bëhet dalja juaj nga llogari nëpër sajte. Kjo dritare do të mbyllet dhe { -brand-short-name }-i do të hapë një të re.
 fire-button-panel-choose-description = Nëse s’doni të fshihet gjithçka, zgjidhni të dhëna specifike atëherë.
@@ -1594,6 +1660,13 @@ file-picker-crashed-open = Dialogu Windows për kartela u vithis. S’përzgjidh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialogu Windows për kartela u vithis. Kartela do të ruhet te { $path }.
 file-picker-crashed-save-nowhere = Dialogu Windows për kartela u vithis. S’përzgjidhej dot dosje parazgjedhje; kartela s’do të ruhet.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Shfaqe Në Dosje
     .accessKey = D
@@ -1669,6 +1742,9 @@ trustpanel-blocker-see-all = Shihini Krejt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Mbrojtje nga gjurmimet për { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -74,6 +74,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Sdílet…
     .accesskey = S
+
+##
+
 urlbar-identity-button =
     .aria-label = Zobrazit informace o stránce
 
@@ -143,6 +146,17 @@ urlbar-result-menu-remove-top-site = Odebrat tuto top stránku
     .accesskey = O
 urlbar-result-menu-manage-firefox-suggest2 = Spravovat { -firefox-suggest-brand-name }
     .accesskey = S
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Nahlásit nepřesnou polohu
+    .accesskey = N
+urlbar-result-menu-show-less-frequently3 = Zobrazit méně často
+    .accesskey = Z
+urlbar-result-menu-dont-show-weather-suggestions3 = Nezobrazovat návrhy počasí
+    .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -322,6 +336,11 @@ search-one-offs-add-engine =
     .aria-label = Přidat vyhledávač „{ $engineName }“
     .label = Přidat „{ $engineName }“
     .tooltiptext = Přidá vyhledávač „{ $engineName }“
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Přidat vyhledávač
+    .accesskey = P
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -824,6 +843,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dotázat se
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -903,6 +927,9 @@ urlbar-result-realtime-opt-in-allow = Povolit našeptávání
 urlbar-result-realtime-opt-in-not-now = Teď ne
 urlbar-result-realtime-opt-in-dismiss = Zavřít
 urlbar-result-realtime-opt-in-dismiss-all2 = Tyto návrhy nezobrazovat
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Nezobrazovat návrhy z akciových trhů
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Nezobrazovat návrhy z akciových trhů
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1105,6 +1132,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populární na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Nezobrazovat populární vyhledávání
+    .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nezobrazovat populární vyhledávání
     .accesskey = N
@@ -1373,6 +1403,42 @@ plugin-crashed-notification-submit-button =
     .label = Odeslat hlášení o pádu
     .accesskey = d
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Podvodná stránka!
+safebrowsing-reported-attack-site-message = Nahlášená útočná stránka!
+safebrowsing-reported-unwanted-site-message = Nahlášená stránka s nežádoucím softwarem!
+safebrowsing-reported-harmful-site-message = Nahlášená škodlivá stránka!
+safebrowsing-get-me-out-of-here-button =
+    .label = Rychle odsud pryč!
+    .accesskey = R
+safebrowsing-not-a-deceptive-site-button =
+    .label = Tato stránka není podvodná…
+    .accesskey = k
+safebrowsing-not-an-attack-site-button =
+    .label = Toto není útočná stránka…
+    .accesskey = T
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Pro přístup na internet se musíte do této sítě nejprve přihlásit.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Otevřít přihlašovací stránku k síti
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Nechcete spíše přejít na { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ano, přejít na { $hostName }
+    .accesskey = A
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1425,6 +1491,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1587,9 +1656,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Smazat některé nebo všechny údaje o prohlížení
-    .tooltiptext = Smaže některé nebo všechny údaje o prohlížení
 fire-button-panel-heading = Smazat všechna data prohlížení?
 fire-button-panel-description = Tímto smažete historii, cookies a údaje stránek. Z webů budete odhlášeni. Toto okno se zavře a { -brand-short-name } otevře nové.
 fire-button-panel-choose-description = Pokud nechcete smazat vše, vyberte místo toho jen konkrétní data.
@@ -1764,6 +1830,13 @@ file-picker-crashed-open = Souborový dialog systému Windows spadl. Nepodařilo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Souborový dialog systému Windows spadl. Soubor bude uložen do cesty { $path }.
 file-picker-crashed-save-nowhere = Souborový dialog systému Windows spadl. Nebyla nalezena žádná výchozí složka; soubor nebude uložen.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Zobrazit ve složce
     .accessKey = Z
@@ -1843,6 +1916,9 @@ trustpanel-blocker-see-all = Zobrazit vše
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ochrana proti sledování pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

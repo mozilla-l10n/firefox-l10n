@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Delen…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Website-informatie weergeven
 
@@ -132,6 +135,17 @@ urlbar-result-menu-remove-top-site = Deze topwebsite verwijderen
     .accesskey = t
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } beheren
     .accesskey = b
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Onjuiste locatie melden
+    .accesskey = O
+urlbar-result-menu-show-less-frequently3 = Minder vaak tonen
+    .accesskey = M
+urlbar-result-menu-dont-show-weather-suggestions3 = Geen weersuggesties tonen
+    .accesskey = G
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -311,6 +325,11 @@ search-one-offs-add-engine =
     .aria-label = Zoekmachine “{ $engineName }” toevoegen
     .label = “{ $engineName }” toevoegen
     .tooltiptext = Zoekmachine “{ $engineName }” toevoegen
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Zoekmachine toevoegen
+    .accesskey = Z
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -756,6 +775,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Gesponsord
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Vragen
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -829,6 +853,9 @@ urlbar-result-realtime-opt-in-allow = Suggesties tonen
 urlbar-result-realtime-opt-in-not-now = Niet nu
 urlbar-result-realtime-opt-in-dismiss = Sluiten
 urlbar-result-realtime-opt-in-dismiss-all2 = Deze suggesties niet tonen
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Geen beurssuggesties tonen
+    .accesskey = G
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Geen beurssuggesties tonen
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1025,6 +1052,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trending op { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Geen trending zoekopdrachten tonen
+    .accesskey = G
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Geen trending zoekopdrachten tonen
     .accesskey = G
@@ -1289,6 +1319,42 @@ plugin-crashed-notification-submit-button =
     .label = Een crashrapport verzenden
     .accesskey = c
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Misleidende website!
+safebrowsing-reported-attack-site-message = Gerapporteerde aanvalsite!
+safebrowsing-reported-unwanted-site-message = Gerapporteerde website met ongewenste software!
+safebrowsing-reported-harmful-site-message = Gerapporteerde schadelijke website!
+safebrowsing-get-me-out-of-here-button =
+    .label = Haal me hier vandaan!
+    .accesskey = H
+safebrowsing-not-a-deceptive-site-button =
+    .label = Dit is geen misleidende website…
+    .accesskey = m
+safebrowsing-not-an-attack-site-button =
+    .label = Dit is geen aanvalsite…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = U moet zich aanmelden bij dit netwerk voordat u toegang hebt tot het internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Aanmeldingspagina voor netwerk openen
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Wilde u naar { $hostName } gaan?
+keyword-uri-fixup-go-to-button =
+    .label = Ja, ik wil naar { $hostName }
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1339,6 +1405,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = j
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1489,9 +1558,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Een deel van of al uw navigatiegegevens verwijderen
-    .tooltiptext = Een deel van of al uw navigatiegegevens verwijderen
 fire-button-panel-heading = Alle navigatiegegevens verwijderen?
 fire-button-panel-description = Hiermee worden geschiedenis, cookies en websitegegevens verwijderd. U wordt bij websites afgemeld. Dit venster wordt gesloten en { -brand-short-name } zal een nieuw venster openen.
 fire-button-panel-choose-description = Als u niet alles wilt verwijderen, kies dan specifieke gegevens.
@@ -1602,6 +1668,13 @@ file-picker-crashed-open = Het Windows-bestandsdialoogvenster is gecrasht. Er is
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Het Windows-bestandsdialoogvenster is gecrasht. Het bestand wordt opgeslagen in { $path }.
 file-picker-crashed-save-nowhere = Het Windows-bestandsdialoogvenster is gecrasht. Er is geen standaardmap gevonden; het bestand zal niet worden opgeslagen.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = In map tonen
     .accessKey = m
@@ -1677,6 +1750,9 @@ trustpanel-blocker-see-all = Alles bekijken
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Bescherming tegen volgen voor { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

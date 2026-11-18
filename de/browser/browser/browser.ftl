@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Teilen …
     .accesskey = T
+
+##
+
 urlbar-identity-button =
     .aria-label = Seiteninformationen anzeigen
 
@@ -132,6 +135,17 @@ urlbar-result-menu-remove-top-site = Diese wichtige Seite entfernen
     .accesskey = D
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } verwalten
     .accesskey = v
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Ungenauen Standort melden
+    .accesskey = U
+urlbar-result-menu-show-less-frequently3 = Seltener anzeigen
+    .accesskey = S
+urlbar-result-menu-dont-show-weather-suggestions3 = Keine Wettervorschläge anzeigen
+    .accesskey = K
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -311,6 +325,11 @@ search-one-offs-add-engine =
     .aria-label = Suchmaschine "{ $engineName }" hinzufügen
     .label = "{ $engineName }" hinzufügen
     .tooltiptext = Suchmaschine "{ $engineName }" hinzufügen
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Suchmaschine hinzufügen
+    .accesskey = S
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -756,6 +775,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Gesponsert
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Fragen
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -829,6 +853,9 @@ urlbar-result-realtime-opt-in-allow = Vorschläge anzeigen
 urlbar-result-realtime-opt-in-not-now = Nicht jetzt
 urlbar-result-realtime-opt-in-dismiss = Schließen
 urlbar-result-realtime-opt-in-dismiss-all2 = Diese Vorschläge nicht anzeigen
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Marktvorschläge nicht anzeigen
+    .accesskey = M
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Marktvorschläge nicht anzeigen
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1025,6 +1052,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Beliebt bei { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Beliebte Suchanfragen nicht anzeigen
+    .accesskey = B
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Beliebte Suchanfragen nicht anzeigen
     .accesskey = n
@@ -1289,6 +1319,42 @@ plugin-crashed-notification-submit-button =
     .label = Absturzbericht senden
     .accesskey = A
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Betrügerische Website!
+safebrowsing-reported-attack-site-message = Als attackierend gemeldete Website!
+safebrowsing-reported-unwanted-site-message = Als Seite mit Downloads unerwünschter Software bekannt!
+safebrowsing-reported-harmful-site-message = Als schädliche Website gemeldet!
+safebrowsing-get-me-out-of-here-button =
+    .label = Diese Seite verlassen!
+    .accesskey = D
+safebrowsing-not-a-deceptive-site-button =
+    .label = Dies ist keine betrügerische Website…
+    .accesskey = k
+safebrowsing-not-an-attack-site-button =
+    .label = Dies ist keine attackierende Website…
+    .accesskey = k
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Sie müssen sich bei dem Netzwerk anmelden, um auf das Internet zugreifen zu können.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Anmeldeseite des Netzwerks öffnen
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Wollten Sie { $hostName } aufrufen?
+keyword-uri-fixup-go-to-button =
+    .label = Ja, { $hostName } öffnen
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1339,6 +1405,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1489,9 +1558,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Löschen Sie einige oder alle Ihrer Surf-Daten
-    .tooltiptext = Löschen Sie einige oder alle Ihrer Surf-Daten
 fire-button-panel-heading = Alle Surf-Daten löschen?
 fire-button-panel-description = Dadurch werden Chronik, Cookies und Website-Daten gelöscht. Sie werden von Websites abgemeldet. Dieses Fenster wird geschlossen und { -brand-short-name } öffnet ein neues.
 fire-button-panel-choose-description = Wenn Sie nicht alles löschen möchten, können Sie stattdessen gezielt bestimmte Daten auswählen.
@@ -1602,6 +1668,13 @@ file-picker-crashed-open = Der Windows-Dateidialog ist abgestürzt. Es konnte ke
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Der Windows-Dateidialog ist abgestürzt. Die Datei wird unter { $path } gespeichert.
 file-picker-crashed-save-nowhere = Der Windows-Dateidialog ist abgestürzt. Es konnte kein Standardordner gefunden werden; die Datei wird nicht gespeichert.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = In Ordner anzeigen
     .accessKey = O
@@ -1677,6 +1750,9 @@ trustpanel-blocker-see-all = Alle anzeigen
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Verfolgungsschutz für { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

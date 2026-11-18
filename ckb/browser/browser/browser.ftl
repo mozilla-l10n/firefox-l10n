@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = زانیاری مالپەڕ پیشان بدە
 
@@ -41,6 +44,12 @@ urlbar-result-menu-tip-get-help2 = یارمەتی بەدەستبهێنە
 urlbar-result-menu-tip-get-help =
     .label = یارمەتی بەدەستبهێنە
     .accesskey = ی
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
 
 ## Local search mode indicator labels in the urlbar
 
@@ -87,6 +96,9 @@ clear-search-history =
     .label = گەڕانی مێژووی کار پاکبکەرەوە
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -120,6 +132,11 @@ search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = بزوێنەری گەڕان زیادبکە
+    .accesskey = ب
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = بزوێنەری گەڕان زیادبکە
 
@@ -136,6 +153,11 @@ search-one-offs-tabs =
     .tooltiptext = بازدەرکانی ({ $restrict })
 search-one-offs-history =
     .tooltiptext = مێژوو ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -194,6 +216,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = داخستن
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-icon =
@@ -211,6 +236,9 @@ popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکان�
 
 sharing-warning-proceed-to-tab =
     .label = بڕۆ بۆ بازدەر
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -298,6 +326,18 @@ urlbar-result-action-before-tabtosearch-other = پەنجە بنێ بە بازد�
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = لەبەرگرتنەوە
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = دڵخوازەکان
@@ -312,6 +352,12 @@ urlbar-result-action-search-bookmarks = گەڕان لە دڵخوازەکان
 urlbar-result-action-search-history = گەڕان لە ناو مێژووی کاردا
 urlbar-result-action-search-tabs = گەڕان لە بازدەرەکان
 
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -320,6 +366,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = پیشاندەری خوێندنەوە دابخە
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -392,6 +443,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = دڵخوازەکان
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -448,11 +502,36 @@ toolbar-button-paste =
     .label = لکاندن
     .tooltiptext = لکاندن ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
+## EME notification panel
+
+
 ## Notification bars for media playback issues
 
 plugin-crashed-notification-reload-button =
     .label = بارکردنەوەی پەڕە
     .accesskey = R
+
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = مەبەستت ئەوە بوو بڕۆی بۆ { $hostName }؟
+keyword-uri-fixup-go-to-button =
+    .label = بەڵێ، بمبە بۆ { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
@@ -467,13 +546,24 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = داخستن
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
     .label = هێمادانانی وێنە-لەناو-وێنە بشارەوە
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -506,11 +596,55 @@ tabs-toolbar-list-all-tabs =
     .label = هەموو بازدەرەکان لیست بکە
     .tooltiptext = هەموو بازدەرەکان لیست بکە
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
     .label = ڕێگەبدە
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -535,8 +669,37 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” پیشان بدە
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-learn-more =
     .label = زیاتر بزانە
     .accesskey = L
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

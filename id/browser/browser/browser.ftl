@@ -35,6 +35,9 @@ urlbar-identity-button2 =
             [1] Lihat informasi situs (1 pelacak diblokir)
            *[other] Lihat informasi situs ({ $count } pelacak diblokir)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Tampilkan informasi situs
 
@@ -102,6 +105,17 @@ urlbar-result-menu-dismiss-suggestion2 = Abaikan saran ini
     .accesskey = b
 urlbar-result-menu-manage-firefox-suggest2 = Kelola { -firefox-suggest-brand-name }
     .accesskey = K
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Laporkan lokasi yang tidak akurat
+    .accesskey = L
+urlbar-result-menu-show-less-frequently3 = Tampilkan lebih jarang
+    .accesskey = T
+urlbar-result-menu-dont-show-weather-suggestions3 = Jangan tampilkan saran cuaca
+    .accesskey = J
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -278,6 +292,11 @@ search-one-offs-add-engine =
     .aria-label = Tambahkan mesin pencari "{ $engineName }"
     .label = Tambahkan "{ $engineName }"
     .tooltiptext = Tambahkan mesin pencari "{ $engineName }"
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Tambah mesin pencari
+    .accesskey = T
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -716,6 +735,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Tanya
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -777,6 +801,9 @@ urlbar-result-realtime-opt-in-allow = Tampilkan saran
 urlbar-result-realtime-opt-in-not-now = Jangan sekarang
 urlbar-result-realtime-opt-in-dismiss = Tutup
 urlbar-result-realtime-opt-in-dismiss-all2 = Jangan tampilkan saran ini
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Jangan tampilkan saran pasar
+    .accesskey = J
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Jangan tampilkan saran pasar
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -947,6 +974,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ngetren di { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Jangan tampilkan penelusuran ngetren
+    .accesskey = J
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Jangan tampilkan penelusuran ngetren
     .accesskey = J
@@ -1159,6 +1189,10 @@ toolbar-button-paste =
     .label = Tempel
     .tooltiptext = Tempel ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Beberapa audio atau video pada situs ini menggunakan perangkat lunak DRM yang mungkin membatasi pemakaian Anda atas { -brand-short-name }.
@@ -1193,6 +1227,42 @@ plugin-crashed-notification-reload-button =
 plugin-crashed-notification-submit-button =
     .label = Kirim laporan mogok
     .accesskey = K
+
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Situs Tipuan!
+safebrowsing-reported-attack-site-message = Telah Dilaporkan Sebagai Situs Penyerang!
+safebrowsing-reported-unwanted-site-message = Telah Dilaporkan Sebagai Situs Perangkat Lunak yang Tidak Diinginkan!
+safebrowsing-reported-harmful-site-message = Laporkan Situs Berbahaya!
+safebrowsing-get-me-out-of-here-button =
+    .label = Kabur!
+    .accesskey = K
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ini bukan situs tipuan…
+    .accesskey = t
+safebrowsing-not-an-attack-site-button =
+    .label = Situs ini bukan situs penyerang…
+    .accesskey = s
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Anda harus masuk ke dalam jaringan ini sebelum Anda dapat mengakses Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Buka laman masuk jaringan
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Apakah yang dimaksud adalah buka { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ya, buka { $hostName }
+    .accesskey = Y
 
 ## Password save/update panel
 
@@ -1233,6 +1303,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = i
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1358,9 +1431,6 @@ reset-pbm-panel-complete = Data sesi pribadi dihapus
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Hapus sebagian atau semua data perambanan Anda
-    .tooltiptext = Hapus sebagian atau semua data perambanan Anda
 fire-button-panel-heading = Hapus semua data perambanan?
 fire-button-panel-description = Ini akan menghapus riwayat, kuki, dan data situs. Anda akan keluar dari situs. Jendela ini akan ditutup, dan { -brand-short-name } akan membuka yang baru.
 # Opens the "Delete browsing data" dialog, where the user picks
@@ -1461,6 +1531,13 @@ file-picker-crashed-open = Dialog berkas Windows mogok. Tidak ada berkas atau fo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialog berkas Windows mogok. Berkas akan disimpan ke { $path }.
 file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder baku yang dapat ditemukan; berkas tidak akan disimpan.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
@@ -1536,6 +1613,9 @@ trustpanel-blocker-see-all = Lihat Semua
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Perlindungan pelacakan untuk { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

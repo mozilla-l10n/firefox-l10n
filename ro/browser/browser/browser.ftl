@@ -65,6 +65,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partajează…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Vezi informații despre site
 
@@ -134,6 +137,17 @@ urlbar-result-menu-remove-top-site = Elimină acest site de top
     .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = Gestionează { -firefox-suggest-brand-name }
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Raportează locație inexactă
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = Arată mai rar
+    .accesskey = A
+urlbar-result-menu-dont-show-weather-suggestions3 = Nu afișa sugestii meteo
+    .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -313,6 +327,11 @@ search-one-offs-add-engine =
     .aria-label = Adaugă motorul de căutare „{ $engineName }”
     .label = Adaugă „{ $engineName }”
     .tooltiptext = Adaugă motorul de căutare „{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Adaugă motor de căutare
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -759,6 +778,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizat
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Întreabă
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -835,6 +859,9 @@ urlbar-result-realtime-opt-in-allow = Arată sugestii
 urlbar-result-realtime-opt-in-not-now = Nu acum
 urlbar-result-realtime-opt-in-dismiss = Respinge
 urlbar-result-realtime-opt-in-dismiss-all2 = Nu mai arăta aceste sugestii
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Nu mai arăta sugestii de pe piețe
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Nu mai arăta sugestii de pe piețe
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1034,6 +1061,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = În tendințe pe { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Nu afișa căutări în tendințe
+    .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nu afișa căutări în tendințe
     .accesskey = D
@@ -1298,6 +1328,42 @@ plugin-crashed-notification-submit-button =
     .label = Trimite un raport de defecțiuni
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Site înșelător!
+safebrowsing-reported-attack-site-message = Raportat ca site de atac!
+safebrowsing-reported-unwanted-site-message = Raportat ca site cu programe nedorite!
+safebrowsing-reported-harmful-site-message = Raportat ca site dăunător!
+safebrowsing-get-me-out-of-here-button =
+    .label = Du-mă de aici!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Nu este un site înșelător…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Nu este un site de atac…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Trebuie să te autentifici la această rețea înainte de a accesa internetul.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Deschide pagina de autentificare în rețea
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Ai vrut să accesezi { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Da, du-mă la { $hostName }
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1349,6 +1415,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1499,9 +1568,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Șterge o parte sau toate datele de navigare
-    .tooltiptext = Șterge o parte sau toate datele de navigare
 fire-button-panel-heading = Ștergi toate datele de navigare?
 fire-button-panel-description = Îți va șterge istoricul, cookie-urile și datele despre site-uri. Vei ieși din conturi de pe toate site-urile. Această fereastră se va închide și { -brand-short-name } va deschide una nouă.
 fire-button-panel-choose-description = Dacă nu vrei să ștergi tot, alege, în schimb, date specifice.
@@ -1619,6 +1685,13 @@ file-picker-crashed-open = Fereastra de dialog pentru fișiere Windows s-a oprit
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Fișierul va fi salvat în { $path }.
 file-picker-crashed-save-nowhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Nu s-a găsit nicio locație implicită; fișierul nu va fi salvat.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Afișează în dosar
     .accessKey = F
@@ -1694,6 +1767,9 @@ trustpanel-blocker-see-all = Afișează tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecții împotriva urmăririi pentru { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

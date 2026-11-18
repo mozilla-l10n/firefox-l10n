@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [one] Ammustra informatziones de su situ (1 sighidore blocadu)
            *[other] Ammustra informatziones de su situ ({ $count } sighidores blocados)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualiza informatziones de su situ
 
@@ -101,6 +104,17 @@ urlbar-result-menu-dismiss-suggestion2 = Iscarta custu cussìgiu
     .accesskey = I
 urlbar-result-menu-manage-firefox-suggest2 = Gesti { -firefox-suggest-brand-name }
     .accesskey = G
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Sinnala una positzione non pretzisa
+    .accesskey = S
+urlbar-result-menu-show-less-frequently3 = Ammustra prus pagu a s’ispissu
+    .accesskey = A
+urlbar-result-menu-dont-show-weather-suggestions3 = No ammustres cussìgios de su tempus
+    .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -275,6 +289,11 @@ search-one-offs-add-engine =
     .aria-label = Agiunghe su motore de chirca “{ $engineName }”
     .label = Agiunghe “{ $engineName }”
     .tooltiptext = Agiunghe su motore de chirca “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Agiunghe unu motore de chirca
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -714,6 +733,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -787,6 +811,9 @@ urlbar-result-realtime-opt-in-allow = Ammustra cussìgios
 urlbar-result-realtime-opt-in-not-now = Immoe nono
 urlbar-result-realtime-opt-in-dismiss = Iscarta
 urlbar-result-realtime-opt-in-dismiss-all2 = No ammustres custos cussìgios
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = No ammustres cussìgios de mercados
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = No ammustres cussìgios de mercados
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -966,6 +993,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendèntzia in { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = No ammustres is chircas de tendèntzias
+    .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = No ammustres is chircas de tendèntzias
     .accesskey = N
@@ -1228,6 +1258,42 @@ plugin-crashed-notification-submit-button =
     .label = Imbia un'informe de faddina
     .accesskey = I
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Situ ingannosu
+safebrowsing-reported-attack-site-message = Dd'ant sinnaladu comente unu situ de atacu.
+safebrowsing-reported-unwanted-site-message = Dd'ant sinnaladu comente unu situ chi cuntenet programmas non disigiados.
+safebrowsing-reported-harmful-site-message = Dd'ant sinnaladu comente unu situ perigulosu.
+safebrowsing-get-me-out-of-here-button =
+    .label = Lea·mi·nde!
+    .accesskey = L
+safebrowsing-not-a-deceptive-site-button =
+    .label = Custu no est unu situ ingannosu…
+    .accesskey = i
+safebrowsing-not-an-attack-site-button =
+    .label = No est unu situ de atacu…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Ti depes identificare in custa rete prima de pòdere atzèdere a Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Aberi sa pàgina de atzessu a sa rete
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Bolias bisitare { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Eja, bae a { $hostName }
+    .accesskey = E
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1279,6 +1345,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1325,6 +1394,13 @@ restore-session-startup-suggestion-button = Ammustra·mi comente
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = S’organizatzione tua at blocadu s’atzessu a is archìvios locales in custu elaboradore
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1503,6 +1579,13 @@ file-picker-crashed-open = Sa ventana de seletzione de archìvios de Windows s�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. S’archìviu at a èssere sarvadu in { $path }.
 file-picker-crashed-save-nowhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. Impossìbile agatare sa cartella predefinida; s’archìviu no at a èssere sarvadu.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ammustra in sa cartella
     .accessKey = A
@@ -1578,6 +1661,9 @@ trustpanel-blocker-see-all = Ammustra totu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Amparu contra sa sighidura pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

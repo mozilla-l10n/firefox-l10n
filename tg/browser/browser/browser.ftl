@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Идоракунии танзимоти равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм…
     .accesskey = И
+
+##
+
 urlbar-identity-button =
     .aria-label = Дидани маълумот дар бораи сомона
 
@@ -93,6 +96,17 @@ urlbar-result-menu-dismiss-suggestion2 = Нодида гузарондани и�
     .accesskey = Н
 urlbar-result-menu-manage-firefox-suggest2 = Идоракунии «{ -firefox-suggest-brand-name }»
     .accesskey = И
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Фиристодани гузориш дар бораи ҷойгиршавии нодуруст
+    .accesskey = Ф
+urlbar-result-menu-show-less-frequently3 = Бисёр маротиба нишон дода нашавад
+    .accesskey = Б
+urlbar-result-menu-dont-show-weather-suggestions3 = Пешниҳодҳои обу ҳаво нишон дода нашаванд
+    .accesskey = П
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -264,6 +278,11 @@ search-one-offs-add-engine =
     .aria-label = Илова кардани низоми ҷустуҷӯии  “{ $engineName }”
     .label = Илова кардани “{ $engineName }”
     .tooltiptext = Илова кардани низоми ҷустуҷӯии “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Илова кардани низоми ҷустуҷӯӣ
+    .accesskey = И
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -697,6 +716,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Пурсидан
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -710,6 +734,9 @@ urlbar-result-realtime-opt-in-allow = Нишон додани пешниҳодҳ
 urlbar-result-realtime-opt-in-not-now = Ҳоло не
 urlbar-result-realtime-opt-in-dismiss = Нодида гузарондан
 urlbar-result-realtime-opt-in-dismiss-all2 = Пешниҳодҳои зерин нишон дода нашаванд
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Пешниҳодҳои бозоршиносӣ нишон дода нашаванд
+    .accesskey = П
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Пешниҳодҳои бозоршиносӣ нишон дода нашаванд
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -892,6 +919,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ҳавасангез дар «{ $engine }»
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ҷустуҷӯҳои ҳавасангез дигар нишон дода нашаванд
+    .accesskey = Ҷ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ҷустуҷӯҳои ҳавасангез дигар нишон дода нашаванд
     .accesskey = D
@@ -1151,6 +1181,42 @@ plugin-crashed-notification-submit-button =
     .label = Пешниҳоди гузориш дар бораи вайронӣ
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Сомонаи қалбакӣ!
+safebrowsing-reported-attack-site-message = Дар бораи сомонаи ҳамлакунанда гузориш диҳед!
+safebrowsing-reported-unwanted-site-message = Гузориш дода шудааст, ки ин сомона дорои нармафзори номатлуб мебошад!
+safebrowsing-reported-harmful-site-message = Гузориш дода шудааст, ки ин сомона дорои нармафзори зараровар мебошад!
+safebrowsing-get-me-out-of-here-button =
+    .label = Маро аз ин ҷо дуртар баред!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Сомонаи ҷорӣ қалбакӣ нест…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Ин сомонаи ҳамлакунанда нест…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Пеш аз пайдо кардани дастрасӣ ба Интернет, шумо бояд ба ин шабака ворид шавед.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Кушодани саҳифа барои ворид шудан ба шабака
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Шумо ба { $hostName } рафтан мехостед?
+keyword-uri-fixup-go-to-button =
+    .label = Бале, маро ба { $hostName } баред
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1202,6 +1268,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1248,6 +1317,13 @@ restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Ташкилоти шумо ба файлҳои маҳаллӣ дар ин компютер дастрасиро манъ кард
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1324,6 +1400,10 @@ reset-pbm-panel-complete = Маълумоти ҷаласаи хусусӣ нес
 reset-pbm-toolbar-button2 =
     .label = Пок кардани ҷаласаи хусусӣ
     .tooltiptext = Пок кардани ҷаласаи хусусӣ
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1415,6 +1495,13 @@ file-picker-crashed-open = Равзанаи «Файл» дар «Windows» ва
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Файл ба «{ $path }» нигоҳ дошта мешавад.
 file-picker-crashed-save-nowhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Ягон ҷузвдон ба таври пешфарз ёфт нашуд ва файл нигоҳ дошта намешавад.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Намоиш додан дар ҷузвдон
     .accessKey = Н
@@ -1490,6 +1577,9 @@ trustpanel-blocker-see-all = Ҳамаро дидан
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Воситаҳои муҳофизат аз пайгирӣ барои { $host } фаъол аст
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

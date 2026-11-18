@@ -20,6 +20,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Tunigin tusligt
+
+##
+
 urlbar-identity-button =
     .aria-label = Sken talɣut n usmel
 
@@ -81,6 +84,15 @@ urlbar-result-menu-dismiss-suggestion2 = Anef i usumer-a
     .accesskey = A
 urlbar-result-menu-manage-firefox-suggest2 = Sefrek { -firefox-suggest-brand-name }
     .accesskey = S
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Mmel adig ur nban ara
+    .accesskey = M
+urlbar-result-menu-dont-show-weather-suggestions3 = UR d-skanay ara isumar n liḥala n tegnawt
+    .accesskey = U
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -235,6 +247,11 @@ search-one-offs-add-engine =
     .aria-label = Rnu amsedday n unadi “{ $engineName }”
     .label = Rnu “{ $engineName }”
     .tooltiptext = Rnu amsedday n unadi “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Rnu amsedday n unadi
+    .accesskey = R
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -480,6 +497,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -652,6 +672,11 @@ urlbar-result-weather-provider-sponsored = { $provider } ⋅ S lmendad
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Suter
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -810,6 +835,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Yettwassen ɣef { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ur d-skanay ara inadiyen yettwassnen
+    .accesskey = U
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ur d-skanay ara inadiyen yettwassnen
     .accesskey = U
@@ -1018,6 +1046,10 @@ toolbar-button-paste =
     .label = Senteḍ
     .tooltiptext = Senteḍ ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Kra n imeslawen neɣ timwaliyin n usmel-a seqdacen aseɣẓan DRM, ayen ad igen talast i tigawin i yessirig { -brand-short-name } ɣef iferdisen-a.
@@ -1053,6 +1085,42 @@ plugin-crashed-notification-submit-button =
     .label = Azen aneqqis n uɣelluy
     .accesskey = A
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Asmel web n ukellex!
+safebrowsing-reported-attack-site-message = Ahat d asmel n uẓḍam!
+safebrowsing-reported-unwanted-site-message = Asmel-a yettwassen belli yegber iseɣẓanen ur yettwabɣan ara!
+safebrowsing-reported-harmful-site-message = Asmel-agi yettwassen d amihaw!
+safebrowsing-get-me-out-of-here-button =
+    .label = Sufeɣ-iyi sya!
+    .accesskey = A
+safebrowsing-not-a-deceptive-site-button =
+    .label = Mači d asmel web ur nemɛin ara…
+    .accesskey = m
+safebrowsing-not-an-attack-site-button =
+    .label = Mačči d-asmel n uẓḍam…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Ilaq ad teqqneḍ ɣer uẓeṭṭa send ad tkecmeḍ ɣer Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Ldi asebter n unekcum ɣer uẓeṭṭa
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Tebɣiḍ ad terzuḍ ɣer { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ih, ldi { $hostName }
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1069,6 +1137,10 @@ menu-share-windows =
     .label = Ugar n tnefrunin
 ui-tour-info-panel-close =
     .tooltiptext = Mdel
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -1087,6 +1159,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = Z
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1121,6 +1196,9 @@ tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1130,6 +1208,13 @@ restore-session-startup-suggestion-button = Sken-iyi-d amek
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Tuddsa-ik tessewḥel anekcum i ifuyla idiganen ɣef uselkim-a.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1195,6 +1280,10 @@ reset-pbm-toolbar-button2 =
     .label = Sfeḍ tiɣimit tusligt
     .tooltiptext = Sfeḍ tiɣimit tusligt
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } issewḥel asebter-a seg usmiren awurman.
@@ -1202,6 +1291,9 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -1253,6 +1345,13 @@ popup-trigger-redirect-menuitem =
     .label = Sken-d “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
 
 file-picker-crashed-show-in-folder =
     .label = Sken deg ukaram
@@ -1314,6 +1413,9 @@ trustpanel-blocker-see-all = Wali akk
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ammesten n uḍfar i { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

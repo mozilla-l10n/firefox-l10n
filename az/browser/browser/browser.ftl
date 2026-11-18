@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Paylaş…
     .accesskey = P
+
+##
+
 urlbar-identity-button =
     .aria-label = Sayt məlumatlarını gör
 
@@ -131,6 +134,17 @@ urlbar-result-menu-remove-top-site = Bu populyar saytı sil
     .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } İdarə Et
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Qeyri-dəqiq məkanı bildir
+    .accesskey = Q
+urlbar-result-menu-show-less-frequently3 = Daha az tezliklə göstər
+    .accesskey = D
+urlbar-result-menu-dont-show-weather-suggestions3 = Hava təkliflərini göstərmə
+    .accesskey = H
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -310,6 +324,11 @@ search-one-offs-add-engine =
     .aria-label = “{ $engineName }” axtarış mühərrikini əlavə et
     .label = “{ $engineName }” əlavə et
     .tooltiptext = “{ $engineName }” axtarış mühərrikini əlavə et
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Axtarış mühərriki əlavə et
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -755,6 +774,11 @@ urlbar-result-weather-title-city-only = { $city } məkanında <strong>{ $tempera
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorlaşdırılıb
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Soruş
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -828,6 +852,9 @@ urlbar-result-realtime-opt-in-allow = Təklifləri göstər
 urlbar-result-realtime-opt-in-not-now = İndi yox
 urlbar-result-realtime-opt-in-dismiss = Rədd et
 urlbar-result-realtime-opt-in-dismiss-all2 = Bu təklifləri göstərmə
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Bazar təkliflərini göstərmə
+    .accesskey = B
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Bazar təkliflərini göstərmə
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1024,6 +1051,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } üzrə populyar
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Populyar axtarışları göstərmə
+    .accesskey = P
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Populyar axtarışları göstərmə
     .accesskey = D
@@ -1288,6 +1318,42 @@ plugin-crashed-notification-submit-button =
     .label = Çökmə hesabatını göndər
     .accesskey = g
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Aldadıcı Sayt!
+safebrowsing-reported-attack-site-message = Hücum saytı olaraq bildirilmişdir!
+safebrowsing-reported-unwanted-site-message = İstənməyən proqram saytı!
+safebrowsing-reported-harmful-site-message = Bildirilmış Zərərli Sayt!
+safebrowsing-get-me-out-of-here-button =
+    .label = Məni buradan xilas et!
+    .accesskey = e
+safebrowsing-not-a-deceptive-site-button =
+    .label = Bu aldadıcı sayt deyil…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Bu hücum saytı deyil…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = İnternetə qoşulmazdan əvvəl bu şəbəkəyə daxil olmalısınız.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Şəbəkəyə giriş səhifəsini aç
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = { $hostName } olan yerə getmək istəyirdiniz?
+keyword-uri-fixup-go-to-button =
+    .label = Bəli, məni { $hostName } olan yerə götür
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1338,6 +1404,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,9 +1557,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Məlumatları təmizlə
-    .tooltiptext = Səyahət məlumatlarınızın bəzilərini və ya hamısını silin
 fire-button-panel-heading = Bütün səyahət məlumatları silinsin?
 fire-button-panel-description = Bu, tarixçəni, çərəzləri və sayt məlumatlarını silir. Saytlardan çıxış ediləcək. Bu pəncərə qapanacaq və { -brand-short-name } yenisini açacaq.
 fire-button-panel-choose-description = Hər şeyi silmək istəmirsinizsə, bunun əvəzinə xüsusi məlumatları seçin.
@@ -1599,6 +1665,13 @@ file-picker-crashed-open = Windows fayl dialoqu çökdü. Heç bir fayl və ya q
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows fayl dialoqu çökdü. Fayl { $path } məkanında saxlanılacaq.
 file-picker-crashed-save-nowhere = Windows fayl dialoqu çökdü. Standart qovluq tapılmadı; fayl saxlanılmayacaq.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Qovluqda göstər
     .accessKey = F
@@ -1674,6 +1747,9 @@ trustpanel-blocker-see-all = Hamısını göstər
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } üçün izlənmə qorumaları
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

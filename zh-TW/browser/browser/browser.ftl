@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 分享…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 檢視網站資訊
 
@@ -127,6 +130,17 @@ urlbar-result-menu-remove-top-site = 移除此熱門網站
     .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = 管理 { -firefox-suggest-brand-name }
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = 回報位置不準確
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = 減少顯示
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = 不要顯示天氣建議
+    .accesskey = n
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -306,6 +320,11 @@ search-one-offs-add-engine =
     .aria-label = 新增「{ $engineName }」搜尋引擎
     .label = 新增「{ $engineName }」
     .tooltiptext = 新增「{ $engineName }」搜尋引擎
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = 新增搜尋引擎
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -751,6 +770,11 @@ urlbar-result-weather-title-city-only = { $city } 氣溫 <strong>{ $temperature 
 urlbar-result-weather-provider-sponsored = { $provider }∙贊助資訊
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 詢問
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -812,6 +836,9 @@ urlbar-result-realtime-opt-in-allow = 顯示搜尋建議
 urlbar-result-realtime-opt-in-not-now = 現在不要
 urlbar-result-realtime-opt-in-dismiss = 知道了！
 urlbar-result-realtime-opt-in-dismiss-all2 = 不要顯示這些建議
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = 不要顯示金融市場建議
+    .accesskey = n
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = 不要顯示金融市場建議
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1008,6 +1035,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } 上的熱門趨勢
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = 不要顯示搜尋趨勢
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 不要顯示搜尋趨勢
     .accesskey = D
@@ -1272,6 +1302,42 @@ plugin-crashed-notification-submit-button =
     .label = 送出一份錯誤報告
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = 詐騙網站！
+safebrowsing-reported-attack-site-message = 這是已知的有害網站！
+safebrowsing-reported-unwanted-site-message = 已檢舉為不安全的軟體網站！
+safebrowsing-reported-harmful-site-message = 已檢舉為有害網站！
+safebrowsing-get-me-out-of-here-button =
+    .label = 帶我離開這裡！
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = 這不是詐騙網站…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = 這不是有害網站…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = 您必須先登入才能瀏覽網際網路。
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = 開啟網路登入頁面
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = 您是不是要去 { $hostName }？
+keyword-uri-fixup-go-to-button =
+    .label = 是，請帶我到 { $hostName }
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1322,6 +1388,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1470,9 +1539,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = 刪除您部分或全部的瀏覽資料
-    .tooltiptext = 刪除您部分或全部的瀏覽資料
 fire-button-panel-heading = 要刪除所有瀏覽資料嗎？
 fire-button-panel-description = 將清除瀏覽紀錄、Cookie 與網站資料，並將您登出所有網站。此視窗將會關閉，接著 { -brand-short-name } 會開啟新視窗。
 fire-button-panel-choose-description = 若不想刪除所有資料，可以只選擇特定資料進行刪除。
@@ -1578,6 +1644,13 @@ file-picker-crashed-open = Windows 檔案對話框發生錯誤，無法選擇任
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 檔案對話框發生錯誤，檔案將儲存至 { $path }。
 file-picker-crashed-save-nowhere = Windows 檔案對話框發生錯誤，找不到預設資料夾，無法儲存檔案。
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 於資料夾顯示
     .accessKey = F
@@ -1653,6 +1726,9 @@ trustpanel-blocker-see-all = 檢視全部
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } 的追蹤保護
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

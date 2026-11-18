@@ -18,6 +18,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegaçion Privâ
+
+##
+
 urlbar-identity-button =
     .aria-label = Fanni vedde informaçioin in sciô scito
 
@@ -73,6 +76,8 @@ urlbar-result-menu-tip-get-help2 = Fatte agiutâ
     .accesskey = a
 urlbar-result-menu-manage-firefox-suggest2 = Gestisci { -firefox-suggest-brand-name }
     .accesskey = G
+urlbar-result-menu-show-less-frequently3 = Mostra de meno
+    .accesskey = M
 urlbar-result-menu-show-less-frequently2 = Mostra de meno
 urlbar-result-menu-learn-more =
     .label = Atre informaçioin
@@ -188,6 +193,11 @@ search-one-offs-context-set-as-default =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Azonzi motô de riçerca
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -354,6 +364,9 @@ browser-window-close-button =
 browser-window-return-to-opener =
     .tooltiptext = Inderæ
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -377,6 +390,9 @@ popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi
 
 sharing-warning-proceed-to-tab =
     .label = Vanni a-o feuggio
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -447,6 +463,18 @@ urlbar-result-action-visit = Vixita
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Còpia
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-history4 = Stöia
@@ -466,6 +494,9 @@ urlbar-result-action-switch-to-tabgroup = Passa a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Arvi { $group }
 
+## Used in the menu of a urlbar result.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -481,6 +512,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Særa Modalitæ letua
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -546,6 +582,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Segnalibbri
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -602,6 +641,10 @@ toolbar-button-paste =
     .label = Incòlla
     .tooltiptext = Incòlla ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto scito deuvia software DRM. Porieivan esighe de limitaçioin a-e açioin pe l’utente in { -brand-short-name }.
@@ -632,6 +675,45 @@ plugin-crashed-notification-submit-button =
     .label = Segnala un problema
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Scito inganevole!
+safebrowsing-reported-attack-site-message = L'é stæto segnaou comme scito de atacco!
+safebrowsing-reported-unwanted-site-message = O scito ch'o gh'aiva do software no desiderou o l'é stæto segnalou
+safebrowsing-reported-harmful-site-message = Segnala scito pericoloso!
+safebrowsing-get-me-out-of-here-button =
+    .label = Pòrtime feua de chi!
+    .accesskey = P
+safebrowsing-not-a-deceptive-site-button =
+    .label = Questo o no l'é 'n scito inganevole…
+    .accesskey = I
+safebrowsing-not-an-attack-site-button =
+    .label = Sto chi o no l'é 'n scito de atacco…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Ti devi acede a sta ræ prima che ti ti pòsse navegâ into Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Arvi a pagina de intrâ da ræ
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Ti voeivi arvî { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Sci, arvi { $hostName }
+    .accesskey = S
+
+## Password save/update panel
+
+
 ##
 
 # "More" item in macOS share menu
@@ -640,7 +722,21 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Særa
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = Descaregamenti
@@ -668,12 +764,50 @@ tabs-toolbar-list-all-tabs =
     .label = Lista de tutti i feuggi
     .tooltiptext = Lista de tutti i feuggi
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Çerte informaçioin se mandan aotomaticamente a { -vendor-short-name } da { -brand-short-name } pe megioane l'uzo.
 data-reporting-notification-button =
     .label = Çerni cöse condividde
     .accesskey = s
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -682,6 +816,9 @@ refresh-blocked-redirect-label = { -brand-short-name } o l'inpedisce l'indirisam
 refresh-blocked-allow =
     .label = Permetti
     .accesskey = P
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -713,6 +850,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Fanni vedde '{ $popupURI }'
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Quarche conponente azonto instalou o l'é stæto dizativou perché no ò pòsciuo verificali.
@@ -724,3 +871,19 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = Atre informaçioin
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

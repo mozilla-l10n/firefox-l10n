@@ -5,6 +5,9 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } निजी ब्राउजिङ
+
+##
+
 urlbar-identity-button =
     .aria-label = साइट जानकारी हेर्नुहोस्
 
@@ -183,6 +186,11 @@ search-one-offs-add-engine =
     .aria-label = "{ $engineName }" थप्नुहोस्
     .label = "{ $engineName }" थप्नुहोस्
     .tooltiptext = "{ $engineName }" थप्नुहोस्
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = खोज इन्जिन थप्नुहोस्
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -383,6 +391,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = यस सत्रको लागि साझेदारी सुरक्षा असक्षम गर्नुहोस्
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -497,6 +508,18 @@ urlbar-result-action-tabtosearch-other-engine = ठेगाना पट्ट�
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = प्रतिलिपि गर्नुहोस्
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -520,6 +543,9 @@ urlbar-result-action-search-bookmarks = बुकमार्कहरू खो
 urlbar-result-action-search-history = खोज इतिहास
 urlbar-result-action-search-tabs = ट्याबहरू खोज्नुहोस्
 urlbar-result-action-search-actions = खोज कार्यहरू
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -546,6 +572,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } मा ट्रेन्डिङ
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = ट्रेन्डिङ खोजहरू नदेखाउनुहोस्
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ट्रेन्डिङ खोजहरू नदेखाउनुहोस्
     .accesskey = D
@@ -739,6 +768,10 @@ toolbar-button-paste =
     .label = पेस्ट गर्नुहोस्
     .tooltiptext = ({ $shortcut }) पेस्ट गर्नुहोस्
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = यो साइटमा रहेको केही अडियो या भिडियोले DRM प्रयोग गर्दछन्, तपाईँद्वारा { -brand-short-name } मार्फत गर्ने कुरामा कमी ल्याउन सक्छ।
@@ -773,6 +806,42 @@ plugin-crashed-notification-submit-button =
     .label = क्र्यास प्रतिवेदन बुझाउनुहोस्
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = छल गर्ने साइट!
+safebrowsing-reported-attack-site-message = संकास्पद आक्रमण साइट!
+safebrowsing-reported-unwanted-site-message = अवाञ्छित सफ्टवेयर साइटबारे प्रतिवेदन पठाइयो!
+safebrowsing-reported-harmful-site-message = हानिकारक साइटको रिपोर्ट गरियो!
+safebrowsing-get-me-out-of-here-button =
+    .label = मलाई यहाँबाट बाहिर निकाल्नुहोस्!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = यो भ्रामक साइट होइन…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = यो एउटा अाक्रमक साइट होइन...
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = इन्टरनेटमा पहुँच गर्नु अघि तपाईँले यस नेटवर्कमा लग इन गर्नु पर्छ।
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = नेटवर्क लगइन पृष्ठ खोल्नुहोस्
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = के तपाईँ { $hostName } मा जान खोज्छु भएको हो?
+keyword-uri-fixup-go-to-button =
+    .label = हो, मलाई { $hostName } मा लग्नुहोस्
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -787,6 +856,10 @@ menu-share-more =
     .label = थप…
 ui-tour-info-panel-close =
     .tooltiptext = बन्द गर्नुहोस्
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -805,6 +878,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -837,6 +913,9 @@ tabs-toolbar-list-all-tabs =
     .label = सब ट्याबहरूको सूचि बनाउनुहोस्
     .tooltiptext = सब ट्याबहरूको सूचि बनाउनुहोस्
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -846,6 +925,13 @@ restore-session-startup-suggestion-button = कसरी देखाउनु�
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = तपाईंको संगठनले यस कम्प्युटरमा स्थानीय फाइलहरूमा पहुँच रोकेको छ
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -882,6 +968,10 @@ unified-extensions-button-quarantined =
     .label = बिस्तारहरु
     .tooltiptext = बिस्तारहरु
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -891,6 +981,10 @@ reset-pbm-panel-cancel-button =
     .label = रद्द गर्नुहोस्
     .accesskey = C
 reset-pbm-panel-complete = निजी सत्र डाटा मेटाइयो
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -957,6 +1051,13 @@ file-picker-crashed-open = Windows फाइल-संवाद क्र्य�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows फाइल-संवाद क्र्यास भएको छ। फाइल { $path } मा सुरक्षित हुनेछ।
 file-picker-crashed-save-nowhere = Windows फाइल-संवाद क्र्यास भएको छ। कुनै पूर्वनिर्धारित फोल्डर फेला परेन; फाइल बचत हुनेछैन।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = फोल्डरमा देखाउनुहोस्
     .accessKey = F
@@ -972,3 +1073,19 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = अझै जान्नुहोस्
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Pokoż informacyje ô strōnie
 
@@ -160,6 +163,11 @@ search-one-offs-add-engine =
     .aria-label = Przidej wyszukowarka „{ $engineName }”
     .label = Przidej „{ $engineName }”
     .tooltiptext = Przidej wyszukowarka „{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Przidej wyszukowarka
+    .accesskey = P
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -333,6 +341,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Zastow ôchrōna udostympnianio we tyj sesyji
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -438,6 +449,18 @@ urlbar-result-action-tabtosearch-other-engine = Szukej na { $engine } zaroz na p
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopiuj
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Zokłodki
@@ -458,6 +481,9 @@ urlbar-result-action-search-bookmarks = Szukej we zokłodkach
 urlbar-result-action-search-history = Szukej w historyji
 urlbar-result-action-search-tabs = Szukej po kartach
 urlbar-result-action-search-actions = Przeszukowanie akcyjōw
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -483,6 +509,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Zawrzij podglōnd czytanio
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -640,6 +671,10 @@ toolbar-button-paste =
     .label = Wraź
     .tooltiptext = Wraź ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Klang abo filmy na tyj strōnie używajōm softwaru DRM, co może zmyńszyć to, co { -brand-short-name } poradzi zrobić.
@@ -675,6 +710,42 @@ plugin-crashed-notification-submit-button =
     .label = Poślij raport ô awaryji
     .accesskey = R
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Ôszydno strōna!
+safebrowsing-reported-attack-site-message = Zgłoszōno strōna, co atakuje!
+safebrowsing-reported-unwanted-site-message = Złoszōno strōna ze niychcianym softwarym!
+safebrowsing-reported-harmful-site-message = Zgłoszōno szkłōdliwo strōna!
+safebrowsing-get-me-out-of-here-button =
+    .label = Biermy sie z tyj strōny!
+    .accesskey = B
+safebrowsing-not-a-deceptive-site-button =
+    .label = To niy ma ôszydno strōna…
+    .accesskey = T
+safebrowsing-not-an-attack-site-button =
+    .label = To niy ma strōna, co atakuje…
+    .accesskey = T
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Trza połōnczynio z tym necym, podwiela pudzie mieć dostymp do internetu.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Ôdewrzij strōna logowanio do necu
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Niy chcesz aby iść do { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ja, pōdź do { $hostName }
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -689,6 +760,10 @@ menu-share-more =
     .label = Wiyncyj…
 ui-tour-info-panel-close =
     .tooltiptext = Zawrzij
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -707,6 +782,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -739,11 +817,24 @@ tabs-toolbar-list-all-tabs =
     .label = Wykoz wszyskich kart
     .tooltiptext = Wykoz wszyskich kart
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Ôdewrzić piyrwyjsze karty?</strong> Możesz wrōcić swoja piyrwyjszo sesyjo w myni aplikacyje { -brand-short-name } <img data-l10n-name="icon"/> w sekcyji Historyjo.
 restore-session-startup-suggestion-button = Pokoż jak
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -760,6 +851,25 @@ unified-extensions-button =
     .label = Rozszyrzynia
     .tooltiptext = Rozszyrzynia
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } niy doł tyj strōnie sie autōmatycznie przeladować.
@@ -767,6 +877,9 @@ refresh-blocked-redirect-label = { -brand-short-name } niy doł tyj strōnie aut
 refresh-blocked-allow =
     .label = Przizwōl
     .accesskey = P
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -809,6 +922,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Pokoż „{ $popupURI }”
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Niy szło zweryfikować jednego abo poru rozszyrzyń, bez co sōm zastawiōne.
@@ -831,3 +954,19 @@ process-hang-addon-learn-more =
 process-hang-stop-button =
     .label = Sztopnij
     .accesskey = S
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

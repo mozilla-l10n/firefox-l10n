@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Κοινή χρήση…
     .accesskey = η
+
+##
+
 urlbar-identity-button =
     .aria-label = Προβολή πληροφοριών ιστοτόπου
 
@@ -131,6 +134,17 @@ urlbar-result-menu-remove-top-site = Αφαίρεση κορυφαίου ιστ�
     .accesskey = τ
 urlbar-result-menu-manage-firefox-suggest2 = Διαχείριση { -firefox-suggest-brand-name(case: "gen") }
     .accesskey = Δ
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Αναφορά ανακριβούς τοποθεσίας
+    .accesskey = Α
+urlbar-result-menu-show-less-frequently3 = Εμφάνιση σπανιότερα
+    .accesskey = Ε
+urlbar-result-menu-dont-show-weather-suggestions3 = Να μην εμφανίζονται προτάσεις καιρού
+    .accesskey = Ν
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -310,6 +324,11 @@ search-one-offs-add-engine =
     .aria-label = Προσθήκη μηχανής αναζήτησης «{ $engineName }»
     .label = Προσθήκη «{ $engineName }»
     .tooltiptext = Προσθήκη μηχανής αναζήτησης «{ $engineName }»
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Προσθήκη μηχανής αναζήτησης
+    .accesskey = Π
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -755,6 +774,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Χορηγία
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Ερώτηση
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -828,6 +852,9 @@ urlbar-result-realtime-opt-in-allow = Εμφάνιση προτάσεων
 urlbar-result-realtime-opt-in-not-now = Όχι τώρα
 urlbar-result-realtime-opt-in-dismiss = Απόρριψη
 urlbar-result-realtime-opt-in-dismiss-all2 = Να μην εμφανίζονται αυτές οι προτάσεις
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Να μην εμφανίζονται προτάσεις μετοχών
+    .accesskey = Ν
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Να μην εμφανίζονται προτάσεις μετοχών
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1024,6 +1051,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Τάσεις στο { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Απόκρυψη δημοφιλών αναζητήσεων
+    .accesskey = Α
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Απόκρυψη δημοφιλών αναζητήσεων
     .accesskey = Α
@@ -1288,6 +1318,42 @@ plugin-crashed-notification-submit-button =
     .label = Υποβολή αναφοράς κατάρρευσης
     .accesskey = β
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Παραπλανητικός ιστότοπος!
+safebrowsing-reported-attack-site-message = Έχει αναφερθεί ως ιστότοπος επιθέσεων!
+safebrowsing-reported-unwanted-site-message = Έχει αναφερθεί ως ιστότοπος ανεπιθύμητου λογισμικού!
+safebrowsing-reported-harmful-site-message = Αναφέρθηκε επιβλαβής ιστότοπος!
+safebrowsing-get-me-out-of-here-button =
+    .label = Θέλω να φύγω από εδώ!
+    .accesskey = γ
+safebrowsing-not-a-deceptive-site-button =
+    .label = Αυτός δεν είναι παραπλανητικός ιστότοπος…
+    .accesskey = Δ
+safebrowsing-not-an-attack-site-button =
+    .label = Αυτός δεν είναι ιστότοπος επιθέσεων…
+    .accesskey = θ
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Πρέπει να συνδεθείτε σε αυτό το δίκτυο πριν μπορέσετε να αποκτήσετε πρόσβαση στο διαδίκτυο.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Άνοιγμα σελίδας σύνδεσης σε δίκτυο
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Μήπως θέλατε να μεταβείτε στο { $hostName };
+keyword-uri-fixup-go-to-button =
+    .label = Ναι, μετάβαση στο { $hostName }
+    .accesskey = Ν
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1338,6 +1404,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = α
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,9 +1557,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Διαγράψτε μερικά ή όλα τα δεδομένα περιήγησής σας
-    .tooltiptext = Διαγράψτε μερικά ή όλα τα δεδομένα περιήγησής σας
 fire-button-panel-heading = Διαγραφή όλων των δεδομένων περιήγησης;
 fire-button-panel-description = Αυτή η ενέργεια διαγράφει το ιστορικό, τα cookie και τα δεδομένα ιστοτόπων. Θα αποσυνδεθείτε από τους ιστοτόπους. Αυτό το παράθυρο θα κλείσει και το { -brand-short-name } θα ανοίξει ένα νέο.
 fire-button-panel-choose-description = Εάν δεν θέλετε να διαγράψετε τα πάντα, επιλέξτε συγκεκριμένα δεδομένα.
@@ -1599,6 +1665,13 @@ file-picker-crashed-open = Το παράθυρο διαλόγου αρχείων
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Το παράθυρο διαλόγου αρχείων των Windows κατέρρευσε. Το αρχείο θα αποθηκευτεί στο { $path }.
 file-picker-crashed-save-nowhere = Το παράθυρο διαλόγου αρχείων των Windows κατέρρευσε. Δεν ήταν δυνατή η εύρεση προεπιλεγμένου φακέλου· το αρχείο δεν θα αποθηκευτεί.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Εμφάνιση στον φάκελο
     .accessKey = φ
@@ -1674,6 +1747,9 @@ trustpanel-blocker-see-all = Προβολή όλων
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Προστασία από καταγραφή για το { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partekatu…
     .accesskey = P
+
+##
+
 urlbar-identity-button =
     .aria-label = Ikusi gunearen informazioa
 
@@ -131,6 +134,17 @@ urlbar-result-menu-remove-top-site = Kendu gune erabilienetako hau
     .accesskey = b
 urlbar-result-menu-manage-firefox-suggest2 = Kudeatu { -firefox-suggest-brand-name }
     .accesskey = K
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Eman kokaleku okerraren berri
+    .accesskey = E
+urlbar-result-menu-show-less-frequently3 = Erakutsi maiztasun txikiagoarekin
+    .accesskey = E
+urlbar-result-menu-dont-show-weather-suggestions3 = Ez erakutsi eguraldi gomendiorik
+    .accesskey = E
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -310,6 +324,11 @@ search-one-offs-add-engine =
     .aria-label = Gehitu "{ $engineName }" bilaketa-motorra
     .label = Gehitu "{ $engineName }"
     .tooltiptext = Gehitu "{ $engineName }" bilaketa-motorra
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Gehitu bilaketa-motorra
+    .accesskey = G
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -755,6 +774,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Babeslea
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Galdetu
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -828,6 +852,9 @@ urlbar-result-realtime-opt-in-allow = Erakutsi gomendioak
 urlbar-result-realtime-opt-in-not-now = Une honetan ez
 urlbar-result-realtime-opt-in-dismiss = Baztertu
 urlbar-result-realtime-opt-in-dismiss-all2 = Ez erakutsi gomendio hauek
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ez erakutsi merkatuko gomendiorik
+    .accesskey = E
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ez erakutsi merkatuko gomendiorik
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1024,6 +1051,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } bilatzaileko joerak
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ez erakutsi bilaketa-joerak
+    .accesskey = E
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ez erakutsi bilaketa-joerak
     .accesskey = z
@@ -1288,6 +1318,42 @@ plugin-crashed-notification-submit-button =
     .label = Bidali hutsegite-txostena
     .accesskey = B
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Gune iruzurtia!
+safebrowsing-reported-attack-site-message = Ustezko web erasoa!
+safebrowsing-reported-unwanted-site-message = Salatutako nahi ez den softwarearen gunea!
+safebrowsing-reported-harmful-site-message = Gune erasotzaile gisa markatuta!
+safebrowsing-get-me-out-of-here-button =
+    .label = Eraman nazazu hemendik at!
+    .accesskey = E
+safebrowsing-not-a-deceptive-site-button =
+    .label = Hau ez da gune iruzurtia…
+    .accesskey = i
+safebrowsing-not-an-attack-site-button =
+    .label = Hau ez da gune erasotzailea…
+    .accesskey = n
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Internetera sartu ahal izateko saioa hasi behar duzu sare honetan.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Ireki sarearen saio-hasiera orria
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = { $hostName } ostalarira nahi zenuen joan?
+keyword-uri-fixup-go-to-button =
+    .label = Bai, eraman nazazu { $hostName } ostalarira
+    .accesskey = B
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1338,6 +1404,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = z
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,9 +1557,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Ezabatu zure nabigatze-datu batzuk edo guztiak
-    .tooltiptext = Ezabatu zure nabigatze-datu batzuk edo guztiak
 fire-button-panel-heading = Ezabatu nabigatze-datu guztiak?
 fire-button-panel-description = Honek historia, cookieak eta gunearen datuak ezabatzen ditu. Guneetan hasita dituzun saioak amaitu egingo dira. Leiho hau itxi egingo da eta { -brand-short-name }(e)k berri bat irekiko du.
 fire-button-panel-choose-description = Ez baduzu guztia ezabatu nahi, aukeratu zehazki zein datu ezabatuko diren.
@@ -1601,6 +1667,13 @@ file-picker-crashed-open = Windowsen fitxategien elkarrizketa-koadroak huts egin
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Fitxategia { $path } bidean gordeko da.
 file-picker-crashed-save-nowhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Ezin da karpeta lehenetsirik aurkitu; fitxategia ez da gordeko.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Erakutsi karpetan
     .accessKey = k
@@ -1676,6 +1749,9 @@ trustpanel-blocker-see-all = Ikusi guztiak
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Jarraipenaren babesak { $host } ostalarirako
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

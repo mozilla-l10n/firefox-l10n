@@ -24,6 +24,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Urus tetapan pop-up dan lencongan pihak ketiga...
     .accesskey = U
+
+##
+
 urlbar-identity-button =
     .aria-label = Papar maklumat laman
 
@@ -91,6 +94,17 @@ urlbar-result-menu-dismiss-suggestion2 = Abaikan cadangan ini
     .accesskey = A
 urlbar-result-menu-manage-firefox-suggest2 = Urus { -firefox-suggest-brand-name }
     .accesskey = U
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Laporkan lokasi tidak tepat
+    .accesskey = L
+urlbar-result-menu-show-less-frequently3 = Tunjukkan kurang kerap
+    .accesskey = T
+urlbar-result-menu-dont-show-weather-suggestions3 = Jangan tunjuk cadangan cuaca
+    .accesskey = J
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -267,6 +281,11 @@ search-one-offs-add-engine =
     .aria-label = Tambah enjin carian “{ $engineName }”
     .label = Tambah “{ $engineName }”
     .tooltiptext = Tambah enjin carian “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Tambah enjin carian
+    .accesskey = T
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -493,6 +512,12 @@ bookmarks-toolbar-empty-message = Untuk akses pantas, letakkan penanda halaman a
 
 popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.
 
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -578,6 +603,21 @@ urlbar-result-action-tabtosearch-other-engine = Cari { $engine } terus dari bar 
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Salin
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -585,6 +625,12 @@ urlbar-result-action-copy-to-clipboard = Salin
 urlbar-result-action-search-bookmarks = Cari Tandabuku
 urlbar-result-action-search-history = Cari Sejarah
 urlbar-result-action-search-tabs = Cari Tab
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
 
 ## Reader View toolbar buttons
 
@@ -594,6 +640,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Tutup Reader View
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -746,6 +797,10 @@ toolbar-button-paste =
     .label = Tampal
     .tooltiptext = Tampal ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini menggunakan perisian DRM, yang mungkin mengehadkan penggunaan anda dengan { -brand-short-name }.
@@ -776,12 +831,65 @@ plugin-crashed-notification-submit-button =
     .label = Hantarkan laporan ranap
     .accesskey = a
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Laman Mengelirukan!
+safebrowsing-reported-attack-site-message = Ini Laman Penyerang!
+safebrowsing-reported-unwanted-site-message = Ini Laman Perisian Yang Tidak Diingini!
+safebrowsing-reported-harmful-site-message = Ini Laman Berbahaya!
+safebrowsing-get-me-out-of-here-button =
+    .label = Keluarkan saya dari sini!
+    .accesskey = K
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ini bukan laman mengelirukan…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Ini bukan laman penyerang…
+    .accesskey = P
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Anda perlu log masuk ke rangkaian ini sebelum anda boleh mengakses Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Buka Halaman Log Masuk Rangkaian
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Adakah anda bermaksud untuk pergi ke { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ya, bawa saya ke { $hostName }
+    .accesskey = Y
+
+## Password save/update panel
+
+
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Tutup
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = Muat turun
@@ -809,12 +917,50 @@ tabs-toolbar-list-all-tabs =
     .label = Senarai semua tab
     .tooltiptext = Senarai semua tab
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } secara automatik menghantar data ke { -vendor-short-name } supaya kami boleh menambah baik pengalaman anda.
 data-reporting-notification-button =
     .label = Pilih Apa Yang Saya Kongsi
     .accesskey = P
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -823,6 +969,9 @@ refresh-blocked-redirect-label = { -brand-short-name } menghalang halaman ini da
 refresh-blocked-allow =
     .label = Izinkan
     .accesskey = I
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -854,6 +1003,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Papar “{ $popupURI }”
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Satu atau beberapa add-ons yang dipasang tidak dapat disahkan dan telah dinyahdayakan.
@@ -865,3 +1024,19 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = Ketahui selanjutnya
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկութիւնը
 
@@ -111,6 +114,9 @@ clear-search-history =
     .label = Մաքրել որոնման պատմութիւնը
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -152,6 +158,11 @@ search-one-offs-add-engine =
     .tooltiptext = Աւելացնել « { $engineName } » որոնման ծրագիրը
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Աւելացնել որոնիչ
+    .accesskey = Ա
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Աւելացնել որոնիչ
 
@@ -168,6 +179,11 @@ search-one-offs-tabs =
     .tooltiptext = Ներդիներներ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Պատմութիւն ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -295,6 +311,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Անջատել համաւգտագործման պաշտպանութիւնը այս աշխատաշրջանի ընթացքում
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -396,6 +415,18 @@ urlbar-result-action-tabtosearch-other-engine = Փնտրել { $engine }֊ում
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Պատճէնել
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Էջանիշեր
@@ -414,6 +445,9 @@ urlbar-searchmode-popup-add-engine = Աւելացնել « { $engineName } »-ը
 urlbar-result-action-search-bookmarks = Փնտրել էջանիշներում
 urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
 urlbar-result-action-search-tabs = Փնտրել ներդիրներում
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -436,6 +470,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Փակել ընթերցողի դիտակէտը
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -588,6 +627,10 @@ toolbar-button-paste =
     .label = Փակցնել
     .tooltiptext = Փակցնել ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանիւթ կամ տեսանիւթ աւգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի աւգտագործումը։
@@ -623,6 +666,42 @@ plugin-crashed-notification-submit-button =
     .label = Տեղեկացնել վթարի մասին
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Խաբուսիկ կայք։
+safebrowsing-reported-attack-site-message = Զեկուցուած է իբրեւ հարձակողական կայք։
+safebrowsing-reported-unwanted-site-message = Այս կայքը հաղորդուել է որպէս անցանկալի ծրագրերի կայք։
+safebrowsing-reported-harmful-site-message = Զեկուցուած վնասակար կայք։
+safebrowsing-get-me-out-of-here-button =
+    .label = Դուրս բեր ինձ այստեղից։
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Սա խաբուսիկ կայք չէ…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Սա հարձակողական կայք չէ…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Դուք պէտք է մուտք գործէք այս ցանց՝նախքան համացանց մուտք ստանալու համար։
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Բացել ցանց մուտք գործելու էջը
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Նկատի ունեիր անցնե՞լ { $hostName }-ին։
+keyword-uri-fixup-go-to-button =
+    .label = Այո, տա՛ր ինձ { $hostName }
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -637,6 +716,10 @@ menu-share-more =
     .label = Աւելին…
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -655,6 +738,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = ձ
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -687,11 +773,24 @@ tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> Բացե՞լ նախորդ ներդիրները </strong> Կարող էք վերագործարկել նախկին աշխատաշրջանը { -brand-short-name } ծրագրային ցանկից <img data-l10n-name="icon"/> , Պատմութիւն բաժնի ներքեւում:
 restore-session-startup-suggestion-button = Ցոյց տալ, թե ինչպէս
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -700,6 +799,28 @@ data-reporting-notification-button =
     .label = Ընտրեք այն ինչ ես կիսում եմ
     .accesskey = C
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }-ը կասեցրեց այս էջը ինքնաբերաբար վերբեռնումից։
@@ -707,6 +828,9 @@ refresh-blocked-redirect-label = { -brand-short-name }-ը կասեցրեց այ�
 refresh-blocked-allow =
     .label = Թոյլատրել
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -743,6 +867,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Ցուցադրել '{ $popupURI }'-ը
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Մեկ կամ մի քանի ներբեռնուած հաւելումներ չեն կարող հաստատուել եւ անջատուել են:
@@ -765,3 +899,19 @@ process-hang-addon-learn-more =
 process-hang-stop-button =
     .label = Կանգ
     .accesskey = S
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

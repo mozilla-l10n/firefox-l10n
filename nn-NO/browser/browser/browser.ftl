@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Del…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Vis sideinfo
 
@@ -131,6 +134,17 @@ urlbar-result-menu-remove-top-site = Fjern denne mest besøkte nettstaden
     .accesskey = F
 urlbar-result-menu-manage-firefox-suggest2 = Handsam { -firefox-suggest-brand-name }
     .accesskey = H
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Rapporter unøyaktig plassering
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = Vis sjeldnare
+    .accesskey = V
+urlbar-result-menu-dont-show-weather-suggestions3 = Ikkje vis vêrforslag
+    .accesskey = k
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -310,6 +324,11 @@ search-one-offs-add-engine =
     .aria-label = Legg til søkjemotor «{ $engineName }»
     .label = Legg til «{ $engineName }»
     .tooltiptext = Legg til søkjemotor «{ $engineName }»
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Legg til søkjemotor
+    .accesskey = L
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -755,6 +774,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsa
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spør
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -828,6 +852,9 @@ urlbar-result-realtime-opt-in-allow = Vis forslag
 urlbar-result-realtime-opt-in-not-now = Ikkje no
 urlbar-result-realtime-opt-in-dismiss = Ignorer
 urlbar-result-realtime-opt-in-dismiss-all2 = Ikkje vis desse forslaga
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ikkje vis marknadsforslag
+    .accesskey = k
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ikkje vis marknadsforslag
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1024,6 +1051,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populær på { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ikkje vis populære søk
+    .accesskey = k
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ikkje vis populære søk
     .accesskey = v
@@ -1288,6 +1318,42 @@ plugin-crashed-notification-submit-button =
     .label = Send inn ein krasjrapport
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Villeiande side!
+safebrowsing-reported-attack-site-message = Rapportert åtaksnettstad!
+safebrowsing-reported-unwanted-site-message = Rapportert nettstad med uønskt programvare!
+safebrowsing-reported-harmful-site-message = Rapportert skadeleg nettstad!
+safebrowsing-get-me-out-of-here-button =
+    .label = Få meg bort herifrå!
+    .accesskey = F
+safebrowsing-not-a-deceptive-site-button =
+    .label = Dette er ikkje ein villeiande nettstad…
+    .accesskey = v
+safebrowsing-not-an-attack-site-button =
+    .label = Dette er ikkje ei åtaksnettside …
+    .accesskey = e
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Du må logge inn på nettverket før du kan kople til Internett.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Opne innloggingsside for nettverk
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Meinte du å gå til { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Ja, gå til { $hostName }
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1338,6 +1404,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,9 +1557,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Slett nokre eller alle nettlesardataa dine
-    .tooltiptext = Slett nokre eller alle nettlesardataa dine
 fire-button-panel-heading = Slette alle nettlesardata?
 fire-button-panel-description = Dette slettar historikk, infokapslar og nettstaddata. Du blir logga ut av nettstadar. Dette vindauget blir lukka, og { -brand-short-name } opnar eit nytt.
 fire-button-panel-choose-description = Om du ikkje vil slette alt, kan du velje visse data i staden.
@@ -1599,6 +1665,13 @@ file-picker-crashed-open = Windows-fildialogvindauget har krasja. Inga fil eller
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-fildialogvindauget har krasja. Fila vil bli lagra i { $path }.
 file-picker-crashed-save-nowhere = Windows-fildialogvindauget har krasja. Fann inga standardmappe, og fila vil ikkje bli lagra.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = i
@@ -1674,6 +1747,9 @@ trustpanel-blocker-see-all = Vis alle
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Sporingsvern for { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

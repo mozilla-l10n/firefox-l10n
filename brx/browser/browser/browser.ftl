@@ -5,6 +5,9 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Private Browsing
+
+##
+
 urlbar-identity-button =
     .aria-label = साइत नि फोरमायथि खौ नाय
 
@@ -35,6 +38,12 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = मदद नागिर
     .accesskey = ह
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
 
 ## Local search mode indicator labels in the urlbar
 
@@ -132,6 +141,11 @@ search-one-offs-add-engine =
     .tooltiptext = { $engineName } सार्रच इन्जिनखौ दाजाब
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = नागिरनाय इन्जिनखौ दाजाबदेर
+    .accesskey = h
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = नागिरनाय इन्जिनखौ दाजाबदेर
 
@@ -215,6 +229,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्द खालाम
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -228,6 +245,12 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = मायक्रोॱफोन
 popup-all-windows-shared = नोंथांनि स्क्रिननि गासै नुथाव उइन्ड'खौ शेयार खालामगोन।
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -268,6 +291,18 @@ urlbar-result-action-visit = थां
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = कपि खालाम
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-tabs4 = टेबफोर
@@ -287,6 +322,20 @@ urlbar-result-action-search-bookmarks = बुकमार्कफोरखौ 
 urlbar-result-action-search-history = जारिमिनखौ नागिर
 urlbar-result-action-search-tabs = गासै टेबफोरौ नागिर
 
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
+## Reader View toolbar buttons
+
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Full Screen and Pointer Lock UI
 
 fullscreen-exit-button = आबुं स्क्रिन निफ्राय ओंखार लां (Esc)
@@ -305,6 +354,11 @@ bookmarks-other-bookmarks-menu =
     .label = गुबुन बुकमाकॅफोर
 bookmarks-mobile-bookmarks-menu =
     .label = मबाइल बुकमार्कफोर
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 
 ##
 
@@ -328,6 +382,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = बुकमाकॅफोर
+
+## Repair text encoding toolbar button
+
 
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
@@ -388,6 +445,10 @@ toolbar-button-paste =
     .label = फोनांजाब हो
     .tooltiptext = ({ $shortcut }) खौ फोनांजाब हो
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing-manage-accesskey = M
@@ -409,6 +470,31 @@ plugin-crashed-notification-submit-button =
     .label = मोनसे क्रेस रिपर्टखौ गथाय
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-reported-attack-site-message = रिपर्ट खालामखानाय गाग्लोबनाय साइट!
+safebrowsing-get-me-out-of-here-button =
+    .label = बेनिफ्राय आंखौ लां!
+    .accesskey = G
+safebrowsing-not-an-attack-site-button =
+    .label = बेयो मोनसे गाग्लोबनाय साइट गैया...
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = नोंथाङा { $hostName } आव थांनायखौ फोरमायदों नामा?
+keyword-uri-fixup-go-to-button =
+    .label = नंगौ, आंखौ { $hostName } आव लां
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -424,7 +510,21 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = बन्द खालाम
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -454,9 +554,22 @@ tabs-toolbar-list-all-tabs =
     .label = गासै टेबखौ लिस्ट खालाम
     .tooltiptext = गासै टेबखौ लिस्ट खालाम
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = आगंनो दिन्थि माबोरै
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -487,6 +600,10 @@ unified-extensions-button-quarantined =
     .label = बारायनायफोर
     .tooltiptext = बारायनायफोर
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -496,6 +613,10 @@ reset-pbm-panel-cancel-button =
     .label = नेवसि
     .accesskey = न
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } आ फिन ल'ड खालामनायखाय बे बिलाइखौ हेंथा होबाय।
@@ -503,6 +624,12 @@ refresh-blocked-redirect-label = { -brand-short-name } आ बे बिला�
 refresh-blocked-allow =
     .label = गनायथि हो
     .accesskey = A
+
+## Firefox Relay integration
+
+
+## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -522,6 +649,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' खौ दिनथि
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-learn-more =
@@ -532,3 +669,19 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = गोबां सोलों
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

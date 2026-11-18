@@ -24,6 +24,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Управление на изскачащи прозорци и пренасочвания от трети страни…
     .accesskey = и
+
+##
+
 urlbar-identity-button =
     .aria-label = Показване на информация за уеб страницата
 
@@ -89,6 +92,17 @@ urlbar-result-menu-dismiss-suggestion2 = Отхвърляне на това пр
     .accesskey = х
 urlbar-result-menu-manage-firefox-suggest2 = Управление на { -firefox-suggest-brand-name }
     .accesskey = У
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Докладване на неточно местоположение
+    .accesskey = Д
+urlbar-result-menu-show-less-frequently3 = Показване по-рядко
+    .accesskey = П
+urlbar-result-menu-dont-show-weather-suggestions3 = Без показване на предложения за времето
+    .accesskey = Б
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -256,6 +270,11 @@ search-one-offs-add-engine =
     .aria-label = Добавя търсещата машина „{ $engineName }“
     .label = Добавяне на „{ $engineName }“
     .tooltiptext = Добавя търсещата машина „{ $engineName }“
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Добавяне на търсеща машина
+    .accesskey = Д
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -495,6 +514,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -667,6 +689,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсорирано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Попитайте
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -686,6 +713,9 @@ urlbar-result-realtime-opt-in-allow = Показване на подсказки
 urlbar-result-realtime-opt-in-not-now = Не сега
 urlbar-result-realtime-opt-in-dismiss = Прекратяване
 urlbar-result-realtime-opt-in-dismiss-all2 = Без показване на тези предложения
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Без показване на пазарни предложения
+    .accesskey = Б
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Без показване на пазарни предложения
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -847,6 +877,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Набиращи популярност в { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Без показване на набиращи популярност търсения
+    .accesskey = Б
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Без показване на набиращи популярност търсения
     .accesskey = Б
@@ -1045,6 +1078,10 @@ toolbar-button-paste =
     .label = Поставяне
     .tooltiptext = Поставяне ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Аудио или видеозапис от страницата използва софтуер за DRM, който може да ограничи какво { -brand-short-name } ви позволява да правите с тях.
@@ -1079,6 +1116,42 @@ plugin-crashed-notification-reload-button =
 plugin-crashed-notification-submit-button =
     .label = Изпращане на доклад за срив
     .accesskey = И
+
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Измамническа страница!
+safebrowsing-reported-attack-site-message = Докладвана атакуваща страница!
+safebrowsing-reported-unwanted-site-message = Докладвана страница с нежелан софтуер!
+safebrowsing-reported-harmful-site-message = Страница, докладвана като зловредна!
+safebrowsing-get-me-out-of-here-button =
+    .label = Махнете ме от тук!
+    .accesskey = М
+safebrowsing-not-a-deceptive-site-button =
+    .label = Това не е измамническа страница…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Това не е атакуваща страница…
+    .accesskey = а
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Трябва да се впишете в тази мрежа, за да получите достъп до интернет.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Страница за вписване в мрежа
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Имахте предвид да посетите { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Да, към { $hostName }
+    .accesskey = Д
 
 ## Password save/update panel
 
@@ -1119,6 +1192,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = л
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1169,6 +1245,13 @@ restore-session-startup-suggestion-button = Покажете ми как
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Достъпът до файловете на компютъра е ограничен от вашето ведомство.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1337,6 +1420,13 @@ file-picker-crashed-open = Файловият диалогов прозорец 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Файловият диалогов прозорец на Windows се срина. Файлът ще бъде запазен в { $path }.
 file-picker-crashed-save-nowhere = Файловият диалогов прозорец на Windows се срина. Не може да бъде намерена папка по подразбиране. Файлът няма да бъде записан.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Показване в папка
     .accessKey = о
@@ -1409,6 +1499,9 @@ trustpanel-blocker-see-all = Вижте всички
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1502,3 +1595,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> проследяващ скрипт е блокиран на този сайт.
        *[other] <span data-l10n-name="count">{ $count }</span> проследяващи скриптове са блокирани на този сайт.
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

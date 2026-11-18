@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = …ਸਾਂਝਾ ਕਰੋ
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
 
@@ -131,6 +134,17 @@ urlbar-result-menu-remove-top-site = ਇਸ ਸਿਖਰਲੀ ਸਾਈਟ ਨ�
     .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = ਗਲਤ ਟਿਕਾਣੇ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = ਘੱਟ ਵਾਰੀ ਦਿਖਾਓ
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = ਮੌਸਮੀ ਸੁਝਾਅ ਨਾ ਦਿਖਾਓ
+    .accesskey = n
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -310,6 +324,11 @@ search-one-offs-add-engine =
     .aria-label = “{ $engineName }” ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ
     .label = “{ $engineName }” ਨੂੰ ਜੋੜੋ
     .tooltiptext = “{ $engineName }” ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -757,6 +776,11 @@ urlbar-result-weather-title-city-only = { $city } ਵਿਖੇ <strong>{ $temper
 urlbar-result-weather-provider-sponsored = { $provider } · ਸਪੌਂਸਰ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = ਪੁੱਛੋ
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -830,6 +854,9 @@ urlbar-result-realtime-opt-in-allow = ਸੁਝਾਵਾਂ ਨੂੰ ਵੇਖ�
 urlbar-result-realtime-opt-in-not-now = ਹੁਣੇ ਨਹੀਂ
 urlbar-result-realtime-opt-in-dismiss = ਖ਼ਾਰਜ ਕਰੋ
 urlbar-result-realtime-opt-in-dismiss-all2 = ਇਹ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
+    .accesskey = n
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1026,6 +1053,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } ਉੱਤੇ ਰੁਝਾਨ
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = ਖੋਜਾਂ ਦੇ ਰੁਝਾਨ ਨਾ ਦਿਖਾਓ
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ਖੋਜਾਂ ਦੇ ਰੁਝਾਨ ਨਾ ਦਿਖਾਓ
     .accesskey = D
@@ -1290,6 +1320,42 @@ plugin-crashed-notification-submit-button =
     .label = ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = ਭਰਮਪੂਰਨ ਸਾਈਟ!
+safebrowsing-reported-attack-site-message = ਹਮਲਾਵਰ ਸਾਈਟ ਵਜੋਂ ਰਿਪੋਰਟ ਕਰੋ!
+safebrowsing-reported-unwanted-site-message = ਬੇਲੋੜੀ ਸਾਫਟਵੇਅਰ ਵੈਬਸਾਈਟ ਵਜੋਂ ਰਿਪੋਰਟ ਕਰੋ!
+safebrowsing-reported-harmful-site-message = ਨੁਕਸਾਨਦਾਇਕ ਸਾਈਟ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤਾ!
+safebrowsing-get-me-out-of-here-button =
+    .label = ਮੈਨੂੰ ਇੱਥੋਂ ਕੱਢੋ!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = …ਇਹ ਹਮਲਾਵਰ ਸਾਈਟ ਨਹੀਂ ਹੈ
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = ਇੰਟਰਨੈੱਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਸਤੇ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਇਸ ਨੈੱਟਵਰਕ ਵਿੱਚ ਲਾਗਇਨ ਕਰਨਾ ਪਵੇਗਾ।
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = ਨੈੱਟਵਰਕ ਲਾਗਇਨ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹੋ
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = ਕੀ ਤੁਹਾਡਾ ਮਤਲਬ { $hostName } ਉੱਤੇ ਜਾਣ ਤੋਂ ਹੈ?
+keyword-uri-fixup-go-to-button =
+    .label = ਹਾਂ, ਮੈਨੂੰ { $hostName } ਉੱਤੇ ਲੈ ਕੇ ਜਾਓ
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1340,6 +1406,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1490,9 +1559,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = ਆਪਣੇ ਸਾਰੇ ਜਾਂ ਕੁਝ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
-    .tooltiptext = ਆਪਣੇ ਸਾਰੇ ਜਾਂ ਕੁਝ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
 fire-button-panel-heading = ਸਾਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 fire-button-panel-description = ਇਸ ਨਾਲ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਜਾਉਂਗੇ। ਇਹ ਵਿੰਡੋ ਬੰਦ ਹੋਵੇਗੀ ਅਤੇ { -brand-short-name } ਨਵੀਂ ਵਿੰਡੋ ਖੋਲ੍ਹੇਗਾ।
 fire-button-panel-choose-description = ਜੇ ਤੁਸੀਂ ਹਰ ਚੀਜ਼ ਨੂੰ ਹਟਾਉਣਾ ਨਹੀਂ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਖਾਸ ਡਾਟੇ ਨੂੰ ਚੁਣੋ।
@@ -1601,6 +1667,13 @@ file-picker-crashed-open = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਫਾਇਲ ਨੂੰ { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
 file-picker-crashed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਕੋਈ ਮੂਲ ਫੋਲਡਰ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ; ਫਾਇਲ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
     .accessKey = F
@@ -1676,6 +1749,9 @@ trustpanel-blocker-see-all = ਸਾਰੇ ਵੇਖੋ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

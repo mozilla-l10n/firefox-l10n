@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Deila…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Skoða upplýsingar um vefsvæði
 
@@ -130,6 +133,17 @@ urlbar-result-menu-dismiss-suggestion2 = Vísa þessari tillögu frá
     .accesskey = V
 urlbar-result-menu-manage-firefox-suggest2 = Sýsla með { -firefox-suggest-brand-name }
     .accesskey = m
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Tilkynna ónákvæma staðsetningu
+    .accesskey = T
+urlbar-result-menu-show-less-frequently3 = Sýna sjaldnar
+    .accesskey = S
+urlbar-result-menu-dont-show-weather-suggestions3 = Ekki sýna tillögur um veður
+    .accesskey = E
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -309,6 +323,11 @@ search-one-offs-add-engine =
     .aria-label = Bæta við leitarvélinni “{ $engineName }”
     .label = Bæta við “{ $engineName }”
     .tooltiptext = Bæta við leitarvélinni “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Bæta við leitarvél
+    .accesskey = B
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -736,6 +755,11 @@ urlbar-result-weather-provider-sponsored = { $provider }∙Kostað
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spyrja
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -749,6 +773,9 @@ urlbar-result-realtime-opt-in-allow = Sýna tillögur
 urlbar-result-realtime-opt-in-not-now = Ekki núna
 urlbar-result-realtime-opt-in-dismiss = Afgreiða
 urlbar-result-realtime-opt-in-dismiss-all2 = Ekki sýna þessar tillögur
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Ekki sýna tillögur um fjármálamarkaði
+    .accesskey = E
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Ekki sýna tillögur um fjármálamarkaði
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -925,6 +952,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Vinsælt á { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ekki sýna vinsælar leitir
+    .accesskey = E
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ekki sýna vinsælar leitir
     .accesskey = k
@@ -1184,6 +1214,42 @@ plugin-crashed-notification-submit-button =
     .label = Senda hrunskýrslu
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Svindlsvæði!
+safebrowsing-reported-attack-site-message = Þetta er tilkynnt árásarsvæði!
+safebrowsing-reported-unwanted-site-message = Tilkynna óæskilegt vefsvæði!
+safebrowsing-reported-harmful-site-message = Tilkynna hættulegt vefsvæði!
+safebrowsing-get-me-out-of-here-button =
+    .label = Hjálpaðu mér héðan út!
+    .accesskey = H
+safebrowsing-not-a-deceptive-site-button =
+    .label = Þetta er ekki svindlsvæði…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Þetta er ekki árásarsvæði…
+    .accesskey = Þ
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Þú verður að skrá þig inn á þetta netkerfi áður en þú færð aðgang að Internetinu.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Opnaðu netinnskráningarsíðu
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Vildirðu fara á { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Já, fara á { $hostName }
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1234,6 +1300,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1359,6 +1428,10 @@ reset-pbm-panel-cancel-button =
     .accesskey = H
 reset-pbm-panel-complete = Huliðsvafurgögnum eytt
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } kom í veg fyrir að síðan myndi endurnýjast sjálfkrafa.
@@ -1451,6 +1524,13 @@ file-picker-crashed-open = Windows-skráaglugginn hefur hrunið. Ekki var hægt 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-skráaglugginn hefur hrunið. Skráin verður vistuð í { $path }.
 file-picker-crashed-save-nowhere = Windows-skráaglugginn hefur hrunið. Engin sjálfgefin mappa fannst; skráin verður ekki vistuð.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Sýna í möppu
     .accessKey = m
@@ -1526,6 +1606,9 @@ trustpanel-blocker-see-all = Sjá allt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Rakningarvarnir fyrir { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

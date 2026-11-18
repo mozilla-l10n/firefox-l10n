@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Kopīgot…
     .accesskey = K
+
+##
+
 urlbar-identity-button =
     .aria-label = Apskatīt informāciju par vietni
 
@@ -132,6 +135,17 @@ urlbar-result-menu-remove-top-site = Noņemt šo bieži apmeklēto vietni
     .accesskey = b
 urlbar-result-menu-manage-firefox-suggest2 = Pārvaldīt { -firefox-suggest-brand-name }
     .accesskey = P
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Ziņot par nepareizu atrašanās vietu
+    .accesskey = Z
+urlbar-result-menu-show-less-frequently3 = Rādīt retāk
+    .accesskey = R
+urlbar-result-menu-dont-show-weather-suggestions3 = Nerādīt laikapstākļu ieteikumus
+    .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -311,6 +325,11 @@ search-one-offs-add-engine =
     .aria-label = Pievienot meklētāju “{ $engineName }”
     .label = Pievienot “{ $engineName }”
     .tooltiptext = Pievienot meklētāju “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Pievienot meklētāju
+    .accesskey = P
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -757,6 +776,11 @@ urlbar-result-weather-title-city-only = { $city }: <strong>{ $temperature }°{ $
 urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prasīt
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -833,6 +857,9 @@ urlbar-result-realtime-opt-in-allow = Rādīt ieteikumus
 urlbar-result-realtime-opt-in-not-now = Ne tagad
 urlbar-result-realtime-opt-in-dismiss = Noraidīt
 urlbar-result-realtime-opt-in-dismiss-all2 = Nerādīt šos ieteikumus
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Nerādīt tirgus ieteikumus
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Nerādīt tirgus ieteikumus
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1032,6 +1059,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendences meklētājā { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Nerādīt tendences meklēšanas vaicājumos
+    .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nerādīt tendences meklēšanas vaicājumos
     .accesskey = N
@@ -1296,6 +1326,42 @@ plugin-crashed-notification-submit-button =
     .label = Iesniegt avārijas ziņojumu
     .accesskey = I
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Maldinoša lapa!
+safebrowsing-reported-attack-site-message = Kaitnieku lapa!
+safebrowsing-reported-unwanted-site-message = Bīstama nevēlamas programmatūras lapa!
+safebrowsing-reported-harmful-site-message = Ziņoja par kaitīgu lapu!
+safebrowsing-get-me-out-of-here-button =
+    .label = Vediet mani prom no šejienes!
+    .accesskey = V
+safebrowsing-not-a-deceptive-site-button =
+    .label = Šī nav maldinoša lapa…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Šī lapa neveic uzbrukumus…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Atvērt tīkla pieteikšanās lapu
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Vai vēlējies doties uz { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Jā, vediet mani uz { $hostName }
+    .accesskey = J
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1347,6 +1413,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1497,9 +1566,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Izdzēst kādus vai visus pārlūkošanas datus
-    .tooltiptext = Izdzēst kādus vai visus pārlūkošanas datus
 fire-button-panel-heading = Izdzēst visus pārlūkošanas datus?
 fire-button-panel-description = Tas izdzēš vēsturi, sīkdatnes un vietņu datus. Notiks izrakstīšanās no vietnēm. Šis logs aizvērsies., un { -brand-short-name } atvērs jaunu.
 fire-button-panel-choose-description = Ja nevēlies izdzēst visu, izvēlies noteiktus datus.
@@ -1618,6 +1684,13 @@ file-picker-crashed-open = Nevarēja atvērt Windows datņu dialoglodziņu. Neva
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows datņu dialoglodziņš ir avarējis. Datne tiks saglabāta mapē { $path }.
 file-picker-crashed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atrast noklusējuma mapi; datne netiks saglabāta.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Rādīt mapē
     .accessKey = m
@@ -1693,6 +1766,9 @@ trustpanel-blocker-see-all = Apskatīt visu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Pretizsekošanas aizsardzība { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

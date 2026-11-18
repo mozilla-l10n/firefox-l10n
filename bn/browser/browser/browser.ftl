@@ -18,6 +18,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = ব্যক্তিগত ব্রাউজিং
+
+##
+
 urlbar-identity-button =
     .aria-label = সাইটের তথ্য দেখাও
 
@@ -81,6 +84,17 @@ urlbar-result-menu-tip-get-help2 = সাহায্য নিন
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = এই পরামর্শটি বাতিল করুন
     .accesskey = D
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = ভুল লোকেশন রিপোর্ট করুন
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = কম ঘন ঘন দেখান
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = আবহাওয়ার পরামর্শ দেখাবেন না
+    .accesskey = n
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -237,6 +251,11 @@ search-one-offs-add-engine =
     .aria-label = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
     .label = “{ $engineName }” যোগ করুন
     .tooltiptext = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = অনুসন্ধান ইঞ্জিন যোগ
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -447,6 +466,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = এই সেশনের জন্য শেয়ারিং সুরক্ষা অক্ষম করুন৷
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -571,6 +593,11 @@ urlbar-result-action-undefined-calculator-result = অনির্ধারি�
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · স্পন্সরকৃত
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -583,6 +610,9 @@ urlbar-result-realtime-opt-in-not-now = এখন নয়
 urlbar-result-realtime-opt-in-dismiss = বাতিল
 urlbar-result-realtime-opt-in-dismiss-all2 = এই পরামর্শগুলি দেখাবেন না
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = মার্কেটের পরামর্শগুলি দেখাবেন না
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = মার্কেটের পরামর্শগুলি দেখাবেন না
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = এই পরামর্শগুলি দেখাবেন না
@@ -594,6 +624,9 @@ urlbar-result-dismissal-acknowledgment-market = আপনার প্রতি�
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। এখন থেকে আপনি আর এই পরামর্শগুলি দেখবেন না।
+
+## These strings are used for suggestions of important dates in the urlbar.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -625,6 +658,9 @@ urlbar-result-action-search-tabs = অনুসন্ধান ট্যাব
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = খুলুন { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -821,6 +857,10 @@ toolbar-button-paste =
     .label = প্রতিলেপন
     .tooltiptext = প্রতিলেপন ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
@@ -855,6 +895,42 @@ plugin-crashed-notification-submit-button =
     .label = ক্র্যাশ প্রতিবেদন জমা দিন
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = ক্ষতিকারক সাইট
+safebrowsing-reported-attack-site-message = রিপোর্টকৃত আক্রমনকারী সাইট!
+safebrowsing-reported-unwanted-site-message = সন্দেহভাজন অবাঞ্ছিত সফ্টওয়্যার সাইট রিপোর্ট করা হয়েছে!
+safebrowsing-reported-harmful-site-message = ক্ষতিকর সাইট হিসেবে চিহ্নিত!
+safebrowsing-get-me-out-of-here-button =
+    .label = এখান থেকে বেড়িয়ে যেতে চাই!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = d এটা ক্ষতিকারক সাইট না…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = এটি আক্রমনকারী সাইট নয়...
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = ইন্টারনেট প্রবেশ করতে হলে, আপনাকে এই নেটওয়ার্কে অবশ্যই লগইন করতে হবে।
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = নেটওয়ার্ক লগইন পাতা খুলুন
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = আপনি কি { $hostName } যাওয়ার কথা বোঝাতে চাচ্ছেন?
+keyword-uri-fixup-go-to-button =
+    .label = হ্যাঁ, আমাকে { $hostName } নিয়ে যাও
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -870,13 +946,24 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = বন্ধ
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
     .label = পিকচার-ইন-পিকচার টগল লুকান
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -925,6 +1012,13 @@ restore-session-startup-suggestion-button = আমাকে দেখান ক�
 
 filepicker-blocked-infobar = আপনার সংস্থা এই কম্পিউটারে লোকাল ফাইলগুলিতে অ্যাক্সেস ব্লক করেছে
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } স্বয়ংক্রিয়ভাবে { -vendor-short-name } কে কিছু তথ্য প্রেরণ করে যাতে আমরা আপনার অভিজ্ঞতা উন্নত করতে পারি।
@@ -938,9 +1032,28 @@ private-browsing-indicator-tooltip =
     .tooltiptext = ব্যক্তিগত ব্রাউজিং
 content-analysis-panel-title = তথ্য সুরক্ষা
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-complete = ব্যক্তিগত সেশনের তথ্য মুছে ফেলা হয়েছে
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -994,6 +1107,13 @@ popup-show-popup-menuitem =
 
 file-picker-failed-open = Windows ফাইল-ডায়লগ খোলা যায়নি। কোনও ফাইল বা ফোল্ডার নির্বাচন করা যায়নি।
 
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = একটা বা তার বেশি অ্যাড-অন যাচাই করা যাবে না এবং নিষ্ক্রিয় করে দেওয়া হয়েছে।
@@ -1021,6 +1141,9 @@ trustpanel-clear-cookies-subview-button-cancel = বাতিল
 trustpanel-siteinformation-morelink = আরও সাইটের তথ্য
 trustpanel-blocker-see-all = সব দেখুন
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1030,3 +1153,6 @@ trustpanel-list-label-tracking-content = ট্র্যাকিং কন্�
 trustpanel-tracking-content-tab-list-header = এই সাইটগুলি আপনাকে ট্র্যাক করার চেষ্টা করছে:
 trustpanel-fingerprinter-list-header = এই সাইটগুলো আপনার ফিঙ্গারপ্রিন্ট নেওয়ার চেষ্টা করছে:
 trustpanel-cryptominer-tab-list-header = এই সাইটগুলো ক্রিপ্টো মাইনিং করার চেষ্টা করছে:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

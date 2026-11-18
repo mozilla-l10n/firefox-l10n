@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 공유…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 사이트 정보 보기
 
@@ -127,6 +130,17 @@ urlbar-result-menu-remove-top-site = 이 상위 사이트 제거
     .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } 관리
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = 부정확한 위치 신고
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = 덜 자주 보기
+    .accesskey = f
+urlbar-result-menu-dont-show-weather-suggestions3 = 날씨 제안을 표시하지 않음
+    .accesskey = n
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -306,6 +320,11 @@ search-one-offs-add-engine =
     .aria-label = “{ $engineName }” 검색 엔진 추가
     .label = “{ $engineName }” 추가
     .tooltiptext = “{ $engineName }” 검색 엔진 추가
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = 검색 엔진 추가
+    .accesskey = h
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -747,6 +766,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 스폰서
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 묻기
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -808,6 +832,9 @@ urlbar-result-realtime-opt-in-allow = 제안 표시
 urlbar-result-realtime-opt-in-not-now = 나중에
 urlbar-result-realtime-opt-in-dismiss = 닫기
 urlbar-result-realtime-opt-in-dismiss-all2 = 이 제안을 표시하지 않음
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = 시장 제안을 표시하지 않음
+    .accesskey = n
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = 시장 제안을 표시하지 않음
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -992,6 +1019,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } 인기
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = 인기 검색어를 표시하지 않음
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 인기 검색어를 표시하지 않음
     .accesskey = D
@@ -1256,6 +1286,42 @@ plugin-crashed-notification-submit-button =
     .label = 충돌 보고서 제출
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = 사기 사이트!
+safebrowsing-reported-attack-site-message = 보고된 공격 사이트!
+safebrowsing-reported-unwanted-site-message = 사용자 동의 없이 설치하는 소프트웨어 사이트로 신고되었습니다!
+safebrowsing-reported-harmful-site-message = 유해한 사이트로 신고됨!
+safebrowsing-get-me-out-of-here-button =
+    .label = 밖으로 나가기!
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = 이 사이트는 사기 사이트가 아닙니다…
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = 공격 사이트 아님…
+    .accesskey = A
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = 인터넷을 사용하기 위해선 반드시 이 네트워크에 로그인해야 합니다.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = 네트워크 로그인 페이지 열기
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = { $hostName }로 이동하시겠습니까?
+keyword-uri-fixup-go-to-button =
+    .label = 예, { $hostName }로 이동합니다
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1302,6 +1368,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1452,9 +1521,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = 탐색 데이터의 일부 또는 전부를 삭제합니다
-    .tooltiptext = 탐색 데이터의 일부 또는 전부를 삭제합니다
 fire-button-panel-heading = 탐색 데이터를 모두 삭제하시겠습니까?
 fire-button-panel-description = 기록, 쿠키 및 사이트 데이터를 삭제합니다. 사이트에서 로그아웃됩니다. 이 창은 닫히고 { -brand-short-name }가 새 창을 엽니다.
 fire-button-panel-choose-description = 모두 삭제하지 않으려면 특정 데이터를 선택하세요.
@@ -1556,6 +1622,13 @@ file-picker-crashed-open = Windows 파일 대화 상자가 충돌했습니다. �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 파일 대화 상자가 충돌했습니다. 파일은 { $path }에 저장됩니다.
 file-picker-crashed-save-nowhere = Windows 파일 대화 상자가 충돌했습니다. 기본 폴더를 찾을 수 없습니다. 파일은 저장되지 않습니다.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 폴더에서 보기
     .accessKey = F
@@ -1631,6 +1704,9 @@ trustpanel-blocker-see-all = 모두 보기
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host }에 대한 추적 방지
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

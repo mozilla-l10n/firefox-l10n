@@ -67,6 +67,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Dźělić…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Sydłowe informacije wobhladać
 
@@ -136,6 +139,17 @@ urlbar-result-menu-remove-top-site = Tute woblubowane sydło wotstronić
     .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } rjadować
     .accesskey = r
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Njedokładne stejnišćo zdźělić
+    .accesskey = N
+urlbar-result-menu-show-less-frequently3 = Mjenje často pokazać
+    .accesskey = M
+urlbar-result-menu-dont-show-weather-suggestions3 = Wjedrowe daty njepokazać
+    .accesskey = W
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -315,6 +329,11 @@ search-one-offs-add-engine =
     .aria-label = Pytawu „{ $engineName }“ přidać
     .label = „{ $engineName }“ přidać
     .tooltiptext = Pytawu „{ $engineName }“ přidać
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Pytawu přidać
+    .accesskey = P
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -762,6 +781,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prašeć so
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -841,6 +865,9 @@ urlbar-result-realtime-opt-in-allow = Namjety pokazać
 urlbar-result-realtime-opt-in-not-now = Nic nětko
 urlbar-result-realtime-opt-in-dismiss = Zaćisnyć
 urlbar-result-realtime-opt-in-dismiss-all2 = Tute namjety njepokazać
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Wične namjety njepokazać
+    .accesskey = W
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Wične namjety njepokazać
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1043,6 +1070,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trendowy na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Trendowe pytanja njepokazać
+    .accesskey = T
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Trendowe pytanja njepokazać
     .accesskey = T
@@ -1307,6 +1337,42 @@ plugin-crashed-notification-submit-button =
     .label = Spadowu rozprawu pósłać
     .accesskey = r
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Wobšudne sydło!
+safebrowsing-reported-attack-site-message = Naběhowace sydło zdźělene!
+safebrowsing-reported-unwanted-site-message = Sydło z njewitanej softwaru zdźělene!
+safebrowsing-reported-harmful-site-message = Škódne sydło zdźělene!
+safebrowsing-get-me-out-of-here-button =
+    .label = Nětk pak preč!
+    .accesskey = N
+safebrowsing-not-a-deceptive-site-button =
+    .label = To wobšudne sydło njeje…
+    .accesskey = w
+safebrowsing-not-an-attack-site-button =
+    .label = To nadběhowace sydło njeje…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Dyrbiće so pola tuteje syće přizjewić, prjedy hač móžeće přistup k internetej měć.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Přizjewjensku stronu syće wočinić
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Chcyšće { $hostName } wopytać?
+keyword-uri-fixup-go-to-button =
+    .label = Haj, chcu k { $hostName }
+    .accesskey = H
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1359,6 +1425,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1509,9 +1578,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Někotre abo wšě daty wašeho přehladowanja zhašeć
-    .tooltiptext = Někotre abo wšě daty wašeho přehladowanja zhašeć
 fire-button-panel-heading = Wšě daty přehladowanja zhašeć?
 fire-button-panel-description = To historiju, placki a sydłowe daty zhaša. Wotzjewjeja was wot sydłow. Tute wokno so začini, a { -brand-short-name } nowe wočini.
 fire-button-panel-choose-description = Jeli nochceće wšitko zhašeć, wubjerće wěste daty město toho.
@@ -1634,6 +1700,13 @@ file-picker-crashed-open = Datajowy dialog Windows je spadnył. Dataja abo rjado
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Datajowy dialog Windows je spadnył. Dataja budźe so do { $path } składować.
 file-picker-crashed-save-nowhere = Datajowy dialog Windows je spadnył. Standardny rjadowak njeda so namakać; dataja njebudźe so składować.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = W rjadowaku pokazać
     .accessKey = r
@@ -1709,6 +1782,9 @@ trustpanel-blocker-see-all = Wšě pokazać
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Slědowanski škit za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

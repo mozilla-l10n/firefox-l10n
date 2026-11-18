@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = שיתוף…
     .accesskey = ש
+
+##
+
 urlbar-identity-button =
     .aria-label = הצגת נתוני אתר
 
@@ -131,6 +134,17 @@ urlbar-result-menu-remove-top-site = הסרת האתר המוביל הזה
     .accesskey = ה
 urlbar-result-menu-manage-firefox-suggest2 = ניהול { -firefox-suggest-brand-name }
     .accesskey = נ
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = דיווח על מיקום לא מדויק
+    .accesskey = ד
+urlbar-result-menu-show-less-frequently3 = להציג בתדירות נמוכה יותר
+    .accesskey = ל
+urlbar-result-menu-dont-show-weather-suggestions3 = לא להציג הצעות מזג אוויר
+    .accesskey = ל
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -310,6 +324,11 @@ search-one-offs-add-engine =
     .aria-label = הוספת מנוע החיפוש “{ $engineName }”
     .label = הוספת “{ $engineName }”
     .tooltiptext = הוספת מנוע החיפוש “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = הוספת מנוע חיפוש
+    .accesskey = ה
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -753,6 +772,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = ‏{ $provider } · ממומן
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -829,6 +853,9 @@ urlbar-result-realtime-opt-in-allow = הצגת הצעות
 urlbar-result-realtime-opt-in-not-now = לא כעת
 urlbar-result-realtime-opt-in-dismiss = סגירה
 urlbar-result-realtime-opt-in-dismiss-all2 = לא להציג הצעות אלו
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = לא להציג הצעות שוק מניות
+    .accesskey = ל
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = לא להציג הצעות שוק מניות
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1028,6 +1055,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = פופולרי ב־{ $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = לא להציע חיפושים פופולריים
+    .accesskey = ל
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = לא להציע חיפושים פופולריים
     .accesskey = פ
@@ -1292,6 +1322,42 @@ plugin-crashed-notification-submit-button =
     .label = שליחת דיווח קריסה
     .accesskey = ק
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = אתר מטעה!
+safebrowsing-reported-attack-site-message = אתר תקיפה מדווח!
+safebrowsing-reported-unwanted-site-message = אתר תוכנה לא רצויה מדווח!
+safebrowsing-reported-harmful-site-message = אתר שדווח כמזיק!
+safebrowsing-get-me-out-of-here-button =
+    .label = קחו אותי מכאן!
+    .accesskey = ק
+safebrowsing-not-a-deceptive-site-button =
+    .label = אתר זה אינו אתר מטעה…
+    .accesskey = ט
+safebrowsing-not-an-attack-site-button =
+    .label = אתר זה אינו אתר תקיפה…
+    .accesskey = א
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = עליך להתחבר לרשת זו לפני שתוכל לגלוש באינטרנט.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = פתיחת דף התחברות לרשת
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = האם התכוונת להגיע אל { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = כן, נא להעביר אותי אל { $hostName }
+    .accesskey = כ
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1342,6 +1408,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = ש
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1492,9 +1561,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = מחיקת חלק או כל נתוני הגלישה שלך
-    .tooltiptext = מחיקת חלק או כל נתוני הגלישה שלך
 fire-button-panel-heading = למחוק את כל נתוני הגלישה שלך?
 fire-button-panel-description = פעולה זו תמחק את ההיסטוריה, עוגיות ונתוני אתרים. יבוצע ניתוק מחשבונות באתרים. חלון זה ייסגר, ו־{ -brand-short-name } יפתח חלון חדש.
 fire-button-panel-choose-description = אם אין ברצונך למחוק הכל, יש לבחור בנתונים ספציפיים במקום.
@@ -1608,6 +1674,13 @@ file-picker-crashed-open = דו־שיח הקבצים של Windows קרס. לא �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = דו־שיח הקבצים של Windows קרס. הקובץ יישמר ב־{ $path }.
 file-picker-crashed-save-nowhere = דו־שיח הקבצים של Windows קרס. לא נמצאה תיקיית ברירת מחדל; הקובץ לא יישמר.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = הצגה בתיקייה
     .accessKey = ת
@@ -1683,6 +1756,9 @@ trustpanel-blocker-see-all = צפייה בהכל
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = הגנות מעקב עבור { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

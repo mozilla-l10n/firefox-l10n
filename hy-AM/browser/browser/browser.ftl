@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Համօգտագործել…
     .accesskey = Հ
+
+##
+
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկությունը
 
@@ -132,6 +135,17 @@ urlbar-result-menu-remove-top-site = Հեռացնել այս գլխավոր կա
     .accesskey = Հ
 urlbar-result-menu-manage-firefox-suggest2 = Կառավարել { -firefox-suggest-brand-name }-ը
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Հաղորդել ոճ ճշգրիտ տեղադրության մասին
+    .accesskey = Հ
+urlbar-result-menu-show-less-frequently3 = Ցուցադրել հազվադեպ
+    .accesskey = Ց
+urlbar-result-menu-dont-show-weather-suggestions3 = Չցուցադրել եղանակի առաջարկներ
+    .accesskey = Չ
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -311,6 +325,11 @@ search-one-offs-add-engine =
     .aria-label = Ավելացնել «{ $engineName }» որոնիչը
     .label = Ավելացնել «{ $engineName }»-ը
     .tooltiptext = Ավելացնել «{ $engineName }» որոնիչը
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Ավելացնել որոնիչ
+    .accesskey = Ա
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -756,6 +775,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ∙ Հովանավորվում է
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Հարցնել
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -829,6 +853,9 @@ urlbar-result-realtime-opt-in-allow = Ցուցադրել առաջարկներ
 urlbar-result-realtime-opt-in-not-now = Ոչ հիմա
 urlbar-result-realtime-opt-in-dismiss = Բաց թողնել
 urlbar-result-realtime-opt-in-dismiss-all2 = Չցուցադրել այս առաջարկները
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Չցուցադրել այս առաջարկները
+    .accesskey = Չ
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Չցուցադրել այս առաջարկները
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1025,6 +1052,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Թրենդային { $engine }-ում
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Մի ցուցադրեք թրենդային որոնումները
+    .accesskey = Մ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Մի ցուցադրեք թրենդային որոնումները
     .accesskey = D
@@ -1289,6 +1319,42 @@ plugin-crashed-notification-submit-button =
     .label = Տեղեկացնել վթարի մասին
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Խաբուսիկ կայք
+safebrowsing-reported-attack-site-message = Զեկուցված է իբրև հարձակողական կայք
+safebrowsing-reported-unwanted-site-message = Այս կայքը հաղորդվել է որպես անցանկալի ծրագրերի կայք։
+safebrowsing-reported-harmful-site-message = Զեկուցված վնասակար կայք։
+safebrowsing-get-me-out-of-here-button =
+    .label = Դուրս բեր ինձ այստեղից
+    .accesskey = G
+safebrowsing-not-a-deceptive-site-button =
+    .label = Սա խաբուսիկ կայք չէ...
+    .accesskey = D
+safebrowsing-not-an-attack-site-button =
+    .label = Սա հարձակողական կայք չէ...
+    .accesskey = հ
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Դուք պետք է մուտք գործեք այս ցանց՝ համացանց մուտք ստանալու համար:
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Բացել ցանց մուտք գործելու էջը
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Անցնե՞լ { $hostName }-ին:
+keyword-uri-fixup-go-to-button =
+    .label = Այո, տա՛ր ինձ { $hostName }
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1339,6 +1405,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1573,6 +1642,13 @@ file-picker-crashed-open = Windows-ի ֆայլերի երկխոսության պ
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-ի ֆայլի երկխոսության պատուհանը խափանվել է։ Ֆայլը կպահպանվի { $path }-ում։
 file-picker-crashed-save-nowhere = Windows-ի ֆայլերի երկխոսության պատուհանը խափանվել է: Լռելյայն թղթապանակը չի գտնվել. ֆայլը չի պահպանվի:
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ցուցադրել պանակում
     .accessKey = F
@@ -1647,6 +1723,9 @@ trustpanel-blocker-see-all = Տեսնել բոլորը
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Հետևողականության պաշտպանություն { $host }-ի համար
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

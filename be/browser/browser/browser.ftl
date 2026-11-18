@@ -66,6 +66,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Падзяліцца…
     .accesskey = П
+
+##
+
 urlbar-identity-button =
     .aria-label = Звесткі аб сайце
 
@@ -135,6 +138,17 @@ urlbar-result-menu-remove-top-site = Выдаліць гэты топ-сайт
     .accesskey = г
 urlbar-result-menu-manage-firefox-suggest2 = Кіраваць { -firefox-suggest-brand-name }
     .accesskey = ц
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Паведаміць пра няправільнае месцазнаходжанне
+    .accesskey = П
+urlbar-result-menu-show-less-frequently3 = Паказваць радзей
+    .accesskey = П
+urlbar-result-menu-dont-show-weather-suggestions3 = Не паказваць прапановы надвор'я
+    .accesskey = Н
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -314,6 +328,11 @@ search-one-offs-add-engine =
     .aria-label = Дадаць пашукавік “{ $engineName }”
     .label = Дадаць“{ $engineName }”
     .tooltiptext = Дадаць пашукавік “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Дадаць пашукавік
+    .accesskey = Д
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -760,6 +779,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсар
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Спытаць
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -836,6 +860,9 @@ urlbar-result-realtime-opt-in-allow = Паказваць прапановы
 urlbar-result-realtime-opt-in-not-now = Не зараз
 urlbar-result-realtime-opt-in-dismiss = Адхіліць
 urlbar-result-realtime-opt-in-dismiss-all2 = Не паказваць гэтыя прапановы
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Не паказваць прапановы па рынку
+    .accesskey = Н
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Не паказваць прапановы па рынку
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -1035,6 +1062,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Папулярныя на { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Не паказваць папулярныя пошукавыя запыты
+    .accesskey = Н
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Не паказваць папулярныя пошукавыя запыты
     .accesskey = в
@@ -1299,6 +1329,42 @@ plugin-crashed-notification-submit-button =
     .label = Даслаць справаздачу пра падзенне браўзера
     .accesskey = Д
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Падроблены сайт!
+safebrowsing-reported-attack-site-message = Папярэджанне: нападны сайт!
+safebrowsing-reported-unwanted-site-message = Есць інфармацыя, што гэты сайт змяшчае непажаданыя праграмы!
+safebrowsing-reported-harmful-site-message = Вядомы шкодны сайт!
+safebrowsing-get-me-out-of-here-button =
+    .label = Пакінуць гэта месца!
+    .accesskey = П
+safebrowsing-not-a-deceptive-site-button =
+    .label = Гэта не падроблены сайт…
+    .accesskey = П
+safebrowsing-not-an-attack-site-button =
+    .label = Гэты сайт не атакуе камп'ютары…
+    .accesskey = А
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Вы павінны ўвайсці ў гэту сетку перад тым, як зможаце атрымаць доступ у Інтэрнэт.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Адкрыць старонку ўваходу ў сетку
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = Вы мелі на ўвазе пераход на { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Так, перайсці на { $hostName }
+    .accesskey = Т
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1350,6 +1416,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = л
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1500,9 +1569,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = Выдаліць частку або ўсе звесткі аглядання
-    .tooltiptext = Выдаліць частку або ўсе звесткі аглядання
 fire-button-panel-heading = Выдаліць усе звесткі аглядання?
 fire-button-panel-description = Гэта выдаліць гісторыю, кукі і звесткі сайтаў. Вы выйдзеце з сайтаў. Гэта акно закрыецца, і { -brand-short-name } адкрые новае.
 fire-button-panel-choose-description = Калі вы не хочаце выдаляць усё, выберыце толькі пэўныя дадзеныя.
@@ -1621,6 +1687,13 @@ file-picker-crashed-open = Здарыўся крах дыялогавага ак
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Здарыўся крах дыялогавага акна файла Windows. Файл будзе захаваны ў { $path }.
 file-picker-crashed-save-nowhere = Здарыўся крах дыялогавага акна файла Windows. Прадвызначаная папка не знойдзена; файл не будзе захаваны.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Паказаць у папцы
     .accessKey = а
@@ -1696,6 +1769,9 @@ trustpanel-blocker-see-all = Глядзець усё
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ахова ад сачэння для { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -24,6 +24,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Stiùirich roghainnean phriob-uinneagan is ath-stiùireadh le treas-phàrtaidhean…
     .accesskey = S
+
+##
+
 urlbar-identity-button =
     .aria-label = Seall fiosrachadh na làraich-lìn
 
@@ -89,6 +92,17 @@ urlbar-result-menu-dismiss-suggestion2 = Leig seachad am moladh seo
     .accesskey = L
 urlbar-result-menu-manage-firefox-suggest2 = Stiùirich { -firefox-suggest-brand-name }
     .accesskey = S
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Dèan aithris air ionad a tha ceàrr
+    .accesskey = D
+urlbar-result-menu-show-less-frequently3 = Na seall cho tric
+    .accesskey = N
+urlbar-result-menu-dont-show-weather-suggestions3 = Na seall aimsir a mholamaid
+    .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -253,6 +267,11 @@ search-one-offs-add-engine =
     .aria-label = Cuir einnsean-luirg “{ $engineName }” ris
     .label = Cuir “{ $engineName }” ris
     .tooltiptext = Cuir einnsean-luirg “{ $engineName }” ris
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Cuir einnsean-luirg ris
+    .accesskey = C
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -492,6 +511,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -665,6 +687,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsairichte
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Faighnich
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -678,6 +705,9 @@ urlbar-result-realtime-opt-in-allow = Seall na molaidhean
 urlbar-result-realtime-opt-in-not-now = Chan ann an-dràsta
 urlbar-result-realtime-opt-in-dismiss = Leig seachad
 urlbar-result-realtime-opt-in-dismiss-all2 = Na seall na molaidhean seo
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Na seall molaidhean na margaide
+    .accesskey = N
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Na seall molaidhean na margaide
 urlbar-result-realtime-opt-in-dismiss-all =
@@ -804,6 +834,9 @@ urlbar-result-action-switch-to-tabgroup = Leum gu { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Fosgail { $group }
 
+## Used in the menu of a urlbar result.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -829,6 +862,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = A’ treandadh air { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Na seall luirg a tha a’ treandadh
+    .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Na seall luirg a tha a’ treandadh
     .accesskey = N
@@ -1081,6 +1117,42 @@ plugin-crashed-notification-submit-button =
     .label = Cuir a-steach aithisg tuislidh
     .accesskey = s
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Làrach ionnsaighe!
+safebrowsing-reported-attack-site-message = Chaidh aithris gur e làrach ionnsaighe a tha seo!
+safebrowsing-reported-unwanted-site-message = Làrach a sgaoileas bathar-bog gun iarrtas!
+safebrowsing-reported-harmful-site-message = Dèan aithris gur e làrach dochainneach a tha seo!
+safebrowsing-get-me-out-of-here-button =
+    .label = A-mach às an àite seo leam!
+    .accesskey = m
+safebrowsing-not-a-deceptive-site-button =
+    .label = Chan e làrach foill a tha seo…
+    .accesskey = f
+safebrowsing-not-an-attack-site-button =
+    .label = Chan e làrach ionnsaighe a tha seo…
+    .accesskey = a
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = Feumaidh tu clàradh a-steach dhan lìonra seo mus fhaigh thu cothrom air an eadar-lìon.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Fosgail an duilleag airson clàradh a-steach do lìonra
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = An robh thu an dùil tadhal air { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Bha, nach stiùir sibh mi gu { $hostName }?
+    .accesskey = Y
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1120,6 +1192,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1167,6 +1242,13 @@ restore-session-startup-suggestion-button = Seall dhomh mar a nì mi seo
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Bhac am buidheann agad cothrom air faidhlichean ionadail air a’ choimpiutair seo
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1231,6 +1313,10 @@ reset-pbm-panel-cancel-button =
     .label = Sguir dheth
     .accesskey = S
 reset-pbm-panel-complete = Chaidh dàta an t-seisein phrìobhaidich a sguabadh às
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1336,6 +1422,13 @@ file-picker-crashed-open = Thuislich  còmhradh faidhle Windows. Cha b’ urrain
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Thuislich còmhradh faidhle Windows. Thèid am faidhle a shàbhaladh an-seo: { $path }.
 file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’fhuair sinn lorg air pasgan bunaiteach; cha tèid am faidhle a shàbhaladh.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
@@ -1411,6 +1504,9 @@ trustpanel-blocker-see-all = Seall na h-uile
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Dìon o thracadh airson { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1534,3 +1630,6 @@ trustpanel-blocker-section-header2 =
         [few] Chaidh <span data-l10n-name="count">{ $count }</span> tracaichean a bhacadh air an làrach seo
        *[other] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

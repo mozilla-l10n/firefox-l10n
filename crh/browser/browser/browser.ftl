@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Sayt malümatını kör
 
@@ -49,6 +52,9 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = Daa az tuşla, daa çoq tap: { $engineName } üzerinde doğrudan adres çubuğıñızdan qıdırıñız.
 
+## Local search mode indicator labels in the urlbar
+
+
 ##
 
 urlbar-geolocation-blocked =
@@ -90,6 +96,9 @@ clear-search-history =
     .label = Qıdırma Keçmişini Temizle
     .accesskey = T
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -111,8 +120,26 @@ search-one-offs-context-set-as-default =
     .accesskey = b
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Qıdırma motorı ekle
+    .accesskey = Q
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Qıdırma motorı ekle
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -171,9 +198,18 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Qapat
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ episi üleşilecek.
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -210,6 +246,32 @@ urlbar-result-action-search-w-engine = { $engine } ile qıdır
 urlbar-result-action-switch-tab = İlmekke Almaş
 urlbar-result-action-visit = Ziyaret Et
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -218,6 +280,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Oquyıcı Körünimini Qapat
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -283,6 +350,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Saife-imleri
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -339,6 +409,10 @@ toolbar-button-paste =
     .label = Yapıştır
     .tooltiptext = Yapıştır ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bu sayttaki bazı audio yaki video DRM yazılımı qullana ki bu { -brand-short-name } uyğulamasınıñ onıñ ile ne yapmañızğa imkân berebilecegini belki sıñırlar.
@@ -369,12 +443,65 @@ plugin-crashed-notification-submit-button =
     .label = Bir çöküş maruzasını teslim et
     .accesskey = t
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+safebrowsing-deceptive-site-message = Yañıltıcı Sayt!
+safebrowsing-reported-attack-site-message = Maruza Etilgen Ücüm Saytı!
+safebrowsing-reported-unwanted-site-message = Bildirilgen İstenmegen Yazılım Saytı!
+safebrowsing-reported-harmful-site-message = Zararlı Saytnı Maruzala!
+safebrowsing-get-me-out-of-here-button =
+    .label = Al kötür meni mından!
+    .accesskey = A
+safebrowsing-not-a-deceptive-site-button =
+    .label = Bu, yañıltıcı bir sayt degildir…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Bu bir ücüm saytı degildir…
+    .accesskey = ü
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+captive-portal-info-message = İnternet'ke irişebilmezden evvel bu şebekege içeri imzalanmalısıñız.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Şebeke İçeri İmzalanma Saifesini Aç
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+keyword-uri-fixup-message = { $hostName } adresinemi ketmege istegen ediñiz?
+keyword-uri-fixup-go-to-button =
+    .label = Ebet, meni { $hostName } adresine al
+    .accesskey = E
+
+## Password save/update panel
+
+
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Qapat
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = Endirmeler
@@ -402,12 +529,50 @@ tabs-toolbar-list-all-tabs =
     .label = İlmeklerniñ episini tiz
     .tooltiptext = İlmeklerniñ episini tiz
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Tecribeñizni yahşılaştırabilmek üzre { -brand-short-name } avtomatik olaraq { -vendor-short-name } sunucısına bazı veriler yiberir.
 data-reporting-notification-button =
     .label = Ne Üleşkenimni Sayla
     .accesskey = S
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -416,6 +581,9 @@ refresh-blocked-redirect-label = { -brand-short-name } bu saifeniñ öz-özünde
 refresh-blocked-allow =
     .label = İzin Ber
     .accesskey = z
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -451,6 +619,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” Kösterilsin
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Qurulğan eklentilerden biri yaki birqaçı doğrulanalmağanından naqabilleştirilgendir.
@@ -462,3 +640,19 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = Daa çoq ögren
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
