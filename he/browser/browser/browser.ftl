@@ -315,6 +315,11 @@ search-one-offs-add-engine =
     .tooltiptext = הוספת מנוע החיפוש “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = הוספת מנוע חיפוש
+    .accesskey = ה
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = הוספת מנוע חיפוש
 
