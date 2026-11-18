@@ -15,6 +15,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } —  Privaatne veebilehitsemine
        *[other] { -brand-full-name } (privaatne veebilehitsemine)
     }
+
+##
+
 urlbar-identity-button =
     .aria-label = Vaata saidi teavet
 
@@ -205,6 +208,11 @@ search-one-offs-add-engine =
     .tooltiptext = Lisa otsingumootor “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Lisa otsingumootor
+    .accesskey = L
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Lisa otsingumootor
 
@@ -373,6 +381,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Jagamise kaitse selleks seansiks keelatakse
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -478,6 +489,18 @@ urlbar-result-action-tabtosearch-other-engine = Otsi otsingumootoriga { $engine 
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopeeri
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Järjehoidjad
@@ -497,6 +520,9 @@ urlbar-searchmode-popup-add-engine = Lisa “{ $engineName }”
 urlbar-result-action-search-bookmarks = Otsi järjehoidjatest
 urlbar-result-action-search-history = Otsi ajaloost
 urlbar-result-action-search-tabs = Otsi kaartide hulgast
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -522,6 +548,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Sulge lugemisvaade
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -674,6 +705,10 @@ toolbar-button-paste =
     .label = Aseta
     .tooltiptext = Aseta ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Osa sellel lehel olevast audiost või videost kasutab DRM-tarkvara, mis võib piirata seda, mida { -brand-short-name } saab lubada sul sellega teha.
@@ -709,6 +744,20 @@ plugin-crashed-notification-submit-button =
     .label = Sisesta vearaport
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -723,6 +772,10 @@ menu-share-more =
     .label = Veel…
 ui-tour-info-panel-close =
     .tooltiptext = Sulge
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -741,6 +794,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -773,11 +829,24 @@ tabs-toolbar-list-all-tabs =
     .label = Näita kõigi kaartide nimekirja
     .tooltiptext = Näita kõigi kaartide nimekirja
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Kas avada eelmised kaardid?</strong> Sul on võimalus taastada eelmine seanss, avades { -brand-short-name }i rakenduse menüü <img data-l10n-name="icon"/> ja sealt Ajalugu.
 restore-session-startup-suggestion-button = Näita juhiseid
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -788,6 +857,28 @@ data-reporting-notification-button =
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privaatne veebilehitsemine
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } keelas sellel lehel automaatse uuestilaadimise.
@@ -795,6 +886,9 @@ refresh-blocked-redirect-label = { -brand-short-name } keelas sellel lehel autom
 refresh-blocked-allow =
     .label = Luba
     .accesskey = L
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -831,6 +925,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Kuva '{ $popupURI }'
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Vähemalt üht paigaldatud lisa polnud võimalik verifitseerida. Verifitseerimata lisad keelati.
@@ -853,3 +957,19 @@ process-hang-addon-learn-more =
 process-hang-stop-button =
     .label = Peata
     .accesskey = P
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
