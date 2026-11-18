@@ -1041,6 +1041,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = پرطرفدارها در { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = جست‌وجوهای پرطرفدار نشان داده نشوند
+    .accesskey = ج
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = جست‌وجوهای پرطرفدار نشان داده نشوند
     .accesskey = D
 # The result menu labels shown next to trending results.
