@@ -75,6 +75,11 @@ search-one-offs-context-set-as-default =
     .accesskey = D
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Add search engine
+    .accesskey = h
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Add search engine
 
@@ -326,6 +331,20 @@ plugin-crashed-notification-reload-button =
 plugin-crashed-notification-submit-button =
     .label = Submit a crash report
     .accesskey = S
+
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
 
 ## Password save/update panel
 
