@@ -822,6 +822,9 @@ urlbar-result-realtime-opt-in-not-now = 나중에
 urlbar-result-realtime-opt-in-dismiss = 닫기
 urlbar-result-realtime-opt-in-dismiss-all2 = 이 제안을 표시하지 않음
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = 시장 제안을 표시하지 않음
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = 시장 제안을 표시하지 않음
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = 이 제안을 표시하지 않음
