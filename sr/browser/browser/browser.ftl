@@ -1010,6 +1010,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = У { $engine } тренду
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Не приказуј претраге у тренду
+    .accesskey = Н
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Не приказуј претраге у тренду
     .accesskey = Н
 # The result menu labels shown next to trending results.
