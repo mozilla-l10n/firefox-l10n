@@ -847,6 +847,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Trend sin { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Betg mussar trends da tschertga
+    .accesskey = B
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Betg mussar trends da tschertga
     .accesskey = B
 # The result menu labels shown next to trending results.
