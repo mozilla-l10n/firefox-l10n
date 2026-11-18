@@ -252,7 +252,7 @@ urlbar-menuitem-paste-and-go =
     .label = 貼り付けて移動
     .accesskey = G
 urlbar-menuitem-paste-and-search =
-    .label =  貼り付けて検索
+    .label = 貼り付けて検索
     .accesskey = S
 
 ## Searchbar context menu
@@ -370,9 +370,9 @@ quickactions-cmd-inspector2 = inspector, devtools, dev tools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Pick a color
 quickactions-cmd-colorpicker = color picker, eyedropper, pick color
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
@@ -1268,6 +1268,20 @@ plugin-crashed-notification-submit-button =
     .label = クラッシュレポートを送信
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1471,9 +1485,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = 閲覧データの一部またはすべてを削除
-    .tooltiptext = 閲覧データの一部またはすべてを削除します
 fire-button-panel-heading = すべての閲覧データを削除しますか？
 fire-button-panel-description = この操作は履歴、Cookie、サイトデータを削除し、ウェブサイトからログアウトします。このウィンドウが閉じられ、{ -brand-short-name } が新しいウィンドウを開きます。
 fire-button-panel-choose-description = 削除したくないデータがある場合は、そのデータの種類を選んでください。
