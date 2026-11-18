@@ -1320,6 +1320,19 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Παραπλανητικός ιστότοπος!
+safebrowsing-reported-attack-site-message = Έχει αναφερθεί ως ιστότοπος επιθέσεων!
+safebrowsing-reported-unwanted-site-message = Έχει αναφερθεί ως ιστότοπος ανεπιθύμητου λογισμικού!
+safebrowsing-reported-harmful-site-message = Αναφέρθηκε επιβλαβής ιστότοπος!
+safebrowsing-get-me-out-of-here-button =
+    .label = Θέλω να φύγω από εδώ!
+    .accesskey = γ
+safebrowsing-not-a-deceptive-site-button =
+    .label = Αυτός δεν είναι παραπλανητικός ιστότοπος…
+    .accesskey = Δ
+safebrowsing-not-an-attack-site-button =
+    .label = Αυτός δεν είναι ιστότοπος επιθέσεων…
+    .accesskey = θ
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
