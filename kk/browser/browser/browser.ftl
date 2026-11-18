@@ -139,6 +139,17 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } б�
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Дәлсіз орналасу туралы хабарлау
+    .accesskey = Д
+urlbar-result-menu-show-less-frequently3 = Сиректеу көрсету
+    .accesskey = С
+urlbar-result-menu-dont-show-weather-suggestions3 = Ауа райы ұсыныстарын көрсетпеу
+    .accesskey = А
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Дәлсіз орналасу туралы хабарлау
 urlbar-result-menu-show-less-frequently2 = Сиректеу көрсету
 urlbar-result-menu-dont-show-weather-suggestions2 = Ауа райы ұсыныстарын көрсетпеу
@@ -841,6 +852,9 @@ urlbar-result-realtime-opt-in-allow = Ұсыныстарды көрсету
 urlbar-result-realtime-opt-in-not-now = Қазір емес
 urlbar-result-realtime-opt-in-dismiss = Елемеу
 urlbar-result-realtime-opt-in-dismiss-all2 = Бұл ұсыныстарды көрсетпеу
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Нарық ұсыныстарын көрсетпеу
+    .accesskey = Н
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Нарық ұсыныстарын көрсетпеу
 urlbar-result-realtime-opt-in-dismiss-all =
