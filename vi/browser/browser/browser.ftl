@@ -822,6 +822,9 @@ urlbar-result-realtime-opt-in-not-now = Để sau
 urlbar-result-realtime-opt-in-dismiss = Bỏ qua
 urlbar-result-realtime-opt-in-dismiss-all2 = Không hiển thị những đề xuất này
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Không hiển thị đề xuất thị trường
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Không hiển thị đề xuất thị trường
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Không hiển thị những đề xuất này
