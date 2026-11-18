@@ -672,6 +672,11 @@ plugin-crashed-notification-submit-button =
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Heu d'iniciar la sessió en esta xarxa per poder accedir a Internet.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Obri la pàgina d'inici de sessió a la xarxa
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
