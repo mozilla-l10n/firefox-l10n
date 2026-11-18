@@ -502,6 +502,7 @@ plugin-crashed-notification-reload-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = ¿Seique queríes dir pa { $hostName }?
 
 ## Password save/update panel
 
