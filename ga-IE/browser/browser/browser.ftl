@@ -677,10 +677,27 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Suíomh cealgach!
+safebrowsing-reported-attack-site-message = Tuairiscíodh gur Suíomh Ionsaithe é seo!
+safebrowsing-reported-unwanted-site-message = Bogearraí Gan Iarraidh ar an suíomh seo!
+safebrowsing-get-me-out-of-here-button =
+    .label = Amach as seo liom!
+    .accesskey = A
+safebrowsing-not-a-deceptive-site-button =
+    .label = Ní suíomh cealgach é seo…
+    .accesskey = c
+safebrowsing-not-an-attack-site-button =
+    .label = Ní suíomh ionsaithe é seo…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Caithfidh tú logáil isteach sa líonra seo sular féidir leat teacht ar an Idirlíon.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Logáil Isteach i Líonra
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
