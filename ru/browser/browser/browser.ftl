@@ -849,6 +849,9 @@ urlbar-result-realtime-opt-in-not-now = Не сейчас
 urlbar-result-realtime-opt-in-dismiss = Убрать
 urlbar-result-realtime-opt-in-dismiss-all2 = Не показывать эти предложения
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Не показывать предложения с рынка
+    .accesskey = Н
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Не показывать предложения с рынка
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Не показывать эти предложения
