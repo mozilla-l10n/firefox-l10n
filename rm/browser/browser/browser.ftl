@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administrar ils parameters per pop-ups u renviaments da terzas partidas…
     .accesskey = A
+
+##
+
 urlbar-identity-button =
     .aria-label = Mussar infurmaziuns davart la pagina
 
@@ -255,6 +258,11 @@ search-one-offs-add-engine =
     .aria-label = Agiuntar la maschina da tschertgar «{ $engineName }»
     .label = Agiuntar «{ $engineName }»
     .tooltiptext = Agiuntar la maschina da tschertgar «{ $engineName }»
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Agiuntar ina maschina da tschertgar
+    .accesskey = A
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -496,6 +504,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -669,6 +680,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dumandar
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -801,6 +817,9 @@ urlbar-result-action-switch-to-tabgroup = Midar a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Avrir { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -1079,6 +1098,20 @@ plugin-crashed-notification-submit-button =
     .label = Trametter ina annunzia da collaps
     .accesskey = T
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1128,6 +1161,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1174,6 +1210,13 @@ restore-session-startup-suggestion-button = Mussar co
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Tia organisaziun ha bloccà l’access a las datotecas localas sin quest computer
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1238,6 +1281,10 @@ reset-pbm-panel-cancel-button =
     .label = Interrumper
     .accesskey = I
 reset-pbm-panel-complete = Stizzà las datas da la sesida privata
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1329,6 +1376,13 @@ file-picker-crashed-open = La fanestra per selecziunar datotecas da Windows è c
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La fanestra per selecziunar datotecas da Windows è collabada. La datoteca vegn a vegnir memorisada en { $path }.
 file-picker-crashed-save-nowhere = La fanestra per selecziunar datotecas da Windows è collabada. Betg chattà in ordinatur predefinì; la datoteca na vegn betg memorisada.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mussar en l’ordinatur
     .accessKey = F
@@ -1404,6 +1458,9 @@ trustpanel-blocker-see-all = Mussar tut
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecziuns cunter il fastizar per { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1497,3 +1554,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> fastizader bloccà sin questa website
        *[other] <span data-l10n-name="count">{ $count }</span> fastizaders bloccads sin questa website
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
