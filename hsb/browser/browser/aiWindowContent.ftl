@@ -255,6 +255,10 @@ action-log-completed-steps =
         [few] { $count } kroki dokónčene
        *[other] { $count } krokow dokónčene
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Wubrany model za nadawk: { $model }
 
 ## Assistant Loader
 
