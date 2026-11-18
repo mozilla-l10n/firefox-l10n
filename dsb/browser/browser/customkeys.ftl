@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = K rejtarikoju 8 pśejś
 customkeys-nav-select-last-tab = K slědnemu rejtarikoju
 customkeys-nav-toggle-mute = Awdio wušaltowaś/zašaltowaś
 customkeys-edit-find-previous = Pjerwjejšny pytaś
+customkeys-edit-find-selection = Wuběrk za pytanje wužywaś
 customkeys-tools-screenshot = Foto wobrazowki gótowaś
 customkeys-category-navigation-2 =
     .heading = Nawigacija

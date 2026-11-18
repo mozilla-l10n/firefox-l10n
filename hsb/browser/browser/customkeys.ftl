@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = K rajtarkej 8 přeńć
 customkeys-nav-select-last-tab = K poslednjemu rajtarkej přeńć
 customkeys-nav-toggle-mute = Awdijo wupinać/zapinać
 customkeys-edit-find-previous = Předchadny pytać
+customkeys-edit-find-selection = Wuběr za pytanje wužiwać
 customkeys-tools-screenshot = Foto wobrazowki činić
 customkeys-category-navigation-2 =
     .heading = Nawigacija

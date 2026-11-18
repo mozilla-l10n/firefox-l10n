@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Malsny
 aiwindow-input-model-select-button-label-allpurpose = Fleksibelny
 aiwindow-input-model-select-button-label-personal = Wósobinski
 aiwindow-input-model-select-button-label-custom = Swójski
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Awtomatiski
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Wubrany standardny model
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Dopórucony
+    .title = Dopórucony model
 aiwindow-input-model-select-settings-link = Modelowe nastajenja
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } nejlěpšy model za waš nadawk wuběra
+aiwindow-input-model-select-fast-description = Malsne wótegrona, gaž se malsnje gibjośo
+aiwindow-input-model-select-flexible-description = Gótowy za wšake nadawki
+aiwindow-input-model-select-personal-description = Dobry, jolic w někotarych rěcach chattujośo a pśeglědujośo
 
 ## Firstrun memories onboarding
 

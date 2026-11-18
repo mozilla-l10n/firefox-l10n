@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Dypk
 user-context-icon-fence =
     .label = Płośik
+user-context-icon-robot =
+    .label = Robot

@@ -259,6 +259,8 @@ action-log-completed-steps =
 # Variables
 #   $model (String) - name of the model that answered
 action-log-picked-model = Wubrany model za nadawk: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Rozsud za najlěpši model
 
 ## Assistant Loader
 
