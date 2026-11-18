@@ -855,6 +855,9 @@ urlbar-result-realtime-opt-in-not-now = Nic nětko
 urlbar-result-realtime-opt-in-dismiss = Zaćisnyć
 urlbar-result-realtime-opt-in-dismiss-all2 = Tute namjety njepokazać
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Wične namjety njepokazać
+    .accesskey = W
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Wične namjety njepokazać
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Tute namjety njepokazać
