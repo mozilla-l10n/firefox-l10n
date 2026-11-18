@@ -703,6 +703,9 @@ urlbar-result-realtime-opt-in-not-now = Не сега
 urlbar-result-realtime-opt-in-dismiss = Прекратяване
 urlbar-result-realtime-opt-in-dismiss-all2 = Без показване на тези предложения
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Без показване на пазарни предложения
+    .accesskey = Б
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Без показване на пазарни предложения
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Без показване на тези предложения
