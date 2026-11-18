@@ -113,6 +113,17 @@ urlbar-result-menu-manage-firefox-suggest2 = أدر { -firefox-suggest-brand-nam
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = بلّغ عن موقع غير دقيق
+    .accesskey = ب
+urlbar-result-menu-show-less-frequently3 = اعرض أقل تواترا
+    .accesskey = ا
+urlbar-result-menu-dont-show-weather-suggestions3 = لا تعرض اقتراحات الطقس
+    .accesskey = ل
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = بلّغ عن موقع غير دقيق
 urlbar-result-menu-show-less-frequently2 = اعرض أقل تواترا
 urlbar-result-menu-dont-show-weather-suggestions2 = لا تعرض اقتراحات الطقس
@@ -781,6 +792,9 @@ urlbar-result-realtime-opt-in-not-now = ليس الآن
 urlbar-result-realtime-opt-in-dismiss = أهمِل
 urlbar-result-realtime-opt-in-dismiss-all2 = لا تعرض هذه الاقتراحات
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = لا تعرض اقتراحات السوق
+    .accesskey = ل
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = لا تعرض اقتراحات السوق
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = لا تعرض هذه الاقتراحات
@@ -980,6 +994,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = مُتداول في { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = لا تعرض عمليات البحث المُتداولة
+    .accesskey = ل
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = لا تعرض عمليات البحث المُتداولة
     .accesskey = م
