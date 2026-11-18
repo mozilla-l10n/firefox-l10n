@@ -263,6 +263,8 @@ launch-on-login-infobar-final-reject-button = Jo, faleminderit
 # "settings" refers to the Firefox settings (about:preferences), where
 # launch-on-login can be toggled, not the Windows system settings.
 launch-on-login-autostart-infobar-message = { -brand-short-name }-i tani niset kur bëni hyrjen në Windows. Këtë mund ta ndryshoni përherë më vonë, te rregullimet.
+launch-on-login-autostart-infobar-keep-button = Vazhdo
+    .accesskey = V
 launch-on-login-autostart-infobar-turn-off-button = Çaktivizoje
     .accesskey = Ç
 
@@ -433,6 +435,11 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe kijeni te Paneli juaj.
        *[other] Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe kijeni te paneli juaj i punëve.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Mbajeni { -brand-short-name }-in në majë të gishtave
+       *[other] Hapi krejt lidhjet me { -brand-short-name }
+    }
 set-default-menu-message-split-layout-subtitle =
     { PLATFORM() ->
         [macos] Bëjeni parazgjedhjen tuaj dhe mbajeni në Dock-un tuaj.
@@ -455,6 +462,8 @@ relay-50-masks-announcement-secondary-button = Hidhe tej
 ## Nova Early Access Infobar
 
 nova-early-access-infobar-title = <strong>{ -brand-product-name }-i po merr një pamje të re.</strong> Po bëni paraparje të një version të hershëm, të palatuar, para hedhjes në qarkullim më vonë këtë vit.
+nova-early-access-share-feedback-link = Ndani përshtypje me të tjerë
+    .accesskey = N
 nova-early-access-infobar-primary-button = E mora vesh
     .accesskey = E
 

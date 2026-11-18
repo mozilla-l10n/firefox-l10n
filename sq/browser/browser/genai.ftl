@@ -60,15 +60,26 @@ genai-menu-remove-sidebar =
     .label = Hiqe nga Anështylla
 genai-more-actions-copy =
     .label = Kopjoje
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = S’do ta shihni këtë menu, kur përzgjidhni tekst. Që të shfaqet sërish, vizitoni Rregullime <span data-l10n-name="chevron"></span> Skeda dhe shfletim.
 genai-more-actions-manage-settings =
     .label = Administroni rregullime
+genai-selection-callout-title = Që të zgjidhni një veprim, theksoni tekst
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Kërkoni, ose kopjoni, kur përzgjidhni tekst. Zgjidhni cilët veprime të shfaqen me menunë <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pyetni { $provider }
 genai-menu-new-badge = I ri
 genai-menu-summarize-page = Përmblidhe Faqen
+genai-menu-summarize-with-ai = Përmblidheni me IA
+genai-input-ask-smart-window =
+    .placeholder = Pyetni…
 genai-input-ask-generic =
     .placeholder = Pyetni robot IA fjalosjesh…
+genai-input-ask-ai =
+    .placeholder = Pyetni IA-në…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pyetni { $provider }…
@@ -102,6 +113,9 @@ genai-menu-ask-provider-2 =
     .accesskey = P
 genai-menu-no-provider-2 =
     .label = Pyetni Robot IA Fjalosjesh
+    .accesskey = P
+genai-menu-ask-smart-window =
+    .label = Pyetni…
     .accesskey = P
 
 ## Chatbot header
@@ -147,10 +161,16 @@ genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Përdorni një robot IA fjalosjesh pa ndërruar skeda
@@ -209,6 +229,12 @@ link-preview-settings-key-points =
     .label = Lejojen IA-në të lexojë fillimin e faqes dhe të prodhojë pikat kyçe
 link-preview-settings-long-press =
     .label = Shkurtore: Klikojeni dhe mbajeni të shtypur lidhjen për 1 sekondë (shtypje e gjatë)
+highlight-to-search-settings-enable =
+    .description = Përfitoni hyrje të shpejtë te veprime të dobishme, kur përzgjidhni tekst.
+    .label = Shfaq menu veprimesh, kur përzgjidhet tekst
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Pyetni { $provider }
 highlight-to-search-settings-ask-generic =
     .label = Pyetni IA-në
 # Checkbox label for one of the actions in the menu that appears when selecting
