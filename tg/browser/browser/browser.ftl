@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Идоракунии танзимоти равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм…
     .accesskey = И
+
+##
+
 urlbar-identity-button =
     .aria-label = Дидани маълумот дар бораи сомона
 
@@ -264,6 +267,11 @@ search-one-offs-add-engine =
     .aria-label = Илова кардани низоми ҷустуҷӯии  “{ $engineName }”
     .label = Илова кардани “{ $engineName }”
     .tooltiptext = Илова кардани низоми ҷустуҷӯии “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = Илова кардани низоми ҷустуҷӯӣ
+    .accesskey = И
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -696,6 +704,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Пурсидан
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1151,6 +1164,20 @@ plugin-crashed-notification-submit-button =
     .label = Пешниҳоди гузориш дар бораи вайронӣ
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1202,6 +1229,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1248,6 +1278,13 @@ restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Ташкилоти шумо ба файлҳои маҳаллӣ дар ин компютер дастрасиро манъ кард
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1324,6 +1361,10 @@ reset-pbm-panel-complete = Маълумоти ҷаласаи хусусӣ нес
 reset-pbm-toolbar-button2 =
     .label = Пок кардани ҷаласаи хусусӣ
     .tooltiptext = Пок кардани ҷаласаи хусусӣ
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1415,6 +1456,13 @@ file-picker-crashed-open = Равзанаи «Файл» дар «Windows» ва
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Файл ба «{ $path }» нигоҳ дошта мешавад.
 file-picker-crashed-save-nowhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Ягон ҷузвдон ба таври пешфарз ёфт нашуд ва файл нигоҳ дошта намешавад.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Намоиш додан дар ҷузвдон
     .accessKey = Н
@@ -1490,6 +1538,9 @@ trustpanel-blocker-see-all = Ҳамаро дидан
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Воситаҳои муҳофизат аз пайгирӣ барои { $host } фаъол аст
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
