@@ -52,7 +52,7 @@ fxa-menu-send-to-mobile-sign-in = Влезте, за да изпращате р�
 
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
-sync-profile-different-account-description = За да запазите вашите данни организирани и защитени, всеки потребителски профил в { -brand-product-name } може да бъде синхронизиран само с един акаунт. За да влезете чрез { $actEmail }, създайте нов потребителски профил.
+sync-profile-different-account-description = За да запазите вашите данни организирани и защитени, всеки потребителски профил в { -brand-product-name } може да бъде синхронизиран само с един акаунт. За да влезете чрез { $acctEmail }, създайте нов потребителски профил.
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
