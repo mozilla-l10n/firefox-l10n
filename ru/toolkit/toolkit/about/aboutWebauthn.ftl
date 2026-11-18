@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Управление PIN-кодами
 about-webauthn-credential-management-section-title = Управление учётными данными
 about-webauthn-pin-required-section-title = Требуется PIN-код
 about-webauthn-confirm-deletion-section-title = Подтвердить удаление
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Ведение журнала
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Биометрические регистрации
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Невозможно управлять �
 about-webauthn-text-not-available = Недоступно на этой платформе.
 about-webauthn-bio-enrollment-list-subsection-title = Регистрации:
 about-webauthn-add-bio-enrollment-section-title = Добавить новую регистрацию
+about-webauthn-logging-warning = Журнал может содержать личную информацию, такую как имена пользователей, идентификаторы учетных записей и адреса веб-сайтов. Проверьте его перед тем, как поделиться.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = При этом будут записываться запросы только к нативной CTAP-реализации { -brand-short-name }. Он не регистрирует запросы к WebAuthn API или расширениям браузера.
 
 ## Results label
 
@@ -76,6 +81,12 @@ about-webauthn-add-bio-enrollment-button = Добавить регистраци
 about-webauthn-cancel-button = Отмена
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Удалить
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Начать
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Остановить
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Очистить
 about-webauthn-start-enrollment-button = Начать регистрацию
 about-webauthn-update-button = Обновить
 

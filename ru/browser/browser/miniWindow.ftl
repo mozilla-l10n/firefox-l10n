@@ -73,5 +73,9 @@ mini-window-overlay-instructions = Перетащите или щёлкните,
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Выберите, что перемещать в мини-окно
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Часть страницы
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Вся страница
 mini-window-panel-move-selection = Переместить выделенное
 mini-window-panel-move-full-tab = Переместить всю вкладку

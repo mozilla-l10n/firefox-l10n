@@ -653,6 +653,14 @@ support-get-help =
 support-share-ideas =
     .label = Делитесь идеями и отзывами
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Получайте руководства, новости и советы о том, как сделать вашу работу с { -brand-product-name } максимально комфортной.
+    .label = Новостная рассылка { -brand-product-name }
+newsletter-sign-up-link =
+    .label = Подписаться
+
 ## General Section - Performance
 
 performance-settings-learn-more = Подробнее

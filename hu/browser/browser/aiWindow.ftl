@@ -381,3 +381,10 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } eltüntetése
     .title = { $text } eltüntetése
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Ön mellett dolgozik, hogy könnyebben elvégezhesse a teendőit.
+    Tervezés, összehasonlítás, felfedezés és egyebek.

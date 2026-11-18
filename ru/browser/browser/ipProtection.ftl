@@ -211,6 +211,12 @@ ipprotection-locations-subview-promo =
     .heading = Улучшите защиту с помощью { -mozilla-vpn-brand-name }
     .message = Выберите из более 300 местоположений и защитите все свои приложения на до 5 устройствах.
 ipprotection-locations-subview-promo-button = Получить { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Больше местоположений. Больше защиты.
+    .message = Сделайте { -brand-short-name } браузером по умолчанию и получите на { $count } местоположений больше. Ваши ссылки открываются здесь, где встроен VPN.
+ipprotection-locations-subview-set-default-promo-button = Открывать ссылки с помощью { -brand-short-name }
 
 ## VPN paused state
 
