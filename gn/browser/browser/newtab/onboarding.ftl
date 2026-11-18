@@ -632,3 +632,7 @@ hnt-card-taskbar-tabs-header = Embojuaju tenda erohoryvéva tembiaporãita rupá
 hnt-card-taskbar-tabs-primary-button = Embojuaju tendayke tembiaporã rupáre
 hnt-card-extensions-header = Emombarete { -brand-short-name } jepysokue ndive
 hnt-card-extensions-primary-button = Ehapykueho
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Oĩmbáma. Eho ejapo nemba’éva.
+hnt-card-last-card-header-end = Tapykuehoha ñemo’ã oñemyandy.

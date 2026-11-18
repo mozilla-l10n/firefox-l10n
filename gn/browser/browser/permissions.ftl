@@ -19,6 +19,7 @@ speech-recognition-model-download-cancel =
     .label = Heja
     .accesskey = C
 speech-recognition-model-download-complete-message = Oñemboguejy peteĩchagua ñe’ẽ jekuaarã.
+speech-recognition-model-download-failed-message = Ndoikói ñemboguejy peteĩchagua ñe’ẽ jekuaarã.
 speech-recognition-model-download-ok =
     .label = MONEĨ
     .accesskey = O
