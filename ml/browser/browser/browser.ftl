@@ -83,6 +83,17 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } ക
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = തെറ്റായയിടമെന്നു് അറിയിക്കുക
+    .accesskey = ത
+urlbar-result-menu-show-less-frequently3 = ഇടയ്ക്ക് ഇടയ്ക്ക് മാത്രമെ കാണിക്കുക
+    .accesskey = ഇ
+urlbar-result-menu-dont-show-weather-suggestions3 = കാലാവസ്ഥ നിൎദ്ദേശങ്ങൾ കാണിക്കരുതു്
+    .accesskey = ക
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = തെറ്റായയിടമെന്നു് അറിയിക്കുക
 urlbar-result-menu-show-less-frequently2 = ഇടയ്ക്ക് ഇടയ്ക്ക് മാത്രമെ കാണിക്കുക
 urlbar-result-menu-dont-show-weather-suggestions2 = കാലാവസ്ഥ നിൎദ്ദേശങ്ങൾ കാണിക്കരുതു്
