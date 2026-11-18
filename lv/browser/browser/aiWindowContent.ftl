@@ -227,7 +227,7 @@ action-log-searched-web-with-exa = Meklēja tīmeklī, izmantojot <a data-l10n-n
 # from the search results. Exa is the name of a third-party web search API and a
 # brand name that should not be translated. The <a> wraps "Exa" as a link to a
 # support article explaining the third-party web search integration.
-action-log-searched-and-answered-with-exa = Meklēja tīmeklī, izmantojot <a data-l10n-name="exa-link">Exa</a>
+action-log-searched-and-answered-with-exa = Meklēja un atbildēja ar <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Atmiņu pārbaude
 action-log-checked-memories = Pārbaudītas atmiņas
 action-log-searching-settings = Meklē iestatījumus

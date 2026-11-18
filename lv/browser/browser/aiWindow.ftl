@@ -388,30 +388,30 @@ aiwindow-starter-dismiss =
 
 # The line break is intentional and is preserved when displayed.
 smartwindow-onboarding-welcome-subtitle =
-    Tas strādā kopā ar jums, lai paveiktu lietas.
-    Plānojiet, salīdziniet, izpētiet un veiciet citas darbības.
-smartwindow-onboarding-title = Padarīsim to par tavējo
-smartwindow-onboarding-subtitle = Iestatiet { -smart-window-brand-name } tieši tā, kā vēlaties. Veiciet izmaiņas iestatījumos jebkurā laikā.
-smartwindow-onboarding-model-label = Izvēlieties savu mākslīgā intelekta modeli
-smartwindow-onboarding-model-description = Modelis nodrošina tērzēšanu un darbības pakalpojumā { -smart-window-brand-name }.
-smartwindow-onboarding-model-auto = Auto
+    Tas darbojas kopā ar Tevi, lai paveiktu darāmo.
+    Plāno, salīdzini, izpēti un veic citas darbības!
+smartwindow-onboarding-title = Padarīsim to par Tavu
+smartwindow-onboarding-subtitle = Iestati { -smart-window-brand-name } tieši tā, kā vēlies! Izmaiņas jebkurā laikā var veikt iestatījumos.
+smartwindow-onboarding-model-label = Izvēlies savu MI modeli
+smartwindow-onboarding-model-description = Modelis nodrošina tērzēšanu un darbības { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Automātiski
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Ieteicams
-smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } izvēlas jūsu uzdevumam vispiemērotāko modeli
-smartwindow-onboarding-model-mistral-description = Labi, ja varat tērzēt un pārlūkot vairākās valodās
-smartwindow-onboarding-model-gemini-description = Ātras atbildes, kad strādājat ātri
-smartwindow-onboarding-memories-label = Izvēlieties, no kā { -smart-window-brand-name } mācās
-smartwindow-onboarding-memories-description = { -smart-window-brand-name } var mācīties no tērzēšanas, pārlūkošanas vai abiem, lai radītu atmiņas. Tas izmanto tos, lai laika gaitā personalizētu jūsu pieredzi.
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } izvēlas uzdevumam vispiemērotāko modeli
+smartwindow-onboarding-model-mistral-description = Labs, ja tērzē un pārlūko vairākās valodās
+smartwindow-onboarding-model-gemini-description = Ātras atbildes, kad darbojies ātri
+smartwindow-onboarding-memories-label = Izvēlies, kā { -smart-window-brand-name } uzzina par Tevi
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } var mācīties no tērzēšanas, pārlūkošanas vai abiem, lai radītu atmiņas. Tas izmanto tās, lai laika gaitā pielāgotu Tavu pieredzi.
 smartwindow-onboarding-memories-both = Tērzēšana un pārlūkošana
 smartwindow-onboarding-memories-browsing = Tikai pārlūkošana
-smartwindow-onboarding-memories-chats = Tikai tērzēšanas sarunas
-smartwindow-onboarding-memories-none = Nemācies no aktivitātes
-smartwindow-onboarding-memories-both-description = Tērzēšana pakalpojumā { -smart-window-brand-name }, pārlūkošana pakalpojumā { -brand-short-name }
-smartwindow-onboarding-memories-browsing-description = Pārlūkošana pakalpojumā { -brand-short-name }
-smartwindow-onboarding-memories-chats-description = Tērzēšanas sarunas pakalpojumā { -smart-window-brand-name }
-smartwindow-onboarding-memories-none-description = Jūs redzēsiet mazāk pielāgotu ieteikumu un, iespējams, būs jāatkārto informācija vairākās tērzēšanas sarunās.
+smartwindow-onboarding-memories-chats = Tikai tērzēšana
+smartwindow-onboarding-memories-none = Nemācīties no darbībām
+smartwindow-onboarding-memories-both-description = Tērzēšana { -smart-window-brand-name }, pārlūkošana { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Pārlūkošana { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Tērzēšanas { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Tu redzēsi mazāk pielāgotu ieteikumu un var būt jāatkārto informācija vairākās tērzēšanās.
 smartwindow-onboarding-default-window =
-    .description = Izmantojiet to, kad { -brand-short-name } startē, restartējas vai atver saites no citām lietotnēm.
-    .label = Sāciet pēc { -smart-window-brand-name }
+    .description = Izmanto to, kad { -brand-short-name } palaižas, palaižas no jauna vai atver saites no citām lietotnēm!
+    .label = Sākt { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Saglabāt un doties tālāk

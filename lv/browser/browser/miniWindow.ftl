@@ -76,6 +76,6 @@ mini-window-panel-header = Izvēlies, ko vēlies pāŗvietot uz sīklogu
 # Selection for what to move to a Mini Window
 mini-window-panel-part-of-page = Lapas daļa
 # Selection for what to move to a Mini Window
-mini-window-panel-full-page = Pilna lapa
+mini-window-panel-full-page = Visa lapa
 mini-window-panel-move-selection = Pārvietot atlasīto
 mini-window-panel-move-full-tab = Pārvietot visu cilni

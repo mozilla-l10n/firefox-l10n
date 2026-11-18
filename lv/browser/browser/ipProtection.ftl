@@ -215,7 +215,7 @@ ipprotection-locations-subview-promo-button = Iegūt { -mozilla-vpn-brand-name }
 #   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
 ipprotection-locations-subview-set-default-promo =
     .heading = Vairāk atrašanās vietu. Vairāk aizsardzības.
-    .message = Iestatiet { -brand-short-name } par savu noklusējuma atrašanās vietu un iegūstiet vēl { $count } atrašanās vietas. Jūsu saites tiek atvērtas šeit, kur ir iebūvēts VPN.
+    .message = Padari { -brand-short-name } par savu noklusējuma atrašanās vietu un iegūsti vēl { $count } atrašanās vietu. Saites tiek atvērtas šeit, kur VPN ir iebūvēts.
 ipprotection-locations-subview-set-default-promo-button = Atvērt saites ar { -brand-short-name }
 
 ## VPN paused state

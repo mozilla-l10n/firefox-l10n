@@ -33,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Impossibile gerer optiones perque tu jeto
 about-webauthn-text-not-available = Non disponibile pro iste platteforma
 about-webauthn-bio-enrollment-list-subsection-title = Registrationes:
 about-webauthn-add-bio-enrollment-section-title = Adder nove registration
+about-webauthn-logging-warning = Le registro pote continer informationes personal, tal como nomines de usator, identificatores de conto e adresses de sitos web. Revide lo ante condivider.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Isto solo registra requestas al implementation CTAP native de { -brand-short-name }. Illo non registra requestas al APIs WebAuthn del platteforma o extensiones del navigator.
 
 ## Results label
 
