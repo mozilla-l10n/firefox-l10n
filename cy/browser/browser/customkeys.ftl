@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Mynd i Tab 8
 customkeys-nav-select-last-tab = Mynd i'r Tab Olaf
 customkeys-nav-toggle-mute = Tewi/Dad-dewi Sain
 customkeys-edit-find-previous = Canfod y Blaenorol
+customkeys-edit-find-selection = Defnyddiwch Dewis ar gyfer Darganfod
 customkeys-tools-screenshot = Cymryd Llun Sgrin
 customkeys-category-navigation-2 =
     .heading = Llywio

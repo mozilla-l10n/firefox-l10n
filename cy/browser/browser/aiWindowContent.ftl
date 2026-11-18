@@ -285,6 +285,12 @@ action-log-completed-steps =
         [many] Wedi cwblhau { $count } cham
        *[other] Wedi cwblhau { $count } cam
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Model wedi'i ddewis ar gyfer tasg: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Penderfynu ar y model gorau
 
 ## Assistant Loader
 

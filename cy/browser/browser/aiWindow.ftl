@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Cyflym
 aiwindow-input-model-select-button-label-allpurpose = Hyblyg
 aiwindow-input-model-select-button-label-personal = Personol
 aiwindow-input-model-select-button-label-custom = Cyfaddas
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Awtomatig
 aiwindow-input-model-select-default-badge =
     .label = Rhagosodedig
     .title = Y model dewis rhagosodedig
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Cymeradwy
+    .title = Y model sy'n cael ei argymell
 aiwindow-input-model-select-settings-link = Gosodiadau'r model
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = Mae { -smart-window-brand-name } yn dewis y model gorau ar gyfer eich tasg
+aiwindow-input-model-select-fast-description = Atebion cyflym pan fyddwch chi ar frys
+aiwindow-input-model-select-flexible-description = Yn barod am amrywiaeth o dasgau
+aiwindow-input-model-select-personal-description = Yn dda os ydych chi'n sgwrsio a phori mewn sawl iaith
 
 ## Firstrun memories onboarding
 
