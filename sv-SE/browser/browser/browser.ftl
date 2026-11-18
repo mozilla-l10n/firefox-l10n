@@ -139,6 +139,17 @@ urlbar-result-menu-manage-firefox-suggest2 = Hantera { -firefox-suggest-brand-na
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Rapportera felaktig plats
+    .accesskey = R
+urlbar-result-menu-show-less-frequently3 = Visas mer sällan
+    .accesskey = V
+urlbar-result-menu-dont-show-weather-suggestions3 = Visa inte väderförslag
+    .accesskey = V
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Rapportera felaktig plats
 urlbar-result-menu-show-less-frequently2 = Visas mer sällan
 urlbar-result-menu-dont-show-weather-suggestions2 = Visa inte väderförslag
