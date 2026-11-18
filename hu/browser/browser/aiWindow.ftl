@@ -388,6 +388,7 @@ aiwindow-starter-dismiss =
 smartwindow-onboarding-welcome-subtitle =
     Ön mellett dolgozik, hogy könnyebben elvégezhesse a teendőit.
     Tervezés, összehasonlítás, felfedezés és egyebek.
+smartwindow-onboarding-title = Tegyük a sajátjává
 smartwindow-onboarding-subtitle = Állítsa be úgy az { -smart-window-brand-name }ot, ahogy szeretné. Bármikor módosíthatja a beállításokat.
 smartwindow-onboarding-model-label = Válassza ki az MI modelljét
 smartwindow-onboarding-model-description = A modell működteti a csevegéseket és műveleteket az { -smart-window-brand-name }ban.
