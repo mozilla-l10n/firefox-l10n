@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = ہݨ کائناں
 urlbar-result-realtime-opt-in-dismiss = فارغ کرو
 urlbar-result-realtime-opt-in-dismiss-all2 = ایہہ تجویزاں نہ ݙکھاؤ
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = مارکیٹ تجویزاں نہ ݙکھاؤ
+    .accesskey = n
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = مارکیٹ تجویزاں نہ ݙکھاؤ
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = ایہہ تجویزاں نہ ݙکھاؤ
@@ -1030,6 +1033,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } تے ٹرینڈنگ
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = ٹرینڈنگ ڳولاں نہ ݙکھاؤ
+    .accesskey = n
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ٹرینڈنگ ڳولاں نہ ݙکھاؤ
     .accesskey = D
