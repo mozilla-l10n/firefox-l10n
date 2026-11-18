@@ -19,6 +19,7 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
+migration-wizard-migrator-display-name-arc = Arc
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -43,6 +44,14 @@ migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Elenco lettura (da Safari)
 migration-imported-edge-reading-list = Elenco di lettura (da Edge)
+# Name of the bookmark folder created when importing a space from the Arc
+# browser that the user did not give a name. Spaces are Arc's way of grouping
+# tabs, similar to tab groups.
+# Note: Arc was never localized so there are no official translastions for "Spaces"
+#
+# Variables:
+#  $number (Number): the position of the space among the imported profile's spaces, starting at 1.
+migration-imported-arc-untitled-space = Spazio { $number }
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
