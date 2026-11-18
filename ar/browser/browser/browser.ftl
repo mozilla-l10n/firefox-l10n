@@ -38,6 +38,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = شارك…
     .accesskey = ر
+
+##
+
 urlbar-identity-button =
     .aria-label = اعرض معلومات الموقع
 
@@ -284,6 +287,11 @@ search-one-offs-add-engine =
     .aria-label = أضِف محرك البحث ”{ $engineName }“
     .label = أضِف ”{ $engineName }“
     .tooltiptext = أضِف محرك البحث ”{ $engineName }“
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = أضف محرك بحث
+    .accesskey = أ
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -733,6 +741,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · مموّل
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = اسأل
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1231,6 +1244,20 @@ plugin-crashed-notification-submit-button =
     .label = بلّغ عن الانهيار
     .accesskey = ن
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -1285,6 +1312,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = س
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1434,9 +1464,6 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
-fire-button-toolbar-button =
-    .label = احذف بعض أو كل بيانات تصفحك
-    .tooltiptext = احذف بعض أو كل بيانات تصفحك
 fire-button-panel-heading = حذف جميع بيانات التصفح؟
 fire-button-panel-description = سيؤدي هذا إلى حذف سجل التصفح وملفات تعريف الارتباط وبيانات الموقع. سيتم تسجيل خروجك من المواقع. ستُغلق هذه النافذة، وسيتم فتح نافذة جديدة باستخدام { -brand-short-name }.
 fire-button-panel-choose-description = إذا كنت لا ترغب في حذف كل شيء، فاختر بيانات محددة بدلاً من ذلك.
@@ -1537,6 +1564,13 @@ file-picker-crashed-open = انهار مربع حوار ملف ويندوز. ل�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = انهار مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
 file-picker-crashed-save-nowhere = انهار مربع حوار ملف ويندوز. لم يتم العثور على المجلد المبدئي؛ ولن يُحفظ الملف.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = اعرض في المجلد
     .accessKey = م
@@ -1612,6 +1646,9 @@ trustpanel-blocker-see-all = اعرض الكل
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = حماية التتبع لـ { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
