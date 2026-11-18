@@ -139,6 +139,17 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } İd
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location3 = Qeyri-dəqiq məkanı bildir
+    .accesskey = Q
+urlbar-result-menu-show-less-frequently3 = Daha az tezliklə göstər
+    .accesskey = D
+urlbar-result-menu-dont-show-weather-suggestions3 = Hava təkliflərini göstərmə
+    .accesskey = H
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Qeyri-dəqiq məkanı bildir
 urlbar-result-menu-show-less-frequently2 = Daha az tezliklə göstər
 urlbar-result-menu-dont-show-weather-suggestions2 = Hava təkliflərini göstərmə
@@ -842,6 +853,9 @@ urlbar-result-realtime-opt-in-not-now = İndi yox
 urlbar-result-realtime-opt-in-dismiss = Rədd et
 urlbar-result-realtime-opt-in-dismiss-all2 = Bu təklifləri göstərmə
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = Bazar təkliflərini göstərmə
+    .accesskey = B
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = Bazar təkliflərini göstərmə
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Bu təklifləri göstərmə
@@ -1037,6 +1051,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } üzrə populyar
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Populyar axtarışları göstərmə
+    .accesskey = P
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Populyar axtarışları göstərmə
     .accesskey = D
