@@ -18,6 +18,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = സ്വകാര്യ തിരച്ചിൽ
+
+##
+
 urlbar-identity-button =
     .aria-label = സൈറ്റ് വിവരങ്ങൾ കാണുക
 
@@ -219,6 +222,11 @@ search-one-offs-add-engine =
     .aria-label = “{ $engineName }” തിരച്ചിൽയന്ത്രം ചേർക്കുക
     .label = “{ $engineName }” ചേർക്കുക
     .tooltiptext = “{ $engineName }” തിരച്ചിൽയന്ത്രം ചേർക്കുക
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = തിരയൽയന്ത്രം ചേർക്കുക
+    .accesskey = ത
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -437,6 +445,9 @@ sharing-warning-screen = താങ്ങളുടെ പ്രലമാകെ �
 sharing-warning-proceed-to-tab =
     .label = ടാബിലേക്ക് ചെല്ലുക
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -559,6 +570,11 @@ urlbar-result-yelp-subtitle = { -yelp-brand-name }
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -704,6 +720,9 @@ urlbar-result-action-switch-to-tabgroup = { $group }-ലേക്കു് മ�
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } തുറക്കുക
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -920,6 +939,10 @@ toolbar-button-paste =
     .label = ഒട്ടിക്കുക
     .tooltiptext = ഒട്ടിയ്ക്കുക ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ഈ സൈറ്റിലുള്ള ചില ഓഡിയോ അല്ലെങ്കില്‍ വീഡിയോ ഡിആര്‍എം സോഫ്റ്റ്‌വെയര്‍ ഉപയോഗിയ്ക്കുന്നു. ഇതു് { -brand-short-name } ചെയ്യുന്നതിനു് പരിധി കല്‍പിയ്ക്കുന്നു.
@@ -954,6 +977,20 @@ plugin-crashed-notification-submit-button =
     .label = തകരാറിനുള്ള ഒരു റിപോര്‍ട്ട് സമര്‍പ്പിയ്ക്കുക
     .accesskey = സ
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -969,7 +1006,21 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = അടയ്ക്കുക
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1004,9 +1055,22 @@ tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = എങ്ങനെയെന്നു് കാണിയ്ക്കുക.
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1064,6 +1128,10 @@ reset-pbm-panel-cancel-button =
     .accesskey = റ
 reset-pbm-panel-complete = സ്വകാര്യ ഘട്ടത്തിന്റെ ദത്ത മായച്ചു
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ഈ താള്‍ സ്വയമായി ലഭ്യമാകുന്നതു് { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
@@ -1071,6 +1139,9 @@ refresh-blocked-redirect-label = മറ്റൊരു താളിലേക്�
 refresh-blocked-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -1127,6 +1198,13 @@ file-picker-crashed-open = വിണ്ടോസു് ഫയൽ സന്ദേ
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു. ഫയൽ { $path }-ലേക്കു് കരുതിവയ്ക്കപ്പെടും
 file-picker-crashed-save-nowhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു.  തനതു അറ കണ്ടുപ്പിടിക്കാൻ കഴിഞ്ഞില്ല; അതുകൊണ്ടു ഈ ഫയൽ കരുതിവയ്ക്കപ്പെടില്ല
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = അറയിൽ കാണിക്കുക
     .accessKey = ക
@@ -1166,7 +1244,17 @@ trustpanel-clear-cookies-subview-button-clear = മായ്ക്കുക
 trustpanel-clear-cookies-subview-button-cancel = റദ്ദാക്കുക
 trustpanel-siteinformation-morelink = കൂടുതൽ വെബ്ബിടവിവരങ്ങൾ
 trustpanel-blocker-see-all = മുഴുവന്‍ കാണുക
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = സുരക്ഷിതമല്ല
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
