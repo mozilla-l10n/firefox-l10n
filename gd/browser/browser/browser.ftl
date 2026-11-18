@@ -1119,10 +1119,28 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Làrach ionnsaighe!
+safebrowsing-reported-attack-site-message = Chaidh aithris gur e làrach ionnsaighe a tha seo!
+safebrowsing-reported-unwanted-site-message = Làrach a sgaoileas bathar-bog gun iarrtas!
+safebrowsing-reported-harmful-site-message = Dèan aithris gur e làrach dochainneach a tha seo!
+safebrowsing-get-me-out-of-here-button =
+    .label = A-mach às an àite seo leam!
+    .accesskey = m
+safebrowsing-not-a-deceptive-site-button =
+    .label = Chan e làrach foill a tha seo…
+    .accesskey = f
+safebrowsing-not-an-attack-site-button =
+    .label = Chan e làrach ionnsaighe a tha seo…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Feumaidh tu clàradh a-steach dhan lìonra seo mus fhaigh thu cothrom air an eadar-lìon.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Fosgail an duilleag airson clàradh a-steach do lìonra
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -1130,6 +1148,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = An robh thu an dùil tadhal air { $hostName }?
+keyword-uri-fixup-go-to-button =
+    .label = Bha, nach stiùir sibh mi gu { $hostName }?
+    .accesskey = Y
 
 ## Password save/update panel
 
