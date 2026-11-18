@@ -14,6 +14,15 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = سازمووݩ دهی بلگه یل
+# Creates every suggested group at once.
+smartwindow-group-tabs-create-all = وورکل پوی بونکۊیل
+smartwindow-group-tabs-suggested-heading = بونکۊیل پؽشنهاڌی
+# Accessible name for the flyout that lists the tabs of one suggested group.
+# Activating a tab in the list switches to it.
+# Variables:
+#   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
+smartwindow-group-tabs-flyout-list =
+    .aria-label = بلگه یل { $groupLabel }
 # Heading for the list of groups the user just created (and can still undo).
 smartwindow-group-tabs-just-created-heading = تازه وورکل وابیڌه
 # Action that dissolves every group in the "Just created" list. The tabs stay
