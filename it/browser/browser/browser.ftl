@@ -1034,6 +1034,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Di tendenza su { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Non mostrare ricerche di tendenza
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Non mostrare ricerche di tendenza
     .accesskey = z
 # The result menu labels shown next to trending results.
