@@ -27,6 +27,9 @@ menu-share-links =
             [one] { $count } లంకె
            *[other] { $count } లంకెలు
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = సైటు సమాచారం చూడండి
 
@@ -207,6 +210,11 @@ search-one-offs-add-engine =
     .tooltiptext = “{ $engineName }” సెర్చింజనును చేర్చు
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = శోధన యంత్రాన్ని జోడించు
+    .accesskey = h
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = శోధన యంత్రాన్ని జోడించు
 
@@ -382,6 +390,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ఈ సెషనుకి పంచుకోలు రక్షణను అచేతనంచేయి
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -461,6 +472,11 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 # The sub title of a Yelp suggestion in the urlbar.
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -523,6 +539,9 @@ urlbar-result-action-search-actions = వెతుకుడు చర్యల�
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = { $group }కి మారండి
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -640,6 +659,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = ఇష్టాంశాలు
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -712,6 +734,10 @@ toolbar-button-paste =
     .label = అతికించు
     .tooltiptext = అతికించు ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ఈ సైటు లోని ఆడియో లేదా వీడియో DRM సాఫ్ట్‌వేరును వాడుతోంది, అది { -brand-short-name } మిమ్మల్ని ఏమేం చేయనివ్వగలదో పరిమితం చేయవచ్చు.
@@ -746,6 +772,20 @@ plugin-crashed-notification-submit-button =
     .label = క్రాష్ నివేదికలను సమర్పించండి
     .accesskey = S
 
+## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
+
+
+## Notification bar shown when a captive portal is blocking network access
+## and requires the user to log in before browsing.
+
+
+## Notification bar shown when the user tries to visit a local host, but a
+## search page was already loaded for the given word by the time the DNS
+## request recognized it.
+## Variables:
+##   $hostName (String) - The recognized host (for example, “http://example/”).
+
+
 ## Password save/update panel
 
 panel-save-update-username-2 =
@@ -763,7 +803,21 @@ menu-share-windows =
 ui-tour-info-panel-close =
     .tooltiptext = మూసివేయి
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -798,9 +852,22 @@ tabs-toolbar-list-all-tabs =
     .label = అన్ని ట్యాబుల జాబితా చూపించు
     .tooltiptext = అన్ని ట్యాబుల జాబితా చూపించు
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = ఎలానో నాకు చూపించు
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -876,6 +943,9 @@ refresh-blocked-allow =
     .label = అనుమతించు
     .accesskey = A
 
+## Firefox Relay integration
+
+
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -910,6 +980,13 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు
     .accessKey = F
@@ -929,6 +1006,9 @@ process-hang-stop-button =
     .label = ఆపివేయి
     .accesskey = S
 
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust icon & panel
 
 trustpanel-header-enabled-insecure = ఈ సైటులో జాగ్రత్తగా ఉండండి
@@ -936,6 +1016,9 @@ trustpanel-privacy-link = అంతరంగిత అమరికలు
 trustpanel-clear-cookies-subview-button-cancel = రద్దుచేయి
 trustpanel-siteinformation-morelink = మరింత సైటు సమాచారం
 trustpanel-blocker-see-all = అన్నింటినీ చూడండి
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -950,3 +1033,6 @@ trustpanel-list-label-cryptominer =
         [one] { $count } క్రిప్టోమైనర్
        *[other] { $count } క్రిప్టోమైనర్లు
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
