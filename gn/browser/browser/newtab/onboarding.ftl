@@ -623,6 +623,9 @@ welcome-back-onboarding-card-tilebutton-label = Eha’ã jey
 
 hnt-card-import-primary-button = Egueru mba’ekuaarã
 hnt-card-default-primary-button = Embojuruja juajuha { -brand-short-name } ndive
+hnt-card-mobile-header = Ereko ñemo’ã jehe’apyre ne pumbyrýpe
+hnt-card-mobile-body = Emboguejy { -brand-product-name } pumbyrýpe ha nderekoñemíta eimehápe.
+hnt-card-mobile-primary-button = Ereko { -brand-product-name } ne pumbyrýpe.
 hnt-card-wallpaper-header = Eiporavo mba’erechaha rugua pyahu
 hnt-card-wallpaper-primary-button = Eñepyrũ emboava
 hnt-card-taskbar-tabs-primary-button = Embojuaju tendayke tembiaporã rupáre
