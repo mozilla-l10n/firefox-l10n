@@ -1038,6 +1038,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } bilatzaileko joerak
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Ez erakutsi bilaketa-joerak
+    .accesskey = E
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ez erakutsi bilaketa-joerak
     .accesskey = z
 # The result menu labels shown next to trending results.
