@@ -368,10 +368,27 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = Misleidende werf!
+safebrowsing-reported-attack-site-message = 'n Geraporteerde aanvalswerf!
+safebrowsing-reported-unwanted-site-message = Aangegee as werf met ongewensde sagteware!
+safebrowsing-get-me-out-of-here-button =
+    .label = Laat ek weg wees!
+    .accesskey = L
+safebrowsing-not-a-deceptive-site-button =
+    .label = Nié 'n misleidende werf nie…
+    .accesskey = d
+safebrowsing-not-an-attack-site-button =
+    .label = Hierdie is nie 'n aanvalswerf nie…
+    .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
+captive-portal-info-message = Dis nodig om eers by dié netwerk aan te meld vir internettoegang.
+# Shown in all tabs except the login page tab. Clicking it shows the portal
+# login page tab.
+captive-portal-show-login-page-button =
+    .label = Open die netwerk se aanmeldblad
 
 ## Notification bar shown when the user tries to visit a local host, but a
 ## search page was already loaded for the given word by the time the DNS
@@ -379,6 +396,10 @@ plugin-crashed-notification-submit-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
+keyword-uri-fixup-message = Wou u eintlik na { $hostName } gaan?
+keyword-uri-fixup-go-to-button =
+    .label = Ja, gaan na { $hostName }
+    .accesskey = J
 
 ## Password save/update panel
 
