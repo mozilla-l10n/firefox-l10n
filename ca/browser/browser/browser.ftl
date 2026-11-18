@@ -843,6 +843,9 @@ urlbar-result-realtime-opt-in-not-now = Ara no
 urlbar-result-realtime-opt-in-dismiss = Descarta
 urlbar-result-realtime-opt-in-dismiss-all2 = No mostris aquests suggeriments
 # This string is shown in the result menu.
+urlbar-result-menu-dont-show-market3 = No mostris suggeriments dels mercats
+    .accesskey = N
+# This string is shown in the result menu.
 urlbar-result-menu-dont-show-market2 = No mostris suggeriments dels mercats
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = No mostris aquests suggeriments
