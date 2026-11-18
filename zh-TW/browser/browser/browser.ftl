@@ -311,6 +311,11 @@ search-one-offs-add-engine =
     .tooltiptext = 新增「{ $engineName }」搜尋引擎
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
+search-one-offs-add-engine-menu2 =
+    .label = 新增搜尋引擎
+    .accesskey = h
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = 新增搜尋引擎
 
