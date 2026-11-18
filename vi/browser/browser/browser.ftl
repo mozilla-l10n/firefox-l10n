@@ -1006,6 +1006,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Đang thịnh hành trên { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Không hiển thị các tìm kiếm thịnh hành
+    .accesskey = n
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Không hiển thị các tìm kiếm thịnh hành
     .accesskey = K
 # The result menu labels shown next to trending results.
