@@ -383,3 +383,26 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Убрать { $text }
     .title = Убрать { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Работает вместе с вами, чтобы добиться цели.
+    Планируйте, сравнивайте, исследуйте и многое другое.
+smartwindow-onboarding-title = Давайте сделаем его вашим
+smartwindow-onboarding-subtitle = Настройте { -smart-window-brand-name } так, как вам нравится. Вносите изменения в любое время в настройках.
+smartwindow-onboarding-model-label = Выберите свою ИИ-модель
+smartwindow-onboarding-model-description = Модель обеспечивает чаты и действия в { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Авто
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Рекомендуемая
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } выбирает лучшую модель для вашей задачи
+smartwindow-onboarding-model-mistral-description = Хороша, если вы общаетесь и сёрфите на нескольких языках
+smartwindow-onboarding-model-gemini-description = Быстрые ответы, когда вы быстро движетесь
+smartwindow-onboarding-memories-label = Выберите, как { -smart-window-brand-name } узнаёт о вас
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } может обучаться из чатов, веб-сёрфинга, или и того, и другого, для создания воспоминаний. Оно использует их, чтобы персонализировать ваш опыт работы с течением времени.
+smartwindow-onboarding-memories-both = Чаты и веб-сёрфинг
+smartwindow-onboarding-memories-browsing = Только просмотр сети
+smartwindow-onboarding-memories-chats = Только чаты
+smartwindow-onboarding-memories-none = Не обучаться на действиях
