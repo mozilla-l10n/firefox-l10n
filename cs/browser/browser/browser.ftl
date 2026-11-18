@@ -1119,6 +1119,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Populární na { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Nezobrazovat populární vyhledávání
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nezobrazovat populární vyhledávání
     .accesskey = N
 # The result menu labels shown next to trending results.
