@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gestão de código
 about-webauthn-credential-management-section-title = Gerir credenciais
 about-webauthn-pin-required-section-title = Código obrigatório
 about-webauthn-confirm-deletion-section-title = Confirmar eliminação
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Históricos
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Registos biométricos
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Não é possível gerir as opções porqu
 about-webauthn-text-not-available = Não está disponível nesta plataforma.
 about-webauthn-bio-enrollment-list-subsection-title = Registos:
 about-webauthn-add-bio-enrollment-section-title = Adicionar um novo registo
+about-webauthn-logging-warning = O histórico pode conter informações pessoais, tais como nomes de utilizador, identificadores de conta e endereços de sites. Reveja-o antes de partilhar.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Isto apenas regista pedidos para a implementação nativa CTAP do { -brand-short-name }. Não regista pedidos para APIs de WebAuthn da plataforma ou extensões de navegador.
 
 ## Results label
 
