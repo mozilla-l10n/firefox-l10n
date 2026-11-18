@@ -997,6 +997,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Популярне в { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show3 = Не показувати популярні пошукові запити
+    .accesskey = Н
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Не показувати популярні пошукові запити
     .accesskey = Н
 # The result menu labels shown next to trending results.
