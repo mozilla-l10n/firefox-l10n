@@ -13,7 +13,7 @@
 webext-perms-sideload-header = { $extension } jo se pśidał
 webext-perms-optional-perms-header2 = { $extension } wó pśidatne pšawa pšosy
 webext-perms-header2 = { $extension } pśidaś
-webext-perms-list-intro-unsigned = Toś to njepśeglědane rozšyrjenje mógło wašu priwatnosć na zwěsć stajiś abo waš rěd škóźeś. Pśidajśo jo jano, jolic žrědłoju dowěriśo.
+webext-perms-list-intro-unsigned = Toś to njepśeglědane rozšyrjenje mógło wašu priwatnosć do tšachoty spóraś abo waš rěd škóźeś. Pśidajśo jo jano, jolic žrědłoju dowěriśo.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
