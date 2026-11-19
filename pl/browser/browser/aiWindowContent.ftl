@@ -220,6 +220,12 @@ action-log-searching-web-with-exa = Przeszukiwanie Internetu za pomocą <a data-
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Przeszukano Internet za pomocą <a data-l10n-name="exa-link">Exa</a>
+# Shown instead of action-log-searched-web-with-exa when Exa both searched the
+# web and wrote the reply shown to the user, rather than the assistant answering
+# from the search results. Exa is the name of a third-party web search API and a
+# brand name that should not be translated. The <a> wraps "Exa" as a link to a
+# support article explaining the third-party web search integration.
+action-log-searched-and-answered-with-exa = Przeszukano Internet i udzielono odpowiedzi za pomocą <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Przeszukiwanie zapamiętanych treści
 action-log-checked-memories = Przeszukano zapamiętane treści
 action-log-searching-settings = Przeszukiwanie ustawień
@@ -232,6 +238,12 @@ action-log-completed-steps =
         [few] Ukończono { $count } kroki
        *[many] Ukończono { $count } kroków
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Model wybrany do zadania: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Dobieranie najlepszego modelu
 
 ## Assistant Loader
 

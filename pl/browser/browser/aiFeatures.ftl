@@ -35,6 +35,9 @@ smart-window-model-section =
 smart-window-model-radio-group =
     .aria-label = Model asystenta
 smart-window-model-learn-link = Informacje o modelach
+smart-window-model-auto =
+    .description = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } wybiera najlepszy model do zadania
+    .label = Automatyczny model
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -58,6 +61,9 @@ smart-window-model-custom-save =
     .label = Zachowaj
 smart-window-model-custom-save-confirmation = Zachowano dane modelu. Zacznij nową rozmowę, aby przetestować.
 ai-window-memories-section =
+    .description = { -brand-short-name } może uczyć się na podstawie Twoich działań, aby tworzyć zapamiętane treści. Służą one do indywidualizowania odpowiedzi i są przechowywane lokalnie na tym urządzeniu.
+    .label = Zapamiętane treści
+ai-window-memories-section-v2 =
     .description = { -brand-short-name } może uczyć się na podstawie Twoich działań, aby tworzyć zapamiętane treści. Służą one do indywidualizowania odpowiedzi i są przechowywane lokalnie na tym urządzeniu.
     .label = Zapamiętane treści
 ai-window-learn-from-chat-activity =
@@ -97,3 +103,9 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Zbudowany z myślą o zindywidualizowanej pomocy w różnych językach. Pełna nazwa: { $model } od firmy { $ownerName }
     .label = { $shortName }: osobisty
+smart-window-model-qwen =
+    .description = Gotowy do różnorodnych zadań. Pełna nazwa: { $model } od firmy { $ownerName }
+    .label = { $shortName }
+smart-window-model-mistral =
+    .description = Dobry do rozmawiania i przeglądania w wielu językach. Pełna nazwa: { $model } od firmy { $ownerName }
+    .label = { $shortName }

@@ -71,5 +71,9 @@ mini-window-overlay-instructions = Przeciągnij lub kliknij, aby zaznaczyć obsz
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Wybierz, co przenieść do miniokna
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Część strony
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Cała strona
 mini-window-panel-move-selection = Przenieś zaznaczenie
 mini-window-panel-move-full-tab = Przenieś całą kartę
