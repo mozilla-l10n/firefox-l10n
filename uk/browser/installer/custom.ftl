@@ -82,6 +82,29 @@ error-create-directory-suffix =
 un-confirm-page-title = Видалення { $BrandFullName }
 un-confirm-uninstalled-from = { $BrandShortName } буде видалено з такої теки:
 un-refresh-page-title = Відновити { $BrandShortName } натомість?
+un-refresh-page-explanation =
+    Якщо у вас виникли проблеми з { $BrandShortName }, відновлення може допомогти.
+    
+    Буде відновлено типові налаштування і вилучено додатки. Почніть спочатку, щоб досягти оптимальної продуктивності.
+un-refresh-learn-more = Докладніше
+    .accesskey = Д
+un-refresh-button = Відновити { $BrandShortName }
+    .accesskey = В
+banner-check-existing = Перевірка попереднього встановлення…
+status-install-app = Встановлення { $BrandShortName }…
+status-uninstall-main = Видалення { $BrandShortName }…
+status-cleanup = Очищення…
+un-survey-checkbox-label = Розкажіть Mozilla чому ви видалили { $BrandShortName }
+# This string should fit in one line (approximately 65 characters).
+options-summary = Виберіть потрібний тип встановлення та натисніть Далі.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } встановиться з типовою конфігурацією.
+option-standard-radio = Типово
+    .accesskey = Т
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Ви можете змінити параметри встановлення. Рекомендовано для досвідчених користувачів.
+option-custom-radio = Вибірково
+    .accesskey = В
 # This text replaces the Install button text on the summary page.
 upgrade-button = Оновити
     .accesskey = О
