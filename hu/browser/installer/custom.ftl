@@ -48,3 +48,63 @@ icons-desktop = Asztal
     .accesskey = A
 icons-startmenu = Start menü Programok mappája
     .accesskey = S
+icons-taskbar = A tálcára
+    .accesskey = t
+warn-manually-close-app-install =
+    A { $BrandShortName } programot be kell zárni a telepítés folytatásához.
+    
+    A folytatáshoz zárja be a { $BrandShortName } programot.
+warn-manually-close-app-uninstall =
+    A { $BrandShortName } programot be kell zárni az eltávolítás folytatásához.
+    
+    A folytatáshoz zárja be a { $BrandShortName } programot.
+warn-manually-close-app-refresh =
+    A felfrissítés folytatásához be kell zárni a { $BrandShortName } böngészőt.
+    
+    A folytatáshoz zárja be a { $BrandShortName } programot.
+warn-write-access =
+    Nincs írási joga a telepítési könyvtárhoz.
+    
+    Kattintson az OK gombra, és válasszon egy másik könyvtárat.
+warn-disk-space =
+    A kiválasztott hely lemezterülete nem elegendő a telepítéshez.
+    
+    Kattintson az OK gombra, és válasszon egy másik helyet.
+warn-min-supported-osver-msg = Elnézést, a { $BrandShortName } nem telepíthető. A { $BrandShortName } ezen verziójához { $MinSupportedVer } vagy újabb szükséges. További információkért kattintson az OK gombra.
+warn-min-supported-cpu-msg = Elnézést, a { $BrandShortName } nem telepíthető. A { $BrandShortName } ezen verziójához { $MinSupportedCPU } támogatással rendelkező processzor szükséges. További információkért kattintson az OK gombra.
+warn-min-supported-osver-cpu-msg = Elnézést, a { $BrandShortName } nem telepíthető. A { $BrandShortName } ezen verziójához { $MinSupportedVer } vagy újabb, és { $MinSupportedCPU } támogatással rendelkező processzor szükséges. További információkért kattintson az OK gombra.
+warn-restart-required-uninstall = A számítógépet újra kell indítani, hogy befejeződjön a { $BrandShortName } egy előző eltávolítása. Újraindítja most a számítógépet?
+warn-restart-required-upgrade = A számítógépet újra kell indítani, hogy befejeződjön a { $BrandShortName } egy előző frissítése. Újraindítja most a számítógépet?
+error-create-directory-prefix = Hiba a könyvtár létrehozásakor:
+error-create-directory-suffix =
+    Kattintson a Mégse gombra a telepítés megszakításához, vagy
+    az Újra gombra az ismételt próbálkozáshoz.
+un-confirm-page-title = A { $BrandFullName } eltávolítása
+un-confirm-uninstalled-from = A { $BrandShortName } eltávolításra kerül a következő helyről:
+un-refresh-page-title = Ehelyett inkább felfrissíti a { $BrandShortName } böngészőt?
+un-refresh-page-explanation =
+    Ha problémái vannak a { $BrandShortName } böngészővel, akkor a felfrissítés segíthet.
+    
+    Ez visszaállítja az alapértelmezett beállításokat és eltávolítja a kiegészítőket. Induljon tiszta lappal az optimális teljesítmény érdekében.
+un-refresh-learn-more = További tudnivalók
+    .accesskey = T
+un-refresh-button = A { $BrandShortName } felfrissítése
+    .accesskey = f
+banner-check-existing = Meglévő telepítés ellenőrzése…
+status-install-app = { $BrandShortName } telepítése…
+status-uninstall-main = A { $BrandShortName } eltávolítása…
+status-cleanup = Egy kis takarítás…
+un-survey-checkbox-label = Mondja el a Mozillának, hogy miért törli a { $BrandShortName } böngészőt
+# This string should fit in one line (approximately 65 characters).
+options-summary = Válassza ki a kívánt telepítési típust, majd nyomja meg a Tovább gombot.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = A { $BrandShortName } a leggyakoribb összetevőkkel települ.
+option-standard-radio = Szokásos
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = A telepítendő összetevők kiválasztása. Haladó felhasználóknak javasolt.
+option-custom-radio = Egyéni
+    .accesskey = E
+# This text replaces the Install button text on the summary page.
+upgrade-button = Frissítés
+    .accesskey = F
