@@ -5,8 +5,22 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Lokile
 dialog-button-cancel =
     .label = Khansela
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
+dialog-button-yes =
+    .label = Ee
+    .accesskey = E
+dialog-button-no =
+    .label = Aowa
+    .accesskey = A
+dialog-button-save =
+    .label = Boloka
+    .accesskey = B
+dialog-button-revert =
+    .label = Boela
+    .accesskey = B
