@@ -15,5 +15,23 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+installer-win-caption = Насбкунандаи «{ $BrandShortName }»
+stub-cleanup-paveover-header = Шумо аллакай «{ $BrandShortName }»-ро насб кардед. Биёед версияи навтаринро ба кор дарорем.
+stub-cleanup-reinstall-header = Шумо аллакай «{ $BrandShortName }»-ро насб кардед. Биёед нусхаи навтаринро ба шумо таъмин намоем.
 stub-cleanup-paveover-button = Навсозӣ кардан
 stub-cleanup-reinstall-button = Аз нав насб кардан
+stub-cleanup-checkbox-label = Браузери худро тоза карда, суръати онро беҳтар намоед. Ба танзимоти пешфарз баргардед ва ҷузъҳои иловагии куҳнаро нест кунед.
+stub-installing-label = Насб шуда истодааст…
+stub-blurb-second = Тезкор. Бехатар. Васоити пайгириро ба таври худкор манъ мекунад.
+stub-blurb-third = Барои ҳамкорӣ дар бунёди Интернети беҳтар аз шумо сипосгузорем
+stub-blurb-first-devedition = Барои сохтани маҳсулот дар муҳити Интернети кушода омода шавед
+stub-blurb-second-devedition = Пурқувват. Хусуӣ. Браузере, ки барои барномасозон сохта шудааст.
+stub-blurb-third-devedition = Барои ҳамроҳшавӣ бо ҷомеаи «{ $BrandShortName }» аз шумо сипосгузорем
+warn-min-supported-osver-msg2 = Чунин менамояд, ки «{ $BrandShortName }» насб карда намешавад. Барои ин версияи «{ $BrandShortName }» версияи { $MinSupportedVer } ё навтар лозим аст. Лутфан, барои гирифтани маълумоти бештар, тугмаи «ХУБ»-ро зер кунед.
+warn-write-access-quit = Чунин ба назар мерасад, ки шумо барои иҷро кардани насб дар ин ҷойгиршавии файл иҷозат надоред.
+warn-disk-space-quit = Чунин ба назар мерасад, ки шумо дар дастгоҳи худ барои насб кардани «{ $BrandShortName }» фазои кофӣ надоред.
+error-download-cont = Чунин ба назар мерасад, ки «{ $BrandShortName }» насб карда намешавад. Барои аз нав оғоз кардани насб, тугмаи «ХУБ»-ро зер кунед.
+stub-cancel-prompt-heading = Шумо мехоҳед, ки { $BrandShortName }-ро насб намоед?
+stub-cancel-prompt-message = Агар шумо амалро бекор кунед, { $BrandShortName } насб карда намешавад.
+stub-cancel-prompt-button-continue = Насб кардани { $BrandShortName }
+stub-cancel-prompt-button-exit = Бекор кардан
