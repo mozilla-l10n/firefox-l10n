@@ -164,9 +164,15 @@ tabbrowser-customizemode-tab-title = Përshtateni { -brand-short-name }-in
 tabbrowser-context-mute-tab =
     .label = Mbylljani zërin Skedës
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = Pa Zë
+    .accesskey = P
 tabbrowser-context-unmute-tab =
     .label = Rikthejani zërin Skedës
     .accesskey = R
+tabbrowser-context-unmute-tab2 =
+    .label = Me Zë
+    .accesskey = M
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Mbyllja Zërin Skedave
@@ -244,6 +250,14 @@ tab-context-unnamed-group =
     .label = Grup i paemër
 tab-group-name-default = Grup i Paemër
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Grupe skedash
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -317,6 +331,14 @@ tab-group-overflow-count-tooltip =
        *[other] { $tabCount } më tepër
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-button = Krijoni një grup skedash
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Grup i Ri
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
@@ -363,6 +385,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Ruaje
     .accesskey = R
+tab-note-editor-button-delete =
+    .aria-label = Fshijeni shënimin
+    .title = Shije shënimin
+    .accesskey = F
+tab-note-preview-edit-icon =
+    .alt = Përpunoni shënim
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Lexoni më tepër
 tab-note-panel-add-note-new-badge =
@@ -391,11 +419,17 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Ndaje Pamjen Krah Për Krah
     .accesskey = N
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view-alt =
+    .label = Skeda Më Vete
+    .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Përmbys Skeda
     .accesskey = r
 tab-context-badge-new = E re
+# The label of a badge shown in menu items to call out features that are in beta.
+tab-context-badge-beta = Beta
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.

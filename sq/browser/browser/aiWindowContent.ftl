@@ -32,6 +32,10 @@ smartwindow-signin-btn = Hyni
 ## Assistant Message footer
 
 aiwindow-memories-learn-more = Mësoni më tepër
+aiwindow-manage-memories =
+    .label = Rregullime kujtese
+aiwindow-retry-without-memories =
+    .label = Riprovo pa kujtesa
 aiwindow-retry =
     .aria-label = Riprovoni
     .tooltiptext = Riprovoni
@@ -48,6 +52,10 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Jepni përshtypje negative
     .tooltiptext = Jepni përshtypje negative
+aiwindow-applied-memories-popover =
+    .aria-label = Panel kujtesash
+aiwindow-applied-memories-list =
+    .aria-label = Kujtesa
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
