@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Кропка
 user-context-icon-fence =
     .label = Агароджа
+user-context-icon-robot =
+    .label = Робат
