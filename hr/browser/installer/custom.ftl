@@ -17,11 +17,15 @@
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
 reg-app-desc = { $BrandShortName } pruža sigurno i jednostavno pretraživanje interneta. Poznato korisničko sučelje, poboljšana sigurnost, što uključuje zaštitu od krađe identiteta i integriranu pretragu, omogućuju da od Weba dobiješ sve što je moguće.
+brief-app-desc = Brzo i privatno pregledavanje weba
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
 private-browsing-shortcut-title = { $BrandShortName } privatno pretraživanje
 context-options = { $BrandShortName } mogućnosti
     .accesskey = m
+context-safe-mode = { $BrandShortName } Siguran modus
+    .accesskey = S
+options-page-title = Tip instalacije
 icons-taskbar = Na moju programsku traku
     .accesskey = t
 warn-manually-close-app-install =
