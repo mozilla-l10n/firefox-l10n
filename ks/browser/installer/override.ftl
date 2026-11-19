@@ -19,6 +19,8 @@
 ##   $ClickInstructions (String) - The instructions to proceed to the next step of the wizard (e.g. “Click Next to continue.”).
 ##   $FilePath (String) - The path of the file that couldn’t be written.
 
+nsis-back-btn = واپس گژھیو<
+    .accesskey = B
 nsis-next-btn = پتئ>
     .accesskey = >
 nsis-accept-btn = میئ چھئ منظور لایسنس مہایدئ

@@ -17,3 +17,22 @@
 
 mui-text-components-title = کمپونینٹ ژأریو
 mui-text-components-subtitle = برانڈ فُل ناو ڈی اے یِک فیچر ژأریو یم توہیہ یژھان چھیو انسٹال کرْنئ۔
+mui-innertext-components-description-title = وضاحت
+mui-innertext-components-description-info = پنُن ماوُس تھأیو أکس کمپونینتس پیٹھ امِچ وضاحت وْچھنْہ باپت۔
+mui-text-directory-title = انسٹال جاے ژأریو
+mui-text-installing-title = اِنسٹال كران
+mui-text-finish-title = انسٹالیشن گو وئ  مکمل
+mui-text-finish-subtitle = سیٹ اپ آو کامیأبی سان مُکمل کرنْہ۔
+mui-text-abort-title = انسٹالیشن رُکأیو
+mui-text-abort-subtitle = سیٹ اپ آو نْہ  کامیأبی سان مُکمل کرنْہ۔
+mui-buttontext-finish = مکلأیو
+    .accesskey = F
+mui-text-finish-rebootnow = وْنئ کْریو ریبوٹ
+mui-text-finish-rebootlater = بْہ چُھس یژھان مینولی ریبوٹ کرُن پتْہ
+mui-text-startmenu-title = ژاریو شروع مینیو فولڈر
+mui-innertext-startmenu-top = ژأریو شروع مینیو فولڈر یتھ منز توہیہ پسند گژھ بناون پروگرام شاٹ کٹ۔ توہیہ ہیکیو اکھ ناو تِہ اینٹر کْرتھ اکھ نُو فولڈر بناونْہ باپت۔
+mui-untext-uninstalling-title = ان انسٹال کران
+mui-untext-finish-title = ان انسٹالیشن چھ مُکمل
+mui-untext-finish-subtitle = ان انسٹال آو مُکمل کرنْہ کامیأبی سان۔
+mui-untext-abort-title = ان انسٹالیشن آیہ رُکاونْہ
+mui-untext-abort-subtitle = ان انسٹال اوس نْہ مُکمل کامیأبی سان۔
