@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = 圆点
 user-context-icon-fence =
     .label = 篱笆
+user-context-icon-robot =
+    .label = 机器人
