@@ -23,6 +23,7 @@ nsis-uninstall-caption = Sdisinzitamentu di { $BrandFullName }
 nsis-uninstall-btn = Sdisinzita
     .accesskey = S
 nsis-cancel-btn = Sfai
+nsis-click-uninstall = Ammacca Sdisinzita p’abbiari u sdisinzitamentu.
 nsis-uninstalling-text = { $BrandFullNameDA } veni sdisinzitatu di stu locu. { $ClickInstructions }
 nsis-uninstalling-sub-text = Staju sdisinzitannu di:
 nsis-created-uninstaller = Criazzioni dû prugramma di sdisinzitamentu:{ " " }

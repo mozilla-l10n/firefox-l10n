@@ -19,6 +19,7 @@ installer-win-caption = Nzitaturi di { $BrandShortName }
 stub-cleanup-paveover-button = Attualizza
 stub-cleanup-reinstall-button = Nzita arrè
 stub-installing-label = Staju nzitannu…
+stub-cancel-prompt-heading = Vo’ nzitari { $BrandShortName }?
 stub-cancel-prompt-message = Si sfai, nun pozzu nzitari { $BrandShortName }.
 stub-cancel-prompt-button-continue = Nzita { $BrandShortName }
 stub-cancel-prompt-button-exit = Sfai

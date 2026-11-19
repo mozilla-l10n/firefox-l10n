@@ -15,10 +15,25 @@
 ##   $BrandFullNameDA (String) - The full brand name, with any ampersand doubled so that it isn’t used as an accesskey.
 ##   $ClickInstructions (String) - The instructions to proceed to the next step of the wizard (e.g. “Click Next to continue.”).
 
+mui-text-welcome-info-title = Ti damu u bimminutu a l’assistenti di nzitamentu di { $BrandFullNameDA }
+mui-text-welcome-info-text =
+    St’assistenti t’ajuta pû nzitamentu di { $BrandFullNameDA }.
+    
+    Ti raccumannamu di chiùjiri tutti l’autri applicazzioni prima d’accuminciari. Chistu pirmetti d’attualizzari prichi di sistema mpurtanti senza c’abbisogni di abbìari arrè u to computer.
+    
+    { $ClickInstructions }
+mui-text-components-title = Scarta cumpunenti
+mui-text-components-subtitle = Scarta quali carattarìstichi di { $BrandFullNameDA } voi nzitari.
+mui-innertext-components-description-title = Discrizzioni
+mui-innertext-components-description-info = Movi a fileccia dû mouse supra un cumpunenti pi vìdiri a discrizzioni.
+mui-text-directory-title = Scarta locu di nzitamentu
 mui-text-directory-subtitle = Scarta a carpetta unni nzitari { $BrandFullNameDA }.
 mui-text-installing-title = Staju nzitannu
 mui-text-installing-subtitle = Pi favuri aspetta mentri chi { $BrandFullNameDA } veni nzitatu.
 mui-text-finish-title = Nzitamentu cumpletu
+mui-text-finish-subtitle = U nzitamentu riniscìu.
+mui-text-abort-title = Nzitamentu sfallutu
+mui-text-abort-subtitle = U nzitamentu sfallìu.
 mui-buttontext-finish = Cumpleta
     .accesskey = C
 mui-text-finish-info-title = Chiujuta di l’assistenti di nzitamentu di { $BrandFullNameDA }
