@@ -58,6 +58,43 @@ warn-manually-close-app-uninstall =
     על { $BrandShortName } להיסגר כדי להמשיך בהסרה.
     
     נא לסגור את { $BrandShortName } להמשך.
+warn-manually-close-app-refresh =
+    על { $BrandShortName } להיסגר כדי להמשיך בריענון.
+    
+    נא לסגור את { $BrandShortName } כדי להמשיך.
+warn-write-access =
+    אין ברשותך הרשאות כתיבה לתיקיית ההתקנה.
+    
+    לחץ על אישור כדי לבחור בתיקייה אחרת.
+warn-disk-space =
+    אין לך מספיק מקום פנוי כדי להתקין למיקום זה.
+    
+    לחץ על אישור כדי לבחור במיקום אחר.
+warn-min-supported-osver-msg = מצטערים, לא ניתן להתקין את { $BrandShortName }. גרסה זו של { $BrandShortName } דורשת { $MinSupportedVer } ומעלה. נא ללחוץ על כפתור האישור למידע נוסף.
+warn-min-supported-cpu-msg = מצטערים, לא ניתן להתקין את { $BrandShortName }. גרסה זו של { $BrandShortName } דורשת מעבד עם תמיכה ב־{ $MinSupportedCPU }. נא ללחוץ על כפתור האישור למידע נוסף.
+warn-min-supported-osver-cpu-msg = מצטערים, לא ניתן להתקין את { $BrandShortName }. גרסה זו של { $BrandShortName } דורשת { $MinSupportedVer } ומעלה ומעבד עם תמיכה ב־{ $MinSupportedCPU }. נא ללחוץ על כפתור האישור למידע נוסף.
+warn-restart-required-uninstall = נדרשת הפעלה מחדש למחשב כדי להשלים הסרת גרסה קודמת של { $BrandShortName }. האם ברצונך להפעיל מחדש כעת?
+warn-restart-required-upgrade = נדרשת הפעלה מחדש למחשב כדי להשלים שדרוג גרסה קודמת של { $BrandShortName }. האם ברצונך להפעיל מחדש כעת?
+error-create-directory-prefix = שגיאה ביצירת תיקייה:
+error-create-directory-suffix =
+    לחץ ביטול כדי לצאת מתוכנית ההתקנה או
+    נסה שוב כדי לנסות שוב.
+un-confirm-page-title = הסרת { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } יוסר מהמיקום הבא:
+un-refresh-page-title = האם לרענן את { $BrandShortName } במקום?
+un-refresh-page-explanation =
+    אם חווית בעיות עם { $BrandShortName }, ייתכן שריענון יוכל לעזור.
+    
+    פעולה זו תשחזר את ההגדרות ברירת המחדל ותסיר תוספות. זוהי התחלה חדשה לטובת ביצועים מיטביים.
+un-refresh-learn-more = מידע נוסף
+    .accesskey = מ
+un-refresh-button = ריענון { $BrandShortName }
+    .accesskey = ר
+banner-check-existing = בודק התקנה קיימת…
+status-install-app = מתקין את { $BrandShortName }...
+status-uninstall-main = מסיר את { $BrandShortName }...
+status-cleanup = ניקוי כללי...
+un-survey-checkbox-label = נא לספר ל־Mozilla מדוע הסרת את { $BrandShortName }
 # This string should fit in one line (approximately 65 characters).
 options-summary = בחירת סוג ההתקנה המועדפת, ואז ללחוץ על הבא.
 # This string should fit in one line (approximately 65 characters).
