@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Sobib
+dialog-button-cancel =
+    .label = Loobu
+dialog-button-disclosure =
+    .label = Rohkem infot
+    .accesskey = R
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
