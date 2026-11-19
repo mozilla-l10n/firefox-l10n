@@ -88,6 +88,23 @@ un-refresh-page-explanation =
     Hjirtroch wurde de standetdynstellingen weromset en add-ons fuortsmiten. Meitsje in farske start foar optimale prestaasjes.
 un-refresh-learn-more = Mear ynfo
     .accesskey = M
+un-refresh-button = { $BrandShortName } ferfarskje
+    .accesskey = f
+banner-check-existing = Besteande ynstallaasje kontrolearje…
+status-install-app = { $BrandShortName } ynstallearje…
+status-uninstall-main = { $BrandShortName } de-ynstallearje…
+status-cleanup = In bytsje hûshimmelje…
+un-survey-checkbox-label = Fertel Mozilla wêrom jo { $BrandShortName } deynstallearre hawwe
+# This string should fit in one line (approximately 65 characters).
+options-summary = Kies it type ynstallaasje dat jo wolle en klik dêrnei op Folgjende.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } sil ynstallearre wurde mei de meast gebrûklike opsjes.
+option-standard-radio = Standert
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Jo meie yndividuele opsjes kieze om te ynstallearjen. Oanrekommandearre foar betûfte brûkers.
+option-custom-radio = Oanpast
+    .accesskey = O
 # This text replaces the Install button text on the summary page.
 upgrade-button = Fernije
     .accesskey = F
