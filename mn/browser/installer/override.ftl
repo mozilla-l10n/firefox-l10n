@@ -20,3 +20,4 @@
 ##   $FilePath (String) - The path of the file that couldn’t be written.
 
 nsis-cancel-btn = Цуцал
+nsis-create-folder = Сан үүсгэ:{ " " }
