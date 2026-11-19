@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = 新增 { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = 進度：第 { $current } 步，共 { $total } 步
 # This button will open system settings to turn on prefers-reduced-motion
@@ -215,11 +209,6 @@ mr2022-onboarding-set-default-subtitle = 使用由非營利組織在背後開發
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = 最新版本是圍繞您打造的。讓您更簡單就可在網路中探索，希望您也會喜歡我們推出的滿滿功能。
 mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入資料
 
 ## MR2022 Multistage Mobile Download screen strings

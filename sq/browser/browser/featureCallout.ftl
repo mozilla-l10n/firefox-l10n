@@ -138,6 +138,12 @@ taskbar-tabs-value-prop-callout-subtitle = Hapeni në një dritare të vetën dh
 taskbar-tabs-chat-callout-title-v3 = Qëndroni i lidhur që nga shtylla juaj e punëve
 taskbar-tabs-email-callout-title-v3 = Mbajini të marrët tuaj te shtylla juaj e punëve
 taskbar-tabs-email-callout-subtitle-v3 = Hapni sajtet tuaj të email-eve si një aplikacion, në një dritare të hajthme, të mbrojtur nga { -brand-short-name }-i.
+taskbar-tabs-media-callout-title-v3 = Mbajeni transmetimin e videove te shtylla e punëve
+taskbar-tabs-media-callout-subtitle-v3 = Hapni sajtet tuaj të mediave si një aplikacion, në një dritare të hajthme, të mbrojtur nga { -brand-short-name }-i.
+taskbar-tabs-value-prop-callout-title-v3 = Fiksojini sajtet tuaj të parapëlqyer te shtylla juaj e punëve
+taskbar-tabs-value-prop-callout-subtitle-v3 = Hapni si një aplikacion çfarëdo sajti që përdorni, brenda një dritareje të thjeshtuar të mbrojtur nga { -brand-short-name }-i.
+taskbar-tabs-gaming-callout-title-v3 = Kthejuni lojës që nga shtylla juaj e punëve
+taskbar-tabs-gaming-callout-subtitle-v3 = Hapni si një aplikacion sajtet që përdorni për lojëra, brenda një dritareje të thjeshtuar të mbrojtur nga { -brand-short-name }-i.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Fiksoje te paneli
 

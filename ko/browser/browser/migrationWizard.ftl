@@ -263,7 +263,7 @@ migration-wizard-progress-success-passwords = 비밀번호 { $quantity }개
 # browser has completed.
 #
 # Variables:
-#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+#  $maxAgeInDays (Number): the number of days of history imported.
 migration-wizard-progress-success-history = 지난 { $maxAgeInDays }일부터
 migration-wizard-progress-success-formdata = 양식 기록
 # Shown in the migration wizard after importing payment methods from another

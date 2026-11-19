@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Ավելացնել { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Ընթացքը. քայլ { $current }՝ { $total }-ից
 # This button will open system settings to turn on prefers-reduced-motion
@@ -227,11 +221,6 @@ mr2022-onboarding-set-default-subtitle = Օգտագործեք ոչ առևտրա�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Մեր վերջին տարբերակը ստեղծվել է ձեր շուրջը՝ դարձնելով ավելի հեշտ, քան երբևէ՝ համացանցում համախմբվելու համար: Այն հագեցած է առանձնահատկություններով, որոնք մենք կարծում ենք, որ դուք կպաշտեք:
 mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայրկյանների ընթացքում
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ դիտարկիչից
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -571,9 +560,6 @@ onboarding-refresh-tab-layout-header = Փորձեք ներդիրի այլ դաս
 onboarding-refresh-tab-layout-top = Վերևում
 onboarding-refresh-tab-layout-side = Կողքում
 onboarding-refresh-tab-layout-minimal = Նվազագույն
-
-## Smart window switcher callout
-
 
 ## Smart Window ToU modal
 

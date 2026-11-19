@@ -7,6 +7,3 @@
 
 dialog-button-cancel =
     .label = Anular
-
-## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
-

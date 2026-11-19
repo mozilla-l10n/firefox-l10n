@@ -207,7 +207,7 @@ migration-wizard-progress-success-passwords = ລະຫັດຜ່ານ { $qua
 # browser has completed.
 #
 # Variables:
-#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+#  $maxAgeInDays (Number): the number of days of history imported.
 migration-wizard-progress-success-history = ຈາກ { $maxAgeInDays } ມື້ທີ່ຜ່ານມາ
 migration-wizard-progress-success-formdata = ແບບຟອມປະຫວັດການໃຊ້ງານ
 # Shown in the migration wizard after importing payment methods from another

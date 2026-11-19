@@ -12,6 +12,3 @@ dialog-button-cancel =
 dialog-button-disclosure =
     .label = དེ་ལས་མང་བའི་ཆ་འཕྲིན
     .accesskey = I
-
-## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
-

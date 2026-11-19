@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Tilføj { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Status: Skridt { $current } af { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -228,11 +222,6 @@ mr2022-onboarding-set-default-subtitle = Brug en browser, der er støttet af en 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Vores seneste version er bygget for at opfylde dine behov og gøre det nemmere at bevæge dig rundt på nettet. Den er fyldt med funktioner, vi tror du kommer til at elske.
 mr2022-onboarding-get-started-primary-button-label = Hurtig opsætning
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-primary-button-label-no-attribution = Importer fra tidligere browser
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -568,9 +557,6 @@ onboarding-minimal-tabs-tooltip =
 onboarding-minimal-tabs-description =
     .aria-description = Et browservindue, der viser faneblade som små ikoner langs siden af skærmen i et minimeret sidepanel.
 
-## Smart window switcher callout
-
-
 ## Smart Window ToU modal
 
 # Existing users
@@ -590,9 +576,6 @@ smartwindow-sidebar-auto-open-callout-dismiss = Nej tak
 
 onboarding-theme-picker-title = Vælg et tema
 onboarding-theme-picker-button-label = Gem og fortsæt
-
-## Carousel navigation
-
 
 ## Welcome Back Onboarding
 

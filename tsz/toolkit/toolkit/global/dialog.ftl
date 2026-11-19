@@ -9,6 +9,3 @@ dialog-button-accept =
     .label = Jo
 dialog-button-cancel =
     .label = Nompe ia
-
-## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
-
