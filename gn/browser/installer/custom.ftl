@@ -76,3 +76,35 @@ warn-min-supported-osver-cpu-msg = Rombyasy, { $BrandShortName } ndaikatúi emoh
 warn-restart-required-uninstall = Emoñepyrũjeyva’erã ne mohendaha emohu’ãkuaa hag̃ua { $BrandShortName } jepe’aite. Emoñepyrũsejeýpa ko’ág̃aite
 warn-restart-required-upgrade = Emoñepyrũjeyva’erã nemohendaha emohu’ã hag̃ua { $BrandShortName } ñemohenda ypyveguáva. Emoñepyrũsejeýpa ko’ág̃a
 error-create-directory-prefix = Emoheñóivo marandurenda’aty jejavy:
+error-create-directory-suffix =
+    Ejopy Heja emohenda hag̃ua térã
+    Ha’ãjey eha’ã jey hag̃ua.
+un-confirm-page-title = { $BrandFullName } jepe’aite
+un-confirm-uninstalled-from = { $BrandShortName } ojepe’aitéta ko’ã tendágui:
+un-refresh-page-title = ¿Embohekopyahu { $BrandShortName } renda?
+un-refresh-page-explanation =
+    Erekóramo apañuái { $BrandShortName } ndive, ñemyatyrõ ikatu nepytyvõ.
+    
+    Kóva omoĩporãta umi ñemboheko ijypykuéva ha omboguéta moĩmbaha. Eñepyrũjey oiko porãve hag̃ua.
+un-refresh-learn-more = Kuaave
+    .accesskey = K
+un-refresh-button = Mboguevi { $BrandShortName }
+    .accesskey = M
+banner-check-existing = Ehechamijey neñemohenda oĩmavavoi…
+status-install-app = { $BrandShortName } oñemohendahína…
+status-uninstall-main = Ojepe’aitehína { $BrandShortName }…
+status-cleanup = Óga ñemopotĩ…
+un-survey-checkbox-label = Eréke Mozilla-pe mba’ére eipe’aite { $BrandShortName }
+# This string should fit in one line (approximately 65 characters).
+options-summary = Eiporavo mba’eichagua ñemohendápa reipota ha ejopy Tenondegua.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } oñemohendáta ojejapo tapiaháicha.
+option-standard-radio = Heseguaite
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Eiporavokuaa mba’eichaguápa emohendáta. Kóva ha’ehína umi poruhára hi’arevévape g̃uarã.
+option-custom-radio = Ñemomba’epyre
+    .accesskey = C
+# This text replaces the Install button text on the summary page.
+upgrade-button = Mbohekopyahu
+    .accesskey = U
