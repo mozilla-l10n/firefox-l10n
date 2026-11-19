@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = MONEĨ
+dialog-button-cancel =
+    .label = Heja
+dialog-button-disclosure =
+    .label = Maranduve
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
