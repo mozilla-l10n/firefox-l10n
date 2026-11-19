@@ -147,6 +147,7 @@ policy-RelaunchRequired = Kërko doemos që { -brand-short-name }-i të riniset 
 policy-RequestedLocales = Caktoni për aplikacionin listën e gjuhëve të kërkuara, renditur sipas parapëlqimit.
 policy-SanitizeOnShutdown2 = Gjatë fikjes, spastro të dhëna lëvizjeje.
 policy-SearchBar = Caktoni vendin parazgjedhje për shtyllën e kërkimeve. Përdoruesit ende i lejohet ta përshtatë si të dojë.
+policy-SearchEngines2 = Formësoni rregullimet për motorë kërkimesh.
 policy-SearchEngines = Formësoni rregullime motori kërkimesh. Ky rregull tani është i përdorshëm vetëm në versionin Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Aktivizoni ose çaktivizoni sugjerime kërkimi.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
@@ -168,3 +169,5 @@ policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi k
 policy-Windows10SSO = Lejo hyrje njëshe Windows për llogari Microsoft, pune, apo shkolle.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Lejo hyrje njëshe për llogari Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Aktivizoni, ose çaktivizoni mbulim për API XSLTProcessor JavaScript dhe udhëzim përpunimi XSLT.

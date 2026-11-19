@@ -40,10 +40,14 @@ managed-notice-info-icon =
     .alt = Informacion
 managed-notice-nav =
     .label = Shfletuesi juaj administrohet nga enti juaj.
+tls-key-logging-notice-nav =
+    .label = Një aplikacion, ose shërbim mund të shohë trafikun tuaj të fshehtëzuar.
 category-list =
     .aria-label = Kategori
 pane-general-title = Të përgjithshme
 pane-home-title = Kreu
+pane-home-startup-title2 = Kreu dhe nisje
+    .title = Kreu dhe nisje
 pane-search-title2 = Kërkim
     .title = Kërkim
 pane-privacy-title3 = Privatësi & Siguri
@@ -53,8 +57,24 @@ pane-privacy-section =
 pane-sync-title3 = Sync
 pane-ai-controls-title2 = Kontrolle IA
     .title = Kontrolle IA
+pane-about-firefox-title = Mbi { -brand-short-name }-in
+    .title = { pane-about-firefox-title }
+pane-appearance-title = Dukje
+    .title = { pane-appearance-title }
+pane-downloads-title2 = Shkarkime
+    .title = Shkarkime
+pane-downloads3 =
+    .heading = Shkarkime
+pane-accessibility-title = Përdorim nga persona me aftësi të kufizuara
+    .title = { pane-accessibility-title }
+pane-languages-title2 = Gjuhë
+    .title = Gjuhë
+preferences-languages-header3 =
+    .heading = Gjuhë
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Jepuni një të provuar veçorive tona eksperimentale! Janë në zhvillim e sipër dhe evoluojnë, çka mund të ndikojë se si funksionon { -brand-short-name }-i. Marrim vetëm të dhëna rreth përdorimit tuaj të këtyre veçorive, nëse keni të aktivizuar <a data-l10n-name="data-collection">të dhëna teknike dhe ndërveprimesh</a>.
 pane-experimental-reset =
     .label = Rikthe Parazgjedhjet
@@ -138,6 +158,10 @@ windows-launch-on-login =
     .label = Hape { -brand-short-name }-in automatikisht, kur niset kompjuteri juaj
     .accesskey = H
 windows-launch-on-login-disabled = Ky parapëlqim është çaktivizuar në Windows. Për ta ndryshuar, vizitoni <a data-l10n-name="startup-link">Startup Apps</a> te rregullime Sistemi.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
+windows-launch-on-login-open-new-tab =
+    .label = Hap gjithashtu një skedë të re
+    .accesskey = r
 disable-extension =
     .label = Çaktivizoje Zgjerimin
 preferences-data-migration-group =
@@ -171,6 +195,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Përzgjidhni profil
 preferences-copy-profile-button = Kopjoje
+tabs-browsing-section =
+    .heading = Skeda dhe shfletim
+pane-tabs-browsing-title2 = Skeda dhe shfletim
+    .title = Skeda dhe shfletim
 tabs-group-header2 =
     .label = Skeda
 tabs-opening-heading =
@@ -203,9 +231,15 @@ ask-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Sinjalizo kur hapja e shumë skedave njëherësh do të mund të ngadalësonte { -brand-short-name }-in
     .accesskey = z
+switch-to-new-tabs-2 =
+    .label = Kur hapen lidhje, ose media në skeda të reja, kalo në to menjëherë
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Shfaq paraparje skedash te "Windows taskbar"
     .accesskey = a
+browser-containers-enabled-2 =
+    .label = Përdor Skeda Kontejneri
+    .accesskey = n
 browser-containers-learn-more = Mësoni më tepër
 browser-containers-settings-2 =
     .label = Administroni rregullime
@@ -640,12 +674,18 @@ performance-default-content-process-count =
     .label = { $num } (parazgjedhje)
 performance-group =
     .label = Punim
+performance-use-recommended-settings-checkbox-2 =
+    .description = Këto rregullime janë prodhuar për hardware-in dhe sistemin tuaj operativ.
+    .label = Përdor rregullime të rekomanduara funksionimi
+    .accesskey = P
 
 ## Accessibility page
 
 browsing-use-autoscroll =
     .label = Përdor vetërrëshqitje
     .accesskey = v
+keyboard-and-scrolling-group =
+    .label = Lëvizje dhe rrëshqitje me tastierë
 browsing-use-smooth-scrolling =
     .label = Përdor rrëshqitje të butë
     .accesskey = b
@@ -672,6 +712,15 @@ settings-keyboard-shortcuts-group =
     .label = Shkurtore tastiere
 settings-keyboard-shortcuts-customkeys-link =
     .label = Përshtatni shkurtore tastiere
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Përshtatni rregullime shtylle adresash te Kërkimi
+settings-media-group =
+    .label = Media
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Përdori “Picture-in-Picture”
+    .accesskey = e
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Vazhdo luajtje videosh nën mënyrën “Picture-in-Picture”, kur ndërrohen skeda
     .accesskey = V
@@ -897,6 +946,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Lëvizje në shtyllë adresash
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Anashkalo menu përfundimesh, kur përdoret tasti TAB për të zhvendosur fokusin
 search-suggestions-header-2 =
     .label = Sugjerime motorësh kërkimi
 search-one-click-header2 = Shkurtore Kërkimi

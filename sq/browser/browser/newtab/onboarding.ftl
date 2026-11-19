@@ -622,6 +622,11 @@ hnt-card-import-primary-button = Importoni të dhënat tuaja
 hnt-card-default-body = { -brand-product-name }-i është i vetmi shfletues i rëndësishëm i krijuar për t’ju mbrojtur, jo për t’ju gjurmuar.
 hnt-card-default-primary-button = Hapini lidhjet me { -brand-short-name }
 hnt-card-pin-header = Mbajeni { -brand-short-name } një klikim larg
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Kthehuni nën shfletim të mbrojtur që nga paneli juaj.
+       *[other] Kthehuni nën shfletim të mbrojtur që nga shtylla juaj e punëve.
+    }
 hnt-card-mobile-header = Merrni mbrojtje të brendshme në telefonin tuaj
 hnt-card-mobile-body = Shkarkoni { -brand-product-name }-in për celular, për privatësi shtesë gjatë lëvizjesh.
 hnt-card-mobile-primary-button2 = Merrni { -brand-product-name } për celular
@@ -629,6 +634,7 @@ hnt-card-mobile-primary-button = Merrni { -brand-product-name } për celular.
 hnt-card-wallpaper-header = Merrni një sfond të freskët
 hnt-card-wallpaper-body = Bëjeni këtë skenë të ndiheni si në shtëpi, me një sfond që e doni.
 hnt-card-wallpaper-primary-button = Filloni ta përshtatni
+hnt-card-taskbar-tabs-header = Shtojini sajtet tuaj të parapëlqyer te shtylla juaj e punëve në Windows
 hnt-card-taskbar-tabs-body = Hapni sajtet tuaj më të vizituar, si një aplikacion, me krejt mbrojtjen nga { -brand-product-name }-i.
 hnt-card-taskbar-tabs-primary-button = Shtoni sajte te shtyllë punësh
 hnt-card-extensions-header = Përforcojeni { -brand-short-name }-in me zgjerime

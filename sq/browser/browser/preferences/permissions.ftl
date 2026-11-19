@@ -176,6 +176,7 @@ permissions-site-xr-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pr
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Rregullime - Sajte të Bllokuar për Lidhje Aplikacionesh
+permissions-site-app-links-desc = Këtyre sajteve u është bllokuar të kërkojnë të hapin lidhje aplikacionesh, fjala vjen, email-esh (mailto:). Që të lejoni të pyetet për të, hiqeni një sajt.
 
 ## Site Permissions - Camera
 

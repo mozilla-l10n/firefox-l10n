@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = ניהול PIN
 about-webauthn-credential-management-section-title = ניהול אישורים
 about-webauthn-pin-required-section-title = נדרש PIN
 about-webauthn-confirm-deletion-section-title = אישור מחיקה
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = רישום
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = רישומים ביומטריים
 

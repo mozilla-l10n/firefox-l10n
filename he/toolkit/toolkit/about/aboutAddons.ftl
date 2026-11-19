@@ -265,6 +265,9 @@ colorway-removal-notice-button = קבלת ערכות צבעים מעודכנות
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = הגדרות הניגודיות שלך ב־Windows דורסות את ערכות הנושא של { -brand-short-name }. יש לכבות הגדרות אלו כדי להשתמש בערכות נושא ב־{ -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = ל־{ -smart-window-brand-name } יש ערכות נושא בהירות וכהות מובנות משלו, והן משתנות בהתאם להגדרות המערכת שלך.
 privacy-policy = מדיניות פרטיות
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

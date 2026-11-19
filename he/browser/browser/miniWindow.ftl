@@ -37,3 +37,12 @@ screenshots-component-mini-window-cancel-button = ביטול
 screenshots-component-reselect-button = התחלה מחדש
     .aria-label = התחלה מחדש
     .title = התחלה מחדש
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = חלק מהעמוד
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = עמוד מלא
+mini-window-panel-move-selection = הזזת הבחירה
