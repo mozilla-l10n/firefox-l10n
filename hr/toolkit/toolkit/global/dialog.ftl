@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = U redu
+dialog-button-cancel =
+    .label = Odustani
+dialog-button-disclosure =
+    .label = Više informacija
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
