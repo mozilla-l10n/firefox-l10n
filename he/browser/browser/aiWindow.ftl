@@ -341,3 +341,18 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = סגירת { $text }
     .title = סגירת { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    עובד לצידך כדי לסייע לך להספיק יותר.
+    תכנון, השוואה, חקירה ועוד.
+smartwindow-onboarding-title = בואו נהפוך אותו לשלך
+smartwindow-onboarding-subtitle = אפשר להגדיר את { -smart-window-brand-name } כרצונך, ולבצע שינויים אחר כך בכל עת בהגדרות.
+smartwindow-onboarding-model-label = בחירת מודל ה־AI שלך
+smartwindow-onboarding-model-description = המודל מפעיל צ’אטים ופעולות ב־{ -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = אוטומטי
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = מומלץ
+smartwindow-onboarding-model-auto-description = ‏{ -smart-window-brand-name } בוחר את המודל הטוב ביותר למשימה שלך
