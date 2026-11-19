@@ -36,6 +36,7 @@ mr1-return-to-amo-add-extension-label = { $addon-name } を追加
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -396,18 +397,12 @@ onboarding-checklist-remove-2 = チェックリストを削除
 
 tab-groups-onboarding-feature-callout-title = タブをグループ化して整理しましょう
 tab-groups-onboarding-feature-callout-subtitle = タブを別のタブの上にドラッグすると最初のグループが作成できます。
-# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = いつでも [タブの検索と管理] メニューからタブグループを見つけられます。
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = いつでも [タブを一覧表示] メニューからタブグループを見つけられます。
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = タブグループを閉じても、いつでも [タブの検索と管理] メニューから再び開けます。
 tab-groups-onboarding-create-group-no-alltabs-button-title = アドレスバーで検索するとグループを見つけられます。
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = タブグループを閉じても、[タブを一覧表示] メニューからいつでも再び開けます。
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = アドレスバーで検索すると閉じてしまったタブグループを見つけられます。
-# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = タブグループはいつでも [タブの検索と管理] メニューから再び開けます。
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = タブグループは [タブを一覧表示] メニューからいつでも再び開けます。
 tab-groups-onboarding-dismiss = OK
