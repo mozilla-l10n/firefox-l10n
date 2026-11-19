@@ -16,6 +16,7 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+reg-app-desc = { $BrandShortName } nuya' jikomal, man k'ayew ta yatok pa k'amaya'l chuqa' jeb'ël wachib'en ruwa, b'anon rutzil ri rujikomal, akuchi' nuya' chajinem richin man neleq'äx ta ri ab'i' akuchi ximon rukanoxik ronojel, re re' nuya' q'ij chawe richin naq'i' ri ronojel ri rutzil ajk'amaya'l.
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
 private-browsing-shortcut-title = { $BrandShortName } Ichinan Okem
