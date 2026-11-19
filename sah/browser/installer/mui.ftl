@@ -25,3 +25,29 @@ mui-text-welcome-info-text =
 mui-text-components-title = Туруорар програаммаҥ компоненнара
 mui-text-components-subtitle = Туруоруоххун баҕарар { $BrandFullNameDA } компоненнарын тал.
 mui-innertext-components-description-title = Сиһилии
+mui-text-startmenu-title = «Пуск» менюга паапката тал
+mui-text-startmenu-subtitle = «Пуск» менюга { $BrandFullNameDA } быһаларын угар папкатын тал.
+mui-innertext-startmenu-top = «Пуск» менюга бырагыраамма быһаларын угуоххун баҕарар паапкатын тал. Эбэтэр бэйэҥ саҥа паапка аатын суруйуоххун сөп.
+mui-text-abortwarning = { $BrandFullName } туруоруутун кырдьык тохтотуоххун баҕараҕын дуо?
+mui-untext-welcome-info-title = { $BrandFullNameDA } сотооччута үлэтин саҕалыыр
+mui-untext-welcome-info-text =
+    Бу програамма { $BrandFullNameDA }-у көмпүүтэргиттэн сотуо.
+    
+    Сотуоҥ иннинэ көр - { $BrandFullNameDA } ыытыллыбатах буолуохтаах.
+    
+    { $ClickInstructions }
+mui-untext-confirm-title = { $BrandFullNameDA } - сотуу
+mui-untext-confirm-subtitle = { $BrandFullNameDA }-у көмпүүтэртэн сотуу.
+mui-untext-uninstalling-title = Сотуу
+mui-untext-uninstalling-subtitle = Кэтэһэ түс, { $BrandFullNameDA } сотулла турар.
+mui-untext-finish-title = Сотуу ситиһиилээхтик түмүктэннэ
+mui-untext-finish-subtitle = Програамманы сотуу ситиһиилээхтик түмүктэннэ.
+mui-untext-abort-title = Сотуу тохтоото
+mui-untext-abort-subtitle = Барыта сотуллубата.
+mui-untext-finish-info-title = { $BrandFullNameDA }-у сотооччу үлэтин түмүктээтэ
+mui-untext-finish-info-text =
+    { $BrandFullNameDA } програамма көмпүүтэргиттэн сотулунна.
+    
+    Сотооччу програамматтан тахсарга «Бүттэ» диэни баттаа.
+mui-untext-finish-info-reboot = { $BrandFullNameDA }-у сотууну түмүктүүргэ көмпүүтэри хос ыытыллыахтаах. Билигин дуо?
+mui-untext-abortwarning = Кырдьык { $BrandFullName }-у сотууну тохтотоору гынаҕын дуо?
