@@ -69,3 +69,36 @@ nsis-file-error-no-ignore =
     
     Haga clic en Reintentar para tratar nuevamente o en
     Cancelar para detener la instalación.
+nsis-cant-write = No se puede escribir:{ " " }
+nsis-copy-failed = Fallo al copiar
+nsis-copy-to = Copiar a{ " " }
+nsis-registering = Registrando:{ " " }
+nsis-unregistering = Desregistrando:{ " " }
+nsis-symbol-not-found = No se encuentra el símbolo:{ " " }
+nsis-could-not-load = No se puede cargar:{ " " }
+nsis-create-folder = Crear carpeta:{ " " }
+nsis-create-shortcut = Crear acceso directo:{ " " }
+nsis-created-uninstaller = Desinstalador creado:{ " " }
+nsis-delete = Borrar archivo:{ " " }
+nsis-delete-on-reboot = Borrar al reiniciar:{ " " }
+nsis-error-creating-shortcut = Error creando acceso directo:{ " " }
+nsis-error-creating = Error creando:{ " " }
+nsis-error-decompressing = Error descomprimiendo datos. ¿Instalador corrupto?
+nsis-error-registering = Error registrando DLL
+nsis-exec-shell = ExecShell:{ " " }
+nsis-exec = Ejecutar:{ " " }
+nsis-extract = Extraer:{ " " }
+nsis-error-writing = Extraer: error escribiendo archivo{ " " }
+nsis-invalid-opcode = Instalador corrupto: invalid opcode
+nsis-no-ole = No OLE para:{ " " }
+nsis-output-folder = Carpeta de salida:{ " " }
+nsis-remove-folder = Eliminar carpeta:{ " " }
+nsis-rename-on-reboot = Renombrar al reiniciar:{ " " }
+nsis-rename = Renombrar:{ " " }
+nsis-skipped = Salteado:{ " " }
+nsis-copy-details = Copiar detalles al portapapeles
+nsis-log-install = Registrar proceso de instalación
+nsis-byte = B
+nsis-kilo = K
+nsis-mega = M
+nsis-giga = G
