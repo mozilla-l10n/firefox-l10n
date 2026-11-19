@@ -9,6 +9,9 @@ dialog-button-accept =
     .label = OK
 dialog-button-cancel =
     .label = Цуцал
+dialog-button-disclosure =
+    .label = Нэмэлт мэдээлэл
+    .accesskey = Н
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
