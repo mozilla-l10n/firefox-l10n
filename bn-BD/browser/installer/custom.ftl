@@ -16,6 +16,7 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+reg-app-desc = { $BrandShortName } নিরাপদ এবং স্বচ্ছন্দ ব্রাউজিং নিবেদন করে। পরিচিত ইন্টারফেস, পরিচয় জালিয়াতির বিরুদ্ধে  উন্নত নিরাপত্তা, এবং একটি পুর্নাঙ্গ অনুসন্ধান ব্যবস্থা আপনাকে ওয়েবের পূর্ণ অভিজ্ঞতা পেতে সাহায্য করবে।
 context-options = { $BrandShortName } অপশন
     .accesskey = O
 context-safe-mode = { $BrandShortName } নিরাপদ প্রক্রিয়া S
