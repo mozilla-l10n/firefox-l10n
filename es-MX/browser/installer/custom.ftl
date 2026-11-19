@@ -86,3 +86,25 @@ un-refresh-page-explanation =
     Si tienes problemas con { $BrandShortName }, actualizar puede ayudarte.
     
     Esto restaurará la configuración predeterminada y eliminará los complementos. Comienza de cero para un rendimiento óptimo.
+un-refresh-learn-more = Más información
+    .accesskey = M
+un-refresh-button = Actualizar { $BrandShortName }
+    .accesskey = A
+banner-check-existing = Verificando instalaciones existentes…
+status-install-app = Instalando { $BrandShortName }…
+status-uninstall-main = Desinstalando { $BrandShortName }…
+status-cleanup = Limpiando…
+un-survey-checkbox-label = Dile Mozilla por qué desinstalaste { $BrandShortName }
+# This string should fit in one line (approximately 65 characters).
+options-summary = Selecciona un tipo de instalación y haz clic en Siguiente.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } se instalará con las opciones más comunes.
+option-standard-radio = Estándar
+    .accesskey = E
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Puede elegir las opciones a instalar en forma individual. Recomendado para usuarios con experiencia.
+option-custom-radio = Personalizada
+    .accesskey = P
+# This text replaces the Install button text on the summary page.
+upgrade-button = Actualizar
+    .accesskey = A
