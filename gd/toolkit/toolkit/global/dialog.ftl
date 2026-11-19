@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Ceart ma-thà
+dialog-button-cancel =
+    .label = Sguir dheth
+dialog-button-disclosure =
+    .label = Barrachd fiosrachaidh
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
