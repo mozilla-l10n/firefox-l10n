@@ -75,6 +75,12 @@ about-webauthn-add-bio-enrollment-button = Shtoni dhënie elementësh
 about-webauthn-cancel-button = Anuloje
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Fshije
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Nise
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Ndale
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Spastroje
 about-webauthn-start-enrollment-button = Nis dhënie elementësh
 about-webauthn-update-button = Përditësoje
 

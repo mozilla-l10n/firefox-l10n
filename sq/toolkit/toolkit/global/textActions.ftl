@@ -87,3 +87,6 @@ text-action-comment-selection-1 =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
     .label = Hiqe Theksimin
+profile-window-menu-edit =
+    .label = Përpunoni
+    .accesskey = P

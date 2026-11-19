@@ -34,6 +34,11 @@ tabbrowser-close-tabs-button =
         }
 tab-splitview-splitter =
     .aria-label = Ripërmasoni skeda pamjeje të ndarë
+# Used for the "Add to Group" submenu when opened on a split view.
+# The split view's two tabs are added to the group together.
+tab-context-add-split-view-to-group =
+    .label = Shtoni Skeda në Grup
+    .accesskey = t
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -241,6 +246,9 @@ tab-group-editor-color-selector2-gray = Gri
     .title = Gri
 tab-group-editor-color-selector2-red = E kuqe
     .title = E kuqe
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — I mbyllur
 tab-group-description = { $tabGroupName } — Grup Skedash
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Të palosura
 tab-group-label-tooltip-expanded = { $tabGroupName } — Të shpalosura
@@ -271,6 +279,13 @@ tab-context-move-tab-to-new-group =
         { $tabCount ->
             [1] Shtoje Skedën te Grup i Ri
            *[other] Shtoji Skedat te Grup i Ri
+        }
+    .accesskey = G
+tab-context-add-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Shtoje te Grupi
+           *[other] Shtoni te Grupi { $tabCount } Skeda
         }
     .accesskey = G
 tab-context-move-tab-to-group =

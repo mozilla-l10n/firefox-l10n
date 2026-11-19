@@ -51,6 +51,26 @@ fxa-menu-sync-description = Përdoreni web-in nga kudo
 # Subtitle shown under the account email on the signed-in account button in the
 # account menu, indicating that activating it opens account management.
 fxa-menu-manage-account-subtitle = Administroni Llogari
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Për njëkohësim, bëni hyrjen
+fxa-menu-sign-in-promo-message = Merrini të dhënat tuaja ngado
+fxa-menu-sign-in-promo-button =
+    .label = Hyni
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Hyni
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Keni dalë
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Përfundo ujdisjen
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Për njëkohësim, bëni hyrjen
+fxa-menu-signed-out-description = Keni dalë
 fxa-avatar-sign-in = Hyni
 fxa-avatar-sign-up = Regjistrohuni
 fxa-avatar-tooltip =
@@ -63,6 +83,10 @@ sync-setup-verify-heading = Jeni i sigurt se doni të hyhet në llogari, që të
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Nga ky kompjuter pat hyrë në Sync një përdorues tjetër. Hyrja tani do të përziejë faqerojtësit fjalëkalimet dhe të tjera rregullime të këtij shfletuesi me { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Që të dërgoni skeda, bëni hyrjen
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
