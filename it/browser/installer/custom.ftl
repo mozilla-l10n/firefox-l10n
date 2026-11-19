@@ -17,6 +17,7 @@
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
 reg-app-desc = Con { $BrandShortName } è possibile navigare in modo sicuro e semplice. Un’interfaccia familiare, un insieme avanzato di funzioni per la sicurezza che include la protezione contro il phishing e un sistema di ricerca integrato permettono di ottenere il massimo dal web.
+brief-app-desc = Navigazione veloce e riservata
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
 private-browsing-shortcut-title = { $BrandShortName } – Navigazione anonima
