@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = Το VPN συνδέεται…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Απενεργοποίηση
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = Απεριόριστη χρήση δεδομένων μέχρι τις { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Απεριόριστη χρήση δεδομένων
+
 ## Location controls
 
 # The button displays the selected VPN location.
