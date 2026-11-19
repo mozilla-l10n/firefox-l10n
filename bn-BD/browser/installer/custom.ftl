@@ -53,6 +53,21 @@ warn-disk-space =
     এই জায়গায় ইনস্টল করার জন্য যথেষ্ট পরিমান খালি জায়গা নেই।
     
     অন্য একটি জায়গা নির্বাচন করার জন্য 'ঠিক আছে' ক্লিক করুন।
+warn-min-supported-osver-msg = দুঃখিত, { $BrandShortName } ইনস্টল করা যাবে না। { $BrandShortName } এর এই সংষ্করণটির { $MinSupportedVer } বা আরও নতুন প্রয়োজন। বিস্তারিত জানতে OK বোতাম ক্লিক করুন।
+warn-min-supported-cpu-msg = দুঃখিত, { $BrandShortName } ইনস্টল করা যাবে না। { $BrandShortName } এর এই সংষ্করণটির { $MinSupportedCPU } যুক্ত প্রসেসর প্রয়োজন। বিস্তারিত জানতে OK বোতাম ক্লিক করুন।
+warn-min-supported-osver-cpu-msg = দুঃখিত, { $BrandShortName } ইনস্টল করা যাবে না। { $BrandShortName } এর এই সংষ্করণটির { $MinSupportedVer } বা আরও নতুন এবং { $MinSupportedCPU } সমর্থিত প্রসেসর প্রয়োজন। বিস্তারিত জানতে OK বোতাম ক্লিক করুন।
+warn-restart-required-uninstall = { $BrandShortName } এর একটি পুরাতন আনইনস্টলেশন সম্পন্ন করতে আপনার কম্পিউটার পুনরায় চালু করা প্রয়োজন। আপনি কি এখন পুনরায় চালু করতে চান?
+warn-restart-required-upgrade = { $BrandShortName } এর একটি পুরাতন আপগ্রেড সম্পন্ন করতে আপনার কম্পিউটার পুনরায় চালু করা প্রয়োজন। আপনি কি এখন পুনরায় চালু করতে চান?
+error-create-directory-prefix = ডিরেক্টরি তৈরি করতে সমস্যা:
+error-create-directory-suffix =
+    ইনস্টলেশন বন্ধ করতে 'বাতিল' ক্লিক করুন বা
+    আবার চেষ্টা করার জন্য "আবার চেষ্টা" ক্লিক করুন।
+un-confirm-page-title = { $BrandFullName } আনইনস্টলেশন
+un-confirm-uninstalled-from = নিম্নলিখিত জায়গা থেকে { $BrandShortName } আনইনস্টল করা হবে:
+banner-check-existing = বিদ্যমান ইনস্টলেশন পরীক্ষা করা হচ্ছে…
+status-install-app = { $BrandShortName } ইনস্টল করা হচ্ছে…
+status-uninstall-main = { $BrandShortName } আনইনস্টল করা হচ্ছে…
+status-cleanup = টুকিটাকি কিছু কাজ…
 # This text replaces the Install button text on the summary page.
 upgrade-button = আপগ্রেড
     .accesskey = U

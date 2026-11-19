@@ -29,3 +29,48 @@ nsis-accept-btn = আমি লাইসেন্স চুক্তির শ�
     .accesskey = a
 nsis-dont-accept-btn = আমি লাইসেন্স চুক্তির শর্তাবলীতে সম্মত নই
     .accesskey = d
+nsis-install-btn = ইনস্টল
+    .accesskey = I
+nsis-uninstall-btn = আনইনস্টল
+    .accesskey = U
+nsis-cancel-btn = বাতিল
+nsis-close-btn = বন্ধ
+    .accesskey = C
+nsis-browse-btn = ব্রাউজ...
+    .accesskey = r
+nsis-show-details-btn = বিস্তারিত
+    .accesskey = d
+nsis-click-next = এগিয়ে যেতে পরবর্তী ক্লিক করুন।
+nsis-click-install = ইনস্টলেশন শুরু করতে ইনস্টল ক্লিক করুন।
+nsis-click-uninstall = আনইনস্টলেশন শুরু করতে আনইনস্টল ক্লিক করুন।
+nsis-completed = সম্পন্ন
+nsis-license-text-rb = { $BrandFullNameDA } ইনস্টল করার পূর্বে অনুগ্রহ করে লাইসেন্স চুক্তিটি পড়ে নিন। যদি আপনি চুক্তির সব শর্তে সম্মত থাকেন তাহলে নিম্নের প্রথম অপশনটি নির্বাচন করুন। { $ClickInstructions }
+nsis-components-text = আপনি যেসব কম্পোনেন্ট ইনস্টল করতে চান সেগুলোতে টিক দিন এবং যেগুলো ইনস্টল করতে চান না সেগুলো থেকে টিক উঠিয়ে দিন। { $ClickInstructions }
+nsis-components-sub-text2-no-inst-types = ইনস্টল করার জন্য কম্পোনেন্ট নির্বাচন:
+nsis-dir-text = নিম্নের ফোল্ডারে { $BrandFullNameDA } ইনস্টল করা হবে। অন্য ফোল্ডারে ইনস্টল করার জন্য, ব্রাউজ ক্লিক করুন এবং আরেকটি ফোল্ডার নির্বাচন করুন। { $ClickInstructions }
+nsis-dir-sub-text = গন্তব্য ফোল্ডার
+nsis-dir-browse-text = { $BrandFullNameDA } ইনস্টল করার জন্য ফোল্ডার নির্বাচন করুন:
+nsis-space-available = ফাঁকা আছে:{ " " }
+nsis-space-required = প্রয়োজন:{ " " }
+nsis-uninstalling-text = { $BrandFullNameDA } নিম্নের ফোল্ডার থেকে আনইনস্টল হবে। { $ClickInstructions }
+nsis-uninstalling-sub-text = যেখান থেকে আনইনস্টল করা হচ্ছে:
+nsis-file-error =
+    লেখার জন্য ফাইল খুলতে সমস্যা হয়েছে:
+    
+    { $FilePath }
+    
+    ইনস্টলেশন স্থগিত করতে 'স্থগিত' ক্লিক করুন।
+    আবার চেষ্টার করতে 'পুনরায় চেষ্টা', বা'
+    এড়িয়ে যেতে 'অগ্রাহ্য' ক্লিক করুন।
+nsis-file-error-no-ignore =
+    লেখার জন্য ফাইল খুলতে সমস্যা:
+    
+    { $FilePath }
+    
+    আবার চেষ্টার করতে 'পুনরায় চেষ্টা', বা'
+    ইনস্টলেশন স্থগিত করতে 'বাতিল' ক্লিক করুন।
+nsis-cant-write = লেখা যায়নি:{ " " }
+nsis-copy-failed = অনুলিপি করতে ব্যর্থ
+nsis-copy-to = এখানে অনুলিপি করা হবে{ " " }
+nsis-registering = রেজিস্টার করা হচ্ছে:{ " " }
+nsis-unregistering = আনরেজিস্টার করা হচ্ছে:{ " " }
