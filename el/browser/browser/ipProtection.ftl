@@ -211,6 +211,15 @@ ipprotection-locations-subview-promo =
     .heading = Περαιτέρω προστασία με το { -mozilla-vpn-brand-name }
     .message = Επιλέξτε ανάμεσα σε 300+ τοποθεσίες και προστατέψτε όλες τις εφαρμογές σας σε έως και 5 συσκευές.
 ipprotection-locations-subview-promo-button = Απόκτηση του { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Περισσότερες τοποθεσίες. Περισσότερη προστασία.
+    .message =
+        { $count ->
+            [one] Ορίστε το { -brand-short-name } ως προεπιλογή και λάβετε { $count } ακόμη τοποθεσία. Οι σύνδεσμοί σας ανοίγουν εδώ, όπου το VPN είναι ενσωματωμένο.
+           *[other] Ορίστε το { -brand-short-name } ως προεπιλογή και λάβετε { $count } ακόμη τοποθεσίες. Οι σύνδεσμοί σας ανοίγουν εδώ, όπου το VPN είναι ενσωματωμένο.
+        }
 ipprotection-locations-subview-set-default-promo-button = Άνοιγμα συνδέσμων με το { -brand-short-name }
 
 ## VPN paused state

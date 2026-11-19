@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Μετάβαση στην καρτέλα 8
 customkeys-nav-select-last-tab = Μετάβαση στην τελευταία καρτέλα
 customkeys-nav-toggle-mute = Σίγαση/Άρση σίγασης ήχου
 customkeys-edit-find-previous = Εύρεση προηγουμένου
+customkeys-edit-find-selection = Χρήση επιλογής για εύρεση
 customkeys-tools-screenshot = Λήψη στιγμιότυπου
 customkeys-category-navigation-2 =
     .heading = Πλοήγηση

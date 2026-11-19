@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Κουκκίδα
 user-context-icon-fence =
     .label = Περίφραξη
+user-context-icon-robot =
+    .label = Ρομπότ

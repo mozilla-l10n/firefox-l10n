@@ -128,7 +128,7 @@ autofill-card-billing-address-2 =
 #     network isn't known yet)
 autofill-card-security-code-optional-2 =
     .label = { $securityCode } (προαιρετικά)
-autofill-card-name-on-card = Όνομα στην κάρτα
+autofill-card-name-on-card = Όνομα κατόχου κάρτας
 autofill-card-expires-month = Μήνας λήξης
 autofill-card-expires-year = Έτος λήξης
 autofill-card-billing-address = Διεύθυνση χρέωσης
