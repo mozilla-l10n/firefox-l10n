@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Gerai
+dialog-button-cancel =
+    .label = Atsisakyti
+dialog-button-disclosure =
+    .label = Daugiau informacijos
+    .accesskey = i
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
