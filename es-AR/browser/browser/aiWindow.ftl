@@ -121,10 +121,24 @@ aiwindow-input-model-select-button-label-fast = Rápido
 aiwindow-input-model-select-button-label-allpurpose = Flexible
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Personalizado
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automático
 aiwindow-input-model-select-default-badge =
     .label = Predeterminado
     .title = El modelo predeterminado seleccionado
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Recomendado
+    .title = El modelo recomendado
 aiwindow-input-model-select-settings-link = Configuración del modelo
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } elige el mejor modelo para la tarea
+aiwindow-input-model-select-flexible-description = Listo para una variedad de tareas
+aiwindow-input-model-select-personal-description = Bueno si se chatea y se navega en varios idiomas
 
 ## Firstrun memories onboarding
 
