@@ -16,7 +16,7 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
-reg-app-desc = { $BrandShortName } permitte un navigation secur e facile. Un interfacie del usator familiar, un recerca integrate e alcun functionalitates de securitate avantiate como le protection contra le usurpation de identitate in linea, permittente que tu obtene le melio del Web.
+reg-app-desc = { $BrandShortName } permitte un navigation secur e facile. Un interfacie de usator familiar, un recerca integrate e alcun functionalitates de securitate avantiate como le protection contra le usurpation de identitate in linea, permittente que tu obtene le melio del Web.
 brief-app-desc = Le navigation del web veloce e private
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
@@ -37,8 +37,8 @@ maintenance-service-checkbox-desc = Installar le servicio de mantenimento
 summary-page-title = Summario
 summary-page-subtitle = Preste pro installar { $BrandShortName }
 summary-installed-to = { $BrandShortName } sera installate in le position sequente:
-summary-reboot-required-install = Pote ser necessari reinitiar tu computator pro clauder le installation.
-summary-reboot-required-uninstall = Pote ser necessari reinitiar tu computator pro clauder le disinstallation.
+summary-reboot-required-install = Pote esser necessari reinitialisar tu computator pro clauder le installation.
+summary-reboot-required-uninstall = Pote esser necessari reinitisisar tu computator pro completar le disinstallation.
 summary-install-click = Clicca sur Installar pro continuar.
 summary-upgrade-click = Clicca sur Actualisar pro continuar.
 launch-text = Lancear { $BrandShortName } ora
