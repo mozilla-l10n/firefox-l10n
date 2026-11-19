@@ -16,6 +16,12 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+brief-app-desc = Быстрый и приватный сёрфинг
+# The non-variable portion of this MUST match the translation of
+# "private-browsing-shortcut-text-2" in browser.ftl
+private-browsing-shortcut-title = Приватный просмотр { $BrandShortName }
+context-options = { $BrandShortName } Настройки
+    .accesskey = Н
 # This string should fit in one line (approximately 65 characters).
 options-summary = Выберите тип установки, которую хотите произвести, и нажмите «Далее».
 # This string should fit in one line (approximately 65 characters).
