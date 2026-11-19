@@ -42,3 +42,46 @@ launch-text = { $BrandShortName }-у билигин ыыт
 create-icons-desc = { $BrandShortName } дьаралыктарын оҥоруу:
 icons-desktop = Кэтэҕэриин эркиҥҥэ
     .accesskey = э
+icons-startmenu = Пуск менюга
+    .accesskey = м
+warn-manually-close-app-install =
+    Туруорууну салгыырга { $BrandShortName } сабыллыбыт буолуохтаах.
+    
+    Бука диэн маны - { $BrandShortName } - сабан кэбис.
+warn-manually-close-app-uninstall =
+    Салгыырга { $BrandShortName } сабыллыбыт буолуохтаах.
+    
+    Бука диэн маны - { $BrandShortName } - сабан кэбис.
+warn-write-access =
+    Бу паапкаҕа олордор көҥүлүҥ суох эбит.
+    
+    Атын паапканы таларга СӨП диэни баттаа.
+warn-disk-space =
+    Бу паапкаҕа туруорар сирэ тиийбэт эбит.
+    
+    Атын паапканы таларга СӨП диэни баттаа.
+warn-restart-required-uninstall = { $BrandShortName } програамманы бүтэһиктээхтик суох гынарга көмпүүтэргин хат ыытыахтаах эбиккин. Билигин инньэ гынаҕын дуо?
+warn-restart-required-upgrade = { $BrandShortName } програамма саҥардыытын түмүктүүргэ көмпүүтэргин хат ыытыахтаах эбиккин. Билигин инньэ гынаҕын дуо?
+error-create-directory-prefix = Паапка оҥорорго алҕас таҕыста:
+error-create-directory-suffix =
+    Туруорууну тохтоторго «Салҕаама» диэни баттаа эбэтэр
+    «Хатылаа» диэни баттаан өссө тургут.
+un-confirm-page-title = Маны суох гыныы - { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } бу паапкаттан сотуллуо:
+banner-check-existing = Баар туруорууну тургутуу...
+status-install-app = { $BrandShortName } - туруоруу…
+status-uninstall-main = { $BrandShortName } - сотуу…
+status-cleanup = Кыратык дьиэбитин хомуйабыт...
+# This string should fit in one line (approximately 65 characters).
+options-summary = Туруоруу көрүҥүн талан баран «Салгыы» диэни баттаа.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } сүрүн барыла туруоруллуо.
+option-standard-radio = Сүрүн
+    .accesskey = С
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Тугу туруораргын бэйэҥ талыаххын сөп. Быһаарсар дьоҥҥо аналлаах.
+option-custom-radio = Талыы
+    .accesskey = Т
+# This text replaces the Install button text on the summary page.
+upgrade-button = Саҥардыы
+    .accesskey = С

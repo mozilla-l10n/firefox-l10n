@@ -25,6 +25,25 @@ mui-text-welcome-info-text =
 mui-text-components-title = Туруорар програаммаҥ компоненнара
 mui-text-components-subtitle = Туруоруоххун баҕарар { $BrandFullNameDA } компоненнарын тал.
 mui-innertext-components-description-title = Сиһилии
+mui-innertext-components-description-info = Компонент аатыгар курсуоргун илтэххинэ кини туһунан сиһилии сурук тахсыа.
+mui-text-directory-title = Олордор сири талыы
+mui-text-directory-subtitle = { $BrandFullNameDA } олордуллар сирин тал.
+mui-text-installing-title = Туруоруу
+mui-text-installing-subtitle = Кэтэһэ түс, { $BrandFullNameDA } туруоруллар.
+mui-text-finish-title = Туруоруу түмүктэннэ
+mui-text-finish-subtitle = Туруоруу ситиһиилээхтик түмүктэннэ.
+mui-text-abort-title = Туруоруу тохтотулунна
+mui-text-abort-subtitle = Туруоруу түмүктэммэтэ.
+mui-buttontext-finish = Бүттэ
+    .accesskey = Б
+mui-text-finish-info-title = { $BrandFullNameDA } таҥааччыта үлэтин түмүктээтэ
+mui-text-finish-info-text =
+    { $BrandFullNameDA } туруорулунна.
+    
+    «Бэлэм» диэни баттаан таҥааччыттан таҕыс.
+mui-text-finish-info-reboot = { $BrandFullNameDA } туруоруутун бүтэһиктээхтик түмүктүүргэ көмпүүтэр хос ыытыллыахтаах. Билигин инньэ гынаҕын дуо?
+mui-text-finish-rebootnow = Билигин хос ыыт
+mui-text-finish-rebootlater = Суох, кэлин хос ыытыам
 mui-text-startmenu-title = «Пуск» менюга паапката тал
 mui-text-startmenu-subtitle = «Пуск» менюга { $BrandFullNameDA } быһаларын угар папкатын тал.
 mui-innertext-startmenu-top = «Пуск» менюга бырагыраамма быһаларын угуоххун баҕарар паапкатын тал. Эбэтэр бэйэҥ саҥа паапка аатын суруйуоххун сөп.
