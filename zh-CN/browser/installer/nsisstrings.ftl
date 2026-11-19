@@ -30,6 +30,7 @@ stub-blurb-second-devedition = 功能强大且保护隐私，专为开发者打�
 stub-blurb-third-devedition = 感谢您加入 { $BrandShortName } 社区
 warn-min-supported-osver-msg2 = { $BrandShortName } 似乎无法安装。此版本的 { $BrandShortName } 需要 { $MinSupportedVer } 或更新版本。请点击［确定］按钮获取更多信息。
 warn-min-supported-cpu-msg2 = { $BrandShortName } 似乎无法安装。此版本的 { $BrandShortName } 需要支持 { $MinSupportedCPU } 的处理器。请点击［确定］按钮获取更多信息。
+warn-min-supported-osver-cpu-msg2 = { $BrandShortName } 似乎无法安装。此版本的 { $BrandShortName } 需要 { $MinSupportedVer } 或更新版本及 { $MinSupportedCPU } 处理器的支持。请点击［确定］按钮获得更多信息。
 warn-write-access-quit = 您似乎没有在该文件位置安装应用的权限。
 warn-disk-space-quit = 设备存储空间似乎不足，无法安装 { $BrandShortName }。
 error-download-cont = { $BrandShortName } 似乎无法安装，选择［确定］以重新开始。
