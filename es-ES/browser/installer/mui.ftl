@@ -29,6 +29,22 @@ mui-innertext-components-description-info = Sitúe el puntero del ratón sobre u
 mui-text-directory-title = Escoja ubicación de la instalación
 mui-text-directory-subtitle = Elija la carpeta en la que quiere instalar { $BrandFullNameDA }.
 mui-text-installing-title = Instalando
+mui-text-finish-title = Instalación completada
+mui-text-finish-subtitle = La instalación se ha completado correctamente.
+mui-text-abort-title = Instalación abortada
+mui-text-abort-subtitle = La instalación no se ha completado correctamente.
+mui-buttontext-finish = Finalizar
+    .accesskey = F
+mui-text-finish-info-title = Completando el asistente de instalación de { $BrandFullNameDA }
+mui-text-finish-info-text =
+    { $BrandFullNameDA } se ha instalado en su equipo.
+    
+    Pulse Finalizar para cerrar este asistente.
+mui-text-finish-info-reboot = Su equipo debe ser reiniciado para completar la instalación de { $BrandFullNameDA }. ¿Desea reiniciar ahora?
+mui-text-finish-rebootnow = Reiniciar ahora
+mui-text-finish-rebootlater = Deseo reiniciar manualmente más tarde
+mui-text-startmenu-title = Escoja carpeta del menú Inicio
+mui-text-startmenu-subtitle = Escoja una carpeta del menú Inicio para los accesos de directos de { $BrandFullNameDA }.
 mui-innertext-startmenu-top = Seleccione la carpeta del menú Inicio en la que le gustaría crear los accesos directos del programa. También puede introducir un nombre para crear una carpeta nueva.
 mui-untext-confirm-subtitle = Eliminar { $BrandFullNameDA } de su equipo.
 mui-untext-uninstalling-title = Desinstalando
