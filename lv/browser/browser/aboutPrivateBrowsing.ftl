@@ -81,7 +81,7 @@ about-private-browsing-private-window-redesign-subheader = { -brand-short-name }
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Jūs neesat reģistrējis saziņu.
-about-private-browsing-nova-info-subheader2 = Kad aizvērsiet visas savas privātās Windows, mēs izdzēsīsim katru meklēšanu un pierakstīšanos. Šeit ir ieslēgtas arī { -brand-short-name } iebūvētās aizsardzības funkcijas, piemēram, izsekotāju bloķēšana.
+about-private-browsing-nova-info-subheader2 = Mēs izdzēsīsim visus meklējumus un pieteikšanās, kad aizvērsi privātos logus. { -brand-short-name } iebūvētā aizsardzība, piemēram, izsekotāju aizturēšana, arī ir šeit.
 
 ## Strings for the Private Window basics spotlight
 

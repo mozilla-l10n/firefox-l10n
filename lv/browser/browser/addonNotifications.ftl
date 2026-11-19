@@ -44,7 +44,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-installation-blocked-by-policy = Jūsu organizācija ir bloķējusi { $addonName } ({ $addonId }).
+addon-installation-blocked-by-policy = Apvienība liedza { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = Jūsu organizācija neļāva šai vietnei lūgt instalēt programmatūru šajā datorā.
 addon-install-full-screen-blocked = Papildinājumu uzstādīšana nav ļauta, kamēr vai pirms tiek izmantots pilnekrāna skats.
