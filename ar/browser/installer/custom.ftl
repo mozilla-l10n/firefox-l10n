@@ -16,6 +16,13 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+# The non-variable portion of this MUST match the translation of
+# "private-browsing-shortcut-text-2" in browser.ftl
+private-browsing-shortcut-title = { $BrandShortName } التصفح الخاص
+context-options = خيارات { $BrandShortName }
+    .accesskey = خ
+context-safe-mode = وضع { $BrandShortName } الآمن
+    .accesskey = م
 # This text replaces the Install button text on the summary page.
 upgrade-button = ترقية
     .accesskey = ت
