@@ -15,6 +15,8 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+installer-win-caption = { $BrandShortName } ইন্সটলার
+stub-installing-label = এখন ইন্সটল হচ্ছে…
 stub-cancel-prompt-heading = আপনি কি { $BrandShortName } ইনস্টল করতে চান?
 stub-cancel-prompt-message = বাতিল করলে, { $BrandShortName } ইনস্টল হবে না।
 stub-cancel-prompt-button-continue = { $BrandShortName } ইনস্টল করুন

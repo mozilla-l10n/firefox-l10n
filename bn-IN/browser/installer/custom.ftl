@@ -75,6 +75,17 @@ banner-check-existing = উপস্থিত ইনস্টলেশন পর
 status-install-app = { $BrandShortName } ইনস্টল করা হচ্ছে…
 status-uninstall-main = { $BrandShortName } আন-ইনস্টল করা হচ্ছে…
 status-cleanup = পরিশ্রুত করা হচ্ছে…
+un-survey-checkbox-label = আপনি { $BrandShortName } আনইনস্টল কেন করলেন Mozillaকে বলুন
+# This string should fit in one line (approximately 65 characters).
+options-summary = পছন্দসই প্রস্তুতি নির্বাচন করে পরবর্তী টিপুন।
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = সবচেয়ে সাধারণ বিকল্পগুলির  সহযোগে { $BrandShortName } ইনস্টল করা হবে।
+option-standard-radio = প্রমিত মান
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = ইনস্টল করার জন্য পৃথক বিকল্প নির্বাচন করেতে পারেন। অভিজ্ঞ ব্যবহারকারীদের জন্য প্রস্তাবিত।
+option-custom-radio = স্বনির্ধারিত
+    .accesskey = C
 # This text replaces the Install button text on the summary page.
 upgrade-button = আপগ্রেড
     .accesskey = U
