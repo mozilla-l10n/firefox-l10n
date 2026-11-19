@@ -17,6 +17,10 @@
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
 reg-app-desc = { $BrandShortName } dôwô bezpieczné i letczé w ùzëcym przezéranié sécë. Przëczëwalny jinterfejs brëkòwnika, ùlepszoné fùnkcje bezpiekù chroniące przed kradzenim tożsamòscë w sécë i zjintegrowónyma szëkôczama, chtërne Cë pòmògą wëdostac wicy z WWW.
+context-options = { $BrandShortName } Òptacje
+    .accesskey = Ò
+context-safe-mode = { $BrandShortName } Awariowi Trib
+    .accesskey = A
 options-page-title = Ôrt instalacje
 options-page-subtitle = Wëbierzë nastawë
 shortcuts-page-title = Ùsôdzanié skrodzënów
