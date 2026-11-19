@@ -652,6 +652,9 @@ support-share-ideas =
 
 ## Firefox newsletter
 
+newsletter-settings-heading =
+    .description = Λάβετε οδηγίες χρήσης, συμβουλές και ειδήσεις για να έχετε την καλύτερη δυνατή εμπειρία με το { -brand-product-name }.
+    .label = Ενημερωτικό δελτίο του { -brand-product-name }
 newsletter-sign-up-link =
     .label = Εγγραφή
 

@@ -143,7 +143,7 @@ home-prefs-weather-header-srd =
     .label = Laikapstākļi
 home-prefs-support-firefox-header-srd =
     .label = Atbalstīt { -brand-product-name }
-home-prefs-mission-message-learn-more-link-srd = Uzziniet, kā
+home-prefs-mission-message-learn-more-link-srd = Uzzini, kā
 
 ## Strings for the Privacy widget
 
@@ -319,7 +319,7 @@ newtab-privacy-message-streak =
 newtab-privacy-message-streak-cta = Skatīt aizsardzības iestatījumus
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Turpini pārlūkot, { -brand-short-name } turpinās liegt!
-newtab-privacy-message-first-protection-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-first-protection-cta = Apskatīt aizsardzību
 
 ## Strings for the Finance widget
 
