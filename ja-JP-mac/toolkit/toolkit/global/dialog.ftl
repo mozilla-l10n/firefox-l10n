@@ -9,6 +9,9 @@ dialog-button-accept =
     .label = OK
 dialog-button-cancel =
     .label = キャンセル
+dialog-button-disclosure =
+    .label = 詳細情報
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
