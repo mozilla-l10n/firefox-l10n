@@ -120,10 +120,25 @@ aiwindow-input-model-select-button-label-fast = מהיר
 aiwindow-input-model-select-button-label-allpurpose = גמיש
 aiwindow-input-model-select-button-label-personal = אישי
 aiwindow-input-model-select-button-label-custom = מותאם אישית
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = אוטומטי
 aiwindow-input-model-select-default-badge =
     .label = ברירת מחדל
     .title = המודל ברירת המחדל שנבחר
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = מומלץ
+    .title = המודל המומלץ
 aiwindow-input-model-select-settings-link = הגדרות המודל
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = ‏{ -smart-window-brand-name } בוחר את המודל הטוב ביותר למשימה שלך
+aiwindow-input-model-select-fast-description = תשובות מהירות כשצריך להתקדם בלי להתעכב
+aiwindow-input-model-select-flexible-description = מוכן למגוון רחב של משימות
+aiwindow-input-model-select-personal-description = מתאים לשימוש בצ’אט ובגלישה בכמה שפות
 
 ## Firstrun memories onboarding
 

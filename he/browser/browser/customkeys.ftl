@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = מעבר ללשונית 8
 customkeys-nav-select-last-tab = מעבר ללשונית האחרונה
 customkeys-nav-toggle-mute = השתקה/ביטול השתקה של שמע
 customkeys-edit-find-previous = מצא את הקודם
+customkeys-edit-find-selection = שימוש בטקסט המסומן לחיפוש
 customkeys-tools-screenshot = צילום מסך
 customkeys-category-navigation-2 =
     .heading = ניווט

@@ -33,6 +33,9 @@ about-webauthn-text-non-ctap2-device = לא ניתן לנהל אפשרויות �
 about-webauthn-text-not-available = לא זמין בפלטפורמה זו.
 about-webauthn-bio-enrollment-list-subsection-title = רישומים:
 about-webauthn-add-bio-enrollment-section-title = הוספת רישום חדש:
+about-webauthn-logging-warning = ייתכן שיומן הרישום מכיל מידע אישי, כגון שמות משתמשים, מזהי חשבונות וכתובות אתרים. יש לעיין בו לפני שמשתפים אותו עם אחרים.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = פעולה זו מתעדת רק בקשות למימוש CTAP המקורי של { -brand-short-name }. היא אינה מתעדת בקשות לממשקי API של WebAuthn של הפלטפורמה או להרחבות הדפדפן.
 
 ## Results label
 
@@ -77,6 +80,12 @@ about-webauthn-add-bio-enrollment-button = הוספת רישום:
 about-webauthn-cancel-button = ביטול
 about-webauthn-send-pin-button = אישור
 about-webauthn-delete-button = מחיקה
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = התחלה
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = עצירה
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = ניקוי
 about-webauthn-start-enrollment-button = התחלת רישום
 about-webauthn-update-button = עדכון
 

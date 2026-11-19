@@ -1333,7 +1333,7 @@ safebrowsing-not-an-attack-site-button =
 ## Notification bar shown when a captive portal is blocking network access
 ## and requires the user to log in before browsing.
 
-captive-portal-info-message = עליך להתחבר לרשת זו לפני שתוכל לגלוש באינטרנט.
+captive-portal-info-message = עליך להתחבר לרשת זו לפני שיהיה באפשרותך לגלוש באינטרנט.
 # Shown in all tabs except the login page tab. Clicking it shows the portal
 # login page tab.
 captive-portal-show-login-page-button =
@@ -1711,6 +1711,9 @@ trustpanel-etp-toggle-off =
     .aria-label = הגנת מעקב מתקדמת: כבויה עבור { $host }
 trustpanel-etp-description-enabled = אם משהו נראה שבור באתר הזה, ניתן לנסות לכבות את ההגנות.
 trustpanel-etp-description-disabled = ‏{ -brand-product-name } חושב שחברות צריכות לעקוב אחריך פחות. אנו חוסמים כמה שיותר רכיבי מעקב כשההגנות פעילות.
+trustpanel-trackercount-label = הצגת כמות רכיבי המעקב החסומים בשורת הכתובת
+trustpanel-trackercount-toggle =
+    .aria-label = הצגת כמות רכיבי המעקב החסומים בשורת הכתובת
 trustpanel-connection-label-secure = החיבור מאובטח
 trustpanel-connection-label-insecure = החיבור אינו מאובטח
 trustpanel-header-enabled = ‏{ -brand-product-name } עומד על המשמר
