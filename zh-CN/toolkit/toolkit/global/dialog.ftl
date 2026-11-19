@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = 确定
+dialog-button-cancel =
+    .label = 取消
+dialog-button-disclosure =
+    .label = 更多信息
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
