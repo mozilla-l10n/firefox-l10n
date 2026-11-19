@@ -53,3 +53,52 @@ nsis-dir-browse-text = Odaberi mapu u koju će se instalirati { $BrandFullNameDA
 nsis-space-available = Dostupan prostor:{ " " }
 nsis-space-required = Potreban prostor:{ " " }
 nsis-uninstalling-text = { $BrandFullNameDA } će biti uklonjen iz sljedeće mape. { $ClickInstructions }
+nsis-uninstalling-sub-text = Uklanjanje iz:
+nsis-file-error =
+    Greška pri otvaranju datoteke za pisanje:
+    
+    { $FilePath }
+    
+    Klikni „Prekid” za zaustavljanje instalacije,
+    „Pokušaj ponovo” za ponovni pokušaj, ili
+    „Zanemari” za zanemarivanje ove datoteke.
+nsis-file-error-no-ignore =
+    Greška pri otvaranju datoteke za pisanje:
+    
+    { $FilePath }
+    
+    Klikni „Pokušaj ponovo” za novi pokušaj ili
+    „Odustani” za prekid instalacije.
+nsis-cant-write = Nije moguće zapisati:{ " " }
+nsis-copy-failed = Kopiranje nije uspjelo
+nsis-copy-to = Kopiranje u{ " " }
+nsis-registering = Registracija:{ " " }
+nsis-unregistering = Odjava:{ " " }
+nsis-symbol-not-found = Simbol nije pronađen:{ " " }
+nsis-could-not-load = Nije moguće učitati:{ " " }
+nsis-create-folder = Izradi malu:{ " " }
+nsis-create-shortcut = Izradi prečac:{ " " }
+nsis-created-uninstaller = Izrađeno uklanjenje:{ " " }
+nsis-delete = Brisanje datoteke:{ " " }
+nsis-delete-on-reboot = Brisanje pri ponovnom pokretanju:{ " " }
+nsis-error-creating-shortcut = Greška pri izradi prečaca:{ " " }
+nsis-error-creating = Greška pri izradi:{ " " }
+nsis-error-decompressing = Greška pri dekompresiji podataka! Neispravna instalacijska datoteka?
+nsis-error-registering = Greška pri registraciji DLL-a
+nsis-exec-shell = ExecShell:{ " " }
+nsis-exec = Izvrši:{ " " }
+nsis-extract = Raspakiraj:{ " " }
+nsis-error-writing = Raspakiraj: Greška pri pisanju u datoteku{ " " }
+nsis-invalid-opcode = Instalacija neispravna: neispravan opcode
+nsis-no-ole = Nema OLE-a za:{ " " }
+nsis-output-folder = Izlazna mapa:{ " " }
+nsis-remove-folder = Ukloni mapu:{ " " }
+nsis-rename-on-reboot = Preimenuj pri ponovnom pokretanju:{ " " }
+nsis-rename = Preimenuj:{ " " }
+nsis-skipped = Preskočeno:{ " " }
+nsis-copy-details = Kopiraj detalje u međuspremnik
+nsis-log-install = Zapiši proces instalacije
+nsis-byte = B
+nsis-kilo = K
+nsis-mega = M
+nsis-giga = G
