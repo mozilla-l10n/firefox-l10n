@@ -271,8 +271,8 @@ main-context-menu-media-video-leave-fullscreen =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
-    .label = Skatieties attēls-attēlā
-    .accesskey = a
+    .label = Skatīties attēlu attēlā
+    .accesskey = l
 main-context-menu-image-reload =
     .label = Pārlādēt attēlu
     .accesskey = r

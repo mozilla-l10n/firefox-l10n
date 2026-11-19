@@ -511,7 +511,7 @@ onboarding-refresh-pin-set-default-subtitle = 我们会保护您的数据，并�
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Firefox 护您周全
-onboarding-refresh-import-subtitle = 将密码、书签、历史记录等数据搬到这里。
+onboarding-refresh-import-subtitle = 将密码、书签、历史记录等数据搬到这里来。
 onboarding-refresh-import-title = 让 { -brand-short-name } 亲切如家
 onboarding-refresh-onboarding-addons-subtitle = 扩展就像“小程序”，可用于定制 { -brand-short-name }，帮助增强隐私保护、提高效率、更改 { -brand-short-name } 外观，还有更多妙用。
 # "Give your browsing a boost" means to enhance or improve the browsing experience
