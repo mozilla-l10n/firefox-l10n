@@ -70,6 +70,11 @@ warn-disk-space =
     Nun ài bastanti spazziu nnô discu pi nzitari nna stu locu.
     
     Ammacca OK pi scartari n’autru locu.
+warn-min-supported-osver-msg = Mi dispiaci, nun pozzu nzitari { $BrandShortName }. Sta virsiuni di { $BrandShortName } abbisogna dâ virsiuni { $MinSupportedVer } o cchiù nova. Pi favuri ammacca u buttuni OK p’aviri cchiù assai nfurmazzioni.
+warn-min-supported-cpu-msg = Mi dispiaci, nun pozzu nzitari { $BrandShortName }. Sta virsiuni di { $BrandShortName } abbisogna d’un prucissuri cû supportu mìnimu { $MinSupportedCPU }. Pi favuri ammacca u buttuni OK p’aviri cchiù assai nfurmazzioni.
+warn-min-supported-osver-cpu-msg = Mi dispiaci, nun pozzu nzitari { $BrandShortName }. Sta virsiuni di { $BrandShortName } abbisogna dâ virsiuni { $MinSupportedVer } o cchiù nova, e d’un prucissuri cû supportu mìnimu { $MinSupportedCPU }. Pi favuri ammacca u buttuni OK p’aviri cchiù assai nfurmazzioni.
+warn-restart-required-uninstall = Abbisogna chi abbìi arrè u to computer pi cumplitari u sdisinzitamentu di prima di { $BrandShortName }. Voi abbiari arrè ora?
+warn-restart-required-upgrade = Abbisogna chi abbìi arrè u to computer pi cumplitari n’attualizzu pricidenti di { $BrandShortName }. Voi abbiari arrè ora?
 error-create-directory-prefix = Erruri criazzioni carpetta:
 error-create-directory-suffix =
     Ammacca Sfai pi bluccari u nzitamentu o
