@@ -87,6 +87,23 @@ un-refresh-page-explanation =
     මෙය පෙරනිමි සැකසුම් ප්‍රත්‍යර්පණය කර එක්කහු ඉවත් කරයි. ප්‍රශස්ත කාර්ය සාධනයකට නැවුම්ව අරඔන්න.
 un-refresh-learn-more = තව දැනගන්න
     .accesskey = ත
+un-refresh-button = { $BrandShortName } නැවුම් කරන්න
+    .accesskey = න
+banner-check-existing = පවතින ස්ථාපනය පරීක්‍ෂා වෙමින්...
+status-install-app = { $BrandShortName } ස්ථාපනය වෙමින්…
+status-uninstall-main = { $BrandShortName } අස්ථාපනය වෙමින්…
+status-cleanup = ප්‍රශස්තිකරණය වෙමින්…
+un-survey-checkbox-label = { $BrandShortName } අස්ථාපනය කළ හේතුව මොසිල්ලා වෙත කියන්න
+# This string should fit in one line (approximately 65 characters).
+options-summary = ඔබ කැමති පිහිටුවීම් වර්ගය තෝරන්න, ඉන්පසු ඊළඟ ඔබන්න.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } වඩාත් පොදු විකල්ප සමඟ ස්ථාපනය වනු ඇත.
+option-standard-radio = සම්මත
+    .accesskey = ස
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = ස්ථාපනයට අවශ්‍ය පරිදි තනි විකල්ප තේරීමට හැකිය. පළපුරුදු පරිශ්‍රීලකයින් සඳහා නිර්දේශ කෙරේ.
+option-custom-radio = අභිරුචි
+    .accesskey = අ
 # This text replaces the Install button text on the summary page.
 upgrade-button = උත්ශ්‍රේණි
     .accesskey = උ
