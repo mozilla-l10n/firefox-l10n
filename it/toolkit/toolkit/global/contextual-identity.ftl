@@ -101,3 +101,4 @@ user-context-icon-fence =
     .label = Recinto
 user-context-icon-robot =
     .label = Robot
+

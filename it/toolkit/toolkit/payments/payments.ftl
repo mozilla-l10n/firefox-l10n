@@ -80,3 +80,4 @@ credit-card-label-with-security-code-3 = { $label } | { $securityCode } salvato
 # rather than translating it into words.
 credit-card-label-with-security-code-2 = { $label } | { $securityCode } •••
     .aria-label = { $ariaLabel }, { $securityCode } salvato
+
