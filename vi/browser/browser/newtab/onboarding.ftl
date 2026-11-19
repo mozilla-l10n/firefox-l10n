@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = Thêm { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Tiến trình: bước { $current }/{ $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -221,6 +227,11 @@ mr2022-onboarding-set-default-subtitle = Sử dụng trình duyệt được h�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Phiên bản mới nhất của chúng tôi được xây dựng xung quanh bạn, giúp bạn truy cập trên web dễ dàng hơn bao giờ hết. Nó được đóng gói với các tính năng mà chúng tôi nghĩ rằng bạn sẽ yêu thích.
 mr2022-onboarding-get-started-primary-button-label = Thiết lập trong vài giây
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Nhập từ trình duyệt trước
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -649,6 +660,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Nhận tính năng bảo vệ tích hợp trên điện thoại của bạn
 hnt-card-mobile-body = Tải xuống ứng dụng { -brand-product-name } cho thiết bị di động để tăng cường bảo mật khi di chuyển.
+hnt-card-mobile-primary-button2 = Tải { -brand-product-name } cho thiết bị di động
 hnt-card-mobile-primary-button = Tải { -brand-product-name } cho thiết bị di động.
 hnt-card-wallpaper-header = Chọn một hình nền mới
 hnt-card-wallpaper-body = Biến màn hình này thành nơi ấm cúng như ở nhà với hình nền mà bạn yêu thích.

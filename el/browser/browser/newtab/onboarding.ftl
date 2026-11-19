@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = Προσθήκη του { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Πρόοδος: βήμα { $current } από { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -221,6 +227,11 @@ mr2022-onboarding-set-default-subtitle = Χρησιμοποιήστε ένα π�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Η πιο πρόσφατη έκδοσή μας έχει προσαρμοστεί στις ανάγκες σας, κάνοντας πιο εύκολη από ποτέ την περιήγησή σας στο διαδίκτυο. Είναι γεμάτη με λειτουργίες που πιστεύουμε ότι θα λατρέψετε.
 mr2022-onboarding-get-started-primary-button-label = Ρύθμιση σε δευτερόλεπτα
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -649,6 +660,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Αποκτήστε ενσωματωμένη προστασία στο τηλέφωνό σας
 hnt-card-mobile-body = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές για επιπλέον ιδιωτικότητα εν κινήσει.
+hnt-card-mobile-primary-button2 = Απόκτηση του { -brand-product-name } για κινητές συσκευές
 hnt-card-mobile-primary-button = Απόκτηση του { -brand-product-name } για κινητές συσκευές.
 hnt-card-wallpaper-header = Επιλέξτε μια νέα ταπετσαρία
 hnt-card-wallpaper-body = Κάντε αυτήν την οθόνη σαν το σπίτι σας με ένα αγαπημένο φόντο.

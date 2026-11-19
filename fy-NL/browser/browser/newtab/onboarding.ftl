@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = { $addon-name } tafoegje
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Fuortgong: stap { $current } fan { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -222,6 +228,11 @@ mr2022-onboarding-set-default-subtitle = Brûk in browser stipe troch in non-pro
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Us lêste ferzje is om jo hinne boud, wêrtroch it makliker is dan ea om op it web te sneupen. It is fol mei funksjes wêrfan wy tinke dat jo se wurdearje sille.
 mr2022-onboarding-get-started-primary-button-label = Ynstelle yn in pear tellen
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Ymportearje út foarige browser
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -650,6 +661,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Untfang ynboude beskerming op jo telefoan
 hnt-card-mobile-body = Download { -brand-product-name } foar mobyl foar ekstra privacy ûnderweis.
+hnt-card-mobile-primary-button2 = { -brand-product-name } foar mobyl downloade
 hnt-card-mobile-primary-button = { -brand-product-name } foar mobyl downloade
 hnt-card-wallpaper-header = Kies in frisse eftergrûn
 hnt-card-wallpaper-body = Lit dit skerm as thús fiele mei in eftergrûn dêr’t jo wol oer meie.

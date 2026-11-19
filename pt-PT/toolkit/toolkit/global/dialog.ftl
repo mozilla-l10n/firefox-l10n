@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Default button labels for <dialog> elements
+
+dialog-button-accept =
+    .label = OK
+dialog-button-cancel =
+    .label = Cancelar
+dialog-button-disclosure =
+    .label = Mais informação
+    .accesskey = i
+
+## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
+
+dialog-button-yes =
+    .label = Sim
+    .accesskey = S
+dialog-button-no =
+    .label = Não
+    .accesskey = N
+dialog-button-save =
+    .label = Guardar
+    .accesskey = G
+dialog-button-dont-save =
+    .label = Não guardar
+    .accesskey = N
+dialog-button-revert =
+    .label = Reverter
+    .accesskey = R

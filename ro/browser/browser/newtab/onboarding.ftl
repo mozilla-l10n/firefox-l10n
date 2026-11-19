@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = Adaugă { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progres: pasul { $current } din { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -222,6 +228,11 @@ mr2022-onboarding-set-default-subtitle = Folosește un browser susținut de o or
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Cea mai recentă versiune este făcută pentru tine, navigarea pe web este mai ușoară ca niciodată. Este plină de funcționalități pe care credem că le vei adora.
 mr2022-onboarding-get-started-primary-button-label = Configurează în câteva secunde
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Importă dintr-un browser anterior
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -650,6 +661,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Obține protecție încorporată pe telefon
 hnt-card-mobile-body = Descarcă { -brand-product-name } pentru dispozitive mobile pentru un plus de confidențialitate în mers.
+hnt-card-mobile-primary-button2 = Obține { -brand-product-name } pentru dispozitive mobile
 hnt-card-mobile-primary-button = Obține { -brand-product-name } pentru dispozitive mobile.
 hnt-card-wallpaper-header = Alege o imagine de fundal nouă
 hnt-card-wallpaper-body = Personalizează acest ecran cu o imagine de fundal care îți place foarte mult.

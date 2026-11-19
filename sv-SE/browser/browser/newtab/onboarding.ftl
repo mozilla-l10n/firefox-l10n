@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = Lägg till { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Framsteg: steg { $current } av { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -221,6 +227,11 @@ mr2022-onboarding-set-default-subtitle = Använd en webbläsare som stöds av en
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Vår senaste version är byggd runt dig, vilket gör det enklare än någonsin att surfa runt på webben. Den är fullproppad med funktioner som vi tror att du kommer att älska.
 mr2022-onboarding-get-started-primary-button-label = Konfigurera på några sekunder
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Importera från tidigare webbläsare
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -647,6 +658,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Skydda mobilen med inbyggda funktioner
 hnt-card-mobile-body = Ladda ner { -brand-product-name } till mobilen för bättre integritet när du är på språng.
+hnt-card-mobile-primary-button2 = Skaffa { -brand-product-name } för mobilen
 hnt-card-mobile-primary-button = Skaffa { -brand-product-name } för mobilen.
 hnt-card-wallpaper-header = Välj en ny bakgrundsbild
 hnt-card-wallpaper-body = Få den här skärmen att kännas som hemma med en bakgrund du gillar.

@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = Lisää { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Edistyminen: vaihe { $current }/{ $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -222,6 +228,11 @@ mr2022-onboarding-set-default-subtitle = Käytä voittoa tavoittelemattoman sä�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Uusin versiomme on rakennettu ympärillesi; verkossa liikkuminen on helpompaa kuin koskaan. Se on täynnä ominaisuuksia, joihin uskomme sinun ihastuvan.
 mr2022-onboarding-get-started-primary-button-label = Määritä sekunneissa
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä selaimesta
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -650,6 +661,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Hanki sisäänrakennettu suojaus puhelimeesi
 hnt-card-mobile-body = Lataa { -brand-product-name } mobiililaitteellesi ja suojaa yksityisyyttäsi myös liikkeellä ollessasi.
+hnt-card-mobile-primary-button2 = Hanki { -brand-product-name } mobiililaitteelle
 hnt-card-mobile-primary-button = Hanki { -brand-product-name } mobiililaitteelle.
 hnt-card-wallpaper-header = Valitse raikas taustakuva
 hnt-card-wallpaper-body = Tee tästä näkymästä kotoisa valitsemalla mieleisesi taustakuva.

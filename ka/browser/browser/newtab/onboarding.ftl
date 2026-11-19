@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = დაამატეთ { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = წინსვლა: ნაბიჯი { $current }, სულ { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -222,6 +228,11 @@ mr2022-onboarding-set-default-subtitle = შეუდექით ბრაუ�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = ჩვენი უახლესი ვერსია შექმნილია თქვენი საჭიროებებისთვის, არნახულად გაგიადვილებთ ვებსივრცეში მოგზაურობას. აღჭურვილია შესაძლებლობებით, რომლებიც, ვფიქრობთ, მეტად მოგეწონებათ.
 mr2022-onboarding-get-started-primary-button-label = დაყენება წამებში
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = გადმოტანა წინა ბრაუზერიდან
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -650,6 +661,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = მიიღეთ ჩაშენებული დაცვა ტელეფონზეც
 hnt-card-mobile-body = ჩამოტვირთეთ { -brand-product-name } მობილურზე პირდულობის უკეთ დასაცავად გარეთ გასვლისას.
+hnt-card-mobile-primary-button2 = გადმოწერეთ { -brand-product-name } მობილურზე
 hnt-card-mobile-primary-button = გადმოწერეთ { -brand-product-name } მობილურზე.
 hnt-card-wallpaper-header = აირჩიეთ ახალი ფონი
 hnt-card-wallpaper-body = მოაწყვეთ ეკრანი თქვენებურად საყვარელი ფონების გამოყენებით.
