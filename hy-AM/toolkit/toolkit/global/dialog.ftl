@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Լավ
+dialog-button-cancel =
+    .label = Չեղարկել
+dialog-button-disclosure =
+    .label = Հավելյալ ինֆորմացիա
+    .accesskey = Հ
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
@@ -14,3 +21,12 @@ dialog-button-yes =
 dialog-button-no =
     .label = Ոչ
     .accesskey = Ո
+dialog-button-save =
+    .label = Պահել
+    .accesskey = Պ
+dialog-button-dont-save =
+    .label = Չպահել
+    .accesskey = Չ
+dialog-button-revert =
+    .label = Ետ բերել
+    .accesskey = Ե
