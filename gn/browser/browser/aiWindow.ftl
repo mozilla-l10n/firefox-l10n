@@ -121,10 +121,24 @@ aiwindow-input-model-select-button-label-fast = Ipya’e
 aiwindow-input-model-select-button-label-allpurpose = Pepykuaáva
 aiwindow-input-model-select-button-label-personal = Avamba’e
 aiwindow-input-model-select-button-label-custom = Ñemomba’epyre
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Jehegui
 aiwindow-input-model-select-default-badge =
     .label = Ijypykue
     .title = Jehecharã ypykue poravopyre
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Jeroviapyrã
+    .title = Peteĩchagua jeroviapyrãva
 aiwindow-input-model-select-settings-link = Techarã ñemboheko
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } eiporavo iporãvéva tembiaporãme g̃uarã
+aiwindow-input-model-select-flexible-description = Oĩma apopyrãitápe g̃uarã
+aiwindow-input-model-select-personal-description = Iporãvéta echatea ha eikundaháramo heta ñe’ẽme
 
 ## Firstrun memories onboarding
 

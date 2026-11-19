@@ -170,9 +170,9 @@ newtab-privacy-widget-label =
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] Šodien liegts aizturētājs
-        [zero] Šodien liegti aizturētāji
-       *[other] Šodien liegti aizturētāji
+        [one] Šodien aizturēts izsekotājs
+        [zero] Šodien aizturēti izsekotāji
+       *[other] Šodien aizturēti izsekotāji
     }
 # Second line of the readout, under the large number and "Trackers blocked
 # today". Counts the sites those trackers were blocked on. The English is
@@ -182,9 +182,9 @@ newtab-privacy-trackers-blocked-today =
 #   $count (number) - Number of sites where trackers were blocked
 newtab-privacy-across-sites =
     { $count ->
-        [one] Visā { $count } vietnē
-        [zero] Vairāk nekā { $count } vietnēs
-       *[other] Vairāk nekā { $count } vietnēs
+        [one] { $count } vietnē
+        [zero] { $count } vietnēs
+       *[other] { $count } vietnēs
     }
 
 ## Privacy widget — empty state
@@ -203,7 +203,7 @@ newtab-privacy-empty-state-small-message = Pārlūko, lai uzsāktu aizturēšanu
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = Ātrāka pārlūkošana. Mazāk izsekotāju.
-newtab-privacy-etp-off-turn-on-tracking = Iestatījumos ieslēdz aizsardzību pret izsekošanu, lai sāktu aizturēšanu.
+newtab-privacy-etp-off-turn-on-tracking = Iestatījumos ieslēdz aizsardzību pret izsekošanu, lai sāktu aizturēšanu!
 
 ## Privacy widget — informational messages
 ##
@@ -211,25 +211,25 @@ newtab-privacy-etp-off-turn-on-tracking = Iestatījumos ieslēdz aizsardzību pr
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
-newtab-privacy-message-info-1 = { -brand-short-name } automātiski bloķē izsekotājus pārlūkošanas laikā.
-newtab-privacy-message-info-1-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-2 = Izsekotāju bloķēšana palīdz uzņēmumiem neļaut jums izsekot tiešsaistē.
-newtab-privacy-message-info-2-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-3 = Daudzām vietnēm ir izsekotāji, tāpēc uzņēmumi, kurus nekad neesat apmeklējis, var sekot jums tiešsaistē.
-newtab-privacy-message-info-3-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-4 = Izvēloties { -brand-short-name }, tiek izvēlēta aizsardzība pēc noklusējuma.
-newtab-privacy-message-info-4-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-5 = Liegti izsekotāji nozīmē, ka mazāk uzņēmumu var sekot Tev dažādās vietnēs.
-newtab-privacy-message-info-5-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-6 = Saglabājiet savus datus pakalpojumā { -brand-short-name }. Mēs tos nekad nepārdodam, bet citas pārlūkprogrammas to varētu darīt.
+newtab-privacy-message-info-1 = { -brand-short-name } pārlūkošanas laikā automātiski aiztur izsekotājus.
+newtab-privacy-message-info-1-cta = Apskatīt aizsardzību
+newtab-privacy-message-info-2 = Izsekotāju aizturēšana palīdz apturēt uzņēmumus no Tevis izsekošanas tiešsaistē.
+newtab-privacy-message-info-2-cta = Apskatīt aizsardzību
+newtab-privacy-message-info-3 = Daudzās vietnēs ir izsekotāji, tāpēc uzņēmumi, kurus nekad neesi apmeklējis, var izsekot Tevi tiešsaistē.
+newtab-privacy-message-info-3-cta = Apskatīt aizsardzību
+newtab-privacy-message-info-4 = { -brand-short-name } izvēlēšanās nozīmē izvēlēties aizsardzību pēc noklusējuma.
+newtab-privacy-message-info-4-cta = Apskatīt aizsardzību
+newtab-privacy-message-info-5 = Aizturēti izsekotāji nozīmē, ka mazāk uzņēmumu var izsekot Tevi dažādās vietnēs.
+newtab-privacy-message-info-5-cta = Apskatīt aizsardzību
+newtab-privacy-message-info-6 = Glabā savus datus { -brand-short-name }! Mēs tos nekad nepārdodam, bet citi pārlūki to varētu darīt.
 newtab-privacy-message-info-6-cta = Uzzināt vairāk
-newtab-privacy-message-info-7 = Apskati, kuri izsekotāji { -brand-short-name } ir liegti!
-newtab-privacy-message-info-7-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-8 = Pārlūkošana, izmantojot { -brand-short-name }, atbalsta { -vendor-short-name } misiju veidot labāku tīmekli.
+newtab-privacy-message-info-7 = Apskati, kurus izsekotājus { -brand-short-name } aizturēja!
+newtab-privacy-message-info-7-cta = Apskatīt aizsardzību
+newtab-privacy-message-info-8 = Pārlūkošana ar { -brand-short-name } atbalsta { -vendor-short-name } mērķi veidot labāku tīmekli.
 newtab-privacy-message-info-8-cta = Uzzināt vairāk
-newtab-privacy-message-info-9 = Padariet { -brand-short-name } par savu iecienītāko pārlūkprogrammu, lai nodrošinātu iebūvētu privātumu.
-newtab-privacy-message-info-9-cta = Iestatīt kā noklusējuma vērtību
-newtab-privacy-message-info-10 = Saglabājiet paroles mapē { -brand-short-name }, lai visur izmantotu spēcīgus, unikālus pieteikumvārdus.
+newtab-privacy-message-info-9 = Padari { -brand-short-name } par savu iecienītāko pārlūku iebūvētam privātumam!
+newtab-privacy-message-info-9-cta = Padarīt par noklusējumu
+newtab-privacy-message-info-10 = Saglabā paroles { -brand-short-name }, lai visur izmantotu spēcīgus, neatkārtojošos pieteikšanās vienumus!
 newtab-privacy-message-info-10-cta = Dodieties uz parolēm
 newtab-privacy-message-info-11 = Uzziniet, kā { -brand-short-name } palīdz saglabāt jūsu pārlūkošanu privātāku.
 newtab-privacy-message-info-11-cta = Uzzināt vairāk
