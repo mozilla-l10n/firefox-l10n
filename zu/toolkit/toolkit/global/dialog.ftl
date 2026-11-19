@@ -9,6 +9,9 @@ dialog-button-accept =
     .label = Kulungile
 dialog-button-cancel =
     .label = Khansela
+dialog-button-disclosure =
+    .label = Ulwazi Olwengeziwe
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
