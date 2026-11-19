@@ -1680,6 +1680,7 @@ trustpanel-etp-toggle-off =
     .aria-label = Jehapykueho mo’ãha oikóva: ogue { $host }-pe g̃uarã
 trustpanel-etp-description-enabled = Oĩrõ ndoikoporãiva ko tendápe g̃uarã, eñeha’ã eipe’a umi ñemo’ãha.
 trustpanel-etp-description-disabled = { -brand-product-name } orovia umi empresa ombyatyva’erã sa’ive mba’ekuaarã poruhára rehegua. Emyandývo tapykuehoha, rojoko heta mba’e nde rapykuehokuaáva.
+trustpanel-trackercount-label = Ehechauka tapykuehoha jokopyre kundaharendápe
 trustpanel-connection-label-secure = Eike tekorosãme
 trustpanel-connection-label-insecure = Eike tekorosã’ỹme
 trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme

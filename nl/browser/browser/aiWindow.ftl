@@ -121,6 +121,8 @@ aiwindow-input-model-select-button-label-fast = Snel
 aiwindow-input-model-select-button-label-allpurpose = Flexibel
 aiwindow-input-model-select-button-label-personal = Persoonlijk
 aiwindow-input-model-select-button-label-custom = Aangepast
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatisch
 aiwindow-input-model-select-default-badge =
     .label = Standaard
     .title = Het geselecteerde standaardmodel

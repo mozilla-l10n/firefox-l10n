@@ -230,20 +230,20 @@ newtab-privacy-message-info-8-cta = Uzzināt vairāk
 newtab-privacy-message-info-9 = Padari { -brand-short-name } par savu iecienītāko pārlūku iebūvētam privātumam!
 newtab-privacy-message-info-9-cta = Padarīt par noklusējumu
 newtab-privacy-message-info-10 = Saglabā paroles { -brand-short-name }, lai visur izmantotu spēcīgus, neatkārtojošos pieteikšanās vienumus!
-newtab-privacy-message-info-10-cta = Dodieties uz parolēm
-newtab-privacy-message-info-11 = Uzziniet, kā { -brand-short-name } palīdz saglabāt jūsu pārlūkošanu privātāku.
+newtab-privacy-message-info-10-cta = Doties uz parolēm
+newtab-privacy-message-info-11 = Uzzini, kā { -brand-short-name } palīdz saglabāt pārlūkošanu privātāku!
 newtab-privacy-message-info-11-cta = Uzzināt vairāk
-newtab-privacy-message-info-12 = Izsekotāju bloķēšana var palīdzēt ietaupīt joslas platumu ierobežotos datu plānos.
-newtab-privacy-message-info-12-cta = Skatīt aizsardzības iestatījumus
-newtab-privacy-message-info-13 = { -brand-short-name } bloķē izsekotājus, atbrīvojot joslas platumu vienmērīgākai straumēšanai.
-newtab-privacy-message-info-13-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-info-12 = Izsekotāju aizturēšana var palīdzēt samazināt datu patēriņu ierobežotu datu plānos.
+newtab-privacy-message-info-12-cta = Apskatīt aizsardzību
+newtab-privacy-message-info-13 = { -brand-short-name } aiztur izsekotājus, atbrīvojot platjoslu vienmērīgākai straumēšanai.
+newtab-privacy-message-info-13-cta = Apskatīt aizsardzību
 
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
-newtab-privacy-message-promo-monitor-1 = Uzziniet, vai jūsu personas dati parādās datu noplūdes gadījumā.
+newtab-privacy-message-promo-monitor-1 = Uzzini, vai Tava personīgā informācija parādās datu noplūdēs!
 newtab-privacy-message-promo-monitor-1-cta = Uzzināt vairāk
 newtab-privacy-message-promo-monitor-2 = Aizsargā savu informāciju ar bezmaksas datu pārkāpumu uzraudzību līdz pat 20 e-pasta adresēm!
 newtab-privacy-message-promo-monitor-2-cta = Uzzināt vairāk
@@ -277,7 +277,7 @@ newtab-privacy-message-milestone-week =
         [zero] Šonedēļ liegti { $count } izsekotāju. Apskati, ko { -brand-short-name } novāc Tavā pārlūkošanas ceļā!
        *[other] Šonedēļ liegti { $count } izsekotāji. Apskati, ko { -brand-short-name } novāc Tavā pārlūkošanas ceļā!
     }
-newtab-privacy-message-milestone-week-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-milestone-week-cta = Apskatīt aizsardzību
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month =
@@ -286,7 +286,7 @@ newtab-privacy-message-milestone-month =
         [zero] Šomēnes liegti { $count } izsekotāji. Viens mazs solis privātumam. Viens liels solis prāta mieram.
        *[other] Šomēnes liegti { $count } izsekotāji. Viens mazs solis privātumam. Viens liels solis prāta mieram.
     }
-newtab-privacy-message-milestone-month-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-milestone-month-cta = Apskatīt aizsardzību
 # Variables:
 #   $count (number) - Trackers blocked this year
 newtab-privacy-message-milestone-year =
@@ -295,7 +295,7 @@ newtab-privacy-message-milestone-year =
         [zero] Šogad liegti { $count } izsekotāju. Tas ir spēcīgs gads Tava privātuma aizsardzībā.
        *[other] Šogad liegti { $count } izsekotāji. Tas ir spēcīgs gads Tava privātuma aizsardzībā.
     }
-newtab-privacy-message-milestone-year-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-milestone-year-cta = Apskatīt aizsardzību
 # Variables:
 #   $count (number) - Trackers blocked all-time
 newtab-privacy-message-milestone-total =
@@ -304,10 +304,10 @@ newtab-privacy-message-milestone-total =
         [zero] { $count } izsekotāju ir liegti. Tā ir būtiska virzība ceļā uz privātumu pēc Taviem noteikumiem.
        *[other] { $count } izsekotāji ir liegti. Tā ir būtiska virzība ceļā uz privātumu pēc Taviem noteikumiem.
     }
-newtab-privacy-message-milestone-total-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-milestone-total-cta = Apskatīt aizsardzību
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Šodien liegti vairāk nekā 100 izsekotāju.) Mazāk izsekotāju nozīmē lielāku privātumu.
-newtab-privacy-message-daily-cap-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-daily-cap-cta = Apskatīt aizsardzību
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
 newtab-privacy-message-streak =
@@ -316,7 +316,7 @@ newtab-privacy-message-streak =
         [zero] Jūs esat aizsargāts { $count } dienas pēc kārtas.
        *[other] Jūs esat aizsargāts { $count } dienas pēc kārtas.
     }
-newtab-privacy-message-streak-cta = Skatīt aizsardzības iestatījumus
+newtab-privacy-message-streak-cta = Apskatīt aizsardzību
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Turpini pārlūkot, { -brand-short-name } turpinās liegt!
 newtab-privacy-message-first-protection-cta = Apskatīt aizsardzību

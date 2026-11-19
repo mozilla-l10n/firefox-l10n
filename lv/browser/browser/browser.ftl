@@ -1052,7 +1052,7 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Tendences meklētājā { $engine }
 # The result menu labels shown next to trending results.
-urlbar-result-menu-trending-dont-show3 = Nerādīt tendences meklēšanas vaicājumos
+urlbar-result-menu-trending-dont-show3 = Nerādīt izplatītus meklējumus
     .accesskey = N
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nerādīt tendences meklēšanas vaicājumos
@@ -1320,10 +1320,10 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
-safebrowsing-deceptive-site-message = Maldinoša lapa!
-safebrowsing-reported-attack-site-message = Kaitnieku lapa!
-safebrowsing-reported-unwanted-site-message = Bīstama nevēlamas programmatūras lapa!
-safebrowsing-reported-harmful-site-message = Ziņoja par kaitīgu lapu!
+safebrowsing-deceptive-site-message = Maldinoša vietne.
+safebrowsing-reported-attack-site-message = Uzbrukumu vietne, par kuru ziņots.
+safebrowsing-reported-unwanted-site-message = Nevēlamas programmatūras vietne, par kuru ziņots.
+safebrowsing-reported-harmful-site-message = Kaitīga vietne, par kuru ziņots.
 safebrowsing-get-me-out-of-here-button =
     .label = Vediet mani prom no šejienes!
     .accesskey = V

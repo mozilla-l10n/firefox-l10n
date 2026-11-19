@@ -225,6 +225,12 @@ action-log-completed-steps =
         [one] 1 stap voltooid
        *[other] { $count } stappen voltooid
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Gekozen model voor taak: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Beste model kiezen
 
 ## Assistant Loader
 

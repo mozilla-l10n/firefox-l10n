@@ -18,6 +18,8 @@ smartwindow-group-tabs-panel-heading = Emohendaporã tendayke
 # forming new groups from these tabs, not searching for tab groups that already
 # exist.
 smartwindow-group-tabs-loading = Ahechahína tendayke ahekávo aty oikóva…
+# Shown when clustering produced no group worth suggesting.
+smartwindow-group-tabs-empty = Ndaipóri tendayke aty emombe’u’arã ko’ága. Ehechajey ag̃ave.
 # Shown in place of suggestions when every group the model found has already
 # been created.
 smartwindow-group-tabs-all-sorted = Ejapo porã emohendávo tendayke

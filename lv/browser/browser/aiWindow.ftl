@@ -136,10 +136,10 @@ aiwindow-input-model-select-settings-link = Modeļa iestatījumi
 ## Descriptions shown under each model in the smartbar model select when the
 ## Auto model is offered.
 
-aiwindow-input-model-select-auto-description = { -smart-window-brand-name } izvēlas jūsu uzdevumam vispiemērotāko modeli
-aiwindow-input-model-select-fast-description = Ātras atbildes steidzamiem uzdevumiem
-aiwindow-input-model-select-flexible-description = Piemērots dažādiem uzdevumiem
-aiwindow-input-model-select-personal-description = Piemērots tērzēšanai un pārlūkošanai vairākās valodās
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } izvēlas uzdevumam vispiemērotāko modeli
+aiwindow-input-model-select-fast-description = Ātras atbildes steidzīgam darbam
+aiwindow-input-model-select-flexible-description = Gatavs dažādiem uzdevumiem
+aiwindow-input-model-select-personal-description = Piemērots, ja tērzē un pārlūko vairākās valodās
 
 ## Firstrun memories onboarding
 
