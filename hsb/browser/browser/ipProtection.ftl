@@ -255,6 +255,17 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Docpějeće waš limit VPN
     .message = Maće tutón měsac { $usageLeft } MB z { $maxUsage } GB wyše.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Sće { $additionalLocationsCount } dalše stejnišćo VPN dóstał
+            [two] Sće { $additionalLocationsCount } dalšej stejnišći VPN dóstał
+            [few] Sće { $additionalLocationsCount } dalše stejnišća VPN dóstał
+           *[other] Sće { $additionalLocationsCount } dalšich stejnišćow VPN dóstał
+        }
+    .message = Wulki dźak, zo sće { -brand-short-name } k swojemu standardej činił. Smy dalše stejnišća přidali, po kotrychž móžeće přehladować.
 ipprotection-message-continuous-onboarding-intro = Zmóžńće VPN, zo byšće swoje stejnišćo schował a přidajće swojemu přehladowanju přidatne zaklučowanje.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžńće VPN</a> za přidatnu škitnu runinu, kóždy raz, hdyž { -brand-short-name } wočinjeće.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } so na to dopomina, za kotre websydła so ma VPN wužiwać. Aktualizujće tute kóždy čas w <a data-l10n-name="setting-link">nastajenjach</a>.

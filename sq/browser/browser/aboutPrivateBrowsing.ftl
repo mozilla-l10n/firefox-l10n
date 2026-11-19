@@ -76,9 +76,11 @@ about-private-browsing-felt-privacy-v1-info-link = Cilët mund të jenë në gje
 about-private-browsing-nova-info-body = Mbyllja e krejt Dritareve tuaja Private fshin cookie-t tuaja, historikun dhe të dhëna sajtesh.
 about-private-browsing-nova-info-link = Cilët mundet të jenë ende të aftë të shohin veprimtarinë time?
 about-private-browsing-private-window-basics-link = Gjëra elementare Dritaresh Private
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name }-i është hartuar të mbrojë privatësinë tuaj teksa shfletoni, me mbrojtje të brendshme nga gjurmimi. Mbyllja e kësaj dritareje do të fshijë historikun e saj, cookie-t dhe të dhëna sajtesh, për ta mbajtur shfletimin tuaj privat kundrejt të tjerësh që përdorin këtë pajisje.
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Gjëra elementare Dritaresh Private
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Ç’duhet të dihet
