@@ -60,6 +60,32 @@ warn-disk-space =
     તમારી પાસે આ સ્થાનમાં સ્થાપિત કરવા માટે પૂરતી ડિસ્ક જગ્યા નથી.
     
     અલગ સ્થાનને પસંદ કરવા માટે બરાબર બટન પર ક્લિક કરો.
+warn-min-supported-osver-msg = માફ કરશો, { $BrandShortName } ઇન્સ્ટોલ કરી શકાતું નથી. { $BrandShortName } ના આ આવૃત્તિને { $MinSupportedVer } અથવા નવાની જરૂર છે. અતિરિક્ત માહિતી માટે કૃપા કરીને OK બટન પર ક્લિક કરો.
+warn-min-supported-cpu-msg = માફ કરશો, { $BrandShortName } ઇન્સ્ટોલ કરી શકાતું નથી. { $BrandShortName }ની આ આવૃત્તિને પ્રોસેસર સાથે { $MinSupportedCPU } આધારની જરૂર છે. અતિરિક્ત માહિતી માટે કૃપા કરીને OK બટન પર ક્લિક કરો.
+warn-min-supported-osver-cpu-msg = માફ કરશો, { $BrandShortName } ઇન્સ્ટોલ કરી શકાતું નથી. { $BrandShortName }ની આ આવૃત્તિને { $MinSupportedVer } અથવા નવી અને પ્રોસેસર { $MinSupportedCPU } આધાર સાથેની જરૂર છે. અતિરિક્ત માહિતી માટે કૃપા કરીને OK બટન પર ક્લિક કરો.
+warn-restart-required-uninstall = તમારુ કમ્પ્યૂટરે { $BrandShortName } નાં પહેલાનાં બિનસ્થાપનને સમાપ્ત કરવા માટે પુન:શરૂ થવુ જ જોઇએ. શું તમે હવે પુન:બુટ કરવા માંગો છો?
+warn-restart-required-upgrade = તમારા કમ્પ્યૂટરે { $BrandShortName } નાં પહેલાંના સુધારાને સમાપ્ત કરવા માટે પુન:શરૂ થવુ જ જોઇએ. શું તમે હવે પુન:બુટ કરવા માંગો છો?
+error-create-directory-prefix = ડિરેક્ટરી બનાવતી વખતે ભૂલ:
+error-create-directory-suffix =
+    સ્થાપનને અટકાવવા માટે રદ કરો પર ક્લિક કરો અથવા
+    ફરીથી પ્રયત્ન કરવા માટે પુન:પ્રયત્ન પર ક્લિક કરો.
+un-confirm-page-title = { $BrandFullName } સ્થાપિત ન કરો
+un-confirm-uninstalled-from = { $BrandShortName } એ નીચેના સ્થાનમાંથી બિનસ્થાપિત થયેલ હશે:
+banner-check-existing = હાલનાં સ્થાપનને ચકાસી રહ્યા છે…
+status-install-app = { $BrandShortName } સ્થાપિત કરી રહ્યા છે…
+status-uninstall-main = { $BrandShortName } સ્થાપિત કરી રહ્યા નથી…
+status-cleanup = થોડી ઘર વ્યવસ્થા…
+un-survey-checkbox-label = Mozilla ને જણાવો કે કયા કારણોસર તમે { $BrandShortName } સ્થાપિત કરી રહ્યા નથી
+# This string should fit in one line (approximately 65 characters).
+options-summary = તમને પસંદ હોય તેવા સુયોજનનાં પ્રકારને પસંદ કરો, પછી આગળ પર ક્લિક કરો.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } એકદમ સામાન્ય વિકલ્પો સાથે સ્થાપિત થયેલ હશે.
+option-standard-radio = પ્રમાણભૂત
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = તમે સ્થાપિત કરવા માટે વ્યક્તિગત વિકલ્પોને પસંદ કરી શકો છો. અનુભવી વપરાશકર્તાઓ માટે આગ્રહ રાખેલ છે.
+option-custom-radio = વૈવિધ્ય
+    .accesskey = C
 # This text replaces the Install button text on the summary page.
 upgrade-button = સુધારો
     .accesskey = U
