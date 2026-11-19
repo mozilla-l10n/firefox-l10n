@@ -39,6 +39,72 @@ summary-page-subtitle = { $BrandShortName } yüklenmeye hazır
 summary-installed-to = { $BrandShortName } aşağıdaki konuma yüklenecek:
 summary-reboot-required-install = Kurulumun tamamlanması için bilgisayarınızın yeniden başlatılması gerekebilir.
 summary-reboot-required-uninstall = Kaldırmanın tamamlanması için bilgisayarınızın yeniden başlatılması gerekebilir.
+summary-install-click = Devam etmek için Yükle düğmesine tıklayın.
+summary-upgrade-click = Devam etmek için Güncelle düğmesine tıklayın.
+launch-text = Şimdi { $BrandShortName } tarayıcısını çalıştır
+    .accesskey = i
+create-icons-desc = Buralara { $BrandShortName } simgeleri ekle:
+icons-desktop = Masaüstü
+    .accesskey = M
+icons-startmenu = Başlat menüsündeki Programlar klasörü
+    .accesskey = B
+icons-taskbar = Görev çubuğu
+    .accesskey = G
+warn-manually-close-app-install =
+    Yüklemeye devam etmek için { $BrandShortName } kapatılmalıdır.
+    
+    Devam etmek için lütfen { $BrandShortName } uygulamasını kapatın.
+warn-manually-close-app-uninstall =
+    Kaldırmaya devam etmek için { $BrandShortName } kapatılmalı.
+    
+    Devam etmek için lütfen { $BrandShortName } uygulamasını kapatın.
+warn-manually-close-app-refresh =
+    Yenilemeye devam etmek için { $BrandShortName } kapatılmalıdır.
+    
+    Devam etmek için lütfen { $BrandShortName } tarayıcınızı kapatın.
+warn-write-access =
+    Yükleme klasörüne yazma erişiminiz yok.
+    
+    Farklı bir klasör seçmek için Tamam düğmesine tıklayın.
+warn-disk-space =
+    Bu konuma yükleme yapmak için yeterli disk alanınız yok.
+    
+    Farklı bir konum seçmek için Tamam düğmesine tıklayın.
+warn-min-supported-osver-msg = Ne yazık ki { $BrandShortName } yüklenemiyor. Bu { $BrandShortName } sürümü için { $MinSupportedVer } veya daha yeni bir sürüm gerekiyor. Ek bilgiler için Tamam düğmesine tıklayabilirsiniz.
+warn-min-supported-cpu-msg = Ne yazık ki { $BrandShortName } yüklenemiyor. Bu { $BrandShortName } sürümü için { $MinSupportedCPU } destekli bir işlemci gerekiyor. Ek bilgiler için Tamam düğmesine tıklayabilirsiniz.
+warn-min-supported-osver-cpu-msg = Ne yazık ki { $BrandShortName } yüklenemiyor. Bu { $BrandShortName } sürümü için { $MinSupportedCPU } destekli { $MinSupportedVer } veya daha yeni bir işlemci gerekiyor. Ek bilgiler için Tamam düğmesine tıklayabilirsiniz.
+warn-restart-required-uninstall = Önceki bir { $BrandShortName } kaldırma işleminin tamamlanması için bilgisayarınız yeniden başlatılmalı. Şimdi yeniden başlatmak istiyor musunuz?
+warn-restart-required-upgrade = Önceki bir { $BrandShortName } yükseltme işleminin tamamlanması için bilgisayarınız yeniden başlatılmalı. Şimdi yeniden başlatmak istiyor musunuz?
+error-create-directory-prefix = Klasör oluşturma hatası:
+error-create-directory-suffix =
+    Yüklemeyi durdurmak için Vazgeç düğmesine,
+    yeniden denemek için Yeniden dene düğmesine tıklayın.
+un-confirm-page-title = { $BrandFullName } uygulamasını kaldır
+un-confirm-uninstalled-from = { $BrandShortName } aşağıdaki konumdan kaldırılacak:
+un-refresh-page-title = { $BrandShortName } tarayıcınızı kaldırmak yerine yenilemeye ne dersiniz?
+un-refresh-page-explanation =
+    { $BrandShortName } ile ilgili sorun yaşıyorsanız tarayıcınızı yenilemek işe yarayabilir.
+    
+    Yenileme işlemi, varsayılan ayarları geri yükler ve eklentileri kaldırır. Optimum performans için yeni bir başlangıç yapmış olursunuz.
+un-refresh-learn-more = Daha fazla bilgi al
+    .accesskey = D
+un-refresh-button = { $BrandShortName } tarayıcısını yenile
+    .accesskey = t
+banner-check-existing = Mevcut kurulum aranıyor…
+status-install-app = { $BrandShortName } yükleniyor…
+status-uninstall-main = { $BrandShortName } kaldırılıyor…
+status-cleanup = Temizlik zamanı…
+un-survey-checkbox-label = { $BrandShortName } uygulamasını neden kaldırdığınızı Mozilla’ya söyler misiniz?
+# This string should fit in one line (approximately 65 characters).
+options-summary = Tercih ettiğiniz kurulum türünü seçip İleri düğmesine tıklayın.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } en sık kullanılan özellikleriyle yüklenecektir.
+option-standard-radio = Standart
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = İsterseniz yüklenecek özellikleri kendiniz seçebilirsiniz. Bu yöntem ileri düzey kullanıcılara tavsiye edilir.
+option-custom-radio = Özel
+    .accesskey = z
 # This text replaces the Install button text on the summary page.
 upgrade-button = Yükselt
     .accesskey = Y
