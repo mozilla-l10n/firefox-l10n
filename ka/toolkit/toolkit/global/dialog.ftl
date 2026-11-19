@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = კარგი
+dialog-button-cancel =
+    .label = გაუქმება
+dialog-button-disclosure =
+    .label = ვრცლად
+    .accesskey = ვ
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
