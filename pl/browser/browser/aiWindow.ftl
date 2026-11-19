@@ -380,3 +380,25 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Zamknij „{ $text }”
     .title = Zamknij „{ $text }”
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Pomaga Ci sprawnie realizować zadania.
+    Planuj, porównuj, odkrywaj i nie tylko.
+smartwindow-onboarding-title = Ustaw po swojemu
+smartwindow-onboarding-subtitle = Skonfiguruj { -smart-window-brand-name(capitalization: "lower-singular", case: "acc") } tak, jak lubisz. W każdej chwili możesz zmienić ustawienia.
+smartwindow-onboarding-model-label = Wybierz model sztucznej inteligencji
+smartwindow-onboarding-model-auto = Automatyczny
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Zalecany
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } wybiera najlepszy model do zadania
+smartwindow-onboarding-model-mistral-description = Dobry do rozmawiania i przeglądania w wielu językach
+smartwindow-onboarding-model-gemini-description = Szybkie odpowiedzi, gdy się spieszysz
+smartwindow-onboarding-memories-label = Wybierz, w jaki sposób { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") } ma Cię poznawać
+smartwindow-onboarding-memories-description = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } może uczyć się z rozmów, przeglądania Internetu lub obu tych rzeczy, aby tworzyć zapamiętane treści. Dzięki nim odpowiedzi z czasem stają się bardziej zindywidualizowane.
+smartwindow-onboarding-memories-both = Rozmowy i przeglądanie Internetu
+smartwindow-onboarding-memories-browsing = Tylko przeglądanie Internetu
+smartwindow-onboarding-memories-chats = Tylko rozmowy
+smartwindow-onboarding-memories-none = Nie ucz się z działań użytkownika
