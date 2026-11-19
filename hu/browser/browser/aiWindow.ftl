@@ -121,10 +121,22 @@ aiwindow-input-model-select-button-label-fast = Gyors
 aiwindow-input-model-select-button-label-allpurpose = Rugalmas
 aiwindow-input-model-select-button-label-personal = Személyes
 aiwindow-input-model-select-button-label-custom = Egyéni
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatikus
 aiwindow-input-model-select-default-badge =
     .label = Alapértelmezett
     .title = A kiválasztott alapértelmezett modell
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Ajánlott
+    .title = Az ajánlott modell
 aiwindow-input-model-select-settings-link = Modellbeállítások
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = Az { -smart-window-brand-name(case: "lower") } választja ki a feladatához legjobban megfelelő modellt
 
 ## Firstrun memories onboarding
 
