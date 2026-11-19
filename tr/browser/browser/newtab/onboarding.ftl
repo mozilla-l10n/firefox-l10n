@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = { $addon-name } uzantısını ekle
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = İlerleme: adım { $current } / { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -222,6 +228,11 @@ mr2022-onboarding-set-default-subtitle = Kâr amacı gütmeyen bir tarayıcıyla
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Yeni sürümümüz web’de gezinmenizi daha da kolaylaştıracak özelliklerle dolu.
 mr2022-onboarding-get-started-primary-button-label = Ayarlamaya başla
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -650,6 +661,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Yerleşik korumayı telefonunuzda da kullanın
 hnt-card-mobile-body = Her yerde daha fazla gizlilik için { -brand-product-name } mobil uygulamasını indirin.
+hnt-card-mobile-primary-button2 = Mobil cihazlar için { -brand-product-name }’u indirin
 hnt-card-mobile-primary-button = Mobil cihazlar için { -brand-product-name }’u indirin.
 hnt-card-wallpaper-header = Yeni bir duvar kâğıdı seçin
 hnt-card-wallpaper-body = Sevdiğiniz bir arka planla bu ekranı kendinize ait hissedin.
