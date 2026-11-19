@@ -9,6 +9,9 @@ dialog-button-accept =
     .label = Tamam
 dialog-button-cancel =
     .label = Vazgeç
+dialog-button-disclosure =
+    .label = Tafsilâtlı Malümat
+    .accesskey = M
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
