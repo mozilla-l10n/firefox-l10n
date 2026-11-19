@@ -62,6 +62,12 @@ warn-disk-space =
     Kgotla go lokile bakeng sa go kgetha lefelo le fapanego.
 warn-restart-required-uninstall = Khomphutha ya gago e swanetše go thongwa ka leswa gore o phethe go ntšha { $BrandShortName } ga nakong e fetilego. Na o nyaka go e thoma gape gona bjale?
 warn-restart-required-upgrade = Khomphutha ya gago e swanetše go thongwa ka leswa gore o phethe go kaonafatša { $BrandShortName } ga nakong e fetilego. Na o nyaka go e thoma gape gona bjale?
+error-create-directory-prefix = Phošo ya go hlola tšhupetšo:
+error-create-directory-suffix =
+    Kgotla khansela go emiša go lokela goba
+    'Leka gape' gore o leke gape.
+un-confirm-page-title = Ntšha { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } e tla ntšhwa lefelong leo le latelago:
 banner-check-existing = Go lekola go lokela mo go lego gona…
 status-install-app = Go lokela { $BrandShortName }…
 status-uninstall-main = Go ntšha { $BrandShortName }…
