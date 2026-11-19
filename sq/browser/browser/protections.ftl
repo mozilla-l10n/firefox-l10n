@@ -168,40 +168,40 @@ monitor-resolve-breaches-link = Zgjidhni Cenime
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Gjurmues Prej Mediash Shoqërore
     .aria-label =
         { $count ->
             [one] { $count } gjurmues prej mediash shoqërore ({ $percentage }%)
            *[other] { $count } gjurmues prej mediash shoqërore ({ $percentage }%)
         }
+    .title = Gjurmues Prej Mediash Shoqërore
 bar-tooltip-cookie =
-    .title = “Cookies” Gjurmimi Nga Sajte Në Sajte
     .aria-label =
         { $count ->
             [one] { $count } “cookie” gjurmimi nga sajte në sajte ({ $percentage }%)
            *[other] { $count } “cookies” gjurmimi nga sajte në sajte ({ $percentage }%)
         }
+    .title = “Cookies” Gjurmimi Nga Sajte Në Sajte
 bar-tooltip-tracker =
-    .title = Lëndë Gjurmimi
     .aria-label =
         { $count ->
             [one] { $count } lëndë gjurmimi ({ $percentage }%)
            *[other] { $count } lëndë gjurmimi ({ $percentage }%)
         }
+    .title = Lëndë Gjurmimi
 bar-tooltip-fingerprinter =
-    .title = Krijues shenjash gishtash
     .aria-label =
         { $count ->
             [one] { $count } krijues shenjash gishtash ({ $percentage }%)
            *[other] { $count } krijues shenjash gishtash ({ $percentage }%)
         }
+    .title = Krijues shenjash gishtash
 bar-tooltip-cryptominer =
-    .title = Nxjerrës kriptomonedhash
     .aria-label =
         { $count ->
             [one] { $count } nxjerrës kriptomonedhash ({ $percentage }%)
            *[other] { $count } nxjerrës kriptomonedhash ({ $percentage }%)
         }
+    .title = Nxjerrës kriptomonedhash
 # Privacy Metrics Card
 privacy-metrics-title = Mbrojtje Privatësie
 # Variables:
@@ -243,3 +243,16 @@ privacy-metrics-empty = S’ka gjurmues të bllokuar këtë javë. { -brand-shor
 privacy-metrics-loading = Po ngarkohen statistika mbrojtjeje…
 privacy-metrics-error = S’arrihet të ngarkohen statistika mbrojtjeje.
 privacy-metrics-private-window = { -brand-short-name } vazhdon të bllokojë gjurmues në Dritare Private, por s’mban ndonjë regjistër se ç’është bllokuar.
+
+## VPN promo card and banner
+
+protections-vpn-title = Merrini mbrojtjet e privatësisë tej shfletuesit
+protections-vpn-header-content = Mbroni krejt pajisjen tuaj me { -mozilla-vpn-brand-name }. Një prekje fshehtëzon krejt trafikun dhe fsheh vendndodhjen tuaj.
+protections-get-vpn-link = Merrni { -mozilla-vpn-brand-name }
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] Përdorimi i { -mozilla-vpn-brand-name }-së fshehtëzon krejt trafikun tuyaj dhe fsheh vendndodhjen tuaj — në deri { $count } pajisje. Përfitoni maksimumin nga pajtimi juaj — shtojeni që nga <a data-l10n-name="playstore-link">Google Play Store</a>, ose <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Mbrojtje që shtrihet tej shfletuesin

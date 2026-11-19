@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Fshije
+edit-profile-page-avatar-selector-opener-button =
+    .title = Përpunoni avatar
 edit-profile-page-avatar-selector-opener-link = Përpunoni
 avatar-selector-icon-tab = Ikonë
 avatar-selector-custom-tab = Vetjake
@@ -53,6 +55,11 @@ avatar-selector-upload-file = Ngarkoni kartelë
 avatar-selector-drag-file = Ose tërhiqni këtu një kartelë
 avatar-selector-add-image = Shtoni figurë
 avatar-selector-crop = Qethe
+avatar-selector-dialog =
+    .aria-label = Përpunoni Avatar
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Zgjidhni një avatar
 edit-profile-page-no-name = I vini emër këtij profili, për t’ju ndihmuar ta gjeni më vonë. Riemërtojeni kur të doni.
 edit-profile-page-duplicate-name = Emër profili tashmë në përdorim. Provoni me një emër të ri.
 edit-profile-page-profile-saved = U ruajt
@@ -64,6 +71,9 @@ new-profile-page-input-placeholder =
     .placeholder = Zgjidhni një emër, fjala vjen, “Pune”, ose “Personal”
 new-profile-page-done-button =
     .label = Mbaroi përpunimi
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Kopja juaj e “{ $profilename }” është gati për ta përshtatur
 copied-profile-page-header-description = Kopjuam në një profil të ri të dhënat tuaja dhe rregullimet. Tani jepini një emër, zgjidhni një pamje dhe bëjeni tuajin.
 restored-profile-page-header = Përshtatni profilin tuaj të rikthyer
 restored-profile-page-header-description = Çdo profil mban ndarazi nga profilet tuaj të tjerë historikun e vet unik të shfletimeve dhe rregullimet. Plus, mbrojtjet e fuqishme të privatësisë nga { -brand-short-name }-i janë aktive, si parazgjedhje.
@@ -89,6 +99,9 @@ delete-profile-logins = Fjalëkalime
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Fshije profilin “{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Të fshihet profili “{ $profilename }”?
 
 ##
 

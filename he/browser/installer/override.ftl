@@ -29,9 +29,9 @@ nsis-accept-btn = אני מקבל את התנאים בהסכם הרישיון
     .accesskey = a
 nsis-dont-accept-btn = אני לא מקבל את התנאים בהסכם הרישיון
     .accesskey = d
-nsis-install-btn = התקן
+nsis-install-btn = התקנה
     .accesskey = I
-nsis-uninstall-btn = הסר
+nsis-uninstall-btn = הסרה
     .accesskey = U
 nsis-cancel-btn = ביטול
 nsis-close-btn = סגירה
@@ -40,16 +40,16 @@ nsis-browse-btn = עיון…
     .accesskey = ע
 nsis-show-details-btn = הצגת פרטים
     .accesskey = d
-nsis-click-next = לחץ על הבא להמשך.
-nsis-click-install = לחץ על התקן כדי להתחיל את ההתקנה.
-nsis-click-uninstall = לחץ על הסר כדי להתחיל את ההסרה.
+nsis-click-next = יש ללחוץ על הבא כדי להמשיך.
+nsis-click-install = יש ללחוץ על התקנה כדי להתחיל את ההתקנה.
+nsis-click-uninstall = יש ללחוץ על הסרה כדי להתחיל את ההסרה.
 nsis-completed = הושלם
 nsis-license-text-rb = נא לעבור על תנאי הרישיון לפני ההתקנה של { $BrandFullNameDA }. אם כל תנאי ההסכם מקובלים עליך, יש לבחור באפשרות הראשונה למטה. { $ClickInstructions }
-nsis-components-text = סמן את הרכיבים שברצונך להתקין ובטל את הסימון מהרכיבים שאין ברצונך להתקין. { $ClickInstructions }
-nsis-components-sub-text2-no-inst-types = בחר רכיבים להתקנה:
-nsis-dir-text = תוכנית ההתקנה תתקין את { $BrandFullNameDA } בתיקייה הבאה. כדי להתקין בתיקייה אחרת, לחץ על עיון ובחר תיקייה אחרת. { $ClickInstructions }
+nsis-components-text = יש לסמן את הרכיבים שברצונך להתקין ולבטל את הסימון מהרכיבים שאין ברצונך להתקין. { $ClickInstructions }
+nsis-components-sub-text2-no-inst-types = בחירת רכיבים להתקנה:
+nsis-dir-text = תוכנית ההתקנה תתקין את { $BrandFullNameDA } בתיקייה הבאה. כדי להתקין בתיקייה אחרת, יש ללחוץ על עיון ולבחור תיקייה אחרת. { $ClickInstructions }
 nsis-dir-sub-text = תיקיית יעד
-nsis-dir-browse-text = בחר את התיקייה שבה { $BrandFullNameDA } יותקן:
+nsis-dir-browse-text = נא לבחור בתיקייה שבה { $BrandFullNameDA } יותקן:
 nsis-space-available = מקום פנוי:{ " " }
 nsis-space-required = מקום נדרש:{ " " }
 nsis-uninstalling-text = { $BrandFullNameDA } יוסר מהתיקייה הבאה. { $ClickInstructions }
@@ -59,7 +59,7 @@ nsis-file-error =
     
     { $FilePath }
     
-    לחץ על ביטול כדי לעצור את ההתקנה,
+    יש ללחוץ על ביטול כדי לעצור את ההתקנה,
      נסה שנית כדי לנסות שוב, או
     התעלם כדי לדלג על קובץ זה.
 nsis-file-error-no-ignore =

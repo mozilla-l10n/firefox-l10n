@@ -2272,8 +2272,16 @@ preferences-etp-custom-cookie-behavior-accept-all =
     .label = Lejo krejt cookie-t
 preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
     .label = Blloko cookie-s që ndjekin nga sajti në sajt
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Blloko cookie-t për gjurmim nga sajti në sajt
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Izoloni “cookies” gjurmimi nga sajti në sajt
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Blloko cooki-et nga sajte të padëshiruar
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Blloko krejt cookie-t për gjurmim nga sajti në sajt (mund të shkaktojë mosfunksionim të disa sajteve)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = Blloko krejt cookie-t (mund të sjellë mosfunksionim sajtesh)
 preferences-etp-custom-tracking-protection-enabled =
     .label = Lëndë gjurmimi
 preferences-etp-custom-tracking-protection-enabled-context =
@@ -2307,6 +2315,9 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .description = Ekspozimi juaj ndaj mashtrimesh dhe malware-i nga sajte është rritur.
     .label = Lëndë e rrezikshme dhe mashtruese nuk bllokohet
+security-privacy-issue-warning-doh2 =
+    .description = DNS përmes HTTPS-je ndihmon t’i fshihet shërbimit tuaj internet cilët sajte jeni gati për të vizituar.
+    .label = DNS përmes HTTPS-je është e çaktivizuar
 security-privacy-issue-warning-doh =
     .description = DNS përmes HTTPS-je i fsheh shërbimit tuaj të internetit ç’sajte vizitoni.
     .label = DNS përmes HTTPS-je është e çaktivizuar
@@ -2316,3 +2327,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = Vetëformësimi i ndërmjetësit mund të lejonte rrjete jo të besueshëm të mbikëqyrin veprimtarinë tuaj.
     .label = Vetëformësimi i ndërmjetësit është i aktivizuar
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .description = Ftoni dikë të zgjedhë shfletuesin që vë privatësinë të parën.
+    .label = Jepuani { -brand-product-name }-in të tjerëve
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Jepuani { -brand-product-name }-in të tjerëve
