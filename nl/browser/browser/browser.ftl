@@ -1314,7 +1314,7 @@ plugin-crashed-notification-submit-button =
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
 safebrowsing-deceptive-site-message = Misleidende website!
-safebrowsing-reported-attack-site-message = Gerapporteerde aanvalsite!
+safebrowsing-reported-attack-site-message = Gerapporteerde aanvalswebsite!
 safebrowsing-reported-unwanted-site-message = Gerapporteerde website met ongewenste software!
 safebrowsing-reported-harmful-site-message = Gerapporteerde schadelijke website!
 safebrowsing-get-me-out-of-here-button =
@@ -1324,7 +1324,7 @@ safebrowsing-not-a-deceptive-site-button =
     .label = Dit is geen misleidende website…
     .accesskey = m
 safebrowsing-not-an-attack-site-button =
-    .label = Dit is geen aanvalsite…
+    .label = Dit is geen aanvalswebsite…
     .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
