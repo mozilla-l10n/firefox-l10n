@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = VPN ansluter…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Stäng av
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = Obegränsad bandbredd tills { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Obegränsad bandbredd
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -253,6 +260,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Närmar dig din VPN-gräns
     .message = Du har { $usageLeft } MB av { $maxUsage } GB kvar denna månad.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Du har { $additionalLocationsCount } ytterligare VPN-plats
+           *[other] Du har { $additionalLocationsCount } VPN-platser till
+        }
+    .message = Tack för att du gjorde { -brand-short-name } till din standard. Vi har lagt till fler platser du kan bläddra bland.
 ipprotection-message-continuous-onboarding-intro = Aktivera VPN för att dölja din plats och lägg till extra kryptering till din surfning.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ställ in VPN så att den slås på</a> varje gång du öppnar { -brand-short-name } för ett extra lager av skydd.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } kommer ihåg vilka webbplatser du har ställt in för att använda VPN. Uppdatera dessa i <a data-l10n-name="setting-link">inställningarna</a> när som helst.
