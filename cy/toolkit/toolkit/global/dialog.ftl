@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Iawn
+dialog-button-cancel =
+    .label = Diddymu
+dialog-button-disclosure =
+    .label = Rhagor o Wybodaeth
+    .accesskey = D
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
