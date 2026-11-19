@@ -106,5 +106,5 @@ option-custom-desc = באפשרותך לבחור אפשרויות בודדות �
 option-custom-radio = מותאמת אישית
     .accesskey = C
 # This text replaces the Install button text on the summary page.
-upgrade-button = שדרג
+upgrade-button = שדרוג
     .accesskey = U

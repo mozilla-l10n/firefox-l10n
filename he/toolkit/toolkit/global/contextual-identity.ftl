@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = נקודה
 user-context-icon-fence =
     .label = גדר
+user-context-icon-robot =
+    .label = רובוט

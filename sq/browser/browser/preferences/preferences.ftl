@@ -1024,11 +1024,43 @@ containers-list =
 containers-new-tab-check3 =
     .label = Përzgjidhni një kontejner për çdo skedë të re
     .accesskey = P
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Mos përdor kontejnerë për lidhje të hapura nga aplikacione të jashtëm
+    .accesskey = M
+containers-new-tab-check2 =
+    .description = Kjo do të hapë menunë e kontejnerëve sa herë që shtypni butonin “Hap skedë të re”.
+    .label = Përzgjidhni një kontejner për secilën skedë të re
+    .accesskey = z
+containers-settings-button2 =
+    .title = Rregullime
+containers-remove-button3 =
+    .title = Fshije
+containers-sites-add-button =
+    .label = Shtoni sajt
+    .accesskey = S
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontejner për { $site }
+containers-site-remove-button =
+    .title = Fshije
+containers-remove-button2 =
+    .title = Hiqe
 
 ## Account and sync
 
 sync-group-label =
     .label = Sync
+account-group-label2 =
+    .label = Llogari
+account-disabled-group =
+    .description = S’mund të kihet rregullimet për llogarinë
+    .label = Llogari
+account-sync-section =
+    .heading = Llogari dhe njëkohësim
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2072,6 +2104,8 @@ related-settings-group =
     .label = Rregullime të afërta
 related-settings-home-link =
     .label = Përshtatni { -firefox-home-brand-name }-in
+related-settings-tabs-browsing-link =
+    .label = Përshtatni skemë shfletuesi
 
 ## AI controls page
 
@@ -2098,6 +2132,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .description = Shihni një përmbledhje të shpejtë, para se të hapni një lidhje.
     .label = Pika kyçe në paraparje lidhjesh
+preferences-ai-controls-speech-recognition-control =
+    .description = Transkriptoni lokalisht të folur
+    .label = Njohe të foluri
 preferences-ai-controls-sidebar-chatbot-group =
     .description = Mbani hapur një robot fjalosjesh, teksa shfletoni. Zgjidhni një nga Anthropic Claude, ChatGTP, Copilot, Google Gemini dhe Le Chat Mistral.
     .label = Shërbime robotësh fjalosjesh IA në anështyllë
@@ -2124,6 +2161,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Tekst alternativ figurash në
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugjerime për grupe skedash
 preferences-ai-controls-block-confirmation-key-points = Pika kyçe në paraparje lidhjesh
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Shërbime robotësh fjalosjesh në anështyllë
+preferences-ai-controls-block-confirmation-speech-recognition = Njohje të folure
 preferences-ai-controls-block-confirmation-features-after = Bllokimi prek gjithashtu zgjerime që përdorin IA të dhënë nga { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Anuloje
@@ -2190,6 +2228,8 @@ preferences-etp-level-custom =
     .label = Vetjake
 preferences-etp-status-advanced-button =
     .label = Rregullime të mëtejshme
+preferences-etp-tracker-count-enabled =
+    .label = Shfaq te shtylla e adresave gjurmues të bllokuar
 preferences-etp-status-protections-dashboard-link =
     .description = Shihni se sa gjurmues të shpifur ka bllokuar { -brand-short-name }-i për ju, përfshi gjurmues mediash shoqërore, krijues shenja gishtash dhe nxjerrës kriptomonedhash.
     .label = Shihni pultin tuaj të personalizuar të mbrojtjeve
@@ -2230,6 +2270,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Lejo krejt cookie-t
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = Blloko cookie-s që ndjekin nga sajti në sajt
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Izoloni “cookies” gjurmimi nga sajti në sajt
 preferences-etp-custom-tracking-protection-enabled =
