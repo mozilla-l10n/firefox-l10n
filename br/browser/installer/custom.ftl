@@ -49,3 +49,61 @@ icons-startmenu = E-barzh teuliad Arloadoù al lañser Loc'hañ
     .accesskey = A
 icons-taskbar = War ma barrenn drevelloù
     .accesskey = b
+warn-manually-close-app-install =
+    { $BrandShortName } a rank bezañ serret evit kregiñ ar staliadur.
+    
+    Mar plij, serrit { $BrandShortName } evit kenderc'hel.
+warn-manually-close-app-uninstall =
+    { $BrandShortName } a rank bezañ serret evit kregiñ an distaliadur.
+    
+    Mar plij, serrit { $BrandShortName } evit kenderc'hel.
+warn-manually-close-app-refresh =
+    { $BrandShortName } a rank bezañ lazhet evit kas da benn an argerzh freskaat.
+    
+    Serrit { $BrandShortName } da genderc'hel ganti mar plij.
+warn-write-access =
+    N'oc'h ket aotreet da skrivañ d'ar c'havlec'h staliadur.
+    
+    Klikit war "Mat eo" evit dibab ur c'havlec'h all.
+warn-disk-space =
+    N'eus ket trawalc'h a egor diac'hub evit staliañ e-barzh al lec'hiadur-mañ.
+    
+    Klikit war "Mat eo" evit dibab ul lec'hiadur all.
+warn-min-supported-osver-msg = Digarezit, n'haller ket staliañ { $BrandShortName }. { $MinSupportedVer } pe nevesoc'h a ranker kaout evit { $BrandShortName }. Klikit war an afell OK evit kaout titouroù ouzhpenn.
+warn-min-supported-cpu-msg = Digarezit, n'hall ket bezañ staliet { $BrandShortName };. Handelv-mañ { $BrandShortName } a azgoulenn ur c'hewerier gant { $MinSupportedCPU }. Klikit war an afell OK evit kaout titouroù ouzhpenn.
+warn-min-supported-osver-cpu-msg = Digarezit, n'hall ket bezañ staliet { $BrandShortName };. Handelv-mañ { $BrandShortName } a azgoulenn { $MinSupportedVer } pe nevesoc'h hag ur c'hewerier gant { $MinSupportedCPU }. Klikit war an afell OK evit kaout titouroù ouzhpenn.
+warn-restart-required-uninstall = Hoc'h urzhiater a rank bezañ adloc'het evit echuiñ un distaliadur diaraok eus { $BrandShortName }. Fellout a ra deoc'h adloc'hañ bremañ?
+warn-restart-required-upgrade = Hoc'h urzhiater a rank bezañ adloc'het evit echuiñ un hizivadur diaraok eus { $BrandShortName }. Fellout a ra deoc'h adloc'hañ bremañ?
+error-create-directory-prefix = Fazi o krouiñ ur c'havlec'h:
+error-create-directory-suffix =
+    Klikit war Nullañ evit paouez ar staliadur pe
+    Klask en-dro evit klask en-dro.
+un-confirm-page-title = Distaliañ { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } a vo distaliet eus al lec'hiadur da-heul:
+un-refresh-page-title = Freskaat { $BrandShortName } mod-all?
+un-refresh-page-explanation =
+    M'ho peus kudennoù gant { $BrandShortName }, freskaat a c'hall sikour.
+    
+    Adsevel a raio an arventennoù dre ziouer ha dilam a raio an askouezhioù. Bezit fresk ganti evit kaout askoradoù eus ar c'hentañ.
+un-refresh-learn-more = Gouzout hiroc'h
+    .accesskey = G
+un-refresh-button = Azbevaat { $BrandShortName };
+    .accesskey = A
+banner-check-existing = O wiriañ bezañs ur staliadur all
+status-install-app = O staliañ { $BrandShortName }
+status-uninstall-main = O tistaliañ { $BrandShortName }
+status-cleanup = Un tamm kempenn
+un-survey-checkbox-label = Lârit da vMozilla perak ho peus distaliet { $BrandShortName }
+# This string should fit in one line (approximately 65 characters).
+options-summary = Dibabit ar seurt staliadur a fell deoc'h, ha klikit war War-lerc'h.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } a vo staliet gant an dibarzhioù skoueriek.
+option-standard-radio = Skoueriek
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Gallout a rit dibab an dibarzhioù da staliañ. Erbedet evit an arveriaded gant skiant-prenet.
+option-custom-radio = Personelaet
+    .accesskey = P
+# This text replaces the Install button text on the summary page.
+upgrade-button = Hizivaat
+    .accesskey = H
