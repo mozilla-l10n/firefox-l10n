@@ -27,17 +27,13 @@ context-safe-mode = { $BrandShortName } in modalitate secur
     .accesskey = s
 options-page-title = Typo de installation
 options-page-subtitle = Eliger le optiones de installation
-shortcuts-page-title = Definition del accessos directe
 shortcuts-page-subtitle = Crear le icones de programma
 components-page-title = Installation del componentes optional
 components-page-subtitle = Componentes optional recommendate
-optional-components-desc = Le servicio de mantenimento te permittera de actualisar silentiosemente { $BrandShortName } in le fundo.
-maintenance-service-checkbox-desc = Installar le servicio de mantenimento
-    .accesskey = m
 summary-page-title = Summario
 summary-page-subtitle = Preste pro installar { $BrandShortName }
 summary-installed-to = { $BrandShortName } sera installate in le position sequente:
-summary-reboot-required-install = Pote esser necessari reinitialisar tu computator pro clauder le installation.
+summary-reboot-required-install = Pote esser necessari reinitialisar tu computator pro completar le installation.
 summary-reboot-required-uninstall = Pote esser necessari reinitisisar tu computator pro completar le disinstallation.
 summary-install-click = Clicca sur Installar pro continuar.
 summary-upgrade-click = Clicca sur Actualisar pro continuar.
@@ -46,14 +42,14 @@ launch-text = Lancear { $BrandShortName } ora
 create-icons-desc = Crear icones pro { $BrandShortName }:
 icons-desktop = Sur mi scriptorio
     .accesskey = s
-icons-startmenu = In le dossier Programmas de mi menu Initiar
+icons-startmenu = In le  plica Programmas de mi menu Initial
     .accesskey = I
 icons-taskbar = In le barra del applicationes
     .accesskey = a
 warn-manually-close-app-install =
-    { $BrandShortName } debe ser claudite pro proceder con le installation.
+    { $BrandShortName } debe esser claudite pro proceder con le installation.
     
-    Per favor claude { $BrandShortName } pro continuar.
+    Claude { $BrandShortName } pro continuar.
 warn-manually-close-app-uninstall =
     { $BrandShortName } debe ser claudite pro proceder con le disinstallation.
     
