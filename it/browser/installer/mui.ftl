@@ -15,6 +15,12 @@
 ##   $BrandFullNameDA (String) - The full brand name, with any ampersand doubled so that it isn’t used as an accesskey.
 ##   $ClickInstructions (String) - The instructions to proceed to the next step of the wizard (e.g. “Click Next to continue.”).
 
+mui-text-welcome-info-text =
+    Questa procedura guidata installerà { $BrandFullNameDA }.
+    
+    Prima di procedere con l’installazione si raccomanda di chiudere tutte le applicazioni sul computer. Sarà così possibile aggiornare i componenti del sistema senza dover successivamente riavviare il computer.
+    
+    { $ClickInstructions }
 mui-text-components-title = Scelta dei componenti
 mui-text-components-subtitle = Scegliere quali caratteristiche di { $BrandFullNameDA } si desidera installare.
 mui-innertext-components-description-title = Descrizione
