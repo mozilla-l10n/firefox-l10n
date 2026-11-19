@@ -98,3 +98,7 @@ nsis-rename = Nav Biguherîne:{ " " }
 nsis-skipped = Derbas bû:{ " " }
 nsis-copy-details = Kîtekîtan Di Clipboardê de Tomar Bike
 nsis-log-install = Tomara pêşdeçûna sazbûnê
+nsis-byte = g
+nsis-kilo = K
+nsis-mega = r
+nsis-giga = g
