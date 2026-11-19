@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = OK
+dialog-button-cancel =
+    .label = Ακύρωση
+dialog-button-disclosure =
+    .label = Περισσότερες πληροφορίες
+    .accesskey = Π
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
