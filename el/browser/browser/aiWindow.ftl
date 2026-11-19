@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Γρήγορο
 aiwindow-input-model-select-button-label-allpurpose = Ευέλικτο
 aiwindow-input-model-select-button-label-personal = Προσωπικό
 aiwindow-input-model-select-button-label-custom = Προσαρμοσμένο
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Αυτόματα
 aiwindow-input-model-select-default-badge =
     .label = Προεπιλεγμένο
     .title = Το προεπιλεγμένο μοντέλο
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Προτεινόμενο
+    .title = Το προτεινόμενο μοντέλο
 aiwindow-input-model-select-settings-link = Ρυθμίσεις μοντέλου
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = Το { -smart-window-brand-name } επιλέγει το καταλληλότερο μοντέλο για την εργασία σας
+aiwindow-input-model-select-fast-description = Γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία
+aiwindow-input-model-select-flexible-description = Έτοιμο για μια ποικιλία εργασιών
+aiwindow-input-model-select-personal-description = Ιδανικό αν συνομιλείτε και περιηγείστε σε πολλαπλές γλώσσες.
 
 ## Firstrun memories onboarding
 
@@ -367,11 +382,14 @@ aiwindow-starter-dismiss =
 ## Single-page onboarding
 
 smartwindow-onboarding-title = Ας το κάνουμε δικό σας
+smartwindow-onboarding-subtitle = Ρυθμίστε το { -smart-window-brand-name } όπως σας αρέσει. Πραγματοποιήστε αλλαγές ανά πάσα στιγμή στις ρυθμίσεις.
 smartwindow-onboarding-model-label = Επιλέξτε το μοντέλο ΤΝ σας
+smartwindow-onboarding-model-description = Το μοντέλο επιτρέπει τη λειτουργία των συνομιλιών και των ενεργειών στο { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Αυτόματα
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Προτεινόμενο
-smartwindow-onboarding-model-mistral-description = Ιδανικό για συνομιλία και περιήγηση σε πολλές γλώσσες
+smartwindow-onboarding-model-auto-description = Το { -smart-window-brand-name } επιλέγει το καταλληλότερο μοντέλο για την εργασία σας
+smartwindow-onboarding-model-mistral-description = Ιδανικό αν συνομιλείτε και περιηγείστε σε πολλαπλές γλώσσες
 smartwindow-onboarding-model-gemini-description = Γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία
 smartwindow-onboarding-memories-both = Συνομιλίες και περιήγηση
 smartwindow-onboarding-memories-browsing = Μόνο περιήγηση

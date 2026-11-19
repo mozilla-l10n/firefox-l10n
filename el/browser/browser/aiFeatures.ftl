@@ -38,6 +38,9 @@ smart-window-model-section-v2 =
 smart-window-model-radio-group =
     .aria-label = Μοντέλο βοηθού
 smart-window-model-learn-link = Μάθετε για τα μοντέλα
+smart-window-model-auto =
+    .description = Το { -smart-window-brand-name } επιλέγει το καταλληλότερο μοντέλο για την εργασία σας
+    .label = Αυτόματη επιλογή μοντέλου
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -62,6 +65,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Οι λεπτομέρειες του μοντέλου αποθηκεύτηκαν. Ξεκινήστε μια νέα συνομιλία για να το δοκιμάσετε.
 ai-window-memories-section =
     .description = Το { -brand-short-name } μπορεί να μαθαίνει από τη δραστηριότητά σας για να δημιουργεί αναμνήσεις. Αυτές χρησιμοποιούνται για την καλύτερη εξατομίκευση των απαντήσεων και αποθηκεύονται τοπικά, σε αυτήν τη συσκευή.
+    .label = Αναμνήσεις
+ai-window-memories-section-v2 =
+    .description = Το { -brand-short-name } μπορεί να μαθαίνει από τη δραστηριότητά σας για να δημιουργεί αναμνήσεις. Αυτές χρησιμοποιούνται για την προσαρμογή της εμπειρίας σας και αποθηκεύονται τοπικά στη συσκευή σας.
     .label = Αναμνήσεις
 ai-window-learn-from-chat-activity =
     .label = Εκμάθηση από τις συνομιλίες στο { -smart-window-brand-name(form: "lowerSingularNom") }
@@ -100,3 +106,12 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Σχεδιασμένο για εξατομικευμένη βοήθεια σε όλες τις γλώσσες. Πλήρες όνομα: { $model } από { $ownerName }
     .label = { $shortName }: Προσωπικό
+smart-window-model-qwen =
+    .description = Έτοιμο για μια ποικιλία εργασιών. Πλήρες όνομα: { $model } από την { $ownerName }
+    .label = { $shortName }
+smart-window-model-mistral =
+    .description = Ιδανικό αν συνομιλείτε και περιηγείστε σε πολλαπλές γλώσσες. Πλήρες όνομα: { $model } από την { $ownerName }
+    .label = { $shortName }
+smart-window-model-gemini =
+    .description = Γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία. Πλήρες όνομα: { $model } από την { $ownerName }
+    .label = { $shortName }
