@@ -182,6 +182,12 @@ action-log-completed-steps =
         [one] U plotësua 1 step
        *[other] U plotësuan { $count } hapa
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = U zgjodh model për punën: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Po vendoset për modelin më të mirë
 
 ## Assistant Loader
 

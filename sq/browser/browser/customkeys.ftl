@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Kalo te Skeda 8
 customkeys-nav-select-last-tab = Kalo te Skeda e Fundit
 customkeys-nav-toggle-mute = Heshto/Çheshto Audion
 customkeys-edit-find-previous = Gjej të Mëparshmin
+customkeys-edit-find-selection = Për Gjetje përdor Përzgjedhjen
 customkeys-tools-screenshot = Bëni një Foto Ekrani
 customkeys-category-navigation-2 =
     .heading = Lëvizje

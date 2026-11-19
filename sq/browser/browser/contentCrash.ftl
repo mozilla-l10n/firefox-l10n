@@ -34,3 +34,10 @@ requested-crash-reports-message-new =
 requested-crash-reports-dont-show-again =
     .label = Mos e shfaq sërish
     .accesskey = M
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Keni një njoftim vithisjeje të padërguar së fundi
+       *[other] Keni { $reportCount } njoftime vithisjesh të padërguar së fundi
+    }

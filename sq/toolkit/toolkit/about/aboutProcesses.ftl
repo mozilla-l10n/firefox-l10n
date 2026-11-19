@@ -152,6 +152,14 @@ about-processes-bulk-selected-count =
         [one] { $count } skedë e përzgjedhur
        *[other] { $count } skeda të përzgjedhura
     }
+# Shown next to a site’s label in a group header row.
+# Variables:
+#   $count (Number) The number of tabs in the site group.
+about-processes-site-tab-count =
+    { $count ->
+        [one] ({ $count } skedë)
+       *[other] ({ $count } skeda)
+    }
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
