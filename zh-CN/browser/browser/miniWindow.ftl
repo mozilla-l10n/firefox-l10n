@@ -71,5 +71,9 @@ mini-window-overlay-instructions = 拖动或点击以选择区域，并移至迷
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = 选择移至迷你窗口的区域
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = 页面区域
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = 整个页面
 mini-window-panel-move-selection = 所选区域
 mini-window-panel-move-full-tab = 整个标签页

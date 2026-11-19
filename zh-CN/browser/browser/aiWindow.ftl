@@ -102,7 +102,7 @@ aiwindow-firstrun-model-fast-label-v2 = 快速：{ $shortName }
 aiwindow-firstrun-model-fast-body-v2 = 最适合日常快速对话
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = 灵活：{ $shortName }
-aiwindow-firstrun-model-flexible-body = 各种任务都能应对
+aiwindow-firstrun-model-flexible-body = 可应对各式任务
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = 推荐
 # $shortName (string) - The short name of the model version
@@ -122,6 +122,11 @@ aiwindow-input-model-select-default-badge =
     .label = 默认
     .title = 已选择的默认模型
 aiwindow-input-model-select-settings-link = 模型设置
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-flexible-description = 可应对各式任务
 
 ## Firstrun memories onboarding
 
