@@ -27,3 +27,7 @@ nsis-uninstalling-text = { $BrandFullNameDA } veni sdisinzitatu di stu locu. { $
 nsis-uninstalling-sub-text = Staju sdisinzitannu di:
 nsis-created-uninstaller = Criazzioni dû prugramma di sdisinzitamentu:{ " " }
 nsis-delete = Scancella pricu:{ " " }
+nsis-byte = B
+nsis-kilo = K
+nsis-mega = M
+nsis-giga = G
