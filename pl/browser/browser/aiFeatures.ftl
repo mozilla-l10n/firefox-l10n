@@ -109,3 +109,6 @@ smart-window-model-qwen =
 smart-window-model-mistral =
     .description = Dobry do rozmawiania i przeglądania w wielu językach. Pełna nazwa: { $model } od firmy { $ownerName }
     .label = { $shortName }
+smart-window-model-gemini =
+    .description = Szybkie odpowiedzi, gdy się spieszysz. Pełna nazwa: { $model } od firmy { $ownerName }
+    .label = { $shortName }

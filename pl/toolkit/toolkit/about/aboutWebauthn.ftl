@@ -33,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Nie można zarządzać opcjami, ponieważ
 about-webauthn-text-not-available = Niedostępne dla tego systemu.
 about-webauthn-bio-enrollment-list-subsection-title = Rejestracje:
 about-webauthn-add-bio-enrollment-section-title = Dodaj nową rejestrację
+about-webauthn-logging-warning = Dziennik może zawierać dane osobowe, np. nazwy użytkowników, identyfikatory kont i adresy witryn. Sprawdź go przed udostępnieniem.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Rejestrowane są tylko żądania do natywnej implementacji CTAP { -brand-short-name(case: "gen") }. Żądania do systemowych API WebAuthn ani rozszerzeń przeglądarki nie są rejestrowane.
 
 ## Results label
 
