@@ -9,6 +9,9 @@ dialog-button-accept =
     .label = OK
 dialog-button-cancel =
     .label = Twa-mu
+dialog-button-disclosure =
+    .label = Info Bio
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
@@ -21,6 +24,9 @@ dialog-button-no =
 dialog-button-save =
     .label = Sie
     .accesskey = S
+dialog-button-dont-save =
+    .label = Mma ennsie
+    .accesskey = n
 dialog-button-revert =
     .label = San
     .accesskey = n
