@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Kropka
 user-context-icon-fence =
     .label = Płotek
+user-context-icon-robot =
+    .label = Robot
