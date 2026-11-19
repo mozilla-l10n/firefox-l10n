@@ -7,6 +7,16 @@
 
 smartbar-mentions-list-tab-groups-label = Azken taldeak
 
+## These are labels describing model types in the smartbar model select.
+
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatikoa
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Gomendatua
+    .title = Gomendatutako eredua
+
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 

@@ -190,6 +190,7 @@ ipprotection-button-turn-vpn-off-1 = Desaktibatu
 # Variables
 #   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
 ipprotection-unlimited-bandwidth-promo = Banda-zabalera mugagabea { DATETIME($endDate, day: "numeric", month: "long") } arte
+ipprotection-unlimited-bandwidth-upgraded = Banda-zabalera mugagabea
 
 ## Location controls
 

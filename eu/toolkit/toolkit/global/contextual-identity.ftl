@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Puntua
 user-context-icon-fence =
     .label = Hesia
+user-context-icon-robot =
+    .label = Robota
