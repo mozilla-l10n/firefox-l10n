@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = Embojuaju { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Jeku’e: jeguata { $current } { $total } rehegua
 # This button will open system settings to turn on prefers-reduced-motion
@@ -222,6 +228,11 @@ mr2022-onboarding-set-default-subtitle = Eiporu peteĩ kundahára atyguasu viru�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Ore rembiapo ipyahuvéva rojapo ndéve g̃uarã, eikundaha hag̃ua apañuai’ỹre. Oreko heta tembiapoite ro’éva ehayhutaha.
 mr2022-onboarding-get-started-primary-button-label = Emboheko sapy’aitépe
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Emba’egueru kundahára itujavéva guive
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -625,6 +636,7 @@ hnt-card-import-primary-button = Egueru mba’ekuaarã
 hnt-card-default-primary-button = Embojuruja juajuha { -brand-short-name } ndive
 hnt-card-mobile-header = Ereko ñemo’ã jehe’apyre ne pumbyrýpe
 hnt-card-mobile-body = Emboguejy { -brand-product-name } pumbyrýpe ha nderekoñemíta eimehápe.
+hnt-card-mobile-primary-button2 = Ereko { -brand-product-name } ne pumbyrýpe
 hnt-card-mobile-primary-button = Ereko { -brand-product-name } ne pumbyrýpe.
 hnt-card-wallpaper-header = Eiporavo mba’erechaha rugua pyahu
 hnt-card-wallpaper-primary-button = Eñepyrũ emboava
