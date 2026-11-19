@@ -16,6 +16,7 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+reg-app-desc = Tha { $BrandShortName } a' toirt dhut dòigh shàbhailte is èasgaidh gus an lìon a bhrabhsadh. Le eadar-aghaidh a dh'aithnicheas tu, feartan tèarainteachd nas làidire a dhìonas thu o ghoid dearbh-aithne agus le lorg co-fhillte, tha dòigh agad gus an lìon a chur gu feum gu h-iomlan.
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
 private-browsing-shortcut-title = Brabhsadh prìobhaideach { $BrandShortName }
