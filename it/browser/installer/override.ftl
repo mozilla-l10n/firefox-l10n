@@ -41,6 +41,26 @@ nsis-browse-btn = Sfoglia…
 nsis-show-details-btn = Mostra dettagli
     .accesskey = d
 nsis-click-next = Fare clic su Avanti per continuare.
+nsis-dir-browse-text = Selezionare la cartella in cui installare { $BrandFullNameDA }:
+nsis-space-available = Spazio disponibile:{ " " }
+nsis-space-required = Spazio richiesto:{ " " }
+nsis-uninstalling-text = { $BrandFullNameDA } verrà disinstallato dalla seguente cartella. { $ClickInstructions }
+nsis-uninstalling-sub-text = Disinstallazione da:
+nsis-file-error =
+    Errore nell’apertura di un file per la scrittura:
+    
+    { $FilePath }
+    
+    Fare clic su Annulla per terminare l’installazione,
+    Riprova per ritentare o
+    Ignora per saltare il file.
+nsis-file-error-no-ignore =
+    Errore nell’apertura di un file per la scrittura:
+    
+    { $FilePath }
+    
+    Fare clic su Riprova per ritentare o
+    Annulla per terminare l’installazione.
 nsis-cant-write = Scrittura non riuscita:{ " " }
 nsis-copy-failed = Copia non riuscita
 nsis-copy-to = Copia in{ " " }
