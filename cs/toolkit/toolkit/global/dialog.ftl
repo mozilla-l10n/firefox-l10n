@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = OK
+dialog-button-cancel =
+    .label = Zrušit
+dialog-button-disclosure =
+    .label = Více informací
+    .accesskey = i
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
