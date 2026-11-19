@@ -16,6 +16,11 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+reg-app-desc = { $BrandShortName } prinaša varno, enostavno brskanje po spletu. Znan uporabniški vmesnik, okrepljene varnostne možnosti - vključno z zaščito pred spletno krajo identitete - in vgrajeno iskanje vam omogočajo, da odnesete kar največ od svetovnega spleta.
+brief-app-desc = Hitro in zasebno brskanje
+# The non-variable portion of this MUST match the translation of
+# "private-browsing-shortcut-text-2" in browser.ftl
+private-browsing-shortcut-title = { $BrandShortName } – Zasebno brskanje
 # This text replaces the Install button text on the summary page.
 upgrade-button = Nadgradi
     .accesskey = N
