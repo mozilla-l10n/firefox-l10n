@@ -225,6 +225,10 @@ action-log-completed-steps =
         [one] { $count } lépés teljesítve
        *[other] { $count } lépés teljesítve
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = A feladathoz kiválasztott modell: { $model }
 
 ## Assistant Loader
 
