@@ -121,10 +121,24 @@ aiwindow-input-model-select-button-label-fast = Жылдам
 aiwindow-input-model-select-button-label-allpurpose = Икемді
 aiwindow-input-model-select-button-label-personal = Жеке
 aiwindow-input-model-select-button-label-custom = Таңдауыңызша
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Автоматты түрде
 aiwindow-input-model-select-default-badge =
     .label = Бастапқы
     .title = Таңдалған бастапқы модель
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Ұсынылатын
+    .title = Ұсынылған модель
 aiwindow-input-model-select-settings-link = Модель баптаулары
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } сіздің тапсырмаңыз үшін ең жақсы модельді таңдайды
+aiwindow-input-model-select-fast-description = Жылдамдық керек кезде ең жақсы нұсқа
+aiwindow-input-model-select-flexible-description = Әртүрлі тапсырмаларға дайын
 
 ## Firstrun memories onboarding
 
@@ -370,3 +384,6 @@ smartwindow-onboarding-model-auto = Автоматты түрде
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Ұсынылатын
 smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } сіздің тапсырмаңыз үшін ең жақсы модельді таңдайды
+smartwindow-onboarding-memories-both = Чаттар және шолу
+smartwindow-onboarding-memories-browsing = Тек шолу
+smartwindow-onboarding-memories-chats = Тек чаттар

@@ -185,6 +185,10 @@ ipprotection-connection-status-connecting-1 = VPN қосылуда…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Сөндіру
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+ipprotection-unlimited-bandwidth-upgraded = Шексіз өткізу қабілеті
+
 ## Location controls
 
 # The button displays the selected VPN location.
