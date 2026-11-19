@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = 新增 { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = 進度：第 { $current } 步，共 { $total } 步
 # This button will open system settings to turn on prefers-reduced-motion
@@ -209,6 +215,11 @@ mr2022-onboarding-set-default-subtitle = 使用由非營利組織在背後開發
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = 最新版本是圍繞您打造的。讓您更簡單就可在網路中探索，希望您也會喜歡我們推出的滿滿功能。
 mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入資料
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -637,6 +648,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = 在手機上也享有內建防護
 hnt-card-mobile-body = 下載 { -brand-product-name } 行動版，讓您隨時隨地上網都有更多隱私保護。
+hnt-card-mobile-primary-button2 = 下載 { -brand-product-name } 行動版
 hnt-card-mobile-primary-button = 下載 { -brand-product-name } 行動版。
 hnt-card-wallpaper-header = 挑選全新背景圖
 hnt-card-wallpaper-body = 選擇您喜愛的背景，讓這個畫面更有家的感覺。
