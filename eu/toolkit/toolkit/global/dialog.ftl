@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Ados
+dialog-button-cancel =
+    .label = Utzi
+dialog-button-disclosure =
+    .label = Informazio gehiago
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
