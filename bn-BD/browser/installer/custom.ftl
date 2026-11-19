@@ -33,6 +33,26 @@ maintenance-service-checkbox-desc = রক্ষনাবেক্ষণ সে�
 summary-page-title = সারসংক্ষেপ
 summary-page-subtitle = { $BrandShortName } ইনস্টলেশন শুরু করতে প্রস্তুত
 create-icons-desc = { $BrandShortName } এর জন্য আইকন তৈরি করা হবে:
+icons-desktop = আমার ডেস্কটপে D
+    .accesskey = D
+icons-startmenu = আমার স্টার্ট মেনু প্রোগ্রাম ফোল্ডারে
+    .accesskey = S
+warn-manually-close-app-install =
+    ইনস্টলেশন চালিয়ে যেতে { $BrandShortName } বন্ধ করা প্রয়োজন।
+    
+    অনুগ্রহ করে { $BrandShortName } বন্ধ করুন।
+warn-manually-close-app-uninstall =
+    আনইনস্টলেশন চালিয়ে যেতে { $BrandShortName } বন্ধ করা প্রয়োজন।
+    
+    অনুগ্রহ করে { $BrandShortName } বন্ধ করুন।
+warn-write-access =
+    আপনার ইনস্টলেশন ডিরেক্টরিতে লেখার অনুমতি নেই।
+    
+    অন্য একটি ডিরেক্টরি নির্বাচন করার জন্য 'ঠিক আছে' ক্লিক করুন।
+warn-disk-space =
+    এই জায়গায় ইনস্টল করার জন্য যথেষ্ট পরিমান খালি জায়গা নেই।
+    
+    অন্য একটি জায়গা নির্বাচন করার জন্য 'ঠিক আছে' ক্লিক করুন।
 # This text replaces the Install button text on the summary page.
 upgrade-button = আপগ্রেড
     .accesskey = U
