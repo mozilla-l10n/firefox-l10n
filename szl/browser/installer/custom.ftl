@@ -42,7 +42,7 @@ launch-text = Sztarnij zaroz { $BrandShortName }
 create-icons-desc = Zrychtuj ikōny do aplikacyje { $BrandShortName }:
 icons-desktop = Na biōrku
     .accesskey = b
-icons-startmenu = W katalogu Programy myni %Sztart
+icons-startmenu = W katalogu Programy myni Sztart
     .accesskey = S
 warn-manually-close-app-install =
     Aplikacyjo { $BrandShortName } musi być zawarto, coby dalij insztalować.

@@ -67,7 +67,7 @@ nsis-file-error-no-ignore =
     
     { $FilePath }
     
-    לחץ על נסה שנית כדי לנסות שוב, או
+    יש ללחוץ על נסה שנית כדי לנסות שוב, או
     על ביטול כדי לעצור את ההתקנה.
 nsis-cant-write = לא ניתן לכתוב:{ " " }
 nsis-copy-failed = ההעתקה נכשלה
@@ -83,21 +83,21 @@ nsis-delete = מחיקת קובץ:{ " " }
 nsis-delete-on-reboot = מחיקה באתחול:{ " " }
 nsis-error-creating-shortcut = שגיאה ביצירת קיצור דרך:{ " " }
 nsis-error-creating = שגיאה ביצירת:{ " " }
-nsis-error-decompressing = שגיאה בפריסת מידע! קובץ התקנה פגום?
+nsis-error-decompressing = שגיאה בחילוץ נתונים! קובץ התקנה פגום?
 nsis-error-registering = שגיאה ברישום DLL
 nsis-exec-shell = ExecShell:{ " " }
 nsis-exec = בצע:{ " " }
 nsis-extract = חלץ:{ " " }
-nsis-error-writing = Extract: שגיאה בכתיבה לקובץ{ " " }
+nsis-error-writing = חילוץ: שגיאה בכתיבה לקובץ{ " " }
 nsis-invalid-opcode = קובץ ההתקנה פגום: opcode לא תקין
-nsis-no-ole = No OLE for:{ " " }
+nsis-no-ole = אין OLE עבור:{ " " }
 nsis-output-folder = תיקיית פלט:{ " " }
 nsis-remove-folder = הסרת תיקייה:{ " " }
 nsis-rename-on-reboot = שינוי שם באתחול:{ " " }
 nsis-rename = שינוי שם:{ " " }
 nsis-skipped = דילוג:{ " " }
 nsis-copy-details = העתקת פרטים ללוח
-nsis-log-install = רשום מהלך התקנה
+nsis-log-install = רישום תהליך ההתקנה
 nsis-byte = B
 nsis-kilo = K
 nsis-mega = M

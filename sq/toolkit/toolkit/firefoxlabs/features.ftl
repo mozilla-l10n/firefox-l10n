@@ -20,6 +20,8 @@ experimental-features-group-customize-browsing =
     .label = Përshtatni shfletimin tuaj
 experimental-features-group-productivity =
     .label = Prodhimtari
+experimental-features-group-newtab-widgets =
+    .label = Widget-e në { -firefox-home-brand-name }
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Zgjidhni një sfond vetjak, ose ngjyrë për Skedë të Re
@@ -53,15 +55,31 @@ experimental-features-fx-web-apps-description = Hapini sajtet që vizitoni shpes
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Lista në { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Lista
 experimental-features-newtab-widget-lists-description = Mbajeni listën tuaj të punëve në krye fare, kur hapni një skedë të re. Nga lista e gjërave që duhen paketuar e deri te listat e pazareve, bëjini planet tuaja në { -brand-product-name }. <a data-l10n-name="connect">Jepni përshtypje</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Kohëmatës në { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Kohëmatës
 experimental-features-newtab-widget-timer-description = Ujdisni një kohëmatës, për t’ju mbajtur të përqendruar, për t’ju cytur të vazhdoni atje ku duhet, ose për t’ju kujtuar të rifreskoni veten. <a data-l10n-name="connect">Jepni përshtypje</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lista dhe kohëmatës në { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Mbajeni listën tuaj të punëve në krye fare, kur hapni një skedë të re. Nga lista e gjërave që duhen paketuar e deri te listat e pazareve, bëjini planet tuaja në { -brand-product-name }. Ujdisni një kohëmatës që të ruani përqendrimin, që t’ju cytë të vazhdoni punën, ose t’ju kujtojë se duhet të pushoni për të rimarrë forcat. <a data-l10n-name="connect">Jepni përshtypje</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Parashikime moti
+experimental-features-newtab-widget-weather-description = Merrni një pamje të qartë të motit të sotëm, me parashikime çdo orë. <a data-l10n-name="connect">Jepni përshtypje</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Foto e ditës
+experimental-features-newtab-widget-picture-of-the-day-description = Shtojini ditës tuaj një mrekullim të vogël të përditshëm. Merrni një foto të re, mësoni diçka me interes dhe caktoni një sfond të freskët sa hap e mbyll sytë. <a data-l10n-name="connect">Jepni përshtypje</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Sahate
+experimental-features-newtab-widget-clocks-description = Shtoni deri në 4 sahate, me nofka vetjake, për ndjekur kohën nëpër vende që kanë rëndësi për ju. <a data-l10n-name="connect">Jepni përshtypje</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Kërkim Semantik Në Historik
@@ -70,3 +88,9 @@ experimental-features-semantic-history-search-description = Përdorni një model
 experimental-features-tab-notes =
     .label = Shënime skedash
 experimental-features-tab-notes-description = Shënime skedash janë një veçori eksperimentale që ju lejon të shtoni shënime ngjitëse te skedat tuaja të shfletuesit. Hidhni në letër kontekst, kujtues, ose hapat pasuesi, që të mund të ktheheni dhe të mbani mend pse i hapët. Do të donim fort përshtypjet tuaja, teksa e përmirësojmë këtë veçori. <a data-l10n-name="connect">Jepni përshtypje</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Menu skedash e bërë më e hajthme
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Mbikëqyrës burimesh

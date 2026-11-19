@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Spastro Krejt Historikun
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Fshi të dhëna shfletimi
 clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i spastrojë të tëra automatikisht
 sanitize-on-shutdown-description = Spastro automatikisht krejt objektet me shenjë, kur mbyllet { -brand-short-name }.
 
@@ -47,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Që prej { $midnightTime }
 clear-time-duration-value-today =
     .label = Sot
+clear-time-duration-value-all-time =
+    .label = Tërë kohën
 clear-time-duration-value-everything =
     .label = Gjithçka
 clear-time-duration-suffix =
@@ -56,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historik
+item-history-and-downloads2 =
+    .label = Historik Shfletimi dhe shkarkimesh
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Sajte të vizituar dhe listë shkarkimesh
 item-history-and-downloads =
     .label = Historik Shfletimesh dhe Shkarkimesh
     .accesskey = H

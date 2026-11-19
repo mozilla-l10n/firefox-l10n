@@ -36,6 +36,10 @@ fxa-menu-send-to-mobile =
            *[other] Send { $tabCount } tabs to mobile
         }
 fxa-menu-send-to-mobile-device-missing2 = S’e shihni pajisjen tuaj?
+fxviewtabrow-send-to-mobile-not-verified = Llogari e paverifikuar
+fxviewtabrow-send-to-mobile-verify-account = Verifikoni llogarinë tuaj
+fxa-menu-send-to-mobile-turn-on-sync = Që të dërgohen skeda, aktivizoni njëkohësimin
+fxa-menu-send-to-mobile-connect-device = Që të dërgohen skeda, lidhni një pajisje
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Po njëkohësohen Pajisje…
@@ -44,6 +48,9 @@ fxa-menu-send-tab-to-device-description = Dërgoni aty për aty një skedë te c
 fxa-menu-sign-out =
     .label = Dilni…
 fxa-menu-sync-description = Përdoreni web-in nga kudo
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Administroni Llogari
 fxa-avatar-sign-in = Hyni
 fxa-avatar-sign-up = Regjistrohuni
 fxa-avatar-tooltip =

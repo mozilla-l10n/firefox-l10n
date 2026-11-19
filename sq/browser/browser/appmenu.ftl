@@ -244,6 +244,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Punim në rrjet
+profiler-popup-presets-networking-with-logs-description = Paracaktim për hetim të metash punimi në rrjet në { -brand-shorter-name }, përfshi regjistra funksionimi rrjeti. Këto regjistra mund të përmbajnë informacion me spec, b.f., URL-të që vizitoni.
 profiler-popup-presets-networking-with-logs-label =
     .label = Punim në Rrjet, me Regjistra
 profiler-popup-presets-power-description = Paracaktim për hetim të metash përdorimi energjie në { -brand-shorter-name }, me ngarkesë të ulët.
@@ -254,6 +255,8 @@ profiler-popup-presets-debug-description = Paracaktim për diagnostikim në { -b
 profiler-popup-presets-debug-label =
     .label = Diagnostikoje
 profiler-popup-presets-web-compat-description = Paracaktim i rekomanduar për diagnostikim problemesh përputhjeje web, në vend se ndjekjeje funksionimi.
+profiler-popup-presets-web-compat-label =
+    .label = Përputhshmëri Web
 profiler-popup-presets-custom-label =
     .label = Vetjak
 

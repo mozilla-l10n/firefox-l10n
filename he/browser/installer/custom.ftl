@@ -29,10 +29,10 @@ options-page-title = סוג התקנה
 options-page-subtitle = בחירת אפשרויות התקנה
 shortcuts-page-title = יצירת קיצורי דרך
 shortcuts-page-subtitle = יצירת סמלים לתוכנה
-components-page-title = הגדר רכיבים אפשריים
+components-page-title = הגדרת רכיבים אפשריים
 components-page-subtitle = רכיבים אפשריים מומלצים
 optional-components-desc = שירות התחזוקה מאפשר לך לעדכן את { $BrandShortName } בשקט ברקע.
-maintenance-service-checkbox-desc = התקן את שירות התחזוקה
+maintenance-service-checkbox-desc = התקנת שירות התחזוקה
     .accesskey = M
 summary-page-title = תקציר
 summary-page-subtitle = מוכן להתחלת התקנת  { $BrandShortName }
@@ -94,9 +94,9 @@ banner-check-existing = בודק התקנה קיימת…
 status-install-app = מתקין את { $BrandShortName }...
 status-uninstall-main = מסיר את { $BrandShortName }...
 status-cleanup = ניקוי כללי...
-un-survey-checkbox-label = נא לספר ל־Mozilla מדוע הסרת את { $BrandShortName }
+un-survey-checkbox-label = אנחנו ב־Mozilla נשמע לשמוע מדוע הסרת את { $BrandShortName }
 # This string should fit in one line (approximately 65 characters).
-options-summary = בחירת סוג ההתקנה המועדפת, ואז ללחוץ על הבא.
+options-summary = יש לבחור בסוג ההתקנה המועדפת, ואז ללחוץ על הבא.
 # This string should fit in one line (approximately 65 characters).
 option-standard-desc = { $BrandShortName } יותקן עם האפשרויות הנפוצות ביותר.
 option-standard-radio = רגילה

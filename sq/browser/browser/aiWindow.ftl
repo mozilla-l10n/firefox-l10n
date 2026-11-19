@@ -159,6 +159,7 @@ aiwindow-firstrun-memories-no-create = E mora vesh. { -smart-window-brand-name }
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Bëjeni { -smart-window-brand-name } të besuarin tuaj
 aiwindow-firstrun-default-subtitle = Shfletoni, kërkoni dhe pyetni që nga një vend. Mundeni prapë  të hapni Dritare Private dhe Klasike, kur doni.
 aiwindow-firstrun-default-checkbox-label = Hape përherë { -brand-product-name }-in në { -smart-window-brand-name }
 aiwindow-firstrun-default-checkbox-description = Ndërrojeni që nga rregullimet, kur të doni

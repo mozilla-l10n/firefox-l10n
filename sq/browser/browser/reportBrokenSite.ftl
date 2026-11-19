@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = Njoftoni për sajt të dëmtuar
 report-broken-site-panel-intro-text = Raporti juaj na ndihmon të kuptojmë dhe ndreqim probleme në { -brand-product-name }, për ta bërë më të mirë për këdo.
 report-broken-site-panel-learn-more-link = Mësoni më tepër
+report-broken-site-panel-url-label = URL e sajtit të dëmtuar
+report-broken-site-panel-reason-intro-text = Ç’nuk funksionon?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Sajti s’ngarkohet
 # These terms are referring to ecommerce websites
@@ -25,20 +27,40 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Sajti kërkoi të aktivizohet bllokuesi i reklamave
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Shfletuesi s’mbulohet, ose bllokohet
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Sajti është i rrejshëm
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Diçka tjetër
+report-broken-site-panel-instructions-other = Që të na ndihmoni ta hetojmë, përshkruajeni problemin në hollësi.
+report-broken-site-panel-instructions-other-optional = Që të na ndihmoni ta hetojmë, përshkruajeni problemin në hollësi. (në daçi)
+report-broken-site-panel-description2 =
+    .placeholder = Ç’ndodhi? Ç’prisnit të ndodhte? Ju lutemi, jepni hapat si të riprodhohet problemi.
 report-broken-site-panel-send-more-info-button =
     .label = Dërgoni më tepër hollësi
 report-broken-site-panel-button-cancel =
     .label = Anuloje
 report-broken-site-panel-button-okay =
     .label = OK
+report-broken-site-panel-button-send-report =
+    .label = Dërgoje njoftimin
 report-broken-site-panel-report-sent-label = Raportimi juaj u dërgua
 report-broken-site-panel-report-sent-header =
     .label = Raportimi juaj u dërgua
     .title = Raportimi juaj u dërgua
 report-broken-site-panel-report-sent-text = Faleminderit që ndihmoni { -brand-product-name }-in ta bëjë web-in më të hapët, më të përdorshëm dhe më të mirë për këdo.
 report-broken-site-panel-invalid-url-label = Ju lutemi, jepni një URL të vlefshme
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Ju lutemi, jepni të paktën { $minLength } shenjë
+       *[other] Ju lutemi, jepni të paktën { $minLength } shenja
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Dërgoni një foto ekrani
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Dërgo listë objektesh të bllokuar nga mbrojtja nga gjurmimet
+report-broken-site-panel-url-input-label =
+    .aria-label = URL-ja e faqes për të cilën po njoftohet
 report-broken-site-panel-preview-button =
     .label = Bëni paraparje të raportimit
 report-broken-site-panel-preview-header2 =

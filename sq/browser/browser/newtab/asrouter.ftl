@@ -475,6 +475,7 @@ nova-early-access-infobar-primary-button = E mora vesh
 launch-options-spotlight-title-launch-on-login = Të niset { -brand-short-name }-i sa herë që bëni hyrjen në Windows?
 launch-options-spotlight-title-session-restore = Të rihapet sesioni juaj, kur riniset { -brand-short-name }-i?
 launch-options-spotlight-checkbox-launch-on-login = Hape { -brand-short-name }-i gjatë nisjes së sistemit
+launch-options-spotlight-checkbox-pin-to-taskbar = Fiksojeni te shtylla juaj e punëve
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Rihap dritare dhe skeda të tanishme
 # Shown on the browser-launch prompt only
@@ -532,6 +533,9 @@ restore-session-startup-suggestion-button = Tregomëni se si
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = Hapini sajtet tuaj të parapëlqyer si një aplikacion
+taskbar-tabs-spotlight-subtitle = Një klikim hap sajtet tuaj më të përdorur në një dritare të hajthme, me krejt mbrojtjet nga { -brand-short-name }-i.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Përzgjidhni të shtohet te shtylla juaj e punëve
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Shtoje

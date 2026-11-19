@@ -1696,6 +1696,8 @@ newtab-sports-widget-group-i = Grupi I
 newtab-sports-widget-group-j = Grupi J
 newtab-sports-widget-group-k = Grupi K
 newtab-sports-widget-group-l = Grupi L
+newtab-sports-widget-round-32 = Raoundi i 32-ve
+newtab-sports-widget-round-16 = Raundi i 16-ve
 newtab-sports-widget-quarter-finals = Çerekfinale
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = DREJTPËRDREJT

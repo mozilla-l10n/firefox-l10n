@@ -52,7 +52,7 @@ nsis-dir-sub-text = Одредишна папка
 nsis-dir-browse-text = Изберете папка во која ќе се инсталира { $BrandFullNameDA }:
 nsis-space-available = Слободен простор:{ " " }
 nsis-space-required = Потребен простор:{ " " }
-nsis-uninstalling-text = { $BrandFullNameDA } ќе биде деинсталиран од следнава папка.
+nsis-uninstalling-text = { $BrandFullNameDA } ќе биде деинсталиран од следнава папка. { $ClickInstructions }
 nsis-uninstalling-sub-text = Деинсталирам од:
 nsis-file-error =
     Грешка во отворањето на датотеката за пишување:

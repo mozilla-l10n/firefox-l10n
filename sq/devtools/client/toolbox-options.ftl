@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Cungo atribute DOM
 options-collapse-attrs-tooltip =
     .title = Cungo te inspektori atribute të gjatë
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Shfaq komente
+options-show-comments-tooltip =
+    .title = Shfaq nyje komentesh te inspektori
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Klikoni dhe tërhiqeni që të përpunoni vlera madhësie
 options-inspector-draggable-properties-tooltip =
@@ -71,6 +75,13 @@ options-webconsole-label = Konsol Web
 options-webconsole-split-console-label = Aktivizo Konsolë të Ndarë
 options-webconsole-split-console-tooltip =
     .title = Hap Konsolë të Ndarë me Tastin Esc
+
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Mbikëqyrës Rrjeti
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = E pakufizuar
 
 ## Experimental section
 
@@ -123,6 +134,10 @@ options-local-mode-origin-invalid = Kjo origjinë është e pavlefshme
 options-local-mode-folder-label = Dosje vendore:
 options-local-mode-choose-folder = Shfletoni…
     .title = Zgjidhni një dosje vendore që të shërbehet ky përshoqërim
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Zgjidhni dosje mënyre vendore për: { $url }
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Kjo dosje s’ekziston, ose është e pavlefshme.

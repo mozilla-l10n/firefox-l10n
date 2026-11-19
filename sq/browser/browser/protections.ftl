@@ -256,3 +256,4 @@ protections-vpn-header-content-subscribed =
        *[other] Përdorimi i { -mozilla-vpn-brand-name }-së fshehtëzon krejt trafikun tuyaj dhe fsheh vendndodhjen tuaj — në deri { $count } pajisje. Përfitoni maksimumin nga pajtimi juaj — shtojeni që nga <a data-l10n-name="playstore-link">Google Play Store</a>, ose <a data-l10n-name="appstore-link">Apple App Store</a>.
     }
 protections-vpn-banner-header = Mbrojtje që shtrihet tej shfletuesin
+protections-vpn-banner-link = Merrni { -mozilla-vpn-brand-name }

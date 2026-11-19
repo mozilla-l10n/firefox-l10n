@@ -46,14 +46,14 @@ nsis-click-uninstall = Натиснете „Премахване“, за да 
 nsis-completed = Завършване
 nsis-license-text-rb = Моля, прегледайте лицензното споразумение преди инсталиране на { $BrandFullNameDA }. Ако приемате всички условия, изберете първата възможност. { $ClickInstructions }
 nsis-components-text = Отметнете компонентите, които искате да бъдат инсталирани и съответно махнете отметката от компонентите, които не желаете. { $ClickInstructions }
-nsis-components-sub-text2-no-inst-types = Изберете компоненти за инсталиране:{ " " }
+nsis-components-sub-text2-no-inst-types = Изберете компоненти за инсталиране:
 nsis-dir-text = Помощникът ще инсталира { $BrandFullNameDA } в следната папка. Ако желаете да бъде другаде, натиснете „Разглеждане“ и изберете мястото. { $ClickInstructions }
 nsis-dir-sub-text = Целева папка
 nsis-dir-browse-text = Изберете къде приложението { $BrandFullNameDA } да бъде инсталирано:
 nsis-space-available = Свободно пространство:{ " " }
 nsis-space-required = Необходимо пространство:{ " " }
 nsis-uninstalling-text = Премахване на { $BrandFullNameDA } от следната папка. { $ClickInstructions }
-nsis-uninstalling-sub-text = Премахване от:{ " " }
+nsis-uninstalling-sub-text = Премахване от:
 nsis-file-error =
     Грешка при отваряне на файл за запис:
     

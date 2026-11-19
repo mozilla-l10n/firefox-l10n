@@ -65,6 +65,8 @@ autofill-address-city = Qytet
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-district = Distrikt
+# Used in United Kingdom (GB), Norway (NO), Sweden (SE) as as secondary address information (2 levels below the country level).
+autofill-address-post-town = Lokalitet postar
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Rrethinë

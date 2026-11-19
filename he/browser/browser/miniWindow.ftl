@@ -45,4 +45,5 @@ screenshots-component-reselect-button = התחלה מחדש
 mini-window-panel-part-of-page = חלק מהעמוד
 # Selection for what to move to a Mini Window
 mini-window-panel-full-page = עמוד מלא
-mini-window-panel-move-selection = הזזת הבחירה
+mini-window-panel-move-selection = העברת הבחירה
+mini-window-panel-move-full-tab = העברת כל הלשונית
