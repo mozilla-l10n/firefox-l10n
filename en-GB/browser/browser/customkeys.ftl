@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Go to Tab 8
 customkeys-nav-select-last-tab = Go to Last Tab
 customkeys-nav-toggle-mute = Mute/Unmute Audio
 customkeys-edit-find-previous = Find Previous
+customkeys-edit-find-selection = Use Selection for Find
 customkeys-tools-screenshot = Take a Screenshot
 customkeys-category-navigation-2 =
     .heading = Navigation
