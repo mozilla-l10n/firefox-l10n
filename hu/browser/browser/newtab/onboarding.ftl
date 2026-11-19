@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = { $addon-name } hozzáadása
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Haladás: { $current }. / { $total } lépés
 # This button will open system settings to turn on prefers-reduced-motion
@@ -221,6 +227,11 @@ mr2022-onboarding-set-default-subtitle = Használjon egy nonprofit szervezet ál
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = A legfrissebb verziónk Ön köré épül fel, így minden eddiginél egyszerűbb a világhálón szörfölés. Tele van olyan funkciókkal, amelyekről úgy gondoljuk, hogy imádni fog.
 mr2022-onboarding-get-started-primary-button-label = Beállítás másodpercek alatt
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Importálás az előző böngészőből
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -649,6 +660,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Szerezzen beépített védelmet a telefonján
 hnt-card-mobile-body = Töltse le a mobilos { -brand-product-name }ot a menet közbeni további adatvédelemért.
+hnt-card-mobile-primary-button2 = Szerezze be a mobilos { -brand-product-name }ot
 hnt-card-mobile-primary-button = Szerezze be a mobilos { -brand-product-name }ot.
 hnt-card-wallpaper-header = Válasszon friss háttérképet
 hnt-card-wallpaper-body = Tegye otthonossá ezt a képernyőt egy Önnek tetsző háttérrel.
