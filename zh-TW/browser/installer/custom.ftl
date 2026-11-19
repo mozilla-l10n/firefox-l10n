@@ -16,6 +16,7 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
+reg-app-desc = { $BrandShortName } 帶來您渴望的安全、簡單、輕鬆的瀏覽體驗。友善的操作介面、強化的安全性（包含線上身分盜用防護）和智慧搜尋功能讓您將網際網路發揮到極致。
 brief-app-desc = 又快又有隱私地上網
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
