@@ -70,3 +70,37 @@ warn-disk-space =
     Non tenes ispàtziu bastante in su discu pro installare in custa cartella.
     
     Incarca AB pro seberare una cartella diferente.
+warn-min-supported-osver-msg = { $BrandShortName } non podet èssere installadu. Custa versione de { $BrandShortName } tenet bisòngiu de { $MinSupportedVer } o posteriore. Incarca su butone AB pro lèghere àteras informatziones.
+warn-min-supported-cpu-msg = { $BrandShortName } non podet èssere installadu. Custa versione de { $BrandShortName } tenet bisòngiu de unu protzessadore cumpatìbile cun { $MinSupportedCPU }. Incarca su butone AB pro àteras informatziones.
+warn-min-supported-osver-cpu-msg = { $BrandShortName } non podet èssere installadu. Custa versione de { $BrandShortName } tenet bisòngiu de { $MinSupportedVer } o posteriore e de unu protzessadore cumpatìbile cun { $MinSupportedCPU }. Incarca su butone AB pro àteras informatziones.
+warn-restart-required-uninstall = Si depet torrare a aviare s’elaboradore tuo pro acabbare una disinstallatzione anteriore de { $BrandShortName }. Boles torrare a aviare immoe?
+warn-restart-required-upgrade = Si depet torrare a aviare s’elaboradore tuo pro acabbare un’atualizatzione anteriore de { $BrandShortName }. Boles torrare a aviare immoe?
+error-create-directory-prefix = Faddina in sa creatzione de sa cartella:
+error-create-directory-suffix =
+    Incarca Annulla pro firmare s’installatzione o
+    Torra a proare.
+un-confirm-page-title = Disinstalla { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } at a èssere disinstalladu de custu percursu:
+un-refresh-page-title = Imbetzes de custu, pro ite non provas a recuperare { $BrandShortName }?
+un-refresh-learn-more = Àteras informatziones
+    .accesskey = t
+un-refresh-button = Agiorna { $BrandShortName }
+    .accesskey = A
+banner-check-existing = Controllende s'installatzione atuale…
+status-install-app = Installende { $BrandShortName }…
+status-uninstall-main = Disinstallende { $BrandShortName }…
+status-cleanup = Limpiende…
+un-survey-checkbox-label = Nara a Mozilla pro ite as disinstalladu { $BrandShortName }
+# This string should fit in one line (approximately 65 characters).
+options-summary = Sèbera sa genia de cunfiguratzione chi preferes, e pustis incarca Imbeniente.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } at a èssere installadu cun is optziones prus comunas.
+option-standard-radio = Istandard
+    .accesskey = I
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Podes seberare is optziones individuales de installare. Cussigiadu pro utentes cun esperièntzia.
+option-custom-radio = Personalizada
+    .accesskey = P
+# This text replaces the Install button text on the summary page.
+upgrade-button = Atualiza
+    .accesskey = A
