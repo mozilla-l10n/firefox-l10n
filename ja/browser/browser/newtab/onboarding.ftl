@@ -649,6 +649,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = スマートフォンでユーザー保護が組み込まれたブラウザーを使いましょう
 hnt-card-mobile-body = モバイル版 { -brand-product-name } をダウンロードすると、プライバシー保護がさらに追加されます。
+hnt-card-mobile-primary-button2 = モバイル版 { -brand-product-name } を入手
 hnt-card-mobile-primary-button = モバイル版 { -brand-product-name } を入手
 hnt-card-wallpaper-header = 新しい壁紙を選びましょう
 hnt-card-wallpaper-body = この画面をお好みの背景で彩ります。
