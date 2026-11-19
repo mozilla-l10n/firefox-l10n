@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = 8. fitxara joan
 customkeys-nav-select-last-tab = Azken fitxara joan
 customkeys-nav-toggle-mute = Mututu/ez mututu audioa
 customkeys-edit-find-previous = Bilatu aurrekoa
+customkeys-edit-find-selection = Erabili hautapena bilaketarako
 customkeys-tools-screenshot = Hartu pantaila-argazkia
 customkeys-category-navigation-2 =
     .heading = Nabigazioa

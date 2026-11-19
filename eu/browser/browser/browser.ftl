@@ -1341,7 +1341,7 @@ captive-portal-show-login-page-button =
 ## Variables:
 ##   $hostName (String) - The recognized host (for example, “http://example/”).
 
-keyword-uri-fixup-message = { $hostName } ostalarira nahi zenuen joan?
+keyword-uri-fixup-message = { $hostName } ostalarira joan nahi zenuen?
 keyword-uri-fixup-go-to-button =
     .label = Bai, eraman nazazu { $hostName } ostalarira
     .accesskey = B
@@ -1704,6 +1704,9 @@ trustpanel-etp-toggle-off =
     .aria-label = Jarraipenaren babes hobetua: desaktibatuta { $host } ostalarirako
 trustpanel-etp-description-enabled = Zerbaitek apurtuta badirudi gune honetan, saiatu babesak desaktibatzen.
 trustpanel-etp-description-disabled = { -brand-product-name }(e)k uste du enpresek zure jarraipena gutxitu beharko luketela. Ahal bezainbeste jarraipen-elementu blokeatzen ditugu babesak aktibatzen dituzunean.
+trustpanel-trackercount-label = Erakutsi blokeatutako jarraipen-elementuen kopurua helbide-barran
+trustpanel-trackercount-toggle =
+    .aria-label = Erakutsi blokeatutako jarraipen-elementuen kopurua helbide-barran
 trustpanel-connection-label-secure = Konexio segurua
 trustpanel-connection-label-insecure = Konexio ez-segurua
 trustpanel-header-enabled = { -brand-product-name } guardian dago
