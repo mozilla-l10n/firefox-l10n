@@ -71,3 +71,40 @@ warn-disk-space =
     
     Барои интихоб кардани ҷойи дигар, тугмаи «ХУБ»-ро зер кунед
 warn-min-supported-osver-msg = Мутаассифона, { $BrandShortName } насб карда намешавад. Барои ин версияи { $BrandShortName } версияи { $MinSupportedVer } ё навтар лозим аст. Лутфан, барои гирифтани маълумоти бештар, тугмаи «ХУБ»-ро зер кунед.
+warn-min-supported-cpu-msg = Мутаассифона, { $BrandShortName } насб карда намешавад. Барои ин версияи { $BrandShortName } просессор бо дастгирии { $MinSupportedCPU } лозим аст. Лутфан, барои гирифтани маълумоти бештар, тугмаи «ХУБ»-ро зер кунед.
+warn-min-supported-osver-cpu-msg = Мутаассифона, { $BrandShortName } насб карда намешавад. Барои ин версияи { $BrandShortName } версияи { $MinSupportedVer } ё навтар ва просессор бо дастгирии { $MinSupportedCPU } лозим аст. Лутфан, барои гирифтани маълумоти бештар, тугмаи «ХУБ»-ро зер кунед.
+warn-restart-required-uninstall = Барои ба анҷом расонидани несткунии қаблии барномаи { $BrandShortName }, компютери шумо бояд аз нав оғоз карда шавад. Шумо мехоҳед, ки компютерро аз нав оғоз кунед?
+warn-restart-required-upgrade = Барои ба анҷом расонидани такмилдиҳии қаблии барномаи { $BrandShortName }, компютери шумо бояд аз нав оғоз карда шавад. Шумо мехоҳед, ки компютерро аз нав оғоз кунед?
+error-create-directory-prefix = Хатои эҷодкунии феҳрист:
+error-create-directory-suffix =
+    Барои қатъ кардани насбкунӣ, тугмаи «Бекор кардан»-ро зер кунед,
+    ё барои кӯшиш дубора, тугмаи «Аз нав кӯшиш кардан»-ро зер кунед.
+un-confirm-page-title = Нест кардани насби { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } аз ҷойи зерин нест карда мешавад:
+un-refresh-page-title = Ба ҷояш { $BrandShortName }-ро навсозӣ мекунед?
+un-refresh-page-explanation =
+    Агар шумо ҳангоми кор бо браузери «{ $BrandShortName }» мушкилӣ кашед, амали навсозӣ метавонад мушкилиро ҳал кунад.
+    
+    Ин амал танзимоти пешфарзро барқарор мекунад ва ҷузъҳои иловагиро тоза менамояд. Барои кори самаранок, барномаро аз нав ба кор дароред.
+un-refresh-learn-more = Маълумоти бештар
+    .accesskey = М
+un-refresh-button = Нав кардани { $BrandShortName }
+    .accesskey = Н
+banner-check-existing = Санҷиши насбкунии ҷорӣ…
+status-install-app = Дар ҳоли насбкунии { $BrandShortName }…
+status-uninstall-main = Дар ҳоли лағвкунии насби { $BrandShortName }…
+status-cleanup = Андаки дигар…
+un-survey-checkbox-label = Ба Mozilla хабар диҳед, ки чаро насби { $BrandShortName }-ро нест кардед
+# This string should fit in one line (approximately 65 characters).
+options-summary = Навъи насбкуниеро, ки мехоҳед иҷро кунед, интихоб намоед, пас тугмаи «Навбатӣ»-ро зер кунед.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } бо имконоти стандартӣ насб карда мешавад.
+option-standard-radio = Стандартӣ
+    .accesskey = С
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Шумо, инчунин, метавонед барои насбкунӣ имконоти шахсиро интихоб кунед. Ин амал барои корбарони ботаҷриба тавсия дода мешавад.
+option-custom-radio = Фармоишӣ
+    .accesskey = Ф
+# This text replaces the Install button text on the summary page.
+upgrade-button = Такмил додан
+    .accesskey = Т
