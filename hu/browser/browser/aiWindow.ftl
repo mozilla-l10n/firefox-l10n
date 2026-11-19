@@ -137,6 +137,9 @@ aiwindow-input-model-select-settings-link = Modellbeállítások
 ## Auto model is offered.
 
 aiwindow-input-model-select-auto-description = Az { -smart-window-brand-name(case: "lower") } választja ki a feladatához legjobban megfelelő modellt
+aiwindow-input-model-select-fast-description = Gyors válaszok, ha gyorsan halad
+aiwindow-input-model-select-flexible-description = Különböző feladatokra alkalmas
+aiwindow-input-model-select-personal-description = Ideális, ha több nyelven cseveg és böngészik
 
 ## Firstrun memories onboarding
 

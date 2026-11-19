@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Ugrás a 8. lapra
 customkeys-nav-select-last-tab = Ugrás az utolsó lapra
 customkeys-nav-toggle-mute = Hang némítása be/ki
 customkeys-edit-find-previous = Előző keresése
+customkeys-edit-find-selection = Kijelölés használata a kereséshez
 customkeys-tools-screenshot = Képernyőkép készítése
 customkeys-category-navigation-2 =
     .heading = Navigáció

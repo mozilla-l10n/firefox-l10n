@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Pont
 user-context-icon-fence =
     .label = Kerítés
+user-context-icon-robot =
+    .label = Robot
