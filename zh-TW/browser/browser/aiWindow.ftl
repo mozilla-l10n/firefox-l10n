@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = 快速
 aiwindow-input-model-select-button-label-allpurpose = 靈活
 aiwindow-input-model-select-button-label-personal = 個人化
 aiwindow-input-model-select-button-label-custom = 自訂
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = 自動
 aiwindow-input-model-select-default-badge =
     .label = 預設
     .title = 選擇的預設模型
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = 推薦
+    .title = 推薦模型
 aiwindow-input-model-select-settings-link = 模型選項
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } 會挑選最適合您任務的模型
+aiwindow-input-model-select-fast-description = 最適合用來快問快答
+aiwindow-input-model-select-flexible-description = 準備好接受各種類型工作
+aiwindow-input-model-select-personal-description = 若您會使用多種語言聊天與瀏覽網頁，這個最適合您
 
 ## Firstrun memories onboarding
 

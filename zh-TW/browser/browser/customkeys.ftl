@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = 前往分頁 8
 customkeys-nav-select-last-tab = 前往最後一個分頁
 customkeys-nav-toggle-mute = 靜音/取消靜音
 customkeys-edit-find-previous = 找前一個
+customkeys-edit-find-selection = 以選擇內容尋找
 customkeys-tools-screenshot = 拍攝畫面擷圖
 customkeys-category-navigation-2 =
     .heading = 導覽

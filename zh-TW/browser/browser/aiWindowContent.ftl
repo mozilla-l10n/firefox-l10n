@@ -165,6 +165,12 @@ action-log-searched-settings = 已搜尋選項
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = 已完成 { $count } 個步驟
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = 此工作使用下列模型：{ $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = 選擇最適合的模型
 
 ## Assistant Loader
 
