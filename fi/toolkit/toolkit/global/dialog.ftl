@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = OK
+dialog-button-cancel =
+    .label = Peruuta
+dialog-button-disclosure =
+    .label = Lisätietoja
+    .accesskey = L
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
