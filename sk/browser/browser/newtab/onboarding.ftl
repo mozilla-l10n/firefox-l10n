@@ -36,6 +36,12 @@ mr1-return-to-amo-add-extension-label = Pridať { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Priebeh: krok { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -221,6 +227,11 @@ mr2022-onboarding-set-default-subtitle = Použite prehliadač podporovaný nezis
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Naša najnovšia verzia je postavená okolo vás, vďaka čomu je prehliadanie webu jednoduchšie ako kedykoľvek predtým. Je nabitá funkciami, o ktorých si myslíme, že si ich zamilujete.
 mr2022-onboarding-get-started-primary-button-label = Nastavte si ju za pár sekúnd
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Importovať z predchádzajúceho prehliadača
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -649,6 +660,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Získajte vstavanú ochranu vo svojom telefóne
 hnt-card-mobile-body = Stiahnite si mobilnú verziu { -brand-product-name(case: "gen") } a získajte viac súkromia aj na cestách.
+hnt-card-mobile-primary-button2 = Získať { -brand-product-name } pre mobilné zariadenia
 hnt-card-mobile-primary-button = Získať { -brand-product-name } pre mobilné zariadenia
 hnt-card-wallpaper-header = Vyberte si sviežu tapetu
 hnt-card-wallpaper-body = Vyberte si obľúbené pozadie a cíťte sa na tejto obrazovke ako doma.
