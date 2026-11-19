@@ -10,8 +10,10 @@ genai-settings-chat-claude-links = Duke zgjedhur Anthropic Claude, pajtoheni mey
 genai-settings-chat-copilot-links = Duke zgjedhur Copilot, pajtoheni me <a data-l10n-name="link1">Copilot AI Experiences Terms</a> dhe <a data-l10n-name="link2">Microsoft Privacy Statement</a>.
 genai-settings-chat-gemini-links = Duke zgjedhur Google Gemini, pajtoheni me <a data-l10n-name="link1">Kushte Shërbimi Google</a>, <a data-l10n-name="link2">Generative AI Prohibited Use Policy</a> dhe <a data-l10n-name="link3">Shënim Privatësie Aplikacionesh Gemini</a>.
 genai-settings-chat-huggingchat-links = Duke zgjedhur HuggingChat, pajtoheni me <a data-l10n-name="link1">Shënim Privatësie HuggingChat</a> dhe <a data-l10n-name="link2">Hugging Face Privacy Policy</a>.
+genai-settings-chat-lechat-links-2 = Duke zgjedhur Mistral Vibe, pajtojeni me <a data-l10n-name="link1">Kushte Shërbimi</a> dhe <a data-l10n-name="link2">Rregulla Privatësie</a> të Mistral AI-së.
 genai-settings-chat-lechat-links = Duke zgjedhur Le Chat Mistral, pajtoheni me <a data-l10n-name="link1">Terma Shërbimi</a> dhe <a data-l10n-name="link2">Rregulla Privatësie</a>të Mistral AI-së.
 genai-settings-chat-localhost-links = Sillni robotin tuaj vendor privat të fjalosjeve, fjala vjen <a data-l10n-name="link1">llamafile</a> nga grupi Innovation i { -vendor-short-name }.
+genai-settings-chat-scout-links = Duke zgjedhur Yahoo Scout, pajtojeni me <a data-l10n-name="link1">Kushte Shërbimi</a> dhe <a data-l10n-name="link2">Rregulla Privatësie</a> të Yahoo-t.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -58,6 +60,14 @@ genai-menu-remove-provider =
     .label = Hiqe { $provider }
 genai-menu-remove-sidebar =
     .label = Hiqe nga Anështylla
+genai-shortcut-button-3 =
+    .aria-label = Pyetni rreth këtij teksti
+    .tooltiptext = Pyetni rreth këtij teksti
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Kërko me { $engine } për “{ $selection }”
+    .tooltiptext = Kërko me { $engine } për “{ $selection }”
 genai-more-actions-copy =
     .label = Kopjoje
 # The span is a right-pointing chevron that separates the steps of the path to

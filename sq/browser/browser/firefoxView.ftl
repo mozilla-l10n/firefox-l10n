@@ -133,6 +133,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Kërkoni në historik
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Kërkoni te faqerojtësit
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Kërko te skeda të mbyllura së fundi
@@ -183,6 +186,10 @@ firefoxview-show-all-history = Shfaq krejt historikun
 firefoxview-history-empty-header = Kthehuni atje ku keni qenë
 firefoxview-history-empty-description = Teksa shfletoni, këtu do të shfaqen faqet që vizitoni.
 firefoxview-history-empty-description-two = Mbrojtja e privatësisë tuaj është në qendër të asaj me çka merremi. Kjo është arsyeja pse mund të kontrolloni veprimtarinë që mban mend { -brand-short-name }-i, te <a data-l10n-name="history-settings-url">rregullimet tuaja për historikun</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Gjurma juaj e shfletimit e ka fillin këtu
+firefoxview-history-empty-description-2 = Teksa vizitoni faqe, historiku juaj do të shfaqet këtu. Kontrolloni ç’mbahet mend, që nga <a data-l10n-name="history-settings-url">rregullimet</a>.
 
 ##
 
@@ -194,6 +201,7 @@ firefoxview-choose-browser-button = Zgjidhni shfletues
 
 firefoxview-dont-remember-history-empty-header-2 = Se çfarë mban mend { -brand-short-name }-i e kontrolloni ju
 firefoxview-dont-remember-history-empty-description-one = Tani për tani, { -brand-short-name } nuk mban mend veprimtarinë tuaj të shfletimit. Për ta ndryshuar këtë, <a data-l10n-name="history-settings-url-two">përditësoni rregullimet për historikun tuaj</a>.
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name }-i s’po e ruan historikun tuaj tani. Ndryshojeni këtë në çfarëdo kohe, te <a data-l10n-name="history-settings-url-two">rregullimet</a>.
 
 ##
 

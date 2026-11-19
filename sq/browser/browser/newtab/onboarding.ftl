@@ -605,8 +605,13 @@ onboarding-carousel-nav =
 welcome-back-onboarding-title = Veçori të reja, të krijuara për t’ju ndihmuar të bëni më tepër gjëra
 welcome-back-onboarding-primary-button-label = Nisni shfletimin
 welcome-back-onboarding-secondary-button-label = Shihni ç’ka tjetër të re
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Sistemoni Skeda
 welcome-back-onboarding-pill-label-vpn = VPN e brendshme
 welcome-back-onboarding-pill-label-pdf = Mjete PDF-sh
+welcome-back-onboarding-card-label-tabs = Sistemojini me skeda vertikale dhe grupe
+welcome-back-onboarding-card-label-vpn = Qëndorni i fshehur, me VPN të brendshme
+welcome-back-onboarding-card-label-pdf = Theksoni, nënshkruani dhe punoni me PDF-ra
 welcome-back-onboarding-card-tilebutton-label = Provojeni
 
 ## New Tab Onboarding cards
