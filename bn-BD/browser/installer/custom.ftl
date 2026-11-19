@@ -32,6 +32,13 @@ maintenance-service-checkbox-desc = রক্ষনাবেক্ষণ সে�
     .accesskey = M
 summary-page-title = সারসংক্ষেপ
 summary-page-subtitle = { $BrandShortName } ইনস্টলেশন শুরু করতে প্রস্তুত
+summary-installed-to = { $BrandShortName } যে স্থানে ইনস্টল করা হবে:
+summary-reboot-required-install = ইনস্টলেশন সম্পন্ন করতে আপনার কম্পিউটার পুনরায় চালু করতে হতে পারে।
+summary-reboot-required-uninstall = আনইনস্টলেশন সম্পন্ন করতে আপনার কম্পিউটার পুনরায় চালু করতে হতে পারে।
+summary-install-click = চালিয়ে যেতে "ইনস্টল" ক্লিক করুন।
+summary-upgrade-click = চালিয়ে যেতে "আপগ্রেড" ক্লিক করুন।
+launch-text = { $BrandShortName } এখনি চালু করা হবে
+    .accesskey = L
 create-icons-desc = { $BrandShortName } এর জন্য আইকন তৈরি করা হবে:
 icons-desktop = আমার ডেস্কটপে D
     .accesskey = D
@@ -68,6 +75,16 @@ banner-check-existing = বিদ্যমান ইনস্টলেশন প
 status-install-app = { $BrandShortName } ইনস্টল করা হচ্ছে…
 status-uninstall-main = { $BrandShortName } আনইনস্টল করা হচ্ছে…
 status-cleanup = টুকিটাকি কিছু কাজ…
+# This string should fit in one line (approximately 65 characters).
+options-summary = আপনার পছন্দমত সেটআপ নির্বাচন করুন, তারপর 'পরবর্তী' ক্লিক করুন।
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } সবচেয়ে সাধারণ অপশনসহ ইনস্টল করা হবে।
+option-standard-radio = প্রমিত
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = আপনি ইনস্টল করার জন্য আলাদাভাবে অপশন নির্বাচন করতে পারেন। এটি শুধুমাত্র অভিজ্ঞ ব্যবহারকারীদের জন্য পরামর্শিত।
+option-custom-radio = স্বনির্বাচিত
+    .accesskey = C
 # This text replaces the Install button text on the summary page.
 upgrade-button = আপগ্রেড
     .accesskey = U

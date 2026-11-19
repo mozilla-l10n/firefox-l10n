@@ -16,6 +16,13 @@
 ##   $ClickInstructions (String) - The instructions to proceed to the next step of the wizard (e.g. “Click Next to continue.”).
 
 mui-text-welcome-info-title = { $BrandFullNameDA } সেটআপ উইজার্ডে স্বাগতম!
+mui-text-welcome-info-text =
+    এই উইজার্ডটি আপনাকে { $BrandFullNameDA } ইনস্টলেশনে সহায়তা করবে।
+    
+    সেটআপ শুরুর আগে আপনাকে অন্য সব অ্যাপ্লিকেশন বন্ধ করার অনুরোধ করা হচ্ছে। এটি আপনার কম্পিউটার পুনরারম্ভ না করেই সিস্টেম ফাইল হালনাগাদ করতে সাহায্য করবে।
+    
+    { $ClickInstructions }
+mui-text-components-title = কম্পোনেন্ট নির্বাচন
 mui-text-components-subtitle = আপনি { $BrandFullNameDA } এর যে বৈশিষ্ট্যগুলো ইনস্টল করতে চান তা নির্বাচন করুন।
 mui-innertext-components-description-title = বিবরণ
 mui-innertext-components-description-info = কোনো কম্পোনেন্টের বিবরণ দেখতে এটির উপরে আপনার মাউসটি রাখুন।

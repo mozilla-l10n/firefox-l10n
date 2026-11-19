@@ -17,4 +17,7 @@
 
 installer-win-caption = { $BrandShortName } ইন্সটলার
 stub-installing-label = ইন্সটল হচ্ছে
+stub-cancel-prompt-heading = আপনি কি { $BrandShortName } ইনস্টল করতে চান?
+stub-cancel-prompt-message = বাতিল করলে, { $BrandShortName } ইনস্টল হবে না।
+stub-cancel-prompt-button-continue = { $BrandShortName } ইনস্টল করুন
 stub-cancel-prompt-button-exit = বাতিল
