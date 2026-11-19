@@ -46,6 +46,48 @@ launch-text = Start no { $BrandShortName }
 create-icons-desc = Meitsje ikoantsjes foar { $BrandShortName }:
 icons-desktop = Op myn Buroblêd
     .accesskey = B
+icons-startmenu = Yn de map Start Menu -> Programma’s
+    .accesskey = S
+icons-taskbar = Op myn taakbalke
+    .accesskey = t
+warn-manually-close-app-install =
+    { $BrandShortName } moat ôfsluten wurde om troch te gean mei de ynstallaasje.
+    
+    Slút { $BrandShortName } om troch te gean.
+warn-manually-close-app-uninstall =
+    { $BrandShortName } moat ôfsluten wurde om troch te gean mei de de-ynstallaasje.
+    
+    Slút { $BrandShortName } om troch te gean.
+warn-manually-close-app-refresh =
+    { $BrandShortName } moat ôfsluten wurde om troch te gean mei opfrissen.
+    
+    Slút { $BrandShortName } om troch te gean.
+warn-write-access =
+    Jo hawwe gjin tagong om te skriuwen yn de ynstallaasjemap.
+    
+    Klik OK om in oare map te selektearjen.
+warn-disk-space =
+    Jo hawwe net genôch skiifromte om op dizze lokaasje te ynstallearjen.
+    
+    Klik OK om in oare lokaasje te selektearjen.
+warn-min-supported-osver-msg = Sorry, { $BrandShortName } kin net ynstallearre wurde. Dizze ferzje fan { $BrandShortName } hat { $MinSupportedVer } of nijer nedich. Klik OK foar mear ynformaasje.
+warn-min-supported-cpu-msg = Sorry, { $BrandShortName } kin net ynstallearre wurde. Dizze ferzje fan { $BrandShortName } hat in processor mei stipe foar { $MinSupportedCPU } nedich. Klik OK foar mear ynformaasje.
+warn-min-supported-osver-cpu-msg = Sorry, { $BrandShortName } kin net ynstallearre wurde. Dizze ferzje fan { $BrandShortName } hat { $MinSupportedVer } of nijer nedich en in processor mei stipe foar { $MinSupportedCPU } nedich. Klik OK foar mear ynformaasje.
+warn-restart-required-uninstall = Jo kompjûter moat opnij starten wurde om in foarige de-ynstallaasje fan { $BrandShortName } ôf te meitsjen. Wolle jo no opnij opstarte?
+warn-restart-required-upgrade = Jo kompjûter moat opnij starten wurde om in foarige fernijing fan { $BrandShortName } ôf te meitsjen. Wolle jo no opnij opstarte?
+error-create-directory-prefix = Flater wylst meitsjen fan map:
+error-create-directory-suffix =
+    Klik Annulearje om de ynstallaasje te stopjen of
+    Opnij om it nochris te probearjen.
+un-confirm-page-title = { $BrandFullName } de-ynstallearje
+un-confirm-uninstalled-from = { $BrandShortName } wurdt de-ynstallearre fan de folgjende lokaasje:
+un-refresh-page-title = Yn stee dêrfan { $BrandShortName } opfrisse?
+un-refresh-page-explanation =
+    As jo problemen mei { $BrandShortName } ûnderfine, dan kin opfrisse helpe.
+    
+    Hjirtroch wurde de standetdynstellingen weromset en add-ons fuortsmiten. Meitsje in farske start foar optimale prestaasjes.
+un-refresh-learn-more = Mear ynfo
+    .accesskey = M
 # This text replaces the Install button text on the summary page.
 upgrade-button = Fernije
     .accesskey = F
