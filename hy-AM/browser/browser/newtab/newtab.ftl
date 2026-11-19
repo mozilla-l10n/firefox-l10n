@@ -238,9 +238,9 @@ newtab-privacy-message-info-13-cta = Դիտել պաշտպանություննե
 
 newtab-privacy-message-promo-monitor-1 = Պարզեք, թե արդյոք ձեր անձնական տվյալները հայտնվում են տվյալների արտահոսքի ժամանակ։
 newtab-privacy-message-promo-monitor-1-cta = Իմանալ ավելին
-newtab-privacy-message-promo-monitor-2 = Պաշտպանեք ձեր տեղեկությունները մինչև 20 էլեկտրոնային նամակի համար նախատեսված անվճար տվյալների արտահոսքի մոնիթորինգի միջոցով։
+newtab-privacy-message-promo-monitor-2 = Պաշտպանեք ձեր տվյալները՝ մինչև 20 էլ. փոստի անվճար արտահոսքի մոնիթորինգով։
 newtab-privacy-message-promo-monitor-2-cta = Իմանալ ավելին
-newtab-privacy-message-promo-signin-1 = Պահպանեք էջանիշերը, գաղտնաբառերը և ներդիրները կոդավորված տարբեր սարքերում՝ օգտագործելով ձեր { -vendor-short-name } հաշիվը։
+newtab-privacy-message-promo-signin-1 = Ձեր { -vendor-short-name } հաշվի միջոցով գաղտնագրեք և համաժամեցրեք էջանիշերը, գաղտնաբառերն ու ներդիրները։
 newtab-privacy-message-promo-signin-1-cta = Մուտք գործել
 newtab-privacy-message-promo-vpn-1 = Գնումներ եք կատարում հանրային Wi-Fi-ով։ Միացրեք ներկառուցված VPN-ը՝ լրացուցիչ պաշտպանության համար։
 newtab-privacy-message-promo-vpn-1-cta = Բացել VPN-ը
@@ -248,9 +248,9 @@ newtab-privacy-message-promo-vpn-2 = Օդանավակայանի Wi-Fi օգտագ
 newtab-privacy-message-promo-vpn-2-cta = Բացել VPN-ը
 newtab-privacy-message-promo-vpn-3 = Միացրեք ներկառուցված VPN-ը՝ ձեր գտնվելու վայրն ավելի գաղտնի պահելու համար։
 newtab-privacy-message-promo-vpn-3-cta = Բացել VPN-ը
-newtab-privacy-message-promo-private-window-1 = Փորձեք անձնական պատուհան՝ համօգտագործվող համակարգիչն օգտագործելիս ավելի անձնական զննարկիչ օգտագործելու համար։
+newtab-privacy-message-promo-private-window-1 = Համօգտագործվող համակարգչով ավելի գաղտնի դիտարկման համար օգտ. գաղտնի պատուհանը։
 newtab-privacy-message-promo-private-window-1-cta = Բացել գաղտնի պատուհան
-newtab-privacy-message-promo-relay-1 = Պահպանեք ձեր իրական էլ. փոստի հասցեն այն մարդկանց համար, ում վստահում եք. օգտագործեք էլ. փոստի դիմակ գրանցումների համար։
+newtab-privacy-message-promo-relay-1 = Ձեր իրական էլ. փոստը տրամադրեք միայն վստահելի անձանց, իսկ գրանցումների համար օգտ. էլ. փոստի դիմակ։
 newtab-privacy-message-promo-relay-1-cta = Գնեք դիմակներ
 newtab-privacy-message-promo-relay-2 = Պաշտպանեք ձեր էլ.փոստի արկղը սպամից՝ անվճար էլ.փոստի քողարկման միջոցով:
 newtab-privacy-message-promo-relay-2-cta = Ստանալ դիմակներ
@@ -277,7 +277,7 @@ newtab-privacy-message-streak =
 newtab-privacy-message-streak-cta = Տվյալների պաշտպանություն
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Շարունակեք զննել, { -brand-short-name }-ը կշարունակի արգելափակել։
-newtab-privacy-message-first-protection-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-first-protection-cta = Դիտել պաշտպ.-ները
 
 ## Strings for the Finance widget
 
