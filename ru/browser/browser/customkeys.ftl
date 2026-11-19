@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Перейти на вкладку 8
 customkeys-nav-select-last-tab = Перейти к последней вкладке
 customkeys-nav-toggle-mute = Отключить/включить звук аудио
 customkeys-edit-find-previous = Найти предыдущее
+customkeys-edit-find-selection = Использовать выделенное для поиска
 customkeys-tools-screenshot = Сделать снимок экрана
 customkeys-category-navigation-2 =
     .heading = Навигация

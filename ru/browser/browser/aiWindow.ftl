@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Быстрая
 aiwindow-input-model-select-button-label-allpurpose = Гибкая
 aiwindow-input-model-select-button-label-personal = Персональная
 aiwindow-input-model-select-button-label-custom = Настраиваемая
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Авто
 aiwindow-input-model-select-default-badge =
     .label = По умолчанию
     .title = Выбранная модель по умолчанию
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Рекомендуемая
+    .title = Рекомендуемая модель
 aiwindow-input-model-select-settings-link = Параметры модели
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } выбирает лучшую модель для вашей задачи
+aiwindow-input-model-select-fast-description = Быстрые ответы, когда вы быстро движетесь
+aiwindow-input-model-select-flexible-description = Готова к различным задачам
+aiwindow-input-model-select-personal-description = Хороша, если вы общаетесь и сёрфите на нескольких языках
 
 ## Firstrun memories onboarding
 

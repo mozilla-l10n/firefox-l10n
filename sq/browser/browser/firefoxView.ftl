@@ -17,6 +17,9 @@ firefoxview-page-label =
 firefoxview-just-now-timestamp = Mu tani
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name }-i jua në krejt pajisjet tuaja
 firefoxview-syncedtabs-signin-description-2 = Që të shihni skeda që keni hapur në telefonin tuaj dhe pajisje të tjera, bëni hyrjen në llogari, ose regjistrohuni për një të tillë. Me një llogari, mundeni edhe të njëkohësoni fjalëkalimet tuaj, historikun, etj.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Nga portativi në telefon, rrjedhshëm
+firefoxview-syncedtabs-signin-description-3 = Mbajeni shfletimin tuaj të lidhur nëpër pajisje të ndryshme — skeda, fjalëkalime dhe historik, gjithçka e njëkohësuar.
 firefoxview-syncedtabs-signin-primarybutton-2 = Hyni
 firefoxview-syncedtabs-adddevice-header-2 = Përlani skeda nga kudo
 firefoxview-syncedtabs-adddevice-description-2 = Që të shihni skeda këtu, bëni hyrjen në { -brand-product-name } te telefoni juaj, apo tjetër kompjuter. Mësoni se si të <a data-l10n-name="url">lidhni pajisje shtesë</a>.
