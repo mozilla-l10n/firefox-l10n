@@ -48,6 +48,12 @@ mr1-return-to-amo-add-extension-label = Přidat doplněk { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 onboarding-welcome-steps-indicator-label =
     .aria-label = Postup: krok { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -295,6 +301,11 @@ mr2022-onboarding-set-default-subtitle = Používejte prohlížeč podporovaný 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Naše nejnovější verze je postavená podle vás, díky čemuž je procházení webu snazší než kdykoliv předtím. Je nabitá funkcemi, které si podle nás zamilujete.
 mr2022-onboarding-get-started-primary-button-label = Nastavení během okamžiku
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 mr2022-onboarding-import-primary-button-label-no-attribution = Importovat z dříve používaného prohlížeče
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -904,6 +915,11 @@ hnt-card-mobile-body =
     { -brand-product-name.case-status ->
         [with-cases] Stáhněte si mobilní verzi { -brand-product-name(case: "gen") } a chraňte své soukromí i na cestách.
        *[no-cases] Stáhněte si mobilní verzi aplikace { -brand-product-name } a chraňte své soukromí i na cestách.
+    }
+hnt-card-mobile-primary-button2 =
+    { -brand-product-name.case-status ->
+        [with-cases] Získat { -brand-product-name(case: "acc") } do mobilu
+       *[no-cases] Získat aplikaci { -brand-product-name } do mobilu
     }
 hnt-card-mobile-primary-button =
     { -brand-product-name.case-status ->
