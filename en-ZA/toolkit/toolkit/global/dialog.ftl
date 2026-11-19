@@ -9,6 +9,9 @@ dialog-button-accept =
     .label = OK
 dialog-button-cancel =
     .label = Cancel
+dialog-button-disclosure =
+    .label = More Info
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
@@ -21,6 +24,9 @@ dialog-button-no =
 dialog-button-save =
     .label = Save
     .accesskey = S
+dialog-button-dont-save =
+    .label = Don't Save
+    .accesskey = n
 dialog-button-revert =
     .label = Revert
     .accesskey = R
