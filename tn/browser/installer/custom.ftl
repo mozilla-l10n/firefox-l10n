@@ -19,3 +19,15 @@
 options-page-title = Mofuta wa Boalo
 shortcuts-page-title = Tselakhutshwane ya Boalo
 summary-page-title = Tshobokanyo
+summary-page-subtitle = Reboletsweng go simolola go tsenya { $BrandShortName }
+create-icons-desc = Tlhama di aekhone tsa { $BrandShortName }:
+status-install-app = E a tsenya { $BrandShortName }...
+status-uninstall-main = E a ntsha { $BrandShortName }...
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } e tla tsenyiwa ka diitlhophelwa tse di tlwaelegileng thata.
+option-standard-radio = Boemo
+    .accesskey = B
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = O ka tlhopha diitlhophelwa tse di tshwanetseng go tlhomiwa. E atlenegisediwa badirisi ba ba nang le maitemogelo.
+option-custom-radio = Magoro
+    .accesskey = M
