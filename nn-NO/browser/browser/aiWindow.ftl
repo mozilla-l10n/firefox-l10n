@@ -121,6 +121,8 @@ aiwindow-input-model-select-button-label-fast = Rask
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Personleg
 aiwindow-input-model-select-button-label-custom = Tilpassa
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatisk
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Vald standardmodell
