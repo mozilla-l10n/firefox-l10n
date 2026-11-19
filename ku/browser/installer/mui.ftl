@@ -16,6 +16,14 @@
 ##   $ClickInstructions (String) - The instructions to proceed to the next step of the wizard (e.g. “Click Next to continue.”).
 
 mui-text-welcome-info-title = Bi xêr hatî Sêrbaza Sazkirina  { $BrandFullNameDA } 'ê
+mui-text-welcome-info-text =
+    Ev sêrbaz dê di sazkirina { $BrandFullNameDA }'ê de ji te re rêbertiyê bike.
+    
+    Tê pêşniyarkirin ku berî destpêkirina sazkirinê hemû sepanên din bigirî. Bi vê yekê bêyî nûdestpêkirina komputerê dê pelên ji bo pergalê divên bên nûkirin.
+    
+    { $ClickInstructions }
+mui-text-components-title = Parçeyan Hilbijêre
+mui-text-components-subtitle = Taybetmendiyên { $BrandFullNameDA } 'ê yên dixwazî saz bibin hilbijêre.
 mui-innertext-components-description-title = Daxuyanî
 mui-innertext-components-description-info = Ji bo dîtina ravekirina parçeyan, mişkî li ser parçeyan bigerîne.
 mui-text-directory-title = Cihê Sazkirinê Hilbijêre
