@@ -62,6 +62,49 @@ warn-manually-close-app-refresh =
     Ak chcete pokračovať v obnove, musí byť aplikácia { $BrandShortName } ukončená.
     
     Ukončite { $BrandShortName }.
+warn-write-access =
+    Nemáte oprávnenie zapisovať do zadaného inštalačného priečinka.
+    
+    Vyberte iný priečinok.
+warn-disk-space =
+    Na inštaláciu do zadaného priečinka nie je dostatok miesta.
+    
+    Vyberte iné umiestnenie.
+warn-min-supported-osver-msg = Ospravedlňujeme sa, { $BrandShortName } nemôže byť nainštalovaný. Táto verzia aplikácie { $BrandShortName } vyžaduje { $MinSupportedVer } alebo novší. Ďalšie informácie zobrazíte kliknutím na tlačidlo OK.
+warn-min-supported-cpu-msg = Ospravedlňujeme sa, { $BrandShortName } nemôže byť nainštalovaný. Táto verzia aplikácie { $BrandShortName } vyžaduje procesor s podporou { $MinSupportedCPU }. Ďalšie informácie zobrazíte kliknutím na tlačidlo OK.
+warn-min-supported-osver-cpu-msg = Ospravedlňujeme sa, { $BrandShortName } nemôže byť nainštalovaný. Táto verzia aplikácie { $BrandShortName } vyžaduje { $MinSupportedVer } alebo novší a procesor s podporou { $MinSupportedCPU }. Ďalšie informácie zobrazíte kliknutím na tlačidlo OK.
+warn-restart-required-uninstall = Na dokončenie odinštalovania programu { $BrandShortName } je potrebné reštartovať počítač. Chcete ho reštartovať teraz?
+warn-restart-required-upgrade = Na dokončenie aktualizácie programu { $BrandShortName } je potrebné reštartovať počítač. Chcete ho reštartovať teraz?
+error-create-directory-prefix = Chyba pri vytváraní priečinka:
+error-create-directory-suffix =
+    Kliknutím na tlačidlo Zrušiť ukončite inštaláciu alebo
+    kliknutím na tlačidlo Znova pokus zopakujte.
+un-confirm-page-title = Odinštalovanie programu { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } bude odinštalovaný z nasledujúceho priečinka:
+un-refresh-page-title = Chcete namiesto toho { $BrandShortName } obnoviť?
+un-refresh-page-explanation =
+    Ak máte problémy s aplikáciou { $BrandShortName }, jej obnovenie môže tieto problémy vyriešiť.
+    
+    Obnovené budú predvolené nastavenia a budú odstránené doplnky.
+un-refresh-learn-more = Ďalšie informácie
+    .accesskey = Ď
+un-refresh-button = Obnoviť { $BrandShortName }
+    .accesskey = O
+banner-check-existing = Kontroluje sa existujúca inštalácia…
+status-install-app = Inštaluje sa { $BrandShortName }…
+status-uninstall-main = Odinštalováva sa { $BrandShortName }…
+status-cleanup = Prebieha čistenie…
+un-survey-checkbox-label = Povedzte Mozille, prečo ste odinštalovali { $BrandShortName }
+# This string should fit in one line (approximately 65 characters).
+options-summary = Vyberte preferovaný typ inštalácie a kliknite na tlačidlo Ďalej.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } bude nainštalovaný s bežnými súčasťami.
+option-standard-radio = Štandardná
+    .accesskey = Š
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Môžete vybrať jednotlivé súčasti, ktoré chcete nainštalovať. Odporúča sa skúseným používateľom.
+option-custom-radio = Prispôsobená
+    .accesskey = P
 # This text replaces the Install button text on the summary page.
 upgrade-button = Aktualizovať
     .accesskey = A
