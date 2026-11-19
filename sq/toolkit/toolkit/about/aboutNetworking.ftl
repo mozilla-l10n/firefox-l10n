@@ -12,6 +12,25 @@ about-networking-dns-trr-url = URL DoH
 about-networking-dns-trr-mode = Mënyra DoH
 about-networking-dns-suffix = Prapashtesë DNS
 about-networking-websockets = Socket-e Web
+about-networking-alt-svc-origin = Origjinë
+about-networking-ssl-tokens-expires = Skadon më
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokenë
+    }
+about-networking-ssl-tokens-new =
+    .alt = I ri në këtë sesion
+    .title = I ri në këtë sesion
+about-networking-ssl-tokens-expired =
+    .alt = I skaduar
+    .title = I skaduar
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokenë: { $tokenLength } B. Fshehtëzuar: { $decompressedLength } → { $compressedLength } B.
 about-networking-refresh = Rifreskoje
 about-networking-auto-refresh = Vetërifreskohu çdo 3 sekonda
 about-networking-hostname = Strehëemër

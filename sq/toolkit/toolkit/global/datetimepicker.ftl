@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Orë
 time-spinner-minute-label =
     .aria-label = Minutë
+time-spinner-second-label =
+    .aria-label = Sekondë
+time-spinner-millisecond-label =
+    .aria-label = Milisekondë
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Minuta e mëparshme
 time-spinner-minute-next =
     .aria-label = Minuta pasuese
+time-spinner-second-previous =
+    .aria-label = Sekonda e mëparshme
+time-spinner-second-next =
+    .aria-label = Sekonda pasuese
+time-spinner-millisecond-previous =
+    .aria-label = Milisekonda e mëparshme
+time-spinner-millisecond-next =
+    .aria-label = Milisekonda pasuese
 time-spinner-day-period-previous =
     .aria-label = Periudha e mëparshme e ditës
 time-spinner-day-period-next =

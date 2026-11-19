@@ -160,6 +160,9 @@ about-processes-site-tab-count =
         [one] ({ $count } skedë)
        *[other] ({ $count } skeda)
     }
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Mbylle
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -203,6 +206,14 @@ about-processes-cpu-almost-idle = < 0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = jo aktiv
     .title = Kohë CPU-je gjithsej: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: a tab is currently idle.
+about-processes-tab-cpu-fully-idle = jo aktiv
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
+# Special case: a positive tab-view CPU share below its two-decimal display precision.
+about-processes-tab-cpu-almost-idle2 = < 0.01%
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -220,6 +231,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Evolucion: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 

@@ -259,6 +259,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Sie nähern sich Ihrem VPN-Limit
     .message = Sie haben noch { $usageLeft } MB von { $maxUsage } GB übrig für diesen Monat.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Sie haben { $additionalLocationsCount } weiteren VPN-Standort
+           *[other] Sie haben { $additionalLocationsCount } weitere VPN-Standorte
+        }
+    .message = Danke, dass Sie { -brand-short-name } als Standard festgelegt haben. Wir haben mehr Standorte hinzugefügt, die Sie benutzen können.
 ipprotection-message-continuous-onboarding-intro = Aktivieren Sie VPN, um Ihren Standort zu verbergen und Ihr Surfen zusätzlich zu verschlüsseln.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stellen Sie VPN so ein</a>, dass es jedes Mal aktiviert wird, wenn Sie { -brand-short-name } öffnen, um eine zusätzliche Schutzebene zu erhalten.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } wird sich merken, für welche Websites Sie die Verwendung von VPN eingestellt haben. Aktualisieren Sie diese Informationen jederzeit in den <a data-l10n-name="setting-link">Einstellungen</a>.

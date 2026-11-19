@@ -87,6 +87,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Fshiji krejt
 ai-window-delete-all-memories-title = Të fshihen krejt kujtesat?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Kujtesat ekzistuese do të fshihen. Nëse s’doni të krijohet ndonjë kujtesë e re, hiquani shenjën mundësive për  “Mëso nga…” te rregullimet për { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Fshije
 ai-window-delete-all-memories-cancel = Anuloje
 # Variables:
