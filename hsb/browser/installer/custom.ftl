@@ -46,3 +46,65 @@ launch-text = { $BrandShortName } nětko startować
 create-icons-desc = Wutworće symbole za { $BrandShortName }:
 icons-desktop = Na desktopje
     .accesskey = d
+icons-startmenu = W rjadowaku Programme startoweho menija
+    .accesskey = P
+icons-taskbar = Na mojej nadawkowej lajsće
+    .accesskey = d
+warn-manually-close-app-install =
+    { $BrandShortName } dyrbi so začinić, zo by z instalaciju pokročował.
+    
+    Prošu začińće { $BrandShortName }, zo byšće pokročował.
+warn-manually-close-app-uninstall =
+    { $BrandShortName } dyrbi so začinić, zo by z wotinstalowanjom pokročował.
+    
+    Prošu začińće { $BrandShortName }, zo byšće pokročował.
+warn-manually-close-app-refresh =
+    { $BrandShortName } dyrbi so začinić, zo by z aktualizowanjom pokročował.
+    
+    Prošu začińće { $BrandShortName }, zo byšće pokročował.
+warn-write-access =
+    Nimaće přistup, zo byšće do instalaciskeho rjadowaka pisał.
+    
+    Klikńće na W porjadku, zo byšće druhi rjadowak wubrał.
+warn-disk-space =
+    Nimaće dosć tačeloweho ruma, zo byšće do tutoho městna instalował.
+    
+    Klikńće na W porjadku, zo byšće druhe městno wubrał.
+warn-min-supported-osver-msg = Bohužel { $BrandShortName } njeda so instalować. Tuta wersija { $BrandShortName } trjeba { $MinSupportedVer } abo nowše. Prošu klikńće na tłóčatko „W porjadku“ za dalše informacije.
+warn-min-supported-cpu-msg = Bohužel { $BrandShortName } njeda so instalować. Tuta wersija { $BrandShortName } trjeba procesor z podpěru { $MinSupportedCPU }. Prošu klikńće na tłóčatko „W porjadku“ za dalše informacije.
+warn-min-supported-osver-cpu-msg = Bohužel { $BrandShortName } njeda so instalować. Tuta wersija { $BrandShortName } trjeba { $MinSupportedVer } abo nowše a procesor z podpěru { $MinSupportedCPU }. Prošu klikńće na tłóčatko „W porjadku“ za dalše informacije.
+warn-restart-required-uninstall = Waš ličak dyrbi so znowa startować, zo by předchadne wotinstalowanje { $BrandShortName } zakónčił. Chceće nětko znowa startować?
+warn-restart-required-upgrade = Waš ličak dyrbi so znowa startować, zo by so předchadna aktualizacija { $BrandShortName } zakónčiła. Chceće nětko znowa startować?
+error-create-directory-prefix = Zmylk při wutworjenju rjadowaka:
+error-create-directory-suffix =
+    Klikńće na Přetorhnyć, zo byšće instalaciju zastajił
+    abo na Hišće raz spytać, zo byšće hišće raz spytał.
+un-confirm-page-title = { $BrandFullName } wotinstalować
+un-confirm-uninstalled-from = { $BrandShortName } budźe so ze slědowaceho městna wotinstalować:
+un-refresh-page-title = { $BrandShortName } město toho aktualizować?
+un-refresh-page-explanation =
+    Jeli maće problemy z { $BrandShortName }, móhło aktualizowanje pomhać.
+    
+    To standardne nastajenja wobnowi a přidatki wotstroni. Aktualizujće za optimalny wukon.
+un-refresh-learn-more = Dalše informacije
+    .accesskey = D
+un-refresh-button = { $BrandShortName } aktualizować
+    .accesskey = a
+banner-check-existing = Eksistowaca instalacija so přepruwuje…
+status-install-app = { $BrandShortName } so instaluje…
+status-uninstall-main = { $BrandShortName } so wotinstaluje…
+status-cleanup = Trochu hospodarjenja…
+un-survey-checkbox-label = Zdźělće Mozilla, čehoždla sće { $BrandShortName } wotinstalował
+# This string should fit in one line (approximately 65 characters).
+options-summary = Wubjerće typ instalacije, kotryž preferujeće, a klikńće potom na Dale.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } budźe so z najbóle zwučenymi nastajenjemi instalować.
+option-standard-radio = Standard
+    .accesskey = S
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Móžeće jednotliwe nastajenja wubrać, kotrež maja so instalować. Poruča so za nazhonjenych wužiwarjow.
+option-custom-radio = Swójske
+    .accesskey = w
+# This text replaces the Install button text on the summary page.
+upgrade-button = Aktualizować
+    .accesskey = A
