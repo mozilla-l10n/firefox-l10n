@@ -16,3 +16,4 @@
 ##   $ClickInstructions (String) - The instructions to proceed to the next step of the wizard (e.g. “Click Next to continue.”).
 
 mui-text-welcome-info-title = Bienvenido al asistente de instalación { $BrandFullNameDA }
+mui-innertext-startmenu-top = Seleccione la carpeta del menú Inicio en la que le gustaría crear los accesos directos del programa. También puede introducir un nombre para crear una carpeta nueva.

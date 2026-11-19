@@ -44,3 +44,32 @@ nsis-click-next = Pulse Siguiente para continuar.
 nsis-click-install = Pulse Instalar para comenzar la instalación.
 nsis-click-uninstall = Pulse Desinstalar para comenzar la desinstalación.
 nsis-completed = Completada
+nsis-file-error =
+    Error al abrir el archivo para escribir:
+    
+    { $FilePath }
+    
+    Pulse Abortar para detener la instalación,
+    Reintentar para intentarlo de nuevo, o
+    Ignorar para saltarse este archivo.
+nsis-file-error-no-ignore =
+    Error al abrir el archivo para escribir:
+    
+    { $FilePath }
+    
+    Pulse Reintentar para intentarlo de nuevo, o
+    Cancelar para detener la instalación.
+nsis-cant-write = No se puede escribir:{ " " }
+nsis-copy-failed = Copia fallida
+nsis-copy-to = Copiar a{ " " }
+nsis-registering = Registrando:{ " " }
+nsis-unregistering = Deregistrando:{ " " }
+nsis-symbol-not-found = No se ha encontrado el símbolo:{ " " }
+nsis-could-not-load = No se ha podido cargar:{ " " }
+nsis-create-folder = Crear carpeta:{ " " }
+nsis-create-shortcut = Crear acceso directo:{ " " }
+nsis-created-uninstaller = Desinstalador creado:{ " " }
+nsis-delete = Eliminar archivo:{ " " }
+nsis-delete-on-reboot = Eliminar al reiniciar:{ " " }
+nsis-error-creating-shortcut = Error al crear el acceso directo:{ " " }
+nsis-error-creating = Error creando:{ " " }
