@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Добре
+dialog-button-cancel =
+    .label = Отказ
+dialog-button-disclosure =
+    .label = Подробности
+    .accesskey = П
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
