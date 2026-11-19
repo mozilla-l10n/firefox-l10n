@@ -260,6 +260,14 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = VPN 사용 한도에 가까워지는 중
     .message = 이번 달에는 { $maxUsage } GB 중 { $usageLeft } MB가 남았습니다.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+           *[other] VPN 위치가 { $additionalLocationsCount }개 더 있습니다
+        }
+    .message = { -brand-short-name }를 기본 브라우저로 설정해 주셔서 감사합니다. 탐색할 수 있는 위치를 더 추가했습니다.
 ipprotection-message-continuous-onboarding-intro = VPN을 켜서 위치를 숨기고 탐색에 암호화를 추가하세요.
 ipprotection-message-continuous-onboarding-autostart = { -brand-short-name }를 열 때마다 <a data-l10n-name="setting-link">VPN을 켜도록 설정</a>하여 추가 보호 계층을 사용하세요.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }는 VPN을 사용하도록 설정한 웹 사이트를 기억합니다. <a data-l10n-name="setting-link">설정</a>에서 언제든지 변경할 수 있습니다.
