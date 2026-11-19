@@ -189,8 +189,8 @@ ipprotection-button-turn-vpn-off-1 = Izslēgt
 
 # Variables
 #   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
-ipprotection-unlimited-bandwidth-promo = Neierobežots joslas platums līdz { DATETIME($endDate, day: "numeric", month: "long") }
-ipprotection-unlimited-bandwidth-upgraded = Neierobežots joslas platums
+ipprotection-unlimited-bandwidth-promo = Neierobežots datu patēriņš līdz { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Neierobežots datu patēriņš
 
 ## Location controls
 

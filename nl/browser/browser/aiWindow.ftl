@@ -126,7 +126,20 @@ aiwindow-input-model-select-button-label-auto = Automatisch
 aiwindow-input-model-select-default-badge =
     .label = Standaard
     .title = Het geselecteerde standaardmodel
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Aanbevolen
+    .title = Het aanbevolen model
 aiwindow-input-model-select-settings-link = Modelinstellingen
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } kiest het beste model voor uw taak
+aiwindow-input-model-select-fast-description = Snelle antwoorden als u snel vooruit wilt
+aiwindow-input-model-select-flexible-description = Klaar voor een breed scala aan taken
+aiwindow-input-model-select-personal-description = Goed als u in meerdere talen chat en surft
 
 ## Firstrun memories onboarding
 

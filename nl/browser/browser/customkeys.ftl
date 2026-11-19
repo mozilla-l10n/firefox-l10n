@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Naar tabblad 8
 customkeys-nav-select-last-tab = Naar laatste tabblad
 customkeys-nav-toggle-mute = Audio dempen/dempen opheffen
 customkeys-edit-find-previous = Vorige zoeken
+customkeys-edit-find-selection = Selectie gebruiken voor zoeken
 customkeys-tools-screenshot = Een schermafbeelding maken
 customkeys-category-navigation-2 =
     .heading = Navigatie

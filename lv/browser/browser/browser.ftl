@@ -1328,10 +1328,10 @@ safebrowsing-get-me-out-of-here-button =
     .label = Vediet mani prom no šejienes!
     .accesskey = V
 safebrowsing-not-a-deceptive-site-button =
-    .label = Šī nav maldinoša lapa…
+    .label = Šī nav maldinoša vietne…
     .accesskey = d
 safebrowsing-not-an-attack-site-button =
-    .label = Šī lapa neveic uzbrukumus…
+    .label = Šī nav uzbrukumu vietne…
     .accesskey = a
 
 ## Notification bar shown when a captive portal is blocking network access
@@ -1721,9 +1721,9 @@ trustpanel-etp-toggle-off =
     .aria-label = Uzlabotā pretizsekošanas aizsardzība: izslēgta { $host }
 trustpanel-etp-description-enabled = Ja kaut kas šajā vietnē izskatās salūzis, jāmēģina izslēgt aizsardzību.
 trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu Tevi mazāk izsekot. Mēs aizturam tik daudz izsekotāju, cik vien mēs varam, kad ir ieslēgta aizsardzība.
-trustpanel-trackercount-label = Rādīt adrešu joslā bloķētos izsekotājus
+trustpanel-trackercount-label = Adreses joslā rādīt aizturētos izsekotājus
 trustpanel-trackercount-toggle =
-    .aria-label = Rādīt bloķētos izsekotājus adrešu joslā
+    .aria-label = Adreses joslā rādīt aizturētos izsekotājus
 trustpanel-connection-label-secure = Savienojums ir drošs
 trustpanel-connection-label-insecure = Savienojums nav drošs
 trustpanel-header-enabled = { -brand-product-name } ir sardzē

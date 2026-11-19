@@ -52,7 +52,7 @@ migration-imported-edge-reading-list = Lasāmo lietu saraksts (No Edge)
 #
 # Variables:
 #  $number (Number): the position of the space among the imported profile's spaces, starting at 1.
-migration-imported-arc-untitled-space = Atstarpe { $number }
+migration-imported-arc-untitled-space = Kopa { $number }
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox

@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Stip
 user-context-icon-fence =
     .label = Hekwerk
+user-context-icon-robot =
+    .label = Robot

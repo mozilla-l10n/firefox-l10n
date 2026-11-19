@@ -532,7 +532,7 @@ applications-use-os-default =
         }
 applications-use-other =
     .label = Izmantot citu...
-applications-select-helper = Izvēlieties palīdzības programmu
+applications-select-helper = Atlasīt palīgprogrammu
 applications-manage-app =
     .label = Programmas iestatījumi...
 applications-always-ask =
