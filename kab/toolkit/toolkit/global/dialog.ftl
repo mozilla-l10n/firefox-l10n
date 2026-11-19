@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = IH
+dialog-button-cancel =
+    .label = Sefsex
+dialog-button-disclosure =
+    .label = Ugar n telɣut
+    .accesskey = U
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
