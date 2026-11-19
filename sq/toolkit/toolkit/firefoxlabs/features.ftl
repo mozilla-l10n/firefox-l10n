@@ -91,6 +91,8 @@ experimental-features-tab-notes-description = Shënime skedash janë një veçor
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Menu skedash e bërë më e hajthme
+experimental-features-tab-context-menu-description = Shihni një menu më të thjeshtë konteksti, kur djathtasklikoni mbi një skedë. Është hartuar t’i bëjë veprimet e rëndomta të gjende më kollaj. <a data-l10n-name="connect">Jepni përshtypjet</a>
 # Resource Monitor
 experimental-features-resource-monitor =
     .label = Mbikëqyrës burimesh
+experimental-features-resource-monitor-description = Shihni drejt e në anështyllë harxhim përafërsisht kujtese dhe CPU-je për skedat e hapura dhe hiqni nga kujtesa skeda që s’po i përdorni, për të liruar burime. <a data-l10n-name="connect">Jepni përshtypje</a>

@@ -54,6 +54,8 @@ about-private-browsing-pin-promo-title = Pa ruajtje cookie-sh apo historiku, dre
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Ndihmoni të parandalohen mesazhe të padëshiruar, me maska email-i
+about-private-browsing-relay-promo-title = Fshihni adresën tuaj të njëmendtë me një maskë email-i, kur regjistrojeni diku, blini apo ndani gjëra në interne.
 about-private-browsing-relay-promo-link-text = Provoni maska email-i
 
 ## Strings used in a promotion message for cookie banner reduction
@@ -69,6 +71,12 @@ about-private-browsing-felt-privacy-v1-info-header = Mos lini gjurmë në këtë
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } fshin cookie-t, historikun dhe të dhëna sajti tuajat, kur mbyllni krejt dritaret tuaja private.
 about-private-browsing-felt-privacy-v1-info-link = Cilët mund të jenë në gjendje të shohin veprimtarinë time?
 
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Mbyllja e krejt Dritareve tuaja Private fshin cookie-t tuaja, historikun dhe të dhëna sajtesh.
+about-private-browsing-nova-info-link = Cilët mundet të jenë ende të aftë të shohin veprimtarinë time?
+about-private-browsing-private-window-basics-link = Gjëra elementare Dritaresh Private
+
 ## Strings for the Private Window basics spotlight
 
 # This is a section header in the Private Window basics spotlight dialog,
@@ -77,4 +85,8 @@ about-private-browsing-spotlight-basics-what-to-know = Ç’duhet të dihet
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Më tepër mbrojtje privatësie
+about-private-browsing-spotlight-basics-vpn = Përdorni VPN të brendshme, për ta bërë më të zorshme gjetjen e vendndodhjes tuaj.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Kaloni te Strikte, te rregullimet, për mbrojtje më të fuqishme kundër gjurmimit.
 about-private-browsing-spotlight-basics-learn-more = Mësoni më tepër
