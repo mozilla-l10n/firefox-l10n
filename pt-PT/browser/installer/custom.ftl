@@ -82,6 +82,19 @@ error-create-directory-suffix =
 un-confirm-page-title = Desinstalar o { $BrandFullName }
 un-confirm-uninstalled-from = O { $BrandShortName } será desinstalado a partir da seguinte localização:
 un-refresh-page-title = Como alternativa, renovar o { $BrandShortName }?
+un-refresh-page-explanation =
+    Se estiver a ter problemas com o { $BrandShortName }, uma renovação pode ajudar.
+    
+    Isto irá restaurar as configurações predefinidas e irá remover complementos. Recomece, para obter o desempenho ideal.
+un-refresh-learn-more = Saber mais
+    .accesskey = S
+un-refresh-button = Renovar o { $BrandShortName }
+    .accesskey = R
+banner-check-existing = A verificar a instalação existente…
+status-install-app = A instalar o { $BrandShortName }…
+status-uninstall-main = A desinstalar o { $BrandShortName }…
+status-cleanup = A efetuar uma limpeza…
+un-survey-checkbox-label = Dizer à Mozilla por que desinstalou o { $BrandShortName }
 # This string should fit in one line (approximately 65 characters).
 options-summary = Escolha o tipo de instalação preferida e clique em Seguinte.
 # This string should fit in one line (approximately 65 characters).
