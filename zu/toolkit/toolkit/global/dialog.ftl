@@ -15,3 +15,15 @@ dialog-button-disclosure =
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
+dialog-button-yes =
+    .label = Yebo
+    .accesskey = Y
+dialog-button-no =
+    .label = Cha
+    .accesskey = C
+dialog-button-save =
+    .label = Gcina
+    .accesskey = G
+dialog-button-revert =
+    .label = Buyela
+    .accesskey = B
