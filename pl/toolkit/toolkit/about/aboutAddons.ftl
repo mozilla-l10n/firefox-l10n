@@ -269,6 +269,9 @@ colorway-removal-notice-button = Pobierz odświeżone kolorystyki
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Ustawienia kontrastu systemu Windows zastępują motywy { -brand-short-name(case: "gen") }. Wyłącz te ustawienia, aby móc korzystać z motywów w { -brand-short-name(case: "loc") }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } ma wbudowane jasne i ciemne motywy, które dopasowują się do ustawień systemu.
 privacy-policy = Zasady ochrony prywatności
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

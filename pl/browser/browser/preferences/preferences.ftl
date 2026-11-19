@@ -653,6 +653,14 @@ support-get-help =
 support-share-ideas =
     .label = Podziel się pomysłami i opiniami
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Aktualności, instrukcje i porady, jak najlepiej wykorzystać { -brand-product-name(case: "acc") }.
+    .label = Biuletyn { -brand-product-name(case: "gen") }
+newsletter-sign-up-link =
+    .label = Subskrybuj
+
 ## General Section - Performance
 
 performance-settings-learn-more = Więcej informacji
