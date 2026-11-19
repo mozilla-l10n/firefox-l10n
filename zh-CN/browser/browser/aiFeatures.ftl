@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = 按侧重的需求选择模型。
     .label = 助理模型
+smart-window-model-section-v2 =
+    .description = 模型是聊天和执行操作的核心。
+    .label = 模型
 smart-window-model-radio-group =
     .aria-label = 助理模型
 smart-window-model-learn-link = 了解模型
+smart-window-model-auto =
+    .description = 由 { -smart-window-brand-name } 根据任务选择最合适的模型
+    .label = 自动选择模型
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
