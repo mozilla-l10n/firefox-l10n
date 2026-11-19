@@ -5,6 +5,10 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = OK
+dialog-button-cancel =
+    .label = キャンセル
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
