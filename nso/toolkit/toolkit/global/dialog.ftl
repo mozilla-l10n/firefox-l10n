@@ -9,6 +9,9 @@ dialog-button-accept =
     .label = Lokile
 dialog-button-cancel =
     .label = Khansela
+dialog-button-disclosure =
+    .label = Tshedimošo e oketšegilego
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
@@ -21,6 +24,9 @@ dialog-button-no =
 dialog-button-save =
     .label = Boloka
     .accesskey = B
+dialog-button-dont-save =
+    .label = Se ke wa boloka
+    .accesskey = S
 dialog-button-revert =
     .label = Boela
     .accesskey = B
