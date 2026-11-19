@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = ٹھیک ہے
+dialog-button-cancel =
+    .label = منسوخ کریں
+dialog-button-disclosure =
+    .label = مزید معلومات
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
