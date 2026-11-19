@@ -19,6 +19,36 @@
 ##   $ClickInstructions (String) - The instructions to proceed to the next step of the wizard (e.g. “Click Next to continue.”).
 ##   $FilePath (String) - The path of the file that couldn’t be written.
 
+nsis-setup-caption = { $BrandFullName } প্রস্তুতি
+nsis-uninstall-caption = { $BrandFullName } আন-ইনস্টল করুন
+nsis-back-btn = < পূর্ববর্তী
+    .accesskey = B
+nsis-next-btn = পরবর্তী >
+    .accesskey = N
+nsis-accept-btn = লাইসেন্স চুক্তির শর্তাবলী অনুযায়ী আমি সম্মত
+    .accesskey = a
+nsis-dont-accept-btn = লাইসেন্স চুক্তির শর্তাবলী অনুযায়ী আমি সম্মত নই
+    .accesskey = d
+nsis-install-btn = ইনস্টল করুন
+    .accesskey = I
+nsis-uninstall-btn = আন-ইনস্টল করুন
+    .accesskey = U
+nsis-cancel-btn = বাতিল করুন
+nsis-close-btn = বন্ধ করুন
+    .accesskey = C
+nsis-browse-btn = ব্রাউজ করুন...
+    .accesskey = r
+nsis-show-details-btn = বিবরণ প্রদর্শন
+    .accesskey = d
+nsis-click-next = এগিয়ে যাওয়ার জন্য পরবর্তী ক্লিক করুন।
+nsis-click-install = ইনস্টলেশন আরম্ভের জন্য ইনস্টল করুন ক্লিক করুন।
+nsis-click-uninstall = আন-ইনস্টল করার জন্য আন-ইনস্টল করুন ক্লিক করুন।
+nsis-completed = সমাপ্ত
+nsis-license-text-rb = { $BrandFullNameDA } ইনস্টল করার পূর্বে অনুগ্রহ করে লাইসেন্স চুক্তিপত্রের শর্তাবলী পর্যালোচনা করুন। সকল শর্তাবলী গ্রহণযোগ্য হলে নিম্নলিখিত প্রথম বিকল্পটি নির্বাচন করুন। { $ClickInstructions }
+nsis-components-text = ইনস্টল করার উদ্দেশ্যে সামগ্রী নির্বাচন করুন ও যা ইনস্টল করতে অনিচ্ছুক তা নির্বাচনমুক্ত করুন। { $ClickInstructions }
+nsis-components-sub-text2-no-inst-types = ইনস্টল করার জন্য সামগ্রী নির্বাচন করুন:
+nsis-dir-text = নিম্নলিখিত ফোল্ডারের মধ্যে { $BrandFullNameDA } ইনস্টল করা হবে। ভিন্ন ফোল্ডারের মধ্যে ইনস্টল করার জন্য ব্রাউজ করুন ক্লিক করে একটি পৃথক ফোল্ডার নির্বাচন করুন। { $ClickInstructions }
+nsis-dir-sub-text = উদ্দিষ্ট ফোল্ডার
 nsis-dir-browse-text = { $BrandFullNameDA } ইনস্টল করার জন্য ফোল্ডার নির্বাচন করুন:
 nsis-space-available = উপলব্ধ স্থান:{ " " }
 nsis-space-required = আবশ্যক স্থান:{ " " }
