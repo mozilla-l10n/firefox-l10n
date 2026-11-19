@@ -121,9 +121,16 @@ aiwindow-input-model-select-button-label-fast = Schnell
 aiwindow-input-model-select-button-label-allpurpose = Flexibel
 aiwindow-input-model-select-button-label-personal = Persönlich
 aiwindow-input-model-select-button-label-custom = Benutzerdefiniert
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatisch
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Das ausgewählte Standard-Modell
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Empfohlen
+    .title = Das empfohlene Modell
 aiwindow-input-model-select-settings-link = Modell-Einstellungen
 
 ## Firstrun memories onboarding
