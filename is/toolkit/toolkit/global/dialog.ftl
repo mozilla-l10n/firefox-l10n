@@ -5,6 +5,13 @@
 
 ## Default button labels for <dialog> elements
 
+dialog-button-accept =
+    .label = Í lagi
+dialog-button-cancel =
+    .label = Hætta við
+dialog-button-disclosure =
+    .label = Meiri upplýsingar
+    .accesskey = I
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
