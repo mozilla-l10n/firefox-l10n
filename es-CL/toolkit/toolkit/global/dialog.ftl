@@ -15,3 +15,18 @@ dialog-button-disclosure =
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
+dialog-button-yes =
+    .label = Sí
+    .accesskey = S
+dialog-button-no =
+    .label = No
+    .accesskey = N
+dialog-button-save =
+    .label = Guardar
+    .accesskey = G
+dialog-button-dont-save =
+    .label = No guardar
+    .accesskey = d
+dialog-button-revert =
+    .label = Revertir
+    .accesskey = R
