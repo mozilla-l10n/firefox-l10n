@@ -10,3 +10,12 @@ dialog-button-accept =
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 
+dialog-button-yes =
+    .label = Se
+    .accesskey = S
+dialog-button-no =
+    .label = No
+    .accesskey = N
+dialog-button-save =
+    .label = Sarba
+    .accesskey = S
