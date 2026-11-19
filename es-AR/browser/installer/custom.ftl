@@ -57,6 +57,53 @@ warn-manually-close-app-uninstall =
     { $BrandShortName } debe cerrarse para proceder con la desinstalación.
     
     Cierre { $BrandShortName } para continuar.
+warn-manually-close-app-refresh =
+    { $BrandShortName } debe estar cerrado para continuar.
+    
+    Cierre { $BrandShortName } para continuar.
+warn-write-access =
+    No tiene acceso al directorio de instalación .
+    
+    Haga clic en Aceptar para seleccionar un directorio diferente OK to select a different directory.
+warn-disk-space =
+    No tiene espacio suficiente para instalar en esta ubicación.
+    
+    Haga clic en Aceptar para seleccionar una ubicación diferente.
+warn-min-supported-osver-msg = Lo sentimos, { $BrandShortName } no se puede instalar. Esta versión de { $BrandShortName } requiere { $MinSupportedVer } o superior. Haga clic en el botón Aceptar para más información.
+warn-min-supported-cpu-msg = Lo sentimos, { $BrandShortName } no se puede instalar. Esta versión de { $BrandShortName } requiere un procesador con soporte { $MinSupportedCPU }. Haga clic en el botón Aceptar para más información.
+warn-min-supported-osver-cpu-msg = Lo sentimos, { $BrandShortName } no puede instalarse. Esta versión de { $BrandShortName } requiere { $MinSupportedVer } o superior y un procesador con soporte { $MinSupportedCPU }. Haga clic en el botón Aceptar para más información.
+warn-restart-required-uninstall = Su computadora debe reiniciarse para completar una instalación previa de { $BrandShortName }. ¿Desea reiniciar ahora?
+warn-restart-required-upgrade = Su computadora debe reiniciarse para completar una actualización previa de { $BrandShortName }. ¿Desea reiniciar ahora?
+error-create-directory-prefix = Error creando directorio:
+error-create-directory-suffix =
+    Haga clic en Cancelar para detener la instalación o
+    Reintentar para intentar nuevamente.
+un-confirm-page-title = Desinstalar { $BrandFullName }
+un-confirm-uninstalled-from = { $BrandShortName } se desinstalará de la siguiente ubicación:
+un-refresh-page-title = ¿Actualizar { $BrandShortName } en su lugar?
+un-refresh-page-explanation =
+    Si tiene problemas con { $BrandShortName }, una actualización puede ayudar.
+    
+    Esto va a restaurar la configuración predeterminada y eliminará los complementos. Comience de nuevo para un rendimiento óptimo.
+un-refresh-learn-more = Conocer más
+    .accesskey = C
+un-refresh-button = Actualizar { $BrandShortName }
+    .accesskey = A
+banner-check-existing = Verificando instalación existente…
+status-install-app = Instalando { $BrandShortName }…
+status-uninstall-main = Desinstalando { $BrandShortName }…
+status-cleanup = Realizando limpieza…
+un-survey-checkbox-label = Decirle a Mozilla la razón de la desinstalación de { $BrandShortName }
+# This string should fit in one line (approximately 65 characters).
+options-summary = Seleccione el tipo de instalación que prefiera y haga clic en Siguiente.
+# This string should fit in one line (approximately 65 characters).
+option-standard-desc = { $BrandShortName } se instalará con las opciones más comunes.
+option-standard-radio = Estándar
+    .accesskey = s
+# This string should fit in two lines (approximately 65 characters per line).
+option-custom-desc = Puede seleccionar las opciones individuales a ser instaladas. Recomendado para usuarios experimentados.
+option-custom-radio = Personalizada
+    .accesskey = z
 # This text replaces the Install button text on the summary page.
 upgrade-button = Actualizar
     .accesskey = u
