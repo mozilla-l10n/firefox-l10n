@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Administrim PIN-i
 about-webauthn-credential-management-section-title = Administroni kredenciale
 about-webauthn-pin-required-section-title = PIN është i domosdoshëm
 about-webauthn-confirm-deletion-section-title = Ripohoni fshirjen
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Regjistrim
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Dhënie elementësh biometrikë
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = S’arrihet të administrohen mundësi, n
 about-webauthn-text-not-available = S’mund të kihet në këtë platformë.
 about-webauthn-bio-enrollment-list-subsection-title = Dhënie elementësh:
 about-webauthn-add-bio-enrollment-section-title = Shtoni dhënie të re elementësh
+about-webauthn-logging-warning = Regjistri mund të përmbajë hollësi personale, fjala vjen emra përdoruesish, identifikues llogarie dhe adresa sajti. Shqyrtojeni, para se ta ndani me të tjerë.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Kjo regjistron vetëm kërkesa ndaj sendërtimit të brendshëm të { -brand-short-name }-it për CTAP. S’regjistron kërkesa ndaj API-sh WebAuthn platforme, apo ndaj zgjerimesh shfletuesi.
 
 ## Results label
 

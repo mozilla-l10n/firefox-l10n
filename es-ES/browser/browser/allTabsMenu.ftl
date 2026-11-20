@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Nueva pestaña contenedora
 all-tabs-menu-hidden-tabs =
     .label = Pestañas ocultas
+all-tabs-menu-close-duplicate-tabs =
+    .label = Cerrar pestañas duplicadas
+all-tabs-menu-view-all-tabs =
+    .label = Ver todas las pestañas
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Cerrar todas las pestañas duplicadas
 all-tabs-menu-synced-tabs =
@@ -23,3 +27,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grupos de pestañas
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Buscar en todas las pestañas

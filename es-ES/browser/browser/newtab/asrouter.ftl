@@ -268,6 +268,20 @@ launch-on-login-autostart-infobar-keep-button = Conservar
 launch-on-login-autostart-infobar-turn-off-button = Desactivar
     .accesskey = D
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = ¿Abrir { -brand-short-name } la próxima vez que se inicie el ordenador?
+launch-on-login-spotlight-startup-checkbox = Iniciar { -brand-short-name } al arrancar el ordenador
+launch-on-login-spotlight-pin-taskbar-checkbox = Fijar a la barra de tareas
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Abrir ventanas y pestañas anteriores
+launch-on-login-spotlight-primary-button = Guardar y cerrar { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -421,8 +435,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Mantenga { -brand-short-name } al alcance de sus dedos — conviértalo en el  navegador predeterminado y manténgalo en su Dock.
        *[other] Mantenga { -brand-short-name } al alcance de sus dedos — conviértalo en el  navegador predeterminado y manténgalo en su barra de tareas.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Mantenga { -brand-short-name } a su alcance
+       *[other] Abra todos los enlaces con { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Conviértalo en su navegador predeterminado y manténgalo en el Dock.
+       *[other] Disfrute de una navegación más rápida y de protección automática de la privacidad.
+    }
 set-default-menu-message-primary-button = Establecer como predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador principal
+set-default-menu-message-primary-button-short-variant = Hacer predeterminado { -brand-short-name }
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -441,6 +466,24 @@ nova-early-access-share-feedback-link = Compartir opinión
     .accesskey = C
 nova-early-access-infobar-primary-button = Entendido
     .accesskey = E
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = ¿Iniciar { -brand-short-name } cada vez que inicie sesión en Windows?
+launch-options-spotlight-title-session-restore = ¿Volver a abrir su sesión cuando { -brand-short-name } se reinicie?
+launch-options-spotlight-checkbox-launch-on-login = Abrir { -brand-short-name } al arrancar el ordenador
+launch-options-spotlight-checkbox-pin-to-taskbar = Fijar a la barra de tareas
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Volver a abrir las ventanas y pestañas actuales
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Volver a abrir las ventanas y pestañas anteriores
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Guardar y cerrar { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Guardar y continuar
 
 ## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
 ##
@@ -483,3 +526,17 @@ refresh-profile-infobar-button = Reiniciar { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>¿Abrir pestañas anteriores?</strong> Puede restaurar su sesión anterior desde el menú de la aplicación { -brand-short-name } <img data-l10n-name = "icon" />, bajo Historial.
 restore-session-startup-suggestion-button = Mostrar cómo
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Abra sus sitios favoritos como si fueran aplicaciones
+taskbar-tabs-spotlight-subtitle = Con un solo clic, abra sus sitios más usados en una ventana simplificada con todas las protecciones de { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Seleccione para añadir a la barra de tareas
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Añadir
+taskbar-tabs-spotlight-done-button = Hecho

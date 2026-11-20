@@ -16,6 +16,8 @@ about-processes-kill-process =
     .title = Asgjësoje procesin
 about-processes-shutdown-tab =
     .title = Mbylleni skedën
+about-processes-unload-tab =
+    .title = Hiqja ngarkimin skedës
 about-processes-reload-tab =
     .title = Ringarkoje skedën
 about-processes-select-all-tabs =
@@ -27,6 +29,11 @@ about-processes-expand-site =
 # See about-processes-expand-site for what a site is.
 about-processes-collapse-site =
     .title = Tkurri skedat e këtij sajti
+# See about-processes-expand-site for what a site is.
+# Variables:
+#   $site (String) The site’s name, e.g. example.com.
+about-processes-unload-site =
+    .title = Hiqua ngarkimin skedave nga { $site }
 # Variables:
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-reload-site =
@@ -79,6 +86,7 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Shkodues të Dhënash ({ $pid })
 about-processes-socket-process = Rrjet ({ $pid })
+about-processes-preallocated-process = I paradhënë ({ $pid })
 about-processes-utility-process = Mjet ({ $pid })
 # Unknown process names
 # Variables:
@@ -160,6 +168,16 @@ about-processes-site-tab-count =
         [one] ({ $count } skedë)
        *[other] ({ $count } skeda)
     }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Anuloje përzgjedhjen
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Hiqi ngarkimin
+# Bulk-action bar button: reloads every selected tab.
+about-processes-bulk-reload-tabs =
+    .label = Ringarkoje
 # Bulk-action bar button: closes every selected tab.
 about-processes-bulk-close-tabs =
     .label = Mbylle

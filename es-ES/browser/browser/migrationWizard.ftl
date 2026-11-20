@@ -19,6 +19,8 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
+# Name for the Arc browser - this should not be localized
+migration-wizard-migrator-display-name-arc = Arc
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -29,6 +31,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 Secure Browser
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
+migration-wizard-migrator-display-name-self = { -brand-product-name }
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Contraseñas del archivo CSV
 migration-wizard-migrator-display-name-file-bookmarks = Marcadores de archivo HTML
@@ -42,6 +45,14 @@ migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Lista de lectura (de Safari)
 migration-imported-edge-reading-list = Lista de lectura (de Edge)
+# Name of the bookmark folder created when importing a space from the Arc
+# browser that the user did not give a name. Spaces are Arc's way of grouping
+# tabs, similar to tab groups.
+# Note: Arc was never localized so there are no official translastions for "Spaces"
+#
+# Variables:
+#  $number (Number): the position of the space among the imported profile's spaces, starting at 1.
+migration-imported-arc-untitled-space = Espacio { $number }
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
@@ -50,6 +61,17 @@ migration-imported-edge-reading-list = Lista de lectura (de Edge)
 migration-no-permissions-message = { -brand-short-name } no tiene acceso a los perfiles de otros navegadores instalados en este dispositivo.
 migration-no-permissions-instructions = Para continuar importando datos desde otro navegador, { -brand-short-name } tiene que tener acceso a su carpeta de perfil.
 migration-no-permissions-instructions-step1 = Seleccione “Continuar”
+# The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Al seleccionar archivos, elija “Abrir”
+       *[other] Al seleccionar archivos, vaya a <code>{ $permissionsPath }</code> y elija “Seleccionar”
+    }
 # The second step in getting permissions to read data for the selected
 # browser type.
 #

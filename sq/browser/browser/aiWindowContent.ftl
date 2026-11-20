@@ -19,6 +19,8 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Diç shkoi ters. Ju lutemi, riprovoni.
 smartwindow-assistant-error-budget-header = Keni mbërritur në kufirin e sotëm të fjalosjes.
 smartwindow-assistant-error-account-header = Që të përdorni { -smart-window-brand-name }, do t’ju duhet të bëni hyrjen.
+smartwindow-assistant-error-capacity-header = Është mbërritur në kufi kapaciteti për { -smart-window-brand-name }. Ju lutemi, riprovoni më vonë.
+smartwindow-assistant-error-budget-body = Mundeni ende të shfletoni në këtë dritare. Fjalosja do të jetë e përdorshme sërish sapo të ricaktohet kufiri juaj ditor.
 smartwindow-assistant-error-many-requests-header = Ju lutemi, prisni një çast dhe riprovoni. Në nj kohë të shkurtër u dërguan shumë mesazhe.
 smartwindow-assistant-error-max-length-header = Është koha për të nisur një fjalosje të re. Kjo e tanishmja ka mbërritur në kufi të gjatësisë për të.
 smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } s’e kapi dot shërbyesin. Provoni një rrjet tjetër, ose çaktivizoni VPN-në tuaj.
@@ -31,6 +33,8 @@ smartwindow-signin-btn = Hyni
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Me përdorim kujtesash
+aiwindow-memories-callout-description = Kujtesat ndihmuan të personalizohet kjo përgjigje.
 aiwindow-memories-learn-more = Mësoni më tepër
 aiwindow-manage-memories =
     .label = Rregullime kujtese
@@ -98,6 +102,11 @@ smart-window-restored-row-label =
     { $count ->
         [one] U rikthye { $count } skedë
        *[other] U rikthyen { $count } skeda
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] U mbyll skedë, mandej u rimor
+       *[other] U mbyllën skeda, mandej u rimorën
     }
 smart-window-cancelled-label = Kërkesa u anulua.
 # Button label - "Group" is a verb (action to group tabs)

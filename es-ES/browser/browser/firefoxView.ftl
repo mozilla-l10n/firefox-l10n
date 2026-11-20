@@ -17,22 +17,40 @@ firefoxview-page-label =
 firefoxview-just-now-timestamp = Ahora mismo
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } en todos los dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver las pestañas abiertas en su teléfono y otros dispositivos, inicie sesión o regístrese para obtener una cuenta. Con una cuenta, también se pueden sincronizar las contraseñas, historial y más.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Del portátil al teléfono, sin interrupciones
+firefoxview-syncedtabs-signin-description-3 = Mantenga su navegación conectada entre dispositivos: pestañas, contraseñas e historial, todo sincronizado.
 firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sesión
 firefoxview-syncedtabs-adddevice-header-2 = Recupere sus pestañas desde cualquier lugar
 firefoxview-syncedtabs-adddevice-description-2 = Inicie sesión en { -brand-product-name } en su teléfono o en otro ordenador para ver las pestañas aquí. Descubra cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Pruebe { -brand-product-name } para dispositivos móviles
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Sus pestañas le esperan. Están en su teléfono.
+firefoxview-syncedtabs-adddevice-description-3 = Escanee el código QR para obtener { -brand-product-name } para móviles y empiece a sincronizar sus pestañas abiertas y mucho más. Descubra cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
+firefoxview-tabpickup-synctabs-primarybutton-2 = Activar la sincronización de pestañas
 firefoxview-syncedtabs-synctabs-header = Actualice la configuración de sincronización
 firefoxview-syncedtabs-synctabs-description = Para ver pestañas de otros dispositivos, debe sincronizar sus pestañas abiertas.
+firefoxview-syncedtabs-synctabs-header-2 = La sincronización de pestañas está desactivada
+firefoxview-syncedtabs-synctabs-description-2 = Vuelva a activar la sincronización para recuperar todas sus pestañas de otros dispositivos.
 firefoxview-syncedtabs-loading-header = Sincronización en curso
 firefoxview-syncedtabs-loading-description = Una vez completada, verá las pestañas que tenga abiertas en otros dispositivos. Vuelva más tarde para consultarlo.
+firefoxview-syncedtabs-loading-header-2 = Obteniendo sus pestañas…
+firefoxview-syncedtabs-loading-description-2 = Sincronización en curso. Las pestañas aparecerán aquí pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Su organización ha desactivado la sincronización
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque su organización ha desactivado la sincronización.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = La sincronización de pestañas está desactivada
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Su organización ha bloqueado esta función.
 firefoxview-tabpickup-network-offline-header = Compruebe su conexión a internet
 firefoxview-tabpickup-network-offline-description = Si está utilizando un firewall o proxy, verifique que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Reintentar
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } no puede conectarse en este momento
+firefoxview-tabpickup-network-offline-description-2 = Puede que no tenga conexión o que algo esté bloqueando la conexión.
 firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio de sincronización en este momento. Vuelva a intentarlo en unos instantes.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = La sincronización ha tenido un problema
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } no ha podido conectarse. Espere un momento y vuelva a intentarlo
 firefoxview-tabpickup-sync-error-primarybutton = Reintentar
 firefoxview-tabpickup-sync-disconnected-header = Activar la sincronización para continuar
 firefoxview-tabpickup-sync-disconnected-description = Para recuperar sus pestañas, deberá permitir la sincronización en { -brand-short-name }.
@@ -42,9 +60,13 @@ firefoxview-tabpickup-password-locked-description = Para recuperar sus pestañas
 firefoxview-tabpickup-password-locked-link = Saber más
 firefoxview-tabpickup-password-locked-primarybutton = Escriba la contraseña maestra
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saber más</a>
+firefoxview-tabpickup-password-locked-header-2 = Desbloquee las pestañas con su contraseña maestra
+firefoxview-tabpickup-password-locked-description-2 = Para proteger su privacidad, las pestañas sincronizadas están protegidas. Introduzca la contraseña maestra de { -brand-short-name } para ver las pestañas de sus otros dispositivos.
 firefoxview-tabpickup-signed-out-header = Inicie sesión para reconectar
 firefoxview-tabpickup-signed-out-description2 = Para volver a conectarse y recuperar sus pestañas, inicie sesión en su cuenta.
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sesión
+firefoxview-tabpickup-signed-out-header-2 = Inicie sesión para ver sus pestañas
+firefoxview-tabpickup-signed-out-description-2 = Vuelva a conectarse para ver las pestañas de otros dispositivos.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -61,6 +83,9 @@ firefoxview-overview-nav = Navegación reciente
     .title = Navegación reciente
 firefoxview-overview-header = Navegación reciente
     .title = Navegación reciente
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Pestañas e historial de navegación en todos sus dispositivos
 
 ## History in this context refers to browser history
 
@@ -166,6 +191,10 @@ firefoxview-show-all-history = Mostrar todo el historial
 firefoxview-history-empty-header = Vuelva a donde ya ha estado
 firefoxview-history-empty-description = A medida que navega, las páginas que visita se mostrarán aquí.
 firefoxview-history-empty-description-two = La protección de su privacidad está en el corazón de lo que hacemos. Por eso puede controlar la actividad que { -brand-short-name } recuerda, en los <a data-l10n-name="history-settings-url">ajustes del historial</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Su recorrido de navegación empieza aquí
+firefoxview-history-empty-description-2 = A medida que visite páginas, su historial aparecerá aquí. Controle lo que se recuerda en los <a data-l10n-name="history-settings-url">ajustes</a>.
 
 ##
 
@@ -177,6 +206,9 @@ firefoxview-choose-browser-button = Elegir navegador
 
 firefoxview-dont-remember-history-empty-header-2 = Usted tiene el control de lo que { -brand-short-name } recuerda
 firefoxview-dont-remember-history-empty-description-one = En este momento, { -brand-short-name } no recuerda la actividad de navegación. Para cambiarlo, <a data-l10n-name="history-settings-url-two">actualice la configuración del historial</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = No queda constancia de su actividad
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } no está guardando su historial en este momento. Cámbielo cuando quiera en los <a data-l10n-name="history-settings-url-two">ajustes</a>.
 
 ##
 

@@ -17,9 +17,11 @@ customkeys-reset-all = Restablecer todos los atajos a sus valores predeterminado
 customkeys-conflict-confirm = Esta tecla ya está asignada a { $conflict }. ¿Quiere reemplazarla?
 customkeys-reset-all-confirm = ¿Está seguro de querer restablecer todos los atajos de teclado a sus valores predeterminados?
 customkeys-file-duplicate-tab = Duplicar pestaña
+customkeys-file-copy-tab-url = Copiar URL de la pestaña
 customkeys-file-focus-search = Ir a la barra de búsqueda
 customkeys-history-reopen-tab = Volver a abrir la última pestaña cerrada
 customkeys-history-reopen-window = Volver a abrir la última ventana cerrada
+customkeys-history-reopen-tab-current-window = Volver a abrir la última pestaña cerrada de la ventana actual
 customkeys-sidebar-toggle = Cambiar barra lateral
 customkeys-view-bookmarks-toolbar = Alternar barra de marcadores
 customkeys-view-picture-in-picture = Picture-in-Picture
@@ -56,17 +58,72 @@ customkeys-nav-select-tab-8 = Ir a la pestaña 8
 customkeys-nav-select-last-tab = Ir a la última pestaña
 customkeys-nav-toggle-mute = Activar/Desactivar el audio
 customkeys-edit-find-previous = Buscar anterior
+customkeys-edit-find-selection = Usar la selección para buscar
 customkeys-tools-screenshot = Hacer una captura de pantalla
 customkeys-category-navigation-2 =
     .heading = Área de navegación
 customkeys-caution-message = Esta función es experimental y puede que no funcione como se espera.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Inválida
+customkeys-shortcut-unassigned =
+    .placeholder = Añadir atajo
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Atajo para: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Editar
+    .tooltiptext = Editar
 customkeys-key-clear =
     .aria-label = Limpiar
     .tooltiptext = Limpiar
+customkeys-key-reset =
+    .aria-label = Restaurar
+    .tooltiptext = Restaurar
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Pulse la nueva tecla:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (no se puede cambiar)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (establecido en los ajustes de teclado de macOS)
+       *[other] (establecido en los ajustes de teclado del sistema)
+    }
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = ¿Eliminar otro atajo?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = “{ $conflict }” ya usa esta tecla.
+customkeys-conflict-confirm-button-confirm = Usar de todos modos
+customkeys-conflict-confirm-button-cancel = Cancelar
+customkeys-conflict-unusable-title = No se puede usar la tecla
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = “{ $conflict }” ya usa esta tecla y no se puede utilizar.
+customkeys-reset-all-confirm-title = ¿Restaurar predeterminados?
+customkeys-reset-all-confirm-body = Se eliminarán todos los atajos de teclado personalizados que haya creado.
+customkeys-reset-all-confirm-button-confirm = Restaurar predeterminados
+customkeys-reset-all-confirm-button-cancel = Cancelar
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barra lateral
+customkeys-title-heading =
+    .heading = Atajos de teclado
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Buscar atajos
+    .placeholder = Buscar atajos
+customkeys-description = Controle cómo se mueve e interactúa con { -brand-short-name }.
+customkeys-support-link-text = Saber más
+customkeys-reset-all-button = Restaurar predeterminados

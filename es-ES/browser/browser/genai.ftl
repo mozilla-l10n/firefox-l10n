@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Al seleccionar HuggingChat, acepta la <a
 genai-settings-chat-lechat-links-2 = Al seleccionar Mistral Vibe, acepta los <a data-l10n-name="link1">términos del servicio</a> de Mistral AI y la <a data-l10n-name="link2">política de privacidad</a>.
 genai-settings-chat-lechat-links = Al seleccionar Le Chat Mistral, acepta los <a data-l10n-name="link1">términos del servicio</a> de Mistral AI y la <a data-l10n-name="link2">política de privacidad</a>.
 genai-settings-chat-localhost-links = Traiga su propio chatbot local privado, como <a data-l10n-name="link1">llamafile</a> del grupo de innovación de { -vendor-short-name }.
+genai-settings-chat-scout-links = Al seleccionar Yahoo Scout, acepta los <a data-l10n-name="link1">términos del servicio</a> y la <a data-l10n-name="link2">política de privacidad</a> de Yahoo.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,6 +25,9 @@ genai-settings-chat-localhost-links = Traiga su propio chatbot local privado, co
 genai-prompts-summarize =
     .label = Resumir
     .value = Resume la selección usando un lenguaje preciso y conciso. Usa encabezados y listas sin numerar en el resumen para hacerlo escaneable. Mantén el significado y la exactitud factual.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Resume la página web { $url } usando un lenguaje preciso y conciso. Usa encabezados y listas sin numerar en el resumen para hacerlo escaneable. Mantén el significado y la exactitud factual.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplificar lenguaje
@@ -59,15 +63,54 @@ genai-menu-remove-provider =
     .label = Eliminar { $provider }
 genai-menu-remove-sidebar =
     .label = Eliminar de la barra lateral
+genai-shortcut-button-3 =
+    .aria-label = Preguntar sobre este texto
+    .tooltiptext = Preguntar sobre este texto
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Buscar “{ $selection }” en { $engine }
+    .tooltiptext = Buscar “{ $selection }” en { $engine }
+genai-shortcut-copy-button =
+    .aria-label = Copiar el texto seleccionado
+    .tooltiptext = Copiar el texto seleccionado
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Copiado
+genai-shortcut-more-actions-button =
+    .aria-label = Más opciones
+    .tooltiptext = Más opciones
+genai-more-actions-panel =
+    .aria-label = Elegir qué acciones mostrar
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Preguntar a { $provider }
+genai-more-actions-ai-generic =
+    .label = Preguntar a la IA
+genai-more-actions-search =
+    .label = Buscar
+genai-more-actions-copy =
+    .label = Copiar
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = No verá este menú cuando seleccione texto. Vaya a Ajustes <span data-l10n-name="chevron"></span> Pestañas y navegación para volver a mostrarlo.
+genai-more-actions-manage-settings =
+    .label = Administrar ajustes
+genai-selection-callout-title = Resalte texto para elegir una acción
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Busque o copie al seleccionar texto. Elija qué acciones aparecen con el menú <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Preguntar a { $provider }
 genai-menu-new-badge = Nuevo
 genai-menu-summarize-page = Resumir página
+genai-menu-summarize-with-ai = Resumir con IA
 genai-input-ask-smart-window =
     .placeholder = Preguntar…
 genai-input-ask-generic =
     .placeholder = Preguntar al chatbot IA…
+genai-input-ask-ai =
+    .placeholder = Preguntar a la IA…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Preguntar a { $provider }…
@@ -159,6 +202,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Usar un chatbot de IA sin cambiar de pestaña
@@ -217,6 +262,24 @@ link-preview-settings-key-points =
     .label = Permitir que el motor de IA lea el comienzo de la página y genere puntos clave
 link-preview-settings-long-press =
     .label = Atajo. Haga clic en el enlace durante 1 segundo (mantenga presionado el botón)
+highlight-to-search-settings-enable =
+    .description = Acceda rápidamente a acciones útiles cuando seleccione contenido.
+    .label = Mostrar el menú de acciones al seleccionar texto
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Preguntar a { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Preguntar a la IA
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Buscar
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Copiar
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ver más con IA?
 # Message that appears when user is shown the opt-in flow for link previews

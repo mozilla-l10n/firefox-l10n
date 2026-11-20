@@ -29,6 +29,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Ahora no
     .accessKey = n
+address-capture-never-save-addresses-button =
+    .label = No guardar nunca direcciones
+    .accessKey = d
 address-capture-cancel-button =
     .label = Cancelar
     .accessKey = C
@@ -100,6 +103,7 @@ autofill-address-tel = Teléfono
 autofill-address-email = Email
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
+autofill-country-warning-message-2 = El autocompletado de formularios solo está disponible actualmente para ciertos países
 autofill-country-warning-message = El autocompletado de formularios solo está disponible para ciertos países.
 autofill-message-tooltip = Ver mensaje sobre autocompletar
 # The dialog title for creating credit cards in browser preferences.
@@ -112,8 +116,18 @@ autofill-card-number = Número de tarjeta
 autofill-card-invalid-number = Introduzca un número de tarjeta válido
 autofill-card-name-on-card-2 =
     .label = Nombre en la tarjeta
+autofill-card-expires-month-2 =
+    .label = Mes de caducidad
+autofill-card-expires-year-2 =
+    .label = Año de caducidad
 autofill-card-billing-address-2 =
     .label = Dirección de facturación
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (opcional)
 autofill-card-name-on-card = Nombre en la tarjeta
 autofill-card-expires-month = Mes cad.
 autofill-card-expires-year = Año cad.
@@ -125,3 +139,56 @@ autofill-card-network = Tipo de tarjeta
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = tarjetas de crédito, crédito, tarjetas, tarjetas de débito, débito, billetera, pago
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Añadir pasaporte
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Editar pasaporte
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Nombre
+autofill-passport-country =
+    .label = País
+autofill-passport-number =
+    .label = Número
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Fecha de expedición
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Fecha de caducidad
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = AAAA
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = ¿Guardar pasaporte?
+passport-capture-save-doorhanger-description = Guarde la información en { -brand-short-name } para que pueda completar formularios rápidamente.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Guardar
+    .accessKey = G
+passport-capture-not-now-button =
+    .label = Ahora no
+    .accessKey = A
+passport-capture-never-save-button =
+    .label = No guardar nunca pasaportes
+    .accessKey = N

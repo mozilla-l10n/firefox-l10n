@@ -387,6 +387,11 @@ onboarding-checklist-pin = Fijar { -brand-short-name } a la barra de tareas
 onboarding-checklist-import = Importar desde el navegador anterior
 onboarding-checklist-extension = Añadir una extensión
 onboarding-checklist-sign-up = Registrarse o iniciar sesión en su cuenta
+onboarding-checklist-minimize =
+    .label = Minimizar
+onboarding-checklist-remove =
+    .label = Eliminar lista de verificación
+onboarding-checklist-remove-2 = Eliminar lista de verificación
 
 ## Tab Groups feature onboarding strings
 
@@ -401,6 +406,8 @@ tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentre sus gru
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Vuelva a abrir sus grupos de pestañas desde el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Los grupos de pestañas se guardan automáticamente. Encuéntrelos aquí.
 
 ## Multi Profiles feature onboarding messages
 
@@ -532,3 +539,128 @@ onboarding-refresh-sync-title = En cualquier parte. Todo sincronizado.
 onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin ánimo de lucro. Con su apoyo, estamos trabajando para que Internet sea más segura y accesible para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } siempre está de su parte
+
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } vela por usted, desde ahora mismo
+onboarding-refresh-hero-text = Creado para protegerle, no para rastrearle.
+onboarding-refresh-tou-default = Abrir todos los enlaces con { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Mantener { -brand-short-name } en el Dock
+       *[other] Añadir { -brand-short-name } a la barra de tareas
+    }
+onboarding-refresh-tou-default-unchecked = Mantener la protección integrada cada vez que navega
+onboarding-refresh-tou-pin-unchecked = Tener el único gran navegador independiente a un clic de distancia
+onboarding-refresh-terms-of-use-with-links = Al continuar, acepta los <a data-l10n-name="terms_of_use">términos de uso de { -brand-product-name }</a> y nuestro <a data-l10n-name="privacy_notice">aviso de privacidad</a>. Para ayudar a mejorar el navegador, { -brand-product-name } envía datos técnicos y de interacción a { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Administrar ajustes de recopilación de datos
+onboarding-refresh-primary-button = Continuar
+onboarding-refresh-fro-import-header = Traiga sus datos
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Siguen siendo suyos. { -brand-product-name } nunca vende datos personales.
+onboarding-refresh-fro-import-body = Sus datos personales siguen siendo personales. { -brand-product-name } nunca los venderá.
+onboarding-refresh-fro-skip-button = Omitir
+onboarding-refresh-fro-theme-header = Juegue con su aspecto
+onboarding-refresh-tab-layout-header = Pruebe un diseño de pestañas diferente
+onboarding-refresh-fro-tab-layout-title = Elija un nuevo diseño de pestañas
+onboarding-refresh-tab-layout-top = En la parte superior
+onboarding-refresh-tab-layout-side = En el lateral
+onboarding-refresh-tab-layout-minimal = Minimalista
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Una ventana del navegador que muestra las pestañas como pequeños iconos a lo largo del lateral de la pantalla, en una barra lateral minimizada.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Una ventana del navegador que muestra las pestañas como pequeños iconos a lo largo del lateral de la pantalla, en una barra lateral minimizada.
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Cambie entre ventanas inteligentes y clásicas en cualquier momento.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Términos de uso de { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Para usar { -smart-window-brand-name }, acepte los <a data-l10n-name="terms_of_use">términos de uso</a> y el <a data-l10n-name="privacy_notice">aviso de privacidad</a> actualizado.
+smartwindow-existing-user-fx-tou-accept = Aceptar
+smartwindow-existing-user-fx-tou-go-back = Retroceder
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Haga de { -smart-window-brand-name } su opción preferida
+smartwindow-onboarding-subtitle = Resuma, compare y haga preguntas sin perder el ritmo.
+smartwindow-onboarding-primary-button = Continuar
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Mascota de { -brand-product-name } (Kit) con estrellas de atrezo
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = ¿Quiere mantener cerrado el asistente?
+smartwindow-sidebar-auto-open-callout-body = Puede abrirlo siempre que lo necesite.
+smartwindow-sidebar-auto-open-callout-accept = Sí, mantener cerrado
+smartwindow-sidebar-auto-open-callout-dismiss = No, gracias
+smartwindow-sidebar-auto-open-callout-accepted-title = El asistente permanecerá cerrado
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Use Preguntar para abrirlo en cualquier página. Cambie esto en cualquier momento en <a data-l10n-name="settings">Ajustes</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Entendido
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si cambia de opinión, puede actualizar el valor predeterminado en <a data-l10n-name="settings">Ajustes</a> en cualquier momento.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Elija un tema
+onboarding-theme-picker-subtitle = Dé un poco más de color a { -brand-short-name }.
+onboarding-theme-picker-button-label = Guardar y continuar
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Aspectos destacados de la función
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Nuevas funciones creadas para ayudarle a hacer más
+welcome-back-onboarding-primary-button-label = Empezar a navegar
+welcome-back-onboarding-secondary-button-label = Ver más novedades
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Pestañas ordenadas
+welcome-back-onboarding-pill-label-vpn = VPN integrada
+welcome-back-onboarding-pill-label-pdf = Herramientas PDF
+welcome-back-onboarding-card-label-tabs = Ordene todo con pestañas verticales y grupos
+welcome-back-onboarding-card-label-vpn = Manténgase oculto con la VPN integrada
+welcome-back-onboarding-card-label-pdf = Resalte, firme y trabaje con archivos PDF
+welcome-back-onboarding-card-tilebutton-label = Pruébelo
+
+## New Tab Onboarding cards
+
+hnt-card-import-header = Configure { -brand-short-name } en segundos
+hnt-card-import-body = Traiga sus marcadores, contraseñas y más desde otro navegador.
+hnt-card-import-primary-button = Importar sus datos
+hnt-card-default-body = { -brand-product-name } es el único gran navegador creado para protegerle, no para rastrearle.
+hnt-card-default-primary-button = Abrir enlaces con { -brand-short-name }
+hnt-card-pin-header = Tenga { -brand-short-name } a un clic de distancia
+hnt-card-pin-body =
+    { PLATFORM() ->
+        [macos] Vuelva a la navegación protegida desde el Dock.
+       *[other] Vuelva a la navegación protegida desde la barra de tareas.
+    }
+hnt-card-mobile-header = Obtenga protección integrada en su teléfono
+hnt-card-mobile-body = Descargue { -brand-product-name } para móviles y obtenga privacidad adicional dondequiera que vaya.
+hnt-card-mobile-primary-button2 = Obtener { -brand-product-name } para móviles
+hnt-card-mobile-primary-button = Obtener { -brand-product-name } para móviles.
+hnt-card-wallpaper-header = Elija un fondo de pantalla nuevo
+hnt-card-wallpaper-body = Haga que esta pantalla se sienta como en casa con un fondo que le encante.
+hnt-card-wallpaper-primary-button = Empezar a personalizar
+hnt-card-taskbar-tabs-header = Añada sus sitios favoritos a la barra de tareas de Windows
+hnt-card-taskbar-tabs-body = Abra sus sitios más visitados como una aplicación, con todas las protecciones de { -brand-product-name }.
+hnt-card-taskbar-tabs-primary-button = Añadir sitios a la barra de tareas
+hnt-card-extensions-header = Potencie { -brand-short-name } con extensiones
+hnt-card-extensions-body = Personalice su navegación con nuestras extensiones más populares.
+hnt-card-extensions-primary-button = Explorar
+# "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
+# rather than simply doing what everyone else does.
+hnt-card-last-card-header-start = Todo listo. Ahora, a lo suyo.
+hnt-card-last-card-header-end = La protección contra el rastreo está activada.

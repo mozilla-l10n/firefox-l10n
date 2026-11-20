@@ -15,6 +15,12 @@ appmenuitem-banner-update-unsupported =
     .label = No se puede actualizar — sistema incompatible
 appmenuitem-banner-update-restart =
     .label = Actualización disponible — reiniciar ahora
+appmenu-nova-update-title = Reiniciar para actualizar { -brand-short-name }
+appmenu-nova-update-description = Sus pestañas se volverán a abrir.
+appmenu-nova-fxa-sign-in = Iniciar sesión
+appmenu-nova-switch-device-promo =
+    .message = ¿Va a tener un dispositivo nuevo pronto? ¡Llévese { -brand-short-name } con usted!
+appmenu-nova-switch-device-link = Cómo migrar sus datos
 appmenuitem-new-tab =
     .label = Nueva pestaña
 appmenuitem-new-window =
@@ -41,6 +47,10 @@ appmenuitem-translate =
     .label = Traducir página…
 appmenuitem-zoom =
     .value = Tamaño
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Compartir { -brand-product-name }
 appmenuitem-more-tools =
     .label = Más herramientas
 # Menu combining the previous "Help" menu and report broken site
@@ -104,6 +114,44 @@ appmenu-remote-tabs-unverified = Su cuenta debe ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-sign-in = Iniciar sesión en { -brand-product-name }
 appmenuitem-fxa-manage-account = Administrar cuenta
+fxa-menu-sync-status-on = La sincronización está activada
+fxa-menu-sync-status-off = La sincronización está desactivada
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sincronizar sus datos
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Sus datos no se están sincronizando
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Activar
+fxa-menu-sync-status-turn-on-button-aria-label = Activar
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Iniciar sesión para sincronizar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincronizar { $deviceName } ahora
+fxa-menu-manage-sync-settings =
+    .label = Administrar ajustes de sincronización
+fxa-menu-add-device =
+    .label = Añadir un dispositivo
+fxa-menu-manage-devices =
+    .label = Administrar sus dispositivos
+fxa-menu-device-missing =
+    .label = ¿No puede ver su dispositivo?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Todos los dispositivos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Todos los dispositivos
+fxa-menu-get-firefox-mobile =
+    .label = Obtener { -brand-product-name } para Android o iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronización segura
 appmenu-account-header = Cuenta
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -112,6 +160,14 @@ appmenu-fxa-last-sync = Última sincronización { $time }
     .label = Última sincronización { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar y guardar datos
 appmenu-fxa-signed-in-label = Iniciar sesión
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Sincronice sus datos en todas partes
+appmenu-fxa-sign-in-promo-link = Iniciar sesión
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Descartar promoción de inicio de sesión
+    .title = Descartar
 appmenu-fxa-setup-sync =
     .label = Activar la sincronización…
 appmenu-fxa-setup-sync-new = Activar
@@ -188,6 +244,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Preestablecido para investigar problemas de red en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Red
+profiler-popup-presets-networking-with-logs-description = Preestablecido para investigar errores de red en { -brand-shorter-name }, incluidos los registros de red. Estos registros pueden contener información sensible, como las URL que visita.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Red con registros
 profiler-popup-presets-power-description = Preestablecido para investigar errores relacionados con el consumo de energía en { -brand-shorter-name }, con poca sobrecarga.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -218,6 +277,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Buscar en el historial
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Manténgase sincronizado entre dispositivos
+appmenu-sync-promo-signin-cta = Iniciar sesión
+appmenu-sync-promo-turnonsync =
+    .heading = Sincronice sus pestañas y el historial
+appmenu-sync-promo-turnonsync-cta = Activar la sincronización
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Recupere las pestañas de su móvil
+appmenu-sync-promo-connectdevice-cta = Conectar un dispositivo
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Lleve sus marcadores con usted
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Llévese sus marcadores a cualquier parte
+
 ## Help panel
 
 appmenu-help-header =
@@ -225,6 +305,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Compartir { -brand-product-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Obtener ayuda
     .accesskey = O
@@ -266,6 +351,8 @@ appmenu-customizetoolbar =
     .label = Personalizar barra de herramientas…
 appmenu-abouttranslations =
     .label = Traducir…
+appmenu-edit-pdf =
+    .label = Editar PDF…
 appmenu-developer-tools-subheader = Herramientas del navegador
 appmenu-developer-tools-extensions =
     .label = Extensiones para desarrolladores
@@ -275,14 +362,30 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Inicie sesión en su cuenta
+appmenuitem-monitor-title2 = Adelántese al robo de identidad
+appmenuitem-monitor-description2 = Reciba alertas sobre filtraciones de datos
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alertas de filtraciones de datos de { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Reciba alertas sobre filtraciones de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantenga privado su correo electrónico
+appmenuitem-relay-description2 = Ayuda a evitar el spam en su bandeja de entrada
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Ver máscaras de correo electrónico
 appmenuitem-relay-description = Enmascare su correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar el panel de máscaras de correo electrónico
+appmenuitem-vpn-title2 = Oculte su ubicación con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Obtenga protección adicional en todos sus dispositivos
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Descargar { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtener protección para todo el dispositivo
 appmenu-services-header = Mis servicios
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Herramientas de privacidad
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -301,6 +404,9 @@ appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+appmenu-edit-this-profile =
+    .label = Editar este perfil
+appmenu-profile-current-in-use = Perfil actual en uso
 fxa-menu-create-profile-subpanel =
     .title = Crear un nuevo perfil
 fxa-menu-create-profile-heading = Mejore su navegación con un nuevo perfil
@@ -311,3 +417,23 @@ fxa-menu-create-profile-learn-more =
     .label = ¿Qué son los perfiles?
 appmenu-profiles-2 =
     .label = Perfiles
+appmenu-profiles-header = Perfiles
+appmenu-all-profiles =
+    .label = Todos los perfiles
+appmenu-secure-sync-header = Sincronización segura
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Pestañas recientes
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ver { $tabCount } pestaña sincronizada
+           *[other] Ver las { $tabCount } pestañas sincronizadas
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Enviar la página actual a este dispositivo
