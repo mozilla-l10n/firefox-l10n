@@ -1681,6 +1681,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = La protezione antitracciamento avanzata è attiva
 trustpanel-etp-label-disabled = La protezione antitracciamento avanzata è disattivata
+trustpanel-etp-label-redesign = Protezione antitracciamento avanzata
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1703,7 +1704,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } ha notato qual
 trustpanel-header-disabled = Hai disattivato le protezioni
 trustpanel-description-disabled = { -brand-product-name } è fuori servizio. Ti consigliamo di riattivare le protezioni.
 trustpanel-clear-cookies-button = Elimina cookie e dati dei siti web
+trustpanel-delete-site-data-button = Elimina i dati del sito
+trustpanel-fix-site-issue-button = Risolvi problemi con il sito
 trustpanel-privacy-link = Impostazioni per la privacy
+trustpanel-manage-settings-button = Gestisci impostazioni
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1717,6 +1721,7 @@ trustpanel-site-information-header =
     .title = Protezioni per la connessione a { $host }
 trustpanel-siteinformation-morelink = Ulteriori informazioni sul sito
 trustpanel-blocker-see-all = Mostra tutti
+trustpanel-blocker-see-trackers-button = Visualizza elementi traccianti
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1802,6 +1807,15 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> elemento tracciante bloccato in questo sito
        *[other] <span data-l10n-name="count">{ $count }</span> elementi traccianti bloccati in questo sito
     }
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } ha bloccato <span data-l10n-name="count">{ $count }</span> elemento tracciante su questo sito
+       *[other] { -brand-short-name } ha bloccato <span data-l10n-name="count">{ $count }</span> elementi traccianti su questo sito
+    }
+trustpanel-blocker-description-redesign = Questi elementi traccianti non hanno potuto raccogliere informazioni sulla tua navigazione.
+trustpanel-no-trackers-header-redesign = Nessun elemento tracciante rilevato su questo sito
+trustpanel-no-trackers-description-redesign = { -brand-short-name } ha verificato la presenza di elementi traccianti noti ma non ne ha trovati.
+trustpanel-etp-off-description-redesign = Attiva le protezioni e { -brand-short-name } impedirà agli elementi traccianti conosciuti di raccogliere informazioni sulla tua navigazione.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
