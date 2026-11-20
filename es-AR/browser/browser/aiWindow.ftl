@@ -137,6 +137,7 @@ aiwindow-input-model-select-settings-link = Configuración del modelo
 ## Auto model is offered.
 
 aiwindow-input-model-select-auto-description = { -smart-window-brand-name } elige el mejor modelo para la tarea
+aiwindow-input-model-select-fast-description = Respuestas rápidas cuando hace falta velocidad
 aiwindow-input-model-select-flexible-description = Listo para una variedad de tareas
 aiwindow-input-model-select-personal-description = Bueno si se chatea y se navega en varios idiomas
 
