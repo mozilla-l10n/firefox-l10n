@@ -260,6 +260,19 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Dod yn agos at eich terfyn VPN
     .message = Mae gennych chi { $usageLeft } MB o { $maxUsage } GB ar ôl mis yma.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Mae gennych chi { $additionalLocationsCount } yn fwy o leoliadau VPN
+            [zero] Mae gennych chi { $additionalLocationsCount } yn fwy o leoliadau VPN
+            [two] Mae gennych chi { $additionalLocationsCount } yn fwy o leoliadau VPN
+            [few] Mae gennych chi { $additionalLocationsCount } yn fwy o leoliadau VPN
+            [many] Mae gennych chi { $additionalLocationsCount } yn fwy o leoliadau VPN
+           *[other] Mae gennych chi { $additionalLocationsCount } yn fwy o leoliadau VPN
+        }
+    .message = Diolch am wneud { -brand-short-name } eich porwr arferol. Rydym wedi ychwanegu mwy o leoliadau  i chi gael pori ohonyn nhw.
 ipprotection-message-continuous-onboarding-intro = Trowch y VPN ymlaen i guddio'ch lleoliad ac ychwanegu amgryptio ychwanegol at eich pori.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Gosod y VPN i droi ymlaen</a> bob tro byddwch yn agor { -brand-short-name } am haen ychwanegol o ddiogelwch.
 ipprotection-message-continuous-onboarding-site-settings = Bydd { -brand-short-name } yn cofio pa wefannau rydych chi wedi'u gosod i ddefnyddio'r VPN. Diweddarwch y rhain yn y  <a data-l10n-name="setting-link">gosodiadau</a> ar unrhyw bryd.
