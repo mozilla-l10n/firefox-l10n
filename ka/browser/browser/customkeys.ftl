@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = გადასვლა ჩანართზე 
 customkeys-nav-select-last-tab = გადასვლა ბოლო ჩანართზე
 customkeys-nav-toggle-mute = ხმის დადუმება/ჩართვა
 customkeys-edit-find-previous = წინას პოვნა
+customkeys-edit-find-selection = მონიშნულის პოვნა
 customkeys-tools-screenshot = ეკრანის ანაბეჭდის აღება
 customkeys-category-navigation-2 =
     .heading = გადაადგილება

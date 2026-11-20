@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = წერტილი
 user-context-icon-fence =
     .label = ღობე
+user-context-icon-robot =
+    .label = მანქანა
