@@ -260,6 +260,16 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Tuvojaties VPN ierobežojumam
     .message = Šomēnes jums ir atlicis { $usageLeft } MB no { $maxUsage } GB.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [zero] Tev ir vēl { $additionalLocationsCount } VPN atrašanās vietu
+            [one] Tev ir vēl { $additionalLocationsCount } VPN atrašanās vieta
+           *[other] Tev ir vēl { $additionalLocationsCount } VPN atrašanās vietas
+        }
+    .message = Paldies par { -brand-short-name } padarīšanu par noklusējumu! Mēs esam pievienojuši vēl vairāk atrašanās vietu, kuras vari pārlūkot.
 ipprotection-message-continuous-onboarding-intro = Ieslēdziet VPN, lai paslēptu savu atrašanās vietu un pievienotu papildu šifrēšanu pārlūkošanai.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Iestatiet VPN ieslēgties</a> katru reizi, kad atverat { -brand-short-name }, lai nodrošinātu papildu aizsardzības līmeni.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } atcerēsies, kurām tīmekļa vietnēm esat iestatījis VPN izmantošanu. Varat tos jebkurā laikā atjaunināt <a data-l10n-name="setting-link">iestatījumos</a>.

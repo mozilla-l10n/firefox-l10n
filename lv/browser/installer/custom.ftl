@@ -16,22 +16,22 @@
 ##   $MinSupportedVer (String) - The minimum supported version of Windows (e.g. Microsoft Windows 10).
 ##   $MinSupportedCPU (String) - The CPU feature required to run the application (e.g. SSE2).
 
-reg-app-desc = { $BrandShortName } nodrošina drošu un vienkāršu tīmekļa pārlūkošanu. Pazīstama lietotāja saskarne, uzlabota drošība, kas sevī iekļauj aizsardzību no interneta krāpniecībām, un integrētas meklēšanas iespējas ļauj jums iegūt maksimāli iespējamo sērfojot internetā.
+reg-app-desc = { $BrandShortName } nodrošina drošu un vienkāršu tīmekļa pārlūkošanu. Pazīstama lietotāja saskarne, uzlabotas drošības iespējas, tajā skaitā aizsardzība pret interneta tiešsaistes identitātes zādzības, un iekļauta meklēšana ļauj pēc iespējas vairāk iegūt no tīmekļa.
 brief-app-desc = Ātra un privāta tīmekļa pārlūkošana
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
 private-browsing-shortcut-title = { $BrandShortName } privātā pārlūkošana
-context-options = { $BrandShortName } iestatījumi
+context-options = { $BrandShortName } iespējas
     .accesskey = i
 context-safe-mode = { $BrandShortName } drošais režīms
-    .accesskey = s
+    .accesskey = d
 options-page-title = Iestatīšanas veids
 options-page-subtitle = Izvēlies iestatīšanas iespējas
-shortcuts-page-title = Izveidot saīsnes
-shortcuts-page-subtitle = Izveidot programmas ikonas
-components-page-title = Iestatīt papildu sastāvdaļas
+shortcuts-page-title = Saīšņu iestatīšana
+shortcuts-page-subtitle = Programmas ikonu izveidošana
+components-page-title = Papildu sastāvdaļu iestatīšana
 components-page-subtitle = Ieteiktās papildu sastāvdaļas
-optional-components-desc = Apkopes serviss ļaus jums netraucēti fonā atjaunināt { $BrandShortName }.
+optional-components-desc = Apkopes pakalpojums ļaus netraucēti fonā atjaunināt { $BrandShortName }.
 maintenance-service-checkbox-desc = Uzstādīt apkopes pakalpojumu
     .accesskey = a
 summary-page-title = Kopsavilkums
@@ -40,16 +40,16 @@ summary-installed-to = { $BrandShortName } tiks uzstādīts šajā vietā:
 summary-reboot-required-install = Var būt nepieciešama datora pārsāknēšana, lai pabeigtu uzstādīšanu.
 summary-reboot-required-uninstall = Var būt nepieciešama datora pārsāknēšana, lai pabeigtu noņemšanu.
 summary-install-click = Jāklikšķina “Uzstādīt”, lai turpinātu.
-summary-upgrade-click = Klikšķini uz “Jaunināt”, lai turpinātu!
-launch-text = Palaist { $BrandShortName }
-    .accesskey = l
+summary-upgrade-click = Jāklikšķina uz “Jaunināt”, lai turpinātu.
+launch-text = Palaist { $BrandShortName } tagad
+    .accesskey = P
 create-icons-desc = Izveidot { $BrandShortName } ikonas:
 icons-desktop = Uz darbvirsmas
     .accesskey = d
-icons-startmenu = Manā Start izvēlnes Programmu mapē
+icons-startmenu = Sākuma izvēlnes programmu mapē
     .accesskey = S
-icons-taskbar = Manā uzdevumjoslā
-    .accesskey = u
+icons-taskbar = Uzdevumjoslā
+    .accesskey = U
 warn-manually-close-app-install =
     { $BrandShortName } ir jāaizver, lai turpinātu uzstādīšanu.
     
@@ -70,12 +70,12 @@ warn-disk-space =
     Nav pietiekami daudz brīvas vietas, lai uzstādītu šajā vietā.
     
     Jāklikšķina “Labi”, lai atlasītu citu vietu.
-warn-min-supported-osver-msg = Atvainojamies, { $BrandShortName } nevar uzstādīt! Šai { $BrandShortName } versijai ir nepieciešama { $MinSupportedVer } vai jaunāka. Lūgums klikšķiniet uz pogas “Labi”, lai iegūtu papildu informāciju.
+warn-min-supported-osver-msg = Atvainojamies, { $BrandShortName } nevar uzstādīt! Šai { $BrandShortName } versijai ir nepieciešama { $MinSupportedVer } vai jaunāka. Lūgums klikšķināt uz pogas “Labi”, lai iegūtu papildu informāciju.
 warn-min-supported-cpu-msg = Atvainojamies, { $BrandShortName } nevar uzstādīt! Šai { $BrandShortName } versijai ir nepieciešams procesors ar { $MinSupportedCPU } atbalstu. Lūgums klikšķināt uz pogas “Labi”, lai iegūtu papildu informāciju.
 warn-min-supported-osver-cpu-msg = Atvainojamies, { $BrandShortName } nevar uzstādīt! Šai { $BrandShortName } versijai ir nepieciešama { $MinSupportedVer } vai jaunāka un procesors ar { $MinSupportedCPU } atbalstu. Lūgums klikšķināt uz pogas “Labi”, lai iegūtu papildu informāciju.
 warn-restart-required-uninstall = Dators ir jāpārsāknē, lai pabeigtu iepriekšējo { $BrandShortName } noņemšanu. Vai darīt to tagad?
 warn-restart-required-upgrade = Dators ir jāpārsāknē, lai pabeigtu iepriekšējo { $BrandShortName } jaunināšanu. Vai darīt to tagad?
-error-create-directory-prefix = Kļūda, veidojot mapi:
+error-create-directory-prefix = Kļūda mapes izveidošanā:
 error-create-directory-suffix =
     Jāklikšķina uz “Atcelt”, lai pārtrauktu uzstādīšanu, vai
     “Mēģināt vēlreiz”, lai mēģinātu vēlreiz.
@@ -83,9 +83,9 @@ un-confirm-page-title = Noņemt { $BrandFullName }
 un-confirm-uninstalled-from = { $BrandShortName } tiks noņemta no šīs vietas:
 un-refresh-page-title = Vai tā vietā atsvaidzināt { $BrandShortName }?
 un-refresh-page-explanation =
-    Ja jums ir problēmas ar { $BrandShortName }, atsvaidzināšana varētu palīdzēt.
+    Ja ir sarežģījumi ar { $BrandShortName }, atsvaidzināšana varētu palīdzēt.
     
-    Tādējādi tiks atjaunoti noklusējuma iestatījumi un izņemti papildinājumi. Sāciet no jauna, lai nodrošinātu optimālu veiktspēju.
+    Tas atjaunos noklusējuma iestatījumus un noņems papildinājumus. Sāc no jauna, lai iegūtu vislabāko veiktspēju!
 un-refresh-learn-more = Uzzināt vairāk
     .accesskey = U
 un-refresh-button = Atsvaidzināt { $BrandShortName }

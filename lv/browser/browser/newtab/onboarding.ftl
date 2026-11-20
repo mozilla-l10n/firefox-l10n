@@ -634,7 +634,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Iegūsti iebūvētu aizsardzību savā tālrunī
 hnt-card-mobile-body = Lejupielādē { -brand-product-name } mobilajām ierīcēm, lai nodrošinātu papildu privātumu kustībā!
-hnt-card-mobile-primary-button2 = Iegūsti { -brand-product-name } mobilajām ierīcēm
+hnt-card-mobile-primary-button2 = Iegūt { -brand-product-name } mobilajām ierīcēm
 hnt-card-mobile-primary-button = Iegūsti { -brand-product-name } mobilajām ierīcēm!
 hnt-card-wallpaper-header = Izvēlies svaigu ekrāntapeti
 hnt-card-wallpaper-body = Padari šo skatu mājīgu ar fonu, kas Tev patīk!
