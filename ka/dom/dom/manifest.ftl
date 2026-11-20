@@ -38,15 +38,26 @@ dom-manifest-lang-is-invalid = { $property }: { $value } არაა ენი�
 #   $value (String) - The invalid value.
 # There is no final period, so that it is not mistaken for part of the URL.
 # Example: "icons item at index 2 is invalid. The src member is an invalid URL http://:Invalid"
-dom-manifest-image-url-is-invalid = { $memberName } ელემენტი ნომრით { $index } არ არის მართებული. { $member } წევრი არის არასწორი URL { $value }
+dom-manifest-image-url-is-invalid = { $memberName } ერთეული ადგილით { $index } უმართებულოა. { $member } წევრს აქვს არასწორი URL { $value }
 # Variables:
 #   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
 #   $index (Number) - The index of the image object that is unusable, starting from 0.
 # Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
-dom-manifest-image-unusable = { $memberName } ელემენტი ნომრით { $index } მნიშვნელობა მოკლებულია. იქნება უგულებელყოფილი.
+dom-manifest-image-unusable = { $memberName } ერთეული ადგილით { $index } მნიშვნელობა მოკლებულია. იქნება უგულებელყოფილი.
+# Variables:
+#   $memberName (String) - The name of the parent property that contains the unsupported value, e.g. "icons".
+#   $index (Number) - The index of the image object that has the unsupported value, starting from 0.
+#   $count (Number) - The number of unknown purposes.
+#   $purposes (String) - The list of unknown purposes, already formatted for the current locale, e.g. "a, b".
+# Example: "icons item at index 2 includes unsupported purposes: a, b."
+dom-manifest-image-unsupported-purposes =
+    { $count ->
+        [one] { $memberName } ერთეული ადგილით { $index } მხარდაუჭერელი დანიშნულებითაა: { $purposes }.
+       *[other] { $memberName } ერთეული ადგილით { $index } მხარდაუჭერელი დანიშნულებებითაა: { $purposes }.
+    }
 # Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
 #   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
 #   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
 # Example: "icons item at index 2 includes repeated purpose(s): a, b."
-dom-manifest-image-repeated-purposes = { $memberName } ელემენტი ნომრით { $index } გამეორებული დანიშნულებითაა: { $purposes }.
+dom-manifest-image-repeated-purposes = { $memberName } ერთეული ადგილით { $index } გამეორებული დანიშნულებითაა: { $purposes }.
