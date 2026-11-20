@@ -70,7 +70,7 @@ protections-panel-smartblock-desc-label = { -brand-short-name } bloķē izsekoš
 protections-panel-smartblock-blocking-toggle =
     .label = Atļaut { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
-smartblock-placeholder-title = { $trackername } izsekotāji un saturs ir bloķēti
+smartblock-placeholder-title = { $trackername } izsekotāji un saturs ir liegts
 smartblock-placeholder-desc = Jūsu { -brand-short-name } iestatījumi bloķēja šī satura izsekošanu dažādās vietnēs vai izmantošanu reklāmām.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Atļaut { $websitehost }
@@ -78,7 +78,7 @@ smartblock-placeholder-button-text = Atļaut { $websitehost }
 # third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
 # replaced with a placeholder. The caption sits above a bordered content box
 # containing the extracted text.
-smartblock-placeholder-content-header = Bloķētā iegultā satura saturs
+smartblock-placeholder-content-header = Liegta iegultā satura saturs
 
 ##
 
@@ -89,7 +89,7 @@ protections-panel-cryptominers = Kriptovalūtu ieguvēji izmanto sistēmas skait
 protections-panel-fingerprinters = Ciparnospiedumi apkopo iestatījumus no pārlūka un datora, lai izveidotu Tevis raksturojumu. Ar šo ciparnospiedumu viņi var izsekot Tevi dažādās tīmekļvietnēs.
 protections-panel-tracking-content = Vietnes var ielādēt ārējas reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura liegšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un pieteikšanās lauki var nedarboties.
 protections-panel-social-media-trackers = Sabiedriskie tīkli izvieto izsekotājus citās tīmekļvietnēs, lai sekotu līdzi tam, ko dari, redzi un skaties tiešsaistē. Tas ļauj sabiedrisko mediju uzņēmumiem uzzināt vairāk par Tevi — ne tikai to, ar ko dalies savos sabiedrisko mediju profilos.
-protections-panel-description-shim-allowed = Daži tālāk atzīmētie izsekotāji šajā lapā ir daļēji atbloķēti, jo jūs ar tiem mijiedarbojāties.
+protections-panel-description-shim-allowed = Dažu zemāk atzīmēto izsekotāju aizturēšana šajā lapā ir daļēji atcelta, jo Tu mijiedarbojies ar tiem.
 protections-panel-description-shim-allowed-learn-more = Uzzināt vairāk
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Izsekotājs ir daļēji aizturēts
@@ -104,8 +104,8 @@ protections-panel-cookie-banner-blocker-view-title =
     .title = Sīkdatņu paziņojumu aizturētājs
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vai izslēgt sīkdatņu paziņojumu bloķētāju vietnei { $host }?
-protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vai izslēgt sīkdatņu paziņojumu bloķētāju šai vietnei?
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Izslēgt sīkdatņu paziņojumu aizturētāju { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Izslēgt sīkdatņu paziņojumu aizturētāju šai vietnei?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } notīrīs šīs vietnes sīkdatnes un atsvaidzinās lapu. Visu sīkdatņu notīrīšana var izraisīt izrakstīšanos vai iepirkumu grožu iztukšošanu.
 protections-panel-cookie-banner-blocker-view-turn-on-description = Ieslēdziet, un { -brand-short-name } mēģinās automātiski atteikt sīkdatņu paziņojumus šajā vietnē.
 protections-panel-cookie-banner-view-cancel-label =

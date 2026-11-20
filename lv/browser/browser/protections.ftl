@@ -224,9 +224,9 @@ privacy-metrics-title = Privātuma aizsardzība
 #   $count (Number) - Total number of trackers blocked this week
 privacy-metrics-blocked-this-week =
     { $count ->
-        [one] Šonedēļ liegts { $count }
-        [zero] Šonedēļ bloķēti { $count }
-       *[other] Šonedēļ bloķēti { $count }
+        [one] Šonedēļ aizturēts { $count }
+        [zero] Šonedēļ aizturēti { $count }
+       *[other] Šonedēļ aizturēti { $count }
     }
 # Variables:
 #   $count (Number) - Number of trackers blocked
@@ -260,10 +260,10 @@ privacy-metrics-social =
         [zero] { $count } sociālie izsekotāji
        *[other] { $count } sociālie izsekotāji
     }
-privacy-metrics-empty = Šonedēļ nav bloķētu izsekotāju. { -brand-short-name } aizsargā jūs no tālāk norādītajiem draudiem pārlūkošanas laikā.
+privacy-metrics-empty = Šonedēļ nav aizturētu izsekotāju. { -brand-short-name } pārlūkošanas laikā aizsargā Tevi no izsekojošiem draudiem.
 privacy-metrics-loading = Notiek aizsardzības statistikas ielāde…
 privacy-metrics-error = Nevar ielādēt aizsardzības statistiku.
-privacy-metrics-private-window = { -brand-short-name } turpina bloķēt izsekotājus privātajos logos, bet nesaglabā ierakstus par to, kas tika liegts.
+privacy-metrics-private-window = { -brand-short-name } turpina aizturēt izsekotājus privātajos logos, bet nesaglabā ierakstus par to, kas tika aizturēts.
 
 ## VPN promo card and banner
 
