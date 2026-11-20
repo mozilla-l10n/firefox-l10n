@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Punto
 user-context-icon-fence =
     .label = Cercar
+user-context-icon-robot =
+    .label = Robot
