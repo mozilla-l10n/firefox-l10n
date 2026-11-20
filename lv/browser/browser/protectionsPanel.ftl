@@ -18,8 +18,8 @@ protections-popup-footer-protection-label-standard = Standarta
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Vairāk informācijas par uzlaboto aizsardzību pret izsekošanu
-protections-panel-etp-on-header = Uzlabotā pretizsekošanas aizsardzība šajā vietnē ir IESLĒGTA
-protections-panel-etp-off-header = Uzlabotā pretizsekošanas aizsardzība šajā vietnē ir IZSLĒGTA
+protections-panel-etp-on-header = Uzlabotā aizsardzība pret izsekošanu šajā vietnē ir IESLĒGTA
+protections-panel-etp-off-header = Uzlabotā aizsardzība pret izsekošanu šajā vietnē ir IZSLĒGTA
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -27,13 +27,13 @@ protections-panel-etp-off-header = Uzlabotā pretizsekošanas aizsardzība šaj�
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .aria-label = Uzlabotā pretizsekošānas aizsardzība: ieslēgta { $host }
+    .aria-label = Uzlabotā aizsardzība pret izsekošanu: ieslēgta { $host }
     .description = Ieslēgta šajā vietnē
-    .label = Uzlabotā pretizsekošanas aizsardzība
+    .label = Uzlabotā aizsardzība pret izsekošanu
 protections-panel-etp-toggle-off =
-    .aria-label = Uzlabotā pretizsekošanas aizsardzība: izslēgta { $host }
+    .aria-label = Uzlabotā aizsardzība pret izsekošanu: izslēgta { $host }
     .description = Izslēgta šajā vietnē
-    .label = Uzlabotā pretizsekošanas aizsardzība
+    .label = Uzlabotā aizsardzība pret izsekošanu
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.

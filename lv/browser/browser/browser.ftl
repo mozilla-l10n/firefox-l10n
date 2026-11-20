@@ -1709,16 +1709,16 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
-trustpanel-etp-label-enabled = Uzlabotā pretizsekošanas aizsardzība ir ieslēgta
-trustpanel-etp-label-disabled = Uzlabotā pretizsekošanas aizsardzība ir izslēgta
+trustpanel-etp-label-enabled = Uzlabotā aizsardzība pret izsekošanu ir ieslēgta
+trustpanel-etp-label-disabled = Uzlabotā aizsardzība pret izsekošanu ir izslēgta
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
-    .aria-label = Uzlabotā pretizsekošanas aizsardzība: ieslēgta { $host }
+    .aria-label = Uzlabotā aizsardzība pret izsekošanu: ieslēgta { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
-    .aria-label = Uzlabotā pretizsekošanas aizsardzība: izslēgta { $host }
+    .aria-label = Uzlabotā aizsardzība pret izsekošanu: izslēgta { $host }
 trustpanel-etp-description-enabled = Ja kaut kas šajā vietnē izskatās salūzis, jāmēģina izslēgt aizsardzību.
 trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu Tevi mazāk izsekot. Mēs aizturam tik daudz izsekotāju, cik vien mēs varam, kad ir ieslēgta aizsardzība.
 trustpanel-trackercount-label = Adreses joslā rādīt aizturētos izsekotājus
@@ -1750,7 +1750,7 @@ trustpanel-blocker-see-all = Apskatīt visu
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
-    .title = Pretizsekošanas aizsardzība { $host }
+    .title = Aizsardzība pret izsekošanu { $host }
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

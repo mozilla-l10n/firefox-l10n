@@ -1742,7 +1742,7 @@ addressbar-restore-dismissed-suggestions-button-2 =
 
 ## Privacy Section - Content Blocking
 
-content-blocking-enhanced-tracking-protection = Uzlabotā pretizsekošanas aizsardzība
+content-blocking-enhanced-tracking-protection = Uzlabotā aizsardzība pret izsekošanu
 content-blocking-section-top-level-description = Izsekotāji seko Tev tiešsaistē, lai apkopotu informāciju par Taviem pārlūkošanas paradumiem un interesēm. { -brand-short-name } aiztur daudzus no šiem izsekotājiem un citiem ļaunprātīgiem skriptiem.
 content-blocking-learn-more = Uzzināt vairāk
 content-blocking-fpi-incompatibility-warning = Tu izmanto First Party Isolation (FPI), kas pārraksta dažus no { -brand-short-name } sīkdatņu iestatījumiem.
@@ -2369,10 +2369,10 @@ issue-card-dismiss-button =
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .description = Vietnes izmanto izsekotājus, lai sekotu jums tiešsaistē un rādītu biedējošas reklāmas. { -brand-short-name } aizsargā jūs pārlūkošanas laikā, automātiski bloķējot izsekotājus, lai jūs kontrolētu savu digitālo pēdu.
-    .label = Uzlabotā pretizsekošanas aizsardzība
+    .description = Vietnes izmanto izsekotājus, lai sekotu Tev tiešsaistē un rādītu apšaubāmas reklāmas. { -brand-short-name } aizsargā Tevi pārlūkošanas laikā, automātiski aizturot izsekotājus, lai Tu pārvaldītu savus ciparu nospiedumus.
+    .label = Uzlabotā aizsardzība pret izsekošanu
 preferences-etp-level-radio-group =
-    .aria-label = Uzlabotā pretizsekošanas aizsardzība
+    .aria-label = Uzlabotā aizsardzība pret izsekošanu
 preferences-etp-level-standard =
     .description = Spēcīga, uzticama aizsardzība, kas nevainojami darbojas ar lielāko daļu tīmekļa vietņu.
     .label = Standarta (pēc noklusējuma)
