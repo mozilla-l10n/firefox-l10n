@@ -265,10 +265,10 @@ ipprotection-message-bandwidth-warning-mb =
 ipprotection-message-default-browser-confirmation =
     .heading =
         { $additionalLocationsCount ->
-            [one] Vous avez { $additionalLocationsCount } d’emplacement VPN en plus
-           *[other] Vous avez { $additionalLocationsCount } emplacements VPN en plus
+            [1] Vous disposez d’un emplacement VPN supplémentaire
+           *[other] Vous disposez de { $additionalLocationsCount } emplacements VPN supplémentaires
         }
-    .message = Merci d’avoir choisi { -brand-short-name } comme navigateur par défaut. Nous avons ajouté plus d’adresses que vous pouvez parcourir.
+    .message = Merci d’avoir choisi { -brand-short-name } comme navigateur par défaut. Nous avons ajouté des emplacements supplémentaires que vous pouvez parcourir.
 ipprotection-message-continuous-onboarding-intro = Activez le VPN afin de dissimuler votre localisation et renforcer la sécurité de votre navigation grâce à un chiffrement supplémentaire.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Activez le VPN automatiquement</a> chaque fois que vous lancez { -brand-short-name } afin de bénéficier d’une protection supplémentaire.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } se souviendra des sites web que vous avez configurés pour utiliser le VPN. Vous pouvez les modifier à tout moment dans les <a data-l10n-name="setting-link">paramètres</a>.

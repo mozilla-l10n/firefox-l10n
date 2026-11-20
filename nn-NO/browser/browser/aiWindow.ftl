@@ -368,5 +368,7 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+smartwindow-onboarding-model-label = Vel KI-modell
+smartwindow-onboarding-model-auto = Automatisk
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Tilrådd

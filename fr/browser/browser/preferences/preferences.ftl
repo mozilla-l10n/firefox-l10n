@@ -1537,7 +1537,7 @@ payment-moz-box-item-with-security-code-3 =
 #   $securityCode (string) - The name of the card's security code, which depends
 #     on the card network (for example: CVV)
 payment-moz-box-item-security-code-only-3 =
-    .description = { $securityCode } d’économies
+    .description = { $securityCode } enregistré
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
