@@ -188,13 +188,13 @@ about-webrtc-user-modified-configuration-hide-msg = Celar le configuration modif
 ##
 
 # Section header for estimated bandwidths of WebRTC media flows
-about-webrtc-bandwidth-stats-heading = Largor de banda estimate
+about-webrtc-bandwidth-stats-heading = Largor de banda passante
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Identificator de tracia
 # The estimated bandwidth available for sending WebRTC media in bytes per second
-about-webrtc-send-bandwidth-bytes-sec = Largor de banda in invio (bytes/sec)
+about-webrtc-send-bandwidth-bytes-sec = Banda passante in invio (bytes/sec)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
-about-webrtc-receive-bandwidth-bytes-sec = Largor de banda in reception (bytes/sec)
+about-webrtc-receive-bandwidth-bytes-sec = Banda passante in reception (bytes/sec)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maxime margines (bytes/sec)
 # The amount of time inserted between packets to keep them spaced out

@@ -32,9 +32,9 @@ ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-3 = Obtene <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> seligente de plure positiones pro celar ubi tu naviga.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Adjuta a celar tu position pro <a data-l10n-name="learn-more-vpn">confidentialitate ulterior</a> quando tu naviga. Activa o disactiva le VPN pro certe sitos.
-ipprotection-feature-introduction-text-summer-promo-1 = Activa lo pro mantener tu navigation plus private. <a data-l10n-name="summer-promo-link">Obtene largessa de banda illimitate</a> e plus positiones de que navigar. Ora usque le 31 augusto.
+ipprotection-feature-introduction-text-summer-promo-1 = Activa lo pro mantener tu navigation plus private. <a data-l10n-name="summer-promo-link">Obtene banda passante illimitate</a> e plus positiones de que navigar. Ora usque le 31 augusto.
 ipprotection-feature-introduction-title-summer-promo = Recipeva planos de viage? Porta con te le confidentialitate.
-ipprotection-feature-introduction-description-summer-promo = Ir ultra con le VPN integrate de { -brand-product-name }: plus positiones, illimitate largessa de banda. Ora usque le 31 augusto.
+ipprotection-feature-introduction-description-summer-promo = Ir ultra con le VPN integrate de { -brand-product-name }: plus positiones, illimitate banda passante. Ora usque le 31 augusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
@@ -75,7 +75,7 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Tu VPN integrate justo deveniva melior
-ipprotection-summer-promo-offramp-subscriber-description = Tu ora obtene largessa de banda illimitate e plus positiones como abonato de { -mozilla-vpn-brand-name }.
+ipprotection-summer-promo-offramp-subscriber-description = Tu ora obtene banda passante illimitate e plus positiones como abonato de { -mozilla-vpn-brand-name }.
 # Default browser incentive summer promo offramp message
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
@@ -84,7 +84,7 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Face {
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Meliora con { -mozilla-vpn-brand-name }
-ipprotection-summer-promo-offramp-subscription-upsell-description = Mantene mantene largessa de banda illimitate post le 31 de augusto, con plus que 300 positiones sur 5 apparatos pro facer tu navigation plus ardue a traciar te.
+ipprotection-summer-promo-offramp-subscription-upsell-description = Mantene mantene banda passante illimitate post le 31 de augusto, con plus que 300 positiones sur 5 apparatos pro facer tu navigation plus ardue a traciar te.
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Aperir VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Configurar como predefinite
 ipprotection-summer-promo-offramp-get-subscription-button = Obtene { -mozilla-vpn-brand-name }
@@ -190,6 +190,7 @@ ipprotection-button-turn-vpn-off-1 = Disactivar
 # Variables
 #   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
 ipprotection-unlimited-bandwidth-promo = Banda passante illimitate usque { DATETIME($endDate, die: "numeric", mense: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Banda passante illimitate
 
 ## Location controls
 

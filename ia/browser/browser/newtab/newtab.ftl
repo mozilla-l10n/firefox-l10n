@@ -230,9 +230,9 @@ newtab-privacy-message-info-10 = Salva contrasignos in { -brand-short-name } pro
 newtab-privacy-message-info-10-cta = Va al contrasignos
 newtab-privacy-message-info-11 = Discoperi como { -brand-short-name } adjuta mantener tu navigation plus private.
 newtab-privacy-message-info-11-cta = Pro saper plus
-newtab-privacy-message-info-12 = Blocar traciatores pote adjutar a sparnia le largessa de banda sur planos datos limitate.
+newtab-privacy-message-info-12 = Blocar traciatores pote adjutar a sparnia le banda passante sur planos datos limitate.
 newtab-privacy-message-info-12-cta = Vider protectiones
-newtab-privacy-message-info-13 = { -brand-short-name } bloca traciatores e libera largessa de banda pro diffusion multimedial plus fluide.
+newtab-privacy-message-info-13 = { -brand-short-name } bloca traciatores e libera banda passante pro diffusion multimedial plus fluide.
 newtab-privacy-message-info-13-cta = Vider protectiones
 
 ## Privacy widget — promotional messages
