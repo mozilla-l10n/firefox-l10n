@@ -690,6 +690,7 @@ newtab-weather-opt-in-not-now =
     .label = Immoe nono
 newtab-weather-opt-in-yes =
     .label = Eja
+newtab-weather-opt-in-headline = Otene sa previsione meteorològica locale
 newtab-weather-opt-in-use-location =
     .label = Imprea sa positzione
 newtab-weather-opt-in-choose-location = Sèbera sa positzione
@@ -911,6 +912,7 @@ newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Lista noa
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Cua su widget
+newtab-widget-menu-change-size = Modifica sa mannària
 # Submenu item under "Move"; moves the widget one position to the left.
 # RTL locales should translate this as "Right".
 newtab-widget-menu-move-left = A manca

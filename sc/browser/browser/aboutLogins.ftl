@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru n
 about-logins-menu-menuitem-import-from-a-file = Importa dae un’archìviu...
 about-logins-menu-menuitem-export-logins2 = Esporta craes…
 about-logins-menu-menuitem-remove-all-logins2 = Boga totu is craes…
+about-logins-menu-menuitem-delete-all-logins = Cantzella totu is craes...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Optziones
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Sèbera su sinnu "prus" in artu pro agiùnghere una
 about-logins-login-item-new-login-title = Agiunghe crae
 login-item-edit-button = Modìfica
 about-logins-login-item-remove-button = Boga
+about-logins-login-item-delete-button = Cantzella
 login-item-origin-label = Indiritzu de su situ
 about-logins-origin-tooltip2 = Inserta s’indiritzu cumpletu e assegura·ti chi currispondat a su chi as impreadu pro t’identificare.
 # Variables
@@ -178,9 +180,15 @@ confirmation-dialog-dismiss-button =
     .title = Annulla
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Boles bogare sa crae?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Boles cantzellare sa crae?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Custa atzione non podet èssere annullada.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Custu dd’at a cantzellare dae { -brand-short-name } in totu is dispositivos chi sincronizent is craes. Custa atzione no dda podes annullare.
 about-logins-confirm-remove-dialog-confirm-button = Boga
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Cantzella
 
 ## Variables
 ##   $count (number) - Number of items
@@ -191,12 +199,26 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Boga
        *[other] Boga·nche totu
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Cantzella
+        [one] Cantzella totu
+       *[other] Cantzella totu
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Eja, boga sa crae
         [one] Eja, boga sa crae
        *[other] Eja, boga is craes
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Eja, cantzella sa crae
+        [one] Eja, cantzella is craes
+       *[other] Eja, cantzella is craes
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -216,6 +238,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Boles bogare { $count } crae dae totu is dispositivos?
        *[other] Boles bogare totu is { $count } craes dae totu is dispositivos?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Boles cantzellare { $count } crae?
+       *[other] Boles cantzellare { $count } craes?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

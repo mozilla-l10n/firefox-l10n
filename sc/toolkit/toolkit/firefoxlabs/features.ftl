@@ -65,3 +65,6 @@ experimental-features-newtab-widget-timer-description = Cunfigura unu temporizad
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas e temporizadore de { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Tene semper presente sa lista de is cosas de fàghere ònnia borta chi aberis un’ischeda noa. Dae sa lista de s’ispesa a cussa pro sa valìgia, organiza is pianos tuos in { -brand-product-name }. Cunfigura unu temporizadore pro mantènnere sa cuntzentratzione, evitare isbeliamentos e pro chi regordet de ti pausare. <a data-l10n-name="connect">Cumpartzi unu cummentu</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Previsiones meteorològicas
