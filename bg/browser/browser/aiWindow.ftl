@@ -37,6 +37,11 @@ aiwindow-input-model-select-button-label-custom = По избор
 aiwindow-input-model-select-default-badge =
     .label = По подразбиране
     .title = Избраният модел по подразбиране
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Препоръчан
+    .title = Препоръчан модел
 
 ## Close Sidebar Button
 
