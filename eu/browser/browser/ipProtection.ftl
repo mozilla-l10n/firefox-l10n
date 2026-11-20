@@ -260,6 +260,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Zure VPN mugatik gertu zaude
     .message = { $usageLeft } MB falta dituzu oraindik hilabeteko { $maxUsage } GBtik.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] VPN kokapen bat gehiago duzu
+           *[other] { $additionalLocationsCount } VPN kokapen gehiago dituzu
+        }
+    .message = Eskerrik asko { -brand-short-name } lehenesteagatik. Nabigatzeko kokapen gehiago gehitu ditugu.
 ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena ezkutatu eta zifratze estra gehitzeko zure nabigazioari.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }(e)k gogoratu egingo ditu VPN bidez sartzeko ezarri dituzun webguneak. Eguneratu hauek edonoiz <a data-l10n-name="setting-link">ezarpenetan</a>.
