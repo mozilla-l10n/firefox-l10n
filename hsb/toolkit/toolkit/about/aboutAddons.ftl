@@ -272,6 +272,9 @@ colorway-removal-notice-button = Wobstarajće sej zaktualizowane drasty barbowyc
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Waše kontrastowe nastajenja Windows drasty { -brand-short-name } přepisuja. Znjemóžńće tute nastajenja, zo byšće drasty w { -brand-short-name } wužiwał.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } ma swoje zatwarjene swětłe a ćmowe drasty, kotrež so po nastajenjach wašeho systema maja.
 privacy-policy = Prawidła priwatnosće
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
