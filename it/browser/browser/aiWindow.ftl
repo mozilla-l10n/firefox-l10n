@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Chat recenti
 smartwindow-fullpage-heading = { -smart-window-brand-name(form: "uppercase-singular") }
 smartwindow-document-title = Nuova scheda
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Apri in una nuova { -smart-window-brand-name(form: "lowercase-singular") }
+    .accesskey = n
 
 ## Smart Window Toggle Button
 
