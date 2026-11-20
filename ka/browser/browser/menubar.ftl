@@ -132,8 +132,11 @@ menu-edit-find-in-page =
 menu-edit-find-again =
     .label = კვლავძიება
     .accesskey = კ
+menu-edit-find-selection =
+    .label = მონიშნულის პოვნა
+    .accesskey = უ
 menu-edit-bidi-switch-text-direction =
-    .label = ნაწერის მიმართულების შეცვლა
+    .label = ნაწერის მიმართულების ცვლა
     .accesskey = წ
 
 ## View Menu

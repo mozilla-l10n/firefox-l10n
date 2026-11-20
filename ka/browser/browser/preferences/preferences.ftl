@@ -650,6 +650,14 @@ support-get-help =
 support-share-ideas =
     .label = მოსაზრების მოხსენება და გამოხმაურება
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = გაეცანით მითითებებს, რჩევებსა და სიახლეებს, რომ თქვენთვის მეტად შედეგიანად გამოიყენოთ { -brand-product-name }.
+    .label = { -brand-product-name } – სიახლეთა ცნობარი
+newsletter-sign-up-link =
+    .label = შექმნა
+
 ## General Section - Performance
 
 performance-settings-learn-more = ვრცლად
@@ -1173,6 +1181,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = სინქრონდება...
     .title = დასინქრონება ახლავე
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = დასასინქრონებლის ასარჩევი ამიერიდან მხოლოდ ამ მოწყობილობას ეხება.
 
 ## The list of things currently syncing.
 
@@ -1507,6 +1518,26 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } შენახულია
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } შენახულია
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
