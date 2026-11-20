@@ -32,8 +32,17 @@ user-context-shopping2 =
 user-context-manage-containers =
     .label = Administroni Kontejner
     .accesskey = o
+user-context-new-tab =
+    .label = Skedë e Re
+    .accesskey = S
+user-context-new-tab2 =
+    .label = Skedë e Re
+user-context-add-container2 =
+    .label = Shtoni kontejner të ri
 user-context-manage-containers2 =
     .label = Administroni Kontejner
+user-context-new-tab2-panel-item = Skedë e Re
+user-context-add-container2-panel-item = Shtoni kontejner të ri
 user-context-manage-containers2-panel-item = Administroni Kontejner
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
@@ -88,3 +97,5 @@ user-context-icon-chill =
     .label = Chill
 user-context-icon-circle =
     .label = Pikë
+user-context-icon-robot =
+    .label = Robot

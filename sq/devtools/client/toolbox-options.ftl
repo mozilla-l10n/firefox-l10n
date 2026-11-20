@@ -129,7 +129,15 @@ options-sourceeditor-keybinding-default-label = Parazgjedhje
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Mënyrë Vendore
+options-local-mode-only-work-locally = Mënyra Vendore funksionon vetëm lokalisht dhe çaktivizohet kur diagnostikohen kontekste të largët
+options-local-mode-behavior = Mënyra Vendore ju lejon të ngarkoni kartela vendore përmes URL-je https pa ndonjë varësi të jashtme. URL-të mund të ngarkohen vetëm nga skeda me DevTools hapur.
 options-local-mode-domain-label = Përkatësi vetjake:
+options-local-mode-origin-input =
+    .placeholder = Origjinë për përshoqërimin vendor
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Kjo originë përplaset me një tjetër përshoqërim ekzistues
 options-local-mode-origin-invalid = Kjo origjinë është e pavlefshme
 options-local-mode-folder-label = Dosje vendore:
 options-local-mode-choose-folder = Shfletoni…
