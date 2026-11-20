@@ -252,7 +252,7 @@ pdfjs-find-not-found = Vārdkopa nav atrasta
 
 pdfjs-page-scale-width = Lapas platumā
 pdfjs-page-scale-fit = Ietilpinot lapu
-pdfjs-page-scale-auto = Automātiskais izmērs
+pdfjs-page-scale-auto = Automātiska tālummaiņa
 pdfjs-page-scale-actual = Patiesais izmērs
 # Variables:
 #   $scale (Number) - percent value for page scale
