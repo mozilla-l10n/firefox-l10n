@@ -71,5 +71,9 @@ mini-window-overlay-instructions = გადაადგილეთ ან დ�
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = აირჩიეთ, რა გადავიდეს მცირე სარკმელში
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = გვერდის ნაწილი
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = სრული გვერდი
 mini-window-panel-move-selection = მონიშნულის გატანა
 mini-window-panel-move-full-tab = სრული ჩანართის გატანა
