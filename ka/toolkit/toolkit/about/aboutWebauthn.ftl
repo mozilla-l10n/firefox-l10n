@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-კოდის მართვა
 about-webauthn-credential-management-section-title = მოწმობების მართვა
 about-webauthn-pin-required-section-title = PIN-კოდი აუცილებელია
 about-webauthn-confirm-deletion-section-title = წაშლის დასტური
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = აღრიცხვა
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = ბიომეტრიული დამოწმებები
 
@@ -31,6 +33,7 @@ about-webauthn-text-non-ctap2-device = პარამეტრების გ�
 about-webauthn-text-not-available = არაა ხელმისაწვდომი ამ სისტემაზე.
 about-webauthn-bio-enrollment-list-subsection-title = დამოწმებები:
 about-webauthn-add-bio-enrollment-section-title = დამოწმების ახალი ჩანაწერი
+about-webauthn-logging-warning = აღრიცხვები შეიძლება შეიცავდეს პირად მონაცემებს, როგორიცაა მომხმარებლის სახელები, ანგარიშის საცნობები და ვებსაიტის მისამართები. შეათვალიერეთ გაზიარებამდე.
 
 ## Results label
 
@@ -75,6 +78,12 @@ about-webauthn-add-bio-enrollment-button = დამოწმების ჩა
 about-webauthn-cancel-button = გაუქმება
 about-webauthn-send-pin-button = კარგი
 about-webauthn-delete-button = წაშლა
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = დაწყება
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = შეჩერება
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = გასუფთავება
 about-webauthn-start-enrollment-button = დამოწმების დაწყება
 about-webauthn-update-button = განახლება
 

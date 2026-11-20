@@ -25,9 +25,9 @@ nsis-back-btn = < 上一步
     .accesskey = B
 nsis-next-btn = 下一步 >
     .accesskey = N
-nsis-accept-btn = 我接受上列的授權條款
+nsis-accept-btn = 我接受上列授權條款
     .accesskey = A
-nsis-dont-accept-btn = 我不接受上列的授權條款
+nsis-dont-accept-btn = 我不接受上列授權條款
     .accesskey = d
 nsis-install-btn = 安裝
     .accesskey = I
@@ -46,16 +46,16 @@ nsis-click-uninstall = 按「移除」開始移除程序。
 nsis-completed = 已完成
 nsis-license-text-rb = 安裝 { $BrandFullNameDA } 前請閱讀授權協議書。如果您接受所有條款，請選下面的第一個選項。 { $ClickInstructions }
 nsis-components-text = 請勾選您想安裝的部份並取消您不想安裝的元件。 { $ClickInstructions }
-nsis-components-sub-text2-no-inst-types = 選擇要安裝的元件:
+nsis-components-sub-text2-no-inst-types = 選擇要安裝的元件：
 nsis-dir-text = 安裝程式將會安裝 { $BrandFullNameDA } 到下列資料夾。若要安裝到其他資料夾，請按「瀏覽」後選擇其他資料夾。 { $ClickInstructions }
 nsis-dir-sub-text = 目的資料夾
-nsis-dir-browse-text = 選擇要將 { $BrandFullNameDA } 安裝到:
-nsis-space-available = 可用空間:{ " " }
-nsis-space-required = 需要空間:{ " " }
-nsis-uninstalling-text = { $BrandFullNameDA } 將會從下列資料夾中被移除。{ $ClickInstructions }
-nsis-uninstalling-sub-text = 從此處移除:
+nsis-dir-browse-text = 選擇要將 { $BrandFullNameDA } 安裝到：
+nsis-space-available = 可用空間：{ " " }
+nsis-space-required = 需要空間：{ " " }
+nsis-uninstalling-text = 將從下列資料夾移除 { $BrandFullNameDA }。{ $ClickInstructions }
+nsis-uninstalling-sub-text = 從此處移除：
 nsis-file-error =
-    開啟檔案寫入失敗:
+    開啟檔案寫入失敗：
     
     { $FilePath }
     
@@ -63,13 +63,13 @@ nsis-file-error =
     「重試」再試一次，
     或按「忽略」略過此檔案。
 nsis-file-error-no-ignore =
-    開啟檔案寫入失敗:
+    開啟檔案寫入失敗：
     
     { $FilePath }
     
     按「重試」再試一次，
     或按「取消」停止安裝程序。
-nsis-cant-write = 無法寫入:{ " " }
+nsis-cant-write = 無法寫入：{ " " }
 nsis-copy-failed = 複製失敗
 nsis-copy-to = 複製到{ " " }
 nsis-registering = 註冊中:{ " " }

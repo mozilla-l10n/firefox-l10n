@@ -41,18 +41,18 @@ mui-text-finish-info-text =
     已經安裝 { $BrandFullNameDA } 到您的電腦。
     
     點選「完成」關閉此安裝程式。
-mui-text-finish-info-reboot = 您需要重新啟動電腦才能完成 { $BrandFullNameDA } 的安裝程序。您要現在重新啟動嗎？
-mui-text-finish-rebootnow = 立刻重新啟動
+mui-text-finish-info-reboot = 必須重新啟動電腦才能完成 { $BrandFullNameDA } 的安裝程序。您要現在重開機嗎？
+mui-text-finish-rebootnow = 立即重新啟動
 mui-text-finish-rebootlater = 我要稍後自己重新啟動
 mui-text-startmenu-title = 選擇開始功能表資料夾
 mui-text-startmenu-subtitle = 請選擇要建立 { $BrandFullNameDA } 捷徑的開始功能表資料夾。
-mui-innertext-startmenu-top = 選擇您想要建立程式捷徑在哪個資料夾，您也可以輸入新名稱建立新資料夾。
-mui-text-abortwarning = 您確定要離開 { $BrandFullName } 的安裝程式？
+mui-innertext-startmenu-top = 選擇您想要將程式捷徑建立在哪個資料夾，您也可以輸入新名稱建立新資料夾。
+mui-text-abortwarning = 您確定要離開 { $BrandFullName } 安裝程式嗎？
 mui-untext-welcome-info-title = 歡迎使用 { $BrandFullNameDA } 移除精靈
 mui-untext-welcome-info-text =
     本精靈會引導您一步步移除 { $BrandFullNameDA }。
     
-    安裝前請確定 { $BrandFullNameDA } 已經關閉。
+    開始解除安裝前，請確定 { $BrandFullNameDA } 已經關閉。
     
     { $ClickInstructions }
 mui-untext-confirm-title = 移除 { $BrandFullNameDA }
@@ -68,5 +68,5 @@ mui-untext-finish-info-text =
     已從您的電腦中移除 { $BrandFullNameDA }。
     
     按「完成」關閉本精靈。
-mui-untext-finish-info-reboot = 您需要重新啟動電腦才能完成 { $BrandFullNameDA } 的移除程序。您要現在重新啟動嗎？
-mui-untext-abortwarning = 您確定要離開 { $BrandFullName } 的移除程式？
+mui-untext-finish-info-reboot = 必須重新啟動電腦才能完成 { $BrandFullNameDA } 的移除程序。您要現在重開機嗎？
+mui-untext-abortwarning = 您確定要離開 { $BrandFullName } 移除程式？
