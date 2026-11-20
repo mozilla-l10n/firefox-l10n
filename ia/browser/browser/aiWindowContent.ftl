@@ -225,6 +225,12 @@ action-log-completed-steps =
         [one] Completate 1 passo
        *[other] Completate { $count } passos
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Modello eligite pro le carga: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Decision del modello melior
 
 ## Assistant Loader
 
