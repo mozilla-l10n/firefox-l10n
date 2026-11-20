@@ -35,6 +35,7 @@ neterror-view-certificate-link = Shihni Dëshmi
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = Ky sajt s’kapet dot
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = S’u lidh dot me shërbyesin te <strong>{ $hostname }</strong>.
@@ -98,10 +99,25 @@ neterror-dns-not-found-hint-header = <strong>Nëse dhatë adresën e saktë, mun
 neterror-dns-not-found-hint-try-again = Riprovoni më vonë
 neterror-dns-not-found-hint-check-network = Kontrolloni lidhjen tuaj në rrjet
 neterror-dns-not-found-hint-firewall = Kontrolloni nëse ka { -brand-short-name }-i leje të hyjë në web (mund të jeni i lidhur, por të gjendeni pas një firewall-i)
+neterror-dns-not-found-hint-check-network-2 = Kontrolloni lidhjen tuaj në rrjet.
+neterror-dns-not-found-hint-firewall-2 = Kontrolloni nëse ka { -brand-short-name }-i leje të hyjë në web (mund të jeni i lidhur, por të gjendeni pas një firewall-i).
 neterror-dns-not-found-offline-hint-header = <strong>Ç’mund të bëni për këtë?</strong>
 neterror-dns-not-found-offline-hint-different-device = Provoni të lidheni që nga një pajisje tjetër.
 neterror-dns-not-found-offline-hint-modem = Kontrolloni modemin ose rrugëzuesin tuaj.
 neterror-dns-not-found-offline-hint-reconnect = Shkëputuni dhe rilidhuni me Wi-Fi.
+
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Asgjë s’po pranon lidhje në portën { $port }. Kontrolloni nëse shërbyesi juaj vendor është në funksionim.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Nëse funksionon, kontrolloni se po përdor portën { $port }.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Kontrolloni nëse shërbyesi pranon lidhje në këtë adresë. Disa shërbye përgjojnë vetëm në [::1], ose vetëm në 127.0.0.1.
 
 ## TRR-only specific messages
 ## Variables:
@@ -122,6 +138,10 @@ neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
 
 neterror-file-not-found-filename = Kontrolloni emrin e kartelës për gabime shkrimi me të mëdha ose të vogla, apo të tjera gabime në shkrim.
 neterror-file-not-found-moved = Shihni se mos kartela qe lëvizur, riemërtuar ose fshirë.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name }-i s’mund ta gjejë kartelën te <strong>{ $path }</strong>. Ose s’ekziston, ose shtegu është i pasaktë.
+neterror-file-not-found-what-can-you-do = Nëse adresën e shtypët dorazi, kontrolloni për gabime shkronje të vogël a të madhe, apo gabime shkrimi në emrin apo shtegun e kartelës. Nëse ndoqët një faqerojtës apo lidhje të ruajtur, kartela mund të jetë hequr, riemërtuar, ose fshirë që nga kur qe ruajtur. Provoni lokalizimin e saj duke përdoru përgjegjësin tuaj të kartelave, ose një kërkim së fundi.
 neterror-access-denied = Kartela mund të jetë hequr, lëvizur, ose hyrjen e pengojnë lejet mbi kartelën.
 neterror-unknown-protocol = Mund t'ju duhet të instaloni tjetër program për të hapur këtë adresë.
 neterror-redirect-loop = Ndonjëherë ky problem mund të shkaktohet nga çaktivizim ose mospranim cookie-sh.
@@ -210,8 +230,19 @@ fp-neterror-offline-body-title = Duket se ka një problem me lidhjen tuaj në in
 
 fp-neterror-connection-intro = { -brand-short-name }-i s’mund të krijojë një lidhje të siguruar me shërbyesin te { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } s’mund të lidhet te shërbyesi në <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name }-i s’mund të lidhet te shërbyesi në <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Shërbyesi te <strong>{ $hostname }</strong> po e vonon shumë përgjigjen.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Shërbyesi te <strong>{ $hostname }</strong> ktheu një gabim: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> dërgoi një krye me shenja të zbrazëta të palejuara nga  standarde sigurie web.
+fp-neterror-content-encoding-intro = Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë përdor një format të pavlefshëm ose një formë ngjeshjeje të pambuluar ende.
 fp-neterror-coop-coep-intro = { -brand-short-name }-i s’e ngarkoi këtë faqe, ngaqë duket se formësimi i sigurisë s’përkon me faqen e mëparshme.
+fp-neterror-blocked-by-policy-intro = Enti juaj e ka bllokuar hyrjen në këtë faqe apo sajt.
 fp-neterror-http-auth-disabled-intro = Dikush që hiqet se është sajti mund të provonte të vidhte gjëra të tilla si emrin juaj i përdoruesit, fjalëkalimin, ose email-in.
 fp-neterror-http-auth-disabled-secure-connection = Ky sajt lyp një lidhje të siguruar dhe s’mund të shtoni një përjashtim, për ta vizituar.
 fp-neterror-why-did-this-happen = Pse ndodhi kjo?
