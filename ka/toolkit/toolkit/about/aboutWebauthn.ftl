@@ -34,6 +34,8 @@ about-webauthn-text-not-available = არაა ხელმისაწვდ�
 about-webauthn-bio-enrollment-list-subsection-title = დამოწმებები:
 about-webauthn-add-bio-enrollment-section-title = დამოწმების ახალი ჩანაწერი
 about-webauthn-logging-warning = აღრიცხვები შეიძლება შეიცავდეს პირად მონაცემებს, როგორიცაა მომხმარებლის სახელები, ანგარიშის საცნობები და ვებსაიტის მისამართები. შეათვალიერეთ გაზიარებამდე.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = ამით აღირიცხება მხოლოდ ის მოთხოვნები, რომელთაც იღებს თანმომყოლი CTAP, { -brand-short-name } რომ უზრუნველყოფს. არ აღირიცხება მოთხოვნები, რომელთაც იღებს უშუალოდ პლატფორმის WebAuthn API ან ბრაუზერის გაფართოებები.
 
 ## Results label
 

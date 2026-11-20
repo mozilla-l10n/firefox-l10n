@@ -24,6 +24,8 @@ confirmation-hint-firefox-relay-mask-created = შეიქმნა ახა�
 confirmation-hint-firefox-relay-mask-reused = არსებული ნიღაბი გამოიყენება კვლავ!
 confirmation-hint-screenshot-copied = ეკრანის ასლი აღებულია!
 confirmation-hint-tab-group-saved = ჩანართის ჯგუფი შენახულია
+# Shown after the tab groups button is removed from the toolbar. Points to the app menu where tab groups can still be found.
+confirmation-hint-tab-group-button-removed = მოიძიეთ ჩანართების ჯგუფები ამ მენიუში
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
