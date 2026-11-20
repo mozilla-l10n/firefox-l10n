@@ -380,6 +380,7 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+smartwindow-onboarding-model-label = ЖИ моделіңізді таңдаңыз
 smartwindow-onboarding-model-auto = Автоматты түрде
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Ұсынылатын
