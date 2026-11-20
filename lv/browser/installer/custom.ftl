@@ -90,7 +90,7 @@ un-refresh-learn-more = Uzzināt vairāk
     .accesskey = U
 un-refresh-button = Atsvaidzināt { $BrandShortName }
     .accesskey = A
-banner-check-existing = Pārbauda esošo instalāciju...
+banner-check-existing = Pārbauda esošo uzstādījumu…
 status-install-app = Uzstāda { $BrandShortName }…
 status-uninstall-main = Noņem { $BrandShortName }…
 status-cleanup = Notiek neliela uzkopšana…
@@ -99,12 +99,12 @@ un-survey-checkbox-label = Pastāsti Mozilla, kāpēc noņēmi { $BrandShortName
 options-summary = Jāizvēlas vēlamais uzstādīšanas veids, tad jāspiež poga “Turpināt".
 # This string should fit in one line (approximately 65 characters).
 option-standard-desc = { $BrandShortName } tiks uzstādīta ar biežāk izmantotajām iespējām.
-option-standard-radio = Standarta
-    .accesskey = S
+option-standard-radio = Parasta
+    .accesskey = P
 # This string should fit in two lines (approximately 65 characters per line).
-option-custom-desc = Šajā režīmā jūs varat izvēlēties sastāvdaļas pa vienai. Ieteicams pieredzējušiem lietotājiem.
-option-custom-radio = Pielāgota instalācija
+option-custom-desc = Var izvēlēties atsevišķas uzstādāmās iespējas. Ieteicams pieredzējušiem lietotājiem.
+option-custom-radio = Pielāgota
     .accesskey = P
 # This text replaces the Install button text on the summary page.
-upgrade-button = Atjaunināt
+upgrade-button = Jaunināt
     .accesskey = A

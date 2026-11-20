@@ -22,11 +22,11 @@ mui-text-welcome-info-text =
     Pirms iestatīšanas uzsākšanas ir ieteicams aizvērt visas citas lietotnes. Tas ļaus atjaunināt vajadzīgās sistēmas datnes bez nepieciešamības pārsāknēt datoru.
     
     { $ClickInstructions }
-mui-text-components-title = Izvēlēties sastāvdaļas
-mui-text-components-subtitle = Jāizvēlas, kuras no { $BrandFullNameDA } iespējām uzstādīt.
+mui-text-components-title = Izvēlies sastāvdaļas
+mui-text-components-subtitle = Izvēlies, kuras no { $BrandFullNameDA } iespējām uzstādīt!
 mui-innertext-components-description-title = Apraksts
 mui-innertext-components-description-info = Peles kursors jānovieto virs sastāvdaļas, lai redzētu tās aprakstu.
-mui-text-directory-title = Izvēlēties uzstādīšanas vietu
+mui-text-directory-title = Izvēlies uzstādīšanas vietu
 mui-text-directory-subtitle = Izvēlies mapi, kurā uzstādīt { $BrandFullNameDA }!
 mui-text-installing-title = Uzstāda
 mui-text-installing-subtitle = Lūgums uzgaidīt, kamēr notiek { $BrandFullNameDA } uzstādīšana.
@@ -38,14 +38,14 @@ mui-buttontext-finish = Pabeigt
     .accesskey = P
 mui-text-finish-info-title = Pabeidz { $BrandFullNameDA } iestatīšanas vedni
 mui-text-finish-info-text =
-    { $BrandFullNameDA } tika uzstādīta datorā.
+    { $BrandFullNameDA } tika uzstādīts datorā.
     
     Jāspiež “Pabeigt”, lai aizvērtu šo vedni.
 mui-text-finish-info-reboot = Dators ir jāpārsāknē, lai pabeigtu { $BrandFullNameDA } uzstādīšanu. Darīt to tagad?
 mui-text-finish-rebootnow = Pārsāknēt tagad
-mui-text-finish-rebootlater = Vēlos pašrocīgi pārsāknēt vēlāk
-mui-text-startmenu-title = Izvēlieties Start izvēlnes mapi
-mui-text-startmenu-subtitle = Izvēlieties { $BrandFullNameDA } saīsņu Start izvēlnes mapi.
+mui-text-finish-rebootlater = Vēlos vēlāk pašrocīgi pārsāknēt
+mui-text-startmenu-title = Sākuma izvēlnes mapes izvēlēšanās
+mui-text-startmenu-subtitle = Izvēlies sākuma izvēlnes mapi { $BrandFullNameDA } īsinājumikonām!
 mui-innertext-startmenu-top = Jāatlasa sākuma izvēlnes mape, kurā izveidot programmas īsinājumikonas. Var arī ievadīt nosaukumu, lai izveidotu jaunu mapi.
 mui-text-abortwarning = Vai tiešām izbeigt { $BrandFullName } iestatīšanu?
 mui-untext-welcome-info-title = Laipni lūdzam { $BrandFullNameDA } noņemšanas vednī
