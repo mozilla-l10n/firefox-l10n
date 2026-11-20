@@ -218,6 +218,17 @@ ipprotection-locations-subview-promo =
     .heading = Pówušćo šćit z { -mozilla-vpn-brand-name }
     .message = Wubjeŕśo z wěcej ako 300 stojnišćow a šćitajśo wšykne swóje nałoženja na do 5 rědach.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobstaraś
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Wěcej stojnišćow. Wěcej šćita.
+    .message =
+        { $count ->
+            [one] Cyńśo { -brand-short-name } k swójomu standardoju a dostańśo { $count } dalšne stojnišćo. Waše wótkaze se how wócynjaju, źož VPN jo zatwarjony.
+            [two] Cyńśo { -brand-short-name } k swójomu standardoju a dostańśo { $count } dalšnej stojnišći. Waše wótkaze se how wócynjaju, źož VPN jo zatwarjony.
+            [few] Cyńśo { -brand-short-name } k swójomu standardoju a dostańśo { $count } dalšne stojnišća. Waše wótkaze se how wócynjaju, źož VPN jo zatwarjony.
+           *[other] Cyńśo { -brand-short-name } k swójomu standardoju a dostańśo { $count } dalšnych stojnišćow. Waše wótkaze se how wócynjaju, źož VPN jo zatwarjony.
+        }
 ipprotection-locations-subview-set-default-promo-button = Wótkaze z { -brand-short-name } wócyniś
 
 ## VPN paused state

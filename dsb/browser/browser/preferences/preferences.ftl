@@ -658,6 +658,9 @@ support-share-ideas =
 
 ## Firefox newsletter
 
+newsletter-settings-heading =
+    .description = Dostańśo rozpokazanja, rady a nowosći, aby nejlěpše dožywjenje { -brand-product-name } měł.
+    .label = Nowostnik { -brand-product-name }
 newsletter-sign-up-link =
     .label = Registrěrowaś
 
