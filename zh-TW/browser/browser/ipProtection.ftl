@@ -260,6 +260,14 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = VPN 流量即將用完
     .message = 這個月可使用 { $maxUsage } GB，剩餘 { $usageLeft } MB 可用。
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+           *[other] 您已獲得 { $additionalLocationsCount } 個 VPN 連線位置
+        }
+    .message = 感謝您將 { -brand-short-name } 設為預設瀏覽器，我們已加入更多位置，讓您可從該處上網。
 ipprotection-message-continuous-onboarding-intro = 開啟 VPN 即可隱藏您的所在位置，並在上網時多加一層加密保護。
 ipprotection-message-continuous-onboarding-autostart = 設定在每次開啟 { -brand-short-name } 時<a data-l10n-name="setting-link">就自動開啟 VPN</a>，讓您受到更多一層保護。
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 會記得您設定要讓哪些網站透過 VPN 開啟。也可隨時到<a data-l10n-name="setting-link">設定</a>當中調整。
