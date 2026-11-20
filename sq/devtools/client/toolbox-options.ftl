@@ -87,6 +87,13 @@ options-netmonitor-body-limit-unlimited-label = E pakufizuar
 
 # The heading
 options-experimental-label = Veçori Eksperimentale
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Shfaq fletëstile te diagnostikuesi
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Paraqitni dhe shihni fletëstile te diagnostikuesi
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (lyp rihapje të kutisë së mjeteve)
 
 ## Style Editor section
 
@@ -151,6 +158,13 @@ options-local-mode-choose-folder-picker-title = Zgjidhni dosje mënyre vendore p
 options-local-mode-folder-invalid = Kjo dosje s’ekziston, ose është e pavlefshme.
 options-local-mode-toggle-enable = Aktivizoje
 options-local-mode-toggle-disable = Çaktivizoje
+options-local-mode-navigate-to =
+    .title = Kalo te kjo URL përshoqërimi
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Doni të hiqet përshoqërimi “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Shtoni një përshoqërim të ri vendor
 
 ## Advanced section
 
