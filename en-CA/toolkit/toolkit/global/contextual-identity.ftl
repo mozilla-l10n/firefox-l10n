@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Dot
 user-context-icon-fence =
     .label = Fence
+user-context-icon-robot =
+    .label = Robot

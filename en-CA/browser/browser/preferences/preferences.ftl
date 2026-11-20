@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Hides your real email address to protect your inbox from spam.
     .label = Suggest { -relay-brand-name } email masks
+preferences-window-lock-macos =
+    .label = Lock Private Windows automatically
+    .description = { -brand-short-name } will ask for your device password or passkey after your computer locks, goes to sleep, or starts the screen saver.
+preferences-window-lock-windows =
+    .label = Lock Private Windows automatically
+    .description = { -brand-short-name } will ask for your device password or passkey after your computer locks.
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -649,6 +655,13 @@ support-get-help =
     .label = Get help
 support-share-ideas =
     .label = Share ideas and feedback
+
+## Firefox newsletter
+newsletter-settings-heading =
+    .label = { -brand-product-name } newsletter
+    .description = Get how-tos, advice, and news to make your { -brand-product-name } experience work best for you.
+newsletter-sign-up-link =
+    .label = Sign up
 
 ## General Section - Performance
 
@@ -1511,6 +1524,26 @@ preferences-passwords-autofill-header =
 payment-moz-box-item =
     .description = { $expDate }
     .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .label = { $cardNumber }
+    .description = { $expDate } | { $securityCode } saved
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .label = { $cardNumber }
+    .description = { $securityCode } saved
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
 # code itself: "•••" stands for the hidden code, so keep it as is rather than
