@@ -11,7 +11,7 @@ dialog-button-cancel =
     .label = Atcelt
 dialog-button-disclosure =
     .label = Vairāk informācijas
-    .accesskey = I
+    .accesskey = n
 
 ## Predefined button labels for dialogs created with nsIPrompt.confirmEx()
 

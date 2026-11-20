@@ -26,7 +26,7 @@ nsis-back-btn = < Atpakaļ
 nsis-next-btn = Nākamais >
     .accesskey = N
 nsis-accept-btn = Es piekrītu licences nosacījumiem
-    .accesskey = a
+    .accesskey = l
 nsis-dont-accept-btn = Es nepiekrītu licences nosacījumiem
     .accesskey = n
 nsis-install-btn = Uzstādīt
@@ -35,12 +35,12 @@ nsis-uninstall-btn = Noņemt
     .accesskey = N
 nsis-cancel-btn = Atcelt
 nsis-close-btn = Aizvērt
-    .accesskey = z
+    .accesskey = v
 nsis-browse-btn = Pārlūkot...
     .accesskey = r
-nsis-show-details-btn = Parādīt sīkāku informāciju
-    .accesskey = d
-nsis-click-next = Spiest pogu “Nākamais”, lai turpinātu.
+nsis-show-details-btn = Parādīt informāciju
+    .accesskey = i
+nsis-click-next = Spiest “Nākamais”, lai turpinātu.
 nsis-click-install = Jāklikšķina “Uzstādīt”, lai uzsāktu uzstādīšanu.
 nsis-click-uninstall = Jāklikšķina “Noņemt”, lai uzsāktu noņemšanu.
 nsis-completed = Pabeigta
@@ -50,8 +50,8 @@ nsis-components-sub-text2-no-inst-types = Atlasīt uzstādāmās sastāvdaļas:
 nsis-dir-text = { $BrandFullNameDA } tiks uzstādīta zemāk esošajā mapē. Lai uzstādītu to citā vietā, jāspiež “Pārlūkot” un jāatlasa cita mape. { $ClickInstructions }
 nsis-dir-sub-text = Mērķa mape
 nsis-dir-browse-text = Atlasīt mapi, kurā uzstādīt { $BrandFullNameDA }:
-nsis-space-available = Pieejamā diska vieta:{ " " }
-nsis-space-required = Nepieciešamā diska vieta:{ " " }
+nsis-space-available = Pieejamā vieta diskā:{ " " }
+nsis-space-required = Nepieciešamā vieta diskā:{ " " }
 nsis-uninstalling-text = { $BrandFullNameDA } tiks noņemta no zemāk esošās mapes. { $ClickInstructions }
 nsis-uninstalling-sub-text = Noņem no:
 nsis-file-error =
@@ -61,27 +61,27 @@ nsis-file-error =
     
     Jāklikšķina “Pārtraukt”, lai apstādinātu uzstādīšanu,
     “Atkārtot”, lai mēģinātu vēlreiz, vai
-    “Neņemt vērā”, lai zlaistu šo datni.
+    “Neņemt vērā”, lai izlaistu šo datni.
 nsis-file-error-no-ignore =
-    Kļūda atverot datni rakstīšanai:
+    Kļūda datnes arvēršanā rakstīšanai:
     
     { $FilePath }
     
-    Spiediet Atkārtot, lai mēģinātu vēlreiz, vai
-    Atcelt, lai pārtrauktu instalāciju.
+    Jāklikšķina “Atkārtot”, lai mēģinātu vēlreiz, vai
+    “Atcelt”, lai apturētu uzstādīšanu.
 nsis-cant-write = Nevar rakstīt:{ " " }
 nsis-copy-failed = Kopēšana neizdevās
 nsis-copy-to = Kopēt uz{ " " }
 nsis-registering = Reģistrē:{ " " }
 nsis-unregistering = Atreģistrē:{ " " }
-nsis-symbol-not-found = Nevar atrast simbolu:{ " " }
+nsis-symbol-not-found = Nevar atrast zīmi:{ " " }
 nsis-could-not-load = Nevar ielādēt:{ " " }
-nsis-create-folder = Veidot mapi:{ " " }
-nsis-create-shortcut = Veidot saīsni:{ " " }
+nsis-create-folder = Izveidot mapi:{ " " }
+nsis-create-shortcut = Izveidot saīsni:{ " " }
 nsis-created-uninstaller = Izveidoja noņēmēju:{ " " }
 nsis-delete = Izdzēst datni:{ " " }
 nsis-delete-on-reboot = Izdzēst pēc pārsāknēšanas:{ " " }
-nsis-error-creating-shortcut = Kļūda saīsnes izveidošanā:{ " " }
+nsis-error-creating-shortcut = Kļūda īsinājumikonas izveidošanā:{ " " }
 nsis-error-creating = Kļūda izveidošanā:{ " " }
 nsis-error-decompressing = Kļūda datu atspiešanā. Bojāts uzstādītājs?
 nsis-error-registering = Kļūda DLL reģistrēšanā
@@ -96,7 +96,7 @@ nsis-remove-folder = Noņemt mapi:{ " " }
 nsis-rename-on-reboot = Pārdēvēt pēc pārsāknēšanas:{ " " }
 nsis-rename = Pārdēvēt:{ " " }
 nsis-skipped = Izlaists:{ " " }
-nsis-copy-details = Kopēt detaļas uz starpliktuvi
+nsis-copy-details = Ievietot informāciju starpliktuvē
 nsis-log-install = Žurnalēt uzstādīšanu
 nsis-byte = B
 nsis-kilo = K
