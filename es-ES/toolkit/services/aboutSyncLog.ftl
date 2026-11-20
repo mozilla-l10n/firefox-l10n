@@ -1,0 +1,85 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+about-sync-log-title = Registros de sincronización
+about-sync-log-page-header =
+    .description = Registros de diagnóstico escritos por la sincronización.
+    .heading = Registros de sincronización
+
+## Filter controls
+
+about-sync-log-filter-type =
+    .aria-label = Tipo
+about-sync-log-filter-type-all =
+    .label = Todos
+about-sync-log-filter-type-success =
+    .label = Correcto
+about-sync-log-filter-type-error =
+    .label = Error
+about-sync-log-filter-date =
+    .aria-label = Fecha
+about-sync-log-filter-date-all =
+    .label = Todo el tiempo
+about-sync-log-filter-date-today =
+    .label = Hoy
+about-sync-log-filter-date-7days =
+    .label = Últimos 7 días
+about-sync-log-filter-date-30days =
+    .label = Últimos 30 días
+about-sync-log-search-input =
+    .aria-label = Buscar en los registros
+    .placeholder = Buscar en los registros
+
+## Toolbar actions
+
+about-sync-log-refresh-button =
+    .label = Refrescar
+about-sync-log-download-button =
+    .label = Descargar registros visibles (.zip)
+about-sync-log-clear-button =
+    .label = Limpiar registros
+
+## Log list
+
+# Variables:
+#   $count (Number) - Number of logs currently shown.
+about-sync-log-count =
+    { $count ->
+        [one] { $count } registro
+       *[other] { $count } registros
+    }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = Correcto — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = Error — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $value (number) - The amount of data (e.g. "12.3").
+#   $unit (string) - The unit of data (e.g. "KB").
+about-sync-log-row-size = { $value } { $unit }
+about-sync-log-empty = No se ha guardado ningún registro de sincronización.
+about-sync-log-empty-filtered = Ningún registro coincide con los filtros actuales.
+
+## Inline viewer
+
+about-sync-log-view-error = No se ha podido leer este archivo de registro.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Abrir sin procesar
+
+## Clear logs confirmation
+
+about-sync-log-clear-confirm-title = ¿Limpiar los registros de sincronización?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Esto eliminará permanentemente { $count } archivo de registro visible.
+       *[other] Esto eliminará permanentemente { $count } archivos de registro visibles.
+    }
+about-sync-log-clear-confirm-accept = Eliminar

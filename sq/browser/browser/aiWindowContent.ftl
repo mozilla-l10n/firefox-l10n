@@ -160,13 +160,38 @@ smart-window-opened-tabs-summary-single =
         [one] U hap { $count } skedë.
        *[other] U hapën { $count } skeda.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+       *[other] U krijua grupi “{ $label }” dhe u hapën { $count } skeda.
+    }
 smart-window-opened-tabs-row-label = Skeda të hapura
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = U ndërruan skeda
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = U kalua te “{ $title }”.
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = U hoq grupim skedash
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] U grupua { $count } skedë, mandej u hoq grupi për të.
+       *[other] U grupuan { $count } skeda, mandej u hoq grupi për to.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] U hoq grupimi për { $count } skedë
+       *[other] U hoq grupimi për { $count } skeda
+    }
 
 ## Action log
 
+action-log-searching-tabs = Kërkim në skeda
+action-log-searched-open-tabs = Kërkim në skeda të hapura
 action-log-searching-history = Kërkim në historik
 action-log-searched-history = U kërkua në historik
 action-log-reading-page = Lexim faqeje

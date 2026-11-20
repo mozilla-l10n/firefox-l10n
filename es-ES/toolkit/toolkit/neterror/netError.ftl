@@ -31,9 +31,52 @@ neterror-add-exception-button = Continuar siempre para este sitio
 neterror-settings-button = Cambiar la configuración de DNS
 neterror-view-certificate-link = Ver certificado
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = No se puede acceder a este sitio
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = No se ha podido conectar con el servidor <strong>{ $hostname }</strong>.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Pruebe estos pasos:
+neterror-search-cta-hint-check-address = Compruebe la dirección del sitio web
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Busque en la web para encontrar el sitio
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, beginning with the site's name, for example "example best hiking
+# boots". The query and the quotation marks around it are emphasized.
+neterror-search-cta-hint-search-query = Busque <strong>“{ $query }”</strong> en la web
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Buscar
+    .tooltiptext = Abre los resultados de búsqueda en una pestaña nueva
+    .accesskey = B
+neterror-search-cta-reload-button =
+    .label = Recargar
+    .accesskey = R
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Parece que no tiene conexión. Vuelva a conectarse e inténtelo de nuevo.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Código de error: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Saber más
+
 ##
 
 neterror-pref-reset = Parece que su configuración de seguridad de red podría estar causando esto. ¿Quiere restaurar la configuración predeterminada?
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Puede que su conexión no sea privada
+    .message = Una aplicación o servicio puede ver el tráfico cifrado de este sitio.
 
 ## Specific error messages
 
@@ -56,10 +99,25 @@ neterror-dns-not-found-hint-header = <strong>Si escribió la dirección correcta
 neterror-dns-not-found-hint-try-again = Probar de nuevo más tarde
 neterror-dns-not-found-hint-check-network = Verificar la conexión a internet
 neterror-dns-not-found-hint-firewall = Comprobar que { -brand-short-name } tiene permiso para acceder a la web (puede ser que esté conectado pero detrás de un firewall)
+neterror-dns-not-found-hint-check-network-2 = Compruebe su conexión de red.
+neterror-dns-not-found-hint-firewall-2 = Compruebe que { -brand-short-name } tiene permiso para acceder a la web (puede que esté conectado pero detrás de un firewall).
 neterror-dns-not-found-offline-hint-header = <strong>¿Qué puede hacer al respecto?</strong>
 neterror-dns-not-found-offline-hint-different-device = Intente conectarse en un dispositivo diferente.
 neterror-dns-not-found-offline-hint-modem = Verifique su módem o router.
 neterror-dns-not-found-offline-hint-reconnect = Desconecte y reconecte el Wi-Fi.
+
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Nada está aceptando conexiones en el puerto { $port }. Compruebe que su servidor local se está ejecutando.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Si se está ejecutando, compruebe que usa el puerto { $port }.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Compruebe que el servidor acepta conexiones en esta dirección. Algunos servidores solo escuchan en [::1] o solo en 127.0.0.1.
 
 ## TRR-only specific messages
 ## Variables:

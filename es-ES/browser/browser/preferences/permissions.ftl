@@ -142,6 +142,12 @@ permissions-site-notification-desc = Los siguientes sitios web han solicitado en
 permissions-site-notification-disable-label =
     .label = Bloquear nuevas solicitudes de emisión de notificaciones
 permissions-site-notification-disable-desc = Esto evitará que cualquier sitio web no listado arriba solicite permiso para enviarle notificaciones. Bloquear el envío de notificaciones puede afectar a las características de algunos sitios web.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Permitir notificaciones de sitios web cuando { -brand-short-name } esté cerrado
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Los ajustes de notificaciones de su sistema operativo también se aplican.
 
 ## Site Permissions - Location
 
@@ -162,6 +168,15 @@ permissions-site-xr-desc = Los siguientes sitios web han solicitado permiso para
 permissions-site-xr-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a sus dispositivos de realidad virtual
 permissions-site-xr-disable-desc = Esto evitará que los sitios web no incluidos en la lista superior soliciten permiso para acceder a sus dispositivos de realidad virtual. Bloquear el acceso a sus dispositivos de realidad virtual puede estropear algunas características de los sitios web.
+
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Ajustes - Sitios bloqueados para enlaces de aplicaciones
+permissions-site-app-links-desc = Estos sitios tienen bloqueado pedir abrir enlaces de aplicaciones, como los de correo electrónico (mailto:). Elimine un sitio para permitir que vuelva a preguntar.
 
 ## Site Permissions - Camera
 

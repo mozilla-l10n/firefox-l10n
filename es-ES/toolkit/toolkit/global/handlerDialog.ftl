@@ -59,8 +59,8 @@ permission-dialog-set-change-app-link = Elija una aplicación diferente.
 ##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
-    .title = Elegir aplicación
     .style = min-width: 26em; min-height: 26em;
+    .title = Elegir aplicación
 chooser-dialog =
     .buttonlabelaccept = Abrir enlace
     .buttonaccesskeyaccept = A
@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Otra aplicación…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Deshabilitado en ventanas privadas
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Elija su aplicación de correo electrónico
+mailto-handler-picker-subtitle = Seleccione la aplicación que quiere usar para los enlaces de correo electrónico. Puede cambiarlo más tarde en los ajustes.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Preguntarme siempre al hacer clic en un enlace de correo electrónico
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Establecer como predeterminada
+    .accesskey = E
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Ahora no
+    .accesskey = n

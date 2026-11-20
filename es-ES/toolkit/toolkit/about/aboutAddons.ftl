@@ -271,6 +271,9 @@ colorway-removal-notice-button = Obtenga temas de combinaciones de colores actua
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = La configuración de contraste de Windows anula los temas de { -brand-short-name }. Desactive estos ajustes para usar temas en { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } tiene sus propios temas claro y oscuro integrados que siguen los ajustes de su sistema.
 privacy-policy = Política de privacidad
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -324,6 +327,8 @@ release-notes-addon-button = Notas de la versión
 permissions-addon-button = Permisos
 extension-enabled-heading = Habilitado
 extension-disabled-heading = Deshabilitado
+theme-enabled-heading2 =
+    .heading = Tema activo
 theme-disabled-heading3 =
     .heading = Temas guardados
 theme-enabled-heading = Habilitado
@@ -531,6 +536,7 @@ mlmodel-pdfjs = { -brand-short-name } usa esto para crear texto alternativo para
 mlmodel-smart-tab-topic-engine = { -brand-short-name } usa esto para sugerir nombres para sus grupos de pestañas
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } usa esto para sugerir pestañas para sus grupos de pestañas
 mlmodel-formfill-engine = { -brand-short-name } utiliza esto para ayudar a completar formularios de direcciones
+mlmodel-speech-recognition = { -brand-short-name } usa esto para el reconocimiento de voz en el dispositivo
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA en el dispositivo
 addon-category-mlmodel-title =
@@ -549,3 +555,85 @@ mlmodel-addon-detail-used-by-label = Usado por
 mlmodel-addon-detail-model-card = Ficha del modelo
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Ver en Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Adapte { -brand-product-name } a su manera
+    .message = Añada herramientas y estilos que se ajusten a sus necesidades y gustos.
+find-more-addons-promo-open-amo-button = Explorar extensiones y temas
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Encuentre su próxima extensión favorita
+    .message = Personalice { -brand-product-name } con herramientas para la concentración, la privacidad, las compras y mucho más.
+find-more-extensions-promo-open-amo-button = Explorar extensiones
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Encuentre más aspectos nuevos
+    .message = Elija un estilo para que { -brand-product-name } sea realmente suyo.
+find-more-themes-promo-open-amo-button = Explorar temas
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Unas pocas extensiones marcan la diferencia
+    .message = Tenemos recomendaciones para ayudarle a mejorar la concentración, la privacidad y mucho más.
+list-empty-get-extensions-promo-button = Encontrar su primera extensión
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Claro
+themes-mode-dark =
+    .label = Oscuro
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Dispositivo
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Apariencia
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Temas de { -brand-product-name }
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Temas clásicos
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Mostrar más
+aboutaddons-themes-picker-see-less = Mostrar menos
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Activar
+aboutaddons-themes-picker-disable-button =
+    .label = Desactivar
+aboutaddons-themes-picker-install-button =
+    .label = Instalar
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = No se ha podido actualizar el tema. Compruebe su conexión y vuelva a intentarlo.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Usar tema del sistema Linux

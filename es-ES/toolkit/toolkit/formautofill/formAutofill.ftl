@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } está intent
 autofill-edit-payment-method-os-prompt-macos = mostrar la información almacenada del método de pago
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } está intentando mostrar la información del método de pago almacenado. Confirme el acceso a la cuenta de Windows que se muestra a continuación.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } está intentando mostrar la información del método de pago.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = eliminar la información almacenada del método de pago
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } está intentando eliminar la información del método de pago almacenado. Confirme el acceso a la cuenta de Windows que se muestra a continuación.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } está intentando eliminar la información del método de pago almacenado.
 # The button leads users to Form Autofill browser preferences.
 credit-card-doorhanger-options-button =
     .title = Opciones de autocompletado de formularios
@@ -34,6 +39,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Ahora no
     .accessKey = n
+credit-card-capture-never-save-payment-methods-button =
+    .label = Nunca guardar métodos de pago
+    .accessKey = N
 credit-card-capture-never-save-button =
     .label = Nunca guardar tarjetas
     .accessKey = N
@@ -51,6 +59,73 @@ autofill-clear-form-label = Limpiar autocompletado de formulario
 autofill-manage-addresses-label = Administrar direcciones
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Administrar métodos de pago
+
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = Código de seguridad
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+##   $securityCode (String): The name of the card's security code, from one of
+##     the credit-card-security-code-name-* strings (for example "CVV")
+
+credit-card-doorhanger-card-details-name = { $name }
+credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-capture-update-payment-method-button =
+    .label = Actualizar
+    .accessKey = A
+credit-card-update-saved-payment-method-doorhanger-header = ¿Actualizar el método de pago guardado?
+# Saves the submitted details as a new payment method instead of updating
+# the saved one.
+credit-card-capture-save-as-new-payment-method-button =
+    .label = Guardar como nuevo
+    .accessKey = G
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = ¿Guardar el código de seguridad?
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = ¿Guardar este método de pago?
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } cifra y autocompleta sus datos de pago para que pueda pagar más rápido.
+credit-card-capture-dismiss-button =
+    .label = Descartar
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Guardar siempre los códigos de seguridad
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = No guardar los códigos de seguridad
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

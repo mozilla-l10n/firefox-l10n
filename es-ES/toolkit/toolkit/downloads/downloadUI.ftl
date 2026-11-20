@@ -39,6 +39,44 @@ download-ui-cancel-downloads-ok =
         [1] Cancelar una descarga
        *[other] Cancelar { $downloadsCount } descargas
     }
+download-ui-confirm-cancel-button = Cancelar
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] ¿Detener una descarga y salir de { -brand-short-name }?
+               *[other] ¿Detener { $downloadsCount } descargas y salir de { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] ¿Detener una descarga y salir de { -brand-short-name }?
+               *[other] ¿Detener { $downloadsCount } descargas y salir de { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } intentará reanudar las descargas cuando se vuelva a abrir, pero puede que se pierda el progreso.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Salir de { -brand-short-name }
+       *[other] Salir de { -brand-short-name }
+    }
+download-ui-confirm-offline-title =
+    { $downloadsCount ->
+        [1] ¿Detener una descarga y trabajar sin conexión?
+       *[other] ¿Detener { $downloadsCount } descargas y trabajar sin conexión?
+    }
+download-ui-confirm-offline-message = { -brand-short-name } intentará reanudar las descargas cuando vuelva a estar conectado, pero puede que se pierda el progreso.
+download-ui-confirm-offline-button = Trabajar sin conexión
+download-ui-confirm-private-browsing-title =
+    { $downloadsCount ->
+        [1] ¿Detener una descarga y cerrar esta ventana privada?
+       *[other] ¿Detener { $downloadsCount } descargas y cerrar esta ventana privada?
+    }
+download-ui-confirm-private-browsing-message =
+    { $downloadsCount ->
+        [1] No podrá reanudar esta descarga.
+       *[other] No podrá reanudar estas descargas.
+    }
+download-ui-confirm-private-browsing-button = Cerrar ventana
 
 ##
 

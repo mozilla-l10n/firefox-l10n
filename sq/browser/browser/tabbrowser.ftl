@@ -34,6 +34,8 @@ tabbrowser-close-tabs-button =
         }
 tab-splitview-splitter =
     .aria-label = Ripërmasoni skeda pamjeje të ndarë
+tab-devtools-splitter =
+    .aria-label = Ripërmaso panelin e Mjeteve të Zhvilluesit
 # Used for the "Add to Group" submenu when opened on a split view.
 # The split view's two tabs are added to the group together.
 tab-context-add-split-view-to-group =
@@ -315,6 +317,14 @@ tab-group-editor-action-new-tab =
     .label = Skedë e re në grup
 tab-group-editor-action-new-window =
     .label = Kaloje grupin në dritare të re
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Hape lidhjen në grup
+           *[other] Hapi { $linkCount } lidhjet në grup
+        }
 tab-group-editor-action-save =
     .label = Ruaje dhe mbylle grupin
 tab-group-editor-action-ungroup =
@@ -324,6 +334,12 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = U bë
     .accessKey = b
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Ndani grupin me të tjerë
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Ndani grup skedash me të tjerë
 tab-context-reopen-tab-group =
     .label = Rihape grupin e skedave
 # Variables:
@@ -350,6 +366,8 @@ tab-group-overflow-count-tooltip =
 ## groups in one place. When the user has no tab groups, the list instead
 ## recommends that the user create a tab group.
 
+tab-groups-list-empty-header = Sistemoni skedat tuaja
+tab-groups-list-empty-description = Tërhiqni një skedë te një tjetër, ose djathtasklikoni mbi një skedë që të nisni sistemimin. Do t’i ruajmë grupet tuaja këtu, që të gjenden kollaj më vonë.
 tab-groups-list-empty-button = Krijoni një grup skedash
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = Grup i Ri
@@ -365,6 +383,12 @@ tab-group-context-move-to-new-window =
 # user's current window.
 tab-group-context-move-to-this-window =
     .label = Kaloje Grupin te Kjo Dritare
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = I ri
+    .label = Ndajeni Grupin Me të Tjerë
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.

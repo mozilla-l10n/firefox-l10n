@@ -165,6 +165,13 @@ about-glean-metrics-table-settings-timelines-circle-radius = Radio del círculo
 about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Desplazamiento en X del eje Y
 # The offset on the y-axis from the x-axis for the y-axis line
 about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Desplazamiento en Y del eje Y
+# label: Displayed near an input field that can be used to filter metrics
+# description: This message sits alongside an input field, further describing its purpose. Category refers to the category in which a given metric is recorded. Name refers to the name of a given metric. Type refers to a given metric's metric type. Value refers to the underlying value of a given metric. "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+# placeholder: Search is a verb in this case
+about-glean-filter-metrics =
+    .description = Esto filtrará la tabla a continuación según categoría, nombre, tipo y valor (si el valor es un tipo simple).
+    .label = Filtrar métricas
+    .placeholder = Buscar
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
@@ -187,6 +194,16 @@ about-glean-no-data-to-display = No hay datos para mostrar.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Las métricas <code>DualLabeledCounter</code> aún no son compatibles con la vista <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Activa el almacenamiento en memoria de los pings enviados
+    .label = Almacenar pings enviados
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Información del cliente
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Información del ping
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

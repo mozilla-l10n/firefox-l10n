@@ -360,6 +360,8 @@ website-language-heading =
     .label = Idioma del sitio web
 website-preferred-language =
     .label = Idiomas preferidos
+website-language-list =
+    .aria-label = Idiomas preferidos
 website-add-language =
     .label = Añadir idioma
 website-add-language-button =
@@ -648,6 +650,14 @@ support-get-help =
 support-share-ideas =
     .label = Compartir ideas y opiniones
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Reciba guías, consejos y noticias para sacar el máximo partido a su experiencia con { -brand-product-name }.
+    .label = Boletín de { -brand-product-name }
+newsletter-sign-up-link =
+    .label = Suscribirse
+
 ## General Section - Performance
 
 performance-settings-learn-more = Saber más
@@ -704,6 +714,10 @@ settings-keyboard-shortcuts-group =
     .label = Atajos de teclado
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personalizar los atajos de teclado
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personalizar los ajustes de la barra de direcciones en Buscar
 settings-media-group =
     .label = Medios
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -812,6 +826,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Dirección(es) del sitio web
+home-custom-homepage-list =
+    .aria-label = Direcciones de sitios web
 home-custom-homepage-address =
     .placeholder = Introducir dirección
 home-custom-homepage-address-button =
@@ -928,6 +944,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Buscador predeterminado en ventanas privadas
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navegación en la barra de direcciones
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Omitir el menú de resultados al usar la tecla Tab para mover el foco
 search-suggestions-header-2 =
     .label = Sugerencias del buscador
 search-one-click-header2 = Atajos de búsqueda
@@ -935,6 +959,8 @@ search-one-click-desc = Elija los buscadores alternativos que aparecen bajo las 
 search-one-click-header-3 =
     .description = Elija qué buscadores y atajos aparecen en su barra de direcciones.
     .label = Buscadores adicionales
+search-engine-list =
+    .aria-label = Buscadores y atajos
 update-search-engine-success =
     .message = Buscador actualizado correctamente
 search-edit-engine-2 =
@@ -998,6 +1024,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Añadir nuevo contenedor
     .accesskey = A
+containers-list =
+    .aria-label = Contenedores
 containers-new-tab-check3 =
     .label = Seleccionar un contenedor para cada nueva pestaña
     .accesskey = S
@@ -1131,6 +1159,10 @@ prefs-syncing-off = Sincronización: DESACTIVADA
 prefs-syncing-off-2 =
     .description = Active la sincronización para tener sus marcadores, contraseñas, historial y más en cualquier dispositivo.
     .label = Sincronización DESACTIVADA
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Active la sincronización para tener sus marcadores, contraseñas, historial y más en este dispositivo.
+    .label = Sincronización DESACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Activar la sincronización…
     .accesskey = s
@@ -1149,13 +1181,20 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = Sincronizando…
     .title = Sincronizar ahora
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = Sus opciones de sincronización ahora solo se aplican a este dispositivo.
 
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Se están sincronizando estos ítems en todos sus dispositivos conectados:
 sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
+sync-syncing-across-devices-heading-3 = Datos sincronizados en este dispositivo
 sync-syncing-across-devices-empty-state2 =
     .description = No se está sincronizando nada… aún. Empiece a sincronizar para tener todos sus datos en todos sus dispositivos.
+    .label = Administrar datos sincronizados
+sync-syncing-across-devices-empty-state3 =
+    .description = No se está sincronizando nada… aún. Elija qué sincronizar en este dispositivo.
     .label = Administrar datos sincronizados
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
@@ -1182,6 +1221,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Pestañas abiertas
+    .tooltiptext = Pestañas abiertas en sus otros dispositivos
+    .accesskey = t
 sync-engine-tabs =
     .label = Pestañas abiertas
     .tooltiptext = Una lista de lo que está abierto en todos los dispositivos sincronizados
@@ -1190,6 +1234,22 @@ sync-engine-passwords =
     .label = Contraseñas
     .tooltiptext = Contraseñas que ha guardado
     .accesskey = C
+sync-engine-addresses2 =
+    .label = Direcciones
+    .tooltiptext = Direcciones que ha guardado en { -brand-short-name }
+    .accesskey = D
+sync-engine-payment-methods3 =
+    .label = Métodos de pago
+    .tooltiptext = Métodos de pago que ha guardado
+    .accesskey = g
+sync-engine-addons2 =
+    .label = Complementos
+    .tooltiptext = Extensiones y temas que ha añadido a { -brand-short-name } para escritorio
+    .accesskey = o
+sync-engine-settings2 =
+    .label = Ajustes
+    .tooltiptext = Ajustes de { -brand-short-name } cuando corresponda
+    .accesskey = s
 sync-engine-addresses =
     .label = Direcciones
     .tooltiptext = Direcciones postales que ha guardado (solo escritorio)
@@ -1213,6 +1273,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Administrar lo que se sincroniza entre sus dispositivos conectados
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Guardar
+    .buttonlabelextra2 = Desconectar…
+    .buttonaccesskeyaccept = G
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Administrar lo que se sincroniza en este dispositivo
 
 ## The device name controls.
 
@@ -1374,9 +1441,17 @@ autofill-payment-methods-manage-payments-button =
     .label = Administrar métodos de pago
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Requerir inicio de sesión en el dispositivo para autocompletar
+    .accesskey = R
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Requerir inicio de sesión en el dispositivo para autocompletar y administrar métodos de pago
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Guardar códigos de seguridad
+    .accesskey = c
 autofill-payment-methods-add-button = Añadir nuevo método de pago
 payments-list-header =
     .label = Métodos de pago
@@ -1443,6 +1518,48 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } guardado
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } guardado
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 addresses-group =
     .label = Direcciones y más
@@ -1750,6 +1867,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Elegir qué sitios web pueden instalar extensiones
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Permitir que los sitios pidan abrir enlaces de aplicaciones.
+    .accesskey = P
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Administrar sitios bloqueados
+    .accesskey = A
 permissions-location2 =
     .label = Ubicación
 permissions-localhost2 =
@@ -1774,6 +1900,62 @@ permissions-data-section =
     .heading = Permisos y datos
 pane-permissions-data-title2 = Permisos y datos
     .title = Permisos y datos
+notifications-section-header =
+    .heading = Notificaciones
+notifications-entry-card-header =
+    .description = Elija qué sitios web pueden enviar notificaciones y cómo se muestran esos avisos.
+    .label = Notificaciones
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } sitio web
+           *[other] { $count } sitios web
+        }
+    .label = Administrar ajustes de notificaciones
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Administrar ajustes de notificaciones de sitios web
+notifications-website-card-header =
+    .description = Elija cómo pueden enviar notificaciones los sitios web.
+    .label = Notificaciones de sitios web
+notifications-filter =
+    .placeholder = Buscar sitios web
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Sitio web
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Permitir notificaciones
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Sitios web
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Siempre
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Permitir
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nunca
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = No se han añadido notificaciones de sitios web.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Ninguna notificación de sitios web coincide con su búsqueda.
 
 ## Privacy Section - Data Collection
 
@@ -2099,6 +2281,12 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .description = Vea un resumen rápido antes de abrir un enlace.
     .label = Puntos clave en las vistas previas de enlaces
+preferences-ai-controls-speech-recognition-control =
+    .description = Transcribir la voz localmente.
+    .label = Reconocimiento de voz
+preferences-ai-controls-sidebar-chatbot-group-3 =
+    .description = Mantenga un chatbot a la vista mientras navega. Elija entre varios proveedores y cambie cuando quiera.
+    .label = Proveedores de chatbots de IA en la barra lateral
 preferences-ai-controls-sidebar-chatbot-group =
     .description = Mantenga un chatbot a la vista mientras navega. Elija entre Anthropic Claude, ChatGPT, Copilot, Google Gemini y Le Chat Mistral.
     .label = Proveedores de chatbots en la barra lateral
@@ -2125,6 +2313,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Texto alternativo de la image
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugerencias de grupos de pestañas
 preferences-ai-controls-block-confirmation-key-points = Puntos clave en las vistas previas de enlaces
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Proveedores de chatbots en la barra lateral
+preferences-ai-controls-block-confirmation-speech-recognition = Reconocimiento de voz
 preferences-ai-controls-block-confirmation-features-after = El bloqueo también afecta a las extensiones que utilizan IA proporcionada por { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
@@ -2191,6 +2380,8 @@ preferences-etp-level-custom =
     .label = Personalizado
 preferences-etp-status-advanced-button =
     .label = Configuración avanzada
+preferences-etp-tracker-count-enabled =
+    .label = Mostrar los rastreadores bloqueados en la barra de direcciones
 preferences-etp-status-protections-dashboard-link =
     .description = Vea cuántos rastreadores furtivos fueron bloqueados por { -brand-short-name }, incluyendo rastreadores de redes sociales, detectores de huellas y criptomineros.
     .label = Vea su panel de protecciones personalizado
@@ -2231,6 +2422,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Permitir todas las cookies
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = Bloquear cookies de rastreo entre sitios
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
     .label = Bloquear cookies entre sitios
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
@@ -2274,6 +2467,12 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .description = Está más expuesto ante estafas y software malicioso proveniente de páginas web.
     .label = El contenido peligroso y engañoso no está siendo bloqueado
+security-privacy-issue-warning-doh2 =
+    .description = DNS sobre HTTPS ayuda a ocultar a su proveedor de red qué sitios va a visitar.
+    .label = DNS sobre HTTPS está desactivado
+security-privacy-issue-warning-ech2 =
+    .description = Encrypted Client Hello ayuda a ocultar a su proveedor de red qué sitios va a visitar.
+    .label = Encrypted Client Hello está desactivado
 security-privacy-issue-warning-doh =
     .description = DNS sobre HTTPS oculta a su proveedor de red qué sitios visita.
     .label = DNS sobre HTTPS desactivado
@@ -2283,3 +2482,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = La configuración automática del proxy puede permitir que redes no fiables vigilen su actividad.
     .label = La configuración automática de proxy está activada
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .description = Invite a alguien a elegir el navegador que antepone la privacidad.
+    .label = Compartir { -brand-product-name }
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Compartir { -brand-product-name }

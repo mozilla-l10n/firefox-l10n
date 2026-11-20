@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot de IA
 menu-view-contextual-password-manager =
     .label = Contraseñas
+menu-view-resource-monitor =
+    .label = Monitor de recursos
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -13,6 +15,9 @@ menu-view-open-tabs =
     .label = Pestañas abiertas
 sidebar-options-menu-button =
     .title = Abrir menú
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Redimensionar barra lateral
 
 ## Labels for sidebar history panel
 
@@ -45,6 +50,14 @@ sidebar-history-sort-option-date-and-site =
     .label = Fecha y sitio
 sidebar-history-sort-option-last-visited =
     .label = Última visita
+sidebar-history-sort-option-most-visited =
+    .label = Más visitados
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = ¿Echa algo en falta? Traiga el historial de otro navegador.
+sidebar-history-import-promo-button =
+    .label = Importar a { -brand-short-name }
 
 ## Labels for sidebar search
 
@@ -63,6 +76,8 @@ sidebar-settings2 =
     .label = Ajustes
 sidebar-hide-tabs-and-sidebar =
     .label = Ocultar pestañas y barra lateral
+sidebar-open-tools-from-sidebar =
+    .label = Abrir herramientas desde la barra lateral
 sidebar-show-on-the-right =
     .label = Mover barra lateral a la derecha
 sidebar-show-on-the-left =
@@ -71,6 +86,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir la barra lateral al pasar el ratón
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Mostrar vista previa al pasar el ratón
 sidebar-manage-extensions2 = Administrar todas las extensiones
 sidebar-customize-extensions-header2 = Extensiones
 sidebar-customize-firefox-tools-header2 =
@@ -119,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Añadir página a marcadores…
 sidebar-history-context-menu-delete-pages =
     .label = Eliminar páginas del historial
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Eliminar
 
 ## Labels for sidebar bookmarks context menu items
 
@@ -128,6 +150,44 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = Eliminar marcador
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Eliminar
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Cerrar pestaña
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Ordenar por
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Orden de las pestañas
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Activas recientemente
+
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = Pestañas recientes
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Cerrar { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Silenciar pestaña
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Restaurar sonido en pestaña
 
 ## Labels for sidebar menu items.
 
@@ -148,6 +208,8 @@ sidebar-menu-customize-label =
     .label = Personalizar barra lateral
 sidebar-menu-contextual-password-manager-label =
     .label = Contraseñas
+sidebar-menu-resource-monitor-label =
+    .label = Monitor de recursos
 sidebar-menu-more-tools-label =
     .label = Más herramientas
 
@@ -230,6 +292,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Ventana { $winID }
+sidebar-bookmarks-title = Marcadores
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -95,3 +95,7 @@ experimental-features-tab-notes-description = Las notas de pestañas son una fun
 experimental-features-tab-context-menu =
     .label = Menú de pestañas simplificado
 experimental-features-tab-context-menu-description = Un menú contextual más simple al hacer clic con el botón derecho en una pestaña. Está diseñado para que las acciones comunes sean más fáciles de encontrar. <a data-l10n-name="connect">Compartir comentarios</a>
+# Resource Monitor
+experimental-features-resource-monitor =
+    .label = Monitor de recursos
+experimental-features-resource-monitor-description = Vea el uso estimado de memoria y CPU de sus pestañas abiertas directamente en la barra lateral, y descargue las pestañas que no esté usando para liberar recursos. <a data-l10n-name="connect">Compartir opinión</a>

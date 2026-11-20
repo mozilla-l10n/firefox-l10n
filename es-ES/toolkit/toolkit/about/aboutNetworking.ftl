@@ -19,6 +19,66 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validado
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Clave de aislamiento
+about-networking-ssl-tokens = Tokens TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } caducado)
+       *[other] ({ $count } caducados)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% ahorrado)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+# Certificates are stored inside every cached token, so the same certificate is
+# held many times over.
+# $references (Number) - Total number of stored certificate copies
+# $totalBytes (Number) - Uncompressed size of all stored copies, in bytes
+# $distinct (Number) - Number of unique certificates across all tokens
+# $distinctBytes (Number) - Uncompressed size of the unique certificates, in bytes
+about-networking-ssl-tokens-summary-certs = Certificados almacenados: { $references } ({ $totalBytes } B), distintos: { $distinct } ({ $distinctBytes } B)
+about-networking-ssl-tokens-partition-key = Clave de partición
+about-networking-ssl-tokens-tokens-column = Tokens
+about-networking-ssl-tokens-expires = Caducidad
+about-networking-ssl-tokens-certificate = Certificado
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Restaurado desde el almacenamiento
+    .title = Restaurado desde el almacenamiento
+about-networking-ssl-tokens-new =
+    .alt = Nuevo en esta sesión
+    .title = Nuevo en esta sesión
+about-networking-ssl-tokens-expired =
+    .alt = Caducado
+    .title = Caducado
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokens: { $tokenLength } B. Codificado: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Certificado EV
+about-networking-ssl-tokens-ct-status = Estado de Certificate Transparency
+about-networking-ssl-tokens-overridable-error = Categoría de error anulable
+about-networking-ssl-tokens-built-in-root = Raíz integrada
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Cadena de certificados ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certificados del handshake ({ $count })
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Referescar automáticamente cada 3 segundos
 about-networking-hostname = Nombre del servidor
