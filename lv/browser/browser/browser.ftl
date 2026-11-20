@@ -1620,11 +1620,11 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 redirect-warning-with-popup-message =
     { $popupCount ->
-        [0] { -brand-short-name } neļāva šai vietnei pāradresēt.
-        [1] { -brand-short-name } neļāva šai vietnei atvērt uznirstošo logu un pāradresēt.
-        [zero] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošos logus un pāradresēt.
-        [one] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošo logu un pāradresēt.
-       *[other] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošos logus un pāradresēt.
+        [0] { -brand-short-name } neļāva šai vietnei pārvirzīt.
+        [1] { -brand-short-name } neļāva šai vietnei atvērt uznirstošo logu un pārvirzīt.
+        [zero] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošos logus un pārvirzīt.
+        [one] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošo logu un pārvirzīt.
+       *[other] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošos logus un pārvirzīt.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1639,9 +1639,9 @@ popup-warning-exceeded-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-with-redirect-message =
     { $popupCount ->
-        [zero] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošos logus un pāradresēt.
-        [one] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošo logu un pāradresēt.
-       *[other] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošos logus un pāradresēt.
+        [zero] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošos logus un pārvirzīt.
+        [one] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošo logu un pārvirzīt.
+       *[other] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošos logus un pārvirzīt.
     }
 popup-warning-button =
     .label =

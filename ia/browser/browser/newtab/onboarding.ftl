@@ -649,7 +649,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Obtene le protection integrate sur tu telephono
 hnt-card-mobile-body = Discarga { -brand-product-name } pro apparato mobile pro ulterior confidentialitate al volo.
-hnt-card-mobile-primary-button2 = Installa { -brand-product-name } pro mobile
+hnt-card-mobile-primary-button2 = Installa { -brand-product-name } pro apparato mobile
 hnt-card-mobile-primary-button = Installa { -brand-product-name } pro mobile.
 hnt-card-wallpaper-header = Selige un fundo fresc
 hnt-card-wallpaper-body = Rende iste pagina agradabile como tu casa con un fundo que te place.
