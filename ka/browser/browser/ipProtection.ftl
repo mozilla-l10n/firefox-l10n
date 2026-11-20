@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = VPN უკავშირდებ
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = გამორთვა
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = შეუზღუდავი გამტარუნარიანობა თარიღამდე { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = შეუზღუდავი გამტარუნარიანობა
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -211,6 +218,16 @@ ipprotection-locations-subview-promo =
     .heading = უსაფრთხოების მეტად ასამაღლებლად დაიხმარეთ { -mozilla-vpn-brand-name }
     .message = აირჩიეთ 300+ ადგილმდებარეობიდან რომელიმე და დაიცავით ყველა პროგრამა 5 მოწყობილობის ჩათვლით.
 ipprotection-locations-subview-promo-button = გამოიყენეთ { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = მეტი მდებარეობა. მეტი უსაფრთხოება.
+    .message =
+        { $count ->
+            [one] გახადეთ { -brand-short-name } ნაგულისხმევი და მიიღეთ კიდევ { $count } მდებარეობა ასარჩევად. თქვენი ბმულები გაიხსნება აქ, სადაც VPN პირდაპირ ჩაშენებულია.
+           *[other] გახადეთ { -brand-short-name } ნაგულისხმევი და მიიღეთ კიდევ { $count } მდებარეობა ასარჩევად. თქვენი ბმულები გაიხსნება აქ, სადაც VPN პირდაპირ ჩაშენებულია.
+        }
+ipprotection-locations-subview-set-default-promo-button = ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
 
 ## VPN paused state
 
@@ -247,6 +264,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = იწურება თქვენი VPN-მოცულობა
     .message = დარჩენილია { $usageLeft } ᲛᲑ ამ თვის { $maxUsage } ᲒᲑ მოცულობიდან.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] თქვენ მიიღეთ კიდევ { $additionalLocationsCount } VPN-მდებარეობა
+           *[other] თქვენ მიიღეთ კიდევ { $additionalLocationsCount } VPN-მდებარეობა
+        }
+    .message = გმადლობთ, რომ { -brand-short-name } მიუთითეთ ნაგულისხმევად. დავამატეთ სხვა მდებარეობებიც, რომელთა გამოყენებითაც ინახულებთ გვერდებს.
 ipprotection-message-continuous-onboarding-intro = ჩართეთ VPN, რომ დაფაროთ თქვენი ადგილსამყოფელი და დამატებითი დაშიფვრით მოინახულოთ გვერდები.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">VPN ჩაირთოს</a> ყოველ ჯერზე, როცა კი გაეშვება { -brand-short-name } დაცვის დამატებითი შრით უზრუნველსაყოფად.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } დაიხსომებს, რომელი საიტებისთვის უნდა გამოიყენოს VPN. შეცვლა ნებისმიერ დროს შეგეძლებათ <a data-l10n-name="setting-link">პარამეტრებიდან</a>.
