@@ -31,9 +31,51 @@ neterror-add-exception-button = Vazhdo përherë për këtë sajt
 neterror-settings-button = Ndryshoni rregullime DNS
 neterror-view-certificate-link = Shihni Dëshmi
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = S’u lidh dot me shërbyesin te <strong>{ $hostname }</strong>.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Provoni këto hapa:
+neterror-search-cta-hint-check-address = Rikontrolloni adresën e sajtit
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Kërko në web për të gjetur sajtin
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, beginning with the site's name, for example "example best hiking
+# boots". The query and the quotation marks around it are emphasized.
+neterror-search-cta-hint-search-query = Kërko në web për <strong>“{ $query }”</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Kërko
+    .tooltiptext = Bën hapjen e përfundimeve të kërkimit në një skedë të re
+    .accesskey = K
+neterror-search-cta-reload-button =
+    .label = Ringarkoje
+    .accesskey = R
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Duket se s’jeni i lidhur në internet. Rilidhuni dhe riprovoni.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Kod gabimi: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Mësoni më tepër
+
 ##
 
 neterror-pref-reset = Duket se kjo shkaktohet nga rregullimet tuaja për sigurinë e rrjetit. Doni të rikthehen rregullimet parazgjedhje?
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Lidhja juaj mund të mos jetë private
+    .message = Një aplikacion, apo  një shërbim mund të shohë trafikun tuaj të fshehtëzuar nga ky sajt.
 
 ## Specific error messages
 
