@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Ir para o Separador 8
 customkeys-nav-select-last-tab = Ir para o Último Separador
 customkeys-nav-toggle-mute = Silenciar/Repor Áudio
 customkeys-edit-find-previous = Localizar Anterior
+customkeys-edit-find-selection = Usar Seleção para Pesquisa
 customkeys-tools-screenshot = Tirar uma Captura de Ecrã
 customkeys-category-navigation-2 =
     .heading = Navegação

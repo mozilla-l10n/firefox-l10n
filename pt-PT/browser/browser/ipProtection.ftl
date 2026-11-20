@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = A VPN está a estabelecer ligaçã
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Desligar
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = Largura de banda ilimitada até { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Tráfego ilimitado
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -253,6 +260,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = A chegar perto do limite da sua VPN
     .message = Restam-lhe { $usageLeft } MB de { $maxUsage } GB este mês.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Tem mais { $additionalLocationsCount } localização da VPN
+           *[other] Tem mais { $additionalLocationsCount } localizações de VPN
+        }
+    .message = Obrigado por predefinir a { -brand-short-name }. Adicionámos mais localizações que pode navegar.
 ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar a sua localização e adicionar uma encriptação adicional à sua navegação.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ative a VPN automaticamente</a> sempre que abrir o { -brand-short-name } para garantir uma proteção adicional.
 ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } irá memorizar quais os sites que configurou para utilizar a VPN. Atualize os mesmos, a qualquer momento, nas <a data-l10n-name="setting-link">definições</a>.

@@ -133,6 +133,14 @@ aiwindow-input-model-select-recommended-badge =
     .title = O modelo recomendado
 aiwindow-input-model-select-settings-link = Definições do modelo
 
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = O { -smart-window-brand-name } escolhe o melhor modelo para a sua tarefa
+aiwindow-input-model-select-fast-description = Respostas rápidas quando está com pressa
+aiwindow-input-model-select-flexible-description = Pronto para uma variedade de tarefas
+aiwindow-input-model-select-personal-description = Bom se conversa e navega em múltiplos idiomas
+
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Respostas mais úteis, à sua medida
