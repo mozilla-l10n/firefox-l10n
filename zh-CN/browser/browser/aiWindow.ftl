@@ -131,7 +131,7 @@ aiwindow-input-model-select-flexible-description = 可应对各式任务
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = 让回答更实用，更懂你
-aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } 可从聊天、浏览活动中学习并创建记忆。随着积累，回答将越来越实用。
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name }可从聊天、浏览活动中学习并创建记忆。随着积累，回答将越来越实用。
 aiwindow-firstrun-memories-conversation-title = 专注于对话
 aiwindow-firstrun-memories-conversation-body = 从聊天学习后，可免于反复说明自己的偏好。
 aiwindow-firstrun-memories-relevance-title = 回答更相关
@@ -142,7 +142,7 @@ aiwindow-firstrun-memories-choose-label = 选择{ -smart-window-brand-name }学�
 aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name }中的聊天
 aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } 中的浏览活动
 aiwindow-firstrun-memories-update-settings = 可随时在设置中更新。
-aiwindow-firstrun-memories-no-create = 明白，{ -smart-window-brand-name } 将不会创建记忆。您随时可在设置中更新。
+aiwindow-firstrun-memories-no-create = 明白，{ -smart-window-brand-name }将不会创建记忆。您随时可在设置中更新。
 
 ## Firstrun set as default onboarding
 
