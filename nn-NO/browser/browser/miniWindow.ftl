@@ -72,5 +72,9 @@ mini-window-overlay-instructions = Dra eller klikk for å velje eit område du v
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Velg kva som skal flyttast til eit minivindauge
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Ein del av sida
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Heile sida
 mini-window-panel-move-selection = Flytt markeringa
 mini-window-panel-move-full-tab = Flytt heile fana

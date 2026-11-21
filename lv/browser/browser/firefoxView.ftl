@@ -191,11 +191,11 @@ firefoxview-show-all-history = Rādīt visu vēsturi
 
 firefoxview-history-empty-header = Atgriezieties tur, kur bijāt
 firefoxview-history-empty-description = Pārlūkošanas laikā šeit tiks uzskaitītas apmeklētās lapas.
-firefoxview-history-empty-description-two = Jūsu privātuma aizsardzība ir mūsu darbības pamatā. Tāpēc savos <a data-l10n-name="history-settings-url">vēstures iestatījumos</a> varat kontrolēt darbības, ko { -brand-short-name } atcerēsies.
+firefoxview-history-empty-description-two = Privātuma aizsardzība ir mūsu darbības pamatā. Tāpēc <a data-l10n-name="history-settings-url">vēstures iestatījumos</a> vari pārvaldīt darbības, ko { -brand-short-name } atcerēsies.
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Jūsu pārlūkošanas taka sākas šeit
-firefoxview-history-empty-description-2 = Apmeklējot lapas, šeit tiks parādīta jūsu vēsture. <a data-l10n-name="history-settings-url">iestatījumos</a> varat kontrolēt, kas tiek saglabāts.
+firefoxview-history-empty-description-2 = Pēc lapu apmeklēšanas šeit tiks uzrādīta vēsture. <a data-l10n-name="history-settings-url">iestatījumos</a> vari pārvaldīt, kas tiek pieglabāts.
 
 ##
 

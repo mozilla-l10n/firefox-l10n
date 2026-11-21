@@ -126,6 +126,11 @@ aiwindow-input-model-select-button-label-auto = Automatisk
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Vald standardmodell
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Tilrådd
+    .title = Den tilrådde modellen
 aiwindow-input-model-select-settings-link = Modellinnstillingar
 
 ## Firstrun memories onboarding
@@ -372,3 +377,6 @@ smartwindow-onboarding-model-label = Vel KI-modell
 smartwindow-onboarding-model-auto = Automatisk
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Tilrådd
+smartwindow-onboarding-memories-chats = Berre chattar
+smartwindow-onboarding-save =
+    .label = Lagre og hald fram

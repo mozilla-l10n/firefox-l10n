@@ -50,11 +50,11 @@ webrtc-minimize =
 ## on macOS, as global menu bar items do not have native tooltips.
 
 webrtc-camera-system-menu =
-    .label = Jūs kopīgojat savu kameru. Noklikšķiniet, lai kontrolētu kopīgošanu.
+    .label = Tu kopīgo kameru. Jāklikšķina, lai pārvaldītu kopīgošanu.
 webrtc-microphone-system-menu =
-    .label = Jūs kopīgojat savu mikrofonu. Noklikšķiniet, lai kontrolētu kopīgošanu.
+    .label = Tu kopīgo mikrofonu. Jāklikšķina, lai pārvaldītu kopīgošanu.
 webrtc-screen-system-menu =
-    .label = Jūs kopīgojat logu vai ekrānu. Noklikšķiniet, lai kontrolētu kopīgošanu.
+    .label = Tu kopīgo logu vai ekrānu. Jāklikšķina, lai pārvaldītu kopīgošanu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -63,9 +63,9 @@ webrtc-screen-system-menu =
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
-    .label = Kontrolēt koplietošanu
+    .label = Pārvaldīt kopīgošanu
 webrtc-indicator-menuitem-control-sharing-on =
-    .label = Kontrolēt koplietošanu ar "{ $streamTitle }"
+    .label = Kontrolēt kopīgošanu “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Koplieto kameru ar "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
