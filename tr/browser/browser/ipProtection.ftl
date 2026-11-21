@@ -185,6 +185,10 @@ ipprotection-connection-status-connecting-1 = VPN’e bağlanılıyor…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Devre dışı bırak
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+ipprotection-unlimited-bandwidth-upgraded = Sınırsız bant genişliği
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -211,6 +215,7 @@ ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name } ile korumayı ileri taşıyın
     .message = 300’den fazla konumdan istediğinizi seçin, 5 ayrı cihazınızda tüm uygulamalarınızı koruyun.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name }’i edinin
+ipprotection-locations-subview-set-default-promo-button = Bağlantıları { -brand-short-name } ile aç
 
 ## VPN paused state
 

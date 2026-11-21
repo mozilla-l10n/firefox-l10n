@@ -269,6 +269,9 @@ colorway-removal-notice-button = Merrni tema ngjyrimesh të përditësuara
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Rregullimet tuaja për kontrast në Windows po anashkalojnë tema të { -brand-short-name }-it. Që të përdorni tema në { -brand-short-name }, çaktivizoni këto rregullime.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } ka temat e veta të brendshme të çelëta dhe të errëta, që ndjekin rregullimet e sistemit tuaj.
 privacy-policy = Rregulla Privatësie
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -531,6 +534,8 @@ mlmodel-link-preview = { -brand-short-name }-i këtë e përdor për të prodhua
 mlmodel-pdfjs = { -brand-short-name }-i e përdor këtë për të krijuar tekst alternativ për figura që shtoni te PDF-ra
 mlmodel-smart-tab-topic-engine = { -brand-short-name }-i e përdor këtë për të sugjeruar emra për grupet tuaj të skedave
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }-i e përdor këtë për të sugjeruar skeda për grupet tuaj të skedave
+mlmodel-formfill-engine = { -brand-short-name }-i e përdor këtë për të ndihmuar të plotësohen formularë adresash
+mlmodel-speech-recognition = { -brand-short-name }-i e përdor këtë për njohje të të folurës në pajisje
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA “on-device”
 addon-category-mlmodel-title =
@@ -556,23 +561,35 @@ mlmodel-addon-detail-model-card-link-label = Shiheni te Hugging Face
 ## install. In the message, "tools" refers to Firefox extensions and
 ## "styles" refers to Firefox themes.
 
+find-more-addons-promo =
+    .heading = Jepini { -brand-product-name }-in formën që doni
+    .message = Shtoni mjete dhe stile që të plotësojnë nevojat dhe shijen tuaj.
 find-more-addons-promo-open-amo-button = Eksploroni zgjerime dhe tema
 
 ## Promo footer shown in the about:addons extensions list view when
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
 
+find-more-extensions-promo =
+    .heading = Gjeni zgjerimin tuaj të ardhshëm të parapëlqyer
+    .message = Përshtateni { -brand-product-name }-in me mjete për vëmendje, privatësi, blerje, etj.
 find-more-extensions-promo-open-amo-button = Eksploroni zgjerime
 
 ## Promo footer shown in the about:addons themes list view when
 ## Project Nova styles are enabled.
 ## "Find more fresh looks" refers to the user looking for more Firefox themes.
 
+find-more-themes-promo =
+    .heading = Gjeni më tepër pamje të freskëta
+    .message = Zgjidhni një stil që e bën { -brand-product-name }-in ta ndjeni si tuajin.
 find-more-themes-promo-open-amo-button = Eksploroni tema
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed
 ## and Project Nova is enabled.
 
+list-empty-get-extensions-promo =
+    .heading = Pak zgjerime dhe ju shpien larg
+    .message = Kemi rekomandime për t’ju ndihmuar të përmirësoni vëmendjen, privatësinë, etj.
 list-empty-get-extensions-promo-button = Gjeni zgjerimin tuaj të parë
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view

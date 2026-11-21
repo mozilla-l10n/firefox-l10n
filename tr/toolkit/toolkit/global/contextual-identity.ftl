@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Nokta
 user-context-icon-fence =
     .label = Çit
+user-context-icon-robot =
+    .label = Robot

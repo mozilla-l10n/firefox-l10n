@@ -121,10 +121,22 @@ aiwindow-input-model-select-button-label-fast = Hızlı
 aiwindow-input-model-select-button-label-allpurpose = Esnek
 aiwindow-input-model-select-button-label-personal = Kişisel
 aiwindow-input-model-select-button-label-custom = Özel
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Otomatik
 aiwindow-input-model-select-default-badge =
     .label = Varsayılan
     .title = Seçilen varsayılan model
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Önerilen
+    .title = Önerilen model
 aiwindow-input-model-select-settings-link = Model ayarları
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-flexible-description = Farklı görevlere hazır
 
 ## Firstrun memories onboarding
 
@@ -363,3 +375,10 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Kapat: { $text }
     .title = Kapat: { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-model-label = Yapay zekâ modelinizi seçin
+smartwindow-onboarding-model-auto = Otomatik
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Önerilen

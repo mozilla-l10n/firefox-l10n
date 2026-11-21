@@ -75,6 +75,12 @@ about-webauthn-add-bio-enrollment-button = Kayıt ekle
 about-webauthn-cancel-button = Vazgeç
 about-webauthn-send-pin-button = Tamam
 about-webauthn-delete-button = Sil
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Başlat
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Durdur
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Temizle
 about-webauthn-start-enrollment-button = Kaydı başlat
 about-webauthn-update-button = Güncelle
 
