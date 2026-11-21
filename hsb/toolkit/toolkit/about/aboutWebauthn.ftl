@@ -33,7 +33,7 @@ about-webauthn-text-non-ctap2-device = Njeje móžno nastajenja rjadować, dokel
 about-webauthn-text-not-available = Njeje na tutej platformje k dispoziciji
 about-webauthn-bio-enrollment-list-subsection-title = Přizjewjenja:
 about-webauthn-add-bio-enrollment-section-title = Nowe přizjewjenje přidać
-about-webauthn-logging-warning = Protokol móže wosobinske informacije wobsahować, na přikład wužiwarske mjena, konto identifikatory a adresy websydłow. Přepruwujće jón, prjedy hač jón dale daće.
+about-webauthn-logging-warning = Protokol móže wosobinske informacije wobsahować, na přikład wužiwarske mjena, kontowe identifikatory a adresy websydłow. Přepruwujće jón, prjedy hač jón dale daće.
 # CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
 about-webauthn-logging-scope-note = To jenož naprašowanja na natiwnu implementaciju CTAP { -brand-short-name } protokoluje. Njeprotokoluje naprašowanja na API WebAuthn platformy abo rozšěrjenja wobhladowaka.
 

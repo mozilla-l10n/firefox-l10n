@@ -33,6 +33,7 @@ about-webauthn-text-non-ctap2-device = Njejo móžno nastajenja zastojaś, dokul
 about-webauthn-text-not-available = Njejo na toś tej platformje k dispoziciji
 about-webauthn-bio-enrollment-list-subsection-title = Pśizjawjenja:
 about-webauthn-add-bio-enrollment-section-title = Nowe pśizjawjenje pśidaś
+about-webauthn-logging-warning = Protokol móžo wósobinske informacije wopśimowaś, na pśikład wužywaŕske mjenja, kontowe identifikatory a adrese websedłow. Pśeglědujśo jen, nježli až jen dalej dajośo.
 
 ## Results label
 

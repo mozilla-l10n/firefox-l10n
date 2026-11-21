@@ -385,6 +385,10 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Pódpěra was, wěcy cyniś.
+    Planowaś, pśirownaś, wuslěźiś a wěcej.
 smartwindow-onboarding-title = Pśiměŕśo se jo.
 smartwindow-onboarding-subtitle = Konfigurěrujśo { -smart-window-brand-name } tak, kaž cośo. Pśewjeźćo kuždy cas změny w nastajenjach.
 smartwindow-onboarding-model-label = Wubjeŕśo swój model KI
@@ -404,6 +408,7 @@ smartwindow-onboarding-memories-none = Z aktiwity njewuknuś
 smartwindow-onboarding-memories-both-description = Chaty w { -smart-window-brand-name }, pśeglědowanje w { -brand-short-name }
 smartwindow-onboarding-memories-browsing-description = W { -brand-short-name } pśeglědowaś
 smartwindow-onboarding-memories-chats-description = Chaty w { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Buźośo mjenjej pśirězanych naraźenjow wiźeś a musyśo snaź drobnostki w někotarych chatach wóspjetowaś.
 smartwindow-onboarding-default-window =
     .description = Wužywajśo to, gaž { -brand-short-name } startujo, znowego startujo abo wótkaze z drugich nałoženjow wócynja.
     .label = W { -smart-window-brand-name } startowaś
