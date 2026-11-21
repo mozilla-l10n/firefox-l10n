@@ -68,6 +68,24 @@ genai-shortcut-button-3 =
 genai-shortcut-search-button =
     .aria-label = Kërko me { $engine } për “{ $selection }”
     .tooltiptext = Kërko me { $engine } për “{ $selection }”
+genai-shortcut-copy-button =
+    .aria-label = Kopjo tekstin e përzgjedhur
+    .tooltiptext = Kopjoni tekstin e përzgjedhur
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = U kopjua
+genai-shortcut-more-actions-button =
+    .aria-label = Më tepër mundësi
+    .tooltiptext = Më tepër mundësi
+genai-more-actions-panel =
+    .aria-label = Zgjidhni cilët veprime të shfaqen
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Pyetni { $provider }
+genai-more-actions-ai-generic =
+    .label = Pyetni IA-në
+genai-more-actions-search =
+    .label = Kërko
 genai-more-actions-copy =
     .label = Kopjoje
 # The span is a right-pointing chevron that separates the steps of the path to

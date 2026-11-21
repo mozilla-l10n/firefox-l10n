@@ -1183,6 +1183,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Administroni të dhëna të njëkohësuara
     .accesskey = A
+settings-sync-disconnect-button =
+    .label = Shkëputu
 
 ## The "Choose what to sync" dialog.
 
@@ -1343,6 +1345,11 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
 windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Shfaq mesazhe cenimesh
+    .accesskey = S
 
 ## OS Authentication dialog
 
@@ -1412,6 +1419,20 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = S’u shtuan adresa
+personal-info-group =
+    .label = Hollësi personale
+autofill-personal-info-manage-button =
+    .label = Administroni hollësi personale
+passports-list-header =
+    .label = Pasaportë
+passports-delete-passport-button-label =
+    .aria-label = Fshije
+passports-edit-passport-button-label =
+    .aria-label = Përpunoni
+passports-delete-passport-prompt-title = Të fshihet kjo pasaportë?
+passports-delete-passport-prompt-confirm-button = Fshije
+passports-delete-passport-prompt-cancel-button = Anuloje
+autofill-passports-add-button = Shtoni pasaportë të re
 autofill-personal-info-manage-title =
     .heading = Administroni hollësi personale
 # This message is displayed when no passports are stored in Firefox
@@ -1428,6 +1449,26 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } i ruajtur
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } i ruajtur
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
@@ -1843,6 +1884,9 @@ notifications-state-never = Kurrë
 # notification decision.
 notifications-empty-message =
     .label = S’u shtuan njoftime sajtesh.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = S’ka njoftime sajti që përkojnë me kërkimin tuaj.
 
 ## Privacy Section - Data Collection
 
@@ -2318,6 +2362,9 @@ security-privacy-issue-warning-safe-browsing =
 security-privacy-issue-warning-doh2 =
     .description = DNS përmes HTTPS-je ndihmon t’i fshihet shërbimit tuaj internet cilët sajte jeni gati për të vizituar.
     .label = DNS përmes HTTPS-je është e çaktivizuar
+security-privacy-issue-warning-ech2 =
+    .description = Encrypted Client Hello ndihmon t’i fshihet shërbimit tuaj internet cilët sajte jeni gati për të vizituar.
+    .label = Encrypted Client Hello është i çaktivizuar
 security-privacy-issue-warning-doh =
     .description = DNS përmes HTTPS-je i fsheh shërbimit tuaj të internetit ç’sajte vizitoni.
     .label = DNS përmes HTTPS-je është e çaktivizuar

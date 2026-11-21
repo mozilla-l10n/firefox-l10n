@@ -43,6 +43,10 @@ certificate-viewer-logid = ID Regjistri
 certificate-viewer-method = Metodë
 certificate-viewer-modulus = Modul
 certificate-viewer-name = Emër
+certificate-viewer-surname = Mbiemër
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Emër
 certificate-viewer-not-after = Jo Pas
 certificate-viewer-not-before = Jo Para
 certificate-viewer-organization = Ent
