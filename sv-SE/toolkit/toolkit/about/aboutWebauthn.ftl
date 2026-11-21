@@ -83,7 +83,7 @@ about-webauthn-delete-button = Ta bort
 # Starts recording the log of messages exchanged with a security token.
 about-webauthn-start-button = Starta
 # Stops recording the log of messages exchanged with a security token.
-about-webauthn-stop-button = Stopp
+about-webauthn-stop-button = Stoppa
 # Clears the log of messages exchanged with a security token.
 about-webauthn-clear-button = Rensa
 about-webauthn-start-enrollment-button = Starta registrering

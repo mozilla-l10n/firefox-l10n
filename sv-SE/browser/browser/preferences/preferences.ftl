@@ -653,8 +653,8 @@ support-share-ideas =
 ## Firefox newsletter
 
 newsletter-settings-heading =
-    .description = Få anvisningar, råd och nyheter så att din upplevelse av { -brand-product-name } ska fungera bäst för dig.
-    .label = Nyhetsbrev { -brand-product-name }
+    .description = Få vägledning, råd och nyheter för att få ut det mesta av din upplevelse med { -brand-product-name }.
+    .label = Nyhetsbrev från { -brand-product-name }
 newsletter-sign-up-link =
     .label = Registrera dig
 

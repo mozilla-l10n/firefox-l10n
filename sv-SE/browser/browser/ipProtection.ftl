@@ -269,10 +269,10 @@ ipprotection-message-bandwidth-warning-mb =
 ipprotection-message-default-browser-confirmation =
     .heading =
         { $additionalLocationsCount ->
-            [one] Du har { $additionalLocationsCount } ytterligare VPN-plats
+            [one] Du har { $additionalLocationsCount } VPN-plats till
            *[other] Du har { $additionalLocationsCount } VPN-platser till
         }
-    .message = Tack för att du gjorde { -brand-short-name } till din standard. Vi har lagt till fler platser du kan bläddra bland.
+    .message = Tack för att du har valt { -brand-short-name } som ditt standardalternativ. Vi har lagt till fler platser som du kan utforska.
 ipprotection-message-continuous-onboarding-intro = Aktivera VPN för att dölja din plats och lägg till extra kryptering till din surfning.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ställ in VPN så att den slås på</a> varje gång du öppnar { -brand-short-name } för ett extra lager av skydd.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } kommer ihåg vilka webbplatser du har ställt in för att använda VPN. Uppdatera dessa i <a data-l10n-name="setting-link">inställningarna</a> när som helst.

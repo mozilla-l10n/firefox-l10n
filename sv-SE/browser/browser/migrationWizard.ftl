@@ -20,7 +20,7 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 # Name for the Arc browser - this should not be localized
-migration-wizard-migrator-display-name-arc = Båge
+migration-wizard-migrator-display-name-arc = Arc
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -52,7 +52,7 @@ migration-imported-edge-reading-list = Läslista (från Edge)
 #
 # Variables:
 #  $number (Number): the position of the space among the imported profile's spaces, starting at 1.
-migration-imported-arc-untitled-space = Mellanslag { $number }
+migration-imported-arc-untitled-space = Arbetsyta { $number }
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
