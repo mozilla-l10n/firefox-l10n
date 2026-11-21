@@ -1344,7 +1344,7 @@ newtab-download-mobile-highlight-body-variant-a = Noskenējiet kodu, lai droši 
 newtab-download-mobile-highlight-body-variant-b = Turpini darbu, kur to pārtrauci, kad sinhronizē cilnes, paroles un pārējo!
 newtab-download-mobile-highlight-body-variant-c = Vai zinājāt, ka varat ņemt { -brand-product-name } līdzi, atrodoties ceļā? Tas pats pārlūks. Jūsu kabatā.
 newtab-download-mobile-highlight-image =
-    .aria-label = QR kods, lai lejupielādētu { -brand-product-name } Mobile
+    .aria-label = Kvadrātkods, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm
 
 ## Strings for shortcuts highlight
 

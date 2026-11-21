@@ -1208,15 +1208,15 @@ qrcode-panel-error =
 qrcode-copy-button =
     .label = Kopēt
 qrcode-copy-success =
-    .message = QR kods nokopēts starpliktuvē.
+    .message = Kvadrātkods nokopēts starpliktuvē.
 qrcode-copy-error =
-    .message = Neizdevās nokopēt QR kodu.
+    .message = Neizdevās nokopēt kvadrātkodu.
 qrcode-save-button =
     .label = Saglabāt
-qrcode-window-title = QR kods
-qrcode-dialog-title = QR kods
+qrcode-window-title = Kvadrātkods
+qrcode-dialog-title = Kvadrātkods
 qrcode-image =
-    .aria-label = QR kods
+    .aria-label = Kvadrātkods
 qrcode-close-button =
     .aria-label = Aizvērt
 toolbar-button-save-page =
@@ -1278,10 +1278,10 @@ toolbar-button-paste =
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
 
-qrcode-save-filename-base = qrcode
+qrcode-save-filename-base = kvadrātkods
 # Variables:
 #  $domain (String): The current page's domain used in the suggested filename.
-qrcode-save-filename-with-domain-base = qrcode-{ $domain }
+qrcode-save-filename-with-domain-base = kvarātkods-{ $domain }
 
 ## EME notification panel
 
