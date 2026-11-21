@@ -14,7 +14,7 @@ about-config-intro-warning-button = Rozumiem riziku a chcem pokračovať
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Zmeny môžu ovplyvniť výkon a bezpečnosť aplikácie { -brand-short-name }.
-about-config-page-title = Rozšírené možnosti
+about-config-page-title = Pokročilé predvoľby
 about-config-search-input1 =
     .placeholder = Hľadať názov predvoľby
 about-config-show-all = Zobraziť všetko

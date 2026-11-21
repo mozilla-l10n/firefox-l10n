@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Správa PIN
 about-webauthn-credential-management-section-title = Správa prihlasovacích údajov
 about-webauthn-pin-required-section-title = Vyžaduje sa PIN
 about-webauthn-confirm-deletion-section-title = Potvrdenie vymazania
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Protokol
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometrické registrácie
 
@@ -31,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Nie je možné spravovať možnosti, pret
 about-webauthn-text-not-available = Nie je k dispozícii na tejto platforme.
 about-webauthn-bio-enrollment-list-subsection-title = Registrácie:
 about-webauthn-add-bio-enrollment-section-title = Pridať novú registráciu
+about-webauthn-logging-warning = Protokol môže obsahovať osobné údaje, napríklad používateľské mená, identifikátory účtov a adresy webových stránok. Pred zdieľaním skontrolujte jeho obsah.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Zaznamenávajú sa iba požiadavky na natívnu implementáciu CTAP v prehliadači { -brand-short-name }. Požiadavky na platformové rozhrania WebAuthn API ani rozšírenia prehliadača sa nezaznamenávajú.
 
 ## Results label
 
@@ -77,6 +82,12 @@ about-webauthn-add-bio-enrollment-button = Pridať registráciu
 about-webauthn-cancel-button = Zrušiť
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Odstrániť
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Spustiť
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Zastaviť
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Vymazať
 about-webauthn-start-enrollment-button = Spustiť registráciu
 about-webauthn-update-button = Aktualizovať
 

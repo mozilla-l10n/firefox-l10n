@@ -45,7 +45,7 @@ experimental-features-link-previews-description-no-ai =
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
-    .label = Sekcie tém a sledovanie/blokovanie pre príbehy na novej karte
+    .label = Sekcie tém a sledovanie/blokovanie pre články na novej karte
 experimental-features-newtab-sections-follow-block-description = Usporiadajte si články na stránke Nová karta do tematických sekcií (Šport, Jedlo, Zábava a ďalšie) pre štruktúrovanejší a ľahšie čitateľný zážitok. Použite naše nové ovládacie prvky Sledovať a Blokovať na prispôsobenie obsahu, ktorý sa vám zobrazuje. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =

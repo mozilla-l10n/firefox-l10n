@@ -819,7 +819,7 @@ newtab-section-header-todays-picks = Dnešný výber pre vás
 
 newtab-empty-section-highlights = Začnite s prehliadaním a my vám na tomto mieste ukážeme skvelé články, videá a ostatné stránky, ktoré ste nedávno navštívili alebo pridali medzi záložky.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
-newtab-empty-section-topstories-generic = Už ste prečítali všetko. Ďalšie príbehy tu nájdete neskôr. Neviete sa dočkať? Vyberte obľúbenú tému a nájdite ďalšie skvelé príbehy z celého webu.
+newtab-empty-section-topstories-generic = Už ste prečítali. Vráťte sa neskôr a pozrite si ďalšie články. Nemôžete sa dočkať? Vyberte si populárnu tému a nájdite ďalšie skvelé články z celého webu.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -885,15 +885,15 @@ newtab-custom-row-selector2 =
         }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
-    .label = Odporúčané príbehy
+    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name(case: "gen") }
+    .label = Odporúčané články
 newtab-recommended-stories-toggle =
-    .label = Odporúčané príbehy
+    .label = Odporúčané články
 newtab-custom-stories-personalized-toggle =
-    .label = Príbehy
+    .label = Články
 newtab-custom-stories-personalized-checkbox =
-    .label = Prispôsobené príbehy na základe vašej aktivity
-newtab-custom-stories-personalized-checkbox-label = Prispôsobené príbehy na základe vašej aktivity
+    .label = Prispôsobené články na základe vašej aktivity
+newtab-custom-stories-personalized-checkbox-label = Prispôsobené články na základe vašej aktivity
 newtab-custom-weather-toggle =
     .description = Dnešná predpoveď v skratke
     .label = Počasie
@@ -1249,7 +1249,7 @@ newtab-topic-label-home = Dom a záhrada
 newtab-topic-selection-title = Vyberte témy na doladenie informačného kanála
 # “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
 # In other words, “Our expert curators prioritize stories to fit your selected interests”
-newtab-topic-selection-subtitle = Vyberte si dve alebo viac tém. Naši odborní kurátori uprednostňujú príbehy prispôsobené vašim záujmom. Aktualizovať môžete kedykoľvek.
+newtab-topic-selection-subtitle = Vyberte si dve alebo viac tém. Naši odborní kurátori uprednostňujú články prispôsobené vašim záujmom. Aktualizovať môžete kedykoľvek.
 newtab-topic-selection-save-button = Uložiť
 newtab-topic-selection-cancel-button = Zrušiť
 newtab-topic-selection-button-maybe-later = Možno neskôr
