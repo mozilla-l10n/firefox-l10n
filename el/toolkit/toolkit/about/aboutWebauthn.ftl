@@ -33,6 +33,9 @@ about-webauthn-text-non-ctap2-device = Δεν είναι δυνατή η δια�
 about-webauthn-text-not-available = Δεν διατίθεται σε αυτήν την πλατφόρμα.
 about-webauthn-bio-enrollment-list-subsection-title = Εγγραφές:
 about-webauthn-add-bio-enrollment-section-title = Προσθήκη νέας εγγραφής
+about-webauthn-logging-warning = Το αρχείο καταγραφής ενδέχεται να περιέχει προσωπικές πληροφορίες, όπως ονόματα χρηστών, αναγνωριστικά λογαριασμών και διευθύνσεις ιστοτόπων. Ελέγξτε το πριν το κοινοποιήσετε.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = Αυτό καταγράφει μόνο τα αιτήματα για την εγγενή υλοποίηση CTAP του { -brand-short-name }. Δεν καταγράφει αιτήματα για τα API του WebAuthn της πλατφόρμας ή τις επεκτάσεις του προγράμματος περιήγησης.
 
 ## Results label
 

@@ -189,7 +189,7 @@ ipprotection-button-turn-vpn-off-1 = Deaktivieren
 
 # Variables
 #   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
-ipprotection-unlimited-bandwidth-promo = Unbegrenzte Bandbreite bis { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-promo = Unlimitiertes Datenvolumen bis { DATETIME($endDate, day: "numeric", month: "long") }
 ipprotection-unlimited-bandwidth-upgraded = Unlimitiertes Datenvolumen
 
 ## Location controls

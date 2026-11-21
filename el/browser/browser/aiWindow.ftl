@@ -381,6 +381,10 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Σας βοηθά να ολοκληρώνετε τις εργασίες σας.
+    Σχεδιάστε, συγκρίνετε, εξερευνήστε και πολλά άλλα.
 smartwindow-onboarding-title = Ας το κάνουμε δικό σας
 smartwindow-onboarding-subtitle = Ρυθμίστε το { -smart-window-brand-name } όπως σας αρέσει. Πραγματοποιήστε αλλαγές ανά πάσα στιγμή στις ρυθμίσεις.
 smartwindow-onboarding-model-label = Επιλέξτε το μοντέλο ΤΝ σας
@@ -396,6 +400,7 @@ smartwindow-onboarding-memories-description = Το { -smart-window-brand-name } 
 smartwindow-onboarding-memories-both = Συνομιλίες και περιήγηση
 smartwindow-onboarding-memories-browsing = Μόνο περιήγηση
 smartwindow-onboarding-memories-chats = Μόνο συνομιλίες
+smartwindow-onboarding-memories-none = Χωρίς εκπαίδευση βάσει δραστηριότητας
 smartwindow-onboarding-memories-both-description = Συνομιλίες στο { -smart-window-brand-name }, περιήγηση σε όλο το { -brand-short-name }
 smartwindow-onboarding-memories-browsing-description = Περιήγηση σε όλο το { -brand-short-name }
 smartwindow-onboarding-memories-chats-description = Συνομιλίες στο { -smart-window-brand-name(form: "lowerSingularNom") }

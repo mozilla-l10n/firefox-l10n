@@ -272,6 +272,9 @@ colorway-removal-notice-button = Αποκτήστε τα νέα θέματα χ�
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Οι ρυθμίσεις αντίθεσης των Windows παρακάμπτουν τα θέματα του { -brand-short-name }. Απενεργοποιήστε αυτές τις ρυθμίσεις για να χρησιμοποιήσετε τα θέματα στο { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = Το { -smart-window-brand-name } διαθέτει τα δικά του ανοιχτόχρωμα και σκουρόχρωμα θέματα που συμφωνούν με τις ρυθμίσεις του συστήματός σας.
 privacy-policy = Πολιτική απορρήτου
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
