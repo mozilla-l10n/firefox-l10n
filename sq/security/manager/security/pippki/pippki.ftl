@@ -109,3 +109,11 @@ set-password-reminder = E rëndësishme: Nëse harroni fjalëkalim kopjeruajtjej
 ## Certificate backup import prompt
 
 pippki-get-pkcs12-password-message = Ju lutemi, jepni fjalëkalimin që qe përdorur për fshehtëzimin e kësaj kopjeruajtjeje dëshmie:
+
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Mirëfilltësim i Mbrojtur
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Ju lutemi, bëni mirëfilltësimin me pajisjen e sigurisë ({ $tokenName }). Si të bëhet kjo, varet nga pajisja (për shembull, duke përdorur një lexues shenjash gishtash, ose duke dhënë një kod me një tastierë numerike).

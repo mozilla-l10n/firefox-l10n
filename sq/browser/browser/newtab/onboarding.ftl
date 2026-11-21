@@ -544,6 +544,12 @@ onboarding-refresh-gratitude-title = { -brand-short-name } ju mbron krahët
 onboarding-refresh-splash-screen-title = { -brand-product-name } ju mbron krahët, duke ia nisur që tani
 onboarding-refresh-hero-text = Ndërtuar për t’ju mbrojtur, jo për t’ju ndjekur.
 onboarding-refresh-tou-default = Hapi krejt lidhjet me { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Mbajeni { -brand-short-name }-in në Dock
+       *[other] Shtojeni { -brand-short-name }-in te shtylla juaj e punëve
+    }
+onboarding-refresh-tou-default-unchecked = Mbani mbrojtje të brendshme sa herë që shfletoni
 onboarding-refresh-tou-pin-unchecked = Mbajeni të vetmin shfletues të rëndësishëm të pavarur vetëm një klikim larg
 onboarding-refresh-terms-of-use-with-links = Duke vazhduar, pajtoheni me <a data-l10n-name="terms_of_use">{ -brand-product-name } Termat e Përdorimit</a> dhe <a data-l10n-name="privacy_notice">Shënimin tonë mbi Privatësinë</a>. Për të ndihmuar të përmirësohet shfletuesi, { -brand-product-name }-i dërgon te { -vendor-short-name } të dhëna diagnostikimi dhe ndërveprimi.
 onboarding-refresh-data-collection-link = Administroni rregullime grumbullimi të dhënash
@@ -554,6 +560,7 @@ onboarding-refresh-fro-import-header = Sillni të dhënat tuaja
 onboarding-refresh-fro-import-subtitle = Mbetet i juaji. { -brand-product-name }-i s’shet kurrë të dhëna personale.
 onboarding-refresh-fro-import-body = Të dhënat tuaja personale mbeten personale. { -brand-product-name }-i s’do t’i shesë kurrë.
 onboarding-refresh-fro-skip-button = Anashkaloje
+onboarding-refresh-fro-theme-header = Luani me pamjen tuaj
 onboarding-refresh-tab-layout-header = Provoni një skemë të re skedash
 onboarding-refresh-fro-tab-layout-title = Zgjidhni një skemë të re skedash
 onboarding-refresh-tab-layout-top = Sipër
@@ -580,7 +587,9 @@ smartwindow-existing-user-fx-tou-go-back = Kthehuni mbrapsht
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Bëjeni { -smart-window-brand-name } të besuarin tuaj
 smartwindow-onboarding-subtitle = Përmblidhni, krahasoni dhe bëni pyetje pa humbur kohë.
+smartwindow-onboarding-primary-button = Vazhdo
 
 ## Smart Window Sidebar Auto-Open Pref
 

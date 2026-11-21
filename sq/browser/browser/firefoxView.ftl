@@ -26,6 +26,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Që të shihni skeda këtu, bë
 firefoxview-syncedtabs-adddevice-primarybutton = Provoni { -brand-product-name } për celular
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Ju thirrën skedat tuaja. Gjenden në telefonin tuaj.
+firefoxview-syncedtabs-adddevice-description-3 = Skanoni kodin QR, që të merrni { -brand-product-name }-in për celular dhe të filloni të njëkohësoni skedat tuaja të hapura, etj. Mësoni si <a data-l10n-name="url">të lidhni pajisje shtesë</a>.
 firefoxview-tabpickup-synctabs-primarybutton = Njëkohëso skeda të hapura
 firefoxview-tabpickup-synctabs-primarybutton-2 = Aktivizoni njëkohësim skedash
 firefoxview-syncedtabs-synctabs-header = Përditësoni rregullimet tuaja të njëkohësimit
@@ -47,6 +48,8 @@ firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name }-i s’mun
 firefoxview-tabpickup-network-offline-description-2 = Mundet të jeni i palidhur, ose diçka mund të jetë duke bllokuar lidhjen.
 firefoxview-tabpickup-sync-error-header = Kemi probleme me njëkohësimin
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name }-i s’kap dot shërbimin e njëkohësimit tani. Riprovoni pas pak çastesh.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Njëkohësimi diku ngeci
 firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name }-i s’u lidh dot. Jepini një çast, mandej riprovoni
 firefoxview-tabpickup-sync-error-primarybutton = Riprovoni
 firefoxview-tabpickup-sync-disconnected-header = Që të vazhdohet, vini në punë njëkohësimin
@@ -203,6 +206,8 @@ firefoxview-choose-browser-button = Zgjidhni shfletues
 
 firefoxview-dont-remember-history-empty-header-2 = Se çfarë mban mend { -brand-short-name }-i e kontrolloni ju
 firefoxview-dont-remember-history-empty-description-one = Tani për tani, { -brand-short-name } nuk mban mend veprimtarinë tuaj të shfletimit. Për ta ndryshuar këtë, <a data-l10n-name="history-settings-url-two">përditësoni rregullimet për historikun tuaj</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Historiku i shfletimit tuaj s’do të regjistrohet.
 firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name }-i s’po e ruan historikun tuaj tani. Ndryshojeni këtë në çfarëdo kohe, te <a data-l10n-name="history-settings-url-two">rregullimet</a>.
 
 ##
