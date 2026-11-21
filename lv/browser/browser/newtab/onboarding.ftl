@@ -408,7 +408,7 @@ multi-profile-callout-cta = Izveidot profilu
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Lejupielādē, vienādo un sāc!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
-desktop-to-mobile-subtitle = Noskenējiet kvadrātkodu, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm. Pēc instalēšanas atlasiet “Sinhronizēt ar mobilo ierīci”, lai piekļūtu savām parolēm, grāmatzīmēm un citiem datiem, atrodoties ceļā.
+desktop-to-mobile-subtitle = Skenējiet kvadrātkodu, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm. Pēc instalēšanas atlasiet “Vienādot ar mobilo ierīci”, lai piekļūtu savām parolēm, grāmatzīmēm un citiem datiem, atrodoties ceļā.
 dismiss-button-label = Noraidīt
 sync-to-mobile-button-label = Vienādo ar mobilo tālruni
 desktop-to-mobile-qr-code-alt =
