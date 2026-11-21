@@ -34,6 +34,8 @@ about-webauthn-text-not-available = Njejo na toś tej platformje k dispoziciji
 about-webauthn-bio-enrollment-list-subsection-title = Pśizjawjenja:
 about-webauthn-add-bio-enrollment-section-title = Nowe pśizjawjenje pśidaś
 about-webauthn-logging-warning = Protokol móžo wósobinske informacije wopśimowaś, na pśikład wužywaŕske mjenja, kontowe identifikatory a adrese websedłow. Pśeglědujśo jen, nježli až jen dalej dajośo.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = To jano napšašowanja na natiwnu implementaciju CTAP { -brand-short-name } protokolěrujo. Njeprotokolěrujo napšašowanja na API WebAuthn platformy abo rozšyrjenja wobglědowaka.
 
 ## Results label
 
