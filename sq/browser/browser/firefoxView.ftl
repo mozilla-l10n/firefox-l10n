@@ -24,6 +24,8 @@ firefoxview-syncedtabs-signin-primarybutton-2 = Hyni
 firefoxview-syncedtabs-adddevice-header-2 = Përlani skeda nga kudo
 firefoxview-syncedtabs-adddevice-description-2 = Që të shihni skeda këtu, bëni hyrjen në { -brand-product-name } te telefoni juaj, apo tjetër kompjuter. Mësoni se si të <a data-l10n-name="url">lidhni pajisje shtesë</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Provoni { -brand-product-name } për celular
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Ju thirrën skedat tuaja. Gjenden në telefonin tuaj.
 firefoxview-tabpickup-synctabs-primarybutton = Njëkohëso skeda të hapura
 firefoxview-tabpickup-synctabs-primarybutton-2 = Aktivizoni njëkohësim skedash
 firefoxview-syncedtabs-synctabs-header = Përditësoni rregullimet tuaja të njëkohësimit
