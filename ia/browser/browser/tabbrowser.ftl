@@ -466,11 +466,11 @@ tab-context-separate-split-view =
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view-alt =
-    .label = Schedas separate
+    .label = Separar schedas
     .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
-    .label = Reverter schedas
+    .label = Inverter schedas
     .accesskey = r
 tab-context-badge-new = Nove
 # The label of a badge shown in menu items to call out features that are in beta.
@@ -492,7 +492,7 @@ tabbrowser-tab-label-tab-split-view-right = { $label }, Parte destra dello scher
 
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
-    .label = Schedas separate
+    .label = Separar schedas
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = Reverter schedas
