@@ -16,12 +16,14 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Добавяне
+storage-delete-all-button =
+    .title = Изтриване на всички
 # Refresh button title
 storage-refresh-button =
     .title = Презареждане на елементите
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
-    .label = Премахване на всички
+    .label = Изтриване на всички
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Изтриване на сесийните

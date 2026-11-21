@@ -108,6 +108,14 @@ sidebar-history-context-menu-bookmark-page =
     .label = Отмятане на страница…
 sidebar-history-context-menu-delete-pages =
     .label = Изтриване на страници от История
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Изтриване
+
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Изтриване
 
 ## Labels for sidebar menu items.
 

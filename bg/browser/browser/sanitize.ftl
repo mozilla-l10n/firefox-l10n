@@ -127,6 +127,10 @@ sanitize-button-ok2 =
     .label = Изчистване
 sanitize-button-ok-on-shutdown =
     .label = Запазване на промените
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Изтриване
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

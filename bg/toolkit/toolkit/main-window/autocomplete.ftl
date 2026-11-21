@@ -36,3 +36,10 @@ autocomplete-delete-address = Изтриване на този адрес
 autocomplete-edit-payment-method = Редактиране на този начин на плащане
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Изтриване на този начин на плащане
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Изтриване
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-delete-record-button = Изтриване

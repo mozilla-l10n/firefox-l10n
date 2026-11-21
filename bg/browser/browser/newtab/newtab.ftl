@@ -31,6 +31,12 @@ home-homepage-new-tabs =
 home-homepage-custom-homepage-button =
     .label = Изберете конкретен сайт
 
+## Custom URLs subpage
+
+home-custom-homepage-delete-address-button =
+    .aria-label = Изтриване на адреса
+    .title = Изтриване на адреса
+
 ## Firefox Home content
 
 home-prefs-content-header =

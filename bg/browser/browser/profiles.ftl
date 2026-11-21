@@ -52,6 +52,9 @@ profile-window-logo =
 delete-profile-header = Да се изтрие ли потребителския профил на { $profilename }?
 delete-profile-description = { -brand-short-name } ще изтрие необратимо следните данни от устройството:
 delete-profile-logins = Пароли
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Изтриване на профил { $profilename }
 
 ##
 
