@@ -1200,6 +1200,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-codecs-linux-message = سی پشک ویدیو، گاشڌ لازوم بۊ کودکا ویدیویی لازوم ن بپۊرنین.
+decoder-doctor-no-hw-acceleration-message = سی وارو رئڌن کیفیت ویدیو، گاشڌ لازوم بۊ Media Feature Pack مایکروسافت ن بپۊرنین.
+decoder-doctor-no-pulse-audio-message = سی پشک ویدیو، گاشڌ لازوم بۊ برنومه PulseAudio ن بپۊرنین.
+decoder-doctor-unsupported-libavcodec-message = libavcodec گاشڌ خترناک بۊ یا دی لادراری نبۊوه، وو وا و پشک کوننده ویدیو ورۊ بۊ.
 decoder-doctor-learn-how-link = قلوه دووسته بۊین
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
