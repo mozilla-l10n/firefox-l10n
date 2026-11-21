@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importoni nga Tjetër S
 about-logins-menu-menuitem-import-from-a-file = Importoni prej një Kartele…
 about-logins-menu-menuitem-export-logins2 = Eksportoni Fjalëkalime…
 about-logins-menu-menuitem-remove-all-logins2 = Hiqini Tërë Fjalëkalimet…
+about-logins-menu-menuitem-delete-all-logins = Fshijini Krejt Fjalëkalimet…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mundësi
@@ -179,6 +180,8 @@ about-logins-confirm-delete-dialog-title = Të hiqet fjalëkalimi?
 about-logins-confirm-delete-dialog-title2 = Të fshihet fjalëkalimi?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = S’mund ta zhbëni këtë veprim.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Kjo e fshin nga { -brand-short-name }-i në çdo pajisje që njëkohëson fjalëkalimet tuaj. Këtë s’mund ta zhbëni.
 about-logins-confirm-remove-dialog-confirm-button = Hiqi
 # Confirm button for the modal to delete one saved password when per-device sync is enabled
 about-logins-confirm-delete-dialog-confirm-button = Fshije
@@ -241,6 +244,13 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
         [1] Kjo do të heqë fjalëkalimet e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. Këtë veprim s’mund ta zhbëni.
         [one] Kjo do të heqë fjalëkalimin e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. Këtë veprim s’mund ta zhbëni.
        *[other] Kjo do të heqë fjalëkalimet e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. Këtë veprim s’mund ta zhbëni.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Kjo e fshin nga { -brand-short-name }-i në çdo pajisje që njëkohëson fjalëkalimet tuaj. Këtë s’mund ta zhbëni.
+        [one] Kjo e fshin ata nga { -brand-short-name }-i në çdo pajisje që njëkohëson fjalëkalimet tuaja. S’mundeni ta zhbëni këtë.
+       *[other] Kjo i fshin ata nga { -brand-short-name }-i në çdo pajisje që njëkohëson fjalëkalimet tuaja. S’mundeni ta zhbëni këtë.
     }
 
 ##

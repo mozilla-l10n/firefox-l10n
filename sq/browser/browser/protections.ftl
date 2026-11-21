@@ -249,6 +249,7 @@ privacy-metrics-private-window = { -brand-short-name } vazhdon të bllokojë gju
 protections-vpn-title = Merrini mbrojtjet e privatësisë tej shfletuesit
 protections-vpn-header-content = Mbroni krejt pajisjen tuaj me { -mozilla-vpn-brand-name }. Një prekje fshehtëzon krejt trafikun dhe fsheh vendndodhjen tuaj.
 protections-get-vpn-link = Merrni { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: I pajtuar
 # Variables
 #   $count (number): Number of devices
 protections-vpn-header-content-subscribed =
@@ -256,4 +257,5 @@ protections-vpn-header-content-subscribed =
        *[other] Përdorimi i { -mozilla-vpn-brand-name }-së fshehtëzon krejt trafikun tuyaj dhe fsheh vendndodhjen tuaj — në deri { $count } pajisje. Përfitoni maksimumin nga pajtimi juaj — shtojeni që nga <a data-l10n-name="playstore-link">Google Play Store</a>, ose <a data-l10n-name="appstore-link">Apple App Store</a>.
     }
 protections-vpn-banner-header = Mbrojtje që shtrihet tej shfletuesin
+protections-vpn-banner-content = Provoni { -mozilla-vpn-brand-name }, pa asnjë rrezik dhe shihni pse TechRadar thotë, “shpejtësi, thjeshtësia dhe çmimi mujor i ulët të tij e bëjnë t’ia vlejë të shihet.”
 protections-vpn-banner-link = Merrni { -mozilla-vpn-brand-name }
