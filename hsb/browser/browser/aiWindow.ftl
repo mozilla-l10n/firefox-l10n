@@ -385,6 +385,10 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Podpěruje was, wěcy sčinić.
+    Planować, přirunać, wuslědźić a wjace.
 smartwindow-onboarding-title = Přiměrće sej jo.
 smartwindow-onboarding-subtitle = Konfigurujće { -smart-window-brand-name } tak, kaž chceće. Přewjedźće kóždy čas změny w nastajenjach.
 smartwindow-onboarding-model-label = Wubjerće swój model KI
@@ -404,6 +408,7 @@ smartwindow-onboarding-memories-none = Z aktiwity njewuknyć
 smartwindow-onboarding-memories-both-description = Chaty w { -smart-window-brand-name }, přehladowanje w { -brand-short-name }
 smartwindow-onboarding-memories-browsing-description = W { -brand-short-name } přehladować
 smartwindow-onboarding-memories-chats-description = Chaty w { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Budźeće mjenje přitřihanych namjetow widźeć a dyrbiće snano podrobnosće we wjacorych chatach wospjetować.
 smartwindow-onboarding-default-window =
     .description = Wužiwajće to, hdyž { -brand-short-name } startuje, znowa startuje abo wotkazy z druhich nałoženjow wočinja.
     .label = W { -smart-window-brand-name } startować

@@ -240,6 +240,8 @@ action-log-completed-steps =
         [few] Выкананы { $count } крокі
        *[many] Выканана { $count } крокаў
     }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Выбіраем найлепшую мадэль
 
 ## Assistant Loader
 

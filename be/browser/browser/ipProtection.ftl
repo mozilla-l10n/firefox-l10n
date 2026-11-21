@@ -260,6 +260,16 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Набліжаецеся да ліміту VPN
     .message = Засталося { $usageLeft } МБ з { $maxUsage } ГБ у гэтым месяцы.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] У вас ёсць яшчэ { $additionalLocationsCount } месцазнаходжанне VPN
+            [few] У вас ёсць яшчэ { $additionalLocationsCount } месцазнаходжанняў VPN
+           *[many] У вас ёсць яшчэ { $additionalLocationsCount } месцазнаходжанняў VPN
+        }
+    .message = Дзякуй, што зрабілі { -brand-short-name } сваім прадвызначаным. Мы дадалі больш месцазнаходжанняў, праз якія вы можаце аглядаць.
 ipprotection-message-continuous-onboarding-intro = Уключыце VPN, каб схаваць сваё месцазнаходжанне і дадаць дадатковае шыфраванне для прагляду вэб-старонак.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Устанавіце VPN на ўключэнне</a> кожны раз, калі вы адкрываеце { -brand-short-name }, каб атрымаць дадатковы ўзровень аховы.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } запомніць, якія вэб-сайты вы наладзілі на выкарыстанне VPN. Абнавіце іх у <a data-l10n-name="setting-link">наладах</a> у любы час.
