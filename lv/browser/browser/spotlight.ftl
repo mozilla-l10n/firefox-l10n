@@ -4,8 +4,8 @@
 
 # Dialog close button
 spotlight-dialog-close-button =
-    .title = Aizvērt
     .aria-label = Aizvērt
+    .title = Aizvērt
 
 ## Mobile download button strings
 
@@ -17,6 +17,6 @@ spotlight-ios-marketplace-button =
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = Iegūstiet { -focus-brand-name }
-spotlight-focus-promo-subtitle = Lai lejupielādētu, skenējiet QR kodu.
+spotlight-focus-promo-subtitle = Lai lejupielādētu, skenējiet kvadrātkodu.
 spotlight-focus-promo-qr-code =
-    .alt = Skenējiet QR kodu, lai iegūtu { -focus-brand-name }
+    .alt = Skenējiet kvadrātkodu, lai iegūtu { -focus-brand-name }

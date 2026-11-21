@@ -211,7 +211,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Ievietot no iepri
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-cta-text = Skenējiet kvadrātkodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm, vai <a data-l10n-name="download-label">nosūtiet sev lejupielādes saiti.</a>
-mr2022-onboarding-no-mobile-download-cta-text = Skenējiet QR kodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm.
+mr2022-onboarding-no-mobile-download-cta-text = Skenējiet kvadrātkodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -255,7 +255,7 @@ mr2022-onboarding-default-image-alt =
 mr2022-onboarding-import-image-alt =
     .aria-label = Persona, kas brauc ar skrituļdēli ar programmatūras ikonu kastīti
 mr2022-onboarding-mobile-download-image-alt =
-    .aria-label = Vardes lēkā pa liliju lapām ar QR kodu centrā, lai lejupielādētu { -brand-product-name } mobilajam tālrunim
+    .aria-label = Vardes lēkā pa liliju lapām ar kvadrātkodu centrā, lai lejupielādētu { -brand-product-name } mobilajam ierīcēm
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Burvju nūjiņa liek { -brand-product-name } privātās pārlūkošanas logotipam parādīties no cepures
 mr2022-onboarding-privacy-segmentation-image-alt =
@@ -408,11 +408,11 @@ multi-profile-callout-cta = Izveidot profilu
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Lejupielādē, vienādo un sāc!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
-desktop-to-mobile-subtitle = Noskenējiet QR kodu, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm. Pēc instalēšanas atlasiet “Sinhronizēt ar mobilo ierīci”, lai piekļūtu savām parolēm, grāmatzīmēm un citiem datiem, atrodoties ceļā.
+desktop-to-mobile-subtitle = Noskenējiet kvadrātkodu, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm. Pēc instalēšanas atlasiet “Sinhronizēt ar mobilo ierīci”, lai piekļūtu savām parolēm, grāmatzīmēm un citiem datiem, atrodoties ceļā.
 dismiss-button-label = Noraidīt
 sync-to-mobile-button-label = Vienādo ar mobilo tālruni
 desktop-to-mobile-qr-code-alt =
-    .aria-label = QR kods, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm
+    .aria-label = Kvadrātkods, lai lejupielādētu { -brand-product-name } mobilajām ierīcēm
 
 ## Fx Backup onboarding: Create Backup spotlight
 
