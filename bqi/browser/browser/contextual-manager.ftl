@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = و من ٱووردن 
 contextual-manager-passwords-command-import = و من ٱووردن ز ی فایل…
 contextual-manager-passwords-command-export = و در کشیڌن رزما
 contextual-manager-passwords-command-remove-all = پاک کردن پوی رزما
+contextual-manager-passwords-command-delete-all = پاک کردن پوی رزما
 contextual-manager-passwords-command-options = گۊزینه یل
 contextual-manager-passwords-command-help = هیاری
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
