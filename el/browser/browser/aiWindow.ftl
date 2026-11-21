@@ -391,6 +391,7 @@ smartwindow-onboarding-model-recommended = Προτεινόμενο
 smartwindow-onboarding-model-auto-description = Το { -smart-window-brand-name } επιλέγει το καταλληλότερο μοντέλο για την εργασία σας
 smartwindow-onboarding-model-mistral-description = Ιδανικό αν συνομιλείτε και περιηγείστε σε πολλαπλές γλώσσες
 smartwindow-onboarding-model-gemini-description = Γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία
+smartwindow-onboarding-memories-label = Επιλέξτε πώς θα μαθαίνει για εσάς το { -smart-window-brand-name }
 smartwindow-onboarding-memories-description = Το { -smart-window-brand-name } μπορεί να μαθαίνει από τις συνομιλίες, την περιήγηση ή και τα δύο, ώστε να δημιουργεί αναμνήσεις. Με τον καιρό, αυτές χρησιμοποιούνται για την εξατομίκευση της εμπειρίας σας.
 smartwindow-onboarding-memories-both = Συνομιλίες και περιήγηση
 smartwindow-onboarding-memories-browsing = Μόνο περιήγηση

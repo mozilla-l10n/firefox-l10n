@@ -987,11 +987,11 @@ newtab-wallpaper-error-upload-file-type = Mēs nevarējām augšupielādēt Tavu
 newtab-wallpaper-light-red-panda = Sarkana panda
 newtab-wallpaper-light-mountain = Balts kalns
 newtab-wallpaper-light-sky = Debesis ar violetiem un rozā mākoņiem
-newtab-wallpaper-light-color = Zilas, rozā un dzeltenas formas
+newtab-wallpaper-light-color = Zili, rozā un dzelteni laukumi
 newtab-wallpaper-light-landscape = Zilas miglas kalnu ainava
 newtab-wallpaper-light-beach = Pludmale ar palmu
 newtab-wallpaper-dark-aurora = Ziemeļblāzma
-newtab-wallpaper-dark-color = Sarkanas un zilas formas
+newtab-wallpaper-dark-color = Sarkani un zili laukumi
 newtab-wallpaper-dark-panda = Sarkanā panda paslēpta mežā
 newtab-wallpaper-dark-sky = Pilsētas ainava ar nakts debesīm
 newtab-wallpaper-dark-mountain = Ainavisks kalns
@@ -1065,16 +1065,16 @@ newtab-wallpaper-brown = Brūns
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstrakts
-newtab-wallpaper-abstract-green = Zaļas formas
-newtab-wallpaper-abstract-blue = Zilas formas
-newtab-wallpaper-abstract-purple = Violetas formas
-newtab-wallpaper-abstract-orange = Oranžas formas
+newtab-wallpaper-abstract-green = Zaļi laukumi
+newtab-wallpaper-abstract-blue = Zili laukumi
+newtab-wallpaper-abstract-purple = Purpura laukumi
+newtab-wallpaper-abstract-orange = Oranži laukumi
 newtab-wallpaper-gradient-orange = Oranža un rozā krāsu pāreja
-newtab-wallpaper-abstract-blue-purple = Zilas un violetas formas
+newtab-wallpaper-abstract-blue-purple = Zili un purpura laukumi
 newtab-wallpaper-abstract-white-curves = Balta ar ēnotām līknēm
 newtab-wallpaper-abstract-purple-green = Violeta un zaļa gaismas gradients
-newtab-wallpaper-abstract-blue-purple-waves = Zilas un violetas viļņotas formas
-newtab-wallpaper-abstract-black-waves = Melnas viļņotas formas
+newtab-wallpaper-abstract-blue-purple-waves = Zili un purpura viļņoti laukumi
+newtab-wallpaper-abstract-black-waves = Melni viļņoti laukumi
 
 ## Firefox wallpaper descriptions used for screen readers
 

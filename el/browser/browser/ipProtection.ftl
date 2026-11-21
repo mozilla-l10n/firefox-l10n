@@ -264,6 +264,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Πλησιάζετε το όριο του VPN σας
     .message = Σας απομένουν { $usageLeft } MB από { $maxUsage } GB για αυτόν τον μήνα.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Έχετε λάβει { $additionalLocationsCount } ακόμη τοποθεσία VPN
+           *[other] Έχετε λάβει { $additionalLocationsCount } ακόμη τοποθεσίες VPN
+        }
+    .message = Σας ευχαριστούμε που ορίσατε το { -brand-short-name } ως προεπιλογή. Προστέθηκαν περισσότερες τοποθεσίες από τις οποίες μπορείτε να περιηγηθείτε.
 ipprotection-message-continuous-onboarding-intro = Ενεργοποιήστε το VPN για να αποκρύψετε την τοποθεσία σας και να προσθέσετε επιπλέον κρυπτογράφηση στην περιήγησή σας.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ρυθμίστε το VPN έτσι, ώστε να ενεργοποιείται</a> κάθε φορά που ανοίγετε το { -brand-short-name } για ένα επιπλέον επίπεδο προστασίας.
 ipprotection-message-continuous-onboarding-site-settings = Το { -brand-short-name } θα θυμάται ποιους ιστοτόπους έχετε ρυθμίσει να χρησιμοποιούν VPN. Ενημερώστε τους στις <a data-l10n-name="setting-link">ρυθμίσεις</a> ανά πάσα στιγμή.
