@@ -1203,6 +1203,7 @@ qrcode-save-button =
     .label = Salva
 qrcode-window-title = Codice QR
 qrcode-dialog-title = Codice QR
+qrcode-dialog-title-download-mobile = Scarica { -brand-product-name } per dispositivi mobili
 qrcode-image =
     .aria-label = Codice QR
 qrcode-close-button =

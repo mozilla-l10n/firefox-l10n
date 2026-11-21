@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = Organizza le tue schede per attivi
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Crea un gruppo
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Ricevi notifiche web anche quando { -brand-short-name } è chiuso
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = I siti autorizzati possono ora inviare notifiche anche quando { -brand-short-name } è chiuso. <a data-l10n-name="learn-more">Scopri di più</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Gestisci
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Disattiva
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Mantieni attive
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra i titoli delle schede nella barra laterale
