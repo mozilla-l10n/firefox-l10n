@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Перайсці на картку 8
 customkeys-nav-select-last-tab = Перайсці на апошнюю картку
 customkeys-nav-toggle-mute = Уключыць/выключыць гук
 customkeys-edit-find-previous = Знайсці папярэдняе
+customkeys-edit-find-selection = Ужыць вылучэнне для пошуку
 customkeys-tools-screenshot = Зрабіць здымак экрана
 customkeys-category-navigation-2 =
     .heading = Навігацыя

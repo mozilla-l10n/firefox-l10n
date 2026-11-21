@@ -33,9 +33,9 @@ about-webauthn-text-non-ctap2-device = Det går inte att hantera alternativ efte
 about-webauthn-text-not-available = Ej tillgängligt på denna plattform.
 about-webauthn-bio-enrollment-list-subsection-title = Registreringar:
 about-webauthn-add-bio-enrollment-section-title = Lägg till ny registrering
-about-webauthn-logging-warning = Loggen kan innehålla personlig information, såsom användarnamn, kontoidentifierare och webbplatsadresser. Granska den innan du delar.
+about-webauthn-logging-warning = Loggen kan innehålla personuppgifter, till exempel användarnamn, kontoidentifierare och webbadresser. Granska den innan du delar den.
 # CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
-about-webauthn-logging-scope-note = Detta loggar endast förfrågningar till den nativa CTAP-implementeringen av { -brand-short-name }. Den loggar inte förfrågningar till plattformens WebAuthn API eller webbläsartillägg.
+about-webauthn-logging-scope-note = Endast förfrågningar till den ursprungliga CTAP-implementeringen i { -brand-short-name } loggas. Förfrågningar till plattformens WebAuthn-API:er eller webbläsartillägg loggas inte.
 
 ## Results label
 

@@ -21,21 +21,21 @@ brief-app-desc = Snabb och privat surfning
 # The non-variable portion of this MUST match the translation of
 # "private-browsing-shortcut-text-2" in browser.ftl
 private-browsing-shortcut-title = { $BrandShortName } Privat surfning
-context-options = { $BrandShortName }-inställningar
-    .accesskey = n
+context-options = Alternativ för { $BrandShortName }
+    .accesskey = A
 context-safe-mode = { $BrandShortName } felsäkert läge
     .accesskey = e
 options-page-title = Installationstyp
 options-page-subtitle = Välj installationsalternativ
 shortcuts-page-title = Skapa genvägar
 shortcuts-page-subtitle = Skapa programikoner
-components-page-title = Valfria komponenter
+components-page-title = Konfigurera valfria komponenter
 components-page-subtitle = Valfria rekommenderade komponenter
 optional-components-desc = Underhållstjänsten låter dig uppdatera { $BrandShortName } i bakgrunden.
-maintenance-service-checkbox-desc = Installera Underhållstjänsten
-    .accesskey = U
+maintenance-service-checkbox-desc = Installera Maintenance Service
+    .accesskey = n
 summary-page-title = Sammanfattning
-summary-page-subtitle = Klar att börja installera { $BrandShortName }
+summary-page-subtitle = Redo att börja installera { $BrandShortName }
 summary-installed-to = { $BrandShortName } kommer att installeras till följande plats:
 summary-reboot-required-install = Du kan behöva starta om datorn för att slutföra installationen.
 summary-reboot-required-uninstall = Du kan behöva starta om datorn för att slutföra avinstallationen.

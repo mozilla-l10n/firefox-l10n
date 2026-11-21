@@ -647,7 +647,7 @@ hnt-card-pin-body =
     }
 hnt-card-mobile-header = Skydda mobilen med inbyggda funktioner
 hnt-card-mobile-body = Ladda ner { -brand-product-name } till mobilen för bättre integritet när du är på språng.
-hnt-card-mobile-primary-button2 = Skaffa { -brand-product-name } för mobilen
+hnt-card-mobile-primary-button2 = Ladda ner { -brand-product-name } för mobilen
 hnt-card-mobile-primary-button = Skaffa { -brand-product-name } för mobilen.
 hnt-card-wallpaper-header = Välj en ny bakgrundsbild
 hnt-card-wallpaper-body = Få den här skärmen att kännas som hemma med en bakgrund du gillar.
