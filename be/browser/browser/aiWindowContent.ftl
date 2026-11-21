@@ -240,6 +240,10 @@ action-log-completed-steps =
         [few] Выкананы { $count } крокі
        *[many] Выканана { $count } крокаў
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Выбрана мадэль для задачы: { $model }
 # Header of the assistant action log while the assistant picks the model for the response.
 action-log-deciding-model = Выбіраем найлепшую мадэль
 
