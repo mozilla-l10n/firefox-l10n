@@ -864,11 +864,11 @@ home-prefs-shortcuts-description = Stránky, ktoré si uložíte alebo navštív
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorované skratky
 home-prefs-recommended-by-header-generic =
-    .label = Odporúčané príbehy
+    .label = Odporúčané články
 home-prefs-recommended-by-description-generic = Výnimočný obsah spravovaný rodinou { -brand-product-name }
 home-prefs-stories-header =
-    .label = Príbehy
-home-prefs-stories-description = Prispôsobené príbehy na základe vašej aktivity
+    .label = Články
+home-prefs-stories-description = Prispôsobené články na základe vašej aktivity
 
 ##
 

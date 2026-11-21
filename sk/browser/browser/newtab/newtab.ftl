@@ -68,7 +68,7 @@ home-prefs-search-header2 =
     .label = Vyhľadávanie
 home-prefs-stories-header2 =
     .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
-    .label = Príbehy
+    .label = Články
 home-prefs-widgets-header =
     .label = Miniaplikácie
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -614,7 +614,7 @@ newtab-widget-wrexhamafc-menu-wallpapers = Tapety
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
-newtab-spaces-tab-stories = Príbehy
+newtab-spaces-tab-stories = Články
 newtab-spaces-tab-widgets = Miniaplikácie
 newtab-spaces-tab-activity = Aktivita
 
@@ -824,7 +824,7 @@ newtab-empty-section-topstories-generic = Už ste prečítali všetko. Ďalšie 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Už ste prečítali všetko!
-newtab-discovery-empty-section-topstories-content = Ďalšie príbehy tu nájdete opäť neskôr.
+newtab-discovery-empty-section-topstories-content = Ďalšie články tu nájdete opäť neskôr.
 newtab-discovery-empty-section-topstories-try-again-button = Skúsiť znova
 newtab-discovery-empty-section-topstories-loading = Načítava sa…
 # Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
