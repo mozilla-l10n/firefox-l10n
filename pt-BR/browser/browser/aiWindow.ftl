@@ -138,6 +138,8 @@ aiwindow-input-model-select-settings-link = Configurações de modelo
 
 aiwindow-input-model-select-auto-description = { -smart-window-brand-name } escolhe o melhor modelo para cada tarefa
 aiwindow-input-model-select-fast-description = Respostas rápidas quando você quer agilidade
+aiwindow-input-model-select-flexible-description = Pronto para diversas tarefas
+aiwindow-input-model-select-personal-description = Bom se você conversar e navegar em vários idiomas
 
 ## Firstrun memories onboarding
 

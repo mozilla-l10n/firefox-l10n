@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Ir para aba 8
 customkeys-nav-select-last-tab = Ir para última aba
 customkeys-nav-toggle-mute = Desativar/ativar som
 customkeys-edit-find-previous = Procurar anterior
+customkeys-edit-find-selection = Usar texto selecionado para pesquisar
 customkeys-tools-screenshot = Capturar tela
 customkeys-category-navigation-2 =
     .heading = Navegação
