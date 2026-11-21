@@ -74,7 +74,7 @@ warn-min-supported-osver-msg = 很抱歉，無法安裝 { $BrandShortName }。�
 warn-min-supported-cpu-msg = 很抱歉，無法安裝 { $BrandShortName }。此版本的 { $BrandShortName } 需要支援 { $MinSupportedCPU } 的中央處理器。請點擊「確定」按鈕取得更多資訊。
 warn-min-supported-osver-cpu-msg = 很抱歉，無法安裝 { $BrandShortName }。此版本的 { $BrandShortName } 需要 { $MinSupportedVer } 或更新版本以及支援 { $MinSupportedCPU } 的中央處理器。請點擊「確定」按鈕取得更多資訊。
 warn-restart-required-uninstall = 必須重新啟動電腦才能完成先前的 { $BrandShortName } 解除安裝程序。您要現在重開機嗎？
-warn-restart-required-upgrade = 必須重新啟動電腦才能先前的 { $BrandShortName } 升級。您要現在重開機嗎？
+warn-restart-required-upgrade = 必須重新啟動電腦才能完成先前的 { $BrandShortName } 升級。您要現在重開機嗎？
 error-create-directory-prefix = 建立目錄時發生錯誤：
 error-create-directory-suffix =
     按「取消」停止安裝
