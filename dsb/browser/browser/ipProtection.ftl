@@ -271,10 +271,10 @@ ipprotection-message-bandwidth-warning-mb =
 ipprotection-message-default-browser-confirmation =
     .heading =
         { $additionalLocationsCount ->
-            [one] Sće { $additionalLocationsCount } dalšne stojnišćo VPN dostał
-            [two] Sće { $additionalLocationsCount } dalšnej stojnišći VPN dostał
-            [few] Sće { $additionalLocationsCount } dalšne stojnišća VPN dostał
-           *[other] Sće { $additionalLocationsCount } dalšnych stojnišćow VPN dostał
+            [one] Sćo { $additionalLocationsCount } dalšne stojnišćo VPN dostał
+            [two] Sćo { $additionalLocationsCount } dalšnej stojnišći VPN dostał
+            [few] Sćo { $additionalLocationsCount } dalšne stojnišća VPN dostał
+           *[other] Sćo { $additionalLocationsCount } dalšnych stojnišćow VPN dostał
         }
     .message = Wjeliki źěk, až sćo { -brand-short-name } k swójomu standardoju cynił. Smy dalšne stojnišća pśidali, pó kótarychž móžośo pśeglědowaś.
 ipprotection-message-continuous-onboarding-intro = Zmóžniśo VPN, aby swójo stojnišćo schował a pśidajśo swójomu pśeglědowanjeju pśidatne koděrowanje.
