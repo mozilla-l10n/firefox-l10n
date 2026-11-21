@@ -119,6 +119,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } сайта
         }
     .label = Управление на настройките за сайтове
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Изтриване на правилото за { $website }
+    .title = Изтриване
 ip-protection-vpn-upgrade-link =
     .description = Изберете персонализирани VPN местоположения и добавете защита към всичките си приложения на до пет устройства, независимо дали сте у дома или на обществена Wi-Fi.
     .label = Получете още повече защита извън { -brand-short-name } с { -mozilla-vpn-brand-name }
@@ -127,6 +132,8 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Управление на настройките за сайтове
+ip-protection-delete-site-rule-confirm =
+    .label = Изтриване
 ip-protection-delete-site-rule-retry =
     .label = Опитайте отново
 

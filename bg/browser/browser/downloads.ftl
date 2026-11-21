@@ -115,8 +115,8 @@ downloads-cmd-clear-downloads =
     .label = Почистване на списъка
     .accesskey = п
 downloads-cmd-delete-file =
-    .label = Премахване
-    .accesskey = П
+    .label = Изтриване
+    .accesskey = И
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Разрешаване на изтеглянето
