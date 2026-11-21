@@ -685,8 +685,8 @@ performance-use-recommended-settings-checkbox-2 =
 ## Accessibility page
 
 browsing-use-autoscroll =
-    .label = Lietot autoritināšanu
-    .accesskey = a
+    .label = Izmantot autoritināšanu
+    .accesskey = I
 keyboard-and-scrolling-group =
     .label = Pārvietošanās ar tastatūru un ritināšana
 motion-and-link-group =
