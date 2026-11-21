@@ -80,8 +80,18 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Mbikëqyrës Rrjeti
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Madhësi maksimum lënde kërkese dhe përgjigjeje (për të pakufizuar, vëreni 0):
+options-netmonitor-body-limit-tooltip =
+    .title = Lënda  e kërkesave apo përgjigjeve e cila tejkalon madhësinë e specifikuar do të cungohet, kur shfaqen apo shkarkohet në Mbikëqyrës Rrjeti. Vëreni 0, që të mos ketë kufizim.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = E pakufizuar
+options-netmonitor-body-limit-button =
+    .title = Përpunoni madhësi maksimum lënde kërkesash/përgjigjesh.
+options-netmonitor-body-limit-restore-default =
+    .title = Rikthe vlerën parazgjedhje për madhësi maksimum lënde kërkesash/përgjigjesh.
+options-netmonitor-body-limit-set =
+    .title = Si madhësi maksimum lënde kërkesash/përgjigjesh, vër vlerën e tanishme të dhënë.
 
 ## Experimental section
 

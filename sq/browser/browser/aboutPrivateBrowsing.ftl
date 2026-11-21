@@ -81,9 +81,11 @@ about-private-browsing-private-window-redesign-subheader = { -brand-short-name }
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Gjëra elementare Dritaresh Private
+about-private-browsing-spotlight-basics-subtitle = Dritaret Private ndihmojnë ta mbani shfletimin tuaj privat nga të tjerë në këtë pajisje. Ato s’ju bëjnë anonim, apo të spastrojnë krejt të dhënat tuaja.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Ç’duhet të dihet
+about-private-browsing-spotlight-basics-activity-seen = Ca veprimtari mundet ende të shihet nga sajte, motorë kërkimesh, shërbime internet, apo punëdhënësi juaj.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Më tepër mbrojtje privatësie
