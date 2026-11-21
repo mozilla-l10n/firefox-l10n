@@ -590,9 +590,18 @@ smartwindow-existing-user-fx-tou-go-back = Kthehuni mbrapsht
 smartwindow-onboarding-title = Bëjeni { -smart-window-brand-name } të besuarin tuaj
 smartwindow-onboarding-subtitle = Përmblidhni, krahasoni dhe bëni pyetje pa humbur kohë.
 smartwindow-onboarding-primary-button = Vazhdo
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Simboli i { -brand-product-name }-it (Kit) me marifete në formë yjesh
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Doni të mbahet i mbyllur asistenti?
+smartwindow-sidebar-auto-open-callout-body = Mundeni ende ta hapni, kurdo që ju duhet.
+smartwindow-sidebar-auto-open-callout-accept = Po, mbaje mbyllur
+smartwindow-sidebar-auto-open-callout-dismiss = Jo, faleminderit
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistenti do të mbetet i mbyllur
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Përdorni Pyet, që ta hapni në cilëndo faqe. Ndryshojeni këtë kurdo, që nga <a data-l10n-name="settings">Rregullimet</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = E mora vesh
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Nëse ndërroni mendje, mund ta përditësoni kurdo parazgjedhjen, që nga <a data-l10n-name="settings">Rregullimet</a>.
 

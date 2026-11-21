@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Formati ose lloji MIME për video nuk mb
 videocontrols-error-no-source = Nuk u gjet video me format dhe lloj MIME të mbuluar.
 videocontrols-error-generic = Luajtja e videos u ndërpre për shkak të një gabimi të panjohur.
 videocontrols-status-picture-in-picture = Kjo video po luhet nën mënyrën Picture-in-Picture.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Videoja po luhet nën mënyrën Picture-in-Picture.
 # This message shows the current position and total video duration
 #
 # Variables:
