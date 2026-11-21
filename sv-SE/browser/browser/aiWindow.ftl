@@ -376,9 +376,9 @@ smartwindow-onboarding-model-auto = Automatisk
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Rekommenderad
 smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } väljer den bästa modellen för din uppgift
-smartwindow-onboarding-model-mistral-description = Bra om du chattar och surfar på flera språk
-smartwindow-onboarding-model-gemini-description = Snabba svar när du flyttar snabbt
-smartwindow-onboarding-memories-label = Välj hur { -smart-window-brand-name } lär sig mer om dig
+smartwindow-onboarding-model-mistral-description = Passar bra om du chattar och surfar på flera språk
+smartwindow-onboarding-model-gemini-description = Snabba svar när det är bråttom
+smartwindow-onboarding-memories-label = Bestäm hur { -smart-window-brand-name } ska lära känna dig
 smartwindow-onboarding-memories-description = { -smart-window-brand-name } kan lära sig av chattar, surfning eller båda för att skapa minnen. Den använder dem för att anpassa din upplevelse över tiden.
 smartwindow-onboarding-memories-both = Chattar och surfning
 smartwindow-onboarding-memories-browsing = Endast surfning
