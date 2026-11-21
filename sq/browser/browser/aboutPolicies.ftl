@@ -22,3 +22,6 @@ inactive-message = Shërbimi për Rregulla Në Nivel Ndërmarrjeje është joakt
 policy-name = Emër Rregulli
 policy-value = Vlerë Rregulli
 policy-errors = Gabime Rregullash
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = E pazbatuar plotësisht

@@ -144,6 +144,27 @@ pdfjs-document-properties-linearized = Parje e Shpjetë në Web:
 pdfjs-document-properties-linearized-yes = Po
 pdfjs-document-properties-linearized-no = Jo
 pdfjs-document-properties-close-button = Mbylleni
+pdfjs-digital-signature-properties-view-certificate = Shiheni dëshminë
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Arsye: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Vulë kohore: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Nën-nënshkrim ({ $count })
+       *[other] Nën-nënshkrime ({ $count })
+    }
 
 ## Print
 
@@ -303,6 +324,12 @@ pdfjs-editor-highlight-editor =
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Përpunues vizatimesh
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor2 =
+    .aria-description = Përpunues nënshkrimesh: { $description }
+    .aria-label = Përpunues nënshkrimesh
 # Used when a signature editor is selected/hovered.
 # Variables:
 #   $description (String) - a string describing/labeling the signature.
@@ -689,8 +716,26 @@ pdfjs-views-manager-paste-button-after =
 # Badge used to promote a new feature in the UI, keep it as short as possible.
 # It's spelled uppercase for English, but it can be translated as usual.
 pdfjs-new-badge-content = E RE
+pdfjs-views-manager-waiting-for-file = Po ngarkohet kartelë…
 pdfjs-toggle-views-manager-button1 =
     .title = Administroni faqe
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .aria-label = Veti nënshkrimi dixhital
+    .title = Veti nënshkrimi dixhital
+pdfjs-digital-signature-properties-button-label = Veti nënshkrimi dixhital
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokumenti qe nënshkruar me një nënshkrimi dixhital të vlefshëm
 
 ## Main menu for adding/removing signatures
 

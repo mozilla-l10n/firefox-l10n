@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Lexim me zë
+narrate-rate-input =
+    .aria-label = Zgjidhi një shpejtësi rrëfimi nga -100 deri në 100, ku 0 është shpejtësia parazgjedhje.
+    .title = Shpejtësi
 narrate-rate-slow =
     .title = Ngadalëso leximin
 narrate-rate-fast =

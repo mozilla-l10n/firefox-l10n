@@ -25,6 +25,9 @@ genai-settings-chat-scout-links = Duke zgjedhur Yahoo Scout, pajtojeni me <a dat
 genai-prompts-summarize =
     .label = Përmblidhe
     .value = Ju lutemi, përmblidheni përzgjedhjen duke përdorur gjuhë të saktë dhe koncize. Përdorni krye dhe listë me toptha te përmbledhja, për ta bërë të skanueshme. Ruani kuptimin dhe përpikëri faktike.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Ju lutem, përmblidhni faqen te { $url } duke përdorur gjuhë të përpiktë dhe koncize. Përdorni te përmbledhja tituj dhe lista me toptha,për ta bërë të lehtë të skanohet. Mbaj kuptimin dhe përpikërinë e fakteve.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Thjeshtoni gjuhën

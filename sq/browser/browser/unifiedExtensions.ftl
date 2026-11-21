@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Zbuloni zgjerime
 unified-extensions-empty-reason-private-browsing-not-allowed = Keni zgjerime të instaluara, por jo të aktivizuara për dritare private
 unified-extensions-empty-reason-extension-not-enabled = Keni zgjerime të instaluara, por jo të aktivizuara
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Pak zgjerime dhe ju shpien larg
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Ngrijeni më lart shfletimin tuaj, me zgjerimet
 unified-extensions-empty-content-explain-enable2 = Përzgjidhni “{ unified-extensions-manage-extensions.label }” që të aktivizohen te rregullimet.
 unified-extensions-empty-content-explain-manage2 = Përzgjidhni “{ unified-extensions-manage-extensions.label }” që t’i administroni te rregullimet.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Kemi rekomandime për t’ju ndihmuar të përmirësoni vëmendjen, privatësinë, etj.
 unified-extensions-empty-content-explain-extensions-onboarding = Bëjeni { -brand-short-name }-in si e doni, duke ndryshuar si duket dhe si funksionon, ose duke përforcuar privatësinë dhe parrezikshmërinë.
 
 ## An extension in the main list
