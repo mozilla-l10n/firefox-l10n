@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Snabb
 aiwindow-input-model-select-button-label-allpurpose = Flexibel
 aiwindow-input-model-select-button-label-personal = Personlig
 aiwindow-input-model-select-button-label-custom = Anpassad
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatisk
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Den valda standardmodellen
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Rekommenderad
+    .title = Den rekommenderade modellen
 aiwindow-input-model-select-settings-link = Modellinställningar
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } väljer den bästa modellen för din uppgift
+aiwindow-input-model-select-fast-description = Snabba svar när det är bråttom
+aiwindow-input-model-select-flexible-description = Passar för många olika uppgifter
+aiwindow-input-model-select-personal-description = Passar bra när du chattar och surfar på flera språk
 
 ## Firstrun memories onboarding
 
@@ -367,11 +382,13 @@ aiwindow-starter-dismiss =
 ## Single-page onboarding
 
 # The line break is intentional and is preserved when displayed.
-smartwindow-onboarding-welcome-subtitle = Den fungerar tillsammans med dig för att få saker gjorda. Planera, jämföra, utforska och mer.
-smartwindow-onboarding-title = Låt oss göra den till din
+smartwindow-onboarding-welcome-subtitle =
+    Den hjälper dig att få saker gjorda.
+    Planera, jämför, utforska och mycket mer.
+smartwindow-onboarding-title = Gör den till din egen
 smartwindow-onboarding-subtitle = Konfigurera { -smart-window-brand-name } som du vill. Gör ändringar när som helst i inställningarna.
 smartwindow-onboarding-model-label = Välj din AI-modell
-smartwindow-onboarding-model-description = Modellen driver chattar och åtgärder i { -smart-window-brand-name }.
+smartwindow-onboarding-model-description = Modellen används för chattar och åtgärder i { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Automatisk
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Rekommenderad
@@ -379,17 +396,17 @@ smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } vä
 smartwindow-onboarding-model-mistral-description = Passar bra om du chattar och surfar på flera språk
 smartwindow-onboarding-model-gemini-description = Snabba svar när det är bråttom
 smartwindow-onboarding-memories-label = Bestäm hur { -smart-window-brand-name } ska lära känna dig
-smartwindow-onboarding-memories-description = { -smart-window-brand-name } kan lära sig av chattar, surfning eller båda för att skapa minnen. Den använder dem för att anpassa din upplevelse över tiden.
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } kan lära sig av chattar, surfning eller båda för att skapa minnen. Minnena används för att anpassa din upplevelse med tiden.
 smartwindow-onboarding-memories-both = Chattar och surfning
 smartwindow-onboarding-memories-browsing = Endast surfning
 smartwindow-onboarding-memories-chats = Endast chattar
 smartwindow-onboarding-memories-none = Lär dig inte av aktivitet
-smartwindow-onboarding-memories-both-description = Chattar i { -smart-window-brand-name }, surfar på { -brand-short-name }
-smartwindow-onboarding-memories-browsing-description = Surfa inom { -brand-short-name }
+smartwindow-onboarding-memories-both-description = Chattar i { -smart-window-brand-name }, surfning i { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Surfa i { -brand-short-name }
 smartwindow-onboarding-memories-chats-description = Chattar i { -smart-window-brand-name }
-smartwindow-onboarding-memories-none-description = Du ser färre skräddarsydda förslag och kan behöva upprepa detaljer i chattar.
+smartwindow-onboarding-memories-none-description = Du får färre personligt anpassade förslag och kan behöva upprepa information i olika chattar.
 smartwindow-onboarding-default-window =
     .description = Använd den när { -brand-short-name } startar, startar om eller öppnar länkar från andra appar.
-    .label = Börja om { -smart-window-brand-name }
+    .label = Starta i { -smart-window-brand-name }
 smartwindow-onboarding-save =
-    .label = Spara och sätt igång
+    .label = Spara och fortsätt

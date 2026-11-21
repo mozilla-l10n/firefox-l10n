@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Gå till flik 8
 customkeys-nav-select-last-tab = Gå till sista flik
 customkeys-nav-toggle-mute = Ljud av/på
 customkeys-edit-find-previous = Sök tidigare
+customkeys-edit-find-selection = Använd markering för sökning
 customkeys-tools-screenshot = Ta en skärmbild
 customkeys-category-navigation-2 =
     .heading = Navigering

@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Punkt
 user-context-icon-fence =
     .label = Staket
+user-context-icon-robot =
+    .label = Robot
