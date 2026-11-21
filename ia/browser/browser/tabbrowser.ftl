@@ -495,6 +495,6 @@ split-view-menuitem-separate-tabs =
     .label = Separar schedas
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
-    .label = Reverter schedas
+    .label = Inverter schedas
 split-view-menuitem-close-both-tabs =
     .label = Clauder ambe schedas
