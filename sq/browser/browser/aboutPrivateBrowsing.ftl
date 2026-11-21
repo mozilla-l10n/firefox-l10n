@@ -77,6 +77,11 @@ about-private-browsing-nova-info-body = Mbyllja e krejt Dritareve tuaja Private 
 about-private-browsing-nova-info-link = Cilët mundet të jenë ende të aftë të shohin veprimtarinë time?
 about-private-browsing-private-window-basics-link = Gjëra elementare Dritaresh Private
 about-private-browsing-private-window-redesign-subheader = { -brand-short-name }-i është hartuar të mbrojë privatësinë tuaj teksa shfletoni, me mbrojtje të brendshme nga gjurmimi. Mbyllja e kësaj dritareje do të fshijë historikun e saj, cookie-t dhe të dhëna sajtesh, për ta mbajtur shfletimin tuaj privat kundrejt të tjerësh që përdorin këtë pajisje.
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Historiku i shfletimit tuaj s’do të regjistrohet.
+about-private-browsing-nova-info-subheader2 = Kur të mbyllni krejt Dritaret tuaja Private, do të fshijmë çdo kërkim dhe hyrje.  Edhe mbrojtjet e brendshme të { -brand-short-name }-it janë aktive këtu, f.v., bllokim gjurmuesish.
 
 ## Strings for the Private Window basics spotlight
 
@@ -86,9 +91,13 @@ about-private-browsing-spotlight-basics-subtitle = Dritaret Private ndihmojnë t
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Ç’duhet të dihet
 about-private-browsing-spotlight-basics-activity-seen = Ca veprimtari mundet ende të shihet nga sajte, motorë kërkimesh, shërbime internet, apo punëdhënësi juaj.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Faqerojtësit dhe shkarkimet mbeten në pajisjen tuaj dhe mund të shfaqen te shtylla e adresave.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Më tepër mbrojtje privatësie
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name }-i ju sinjalizon automatikisht rreth sajtesh malware-i dhe të rrejtshëm.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name }-i u kërkon automatikisht sajteve që respektojnë GPC-në të mos shesin apo ndajnë me të tjerë të dhënat tuaja personale.
 about-private-browsing-spotlight-basics-vpn = Përdorni VPN të brendshme, për ta bërë më të zorshme gjetjen e vendndodhjes tuaj.
 # "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
 # Translations should be consistent with the existing "Strict" string in about:preferences.
