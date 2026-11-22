@@ -35,7 +35,7 @@ etp-card-title-always = Rozšírená ochrana pred sledovaním: vždy zapnutá
 etp-card-title-custom-not-blocking = Rozšírená ochrana pred sledovaním: VYPNUTÁ
 etp-card-content-description = { -brand-short-name } automaticky zabraňuje spoločnostiam tajne vás sledovať pri prehliadaní webu.
 protection-report-etp-card-content-custom-not-blocking = Všetky prvky ochrany sú v tejto chvíli vypnuté. V nastaveniach aplikácie { -brand-short-name } vyberte, ktoré sledovacie prvky chcete blokovať.
-protection-report-manage-protections = Možnosti
+protection-report-manage-protections = Spravovať nastavenia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Dnes
