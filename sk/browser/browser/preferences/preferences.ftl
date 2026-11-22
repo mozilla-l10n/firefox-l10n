@@ -653,6 +653,14 @@ support-get-help =
 support-share-ideas =
     .label = Zdieľať nápady a spätnú väzbu
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Získajte návody, rady a novinky, aby ste si pomocou { -brand-product-name(case: "gen") } čo najlepšie poradili.
+    .label = Newsletter { -brand-product-name(case: "gen") }
+newsletter-sign-up-link =
+    .label = Prihlásiť sa
+
 ## General Section - Performance
 
 performance-settings-learn-more = Ďalšie informácie
@@ -1514,6 +1522,26 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } uložený
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } uložený
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the

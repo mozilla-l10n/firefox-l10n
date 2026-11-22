@@ -271,6 +271,9 @@ colorway-removal-notice-button = Získajte aktualizované farebné témy
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Nastavenia kontrastu vo Windowse prepisujú témy vzhľadu { -brand-short-name(case: "gen") }. Ak chcete používať témy vo { -brand-short-name(case: "loc") }, vypnite tieto nastavenia.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } ponúka vlastné vstavané svetlé a tmavé témy, ktoré sa riadia nastaveniami vášho systému.
 privacy-policy = Zásady ochrany osobných údajov
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

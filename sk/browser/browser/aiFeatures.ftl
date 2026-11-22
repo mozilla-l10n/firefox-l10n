@@ -38,6 +38,9 @@ smart-window-model-section-v2 =
 smart-window-model-radio-group =
     .aria-label = Model pre asistenta
 smart-window-model-learn-link = Ďalšie informácie o modeloch
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } vyberie najlepší model pre vašu úlohu
+    .label = Automatický model
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -62,6 +65,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Detaily modelu boli uložené. Začnite nový rozhovor, aby ste ho otestovali.
 ai-window-memories-section =
     .description = { -brand-short-name } sa dokáže učiť z vašej aktivity a vytvárať spomienky. Tieto spomienky sa používajú na prispôsobenie odpovedí a ukladajú sa lokálne v tomto zariadení.
+    .label = Spomienky
+ai-window-memories-section-v2 =
+    .description = { -brand-short-name } sa dokáže učiť z vašej aktivity a vytvárať spomienky. Používajú sa na prispôsobenie vášho zážitku a ukladajú sa lokálne vo vašom zariadení.
     .label = Spomienky
 ai-window-learn-from-chat-activity =
     .label = Učiť sa z rozhovorov v { -smart-window-brand-name(case: "loc", plural-form: "true") }
