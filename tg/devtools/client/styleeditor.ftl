@@ -51,7 +51,7 @@ styleeditor-pretty-print-button =
     .title = Варақаи услубҳои зебо барои чоп
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
-    .title = Чопи зебо танҳо барои файлҳои CSS имконпазир аст
+    .title = Чопи зебо танҳо барои файлҳои «CSS» имконпазир аст
 # Title for the pretty print button in the editor footer, when it's disabled because
 # the stylesheet is read-only
 styleeditor-pretty-print-button-disabled-read-only =
