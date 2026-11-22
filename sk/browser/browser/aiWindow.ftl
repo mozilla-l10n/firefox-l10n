@@ -121,9 +121,16 @@ aiwindow-input-model-select-button-label-fast = Rýchly
 aiwindow-input-model-select-button-label-allpurpose = Flexibilný
 aiwindow-input-model-select-button-label-personal = Osobný
 aiwindow-input-model-select-button-label-custom = Vlastný
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatický
 aiwindow-input-model-select-default-badge =
     .label = Predvolený
     .title = Označený predvolený model
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Odporúčaný
+    .title = Odporúčaný model
 aiwindow-input-model-select-settings-link = Nastavenia modelu
 
 ## Firstrun memories onboarding

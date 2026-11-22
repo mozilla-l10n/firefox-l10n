@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = VPN sa pripája…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Vypnúť
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = Neobmedzený objem dát do { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Neobmedzený objem dát
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -211,6 +218,17 @@ ipprotection-locations-subview-promo =
     .heading = Posuňte ochranu na vyššiu úroveň pomocou { -mozilla-vpn-brand-name }
     .message = Vyberte si z viac ako 300 lokalít a chráňte všetky svoje aplikácie až na 5 zariadeniach.
 ipprotection-locations-subview-promo-button = Získajte { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Viac lokalít. Viac ochrany.
+    .message =
+        { $count ->
+            [one] Nastavte si { -brand-short-name(case: "acc") } ako predvolený prehliadač a získajte { $count } ďalšiu lokalitu. Vaše odkazy sa otvárajú tu, kde je zabudovaná VPN.
+            [few] Nastavte si { -brand-short-name(case: "acc") } ako predvolený prehliadač a získajte ďalšie { $count } lokality. Vaše odkazy sa otvárajú tu, kde je zabudovaná VPN.
+           *[other] Nastavte si { -brand-short-name(case: "acc") } ako predvolený prehliadač a získajte ďalších { $count } lokalít. Vaše odkazy sa otvárajú tu, kde je zabudovaná VPN.
+        }
+ipprotection-locations-subview-set-default-promo-button = Otvárať odkazy v prehliadači { -brand-short-name }
 
 ## VPN paused state
 
@@ -247,6 +265,16 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Blížite sa k vyčerpaniu limitu vašej VPN
     .message = Tento mesiac vám zostáva { $usageLeft } MB z { $maxUsage } GB.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Pribudla vám { $additionalLocationsCount } ďalšia lokalita pre VPN
+            [few] Pribudli vám { $additionalLocationsCount } ďalšie lokality pre VPN
+           *[other] Pribudlo vám { $additionalLocationsCount } ďalších lokalít pre VPN
+        }
+    .message = Ďakujeme, že ste si nastavili { -brand-short-name(case: "acc") } ako predvolený prehliadač. Pridali sme vám ďalšie lokality, z ktorých môžete prehliadať.
 ipprotection-message-continuous-onboarding-intro = Zapnite VPN, aby ste skryli svoju polohu a pridali ďalšie šifrovanie do prehliadania.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Nastavte VPN tak, aby sa zapínala</a> pri každom otvorení { -brand-short-name(case: "gen") }, čím získate ďalšiu vrstvu ochrany.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si zapamätá, ktoré webové stránky ste nastavili na používanie VPN. Tieto nastavenia môžete kedykoľvek zmeniť v <a data-l10n-name="setting-link">nastaveniach</a>.
