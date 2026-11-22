@@ -525,7 +525,7 @@ applications-use-os-default =
         }
 applications-use-other =
     .label = Използване на друго…
-applications-select-helper = Избиране на помощно приложение
+applications-select-helper = Избор на помощно приложение
 applications-manage-app =
     .label = Подробности за приложение…
 applications-always-ask =

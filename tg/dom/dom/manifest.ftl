@@ -25,7 +25,7 @@ dom-manifest-invalid-type = Мунтазир буд, ки хусусияти у�
 #   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
 #   $value (String) - The invalid value of the property.
 # Example: "theme_color: 42 is not a valid CSS color."
-dom-manifest-invalid-css-color = { $property }: { $value } ранги CSS-и дуруст намебошад.
+dom-manifest-invalid-css-color = { $property }: { $value } ранги «CSS»-и дуруст намебошад.
 # Variables:
 #   $property (String) - The name of the property whose value is invalid, e.g. "lang".
 #   $value (String) - The invalid value of the property.

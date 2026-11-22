@@ -77,9 +77,9 @@ options-webconsole-split-console-tooltip =
 # The heading
 options-styleeditor-label = Муҳаррири услубҳо
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
-options-stylesheet-autocompletion-label = Анҷомдиҳии худкор барои рамзи CSS
+options-stylesheet-autocompletion-label = Анҷомдиҳии худкор барои рамзи «CSS»
 options-stylesheet-autocompletion-tooltip =
-    .title = Анҷомдиҳии худкори рамз барои хусусиятҳо, қиматҳо ва интихобкунандаҳои CSS ҳангоми воридкунии онҳо дар Муҳаррири услубҳо
+    .title = Анҷомдиҳии худкори рамз барои хусусиятҳо, қиматҳо ва интихобкунандаҳои «CSS» ҳангоми воридкунии онҳо дар Муҳаррири услубҳо
 
 ## Screenshot section
 
