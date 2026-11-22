@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Önceliklerinize göre bir model seçin.
     .label = Asistan modeli
+smart-window-model-section-v2 =
+    .description = Sohbetler ve eylemler modellerin sağladığı altyapıyla çalışır.
+    .label = Model
 smart-window-model-radio-group =
     .aria-label = Asistan modeli
 smart-window-model-learn-link = Modeller hakkında bilgi alın
+smart-window-model-auto =
+    .description = İşinize en uygun modeli { -smart-window-brand-name } seçer
+    .label = Otomatik model
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection

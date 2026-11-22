@@ -136,6 +136,7 @@ aiwindow-input-model-select-settings-link = Model ayarları
 ## Descriptions shown under each model in the smartbar model select when the
 ## Auto model is offered.
 
+aiwindow-input-model-select-auto-description = İşinize en uygun modeli { -smart-window-brand-name } seçer
 aiwindow-input-model-select-flexible-description = Farklı görevlere hazır
 
 ## Firstrun memories onboarding
@@ -382,3 +383,8 @@ smartwindow-onboarding-model-label = Yapay zekâ modelinizi seçin
 smartwindow-onboarding-model-auto = Otomatik
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Önerilen
+smartwindow-onboarding-model-auto-description = İşinize en uygun modeli { -smart-window-brand-name } seçer
+smartwindow-onboarding-model-mistral-description = Birden fazla dilde yazışan ve internette gezinenler için ideal
+smartwindow-onboarding-memories-both = Sohbetler ve gezinme
+smartwindow-onboarding-memories-browsing = Yalnızca gezinme
+smartwindow-onboarding-memories-chats = Yalnızca sohbetler
