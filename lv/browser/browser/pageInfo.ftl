@@ -118,8 +118,8 @@ security-technical-no-encryption-page = Šīs lapas saturs netika šifrēts pirm
 security-technical-encrypted-page = Šīs lapas saturs tika šifrēts pirms nosūtīšanas internetā.
 security-technical-encrypted-description = Šifrēšana apgrūtina apskatīt informāciju, kas tiek pārsūtīta starp datoriem, nepilnvarotiem cilvēkiem. Tādējādi ir niecīga iespēja, ka kāds nolasīja šo lapu, kamēr tā pārvietojās tīklā.
 security-technical-mixed-content-description = Apskatāmās lapas daļas netika šifrētas pirms nosūtīšanas internetā.
-security-technical-weak-cipher = Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts. Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.
-security-technical-ct-compliant = Šī tīmekļvietne ievēro sertifikātu caurspīdības pamatnostādni.
+security-technical-weak-cipher = Savienojums ar šo tīmekļvietni izmanto vāju šifrēšanu un nav privāts. Citi cilvēki var aplūkot Tavu informāciju vai pārveidot tīmekļvietnes uzvedību.
+security-technical-ct-compliant = Šī tīmekļvietne ievēro sertifikātu caurredzamības pamatnostādni.
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -137,7 +137,7 @@ security-site-data-no = Nē
 security-technical-no-encryption =
     .value = Savienojums nav šifrēts
 security-technical-mixed-content =
-    .value = Savienojums daļēji šifrēts
+    .value = Savienojums ir daļēji šifrēts
 
 ## Variables:
 ##   $algorithm (string) - The encryption algorithm (e.g. "TLS_AES_128_GCM_SHA256")

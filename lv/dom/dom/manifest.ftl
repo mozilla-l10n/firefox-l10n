@@ -10,22 +10,22 @@
 dom-manifest-id-is-invalid = Elementa id vērtību nevarēja pārveidot par derīgu URL.
 dom-manifest-id-not-same-origin = Id elementam jābūt no tās pašas izcelsmes vietas kā start_url elementam.
 dom-manifest-should-be-object = Manifestam jābū objektam.
-dom-manifest-scope-url-invalid = Apjoma URL nav korekta.
-dom-manifest-scope-not-same-origin = Apjoma URL jābūt tādai pat kā izcelsmes dokumentam.
-dom-manifest-start-url-outside-scope = Sākuma URL ir ārpus apjoma, tātad apjoms nav derīgs.
-dom-manifest-start-url-invalid = Apjoma URL nav korekta.
-dom-manifest-start-url-should-be-same-origin = Apjoma URL jābūt tādai pat kā izcelsmes dokumentam.
+dom-manifest-scope-url-invalid = Tvēruma URL ir nederīgs.
+dom-manifest-scope-not-same-origin = Tvēruma URL jābūt ar tādu pašu izcelsmi kā dokumentam.
+dom-manifest-start-url-outside-scope = Sākuma URL ir ārpus tvēruma, tādēļ tvērums ir nederīgs.
+dom-manifest-start-url-invalid = Sākuma URL ir nderīgs.
+dom-manifest-start-url-should-be-same-origin = Sākuma URL jābūt ar tādu pašu izcelsmi kā dokumentam.
 # Variables:
 #   $objectName (String) - The name of the object whose property is invalid, e.g. "manifest".
 #   $property (String) - The name of the invalid property, e.g. "start_url".
 #   $expectedType (String) - The expected type of the property value, e.g. "string".
 # Example: "Expected the manifest’s start_url member to be a string."
-dom-manifest-invalid-type = Expected the { $objectName }'s { $property } member to be a { $expectedType }.
+dom-manifest-invalid-type = Sagaidāmais { $objectName } { $property } īpašības veids ir { $expectedType }.
 # Variables:
 #   $property (String) - The name of the property whose value is invalid, e.g. "theme_color".
 #   $value (String) - The invalid value of the property.
 # Example: "theme_color: 42 is not a valid CSS color."
-dom-manifest-invalid-css-color = { $property }: { $value } is not a valid CSS color.
+dom-manifest-invalid-css-color = { $property }: { $value } nav derīga CSS krāsa.
 # Variables:
 #   $property (String) - The name of the property whose value is invalid, e.g. "lang".
 #   $value (String) - The invalid value of the property.

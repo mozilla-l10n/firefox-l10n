@@ -115,13 +115,13 @@ move-to-start =
     .accesskey = S
 # Context menu sub-item that appears as an option for "Move to" for moving tab to start of the tab strip.
 move-to-start-alt =
-    .label = Sākt
+    .label = Sākums
     .accesskey = S
 move-to-end =
     .label = Pārvietot uz beigām
     .accesskey = E
 move-to-end-alt =
-    .label = Beigt
+    .label = Beigas
     .accesskey = E
 move-to-new-window =
     .label = Pārvietot uz jaunu logu
@@ -145,8 +145,8 @@ tab-context-close-duplicate-tabs =
     .accesskey = u
 # The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
 tab-context-close-duplicate-tabs-alt =
-    .label = Dublēt cilnes
-    .accesskey = x
+    .label = Pavairot cilnes
+    .accesskey = P
 tab-context-close-duplicate-tabs2 =
     .label = Aizvērt šīs cilnes dublikātus
     .accesskey = x
@@ -164,9 +164,9 @@ tab-context-new-group =
     .label = Jauna grupa
     .accesskey = g
 tab-context-add-tab-to-group-new-group =
-    .label = Jauna grupa
+    .label = Jauna kopa
 tab-context-add-tab-to-group-closed-groups =
-    .label = Slēgtas grupas
+    .label = Aizvērtās kopas
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -41,7 +41,7 @@ tab-devtools-splitter =
 # The split view's two tabs are added to the group together.
 tab-context-add-split-view-to-group =
     .label = Pievienot cilnes kopai
-    .accesskey = G
+    .accesskey = k
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -311,12 +311,12 @@ tab-context-move-tab-to-new-group =
 tab-context-add-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Pievienot grupai
-            [zero] Pievienot grupai { $tabCount } cilnes
-            [one] Pievienot grupai { $tabCount } cilni
-           *[other] Pievienot grupai { $tabCount } cilnes
+            [1] Pievienot kopai
+            [zero] Pievienot kopai { $tabCount } ciļņu
+            [one] Pievienot kopai { $tabCount } cilni
+           *[other] Pievienot kopai { $tabCount } cilnes
         }
-    .accesskey = G
+    .accesskey = k
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -500,7 +500,7 @@ tab-context-separate-split-view =
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view-alt =
-    .label = Atsevišķas cilnes
+    .label = Atdalīt cilnes
     .accesskey = t
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
