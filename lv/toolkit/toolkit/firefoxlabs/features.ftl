@@ -97,5 +97,5 @@ experimental-features-tab-context-menu =
 experimental-features-tab-context-menu-description = Ar peles labo pogu noklikšķinot uz cilnes, skatiet vienkāršāku konteksta izvēlni. Tā ir izstrādāta, lai atvieglotu bieži veicamo darbību atrašanu. <a data-l10n-name="connect">Kopīgot atsauksmes</a>
 # Resource Monitor
 experimental-features-resource-monitor =
-    .label = Resursu monitors
-experimental-features-resource-monitor-description = Sānjoslā skatiet atvērto cilņu aptuveno atmiņas un centrālā procesora izmantošanu un atbrīvojiet resursus no neizmantotajām cilnēm. <a data-l10n-name="connect">Kopīgot atsauksmes</a>
+    .label = Resursu pārraugs
+experimental-features-resource-monitor-description = Sānjoslā apskati atvērto cilņu aptuveno atmiņas un CPU lietojumu un izlādē cilnes, kuras neizmanto, lai atbrīvotu resursus! <a data-l10n-name="connect">Kopīgot atsauksmes</a>

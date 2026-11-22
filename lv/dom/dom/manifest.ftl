@@ -38,12 +38,12 @@ dom-manifest-lang-is-invalid = { $property }: { $value } nav derīgs valodas kod
 #   $value (String) - The invalid value.
 # There is no final period, so that it is not mistaken for part of the URL.
 # Example: "icons item at index 2 is invalid. The src member is an invalid URL http://:Invalid"
-dom-manifest-image-url-is-invalid = { $memberName } elements indeksā { $index } nav derīgs. { $member } elements ir nederīgs URL { $value }
+dom-manifest-image-url-is-invalid = { $memberName } vienums ar indeksu { $index } nav derīgs. { $member } īpašība ir nederīgs URL { $value }
 # Variables:
 #   $memberName (String) - The name of the parent property that contains the unusable image object, e.g. "icons".
 #   $index (Number) - The index of the image object that is unusable, starting from 0.
 # Example: "icons item at index 2 lacks a usable purpose. It will be ignored."
-dom-manifest-image-unusable = { $memberName } vienumam indeksā { $index } trūkst izmantojama mērķa. Tas tiks ignorēts.
+dom-manifest-image-unusable = { $memberName } vienumam ar indeksu { $index } trūkst izmantojama mērķa. Tas netiks ņemts vērā.
 # Variables:
 #   $memberName (String) - The name of the parent property that contains the unsupported value, e.g. "icons".
 #   $index (Number) - The index of the image object that has the unsupported value, starting from 0.
@@ -52,13 +52,13 @@ dom-manifest-image-unusable = { $memberName } vienumam indeksā { $index } trūk
 # Example: "icons item at index 2 includes unsupported purposes: a, b."
 dom-manifest-image-unsupported-purposes =
     { $count ->
-        [one] { $memberName } vienums indeksā { $index } ietver neatbalstītu mērķi: { $purposes }.
-        [zero] { $memberName } vienums indeksā { $index } ietver neatbalstītus mērķus: { $purposes }.
-       *[other] { $memberName } vienums indeksā { $index } ietver neatbalstītus mērķus: { $purposes }.
+        [one] { $memberName } vienums ar indeksu { $index } ietver neatbalstītu mērķi: { $purposes }.
+        [zero] { $memberName } vienums ar indeksu { $index } ietver neatbalstītus mērķus: { $purposes }.
+       *[other] { $memberName } vienums ar indeksu { $index } ietver neatbalstītus mērķus: { $purposes }.
     }
 # Variables:
 #   $memberName (String) - The name of the parent property that has a repeated purpose, e.g. "icons".
 #   $index (Number) - The index of the image object that has the repeated purpose, starting from 0.
 #   $purposes (String) - The list of repeated purposes, already formatted for the current locale, e.g. "a, b".
 # Example: "icons item at index 2 includes repeated purpose(s): a, b."
-dom-manifest-image-repeated-purposes = { $memberName } vienums indeksā { $index } ietver atkārtotu(-us) mērķi(-us): { $purposes }.
+dom-manifest-image-repeated-purposes = { $memberName } vienums ar indeksu { $index } ietver atkārtotu(us) mērķi(us): { $purposes }.

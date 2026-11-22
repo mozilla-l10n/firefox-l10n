@@ -33,15 +33,15 @@ about-processes-collapse-site =
 # Variables:
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-unload-site =
-    .title = Izņemt cilnes no vietnes { $site }
+    .title = Izlādēt { $site } cilnes
 # Variables:
 #   $site (String) The site’s name, e.g. example.com.
 about-processes-reload-site =
     .title = Atkārtoti ielādēt cilnes no { $site }
 about-processes-expand-all-sites =
-    .title = Izvērst visu
+    .title = Izvērst visas
 about-processes-collapse-all-sites =
-    .title = Sakļaut visu
+    .title = Sakļaut visas
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -61,7 +61,7 @@ about-processes-search-tabs =
 # Shown in place of the tab list when a search matches no open tabs.
 # Variables:
 #   $query (String) The search text the user typed, unmodified.
-about-processes-search-no-results = Nav atrastas atbilstošas cilnes vaicājumam “{ $query }”
+about-processes-search-no-results = Nav atrastas cilnes, kas atbilst “{ $query }”
 
 ## Column headers
 
@@ -169,7 +169,7 @@ about-processes-tab-count =
 #   $count (Number) The number of selected tabs. Always ≥ 1.
 about-processes-bulk-selected-count =
     { $count ->
-        [one] Atlasīta cilne { $count }
+        [one] Atlasīta { $count } cilne
         [zero] Atlasītas { $count } cilnes
        *[other] Atlasītas { $count } cilnes
     }
