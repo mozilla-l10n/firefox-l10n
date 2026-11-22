@@ -129,18 +129,18 @@ aiwindow-input-model-select-settings-link = Cài đặt mô hình
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Những câu trả lời hữu ích hơn, theo cách bạn hiểu
-aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } có thể học hỏi từ các cuộc trò chuyện, hoạt động duyệt web hoặc cả hai của bạn để tạo ra những ký ức. Điều này giúp cho các câu trả lời trở nên hữu ích hơn theo thời gian.
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } có thể học hỏi từ các cuộc trò chuyện, hoạt động duyệt web hoặc cả hai của bạn để tạo ra bộ nhớ ngữ cảnh. Điều này giúp cho các câu trả lời trở nên hữu ích hơn theo thời gian.
 aiwindow-firstrun-memories-conversation-title = Tiếp tục cuộc trò chuyện
 aiwindow-firstrun-memories-conversation-body = Học hỏi từ các cuộc trò chuyện có nghĩa là bạn sẽ ít phải lặp lại lời nói của mình hơn.
 aiwindow-firstrun-memories-relevance-title = Câu trả lời liên quan hơn
 aiwindow-firstrun-memories-relevance-body = Học hỏi từ việc duyệt web giúp { -smart-window-brand-name } có cái nhìn toàn diện hơn.
 aiwindow-firstrun-memories-privacy-title = Thiết kế một cách riêng tư
-aiwindow-firstrun-memories-privacy-body = Những ký ức được lưu trữ trên thiết bị này. Xóa hoặc tắt nó bất cứ lúc nào.
+aiwindow-firstrun-memories-privacy-body = Bộ nhớ ngữ cảnh được lưu trữ trên thiết bị này. Xoá hoặc tắt nó bất cứ lúc nào.
 aiwindow-firstrun-memories-choose-label = Chọn những gì { -smart-window-brand-name } có thể học
 aiwindow-firstrun-memories-checkbox-chats = Trò chuyện trong { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Duyệt web với { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Cập nhật bất cứ lúc nào trong cài đặt.
-aiwindow-firstrun-memories-no-create = Đã hiểu. { -smart-window-brand-name } sẽ không tạo ký ức nữa. Cập nhật bất cứ lúc nào trong cài đặt.
+aiwindow-firstrun-memories-no-create = Đã hiểu. { -smart-window-brand-name } sẽ không tạo bộ nhớ ngữ cảnh nữa. Cập nhật bất cứ lúc nào trong cài đặt.
 
 ## Firstrun set as default onboarding
 
@@ -157,11 +157,11 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .aria-label = Đã bật ký ức
-    .tooltiptext = Sử dụng những ký ức trong câu trả lời khi thấy hữu ích
+    .aria-label = Đã bật bộ nhớ ngữ cảnh
+    .tooltiptext = Sử dụng bộ nhớ ngữ cảnh trong câu trả lời khi thấy hữu ích
 aiwindow-memories-off =
-    .aria-label = Đã tắt ký ức
-    .tooltiptext = Không sử dụng ký ức khi phản hồi
+    .aria-label = Đã tắt bộ nhớ ngữ cảnh
+    .tooltiptext = Không sử dụng bộ nhớ ngữ cảnh khi phản hồi
 
 ## New Chat Button
 

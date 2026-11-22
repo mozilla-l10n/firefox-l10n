@@ -4,7 +4,7 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Chặn { -smart-window-brand-name }?
-smart-window-block-description-both = Thao tác này sẽ xóa các cuộc trò chuyện và ký ức của bạn trên { -smart-window-brand-name }.
+smart-window-block-description-both = Thao tác này sẽ xóa các cuộc trò chuyện và bộ nhớ ngữ cảnh của bạn trên { -smart-window-brand-name }.
 smart-window-block-description-chats = Thao tác này sẽ xóa các cuộc trò chuyện của bạn trên { -smart-window-brand-name }.
 smart-window-block-description-memories = Thao tác này sẽ xóa ký ức của bạn trên { -smart-window-brand-name }.
 ai-window-features-group =
@@ -64,36 +64,36 @@ smart-window-model-custom-save =
     .label = Lưu
 smart-window-model-custom-save-confirmation = Thông tin chi tiết về mô hình sản phẩm đã được lưu. Bắt đầu một cuộc trò chuyện mới để thử.
 ai-window-memories-section =
-    .description = { -brand-short-name } có thể học hỏi từ hoạt động của bạn để tạo ra những ký ức. Những ký ức này được sử dụng để giúp cá nhân hóa phản hồi và được lưu trữ cục bộ trên thiết bị này.
-    .label = Ký ức
+    .description = { -brand-short-name } có thể học hỏi từ hoạt động của bạn để tạo ra bộ nhớ ngữ cảnh. Chúng được sử dụng để giúp cá nhân hóa phản hồi và được lưu trữ cục bộ trên thiết bị này.
+    .label = Bộ nhớ ngữ cảnh
 ai-window-learn-from-chat-activity =
     .label = Học từ trò chuyện trong { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
     .label = Học từ việc duyệt web ở chế độ thông thường và { -smart-window-brand-name(plural-form: "true") }
 ai-window-manage-memories-button =
-    .label = Quản lý ký ức
+    .label = Quản lý bộ nhớ ngữ cảnh
 ai-window-manage-memories-header =
-    .description = Các ký ức được lưu trữ cục bộ trên thiết bị này để giúp bảo vệ quyền riêng tư của bạn. Chúng được làm mới vài lần mỗi ngày trong khi bạn sử dụng. { -smart-window-brand-name }, vì vậy, những diễn biến gần đây có thể cần thời gian để có thể tìm lại.
-    .heading = Quản lý ký ức
+    .description = Bộ nhớ ngữ cảnh được lưu trữ cục bộ trên thiết bị này để giúp bảo vệ quyền riêng tư của bạn. Chúng được làm mới vài lần mỗi ngày trong khi bạn sử dụng. { -smart-window-brand-name }, vì vậy, những diễn biến gần đây có thể cần thời gian để có thể tìm lại.
+    .heading = Quản lý bộ nhớ ngữ cảnh
 ai-window-no-memories =
-    .description = Khi { -smart-window-brand-name } học hỏi từ hoạt động của bạn, bạn sẽ thấy các ký ức ở đây.
-    .label = Chưa có ký ức nào
+    .description = Khi { -smart-window-brand-name } học hỏi từ hoạt động của bạn, bạn sẽ thấy bộ nhớ ở đây.
+    .label = Chưa có bộ nhớ ngữ cảnh nào
 ai-window-no-memories-learning-off =
-    .description = Chức năng học hỏi từ hoạt động đã tắt, vì vậy { -smart-window-brand-name } không tạo ra ký ức.
-    .label = Không có ký ức nào để xem
+    .description = Chức năng học hỏi từ hoạt động đã tắt, vì vậy { -smart-window-brand-name } không tạo ra bộ nhớ.
+    .label = Không có bộ nhớ ngữ cảnh nào để xem
 ai-window-delete-all-memories-button =
     .label = Xoá tất cả
-ai-window-delete-all-memories-title = Xoá tất cả ký ức?
+ai-window-delete-all-memories-title = Xoá tất cả bộ nhớ ngữ cảnh?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
-ai-window-delete-all-memories-message = Các ký ức hiện có sẽ bị xóa. Nếu bạn không muốn tạo thêm ký ức mới, hãy bỏ chọn tùy chọn “Học từ…” trong cài đặt { -smart-window-brand-name }.
+ai-window-delete-all-memories-message = Các bộ nhớ ngữ cảnh hiện có sẽ bị xóa. Nếu bạn không muốn tạo thêm bộ nhớ mới, hãy bỏ chọn tùy chọn “Học từ…” trong cài đặt { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Xóa
 ai-window-delete-all-memories-cancel = Hủy bỏ
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .aria-label = Xóa { $label }
-    .title = Xóa ký ức
+    .aria-label = Xoá { $label }
+    .title = Xoá bộ nhớ ngữ cảnh
 smart-window-model-fast-v2 =
     .description = Phù hợp nhất để có câu trả lời nhanh khi tốc độ là yếu tố quan trọng. Tên đầy đủ: { $model } bởi { $ownerName }
     .label = { $shortName }: Nhanh

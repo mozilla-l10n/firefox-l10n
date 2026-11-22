@@ -29,13 +29,13 @@ smartwindow-signin-btn = Đăng nhập
 
 ## Assistant Message footer
 
-aiwindow-memories-used = Ký ức đã sử dụng
-aiwindow-memories-callout-description = Ký ức đã giúp cá nhân hóa câu trả lời này.
+aiwindow-memories-used = Bộ nhớ ngữ cảnh đã sử dụng
+aiwindow-memories-callout-description = Bộ nhớ ngữ cảnh đã giúp cá nhân hóa câu trả lời này.
 aiwindow-memories-learn-more = Tìm hiểu thêm
 aiwindow-manage-memories =
-    .label = Cài đặt ký ức
+    .label = Cài đặt bộ nhớ ngữ cảnh
 aiwindow-retry-without-memories =
-    .label = Thử lại mà không có ký ức
+    .label = Thử lại mà không cần bộ nhớ ngữ cảnh
 aiwindow-retry =
     .aria-label = Thử lại
     .tooltiptext = Thử lại
@@ -53,9 +53,9 @@ aiwindow-thumbs-down =
     .aria-label = Chia sẻ phản hồi tiêu cực
     .tooltiptext = Chia sẻ phản hồi tiêu cực
 aiwindow-applied-memories-popover =
-    .aria-label = Bảng ký ức
+    .aria-label = Bảng bộ nhớ ngữ cảnh
 aiwindow-applied-memories-list =
-    .aria-label = Ký ức
+    .aria-label = Bộ nhớ ngữ cảnh
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -161,8 +161,8 @@ action-log-searched-web-with-exa = Đã tìm kiếm trên web với <a data-l10n
 # brand name that should not be translated. The <a> wraps "Exa" as a link to a
 # support article explaining the third-party web search integration.
 action-log-searched-and-answered-with-exa = Đã tìm kiếm và trả lời bằng <a data-l10n-name="exa-link">Exa</a>
-action-log-checking-memories = Đang kiểm tra ký ức
-action-log-checked-memories = Đã kiểm tra ký ức
+action-log-checking-memories = Đang kiểm tra bộ nhớ ngữ cảnh
+action-log-checked-memories = Đã kiểm tra bộ nhớ ngữ cảnh
 action-log-searching-settings = Đang tìm kiếm cài đặt
 action-log-searched-settings = Đã tìm kiếm cài đặt
 # Variables
