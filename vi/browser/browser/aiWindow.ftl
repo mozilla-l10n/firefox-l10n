@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Nhanh
 aiwindow-input-model-select-button-label-allpurpose = Linh hoạt
 aiwindow-input-model-select-button-label-personal = Cá nhân
 aiwindow-input-model-select-button-label-custom = Tùy chọn
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Tự động
 aiwindow-input-model-select-default-badge =
     .label = Mặc định
     .title = Mô hình mặc định đã chọn
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Được đề xuất
+    .title = Mô hình được đề xuất
 aiwindow-input-model-select-settings-link = Cài đặt mô hình
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } chọn mẫu phù hợp nhất cho tác vụ của bạn
+aiwindow-input-model-select-fast-description = Câu trả lời nhanh khi bạn đang di chuyển nhanh
+aiwindow-input-model-select-flexible-description = Sẵn sàng cho nhiều tác vụ khác nhau
+aiwindow-input-model-select-personal-description = Sẽ rất tốt nếu bạn trò chuyện và duyệt web bằng nhiều ngôn ngữ
 
 ## Firstrun memories onboarding
 
@@ -355,3 +370,35 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Bỏ qua { $text }
     .title = Bỏ qua { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Nó hỗ trợ bạn hoàn thành công việc.
+    Lập kế hoạch, so sánh, khám phá và hơn thế nữa.
+smartwindow-onboarding-title = Hãy biến nó thành của riêng bạn
+smartwindow-onboarding-subtitle = Thiết lập { -smart-window-brand-name } theo cách bạn muốn. Có thể thay đổi bất cứ lúc nào trong phần cài đặt.
+smartwindow-onboarding-model-label = Chọn mô hình AI của bạn
+smartwindow-onboarding-model-description = Mô hình này hỗ trợ các cuộc trò chuyện và hành động trong { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Tự động
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Được đề xuất
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } chọn mô hình phù hợp nhất cho tác vụ của bạn
+smartwindow-onboarding-model-mistral-description = Sẽ rất tốt nếu bạn trò chuyện và duyệt web bằng nhiều ngôn ngữ
+smartwindow-onboarding-model-gemini-description = Câu trả lời nhanh khi bạn đang di chuyển nhanh
+smartwindow-onboarding-memories-label = Chọn cách { -smart-window-brand-name } tìm hiểu về bạn
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } có thể học hỏi từ các cuộc trò chuyện, hoạt động duyệt web hoặc cả hai để tạo ra bộ nhớ ngữ cảnh. Nó sử dụng chúng để cá nhân hóa trải nghiệm của bạn theo thời gian.
+smartwindow-onboarding-memories-both = Trò chuyện và duyệt web
+smartwindow-onboarding-memories-browsing = Chỉ duyệt web
+smartwindow-onboarding-memories-chats = Chỉ trò chuyện
+smartwindow-onboarding-memories-none = Không học từ hoạt động
+smartwindow-onboarding-memories-both-description = Trò chuyện trong { -smart-window-brand-name }, duyệt web với { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Duyệt web với { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Trò chuyện trong { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Bạn sẽ thấy ít gợi ý được cá nhân hóa hơn và có thể cần phải lặp lại chi tiết trong các cuộc trò chuyện khác nhau.
+smartwindow-onboarding-default-window =
+    .description = Sử dụng nó khi { -brand-short-name } khởi động, khởi động lại hoặc mở các liên kết từ các ứng dụng khác.
+    .label = Bắt đầu trong { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Lưu và tiếp tục
