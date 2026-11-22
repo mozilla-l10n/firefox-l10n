@@ -102,10 +102,10 @@ aiwindow-firstrun-model-title-v2 = Na začiatok si vyberte model
 aiwindow-firstrun-model-subtitle-v2 = Každý model vám môže pomôcť zhrnúť, porovnať a preskúmať všetky vaše karty. Prepínať medzi nimi môžete kedykoľvek.
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Rýchly: { $shortName }
-aiwindow-firstrun-model-fast-body-v2 = Najlepší pre rýchle odpovede, keď sa potrebujete rýchlo pohnúť z miesta
+aiwindow-firstrun-model-fast-body-v2 = Najlepší pre rýchle odpovede, keď sa ponáhľate
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexibilný: { $shortName }
-aiwindow-firstrun-model-flexible-body = Pripravený na rôzne úlohy
+aiwindow-firstrun-model-flexible-body = Vhodný na rozmanité úlohy
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Odporúčaný
 # $shortName (string) - The short name of the model version
@@ -132,6 +132,14 @@ aiwindow-input-model-select-recommended-badge =
     .label = Odporúčaný
     .title = Odporúčaný model
 aiwindow-input-model-select-settings-link = Nastavenia modelu
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } zvolí najvhodnejší model pre vašu úlohu
+aiwindow-input-model-select-fast-description = Rýchle odpovede, keď sa ponáhľate
+aiwindow-input-model-select-flexible-description = Vhodný na rozmanité úlohy
+aiwindow-input-model-select-personal-description = Vhodný na rozhovory a prehliadanie webu vo viacerých jazykoch
 
 ## Firstrun memories onboarding
 
@@ -377,6 +385,21 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Pomáha vám zvládnuť všetko potrebné.
+    Plánujte, porovnávajte, objavujte a oveľa viac.
+smartwindow-onboarding-title = Prispôsobte si ho podľa seba
+smartwindow-onboarding-subtitle = Prispôsobte si { -smart-window-brand-name(case: "acc") } podľa seba. Nastavenia môžete kedykoľvek zmeniť.
+smartwindow-onboarding-model-label = Zvoľte si model umelej inteligencie
+smartwindow-onboarding-model-description = Model zabezpečuje rozhovory a vykonávanie akcií v { -smart-window-brand-name(case: "loc", plural-form: "true") }.
+smartwindow-onboarding-model-auto = Automatický
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Odporúčaný
+smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } zvolí najvhodnejší model pre vašu úlohu
+smartwindow-onboarding-model-mistral-description = Vhodný na rozhovory a prehliadanie webu vo viacerých jazykoch
+smartwindow-onboarding-model-gemini-description = Rýchle odpovede, keď sa ponáhľate
+smartwindow-onboarding-memories-label = Vyberte, ako vás má { -smart-window-brand-name } spoznávať
 smartwindow-onboarding-memories-description = { -smart-window-brand-name } sa môže učiť z rozhovorov, prehliadania alebo z oboch a vytvárať si tak spomienky. Postupne ich využíva na prispôsobenie vášho používateľského zážitku.
 smartwindow-onboarding-memories-both = Rozhovory a prehliadanie
 smartwindow-onboarding-memories-browsing = Len prehliadanie
@@ -386,3 +409,8 @@ smartwindow-onboarding-memories-both-description = Rozhovory v { -smart-window-b
 smartwindow-onboarding-memories-browsing-description = Prehliadanie vo { -brand-short-name(case: "loc") }
 smartwindow-onboarding-memories-chats-description = Rozhovory v { -smart-window-brand-name(case: "loc") }
 smartwindow-onboarding-memories-none-description = Zobrazí sa vám menej návrhov na mieru a možno budete musieť v jednotlivých rozhovoroch opakovať rovnaké informácie.
+smartwindow-onboarding-default-window =
+    .description = Použije sa pri spustení { -brand-short-name(case: "gen") }, jeho reštartovaní alebo otváraní odkazov z iných aplikácií.
+    .label = Spúsťať v { -smart-window-brand-name(case: "loc") }
+smartwindow-onboarding-save =
+    .label = Uložiť a pokračovať
