@@ -264,7 +264,7 @@ about-logins-confirm-delete-all-sync-dialog-message =
     { $count ->
         [1] Tas izdzēsīs to no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
         [zero] Tas izdzēsīs tās no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
-        [one] Tas izdzēsīs to no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
+        [one] Tas izdzēsīs tās no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
        *[other] Tas izdzēsīs tās no { -brand-short-name } katrā ierīcē, kas vienādo Tavas paroles. Tas ir neatgriezeniski.
     }
 
