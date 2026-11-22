@@ -374,3 +374,15 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Zavrieť { $text }
     .title = Zavrieť { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } sa môže učiť z rozhovorov, prehliadania alebo z oboch a vytvárať si tak spomienky. Postupne ich využíva na prispôsobenie vášho používateľského zážitku.
+smartwindow-onboarding-memories-both = Rozhovory a prehliadanie
+smartwindow-onboarding-memories-browsing = Len prehliadanie
+smartwindow-onboarding-memories-chats = Len rozhovory
+smartwindow-onboarding-memories-none = Nezískavať poznatky z aktivity
+smartwindow-onboarding-memories-both-description = Rozhovory v { -smart-window-brand-name(case: "loc") }, prehliadanie vo { -brand-short-name(case: "loc") }
+smartwindow-onboarding-memories-browsing-description = Prehliadanie vo { -brand-short-name(case: "loc") }
+smartwindow-onboarding-memories-chats-description = Rozhovory v { -smart-window-brand-name(case: "loc") }
+smartwindow-onboarding-memories-none-description = Zobrazí sa vám menej návrhov na mieru a možno budete musieť v jednotlivých rozhovoroch opakovať rovnaké informácie.
