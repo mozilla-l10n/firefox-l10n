@@ -621,7 +621,7 @@ welcome-back-onboarding-card-tilebutton-label = Izmēģini
 
 ## New Tab Onboarding cards
 
-hnt-card-import-header = Iestati{ -brand-short-name } dažās sekundēs
+hnt-card-import-header = Iestati { -brand-short-name } dažās sekundēs
 hnt-card-import-body = Pārcel no cita pārlūka savas grāmatzīmes, paroles un citus datus!
 hnt-card-import-primary-button = Ievieto savus datus
 hnt-card-default-body = { -brand-product-name } ir vienīgais no galvenajiem pārlūkiem, kas izveidots, lai aizsargātu, nevis izsekotu.
@@ -629,8 +629,8 @@ hnt-card-default-primary-button = Atvērt saites ar { -brand-short-name }
 hnt-card-pin-header = Turi { -brand-short-name } viena klikšķa attālumā
 hnt-card-pin-body =
     { PLATFORM() ->
-        [macos] Atgriezies aizsargātajā pārlūkošanā no doka.
-       *[other] Atgriezies aizsargātajā pārlūkošanā no uzdevumjoslas.
+        [macos] Atgriezies aizsargātajā pārlūkošanā no doka!
+       *[other] Atgriezies aizsargātajā pārlūkošanā no uzdevumjoslas!
     }
 hnt-card-mobile-header = Iegūsti iebūvētu aizsardzību savā tālrunī
 hnt-card-mobile-body = Lejupielādē { -brand-product-name } mobilajām ierīcēm, lai nodrošinātu papildu privātumu kustībā!
@@ -642,10 +642,10 @@ hnt-card-wallpaper-primary-button = Sākt pielāgošanu
 hnt-card-taskbar-tabs-header = Pievieno savas iecienītākās vietnes Windows uzdevumjoslai
 hnt-card-taskbar-tabs-body = Atver visbiežāk apmeklētās vietnes kā lietotni ar visiem { -brand-product-name } aizsardzības līdzekļiem!
 hnt-card-taskbar-tabs-primary-button = Pievienot vietnes uzdevumjoslai
-hnt-card-extensions-header = Uzlabojiet { -brand-short-name } ar paplašinājumiem
-hnt-card-extensions-body = Pielāgojiet savu pārlūkošanu ar mūsu iecienītākajiem paplašinājumiem.
+hnt-card-extensions-header = Uzlabo { -brand-short-name } ar paplašinājumiem
+hnt-card-extensions-body = Pielāgo savu pārlūkošanu ar mūsu iecienītākajiem paplašinājumiem!
 hnt-card-extensions-primary-button = Izpētīt
 # "Do your thing" is an idiom meaning to do what you are interested in or skilled at,
 # rather than simply doing what everyone else does.
-hnt-card-last-card-header-start = Viss gatavs. Ej un dari savu darbu.
-hnt-card-last-card-header-end = Izsekošanas aizsardzība ir ieslēgta.
+hnt-card-last-card-header-start = Viss gatavs. Ej un dari savas lietas!
+hnt-card-last-card-header-end = Aizsardzība pret izsekošanu ir ieslēgta.

@@ -326,9 +326,9 @@ permissions-addon-button = Atļaujas
 extension-enabled-heading = Iespējots
 extension-disabled-heading = Deaktivēts
 theme-enabled-heading2 =
-    .heading = Izvēlētais motīvs
+    .heading = Izvēlētā tēma
 theme-disabled-heading3 =
-    .heading = Saglabātie motīvi
+    .heading = Saglabātās tēmas
 theme-enabled-heading = Iespējots
 theme-disabled-heading2 = Saglabātie motīvi
 plugin-enabled-heading = Iespējots
@@ -446,7 +446,7 @@ addon-permissions-learnmore = Uzzināt vairāk par atļaujām
 addon-permissions-managed-by-policy = Dažas atļaujas pārvalda jūsu organizācija.
 recommended-extensions-heading = Ieteicamie paplašinājumi
 recommended-themes-card-heading =
-    .heading = Ieteiktie motīvi
+    .heading = Ieteicamās tēmas
 recommended-themes-heading = Ieteicamie motīvi
 # Variables:
 #   $hostname (string) - Host where the permissions are granted

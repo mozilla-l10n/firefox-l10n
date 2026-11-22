@@ -114,9 +114,9 @@ help-button =
 #   $website (string) - The hostname of the website
 security-technical-no-encryption-website = Tīmekļvietne { $website } neatbalsta pašreiz atvērtās lapas šifrēšanu.
 security-technical-no-encryption-transit = Internetā bez šifrēšanas nosūtīto informāciju tās pārsūtīšanas laikā var redzēt citi cilvēki.
-security-technical-no-encryption-page = Šīs lapas saturs pirms sūtīšanas netika nošifrēs.
-security-technical-encrypted-page = Šīs lapas saturs pirms sūtīšanas tika nošifrēs.
-security-technical-encrypted-description = Šifrēšana traucē nevēlamiem cilvēkiem piekļūt jūsu informācijai, kamēr tā tiek sūtīta starp datoriem internetā. Šīs lapas saturu visdrīzāk neviens nenolasīja, kamēr tā ceļoja internetā.
+security-technical-no-encryption-page = Šīs lapas saturs netika šifrēts pirms nosūtīšanas internetā.
+security-technical-encrypted-page = Šīs lapas saturs tika šifrēts pirms nosūtīšanas internetā.
+security-technical-encrypted-description = Šifrēšana apgrūtina apskatīt informāciju, kas tiek pārsūtīta starp datoriem, nepilnvarotiem cilvēkiem. Tādējādi ir niecīga iespēja, ka kāds nolasīja šo lapu, kamēr tā pārvietojās tīklā.
 security-technical-mixed-content-description = Apskatāmās lapas daļas netika šifrētas pirms nosūtīšanas internetā.
 security-technical-weak-cipher = Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts. Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.
 security-technical-ct-compliant = Šī tīmekļvietne ievēro sertifikātu caurspīdības pamatnostādni.
