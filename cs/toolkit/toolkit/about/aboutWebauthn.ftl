@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Správa PIN
 about-webauthn-credential-management-section-title = Správa přihlašovacích údajů
 about-webauthn-pin-required-section-title = Vyžadován PIN
 about-webauthn-confirm-deletion-section-title = Potvrzení smazání
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Protokol
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Biometrické zápisy
 
@@ -31,6 +33,13 @@ about-webauthn-text-non-ctap2-device = Nelze spravovat možnosti, protože váš
 about-webauthn-text-not-available = Na této platformě není k dispozici.
 about-webauthn-bio-enrollment-list-subsection-title = Registrace:
 about-webauthn-add-bio-enrollment-section-title = Přidat novou registraci
+about-webauthn-logging-warning = Protokol může obsahovat osobní údaje, například uživatelská jména, identifikátory účtů a adresy webových stránek. Před sdílením jej zkontrolujte.
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note =
+    { -brand-short-name.case-status ->
+        [with-cases] Zaznamenávají se pouze požadavky na nativní implementaci CTAP ve { -brand-short-name(case: "gen") }. Požadavky na platformní rozhraní API WebAuthn ani na rozšíření prohlížeče se nezaznamenávají.
+       *[no-cases] Zaznamenávají se pouze požadavky na nativní implementaci CTAP v aplikaci { -brand-short-name }. Požadavky na platformní rozhraní API WebAuthn ani na rozšíření prohlížeče se nezaznamenávají.
+    }
 
 ## Results label
 
@@ -77,6 +86,12 @@ about-webauthn-add-bio-enrollment-button = Přidat registraci
 about-webauthn-cancel-button = Zrušit
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Smazat
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Spustit
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Zastavit
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Vymazat
 about-webauthn-start-enrollment-button = Spustit registraci
 about-webauthn-update-button = Aktualizovat
 

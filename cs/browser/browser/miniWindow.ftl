@@ -73,5 +73,9 @@ mini-window-overlay-instructions = Přetažením nebo klepnutím vyberte oblast,
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Vyberte, co se má přesunout do mini okna
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Část stránky
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Celou stránku
 mini-window-panel-move-selection = Přesunout výběr
 mini-window-panel-move-full-tab = Přesunout celý panel

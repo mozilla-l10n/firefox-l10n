@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Tečka
 user-context-icon-fence =
     .label = Plot
+user-context-icon-robot =
+    .label = Robot
