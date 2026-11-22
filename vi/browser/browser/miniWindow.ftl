@@ -71,5 +71,9 @@ mini-window-overlay-instructions = Kéo hoặc nhấp chuột để chọn một
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = Chọn những gì bạn muốn di chuyển vào Cửa sổ thu nhỏ
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = Một phần trang
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = Toàn bộ trang
 mini-window-panel-move-selection = Chuyển phần đã chọn
 mini-window-panel-move-full-tab = Chuyển toàn bộ thẻ

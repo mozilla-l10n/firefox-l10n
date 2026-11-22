@@ -155,6 +155,12 @@ action-log-searching-web-with-exa = Đang tìm kiếm trên web với <a data-l1
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Đã tìm kiếm trên web với <a data-l10n-name="exa-link">Exa</a>
+# Shown instead of action-log-searched-web-with-exa when Exa both searched the
+# web and wrote the reply shown to the user, rather than the assistant answering
+# from the search results. Exa is the name of a third-party web search API and a
+# brand name that should not be translated. The <a> wraps "Exa" as a link to a
+# support article explaining the third-party web search integration.
+action-log-searched-and-answered-with-exa = Đã tìm kiếm và trả lời bằng <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Đang kiểm tra ký ức
 action-log-checked-memories = Đã kiểm tra ký ức
 action-log-searching-settings = Đang tìm kiếm cài đặt
@@ -162,6 +168,12 @@ action-log-searched-settings = Đã tìm kiếm cài đặt
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = Đã hoàn thành { $count } bước
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Đã chọn mô hình cho tác vụ: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Đang lựa chọn mô hình tốt nhất
 
 ## Assistant Loader
 

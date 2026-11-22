@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = Chấm
 user-context-icon-fence =
     .label = Hàng rào
+user-context-icon-robot =
+    .label = Robot

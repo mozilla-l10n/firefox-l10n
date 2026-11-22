@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = VPN đang kết nối…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Tắt
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = Băng thông không giới hạn đến hết { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Băng thông không giới hạn
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -211,6 +218,12 @@ ipprotection-locations-subview-promo =
     .heading = Tăng cường bảo mật với { -mozilla-vpn-brand-name }
     .message = Chọn từ hơn 300 địa điểm và bảo vệ tất cả ứng dụng của bạn trên tối đa 5 thiết bị.
 ipprotection-locations-subview-promo-button = Nhận { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Nhiều địa điểm hơn. Bảo vệ tốt hơn.
+    .message = Đặt { -brand-short-name } làm mặc định và nhận thêm { $count } địa điểm. Liên kết của bạn sẽ mở tại đây, nơi VPN được tích hợp sẵn.
+ipprotection-locations-subview-set-default-promo-button = Mở liên kết bằng { -brand-short-name }
 
 ## VPN paused state
 
@@ -247,6 +260,11 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Sắp đạt đến giới hạn VPN của bạn
     .message = Bạn còn { $usageLeft } MB dữ liệu của { $maxUsage } GB tháng này.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading = Bạn có thêm { $additionalLocationsCount } địa điểm trong VPN
+    .message = Cảm ơn bạn đã chọn { -brand-short-name } làm mặc định. Chúng tôi đã thêm nhiều địa điểm hơn để bạn có thể duyệt.
 ipprotection-message-continuous-onboarding-intro = Bật VPN để ẩn vị trí của bạn và tăng cường mã hóa cho hoạt động duyệt web.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Đặt VPN để bật</a> mỗi khi bạn mở { -brand-short-name } để có thêm một lớp bảo vệ.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } sẽ ghi nhớ những trang web bạn đã thiết lập để sử dụng VPN. Cập nhật các thiết lập này trong <a data-l10n-name="setting-link">cài đặt</a> bất cứ lúc nào.

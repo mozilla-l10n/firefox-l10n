@@ -272,6 +272,9 @@ colorway-removal-notice-button = Nhận chủ đề phối màu được cập n
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Cài đặt độ tương phản của Windows của bạn đang ghi đè chủ đề { -brand-short-name }. Tắt các cài đặt này để sử dụng chủ đề trong { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } có sẵn các chủ đề sáng và tối tích hợp, tự động thay đổi theo cài đặt hệ thống của bạn.
 privacy-policy = Chính sách riêng tư
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

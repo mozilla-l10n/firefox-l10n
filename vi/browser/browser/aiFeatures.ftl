@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Hãy chọn một mô hình dựa trên những gì quan trọng đối với bạn.
     .label = Mô hình của trợ lý
+smart-window-model-section-v2 =
+    .description = Mô hình là yếu tố tạo nên sức mạnh cho các cuộc trò chuyện và hành động.
+    .label = Mô hình
 smart-window-model-radio-group =
     .aria-label = Mô hình của trợ lý
 smart-window-model-learn-link = Tìm hiểu thêm về mô hình
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } chọn mô hình phù hợp nhất cho tác vụ của bạn
+    .label = Mô hình tự động
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -97,3 +103,12 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Được xây dựng để hỗ trợ cá nhân hóa trên nhiều ngôn ngữ. Tên đầy đủ: { $model } bởi { $ownerName }
     .label = { $shortName }: Cá nhân hoá
+smart-window-model-qwen =
+    .description = Sẵn sàng cho nhiều tác vụ khác nhau. Tên đầy đủ: { $model } bởi { $ownerName }
+    .label = { $shortName }
+smart-window-model-mistral =
+    .description = Sẽ tốt nếu bạn trò chuyện và duyệt web bằng nhiều ngôn ngữ. Tên đầy đủ: { $model } bởi { $ownerName }
+    .label = { $shortName }
+smart-window-model-gemini =
+    .description = Câu trả lời nhanh khi bạn đang di chuyển nhanh. Tên đầy đủ: { $model } bởi { $ownerName }
+    .label = { $shortName }
