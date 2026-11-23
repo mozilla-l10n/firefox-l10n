@@ -133,6 +133,17 @@ windows-10-eos-sync-callout-primary-advance-button-label = بئڌی
 
 link-preview-onboarding-callout-title = نۊ: سی پؽش نشووݩ لینگا کلیک کۊنین وو واڌارنین
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = وورکل بونکۊ
+
 ## Sidebar Strings
 
 sidebar-deprecation-cta-button = هیم سکو امتهووݩ کوݩ
