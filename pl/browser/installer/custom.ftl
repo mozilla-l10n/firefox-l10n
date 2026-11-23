@@ -46,7 +46,7 @@ launch-text = Uruchom program { $BrandShortName }
 create-icons-desc = Utwórz ikony dla programu { $BrandShortName }:
 icons-desktop = na pulpicie
     .accesskey = p
-icons-startmenu = w folderze Programy menu Start
+icons-startmenu = w menu Start
     .accesskey = S
 icons-taskbar = na pasku zadań
     .accesskey = z
@@ -65,19 +65,19 @@ warn-manually-close-app-refresh =
 warn-write-access =
     Nie masz uprawnień do zapisu w katalogu instalacyjnym.
     
-    Naciśnij OK i wybierz inny katalog.
+    Kliknij przycisk OK i wybierz inny katalog.
 warn-disk-space =
-    W wybranej lokalizacji nie ma wystarczająco wiele miejsca, by dokonać instalacji.
+    W wybranej lokalizacji nie ma wystarczająco wiele miejsca, by dokonać instalacji.
     
-    Naciśnij OK i wybierz inną lokalizację.
-warn-min-supported-osver-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego. Kliknij OK, by uzyskać dodatkowe informacje.
-warn-min-supported-cpu-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga procesora z obsługą { $MinSupportedCPU }. Kliknij OK, by uzyskać dodatkowe informacje.
-warn-min-supported-osver-cpu-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego oraz procesora z obsługą { $MinSupportedCPU }. Kliknij OK, by uzyskać dodatkowe informacje.
+    Kliknij przycisk OK i wybierz inną lokalizację.
+warn-min-supported-osver-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego. Kliknij przycisk OK, by uzyskać dodatkowe informacje.
+warn-min-supported-cpu-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, by uzyskać dodatkowe informacje.
+warn-min-supported-osver-cpu-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego oraz procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, by uzyskać dodatkowe informacje.
 warn-restart-required-uninstall = Aby dokończyć poprzednią dezinstalację programu { $BrandShortName }, konieczne jest ponowne uruchomienie komputera. Czy uruchomić go teraz ponownie?
 warn-restart-required-upgrade = Aby dokończyć poprzednią aktualizację programu { $BrandShortName }, konieczne jest ponowne uruchomienie komputera. Czy uruchomić go teraz ponownie?
 error-create-directory-prefix = Błąd podczas tworzenia katalogu:
 error-create-directory-suffix =
-    Wybierz Anuluj, aby przerwać instalację lub
+    Kliknij Anuluj, aby przerwać instalację lub
     Ponów, aby spróbować ponownie.
 un-confirm-page-title = Dezinstalacja programu { $BrandFullName }
 un-confirm-uninstalled-from = Program { $BrandShortName } zostanie usunięty z:
@@ -96,7 +96,7 @@ status-uninstall-main = Dezinstalacja programu { $BrandShortName }…
 status-cleanup = Porządkowanie…
 un-survey-checkbox-label = Chcę przekazać organizacji Mozilla, dlaczego usuwam program { $BrandShortName }
 # This string should fit in one line (approximately 65 characters).
-options-summary = Wybierz preferowany rodzaj instalacji i naciśnij Dalej.
+options-summary = Wybierz preferowany rodzaj instalacji i kliknij przycisk Dalej.
 # This string should fit in one line (approximately 65 characters).
 option-standard-desc = Program { $BrandShortName } zostanie zainstalowany z najbardziej typowymi opcjami.
 option-standard-radio = Standardowa
