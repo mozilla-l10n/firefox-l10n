@@ -358,6 +358,8 @@ website-language-heading =
     .label = Език на уебсайта
 website-preferred-language =
     .label = Предпочитани езици
+website-language-list =
+    .aria-label = Предпочитани езици
 website-add-language =
     .label = Добавяне на език
 website-add-language-button =
@@ -811,6 +813,13 @@ home-homepage-new-tabs =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Изберете конкретен сайт
+home-custom-homepage-address =
+    .placeholder = Въведете адрес
+home-custom-homepage-address-button =
+    .label = Добавете адрес
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Отметки…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
@@ -1167,6 +1176,14 @@ sync-engine-passwords =
     .label = Пароли
     .tooltiptext = Паролите, които сте запазили
     .accesskey = П
+sync-engine-addresses2 =
+    .label = Адреси
+    .tooltiptext = Адресите, които сте запазили в { -brand-short-name }
+    .accesskey = А
+sync-engine-settings2 =
+    .label = Настройки
+    .tooltiptext = { -brand-short-name } настройки, където е приложимо
+    .accesskey = Н
 sync-engine-addresses =
     .label = Адреси
     .tooltiptext = Запазени адреси (само от настолния)
@@ -1397,10 +1414,17 @@ addresses-no-addresses-stored-message =
     .label = Няма добавени адреси
 autofill-personal-info-manage-button =
     .label = Управление на личната информация
+passports-list-header =
+    .label = Паспорти
 passports-delete-passport-button-label =
     .aria-label = Изтриване
+passports-edit-passport-button-label =
+    .aria-label = Редактиране
 passports-delete-passport-prompt-title = Изтриване на този паспорт?
 passports-delete-passport-prompt-confirm-button = Изтриване
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Няма добавени паспорти
 pane-passwords-autofill-title2 = Пароли и автоматично попълване
     .title = Пароли и автоматично попълване
 preferences-passwords-autofill-header =
@@ -1412,6 +1436,26 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } е запазен
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } записан
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
@@ -1746,6 +1790,10 @@ permissions-addon-exceptions2 =
 permissions-allow-app-links =
     .label = Разрешаване на сайтовете да поискат отваряне на връзки в приложения
     .accesskey = Р
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Управление на блокирани сайтове
+    .accesskey = У
 permissions-location2 =
     .label = Местоположение
 permissions-localhost2 =
@@ -1776,6 +1824,10 @@ notifications-section-header =
 # state, shown when the list has rows.
 notifications-list-header =
     .label = Уебсайт
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Винаги
 # Read-only state shown on each row of the website notifications list, in the
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
@@ -2122,7 +2174,7 @@ preferences-ai-controls-state-enabled =
     .label = Включен
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
-    .label = Забранен
+    .label = Блокирано
 preferences-ai-controls-state-description-before = Какво означават настройките:
 preferences-ai-controls-state-description-available = <strong>Наличнo:</strong> Ще видите функцията и можете да я използвате.
 preferences-ai-controls-state-description-enabled = <strong>Включено:</strong> Избрали сте да използвате тази функция.
