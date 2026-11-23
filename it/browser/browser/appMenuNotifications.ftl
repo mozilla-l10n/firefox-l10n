@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Accedi alle schede nascoste
     .secondarybuttonlabel = Disattiva estensione
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = La pagina visualizzata quando si apre una nuova scheda è stata modificata da un’estensione (<img data-l10n-name="addon-icon"/> { $addonName }).
+appmenu-homepage-controlled-message = Il contenuto visualizzato nella pagina iniziale e quando si aprono nuove finestre è stato modificato da un’estensione (<img data-l10n-name="addon-icon"/> { $addonName }).
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Alcune schede sono state nascoste da un’estensione (<img data-l10n-name="addon-icon"/> { $addonName }). È possibile accedere a tutte le schede utilizzando <img data-l10n-name="all-tabs-icon"/>.
