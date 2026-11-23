@@ -114,6 +114,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } lyp grumbu
 
 webext-site-perms-header-with-gated-perms-midi = Kjo shtesë i lejon { $hostname } të hyjë në pajisjet tuaja MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Kjo shtesë i lejon { $hostname } hyrje te pajisjet tuaja MIDI (me mbulim për SysEx).
+webext-site-perms-header-with-gated-perms-serial = Kjo shtesë i lejon { $hostname } hyrje te pajisjet tuaja seriale.
 
 ##
 
