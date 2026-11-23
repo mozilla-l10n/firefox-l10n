@@ -59,7 +59,7 @@ nsis-file-error =
     
     { $FilePath }
     
-    Fare clic su Annulla per terminare l’installazione,
+    Fare clic su Interrompi per terminare l’installazione,
     Riprova per ritentare o
     Ignora per saltare il file.
 nsis-file-error-no-ignore =
