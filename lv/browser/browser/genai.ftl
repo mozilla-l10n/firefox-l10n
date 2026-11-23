@@ -42,8 +42,8 @@ genai-prompts-explain =
     .value = Lūdzu, paskaidrojiet galvenos jēdzienus šajā atlasē, izmantojot vienkāršus vārdus. Izmantojiet arī piemērus.
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
-    .label = Korektūra
-    .value = Lūdzu, pārbaudiet atlasīto tekstu, lai pārliecinātos, ka tajā nav pareizrakstības un gramatikas kļūdu. Atrodiet visas kļūdas un iesniedziet labotu teksta versiju. Saglabājiet teksta nozīmi un faktuālo precizitāti un vispirms iesniedziet ierosināto labojumu sarakstu, pēc tam — teksta galīgo, laboto versiju.
+    .label = Pārlasīšana
+    .value = Lūgums pārlasīt atlasīto tekstu, lai pārliecinātos, ka tajā nav pareizrakstības un gramatikas kļūdu. Jāmeklē jebkādas kļūdas un jāpiedāvā labota teksta versija. Jāsaglabā nozīme un faktiskā pareizība, un vispirms jāizvada ierosināto labojumu saraksts, pēc tam — teksta galīgo, laboto versiju.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text

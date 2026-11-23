@@ -8,7 +8,7 @@
 xslt-parse-failure = Neizdevās XSLT stila lapas analizēšana.
 xpath-parse-failure = Neizdevās XPath izteiksmes analizēšana.
 xslt-execution-failure = Neizdevās XSLT transformācija.
-xpath-unknown-function = Nekorekta XSLT/XPath funkcija.
+xpath-unknown-function = Nederīga XSLT/XPath funkcija.
 xslt-bad-recursion = XSLT stila lapa (iespējams) satur rekursiju.
 xslt-bad-value = Nederīga XSLT 1.0 atribūta vērtība.
 xslt-nodeset-expected = XPath izteiksmei ir jāatgriež NodeSet.
@@ -16,7 +16,7 @@ xslt-aborted = XSLT transformācija izbeidzās ar <xsl:message>.
 xslt-network-error = Radās tīkla kļūda, lādējot XSLT stila lapu:
 xslt-wrong-mime-type = XSLT stila lapai MIME veids nav XML:
 xslt-load-recursion = XSLT stila lapa tieši vai netieši importē vai ietver sevi:
-xpath-bad-argument-count = XPath funkcija tika izsaukta ar nekorektu argumentu skaitu.
+xpath-bad-argument-count = XPath funkcija tika izsaukta ar nepareizu argumentu skaitu.
 xpath-bad-extension-function = Tika izsaukta nezināma XPath paplašinājuma funkcija.
 xpath-paren-expected = XPath analīzes kļūme: gaidīts ')':
 xpath-invalid-axis = XPath analīzes kļūme: nekorekta ass:
