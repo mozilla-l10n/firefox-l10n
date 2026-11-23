@@ -40,8 +40,8 @@ fxa-menu-send-to-mobile =
            *[other] Nosūtīt { $tabCount } cilnes uz mobilo tālruni
         }
 fxa-menu-send-to-mobile-device-missing2 = Neredzat savu ierīci?
-fxviewtabrow-send-to-mobile-not-verified = Konts nav verificēts
-fxviewtabrow-send-to-mobile-verify-account = Verificē savu kontu
+fxviewtabrow-send-to-mobile-not-verified = Konts nav apliecināts
+fxviewtabrow-send-to-mobile-verify-account = Apliecini savu kontu
 fxa-menu-send-to-mobile-turn-on-sync = Ieslēdziet vienādošanu, lai nosūtītu cilnes
 fxa-menu-send-to-mobile-connect-device = Pievienojiet ierīci, lai nosūtītu cilnes
 # This is shown dynamically within "Send tab to device" in fxa menu.

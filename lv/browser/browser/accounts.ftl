@@ -28,7 +28,7 @@ account-manage-devices-titlecase = Pārvaldīt ierīces…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Konts nav pārbaudīts
-account-send-tab-to-device-verify2 = Verificē savu kontu
+account-send-tab-to-device-verify2 = Apliecini savu kontu
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

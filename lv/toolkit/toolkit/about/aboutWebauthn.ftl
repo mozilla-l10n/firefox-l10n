@@ -93,7 +93,7 @@ about-webauthn-update-button = Atjaunināt
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
-about-webauthn-auth-option-uv = Lietotāja verifikācija
+about-webauthn-auth-option-uv = Lietotāja apliecināšana
 about-webauthn-auth-option-up = Lietotāja klātbūtne
 about-webauthn-auth-option-clientpin = Klienta PIN kods
 about-webauthn-auth-option-rk = Iedzīvotāja atslēga
@@ -114,8 +114,8 @@ about-webauthn-auth-option-credmgmt = Akreditācijas datu pārvaldība
 about-webauthn-auth-option-credentialmgmtpreview = Prototipa akreditācijas pārvaldība
 about-webauthn-auth-option-setminpinlength = Iestatiet minimālo PIN garumu
 # MakeCredential should not be translated.
-about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez lietotāja verifikācijas
-about-webauthn-auth-option-alwaysuv = Vienmēr pieprasīt lietotāja verifikāciju
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez lietotāja apliecināšanas
+about-webauthn-auth-option-alwaysuv = Vienmēr pieprasīt lietotāja apliecināšanu
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Patiesi
 # Shows when boolean value of an option is False. False should not be translated.
@@ -129,7 +129,7 @@ about-webauthn-auth-option-null = Nav atbalstīts
 about-webauthn-auth-info-vendor-prototype-config-commands = Pārdevēja prototipa konfigurācijas komandas
 about-webauthn-auth-info-remaining-discoverable-credentials = Atlikušie atklājamie akreditācijas dati
 about-webauthn-auth-info-certifications = Sertifikāti
-about-webauthn-auth-info-uv-modality = Lietotāja verifikācijas metode
+about-webauthn-auth-info-uv-modality = Lietotāja apliecināšanas modalitāte
 about-webauthn-auth-info-preferred-platform-uv-attempts = Vēlamie platformas lietotāja verifikācijas mēģinājumi
 about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksimālais uzticamo pušu ID minimālajam PIN garumam
 about-webauthn-auth-info-max-cred-blob-length = Maksimālais akreditācijas datu bloba garums
