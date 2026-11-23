@@ -146,6 +146,7 @@ tab-groups-2026-onboarding-cta-button = وورکل بونکۊ
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = نشووݩ داڌن عونوان بلگه یل من نوار کلی
 sidebar-deprecation-cta-button = هیم سکو امتهووݩ کوݩ
 
 ## Sidebar Vertical Tabs Strings

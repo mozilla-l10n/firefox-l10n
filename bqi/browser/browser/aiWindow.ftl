@@ -358,6 +358,7 @@ aiwindow-starter-dismiss =
 smartwindow-onboarding-model-auto = خوتکار
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = پؽشنهاڌ وابیڌه
+smartwindow-onboarding-model-gemini-description = جواوا زی، مجالی ک عجله دارین
 smartwindow-onboarding-memories-both = چتا وو وب گشتی
 smartwindow-onboarding-memories-browsing = تینا گشتن
 smartwindow-onboarding-memories-chats = تینا چتا
