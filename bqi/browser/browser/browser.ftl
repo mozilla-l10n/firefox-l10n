@@ -1225,11 +1225,17 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = فعال کردن DRM
+    .accesskey = ف
 decoder-doctor-no-codecs-linux-message = سی پشک ویدیو، گاشڌ لازوم بۊ کودکا ویدیویی لازوم ن بپۊرنین.
 decoder-doctor-no-hw-acceleration-message = سی وارو رئڌن کیفیت ویدیو، گاشڌ لازوم بۊ Media Feature Pack مایکروسافت ن بپۊرنین.
 decoder-doctor-no-pulse-audio-message = سی پشک ویدیو، گاشڌ لازوم بۊ برنومه PulseAudio ن بپۊرنین.
 decoder-doctor-unsupported-libavcodec-message = libavcodec گاشڌ خترناک بۊ یا دی لادراری نبۊوه، وو وا و پشک کوننده ویدیو ورۊ بۊ.
 decoder-doctor-learn-how-link = قلوه دووسته بۊین
+decoder-doctor-report-issue-button =
+    .label = موشکل وبگه اینترنتی ن گزارش کۊنین
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = وردنی { $pluginName } خراو وابیڌه.
@@ -1242,6 +1248,9 @@ plugin-crashed-notification-submit-button =
 
 ## Notification bar shown after the user chooses to visit a site flagged by Safe Browsing
 
+safebrowsing-deceptive-site-message = وبگه بلا کوننده!
+safebrowsing-reported-unwanted-site-message = وبگه نرم ٱفزاری نخاسته گوزارش وابیڌه
+safebrowsing-reported-harmful-site-message = وبگه یل موزرِ گوزارش وابیڌه!
 safebrowsing-not-a-deceptive-site-button =
     .label = یو ی وبگه بلا کوننده نؽ…
     .accesskey = ب
