@@ -525,9 +525,9 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Połączenie z tą witryną nie jest zabezpieczone.
 identity-connection-verified = Połączenie z tą witryną jest zabezpieczone.
 identity-ev-owner-label2 = Certyfikat wystawiony dla:
-identity-verifier-label2 = Zweryfikowana przez:
+identity-verifier-label2 = Zweryfikowane przez:
 identity-ev-owner-label = Certyfikat wystawiony dla:
-identity-verifier-label = Zweryfikowana przez:
+identity-verifier-label = Zweryfikowane przez:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kwalifikowany w rozumieniu rozporządzenia (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nie rozpoznaje tego wystawcy certyfikatu. Mógł zostać dodany przez system operacyjny lub administratora.
