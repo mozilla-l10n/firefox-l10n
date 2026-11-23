@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Gean nei ljepblêd 8
 customkeys-nav-select-last-tab = Gean nei lêste ljepblêd
 customkeys-nav-toggle-mute = Lûd dempe/ûndempe
 customkeys-edit-find-previous = Foargeande sykje
+customkeys-edit-find-selection = Seleksje brûke foar sykjen
 customkeys-tools-screenshot = Skermôfdruk meitsje
 customkeys-category-navigation-2 =
     .heading = Navigaasje

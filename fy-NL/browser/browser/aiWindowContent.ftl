@@ -225,6 +225,12 @@ action-log-completed-steps =
         [one] 1 stap foltôge
        *[other] { $count } stappen foltôge
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Keazen model foar taak: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Bêste model kieze
 
 ## Assistant Loader
 

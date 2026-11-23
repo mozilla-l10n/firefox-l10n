@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Fluch
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Persoanlik
 aiwindow-input-model-select-button-label-custom = Oanpast
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatysk
 aiwindow-input-model-select-default-badge =
     .label = Standert
     .title = It selektearre standertmodel
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Oanrekommandearre
+    .title = It oanrekommandearre model
 aiwindow-input-model-select-settings-link = Modelynstellingen
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } kiest it bêste model foar jo taak
+aiwindow-input-model-select-fast-description = Flugge antwurden as jo fluch foarút wolle
+aiwindow-input-model-select-flexible-description = Klear foar in breed skala oan taken
+aiwindow-input-model-select-personal-description = Goed as jo yn meardere talen chatte en sneupe
 
 ## Firstrun memories onboarding
 
