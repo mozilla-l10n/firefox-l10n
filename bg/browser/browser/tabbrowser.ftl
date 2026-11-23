@@ -230,8 +230,8 @@ tab-context-move-tab-to-new-group =
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
-            [one] Добавяне на раздели към група
-           *[other] Добавяне на раздели към група
+            [one] Добавяне на раздела към група
+           *[other] Добавяне на разделите към група
         }
     .accesskey = г
 tab-context-move-tab-to-group-saved-groups =
