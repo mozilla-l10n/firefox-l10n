@@ -36,7 +36,7 @@ maintenance-service-checkbox-desc = Zainstaluj usługę utrzymania
     .accesskey = u
 summary-page-title = Podsumowanie
 summary-page-subtitle = Można już rozpocząć instalację programu { $BrandShortName }
-summary-installed-to = { $BrandShortName } zostanie zainstalowany w poniższym katalogu:
+summary-installed-to = { $BrandShortName } zostanie zainstalowany w tym miejscu:
 summary-reboot-required-install = Aby dokończyć instalację programu, może być wymagane ponowne uruchomienie komputera.
 summary-reboot-required-uninstall = Aby dokończyć dezinstalację programu, może być wymagane ponowne uruchomienie komputera.
 summary-install-click = Aby kontynuować, kliknij przycisk Zainstaluj.
@@ -63,7 +63,7 @@ warn-manually-close-app-refresh =
     
     Zamknij program { $BrandShortName }, aby kontynuować.
 warn-write-access =
-    Nie masz uprawnień do zapisu w katalogu instalacyjnym.
+    Brak uprawnień do zapisu w katalogu instalacyjnym.
     
     Kliknij przycisk OK i wybierz inny katalog.
 warn-disk-space =

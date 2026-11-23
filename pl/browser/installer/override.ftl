@@ -40,35 +40,35 @@ nsis-browse-btn = Przeglądaj…
     .accesskey = g
 nsis-show-details-btn = Wyświetl szczegóły
     .accesskey = s
-nsis-click-next = Naciśnij Dalej, by kontynuować.
-nsis-click-install = Naciśnij Zainstaluj, by rozpocząć instalację.
-nsis-click-uninstall = Naciśnij Odinstaluj, by rozpocząć dezinstalację.
+nsis-click-next = Kliknij przycisk Dalej, aby kontynuować.
+nsis-click-install = Kliknij przycisk Zainstaluj, aby rozpocząć instalację.
+nsis-click-uninstall = Kliknij przycisk Odinstaluj, aby rozpocząć dezinstalację.
 nsis-completed = Ukończono
 nsis-license-text-rb = Przed kontynuowaniem instalacji programu { $BrandFullNameDA } należy zapoznać się z warunkami umowy licencyjnej. Jeśli akceptujesz wszystkie warunki umowy, zaznacz pierwszą opcję poniżej. { $ClickInstructions }
-nsis-components-text = Zaznacz komponenty, które chcesz zainstalować, i odznacz te, których nie chcesz. { $ClickInstructions }
-nsis-components-sub-text2-no-inst-types = Zaznacz komponenty, które chcesz zainstalować:
-nsis-dir-text = Program { $BrandFullNameDA } zostanie zainstalowany w poniższym folderze. Aby zainstalować go w innym, naciśnij Przeglądaj i wskaż odpowiedni folder. { $ClickInstructions }
+nsis-components-text = Zaznacz komponenty, które mają zostać zainstalowane, i odznacz te, które nie mają zostać zainstalowane. { $ClickInstructions }
+nsis-components-sub-text2-no-inst-types = Zaznacz komponenty, które mają zostać zainstalowane:
+nsis-dir-text = { $BrandFullNameDA } zostanie zainstalowany w poniższym folderze. Aby zainstalować go w innym, kliknij przycisk Przeglądaj i wskaż odpowiedni folder. { $ClickInstructions }
 nsis-dir-sub-text = Folder docelowy
 nsis-dir-browse-text = Wybierz folder dla instalacji programu { $BrandFullNameDA }:
 nsis-space-available = Dostępne miejsce:{ " " }
 nsis-space-required = Wymagane miejsce:{ " " }
-nsis-uninstalling-text = Program { $BrandFullNameDA } zostanie odinstalowany z poniższego folderu. { $ClickInstructions }
+nsis-uninstalling-text = { $BrandFullNameDA } zostanie odinstalowany z poniższego folderu. { $ClickInstructions }
 nsis-uninstalling-sub-text = Dezinstalacja z:
 nsis-file-error =
     Błąd podczas otwierania pliku do zapisu:
     
     { $FilePath }
     
-    Naciśnij "Przerwij", by zakończyć instalację,
-    "Ponów próbę", by spróbować ponownie,
-    albo "Zignoruj", by pominąć ten plik.
+    Kliknij przycisk Przerwij, aby zakończyć instalację,
+    przycisk Ponów próbę, aby spróbować ponownie,
+    albo przycisk Zignoruj, aby pominąć ten plik.
 nsis-file-error-no-ignore =
     Błąd podczas otwierania pliku do zapisu:
     
     { $FilePath }
     
-    Naciśnij "Ponów próbę", by spróbować ponownie,
-    lub "Anuluj", by zakończyć instalację.
+    Kliknij przycisk Ponów próbę, aby spróbować ponownie,
+    lub przycisk Anuluj, aby zakończyć instalację.
 nsis-cant-write = Nie można zapisać:{ " " }
 nsis-copy-failed = Kopiowanie się nie powiodło
 nsis-copy-to = Kopiuj do{ " " }
@@ -80,10 +80,10 @@ nsis-create-folder = Utwórz folder:{ " " }
 nsis-create-shortcut = Utwórz skrót:{ " " }
 nsis-created-uninstaller = Utworzono dezinstalator:{ " " }
 nsis-delete = Usuń plik:{ " " }
-nsis-delete-on-reboot = Usuń przy restarcie:{ " " }
+nsis-delete-on-reboot = Usuń po ponownym uruchomieniu:{ " " }
 nsis-error-creating-shortcut = Błąd podczas tworzenia skrótu:{ " " }
 nsis-error-creating = Błąd podczas tworzenia:{ " " }
-nsis-error-decompressing = Błąd podczas dekompresji danych! Uszkodzony instalator?
+nsis-error-decompressing = Błąd podczas dekompresji danych. Instalator może być uszkodzony.
 nsis-error-registering = Błąd podczas rejestracji DLL
 nsis-exec-shell = ExecShell:{ " " }
 nsis-exec = Wykonaj:{ " " }
@@ -93,7 +93,7 @@ nsis-invalid-opcode = Instalator uszkodzony: nieprawidłowy opcode
 nsis-no-ole = Brak OLE dla:{ " " }
 nsis-output-folder = Folder wyjściowy:{ " " }
 nsis-remove-folder = Usuń folder:{ " " }
-nsis-rename-on-reboot = Zmień nazwę przy restarcie:{ " " }
+nsis-rename-on-reboot = Zmień nazwę po ponownym uruchomieniu:{ " " }
 nsis-rename = Zmień nazwę:{ " " }
 nsis-skipped = Pominięto:{ " " }
 nsis-copy-details = Skopiuj szczegóły do schowka
