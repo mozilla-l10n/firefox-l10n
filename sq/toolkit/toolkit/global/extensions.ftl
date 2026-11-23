@@ -60,6 +60,7 @@ webext-perms-optional-perms-deny =
     .label = Mos e lejo
     .accesskey = M
 webext-perms-host-description-all-urls = Të hyjë në të dhënat tuaja për krejt sajtet
+webext-perms-host-description-file-urls = Të hyjë në kartela vendore në kompjuterin tuaj
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Të hyjë në të dhënat tuaja për sajte të përkatësisë { $domain }
@@ -125,6 +126,12 @@ webext-site-perms-description-gated-perms-midi =
     Zakonisht këto janë pajisje që lidhen, bie fjala, sintetizatorë audio, por mundet edhe të jetë krijuar brenda kompjuterit tuaj.
     
     Sajtet, normalisht, nuk lejohen të përdorin pajisje MIDI. Përdorimi jo si duhet mund të shkaktojë dëme, ose të komprometojë sigurinë.
+webext-site-perms-description-gated-perms-webserial =
+    Këto janë pajisje të tilla si mikrokontrollorë, shtypës 3D dhe pajisje të tjera që lidhen përmes USB-je, portash seriale, ose Bluetooth.
+    
+    Do të jeni në gjendje të zgjidhni në cilat pajisje mund të hyjë sajti.
+    
+    Sajteve zakonisht s’u lejohet të hyjnë në pajisje seriale. Përdorimi jo si duhet mund të shkaktojë dëme, ose të komprometojë sigurinë.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -139,6 +146,7 @@ webext-site-perms-header-unsigned-with-perms = Të shtohet { $extension }? Ky zg
 
 webext-site-perms-midi = Të përdorë pajisje MIDI
 webext-site-perms-midi-sysex = Të përdorë pajisje MIDI me Mbulim për SysEx
+webext-site-perms-serial = Të hyjë në pajisje seriale
 
 ## Colorway theme migration
 
