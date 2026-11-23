@@ -187,6 +187,15 @@ ip-protection-site-exceptions-all-sites-button =
     .label = دؽوۉداری سامووا وبگه
 ip-protection-site-rules-header-1 =
     .heading = دؽوۉداری قانووا VPN
+ip-protection-site-rules-add-button =
+    .label = سامووݩ قانووݩ
+ip-protection-site-rules-delete-all-button =
+    .label = پاک کردن پوی قانووا
+ip-protection-site-rules-empty = قانووایی ک انین ایچو نشووݩ داڌه ابۊن.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN هی رۊشن
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN هی کۊر
 ip-protection-autostart =
     .label = رۊشن کردن خوتکار VPN
 ip-protection-autostart-checkbox =
