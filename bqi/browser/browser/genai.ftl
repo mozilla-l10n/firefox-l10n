@@ -137,6 +137,8 @@ link-preview-settings-button =
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = پورس کردن ز { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = پۊرسیڌن ز هۊش مسنۊعی
 # Checkbox label for one of the actions in the menu that appears when selecting
 # text on a page. "Search" is a verb: the action searches the selected text
 # with the default search engine.
