@@ -60,7 +60,7 @@ credit-card-label-number-name-expiration-2 = { $number }, { $name }, { credit-ca
 #   $securityCode (String): The name of the card's security code, which depends
 #     on the card network (for example "CVV")
 credit-card-label-with-security-code-3 = { $label } | { $securityCode } enregistré
-    .aria-label = { $ariaLabel }, { $securityCode } économisés
+    .aria-label = { $ariaLabel }, { $securityCode } enregistré
 # Wraps one of the credit-card-label-* strings above to note that a security
 # code is saved alongside the card. Only the presence of a saved security code
 # is ever shown, never the code itself.
