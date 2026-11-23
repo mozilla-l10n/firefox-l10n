@@ -93,7 +93,7 @@ add-engine-missing-terms-post-data = Mēģiniet meklēšanas termina vietā iek�
 add-engine-dialog2 =
     .buttonlabelaccept = Pievienot meklētāju
     .buttonlabelextra1 = Papildu
-    .buttonaccesskeyaccept = A
+    .buttonaccesskeyaccept = P
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
