@@ -69,7 +69,7 @@ warn-write-access =
 warn-disk-space =
     W wybranym położeniu jest za mało miejsca, aby dokonać instalacji.
     
-    Kliknij przycisk OK i wybierz inną położenie.
+    Kliknij przycisk OK i wybierz inne położenie.
 warn-min-supported-osver-msg = Przepraszamy, { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego. Kliknij przycisk OK, aby uzyskać dodatkowe informacje.
 warn-min-supported-cpu-msg = Przepraszamy, { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, aby uzyskać dodatkowe informacje.
 warn-min-supported-osver-cpu-msg = Przepraszamy, { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego oraz procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, aby uzyskać dodatkowe informacje.
