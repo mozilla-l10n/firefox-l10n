@@ -96,9 +96,12 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-button = ی چت بات پسند کۊنین
+genai-chatbot-summarize-title = نۊ! خولاسه کردن بلگه یل تینا وا ی کیلیک
 genai-chatbot-summarize-button = خولاسه بلگه
 
 ## Model Optin Component
