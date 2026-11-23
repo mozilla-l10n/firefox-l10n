@@ -792,9 +792,9 @@ pdfjs-digital-signature-properties-banner-revoked =
 ## untrusted/expired/revoked, but that's surfaced on the cert row
 ## below), or it failed, or its sub-format isn't supported.
 
-pdfjs-digital-signature-properties-status-verified = Statuss: Paraksts verificēts
+pdfjs-digital-signature-properties-status-verified = Stāvoklis: paraksts apliecināts
 pdfjs-digital-signature-properties-status-invalid = Statuss: Paraksts nederīgs
-pdfjs-digital-signature-properties-status-unknown = Statuss: Nevar verificēt (neatbalstīts)
+pdfjs-digital-signature-properties-status-unknown = Stāvoklis: nevar apliecināt (neatbalstīts)
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.

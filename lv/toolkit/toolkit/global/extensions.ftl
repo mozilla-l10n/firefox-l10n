@@ -141,7 +141,7 @@ webext-site-perms-description-gated-perms-webserial =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Pievienot { $extension }? Šis paplašinājums nodrošina { $hostname } šādas spējas:
-webext-site-perms-header-unsigned-with-perms = Vai pievienot { $extension }? Šis paplašinājums nav verificēts. Ļaunprātīgi paplašinājumi var nozagt jūsu privāto informāciju vai apdraudēt jūsu datoru. Pievienojiet to tikai tad, ja uzticaties avotam. Šis paplašinājums piešķir { $hostname } šādas iespējas:
+webext-site-perms-header-unsigned-with-perms = Vai pievienot { $extension }? Šis paplašinājums nav apliecināts. Ļaunprātīgi paplašinājumi var nozagt privātu informāciju vai apdraudēt datoru. Pievieno to tikai tad, ja uzticies avotam! Šis paplašinājums piešķir { $hostname } šādas spējas:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 

@@ -22,9 +22,9 @@ webauthn-specific-passkey-label = { $domain } piekļuves atslēga
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
     { $retriesLeft ->
-        [zero] Lietotāja verifikācija neizdevās. Jums ir atlicis { $retriesLeft } mēģinājums. Mēģini vēlreiz.
-        [one] Lietotāja verifikācija neizdevās. Jums ir atlikuši { $retriesLeft } mēģinājumi. Mēģini vēlreiz.
-       *[other] Lietotāja verifikācija neizdevās. Jums ir atlikuši { $retriesLeft } mēģinājumu. Mēģini vēlreiz.
+        [zero] Lietotāja apliecināšana neizdevās. Atlikuši { $retriesLeft } mēģinājumi. Mēģini vēlreiz!
+        [one] Lietotāja apliecināšana neizdevās. Atlicis { $retriesLeft } mēģinājums. Mēģini vēlreiz!
+       *[other] Lietotāja apliecināšana neizdevās. Atlikuši { $retriesLeft } mēģinājumu. Mēģini vēlreiz!
     }
 webauthn-uv-invalid-short-prompt = Lietotāja apliecināšana neizdevās. jāmēģina vēlreiz.
 
@@ -59,7 +59,7 @@ webauthn-device-blocked-prompt = { $hostname } lietotāja apliecināšana neizde
 webauthn-pin-auth-blocked-prompt = { $hostname } lietotāja apliecināšana neizdevās. Bija pārāk daudz secīgu neizdevušos mēģinājumu, un autentificēšanās ar PIN ir īslaicīgi liegta. Ierīce ir jāatvieno un tad atkal jāpievieno.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-pin-not-set-prompt = { $hostname } lietotāja verifikācija neizdevās. Iespējams, ierīcē būs jāiestata PIN.
+webauthn-pin-not-set-prompt = Lietotāja apliecināšana { $hostname } neizdevās. Var būt nepieciešams ierīcē iestatīt PIN.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-uv-blocked-prompt = { $hostname } lietotāja apliecināšana neizdevās. Bija pārāk daudz nesekmīgu mēģinājumu, un iebūvētais lietotāja apliecināšanas veids tika liegts.

@@ -357,7 +357,7 @@ aiwindow-ai-chat-grid-grid-view =
 
 aiwindow-starter-writing-first-draft = Uzrakstiet pirmo melnrakstu
 aiwindow-starter-writing-improve = Uzlabot rakstīšanu
-aiwindow-starter-writing-proofread = Ziņojuma korektūra
+aiwindow-starter-writing-proofread = Pārlasīt ziņojumu, lai atrastu un novērstu nepilnības.
 aiwindow-starter-planning-simplify = Vienkāršojiet tēmu
 aiwindow-starter-planning-brainstorm = Ideju ģenerēšana
 aiwindow-starter-planning-plan = Palīdziet izstrādāt plānu
