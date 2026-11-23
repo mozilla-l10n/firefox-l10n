@@ -36,7 +36,7 @@ maintenance-service-checkbox-desc = Zainstaluj usługę utrzymania
     .accesskey = u
 summary-page-title = Podsumowanie
 summary-page-subtitle = Można już rozpocząć instalację programu { $BrandShortName }
-summary-installed-to = Program { $BrandShortName } zostanie zainstalowany w poniższym katalogu:
+summary-installed-to = { $BrandShortName } zostanie zainstalowany w poniższym katalogu:
 summary-reboot-required-install = Aby dokończyć instalację programu, może być wymagane ponowne uruchomienie komputera.
 summary-reboot-required-uninstall = Aby dokończyć dezinstalację programu, może być wymagane ponowne uruchomienie komputera.
 summary-install-click = Aby kontynuować, kliknij przycisk Zainstaluj.
@@ -51,15 +51,15 @@ icons-startmenu = w menu Start
 icons-taskbar = na pasku zadań
     .accesskey = z
 warn-manually-close-app-install =
-    Program { $BrandShortName } musi zostać zamknięty przed kontynuowaniem instalacji.
+    { $BrandShortName } musi zostać zamknięty przed kontynuowaniem instalacji.
     
     Zamknij program { $BrandShortName }, aby kontynuować.
 warn-manually-close-app-uninstall =
-    Program { $BrandShortName } musi zostać zamknięty przed kontynuowaniem dezinstalacji.
+    { $BrandShortName } musi zostać zamknięty przed kontynuowaniem dezinstalacji.
     
     Zamknij program { $BrandShortName }, aby kontynuować.
 warn-manually-close-app-refresh =
-    Program { $BrandShortName } musi zostać zamknięty przed kontynuowaniem odświeżania.
+    { $BrandShortName } musi zostać zamknięty przed kontynuowaniem odświeżania.
     
     Zamknij program { $BrandShortName }, aby kontynuować.
 warn-write-access =
@@ -67,12 +67,12 @@ warn-write-access =
     
     Kliknij przycisk OK i wybierz inny katalog.
 warn-disk-space =
-    W wybranej lokalizacji nie ma wystarczająco wiele miejsca, by dokonać instalacji.
+    W wybranym położeniu jest za mało miejsca, aby dokonać instalacji.
     
-    Kliknij przycisk OK i wybierz inną lokalizację.
-warn-min-supported-osver-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego. Kliknij przycisk OK, by uzyskać dodatkowe informacje.
-warn-min-supported-cpu-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, by uzyskać dodatkowe informacje.
-warn-min-supported-osver-cpu-msg = Przepraszamy, program { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego oraz procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, by uzyskać dodatkowe informacje.
+    Kliknij przycisk OK i wybierz inną położenie.
+warn-min-supported-osver-msg = Przepraszamy, { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego. Kliknij przycisk OK, aby uzyskać dodatkowe informacje.
+warn-min-supported-cpu-msg = Przepraszamy, { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, aby uzyskać dodatkowe informacje.
+warn-min-supported-osver-cpu-msg = Przepraszamy, { $BrandShortName } nie może zostać zainstalowany. Ta wersja programu { $BrandShortName } wymaga { $MinSupportedVer } lub nowszego oraz procesora z obsługą { $MinSupportedCPU }. Kliknij przycisk OK, aby uzyskać dodatkowe informacje.
 warn-restart-required-uninstall = Aby dokończyć poprzednią dezinstalację programu { $BrandShortName }, konieczne jest ponowne uruchomienie komputera. Czy uruchomić go teraz ponownie?
 warn-restart-required-upgrade = Aby dokończyć poprzednią aktualizację programu { $BrandShortName }, konieczne jest ponowne uruchomienie komputera. Czy uruchomić go teraz ponownie?
 error-create-directory-prefix = Błąd podczas tworzenia katalogu:
@@ -80,7 +80,7 @@ error-create-directory-suffix =
     Kliknij Anuluj, aby przerwać instalację lub
     Ponów, aby spróbować ponownie.
 un-confirm-page-title = Dezinstalacja programu { $BrandFullName }
-un-confirm-uninstalled-from = Program { $BrandShortName } zostanie usunięty z:
+un-confirm-uninstalled-from = { $BrandShortName } zostanie usunięty z:
 un-refresh-page-title = Odświeżyć program { $BrandShortName } zamiast tego?
 un-refresh-page-explanation =
     Jeśli masz problemy z programem { $BrandShortName }, odświeżenie może pomóc.
@@ -98,7 +98,7 @@ un-survey-checkbox-label = Chcę przekazać organizacji Mozilla, dlaczego usuwam
 # This string should fit in one line (approximately 65 characters).
 options-summary = Wybierz preferowany rodzaj instalacji i kliknij przycisk Dalej.
 # This string should fit in one line (approximately 65 characters).
-option-standard-desc = Program { $BrandShortName } zostanie zainstalowany z najbardziej typowymi opcjami.
+option-standard-desc = { $BrandShortName } zostanie zainstalowany z najbardziej typowymi opcjami.
 option-standard-radio = Standardowa
     .accesskey = S
 # This string should fit in two lines (approximately 65 characters per line).

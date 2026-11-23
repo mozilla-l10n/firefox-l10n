@@ -25,7 +25,7 @@ mui-text-welcome-info-text =
 mui-text-components-title = Wybór komponentów
 mui-text-components-subtitle = Zaznacz, które elementy programu { $BrandFullNameDA } mają zostać zainstalowane.
 mui-innertext-components-description-title = Opis
-mui-innertext-components-description-info = Wskaż komponent kursorem, by zobaczyć jego opis.
+mui-innertext-components-description-info = Wskaż komponent kursorem, aby zobaczyć jego opis.
 mui-text-directory-title = Wybór folderu programu
 mui-text-directory-subtitle = Wybierz folder, w którym ma zostać zainstalowany program { $BrandFullNameDA }.
 mui-text-installing-title = Instalowanie
@@ -38,9 +38,9 @@ mui-buttontext-finish = Zakończ
     .accesskey = k
 mui-text-finish-info-title = Kończenie pracy instalatora programu { $BrandFullNameDA }
 mui-text-finish-info-text =
-    Program { $BrandFullNameDA } został zainstalowany na tym komputerze.
+    { $BrandFullNameDA } został zainstalowany na tym komputerze.
     
-    Kliknij przycisk Zakończ, by zamknąć program instalatora.
+    Kliknij przycisk Zakończ, aby zamknąć program instalatora.
 mui-text-finish-info-reboot = Do ukończenia procesu instalacji programu { $BrandFullNameDA } konieczne jest ponowne uruchomienie komputera. Czy uruchomić go teraz ponownie?
 mui-text-finish-rebootnow = Uruchom teraz ponownie
 mui-text-finish-rebootlater = Chcę ponownie uruchomić komputer później
@@ -60,13 +60,13 @@ mui-untext-confirm-subtitle = Usuwa program { $BrandFullNameDA } z komputera.
 mui-untext-uninstalling-title = Dezinstalacja
 mui-untext-uninstalling-subtitle = Proszę czekać, trwa dezinstalacja programu { $BrandFullNameDA }.
 mui-untext-finish-title = Dezinstalacja ukończona
-mui-untext-finish-subtitle = Dezinstalacja zakończona powodzeniem.
+mui-untext-finish-subtitle = Pomyślnie ukończono dezinstalację.
 mui-untext-abort-title = Dezinstalacja przerwana
 mui-untext-abort-subtitle = Dezinstalacja się nie powiodła.
 mui-untext-finish-info-title = Kończenie pracy dezinstalatora programu { $BrandFullNameDA }
 mui-untext-finish-info-text =
-    Program { $BrandFullNameDA } został usunięty z tego komputera.
+    { $BrandFullNameDA } został usunięty z tego komputera.
     
-    Kliknij przycisk Zakończ, by zamknąć program dezinstalatora.
+    Kliknij przycisk Zakończ, aby zamknąć program dezinstalatora.
 mui-untext-finish-info-reboot = Do ukończenia dezinstalacji programu { $BrandFullNameDA } konieczne jest ponowne uruchomienie komputera. Czy uruchomić go teraz ponownie?
 mui-untext-abortwarning = Czy na pewno zakończyć pracę dezinstalatora programu { $BrandFullName }?
