@@ -157,6 +157,10 @@ webext-site-perms-serial = الوصول إلى الأجهزة التسلسلية
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = ألغ تثبيت { $extension }
+webext-uninstall-confirmation-message = يطلب الامتداد ”{ $extension }“ إلغاء تثبيته. ما الذي تريد فعله؟
+webext-uninstall-confirmation-button-uninstall = ألغِ التثبيت
+webext-uninstall-confirmation-button-keep = لا تلغي التثبيت
 
 ## Colorway theme migration
 
