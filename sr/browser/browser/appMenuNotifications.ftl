@@ -107,3 +107,13 @@ appmenu-tab-hide-controlled =
     .label = Приступите скривеним језичцима
     .secondarybuttonlabel = Онемогући додатак
     .secondarybuttonaccesskey = О
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Додатак <img data-l10n-name="addon-icon"/> { $addonName } је променио подразумевану страницу новог језичка.
+appmenu-homepage-controlled-message = Додатак <img data-l10n-name="addon-icon"/> { $addonName } је променио садржај који се приказује када отворите почетну страницу или нови прозор.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Додатак <img data-l10n-name="addon-icon"/> { $addonName } скрива неке језичке. Још увек им можете приступити кликом на <img data-l10n-name="all-tabs-icon"/>.
