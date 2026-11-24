@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Få tilgang til dine skjulte faner
     .secondarybuttonlabel = Slå av utvidelse
     .secondarybuttonaccesskey = d
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = En utvidelse, <img data-l10n-name="addon-icon"/> { $addonName }, har endret den siden du ser når du åpner en ny fane.
+appmenu-homepage-controlled-message = En utvidelse, <img data-l10n-name="addon-icon"/> { $addonName }, har endret hva du ser når du åpner startsiden og nye vinduer.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = En utvidelse, <img data-l10n-name="addon-icon"/> { $addonName }, skjuler noen av fanene dine. Du kan fortsatt få tilgang til alle fanene dine fra <img data-l10n-name="all-tabs-icon"/>.
