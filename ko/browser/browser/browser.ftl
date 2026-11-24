@@ -1175,6 +1175,7 @@ qrcode-save-button =
     .label = 저장
 qrcode-window-title = QR 코드
 qrcode-dialog-title = QR 코드
+qrcode-dialog-title-download-mobile = 모바일용 { -brand-product-name } 다운로드
 qrcode-image =
     .aria-label = QR 코드
 qrcode-close-button =
@@ -1649,6 +1650,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = 향상된 추적 방지 기능 켜짐
 trustpanel-etp-label-disabled = 향상된 추적 방지 기능 꺼짐
+trustpanel-etp-label-redesign = 향상된 추적 방지 기능
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1671,7 +1673,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name }가 수상한 �
 trustpanel-header-disabled = 보호 기능을 사용 중지함
 trustpanel-description-disabled = { -brand-product-name }가 비번 상태입니다. 보호 기능을 다시 켜는 것이 좋습니다.
 trustpanel-clear-cookies-button = 쿠키 및 사이트 데이터 지우기
+trustpanel-delete-site-data-button = 사이트 데이터 삭제
+trustpanel-fix-site-issue-button = 사이트 문제 해결
 trustpanel-privacy-link = 개인 정보 설정
+trustpanel-manage-settings-button = 설정 관리
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1685,6 +1690,7 @@ trustpanel-site-information-header =
     .title = { $host }에 대한 연결 보호
 trustpanel-siteinformation-morelink = 사이트 정보 더보기
 trustpanel-blocker-see-all = 모두 보기
+trustpanel-blocker-see-trackers-button = 추적기 보기
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =

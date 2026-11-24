@@ -194,6 +194,17 @@ tab-groups-2026-onboarding-callout-subtitle = 작업이나 주제별로 탭을 �
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = 그룹 시작
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = 관리
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = 끄기
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = 유지
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시

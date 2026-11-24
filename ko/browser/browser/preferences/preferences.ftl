@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = 받은편지함을 스팸으로부터 보호하기 위해 실제 이메일 주소를 숨깁니다.
     .label = { -relay-brand-name } 이메일 가리기 제안
+preferences-window-lock-macos =
+    .description = 컴퓨터가 잠기거나 절전 모드로 전환되거나 화면 보호기가 시작된 후 { -brand-short-name }에서 기기 비밀번호나 패스키를 묻습니다.
+    .label = 사생활 보호 창을 자동으로 잠그기
+preferences-window-lock-windows =
+    .description = 컴퓨터가 잠긴 후 { -brand-short-name }에서 기기 비밀번호나 패스키를 묻습니다.
+    .label = 사생활 보호 창을 자동으로 잠그기
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

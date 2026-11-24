@@ -150,6 +150,18 @@ main-context-menu-edit-bookmark-with-shortcut-2 =
 main-context-menu-open-link-2 =
     .label = گۊشیڌن
     .accesskey = گ
+main-context-menu-open-link-new-tab-2 =
+    .label = گۊشیڌن من بلگه نۊ
+    .accesskey = ب
+main-context-menu-open-link-split-view-2 =
+    .label = گۊشیڌن من نما تقسیم وابیڌه
+    .accesskey = ن
+main-context-menu-open-link-container-tab-2 =
+    .label = گۊشیڌن من بلگه هامل نۊ
+    .accesskey = ه
+main-context-menu-open-link-new-window-2 =
+    .label = گۊشیڌن من نیمدری نۊ
+    .accesskey = ن
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =

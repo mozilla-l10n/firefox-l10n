@@ -156,6 +156,21 @@ main-context-menu-open-link-new-tab-2 =
 main-context-menu-open-link-split-view-2 =
     .label = 분할 화면에서 열기
     .accesskey = M
+main-context-menu-open-link-container-tab-2 =
+    .label = 새 컨테이너 탭에서 열기
+    .accesskey = w
+main-context-menu-open-link-new-window-2 =
+    .label = 새 창에서 열기
+    .accesskey = d
+main-context-menu-open-link-mini-window =
+    .label = 미니 창에서 열기
+    .accesskey = M
+main-context-menu-open-link-new-private-window-2 =
+    .label = 새 사생활 보호 창에서 열기
+    .accesskey = P
+main-context-menu-bookmark-link-3 =
+    .label = 북마크…
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -382,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = 작업 메뉴 켜기
     .accesskey = A
+main-context-menu-link-send-to-your-devices =
+    .label = 내 기기로 보내기
+    .accesskey = n
 main-context-menu-link-send-to-device =
     .label = 링크를 기기로 보내기
     .accesskey = D
@@ -449,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = DRM에 대해 더 알아보기…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = 새 { $containerName } 탭에서 열기
+    .accesskey = T
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

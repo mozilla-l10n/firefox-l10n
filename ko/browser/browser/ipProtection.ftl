@@ -278,6 +278,12 @@ ipprotection-come-back-title = 다시 돌아와 내장된 VPN을 이용해 보�
 ipprotection-message-body-hide-location = { -brand-product-name }에서 탐색할 때 위치를 숨겨 개인 정보 보호를 강화하고 제어 권한을 높여보세요.
 ipprotection-connection-status-generic-error-title-1 = VPN에 연결할 수 없음
     .aria-label = VPN에 연결할 수 없음
+ipprotection-connection-status-try-again-button = 다시 시도
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = VPN 없이 계속하기
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = 다시 시도 중…
+    .aria-label = 다시 시도 중…
 
 ## IP Protection bandwidth callouts
 
