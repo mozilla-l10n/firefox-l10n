@@ -78,6 +78,8 @@ webext-perms-host-description-one-domain = { $domain } 도메인 사이트에 �
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = 도메인 { $domainCount }개 사이트에 대한 사용자 데이터에 접근
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = 다른 이름으로 저장
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -143,6 +145,14 @@ webext-site-perms-header-unsigned-with-perms = { $extension } 확장 기능을 �
 webext-site-perms-midi = MIDI 기기 접근
 webext-site-perms-midi-sysex = SysEx 지원과 함께 MIDI 기기 접근
 webext-site-perms-serial = 직렬 기기 접근
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-message = “{ $extension }” 확장 기능의 설치제거가 요청되었습니다. 어떻게 하시겠습니까?
+webext-uninstall-confirmation-button-uninstall = 설치제거
+webext-uninstall-confirmation-button-keep = 설치유지
 
 ## Colorway theme migration
 
