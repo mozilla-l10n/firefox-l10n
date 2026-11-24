@@ -78,6 +78,9 @@ webext-perms-host-description-one-site = { $domain }లో మీ డేటా�
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = నిర్మూలించు { $extension }
+webext-uninstall-confirmation-message = ఈ పొడిగింత “{ $extension }” తీసివేయడానికి అభ్యార్థన చేయుచున్నది. మీరు ఏమి చేయాలనుకుంటున్నారు?
+webext-uninstall-confirmation-button-uninstall = నిర్మూలించు
+webext-uninstall-confirmation-button-keep = ఇన్స్టాల్ చేసే ఉంచండి
 
 ## Colorway theme migration
 
