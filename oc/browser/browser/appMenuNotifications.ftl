@@ -59,3 +59,13 @@ appmenu-tab-hide-controlled =
     .label = Accedir als onglets amagats
     .secondarybuttonlabel = Desactivar l’extension
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Una extension, <img data-l10n-name="addon-icon"/> { $addonName }, a modificat la pagina que s’aficha quand dobrissètz un onglet novèl.
+appmenu-homepage-controlled-message = Una extension, <img data-l10n-name="addon-icon"/> { $addonName }, a modificat la pagina que s’aficha quand dobriddètz de fenèstras novèlas o vòstra pagina d’acuèlh.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Una extension, <img data-l10n-name="addon-icon"/> { $addonName }, amaga d'unes de vòstres onglets. Podètz totjorn accedir a totes vòstres onglets dempuèi <img data-l10n-name="all-tabs-icon"/>.
