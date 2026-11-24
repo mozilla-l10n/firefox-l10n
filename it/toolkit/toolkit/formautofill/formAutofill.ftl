@@ -90,9 +90,12 @@ credit-card-security-code-name-other = Codice di sicurezza
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-2 = <span data-l10n-name="name">{ $name }</span> | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code-2 = <span data-l10n-name="name">{ $name }</span> | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
 credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
 credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code-2 = <span data-l10n-name="name">{ $name }</span> | { $month }/{ $year } | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
 
 ## Details of the card shown on the credit card capture doorhanger, below the
