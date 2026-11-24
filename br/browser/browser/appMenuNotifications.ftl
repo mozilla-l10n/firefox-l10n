@@ -66,5 +66,6 @@ appmenu-tab-hide-controlled =
 ##   $addonName (String): name of the extension.
 
 appmenu-new-tab-controlled-message = Un askouezh, <img data-l10n-name="addon-icon"/> { $addonName }, en deus kemmet ar bajenn a welit pa tigorit un ivinell nevez.
+appmenu-homepage-controlled-message = Un askouezh, <img data-l10n-name="addon-icon"/> { $addonName }, en deus kemmet ar bajenn a welit pa zigorit ho pennbajenn hag ur prenestr nevez.
 # The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
 appmenu-tab-hide-controlled-message = Un askouezh, <img data-l10n-name="addon-icon"/> { $addonName }, a guzh darn hoc'h ivinelloù. Gallout a rit tizhout holl hoc'h ivinelloù adalek <img data-l10n-name="all-tabs-icon"/>.
