@@ -73,3 +73,5 @@ appmenu-tab-hide-controlled =
 
 appmenu-new-tab-controlled-message = Utvidinga <img data-l10n-name="addon-icon"/> { $addonName } har endra sida du ser når du opnar ei ny fane.
 appmenu-homepage-controlled-message = Ei utviding, <img data-l10n-name="addon-icon"/> { $addonName }, har endra det du ser når du opnar startsida og nye vindauge.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Ei utviding, <img data-l10n-name="addon-icon"/> { $addonName }, gøymer nokre av fanene dine. Du kan framleis få tilgang til alle fanene dine frå <img data-l10n-name="all-tabs-icon"/>.
