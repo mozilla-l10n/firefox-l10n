@@ -152,22 +152,22 @@ main-context-menu-open-link-2 =
     .accesskey = O
 main-context-menu-open-link-new-tab-2 =
     .label = Ouvrir dans un nouvel onglet
-    .accesskey = O
+    .accesskey = n
 main-context-menu-open-link-split-view-2 =
     .label = Ouvrir en vue scindée
-    .accesskey = O
+    .accesskey = v
 main-context-menu-open-link-container-tab-2 =
     .label = Ouvrir dans un nouvel onglet conteneur
-    .accesskey = O
+    .accesskey = c
 main-context-menu-open-link-new-window-2 =
     .label = Ouvrir dans une nouvelle fenêtre
-    .accesskey = O
+    .accesskey = f
 main-context-menu-open-link-mini-window =
     .label = Ouvrir dans une mini-fenêtre
-    .accesskey = O
+    .accesskey = m
 main-context-menu-open-link-new-private-window-2 =
     .label = Ouvrir dans une nouvelle fenêtre privée
-    .accesskey = O
+    .accesskey = p
 main-context-menu-bookmark-link-3 =
     .label = Marquer cette page…
     .accesskey = M
@@ -470,8 +470,8 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab-2 =
-    .label = Ouvrir dans un nouvel onglet de { $containerName }
-    .accesskey = O
+    .label = Ouvrir dans un nouvel onglet { $containerName }
+    .accesskey = u
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

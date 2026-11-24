@@ -155,13 +155,22 @@ main-context-menu-open-link-new-tab-2 =
     .accesskey = t
 main-context-menu-open-link-split-view-2 =
     .label = Otvori u podijeljenom prikazu
-    .accesskey = O
+    .accesskey = m
 main-context-menu-open-link-container-tab-2 =
     .label = Otvori u novoj kontejnerskoj kartici
-    .accesskey = O
+    .accesskey = v
 main-context-menu-open-link-new-window-2 =
     .label = Otvori u novom prozoru
-    .accesskey = O
+    .accesskey = z
+main-context-menu-open-link-mini-window =
+    .label = Otvori u mini prozoru
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = Otvori u novom privatnom prozoru
+    .accesskey = p
+main-context-menu-bookmark-link-3 =
+    .label = Zabilježi …
+    .accesskey = Z
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -388,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Uključi izbornik radnji
     .accesskey = a
+main-context-menu-link-send-to-your-devices =
+    .label = Pošalji na tvoje uređaje
+    .accesskey = n
 main-context-menu-link-send-to-device =
     .label = Pošalji poveznicu na uređaj
     .accesskey = u
@@ -455,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Saznaj više o upravljanju digitalnim pravima …
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Otvori u novoj { $containerName } kartici
+    .accesskey = t
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

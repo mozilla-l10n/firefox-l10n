@@ -206,7 +206,7 @@ closed-browser-notifications-callout-manage-button = Gérer
 # Stops notifications from being delivered while the browser is closed.
 closed-browser-notifications-callout-turn-off-button = Désactiver
 # Keeps notifications being delivered while the browser is closed.
-closed-browser-notifications-callout-keep-on-button = Continuer
+closed-browser-notifications-callout-keep-on-button = Continuer à recevoir
 
 ## Sidebar Strings
 

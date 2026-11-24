@@ -1190,6 +1190,7 @@ qrcode-save-button =
     .label = Spremi
 qrcode-window-title = QR kod
 qrcode-dialog-title = QR kod
+qrcode-dialog-title-download-mobile = Preuzmi { -brand-product-name } za mobilne uređaje
 qrcode-image =
     .aria-label = QR kod
 qrcode-close-button =
@@ -1677,6 +1678,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Poboljšana zaštita od praćenja je uključena
 trustpanel-etp-label-disabled = Poboljšana zaštita od praćenja je isključena
+trustpanel-etp-label-redesign = Poboljšana zaštita od praćenja
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1696,7 +1698,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } je primijetio 
 trustpanel-header-disabled = Isključio/la si zaštitu
 trustpanel-description-disabled = { -brand-product-name } nije uključen. Predlažemo da ponovo uključiš zaštitu.
 trustpanel-clear-cookies-button = Izbriši kolačiće i podatke stranica
+trustpanel-delete-site-data-button = Izbriši podatke web-stranica
+trustpanel-fix-site-issue-button = Ispravi probleme s web-stranicom
 trustpanel-privacy-link = Postavke privatnosti
+trustpanel-manage-settings-button = Upravljaj postavkama
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1710,6 +1715,7 @@ trustpanel-site-information-header =
     .title = Zaštite veze za { $host }
 trustpanel-siteinformation-morelink = Više informacija o web-stranici
 trustpanel-blocker-see-all = Pogledaj sve
+trustpanel-blocker-see-trackers-button = Pogledaj programe za praćenje
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
