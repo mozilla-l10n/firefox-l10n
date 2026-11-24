@@ -153,6 +153,10 @@ webext-site-perms-serial = წვდომა მიმდევრობით�
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = ამოიშალოს { $extension }
+webext-uninstall-confirmation-message = გაფართოება „{ $extension }“ ითხოვს წაშლას. რისი გაკეთება გსურთ?
+webext-uninstall-confirmation-button-uninstall = წაშლა
+webext-uninstall-confirmation-button-keep = დატოვება
 
 ## Colorway theme migration
 
