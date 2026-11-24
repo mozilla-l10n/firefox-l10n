@@ -28,3 +28,10 @@ appmenu-tab-hide-controlled =
     .label = Acedi a-i teu feuggi ascoxi
     .secondarybuttonlabel = Dizabilita estenscion
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = L'estenscion <img data-l10n-name="addon-icon"/> { $addonName } o l'à cangiou a pagina che ti veddi quande t'arvi 'n neuvo feuggio.

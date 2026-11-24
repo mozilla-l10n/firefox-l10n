@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = Accesso a-i teu dæti pe-o dòminio { $
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Accesso a-i teu dæti pe { $domain }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Sarva co-o nomme
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -77,6 +79,8 @@ webext-perms-host-description-one-site = Accesso a-i teu dæti pe { $domain }
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-message = L'estenscion “{ $extension }” a domanda d'êse dizinstalâ. Ti veu fâlo?
+webext-uninstall-confirmation-button-uninstall = Dizinstalla
 webext-uninstall-confirmation-button-keep = Tegni Instalou
 
 ## Colorway theme migration
