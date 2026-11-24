@@ -77,6 +77,8 @@ webext-perms-host-description-one-domain = Mengakses data Anda untuk situs pada 
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Mengakses data Anda untuk situs dalam { $domainCount } domain
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Simpan Sebagai
 
 ## Strings for data collection permissions in the permission prompt.
 
