@@ -1208,6 +1208,7 @@ qrcode-save-button =
     .label = Salvar
 qrcode-window-title = Codice QR
 qrcode-dialog-title = Codice QR
+qrcode-dialog-title-download-mobile = Discarga { -brand-product-name } pro apparatos mobile
 qrcode-image =
     .aria-label = Codice QR
 qrcode-close-button =
@@ -1695,6 +1696,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Le Protection antitraciamento reinfortiate
 trustpanel-etp-label-disabled = Protection antitraciamento reinfortiate es disactivate
+trustpanel-etp-label-redesign = Protection antitraciamento reinfortiate
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =

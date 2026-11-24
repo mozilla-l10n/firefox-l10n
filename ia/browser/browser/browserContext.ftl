@@ -153,6 +153,12 @@ main-context-menu-open-link-2 =
 main-context-menu-open-link-new-tab-2 =
     .label = Aperir in un nove scheda
     .accesskey = A
+main-context-menu-open-link-new-window-2 =
+    .label = Aperir in un nove fenestra
+    .accesskey = A
+main-context-menu-bookmark-link-3 =
+    .label = Marcar…
+    .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -379,6 +385,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Activar menu de actiones
     .accesskey = a
+main-context-menu-link-send-to-your-devices =
+    .label = Inviar a tu apparatos
+    .accesskey = I
 main-context-menu-link-send-to-device =
     .label = Inviar le ligamine a un apparato
     .accesskey = v

@@ -155,13 +155,22 @@ main-context-menu-open-link-new-tab-2 =
     .accesskey = j
 main-context-menu-open-link-split-view-2 =
     .label = Otwórz w podzielonym widoku
-    .accesskey = m
+    .accesskey = w
 main-context-menu-open-link-container-tab-2 =
     .label = Otwórz w nowej karcie w kontenerze
     .accesskey = k
 main-context-menu-open-link-new-window-2 =
     .label = Otwórz w nowym oknie
     .accesskey = n
+main-context-menu-open-link-mini-window =
+    .label = Otwórz w minioknie
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = Otwórz w nowym oknie w trybie prywatnym
+    .accesskey = b
+main-context-menu-bookmark-link-3 =
+    .label = Dodaj zakładkę…
+    .accesskey = D
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -388,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Włącz menu działań
     .accesskey = m
+main-context-menu-link-send-to-your-devices =
+    .label = Wyślij na urządzenia
+    .accesskey = W
 main-context-menu-link-send-to-device =
     .label = Wyślij odnośnik do
     .accesskey = W
@@ -455,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Więcej informacji o DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Otwórz w nowej karcie w kontenerze „{ $containerName }”
+    .accesskey = k
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
