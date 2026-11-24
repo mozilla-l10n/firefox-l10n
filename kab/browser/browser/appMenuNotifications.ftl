@@ -62,3 +62,13 @@ appmenu-tab-hide-controlled =
     .label = Kcem γer iccaren-inek ifren
     .secondarybuttonlabel = Sens aseɣzif
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Asiɣzef, <img data-l10n-name="addon-icon"/> { $addonName }, ibeddel asebter i d-yettbanen makken i d-ldiḍ iccer amaynut.
+appmenu-homepage-controlled-message = Asiɣzef, <img data-l10n-name="addon-icon"/> { $addonName }, ibeddel asebter i d-yettbanen makken i d-ldiḍ isfuyla imaynuten neɣ asebter agejdan.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Asiɣzef, <img data-l10n-name="addon-icon"/> { $addonName }, yeffer kra n yiccaren-ik. Tzemreḍ yal tikelt ad tkecmeḍ ar yiccaren-ik meṛṛa seg <img data-l10n-name="all-tabs-icon"/>.
