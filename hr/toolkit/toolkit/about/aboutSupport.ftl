@@ -327,12 +327,12 @@ sandbox-proc-type-file = sadržaj datoteke
 sandbox-proc-type-media-plugin = priključak za medije
 sandbox-proc-type-data-decoder = dekoder podataka
 startup-cache-title = Predmemorija pokretanjasandbox-sys-call-tid = TID
-startup-cache-disk-cache-path = Staza predmemorije diskalauncher-process-status-2 = Prisilno onemogućeno
+startup-cache-disk-cache-path = Staza predmemorije diska
 startup-cache-ignore-disk-cache = Zanemari predmemoriju diska
 startup-cache-found-disk-cache-on-init = Pronađena je predmemorija diska pri inicijaliziranjusupport-printing-modified-settings = Izmijenjene postavke ispisa
 startup-cache-wrote-to-disk-cache = Zapisano u predmemoriju diskawebgl2-driver-extensions = Dodaci upravljačkog programa WebGL 2
 launcher-process-status-0 = Aktivirano
-launcher-process-status-1 = Onemogućeno zbog kvara
+launcher-process-status-1 = Deaktivirano zbog kvara
 launcher-process-status-unknown = Nepoznato stanje
 # Variables
 # $remoteWindows (integer) - Number of remote windows

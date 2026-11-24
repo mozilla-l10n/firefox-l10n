@@ -9,14 +9,14 @@
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } preglednik pingova za otklanjanje grešaka
-about-glean-page-title2 = O { -glean-brand-name }
+about-glean-page-title2 = O { -glean-brand-name }u
 about-glean-header = O { -glean-brand-name }
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     je biblioteka za prikupljanje podataka koja se koristi u { -vendor-short-name } projektima.
     Ovo je sučelje dizajnirano za ručno korištenje programera i testera za
     <a data-l10n-name="fog-link">ručno testiranje instrumentacije</a>.
-about-glean-category-about-glean = Informacije o { -glean-brand-name }
+about-glean-category-about-glean = O { -glean-brand-name }u
 about-glean-category-manual-testing = Ručno testiranje
 about-glean-category-adhoc-testing = Ad hoc testiranje
 about-glean-category-profiler = Korištenje profilera

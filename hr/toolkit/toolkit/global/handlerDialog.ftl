@@ -67,7 +67,7 @@ choose-app-btn =
     .accessKey = O
 choose-other-app-window-title = Drugi program…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
-choose-dialog-privatebrowsing-disabled = Onemogućeno u privatnim prozorima
+choose-dialog-privatebrowsing-disabled = Deaktivirano u privatnim prozorima
 
 ## Mailto handler picker
 ## Shown when the user clicks a mailto: link and lets them pick which configured

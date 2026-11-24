@@ -318,7 +318,7 @@ details-addon-button = Detalji
 release-notes-addon-button = Napomene o izdanju
 permissions-addon-button = Dozvole
 extension-enabled-heading = Aktivirano
-extension-disabled-heading = Onemogućeno
+extension-disabled-heading = Deaktivirano
 theme-enabled-heading2 =
     .heading = Aktivna tema
 theme-disabled-heading3 =
@@ -326,13 +326,13 @@ theme-disabled-heading3 =
 theme-enabled-heading = Aktivirano
 theme-disabled-heading2 = Spremljene teme
 plugin-enabled-heading = Aktivirano
-plugin-disabled-heading = Onemogućeno
+plugin-disabled-heading = Deaktivirano
 dictionary-enabled-heading = Aktivirano
-dictionary-disabled-heading = Onemogućeno
+dictionary-disabled-heading = Deaktivirano
 locale-enabled-heading = Aktivirano
-locale-disabled-heading = Onemogućeno
+locale-disabled-heading = Deaktivirano
 sitepermission-enabled-heading = Aktivirano
-sitepermission-disabled-heading = Onemogućeno
+sitepermission-disabled-heading = Deaktivirano
 always-activate-button = Uvijek aktiviraj
 never-activate-button = Nikada ne aktiviraj
 addon-detail-author-label = Autor
@@ -347,7 +347,7 @@ install-postponed-button = Aktualiziraj sada
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
-addon-name-disabled = { $name } (onemogućeno)
+addon-name-disabled = { $name } (deaktivirano)
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received

@@ -1848,6 +1848,11 @@ trustpanel-blocker-section-header2 =
 
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } ਇਸ ਸਾਈਟ ਤੋਂ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] { -brand-short-name } ਇਸ ਸਾਈਟ ਤੋਂ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
 trustpanel-blocker-description-redesign = ਇਹਨਾਂ ਟਰੈਕਰਾਂ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨੂੰ ਇਕੱਤਰ ਕਰਨ ਤੋਂ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਸੀ।
 trustpanel-no-trackers-header-redesign = ਇਸ ਸਾਈਟ ਉੱਤੇ ਕੋਈ ਟਰੈਕਰ ਨਹੀਂ ਲੱਭੇ
 trustpanel-no-trackers-description-redesign = { -brand-short-name } ਨੇ ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ ਅਤੇ ਕੋਈ ਵੀ ਨਹੀਂ ਲੱਭਿਆ ਹੈ।

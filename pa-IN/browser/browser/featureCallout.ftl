@@ -194,6 +194,12 @@ tab-groups-2026-onboarding-callout-subtitle = ਆਪਣੀਆਂ ਟੈਬਾਂ
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = ਇੱਕ ਗਰੁੱਪ ਸ਼ੁਰੂ ਕਰੋ
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = { -brand-short-name } ਬੰਦ ਹੋਣ ਬਾਰੇ ਵੈੱਬ ਨੋਟੀਫਿਕੇਸ਼ਨ ਲਵੋ
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਾਓ
