@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = { $domain } ડોમેનમાં �
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } માટે તમારા ડેટાને ઍક્સેસ કરો
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = તરીકે સાચવો
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -78,6 +80,7 @@ webext-perms-host-description-one-site = { $domain } માટે તમાર�
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = { $extension } અનઇન્સ્ટોલ કરો
+webext-uninstall-confirmation-message = એક્સ્ટેંશન “{ $extension }” અનઇન્સ્ટોલ કરવાની વિનંતી કરી રહ્યું છે. તમને શું કરવું ગમશે?
 webext-uninstall-confirmation-button-uninstall = અનઇન્સ્ટોલ કરો
 webext-uninstall-confirmation-button-keep = ઇન્સ્ટોલ કરેલ રાખો
 
