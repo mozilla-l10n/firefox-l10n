@@ -73,3 +73,5 @@ appmenu-tab-hide-controlled =
 
 appmenu-new-tab-controlled-message = 扩展“<img data-l10n-name="addon-icon"/> { $addonName }”修改了您打开新标签页时会看到的页面。
 appmenu-homepage-controlled-message = 扩展“<img data-l10n-name="addon-icon"/> { $addonName }”修改了您打开主页和新窗口时会看到的页面。
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = 扩展 <img data-l10n-name="addon-icon"/> { $addonName } 隐藏了您的部分标签页。您仍可通过 <img data-l10n-name="all-tabs-icon"/> 按钮访问您的所有标签页。
