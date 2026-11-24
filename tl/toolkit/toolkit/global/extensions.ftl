@@ -80,6 +80,9 @@ webext-save-as-pdf-dialog-title = I-save Bilang
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Uninstall { $extension }
+webext-uninstall-confirmation-message = Hinihingi ng extension na “{ $extension }” na ma-uninstall ito. Ano ang gusto mong gawin?
+webext-uninstall-confirmation-button-uninstall = Uninstall
+webext-uninstall-confirmation-button-keep = Panatilihing Installed
 
 ## Colorway theme migration
 
