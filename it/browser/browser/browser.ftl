@@ -1740,6 +1740,7 @@ urlbar-trust-icon-trackers-blocked-longform-label =
        *[other] { $count } traccianti bloccati
     }
 
+## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } ritiene che le aziende dovrebbero seguirti di meno. Per questo motivo ne blocchiamo il maggior numero possibile.
@@ -1808,6 +1809,9 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> elemento tracciante bloccato in questo sito
        *[other] <span data-l10n-name="count">{ $count }</span> elementi traccianti bloccati in questo sito
     }
+
+##  $count (String): the number of trackers blocked.
+
 trustpanel-blocker-section-header2-redesign =
     { $count ->
         [one] { -brand-short-name } ha bloccato <span data-l10n-name="count">{ $count }</span> elemento tracciante su questo sito
