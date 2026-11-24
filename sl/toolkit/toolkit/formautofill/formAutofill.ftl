@@ -99,9 +99,10 @@ credit-card-capture-save-as-new-payment-method-button =
     .label = Shrani kot novo
     .accessKey = S
 
-## The toggle turns saving security codes on and off. Its label describes the
-## current state: whether security codes are saved or not.
+## Used on the doorhanger when users submit a new card and security codes can be saved.
 
+# The toggle turns saving security codes on and off. The label stays the same
+# in both states.
 credit-card-doorhanger-always-save-security-codes-toggle =
     .label = Vedno shrani varnostne kode
 credit-card-doorhanger-dont-save-security-codes-toggle =

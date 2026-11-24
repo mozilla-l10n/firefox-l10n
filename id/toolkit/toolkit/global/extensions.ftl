@@ -132,6 +132,3 @@ webext-uninstall-confirmation-title = Hapus instalasi { $extension }
 webext-uninstall-confirmation-message = Ekstensi "{ $extension }" meminta untuk dihapus instalasinya. Apa yang ingin Anda lakukan?
 webext-uninstall-confirmation-button-uninstall = Hapus Instalasi
 webext-uninstall-confirmation-button-keep = Tetap Terinstal
-
-## Colorway theme migration
-

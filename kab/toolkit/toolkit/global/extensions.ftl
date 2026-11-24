@@ -112,9 +112,6 @@ webext-perms-optional-text-with-data-collection-only = { $extension } yesra alqa
 webext-site-perms-header-with-gated-perms-midi = Azegrir-a yettmuddu anekcum i yibenkan MIDI ɣer { $hostname }.
 webext-site-perms-header-with-gated-perms-midi-sysex = Azegrir-a yettmuddu anekcum i { $hostname } ɣer yibenkan-ik·im MIDI (s tallalt n SysEx).
 
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -137,6 +134,3 @@ webext-uninstall-confirmation-title = Kkes { $extension }
 webext-uninstall-confirmation-message = Asiɣzef “{ $extension }” yessutur ad yettwakkes. Acu tebɣid ad txedmeḍ?
 webext-uninstall-confirmation-button-uninstall = Kkes
 webext-uninstall-confirmation-button-keep = Eǧǧ yebded
-
-## Colorway theme migration
-

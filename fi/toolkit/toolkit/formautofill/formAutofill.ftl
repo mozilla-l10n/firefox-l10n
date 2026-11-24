@@ -115,10 +115,8 @@ credit-card-save-payment-method-doorhanger-description = { -brand-short-name } s
 credit-card-capture-dismiss-button =
     .label = Hylkää
     .accessKey = H
-
-## The toggle turns saving security codes on and off. Its label describes the
-## current state: whether security codes are saved or not.
-
+# The toggle turns saving security codes on and off. The label stays the same
+# in both states.
 credit-card-doorhanger-always-save-security-codes-toggle =
     .label = Tallenna turvakoodit aina
 credit-card-doorhanger-dont-save-security-codes-toggle =

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } प्राइवेट ब्रॉउजिंग
 urlbar-identity-button =
     .aria-label = साइट केर जानकारी देखू

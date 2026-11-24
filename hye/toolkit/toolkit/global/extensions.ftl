@@ -12,9 +12,6 @@
 
 webext-perms-sideload-header = { $extension }-ը աւելացուել է
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -51,20 +48,6 @@ webext-perms-host-description-one-site = Մուտք գործեք Ձեր տուե
 # Title of the file picker opened when an extension saves a page as PDF.
 webext-save-as-pdf-dialog-title = Պահպանել որպէս
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -87,6 +70,3 @@ webext-uninstall-confirmation-title = Ապատեղադրել { $extension }-ը
 webext-uninstall-confirmation-message = «{ $extension }» ընդլայնումը պահանջում է ապատեղադրում: Ի՞նչ անել:
 webext-uninstall-confirmation-button-uninstall = Ապատեղադրել
 webext-uninstall-confirmation-button-keep = Պահել
-
-## Colorway theme migration
-

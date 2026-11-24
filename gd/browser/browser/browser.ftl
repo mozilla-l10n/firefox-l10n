@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = Brabhsadh prìobhaideach { -brand-shortcut-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
@@ -1474,7 +1474,6 @@ trustpanel-blocker-header =
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Neo-thèarainte
 
-## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = Tha { -brand-product-name } dhen bheachd nach bu chòir do chompanaidhean a bhith gad dhlùth-leantainn. Ri linn sin, bacaidh sin na ’s urrainn dhuinn dhiubh.

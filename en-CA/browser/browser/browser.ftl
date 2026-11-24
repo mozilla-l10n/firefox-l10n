@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Private Browsing
-# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+# This MUST match the translation of "brief-app-desc" in installer/custom.ftl
 browser-shortcut-description = Fast and private web browsing
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
@@ -1692,7 +1692,6 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Enhanced Tracking Protection is on
 trustpanel-etp-label-disabled = Enhanced Tracking Protection is off
-trustpanel-etp-label-redesign = Enhanced Tracking Protection
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1715,10 +1714,7 @@ trustpanel-description-enabled-insecure = { -brand-product-name } noticed someth
 trustpanel-header-disabled = You turned off protections
 trustpanel-description-disabled = { -brand-product-name } is off-duty. We suggest turning protections back on.
 trustpanel-clear-cookies-button = Clear cookies and site data
-trustpanel-delete-site-data-button = Delete site data
-trustpanel-fix-site-issue-button = Fix site issue
 trustpanel-privacy-link = Privacy Settings
-trustpanel-manage-settings-button = Manage settings
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1732,7 +1728,6 @@ trustpanel-site-information-header =
     .title = Connection protections for { $host }
 trustpanel-siteinformation-morelink = More site information
 trustpanel-blocker-see-all = See All
-trustpanel-blocker-see-trackers-button = See trackers
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1750,7 +1745,6 @@ urlbar-trust-icon-trackers-blocked-longform-label =
        *[other] { $count } trackers blocked
     }
 
-## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } thinks companies should follow you less. So we block as many as we can.
@@ -1843,17 +1837,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Tracker blocked on this site
        *[other] <span data-l10n-name="count">{ $count }</span> Trackers blocked on this site
     }
-
-##  $count (String): the number of trackers blocked.
-trustpanel-blocker-section-header2-redesign =
-    { $count ->
-        [one] { -brand-short-name } blocked <span data-l10n-name="count">{ $count }</span> tracker on this site
-       *[other] { -brand-short-name } blocked <span data-l10n-name="count">{ $count }</span> trackers on this site
-    }
-trustpanel-blocker-description-redesign = These trackers were blocked from collecting info about your browsing.
-trustpanel-no-trackers-header-redesign = No trackers found on this site
-trustpanel-no-trackers-description-redesign = { -brand-short-name } checked for known trackers and didn’t find any.
-trustpanel-etp-off-description-redesign = Turn on protections and { -brand-short-name } will block known trackers from collecting info about your browsing.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

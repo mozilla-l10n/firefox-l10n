@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } التصفح الخفي
-# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+# This MUST match the translation of "brief-app-desc" in installer/custom.ftl
 browser-shortcut-description = تصفح الوِب بسرعة وخصوصية
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
@@ -1672,7 +1672,6 @@ trustpanel-blocker-header =
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = غير آمن
 
-## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } يرى أن على الشركات تقليل متابعتك. لذلك نحظر أكبر عدد ممكن منها.

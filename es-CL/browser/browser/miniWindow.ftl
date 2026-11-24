@@ -5,8 +5,9 @@
 mini-window-close-button =
     .label = Cerrar
     .tooltiptext = Cerrar
-# Moves the tab in the mini window back to the original window
-# it came from.
+# These strings are used to label and tooltip the button that moves the
+# contents of a mini window into the window from where the mini window was
+# originally opened.
 mini-window-restore-button =
     .label = Devolver pestaña
     .tooltiptext = Devolver pestaña

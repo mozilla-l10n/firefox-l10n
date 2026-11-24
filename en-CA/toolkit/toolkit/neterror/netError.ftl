@@ -110,6 +110,7 @@ neterror-dns-not-found-offline-hint-reconnect = Disconnect and reconnect to Wi-F
 ## (localhost) is refused.
 ## Variables:
 ##   $port (String) - The port number the connection was refused on.
+
 neterror-loopback-refused-not-running = Nothing is accepting connections on port { $port }. Check that your local server is running.
 # "it" is the local server that the user is trying to reach.
 neterror-loopback-refused-wrong-port = If it is running, check that it is using port { $port }.

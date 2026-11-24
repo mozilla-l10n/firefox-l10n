@@ -255,9 +255,9 @@ places-locked-prompt = The bookmarks and history system will not be functional b
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder3 =
+    .badge = New
     .label = Share Folder
     .accesskey = a
-    .badge = New
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =

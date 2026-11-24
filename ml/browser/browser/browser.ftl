@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } സ്വകാര്യ തിരച്ചിൽ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.

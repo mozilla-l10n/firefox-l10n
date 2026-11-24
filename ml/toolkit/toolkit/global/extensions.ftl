@@ -12,9 +12,6 @@
 
 webext-perms-sideload-header = { $extension } ചേര്‍ത്തിരിക്കുന്നു
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -51,30 +48,6 @@ webext-perms-host-description-one-site = { $domain } നായുള്ള ന�
 # Title of the file picker opened when an extension saves a page as PDF.
 webext-save-as-pdf-dialog-title = ഈ പേരോടെ കരുതിവയ്ക്കുക
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
-## Headers used in the webextension permissions dialog.
-## Note: This string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $extension (String): replaced with the localized name of the extension being installed.
-##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
-
-
-## These should remain in sync with permissions.NAME.label in sitePermissions.properties
-
-
 ## Confirmation dialog shown when an extension requests to uninstall itself.
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
@@ -83,6 +56,3 @@ webext-uninstall-confirmation-title = { $extension } അണ്‍ഇന്‍സ
 webext-uninstall-confirmation-message = “{ $extension }” എന്ന എക്സ്റ്റൻഷൻ അണ്‍ഇന്‍സ്റ്റോൾ ചെയ്യാൻ അഭ്യർത്ഥിക്കുന്നു. നിങ്ങൾ എന്തു ചെയ്യാൻ ആഗ്രഹിക്കുന്നു?
 webext-uninstall-confirmation-button-uninstall = അണിൻസ്റ്റാൾ ചെയ്യുക
 webext-uninstall-confirmation-button-keep = സ്ഥാപിച്ചു വച്ചുകൊണ്ടിരിക്കുക
-
-## Colorway theme migration
-

@@ -58,24 +58,6 @@ webext-perms-description-data-none = برنومه نویس اگو ای وردن�
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } درخاست سامووا بیشتری ن داره
 
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
-## Headers used in the webextension permissions dialog.
-## Note: This string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $extension (String): replaced with the localized name of the extension being installed.
-##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
-
-
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
 webext-site-perms-midi = دسرسی و دسگا یل MIDI
@@ -88,6 +70,3 @@ webext-site-perms-midi-sysex = دسرسی و دسگا یل MIDI وا لادرا�
 webext-uninstall-confirmation-title = پاک کردن پۊرنیڌن { $extension }
 webext-uninstall-confirmation-button-uninstall = پاک کردن پۊرنیڌن
 webext-uninstall-confirmation-button-keep = پۊرسته بمئنه
-
-## Colorway theme migration
-

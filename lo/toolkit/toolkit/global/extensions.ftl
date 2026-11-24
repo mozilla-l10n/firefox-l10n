@@ -12,9 +12,6 @@
 
 webext-perms-sideload-header = ເພີ່ມ { $extension } ແລ້ວ
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -51,9 +48,6 @@ webext-perms-host-description-one-site = ເຂົ້າເຖິງຂໍ້ມ
 # Title of the file picker opened when an extension saves a page as PDF.
 webext-save-as-pdf-dialog-title = ບັນທຶກທີ່
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -63,9 +57,6 @@ webext-save-as-pdf-dialog-title = ບັນທຶກທີ່
 
 webext-site-perms-header-with-gated-perms-midi = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ.
 webext-site-perms-header-with-gated-perms-midi-sysex = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ (ໂດຍຮອງຮັບ SysEx).
-
-##
-
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -89,6 +80,3 @@ webext-uninstall-confirmation-title = ຖອນການຕິດຕັ້ງ { 
 webext-uninstall-confirmation-message = ເອັກເທນຊັນ “{ $extension }” ຕ້ອງໄດ້ຮັບການຖອນການຕິດຕັ້ງ. ທ່ານຕ້ອງການຈະເຮັດແນວໃດ?
 webext-uninstall-confirmation-button-uninstall = ຖອນການຕິດຕັ້ງ
 webext-uninstall-confirmation-button-keep = ຮັກສາການຕິດຕັ້ງໄວ້ຕໍ່ໄປ
-
-## Colorway theme migration
-

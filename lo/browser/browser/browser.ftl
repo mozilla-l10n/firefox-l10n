@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } ການທ່ອງເວັບສ່ວນຕົວ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
@@ -1248,7 +1248,6 @@ trustpanel-blocker-see-all = ເບິງທັງໝົດ
 trustpanel-blocker-header =
     .title = ການຕິດຕາມການປົກປ້ອງສໍາລັບ { $host }
 
-## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } ຄິດວ່າບໍລິສັດຄວນຕິດຕາມທ່ານໜ້ອຍລົງ. ດັ່ງນັ້ນພວກເຮົາສະກັດຫຼາຍເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.

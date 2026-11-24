@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } 사생활 보호 모드
-# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+# This MUST match the translation of "brief-app-desc" in installer/custom.ftl
 browser-shortcut-description = 빠르고 사생활을 보호하는 웹 탐색
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
@@ -1698,7 +1698,6 @@ urlbar-trust-icon-notsecure-label = 안전하지 않음
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label = 추적기 { $count }개 차단됨
 
-## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name }는 기업들이 사용자를 덜 추적해야 한다고 생각합니다. 그래서 저희는 가능한 한 많이 차단합니다.

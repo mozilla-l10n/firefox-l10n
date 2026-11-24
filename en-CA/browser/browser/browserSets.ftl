@@ -162,8 +162,6 @@ bidi-switch-direction-shortcut =
     .key = X
 private-browsing-shortcut =
     .key = P
-window-lock-shortcut =
-    .key = L
 search-tabs-shortcut =
     .key = A
 

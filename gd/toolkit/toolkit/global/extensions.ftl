@@ -12,9 +12,6 @@
 
 webext-perms-sideload-header = Chaidh { $extension } a chur ris
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -50,9 +47,6 @@ webext-perms-host-description-wildcard = Cothrom fhaighinn air an dàta air fad 
 webext-perms-host-description-one-site = Cothrom fhaighinn air an dàta agad airson { $domain }
 # Title of the file picker opened when an extension saves a page as PDF.
 webext-save-as-pdf-dialog-title = Sàbhail mar
-
-## Strings for data collection permissions in the permission prompt.
-
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -96,6 +90,3 @@ webext-uninstall-confirmation-title = Dì-stàlaich { $extension }
 webext-uninstall-confirmation-message = Tha an leudachan “{ $extension }” ag iarraidh ort gun dì-stàlaich thu e. Dè bu toigh leat dèanamh?
 webext-uninstall-confirmation-button-uninstall = Dì-stàlaich
 webext-uninstall-confirmation-button-keep = Cum stàlaichte e
-
-## Colorway theme migration
-

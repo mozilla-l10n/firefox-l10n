@@ -95,6 +95,3 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Böyük ehtimalla bu saytı
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> saytının HTTP Strict Transport Security (HSTS) adlı təhlükəsizlik siyasəti var, bu deməkdir ki, { -brand-short-name } bununla ancaq təhlükəsiz əlaqə qura bilər. Bu sayta istisna verə bilməzsiz.
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.

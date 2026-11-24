@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } گشتن سیخومی
-# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+# This MUST match the translation of "brief-app-desc" in installer/custom.ftl
 browser-shortcut-description = گشتن وب زل وو سیخومی
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
@@ -1644,7 +1644,6 @@ urlbar-trust-icon-trackers-blocked-longform-label =
        *[other] { $count } رڌجۊر مسدۊد وابی
     }
 
-## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } و یو باور داره ک شرکتا وا کمتر ایسا ن رڌجۊری کونن، سی دل هیمو تا اوچو ک ره داره رڌجۊرا مسدۊد ابۊن.

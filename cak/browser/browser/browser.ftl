@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The non-variable portion of this MUST match the translation of
-# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+# "private-browsing-shortcut-title" in installer/custom.ftl
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Ichinan Okem
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
@@ -1239,7 +1239,6 @@ trustpanel-blocker-see-all = Titzet Ronojel
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Man Ütz ta
 
-## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-list-label-tracking-content = Rupam ojqanem

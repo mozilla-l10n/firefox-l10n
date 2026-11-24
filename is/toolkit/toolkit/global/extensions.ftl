@@ -147,6 +147,3 @@ webext-uninstall-confirmation-title = Fjarlægja { $extension }
 webext-uninstall-confirmation-message = Forritsaukinn “{ $extension }” er að biðja um að verða fjarlægður. Hvað viltu gera?
 webext-uninstall-confirmation-button-uninstall = Fjarlægja
 webext-uninstall-confirmation-button-keep = Nota áfram
-
-## Colorway theme migration
-

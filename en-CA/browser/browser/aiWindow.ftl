@@ -23,9 +23,6 @@ menu-history-chats-recent =
     .label = Recent Chats
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = New Tab
-main-context-menu-open-link-new-smart-window-2 =
-    .label = Open in New { -smart-window-brand-name }
-    .accesskey = S
 
 ## Smart Window Toggle Button
 
@@ -138,6 +135,7 @@ aiwindow-input-model-select-settings-link = Model settings
 
 ## Descriptions shown under each model in the smartbar model select when the
 ## Auto model is offered.
+
 aiwindow-input-model-select-auto-description = { -smart-window-brand-name } picks the best model for your task
 aiwindow-input-model-select-fast-description = Quick answers when you’re moving fast
 aiwindow-input-model-select-flexible-description = Ready for a variety of tasks
@@ -365,14 +363,6 @@ aiwindow-starter-browsing-history = Find tabs in history
 aiwindow-starter-browsing-summarize = Summarize tabs
 aiwindow-starter-browsing-compare = Compare tabs
 
-## Smart Window digest starter dismiss button
-## Shown on hover over a digest starter pill. Turns off the digest and
-## removes its pill from the starter row.
-## Variables:
-##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
-aiwindow-starter-digest-dismiss =
-    .aria-label = Dismiss { $text }
-
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
@@ -390,6 +380,7 @@ aiwindow-starter-dismiss =
     .title = Dismiss { $text }
 
 ## Single-page onboarding
+
 # The line break is intentional and is preserved when displayed.
 smartwindow-onboarding-welcome-subtitle =
     It works alongside you to get stuff done.
@@ -415,7 +406,7 @@ smartwindow-onboarding-memories-browsing-description = Browsing across { -brand-
 smartwindow-onboarding-memories-chats-description = Chats in { -smart-window-brand-name }
 smartwindow-onboarding-memories-none-description = You’ll see fewer tailored suggestions and may need to repeat details across chats.
 smartwindow-onboarding-default-window =
-    .label = Start in { -smart-window-brand-name }
     .description = Use it when { -brand-short-name } starts, restarts, or opens links from other apps.
+    .label = Start in { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Save and go
