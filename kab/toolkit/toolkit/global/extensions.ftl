@@ -80,6 +80,8 @@ webext-perms-host-description-multiple-domains =
         [one] Kcem ɣer yisefka-inek i yismal deg { $domainCount } taɣult
        *[other] Kcem ɣer yisefka-inek i yismal deg { $domainCount } taɣulin
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Sekles s yisem
 
 ## Strings for data collection permissions in the permission prompt.
 
