@@ -1211,6 +1211,7 @@ qrcode-save-button =
     .label = שמירה
 qrcode-window-title = קוד QR
 qrcode-dialog-title = קוד QR
+qrcode-dialog-title-download-mobile = הורדת { -brand-product-name } לנייד
 qrcode-image =
     .aria-label = קוד QR
 qrcode-close-button =

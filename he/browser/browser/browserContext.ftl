@@ -147,6 +147,27 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = עריכת סימנייה…
     .tooltiptext = עריכת סימנייה ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = פתיחה
+    .accesskey = פ
+main-context-menu-open-link-new-tab-2 =
+    .label = פתיחה בלשונית חדשה
+    .accesskey = ל
+main-context-menu-open-link-split-view-2 =
+    .label = פתיחה בתצוגה מפוצלת
+    .accesskey = צ
+main-context-menu-open-link-container-tab-2 =
+    .label = פתיחה במגירת לשוניות חדשה
+    .accesskey = מ
+main-context-menu-open-link-new-window-2 =
+    .label = פתיחה בחלון חדש
+    .accesskey = ל
+main-context-menu-open-link-new-private-window-2 =
+    .label = פתיחה בחלון פרטי חדש
+    .accesskey = ר
+main-context-menu-bookmark-link-3 =
+    .label = הוספה לסימניות…
+    .accesskey = ה
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +394,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = הפעלת תפריט הפעולות
     .accesskey = ה
+main-context-menu-link-send-to-your-devices =
+    .label = שליחה למכשירים שלך
+    .accesskey = ש
 main-context-menu-link-send-to-device =
     .label = שליחת קישור למכשיר
     .accesskey = מ
@@ -440,6 +464,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = מידע נוסף על ניהול זכויות קניין…
     .accesskey = ז
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = פתיחה בלשונית { $containerName } חדשה
+    .accesskey = ל
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

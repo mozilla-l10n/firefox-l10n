@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = צ’אטים אחרונים
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = לשונית חדשה
+main-context-menu-open-link-new-smart-window-2 =
+    .label = פתיחה ב־{ -smart-window-brand-name } חדש
+    .accesskey = פ
 
 ## Smart Window Toggle Button
 
@@ -340,6 +343,15 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = החלפת מצב: תצוגת רשת
     .tooltiptext = תצוגת רשת
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = סגירת { $text }
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
