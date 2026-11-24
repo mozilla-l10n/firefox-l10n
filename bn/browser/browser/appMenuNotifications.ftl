@@ -56,3 +56,10 @@ appmenu-tab-hide-controlled =
     .label = আপনার লুকানো ট্যাবে প্রবেশ করুন
     .secondarybuttonlabel = এক্সটেনশনটি নিষ্ক্রিয় করুন
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = একটি এক্সটেনশন, <img data-l10n-name="addon-icon"/> { $addonName }, আপনি যখন একটি নতুন ট্যাব খুলবেন তখন আপনি যে পৃষ্ঠাটি দেখতে পাবেন তা পরিবর্তন করেছে৷
