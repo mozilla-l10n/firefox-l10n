@@ -59,3 +59,12 @@ appmenu-tab-hide-controlled =
     .label = Haeziñ hoc'h ivinelloù kuzh
     .secondarybuttonlabel = Diweredekaat an askouezhioù
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Un askouezh, <img data-l10n-name="addon-icon"/> { $addonName }, en deus kemmet ar bajenn a welit pa tigorit un ivinell nevez.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Un askouezh, <img data-l10n-name="addon-icon"/> { $addonName }, a guzh darn hoc'h ivinelloù. Gallout a rit tizhout holl hoc'h ivinelloù adalek <img data-l10n-name="all-tabs-icon"/>.

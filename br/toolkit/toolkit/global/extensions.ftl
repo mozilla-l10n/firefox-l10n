@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = Haeziñ ho roadennoù war al lec'hienno
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Haeziñ ho roadennoù evit { $domain }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Enrollañ evel
 
 ## Strings for data collection permissions in the permission prompt.
 
