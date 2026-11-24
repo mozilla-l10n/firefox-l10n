@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Ukryte karty
     .secondarybuttonlabel = Wyłącz rozszerzenie
     .secondarybuttonaccesskey = W
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Rozszerzenie <img data-l10n-name="addon-icon"/> { $addonName } zmieniło stronę wyświetlaną po otworzeniu nowej karty.
+appmenu-homepage-controlled-message = Rozszerzenie <img data-l10n-name="addon-icon"/> { $addonName } zmieniło stronę wyświetlaną po uruchomieniu i w nowych oknach.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Rozszerzenie <img data-l10n-name="addon-icon"/> { $addonName } ukrywa niektóre karty. Dostęp do wszystkich kart można uzyskać poprzez przycisk <img data-l10n-name="all-tabs-icon"/>.
