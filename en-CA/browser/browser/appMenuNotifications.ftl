@@ -72,3 +72,4 @@ appmenu-tab-hide-controlled =
 ##   $addonName (String): name of the extension.
 
 appmenu-new-tab-controlled-message = An extension, <img data-l10n-name="addon-icon"/> { $addonName }, changed the page you see when you open a new tab.
+appmenu-homepage-controlled-message = An extension, <img data-l10n-name="addon-icon"/> { $addonName }, changed what you see when you open your homepage and new windows.
