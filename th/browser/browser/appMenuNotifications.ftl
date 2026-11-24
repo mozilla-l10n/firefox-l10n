@@ -73,3 +73,5 @@ appmenu-tab-hide-controlled =
 
 appmenu-new-tab-controlled-message = ส่วนขยาย <img data-l10n-name="addon-icon"/> { $addonName } ได้เปลี่ยนหน้าที่คุณเห็นเมื่อคุณเปิดแท็บใหม่
 appmenu-homepage-controlled-message = ส่วนขยาย <img data-l10n-name="addon-icon"/> { $addonName } ได้เปลี่ยนสิ่งที่คุณเห็นเมื่อคุณเปิดหน้าแรกและหน้าต่างใหม่ของคุณ
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = ส่วนขยาย <img data-l10n-name="addon-icon"/> { $addonName } กำลังซ่อนแท็บบางแท็บของคุณอยู่ คุณยังสามารถเข้าถึงแท็บทั้งหมดของคุณได้จาก <img data-l10n-name="all-tabs-icon"/>
