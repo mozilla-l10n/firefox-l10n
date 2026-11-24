@@ -278,6 +278,12 @@ ipprotection-come-back-title = חזרה לנסות את ה־VPN המובנה
 ipprotection-message-body-hide-location = ניתן להסתיר את המיקום שלך בזמן גלישה ב־{ -brand-product-name } לקבלת פרטיות ושליטה רבה יותר.
 ipprotection-connection-status-generic-error-title-1 = לא ניתן היה להתחבר ל־VPN
     .aria-label = לא ניתן היה להתחבר ל־VPN
+ipprotection-connection-status-try-again-button = ניסיון חוזר
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = המשך ללא VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = בתהליך ניסיון חוזר…
+    .aria-label = בתהליך ניסיון חוזר…
 
 ## IP Protection bandwidth callouts
 

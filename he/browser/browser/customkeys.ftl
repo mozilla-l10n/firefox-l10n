@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = השתקה/ביטול השתקה של שמע
 customkeys-edit-find-previous = מצא את הקודם
 customkeys-edit-find-selection = שימוש בטקסט המסומן לחיפוש
 customkeys-tools-screenshot = צילום מסך
+customkeys-tools-lock-windows = נעילת חלונות פרטיים
 customkeys-category-navigation-2 =
     .heading = ניווט
 customkeys-caution-message = תכונה זו היא ניסיונית וייתכן שלא תפעל כצפוי.

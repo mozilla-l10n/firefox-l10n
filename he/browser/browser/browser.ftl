@@ -1702,6 +1702,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = הגנת מעקב מתקדמת פעילה
 trustpanel-etp-label-disabled = הגנת מעקב מתקדמת כבויה
+trustpanel-etp-label-redesign = הגנת מעקב מתקדמת
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1724,7 +1725,10 @@ trustpanel-description-enabled-insecure = ‏{ -brand-product-name } שם לב �
 trustpanel-header-disabled = כיבית את ההגנות
 trustpanel-description-disabled = ההגנות של { -brand-product-name } מושבתות כרגע. אנו מציעים להפעיל מחדש את ההגנות.
 trustpanel-clear-cookies-button = ניקוי עוגיות ונתוני אתרים
+trustpanel-delete-site-data-button = מחיקת נתוני אתר
+trustpanel-fix-site-issue-button = תיקון בעיות באתר
 trustpanel-privacy-link = הגדרות פרטיות
+trustpanel-manage-settings-button = ניהול הגדרות
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1738,6 +1742,7 @@ trustpanel-site-information-header =
     .title = הגנות חיבור עבור { $host }
 trustpanel-siteinformation-morelink = פרטי אתר נוספים
 trustpanel-blocker-see-all = צפייה בהכל
+trustpanel-blocker-see-trackers-button = הצגת רכיבי מעקב
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1847,6 +1852,18 @@ trustpanel-blocker-section-header2 =
         [one] רכיב מעקב <span data-l10n-name="count">אחד</span> נחסם באתר זה
        *[other] <span data-l10n-name="count">{ $count }</span> רכיבי מעקב נחסמו באתר זה
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] ‏{ -brand-short-name } חסם רכיב מעקב <span data-l10n-name="count">אחד</span> באתר זה
+       *[other] ‏{ -brand-short-name } חסם <span data-l10n-name="count">{ $count }</span> רכיבי מעקב באתר זה
+    }
+trustpanel-blocker-description-redesign = רכיבי מעקב אלו נחסמו מאיסוף מידע על הגלישה שלך.
+trustpanel-no-trackers-header-redesign = לא נמצאו רכיבי מעקב באתר זה
+trustpanel-no-trackers-description-redesign = ‏{ -brand-short-name } בדק אחר רכיבי מעקב מוכרים ולא מצא כאלה.
+trustpanel-etp-off-description-redesign = ניתן להפעיל את ההגנות ו־{ -brand-short-name } יחסום רכיבי מעקב מוכרים מאיסוף מידע על הגלישה שלך.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

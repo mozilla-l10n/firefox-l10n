@@ -185,6 +185,20 @@ tab-groups-2026-onboarding-callout-subtitle = ניתן לקבץ לשוניות �
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = יצירת קבוצה
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = קבלת התרעות מאתרים כאשר { -brand-short-name } סגור
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = אתרים מותרים יכולים כעת לשלוח התרעות גם כאשר { -brand-short-name } סגור. <a data-l10n-name="learn-more">מידע נוסף</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = ניהול
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = כיבוי
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = להשאיר פעיל
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד
