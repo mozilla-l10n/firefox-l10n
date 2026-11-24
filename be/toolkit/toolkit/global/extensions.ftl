@@ -83,6 +83,8 @@ webext-perms-host-description-multiple-domains =
         [few] Доступ да звестак для сайтаў у { $domainCount } даменах
        *[many] Доступ да звестак для сайтаў у { $domainCount } даменах
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Захаваць як
 
 ## Strings for data collection permissions in the permission prompt.
 
