@@ -156,6 +156,21 @@ main-context-menu-open-link-new-tab-2 =
 main-context-menu-open-link-split-view-2 =
     .label = Atvērt sadalītajā skatā
     .accesskey = d
+main-context-menu-open-link-container-tab-2 =
+    .label = Atvērt jaunā konteinera cilnē
+    .accesskey = k
+main-context-menu-open-link-new-window-2 =
+    .label = Atvērt jaunā logā
+    .accesskey = l
+main-context-menu-open-link-mini-window =
+    .label = Atvērt mini logā
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = Atvērt jaunā privātā logā
+    .accesskey = p
+main-context-menu-bookmark-link-3 =
+    .label = Saglabāt grāmatzīmēs…
+    .accesskey = g
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -382,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Ieslēgt darbību izvēlni
     .accesskey = d
+main-context-menu-link-send-to-your-devices =
+    .label = Sūtīt uz jūsu ierīcēm
+    .accesskey = s
 main-context-menu-link-send-to-device =
     .label = Sūtīt saiti uz ierīci
     .accesskey = I
@@ -449,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Uzzināt vairāk par DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Atvērt jaunā { $containerName } cilnē
+    .accesskey = t
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

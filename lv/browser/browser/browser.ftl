@@ -1215,6 +1215,7 @@ qrcode-save-button =
     .label = Saglabāt
 qrcode-window-title = Kvadrātkods
 qrcode-dialog-title = Kvadrātkods
+qrcode-dialog-title-download-mobile = Lejupielādēt { -brand-product-name } mobilajām ierīcēm
 qrcode-image =
     .aria-label = Kvadrātkods
 qrcode-close-button =
@@ -1711,6 +1712,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Uzlabotā aizsardzība pret izsekošanu ir ieslēgta
 trustpanel-etp-label-disabled = Uzlabotā aizsardzība pret izsekošanu ir izslēgta
+trustpanel-etp-label-redesign = Uzlabota izsekošanas aizsardzība
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1733,7 +1735,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } pamanīja kaut
 trustpanel-header-disabled = Jūs izslēdzāt aizsardzību
 trustpanel-description-disabled = { -brand-product-name } šobrīd nedarbojas. Mēs iesakām atkal ieslēgt aizsardzību.
 trustpanel-clear-cookies-button = Notīrīt sīkdatnes un vietņu datus
+trustpanel-delete-site-data-button = Dzēst vietnes datus
+trustpanel-fix-site-issue-button = Novērst vietnes problēmu
 trustpanel-privacy-link = Privātuma iestatījumi
+trustpanel-manage-settings-button = Pārvaldīt iestatījumus
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1747,6 +1752,7 @@ trustpanel-site-information-header =
     .title = Savienojuma aizsardzība { $host }
 trustpanel-siteinformation-morelink = Vairāk informācijas par vietni
 trustpanel-blocker-see-all = Apskatīt visu
+trustpanel-blocker-see-trackers-button = Skatīt izsekotājus
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =

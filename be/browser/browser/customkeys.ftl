@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Уключыць/выключыць гук
 customkeys-edit-find-previous = Знайсці папярэдняе
 customkeys-edit-find-selection = Ужыць вылучэнне для пошуку
 customkeys-tools-screenshot = Зрабіць здымак экрана
+customkeys-tools-lock-windows = Заблакаваць прыватныя вокны
 customkeys-category-navigation-2 =
     .heading = Навігацыя
 customkeys-caution-message = Гэтая функцыя эксперыментальная і можа не працаваць належным чынам.

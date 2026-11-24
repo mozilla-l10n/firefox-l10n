@@ -20,6 +20,9 @@ preferences-privacy-relay-available =
 preferences-window-lock-macos =
     .description = { -brand-short-name } запытае пароль або ключ доступу да вашай прылады пасля таго, як камп'ютар заблакуецца, пяройдзе ў рэжым сну або запусціць экранную застаўку.
     .label = Аўтаматычна блакаваць прыватныя вокны
+preferences-window-lock-windows =
+    .description = Пасля блакавання камп'ютара { -brand-short-name } запытае пароль або ключ доступу да вашай прылады.
+    .label = Аўтаматычна блакаваць прыватныя вокны
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
