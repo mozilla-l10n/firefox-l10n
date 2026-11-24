@@ -148,6 +148,15 @@ webext-site-perms-midi = Aliri aparatojn MIDI
 webext-site-perms-midi-sysex = Aliri aparatojn MIDI kun subteno por SysEx
 webext-site-perms-serial = Aliri seriajn aparatojn
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Malinstali { $extension }
+webext-uninstall-confirmation-message = La etendaĵo “{ $extension }” petas sian malinstalon. Kion vi ŝatus fari?
+webext-uninstall-confirmation-button-uninstall = Malinstali
+webext-uninstall-confirmation-button-keep = Lasi instalita
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Via koloraro estis forigita.</b> { -brand-shorter-name } ĝisdatigis sian kolekton de koloraroj. Vi povas trovi la lastajn versiojn en la retejo por aldonaĵoj.
