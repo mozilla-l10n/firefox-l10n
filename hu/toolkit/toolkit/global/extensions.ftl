@@ -155,6 +155,9 @@ webext-site-perms-serial = Soros portos eszközök elérése
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = { $extension } eltávolítása
+webext-uninstall-confirmation-message = A(z) „{ $extension }” kiegészítő az eltávolítását kéri. Mit szeretne tenni?
+webext-uninstall-confirmation-button-uninstall = Eltávolítás
+webext-uninstall-confirmation-button-keep = Telepítés megtartása
 
 ## Colorway theme migration
 
