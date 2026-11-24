@@ -135,9 +135,9 @@ addon-category-dictionary-title =
 addon-category-locale = Jezici
 addon-category-locale-title =
     .title = Jezici
-addon-category-available-updates = Dostupne dopune
+addon-category-available-updates = Dostupne nove verzije
 addon-category-available-updates-title =
-    .title = Dostupne dopune
+    .title = Dostupne nove verzije
 addon-category-recent-updates = Nedavna aktualiziranja
 addon-category-recent-updates-title =
     .title = Nedavna aktualiziranja
@@ -189,8 +189,8 @@ addon-updates-reset-updates-to-manual = Postavi ručno aktualiziranje za sve dod
 
 addon-updates-updating = Aktualiziranje dodataka
 addon-updates-installed = Tvoji su dodaci aktualizirani.
-addon-updates-none-found = Nisu pronađene dopune
-addon-updates-manual-updates-found = Prikaži dostupne dopune
+addon-updates-none-found = Nema novih verzija
+addon-updates-manual-updates-found = Prikaži dostupne nove verzije
 
 ## Add-on install/debug strings for page options menu
 
@@ -425,7 +425,7 @@ addon-badge-recommended4 =
 
 ##
 
-available-updates-heading = Dostupne dopune
+available-updates-heading = Dostupne nove verzije
 recent-updates-heading = Nedavna aktualiziranja
 release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.

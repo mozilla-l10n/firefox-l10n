@@ -198,7 +198,15 @@ tab-groups-2026-onboarding-cta-button = ਇੱਕ ਗਰੁੱਪ ਸ਼ੁਰੂ �
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
-closed-browser-notifications-callout-title = { -brand-short-name } ਬੰਦ ਹੋਣ ਬਾਰੇ ਵੈੱਬ ਨੋਟੀਫਿਕੇਸ਼ਨ ਲਵੋ
+closed-browser-notifications-callout-title = { -brand-short-name } ਬੰਦ ਹੋਣ ਸਮੇਂ ਵੈੱਬ ਨੋਟੀਫਿਕੇਸ਼ਨ ਲਵੋ
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = ਤੁਹਾਡੇ ਵਲੋਂ ਮਨਜ਼ੂਰ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਹੁਣ { -brand-short-name } ਬੰਦ ਹੋਣ ਦੌਰਾਨ ਵੀ ਨੋਟੀਫਿਕੇਸ਼ਨ ਭੇਜ ਸਕਦੀਆਂ ਹਨ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = ਬੰਦੋਬਸਤ
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = ਬੰਦ ਕਰੋ
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = ਚਾਲੂ ਰੱਖੋ
 
 ## Sidebar Strings
 

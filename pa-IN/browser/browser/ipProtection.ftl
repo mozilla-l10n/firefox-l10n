@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = …VPN ਕਨੈਕਟ ਕੀਤ�
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = ਬੰਦ ਕਰੋ
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = { DATETIME($endDate, day: "numeric", month: "long") } ਤੱਕ ਬੇਅੰਤ ਬੈਂਡਵਿਡਥ
+ipprotection-unlimited-bandwidth-upgraded = ਬੇਅੰਤ ਬੈਂਡਵਿਡਥ
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -211,6 +218,16 @@ ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name } ਨਾਲ ਹੋਰ ਵਧੇਰੇ ਸੁਰੱਖਿਆ ਲਵੋ
     .message = 300+ ਤੋਂ ਵੱਧ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋ ਅਤੇ 5 ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਨੂੰ ਸੁਰੱਖਿਆ ਦਿਓ।
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } ਲਵੋ
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = ਹੋਰ ਵੱਧ ਟਿਕਾਣੇ। ਹੋਰ ਵੱਧ ਸੁਰੱਖਿਆ।
+    .message =
+        { $count ->
+            [one] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਮੂਲ ਬਣਾਓ ਅਤੇ { $count } ਹੋਰ ਟਿਕਾਣਾ ਲਵੋ। ਜਿੱਥੇ VPN ਵਿੱਚ ਮੌਜੂਦ ਹੋਵੇ ਤਾਂ ਤੁਹਾਡੇ ਲਿੰਕਾਂ ਨੂੰ ਇੱਥੇ ਖੋਲ੍ਹਿਆ ਜਾਂਦਾ ਹੈ।
+           *[other] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਮੂਲ ਬਣਾਓ ਅਤੇ { $count } ਹੋਰ ਟਿਕਾਣੇ ਲਵੋ। ਜਿੱਥੇ VPN ਵਿੱਚ ਮੌਜੂਦ ਹੋਵੇ ਤਾਂ ਤੁਹਾਡੇ ਲਿੰਕਾਂ ਨੂੰ ਇੱਥੇ ਖੋਲ੍ਹਿਆ ਜਾਂਦਾ ਹੈ।
+        }
+ipprotection-locations-subview-set-default-promo-button = ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
 
 ## VPN paused state
 
@@ -247,6 +264,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜੇ ਹੋ
     .message = ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਮਹੀਨੇ ਲਈ ਮੌਜੂਦ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } MB ਬਾਕੀ ਬਚਿਆ ਹੈ।
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] ਤੁਸੀਂ { $additionalLocationsCount } ਹੋਰ VPN ਟਿਕਾਣਾ ਲਿਆ ਹੈ
+           *[other] ਤੁਸੀਂ { $additionalLocationsCount } ਹੋਰ VPN ਟਿਕਾਣੇ ਲਏ ਹਨ
+        }
+    .message = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਣਾਉਣ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਅਸੀਂ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਹੋਰ ਟਿਕਾਣੇ ਜੋੜੇ ਹਨ।
 ipprotection-message-continuous-onboarding-intro = ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਵਾਧੂ ਇੰਕ੍ਰਿਪਸ਼ਨ ਜੋੜਨ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ।
 ipprotection-message-continuous-onboarding-autostart = ਵਾਧੂ ਸੁਰੱਖਿਆ ਜੋੜਨ ਲਈ ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹੋ ਤਾਂ ਹਰ ਵਾਰ <a data-l10n-name="setting-link">VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰੋ</a>।
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ਯਾਦ ਰੱਖੇਗਾ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ VPN ਸੈੱਟ ਕੀਤਾ ਹੈ। ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ <a data-l10n-name="setting-link">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਅੱਪਡੇਟ ਕਰੋ।
@@ -257,6 +283,12 @@ ipprotection-come-back-title = ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮ
 ipprotection-message-body-hide-location = ਹੋਰ ਪਰਦੇਦਾਰੀ ਅਤੇ ਕੰਟਰੋਲ ਵਾਸਤੇ { -brand-product-name } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ।
 ipprotection-connection-status-generic-error-title-1 = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
     .aria-label = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+ipprotection-connection-status-try-again-button = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = VPN ਤੋਂ ਬਿਨਾਂ ਜਾਰੀ ਰੱਖੋ
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = …ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+    .aria-label = …ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 
 ## IP Protection bandwidth callouts
 

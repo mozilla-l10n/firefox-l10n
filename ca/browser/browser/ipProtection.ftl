@@ -185,6 +185,13 @@ ipprotection-connection-status-connecting-1 = La VPN s'està connectant…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Desactiva
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = Amplada de banda il·limitada fins al dia { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Amplada de banda il·limitada
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -211,6 +218,7 @@ ipprotection-locations-subview-promo =
     .heading = Protegeix-vos més amb el { -mozilla-vpn-brand-name }
     .message = Trieu entre més de 300 ubicacions i protegiu totes les vostres aplicacions en un màxim de 5 dispositius.
 ipprotection-locations-subview-promo-button = Obteniu { -mozilla-vpn-brand-name }
+ipprotection-locations-subview-set-default-promo-button = Obre els enllaços amb { -brand-short-name }
 
 ## VPN paused state
 
