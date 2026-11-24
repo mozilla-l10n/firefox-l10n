@@ -72,3 +72,4 @@ appmenu-tab-hide-controlled =
 ##   $addonName (String): name of the extension.
 
 appmenu-new-tab-controlled-message = Страница, отображаемая при открытии новой вкладки, была изменена расширением <img data-l10n-name="addon-icon"/> { $addonName }.
+appmenu-homepage-controlled-message = Содержимое, отображаемое при открытии домашней страницы и новых окон, было изменено расширением <img data-l10n-name="addon-icon"/> { $addonName }.
