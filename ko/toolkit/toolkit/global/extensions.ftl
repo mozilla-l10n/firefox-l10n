@@ -150,6 +150,7 @@ webext-site-perms-serial = 직렬 기기 접근
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = { $extension } 설치제거
 webext-uninstall-confirmation-message = “{ $extension }” 확장 기능의 설치제거가 요청되었습니다. 어떻게 하시겠습니까?
 webext-uninstall-confirmation-button-uninstall = 설치제거
 webext-uninstall-confirmation-button-keep = 설치유지
