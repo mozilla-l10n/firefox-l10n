@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Acceder als tabs zuppentads
     .secondarybuttonlabel = Deactivar l'extensiun
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Ina extensiun, <img data-l10n-name="addon-icon"/> { $addonName }, ha midà la pagina che ti vesas cura che ti avras in nov tab.
+appmenu-homepage-controlled-message = Ina extensiun, <img data-l10n-name="addon-icon"/> { $addonName }, ha midà la pagina che vegn mussada cura che ti avras la pagina da partenza u novas fanestras.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Ina extensiun, <img data-l10n-name="addon-icon"/> { $addonName }, zuppenta tscherts da tes tabs. Ti pos adina acceder a tut ils tabs via <img data-l10n-name="all-tabs-icon"/>.
