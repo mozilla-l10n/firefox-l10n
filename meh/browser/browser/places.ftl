@@ -17,6 +17,9 @@ places-open-all-in-tabs =
 places-open-in-window =
     .label = Síne nuu iin ventana jíía
     .accesskey = v
+places-open-in-private-window2 =
+    .label = Síne nuu iin ventana yu´u
+    .accesskey = p
 places-open-in-private-window =
     .label = Síne nuu iin ventana yu´u
     .accesskey = p
@@ -107,3 +110,6 @@ places-search-history =
     .placeholder = Nánuku nu historial
 places-search-downloads =
     .placeholder = Nànuku a nxinuun
+
+##
+
