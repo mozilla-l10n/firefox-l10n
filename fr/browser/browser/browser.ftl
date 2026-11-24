@@ -1847,9 +1847,7 @@ trustpanel-blocker-section-header2-redesign =
         [one] { -brand-short-name } a bloqué <span data-l10n-name="count">{ $count }</span> traqueur sur ce site
        *[other] { -brand-short-name } a bloqué <span data-l10n-name="count">{ $count }</span> traqueurs sur ce site
     }
-trustpanel-blocker-description-redesign = Ces traqueurs n’ont pas pu collecter des informations sur votre navigation.
 trustpanel-no-trackers-header-redesign = Aucun traqueur trouvé sur ce site
-trustpanel-no-trackers-description-redesign = { -brand-short-name } a vérifié la présence de traqueurs connus et n’en a trouvés.
 trustpanel-etp-off-description-redesign = Activez les protections et { -brand-short-name } empêchera les traqueurs connus de collecter des informations sur votre navigation.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
