@@ -150,6 +150,14 @@ webext-site-perms-midi = Přistupovat k MIDI zařízením
 webext-site-perms-midi-sysex = Přistupovat k MIDI zařízením s podporou SysEx
 webext-site-perms-serial = Přístup k sériovým zařízením
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-message = Rozšíření “{ $extension }” žádá o odinstalaci. Co si přejete udělat?
+webext-uninstall-confirmation-button-uninstall = Odinstalovat
+webext-uninstall-confirmation-button-keep = Ponechat nainstalované
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Vaše paleta barev byla odebrána.</b> { -brand-shorter-name } aktualizoval svou sbírku palet barev. Nejnovější verze najdete na webu s doplňky.
