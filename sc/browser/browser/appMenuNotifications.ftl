@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Atzede a is ischedas cuadas tuas
     .secondarybuttonlabel = Disativa s'estensione
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = S'estensione <img data-l10n-name="addon-icon"/> { $addonName } at mudadu sa pàgina chi benit ammustrada cando aberis un'ischeda noa.
+appmenu-homepage-controlled-message = Un’estensione, <img data-l10n-name="addon-icon"/> { $addonName }, at modificadu su chi bides cando aberis sa pàgina printzipale e ventanas noas.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Un’estensione, <img data-l10n-name="addon-icon"/> { $addonName }, est cuende unas cantas de is ischedas tuas. Podes atzèdere a totu is ischedas dae <img data-l10n-name="all-tabs-icon"/>.
