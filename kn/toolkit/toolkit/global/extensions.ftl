@@ -46,6 +46,8 @@ webext-perms-host-description-wildcard = ನಿಮ್ಮ { $domain } ವ್ಯ�
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ಗಾಗಿ ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಪಡೆಯಿರಿ
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ಹೀಗೆ ಉಳಿಸು
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -77,6 +79,7 @@ webext-perms-host-description-one-site = { $domain } ಗಾಗಿ ನಿಮ್�
 
 webext-uninstall-confirmation-title = ತೆಗೆದುಹಾಕು { $extension }
 webext-uninstall-confirmation-button-uninstall = ತೆಗೆದುಹಾಕು
+webext-uninstall-confirmation-button-keep = ಸ್ಥಾಪನೆಯಾಗಿಯೇ ಇರಿಸಿ
 
 ## Colorway theme migration
 
