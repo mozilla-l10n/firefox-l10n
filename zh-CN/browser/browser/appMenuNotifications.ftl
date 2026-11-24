@@ -65,3 +65,10 @@ appmenu-tab-hide-controlled =
     .label = 访问您隐藏的标签页
     .secondarybuttonlabel = 禁用扩展
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = 扩展“<img data-l10n-name="addon-icon"/> { $addonName }”修改了您打开新标签页时会看到的页面。
