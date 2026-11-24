@@ -155,6 +155,10 @@ webext-site-perms-serial = Piekļuve seriālajām ierīcēm
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Noņemt { $extension }
+webext-uninstall-confirmation-message = Paplašinājums “{ $extension }” pieprasa noņemšanu. Ko iesākt?
+webext-uninstall-confirmation-button-uninstall = Noņemt
+webext-uninstall-confirmation-button-keep = Paturēt
 
 ## Colorway theme migration
 
