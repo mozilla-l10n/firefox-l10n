@@ -81,6 +81,8 @@ webext-perms-host-description-multiple-domains =
     { $domainCount ->
        *[other] { $domainCount } ਡੋਮੇਨਾਂ ਵਿੱਚ ਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ਇੰਝ ਸੰਭਾਲੋ
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -146,6 +148,15 @@ webext-site-perms-header-unsigned-with-perms = { $extension } ਨੂੰ ਜੋ�
 webext-site-perms-midi = MIDI ਡਿਵਾਈਸਾਂ ਲਈ ਪਹੁੰਚ
 webext-site-perms-midi-sysex = SysEx ਸਹਿਯੋਗ ਲਈ MIDI ਡਿਵਾਈਸਾਂ ਲਈ ਪਹੁੰਚ
 webext-site-perms-serial = ਸੀਰੀਅਲ ਡਿਵਾਈਸਾਂ ਲਈ ਪਹੁੰਚ
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = { $extension } ਅਣ-ਇੰਸਟਾਲ ਕਰੋ
+webext-uninstall-confirmation-message = ਇਕਟੈਨਸ਼ਨ ਵਲੋਂ “{ $extension }” ਨੂੰ ਅਣ-ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਮੰਗ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+webext-uninstall-confirmation-button-uninstall = ਅਣ-ਇੰਸਟਾਲ ਕਰੋ
+webext-uninstall-confirmation-button-keep = ਇੰਸਟਾਲ ਹੀ ਰੱਖੋ
 
 ## Colorway theme migration
 
