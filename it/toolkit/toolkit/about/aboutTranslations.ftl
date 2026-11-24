@@ -9,7 +9,7 @@ about-translations-description = Traduzioni immediate che rispettano la tua priv
 about-translations-learn-more-link = Ulteriori informazioni
 # This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
 about-translations-split-view-close-button =
-    .title = Close { -translations-brand-name }
+    .title = Chiudi { -translations-brand-name }
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = La funzione di traduzione non è disponibile su questo dispositivo
