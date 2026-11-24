@@ -145,6 +145,7 @@ webext-site-perms-midi-sysex = Acedi a dispositîfs MIDI cun supuart SysEx
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Disinstale { $extension }
 webext-uninstall-confirmation-message = La estension “{ $extension }” e domande di sei disinstalade. Ce desideristu fâ?
 webext-uninstall-confirmation-button-uninstall = Disinstale
 webext-uninstall-confirmation-button-keep = Ten instalade
