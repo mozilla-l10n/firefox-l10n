@@ -154,6 +154,10 @@ webext-site-perms-serial = Të hyjë në pajisje seriale
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Çinstaloje { $extension }
+webext-uninstall-confirmation-message = Zgjerimi “{ $extension }” po kërkon të çinstalohet. Ç’do të donit të bënit?
+webext-uninstall-confirmation-button-uninstall = Çinstaloje
+webext-uninstall-confirmation-button-keep = Mbaje të Instaluar
 
 ## Colorway theme migration
 
