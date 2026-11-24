@@ -147,6 +147,15 @@ webext-site-perms-midi = Tilgang til MIDI-einingar
 webext-site-perms-midi-sysex = Tilgang til MIDI-einingar med SysEx-sttte
 webext-site-perms-serial = Tilgang til serielle einingar
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Avinstaller { $extension }
+webext-uninstall-confirmation-message = Utvidinga «{ $extension }» ber om å bli avinstallert. Kva ønskjer du å gjera?
+webext-uninstall-confirmation-button-uninstall = Avinstaller
+webext-uninstall-confirmation-button-keep = Behald installert
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Fargetemaet ditt vart fjerna.</b> { -brand-shorter-name } har oppdatert samlinga si av fargetema. Du finn dei nyaste versjonane på nettstaden for tillegg.
