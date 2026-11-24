@@ -282,6 +282,9 @@ ipprotection-connection-status-generic-error-title-1 = Impossibile connecter se 
 ipprotection-connection-status-try-again-button = Retentar
 # Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
 ipprotection-connection-error-continue-without-vpn = Continuar sin VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Retentante…
+    .aria-label = Retentante…
 
 ## IP Protection bandwidth callouts
 

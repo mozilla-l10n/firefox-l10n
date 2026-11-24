@@ -198,6 +198,9 @@ tab-groups-2026-onboarding-cta-button = Crea un gruppo
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
+closed-browser-notifications-callout-title = Obtener avisos de web con { -brand-short-name } clause
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Le sitos que tu permitte pote ora inviar avisos mesmo quando { -brand-short-name } es clause. <a data-l10n-name="learn-more">Pro saper plus</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Gerer
 # Stops notifications from being delivered while the browser is closed.

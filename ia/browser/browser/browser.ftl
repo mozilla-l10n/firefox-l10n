@@ -1857,6 +1857,7 @@ trustpanel-blocker-section-header2-redesign =
 trustpanel-blocker-description-redesign = Iste traciatores era blocate de colliger informationes re tu navigation.
 trustpanel-no-trackers-header-redesign = Necun traciator trovate in iste sito
 trustpanel-no-trackers-description-redesign = { -brand-short-name } verificava pro note traciatores e non trovava alcun.
+trustpanel-etp-off-description-redesign = Activa le protectiones e { -brand-short-name } blocara le traciatores note de colliger informationes re tu navigation.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

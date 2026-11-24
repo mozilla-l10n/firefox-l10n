@@ -7,6 +7,7 @@
 ## sleep or starts the screen saver, or after the user presses the shortcut to
 ## lock windows.
 
+window-lock-private-title = Le fenestras private es blocate
 window-lock-unlock-button =
     .label = Disblocar
 # Title of the Windows authentication prompt when unlocking browser windows.
