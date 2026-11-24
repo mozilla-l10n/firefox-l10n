@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] { $domainCount } alan adındaki sitelere ait verilerinize erişme
        *[other] { $domainCount } alan adındaki sitelere ait verilerinize erişme
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Farklı kaydet
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -152,6 +154,8 @@ webext-site-perms-serial = Seri cihazlara erişebilir
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = { $extension } uzantısını kaldır
+webext-uninstall-confirmation-message = “{ $extension }” uzantısı kaldırılmayı istiyor. Ne yapmak istersiniz?
 webext-uninstall-confirmation-button-uninstall = Kaldır
 webext-uninstall-confirmation-button-keep = Kaldırma
 
