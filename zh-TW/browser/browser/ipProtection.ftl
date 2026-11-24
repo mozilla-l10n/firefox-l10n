@@ -32,9 +32,9 @@ ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-3 = 從多個地點任選，隱藏您的實際上網位置，讓<a data-l10n-name="learn-more-vpn">上網更有隱私</a>。
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = 在您上網時隱藏實際所在地點，以獲得<a data-l10n-name="learn-more-vpn">更多隱私保障</a>。您可以只針對特定網站開啟或關閉 VPN。
-ipprotection-feature-introduction-text-summer-promo-1 = 開啟後即可讓您上網更有隱私。即日起至 8 月 31 日止可<a data-l10n-name="summer-promo-link">獲得無限頻寬</a>與更多連線位置。
+ipprotection-feature-introduction-text-summer-promo-1 = 開啟後即可讓您上網更有隱私。即日起至 8 月 31 日止可<a data-l10n-name="summer-promo-link">獲得無限流量</a>與更多連線位置。
 ipprotection-feature-introduction-title-summer-promo = 準備要旅行嗎？讓隱私隨身帶著走。
-ipprotection-feature-introduction-description-summer-promo = 使用 { -brand-product-name } 內建的 VPN 讓您走得更遠：更多地點、頻寬不設限。即日起至 8 月 31 日止。
+ipprotection-feature-introduction-description-summer-promo = 使用 { -brand-product-name } 內建的 VPN 讓您走得更遠：更多地點、流量不設限。即日起至 8 月 31 日止。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
 ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
@@ -75,7 +75,7 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = 您的內建 VPN 升級了
-ipprotection-summer-promo-offramp-subscriber-description = 作為 { -mozilla-vpn-brand-name } 訂閱者，您現在可獲得無限頻寬與更多連線位置。
+ipprotection-summer-promo-offramp-subscriber-description = 作為 { -mozilla-vpn-brand-name } 訂閱者，您現在可獲得無限流量與更多連線位置。
 # Default browser incentive summer promo offramp message
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
@@ -84,7 +84,7 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = 將 { 
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = 讓 { -mozilla-vpn-brand-name } 升級
-ipprotection-summer-promo-offramp-subscription-upsell-description = 於 8 月 31 起保留無限頻寬，還有能在最多 5 台裝置透過超過 300 個位置連線，讓您上網更難被追蹤。
+ipprotection-summer-promo-offramp-subscription-upsell-description = 於 8 月 31 起享有無限流量，還有能在最多 5 台裝置透過超過 300 個位置連線，讓您上網更難被追蹤。
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 開啟 VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 設為預設瀏覽器
 ipprotection-summer-promo-offramp-get-subscription-button = 獲得 { -mozilla-vpn-brand-name }
@@ -189,8 +189,8 @@ ipprotection-button-turn-vpn-off-1 = 關閉
 
 # Variables
 #   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
-ipprotection-unlimited-bandwidth-promo = { DATETIME($endDate, day: "numeric", month: "long") } 前可享無限頻寬
-ipprotection-unlimited-bandwidth-upgraded = 無限頻寬
+ipprotection-unlimited-bandwidth-promo = { DATETIME($endDate, day: "numeric", month: "long") } 前可享無限流量
+ipprotection-unlimited-bandwidth-upgraded = 無限流量
 
 ## Location controls
 

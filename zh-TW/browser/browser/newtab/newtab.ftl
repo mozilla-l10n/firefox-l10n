@@ -224,7 +224,7 @@ newtab-privacy-message-info-11 = 看看 { -brand-short-name } 如何幫助您讓
 newtab-privacy-message-info-11-cta = 更多資訊
 newtab-privacy-message-info-12 = 若您並非使用吃到飽網路，封鎖追蹤器也可幫助節省頻寬。
 newtab-privacy-message-info-12-cta = 檢視保護成果
-newtab-privacy-message-info-13 = { -brand-short-name } 會封鎖追蹤器、節省頻寬，讓您追劇更順暢。
+newtab-privacy-message-info-13 = { -brand-short-name } 會封鎖追蹤器、節省流量，讓您追劇更順暢。
 newtab-privacy-message-info-13-cta = 檢視保護成果
 
 ## Privacy widget — promotional messages
