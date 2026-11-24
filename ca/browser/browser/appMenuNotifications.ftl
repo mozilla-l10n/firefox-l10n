@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Accedeix a les pestanyes ocultes
     .secondarybuttonlabel = Inhabilita l'extensió
     .secondarybuttonaccesskey = I
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = L'extensió <img data-l10n-name="addon-icon"/> { $addonName } ha canviat la pàgina que es mostra en obrir una pestanya nova.
+appmenu-homepage-controlled-message = L'extensió <img data-l10n-name="addon-icon"/> { $addonName } ha canviat el contingut que es mostra en obrir la pàgina d'inici i finestres noves.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = L'extensió <img data-l10n-name="addon-icon"/> { $addonName } ha amagat algunes de les vostres pestanyes. Podeu accedir a totes les vostres pestanyes mitjançant <img data-l10n-name="all-tabs-icon"/>.
