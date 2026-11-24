@@ -163,13 +163,13 @@ main-context-menu-open-link-new-window-2 =
     .label = Atvērt jaunā logā
     .accesskey = l
 main-context-menu-open-link-mini-window =
-    .label = Atvērt mini logā
-    .accesskey = m
+    .label = Atvērt sīklogā
+    .accesskey = s
 main-context-menu-open-link-new-private-window-2 =
     .label = Atvērt jaunā privātā logā
     .accesskey = p
 main-context-menu-bookmark-link-3 =
-    .label = Saglabāt grāmatzīmēs…
+    .label = Saglabāt kā grāmatzīmi…
     .accesskey = g
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.

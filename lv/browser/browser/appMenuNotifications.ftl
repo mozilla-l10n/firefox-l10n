@@ -71,7 +71,7 @@ appmenu-tab-hide-controlled =
 ## Variables:
 ##   $addonName (String): name of the extension.
 
-appmenu-new-tab-controlled-message = Paplašinājums <img data-l10n-name="addon-icon"/> { $addonName } ir izmainījis lapu ko redzat atverot jaunu cilni.
-appmenu-homepage-controlled-message = Paplašinājums <img data-l10n-name="addon-icon"/> { $addonName } nomainīja, kas redzams, kad atver sākumlapu un jaunus logus.
+appmenu-new-tab-controlled-message = Paplašinājums <img data-l10n-name="addon-icon"/> { $addonName } nomainīja lapu, kas ir redzama pēc jaunas cilnes atvēršanas.
+appmenu-homepage-controlled-message = Paplašinājums <img data-l10n-name="addon-icon"/> { $addonName } nomainīja, kas redzams pēc sākumlapas un jaunus logu atvēršanas.
 # The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
-appmenu-tab-hide-controlled-message = Paplašinājums <img data-l10n-name="addon-icon"/> { $addonName } slēpj dažas jūsu cilnes. Tās joprojām ir pieejamas no <img data-l10n-name="all-tabs-icon"/>.
+appmenu-tab-hide-controlled-message = Paplašinājums <img data-l10n-name="addon-icon"/> { $addonName } slēpj dažas no cilnēm. Tās joprojām ir pieejamas <img data-l10n-name="all-tabs-icon"/>.
