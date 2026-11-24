@@ -1713,6 +1713,7 @@ trustpanel-description-enabled-insecure = { -brand-product-name } a remarqué qu
 trustpanel-header-disabled = Vous avez désactivé les protections
 trustpanel-description-disabled = { -brand-product-name } ne monte pas la garde. Nous vous suggérons de réactiver les protections.
 trustpanel-clear-cookies-button = Effacer les cookies et les données de sites
+trustpanel-delete-site-data-button = Supprimer les données de sites
 trustpanel-fix-site-issue-button = Résoudre un problème sur le site
 trustpanel-privacy-link = Paramètres de vie privée
 trustpanel-manage-settings-button = Gérer les paramètres
@@ -1847,7 +1848,9 @@ trustpanel-blocker-section-header2-redesign =
         [one] { -brand-short-name } a bloqué <span data-l10n-name="count">{ $count }</span> traqueur sur ce site
        *[other] { -brand-short-name } a bloqué <span data-l10n-name="count">{ $count }</span> traqueurs sur ce site
     }
+trustpanel-blocker-description-redesign = Ces traqueurs ont été empêchés de recueillir des informations sur votre navigation.
 trustpanel-no-trackers-header-redesign = Aucun traqueur trouvé sur ce site
+trustpanel-no-trackers-description-redesign = { -brand-short-name } a recherché la présence de traqueurs connus et n’en a trouvé aucun.
 trustpanel-etp-off-description-redesign = Activez les protections et { -brand-short-name } empêchera les traqueurs connus de collecter des informations sur votre navigation.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")

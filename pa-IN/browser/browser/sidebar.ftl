@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 sidebar-history-context-menu-delete-pages =
     .label = ਅਤੀਤ ਵਿੱਚੋਂ ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = ਹਟਾਓ
 
 ## Labels for sidebar bookmarks context menu items
 

@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Discussions récentes
 smartwindow-fullpage-heading = { -smart-window-brand-name(form: "upper-singular") }
 smartwindow-document-title = Nouvel onglet
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Ouvrir dans une nouvelle { -smart-window-brand-name(form: "lower-singular") }
+    .accesskey = O
 
 ## Smart Window Toggle Button
 
@@ -413,6 +416,9 @@ smartwindow-onboarding-memories-none = Ne pas apprendre de mon activité
 smartwindow-onboarding-memories-both-description = Discutez dans les { -smart-window-brand-name(form: "lower-plural") } tout en naviguant dans { -brand-short-name }
 smartwindow-onboarding-memories-browsing-description = La navigation sur { -brand-short-name }
 smartwindow-onboarding-memories-chats-description = Les discussions des { -smart-window-brand-name(form: "lower-plural") }
-smartwindow-onboarding-memories-none-description = Vous verrez moins de suggestions sur mesure et vous devrez peut-être répéter les détails d’une discussion à l’autre.
+smartwindow-onboarding-memories-none-description = Les suggestions seront moins personnalisées et vous devrez peut-être répéter certaines informations d’une conversation à l’autre.
+smartwindow-onboarding-default-window =
+    .description = Utiliser une { -smart-window-brand-name(form: "lower-singular") } au démarrage de { -brand-short-name }, à son redémarrage ou à l’ouverture de liens depuis une autre application.
+    .label = Débuter dans une { -smart-window-brand-name(form: "lower-singular") }
 smartwindow-onboarding-save =
     .label = Enregistrer et continuer

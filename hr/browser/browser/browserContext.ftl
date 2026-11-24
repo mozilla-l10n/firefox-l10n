@@ -147,6 +147,21 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Uredi zabilješku …
     .tooltiptext = Uredi zabilješku ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Otvori
+    .accesskey = O
+main-context-menu-open-link-new-tab-2 =
+    .label = Otvori u novoj kartici
+    .accesskey = t
+main-context-menu-open-link-split-view-2 =
+    .label = Otvori u podijeljenom prikazu
+    .accesskey = O
+main-context-menu-open-link-container-tab-2 =
+    .label = Otvori u novoj kontejnerskoj kartici
+    .accesskey = O
+main-context-menu-open-link-new-window-2 =
+    .label = Otvori u novom prozoru
+    .accesskey = O
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =

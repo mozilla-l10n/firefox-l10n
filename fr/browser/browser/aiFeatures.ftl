@@ -39,7 +39,7 @@ smart-window-model-radio-group =
     .aria-label = Modèle de l’assistant
 smart-window-model-learn-link = En savoir plus sur les modèles
 smart-window-model-auto =
-    .description = { -smart-window-brand-name } choisit le meilleur modèle pour votre tâche
+    .description = La { -smart-window-brand-name(form: "lower-singular") } sélectionne le modèle le plus approprié pour votre tâche
     .label = Modèle automatique
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

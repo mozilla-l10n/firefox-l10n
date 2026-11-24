@@ -266,6 +266,9 @@ colorway-removal-notice-button = ਅੱਪਡੇਟ ਕੀਤੇ ਰੰਗ-ਢ�
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = ਤੁਹਾਡੀਆਂ Windows ਕਨਟਰਾਸਟ ਸੈਟਿੰਗਾਂ { -brand-short-name } ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਰਹੀਆਂ ਹਨ। { -brand-short-name } ਵਿੱਚ ਥੀਮਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਉਹਨਾਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } ਦੇ ਆਪਣੇ ਵਿੱਚ ਮੌਜੂਦ ਹਲਕੇ ਅਤੇ ਗੂੜ੍ਹੇ ਥੀਮ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਡੀਆਂ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਮੁਤਾਬਕ ਕੰਮ ਕਰਦੇ ਹਨ।
 privacy-policy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

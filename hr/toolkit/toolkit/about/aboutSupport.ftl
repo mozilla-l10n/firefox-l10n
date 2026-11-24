@@ -342,12 +342,12 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-disabled-by-e10s-env = Onemogućilo okruženje
+fission-status-disabled-by-e10s-env = Deaktivirano od okruđenja
 fission-status-enabled-by-env = Aktivirano od okruženja
 fission-status-enabled-by-default = Standardno aktivirano
 fission-status-disabled-by-default = Standardno deaktivirano
 fission-status-enabled-by-user-pref = Aktivirano od korisnika
-fission-status-disabled-by-user-pref = Onemogućio korisnik
+fission-status-disabled-by-user-pref = Deaktivirano od korisnika
 fission-status-disabled-by-e10s-other = E10s deaktiviran
 async-pan-zoom = Asinkrono pomicanje/zumiranje
 apz-none = ništa
