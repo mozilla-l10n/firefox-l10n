@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Opna falda flipa
     .secondarybuttonlabel = Slökkva á forritsauka
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Forritsaukinn <img data-l10n-name="addon-icon"/> { $addonName }, hefur breytt síðunni sem sést þegar nýr flipi er opnaður.
+appmenu-homepage-controlled-message = Forritsaukinn <img data-l10n-name="addon-icon"/> { $addonName }, hefur breytt því sem sést þegar þú ferð inn á upphafssíðuna þína eða opnar nýja glugga.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Forritsaukinn <img data-l10n-name="addon-icon"/> { $addonName }, er að fela suma flipana þína. Þú getur enn nálgast alla flipana þína frá <img data-l10n-name="all-tabs-icon"/>.
