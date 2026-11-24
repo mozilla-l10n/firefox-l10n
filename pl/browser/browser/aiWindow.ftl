@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Ostatnie rozmowy
 smartwindow-fullpage-heading = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") }
 smartwindow-document-title = Nowa karta
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Otwórz w nowym { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }
+    .accesskey = i
 
 ## Smart Window Toggle Button
 
@@ -364,6 +367,15 @@ aiwindow-starter-planning-plan = Pomóż w tworzeniu planu
 aiwindow-starter-browsing-history = Znajdź karty w historii
 aiwindow-starter-browsing-summarize = Streść karty
 aiwindow-starter-browsing-compare = Porównaj karty
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = Zamknij „{ $text }”
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

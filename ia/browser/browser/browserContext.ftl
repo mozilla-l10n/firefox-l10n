@@ -147,6 +147,12 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Modificar marcapagina…
     .tooltiptext = Modifica marcapaginas ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Aperir
+    .accesskey = A
+main-context-menu-open-link-new-tab-2 =
+    .label = Aperir in un nove scheda
+    .accesskey = A
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
