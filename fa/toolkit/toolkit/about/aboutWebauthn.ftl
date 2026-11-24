@@ -75,6 +75,12 @@ about-webauthn-add-bio-enrollment-button = افزودن ثبت بیومتریک
 about-webauthn-cancel-button = لغو
 about-webauthn-send-pin-button = تأیید
 about-webauthn-delete-button = حذف
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = آغاز
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = توقف
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = پاک کردن
 about-webauthn-start-enrollment-button = شروع ثبت
 about-webauthn-update-button = به‌روزرسانی
 

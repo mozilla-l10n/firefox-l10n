@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = گفت‌وگوهای اخیر
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = زبانهٔ جدید
+main-context-menu-open-link-new-smart-window-2 =
+    .label = گشودن در { -smart-window-brand-name } جدید
+    .accesskey = ه
 
 ## Smart Window Toggle Button
 
@@ -121,10 +124,25 @@ aiwindow-input-model-select-button-label-fast = سریع
 aiwindow-input-model-select-button-label-allpurpose = منعطف
 aiwindow-input-model-select-button-label-personal = شخصی‌سازی‌شده
 aiwindow-input-model-select-button-label-custom = سفارشی
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = خودکار
 aiwindow-input-model-select-default-badge =
     .label = پیش‌فرض
     .title = مدل پیش‌فرض انتخاب‌شده
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = پیشنهادی
+    .title = مدل پیشنهادی
 aiwindow-input-model-select-settings-link = تنظیمات مدل
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = ‏{ -smart-window-brand-name } بهترین مدل را برای کار شما انتخاب می‌کند
+aiwindow-input-model-select-fast-description = پاسخ‌های سریع وقتی عجله دارید
+aiwindow-input-model-select-flexible-description = آماده برای انواع کارها
+aiwindow-input-model-select-personal-description = مناسب اگر به چند زبان گپ و مرور می‌کنید
 
 ## Firstrun memories onboarding
 
@@ -348,6 +366,15 @@ aiwindow-starter-browsing-history = پیدا کردن زبانه‌ها در ت�
 aiwindow-starter-browsing-summarize = خلاصه‌سازی زبانه‌ها
 aiwindow-starter-browsing-compare = مقایسهٔ زبانه‌ها
 
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = رد کردن { $text }
+
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
@@ -363,3 +390,30 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = رد کردن { $text }
     .title = رد کردن { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-subtitle = ‏{ -smart-window-brand-name } را همان‌طور که دوست دارید تنظیم کنید. هر زمان می‌توانید در تنظیمات تغییرش دهید.
+smartwindow-onboarding-model-label = مدل هوش مصنوعی خود را انتخاب کنید
+smartwindow-onboarding-model-description = این مدل گپ‌ها و کنش‌ها را در { -smart-window-brand-name } به کار می‌اندازد.
+smartwindow-onboarding-model-auto = خودکار
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = پیشنهادی
+smartwindow-onboarding-model-auto-description = ‏{ -smart-window-brand-name } بهترین مدل را برای کار شما انتخاب می‌کند
+smartwindow-onboarding-model-mistral-description = مناسب اگر به چند زبان گپ و مرور می‌کنید
+smartwindow-onboarding-model-gemini-description = پاسخ‌های سریع وقتی عجله دارید
+smartwindow-onboarding-memories-label = انتخاب کنید { -smart-window-brand-name } چگونه با شما آشنا شود
+smartwindow-onboarding-memories-description = ‏{ -smart-window-brand-name } می‌تواند از گپ‌ها، مرور یا هر دو یاد بگیرد و حافظه بسازد. از این حافظه‌ها برای شخصی‌سازی تجربهٔ شما در طول زمان استفاده می‌کند.
+smartwindow-onboarding-memories-both = گپ‌ها و مرور
+smartwindow-onboarding-memories-browsing = فقط مرور
+smartwindow-onboarding-memories-chats = فقط گپ‌ها
+smartwindow-onboarding-memories-none = از فعالیت یاد نگیرد
+smartwindow-onboarding-memories-both-description = گپ‌ها در { -smart-window-brand-name } و مرور در سراسر { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = مرور در سراسر { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = گپ‌ها در { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = پیشنهادهای متناسب کمتری می‌بینید و ممکن است لازم شود جزئیات را در گپ‌های مختلف تکرار کنید.
+smartwindow-onboarding-default-window =
+    .description = وقتی { -brand-short-name } آغاز یا دوباره راه‌اندازی می‌شود، یا پیوندهای برنامه‌های دیگر را باز می‌کند، از آن استفاده شود.
+    .label = آغاز در { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = ذخیره و ادامه

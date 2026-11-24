@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = ذخیرهٔ پرونده
     .accesskey = ذ
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = ذخیرهٔ پرونده
 unknowncontenttype-remember-choice =
     .label = از این به بعد به طور خودکار برای پرونده‌های مثل این همین کار انجام شود.
     .accesskey = خ

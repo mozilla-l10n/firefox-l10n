@@ -1207,6 +1207,7 @@ qrcode-save-button =
     .label = ذخیره
 qrcode-window-title = کد QR
 qrcode-dialog-title = کد QR
+qrcode-dialog-title-download-mobile = بارگیری { -brand-product-name } برای تلفن همراه
 qrcode-image =
     .aria-label = کد QR
 qrcode-close-button =

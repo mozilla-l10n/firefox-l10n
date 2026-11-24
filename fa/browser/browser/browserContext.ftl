@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = ویرایش نشانک…
     .tooltiptext = ویرایش نشانک ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = گشودن
+    .accesskey = گ
+main-context-menu-open-link-new-tab-2 =
+    .label = گشودن در زبانهٔ جدید
+    .accesskey = ز
+main-context-menu-open-link-split-view-2 =
+    .label = گشودن در نمای دوگانه
+    .accesskey = د
+main-context-menu-open-link-container-tab-2 =
+    .label = گشودن در زبانهٔ کانتینری جدید
+    .accesskey = ک
+main-context-menu-open-link-new-window-2 =
+    .label = گشودن در پنجرهٔ جدید
+    .accesskey = پ
+main-context-menu-open-link-mini-window =
+    .label = گشودن در پنجرهٔ کوچک
+    .accesskey = چ
+main-context-menu-open-link-new-private-window-2 =
+    .label = گشودن در پنجرهٔ ناشناس جدید
+    .accesskey = ن
+main-context-menu-bookmark-link-3 =
+    .label = نشانک‌گذاری…
+    .accesskey = ش
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = روشن کردن منوی کنش‌ها
     .accesskey = ک
+main-context-menu-link-send-to-your-devices =
+    .label = ارسال به دستگاه‌های شما
+    .accesskey = س
 main-context-menu-link-send-to-device =
     .label = ارسال پیوند به دستگاه
     .accesskey = د
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = اطلاعات بیشتر دربارهٔ DRM…
     .accesskey = د
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = گشودن در زبانهٔ «{ $containerName }» جدید
+    .accesskey = ز
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

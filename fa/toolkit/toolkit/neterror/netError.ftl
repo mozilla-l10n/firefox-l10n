@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = گاهی اوقات وب‌سا
 fp-learn-more-about-https-connections = دربارهٔ اتصالات HTTPS بیشتر بدانید
 fp-neterror-vpn-error-title = امکان اتصال به VPN وجود نداشت
 fp-neterror-vpn-error-description = چند دقیقهٔ دیگر دوباره امتحان کنید.
+fp-neterror-vpn-error-continue-button = ادامه بدون VPN
+    .accesskey = ا
 fp-neterror-denied-port-access = این نشانی از یک پورت شبکه استفاده می‌کند که معمولاً برای مقاصدی غیر از مرور وب استفاده می‌شود. { -brand-short-name } جهت حفظ امنیت شما، این درخواست را لغو کرد.
