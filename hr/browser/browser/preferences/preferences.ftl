@@ -705,10 +705,10 @@ browsing-search-on-start-typing =
     .label = Traži tekst već prilikom upisivanja
     .accesskey = k
 settings-keyboard-shortcuts-group =
-    .description = Kontrolirajte kako se krećete i komunicirate s { -brand-short-name }om.
+    .description = Kontroliraj kako se krećeü i komuniciraš s { -brand-short-name }om.
     .label = Tipkovnički prečaci
 settings-keyboard-shortcuts-customkeys-link =
-    .label = Prilagodite tipkovničke prečace
+    .label = Prilagodi tipkovničke prečace
 # Link that takes the user to the Search category of settings, where the
 # address bar options live.
 settings-keyboard-shortcuts-addressbar-link =
@@ -716,8 +716,8 @@ settings-keyboard-shortcuts-addressbar-link =
 settings-media-group =
     .label = Mediji
 browsing-picture-in-picture-toggle-enabled-2 =
-    .label = Koristite sliku u slici
-    .accesskey = e
+    .label = Koristi sliku u slici
+    .accesskey = K
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Nastavi reproducirati videa u modusu „Slika-u-slici” prilikom prelaženja po karticama
     .accesskey = s
