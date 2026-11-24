@@ -59,3 +59,13 @@ appmenu-tab-hide-controlled =
     .label = Katok pa ri Ewan taq Ruwi'
     .secondarybuttonlabel = Tichup ri K'amal
     .secondarybuttonaccesskey = T
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Jun k'amal, <img data-l10n-name="addon-icon"/> { $addonName }, xujäq ri ruxaq natz'ët toq najäq jun k'ak'a' ruwi'.
+appmenu-homepage-controlled-message = Jun k'amal, <img data-l10n-name="addon-icon"/> { $addonName }, xujäl ri ruxaq natz'ët toq najäq ri tikirib'äl ruxaq chuqa' k'ak'a' taq tzuwäch.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Jun k'amal, <img data-l10n-name="addon-icon"/> { $addonName }, yerewaj jujun taq ruwi'. K'a yatikïr yatok pa konojel ri taq ruwi' pa ri <img data-l10n-name="all-tabs-icon"/>.
