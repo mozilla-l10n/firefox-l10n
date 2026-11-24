@@ -17,6 +17,9 @@ ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } превключвател
+    .tooltiptext = Превключване между интелигентен и класически прозорци
 
 ## Website Chip
 

@@ -273,6 +273,11 @@ onboarding-checklist-remove =
     .label = Премахване на списъка със задачи
 onboarding-checklist-remove-2 = Премахване на списъка със задачи
 
+## Tab Groups feature onboarding strings
+
+# "here" refers to the application menu button
+tab-groups-onboarding-auto-saved-title = Групите раздели се запазват автоматично. Намерете ги тук.
+
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Създаване на профил
