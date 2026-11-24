@@ -159,3 +159,4 @@ webext-uninstall-confirmation-button-keep = Mantieni installata
 
 webext-colorway-theme-migration-notification-message = <b>La tonalità è stata rimossa.</b> { -brand-shorter-name } ha aggiornato la sua collezione di tonalità. Puoi trovare le ultime versioni sul sito dei componenti aggiuntivi.
 webext-colorway-theme-migration-notification-button = Ottieni tonalità aggiornate
+
