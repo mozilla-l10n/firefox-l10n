@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Nesenās tērzēšanas
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Jauna cilne
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Atvērt jaunā { -smart-window-brand-name }
+    .accesskey = j
 
 ## Smart Window Toggle Button
 
@@ -364,6 +367,15 @@ aiwindow-starter-planning-plan = Palīdziet izstrādāt plānu
 aiwindow-starter-browsing-history = Atrast cilnes vēsturē
 aiwindow-starter-browsing-summarize = Apkopot cilnes
 aiwindow-starter-browsing-compare = Salīdzināt cilnes
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = Noraidīt { $text }
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

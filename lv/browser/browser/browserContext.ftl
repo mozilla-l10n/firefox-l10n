@@ -147,6 +147,15 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Labot grāmatzīmi…
     .tooltiptext = Labot grāmatzīmi ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Atvērt
+    .accesskey = A
+main-context-menu-open-link-new-tab-2 =
+    .label = Atvērt jaunā cilnē
+    .accesskey = c
+main-context-menu-open-link-split-view-2 =
+    .label = Atvērt sadalītajā skatā
+    .accesskey = d
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
