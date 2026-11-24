@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Скрывает ваш реальный адрес электронной почты, чтобы защитить ваш почтовый ящик от спама.
     .label = Предлагать псевдонимы электронной почты { -relay-brand-name }
+preferences-window-lock-macos =
+    .description = { -brand-short-name } будет запрашивать пароль устройства или ключ доступа после того, как компьютер заблокируется, перейдет в спящий режим или запустит экранную заставку.
+    .label = Автоматически блокировать приватные окна
+preferences-window-lock-windows =
+    .description = { -brand-short-name } запросит пароль вашего устройства или ключ доступа после блокировки компьютера.
+    .label = Автоматически блокировать приватные окна
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

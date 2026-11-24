@@ -280,6 +280,12 @@ ipprotection-come-back-title = Вернитесь, чтобы попробова
 ipprotection-message-body-hide-location = Скрывайте свое местоположение при веб-сёрфинге в { -brand-product-name } для повышения приватности и контроля.
 ipprotection-connection-status-generic-error-title-1 = Не удалось подключиться к VPN
     .aria-label = Не удалось подключиться к VPN
+ipprotection-connection-status-try-again-button = Попробовать снова
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Продолжить без VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Повторяем попытку…
+    .aria-label = Повторяем попытку…
 
 ## IP Protection bandwidth callouts
 

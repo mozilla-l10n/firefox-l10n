@@ -184,7 +184,7 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Ove su web-stranice zatražile pristup aplikacijama i uslugama na ovom uređaju. Možeš odabrati je li želiš dopustiti ili blokirati stranicama pristup.
 permissions-site-localhost-disable-label =
     .label = Blokiraj nove zahtjeve za pristup aplikacijama i uslugama na ovom uređaju
-permissions-site-localhost-disable-desc = Ovo će spriječiti bilo koju web-stranicu koja nije gore navedena da zatraži pristup aplikacijama i uslugama na ovom uređaju. To može onemogućiti neke funkcije web-stranica.
+permissions-site-localhost-disable-desc = Ovo će spriječiti bilo koju web-stranicu koja nije gore navedena da zatraži pristup aplikacijama i uslugama na ovom uređaju. To može pokvariti neke funkcije web-stranica.
 
 ## Site Permissions - Local network
 
@@ -194,7 +194,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Ove su web-stranice zatražile pristup aplikacijama i uslugama na uređajima koji su povezani s tvojom Wi-Fi ili lokalnom mrežom. Možeš odabrati je li web-stranicama to želiš dopustiti ili je li im želiš blokirati pristup.
 permissions-site-local-network-disable-label =
     .label = Blokiraj nove zahtjeve za pristup aplikacijama i uslugama na uređajima koji su povezani s tvojom Wi-Fi ili lokalnom mrežom.
-permissions-site-local-network-disable-desc = Ovo će spriječiti bilo koju web-stranicu koja nije gore navedena gore da zatraži pristup aplikacijama i uslugama na ovom uređaju. To može onemogućiti neke funkcije web-stranica.
+permissions-site-local-network-disable-desc = Ovo će spriječiti bilo koju web-stranicu koja nije gore navedena gore da zatraži pristup aplikacijama i uslugama na ovom uređaju. To može pokvariti neke funkcije web-stranica.
 
 ## Site Permissions - Microphone
 

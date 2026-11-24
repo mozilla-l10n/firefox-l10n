@@ -1217,6 +1217,7 @@ qrcode-save-button =
     .label = Сохранить
 qrcode-window-title = QR-код
 qrcode-dialog-title = QR-код
+qrcode-dialog-title-download-mobile = Скачайте { -brand-product-name } для мобильных устройств
 qrcode-image =
     .aria-label = QR-код
 qrcode-close-button =
@@ -1713,6 +1714,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Улучшенная защита от отслеживания включена
 trustpanel-etp-label-disabled = Улучшенная защита от отслеживания отключена
+trustpanel-etp-label-redesign = Улучшенная защита от отслеживания
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1735,7 +1737,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } заметил
 trustpanel-header-disabled = Вы отключили защиту
 trustpanel-description-disabled = { -brand-product-name } не защищает. Мы предлагаем снова включить защиту.
 trustpanel-clear-cookies-button = Удалить куки и данные сайтов
+trustpanel-delete-site-data-button = Удалить данные сайтов
+trustpanel-fix-site-issue-button = Устранить проблему с сайтом
 trustpanel-privacy-link = Настройки приватности
+trustpanel-manage-settings-button = Управление настройками
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1749,6 +1754,7 @@ trustpanel-site-information-header =
     .title = Защита соединения с { $host }
 trustpanel-siteinformation-morelink = Больше информации о сайте
 trustpanel-blocker-see-all = Показать все
+trustpanel-blocker-see-trackers-button = Просмотреть трекеры
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1874,6 +1880,19 @@ trustpanel-blocker-section-header2 =
         [few] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекера
        *[many] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекеров
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } заблокировал <span data-l10n-name="count">{ $count }</span> трекер на этом сайте
+        [few] { -brand-short-name } заблокировал <span data-l10n-name="count">{ $count }</span> трекера на этом сайте
+       *[many] { -brand-short-name } заблокировал <span data-l10n-name="count">{ $count }</span> трекеров на этом сайте
+    }
+trustpanel-blocker-description-redesign = Этим трекерам был заблокирован сбор информации о вашем веб-сёрфинге.
+trustpanel-no-trackers-header-redesign = На этом сайте трекеров не найдено
+trustpanel-no-trackers-description-redesign = { -brand-short-name } проверил наличие известных трекеров и не нашёл их.
+trustpanel-etp-off-description-redesign = Включите защиту, и { -brand-short-name } заблокирует известные трекеры, не давая им возможности собирать информацию о вашем веб-сёрфинге.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

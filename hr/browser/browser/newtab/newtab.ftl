@@ -869,7 +869,7 @@ newtab-appearance-enable-theme-button =
     .label = Aktiviraj
 # Button that disables the active theme and reverts to the default.
 newtab-appearance-disable-theme-button =
-    .label = Onemogući
+    .label = Deaktiviraj
 # Button that installs a theme.
 newtab-appearance-install-theme-button =
     .label = Instaliraj temu

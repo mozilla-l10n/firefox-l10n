@@ -11,6 +11,11 @@ mini-window-close-button =
 mini-window-restore-button =
     .label = ਟੈਬ ਵਾਪਸ ਰੱਖੋ
     .tooltiptext = ਟੈਬ ਵਾਪਸ ਰੱਖੋ
+# Button appearing in a Mini Window that was opened from a link on a webpage.
+# Clicking the button will move the Mini Window tab to the window it was opened from.
+mini-window-link-restore-button =
+    .label = ਟੈਬ ਨੂੰ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ
+    .tooltiptext = ਟੈਬ ਨੂੰ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -72,5 +77,9 @@ mini-window-overlay-instructions = ਮਿੰਨੀ ਵਿੰਡੋ ਵਿੱਚ 
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = ਮਿੰਨੀ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜਣ ਲਈ ਚੁਣੋ
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = ਸਫ਼ੇ ਦਾ ਹਿੱਸਾ
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = ਪੂਰਾ ਸਫ਼ਾ
 mini-window-panel-move-selection = ਚੋਣ ਨੂੰ ਭੇਜੋ
 mini-window-panel-move-full-tab = ਪੂਰੀ ਟੈਬ ਨੂੰ ਭੇਜੋ
