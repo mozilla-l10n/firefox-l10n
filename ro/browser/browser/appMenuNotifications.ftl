@@ -65,3 +65,10 @@ appmenu-tab-hide-controlled =
     .label = Accesează filele ascunse
     .secondarybuttonlabel = Dezactivează extensia
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = O extensie, <img data-l10n-name="addon-icon"/> { $addonName }, a schimbat pagina pe care o vezi când deschizi o filă nouă.
