@@ -1004,6 +1004,14 @@ urlbar-view-context-menu-open-in-window2 = Malfermi en nova fenestro
     .accesskey = f
 urlbar-view-context-menu-open-in-private-window2 = Malfermi en nova privata fenestro
     .accesskey = p
+urlbar-view-context-menu-search-in-tab = Serĉi en nova langeto
+    .accesskey = S
+urlbar-view-context-menu-search-in-container-tab = Serĉi en nova inga langeto
+    .accesskey = i
+urlbar-view-context-menu-search-in-window = Serĉi en nova fenestro
+    .accesskey = f
+urlbar-view-context-menu-search-in-private-window = Serĉi en nova privata fenestro
+    .accesskey = p
 # A checkable menu item that controls whether pressing the Tab key while
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
@@ -1696,6 +1704,9 @@ trustpanel-etp-toggle-off =
     .aria-label = Plibonigita protekto kontraŭ spurado: malŝaltita por { $host }
 trustpanel-etp-description-enabled = Se io misfunkcias en tiu ĉi retejo, provu malŝalti protektojn.
 trustpanel-etp-description-disabled = { -brand-product-name } konsideras ke entreprenoj devus malpli sekvi vin. Kiam vi ŝaltas protektojn ni blokas tiom da spuriloj, kiom ni povas.
+trustpanel-trackercount-label = Montri blokitajn spurilojn en la adresa strio
+trustpanel-trackercount-toggle =
+    .aria-label = Montri blokitajn spurilojn en la adresa strio
 trustpanel-connection-label-secure = Sekura konekto
 trustpanel-connection-label-insecure = Nesekura konekto
 trustpanel-header-enabled = { -brand-product-name } staras garde

@@ -138,6 +138,9 @@ sidebar-history-context-menu-bookmark-page =
     .label = Aldoni paĝon al legosignoj…
 sidebar-history-context-menu-delete-pages =
     .label = Forigi paĝojn el la historio
+# Deletes every page listed under a date or site heading in the history sidebar.
+sidebar-history-context-menu-delete =
+    .label = Forigi
 
 ## Labels for sidebar bookmarks context menu items
 

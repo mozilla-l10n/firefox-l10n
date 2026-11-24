@@ -263,6 +263,9 @@ colorway-removal-notice-button = Ricevu ĝisdatigitajn kolorarajn etosojn
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Viaj kontrastaj agordoj de Windows superregas la etosojn de { -brand-short-name }. Malŝaltu tiujn agordojn por uzi etosojn en { -brand-short-name }.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name } havas siajn proprajn integritajn helajn kaj malhelajn etosojn, kiuj sekvas la agordojn de via sistemo.
 privacy-policy = Politiko pri privateco
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -594,6 +597,11 @@ themes-mode =
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Etosoj de { -brand-product-name }
+# Heading for the section of the themes picker listing the classic themes
+# (a selection of official Firefox themes from previous Firefox releases,
+# for users who prefer a gradient-free look).
+aboutaddons-classic-themes-heading =
+    .heading = Klasikaj etosoj
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Montri pli
 aboutaddons-themes-picker-see-less = Montri malpli
