@@ -149,6 +149,12 @@ webext-site-perms-midi = Să acceseze dispozitive MIDI
 webext-site-perms-midi-sysex = Să acceseze dispozitive MIDI cu suport SysEx
 webext-site-perms-serial = Accesează dispozitive seriale
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Dezinstalează { $extension }
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Tema ta de palete de culori a fost eliminată.</b> { -brand-shorter-name } și-a actualizat colecția de palete de culori. Poți găsi cele mai recente versiuni pe site-ul de suplimente.
