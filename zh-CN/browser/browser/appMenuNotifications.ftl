@@ -72,3 +72,4 @@ appmenu-tab-hide-controlled =
 ##   $addonName (String): name of the extension.
 
 appmenu-new-tab-controlled-message = 扩展“<img data-l10n-name="addon-icon"/> { $addonName }”修改了您打开新标签页时会看到的页面。
+appmenu-homepage-controlled-message = 扩展“<img data-l10n-name="addon-icon"/> { $addonName }”修改了您打开主页和新窗口时会看到的页面。
