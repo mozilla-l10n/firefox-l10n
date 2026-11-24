@@ -236,7 +236,7 @@ shortcuts-duplicate = Dublikāta saīsne
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
-    .message = { $shortcut } tiek izmantots kā saīsne vairāk nekā vienā gadījumā. Dublētas saīsnes var izraisīt negaidītu darbību.
+    .message = { $shortcut } tiek izmantots kā īsinājumtaustiņš vairāk nekā vienā gadījumā. Atkārtojošies īsinājumtaustiņi var izraisīt neparedzētu uzvedību.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = Somtiden stelle websites besker
 fp-learn-more-about-https-connections = Mear ynfo oer HTTPS-ferbiningen
 fp-neterror-vpn-error-title = Kin net ferbine mei VPN
 fp-neterror-vpn-error-description = Probearje it oer in pear minuten opnij.
+fp-neterror-vpn-error-continue-button = Trochgean sûnder VPN
+    .accesskey = T
 fp-neterror-denied-port-access = Dit adres brûkt in netwurkpoarte dy’t normaal sprutsen foar oare doelen as webbrowsen brûkt wurdt. { -brand-short-name } hat de oanfraach annulearre om jo te beskermen.

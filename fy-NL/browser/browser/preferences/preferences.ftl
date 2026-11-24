@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Ferstoppet jo echte e-mailadres om jo Postfek YN te beskermjen tsjin spam.
     .label = { -relay-brand-name }-e-mailmaskers foarstelle
+preferences-window-lock-macos =
+    .description = { -brand-short-name } freget om jo apparaatwachtwurd of tagongskaai neidat jo kompjûter beskoattele wurdt, yn sliepstân giet, of de skermbefeiliging start.
+    .label = Priveefinsters automatysk beskoattelje
+preferences-window-lock-windows =
+    .description = { -brand-short-name } freget om jo apparaatwachtwurd of tagongskaai neidat jo kompjûter beskoattele is.
+    .label = Priveefinsters automatysk beskoattelje
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

@@ -220,7 +220,7 @@ fxa-sync-cfr-secondary = Atgādināt vēlāk
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-heavy-user-header = Neaizmirstiet dublēt savus datus
+device-migration-fxa-spotlight-heavy-user-header = Neaizmirsti dublēt savus datus
 device-migration-fxa-spotlight-heavy-user-body = Pārliecinieties, ka svarīga informācija, piemēram, grāmatzīmes un paroles, tiek atjaunināta un aizsargāta visās jūsu ierīcēs.
 device-migration-fxa-spotlight-heavy-user-primary-button = Ar ko sākt
 device-migration-fxa-spotlight-older-device-header = Sirdsmiers no { -brand-product-name }

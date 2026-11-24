@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = Manchmal schützen Websites sic
 fp-learn-more-about-https-connections = Mehr über HTTPS-Verbindungen erfahren
 fp-neterror-vpn-error-title = Verbindung mit VPN fehlgeschlagen
 fp-neterror-vpn-error-description = Versuchen Sie es in ein paar Minuten erneut.
+fp-neterror-vpn-error-continue-button = Ohne VPN fortfahren
+    .accesskey = O
 fp-neterror-denied-port-access = Diese Adresse verwendet einen Netzwerk-Port, der normalerweise nicht zum Browsen im Web verwendet wird. { -brand-short-name } hat die Anfrage zu Ihrem Schutz abgebrochen.

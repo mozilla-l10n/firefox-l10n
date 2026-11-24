@@ -147,6 +147,18 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Lesezeichen bearbeiten…
     .tooltiptext = Lesezeichen bearbeiten ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Öffnen
+    .accesskey = Ö
+main-context-menu-open-link-new-tab-2 =
+    .label = In neuem Tab öffnen
+    .accesskey = T
+main-context-menu-open-link-mini-window =
+    .label = Im Mini-Fenster öffnen
+    .accesskey = M
+main-context-menu-open-link-new-private-window-2 =
+    .label = In neuem privaten Fenster öffnen
+    .accesskey = p
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =

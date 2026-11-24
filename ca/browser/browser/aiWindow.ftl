@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Ràpid
 aiwindow-input-model-select-button-label-allpurpose = Flexible
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Personalitzat
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automàtic
 aiwindow-input-model-select-default-badge =
     .label = Per defecte
     .title = El model predeterminat seleccionat
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Recomanat
+    .title = El model recomanat
 aiwindow-input-model-select-settings-link = Paràmetres del model
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = La { -smart-window-brand-name } tria el millor model per a la vostra tasca
+aiwindow-input-model-select-fast-description = Respostes ràpides quan teniu pressa
+aiwindow-input-model-select-flexible-description = Preparat per a una gran varietat de tasques
+aiwindow-input-model-select-personal-description = Ideal per a xatejar i navegar en diversos idiomes
 
 ## Firstrun memories onboarding
 
@@ -363,3 +378,35 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Descarta { $text }
     .title = Descarta { $text }
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Us ajuda a fer feina.
+    Planifica, compara, explora i molt més.
+smartwindow-onboarding-title = Personalitzem-la
+smartwindow-onboarding-subtitle = Configureu la { -smart-window-brand-name } com vulgueu. Feu canvis en qualsevol moment a la configuració.
+smartwindow-onboarding-model-label = Trieu un model d'IA
+smartwindow-onboarding-model-description = El model permet xats i accions a la { -smart-window-brand-name }.
+smartwindow-onboarding-model-auto = Automàtic
+# Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
+smartwindow-onboarding-model-recommended = Recomanat
+smartwindow-onboarding-model-auto-description = La { -smart-window-brand-name } tria el millor model per a la vostra tasca
+smartwindow-onboarding-model-mistral-description = Ideal per a xatejar i navegar en diversos idiomes
+smartwindow-onboarding-model-gemini-description = Respostes ràpides quan cal velocitat
+smartwindow-onboarding-memories-label = Trieu com us ha de conèixer la { -smart-window-brand-name }
+smartwindow-onboarding-memories-description = La { -smart-window-brand-name } us pot conèixer a través dels xats, de la navegació o de totes dues coses per a crear memòries. Les utilitza per anar personalitzant la vostra experiència.
+smartwindow-onboarding-memories-both = Xats i navegació
+smartwindow-onboarding-memories-browsing = Només navegació
+smartwindow-onboarding-memories-chats = Només xats
+smartwindow-onboarding-memories-none = No em coneguis a partir de l'activitat
+smartwindow-onboarding-memories-both-description = Xats a la { -smart-window-brand-name }, navegació al { -brand-short-name }
+smartwindow-onboarding-memories-browsing-description = Navegació al { -brand-short-name }
+smartwindow-onboarding-memories-chats-description = Xats a la { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Veureu menys suggeriments personalitzats i potser haureu de repetir detalls als xats.
+smartwindow-onboarding-default-window =
+    .description = Utilitzeu-la quan el { -brand-short-name } s'iniciï, es reiniciï o obri enllaços d'altres aplicacions.
+    .label = Inicia a la { -smart-window-brand-name }
+smartwindow-onboarding-save =
+    .label = Desa i continua

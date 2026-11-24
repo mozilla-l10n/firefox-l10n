@@ -431,7 +431,7 @@ create-backup-back-button-label = Atpakaļ
 create-backup-show-fewer =
     .label = Rādīt mazāk līdzīgu
 create-backup-screen-2-title = Izvēlieties { -brand-product-name } datus rezerves kopijas izvedošanai
-create-backup-screen-2-subtitle = Aizņem tikai minūti. Jūsu dati tiek dublēti reizi dienā.
+create-backup-screen-2-subtitle = Aizņem tikai minūti. Dati tiek dublēti reizi dienā.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Vienkārša uzstādīšana
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup

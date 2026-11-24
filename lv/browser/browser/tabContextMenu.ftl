@@ -21,14 +21,14 @@ duplicate-tab =
     .label = Pavairot cilni
     .accesskey = P
 duplicate-tab2 =
-    .label = Dublēt
-    .accesskey = D
+    .label = Pavairot
+    .accesskey = P
 duplicate-tabs =
-    .label = Dublēt cilnes
-    .accesskey = D
+    .label = Pavairot cilnes
+    .accesskey = P
 duplicate-tabs2 =
-    .label = Dublēt
-    .accesskey = D
+    .label = Pavairot
+    .accesskey = P
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
@@ -141,8 +141,8 @@ tab-context-close-multiple-tabs2 =
     .label = Aizvērt vairākus
     .accesskey = M
 tab-context-close-duplicate-tabs =
-    .label = Aizvērt dublētās cilnes
-    .accesskey = u
+    .label = Aizvērt atkārtojošās cilnes
+    .accesskey = v
 # The following string is displayed on a menuitem "Close Multiple", this closes all duplicate tabs of the selected tab in the tabstrip.
 tab-context-close-duplicate-tabs-alt =
     .label = Pavairot cilnes
