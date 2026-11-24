@@ -81,6 +81,8 @@ webext-perms-host-description-multiple-domains =
     { $domainCount ->
        *[other] თქვენს მონაცემებთან წვდომა საიტებზე დაბოლოებით { $domainCount }
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = შენახვა, როგორც
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -146,6 +148,11 @@ webext-site-perms-header-unsigned-with-perms = დაემატოს { $exten
 webext-site-perms-midi = წვდომა MIDI-მოწყობილობებთან
 webext-site-perms-midi-sysex = წვდომა MIDI-მოწყობილობებთან SysEx-მხარდაჭერით
 webext-site-perms-serial = წვდომა მიმდევრობითი შეერთების მოწყობილობასთან
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
 
 ## Colorway theme migration
 
