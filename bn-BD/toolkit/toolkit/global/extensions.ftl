@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = { $domain } ডোমেইনে থ�
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } এর জন্য আপনার তথ্য ব্যবহার করুন
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = নতুন ভাবে সংরক্ষণ
 
 ## Strings for data collection permissions in the permission prompt.
 
