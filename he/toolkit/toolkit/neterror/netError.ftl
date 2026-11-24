@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = לפעמים אתרים מגד�
 fp-learn-more-about-https-connections = מידע נוסף על חיבורי HTTPS
 fp-neterror-vpn-error-title = לא ניתן היה להתחבר ל־VPN
 fp-neterror-vpn-error-description = נא לנסות שוב בעוד מספר דקות.
+fp-neterror-vpn-error-continue-button = המשך ללא VPN
+    .accesskey = ה
 fp-neterror-denied-port-access = כתובת זו משתמשת בשער רשת המיועד בדרך כלל לשימושים אחרים מאשר גלישה באינטרנט. { -brand-short-name } ביטל את הבקשה כדי להגן עליך.

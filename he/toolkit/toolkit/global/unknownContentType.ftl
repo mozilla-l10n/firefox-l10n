@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = שמירת קובץ
     .accesskey = ש
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = שמירת קובץ
 unknowncontenttype-remember-choice =
     .label = יש לבצע זאת באופן אוטומטי לקבצים מסוג זה להבא.
     .accesskey = ב
