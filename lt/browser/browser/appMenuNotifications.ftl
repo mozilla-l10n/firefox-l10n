@@ -56,3 +56,13 @@ appmenu-tab-hide-controlled =
     .label = Pasiekite paslėptas korteles
     .secondarybuttonlabel = Išjungti priedą
     .secondarybuttonaccesskey = g
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Priedas „<img data-l10n-name="addon-icon"/> { $addonName }“ pakeitė tinklalapį, matomą atvėrus naują kortelę.
+appmenu-homepage-controlled-message = Priedas „<img data-l10n-name="addon-icon"/> { $addonName }“ pakeitė tai, ką matote atvėrę savo pradžios tinklalapį bei naujus langus.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Priedas „<img data-l10n-name="addon-icon"/> { $addonName }“ slepia dalį jūsų kortelių. Visas savo korteles galite pasiekti per <img data-l10n-name="all-tabs-icon"/>.
