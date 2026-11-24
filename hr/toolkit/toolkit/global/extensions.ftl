@@ -147,6 +147,9 @@ webext-site-perms-midi-sysex = Pristup MIDI uređajima sa SysEx podrškom
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Ukloni { $extension }
+webext-uninstall-confirmation-message = Dodatak „{ $extension }” je zatražio da ga se ukloni. Što želiš učiniti?
+webext-uninstall-confirmation-button-uninstall = Ukloni
+webext-uninstall-confirmation-button-keep = Zadrži dodatak
 
 ## Colorway theme migration
 
