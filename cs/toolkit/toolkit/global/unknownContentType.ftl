@@ -47,6 +47,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Uložit soubor
     .accesskey = s
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Uložit soubor
 unknowncontenttype-remember-choice =
     .label = Provádět od teď s podobnými soubory automaticky.
     .accesskey = P

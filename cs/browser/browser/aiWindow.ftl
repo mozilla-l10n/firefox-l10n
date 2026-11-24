@@ -397,3 +397,5 @@ smartwindow-onboarding-memories-both = Chaty a prohlížení
 smartwindow-onboarding-memories-browsing = Pouze procházení
 smartwindow-onboarding-memories-chats = Pouze chaty
 smartwindow-onboarding-memories-none = Neučit se z aktivity
+smartwindow-onboarding-save =
+    .label = Uložit a pokračovat
