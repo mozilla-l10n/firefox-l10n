@@ -12,6 +12,9 @@
 
 webext-perms-sideload-header = Добавката „{ $extension }“ е добавена
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -56,6 +59,22 @@ webext-perms-host-description-multiple-domains =
         [one] Достъпва данните ви от страници от { $domainCount } домейн
        *[other] Достъпва данните ви от страници от { $domainCount } домейна
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Запазване като
+
+## Strings for data collection permissions in the permission prompt.
+
+
+## Headers used in the webextension permissions dialog for synthetic add-ons.
+## The part of the string describing what privileges the extension gives should be consistent
+## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
+## Note, this string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $hostname (String): the hostname of the site the add-on is being installed from.
+
+
+##
+
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -65,3 +84,18 @@ webext-perms-host-description-multiple-domains =
 
 webext-site-perms-header-with-perms = Добавяне на { $extension }? Разширението предоставя следните възможности на { $hostname }:
 webext-site-perms-header-unsigned-with-perms = Да бъде ли добавено разширението { $extension }? То е непроверено. Злонамерените разширения могат да откраднат лична информация или да компрометират компютъра ви. Добавете разширението, само ако имате доверие на източника. Това разширение предоставя следните възможности на { $hostname }:
+
+## These should remain in sync with permissions.NAME.label in sitePermissions.properties
+
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Премахване на { $extension }
+webext-uninstall-confirmation-message = Има заявка за премахване на разширението „{ $extension }“. Какво бихте желали да направите с него?
+webext-uninstall-confirmation-button-uninstall = Премахване
+webext-uninstall-confirmation-button-keep = Оставяне инсталирано
+
+## Colorway theme migration
+
