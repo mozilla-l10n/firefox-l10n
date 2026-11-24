@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = Grupuj karty według zadania lub t
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Utwórz grupę
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Powiadomienia witryn po zamknięciu { -brand-short-name(case: "gen") }
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Witryny, którym na to zezwolisz, mogą teraz wyświetlać powiadomienia nawet po zamknięciu { -brand-short-name(case: "gen") }. <a data-l10n-name="learn-more">Więcej informacji</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Zarządzaj
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Wyłącz
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Zezwalaj
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Widoczne tytuły kart na panelu bocznym
