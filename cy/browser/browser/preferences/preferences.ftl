@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Mae'n cuddio'ch cyfeiriad go-iawn er mwyn diogelu eich blwch derbyn rhag sbam.
     .label = Awgrymu arallenwau e-bost { -relay-brand-name }
+preferences-window-lock-macos =
+    .description = Bydd { -brand-short-name } yn gofyn am gyfrinair neu allweddair eich dyfais ar ôl i'ch cyfrifiadur gloi, mynd i gysgu, neu ddechrau'r arbedwr sgrin.
+    .label = Cloi Ffenestri Preifat yn awtomatig
+preferences-window-lock-windows =
+    .description = Bydd { -brand-short-name } yn gofyn am gyfrinair neu allweddair eich dyfais ar ôl i'ch cyfrifiadur gloi.
+    .label = Cloi Ffenestri Preifat yn awtomatig
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Cadw Ffeil
     .accesskey = C
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Cadw Ffeil
 unknowncontenttype-remember-choice =
     .label = Gwneud hyn yn awtomatig ar gyfer ffeiliau o'r math yma o hyn ymlaen.
     .accesskey = a

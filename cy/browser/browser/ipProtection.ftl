@@ -283,6 +283,12 @@ ipprotection-come-back-title = Dewch nôl i roi cynnig ar y VPN cynhenid
 ipprotection-message-body-hide-location = Cuddiwch eich lleoliad pan fyddwch yn pori yn { -brand-product-name } am fwy o breifatrwydd a rheolaeth.
 ipprotection-connection-status-generic-error-title-1 = Methu cysylltu â'r VPN
     .aria-label = Methu cysylltu â'r VPN
+ipprotection-connection-status-try-again-button = Ceisio eto
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Parhau heb y VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Yn ceisio eto…
+    .aria-label = Yn ceisio eto…
 
 ## IP Protection bandwidth callouts
 

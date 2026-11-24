@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Tewi/Dad-dewi Sain
 customkeys-edit-find-previous = Canfod y Blaenorol
 customkeys-edit-find-selection = Defnyddiwch Dewis ar gyfer Darganfod
 customkeys-tools-screenshot = Cymryd Llun Sgrin
+customkeys-tools-lock-windows = Cloi Ffenestri Preifat
 customkeys-category-navigation-2 =
     .heading = Llywio
 customkeys-caution-message = Mae'r nodwedd hon yn arbrofol ac efallai na fydd yn gweithio yn ôl y disgwyl.

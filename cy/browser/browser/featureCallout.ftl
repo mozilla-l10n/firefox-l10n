@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = Grwpiwch eich tabiau yn ôl tasg n
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Cychwyn grŵp
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Cael hysbysiadau gwe gyda { -brand-short-name } wedi cau
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Gall gwefannau rydych yn eu caniatáu nawr anfon hysbysiadau hyd yn oed pan fydd { -brand-short-name } ar gau. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Rheoli
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Troi i ffwrdd
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Cadw ymlaen
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr

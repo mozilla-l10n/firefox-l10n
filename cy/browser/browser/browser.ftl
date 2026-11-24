@@ -1984,6 +1984,8 @@ trustpanel-blocker-section-header2-redesign =
     }
 trustpanel-blocker-description-redesign = Cafodd y tracwyr hyn eu rhwystro rhag casglu gwybodaeth am eich pori.
 trustpanel-no-trackers-header-redesign = Heb ganfod unrhyw dracwyr ar y wefan hon
+trustpanel-no-trackers-description-redesign = Gwiriodd { -brand-short-name } am dracwyr hysbys ac heb ddod o hyd i rai.
+trustpanel-etp-off-description-redesign = Trowch y diogelwch ymlaen a bydd { -brand-short-name } yn rhwystro tracwyr hysbys rhag casglu gwybodaeth am eich pori.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
