@@ -287,6 +287,12 @@ ipprotection-come-back-title = Wróćće so, zo byšće zatwarjeny VPN wupruwowa
 ipprotection-message-body-hide-location = Schowajće swoje stejnišćo, hdyž z { -brand-product-name } přehladujeće, za wjace priwatnosće a kontrole.
 ipprotection-connection-status-generic-error-title-1 = Zwisk z VPN móžny njeje
     .aria-label = Zwisk z VPN móžny njeje
+ipprotection-connection-status-try-again-button = Hišće raz spytać
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Bjez VPN pokročować
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Pospytuje hišće raz…
+    .aria-label = Pospytuje hišće raz…
 
 ## IP Protection bandwidth callouts
 

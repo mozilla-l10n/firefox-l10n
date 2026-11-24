@@ -199,6 +199,12 @@ tab-groups-2026-onboarding-cta-button = Skupinu rajtarkow wuwtorić
 ## user has allowed, even while the browser is closed.
 
 closed-browser-notifications-callout-title = Webzdźělenki ze začinjenym { -brand-short-name } dóstać
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Rjadować
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Znjemóžnić
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Dale
 
 ## Sidebar Strings
 

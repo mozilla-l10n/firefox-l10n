@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Dataju składować
     .accesskey = s
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Dataju składować
 unknowncontenttype-remember-choice =
     .label = To awtomatisce za dataje kaž tutu wot nětka činić.
     .accesskey = T
