@@ -12,6 +12,9 @@
 
 webext-perms-sideload-header = { $extension } ကို ထည့်ထားသည်
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -45,3 +48,39 @@ webext-perms-host-description-wildcard = { $domain } ဒိုမိန်း �
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } အတွက် သင့်အချက်အလက်ကို ကြည့်မည်
+
+## Strings for data collection permissions in the permission prompt.
+
+
+## Headers used in the webextension permissions dialog for synthetic add-ons.
+## The part of the string describing what privileges the extension gives should be consistent
+## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
+## Note, this string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $hostname (String): the hostname of the site the add-on is being installed from.
+
+
+##
+
+
+## Headers used in the webextension permissions dialog.
+## Note: This string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $extension (String): replaced with the localized name of the extension being installed.
+##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
+
+
+## These should remain in sync with permissions.NAME.label in sitePermissions.properties
+
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = ဖြုတ်ပါ { $extension }
+webext-uninstall-confirmation-message = ထပ်တိုးအပို “{ $extension }” မှ ဖယ်ရှားပေးရန် တောင်းဆိုနေသည်။ သင်ဘာလုပ်ချင်ပါသလဲ?
+webext-uninstall-confirmation-button-uninstall = ဖြုတ်ပါ
+webext-uninstall-confirmation-button-keep = တပ်ဆင်ထားပါ
+
+## Colorway theme migration
+

@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Pristupi tvojim skrivenim karticama
     .secondarybuttonlabel = Deaktiviraj dodatak
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Proširenje <img data-l10n-name="addon-icon"/> { $addonName } je promijenilo stranicu koja se prikazuje prilikom otvaranja nove kartice.
+appmenu-homepage-controlled-message = Proširenje <img data-l10n-name="addon-icon"/> { $addonName } je promijenilo što se prikazuje prilikom otvaranja početne stranice i novih prozora.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Proširenje <img data-l10n-name="addon-icon"/> { $addonName } skriva neke tvoje kartice. I dalje možeš pristupiti svim karticama kroz <img data-l10n-name="all-tabs-icon"/>.

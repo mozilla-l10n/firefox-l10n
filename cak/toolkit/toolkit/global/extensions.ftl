@@ -12,6 +12,9 @@
 
 webext-perms-sideload-header = { $extension } tz'aqatisan
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -45,8 +48,43 @@ webext-perms-host-description-wildcard = Katok pa ri taq atzij richin ri taq rux
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Katok pa taq atzij richin { $domain }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Tiyak Achi'el
+
+## Strings for data collection permissions in the permission prompt.
+
+
+## Headers used in the webextension permissions dialog for synthetic add-ons.
+## The part of the string describing what privileges the extension gives should be consistent
+## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
+## Note, this string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $hostname (String): the hostname of the site the add-on is being installed from.
+
+
+##
+
+
+## Headers used in the webextension permissions dialog.
+## Note: This string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $extension (String): replaced with the localized name of the extension being installed.
+##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
+
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
 webext-site-perms-midi = Tok pa MIDI taq okisaxel
 webext-site-perms-midi-sysex = Tok pa MIDI okisaxel rik'in SysEx to'ïk
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Telesäx el ri { $extension }
+webext-uninstall-confirmation-message = Ri k'amal “{ $extension }” tajin nik'utüx chi tek'am el. ¿Achike nawajo' nab'än?
+webext-uninstall-confirmation-button-uninstall = Telesäx el
+webext-uninstall-confirmation-button-keep = Junelïk tayaka'
+
+## Colorway theme migration
+

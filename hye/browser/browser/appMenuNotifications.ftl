@@ -61,3 +61,13 @@ appmenu-tab-hide-controlled =
     .label = Մուտք գործել Ձեր թաքնուած ներդիրները
     .secondarybuttonlabel = Անջատել ընդլայնումը
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } ընդլայնումը փոխել է էջը, որ դուք տեսնում էք նոր ներդիր բացելիս։
+appmenu-homepage-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } ընդլայնումը փոխել է այն, ինչ տեսնում էք տնէջը եւ նոր պատուհաններ բացելիս։
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } ընդլայնումը թաքցրել է Ձեր որոշ ներդիրները։ Բայց հասանելիութիւն ունէք Ձեր բոլոր ներդիրներին <img data-l10n-name="all-tabs-icon"/>-ից։

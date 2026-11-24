@@ -12,6 +12,9 @@
 
 webext-perms-sideload-header = { $extension } ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -45,6 +48,11 @@ webext-perms-host-description-wildcard = { $domain } ᱰᱚᱢᱮᱱ ᱨᱮ ᱥ�
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱟᱫᱮᱨ ᱢᱮ
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ᱞᱮᱠᱟ ᱥᱟᱺᱪᱟᱣ
+
+## Strings for data collection permissions in the permission prompt.
+
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -79,3 +87,15 @@ webext-site-perms-header-unsigned-with-perms = { $extension } ᱥᱮᱞᱮᱫ �
 
 webext-site-perms-midi = MIDI ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
 webext-site-perms-midi-sysex = SysEx ᱥᱚᱦᱚᱫ ᱥᱟᱞᱟᱜ ᱛᱮ MIDI ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱢᱮ
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = { $extension } ᱚᱪᱚᱜᱽ ᱢᱮ
+webext-uninstall-confirmation-message = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ “{ $extension }” ᱫᱚ ᱚᱰᱚᱠ ᱦᱚᱪᱚ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱨ ᱮᱫᱟᱭ ᱾ ᱟᱢ ᱪᱮᱠᱟᱢ ᱞᱟᱹᱭᱟ ?
+webext-uninstall-confirmation-button-uninstall = ᱚᱪᱚᱜᱽ ᱢᱮ
+webext-uninstall-confirmation-button-keep = ᱵᱚᱦᱟᱞ ᱠᱟᱛᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ
+
+## Colorway theme migration
+

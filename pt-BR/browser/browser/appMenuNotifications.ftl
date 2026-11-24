@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Acessar suas abas ocultadas
     .secondarybuttonlabel = Desativar extensão
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Uma extensão, <img data-l10n-name="addon-icon"/> { $addonName }, alterou a página que aparece quando você abre uma nova aba.
+appmenu-homepage-controlled-message = Uma extensão, <img data-l10n-name="addon-icon"/> { $addonName }, alterou o que aparece quando você abre sua página inicial e novas janelas.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Uma extensão, <img data-l10n-name="addon-icon"/> { $addonName }, está ocultando algumas das suas abas. Você ainda pode acessar todas as suas abas por meio de <img data-l10n-name="all-tabs-icon"/>.

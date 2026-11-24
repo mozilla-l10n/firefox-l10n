@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Доступ да схаваных картак
     .secondarybuttonlabel = Адключыць пашырэнне
     .secondarybuttonaccesskey = А
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Пашырэнне <img data-l10n-name="addon-icon"/> { $addonName } змяніла старонку, якую вы бачыце пры адкрыцці новай карткі.
+appmenu-homepage-controlled-message = Пашырэнне <img data-l10n-name="addon-icon"/> { $addonName } змяніла вашу хатнюю старонку і пачатковае змесціва новага вакна.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Пашырэнне <img data-l10n-name="addon-icon"/> { $addonName } хавае некаторыя з вашых картак. Аднак вы можаце атрымаць доступ да ўсіх сваіх картак з <img data-l10n-name="all-tabs-icon"/>.

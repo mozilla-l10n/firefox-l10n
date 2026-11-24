@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] Az adatai elérése ebben az 1 tartományban lévő lapokhoz
        *[other] Az adatai elérése ebben a(z) { $domainCount } tartományban lévő lapokhoz
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Mentés másként
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -147,6 +149,15 @@ webext-site-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } ki
 webext-site-perms-midi = MIDI eszközök elérése
 webext-site-perms-midi-sysex = MIDI eszközök elérése SysEx támogatással
 webext-site-perms-serial = Soros portos eszközök elérése
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = { $extension } eltávolítása
+webext-uninstall-confirmation-message = A(z) „{ $extension }” kiegészítő az eltávolítását kéri. Mit szeretne tenni?
+webext-uninstall-confirmation-button-uninstall = Eltávolítás
+webext-uninstall-confirmation-button-keep = Telepítés megtartása
 
 ## Colorway theme migration
 

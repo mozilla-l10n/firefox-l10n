@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Достъп до скритите раздели
     .secondarybuttonlabel = Изключване на разширението
     .secondarybuttonaccesskey = и
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Разширението „<img data-l10n-name="addon-icon"/> { $addonName }“ смени страницата, която виждате при отваряне на нов раздел.
+appmenu-homepage-controlled-message = Разширението „<img data-l10n-name="addon-icon"/> { $addonName }“ промени какво виждате при отваряне на началната страница или нов прозорец.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Разширението „<img data-l10n-name="addon-icon"/> { $addonName }“ крие някои от разделите. Имате достъп до всички раздели от <img data-l10n-name="all-tabs-icon"/>.

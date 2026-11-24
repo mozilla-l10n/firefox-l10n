@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Жасырын беттеріңізге қатынау
     .secondarybuttonlabel = Кеңейтуді сөндіру
     .secondarybuttonaccesskey = д
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } кеңейтуі жаңа бетті ашқан кезде көретін бетті өзгерткен.
+appmenu-homepage-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } кеңейтуі жаңа бетті және терезелерді ашқан кезде көретініңізді өзгерткен.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } кеңейтуі кейбір беттерді жасырып тұр. Беттердің барлығына <img data-l10n-name="all-tabs-icon"/> арқылы қатынай аласыз.

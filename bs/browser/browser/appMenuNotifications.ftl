@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Pristupite vašim skrivenim tabovima
     .secondarybuttonlabel = Onemogući ekstenciju
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Ekstenzija, <img data-l10n-name="addon-icon"/> { $addonName }, je promijenila stranicu koju vidite kada otvorite novi tab.
+appmenu-homepage-controlled-message = Ekstenzija, <img data-l10n-name="addon-icon"/> { $addonName }, je promijenila stranicu koju vidite kada otvorite vašu početnu stranicu i nove prozore.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Ekstenzija, <img data-l10n-name="addon-icon"/> { $addonName }, sakriva neke od vaših tabova. Još uvijek možete pristupiti svim tabovima iz <img data-l10n-name="all-tabs-icon"/>.

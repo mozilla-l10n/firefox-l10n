@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Sartu ezkutatutako zure fitxetara
     .secondarybuttonlabel = Desgaitu hedapena
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Fitxa berria irekitzean ikusten duzun orria aldatu du hedapen batek (<img data-l10n-name="addon-icon"/> { $addonName }).
+appmenu-homepage-controlled-message = Hasiera-orria eta leiho berriak irekitzean ikusten duzuna aldatu du hedapen batek (<img data-l10n-name="addon-icon"/> { $addonName }).
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Zure fitxetako batzuk ezkutatzen ari da hedapen bat (<img data-l10n-name="addon-icon"/> { $addonName }). Fitxa guztietarako sarbidea duzu halere <img data-l10n-name="all-tabs-icon"/> botoitik.

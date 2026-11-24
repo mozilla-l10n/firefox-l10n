@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Дастрасӣ ба варақаҳои пинҳоншудаи шумо
     .secondarybuttonlabel = Ғайрифаъол кардани васеъшавӣ
     .secondarybuttonaccesskey = Ғ
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Саҳифае, ки ҳангоми кушодани варақаи нав дида мешавад, аз тарафи васеъшавии «<img data-l10n-name="addon-icon"/> { $addonName }» иваз карда шуд.
+appmenu-homepage-controlled-message = Саҳифае, ки ҳангоми кушодани саҳифаи асосӣ ва равзанаи нав дида мешавад, аз тарафи васеъшавии «<img data-l10n-name="addon-icon"/> { $addonName }» иваз карда шуд.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Васеъшавии «<img data-l10n-name="addon-icon"/> { $addonName }» баъзеи варақаҳои шуморо пинҳон мекунад. Шумо ҳоло ҳам метавонед ба ҳамаи варақаҳои худ тавассути «<img data-l10n-name="all-tabs-icon"/>» дастрасӣ пайдо намоед.

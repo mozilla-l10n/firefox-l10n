@@ -35,3 +35,11 @@ appmenu-tab-hide-controlled =
     .label = Accedi a les llingüetes anubríes
     .secondarybuttonlabel = Desactivar la estensión
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Una estensión, <img data-l10n-name="addon-icon"/> { $addonName }, camudó la páxina que ves cuando abres una llingüeta nueva.
+appmenu-homepage-controlled-message = Una estensión, <img data-l10n-name="addon-icon"/> { $addonName }, camudó lo que ves cuando abres la páxina d'aniciu o les ventanes nueves.

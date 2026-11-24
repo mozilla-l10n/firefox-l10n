@@ -84,6 +84,8 @@ webext-perms-host-description-multiple-domains =
         [many] Pristupovať k údajom webových stránok v { $domainCount } doménach
        *[other] Pristupovať k údajom webových stránok v { $domainCount } doménach
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Uložiť ako
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -149,6 +151,15 @@ webext-site-perms-header-unsigned-with-perms = Chcete nainštalovať { $extensio
 webext-site-perms-midi = Pristupovať k zariadeniam MIDI
 webext-site-perms-midi-sysex = Pristupovať k zariadeniam MIDI s podporou SysEx
 webext-site-perms-serial = Prístup k sériovým zariadeniam
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Odinštalovať { $extension }
+webext-uninstall-confirmation-message = Rozšírenie “{ $extension }” žiada o odinštaláciu. Čo si želáte urobiť?
+webext-uninstall-confirmation-button-uninstall = Odinštalovať
+webext-uninstall-confirmation-button-keep = Ponechať nainštalované
 
 ## Colorway theme migration
 

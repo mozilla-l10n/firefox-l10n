@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] دسترسی به داده‌های شما برای وبگاه موجود در { $domainCount } دامنه
        *[other] دسترسی به داده‌های شما برای وبگاه‌های موجود در { $domainCount } دامنه
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ذخیره به نام
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -147,6 +149,15 @@ webext-site-perms-header-unsigned-with-perms = آیا { $extension } را اضا
 webext-site-perms-midi = دسترسی به دستگاه‌های MIDI
 webext-site-perms-midi-sysex = دسترسی به دستگاه‌های MIDI با پشتیبانی از SysEx
 webext-site-perms-serial = دسترسی به دستگاه‌های سریال
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = حذف { $extension }
+webext-uninstall-confirmation-message = ضمیمهٔ «{ $extension }» درخواست حذف دارد. مایلید چه کار کنید؟
+webext-uninstall-confirmation-button-uninstall = حذف
+webext-uninstall-confirmation-button-keep = نصب بماند
 
 ## Colorway theme migration
 

@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Få tilgang til dei gøymde fanene dine
     .secondarybuttonlabel = Slå av utviding
     .secondarybuttonaccesskey = d
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Utvidinga <img data-l10n-name="addon-icon"/> { $addonName } har endra sida du ser når du opnar ei ny fane.
+appmenu-homepage-controlled-message = Ei utviding, <img data-l10n-name="addon-icon"/> { $addonName }, har endra det du ser når du opnar startsida og nye vindauge.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Ei utviding, <img data-l10n-name="addon-icon"/> { $addonName }, gøymer nokre av fanene dine. Du kan framleis få tilgang til alle fanene dine frå <img data-l10n-name="all-tabs-icon"/>.

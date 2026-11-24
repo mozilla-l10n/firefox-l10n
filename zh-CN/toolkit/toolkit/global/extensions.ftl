@@ -78,6 +78,8 @@ webext-perms-host-description-one-domain = 访问您用于 { $domain } 域名的
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = 访问您用于 { $domainCount } 个域名的网站的数据
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = 另存新文件
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -143,6 +145,15 @@ webext-site-perms-header-unsigned-with-perms = 要安装“{ $extension }”吗�
 webext-site-perms-midi = 访问 MIDI 设备
 webext-site-perms-midi-sysex = 访问支持 SysEx 的 MIDI 设备
 webext-site-perms-serial = 访问串行设备
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = 卸载 { $extension }
+webext-uninstall-confirmation-message = 扩展“{ $extension }”请求被卸载。如何操作？
+webext-uninstall-confirmation-button-uninstall = 卸载
+webext-uninstall-confirmation-button-keep = 保留
 
 ## Colorway theme migration
 

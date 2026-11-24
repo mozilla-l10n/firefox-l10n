@@ -12,6 +12,9 @@
 
 webext-perms-sideload-header = { $extension } చేర్చబడింది
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -45,3 +48,41 @@ webext-perms-host-description-wildcard = { $domain } డొమైను స�
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain }లో మీ డేటాను చూడటం
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ఇలా భద్రపరచు
+
+## Strings for data collection permissions in the permission prompt.
+
+
+## Headers used in the webextension permissions dialog for synthetic add-ons.
+## The part of the string describing what privileges the extension gives should be consistent
+## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
+## Note, this string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $hostname (String): the hostname of the site the add-on is being installed from.
+
+
+##
+
+
+## Headers used in the webextension permissions dialog.
+## Note: This string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $extension (String): replaced with the localized name of the extension being installed.
+##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
+
+
+## These should remain in sync with permissions.NAME.label in sitePermissions.properties
+
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = నిర్మూలించు { $extension }
+webext-uninstall-confirmation-message = ఈ పొడిగింత “{ $extension }” తీసివేయడానికి అభ్యార్థన చేయుచున్నది. మీరు ఏమి చేయాలనుకుంటున్నారు?
+webext-uninstall-confirmation-button-uninstall = నిర్మూలించు
+webext-uninstall-confirmation-button-keep = ఇన్స్టాల్ చేసే ఉంచండి
+
+## Colorway theme migration
+

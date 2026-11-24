@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Auf ausgeblendete Tabs zugreifen
     .secondarybuttonlabel = Erweiterung deaktivieren
     .secondarybuttonaccesskey = d
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Die Erweiterung <img data-l10n-name="addon-icon"/> { $addonName } änderte die Startseite neuer Tabs.
+appmenu-homepage-controlled-message = Die Erweiterung <img data-l10n-name="addon-icon"/> { $addonName } änderte den Inhalt, welcher beim Öffnen der Startseite und neuer Fenster angezeigt wird.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Die Erweiterung <img data-l10n-name="addon-icon"/> { $addonName } blendet einige Ihrer Tabs aus. Mittels <img data-l10n-name="all-tabs-icon"/> kann weiterhin auf alle Tabs zugegriffen werden.

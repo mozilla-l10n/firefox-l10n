@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = ᱟᱢᱟᱜ ᱩᱠᱩ ᱴᱮᱵᱽ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
     .secondarybuttonlabel = ᱵᱤᱥᱤᱞ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ “<img data-l10n-name="addon-icon"/> { $addonName }”, ᱫᱚ ᱚᱠᱟ ᱥᱟᱦᱴᱟ ᱡᱮᱞᱠᱟ ᱧᱮᱞ ᱥᱟᱱᱟᱢᱟᱸ ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱠᱮᱜᱼᱟᱭ ᱾
+appmenu-homepage-controlled-message = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ “<img data-l10n-name="addon-icon"/> { $addonName }”, ᱫᱚ ᱚᱠᱟ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱟᱨ ᱣᱤᱱᱰᱳ ᱨᱮ ᱧᱮᱞ ᱥᱟᱱᱟᱢᱟᱸ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱠᱮᱜᱼᱟᱭ ᱾
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = ᱢᱤᱫᱴᱟᱝ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ , <img data-l10n-name="addon-icon"/> { $addonName }, ᱫᱚ ᱟᱢᱟᱜ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱪᱮᱵᱽ ᱮ ᱩᱠᱩᱮᱫᱟᱭ ᱾ ᱟᱢ ᱫᱚ ᱱᱤᱛ ᱦᱚᱸ ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ <img data-l10n-name="all-tabs-icon"/> ᱠᱷᱚᱱ ᱧᱟᱢ ᱫᱟᱲᱟᱭᱟᱜᱼᱟᱢ ᱾

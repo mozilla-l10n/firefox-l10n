@@ -83,6 +83,8 @@ webext-perms-host-description-multiple-domains =
         [few] Доступ да звестак для сайтаў у { $domainCount } даменах
        *[many] Доступ да звестак для сайтаў у { $domainCount } даменах
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Захаваць як
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -148,6 +150,15 @@ webext-site-perms-header-unsigned-with-perms = Дадаць { $extension }? Гэ
 webext-site-perms-midi = Доступ да прылад MIDI
 webext-site-perms-midi-sysex = Доступ да прылад MIDI з падтрымкаю SysEx
 webext-site-perms-serial = Доступ да паслядоўных партоў
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Высталяваць { $extension }
+webext-uninstall-confirmation-message = Пашырэнне “{ $extension }” просіць, каб яго выдалілі. Што вы хочаце зрабіць?
+webext-uninstall-confirmation-button-uninstall = Высталяваць
+webext-uninstall-confirmation-button-keep = Пакінуць усталяваным
 
 ## Colorway theme migration
 

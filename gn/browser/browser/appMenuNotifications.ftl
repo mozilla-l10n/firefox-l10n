@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Eike ne rendayke kañýme
     .secondarybuttonlabel = Eipe’aite jepysokue
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Peteĩ jepysokue, <img data-l10n-name="addon-icon"/> { $addonName }, omoambue kuatiarogue ombojurujáva jepi tendayke pyahu.
+appmenu-homepage-controlled-message = Peteĩ jepysokue, <img data-l10n-name="addon-icon"/> { $addonName }, omoambue kuatiarogue ohecháva nde kuatiarogue ñepyrũ ha ovetã pyahu.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Peteĩ jepysokue, <img data-l10n-name="addon-icon"/> { $addonName }, omokañyhína ndahetái ne rendayke. Ikatu gueteri eike opavave ne rendayképe <img data-l10n-name="all-tabs-icon"/> guive.

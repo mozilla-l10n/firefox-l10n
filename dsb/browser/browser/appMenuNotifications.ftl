@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Pśistup k wašym schowanym rejtarikam
     .secondarybuttonlabel = Rozšyrjenje znjemóžniś
     .secondarybuttonaccesskey = z
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Rozšyrjenje <img data-l10n-name="addon-icon"/> { $addonName } jo bok změniło, kótaryž wiźiśo, gaž nowy rejtarik wócynjaśo.
+appmenu-homepage-controlled-message = Rozšyrjenje <img data-l10n-name="addon-icon"/> { $addonName } jo změniło, což wiźiśo, gaž swóju startowy bok a nowe wokna wócynjaśo.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Rozšyrjenje <img data-l10n-name="addon-icon"/> { $addonName } někotare z wašych rejtarikow chowa. Móžośo hyšći wót <img data-l10n-name="all-tabs-icon"/> pśistup k wšyknym wašym rejtarikam měś.

@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = اپݨے خفیہ ٹیبز تک رسائی گھنو
     .secondarybuttonlabel = توسیع معطل کرو
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = ہک ایکسٹینشن، <img data-l10n-name="addon-icon"/> { $addonName } او ورقہ تبدیل کر ݙتا ہے جیڑھا تہاکوں نظر آندا ہے جݙاں تساں نواں ٹیب کھولیندے او۔
+appmenu-homepage-controlled-message = ہک ایکسٹینشن، <img data-l10n-name="addon-icon"/> { $addonName }، جیڑھا تساں اپݨے ہوم پیج تے نویں ونڈوز کوں کھولیندے او اونکوں تبدیل کر ݙیندے ہن۔
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = ہک ایکسٹینشن، <img data-l10n-name="addon-icon"/> { $addonName }، تہاݙے کجھ ٹیباں کوں لکیندی پئی ہے۔ تساں ہݨ وی <img data-l10n-name="all-tabs-icon"/> کنوں اپݨے تمام ٹیباں تائیں رسائی حاصل کر سڳدے او۔

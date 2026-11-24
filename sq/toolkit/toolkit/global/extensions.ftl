@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
        *[other] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Ruajeni Si
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -147,6 +149,15 @@ webext-site-perms-header-unsigned-with-perms = Të shtohet { $extension }? Ky zg
 webext-site-perms-midi = Të përdorë pajisje MIDI
 webext-site-perms-midi-sysex = Të përdorë pajisje MIDI me Mbulim për SysEx
 webext-site-perms-serial = Të hyjë në pajisje seriale
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Çinstaloje { $extension }
+webext-uninstall-confirmation-message = Zgjerimi “{ $extension }” po kërkon të çinstalohet. Ç’do të donit të bënit?
+webext-uninstall-confirmation-button-uninstall = Çinstaloje
+webext-uninstall-confirmation-button-keep = Mbaje të Instaluar
 
 ## Colorway theme migration
 

@@ -81,6 +81,8 @@ webext-perms-host-description-multiple-domains =
     { $domainCount ->
        *[other] Eike mba’ekuaarã tendakuéra tendatee { $domainCount }
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Ñongatu Pyahu
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -140,6 +142,15 @@ webext-site-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko je
 webext-site-perms-midi = Eike MIDI mba’e’okápe
 webext-site-perms-midi-sysex = Eike MIDI mba’e’okápe SysEx pytyvõha ndive
 webext-site-perms-serial = Eike mba’e’oka hysýivape
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Eipe’aite { $extension }
+webext-uninstall-confirmation-message = “{ $extension }” jepysokue ojerure hína ñemohenda’o. ¿Mba’etépa ejapose?
+webext-uninstall-confirmation-button-uninstall = Eipe’aite
+webext-uninstall-confirmation-button-keep = Ñemohenda tapiápe
 
 ## Colorway theme migration
 

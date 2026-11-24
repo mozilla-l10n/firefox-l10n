@@ -81,6 +81,8 @@ webext-perms-host-description-multiple-domains =
     { $domainCount ->
        *[other] { $domainCount } 個のドメイン下のサイトデータへのアクセス
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = 別名で保存
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -146,6 +148,15 @@ webext-site-perms-header-unsigned-with-perms = { $extension } を追加します
 webext-site-perms-midi = MIDI デバイスへのアクセス
 webext-site-perms-midi-sysex = SysEx 対応 MIDI デバイスへのアクセス
 webext-site-perms-serial = シリアルデバイスへのアクセス
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = { $extension } のアンインストール
+webext-uninstall-confirmation-message = 拡張機能 “{ $extension }” をアンインストールしてもよろしいですか？
+webext-uninstall-confirmation-button-uninstall = アンインストール
+webext-uninstall-confirmation-button-keep = 保留
 
 ## Colorway theme migration
 

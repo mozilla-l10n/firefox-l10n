@@ -78,6 +78,8 @@ webext-perms-host-description-one-domain = Truy cập dữ liệu của bạn tr
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Truy cập dữ liệu của bạn trên { $domainCount } trang
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Lưu thành
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -143,6 +145,15 @@ webext-site-perms-header-unsigned-with-perms = Thêm { $extension }? Tiện ích
 webext-site-perms-midi = Truy cập thiết bị MIDI
 webext-site-perms-midi-sysex = Truy cập thiết bị MIDI với hỗ trợ SysEx
 webext-site-perms-serial = Truy cập thiết bị sử dụng cổng nối tiếp
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Gỡ bỏ { $extension }
+webext-uninstall-confirmation-message = Tiện ích “{ $extension }” yêu cầu gỡ cài đặt. Bạn muốn làm gì?
+webext-uninstall-confirmation-button-uninstall = Gỡ bỏ
+webext-uninstall-confirmation-button-keep = Tiếp tục cài đặt
 
 ## Colorway theme migration
 

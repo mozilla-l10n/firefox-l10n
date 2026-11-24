@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [few] Să îți acceseze datele pentru site-uri din { $domainCount } domenii
        *[other] Să îți acceseze datele pentru site-uri din { $domainCount } de domenii
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Salvează ca
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -148,6 +150,15 @@ webext-site-perms-header-unsigned-with-perms = Adaugi { $extension }? Această e
 webext-site-perms-midi = Să acceseze dispozitive MIDI
 webext-site-perms-midi-sysex = Să acceseze dispozitive MIDI cu suport SysEx
 webext-site-perms-serial = Accesează dispozitive seriale
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Dezinstalează { $extension }
+webext-uninstall-confirmation-message = Extensia „{ $extension }” cere să fie dezinstalată. Ce vrei să faci?
+webext-uninstall-confirmation-button-uninstall = Dezinstalează
+webext-uninstall-confirmation-button-keep = Păstrează instalată
 
 ## Colorway theme migration
 

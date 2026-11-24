@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = 存取您所有隱藏的分頁
     .secondarybuttonlabel = 停用擴充套件
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = 有一套擴充套件 <img data-l10n-name="addon-icon"/> { $addonName } 修改了您在開啟新分頁時會看到的頁面。
+appmenu-homepage-controlled-message = 有一套擴充套件 <img data-l10n-name="addon-icon"/> { $addonName } 修改了您在開啟首頁與新視窗時會看到的頁面。
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = 有套擴充套件 <img data-l10n-name="addon-icon"/> { $addonName } 隱藏了您的部分分頁。您可以在 <img data-l10n-name="all-tabs-icon"/> 存取您的所有分頁。

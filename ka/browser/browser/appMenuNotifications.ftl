@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = თქვენს დამალულ ჩანართებთან წვდომა
     .secondarybuttonlabel = გაფართოების ამორთვა
     .secondarybuttonaccesskey = რ
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } გაფართოება ცვლის გვერდს, რომელსაც ხედავთ ახალი ჩანართის გახსნისას.
+appmenu-homepage-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } გაფართოება ცვლის შიგთავსს, რომელსაც ხედავთ საწყისი გვერდის ან ახალი ფანჯრების გახსნისას.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } გაფართოება მალავს ზოგიერთ ჩანართს. ყველა ჩანართთან წვდომისთვის, მაინც შეგიძლიათ გამოიყენოთ <img data-l10n-name="all-tabs-icon"/>.

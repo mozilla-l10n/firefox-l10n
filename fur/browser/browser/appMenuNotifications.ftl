@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Acedi aes tôs schedis platadis
     .secondarybuttonlabel = Disabilite la estension
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Une estension, <img data-l10n-name="addon-icon"/> { $addonName }, e à cambiât la pagjine che tu viodis cuant che tu vierzis une gnove schede.
+appmenu-homepage-controlled-message = Une estension, <img data-l10n-name="addon-icon"/> { $addonName }, e à cambiât ce che tu viodis cuant che tu vierzis la to pagjine iniziâl e i gnûfs barcons.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Une estension, <img data-l10n-name="addon-icon"/> { $addonName }, e sta platant cualchidune des tôs schedis. Tu puedis simpri acedi a dutis lis tôs schedis doprant <img data-l10n-name="all-tabs-icon"/>.

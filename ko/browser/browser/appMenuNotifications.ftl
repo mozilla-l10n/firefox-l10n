@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = 숨겨진 탭에 접근
     .secondarybuttonlabel = 확장 기능 사용 안 함
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } 확장 기능이 새 탭을 열 때 표시되는 페이지를 변경했습니다.
+appmenu-homepage-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } 확장 기능이 홈페이지와 새 창을 열 때 표시되는 페이지를 변경했습니다.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } 확장 기능이 일부 탭을 숨기고 있습니다. <img data-l10n-name="all-tabs-icon"/>에서 모든 탭에 접근할 수 있습니다.

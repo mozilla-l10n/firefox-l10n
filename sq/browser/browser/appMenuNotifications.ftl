@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Hyni Te Skedat Tuaja të Fshehura
     .secondarybuttonlabel = Çaktivizoje Zgjerimin
     .secondarybuttonaccesskey = Ç
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Një zgjerim, <img data-l10n-name="addon-icon"/> { $addonName }, ndryshoi faqen që shihni, kur hapni një skedë të re.
+appmenu-homepage-controlled-message = Një zgjerim, <img data-l10n-name="addon-icon"/> { $addonName }, ndryshoi çka shihni, kur hapni faqen tuaj hyrëse dhe dritare të reja.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Një zgjerim, <img data-l10n-name="addon-icon"/> { $addonName }, po fsheh disa nga skedat tuaja. Mundeni prapëseprapë të hyni në krejt skedat tuaja që nga <img data-l10n-name="all-tabs-icon"/>.

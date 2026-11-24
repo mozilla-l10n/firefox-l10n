@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Acceder a tu schedas celate
     .secondarybuttonlabel = Disactivar le extension
     .secondarybuttonaccesskey = I
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Un extension, <img data-l10n-name="addon-icon"/> { $addonName }, cambiava le pagina que tu vide quando tu aperir un nove scheda.
+appmenu-homepage-controlled-message = Un extension, <img data-l10n-name="addon-icon"/> { $addonName }, cambiava lo que tu vide quando tu aperi tu pagina principal e un nove fenestra.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Un extension, <img data-l10n-name="addon-icon"/> { $addonName }, occulta alcunes de tu schedas. Totevia, tu pote acceder a tote tu schedas desde <img data-l10n-name="all-tabs-icon"/>.

@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Gizli sekmelerinize ulaşın
     .secondarybuttonlabel = Uzantıyı etkisizleştir
     .secondarybuttonaccesskey = U
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } adlı uzantı, yeni sekme açtığınızda göreceğiniz sayfayı değiştirdi.
+appmenu-homepage-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } adlı uzantı, giriş sayfanızı ve yeni pencereleri açtığınızda göreceğiniz sayfayı değiştirdi.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } adlı uzantı bazı sekmelerinizi gizliyor. <img data-l10n-name="all-tabs-icon"/> düğmesiyle tüm sekmelerinize ulaşabilirsiniz.

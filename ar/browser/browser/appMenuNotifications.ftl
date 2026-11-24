@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = توصّل إلى الألسنة المخفية
     .secondarybuttonlabel = عطّل الامتداد
     .secondarybuttonaccesskey = ع
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = غير أحد الامتدادات، <img data-l10n-name="addon-icon"/> { $addonName }، الصفحة التي تراها عندما تفتح لسانا جديدا.
+appmenu-homepage-controlled-message = غير أحد الامتدادات، <img data-l10n-name="addon-icon"/> { $addonName }، ما تراه عندما تفتح الصفحة الرئيسية أو نافذة جديدة.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = يخفي أحد الامتدادات، <img data-l10n-name="addon-icon"/> { $addonName }، بعض ألسنتك. يمكن الوصول إلى كل الألسنة من <img data-l10n-name="all-tabs-icon"/>.

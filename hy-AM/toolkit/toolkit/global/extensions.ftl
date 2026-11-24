@@ -67,6 +67,22 @@ webext-perms-host-description-multiple-domains =
         [one] Մատչել ձեր տվյալներին { $domainCount } տիրույթի կայքերի համար՝
        *[other] Մատչել ձեր տվյալներին { $domainCount } տիրույթի կայքերի համար՝
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Պահել որպես
+
+## Strings for data collection permissions in the permission prompt.
+
+
+## Headers used in the webextension permissions dialog for synthetic add-ons.
+## The part of the string describing what privileges the extension gives should be consistent
+## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
+## Note, this string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $hostname (String): the hostname of the site the add-on is being installed from.
+
+
+##
+
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -75,3 +91,18 @@ webext-perms-host-description-multiple-domains =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-unsigned-with-perms = Ավելացնե՞լ { $extension }-ը: Այս ընդլայնումը չստուգված է: Վնասակար ընդլայնումները կարող են գողանալ Ձեր անձնական տվյալները կամ վտանգել Ձեր համակարգիչը: Ավելացրեք միայն եթե վստահում եք աղբյուրին: Այս ընդլայնումը շնորհում է հետևյալ կարողությունները { $hostname }-ին՝
+
+## These should remain in sync with permissions.NAME.label in sitePermissions.properties
+
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Ապատեղադրել { $extension }-ը
+webext-uninstall-confirmation-message = “{ $extension }” ընդլայնումը պահանջում է ապատեղադրում: Ի՞նչ անել:
+webext-uninstall-confirmation-button-uninstall = Ապատեղադրել
+webext-uninstall-confirmation-button-keep = Պահել
+
+## Colorway theme migration
+

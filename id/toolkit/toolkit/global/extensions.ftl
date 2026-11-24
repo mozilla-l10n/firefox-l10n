@@ -77,6 +77,8 @@ webext-perms-host-description-one-domain = Mengakses data Anda untuk situs pada 
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Mengakses data Anda untuk situs dalam { $domainCount } domain
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Simpan Sebagai
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -121,3 +123,15 @@ webext-site-perms-header-unsigned-with-perms = Tambahkan { $extension }? Ekstens
 
 webext-site-perms-midi = Akses perangkat MIDI
 webext-site-perms-midi-sysex = Akses perangkat MIDI dengan dukungan SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Hapus instalasi { $extension }
+webext-uninstall-confirmation-message = Ekstensi "{ $extension }" meminta untuk dihapus instalasinya. Apa yang ingin Anda lakukan?
+webext-uninstall-confirmation-button-uninstall = Hapus Instalasi
+webext-uninstall-confirmation-button-keep = Tetap Terinstal
+
+## Colorway theme migration
+

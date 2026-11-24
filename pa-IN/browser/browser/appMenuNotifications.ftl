@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = ਤੁਹਾਡੀਆਂ ਲੁਕਵੀਆਂ ਟੈਬਾਂ ਲਈ ਪਹੁੰਚ
     .secondarybuttonlabel = ਇਕਸਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = ਇਕਸਟੈਨਸ਼ਨ, <img data-l10n-name="addon-icon"/> { $addonName }, ਨੇ ਸਫ਼ਾ ਬਦਲਿਆ, ਜੋ ਤੁਸੀਂ ਨਵੀਂ ਟੈੇਬ ਖੋਲ੍ਹਣ ਸਮੇਂ ਵੇਖਦੇ ਹੋ।
+appmenu-homepage-controlled-message = ਇਕਸਟੈਨਸ਼ਨ, <img data-l10n-name="addon-icon"/> { $addonName }, ਨੇ ਤੁਹਾਡੇ ਵਲੋਂ ਤੁਹਾਡੇ ਮੁੱਖ-ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹਣ ਅਤੇ ਨਵੀਆਂ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਵਾਲੇ ਨੂੰ ਬਦਲਿਆ ਹੈ।
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = ਇਕਸਟੈਨਸ਼ਨ, <img data-l10n-name="addon-icon"/> { $addonName }, ਤੁਹਾਡੀਆਂ ਕੁਝ ਟੈਬਾਂ ਲੁਕਾ ਰਹੀ ਹੈ। ਤੁਸੀਂ <img data-l10n-name="all-tabs-icon"/> ਤੋਂ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।

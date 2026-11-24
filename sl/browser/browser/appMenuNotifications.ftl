@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Dostopajte do skritih zavihkov
     .secondarybuttonlabel = Onemogoči razširitev
     .secondarybuttonaccesskey = n
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Razširitev <img data-l10n-name="addon-icon"/> { $addonName } je zamenjala stran novega zavihka.
+appmenu-homepage-controlled-message = Razširitev <img data-l10n-name="addon-icon"/> { $addonName } je zamenjala domačo stran in stran, ki se odpre v novih oknih.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Razširitev <img data-l10n-name="addon-icon"/> { $addonName } skriva nekatere vaše zavihke. Do vseh zavihkov lahko še vedno dostopate z <img data-l10n-name="all-tabs-icon"/>.

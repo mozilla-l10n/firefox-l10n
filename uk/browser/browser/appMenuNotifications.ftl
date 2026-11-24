@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Доступ до ваших прихованих вкладок
     .secondarybuttonlabel = Вимкнути розширення
     .secondarybuttonaccesskey = к
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Розширення <img data-l10n-name="addon-icon"/> { $addonName } змінило сторінку, коли ви відкрили нову вкладку.
+appmenu-homepage-controlled-message = Розширення <img data-l10n-name="addon-icon"/> { $addonName } змінило сторінку вашої домівки для нових вкладок та вікон.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Розширення <img data-l10n-name="addon-icon"/> { $addonName } приховує деякі ваші вкладки. Ви все одно можете отримати доступ до всіх вкладок через <img data-l10n-name="all-tabs-icon"/>.

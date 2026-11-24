@@ -83,6 +83,8 @@ webext-perms-host-description-multiple-domains =
         [one] Piekļūstiet saviem datiem vietnēs { $domainCount } domēnā
        *[other] Piekļūstiet saviem datiem vietnēs { $domainCount } domēnos
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Saglabāt kā
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -148,6 +150,15 @@ webext-site-perms-header-unsigned-with-perms = Vai pievienot { $extension }? Ši
 webext-site-perms-midi = Piekļuve MIDI ierīcēm
 webext-site-perms-midi-sysex = Piekļūstiet MIDI ierīcēm, izmantojot SysEx atbalstu
 webext-site-perms-serial = Piekļuve seriālajām ierīcēm
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Noņemt { $extension }
+webext-uninstall-confirmation-message = Paplašinājums “{ $extension }” pieprasa noņemšanu. Ko iesākt?
+webext-uninstall-confirmation-button-uninstall = Noņemt
+webext-uninstall-confirmation-button-keep = Paturēt
 
 ## Colorway theme migration
 

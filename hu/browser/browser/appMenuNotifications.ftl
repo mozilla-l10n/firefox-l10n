@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Érje el a rejtett lapjait
     .secondarybuttonlabel = Kiegészítő letiltása
     .secondarybuttonaccesskey = l
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Egy kiegészítő, a(z) <img data-l10n-name="addon-icon"/> { $addonName }, módosította az oldalt, amelyet új lap megnyitásakor lát.
+appmenu-homepage-controlled-message = Egy kiegészítő, a(z) <img data-l10n-name="addon-icon"/> { $addonName }, módosítja hogy mit lát a kezdőlap vagy új ablakok megnyitásakor.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Egy kiegészítő, a(z) <img data-l10n-name="addon-icon"/> { $addonName }, elrejt bizonyos lapokat. Az <img data-l10n-name="all-tabs-icon"/> segítségével továbbra is elérheti az összes lapját.

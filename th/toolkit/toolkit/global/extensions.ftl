@@ -78,6 +78,8 @@ webext-perms-host-description-one-domain = เข้าถึงข้อมู�
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = เข้าถึงข้อมูลของคุณสำหรับไซต์ต่างๆ ใน { $domainCount } โดเมน
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = บันทึกเป็น
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -143,6 +145,15 @@ webext-site-perms-header-unsigned-with-perms = เพิ่ม { $extension } �
 webext-site-perms-midi = เข้าถึงอุปกรณ์ MIDI
 webext-site-perms-midi-sysex = เข้าถึงอุปกรณ์ MIDI พร้อมการรองรับ SysEx
 webext-site-perms-serial = เข้าถึงอุปกรณ์ซีเรียล
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = ถอนการติดตั้ง { $extension }
+webext-uninstall-confirmation-message = ส่วนขยาย “{ $extension }” กำลังขอเพื่อถอนการติดตั้ง คุณต้องการทำอะไร?
+webext-uninstall-confirmation-button-uninstall = ถอนการติดตั้ง
+webext-uninstall-confirmation-button-keep = ติดตั้งไว้ต่อไป
 
 ## Colorway theme migration
 

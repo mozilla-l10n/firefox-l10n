@@ -68,6 +68,8 @@ webext-perms-host-description-one-domain = Accedir a vòstras donadas pels sites
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Accedir a vòstras donadas pels sites de { $domainCount } domenis
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Enregistrar jos
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -85,6 +87,9 @@ webext-perms-optional-text-with-data-collection = { $extension } demanda d’aut
 webext-site-perms-header-with-gated-perms-midi = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI (amb presa en carga de SysEx)
 
+##
+
+
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -98,3 +103,15 @@ webext-site-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquest
 
 webext-site-perms-midi = Accedir als periferics MIDI
 webext-site-perms-midi-sysex = Accedir als periferics MIDI compatibles amb SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Desinstallacion de { $extension }
+webext-uninstall-confirmation-message = L'extension “{ $extension }” demanda a èsser desinstallada. Qué volètz far ?
+webext-uninstall-confirmation-button-uninstall = Desinstallar
+webext-uninstall-confirmation-button-keep = Conservar
+
+## Colorway theme migration
+

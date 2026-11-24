@@ -56,3 +56,13 @@ appmenu-tab-hide-controlled =
     .label = Puntahan ang mga Nakatagong Tab
     .secondarybuttonlabel = Disable Extension
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Binago ng isang extension, <img data-l10n-name="addon-icon"/> { $addonName }, ang pahinang nakikita mo kapag nagbukas ka ng bagong tab.
+appmenu-homepage-controlled-message = May isang extension, <img data-l10n-name="addon-icon"/> { $addonName }, na nagbago ng kung ano ang makikita mo kapag binuksan mo ang iyong homepage at mga bagong window.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = May isang extension, <img data-l10n-name="addon-icon"/> { $addonName }, na nagtatago ng ilan sa mga tab mo. Maaari mo pa rin naman ma-access ang lahat ng iyong mga tab mula sa <img data-l10n-name="all-tabs-icon"/>.

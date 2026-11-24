@@ -9,3 +9,11 @@ appmenu-tab-hide-controlled =
     .label = अपने गुप्त टैब तक पहुंचें
     .secondarybuttonlabel = एक्सटेंशन अक्षम करें
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = एक एक्सटेंशन, <img data-l10n-name="addon-icon"/> { $addonName }, ने वह पृष्ठ बदल दिया है जिसे आप नया टैब खोलने पर देखते हैं.
+appmenu-homepage-controlled-message = एक एक्सटेंशन, <img data-l10n-name="addon-icon"/> { $addonName }, वह बदल दिया है जिसे आप अपने मुख्यपृष्ठ तथा नयी विंडो के तौर पर देखते हैं.

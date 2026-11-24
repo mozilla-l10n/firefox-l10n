@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [few] Pristupi svojim podacima za stranice u { $domainCount } domene
        *[other] Pristupi svojim podacima za stranice u { $domainCount } domena
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Spremi kao
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -139,6 +141,15 @@ webext-site-perms-header-unsigned-with-perms = Dodati { $extension }? Ovaj dodat
 
 webext-site-perms-midi = Pristup MIDI uređajima
 webext-site-perms-midi-sysex = Pristup MIDI uređajima sa SysEx podrškom
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Ukloni { $extension }
+webext-uninstall-confirmation-message = Dodatak „{ $extension }” je zatražio da ga se ukloni. Što želiš učiniti?
+webext-uninstall-confirmation-button-uninstall = Ukloni
+webext-uninstall-confirmation-button-keep = Zadrži dodatak
 
 ## Colorway theme migration
 

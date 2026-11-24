@@ -80,6 +80,8 @@ webext-perms-host-description-multiple-domains =
         [one] Atzèdere a is datos tuos pro sitos de is domìnios { $domainCount }
        *[other] Atzèdere a is datos tuos pro sitos de is domìnios { $domainCount }
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Sarva comente
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -134,6 +136,15 @@ webext-site-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }?
 
 webext-site-perms-midi = Atzèdere a dispositivos MIDI
 webext-site-perms-midi-sysex = Atzèdere a dispositivos MIDI cumpatìbiles cun SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Disinstalla { $extension }
+webext-uninstall-confirmation-message = S'estensione “{ $extension }” at rechestu de èssere disinstallada. Ite boles fàghere?
+webext-uninstall-confirmation-button-uninstall = Disinstalla
+webext-uninstall-confirmation-button-keep = Mantene installada
 
 ## Colorway theme migration
 

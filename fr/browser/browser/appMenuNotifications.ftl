@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Accéder aux onglets masqués
     .secondarybuttonlabel = Désactiver l’extension
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Une extension, <img data-l10n-name="addon-icon"/> { $addonName }, a modifié la page qui s’affiche lorsque vous ouvrez un nouvel onglet.
+appmenu-homepage-controlled-message = Une extension, <img data-l10n-name="addon-icon"/> { $addonName }, a modifié la page qui s’affiche lorsque vous ouvrez de nouvelles fenêtres ou votre page d’accueil.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Une extension, <img data-l10n-name="addon-icon"/> { $addonName }, masque certains de vos onglets. Vous pouvez toujours accéder à tous vos onglets depuis <img data-l10n-name="all-tabs-icon"/>.

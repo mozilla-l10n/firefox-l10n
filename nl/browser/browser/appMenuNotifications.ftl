@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Uw verborgen tabbladen benaderen
     .secondarybuttonlabel = Extensie uitschakelen
     .secondarybuttonaccesskey = u
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Een extensie, <img data-l10n-name="addon-icon"/> { $addonName }, heeft de pagina die u ziet bij het openen van een nieuw tabblad gewijzigd.
+appmenu-homepage-controlled-message = Een extensie, <img data-l10n-name="addon-icon"/> { $addonName }, heeft gewijzigd wat u ziet bij het openen van uw startpagina en nieuwe vensters.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Een extensie, <img data-l10n-name="addon-icon"/> { $addonName }, verbergt enkele van uw tabbladen. U kunt nog steeds al uw tabbladen benaderen vanaf <img data-l10n-name="all-tabs-icon"/>.

@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Aceda aos seus separadores ocultados
     .secondarybuttonlabel = Desativar extensão
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Uma extensão, <img data-l10n-name="addon-icon"/> { $addonName }, alterou a página que vê quando abre um novo separador.
+appmenu-homepage-controlled-message = Uma extensão, <img data-l10n-name="addon-icon"/> { $addonName }, alterou o que vê quando abre a sua página inicial e novas janelas.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Uma extensão, <img data-l10n-name="addon-icon"/> { $addonName }, está a ocultar alguns dos seus separadores. Pode ainda aceder a todos os seus separadores a partir de <img data-l10n-name="all-tabs-icon"/>.

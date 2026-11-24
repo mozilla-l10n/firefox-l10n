@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = 拡張機能を無効化
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = 拡張機能 <img data-l10n-name="addon-icon"/> { $addonName } が新しいタブを開いたときのページを変更しています。
+appmenu-homepage-controlled-message = 拡張機能 <img data-l10n-name="addon-icon"/> { $addonName } がホームページと新しいウィンドウを開いたときに表示される内容を変更しています。
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = 拡張機能 <img data-l10n-name="addon-icon"/> { $addonName } が一部のタブを非表示にしています。<img data-l10n-name="all-tabs-icon"/> ですべてのタブにアクセスできます。

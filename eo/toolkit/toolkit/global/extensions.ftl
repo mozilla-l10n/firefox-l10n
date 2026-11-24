@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] Aliri viajn datumojn por retejoj en { $domainCount } nomregno
        *[other] Aliri viajn datumojn por retejoj en { $domainCount } nomregnoj
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Konservi kiel
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -147,6 +149,15 @@ webext-site-perms-header-unsigned-with-perms = Ĉu aldoni { $extension }? Tiu ĉ
 webext-site-perms-midi = Aliri aparatojn MIDI
 webext-site-perms-midi-sysex = Aliri aparatojn MIDI kun subteno por SysEx
 webext-site-perms-serial = Aliri seriajn aparatojn
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Malinstali { $extension }
+webext-uninstall-confirmation-message = La etendaĵo “{ $extension }” petas sian malinstalon. Kion vi ŝatus fari?
+webext-uninstall-confirmation-button-uninstall = Malinstali
+webext-uninstall-confirmation-button-keep = Lasi instalita
 
 ## Colorway theme migration
 

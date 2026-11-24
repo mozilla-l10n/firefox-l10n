@@ -12,6 +12,9 @@
 
 webext-perms-sideload-header = ເພີ່ມ { $extension } ແລ້ວ
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -45,6 +48,11 @@ webext-perms-host-description-wildcard = ເຂົ້າເຖິງຂໍ້ມ
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານສຳລັບ { $domain }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ບັນທຶກທີ່
+
+## Strings for data collection permissions in the permission prompt.
+
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -55,6 +63,9 @@ webext-perms-host-description-one-site = ເຂົ້າເຖິງຂໍ້ມ
 
 webext-site-perms-header-with-gated-perms-midi = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ.
 webext-site-perms-header-with-gated-perms-midi-sysex = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ (ໂດຍຮອງຮັບ SysEx).
+
+##
+
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -69,3 +80,15 @@ webext-site-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } �
 
 webext-site-perms-midi = ເຂົ້າເຖິງອຸປະກອນ MIDI
 webext-site-perms-midi-sysex = ເຂົ້າເຖິງອຸປະກອນ MIDI ດ້ວຍການຮອງຮັບ SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = ຖອນການຕິດຕັ້ງ { $extension }
+webext-uninstall-confirmation-message = ເອັກເທນຊັນ “{ $extension }” ຕ້ອງໄດ້ຮັບການຖອນການຕິດຕັ້ງ. ທ່ານຕ້ອງການຈະເຮັດແນວໃດ?
+webext-uninstall-confirmation-button-uninstall = ຖອນການຕິດຕັ້ງ
+webext-uninstall-confirmation-button-keep = ຮັກສາການຕິດຕັ້ງໄວ້ຕໍ່ໄປ
+
+## Colorway theme migration
+

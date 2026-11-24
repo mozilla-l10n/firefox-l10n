@@ -78,6 +78,8 @@ webext-perms-host-description-one-domain = Accéder à vos données pour les sit
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Accéder à vos données pour les sites de { $domainCount } domaines
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Enregistrer sous
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -143,6 +145,15 @@ webext-site-perms-header-unsigned-with-perms = Ajouter { $extension } ? Cette e
 webext-site-perms-midi = Accéder aux appareils MIDI
 webext-site-perms-midi-sysex = Accéder aux appareils MIDI prenant en charge SysEx
 webext-site-perms-serial = Accéder aux périphériques série
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Désinstaller { $extension }
+webext-uninstall-confirmation-message = L’extension « { $extension } » demande à être désinstallée. Que voulez-vous faire ?
+webext-uninstall-confirmation-button-uninstall = Désinstaller
+webext-uninstall-confirmation-button-keep = Conserver
 
 ## Colorway theme migration
 

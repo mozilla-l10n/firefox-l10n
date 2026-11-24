@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Akses Tab Tersorok Anda
     .secondarybuttonlabel = Nyahdayakan Ekstensi
     .secondarybuttonaccesskey = N
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Ekstensi, <img data-l10n-name="addon-icon"/> { $addonName }, menukar halaman yang anda lihat apabila anda buka tab baru.
+appmenu-homepage-controlled-message = Ekstensi, <img data-l10n-name="addon-icon"/> { $addonName }, menukar apa yang dilihat apabila anda buka laman dan tetingkap baru.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Ekstensi <img data-l10n-name="addon-icon"/> { $addonName } sedang menyorokkan beberapa tab. Anda masih boleh akses semua tab dari <img data-l10n-name="all-tabs-icon"/>.

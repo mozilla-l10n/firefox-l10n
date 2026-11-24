@@ -80,6 +80,8 @@ webext-perms-host-description-multiple-domains =
         [one] Skoða gögnin þín fyrir vefsvæði á { $domainCount } léni
        *[other] Skoða gögnin þín fyrir vefsvæði á { $domainCount } lénum
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Vista sem
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -136,3 +138,15 @@ webext-site-perms-header-unsigned-with-perms = Bæta við { $extension }? Þessi
 
 webext-site-perms-midi = Tengjast við MIDI-tæki
 webext-site-perms-midi-sysex = Tengjast við MIDI-tæki með stuðning við SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Fjarlægja { $extension }
+webext-uninstall-confirmation-message = Forritsaukinn “{ $extension }” er að biðja um að verða fjarlægður. Hvað viltu gera?
+webext-uninstall-confirmation-button-uninstall = Fjarlægja
+webext-uninstall-confirmation-button-keep = Nota áfram
+
+## Colorway theme migration
+

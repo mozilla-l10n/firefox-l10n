@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Acceder as súas lapelas agochadas
     .secondarybuttonlabel = Desactivar a extensión
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Unha extensión, <img data-l10n-name="addon-icon"/> { $addonName }, cambiou a páxina que ve cando abre unha nova lapela.
+appmenu-homepage-controlled-message = Unha extensión, <img data-l10n-name="addon-icon"/> { $addonName }, cambiou o que vostede ve cando abre a páxina de inicio ou as xanelas novas.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Unha extensión, <img data-l10n-name="addon-icon"/> { $addonName }, está agochando algunhas lapelas. Pode acceder a todas as lapelas en <img data-l10n-name="all-tabs-icon"/>.

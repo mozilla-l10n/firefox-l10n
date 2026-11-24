@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Prístup k vašim skrytým kartám
     .secondarybuttonlabel = Zakázať rozšírenie
     .secondarybuttonaccesskey = Z
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Rozšírenie <img data-l10n-name="addon-icon"/> { $addonName } zmenilo stránku, ktorú vidíte pri otvorení novej karty.
+appmenu-homepage-controlled-message = Rozšírenie <img data-l10n-name="addon-icon"/> { $addonName } zmenilo stránku, ktorú vidíte pri otvorení vašej domovskej stránky a nových okien.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Rozšírenie <img data-l10n-name="addon-icon"/> { $addonName } skrýva niektoré karty. Všetky svoje karty uvidíte po kliknutí na <img data-l10n-name="all-tabs-icon"/>.

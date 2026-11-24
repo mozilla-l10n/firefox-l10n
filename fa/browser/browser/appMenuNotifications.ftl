@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = دسترسی به زبانه‌های مخفی
     .secondarybuttonlabel = غیرفعال کردن افزودنی‌ها
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = یک افزونه، <img data-l10n-name="addon-icon"/> { $addonName }، صفحه‌ای که هنگام باز کردن زبانه جدید می‌بینید را تغییر داده است.
+appmenu-homepage-controlled-message = یک افزونه، <img data-l10n-name="addon-icon"/> { $addonName }، چیزی که هنگام باز کردن صفحه خانگی‌تان و پنجره‌های جدید می‌بینید را تغییر داده است.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = یک افزونه، <img data-l10n-name="addon-icon"/> { $addonName }، در حال مخفی کردن برخی از زبانه‌های شماست. همچنان می‌توانید از <img data-l10n-name="all-tabs-icon"/> به همه‌ی زبانه‌های خود دسترسی داشته باشید.
