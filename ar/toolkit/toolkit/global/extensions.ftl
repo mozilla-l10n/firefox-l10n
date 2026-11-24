@@ -85,6 +85,8 @@ webext-perms-host-description-multiple-domains =
         [many] الوصول إلى بياناتك للمواقع في { $domainCount } نطاقًا
        *[other] الوصول إلى بياناتك للمواقع في { $domainCount } نطاق
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = احفظ باسم
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -150,6 +152,11 @@ webext-site-perms-header-unsigned-with-perms = أتريد إضافة { $extensio
 webext-site-perms-midi = الوصول إلى أجهزة MIDI
 webext-site-perms-midi-sysex = الوصول إلى أجهزة MIDI التي تدعم SysEx
 webext-site-perms-serial = الوصول إلى الأجهزة التسلسلية
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
 
 ## Colorway theme migration
 
