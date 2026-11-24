@@ -80,6 +80,8 @@ webext-perms-host-description-multiple-domains =
     { $domainCount ->
        *[other] Пайдо кардани дастрасӣ ба маълумоти худ барои сомонаҳо дар { $domainCount } домен
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Нигоҳ доштан ҳамчун
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -137,6 +139,15 @@ webext-site-perms-header-unsigned-with-perms = { $extension }-ро илова м
 
 webext-site-perms-midi = Дастрасӣ ба дастгоҳҳои MIDI
 webext-site-perms-midi-sysex = Дастрасӣ ба дастгоҳҳои MIDI бо дастгирии SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Лағв кардани насби { $extension }
+webext-uninstall-confirmation-message = Васеъшавии «{ $extension }» талаб мекунад, ки насби онро лағв кунед. Шумо чӣ кор кардан мехоҳед?
+webext-uninstall-confirmation-button-uninstall = Лағв кардани насб
+webext-uninstall-confirmation-button-keep = Ҳамчун насбшуда нигоҳ доред
 
 ## Colorway theme migration
 
