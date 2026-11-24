@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] Käytä dataasi { $domainCount } verkkotunnuksen sivustoissa
        *[other] Käytä dataasi { $domainCount } verkkotunnuksen sivustoissa
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Tallenna nimellä
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -147,6 +149,11 @@ webext-site-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? T�
 webext-site-perms-midi = Käytä MIDI-laitteita
 webext-site-perms-midi-sysex = Käytä MIDI-laitteita SysEx-tuella
 webext-site-perms-serial = Käytä sarjaporttilaitteita
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
 
 ## Colorway theme migration
 
