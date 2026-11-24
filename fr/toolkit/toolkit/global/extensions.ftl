@@ -144,6 +144,15 @@ webext-site-perms-midi = Accéder aux appareils MIDI
 webext-site-perms-midi-sysex = Accéder aux appareils MIDI prenant en charge SysEx
 webext-site-perms-serial = Accéder aux périphériques série
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Désinstaller { $extension }
+webext-uninstall-confirmation-message = L’extension « { $extension } » demande à être désinstallée. Que voulez-vous faire ?
+webext-uninstall-confirmation-button-uninstall = Désinstaller
+webext-uninstall-confirmation-button-keep = Conserver
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Votre thème de coloris a été supprimé.</b> { -brand-shorter-name } a mis à jour sa collection de coloris. Vous pouvez trouver les dernières versions sur le site des modules.
