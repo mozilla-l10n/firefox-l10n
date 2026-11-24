@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = { $domain } ഡൊമെയ്നില
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } നായുള്ള നിങ്ങളുടെ ഡാറ്റ ആക്സസ് ചെയ്യുക
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ഈ പേരോടെ കരുതിവയ്ക്കുക
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -80,6 +82,7 @@ webext-perms-host-description-one-site = { $domain } നായുള്ള ന�
 webext-uninstall-confirmation-title = { $extension } അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
 webext-uninstall-confirmation-message = “{ $extension }” എന്ന എക്സ്റ്റൻഷൻ അണ്‍ഇന്‍സ്റ്റോൾ ചെയ്യാൻ അഭ്യർത്ഥിക്കുന്നു. നിങ്ങൾ എന്തു ചെയ്യാൻ ആഗ്രഹിക്കുന്നു?
 webext-uninstall-confirmation-button-uninstall = അണിൻസ്റ്റാൾ ചെയ്യുക
+webext-uninstall-confirmation-button-keep = സ്ഥാപിച്ചു വച്ചുകൊണ്ടിരിക്കുക
 
 ## Colorway theme migration
 
