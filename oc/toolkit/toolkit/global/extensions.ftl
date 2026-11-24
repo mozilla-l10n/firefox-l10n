@@ -85,6 +85,9 @@ webext-perms-optional-text-with-data-collection = { $extension } demanda d’aut
 webext-site-perms-header-with-gated-perms-midi = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI (amb presa en carga de SysEx)
 
+##
+
+
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -98,3 +101,12 @@ webext-site-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquest
 
 webext-site-perms-midi = Accedir als periferics MIDI
 webext-site-perms-midi-sysex = Accedir als periferics MIDI compatibles amb SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Desinstallacion de { $extension }
+
+## Colorway theme migration
+
