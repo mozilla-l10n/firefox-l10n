@@ -68,6 +68,8 @@ webext-perms-host-description-one-domain = Accedir a vòstras donadas pels sites
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Accedir a vòstras donadas pels sites de { $domainCount } domenis
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Enregistrar jos
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -107,6 +109,7 @@ webext-site-perms-midi-sysex = Accedir als periferics MIDI compatibles amb SysEx
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Desinstallacion de { $extension }
+webext-uninstall-confirmation-button-keep = Conservar
 
 ## Colorway theme migration
 
