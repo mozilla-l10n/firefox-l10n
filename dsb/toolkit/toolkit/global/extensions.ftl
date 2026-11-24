@@ -84,6 +84,8 @@ webext-perms-host-description-multiple-domains =
         [few] Mějśo pśistup k swójim datam za sedła w { $domainCount } domenach
        *[other] Mějśo pśistup k swójim datam za sedła w { $domainCount } domenach
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Składowaś ako
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -149,6 +151,15 @@ webext-site-perms-header-unsigned-with-perms = { $extension } pśidaś? Toś to 
 webext-site-perms-midi = Pśistup k MIDI-rědam
 webext-site-perms-midi-sysex = Pśistup k MIDI-rědam z pódpěru za SysEx
 webext-site-perms-serial = Pśistup k serijowym rědam
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = { $extension } wótinstalěrowaś
+webext-uninstall-confirmation-message = Rozšyrjenje “{ $extension }” co se wótinstalěrowaś. Co cośo cyniś?
+webext-uninstall-confirmation-button-uninstall = Wótinstalěrowaś
+webext-uninstall-confirmation-button-keep = Njewótinstalěrowaś
 
 ## Colorway theme migration
 
