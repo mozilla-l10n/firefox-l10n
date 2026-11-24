@@ -66,6 +66,9 @@ webext-save-as-pdf-dialog-title = এই ৰূপে সাঁচি থওক
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = { $extension } আনইনষ্টল কৰক
+webext-uninstall-confirmation-button-uninstall = আনইনষ্টল কৰক
+webext-uninstall-confirmation-button-keep = ইনষ্টল কৰি ৰাখক
 
 ## Colorway theme migration
 
