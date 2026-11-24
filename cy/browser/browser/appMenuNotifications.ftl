@@ -72,3 +72,6 @@ appmenu-tab-hide-controlled =
 ##   $addonName (String): name of the extension.
 
 appmenu-new-tab-controlled-message = Mae'r estyniad <img data-l10n-name="addon-icon"/> { $addonName }, wedi newid y ffenestr rydych yn ei weld pan fyddwch yn agor tab newydd.
+appmenu-homepage-controlled-message = Mae'r estyniad <img data-l10n-name="addon-icon"/> { $addonName }, wedi newid yr hyn rydych yn ei weld pan fyddwch yn agor eich tudalen cartref a ffenestri newydd.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Mae estyniad, <img data-l10n-name="addon-icon"/> { $addonName }, yn cuddio rhai o'ch tabiau. Gallwch gael mynediad at eich holl dabiau o <img data-l10n-name="all-tabs-icon"/>.
