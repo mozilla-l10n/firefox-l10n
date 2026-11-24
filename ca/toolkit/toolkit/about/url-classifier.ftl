@@ -53,6 +53,8 @@ url-classifier-content-classifier-col-engine-result = Resultat del motor
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Excepció
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Errada
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

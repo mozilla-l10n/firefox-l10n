@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gestió del PIN
 about-webauthn-credential-management-section-title = Gestiona les credencials
 about-webauthn-pin-required-section-title = PIN obligatori
 about-webauthn-confirm-deletion-section-title = Confirma la supressió
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = Registre
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = Inscripcions biomètriques
 
@@ -74,6 +76,12 @@ about-webauthn-add-bio-enrollment-button = Afegeix una inscripció
 about-webauthn-cancel-button = Cancel·la
 about-webauthn-send-pin-button = D’acord
 about-webauthn-delete-button = Suprimeix
+# Starts recording the log of messages exchanged with a security token.
+about-webauthn-start-button = Inicia
+# Stops recording the log of messages exchanged with a security token.
+about-webauthn-stop-button = Atura
+# Clears the log of messages exchanged with a security token.
+about-webauthn-clear-button = Esborra
 about-webauthn-start-enrollment-button = Inicia la inscripció
 about-webauthn-update-button = Actualitza
 
@@ -114,6 +122,7 @@ about-webauthn-auth-option-null = No compatible
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Ordres de configuració del prototip del proveïdor
+about-webauthn-auth-info-transports = Transports
 about-webauthn-auth-info-extensions = Extensions
 about-webauthn-auth-info-versions = Versions
 # Shows when boolean value for an info field is True. True should not be translated.

@@ -101,6 +101,7 @@ about-webrtc-fold-default-hide-msg = Amaga els detalls
     .title = Clic per reduir aquesta secció
 about-webrtc-decoder-label = Descodificador
 about-webrtc-encoder-label = Codificador
+about-webrtc-current-framerate-label = Imatges per segon
 
 ##
 

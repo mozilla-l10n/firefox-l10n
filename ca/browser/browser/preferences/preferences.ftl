@@ -650,6 +650,11 @@ support-get-help =
 support-share-ideas =
     .label = Comparteix idees i comentaris
 
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = Registre
+
 ## General Section - Performance
 
 performance-settings-learn-more = Més informació

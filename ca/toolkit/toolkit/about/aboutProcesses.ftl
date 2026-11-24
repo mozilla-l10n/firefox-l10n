@@ -18,6 +18,10 @@ about-processes-shutdown-tab =
     .title = Tanca la pestanya
 about-processes-unload-tab =
     .title = Descarrega la pestanya
+about-processes-expand-all-sites =
+    .title = Amplia-ho tot
+about-processes-collapse-all-sites =
+    .title = Redueix-ho tot
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -28,6 +32,11 @@ about-processes-profile-process =
             [one] Perfila tots els fils d'aquest procés durant { $duration } segon
            *[other] Perfila tots els fils d'aquest procés durant { $duration } segons
         }
+# Search field above the tab list, filtering tabs by title or site. The
+# placeholder is shown inside the empty field.
+about-processes-search-tabs =
+    .aria-label = Cerca en les pestanyes
+    .placeholder = Cerca en les pestanyes
 
 ## Column headers
 
@@ -127,6 +136,16 @@ about-processes-tab-count =
         [one] { $count } pestanya
        *[other] { $count } pestanyes
     }
+# Bulk-action bar icon button: clears the selection without acting on it.
+about-processes-bulk-cancel-selection =
+    .title = Cancel·la la selecció
+# Bulk-action bar button: unloads every selected tab's content without
+# closing the tabs (see about-processes-unload-tab for the per-row version).
+about-processes-bulk-unload-tabs =
+    .label = Descarrega
+# Bulk-action bar button: closes every selected tab.
+about-processes-bulk-close-tabs =
+    .label = Tanca
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -174,6 +193,10 @@ about-processes-cpu-fully-idle = inactiu
     .title = Temps total de la CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: a tab is currently idle.
 about-processes-tab-cpu-fully-idle = inactiu
+# A tab’s share of total CPU capacity across all cores, shown to two decimal places.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu2 = { NUMBER($percent, maximumFractionDigits: 2, minimumFractionDigits: 2, style: "percent") }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -191,6 +214,8 @@ about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigi
     .title = Evolució: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+# A tab’s memory of a gigabyte or more, shown to one decimal place.
+about-processes-tab-memory-gb = { NUMBER($total, maximumFractionDigits: 1, minimumFractionDigits: 1) }{ $totalUnit }
 
 ## Duration units
 

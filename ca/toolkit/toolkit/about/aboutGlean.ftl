@@ -10,6 +10,10 @@
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Quant a { -glean-brand-name }
 about-glean-header = Quant a { -glean-brand-name }
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (no envieu cap ping)
 # This message refers to the category in which a given metric is recorded.
@@ -32,3 +36,5 @@ about-glean-metrics-table-settings-timelines-width = Amplada
 about-glean-label-for-filter-metrics = Filtre
 about-glean-button-load-value = Carrega
 about-glean-button-watch = Vigila
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
