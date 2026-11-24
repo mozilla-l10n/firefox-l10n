@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = 파일 저장
     .accesskey = s
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = 파일 저장
 unknowncontenttype-remember-choice =
     .label = 이 파일 형식에 대해 다시 묻지 않음
     .accesskey = a

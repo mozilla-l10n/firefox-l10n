@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = 오디오 음소거/음소거 해제
 customkeys-edit-find-previous = 이전 찾기
 customkeys-edit-find-selection = 찾기에 선택 영역 사용
 customkeys-tools-screenshot = 스크린샷 찍기
+customkeys-tools-lock-windows = 사생활 보호 창 잠금
 customkeys-category-navigation-2 =
     .heading = 탐색
 customkeys-caution-message = 이 기능은 실험적이며 예상대로 작동하지 않을 수 있습니다.

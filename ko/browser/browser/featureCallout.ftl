@@ -198,6 +198,9 @@ tab-groups-2026-onboarding-cta-button = 그룹 시작
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
+closed-browser-notifications-callout-title = { -brand-short-name }가 닫힌 상태에서 웹 알림 받기
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = 허용한 사이트는 이제 { -brand-short-name }가 닫혔을 때도 알림을 보낼 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = 관리
 # Stops notifications from being delivered while the browser is closed.

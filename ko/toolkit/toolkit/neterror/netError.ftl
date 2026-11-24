@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = 때로는 웹 사이트가 다�
 fp-learn-more-about-https-connections = HTTPS 연결에 대해 알아보기
 fp-neterror-vpn-error-title = VPN에 연결할 수 없음
 fp-neterror-vpn-error-description = 몇 분 후 다시 시도하세요.
+fp-neterror-vpn-error-continue-button = VPN 없이 계속하기
+    .accesskey = C
 fp-neterror-denied-port-access = 이 주소는 일반적으로 웹 탐색 이외의 목적으로 사용되는 네트워크 포트를 사용합니다. { -brand-short-name }가 사용자 보호를 위해 요청을 취소했습니다.

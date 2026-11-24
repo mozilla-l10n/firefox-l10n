@@ -1737,6 +1737,14 @@ trustpanel-breachalerts-anonymous-breached-button-dismiss = 닫기
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 무료 스캔 시작
 trustpanel-blocker-section-header2 = 이 사이트에서 추적기 <span data-l10n-name="count">{ $count }</span>개 차단됨
 
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign = { -brand-short-name }가 이 사이트에서 추적기 <span data-l10n-name="count">{ $count }</span>개를 차단했습니다
+trustpanel-blocker-description-redesign = 이 추적기는 탐색 정보를 수집하지 못하도록 차단되었습니다.
+trustpanel-no-trackers-header-redesign = 이 사이트에서 추적기를 찾을 수 없음
+trustpanel-no-trackers-description-redesign = { -brand-short-name }가 알려진 추적기를 확인했으나 발견되지 않았습니다.
+trustpanel-etp-off-description-redesign = 보호 기능을 켜면 { -brand-short-name }가 탐색 정보를 수집하는 알려진 추적기를 차단합니다.
+
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.

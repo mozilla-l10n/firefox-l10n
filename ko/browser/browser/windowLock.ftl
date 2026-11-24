@@ -19,3 +19,7 @@ window-lock-auth-error =
 window-lock-os-auth-dialog-caption = { -brand-full-name }
 # This message is shown in the Windows authentication prompt when unlocking Private Windows.
 window-lock-private-os-auth-dialog-message-win = 사생활 보호 창을 잠금 해제하려면 Windows 로그인 세부 정보를 입력하여 본인임을 확인하세요.
+# This message is shown in the macOS authentication prompt when unlocking Private Windows.
+# On macOS, only provide the reason that account verification is needed. Do not put a complete sentence here
+# (the system adds “Firefox is trying to…” before it).
+window-lock-private-os-auth-dialog-message-macosx = 사생활 보호 창 잠금 해제
