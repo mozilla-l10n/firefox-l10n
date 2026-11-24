@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] Domeinu bateko zure datuak atzitzea
        *[other] { $domainCount } domeinuetako zure datuak atzitzea
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Gorde honela
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -147,6 +149,12 @@ webext-site-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen ha
 webext-site-perms-midi = MIDI gailuak atzitzea
 webext-site-perms-midi-sysex = SysEx euskarria duten MIDI gailuak atzitzea
 webext-site-perms-serial = Serieko gailuak atzitzea
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Desinstalatu { $extension }
 
 ## Colorway theme migration
 
