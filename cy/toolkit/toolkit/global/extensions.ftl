@@ -152,6 +152,15 @@ webext-site-perms-midi = Mynediad at ddyfeisiau MIDI
 webext-site-perms-midi-sysex = Mynediad at ddyfeisiau MIDI sydd â Chefnogaeth SysEx
 webext-site-perms-serial = Mynediad i ddyfeisiau cyfresol
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Dadosod { $extension }
+webext-uninstall-confirmation-message = Mae estyniad “{ $extension }” yn gofyn am gael ei ddadosod. Beth hoffech chi ei wneud?
+webext-uninstall-confirmation-button-uninstall = Dadosod
+webext-uninstall-confirmation-button-keep = Cadw Wedi ei Osod
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Cafodd eich thema llwybrau lliw ei thynnu.</b> Mae { -brand-shorter-name } wedi diweddaru ei gasgliad llwybrau lliw. Gallwch ddod o hyd i'r fersiynau diweddaraf ar y wefan ychwanegion.
