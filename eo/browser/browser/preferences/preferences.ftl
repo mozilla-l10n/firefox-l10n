@@ -650,6 +650,14 @@ support-get-help =
 support-share-ideas =
     .label = Dividi ideojn kaj komentojn
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = Ricevu gvidilojn, konsilojn kaj novaĵojn por eltiri la plej bonan sperton el { -brand-product-name }.
+    .label = Bulteno de { -brand-product-name }
+newsletter-sign-up-link =
+    .label = Aboni
+
 ## General Section - Performance
 
 performance-settings-learn-more = Pli da informo
@@ -1210,6 +1218,11 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = historion
     .accesskey = h
+# This string is a modified noun (i.e. tabs that are open)
+sync-engine-tabs2 =
+    .label = Malfermi langetojn
+    .tooltiptext = Malfermi langetojn el viaj aliaj aparatoj
+    .accesskey = l
 sync-engine-tabs =
     .label = malfermitajn langetojn
     .tooltiptext = Listo de ĉio, kio estas malfermita, en ĉiuj spegulitaj aparatoj
@@ -1218,6 +1231,22 @@ sync-engine-passwords =
     .label = Pasvortoj
     .tooltiptext = Pasvortoj konservitaj de vi
     .accesskey = P
+sync-engine-addresses2 =
+    .label = Adresoj
+    .tooltiptext = Adresoj konservitaj de vi en { -brand-short-name }
+    .accesskey = A
+sync-engine-payment-methods3 =
+    .label = Pagmetodoj
+    .tooltiptext = Pagmetodoj konservitaj de vi
+    .accesskey = P
+sync-engine-addons2 =
+    .label = Aldonaĵoj
+    .tooltiptext = Aldonaĵoj kaj etosoj aldonitaj de vi al la skribotabla { -brand-short-name }
+    .accesskey = d
+sync-engine-settings2 =
+    .label = Agordoj
+    .tooltiptext = Agordoj de { -brand-short-name }, se ili estas aplikeblaj
+    .accesskey = g
 sync-engine-addresses =
     .label = adresojn
     .tooltiptext = Poŝtaj adresoj konservitaj de vi (nur en komputilo)
@@ -1486,6 +1515,26 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } konservita
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } konservita
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
