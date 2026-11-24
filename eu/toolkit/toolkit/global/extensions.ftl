@@ -155,6 +155,9 @@ webext-site-perms-serial = Serieko gailuak atzitzea
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Desinstalatu { $extension }
+webext-uninstall-confirmation-message = "{ $extension }" hedapenak desinstalatua izatea eskatu du. Zer egin nahi duzu?
+webext-uninstall-confirmation-button-uninstall = Desinstalatu
+webext-uninstall-confirmation-button-keep = Mantendu instalatuta
 
 ## Colorway theme migration
 
