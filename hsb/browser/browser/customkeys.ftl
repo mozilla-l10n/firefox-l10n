@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Awdijo wupinać/zapinać
 customkeys-edit-find-previous = Předchadny pytać
 customkeys-edit-find-selection = Wuběr za pytanje wužiwać
 customkeys-tools-screenshot = Foto wobrazowki činić
+customkeys-tools-lock-windows = Priwatne wokna zawrěć
 customkeys-category-navigation-2 =
     .heading = Nawigacija
 customkeys-caution-message = Tuta funkcija je eksperimentelna a njedźěła snano kaž wočakowane.

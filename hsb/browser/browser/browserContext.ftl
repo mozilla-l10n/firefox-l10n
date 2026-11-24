@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Zapołožku wobdźěłać …
     .tooltiptext = Zapołožku wobdźěłać ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Wočinić
+    .accesskey = o
+main-context-menu-open-link-new-tab-2 =
+    .label = W nowym rajtarku wočinić
+    .accesskey = n
+main-context-menu-open-link-split-view-2 =
+    .label = W rozdźělenym napohledźe wočinić
+    .accesskey = d
+main-context-menu-open-link-container-tab-2 =
+    .label = W nowym kontejnerowym rajtarku wočinić
+    .accesskey = k
+main-context-menu-open-link-new-window-2 =
+    .label = W nowym woknje wočinić
+    .accesskey = w
+main-context-menu-open-link-mini-window =
+    .label = W miniwoknje wočinić
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = W nowym priwatnym woknje wočinić
+    .accesskey = t
+main-context-menu-bookmark-link-3 =
+    .label = Jako zapołožku składować…
+    .accesskey = J
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Meni akcijow zmóžnić
     .accesskey = a
+main-context-menu-link-send-to-your-devices =
+    .label = Na waše graty pósłać
+    .accesskey = s
 main-context-menu-link-send-to-device =
     .label = Wotkaz na grat pósłać
     .accesskey = W
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Zhońće wjace wo DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = W nowym rajtarku kontejnera { $containerName } wočinić
+    .accesskey = e
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

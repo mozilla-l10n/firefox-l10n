@@ -194,6 +194,12 @@ tab-groups-2026-onboarding-callout-subtitle = Zeskupće swoje rajtarki po nadawk
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Skupinu rajtarkow wuwtorić
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Webzdźělenki ze začinjenym { -brand-short-name } dóstać
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać

@@ -1226,6 +1226,7 @@ qrcode-save-button =
     .label = Składować
 qrcode-window-title = QR-kod
 qrcode-dialog-title = QR-kod
+qrcode-dialog-title-download-mobile = { -brand-product-name } za mobilny grat sćahnyć
 qrcode-image =
     .aria-label = QR-kod
 qrcode-close-button =
@@ -1727,6 +1728,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Polěpšeny slědowanski škit je zmóžnjeny
 trustpanel-etp-label-disabled = Polěpšeny slědowanski škit je znjemóžnjeny
+trustpanel-etp-label-redesign = Polěpšeny slědowanski škit
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1749,7 +1751,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } je něšto pod
 trustpanel-header-disabled = Sće škity znjemóžnił
 trustpanel-description-disabled = { -brand-product-name } njedźěła. Namjetujemy škity zaso zmóžnić.
 trustpanel-clear-cookies-button = Placki a sydłowe daty zhašeć
+trustpanel-delete-site-data-button = Sydłowe daty zhašeć
+trustpanel-fix-site-issue-button = Sydłowy problem rozrisać
 trustpanel-privacy-link = Nastajenja priwatnosće
+trustpanel-manage-settings-button = Nastajenja rjadować
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1763,6 +1768,7 @@ trustpanel-site-information-header =
     .title = Zwiskowy škit za { $host }
 trustpanel-siteinformation-morelink = Dalše sydłowe informacije
 trustpanel-blocker-see-all = Wšě pokazać
+trustpanel-blocker-see-trackers-button = Přesćěhowaki pokazać
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1904,6 +1910,17 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> přesćěhowaki su so na tutym sydle zablokowali
        *[other] <span data-l10n-name="count">{ $count }</span> přesćěhowakow je so na tutym sydle zablokowało
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } je <span data-l10n-name="count">{ $count }</span> přesćěhowakow na tutym sydle zablokował
+        [two] { -brand-short-name } je <span data-l10n-name="count">{ $count }</span> přesćěhowakaj na tutym sydle zablokował
+        [few] { -brand-short-name } je <span data-l10n-name="count">{ $count }</span> přesćěhowaki na tutym sydle zablokował
+       *[other] { -brand-short-name } je <span data-l10n-name="count">{ $count }</span> přesćěhowakow na tutym sydle zablokował
+    }
+trustpanel-no-trackers-header-redesign = Žane přesćěhowaki na tutym sydle namakane
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
