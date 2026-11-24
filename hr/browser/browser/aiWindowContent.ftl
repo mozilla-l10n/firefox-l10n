@@ -93,15 +93,15 @@ smart-window-closed-tabs-row-label = Zatvorene kartice
 smart-window-closed-and-restored-label = Zatvorene i vraćene kartice
 smart-window-restored-row-label =
     { $count ->
-        [one] Vraćena je { $count } kartica
-        [few] Vraćene su { $count } kartice
-       *[other] Vraćeno je { $count } kartica
+        [one] Obnovljena je { $count } kartica
+        [few] Obnovljene su { $count } kartice
+       *[other] Obnovljeno je { $count } kartica
     }
 smart-window-restore-success-summary =
     { $count ->
-        [one] Kartice su zatvorene, a zatim vraćene.
-        [few] Kartice su zatvorene, a zatim vraćene.
-       *[other] Kartice su zatvorene, a zatim vraćene.
+        [one] Kartica je zatvorena, a zatim obnovljena.
+        [few] Kartice su zatvorene, a zatim obnovljene.
+       *[other] Kartica je zatvoreno, a zatim obnovljeno.
     }
 smart-window-cancelled-label = Zahtjev je otkazan.
 # Button label - "Group" is a verb (action to group tabs)

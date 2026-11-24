@@ -5,7 +5,7 @@
 
 ## Added shortcuts:
 
-customkeys-title = Tipkovni prečaci
+customkeys-title = Tipkovnički prečaci
 customkeys-search = Traži:
 customkeys-change = Promijeni
 customkeys-reset = Resetiraj
@@ -69,8 +69,8 @@ customkeys-key-clear =
     .aria-label = Izbriši
     .tooltiptext = Izbriši
 customkeys-key-reset =
-    .aria-label = Vrati
-    .tooltiptext = Vrati
+    .aria-label = Obnovi
+    .tooltiptext = Obnovi
 
 ## Shortcut actions
 

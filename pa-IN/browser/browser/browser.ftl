@@ -1209,6 +1209,7 @@ qrcode-save-button =
     .label = ਸੰਭਾਲੋ
 qrcode-window-title = QR ਕੋਡ
 qrcode-dialog-title = QR ਕੋਡ
+qrcode-dialog-title-download-mobile = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 qrcode-image =
     .aria-label = QR ਕੋਡ
 qrcode-close-button =
@@ -1694,6 +1695,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਚਾਲੂ ਹੈ
 trustpanel-etp-label-disabled = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ
+trustpanel-etp-label-redesign = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1704,6 +1706,7 @@ trustpanel-etp-toggle-off =
     .aria-label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ: { $host } ਲਈ ਬੰਦ ਹੈ
 trustpanel-etp-description-enabled = ਜੇ ਇਸ ਸਾਈਟ ਉੱਤੇ ਕੁਝ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ ਤਾਂ ਕੁਝ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕਰਕੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 trustpanel-etp-description-disabled = { -brand-product-name } ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡਾ ਘੱਟ ਪਿੱਛਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਵੱਧ ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ।
+trustpanel-trackercount-label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਪਾਬੰਦੀ ਲਾਏ ਟਰੈਕਰਾਂ ਨੂੰ ਵੇਖਾਓ
 trustpanel-connection-label-secure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਹੈ
 trustpanel-connection-label-insecure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ
 trustpanel-header-enabled = { -brand-product-name } ਪਹਿਰੇ ਉੱਤੇ ਹੈ

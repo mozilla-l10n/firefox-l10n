@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
     .tooltiptext = ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = ਖੋਲ੍ਹੋ
+    .accesskey = O
+main-context-menu-open-link-new-tab-2 =
+    .label = ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = T
+main-context-menu-open-link-split-view-2 =
+    .label = ਵੰਡੀ ਹੋਈ ਝਲਕ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = M
+main-context-menu-open-link-container-tab-2 =
+    .label = ਨਵੇਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = w
+main-context-menu-open-link-new-window-2 =
+    .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = d
+main-context-menu-open-link-mini-window =
+    .label = ਮਿੰਨੀ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = M
+main-context-menu-open-link-new-private-window-2 =
+    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = P
+main-context-menu-bookmark-link-3 =
+    .label = …ਬੁੱਕਮਾਰਕ
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = ਕਾਰਵਾਈਆਂ ਮੇਨੂ ਨੂੰ ਚਾਲੂ ਕਰੋ
     .accesskey = A
+main-context-menu-link-send-to-your-devices =
+    .label = ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਭੇਜੋ
+    .accesskey = n
 main-context-menu-link-send-to-device =
     .label = ਲਿੰਕ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
     .accesskey = D
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = …DRM ਬਾਰੇ ਹੋਰ ਜਾਣੋ
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = ਨਵੀਂ { $containerName } ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = T
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
