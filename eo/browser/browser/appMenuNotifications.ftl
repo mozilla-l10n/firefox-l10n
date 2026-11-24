@@ -65,3 +65,11 @@ appmenu-tab-hide-controlled =
     .label = Aliri viajn kaŝitajn langetojn
     .secondarybuttonlabel = Malaktivigi etendaĵon
     .secondarybuttonaccesskey = e
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = La aldonaĵo <img data-l10n-name="addon-icon"/> { $addonName } ŝanĝis la paĝon, kiun vi vidas kiam vi malfermas novan langeton.
+appmenu-homepage-controlled-message = La aldonaĵo <img data-l10n-name="addon-icon"/> { $addonName } ŝanĝis la paĝon, kiun vi vidas kiam vi malfermas novan langeton.

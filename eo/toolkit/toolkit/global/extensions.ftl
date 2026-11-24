@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] Aliri viajn datumojn por retejoj en { $domainCount } nomregno
        *[other] Aliri viajn datumojn por retejoj en { $domainCount } nomregnoj
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Konservi kiel
 
 ## Strings for data collection permissions in the permission prompt.
 
