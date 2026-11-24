@@ -147,6 +147,15 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Editar marcador…
     .tooltiptext = Editar marcador…({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Abrir
+    .accesskey = A
+main-context-menu-open-link-new-tab-2 =
+    .label = Abrir num Novo Separador
+    .accesskey = S
+main-context-menu-open-link-split-view-2 =
+    .label = Abrir na Vista Dividida
+    .accesskey = D
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
