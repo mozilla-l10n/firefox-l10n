@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Resinte chats
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nij ljepblêd
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Iepenje yn nij { -smart-window-brand-name }
+    .accesskey = I
 
 ## Smart Window Toggle Button
 
@@ -362,6 +365,15 @@ aiwindow-starter-planning-plan = Help in plan te meitsjen
 aiwindow-starter-browsing-history = Sykje ljepblêden yn de skiednis
 aiwindow-starter-browsing-summarize = Gearfetsje ljepblêden
 aiwindow-starter-browsing-compare = Fergelykje ljepblêden
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = { $text } slute
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

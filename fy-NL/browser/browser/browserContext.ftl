@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Blêdwizer bewurkje…
     .tooltiptext = Blêdwizer bewurkje ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Iepenje
+    .accesskey = I
+main-context-menu-open-link-new-tab-2 =
+    .label = Iepenje yn nij ljepblêd
+    .accesskey = l
+main-context-menu-open-link-split-view-2 =
+    .label = Iepenje yn splitste werjefte
+    .accesskey = s
+main-context-menu-open-link-container-tab-2 =
+    .label = Iepenje yn nij kontenerljepblêd
+    .accesskey = k
+main-context-menu-open-link-new-window-2 =
+    .label = Iepenje yn nij finster
+    .accesskey = f
+main-context-menu-open-link-mini-window =
+    .label = Iepenje yn minifinster
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = Iepenje yn nij Priveefinster
+    .accesskey = p
+main-context-menu-bookmark-link-3 =
+    .label = Blêdwizer meitsje…
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Menu Aksjes ynskeakelje
     .accesskey = A
+main-context-menu-link-send-to-your-devices =
+    .label = Nei jo apparaten ferstjoere
+    .accesskey = a
 main-context-menu-link-send-to-device =
     .label = Keppeling nei apparaat ferstjoere
     .accesskey = p
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Mear ynfo oer DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Iepenje yn nij { $containerName }-ljepblêd
+    .accesskey = t
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

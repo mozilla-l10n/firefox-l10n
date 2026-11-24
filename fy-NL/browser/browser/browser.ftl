@@ -1208,6 +1208,7 @@ qrcode-save-button =
     .label = Bewarje
 qrcode-window-title = QR-koade
 qrcode-dialog-title = QR-koade
+qrcode-dialog-title-download-mobile = { -brand-product-name } foar mobyl downloade
 qrcode-image =
     .aria-label = QR-koade
 qrcode-close-button =
@@ -1695,6 +1696,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Ferbettere beskerming tsjin folgjen is ynskeakele
 trustpanel-etp-label-disabled = Ferbettere beskerming tsjin folgjen is útskeakele
+trustpanel-etp-label-redesign = Ferbettere beskerming tsjin folgjen
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1717,7 +1719,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } hat wat fertoc
 trustpanel-header-disabled = Jo hawwe beskermingen útskeakele
 trustpanel-description-disabled = { -brand-product-name } hat gjin tsjinst. Wy riede jo oan beskermingen wer yn te skeakeljen.
 trustpanel-clear-cookies-button = Cookies en websitegegevens wiskje
+trustpanel-delete-site-data-button = Websitegegevens fuortsmite
+trustpanel-fix-site-issue-button = Websiteprobleem oplosse
 trustpanel-privacy-link = Privacyynstellingen
+trustpanel-manage-settings-button = Ynstellingen beheare
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1731,6 +1736,7 @@ trustpanel-site-information-header =
     .title = Ferbiningsbeskerming foar { $host }
 trustpanel-siteinformation-morelink = Mear website-ynformaasje
 trustpanel-blocker-see-all = Alles besjen
+trustpanel-blocker-see-trackers-button = Trackers besjen
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
