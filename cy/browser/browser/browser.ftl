@@ -1244,6 +1244,7 @@ qrcode-save-button =
     .label = Cadw
 qrcode-window-title = Cod QR
 qrcode-dialog-title = Cod QR
+qrcode-dialog-title-download-mobile = Llwytho { -brand-product-name } i lawr ar gyfer symudol
 qrcode-image =
     .aria-label = Cod QR
 qrcode-close-button =
@@ -1755,6 +1756,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Mae Diogelwch Uwch Rhag Tracio ymlaen
 trustpanel-etp-label-disabled = Mae Diogelwch Uwch Rhag Tracio i ffwrdd
+trustpanel-etp-label-redesign = Diogelwch Uwch Rhag Tracio
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1777,7 +1779,10 @@ trustpanel-description-enabled-insecure = Sylwodd { -brand-product-name } ar ryw
 trustpanel-header-disabled = Rydych wedi diffodd eich diogelu
 trustpanel-description-disabled = Nid yw { -brand-product-name } ar waith. Rydym yn awgrymu troi eich diogelwch yn ôl ymlaen.
 trustpanel-clear-cookies-button = Clirio cwcis a data gwefan
+trustpanel-delete-site-data-button = Dileu data gwefan
+trustpanel-fix-site-issue-button = Trwsio mater gwefan
 trustpanel-privacy-link = Gosodiadau Preifatrwydd
+trustpanel-manage-settings-button = Rheoli gosodiadau
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1791,6 +1796,7 @@ trustpanel-site-information-header =
     .title = Diogelu cysylltiadau ar gyfer { $host }
 trustpanel-siteinformation-morelink = Rhagor o fanylion y wefan
 trustpanel-blocker-see-all = Gweld y Cyfan
+trustpanel-blocker-see-trackers-button = Gweld tracwyr
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1964,6 +1970,20 @@ trustpanel-blocker-section-header2 =
         [many] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
        *[other] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] Mae { -brand-short-name } wedi rhwystro <span data-l10n-name="count">{ $count } traciwr</span> ar y wefan hon
+        [zero] Mae { -brand-short-name } wedi rhwystro <span data-l10n-name="count">{ $count } tracwyr</span> ar y wefan hon
+        [two] Mae { -brand-short-name } wedi rhwystro <span data-l10n-name="count">{ $count } draciwr</span> ar y wefan hon
+        [few] Mae { -brand-short-name } wedi rhwystro <span data-l10n-name="count">{ $count } traciwr</span> ar y wefan hon
+        [many] Mae { -brand-short-name } wedi rhwystro <span data-l10n-name="count">{ $count } traciwr</span> ar y wefan hon
+       *[other] Mae { -brand-short-name } wedi rhwystro <span data-l10n-name="count">{ $count } traciwr</span> ar y wefan hon
+    }
+trustpanel-blocker-description-redesign = Cafodd y tracwyr hyn eu rhwystro rhag casglu gwybodaeth am eich pori.
+trustpanel-no-trackers-header-redesign = Heb ganfod unrhyw dracwyr ar y wefan hon
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

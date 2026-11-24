@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Golygu Nod Tudalen…
     .tooltiptext = Golygu nod tudalen ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Agor
+    .accesskey = A
+main-context-menu-open-link-new-tab-2 =
+    .label = Agor mewn Tab Newydd
+    .accesskey = T
+main-context-menu-open-link-split-view-2 =
+    .label = Agor yn y Golwg Hollt
+    .accesskey = G
+main-context-menu-open-link-container-tab-2 =
+    .label = Agor mewn Tab Cynhwysydd Newydd
+    .accesskey = C
+main-context-menu-open-link-new-window-2 =
+    .label = Agor mewn Ffenestr Newydd
+    .accesskey = F
+main-context-menu-open-link-mini-window =
+    .label = Agor mewn Ffenestr Fach
+    .accesskey = e
+main-context-menu-open-link-new-private-window-2 =
+    .label = Agor mewn Ffenestr Breifat Newydd
+    .accesskey = B
+main-context-menu-bookmark-link-3 =
+    .label = Nod Tudalen…
+    .accesskey = N
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Troi'r Ddewislen Gweithredu Ymlaen
     .accesskey = G
+main-context-menu-link-send-to-your-devices =
+    .label = Anfon at Eich Dyfeisiau
+    .accesskey = D
 main-context-menu-link-send-to-device =
     .label = Anfon Dolen i Ddyfais
     .accesskey = D
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Darllen rhagor am DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Agor mewn Tab { $containerName } Newydd
+    .accesskey = a
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
