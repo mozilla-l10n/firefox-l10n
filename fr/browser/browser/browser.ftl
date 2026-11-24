@@ -1713,7 +1713,6 @@ trustpanel-description-enabled-insecure = { -brand-product-name } a remarqué qu
 trustpanel-header-disabled = Vous avez désactivé les protections
 trustpanel-description-disabled = { -brand-product-name } ne monte pas la garde. Nous vous suggérons de réactiver les protections.
 trustpanel-clear-cookies-button = Effacer les cookies et les données de sites
-trustpanel-delete-site-data-button = Supprimer les données des sites
 trustpanel-fix-site-issue-button = Résoudre un problème sur le site
 trustpanel-privacy-link = Paramètres de vie privée
 trustpanel-manage-settings-button = Gérer les paramètres
