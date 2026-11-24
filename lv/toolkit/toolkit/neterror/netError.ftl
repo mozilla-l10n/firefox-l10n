@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = Dažreiz tīmekļa vietnes izve
 fp-learn-more-about-https-connections = Uzziniet par HTTPS savienojumiem
 fp-neterror-vpn-error-title = Nevarēja izveidot savienojumu ar VPN
 fp-neterror-vpn-error-description = Pēc dažām minūtēm jāmēģina vēlreiz.
+fp-neterror-vpn-error-continue-button = Turpināt bez VPN
+    .accesskey = b
 fp-neterror-denied-port-access = Šī adrese izmanto tīkla portu, kas parasti tiek izmantots citiem mērķiem, nevis tīmekļa pārlūkošanai. { -brand-short-name } ir atcēlis pieprasījumu jūsu aizsardzībai.

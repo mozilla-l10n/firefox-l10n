@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Saglabāt datni
     .accesskey = S
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Saglabāt datni
 unknowncontenttype-remember-choice =
     .label = Turpmāk ar šāda veida datnēm rīkoties tā automātiski.
     .accesskey = T
