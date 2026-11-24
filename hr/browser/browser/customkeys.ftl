@@ -57,6 +57,7 @@ customkeys-nav-select-last-tab = Idi na posljednju karticu
 customkeys-nav-toggle-mute = Isključi/uključi zvuk
 customkeys-edit-find-previous = Pronađi prethodno
 customkeys-tools-screenshot = Snimi ekran
+customkeys-tools-lock-windows = Zaključaj privatne prozore
 customkeys-category-navigation-2 =
     .heading = Navigacija
 customkeys-caution-message = Ovo je eksperimentalna funkcija i možda neće raditi kako se očekuje.

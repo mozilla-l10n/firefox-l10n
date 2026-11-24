@@ -1842,6 +1842,19 @@ trustpanel-blocker-section-header2 =
        *[other] <span data-l10n-name="count"> { $count } </span> programa za praćenje je blokirano na ovoj web-stranici
     }
 
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }<span> program za praćenje na ovoj stranici
+        [few] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }<span> programa za praćenje na ovoj stranici
+       *[other] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }<span> programa za praćenje na ovoj stranici
+    }
+trustpanel-blocker-description-redesign = Ovi programi za praćenje su blokirani u prikupljanju informacija o tvom pregledavanju.
+trustpanel-no-trackers-header-redesign = Na ovoj stranici nisu pronađeni programi za praćenje
+trustpanel-no-trackers-description-redesign = { -brand-short-name } je provjerio poznate programe za praćenje i nije pronašao nijedan.
+trustpanel-etp-off-description-redesign = Uključi zaštite i { -brand-short-name } će blokirati poznate programe za praćenje u prikupljanju informacija o tvom pregledavanju.
+
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.

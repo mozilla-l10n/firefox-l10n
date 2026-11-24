@@ -196,6 +196,12 @@ ipprotection-open-button = Otvori { -brand-product-name }
 ipprotection-come-back-title = Vrati se da isprobaš ugrađeni VPN
 ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN-om
     .aria-label = Neuspjelo povezivanje VPN-om
+ipprotection-connection-status-try-again-button = Pokušaj ponovo
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Nastavi bez VPN-a
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Ponovni pokušaj …
+    .aria-label = Ponovni pokušaj …
 
 ## IP Protection Settings
 

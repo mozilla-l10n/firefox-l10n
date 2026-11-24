@@ -183,6 +183,20 @@ tab-groups-2026-onboarding-callout-subtitle = Grupiraj svoje kartice prema zadat
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Započni grupu
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Primaj web obavijesti sa zatvorenim { -brand-short-name(case: "ins") }
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Web-stranice koje dozvoliš sada mogu slati obavijesti čak i kada je { -brand-short-name } zatvoren. <a data-l10n-name="learn-more">Saznaj više</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Upravljaj
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Isključi
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Zadrži uključenim
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Prikaži naslove kartica u bočnoj traci

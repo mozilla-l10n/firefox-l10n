@@ -11,6 +11,11 @@ mini-window-close-button =
 mini-window-restore-button =
     .label = Vrati karticu natrag
     .tooltiptext = Vrati karticu natrag
+# Button appearing in a Mini Window that was opened from a link on a webpage.
+# Clicking the button will move the Mini Window tab to the window it was opened from.
+mini-window-link-restore-button =
+    .label = Premjesti karticu u prozor
+    .tooltiptext = Premjesti karticu u prozor
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is

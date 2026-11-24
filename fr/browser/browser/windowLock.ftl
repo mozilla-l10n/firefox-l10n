@@ -22,4 +22,4 @@ window-lock-private-os-auth-dialog-message-win = Pour déverrouiller vos fenêtr
 # This message is shown in the macOS authentication prompt when unlocking Private Windows.
 # On macOS, only provide the reason that account verification is needed. Do not put a complete sentence here
 # (the system adds “Firefox is trying to…” before it).
-window-lock-private-os-auth-dialog-message-macosx = déverrouillez vos fenêtres de navigation privée
+window-lock-private-os-auth-dialog-message-macosx = déverrouiller vos fenêtres de navigation privée
