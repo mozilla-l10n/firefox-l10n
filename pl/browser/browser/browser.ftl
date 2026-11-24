@@ -1738,7 +1738,9 @@ trustpanel-header-disabled = Wyłączono ochronę
 trustpanel-description-disabled = { -brand-product-name } jest po służbie. Zalecamy ponowne włączenie ochrony.
 trustpanel-clear-cookies-button = Wyczyść ciasteczka i dane witryny
 trustpanel-delete-site-data-button = Usuń dane witryny
+trustpanel-fix-site-issue-button = Napraw problem ze stroną
 trustpanel-privacy-link = Ustawienia prywatności
+trustpanel-manage-settings-button = Ustawienia
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1752,6 +1754,7 @@ trustpanel-site-information-header =
     .title = Ochrona połączenia z witryną { $host }
 trustpanel-siteinformation-morelink = Więcej informacji o witrynie
 trustpanel-blocker-see-all = Pokaż wszystko
+trustpanel-blocker-see-trackers-button = Pokaż elementy śledzące
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1877,6 +1880,19 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> elementy śledzące zablokowane na tej witrynie
        *[many] <span data-l10n-name="count">{ $count }</span> elementów śledzących zablokowanych na tej witrynie
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } zablokował <span data-l10n-name="count">{ $count }</span> element śledzący na tej witrynie
+        [few] { -brand-short-name } zablokował <span data-l10n-name="count">{ $count }</span> elementy śledzące na tej witrynie
+       *[many] { -brand-short-name } zablokował <span data-l10n-name="count">{ $count }</span> elementów śledzących na tej witrynie
+    }
+trustpanel-blocker-description-redesign = Tym elementom śledzącym uniemożliwiono zbieranie informacji o Twoich działaniach w Internecie.
+trustpanel-no-trackers-header-redesign = Na tej witrynie nie odnaleziono żadnych elementów śledzących
+trustpanel-no-trackers-description-redesign = { -brand-short-name } wyszukał znane elementy śledzące, ale żadnych nie wykrył.
+trustpanel-etp-off-description-redesign = Włącz ochronę, a { -brand-short-name } uniemożliwi znanym elementom śledzącym zbieranie informacji o Twoich działaniach w Internecie.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
