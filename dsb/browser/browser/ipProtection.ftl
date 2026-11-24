@@ -290,6 +290,9 @@ ipprotection-connection-status-generic-error-title-1 = Zwisk z VPN njejo móžny
 ipprotection-connection-status-try-again-button = Hyšći raz wopytaś
 # Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
 ipprotection-connection-error-continue-without-vpn = Bźez VPN pókšacowaś
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Wopytujo hyšći raz…
+    .aria-label = Wopytujo hyšći raz…
 
 ## IP Protection bandwidth callouts
 
