@@ -155,6 +155,10 @@ webext-site-perms-serial = Доступ к последовательным ус
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Удаление { $extension }
+webext-uninstall-confirmation-message = Расширение «{ $extension }» просит, чтобы его удалили. Что вы хотите сделать?
+webext-uninstall-confirmation-button-uninstall = Удалить
+webext-uninstall-confirmation-button-keep = Оставить установленным
 
 ## Colorway theme migration
 
