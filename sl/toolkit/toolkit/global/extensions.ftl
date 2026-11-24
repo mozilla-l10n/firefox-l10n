@@ -150,6 +150,12 @@ webext-site-perms-midi = dostop do naprav MIDI
 webext-site-perms-midi-sysex = dostop do naprav MIDI s podporo SysEx
 webext-site-perms-serial = Dostop do zaporednih naprav
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-button-keep = Pusti nameščeno
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Vaša barvna kombinacija je bila odstranjena.</b> { -brand-shorter-name } je posodobil zbirko barvnih kombinacij. Najnovejše različice so na voljo na spletnem mestu dodatkov.
