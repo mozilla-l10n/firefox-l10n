@@ -39,6 +39,27 @@ download-ui-cancel-downloads-ok =
         [1] Nuligi unu elŝuton
        *[other] Nuligi { $downloadsCount } elŝutojn
     }
+download-ui-confirm-cancel-button = Nuligi
+download-ui-confirm-quit-title =
+    { PLATFORM() ->
+        [windows]
+            { $downloadsCount ->
+                [1] Ĉu haltigi 1 elŝuton kaj fini { -brand-short-name }?
+               *[other] Ĉu haltigi { $downloadsCount } elŝutojn kaj fini { -brand-short-name }?
+            }
+       *[other]
+            { $downloadsCount ->
+                [1] Ĉu haltigi 1 elŝuton kaj fini { -brand-short-name }?
+               *[other] Ĉu haltigi { $downloadsCount } elŝutojn kaj fini { -brand-short-name }?
+            }
+    }
+download-ui-confirm-quit-message = { -brand-short-name } klopodos rekomenci elŝutojn kiam ĝi restartos, sed la progreso povus perdiĝi.
+download-ui-confirm-quit-button =
+    { PLATFORM() ->
+        [windows] Fini { -brand-short-name }
+       *[other] Fini { -brand-short-name }
+    }
+download-ui-confirm-private-browsing-button = Fermi fenestron
 
 ##
 

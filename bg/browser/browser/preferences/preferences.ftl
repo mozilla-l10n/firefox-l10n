@@ -1412,6 +1412,8 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Няма добавени адреси
+personal-info-group =
+    .label = Лична информация
 autofill-personal-info-manage-button =
     .label = Управление на личната информация
 passports-list-header =
