@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Nejnowše chaty
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nowy rejtarik
+main-context-menu-open-link-new-smart-window-2 =
+    .label = W nowem { -smart-window-brand-name } wócyniś
+    .accesskey = i
 
 ## Smart Window Toggle Button
 
@@ -366,6 +369,15 @@ aiwindow-starter-planning-plan = Pomagajśo, plan napóraś
 aiwindow-starter-browsing-history = Rejtariki w historiji pytaś
 aiwindow-starter-browsing-summarize = Rejtariki zespominaś
 aiwindow-starter-browsing-compare = Rejtariki pśirownaś
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = { $text } zachyśiś
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

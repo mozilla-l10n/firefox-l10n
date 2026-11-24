@@ -47,7 +47,7 @@ webauthn-register-direct-prompt = { $hostname } pieprasa paplašinātu informāc
 webauthn-register-direct-prompt-hint = { -brand-short-name } var jums to anonimizēt, taču vietne var noraidīt šo atslēgu. Ja tā tiek noraidīta, varat mēģināt vēlreiz.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
-webauthn-select-sign-result-prompt = Atrasti vairāki { $hostname } konti. Izvēlieties, kuru lietot, vai atceliet.
+webauthn-select-sign-result-prompt = Atrasti vairāki { $hostname } konti. Atlasi, kuru izmantot, vai atcel!
 # Variables:
 #  $hostname (String): the origin (website) for which a device needs to be selected.
 webauthn-select-device-prompt = Atrastas vairākas { $hostname } ierīces. Lūdzu, atlasiet vienu.

@@ -251,7 +251,7 @@ fp-neterror-cypher-overlap-why-dangerous-body = Šķiet, ka šī vietne izmanto 
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } neuzticas { $hostname }, jo savienojums nav drošs.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Jāpārliecinās, ka izmanto jaunāko { -brand-short-name } versiju, ko var izdarīt izvēlnē Palīdzība > Par { -brand-short-name }. Ja izmanto jaunāko { -brand-short-name }, visdrīzāk, ka sarežģījums ir ar pašu vietni.
-fp-neterror-offline-what-can-you-do-body = Mēģiniet izveidot savienojumu, izmantojot citu ierīci. Pārbaudiet modemu vai maršrutētāju. Atvienojiet un atkārtoti pievienojiet Wi-Fi.
+fp-neterror-offline-what-can-you-do-body = Jāmēģina izveidot savienojumu ar citu ierīci. Jāpārbauda modems vai maršrutētājs. Jāatvienojas un atkārtoti jāpievienojas Wi-Fi.
 fp-neterror-http-auth-disabled-what-can-you-do-body = Mēģiniet mainīt URL uz HTTPS. Taču, visticamāk, problēma ir pašā vietnē.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Dažreiz tīmekļa vietnes izveido sev aizsardzību pret nevēlamu mijiedarbību ar citām vietnēm.
