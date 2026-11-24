@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [one] { $domainCount } домендегі сайттар үшін деректеріңізге қатынау
        *[other] { $domainCount } домендегі сайттар үшін деректеріңізге қатынау
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Қалайша сақтау
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -147,6 +149,15 @@ webext-site-perms-header-unsigned-with-perms = { $extension } қосу кере�
 webext-site-perms-midi = MIDI құрылғыларына қатынау
 webext-site-perms-midi-sysex = SysEx қолдауы бар MIDI құрылғыларына қатынау
 webext-site-perms-serial = Тізбекті құрылғыларға қол жеткізу
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = { $extension } өшіру
+webext-uninstall-confirmation-message = "{ $extension }" кеңейтуі өшіруді сұрап тұр. Не істеуді қалайсыз?
+webext-uninstall-confirmation-button-uninstall = Өшіру
+webext-uninstall-confirmation-button-keep = Орнатылған етіп қалдыру
 
 ## Colorway theme migration
 
