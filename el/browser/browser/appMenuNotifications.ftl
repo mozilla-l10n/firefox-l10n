@@ -71,6 +71,7 @@ appmenu-tab-hide-controlled =
 ## Variables:
 ##   $addonName (String): name of the extension.
 
+appmenu-new-tab-controlled-message = Μια επέκταση, το <img data-l10n-name="addon-icon"/> { $addonName }, άλλαξε τη σελίδα που βλέπετε όταν ανοίγετε μια νέα καρτέλα.
 appmenu-homepage-controlled-message = Μια επέκταση, το <img data-l10n-name="addon-icon"/> { $addonName }, άλλαξε αυτά που βλέπετε όταν ανοίγετε την αρχική σελίδα και νέα παράθυρα.
 # The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
 appmenu-tab-hide-controlled-message = Μια επέκταση, το <img data-l10n-name="addon-icon"/> { $addonName }, αποκρύπτει κάποιες από τις καρτέλες σας. Μπορείτε να έχετε πρόσβαση σε όλες τις καρτέλες σας από το <img data-l10n-name="all-tabs-icon"/>.

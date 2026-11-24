@@ -154,6 +154,9 @@ webext-site-perms-serial = Πρόσβαση σε σειριακές συσκευ
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Αφαίρεση του { $extension }
+webext-uninstall-confirmation-message = Η επέκταση «{ $extension }» ζητά να αφαιρεθεί. Τι θέλετε να κάνετε;
+webext-uninstall-confirmation-button-uninstall = Αφαίρεση
+webext-uninstall-confirmation-button-keep = Διατήρηση εγκατάστασης
 
 ## Colorway theme migration
 
