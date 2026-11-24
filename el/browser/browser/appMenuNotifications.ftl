@@ -65,3 +65,12 @@ appmenu-tab-hide-controlled =
     .label = Πρόσβαση στις κρυφές σας καρτέλες
     .secondarybuttonlabel = Απενεργοποίηση επέκτασης
     .secondarybuttonaccesskey = Α
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-homepage-controlled-message = Μια επέκταση, το <img data-l10n-name="addon-icon"/> { $addonName }, άλλαξε αυτά που βλέπετε όταν ανοίγετε την αρχική σελίδα και νέα παράθυρα.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Μια επέκταση, το <img data-l10n-name="addon-icon"/> { $addonName }, αποκρύπτει κάποιες από τις καρτέλες σας. Μπορείτε να έχετε πρόσβαση σε όλες τις καρτέλες σας από το <img data-l10n-name="all-tabs-icon"/>.
