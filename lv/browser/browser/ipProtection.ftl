@@ -280,6 +280,12 @@ ipprotection-come-back-title = Atgriezieties, lai izmēģinātu iebūvēto VPN
 ipprotection-message-body-hide-location = Lai nodrošinātu lielāku privātumu un kontroli, paslēpiet savu atrašanās vietu, pārlūkojot { -brand-product-name }.
 ipprotection-connection-status-generic-error-title-1 = Nevarēja izveidot savienojumu ar VPN
     .aria-label = Nevarēja izveidot savienojumu ar VPN
+ipprotection-connection-status-try-again-button = Mēģināt vēlreiz
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Turpināt bez VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Mēģinu vēlreiz…
+    .aria-label = Mēģinu vēlreiz…
 
 ## IP Protection bandwidth callouts
 

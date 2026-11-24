@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Izslēgt/Ieslēgt audio skaņu
 customkeys-edit-find-previous = Atrast iepriekšējo
 customkeys-edit-find-selection = Izmantot atlasi meklēšanai
 customkeys-tools-screenshot = Uzņemiet ekrānuzņēmumu
+customkeys-tools-lock-windows = Aizslēgt privātos logus
 customkeys-category-navigation-2 =
     .heading = Navigācija
 customkeys-caution-message = Šī funkcija ir eksperimentāla un var nedarboties, kā paredzēts.

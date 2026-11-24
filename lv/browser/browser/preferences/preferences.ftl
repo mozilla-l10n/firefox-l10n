@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Slēpj jūsu īsto e-pasta adresi, lai aizsargātu jūsu iesūtni no surogātpasta.
     .label = Ieteikt { -relay-brand-name } e-pasta aizsesegs
+preferences-window-lock-macos =
+    .description = { -brand-short-name } pieprasīs jūsu ierīces paroli vai piekļuves atslēgu pēc tam, kad dators tiks bloķēts, pāries miega režīmā vai ieslēgsies ekrānsaudzētājs.
+    .label = Automātiski bloķēt privātos logus
+preferences-window-lock-windows =
+    .description = Pēc datora liegšanas { -brand-short-name } pieprasīs jūsu ierīces paroli vai piekļuves atslēgu.
+    .label = Automātiski liegt privātos logus
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

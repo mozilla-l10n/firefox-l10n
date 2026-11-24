@@ -1879,6 +1879,19 @@ trustpanel-blocker-section-header2 =
        *[other] Šajā vietnē aizturēti <span data-l10n-name="count">{ $count }</span> izsekotāji
     }
 
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotāju šajā vietnē
+        [zero] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotājus šajā vietnē
+       *[other] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotājus šajā vietnē
+    }
+trustpanel-blocker-description-redesign = Šiem izsekotājiem tika liegta informācijas vākšana par jūsu pārlūkošanu.
+trustpanel-no-trackers-header-redesign = Šajā vietnē izsekotāji nav atrasti
+trustpanel-no-trackers-description-redesign = { -brand-short-name } pārbaudīja, vai nav zināmu izsekotāju, taču nevienu neatrada.
+trustpanel-etp-off-description-redesign = Ieslēdziet aizsardzības līdzekļus, un { -brand-short-name } liegs zināmiem izsekotājiem informācijas apkopošanu par jūsu pārlūkošanu.
+
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
