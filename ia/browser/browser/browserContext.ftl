@@ -153,8 +153,20 @@ main-context-menu-open-link-2 =
 main-context-menu-open-link-new-tab-2 =
     .label = Aperir in un nove scheda
     .accesskey = A
+main-context-menu-open-link-split-view-2 =
+    .label = Aperir in Visualisation scisse
+    .accesskey = A
+main-context-menu-open-link-container-tab-2 =
+    .label = Aperir in un nove scheda contentor
+    .accesskey = A
 main-context-menu-open-link-new-window-2 =
     .label = Aperir in un nove fenestra
+    .accesskey = A
+main-context-menu-open-link-mini-window =
+    .label = Aperir in mini-fenestra
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = Aperir in nove fenestra private
     .accesskey = A
 main-context-menu-bookmark-link-3 =
     .label = Marcar…
@@ -455,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Saper plus sur DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Aperir in Nove scheda { $containerName }
+    .accesskey = s
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

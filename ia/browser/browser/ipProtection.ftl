@@ -279,6 +279,9 @@ ipprotection-come-back-title = Come back to try built-in VPN
 ipprotection-message-body-hide-location = Cela tu position quando tu naviga in { -brand-product-name } pro plus confidentialitate e plus controlo.
 ipprotection-connection-status-generic-error-title-1 = Impossibile connecter se al VPN
     .aria-label = Impossibile connecter se al VPN
+ipprotection-connection-status-try-again-button = Retentar
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Continuar sin VPN
 
 ## IP Protection bandwidth callouts
 

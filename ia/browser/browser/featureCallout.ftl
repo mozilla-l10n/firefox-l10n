@@ -194,6 +194,17 @@ tab-groups-2026-onboarding-callout-subtitle = Gruppa tu schedas per activitate o
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Crea un gruppo
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Gerer
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Disactivar
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Mantener active
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral

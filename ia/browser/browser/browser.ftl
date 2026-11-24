@@ -1719,7 +1719,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } notava alco su
 trustpanel-header-disabled = Tu disactivava le protectiones
 trustpanel-description-disabled = { -brand-product-name } es foras de servicio. Nos consilia reactivar le protectiones.
 trustpanel-clear-cookies-button = Rader le cookies e le datos de sito
+trustpanel-delete-site-data-button = Deler datos del sitos
+trustpanel-fix-site-issue-button = Resolver problema de sito
 trustpanel-privacy-link = Parametros del confidentialitate
+trustpanel-manage-settings-button = Gerer preferentias
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1733,6 +1736,7 @@ trustpanel-site-information-header =
     .title = Protectiones de connexion pro { $host }
 trustpanel-siteinformation-morelink = Plus de informationes del sito
 trustpanel-blocker-see-all = Vider toto
+trustpanel-blocker-see-trackers-button = Vider traciatores
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1842,6 +1846,17 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Traciator blocate in iste sito
        *[other] <span data-l10n-name="count">{ $count }</span> Traciatores blocate in iste sito
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } blocava <span data-l10n-name="count">{ $count }</span> traciator sur iste sito
+       *[other] { -brand-short-name } blocava <span data-l10n-name="count">{ $count }</span> traciatores in iste sito
+    }
+trustpanel-blocker-description-redesign = Iste traciatores era blocate de colliger informationes re tu navigation.
+trustpanel-no-trackers-header-redesign = Necun traciator trovate in iste sito
+trustpanel-no-trackers-description-redesign = { -brand-short-name } verificava pro note traciatores e non trovava alcun.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Chats recente
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nove scheda
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Aperir in le nove { -smart-window-brand-name }
+    .accesskey = s
 
 ## Smart Window Toggle Button
 
@@ -362,6 +365,15 @@ aiwindow-starter-planning-plan = Adjutar a facer un plano
 aiwindow-starter-browsing-history = Trovar schedas in chronologia
 aiwindow-starter-browsing-summarize = Resumer schedas
 aiwindow-starter-browsing-compare = Comparar schedas
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = Ignorar { $text }
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
