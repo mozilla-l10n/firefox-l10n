@@ -12,6 +12,9 @@
 
 webext-perms-sideload-header = Agiuntà { $extension }
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -60,6 +63,11 @@ webext-perms-host-description-multiple-domains =
         [one] Acceder a tias datas per las websites da { $domainCount } domenas
        *[other] Acceder a tias datas per las websites da { $domainCount } domenas
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Memorisar sco
+
+## Strings for data collection permissions in the permission prompt.
+
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -94,3 +102,15 @@ webext-site-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa e
 
 webext-site-perms-midi = Acceder als apparats MIDI
 webext-site-perms-midi-sysex = Acceder als apparats MIDI cun sustegn da SysEx
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Deinstallar { $extension }
+webext-uninstall-confirmation-message = L'extensiun “{ $extension }” dumonda da vegnir deinstallada. Tge vuls ti far?
+webext-uninstall-confirmation-button-uninstall = Deinstallar
+webext-uninstall-confirmation-button-keep = Laschar installà
+
+## Colorway theme migration
+
