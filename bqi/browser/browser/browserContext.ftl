@@ -162,6 +162,15 @@ main-context-menu-open-link-container-tab-2 =
 main-context-menu-open-link-new-window-2 =
     .label = گۊشیڌن من نیمدری نۊ
     .accesskey = ن
+main-context-menu-open-link-mini-window =
+    .label = گۊشیڌن من نیمدری کۊچیر
+    .accesskey = ک
+main-context-menu-open-link-new-private-window-2 =
+    .label = گۊشیڌن من نیمدری سیخومی نۊ
+    .accesskey = گ
+main-context-menu-bookmark-link-3 =
+    .label = نشووک ناهاڌن…
+    .accesskey = ن
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -384,6 +393,9 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = ٱووردن موتور پیتینیڌن
     .accesskey = S
+main-context-menu-link-send-to-your-devices =
+    .label = فشناڌن و دسگایل ایسا
+    .accesskey = ف
 main-context-menu-link-send-to-device =
     .label = فشناڌن لینگ و دسگا
     .accesskey = n
@@ -451,6 +463,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = زبار DRM قلوه دووسته بۊین…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = گۊشیڌن من بلگه { $containerName } نۊ
+    .accesskey = گ
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
