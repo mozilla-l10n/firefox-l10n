@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = ਫਾਈਲ ਸੰਭਾਲੋ
     .accesskey = s
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = ਫਾਈਲ ਨੂੰ ਸੰਭਾਲੋ
 unknowncontenttype-remember-choice =
     .label = ਇਸ ਤਰਾਂ ਦੀਆਂ ਫਾਈਲਾਂ ਨਾਲ ਖੁਦ ਇੰਜ ਹੀ ਕਰੋ
     .accesskey = a

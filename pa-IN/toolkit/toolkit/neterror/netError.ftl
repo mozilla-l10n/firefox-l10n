@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = ਕਈ ਵਾਰ ਵੈੱਬ�
 fp-learn-more-about-https-connections = HTTPS ਕਨੈਕਸ਼ਨਾਂ ਬਾਰੇ ਜਾਣੋ
 fp-neterror-vpn-error-title = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
 fp-neterror-vpn-error-description = ਕੁਝ ਕੁ ਮਿੰਟਾਂ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
+fp-neterror-vpn-error-continue-button = VPN ਤੋਂ ਬਿਨਾਂ ਜਾਰੀ ਰੱਖੋ
+    .accesskey = V
 fp-neterror-denied-port-access = ਇਹ ਐਡਰੈੱਸ ਇੱਕ ਨੈੱਟਵਰਕ ਪੋਰਟ ਵਰਤ ਰਿਹਾ ਹੈ, ਜੋ ਕਿ ਆਮ ਤੌਰ ਉੱਤੇ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਤੋਂ ਬਿਨਾਂ ਹੋਰ ਮਕਸਦਾਂ ਲੀ ਵਰਤੀ ਜਾਂਦੀ ਹੈ। { -brand-short-name } ਨੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਇਸ ਮੰਗ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਹੈ।

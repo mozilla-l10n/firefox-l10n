@@ -99,3 +99,5 @@ user-context-icon-circle =
     .label = ਬਿੰਦੀ
 user-context-icon-fence =
     .label = ਵਾੜ
+user-context-icon-robot =
+    .label = ਰੋਬੋਟ

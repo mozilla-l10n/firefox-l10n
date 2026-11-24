@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = ਸਮੈਪ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਓਹਲੇ ਕਰੋ।
     .label = { -relay-brand-name } ਈਮੇਲ ਮਾਸਕਾਂ ਲਈ ਸੁਝਾਅ
+preferences-window-lock-macos =
+    .description = ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੇ ਲਾਕ ਹੋਣ, ਸਲੀਪ ਹੋਣ ਜਾਂ ਸਕਰੀਨ-ਸੇਵਰ ਚੱਲਣ ਦੇ ਬਾਅਦ { -brand-short-name } ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੇ ਪਾਸਵਰਡ ਜਾਂ ਪਾਸ-ਕੀ ਬਾਰੇ ਪੁੱਛੇਗਾ।
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਲਾਕ ਕਰੋ
+preferences-window-lock-windows =
+    .description = ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੇ ਲਾਕ ਹੋਣ ਦੇ ਬਾਅਦ { -brand-short-name } ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੇ ਪਾਸਵਰਡ ਜਾਂ ਪਾਸ-ਕੀ ਬਾਰੇ ਪੁੱਛੇਗਾ।
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਲਾਕ ਕਰੋ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -649,6 +655,14 @@ support-get-help =
     .label = ਮਦਦ ਲਵੋ
 support-share-ideas =
     .label = ਵਿਚਾਰ ਅਤੇ ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
+
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = ਆਪਣੇ { -brand-product-name } ਤਜਰਬੇ ਨੂੰ ਸਭ ਤੋਂ ਵਧੀਆ ਬਣਾਉਣ ਵਾਸਤੇ ਕਿਵੇਂ ਕਰੀਏ, ਸਲਾਹ ਅਤੇ ਖ਼ਬਰਾਂ ਹਾਸਿਲ ਕਰੋ।
+    .label = { -brand-product-name } ਖ਼ਬਰਸਾਰ
+newsletter-sign-up-link =
+    .label = ਸਾਈਨ ਅੱਪ ਕਰੋ
 
 ## General Section - Performance
 
@@ -1510,6 +1524,26 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } ਸੰਭਾਲਿਆ
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } ਸੰਭਾਲਿਆ
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the

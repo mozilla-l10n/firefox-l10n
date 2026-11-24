@@ -6,8 +6,8 @@
 ## Strings used for device manager
 
 devmgr-window =
-    .title = Upravljač uređaja
     .style = min-width: 67em; min-height: 32em;
+    .title = Upravljač uređaja
 devmgr-devlist =
     .label = Sigurnosni moduli i uređaji
 devmgr-header-details =
@@ -33,7 +33,7 @@ devmgr-button-enable-fips =
     .label = Aktiviraj FIPS
     .accesskey = F
 devmgr-button-disable-fips =
-    .label = Onemogući FIPS
+    .label = Deaktiviraj FIPS
     .accesskey = F
 
 ## Strings used for load device
@@ -58,7 +58,7 @@ load-device-browse =
 devinfo-status =
     .label = Stanje
 devinfo-status-disabled =
-    .label = Onemogućen
+    .label = Deaktivirano
 devinfo-status-not-present =
     .label = Neprisutan
 devinfo-status-uninitialized =

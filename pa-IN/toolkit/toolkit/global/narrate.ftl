@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = ਉੱਚੀ ਪੜ੍ਹੋ
+narrate-rate-input =
+    .aria-label = ਬੋਲਣ ਦੀ ਗਤੀ ਨੂੰ -100 ਤੋਂ 100 ਤੱਕ ਚੁਣੋ,ਜਦ ਕਿ 0 ਮੂਲ ਗਤੀ ਹੈ।
+    .title = ਗਤੀ
 narrate-rate-slow =
     .title = ਹੌਲੀ ਪੜ੍ਹੋ
 narrate-rate-fast =

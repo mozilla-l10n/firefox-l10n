@@ -303,7 +303,7 @@ report-addon-button = Prijavi
 remove-addon-button = Ukloni
 # The link will always be shown after the other text.
 remove-addon-disabled-button = Ne može se ukloniti. <a data-l10n-name="link">Zašto?</a>
-disable-addon-button = Onemogući
+disable-addon-button = Deaktiviraj
 enable-addon-button = Aktiviraj
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.

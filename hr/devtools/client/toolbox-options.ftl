@@ -120,7 +120,7 @@ options-sourceeditor-keybinding-default-label = Standard
 
 options-local-mode-folder-label = Lokalna mapa:
 options-local-mode-toggle-enable = Aktiviraj
-options-local-mode-toggle-disable = Onemogući
+options-local-mode-toggle-disable = Deaktiviraj
 
 ## Advanced section
 
@@ -133,7 +133,7 @@ options-disable-http-cache-tooltip =
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Deaktiviraj JavaScript
 options-disable-javascript-tooltip =
-    .title = Isključivanje ove mogućnosti će onemogućiti JavaScript za trenutačnu karticu. Ako se kartica ili alatna traka zatvore, ova će se postavka zaboraviti.
+    .title = Isključivanje ove mogućnosti će deaktivirati JavaScript za trenutačnu karticu. Ako se kartica ili alatna traka zatvore, ova će se postavka zaboraviti.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Aktiviraj chrome preglednik i alate za otklanjanje grešaka u dodacima
 options-enable-chrome-tooltip =

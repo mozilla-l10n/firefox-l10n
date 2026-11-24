@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = ਸੱਜਰੀਆਂ ਚੈਟਾਂ
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = ਨਵੀਂ ਟੈਬ
+main-context-menu-open-link-new-smart-window-2 =
+    .label = ਨਵੇਂ { -smart-window-brand-name } ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = S
 
 ## Smart Window Toggle Button
 
@@ -121,10 +124,25 @@ aiwindow-input-model-select-button-label-fast = ਤੇਜ਼
 aiwindow-input-model-select-button-label-allpurpose = ਲਚਕਦਾਰ
 aiwindow-input-model-select-button-label-personal = ਨਿੱਜੀ
 aiwindow-input-model-select-button-label-custom = ਕਸਟਮ
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = ਆਟੋ
 aiwindow-input-model-select-default-badge =
     .label = ਮੂਲ
     .title = ਚੁਣਿਆ ਗਿਆ ਮੂਲ ਮਾਡਲ
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = ਸਿਫ਼ਾਰਸ਼ੀ
+    .title = ਸ਼ਿਫਾਰਸ਼ ਕੀਤਾ ਮਾਡਲ
 aiwindow-input-model-select-settings-link = ਮਾਡਲ ਸੈਟਿੰਗਾਂ
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } ਤੁਹਾਡੇ ਕੰਮ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਮਾਡਲ ਚੁਣਦਾ ਹੈ
+aiwindow-input-model-select-fast-description = ਜਦੋਂ ਤੁਹਾਨੂੰ ਕਾਹਲੀ ਹੋਵੇ ਤਾਂ ਫ਼ੌਰੀ ਜਵਾਬ ਦਿੰਦਾ ਹੈ
+aiwindow-input-model-select-flexible-description = ਕਈ ਕੰਮਾਂ ਲਈ ਤਿਆਰ
+aiwindow-input-model-select-personal-description = ਜੇ ਤੁਸੀਂ ਕਈ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਚੈਟ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਹੋਵੇ ਤਾਂ ਵਧੀਆ ਹੈ
 
 ## Firstrun memories onboarding
 
@@ -348,6 +366,15 @@ aiwindow-starter-browsing-history = ਅਤੀਤ ਵਿੱਚ ਟੈਬਾਂ �
 aiwindow-starter-browsing-summarize = ਟੈਬਾਂ ਦਾ ਸਾਰ ਬਣਾਓ
 aiwindow-starter-browsing-compare = ਟੈਬਾਂ ਦੀ ਤੁਲਨਾ ਕਰੋ
 
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = { $text } ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
+
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
@@ -363,3 +390,13 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = { $text } ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
     .title = { $text } ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
+
+## Single-page onboarding
+
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    ਇਹ ਤੁਹਾਡੇ ਨਾਲ ਕੰਮ ਪੂਰਾ ਕਰਨ ਲਈ ਕੰਮ ਕਰਦਾ ਹੈ।
+    ਪਲਾਨ, ਤੁਲਨਾ, ਛਾਣਬੀਣ ਅਤੇ ਹੋਰ ਕੰਮ ਕਰੋ।
+smartwindow-onboarding-title = ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ
+smartwindow-onboarding-subtitle = { -smart-window-brand-name } ਨੂੰ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ, ਓਵੇਂ ਬਣਾਓ। ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਕਦੇ ਵੀ ਤਬਦੀਲੀਆਂ ਕਰੋ।
+smartwindow-onboarding-model-label = ਆਪਣੇ AI ਮਾਡਲ ਨੂੰ ਚੁਣੋ
