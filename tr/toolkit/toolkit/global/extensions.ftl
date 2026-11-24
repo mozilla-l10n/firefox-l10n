@@ -148,6 +148,13 @@ webext-site-perms-midi = MIDI cihazlarına erişebilir
 webext-site-perms-midi-sysex = SysEx destekli MIDI cihazlarına erişebilir
 webext-site-perms-serial = Seri cihazlara erişebilir
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-button-uninstall = Kaldır
+webext-uninstall-confirmation-button-keep = Kaldırma
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Renk kuşağı temanız kaldırıldı.</b> { -brand-shorter-name } renk kuşakları koleksiyonu güncellendi. En son sürümleri eklenti sitesinde bulabilirsiniz.
