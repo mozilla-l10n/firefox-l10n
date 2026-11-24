@@ -150,6 +150,10 @@ webext-site-perms-serial = 访问串行设备
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = 卸载 { $extension }
+webext-uninstall-confirmation-message = 扩展“{ $extension }”请求被卸载。如何操作？
+webext-uninstall-confirmation-button-uninstall = 卸载
+webext-uninstall-confirmation-button-keep = 保留
 
 ## Colorway theme migration
 
