@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Piilotettujen välilehtien käyttäminen
     .secondarybuttonlabel = Poista laajennus käytöstä
     .secondarybuttonaccesskey = k
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Laajennus, <img data-l10n-name="addon-icon"/> { $addonName }, muutti sivun, jonka näet avatessasi uuden välilehden.
+appmenu-homepage-controlled-message = Laajennus, <img data-l10n-name="addon-icon"/> { $addonName }, muutti sivun, jonka näet avatessasi aloitussivun tai uuden ikkunan.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Laajennus, <img data-l10n-name="addon-icon"/> { $addonName }, pitää joitain välilehtiä piilossa. Voit edelleen käyttää niitä <img data-l10n-name="all-tabs-icon"/>-painikkeen kautta.
