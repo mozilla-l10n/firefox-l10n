@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Segnala problemi con il sito
 report-broken-site-panel-header =
     .label = Segnala problemi con il sito
     .title = Segnala problemi con il sito
+report-broken-site-panel-intro-text2 = La tua segnalazione ci aiuta a migliorare { -brand-product-name } per tutti.
 report-broken-site-panel-intro-text = La tua segnalazione ci aiuta a capire e risolvere i problemi di { -brand-product-name }, aiutandoci a migliorarlo per tutti.
 report-broken-site-panel-learn-more-link = Ulteriori informazioni
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Indirizzo del sito
 report-broken-site-panel-url-label = URL del sito non funzionante
 report-broken-site-panel-reason-intro-text = Che cosa non funziona?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Altro
 report-broken-site-panel-instructions-other = Fornisci una descrizione dettagliata del problema per aiutarci a esaminarlo.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Descrivi il problema in modo dettagliato (facoltativo)
 report-broken-site-panel-instructions-other-optional = Fornisci una descrizione dettagliata del problema per aiutarci a esaminarlo. (facoltativo)
 report-broken-site-panel-description2 =
     .placeholder = Che cosa è successo? Cosa ti aspettavi che accadesse? Fornisci i passaggi per riprodurre il problema.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Invia dettagli tramite { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Aggiungi ulteriori informazioni
 report-broken-site-panel-button-cancel =
@@ -61,6 +70,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Invia l’elenco degli elementi bloccati dalla protezione antitracciamento
 report-broken-site-panel-url-input-label =
     .aria-label = URL della pagina segnalata
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Visualizza dati diagnostici
 report-broken-site-panel-preview-button =
     .label = Anteprima segnalazione
 report-broken-site-panel-preview-header2 =

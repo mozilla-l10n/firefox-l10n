@@ -57,6 +57,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Tradurre questa pagina?
 translations-panel-translate-button =
     .label = Traduci
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Traduzioni istantanee in schermo diviso
+    .tooltiptext = Traduzioni istantanee in schermo diviso
 translations-panel-translate-button-loading =
     .label = Attendere…
 translations-panel-translate-cancel =

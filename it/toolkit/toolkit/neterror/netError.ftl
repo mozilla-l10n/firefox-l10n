@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Impossibile contattare il server
 neterror-malformed-uri-page-title = Indirizzo non valido
 general-body-title = Fai attenzione. Qualcosa sembra fuori posto.
 problem-with-this-site-title = Sembra che ci sia un problema con questo sito
+neterror-http-auth-scheme-disabled-title = Il metodo di accesso a questo sito è disattivato
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Contattare il proprietario del sito web per infor
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } non considera { $hostname } attendibile in quanto la connessione non è sicura. Prova a modificare l’indirizzo usando HTTPS.
+neterror-http-auth-scheme-disabled = Se devi accedere a questo sito, contatta l’amministratore di sistema.
 neterror-nss-failure-not-verified = La pagina che si sta cercando di visualizzare non può essere mostrata in quanto non è possibile verificare l’autenticità dei dati ricevuti.
 neterror-nss-failure-contact-website = Contattare il responsabile del sito web per informarlo del problema.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } non ha caricato questa pagin
 fp-neterror-blocked-by-policy-intro = Questa pagina è stata bloccata dalla propria organizzazione.
 fp-neterror-http-auth-disabled-intro = Un soggetto che finge di essere il sito potrebbe cercare di rubare dettagli come nome utente, password o indirizzo email.
 fp-neterror-http-auth-disabled-secure-connection = Questo sito richiede una connessione sicura e non è possibile aggiungere un’eccezione per visitarlo.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> ha richiesto l’accesso con un metodo disattivato nelle impostazioni di connessione.
 fp-neterror-why-did-this-happen = Perché è successo?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Sembra che questo sito stia utilizzando software obsoleto con vulnerabilità di sicurezza note.
