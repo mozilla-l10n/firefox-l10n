@@ -260,6 +260,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Jo naderje jo VPN-limyt
     .message = Jo hawwe noch { $usageLeft } MB fan { $maxUsage } GB oer dizze moanne.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] Jo hawwe { $additionalLocationsCount } ekstra VPN-lokaasje
+           *[other] Jo hawwe { $additionalLocationsCount } ekstra VPN-lokaasjes
+        }
+    .message = Tanke dat jo { -brand-short-name } o standertbrowser makke hawwe. Wy hawwe mear lokaasjes tafoege dêr’t jo trochhinne blêdzje kinne.
 ipprotection-message-continuous-onboarding-intro = Skeakelje VPN yn om jo lokaasje te ferstopjen en ekstra fersifering oan jo navigaasje ta te foegjen.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN yn om</a> hieltyd as jo { -brand-short-name } iepenje yn te skeakeljen foar in ekstra beskermingslaach.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ûnthâldt hokker websites jo ynsteld hawwe foar it gebrûk fan VPN. Wurkje dizze op elk winske momint by yn de <a data-l10n-name="setting-link">ynstellingen</a>.
@@ -270,6 +279,12 @@ ipprotection-come-back-title = Kom werom om de ynboude VPN te probearjen
 ipprotection-message-body-hide-location = Ferbergje jo lokaasje as jo navigearje yn { -brand-product-name } foar mear privacy en kontrôle.
 ipprotection-connection-status-generic-error-title-1 = Kin net ferbine mei VPN
     .aria-label = Kin net ferbine mei VPN
+ipprotection-connection-status-try-again-button = Opnij probearje
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Trochgean sûnder VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Opnij probearje…
+    .aria-label = Opnij probearje…
 
 ## IP Protection bandwidth callouts
 

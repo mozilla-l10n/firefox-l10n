@@ -10,11 +10,11 @@ all-tabs-menu-new-user-context =
 all-tabs-menu-hidden-tabs =
     .label = Slēptās cilnes
 all-tabs-menu-close-duplicate-tabs =
-    .label = Aizvērt dublētās cilnes
+    .label = Aizvērt atkārtojošās cilnes
 all-tabs-menu-view-all-tabs =
     .label = Skatīt visas cilnes
 all-tabs-menu-close-all-duplicate-tabs =
-    .label = Aizvērt visas dublētās cilnes
+    .label = Aizvērt visas atkārtojošās cilnes
 all-tabs-menu-synced-tabs =
     .label = Cilnes no citām ierīcēm
 # "Recent" refers to tab groups being sorted in recently used order. We show up

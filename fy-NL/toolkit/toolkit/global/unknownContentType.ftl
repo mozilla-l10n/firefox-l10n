@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Bewarje Bestân
     .accesskey = B
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Bestân bewarje
 unknowncontenttype-remember-choice =
     .label = Dit fan no ôf automatysk dwaan foar dit soarte bestannen.
     .accesskey = D

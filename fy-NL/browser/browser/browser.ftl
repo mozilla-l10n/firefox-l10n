@@ -1847,6 +1847,18 @@ trustpanel-blocker-section-header2 =
        *[other] <span data-l10n-name="count">{ $count }</span> trackers blokkearre op dizze website
     }
 
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } hat <span data-l10n-name="count">{ $count }</span> tracker op dizze website blokkearre
+       *[other] { -brand-short-name } hat <span data-l10n-name="count">{ $count }</span> trackers op dizze website blokkearre
+    }
+trustpanel-blocker-description-redesign = It sammeljen fan gegevens oer jo sneupgedrach troch dizze trackers is blokkearre.
+trustpanel-no-trackers-header-redesign = Gjin trackers op dizze website fûn
+trustpanel-no-trackers-description-redesign = { -brand-short-name } hat kontrolearre op bekende trackers en neat fûn.
+trustpanel-etp-off-description-redesign = Skeakelje beskerming yn en { -brand-short-name } blokkearret bekende trackers dy’t ynfo oer jo sneupgedrach sammelje.
+
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
