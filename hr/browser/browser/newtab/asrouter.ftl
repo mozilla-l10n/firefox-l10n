@@ -204,9 +204,9 @@ set-default-pdf-handler-primary = Razumijem
 annotations-default-pdf-handler-headline = Potpiši se na isprekidanoj liniji – ili bilo gdje!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Nacrtaj, upiši ili prenesi svoj potpis, zatim ga postavi točno tamo gdje želiš. Spremi svoj omiljeni potpis za sljedeći put.
-annotations-make-default-pdf-handler-title = Postaviti { -brand-short-name } kao zadani uređivač PDF-ova?
+annotations-make-default-pdf-handler-title = Postaviti { -brand-short-name } kao standardni uređivač PDF-ova?
 annotations-make-default-pdf-handler-subtitle = Imat ćeš pristup našim alatima svaki put kada otvoriš PDF.
-annotations-make-default-pdf-primary-cta-label = Postavi kao zadano
+annotations-make-default-pdf-primary-cta-label = Postavi kao standardno
 annotations-make-default-pdf-next-label = Dalje
 
 ## FxA sync CFR
@@ -422,12 +422,17 @@ etp-strict-exceptions-infobar-not-now = Ne sada
 set-default-menu-message-simple-layout-title = { -brand-short-name } trenutačno nije tvoj standardni preglednik
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nije tvoj primarni preglednik
 set-default-menu-message-row-layout-title = Postavi { -brand-short-name } kao svoj primarni preglednik
-set-default-menu-message-row-layout-title-variant = Postavi { -brand-short-name } kao svoj zadani preglednik
+set-default-menu-message-row-layout-title-variant = Postavi { -brand-short-name } kao svoj standardni preglednik
 set-default-menu-message-row-layout-subtitle = Dobij brzinu, sigurnost i privatnost pri svakom pregledavanju.
 set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
         [macos] Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u svoj Dock.
        *[other] Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u svoju programsku traku.
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Postavi ga kao standardni i ostavi ga u Docku.
+       *[other] Ostvari brže pregledavanje i automatsku zaštitu privatnosti.
     }
 set-default-menu-message-primary-button = Postavi kao zadano
 set-default-menu-message-primary-button-variant = Postavi kao primarni preglednik

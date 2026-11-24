@@ -55,7 +55,7 @@ ipprotection-summer-promo-offramp-generic-title = Ograničenja tvog ugrađenog V
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Tvoj ugrađeni VPN upravo je postao bolji
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otvori VPN
-ipprotection-summer-promo-offramp-set-to-default-primary-button = Postavi kao zadano
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Postavi kao standardno
 ipprotection-summer-promo-offramp-get-subscription-button = Nabavi { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Odbaci
 

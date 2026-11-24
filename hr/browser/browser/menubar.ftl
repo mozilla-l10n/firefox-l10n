@@ -11,7 +11,7 @@ menu-application-preferences =
 menu-application-settings =
     .label = Postavke …
 menu-application-set-as-default =
-    .label = Postavi { -brand-shorter-name } kao zadani preglednik
+    .label = Postavi { -brand-shorter-name } kao standardni preglednik
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals2 =
