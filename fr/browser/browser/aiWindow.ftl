@@ -23,9 +23,6 @@ menu-history-chats-recent =
     .label = Discussions récentes
 smartwindow-fullpage-heading = { -smart-window-brand-name(form: "upper-singular") }
 smartwindow-document-title = Nouvel onglet
-main-context-menu-open-link-new-smart-window-2 =
-    .label = Ouvrir dans un nouveau module { -smart-window-brand-name }
-    .accesskey = O
 
 ## Smart Window Toggle Button
 

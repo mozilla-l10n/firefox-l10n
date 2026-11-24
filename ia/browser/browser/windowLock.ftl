@@ -8,7 +8,18 @@
 ## lock windows.
 
 window-lock-private-title = Le fenestras private es blocate
+window-lock-private-description-macos = { -brand-short-name } cela tu paginas private quando tu computator se bloca, va a dormir, o lancea le sparniator de schermo.
+window-lock-private-description-windows = { -brand-short-name } cela tu paginas private quando tu computator se bloca.
 window-lock-unlock-button =
     .label = Disblocar
+# Shown on the lock screen when the operating system authentication prompt failed with an error.
+window-lock-auth-error =
+    .message = Impossibile verificar tu identitate. Retenta.
 # Title of the Windows authentication prompt when unlocking browser windows.
 window-lock-os-auth-dialog-caption = { -brand-full-name }
+# This message is shown in the Windows authentication prompt when unlocking Private Windows.
+window-lock-private-os-auth-dialog-message-win = Pro disblocar tu Fenestras private, insere tu detalios de authentication a Windows pro confirmar que es tu.
+# This message is shown in the macOS authentication prompt when unlocking Private Windows.
+# On macOS, only provide the reason that account verification is needed. Do not put a complete sentence here
+# (the system adds “Firefox is trying to…” before it).
+window-lock-private-os-auth-dialog-message-macosx = disblocar tu Fenestras private
