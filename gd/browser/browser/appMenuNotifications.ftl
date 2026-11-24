@@ -65,3 +65,12 @@ appmenu-tab-hide-controlled =
     .label = Faigh cothrom air na tabaichean falaichte agad
     .secondarybuttonlabel = Cuir an leudachan à comas
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Dh’atharraich leudachan, <img data-l10n-name="addon-icon"/> { $addonName }, an duilleag a chì thu nuair a dh’fhosglas tu taba ùr.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Tha leudachan, <img data-l10n-name="addon-icon"/> { $addonName }, a’ cur am falach cuid dhe na tabaichean agad. Gheibh thu cothrom air na tabaichean air fad agad o <img data-l10n-name="all-tabs-icon"/> fhathast.
