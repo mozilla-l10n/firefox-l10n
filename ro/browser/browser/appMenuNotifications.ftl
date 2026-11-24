@@ -72,3 +72,5 @@ appmenu-tab-hide-controlled =
 ##   $addonName (String): name of the extension.
 
 appmenu-new-tab-controlled-message = O extensie, <img data-l10n-name="addon-icon"/> { $addonName }, a schimbat pagina pe care o vezi când deschizi o filă nouă.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = O extensie, <img data-l10n-name="addon-icon"/> { $addonName }, ascunde câteva dintre filele tale. Poți accesa în continuare toate filele tale folosind <img data-l10n-name="all-tabs-icon"/>.
