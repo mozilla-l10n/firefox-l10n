@@ -65,3 +65,11 @@ appmenu-tab-hide-controlled =
     .label = Akses Tab Tersembunyi Anda
     .secondarybuttonlabel = Nonaktifkan Ekstensi
     .secondarybuttonaccesskey = N
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Ekstensi <img data-l10n-name="addon-icon"/> { $addonName } mengubah laman yang Anda lihat saat membuka tab baru.
+appmenu-homepage-controlled-message = Sebuah ekstensi, <img data-l10n-name="addon-icon"/> { $addonName }, telah mengubah apa yang Anda lihat pertama kali ketika membuka beranda dan jendela baru.
