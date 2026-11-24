@@ -77,6 +77,7 @@ webext-perms-host-description-one-site = { $domain } માટે તમાર�
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = { $extension } અનઇન્સ્ટોલ કરો
 webext-uninstall-confirmation-button-uninstall = અનઇન્સ્ટોલ કરો
 webext-uninstall-confirmation-button-keep = ઇન્સ્ટોલ કરેલ રાખો
 
