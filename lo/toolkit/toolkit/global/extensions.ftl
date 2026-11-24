@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = ເຂົ້າເຖິງຂໍ້ມ
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານສຳລັບ { $domain }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = ບັນທຶກທີ່
 
 ## Strings for data collection permissions in the permission prompt.
 
