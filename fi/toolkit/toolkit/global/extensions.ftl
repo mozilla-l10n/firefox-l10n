@@ -154,6 +154,10 @@ webext-site-perms-serial = Käytä sarjaporttilaitteita
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Poista { $extension }
+webext-uninstall-confirmation-message = Laajennus ”{ $extension }” pyytää, että se poistetaan. Mitä tehdään?
+webext-uninstall-confirmation-button-uninstall = Poista
+webext-uninstall-confirmation-button-keep = Pidä asennettuna
 
 ## Colorway theme migration
 
