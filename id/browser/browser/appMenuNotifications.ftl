@@ -73,3 +73,5 @@ appmenu-tab-hide-controlled =
 
 appmenu-new-tab-controlled-message = Ekstensi <img data-l10n-name="addon-icon"/> { $addonName } mengubah laman yang Anda lihat saat membuka tab baru.
 appmenu-homepage-controlled-message = Sebuah ekstensi, <img data-l10n-name="addon-icon"/> { $addonName }, telah mengubah apa yang Anda lihat pertama kali ketika membuka beranda dan jendela baru.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Ekstensi <img data-l10n-name="addon-icon"/> { $addonName } telah menyembunyikan beberapa tab Anda. Anda tetap dapat mengakses seluruh tab Anda dari <img data-l10n-name="all-tabs-icon"/>.
