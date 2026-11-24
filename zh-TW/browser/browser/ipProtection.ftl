@@ -278,6 +278,12 @@ ipprotection-come-back-title = 回來試用內建 VPN 功能
 ipprotection-message-body-hide-location = 在 { -brand-product-name } 上網時隱藏您的實際所在位置，讓您更有隱私，更有掌控。
 ipprotection-connection-status-generic-error-title-1 = 無法連線至 VPN
     .aria-label = 無法連線至 VPN
+ipprotection-connection-status-try-again-button = 重試
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = 不使用 VPN 繼續
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = 重試中…
+    .aria-label = 重試中…
 
 ## IP Protection bandwidth callouts
 

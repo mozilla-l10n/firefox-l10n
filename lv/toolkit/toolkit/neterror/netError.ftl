@@ -85,7 +85,7 @@ neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai p
 neterror-load-error-connection = Ja nevar ielādēt nevienu lapu, jāpārbauda datora savienojums ar tīklu.
 neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
-neterror-load-osx-permission = Ja mēģināt ielādēt lokālā tīkla lapu, lūdzu, pārbaudiet, vai macOS konfidencialitātes un drošības iestatījumos vietnei { -brand-short-name } ir piešķirtas lokālā tīkla atļaujas.
+neterror-load-osx-permission = Ja mēģini ielādēt vietēja tīkla lapu, lūgums pārbaudīt, ka { -brand-short-name } macOS privātuma un drošības iestatījumos ir piešķirtas vietējā tīkla atļaujas.
 neterror-http-error-page = Pārliecinies, ka pareizi ievadīji tīmekļvietnes adresi!
 neterror-http-empty-response = Pārliecinies, ka pareizi ievadīji tīmekļvietnes adresi, un pēc brīža mēģini vēlreiz!
 # Variables:
@@ -103,7 +103,7 @@ neterror-dns-not-found-hint-check-network-2 = Pārbaudīt savienojumu ar interne
 neterror-dns-not-found-hint-firewall-2 = Pārliecināties, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra).
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 neterror-dns-not-found-offline-hint-different-device = Mēģiniet izveidot savienojumu citā ierīcē.
-neterror-dns-not-found-offline-hint-modem = Pārbaudiet modemu vai maršrutētāju.
+neterror-dns-not-found-offline-hint-modem = Jāpārbauda modems vai maršrutētājs.
 neterror-dns-not-found-offline-hint-reconnect = Atvienojiet un atkārtoti pievienojiet Wi-Fi savienojumu.
 
 ## Hints shown, as one list of steps, when a connection to this computer
@@ -136,7 +136,7 @@ neterror-dns-not-found-trr-unknown-problem = Negaidīta problēma.
 
 ##
 
-neterror-file-not-found-filename = Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.
+neterror-file-not-found-filename = Jāpārbauda lielo un mazo burtu atšķirības un citas rakstīšanas kļūdas datnes nosaukumā.
 neterror-file-not-found-moved = Jāpārliecinās, ka datne nav pārvietota, pārdēvēta vai izdzēsta.
 # Variables:
 #   $path (String) - Path of the local file that could not be found.

@@ -1191,6 +1191,7 @@ qrcode-save-button =
     .label = 儲存
 qrcode-window-title = QR Code
 qrcode-dialog-title = QR Code
+qrcode-dialog-title-download-mobile = 下載 { -brand-product-name } 行動版
 qrcode-image =
     .aria-label = QR Code
 qrcode-close-button =
@@ -1671,6 +1672,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = 已開啟加強型追蹤保護
 trustpanel-etp-label-disabled = 已關閉加強型追蹤保護
+trustpanel-etp-label-redesign = 加強型追蹤保護
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1693,7 +1695,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } 發現某些�
 trustpanel-header-disabled = 您已關閉保護
 trustpanel-description-disabled = 已關閉 { -brand-product-name } 的追蹤保護，建議您重新開啟。
 trustpanel-clear-cookies-button = 清除 Cookie 與網站資料
+trustpanel-delete-site-data-button = 清除網站資料
+trustpanel-fix-site-issue-button = 修正網站問題
 trustpanel-privacy-link = 隱私權設定
+trustpanel-manage-settings-button = 管理設定
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1707,6 +1712,7 @@ trustpanel-site-information-header =
     .title = { $host } 的連線保護
 trustpanel-siteinformation-morelink = 更多網站資訊
 trustpanel-blocker-see-all = 檢視全部
+trustpanel-blocker-see-trackers-button = 檢視追蹤器
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1752,6 +1758,10 @@ trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = 知道了！
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 進行免費掃描
 trustpanel-blocker-section-header2 = 已封鎖此網站上的 <span data-l10n-name="count">{ $count }</span> 組追蹤器
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign = { -brand-short-name } 已封鎖此網站上的 <span data-l10n-name="count">{ $count }</span> 組追蹤器
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

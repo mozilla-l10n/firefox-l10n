@@ -11,6 +11,11 @@ mini-window-close-button =
 mini-window-restore-button =
     .label = 將分頁放回原位
     .tooltiptext = 將分頁放回原位
+# Button appearing in a Mini Window that was opened from a link on a webpage.
+# Clicking the button will move the Mini Window tab to the window it was opened from.
+mini-window-link-restore-button =
+    .label = 將分頁移動到視窗
+    .tooltiptext = 將分頁移動到視窗
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is

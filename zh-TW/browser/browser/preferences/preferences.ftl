@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = 隱藏您的實際電子郵件地址，避免收到垃圾信。
     .label = 建議 { -relay-brand-name } 轉寄信箱
+preferences-window-lock-macos =
+    .description = { -brand-short-name } 會在電腦鎖定、睡眠或啟動螢幕保護程式後要求您輸入裝置密碼或使用 Passkey 解鎖。
+    .label = 自動鎖定隱私瀏覽視窗
+preferences-window-lock-windows =
+    .description = { -brand-short-name } 會在電腦鎖定後要求您輸入裝置密碼或使用 Passkey 解鎖。
+    .label = 自動鎖定隱私瀏覽視窗
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

@@ -50,7 +50,7 @@ about-debugging-sidebar-item-connect-button-connecting = Savienojas…
 about-debugging-sidebar-item-connect-button-connection-failed = Savienojums neizdevās
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
-about-debugging-sidebar-item-connect-button-connection-not-responding = Savienojums joprojām gaida, pārbaudiet ziņojumus mērķa pārlūkā.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Savienojums joprojām gaida, pārbaudi ziņojumus mērķa pārlūkā!
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Savienojuma noilgums
 # Text displayed in sidebar items for remote devices where a compatible browser (eg

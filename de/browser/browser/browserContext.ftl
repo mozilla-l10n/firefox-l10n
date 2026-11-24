@@ -469,6 +469,11 @@ main-context-menu-eme-learn-more =
     .accesskey = D
 # Variables
 #   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Link in neuem { $containerName }-Tab öffnen
+    .accesskey = T
+# Variables
+#   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
     .label = Link in neuem { $containerName }-Tab öffnen
     .accesskey = T

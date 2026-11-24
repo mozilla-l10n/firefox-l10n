@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = 有時網站會設定一些保�
 fp-learn-more-about-https-connections = 了解 HTTPS 連線的更多資訊
 fp-neterror-vpn-error-title = 無法連線至 VPN
 fp-neterror-vpn-error-description = 請稍候幾分鐘再試一次。
+fp-neterror-vpn-error-continue-button = 不使用 VPN 繼續
+    .accesskey = C
 fp-neterror-denied-port-access = 此網址所用的通訊埠 (Port) 通常不是用於網路瀏覽。為了安全性考量，{ -brand-short-name } 已經取消連線要求。

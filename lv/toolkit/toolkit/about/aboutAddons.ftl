@@ -630,7 +630,7 @@ aboutaddons-themes-picker-install-button =
 # disabled (e.g. no network access to reach the AMO-hosted theme, or a
 # local install/disk failure).
 aboutaddons-themes-picker-error-message =
-    .message = Nevarēja atjaunināt jūsu motīvu. Pārbaudiet savienojumu un mēģiniet vēlreiz.
+    .message = Nevarēja atjaunināt tēmu. Jāpārbauda savienojums un jāmēģina vēlreiz.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

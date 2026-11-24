@@ -194,6 +194,17 @@ tab-groups-2026-onboarding-callout-subtitle = 依照工作或主題幫分頁分�
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = 建立群組
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = 管理
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = 關閉
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = 保持開啟
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題

@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = 編輯書籤…
     .tooltiptext = 編輯書籤（{ $shortcut }）
+main-context-menu-open-link-2 =
+    .label = 開啟
+    .accesskey = O
+main-context-menu-open-link-new-tab-2 =
+    .label = 用新分頁開啟
+    .accesskey = T
+main-context-menu-open-link-split-view-2 =
+    .label = 用分割畫面開啟
+    .accesskey = M
+main-context-menu-open-link-container-tab-2 =
+    .label = 用新容器分頁開啟
+    .accesskey = w
+main-context-menu-open-link-new-window-2 =
+    .label = 用新視窗開啟
+    .accesskey = d
+main-context-menu-open-link-mini-window =
+    .label = 用迷你視窗開啟
+    .accesskey = M
+main-context-menu-open-link-new-private-window-2 =
+    .label = 用新隱私視窗開啟
+    .accesskey = P
+main-context-menu-bookmark-link-3 =
+    .label = 加入書籤…
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = 開啟動作選單
     .accesskey = A
+main-context-menu-link-send-to-your-devices =
+    .label = 傳送到您的裝置
+    .accesskey = n
 main-context-menu-link-send-to-device =
     .label = 將鏈結傳送至裝置
     .accesskey = D
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = 了解 DRM 的更多資訊…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = 用新 { $containerName } 分頁開啟
+    .accesskey = T
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

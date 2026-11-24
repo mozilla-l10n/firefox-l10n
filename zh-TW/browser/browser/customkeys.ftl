@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = 靜音/取消靜音
 customkeys-edit-find-previous = 找前一個
 customkeys-edit-find-selection = 以選擇內容尋找
 customkeys-tools-screenshot = 拍攝畫面擷圖
+customkeys-tools-lock-windows = 鎖定隱私視窗
 customkeys-category-navigation-2 =
     .heading = 導覽
 customkeys-caution-message = 此功能還在實驗中，可能無法如預期運作。

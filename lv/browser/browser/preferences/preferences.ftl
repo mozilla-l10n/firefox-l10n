@@ -602,7 +602,7 @@ update-application-auto-2 =
     .label = Automātiski uzstādīt atjauninājumus (ieteicams)
     .accesskey = A
 update-application-check-choose-2 =
-    .label = Pārbaudiet atjauninājumus, bet izvēlieties instalēšanas laiku
+    .label = Pārbaudīt atjauninājumus, bet izvēlēties uzstādīšanas laiku
     .accesskey = P
 update-application-background-enabled =
     .label = Kad { -brand-short-name } nav palaists
@@ -1130,7 +1130,7 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-unverified2 =
-    .description = Pārbaudiet savu iesūtni, lai apstiprinātu savu kontu un padarītu to oficiālu.
+    .description = Pārbaudi savu iesūtni, lai apstiprinātu savu kontu un padarītu to oficiālu!
     .label = { $email } vēl nav apstiprināts
 sync-signedin-login-failure = Lūgums pieteikties, lai atjaunotu savienojumu ar { $email }
 sync-signedin-login-failure2 =

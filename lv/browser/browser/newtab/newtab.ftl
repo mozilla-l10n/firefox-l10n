@@ -492,7 +492,7 @@ newtab-picture-show-button2 =
     .aria-label = Parādīt attēlu
     .title = Parādīt attēlu
 # Shown when there is no new picture to display yet.
-newtab-picture-check-back = Pārbaudiet rīt, lai redzētu jaunu attēlu
+newtab-picture-check-back = Ieskaties rīt, lai redzētu jaunu attēlu
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons dienas attēls
