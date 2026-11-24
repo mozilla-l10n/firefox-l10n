@@ -65,3 +65,11 @@ appmenu-tab-hide-controlled =
     .label = เข้าถึงแท็บที่ซ่อนอยู่ของคุณ
     .secondarybuttonlabel = ปิดใช้งานส่วนขยาย
     .secondarybuttonaccesskey = ป
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = ส่วนขยาย <img data-l10n-name="addon-icon"/> { $addonName } ได้เปลี่ยนหน้าที่คุณเห็นเมื่อคุณเปิดแท็บใหม่
+appmenu-homepage-controlled-message = ส่วนขยาย <img data-l10n-name="addon-icon"/> { $addonName } ได้เปลี่ยนสิ่งที่คุณเห็นเมื่อคุณเปิดหน้าแรกและหน้าต่างใหม่ของคุณ
