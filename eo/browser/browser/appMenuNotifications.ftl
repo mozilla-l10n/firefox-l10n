@@ -73,3 +73,5 @@ appmenu-tab-hide-controlled =
 
 appmenu-new-tab-controlled-message = La aldonaĵo <img data-l10n-name="addon-icon"/> { $addonName } ŝanĝis la paĝon, kiun vi vidas kiam vi malfermas novan langeton.
 appmenu-homepage-controlled-message = La aldonaĵo <img data-l10n-name="addon-icon"/> { $addonName } ŝanĝis la paĝon, kiun vi vidas kiam vi malfermas novan langeton.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = La aldonaĵo <img data-l10n-name="addon-icon"/> { $addonName } kaŝas kelkajn el viaj langetoj. Vi plu povas aliri ĉiujn viajn langetojn per <img data-l10n-name="all-tabs-icon"/>.
