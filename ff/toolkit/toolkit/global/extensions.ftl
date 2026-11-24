@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = Yetto keɓe maa wonande lowe to domen {
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Yetto keɓe maa wonande { $domain }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Danndu e Innde
 
 ## Strings for data collection permissions in the permission prompt.
 
