@@ -147,6 +147,9 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = آلشت نشووک
     .tooltiptext = آلشت نشووک ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = گۊشیڌن
+    .accesskey = گ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =

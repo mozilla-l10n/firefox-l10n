@@ -55,6 +55,7 @@ aiwindow-close-sidebar =
 ## history subview lists recent chats and a shortcut to all chats.
 
 aiwindow-history-menu-view-all-chats = Преглед на всички разговори
+aiwindow-history-menu-settings = настройки на { -smart-window-brand-name }
 
 ## Smart Window Toggle Button (in-page)
 

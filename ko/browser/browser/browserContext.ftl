@@ -147,6 +147,15 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = 북마크 편집…
     .tooltiptext = 북마크 편집 ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = 열기
+    .accesskey = O
+main-context-menu-open-link-new-tab-2 =
+    .label = 새 탭에서 열기
+    .accesskey = T
+main-context-menu-open-link-split-view-2 =
+    .label = 분할 화면에서 열기
+    .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =

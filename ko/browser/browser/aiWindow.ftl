@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = 최근 채팅
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = 새 탭
+main-context-menu-open-link-new-smart-window-2 =
+    .label = 새 { -smart-window-brand-name }에서 열기
+    .accesskey = S
 
 ## Smart Window Toggle Button
 
@@ -354,6 +357,15 @@ aiwindow-starter-planning-plan = 계획 세우는 것 좀 도와줘
 aiwindow-starter-browsing-history = 기록에서 탭 찾아줘
 aiwindow-starter-browsing-summarize = 탭 요약해 줘
 aiwindow-starter-browsing-compare = 탭 비교해 줘
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = { $text } 닫기
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
