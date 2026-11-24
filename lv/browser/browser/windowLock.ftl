@@ -7,14 +7,14 @@
 ## sleep or starts the screen saver, or after the user presses the shortcut to
 ## lock windows.
 
-window-lock-private-title = Privātie logi ir liegti
-window-lock-private-description-macos = { -brand-short-name } paslēpj jūsu privātās lapas, kad dators tiek liegts, pāriet miega režīmā vai tiek ieslēgts ekrānsaudzētājs.
-window-lock-private-description-windows = { -brand-short-name } paslēpj jūsu privātās lapas, kad jūsu dators tiek liegts.
+window-lock-private-title = Privātie logi ir aizslēgti
+window-lock-private-description-macos = { -brand-short-name } paslēpj privātās lapas, kad dators ir aizslēgts, pāriet miega režīmā vai sāk darboties ekrānsaudzētājs.
+window-lock-private-description-windows = { -brand-short-name } paslēpj privātās lapas, kad dators aizslēdzas.
 window-lock-unlock-button =
-    .label = Atcelt liegumu
+    .label = Atslēgt
 # Shown on the lock screen when the operating system authentication prompt failed with an error.
 window-lock-auth-error =
-    .message = Nevarēja verificēt jūsu identitāti. Mēģiniet vēlreiz.
+    .message = Nevarēja apliecināt Tavu identitāti. Jāmēģina vēlreiz.
 # Title of the Windows authentication prompt when unlocking browser windows.
 window-lock-os-auth-dialog-caption = { -brand-full-name }
 # This message is shown in the Windows authentication prompt when unlocking Private Windows.

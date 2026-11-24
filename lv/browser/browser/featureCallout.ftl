@@ -198,15 +198,15 @@ tab-groups-2026-onboarding-cta-button = Izveidot grupu
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
-closed-browser-notifications-callout-title = Saņemiet tīmekļa paziņojumus, kad { -brand-short-name } ir slēgts
+closed-browser-notifications-callout-title = Saņem tīmekļa paziņojumus, kad { -brand-short-name } ir aizvērts
 # <a data-l10n-name="learn-more"> is a link to a support article.
-closed-browser-notifications-callout-body = Vietnes, kurām atļaujat, tagad var sūtīt paziņojumus pat tad, ja { -brand-short-name } ir slēgts. <a data-l10n-name="learn-more">Uzziniet vairāk</a>
+closed-browser-notifications-callout-body = Vietnes, kurām tas ir atļauts, tagad var sūtīt paziņojumus pat tad, ja { -brand-short-name } ir aizvērts. <a data-l10n-name="learn-more">Uzzināt vairāk</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Pārvaldīt
 # Stops notifications from being delivered while the browser is closed.
 closed-browser-notifications-callout-turn-off-button = Izslēgt
 # Keeps notifications being delivered while the browser is closed.
-closed-browser-notifications-callout-keep-on-button = Turpiniet
+closed-browser-notifications-callout-keep-on-button = Paturēt ieslēgtus
 
 ## Sidebar Strings
 

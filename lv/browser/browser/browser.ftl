@@ -1712,7 +1712,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Uzlabotā aizsardzība pret izsekošanu ir ieslēgta
 trustpanel-etp-label-disabled = Uzlabotā aizsardzība pret izsekošanu ir izslēgta
-trustpanel-etp-label-redesign = Uzlabota izsekošanas aizsardzība
+trustpanel-etp-label-redesign = Uzlabota aizsardzība pret izsekošanu
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1735,8 +1735,8 @@ trustpanel-description-enabled-insecure = { -brand-product-name } pamanīja kaut
 trustpanel-header-disabled = Jūs izslēdzāt aizsardzību
 trustpanel-description-disabled = { -brand-product-name } šobrīd nedarbojas. Mēs iesakām atkal ieslēgt aizsardzību.
 trustpanel-clear-cookies-button = Notīrīt sīkdatnes un vietņu datus
-trustpanel-delete-site-data-button = Dzēst vietnes datus
-trustpanel-fix-site-issue-button = Novērst vietnes problēmu
+trustpanel-delete-site-data-button = Izdzēst vietnes datus
+trustpanel-fix-site-issue-button = Novērst nebūšanu ar vietni
 trustpanel-privacy-link = Privātuma iestatījumi
 trustpanel-manage-settings-button = Pārvaldīt iestatījumus
 # Variables
@@ -1752,7 +1752,7 @@ trustpanel-site-information-header =
     .title = Savienojuma aizsardzība { $host }
 trustpanel-siteinformation-morelink = Vairāk informācijas par vietni
 trustpanel-blocker-see-all = Apskatīt visu
-trustpanel-blocker-see-trackers-button = Skatīt izsekotājus
+trustpanel-blocker-see-trackers-button = Apskatīt izsekotājus
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1887,10 +1887,10 @@ trustpanel-blocker-section-header2-redesign =
         [zero] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotājus šajā vietnē
        *[other] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotājus šajā vietnē
     }
-trustpanel-blocker-description-redesign = Šiem izsekotājiem tika liegta informācijas vākšana par jūsu pārlūkošanu.
-trustpanel-no-trackers-header-redesign = Šajā vietnē izsekotāji nav atrasti
-trustpanel-no-trackers-description-redesign = { -brand-short-name } pārbaudīja, vai nav zināmu izsekotāju, taču nevienu neatrada.
-trustpanel-etp-off-description-redesign = Ieslēdziet aizsardzības līdzekļus, un { -brand-short-name } liegs zināmiem izsekotājiem informācijas apkopošanu par jūsu pārlūkošanu.
+trustpanel-blocker-description-redesign = Šiem izsekotājiem tika liegta informācijas ievākšana par pārlūkošanu.
+trustpanel-no-trackers-header-redesign = Šajā vietnē nav atrasts neviens izsekotājs
+trustpanel-no-trackers-description-redesign = { -brand-short-name } pārbaudīja, vai ir atrodami zināmi izsekotāji, taču nevienu neatrada.
+trustpanel-etp-off-description-redesign = Ieslēdzi aizsardzību, un { -brand-short-name } liegs zināmiem izsekotājiem informācijas par pārlūkošanu ievākšanu!
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
