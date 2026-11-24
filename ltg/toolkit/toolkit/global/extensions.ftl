@@ -79,6 +79,9 @@ webext-save-as-pdf-dialog-title = Saglobuot kai
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Atinstalēt { $extension }
+webext-uninstall-confirmation-message = Paplošynuojums “{ $extension }” pīprosa atinstaliešonu. Voi vālotīs to dareit?
+webext-uninstall-confirmation-button-uninstall = Atinstalēt
 webext-uninstall-confirmation-button-keep = Keep Installed
 
 ## Colorway theme migration
