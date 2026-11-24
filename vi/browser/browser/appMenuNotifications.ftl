@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Truy cập các thẻ đã ẩn của bạn
     .secondarybuttonlabel = Vô hiệu hóa tiện ích mở rộng
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Một tiện ích mở rộng, <img data-l10n-name="addon-icon"/> { $addonName }, đã thay đổi trang này khi bạn mở một thẻ mới.
+appmenu-homepage-controlled-message = Một tiện ích mở rộng, <img data-l10n-name="addon-icon"/> { $addonName }, đã thay đổi trang này khi bạn mở trang chủ và cửa sổ mới.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Một tiện ích mở rộng, <img data-l10n-name="addon-icon"/> { $addonName }, đang ẩn một số thẻ của bạn. Bạn vẫn có thể truy cập tất cả các thẻ đó trong <img data-l10n-name="all-tabs-icon"/>.
