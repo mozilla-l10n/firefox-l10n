@@ -1217,6 +1217,7 @@ qrcode-save-button =
     .label = Zapisz
 qrcode-window-title = Kod QR
 qrcode-dialog-title = Kod QR
+qrcode-dialog-title-download-mobile = Pobierz { -brand-product-name(case: "acc") } na telefon
 qrcode-image =
     .aria-label = Kod QR
 qrcode-close-button =
@@ -1713,6 +1714,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Wzmocniona ochrona przed śledzeniem jest włączona
 trustpanel-etp-label-disabled = Wzmocniona ochrona przed śledzeniem jest wyłączona
+trustpanel-etp-label-redesign = Wzmocniona ochrona przed śledzeniem
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1735,6 +1737,7 @@ trustpanel-description-enabled-insecure = { -brand-product-name } zauważył co�
 trustpanel-header-disabled = Wyłączono ochronę
 trustpanel-description-disabled = { -brand-product-name } jest po służbie. Zalecamy ponowne włączenie ochrony.
 trustpanel-clear-cookies-button = Wyczyść ciasteczka i dane witryny
+trustpanel-delete-site-data-button = Usuń dane witryny
 trustpanel-privacy-link = Ustawienia prywatności
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
