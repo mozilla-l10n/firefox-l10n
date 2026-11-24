@@ -405,7 +405,7 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Pronađi svoje grup
 tab-groups-onboarding-saved-groups-title-3 = Kada zatvoriš grupu kartica, možeš ju ponovo otvoriti iz izbornika „Popis svih kartica” u bilo kojem trenutku.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pronađi svoje zatvorene grupe pretraživanjem u adresnoj traci.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-session-restore-title-2 = Grupe kartica možete ponovno otvoriti iz izbornika Popis svih kartica u bilo kojem trenutku.
+tab-groups-onboarding-session-restore-title-2 = Grupe kartica možeš ponovo otvoriti iz izbornika Popis svih kartica u bilo kojem trenutku.
 tab-groups-onboarding-dismiss = U redu
 
 ## Multi Profiles feature onboarding messages

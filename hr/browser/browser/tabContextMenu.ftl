@@ -174,10 +174,10 @@ tab-context-add-tab-to-group-closed-groups =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Ponovno otvori zatvorenu karticu
-            [one] Ponovno otvori zatvorenu karticu
-            [few] Ponovno otvori zatvorene kartice
-           *[other] Ponovno otvori zatvorene kartice
+            [1] Ponovo otvori zatvorenu karticu
+            [one] Ponovo otvori zatvorenu karticu
+            [few] Ponovo otvori zatvorene kartice
+           *[other] Ponovo otvori zatvorene kartice
         }
     .accesskey = r
 tab-context-close-n-tabs =

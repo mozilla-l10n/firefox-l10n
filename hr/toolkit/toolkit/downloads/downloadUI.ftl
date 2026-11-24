@@ -57,7 +57,7 @@ download-ui-confirm-quit-title =
                *[other] Zaustaviti { $downloadsCount } preuzimanja i zatvoriti { -brand-short-name(case: "gen") }?
             }
     }
-download-ui-confirm-quit-message = { -brand-short-name } će pokušati nastaviti preuzimanja kad se ponovno otvori, ali napredak bi se mogao izgubiti.
+download-ui-confirm-quit-message = { -brand-short-name } će pokušati nastaviti preuzimanja kad se ponovo otvori, ali napredak bi se mogao izgubiti.
 download-ui-confirm-quit-button =
     { PLATFORM() ->
         [windows] Izađi iz { -brand-short-name(case: "gen") }

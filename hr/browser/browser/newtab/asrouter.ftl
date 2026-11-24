@@ -456,9 +456,9 @@ nova-early-access-infobar-primary-button = Razumijem
 
 launch-options-spotlight-checkbox-pin-to-taskbar = Prikvači na svoju programsku traku
 # Shown on the browser-close prompt only
-launch-options-spotlight-checkbox-restore-current = Ponovno otvori trenutne prozore i kartice
+launch-options-spotlight-checkbox-restore-current = Ponovo otvori trenutačne prozore i kartice
 # Shown on the browser-launch prompt only
-launch-options-spotlight-checkbox-restore-previous = Ponovno otvori prethodne prozore i kartice
+launch-options-spotlight-checkbox-restore-previous = Ponovo otvori prethodne prozore i kartice
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Spremi i zatvori { -brand-short-name }
 # Primary button on the browser-launch prompt

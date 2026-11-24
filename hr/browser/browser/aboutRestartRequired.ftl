@@ -5,7 +5,7 @@
 restart-required-title = Potrebno je ponovno pokretanje
 restart-required-heading2 = Žao nam je, potrebno je ponovno pokrenuti { -brand-short-name }
 restart-required-intro2 = { -brand-short-name } treba dovršiti ažuriranje.  Ponovno ga pokreni da bi sve ostalo sigurno i radilo glatko.
-window-restoration-info2 = Ponovno ćemo otvoriti sve prozore i kartice, osim privatnih.
+window-restoration-info2 = Ponovo ćemo otvoriti sve prozore i kartice, osim privatnih.
 restart-required-why-now-question = Zašto sada?
 restart-required-why-now-answer = Ovo se može dogoditi kada se drugi { -brand-short-name } profil ili instanca ažuriraju ili kada ažuriranje ne može čekati do sljedećega ponovnoga pokretanja.
 restart-required-more-details-heading = Više informacija
@@ -15,7 +15,7 @@ restart-required-single-instance-question = Ne koristim više profila ili instan
 restart-required-single-instance-answer = { -brand-short-name } može tražiti ponovno pokretanje ako se ažuriranje odvija u pozadini dok je otvoren.
 restart-required-single-instance-answer-2 = Ovo se može dogoditi tijekom dugoga korištenja ili kada operacijski sustav ažurira { -brand-short-name }. Ponovno pokretanje osigurava da { -brand-short-name } bude siguran i da funkcionira normalno.
 restart-required-unsaved-work-question = Mogu li izgubiti nespremljene podatke?
-restart-required-unsaved-work-answer = Moguće. Znamo da je to frustrirajuće. { -brand-short-name } će ponovno otvoriti kartice, ali nespremljeni podatci, poput teksta u obrascima, mogu biti izgubljeni. Privatni se prozori neće ponovno otvoriti kako bi se zaštitila tvoja privatnost.
+restart-required-unsaved-work-answer = Moguće. Znamo da je to frustrirajuće. { -brand-short-name } će ponovo otvoriti kartice, ali nespremljeni podaci, poput teksta u obrascima, će se možda izgubiti. Privatni se prozori neće ponovo otvoriti kako bi se zaštitila tvoja privatnost.
 restart-required-fix-question = Ovo je zbilja naporno! Radi li { -brand-short-name } na ispravku nedostatka?
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.

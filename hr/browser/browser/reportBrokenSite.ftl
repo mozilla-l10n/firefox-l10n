@@ -57,7 +57,7 @@ report-broken-site-panel-invalid-description-label =
        *[other] Unesi barem { $minLength } znakova
     }
 report-broken-site-panel-screenshot-label =
-    .label = Pošalji snimku zaslona
+    .label = Pošalji snimku ekrana
 report-broken-site-panel-blocked-trackers-label2 =
     .label = Pošalji popis stavki koje je blokirala zaštita od praćenja
 report-broken-site-panel-url-input-label =

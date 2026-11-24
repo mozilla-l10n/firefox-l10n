@@ -25,10 +25,10 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Ponovno otvori zatvorenu karticu
-            [one] Ponovno otvori zatvorenu karticu
-            [few] Ponovno otvori zatvorene kartice
-           *[other] Ponovno otvori zatvorene kartice
+            [1] Ponovo otvori zatvorenu karticu
+            [one] Ponovo otvori zatvorenu karticu
+            [few] Ponovo otvori zatvorene kartice
+           *[other] Ponovo otvori zatvorene kartice
         }
     .accesskey = o
 toolbar-context-turn-on-vertical-tabs =
