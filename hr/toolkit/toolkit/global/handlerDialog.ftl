@@ -48,8 +48,8 @@ permission-dialog-set-change-app-link = Odaberi drugu aplikaciju.
 ##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
-    .title = Odaberi aplikaciju
     .style = min-width: 26em; min-height: 26em;
+    .title = Odaberi aplikaciju
 chooser-dialog =
     .buttonlabelaccept = Otvori poveznicu
     .buttonaccesskeyaccept = O
@@ -68,3 +68,12 @@ choose-app-btn =
 choose-other-app-window-title = Drugi program…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Onemogućeno u privatnim prozorima
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Postavi kao standardno
+    .accesskey = P

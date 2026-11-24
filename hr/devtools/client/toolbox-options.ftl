@@ -74,6 +74,8 @@ options-webconsole-split-console-tooltip =
 
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Neograničeno
+options-netmonitor-body-limit-restore-default =
+    .title = Obnovi standardnu vrijednost za maksimalnu veličinu sadržaja zahtjeva/odgovora.
 
 ## Style Editor section
 

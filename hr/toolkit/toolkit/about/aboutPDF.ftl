@@ -21,7 +21,7 @@ about-pdf-promo =
     .heading = Postavi { -brand-short-name } kao zadani uređivač PDF-ova
     .message = Otvori PDF-ove u { -brand-short-name(case: "loc") } i barataj osnovama na jednom mjestu, od označavanja i potpisivanja do spajanja datoteka i komentiranja.
 about-pdf-set-default =
-    .label = Postavi kao zadano
+    .label = Postavi kao standardno
 about-pdf-dismiss =
     .label = Odbaci
 

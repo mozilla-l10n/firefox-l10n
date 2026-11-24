@@ -26,7 +26,7 @@ theme-picker-use-linux-theme =
 # Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
 # color word; translate the sense of "standard."
 theme-picker-default =
-    .label = Zadano
+    .label = Standardno
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun =
     .label = Sunce
@@ -71,7 +71,7 @@ theme-picker-smoke =
 # Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
 # color word; translate the sense of "standard."
 theme-picker-default-aria-label =
-    .aria-label = Zadano
+    .aria-label = Standardno
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun-aria-label =
     .aria-label = Sunce
