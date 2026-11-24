@@ -86,6 +86,8 @@ webext-perms-host-description-multiple-domains =
         [many] Cael at eich data ar gyfer gwefannau mewn { $domainCount } parth
        *[other] Cael at eich data ar gyfer gwefannau mewn { $domainCount } parth
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Cadw Fel
 
 ## Strings for data collection permissions in the permission prompt.
 
