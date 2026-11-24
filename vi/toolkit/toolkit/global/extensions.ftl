@@ -149,6 +149,8 @@ webext-site-perms-serial = Truy cập thiết bị sử dụng cổng nối ti�
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Gỡ bỏ { $extension }
+webext-uninstall-confirmation-message = Tiện ích “{ $extension }” yêu cầu gỡ cài đặt. Bạn muốn làm gì?
+webext-uninstall-confirmation-button-uninstall = Gỡ bỏ
 
 ## Colorway theme migration
 
