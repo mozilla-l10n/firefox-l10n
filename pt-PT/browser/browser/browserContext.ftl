@@ -156,6 +156,18 @@ main-context-menu-open-link-new-tab-2 =
 main-context-menu-open-link-split-view-2 =
     .label = Abrir na Vista Dividida
     .accesskey = D
+main-context-menu-open-link-container-tab-2 =
+    .label = Abrir num Novo Separador Contentor
+    .accesskey = o
+main-context-menu-open-link-new-window-2 =
+    .label = Abrir numa Nova Janela
+    .accesskey = J
+main-context-menu-open-link-mini-window =
+    .label = Abrir numa Mini Janela
+    .accesskey = M
+main-context-menu-open-link-new-private-window-2 =
+    .label = Abrir numa Nova Janela Privada
+    .accesskey = P
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
