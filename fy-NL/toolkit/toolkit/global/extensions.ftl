@@ -154,6 +154,7 @@ webext-site-perms-serial = Seriële apparaten benaderje
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = { $extension } de-ynstallearje
 webext-uninstall-confirmation-message = De útwreiding ‘{ $extension }’ freget om de-ynstallearre te wurden. Wat wolle jo dwaan?
 webext-uninstall-confirmation-button-uninstall = De-ynstallearje
 webext-uninstall-confirmation-button-keep = Ynstallearre litte
