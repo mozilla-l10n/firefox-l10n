@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Vaata peidetud kaarte
     .secondarybuttonlabel = Keela see laiendus
     .secondarybuttonaccesskey = K
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Laiendus <img data-l10n-name="addon-icon"/> { $addonName } muutis lehte, mida näed, kui avad uue kaardi.
+appmenu-homepage-controlled-message = Laiendus <img data-l10n-name="addon-icon"/> { $addonName } muutis seda, mida näed avalehe ja uute akende avamisel.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Laiendus <img data-l10n-name="addon-icon"/> { $addonName } peidab osasid sinu kaarte. Selliste kaartide nägemiseks võid sa endiselt kasutada nuppu <img data-l10n-name="all-tabs-icon"/>.
