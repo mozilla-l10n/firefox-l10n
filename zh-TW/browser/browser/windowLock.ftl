@@ -8,6 +8,8 @@
 ## lock windows.
 
 window-lock-private-title = 隱私瀏覽視窗已鎖定
+window-lock-private-description-macos = { -brand-short-name } 會在電腦鎖定、睡眠或啟動螢幕保護程式後隱藏您的隱私瀏覽頁面。
+window-lock-private-description-windows = { -brand-short-name } 會在電腦鎖定後隱藏您的隱私瀏覽頁面。
 window-lock-unlock-button =
     .label = 解鎖
 # Shown on the lock screen when the operating system authentication prompt failed with an error.

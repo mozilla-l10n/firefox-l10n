@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Neueste Chats
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Neuer Tab
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Link in neuem { -smart-window-brand-name(form: "lowercase-singular-dative") } öffnen
+    .accesskey = i
 
 ## Smart Window Toggle Button
 
@@ -161,7 +164,7 @@ aiwindow-firstrun-memories-no-create = Verstanden. { -smart-window-brand-name } 
 
 aiwindow-firstrun-default-title = Machen Sie { -smart-window-brand-name(form: "lowercase-plural") } zu Ihrer ersten Wahl
 aiwindow-firstrun-default-subtitle = Surfen, suchen und fragen an einem Ort. Sie können weiterhin private und klassische Fenster öffnen, wenn Sie möchten.
-aiwindow-firstrun-default-checkbox-label = { -brand-product-name } immer in { -smart-window-brand-name(form: "lowercase-plural-dative") }
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name } immer in { -smart-window-brand-name(form: "lowercase-plural-dative") } öffnen
 aiwindow-firstrun-default-checkbox-description = In den Einstellungen jederzeit wechseln
 
 ## Ask Toolbar Button

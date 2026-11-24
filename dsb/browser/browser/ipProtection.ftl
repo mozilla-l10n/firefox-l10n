@@ -287,6 +287,9 @@ ipprotection-come-back-title = Wrośćo se, aby zatwarjony VPN wopytał
 ipprotection-message-body-hide-location = Schowajśo swójo stojnišćo, gaž z { -brand-product-name } pśeglědujośo, za wěcej priwatnosći a kontrole.
 ipprotection-connection-status-generic-error-title-1 = Zwisk z VPN njejo móžny
     .aria-label = Zwisk z VPN njejo móžny
+ipprotection-connection-status-try-again-button = Hyšći raz wopytaś
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Bźez VPN pókšacowaś
 
 ## IP Protection bandwidth callouts
 

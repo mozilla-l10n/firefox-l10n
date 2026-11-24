@@ -194,6 +194,17 @@ tab-groups-2026-onboarding-callout-subtitle = Zrědujśo swóje rejtariki pó na
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Kupku rejtarikow napóraś
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Zastojaś
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Znjemóžniś
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Dalej
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś

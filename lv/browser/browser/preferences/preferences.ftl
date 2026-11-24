@@ -2304,7 +2304,7 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Liegts
-preferences-ai-controls-state-description-before = Ko nozīmē opcijas:
+preferences-ai-controls-state-description-before = Ko nozīmē iespējas:
 preferences-ai-controls-state-description-available = <strong>Pieejams:</strong> Jūs redzēsiet šo funkciju un varēsiet to izmantot.
 preferences-ai-controls-state-description-enabled = <strong>Iespējots:</strong> Jūs esat izvēlējies izmantot šo funkciju.
 preferences-ai-controls-state-description-blocked = <strong>Liegts:</strong> Jūs neredzēsiet un nevarēsiet izmantot šo funkciju. Ierīcē iebūvētajā mākslīgajā intelektā visi jau lejupielādētie modeļi tiek noņemti.

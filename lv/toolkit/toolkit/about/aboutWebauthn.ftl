@@ -13,7 +13,7 @@ about-webauthn-page-title = Par WebAuthn
 
 about-webauthn-info-section-title = Ierīces informācija
 about-webauthn-info-subsection-title = Autentifikatora informācija
-about-webauthn-options-subsection-title = Autentifikatora opcijas
+about-webauthn-options-subsection-title = Autentificētāja iespējas
 about-webauthn-pin-section-title = PIN pārvaldība
 about-webauthn-credential-management-section-title = Pārvaldīt akreditācijas datus
 about-webauthn-pin-required-section-title = Nepieciešams PIN kods

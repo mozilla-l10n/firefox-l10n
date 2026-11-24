@@ -198,6 +198,9 @@ tab-groups-2026-onboarding-cta-button = 建立群組
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
+closed-browser-notifications-callout-title = 在 { -brand-short-name } 關閉時仍接收網站通知
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = 現在起，就算關閉 { -brand-short-name } 之後，您允許的網站仍可傳送通知。<a data-l10n-name="learn-more">更多資訊</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = 管理
 # Stops notifications from being delivered while the browser is closed.

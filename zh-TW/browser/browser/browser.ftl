@@ -1762,6 +1762,10 @@ trustpanel-blocker-section-header2 = 已封鎖此網站上的 <span data-l10n-na
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header2-redesign = { -brand-short-name } 已封鎖此網站上的 <span data-l10n-name="count">{ $count }</span> 組追蹤器
+trustpanel-blocker-description-redesign = 已封鎖下列追蹤器收集您的瀏覽資訊。
+trustpanel-no-trackers-header-redesign = 未在此網站發現追蹤器
+trustpanel-no-trackers-description-redesign = { -brand-short-name } 已檢查網頁中是否有已知的追蹤器，但未發現任何一組。
+trustpanel-etp-off-description-redesign = 開啟保護功能後，{ -brand-short-name } 將封鎖已知的追蹤器收集您的瀏覽資訊。
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
