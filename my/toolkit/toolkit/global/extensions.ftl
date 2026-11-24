@@ -78,6 +78,9 @@ webext-perms-host-description-one-site = { $domain } အတွက် သင့�
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = ဖြုတ်ပါ { $extension }
+webext-uninstall-confirmation-message = ထပ်တိုးအပို “{ $extension }” မှ ဖယ်ရှားပေးရန် တောင်းဆိုနေသည်။ သင်ဘာလုပ်ချင်ပါသလဲ?
+webext-uninstall-confirmation-button-uninstall = ဖြုတ်ပါ
+webext-uninstall-confirmation-button-keep = တပ်ဆင်ထားပါ
 
 ## Colorway theme migration
 
