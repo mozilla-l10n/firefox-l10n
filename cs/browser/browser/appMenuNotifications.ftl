@@ -91,3 +91,13 @@ appmenu-tab-hide-controlled =
     .label = Přistupovat k vašim skrytým panelům
     .secondarybuttonlabel = Zakázat rozšíření
     .secondarybuttonaccesskey = Z
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Rozšíření <img data-l10n-name="addon-icon"/> { $addonName } změnilo stránku zobrazovanou v nově otevřených panelech.
+appmenu-homepage-controlled-message = Rozšíření <img data-l10n-name="addon-icon"/> { $addonName } změnilo obsah zobrazovaný v nově otevřených panelech a oknech.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } skrývá některé panely. Všechny své panely vždy najdete po klepnutí na <img data-l10n-name="all-tabs-icon"/>.
