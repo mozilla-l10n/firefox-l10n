@@ -154,6 +154,10 @@ webext-site-perms-serial = Auf serielle Geräte zugreifen
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = { $extension } deinstallieren
+webext-uninstall-confirmation-message = Die Erweiterung "{ $extension }" erbittet die Erlaubnis zur eigenen Deinstallation. Soll dies erlaubt werden?
+webext-uninstall-confirmation-button-uninstall = Deinstallieren
+webext-uninstall-confirmation-button-keep = Installiert lassen
 
 ## Colorway theme migration
 
