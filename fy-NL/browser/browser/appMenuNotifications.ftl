@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Jo ferstoppe ljepblêden benaderje
     .secondarybuttonlabel = Utwreiding útskeakelje
     .secondarybuttonaccesskey = U
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = In útwreiding, <img data-l10n-name="addon-icon"/> { $addonName }, hat de side dy’t jo sjogge by it iepenjen fan in nij ljepblêd wizige.
+appmenu-homepage-controlled-message = In útwreiding, <img data-l10n-name="addon-icon"/> { $addonName }, hat de side dy’t jo sjogge by it iepenjen fan jo startside en nij finsters wizige.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = In útwreiding, <img data-l10n-name="addon-icon"/> { $addonName }, ferstoppet inkelde fan jo ljepblêden. Jo kinne noch hieltyd al jo ljepblêden benaderje fan <img data-l10n-name="all-tabs-icon"/> ôf.
