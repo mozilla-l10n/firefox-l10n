@@ -83,6 +83,10 @@ webext-site-perms-midi-sysex = Ligipääsemine MIDI-seadmetele SysEx toega
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Eemalda { $extension }
+webext-uninstall-confirmation-message = Laiendus “{ $extension }” üritab ennast eemaldada. Mida soovid teha?
+webext-uninstall-confirmation-button-uninstall = Eemalda
+webext-uninstall-confirmation-button-keep = Säilita
 
 ## Colorway theme migration
 
