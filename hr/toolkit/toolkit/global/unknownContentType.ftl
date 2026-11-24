@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Spremi datoteku
     .accesskey = S
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Spremi datoteku
 unknowncontenttype-remember-choice =
     .label = Ubuduće primijeni ovu radnju za ovu vrstu datoteka.
     .accesskey = a

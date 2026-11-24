@@ -20,6 +20,9 @@ menu-history-chats-recent =
     .label = Nedavni razgovori
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nova kartica
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Otvori u novom { -smart-window-brand-name }
+    .accesskey = O
 
 ## Smart Window Toggle Button
 

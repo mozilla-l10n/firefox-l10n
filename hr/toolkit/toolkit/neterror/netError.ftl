@@ -186,4 +186,6 @@ fp-neterror-why-did-this-happen = Zašto se ovo dogodilo?
 fp-neterror-offline-what-can-you-do-body = Pokušaj se povezati na jednom drugom uređaju. Provjeri modem ili router. Prekini vezu i ponovo se spoji na Wi-Fi.
 fp-learn-more-about-https-connections = Saznaj više o HTTPS vezama
 fp-neterror-vpn-error-description = Pokušaj ponovo za par minuta.
+fp-neterror-vpn-error-continue-button = Nastavi bez VPN-a
+    .accesskey = N
 fp-neterror-denied-port-access = Ova adresa koristi mrežni priključak koji se obično koristi u druge svrhe osim pregledavanja weba. { -brand-short-name } je otkazao zahtjev radi tvoje zaštite.
