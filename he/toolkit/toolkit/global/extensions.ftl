@@ -144,6 +144,15 @@ webext-site-perms-midi = גישה להתקני MIDI
 webext-site-perms-midi-sysex = גישה להתקני MIDI עם תמיכה ב־SysEx
 webext-site-perms-serial = גישה להתקנים טוריים
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = הסרת { $extension }
+webext-uninstall-confirmation-message = ההרחבה “{ $extension }” מבקשת את הסרתה. כיצד לפעול?
+webext-uninstall-confirmation-button-uninstall = הסרה
+webext-uninstall-confirmation-button-keep = להשאיר מותקנת
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>ערכת הצבעים שלך הוסרה.</b> { -brand-shorter-name } עדכן את אוסף ערכות הצבעים שלו. ניתן למצוא את הגרסאות העדכניות ביותר באתר התוספות.
