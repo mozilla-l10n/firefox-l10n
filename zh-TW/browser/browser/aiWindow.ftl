@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = 近期聊天紀錄
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = 新分頁
+main-context-menu-open-link-new-smart-window-2 =
+    .label = 用新 { -smart-window-brand-name }開啟
+    .accesskey = S
 
 ## Smart Window Toggle Button
 
@@ -354,6 +357,15 @@ aiwindow-starter-planning-plan = 幫助規劃方案
 aiwindow-starter-browsing-history = 從瀏覽紀錄尋找分頁
 aiwindow-starter-browsing-summarize = 摘要多個分頁的內容
 aiwindow-starter-browsing-compare = 比較分頁
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = 關閉 { $text }
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
