@@ -71,5 +71,7 @@ appmenu-tab-hide-controlled =
 ## Variables:
 ##   $addonName (String): name of the extension.
 
+appmenu-new-tab-controlled-message = Ett tillägg, <img data-l10n-name="addon-icon"/> { $addonName }, ändrade sidan du ser när du öppnar en ny flik.
+appmenu-homepage-controlled-message = Ett tillägg, <img data-l10n-name="addon-icon"/> { $addonName }, ändrade vad du ser när du öppnar din startsida och nya fönster.
 # The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
 appmenu-tab-hide-controlled-message = Ett tillägg, <img data-l10n-name="addon-icon"/> { $addonName }, döljer några av dina flikar. Du kan fortfarande komma åt alla dina flikar från <img data-l10n-name="all-tabs-icon"/>.
