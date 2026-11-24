@@ -82,6 +82,8 @@ webext-perms-host-description-multiple-domains =
         [few] Să îți acceseze datele pentru site-uri din { $domainCount } domenii
        *[other] Să îți acceseze datele pentru site-uri din { $domainCount } de domenii
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Salvează ca
 
 ## Strings for data collection permissions in the permission prompt.
 
