@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Přistup k wašim schowanym rajtarkam
     .secondarybuttonlabel = Rozšěrjenje znjemóžnić
     .secondarybuttonaccesskey = z
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Rozšěrjenje <img data-l10n-name="addon-icon"/> { $addonName } je stronu změniło, kotruž widźiće, hdyž nowy rajtark wočinjeće.
+appmenu-homepage-controlled-message = Rozšěrjenje <img data-l10n-name="addon-icon"/> { $addonName } je změniło, štož widźiće, hdyž swoju startowu stronu a nowe wokna wočinjeće.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Rozšěrjenje <img data-l10n-name="addon-icon"/> { $addonName } někotre z wašich rajtarkow chowa. Móžeće hišće wot <img data-l10n-name="all-tabs-icon"/> přistup k wšěm wašim rajtarkam měć.
