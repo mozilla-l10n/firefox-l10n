@@ -144,6 +144,9 @@ webext-site-perms-midi-sysex = Tengjast við MIDI-tæki með stuðning við SysE
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Fjarlægja { $extension }
+webext-uninstall-confirmation-message = Forritsaukinn “{ $extension }” er að biðja um að verða fjarlægður. Hvað viltu gera?
+webext-uninstall-confirmation-button-uninstall = Fjarlægja
+webext-uninstall-confirmation-button-keep = Nota áfram
 
 ## Colorway theme migration
 
