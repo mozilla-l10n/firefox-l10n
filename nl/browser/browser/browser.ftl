@@ -1208,6 +1208,7 @@ qrcode-save-button =
     .label = Opslaan
 qrcode-window-title = QR-code
 qrcode-dialog-title = QR-code
+qrcode-dialog-title-download-mobile = { -brand-product-name } voor mobiel downloaden
 qrcode-image =
     .aria-label = QR-code
 qrcode-close-button =
@@ -1695,6 +1696,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Verbeterde bescherming tegen volgen is ingeschakeld
 trustpanel-etp-label-disabled = Verbeterde bescherming tegen volgen is uitgeschakeld
+trustpanel-etp-label-redesign = Verbeterde bescherming tegen volgen
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1717,7 +1719,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } heeft iets ver
 trustpanel-header-disabled = U hebt beschermingen uitgeschakeld
 trustpanel-description-disabled = { -brand-product-name } staat niet op wacht. We raden u aan beschermingen weer in te schakelen.
 trustpanel-clear-cookies-button = Cookies en websitegegevens wissen
+trustpanel-delete-site-data-button = Websitegegevens verwijderen
+trustpanel-fix-site-issue-button = Websiteprobleem oplossen
 trustpanel-privacy-link = Privacyinstellingen
+trustpanel-manage-settings-button = Instellingen beheren
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1731,6 +1736,7 @@ trustpanel-site-information-header =
     .title = Verbindingsbescherming voor { $host }
 trustpanel-siteinformation-morelink = Meer website-informatie
 trustpanel-blocker-see-all = Alles bekijken
+trustpanel-blocker-see-trackers-button = Trackers bekijken
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1840,6 +1846,18 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> tracker geblokkeerd op deze website
        *[other] <span data-l10n-name="count">{ $count }</span> trackers geblokkeerd op deze website
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } heeft <span data-l10n-name="count">{ $count }</span> tracker op deze website geblokkeerd
+       *[other] { -brand-short-name } heeft <span data-l10n-name="count">{ $count }</span> trackers op deze website geblokkeerd
+    }
+trustpanel-blocker-description-redesign = Het verzamelen van gegevens over uw surfgedrag door deze trackers is geblokkeerd.
+trustpanel-no-trackers-header-redesign = Geen trackers op deze website gevonden
+trustpanel-no-trackers-description-redesign = { -brand-short-name } heeft gecontroleerd op bekende trackers en heeft er geen gevonden.
+trustpanel-etp-off-description-redesign = Schakel bescherming in en { -brand-short-name } blokkeert bekende trackers die info over uw surfgedrag verzamelen.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

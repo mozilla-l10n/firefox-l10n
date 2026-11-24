@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Audio dempen/dempen opheffen
 customkeys-edit-find-previous = Vorige zoeken
 customkeys-edit-find-selection = Selectie gebruiken voor zoeken
 customkeys-tools-screenshot = Een schermafbeelding maken
+customkeys-tools-lock-windows = Privévensters vergrendelen
 customkeys-category-navigation-2 =
     .heading = Navigatie
 customkeys-caution-message = Deze functie is experimenteel en werkt mogelijk niet zoals verwacht.

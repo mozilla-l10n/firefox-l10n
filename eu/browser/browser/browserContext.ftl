@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Editatu laster-marka…
     .tooltiptext = Editatu laster-marka ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Ireki
+    .accesskey = I
+main-context-menu-open-link-new-tab-2 =
+    .label = Ireki fitxa berrian
+    .accesskey = I
+main-context-menu-open-link-split-view-2 =
+    .label = Ireki ikuspegi zatituan
+    .accesskey = I
+main-context-menu-open-link-container-tab-2 =
+    .label = Ireki edukiontzi-fitxa berrian
+    .accesskey = I
+main-context-menu-open-link-new-window-2 =
+    .label = Ireki leiho berrian
+    .accesskey = I
+main-context-menu-open-link-mini-window =
+    .label = Ireki leiho txiki berrian
+    .accesskey = x
+main-context-menu-open-link-new-private-window-2 =
+    .label = Ireki leiho pribatu berrian
+    .accesskey = I
+main-context-menu-bookmark-link-3 =
+    .label = Egin laster-marka…
+    .accesskey = E
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Aktibatu ekintzen menua
     .accesskey = e
+main-context-menu-link-send-to-your-devices =
+    .label = Bidali zure gailuetara
+    .accesskey = B
 main-context-menu-link-send-to-device =
     .label = Bidali lotura gailura
     .accesskey = g
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = DRMri buruzko argibide gehiago…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Ireki { $containerName } edukiontzi-fitxa berrian
+    .accesskey = d
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

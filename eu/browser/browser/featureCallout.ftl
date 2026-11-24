@@ -194,6 +194,18 @@ tab-groups-2026-onboarding-callout-subtitle = Taldekatu zure fitxak ataza edo ga
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Sortu taldea
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Jaso webguneetako jakinarazpenak { -brand-short-name } itxita dagoenean
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Kudeatu
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Desaktibatu
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Mantendu aktibo
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran

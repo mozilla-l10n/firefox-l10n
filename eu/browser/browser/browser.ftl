@@ -1207,6 +1207,7 @@ qrcode-save-button =
     .label = Gorde
 qrcode-window-title = QR kodea
 qrcode-dialog-title = QR kodea
+qrcode-dialog-title-download-mobile = Deskargatu mugikorrerako { -brand-product-name }
 qrcode-image =
     .aria-label = QR kodea
 qrcode-close-button =
@@ -1694,6 +1695,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Jarraipenaren babes hobetua aktibatuta dago
 trustpanel-etp-label-disabled = Jarraipenaren babes hobetua desaktibatuta dago
+trustpanel-etp-label-redesign = Jarraipenaren babes hobetua
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1716,7 +1718,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name }(e)k zerbait su
 trustpanel-header-disabled = Babesak desgaitu dituzu
 trustpanel-description-disabled = { -brand-product-name } ez dago guardian. Babesak berriro ere aktibatzea gomendatzen dugu.
 trustpanel-clear-cookies-button = Garbitu cookieak eta guneetako datuak
+trustpanel-delete-site-data-button = Ezabatu gunearen datuak
+trustpanel-fix-site-issue-button = Konpondu gunearen arazoa
 trustpanel-privacy-link = Pribatutasun-ezarpenak
+trustpanel-manage-settings-button = Kudeatu ezarpenak
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1730,6 +1735,7 @@ trustpanel-site-information-header =
     .title = Konexioaren babesak { $host } ostalarirako
 trustpanel-siteinformation-morelink = Gunearen informazio gehiago
 trustpanel-blocker-see-all = Ikusi guztiak
+trustpanel-blocker-see-trackers-button = Ikusi jarraipen-elementuak
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1839,6 +1845,10 @@ trustpanel-blocker-section-header2 =
         [one] Jarraipen-elementu <span data-l10n-name="count">{ $count }</span> blokeatu da gune honetan
        *[other] <span data-l10n-name="count">{ $count }</span> jarraipen-elementu blokeatu dira gune honetan
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-no-trackers-header-redesign = Ez da jarraipen-elementurik aurkitu gune honetan
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = Groepeer uw tabbladen op taak of o
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Een groep starten
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Webnotificaties ontvangen met gesloten { -brand-short-name }
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Toegestane websites kunnen nu ook meldingen sturen wanneer { -brand-short-name } is gesloten. <a data-l10n-name="learn-more">Meer info</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Beheren
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Uitschakelen
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Ingeschakeld houden
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen

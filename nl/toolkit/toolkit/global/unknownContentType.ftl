@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Bestand opslaan
     .accesskey = s
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Bestand opslaan
 unknowncontenttype-remember-choice =
     .label = Dit vanaf nu automatisch doen voor dit type bestanden
     .accesskey = a

@@ -279,6 +279,12 @@ ipprotection-come-back-title = Itzuli integratutako VPNa probatzeko
 ipprotection-message-body-hide-location = Ezkutatu zure kokapena { -brand-product-name }(e)n nabigatzean pribatutasun eta kontrol gehiagorako.
 ipprotection-connection-status-generic-error-title-1 = Ezin da VPNra konektatu
     .aria-label = Ezin da VPNra konektatu
+ipprotection-connection-status-try-again-button = Saiatu berriro
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Jarraitu VPNrik gabe
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Saiatu berriro…
+    .aria-label = Saiatu berriro…
 
 ## IP Protection bandwidth callouts
 

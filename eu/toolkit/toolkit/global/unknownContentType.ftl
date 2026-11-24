@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Gorde fitxategia
     .accesskey = G
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Gorde fitxategia
 unknowncontenttype-remember-choice =
     .label = Egin hau automatikoki hau bezelako fitxategiekin aurrerantzean.
     .accesskey = a

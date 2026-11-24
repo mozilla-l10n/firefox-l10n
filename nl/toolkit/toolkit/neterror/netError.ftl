@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = Soms stellen websites beschermi
 fp-learn-more-about-https-connections = Meer info over HTTPS-verbindingen
 fp-neterror-vpn-error-title = Kan niet verbinden met VPN
 fp-neterror-vpn-error-description = Probeer het over een paar minuten opnieuw.
+fp-neterror-vpn-error-continue-button = Doorgaan zonder VPN
+    .accesskey = D
 fp-neterror-denied-port-access = Dit adres gebruikt een netwerkpoort die normaal gesproken voor andere doeleinden dan webbrowsen wordt gebruikt. { -brand-short-name } heeft de aanvraag geannuleerd om u te beschermen.

@@ -279,6 +279,12 @@ ipprotection-come-back-title = Kom terug om de ingebouwde VPN te proberen
 ipprotection-message-body-hide-location = Verberg uw locatie wanneer u navigeert in { -brand-product-name } voor meer privacy en controle.
 ipprotection-connection-status-generic-error-title-1 = Kan niet verbinden met VPN
     .aria-label = Kan niet verbinden met VPN
+ipprotection-connection-status-try-again-button = Opnieuw proberen
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Doorgaan zonder VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Opnieuw proberen…
+    .aria-label = Opnieuw proberen…
 
 ## IP Protection bandwidth callouts
 

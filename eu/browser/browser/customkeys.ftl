@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Mututu/ez mututu audioa
 customkeys-edit-find-previous = Bilatu aurrekoa
 customkeys-edit-find-selection = Erabili hautapena bilaketarako
 customkeys-tools-screenshot = Hartu pantaila-argazkia
+customkeys-tools-lock-windows = Blokeatu leiho pribatuak
 customkeys-category-navigation-2 =
     .heading = Nabigazioa
 customkeys-caution-message = Eginbide hau esperimentala da eta baliteke behar bezala ez ibiltzea.
