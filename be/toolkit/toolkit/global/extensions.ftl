@@ -149,6 +149,12 @@ webext-site-perms-midi = Доступ да прылад MIDI
 webext-site-perms-midi-sysex = Доступ да прылад MIDI з падтрымкаю SysEx
 webext-site-perms-serial = Доступ да паслядоўных партоў
 
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
+webext-uninstall-confirmation-title = Высталяваць { $extension }
+
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Ваша тэма расфарбоўкі была выдалена.</b> { -brand-shorter-name } абнавіў сваю калекцыю колеравых гам. Вы можаце знайсці апошнія версіі на сайце дадаткаў.
