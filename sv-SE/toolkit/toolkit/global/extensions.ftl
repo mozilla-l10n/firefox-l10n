@@ -81,6 +81,8 @@ webext-perms-host-description-multiple-domains =
     { $domainCount ->
        *[other] Åtkomst till din data för webbplatser i { $domainCount } domäner
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Spara som
 
 ## Strings for data collection permissions in the permission prompt.
 

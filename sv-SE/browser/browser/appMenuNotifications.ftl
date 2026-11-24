@@ -65,3 +65,11 @@ appmenu-tab-hide-controlled =
     .label = Öppna dina dolda flikar
     .secondarybuttonlabel = Inaktivera tillägg
     .secondarybuttonaccesskey = n
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Ett tillägg, <img data-l10n-name="addon-icon"/> { $addonName }, döljer några av dina flikar. Du kan fortfarande komma åt alla dina flikar från <img data-l10n-name="all-tabs-icon"/>.
