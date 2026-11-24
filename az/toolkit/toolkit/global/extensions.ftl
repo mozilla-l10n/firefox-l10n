@@ -48,6 +48,8 @@ webext-perms-host-description-wildcard = { $domain } domenində olan saytlar haq
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } üçün olan məlumatlarınıza baxmaq
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Fərqli saxla
 
 ## Strings for data collection permissions in the permission prompt.
 

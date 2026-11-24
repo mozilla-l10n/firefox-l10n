@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = Gizli vərəqlərə baxış
     .secondarybuttonlabel = Uzantını Söndür
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = <img data-l10n-name="addon-icon"/> { $addonName } uzantısı yeni vərəq açdığınızda gördüyünüz səhifəni dəyişdirdi.
+appmenu-homepage-controlled-message = Uzantı, <img data-l10n-name="addon-icon"/> { $addonName }, ev və yeni pəncərələri açdığınızda gördüyünüz səhifələri dəyişdirdi.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Uzantı, <img data-l10n-name="addon-icon"/> { $addonName }, bəzi vərəqlərinizi gizlədir. Hələ də bütün vərəqlərinizi <img data-l10n-name="all-tabs-icon"/> üzərindən görə bilərsiz.
