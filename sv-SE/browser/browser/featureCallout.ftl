@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = Gruppera dina flikar efter uppgift
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Starta en grupp
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Få webbaviseringar med { -brand-short-name } stängd
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Webbplatser som du tillåter kan nu skicka aviseringar även när { -brand-short-name } är stängd. <a data-l10n-name="learn-more">Läs mer</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Hantera
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Stäng av
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Behåll på
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Visa fliktitlar i sidofältet

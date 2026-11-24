@@ -1207,6 +1207,7 @@ qrcode-save-button =
     .label = Spara
 qrcode-window-title = QR-kod
 qrcode-dialog-title = QR-kod
+qrcode-dialog-title-download-mobile = Hämta { -brand-product-name } för mobil
 qrcode-image =
     .aria-label = QR-kod
 qrcode-close-button =
@@ -1692,6 +1693,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Förbättrat spårningsskydd är på
 trustpanel-etp-label-disabled = Förbättrat spårningsskydd är av
+trustpanel-etp-label-redesign = Förbättrat spårningsskydd
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1714,7 +1716,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } märkte något
 trustpanel-header-disabled = Du stängde av skydden
 trustpanel-description-disabled = { -brand-product-name } är inte i drift. Vi föreslår att du aktiverar skydden igen.
 trustpanel-clear-cookies-button = Rensa kakor och webbplatsdata
+trustpanel-delete-site-data-button = Ta bort platsdata
+trustpanel-fix-site-issue-button = Åtgärda webbplatsproblem
 trustpanel-privacy-link = Sekretessinställningar
+trustpanel-manage-settings-button = Hantera inställningar
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1728,6 +1733,7 @@ trustpanel-site-information-header =
     .title = Anslutningsskydd för { $host }
 trustpanel-siteinformation-morelink = Mer webbplatsinformation
 trustpanel-blocker-see-all = Visa alla
+trustpanel-blocker-see-trackers-button = Se spårare
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1837,6 +1843,18 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> spårare blockerad på den här webbplatsen
        *[other] <span data-l10n-name="count">{ $count }</span> spårare blockerade på den här webbplatsen
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } blockerade <span data-l10n-name="count">{ $count }</span> spårare på den här webbplatsen
+       *[other] { -brand-short-name } blockerade <span data-l10n-name="count">{ $count }</span> spårare på den här webbplatsen
+    }
+trustpanel-blocker-description-redesign = Dessa trackers blockerades från att samla in information om din surfning.
+trustpanel-no-trackers-header-redesign = Inga trackers hittades på denna webbplats
+trustpanel-no-trackers-description-redesign = { -brand-short-name } sökte efter kända spårare och hittade inga.
+trustpanel-etp-off-description-redesign = Slå på skydd och { -brand-short-name } kommer att blockera kända spårare från att samla in information om din surfning.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

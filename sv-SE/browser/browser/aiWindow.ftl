@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Senaste chattar
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Ny flik
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Öppna i nytt { -smart-window-brand-name }
+    .accesskey = Ö
 
 ## Smart Window Toggle Button
 
@@ -362,6 +365,15 @@ aiwindow-starter-planning-plan = Hjälp till att göra en plan
 aiwindow-starter-browsing-history = Hitta flikar i historiken
 aiwindow-starter-browsing-summarize = Sammanfatta flikar
 aiwindow-starter-browsing-compare = Jämför flikar
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = Ignorera { $text }
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

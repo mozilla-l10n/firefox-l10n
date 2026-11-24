@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Döljer din riktiga e-postadress för att skydda din inkorg från skräppost.
     .label = Föreslå { -relay-brand-name } e-postalias
+preferences-window-lock-macos =
+    .description = { -brand-short-name } kommer att be om lösenordet för enheten eller lösenordsnyckeln när din dator har låsts, försatts i viloläge eller startar skärmsläckaren.
+    .label = Lås privata fönster automatiskt
+preferences-window-lock-windows =
+    .description = { -brand-short-name } kommer att be om lösenordet eller lösenordsnyckeln för enheten efter att datorn har låsts.
+    .label = Lås privata fönster automatiskt
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

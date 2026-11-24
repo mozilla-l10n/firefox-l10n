@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = Il arrive que les sites web se 
 fp-learn-more-about-https-connections = En savoir plus sur les connexions HTTPS
 fp-neterror-vpn-error-title = Impossible de se connecter au VPN
 fp-neterror-vpn-error-description = Réessayez dans quelques minutes.
+fp-neterror-vpn-error-continue-button = Continuer sans le VPN
+    .accesskey = C
 fp-neterror-denied-port-access = Cette adresse utilise un port réseau inhabituel pour la navigation web. Par mesure de sécurité, { -brand-short-name } a abandonné la requête.

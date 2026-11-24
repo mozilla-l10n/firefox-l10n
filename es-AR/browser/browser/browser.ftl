@@ -1208,6 +1208,7 @@ qrcode-save-button =
     .label = Guardar
 qrcode-window-title = Código QR
 qrcode-dialog-title = Código QR
+qrcode-dialog-title-download-mobile = Descargar { -brand-product-name } para dispositivos móviles
 qrcode-image =
     .aria-label = Código QR
 qrcode-close-button =
@@ -1693,6 +1694,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Protección de rastreo aumentada activada
 trustpanel-etp-label-disabled = Protección de rastreo aumentada desactivada
+trustpanel-etp-label-redesign = Protección de rastreo aumentada
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1715,7 +1717,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } notó algo sos
 trustpanel-header-disabled = Desactivó las protecciones
 trustpanel-description-disabled = { -brand-product-name } está fuera de servicio. Sugerimos volver a activar las protecciones.
 trustpanel-clear-cookies-button = Borrar cookies y datos del sitio
+trustpanel-delete-site-data-button = Borrar datos del sitio
+trustpanel-fix-site-issue-button = Corregir problema del sitio
 trustpanel-privacy-link = Configuración de privacidad
+trustpanel-manage-settings-button = Administrar preferencias
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1729,6 +1734,7 @@ trustpanel-site-information-header =
     .title = Protecciones de conexión para { $host }
 trustpanel-siteinformation-morelink = Más información del sitio
 trustpanel-blocker-see-all = Ver todo
+trustpanel-blocker-see-trackers-button = Ver rastreadores
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1838,6 +1844,18 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado en este sitio
        *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados en este sitio
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } bloqueó <span data-l10n-name="count">{ $count }</span> rastreador en este sitio
+       *[other] { -brand-short-name } bloqueó <span data-l10n-name="count">{ $count }</span> rastreadores en este sitio
+    }
+trustpanel-blocker-description-redesign = Estos rastreadores fueron bloqueados para que no recopilen información sobre la navegación.
+trustpanel-no-trackers-header-redesign = No se encontraron rastreadores en este sitio
+trustpanel-no-trackers-description-redesign = { -brand-short-name } buscó rastreadores conocidos y no encontró ninguno.
+trustpanel-etp-off-description-redesign = Habilite protecciones y { -brand-short-name } bloqueará a los rastreadores conocidos para que no recopilen información sobre la navegación.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

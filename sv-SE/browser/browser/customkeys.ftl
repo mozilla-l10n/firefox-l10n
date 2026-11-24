@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Ljud av/på
 customkeys-edit-find-previous = Sök tidigare
 customkeys-edit-find-selection = Använd markering för sökning
 customkeys-tools-screenshot = Ta en skärmbild
+customkeys-tools-lock-windows = Lås privata fönster
 customkeys-category-navigation-2 =
     .heading = Navigering
 customkeys-caution-message = Den här funktionen är experimentell och kanske inte fungerar som förväntat.

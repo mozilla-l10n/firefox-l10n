@@ -283,6 +283,12 @@ ipprotection-come-back-title = Kom tillbaka för att prova inbyggt VPN
 ipprotection-message-body-hide-location = Dölj din plats när du surfar i { -brand-product-name } för mer integritet och kontroll.
 ipprotection-connection-status-generic-error-title-1 = Kunde inte ansluta till VPN
     .aria-label = Kunde inte ansluta till VPN
+ipprotection-connection-status-try-again-button = Försök igen
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Fortsätt utan VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Försöker igen…
+    .aria-label = Försöker igen…
 
 ## IP Protection bandwidth callouts
 

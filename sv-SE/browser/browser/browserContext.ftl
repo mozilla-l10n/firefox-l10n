@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Redigera bokmärke…
     .tooltiptext = Redigera bokmärke ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Öppna
+    .accesskey = Ö
+main-context-menu-open-link-new-tab-2 =
+    .label = Öppna i ny flik
+    .accesskey = Ö
+main-context-menu-open-link-split-view-2 =
+    .label = Öppna i delad vy
+    .accesskey = Ö
+main-context-menu-open-link-container-tab-2 =
+    .label = Öppna i ny innehållsflik
+    .accesskey = Ö
+main-context-menu-open-link-new-window-2 =
+    .label = Öppna i nytt fönster
+    .accesskey = Ö
+main-context-menu-open-link-mini-window =
+    .label = Öppna i minifönster
+    .accesskey = Ö
+main-context-menu-open-link-new-private-window-2 =
+    .label = Öppna i nytt privat fönster
+    .accesskey = Ö
+main-context-menu-bookmark-link-3 =
+    .label = Bokmärk…
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Aktivera åtgärdsmenyn
     .accesskey = A
+main-context-menu-link-send-to-your-devices =
+    .label = Skicka till dina enheter
+    .accesskey = S
 main-context-menu-link-send-to-device =
     .label = Skicka länk till enhet
     .accesskey = e
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Lär dig mer om DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Öppna i ny { $containerName } flik
+    .accesskey = Ö
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
