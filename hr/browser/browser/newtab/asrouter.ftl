@@ -434,9 +434,9 @@ set-default-menu-message-split-layout-subtitle =
         [macos] Postavi ga kao standardni i ostavi ga u Docku.
        *[other] Ostvari brže pregledavanje i automatsku zaštitu privatnosti.
     }
-set-default-menu-message-primary-button = Postavi kao zadano
+set-default-menu-message-primary-button = Postavi kao standardni
 set-default-menu-message-primary-button-variant = Postavi kao primarni preglednik
-set-default-menu-message-primary-button-short-variant = Postavi { -brand-short-name } kao zadani preglednik
+set-default-menu-message-primary-button-short-variant = Postavi { -brand-short-name } kao standardni preglednik
 
 ## Firefox Relay 50 Masks Announcement
 

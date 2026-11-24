@@ -939,7 +939,7 @@ search-separate-default-engine-2 =
     .label = Koristi jednu drugu standardnu tražilicu u privatnim prozorima
     .accesskey = u
 search-separate-default-engine-dropdown =
-    .aria-label = Zadana tražilica u privatnim prozorima
+    .aria-label = Standardna tražilica u privatnim prozorima
 # "Navigation" here means moving around within the address bar and its results
 # list, not navigation to the address bar.
 addressbar-navigation-group =

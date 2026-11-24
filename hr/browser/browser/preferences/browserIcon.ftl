@@ -43,14 +43,14 @@ appearance-browser-icon-requirement =
 appearance-browser-icon-unlocked =
     .message = Otključao/la si sve dodatne ikone!
 appearance-browser-icon-set-default-button =
-    .label = Postavi kao zadano
+    .label = Postavi kao standardno
 appearance-browser-icon-pin-button =
     .label = Prikvači na programsku traku
 
 ## Icon names
 
 appearance-browser-icon-default =
-    .label = Zadano
+    .label = Standardno
 appearance-browser-icon-retro2004 =
     .label = Retro 2004.
 appearance-browser-icon-retro2017 =
