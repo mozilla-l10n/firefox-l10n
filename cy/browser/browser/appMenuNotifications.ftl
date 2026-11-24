@@ -65,3 +65,10 @@ appmenu-tab-hide-controlled =
     .label = Mynd i’ch Tabiau Cudd
     .secondarybuttonlabel = Analluogi Estyniad
     .secondarybuttonaccesskey = A
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = Mae'r estyniad <img data-l10n-name="addon-icon"/> { $addonName }, wedi newid y ffenestr rydych yn ei weld pan fyddwch yn agor tab newydd.
