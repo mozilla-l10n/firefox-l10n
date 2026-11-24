@@ -155,6 +155,9 @@ webext-site-perms-serial = Acceder a dispositivos serie
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
 webext-uninstall-confirmation-title = Desinstalar { $extension }
+webext-uninstall-confirmation-message = La extensión “{ $extension }” está solicitando ser desinstalada. ¿Qué desea hacer?
+webext-uninstall-confirmation-button-uninstall = Desinstalar
+webext-uninstall-confirmation-button-keep = Conservar instalado
 
 ## Colorway theme migration
 
