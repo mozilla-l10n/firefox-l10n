@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = O { -brand-full-name(case: "loc") }
+    .title = O { -brand-full-name(case: "dat") }
 releaseNotes-link = Što je novo
 update-checkForUpdatesButton =
     .label = Traži nove verzije

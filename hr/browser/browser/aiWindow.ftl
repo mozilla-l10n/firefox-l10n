@@ -302,3 +302,7 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Odbaci { $text }
     .title = Odbaci { $text }
+
+## Single-page onboarding
+
+smartwindow-onboarding-memories-label = Odaberi kako { -smart-window-brand-name } saznaje o tebi

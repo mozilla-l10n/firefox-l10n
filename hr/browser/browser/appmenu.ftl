@@ -303,7 +303,7 @@ appmenu-bookmarks-sync-promo-connectdevice =
 appmenu-help-header =
     .title = Pomoć za { -brand-shorter-name }
 appmenu-about =
-    .label = O { -brand-shorter-name(case: "loc") }
+    .label = O { -brand-shorter-name(case: "dat") }
     .accesskey = O
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
@@ -363,7 +363,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Prijavi se na tvoj račun
 appmenuitem-monitor-title2 = Budite ispred krađe identiteta
-appmenuitem-monitor-description2 = Primajte upozorenja o curenju podataka
+appmenuitem-monitor-description2 = Primaj upozorenja o curenju podataka
 # Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
 appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } upozorenja o curenju podataka
 appmenuitem-monitor-title = { -monitor-brand-short-name }

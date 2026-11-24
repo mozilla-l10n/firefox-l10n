@@ -1707,6 +1707,8 @@ trustpanel-etp-toggle-off =
 trustpanel-etp-description-enabled = ਜੇ ਇਸ ਸਾਈਟ ਉੱਤੇ ਕੁਝ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ ਤਾਂ ਕੁਝ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕਰਕੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 trustpanel-etp-description-disabled = { -brand-product-name } ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡਾ ਘੱਟ ਪਿੱਛਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਵੱਧ ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ।
 trustpanel-trackercount-label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਪਾਬੰਦੀ ਲਾਏ ਟਰੈਕਰਾਂ ਨੂੰ ਵੇਖਾਓ
+trustpanel-trackercount-toggle =
+    .aria-label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਪਾਬੰਦੀ ਲਾਏ ਟਰੈਕਰਾਂ ਨੂੰ ਵੇਖਾਓ
 trustpanel-connection-label-secure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਹੈ
 trustpanel-connection-label-insecure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ
 trustpanel-header-enabled = { -brand-product-name } ਪਹਿਰੇ ਉੱਤੇ ਹੈ
@@ -1716,7 +1718,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } ਨੂੰ ਕ�
 trustpanel-header-disabled = ਤੁਸੀਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕੀਤਾ ਹੈ
 trustpanel-description-disabled = { -brand-product-name } ਛੁੱਟੀ ਉੱਤੇ ਹੈ। ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰਨ ਦੀ ਸਲਾਹ ਦਿੰਦੇ ਹਾਂ।
 trustpanel-clear-cookies-button = ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟਾ ਨੂੰ ਮਿਟਾਓ
+trustpanel-delete-site-data-button = ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
+trustpanel-fix-site-issue-button = ਸਾਈਟ ਮਸਲੇ ਨੂੰ ਠੀਕ ਕਰੋ
 trustpanel-privacy-link = ਪਰਦੇਦਾਰੀ ਸੈਟਿੰਗਾਂ
+trustpanel-manage-settings-button = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1730,6 +1735,7 @@ trustpanel-site-information-header =
     .title = { $host } ਲਈ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਆਵਾਂ
 trustpanel-siteinformation-morelink = ਸਾਈਟ ਦੇ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ
 trustpanel-blocker-see-all = ਸਾਰੇ ਵੇਖੋ
+trustpanel-blocker-see-trackers-button = ਟਰੈਕਰਾਂ ਨੂੰ ਵੇਖੋ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1839,6 +1845,13 @@ trustpanel-blocker-section-header2 =
         [one] ਇਸ ਸਾਈਟ ਉੱਤੇ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ
        *[other] ਇਸ ਸਾਈਟ ਉੱਤੇ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-description-redesign = ਇਹਨਾਂ ਟਰੈਕਰਾਂ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨੂੰ ਇਕੱਤਰ ਕਰਨ ਤੋਂ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਸੀ।
+trustpanel-no-trackers-header-redesign = ਇਸ ਸਾਈਟ ਉੱਤੇ ਕੋਈ ਟਰੈਕਰ ਨਹੀਂ ਲੱਭੇ
+trustpanel-no-trackers-description-redesign = { -brand-short-name } ਨੇ ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ ਅਤੇ ਕੋਈ ਵੀ ਨਹੀਂ ਲੱਭਿਆ ਹੈ।
+trustpanel-etp-off-description-redesign = ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰੋ ਅਤੇ { -brand-short-name } ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਤੋਂ ਰੋਕ ਦੇਵੇਗਾ।
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
