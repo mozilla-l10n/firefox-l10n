@@ -119,7 +119,7 @@ options-sourceeditor-keybinding-default-label = Standard
 ## Local Mode section
 
 options-local-mode-folder-label = Lokalna mapa:
-options-local-mode-toggle-enable = Omogući
+options-local-mode-toggle-enable = Aktiviraj
 options-local-mode-toggle-disable = Onemogući
 
 ## Advanced section

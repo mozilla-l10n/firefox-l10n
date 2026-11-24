@@ -502,7 +502,7 @@ details-notification-gmp-pending2 =
 
 plugins-gmp-license-info = Informacije o licenci
 plugins-gmp-privacy-info = Informacije o privatnosti
-plugins-openh264-name = OpenH264 Video Codec je omogućio Cisco Systems, Inc.
+plugins-openh264-name = OpenH264 Video Codec omogućuje Cisco Systems, Inc.
 plugins-openh264-description = Ovaj priključak je automatski instalirala Mozilla da bi se zadovoljili uvjeti WebRTC specifikacije i omogućili WebRTC pozivi s uređajima koji zahtijevaju H.264 video kodek. Posjeti https://www.openh264.org/ za prikaz izvornog koda kodeka i za daljnje informacije o implementaciji.
 plugins-widevine-name = Widevine Content Decryption Module omogućuje Google Inc.
 plugins-widevine-description = Ovaj dodatak omogućuje reprodukciju kodiranih medija u skladu sa Encrypted Media Extensions specifikacijom. Stranice obično koriste kodirane medije za zaštitu od kopiranja vrhunskog medijskog sadržaja. Posjetite https://www.w3.org/TR/encrypted-media/ za više informacija o Encrypted Media Extensions.
@@ -615,7 +615,7 @@ aboutaddons-themes-picker-see-less = Prikaži manje
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
 aboutaddons-themes-picker-enable-button =
-    .label = Omogući
+    .label = Aktiviraj
 aboutaddons-themes-picker-disable-button =
     .label = Onemogući
 aboutaddons-themes-picker-install-button =

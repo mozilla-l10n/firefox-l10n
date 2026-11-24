@@ -866,7 +866,7 @@ newtab-appearance-manage-title = { -brand-product-name } teme
 newtab-appearance-your-themes-header = Tvoje teme
 # Button that enables an already-installed theme.
 newtab-appearance-enable-theme-button =
-    .label = Omogući
+    .label = Aktiviraj
 # Button that disables the active theme and reverts to the default.
 newtab-appearance-disable-theme-button =
     .label = Onemogući
