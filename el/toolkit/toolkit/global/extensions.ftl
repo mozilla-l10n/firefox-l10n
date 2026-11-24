@@ -81,6 +81,8 @@ webext-perms-host-description-multiple-domains =
     { $domainCount ->
        *[other] Πρόσβαση στα δεδομένα σας για ιστοτόπους σε { $domainCount } τομείς
     }
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = Αποθήκευση ως
 
 ## Strings for data collection permissions in the permission prompt.
 
@@ -146,6 +148,11 @@ webext-site-perms-header-unsigned-with-perms = Προσθήκη του { $extens
 webext-site-perms-midi = Πρόσβαση σε συσκευές MIDI
 webext-site-perms-midi-sysex = Πρόσβαση σε συσκευές MIDI με υποστήριξη SysEx
 webext-site-perms-serial = Πρόσβαση σε σειριακές συσκευές
+
+## Confirmation dialog shown when an extension requests to uninstall itself.
+## Variables:
+##   $extension (String): name of the extension which is about to be uninstalled.
+
 
 ## Colorway theme migration
 
