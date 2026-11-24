@@ -156,6 +156,10 @@ webext-site-perms-serial = Prístup k sériovým zariadeniam
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Odinštalovať { $extension }
+webext-uninstall-confirmation-message = Rozšírenie “{ $extension }” žiada o odinštaláciu. Čo si želáte urobiť?
+webext-uninstall-confirmation-button-uninstall = Odinštalovať
+webext-uninstall-confirmation-button-keep = Ponechať nainštalované
 
 ## Colorway theme migration
 
