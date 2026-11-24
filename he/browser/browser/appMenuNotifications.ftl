@@ -65,3 +65,13 @@ appmenu-tab-hide-controlled =
     .label = גישה ללשוניות המוסתרות שלך
     .secondarybuttonlabel = השבתת הרחבה
     .secondarybuttonaccesskey = ב
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = ההרחבה <img data-l10n-name="addon-icon"/> { $addonName } שינתה את הדף המוצג בעת פתיחת לשונית חדשה.
+appmenu-homepage-controlled-message = ההרחבה <img data-l10n-name="addon-icon"/> { $addonName } שינתה את מה שמופיע בעת פתיחת דף הבית וחלונות חדשים.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = ההרחבה <img data-l10n-name="addon-icon"/> { $addonName } מסתירה חלק מהלשוניות שלך. באפשרותך עדיין לגשת לכל הלשוניות שלך דרך <img data-l10n-name="all-tabs-icon"/>.
