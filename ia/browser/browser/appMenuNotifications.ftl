@@ -73,3 +73,5 @@ appmenu-tab-hide-controlled =
 
 appmenu-new-tab-controlled-message = Un extension, <img data-l10n-name="addon-icon"/> { $addonName }, cambiava le pagina que tu vide quando tu aperir un nove scheda.
 appmenu-homepage-controlled-message = Un extension, <img data-l10n-name="addon-icon"/> { $addonName }, cambiava lo que tu vide quando tu aperi tu pagina principal e un nove fenestra.
+# The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
+appmenu-tab-hide-controlled-message = Un extension, <img data-l10n-name="addon-icon"/> { $addonName }, occulta alcunes de tu schedas. Totevia, tu pote acceder a tote tu schedas desde <img data-l10n-name="all-tabs-icon"/>.
