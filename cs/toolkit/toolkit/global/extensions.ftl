@@ -156,6 +156,7 @@ webext-site-perms-serial = Přístup k sériovým zařízením
 ## Variables:
 ##   $extension (String): name of the extension which is about to be uninstalled.
 
+webext-uninstall-confirmation-title = Odinstalovat { $extension }
 webext-uninstall-confirmation-message = Rozšíření “{ $extension }” žádá o odinstalaci. Co si přejete udělat?
 webext-uninstall-confirmation-button-uninstall = Odinstalovat
 webext-uninstall-confirmation-button-keep = Ponechat nainstalované
