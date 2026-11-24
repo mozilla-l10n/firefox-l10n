@@ -198,6 +198,7 @@ tab-groups-2026-onboarding-cta-button = Kupku rejtarikow napóraś
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
+closed-browser-notifications-callout-title = Webpowěźeńki ze zacynjonym { -brand-short-name } dostaś
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Zastojaś
 # Stops notifications from being delivered while the browser is closed.

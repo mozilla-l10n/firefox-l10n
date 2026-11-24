@@ -7,8 +7,14 @@
 ## sleep or starts the screen saver, or after the user presses the shortcut to
 ## lock windows.
 
+window-lock-private-title = Priwatne wokna su zastajone
+window-lock-private-description-macos = { -brand-short-name } waše priwatne boki chowa, gaž se wašo licadło zastaja, do měrnego stawa pśejźo abo wobrazkowy šćit startujo.
+window-lock-private-description-windows = { -brand-short-name } waše priwatne boki chowa, gaž se wašo licadło zastaja.
 window-lock-unlock-button =
     .label = Wótwóriś
+# Shown on the lock screen when the operating system authentication prompt failed with an error.
+window-lock-auth-error =
+    .message = Waša identita njedajo se pśeglědaś. Wopytajśo hyšći raz.
 # Title of the Windows authentication prompt when unlocking browser windows.
 window-lock-os-auth-dialog-caption = { -brand-full-name }
 # This message is shown in the macOS authentication prompt when unlocking Private Windows.
