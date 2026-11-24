@@ -186,6 +186,20 @@ link-preview-onboarding-callout-description = Vea una descripción breve, conozc
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Crear un grupo
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Recibir notificaciones web con { -brand-short-name } cerrado
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Los sitios que lo tengan permitido, ahora pueden enviar notificaciones incluso cuando { -brand-short-name } está cerrado. <a data-l10n-name="learn-more">Conocer más</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Administrar
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Desactivar
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Seguir así
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar los títulos de las pestañas en la barra lateral
