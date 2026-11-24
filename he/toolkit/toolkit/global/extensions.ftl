@@ -78,6 +78,8 @@ webext-perms-host-description-one-domain = גישה לנתונים שלך עבו
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = גישה לנתונים שלך עבור אתרים ב־{ $domainCount } שמות מתחם
+# Title of the file picker opened when an extension saves a page as PDF.
+webext-save-as-pdf-dialog-title = שמירה בשם
 
 ## Strings for data collection permissions in the permission prompt.
 
