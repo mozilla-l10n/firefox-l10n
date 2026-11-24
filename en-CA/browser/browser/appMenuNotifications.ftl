@@ -65,3 +65,10 @@ appmenu-tab-hide-controlled =
     .label = Access Your Hidden Tabs
     .secondarybuttonlabel = Disable Extension
     .secondarybuttonaccesskey = D
+
+## Descriptions of the doorhangers shown when an extension changes a setting.
+## The <img data-l10n-name="addon-icon"/> element is the icon of the extension.
+## Variables:
+##   $addonName (String): name of the extension.
+
+appmenu-new-tab-controlled-message = An extension, <img data-l10n-name="addon-icon"/> { $addonName }, changed the page you see when you open a new tab.
