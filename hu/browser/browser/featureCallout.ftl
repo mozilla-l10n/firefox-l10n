@@ -198,6 +198,9 @@ tab-groups-2026-onboarding-cta-button = Csoport indítása
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
+closed-browser-notifications-callout-title = Kapja meg a webes értesítéseket a { -brand-short-name } bezárása után is
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Az engedélyezett webhelyek mostantól akkor is küldhetnek értesítéseket, ha a { -brand-short-name } be van zárva. <a data-l10n-name="learn-more">További tudnivalók</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Kezelés
 # Stops notifications from being delivered while the browser is closed.
