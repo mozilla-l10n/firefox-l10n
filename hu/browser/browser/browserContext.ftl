@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Könyvjelző szerkesztése…
     .tooltiptext = Könyvjelző szerkesztése ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Megnyitás
+    .accesskey = M
+main-context-menu-open-link-new-tab-2 =
+    .label = Megnyitás új lapon
+    .accesskey = l
+main-context-menu-open-link-split-view-2 =
+    .label = Megnyitás osztott nézetben
+    .accesskey = o
+main-context-menu-open-link-container-tab-2 =
+    .label = Megnyitás új konténerlapon
+    .accesskey = k
+main-context-menu-open-link-new-window-2 =
+    .label = Megnyitás új ablakban
+    .accesskey = a
+main-context-menu-open-link-mini-window =
+    .label = Megnyitás mini ablakban
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = Megnyitás új privát ablakban
+    .accesskey = p
+main-context-menu-bookmark-link-3 =
+    .label = Könyvjelzőzés…
+    .accesskey = K
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Műveletek menü bekapcsolása
     .accesskey = M
+main-context-menu-link-send-to-your-devices =
+    .label = Küldés eszközre
+    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Hivatkozás küldése eszközre
     .accesskey = e
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Tudjon meg többet a DRM-ről…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Megnyitás új { $containerName }-lapon
+    .accesskey = M
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

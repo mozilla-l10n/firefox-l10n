@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Hang némítása be/ki
 customkeys-edit-find-previous = Előző keresése
 customkeys-edit-find-selection = Kijelölés használata a kereséshez
 customkeys-tools-screenshot = Képernyőkép készítése
+customkeys-tools-lock-windows = Privát ablak zárolása
 customkeys-category-navigation-2 =
     .heading = Navigáció
 customkeys-caution-message = Ez egy kísérleti funkció, és lehet, hogy nem a várt módon működik.

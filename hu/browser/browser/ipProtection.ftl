@@ -279,6 +279,12 @@ ipprotection-come-back-title = Térjen vissza, és próbálja ki a beépített V
 ipprotection-message-body-hide-location = Rejtse el a tartózkodási helyét a { -brand-product-name } böngészőben a nagyobb adatvédelem és irányítás érdekében.
 ipprotection-connection-status-generic-error-title-1 = Nem sikerült kapcsolódni a VPN-hez
     .aria-label = Nem sikerült kapcsolódni a VPN-hez
+ipprotection-connection-status-try-again-button = Újrapróbálkozás
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Folytatás VPN nélkül
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Újrapróbálkozás…
+    .aria-label = Újrapróbálkozás…
 
 ## IP Protection bandwidth callouts
 

@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Legutóbbi csevegések
 smartwindow-fullpage-heading = { -smart-window-brand-name(case: "upper") }
 smartwindow-document-title = Új lap
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Megnyitás új { -smart-window-brand-name(case: "lower") }ban
+    .accesskey = i
 
 ## Smart Window Toggle Button
 
@@ -362,6 +365,15 @@ aiwindow-starter-planning-plan = Segíts egy terv elkészítésében
 aiwindow-starter-browsing-history = Keress lapokat az előzményekben
 aiwindow-starter-browsing-summarize = Összegezz lapokat
 aiwindow-starter-browsing-compare = Hasonlíts össze lapokat
+
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = { $text } eltüntetése
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

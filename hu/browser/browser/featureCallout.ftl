@@ -194,6 +194,17 @@ tab-groups-2026-onboarding-callout-subtitle = Csoportosítsa a lapjait feladatok
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Csoport indítása
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Kezelés
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Kikapcsolás
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Megtartás így
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban

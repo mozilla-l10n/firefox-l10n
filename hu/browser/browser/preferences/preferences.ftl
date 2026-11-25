@@ -17,6 +17,9 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Elrejti a valódi e-mail-címét, hogy megvédje postafiókját a kéretlen tartalomtól.
     .label = { -relay-brand-name } e-mail-maszkok javaslata
+preferences-window-lock-macos =
+    .description = A { -brand-short-name } eszközjelszót vagy jelkulcsot fog kérni a számítógép zárolása vagy alvó módba váltása, illetve a képernyővédő elindulása után.
+    .label = Privát ablakok automatikus zárolása
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

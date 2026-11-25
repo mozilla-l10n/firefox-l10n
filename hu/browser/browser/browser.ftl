@@ -1208,6 +1208,7 @@ qrcode-save-button =
     .label = Mentés
 qrcode-window-title = QR-kód
 qrcode-dialog-title = QR-kód
+qrcode-dialog-title-download-mobile = Mobilos { -brand-product-name } letöltése
 qrcode-image =
     .aria-label = QR-kód
 qrcode-close-button =
@@ -1695,6 +1696,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = A fokozott követés elleni védelem be van kapcsolva
 trustpanel-etp-label-disabled = A fokozott követés elleni védelem ki van kapcsolva
+trustpanel-etp-label-redesign = Fokozott követés elleni védelem
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1717,7 +1719,10 @@ trustpanel-description-enabled-insecure = A { -brand-product-name } valami gyan�
 trustpanel-header-disabled = Kikapcsolta a védelmeket
 trustpanel-description-disabled = A { -brand-product-name } szolgálaton kívül van. Javasoljuk a védelmek ismételt bekapcsolását.
 trustpanel-clear-cookies-button = Sütik és oldaladatok törlése
+trustpanel-delete-site-data-button = Webhelyadatok törlése
+trustpanel-fix-site-issue-button = Oldalhiba javítása
 trustpanel-privacy-link = Adatvédelmi beállítások
+trustpanel-manage-settings-button = Beállítások kezelése
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1731,6 +1736,7 @@ trustpanel-site-information-header =
     .title = A(z) { $host } kapcsolatának védelmei
 trustpanel-siteinformation-morelink = További webhely-információk
 trustpanel-blocker-see-all = Összes megjelenítése
+trustpanel-blocker-see-trackers-button = Követők megtekintése
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1840,6 +1846,18 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
        *[other] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] A { -brand-short-name } <span data-l10n-name="count">{ $count }</span> követőt blokkolt ezen az oldalon
+       *[other] A { -brand-short-name } <span data-l10n-name="count">{ $count }</span> követőt blokkolt ezen az oldalon
+    }
+trustpanel-blocker-description-redesign = Ezek a követők blokkolva lettek, hogy ne gyűjtsenek információt a böngészéséről.
+trustpanel-no-trackers-header-redesign = Ezen a webhelyen nem találhatók nyomkövetők
+trustpanel-no-trackers-description-redesign = A { -brand-short-name } ellenőrizte az ismert nyomkövetőket, de egyet sem talált.
+trustpanel-etp-off-description-redesign = Kapcsolja be a védelmet, és a { -brand-short-name } blokkolni fogja az ismert nyomkövetőket, hogy ne gyűjtsenek információkat a böngészéséről.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
