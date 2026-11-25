@@ -58,6 +58,7 @@ customkeys-nav-select-tab-8 = Přejít na panel 8
 customkeys-nav-select-last-tab = Přejít na poslední panel
 customkeys-nav-toggle-mute = Vypnout/Zapnout zvuk
 customkeys-edit-find-previous = Najít předchozí
+customkeys-edit-find-selection = Použít označený text na vyhledávání
 customkeys-tools-screenshot = Pořídit snímek stránky
 customkeys-category-navigation-2 =
     .heading = Navigace

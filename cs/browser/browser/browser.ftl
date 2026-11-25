@@ -1906,6 +1906,7 @@ trustpanel-site-information-header =
     .title = Ochrana spojení pro { $host }
 trustpanel-siteinformation-morelink = Více informací o webu
 trustpanel-blocker-see-all = Zobrazit vše
+trustpanel-blocker-see-trackers-button = Zobrazit sledovací prvky
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -2055,6 +2056,13 @@ trustpanel-blocker-section-header2 =
         [many] Na této stránce je zablokováno <span data-l10n-name="count">{ $count }</span> sledovacích prvků
        *[other] Na této stránce je zablokováno <span data-l10n-name="count">{ $count }</span> sledovacích prvků
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-description-redesign = Těmto sledovacím prvkům bylo zabráněno ve shromažďování informací o vašem prohlížení.
+trustpanel-no-trackers-header-redesign = Na této stránce nebyly nalezeny žádné sledovací prvky
+trustpanel-no-trackers-description-redesign = { -brand-short-name } vyhledal známé sledovací prvky, ale žádné nenašel.
+trustpanel-etp-off-description-redesign = Zapněte ochranu a { -brand-short-name } zabrání známým sledovacím prvkům ve shromažďování údajů o vašem prohlížení.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
