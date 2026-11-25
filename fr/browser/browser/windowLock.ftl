@@ -8,7 +8,7 @@
 ## lock windows.
 
 window-lock-private-title = Les fenêtres de navigation privée sont verrouillées
-window-lock-private-description-macos = { -brand-short-name } masque vos pages privées lorsque votre ordinateur se verrouille, se met en veille ou démarre l’écran de veille.
+window-lock-private-description-macos = { -brand-short-name } masque vos pages privées lorsque votre ordinateur est verrouillé, se met en veille ou active l’économiseur d’écran.
 window-lock-private-description-windows = { -brand-short-name } masque vos pages privées lorsque votre ordinateur est verrouillé.
 window-lock-unlock-button =
     .label = Déverrouiller

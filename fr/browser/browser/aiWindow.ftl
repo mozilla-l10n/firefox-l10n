@@ -397,7 +397,7 @@ aiwindow-starter-dismiss =
 smartwindow-onboarding-welcome-subtitle =
     Elles vous accompagnent pour mener à bien vos tâches.
     Planifiez, comparez, explorez et bien plus encore.
-smartwindow-onboarding-title = Adaptons-le à vous
+smartwindow-onboarding-title = Adaptons-les à vous
 smartwindow-onboarding-subtitle = Personnalisez les { -smart-window-brand-name(form: "lower-plural") } selon vos préférences. Vous pourrez modifier ces choix à tout moment dans les paramètres.
 smartwindow-onboarding-model-label = Choisissez votre modèle d’IA
 smartwindow-onboarding-model-description = Le modèle permet de discuter et d’effectuer des actions dans les { -smart-window-brand-name(form: "lower-plural") }.

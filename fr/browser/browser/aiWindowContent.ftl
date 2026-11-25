@@ -213,7 +213,7 @@ action-log-searched-web-with-exa = Recherche sur le Web avec <a data-l10n-name="
 # from the search results. Exa is the name of a third-party web search API and a
 # brand name that should not be translated. The <a> wraps "Exa" as a link to a
 # support article explaining the third-party web search integration.
-action-log-searched-and-answered-with-exa = Recherche et réponse avec <a data-l10n-name="exa-link">Exa</a>
+action-log-searched-and-answered-with-exa = Recherche et réponse effectuées avec <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Consultation des souvenirs
 action-log-checked-memories = Souvenirs consultés
 action-log-searching-settings = Recherche dans les paramètres

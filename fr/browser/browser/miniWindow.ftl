@@ -14,8 +14,8 @@ mini-window-restore-button =
 # Button appearing in a Mini Window that was opened from a link on a webpage.
 # Clicking the button will move the Mini Window tab to the window it was opened from.
 mini-window-link-restore-button =
-    .label = Déplacer l’onglet dans une fenêtre
-    .tooltiptext = Déplacer l’onglet dans une fenêtre
+    .label = Renvoyer l’onglet dans sa fenêtre
+    .tooltiptext = Renvoyer l’onglet dans sa fenêtre
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is

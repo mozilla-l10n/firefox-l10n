@@ -33,9 +33,9 @@ about-webauthn-text-non-ctap2-device = Impossible de gérer les options, car vot
 about-webauthn-text-not-available = Non disponible sur cette plateforme.
 about-webauthn-bio-enrollment-list-subsection-title = Enregistrements :
 about-webauthn-add-bio-enrollment-section-title = Ajouter un nouvel enregistrement
-about-webauthn-logging-warning = Le journal peut contenir des informations personnelles, telles que des noms d’utilisateur, des identifiants de compte et des adresses de sites web. Vérifiez-le avant de la partager.
+about-webauthn-logging-warning = Le journal peut contenir des informations personnelles, comme des noms d’utilisateur, des identifiants de compte et des adresses de sites web. Vérifiez son contenu avant de le partager.
 # CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
-about-webauthn-logging-scope-note = Cela journalise uniquement les requêtes adressées à l’implémentation CTAP native de { -brand-short-name }. Il n’enregistre pas les requêtes envoyées aux API de la plateforme WebAuthn ou aux extensions de navigateur.
+about-webauthn-logging-scope-note = Seules les requêtes adressées à l’implémentation CTAP native de { -brand-short-name } sont consignées. Les requêtes envoyées aux API WebAuthn de la plateforme ou aux extensions de navigateur ne le sont pas.
 
 ## Results label
 
