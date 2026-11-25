@@ -1715,6 +1715,7 @@ trustpanel-header-disabled = Απενεργοποιήσατε την προστ�
 trustpanel-description-disabled = Το { -brand-product-name } είναι εκτός υπηρεσίας. Προτείνουμε να ενεργοποιήσετε ξανά την προστασία.
 trustpanel-clear-cookies-button = Απαλοιφή cookie και δεδομένων ιστοτόπου
 trustpanel-privacy-link = Ρυθμίσεις απορρήτου
+trustpanel-manage-settings-button = Διαχείριση ρυθμίσεων
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =

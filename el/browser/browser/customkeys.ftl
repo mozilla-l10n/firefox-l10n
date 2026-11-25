@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Σίγαση/Άρση σίγασης ήχου
 customkeys-edit-find-previous = Εύρεση προηγουμένου
 customkeys-edit-find-selection = Χρήση επιλογής για εύρεση
 customkeys-tools-screenshot = Λήψη στιγμιότυπου
+customkeys-tools-lock-windows = Κλείδωμα ιδιωτικών παραθύρων
 customkeys-category-navigation-2 =
     .heading = Πλοήγηση
 customkeys-caution-message = Αυτή η λειτουργία είναι πειραματική και ενδέχεται να μην λειτουργεί με τον αναμενόμενο τρόπο.
