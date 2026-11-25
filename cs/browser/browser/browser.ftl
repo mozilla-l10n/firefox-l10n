@@ -1288,6 +1288,11 @@ qrcode-save-button =
     .label = Uložit
 qrcode-window-title = QR kód
 qrcode-dialog-title = QR kód
+qrcode-dialog-title-download-mobile =
+    { -brand-product-name.case-status ->
+        [with-cases] Stáhnout { -brand-product-name(case: "acc") } pro mobily
+       *[no-cases] Stáhnout aplikaci { -brand-product-name } pro mobily
+    }
 qrcode-image =
     .aria-label = QR kód
 qrcode-close-button =
@@ -1857,6 +1862,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Rozšířená ochrana proti sledování je zapnuta
 trustpanel-etp-label-disabled = Rozšířená ochrana proti sledování je vypnuta
+trustpanel-etp-label-redesign = Rozšířená ochrana proti sledování
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1871,6 +1877,9 @@ trustpanel-etp-description-disabled =
         [with-cases] { -brand-product-name } si myslí, že by vás společnosti měly sledovat méně. Když si zapnete ochranu, blokujeme tolik sledovacích prvků, kolik jen můžeme.
        *[no-cases] Aplikace { -brand-product-name } si myslí, že by vás společnosti měly sledovat méně. Když si zapnete ochranu, blokujeme tolik sledovacích prvků, kolik jen můžeme.
     }
+trustpanel-trackercount-label = Zobrazovat počet zablokovaných sledovacích prvků v adresním řádku
+trustpanel-trackercount-toggle =
+    .aria-label = Zobrazovat počet zablokovaných sledovacích prvků v adresním řádku
 trustpanel-connection-label-secure = Zabezpečené spojení
 trustpanel-connection-label-insecure = Spojení není zabezpečené
 trustpanel-header-enabled = { -brand-product-name } je ve střehu
@@ -1880,7 +1889,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } si všiml ně�
 trustpanel-header-disabled = Vypnuli jste ochranu
 trustpanel-description-disabled = { -brand-product-name } není ve střehu. Doporučujeme vám ochranu opět zapnout.
 trustpanel-clear-cookies-button = Vymazat cookies a uložená data
+trustpanel-delete-site-data-button = Smazat data stránky
+trustpanel-fix-site-issue-button = Opravit problém se stránkou
 trustpanel-privacy-link = Nastavení soukromí
+trustpanel-manage-settings-button = Nastavení
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =

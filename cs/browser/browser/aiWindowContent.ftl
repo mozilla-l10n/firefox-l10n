@@ -255,6 +255,12 @@ action-log-completed-steps =
         [many] { $count } kroků dokončeno
        *[other] { $count } kroků dokončeno
     }
+# A step in the assistant action log, which lists the model used for the response.
+# Variables
+#   $model (String) - name of the model that answered
+action-log-picked-model = Na úlohu byl zvolen model: { $model }
+# Header of the assistant action log while the assistant picks the model for the response.
+action-log-deciding-model = Výběr nejlepšího modelu
 
 ## Assistant Loader
 

@@ -121,10 +121,25 @@ aiwindow-input-model-select-button-label-fast = Rychlý
 aiwindow-input-model-select-button-label-allpurpose = Flexibilní
 aiwindow-input-model-select-button-label-personal = Osobní
 aiwindow-input-model-select-button-label-custom = Vlastní
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatický
 aiwindow-input-model-select-default-badge =
     .label = Výchozí
     .title = Vybraný výchozí model
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Doporučený
+    .title = Doporučený model
 aiwindow-input-model-select-settings-link = Nastavení modelu
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = Funkce { -smart-window-brand-name } zvolí nejvhodnější model pro váš úkol
+aiwindow-input-model-select-fast-description = Rychlé odpovědi, když jste v jednom kole
+aiwindow-input-model-select-flexible-description = Připraven na různé úkoly
+aiwindow-input-model-select-personal-description = Ideální pro chatování a prohlížení webu ve více jazycích
 
 ## Firstrun memories onboarding
 
@@ -360,6 +375,15 @@ aiwindow-starter-browsing-history = Vyhledej panely v historii
 aiwindow-starter-browsing-summarize = Vytvoř souhrn panelů
 aiwindow-starter-browsing-compare = Porovnání panelů
 
+## Smart Window digest starter dismiss button
+## Shown on hover over a digest starter pill. Turns off the digest and
+## removes its pill from the starter row.
+## Variables:
+##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
+
+aiwindow-starter-digest-dismiss =
+    .aria-label = Zrušit { $text }
+
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
@@ -397,5 +421,7 @@ smartwindow-onboarding-memories-both = Chaty a prohlížení
 smartwindow-onboarding-memories-browsing = Pouze procházení
 smartwindow-onboarding-memories-chats = Pouze chaty
 smartwindow-onboarding-memories-none = Neučit se z aktivity
+smartwindow-onboarding-memories-chats-description = Chaty ve funkci { -smart-window-brand-name }
+smartwindow-onboarding-memories-none-description = Budete dostávat méně přizpůsobených návrhů a možná budete muset stejné informace v různých chatech opakovat.
 smartwindow-onboarding-save =
     .label = Uložit a pokračovat
