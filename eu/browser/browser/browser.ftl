@@ -1848,7 +1848,14 @@ trustpanel-blocker-section-header2 =
 
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name }(e)k jarraipen-elementu <span data-l10n-name="count">{ $count }</span> blokeatu du gune honetan
+       *[other] { -brand-short-name }(e)k <span data-l10n-name="count">{ $count }</span> jarraipen-elementu blokeatu ditu gune honetan
+    }
+trustpanel-blocker-description-redesign = Zure nabigazioari buruzko informazioa biltzetik blokeatu dira jarraipen-elementu hauek.
 trustpanel-no-trackers-header-redesign = Ez da jarraipen-elementurik aurkitu gune honetan
+trustpanel-no-trackers-description-redesign = Jarraipen-elementu ezagunik dagoen begiratu du { -brand-short-name }(e)k baina ez du batere aurkitu.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
