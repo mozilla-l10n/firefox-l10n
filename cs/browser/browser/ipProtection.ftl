@@ -316,6 +316,9 @@ ipprotection-connection-status-generic-error-title-1 = Nepodařilo se připojit 
 ipprotection-connection-status-try-again-button = Zkusit znovu
 # Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
 ipprotection-connection-error-continue-without-vpn = Pokračovat bez VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Probíhá další pokus…
+    .aria-label = Probíhá další pokus…
 
 ## IP Protection bandwidth callouts
 
