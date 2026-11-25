@@ -91,12 +91,12 @@ show-dir-label =
 environment-variables-title = Vides mainīgie
 environment-variables-name = Vārds
 environment-variables-value = Vērtība
-modified-key-prefs-title = Svarīgie modificētie iestatījumi
+modified-key-prefs-title = Svarīgas mainītās izvēles
 modified-prefs-name = Nosaukums
 modified-prefs-value = Vērtība
-user-js-title = user.js iestatījumi
+user-js-title = user.js izvēles
 user-js-description = Profila mapē atrodas <a data-l10n-name="user-js-link">datne user.js</a>, kas satur iestatījumus, ko neizveidoja{ -brand-short-name }.
-locked-key-prefs-title = Svarīgi bloķētie iestatījumi
+locked-key-prefs-title = Svarīgas slēgtās izvēles
 locked-prefs-name = Nosaukums
 locked-prefs-value = Vērtība
 graphics-title = Grafika
@@ -223,7 +223,7 @@ intl-locales-supported = Lietotnes valodas
 intl-locales-default = Noklusējuma valoda
 intl-os-title = Operētājsisēma
 intl-os-prefs-system-locales = Sistēmas valodas
-intl-regional-prefs = Reģiona iesatījumi
+intl-regional-prefs = Apgabala izvēles
 
 ## Remote Debugging
 ##

@@ -130,7 +130,7 @@ options-screenshot-audio-tooltip =
 ## Editor section
 
 # The heading
-options-sourceeditor-label = Redaktora iestatījumi
+options-sourceeditor-label = Labotāja izvēles
 options-sourceeditor-detectindentation-tooltip =
     .title = Minēt atkāpes atkarībā no pirmkoda konteksta
 options-sourceeditor-detectindentation-label = Noteikt atkāpes

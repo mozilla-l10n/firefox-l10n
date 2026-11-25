@@ -8,8 +8,8 @@ unknowncontenttype-handleinternally =
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
-            [windows] Iestatījumus var mainīt { -brand-short-name } iestatījumos.
-           *[other] Iestatījumus var mainīt { -brand-short-name } iestatījumos, lejupielāžu sadaļā.
+            [windows] Iestatījumus var mainīt { -brand-short-name } iespējās.
+           *[other] Iestatījumus var mainīt { -brand-short-name } izvēlēs.
         }
 unknowncontenttype-intro = Tu izvēlējies atvērt:
 unknowncontenttype-which-is = kas ir:

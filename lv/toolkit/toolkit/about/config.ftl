@@ -14,7 +14,7 @@ about-config-intro-warning-button = Pieņemt apdraudējumu un turpināt
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Šo iestatījumu maiņa var ietekmēt { -brand-short-name } veiktspēju vai drošību.
-about-config-page-title = Papildu iestatījumi
+about-config-page-title = Paplašinātās izvēles
 about-config-search-input1 =
     .placeholder = Meklēt iestatījuma nosaukumu
 about-config-show-all = Parādīt visus
