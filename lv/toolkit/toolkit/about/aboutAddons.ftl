@@ -87,13 +87,13 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Iestatījumi
-           *[other] Iestatījumi
+            [windows] Iespējas
+           *[other] Izvēles
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Izmainīt šī papildinājuma iestatījumus
-           *[other] Izmainīt šī papildinājuma iestatījumus
+            [windows] Mainīt šī papildinājuma iespējas
+           *[other] Mainīt šī papildinājuma izvēles
         }
     .accesskey =
         { PLATFORM() ->
@@ -317,8 +317,8 @@ extension-enable-addon-button-label =
     .aria-label = Iespējot
 preferences-addon-button =
     { PLATFORM() ->
-        [windows] Iestatījumi
-       *[other] Iestatījumi
+        [windows] Iespējas
+       *[other] Izvēles
     }
 details-addon-button = Sīkāka informācija
 release-notes-addon-button = Laidiena piezīmes

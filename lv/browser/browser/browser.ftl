@@ -1647,8 +1647,8 @@ popup-warning-exceeded-with-redirect-message =
 popup-warning-button =
     .label =
         { PLATFORM() ->
-            [windows] Iestatījumi
-           *[other] Iestatījumi
+            [windows] Iespējas
+           *[other] Izvēles
         }
     .accesskey =
         { PLATFORM() ->

@@ -35,7 +35,7 @@ about-private-browsing-search-banner-title = { $engineName } ir noklusējuma mek
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Lai atlasītu citu meklētāju, jāatver sadaļa <a data-l10n-name="link-options">Iespējas</a>.
-       *[other] Lai atlasītu citu meklētāju, jāatver sadaļa <a data-l10n-name="link-options">Iestatījumi</a>.
+       *[other] Lai atlasītu citu meklētāju, jāatver sadaļa <a data-l10n-name="link-options">Izvēles</a>.
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Aizvērt

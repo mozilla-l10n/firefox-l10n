@@ -215,7 +215,7 @@ migration-safari-password-import-post-sequoia-step2 = Izvēlņu joslā ekrāna a
 migration-safari-password-import-post-sequoia-step3 = Saglabāt datni
 migration-safari-password-import-post-sequoia-step4 = Atlasi saglabāto datni
 migration-safari-password-import-steps-header = Lai ievietotu Safari paroles:
-migration-safari-password-import-step1 = Programmā Safari atveriet izvēlni Safari un dodieties uz Preferences > Passwords
+migration-safari-password-import-step1 = Safari jāatver izvēlne “Safari” un jādodas uz Preferences > Passwords
 migration-safari-password-import-step2 = Spiediet uz pogas <img data-l10n-name="safari-icon-3dots"/> un izvēlieties "Export All Passwords".
 migration-safari-password-import-step3 = Saglabāt paroļu datni
 migration-safari-password-import-step4 = Izmantojiet tālāk esošo “Atlasīt datni”, lai izvēlētos saglabāto paroļu datni

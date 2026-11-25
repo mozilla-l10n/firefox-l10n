@@ -27,7 +27,7 @@ about-logins-menu-menuitem-delete-all-logins = Izdzēst visas paroles…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Iespējas
-       *[other] Iestatījumi
+       *[other] Izvēles
     }
 about-logins-menu-menuitem-help = Palīdzība
 
