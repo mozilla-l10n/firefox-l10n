@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Conversas recentes
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nova aba
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Abrir em nova { -smart-window-brand-name }
+    .accesskey = A
 
 ## Smart Window Toggle Button
 
