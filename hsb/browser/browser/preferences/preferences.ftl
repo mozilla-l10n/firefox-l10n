@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Chowa wašu woprawdźitu e-mejlowu adresu, zo by waš dochad pósta před spamom škitał.
     .label = E-mejlowe maski { -relay-brand-name } namjetować
+preferences-window-lock-macos =
+    .description = { -brand-short-name } budźe so za wašim gratowym hesłom abo hesłowym klučom prašeć, hdyž ličak so zawěra, do měrneho stawa přeńdźe abo wobrazowkowy škit startuje.
+    .label = Priwatne wokna awtomatisce zawrěć
+preferences-window-lock-windows =
+    .description = { -brand-short-name } budźe so za wašim gratowym hesłom abo hesłowym klučom prašeć, hdyž ličak so zawěra.
+    .label = Priwatne wokna awtomatisce zawrěć
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

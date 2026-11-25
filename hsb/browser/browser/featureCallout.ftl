@@ -199,6 +199,8 @@ tab-groups-2026-onboarding-cta-button = Skupinu rajtarkow wuwtorić
 ## user has allowed, even while the browser is closed.
 
 closed-browser-notifications-callout-title = Webzdźělenki ze začinjenym { -brand-short-name } dóstać
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Sydła, kotrymž to dowoleće, móža nětko zdźělenki pósłać, samo hdyž { -brand-short-name } je začinjeny. <a data-l10n-name="learn-more">Dalše informacije</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Rjadować
 # Stops notifications from being delivered while the browser is closed.

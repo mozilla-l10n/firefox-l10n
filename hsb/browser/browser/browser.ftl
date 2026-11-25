@@ -1923,6 +1923,7 @@ trustpanel-blocker-section-header2-redesign =
 trustpanel-blocker-description-redesign = Přesćěhowakam su so zadźěwali, informacije wo wašim přehladowanju hromadźić.
 trustpanel-no-trackers-header-redesign = Žane přesćěhowaki na tutym sydle namakane
 trustpanel-no-trackers-description-redesign = { -brand-short-name } je znate přesćěhowaki pytał a njejsu žane namakali.
+trustpanel-etp-off-description-redesign = Zmóžńće škit a { -brand-short-name } tomu zadźěwa, zo znate přesćěhowaki informacije wo wašim přehladowanju hromadźa.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
