@@ -1856,6 +1856,7 @@ trustpanel-blocker-section-header2-redesign =
 trustpanel-blocker-description-redesign = Zure nabigazioari buruzko informazioa biltzetik blokeatu dira jarraipen-elementu hauek.
 trustpanel-no-trackers-header-redesign = Ez da jarraipen-elementurik aurkitu gune honetan
 trustpanel-no-trackers-description-redesign = Jarraipen-elementu ezagunik dagoen begiratu du { -brand-short-name }(e)k baina ez du batere aurkitu.
+trustpanel-etp-off-description-redesign = Aktibatu babesak eta jarraipen-elementu ezagunek zure nabigazioari buruzko informazioa biltzetik blokeatuko ditu { -brand-short-name }(e)k.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

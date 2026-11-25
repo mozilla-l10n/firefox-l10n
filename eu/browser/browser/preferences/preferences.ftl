@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Zure benetako helbide elektronikoa ezkutatzen du sarrera-ontzia spametik babesteko.
     .label = Gomendatu { -relay-brand-name } posta-maskarak
+preferences-window-lock-macos =
+    .description = { -brand-short-name }(e)k gailuaren pasahitz edo sarbide-gakoa eskatuko dizu ordenagailua blokeatzean, lotara doanean edo pantaila-babeslea abiatzen duenean.
+    .label = Blokeatu leiho pribatuak automatikoki
+preferences-window-lock-windows =
+    .description = { -brand-short-name }(e)k gailuaren pasahitz edo sarbide-gakoa eskatuko dizu ordenagailua blokeatzen denean.
+    .label = Blokeatu leiho pribatuak automatikoki
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

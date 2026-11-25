@@ -199,6 +199,8 @@ tab-groups-2026-onboarding-cta-button = Sortu taldea
 ## user has allowed, even while the browser is closed.
 
 closed-browser-notifications-callout-title = Jaso webguneetako jakinarazpenak { -brand-short-name } itxita dagoenean
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Baimentzen dituzun guneek jakinarazpenak bidal ditzakete orain { -brand-short-name } itxita egonda ere. <a data-l10n-name="learn-more">Argibide gehiago</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Kudeatu
 # Stops notifications from being delivered while the browser is closed.

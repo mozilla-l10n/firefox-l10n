@@ -8,6 +8,8 @@
 ## lock windows.
 
 window-lock-private-title = Leiho pribatuak blokeatuta daude
+window-lock-private-description-macos = { -brand-short-name }(e)k zure orri pribatuak ezkutatzen ditu ordenagailua blokeatzean, lotara doanean edo pantaila-babeslea abiatzen duenean.
+window-lock-private-description-windows = { -brand-short-name }(e)k zure orri pribatuak ezkutatzen ditu ordenagailua blokeatzean.
 window-lock-unlock-button =
     .label = Desblokeatu
 # Shown on the lock screen when the operating system authentication prompt failed with an error.
