@@ -283,6 +283,9 @@ ipprotection-come-back-title = Επιστρέψτε για να δοκιμάσε
 ipprotection-message-body-hide-location = Αποκρύψτε την τοποθεσία σας κατά την περιήγηση με το { -brand-product-name } για περισσότερη ιδιωτικότητα και έλεγχο.
 ipprotection-connection-status-generic-error-title-1 = Δεν ήταν δυνατή η σύνδεση στο VPN
     .aria-label = Δεν ήταν δυνατή η σύνδεση στο VPN
+ipprotection-connection-status-try-again-button = Δοκιμή ξανά
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Συνέχεια χωρίς VPN
 
 ## IP Protection bandwidth callouts
 

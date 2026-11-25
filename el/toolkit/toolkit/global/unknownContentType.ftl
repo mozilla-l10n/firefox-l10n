@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Αποθήκευση αρχείου
     .accesskey = σ
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Αποθήκευση αρχείου
 unknowncontenttype-remember-choice =
     .label = Να γίνεται αυτόματα από εδώ και πέρα για τέτοια αρχεία.
     .accesskey = π
