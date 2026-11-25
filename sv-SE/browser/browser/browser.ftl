@@ -1854,7 +1854,7 @@ trustpanel-blocker-section-header2-redesign =
 trustpanel-blocker-description-redesign = De här spårarna hindrades från att samla in information om hur du surfar.
 trustpanel-no-trackers-header-redesign = Inga spårare hittades på den här webbplatsen
 trustpanel-no-trackers-description-redesign = { -brand-short-name } sökte efter kända spårare och hittade inga.
-trustpanel-etp-off-description-redesign = Slå på skydd och { -brand-short-name } kommer att blockera kända spårare från att samla in information om din surfning.
+trustpanel-etp-off-description-redesign = Aktivera skyddet så hindrar { -brand-short-name } kända spårare från att samla in information om hur du surfar.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

@@ -198,9 +198,9 @@ tab-groups-2026-onboarding-cta-button = Starta en grupp
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
-closed-browser-notifications-callout-title = Få webbaviseringar med { -brand-short-name } stängd
+closed-browser-notifications-callout-title = Få webbaviseringar även när { -brand-short-name } är stängd
 # <a data-l10n-name="learn-more"> is a link to a support article.
-closed-browser-notifications-callout-body = Webbplatser som du tillåter kan nu skicka aviseringar även när { -brand-short-name } är stängd. <a data-l10n-name="learn-more">Läs mer</a>
+closed-browser-notifications-callout-body = Webbplatser som du har godkänt kan nu skicka aviseringar även när { -brand-short-name } är stängd. <a data-l10n-name="learn-more">Läs mer</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Hantera
 # Stops notifications from being delivered while the browser is closed.

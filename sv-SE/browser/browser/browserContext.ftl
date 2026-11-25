@@ -470,8 +470,8 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab-2 =
-    .label = Öppna i ny { $containerName } flik
-    .accesskey = Ö
+    .label = Öppna i ny { $containerName }-flik
+    .accesskey = n
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
