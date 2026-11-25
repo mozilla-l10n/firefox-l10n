@@ -17,6 +17,8 @@ window-lock-auth-error =
     .message = Waša identita njedajo se pśeglědaś. Wopytajśo hyšći raz.
 # Title of the Windows authentication prompt when unlocking browser windows.
 window-lock-os-auth-dialog-caption = { -brand-full-name }
+# This message is shown in the Windows authentication prompt when unlocking Private Windows.
+window-lock-private-os-auth-dialog-message-win = Aby waše priwatne wokna wótwórił, zapódajśo swóje pśizjawjeńske drobnostki Windows, aby wobkšuśił, až se wó was jadna.
 # This message is shown in the macOS authentication prompt when unlocking Private Windows.
 # On macOS, only provide the reason that account verification is needed. Do not put a complete sentence here
 # (the system adds “Firefox is trying to…” before it).

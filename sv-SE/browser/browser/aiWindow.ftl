@@ -25,7 +25,7 @@ smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Ny flik
 main-context-menu-open-link-new-smart-window-2 =
     .label = Öppna i nytt { -smart-window-brand-name }
-    .accesskey = Ö
+    .accesskey = n
 
 ## Smart Window Toggle Button
 

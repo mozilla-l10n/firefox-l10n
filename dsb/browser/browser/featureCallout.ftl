@@ -200,7 +200,7 @@ tab-groups-2026-onboarding-cta-button = Kupku rejtarikow napóraś
 
 closed-browser-notifications-callout-title = Webpowěźeńki ze zacynjonym { -brand-short-name } dostaś
 # <a data-l10n-name="learn-more"> is a link to a support article.
-closed-browser-notifications-callout-body = Sedła, kótarymž to dowoliśo, mógu něnto powěźeńki pósłaś, samo gaby { -brand-short-name } by zacynjony był. <a data-l10n-name="learn-more">Dalšne informacije</a>
+closed-browser-notifications-callout-body = Sedła, kótarymž to dowóliśo, mógu něnto powěźeńki pósłaś, samo gaby { -brand-short-name } by zacynjony był. <a data-l10n-name="learn-more">Dalšne informacije</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Zastojaś
 # Stops notifications from being delivered while the browser is closed.
