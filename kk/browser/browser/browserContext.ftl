@@ -147,6 +147,9 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Бетбелгіні түзету…
     .tooltiptext = Бетбелгіні түзету ({ $shortcut })
+main-context-menu-open-link-new-window-2 =
+    .label = Жаңа терезеде ашу
+    .accesskey = д
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
