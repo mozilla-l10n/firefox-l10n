@@ -1846,9 +1846,9 @@ trustpanel-blocker-section-header2 =
 
 trustpanel-blocker-section-header2-redesign =
     { $count ->
-        [one] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }<span> program za praćenje na ovoj stranici
-        [few] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }<span> programa za praćenje na ovoj stranici
-       *[other] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }<span> programa za praćenje na ovoj stranici
+        [one] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }</span> program za praćenje na ovoj stranici
+        [few] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }</span> programa za praćenje na ovoj stranici
+       *[other] { -brand-short-name } je blokirao <span data-l10n-name="count">{ $count }</span> programa za praćenje na ovoj stranici
     }
 trustpanel-blocker-description-redesign = Ovi programi za praćenje su blokirani u prikupljanju informacija o tvom pregledavanju.
 trustpanel-no-trackers-header-redesign = Na ovoj stranici nisu pronađeni programi za praćenje
