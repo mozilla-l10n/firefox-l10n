@@ -362,15 +362,6 @@ aiwindow-starter-browsing-history = Trova schede nella cronologia
 aiwindow-starter-browsing-summarize = Riassumi schede
 aiwindow-starter-browsing-compare = Confronta schede
 
-## Smart Window digest starter dismiss button
-## Shown on hover over a digest starter pill. Turns off the digest and
-## removes its pill from the starter row.
-## Variables:
-##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
-
-aiwindow-starter-digest-dismiss =
-    .aria-label = Rimuovi { $text }
-
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
