@@ -242,6 +242,20 @@ tab-groups-2026-onboarding-callout-subtitle = Seskupte si panely podle úlohy ne
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Založit skupinu
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Dostávejte webová oznámení, i když je { -brand-short-name } zavřený
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Stránky, kterým jste to povolili, vám nyní mohou posílat oznámení, i když je aplikace { -brand-short-name } zavřená. <a data-l10n-name="learn-more">Další informace</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Správa
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Vypnout
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Ponechat zapnuté
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště

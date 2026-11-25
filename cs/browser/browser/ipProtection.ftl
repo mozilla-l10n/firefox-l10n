@@ -221,6 +221,13 @@ ipprotection-connection-status-connecting-1 = VPN se připojuje…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off-1 = Vypnout
 
+## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
+
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = Neomezený objem dat do { DATETIME($endDate, day: "numeric", month: "long") }
+ipprotection-unlimited-bandwidth-upgraded = Neomezený přenos dat
+
 ## Location controls
 
 # The button displays the selected VPN location.
@@ -247,6 +254,11 @@ ipprotection-locations-subview-promo =
     .heading = Posuňte ochranu na vyšší úroveň pomocí { -mozilla-vpn-brand-name }
     .message = Vyberte si z více než 300 lokalit a zajistěte ochranu všech svých aplikací až na 5 zařízeních.
 ipprotection-locations-subview-promo-button = Získejte { -mozilla-vpn-brand-name(case: "acc") }
+ipprotection-locations-subview-set-default-promo-button =
+    { -brand-short-name.case-status ->
+        [with-cases] Otevírat odkazy ve { -brand-short-name(case: "gen") }
+       *[no-cases] Otevírat odkazy v aplikaci { -brand-short-name }
+    }
 
 ## VPN paused state
 
@@ -301,6 +313,9 @@ ipprotection-come-back-title = Vraťte se a vyzkoušejte vestavěnou VPN
 ipprotection-message-body-hide-location = Při procházení webu { -brand-product-name } skryje vaši polohu, abyste měli větší soukromí a větší kontrolu.
 ipprotection-connection-status-generic-error-title-1 = Nepodařilo se připojit k VPN
     .aria-label = Nepodařilo se připojit k VPN
+ipprotection-connection-status-try-again-button = Zkusit znovu
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Pokračovat bez VPN
 
 ## IP Protection bandwidth callouts
 
