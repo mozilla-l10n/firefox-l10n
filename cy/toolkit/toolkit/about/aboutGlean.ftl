@@ -210,6 +210,6 @@ about-glean-submitted-ping-ping-info-title = Manylion Ping
 ## These labels are displayed to organize the different ping types within the dropdown.
 
 about-glean-ping-list-optgroup-built-in =
-    .label = Pingiau Cynhenid
+    .label = Pingiau Mewnol
 about-glean-ping-list-optgroup-custom =
     .label = Pingiau Cyfaddas
