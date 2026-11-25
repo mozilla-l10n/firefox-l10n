@@ -66,6 +66,8 @@ cert-error-details-cert-chain-label = Lanac certifikata:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } ne dopušta da { -brand-short-name } prikaže stranicu, ako je ugrađena u drugu web stranicu. Za prikaz ove stranice, otvori je u novom prozoru.
 fp-certerror-view-certificate-link = Pogledaj certifikat web stranice
+fp-certerror-return-to-previous-page-recommended-button-2 = Idi natrag (preporučeno)
+    .accesskey = I
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.

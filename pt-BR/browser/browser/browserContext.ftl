@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Editar favorito…
     .tooltiptext = Editar favorito ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Abrir
+    .accesskey = A
+main-context-menu-open-link-new-tab-2 =
+    .label = Abrir em nova aba
+    .accesskey = n
+main-context-menu-open-link-split-view-2 =
+    .label = Abrir em exibição dividida
+    .accesskey = d
+main-context-menu-open-link-container-tab-2 =
+    .label = Abrir em nova aba contêiner
+    .accesskey = c
+main-context-menu-open-link-new-window-2 =
+    .label = Abrir em nova janela
+    .accesskey = j
+main-context-menu-open-link-mini-window =
+    .label = Abrir em mini janela
+    .accesskey = m
+main-context-menu-open-link-new-private-window-2 =
+    .label = Abrir em nova janela privativa
+    .accesskey = p
+main-context-menu-bookmark-link-3 =
+    .label = Adicionar aos favoritos…
+    .accesskey = f
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Ativar menu de ações
     .accesskey = A
+main-context-menu-link-send-to-your-devices =
+    .label = Enviar para seus dispositivos
+    .accesskey = v
 main-context-menu-link-send-to-device =
     .label = Enviar link para dispositivo
     .accesskey = d
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Saiba mais sobre DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Abrir em nova aba { $containerName }
+    .accesskey = b
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

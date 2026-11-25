@@ -1207,6 +1207,7 @@ qrcode-save-button =
     .label = Salvar
 qrcode-window-title = Código QR
 qrcode-dialog-title = Código QR
+qrcode-dialog-title-download-mobile = Instale o { -brand-product-name } para dispositivos móveis
 qrcode-image =
     .aria-label = Código QR
 qrcode-close-button =
@@ -1692,6 +1693,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = A proteção aprimorada contra rastreamento está ativada
 trustpanel-etp-label-disabled = A proteção aprimorada contra rastreamento está desativada
+trustpanel-etp-label-redesign = Proteção aprimorada contra rastreamento
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1715,6 +1717,7 @@ trustpanel-header-disabled = Você desativou proteções
 trustpanel-description-disabled = O { -brand-product-name } não está te protegendo. Sugerimos reativar as proteções.
 trustpanel-clear-cookies-button = Limpar cookies e dados do site
 trustpanel-privacy-link = Configurações de privacidade
+trustpanel-manage-settings-button = Gerenciar configurações
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1728,6 +1731,7 @@ trustpanel-site-information-header =
     .title = Proteções de conexão de { $host }
 trustpanel-siteinformation-morelink = Mais informações do site
 trustpanel-blocker-see-all = Ver tudo
+trustpanel-blocker-see-trackers-button = Ver rastreadores
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =

@@ -25,10 +25,10 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
 ipprotection-feature-introduction-title-1 = Rhowch gynnig ar VPN cynhenid { -brand-product-name }
-ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data.
+ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
-ipprotection-feature-introduction-title-privacy-1 = Ychwanegu haen arall o breifatrwydd gyda VPN cynhenid
-ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
+ipprotection-feature-introduction-title-privacy-1 = Ychwanegu haen arall o breifatrwydd gyda VPN mewnol
+ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-3 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o blith nifer o leoliadau i guddio lle rydych chi'n pori.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Helpwch i guddio'ch lleoliad ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> wrth i chi bori. Rhowch y VPN ymlaen neu i ffwrdd ar gyfer rhai gwefannau.
@@ -105,7 +105,7 @@ ipprotection-location-selection-callout-secondary-button = Cau
 
 ## VPN for Android promo callout
 
-ipprotection-android-promo-callout-title = Ewch â VPN mewnol gyda chi ar Android
+ipprotection-android-promo-callout-title = Ewch â VPN cynhenid gyda chi ar Android
 ipprotection-android-promo-callout-description = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer Android a throwch y VPN mewnol ymlaen i gael mwy o breifatrwydd ar daith. Yn dod i iOS yn fuan.
 ipprotection-android-promo-callout-primary-button = Iawn
 
