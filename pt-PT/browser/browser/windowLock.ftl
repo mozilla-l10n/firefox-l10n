@@ -17,3 +17,9 @@ window-lock-auth-error =
     .message = Não foi possível verificar a sua identidade. Tente novamente.
 # Title of the Windows authentication prompt when unlocking browser windows.
 window-lock-os-auth-dialog-caption = { -brand-full-name }
+# This message is shown in the Windows authentication prompt when unlocking Private Windows.
+window-lock-private-os-auth-dialog-message-win = Para destrancar as suas Janelas Privadas, introduza os seus dados de início de sessão do Windows para confirmar a sua identidade.
+# This message is shown in the macOS authentication prompt when unlocking Private Windows.
+# On macOS, only provide the reason that account verification is needed. Do not put a complete sentence here
+# (the system adds “Firefox is trying to…” before it).
+window-lock-private-os-auth-dialog-message-macosx = destrancar as suas Janelas Privadas
