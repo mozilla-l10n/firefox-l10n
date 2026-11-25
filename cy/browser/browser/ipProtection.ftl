@@ -24,7 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
-ipprotection-feature-introduction-title-1 = Rhowch gynnig ar VPN cynhenid { -brand-product-name }
+ipprotection-feature-introduction-title-1 = Rhowch gynnig ar VPN mewnol { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
 ipprotection-feature-introduction-title-privacy-1 = Ychwanegu haen arall o breifatrwydd gyda VPN mewnol
@@ -34,12 +34,12 @@ ipprotection-feature-introduction-link-text-privacy-3 = Cael <a data-l10n-name="
 ipprotection-feature-introduction-description-inclusions = Helpwch i guddio'ch lleoliad ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> wrth i chi bori. Rhowch y VPN ymlaen neu i ffwrdd ar gyfer rhai gwefannau.
 ipprotection-feature-introduction-text-summer-promo-1 = Trowch ef ymlaen i gadw'ch pori yn fwy preifat. <a data-l10n-name="summer-promo-link">Cael lled band diderfyn</a> a mwy o leoliadau i bori ynddyn nhw. Nawr tan Awst 31.
 ipprotection-feature-introduction-title-summer-promo = Oes gennych chi gynlluniau teithio? Ewch â phreifatrwydd gyda chi.
-ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN cynhenid { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
-ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
+ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN mewnol { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Helpwch i guddio'ch lleoliad wrth i chi bori. Gosodwch reolau i droi VPN ymlaen am <a data-l10n-name="learn-more-vpn">breifatrwydd ychwanegol</a> neu bori ar sail lleoliad, neu i ffwrdd pan nad oes ei angen.
-ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN cynhenid { -brand-product-name }.
+ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN mewnol { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o sawl lleoliad i guddio o lle rydych chi'n pori.
@@ -58,12 +58,12 @@ ipprotection-feature-introduction-button-get-started = Cychwyn arni
 
 ## Callout shown when the user opens a private browsing window
 
-ipprotection-feature-introduction-title-private-browsing = Cynyddu preifatrwydd gyda VPN cynhenid { -brand-product-name }
+ipprotection-feature-introduction-title-private-browsing = Cynyddu preifatrwydd gyda VPN mewnol { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
-ipprotection-summer-promo-offramp-generic-title = Mae eich terfynau VPN cynhenid yn ailosod ar 1 Medi
+ipprotection-summer-promo-offramp-generic-title = Mae eich terfynau VPN mewnol yn ailosod ar 1 Medi
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-summer-promo-offramp-generic-description = Defnyddiwch eich { $maxUsage } GB a 6 lleoliad ar gyfer preifatrwydd ychwanegol i'w gwneud yn anoddach tracio eich pori yn ôl atoch chi.
@@ -74,12 +74,12 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
-ipprotection-summer-promo-offramp-subscriber-title = Mae eich VPN cynhenid newydd wella
+ipprotection-summer-promo-offramp-subscriber-title = Mae eich VPN mewnol newydd wella
 ipprotection-summer-promo-offramp-subscriber-description = Rydych nawr yn cael lled band diderfyn a mwy o leoliadau fel tanysgrifiwr { -mozilla-vpn-brand-name }.
 # Default browser incentive summer promo offramp message
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
-ipprotection-summer-promo-offramp-default-browser-incentive-title = Cadwch eich lleoliadau VPN cynhenid ychwanegol
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Cadwch eich lleoliadau VPN mewnol ychwanegol
 ipprotection-summer-promo-offramp-default-browser-incentive-description = Gwnewch { -brand-product-name } eich porwr arferol a chael mwy nag 20 o leoedd ychwanegol i bori ohonyn nhw ar ôl Awst 31.
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
@@ -99,21 +99,21 @@ ipprotection-site-settings-callout-button = Iawn
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Newydd: Newidiwch eich lleoliad
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Mae VPN cynhenid { -brand-product-name }</a> yn gadael i chi ddewis o sawl lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Mae VPN mewnol { -brand-product-name }</a> yn gadael i chi ddewis o sawl lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf.
 ipprotection-location-selection-callout-primary-button = Rhowch gynnig arni
 ipprotection-location-selection-callout-secondary-button = Cau
 
 ## VPN for Android promo callout
 
-ipprotection-android-promo-callout-title = Ewch â VPN cynhenid gyda chi ar Android
+ipprotection-android-promo-callout-title = Ewch â VPN mewnol gyda chi ar Android
 ipprotection-android-promo-callout-description = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer Android a throwch y VPN mewnol ymlaen i gael mwy o breifatrwydd ar daith. Yn dod i iOS yn fuan.
 ipprotection-android-promo-callout-primary-button = Iawn
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 # Here 'browse on' means continue browsing
-ipprotection-site-inclusions-callout-title-existing-users = Gosodwch reolau VPN cynhenid, yna parhau i borwch
-ipprotection-site-inclusions-callout-title-lapsed-users = Rhowch gynnig ar VPN cynhenid, nawr fesul gwefan
+ipprotection-site-inclusions-callout-title-existing-users = Gosodwch reolau VPN mewnol, yna parhau i borwch
+ipprotection-site-inclusions-callout-title-lapsed-users = Rhowch gynnig ar VPN mewnol, nawr fesul gwefan
 ipprotection-site-inclusions-callout-description-1 = Trowch y VPN ymlaen pan fyddwch chi eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i ddiffodd pan nad ydych chi.
 ipprotection-site-inclusions-callout-description-lapsed-users = Trowch y VPN ymlaen pan fyddwch eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i diffodd lle nad oes ei angen.
 ipprotection-site-inclusions-callout-primary-button = Gosod rheolau
@@ -122,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-description = Gwnewch eich pori'n breifat ac yn anoddach ei olrhain gyda VPN cynhenid.
 ipprotection-holiday-promo-primary-button = Agor y VPN
 ipprotection-holiday-promo-secondary-button = Cau
 ipprotection-holiday-promo-title-1 = Cael VPN diderfyn tan Ionawr 31

@@ -1843,6 +1843,18 @@ trustpanel-blocker-section-header2 =
        *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados neste site
     }
 
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } bloqueou <span data-l10n-name="count">{ $count }</span> rastreador neste site
+       *[other] { -brand-short-name } bloqueou <span data-l10n-name="count">{ $count }</span> rastreadores neste site
+    }
+trustpanel-blocker-description-redesign = Estes rastreadores foram impedidos de coletar informações sobre sua navegação.
+trustpanel-no-trackers-header-redesign = Nenhum rastreador encontrado neste site
+trustpanel-no-trackers-description-redesign = O { -brand-short-name } procurou rastreadores conhecidos, mas não encontrou nenhum.
+trustpanel-etp-off-description-redesign = Ative proteções e o { -brand-short-name } bloqueia rastreadores conhecidos, impedindo que coletem informações sobre sua navegação.
+
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.

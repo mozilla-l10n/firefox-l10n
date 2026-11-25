@@ -68,6 +68,15 @@ csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } ne dopušta da
 fp-certerror-view-certificate-link = Pogledaj certifikat web stranice
 fp-certerror-return-to-previous-page-recommended-button-2 = Idi natrag (preporučeno)
     .accesskey = I
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Najvjerojatnije ništa, jer se problem vjerojatno nalazi u web stranici. Možeš provjeriti s vlasnikom web-stranice je li rade na rješavanju problema.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Web-stranica je postavljena tako da dopušta samo sigurne veze, ali postoji problem s certifikatom web-stranice. Moguće je da zlonamjerni akter pokušava lažno predstavljati web-stranicu. Web-stranice koriste certifikate koje izdaje certifikacijsko tijelo kako bi dokazale da su zaista te stranice za koje se predstavljaju. { -brand-short-name } ne vjeruje ovoj web-stranici jer njen certifikat nije valjan za { $hostname }. Certifikat vrijedi samo za: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Najvjerojatnije ništa, jer se problem vjerojatno nalazi u web stranici. Možeš provjeriti s vlasnikom web-stranice je li rade na rješavanju problema.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
@@ -86,6 +95,8 @@ fp-cert-error-code = Kod greške: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Najvjerojatnije ništa, jer se problem vjerojatno nalazi u web stranici.
 fp-learn-more-about-secure-connection-failures = Saznaj više o kvarovima sigurne veze
 fp-learn-more-about-cert-issues = Saznaj više o ovim vrstama problema sa certifikatima
 fp-learn-more-about-time-related-errors = Saznaj više o rješavanju grešaka u vezi s vremenom
@@ -144,3 +155,5 @@ fp-certerror-hide-advanced-button = Sakrij napredno
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-intro = { -brand-short-name } je ustanovio potencijalno ozbiljan sigurnosni problem s <strong>{ $hostname }</strong>. Netko tko se pretvara da je ta web stranica bi mogao pokušati ukrasti stvari poput podataka o kreditnim karticama, lozinke ili e-mail adrese.
+fp-certerror-override-exception-button-2 = Nastavi na { $hostname } (riskantno)
+    .accesskey = N

@@ -92,6 +92,7 @@ ipprotection-holiday-promo-secondary-button = Odbaci
 unauthenticated-vpn-title = Isprobaj ugrađeni VPN { -brand-product-name(case: "gen") }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Sakrij svoju lokaciju</a> tijekom pregledavanja u { -brand-product-name(case: "dat") }.
 unauthenticated-get-started = Započni
+unauthenticated-terms-of-service-privacy-notice = Ukoliko nastaviš, slažeš se s <a data-l10n-name="vpn-terms-of-service">Uvjetima pružanja usluge</a> i <a data-l10n-name="vpn-privacy-notice">Politikom privatnosti</a>.
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN je uključen za ovu web-stranicu
     .label = Koristi VPN za ovu web-stranicu
