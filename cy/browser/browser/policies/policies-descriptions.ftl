@@ -32,7 +32,7 @@ policy-BlockAboutProfiles = Rhwystro mynediad at y dudalen about:profiles.
 policy-BlockAboutSupport = Rhwystro mynediad at y dudalen about:support.
 policy-Bookmarks = Creu nodau tudalen yn y bar offer Nodau Tudalen, dewislen Nodau Tudalen neu ffolder penodol o'u mewn.
 policy-CaptivePortal = Galluogi neu analluogi'r cymorth porth caeth.
-policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau cynhenid.
+policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau mewnol.
 policy-ClearOnShutdown = Clirio data pori pan fydd { -brand-short-name } yn cau.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
@@ -48,7 +48,7 @@ policy-DefaultBrowserSettingEnabled = Rheoli a all y defnyddiwr osod { -brand-sh
 policy-DefaultDownloadDirectory = Gosod y cyfeiriadur llwytho i lawr rhagosodedig.
 policy-DefaultSerialGuardSetting = Rheoli'r defnydd o'r API Cyfresol.
 policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.
-policy-DisableBuiltinPDFViewer = Analluogi PDF.js, y dangosydd PDF cynhenid yn { -brand-short-name }.
+policy-DisableBuiltinPDFViewer = Analluogi PDF.js, y dangosydd PDF mewnol yn { -brand-short-name }.
 policy-DisableDefaultBrowserAgent2 = Atal yr asiant porwr rhagosodedig rhag cymryd unrhyw gamau.
 policy-DisableDefaultBrowserAgent = Atal asiant y porwr rhagosodedig rhag cymryd unrhyw gamau. Dim ond yn berthnasol i Windows; nid oes gan lwyfannau eraill yr asiant.
 policy-DisableDeveloperTools = Rhwystro mynediad at yr offer datblygwr.
@@ -106,7 +106,7 @@ policy-Homepage = Gosod ac o ddewis cloi'r dudalen cartref.
 policy-HttpAllowlist = Gwreiddiau na fyddant yn cael eu huwchraddio i HTTPS.
 policy-HttpsOnlyMode = Caniatáu i'r Modd HTTPS yn Unig gael ei alluogi.
 policy-InstallAddonsPermission = Caniatáu i rai gwefannau i osod ychwanegion
-policy-IPProtectionAvailable = Rhwystro'r VPN cynhenid rhag bod ar gael i ddefnyddwyr.
+policy-IPProtectionAvailable = Rhwystro'r VPN mewnol rhag bod ar gael i ddefnyddwyr.
 policy-LegacyProfiles = Analluoga'r nodwedd gan orfodi proffil ar wahân ar gyfer pob gosodiad
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -136,7 +136,7 @@ policy-PasswordManagerExceptions = Rhwystro { -brand-short-name } rhag cadw cyfr
 # computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
 policy-PostQuantumKeyAgreementEnabled = Galluogi cytundeb allwedd ôl-cwantwm ar gyfer TLS.
 # PDF.js and PDF should not be translated
-policy-PDFjs = Analluogwch neu ffurfweddu PDF.js, y darllenydd PDF cynhenid yn { -brand-short-name }.
+policy-PDFjs = Analluogwch neu ffurfweddu PDF.js, y darllenydd PDF mewnol yn { -brand-short-name }.
 policy-Permissions2 = Ffurfweddwch y caniatâd ar gyfer camera, meicroffon, lleoliadau, hysbysiadau ac awtochwarae.
 policy-PictureInPicture = Galluogi neu analluogi Llun-mewn-Llun.
 policy-PopupBlocking2 = Caniatáu i rai gwefannau ddangos llamlenni a chael eich ailgyfeirio gan fframiau trydydd parti.

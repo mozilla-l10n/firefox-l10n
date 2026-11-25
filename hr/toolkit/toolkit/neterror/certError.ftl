@@ -76,7 +76,11 @@ fp-certerror-revoked-what-can-you-do-body = Najvjerojatnije ništa, jer se probl
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Web-stranica je postavljena tako da dopušta samo sigurne veze, ali postoji problem s certifikatom web-stranice. Moguće je da zlonamjerni akter pokušava lažno predstavljati web-stranicu. Web-stranice koriste certifikate koje izdaje certifikacijsko tijelo kako bi dokazale da su zaista te stranice za koje se predstavljaju. { -brand-short-name } ne vjeruje ovoj web-stranici jer njen certifikat nije valjan za { $hostname }. Certifikat vrijedi samo za: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Najvjerojatnije ništa, jer se problem vjerojatno nalazi u web stranici. Web-stranice koriste certifikate koje izdaje certifikacijsko tijelo kako bi dokazale da su zaista te stranice što tvrde da jesu. Ali ako si na korporativnoj mreži, tvoj tim podrške možda ima više informacija. Ako koristi softver protiv virusa, pokušaj pretražiti potencijalne konflikte ili poznate probleme.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-untrusted-issuer-what-can-you-do-body = Najvjerojatnije ništa, jer se problem vjerojatno nalazi u web stranici. Možeš provjeriti s vlasnikom web-stranice je li rade na rješavanju problema.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Najvjerojatnije ništa, jer se problem vjerojatno nalazi u web stranici. Ali ako si na korporativnoj mreži, tvoj tim podrške možda ima više informacija. Ako koristi softver protiv virusa, možda se mora konfigurirati kako bi radio s { -brand-short-name(case: "ins") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.

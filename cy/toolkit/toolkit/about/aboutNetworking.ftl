@@ -86,7 +86,7 @@ about-networking-ssl-tokens-compression-details =
 about-networking-ssl-tokens-ev-status = Tystysgrif EV
 about-networking-ssl-tokens-ct-status = Statws tryloywder Tystysgrif
 about-networking-ssl-tokens-overridable-error = Categori gwall trechadwy
-about-networking-ssl-tokens-built-in-root = Gwreiddyn cynhenid
+about-networking-ssl-tokens-built-in-root = Gwreiddyn mewnol
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Cadwyn tystysgrif ( { $count })
 # $count (Number) - Number of certs seen during the TLS handshake

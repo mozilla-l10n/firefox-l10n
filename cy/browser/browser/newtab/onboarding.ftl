@@ -552,7 +552,7 @@ onboarding-refresh-tou-pin =
         [macos] Cadw { -brand-short-name } yn y Doc
        *[other] Ychwanegu { -brand-short-name } at eich bar tasgau
     }
-onboarding-refresh-tou-default-unchecked = Cadw diogelwch cynhenid bob tro byddwch chi'n pori
+onboarding-refresh-tou-default-unchecked = Cadw diogelwch mewnol bob tro byddwch chi'n pori
 onboarding-refresh-tou-pin-unchecked = Cadw'r unig brif borwr annibynnol un clic i ffwrdd
 onboarding-refresh-terms-of-use-with-links = Drwy barhau, rydych yn cytuno i <a data-l10n-name="terms_of_use">Amodau Defnydd { -brand-product-name }</a> a'n <a data-l10n-name="privacy_notice">Hysbysiad Preifatrwydd</a>. Er mwyn helpu i wella'r porwr, mae { -brand-product-name } yn anfon data diagnostig a rhyngweithio at { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Rheoli gosodiadau casglu data
@@ -628,10 +628,10 @@ welcome-back-onboarding-primary-button-label = Cychwyn pori
 welcome-back-onboarding-secondary-button-label = Gweld beth arall sy'n newydd
 # Pill label for features that allow you to tidy up your tabs
 welcome-back-onboarding-pill-label-tabs = Tacluso Tabiau
-welcome-back-onboarding-pill-label-vpn = VPN cynhenid
+welcome-back-onboarding-pill-label-vpn = VPN mewnol
 welcome-back-onboarding-pill-label-pdf = Offer PDF
 welcome-back-onboarding-card-label-tabs = Tacluso gyda thabiau fertigol a grwpiau
-welcome-back-onboarding-card-label-vpn = Cadw'n gudd gyda VPN cynhenid
+welcome-back-onboarding-card-label-vpn = Cadw'n gudd gyda VPN mewnol
 welcome-back-onboarding-card-label-pdf = Amlygu, llofnodi a gweithio gyda PDFs
 welcome-back-onboarding-card-tilebutton-label = Rhowch gynnig arno
 
@@ -648,7 +648,7 @@ hnt-card-pin-body =
         [macos] Ewch nôl i bori wedi'i warchod o'ch bar tasgau.
        *[other] Ewch nôl i bori wedi'i warchod o'ch bar tasgau.
     }
-hnt-card-mobile-header = Cael diogelwch cynhenid ar eich ffôn
+hnt-card-mobile-header = Cael diogelwch mewnol ar eich ffôn
 hnt-card-mobile-body = Llwythwch { -brand-product-name } i lawr ar gyfer ffonau symudol a chael preifatrwydd ychwanegol wrth fynd.
 hnt-card-mobile-primary-button2 = Cael { -brand-product-name } ar gyfer ffonau symudol
 hnt-card-mobile-primary-button = Cael { -brand-product-name } ar gyfer ffonau symudol.

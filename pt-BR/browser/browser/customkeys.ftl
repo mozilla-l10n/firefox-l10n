@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Desativar/ativar som
 customkeys-edit-find-previous = Procurar anterior
 customkeys-edit-find-selection = Usar texto selecionado para pesquisar
 customkeys-tools-screenshot = Capturar tela
+customkeys-tools-lock-windows = Bloquear janelas privativas
 customkeys-category-navigation-2 =
     .heading = Navegação
 customkeys-caution-message = Este recurso é experimental e pode não funcionar como esperado.

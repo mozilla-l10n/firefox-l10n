@@ -61,7 +61,7 @@ protections-close-button2 =
     .aria-label = Cau
     .title = Cau
 mobile-app-title = Rhwystrwch dracwyr hysbysebion ar draws rhagor o ddyfeisiau
-mobile-app-card-content = Defnyddiwch y porwr symudol gydag diogelwch cynhenid rhag tracio gan hysbysebion.
+mobile-app-card-content = Defnyddiwch y porwr symudol gydag diogelwch mewnol rhag tracio gan hysbysebion.
 mobile-app-links = Porwr { -brand-product-name } ar gyfer <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Peidiwch byth ag anghofio cyfrinair eto
 passwords-title-logged-in = Rheoli'ch cyfrineiriau
@@ -209,7 +209,6 @@ monitor-resolve-breaches-link = Datrys Tor-data
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Tracwyr Cyfryngau Cymdeithasol
     .aria-label =
         { $count ->
             [zero] { $count } tracwyr cyfryngau cymdeithasol ({ $percentage }%)
@@ -219,8 +218,8 @@ bar-tooltip-social =
             [many] { $count } traciwr cyfryngau cymdeithasol ({ $percentage }%)
            *[other] { $count } traciwr cyfryngau cymdeithasol ({ $percentage }%)
         }
+    .title = Tracwyr Cyfryngau Cymdeithasol
 bar-tooltip-cookie =
-    .title = Cwcis Tracio Traws-Gwefan
     .aria-label =
         { $count ->
             [zero] { $count } cwcis tracio traws-gwefan ({ $percentage }%)
@@ -230,8 +229,8 @@ bar-tooltip-cookie =
             [many] { $count } cwci tracio traws-gwefan ({ $percentage }%)
            *[other] { $count } cwci tracio traws-gwefan ({ $percentage }%)
         }
+    .title = Cwcis Tracio Traws-Gwefan
 bar-tooltip-tracker =
-    .title = Cynnwys Tracio
     .aria-label =
         { $count ->
             [zero] { $count } cynnwys tracio ({ $percentage }%)
@@ -241,8 +240,8 @@ bar-tooltip-tracker =
             [many] { $count } cynnwys tracio ({ $percentage }%)
            *[other] { $count } cynnwys tracio ({ $percentage }%)
         }
+    .title = Cynnwys Tracio
 bar-tooltip-fingerprinter =
-    .title = Bysbrintwyr
     .aria-label =
         { $count ->
             [zero] { $count } bysbrintwyr ({ $percentage }%)
@@ -252,8 +251,8 @@ bar-tooltip-fingerprinter =
             [many] { $count } bysbrintwyr ({ $percentage }%)
            *[other] { $count } bysbrintwyr ({ $percentage }%)
         }
+    .title = Bysbrintwyr
 bar-tooltip-cryptominer =
-    .title = Cryptogloddwyr
     .aria-label =
         { $count ->
             [zero] { $count } cryptogloddwyr ({ $percentage }%)
@@ -263,6 +262,7 @@ bar-tooltip-cryptominer =
             [many] { $count } cryptogloddwyr ({ $percentage }%)
            *[other] { $count } cryptogloddwyr ({ $percentage }%)
         }
+    .title = Cryptogloddwyr
 # Privacy Metrics Card
 privacy-metrics-title = Diogelu Preifatrwydd
 # Variables:

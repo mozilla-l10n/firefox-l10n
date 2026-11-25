@@ -122,6 +122,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Gwnewch eich pori'n breifat ac yn anoddach ei olrhain gyda VPN mewnol.
 ipprotection-holiday-promo-primary-button = Agor y VPN
 ipprotection-holiday-promo-secondary-button = Cau
 ipprotection-holiday-promo-title-1 = Cael VPN diderfyn tan Ionawr 31
@@ -129,7 +130,7 @@ ipprotection-holiday-promo-title-1 = Cael VPN diderfyn tan Ionawr 31
 ## Panel
 
 # Also used for the callout shown in private browsing
-unauthenticated-vpn-title = Rhowch gynnig ar VPN cynhenid { -brand-product-name }
+unauthenticated-vpn-title = Rhowch gynnig ar VPN mewnol { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cuddiwch eich lleoliad</a> wrth bori yn { -brand-product-name }.
 unauthenticated-private-location-message = Yn helpu <a data-l10n-name="learn-more-vpn"> i gadw'ch lleoliad yn breifat</a> yn { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Dewiswch o sawl lleoliad neu gadael i { -brand-product-name } ddewis yr un cyflymaf.
@@ -278,7 +279,7 @@ ipprotection-message-continuous-onboarding-site-settings = Bydd { -brand-short-n
 confirmation-hint-ipprotection-navigated-to-excluded-site = Mae'r VPN i ffwrdd ar y wefan hon
 confirmation-hint-ipprotection-navigated-to-included-site = Mae'r VPN ymlaen ar y wefan hon
 ipprotection-open-button = Agor { -brand-product-name }
-ipprotection-come-back-title = Dewch nôl i roi cynnig ar y VPN cynhenid
+ipprotection-come-back-title = Dewch nôl i roi cynnig ar y VPN mewnol
 ipprotection-message-body-hide-location = Cuddiwch eich lleoliad pan fyddwch yn pori yn { -brand-product-name } am fwy o breifatrwydd a rheolaeth.
 ipprotection-connection-status-generic-error-title-1 = Methu cysylltu â'r VPN
     .aria-label = Methu cysylltu â'r VPN
@@ -291,7 +292,7 @@ ipprotection-connection-status-trying-again-title = Yn ceisio eto…
 
 ## IP Protection bandwidth callouts
 
-ipprotection-bandwidth-upgrade-title = Yn hoffi'r VPN cynhenid? Beth am gael rhagor o ddiogelwch tu allan i { -brand-product-name } gyda { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-title = Yn hoffi'r VPN mewnol? Beth am gael rhagor o ddiogelwch tu allan i { -brand-product-name } gyda { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Dewiswch leoliad y VPN ac ychwanegu diogelwch i'ch holl apiau at hyd at 5 dyfais, p'un os ydych gartref neu ar Wi-Fi cyhoeddus.
 
 ## IP Protection bandwidth warning infobar
@@ -313,10 +314,10 @@ ip-protection-description =
     .label = VPN
 ip-protection-description-1 =
     .description = Cael preifatrwydd ychwanegol drwy guddio'ch lleoliad wrth bori
-    .label = VPN cynhenid
+    .label = VPN mewnol
 ip-protection-learn-more = Dysgu rhagor
 ip-protection-not-opted-in-4 =
-    .heading = Rhowch gynnig ar VPN cynhenid { -brand-short-name }
+    .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
     .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

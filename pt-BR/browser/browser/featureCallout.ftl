@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = Agrupe suas abas por tarefa ou ass
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Iniciar um grupo
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Receber notificações de sites com o { -brand-short-name } fechado
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Sites que você permitir agora podem enviar notificações mesmo quando o { -brand-short-name } estiver fechado. <a data-l10n-name="learn-more">Saiba mais</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Gerenciar
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Desativar
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Manter ativado
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de abas no painel lateral
