@@ -1207,7 +1207,7 @@ qrcode-save-button =
     .label = Spara
 qrcode-window-title = QR-kod
 qrcode-dialog-title = QR-kod
-qrcode-dialog-title-download-mobile = Hämta { -brand-product-name } för mobil
+qrcode-dialog-title-download-mobile = Ladda ned { -brand-product-name } för mobilen
 qrcode-image =
     .aria-label = QR-kod
 qrcode-close-button =
@@ -1851,8 +1851,8 @@ trustpanel-blocker-section-header2-redesign =
         [one] { -brand-short-name } blockerade <span data-l10n-name="count">{ $count }</span> spårare på den här webbplatsen
        *[other] { -brand-short-name } blockerade <span data-l10n-name="count">{ $count }</span> spårare på den här webbplatsen
     }
-trustpanel-blocker-description-redesign = Dessa trackers blockerades från att samla in information om din surfning.
-trustpanel-no-trackers-header-redesign = Inga trackers hittades på denna webbplats
+trustpanel-blocker-description-redesign = De här spårarna hindrades från att samla in information om hur du surfar.
+trustpanel-no-trackers-header-redesign = Inga spårare hittades på den här webbplatsen
 trustpanel-no-trackers-description-redesign = { -brand-short-name } sökte efter kända spårare och hittade inga.
 trustpanel-etp-off-description-redesign = Slå på skydd och { -brand-short-name } kommer att blockera kända spårare från att samla in information om din surfning.
 
