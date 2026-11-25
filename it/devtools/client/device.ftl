@@ -7,6 +7,8 @@
 ### choose to simulate in Responsive Design Mode (e.g. "ZTE Open C",
 ### "VIA Vixen", "720p HD Television", etc).
 
+device-type-phones = Telefoni
+device-type-tablets = Tablet
 device-type-laptops = Portatili
 device-type-televisions = TV
 device-type-consoles = Console da gioco
