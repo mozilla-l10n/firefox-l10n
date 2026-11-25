@@ -1920,7 +1920,10 @@ trustpanel-blocker-section-header2-redesign =
         [few] { -brand-short-name } jo blokěrował <span data-l10n-name="count">{ $count }</span> pśeslědowaki
        *[other] { -brand-short-name } jo blokěrował <span data-l10n-name="count">{ $count }</span> pśeslědowakow
     }
+trustpanel-blocker-description-redesign = Pśeslědowakam su se zajźowali, informacije wó wašom pśeglědowanju gromaźiś.
 trustpanel-no-trackers-header-redesign = Žedne pśeslědowaki na toś tom boku namakane.
+trustpanel-no-trackers-description-redesign = { -brand-short-name } jo znate pśeslědowaki pytał a njejsu žedne namakali.
+trustpanel-etp-off-description-redesign = Zmóžniśo šćit a { -brand-short-name } tomu zajźujo, až znate pśeslědowaki informacije wó wašom pśeglědowanju gromaźe.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
