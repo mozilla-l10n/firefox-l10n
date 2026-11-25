@@ -199,6 +199,14 @@ tab-groups-2026-onboarding-cta-button = Começar um grupo
 ## user has allowed, even while the browser is closed.
 
 closed-browser-notifications-callout-title = Receber notificações da web com o { -brand-short-name } fechado
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Os sites que autoriza podem agora enviar notificações mesmo quando o { -brand-short-name } está fechado. <a data-l10n-name="learn-more">Saiba mais</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Gerir
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Desligar
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Manter ligado
 
 ## Sidebar Strings
 
