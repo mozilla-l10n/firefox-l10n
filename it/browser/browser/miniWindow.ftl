@@ -83,4 +83,3 @@ mini-window-panel-part-of-page = Parte della pagina
 mini-window-panel-full-page = Pagina completa
 mini-window-panel-move-selection = Sposta selezione
 mini-window-panel-move-full-tab = Sposta scheda intera
-

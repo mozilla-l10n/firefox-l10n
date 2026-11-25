@@ -75,4 +75,3 @@ appmenu-new-tab-controlled-message = La pagina visualizzata quando si apre una n
 appmenu-homepage-controlled-message = Il contenuto visualizzato nella pagina iniziale e quando si aprono nuove finestre è stato modificato da un’estensione (<img data-l10n-name="addon-icon"/> { $addonName }).
 # The <img data-l10n-name="all-tabs-icon"/> element is the icon of the all tabs button.
 appmenu-tab-hide-controlled-message = Alcune schede sono state nascoste da un’estensione (<img data-l10n-name="addon-icon"/> { $addonName }). È possibile accedere a tutte le schede utilizzando <img data-l10n-name="all-tabs-icon"/>.
-

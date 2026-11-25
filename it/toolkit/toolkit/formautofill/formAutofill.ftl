@@ -94,19 +94,6 @@ credit-card-doorhanger-card-details-name-security-code = { $name } | { $security
 credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration-security-code-2 = <span data-l10n-name="name">{ $name }</span> | { $month }/{ $year } | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name. Keep the <span data-l10n-name="name">
-##     around it, so a long name can be cut off with an ellipsis. The details
-##     can be reordered.
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-##   $securityCode (String): The name of the card's security code, from one of
-##     the credit-card-security-code-name-* strings (for example "CVV")
-
 credit-card-doorhanger-card-details-name-2 = <span data-l10n-name="name">{ $name }</span>
 
 ## Used on the doorhanger when a saved card is submitted with changed details

@@ -23,4 +23,3 @@ window-lock-private-os-auth-dialog-message-win = Per sbloccare le finestre anoni
 # On macOS, only provide the reason that account verification is needed. Do not put a complete sentence here
 # (the system adds “Firefox is trying to…” before it).
 window-lock-private-os-auth-dialog-message-macosx = sbloccare le finestre anonime
-

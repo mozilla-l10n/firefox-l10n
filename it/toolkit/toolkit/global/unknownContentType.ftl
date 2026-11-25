@@ -41,4 +41,3 @@ unknowncontenttype-accept-save-file =
 unknowncontenttype-remember-choice =
     .label = D’ora in poi esegui questa azione per tutti i file di questo tipo.
     .accesskey = f
-

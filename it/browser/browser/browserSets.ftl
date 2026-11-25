@@ -178,4 +178,3 @@ hide-app-shortcut =
     .key = H
 hide-other-apps-shortcut =
     .key = H
-
