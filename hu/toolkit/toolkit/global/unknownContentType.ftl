@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Fájl mentése
     .accesskey = s
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Fájl mentése
 unknowncontenttype-remember-choice =
     .label = Mostantól minden hasonló fájllal tegyen ugyanígy.
     .accesskey = a
