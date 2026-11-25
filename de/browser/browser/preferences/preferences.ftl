@@ -264,8 +264,8 @@ containers-disable-alert-desc =
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] { $tabCount } Tab in einer Umgebung schließen
-       *[other] { $tabCount } Tabs im Umgebungen schließen
+        [one] { $tabCount } Tab in Umgebung schließen
+       *[other] { $tabCount } Tabs in Umgebungen schließen
     }
 
 ##
