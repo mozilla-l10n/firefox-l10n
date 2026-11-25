@@ -194,6 +194,12 @@ tab-groups-2026-onboarding-callout-subtitle = Agrupe os seus separadores por tar
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Começar um grupo
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Receber notificações da web com o { -brand-short-name } fechado
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de separadores na barra lateral

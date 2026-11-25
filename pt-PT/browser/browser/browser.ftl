@@ -1858,6 +1858,8 @@ trustpanel-blocker-section-header2-redesign =
     }
 trustpanel-blocker-description-redesign = Estes rastreadores foram bloqueados de recolher informações sobre a sua navegação.
 trustpanel-no-trackers-header-redesign = Não foram encontrados rastreadores neste site
+trustpanel-no-trackers-description-redesign = O { -brand-short-name } procurou por rastreadores conhecidos e não encontrou nenhum.
+trustpanel-etp-off-description-redesign = Ative as proteções e o { -brand-short-name } irá impedir que rastreadores conhecidos recolham informações sobre a sua navegação.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

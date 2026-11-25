@@ -1920,7 +1920,9 @@ trustpanel-blocker-section-header2-redesign =
         [few] { -brand-short-name } je <span data-l10n-name="count">{ $count }</span> přesćěhowaki na tutym sydle zablokował
        *[other] { -brand-short-name } je <span data-l10n-name="count">{ $count }</span> přesćěhowakow na tutym sydle zablokował
     }
+trustpanel-blocker-description-redesign = Přesćěhowakam su so zadźěwali, informacije wo wašim přehladowanju hromadźić.
 trustpanel-no-trackers-header-redesign = Žane přesćěhowaki na tutym sydle namakane
+trustpanel-no-trackers-description-redesign = { -brand-short-name } je znate přesćěhowaki pytał a njejsu žane namakali.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
