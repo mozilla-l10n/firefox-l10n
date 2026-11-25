@@ -409,3 +409,74 @@ smartwindow-onboarding-default-window =
     .label = Avvia in modalità { -smart-window-brand-name(form: "uppercase-singular") }
 smartwindow-onboarding-save =
     .label = Salva e continua
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Compila dalle fonti
+ai-smart-form-fill-autocomplete-loading = Caricamento in corso…
+ai-smart-form-fill-autocomplete-sources-label = Compila dalle fonti
+ai-smart-form-fill-autocomplete-choose-tabs = Apri o seleziona pagine relative a questo modulo per ottenere suggerimenti di compilazione automatica
+ai-smart-form-fill-autocomplete-open-tabs = Apri pagine relative a questo modulo per ottenere suggerimenti di compilazione automatica
+ai-smart-form-fill-close-review-button =
+    .label = Chiudi
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } scheda
+       *[other] { $tabs } schede
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Modifica fonti
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Modifica fonti
+ai-smart-form-fill-suggested-tabs-heading = Schede suggerite
+ai-smart-form-fill-other-tabs-heading = Altre schede
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Attiva o disattiva la selezione della scheda “{ $tabTitle }”
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Annulla
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Fatto
+ai-smart-form-fill-fill-form-button =
+    .label = Compila modulo
+ai-smart-form-fill-review-heading = Verifica i suggerimenti
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Abbiamo trovato suggerimenti per { $count } campo. Modifica o elimina tutto ciò che non è corretto.
+       *[other] Abbiamo trovato suggerimenti per { $count } campi. Modifica o elimina tutto ciò che non è corretto.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Campo
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Passa alla fine dei suggerimenti
+    .tooltiptext = Passa alla fine
+ai-smart-form-fill-cancel-review-button =
+    .label = Annulla
+ai-smart-form-fill-finding-suggestions = Ricerca suggerimenti
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Interrompi la ricerca di suggerimenti
+ai-smart-form-fill-success-heading = Suggerimenti inseriti nel modulo
+ai-smart-form-fill-success-description = Verifica il modulo e completa gli eventuali campi mancanti prima di inviarlo.
+ai-smart-form-fill-no-changes-heading = Non è stato inserito nulla nel modulo
+ai-smart-form-fill-no-changes-description = Alcuni campi potrebbero essere stati modificati o già compilati. Per riprovare, svuota un campo, selezionalo, quindi scegli Compila dalle fonti.
+ai-smart-form-fill-no-suggestions-heading = Nessun suggerimento trovato
+ai-smart-form-fill-no-suggestions-description = Non è stato possibile leggere questo modulo né trovare corrispondenze adeguate nelle fonti selezionate. Potrebbe essere utile provare con fonti diverse.
+ai-smart-form-fill-error-try-again-heading = Non è stato possibile inserire i suggerimenti nel modulo
+ai-smart-form-fill-error-try-again-description = Si è verificato un errore. Prova ad inserire di nuovo i suggerimenti.
+ai-smart-form-fill-error-heading = Impossibile inserire i suggerimenti
+ai-smart-form-fill-error-description = Si è verificato un problema. Per riprovare, seleziona un campo del modulo e scegli Compila dalle fonti.
+ai-smart-form-fill-try-again-button =
+    .label = Riprova

@@ -1819,6 +1819,15 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] { $count } tracciante bloccato
        *[other] { $count } traccianti bloccati
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] { $count } elemento tracciante bloccato su questo sito
+       *[other] { $count } elementi traccianti bloccati su questo sito
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = Nessun elemento tracciante rilevato su questo sito
+urlbar-trust-icon-tracking-protection-off-tooltip = La protezione antitracciamento è disattivata per questo sito
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
