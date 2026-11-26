@@ -171,9 +171,9 @@ extensions-warning-safe-mode3 =
 
 addon-updates-check-for-updates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ
     .accesskey = C
-addon-updates-view-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟ ਵੇਖੋ
+addon-updates-view-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟਾਂ ਨੂੰ ਵੇਖੋ
     .accesskey = V
-addon-updates-update-addons-automatically = ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ
+addon-updates-update-addons-automatically = ਐਡ-ਆਨ ਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -182,21 +182,21 @@ addon-updates-update-addons-automatically = ਐਡ-ਆਨ ਆਟੋਮੈਟਿ�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = ਸਭ ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
+addon-updates-reset-updates-to-automatic = ਸਭ ਐਡ-ਆਨ ਆਪਣੇ-ਆਪ ਹੀ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
     .accesskey = R
 addon-updates-reset-updates-to-manual = ਸਭ ਐਡ-ਆਨ ਖੁਦ ਅੱਪਡੇਟ ਕਰਨ ਕਰਨ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
-addon-updates-updating = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
+addon-updates-updating = ਐਡ-ਆਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 addon-updates-installed = ਤੁਹਾਡੀ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ।
 addon-updates-none-found = ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ
-addon-updates-manual-updates-found = ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਵੇਖੋ
+addon-updates-manual-updates-found = ਉਪਲੱਬਧ ਅੱਪਡੇਟਾਂ ਨੂੰ ਵੇਖੋ
 
 ## Add-on install/debug strings for page options menu
 
-addon-install-from-file = …ਐਡ-ਆਨ ਫਾਈਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ
+addon-install-from-file = …ਐਡ-ਆਨ ਫ਼ਾਇਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ
     .accesskey = I
 # Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
 # pref is set.
@@ -219,8 +219,8 @@ shortcuts-input =
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
     .aria-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਹਟਾਓ
-shortcuts-browserAction2 = ਟੂਲਬਾਰ ਬਟਨ ਸਰਗਰਮ ਕਰੋ
-shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਸਰਗਰਮ ਕਰੋ
+shortcuts-browserAction2 = ਟੂਲਬਾਰ ਬਟਨ ਨੂੰ ਸਰਗਰਮ ਕਰੋ
+shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਨੂੰ ਸਰਗਰਮ ਕਰੋ
 shortcuts-sidebarAction = ਬਾਹੀ ਨੂੰ ਬਦਲੋ
 shortcuts-modifier-mac = Ctrl, Alt, ਜਾਂ ⌘ ਸਮੇਤ
 shortcuts-modifier-other = Ctrl ਜਾਂ Alt ਸਮੇਤ
@@ -293,11 +293,11 @@ addon-options-button =
 # ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
-discopane-intro3 = ਇਕਸਟੈਨਸ਼ਨ ਅਤੇ ਥੀਮ ਤੁਹਾਨੂੰ { -brand-product-name } ਕਸਟਮਾਈਜ਼ ਕਰਨ ਦਿੰਦੇ ਹਨ। ਇਹ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਵਾਧਾ, ਮੀਡੀਏ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ, { -brand-product-name } ਦੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣ, ਅਤੇ ਕੋਈ ਕੁਝ ਹੋਰ ਕਰਨ ਸਕਦੇ ਹਨ। ਇਹਨਾਂ ਛੋਟੇ ਸਾਫਟਵੇਅਰਾਂ ਨੂੰ ਅਕਸਰ ਸੁਤੰਤਰ ਧਿਰਾਂ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸ਼ਾਨਦਾਰ ਸੁਰੱਖਿਆ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਕਾਰਜ ਸਮਰੱਥਾ ਲਈ Firefox <a data-l10n-name="learn-more-trigger">ਸਿਫਾਰਸ਼ਾਂ</a> ਇਹ ਹਨ।
+discopane-intro3 = ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ ਤੁਹਾਨੂੰ { -brand-product-name } ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਢਾਲਣ ਲਈ ਸਹਾਇਕ ਹੁੰਦੇ ਹਨ। ਇਹ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਵਾਧਾ ਕਰਨ, ਮੀਡੀਏ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ, { -brand-product-name } ਦੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣ, ਅਤੇ ਕੋਈ ਕੁਝ ਹੋਰ ਕਰਨ ਲਈ ਹੋ ਸਕਦੇ ਹਨ। ਇਹਨਾਂ ਛੋਟੇ ਸਾਫਟਵੇਅਰਾਂ ਨੂੰ ਅਕਸਰ ਸੁਤੰਤਰ ਧਿਰਾਂ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸ਼ਾਨਦਾਰ ਸੁਰੱਖਿਆ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਕਾਰਜ ਸਮਰੱਥਾ ਲਈ Firefox <a data-l10n-name="learn-more-trigger">ਸਿਫਾਰਸ਼ਾਂ</a> ਇਹ ਹਨ।
 
 ## Add-on actions
 
-report-addon-button = ਰਿਪੋਰਟ
+report-addon-button = ਇਤਲਾਹ ਕਰੋ
 remove-addon-button = ਹਟਾਓ
 # The link will always be shown after the other text.
 remove-addon-disabled-button = ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ <a data-l10n-name="link">ਕਿਓ?</a>
@@ -340,7 +340,7 @@ addon-detail-homepage-label = ਮੁੱਖ ਸਫ਼ਾ
 addon-detail-rating-label = ਦਰਜਾ
 # Message for add-ons with a staged pending update.
 install-postponed-message2 =
-    .message = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੌਰਾਨ ਇਸ ਇਕਟੈਨਸ਼ਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ।
+    .message = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੌਰਾਨ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ।
 install-postponed-button = ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
 # This string is used to show that an add-on is disabled.
 # Variables:
@@ -351,8 +351,8 @@ addon-name-disabled = { $name } (ਅਸਮਰੱਥ ਹੈ)
 #   $numberOfReviews (number) - The number of reviews received
 addon-detail-reviews-link =
     { $numberOfReviews ->
-        [one] { $numberOfReviews } ਰੀਵਿਊ
-       *[other] { $numberOfReviews } ਰੀਵਿਊ
+        [one] { $numberOfReviews } ਪੜਤਾਲ
+       *[other] { $numberOfReviews } ਪੜਤਾਲਾਂ
     }
 
 ## Pending uninstall message bar
