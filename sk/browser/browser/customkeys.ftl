@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = Stlmenie/zapnutie zvuku
 customkeys-edit-find-previous = Hľadať predchádzajúce
 customkeys-edit-find-selection = Použiť označený text na vyhľadávanie
 customkeys-tools-screenshot = Urobiť snímku obrazovky
+customkeys-tools-lock-windows = Uzamknúť súkromné okná
 customkeys-category-navigation-2 =
     .heading = Navigácia
 customkeys-caution-message = Táto funkcia je experimentálna a nemusí fungovať podľa očakávaní.

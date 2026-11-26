@@ -285,6 +285,11 @@ ipprotection-come-back-title = Vráťte sa a vyskúšajte vstavanú VPN
 ipprotection-message-body-hide-location = Skryte svoju polohu pri prehliadaní vo { -brand-product-name(case: "loc") } a získate väčšiu ochranu súkromia a kontrolu.
 ipprotection-connection-status-generic-error-title-1 = Nepodarilo sa pripojiť k VPN
     .aria-label = Nepodarilo sa pripojiť k VPN
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Pokračovať bez VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Opätovný pokus…
+    .aria-label = Opätovný pokus…
 
 ## IP Protection bandwidth callouts
 

@@ -1745,7 +1745,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } si všimol nie
 trustpanel-header-disabled = Ochrana je vypnutá
 trustpanel-description-disabled = { -brand-product-name } nie je v strehu. Odporúčame vám znova zapnúť ochranu.
 trustpanel-clear-cookies-button = Vymazať cookies a údaje stránky
+trustpanel-delete-site-data-button = Odstrániť údaje stránky
+trustpanel-fix-site-issue-button = Vyriešiť problém so stránkou
 trustpanel-privacy-link = Nastavenia ochrany súkromia
+trustpanel-manage-settings-button = Spravovať nastavenia
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1759,6 +1762,7 @@ trustpanel-site-information-header =
     .title = Ochrana pripojenia pre { $host }
 trustpanel-siteinformation-morelink = Ďalšie informácie o stránke
 trustpanel-blocker-see-all = Zobraziť všetko
+trustpanel-blocker-see-trackers-button = Zobraziť sledovacie prvky
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1900,6 +1904,13 @@ trustpanel-blocker-section-header2 =
         [many] Na tejto stránke je zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
        *[other] Na tejto stránke je zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-description-redesign = Týmto sledovacím prvkom sme zabránili zhromažďovať informácie o vašom prehliadaní.
+trustpanel-no-trackers-header-redesign = Na tejto stránke sa nenašli žiadne sledovacie prvky
+trustpanel-no-trackers-description-redesign = { -brand-short-name } vyhľadal známe sledovacie prvky, no žiadne nenašiel.
+trustpanel-etp-off-description-redesign = Zapnite ochranu a { -brand-short-name } zabráni známym sledovacím prvkom zhromažďovať informácie o vašom prehliadaní.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

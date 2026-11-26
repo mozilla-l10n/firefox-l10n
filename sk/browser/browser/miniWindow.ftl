@@ -11,6 +11,11 @@ mini-window-close-button =
 mini-window-restore-button =
     .label = Vrátiť kartu späť
     .tooltiptext = Vrátiť kartu späť
+# Button appearing in a Mini Window that was opened from a link on a webpage.
+# Clicking the button will move the Mini Window tab to the window it was opened from.
+mini-window-link-restore-button =
+    .label = Presunúť kartu do okna
+    .tooltiptext = Presunúť kartu do okna
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -27,9 +32,9 @@ mini-window-audio-unmute =
 ## it is being used to pick the region for a Mini Window.
 
 # Moves the tab to a Mini Window which frames the selected area of the page.
-screenshots-component-mini-window-button = Presunúť do mini okna
-    .aria-label = Presunúť do mini okna
-    .title = Presunúť do mini okna
+screenshots-component-mini-window-button = Presunúť do miniatúrneho okna
+    .aria-label = Presunúť do miniatúrneho okna
+    .title = Presunúť do miniatúrneho okna
 # Dismisses the Mini Window selection overlay without moving the tab.
 screenshots-component-mini-window-cancel-button = Zrušiť
     .aria-label = Zrušiť
@@ -45,11 +50,11 @@ screenshots-component-reselect-button = Začať odznova
 # Opens a selection tool to select a section of a page to
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
-    .label = Mini okno
-    .tooltiptext = Použiť mini okno
+    .label = Miniatúrne okno
+    .tooltiptext = Použiť Miniatúrne okno
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
-    .label = Presunúť sekciu do mini okna
+    .label = Presunúť sekciu do miniatúrneho okna
     .accesskey = m
 # Moves full tabs to Mini Windows, one window per tab.
 # Variables
@@ -57,23 +62,23 @@ main-context-menu-use-mini-window =
 move-to-mini-window =
     .label =
         { $tabCount ->
-            [1] Presunúť do mini okna
-            [one] Presunúť do mini okna
-            [few] Presunúť do mini okien
-           *[other] Presunúť do mini okien
+            [1] Presunúť do miniatúrneho okna
+            [one] Presunúť do miniatúrneho okna
+            [few] Presunúť do miniatúrnych okien
+           *[other] Presunúť do miniatúrnych okien
         }
-    .accesskey = m
+    .accesskey = P
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
 
 mini-window-overlay-header = Vyberte časť stránky, ktorá má zostať viditeľná
-mini-window-overlay-instructions = Potiahnutím alebo kliknutím vyberte oblasť, ktorú chcete presunúť do mini okna. Pri prehliadaní zostane vždy navrchu.
+mini-window-overlay-instructions = Potiahnutím alebo kliknutím vyberte oblasť, ktorú chcete presunúť do miniatúrneho okna. Pri prehliadaní zostane vždy navrchu.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
-mini-window-panel-header = Vyberte, čo sa má presunúť do mini okna
+mini-window-panel-header = Vyberte, čo sa má presunúť do miniatúrneho okna
 # Selection for what to move to a Mini Window
 mini-window-panel-part-of-page = Časť stránky
 # Selection for what to move to a Mini Window
