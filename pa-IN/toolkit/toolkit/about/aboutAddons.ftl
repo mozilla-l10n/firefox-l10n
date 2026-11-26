@@ -61,7 +61,7 @@ detail-update-manual =
 detail-private-browsing-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਚੱਲਣਾ
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
+detail-private-disallowed-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਹੈ
 detail-private-disallowed-description2 = ਇਹ ਇਕਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਨਹੀਂ ਚੱਲੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਲਈ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੈ
@@ -81,8 +81,8 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ
-    .tooltiptext = ਇਹ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਚੈੱਕ ਕਰੋ
+    .label = ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ
+    .tooltiptext = ਇਸ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟਾਂ ਦੀ ਜਾਂਚ ਕਰੋ
     .accesskey = F
 detail-show-preferences =
     .label =
@@ -92,8 +92,8 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] ਇਸ ਐਡ-ਆਨ ਦੀਆਂ ਚੋਣਾਂ ਬਦਲੋ
-           *[other] ਇਸ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ
+            [windows] ਇਸ ਐਡ-ਆਨ ਦੀਆਂ ਚੋਣਾਂ ਨੂੰ ਬਦਲੋ
+           *[other] ਇਸ ਐਡ-ਆਨ ਦੀ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
         }
     .accesskey =
         { PLATFORM() ->
@@ -101,30 +101,30 @@ detail-show-preferences =
            *[other] P
         }
 detail-rating =
-    .value = ਰੇਟਿੰਗ
+    .value = ਦਰਜਾਬੰਦੀ
 addon-restart-now =
-    .label = ਹੁਣੇ ਮੁੜ-ਚਾਲੂ
+    .label = ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 disabled-unsigned-heading =
     .value = ਕੁਝ ਐਡ-ਆਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।
-disabled-unsigned-description = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਡ-ਆਨ ਨੂੰ { -brand-short-name } ਨਾਲ ਵਰਤਣ ਲਈ ਜਾਂਚਿਆ ਨਹੀਂ ਗਿਆ। ਤੁਸੀਂ <label data-l10n-name="find-addons">ਬਦਲ ਲਈ ਲੱਭ ਸਕਦੇ ਹੋ</label> ਜਾਂਚ ਡਿਵੈਲਪਰ ਨੂੰ ਉਹਨਾਂ ਦੀ ਜਾਂਚ ਕਰਵਾਉਣ ਲਈ ਕਹਿ ਸਕਦੇ ਹੋ।
-disabled-unsigned-learn-more = ਸਾਡੇ ਵਲੋਂ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਸੁਰੱਖਿਆ ਰੱਖਣ ਲਈ ਕੀਤੇ ਜਾਂਦੇ ਜਤਨਾਂ ਦੇ ਬਾਰੇ ਹੋਰ ਸਮਝੋ।
-disabled-unsigned-devinfo = ਡਿਵੈਲਪਰ, ਜੋ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਨੂੰ ਤਸਦੀਕ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਨ, ਸਾਡੇ <label data-l10n-name="learn-more">ਦਸਤੀ</label> ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।
-plugin-deprecation-description = ਕੁਝ ਗੁਆਚ ਗਿਆ? ਕੁਝ ਪਲੱਗਇਨਾਂ { -brand-short-name } ਵਲੋਂ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹਨ। <label data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ।</label>
-legacy-warning-show-legacy = ਪੁਰਾਣੀਆਂ ਇਕਸਟੈਸ਼ਨਾਂ ਵੇਖਾਓ
+disabled-unsigned-description = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਡ-ਆਨ ਨੂੰ { -brand-short-name } ਨਾਲ ਵਰਤਣ ਲਈ ਜਾਂਚਿਆ ਨਹੀਂ ਗਿਆ। ਤੁਸੀਂ <label data-l10n-name="find-addons">ਬਦਲ ਲਈ ਲੱਭ ਸਕਦੇ ਹੋ</label> ਜਾਂ ਡਿਵੈਲਪਰ ਨੂੰ ਉਹਨਾਂ ਦੀ ਜਾਂਚ ਕਰਵਾਉਣ ਲਈ ਕਹਿ ਸਕਦੇ ਹੋ।
+disabled-unsigned-learn-more = ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਸੁਰੱਖਿਆ ਰੱਖਣ ਲਈ ਕੀਤੀਆਂ ਸਾਡੀਆਂ ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਰੇ ਹੋਰ ਸਮਝੋ।
+disabled-unsigned-devinfo = ਡਿਵੈਲਪਰ, ਜੋ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਨੂੰ ਤਸਦੀਕ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਨ, ਸਾਡੇ <label data-l10n-name="learn-more">ਦਸਤਾਵੇਜ਼</label> ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।
+plugin-deprecation-description = ਕੁਝ ਗੁਆਚ ਗਿਆ? ਕੁਝ ਪਲੱਗਇਨਾਂ { -brand-short-name } ਵਲੋਂ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਨ।<label data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ।</label>
+legacy-warning-show-legacy = ਪੁਰਾਣੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਵੇਖੋ
 legacy-extensions =
-    .value = ਪੁਰਾਣੀਆਂ ਇਕਟੈਨਸ਼ਨਾਂ
-legacy-extensions-description = ਇਹ ਇਕਟੈਸ਼ਨਾਂ ਮੌਜੂਦਾ { -brand-short-name } ਸਟੈਂਡਰਡਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ ਇਸਕਰਕੇ ਇਹਨਾਂ ਨੂੰ ਨਾ-ਸਰਗਰਮ ਕੀਤਾ ਗਿਆ ਹੈ। <label data-l10n-name="legacy-learn-more">ਐਡ-ਆਨ 'ਚ ਤਬਦੀਲੀਆਂ ਬਾਰੇ ਜਾਣੋ</label>
+    .value = ਪੁਰਾਣੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ
+legacy-extensions-description = ਇਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਮੌਜੂਦਾ { -brand-short-name } ਮਿਆਰਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ, ਇਸਕਰਕੇ ਇਹਨਾਂ ਨੂੰ ਨਾ-ਸਰਗਰਮ ਕੀਤਾ ਗਿਆ ਹੈ। <label data-l10n-name="legacy-learn-more">ਐਡ-ਆਨ 'ਚ ਤਬਦੀਲੀਆਂ ਬਾਰੇ ਜਾਣੋ</label>
 private-browsing-description2 =
-    { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੇ ਕੰਮ ਕਰਨ ਦੇ ਢੰਗ ਨੂੰ ਬਦਲ ਰਿਹਾ ਹੈ। ਤੁਹਾਡੇ { -brand-short-name } ਵਿੱਚ ਜੋੜੀ ਗਈ ਕੋਈ ਵੀ ਨਵੀਂ ਇਕਸਟੈਨਸ਼ਨ ਆਪਣੇ-ਆਪ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਨਹੀਂ ਚੱਲੇਗੀ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿਉਂਗੇ, ਇਕਸਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਕੰਮ ਨਹੀਂ ਕਰੇਗੀ ਅਤੇ ਤੁਹਾੀਡਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਨਹੀਂ ਕਰ ਸਕੇਗੀ। ਅਸੀਂ ਇਹ ਤਬਦੀਲੀ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਨਿੱਜੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਕੀਤੀ ਹੈ।
+    { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੇ ਕੰਮ ਕਰਨ ਦੇ ਢੰਗ ਨੂੰ ਬਦਲ ਰਿਹਾ ਹੈ। ਤੁਹਾਡੇ { -brand-short-name } ਵਿੱਚ ਜੋੜੀ ਗਈ ਕੋਈ ਵੀ ਨਵੀਂ ਇਕਸਟੈਨਸ਼ਨ ਆਪਣੇ-ਆਪ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਨਹੀਂ ਚੱਲੇਗੀ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਦਿਉਂਗੇ, ਇਕਸਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਕੰਮ ਨਹੀਂ ਕਰੇਗੀ ਅਤੇ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਨਹੀਂ ਕਰ ਸਕੇਗੀ। ਅਸੀਂ ਇਹ ਤਬਦੀਲੀ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਨਿੱਜੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਕੀਤੀ ਹੈ।
     <label data-l10n-name="private-browsing-learn-more">ਇਕਸਟੈਨਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</label>
 aboutaddons-sidebar =
     .heading = ਐਡ-ਆਨ
-addon-category-discover = ਸਿਫਾਰਸ਼
+addon-category-discover = ਸਿਫਾਰਸ਼ਾਂ
 addon-category-discover-title =
-    .title = ਸਿਫਾਰਸ਼
-addon-category-extension = ਇਕਸਟੈਨਸ਼ਨ
+    .title = ਸਿਫਾਰਸ਼ਾਂ
+addon-category-extension = ਇਕਸਟੈਨਸ਼ਨਾਂ
 addon-category-extension-title =
-    .title = ਇਕਸਟੈਨਸ਼ਨ
+    .title = ਇਕਸਟੈਨਸ਼ਨਾਂ
 addon-category-theme = ਥੀਮ
 addon-category-theme-title =
     .title = ਥੀਮ
@@ -154,13 +154,13 @@ addon-sitepermission-host = { $host } ਲਈ ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ
 ## These are global warnings
 
 extensions-warning-check-compatibility2 =
-    .message = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
+    .message = ਐਡ-ਆਨ ਢੁੱਕਵੇਂਪਣ ਦੀ ਜਾਂਚ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਢੁੱਕਵੀਆਂ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
 extensions-warning-check-compatibility-button = ਸਮਰੱਥ
     .title = ਐਡ-ਆਨ ਦੇ ਢੁੱਕਵੇਂਪਣ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
 extensions-warning-update-security2 =
-    .message = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
+    .message = ਐਡ-ਆਨ ਦੇ ਅੱਪਡੇਟ ਦੀ ਸੁਰੱਖਿਆ ਜਾਂਚ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 extensions-warning-update-security-button = ਸਮਰੱਥ
-    .title = ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+    .title = ਐਡ-ਆਨ ਦੇ ਅੱਪਡੇਟ ਲਈ ਸੁਰੱਖਿਆ ਜਾਂਚ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
 extensions-warning-imported-addons2 =
     .message = { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰੋ।
 extensions-warning-imported-addons-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਇੰਸਟਾਲ ਕਰੋ
