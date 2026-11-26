@@ -706,6 +706,7 @@ pdfjs-digital-signature-properties-button-label = 数字签名属性
 ## Variables:
 ##   $count (Number) - number of signatures at the worst level.
 
+pdfjs-digital-signature-properties-banner-verified = 文档已使用有效的数字签名进行签名
 pdfjs-digital-signature-properties-banner-unknown = 文档已签名，但有 { $count } 个数字签名无法验证
 pdfjs-digital-signature-properties-banner-untrusted = 文档使用了 { $count } 个不受信任的证书进行签名
 pdfjs-digital-signature-properties-banner-expired = 文档使用了 { $count } 个过期的证书进行签名
