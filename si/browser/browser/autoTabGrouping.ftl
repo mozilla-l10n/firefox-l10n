@@ -32,6 +32,17 @@ smartwindow-group-tabs-suggested-heading = යෝජිත සමූහ
 #   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
 smartwindow-group-tabs-flyout-list =
     .aria-label = { $groupLabel } හි පටිති
+# Accessible name for a suggested-group row. Activating the row creates the
+# group.
+# Variables:
+#   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
+#   $tabCount (Number) - Number of tabs the group would contain
+smartwindow-group-tabs-suggestion =
+    .aria-label =
+        { $tabCount ->
+            [one] පටිති { $tabCount }, { $groupLabel } සමූහය සාදන්න
+           *[other] පටිති { $tabCount }, { $groupLabel } සමූහය සාදන්න
+        }
 # Heading for the list of groups the user just created (and can still undo).
 smartwindow-group-tabs-just-created-heading = සාදන ලදි
 # Action that dissolves every group in the "Just created" list. The tabs stay
