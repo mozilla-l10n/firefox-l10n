@@ -272,6 +272,9 @@ colorway-removal-notice-button = Güncellenen renk kuşağı temalarını indiri
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = Windows karşıtlık ayarlarınız { -brand-short-name } temalarını geçersiz kılıyor. { -brand-short-name } tarayıcınızda temaları kullanmak için bu ayarları kapatın.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = { -smart-window-brand-name }, sistem ayarlarınıza uyan kendi açık ve koyu temalarına sahiptir.
 privacy-policy = Gizlilik İlkeleri
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

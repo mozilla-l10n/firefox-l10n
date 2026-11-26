@@ -444,7 +444,7 @@ recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> ਨੂੰ ਅੱਗੇ ਦਿੱਤੀਆਂ ਸਮਰੱਥਾਵਾਂ ਦੀ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਹੈ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = ਕਲਾ ਜਾਗਦੀ ਹੈ?<a data-l10n-name="link">Firefox ਰੰਗ ਨਾਲ ਆਪਣਾ ਖੁਦ ਦਾ ਥੀਮ ਬਣਾਓ।</a>
+recommended-theme-1 = ਕਲਾ ਜਾਗ ਰਹੀ ਹੈ?<a data-l10n-name="link">Firefox ਰੰਗ ਨਾਲ ਆਪਣਾ ਖੁਦ ਦਾ ਥੀਮ ਬਣਾਓ।</a>
 
 ## Page headings
 
@@ -461,8 +461,8 @@ default-heading-search-label = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ
 addons-heading-search-input =
     .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
 addons-heading-search-button =
-    .aria-label = addons.mozilla.org ਉੱਤੇ ਖੋਜੋ
-    .title = addons.mozilla.org ਉੱਤੇ ਖੋਜੋ
+    .aria-label = addons.mozilla.org ਉੱਤੇ ਲੱਭੋ
+    .title = addons.mozilla.org ਉੱਤੇ ਲੱਭੋ
 addon-page-options-button =
     .title = ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ
 
@@ -477,21 +477,21 @@ details-notification-incompatible2 =
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
 details-notification-unsigned2 =
-    .message = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਧਿਆਨ ਨਾਲ ਵਰਤੋਂ।
+    .message = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਧਿਆਨ ਨਾਲ ਵਰਤਿਓ।
 details-notification-hard-blocked-extension =
-    .message = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਨ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
+    .message = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ Mozilla ਦੀਆਂ ਨੀਤੀਆਂ ਦੀ ਉਲੰਘਣਾ ਕਰਨ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
 details-notification-hard-blocked-other =
-    .message = ਇਸ ਐਡ-ਆਨ ਨੂੰ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਨ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
-details-notification-blocked-link2 = ਵੇਰਵੇ ਵੇਖੋ
+    .message = ਇਸ ਐਡ-ਆਨ ਨੂੰ Mozilla ਦੀਆਂ ਨੀਤੀਆਂ ਦੀ ਉਲੰਘਣਾ ਕਰਨ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
+details-notification-blocked-link2 = ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖੋ
 details-notification-soft-blocked-extension-disabled2 =
-    .message = ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
+    .message = ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ ਰੋਕ ਲਾਈ ਗਈ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਤੋਂ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 details-notification-soft-blocked-extension-enabled2 =
-    .message = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
+    .message = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ ਰੋਕ ਲਾਈ ਗਈ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
 details-notification-soft-blocked-other-disabled2 =
-    .message = ਇਹ ਐਡ-ਆਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
+    .message = ਇਹ ਐਡ-ਆਨ ਉੱਤੇ ਰੋਕ ਲਾਈ ਗਈ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਤੋਂ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 details-notification-soft-blocked-other-enabled2 =
-    .message = ਇਸ ਐਡ-ਆਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
-details-notification-softblocked-link2 = ਵੇਰਵੇ ਵੇਖੋ
+    .message = ਇਸ ਐਡ-ਆਨ ਉੱਤੇ ਰੋਕ ਲਾਈ ਗਈ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
+details-notification-softblocked-link2 = ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖੋ
 details-notification-gmp-pending2 =
     .message = { $name } ਨੂੰ ਛੇਤੀ ਹੀ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ।
 

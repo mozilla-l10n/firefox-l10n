@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Gerçek e-posta adresinizi gizleyerek gelen kutunuzu spam’den korur.
     .label = { -relay-brand-name } e-posta maskeleri öner
+preferences-window-lock-macos =
+    .description = Bilgisayarınız kilitlendikten, uykuya daldıktan veya ekran koruyucuyu başlattıktan sonra { -brand-short-name }, cihaz parolanızı veya geçiş anahtarınızı isteyecektir.
+    .label = Gizli pencereleri otomatik olarak kilitle
+preferences-window-lock-windows =
+    .description = Bilgisayarınız kilitlendikten sonra { -brand-short-name } cihaz parolanızı veya geçiş anahtarınızı isteyecektir.
+    .label = Gizli pencereleri otomatik olarak kilitle
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -649,6 +655,14 @@ support-get-help =
     .label = Yardım alın
 support-share-ideas =
     .label = Fikirlerinizi ve görüşlerinizi paylaşın
+
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = { -brand-product-name } deneyiminizi iyileştirecek rehberleri, önerileri ve haberleri alın.
+    .label = { -brand-product-name } bülteni
+newsletter-sign-up-link =
+    .label = Kaydol
 
 ## General Section - Performance
 
