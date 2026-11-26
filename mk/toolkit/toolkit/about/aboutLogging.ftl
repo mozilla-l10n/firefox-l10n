@@ -59,6 +59,7 @@ about-logging-preset-web-compat-label = Мрежна компатибилнос�
 about-logging-preset-web-compat-description = Модули на записникот за дијагноза на проблеми со мрежна компатибилност
 about-logging-preset-navigation = Навигација
 about-logging-preset-navigation-description = Модули на записникот за дијагноза на проблеми со навигација и сесии
+about-logging-preset-vpn-label = VPN
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модули на записникот за дијагноза на проблеми со WebGPU
 about-logging-preset-gfx-label = Графика
