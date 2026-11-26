@@ -10,6 +10,10 @@ dom-document-write-ignored = È stata ignorata una chiamata a document.write() e
 # Variables:
 #   $url (String) - URL of a page with more information about speculative parsing.
 dom-parser-speculation-failed = La scrittura di un albero non bilanciato tramite document.write() ha richiesto un ulteriore parsing dei dati dalla rete. Per ulteriori informazioni consultare { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds() non è stato chiamato in modo sincrono all’interno del listener dell’evento characterboundsupdate. L’interfaccia IME potrebbe spostarsi in modo inatteso per alcuni utenti. Ulteriori informazioni: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
