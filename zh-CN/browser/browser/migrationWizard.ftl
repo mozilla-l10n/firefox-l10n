@@ -45,6 +45,14 @@ migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = 阅读列表（来自 Safari 浏览器）
 migration-imported-edge-reading-list = 阅读列表（来自 Edge）
+# Name of the bookmark folder created when importing a space from the Arc
+# browser that the user did not give a name. Spaces are Arc's way of grouping
+# tabs, similar to tab groups.
+# Note: Arc was never localized so there are no official translastions for "Spaces"
+#
+# Variables:
+#  $number (Number): the position of the space among the imported profile's spaces, starting at 1.
+migration-imported-arc-untitled-space = Space { $number }
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
