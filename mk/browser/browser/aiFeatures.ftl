@@ -87,3 +87,31 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Избриши сè
 ai-window-delete-all-memories-title = Избриши ја сета меморија?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Постоечката меморија ќе биде избришана. Ако не сакате да се креира нова меморија, отштиклирајте ги опциите на „Учи од…“ во поставките на { -smart-window-brand-name }.
+ai-window-delete-all-memories-confirm = Избриши
+ai-window-delete-all-memories-cancel = Откажи
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .aria-label = Избриши { $label }
+    .title = Избриши меморија
+smart-window-model-fast-v2 =
+    .description = Најдобро за одговори кога брзината е важна. Целосно име: { $model } од { $ownerName }
+    .label = { $shortName }: Брзо
+smart-window-model-flexible-v2 =
+    .description = Подготвен за различни задачи. Целосно име: { $model } од { $ownerName }
+    .label = { $shortName }: Флексибилно
+smart-window-model-personal-v2 =
+    .description = Создадено за персонализирана помош на повеќе јазици. Целосно име: { $model } од { $ownerName }
+    .label = { $shortName }: Лично
+smart-window-model-qwen =
+    .description = Подготвен за различни задачи. Целосно име: { $model } од { $ownerName }
+    .label = { $shortName }
+smart-window-model-mistral =
+    .description = Добро е ако разговарате и пребарувате на повеќе јазици. Целосно име: { $model } од { $ownerName }
+    .label = { $shortName }
+smart-window-model-gemini =
+    .description = Брзи одговори кога се движите брзо. Целосно име: { $model } од { $ownerName }
+    .label = { $shortName }
