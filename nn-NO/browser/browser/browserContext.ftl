@@ -147,6 +147,9 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Rediger bokmerke…
     .tooltiptext = Rediger bokmerke ({ $shortcut })
+main-context-menu-bookmark-link-3 =
+    .label = Bokmerk…
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +376,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Slå på handlingar-menyen
     .accesskey = h
+main-context-menu-link-send-to-your-devices =
+    .label = Send til einingane dine
+    .accesskey = S
 main-context-menu-link-send-to-device =
     .label = Send lenke til eining
     .accesskey = e

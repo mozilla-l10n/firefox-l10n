@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Lagre fila
     .accesskey = L
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Lagre fila
 unknowncontenttype-remember-choice =
     .label = Gjer dette automatisk frå no av.
     .accesskey = d

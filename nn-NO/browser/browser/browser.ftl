@@ -1207,6 +1207,7 @@ qrcode-save-button =
     .label = Lagre
 qrcode-window-title = QR-kode
 qrcode-dialog-title = QR-kode
+qrcode-dialog-title-download-mobile = Last ned { -brand-product-name } for mobil
 qrcode-image =
     .aria-label = QR-kode
 qrcode-close-button =
@@ -1692,6 +1693,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Utvida sporingsvern er på
 trustpanel-etp-label-disabled = Utvida sporingsvern er av
+trustpanel-etp-label-redesign = Utvida sporingsvern
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1702,6 +1704,9 @@ trustpanel-etp-toggle-off =
     .aria-label = Utvida sporingsvern: På for { $host }
 trustpanel-etp-description-enabled = Viss noko ser øydelagt ut på denne nettstaden, prøv å slå av vernet.
 trustpanel-etp-description-disabled = { -brand-product-name } meiner at selskap burde følgje deg mindre. Vi blokkerar så mange sporarar som mogleg når du slår på vern.
+trustpanel-trackercount-label = Vis blokkerte sporarar i adressefeltet
+trustpanel-trackercount-toggle =
+    .aria-label = Vis blokkerte sporarar i adressefeltet
 trustpanel-connection-label-secure = Tilkoplinga er trygg
 trustpanel-connection-label-insecure = Tilkoplinga er ikkje trygg
 trustpanel-header-enabled = { -brand-product-name } er på vakt
@@ -1712,6 +1717,7 @@ trustpanel-header-disabled = Du har slått av vern
 trustpanel-description-disabled = { -brand-product-name } er deaktivert. Vi føreslår at du skrur på vernet igjen.
 trustpanel-clear-cookies-button = Slett infokapslar og nettstad-data
 trustpanel-privacy-link = Personverninnstillingar
+trustpanel-manage-settings-button = Handsam innstillingar
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1725,6 +1731,7 @@ trustpanel-site-information-header =
     .title = Tilkoplingsvern for { $host }
 trustpanel-siteinformation-morelink = Meir informasjon om nettstaden
 trustpanel-blocker-see-all = Vis alle
+trustpanel-blocker-see-trackers-button = Sjå sporarar
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =

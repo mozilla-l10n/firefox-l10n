@@ -264,6 +264,9 @@ ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
 ipprotection-message-body-hide-location = Skjul plasseringa di når du surfar med { -brand-product-name } for meir personvern og kontroll.
 ipprotection-connection-status-generic-error-title-1 = Klarte ikkje å kople til VPN
     .aria-label = Klarte ikkje å kople til VPN
+ipprotection-connection-status-try-again-button = Prøv igjen
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Hald fram utan VPN
 
 ## IP Protection bandwidth callouts
 
