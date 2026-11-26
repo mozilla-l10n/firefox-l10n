@@ -5,4 +5,5 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = È stata trasmessa una stringa vuota a getElementById().
 dom-document-write-ignored = È stata ignorata una chiamata a document.write() eseguita da uno script esterno caricato in modalità asincrona.

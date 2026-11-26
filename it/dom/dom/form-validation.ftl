@@ -16,3 +16,7 @@ dom-form-validation-invalid-url = Inserire un URL
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Selezionare un valore valido. I due valori validi più vicini sono { $lowValue } e { $highValue }
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Selezionare un valore valido. Il valore valido più vicino è { $value }
