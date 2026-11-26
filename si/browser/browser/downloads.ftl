@@ -274,6 +274,7 @@ downloads-unblock-type-potentially-unwanted = මෙම ගොනුව ප්�
 downloads-unblock-type-uncommon = මෙම ගොනුව සාමාන්‍යයෙන් බාගත නොකරන අතර විවෘත කිරීම අනතුරුදායක විය හැකිය. එහි වයිරසයක් පැවතීමට හෝ ඔබගේ වැඩසටහන් සහ සැකසුම් අනපේක්‍ෂිත පරිදි වෙනස් කිරීමට ඉඩ තිබේ.
 downloads-unblock-insecure = ආරක්‍ෂිත HTTPS සම්බන්‍ධතාවක් හරහා වත්මන් ලේඛනය ලබා දුන්න ද බාගැනීමට HTTP හරහා පිරිනමයි. ඔබ ඉදිරියට ගියහොත්, බාගැනීමේ ක්‍රියාවලියේ දී එය දූෂිත හෝ විකෘති වීමට ඉඩ ඇත.
 downloads-unblock-tip = විකල්ප බාගැනීමේ මූලාශ්‍රයක් සෙවීමට හෝ පසුව උත්සාහ කිරීමට හැකිය.
+downloads-unblock-content-analysis-warn-tip = ඔබට කෙසේ වුවත් බාගන්න තේරීමට හැකිය.
 downloads-unblock-button-open =
     .label = අරින්න
 downloads-unblock-button-unblock =

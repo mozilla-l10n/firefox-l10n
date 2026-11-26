@@ -17,6 +17,8 @@ home-homepage-new-tabs =
 
 ## Firefox Home content
 
+home-prefs-choose-wallpaper-link2 =
+    .label = බිතුපතක් තෝරන්න
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -249,6 +251,7 @@ newtab-custom-settings = වෙනත් සැකසුම් කළමනා�
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = බිතුපත්
+newtab-wallpaper-custom-color = වර්ණයක් තෝරන්න
 newtab-wallpaper-toggle-title =
     .label = බිතුපත්
 
@@ -297,6 +300,7 @@ newtab-weather-menu-change-temperature-units-celsius = සෙල්සියස�
 newtab-weather-menu-learn-more = තව දැනගන්න
 # This message is shown if user is working offline
 newtab-weather-error-not-available = කාලගුණ දත්ත දැනට නොතිබේ.
+newtab-weather-opt-in-choose-location = ස්ථානය තෝරන්න
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -307,6 +311,20 @@ newtab-section-blocked-button = අවහිරයි
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-blocked-topics = අවහිරයි
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-cta = බිතුපත තෝරන්න
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = බිතුපත තෝරන්න
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = ඔබගේ පෙනුම තෝරන්න
 
 ## Strings for the Clock widget
 

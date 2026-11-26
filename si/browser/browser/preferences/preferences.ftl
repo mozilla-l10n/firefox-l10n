@@ -457,6 +457,9 @@ choose-bookmark =
     .accesskey = B
 home-homepage-new-tabs =
     .label = නව පටිති
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = නිශ්චිත අඩවියක් තෝරන්න
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
@@ -495,6 +498,7 @@ home-prefs-weather-header =
     .label = කාලගුණය
 home-prefs-weather-description = අද අනාවැකිය කෙටියෙන්
 home-prefs-weather-learn-more-link = තව දැනගන්න
+home-prefs-choose-wallpaper-link = බිතුපතක් තෝරන්න
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -973,6 +977,8 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
+backup-multi-profile-warning-message =
+    .message = මෙම වෙනස ඔබගේ උපස්ථවල ඇතුළත් බව සහතික කර ගැනීමට, එක් එක් පැතිකඩ විවෘත කර සැකසුම් තුළ “දැන් උපස්ථ කරන්න” තෝරන්න.
 addon-recommendations3 =
     .description = ඔබගේ පිරික්සුම් අත්දැකීම ඉහළ නැංවීමට දිගු නිර්දේශ ලබා ගන්න.
     .label = පුද්ගලීකරණ දිගු නිර්දේශයට ඉඩ දෙන්න
@@ -1101,6 +1107,8 @@ preferences-doh-select-resolver = ප්‍රතිපාදකය තෝරන
 preferences-doh-manage-exceptions =
     .label = හැරදැමීම් කළමනාකරණය…
     .accesskey = x
+preferences-doh-select-resolver-label =
+    .label = ප්‍රතිපාදකය තෝරන්න:
 
 ## The following strings are used in the Download section of settings
 
