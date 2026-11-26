@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = დააწყვეთ თქვ
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = დაჯგუფების დაწყება
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = მიიღეთ ცნობები საიტებისგან, როცა { -brand-short-name } დახურულია
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = თქვენ მიერ ნებადართულ საიტებს ახლა უკვე შეუძლიათ ცნობები გამოგზავნონ მაშინაც კი, როცა { -brand-short-name } დახურულია. <a data-l10n-name="learn-more">ვრცლად</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = მართვა
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = გამორთვა
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = დატოვება
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = ჩანართების სათაურების ჩვენება გვერდით ზოლზე

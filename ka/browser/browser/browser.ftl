@@ -1208,6 +1208,7 @@ qrcode-save-button =
     .label = შენახვა
 qrcode-window-title = QR-კოდი
 qrcode-dialog-title = QR-კოდი
+qrcode-dialog-title-download-mobile = ჩამოტვირთეთ { -brand-product-name } მობილურზე
 qrcode-image =
     .aria-label = QR-კოდი
 qrcode-close-button =
@@ -1694,6 +1695,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = თვალთვალისგან გაძლიერებული დაცვა ჩართ.
 trustpanel-etp-label-disabled = თვალთვალისგან გაძლიერებული დაცვა გამორთ.
+trustpanel-etp-label-redesign = თვალთვალისგან გაძლიერებული დაცვა
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1716,7 +1718,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } რაღა�
 trustpanel-header-disabled = გამორთული გაქვთ დაცვა
 trustpanel-description-disabled = { -brand-product-name } უქმადაა. გირჩევთ, კვლავ ჩართოთ დაცვა.
 trustpanel-clear-cookies-button = ფუნთუშებისა და საიტის მონაცემების გასუფთავება
+trustpanel-delete-site-data-button = საიტის მონაცემების წაშლა
+trustpanel-fix-site-issue-button = საიტზე ხარვეზის გამოსწორება
 trustpanel-privacy-link = პირადულობის გამართვა
+trustpanel-manage-settings-button = პარამეტრების მართვა
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1730,6 +1735,7 @@ trustpanel-site-information-header =
     .title = კავშირის უსაფრთხოება საიტთან { $host }
 trustpanel-siteinformation-morelink = საიტის სხვა მონაცემები
 trustpanel-blocker-see-all = ყველას ნახვა
+trustpanel-blocker-see-trackers-button = იხილეთ მეთვალყურეები
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1839,6 +1845,17 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
        *[other] <span data-l10n-name="count">{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } ზღუდავს <span data-l10n-name="count">{ $count }</span> მეთვალყურეს ამ საიტზე
+       *[other] { -brand-short-name } ზღუდავს <span data-l10n-name="count">{ $count }</span> მეთვალყურეს ამ საიტზე
+    }
+trustpanel-blocker-description-redesign = ამ მეთვალყურეებს შეეზღუდათ თქვენ მიერ მონახულებულ გვერდებთან წვდომა.
+trustpanel-no-trackers-header-redesign = ამ საიტზე მეთვალყურეები ვერ მოიძებნა
+trustpanel-etp-off-description-redesign = ჩართეთ დაცვა და { -brand-short-name } შეზღუდავს ცნობილ მეთვალყურეებს, რომ აღუკვეთოს მათ თქვენ მიერ მონახულებული მასალების შეგროვება.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

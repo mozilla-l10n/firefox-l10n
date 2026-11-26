@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = სანიშნის ჩასწორება…
     .tooltiptext = სანიშნის ჩასწორება ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = გახსნა
+    .accesskey = გ
+main-context-menu-open-link-new-tab-2 =
+    .label = გახსნა ახალ ჩანართში
+    .accesskey = რ
+main-context-menu-open-link-split-view-2 =
+    .label = გახსნა გაყოფილი ხედით
+    .accesskey = ყ
+main-context-menu-open-link-container-tab-2 =
+    .label = გახსნა ახალ სათავს ჩანართში
+    .accesskey = ლ
+main-context-menu-open-link-new-window-2 =
+    .label = გახსნა ახალ ფანჯარაში
+    .accesskey = ფ
+main-context-menu-open-link-mini-window =
+    .label = გახსნა მცირე ფანჯარაში
+    .accesskey = ც
+main-context-menu-open-link-new-private-window-2 =
+    .label = გახსნა ახალ პირად ფანჯარაში
+    .accesskey = პ
+main-context-menu-bookmark-link-3 =
+    .label = ჩანიშვნა…
+    .accesskey = ვ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = მოქმედებების მენიუს ჩართვა
     .accesskey = ქ
+main-context-menu-link-send-to-your-devices =
+    .label = მოწყობილობებზე გაგზავნა
+    .accesskey = ზ
 main-context-menu-link-send-to-device =
     .label = ბმულის გაგზავნა მოწყობილობაზე
     .accesskey = წ
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = ვრცლად, რა არის DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = გახსნა ახალ ჩანართში { $containerName }
+    .accesskey = ნ
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
