@@ -362,11 +362,11 @@ addon-detail-reviews-link =
 pending-uninstall-description2 =
     .message = { $addon } ਨੂੰ ਹਟਾਇਆ ਗਿਆ।
 pending-uninstall-undo-button = ਵਾਪਸ
-addon-detail-updates-label = ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਦੀ ਇਜਾਜ਼ਤ ਹੈ
+addon-detail-updates-label = ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਦੀ ਮਨਜ਼ੂਰੀ ਹੈ
 addon-detail-updates-radio-default = ਮੂਲ
 addon-detail-updates-radio-on = ਚਾਲੂ
 addon-detail-updates-radio-off = ਬੰਦ
-addon-detail-update-check-label = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ
+addon-detail-update-check-label = ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ
 install-update-button = ਅੱਪਡੇਟ ਕਰੋ
 # aria-label associated to the updates row to help screen readers to announce the group
 # of input controls being entered.
@@ -375,10 +375,10 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦਿਓ
+    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਮਨਜ਼ੂਰੀ ਹੈ
 addon-detail-private-browsing-help = ਜਦੋਂ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਵੀ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
-addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
+addon-detail-private-browsing-disallow = ਨਾ-ਮਨਜ਼ੂਰ ਕਰੋ
 # aria-label associated to the private browsing row to help screen readers to announce the group
 # of input controls being entered.
 addon-detail-group-label-private-browsing =
@@ -390,7 +390,7 @@ addon-detail-group-label-private-browsing =
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = ਪਾਬੰਦੀਆਂ ਨਾਲ ਸਾਈਟਾਂ ਉੱਤੇ ਚਲਾਓ
 # Used as help text part of the quarantined domains UI controls row.
-addon-detail-quarantined-domains-help = ਜਦ ਮਨਜ਼ੂਰ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਕੋਲ { -vendor-short-name } ਵਲੋਂ ਪਾਬੰਦੀਆਂ ਲਾਈਆਂ ਸਾਈਟਾਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। ਜੇ ਤੁਸੀਂ ਇਸ ਇਕਸਟੈਨਸ਼ਨ  ਉੱਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
+addon-detail-quarantined-domains-help = ਜਦ ਮਨਜ਼ੂਰ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਕੋਲ { -vendor-short-name } ਵਲੋਂ ਪਾਬੰਦੀਆਂ ਲਾਈਆਂ ਸਾਈਟਾਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। ਜੇ ਤੁਸੀਂ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = ਮਨਜ਼ੂਰ
 addon-detail-quarantined-domains-disallow = ਨਾ-ਮਨਜ਼ੂਰ ਕਰੋ
@@ -404,14 +404,14 @@ addon-detail-group-label-quarantined-domains =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
-    .title = ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਵਲੋਂ ਬਣਾਈ ਹੈ। ਸਾਰੇ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰਾ ਉਤਰਦੀ ਹੈ।
+    .title = ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਵਲੋਂ ਬਣਾਈ ਹੈ। ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰਾ ਉਤਰਦੀ ਹੈ।
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are performing the
 # security or performance reviews. As such, we avoid personalising language
 # like the words "our" or "we".
 addon-badge-verified4 =
-    .title = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
+    .title = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -427,7 +427,7 @@ recent-updates-heading = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
 release-notes-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 release-notes-error = ਅਫਸੋਸ, ਪਰ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ।
 addon-permissions-heading = ਇਜਾਜ਼ਤਾਂ
-addon-permissions-empty2 = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਕਿਸੇ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।
+addon-permissions-empty2 = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਕਿਸੇ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।
 addon-permissions-required-label = ਲੋੜੀਂਦੇ:
 addon-permissions-optional-label = ਚੋਣਵੇਂ:
 addon-permissions-learnmore = ਇਜਾਜ਼ਤਾਂ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
