@@ -708,7 +708,9 @@ pdfjs-digital-signature-properties-button-label = 数字签名属性
 
 pdfjs-digital-signature-properties-banner-unknown = 文档已签名，但有 { $count } 个数字签名无法验证
 pdfjs-digital-signature-properties-banner-untrusted = 文档使用了 { $count } 个不受信任的证书进行签名
+pdfjs-digital-signature-properties-banner-expired = 文档使用了 { $count } 个过期的证书进行签名
 pdfjs-digital-signature-properties-banner-invalid = 文档具有 { $count } 个无效的数字签名
+pdfjs-digital-signature-properties-banner-revoked = 文档使用了 { $count } 个已吊销的证书进行签名
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be
