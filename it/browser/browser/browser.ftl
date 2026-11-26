@@ -1909,6 +1909,11 @@ trustpanel-blocker-section-header2 =
        *[other] <span data-l10n-name="count">{ $count }</span> elementi traccianti bloccati in questo sito
     }
 
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = La privacy al tuo servizio
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } impedisce alle aziende di seguirti facilmente. Apri lo scudo per scoprire quali elementi traccianti sono stati bloccati.
+
 ## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
 ## Each one names a feature the user can turn off to check whether it causes
 ## the site issue.

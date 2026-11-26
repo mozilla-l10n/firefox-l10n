@@ -51,3 +51,21 @@ dom-form-validation-step-mismatch-one-value = Selezionare un valore valido. Il v
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Selezionare un valore compreso tra { $minimum } e { $maximum }.
 dom-form-validation-bad-input-number = Inserire un numero
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long =
+    { $maxLength ->
+        [one] Ridurre questo testo a non più di { $maxLengthText } carattere (lunghezza attuale: { $textLength }).
+       *[other] Ridurre questo testo a non più di { $maxLengthText } caratteri (lunghezza attuale: { $textLength }).
+    }
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short =
+    { $minLength ->
+        [one] Inserire almeno { $minLengthText } carattere (lunghezza attuale: { $textLength }).
+       *[other] Inserire almeno { $minLengthText } caratteri (lunghezza attuale: { $textLength }).
+    }
