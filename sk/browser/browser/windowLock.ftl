@@ -7,6 +7,9 @@
 ## sleep or starts the screen saver, or after the user presses the shortcut to
 ## lock windows.
 
+window-lock-private-title = Súkromné okná sú uzamknuté
+window-lock-private-description-macos = { -brand-short-name } skryje vaše stránky v súkromných oknách, keď sa počítač uzamkne, prejde do režimu spánku alebo sa spustí šetrič obrazovky.
+window-lock-private-description-windows = Keď sa počítač uzamkne, { -brand-short-name } skryje vaše stránky v súkromných oknách.
 window-lock-unlock-button =
     .label = Odomknúť
 # Shown on the lock screen when the operating system authentication prompt failed with an error.

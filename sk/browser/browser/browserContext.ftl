@@ -469,6 +469,11 @@ main-context-menu-eme-learn-more =
     .accesskey = D
 # Variables
 #   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Otvoriť na novej karte kontajnera { $containerName }
+    .accesskey = a
+# Variables
+#   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
     .label = Otvoriť odkaz na novej karte v kontajneri { $containerName }
     .accesskey = z

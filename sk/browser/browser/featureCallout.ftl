@@ -199,8 +199,14 @@ tab-groups-2026-onboarding-cta-button = Založiť skupinu
 ## user has allowed, even while the browser is closed.
 
 closed-browser-notifications-callout-title = Dostávajte webové upozornenia aj po zatvorení prehliadača { -brand-short-name }
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Povolené stránky vám teraz môžu posielať upozornenia, aj keď je { -brand-short-name } zatvorený. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Spravovať
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Vypnúť
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Ponechať zapnuté
 
 ## Sidebar Strings
 

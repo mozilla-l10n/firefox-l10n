@@ -1224,6 +1224,7 @@ qrcode-save-button =
     .label = Uložiť
 qrcode-window-title = QR kód
 qrcode-dialog-title = QR kód
+qrcode-dialog-title-download-mobile = Stiahnite si { -brand-product-name(case: "acc") } pre mobilné zariadenia
 qrcode-image =
     .aria-label = QR kód
 qrcode-close-button =
@@ -1723,6 +1724,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Rozšírená ochrana pred sledovaním je zapnutá
 trustpanel-etp-label-disabled = Rozšírená ochrana pred sledovaním je vypnutá
+trustpanel-etp-label-redesign = Rozšírená ochrana pred sledovaním
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1907,6 +1909,12 @@ trustpanel-blocker-section-header2 =
 
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } zablokoval na tejto stránke <span data-l10n-name="count">{ $count }</span> sledovací prvok
+        [few] { -brand-short-name } zablokoval na tejto stránke <span data-l10n-name="count">{ $count }</span> sledovacie prvky
+       *[other] { -brand-short-name } zablokoval na tejto stránke <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
+    }
 trustpanel-blocker-description-redesign = Týmto sledovacím prvkom sme zabránili zhromažďovať informácie o vašom prehliadaní.
 trustpanel-no-trackers-header-redesign = Na tejto stránke sa nenašli žiadne sledovacie prvky
 trustpanel-no-trackers-description-redesign = { -brand-short-name } vyhľadal známe sledovacie prvky, no žiadne nenašiel.
