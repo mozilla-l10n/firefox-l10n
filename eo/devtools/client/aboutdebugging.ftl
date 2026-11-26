@@ -121,7 +121,7 @@ about-debugging-setup-usb-step-plug-device = Konektu la aparaton Android al via 
 about-debugging-setup-usb-troubleshoot = Ĉu estas problemoj en la konekto USB al la aparato? <a>Solvado de problemoj</a>
 # Network section of the Setup page
 about-debugging-setup-network =
-    .title = Reta situo
+    .title = Reta adreso
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
 about-debugging-setup-network-troubleshoot = Ĉu estas problemoj en la reta konekto? <a>Solvado de problemoj</a>
