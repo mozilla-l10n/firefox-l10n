@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = مدیریت PIN
 about-webauthn-credential-management-section-title = مدیریت اطلاعات کاربری
 about-webauthn-pin-required-section-title = ورود PIN الزامی است
 about-webauthn-confirm-deletion-section-title = تأیید حذف
+# Section showing a log of the messages exchanged with a security token (CTAP protocol).
+about-webauthn-logging-section-title = ثبت گزارش
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
 about-webauthn-bio-enrollment-section-title = ثبت‌های بیومتریک
 
@@ -31,6 +33,8 @@ about-webauthn-text-non-ctap2-device = به دلیل عدم پشتیبانی ت�
 about-webauthn-text-not-available = در این پلتفرم در دسترس نیست.
 about-webauthn-bio-enrollment-list-subsection-title = موارد ثبت‌شده:
 about-webauthn-add-bio-enrollment-section-title = افزودن ثبت بیومتریک جدید
+# CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
+about-webauthn-logging-scope-note = این فقط درخواست‌های پیاده‌سازی بومی CTAP در { -brand-short-name } را ثبت می‌کند. درخواست‌های ارسالی به APIهای WebAuthn سکو یا افزونه‌های مرورگر ثبت نمی‌شوند.
 
 ## Results label
 

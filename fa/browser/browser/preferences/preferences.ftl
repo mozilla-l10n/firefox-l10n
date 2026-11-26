@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = برای محافظت از صندوق ورودی شما در برابر هرزنامه‌ها، نشانی ایمیل واقعی شما را پنهان می‌کند.
     .label = پیشنهاد ماسک‌های ایمیل { -relay-brand-name }
+preferences-window-lock-macos =
+    .description = ‏{ -brand-short-name } پس از قفل شدن رایانه، رفتن به حالت خواب یا آغاز محافظ صفحه، گذرواژه یا کلید عبور دستگاه شما را می‌خواهد.
+    .label = قفل خودکار پنجره‌های ناشناس
+preferences-window-lock-windows =
+    .description = ‏{ -brand-short-name } پس از قفل شدن رایانه، گذرواژه یا کلید عبور دستگاه شما را می‌خواهد.
+    .label = قفل خودکار پنجره‌های ناشناس
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -652,6 +658,9 @@ support-share-ideas =
 
 ## Firefox newsletter
 
+newsletter-settings-heading =
+    .description = راهنماها، توصیه‌ها و خبرهایی دریافت کنید تا { -brand-product-name } به بهترین شکل برایتان کار کند.
+    .label = خبرنامهٔ { -brand-product-name }
 newsletter-sign-up-link =
     .label = نام‌نویسی
 

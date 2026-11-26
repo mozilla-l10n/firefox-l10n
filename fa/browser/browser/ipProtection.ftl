@@ -283,6 +283,12 @@ ipprotection-come-back-title = برای امتحان VPN داخلی بازگرد
 ipprotection-message-body-hide-location = برای حریم‌خصوصی و کنترل بیشتر، هنگام مرور وب در { -brand-product-name } موقعیت مکانی‌تان را پنهان کنید.
 ipprotection-connection-status-generic-error-title-1 = اتصال به VPN برقرار نشد
     .aria-label = اتصال به VPN برقرار نشد
+ipprotection-connection-status-try-again-button = تلاش دوباره
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = ادامه بدون VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = در حال تلاش دوباره…
+    .aria-label = در حال تلاش دوباره…
 
 ## IP Protection bandwidth callouts
 

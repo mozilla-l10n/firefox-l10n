@@ -11,6 +11,11 @@ mini-window-close-button =
 mini-window-restore-button =
     .label = بازگرداندن زبانه
     .tooltiptext = بازگرداندن زبانه
+# Button appearing in a Mini Window that was opened from a link on a webpage.
+# Clicking the button will move the Mini Window tab to the window it was opened from.
+mini-window-link-restore-button =
+    .label = انتقال زبانه به پنجره
+    .tooltiptext = انتقال زبانه به پنجره
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -72,5 +77,9 @@ mini-window-overlay-instructions = برای انتخاب ناحیه‌ای که 
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-header = انتخاب کنید چه چیزی به پنجرهٔ کوچک منتقل شود
+# Selection for what to move to a Mini Window
+mini-window-panel-part-of-page = بخشی از صفحه
+# Selection for what to move to a Mini Window
+mini-window-panel-full-page = کل صفحه
 mini-window-panel-move-selection = انتقال بخش انتخاب‌شده
 mini-window-panel-move-full-tab = انتقال کل زبانه
