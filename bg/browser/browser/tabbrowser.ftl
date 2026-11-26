@@ -234,6 +234,14 @@ tab-context-move-tab-to-group =
            *[other] Добавяне на разделите към група
         }
     .accesskey = г
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Добавяне на разделен изглед към нова група
+            [one] Добавяне на разделения изглед към нова група
+           *[other] Добавяне на разделените изгледи към нова група
+        }
+    .accesskey = Д
 tab-context-move-tab-to-group-saved-groups =
     .label = Затворени групи
 tab-group-editor-action-new-tab =
@@ -269,6 +277,13 @@ tab-context-ungroup-tab =
            *[other] Премахване от групи
         }
     .accesskey = г
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Нова група
 
 ## Open/saved tab group context menu
 
