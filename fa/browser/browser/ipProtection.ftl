@@ -218,6 +218,16 @@ ipprotection-locations-subview-promo =
     .heading = امنیت بیشتر با { -mozilla-vpn-brand-name }
     .message = از میان بیش از ۳۰۰ موقعیت مکانی انتخاب کنید و از همهٔ برنامه‌های خود تا حداکثر ۵ دستگاه محافظت نمایید.
 ipprotection-locations-subview-promo-button = دریافت { -mozilla-vpn-brand-name }
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = موقعیت‌های بیشتر. محافظت بیشتر.
+    .message =
+        { $count ->
+            [one] ‏{ -brand-short-name } را مرورگر پیش‌گزیده خود کنید و { $count } موقعیت دیگر بگیرید. پیوندهایتان اینجا باز می‌شوند، جایی که VPN داخلی است.
+           *[other] ‏{ -brand-short-name } را مرورگر پیش‌گزیده خود کنید و { $count } موقعیت دیگر بگیرید. پیوندهایتان اینجا باز می‌شوند، جایی که VPN داخلی است.
+        }
+ipprotection-locations-subview-set-default-promo-button = گشودن پیوندها با { -brand-short-name }
 
 ## VPN paused state
 
@@ -254,6 +264,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = نزدیک شدن به سقف مصرف VPN
     .message = این ماه { $usageLeft } مگابایت از { $maxUsage } گیگابایت شما باقی مانده است.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] { $additionalLocationsCount } موقعیت VPN دیگر گرفتید
+           *[other] { $additionalLocationsCount } موقعیت VPN دیگر گرفتید
+        }
+    .message = از اینکه { -brand-short-name } را مرورگر پیش‌گزیده خود کردید سپاسگزاریم. موقعیت‌های بیشتری برای مرور افزوده‌ایم.
 ipprotection-message-continuous-onboarding-intro = ‏VPN را روشن کنید تا موقعیت مکانی شما پنهان شده و رمزنگاری بیشتری به مرور وب شما اضافه شود.
 ipprotection-message-continuous-onboarding-autostart = برای داشتن یک لایهٔ امنیتی بیشتر، <a data-l10n-name="setting-link">VPN را طوری تنظیم کنید که هر بار با باز شدن { -brand-short-name } روشن شود</a>.
 ipprotection-message-continuous-onboarding-site-settings = ‏{ -brand-short-name } وب‌سایت‌هایی را که برای استفاده از VPN تنظیم کرده‌اید به خاطر خواهد آورد. هر زمان می‌توانید آن‌ها را در <a data-l10n-name="setting-link">تنظیمات</a> به‌روزرسانی کنید.
