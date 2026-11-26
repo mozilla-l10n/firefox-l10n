@@ -100,6 +100,7 @@ fxa-adoption-passwords-primary-button-label = Регистриране
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Дръжте любимите си емисии в лентата със задачи
+taskbar-tabs-social-callout-subtitle = Отворете социалните си страници като приложение в опростен прозорец, защитен от { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Чат от лентата със задачи
 
 ## Windows 10 EoS Sync messages group 1 callouts
