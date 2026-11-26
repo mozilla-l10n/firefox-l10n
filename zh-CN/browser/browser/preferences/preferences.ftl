@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = 隐藏真实邮箱地址，保护收件箱免受垃圾邮件侵扰。
     .label = 建议使用 { -relay-brand-name } 马甲邮箱
+preferences-window-lock-macos =
+    .description = 计算机锁定、睡眠、启动屏幕保护程序后，{ -brand-short-name } 会要求您提供设备密码或通行密钥。
+    .label = 自动锁定隐私窗口
+preferences-window-lock-windows =
+    .description = 计算机锁定后，{ -brand-short-name } 会要求您提供设备密码或通行密钥。
+    .label = 自动锁定隐私窗口
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -646,6 +652,14 @@ support-get-help =
 support-share-ideas =
     .label = 分享想法和反馈
 
+## Firefox newsletter
+
+newsletter-settings-heading =
+    .description = 接收操作指南、使用建议和相关新闻，获取 { -brand-product-name } 最佳体验。
+    .label = { -brand-product-name } 新闻通讯
+newsletter-sign-up-link =
+    .label = 订阅
+
 ## General Section - Performance
 
 performance-settings-learn-more = 详细了解
@@ -1162,6 +1176,9 @@ prefs-syncing-button =
 prefs-syncing-button-2 =
     .label = 正在同步...
     .title = 立即同步
+# "Your sync choices" refers to the choices a user makes on what types of data they want to sync
+sync-cwts-migration-notification =
+    .message = 您的同步选项现在仅在此设备生效。
 
 ## The list of things currently syncing.
 
@@ -1496,6 +1513,26 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } 已保存
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } 已保存
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
@@ -1860,6 +1897,9 @@ pane-permissions-data-title2 = 权限与数据
     .title = 权限与数据
 notifications-section-header =
     .heading = 通知
+notifications-entry-card-header =
+    .description = 选择允许发送通知的网站，设置提醒的显示方式。
+    .label = 通知
 # Variables:
 #   $count (number) - Number of websites with a stored notification decision,
 #                     always one or more. The zero case is a separate message,
