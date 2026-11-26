@@ -258,4 +258,6 @@ fp-neterror-coop-coep-why-did-this-happen-body = Às vezes, sites configuram pro
 fp-learn-more-about-https-connections = Saiba mais sobre conexões HTTPS
 fp-neterror-vpn-error-title = Não foi possível conectar com a VPN
 fp-neterror-vpn-error-description = Tente novamente em alguns minutos.
+fp-neterror-vpn-error-continue-button = Continuar sem VPN
+    .accesskey = C
 fp-neterror-denied-port-access = Este endereço usa uma porta de rede que normalmente é usada para fins diferentes de navegação na web. O { -brand-short-name } cancelou a requisição para sua proteção.

@@ -549,6 +549,9 @@ mlmodel-addon-detail-model-card-link-label = 到 Hugging Face 查看
 ## install. In the message, "tools" refers to Firefox extensions and
 ## "styles" refers to Firefox themes.
 
+find-more-addons-promo =
+    .heading = 按您喜好，打造 { -brand-product-name }
+    .message = 添加工具、赋予风格，满足自身需要和品味。
 find-more-addons-promo-open-amo-button = 探索扩展和主题
 
 ## Promo footer shown in the about:addons extensions list view when
@@ -564,6 +567,9 @@ find-more-extensions-promo-open-amo-button = 发现更多扩展
 ## Project Nova styles are enabled.
 ## "Find more fresh looks" refers to the user looking for more Firefox themes.
 
+find-more-themes-promo =
+    .heading = 探寻更多新外观
+    .message = 选用独特风格，让 { -brand-product-name } 更具个性。
 find-more-themes-promo-open-amo-button = 发现更多主题
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed
@@ -571,7 +577,7 @@ find-more-themes-promo-open-amo-button = 发现更多主题
 
 list-empty-get-extensions-promo =
     .heading = 小小扩展，大有妙用
-    .message = 我们为您提供了一些建议可帮助您更专注、更隐私、更安全。
+    .message = 我们为您推荐了一些扩展，可让浏览更专注、更有隐私，还有更多实用功能。
 list-empty-get-extensions-promo-button = 挑选第一个扩展
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
