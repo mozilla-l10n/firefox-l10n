@@ -1,0 +1,10 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Lock screen covering Private Windows after the computer locks, goes to
+## sleep or starts the screen saver, or after the user presses the shortcut to
+## lock windows.
+
+window-lock-private-title = Las ventanas privadas están bloqueadas
