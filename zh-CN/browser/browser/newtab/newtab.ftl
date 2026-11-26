@@ -1312,6 +1312,10 @@ newtab-report-ads-reason-inappropriate =
     .label = 内容不当
 newtab-report-ads-reason-seen-it-too-many-times =
     .label = 推荐次数过多
+newtab-report-ads-reason-scam =
+    .label = 诈骗或欺诈
+newtab-report-ads-reason-offensive =
+    .label = 具有冒犯性或不适宜
 newtab-report-content-wrong-category =
     .label = 分类错误
 newtab-report-content-outdated =
@@ -1829,6 +1833,20 @@ newtab-clock-widget-search-back-button =
 newtab-clock-widget-search-location-input2 =
     .aria-label = 搜索城市
     .placeholder = 搜索城市
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+# The description counts down as the user types.
+# Variables:
+#   $count (number) - How many more characters the nickname can have.
+newtab-clock-widget-input-nickname2 =
+    .aria-label = 别名（选填）
+    .description =
+        { $count ->
+           *[other] 剩余 { $count } 个字符
+        }
+    .label = 别名（选填）
+    .placeholder = 添加别名
 newtab-clock-widget-search-location-input =
     .aria-label = 搜索城市
     .label = 位置
