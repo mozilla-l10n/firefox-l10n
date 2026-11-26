@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Dosyayı kaydet
     .accesskey = D
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Dosyayı kaydet
 unknowncontenttype-remember-choice =
     .label = Bu tür dosyalar indirilirken hep bu işlemi gerçekleştir.
     .accesskey = t

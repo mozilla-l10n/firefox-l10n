@@ -187,6 +187,9 @@ ipprotection-button-turn-vpn-off-1 = Devre dışı bırak
 
 ## Unlimited bandwidth disclaimer shown during a promotion or if the user has a Mozilla VPN subscription
 
+# Variables
+#   $endDate (date) - The date the promotion ends, formatted as month and day (e.g. "January 31")
+ipprotection-unlimited-bandwidth-promo = { DATETIME($endDate, day: "numeric", month: "long") } tarihine kadar sınırsız bant genişliği
 ipprotection-unlimited-bandwidth-upgraded = Sınırsız bant genişliği
 
 ## Location controls
@@ -262,6 +265,12 @@ ipprotection-come-back-title = Yerleşik VPN’i denemek için yine gelin
 ipprotection-message-body-hide-location = { -brand-product-name } ile gezinirken daha fazla gizlilik ve kontrol için konumunuzu gizleyin.
 ipprotection-connection-status-generic-error-title-1 = VPN’e bağlanılamadı
     .aria-label = VPN’e bağlanılamadı
+ipprotection-connection-status-try-again-button = Yeniden dene
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = VPN olmadan devam et
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Yeniden deneniyor…
+    .aria-label = Yeniden deneniyor…
 
 ## IP Protection bandwidth callouts
 

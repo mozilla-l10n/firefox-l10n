@@ -26,3 +26,4 @@ default-browser-prompt-button-secondary = දැන් නොවේ
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-dismiss = අහවරයි
+default-browser-guidance-notification-auto-trigger-body = සැකසුම් තුළ ඔබගේ පෙරනිමි අතිරික්සුව ලෙස { -brand-short-name } තෝරන්න.
