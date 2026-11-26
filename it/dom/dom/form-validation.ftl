@@ -50,3 +50,4 @@ dom-form-validation-step-mismatch-one-value = Selezionare un valore valido. Il v
 #   $minimum (String) - The earliest time allowed in the field.
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Selezionare un valore compreso tra { $minimum } e { $maximum }.
+dom-form-validation-bad-input-number = Inserire un numero
