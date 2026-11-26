@@ -4,13 +4,13 @@
 
 addons-page-title = ਐਡ-ਆਨ ਮੈਨੇਜਰ
 search-header =
-    .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
-    .searchbuttonlabel = ਖੋਜੋ
+    .placeholder = addons.mozilla.org ਉੱਤੇ ਲੱਭੋ
+    .searchbuttonlabel = ਲੱਭੋ
 
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a> ਤੋਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ ਲਵੋ
+list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a> ਤੋਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ ਲਵੋ
 list-empty-get-dictionaries-message = <a data-l10n-name="get-extensions">{ $domain }</a> ਤੋਂ ਡਿਕਸ਼ਨਰੀਆਂ ਲਵੋ
 list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $domain }</a> ਤੋਂ ਭਾਸ਼ਾ ਪੈਕ ਲਵੋ
 
@@ -35,7 +35,7 @@ sidebar-settings-button-title =
 show-unsigned-extensions-button =
     .label = ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ
 show-all-extensions-button =
-    .label = ਸਭ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਿਖਾਉ
+    .label = ਸਭ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਵੇਖੋ
 detail-version =
     .label = ਵਰਜ਼ਨ
 detail-last-updated =
@@ -43,8 +43,8 @@ detail-last-updated =
 addon-detail-description-expand = ਹੋਰ ਵੇਖਾਓ
 addon-detail-description-collapse = ਘੱਟ ਵੇਖਾਓ
 detail-contributions-description = ਇਹ ਐਡ-ਆਨ ਦੇ ਡਿਵੈਲਪਰ ਨੇ ਤੁਹਾਨੂੰ ਪੁੱਛਿਆ ਹੈ ਕਿ ਤੁਸੀਂ ਛੋਟਾ ਜਿਹਾ ਯੋਗਦਾਨ ਦੇ ਕੇ ਇਸ ਦੀ ਡਿਵੈਲਪਮੈਂਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ 'ਚ ਮਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।
-detail-contributions-button = ਯੋਗਦਾਨ ਪਾਓ
-    .title = ਇਸ ਐਡ-ਆਨ ਦੇ ਵਿਕਾਸ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਓadd-on
+detail-contributions-button = ਹਿੱਸਾ ਪਾਓ
+    .title = ਇਸ ਐਡ-ਆਨ ਦੀ ਡਿਵੈਲਪਮੈਂਟ ਵਿੱਚ ਹਿੱਸਾ ਪਾਓ
     .accesskey = C
 detail-update-type =
     .value = ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ
@@ -301,19 +301,19 @@ report-addon-button = ਰਿਪੋਰਟ
 remove-addon-button = ਹਟਾਓ
 # The link will always be shown after the other text.
 remove-addon-disabled-button = ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ <a data-l10n-name="link">ਕਿਓ?</a>
-disable-addon-button = ਅਸਮਰੱਥ ਕਰੋ
-enable-addon-button = ਸਮਰੱਥ ਕਰੋ
+disable-addon-button = ਅਸਮਰੱਥ
+enable-addon-button = ਸਮਰੱਥ
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
-    .aria-label = ਸਮਰੱਥ ਕਰੋ
+    .aria-label = ਸਮਰੱਥ
 preferences-addon-button =
     { PLATFORM() ->
         [windows] ਚੋਣਾਂ
        *[other] ਪਸੰਦਾਂ
     }
 details-addon-button = ਵੇਰਵੇ
-release-notes-addon-button = ਰੀਲੀਜ਼ ਨੋਟਸ
+release-notes-addon-button = ਰੀਲਿਜ਼ ਨੋਟਿਸ
 permissions-addon-button = ਇਜਾਜ਼ਤਾਂ
 extension-enabled-heading = ਸਮਰੱਥ ਹੈ
 extension-disabled-heading = ਅਸਮਰੱਥ ਹੈ
@@ -418,7 +418,7 @@ addon-badge-verified4 =
 # recommendation. As such, we hard code "Firefox" and avoid personalising
 # language like the words "our" or "we".
 addon-badge-recommended4 =
-    .title = Firefox ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਮਿਆਰ ਉੱਤੇ ਖ਼ਰ੍ਹਾਂ ਉੱਤਰਦੀਆਂ ਹਨ।
+    .title = Firefox ਸਿਰਫ਼ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਦੇ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਵਾਲੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ।
 
 ##
 
