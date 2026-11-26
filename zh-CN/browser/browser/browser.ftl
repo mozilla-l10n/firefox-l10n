@@ -1175,6 +1175,7 @@ qrcode-save-button =
     .label = 保存
 qrcode-window-title = 二维码
 qrcode-dialog-title = 二维码
+qrcode-dialog-title-download-mobile = 下载移动版 { -brand-product-name }
 qrcode-image =
     .aria-label = 二维码
 qrcode-close-button =
@@ -1647,6 +1648,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = 增强型跟踪保护已开启
 trustpanel-etp-label-disabled = 增强型跟踪保护已关闭
+trustpanel-etp-label-redesign = 增强型跟踪保护
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
