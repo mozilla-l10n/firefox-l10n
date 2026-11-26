@@ -97,6 +97,8 @@ genai-more-actions-all-off-notice = 选中文本时将不再显示此菜单。�
 genai-more-actions-manage-settings =
     .label = 管理设置
 genai-selection-callout-title = 选中文本以选择操作
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = 选中文本后快捷搜索或复制。您可选择在 <span data-l10n-name="more-actions">•••</span> 菜单中显示的操作。
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 询问 { $provider }
