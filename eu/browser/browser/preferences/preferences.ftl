@@ -1023,7 +1023,7 @@ search-section =
 ## Containers Section
 
 containers-section-header2 =
-    .heading = Edukiontziaren ezarpenak
+    .heading = Edukiontzien ezarpenak
 containers-card-header2 =
     .description = Bereizi edukiontzi bakoitzeko cookieak, gune berean hainbat kontu erabili eta guneen arteko cookie jarraipen-egileak mugatzeko.
     .label = Edukiontziak
