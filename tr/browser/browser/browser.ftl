@@ -1208,6 +1208,7 @@ qrcode-save-button =
     .label = Kaydet
 qrcode-window-title = QR kodu
 qrcode-dialog-title = QR kodu
+qrcode-dialog-title-download-mobile = Mobil cihazlar için { -brand-product-name }’u indirin
 qrcode-image =
     .aria-label = QR kodu
 qrcode-close-button =
@@ -1697,6 +1698,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Gelişmiş izlenme koruması açık
 trustpanel-etp-label-disabled = Gelişmiş izlenme koruması kapalı
+trustpanel-etp-label-redesign = Gelişmiş izlenme koruması
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1719,7 +1721,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } şüpheli bir 
 trustpanel-header-disabled = Korumaları kapattınız
 trustpanel-description-disabled = { -brand-product-name } kapalı. Korumaları yeniden açmanızı öneririz.
 trustpanel-clear-cookies-button = Çerezleri ve site verilerini temizle
+trustpanel-delete-site-data-button = Site verilerini sil
+trustpanel-fix-site-issue-button = Site sorununu gider
 trustpanel-privacy-link = Gizlilik ayarları
+trustpanel-manage-settings-button = Ayarları yönet
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1733,6 +1738,7 @@ trustpanel-site-information-header =
     .title = { $host } bağlantı korumaları
 trustpanel-siteinformation-morelink = Daha fazla site bilgisi
 trustpanel-blocker-see-all = Tümünü göster
+trustpanel-blocker-see-trackers-button = Takip kodlarını göster
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1842,6 +1848,18 @@ trustpanel-blocker-section-header2 =
         [one] Bu sitede <span data-l10n-name="count">{ $count }</span> takip kodu engellendi
        *[other] Bu sitede <span data-l10n-name="count">{ $count }</span> takip kodu engellendi
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] { -brand-short-name } bu sitede <span data-l10n-name="count">{ $count }</span> takip kodunu engelledi
+       *[other] { -brand-short-name } bu sitede <span data-l10n-name="count">{ $count }</span> takip kodunu engelledi
+    }
+trustpanel-blocker-description-redesign = Bu takip kodlarının gezintiniz hakkında bilgi toplaması engellendi.
+trustpanel-no-trackers-header-redesign = Bu sitede takip kodu tespit edilmedi
+trustpanel-no-trackers-description-redesign = { -brand-short-name } bilinen takip kodlarını kontrol etti ancak hiçbirini bulamadı.
+trustpanel-etp-off-description-redesign = Korumaları etkinleştirdiğinizde { -brand-short-name }, bilinen takip kodlarının gezintiniz hakkında bilgi toplamasını engeller.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

@@ -499,10 +499,10 @@ details-notification-gmp-pending2 =
 
 plugins-gmp-license-info = ਲਸੰਸ ਦੀ ਜਾਣਕਾਰੀ
 plugins-gmp-privacy-info = ਪਰਦੇਦਾਰੀ ਦੀ ਜਾਣਕਾਰੀ
-plugins-openh264-name = OpenH264 ਵਿਡੀਓ ਕੋਡਕ Cisco Systems, Inc. ਵਲੋਂ ਦਿੱਤਾ ਹੈ।
-plugins-openh264-description = ਇਹ ਪਲੱਗਇਨ ਨੂੰ ਮੋਜ਼ੀਲਾ ਵਲੋਂ WebRTC ਸੇਦਾਂ ਦੇ ਮੁਤਾਬਕ ਤਿਆਰ ਕਰਕੇ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਡਿਵਾਈਸਾਂ ਨਾਲ WebRTC ਕਾਲਾਂ ਲਈ ਸਮਰੱਥ ਕਰਦੀ ਹੈ, ਜਿਨਾਂ ਨੂੰ H.264 ਵਿਡੀਓ ਕੋਡਕ ਚਾਹੀਦਾ ਹੈ। ਕੋਡਕ ਸਰੋਤ ਕੋਡ ਵੇਖਣ ਅਤੇ ਸਥਾਪਤ ਕਰਨ ਲਈ ਹੋਰ ਸਿੱਖਣ ਵਾਸਤੇ https://www.openh264.org/ ਨੂੰ ਵੇਖੋ।
-plugins-widevine-name = Widevine ਸਮੱਗਰੀ ਡਿਕ੍ਰਿਪਸ਼ਨ ਮੋਡੀਊਲ ਨੂੰ Google Inc ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਹੈ।
-plugins-widevine-description = ਇਹ ਪਲੱਗਇਨ ਇੰਕ੍ਰਿਪਟਡ ਮੀਡਿਆ ਇਕਸਟੈਨਸ਼ਨਾਂ ਸੇਧਾਂ ਨਾਲ ਅਨੁਕੂਲ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਮੀਡਿਆ ਨੂੰ ਚਲਾਉਣ ਦੇ ਸਮਰੱਥ ਕਰਦੀ ਹੈ। ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਮੀਡਿਆ ਨੂੰ ਅਕਸਰ ਪ੍ਰੀਮੀਅਮ ਮੀਡਿਆ ਸਮੱਗਰੀ ਨੂੰ ਕਾਪੀ ਕਰਨ ਤੋਂ ਰੋਕਣ ਲਈ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਅਕਸਰ ਸਾਈਟਾਂ ਵਲੋਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਇੰਕ੍ਰਿਪਟ ਕੀਤੀਆਂ ਮੀਡਿਆ ਇਕਸਟੈਨਸ਼ਨਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ https://www.w3.org/TR/encrypted-media/ ਵੇਖੋ।
+plugins-openh264-name = OpenH264 ਵਿਡੀਓ ਕੋਡਕ Cisco Systems, Inc. ਵਲੋਂ ਦਿੱਤਾ ਜਾ ਰਿਹਾ ਹੈ।
+plugins-openh264-description = ਇਹ ਪਲੱਗਇਨ ਨੂੰ Mozilla ਵਲੋਂ WebRTC ਸੇਧਾਂ ਦੇ ਮੁਤਾਬਕ ਤਿਆਰ ਕਰਕੇ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ H.264 ਵਿਡੀਓ ਕੋਡਕ ਵਰਤਣ ਵਾਲੇ ਡਿਵਾਈਸਾਂ ਲਈ WebRTC ਕਾਲਾਂ ਲਈ ਸਮਰੱਥ ਕਰਦੀ ਹੈ। ਕੋਡਕ ਸਰੋਤ ਕੋਡ ਵੇਖਣ ਅਤੇ ਇੰਸਟਾਲ ਕਰਨ ਬਾਰੇ ਹੋਰ ਸਿੱਖਣ ਵਾਸਤੇ https://www.openh264.org/ ਨੂੰ ਵੇਖੋ।
+plugins-widevine-name = Widevine ਸਮੱਗਰੀ ਡਿਕ੍ਰਿਪਸ਼ਨ ਮੋਡੀਊਲ Google Inc ਵਲੋਂ ਦਿੱਤਾ ਜਾ ਰਿਹਾ ਹੈ।
+plugins-widevine-description = ਇਹ ਪਲੱਗਇਨ ਇੰਕ੍ਰਿਪਟਡ ਮੀਡਿਆ ਇਕਸਟੈਨਸ਼ਨਾਂ ਸੇਧਾਂ ਨਾਲ ਢੁੱਕਵੇਂ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਮੀਡਿਆ ਨੂੰ ਚਲਾਉਣ ਦੇ ਸਮਰੱਥ ਕਰਦੀ ਹੈ। ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਮੀਡਿਆ ਨੂੰ ਅਕਸਰ ਪ੍ਰੀਮੀਅਮ ਮੀਡਿਆ ਸਮੱਗਰੀ ਨੂੰ ਕਾਪੀ ਕਰਨ ਤੋਂ ਰੋਕਣ ਲਈ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਅਕਸਰ ਸਾਈਟਾਂ ਵਲੋਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਇੰਕ੍ਰਿਪਟ ਕੀਤੀਆਂ ਮੀਡਿਆ ਇਕਸਟੈਨਸ਼ਨਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ https://www.w3.org/TR/encrypted-media/ ਨੂੰ ਵੇਖੋ।
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
@@ -513,15 +513,15 @@ permissions-data-addon-button = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = { $extensionName } ਇਕਸਟੈਨਸ਼ਨ ਵਲੋਂ ਵਰਤਿਆ
-addon-permissions-data-collection-heading = ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ
-addon-permissions-data-collection-empty = ਡਿਵੈਲਪਰ ਮੁਤਾਬਕ ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਕੋਈ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।
+addon-permissions-data-collection-heading = ਡਾਟਾ ਇਕੱਤਰਤਾ
+addon-permissions-data-collection-empty = ਡਿਵੈਲਪਰ ਮੁਤਾਬਕ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਕੋਈ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।
 addon-data-collection-provided = ਇਕਸਟੈਨਸ਼ਨ ਡਿਵੈਲਪਰ ਵਜੋਂ ਦਿੱਤੀ ਗਈ ਜਾਣਕਾਰੀ
 addon-data-collection-learnmore = ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } ਇਸ ਨੂੰ about:inference ਉੱਤੇ ਵਰਤਦਾ ਹੈ
-mlmodel-link-preview = ਜਦੋਂ ਤੁਸੀਂ ਲਿੰਕਾਂ ਦੀ ਝਲਕ ਵੇਖਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਇਸ ਨੂੰ ਪ੍ਰਮੁੱਖ ਨੁਕਤੇ ਤਿਆਰ ਕਰਨ ਲਈ ਵਰਤਦਾ ਹੈ
+mlmodel-link-preview = ਜਦੋਂ ਤੁਸੀਂ ਲਿੰਕਾਂ ਦੀ ਝਲਕ ਵੇਖਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਇਸ ਨੂੰ ਮੁੱਖ ਬਿੰਦੂ ਤਿਆਰ ਕਰਨ ਲਈ ਵਰਤਦਾ ਹੈ
 mlmodel-pdfjs = ਤੁਹਾਡੇ ਵਲੋਂ PDF ਵਿੱਚ ਜੋੜੇ ਗਏ ਚਿੱਤਰਾਂ ਲਈ ਬਦਲਵੀਂ ਲਿਖਤ ਲਈ { -brand-short-name } ਇਸ ਨੂੰ ਵਰਤਦਾ ਹੈ
 mlmodel-smart-tab-topic-engine = { -brand-short-name } ਤੁਹਾਡੇ ਟੈਬ ਗਰੁੱਪਾਂ ਲਈ ਨਾਂ ਦਾ ਸੁਝਾਅ ਦੇਣ ਲਈ ਵਰਤਦਾ ਹੈ
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } ਤੁਹਾਡੇ ਟੈਬ ਗਰੁੱਪਾਂ ਲਈ ਟੈਬਾਂ ਦਾ ਸੁਝਾਅ ਦੇਣ ਲਈ ਵਰਤਦਾ ਹੈ
@@ -540,7 +540,7 @@ mlmodel-remove-addon-button =
 mlmodel-addon-detail-totalsize-label = ਫ਼ਾਇਲ ਦਾ ਆਕਾਰ
 mlmodel-addon-detail-last-used-label = ਆਖਰੀ ਵਰਤੋਂ
 # This is a section label to describe what extensions or features use a specific local AI model
-mlmodel-addon-detail-used-by-label = ਵਲੋਂ ਵਰਤਿਆ
+mlmodel-addon-detail-used-by-label = ਇਸ ਵਲੋਂ ਵਰਤਿਆ
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = ਮਾਡਲ ਕਾਰਡ
 # This is a label for the Model Card link to Hugging face
@@ -555,16 +555,16 @@ mlmodel-addon-detail-model-card-link-label = Hugging Face ਉੱਤੇ ਵੇਖ
 find-more-addons-promo =
     .heading = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਬਣਾਓ
     .message = ਆਪਣੀਆਂ ਲੋੜਾਂ ਮੁਤਾਬਕ ਟੂਲਾਂ ਅਤੇ ਸਟਾਈਲ ਜੋੜੋ।
-find-more-addons-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ ਲੱਭੋ
+find-more-addons-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮਾਂ ਨੂੰ ਖੋਜੋ
 
 ## Promo footer shown in the about:addons extensions list view when
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
 
 find-more-extensions-promo =
-    .heading = ਆਪਣੀ ਪਸੰਦੀਦਾ ਇਕਸਟੈਨਸ਼ਨ ਲੱਭੋ
+    .heading = ਆਪਣੀ ਪਸੰਦੀਦਾ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਲੱਭੋ
     .message = ਫੋਕਸ, ਪਰਦੇਦਾਰੀ, ਖਰੀਦਦਾਰੀ ਅਤੇ ਹੋਰ ਕੰਮ ਲਈ ਟੂਲਾਂ ਨਾਲ { -brand-product-name } ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ।
-find-more-extensions-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
+find-more-extensions-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਖੋਜੋ
 
 ## Promo footer shown in the about:addons themes list view when
 ## Project Nova styles are enabled.
@@ -573,7 +573,7 @@ find-more-extensions-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ �
 find-more-themes-promo =
     .heading = ਹੋਰ ਤਾਜ਼ਾ ਦਿੱਖ ਲੱਭੋ
     .message = { -brand-product-name } ਲਈ ਕੋਈ ਸਟਾਈਲ ਚੁਣੋ, ਜੋ ਤੁਹਾਡਾ ਬਣਾਵੇ।
-find-more-themes-promo-open-amo-button = ਥੀਮ ਵੇਖੋ
+find-more-themes-promo-open-amo-button = ਥੀਮਾਂ ਨੂੰ ਵੇਖੋ
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed
 ## and Project Nova is enabled.
