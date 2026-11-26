@@ -1696,6 +1696,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = محافظت پیشرفته در برابر ردیابی روشن است
 trustpanel-etp-label-disabled = محافظت پیشرفته در برابر ردیابی خاموش است
+trustpanel-etp-label-redesign = محافظت پیشرفته در برابر ردیابی
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1706,6 +1707,9 @@ trustpanel-etp-toggle-off =
     .aria-label = محافظت پیشرفته در برابر ردیابی: خاموش برای { $host }
 trustpanel-etp-description-enabled = اگر محتوای این سایت به هم ریخته به نظر می‌رسد، محافظت‌ها را خاموش کنید.
 trustpanel-etp-description-disabled = { -brand-product-name } معتقد است شرکت‌ها باید کمتر شما را تعقیب کنند. با روشن کردن محافظت، تا جای ممکن ردیاب‌ها را مسدود می‌کنیم.
+trustpanel-trackercount-label = نمایش ردیاب‌های مسدودشده در نوار نشانی
+trustpanel-trackercount-toggle =
+    .aria-label = نمایش ردیاب‌های مسدودشده در نوار نشانی
 trustpanel-connection-label-secure = اتصال امن است
 trustpanel-connection-label-insecure = اتصال امن نیست
 trustpanel-header-enabled = { -brand-product-name } هوشیار است
@@ -1715,7 +1719,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } متوجه ف�
 trustpanel-header-disabled = محافظت‌ها را خاموش کرده‌اید
 trustpanel-description-disabled = { -brand-product-name } غیرفعال است. پیشنهاد می‌کنیم محافظت‌ها را دوباره روشن کنید.
 trustpanel-clear-cookies-button = پاک کردن کوکی‌ها و داده‌های سایت
+trustpanel-delete-site-data-button = حذف داده‌های وبگاه
+trustpanel-fix-site-issue-button = رفع مشکل وبگاه
 trustpanel-privacy-link = تنظیمات حریم خصوصی
+trustpanel-manage-settings-button = مدیریت تنظیمات
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1729,6 +1736,7 @@ trustpanel-site-information-header =
     .title = محافظت‌های اتصال برای { $host }
 trustpanel-siteinformation-morelink = اطلاعات بیشتر دربارهٔ سایت
 trustpanel-blocker-see-all = مشاهدهٔ همه
+trustpanel-blocker-see-trackers-button = دیدن ردیاب‌ها
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1838,6 +1846,18 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> ردیاب در این سایت مسدود شد
        *[other] <span data-l10n-name="count">{ $count }</span> ردیاب در این سایت مسدود شدند
     }
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign =
+    { $count ->
+        [one] ‏{ -brand-short-name } <span data-l10n-name="count">{ $count }</span> ردیاب را در این وبگاه مسدود کرد
+       *[other] ‏{ -brand-short-name } <span data-l10n-name="count">{ $count }</span> ردیاب را در این وبگاه مسدود کرد
+    }
+trustpanel-blocker-description-redesign = جلوی این ردیاب‌ها برای گردآوری اطلاعات دربارهٔ مرور شما گرفته شد.
+trustpanel-no-trackers-header-redesign = هیچ ردیابی در این وبگاه پیدا نشد
+trustpanel-no-trackers-description-redesign = ‏{ -brand-short-name } ردیاب‌های شناخته‌شده را بررسی کرد و هیچ‌کدام را پیدا نکرد.
+trustpanel-etp-off-description-redesign = محافظت‌ها را روشن کنید تا { -brand-short-name } جلوی گردآوری اطلاعات مرور شما توسط ردیاب‌های شناخته‌شده را بگیرد.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

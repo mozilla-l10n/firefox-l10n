@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = 阻止 { -brand-short-name } 运行研究项目�
 policy-DisableForgetButton = 阻止使用“抹去足迹”按钮。
 policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
 policy-DisableLaunchOnLogin = 阻止 { -brand-short-name } 在用户登录时自动启动。
+policy-DisableMacOSUserPolicies = 在 macOS 上忽略用户偏好设置和用户范围配置描述文件中的策略。
 policy-DisablePrimaryPasswordCreation = 若为 true，将无法创建主密码。
 policy-DisablePasswordReveal2 = 不允许在保存的登录信息或密码字段中明文显示密码。
 policy-DisablePrivateBrowsing = 禁用隐私浏览功能。

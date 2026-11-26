@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = زبانه‌هایتان را ب�
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = ساخت گروه
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = دریافت آگاهی‌های وب وقتی { -brand-short-name } بسته است
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = وبگاه‌هایی که اجازه می‌دهید اکنون حتی وقتی { -brand-short-name } بسته است می‌توانند آگاهی بفرستند. <a data-l10n-name="learn-more">بیشتر بدانید</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = مدیریت
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = خاموش کردن
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = روشن بماند
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = نمایش عنوان زبانه‌ها در نوار کناری
