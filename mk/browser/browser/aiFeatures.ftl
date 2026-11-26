@@ -4,9 +4,9 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Блокирај го { -smart-window-brand-name }
-smart-window-block-description-both = Ова ќе ги избрише вашите разговори и сеќавања од { -smart-window-brand-name }.
+smart-window-block-description-both = Ова ќе ги избрише вашите разговори и меморија од { -smart-window-brand-name }.
 smart-window-block-description-chats = Ова ќе ги избрише вашите разговори од { -smart-window-brand-name }.
-smart-window-block-description-memories = Ова ќе ги избрише вашите сеќавања од { -smart-window-brand-name }.
+smart-window-block-description-memories = Ова ќе ја избрише меморијата од { -smart-window-brand-name }.
 ai-window-features-group =
     .description = Поставувајте прашања, споредувајте страници и добивајте персонализирани предлози со вграден асистент.
     .label = { -smart-window-brand-name }
@@ -41,3 +41,33 @@ smart-window-model-learn-link = Дознајте повеќе за модели�
 smart-window-model-auto =
     .description = { -smart-window-brand-name } го избира најдобриот модел за вашата задача
     .label = Автоматски модел
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-custom =
+    .label = Сопствеено: Користете сопствен LLM.
+smart-window-model-custom-name =
+    .label = Име на модел
+    .placeholder = Пример: glm4
+smart-window-model-custom-url =
+    .label = Крајна точка на моделот
+    .placeholder = Пример: http://localhost:11434/v1
+smart-window-model-custom-token =
+    .label = API клуч или токен за автентикација, доколку е потребно
+smart-window-model-custom-info =
+    .message = Кога користите сопствен модел, { -smart-window-brand-name } може да не работи како што се очекува.
+smart-window-model-custom-more-link = Повеќе за сопствените модели
+smart-window-model-custom-save =
+    .label = Сними
+smart-window-model-custom-save-confirmation = Деталите за моделот се снимени. Започнете нов разговор за тестирање.
+ai-window-memories-section =
+    .description = { -brand-short-name } може да учи од вашата активност за да создава меморија. Тие се користат за персонализирање на одговорите и се складираат локално на овој уред.
+    .label = Меморија
+ai-window-memories-section-v2 =
+    .description = { -brand-short-name } може да учи од вашата активност за да создава меморија. Тие се користат за да ви помогнат да го прилагодите вашето искуство и се складираат локално на вашиот уред.
+    .label = Меморија
+ai-window-learn-from-chat-activity =
+    .label = Учи од разговори во { -smart-window-brand-name }
