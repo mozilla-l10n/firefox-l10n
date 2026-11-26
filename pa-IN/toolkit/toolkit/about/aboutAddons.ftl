@@ -159,7 +159,7 @@ extensions-warning-check-compatibility-button = ਸਮਰੱਥ
     .title = ਐਡ-ਆਨ ਦੇ ਢੁੱਕਵੇਂਪਣ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
 extensions-warning-update-security2 =
     .message = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
-extensions-warning-update-security-button = ਚਾਲੂ
+extensions-warning-update-security-button = ਸਮਰੱਥ
     .title = ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
 extensions-warning-imported-addons2 =
     .message = { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰੋ।
@@ -221,7 +221,7 @@ shortcuts-remove-button =
     .aria-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਹਟਾਓ
 shortcuts-browserAction2 = ਟੂਲਬਾਰ ਬਟਨ ਸਰਗਰਮ ਕਰੋ
 shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਸਰਗਰਮ ਕਰੋ
-shortcuts-sidebarAction = ਬਾਹੀ ਬਦਲੋ
+shortcuts-sidebarAction = ਬਾਹੀ ਨੂੰ ਬਦਲੋ
 shortcuts-modifier-mac = Ctrl, Alt, ਜਾਂ ⌘ ਸਮੇਤ
 shortcuts-modifier-other = Ctrl ਜਾਂ Alt ਸਮੇਤ
 shortcuts-invalid = ਗ਼ੈਰ-ਵਾਜਬ ਮਿਸ਼ਰਨ
@@ -555,7 +555,7 @@ mlmodel-addon-detail-model-card-link-label = Hugging Face ਉੱਤੇ ਵੇਖ
 find-more-addons-promo =
     .heading = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਬਣਾਓ
     .message = ਆਪਣੀਆਂ ਲੋੜਾਂ ਮੁਤਾਬਕ ਟੂਲਾਂ ਅਤੇ ਸਟਾਈਲ ਜੋੜੋ।
-find-more-addons-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ Dਤੇ ਥੀਮ ਲੱਭੋ
+find-more-addons-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ ਲੱਭੋ
 
 ## Promo footer shown in the about:addons extensions list view when
 ## Project Nova styles are enabled.
