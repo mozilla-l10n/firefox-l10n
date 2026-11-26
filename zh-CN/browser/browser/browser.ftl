@@ -1659,6 +1659,9 @@ trustpanel-etp-toggle-off =
     .aria-label = 增强型跟踪保护：已对 { $host } 关闭
 trustpanel-etp-description-enabled = 若网站功能异常，请尝试关闭保护。
 trustpanel-etp-description-disabled = { -brand-product-name } 认为大公司应该减少对您的跟踪。开启保护功能后，我们将尽可能拦截跟踪器。
+trustpanel-trackercount-label = 在地址栏显示拦截的跟踪器
+trustpanel-trackercount-toggle =
+    .aria-label = 在地址栏显示拦截的跟踪器
 trustpanel-connection-label-secure = 连接安全
 trustpanel-connection-label-insecure = 连接不安全
 trustpanel-header-enabled = { -brand-product-name } 正在防护
@@ -1668,7 +1671,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } 发现可疑�
 trustpanel-header-disabled = 您已关闭保护
 trustpanel-description-disabled = { -brand-product-name } 已暂停保护，建议重新启用。
 trustpanel-clear-cookies-button = 清除 Cookie 和网站数据
+trustpanel-delete-site-data-button = 删除网站数据
+trustpanel-fix-site-issue-button = 修复网站问题
 trustpanel-privacy-link = 隐私设置
+trustpanel-manage-settings-button = 管理设置
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1682,6 +1688,7 @@ trustpanel-site-information-header =
     .title = 连接保护：{ $host }
 trustpanel-siteinformation-morelink = 更多网站信息
 trustpanel-blocker-see-all = 查看全部
+trustpanel-blocker-see-trackers-button = 查看跟踪器
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1727,6 +1734,14 @@ trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = 知道了
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 开始免费扫描
 trustpanel-blocker-section-header2 = 已在此网站上拦截 <span data-l10n-name="count">{ $count }</span> 个跟踪器
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign = { -brand-short-name } 在此网站上拦截了 <span data-l10n-name="count">{ $count }</span> 个跟踪器
+trustpanel-blocker-description-redesign = 已阻止这些跟踪器收集浏览信息。
+trustpanel-no-trackers-header-redesign = 未在此网站上发现跟踪器
+trustpanel-no-trackers-description-redesign = { -brand-short-name } 未检查出已知跟踪器。
+trustpanel-etp-off-description-redesign = 开启保护功能后，{ -brand-short-name } 将阻止已知跟踪器收集浏览信息。
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
