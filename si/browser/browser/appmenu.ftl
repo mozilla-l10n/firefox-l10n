@@ -24,6 +24,8 @@ appmenuitem-new-private-window =
     .label = නව පෞද්ගලික කවුළුව
 appmenuitem-history =
     .label = ඉතිහාසය
+appmenuitem-tab-groups =
+    .label = පටිති සමූහ
 appmenuitem-downloads =
     .label = බාගැනීම්
 appmenuitem-passwords =
@@ -251,3 +253,10 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = සැබෑ වි-තැපෑල හා දුරකථනය ආවරණයට
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenu-services-header = මාගේ සේවා
+
+## Profiles panel
+
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = මෑත පටිති

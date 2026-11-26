@@ -114,3 +114,11 @@ aiwindow-feedback-modal-title = ප්‍රතිපෝෂණ බෙදාග�
 aiwindow-feedback-submit = යොමන්න
 aiwindow-feedback-cancel = අවලංගු
 aiwindow-feedback-reason-other = වෙනත්
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-browsing-compare = පටිති සසඳන්න

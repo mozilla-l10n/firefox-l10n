@@ -36,7 +36,12 @@ smartwindow-nl-undo-button =
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-row-label = වැසූ පටිති
+smart-window-closed-and-restored-label = වැසූ හා ප්‍රත්‍යර්පිත පටිති
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = සමූහය
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = අරින්න
+smart-window-opened-tabs-row-label = විවෘත පටිති
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = පටිති අසමූහගතයි
