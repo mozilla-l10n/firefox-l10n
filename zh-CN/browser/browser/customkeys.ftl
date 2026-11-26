@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = 静音/取消静音
 customkeys-edit-find-previous = 查找上一个
 customkeys-edit-find-selection = 查找所选内容
 customkeys-tools-screenshot = 截图
+customkeys-tools-lock-windows = 锁定隐私窗口
 customkeys-category-navigation-2 =
     .heading = 导航
 customkeys-caution-message = 此功能为实验功能，可能无法按预期工作。
