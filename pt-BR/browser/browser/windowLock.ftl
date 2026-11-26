@@ -8,3 +8,7 @@
 ## lock windows.
 
 window-lock-private-title = Janelas privativas estão bloqueadas
+window-lock-private-description-macos = O { -brand-short-name } oculta suas páginas privativas quando o computador é bloqueado, entra em repouso ou ativa a proteção de tela.
+window-lock-private-description-windows = O { -brand-short-name } oculta as páginas privadas quando o computador é bloqueado.
+window-lock-unlock-button =
+    .label = Desbloquear
