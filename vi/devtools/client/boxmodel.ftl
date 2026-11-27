@@ -18,3 +18,5 @@ boxmodel-properties-label = Thuộc tính mô hình hộp
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = khoảng cách
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Offset cha của phần tử được chọn
