@@ -1594,6 +1594,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری فعال هڌ
 trustpanel-etp-label-disabled = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری قیر فعال هڌ
+trustpanel-etp-label-redesign = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1614,6 +1615,7 @@ trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
 trustpanel-description-disabled = { -brand-product-name } قیر فعال هڌ. پؽشنهاڌ اکۊنیم زفت وابیڌنا ن دووارته رۊشن کۊنین.
 trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل وبگه
 trustpanel-privacy-link = سامووا هریم سیخومی
+trustpanel-manage-settings-button = دؽوۉداری سامووا
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =

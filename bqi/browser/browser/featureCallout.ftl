@@ -144,6 +144,15 @@ link-preview-onboarding-callout-title = نۊ: سی پؽش نشووݩ لینگا 
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = وورکل بونکۊ
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = دؽوۉداری
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = کۊر کردن
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = نشووݩ داڌن عونوان بلگه یل من نوار کلی
