@@ -6,6 +6,8 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = बाक्सु मडेल
 
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
