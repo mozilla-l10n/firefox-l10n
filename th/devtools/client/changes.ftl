@@ -13,9 +13,21 @@
 ##
 
 changes-copy-all-changes-button = คัดลอกการเปลี่ยนแปลงทั้งหมด
+changes-copy-all-changes-button-title = คัดลอกรายการการเปลี่ยนแปลง CSS ทั้งหมดไปยังคลิปบอร์ด
+changes-copy-rule-button = คัดลอกกฎ
+changes-copy-rule-button-title = คัดลอกเนื้อหาของกฎ CSS นี้ไปยังคลิปบอร์ด
 
 ## Changes panel context menu
 
 changes-context-menu-copy =
     .label = คัดลอก
     .accesskey = ค
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = คัดลอกกฎ
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = คัดลอกการประกาศ
+changes-context-menu-select-all =
+    .label = เลือกทั้งหมด
+    .accesskey = ล
