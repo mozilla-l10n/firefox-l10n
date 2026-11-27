@@ -22,3 +22,4 @@ dom-slow-addon-script-dialog-message =
     
     Lo script potrebbe essere temporaneamente occupato o potrebbe essersi bloccato definitivamente. È possibile terminare lo script adesso oppure provare ad attendere il completamento dell’esecuzione.
 dom-slow-addon-script-dialog-checkbox = Impedisci allo script dell’estensione di essere eseguito in questa pagina fino a quando verrà ricaricata
+

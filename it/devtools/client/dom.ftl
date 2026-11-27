@@ -9,3 +9,4 @@
 dom-panel-filter-placeholder = Filtra pannello DOM
 # Tooltip for the button that refreshes the DOM panel.
 dom-panel-refresh-button-title = Aggiorna
+

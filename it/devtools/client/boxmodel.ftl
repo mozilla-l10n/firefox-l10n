@@ -27,3 +27,4 @@ boxmodel-properties-show-label = Mostra
 boxmodel-offset-parent = offset
 # Tooltip for the boxmodel-offset-parent label.
 boxmodel-offset-parent-title = Offset padre dell’elemento selezionato
+

@@ -24,3 +24,4 @@ dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() è depr
 #   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
 #   $element (String) - Name of the parent MathML element: “mover”, “munder” or “munderover”.
 dom-deprecated-mathml-mo-explicit-accent = L’impostazione dell’attributo accent sugli elementi mo è deprecata. Al suo posto utilizzare l’attributo “{ $attribute }” su “{ $element }”.
+

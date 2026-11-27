@@ -354,3 +354,4 @@ webconsole-group-cookie = Avvisi relativi ai cookie
 # “Content-Security-Policy” is the name of an HTTP header and should not be
 # translated.
 webconsole-group-csp = Avvisi Content-Security-Policy
+

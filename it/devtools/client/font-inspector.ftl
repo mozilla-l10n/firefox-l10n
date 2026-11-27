@@ -55,3 +55,4 @@ font-inspector-font-license-info-url = URL informazioni sulla licenza:
 
 # Button displayed to expand a truncated value (e.g. Description or License).
 font-inspector-show-full-text = Espandi
+
