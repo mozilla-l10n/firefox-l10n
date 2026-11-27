@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Report broken site
 report-broken-site-panel-header =
     .label = Report broken site
     .title = Report broken site
+report-broken-site-panel-intro-text2 = Your report helps us improve { -brand-product-name } for everyone.
 report-broken-site-panel-intro-text = Your report helps us understand and fix issues in { -brand-product-name } to make it better for everyone.
 report-broken-site-panel-learn-more-link = Learn more
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Site address
 report-broken-site-panel-url-label = URL of broken site
 report-broken-site-panel-reason-intro-text = What’s not working?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Something else
 report-broken-site-panel-instructions-other = Describe the problem in detail to help us investigate the issue.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Describe the problem in detail (optional)
 report-broken-site-panel-instructions-other-optional = Describe the problem in detail to help us investigate the issue. (optional)
 report-broken-site-panel-description2 =
     .placeholder = What happened? What did you expect to happen? Please provide steps to reproduce the issue.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Send info via { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Send more info
 report-broken-site-panel-button-cancel =

@@ -422,6 +422,9 @@ smartwindow-onboarding-save =
 # readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
 ai-smart-form-fill-autocomplete-label = Plenar ab le fontes
 ai-smart-form-fill-autocomplete-loading = Cargante
+ai-smart-form-fill-autocomplete-sources-label = Plenar ab le fontes
+ai-smart-form-fill-autocomplete-choose-tabs = Aperir o eliger paginas correlate a iste formulario pro reciper suggestiones de compilation automatic
+ai-smart-form-fill-autocomplete-open-tabs = Aperir o eliger paginas correlate a iste formulario pro reciper suggestiones de compilation automatic
 ai-smart-form-fill-close-review-button =
     .label = Clauder
 # Variables:
@@ -433,16 +436,41 @@ ai-smart-form-fill-autocomplete-tabs-count =
     }
 # Button in the autocomplete row that opens the dialog for choosing sources.
 ai-smart-form-fill-edit-sources-button = Modificar fontes
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Modificar fontes
+ai-smart-form-fill-suggested-tabs-heading = Schedas suggerite
 ai-smart-form-fill-other-tabs-heading = Altere schedas
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Activar/disactivar selection de scheda pro “{ $tabTitle }”
 ai-smart-form-fill-cancel-tab-select-button =
     .label = Cancellar
 ai-smart-form-fill-accept-tab-select-button =
     .label = Facite
+ai-smart-form-fill-fill-form-button =
+    .label = Compilar formulario
+ai-smart-form-fill-review-heading = Revider suggestiones
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Nos trovava suggestiones pro { $count } campo. Modificar o deler qualcunque cosa incorrecte.
+       *[other] Nos trovava suggestiones pro { $count } campos. Modificar o deler qualcunque cosa incorrecte.
+    }
 # Used when a field of the form being filled in doesn’t have a name to use as
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Campo
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Saltar al fundo del suggestiones
+    .tooltiptext = Saltar al fundo
 ai-smart-form-fill-cancel-review-button =
     .label = Cancellar
+ai-smart-form-fill-finding-suggestions = Recerca de suggestiones
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Cessar le recerca de suggestiones
 ai-smart-form-fill-try-again-button =
     .label = Retentar

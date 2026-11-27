@@ -911,6 +911,66 @@ urlbar-result-dates-today = { $name } · Today
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Ends today
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Don’t show flight status suggestions
+    .accesskey = n
+urlbar-result-flight-status-status-ontime = On time
+urlbar-result-flight-status-status-inflight = In flight
+urlbar-result-flight-status-status-arrived = Arrived
+urlbar-result-flight-status-status-cancelled = Cancelled
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Delayed until { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = { $timeLeft } left
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Flight status suggestions
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } vs { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } at { $time }
+urlbar-result-sports-status-live = Live
+urlbar-result-sports-status-final = Final
+urlbar-result-menu-dont-show-sports = Don’t show sports suggestions
+    .accesskey = n
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Sports suggestions
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1043,6 +1103,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Recent Searches
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Shortcuts
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1737,8 +1802,20 @@ trustpanel-clear-cookies-subview-button-clear = Clear
 trustpanel-clear-cookies-subview-button-cancel = Cancel
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Delete site data for { $host }
+trustpanel-clear-cookies-description-redesign = You’ll be signed out of sites. It may clear shopping baskets.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Connection protections for { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Connection info for { $host }
+trustpanel-connection-secure = This site’s connection is secure.
+trustpanel-connection-not-secure = This site’s connection isn’t secure.
+trustpanel-connection-not-secure-description = Avoid entering info like passwords or credit cards to help protect them from being stolen.
 trustpanel-siteinformation-morelink = More site information
 trustpanel-blocker-see-all = See All
 trustpanel-blocker-see-trackers-button = See trackers
@@ -1758,6 +1835,15 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] { $count } tracker blocked
        *[other] { $count } trackers blocked
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] { $count } tracker blocked on this site
+       *[other] { $count } trackers blocked on this site
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = No trackers found on this site
+urlbar-trust-icon-tracking-protection-off-tooltip = Tracking protection is off for this site
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1768,6 +1854,16 @@ trustpanel-tracking-header = { -brand-product-name } allowed these things so sit
 trustpanel-tracking-description = Without trackers, some buttons, forms, and login fields might not work.
 trustpanel-insecure-section-header = Your connection isn’t secure
 trustpanel-insecure-description = The data you’re sending to this site isn’t encrypted. It could be viewed, stolen, or altered.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Site not working? Try these steps.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Turn these off to see if it fixes the issue:
+trustpanel-report-broken-site-button = Report broken site
+trustpanel-report-broken-site-description = Your report helps us improve { -brand-short-name } for everyone.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } Cross-site tracking cookie
@@ -1852,6 +1948,19 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Tracker blocked on this site
        *[other] <span data-l10n-name="count">{ $count }</span> Trackers blocked on this site
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Privacy that works for you
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } makes it harder for companies to keep tabs on you. Open the shield to see what trackers we blocked.
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Extensions
+trustpanel-site-issue-step-vpn = Built-in VPN
+trustpanel-site-issue-step-etp = Enhanced Tracking Protection
 
 ##  $count (String): the number of trackers blocked.
 
