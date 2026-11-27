@@ -6,6 +6,11 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = Mô hình hộp
+# Tooltip for the button that allows users to edit the position of an element
+# in the page.
+boxmodel-geometry-button-title = Chỉnh sửa vị trí
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = Thuộc tính mô hình hộp
 
