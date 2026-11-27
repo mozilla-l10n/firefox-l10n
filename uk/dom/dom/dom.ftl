@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Пустий рядок передано до getElementById().
+dom-document-write-ignored = Виклик document.write() з асинхронно-завантаженого зовнішнього скрипту був проігнорований.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Незбалансоване дерево було написане з використанням document.write(), що призвело до повторного парсингу даних з мережі. Докладніше: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
