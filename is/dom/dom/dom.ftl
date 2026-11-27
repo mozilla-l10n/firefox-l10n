@@ -10,6 +10,10 @@ dom-document-write-ignored = Kall á document.write() frá ósamstilltri ytri sk
 # Variables:
 #   $url (String) - URL of a page with more information about speculative parsing.
 dom-parser-speculation-failed = Vanstillt tré var skrifað með document.write() sem leiddi til þessa að það þurfti að endurþátta gögn frá netinu. Fyrir meiri upplýsingar skaltu skoða: { $url }
+# Do not translate "entryTypes".
+# Variables:
+#   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
+dom-performance-observer-unsupported-entry-types = Hundsa óstudda entryType: { $entryTypes }.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
