@@ -6,12 +6,19 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = Model kutije
+# Tooltip for the button that allows users to edit the position of an element
+# in the page.
+boxmodel-geometry-button-title = Uredi poziciju
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = Postavke Box Modela
 
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Sakrij
+boxmodel-properties-show-label = Prikaži
 
 ##
 
