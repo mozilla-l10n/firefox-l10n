@@ -6,6 +6,13 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = Modello de cassa
+# Tooltip for the button that allows users to edit the position of an element
+# in the page.
+boxmodel-geometry-button-title = Modificar le position
+# Header of the expandable list of properties displayed below the box model.
+boxmodel-properties-label = Proprietates del modello de cassa
 
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
