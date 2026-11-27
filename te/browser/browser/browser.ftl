@@ -838,6 +838,9 @@ menu-share-more =
     .label = మరిన్ని…
 menu-share-windows =
     .label = మరిన్ని ఎంపికలు
+menu-share-windows2 =
+    .label = మరిన్ని ఎంపికలు
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = మూసివేయి
 
