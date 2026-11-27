@@ -9,9 +9,20 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Ndojejuhúi moambuepyre.
+changes-no-changes-description = Umi CSS moambuepyre Mbohekoha pegua ojehecháta ápe.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Oikéva
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Mba’eporu
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = Embokuatia opaite ambuepy
 changes-copy-all-changes-button-title = Embokuatia tysýi opaite CSS moambuepy kuatiajokohápe.
 changes-copy-rule-button = Monguatia mbojojaha
