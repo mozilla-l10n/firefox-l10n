@@ -999,6 +999,18 @@ urlbar-result-dates-ends-today = { $name } · Končí dnes
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-flight-status = Nezobrazovat návrhy informací o letu
     .accesskey = l
+urlbar-result-flight-status-status-ontime = Včas
+urlbar-result-flight-status-status-inflight = Ve vzduchu
+urlbar-result-flight-status-status-arrived = Přistálo
+urlbar-result-flight-status-status-cancelled = Zrušený
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Odloženo na { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = Zbývá { $timeLeft }
 
 ## Strings used for buttons in the urlbar
 

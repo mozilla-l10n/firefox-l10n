@@ -21,6 +21,7 @@ policy-AppUpdatePin =
        *[no-cases] Zabrání aktualizaci aplikace { -brand-short-name } nad uvedenou verzi.
     }
 policy-AppUpdateURL = Nastavení vlastní URL pro aktualizace aplikace.
+policy-Authentication2 = Nastaví integrované ověřování pro weby, které ho podporují, a určí, která schémata ověřování HTTP budou zakázána.
 policy-Authentication = Konfigurace integrované autentizace webových stránek, které ji podporují.
 policy-AutofillAddressEnabled = Povolí automatické doplňování adres.
 policy-AutofillCreditCardEnabled = Povolí automatické vyplňování platebních metod.

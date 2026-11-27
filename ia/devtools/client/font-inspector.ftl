@@ -9,7 +9,6 @@
 # Displayed in place of the font URL when the font is installed locally on the
 # system.
 font-inspector-system = systema
-font-inspector-no-fonts-used = Nulle typos de litteras usate sur le elemento actual.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Copiar URL
 # An "instance" is the term used by font authors for a named group of
@@ -24,7 +23,6 @@ font-inspector-custom-instance-name = Personalisar
 
 font-inspector-font-size-label = Dimension
 font-inspector-font-weight-label = Peso
-font-inspector-line-height-label = Altitude de linea
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -33,7 +31,6 @@ font-inspector-show-less = Monstrar minus
 
 ##
 
-font-inspector-all-fonts-on-page-header = Tote le typos de litteras sur le pagina
 # Label for the list of fonts used on the selected element.
 font-inspector-fonts-used-label = Typos de litteras usate
 # Placeholder for the input used to type custom text to preview fonts with.

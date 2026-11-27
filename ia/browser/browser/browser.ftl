@@ -912,6 +912,42 @@ urlbar-result-dates-today = { $name } · Hodie
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Termina hodie
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+urlbar-result-flight-status-status-cancelled = Cancellate
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } - { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } al { $time }
+urlbar-result-sports-status-live = Active
+urlbar-result-sports-status-final = Final
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1044,6 +1080,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Recercas recente
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Vias breve
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1761,6 +1802,7 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] { $count } traciator blocate.
        *[other] { $count } traciatores blocate.
     }
+urlbar-trust-icon-no-trackers-found-tooltip = Necun traciator trovate in iste sito
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1771,6 +1813,7 @@ trustpanel-tracking-header = { -brand-product-name } permitteva iste cosas assi 
 trustpanel-tracking-description = Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.
 trustpanel-insecure-section-header = Tu connexion non es secur
 trustpanel-insecure-description = Le datos que tu invia a iste sito non es cryptate. Illos poterea esser vidite, robate, o alterate.
+trustpanel-report-broken-site-button = Reportar sito corrupte
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } Cookie de traciamento inter sitos
@@ -1855,6 +1898,18 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Traciator blocate in iste sito
        *[other] <span data-l10n-name="count">{ $count }</span> Traciatores blocate in iste sito
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Confidentialitate que functiona pro te
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Extensiones
+trustpanel-site-issue-step-vpn = VPN integrate
+trustpanel-site-issue-step-etp = Protection antitraciamento reinfortiate
 
 ##  $count (String): the number of trackers blocked.
 

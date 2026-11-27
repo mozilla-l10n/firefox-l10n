@@ -22,6 +22,7 @@ stub-cleanup-paveover-button = Actualisar
 stub-cleanup-reinstall-button = Reinstallar
 stub-cleanup-checkbox-label = Nettar e accelerar. Retornar a parametros predefinite e deler vetere additivos.
 stub-installing-label = Installation in curso…
+stub-blurb-first2 = Producite pro proteger te, non pro traciar te.
 stub-blurb-second = Veloce. Secur. Bloca traciatores automaticamente.
 stub-blurb-third = Gratias pro producer un web melior con nos
 stub-blurb-first-devedition = Sia preste a construer pro le web aperte

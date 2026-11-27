@@ -420,3 +420,23 @@ smartwindow-onboarding-save =
 
 ai-smart-form-fill-close-review-button =
     .label = Clauder
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } scheda
+       *[other] { $tabs } schedas
+    }
+ai-smart-form-fill-other-tabs-heading = Altere schedas
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Cancellar
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Facite
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Campo
+ai-smart-form-fill-cancel-review-button =
+    .label = Cancellar
+ai-smart-form-fill-try-again-button =
+    .label = Retentar

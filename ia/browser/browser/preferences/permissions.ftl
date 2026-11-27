@@ -32,6 +32,11 @@ permissions-button-off-temporarily =
     .accesskey = t
 permissions-site-name =
     .label = Sito web
+# Header of the column showing the container (also known as container tab or
+# contextual identity, e.g. "Personal" or "Work") a website permission
+# applies to. The column is only shown if any permission is set in any container.
+permissions-container =
+    .label = Contentor
 permissions-status =
     .label = Stato
 permissions-remove =

@@ -24,6 +24,9 @@ urlbar-translations-button-loading =
     .tooltiptext = Traduction in curso
 translations-panel-settings-button =
     .aria-label = Gerer le parametros del traduction
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Traducer iste pagina
 
 ## Options in the Firefox Translations settings.
 

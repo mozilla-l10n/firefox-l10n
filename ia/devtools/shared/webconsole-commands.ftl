@@ -20,14 +20,6 @@ webconsole-commands-usage-unblock =
 
 ## Messages displayed as the result of Web Console commands.
 
-# Displayed when a string is copied to the clipboard with the copy() command,
-# for example copy({hello: "world"}).
-webconsole-commands-copy-value-to-clipboard = Catena copiate al area de transferentia.
-# Displayed when the copy() command can’t stringify an object. “copy” is a
-# function name and should not be translated.
-# Variables:
-#   $error (String) - The original error message.
-webconsole-commands-copy-error = Le commando `copy` ha fallite, impossibile transformar objecto in catena: { $error }
 # Displayed when the :block command is successful.
 # Variables:
 #   $url (String) - The URL filter.
@@ -36,8 +28,6 @@ webconsole-commands-blocked-url = Le requestas a URL que contine “{ $url }” 
 # Variables:
 #   $url (String) - The URL filter.
 webconsole-commands-unblocked-url = Filtro de blocada “{ $url }” removite
-# Displayed when no filter is passed to the :block or :unblock commands.
-webconsole-commands-block-arg-missing = Nulle filtro specificate
 
 ## Messages displayed when the :trace command starts or stops the JavaScript
 ## Tracer.

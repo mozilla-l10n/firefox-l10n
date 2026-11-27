@@ -413,3 +413,35 @@ smartwindow-onboarding-default-window =
     .label = Beginnen Sie in { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Speichern und fertig
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+ai-smart-form-fill-autocomplete-loading = Wird geladen…
+ai-smart-form-fill-autocomplete-sources-label = Aus Quellen einfügen
+ai-smart-form-fill-close-review-button =
+    .label = Schließen
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } Tab
+       *[other] { $tabs } Tabs
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Quellen bearbeiten
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Quellen bearbeiten
+ai-smart-form-fill-suggested-tabs-heading = Vorgeschlagene Tabs
+ai-smart-form-fill-other-tabs-heading = Andere Tabs
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Tab-Auswahl für „{ $tabTitle }“ umschalten
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Abbrechen
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Fertig
+ai-smart-form-fill-fill-form-button =
+    .label = Formular ausfüllen
