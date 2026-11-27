@@ -10,6 +10,12 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Vyplňte prosím toto pole.
+dom-form-validation-checkbox-missing = Zaškrtněte prosím toto zaškrtávací pole.
+dom-form-validation-radio-missing = Zvolte prosím některou možnost.
+dom-form-validation-file-missing = Vyberte prosím soubor.
+dom-form-validation-select-missing = Zvolte prosím některou položku v seznamu.
+dom-form-validation-invalid-email = Zadejte prosím platnou e-mailovou adresu.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Vyplňte prosím pole v požadovaném formátu: { $title }.
