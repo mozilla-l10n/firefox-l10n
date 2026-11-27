@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] { $repeats } ismétlés
        *[other] { $repeats } ismétlés
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } üzenet
+       *[other] { $count } üzenet
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -181,6 +190,22 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = A webkonzol kimenetének törlése ({ $shortcut })
 webconsole-filter-input-placeholder = Kimenet szűrése
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } rejtett
+       *[other] { $count } rejtett
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } elemet rejt el szövegszűrő
+       *[other] { $count } elemet rejt el szövegszűrő
+    }
+webconsole-close-split-console-button-tooltip = Osztott konzol bezárása (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -196,36 +221,136 @@ webconsole-filter-button-css-inactive-tooltip = A stíluslapok hibakeresés miat
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Kérések
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Böngésző
+webconsole-filter-button-chrome-tooltip = A böngésző által kibocsátott üzenetek megjelenítése
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Tartalom
+webconsole-filter-button-content-tooltip = A webes tartalom által kibocsátott üzenetek megjelenítése
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Konzolbeállítások
+webconsole-settings-timestamps =
+    .label = Időbélyegek megjelenítése
+    .title = Ezen beállítás bekapcsolásakor a parancsok és a kimenet a Webkonzolon időbélyeggel jelennek meg
+webconsole-settings-warning-groups =
+    .label = Hasonló üzenetek csoportosítása
+    .title = Ha engedélyezett, akkor a hasonló üzenetek csoportokba kerülnek
+webconsole-settings-autocomplete =
+    .label = Kódkiegészítés bekapcsolása
+    .title = Ha engedélyezi ezt a beállítást, akkor a bemenet javaslatokat fog megjeleníteni, miközben Ön gépel
+webconsole-settings-persistent-logs =
+    .label = Naplók tárolása
+    .title = Ezen beállítás bekapcsolásakor a kimenet nem lesz törölve egy új lapra lépéskor
+webconsole-settings-instant-evaluation =
+    .label = Azonnali kiértékelés
+    .title = Ha engedélyezi ezt a beállítást, akkor a bemenet azonnal ki lesz értékelve, miközben Ön gépel
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Hálózatfigyelés engedélyezése
+    .title = Engedélyezze ezt a hálózati kérések figyelésének elkezdéséhez
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = Ide navigálva: { $url }
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Újratöltve
+webconsole-close-sidebar-button-tooltip = Oldalsáv bezárása
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Keresés előzményei
+webconsole-reverse-search-close-button-tooltip = Bezárás ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 találat
+       *[other] { $index }. / { $total } találat
+    }
+webconsole-reverse-search-no-result = Nincs találat
+webconsole-reverse-search-previous-button-tooltip = Előző találat ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Következő találat ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Meghívja a(z) <span data-l10n-name="getter-name">{ $getterName }</span> gettert a tulajdonságlista lekéréséhez?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Meghívás ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Bezárás ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = A választónak megfelelő elemek: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [DEVTOOLS HIBA] Sajnos nem tudtuk az üzenetet megjeleníteni. Ennek nem kellene megtörténnie – küldjön egy hibajelentést a(z) { $url } címen az üzenet metaadataival a leírásban.
+webconsole-message-render-error-copy-button = Üzenet metaadatainak másolása a vágólapra
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Futtatás
+webconsole-editor-toolbar-execute-button-tooltip = Kifejezés futtatása ({ $shortcut }). Ez nem törli a beviteli mezőt.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Kifejezés csinosítása
+webconsole-editor-toolbar-prev-expression-button-tooltip = Előző kifejezés
+webconsole-editor-toolbar-next-expression-button-tooltip = Következő kifejezés
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Fordított előzménykereső megnyitása ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Fordított előzménykereső bezárása ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Visszaváltás soron belüli módba ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Többsoros szerkesztési módba váltás ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Lépkedjen gyorsabban a kódban az új többsoros szerkesztőmóddal. Új sorok hozzáadásához használja a <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> ,a futtatáshoz pedig a <span data-l10n-name="run-shortcut">{ $runShortcut }</span> billentyűkombinációt.
+webconsole-input-editor-onboarding-dismiss = Megértettem!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = JavaScript fájl megnyitása
+webconsole-input-open-javascript-file-filter = JavaScript fájlok
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Fel
+webconsole-input-selector-tooltip = Válasszon kiértékelési környezetet
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Sütifigyelmeztetések
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Content-Security-Policy figyelmeztetések
