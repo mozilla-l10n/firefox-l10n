@@ -10,12 +10,27 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Töltse ki ezt a mezőt.
+dom-form-validation-checkbox-missing = Jelölje be ezt a négyzetet a folytatáshoz.
+dom-form-validation-radio-missing = Jelöljön ki egyet a lehetőségek közül.
+dom-form-validation-file-missing = Jelöljön ki egy fájlt.
+dom-form-validation-select-missing = Jelöljön ki egy elemet a listából.
+dom-form-validation-invalid-email = Írjon be egy e-mail címet.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = A kért formátumban adja meg az adatot: { $title }.
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Válasszon egy ennél nem nagyobb értéket: { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Válasszon egy ennél nem későbbi értéket: { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Válasszon egy ennél nem kisebb értéket: { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Válasszon egy ennél nem korábbi értéket: { $minimum }.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
