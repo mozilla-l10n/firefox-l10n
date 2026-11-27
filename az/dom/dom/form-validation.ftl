@@ -25,3 +25,21 @@ dom-form-validation-pattern-mismatch-with-title = Lütfən istənən formata əm
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Lütfən { $maximum } dəyərindən çox olmayan bir dəyər seçin.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Lütfən { $maximum } sonra olmayan dəyər seçin.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Lütfən { $minimum } dəyərindən az olmayan bir dəyər seçin.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Lütfən { $minimum } əvvəl olmayan dəyər seçin.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Zəhmət olmasa düzgün qiymət seçin. İki ən yaxın qiymət { $lowValue } və { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Zəhmət olmasa düzgün dəyər seçin. Ən yaxın dəyər: { $value }.
+dom-form-validation-bad-input-number = Zəhmət olmasa, rəqəm daxil edin.
