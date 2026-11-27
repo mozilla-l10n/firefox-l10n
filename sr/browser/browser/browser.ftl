@@ -1364,6 +1364,9 @@ menu-share-copy-links =
            *[other] Копирај { $count } веза
         }
     .accesskey = в
+menu-share-windows2 =
+    .label = Више могућности
+    .accesskey = В
 ui-tour-info-panel-close =
     .tooltiptext = Затвори
 
