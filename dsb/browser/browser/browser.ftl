@@ -1413,6 +1413,9 @@ menu-share-copy-links =
            *[other] { $count } wótkazow kopěrowaś
         }
     .accesskey = k
+menu-share-windows2 =
+    .label = Dalšne nastajenja
+    .accesskey = D
 ui-tour-info-panel-close =
     .tooltiptext = Zacyniś
 
