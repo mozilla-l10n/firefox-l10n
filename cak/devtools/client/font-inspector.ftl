@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = Man xe'okisäx ta taq tz'ib' pa ri ruch'akul wakami.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Tiwachib'ëx URL
 # An "instance" is the term used by font authors for a named group of
@@ -21,6 +22,8 @@ font-inspector-custom-instance-name = Ichinan
 font-inspector-font-size-label = Nimilem
 font-inspector-font-weight-label = Ralal
 font-inspector-font-italic-label = Q'e'etz'ib'
+font-inspector-letter-spacing-label = Rukojol
+font-inspector-line-height-label = Rupalem Juch'
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -29,6 +32,11 @@ font-inspector-show-less = Tik'ut jub'a'
 
 ##
 
+font-inspector-all-fonts-on-page-header = Ronojel tz'ib pa ruxaq
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Tz'ib' Okisan
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Nab'ey rutz'etik rutz'ib'anik tz'ib'
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
