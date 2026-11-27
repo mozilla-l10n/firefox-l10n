@@ -39,6 +39,14 @@ dom-form-validation-number-range-underflow = Palun määra number, mis pole väi
 #   $minimum (String) - The earliest value allowed in the field, a date or a time.
 dom-form-validation-date-time-range-underflow = Palun määra väärtus, mis pole varasem kui { $minimum }.
 # Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Palun määra korrektne väärtus. Kaks lähimat korrektset väärtust on { $lowValue } ja { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Palun määra korrektne väärtus. Lähim korrektne väärtus on { $value }.
+# Variables:
 #   $minimum (String) - The earliest time allowed in the field.
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Palun vali väärtus vahemikus { $minimum } kuni { $maximum }.
