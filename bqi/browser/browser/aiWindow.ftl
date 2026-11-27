@@ -116,10 +116,18 @@ aiwindow-input-model-select-button-label-fast = زل
 aiwindow-input-model-select-button-label-allpurpose = انعتاف پزیر
 aiwindow-input-model-select-button-label-personal = سیخومی
 aiwindow-input-model-select-button-label-custom = سفارشی
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = خوتکار
 aiwindow-input-model-select-default-badge =
     .label = پؽش فرز
     .title = مودل پؽش فرز پسند وابیڌه
 aiwindow-input-model-select-settings-link = سامووا مودل
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-fast-description = جواوا زی، مجالی ک عجله دارین
+aiwindow-input-model-select-flexible-description = ٱماڌه سی تیف موتنوعی ز کارا
 
 ## Firstrun memories onboarding
 

@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = ආරම්භයේදී විමසීමකින් තොරව තේරූ පැතිකඩ භාවිත කරන්න
     .accesskey = s
+profile-has-selectable-profiles-title = වෙනත් පැතිකඩ වලට සබැඳි පැතිකඩක් මැකීමට නොහැකිය
+profile-has-selectable-profiles-message = මෙම පැතිකඩ මැකීමට, එය විවෘත කර { -brand-short-name } වට්ටෝරුවේ පැතිකඩ කොටසෙන් "පැතිකඩ කළමනාකරණය" තෝරන්න. ඔබ මෙහි සාදන ලද අතිරේක පැතිකඩ මැකීමෙන් පසු ඔබට about:profiles වෙත ආපසු ගොස් මෙම පැතිකඩ මැකීමට හැකිය.
