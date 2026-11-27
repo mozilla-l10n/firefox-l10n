@@ -27,6 +27,8 @@ font-inspector-line-height-label = Altura de la línea
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = Mostrar más
+font-inspector-show-less = Mostrar menos
 
 ##
 
