@@ -9,6 +9,8 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = કોઈ ફેરફારો મળ્યાં નથી.
+changes-no-changes-description = નિરીક્ષકમાં CSS માં થયેલ ફેરફારો અહીં દેખાશે.
 
 ##
 
