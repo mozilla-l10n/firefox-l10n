@@ -22,3 +22,16 @@ webconsole-commands-usage-unblock =
     إيقاف حظر طلبات الشبكة
     
     يقبل هذا الأمر وسيطة واحدة فقط، وهي نفس السلسلة التي تم تمريرها سابقًا إلى :block.
+
+## Messages displayed as the result of Web Console commands.
+
+# Displayed when the :unblock command is successful.
+# Variables:
+#   $url (String) - The URL filter.
+webconsole-commands-unblocked-url = أُزيل عامل التصفية “{ $url }”
+# Displayed when no filter is passed to the :block or :unblock commands.
+webconsole-commands-block-arg-missing = لم يحدّد أي تصفية
+
+## Messages displayed when the :trace command starts or stops the JavaScript
+## Tracer.
+
