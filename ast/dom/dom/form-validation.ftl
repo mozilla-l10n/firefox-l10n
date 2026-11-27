@@ -10,6 +10,14 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Rellena esti campu, por favor.
+dom-form-validation-checkbox-missing = Marca esti caxellu si quies siguir, por favor.
+dom-form-validation-radio-missing = Esbilla una d'estes opciones, por favor.
+dom-form-validation-file-missing = Esbilla un ficheru, por favor.
+dom-form-validation-select-missing = Esbilla un elementu de la llista, por favor.
+dom-form-validation-invalid-email = Introduz una direición de corréu, por favor.
+dom-form-validation-invalid-url = Introduz una URL, por favor.
+dom-form-validation-invalid-date = Introduz una data válida, por favor.
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Esbilla un valor que nun seya mayor a { $maximum }, por favor.
@@ -30,3 +38,8 @@ dom-form-validation-step-mismatch = Esbilla un valor válidu, por favor. Los dos
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Esbilla un valor válidu, por favor. El valor válidu más cercanu ye { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Esbilla un valor ente { $minimum } y { $maximum }, por favor.
+dom-form-validation-bad-input-number = Introduz un númberu, por favor.
