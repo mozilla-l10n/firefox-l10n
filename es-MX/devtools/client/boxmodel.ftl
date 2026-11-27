@@ -12,6 +12,8 @@ boxmodel-properties-label = Propiedades del modelo de caja
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Ocultar
+boxmodel-properties-show-label = Mostrar
 
 ##
 
