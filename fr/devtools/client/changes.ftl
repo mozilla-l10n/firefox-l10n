@@ -21,3 +21,6 @@ changes-iframe-label = iframe
 
 ## Changes panel context menu
 
+changes-context-menu-copy =
+    .label = Copier
+    .accesskey = C
