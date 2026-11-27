@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Бос жол getElementById() тәсілінің аргументі бола алмайды.
+dom-document-write-ignored = Асинхронды жүктелген сыртқы скриптен document.write() шақыруын елемеу.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = document.write() көмегімен жазылған теңгерілмеген ағаш желіден келген мәліметті қайта талдауды мәжбүрлетіп тұр. Көбірек білу үшін { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds() функциясы characterboundsupdate оқиға тыңдаушысында синхронды түрде шақырылмады. IME интерфейсі кейбір пайдаланушылар үшін күтпеген жерден ауысып кетуі мүмкін. Қосымша ақпарат: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
