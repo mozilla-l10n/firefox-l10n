@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = മുന്നറിയിപ്പു്: മറുപടിയില്ലാത്ത സ്ക്രിപ്റ്റ്
+dom-slow-script-dialog-message = ഈ പേജിലുള്ള സ്ക്രിപ്റ്റ്  തിരക്കിലാവാം അല്ലെങ്കില്‍  മറുപടി നല്‍കുന്നത് അവസാനിപ്പിച്ച്  കാണാം. നിങ്ങള്‍ക്ക് ഈ സ്ക്രിപ്റ്റ് നിര്‍ത്തുകയോ, അല്ലെങ്കില്‍ അത് പൂര്‍ത്തിയായോ എന്നറിയുന്നതിനായി തുടരുകയോ ചെയ്യാവുന്നതാണു്.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = സ്ക്രിപ്റ്റ്: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = ഇനി ചോദിക്കരുതു്
 dom-slow-script-dialog-stop-button = സ്ക്രിപ്റ്റ് നിര്‍ത്തുക
 dom-slow-script-dialog-continue-button = മുമ്പോട്ടു് തുടരുക
+dom-slow-addon-script-dialog-title = മുന്നറിയിപ്പ്: പ്രതികരിക്കാത്ത ആഡ്-ഓൺ സ്ക്രിപ്റ്റ്
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
