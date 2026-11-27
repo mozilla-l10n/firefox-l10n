@@ -11,3 +11,11 @@
 dom-performance-observer-unsupported-entry-types = نادیده گرفتن مقادیر پشتیبانی‌نشده برای entryTypes: { $entryTypes }.
 # Do not translate "entryTypes".
 dom-performance-observer-no-valid-entry-types = مقدار معتبری در entryTypes وجود ندارد؛ لغو عملیات ثبت.
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = تگ <{ $tagName }> در SVG با شناسهٔ «{ $id }» دارای یک حلقهٔ ارجاع (Reference Loop) است.
+# Variables:
+#   $tagName (String) - Tag name of the element where the chain was broken.
+#   $id (String) - ID of the element.
+dom-svg-reference-chain-length-exceeded = زنجیرهٔ ارجاع بسیار طولانی در SVG در تگ <{ $tagName }> با شناسهٔ «{ $id }» رها شد.
