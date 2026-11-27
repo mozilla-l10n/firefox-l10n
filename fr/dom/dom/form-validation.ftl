@@ -24,6 +24,9 @@ dom-form-validation-invalid-month = Veuillez saisir un mois valide.
 dom-form-validation-invalid-week = Veuillez saisir une semaine valide.
 dom-form-validation-pattern-mismatch = Veuillez modifier la valeur pour correspondre au format demandé.
 # Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Veuillez modifier la valeur du champ pour correspondre au format demandé : { $title }.
+# Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Veuillez sélectionner une valeur inférieure ou égale à { $maximum }.
 # Variables:
