@@ -30,3 +30,8 @@ dom-form-validation-step-mismatch = වලංගු අගයක් තෝරන
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = වලංගු අගයක් තෝරන්න. ආසන්නතම වලංගු අගය වනුයේ { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = { $minimum } සහ { $maximum } අතර අගයක් තෝරන්න.
+dom-form-validation-bad-input-number = අංකයක් ඇතුල් කරන්න.
