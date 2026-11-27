@@ -18,9 +18,14 @@ font-inspector-custom-instance-name = Sagen
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = Teɣzi
+font-inspector-font-weight-label = Taẓayt
+font-inspector-font-italic-label = Uknan
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = Sken ugar
+font-inspector-show-less = Sken drus
 
 ##
 
