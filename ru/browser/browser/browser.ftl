@@ -1403,6 +1403,9 @@ menu-share-copy-links =
            *[many] Копировать { $count } ссылок
         }
     .accesskey = Д
+menu-share-windows2 =
+    .label = Другие настройки
+    .accesskey = Д
 ui-tour-info-panel-close =
     .tooltiptext = Закрыть
 
