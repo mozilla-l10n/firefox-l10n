@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = Prilagođeno
 font-inspector-font-size-label = Veličina
 font-inspector-font-weight-label = Debljina
 font-inspector-font-italic-label = Kurziv
+font-inspector-letter-spacing-label = Razmak između slova
+font-inspector-line-height-label = Visina retka
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -30,6 +32,11 @@ font-inspector-show-less = Prikaži manje
 
 ##
 
+font-inspector-all-fonts-on-page-header = Svi fontovi na stranici
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Korišteni fontovi
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Tekst za pregled fonta
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
