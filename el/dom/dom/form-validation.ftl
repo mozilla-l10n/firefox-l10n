@@ -13,3 +13,6 @@
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Εισαγάγετε μια τιμή στη ζητούμενη μορφή: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Επιλέξτε μια τιμή που να μην είναι μεγαλύτερη από { $maximum }.
