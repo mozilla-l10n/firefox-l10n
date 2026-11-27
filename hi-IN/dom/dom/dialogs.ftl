@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = चेतावनी: गैर अनुक्रियात्मक स्क्रिप्ट
+dom-slow-script-dialog-message = एक स्क्रिप्ट इस पेज में व्यस्त हो सकता है, या यह प्रतिक्रिया देना बंद कर सकता हैं. आप अभी स्क्रिप्ट को बंद कर सकते हैं, या आप जारी रख सकते है यह देखने के लिये कि स्क्रिप्ट पूरी होगी कि नहीं.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Script: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Don't ask me again
 dom-slow-script-dialog-stop-button = Stop script
 dom-slow-script-dialog-continue-button = जारी रखें
+dom-slow-addon-script-dialog-title = चेतावनी: गैर अनुक्रियात्मक ऐड-ऑन स्क्रिप्ट
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
