@@ -13,6 +13,17 @@
 ##
 
 changes-copy-all-changes-button = Còpia tutte e modifiche
+changes-copy-rule-button = Còpia regola
+changes-copy-rule-button-title = Còpia o contegnuo de sta regola CSS inti aponti.
 
 ## Changes panel context menu
 
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = Còpia regola
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = Còpia dichiaraçion
+changes-context-menu-select-all =
+    .label = Seleçionn-a tutto
+    .accesskey = S
