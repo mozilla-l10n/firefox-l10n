@@ -33,3 +33,8 @@ dom-form-validation-step-mismatch = Επιλέξτε μια έγκυρη τιμ�
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Επιλέξτε μια έγκυρη τιμή. Η πλησιέστερη έγκυρη τιμή είναι { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Επιλέξτε μια τιμή μεταξύ { $minimum } και { $maximum }.
+dom-form-validation-bad-input-number = Εισαγάγετε έναν αριθμό.
