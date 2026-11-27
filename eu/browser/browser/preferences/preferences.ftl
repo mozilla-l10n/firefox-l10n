@@ -1189,7 +1189,7 @@ prefs-syncing-button-2 =
     .title = Sinkronizatu orain
 # "Your sync choices" refers to the choices a user makes on what types of data they want to sync
 sync-cwts-migration-notification =
-    .message = Zure sinkronizazio-aukerek gailu honi eragiten die orain.
+    .message = Zure sinkronizazio-aukerek gailu honi eragiten diote orain.
 
 ## The list of things currently syncing.
 
