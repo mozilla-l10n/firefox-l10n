@@ -14,6 +14,7 @@ font-inspector-copy-url-title = ბმულის ასლი
 font-inspector-font-size-label = ზომა
 font-inspector-font-weight-label = სისქე
 font-inspector-font-italic-label = დახრილი
+font-inspector-letter-spacing-label = დაშორება
 font-inspector-line-height-label = ხაზის სიმაღლე
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
