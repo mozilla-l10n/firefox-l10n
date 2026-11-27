@@ -44,3 +44,8 @@ dom-form-validation-step-mismatch = कृपया एक वैध मान �
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = कृपया एक वैध मान चुनें. निकटतम वैध मान { $value } है.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = कृपया { $minimum } और { $maximum } के बीच एक मान चुनें।
+dom-form-validation-bad-input-number = कृपया एक क्रमांक दर्ज करें.
