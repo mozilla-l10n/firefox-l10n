@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Reentino: Dokkorol jaabaaki
+dom-slow-script-dialog-message = Dokkorol e ngoo hello ena wayi no ko jaggungol nih walla dartiima jaabaade. Aɗa waawi dartinde ngol jooni, walla aɗa waawi jokude ngam yiyde so ma ngol timmu.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Dokkorol: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Hoto naamnito-mi goɗngol
 dom-slow-script-dialog-stop-button = Dartin dokkorol
 dom-slow-script-dialog-continue-button = Jokku
+dom-slow-addon-script-dialog-title = Reentino: dokkorel ɓeyditel ngel jaabotaako
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
