@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Warnowanje: Njewotmołwjacy skript
+dom-slow-script-dialog-message = Skript na tutej stronje snano dźěła abo hižo njewotmołwja. Móžeće skript nětko zastajić abo z nim pokročować, zo byšće widźał, hač skript zakónči.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Skript: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Hišće raz so njeprašeć
 dom-slow-script-dialog-stop-button = Skript zastajić
 dom-slow-script-dialog-continue-button = Pokročować
+dom-slow-addon-script-dialog-title = Warnowanje: Njewotmołwjacy přidatkowy skript
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
