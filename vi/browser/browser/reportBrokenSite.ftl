@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Báo cáo trang web bị hỏng
 report-broken-site-panel-header =
     .label = Báo cáo trang web bị hỏng
     .title = Báo cáo trang web bị hỏng
+report-broken-site-panel-intro-text2 = Báo cáo của bạn giúp chúng tôi cải thiện { -brand-product-name } cho tất cả mọi người.
 report-broken-site-panel-intro-text = Báo cáo của bạn giúp chúng tôi hiểu và khắc phục các sự cố trong { -brand-product-name } để cải thiện dịch vụ cho mọi người.
 report-broken-site-panel-learn-more-link = Tìm hiểu thêm
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Địa chỉ trang web
 report-broken-site-panel-url-label = URL của trang bị hỏng
 report-broken-site-panel-reason-intro-text = Điều gì hoạt động không đúng?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Cái gì đó khác
 report-broken-site-panel-instructions-other = Hãy mô tả sự cố một cách chi tiết để giúp chúng tôi điều tra.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Mô tả chi tiết vấn đề (không bắt buộc)
 report-broken-site-panel-instructions-other-optional = Hãy mô tả chi tiết sự cố để giúp chúng tôi điều tra. (tùy chọn)
 report-broken-site-panel-description2 =
     .placeholder = Chuyện gì đã xảy ra? Bạn mong đợi điều gì sẽ xảy ra? Vui lòng cung cấp các bước để tái hiện sự cố.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Gửi thông tin qua { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Gửi thêm thông tin
 report-broken-site-panel-button-cancel =
@@ -60,6 +69,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Gửi danh sách các mục bị chặn bởi tính năng trình chống theo dõi
 report-broken-site-panel-url-input-label =
     .aria-label = URL của trang đang được báo cáo
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Xem dữ liệu chẩn đoán
 report-broken-site-panel-preview-button =
     .label = Xem trước báo cáo
 report-broken-site-panel-preview-header2 =

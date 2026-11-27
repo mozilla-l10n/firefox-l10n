@@ -66,6 +66,9 @@ about-logging-preset-gfx-description = Moduly protokolů pro diagnostiku problé
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Moduly protokolu pro diagnostiku problémů specifických pro systém Microsoft Windows
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = Metoda zadávání
 about-logging-preset-custom-label = Vlastní
 about-logging-preset-custom-description = Ručně vybrané moduly protokolů
 # Error handling

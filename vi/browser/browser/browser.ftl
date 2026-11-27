@@ -879,6 +879,66 @@ urlbar-result-dates-today = { $name } · Hôm nay
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Kết thúc hôm nay
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Không hiển thị các gợi ý về trạng thái chuyến bay
+    .accesskey = n
+urlbar-result-flight-status-status-ontime = Đúng giờ
+urlbar-result-flight-status-status-inflight = Trên chuyến bay
+urlbar-result-flight-status-status-arrived = Đã đến nơi
+urlbar-result-flight-status-status-cancelled = Đã huỷ bỏ
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Bị hoãn đến { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = Còn { $timeLeft }
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Đề xuất tình trạng chuyến bay
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } với { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } lúc { $time }
+urlbar-result-sports-status-live = Trực tiếp
+urlbar-result-sports-status-final = Kết thúc
+urlbar-result-menu-dont-show-sports = Không hiển thị các đề xuất về thể thao
+    .accesskey = n
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Đề xuất về thể thao
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1011,6 +1071,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Tìm kiếm gần đây
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Lối tắt
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1180,6 +1245,7 @@ qrcode-save-button =
     .label = Lưu
 qrcode-window-title = Mã QR
 qrcode-dialog-title = Mã QR
+qrcode-dialog-title-download-mobile = Tải xuống { -brand-product-name } dành cho di động
 qrcode-image =
     .aria-label = Mã QR
 qrcode-close-button =
@@ -1658,6 +1724,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Trình chống theo dõi nâng cao đang bật
 trustpanel-etp-label-disabled = Trình chống theo dõi nâng cao đã tắt
+trustpanel-etp-label-redesign = Trình chống theo dõi nâng cao
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1680,7 +1747,10 @@ trustpanel-description-enabled-insecure = { -brand-product-name } nhận thấy 
 trustpanel-header-disabled = Bạn đã tắt trình chống
 trustpanel-description-disabled = { -brand-product-name } không còn hoạt động. Chúng tôi khuyên bạn nên bật lại trình chống.
 trustpanel-clear-cookies-button = Xóa cookie và dữ liệu trang web
+trustpanel-delete-site-data-button = Xoá dữ liệu trang web
+trustpanel-fix-site-issue-button = Khắc phục sự cố trang web
 trustpanel-privacy-link = Cài đặt quyền riêng tư
+trustpanel-manage-settings-button = Quản lý cài đặt
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1690,10 +1760,23 @@ trustpanel-clear-cookies-subview-button-clear = Xóa
 trustpanel-clear-cookies-subview-button-cancel = Hủy bỏ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Xoá dữ liệu trang web cho { $host }
+trustpanel-clear-cookies-description-redesign = Bạn sẽ bị đăng xuất khỏi các trang web. Thao tác này có thể xóa giỏ hàng của bạn.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Bảo vệ kết nối cho { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Thông tin kết nối cho { $host }
+trustpanel-connection-secure = Kết nối đến trang web này an toàn.
+trustpanel-connection-not-secure = Kết nối đến trang web này không an toàn.
+trustpanel-connection-not-secure-description = Tránh nhập các thông tin như mật khẩu hoặc thẻ tín dụng để giúp bảo vệ chúng khỏi bị đánh cắp.
 trustpanel-siteinformation-morelink = Thông tin thêm về trang web
 trustpanel-blocker-see-all = Xem tất cả
+trustpanel-blocker-see-trackers-button = Xem các trình theo dõi
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
@@ -1706,6 +1789,11 @@ urlbar-trust-icon-notsecure-label = Không an toàn
 # Variables
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label = { $count } trình theo dõi bị chặn
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip = { $count } trình theo dõi đã bị chặn trên trang web này
+urlbar-trust-icon-no-trackers-found-tooltip = Không tìm thấy trình theo dõi nào trên trang web này
+urlbar-trust-icon-tracking-protection-off-tooltip = Trình chống theo dõi đã bị tắt cho trang web này
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1716,6 +1804,16 @@ trustpanel-tracking-header = { -brand-product-name } cho phép những điều n
 trustpanel-tracking-description = Nếu không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.
 trustpanel-insecure-section-header = Kết nối của bạn không an toàn
 trustpanel-insecure-description = Dữ liệu bạn gửi đến trang web này không được mã hóa. Dữ liệu có thể bị xem, đánh cắp hoặc thay đổi.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Trang web không hoạt động? Hãy thử các bước sau.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Lần lượt tắt các mục này để xem liệu vấn đề có được khắc phục hay không:
+trustpanel-report-broken-site-button = Báo cáo trang web bị hỏng
+trustpanel-report-broken-site-description = Báo cáo của bạn giúp chúng tôi cải thiện { -brand-short-name } cho tất cả mọi người.
 trustpanel-list-label-tracking-cookies = { $count } cookie theo dõi liên trang web
 trustpanel-list-label-tracking-content = Trình theo dõi nội dung
 trustpanel-list-label-fingerprinter = { $count } dấu vết
@@ -1740,6 +1838,27 @@ trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Bỏ qua
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Bắt đầu quét miễn phí
 trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> trình theo dõi bị chặn trên trang web này
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Quyền riêng tư phù hợp với bạn
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } khiến các công ty khó theo dõi bạn hơn. Mở biểu tượng hình khiên để xem chúng tôi đã chặn những trình theo dõi nào.
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Tiện ích mở rộng
+trustpanel-site-issue-step-vpn = VPN tích hợp sẵn
+trustpanel-site-issue-step-etp = Trình chống theo dõi nâng cao
+
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header2-redesign = { -brand-short-name } đã chặn <span data-l10n-name="count">{ $count }</span> trình theo dõi trên trang web này
+trustpanel-blocker-description-redesign = Các trình theo dõi này đã bị ngăn cản việc thu thập thông tin về hoạt động duyệt web của bạn.
+trustpanel-no-trackers-header-redesign = Không có trình theo dõi cho trang web này
+trustpanel-no-trackers-description-redesign = { -brand-short-name } đã kiểm tra cho các trình theo dõi đã biết và không phát hiện trình theo dõi nào.
+trustpanel-etp-off-description-redesign = Bật trình chống và { -brand-short-name } sẽ chặn các trình theo dõi đã biết thu thập thông tin về hoạt động duyệt web của bạn.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

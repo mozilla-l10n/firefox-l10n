@@ -147,6 +147,30 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Chỉnh sửa dấu trang…
     .tooltiptext = Chỉnh sửa dấu trang ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Mở
+    .accesskey = O
+main-context-menu-open-link-new-tab-2 =
+    .label = Mở trong thẻ mới
+    .accesskey = T
+main-context-menu-open-link-split-view-2 =
+    .label = Mở trong chế độ chia cửa sổ
+    .accesskey = M
+main-context-menu-open-link-container-tab-2 =
+    .label = Mở trong thẻ ngăn chứa mới
+    .accesskey = w
+main-context-menu-open-link-new-window-2 =
+    .label = Mở trong cửa sổ mới
+    .accesskey = d
+main-context-menu-open-link-mini-window =
+    .label = Mở trong cửa sổ nhỏ
+    .accesskey = M
+main-context-menu-open-link-new-private-window-2 =
+    .label = Mở trong cửa sổ riêng tư mới
+    .accesskey = P
+main-context-menu-bookmark-link-3 =
+    .label = Đánh dấu…
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Bật menu hành động
     .accesskey = A
+main-context-menu-link-send-to-your-devices =
+    .label = Gửi đến thiết bị của bạn
+    .accesskey = n
 main-context-menu-link-send-to-device =
     .label = Gửi đường dẫn tới thiết bị
     .accesskey = n
@@ -440,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Tìm hiểu thêm về DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Mở trong thẻ { $containerName } mới
+    .accesskey = T
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
