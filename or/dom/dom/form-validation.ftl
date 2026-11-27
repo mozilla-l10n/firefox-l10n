@@ -13,3 +13,18 @@
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = ଦୟାକରି ଅନୁରୋଧ କରାଯାଇଥିବା ଶୈଳୀକୁ ମେଳାନ୍ତୁ: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = ଦୟାକରି { $maximum } ରୁ କମ ଏକ ମୂଲ୍ୟ ବାଛନ୍ତୁ।
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = ଦୟାକରି { $minimum } ରୁ କମ ଏକ ମୂଲ୍ୟ ବାଛନ୍ତୁ।
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = ଦୟାକରି ଏକ ବୈଧ ମୂଲ୍ୟ ବାଛନ୍ତୁ। ନିକଟବର୍ତ୍ତୀ ଦୁଇଟି ବୈଧ ମୂଲ୍ୟଗୁଡ଼ିକ ହେଉଛି { $lowValue } ଏବଂ { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = ଦୟାକରି ଏକ ବୈଧ ମୂଲ୍ୟ ବାଛନ୍ତୁ। ନିକଟତମ ବୈଧ ମୂଲ୍ୟ ହେଉଛି { $value }.
+dom-form-validation-bad-input-number = ଦୟାକରି ଏକ ସଂଖ୍ୟା ଭରଣ କରନ୍ତୁ।
