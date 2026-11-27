@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] { $repeats } tekrar
        *[other] { $repeats } tekrar
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } mesaj
+       *[other] { $count } mesaj
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -168,42 +177,180 @@ webconsole-menu-copy-object =
 webconsole-menu-open-in-sidebar =
     .label = Nesneyi kenar çubuğunda incele
     .accesskey = K
+webconsole-menu-copy-all-messages =
+    .label = Tüm mesajları kopyala
+    .accesskey = T
+webconsole-menu-save-all-messages-file =
+    .label = Tüm mesajları dosyaya kaydet
+    .accesskey = d
 
 ## Toolbar at the top of the console.
 
+# Variables:
+#   $shortcut (String) - Keyboard shortcut to clear the output.
+webconsole-clear-button-tooltip = Web konsolu çıktısını temizle ({ $shortcut })
+webconsole-filter-input-placeholder = Çıktıyı filtrele
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } gizli
+       *[other] { $count } gizli
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] Metin filtresi tarafından { $count } öğe gizlendi
+       *[other] Metin filtresi tarafından { $count } öğe gizlendi
+    }
+webconsole-close-split-console-button-tooltip = Ayrık konsolu kapat (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
+webconsole-filter-button-errors = Hatalar
+webconsole-filter-button-warnings = Uyarılar
+webconsole-filter-button-logs = Günlükler
+webconsole-filter-button-info = Bilgi
+webconsole-filter-button-debug = Hata ayıkla
+webconsole-filter-button-css = CSS
+# Tooltip of the CSS button when the filter is not enabled.
+webconsole-filter-button-css-inactive-tooltip = Hataları kontrol etmek stil dosyaları yeniden işlenecektir. JavaScript ile değiştirilen stil dosyalarından gelen hataları da görmek isterseniz sayfayı tazeleyin.
+# Requests made with XMLHttpRequest or fetch().
+webconsole-filter-button-xhr = XHR
+# All network requests, e.g. for images or scripts.
+webconsole-filter-button-requests = İstekler
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Tarayıcı
+webconsole-filter-button-chrome-tooltip = Tarayıcının gönderdiği iletileri göster
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = İçerik
+webconsole-filter-button-content-tooltip = Web içeriğinin gönderdiği iletileri göster
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Konsol ayarları
+webconsole-settings-timestamps =
+    .label = Zaman damgalarını göster
+    .title = Bu seçeneği etkinleştirirseniz web konsolundaki komut ve çıktılarda zaman damgası görünür
+webconsole-settings-warning-groups =
+    .label = Benzer mesajları grupla
+    .title = Etkinleştirildiğinde, benzer mesajlar gruplara ayrılır
+webconsole-settings-autocomplete =
+    .label = Otomatik tamamlamayı etkinleştir
+    .title = Bu seçeneği etkinleştirirseniz girdi alanına yazı yazmaya başladığınızda öneriler gösterilir
+webconsole-settings-persistent-logs =
+    .label = Logları koru
+    .title = Bu seçeneği etkinleştirirseniz her yeni sayfaya geçişinizde çıktı temizlenmez
+webconsole-settings-instant-evaluation =
+    .label = Anlık değerlendirme
+    .title = Bu seçeneği etkinleştirirseniz, girdi alanına yazı yazmaya başladığınızda anında değerlendirilir
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Ağ izlemeyi etkinleştir
+    .title = Ağ isteklerini dinlemeye başlamak için bunu etkinleştirin
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = { $url } adresine gidildi
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Tazelendi
+webconsole-close-sidebar-button-tooltip = Kenar çubuğunu kapat
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Geçmişte ara
+webconsole-reverse-search-close-button-tooltip = Kapat ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 sonuç
+       *[other] { $index } / { $total } sonuç
+    }
+webconsole-reverse-search-no-result = Sonuç yok
+webconsole-reverse-search-previous-button-tooltip = Önceki sonuç ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Sonraki sonuç ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Özellik listesini almak için <span data-l10n-name="getter-name">{ $getterName }</span> adlı getter çağrılsın mı?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Çağır ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Kapat ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Seçiciyle eşleşen elemanlar: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [GELİŞTİRİCİ ARAÇLARI HATASI] Maalesef iletiyi işleyemedik. Böyle bir şey yaşanmamalıydı. Açıklamadaki meta verileriyle birlikte { $url } adresinden bir hata kaydı açmanızı rica ederiz.
+webconsole-message-render-error-copy-button = Mesajın meta verilerini panoya kopyala
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Çalıştır
+webconsole-editor-toolbar-execute-button-tooltip = İfadeyi çalıştır ({ $shortcut }). Bu işlem girdiyi temizlemez.
+webconsole-editor-toolbar-pretty-print-button-tooltip = İfadenin şeklini düzelt
+webconsole-editor-toolbar-prev-expression-button-tooltip = Önceki ifade
+webconsole-editor-toolbar-next-expression-button-tooltip = Sonraki ifade
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Tersten geçmiş aramayı aç ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Tersten geçmiş aramayı kapat ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Satır içi moda geri dön ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Çok satırlı düzenleyici moduna geç ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Yeni çok satırlı düzenleyici moduyla kodunuzu daha hızlı yineleyin. Yeni satır eklemek için <span data-l10n-name="enter-key">{ webconsole-enter-key }</span>, çalıştırmak için <span data-l10n-name="run-shortcut">{ $runShortcut }</span> tuşlarını kullanabilirsiniz.
+webconsole-input-editor-onboarding-dismiss = Anladım!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = JavaScript dosyası aç
+webconsole-input-open-javascript-file-filter = JavaScript dosyaları
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Üst
+webconsole-input-selector-tooltip = Değerlendirme bağlamını seçin
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Çerez uyarıları
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Content-Security-Policy uyarıları
