@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Vlastní
 font-inspector-font-size-label = Velikost
 font-inspector-font-weight-label = Tloušťka
 font-inspector-font-italic-label = Kurzíva
+font-inspector-letter-spacing-label = Rozestupy
 font-inspector-line-height-label = Výška řádku
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
