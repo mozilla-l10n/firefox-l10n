@@ -8,6 +8,13 @@
 
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL की प्रतिलिपि बनाएँ
+# An "instance" is the term used by font authors for a named group of
+# predefined font settings, similar to a preset. This is the label of the
+# dropdown used to select one.
+font-inspector-font-instance-label = दृष्टान्त
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = मनपसंद बनाएँ
 
 ## Labels for the font editor controls
 
