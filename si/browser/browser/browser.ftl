@@ -834,7 +834,7 @@ filepicker-blocked-infobar = ඔබගේ සංවිධානය මෙම ප
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
-data-reporting-notification-message = { -brand-short-name } ස්වයංක්‍රීයව සමහර දත්ත { -vendor-short-name } වෙත යවයි, එයින් ඔබගේ අත්දැකීම වැඩිදියුණු කළ හැකිය.
+data-reporting-notification-message = { -brand-short-name } ස්වයංක්‍රියව සමහර දත්ත { -vendor-short-name } වෙත යවයි, එයින් ඔබගේ අත්දැකීම වැඩිදියුණු කළ හැකිය.
 data-reporting-notification-button =
     .label = බෙදාගන්නා දෑ තෝරන්න
     .accesskey = C
@@ -885,8 +885,8 @@ fire-button-panel-choose-link = තෝරන්න…
 
 ## Autorefresh blocker
 
-refresh-blocked-refresh-label = { -brand-short-name } මෙම පිටුව ස්වයංක්‍රීයව යළි පූරණය වීම වළක්වා ඇත.
-refresh-blocked-redirect-label = { -brand-short-name } මෙම පිටුව වෙනත් පිටුවකට ස්වයංක්‍රීයව හරවා යැවීමෙන් වළක්වා ඇත.
+refresh-blocked-refresh-label = { -brand-short-name } මෙම පිටුව ස්වයංක්‍රියව යළි පූරණය වීම වළක්වා ඇත.
+refresh-blocked-redirect-label = { -brand-short-name } මෙම පිටුව වෙනත් පිටුවකට ස්වයංක්‍රියව හරවා යැවීමෙන් වළක්වා ඇත.
 refresh-blocked-allow =
     .label = ඉඩ දෙන්න
     .accesskey = A

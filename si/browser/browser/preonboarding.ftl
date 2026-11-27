@@ -14,4 +14,4 @@ preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } ර
 preonboarding-privacy-notice-header-button-title-b-v2 = රහස්‍යතා දැන්වීම
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යවන්න
-preonboarding-checklist-crash-reports-label = බිඳවැටීම් වාර්තා ස්වයංක්‍රීයව යවන්න
+preonboarding-checklist-crash-reports-label = බිඳවැටීම් වාර්තා ස්වයංක්‍රියව යවන්න

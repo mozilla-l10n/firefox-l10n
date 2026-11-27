@@ -13,6 +13,12 @@ protections-popup-footer-protection-label-standard = Standart
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Artırılmış İzlənmə Qoruması haqqında daha çox məlumat
+
+##
+
 protections-panel-content-blocking-socialblock = Sosial Media İzləyiciləri
 protections-panel-content-blocking-cryptominers-label = Kriptomaynerlər
 protections-panel-content-blocking-fingerprinters-label = Barmaq izi toplayıcıları
@@ -24,6 +30,7 @@ protections-panel-content-blocking-fingerprinters-label = Barmaq izi toplayıcı
 ##   These strings are used in the header labels of each of these sections.
 
 protections-panel-blocking-label = Əngəllənib
+protections-panel-not-blocking-label = İcazə verilib
 
 ##
 

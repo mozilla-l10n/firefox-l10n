@@ -53,7 +53,7 @@ connection-proxy-noproxy-desc = නිදසුන: .හෙළුව.ලංක�
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = localhost, 127.0.0.1/8, සහ ::1 වෙත සම්බන්ධතා කිසිවිටක ප්‍රතියුක්තගත නැත.
 connection-proxy-autotype =
-    .label = ස්වයංක්‍රීය ප්‍රතියුක්ත වින්‍යාස ඒ.ස.නි.
+    .label = ස්වයංක්‍රිය ප්‍රතියුක්ත වින්‍යාස ඒ.ස.නි.
     .accesskey = A
 connection-proxy-reload =
     .label = යළි පූරණය

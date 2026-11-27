@@ -29,7 +29,7 @@ protection-report-page-summary-default = ඔබ පිරික්සන අත�
 protection-report-settings-link = පෞද්ගලිකත්‍ව හා ආරක්‍ෂණ සැකසුම් කළමනාකරණය
 etp-card-title-always = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: සැමවිට සක්‍රියයි
 etp-card-title-custom-not-blocking = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: අක්‍රියයි
-etp-card-content-description = { -brand-short-name } මගින් අන්තර්ජාලය පුරා ඔබව රහසින් ලුහුබඳින සමාගම් ස්වයංක්‍රීයව නවත්වයි.
+etp-card-content-description = { -brand-short-name } මගින් අන්තර්ජාලය පුරා ඔබව රහසින් ලුහුබඳින සමාගම් ස්වයංක්‍රියව නවත්වයි.
 protection-report-manage-protections = සැකසුම් කළමනාකරණය
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -132,30 +132,30 @@ monitor-resolve-breaches-link = උල්ලංඝන විසඳන්න
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = සමාජ මාධ්‍ය ලුහුබැඳීම්
     .aria-label =
         { $count ->
             [one] සමාජ මාධ්‍ය ලුහුබැඳීම් { $count } ({ $percentage }%)
            *[other] සමාජ මාධ්‍ය ලුහුබැඳීම් { $count } ({ $percentage }%)
         }
+    .title = සමාජ මාධ්‍ය ලුහුබැඳීම්
 bar-tooltip-cookie =
-    .title = හරස්-අඩවි ලුහුබඳින දත්තකඩ
     .aria-label =
         { $count ->
             [one] හරස්-අඩවි ලුහුබඳින දත්තකඩ { $count } ({ $percentage }%)
            *[other] හරස්-අඩවි ලුහුබඳින දත්තකඩ { $count } ({ $percentage }%)
         }
+    .title = හරස්-අඩවි ලුහුබඳින දත්තකඩ
 bar-tooltip-tracker =
-    .title = ලුහුබැඳීමේ අන්තර්ගතය
     .aria-label =
         { $count ->
             [one] ලුහුබැඳීමේ අන්තර්ගත { $count } ({ $percentage }%)
            *[other] ලුහුබැඳීමේ අන්තර්ගත { $count } ({ $percentage }%)
         }
+    .title = ලුහුබැඳීමේ අන්තර්ගතය
 bar-tooltip-fingerprinter =
-    .title = ඇඟිලි සටහන්
     .aria-label =
         { $count ->
             [one] ඇඟිලි සටහන් { $count } ({ $percentage }%)
            *[other] ඇඟිලි සටහන් { $count } ({ $percentage }%)
         }
+    .title = ඇඟිලි සටහන්

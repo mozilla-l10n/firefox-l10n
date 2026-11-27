@@ -205,7 +205,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>ඔබගේ පරිගණකය නැවත අරඹන සැමවිට { -brand-short-name } අරින්න ද?</strong> දැන් ඔබට උපාංගය නැවත ඇරඹෙන විට ස්වයංක්‍රීයව { -brand-short-name }  විවෘත වීමට සැකසිය හැකිය.
+launch-on-login-infobar-message = <strong>ඔබගේ පරිගණකය නැවත අරඹන සැමවිට { -brand-short-name } අරින්න ද?</strong> දැන් ඔබට උපාංගය නැවත ඇරඹෙන විට ස්වයංක්‍රියව { -brand-short-name }  විවෘත වීමට සැකසිය හැකිය.
 launch-on-login-learnmore = තව දැනගන්න
 launch-on-login-infobar-confirm-button = ඔව්, { -brand-short-name } අරින්න
     .accesskey = Y

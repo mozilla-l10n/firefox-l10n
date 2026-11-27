@@ -139,7 +139,7 @@ startup-restore-windows-and-tabs =
     .label = කලින් කවුළු හා පටිති අරින්න
     .accesskey = s
 windows-launch-on-login =
-    .label = ඔබගේ පරිගණකය ඇරඹෙන විට ස්වයංක්‍රීයව { -brand-short-name } අරින්න
+    .label = ඔබගේ පරිගණකය ඇරඹෙන විට ස්වයංක්‍රියව { -brand-short-name } අරින්න
     .accesskey = O
 windows-launch-on-login-disabled = මෙම අභිප්‍රේතය වින්ඩෝස් හි අබල කර ඇත. සංශෝධනය සඳහා පද්ධති සැකසුම් තුළ <a data-l10n-name="startup-link">ආරම්භක යෙදුම්</a> වෙත යන්න.
 disable-extension =
@@ -403,7 +403,7 @@ update-application-installation =
 update-application-radio-group =
     .aria-label = ස්ථාපනය
 update-application-auto-2 =
-    .label = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය (නිර්දේශිතයි)
+    .label = ස්වයංක්‍රියව යාවත්කාල ස්ථාපනය (නිර්දේශිතයි)
     .accesskey = A
 update-application-background-enabled =
     .label = { -brand-short-name } ධාවනය නොවන විට
@@ -896,7 +896,7 @@ preferences-relay-integration-checkbox2 =
 relay-integration-learn-more-link = තව දැනගන්න
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
-    .label = පරිශ්‍රීලක නාම සහ මුරපද ස්වයංක්‍රීයව පුරවන්න
+    .label = පරිශ්‍රීලක නාම සහ මුරපද ස්වයංක්‍රියව පුරවන්න
     .accesskey = F
 forms-saved-passwords =
     .label = සුරැකි මුරපද
@@ -1080,10 +1080,10 @@ cookies-site-data-group =
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = දත්තකඩ පතාක අවහිරය
-cookie-banner-blocker-description = පෞද්ගලික පිරික්සුම් ප්‍රකාරයේ දත්තකඩ භාවිතා කළ හැකිදැයි අඩවියක් අසන විට { -brand-short-name } ස්වයංක්‍රීයව ප්‍රතික්ෂේප කරයි. සහාය දක්වන අඩවි වලට පමණි.
+cookie-banner-blocker-description = පෞද්ගලික පිරික්සුම් ප්‍රකාරයේ දත්තකඩ භාවිතා කළ හැකිදැයි අඩවියක් අසන විට { -brand-short-name } ස්වයංක්‍රියව ප්‍රතික්ෂේප කරයි. සහාය දක්වන අඩවි වලට පමණි.
 cookie-banner-learn-more = තව දැනගන්න
 cookie-banner-blocker-checkbox-label =
-    .label = දත්තකඩ පතාක ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කරන්න
+    .label = දත්තකඩ පතාක ස්වයංක්‍රියව ප්‍රතික්‍ෂේප කරන්න
 
 ## Search Section
 
@@ -1222,7 +1222,7 @@ addon-recommendations3 =
     .description = ඔබගේ පිරික්සුම් අත්දැකීම ඉහළ නැංවීමට දිගු නිර්දේශ ලබා ගන්න.
     .label = පුද්ගලීකරණ දිගු නිර්දේශයට ඉඩ දෙන්න
 collection-backlogged-crash-reports2 =
-    .label = බිඳවැටීම් වාර්තා ස්වයංක්‍රීයව යවන්න
+    .label = බිඳවැටීම් වාර්තා ස්වයංක්‍රියව යවන්න
     .accesskey = c
 collection-backlogged-crash-reports-description = මෙය { -vendor-short-name } අතිරික්සුවේ දෝෂ හඳුනාගෙන ඒවා නිරාකරණයට උපකාරී වේ. වාර්තා වල පෞද්ගලික හෝ සංවේදී දත්ත ඇතුළත් විය හැකිය.
 settings-redesign-promo-dismiss-button =
@@ -1272,7 +1272,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-thirdparty-toggle =
-    .label = ඔබ ස්ථාපනය කරන තෙවන පාර්ශ්ව මූල සහතික ස්වයංක්‍රීයව විශ්වාසයට { -brand-short-name } වෙත ඉඩ දෙන්න
+    .label = ඔබ ස්ථාපනය කරන තෙවන පාර්ශ්ව මූල සහතික ස්වයංක්‍රියව විශ්වාසයට { -brand-short-name } වෙත ඉඩ දෙන්න
     .accesskey = t
 certs-devices-enable-fips = FIPS සබල කරන්න
 space-alert-over-5gb-settings-button =

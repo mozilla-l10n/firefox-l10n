@@ -11,6 +11,12 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-bottom-label = Aşağıya bərkit
+toolbox-meatball-menu-dock-left-label = Sola bərkit
+toolbox-meatball-menu-dock-right-label = Sağa bərkit
+toolbox-meatball-menu-dock-separate-window-label = Ayrı Pəncərə
+toolbox-meatball-menu-splitconsole-label = Bölünmüş Konsolu göstər
+toolbox-meatball-menu-hideconsole-label = Bölünmüş Konsolu gizlət
 toolbox-meatball-menu-settings-label = Tənzimləmələr
 toolbox-meatball-menu-documentation-label = Sənədlər…
 toolbox-meatball-menu-community-label = İcma…

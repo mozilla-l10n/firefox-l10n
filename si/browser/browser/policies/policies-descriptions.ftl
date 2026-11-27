@@ -12,7 +12,7 @@
 
 policy-3rdparty = වියමන දිගු සඳහා chrome.storage.managed හරහා ප්‍රවේශ විය හැකි ප්‍රතිපත්ති සකසන්න.
 policy-AllowedDomainsForApps = ගූගල් වැඩබිමට ප්‍රවේශ වීමට ඉඩ දෙන වසම් දක්වන්න.
-policy-AppAutoUpdate = ස්වයංක්‍රීයව යෙදුම යාවත්කාල වීම සබල හෝ අබල කරන්න.
+policy-AppAutoUpdate = ස්වයංක්‍රියව යෙදුම යාවත්කාල වීම සබල හෝ අබල කරන්න.
 policy-AppUpdateURL = අභිරුචි යෙදුම් යාවත්කාල ඒ.ස.නි. සකසන්න.
 policy-Authentication = සහාය දක්වන වියමන අඩවි සඳහා අනුකලිත සත්‍යාපනය වින්‍යාස කරන්න.
 policy-AutofillAddressEnabled = ලිපින සඳහා ස්වයං පිරවීම සබල කරන්න.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = අන්තර්ගත අවහිර ක�
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = සංකේතිත මාධ්‍ය දිගු සබල හෝ අබල කර වෛකල්පිතව එය අගුළු දමන්න.
 policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = වසම්වල නිශ්චිත ගොනු වර්ග සඳහා ගොනුවේ දිගුව මත පදනම් අවවාද අබල කරන්න.
-policy-ExtensionUpdate = දිගු ස්වයංක්‍රීයව යාවත්කාල වීම සබල හෝ අබල කරන්න.
+policy-ExtensionUpdate = දිගු ස්වයංක්‍රියව යාවත්කාල වීම සබල හෝ අබල කරන්න.
 policy-FirefoxHome2 = { -firefox-home-brand-name } වින්‍යාස කරන්න.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = මුල් පිටුව සකසා විකල්ප ලෙස අගුළු දමන්න.

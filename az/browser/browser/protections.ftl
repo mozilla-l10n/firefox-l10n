@@ -18,6 +18,8 @@ graph-total-tracker-summary =
         [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarixindən bəri <b>{ $count }</b> izləyici əngəllənib
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarixindən bəri <b>{ $count }</b> izləyici əngəllənib
     }
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Bu həftə { -brand-short-name } tərəfindən əngəllənən izləyicilər
 protection-report-webpage-title = Qoruma Paneli
 protection-report-page-content-title = Qoruma Paneli
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
