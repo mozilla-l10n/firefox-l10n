@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Դատարկ տողը չի կարող հանդիսանալ getElementById()ֆունկցիայի արգումենտ:
+dom-document-write-ignored = document.write() կանչը asynchronously-loaded արտաքին գրվածքից ձախողվեց:
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
