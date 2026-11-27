@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Tab'ana' utzil, tacha' jun ütz retal. Ri ka
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Tab'ana' utzil, tacha' jun ütz retal. Ri ütz retal k'o naqaj ja ri { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Tacha' jun ajilab'äl chi kikojol { $minimum } chuqa' { $maximum }.
+dom-form-validation-bad-input-number = Tab'ana' utzil, tatz'ib'aj jun ajilab'äl.

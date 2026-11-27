@@ -7,6 +7,12 @@
 
 dom-get-element-by-id-empty-param = Kowöl rupam ri cholajil xq'asäx pa getElementById().
 dom-document-write-ignored = Jun oyonïk chi re ri dokument.write() pa jun rij rucholajem tz'ib'anïk, ri samajib'en pa meximojri'ïl xrepüx ruwa.
+# Do not translate "entryTypes".
+# Variables:
+#   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
+dom-performance-observer-unsupported-entry-types = Man nikoch' ta ri nirepüx entryTypes: { $entryTypes }.
+# Do not translate "entryTypes".
+dom-performance-observer-no-valid-entry-types = Majun entryTypes okel; nixutüx tz'ib'anïk.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
