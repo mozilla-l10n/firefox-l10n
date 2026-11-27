@@ -1382,6 +1382,9 @@ menu-share-copy-links =
            *[other] Emonguatia { $count } juajuha
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = Jeporavorãve
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = Mboty
 
