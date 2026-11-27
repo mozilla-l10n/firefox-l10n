@@ -405,3 +405,37 @@ smartwindow-onboarding-default-window =
     .label = { -smart-window-brand-name }에서 시작
 smartwindow-onboarding-save =
     .label = 저장하고 시작
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = 소스에서 채우기
+ai-smart-form-fill-autocomplete-loading = 로딩 중
+ai-smart-form-fill-autocomplete-sources-label = 소스에서 채우기
+ai-smart-form-fill-autocomplete-choose-tabs = 자동 채우기 제안을 받으려면 이 양식과 관련된 페이지를 열거나 선택하세요
+ai-smart-form-fill-autocomplete-open-tabs = 자동 채우기 제안을 받으려면 이 양식과 관련된 페이지를 여세요
+ai-smart-form-fill-close-review-button =
+    .label = 닫기
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count = 탭 { $tabs }개
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = 소스 편집
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = 소스 편집
+ai-smart-form-fill-suggested-tabs-heading = 제안된 탭
+ai-smart-form-fill-other-tabs-heading = 기타 탭
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = “{ $tabTitle }” 탭 선택 토글
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = 취소
+ai-smart-form-fill-accept-tab-select-button =
+    .label = 완료
+ai-smart-form-fill-fill-form-button =
+    .label = 양식 채우기
+ai-smart-form-fill-review-heading = 제안 검토
