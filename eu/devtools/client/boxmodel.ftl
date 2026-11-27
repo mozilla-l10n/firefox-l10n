@@ -12,6 +12,8 @@ boxmodel-properties-label = Kutxa-modeloaren propietateak
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Ezkutatu
+boxmodel-properties-show-label = Erakutsi
 
 ##
 
