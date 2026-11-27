@@ -10,6 +10,22 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Por favor, llena este campo.
+dom-form-validation-checkbox-missing = Por favor, marca esta casilla si deseas continuar.
+dom-form-validation-radio-missing = Por favor, selecciona una de estas opciones.
+dom-form-validation-file-missing = Por favor, selecciona un archivo.
+dom-form-validation-select-missing = Por favor, selecciona un objeto de la lista.
+dom-form-validation-invalid-email = Por favor, introduce una dirección de correo electrónico.
+dom-form-validation-invalid-url = Por favor, introduce una URL.
+dom-form-validation-invalid-date = Por favor, ingresa una fecha válida.
+dom-form-validation-invalid-time = Ingresar una hora válida.
+dom-form-validation-invalid-date-time = Por favor, ingresa una fecha y horario válidos.
+dom-form-validation-invalid-month = Por favor, ingresa un mes válido.
+dom-form-validation-invalid-week = Por favor, ingresa una semana válida.
+dom-form-validation-pattern-mismatch = Por favor, coincide con el formato solicitado.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Por favor, coincide con el formato: { $title }.
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Por favor, selecciona un valor menor que { $maximum }.
