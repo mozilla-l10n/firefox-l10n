@@ -9,9 +9,16 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Engar breytingar fundust.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Atriði
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = Afrita allar breytingar
 changes-copy-all-changes-button-title = Afrita lista yfir allar breytingar CSS á klippispjald.
 changes-copy-rule-button = Afrita reglu
