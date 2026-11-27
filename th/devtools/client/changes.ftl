@@ -9,9 +9,20 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = ไม่พบการเปลี่ยนแปลง
+changes-no-changes-description = การเปลี่ยนแปลง CSS ในตัวตรวจสอบจะปรากฏที่นี่
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = อินไลน์
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = อิลิเมนต์
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = คัดลอกการเปลี่ยนแปลงทั้งหมด
 changes-copy-all-changes-button-title = คัดลอกรายการการเปลี่ยนแปลง CSS ทั้งหมดไปยังคลิปบอร์ด
 changes-copy-rule-button = คัดลอกกฎ
