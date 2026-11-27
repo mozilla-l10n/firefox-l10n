@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] { $repeats } përsëritje
        *[other] { $repeats } përsëritje
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } mesazh
+       *[other] { $count } mesazhe
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -176,6 +185,22 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Spastro ç’u dha te Konsolë Web ({ $shortcut })
 webconsole-filter-input-placeholder = Filtroni përfundimet
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } i fshehur
+       *[other] { $count } të fshehur
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } objekt i fshehur nga filtër tekstesh
+       *[other] { $count } objekte të fshehur nga filtër tekstesh
+    }
+webconsole-close-split-console-button-tooltip = Mbylle Konsolën e Ndarjeve (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -191,36 +216,133 @@ webconsole-filter-button-css-inactive-tooltip = Fletëstilet do të ripërtypen 
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Kërkesa
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Shfletues
+webconsole-filter-button-chrome-tooltip = Shfaq mesazhe të dhënë nga vetë shfletuesi
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Lëndë
+webconsole-filter-button-content-tooltip = Shfaq mesazhe të prodhuar nga lënda web
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Rregullime Konsole
+webconsole-settings-timestamps =
+    .label = Shfaq Vula Kohore
+    .title = Nëse e aktivizoni këtë mundësi, urdhrat dhe përfundimi i tyre te Konsola Web do të shfaqë një vulë kohore
+webconsole-settings-warning-groups =
+    .label = Grupo Mesazhe të Ngjashëm
+    .title = Kur aktivizohet, mesazhe të ngjashëm vendosen në grupe
+webconsole-settings-autocomplete =
+    .label = Aktivizo vetëplotësim
+    .title = Nëse e aktivizoni këtë mundësi, do të shfaqen sugjerime, teksa shtypni
+webconsole-settings-persistent-logs =
+    .label = Mbaji Regjistrat
+    .title = Nëse e aktivizoni këtë mundësi, përfundimi nuk do të spastrohet çdo herë që kaloni te një faqe e re
+webconsole-settings-instant-evaluation =
+    .label = Vlerësim i Atypëratyshëm
+    .title = Nëse e aktivizoni këtë mundësi, ç’jepni, do të vlerësohet aty për aty, teksa e shtypni
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Aktivizo Mbikëqyrje Rrjeti
+    .title = Aktivizojeni këtë që të fillohet të përgjohen kërkesat ndaj rrjetit
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = U kalua te { $url }
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = E ringarkuar
+webconsole-close-sidebar-button-tooltip = Mbylle Anështyllën
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Kërkoni në historik
+webconsole-reverse-search-close-button-tooltip = Mbylle ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 përfundim
+       *[other] { $index } nga { $total } përfundimet
+    }
+webconsole-reverse-search-no-result = Pa përfundime
+webconsole-reverse-search-previous-button-tooltip = Përfundimi i mëparshëm ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Përfundimi pasues ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Të thirret getter <span data-l10n-name="getter-name">{ $getterName }</span> për të marrë listën e vetive?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Mbylle ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Elementë me përputhje me përzgjedhësin: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [GABIM NGA DEVTOOLS] Na ndjeni, se rikrijuam dot këtë mesazh. Kjo s’duhej të ndodhte - ju lutemi, parashtroni një të metë te { $url } me tejtëdhëna mesazhi te përshkrimi.
+webconsole-message-render-error-copy-button = Kopjo tejtëdhëna mesazhi te e papastra
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Xhiroje
+webconsole-editor-toolbar-execute-button-tooltip = Xhiro shprehjen ({ $shortcut }). Kjo s’do të spastrojë input-in.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Shfaqje Shtypje e hijshme
+webconsole-editor-toolbar-prev-expression-button-tooltip = Shprehja e Mëparshme
+webconsole-editor-toolbar-next-expression-button-tooltip = Shprehja Pasuese
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Hap Kërkim Së Prapthi Në Historik ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Mbyll Kërkim Së Prapthi Në Historik ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Rikthehu te mënyra brendazi ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Kalo te mënyrë përpunues shumërreshtësh ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Ndërveproni me kodin tuaj më shpejt, përmes mënyrës përpunues shumërreshtësh. Përdorni <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> që të shtoni rreshta të rinj dhe <span data-l10n-name="run-shortcut">{ $runShortcut }</span> për të xhiruar.
+webconsole-input-editor-onboarding-dismiss = E mora vesh!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Tasti Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Hap Kartelë JavaScript
+webconsole-input-open-javascript-file-filter = Kartela JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Në Krye
+webconsole-input-selector-tooltip = Përzgjidhni kontekst vlerësimi
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Sinjalizime cookie-sh
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Sinjalizim Content-Security-Policy
