@@ -1384,6 +1384,9 @@ menu-share-copy-links =
            *[other] { $count } لنک کاپی کرو
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = وادھو آپشنز
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = بند کرو
 
