@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Dewiswch werth dilys. Y gwerthoedd dilys nes
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Dewiswch werth dilys. Y gwerthoedd dilys agosaf yw { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Dewiswch werth rhwng { $minimum } a { $maximum }.
+dom-form-validation-bad-input-number = Rhowch rif.
