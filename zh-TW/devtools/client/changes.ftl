@@ -9,9 +9,14 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = 找不到變更。
+changes-no-changes-description = 在檢測器中對 CSS 的修改將顯示於此處。
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = 行內
 # Displayed in place of a stylesheet file name, above changes made to the
 # style attribute of an element.
 changes-element-style-label = 元素
