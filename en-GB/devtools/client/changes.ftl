@@ -9,9 +9,20 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = No changes found.
+changes-no-changes-description = Changes to CSS in Inspector will appear here.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Inline
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Element
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = Copy All Changes
 changes-copy-all-changes-button-title = Copy a list of all CSS changes to clipboard.
 changes-copy-rule-button = Copy Rule
