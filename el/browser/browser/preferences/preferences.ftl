@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Αποκρύπτει την πραγματική σας διεύθυνση email για την προστασία των εισερχομένων σας από ανεπιθύμητα μηνύματα.
     .label = Πρόταση μασκών email του { -relay-brand-name }
+preferences-window-lock-macos =
+    .description = Το { -brand-short-name } θα ζητήσει τον κωδικό ή το κλειδί πρόσβασης της συσκευής σας όταν ο υπολογιστής σας κλειδώσει, τεθεί σε αναστολή λειτουργίας ή ενεργοποιηθεί η προφύλαξη οθόνης.
+    .label = Αυτόματο κλείδωμα ιδιωτικών παραθύρων
+preferences-window-lock-windows =
+    .description = Το { -brand-short-name } θα ζητήσει τον κωδικό ή το κλειδί πρόσβασης της συσκευής σας όταν ο υπολογιστής σας κλειδώσει.
+    .label = Αυτόματο κλείδωμα ιδιωτικών παραθύρων
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -220,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Ερώτηση πριν από το κλείσιμο πολλαπλών καρτελών
     .accesskey = π
+ask-on-close-multiple-tabs-pbmode =
+    .label = Ερώτηση πριν από το κλείσιμο πολλαπλών καρτελών σε ιδιωτικά παράθυρα
+    .accesskey = ν
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

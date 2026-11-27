@@ -286,6 +286,9 @@ ipprotection-connection-status-generic-error-title-1 = Δεν ήταν δυνα�
 ipprotection-connection-status-try-again-button = Δοκιμή ξανά
 # Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
 ipprotection-connection-error-continue-without-vpn = Συνέχεια χωρίς VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Γίνεται ξανά δοκιμή…
+    .aria-label = Γίνεται ξανά δοκιμή…
 
 ## IP Protection bandwidth callouts
 
