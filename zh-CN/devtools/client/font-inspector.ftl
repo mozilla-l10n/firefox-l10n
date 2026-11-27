@@ -18,6 +18,9 @@ font-inspector-custom-instance-name = 自定义
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = 字号
+font-inspector-font-weight-label = 字重
+font-inspector-font-italic-label = 斜体
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
