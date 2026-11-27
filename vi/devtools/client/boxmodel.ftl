@@ -12,6 +12,8 @@ boxmodel-properties-label = Thuộc tính mô hình hộp
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Ẩn
+boxmodel-properties-show-label = Hiện
 
 ##
 
