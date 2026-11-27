@@ -5,6 +5,12 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Упозорење: скрипта се не одазива
+dom-slow-script-dialog-message = Скрипта на овој страници је заузета или се не одазива. Можете је одмах зауставити или сачекати њен завршетак.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Скрипта: { $location }
+dom-slow-addon-script-dialog-title = Упозорење: скрипта додатка се не одазива
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
