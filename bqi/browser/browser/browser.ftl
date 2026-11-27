@@ -1322,6 +1322,9 @@ menu-share-copy-links =
            *[other] لف گیری { $count } لینگ
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = گۊزینه یل قلوه
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = بستن
 
