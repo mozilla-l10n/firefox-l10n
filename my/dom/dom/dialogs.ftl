@@ -5,6 +5,11 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = သတိပေးချက် - မတုံ့ပြန်သော script
+dom-slow-script-dialog-message = ဒီစာမျက်နှာမှ script တခုဟာ အလုပ်များနေနိုင်တယ်၊ (သို့) ဒီအရာကို တုံ့ပြန်မှုကို ရပ်တန့်စေနိုင်တယ်။ ဒီ script ကို အခု သင် ရပ်တန့်နိုင်တယ်၊ (သို့) ဒီ script ပြီးဆုံးမဲ့အထိ သင် ဆက်လက် စောင့်ကြည့်နိုင်တယ်။
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Script - { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Dနောက်တစ်ကြိမ်မမေးပါနှင့်
 dom-slow-script-dialog-stop-button = Stop script
