@@ -6,8 +6,16 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = Na trenutnem elementu ni bilo uporabljenih pisav.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopiraj URL
+# An "instance" is the term used by font authors for a named group of
+# predefined font settings, similar to a preset. This is the label of the
+# dropdown used to select one.
+font-inspector-font-instance-label = Primerek
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = Po meri
 
 ## Labels for the font editor controls
 
