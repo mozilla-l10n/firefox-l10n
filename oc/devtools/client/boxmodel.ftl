@@ -15,9 +15,13 @@ boxmodel-properties-label = Proprietats del modèl de bóstia
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Amagar
+boxmodel-properties-show-label = Afichar
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = descalatge
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Parent mai prèp de l’element seleccionat
