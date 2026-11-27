@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Будь ласка, заповніть це поле.
+dom-form-validation-checkbox-missing = Встановіть цей прапорець для продовження.
+dom-form-validation-radio-missing = Виберіть один з цих параметрів.
+dom-form-validation-file-missing = Виберіть файл.
+dom-form-validation-select-missing = Виберіть елемент у списку.
+dom-form-validation-invalid-email = Введіть адресу електронної пошти.
+dom-form-validation-invalid-url = Введіть URL.
+dom-form-validation-invalid-date = Введіть дійсну дату.
+dom-form-validation-invalid-time = Введіть дійсний час.
+dom-form-validation-invalid-date-time = Уведіть дійсну дату й час.
+dom-form-validation-invalid-month = Уведіть дійсний місяць.
+dom-form-validation-invalid-week = Уведіть дійсний тиждень.
+dom-form-validation-pattern-mismatch = Будь ласка, використовуйте необхідний формат.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Будь ласка, використовуйте необхідний формат: { $title }.
