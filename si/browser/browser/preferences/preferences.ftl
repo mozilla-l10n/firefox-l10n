@@ -227,6 +227,8 @@ containers-remove-cancel-button = මෙම අඩංගුව ඉවත් න�
 settings-tabs-show-image-in-preview =
     .label = ඔබ පටිති මතින් යන විට රූප වල පෙරදසුන් පෙන්වන්න
     .accessKey = h
+settings-tabs-drag-to-create-tab-groups =
+    .label = පටිති සමූහ සෑදීමට පටිති අදින්න
 browser-layout-header2 =
     .label = අතිරික්සුවේ පිරිසැලසුම
 

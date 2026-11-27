@@ -38,3 +38,10 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ගන්�
 
 more-from-moz-solo-description = ඔබගේ අඩවිය ක්‍ෂණිකව සාදා නොමිලේ ඔබගේම අභිරුචි වසමක් සම්බන්ධ කරන්න.
 more-from-moz-solo-button = { -solo-ai-brand-name } බලන්න.
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-solo-card-1 =
+    .description = ඔබගේ අඩවිය ක්‍ෂණිකව සාදා නොමිලේ ඔබගේම අභිරුචි වසමක් සම්බන්ධ කරන්න.
+    .label = { -solo-ai-brand-name }

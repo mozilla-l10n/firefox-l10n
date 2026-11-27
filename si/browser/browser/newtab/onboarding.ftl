@@ -271,3 +271,10 @@ onboarding-genai-sidebar-primary-button = කතා ක්‍රමලේඛය�
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = පැතිකඩක් සාදන්න
+multi-profile-callout-title = වැඩ සහ විනෝදය සඳහා විවිධ පැතිකඩ සාදන්න
+multi-profile-callout-cta = පැතිකඩක් සාදන්න
+
+## Fx Backup onboarding: Create Backup spotlight
+
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = උපස්ථ ගොනු මුරපදයක් සාදන්න
