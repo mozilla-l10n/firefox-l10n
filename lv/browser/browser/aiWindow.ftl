@@ -415,3 +415,67 @@ smartwindow-onboarding-default-window =
     .label = Sākt { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Saglabāt un doties tālāk
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Aizpildīt no avotiem
+ai-smart-form-fill-autocomplete-loading = Ielādē
+ai-smart-form-fill-autocomplete-sources-label = Aizpildiet no avotiem
+ai-smart-form-fill-autocomplete-choose-tabs = Atveriet vai izvēlieties ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus.
+ai-smart-form-fill-autocomplete-open-tabs = Atveriet vai izvēlieties ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus.
+ai-smart-form-fill-close-review-button =
+    .label = Aizvērt
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] Cilne { $tabs }
+        [zero] { $tabs } cilnes
+       *[other] { $tabs } cilnes
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Labot avotus
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Labot avotus
+ai-smart-form-fill-suggested-tabs-heading = Ieteiktās cilnes
+ai-smart-form-fill-other-tabs-heading = Citas cilnes
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Pārslēgt cilnes atlasi tab “{ $tabTitle }”
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Atcelt
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Gatavs
+ai-smart-form-fill-fill-form-button =
+    .label = Aizpildiet veidlapu
+ai-smart-form-fill-review-heading = Pārskatīt ieteikumus
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Mēs atradām ieteikumus laukam { $count }. Rediģējiet vai dzēsiet visu, kas nav pareizs.
+        [zero] Mēs atradām ieteikumus laukiem { $count }. Rediģējiet vai dzēsiet visu, kas nav pareizs.
+       *[other] Mēs atradām ieteikumus laukiem { $count }. Rediģējiet vai dzēsiet visu, kas nav pareizs.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Lauks
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Pāriet uz ieteikumu apakšdaļu
+    .tooltiptext = Pārlēkt uz  tērzēšanas lejasdaļu
+ai-smart-form-fill-cancel-review-button =
+    .label = Atcelt
+ai-smart-form-fill-finding-suggestions = Ieteikumu atrašana
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Pārtraukt ieteikumu meklēšanu
+ai-smart-form-fill-success-heading = Veidlapai pievienoti ieteikumi
+ai-smart-form-fill-success-description = Pirms iesniegšanas pārskatiet veidlapu un aizpildiet visus atlikušos laukus.
+ai-smart-form-fill-no-changes-heading = Veidlapai nekas nav pievienots

@@ -231,6 +231,9 @@ browser-layout-header2 =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = භාෂාව සහ පෙනුම
+preferences-web-appearance-choice-auto3 =
+    .label = පද්ධතිය
+    .title = ඔබගේ පද්ධතියේ සැකසුම් සහ { -brand-short-name } තේමාව මත පදනම්ව අඩවිවල පසුබිම සහ අන්තර්ගතය ස්වයංක්‍රියව වෙනස් කරන්න.
 preferences-web-appearance-choice-light2 =
     .label = දීප්ත
     .title = අඩවියේ පසුබිම් හා අන්තර්ගතය සඳහා දීප්තිමත් පෙනුමක් යොදාගන්න.
