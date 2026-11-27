@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Personalizată
 font-inspector-font-size-label = Mărime
 font-inspector-font-weight-label = Greutate
 font-inspector-font-italic-label = Cursiv
+font-inspector-letter-spacing-label = Spațiere
 font-inspector-line-height-label = Înălțime rând
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
