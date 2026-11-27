@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Cadena vacía pasada a getElementById().
+dom-document-write-ignored = Se ha ignorado una llamada a document.write() desde un script externo cargado asíncronamente.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Se ha escrito un árbol no equilibrado usando document.write() lo que ha provocado que los datos de red se hayan reinterpretado ("reparsed"). Más información, { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
