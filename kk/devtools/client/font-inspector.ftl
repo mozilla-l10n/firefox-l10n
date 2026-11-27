@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = жүйелік
 font-inspector-no-fonts-used = Ағымдағы элементте ешбір қаріп қолданылмайды.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL көшіріп алу
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Қаріпті алдын-ала қа�
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Нұсқасы:
+font-inspector-font-designer = Әзірлеген:
+font-inspector-font-manufacturer = Өндіруші:
+font-inspector-font-vendor = Ұсынушы:
+font-inspector-font-description = Сипаттамасы:
+font-inspector-font-license = Лицензия:
+font-inspector-font-license-info-url = Лицензия туралы ақпараттың URL адресі:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Жазық қылу
