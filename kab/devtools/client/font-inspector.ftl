@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = anagraw
 font-inspector-no-fonts-used = Ulac tisefsiyin ittuseqdacen deg uferdis-agi amiran.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Nɣel URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Aḍris n teskant n tsefsit
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Lqem:
+font-inspector-font-designer = Imfeṣṣel:
+font-inspector-font-manufacturer = Amfares:
+font-inspector-font-vendor = Asaǧǧaw:
+font-inspector-font-description = Aglam:
+font-inspector-font-license = Turagt:
+font-inspector-font-license-info-url = URL n telɣut n turagt:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Snefli
