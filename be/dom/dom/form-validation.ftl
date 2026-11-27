@@ -29,3 +29,8 @@ dom-form-validation-pattern-mismatch-with-title = Увядзіце, калі л�
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Калі ласка, выберыце значэнне не больш за { $maximum }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Калі ласка, абярыце значэнне паміж { $minimum } і { $maximum }.
+dom-form-validation-bad-input-number = Увядзіце, калі ласка, лік.
