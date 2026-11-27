@@ -79,6 +79,17 @@ webconsole-message-repeats =
         [few] { $repeats } ponovitve
        *[other] { $repeats } ponovitev
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } sporočilo
+        [two] { $count } sporočili
+        [few] { $count } sporočila
+       *[other] { $count } sporočil
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -174,39 +185,177 @@ webconsole-menu-save-all-messages-file =
 
 ## Toolbar at the top of the console.
 
+# Variables:
+#   $shortcut (String) - Keyboard shortcut to clear the output.
+webconsole-clear-button-tooltip = Počisti sporočila spletne konzole ({ $shortcut })
+webconsole-filter-input-placeholder = Išči po izpisu
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } skrit
+        [two] { $count } skrita
+        [few] { $count } skriti
+       *[other] { $count } skritih
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] Filter besedila je skril { $count } predmet
+        [two] Filter besedila je skril { $count } predmeta
+        [few] Filter besedila je skril { $count } predmete
+       *[other] Filter besedila je skril { $count } predmetov
+    }
+webconsole-close-split-console-button-tooltip = Zapri deljeno konzolo (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
+webconsole-filter-button-errors = Napake
+webconsole-filter-button-warnings = Opozorila
+webconsole-filter-button-logs = Dnevniki
+webconsole-filter-button-info = Obvestila
+webconsole-filter-button-debug = Razhroščevanje
+webconsole-filter-button-css = CSS
+# Tooltip of the CSS button when the filter is not enabled.
+webconsole-filter-button-css-inactive-tooltip = Slogovne predloge bodo med iskanjem napak ponovno razčlenjene. Osvežite stran za ogled napak v slogovnih predlogah, spremenjenih z Javascriptom.
+# Requests made with XMLHttpRequest or fetch().
+webconsole-filter-button-xhr = XHR
+# All network requests, e.g. for images or scripts.
+webconsole-filter-button-requests = Zahteve
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Brskalnik
+webconsole-filter-button-chrome-tooltip = Prikaži sporočila, ki jih oddaja sam brskalnik
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Vsebina
+webconsole-filter-button-content-tooltip = Prikaži sporočila, ki jih oddaja spletna vsebina
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Nastavitve konzole
+webconsole-settings-timestamps =
+    .label = Pokaži časovne žige
+    .title = Če vključite to možnost, bodo ukazi in izpisi v spletni konzoli prikazovali časovni žig
+webconsole-settings-warning-groups =
+    .label = Združi podobna sporočila
+    .title = Če je omogočeno, se podobna sporočila razvrstijo v skupine
+webconsole-settings-autocomplete =
+    .label = Omogoči samodokončevanje
+    .title = Če omogočite to možnost, bo vnos prikazoval predloge med tipkanjem
+webconsole-settings-persistent-logs =
+    .label = Ohrani dnevnike
+    .title = Če omogočite to možnost, izpis ne bo počiščen vsakič, ko obiščete novo stran
+webconsole-settings-instant-evaluation =
+    .label = Takojšnje izvajanje
+    .title = Če omogočite to možnost, se bo vnos izvajal sočasno s tipkanjem
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Omogoči nadziranje omrežja
+    .title = Omogočite za začetek poslušanja omrežnih zahtev
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = Odprt nov naslov { $url }
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Ponovno naloženo
+webconsole-close-sidebar-button-tooltip = Zapri stransko vrstico
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Zgodovina iskanja
+webconsole-reverse-search-close-button-tooltip = Zapri ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 zadetek
+        [two] { $index } od { $total } zadetkov
+        [few] { $index } od { $total } zadetkov
+       *[other] { $index } od { $total } zadetkov
+    }
+webconsole-reverse-search-no-result = Ni zadetkov
+webconsole-reverse-search-previous-button-tooltip = Prejšnji zadetek ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Naslednji zadetek ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Prikličem funkcijo <span data-l10n-name="getter-name">{ $getterName }</span> za pridobitev seznama lastnosti?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Prikliči ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Zapri ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Elementi, ki se ujemajo z izbirnikom: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [NAPAKA RAZVOJNIH ORODIJ] Žal nam je, da sporočila nismo mogli izpisati. To se ne bi smelo zgoditi. Sporočite napako na { $url } in v opisu navedite metapodatke sporočila.
+webconsole-message-render-error-copy-button = Kopiraj metapodatke sporočila v odložišče
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Zaženi
+webconsole-editor-toolbar-execute-button-tooltip = Zaženi izraz ({ $shortcut }). To ne bo počistilo vnosa.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Olepšan izpis izraza
+webconsole-editor-toolbar-prev-expression-button-tooltip = Prejšnji izraz
+webconsole-editor-toolbar-next-expression-button-tooltip = Naslednji izraz
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Odpri zgodovino obratnega iskanja ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Zapri zgodovino obratnega iskanja ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Preklopi nazaj na način v vrstici ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Preklopite v način urejanja v več vrsticah ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Hitreje pišite z novim načinom urejanja v več vrsticah. Uporabite <span data-l10n-name="enter-key">{ webconsole-enter-key }</span>, da dodate nove vrstice, in <span data-l10n-name="run-shortcut">{ $runShortcut }</span> za zagon.
+webconsole-input-editor-onboarding-dismiss = Razumem!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Odpri datoteko JavaScript
+webconsole-input-open-javascript-file-filter = Datoteke JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Nadrejena
+webconsole-input-selector-tooltip = Izberite kontekst izvajanja
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Opozorila o piškotkih
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Opozorila Content-Security-Policy
