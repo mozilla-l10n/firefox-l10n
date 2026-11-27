@@ -21,12 +21,18 @@ font-inspector-custom-instance-name = 自定义
 font-inspector-font-size-label = 字号
 font-inspector-font-weight-label = 字重
 font-inspector-font-italic-label = 斜体
+font-inspector-line-height-label = 行高
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = 显示更多
+font-inspector-show-less = 折叠
 
 ##
 
+font-inspector-all-fonts-on-page-header = 页面上的所有字体
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = 所用字体
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
