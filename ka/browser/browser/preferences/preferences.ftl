@@ -20,6 +20,9 @@ preferences-privacy-relay-available =
 preferences-window-lock-macos =
     .description = { -brand-short-name } მოითხოვს მოწყობილობის პაროლს ან საშვს მას შემდეგ, რაც თქვენი კომპიუტერი ჩაიკეტება, უქმ რეჟიმში გადავა ან ეკრანმზოგი ჩაირთვება.
     .label = პირადი ფანჯრების თვითჩაკეტვა
+preferences-window-lock-windows =
+    .description = { -brand-short-name } მოითხოვს მოწყობილობის პაროლს ან საშვს კომპიუტერის ჩაკეტვის შემდეგ.
+    .label = პირადი ფანჯრების თვითჩაკეტვა
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.

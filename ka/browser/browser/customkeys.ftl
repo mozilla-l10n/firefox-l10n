@@ -60,6 +60,7 @@ customkeys-nav-toggle-mute = ხმის დადუმება/ჩართ�
 customkeys-edit-find-previous = წინას პოვნა
 customkeys-edit-find-selection = მონიშნულის პოვნა
 customkeys-tools-screenshot = ეკრანის ანაბეჭდის აღება
+customkeys-tools-lock-windows = პირადი ფანჯრების ჩაკეტვა
 customkeys-category-navigation-2 =
     .heading = გადაადგილება
 customkeys-caution-message = ეს შესაძლებლობა საცდელია და შესაძლოა სათანადოდ ვერ იმუშაოს.
