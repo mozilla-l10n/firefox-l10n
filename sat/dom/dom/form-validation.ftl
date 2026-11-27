@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = ᱵᱟᱛᱟᱣᱟᱜ ᱜᱚᱱᱚᱝ ᱵᱟ
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = ᱢᱤᱫ ᱵᱟᱛᱟᱣᱟᱜ ᱜᱚᱱᱚᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ᱾ ᱥᱩᱨ ᱩᱛᱟᱹᱨ ᱵᱟᱛᱟᱣᱟᱜ ᱜᱚᱱᱚᱝ ᱫᱚ{ $value } ᱾
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = ᱫᱟᱭᱟᱠᱟᱛᱮ { $minimum } ᱟᱨ { $maximum } ᱛᱟᱞᱟ ᱨᱮ ᱟᱭᱫᱷᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+dom-form-validation-bad-input-number = ᱢᱤᱫ ᱮᱞᱮᱞ ᱟᱫᱮᱨ ᱢᱮ ᱾
