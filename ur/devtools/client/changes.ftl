@@ -9,9 +9,17 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = کوئی تبدیلی نہیں ملی۔
+changes-no-changes-description = CSS انسپکٹر میں تبدیلیاں یہاں ظاہر ہوں گی۔
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = عنصر
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = تمام تبدیلیوں کو نقل کریں
 changes-copy-all-changes-button-title = CSS  کی تمام تبدیلیوں کی فہرست کو تختہ تراشہ پر نقل کریں۔
 changes-copy-rule-button = قاعده نقل کریں
