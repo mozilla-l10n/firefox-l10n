@@ -29,6 +29,11 @@ font-inspector-show-less = Sken drus
 
 ##
 
+font-inspector-all-fonts-on-page-header = Akk tisefsiyin deg usebter
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Tasefsit ittwasqedcen
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Aḍris n teskant n tsefsit
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
