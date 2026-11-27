@@ -11,13 +11,24 @@
 font-inspector-system = সিস্টেম
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL অনুলিপি করুন
+# An "instance" is the term used by font authors for a named group of
+# predefined font settings, similar to a preset. This is the label of the
+# dropdown used to select one.
+font-inspector-font-instance-label = উদাহরণ
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = স্বনির্ধারিত
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = আকার
+font-inspector-font-weight-label = ওজন
+font-inspector-font-italic-label = তির্যক
 font-inspector-line-height-label = লাইনের উচ্চতা
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = আরও দেখাও
 font-inspector-show-less = কম দেখাও
 
 ##
