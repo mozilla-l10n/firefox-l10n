@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistem
 font-inspector-no-fonts-used = Tidak ada fon yang digunakan untuk elemen saat ini.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Salin URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Teks pratinjau fon
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Versi:
+font-inspector-font-designer = Desainer:
+font-inspector-font-manufacturer = Pembuat:
+font-inspector-font-vendor = Vendor:
+font-inspector-font-description = Deskripsi:
+font-inspector-font-license = Lisensi:
+font-inspector-font-license-info-url = URL Info Lisensi:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Bentangkan
