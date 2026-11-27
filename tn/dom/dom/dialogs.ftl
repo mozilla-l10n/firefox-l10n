@@ -7,3 +7,6 @@
 
 dom-slow-script-dialog-title = Tsiboso: Sekeripite se se sa tsibogeng
 dom-slow-script-dialog-message = Sekeripite se se mo tsebeng eno se ka ne se dira, gongwe se ka ne se emisitse go tsiboga. O ka emisa sekeripite jaanong, gongwe o ka tswelela pele go bona gore a sekeripite se tla fetsa.
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = Se mpotse gape.
+dom-slow-script-dialog-stop-button = Emisa sekeripite
