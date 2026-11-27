@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = ระบบ
 font-inspector-no-fonts-used = ไม่มีแบบอักษรที่ถูกใช้ในอิลิเมนต์ปัจจุบัน
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = คัดลอก URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = ข้อความแสดงต�
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = รุ่น:
+font-inspector-font-designer = ผู้ออกแบบ:
+font-inspector-font-manufacturer = ผู้ผลิต:
+font-inspector-font-vendor = ผู้จัดจำหน่าย:
+font-inspector-font-description = คำอธิบาย:
+font-inspector-font-license = สัญญาอนุญาต:
+font-inspector-font-license-info-url = URL ข้อมูลสัญญาอนุญาต:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = ขยาย
