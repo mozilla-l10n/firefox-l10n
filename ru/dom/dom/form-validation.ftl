@@ -10,6 +10,25 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Пожалуйста, заполните это поле.
+dom-form-validation-checkbox-missing = Для продолжения, пожалуйста, установите этот флажок.
+dom-form-validation-radio-missing = Пожалуйста, выберите один из этих параметров.
+dom-form-validation-file-missing = Пожалуйста, выберите файл.
+dom-form-validation-select-missing = Пожалуйста, выберите элемент в этом списке.
+dom-form-validation-invalid-email = Пожалуйста, введите адрес электронной почты.
+dom-form-validation-invalid-url = Пожалуйста, введите URL.
+dom-form-validation-invalid-date = Пожалуйста, введите допустимую дату.
+dom-form-validation-invalid-time = Пожалуйста, введите допустимое время.
+dom-form-validation-invalid-date-time = Пожалуйста, введите допустимые дату и время.
+dom-form-validation-invalid-month = Пожалуйста, введите допустимый месяц.
+dom-form-validation-invalid-week = Пожалуйста, введите допустимую неделю.
+dom-form-validation-pattern-mismatch = Пожалуйста, используйте требуемый формат.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Пожалуйста, используйте требуемый формат: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Пожалуйста, выберите значение не более { $maximum }.
 # Variables:
 #   $maximum (String) - The latest value allowed in the field, a date or a time.
 dom-form-validation-date-time-range-overflow = Пожалуйста, выберите значение не позднее { $maximum }.

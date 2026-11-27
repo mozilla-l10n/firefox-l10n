@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Пустая строка не может быть аргументом метода getElementById().
+dom-document-write-ignored = Вызов document.write() из асинхронно-загруженного внешнего скрипта был проигнорирован.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Несбалансированное дерево было написано с использованием document.write(), что привело к повторному парсингу данных из сети. Более подробная информация доступна на { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds() не была вызвана синхронно в прослушивателе событий characterboundsupdate. Интерфейс IME может неожиданно для некоторых пользователей перемещаться. Дополнительная информация: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
