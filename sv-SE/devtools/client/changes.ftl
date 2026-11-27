@@ -19,6 +19,7 @@ changes-element-style-label = Element
 # Lowercase intentional.
 changes-iframe-label = iframe
 changes-copy-all-changes-button = Kopiera alla ändringar
+changes-copy-all-changes-button-title = Kopiera en lista över alla CSS-ändringar till Urklipp.
 changes-copy-rule-button = Kopiera regel
 changes-copy-rule-button-title = Kopiera innehållet i denna CSS-regel till Urklipp.
 
@@ -30,6 +31,9 @@ changes-context-menu-copy =
 # Copies the complete contents of the CSS rule.
 changes-context-menu-copy-rule =
     .label = Kopiera regel
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = Kopiera deklaration
 changes-context-menu-select-all =
     .label = Markera allt
     .accesskey = a
