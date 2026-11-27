@@ -12,8 +12,13 @@ boxmodel-properties-label = คุณสมบัติโมเดลกล่�
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = ซ่อน
+boxmodel-properties-show-label = แสดง
 
 ##
 
+# Short label displayed next to the position property of a positioned element,
+# in front of the DOM node that is its offset parent.
+boxmodel-offset-parent = ออฟเซต
 # Tooltip for the boxmodel-offset-parent label.
 boxmodel-offset-parent-title = ข้อมูลหลักออฟเซตของอิลิเมนต์ที่เลือก
