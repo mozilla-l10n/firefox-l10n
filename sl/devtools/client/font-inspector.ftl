@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistemska
 font-inspector-no-fonts-used = Na trenutnem elementu ni bilo uporabljenih pisav.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopiraj URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Besedilo predogleda pisave
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Različica:
+font-inspector-font-designer = Oblikovalec:
+font-inspector-font-manufacturer = Izdelovalec:
+font-inspector-font-vendor = Ponudnik:
+font-inspector-font-description = Opis:
+font-inspector-font-license = Licenca:
+font-inspector-font-license-info-url = Naslov s podatki o licenci:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Razširi
