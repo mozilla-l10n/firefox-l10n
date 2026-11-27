@@ -18,6 +18,7 @@ changes-element-style-label = Élément
 # Badge displayed next to the source of changes made inside an iframe.
 # Lowercase intentional.
 changes-iframe-label = iframe
+changes-copy-all-changes-button = Copier toutes les modifications
 
 ## Changes panel context menu
 
