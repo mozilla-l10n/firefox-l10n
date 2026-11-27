@@ -29,6 +29,11 @@ font-inspector-show-less = Afficher moins
 
 ##
 
+font-inspector-all-fonts-on-page-header = Toutes les polices sur la page
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Polices utilisées
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Texte d’aperçu de la police
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
