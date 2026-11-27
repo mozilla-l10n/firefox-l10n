@@ -7,3 +7,4 @@
 
 dom-slow-script-dialog-title = Iburira: Inyandikoporogaramu idasubiza
 dom-slow-script-dialog-message = Inyandikoporogaramu kuri iyi paji ishobora kuba iri gukora, cyangwa yahagaritse gusubiza. Ushobora kuhagarara inyandikoporogaramu nonaha, cyangwa ushobora gukomeza kureba niba inyandikoporogaramu iza kurangiza.
+dom-slow-script-dialog-stop-button = Hagarara inyandikoporogaramu
