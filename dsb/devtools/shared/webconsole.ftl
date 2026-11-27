@@ -79,6 +79,17 @@ webconsole-message-repeats =
         [few] { $repeats } wóspjetowanja
        *[other] { $repeats } wóspjetowanjow
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } powěsć
+        [two] { $count } powěsći
+        [few] { $count } powěsći
+       *[other] { $count } powěsćow
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -183,6 +194,26 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Wudaśe webkonsole wuprozniś ({ $shortcut })
 webconsole-filter-input-placeholder = Wudaśe filtrowaś
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } schowana
+        [two] { $count } schowanej
+        [few] { $count } schowane
+       *[other] { $count } schowane
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } zapisk pśez tekstowy filter schowany
+        [two] { $count } zapiska pśez tekstowy filter schowanej
+        [few] { $count } zapiski pśez tekstowy filter schowane
+       *[other] { $count } zapiskow pśez tekstowy filter schowane
+    }
+webconsole-close-split-console-button-tooltip = Rozdźělonu konsolu zacyniś (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -198,36 +229,138 @@ webconsole-filter-button-css-inactive-tooltip = Stilowe pśedłogi budu se znowe
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Napšašowanja
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Wobglědowak
+webconsole-filter-button-chrome-tooltip = Powěsći pokazaś, kótarež jo wobglědowak sam pósłał
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Wopśimjeśe
+webconsole-filter-button-content-tooltip = Powěsći pokazaś, kótarež jo webwopśimjeśe pósłało
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Konsolowe nastajenja
+webconsole-settings-timestamps =
+    .label = Casowe kołki pokazaś
+    .title = Jolic zmóžnijośo toś to nastajenje, budu se pśikaze a wudaśe we webkonsoli casowy kołk pokazowaś
+webconsole-settings-warning-groups =
+    .label = Pódobne powěsći rědowaś
+    .title = Gaž to jo zmóžnjone, se pódobne powěsći do kupkow zaměstnjuju
+webconsole-settings-autocomplete =
+    .label = Awtomatiske wudopołnjenje zmóžniś
+    .title = Jolic toś te nastajenja zmóžnijośo, zapódawańske pólo naraźenja pokažo, gaž do togo zapisujośo
+webconsole-settings-persistent-logs =
+    .label = Stawne protokole
+    .title = Jolic zmóžnijośo toś to nastajenje, se wudaśe, kuždy raz, gaž woglědujośo se k nowemu bokoju, njewulašujo
+webconsole-settings-instant-evaluation =
+    .label = Wugódnośenje ned
+    .title = Jolic toś te nastajenja zmóžnijośo, se zapódawańske pólo ned wugódnośijo, gaž do togo zapisujośo
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Seśowe doglědowanje zmóžniś
+    .title = Zmóžniś, aby wy na seśowe napšašowanja słuchał
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = Jo k { $url } pśejšło
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Znowego zacytany
+webconsole-close-sidebar-button-tooltip = Bocnicu zacyniś
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Pytańska historija
+webconsole-reverse-search-close-button-tooltip = Zacyniś ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] { $index } wuslědk
+        [two] { $index } z { $total } wuslědkowu
+        [few] { $index } z { $total } wuslědkow
+       *[other] { $index } z { $total } wuslědkow
+    }
+webconsole-reverse-search-no-result = Žedne wuslědki
+webconsole-reverse-search-previous-button-tooltip = Pjerwjejšny wuslědk ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Pśiducy wuslědk ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Getter <span data-l10n-name="getter-name">{ $getterName }</span> aktiwěrowaś, aby lisćinu kakosćow wótwołał?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Wuwołaś ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Zacyniś ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Elementy, kótarež selektoroju wótpowěduju: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [ZMÓLKA WUWIJAŔSKICH RĚDOW] Wódajśo pšosym, njejsmy mógli powěsć kresliś. To njeměło se staś - pšosym pišćo zmólkowu rozpšawu na { $url } a pódajśo powěsćowe metadaty we wopisanju.
+webconsole-message-render-error-copy-button = Powěsćowe metadaty do mjazywótkłada kopěrowaś
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Wuwjasć
+webconsole-editor-toolbar-execute-button-tooltip = Wuraz wuwjasć ({ $shortcut }). To zapódaśe njewulašujo.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Wuśišć jadnotnje formatěrowaś
+webconsole-editor-toolbar-prev-expression-button-tooltip = Pjerwjejšny wuraz
+webconsole-editor-toolbar-next-expression-button-tooltip = Pśiducy wuraz
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Slědkpytanje historije wócyniś ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Slědkpytanje historije zacyniś ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = K nutśikosmužkowemu modusoju se wrośiś ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Do wěcejsmužkowego wobźěłowańskego modusa pśešaltowaś ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Wuwjeźćo iteraciju na swójom koźe z nowym wěcejsmužkowym editorom malsnjej. Wužywajśo <span data-l10n-name="enter-key">{ webconsole-enter-key }</span>, aby nowe smužki pśidał a <span data-l10n-name="run-shortcut">{ $runShortcut }</span> za wuwjeźenje.
+webconsole-input-editor-onboarding-dismiss = Som to zrozměł!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = JavaScriptowu dataju wócyniś
+webconsole-input-open-javascript-file-filter = JavaScriptowe dataje
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Górjejce
+webconsole-input-selector-tooltip = Pógódnośeński kontekst wubraś
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Cookiejowe warnowanja
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Warnowanja Content-Security-Policy
