@@ -18,9 +18,14 @@ font-inspector-custom-instance-name = मनपसंद बनाएँ
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = आकार
+font-inspector-font-weight-label = वज़न
+font-inspector-font-italic-label = इटैलिक
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = अधिक दिखाएँ
+font-inspector-show-less = कम दिखाएँ
 
 ##
 
