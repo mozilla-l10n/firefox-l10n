@@ -417,3 +417,37 @@ smartwindow-onboarding-default-window =
     .label = Spúsťať v { -smart-window-brand-name(case: "loc") }
 smartwindow-onboarding-save =
     .label = Uložiť a pokračovať
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+ai-smart-form-fill-close-review-button =
+    .label = Zavrieť
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } karta
+        [few] { $tabs } karty
+       *[other] { $tabs } kariet
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Upraviť zdroje
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Úprava zdrojov
+ai-smart-form-fill-suggested-tabs-heading = Navrhované karty
+ai-smart-form-fill-other-tabs-heading = Ostatné karty
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Zrušiť
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Hotovo
+ai-smart-form-fill-fill-form-button =
+    .label = Vyplniť formulár
+ai-smart-form-fill-review-heading = Kontrola návrhov
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Položka
+ai-smart-form-fill-try-again-button =
+    .label = Skúsiť znova
