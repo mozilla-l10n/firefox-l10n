@@ -17,3 +17,10 @@ dom-deprecated-capture-events = captureEvents() の使用は推奨されませ�
 # Variables:
 #   $url (String) - URL of a page with more information.
 dom-deprecated-release-events = releaseEvents() の使用は推奨されません。DOM 2 の removeEventListener() メソッドを使用するコードに書き換えてください。詳しくは { $url } を参照してください。
+# Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
+dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() は推奨されません。代わりに IDBObjectStore.getAll() を使用してください。
+# Do not translate "accent" and "mo" (the name of a MathML element).
+# Variables:
+#   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
+#   $element (String) - Name of the parent MathML element: “mover”, “munder” or “munderover”.
+dom-deprecated-mathml-mo-explicit-accent = mo 要素で accent 属性を設定することは推奨されません。代わりに “{ $element }” 上で “{ $attribute }” 属性を使用してください。
