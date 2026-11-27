@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = Pas de police utilisée sur l’élément sélectionné.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Copier l’URL
 # An "instance" is the term used by font authors for a named group of
@@ -21,6 +22,7 @@ font-inspector-custom-instance-name = Personnalisée
 font-inspector-font-size-label = Taille
 font-inspector-font-weight-label = Graisse
 font-inspector-font-italic-label = Italique
+font-inspector-line-height-label = Hauteur de ligne
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
