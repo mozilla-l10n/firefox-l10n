@@ -30,6 +30,9 @@ dom-form-validation-pattern-mismatch-with-title = Brûk it frege formaat: { $tit
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Selektearje in wearde dy’t net mear is as { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Selektearje in wearde dy’t net letter is as { $maximum }.
+# Variables:
 #   $minimum (String) - The minimum value allowed in the field, a number.
 dom-form-validation-number-range-underflow = Selektearje in wearde dy’t net minder is as { $minimum }.
 # Variables:
@@ -43,3 +46,8 @@ dom-form-validation-step-mismatch = Selektearje in falide wearde. De twa tichtst
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Selektearje in jildige wearde. De tichtstbylizzende jildige wearde is { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Selektearje in wearde tusken { $minimum } en { $maximum }.
+dom-form-validation-bad-input-number = Fier in getal yn.
