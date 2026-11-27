@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Συμπληρώστε αυτό το πεδίο.
+dom-form-validation-checkbox-missing = Επιλέξτε αυτό το πλαίσιο αν θέλετε να συνεχίσετε.
+dom-form-validation-radio-missing = Επιλέξτε μία από αυτές τις επιλογές.
+dom-form-validation-file-missing = Επιλέξτε ένα αρχείο.
+dom-form-validation-select-missing = Επιλέξτε ένα στοιχείο στη λίστα.
+dom-form-validation-invalid-email = Εισαγάγετε μια διεύθυνση email.
+dom-form-validation-invalid-url = Εισαγάγετε ένα URL.
+dom-form-validation-invalid-date = Εισαγάγετε μια έγκυρη ημερομηνία.
+dom-form-validation-invalid-time = Εισαγάγετε μια έγκυρη ώρα.
+dom-form-validation-invalid-date-time = Εισαγάγετε μια έγκυρη ημερομηνία και ώρα.
+dom-form-validation-invalid-month = Εισαγάγετε έναν έγκυρο μήνα.
+dom-form-validation-invalid-week = Εισαγάγετε μια έγκυρη εβδομάδα.
+dom-form-validation-pattern-mismatch = Εισαγάγετε μια τιμή στη ζητούμενη μορφή.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Εισαγάγετε μια τιμή στη ζητούμενη μορφή: { $title }.
