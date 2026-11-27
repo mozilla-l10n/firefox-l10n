@@ -13,6 +13,9 @@ changes-no-changes = কোনো পরিবর্তন পাওয়া য�
 
 ##
 
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = আইফ্রেম
 
 ## Changes panel context menu
 
