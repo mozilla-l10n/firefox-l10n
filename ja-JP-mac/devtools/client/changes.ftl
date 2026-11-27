@@ -9,6 +9,8 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = 変更点はありません。
+changes-no-changes-description = インスペクターでの CSS の変更点がここに表示されます。
 
 ##
 
