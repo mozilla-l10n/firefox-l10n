@@ -439,3 +439,21 @@ ai-smart-form-fill-accept-tab-select-button =
 ai-smart-form-fill-fill-form-button =
     .label = 양식 채우기
 ai-smart-form-fill-review-heading = 제안 검토
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description = { $count } 필드에 대한 제안을 찾았습니다. 올바르지 않은 내용은 편집하거나 삭제하세요.
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = 필드
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = 제안의 맨 아래로 이동
+    .tooltiptext = 맨 아래로 이동
+ai-smart-form-fill-cancel-review-button =
+    .label = 취소
+ai-smart-form-fill-finding-suggestions = 제안을 찾는 중
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = 추천 검색 중지
+ai-smart-form-fill-success-heading = 양식에 제안이 추가됨
