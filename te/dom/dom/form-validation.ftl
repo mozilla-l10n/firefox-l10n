@@ -26,6 +26,15 @@ dom-form-validation-pattern-mismatch-with-title = అభ్యర్థించ
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = { $maximum } కంటే ఎక్కువ కాని విలువను ఎంచుకోండి.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = దయచేసి { $maximum } కంటే ముందున్న విలువను ఎంచుకోండి.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = { $minimum } కంటే తక్కువ కాని విలువను ఎంచుకోండి.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = { $minimum } కంటే ముందు లేని విలువను ఎంచుకోండి.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = దయచేసి చెల్లుబాటయ్యే విలువను ఎంచుకోండి.  చెల్లుబాటయ్యే దగ్గరి విలువలు { $lowValue } మరియు { $highValue }.
