@@ -18,6 +18,7 @@ changes-element-style-label = Elemento
 # Badge displayed next to the source of changes made inside an iframe.
 # Lowercase intentional.
 changes-iframe-label = iframe
+changes-copy-all-changes-button = Copiar tote le modificationes
 changes-copy-all-changes-button-title = Copiar al area de transferentia un lista de tote le cambios de CSS.
 changes-copy-rule-button = Copiar regula
 changes-copy-rule-button-title = Copiar al area de transferentia tote le contento de iste regula CSS.
