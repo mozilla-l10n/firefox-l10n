@@ -10,6 +10,9 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = ਮੁੱਲ ਨੂੰ ਚੁਣੋ, ਜੋ ਕਿ { $maximum } ਤੋਂ ਵੱਧ ਹੈ।
 # Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
