@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Personnalisée
 font-inspector-font-size-label = Taille
 font-inspector-font-weight-label = Graisse
 font-inspector-font-italic-label = Italique
+font-inspector-letter-spacing-label = Espacement
 font-inspector-line-height-label = Hauteur de ligne
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
