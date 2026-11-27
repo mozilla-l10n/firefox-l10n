@@ -10,9 +10,23 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Vul hierdie veld asseblief in.
+dom-form-validation-checkbox-missing = Merk hierdie blokkie as u wil voortgaan.
+dom-form-validation-radio-missing = Kies een van hierdie opsies.
+dom-form-validation-file-missing = Kies asseblief 'n lêer.
+dom-form-validation-select-missing = Kies asseblief 'n item uit die lys.
+dom-form-validation-invalid-email = Tik 'n e-posadres in.
+dom-form-validation-invalid-url = Voer 'n URL in.
+dom-form-validation-pattern-mismatch = Gebruik die aangevraagde formaat.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Gebruik die aangevraagde formaat: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Kies 'n waarde kleiner of gelyk aan { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Kies 'n waarde niks kleiner as { $minimum }.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
