@@ -1376,6 +1376,9 @@ menu-share-copy-links =
            *[other] 複製 { $count } 個鏈結
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = 更多選項
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = 關閉
 
