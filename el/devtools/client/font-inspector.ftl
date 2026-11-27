@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = σύστημα
 font-inspector-no-fonts-used = Καμία γραμματοσειρά στο τρέχον στοιχείο.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Αντιγραφή URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Κείμενο προεπισκόπη�
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Έκδοση:
+font-inspector-font-designer = Σχεδιαστής:
+font-inspector-font-manufacturer = Κατασκευαστής:
+font-inspector-font-vendor = Προμηθευτής:
+font-inspector-font-description = Περιγραφή:
+font-inspector-font-license = Άδεια:
+font-inspector-font-license-info-url = URL πληροφοριών άδειας:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Ανάπτυξη
