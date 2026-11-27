@@ -12,6 +12,13 @@ boxmodel-properties-label = Box Model Properties
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Hide
+boxmodel-properties-show-label = Show
 
 ##
 
+# Short label displayed next to the position property of a positioned element,
+# in front of the DOM node that is its offset parent.
+boxmodel-offset-parent = offset
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Offset parent of the selected element
