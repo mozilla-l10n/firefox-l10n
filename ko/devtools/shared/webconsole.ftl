@@ -73,6 +73,11 @@ webconsole-timer-js-error = 타이머 이름 처리에 실패했습니다.
 # Variables:
 #   $repeats (Number) - Number of repetitions.
 webconsole-message-repeats = { $repeats }번 반복
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count = 메시지 { $count }개
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -177,6 +182,14 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = 웹 콘솔 출력 지우기 ({ $shortcut })
 webconsole-filter-input-placeholder = 출력 필터
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text = { $count }개 숨김
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip = 텍스트 필터로 { $count }개 항목이 숨겨짐
+webconsole-close-split-console-button-tooltip = 분할된 콘솔 닫기(Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -192,36 +205,132 @@ webconsole-filter-button-css-inactive-tooltip = 오류를 확인하기 위해 �
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = 요청
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = 브라우저
+webconsole-filter-button-chrome-tooltip = 브라우저 자체에서 발생한 메시지 표시
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = 내용
+webconsole-filter-button-content-tooltip = 웹 콘텐츠에서 발생한 메시지 표시
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = 콘솔 설정
+webconsole-settings-timestamps =
+    .label = 타임스탬프 표시
+    .title = 이 옵션을 사용하면 웹 콘솔의 명령과 출력에 타임스탬프가 표시됩니다
+webconsole-settings-warning-groups =
+    .label = 유사한 메시지 그룹화
+    .title = 사용하면 유사한 메시지들이 그룹으로 배치됩니다
+webconsole-settings-autocomplete =
+    .label = 자동 완성 사용
+    .title = 이 옵션을 사용하면 입력할 때 제안 사항이 표시됩니다
+webconsole-settings-persistent-logs =
+    .label = 로그 유지
+    .title = 이 옵션을 사용하면 새 페이지로 이동할 때마다 출력이 지워지지 않습니다
+webconsole-settings-instant-evaluation =
+    .label = 즉시 계산
+    .title = 이 옵션을 사용하면 입력 할 때 즉시 계산됩니다
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = 네트워크 모니터링 사용
+    .title = 네트워크 요청 수신을 시작하려면 활성화합니다
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = { $url }로 탐색
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = 새로 고침
+webconsole-close-sidebar-button-tooltip = 사이드바 닫기
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = 기록 검색
+webconsole-reverse-search-close-button-tooltip = 닫기 ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results = { $index } / { $total } 결과
+webconsole-reverse-search-no-result = 결과 없음
+webconsole-reverse-search-previous-button-tooltip = 이전 결과 ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = 다음 결과 ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Getter <span data-l10n-name="getter-name">{ $getterName }</span>를 호출해 속성 목록을 조회하시겠습니까?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = 호출 ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = 닫기 ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = 요소 일치 선택자: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [DEVTOOLS ERROR] 죄송합니다, 메시지를 렌더링 할 수 없습니다. 이것은 일어나지 않아야 합니다 - 설명의 메시지 메타데이터와 함께 { $url }에 버그를 신고하세요.
+webconsole-message-render-error-copy-button = 클립보드에 메시지 메타데이터 복사
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = 실행
+webconsole-editor-toolbar-execute-button-tooltip = 식을 실행합니다({ $shortcut }). 입력 내용이 지워지지 않습니다.
+webconsole-editor-toolbar-pretty-print-button-tooltip = 예쁜 출력 표현
+webconsole-editor-toolbar-prev-expression-button-tooltip = 이전 식
+webconsole-editor-toolbar-next-expression-button-tooltip = 다음 식
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = 기록 역방향 검색 열기 ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = 기록 역방향 검색 닫기 ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = 인라인 모드로 다시 전환 ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = 멀티라인 편집기 모드로 전환 ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = 새 멀티라인 편집기 모드로 코드를 더 빨리 반복하세요. 새 줄을 추가하려면 <span data-l10n-name="enter-key">{ webconsole-enter-key }</span>를 사용하고 실행하려면 <span data-l10n-name="run-shortcut">{ $runShortcut }</span>를 사용하세요.
+webconsole-input-editor-onboarding-dismiss = 확인
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = JavaScript 파일 열기
+webconsole-input-open-javascript-file-filter = JavaScript 파일
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = 위쪽
+webconsole-input-selector-tooltip = 평가 컨텍스트 선택
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = 쿠키 경고
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Content-Security-Policy 경고
