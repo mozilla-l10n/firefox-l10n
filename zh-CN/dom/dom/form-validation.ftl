@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = 请填写此字段。
+dom-form-validation-checkbox-missing = 若要继续，请勾选此复选框。
+dom-form-validation-radio-missing = 请选择一个选项。
+dom-form-validation-file-missing = 请选择一个文件。
+dom-form-validation-select-missing = 请选择列表中的一项。
+dom-form-validation-invalid-email = 请输入电子邮件地址。
+dom-form-validation-invalid-url = 请输入网址。
+dom-form-validation-invalid-date = 请输入有效的日期。
+dom-form-validation-invalid-time = 请输入有效的时间。
+dom-form-validation-invalid-date-time = 请输入有效的日期和时间。
+dom-form-validation-invalid-month = 请输入有效的月份。
+dom-form-validation-invalid-week = 请输入有效的周数。
+dom-form-validation-pattern-mismatch = 请匹配要求的格式。
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = 请匹配要求的格式： { $title }。
