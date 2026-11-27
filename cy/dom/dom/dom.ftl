@@ -6,6 +6,10 @@
 ## Messages reported to the Web Console by DOM code.
 
 dom-get-element-by-id-empty-param = Cafodd llinyn gwag ei drosglwyddo i getElementById().
+dom-document-write-ignored = Anwybyddwyd galwad i document.write() o sgript allanoll lwythwyd yn anghytamseredig.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Ysgrifennwyd y goeden anghytbwys gan ddefnyddio document.write() gan achosi i ddata o'r rhwydwaith gael ei ail ddidoli. Am ragor o wybodaeth { $url }
 # Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
 # Variables:
 #   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
