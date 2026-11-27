@@ -14,6 +14,7 @@ dom-slow-script-dialog-location = Script: { $location }
 dom-slow-script-dialog-dont-ask-again = &Não me perguntar novamente
 dom-slow-script-dialog-stop-button = Parar script
 dom-slow-script-dialog-continue-button = Continuar
+dom-slow-addon-script-dialog-title = Aviso: o script do complemento não responde
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
