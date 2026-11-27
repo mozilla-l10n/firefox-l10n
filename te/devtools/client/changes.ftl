@@ -9,6 +9,7 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = మార్పులేమీ కనబడలేదు.
 
 ##
 
