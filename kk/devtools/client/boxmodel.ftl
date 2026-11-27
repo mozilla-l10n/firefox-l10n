@@ -12,9 +12,13 @@ boxmodel-properties-label = Блоктық модель қасиеттері
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Жасыру
+boxmodel-properties-show-label = Көрсету
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = шегініс
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Таңдалған элементтің шегініс аталық элементі
