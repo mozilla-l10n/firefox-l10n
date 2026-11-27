@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = رشتهٔ خالی به getElementById() ارسال شده است.
+dom-document-write-ignored = فراخوانی document.write() از یک اسکریپت خارجی که به‌صورت ناهمگام (Async) بارگیری شده، نادیده گرفته شد.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = یک ساختار درختی نامتعادل با استفاده از document.write() نوشته شده که موجب بازخوانی و تحلیل مجدد داده‌ها از شبکه گردید. اطلاعات بیشتر: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = متد EditContext.updateCharacterBounds() به‌صورت همگام (Synchronous) در لیسنر رویداد characterboundsupdate فراخوانی نشد. رابط کاربری IME ممکن است برای برخی کاربران رفتارهای غیرمنتظره‌ای داشته باشد. اطلاعات بیشتر: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
