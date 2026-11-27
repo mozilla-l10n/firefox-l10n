@@ -16,6 +16,13 @@ dom-form-validation-radio-missing = 請在這些選項當中挑一個。
 dom-form-validation-file-missing = 請選擇一個檔案。
 dom-form-validation-select-missing = 請在清單中選出一個項目。
 dom-form-validation-invalid-email = 請輸入一個電子郵件地址。
+dom-form-validation-invalid-url = 請輸入網址。
+dom-form-validation-invalid-date = 請輸入有效的日期。
+dom-form-validation-invalid-time = 請輸入有效的時間。
+dom-form-validation-invalid-date-time = 請輸入有效的日期與時間。
+dom-form-validation-invalid-month = 請輸入有效的月份。
+dom-form-validation-invalid-week = 請輸入有效的週數。
+dom-form-validation-pattern-mismatch = 請依照所要求的格式輸入。
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = 請依照所要求的格式輸入: { $title }。
