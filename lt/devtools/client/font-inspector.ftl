@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sisteminis
 font-inspector-no-fonts-used = Esamam elementui nenaudojami jokie šriftai.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopijuoti URL
