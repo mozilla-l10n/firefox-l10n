@@ -10,6 +10,38 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Empleneu este camp.
+dom-form-validation-checkbox-missing = Marqueu esta casella si voleu procedir.
+dom-form-validation-radio-missing = Seleccioneu una d'estes opcions.
+dom-form-validation-file-missing = Seleccioneu un fitxer.
+dom-form-validation-select-missing = Seleccioneu un element de la llista.
+dom-form-validation-invalid-email = Introduïu una adreça electrònica.
+dom-form-validation-invalid-url = Introduïu un URL.
+dom-form-validation-invalid-date = Introduïu una data vàlida.
+dom-form-validation-pattern-mismatch = Feu que coincidisca amb el format sol·licitat.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Feu que coincidisca amb el format sol·licitat: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Seleccioneu un valor que no siga superior a { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Seleccioneu un valor que no siga posterior a { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Seleccioneu un valor que no siga inferior a { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Seleccioneu un valor que no siga anterior a { $minimum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Seleccioneu un valor vàlid. Els dos valors vàlid més propers són { $lowValue } i { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Seleccioneu un valor vàlid. El més proper és { $value }.
 # Variables:
 #   $minimum (String) - The earliest time allowed in the field.
 #   $maximum (String) - The latest time allowed in the field.
