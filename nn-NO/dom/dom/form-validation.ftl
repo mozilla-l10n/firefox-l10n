@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Vel ein gyldig verdi. Dei to næraste gyldig
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Vel ein gyldig verdi. Den næraste gyldige verdien er { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Vel ein verdi mellom { $minimum } og { $maximum }.
+dom-form-validation-bad-input-number = Skriv inn eit tal.
