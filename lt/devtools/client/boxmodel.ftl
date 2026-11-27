@@ -12,9 +12,13 @@ boxmodel-properties-label = Matmenų savybės
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Nerodyti
+boxmodel-properties-show-label = Rodyti
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = poslinkis
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Pasirinkto elemento paslinktas tėvinis
