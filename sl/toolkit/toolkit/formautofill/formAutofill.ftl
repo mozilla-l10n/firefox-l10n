@@ -45,6 +45,9 @@ credit-card-capture-never-save-payment-methods-button =
 credit-card-capture-never-save-button =
     .label = Nikoli ne shranjuj kartic
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = Želite posodobiti to kartico?
 credit-card-update-doorhanger-description = Posodabljanje kartice:
 credit-card-capture-save-new-button =
@@ -76,7 +79,9 @@ credit-card-security-code-name-other = Varnostna koda
 ## masked card number. Each message is used for a different combination of the
 ## available details.
 ## Variables:
-##   $name (String): The cardholder name
+##   $name (String): The cardholder name. Keep the <span data-l10n-name="name">
+##     around it, so a long name can be cut off with an ellipsis. The details
+##     can be reordered.
 ##   $month (String): Two-digit month the card expires
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
@@ -85,7 +90,22 @@ credit-card-security-code-name-other = Varnostna koda
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-security-code-2 = <span data-l10n-name="name">{ $name }</span> | { $securityCode }
 credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name. Keep the <span data-l10n-name="name">
+##     around it, so a long name can be cut off with an ellipsis. The details
+##     can be reordered.
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+##   $securityCode (String): The name of the card's security code, from one of
+##     the credit-card-security-code-name-* strings (for example "CVV")
+
+credit-card-doorhanger-card-details-name-2 = <span data-l10n-name="name">{ $name }</span>
 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
@@ -98,6 +118,13 @@ credit-card-capture-update-payment-method-button =
 credit-card-capture-save-as-new-payment-method-button =
     .label = Shrani kot novo
     .accessKey = S
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
