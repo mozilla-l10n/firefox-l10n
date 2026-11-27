@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = පද්ධතිය
 font-inspector-no-fonts-used = වත්මන් අංගයට රුවකුරු භාවිත කර නැත.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = ඒ.ස.නි. පිටපතක්
