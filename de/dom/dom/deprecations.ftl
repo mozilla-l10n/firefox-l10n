@@ -17,3 +17,10 @@ dom-deprecated-capture-events = captureEvents() sollte nicht mehr verwendet werd
 # Variables:
 #   $url (String) - URL of a page with more information.
 dom-deprecated-release-events = releaseEvents() sollte nicht mehr verwendet werden. Um Ihren Code zu aktualisieren, verwenden Sie die removeEventListener()-Methode aus DOM 2. Weitere Hilfe auf { $url }
+# Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
+dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() sollte nicht mehr verwendet werden. Verwenden Sie stattdessen IDBObjectStore.getAll().
+# Do not translate "accent" and "mo" (the name of a MathML element).
+# Variables:
+#   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
+#   $element (String) - Name of the parent MathML element: “mover”, “munder” or “munderover”.
+dom-deprecated-mathml-mo-explicit-accent = Das Setzen des Akzent-Attributs für mo-Elemente sollte nicht mehr verwendet werden. Stattdessen das "{ $attribute }"-Attribut auf "{ $element }" verwenden.
