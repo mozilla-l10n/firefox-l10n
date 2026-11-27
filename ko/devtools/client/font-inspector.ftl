@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = 사용자 지정
 font-inspector-font-size-label = 크기
 font-inspector-font-weight-label = 두께
 font-inspector-font-italic-label = 기울임꼴
+font-inspector-letter-spacing-label = 간격
 font-inspector-line-height-label = 줄 높이
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
