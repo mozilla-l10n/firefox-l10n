@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Vyplňte toto pole
+dom-form-validation-checkbox-missing = Pred pokračovaním musíte označiť toto políčko
+dom-form-validation-radio-missing = Zvoľte jednu z týchto možností
+dom-form-validation-file-missing = Zvoľte súbor
+dom-form-validation-select-missing = Zvoľte položku zo zoznamu
+dom-form-validation-invalid-email = Zadajte e‑mailovú adresu
+dom-form-validation-invalid-url = Zadajte adresu URL
+dom-form-validation-invalid-date = Zadajte, prosím, platný dátum.
+dom-form-validation-invalid-time = Zadajte, prosím, platný časový údaj.
+dom-form-validation-invalid-date-time = Zadajte platný dátum a čas.
+dom-form-validation-invalid-month = Prosím zadajte platný mesiac.
+dom-form-validation-invalid-week = Zadajte platný týždeň.
+dom-form-validation-pattern-mismatch = Hodnota nie je v požadovanom formáte
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Hodnota nie je v požadovanom formáte: { $title }.
