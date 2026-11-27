@@ -12,6 +12,7 @@
 
 ##
 
+changes-copy-all-changes-button = Kopírovat všechny změny
 
 ## Changes panel context menu
 
