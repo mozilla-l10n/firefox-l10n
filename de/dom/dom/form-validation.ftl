@@ -30,6 +30,15 @@ dom-form-validation-pattern-mismatch-with-title = Bitte halten Sie sich an das v
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Bitte wählen Sie einen Wert, der nicht größer ist als { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Bitte wählen Sie einen Wert, der nicht später ist als { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Bitte wählen Sie einen Wert, der nicht kleiner ist als { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Bitte wählen Sie einen Wert, der nicht früher ist als { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Bitte wählen Sie einen gültigen Wert. Die zwei nächsten gültigen Werte sind { $lowValue } und { $highValue }.
