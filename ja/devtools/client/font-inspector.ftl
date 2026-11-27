@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = システム
 font-inspector-no-fonts-used = 現在の要素にはフォントが使用されていません。
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL をコピー
