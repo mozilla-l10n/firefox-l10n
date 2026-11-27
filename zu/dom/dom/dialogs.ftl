@@ -7,3 +7,6 @@
 
 dom-slow-script-dialog-title = Isixwayiso: Okubhaliwe okungasabeli
 dom-slow-script-dialog-message = Okubhalwe kuleli khasi kungase kube matasa, noma kungenzeke kuyekile ukusabela. Ungakumisa okubhaliwe manje noma ungaqhubeka ubone ukuthi kuzophelela yini.
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = Ungap&hinde ungibuze
+dom-slow-script-dialog-stop-button = Misa okubhaliwe
