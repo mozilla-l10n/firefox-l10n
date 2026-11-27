@@ -12,6 +12,8 @@ boxmodel-properties-label = Vakkenmodel-eigenschappen
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Verbergen
+boxmodel-properties-show-label = Tonen
 
 ##
 
