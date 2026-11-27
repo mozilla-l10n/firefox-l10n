@@ -5,7 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Xəbərdarlıq: skript cavab vermir
+dom-slow-script-dialog-message = Bu səhifədəki bir skript məşğuldur və ya artıq cavab vermir. İstəsəniz skripti indi dayandıra bilər və ya işini tamamlamasını gözləyə bilərsiniz.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Skript: { $location }
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = &Bir də soruşma
 dom-slow-script-dialog-stop-button = Skripti dayandır
+dom-slow-script-dialog-continue-button = Davam elə
+dom-slow-addon-script-dialog-title = Xəbərdarlıq: cavab-verməyən əlavə skripti
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =

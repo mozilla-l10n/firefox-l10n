@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = getElementById()-yə boş sətir ötürüldü.
+dom-document-write-ignored = Asinxron olaraq yüklənən bir xarici skriptdən gələnn document.write() çağırışı yox sayıldı.
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
