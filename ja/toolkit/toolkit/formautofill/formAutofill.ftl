@@ -33,9 +33,6 @@ autofill-options-link = フォーム自動入力のオプション
 credit-card-doorhanger-credit-cards-sync-checkbox = 保存したクレジットカード情報を端末間で同期する
 credit-card-save-doorhanger-header = このクレジットカード情報を安全に保存しますか？
 credit-card-save-doorhanger-description = { -brand-short-name } がカード番号を暗号化します。セキュリティコードは保存しません。
-credit-card-save-doorhanger-description-security-code = { -brand-short-name } がカード番号とセキュリティコードを暗号化するので、これらを支払いフォームに入力できるのはあなただけです。
-credit-card-doorhanger-save-security-codes-checkbox =
-    .label = 常にセキュリティコードを支払い方法に保存する
 credit-card-capture-save-button =
     .label = 保存する
     .accessKey = S
@@ -66,11 +63,6 @@ autofill-clear-form-label = フォームの自動入力情報を消去
 autofill-manage-addresses-label = 住所の管理
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = 支払い方法の管理
-# Used as the primary label of an autofill drop down suggestion when the focused
-# field is the card security code. The card's masked number is shown underneath
-# it as the secondary label. "CVC" is a common abbreviation for the code printed
-# on a payment card; use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-label = セキュリティコード (CVC)
 
 ## The name of the security code printed on a payment card, as each card
 ## network calls it.
@@ -88,7 +80,9 @@ credit-card-security-code-name-other = セキュリティコード
 ## masked card number. Each message is used for a different combination of the
 ## available details.
 ## Variables:
-##   $name (String): The cardholder name
+##   $name (String): The cardholder name. Keep the <span data-l10n-name="name">
+##     around it, so a long name can be cut off with an ellipsis. The details
+##     can be reordered.
 ##   $month (String): Two-digit month the card expires
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
@@ -97,10 +91,27 @@ credit-card-security-code-name-other = セキュリティコード
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-2 = <span data-l10n-name="name">{ $name }</span> | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code-2 = <span data-l10n-name="name">{ $name }</span> | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
 credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
 credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code-2 = <span data-l10n-name="name">{ $name }</span> | { $month }/{ $year } | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name. Keep the <span data-l10n-name="name">
+##     around it, so a long name can be cut off with an ellipsis. The details
+##     can be reordered.
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+##   $securityCode (String): The name of the card's security code, from one of
+##     the credit-card-security-code-name-* strings (for example "CVV")
+
+credit-card-doorhanger-card-details-name-2 = <span data-l10n-name="name">{ $name }</span>
 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
@@ -131,29 +142,12 @@ credit-card-capture-dismiss-button =
     .label = 閉じる
     .accessKey = D
 
-## The toggle turns saving security codes on and off. Its label describes the
-## current state: whether security codes are saved or not.
+## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-doorhanger-always-save-security-codes-toggle =
     .label = 常にセキュリティコードを保存する
 credit-card-doorhanger-dont-save-security-codes-toggle =
     .label = セキュリティコードを保存しない
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
-credit-card-doorhanger-details-name = { $name }
-credit-card-doorhanger-details-expiration = { $month }/{ $year }
-credit-card-doorhanger-details-cvv = CVV を保存しました
-credit-card-doorhanger-details-name-expiration = { $name }、{ $month }/{ $year }
-credit-card-doorhanger-details-name-cvv = { $name } | CVV を保存しました
-credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV を保存しました
-credit-card-doorhanger-details-name-expiration-cvv = { $name }、{ $month }/{ $year } | CVV を保存しました
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

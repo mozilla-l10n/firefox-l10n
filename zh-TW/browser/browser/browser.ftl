@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 分享…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 檢視網站資訊
 
@@ -662,6 +665,11 @@ urlbar-page-action-button =
     .tooltiptext = 頁面操作
 urlbar-revert-button =
     .tooltiptext = 在網址列顯示網址
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }：{ $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -767,6 +775,11 @@ urlbar-result-weather-title-city-only = { $city } 氣溫 <strong>{ $temperature 
 urlbar-result-weather-provider-sponsored = { $provider }∙贊助資訊
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 詢問
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -889,6 +902,15 @@ urlbar-result-dates-today = { $name } · 今天
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · 今天結束
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -1354,6 +1376,9 @@ menu-share-copy-links =
            *[other] 複製 { $count } 個鏈結
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = 更多選項
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = 關閉
 
@@ -1381,6 +1406,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1634,6 +1662,13 @@ file-picker-crashed-open = Windows 檔案對話框發生錯誤，無法選擇任
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 檔案對話框發生錯誤，檔案將儲存至 { $path }。
 file-picker-crashed-save-nowhere = Windows 檔案對話框發生錯誤，找不到預設資料夾，無法儲存檔案。
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 於資料夾顯示
     .accessKey = F
@@ -1717,6 +1752,9 @@ trustpanel-blocker-see-trackers-button = 檢視追蹤器
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } 的追蹤保護
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1726,6 +1764,7 @@ urlbar-trust-icon-notsecure-label = 不安全
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label = 已封鎖 { $count } 組追蹤器
 
+## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } 認為大企業們應該少追蹤您一點，我們會盡可能封鎖追蹤器。
@@ -1758,6 +1797,14 @@ trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = 知道了！
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 進行免費掃描
 trustpanel-blocker-section-header2 = 已封鎖此網站上的 <span data-l10n-name="count">{ $count }</span> 組追蹤器
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
 
 ##  $count (String): the number of trackers blocked.
 

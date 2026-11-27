@@ -1,0 +1,57 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### These strings are used in the Font Inspector, a panel accessible in the
+### Inspector sidebar.
+
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sustav
+font-inspector-no-fonts-used = Na trenutačnom elementu se ne koriste fontovi.
+# Tooltip for the button that copies the font URL to the clipboard.
+font-inspector-copy-url-title = Kopiraj URL
+# An "instance" is the term used by font authors for a named group of
+# predefined font settings, similar to a preset. This is the label of the
+# dropdown used to select one.
+font-inspector-font-instance-label = Varijanta
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = Prilagođeno
+
+## Labels for the font editor controls
+
+font-inspector-font-size-label = Veličina
+font-inspector-font-weight-label = Debljina
+font-inspector-font-italic-label = Kurziv
+font-inspector-letter-spacing-label = Razmak između slova
+font-inspector-line-height-label = Visina retka
+
+## Toggle displayed when the list of fonts used is too long to show in full.
+
+font-inspector-show-more = Prikaži više
+font-inspector-show-less = Prikaži manje
+
+##
+
+font-inspector-all-fonts-on-page-header = Svi fontovi na stranici
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Korišteni fontovi
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Tekst za pregled fonta
+
+## Labels for font metadata, displayed in the "All Fonts on Page" section.
+
+font-inspector-font-version = Verzija:
+font-inspector-font-designer = Dizajner:
+font-inspector-font-manufacturer = Proizvođač:
+font-inspector-font-vendor = Prodavač:
+font-inspector-font-description = Opis:
+font-inspector-font-license = Licenca:
+font-inspector-font-license-info-url = URL informacija o licenci:
+
+##
+
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Rasklopi

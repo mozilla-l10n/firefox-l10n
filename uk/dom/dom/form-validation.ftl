@@ -1,0 +1,53 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Form validation messages. They are shown to users when a form field is
+## invalid, and are also exposed to web pages through the validationMessage
+## property. Don't format numbers or dates using Fluent in these messages, as
+## that could expose the user's regional preferences to web pages: pass numbers
+## as strings, unless they're only used to select a plural form, and don't use
+## NUMBER() or DATETIME().
+
+dom-form-validation-value-missing = Будь ласка, заповніть це поле.
+dom-form-validation-checkbox-missing = Встановіть цей прапорець для продовження.
+dom-form-validation-radio-missing = Виберіть один з цих параметрів.
+dom-form-validation-file-missing = Виберіть файл.
+dom-form-validation-select-missing = Виберіть елемент у списку.
+dom-form-validation-invalid-email = Введіть адресу електронної пошти.
+dom-form-validation-invalid-url = Введіть URL.
+dom-form-validation-invalid-date = Введіть дійсну дату.
+dom-form-validation-invalid-time = Введіть дійсний час.
+dom-form-validation-invalid-date-time = Уведіть дійсну дату й час.
+dom-form-validation-invalid-month = Уведіть дійсний місяць.
+dom-form-validation-invalid-week = Уведіть дійсний тиждень.
+dom-form-validation-pattern-mismatch = Будь ласка, використовуйте необхідний формат.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Будь ласка, використовуйте необхідний формат: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Виберіть значення не більше за { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Будь ласка, виберіть значення не пізніше { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Виберіть значення не менше за { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Будь ласка, виберіть значення не раніше { $minimum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Будь ласка, виберіть допустиме значення. Двома найближчими допустимими значеннями є { $lowValue } та { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Виберіть допустиме значення. Найближчим допустимим значенням є { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Оберіть значення між { $minimum } та { $maximum }.
+dom-form-validation-bad-input-number = Введіть число.

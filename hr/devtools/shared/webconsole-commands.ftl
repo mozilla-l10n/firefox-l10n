@@ -22,3 +22,23 @@ webconsole-commands-usage-unblock =
     Prestani blokirati mrežne zahtjeve
     
       Prihvaća samo jedan argument, isti znakovni niz koji je prethodno proslijeđen naredbi :block.
+
+## Messages displayed as the result of Web Console commands.
+
+# Displayed when a string is copied to the clipboard with the copy() command,
+# for example copy({hello: "world"}).
+webconsole-commands-copy-value-to-clipboard = Niz znakova je kopiran u međuspremnik.
+# Displayed when the :block command is successful.
+# Variables:
+#   $url (String) - The URL filter.
+webconsole-commands-blocked-url = URL zahtjevi koji sadrže „{ $url }” su sada blokirani
+# Displayed when the :unblock command is successful.
+# Variables:
+#   $url (String) - The URL filter.
+webconsole-commands-unblocked-url = Uklonjen je filtar za blokiranje „{ $url }”
+# Displayed when no filter is passed to the :block or :unblock commands.
+webconsole-commands-block-arg-missing = Nijedan filtar nije određen
+
+## Messages displayed when the :trace command starts or stops the JavaScript
+## Tracer.
+

@@ -20,6 +20,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegación privada
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver a información do sitio
 
@@ -489,6 +492,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar a protección compartida para esta sesión
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -556,6 +562,11 @@ urlbar-page-action-button =
     .tooltiptext = Accións da páxina
 urlbar-revert-button =
     .tooltiptext = Mostrar o enderezo da barra de localización
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }: { $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -651,6 +662,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -683,6 +699,15 @@ urlbar-result-dates-today = { $name } · Hoxe
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Remata hoxe
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -738,6 +763,9 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -960,6 +988,10 @@ toolbar-button-paste =
     .label = Pegar
     .tooltiptext = Pegar ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Algún son ou vídeo neste sitio usa software DRM, que pode limitar o que { -brand-short-name } lle permita facer con el.
@@ -1046,6 +1078,10 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Pechar
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
@@ -1063,6 +1099,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1110,6 +1149,13 @@ restore-session-startup-suggestion-button = Móstreme como.
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = A túa organización bloqueou o acceso aos ficheiros locais deste ordenador
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1174,6 +1220,10 @@ reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
 reset-pbm-panel-complete = Elimináronse os datos da sesión privada
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1246,6 +1296,13 @@ file-picker-crashed-open = O diálogo de ficheiros de Windows fallou. Non se pui
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = O diálogo de ficheiros de Windows fallou. O ficheiro gardarase en { $path }.
 file-picker-crashed-save-nowhere = O diálogo de ficheiros de Windows fallou. Non se puido atopar ningún cartafol predeterminado; o ficheiro non se gardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar no cartafol
     .accessKey = C
@@ -1319,6 +1376,10 @@ trustpanel-blocker-see-all = Ver todo
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
 
+## The urlbar trust icon & panel
+
+
+## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } pensa que as empresas deberían seguirte menos. Así que bloqueamos tantos como podemos.
@@ -1401,3 +1462,17 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitiu { $count } criptomineiros
     }
 trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 공유…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 사이트 정보 보기
 
@@ -658,6 +661,11 @@ urlbar-page-action-button =
     .tooltiptext = 페이지 작업
 urlbar-revert-button =
     .tooltiptext = 주소 표시줄에 주소 표시
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }: { $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -763,6 +771,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 스폰서
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 묻기
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -873,6 +886,15 @@ urlbar-result-dates-today = { $name } · 오늘
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · 오늘 종료
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -1334,6 +1356,9 @@ menu-share-windows =
 menu-share-copy-links =
     .label = 링크 { $count }개 복사
     .accesskey = L
+menu-share-windows2 =
+    .label = 추가 옵션
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = 닫기
 
@@ -1361,6 +1386,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1612,6 +1640,13 @@ file-picker-crashed-open = Windows 파일 대화 상자가 충돌했습니다. �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 파일 대화 상자가 충돌했습니다. 파일은 { $path }에 저장됩니다.
 file-picker-crashed-save-nowhere = Windows 파일 대화 상자가 충돌했습니다. 기본 폴더를 찾을 수 없습니다. 파일은 저장되지 않습니다.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 폴더에서 보기
     .accessKey = F
@@ -1695,6 +1730,9 @@ trustpanel-blocker-see-trackers-button = 추적기 보기
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host }에 대한 추적 방지
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1704,6 +1742,7 @@ urlbar-trust-icon-notsecure-label = 안전하지 않음
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label = 추적기 { $count }개 차단됨
 
+## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name }는 기업들이 사용자를 덜 추적해야 한다고 생각합니다. 그래서 저희는 가능한 한 많이 차단합니다.
@@ -1736,6 +1775,14 @@ trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = 닫기
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 무료 스캔 시작
 trustpanel-blocker-section-header2 = 이 사이트에서 추적기 <span data-l10n-name="count">{ $count }</span>개 차단됨
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
 
 ##  $count (String): the number of trackers blocked.
 

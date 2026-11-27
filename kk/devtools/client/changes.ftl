@@ -1,0 +1,44 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### These strings are used in the Changes panel, accessible from the Inspector
+### sidebar.
+
+
+## Displayed when no changes have been made yet.
+
+changes-no-changes = Өзгерістер табылмады.
+changes-no-changes-description = Бақылаушыдағы CSS өзгерістері осында көрсетілетін болады.
+
+##
+
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Жолма-жол
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Элемент
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
+changes-copy-all-changes-button = Барлық өзгерістерді көшіру
+changes-copy-all-changes-button-title = Барлық CSS өзгерістер тізімін алмасу буферіне көшіріп алу.
+changes-copy-rule-button = Ережені көшіріп алу
+changes-copy-rule-button-title = Бұл CSS ережесінің мазмұнын алмасу буферіне көшіріп алу.
+
+## Changes panel context menu
+
+changes-context-menu-copy =
+    .label = Көшіріп алу
+    .accesskey = к
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = Ережені көшіріп алу
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = Декларациясын көшіріп алу
+changes-context-menu-select-all =
+    .label = Барлығын таңдау
+    .accesskey = а

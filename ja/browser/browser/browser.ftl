@@ -665,6 +665,11 @@ urlbar-page-action-button =
     .tooltiptext = ページ操作
 urlbar-revert-button =
     .tooltiptext = ロケーションバーにアドレスを表示します
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }: { $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -885,6 +890,15 @@ urlbar-result-dates-today = { $name } · 今日
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · 今日まで
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -1349,6 +1363,9 @@ menu-share-copy-links =
            *[other] { $count } 個のリンクをコピー
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = 他のオプション
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = 閉じる
 
@@ -1767,6 +1784,17 @@ trustpanel-breachalerts-anonymous-breached-description = 過去 12 か月以内�
 trustpanel-breachalerts-anonymous-breached-button-dismiss = 閉じる
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 無料のスキャンを開始
 trustpanel-blocker-section-header2 = このサイトで <span data-l10n-name="count">{ $count }</span> 個のトラッカーをブロックしました
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+
+##  $count (String): the number of trackers blocked.
+
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

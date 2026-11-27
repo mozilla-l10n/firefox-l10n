@@ -1,0 +1,50 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Form validation messages. They are shown to users when a form field is
+## invalid, and are also exposed to web pages through the validationMessage
+## property. Don't format numbers or dates using Fluent in these messages, as
+## that could expose the user's regional preferences to web pages: pass numbers
+## as strings, unless they're only used to select a plural form, and don't use
+## NUMBER() or DATETIME().
+
+dom-form-validation-value-missing = Prašom užpildyti šį lauką.
+dom-form-validation-checkbox-missing = Prašom pažymėti šį laukelį, jeigu norite tęsti.
+dom-form-validation-radio-missing = Prašome pasirinkti vieną iš šių variantų.
+dom-form-validation-file-missing = Prašom parinkti failą.
+dom-form-validation-select-missing = Prašom pasirinkti vieną šio sąrašo elementų.
+dom-form-validation-invalid-email = Prašom įvesti el. pašto adresą.
+dom-form-validation-invalid-url = Prašom įvesti universalųjį adresą (URL).
+dom-form-validation-invalid-date = Įveskite teisingą datą.
+dom-form-validation-invalid-time = Įveskite teisingą laiką.
+dom-form-validation-pattern-mismatch = Prašom įvesti nurodytą formatą atitinkančią reikšmę.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Prašom įvesti nurodytą formatą atitinkančią reikšmę: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Prašom pasirinkti reikšmę, ne aukštesnę už { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Prašom pasirinkti reikšmę, ne vėlesnę už { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Prašom pasirinkti reikšmę, ne žemesnę už { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Prašom pasirinkti reikšmę, ne ankstesnę už { $minimum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Prašom įvesti leistiną reikšmę. Artimiausios leistinos reikšmės yra { $lowValue } ir { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Prašom įvesti leistiną reikšmę. Artimiausia leistina reikšmė yra { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Pasirinkite reikšmę tarp { $minimum } ir { $maximum }.
+dom-form-validation-bad-input-number = Prašom įvesti skaičių.

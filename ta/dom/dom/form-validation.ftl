@@ -1,0 +1,45 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Form validation messages. They are shown to users when a form field is
+## invalid, and are also exposed to web pages through the validationMessage
+## property. Don't format numbers or dates using Fluent in these messages, as
+## that could expose the user's regional preferences to web pages: pass numbers
+## as strings, unless they're only used to select a plural form, and don't use
+## NUMBER() or DATETIME().
+
+dom-form-validation-value-missing = இந்தப் புலத்தை நிரப்பவும்.
+dom-form-validation-checkbox-missing = தொடர இந்த பெட்டியை சோதிக்கவும்.
+dom-form-validation-radio-missing = இந்த விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுக்கவும்.
+dom-form-validation-file-missing = ஒரு கோப்பினை தேர்ந்தெடுக்கவும்.
+dom-form-validation-select-missing = பட்டியலில் ஒரு உருப்படியை தேர்ந்தெடுக்கவும்.
+dom-form-validation-invalid-email = ஒரு மின்னஞ்சல் முகவரியை உள்ளிடவும்.
+dom-form-validation-invalid-url = ஒரு URLஐ உள்ளிடவும்.
+dom-form-validation-invalid-date = சரியான தேதியை உள்ளிடவும்.
+dom-form-validation-pattern-mismatch = கோரிய வடிவமைப்பில் பொருத்துக.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = கோரிய வடிவூட்டத்தில் பொருத்துக: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = { $maximum } என்பதை விட குறைவான ஒரு மதிப்பை தேர்ந்தெடுக்கவும்.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = { $maximum } என்பதை விட குறைவான மதிப்பை தேர்ந்தெடுக்கவும்.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = தயவுச்செய்து { $minimum } க்கும் அதிகமான ஒரு மதிப்பை தேர்ந்தெடுக்கவும்.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = { $minimum } என்பதை விட அதிகமான ஒரு மதிப்பை தேர்ந்தெடுக்கவும்.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = ஒரு மதிப்பை தேர்ந்தெடுக்கவும். நெருக்கமான செல்லுபடியாகும் இரு மதிப்புகள் { $lowValue } மற்றும் { $highValue } ஆகியவையாகும்.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = ஒரு மதிப்பை தேர்ந்தெடுக்கவும்.நெருக்கமான செல்லுபடியாகும் மதிப்பு { $value } ஆகும்.
+dom-form-validation-bad-input-number = தயவு செய்து எண்ணை உள்ளிடு.
