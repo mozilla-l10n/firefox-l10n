@@ -10,6 +10,15 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = இந்தப் புலத்தை நிரப்பவும்.
+dom-form-validation-checkbox-missing = தொடர இந்த பெட்டியை சோதிக்கவும்.
+dom-form-validation-radio-missing = இந்த விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுக்கவும்.
+dom-form-validation-file-missing = ஒரு கோப்பினை தேர்ந்தெடுக்கவும்.
+dom-form-validation-select-missing = பட்டியலில் ஒரு உருப்படியை தேர்ந்தெடுக்கவும்.
+dom-form-validation-invalid-email = ஒரு மின்னஞ்சல் முகவரியை உள்ளிடவும்.
+dom-form-validation-invalid-url = ஒரு URLஐ உள்ளிடவும்.
+dom-form-validation-invalid-date = சரியான தேதியை உள்ளிடவும்.
+dom-form-validation-pattern-mismatch = கோரிய வடிவமைப்பில் பொருத்துக.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = கோரிய வடிவூட்டத்தில் பொருத்துக: { $title }.
