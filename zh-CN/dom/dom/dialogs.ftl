@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = 警告：脚本无响应
+dom-slow-script-dialog-message = 当前页面上的某个脚本现在可能很忙，也可能已停止响应。您可以立即停止该脚本，也可以继续等它完成工作。
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = 脚本： { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = 不再询问(&D)
 dom-slow-script-dialog-stop-button = 停止脚本
 dom-slow-script-dialog-continue-button = 继续
+dom-slow-addon-script-dialog-title = 警告：附加组件脚本无响应
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
