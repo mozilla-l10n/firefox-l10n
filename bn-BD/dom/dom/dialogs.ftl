@@ -6,3 +6,4 @@
 ## Unresponsive script dialog
 
 dom-slow-script-dialog-title = সতর্কীকরণ: নিরুত্তর স্ক্রিপ্ট
+dom-slow-script-dialog-continue-button = চালিয়ে যান
