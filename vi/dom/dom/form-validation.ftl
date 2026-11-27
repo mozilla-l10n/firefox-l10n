@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Vui lòng chọn một giá trị hợp lệ
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Vui lòng chọn một giá trị hợp lệ. Giá trị hợp lệ gần nhất là { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Vui lòng chọn giá trị trong khoảng từ { $minimum } đến { $maximum }.
+dom-form-validation-bad-input-number = Vui lòng nhập số.
