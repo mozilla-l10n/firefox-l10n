@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Servitor non trovate
 neterror-malformed-uri-page-title = URL invalide
 general-body-title = Attention! Alco non pare correcte.
 problem-with-this-site-title = Il pare que il ha un problema con iste sito
+neterror-http-auth-scheme-disabled-title = Le methodo de authentication de iste sito es disactivate
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Contacta le proprietarios del sito web pro inform
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } non se fide a { $hostname } perque le connexion non es secur. Tenta cambiar le URL a HTTPS.
+neterror-http-auth-scheme-disabled = Si tu debe acceder a iste sito, contacta le administrator de tu systema.
 neterror-nss-failure-not-verified = Le pagina que tu tenta vider non pote esser monstrate perque le authenticitate del datos recipite non poteva esser verificate.
 neterror-nss-failure-contact-website = Contacta le proprietarios del sito web pro informar les de iste problema.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } non carga iste pagina perque
 fp-neterror-blocked-by-policy-intro = Tu organisation ha blocate le accesso a iste pagina o sito web.
 fp-neterror-http-auth-disabled-intro = Alcuno que finge de esser le sito poterea tentar de robar cosas como tu nomine de usator, contrasigno, o email.
 fp-neterror-http-auth-disabled-secure-connection = Iste sito require un connexion secur, e tu non pote adder un exception pro visitar lo.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> te demandava de acceder mediante un methodo que ha essite disactivate in tu preferentias de connexion.
 fp-neterror-why-did-this-happen = Perque eveniva isto?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il pare que iste sito usa vetere software con problemas de securitate cognoscite.

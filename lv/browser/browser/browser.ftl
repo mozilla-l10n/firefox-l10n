@@ -937,7 +937,7 @@ urlbar-result-flight-status-status-delayed = Kavējas līdz { $departureEstimate
 # Example: 30 min left
 # Variables:
 #   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
-urlbar-result-flight-status-time-left = Atlikušais laiks ($timeLeft)
+urlbar-result-flight-status-time-left = Atlikušais laiks { $timeLeft }
 # Example: Los Angeles (LAX)
 # Variables:
 #   $city (string) - The city of the airport.

@@ -7,6 +7,9 @@ about-translations-title = Traductiones de { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Traductiones instantanee que respecta tu confidentialitate.
 about-translations-learn-more-link = Pro saper plus
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Clauder le traductiones de { -brand-short-name }
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Le traduction non es disponibile sur iste apparato

@@ -26,6 +26,7 @@ font-inspector-font-size-label = Dimension
 font-inspector-font-weight-label = Peso
 font-inspector-font-italic-label = Cursive
 font-inspector-letter-spacing-label = Distantia
+font-inspector-line-height-label = Altor de rango
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -34,6 +35,7 @@ font-inspector-show-less = Monstrar minus
 
 ##
 
+font-inspector-all-fonts-on-page-header = Tote le typos de character sur le pagina
 # Label for the list of fonts used on the selected element.
 font-inspector-fonts-used-label = Typos de litteras usate
 # Placeholder for the input used to type custom text to preview fonts with.

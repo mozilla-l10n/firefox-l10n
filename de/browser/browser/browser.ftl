@@ -940,7 +940,7 @@ urlbar-result-flight-status-airport = { $city } ({ $code })
 # Variables:
 #   $flightNumber (string) - The flight number.
 #   $airlineName (string) - The airline name.
-urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $AirlineName }
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
 # This accessibility label is read by screen readers when an item in the row is
 # selected.
 urlbar-result-aria-group-flight-status =

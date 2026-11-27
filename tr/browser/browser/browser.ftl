@@ -956,7 +956,7 @@ urlbar-result-aria-group-flight-status =
 # Variables:
 #   $homeTeam (string) - Name of the home team.
 #   $awayTeam (string) - Name of the visiting team.
-urlbar-result-sports-team-names = { $homeTeam } - { $wayTeam }
+urlbar-result-sports-team-names = { $homeTeam } - { $awayTeam }
 # This string is shown when the game is today, in the near future, or in the
 # recent past.
 # Variables:
