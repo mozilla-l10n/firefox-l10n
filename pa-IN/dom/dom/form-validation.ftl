@@ -16,6 +16,19 @@ dom-form-validation-pattern-mismatch-with-title = ਮੰਗੇ ਗਏ ਫਾਰ�
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = ਮੁੱਲ ਨੂੰ ਚੁਣੋ, ਜੋ ਕਿ { $maximum } ਤੋਂ ਵੱਧ ਹੈ।
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = ਅਜਿਹਾ ਮੁੱਲ ਚੁਣੋ, ਜੋ ਕਿ { $maximum } ਤੋਂ ਬਾਅਦ ਦਾ ਨਾ ਹੋਵੇ।
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = ਮੁੱਲ ਚੁਣੋ, ਜੋ ਕਿ { $minimum } ਤੋਂ ਘੱਟ ਹੈ।
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = { $minimum } ਤੋਂ ਪੁਰਾਣਾ ਮੁੱਲ ਨਾ ਚੁਣੋ ਜੀ।
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = ਠੀਕ ਮੁੱਲ ਨੂੰ ਚੁਣੋ ਜੀ। ਦੋ ਨੇੜਲੇ ਮੁੱਲ { $lowValue } ਅਤੇ { $highValue } ਹਨ।
 # Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
