@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Ñemomba’epyre
 font-inspector-font-size-label = Tuichakue
 font-inspector-font-weight-label = Pohyikue
 font-inspector-font-italic-label = Tai’yke
+font-inspector-letter-spacing-label = Mbotuichave
 font-inspector-line-height-label = Tairenda yvatekue
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
