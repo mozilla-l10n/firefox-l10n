@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = Sérsnið
 font-inspector-font-size-label = Stærð
 font-inspector-font-weight-label = Þyngd
 font-inspector-font-italic-label = Skáletur
+font-inspector-letter-spacing-label = Millibil
+font-inspector-line-height-label = Hæð línu
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -30,6 +32,11 @@ font-inspector-show-less = Sýna minna
 
 ##
 
+font-inspector-all-fonts-on-page-header = Allar leturgerðir á síðu
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Leturgerðir notaðar
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Forskoða með leturgerð
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
