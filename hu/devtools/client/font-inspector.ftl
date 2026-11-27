@@ -43,6 +43,15 @@ font-inspector-preview-text-placeholder = Betűkészlet előnézeti szöveg
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Verzió:
+font-inspector-font-designer = Tervező:
+font-inspector-font-manufacturer = Gyártó:
+font-inspector-font-vendor = Forgalmazó:
+font-inspector-font-description = Leírás:
+font-inspector-font-license = Licenc:
+font-inspector-font-license-info-url = Licencinformációk webcíme:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Kibontás
