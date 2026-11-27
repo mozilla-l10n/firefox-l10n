@@ -27,3 +27,8 @@ dom-form-validation-step-mismatch = Ma ulac aɣilif fren azal ameɣtu. Sin n waz
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Ma ulac aɣilif fren azal ameɣtu. Azal ameɣtu illan ɣer tama-s d { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Ttxil-k fren azal gar { $minimum } d { $maximum }.
+dom-form-validation-bad-input-number = Ma ulac aɣilif efk-d amḍan.
