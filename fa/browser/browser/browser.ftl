@@ -1392,6 +1392,9 @@ menu-share-copy-links =
            *[other] کپی { $count } پیوند
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = گزینه‌های بیشتر
+    .accesskey = گ
 ui-tour-info-panel-close =
     .tooltiptext = بستن
 
