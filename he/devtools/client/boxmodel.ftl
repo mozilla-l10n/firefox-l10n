@@ -12,6 +12,8 @@ boxmodel-properties-label = מאפייני מודל הקופסה
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = הסתרה
+boxmodel-properties-show-label = הצגה
 
 ##
 
