@@ -9,6 +9,8 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Majun jaloj xilitäj.
+changes-no-changes-description = Rujaloj CSS pa nik'onel xkewachin pe wawe'.
 
 ##
 
