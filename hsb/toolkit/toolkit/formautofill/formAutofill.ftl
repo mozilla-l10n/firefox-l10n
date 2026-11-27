@@ -110,6 +110,7 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
 
+credit-card-doorhanger-card-details-name-2 = <span data-l10n-name="name">{ $name }</span>
 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
