@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Upozornění: Skript nereaguje
+dom-slow-script-dialog-message = Skript na této stránce je buď zaneprázdněn nebo přestal reagovat. Můžete ho ukončit nebo počkat, jestli se dokončí sám.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Skript: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = Příště se už &neptat
 dom-slow-script-dialog-stop-button = Ukončit skript
 dom-slow-script-dialog-continue-button = Počkat
+dom-slow-addon-script-dialog-title = Upozornění: Skript doplňku nereaguje
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =

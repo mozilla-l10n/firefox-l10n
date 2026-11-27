@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Funkci getElementById() předán prázdný řetězec.
+dom-document-write-ignored = Volání document.write() z asynchronně nahraného externího skriptu bylo ignorováno.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Pomocí funkce document.write() byl zapsán nevyvážený strom, což způsobilo, že data ze sítě byla znovu zpracována. Více informací: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = Funkce EditContext.updateCharacterBounds() nebyla volána synchronně v posluchači událostí charakteruboundsupdate. Pro některé uživatele se může IME rozhraní pohybovat neočekávaně. Více informací: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.

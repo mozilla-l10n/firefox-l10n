@@ -16,6 +16,13 @@ dom-form-validation-radio-missing = Zvolte prosím některou možnost.
 dom-form-validation-file-missing = Vyberte prosím soubor.
 dom-form-validation-select-missing = Zvolte prosím některou položku v seznamu.
 dom-form-validation-invalid-email = Zadejte prosím platnou e-mailovou adresu.
+dom-form-validation-invalid-url = Zadejte prosím platnou adresu URL.
+dom-form-validation-invalid-date = Zadejte prosím platné datum.
+dom-form-validation-invalid-time = Zadejte prosím platný čas.
+dom-form-validation-invalid-date-time = Zadejte prosím platné datum a čas.
+dom-form-validation-invalid-month = Zadejte prosím platný měsíc.
+dom-form-validation-invalid-week = Zadejte prosím platný týden.
+dom-form-validation-pattern-mismatch = Vyplňte prosím pole v požadovaném formátu.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Vyplňte prosím pole v požadovaném formátu: { $title }.
