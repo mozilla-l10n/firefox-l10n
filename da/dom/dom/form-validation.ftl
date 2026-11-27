@@ -30,6 +30,15 @@ dom-form-validation-pattern-mismatch-with-title = Opfyld det forspurgte format: 
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Vælg en værdi, der ikke er større end { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Vælg en værdi, der ikke er senere end { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Vælg en værdi, der ikke er mindre end { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Vælg en værdi, der ikke er tidligere end { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Vælg en gyldig værdi. De to nærmeste gyldige værdier er { $lowValue } og { $highValue }.
@@ -37,3 +46,8 @@ dom-form-validation-step-mismatch = Vælg en gyldig værdi. De to nærmeste gyld
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Vælg en gyldig værdi. Den nærmeste gyldige værdi er { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Vælg en værdi mellem { $minimum } og { $maximum }.
+dom-form-validation-bad-input-number = Indtast et tal.
