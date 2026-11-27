@@ -1392,6 +1392,9 @@ menu-share-copy-links =
            *[other] Պատճենել { $count } հղումները
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = Լրացուցիչ ընտրանքներ
+    .accesskey = Լ
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
 
