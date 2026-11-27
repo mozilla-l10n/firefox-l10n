@@ -10,6 +10,14 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = ଦୟାକରି ଏହି  କ୍ଷେତ୍ରକୁ ପୁରଣ କରନ୍ତୁ।
+dom-form-validation-checkbox-missing = ଅଗ୍ରସର ହେବାକୁ ଇଚ୍ଛାକରୁଥିଲେ ଦୟାକରି ଏହି ବାକ୍ସକୁ ଯାଞ୍ଚ କରନ୍ତୁ।
+dom-form-validation-radio-missing = ଏହି ବିକଳ୍ପଗୁଡିକ ମଧ୍ଯରୁ ଗୋଟିକୁ ବାଛନ୍ତୁ।
+dom-form-validation-file-missing = ଦୟାକରି ଗୋଟିଏ ଫାଇଲ ବାଛନ୍ତୁ।
+dom-form-validation-select-missing = ଏହି ତାଲିକାରେ ଥିବା ଗୋଟିଏ ବସ୍ତୁକୁ ବାଛନ୍ତୁ।
+dom-form-validation-invalid-email = ଦୟାକରି ଗୋଟିଏ ଇମେଲ ଠିକଣା ଭରଣ କରନ୍ତୁ।
+dom-form-validation-invalid-url = ଦୟାକରି ଗୋଟିଏ URL ଭରଣ କରନ୍ତୁ।
+dom-form-validation-pattern-mismatch = ଅନୁରୋଧ କରାଯାଇଥିବା ଶୈଳୀକୁ ମେଳାନ୍ତୁ।
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = ଦୟାକରି ଅନୁରୋଧ କରାଯାଇଥିବା ଶୈଳୀକୁ ମେଳାନ୍ତୁ: { $title }.
