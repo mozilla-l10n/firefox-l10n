@@ -1391,6 +1391,9 @@ menu-share-copy-links =
            *[other] { $count } keçidi köçür
         }
     .accesskey = K
+menu-share-windows2 =
+    .label = Daha çox seçim
+    .accesskey = D
 ui-tour-info-panel-close =
     .tooltiptext = Qapat
 
