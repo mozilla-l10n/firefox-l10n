@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistema
 # An "instance" is the term used by font authors for a named group of
 # predefined font settings, similar to a preset. This is the label of the
 # dropdown used to select one.
