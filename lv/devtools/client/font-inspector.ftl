@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = Pielāgots
 font-inspector-font-size-label = Izmērs
 font-inspector-font-weight-label = Svars
 font-inspector-font-italic-label = Slīpraksts
+font-inspector-letter-spacing-label = Atstatums
+font-inspector-line-height-label = Līnijas augstums
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -30,6 +32,11 @@ font-inspector-show-less = Rādīt mazāk
 
 ##
 
+font-inspector-all-fonts-on-page-header = Visi fonti lapā
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Lietotie fonti
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Fonta priekšskatījuma teksts
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
