@@ -1379,6 +1379,9 @@ menu-share-copy-links =
            *[other] Kopiraj { $count } poveznica
         }
     .accesskey = K
+menu-share-windows2 =
+    .label = Više opcija
+    .accesskey = V
 ui-tour-info-panel-close =
     .tooltiptext = Zatvori
 
