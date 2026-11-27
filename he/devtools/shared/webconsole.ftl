@@ -69,6 +69,15 @@ webconsole-message-repeats =
         [one] חזרה אחת
        *[other] { $repeats } חזרות
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] הודעה אחת
+       *[other] { $count } הודעות
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -162,6 +171,22 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = ניקוי הפלט של מסוף הרשת ({ $shortcut })
 webconsole-filter-input-placeholder = סינון פלט
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] אחד מוסתר
+       *[other] { $count } מוסתרים
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] פריט אחד מוסתר על־ידי מסנן הטקסט
+       *[other] { $count } פריטים מוסתרים על־ידי מסנן הטקסט
+    }
+webconsole-close-split-console-button-tooltip = סגירת מסוף מפוצל (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -175,36 +200,109 @@ webconsole-filter-button-css = CSS
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = בקשות
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = דפדפן
+webconsole-filter-button-chrome-tooltip = הצגת הודעות שנשלחו על־ידי הדפדפן עצמו
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = תוכן
+webconsole-filter-button-content-tooltip = הצגת הודעות הנשלחות מתוכן אינטרנט
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = הגדרות מסוף
+webconsole-settings-timestamps =
+    .label = הצגת חותמות זמן
+    .title = כשאפשרות זו מופעלת, פקודות ופלט במסוף הרשת יציגו חותמות זמן
+webconsole-settings-warning-groups =
+    .label = קיבוץ הודעות דומות
+    .title = כשאפשרות זו מופעלת, הודעות דומות יוצבו בקבוצות
+webconsole-settings-autocomplete =
+    .label = הפעלת השלמה אוטומטית
+    .title = הפעלת אפשרות זו תגרום לכך שהקלט יציג הצעות תוך כדי הקלדה
+webconsole-settings-persistent-logs =
+    .label = קיבוע רישום
+    .title = כשאפשרות זו מופעלת, הפלט לא יימחק עם כל מעבר לעמוד חדש
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = הפעלת ניטור רשת
+    .title = יש לאפשר אפשרות זאת כדי להתחיל להאזין לבקשות רשת
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = ניווט אל { $url }
+webconsole-close-sidebar-button-tooltip = סגירת סרגל הצד
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = חיפוש בהיסטוריה
+webconsole-reverse-search-close-button-tooltip = סגירה ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] תוצאה אחת
+       *[other] { $index } מתוך { $total } תוצאות
+    }
+webconsole-reverse-search-no-result = אין תוצאות
+webconsole-reverse-search-previous-button-tooltip = התוצאה הקודמת ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = התוצאה הבאה ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = סגירה ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = רכיבים התואמים את הבורר: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [שגיאה בכלי פיתוח] אנו מצטערים, לא הצלחנו לעבד את ההודעה. זה לא היה אמור לקרות - נא לדווח על תקלה ב־{ $url } עם המטא-דאטה של ההודעה בתיאור.
+webconsole-message-render-error-copy-button = העתקת מטא-דאטה של ההודעה ללוח
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = הרצה
+webconsole-editor-toolbar-prev-expression-button-tooltip = הביטוי הקודם
+webconsole-editor-toolbar-next-expression-button-tooltip = הביטוי הבא
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = פתיחת חיפוש בכיוון ההפוך בהיסטוריה ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = סגירת חיפוש בכיוון ההפוך בהיסטוריה ({ $shortcut })
 
 ## Console input.
 
+webconsole-input-editor-onboarding-dismiss = הבנתי!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = פתיחת קובץ JavaScript
+webconsole-input-open-javascript-file-filter = קובצי JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = עליון
 
 ## Labels of groups of similar warnings.
 
