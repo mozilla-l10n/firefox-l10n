@@ -18,9 +18,22 @@ changes-element-style-label = Element
 # Badge displayed next to the source of changes made inside an iframe.
 # Lowercase intentional.
 changes-iframe-label = iframe
+changes-copy-all-changes-button = Copiază toate modificările
+changes-copy-all-changes-button-title = Copiază în clipboard o listă cu toate modificările CSS.
+changes-copy-rule-button = Copiază regula
+changes-copy-rule-button-title = Copiază conținuturile acestei reguli CSS în clipboard.
 
 ## Changes panel context menu
 
 changes-context-menu-copy =
     .label = Copiază
     .accesskey = C
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = Copiază regula
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = Copiază declarația
+changes-context-menu-select-all =
+    .label = Selectează tot
+    .accesskey = A
