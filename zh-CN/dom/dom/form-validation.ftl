@@ -30,6 +30,15 @@ dom-form-validation-pattern-mismatch-with-title = 请匹配要求的格式： { 
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = 请选择一个不大于 { $maximum } 的值。
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = 请选择不晚于 { $maximum } 的值。
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = 请选择一个不小于 { $minimum } 的值。
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = 请选择不早于 { $minimum } 的值。
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = 请选择一个有效的值，最接近的有效值是 { $lowValue } 和 { $highValue }。
