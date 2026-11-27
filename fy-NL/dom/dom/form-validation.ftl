@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Folje dit fjild yn.
+dom-form-validation-checkbox-missing = Finkje dit fek oan as jo trochgean wolle.
+dom-form-validation-radio-missing = Selektearje ien fan dizze opsjes.
+dom-form-validation-file-missing = Selektearje in bestân.
+dom-form-validation-select-missing = Selektearje in ûnderdiel yn de list.
+dom-form-validation-invalid-email = Jou in e-mailadres.
+dom-form-validation-invalid-url = Jou in URL.
+dom-form-validation-invalid-date = Fier in jildige datum yn.
+dom-form-validation-invalid-time = Fier in jildige tiid yn.
+dom-form-validation-invalid-date-time = Fier in jildige datum en tiid yn.
+dom-form-validation-invalid-month = Fier in jildige moanne yn.
+dom-form-validation-invalid-week = Fier in jildige wike yn.
+dom-form-validation-pattern-mismatch = Brûk it frege formaat.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Brûk it frege formaat: { $title }.
