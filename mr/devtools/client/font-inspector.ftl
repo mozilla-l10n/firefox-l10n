@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = प्रणाली
 font-inspector-no-fonts-used = सध्याच्या घटकासाठी कोणतेही टंक वापरले नाहीत.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL ची प्रत बनवा
