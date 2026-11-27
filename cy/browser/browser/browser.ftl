@@ -71,6 +71,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Rhannu…
     .accesskey = R
+
+##
+
 urlbar-identity-button =
     .aria-label = Gweld manylion y wefan
 
@@ -679,6 +682,11 @@ urlbar-page-action-button =
     .tooltiptext = Gweithredoedd tudalen
 urlbar-revert-button =
     .tooltiptext = Dangos y cyfeiriad yn y Bar Lleoliad
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }: { $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -784,6 +792,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Wedi'i noddi
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Gofyn
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -942,6 +955,15 @@ urlbar-result-dates-today = { $name } · Heddiw
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Yn gorffen heddiw
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -1439,6 +1461,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1718,6 +1743,13 @@ file-picker-crashed-open = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Mae deialog ffeil Windows wedi chwalu. Bydd y ffeil yn cael ei chadw i { $path }.
 file-picker-crashed-save-nowhere = Mae deialog ffeil Windows wedi chwalu. Doedd dim modd dod o hyd i ffolder rhagosodedig; fydd y ffeil ddim yn cael ei chadw.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Dangos mewn Ffolder
     .accessKey = F
@@ -1801,6 +1833,9 @@ trustpanel-blocker-see-trackers-button = Gweld tracwyr
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Diogelwch tracio ar gyfer  { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1818,6 +1853,7 @@ urlbar-trust-icon-trackers-blocked-longform-label =
        *[other] { $count } traciwr wedi'u rhwystro
     }
 
+## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = Mae { -brand-product-name } yn meddwl y dylai cwmnïau eich dilyn llai. Felly rydym yn rhwystro cymaint ag y gallwn.
@@ -1970,6 +2006,14 @@ trustpanel-blocker-section-header2 =
         [many] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
        *[other] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
 
 ##  $count (String): the number of trackers blocked.
 
