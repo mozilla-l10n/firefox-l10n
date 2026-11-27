@@ -1433,6 +1433,9 @@ menu-share-copy-links =
            *[other] Copïo { $count } Dolen
         }
     .accesskey = D
+menu-share-windows2 =
+    .label = Rhagor o Ddewisiadau
+    .accesskey = R
 ui-tour-info-panel-close =
     .tooltiptext = Cau
 
