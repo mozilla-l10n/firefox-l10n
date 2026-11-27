@@ -43,3 +43,8 @@ dom-form-validation-step-mismatch = Prašom įvesti leistiną reikšmę. Artimia
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Prašom įvesti leistiną reikšmę. Artimiausia leistina reikšmė yra { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Pasirinkite reikšmę tarp { $minimum } ir { $maximum }.
+dom-form-validation-bad-input-number = Prašom įvesti skaičių.
