@@ -23,6 +23,7 @@ font-inspector-font-size-label = Памер
 font-inspector-font-weight-label = Вага
 font-inspector-font-italic-label = Курсіў
 font-inspector-letter-spacing-label = Інтэрвал
+font-inspector-line-height-label = Вышыня радка
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
