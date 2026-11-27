@@ -1855,6 +1855,7 @@ trustpanel-blocker-section-header2-redesign =
     }
 trustpanel-blocker-description-redesign = ამ მეთვალყურეებს შეეზღუდათ თქვენ მიერ მონახულებულ გვერდებთან წვდომა.
 trustpanel-no-trackers-header-redesign = ამ საიტზე მეთვალყურეები ვერ მოიძებნა
+trustpanel-no-trackers-description-redesign = { -brand-short-name } ვერ პოულობს გამოვლენილ მეთვალყურეებს შემოწმებით.
 trustpanel-etp-off-description-redesign = ჩართეთ დაცვა და { -brand-short-name } შეზღუდავს ცნობილ მეთვალყურეებს, რომ აღუკვეთოს მათ თქვენ მიერ მონახულებული მასალების შეგროვება.
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
