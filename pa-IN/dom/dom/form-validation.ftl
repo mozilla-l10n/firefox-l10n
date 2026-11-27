@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = ਇਹ ਖੇਤਰ ਭਰੋ ਜੀ।
+dom-form-validation-checkbox-missing = ਜੇ ਤੁਸੀਂ ਅੱਗੇ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਇਹ ਬਕਸਾ ਚੁਣੋ ਜੀ।
+dom-form-validation-radio-missing = ਇਹ ਚੋਣਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਦੀ ਚੋਣ ਕਰੋ ਜੀ।
+dom-form-validation-file-missing = ਫਾਈਲ ਨੂੰ ਚੁਣੋ।
+dom-form-validation-select-missing = ਲਿਸਟ ਵਿੱਚੋਂ ਆਈਟਮ ਚੁਣੋ ਜੀ।
+dom-form-validation-invalid-email = ਢੁੱਕਵਾਂ ਈਮੇਲ ਐਡਰੈੱਸ ਦਿਓ ਜੀ।
+dom-form-validation-invalid-url = URL ਦਿਓ ਜੀ।
+dom-form-validation-invalid-date = ਜਾਇਜ਼ ਮਿਤੀ ਦਿਓ।
+dom-form-validation-invalid-time = ਜਾਇਜ਼ ਸਮਾਂ ਦਿਓ।
+dom-form-validation-invalid-date-time = ਜਾਇਜ਼ ਤਾਰੀਖ ਤੇ ਸਮਾਂ ਦਿਓ।
+dom-form-validation-invalid-month = ਜਾਇਜ਼ ਮਹੀਨਾ ਦਿਓ।
+dom-form-validation-invalid-week = ਜਾਇਜ਼ ਹਫ਼ਤਾ ਦਿਓ।
+dom-form-validation-pattern-mismatch = ਮੰਗੇ ਗਏ ਫਾਰਮੈਟ ਨਾਲ ਮਿਲਾਉ ਜੀ।
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = ਮੰਗੇ ਗਏ ਫਾਰਮੈਟ ਨਾਲ ਮਿਲਾਉ ਜੀ: { $title }।
