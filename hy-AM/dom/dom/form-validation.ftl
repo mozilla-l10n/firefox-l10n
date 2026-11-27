@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Ընտրեք ճիշտ արժեք: Մոտակ
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Ընտրեք ճիշտ արժեք: Մոտակա արժեքն է՝ { $value }:
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Խնդրում ենք ընտրել արժեքը { $minimum }-ի և { $maximum }-ի միջև:
+dom-form-validation-bad-input-number = Մուտքագրեք թիվ:
