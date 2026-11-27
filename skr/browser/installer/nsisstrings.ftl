@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = اپ ڈیٹ کرو
 stub-cleanup-reinstall-button = دوبارہ انسٹال کرو
 stub-cleanup-checkbox-label = صاف کرو تے تیز کرو. ڈیفالٹ ترتیبات تے واپس ونجو تے پراݨے ایڈ آنز مٹا ݙیو.
 stub-installing-label = ہݨ انسٹال تھیندا پیا ہے …
-stub-blurb-first = کھلے ویب تے گھمݨ پھرݨ کیتے تیار تھی ونجو
 stub-blurb-second = تیز. محفوظ. ٹریکرز کوں خودکار طریقے نال بلاک کریندا اے.
 stub-blurb-third = ساݙے نال بہتر ویب بݨاوݨ دا شکریہ
 stub-blurb-first-devedition = کھلے ویب دی تعمیر کیتے تیار تھی ونجو

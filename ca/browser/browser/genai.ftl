@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Quant als bots de conversa d'IA en el { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Com que la pàgina és llarga, aquest és un resum parcial.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Resumeix la pàgina

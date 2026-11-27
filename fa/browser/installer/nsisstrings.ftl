@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = به‌روزرسانی
 stub-cleanup-reinstall-button = نصب مجدد
 stub-cleanup-checkbox-label = پاک‌سازی و افزایش سرعت. بازگشت به تنظیمات پیش‌فرض و حذف افزونه‌های قدیمی.
 stub-installing-label = در حال نصب…
-stub-blurb-first = برای گشت‌وگذار در وب آزاد آماده شوید
 stub-blurb-second = سریع. امن. مسدودسازی خودکار ردیاب‌ها.
 stub-blurb-third = از اینکه همراه با ما وبی بهتر می‌سازید، سپاسگزاریم
 stub-blurb-first-devedition = برای ساختن وب آزاد آماده شوید

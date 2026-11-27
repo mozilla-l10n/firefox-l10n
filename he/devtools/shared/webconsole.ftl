@@ -303,6 +303,3 @@ webconsole-input-open-javascript-file-filter = קובצי JavaScript
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = עליון
-
-## Labels of groups of similar warnings.
-

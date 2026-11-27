@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Ĝisdatigi
 stub-cleanup-reinstall-button = Reinstali
 stub-cleanup-checkbox-label = Purigu kaj iru pli rapide. Rehavu la normajn agordojn kaj forigu malnovajn aldonaĵojn.
 stub-installing-label = Nuna instalo…
-stub-blurb-first = Pretu libere vagi tra la malfermita reto
 stub-blurb-second = Rapida. Sekura. Ĝi aŭtomate blokas spurilojn.
 stub-blurb-third = Vi kunkonstruas pli bonan reton kun ni, dankon
 stub-blurb-first-devedition = Pretu krei aferojn por la malfermita reto

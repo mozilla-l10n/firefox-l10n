@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = Էջի բոլոր տառատեսակն
 font-inspector-fonts-used-label = Օգտագործված տառատեսակներ
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Նախադիտման գրույթի տառատեսակ
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = वेब कनस'ल लगिं API (console.log, console.info, console.warn, console.error) आ बे बिलाइआव स्क्रिप्टजों लोरबां खालामबाय जायो
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -109,9 +102,6 @@ webconsole-menu-open-url =
     .label = गोदान टेबआव URL खेव
     .accesskey = T
 
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-errors = गोरोन्थि
@@ -121,12 +111,6 @@ webconsole-filter-button-css = CSS
 # Requests made with XMLHttpRequest or fetch().
 webconsole-filter-button-xhr = XHR
 
-## Console Settings menu.
-
-
-##
-
-
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -134,17 +118,6 @@ webconsole-filter-button-xhr = XHR
 webconsole-reverse-search-input-placeholder = नागिरनायनि जारिमिन
 webconsole-reverse-search-close-button-tooltip = बन्द खालाम ({ $shortcut })
 webconsole-reverse-search-no-result = जेबो फिथाइ गैया
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
@@ -157,6 +130,3 @@ webconsole-editor-toolbar-execute-button-label = सालाय
 # Name of the Enter key, used in the editor onboarding and in the tooltip of
 # the “Run” button.
 webconsole-enter-key = एनटार
-
-## Labels of groups of similar warnings.
-

@@ -26,12 +26,3 @@ font-inspector-line-height-label = లైను ఎత్తు
 
 font-inspector-show-more = ఇంకా చూపించు
 font-inspector-show-less = కొన్నే చూపించు
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

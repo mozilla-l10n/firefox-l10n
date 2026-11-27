@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
@@ -123,9 +116,6 @@ webconsole-menu-copy-all-messages =
     .label = Còpia totu is messàgios
     .accesskey = m
 
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-errors = Faddinas
@@ -135,9 +125,6 @@ webconsole-filter-button-info = Informatziones
 webconsole-filter-button-css = CSS
 # Requests made with XMLHttpRequest or fetch().
 webconsole-filter-button-xhr = XHR
-
-## Console Settings menu.
-
 
 ##
 
@@ -161,17 +148,9 @@ webconsole-reverse-search-next-button-tooltip = Risultadu imbeniente ({ $shortcu
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = Serra ({ $shortcut })
 
-##
-
-
 ## Displayed when the console fails to render a message.
 
 webconsole-message-render-error-copy-button = Còpia is metadatos de su messàgiu in punta de billete
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
 
 ## Console input.
 

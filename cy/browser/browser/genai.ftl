@@ -182,11 +182,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Ynghylch y sgyrsfotiau AI yn { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Gan fod y dudalen yn hir, mae hwn yn grynodeb rhannol.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Crynhoi Tudalen

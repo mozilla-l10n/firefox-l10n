@@ -313,6 +313,3 @@ webconsole-input-open-javascript-file-filter = JavaScript նիշեր
 # context selector.
 webconsole-input-selector-top = Գագաթ
 webconsole-input-selector-tooltip = Նշէք գնահատման համատեքստ
-
-## Labels of groups of similar warnings.
-

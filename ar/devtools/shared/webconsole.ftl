@@ -33,12 +33,6 @@ webconsole-learn-more = اطّلع على المزيد
 # Used for JavaScript functions without a name.
 webconsole-stacktrace-anonymous-function = <مجهول>
 
-## Results of console.timeLog() and console.timeEnd().
-## Variables:
-##   $name (String) - Name of the timer.
-##   $duration (String) - Elapsed time in milliseconds.
-
-
 ## Results and errors of other console API calls.
 ## Variables:
 ##   $name (String) - Name of the timer or counter.
@@ -244,9 +238,6 @@ webconsole-reverse-search-next-button-tooltip = النتيجة التالية ({
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = أغلِق ({ $shortcut })
 
-##
-
-
 ## Displayed when the console fails to render a message.
 
 webconsole-message-render-error-copy-button = انسخ البيانات الوصفية للرسالة إلى الحافظة
@@ -273,6 +264,3 @@ webconsole-input-editor-onboarding = اعمل على الكود الذي تكت�
 # Cmd+O on macOS).
 webconsole-input-open-javascript-file = افتح ملف جافاسكربت
 webconsole-input-open-javascript-file-filter = ملفات جافاسكربت
-
-## Labels of groups of similar warnings.
-

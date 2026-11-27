@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Σχετικά με τα chatbot ΤΝ στο { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Επειδή η σελίδα είναι μεγάλη, αυτή είναι μια μερική σύνοψη.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Σύνοψη σελίδας

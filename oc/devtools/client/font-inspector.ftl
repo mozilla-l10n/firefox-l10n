@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = Totas las polissas de la pagina
 font-inspector-fonts-used-label = Polissas utilizadas
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Tèxt d’apercebut de la polissa
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

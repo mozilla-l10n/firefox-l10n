@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = Visi tinklalapio šriftai
 font-inspector-fonts-used-label = Naudojami šriftai
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Šrifto peržiūros tekstas
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

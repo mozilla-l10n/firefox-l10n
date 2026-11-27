@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Поједностави страницу
-    .accesskey = с
     .tooltiptext = Ова страница не може да се аутоматски поједностави
+    .accesskey = с
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Промените распоред ради лакшег читања
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Затвори
     .accesskey = З
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } од { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

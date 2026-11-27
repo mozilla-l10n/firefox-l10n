@@ -123,11 +123,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Tentang bot obrolan AI dalam { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Karena lamannya panjang, ini adalah ringkasan sebagian.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Ringkas laman

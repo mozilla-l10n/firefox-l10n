@@ -27,12 +27,3 @@ font-inspector-font-weight-label = तौल
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
 font-inspector-show-more = थप देखाउनुहोस्
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

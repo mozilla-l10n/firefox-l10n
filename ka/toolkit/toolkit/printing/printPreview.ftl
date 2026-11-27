@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = გვერდის გამარტივება
-    .accesskey = ტ
     .tooltiptext = ამ გვერდის ავტომატურად გამარტივება შეუძლებელია
+    .accesskey = ტ
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = შეცვალეთ განლაგება გამარტივებული კითხვისთვის
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = დახურვა
     .accesskey = დ
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } გვერდი { $sheetCount }-იდან
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

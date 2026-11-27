@@ -14,10 +14,6 @@ boxmodel-geometry-button-title = Mövqeyini dəyiş
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = Qutu Modeli Xassələri
 
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
 ##
 
 # Short label displayed next to the position property of a positioned element,

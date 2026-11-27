@@ -168,11 +168,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } وچ اے آئی چیٹ بوٹاں بارے
 
-## Chatbot message
-
-genai-page-warning =
-    .message = کیوں جو صفحہ لمبا اے، اے ہِک جزوی خلاصہ اے۔
-
 ## Chatbot footer
 
 genai-page-button-summarize = صفحے دا خلاصہ

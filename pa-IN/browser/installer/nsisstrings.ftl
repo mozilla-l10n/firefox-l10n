@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = ਅੱਪਡੇਟ ਕਰੋ
 stub-cleanup-reinstall-button = ਮੁੜ-ਇੰਸਟਾਲ ਕਰੋ
 stub-cleanup-checkbox-label = ਮਿਟਾਓ ਅਤੇ ਤੇਜ਼ ਬਣਾਓ। ਮੂਲ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਵਾਪਸ ਜਾਓ ਅਟੇ ਪੁਰਾਣੀਆਂ ਐਡ-ਆਨ ਨੂੰ ਹਟਾ ਦਿਓ।
 stub-installing-label = …ਹੁਣ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-stub-blurb-first = ਆਜ਼ਾਦ ਵੈੱਬ ਉੱਤੇ ਜਾਣ ਲਈ ਤਿਆਰ ਹੋ ਜਾਓ
 stub-blurb-second = ਤੇਜ਼। ਸੁਰੱਖਿਅਤ। ਟਰੈਕਾਂ ਉੱਤੇ ਆਪਣੇ-ਆਪ ਪਾਬੰਦੀ ਲਾਵੇ।
 stub-blurb-third = ਸਾਡੇ ਨਾਲ ਬੇਹਤਰ ਵੈੱਬ ਬਣਾਉਣ ਲਈ ਧੰਨਵਾਦ ਹੈ
 stub-blurb-first-devedition = ਆਜ਼ਾਦ ਵੈੱਬ ਬਣਾਉਣ ਲਈ ਤਿਆਰ ਹੋ ਜਾਓ

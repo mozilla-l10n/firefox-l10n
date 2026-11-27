@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Rreth robotësh IA fjalosjeje në { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Ngaqë faqja është e gjatë, kjo është një përmbledhje e pjesshme.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Përmblidhe faqen

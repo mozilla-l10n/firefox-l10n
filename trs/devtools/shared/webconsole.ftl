@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = Si API kondols web (console.log, console.info, console.warn, console.error) ni guxun a'kuan' 'ngò skript riña pajina na.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -54,15 +47,6 @@ webconsole-counter-doesnt-exist = Nitaj kontador hua “{ $name }”.
 # Displayed for console.group() calls without a label.
 webconsole-no-group-label = <nitaj si etiketa grupo>
 
-##
-
-
-## Warning shown when a user pastes code in the console for the first time.
-
-
-##
-
-
 ## Column headers of the table displayed by console.table().
 
 webconsole-table-key = Yâbe
@@ -94,18 +78,6 @@ webconsole-menu-copy-message =
     .label = Nada'a mensâje
     .accesskey = C
 
-## Toolbar at the top of the console.
-
-
-## Filter buttons, used to show or hide each category of messages.
-
-
-## Console Settings menu.
-
-
-##
-
-
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -119,20 +91,3 @@ webconsole-reverse-search-close-button-tooltip = Narán ({ $shortcut })
 # Variables:
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = Narán ({ $shortcut })
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

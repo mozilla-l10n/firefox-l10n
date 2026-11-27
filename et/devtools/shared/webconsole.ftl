@@ -318,6 +318,3 @@ webconsole-input-open-javascript-file-filter = JavaScript Files
 # context selector.
 webconsole-input-selector-top = Top
 webconsole-input-selector-tooltip = Select evaluation context
-
-## Labels of groups of similar warnings.
-

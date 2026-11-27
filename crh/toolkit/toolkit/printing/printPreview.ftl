@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Saifeni Sadeleştir
-    .accesskey = i
     .tooltiptext = Bu saife öz-özünden sadeleştirilalmay
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Daa qolay oquv içün tizilimni deñiştir
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Qapat
     .accesskey = Q
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Sayfa:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = İlk sayfa

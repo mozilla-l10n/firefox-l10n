@@ -37,9 +37,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nunca guardar tarjetas
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = ¿Actualizar tarjeta?
 credit-card-update-doorhanger-description = Tarjeta para actualizar:
 credit-card-capture-save-new-button =
@@ -103,16 +100,6 @@ credit-card-doorhanger-card-details-name-2 = <span data-l10n-name="name">{ $name
 credit-card-capture-update-payment-method-button =
     .label = Actualizar
     .accessKey = U
-
-## Used on the doorhanger when a saved card is submitted with a new or changed
-## security code.
-
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

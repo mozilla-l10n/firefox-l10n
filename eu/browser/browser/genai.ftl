@@ -174,11 +174,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name }(e)ko AA txatbotei buruz
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Orria luzea denez, ez da laburpen osoa hau.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Laburbildu orria

@@ -11,21 +11,11 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
 # to documentation.
 webconsole-learn-more = Lleer más
-
-## Stack traces, for example the result of console.trace().
-
 
 ## Results of console.timeLog() and console.timeEnd().
 ## Variables:
@@ -60,12 +50,6 @@ webconsole-warning-group-message-count =
         [one] { $count } mensaxe
        *[other] { $count } mensaxes
     }
-
-## Warning shown when a user pastes code in the console for the first time.
-
-
-##
-
 
 ## Column headers of the table displayed by console.table().
 
@@ -166,9 +150,6 @@ webconsole-settings-instant-evaluation =
     .label = Evaluación nel intre
     .title = Si actives esta opción la entrada va evaluase nel intre a midida que teclexes
 
-##
-
-
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -204,9 +185,6 @@ webconsole-confirm-dialog-getter-close-button-tooltip = Zarrar { $shortcut }
 #   $selector (String) - The CSS selector.
 webconsole-css-warning-elements = Elementos que concasen col selector «{ $selector }»
 
-## Displayed when the console fails to render a message.
-
-
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -222,6 +200,3 @@ webconsole-editor-toolbar-open-reverse-search-tooltip = Abrir la busca inversa d
 ## Console input.
 
 webconsole-input-editor-onboarding-dismiss = ¡Entendílo!
-
-## Labels of groups of similar warnings.
-

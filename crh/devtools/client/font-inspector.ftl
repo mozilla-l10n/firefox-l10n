@@ -39,9 +39,3 @@ font-inspector-all-fonts-on-page-header = Saifedegi urufatlarnıñ episi
 font-inspector-fonts-used-label = Qullanılğan Urufatlar
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Urufat ög-baqışı metni
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

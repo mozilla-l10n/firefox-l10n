@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Update
 stub-cleanup-reinstall-button = Re-install
 stub-cleanup-checkbox-label = Clean up and speed up. Go back to default settings and delete old add-ons.
 stub-installing-label = Now installing…
-stub-blurb-first = Get ready to roam on the open web
 stub-blurb-second = Speedy. Safe. Blocks trackers automatically.
 stub-blurb-third = Thanks for building a better web with us
 stub-blurb-first-devedition = Get ready to build for the open web

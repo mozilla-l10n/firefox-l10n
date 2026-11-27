@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Kuatiarogue ñemomichĩ
-    .accesskey = i
     .tooltiptext = Ko kuatiarogue ndaikatúi oñemomichĩ ijehegui
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Emoambue moha'ãnga ñemoñe'ẽ hasy'ỹve hag̃ua
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Mboty
     .accesskey = C
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } { $sheetCount } rehegua
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# These strings are used inside the Web Console commands
-# which can be executed in the Developer Tools, available in the
-# Browser Tools sub-menu -> 'Web Developer Tools'
-
-
 ## Messages displayed as the result of Web Console commands.
 
 # Displayed when a string is copied to the clipboard with the copy() command,
@@ -18,7 +13,3 @@ webconsole-commands-copy-value-to-clipboard = S’istringa est istada copiada in
 # Variables:
 #   $error (String) - The original error message.
 webconsole-commands-copy-error = Su cumandu `copy` est faddidu, impossìbile cambiare s’ogetu a istringa: { $error }
-
-## Messages displayed when the :trace command starts or stops the JavaScript
-## Tracer.
-

@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Pagina vereenvoudigen
-    .accesskey = v
     .tooltiptext = Deze pagina kan niet automatisch worden vereenvoudigd
+    .accesskey = v
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Indeling wijzigen voor eenvoudiger lezen
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Sluiten
     .accesskey = S
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } van { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

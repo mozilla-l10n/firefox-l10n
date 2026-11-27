@@ -11,10 +11,3 @@ boxmodel-title = Bata dumi
 # Tooltip for the button that allows users to edit the position of an element
 # in the page.
 boxmodel-geometry-button-title = Kaydogoo fasal
-
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
-##
-

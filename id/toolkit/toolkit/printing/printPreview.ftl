@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Sederhanakan Halaman
-    .accesskey = s
     .tooltiptext = Halaman ini tidak dapat disederhanakan secara otomatis
+    .accesskey = s
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Ubah tata letak agar mudah dibaca
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Tutup
     .accesskey = T
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } dari { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

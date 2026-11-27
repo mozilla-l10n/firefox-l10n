@@ -39,9 +39,3 @@ font-inspector-all-fonts-on-page-header = Semua fon dalam halaman
 font-inspector-fonts-used-label = Fon Digunakan
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Fon teks previu
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Weeɓtain Hello
-    .accesskey = i
     .tooltiptext = Ngoo hello waawaa weeɓtineede e jaajol
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Waylu lelngo ngam weeɓnude taro
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Uddu
     .accesskey = U
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Hello
     .accesskey = e
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Hello adango

@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = עדכון
 stub-cleanup-reinstall-button = התקנה מחדש
 stub-cleanup-checkbox-label = ניתן לבצע ניקוי והאצה, על־ידי חזרה להגדרות ברירת המחדל ומחיקת תוספות ישנות.
 stub-installing-label = כעת בהתקנה…
-stub-blurb-first = התכוננו לשוטט ברשת הפתוחה
 stub-blurb-second = מהיר. בטוח. חוסם רכיבי מעקב באופן אוטומטי.
 stub-blurb-third = תודה שהחלטת לבנות איתנו אינטרנט טוב יותר
 stub-blurb-first-devedition = התכוננו לבנות ברשת הפתוחה

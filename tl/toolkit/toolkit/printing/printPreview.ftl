@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Pasimplehin ang Pahina
-    .accesskey = i
     .tooltiptext = Ang pahinang ito ay hindi mapapasimple nang kusa
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Baguhin ang layout para sa madaling pagbabasa
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Isara
     .accesskey = C
@@ -38,11 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Pahina:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

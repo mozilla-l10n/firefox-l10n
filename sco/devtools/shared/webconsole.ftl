@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
@@ -40,20 +33,6 @@ webconsole-stacktrace-async-stack = (Async: { $cause })
 
 webconsole-time-log = { $name }: { $duration }ms
 
-## Results and errors of other console API calls.
-## Variables:
-##   $name (String) - Name of the timer or counter.
-
-
-##
-
-
-## Warning shown when a user pastes code in the console for the first time.
-
-
-##
-
-
 ## Column headers of the table displayed by console.table().
 
 webconsole-table-index = (index)
@@ -74,23 +53,11 @@ webconsole-clear-key = Ctrl+Shift+L
 webconsole-clear-key-macos = Ctrl+L
 webconsole-clear-alternative-key-macos = Cmd+K
 
-## Context menu items.
-
-
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-errors = Mishanters
 webconsole-filter-button-debug = Bugdicht
 webconsole-filter-button-css = CSS
-
-## Console Settings menu.
-
-
-##
-
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
@@ -106,12 +73,6 @@ webconsole-reverse-search-close-button-tooltip = Sneck ({ $shortcut })
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = Sneck ({ $shortcut })
 
-##
-
-
-## Displayed when the console fails to render a message.
-
-
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -126,6 +87,3 @@ webconsole-enter-key = Enter
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = Tap
-
-## Labels of groups of similar warnings.
-

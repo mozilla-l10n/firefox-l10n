@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Simplify Page
-    .accesskey = i
     .tooltiptext = This page cannot be automatically simplified
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Change layout for easier reading
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Aiztaiseit
     .accesskey = z
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Lopa:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Pyrmuo lopa

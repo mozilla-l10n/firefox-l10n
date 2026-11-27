@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Actualizar
 stub-cleanup-reinstall-button = Reinstalar
 stub-cleanup-checkbox-label = Limpia y acelera. Restablece la configuración predeterminada y elimina los complementos antiguos.
 stub-installing-label = Instalando…
-stub-blurb-first = Prepárese para navegar libremente por la web abierta
 stub-blurb-second = Rápido. Seguro. Bloquea rastreadores automáticamente.
 stub-blurb-third = Gracias por construir una mejor web con nosotros
 stub-blurb-first-devedition = Prepárate para construir para la web abierta

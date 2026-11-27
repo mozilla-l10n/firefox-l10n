@@ -11,9 +11,6 @@
 
 changes-no-changes = yexhkam kat jalpu tu aq'one'
 
-##
-
-
 ## Changes panel context menu
 
 changes-context-menu-copy =

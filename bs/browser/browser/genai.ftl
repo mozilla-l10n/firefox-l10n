@@ -122,11 +122,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = O AI chatbotovima u { -brand-short-name }u
 
-## Chatbot message
-
-genai-page-warning =
-    .message = S obzirom na to da je stranica dugačka, ovo je djelimičan sažetak.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Sažmi stranicu

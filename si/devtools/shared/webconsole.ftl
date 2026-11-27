@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
@@ -184,12 +177,6 @@ webconsole-reverse-search-next-button-tooltip = ඊළඟ ප්‍රතිඵ�
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = වසන්න ({ $shortcut })
 
-##
-
-
-## Displayed when the console fails to render a message.
-
-
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -209,6 +196,3 @@ webconsole-input-open-javascript-file-filter = ජාවාස්ක්‍රි
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = මුදුන
-
-## Labels of groups of similar warnings.
-

@@ -11,18 +11,3 @@
 font-inspector-system = സിസ്റ്റം
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = യുആര്‍എല്‍ പകൎത്തുക
-
-## Labels for the font editor controls
-
-
-## Toggle displayed when the list of fonts used is too long to show in full.
-
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

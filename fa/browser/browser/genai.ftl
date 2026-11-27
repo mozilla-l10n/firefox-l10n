@@ -174,11 +174,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = دربارهٔ چت‌بات‌های هوشواره در { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = با توجه به طولانی بودن صفحه، این خلاصه ناقص است.
-
 ## Chatbot footer
 
 genai-page-button-summarize = خلاصه‌سازی صفحه

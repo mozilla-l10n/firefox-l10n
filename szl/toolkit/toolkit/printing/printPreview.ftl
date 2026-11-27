@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Zrōb strōna lekszo
-    .accesskey = l
     .tooltiptext = Tyj strōny niy idzie autōmatycznie polekszyć
+    .accesskey = l
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Zmiyń rozłożynie, coby snadnij poczytać
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Zawrzij
     .accesskey = Z
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } ze { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

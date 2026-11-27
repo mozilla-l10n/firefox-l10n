@@ -144,11 +144,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = O UI-klepetalnikih v { -brand-short-name(sklon: "mestnik") }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Ker je stran obsežna, je to le delni povzetek.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Povzemi stran

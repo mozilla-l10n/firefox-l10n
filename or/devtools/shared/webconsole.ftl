@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = ୱେବ କୋନସୋଲ ଲଗଇନ API (console.log, console.info, console.warn, console.error) କୁ ଏହି ପୃଷ୍ଠାରେ ଥିବା ଗୋଟିଏ ସ୍କ୍ରିପ୍ଟ ଦ୍ୱାରା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
 # Link displayed after some messages (e.g. security related messages), pointing
 # to documentation.
@@ -27,12 +20,6 @@ webconsole-learn-more = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍�
 
 # Used for JavaScript functions without a name.
 webconsole-stacktrace-anonymous-function = <ଅଜ୍ଞାତ>
-
-## Results of console.timeLog() and console.timeEnd().
-## Variables:
-##   $name (String) - Name of the timer.
-##   $duration (String) - Elapsed time in milliseconds.
-
 
 ## Results and errors of other console API calls.
 ## Variables:
@@ -74,52 +61,3 @@ webconsole-table-index = (ଅନୁକ୍ରମଣିକା)
 webconsole-table-iteration-index = (ପୁନରାବୃତ୍ତି ଅନୁକ୍ରମଣିକା)
 webconsole-table-key = କି
 webconsole-table-value = ମୂଲ୍ୟ
-
-## Tooltips of the icons displayed next to messages.
-
-
-## Keyboard shortcuts. Modifier names (Cmd, Ctrl, CmdOrCtrl, Shift) must not
-## be translated.
-
-
-## Context menu items.
-
-
-## Toolbar at the top of the console.
-
-
-## Filter buttons, used to show or hide each category of messages.
-
-
-## Console Settings menu.
-
-
-##
-
-
-## Reverse search UI, used to search the command history.
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

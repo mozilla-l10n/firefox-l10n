@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = API-то за журнал на уеб конзолата (console.log, console.info, console.warn, console.error) е изключено от скрипт на страницата.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -209,22 +202,6 @@ webconsole-reverse-search-no-result = Няма резултати
 webconsole-reverse-search-previous-button-tooltip = Предишен резултат ({ $shortcut })
 webconsole-reverse-search-next-button-tooltip = Следващ резултат ({ $shortcut })
 
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
 ## Console input.
 
 webconsole-input-editor-onboarding-dismiss = Разбрах!
@@ -238,6 +215,3 @@ webconsole-input-open-javascript-file-filter = Файлове на JavaScript
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = Най-горна
-
-## Labels of groups of similar warnings.
-

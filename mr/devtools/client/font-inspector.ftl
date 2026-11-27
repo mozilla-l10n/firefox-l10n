@@ -38,9 +38,3 @@ font-inspector-show-less = कमी पहा
 font-inspector-all-fonts-on-page-header = पृष्ठावरील सर्व फॉन्ट्स
 # Label for the list of fonts used on the selected element.
 font-inspector-fonts-used-label = वापरलेले टंक
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

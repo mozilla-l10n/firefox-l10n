@@ -41,9 +41,6 @@ font-inspector-fonts-used-label = الخطوط المُستخدمة
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = نص معاينة الخط
 
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
 ##
 
 # Button displayed to expand a truncated value (e.g. Description or License).

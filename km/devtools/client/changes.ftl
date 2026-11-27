@@ -6,13 +6,4 @@
 ### These strings are used in the Changes panel, accessible from the Inspector
 ### sidebar.
 
-
-## Displayed when no changes have been made yet.
-
-
-##
-
 changes-copy-all-changes-button = ចម្លងការផ្លាស់ប្តូរទាំងអស់
-
-## Changes panel context menu
-

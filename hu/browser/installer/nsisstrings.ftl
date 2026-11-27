@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Frissítés
 stub-cleanup-reinstall-button = Újratelepítés
 stub-cleanup-checkbox-label = Takarítson és gyorsítson. Állítsa vissza az alapértelmezett beállításokat, és törölje a régi kiegészítőket.
 stub-installing-label = Telepítés folyamatban…
-stub-blurb-first = Készüljön fel a barangolásra a nyílt weben
 stub-blurb-second = Gyors. Biztonságos. Automatikusan blokkolja a követőket.
 stub-blurb-third = Köszönjük, hogy egy jobb webet épít velünk
 stub-blurb-first-devedition = Készüljön fel a nyílt web építésére

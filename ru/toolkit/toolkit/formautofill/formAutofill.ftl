@@ -45,9 +45,6 @@ credit-card-capture-never-save-payment-methods-button =
 credit-card-capture-never-save-button =
     .label = Никогда не сохранять карты
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Обновить карту?
 credit-card-update-doorhanger-description = Обновляемая карта:
 credit-card-capture-save-new-button =
@@ -140,9 +137,6 @@ credit-card-save-payment-method-doorhanger-description = { -brand-short-name } �
 credit-card-capture-dismiss-button =
     .label = Убрать
     .accessKey = В
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
 # The toggle turns saving security codes on and off. The label stays the same
 # in both states.
 credit-card-doorhanger-always-save-security-codes-toggle =

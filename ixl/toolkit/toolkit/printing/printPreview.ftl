@@ -23,10 +23,5 @@ printpreview-page-setup =
 printpreview-page =
     .value = U'uj
     .accesskey = u
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%

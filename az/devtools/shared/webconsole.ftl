@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
@@ -53,12 +46,6 @@ webconsole-message-repeats =
         [one] { $repeats } təkrar
        *[other] { $repeats } təkrar
     }
-
-## Warning shown when a user pastes code in the console for the first time.
-
-
-##
-
 
 ## Column headers of the table displayed by console.table().
 
@@ -118,36 +105,6 @@ webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Sorğular
 
-## Console Settings menu.
-
-
 ##
 
 webconsole-close-sidebar-button-tooltip = Yan paneli qapat
-
-## Reverse search UI, used to search the command history.
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

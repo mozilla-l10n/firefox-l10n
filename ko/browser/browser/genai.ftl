@@ -166,11 +166,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name }의 AI 챗봇 정보
 
-## Chatbot message
-
-genai-page-warning =
-    .message = 페이지가 길어서 부분 요약입니다.
-
 ## Chatbot footer
 
 genai-page-button-summarize = 페이지 요약

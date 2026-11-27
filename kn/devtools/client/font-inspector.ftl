@@ -25,12 +25,3 @@ font-inspector-font-italic-label = ಓರೆಯಾದ
 
 font-inspector-show-more = ಇನ್ನಷ್ಟು ತೋರಿಸು
 font-inspector-show-less = ಕಡಿಮೆ ತೋರಿಸು
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

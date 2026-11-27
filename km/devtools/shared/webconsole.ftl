@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = API ការ​ចុះ​កំណត់ហេតុ​កុងសូល​បណ្ដាញ (console.log, console.info, console.warn, console.error) ត្រូវ​បាន​បង្ហាញ​ដោយ​ស្គ្រីប​នៅ​លើ​ទំព័រ​នេះ ។
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -33,12 +26,6 @@ webconsole-stacktrace-anonymous-function = <អនាមិក>
 # Variables:
 #   $cause (String) - The cause of the async call (e.g. "setTimeout handler").
 webconsole-stacktrace-async-stack = (Async: { $cause })
-
-## Results of console.timeLog() and console.timeEnd().
-## Variables:
-##   $name (String) - Name of the timer.
-##   $duration (String) - Elapsed time in milliseconds.
-
 
 ## Results and errors of other console API calls.
 ## Variables:
@@ -117,9 +104,6 @@ webconsole-menu-store-as-global-var =
     .label = ផ្ទុក​ជា​អញ្ញត្តកម្ម​សកល
     .accesskey = S
 
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-errors = បញ្ហា
@@ -131,36 +115,8 @@ webconsole-filter-button-css = CSS
 # Requests made with XMLHttpRequest or fetch().
 webconsole-filter-button-xhr = XHR
 
-## Console Settings menu.
-
-
-##
-
-
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
 webconsole-reverse-search-input-placeholder = ស្វែងរក​ប្រវត្តិ
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

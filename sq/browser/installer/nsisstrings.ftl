@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Përditësoje
 stub-cleanup-reinstall-button = Riinstaloje
 stub-cleanup-checkbox-label = Pastrojeni dhe përshpejtojeni. Kthehuni te rregullimet parazgjedhje dhe fshini shtesa të vjetra.
 stub-installing-label = Tani po instalohet…
-stub-blurb-first = Bëhuni gati të harboni web-in e hapur
 stub-blurb-second = I shpejtë. I parrezik. Bllokon automatikisht gjurmues.
 stub-blurb-third = Faleminderit që ndërtoni me ne një <em>web</em> më të mirë
 stub-blurb-first-devedition = Bëhuni gati të ndërtoni për web-in e hapur

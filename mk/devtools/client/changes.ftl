@@ -19,6 +19,3 @@ changes-element-style-label = Елемент
 # Badge displayed next to the source of changes made inside an iframe.
 # Lowercase intentional.
 changes-iframe-label = iframe
-
-## Changes panel context menu
-

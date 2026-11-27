@@ -15,6 +15,3 @@ boxmodel-geometry-button-title = Editar la posición
 
 boxmodel-properties-hide-label = Anubrir
 boxmodel-properties-show-label = Amosar
-
-##
-

@@ -306,6 +306,3 @@ webconsole-input-open-javascript-file-filter = Mga JavaScript File
 # context selector.
 webconsole-input-selector-top = Itaas
 webconsole-input-selector-tooltip = Piliin ang evaluation context
-
-## Labels of groups of similar warnings.
-

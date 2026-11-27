@@ -83,11 +83,6 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = أخفِ الاختصار عند تحديد النص
 
-## Chatbot message
-
-genai-page-warning =
-    .message = نظراً لطول الصفحة، فهذا ملخص جزئي.
-
 ## Chatbot footer
 
 genai-page-button-summarize = لخص الصفحة

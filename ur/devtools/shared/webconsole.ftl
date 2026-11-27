@@ -188,12 +188,6 @@ webconsole-reverse-search-next-button-tooltip = اگلا نتیجہ ({ $shortcut
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = ({ $shortcut }) بند کریں
 
-##
-
-
-## Displayed when the console fails to render a message.
-
-
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -214,6 +208,3 @@ webconsole-input-open-javascript-file-filter = JavaScript فائلیں
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = بہترین
-
-## Labels of groups of similar warnings.
-

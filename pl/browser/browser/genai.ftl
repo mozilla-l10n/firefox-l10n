@@ -176,11 +176,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Informacje o czatbotach opartych na sztucznej inteligencji w { -brand-short-name(case: "loc") }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Ze względu na długość strony jest to częściowe streszczenie.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Streść stronę

@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = ಈ ಪುಟದಲ್ಲಿರುವ ಒಂದು ಸ್ಕ್ರಿಪ್ಟಿನಿಂದಾಗಿ ಜಾಲ ಕನ್ಸೋಲ್ ದಾಖಲಿಸುವಿಕೆಯ API (console.log, console.info, console.warn, console.error) ಅನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -33,12 +26,6 @@ webconsole-stacktrace-anonymous-function = <ಅನಾಮಧೇಯ>
 # Variables:
 #   $cause (String) - The cause of the async call (e.g. "setTimeout handler").
 webconsole-stacktrace-async-stack = (ಅಸಿಂಕ್: { $cause })
-
-## Results of console.timeLog() and console.timeEnd().
-## Variables:
-##   $name (String) - Name of the timer.
-##   $duration (String) - Elapsed time in milliseconds.
-
 
 ## Results and errors of other console API calls.
 ## Variables:
@@ -149,36 +136,3 @@ webconsole-filter-button-css = CSS
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = ಮನವಿಗಳು
-
-## Console Settings menu.
-
-
-##
-
-
-## Reverse search UI, used to search the command history.
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

@@ -313,6 +313,3 @@ webconsole-input-open-javascript-file-filter = JavaScript Taq Yakb'äl
 # context selector.
 webconsole-input-selector-top = Ajsik
 webconsole-input-selector-tooltip = Ticha' ruk'ojlib'al tojtob'enïk
-
-## Labels of groups of similar warnings.
-

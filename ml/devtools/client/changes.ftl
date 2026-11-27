@@ -6,12 +6,6 @@
 ### These strings are used in the Changes panel, accessible from the Inspector
 ### sidebar.
 
-
-## Displayed when no changes have been made yet.
-
-
-##
-
 changes-copy-all-changes-button = എല്ലാ മാറ്റങ്ങളും പകൎത്തുക
 changes-copy-rule-button = ചട്ടം പകൎത്തുക
 

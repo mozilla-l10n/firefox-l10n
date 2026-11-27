@@ -166,11 +166,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = 關於 { -brand-short-name } 的 AI 聊天機器人功能
 
-## Chatbot message
-
-genai-page-warning =
-    .message = 由於頁面很長，這只是部分摘要。
-
 ## Chatbot footer
 
 genai-page-button-summarize = 摘要本頁

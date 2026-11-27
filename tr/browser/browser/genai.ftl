@@ -174,11 +174,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } YZ sohbet botları hakkında
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Sayfa uzun olduğu için bu kısmi bir özettir.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Sayfayı özetle

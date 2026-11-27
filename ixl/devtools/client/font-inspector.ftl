@@ -11,18 +11,3 @@ font-inspector-copy-url-title = Eesa ivatz URL
 # Name of the entry in the instance dropdown that holds the settings manually
 # adjusted by the user.
 font-inspector-custom-instance-name = Eetz chitu'
-
-## Labels for the font editor controls
-
-
-## Toggle displayed when the list of fonts used is too long to show in full.
-
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

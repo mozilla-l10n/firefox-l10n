@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Eguneratu
 stub-cleanup-reinstall-button = Berrinstalatu
 stub-cleanup-checkbox-label = Garbitu eta azkartu. Itzuli ezarpen lehenetsietara eta ezabatu gehigarri zaharrak.
 stub-installing-label = Orain instalatzen…
-stub-blurb-first = Presta zaitez harat-honat ibiltzeko web irekian
 stub-blurb-second = Azkarra. Segurua. Jarraipen elementuak automatikoki blokeatzen ditu.
 stub-blurb-third = Eskerrik asko gurekin web hobeagoa sortzeagatik
 stub-blurb-first-devedition = Presta zaitez web irekirako eraikitzeko

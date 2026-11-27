@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Oer AI-chatbots yn { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Omdat de side lang is, is dit in dielgearfetting.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Side gearfetsje

@@ -178,11 +178,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Wó chatowych botach w { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Dokulaž bok jo dłujki, jo to źělne zespominanje.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Bok zespominaś

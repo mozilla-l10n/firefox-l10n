@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = Interneti diji-walhaa kaŋ ga API ceebandu hantum (console.log, console.info, console.warn, console.error) kayandi, šigira dumi foo n'a kayandi moɲoo woo ga.
 # Link displayed after some messages (e.g. security related messages), pointing
 # to documentation.
@@ -31,12 +24,6 @@ webconsole-stacktrace-anonymous-function = <kaŋ ši nda maa>
 # Variables:
 #   $cause (String) - The cause of the async call (e.g. "setTimeout handler").
 webconsole-stacktrace-async-stack = (Waati-howante: { $cause })
-
-## Results of console.timeLog() and console.timeEnd().
-## Variables:
-##   $name (String) - Name of the timer.
-##   $duration (String) - Elapsed time in milliseconds.
-
 
 ## Results and errors of other console API calls.
 ## Variables:
@@ -104,47 +91,8 @@ webconsole-close-key = CmdOrCtrl+W
 webconsole-clear-key = Ctrl+Shift+L
 webconsole-clear-key-macos = Ctrl+L
 
-## Context menu items.
-
-
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-errors = Firkawey
 webconsole-filter-button-warnings = &Yaamarey
 webconsole-filter-button-css = CSS
-
-## Console Settings menu.
-
-
-##
-
-
-## Reverse search UI, used to search the command history.
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

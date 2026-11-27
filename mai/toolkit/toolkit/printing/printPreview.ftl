@@ -29,11 +29,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = पृष्ठ:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = पहिल पन्ना

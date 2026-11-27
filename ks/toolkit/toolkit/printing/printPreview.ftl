@@ -29,11 +29,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = پیج:
     .accesskey = پ
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = گوڈنیوک پیج

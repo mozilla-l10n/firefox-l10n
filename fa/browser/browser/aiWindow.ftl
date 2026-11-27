@@ -366,15 +366,6 @@ aiwindow-starter-browsing-history = پیدا کردن زبانه‌ها در ت�
 aiwindow-starter-browsing-summarize = خلاصه‌سازی زبانه‌ها
 aiwindow-starter-browsing-compare = مقایسهٔ زبانه‌ها
 
-## Smart Window digest starter dismiss button
-## Shown on hover over a digest starter pill. Turns off the digest and
-## removes its pill from the starter row.
-## Variables:
-##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
-
-aiwindow-starter-digest-dismiss =
-    .aria-label = رد کردن { $text }
-
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 

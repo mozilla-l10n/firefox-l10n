@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Bywurkje
 stub-cleanup-reinstall-button = Opnij ynstallearje
 stub-cleanup-checkbox-label = Rom op en meitsje jo browser rapper. Gean werom nei jo standertynstellingen en smyt âlde add-ons fuort.
 stub-installing-label = No ynstallearje…
-stub-blurb-first = Meitsje jo ree om frij te rinnen op it iepen web
 stub-blurb-second = Fluch. Feilich. Blokkearret trackers automatysk.
 stub-blurb-third = Tank foar it bouwen fan in better web mei ús
 stub-blurb-first-devedition = Meitsje jo ree om te bouwen foar it iepen web

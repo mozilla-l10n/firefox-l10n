@@ -12,10 +12,6 @@ boxmodel-title = ಬಾಕ್ಸ್ ಮಾದರಿ
 # in the page.
 boxmodel-geometry-button-title = ಸ್ಥಾನ ಸಂಪಾದನೆ
 
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
 ##
 
 # Short label displayed next to the position property of a positioned element,

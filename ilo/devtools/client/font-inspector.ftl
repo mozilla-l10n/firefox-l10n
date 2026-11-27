@@ -10,15 +10,3 @@
 ## Labels for the font editor controls
 
 font-inspector-font-size-label = Kadakkel
-
-## Toggle displayed when the list of fonts used is too long to show in full.
-
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

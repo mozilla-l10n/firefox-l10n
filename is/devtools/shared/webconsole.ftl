@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = Slökkt hefur verið á vefstjórnborði API-skráningar (console.log, console.info, console.warn, console.error) með skriftu á þessari síðu.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -209,9 +202,6 @@ webconsole-reverse-search-next-button-tooltip = Næsta niðurstaða ({ $shortcut
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = Loka ({ $shortcut })
 
-##
-
-
 ## Displayed when the console fails to render a message.
 
 webconsole-message-render-error-copy-button = Afrita lýsigögn skilaboða á klippispjald
@@ -235,6 +225,3 @@ webconsole-input-open-javascript-file-filter = JavaScript-skrár
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = Efst
-
-## Labels of groups of similar warnings.
-

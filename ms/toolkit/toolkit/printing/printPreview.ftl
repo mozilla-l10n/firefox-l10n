@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Permudahkan Halaman
-    .accesskey = p
     .tooltiptext = Laman ini tidak dapat dipermudahkan secara automatik
+    .accesskey = p
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Tukar susun atur untuk pembacaan mudah
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Tutup
     .accesskey = u
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Halaman:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Halaman pertama

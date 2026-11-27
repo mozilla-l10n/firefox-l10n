@@ -12,18 +12,6 @@ font-inspector-system = ប្រព័ន្ធ
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = ចម្លង URL
 
-## Labels for the font editor controls
-
-
-## Toggle displayed when the list of fonts used is too long to show in full.
-
-
 ##
 
 font-inspector-all-fonts-on-page-header = ពុម្ពអក្សរទាំងអស់នៅលើទំព័រ
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

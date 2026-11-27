@@ -269,5 +269,8 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Перетягніть сюди важливі вкладки, щоб мати їх під рукою
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
 sidebar-pins-promo-text-2 =
     .heading = Перетягніть сюди важливі вкладки, щоб мати їх під рукою

@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Zjednodušit stránku
-    .accesskey = i
     .tooltiptext = Tuto stránku nelze automaticky zjednodušit
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Změnit rozložení stránky pro snadnější čtení
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Zavřít
     .accesskey = Z
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } z { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent } %
 printpreview-homearrow =

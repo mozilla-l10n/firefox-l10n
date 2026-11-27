@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Diweddaru
 stub-cleanup-reinstall-button = Ail-osod
 stub-cleanup-checkbox-label = Glanhau a chyflymu. Ewch yn ôl i'r gosodiadau arferol a dileu hen ychwanegion.
 stub-installing-label = Wrthi'n gosod…
-stub-blurb-first = Paratowch i grwydro'r we agored
 stub-blurb-second = Cyflym. Diogel. Yn rhwystro tracwyr yn awtomatig.
 stub-blurb-third = Diolch am adeiladu gwe well gyda ni
 stub-blurb-first-devedition = Paratowch i adeiladu'n rhydd ar y we agored

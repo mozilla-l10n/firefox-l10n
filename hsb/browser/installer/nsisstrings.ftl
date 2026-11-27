@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Aktualizować
 stub-cleanup-reinstall-button = Znowa instalować
 stub-cleanup-checkbox-label = Wurumujće a polěpšće. Wróćće so k standardnym nastajenjam a zhašejće stare přidatki.
 stub-installing-label = Instaluje so nětko…
-stub-blurb-first = Přihotujće so, zo byšće po wotewrjenym webje nawigěrował
 stub-blurb-second = Spěšny. Wěsty. Blokuje přesćěhowaki awtomatisce.
 stub-blurb-third = Dźakujemy so, zo z nami lěpši web natwarjeće
 stub-blurb-first-devedition = Přihotujće so, zo byšće wotewrjeny web natwarił

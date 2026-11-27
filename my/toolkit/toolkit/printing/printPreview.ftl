@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = စာမျက်နှာကို ရိုးရှင်းအောင်ပြုလုပ်ပါ
-    .accesskey = i
     .tooltiptext = ဒီစာမျက်နှာကို ရိုးရှင်းစေရန် အလိုအလျောက် မပြုလုပ်နိုင်ခဲ့ပါ
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = ပိုမိုလွယ်ကူစွာ ဖတ်ရှုနိုင်ရန် အထားအသိုပြောင်းလဲပါ
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = ပိတ်ရန်
     .accesskey = C
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = စာမျက်နှာ -
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = ပထမ စာမျက်နှာ

@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = อัปเดต
 stub-cleanup-reinstall-button = ติดตั้งใหม่
 stub-cleanup-checkbox-label = ทำความสะอาดและเพิ่มความเร็ว กลับไปใช้การตั้งค่าเริ่มต้น รวมทั้งลบส่วนเสริมเก่า ๆ ออก
 stub-installing-label = ขณะนี้กำลังติดตั้ง…
-stub-blurb-first = เตรียมพร้อมที่จะท่องโลกออนไลน์
 stub-blurb-second = รวดเร็ว ปลอดภัย และปิดกั้นตัวติดตามโดยอัตโนมัติ
 stub-blurb-third = ขอบคุณที่ร่วมสร้างโลกออนไลน์ที่ดีกว่าไปกับเรา
 stub-blurb-first-devedition = เตรียมพร้อมที่จะสร้างโลกออนไลน์ที่เปิดกว้าง

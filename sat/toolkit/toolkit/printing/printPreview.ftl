@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = ᱥᱟᱦᱴᱟ ᱥᱚᱦᱚᱡᱽ ᱪᱷᱚᱭ ᱢᱮ
-    .accesskey = ᱥ
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱟᱡ ᱛᱮ ᱵᱟᱭ ᱥᱚᱦᱚᱡᱽᱚᱜᱼᱟ
+    .accesskey = ᱥ
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = ᱟᱞᱜᱟ ᱛᱮ ᱯᱟᱲᱦᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱞᱮᱭᱟᱣᱴ ᱵᱚᱫᱚᱞ ᱢᱮ
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = ᱵᱚᱸᱫ ᱢᱮ
     .accesskey = ᱵ
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } ᱨᱮᱭᱟᱜ { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

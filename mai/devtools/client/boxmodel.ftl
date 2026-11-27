@@ -8,10 +8,3 @@
 
 # Header of the collapsible Box Model section.
 boxmodel-title = बॉक्स मॉडल
-
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
-##
-

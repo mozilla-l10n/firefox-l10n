@@ -24,15 +24,3 @@ font-inspector-custom-instance-name = தனிப்பயன்
 font-inspector-font-size-label = அளவு
 font-inspector-font-weight-label = எடை
 font-inspector-font-italic-label = சாய்வு
-
-## Toggle displayed when the list of fonts used is too long to show in full.
-
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

@@ -14,6 +14,3 @@ boxmodel-title = Modelo de caja
 
 boxmodel-properties-hide-label = Chiyu´u
 boxmodel-properties-show-label = Kutúvi
-
-##
-

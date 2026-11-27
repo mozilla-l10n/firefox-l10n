@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = Lopys skripts ir deaktiviejs šķārsteikla konsoles žurnaleišonys API (console.log, console.info, console.warn, console.error).
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -156,9 +149,6 @@ webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Pīprasiejumi
 
-## Console Settings menu.
-
-
 ##
 
 # Displayed when the inspected page navigates to a new location.
@@ -166,30 +156,3 @@ webconsole-filter-button-requests = Pīprasiejumi
 #   $url (String) - The new URL.
 webconsole-navigated = Porīt iz { $url }
 webconsole-close-sidebar-button-tooltip = Aiztaiseit sōnu jūslu
-
-## Reverse search UI, used to search the command history.
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

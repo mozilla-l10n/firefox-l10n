@@ -368,15 +368,6 @@ aiwindow-starter-browsing-history = Atrast cilnes vēsturē
 aiwindow-starter-browsing-summarize = Apkopot cilnes
 aiwindow-starter-browsing-compare = Salīdzināt cilnes
 
-## Smart Window digest starter dismiss button
-## Shown on hover over a digest starter pill. Turns off the digest and
-## removes its pill from the starter row.
-## Variables:
-##   $text (String) - The label of the pill, which is the digest's title, for example "Morning News"
-
-aiwindow-starter-digest-dismiss =
-    .aria-label = Noraidīt { $text }
-
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 

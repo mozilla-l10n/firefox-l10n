@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Yenza lula iPhepha
-    .accesskey = e
     .tooltiptext = Eli phepha alinakwenziwa lula ngokuzenzekelayo
+    .accesskey = e
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Tshintsha ukuma ukuze ifundeke lula
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Vala
     .accesskey = V
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Ikhasi:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Ikhasi lokuqala

@@ -6,12 +6,6 @@
 ### These strings are used in the Changes panel, accessible from the Inspector
 ### sidebar.
 
-
-## Displayed when no changes have been made yet.
-
-
-##
-
 changes-copy-all-changes-button = Lok Alokaloka Weng
 
 ## Changes panel context menu

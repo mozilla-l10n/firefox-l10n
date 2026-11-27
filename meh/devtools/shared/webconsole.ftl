@@ -11,21 +11,11 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
 # to documentation.
 webconsole-learn-more = Ka´vi kue´eka
-
-## Stack traces, for example the result of console.trace().
-
 
 ## Results of console.timeLog() and console.timeEnd().
 ## Variables:
@@ -33,26 +23,6 @@ webconsole-learn-more = Ka´vi kue´eka
 ##   $duration (String) - Elapsed time in milliseconds.
 
 webconsole-time-log = { $name }: { $duration }ms
-
-## Results and errors of other console API calls.
-## Variables:
-##   $name (String) - Name of the timer or counter.
-
-
-##
-
-
-## Warning shown when a user pastes code in the console for the first time.
-
-
-##
-
-
-## Column headers of the table displayed by console.table().
-
-
-## Tooltips of the icons displayed next to messages.
-
 
 ## Keyboard shortcuts. Modifier names (Cmd, Ctrl, CmdOrCtrl, Shift) must not
 ## be translated.
@@ -67,23 +37,11 @@ webconsole-clear-key = Ctrl+Shift+L
 webconsole-clear-key-macos = Ctrl+L
 webconsole-clear-alternative-key-macos = Cmd+K
 
-## Context menu items.
-
-
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-css = CSS
 # Requests made with XMLHttpRequest or fetch().
 webconsole-filter-button-xhr = XHR
-
-## Console Settings menu.
-
-
-##
-
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
@@ -98,20 +56,3 @@ webconsole-reverse-search-close-button-tooltip = Nakasɨ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = Nakasɨ ({ $shortcut })
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

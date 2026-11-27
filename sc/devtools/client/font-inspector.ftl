@@ -25,12 +25,6 @@ font-inspector-custom-instance-name = Personalizada
 font-inspector-font-size-label = Mannària
 font-inspector-font-italic-label = Cursivu
 
-## Toggle displayed when the list of fonts used is too long to show in full.
-
-
-##
-
-
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
 font-inspector-font-version = Versione:

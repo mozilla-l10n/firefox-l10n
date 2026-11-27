@@ -327,6 +327,3 @@ webconsole-input-open-javascript-file-filter = Ifuyla n JavaScript
 # context selector.
 webconsole-input-selector-top = Afella
 webconsole-input-selector-tooltip = Fren asatal n uktazal
-
-## Labels of groups of similar warnings.
-

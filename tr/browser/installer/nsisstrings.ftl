@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Güncelle
 stub-cleanup-reinstall-button = Yeniden yükle
 stub-cleanup-checkbox-label = Temizle ve hızlandır. Varsayılan ayarlara geri dön ve eski eklentileri sil.
 stub-installing-label = Yükleniyor…
-stub-blurb-first = Açık web’de dolaşmaya hazır olun
 stub-blurb-second = Hızlı. Güvenli. Takip kodlarını otomatik engeller.
 stub-blurb-third = Daha iyi bir web inşa etme yolculuğumuza katıldığınız için teşekkür ederiz
 stub-blurb-first-devedition = Açık web’i inşa etmeye hazır olun

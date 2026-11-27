@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Tich'utinirisäx ruxaq
-    .accesskey = c
     .tooltiptext = Re ruxaq k'amaya'l re' man tikirel ta nich'utinirisäx qa pa ruyonil
+    .accesskey = c
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Tijal ri ruwachib'enik richin man k'ayew ta nub'än nisik'ïx
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Titz'apïx
     .accesskey = T
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } richin { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = वेब कंसोल का लॉगिंग API (console.log, console.info, console.warn, console.error) को इस पृष्ठ पर एक स्क्रिप्ट के द्वारा निष्क्रिय कर दिया गया है.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -156,9 +149,6 @@ webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = अनुरोध
 
-## Console Settings menu.
-
-
 ##
 
 # Displayed when the inspected page navigates to a new location.
@@ -185,17 +175,6 @@ webconsole-reverse-search-next-button-tooltip = अगला परिणाम 
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = ({ $shortcut }) बंद करें
 
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
 ## Console input.
 
 # Title of the file picker used to open a file in the console input (Ctrl+O or
@@ -205,6 +184,3 @@ webconsole-input-open-javascript-file-filter = JavaScript फ़ाइलें
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = शीर्ष
-
-## Labels of groups of similar warnings.
-

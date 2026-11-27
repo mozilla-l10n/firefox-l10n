@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Päivitä
 stub-cleanup-reinstall-button = Asenna uudelleen
 stub-cleanup-checkbox-label = Siivoa ja nopeuta toimintaa. Palauta oletusasetukset ja poista vanhat lisäosat.
 stub-installing-label = Asennus meneillään…
-stub-blurb-first = Valmistaudu vaeltamaan avoimessa verkossa
 stub-blurb-second = Nopea. Turvallinen. Estää seuraimet automaattisesti.
 stub-blurb-third = Kiitos, että rakennat kanssamme parempaa verkkoa
 stub-blurb-first-devedition = Valmistaudu rakentamaan avointa verkkoa

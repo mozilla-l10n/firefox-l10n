@@ -6,12 +6,6 @@
 ### These strings are used in the Changes panel, accessible from the Inspector
 ### sidebar.
 
-
-## Displayed when no changes have been made yet.
-
-
-##
-
 # Displayed in place of a stylesheet file name, above changes made to the
 # style attribute of an element.
 changes-element-style-label = 'Ngo sa nika

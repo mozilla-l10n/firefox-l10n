@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = Nyig coc matye i pot buk man ojuko Lagwok API me kacoc me kakube (console.log, console.info, console.warn, console.error) woko.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -124,9 +117,6 @@ webconsole-menu-copy-message =
     .label = Lok kwena
     .accesskey = L
 
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-errors = Bal
@@ -137,9 +127,6 @@ webconsole-filter-button-debug = Nong bal
 webconsole-filter-button-css = CSS
 # Requests made with XMLHttpRequest or fetch().
 webconsole-filter-button-xhr = XHR
-
-## Console Settings menu.
-
 
 ##
 
@@ -154,25 +141,3 @@ webconsole-reverse-search-close-button-tooltip = Lor ({ $shortcut })
 webconsole-reverse-search-no-result = Adwogi pe
 webconsole-reverse-search-previous-button-tooltip = Adwogi mukato ({ $shortcut })
 webconsole-reverse-search-next-button-tooltip = Adwogi malubo ({ $shortcut })
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

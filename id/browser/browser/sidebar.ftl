@@ -212,5 +212,8 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Seret tab penting ke sini agar tetap dalam jangkauan
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
 sidebar-pins-promo-text-2 =
     .heading = Seret tab penting ke sini agar tetap dalam jangkauan

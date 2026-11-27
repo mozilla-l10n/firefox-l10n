@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = 更新
 stub-cleanup-reinstall-button = 重新安装
 stub-cleanup-checkbox-label = 清理并提速：恢复默认设置并删除老旧附加组件。
 stub-installing-label = 正在安装…
-stub-blurb-first = 准备好漫游于开放的网络
 stub-blurb-second = 快速又安全，自动拦截跟踪器。
 stub-blurb-third = 感谢您与我们共建更好的互联网
 stub-blurb-first-devedition = 准备好共建开放的网络

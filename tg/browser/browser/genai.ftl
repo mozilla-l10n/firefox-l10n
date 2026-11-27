@@ -129,11 +129,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Дар бораи чат-ботҳои зеҳни сунъӣ «AI» дар «{ -brand-short-name }»
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Азбаски саҳифа дароз аст, ин хулоса қисман бароварда шуд.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Баровардани хулоса дар бораи ин саҳифа

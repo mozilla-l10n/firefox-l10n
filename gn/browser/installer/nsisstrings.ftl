@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Mbohekopyahu
 stub-cleanup-reinstall-button = Mohendajey
 stub-cleanup-checkbox-label = Emopotĩ ha embopya’e. Emoĩ jey ñemboheko ijypyguáva ha embogue moĩmbahaita tuja.
 stub-installing-label = Oñemohenda ko’ág̃a…
-stub-blurb-first = Eñemoĩ eikekuaa hag̃ua ñanduti ijurujávape
 stub-blurb-second = Ipya’e. Hekorosã. Ejoko tapykuehoita ijeheguíva.
 stub-blurb-third = Aguyje ejapo rehe ñanduti iporãva orendive
 stub-blurb-first-devedition = Eñembosako’i emba’apo hag̃ua ñanduti ijurujávape

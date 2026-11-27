@@ -12,10 +12,6 @@ boxmodel-title = பாக்ஸ் மாடல்
 # in the page.
 boxmodel-geometry-button-title = இடத்தை திருத்து
 
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
 ##
 
 # Short label displayed next to the position property of a positioned element,

@@ -9,10 +9,6 @@
 # Header of the collapsible Box Model section.
 boxmodel-title = बाक्सु मडेल
 
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
 ##
 
 # Short label displayed next to the position property of a positioned element,

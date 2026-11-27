@@ -7,12 +7,6 @@
 ### sidebar.
 
 
-## Displayed when no changes have been made yet.
-
-
-##
-
-
 ## Changes panel context menu
 
 changes-context-menu-copy =

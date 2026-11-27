@@ -12,10 +12,6 @@ boxmodel-title = Daj hua kaja
 # in the page.
 boxmodel-geometry-button-title = Nagi'io' daj gà ma
 
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
 ##
 
 # Short label displayed next to the position property of a positioned element,

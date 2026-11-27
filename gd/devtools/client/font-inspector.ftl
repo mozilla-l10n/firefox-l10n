@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = All fonts on page
 font-inspector-fonts-used-label = Fonts Used
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Font preview text
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

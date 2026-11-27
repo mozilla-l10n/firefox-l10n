@@ -39,9 +39,3 @@ font-inspector-all-fonts-on-page-header = પાનાં પરના બધા
 font-inspector-fonts-used-label = વપરાયેલ ફોન્ટ્સ
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = ફોન્ટ પૂર્વાવલોકન ટેક્સ્ટ
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

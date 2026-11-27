@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Gonzamu Pegi
-    .accesskey = i
     .tooltiptext = Eno page tesobola kugonzebwa yokka
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Kyusa mu engeri gy'ebilagibwamu ogonzemu okusoma kwo
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Ggalawo
     .accesskey = G
@@ -38,11 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Omuko:
     .accesskey = m
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

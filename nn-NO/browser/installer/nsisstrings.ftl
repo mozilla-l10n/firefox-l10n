@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Oppdater
 stub-cleanup-reinstall-button = Installer på nytt
 stub-cleanup-checkbox-label = Rydd opp og auk farta. Gå tilbake til standardinnstillingane og slett gamle tillegg.
 stub-installing-label = Installerer…
-stub-blurb-first = Gjer deg klar til å utforske det opne nettet
 stub-blurb-second = Rask. Trygg. Blokkerer sporarar automatisk.
 stub-blurb-third = Takk for at du byggjer eit betre nett saman med oss
 stub-blurb-first-devedition = Gjer deg klar til å byggje for det opne nettet

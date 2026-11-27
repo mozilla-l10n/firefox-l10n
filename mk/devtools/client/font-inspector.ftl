@@ -36,9 +36,3 @@ font-inspector-all-fonts-on-page-header = Сите фонтови на стра�
 font-inspector-fonts-used-label = Употребени фонтови
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Текст за преглед на фонт
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

@@ -16,6 +16,3 @@ changes-no-changes = మార్పులేమీ కనబడలేదు.
 # Displayed in place of a stylesheet file name, above changes made to the
 # style attribute of an element.
 changes-element-style-label = మూలకం
-
-## Changes panel context menu
-

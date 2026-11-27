@@ -312,6 +312,3 @@ webconsole-input-open-javascript-file-filter = „JavaScript“ failai
 # context selector.
 webconsole-input-selector-top = Viršutinė
 webconsole-input-selector-tooltip = Pasirinkti įvertinimo kontekstą
-
-## Labels of groups of similar warnings.
-

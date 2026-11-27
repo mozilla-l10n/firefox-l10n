@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Vereenvoudig bladsy
-    .accesskey = i
     .tooltiptext = Dié bladsy kan nie outomaties vereenvoudig word nie
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Verander uitleg om lees te vergemaklik
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Sluit
     .accesskey = S
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Bladsy:
     .accesskey = l
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Eerste bladsy

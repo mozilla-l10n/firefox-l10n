@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } ਵਿੱਚ AI ਚੈਟ-ਬੋਟ ਬਾਰੇ
 
-## Chatbot message
-
-genai-page-warning =
-    .message = ਸਫ਼ਾ ਲੋਡ ਹੋਣ ਲਈ ਲੰਮਾ ਸਮਾਂ ਲੱਗ ਰਿਹਾ ਹੈ, ਇਸਕਰਕੇ ਸਾਰ ਅਧੂਰਾ ਹੈ।
-
 ## Chatbot footer
 
 genai-page-button-summarize = ਸਫ਼ੇ ਦਾ ਸਾਰ

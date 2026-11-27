@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = Allar leturgerðir á síðu
 font-inspector-fonts-used-label = Leturgerðir notaðar
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Forskoða með leturgerð
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

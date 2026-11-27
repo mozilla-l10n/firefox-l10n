@@ -178,11 +178,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = O chatbotoch s umelou inteligenciou vo { -brand-short-name(case: "loc") }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Keďže stránka je dlhá, ide len o čiastočné zhrnutie.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Vytvor súhrn stránky

@@ -123,11 +123,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Про чат-боти з ШІ в { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Оскільки сторінка завелика, показано частковий підсумок.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Підсумувати вміст сторінки

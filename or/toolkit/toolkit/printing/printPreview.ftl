@@ -4,8 +4,8 @@
 
 printpreview-simplify-page-checkbox =
     .label = ପୃଷ୍ଠାକୁ ସରଳ କରନ୍ତୁ
-    .accesskey = ପ
     .tooltiptext = ଏହି ପୃଷ୍ଠା ସ୍ୱତଃସ୍ପୃତ ଭାବେ ସରଳ ହୋଇପାରିବ ନାହିଁ
+    .accesskey = ପ
 printpreview-close =
     .label = ବନ୍ଦ କରନ୍ତୁ
     .accesskey = C
@@ -38,11 +38,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetCount } ର { $sheetNum }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

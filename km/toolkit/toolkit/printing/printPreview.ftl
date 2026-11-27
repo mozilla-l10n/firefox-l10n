@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = ធ្វើ​ទំព័រ​ឲ្យ​ងាយស្រួល
-    .accesskey = i
     .tooltiptext = ទំព័រ​នេះ​មិន​អាច​បាន​ធ្វើ​ឲ្យ​ងាយស្រួល​ដោយស្វ័យប្រវត្តិ​បាន​ទេ។
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = ប្ដូរ​ប្លង់​ដើម្បី​ឲ្យ​ងាយ​អាន
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = បិទ
     .accesskey = ទ
@@ -38,11 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = ទំព័រ ៖
     .accesskey = ទ
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

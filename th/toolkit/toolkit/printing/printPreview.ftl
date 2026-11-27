@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = หน้าแบบเรียบง่าย
-    .accesskey = ร
     .tooltiptext = หน้านี้ไม่สามารถทำให้เรียบง่ายได้โดยอัตโนมัติ
+    .accesskey = ร
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = เปลี่ยนเค้าโครงเพื่อการอ่านที่ง่ายขึ้น
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = ปิด
     .accesskey = ด
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } จาก { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

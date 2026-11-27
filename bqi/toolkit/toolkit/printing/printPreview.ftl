@@ -4,8 +4,8 @@
 
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = آلشت تئر بندی سی خوندن آسووݩ تر
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-print =
     .label = چاپ…
     .accesskey = P

@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } ішіндегі ЖИ чат-боттары туралы
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Бет тым ұзын болғандықтан, бұл — оның мазмұнының бір бөлігі ғана.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Бетті қорытындылау

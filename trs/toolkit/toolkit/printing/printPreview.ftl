@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Nagi'iaj lij pâjina
-    .accesskey = i
     .tooltiptext = Na'ue nagi'iaj lij ma'an pajinâ nan ma'an
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Naduna da' ga'ue gahia hue'êt doj
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Narán
     .accesskey = C
@@ -38,11 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Ñanj:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

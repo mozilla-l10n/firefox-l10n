@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Wek potbuk obed ma yot
-    .accesskey = a
     .tooltiptext = Potbuk man pe twero bedo yot pire kene
+    .accesskey = a
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Lok kit ma tye kwede pi kwan mayot
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Lor
     .accesskey = L
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Pot buk:
     .accesskey = o
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Pot buk mukwongo

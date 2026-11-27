@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Moɲoo faalandi
-    .accesskey = i
     .tooltiptext = Moɲoo woo ši hin faalandi nga boŋ se
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Kanandoo barmay ka cawroo faalandi
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Daabu
     .accesskey = D
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Moo:
     .accesskey = M
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Moo jinaa

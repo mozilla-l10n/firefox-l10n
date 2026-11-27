@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Жаңарту
 stub-cleanup-reinstall-button = Қайта орнату
 stub-cleanup-checkbox-label = Тазалаңыз және жылдамдатыңыз. Әдепкі баптауларға қайтып, ескі қосымшаларды өшіріңіз.
 stub-installing-label = Қазір орнатылуда…
-stub-blurb-first = Ашық интернетте еркін шолуға дайындалыңыз
 stub-blurb-second = Жылдам. Қауіпсіз. Трекерлерді автоматты түрде блоктайды.
 stub-blurb-third = Бізбен бірге жақсырақ веб құруға атсалысқаныңыз үшін рахмет
 stub-blurb-first-devedition = Ашық интернет үшін әзірлеуге дайындалыңыз

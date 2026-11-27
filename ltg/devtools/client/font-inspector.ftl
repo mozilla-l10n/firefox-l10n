@@ -29,12 +29,3 @@ font-inspector-font-italic-label = Kursivs
 
 font-inspector-show-more = Rōdeit vaira
 font-inspector-show-less = Rōdeit mozōk
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

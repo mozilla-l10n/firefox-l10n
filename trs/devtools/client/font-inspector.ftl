@@ -39,9 +39,3 @@ font-inspector-all-fonts-on-page-header = Daran' fuentê nikāj pâjina
 font-inspector-fonts-used-label = Nej fuentê arâj sun'
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Dānaj guruguì' fuentê naguit
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

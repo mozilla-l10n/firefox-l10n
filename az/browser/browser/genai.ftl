@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } Sİ söhbət botları haqqında
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Səhifə uzun olduğu üçün bu, qismən xülasədir.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Səhifənin icmalını çıxart

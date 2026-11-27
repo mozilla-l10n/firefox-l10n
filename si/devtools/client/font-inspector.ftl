@@ -35,9 +35,3 @@ font-inspector-all-fonts-on-page-header = පිටුව මත සියළු
 font-inspector-fonts-used-label = භාවිත කළ රුවකුරු
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = රුවකුරේ පෙරදසුන පෙළ
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

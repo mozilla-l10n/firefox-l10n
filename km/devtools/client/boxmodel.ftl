@@ -13,10 +13,3 @@ boxmodel-title = គំរូ​ប្រអប់
 boxmodel-geometry-button-title = កែ​ទីតាំង
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = លក្ខណ​សម្បត្តិ​គំរូ​ប្រអប់
-
-## Accessible labels for the button that collapses or expands the list of
-## properties, depending on its current state.
-
-
-##
-

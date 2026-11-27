@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = განახლება
 stub-cleanup-reinstall-button = ხელახლა ჩადგმა
 stub-cleanup-checkbox-label = მოაწესრიგეთ და აასწრაფეთ. დააბრუნეთ ნაგულისხმევ პარამეტრებზე და წაშალეთ მოძველებული დამატებები.
 stub-installing-label = მიმდინარეობს დაყენება…
-stub-blurb-first = მოემზადეთ ღია ვებსივრცეში სამოგზაუროდ
 stub-blurb-second = სწრაფი. უსაფრთხო. ზღუდავს მეთვალყურეებს თავისთავად.
 stub-blurb-third = გმადლობთ, რომ ჩვენთან ერთად ცდილობთ გააუმჯობესოთ ვებსამყარო
 stub-blurb-first-devedition = მოემზადეთ ღია ვებსამყაროს შენებისთვის

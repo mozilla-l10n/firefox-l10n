@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = L'API de registre de la consola web (console.log, console.info, console.warn, console.error) ha estat inhabilitada per un script de la pàgina.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -168,9 +161,6 @@ webconsole-filter-button-chrome = Navegador
 # show or hide messages emitted by web content (websites).
 webconsole-filter-button-content = Contingut
 
-## Console Settings menu.
-
-
 ##
 
 webconsole-close-sidebar-button-tooltip = Tanca la barra lateral
@@ -195,12 +185,6 @@ webconsole-confirm-dialog-getter-invoke-button = Invoca ({ $shortcut })
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = Tanca ({ $shortcut })
 
-##
-
-
-## Displayed when the console fails to render a message.
-
-
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
@@ -213,6 +197,3 @@ webconsole-editor-toolbar-pretty-print-button-tooltip = Mostra l'expressió en u
 # Name of the Enter key, used in the editor onboarding and in the tooltip of
 # the “Run” button.
 webconsole-enter-key = Retorn
-
-## Labels of groups of similar warnings.
-

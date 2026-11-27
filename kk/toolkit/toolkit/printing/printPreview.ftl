@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Бетті ыңғайлату
-    .accesskey = ы
     .tooltiptext = Бұл бетті автоматты түрде ыңғайлату мүмкін емес
+    .accesskey = ы
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Жайманы оқуды оңайлату мақсатында өзгерту
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Жабу
     .accesskey = Ж
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum }, барлығы { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

@@ -45,9 +45,6 @@ credit-card-capture-never-save-payment-methods-button =
 credit-card-capture-never-save-button =
     .label = Nikoli ne shranjuj kartic
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Želite posodobiti to kartico?
 credit-card-update-doorhanger-description = Posodabljanje kartice:
 credit-card-capture-save-new-button =
@@ -118,13 +115,6 @@ credit-card-capture-update-payment-method-button =
 credit-card-capture-save-as-new-payment-method-button =
     .label = Shrani kot novo
     .accessKey = S
-
-## Used on the doorhanger when a saved card is submitted with a new or changed
-## security code.
-
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 

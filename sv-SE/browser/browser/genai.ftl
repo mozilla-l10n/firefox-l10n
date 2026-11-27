@@ -172,11 +172,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Om AI chatbots i { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Eftersom sidan är lång är detta en partiell sammanfattning.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Sammanfatta sida

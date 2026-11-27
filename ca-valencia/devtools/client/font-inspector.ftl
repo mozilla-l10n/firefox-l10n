@@ -32,12 +32,3 @@ font-inspector-line-height-label = Alçada de la línia
 
 font-inspector-show-more = Mostra'n més
 font-inspector-show-less = Mostra'n menys
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

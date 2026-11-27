@@ -36,9 +36,3 @@ font-inspector-show-less = По-малко
 font-inspector-all-fonts-on-page-header = Всички шрифтове на страницата
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Текст за преглед на шрифтове
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

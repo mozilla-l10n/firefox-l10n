@@ -26,12 +26,3 @@ font-inspector-line-height-label = सारिनि जौथाय
 
 font-inspector-show-more = गोबां दिन्थि
 font-inspector-show-less = इसेल' दिन्थि
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

@@ -34,9 +34,3 @@ font-inspector-show-less = کم دکھائیں
 font-inspector-all-fonts-on-page-header = صفحے پر تمام فونٹس
 # Label for the list of fonts used on the selected element.
 font-inspector-fonts-used-label = استعمال شدہ فونٹس
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

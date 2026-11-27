@@ -186,11 +186,6 @@ genai-options-about-chatbot =
            *[no-cases] O AI chatbotech v aplikaci { -brand-short-name }
         }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Vzhledem k tomu, že stránka je dlouhá, jedná se o částečné shrnutí.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Shrnutí stránky

@@ -123,11 +123,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Davart chatbots IA en { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Cunquai che la pagina è memia lunga, suonda ina resumaziun parziala.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Resumar la pagina

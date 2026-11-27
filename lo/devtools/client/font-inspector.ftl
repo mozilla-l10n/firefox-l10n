@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = ຕົວອັກສອນທັງ�
 font-inspector-fonts-used-label = ຟອນທີ່ໃຊ້ແລ້ວ
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = ຂໍ້ຄວາມຕົວຢ່າງຕົວອັກສອນ
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = Səhifədəki bütün şriftlər
 font-inspector-fonts-used-label = İşlədilmiş Şriftlər
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Şrift ön baxışı mətni
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

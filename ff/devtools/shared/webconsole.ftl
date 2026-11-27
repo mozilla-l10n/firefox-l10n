@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = Oo API logotooɗe Ginorde Geese (console.log, console.info, console.warn, console.error) won ciiftol jaytini ɗum e ngoo hello.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
@@ -155,9 +148,6 @@ webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Ɗaɓɓitanɗe
 
-## Console Settings menu.
-
-
 ##
 
 # Displayed when the inspected page navigates to a new location.
@@ -183,25 +173,3 @@ webconsole-reverse-search-results =
 webconsole-reverse-search-no-result = Alaa njeñtudi
 webconsole-reverse-search-previous-button-tooltip = Njeñtudi paandi ({ $shortcut })
 webconsole-reverse-search-next-button-tooltip = Njeñtundi paandi ({ $shortcut })
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = حدّث
 stub-cleanup-reinstall-button = أعِد التثبيت
 stub-cleanup-checkbox-label = نظف النظام وسرعه. ارجع إلى الإعدادات المبدئية واحذف الإضافات القديمة.
 stub-installing-label = يُنصّب الآن…
-stub-blurb-first = استعد للتجول في الإنترنت المفتوح
 stub-blurb-second = سريع. آمن. يحجب المتعقبات تلقائيًا.
 stub-blurb-third = شكرًا لكم على بناء شبكة وِب أفضل معنا
 stub-blurb-first-devedition = استعد لبناء لشبكة مفتوحة

@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = ساناکردنەوەی پەڕە
-    .accesskey = i
     .tooltiptext = پەڕە ناتوانرێت خۆکارانە سانا بکرێت
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = کڵێشەکە بۆ خوێندنەوەی ئاسانتر
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = داخستن
     .accesskey = C
@@ -38,11 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = پەڕە:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

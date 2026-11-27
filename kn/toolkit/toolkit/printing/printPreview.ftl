@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = ಪುಟವನ್ನು ಸುಲಭವಾಗಿಸಿ
-    .accesskey = i
     .tooltiptext = ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಈ ಪುಟವು ಸುಲಭವಾಗುವುದಿಲ್ಲ
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = ಸರಾಗವಾಗಿ ಓದುವುದಕ್ಕಾಗಿ ವಿನ್ಯಾಸವನ್ನು ಬದಲಾಯಿಸಿ
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = ಮುಚ್ಚು
     .accesskey = C
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = ಪುಟ:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = ಮೊದಲ ಪುಟ

@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Sahifani soddalashtirish
-    .accesskey = S
     .tooltiptext = Bu sahifani avtomatik ravishda soddalashtirib bo‘lmaydi
+    .accesskey = S
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Oson o‘qish uchun o‘zgartirilgan tartib
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Yopish
     .accesskey = Y
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Sahifa:
     .accesskey = S
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Birinchi sahifa

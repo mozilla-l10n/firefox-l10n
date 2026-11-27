@@ -67,9 +67,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Źěliś…
     .accesskey = l
-
-##
-
 urlbar-identity-button =
     .aria-label = Sedłowe informacije se woglědaś
 
@@ -786,11 +783,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pšašaś se
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -937,15 +929,6 @@ urlbar-result-dates-today = { $name } · Źinsa
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Skóńcyjo se źinsa
-
-## These strings are used for flight status suggestions in the urlbar.
-## The flight status suggestions shows the flight time, origin and destination
-## and the status like delayed, etc.
-
-
-## These strings are used for sports suggestions in the urlbar. Sports
-## suggestions show team names, scores, game times, etc.
-
 
 ## Strings used for buttons in the urlbar
 
@@ -1444,9 +1427,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1718,13 +1698,6 @@ file-picker-crashed-open = Datajowy dialog Windows jo spadnuł. Dataja abo zarě
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Datajowy dialog Windows jo spadnuł. Dataja buźo se do { $path } składowaś.
 file-picker-crashed-save-nowhere = Datajowy dialog Windows jo spadnuł. Standardny zarědnik njedajo se namakaś; dataja njebuźo se składowaś.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = W zarědniku pokazaś
     .accessKey = z
@@ -1808,9 +1781,6 @@ trustpanel-blocker-see-trackers-button = Pśeslědowaki pokazaś
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Slědowański šćit za { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1949,14 +1919,6 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> pśeslědowaki su se blokěrowali na toś tom sedle
        *[other] <span data-l10n-name="count">{ $count }</span> pśeslědowakow jo se blokěrowało na toś tom sedle
     }
-
-## Feature callout shown the first time the tracker count appears in the URL bar
-
-
-## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
-## Each one names a feature the user can turn off to check whether it causes
-## the site issue.
-
 
 ##  $count (String): the number of trackers blocked.
 

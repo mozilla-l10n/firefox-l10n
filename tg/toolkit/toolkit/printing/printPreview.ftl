@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Сода кардани саҳифа
-    .accesskey = С
     .tooltiptext = Ин саҳифа ба таври худкор сода карда намешавад
+    .accesskey = С
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Тарҳи намоишро барои хониши осон иваз намоед
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Пӯшидан
     .accesskey = П
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } аз { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

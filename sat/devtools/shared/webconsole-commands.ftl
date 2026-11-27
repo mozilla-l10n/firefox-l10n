@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# These strings are used inside the Web Console commands
-# which can be executed in the Developer Tools, available in the
-# Browser Tools sub-menu -> 'Web Developer Tools'
-
-
 ## Messages displayed as the result of Web Console commands.
 
 # Displayed when a string is copied to the clipboard with the copy() command,
@@ -28,7 +23,3 @@ webconsole-commands-blocked-url = URL ᱨᱮ ᱢᱮᱱᱟᱜ “{ $url }” ᱱ�
 webconsole-commands-unblocked-url = ᱟᱠᱚᱴ ᱪᱷᱟᱹᱱᱤ “{ $url }” ᱚᱪᱚᱜ ᱮᱱᱟ
 # Displayed when no filter is passed to the :block or :unblock commands.
 webconsole-commands-block-arg-missing = ᱪᱮᱫ ᱪᱷᱟᱹᱱᱤ ᱫᱚ ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱠᱟᱱᱟ
-
-## Messages displayed when the :trace command starts or stops the JavaScript
-## Tracer.
-

@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = பக்கத்தை எளிமையாக்கு
-    .accesskey = i
     .tooltiptext = இப்பக்கதை தானாக எளிதாக்க முடியாது
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = எளிதான வாசிப்பிற்கு அமைப்பை மாற்றவும்
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = மூடு
     .accesskey = C
@@ -38,11 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = பக்கம்:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

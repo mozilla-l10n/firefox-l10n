@@ -42,9 +42,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nunca guardar tarjetas
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = ¿Actualizar tarjeta?
 credit-card-update-doorhanger-description = Tarjeta a actualizar:
 credit-card-capture-save-new-button =
@@ -59,10 +56,6 @@ autofill-clear-form-label = Limpiar formulario autocompletado de formularios
 autofill-manage-addresses-label = Gestionar direcciones
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Administrar métodos de pago
-
-## The name of the security code printed on a payment card, as each card
-## network calls it.
-
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
@@ -92,20 +85,6 @@ credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
 ##     the credit-card-security-code-name-* strings (for example "CVV")
 
 credit-card-doorhanger-card-details-name-2 = <span data-l10n-name="name">{ $name }</span>
-
-## Used on the doorhanger when a saved card is submitted with changed details
-## and security codes can be saved.
-
-
-## Used on the doorhanger when a saved card is submitted with a new or changed
-## security code.
-
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

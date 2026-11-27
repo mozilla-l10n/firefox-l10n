@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Dèan an duilleag na simplidhe
-    .accesskey = i
     .tooltiptext = Cha ghabh an duilleag seo a dhèanamh nas simplidhe gu fèin-obrachail
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Cuir air gleus a’ cho-dhealbhachd ach am bi e nas fhasa ri leughadh
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Dùin
     .accesskey = D
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } à { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

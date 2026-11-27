@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = بسّط الصفحة
-    .accesskey = س
     .tooltiptext = تعذّر تبسيط هذه الصفحة تلقائيًا
+    .accesskey = س
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = غيّر الترتيب لتسهيل القراءة
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = أغلق
     .accesskey = غ
@@ -42,11 +42,6 @@ printpreview-page =
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
 printpreview-sheet-of-sheets = { $sheetNum } من { $sheetCount }
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }٪
 printpreview-homearrow =

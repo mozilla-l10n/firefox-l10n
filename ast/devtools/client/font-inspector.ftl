@@ -18,17 +18,8 @@ font-inspector-font-instance-label = Instancia
 
 font-inspector-font-size-label = Tamañu
 
-## Toggle displayed when the list of fonts used is too long to show in full.
-
-
 ##
 
 font-inspector-all-fonts-on-page-header = Toles fontes de la páxina
 # Label for the list of fonts used on the selected element.
 font-inspector-fonts-used-label = Fontes usaes
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

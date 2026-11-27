@@ -176,11 +176,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Par MI tērzēšanas robotiem { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = Tā kā lapa ir gara, šis ir daļējs kopsavilkums.
-
 ## Chatbot footer
 
 genai-page-button-summarize = Kopsavilkuma lapa

@@ -27,9 +27,6 @@ credit-card-capture-never-save-payment-methods-button =
 credit-card-capture-never-save-button =
     .label = Никога не запазвай карти
     .accessKey = Н
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Актуализиране на картата?
 credit-card-update-doorhanger-description = Карта за обновяване:
 credit-card-capture-save-new-button =
@@ -107,9 +104,6 @@ credit-card-save-security-code-doorhanger-header = Да се запази ли �
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = Да се запази ли този начин на плащане?
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -13,11 +13,6 @@ printpreview-print =
 printpreview-page-setup =
     .label = Page Setup…
     .accesskey = u
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-nextarrow =
     .label = { $arrow }
     .tooltiptext = Agtarus a panid

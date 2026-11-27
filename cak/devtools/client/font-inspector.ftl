@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = Ronojel tz'ib pa ruxaq
 font-inspector-fonts-used-label = Tz'ib' Okisan
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Nab'ey rutz'etik rutz'ib'anik tz'ib'
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

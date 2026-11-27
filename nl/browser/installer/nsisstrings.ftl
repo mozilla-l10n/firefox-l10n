@@ -22,7 +22,6 @@ stub-cleanup-paveover-button = Bijwerken
 stub-cleanup-reinstall-button = Opnieuw installeren
 stub-cleanup-checkbox-label = Ruim op en versnel uw browser. Ga terug naar uw standaardinstellingen en verwijder oude add-ons.
 stub-installing-label = Nu installeren…
-stub-blurb-first = Maak u klaar om op het open web te zwerven
 stub-blurb-second = Snel. Veilig. Blokkeert trackers automatisch.
 stub-blurb-third = Bedankt dat u samen met ons een beter web bouwt
 stub-blurb-first-devedition = Maak u klaar om te bouwen voor het open web

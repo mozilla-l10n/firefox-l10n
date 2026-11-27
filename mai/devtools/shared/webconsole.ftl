@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = वेब कंसोलक लागिंग API (console.log, console.info, console.warn, console.error) केँ ई पन्ना पर एकटा स्क्रिप्टक द्वारा निष्क्रिय कए देल गेल अछि.
 # Link displayed after some messages (e.g. security related messages), pointing
 # to documentation.
@@ -31,12 +24,6 @@ webconsole-stacktrace-anonymous-function = <anonymous>
 # Variables:
 #   $cause (String) - The cause of the async call (e.g. "setTimeout handler").
 webconsole-stacktrace-async-stack = (Async: { $cause })
-
-## Results of console.timeLog() and console.timeEnd().
-## Variables:
-##   $name (String) - Name of the timer.
-##   $duration (String) - Elapsed time in milliseconds.
-
 
 ## Results and errors of other console API calls.
 ## Variables:
@@ -79,54 +66,8 @@ webconsole-table-iteration-index = (iteration सूची)
 webconsole-table-key = कुँजी
 webconsole-table-value = मान
 
-## Tooltips of the icons displayed next to messages.
-
-
-## Keyboard shortcuts. Modifier names (Cmd, Ctrl, CmdOrCtrl, Shift) must not
-## be translated.
-
-
-## Context menu items.
-
-
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 webconsole-filter-button-errors = त्रुटि
 webconsole-filter-button-warnings = चेतावनी
 webconsole-filter-button-css = CSS
-
-## Console Settings menu.
-
-
-##
-
-
-## Reverse search UI, used to search the command history.
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

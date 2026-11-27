@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = ແກ້ໄຂຫນ້ານີ້ໃຫ້ງ່າຍ
-    .accesskey = i
     .tooltiptext = ບໍ່ສາມາດແກ້ໄຂຫນ້ານີ້ໃຫ້ງ່າຍໄດ້ແບບອັດຕະໂນມັດ
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = ປ່ຽນແປງຮູບແບບເພື່ອເຮັດໃຫ້ອ່ານໄດ້ງ່າຍຂື້ນ
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = ປິດ
     .accesskey = C
@@ -37,11 +37,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = ຫນ້າ:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = ຫນ້າທຳອິດ

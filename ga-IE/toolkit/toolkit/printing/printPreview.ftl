@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Simpligh an Leathanach
-    .accesskey = i
     .tooltiptext = Ní féidir an leathanach seo a shimpliú go huathoibríoch
+    .accesskey = i
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Athraigh an leagan amach le léamh an leathanaigh a éascú
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
 printpreview-close =
     .label = Dún
     .accesskey = D
@@ -38,11 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Leathanach:
     .accesskey = a
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =

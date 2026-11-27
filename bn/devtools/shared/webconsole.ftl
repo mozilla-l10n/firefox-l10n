@@ -295,6 +295,3 @@ webconsole-input-open-javascript-file-filter = জাভাস্ক্রিপ
 # context selector.
 webconsole-input-selector-top = উপরে
 webconsole-input-selector-tooltip = মূল্যায়নের প্রসঙ্গ নির্বাচন করুন
-
-## Labels of groups of similar warnings.
-

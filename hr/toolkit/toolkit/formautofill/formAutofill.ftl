@@ -37,9 +37,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nikad ne spremaj kartice
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Aktualizirati kreditnu karticu?
 credit-card-update-doorhanger-description = Kreditna kartica za aktualiziranje:
 credit-card-capture-save-new-button =
@@ -128,9 +125,6 @@ credit-card-save-payment-method-doorhanger-header = Spremiti ovaj način plaćan
 credit-card-capture-dismiss-button =
     .label = Odbaci
     .accessKey = O
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
 # The toggle turns saving security codes on and off. The label stays the same
 # in both states.
 credit-card-doorhanger-always-save-security-codes-toggle =

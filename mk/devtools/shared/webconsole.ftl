@@ -11,13 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-
-##
-
 webconsole-console-api-disabled = API-то за логирање во мрежната конзолата (console.log, console.info, console.warn, console.error) е исклучено од скрипта на оваа страница.
 # Link displayed after some messages (e.g. security related messages), pointing
 # to documentation.
@@ -28,26 +21,11 @@ webconsole-learn-more = Дознајте повеќе
 # Used for JavaScript functions without a name.
 webconsole-stacktrace-anonymous-function = <anonymous>
 
-## Results of console.timeLog() and console.timeEnd().
-## Variables:
-##   $name (String) - Name of the timer.
-##   $duration (String) - Elapsed time in milliseconds.
-
-
 ## Results and errors of other console API calls.
 ## Variables:
 ##   $name (String) - Name of the timer or counter.
 
 webconsole-max-timers-exceeded = The maximum allowed number of timers in this page was exceeded.
-
-##
-
-
-## Warning shown when a user pastes code in the console for the first time.
-
-
-##
-
 
 ## Column headers of the table displayed by console.table().
 
@@ -58,51 +36,13 @@ webconsole-table-value = Вредности
 webconsole-level-error = Грешка
 webconsole-level-warn = Предупредување
 
-## Keyboard shortcuts. Modifier names (Cmd, Ctrl, CmdOrCtrl, Shift) must not
-## be translated.
-
-
-## Context menu items.
-
-
-## Toolbar at the top of the console.
-
-
 ## Filter buttons, used to show or hide each category of messages.
 
 # Requests made with XMLHttpRequest or fetch().
 webconsole-filter-button-xhr = XHR
-
-## Console Settings menu.
-
-
-##
-
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
 webconsole-reverse-search-no-result = Нема резултати
-
-## Dialog displayed when the user tries to autocomplete a property with a
-## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
-## the dialog.
-
-
-##
-
-
-## Displayed when the console fails to render a message.
-
-
-## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
-## Variables:
-##   $shortcut (String) - Keyboard shortcut for the action.
-
-
-## Console input.
-
-
-## Labels of groups of similar warnings.
-

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# These strings are used inside the Web Console commands
-# which can be executed in the Developer Tools, available in the
-# Browser Tools sub-menu -> 'Web Developer Tools'
-
 # Usage string for :block command
 webconsole-commands-usage-block =
     :block URL_STRING
@@ -31,7 +26,3 @@ webconsole-commands-usage-unblock =
 webconsole-commands-unblocked-url = أُزيل عامل التصفية “{ $url }”
 # Displayed when no filter is passed to the :block or :unblock commands.
 webconsole-commands-block-arg-missing = لم يحدّد أي تصفية
-
-## Messages displayed when the :trace command starts or stops the JavaScript
-## Tracer.
-

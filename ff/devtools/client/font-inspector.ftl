@@ -39,9 +39,3 @@ font-inspector-all-fonts-on-page-header = Ponte hello ngoo fof
 font-inspector-fonts-used-label = Ponte Kuutoraaɗe
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Binndi cooyngal pontal
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

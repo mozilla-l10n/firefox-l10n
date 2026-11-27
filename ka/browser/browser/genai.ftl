@@ -174,11 +174,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = გაეცნით, რომელ AI-თანამოსაბრეს გთავაზობთ { -brand-short-name }
 
-## Chatbot message
-
-genai-page-warning =
-    .message = ვინაიდან ვრცელი გვერდია, შეჯამება ნაწილობრივია.
-
 ## Chatbot footer
 
 genai-page-button-summarize = გვერდის შეჯამება

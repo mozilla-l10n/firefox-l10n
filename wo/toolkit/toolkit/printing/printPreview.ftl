@@ -29,11 +29,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Xët:
     .accesskey = X
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Xët bi jëkk

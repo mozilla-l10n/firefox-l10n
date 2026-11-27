@@ -40,9 +40,3 @@ font-inspector-all-fonts-on-page-header = ᱥᱟᱦᱴᱟ ᱨᱮ ᱡᱷᱚᱛᱚ
 font-inspector-fonts-used-label = ᱵᱮᱵᱷᱟᱨ ᱠᱟᱱ ᱪᱤᱠᱤ
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = ᱪᱤᱠᱤ ᱧᱮᱞᱵᱤᱲᱟᱹᱣ ᱚᱞ
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-

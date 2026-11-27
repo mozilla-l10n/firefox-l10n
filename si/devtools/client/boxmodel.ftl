@@ -15,6 +15,3 @@ boxmodel-geometry-button-title = පිහිටීම සකසන්න
 
 boxmodel-properties-hide-label = සඟවන්න
 boxmodel-properties-show-label = පෙන්වන්න
-
-##
-

@@ -20,12 +20,3 @@ font-inspector-font-size-label = Size
 
 font-inspector-show-more = Kythe mair
 font-inspector-show-less = Kythe less
-
-##
-
-
-## Labels for font metadata, displayed in the "All Fonts on Page" section.
-
-
-##
-
