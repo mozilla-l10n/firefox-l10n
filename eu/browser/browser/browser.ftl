@@ -1392,6 +1392,9 @@ menu-share-copy-links =
            *[other] Kopiatu { $count } lotura
         }
     .accesskey = l
+menu-share-windows2 =
+    .label = Aukera gehiago
+    .accesskey = A
 ui-tour-info-panel-close =
     .tooltiptext = Itxi
 
