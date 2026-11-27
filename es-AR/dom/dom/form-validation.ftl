@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Seleccione un valor válido. Los dos valores
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Seleccione un valor válido. El valor más cercano es { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Seleccione un valor entre { $minimum } y { $maximum }.
+dom-form-validation-bad-input-number = Ingrese un número.
