@@ -7,6 +7,10 @@
 
 dom-get-element-by-id-empty-param = getElementById() ને ખાલી શબ્દમાળા પસાર કરવામાં આવી.
 dom-document-write-ignored = અનામિક રીતે લોડ થયેલ બહારની સ્ક્રિપ્ટમાંથી document.write() નો કોલ અવગણેલ હતો.
+# Do not translate "entryTypes".
+# Variables:
+#   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
+dom-performance-observer-unsupported-entry-types = અસમર્થિત entryTypes અવગણો: { $entryTypes }.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
