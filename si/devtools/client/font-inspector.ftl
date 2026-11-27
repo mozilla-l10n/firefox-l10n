@@ -17,6 +17,8 @@ font-inspector-custom-instance-name = අභිරුචි
 
 font-inspector-font-size-label = ප්‍රමාණය
 font-inspector-font-italic-label = ඇල
+font-inspector-letter-spacing-label = හිස්තැන
+font-inspector-line-height-label = රේඛාවේ උස
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -25,6 +27,11 @@ font-inspector-show-less = අඩුවෙන් පෙන්වන්න
 
 ##
 
+font-inspector-all-fonts-on-page-header = පිටුව මත සියළුම රුවකුරු
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = භාවිත කළ රුවකුරු
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = රුවකුරේ පෙරදසුන පෙළ
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
