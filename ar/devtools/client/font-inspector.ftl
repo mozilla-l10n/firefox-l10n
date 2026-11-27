@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = خط نظام
 font-inspector-no-fonts-used = لم تُستخدم أي خطوط في العنصر الحالي.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = انسخ المسار
@@ -43,3 +46,5 @@ font-inspector-preview-text-placeholder = نص معاينة الخط
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = وسّع
