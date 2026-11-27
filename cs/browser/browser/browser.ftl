@@ -1483,6 +1483,9 @@ menu-share-copy-links =
            *[other] Zkopírovat { $count } odkazů
         }
     .accesskey = o
+menu-share-windows2 =
+    .label = Další možnosti
+    .accesskey = D
 ui-tour-info-panel-close =
     .tooltiptext = Zavřít
 
