@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = 请选择一个有效的值，最接近的�
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = 请选择一个有效的值。最接近的有效值是 { $value }。
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = 请选择 { $minimum } 到 { $maximum } 之间的值。
+dom-form-validation-bad-input-number = 请输入一组数字。
