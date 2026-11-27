@@ -413,3 +413,68 @@ smartwindow-onboarding-default-window =
     .label = Kezdés { -smart-window-brand-name(case: "lower") }ban
 smartwindow-onboarding-save =
     .label = Mentés és továbblépés
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Kitöltés forrásokból
+ai-smart-form-fill-autocomplete-loading = Betöltés
+ai-smart-form-fill-autocomplete-sources-label = Kitöltés forrásokból
+ai-smart-form-fill-autocomplete-choose-tabs = Nyissa meg, vagy válasszon az űrlaphoz kapcsolódó oldalakat, hogy automatikus kitöltési javaslatokat kapjon
+ai-smart-form-fill-autocomplete-open-tabs = Nyisson meg az űrlaphoz kapcsolódó oldalakat, hogy automatikus kitöltési javaslatokat kapjon
+ai-smart-form-fill-close-review-button =
+    .label = Bezárás
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } lap
+       *[other] { $tabs } lap
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Források szerkesztése
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Források szerkesztése
+ai-smart-form-fill-suggested-tabs-heading = Javasolt lapok
+ai-smart-form-fill-other-tabs-heading = Más lapok
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Lapkiválasztás be/ki ehhez: „{ $tabTitle }”
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Mégse
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Kész
+ai-smart-form-fill-fill-form-button =
+    .label = Űrlap kitöltése
+ai-smart-form-fill-review-heading = Javaslatok áttekintése
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] { $count } mezőhöz található javaslat. Szerkesszen vagy töröljön bármit, ami nem helyes.
+       *[other] { $count } mezőhöz található javaslat. Szerkesszen vagy töröljön bármit, ami nem helyes.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Mező
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Ugrás a javaslatok végére
+    .tooltiptext = Ugrás a végére
+ai-smart-form-fill-cancel-review-button =
+    .label = Mégse
+ai-smart-form-fill-finding-suggestions = Javaslatok keresése
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Javaslatok keresésének leállítása
+ai-smart-form-fill-success-heading = Javaslatok hozzáadva az űrlaphoz
+ai-smart-form-fill-success-description = Tekintse át az űrlapot, és töltse ki a fennmaradó mezőket beküldés előtt.
+ai-smart-form-fill-no-changes-heading = Semmi sem lett hozzáadva az űrlaphoz
+ai-smart-form-fill-no-suggestions-heading = Nincs javaslat
+ai-smart-form-fill-try-again-button =
+    .label = Próbálja újra

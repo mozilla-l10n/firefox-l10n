@@ -416,3 +416,17 @@ smartwindow-onboarding-memories-chats-description = Chaty ve funkci { -smart-win
 smartwindow-onboarding-memories-none-description = Budete dostávat méně přizpůsobených návrhů a možná budete muset stejné informace v různých chatech opakovat.
 smartwindow-onboarding-save =
     .label = Uložit a pokračovat
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Vyplnit ze zdrojů
+ai-smart-form-fill-autocomplete-loading = Načítání
+ai-smart-form-fill-autocomplete-sources-label = Vyplnit ze zdrojů
+ai-smart-form-fill-autocomplete-choose-tabs = Chcete-li získat návrhy pro automatické vyplňování, otevřete nebo vyberte stránky související s tímto formulářem
+ai-smart-form-fill-autocomplete-open-tabs = Otevřete stránky související s tímto formulářem a získejte návrhy pro automatické vyplňování
+ai-smart-form-fill-close-review-button =
+    .label = Zavřít
