@@ -5,7 +5,10 @@
 
 ## Unresponsive script dialog
 
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = Больше &не задавать этот вопрос
 dom-slow-script-dialog-stop-button = Остановить скрипт
+dom-slow-script-dialog-continue-button = Продолжить
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
