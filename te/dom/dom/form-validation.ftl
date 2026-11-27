@@ -10,6 +10,15 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = దయచేసి ఈ ఖాళీని పూరించండి.
+dom-form-validation-checkbox-missing = మీరు కొనసాగవలెనంటే ఈ పెట్టెను చెక్ చేయుము.
+dom-form-validation-radio-missing = దయచేసి ఈ ఎంపికలలో ఒక దానిని యెంపికచేయి.
+dom-form-validation-file-missing = దయచేసి ఒక పైలును యెంపికచేయి.
+dom-form-validation-select-missing = దయచేసి జాబితా నందలి అంశమును యెంపికచేయి.
+dom-form-validation-invalid-email = దయచేసి ఒక ఈమెయిలు చిరునామా ఇవ్వండి.
+dom-form-validation-invalid-url = దయచేసి ఒక URL ఇవ్వండి.
+dom-form-validation-invalid-date = దయచేసి సరైన తేదీ ఇవ్వండి.
+dom-form-validation-pattern-mismatch = దయచేసి అడిగిన ఫార్మాటులో ఇవ్వండి.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = అభ్యర్థించిన ఆకృతితో సరిపోల్చు: { $title }.
