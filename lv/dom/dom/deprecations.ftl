@@ -9,6 +9,14 @@
 ## preferences to web pages: pass numbers as strings, unless they're only used
 ## to select a plural form, and don't use NUMBER() or DATETIME().
 
+# Do not translate "captureEvents()" or "addEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-capture-events = captureEvents() izmantošana ir novecojusi. Lai jauninātu savu kodu, jāizmanto DOM 2 addEventListener() metode. Vairāk var uzzināt { $url }
+# Do not translate "releaseEvents()" or "removeEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-release-events = releaseEvents() izmantošana ir novecojusi. Lai jauninātu savu kodu, jāizmanto DOM 2 removeEventListener() metode. Vairāk var uzzināt { $url }
 # Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
 dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() vairs netiek atbalstīts. Tā vietā izmantojiet IDBObjectStore.getAll().
 # Do not translate "accent" and "mo" (the name of a MathML element).
