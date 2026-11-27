@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = { -brand-full-name } පිළිබඳව
+    .title = { -brand-full-name } පිළිබඳ
 releaseNotes-link = අළුත් දෑ
 update-checkForUpdatesButton =
     .label = යාවත්කාල පරීක්‍ෂා කරන්න

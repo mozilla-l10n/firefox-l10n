@@ -55,3 +55,7 @@ about-private-browsing-pin-promo-title = සුරකින ලද දත්ත�
 ## Strings used in a promotion message for cookie banner reduction
 
 about-private-browsing-cookie-banners-promo-body = අපි දැන් බොහෝ දත්තකඩ පතාක ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කරන්නෙමු, එවිට ඔබව අවම ලුහුබැඳීමකට පමණක් ලක්වන අතර අවධානය වෙනතකට නොයවා පිරික්සීමට හැකිය.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = තව දැනගන්න

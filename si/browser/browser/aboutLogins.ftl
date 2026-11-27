@@ -188,6 +188,18 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [1] ඔව්, මුරපදය ඉවත් කරන්න
        *[other] Yes, remove passwords
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] සියලු මුරපද { $count } ඉවත් කරන්නද?
+       *[other] සියලු මුරපද { $count } ඉවත් කරන්නද?
+    }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] මුරපද { $count } මකන්නද?
+       *[other] මුරපද { $count } මකන්නද?
+    }
 
 ##
 
