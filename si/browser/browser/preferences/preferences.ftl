@@ -371,6 +371,13 @@ update-application-version = අනුවාදය { $version } <a data-l10n-nam
 update-history-2 =
     .label = යාවත්කාල ඉතිහාසය පෙන්වන්න
     .accesskey = p
+update-application-installation =
+    .label = ස්ථාපනය
+update-application-radio-group =
+    .aria-label = ස්ථාපනය
+update-application-auto-2 =
+    .label = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය (නිර්දේශිතයි)
+    .accesskey = A
 update-application-background-enabled =
     .label = { -brand-short-name } ධාවනය නොවන විට
     .accesskey = W
@@ -391,6 +398,11 @@ update-in-progress-ok-button = &ඉවතලන්න
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } පිළිබඳ
 
 ## Firefox updates
 
@@ -450,9 +462,13 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = ඔබ ලිවීමට පටන් ගත් විට පෙළ සඳහා සොයන්න
     .accesskey = x
+settings-media-group =
+    .label = මාධ්‍ය
 browsing-media-control =
     .label = යතුරුපුවරුව, ඉස්බණුව හෝ අතථ්‍ය අතුරුමුහුණත හරහා මාධ්‍ය පාලනය
     .accesskey = v
+recommendations-group =
+    .label = නිර්දේශ
 browsing-cfr-recommendations =
     .label = ඔබ පිරික්සන දෑ සඳහා දිගු නිර්දේශ කරන්න
     .accesskey = R
@@ -461,6 +477,13 @@ browsing-cfr-features =
     .accesskey = f
 browsing-group =
     .label = පිරික්සීම
+preferences-accessibility-header =
+    .heading = ප්‍රවේශ්‍යතාව
+preferences-default-zoom-select =
+    .aria-label = පෙරනිමි විශාලනය
+preferences-fonts-family =
+    .label = රුවකුරු පවුල
+    .accesskey = D
 
 ## Home Section
 
@@ -471,6 +494,12 @@ home-section =
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = පෙරනිමි අතිරික්සුව
+is-default-browser-2 =
+    .message = { -brand-short-name } පෙරනිමි අතිරික්සුවයි. යහපත් තේරීමක්.
+is-not-default-browser-2 =
+    .message = { -brand-short-name } පෙරනිමි අතිරික්සුව නොවේ.
 set-as-my-default-browser-2 =
     .label = පෙරනිමි කරන්න
     .accesskey = D
@@ -490,6 +519,9 @@ home-mode-choice-blank =
     .label = හිස් පිටුව
 home-homepage-custom-url =
     .placeholder = ඒ.ස.නි. අලවන්න...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = දිගුව කළමනාකරණය
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -504,11 +536,18 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+home-homepage-title =
+    .label = මුල් පිටුව
+home-homepage-new-windows =
+    .label = නව කවුළු
 home-homepage-new-tabs =
     .label = නව පටිති
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = නිශ්චිත අඩවියක් තෝරන්න
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = අඩවි ලිපින(ය)
 home-custom-homepage-list =
     .aria-label = අඩවි ලිපින
 home-custom-homepage-address =
