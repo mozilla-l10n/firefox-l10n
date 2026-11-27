@@ -10,6 +10,12 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Emplenescha per plaschair quest champ.
+dom-form-validation-checkbox-missing = Activescha questa chaschetta da controlla per cuntinuar.
+dom-form-validation-radio-missing = Tscherna per plaschair ina da questas opziuns.
+dom-form-validation-file-missing = Tscherna per plaschair ina datoteca.
+dom-form-validation-select-missing = Tscherna per plaschair in element da la glista.
+dom-form-validation-invalid-email = Endatescha per plaschair ina adressa dad e-mail.
 dom-form-validation-invalid-url = Endatescha per plaschair in URL.
 dom-form-validation-invalid-date = Endatescha per plaschair ina data valaivla.
 dom-form-validation-invalid-time = Endatescha per plaschair in temp valid.
