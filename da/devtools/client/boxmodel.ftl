@@ -15,3 +15,8 @@ boxmodel-properties-label = Egenskaber for boks-model
 
 ##
 
+# Short label displayed next to the position property of a positioned element,
+# in front of the DOM node that is its offset parent.
+boxmodel-offset-parent = offset
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Offset overordnet for det valgte element
