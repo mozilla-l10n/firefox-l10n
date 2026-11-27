@@ -8,6 +8,9 @@
 
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Copiar URL
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = Personalizado
 
 ## Labels for the font editor controls
 
