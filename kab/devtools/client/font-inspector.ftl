@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = Ulac tisefsiyin ittuseqdacen deg uferdis-agi amiran.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Nɣel URL
 # An "instance" is the term used by font authors for a named group of
@@ -21,6 +22,7 @@ font-inspector-custom-instance-name = Sagen
 font-inspector-font-size-label = Teɣzi
 font-inspector-font-weight-label = Taẓayt
 font-inspector-font-italic-label = Uknan
+font-inspector-line-height-label = Teɣzi n izirig
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
