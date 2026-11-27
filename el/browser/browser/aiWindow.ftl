@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Πρόσφατες συνομιλίες
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Νέα καρτέλα
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Άνοιγμα σε νέο { -smart-window-brand-name(form: "lowerSingularNom") }
+    .accesskey = σ
 
 ## Smart Window Toggle Button
 
@@ -410,3 +413,39 @@ smartwindow-onboarding-default-window =
     .label = Έναρξη στο { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Αποθήκευση και μετάβαση
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Συμπλήρωση από πηγές
+ai-smart-form-fill-autocomplete-loading = Φόρτωση
+ai-smart-form-fill-autocomplete-sources-label = Συμπλήρωση από πηγές
+ai-smart-form-fill-close-review-button =
+    .label = Κλείσιμο
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } καρτέλα
+       *[other] { $tabs } καρτέλες
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Επεξεργασία πηγών
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Επεξεργασία πηγών
+ai-smart-form-fill-suggested-tabs-heading = Προτεινόμενες καρτέλες
+ai-smart-form-fill-other-tabs-heading = Άλλες καρτέλες
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Ακύρωση
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Τέλος
+ai-smart-form-fill-fill-form-button =
+    .label = Συμπλήρωση φόρμας
+ai-smart-form-fill-review-heading = Έλεγχος προτάσεων
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Πεδίο

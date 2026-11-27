@@ -9,9 +9,8 @@
 # Displayed in place of the font URL when the font is installed locally on the
 # system.
 font-inspector-system = سیستم
-font-inspector-no-fonts-used = هیچ فونتی برای عنصر فعلی استفاده نشده است.
 # Tooltip for the button that copies the font URL to the clipboard.
-font-inspector-copy-url-title = رونوشت از URL
+font-inspector-copy-url-title = رونوشت از نشانی
 # An "instance" is the term used by font authors for a named group of
 # predefined font settings, similar to a preset. This is the label of the
 # dropdown used to select one.
@@ -33,17 +32,8 @@ font-inspector-line-height-label = ارتفاع خط
 font-inspector-show-more = نمایش بیشتر
 font-inspector-show-less = نمایش کمتر
 
-##
-
-font-inspector-all-fonts-on-page-header = تمام فونت‌های در صفحه
-# Label for the list of fonts used on the selected element.
-font-inspector-fonts-used-label = فونت‌های استفاده شده
-# Placeholder for the input used to type custom text to preview fonts with.
-font-inspector-preview-text-placeholder = فونت متن پیش‌نمایش
-
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
-font-inspector-font-version = نسخه:
 font-inspector-font-designer = طراح:
 font-inspector-font-manufacturer = سازنده:
 font-inspector-font-vendor = فروشنده:

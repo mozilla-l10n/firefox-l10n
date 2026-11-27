@@ -36,9 +36,6 @@ changes-context-menu-copy =
 # Copies the complete contents of the CSS rule.
 changes-context-menu-copy-rule =
     .label = رونوشت قوانین
-# Copies the single CSS declaration that was right-clicked.
-changes-context-menu-copy-declaration =
-    .label = کپی اعلان
 changes-context-menu-select-all =
     .label = انتخاب همه
     .accesskey = A
