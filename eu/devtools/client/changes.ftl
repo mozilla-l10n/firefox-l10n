@@ -9,9 +9,20 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Ez da aldaketarik aurkitu.
+changes-no-changes-description = CSSri ikuskatzailean egindako aldaketak hemen agertuko dira.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Barnean
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Elementua
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = Kopiatu aldaketa guztiak
 changes-copy-all-changes-button-title = Kopiatu arbelera CSS aldaketen zerrenda.
 changes-copy-rule-button = Kopiatu erregela
