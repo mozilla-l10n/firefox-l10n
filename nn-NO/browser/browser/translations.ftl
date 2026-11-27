@@ -24,6 +24,9 @@ urlbar-translations-button-loading =
     .tooltiptext = Omsetjing i framdrift
 translations-panel-settings-button =
     .aria-label = Handsam omsettingsinnstillingar
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Omset denne sida
 
 ## Options in the Firefox Translations settings.
 

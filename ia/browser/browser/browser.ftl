@@ -1812,6 +1812,13 @@ trustpanel-clear-cookies-description-redesign = Tu sera disconnectite del sitos.
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Protectiones de connexion pro { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Informationes de connexion pro { $host }
+trustpanel-connection-secure = Le connexion de iste sito es secur.
+trustpanel-connection-not-secure = Le connexion de iste sito non es secur.
+trustpanel-connection-not-secure-description = Evitar de inserer info como contrasignos o cartas de credito pro adjutar a proteger los de esser robate.
 trustpanel-siteinformation-morelink = Plus de informationes del sito
 trustpanel-blocker-see-all = Vider toto
 trustpanel-blocker-see-trackers-button = Vider traciatores
@@ -1831,7 +1838,15 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] { $count } traciator blocate.
        *[other] { $count } traciatores blocate.
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] { $count } traciator blocate in iste sito
+       *[other] { $count } traciatores blocate in iste sito
+    }
 urlbar-trust-icon-no-trackers-found-tooltip = Necun traciator trovate in iste sito
+urlbar-trust-icon-tracking-protection-off-tooltip = Le protection antitraciamento es disactivate pro iste sito
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1842,6 +1857,14 @@ trustpanel-tracking-header = { -brand-product-name } permitteva iste cosas assi 
 trustpanel-tracking-description = Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.
 trustpanel-insecure-section-header = Tu connexion non es secur
 trustpanel-insecure-description = Le datos que tu invia a iste sito non es cryptate. Illos poterea esser vidite, robate, o alterate.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Sito non functionante? Tenta iste passos.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Disactiva los pro vider si isto repara le problema:
 trustpanel-report-broken-site-button = Reportar sito corrupte
 trustpanel-list-label-tracking-cookies =
     { $count ->

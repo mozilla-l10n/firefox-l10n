@@ -1851,6 +1851,14 @@ trustpanel-blocker-section-header2 =
        *[other] <span data-l10n-name="count">{ $count }</span> sporarar blokkerte på denne nettstaden
     }
 
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Utvidingar
+trustpanel-site-issue-step-vpn = Innebygd VPN
+trustpanel-site-issue-step-etp = Utvida sporingsvern
+
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.

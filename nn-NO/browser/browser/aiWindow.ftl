@@ -380,3 +380,36 @@ smartwindow-onboarding-model-recommended = Tilrådd
 smartwindow-onboarding-memories-chats = Berre chattar
 smartwindow-onboarding-save =
     .label = Lagre og hald fram
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+ai-smart-form-fill-autocomplete-loading = Lastar
+ai-smart-form-fill-close-review-button =
+    .label = Lat att
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } fane
+       *[other] { $tabs } faner
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Rediger kjelder
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Rediger kjelder
+ai-smart-form-fill-suggested-tabs-heading = Føreslåtte faner
+ai-smart-form-fill-other-tabs-heading = Andre faner
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Avbryt
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Ferdig
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Felt
+ai-smart-form-fill-cancel-review-button =
+    .label = Avbryt
+ai-smart-form-fill-try-again-button =
+    .label = Prøv igjen

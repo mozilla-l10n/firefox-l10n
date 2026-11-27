@@ -32,6 +32,11 @@ permissions-button-off-temporarily =
     .accesskey = k
 permissions-site-name =
     .label = Nettside
+# Header of the column showing the container (also known as container tab or
+# contextual identity, e.g. "Personal" or "Work") a website permission
+# applies to. The column is only shown if any permission is set in any container.
+permissions-container =
+    .label = Behaldar
 permissions-status =
     .label = Status
 permissions-remove =
