@@ -33,3 +33,8 @@ dom-form-validation-step-mismatch = ਠੀਕ ਮੁੱਲ ਨੂੰ ਚੁਣ�
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = ਠੀਕ ਮੁੱਲ ਚੁਣੋ ਜੀ। ਸਭ ਤੋਂ ਨੇੜਲਾ ਮੁੱਲ { $value } ਹੈ।
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = { $minimum } ਅਤੇ { $maximum } ਦੇ ਵਿਚਾਲੇ ਮੁੱਲ ਚੁਣੋ।
+dom-form-validation-bad-input-number = ਅੰਕ ਦਿਉ ਜੀ।
