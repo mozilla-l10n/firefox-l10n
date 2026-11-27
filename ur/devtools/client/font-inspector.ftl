@@ -17,12 +17,19 @@ font-inspector-custom-instance-name = مخصوص
 font-inspector-font-size-label = ماپ
 font-inspector-font-weight-label = وزن
 font-inspector-font-italic-label = اٹالک
+font-inspector-letter-spacing-label = وقفہ کاری
+font-inspector-line-height-label = لکیر کی اونچائی
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = مزید دکھائیں
+font-inspector-show-less = کم دکھائیں
 
 ##
 
+font-inspector-all-fonts-on-page-header = صفحے پر تمام فونٹس
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = استعمال شدہ فونٹس
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
