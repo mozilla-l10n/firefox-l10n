@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Prazan string proslijeđen funkciji getElementById().
+dom-document-write-ignored = Poziv na document.write() od asinhrono-učitane eksterne skripte je ignorisan.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Neuravnoteženo stablo je napisano korištenjem document.write() funkcije, što je uzrokovalo ponovno raščlanjivanje podataka s mreže. Više informacija: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
