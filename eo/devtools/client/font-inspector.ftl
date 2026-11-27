@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = Neniu tiparo estas uzita en la nuna elemento.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopii retadreson
 # An "instance" is the term used by font authors for a named group of
@@ -21,6 +22,7 @@ font-inspector-custom-instance-name = Personecigita
 font-inspector-font-size-label = Grando
 font-inspector-font-weight-label = Dikeco
 font-inspector-font-italic-label = Kursiva
+font-inspector-letter-spacing-label = Spaco
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -29,6 +31,11 @@ font-inspector-show-less = Montri malpli
 
 ##
 
+font-inspector-all-fonts-on-page-header = Ĉiuj tiparoj en la paĝo
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Tiparoj uzitaj
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Teksto por antaŭvido de tiparo
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
