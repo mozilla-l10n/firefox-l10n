@@ -5,6 +5,12 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+# Do not translate "entryTypes".
+# Variables:
+#   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
+dom-performance-observer-unsupported-entry-types = 지원하지 않는 entryTypes 무시: { $entryTypes }.
+# Do not translate "entryTypes".
+dom-performance-observer-no-valid-entry-types = 유효한 entryTypes 없음. 등록 중단.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
