@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Joajuha nandi ohasáva getElementById()-pe.
+dom-document-write-ignored = Ojehejarei ñehenói document.write() peteĩ script okaygua henyhẽva ha’eño guive.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Ojehai peteĩ yvyra hekopegua’ỹva oiporúvo document.write() oikóva umi pyha mba’ekuaarã ojejapojeývo. Eñemomaranduve: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
