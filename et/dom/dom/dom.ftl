@@ -10,6 +10,12 @@ dom-document-write-ignored = A call to document.write() from an asynchronously-l
 # Variables:
 #   $url (String) - URL of a page with more information about speculative parsing.
 dom-parser-speculation-failed = An unbalanced tree was written using document.write() causing data from the network to be reparsed. More information: { $url }
+# Do not translate "entryTypes".
+# Variables:
+#   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
+dom-performance-observer-unsupported-entry-types = Ignoring unsupported entryTypes: { $entryTypes }.
+# Do not translate "entryTypes".
+dom-performance-observer-no-valid-entry-types = No valid entryTypes; aborting registration.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
