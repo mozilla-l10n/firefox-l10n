@@ -13,12 +13,17 @@ font-inspector-copy-url-title = คัดลอก URL
 # predefined font settings, similar to a preset. This is the label of the
 # dropdown used to select one.
 font-inspector-font-instance-label = อินสแตนซ์
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = กำหนดเอง
 
 ## Labels for the font editor controls
 
 font-inspector-font-size-label = ขนาด
 font-inspector-font-weight-label = น้ำหนัก
 font-inspector-font-italic-label = ตัวเอียง
+font-inspector-letter-spacing-label = ระยะห่าง
+font-inspector-line-height-label = ความสูงของบรรทัด
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
