@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Advarsel: Script svarer ikke
+dom-slow-script-dialog-message = Et script på denne side er muligvis optaget eller svarer ikke længere. Du kan standse scriptet nu eller lade det fortsætte, for at se om scriptet afslutter.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Script: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Spørg mig ikke igen
 dom-slow-script-dialog-stop-button = Stop script
 dom-slow-script-dialog-continue-button = Fortsæt
+dom-slow-addon-script-dialog-title = Advarsel: Script i tilføjelse svarer ikke
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
