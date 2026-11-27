@@ -63,3 +63,21 @@ aiwindow-history-menu-settings = настройки на { -smart-window-brand-n
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = Превключете към { -smart-window-brand-name }
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } раздел
+       *[other] { $tabs } раздела
+    }
+ai-smart-form-fill-suggested-tabs-heading = Предложени раздели
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Поле
+ai-smart-form-fill-no-changes-heading = Нищо не е добавено към формуляра

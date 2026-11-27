@@ -7,6 +7,9 @@ about-translations-title = Přełožki { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Hnydomne přełožki, kotrež wašu priwatnosć respektuja.
 about-translations-learn-more-link = Dalše informacije
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Přełožki { -brand-short-name } začinić
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Přełožk na tutym graće k dispoziciji njeje

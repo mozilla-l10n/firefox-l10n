@@ -32,6 +32,8 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Něšto druhe
 report-broken-site-panel-instructions-other = Wopisajće problem nadrobnje, zo byšće nam pomhał, problem přespytować.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Wopisajće problem nadrobnje (na přeće)
 report-broken-site-panel-instructions-other-optional = Wopisajće problem nadrobnje, zo byšće nam pomhał, problem přespytować. (na přeće)
 report-broken-site-panel-description2 =
     .placeholder = Što je so stało? Što ma so stać? Prošu podajće kroki za reprodukciju problema.

@@ -962,6 +962,18 @@ urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $a
 #   $homeTeam (string) - Name of the home team.
 #   $awayTeam (string) - Name of the visiting team.
 urlbar-result-sports-team-names = { $homeTeam } : { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } w { $time }
+urlbar-result-sports-status-live = Live
+urlbar-result-sports-status-final = Finale
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Sportowe namjety
 
 ## Strings used for buttons in the urlbar
 
@@ -1095,6 +1107,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Najnowše pytanja
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Zwjazanja
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions

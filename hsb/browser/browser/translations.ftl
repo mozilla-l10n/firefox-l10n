@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Přełoženje běži
 translations-panel-settings-button =
     .aria-label = Přełožowanske nastajenja rjadować
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Tutu stronu přełožować
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Spytajće priwatne přełožki w { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 
