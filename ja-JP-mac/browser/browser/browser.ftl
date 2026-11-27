@@ -1363,6 +1363,9 @@ menu-share-copy-links =
            *[other] { $count } 個のリンクをコピー
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = 他のオプション
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = 閉じる
 
