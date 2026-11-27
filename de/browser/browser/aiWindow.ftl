@@ -449,6 +449,9 @@ ai-smart-form-fill-fill-form-button =
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Feld
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Zum Ende der Vorschläge springen
+    .tooltiptext = Nach unten springen
 ai-smart-form-fill-cancel-review-button =
     .label = Abbrechen
 ai-smart-form-fill-no-suggestions-heading = Keine Vorschläge gefunden

@@ -17,6 +17,12 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Ứng dụng này ẩn địa chỉ email thật của bạn để bảo vệ hộp thư đến khỏi thư rác.
     .label = Đề xuất email ẩn danh của { -relay-brand-name }
+preferences-window-lock-macos =
+    .description = { -brand-short-name } sẽ yêu cầu mật khẩu thiết bị hoặc passkey của bạn sau khi máy tính bị khóa, chuyển sang chế độ ngủ hoặc khởi động trình bảo vệ màn hình.
+    .label = Tự động khóa cửa sổ riêng tư
+preferences-window-lock-windows =
+    .description = { -brand-short-name } sẽ yêu cầu mật khẩu thiết bị hoặc passkey của bạn sau khi máy tính bị khóa.
+    .label = Tự động khóa cửa sổ riêng tư
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -220,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Hỏi trước khi đóng nhiều thẻ
     .accesskey = m
+ask-on-close-multiple-tabs-pbmode =
+    .label = Hỏi ​​trước khi đóng nhiều thẻ trong cửa sổ ẩn danh
+    .accesskey = v
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

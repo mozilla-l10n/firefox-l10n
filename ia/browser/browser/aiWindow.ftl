@@ -431,6 +431,8 @@ ai-smart-form-fill-autocomplete-tabs-count =
         [one] { $tabs } scheda
        *[other] { $tabs } schedas
     }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Modificar fontes
 ai-smart-form-fill-other-tabs-heading = Altere schedas
 ai-smart-form-fill-cancel-tab-select-button =
     .label = Cancellar

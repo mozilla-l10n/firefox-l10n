@@ -59,6 +59,7 @@ customkeys-nav-select-last-tab = Đi đến thẻ cuối cùng
 customkeys-nav-toggle-mute = Tắt/bật tiếng âm thanh
 customkeys-edit-find-previous = Tìm trước đó
 customkeys-tools-screenshot = Chụp ảnh màn hình
+customkeys-tools-lock-windows = Khoá cửa sổ riêng tư
 customkeys-category-navigation-2 =
     .heading = Điều hướng
 customkeys-caution-message = Tính năng này đang trong giai đoạn thử nghiệm và có thể không hoạt động như mong đợi.

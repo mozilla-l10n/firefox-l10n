@@ -194,6 +194,20 @@ tab-groups-2026-onboarding-callout-subtitle = Nhóm các thẻ theo nhiệm vụ
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Bắt đầu tạo một nhóm
 
+## Closed-browser web notifications callout
+## Shown after the browser starts delivering notifications from sites the
+## user has allowed, even while the browser is closed.
+
+closed-browser-notifications-callout-title = Nhận thông báo web khi { -brand-short-name } đóng
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Các trang web bạn cho phép giờ đây có thể gửi thông báo ngay cả khi { -brand-short-name } đã bị đóng. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
+# Opens the notification settings.
+closed-browser-notifications-callout-manage-button = Quản lý
+# Stops notifications from being delivered while the browser is closed.
+closed-browser-notifications-callout-turn-off-button = Tắt
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Giữ bật
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề

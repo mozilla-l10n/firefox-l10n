@@ -160,6 +160,7 @@ neterror-unsafe-content-type = Bitte kontaktieren Sie die Webseitenbetreiber, um
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } vertraut { $hostname } nicht, weil die Verbindung nicht sicher ist. Versuchen Sie, die URL in HTTPS zu ändern.
+neterror-http-auth-scheme-disabled = Falls Sie sich auf dieser Website anmelden müssen, wenden Sie sich an Ihren Systemadministrator.
 neterror-nss-failure-not-verified = Die Website kann nicht angezeigt werden, da die Authentizität der erhaltenen Daten nicht verifiziert werden konnte.
 neterror-nss-failure-contact-website = Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.
 # Variables:
@@ -245,6 +246,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } hat diese Seite nicht gelade
 fp-neterror-blocked-by-policy-intro = Ihre Organisation hat den Zugriff auf diese Seite oder Website blockiert.
 fp-neterror-http-auth-disabled-intro = Jemand, der sich als die Website ausgibt, könnte versuchen, Dinge wie Ihren Benutzernamen, Ihr Passwort oder Ihre E-Mail-Adresse zu stehlen.
 fp-neterror-http-auth-disabled-secure-connection = Diese Website erfordert eine sichere Verbindung und Sie können keine Ausnahme für den Besuch hinzufügen.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> hat Sie aufgefordert, sich mit einer Methode anzumelden, die in Ihren Verbindungseinstellungen deaktiviert wurde.
 fp-neterror-why-did-this-happen = Warum ist das passiert?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Anscheinend verwendet diese Website alte Software mit bekannten Sicherheitsproblemen.

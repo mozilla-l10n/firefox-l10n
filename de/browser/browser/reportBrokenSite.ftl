@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Problem mit Website melden
 report-broken-site-panel-header =
     .label = Problem mit Website melden
     .title = Problem mit Website melden
+report-broken-site-panel-intro-text2 = Ihr Bericht hilft uns, { -brand-product-name } für alle zu verbessern.
 report-broken-site-panel-intro-text = Ihr Bericht hilft uns, Probleme mit { -brand-product-name } zu verstehen und zu beheben, um ihn für alle zu verbessern.
 report-broken-site-panel-learn-more-link = Weitere Informationen
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Adresse der Website
 report-broken-site-panel-url-label = URL der defekten Website
 report-broken-site-panel-reason-intro-text = Was funktioniert nicht?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Sonstiges
 report-broken-site-panel-instructions-other = Beschreiben Sie das Problem im Detail, damit wir es untersuchen können.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Beschreiben Sie das Problem genauer (optional)
 report-broken-site-panel-instructions-other-optional = Beschreiben Sie das Problem im Detail, damit wir es untersuchen können. (freiwillig)
 report-broken-site-panel-description2 =
     .placeholder = Was ist passiert? Was haben Sie erwartet? Bitte geben Sie die Schritte zur Reproduktion des Problems an.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Weitere Informationen über { $website } senden
 report-broken-site-panel-send-more-info-button =
     .label = Weitere Informationen senden
 report-broken-site-panel-button-cancel =
@@ -61,6 +70,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Liste der Elemente senden, die durch den Tracking-Schutz blockiert wurden
 report-broken-site-panel-url-input-label =
     .aria-label = URL der Seite, die gemeldet wird
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Diagnosedaten ansehen
 report-broken-site-panel-preview-button =
     .label = Vorschau des Berichts
 report-broken-site-panel-preview-header2 =

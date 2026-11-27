@@ -40,6 +40,10 @@ report-broken-site-panel-instructions-optional = Podrobně popište problém (ne
 report-broken-site-panel-instructions-other-optional = Popište detailně problém, abyste nám pomohli problém prošetřit. (volitelné)
 report-broken-site-panel-description2 =
     .placeholder = Co se stalo? Co jste očekávali, že se stane? Uveďte prosím postup, jak problém reprodukovat.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Odeslat informace přes { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Odeslat více informací
 report-broken-site-panel-button-cancel =
@@ -72,6 +76,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Odeslat seznam položek blokovaných ochranou proti sledování
 report-broken-site-panel-url-input-label =
     .aria-label = URL nahlašované stránky
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Prohlédnout diagnostická data
 report-broken-site-panel-preview-button =
     .label = Náhled hlášení
 report-broken-site-panel-preview-header2 =

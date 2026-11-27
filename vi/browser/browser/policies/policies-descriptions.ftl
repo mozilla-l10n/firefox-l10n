@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Cho phép hộp thoại chọn tập tin.
 policy-AppAutoUpdate = Bật hoặc tắt cập nhật chương trình tự động.
 policy-AppUpdatePin = Ngăn không cho cập nhật { -brand-short-name } ngoài phiên bản đã chỉ định.
 policy-AppUpdateURL = Thiết lập URL cập nhật của ứng dụng tùy chỉnh.
+policy-Authentication2 = Cấu hình xác thực tích hợp cho các trang web hỗ trợ tính năng này, và xác định các phương thức xác thực HTTP nào bị vô hiệu hóa.
 policy-Authentication = Cấu hình các phương thức xác thực tích hợp sẵn cho các trang web có hỗ trợ.
 policy-AutofillAddressEnabled = Bật tính năng tự động điền địa chỉ.
 policy-AutofillCreditCardEnabled = Bật tính năng tự động điền phương thức thanh toán.

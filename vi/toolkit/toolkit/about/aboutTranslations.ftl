@@ -7,6 +7,9 @@ about-translations-title = Công cụ dịch của { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Dịch thuật tức thì, tôn trọng quyền riêng tư của bạn.
 about-translations-learn-more-link = Tìm hiểu thêm
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Đóng trình dịch { -brand-short-name }
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Tính năng dịch thuật không khả dụng trên thiết bị này

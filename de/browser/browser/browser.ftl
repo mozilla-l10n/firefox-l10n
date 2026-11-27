@@ -1831,6 +1831,7 @@ trustpanel-tracking-header = { -brand-product-name } erlaubt diese Dinge, damit 
 trustpanel-tracking-description = Ohne Tracker funktionieren einige Schaltflächen, Formulare und Anmeldefelder möglicherweise nicht.
 trustpanel-insecure-section-header = Ihre Verbindung ist nicht sicher
 trustpanel-insecure-description = Die Daten, die Sie an diese Website senden, sind nicht verschlüsselt. Sie könnten eingesehen, gestohlen oder verändert werden.
+trustpanel-report-broken-site-button = Problem mit Website melden
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } Cookie zur seitenübergreifenden Aktivitätenverfolgung
@@ -1915,6 +1916,14 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
        *[other] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
     }
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Erweiterungen
+trustpanel-site-issue-step-vpn = Integriertes VPN
+trustpanel-site-issue-step-etp = Verbesserter Tracking-Schutz
 
 ##  $count (String): the number of trackers blocked.
 

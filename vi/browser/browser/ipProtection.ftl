@@ -275,6 +275,12 @@ ipprotection-come-back-title = Quay lại để thử VPN được tích hợp s
 ipprotection-message-body-hide-location = Ẩn vị trí của bạn khi duyệt web trong { -brand-product-name } để có thêm quyền riêng tư và kiểm soát.
 ipprotection-connection-status-generic-error-title-1 = Không thể kết nối tới VPN
     .aria-label = Không thể kết nối tới VPN
+ipprotection-connection-status-try-again-button = Thử lại
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Tiếp tục mà không cần VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = Thử lại lần nữa…
+    .aria-label = Thử lại lần nữa…
 
 ## IP Protection bandwidth callouts
 

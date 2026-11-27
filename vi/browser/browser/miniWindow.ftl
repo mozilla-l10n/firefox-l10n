@@ -11,6 +11,11 @@ mini-window-close-button =
 mini-window-restore-button =
     .label = Đưa thẻ quay trở lại
     .tooltiptext = Đưa thẻ quay trở lại
+# Button appearing in a Mini Window that was opened from a link on a webpage.
+# Clicking the button will move the Mini Window tab to the window it was opened from.
+mini-window-link-restore-button =
+    .label = Chuyển thẻ đến cửa sổ
+    .tooltiptext = Chuyển thẻ đến cửa sổ
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -59,6 +64,17 @@ move-to-mini-window =
         { $tabCount ->
             [1] Chuyển vào Cửa sổ thu nhỏ
            *[other] Chuyển vào Cửa sổ thu nhỏ
+        }
+    .accesskey = M
+# Moves full tabs to Mini Windows, one window per tab.
+# Appears as an option for the context menu "Move to"
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window-alt =
+    .label =
+        { $tabCount ->
+            [1] Cửa sổ nhỏ
+           *[other] Cửa sổ nhỏ
         }
     .accesskey = M
 

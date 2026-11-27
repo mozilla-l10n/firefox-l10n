@@ -28,6 +28,15 @@ urlbar-translations-button-loading =
     .tooltiptext = Probíhá překlad
 translations-panel-settings-button =
     .aria-label = Spravovat nastavení překladu
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Přeložit stránku
+urlbar-translations-button-intro-2 =
+    .tooltiptext =
+        { -brand-shorter-name.case-status ->
+            [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "gen") }
+           *[no-cases] Vyzkoušejte anonymní překlady v aplikaci { -brand-shorter-name }
+        }
 
 ## Options in the Firefox Translations settings.
 
@@ -65,6 +74,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Chcete tuto stránku přeložit?
 translations-panel-translate-button =
     .label = Přeložit
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Okamžité překlady v rozděleném zobrazení
+    .tooltiptext = Okamžité překlady v rozděleném zobrazení
 translations-panel-translate-button-loading =
     .label = Čekejte prosím…
 translations-panel-translate-cancel =

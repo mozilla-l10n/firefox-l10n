@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Đang dịch trang
 translations-panel-settings-button =
     .aria-label = Quản lý cài đặt dịch
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Dịch trang này
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Thử bản dịch riêng tư trong { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Dịch trang này?
 translations-panel-translate-button =
     .label = Dịch
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Dịch thuật tức thì trong chế độ chia cửa sổ
+    .tooltiptext = Dịch thuật tức thì trong chế độ chia cửa sổ
 translations-panel-translate-button-loading =
     .label = Vui lòng chờ…
 translations-panel-translate-cancel =
