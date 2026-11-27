@@ -11,3 +11,11 @@
 dom-performance-observer-unsupported-entry-types = Ignorujem nepodporované entryTypes: { $entryTypes }.
 # Do not translate "entryTypes".
 dom-performance-observer-no-valid-entry-types = Žiadny platný typ vstupu; prerušenie registrácie.
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = SVG <{ $tagName }> s ID “{ $id }” má slučku odkazu.
+# Variables:
+#   $tagName (String) - Tag name of the element where the chain was broken.
+#   $id (String) - ID of the element.
+dom-svg-reference-chain-length-exceeded = Reťazec odkazu SVG <{ $tagName }>, ktorý je príliš dlhý bol pri prvku ID “{ $id }” opustený.
