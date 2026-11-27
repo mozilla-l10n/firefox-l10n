@@ -9,9 +9,17 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Cap de modificacion pas trobada.
+changes-no-changes-description = Las modificacions realizadas dins l’inspector apareisseràn aquí.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Element
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = Copiar totas las modificacions
 changes-copy-all-changes-button-title = Copiar una lista de totas las modificacions CSS al pòrtapapièr.
 changes-copy-rule-button = Copiar la règla
