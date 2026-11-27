@@ -37,6 +37,8 @@ category-list =
     .aria-label = ප්‍රවර්ග
 pane-general-title = සාමාන්‍ය
 pane-home-title = මුල
+pane-home-startup-title2 = මුල හා ආරම්භය
+    .title = මුල හා ආරම්භය
 pane-search-title2 = සෙවුම
     .title = සෙවුම
 pane-privacy-title3 = පෞද්ගලිකත්‍වය හා ආරක්‍ෂාව
@@ -44,8 +46,26 @@ pane-privacy-title3 = පෞද්ගලිකත්‍වය හා ආරක�
 pane-privacy-section =
     .heading = පෞද්ගලිකත්‍වය හා ආරක්‍ෂාව
 pane-sync-title3 = සමමුහූර්තය
+pane-ai-controls-title2 = AI පාලන
+    .title = AI පාලන
+pane-about-firefox-title = { -brand-short-name } පිළිබඳ
+    .title = { pane-about-firefox-title }
+pane-appearance-title = පෙනුම
+    .title = { pane-appearance-title }
+pane-downloads-title2 = බාගැනීම්
+    .title = බාගැනීම්
+pane-downloads3 =
+    .heading = බාගැනීම්
+pane-accessibility-title = ප්‍රවේශ්‍යතාව
+    .title = { pane-accessibility-title }
+pane-languages-title2 = භාෂා
+    .title = භාෂා
+preferences-languages-header3 =
+    .heading = භාෂා
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = පෙරනිමියට ප්‍රත්‍යර්පණය
     .accesskey = R
@@ -419,6 +439,8 @@ browsing-group =
 
 home-new-windows-tabs-header = නව කවුළු සහ පටිති
 home-new-windows-tabs-description2 = ඔබගේ මුල් පිටුව, නව කවුළු හෝ පටිති විවෘත කරන විට ඔබ දැකීමට ප්‍රිය දෑ තෝරන්න.
+home-section =
+    .heading = මුල හා ආරම්භය
 
 ## Home Section - Default Browser
 

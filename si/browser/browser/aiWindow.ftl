@@ -113,6 +113,7 @@ smartwindow-close-tab-callout-title = පටිත්ත වැසිණි
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = { -smart-window-brand-name } පෙරනිමි අතිරික්සුව කරන්නද?
 smart-window-default-promo-primary-button = පෙරනිමි කරන්න
 smart-window-default-promo-additional-button = දැන් නොවේ
 

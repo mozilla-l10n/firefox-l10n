@@ -17,6 +17,8 @@ home-homepage-new-tabs =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-choose-wallpaper-link2 =
     .label = බිතුපතක් තෝරන්න
 # Variables:
