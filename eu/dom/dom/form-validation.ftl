@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Hautatu baliozko balio bat. Baliozko bi bali
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Hautatu baliozko balio bat. Baliozko balio gertuena { $value } da.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Mesedez hautatu { $minimum } eta { $maximum } arteko balio bat.
+dom-form-validation-bad-input-number = Idatzi zenbaki bat mesedez.
