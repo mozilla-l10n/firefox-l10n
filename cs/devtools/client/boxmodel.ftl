@@ -12,6 +12,8 @@ boxmodel-properties-label = Vlastnosti box modelu
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Skrýt
+boxmodel-properties-show-label = Zobrazit
 
 ##
 
