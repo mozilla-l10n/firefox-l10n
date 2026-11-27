@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = U dha varg i zbrazët te getElementById().
+dom-document-write-ignored = U shpërfill një evokim i document.write() nga një programth i jashtëm i ngarkuar në mënyrë jo të njëkohshme.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Është shkruar një pemë e pabalancuar duke përdorur document.write(), duke bërë që të dhënat prej rrjetit të ripërtypen. Më tepër hollësi: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
