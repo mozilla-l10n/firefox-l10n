@@ -17,9 +17,13 @@ boxmodel-properties-label = ボックスモデルのプロパティ
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = 隠します
+boxmodel-properties-show-label = 表示します
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = 基準
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = 選択した要素の配置基準となる要素です。
