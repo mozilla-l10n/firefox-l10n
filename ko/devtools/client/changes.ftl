@@ -18,6 +18,22 @@ changes-element-style-label = 요소
 # Badge displayed next to the source of changes made inside an iframe.
 # Lowercase intentional.
 changes-iframe-label = iframe
+changes-copy-all-changes-button = 모든 변경 내용 복사
+changes-copy-all-changes-button-title = 모든 CSS 변경 목록을 클립보드에 복사합니다.
+changes-copy-rule-button = 규칙 복사
+changes-copy-rule-button-title = 이 CSS 규칙의 내용을 클립보드에 복사합니다.
 
 ## Changes panel context menu
 
+changes-context-menu-copy =
+    .label = 복사
+    .accesskey = C
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = 규칙 복사
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = 선언 복사
+changes-context-menu-select-all =
+    .label = 모두 선택
+    .accesskey = A
