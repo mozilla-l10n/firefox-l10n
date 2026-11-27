@@ -1393,6 +1393,9 @@ menu-share-copy-links =
            *[other] { $count } hivatkozás másolása
         }
     .accesskey = H
+menu-share-windows2 =
+    .label = További beállítások
+    .accesskey = T
 ui-tour-info-panel-close =
     .tooltiptext = Bezárás
 
