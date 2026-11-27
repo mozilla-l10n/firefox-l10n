@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = Nenhuma fonte usada no elemento atual.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Copiar URL
 # An "instance" is the term used by font authors for a named group of
@@ -21,6 +22,8 @@ font-inspector-custom-instance-name = Personalizado
 font-inspector-font-size-label = Tamanho
 font-inspector-font-weight-label = Peso
 font-inspector-font-italic-label = Itálico
+font-inspector-letter-spacing-label = Espaçamento
+font-inspector-line-height-label = Altura da linha
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -29,6 +32,11 @@ font-inspector-show-less = Mostrar menos
 
 ##
 
+font-inspector-all-fonts-on-page-header = Todos as fontes na página
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Fontes usadas
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Texto de exibição da fonte
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
