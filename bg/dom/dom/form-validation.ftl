@@ -13,3 +13,15 @@
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Моля, използвайте нужния формат: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Моля, изберете стойност, която е не по-голяма от { $maximum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Моля, изберете валидна стойност. Двете най-близки валидни стойности са { $lowValue } и { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Моля, изберете валидна стойност. Най-близката валидна стойност е { $value }.
+dom-form-validation-bad-input-number = Моля, въведете число.
