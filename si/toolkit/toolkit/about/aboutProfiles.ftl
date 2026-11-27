@@ -43,7 +43,7 @@ profiles-delete-profile-title = පැතිකඩ මකන්න
 profiles-delete-files = ගොනු මකන්න
 profiles-dont-delete-files = ගොනු මකන්න එපා
 profiles-delete-profile-failed-title = දෝෂයකි
-profiles-delete-profile-failed-message = මෙම පැතිකඩ මකා දැමීමට තැත් කිරීමේදී දෝෂයක් ඇති විය.
+profiles-delete-profile-failed-message = මෙම පැතිකඩ මැකීමට තැත් කිරීමේදී දෝෂයක් ඇති විය.
 profiles-opendir =
     { PLATFORM() ->
         [macos] සෙවුමෙහි පෙන්වන්න
