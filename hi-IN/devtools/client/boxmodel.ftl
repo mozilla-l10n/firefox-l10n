@@ -12,6 +12,8 @@ boxmodel-properties-label = बॉक्स मॉडल गुणधर्म
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = छिपाएं
+boxmodel-properties-show-label = दिखाएं
 
 ##
 
