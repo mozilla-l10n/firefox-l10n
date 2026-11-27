@@ -259,7 +259,7 @@ browserconsole-settings-network-monitoring =
 # Displayed when the inspected page navigates to a new location.
 # Variables:
 #   $url (String) - The new URL.
-webconsole-navigated = Navigava pro { $url }
+webconsole-navigated = Navigate a { $url }
 # Displayed when the inspected page is reloaded from DevTools.
 webconsole-reloaded = Recargate
 webconsole-close-sidebar-button-tooltip = Clauder barra lateral
@@ -275,10 +275,10 @@ webconsole-reverse-search-close-button-tooltip = Clauder ({ $shortcut })
 #   $total (Number) - Total number of results.
 webconsole-reverse-search-results =
     { $total ->
-        [one] 1 resultato
+        [one] { $total } resultato
        *[other] { $index } de { $total } resultatos
     }
-webconsole-reverse-search-no-result = Nulle resultatos
+webconsole-reverse-search-no-result = Necun resultato
 webconsole-reverse-search-previous-button-tooltip = Resultato previe ({ $shortcut })
 webconsole-reverse-search-next-button-tooltip = Resultato successive ({ $shortcut })
 
@@ -307,30 +307,30 @@ webconsole-css-warning-elements = Selector de elementos concordante: { $selector
 
 # Variables:
 #   $url (String) - URL to file a bug about the error.
-webconsole-message-render-error = [DEVTOOLS ERROR] Nos regretta, nos non poteva render le message. Isto non debeva evenir: per favor indica un defecto a { $url } con le metadatos message in le description.
-webconsole-message-render-error-copy-button = Copiar metadata del message in le area de transferentia
+webconsole-message-render-error = [DEVTOOLS ERROR] Nos regretta, nos non poteva render le message. Isto non debeva evenir: per favor indica un defecto a { $url } con le metadatos del message in le description.
+webconsole-message-render-error-copy-button = Copiar metadatos del message in le area de transferentia
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
 webconsole-editor-toolbar-execute-button-label = Exequer
-webconsole-editor-toolbar-execute-button-tooltip = Executar le expression ({ $shortcut }). Isto non vacuara le entrata.
-webconsole-editor-toolbar-pretty-print-button-tooltip = Imprimer in belle formato le expression
+webconsole-editor-toolbar-execute-button-tooltip = Exequer le expression ({ $shortcut }). Isto non vacuara le entrata.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Monstrar in belle formato le expression
 webconsole-editor-toolbar-prev-expression-button-tooltip = Expression previe
 webconsole-editor-toolbar-next-expression-button-tooltip = Expression sequente
 # The reverse search mimics the bash-like reverse search of command history,
 # searching commands from the last item backwards.
 webconsole-editor-toolbar-open-reverse-search-tooltip = Aperir recerca inverse in le chronologia ({ $shortcut })
 webconsole-editor-toolbar-close-reverse-search-tooltip = Clauder recerca inverse in le chronologia ({ $shortcut })
-webconsole-editor-toolbar-close-button-tooltip = Retornar al modo in linea ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Retornar al modalitate in linea ({ $shortcut })
 
 ## Console input.
 
 # Tooltip of the button that switches to the multi-line editor mode.
 # Variables:
 #   $shortcut (String) - Keyboard shortcut for the action.
-webconsole-input-open-editor-button-tooltip = Passa al editor in modo multilinea ({ $shortcut })
+webconsole-input-open-editor-button-tooltip = Passar al editor in modalitate multilinea ({ $shortcut })
 # Displayed the first time the multi-line editor mode is used, until dismissed.
 # Variables:
 #   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).

@@ -62,6 +62,21 @@ smart-window-confirm-open-tab = අරින්න
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = පටිති සමූහය
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] “{ $label }” සමූහය සාදා පටිති { $count } එක් කෙරිණි.
+       *[other] “{ $label }” සමූහය සාදා පටිති { $count } එක් කෙරිණි.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+       *[other] “{ $label }” සමූහය සාදා පටිති { $count } විවෘත කෙරිණි.
+    }
 smart-window-opened-tabs-row-label = විවෘත පටිති
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = පටිති අසමූහගතයි

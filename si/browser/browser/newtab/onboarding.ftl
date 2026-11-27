@@ -267,3 +267,7 @@ onboarding-existing-horizontal-tabs-label = තිරස් පටිති ත�
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = පැති තීරුවේ AI කතා ක්‍රමලේඛයක් තබා බලන්න
 onboarding-genai-sidebar-primary-button = කතා ක්‍රමලේඛයක් තෝරන්න
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-cta = පැතිකඩක් සාදන්න
