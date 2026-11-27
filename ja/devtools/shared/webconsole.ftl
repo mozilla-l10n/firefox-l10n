@@ -73,6 +73,11 @@ webconsole-timer-js-error = タイマー名の処理に失敗しました。
 # Variables:
 #   $repeats (Number) - Number of repetitions.
 webconsole-message-repeats = { $repeats } 回
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count = { $count } 個のメッセージ
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -177,6 +182,14 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = ウェブコンソールの出力を消去します ({ $shortcut })
 webconsole-filter-input-placeholder = 出力を絞り込み
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text = { $count } 個の隠れアイテム
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip = { $count } 個のアイテムがテキストフィルターで隠れています
+webconsole-close-split-console-button-tooltip = 分割コンソールを閉じます (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -192,36 +205,132 @@ webconsole-filter-button-css-inactive-tooltip = エラーチェックのため C
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = 要求
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = ブラウザー
+webconsole-filter-button-chrome-tooltip = ブラウザー自身からから発信されたメッセージを表示します
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = コンテンツ
+webconsole-filter-button-content-tooltip = ウェブコンテンツから発信されたメッセージを表示します
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = コンソール設定
+webconsole-settings-timestamps =
+    .label = タイムスタンプを表示
+    .title = このオプションを有効にすると、ウェブコンソールにタイムスタンプを表示します
+webconsole-settings-warning-groups =
+    .label = 類似メッセージをグループ化
+    .title = このオプションを有効にすると、類似するメッセージをグループにまとめます
+webconsole-settings-autocomplete =
+    .label = 入力候補の表示
+    .title = このオプションを有効にすると、キー入力時に入力候補を表示します
+webconsole-settings-persistent-logs =
+    .label = 永続ログ
+    .title = このオプションを有効にすると、新しいページへ移動しても出力が消去されなくなります
+webconsole-settings-instant-evaluation =
+    .label = 即時評価
+    .title = このオプションを有効にすると、キー入力時に即時評価が行われます
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = ネットワークモニタリングを有効化
+    .title = このオプションを有効にすると、ネットワーク要求の観測を開始します
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = { $url } に移動しました
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = ページを再度読み込みました
+webconsole-close-sidebar-button-tooltip = サイドバーを閉じます
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = 検索履歴
+webconsole-reverse-search-close-button-tooltip = 閉じます ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results = { $total } 件中 { $index } 件目
+webconsole-reverse-search-no-result = 見つかりませんでした
+webconsole-reverse-search-previous-button-tooltip = 前を検索 ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = 次を検索 ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = プロパティリストの取得に <span data-l10n-name="getter-name">{ $getterName }</span> の getter を呼び出しますか？
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = 呼び出し ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = 閉じる ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = 次のセレクターにマッチする要素: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [開発ツールエラー] 申し訳ありません。メッセージを表示できませんでした。起こってはならないエラーが発生したため、{ $url } にバグ報告をお願いします。報告時にメッセージのメタデータを説明欄に記入してください。
+webconsole-message-render-error-copy-button = メッセージのメタデータをクリップボードにコピー
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = 実行
+webconsole-editor-toolbar-execute-button-tooltip = 式を実行します。({ $shortcut }) 入力した式は消去されません。
+webconsole-editor-toolbar-pretty-print-button-tooltip = 式を整形します
+webconsole-editor-toolbar-prev-expression-button-tooltip = 前の式へ戻ります
+webconsole-editor-toolbar-next-expression-button-tooltip = 次の式へ進みます
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = 履歴の逆検索を開きます ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = 履歴の逆検索を閉じます ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = インラインモードに戻ります ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = マルチラインモードに切り替えます ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = マルチラインモードにすると、コードをより早く繰り返し実行できます。行を追加するときは <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> を、実行するときは <span data-l10n-name="run-shortcut">{ $runShortcut }</span> を使います。
+webconsole-input-editor-onboarding-dismiss = 試してみる
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = JavaScript ファイルを開く
+webconsole-input-open-javascript-file-filter = JavaScript ファイル
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = トップ
+webconsole-input-selector-tooltip = 評価コンテキストを選択します
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Cookie 警告
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Content-Security-Policy 警告
