@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = વૈવિધ્યપૂર્ણ
 font-inspector-font-size-label = માપ
 font-inspector-font-weight-label = વજન
 font-inspector-font-italic-label = ઇટાલિક
+font-inspector-line-height-label = રેખા ઊંચાઇ
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
