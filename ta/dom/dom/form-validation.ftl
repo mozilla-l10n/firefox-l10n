@@ -13,3 +13,12 @@
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = கோரிய வடிவூட்டத்தில் பொருத்துக: { $title }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = ஒரு மதிப்பை தேர்ந்தெடுக்கவும். நெருக்கமான செல்லுபடியாகும் இரு மதிப்புகள் { $lowValue } மற்றும் { $highValue } ஆகியவையாகும்.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = ஒரு மதிப்பை தேர்ந்தெடுக்கவும்.நெருக்கமான செல்லுபடியாகும் மதிப்பு { $value } ஆகும்.
+dom-form-validation-bad-input-number = தயவு செய்து எண்ணை உள்ளிடு.
