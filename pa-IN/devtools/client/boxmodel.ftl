@@ -15,3 +15,6 @@ boxmodel-properties-label = ਬਾਕਸ ਮਾਡਲ ਵਿਸ਼ੇਸ਼ਤਾਵ�
 
 ##
 
+# Short label displayed next to the position property of a positioned element,
+# in front of the DOM node that is its offset parent.
+boxmodel-offset-parent = ਆਫਸੈੱਟ
