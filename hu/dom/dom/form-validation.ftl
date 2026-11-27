@@ -14,6 +14,9 @@
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = A kért formátumban adja meg az adatot: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Válasszon egy ennél nem nagyobb értéket: { $maximum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Válasszon egy érvényes értéket. A két legközelebbi érvényes érték: { $lowValue } és { $highValue }.
