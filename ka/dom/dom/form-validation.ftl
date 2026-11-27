@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = გთხოვთ, აირჩიოთ �
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = გთხოვთ, აირჩიოთ მართებული მნიშვნელობა. უახლოესი მართებული მნიშვნელობაა { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = გთხოვთ, მიუთითოთ მნიშვნელობა, { $minimum } — { $maximum } შუალედში.
+dom-form-validation-bad-input-number = გთხოვთ, შეიყვანოთ რიცხვი.
