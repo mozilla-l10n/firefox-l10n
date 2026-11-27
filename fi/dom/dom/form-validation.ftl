@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Täytä tämä kenttä.
+dom-form-validation-checkbox-missing = Valitse tämä kohta jos haluat jatkaa.
+dom-form-validation-radio-missing = Valitse yksi vaihtoehdoista.
+dom-form-validation-file-missing = Valitse tiedosto.
+dom-form-validation-select-missing = Valitse kohta listalta.
+dom-form-validation-invalid-email = Kirjoita kelvollinen sähköpostiosoite.
+dom-form-validation-invalid-url = Kirjoita osoite.
+dom-form-validation-invalid-date = Anna kelvollinen päiväys.
+dom-form-validation-invalid-time = Anna kelvollinen aika.
+dom-form-validation-invalid-date-time = Anna kelvollinen päiväys ja aika.
+dom-form-validation-invalid-month = Anna kelvollinen kuukausi.
+dom-form-validation-invalid-week = Anna kelvollinen viikko.
+dom-form-validation-pattern-mismatch = Anna arvo pyydetyssä muodossa.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Anna arvo pyydetyssä muodossa: { $title }.
