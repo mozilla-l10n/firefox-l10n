@@ -18,6 +18,17 @@ changes-element-style-label = ઘટક
 # Badge displayed next to the source of changes made inside an iframe.
 # Lowercase intentional.
 changes-iframe-label = આઈફ્રેમ
+changes-copy-all-changes-button = બધા ફેરફારો કૉપિ કરો
+changes-copy-rule-button = નિયમ નકલ કરો
 
 ## Changes panel context menu
 
+changes-context-menu-copy =
+    .label = નકલ કરો
+    .accesskey = C
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = નિયમ નકલ કરો
+changes-context-menu-select-all =
+    .label = બધું પસંદ કરો
+    .accesskey = A
