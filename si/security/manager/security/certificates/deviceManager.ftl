@@ -6,8 +6,8 @@
 ## Strings used for device manager
 
 devmgr-window =
-    .title = උපාංග කළමනාකරු
     .style = min-width: 67em; min-height: 32em;
+    .title = උපාංග කළමනාකරු
 devmgr-devlist =
     .label = ආරක්‍ෂණ ඒකකය හා උපාංග
 devmgr-header-details =
@@ -59,9 +59,9 @@ devinfo-status-disabled =
 devinfo-status-not-present =
     .label = දැනට නැත
 devinfo-status-not-logged-in =
-    .label = ඇතුළු වී නැත
+    .label = පිවිස නැත
 devinfo-status-logged-in =
-    .label = ඇතුළු වී ඇත
+    .label = පිවිස ඇත
 devinfo-status-ready =
     .label = සූදානම්
 devinfo-desc =
