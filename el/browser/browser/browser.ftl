@@ -1391,6 +1391,9 @@ menu-share-copy-links =
            *[other] Αντιγραφή { $count } συνδέσμων
         }
     .accesskey = σ
+menu-share-windows2 =
+    .label = Περισσότερες επιλογές
+    .accesskey = Π
 ui-tour-info-panel-close =
     .tooltiptext = Κλείσιμο
 
