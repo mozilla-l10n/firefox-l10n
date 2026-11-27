@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = córas
 # Name of the entry in the instance dropdown that holds the settings manually
 # adjusted by the user.
 font-inspector-custom-instance-name = Saincheaptha
