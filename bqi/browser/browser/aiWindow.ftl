@@ -367,3 +367,19 @@ smartwindow-onboarding-memories-browsing-description = گشتن من { -brand-sh
 smartwindow-onboarding-memories-chats-description = چتا من { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = زفت کوݩ وو راو
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+ai-smart-form-fill-autocomplete-loading = هونی بار اونه
+ai-smart-form-fill-close-review-button =
+    .label = بستن
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = لقو
+ai-smart-form-fill-accept-tab-select-button =
+    .label = ٱنجوم وابی
+ai-smart-form-fill-cancel-review-button =
+    .label = لقو
+ai-smart-form-fill-try-again-button =
+    .label = قپ ریت دووارته
