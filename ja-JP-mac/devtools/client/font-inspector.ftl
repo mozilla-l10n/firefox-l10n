@@ -43,6 +43,15 @@ font-inspector-preview-text-placeholder = プレビューテキスト
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = バージョン:
+font-inspector-font-designer = デザイナー:
+font-inspector-font-manufacturer = 制作元:
+font-inspector-font-vendor = ベンダー:
+font-inspector-font-description = 説明:
+font-inspector-font-license = ライセンス:
+font-inspector-font-license-info-url = ライセンス情報 URL:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = 展開する
