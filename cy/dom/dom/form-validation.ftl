@@ -30,6 +30,15 @@ dom-form-validation-pattern-mismatch-with-title = Cydweddwch y fformat: { $title
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Dewiswch werth sy'n llai na { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Dewiswch werth sydd ddim hwyrach na { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Dewiswch werth sydd ddim llai na { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Dewiswch werth sydd ddim cynt na { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Dewiswch werth dilys. Y gwerthoedd dilys nesaf yw { $lowValue } a { $highValue },.
