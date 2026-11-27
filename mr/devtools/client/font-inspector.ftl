@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = सध्याच्या घटकासाठी कोणतेही टंक वापरले नाहीत.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL ची प्रत बनवा
 # An "instance" is the term used by font authors for a named group of
@@ -29,6 +30,9 @@ font-inspector-show-less = कमी पहा
 
 ##
 
+font-inspector-all-fonts-on-page-header = पृष्ठावरील सर्व फॉन्ट्स
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = वापरलेले टंक
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
