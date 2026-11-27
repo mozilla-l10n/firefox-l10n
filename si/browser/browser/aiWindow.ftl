@@ -77,6 +77,14 @@ aiwindow-fullpage-more =
     .label = තව
     .title = තව
 
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = අද - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = ඊයේ - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =

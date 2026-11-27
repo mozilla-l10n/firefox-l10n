@@ -89,3 +89,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = මෑත දී වසා දැමූ පටිති බලන්න
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { -brand-short-name } පටිති { $closedCount } ක් වැසිණි
+       *[other] { -brand-short-name } පටිති { $closedCount } ක් වැසිණි
+    }
