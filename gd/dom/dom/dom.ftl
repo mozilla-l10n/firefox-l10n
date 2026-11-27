@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Chaidh sreang bhàn a chur gu getElementById().
+dom-document-write-ignored = Chaidh gairm airson document.write() o sgriobt on taobh a-muigh 's a chaidh a luchdadh gu neo-shioncronach a leigeil seachad.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = An unbalanced tree was written using document.write() causing data from the network to be reparsed. More information: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.

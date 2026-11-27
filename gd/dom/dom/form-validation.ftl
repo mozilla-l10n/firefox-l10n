@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Tagh luach dligheach. 'S iad { $lowValue } a
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Tagh luach dligheach. 'S iad { $value } an luach as fhaisge air.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Please select a value between { $minimum } and { $maximum }.
+dom-form-validation-bad-input-number = Cuir a-steach àireamh.
