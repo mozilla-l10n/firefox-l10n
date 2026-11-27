@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Ɣur-k: Askript ur d-yerri ara awal
+dom-slow-script-dialog-message = Askript ɣef usebter-agi ur istuffa ara ahat, neɣ ur d-yettara ara awal. Tzemreḍ ad tḥebseḍ askript-agi tura neɣ kemmel akken ad twaliḍ ma yella askript ad ifak.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Askript: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Ur y-id sutur ara tikelt nniḍen
 dom-slow-script-dialog-stop-button = Ṛken askript
 dom-slow-script-dialog-continue-button = Kemmel
+dom-slow-addon-script-dialog-title = Ɣur-k·m: Askript n uzegrir ur d-yerri ara awal
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
