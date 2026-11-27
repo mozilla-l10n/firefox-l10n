@@ -26,6 +26,15 @@ dom-form-validation-pattern-mismatch-with-title = Sila padankan format yang dimi
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Sila pilih nilai yang tidak melebihi { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Sila pilih nilai yang tidak lewat daripada { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Sila pilih nilai yang tidak kurang daripada { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Sila pilih nilai yang tidak awal daripada { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Silih pilih nilai yang sah. Pilihan sah yang terdekat adalah { $lowValue } dan { $highValue }.
