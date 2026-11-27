@@ -12,6 +12,7 @@
 
 ##
 
+changes-copy-all-changes-button = Αντιγραφή όλων των αλλαγών
 changes-copy-all-changes-button-title = Αντιγραφή μιας λίστας με όλες τις αλλαγές CSS στο πρόχειρο.
 changes-copy-rule-button = Αντιγραφή κανόνα
 changes-copy-rule-button-title = Αντιγραφή περιεχομένων του κανόνα CSS στο πρόχειρο.
