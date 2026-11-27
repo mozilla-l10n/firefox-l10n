@@ -12,9 +12,13 @@ boxmodel-properties-label = Kakosći kašćikowego modela
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Schowaś
+boxmodel-properties-show-label = Pokazaś
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = wótchylenje
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Nadrědowane wótchylenje wubranego elementa
