@@ -6,6 +6,11 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = النموذج الصندوقي
+# Tooltip for the button that allows users to edit the position of an element
+# in the page.
+boxmodel-geometry-button-title = حرّر المكان
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = خصائص النموذج الصندوقي
 
@@ -20,3 +25,5 @@ boxmodel-properties-show-label = اعرض
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = مُزاحة
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = أزِح والد العنصر المُحدد
