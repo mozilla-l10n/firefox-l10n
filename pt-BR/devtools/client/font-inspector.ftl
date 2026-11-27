@@ -24,6 +24,8 @@ font-inspector-font-italic-label = Itálico
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = Mostrar mais
+font-inspector-show-less = Mostrar menos
 
 ##
 
