@@ -9,9 +9,17 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = कोणतेही बदल आढळले नाहीत.
+changes-no-changes-description = इन्स्पेक्टर मधील CSS बदल येथे दिसतील.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = घटक
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = सर्व बदल कॉपी करा
 changes-copy-all-changes-button-title = सर्व CSS बदलांची यादी क्लिपबोर्डवर कॉपी करा.
 changes-copy-rule-button = नियम कॉपी करा
@@ -19,6 +27,9 @@ changes-copy-rule-button-title = या CSS नियमातील मजक�
 
 ## Changes panel context menu
 
+changes-context-menu-copy =
+    .label = प्रत बनवा
+    .accesskey = C
 # Copies the complete contents of the CSS rule.
 changes-context-menu-copy-rule =
     .label = नियम कॉपी करा
