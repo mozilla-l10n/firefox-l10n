@@ -47,6 +47,8 @@ fxviewtabrow-move-tab-end = අගට ගෙනයන්න
     .accesskey = E
 fxviewtabrow-move-tab-window = නව කවුළුවකට ගෙනයන්න
     .accesskey = W
+fxviewtabrow-send-to-device = උපාංගයට යවන්න
+    .accesskey = n
 fxviewtabrow-send-to-mobile = දුරකථනයට යවන්න
     .accesskey = n
 fxviewtabrow-pin-tab = පටිත්ත අමුණන්න
@@ -61,3 +63,9 @@ fxviewtabrow-unmute-tab = පටිත්ත නොනිහඬ
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } සඳහා විකල්ප
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-connect-device = පටිති යැවීමට උපාංගයක් සම්බන්‍ධ කරන්න
+fxviewtabrow-send-to-mobile-sign-in = පටිති යැවීමට පිවිසෙන්න
+fxviewtabrow-send-to-mobile-turn-on-sync = සමමුහූර්තය සක්‍රිය කර පටිති යවන්න

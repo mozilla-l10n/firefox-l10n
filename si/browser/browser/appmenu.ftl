@@ -100,6 +100,9 @@ appmenu-remote-tabs-unverified = ඔබගේ ගිණුම සත්‍යා
 appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = සමමුහූර්තයට පිවිසෙන්න
 fxa-menu-manage-devices =
     .label = ඔබගේ උපාංග කළමනාකරණය
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
@@ -247,6 +250,7 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = ඔබගේ ගිණුමට පිවිසෙන්න
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = දත්ත උල්ලංඝන ඇඟවීම් ලබන්න
 appmenuitem-relay-title = { -relay-brand-short-name }
@@ -270,3 +274,6 @@ appmenu-all-profiles =
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = මෑත පටිති
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = වත්මන් පිටුව මෙම උපාංගයට යවන්න

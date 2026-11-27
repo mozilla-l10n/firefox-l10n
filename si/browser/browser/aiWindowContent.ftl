@@ -15,6 +15,7 @@ smart-window-context-chips-tag-count =
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-account-header = { -smart-window-brand-name } භාවිතයට, ඔබ පිවිසිය යුතුය.
 smartwindow-retry-btn = නැවත
 smartwindow-signin-btn = පිවිසෙන්න
 

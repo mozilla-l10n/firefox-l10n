@@ -9,6 +9,7 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Necun cambiamento trovate.
 changes-no-changes-description = Le cambios a CSS in Inspector parera hic.
 
 ##

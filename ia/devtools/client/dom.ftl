@@ -7,3 +7,5 @@
 
 # Placeholder for the search box in the DOM panel toolbar.
 dom-panel-filter-placeholder = Filtrar le pannello DOM
+# Tooltip for the button that refreshes the DOM panel.
+dom-panel-refresh-button-title = Refrescar

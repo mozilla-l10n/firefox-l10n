@@ -25,3 +25,14 @@ fxa-menu-send-tab-to-device-description = ඔබ පිවිස සිටින
 fxa-menu-sign-out =
     .label = නික්මෙන්න…
 fxa-menu-sync-description = ඕනෑම තැනකින් වියමනට ප්‍රවේශය
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = සමමුහූර්තයට පිවිසෙන්න
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = සමමුහූර්තයට පිවිසෙන්න
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = පටිති යැවීමට පිවිසෙන්න

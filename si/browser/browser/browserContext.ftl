@@ -315,6 +315,15 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = හඬපටය තැපැල් කරන්න...
     .accesskey = a
+main-context-menu-send-to-device-2 =
+    .label = උපාංගයට යවන්න
+    .accesskey = n
+main-context-menu-send-to-mobile-2 =
+    .label = දුරකථනයට යවන්න
+    .accesskey = n
+main-context-menu-send-to-mobile-sign-in = පටිති යැවීමට පිවිසෙන්න
+main-context-menu-send-to-mobile-sign-in-from-link = සබැඳියක් යැවීමට පිවිසෙන්න
+main-context-menu-send-to-mobile-sign-in-from-page = පිටුවක් යැවීමට පිවිසෙන්න
 
 ##
 
@@ -331,9 +340,15 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-passwords =
     .label = මුරපද කළමනාකරණය
     .accesskey = M
+main-context-menu-link-send-to-your-devices =
+    .label = ඔබගේ උපාංගයට යවන්න
+    .accesskey = n
 main-context-menu-link-send-to-device =
     .label = සබැඳිය උපාංගයට යවන්න
     .accesskey = D
+main-context-menu-link-send-to-mobile =
+    .label = සබැඳිය දුරකථනයට යවන්න
+    .accesskey = n
 main-context-menu-frame =
     .label = මෙම රාමුව
     .accesskey = h

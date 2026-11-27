@@ -417,3 +417,52 @@ smartwindow-onboarding-default-window =
     .label = W { -smart-window-brand-name } startować
 smartwindow-onboarding-save =
     .label = Składować a hotowy
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Ze žórłow zapisać
+ai-smart-form-fill-autocomplete-loading = Začituje so
+ai-smart-form-fill-autocomplete-sources-label = Ze žórłow zapisać
+ai-smart-form-fill-close-review-button =
+    .label = Začinić
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } rajtark
+        [two] { $tabs } rajtarkaj
+        [few] { $tabs } rajtarki
+       *[other] { $tabs } rajtarkow
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Žórła wobdźěłać
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Žórła wobdźěłać
+ai-smart-form-fill-suggested-tabs-heading = Namjetowane rajtarki
+ai-smart-form-fill-other-tabs-heading = Druhe rajtarki
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Přetorhnyć
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Dokónčeny
+ai-smart-form-fill-fill-form-button =
+    .label = Formular wupjelnić
+ai-smart-form-fill-review-heading = Namjety přepruwować
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Polo
+ai-smart-form-fill-cancel-review-button =
+    .label = Přetorhnyć
+ai-smart-form-fill-finding-suggestions = Namjety so pytaja
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Pytanje za namjetami skónčić
+ai-smart-form-fill-success-heading = Namjety su so formularej přidali
+ai-smart-form-fill-no-suggestions-heading = Žane namjety namakane
+ai-smart-form-fill-error-try-again-heading = Namjety njejsu so formularej přidali
+ai-smart-form-fill-error-heading = Namjety njejsu so přidali
