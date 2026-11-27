@@ -10,12 +10,34 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Bete eremu hau mesedez.
+dom-form-validation-checkbox-missing = Jarraitu nahi baduzu, markatu lauki hau.
+dom-form-validation-radio-missing = Hautatu aukera hauetako bat.
+dom-form-validation-file-missing = Hautatu fitxategi bat.
+dom-form-validation-select-missing = Hautatu zerrendako elementu bat.
+dom-form-validation-invalid-email = Sartu helbide elektroniko bat.
+dom-form-validation-invalid-url = Sartu URL bat.
+dom-form-validation-invalid-date = Idatzi baliozko data bat.
+dom-form-validation-invalid-time = Idatzi baliozko denbora.
+dom-form-validation-invalid-date-time = Idatzi baliozko data eta denbora.
+dom-form-validation-invalid-month = Idatzi baliozko hilabetea.
+dom-form-validation-invalid-week = Idatzi baliozko astea.
+dom-form-validation-pattern-mismatch = Pareka ezazu eskatutako formatura.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Pareka ezazu eskatutako formatura: { $title }.
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Hautatu { $maximum } baino handiagoa ez den balio bat.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Hautatu { $maximum } baino beranduagokoa ez den balio bat.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Hautatu { $minimum } baino txikiagoa ez den balio bat.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Hautatu { $minimum } baino lehenagokoa ez den balio bat.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
