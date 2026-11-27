@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = سفارشی
 font-inspector-font-size-label = اندازه
 font-inspector-font-weight-label = وزن
 font-inspector-font-italic-label = کج
+font-inspector-letter-spacing-label = فاصله‌گذاری
 font-inspector-line-height-label = ارتفاع خط
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
