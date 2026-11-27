@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = getElementById() 被传递了空字符串参数。
+dom-document-write-ignored = 来自一个外部异步加载的脚本的 document.write() 调用被忽略。
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = 利用 document.write() 写入不平衡树引发来自网络的数据被重新解析。更多信息参见：{ $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
