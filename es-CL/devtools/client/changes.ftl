@@ -18,12 +18,16 @@ changes-element-style-label = Elemento
 # Badge displayed next to the source of changes made inside an iframe.
 # Lowercase intentional.
 changes-iframe-label = iframe
+changes-copy-all-changes-button = Copiar todos los cambios
 changes-copy-all-changes-button-title = Copiar una lista de todos los cambios CSS al portapapeles.
 changes-copy-rule-button = Copiar regla
 changes-copy-rule-button-title = Copiar contenidos de esta regla CSS al portapapeles.
 
 ## Changes panel context menu
 
+changes-context-menu-copy =
+    .label = Copiar
+    .accesskey = C
 # Copies the complete contents of the CSS rule.
 changes-context-menu-copy-rule =
     .label = Copiar regla
