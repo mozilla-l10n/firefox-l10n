@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistem
 font-inspector-no-fonts-used = Në elementin e tanishëm s’ka shkronja të përdorura.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopjoji URL-në
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Tekst paraparjeje shkronjash
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Version:
+font-inspector-font-designer = Hartues:
+font-inspector-font-manufacturer = Prodhues:
+font-inspector-font-vendor = Tregtues:
+font-inspector-font-description = Përshkrim:
+font-inspector-font-license = Licencë:
+font-inspector-font-license-info-url = URL Hollësish Licence:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Zgjeroje
