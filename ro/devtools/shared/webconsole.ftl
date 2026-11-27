@@ -78,6 +78,16 @@ webconsole-message-repeats =
         [few] { $repeats } repetări
        *[other] { $repeats } de repetări
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } mesaj
+        [few] { $count } mesaje
+       *[other] { $count } de mesaje
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -182,6 +192,24 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Golește ieșirea consolei web ({ $shortcut })
 webconsole-filter-input-placeholder = Filtrează ieșirile
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } ascuns
+        [few] { $count } ascunse
+       *[other] { $count } ascunse
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } element ascuns de filtrele de text
+        [few] { $count } elemente ascunse de filtrele de text
+       *[other] { $count } de elemente ascunse de filtrele de text
+    }
+webconsole-close-split-console-button-tooltip = Închide consola divizată (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -197,36 +225,137 @@ webconsole-filter-button-css-inactive-tooltip = Fișele de stil vor fi reanaliza
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Cereri
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Browser
+webconsole-filter-button-chrome-tooltip = Afișează mesajele emise de către browser
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Conținut
+webconsole-filter-button-content-tooltip = Afișează mesajele emise de către conținutul web
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Setări consolă
+webconsole-settings-timestamps =
+    .label = Afișează marcajele temporale
+    .title = Dacă activezi această opțiune, comenzile și datele de ieșire din consola web vor afișa un marcaj temporal
+webconsole-settings-warning-groups =
+    .label = Grupează mesajele similare
+    .title = Când este activată, mesajele similare sunt puse în grupuri
+webconsole-settings-autocomplete =
+    .label = Activează completarea automată
+    .title = Dacă activezi această opțiune, datele de intrare vor afișa sugestii pe măsură ce tastezi
+webconsole-settings-persistent-logs =
+    .label = Jurnale persistente
+    .title = Dacă activezi această opțiune, datele de ieșire nu vor fi golite de fiecare dată când navighezi pe o pagină nouă
+webconsole-settings-instant-evaluation =
+    .label = Evaluare instantanee
+    .title = Dacă activezi această opțiune, datele de intrare vor fi evaluate instantaneu pe măsură ce tastezi
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Activează monitorizarea rețelei
+    .title = Activează opțiunea ca să începi ascultarea cererilor din rețea
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = Navigată pe { $url }
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Reîncărcat
+webconsole-close-sidebar-button-tooltip = Închide bara laterală
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Caută în istoric
+webconsole-reverse-search-close-button-tooltip = Închide ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 rezultat
+        [few] { $index } din { $total } rezultate
+       *[other] { $index } din { $total } de rezultate
+    }
+webconsole-reverse-search-no-result = Niciun rezultat
+webconsole-reverse-search-previous-button-tooltip = Rezultatul anterior ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Rezultatul următor ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Invocare getter <span data-l10n-name="getter-name">{ $getterName }</span> pentru recuperarea listei de proprietăți?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Invocă ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Închide ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Elemente corespondente selectorului: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [DEVTOOLS ERROR] Ne pare rău, nu am putut reda mesajul. Nu ar fi trebuit să se întâmple așa -  te rugăm să raportezi o eroare la { $url } și să pui metadatele mesajului în descriere.
+webconsole-message-render-error-copy-button = Copiază metadatele mesajului în clipboard
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Execută
+webconsole-editor-toolbar-execute-button-tooltip = Execută expresia ({ $shortcut }). Datele de intrare nu vor fi șterse.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Formatează expresia
+webconsole-editor-toolbar-prev-expression-button-tooltip = Expresia anterioară
+webconsole-editor-toolbar-next-expression-button-tooltip = Expresia următoare
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Deschide căutarea inversă în istoric ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Închide căutarea inversă în istoric ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Revenire în modul inline ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Revenire în modul de editare multilinie ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Iterează codul mai repede cu noul mod de editare multilinie. Folosește <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> ca să adaugi rânduri noi și <span data-l10n-name="run-shortcut">{ $runShortcut }</span> pentru execuție.
+webconsole-input-editor-onboarding-dismiss = Am înțeles!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Intrare
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Deschide fișierul JavaScript
+webconsole-input-open-javascript-file-filter = Fișiere JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Sus
+webconsole-input-selector-tooltip = Selectează contextul de evaluare
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Avertismente cookie-uri
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Avertismente Content-Security-Policy
