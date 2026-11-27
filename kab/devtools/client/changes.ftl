@@ -20,9 +20,20 @@ changes-element-style-label = Aferdis
 changes-iframe-label = iframe
 changes-copy-all-changes-button = Nɣel isnifal meṛṛa
 changes-copy-all-changes-button-title = Nɣel ɣef afus tabdert n yibeddilen ɣer CSS.
+changes-copy-rule-button = Nɣel alugen
+changes-copy-rule-button-title = Nɣel igburen n ulugen-a CSS ɣef afus.
 
 ## Changes panel context menu
 
 changes-context-menu-copy =
     .label = Nɣel
     .accesskey = C
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = Nɣel alugen
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = Nɣel taseɣrut
+changes-context-menu-select-all =
+    .label = Fren akk
+    .accesskey = A
