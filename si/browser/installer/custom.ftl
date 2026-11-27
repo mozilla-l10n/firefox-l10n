@@ -69,9 +69,9 @@ warn-disk-space =
     මෙම ස්ථානයෙහි ස්ථාපනය කිරීමට ප්‍රමාණවත් ඉඩක් තැටියේ නැත.
     
     වෙනත් ස්ථානයක් තේරීමට හරි මත ඔබන්න.
-warn-min-supported-osver-msg = සමාවන්න, { $BrandShortName } ස්ථාපනය කිරීමට නොහැකිය. මෙම { $BrandShortName } අනුවාදයට { $MinSupportedVer } හෝ නවතම විය යුතුය. අතිරේක තොරතුරු සඳහා හරි බොත්තම ඔබන්න.
-warn-min-supported-cpu-msg = සමාවන්න, { $BrandShortName } ස්ථාපනය කිරීමට නොහැකිය. මෙම { $BrandShortName } අනුවාදයට { $MinSupportedCPU } සහාය සහිත සකසනයක් අවශ්‍ය වේ. අතිරේක තොරතුරු සඳහා හරි බොත්තම ඔබන්න.
-warn-min-supported-osver-cpu-msg = සමාවන්න, { $BrandShortName } ස්ථාපනය කිරීමට නොහැකිය. මෙම { $BrandShortName } අනුවාදයට { $MinSupportedCPU } සහාය සහිත { $MinSupportedVer } හෝ නව සකසනයක් අවශ්‍ය වේ. අතිරේක තොරතුරු සඳහා හරි බොත්තම ඔබන්න.
+warn-min-supported-osver-msg = සමාවන්න, { $BrandShortName } ස්ථාපනයට නොහැකිය. මෙම { $BrandShortName } අනුවාදයට { $MinSupportedVer } හෝ නවතම විය යුතුය. අතිරේක තොරතුරු සඳහා හරි බොත්තම ඔබන්න.
+warn-min-supported-cpu-msg = සමාවන්න, { $BrandShortName } ස්ථාපනයට නොහැකිය. මෙම { $BrandShortName } අනුවාදයට { $MinSupportedCPU } සහාය සහිත සකසනයක් අවශ්‍ය වේ. අතිරේක තොරතුරු සඳහා හරි බොත්තම ඔබන්න.
+warn-min-supported-osver-cpu-msg = සමාවන්න, { $BrandShortName } ස්ථාපනයට නොහැකිය. මෙම { $BrandShortName } අනුවාදයට { $MinSupportedCPU } සහාය සහිත { $MinSupportedVer } හෝ නව සකසනයක් අවශ්‍ය වේ. අතිරේක තොරතුරු සඳහා හරි බොත්තම ඔබන්න.
 warn-restart-required-uninstall = { $BrandShortName } හි පෙර අස්ථාපනය නිම කිරීමට පරිගණකය නැවත ආරම්භ කළ යුතුය. ඔබට දැන් නැවත ආරම්භ කිරීමට අවශ්‍යද?
 warn-restart-required-upgrade = { $BrandShortName } හි පෙර උත්ශ්‍රේණි කිරීම නිම කිරීමට පරිගණකය නැවත ආරම්භ කළ යුතුය. ඔබට දැන් නැවත ආරම්භ කිරීමට අවශ්‍යද?
 error-create-directory-prefix = නාමාවලිය සෑදීමේ දෝෂයකි:

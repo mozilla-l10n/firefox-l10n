@@ -10,6 +10,8 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = අඩවි‌ සඳහා පෞද්ගලිකත්ව අභිප්‍රේත
+non-technical-privacy-heading =
+    .label = අතිරේක රැකවරණ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -901,6 +903,9 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = සුරැකි මුරපද
     .accesskey = d
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = අතිරේක රැකවරණ
 forms-primary-pw-use =
     .label = ප්‍රාථමික මුරපදයක් යොදා ගන්න
     .accesskey = U

@@ -11,6 +11,7 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-sideload-header = { $extension } එක් කෙරිණි
+webext-perms-optional-perms-header2 = { $extension } අතිරේක අවසර ඉල්ලා සිටියි
 
 ##
 
@@ -42,6 +43,15 @@ webext-perms-host-description-all-urls = සියළුම අඩවි සඳ�
 webext-perms-host-description-one-site = { $domain } සඳහා ඔබගේ දත්ත වෙත ප්‍රවේශය
 # Title of the file picker opened when an extension saves a page as PDF.
 webext-save-as-pdf-dialog-title = මෙලෙස සුරකින්න
+
+## Strings for data collection permissions in the permission prompt.
+
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } අතිරේක සැකසුම් ඉල්ලා සිටියි
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } අතිරේක දත්ත රැස් කිරීම් ඉල්ලා සිටියි
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

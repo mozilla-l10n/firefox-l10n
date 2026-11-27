@@ -54,14 +54,11 @@ webconsole-time-end = { $name }: { $duration }ms - tempore expirate
 # Displayed when console.clear() is ignored because the “Persist Logs” setting
 # is enabled. “Persist Logs” should match webconsole-settings-persistent-logs.label.
 webconsole-console-clear-prevented = console.clear() era impedite per “Registros persistente”
-# Displayed for console.count() calls without a label.
-webconsole-no-counter-label = <no label>
 # Displayed when console.countReset() is called with a counter that doesn’t exist.
 webconsole-counter-doesnt-exist = Le contator “{ $name }” non existe.
 webconsole-max-timers-exceeded = Le numero maxime de temporisatores permittite sur iste pagina ha essite excedite.
 webconsole-timer-already-exists = Le temporisator “{ $name }” ja existe.
 webconsole-timer-doesnt-exist = Le temporisator “{ $name }” non existe.
-webconsole-timer-js-error = Falta a processar del nomine del chronometro.
 
 ##
 
@@ -117,7 +114,7 @@ webconsole-table-value = Valores
 webconsole-level-error = Error
 webconsole-level-warn = Advertentia
 webconsole-level-info = Informationes
-webconsole-level-log = Log
+webconsole-level-log = Registro
 webconsole-level-debug = Depuration
 # Used for function calls logged by the JavaScript Tracer.
 webconsole-level-jstracer = Appello de function
@@ -201,7 +198,6 @@ webconsole-filtered-messages-by-text-tooltip =
         [one] { $count } elemento occultate per le filtro de texto
        *[other] { $count } elementos occultate per le filtro de texto
     }
-webconsole-close-split-console-button-tooltip = Clauder le consola dividite (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -241,10 +237,10 @@ webconsole-settings-autocomplete =
     .title = Si tu activa iste option, suggestiones apparera in le campo de entrata a mesura que tu scribe
 webconsole-settings-persistent-logs =
     .label = Conservar le registros
-    .title = Si tu activa iste option le resultatos non essera vacuate cata vice que tu aperi un nove pagina
+    .title = Si tu activa iste option le resultatos non sera vacuate cata vice que tu aperi un nove pagina
 webconsole-settings-instant-evaluation =
     .label = Evalutation instantanee
-    .title = Si tu activa iste option, le codice entrate essera evalutate instantaneemente a mesura que tu lo scribe
+    .title = Si tu activa iste option, le codice entrate sera evalutate instantaneemente a mesura que tu lo scribe
 # Only displayed in the Browser Console and the Browser Toolbox console.
 browserconsole-settings-network-monitoring =
     .label = Activar surveliantia rete
