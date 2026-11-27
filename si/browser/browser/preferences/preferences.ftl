@@ -509,11 +509,24 @@ home-homepage-new-tabs =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = නිශ්චිත අඩවියක් තෝරන්න
+home-custom-homepage-list =
+    .aria-label = අඩවි ලිපින
+home-custom-homepage-address =
+    .placeholder = ලිපිනය ලියන්න
+home-custom-homepage-delete-address-button =
+    .aria-label = ලිපිනය මකන්න
+    .title = ලිපිනය මකන්න
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = පොත්යොමු…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = ({ $extension }) දිගුව
+home-custom-homepage-header = අභිරුචි මුල් පිටුව
+home-custom-homepage-subpage =
+    .heading = අභිරුචි මුල් පිටුව
 
 ## Home Section - Firefox Home Content Customization
 
@@ -586,6 +599,9 @@ search-remove-engine =
 search-add-engine =
     .label = එකතු
     .accesskey = A
+search-edit-engine =
+    .label = සංස්කරණය
+    .accesskey = E
 search-find-more-link = තවත් සෙවුම් යන්ත්‍ර සොයන්න
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -599,11 +615,27 @@ search-engine-group =
     .label = පෙරනිමි සෙවුම් එළවුම
 search-default-engine =
     .aria-label = පෙරනිමි සෙවුම් එළවුම
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = සොයන්න
+
+## Containers Section
+
+containers-settings-button2 =
+    .title = සැකසුම්
+containers-remove-button3 =
+    .title = මකන්න
+containers-site-remove-button =
+    .title = මකන්න
+containers-remove-button2 =
+    .title = ඉවත් කරන්න
 
 ## Account and sync
 
 sync-group-label =
     .label = සමමුහූර්තය
+account-group-label2 =
+    .label = ගිණුම
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -612,6 +644,9 @@ sync-signedout-caption = වියමන ඔබ සමඟ ගෙනයන්න
 sync-signedout-description2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
 sync-signedout-account-signin3 =
     .label = සමමුහූර්තයට පිවිසෙන්න…
+    .accesskey = i
+sync-signedout-account-short =
+    .label = පිවිසෙන්න
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -772,6 +807,9 @@ privacy-header = පිරික්සුම් රහස්‍යතාව
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = මුරපද
     .searchkeywords = පිවිසුම්
+forms-passwords-header =
+    .aria-label = මුරපද
+    .label = මුරපද
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = මුරපද සුරැකීමට අසන්න
@@ -845,6 +883,12 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+payments-delete-payment-prompt-confirm-button = මකන්න
+payments-delete-payment-prompt-cancel-button = අවලංගු
+payments-delete-payment-button-label =
+    .aria-label = මකන්න
+payments-edit-payment-button-label =
+    .aria-label = සංස්කරණය
 addresses-list-header =
     .label = ලිපින
 addreses-delete-address-button-label =
@@ -860,6 +904,57 @@ passports-delete-passport-button-label =
     .aria-label = මකන්න
 passports-edit-passport-button-label =
     .aria-label = සංස්කරණය
+passports-delete-passport-prompt-title = මෙම ගමන් බලපත්‍රය මකන්නද?
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-3 =
+    .description = { $expDate } | { $securityCode } සුරැකිණි
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-3 for a card that has
+# a saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-3 =
+    .description = { $securityCode } සුරැකිණි
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
+    .label = { $cardNumber }
 
 ## Privacy Section - History
 
@@ -887,6 +982,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ඉතිහාසය මකන්න...
     .accesskey = S
+history-header2 =
+    .heading = ඉතිහාසය
 history-group =
     .label = ඉතිහාසය
 history-mode-radio-group =
@@ -1046,6 +1143,10 @@ permissions-microphone2 =
     .label = ශබ්දවාහිනිය
 permissions-notification2 =
     .label = දැනුම්දීම්
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = සැමවිට
 
 ## Privacy Section - Data Collection
 
@@ -1058,6 +1159,8 @@ collection-backlogged-crash-reports2 =
     .label = බිඳවැටීම් වාර්තා ස්වයංක්‍රීයව යවන්න
     .accesskey = c
 collection-backlogged-crash-reports-description = මෙය { -vendor-short-name } අතිරික්සුවේ දෝෂ හඳුනාගෙන ඒවා නිරාකරණයට උපකාරී වේ. වාර්තා වල පෞද්ගලික හෝ සංවේදී දත්ත ඇතුළත් විය හැකිය.
+settings-redesign-promo-dismiss-button =
+    .label = තේරුණා
 privacy-segmentation-section-header = ඔබගේ පිරික්සීම ඉහළ නංවන නව විශේෂාංග
 privacy-segmentation-section-description = ඔබට වඩාත් පුද්ගලික අත්දැකීමක් ලබා දීමට ඔබගේ දත්ත භාවිතා කරන විශේෂාංග පිරිනමන විට:
 privacy-segmentation-radio-off =
@@ -1124,6 +1227,8 @@ httpsonly-radio-disabled3 =
 httpsonly-group =
     .description = අඩවි වලට ආරක්‍ෂිත සම්බන්ධතා පමණක් ඉඩ දෙයි. අනාරක්‍ෂිතව සබැඳීමට පෙර { -brand-short-name } අසනු ඇත.
     .label = HTTPS-පමණි ප්‍රකාරය
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -1179,6 +1284,12 @@ preferences-doh-select-resolver = ප්‍රතිපාදකය තෝරන
 preferences-doh-manage-exceptions =
     .label = හැරදැමීම් කළමනාකරණය…
     .accesskey = x
+preferences-doh-radio-default =
+    .description = ආරක්‍ෂිත ව.නා.ප. තිබෙන කලාපවල භාවිතා කරයි
+    .label = පෙරනිමි
+preferences-doh-radio-off =
+    .description = පෙරනිමි ව.නා.ප. පිළිවිසඳුව යොදාගන්න
+    .label = අක්‍රිය
 preferences-doh-select-resolver-label =
     .label = ප්‍රතිපාදකය තෝරන්න:
 
@@ -1186,3 +1297,26 @@ preferences-doh-select-resolver-label =
 
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
+
+## AI controls page
+
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-confirmation-cancel =
+    .label = අවලංගු
+preferences-ai-controls-block-confirmation-confirm =
+    .label = අවහිර
+preferences-ai-controls-header3 =
+    .heading = AI පාලන
+
+## Privacy and security status card
+
+issue-card-reset-button =
+    .label = යළි සකසන්න
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = දත්තකඩ
+preferences-etp-custom-cookie-behavior =
+    .aria-label = දත්තකඩ
