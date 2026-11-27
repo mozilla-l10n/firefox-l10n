@@ -210,6 +210,10 @@ pdfjs-web-fonts-disabled = Web Şriftlər söndürülüb: yerləşdirilmiş PDF 
 
 pdfjs-editor-alt-text-cancel-button = Ləğv et
 
+## Controls
+
+pdfjs-editor-add-signature-image-upload-error-description = Şəbəkə bağlantınızı yoxlayın və ya başqa təsviri yoxlayın.
+
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = Ləğv et

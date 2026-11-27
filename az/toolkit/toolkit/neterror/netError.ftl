@@ -35,7 +35,12 @@ neterror-generic-error = { -brand-short-name } bəzi səbəblərə görə bu sə
 neterror-load-error-try-again = Sayt müvəqqəti olaraq qapalı ya da çox məşğul ola bilər. Bir az gözləyib təzədən yoxlayın.
 neterror-load-error-connection = Heç bir səhifə açılmırsa, kompüterinizin internet bağlantısını yoxlayın.
 neterror-load-error-firewall = Əgər kompüteriniz ya da şəbəkəniz Firewall və ya proxy ilə qorunursa, { -brand-short-name } proqramının internetə bağlanma icazəsinin olduğuna əmin olun.
+neterror-http-error-page = Vebsayt ünvanını doğru daxil etdiyinizi yoxlayın.
+neterror-http-empty-response = Vebsayt ünvanını doğru daxil etdiyinizi yoxlayın və bir müddət sonra təkrar cəhd edin.
 neterror-captive-portal = İnternetə çıxmaq üçün bu şəbəkəyə daxil olmalısınız.
+neterror-dns-not-found-hint-check-network = Şəbəkə bağlantınızı yoxlayın
+neterror-dns-not-found-hint-check-network-2 = Şəbəkə bağlantınızı yoxlayın.
+neterror-dns-not-found-offline-hint-header = <strong>Bununla bağlı nə edə bilərsiz?</strong>
 
 ##
 
@@ -95,3 +100,10 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Böyük ehtimalla bu saytı
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> saytının HTTP Strict Transport Security (HSTS) adlı təhlükəsizlik siyasəti var, bu deməkdir ki, { -brand-short-name } bununla ancaq təhlükəsiz əlaqə qura bilər. Bu sayta istisna verə bilməzsiz.
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } { $hostname } serveri ilə təhlükəsiz bağlantı qura bilmədi.
+fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> serveri ilə bağlantı qura bilmədi
+fp-neterror-offline-intro-2 = { -brand-short-name } <strong>{ $hostname }</strong> serveri ilə bağlantı qura bilmədi.

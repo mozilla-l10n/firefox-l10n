@@ -809,7 +809,7 @@ newtab-empty-section-topstories-generic = Hepsini bitirdiniz. Yeni yazılar üç
 
 newtab-discovery-empty-section-topstories-header = Hepsini bitirdiniz!
 newtab-discovery-empty-section-topstories-content = Daha fazla yazı üçün daha sonra yine gelin.
-newtab-discovery-empty-section-topstories-try-again-button = Yeniden dene
+newtab-discovery-empty-section-topstories-try-again-button = Yenidən cəhd et
 newtab-discovery-empty-section-topstories-loading = Yükleniyor…
 # Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
 newtab-discovery-empty-section-topstories-unavailable-header = Haberler şu anda kullanılamıyor
