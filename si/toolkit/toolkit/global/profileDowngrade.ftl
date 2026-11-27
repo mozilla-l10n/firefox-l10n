@@ -7,6 +7,7 @@ profiledowngrade-window2 =
     .title = ඔබ පරණ { -brand-product-name } අනුවාදයක් දියත් කර ඇත
 profiledowngrade-window-create =
     .label = නව පැතිකඩක් සාදන්න
+profiledowngrade-sync2 = { -brand-product-name } හි පරණ අනුවාදයක් භාවිතා කිරීමෙන් දැනට පවතින { -brand-product-name } පැතිකඩකට සුරකින ලද පොත්යොමු හා පිරික්සුම් ඉතිහාසයට හානි විය හැකිය. ඔබගේ තොරතුරු රැක ගැනීමට, මෙම { -brand-short-name } ස්ථාපනය සඳහා නව පැතිකඩක් සාදන්න. පැතිකඩ අතර ඔබගේ පොත්යොමු හා පිරික්සුම් ඉතිහාසය සමමුහූර්තයට සැමවිට ගිණුමකින් පිවිසීමට හැකිය.
 profiledowngrade-nosync = { -brand-product-name } හි පරණ අනුවාදයක් භාවිතා කිරීම නිසා දැනට පවතින { -brand-product-name } පැතිකඩට සුරකින ලද පොත්යොමු සහ පිරික්සුම් ඉතිහාසයට හානි විය හැකිය. ඔබගේ තොරතුරු රැක ගැනීමට, මෙම { -brand-short-name } ස්ථාපනය සඳහා නව පැතිකඩක් සාදන්න.
 profiledowngrade-quit =
     .label =

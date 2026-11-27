@@ -21,7 +21,7 @@ fxa-menu-connect-another-device =
 fxa-menu-send-tab-to-device-syncnotready =
     .label = උපාංග සමමුහූර්ත වෙමින්...
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
-fxa-menu-send-tab-to-device-description = ඔබ ඇතුළු වී සිටින ඕනෑම උපාංගයකට පටිති ක්‍ෂණිකව යවන්න.
+fxa-menu-send-tab-to-device-description = ඔබ පිවිස සිටින ඕනෑම උපාංගයකට පටිති ක්‍ෂණිකව යවන්න.
 fxa-menu-sign-out =
     .label = නික්මෙන්න…
 fxa-menu-sync-description = ඕනෑම තැනකින් වියමනට ප්‍රවේශය
