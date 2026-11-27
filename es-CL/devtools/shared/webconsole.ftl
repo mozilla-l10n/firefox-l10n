@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] { $repeats } repetición
        *[other] { $repeats } repeticiones
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } mensaje
+       *[other] { $count } mensajes
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -181,6 +190,22 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Limpiar la salida de la consola web ({ $shortcut })
 webconsole-filter-input-placeholder = Filtrar salida
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } oculto
+       *[other] { $count } ocultos
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } elemento oculto por el filtro de texto
+       *[other] { $count } elementos ocultos por el filtro de texto
+    }
+webconsole-close-split-console-button-tooltip = Cerrar consola dividida (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -196,36 +221,136 @@ webconsole-filter-button-css-inactive-tooltip = Las hojas de estilo se analizar�
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Solicitudes
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Navegador
+webconsole-filter-button-chrome-tooltip = Mostrar los mensajes emitidos por el propio navegador
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Contenido
+webconsole-filter-button-content-tooltip = Mostrar mensajes emitidos por el contenido web
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Ajustes de la consola
+webconsole-settings-timestamps =
+    .label = Mostrar marcas de tiempo
+    .title = Si activas esta opción, los comandos y los resultados de la consola web van a mostrar una marca de tiempo
+webconsole-settings-warning-groups =
+    .label = Agrupar mensajes similares
+    .title = Cuando está activado, los mensajes similares son colocados en grupos
+webconsole-settings-autocomplete =
+    .label = Activar autocompletar
+    .title = Si habilitas esta opción, la entrada mostrará sugerencias a medida que escribes
+webconsole-settings-persistent-logs =
+    .label = Registros persistentes
+    .title = Si activas esta opción, la salida no será limpiada cada vez que navegues a una nueva página
+webconsole-settings-instant-evaluation =
+    .label = Evaluación instantánea
+    .title = Si habilitas esta opción, la entrada se evaluará inmediatamente a medida que escribes
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Habilitar monitoreo de red
+    .title = Habilitar esto para comenzar a escuchar las solicitudes de red
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = Navega a { $url }
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Recargado
+webconsole-close-sidebar-button-tooltip = Cerrar barra lateral
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Buscar en historial
+webconsole-reverse-search-close-button-tooltip = Cerrar ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 resultado
+       *[other] { $index } de { $total } resultados
+    }
+webconsole-reverse-search-no-result = Sin resultados
+webconsole-reverse-search-previous-button-tooltip = Resultado anterior ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Siguiente resultado ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = ¿Invocar getter <span data-l10n-name="getter-name">{ $getterName }</span> para obtener la lista de propriedades?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Invocar ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Cerrar ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Elementos que coinciden con el selector: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [DEVTOOLS ERROR] Lo sentimos, no pudimos generar el mensaje. Esto no debiera haber pasado - por favor, reporta el error en { $url } con los metadatos de este mensaje en la descripción.
+webconsole-message-render-error-copy-button = Copiar metadatos del mensaje al portapapeles
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Ejecutar
+webconsole-editor-toolbar-execute-button-tooltip = Ejecutar expresión ({ $shortcut }). Esto no limpiará la entrada.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Expresión de impresión bonita
+webconsole-editor-toolbar-prev-expression-button-tooltip = Expresión previa
+webconsole-editor-toolbar-next-expression-button-tooltip = Siguiente expresión
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Abrir la búsqueda inversa de historial ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Cerrar la búsqueda inversa de historial ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Regresar al modo en línea ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Cambiar a modo editor multilínea ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Itera tu código más rápido con el nuevo modo de editor multilínea. Usa <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> para agregar nuevas líneas y <span data-l10n-name="run-shortcut">{ $runShortcut }</span> para ejecutar.
+webconsole-input-editor-onboarding-dismiss = ¡Entendido!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Abrir archivo JavaScript
+webconsole-input-open-javascript-file-filter = Archivos JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Superior
+webconsole-input-selector-tooltip = Seleccionar contexto de evaluación
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Advertencias de cookies
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Advertencias de Content-Security-Policy
