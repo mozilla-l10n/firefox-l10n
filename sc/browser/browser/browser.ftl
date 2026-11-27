@@ -1331,6 +1331,9 @@ menu-share-copy-links =
            *[other] Còpia { $count } ligòngios
         }
     .accesskey = l
+menu-share-windows2 =
+    .label = Àteras optziones
+    .accesskey = À
 ui-tour-info-panel-close =
     .tooltiptext = Serra
 
