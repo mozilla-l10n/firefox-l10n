@@ -18,3 +18,5 @@ boxmodel-properties-label = 박스 모델 속성
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = 오프셋
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = 선택된 요소의 오프셋 부모
