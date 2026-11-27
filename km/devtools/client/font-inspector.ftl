@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = ប្រព័ន្ធ
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = ចម្លង URL
 
@@ -17,6 +20,7 @@ font-inspector-copy-url-title = ចម្លង URL
 
 ##
 
+font-inspector-all-fonts-on-page-header = ពុម្ពអក្សរទាំងអស់នៅលើទំព័រ
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
