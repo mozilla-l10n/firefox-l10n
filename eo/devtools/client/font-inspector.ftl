@@ -23,6 +23,7 @@ font-inspector-font-size-label = Grando
 font-inspector-font-weight-label = Dikeco
 font-inspector-font-italic-label = Kursiva
 font-inspector-letter-spacing-label = Spaco
+font-inspector-line-height-label = Alto de linio
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
