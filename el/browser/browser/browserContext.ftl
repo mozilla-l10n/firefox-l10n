@@ -397,6 +397,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = Ενεργοποίηση μενού ενεργειών
     .accesskey = Ε
+main-context-menu-link-send-to-your-devices =
+    .label = Αποστολή στις συσκευές
+    .accesskey = π
 main-context-menu-link-send-to-device =
     .label = Αποστολή συνδέσμου σε συσκευή
     .accesskey = μ
@@ -464,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Μάθετε περισσότερα για το DRM…
     .accesskey = μ
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Άνοιγμα σε νέα καρτέλα «{ $containerName }»
+    .accesskey = τ
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

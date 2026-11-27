@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Ο διακομιστής δεν βρέθηκε
 neterror-malformed-uri-page-title = Μη έγκυρο URL
 general-body-title = Να προσέχετε. Κάτι δεν πάει καλά.
 problem-with-this-site-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με αυτόν τον ιστότοπο
+neterror-http-auth-scheme-disabled-title = Η μέθοδος σύνδεσης αυτού του ιστοτόπου είναι ανενεργή
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Επικοινωνήστε με τους ιδιο
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = Το { -brand-short-name } δεν εμπιστεύεται το { $hostname } επειδή η σύνδεση δεν είναι ασφαλής. Δοκιμάστε να αλλάξετε το URL σε HTTPS.
+neterror-http-auth-scheme-disabled = Εάν χρειαστεί να συνδεθείτε σε αυτόν τον ιστότοπο, επικοινωνήστε με τον διαχειριστή του συστήματος σας.
 neterror-nss-failure-not-verified = Δεν είναι δυνατή η εμφάνιση της σελίδας που προσπαθείτε να προβάλετε επειδή δεν ήταν δυνατή η επαλήθευση της αυθεντικότητας των ληφθέντων δεδομένων.
 neterror-nss-failure-contact-website = Επικοινωνήστε με τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = Το { -brand-short-name } δεν φόρτωσε �
 fp-neterror-blocked-by-policy-intro = Η εταιρεία σας έχει αποκλείσει την πρόσβαση σε αυτήν τη σελίδα ή τον ιστότοπο.
 fp-neterror-http-auth-disabled-intro = Κάποιος που προσποιείται ότι είναι ο ιστότοπος θα μπορούσε να υποκλέψει στοιχεία, όπως το όνομα χρήστη, τον κωδικό πρόσβασης ή το email σας.
 fp-neterror-http-auth-disabled-secure-connection = Αυτός ο ιστότοπος απαιτεί ασφαλή σύνδεση και δεν μπορείτε να προσθέσετε εξαίρεση για να τον επισκεφθείτε.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = Το <strong>{ $hostname }</strong> σάς ζήτησε να συνδεθείτε με μια μέθοδο που έχει απενεργοποιηθεί στις ρυθμίσεις σύνδεσής σας.
 fp-neterror-why-did-this-happen = Γιατί συνέβη αυτό;
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Φαίνεται ότι αυτός ο ιστότοπος χρησιμοποιεί παλιό λογισμικό με γνωστά ζητήματα ασφαλείας.

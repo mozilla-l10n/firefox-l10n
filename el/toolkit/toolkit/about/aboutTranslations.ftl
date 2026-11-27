@@ -7,6 +7,9 @@ about-translations-title = Μεταφράσεις { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Άμεσες μεταφράσεις που σέβονται το απόρρητό σας.
 about-translations-learn-more-link = Μάθετε περισσότερα
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Κλείσιμο μεταφράσεων του { -brand-short-name }
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Η μετάφραση δεν είναι διαθέσιμη σε αυτήν τη συσκευή

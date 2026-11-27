@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Αναφορά προβληματικού ι
 report-broken-site-panel-header =
     .label = Αναφορά προβληματικού ιστοτόπου
     .title = Αναφορά προβληματικού ιστοτόπου
+report-broken-site-panel-intro-text2 = Η αναφορά σας μάς βοηθά να βελτιώσουμε το { -brand-product-name } για όλους.
 report-broken-site-panel-intro-text = Η αναφορά σας μας βοηθά να κατανοήσουμε και να διορθώσουμε ζητήματα στο { -brand-product-name }, ώστε να το βελτιώσουμε για όλους.
 report-broken-site-panel-learn-more-link = Μάθετε περισσότερα
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Διεύθυνση ιστοτόπου
 report-broken-site-panel-url-label = URL προβληματικού ιστοτόπου
 report-broken-site-panel-reason-intro-text = Τι δεν λειτουργεί;
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Κάτι άλλο
 report-broken-site-panel-instructions-other = Περιγράψτε το πρόβλημα λεπτομερώς για να μας βοηθήσετε να διερευνήσουμε το ζήτημα.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Περιγράψτε λεπτομερώς το πρόβλημα (προαιρετικό)
 report-broken-site-panel-instructions-other-optional = Περιγράψτε το πρόβλημα λεπτομερώς για να μας βοηθήσετε να διερευνήσουμε το ζήτημα. (προαιρετικό)
 report-broken-site-panel-description2 =
     .placeholder = Τι συνέβη; Τι περιμένατε να συμβεί; Παραθέστε βήματα για την αναπαραγωγή του ζητήματος.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Αποστολή πληροφοριών μέσω του { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Αποστολή περισσότερων πληροφοριών
 report-broken-site-panel-button-cancel =

@@ -27,6 +27,8 @@ translations-panel-settings-button =
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button3 =
     .tooltiptext = Μετάφραση σελίδας
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Δοκιμάστε ιδιωτικές μεταφράσεις στο { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 
@@ -60,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Μετάφραση σελίδας;
 translations-panel-translate-button =
     .label = Μετάφραση
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Άμεσες μεταφράσεις στον διαχωρισμό προβολής
+    .tooltiptext = Άμεσες μεταφράσεις στον διαχωρισμό προβολής
 translations-panel-translate-button-loading =
     .label = Περιμένετε…
 translations-panel-translate-cancel =

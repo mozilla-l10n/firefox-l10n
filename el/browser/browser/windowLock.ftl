@@ -7,7 +7,12 @@
 ## sleep or starts the screen saver, or after the user presses the shortcut to
 ## lock windows.
 
+window-lock-private-title = Τα ιδιωτικά παράθυρα είναι κλειδωμένα
 window-lock-unlock-button =
     .label = Ξεκλείδωμα
 # Title of the Windows authentication prompt when unlocking browser windows.
 window-lock-os-auth-dialog-caption = { -brand-full-name }
+# This message is shown in the macOS authentication prompt when unlocking Private Windows.
+# On macOS, only provide the reason that account verification is needed. Do not put a complete sentence here
+# (the system adds “Firefox is trying to…” before it).
+window-lock-private-os-auth-dialog-message-macosx = ξεκλειδώσει τα ιδιωτικά παράθυρά σας

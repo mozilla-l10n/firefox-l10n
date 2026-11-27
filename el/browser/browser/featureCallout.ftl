@@ -198,10 +198,15 @@ tab-groups-2026-onboarding-cta-button = Έναρξη ομάδας
 ## Shown after the browser starts delivering notifications from sites the
 ## user has allowed, even while the browser is closed.
 
+closed-browser-notifications-callout-title = Λάβετε ειδοποιήσεις από ιστοτόπους όταν το { -brand-short-name } είναι κλειστό
+# <a data-l10n-name="learn-more"> is a link to a support article.
+closed-browser-notifications-callout-body = Οι επιτρεπόμενοι ιστότοποι μπορούν πλέον να στέλνουν ειδοποιήσεις, ακόμα και όταν το { -brand-short-name } είναι κλειστό. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 # Opens the notification settings.
 closed-browser-notifications-callout-manage-button = Διαχείριση
 # Stops notifications from being delivered while the browser is closed.
 closed-browser-notifications-callout-turn-off-button = Απενεργοποίηση
+# Keeps notifications being delivered while the browser is closed.
+closed-browser-notifications-callout-keep-on-button = Να παραμείνουν ενεργές
 
 ## Sidebar Strings
 

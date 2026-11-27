@@ -69,6 +69,8 @@ about-logging-preset-windows-description = Μονάδες καταγραφής �
 # Input Method refers to the IME.
 # IME is a component of the operating system used to input Asian languages.
 about-logging-preset-ime-label = Μέθοδος εισαγωγής
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων πληκτρολογίου, συμπεριλαμβανομένου του Input Method Editor (IME)
 about-logging-preset-custom-label = Προσαρμοσμένο
 about-logging-preset-custom-description = Οι μονάδες καταγραφής επιλέχθηκαν χειροκίνητα
 # Error handling
