@@ -14,6 +14,9 @@
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Hodnota nie je v požadovanom formáte: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Zvoľte hodnotu, ktorá nie je väčšia ako { $maximum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Zvoľte platnú hodnotu. Dve najbližšie platné hodnoty sú { $lowValue } a { $highValue }.
@@ -21,3 +24,8 @@ dom-form-validation-step-mismatch = Zvoľte platnú hodnotu. Dve najbližšie pl
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Zvoľte platnú hodnotu. Najbližšia platná hodnota je { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Vyberte hodnotu medzi { $minimum } a { $maximum }.
+dom-form-validation-bad-input-number = Zadajte číslo.
