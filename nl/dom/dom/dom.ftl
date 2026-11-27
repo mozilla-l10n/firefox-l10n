@@ -11,3 +11,11 @@
 dom-performance-observer-unsupported-entry-types = Niet-ondersteunde entryTypes genegeerd: { $entryTypes }.
 # Do not translate "entryTypes".
 dom-performance-observer-no-valid-entry-types = Geen geldige entryTypes; registratie wordt afgebroken.
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = De SVG <{ $tagName }> met ID ‘{ $id }’ heeft een referentielus.
+# Variables:
+#   $tagName (String) - Tag name of the element where the chain was broken.
+#   $id (String) - ID of the element.
+dom-svg-reference-chain-length-exceeded = Een SVG <{ $tagName }>-referentieketen die te lang is, is afgebroken bij het element met ID ‘{ $id }’.
