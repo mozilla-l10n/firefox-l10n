@@ -19,9 +19,21 @@ changes-element-style-label = উপাদান
 # Lowercase intentional.
 changes-iframe-label = আইফ্রেম
 changes-copy-all-changes-button = সব পরিবর্তন অনুলিপি করুন
+changes-copy-all-changes-button-title = ক্লিপবোর্ডে সমস্ত CSS এর পরিবর্তনের একটি তালিকা কপি করুন।
+changes-copy-rule-button = নিয়মাবলী অনুলিপি করুন
+changes-copy-rule-button-title = এই CSS রুলের কনটেন্ট ক্লিপবোর্ডে কপি করুন।
 
 ## Changes panel context menu
 
 changes-context-menu-copy =
     .label = অনুলিপি
     .accesskey = C
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = নিয়মাবলী অনুলিপি করুন
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = ঘোষণা অনুলিপি করুন
+changes-context-menu-select-all =
+    .label = সব নির্বাচন
+    .accesskey = A
