@@ -30,6 +30,15 @@ dom-form-validation-pattern-mismatch-with-title = 入力された値がフィー
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = { $maximum } 以下の値を選択してください。
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = { $maximum } 以前の日付または時刻を選択してください。
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = { $minimum } 以上の値を選択してください。
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = { $minimum } 以後の日付または時刻を選択してください。
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = 正しい値を選択してください。最も近い正しい値は { $lowValue } と { $highValue } です。
