@@ -10,3 +10,6 @@ dom-slow-script-dialog-message = Sekripte sa mo letlakaleng le se ka no ba se sw
 # Variables:
 #   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
 dom-slow-script-dialog-location = Sekripte: { $location }
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = &Se mpotšiše gape
+dom-slow-script-dialog-stop-button = Emiša sekripte
