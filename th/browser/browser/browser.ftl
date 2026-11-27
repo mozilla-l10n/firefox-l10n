@@ -1296,6 +1296,9 @@ menu-share-windows =
 menu-share-copy-links =
     .label = คัดลอก { $count } ลิงก์
     .accesskey = ง
+menu-share-windows2 =
+    .label = ตัวเลือกเพิ่มเติม
+    .accesskey = ต
 ui-tour-info-panel-close =
     .tooltiptext = ปิด
 
