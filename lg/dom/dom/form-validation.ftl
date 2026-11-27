@@ -10,6 +10,14 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Bambi jjuzawo wano.
+dom-form-validation-checkbox-missing = Bambi saza ekibokisi kino oba oyagala kweyongerayo maso.
+dom-form-validation-radio-missing = Bambi londako kimu kubino.
+dom-form-validation-file-missing = Bambi londa fayiro.
+dom-form-validation-select-missing = Bambi londako ekintu kimu ku lukala.
+dom-form-validation-invalid-email = Bambi tekamu endagiriro ya emeyilo.
+dom-form-validation-invalid-url = Bambi tekamu akagatta.
+dom-form-validation-pattern-mismatch = Bambi kola nga bwolagiriddwa.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Bambi kola nga bwolagirridwa: { $title }.
