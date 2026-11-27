@@ -16,3 +16,11 @@ dom-parser-speculation-failed = ᱢᱤᱫ ᱵᱟᱝ ᱵᱟᱨᱟᱵᱟᱹᱨᱤ 
 dom-performance-observer-unsupported-entry-types = ᱵᱟᱝᱥᱟᱦᱚᱫ entryTypes ᱮᱨᱮᱲ ᱜᱤᱰᱤᱜ ᱠᱟᱱᱟ ᱺ { $entryTypes } ᱾
 # Do not translate "entryTypes".
 dom-performance-observer-no-valid-entry-types = ᱴᱷᱤᱠ entryTypes ᱵᱟᱹᱱᱩᱜᱼᱟ ; ᱧᱩᱛᱩᱢᱞᱮᱠᱷᱟ ᱵᱟᱹᱰᱚᱜ ᱠᱟᱱᱟ ᱾
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = SVG <{ $tagName }> ᱥᱟᱶ ID “{ $id }” ᱴᱷᱮᱱ ᱢᱤᱫᱴᱟᱝ ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ ᱞᱩᱯ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾
+# Variables:
+#   $tagName (String) - Tag name of the element where the chain was broken.
+#   $id (String) - ID of the element.
+dom-svg-reference-chain-length-exceeded = ᱢᱤᱫᱴᱟᱝ SVG <{ $tagName }> ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ ᱪᱮᱱ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱹᱰᱤ ᱡᱤᱞᱤᱧ ᱜᱮᱭᱟ ᱫᱚ ᱱᱟᱹᱢᱩᱱᱟ ID “{ $id }” ᱨᱮ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾
