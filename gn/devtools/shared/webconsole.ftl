@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] { $repeats } japojey
        *[other] { $repeats } japojeyjey
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } ñe’ẽmondo
+       *[other] { $count } ñe’ẽmondo
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -181,6 +190,22 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Embogue mba’e’okarupa sẽha ({ $shortcut })
 webconsole-filter-input-placeholder = Mboguaha sẽha
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } kañymby
+       *[other] { $count } kañymby
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } ítem omokañýva moñe’ẽrã mboguaha
+       *[other] { $count } ítem omokañýva moñe’ẽrã mboguaha
+    }
+webconsole-close-split-console-button-tooltip = Emboty mba’e’oka mboja’opyre (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -196,36 +221,136 @@ webconsole-filter-button-css-inactive-tooltip = Umi kuatia mbohekoha ojehechaje�
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Mba’ejerure
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Kundahára
+webconsole-filter-button-chrome-tooltip = Ehechauka ñe’ẽmondo kundahára ojapova’ekue
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Tetepy
+webconsole-filter-button-content-tooltip = Ehechauka ñe’ẽmondo ñanduti rogue ojapova’ekue
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Mba’e’okarupa ñemboheko
+webconsole-settings-timestamps =
+    .label = Ehechauka ára rehegua
+    .title = Ijurujávo ko jeporavorã, umi mbohapeha ha ñanduti mba’e’okarupa ohechaukáta ára rehegua
+webconsole-settings-warning-groups =
+    .label = Emboaty ñe’ẽmondo ojojoguáva
+    .title = Ijuruja jave, ñe’ẽmondo ojojoguáva oñemboatýta
+webconsole-settings-autocomplete =
+    .label = Emyandy myanyhẽjehegui
+    .title = Emyandýramo ko poravopyrã, ehecháta ñe’ẽporã ehaikuévo
+webconsole-settings-persistent-logs =
+    .label = Mboheraguapy areguáva
+    .title = Ijurujávo ko jeporavorã umi apopyre noñemboguemo’ãi eikundahakuévo kuatiarogue pyahúpe
+webconsole-settings-instant-evaluation =
+    .label = Ñeha’ã javetegua
+    .title = Embojurujárõ ko poravorã, pe jeikeha oñeha’ãta kyre’ỹme ehaivekuévo
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Embojuruja Pyha Jehecharã
+    .title = Emyandy kóva ehendu ñepyrũ hag̃ua pyha mba’ejerure
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = { $url } kundaha
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Myanyhẽjey
+webconsole-close-sidebar-button-tooltip = Tenda yke mboty
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Eheka tembiasakue
+webconsole-reverse-search-close-button-tooltip = Emboty ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 apopyre
+       *[other] { $index } de { $total } apopyre
+    }
+webconsole-reverse-search-no-result = Apopyre’ỹ
+webconsole-reverse-search-previous-button-tooltip = Apopyre mboyveguáva ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Apopyre upeiguáva ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = ¿Ehenói getter <span data-l10n-name="getter-name">{ $getterName }</span> eguereko hag̃ua mba’etee rysýi?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Ehenói ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Emboty ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Mba’eporu ojokupytýva poravoha ndive: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = DEVTOOLS ERROR Ore ñerõmína, ndaikatúi rohechauka ñe’ẽmondo. Kóva ndoikoiva’erã kuri, ikatúpa, emondo marandu jejavygua { $url }-pe umi metadato ñe’ẽmondo ñemoha’ãngápe.
+webconsole-message-render-error-copy-button = Eraha umi metadato ñe’ẽmondo rehegua kuatiajokohápe
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Mongu’e
+webconsole-editor-toolbar-execute-button-tooltip = Embohyapu je’epy ({ $shortcut }). Kóva nomboguemo’ãi pe jeikeha.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Je’epy iporã añetéva
+webconsole-editor-toolbar-prev-expression-button-tooltip = Je’epy mboyvegua
+webconsole-editor-toolbar-next-expression-button-tooltip = Je’epy oikótava
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Eheka tembiasakue ijurujáva jevygua ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Emboty jeheka rembiasakue jevygua ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Ejevy jehe’apyre rekópe ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Emoambue mbosako’ihaita rekópe ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Embopya’eve ne mbosako’ihaita ayvu reko pyahu ndive. Eiporu <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> embojuaju hag̃ua tairenda pyahu ha <span data-l10n-name="run-shortcut">{ $runShortcut }</span> emomba’apo hag̃ua.
+webconsole-input-editor-onboarding-dismiss = ¡Aikũmby!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Eike
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Embojuruja marandurenda JavaScript
+webconsole-input-open-javascript-file-filter = Marandurenda JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Yvatevéva
+webconsole-input-selector-tooltip = Eiporavo ñeha’ã jeregua
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Kookie kyhyjerã
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Kyhyjerã tetepy rekorosã porurekogua
