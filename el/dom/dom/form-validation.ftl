@@ -16,3 +16,20 @@ dom-form-validation-pattern-mismatch-with-title = Εισαγάγετε μια τ
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Επιλέξτε μια τιμή που να μην είναι μεγαλύτερη από { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Επιλέξτε μια τιμή που να μην είναι μετά το { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Επιλέξτε μια τιμή που να μην είναι μικρότερη από { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Επιλέξτε μια τιμή που να μην είναι πριν από το { $minimum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Επιλέξτε μια έγκυρη τιμή. Οι δύο πλησιέστερες έγκυρες τιμές είναι { $lowValue } και { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Επιλέξτε μια έγκυρη τιμή. Η πλησιέστερη έγκυρη τιμή είναι { $value }.
