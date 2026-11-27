@@ -5,7 +5,17 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = getElementById()'ge boş tizgi keçirildi.
+dom-document-write-ignored = Eşzamansız-yüklengen hariciy bir bitikten bir document.write() çağırışı ihmal etildi.
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
 dom-performance-observer-unsupported-entry-types = Desteklenmegen entryType'ler ihmal etile: { $entryTypes }.
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = SVG <{ $tagName }> (kimligi: “{ $id }”) bir sıltav iligine saiptir.
+# Variables:
+#   $tagName (String) - Tag name of the element where the chain was broken.
+#   $id (String) - ID of the element.
+dom-svg-reference-chain-length-exceeded = Fazla uzun olğan bir SVG <{ $tagName }> sıltav zıncırı “{ $id }” kimlikli unsurda terk etildi.
