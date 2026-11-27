@@ -14,6 +14,9 @@
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = נא להתאים למבנה המבוקש: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = נא לבחור ערך שאינו גדול מ־{ $maximum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = נא לבחור ערך חוקי. שני הערכים החוקיים הקרובים ביותר הם { $lowValue } ו־{ $highValue }.
