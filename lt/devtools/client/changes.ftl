@@ -9,6 +9,8 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Pakeitimų nerasta.
+changes-no-changes-description = Čia pasirodys CSS pakeitimai iš tyriklio.
 
 ##
 
