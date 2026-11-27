@@ -1396,6 +1396,9 @@ menu-share-copy-links =
            *[other] העתקת { $count } קישורים
         }
     .accesskey = ה
+menu-share-windows2 =
+    .label = אפשרויות נוספות
+    .accesskey = א
 ui-tour-info-panel-close =
     .tooltiptext = סגירה
 
