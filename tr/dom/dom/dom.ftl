@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = getElementById()’ye boş dizgi aktarıldı.
+dom-document-write-ignored = Asenkron olarak yüklenen bir dış betikten gelen document.write() çağrısı görmezden gelindi.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = document.write() kullanılarak yazılan dengesiz bir araç, ağdan gelen verinin yeniden yorumlanmasına sebep oldu. Daha fazla bilgi için: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds(), spacesupdate olay dinleyicisinde eşzamanlı olarak çağrılmadı. IME arayüzü bazı kullanıcılar için beklenmedik bir şekilde yer değiştirebilirsiniz. Daha fazla bilgi için: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
