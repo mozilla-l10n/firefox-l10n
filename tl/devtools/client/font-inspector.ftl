@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistema
 font-inspector-no-fonts-used = Walang ginamit na font sa kasalukuyang element.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopyahin ang URL
