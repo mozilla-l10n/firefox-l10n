@@ -14,6 +14,12 @@
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Please match the requested format: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = कृपया { $maximum } सँ बेसी मान चुनू.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = कृपया { $minimum } सँ कम मान चुनू.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = कृपया एकटा वैध मान चुनू. दुइ नजदीकी वैध मान { $lowValue } अछि आओर { $highValue }.
