@@ -12,6 +12,8 @@ boxmodel-properties-label = Atributoj de skatolmodelo
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Kaŝi
+boxmodel-properties-show-label = Montri
 
 ##
 
