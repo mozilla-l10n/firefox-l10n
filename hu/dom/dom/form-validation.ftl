@@ -39,3 +39,8 @@ dom-form-validation-step-mismatch = Válasszon egy érvényes értéket. A két 
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Válasszon egy érvényes értéket. A legközelebbi érvényes érték: { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Válasszon egy értéket { $minimum } és { $maximum } között.
+dom-form-validation-bad-input-number = Írjon be egy számot.
