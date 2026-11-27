@@ -1356,6 +1356,9 @@ menu-share-windows =
 menu-share-copy-links =
     .label = 링크 { $count }개 복사
     .accesskey = L
+menu-share-windows2 =
+    .label = 추가 옵션
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = 닫기
 
