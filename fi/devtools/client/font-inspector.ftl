@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = system
 font-inspector-no-fonts-used = No fonts used on the current element.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Copy URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Font preview text
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Version:
+font-inspector-font-designer = Designer:
+font-inspector-font-manufacturer = Manufacturer:
+font-inspector-font-vendor = Vendor:
+font-inspector-font-description = Description:
+font-inspector-font-license = License:
+font-inspector-font-license-info-url = License Info URL:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Expand
