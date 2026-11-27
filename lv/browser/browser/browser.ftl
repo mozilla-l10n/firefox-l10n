@@ -2002,14 +2002,14 @@ trustpanel-site-issue-step-etp = Uzlabota izsekošanas aizsardzība
 
 trustpanel-blocker-section-header2-redesign =
     { $count ->
-        [one] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotāju šajā vietnē
-        [zero] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotājus šajā vietnē
-       *[other] { -brand-short-name } liedza <span data-l10n-name="count">{ $count } </span> izsekotājus šajā vietnē
+        [one] { -brand-short-name } šajā vietnē aizturēja <span data-l10n-name="count">{ $count }</span> izsekotāju
+        [zero] { -brand-short-name } šajā vietnē aizturēja <span data-l10n-name="count">{ $count }</span> izsekotāju
+       *[other] { -brand-short-name } šajā vietnē aizturēja <span data-l10n-name="count">{ $count }</span> izsekotājus
     }
 trustpanel-blocker-description-redesign = Šiem izsekotājiem tika liegta informācijas ievākšana par pārlūkošanu.
 trustpanel-no-trackers-header-redesign = Šajā vietnē nav atrasts neviens izsekotājs
 trustpanel-no-trackers-description-redesign = { -brand-short-name } pārbaudīja, vai ir atrodami zināmi izsekotāji, taču nevienu neatrada.
-trustpanel-etp-off-description-redesign = Ieslēdzi aizsardzību, un { -brand-short-name } liegs zināmiem izsekotājiem informācijas par pārlūkošanu ievākšanu!
+trustpanel-etp-off-description-redesign = Ieslēdz aizsardzību, un { -brand-short-name } liegs zināmiem izsekotājiem informācijas par pārlūkošanu ievākšanu!
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
