@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = لم تُستخدم أي خطوط في العنصر الحالي.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = انسخ المسار
 # An "instance" is the term used by font authors for a named group of
