@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = S'ha pasau una cadena vueda ta getElementById().
+dom-document-write-ignored = S'ha ignorau una gritada a document.write() dende un script externo cargau asincronament.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
