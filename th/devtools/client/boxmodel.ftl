@@ -15,3 +15,5 @@ boxmodel-properties-label = คุณสมบัติโมเดลกล่�
 
 ##
 
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = ข้อมูลหลักออฟเซตของอิลิเมนต์ที่เลือก
