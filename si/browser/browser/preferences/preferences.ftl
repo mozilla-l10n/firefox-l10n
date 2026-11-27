@@ -266,13 +266,29 @@ fx-translate-web-pages = { -translations-brand-name }
 translate-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
+settings-translations-subpage-download-retry-button =
+    .label = නැවත
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } (මෙ.බ. { $size }) මකන්නද?
+settings-translations-subpage-download-delete-button =
+    .label = මකන්න
+settings-translations-subpage-download-cancel-button =
+    .label = අවලංගු
+settings-translations-subpage-no-sites-added =
+    .label = අඩවි එක් කර නැත
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = “{ $localeName }” සඳහා මෙ. පද්. සැකසුම් යොදා ගන්න. (උදා. දින, වේලා, අංක, හා මිනුම්)
+settings-spellcheck-header =
+    .label = අකුරු පරීක්‍ෂාව
 check-user-spelling =
     .label = ඔබ ලියන විට අකුරු වින්‍යාසය පරීක්‍ෂා කරන්න
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = ශබ්දකෝෂ බාගන්න
 
 ## Downloads - Files and applications
 
