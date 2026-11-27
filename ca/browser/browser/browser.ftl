@@ -1213,6 +1213,7 @@ qrcode-save-button =
     .label = Desa
 qrcode-window-title = Codi QR
 qrcode-dialog-title = Codi QR
+qrcode-dialog-title-download-mobile = Baixeu el { -brand-product-name } per al mòbil
 qrcode-image =
     .aria-label = Codi QR
 qrcode-close-button =
@@ -1703,6 +1704,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = La protecció contra el seguiment millorada està activada
 trustpanel-etp-label-disabled = La protecció contra el seguiment millorada està desactivada
+trustpanel-etp-label-redesign = Protecció contra el seguiment millorada
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1726,6 +1728,7 @@ trustpanel-header-disabled = Heu desactivat les proteccions
 trustpanel-description-disabled = El { -brand-product-name } està fora de servei. Us recomanem reactivar les proteccions.
 trustpanel-clear-cookies-button = Esborra les galetes i dades del lloc
 trustpanel-privacy-link = Paràmetres de privadesa
+trustpanel-manage-settings-button = Gestiona els paràmetres
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =

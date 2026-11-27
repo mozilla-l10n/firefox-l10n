@@ -422,6 +422,13 @@ smartwindow-onboarding-save =
 ## Generates values for form fields from one or more sources, which are tabs
 ## selected by the user.
 
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Vyplniť zo zdrojov
+ai-smart-form-fill-autocomplete-loading = Načítava sa
+ai-smart-form-fill-autocomplete-sources-label = Vyplniť zo zdrojov
+ai-smart-form-fill-autocomplete-choose-tabs = Ak chcete získať návrhy automatického dopĺňania, otvorte alebo vyberte stránky súvisiace s týmto formulárom
+ai-smart-form-fill-autocomplete-open-tabs = Otvorte stránky súvisiace s týmto formulárom a získajte návrhy na automatické dopĺňanie
 ai-smart-form-fill-close-review-button =
     .label = Zavrieť
 # Variables:
@@ -438,6 +445,10 @@ ai-smart-form-fill-edit-sources-button = Upraviť zdroje
 ai-smart-form-fill-edit-sources-title = Úprava zdrojov
 ai-smart-form-fill-suggested-tabs-heading = Navrhované karty
 ai-smart-form-fill-other-tabs-heading = Ostatné karty
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Prepnúť výber karty “{ $tabTitle }”
 ai-smart-form-fill-cancel-tab-select-button =
     .label = Zrušiť
 ai-smart-form-fill-accept-tab-select-button =
@@ -449,5 +460,25 @@ ai-smart-form-fill-review-heading = Kontrola návrhov
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Položka
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Prejsť na posledný návrh
+    .tooltiptext = Prejsť na koniec
+ai-smart-form-fill-cancel-review-button =
+    .label = Zrušiť
+ai-smart-form-fill-finding-suggestions = Vyhľadávajú sa návrhy
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Zastaviť vyhľadávanie návrhov
+ai-smart-form-fill-success-heading = Formulár bol vyplnený návrhmi
+ai-smart-form-fill-success-description = Pred odoslaním formulár skontrolujte a doplňte všetky nevyplnené polia.
+ai-smart-form-fill-no-changes-heading = Do formulára sa nič nepridalo
+ai-smart-form-fill-no-changes-description = Niektoré polia sa mohli zmeniť alebo už boli vyplnené. Ak to chcete skúsiť znova, vymažte obsah poľa, označte ho a potom vyberte možnosť Vyplniť zo zdrojov.
+ai-smart-form-fill-no-suggestions-heading = Neboli nájdené žiadne návrhy
+ai-smart-form-fill-no-suggestions-description = Tento formulár sa nám nepodarilo načítať ani nájsť vhodné zhody vo vašich zdrojoch. Skúste použiť iné zdroje.
+ai-smart-form-fill-error-try-again-heading = Návrhy sa do formulára nepridali
+ai-smart-form-fill-error-try-again-description = Niečo sa pokazilo. Skúste návrhy pridať znova.
+ai-smart-form-fill-error-heading = Návrhy sa nepodarilo pridať
+ai-smart-form-fill-error-description = Niečo sa pokazilo. Ak to chcete skúsiť znova, označte pole formulára a zvoľte Vyplniť zo zdrojov.
 ai-smart-form-fill-try-again-button =
     .label = Skúsiť znova

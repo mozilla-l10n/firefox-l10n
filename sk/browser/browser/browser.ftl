@@ -1829,6 +1829,13 @@ trustpanel-clear-cookies-subview-button-cancel = Zrušiť
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Ochrana pripojenia pre { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Podrobnosti o pripojení k { $host }
+trustpanel-connection-secure = Pripojenie k tejto stránke je zabezpečené.
+trustpanel-connection-not-secure = Pripojenie tejto stránky nie je zabezpečené.
+trustpanel-connection-not-secure-description = Nezadávajte citlivé údaje, ako sú heslá či údaje o platobných kartách, aby ste zabránili ich odcudzeniu.
 trustpanel-siteinformation-morelink = Ďalšie informácie o stránke
 trustpanel-blocker-see-all = Zobraziť všetko
 trustpanel-blocker-see-trackers-button = Zobraziť sledovacie prvky

@@ -265,6 +265,12 @@ ipprotection-come-back-title = Torneu per provar la VPN integrada
 ipprotection-message-body-hide-location = Amagueu la vostra ubicació quan navegueu amb el { -brand-product-name } per tenir més privadesa i més control.
 ipprotection-connection-status-generic-error-title-1 = No s'ha pogut connectar a la VPN
     .aria-label = No s'ha pogut connectar a la VPN
+ipprotection-connection-status-try-again-button = Torna-ho a provar
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = Continua sense VPN
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = S'està tornant a provar…
+    .aria-label = S'està tornant a provar…
 
 ## IP Protection bandwidth callouts
 

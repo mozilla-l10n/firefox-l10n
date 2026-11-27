@@ -35,6 +35,9 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Desa el fitxer
     .accesskey = s
+# Label of the accept button, used when saving the file is the only option.
+unknowncontenttype-accept-save-file =
+    .label = Desa el fitxer
 unknowncontenttype-remember-choice =
     .label = Fes-ho automàticament per a fitxers com aquests a partir d'ara.
     .accesskey = a
