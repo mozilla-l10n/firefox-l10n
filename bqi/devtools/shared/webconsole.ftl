@@ -94,6 +94,7 @@ webconsole-settings-button-tooltip = سامووا کونسۊل
 
 ## Console input.
 
+webconsole-input-editor-onboarding-dismiss = فئمیم!
 
 ## Labels of groups of similar warnings.
 
