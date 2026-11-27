@@ -19,6 +19,9 @@ font-inspector-custom-instance-name = Personalisar
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = Dimension
+font-inspector-font-weight-label = Peso
+font-inspector-font-italic-label = Italico
 font-inspector-letter-spacing-label = Spatiamento
 font-inspector-line-height-label = Altitude de linea
 
