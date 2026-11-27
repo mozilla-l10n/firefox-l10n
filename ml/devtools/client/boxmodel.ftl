@@ -6,10 +6,14 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = ബോസ്ക് മോഡല്‍
 
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = ഒളിപ്പിക്കുക
+boxmodel-properties-show-label = കാണിക്കുക
 
 ##
 
