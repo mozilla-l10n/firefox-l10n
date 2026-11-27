@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Custom
 font-inspector-font-size-label = Size
 font-inspector-font-weight-label = Weight
 font-inspector-font-italic-label = Italic
+font-inspector-letter-spacing-label = Spacing
 font-inspector-line-height-label = Line Height
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
