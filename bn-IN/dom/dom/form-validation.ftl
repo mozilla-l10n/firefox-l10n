@@ -15,3 +15,6 @@ dom-form-validation-select-missing = অনুগ্রহ করে তাল�
 dom-form-validation-invalid-email = অনুগ্রহ করে ই-মেইল ঠিকানা লিখুন।
 dom-form-validation-invalid-url = অনুগ্রহ করে URL লিখুন।
 dom-form-validation-pattern-mismatch = অনুগ্রহ করে, অনুরোধ করা বিন্যাস প্রয়োগ করুন।
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = অনুগ্রহ করে, অনুরোধ করা বিন্যাস প্রয়োগ করুন: { $title }।
