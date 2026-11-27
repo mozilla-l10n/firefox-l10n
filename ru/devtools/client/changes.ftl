@@ -9,9 +9,14 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Изменений не найдено.
+changes-no-changes-description = Изменения CSS в Инспекторе появятся здесь.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Внутри
 # Displayed in place of a stylesheet file name, above changes made to the
 # style attribute of an element.
 changes-element-style-label = Элемент
