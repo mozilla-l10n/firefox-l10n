@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Lege rige trochjûn oan getElementById().
+dom-document-write-ignored = In fraach nei document.write() fan in asyngroan laden ekstern skript is negearre.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Der is in net-balansearre tree skreaun mei document.write(), wêrtroch gegevens fan it netwurk opnij parsed binne. Mear ynformaasje: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds() is net syngroan oanroppen yn de barrensislistener characterboundsupdate. IME-interface kin foar guon brûkers ûnferwachts beweegje. Mear ynformaasje: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
