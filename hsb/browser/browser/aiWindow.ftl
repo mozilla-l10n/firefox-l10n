@@ -466,3 +466,5 @@ ai-smart-form-fill-success-heading = Namjety su so formularej přidali
 ai-smart-form-fill-no-suggestions-heading = Žane namjety namakane
 ai-smart-form-fill-error-try-again-heading = Namjety njejsu so formularej přidali
 ai-smart-form-fill-error-heading = Namjety njejsu so přidali
+ai-smart-form-fill-try-again-button =
+    .label = Hišće raz spytać
