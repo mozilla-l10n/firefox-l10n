@@ -32,9 +32,15 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Escoge un modelo según los aspectos que son importantes para ti.
     .label = Modelo para el asistente
+smart-window-model-section-v2 =
+    .description = Los modelos son los que hacen posibles los chats y las acciones.
+    .label = Modelo
 smart-window-model-radio-group =
     .aria-label = Modelo para el asistente
 smart-window-model-learn-link = Aprender sobre modelos
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } selecciona el modelo más adecuado para tu tarea.
+    .label = Modelo automático
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
