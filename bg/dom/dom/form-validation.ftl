@@ -10,6 +10,16 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Моля, попълнете полето.
+dom-form-validation-checkbox-missing = Моля, отметнете ако искате да продължите.
+dom-form-validation-radio-missing = Моля, изберете една от тези възможности.
+dom-form-validation-file-missing = Моля, изберете файл.
+dom-form-validation-select-missing = Моля, изберете елемент от списъка.
+dom-form-validation-invalid-email = Моля, въведете адрес на ел. поща.
+dom-form-validation-invalid-url = Моля, въведете адрес от Интернет.
+dom-form-validation-invalid-date = Моля, въведете валидна дата.
+dom-form-validation-invalid-time = Въведете валидно време.
+dom-form-validation-pattern-mismatch = Моля, използвайте нужния формат.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Моля, използвайте нужния формат: { $title }.
