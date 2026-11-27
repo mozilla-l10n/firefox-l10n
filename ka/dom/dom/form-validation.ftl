@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = გთხოვთ, შეავსოთ ეს ველი.
+dom-form-validation-checkbox-missing = გასაგრძელებლად, გთხოვთ მონიშნოთ ეს უჯრა.
+dom-form-validation-radio-missing = გთხოვთ აირჩიეთ მოცემულიდან ერთ-ერთი.
+dom-form-validation-file-missing = გთხოვთ, აირჩიოთ ფაილი
+dom-form-validation-select-missing = გთხოვთ, სიიდან აირჩიოთ ერთეული.
+dom-form-validation-invalid-email = გთხოვთ, შეიყვანოთ ელფოსტის მისამართი.
+dom-form-validation-invalid-url = გთხოვთ, შეიყვანოთ URL.
+dom-form-validation-invalid-date = გთხოვთ, შეიყვანოთ თარიღი სწორად.
+dom-form-validation-invalid-time = მიუთითეთ მართებული დრო.
+dom-form-validation-invalid-date-time = გთხოვთ, შეიყვანოთ თარიღი და დრო სწორად.
+dom-form-validation-invalid-month = გთხოვთ, შეიყვანოთ თვე სწორად.
+dom-form-validation-invalid-week = გთხოვთ, მიუთითოთ კვირა სწორად.
+dom-form-validation-pattern-mismatch = გთხოვთ, ველები შეავსოთ მოთხოვნილ ფორმატში.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = გთხოვთ, ველები შეავსოთ მოთხოვნილ ფორმატში: { $title }.
