@@ -1392,6 +1392,9 @@ menu-share-copy-links =
            *[other] Copia { $count } enllaços
         }
     .accesskey = l
+menu-share-windows2 =
+    .label = Més opcions
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = Tanca
 
