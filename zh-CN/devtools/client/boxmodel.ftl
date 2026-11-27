@@ -12,6 +12,8 @@ boxmodel-properties-label = 盒模型属性
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = 隐藏
+boxmodel-properties-show-label = 显示
 
 ##
 
