@@ -20,3 +20,10 @@ smartwindow-group-tabs-panel-heading = Organizar pestañas
 smartwindow-group-tabs-loading = Buscando pestañas con grupos útiles…
 # Shown when clustering produced no group worth suggesting.
 smartwindow-group-tabs-empty = No hay grupos de pestañas para sugerir en este momento. Vuelva a intentarlo más tarde.
+# Action that opens a list of the tab groups the user already has, both the open
+# ones and the ones they saved by closing them. Only shown when at least one
+# such group exists.
+smartwindow-group-tabs-view-tab-groups = Ver grupos de pestañas
+# Accessible name for the list of existing tab groups the row above opens.
+smartwindow-group-tabs-groups-list =
+    .aria-label = Grupos de pestañas

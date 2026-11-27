@@ -280,6 +280,13 @@ ip-protection-edit-site-rule-dialog =
 # VPN status refers to a state of 'always on' or 'always off' applied to a site
 ip-protection-site-rule-status-field =
     .label = Estado de la VPN
+ip-protection-delete-site-rule-cancel =
+    .label = Cancelar
+ip-protection-delete-site-rule-confirm =
+    .label = Eliminar
+ip-protection-delete-all-site-rules-message = ¿Eliminar todas las reglas del sitio web?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Borrar todas las reglas
 
 ## IP Protection Bandwidth
 

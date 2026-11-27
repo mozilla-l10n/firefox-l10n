@@ -139,7 +139,7 @@ aiwindow-input-model-select-settings-link = 模型選項
 ## Descriptions shown under each model in the smartbar model select when the
 ## Auto model is offered.
 
-aiwindow-input-model-select-auto-description = { -smart-window-brand-name } 會挑選最適合您任務的模型
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name }會挑選最適合您任務的模型
 aiwindow-input-model-select-fast-description = 最適合用來快問快答
 aiwindow-input-model-select-flexible-description = 準備好接受各種類型工作
 aiwindow-input-model-select-personal-description = 若您會使用多種語言聊天與瀏覽網頁，這個最適合您

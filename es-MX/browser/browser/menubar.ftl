@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Ajustes…
 menu-application-set-as-default =
     .label = Establecer { -brand-shorter-name } como navegador predeterminado
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Compartir { -brand-product-name }
 menu-application-services =
     .label = Servicios
 menu-application-hide-this =
@@ -129,6 +133,9 @@ menu-edit-find-in-page =
 menu-edit-find-again =
     .label = Repetir la búsqueda
     .accesskey = R
+menu-edit-find-selection =
+    .label = Utiliza la selección para buscar
+    .accesskey = S
 menu-edit-bidi-switch-text-direction =
     .label = Cambiar la orientación del texto
     .accesskey = o

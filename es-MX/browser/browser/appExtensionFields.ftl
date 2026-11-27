@@ -67,3 +67,15 @@ extension-classic-cyan-name = Cian
 extension-classic-violet-name = Violeta
 # Name for a green theme.
 extension-classic-green-name = Verde
+# Name for a purple theme.
+extension-classic-purple-name = Morado
+# Name for a pink theme.
+extension-classic-pink-name = Rosa
+# Name for a yellow theme.
+extension-classic-yellow-name = Amarillo
+# Name for a red theme.
+extension-classic-red-name = Rojo
+# Name for an orange theme.
+extension-classic-orange-name = Naranja
+# Name for a pure black theme, optimized for OLED screens.
+extension-classic-oled-name = Negro OLED
