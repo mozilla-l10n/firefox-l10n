@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = 系统
 font-inspector-no-fonts-used = 此元素中未使用字体。
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = 复制链接
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = 字体预览文本
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = 版本：
+font-inspector-font-designer = 设计者：
+font-inspector-font-manufacturer = 字体厂商：
+font-inspector-font-vendor = 发布者：
+font-inspector-font-description = 描述：
+font-inspector-font-license = 许可协议：
+font-inspector-font-license-info-url = 许可信息网址：
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = 展开
