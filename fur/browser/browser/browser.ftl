@@ -1285,6 +1285,9 @@ menu-share-copy-links =
            *[other] Copie { $count } colegaments
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = Altris opzions
+    .accesskey = A
 ui-tour-info-panel-close =
     .tooltiptext = Siere
 
