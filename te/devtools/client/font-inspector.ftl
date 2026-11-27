@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = కంప్యూటరు
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = చిరునామా కాపీచెయ్యి
 # Name of the entry in the instance dropdown that holds the settings manually
