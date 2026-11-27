@@ -23,3 +23,6 @@ changes-copy-all-changes-button-title = Копировать все измене
 
 ## Changes panel context menu
 
+changes-context-menu-copy =
+    .label = Копировать
+    .accesskey = и
