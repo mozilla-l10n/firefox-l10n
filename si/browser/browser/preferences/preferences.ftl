@@ -149,6 +149,14 @@ preferences-data-migration-button =
     .accesskey = m
 preferences-profiles-group-header =
     .heading = පැතිකඩ
+preferences-manage-profiles-button =
+    .label = පැතිකඩ කළමනාකරණය
+preferences-profiles-settings-button =
+    .label = සැකසුම්
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = පැතිකඩ තෝරන්න
 preferences-copy-profile-button = පිටපතක්
 tabs-browsing-section =
     .heading = පටිති හා පිරික්සීම

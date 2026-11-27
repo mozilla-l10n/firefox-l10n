@@ -22,6 +22,7 @@ stub-cleanup-paveover-button = Cập nhật
 stub-cleanup-reinstall-button = Cài đặt lại
 stub-cleanup-checkbox-label = Dọn dẹp và tăng tốc. Khôi phục cài đặt mặc định và xóa các tiện ích mở rộng cũ.
 stub-installing-label = Đang cài đặt…
+stub-blurb-first2 = Được thiết kế để bảo vệ bạn, không theo dõi bạn
 stub-blurb-second = Nhanh chóng. An toàn. Tự động chặn các trình theo dõi.
 stub-blurb-third = Cảm ơn bạn đã cùng chúng tôi xây dựng một trang web tốt hơn.
 stub-blurb-first-devedition = Hãy sẵn sàng xây dựng cho web mở.

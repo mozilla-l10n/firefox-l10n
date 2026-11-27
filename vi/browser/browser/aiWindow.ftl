@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Trò chuyện gần đây
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Thẻ mới
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Mở trong { -smart-window-brand-name } mới
+    .accesskey = S
 
 ## Smart Window Toggle Button
 
@@ -402,3 +405,27 @@ smartwindow-onboarding-default-window =
     .label = Bắt đầu trong { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Lưu và tiếp tục
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+ai-smart-form-fill-autocomplete-loading = Đang tải
+ai-smart-form-fill-close-review-button =
+    .label = Đóng
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count = { $tabs } thẻ
+ai-smart-form-fill-suggested-tabs-heading = Thẻ được đề xuất
+ai-smart-form-fill-other-tabs-heading = Các thẻ khác
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Huỷ bỏ
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Xong
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description = Chúng tôi đã tìm thấy các đề xuất cho { $count } trường. Hãy chỉnh sửa hoặc xoá những mục chưa chính xác.
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Trường
