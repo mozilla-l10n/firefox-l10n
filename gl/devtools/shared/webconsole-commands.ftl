@@ -22,3 +22,38 @@ webconsole-commands-usage-unblock =
     Deixar de bloquear solicitudes de rede
     
       Só acepta un argumento, exactamente a mesma cadea que se pasou anteriormente a :block.
+
+## Messages displayed as the result of Web Console commands.
+
+# Displayed when a string is copied to the clipboard with the copy() command,
+# for example copy({hello: "world"}).
+webconsole-commands-copy-value-to-clipboard = Copiouse a cadea ao portapapeis.
+# Displayed when the copy() command can’t stringify an object. “copy” is a
+# function name and should not be translated.
+# Variables:
+#   $error (String) - The original error message.
+webconsole-commands-copy-error = Fallou a orde «copiar»; non é posíbel converter o obxecto nunha cadea: { $error }
+# Displayed when the :block command is successful.
+# Variables:
+#   $url (String) - The URL filter.
+webconsole-commands-blocked-url = As solicitudes de URL que conteñan «{ $url }» están bloqueadas
+# Displayed when the :unblock command is successful.
+# Variables:
+#   $url (String) - The URL filter.
+webconsole-commands-unblocked-url = Eliminouse o filtro de bloqueo «{ $url }»
+# Displayed when no filter is passed to the :block or :unblock commands.
+webconsole-commands-block-arg-missing = Non se especificou ningún filtro
+
+## Messages displayed when the :trace command starts or stops the JavaScript
+## Tracer.
+
+webconsole-commands-start-tracing-to-web-console = Iniciouse o rastrexo na consola web
+webconsole-commands-start-tracing-to-debugger-sidebar = Iniciouse o rastrexo no depurador da barra lateral
+webconsole-commands-start-tracing-to-stdout = Iniciouse o rastrexo a stdout
+webconsole-commands-start-tracing-to-profiler = Iniciouse o rastrexo cara ao perfilador. As trazas mostraranse no perfilador tras detelo.
+webconsole-commands-stop-tracing = Rastrexo detido
+# Displayed when the tracer stops for a reason other than the user request,
+# for example reaching the max-depth option, or an infinite loop.
+# Variables:
+#   $reason (String) - The reason why tracing stopped.
+webconsole-commands-stop-tracing-with-reason = O rastrexo detívose (motivo: { $reason })
