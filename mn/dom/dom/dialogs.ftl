@@ -10,3 +10,6 @@ dom-slow-script-dialog-message = Энэ хуудасны скрипт нь за�
 # Variables:
 #   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
 dom-slow-script-dialog-location = Бичлэг: { $location }
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = &Надаас дахин бүү асуу
+dom-slow-script-dialog-stop-button = Бичлэгийг зогсоо
