@@ -1389,6 +1389,9 @@ menu-share-copy-links =
            *[other] Kopjo { $count } Lidhje
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = Më tepër Mundësi
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = Mbylleni
 
