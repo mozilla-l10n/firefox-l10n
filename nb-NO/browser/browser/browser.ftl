@@ -1391,6 +1391,9 @@ menu-share-copy-links =
            *[other] Kopier { $count } lenker
         }
     .accesskey = o
+menu-share-windows2 =
+    .label = Flere innstillinger
+    .accesskey = F
 ui-tour-info-panel-close =
     .tooltiptext = Lukk
 
