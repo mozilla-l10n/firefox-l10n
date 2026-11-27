@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistema
 font-inspector-no-fonts-used = No s’utilitza cap tipus de lletra en l’element actual.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Copia l'URL
@@ -32,9 +35,23 @@ font-inspector-show-less = Mostra'n menys
 
 ##
 
+font-inspector-all-fonts-on-page-header = Tots els tipus de lletra de la pàgina
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Tipus de lletra utilitzats
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Text de vista prèvia del tipus de lletra
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Versió:
+font-inspector-font-designer = Dissenyador:
+font-inspector-font-manufacturer = Fabricant:
+font-inspector-font-vendor = Proveïdor:
+font-inspector-font-description = Descripció:
+font-inspector-font-license = Llicència:
+font-inspector-font-license-info-url = URL d'informació de la llicència:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Amplia
