@@ -10,6 +10,13 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-invalid-url = Endatescha per plaschair in URL.
+dom-form-validation-invalid-date = Endatescha per plaschair ina data valaivla.
+dom-form-validation-invalid-time = Endatescha per plaschair in temp valid.
+dom-form-validation-invalid-date-time = Endatescha per plaschair ina valur valida per data e temp.
+dom-form-validation-invalid-month = Endatescha per plaschair in mais valid.
+dom-form-validation-invalid-week = Endatescha per plaschair ina emna valida.
+dom-form-validation-pattern-mismatch = Utilisescha per plaschair il format dumandà.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Utilisescha per plaschair il format dumandà: { $title }.
