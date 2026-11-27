@@ -10,6 +10,14 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Tika ye vê qadê dagire.
+dom-form-validation-checkbox-missing = Eger dixwazî bidomînî, tika ye vê qutîkê nîşan bike.
+dom-form-validation-radio-missing = Tika ye yek ji van vebijêrkan hilbijêre.
+dom-form-validation-file-missing = Tika ye pelekî hilbijêre.
+dom-form-validation-select-missing = Tika ye ji lîsteyê parçeyekê hilbijêre.
+dom-form-validation-invalid-email = Tika ye navnîşaneke epeyamê binivîse.
+dom-form-validation-invalid-url = Tika ye URLyekê binivîse.
+dom-form-validation-pattern-mismatch = Tika ye li formata pêwîst bîne.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Tika ye li formata pêwîst bîne: { $title }.
