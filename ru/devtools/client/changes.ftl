@@ -20,9 +20,20 @@ changes-element-style-label = Элемент
 changes-iframe-label = iframe
 changes-copy-all-changes-button = Копировать все изменения
 changes-copy-all-changes-button-title = Копировать все изменения в CSS в буфер обмена.
+changes-copy-rule-button = Копировать правило
+changes-copy-rule-button-title = Копировать содержимое этого CSS-правила в буфер обмена.
 
 ## Changes panel context menu
 
 changes-context-menu-copy =
     .label = Копировать
     .accesskey = и
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = Копировать правило
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = Копировать декларацию
+changes-context-menu-select-all =
+    .label = Выделить всё
+    .accesskey = ы
