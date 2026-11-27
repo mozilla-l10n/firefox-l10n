@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Nen ngec ikom kakube
 
@@ -90,6 +93,9 @@ clear-search-history =
     .label = Jwa yeny mukato
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -138,6 +144,14 @@ search-one-offs-add-engine-menu2 =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Med injin me yeny
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -224,6 +238,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Lor
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
@@ -233,6 +250,9 @@ popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 sharing-warning-window = Itye ka nywako { -brand-short-name }. Jo mukene twero neno kacce iloke i dirica matidi manyen.
 sharing-warning-proceed-to-tab =
     .label = Mede i Dirica matidi
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -258,6 +278,11 @@ urlbar-go-button2 =
     .title = Cit i kanonge ma i lanyut me gintic kabedo
 urlbar-page-action-button =
     .tooltiptext = Jami atima me potbuk
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }: { $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -291,6 +316,27 @@ urlbar-result-action-before-tabtosearch-web = Dii Dirica matidi me yenyo ki { $e
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Dii Dirica matidi me yenyo { $engine }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Alama buk
@@ -310,6 +356,9 @@ urlbar-result-action-search-bookmarks = Yeny Alama buk
 urlbar-result-action-search-history = Yeny Gin mukato
 urlbar-result-action-search-tabs = Yeny Dirica matino
 
+## Used in the menu of a urlbar result.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -325,6 +374,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Lor Neno me Kwan
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -397,6 +451,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Alamabuk
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -452,6 +509,10 @@ toolbar-button-copy =
 toolbar-button-paste =
     .label = Mwon
     .tooltiptext = Mwon ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -517,6 +578,9 @@ keyword-uri-fixup-go-to-button =
     .label = Eyo, cwala i { $hostName }
     .accesskey = Y
 
+## Password save/update panel
+
+
 ##
 
 # "More" item in macOS share menu
@@ -525,7 +589,21 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Lor
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = Gam
@@ -553,9 +631,22 @@ tabs-toolbar-list-all-tabs =
     .label = Rwe dirica matino weng
     .tooltiptext = Rwe dirica matino weng
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Nyuta nining
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -564,6 +655,28 @@ data-reporting-notification-button =
     .label = Yer ngo ma anywako
     .accesskey = Y
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ogengo pot buk man me cane odoco pire kene.
@@ -571,6 +684,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ogengo pot buk man me wir
 refresh-blocked-allow =
     .label = Ye
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -603,6 +719,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Nyut “{ $popupURI }”
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Med-ikome acel nyo makato ma kiketo pe ki twero moko ada gi kadong kijuko woko.
@@ -614,3 +740,30 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = Nong ngec mapol
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
