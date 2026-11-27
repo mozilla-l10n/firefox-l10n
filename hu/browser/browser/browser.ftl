@@ -961,6 +961,13 @@ urlbar-result-sports-team-names = { $homeTeam } kontra { $awayTeam }
 #   $time (string) - Localized time
 urlbar-result-sports-game-date-with-time = { $date } { $time }-kor
 urlbar-result-sports-status-live = Élő
+urlbar-result-sports-status-final = Végeredmény
+urlbar-result-menu-dont-show-sports = Ne jelenítsen meg sporttal kapcsolatos javaslatokat
+    .accesskey = N
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Sporttal kapcsolatos javaslatok
 
 ## Strings used for buttons in the urlbar
 
@@ -1790,8 +1797,20 @@ trustpanel-clear-cookies-subview-button-clear = Törlés
 trustpanel-clear-cookies-subview-button-cancel = Mégse
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Webhely adatainak törlése itt: { $host }
+trustpanel-clear-cookies-description-redesign = Ki lesz jelentkeztetve a webhelyekről. A kosarak tartalma is törlődhet.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = A(z) { $host } kapcsolatának védelmei
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Kapcsolatinformációk erről: { $host }
+trustpanel-connection-secure = A webhely kapcsolata biztonságos.
+trustpanel-connection-not-secure = A webhely kapcsolata nem biztonságos.
+trustpanel-connection-not-secure-description = Az adatlopás megelőzése érdekében ne adjon meg jelszavakat vagy hitelkártyaadatokat.
 trustpanel-siteinformation-morelink = További webhely-információk
 trustpanel-blocker-see-all = Összes megjelenítése
 trustpanel-blocker-see-trackers-button = Követők megtekintése
@@ -1811,6 +1830,15 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] { $count } nyomkövető blokkolva
        *[other] { $count } nyomkövető blokkolva
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] { $count } nyomkövető blokkolva ezen az oldalon
+       *[other] { $count } nyomkövető blokkolva ezen az oldalon
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = Ezen a webhelyen nem találhatók nyomkövetők
+urlbar-trust-icon-tracking-protection-off-tooltip = A követés elleni védelem le van tiltva ezen az oldalon
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1821,6 +1849,16 @@ trustpanel-tracking-header = A { -brand-product-name } engedélyezte ezeket a do
 trustpanel-tracking-description = Nyomkövetők nélkül egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.
 trustpanel-insecure-section-header = A kapcsolat nem biztonságos
 trustpanel-insecure-description = A webhelynek küldött adatok nem titkosítottak. Megtekinthetőek, ellophatóak vagy megváltoztathatóak.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Nem működik a webhely? Próbálja meg az alábbi lépéseket.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Kapcsolja ki ezeket, és ellenőrizze, hogy megoldódik-e a probléma:
+trustpanel-report-broken-site-button = Hibás webhely bejelentése
+trustpanel-report-broken-site-description = A jelentése segít, hogy mindenki számára jobbá tegyük a { -brand-short-name }ot.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } webhelyek közötti nyomkövető süti
@@ -1905,6 +1943,19 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
        *[other] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Adatvédelem, amely Önnek dolgozik
+urlbar-trust-icon-tracker-count-callout-subtitle = A { -brand-short-name } megnehezíti a cégek számára, hogy kövessék Önt. Nyissa meg a pajzsot, hogy megtudja, milyen nyomkövetőket blokkoltunk.
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Kiegészítők
+trustpanel-site-issue-step-vpn = Beépített VPN
+trustpanel-site-issue-step-etp = Fokozott követés elleni védelem
 
 ##  $count (String): the number of trackers blocked.
 

@@ -430,3 +430,50 @@ ai-smart-form-fill-autocomplete-choose-tabs = Chcete-li získat návrhy pro auto
 ai-smart-form-fill-autocomplete-open-tabs = Otevřete stránky související s tímto formulářem a získejte návrhy pro automatické vyplňování
 ai-smart-form-fill-close-review-button =
     .label = Zavřít
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } panel
+        [few] { $tabs } panely
+       *[other] { $tabs } panelů
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Upravit zdroje
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Úprava zdrojů
+ai-smart-form-fill-suggested-tabs-heading = Navrhované panely
+ai-smart-form-fill-other-tabs-heading = Další panely
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Zrušit
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Hotovo
+ai-smart-form-fill-fill-form-button =
+    .label = Vyplnit formulář
+ai-smart-form-fill-review-heading = Zkontrolovat návrhy
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Pole
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Přejít na konec návrhů
+    .tooltiptext = Přejít na konec
+ai-smart-form-fill-cancel-review-button =
+    .label = Zrušit
+ai-smart-form-fill-finding-suggestions = Vyhledávání návrhů
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Zastavit vyhledávání návrhů
+ai-smart-form-fill-success-heading = Formulář byl doplněn návrhy
+ai-smart-form-fill-success-description = Před odesláním formulář zkontrolujte a doplňte chybějící pole.
+ai-smart-form-fill-no-changes-heading = Formulář zůstal beze změn
+ai-smart-form-fill-no-changes-description = Některá pole se mohla změnit nebo už byla vyplněná. Chcete-li to zkusit znovu, vymažte obsah pole, vyberte ho a poté zvolte Vyplnit ze zdrojů.
+ai-smart-form-fill-no-suggestions-heading = Nebyly nalezeny žádné návrhy
+ai-smart-form-fill-no-suggestions-description = Tento formulář se nám nepodařilo načíst nebo jsme ve vašich zdrojích nenašli vhodné údaje. Zkuste použít jiné zdroje.
+ai-smart-form-fill-error-try-again-heading = Návrhy se do formuláře nepodařilo přidat
+ai-smart-form-fill-error-try-again-description = Došlo k chybě. Zkuste návrhy přidat znovu.
+ai-smart-form-fill-error-heading = Návrhy se nepodařilo přidat
+ai-smart-form-fill-error-description = Něco se nepovedlo. Zkuste to znovu: vyberte pole formuláře a zvolte možnost Vyplnit ze zdrojů.
+ai-smart-form-fill-try-again-button =
+    .label = Zkusit znovu

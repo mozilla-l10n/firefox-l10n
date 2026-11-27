@@ -32,6 +32,15 @@ permissions-button-off-temporarily =
     .accesskey = I
 permissions-site-name =
     .label = Weboldal
+# Header of the column showing the container (also known as container tab or
+# contextual identity, e.g. "Personal" or "Work") a website permission
+# applies to. The column is only shown if any permission is set in any container.
+permissions-container =
+    .label = Konténerek
+# Tooltip of the container column for a permission set in a container that has
+# since been removed or can't be identified anymore.
+permissions-container-unknown =
+    .tooltiptext = Ismeretlen konténer
 permissions-status =
     .label = Állapot
 permissions-remove =

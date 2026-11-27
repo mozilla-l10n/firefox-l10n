@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Rákérdezés több lap bezárása előtt
     .accesskey = t
+ask-on-close-multiple-tabs-pbmode =
+    .label = Rákérdezés több lap bezárása előtt a privát ablakokban
+    .accesskey = R
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

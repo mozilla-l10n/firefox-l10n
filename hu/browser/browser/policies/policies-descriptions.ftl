@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Fájlválasztó párbeszédablakok engedélye
 policy-AppAutoUpdate = Az automatikus alkalmazásfrissítés engedélyezése vagy letiltása.
 policy-AppUpdatePin = A { -brand-short-name } megakadályozása abban, hogy a megadott verzión túl frissüljön.
 policy-AppUpdateURL = Egyéni alkalmazásfrissítési webcím megadása.
+policy-Authentication2 = Integrált hitelesítés beállítása azokhoz a webhelyekhez, amelyek támogatják, és ahol a  HTTP-hitelesítési sémák le vannak tiltva.
 policy-Authentication = Integrált hitelesítés beállítása azokhoz a weboldalakhoz, melyek támogatják.
 policy-AutofillAddressEnabled = Automatikus címkitöltés engedélyezése.
 policy-AutofillCreditCardEnabled = Fizetési módok automatikus kitöltésének engedélyezése.

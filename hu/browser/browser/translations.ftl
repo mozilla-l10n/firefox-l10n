@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Fordítás folyamatban
 translations-panel-settings-button =
     .aria-label = Fordítási beállítások kezelése
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Oldal lefordítása
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Próbálja ki a privát fordításokat a { -brand-shorter-name }ban
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Lefordítja az oldalt?
 translations-panel-translate-button =
     .label = Fordítás
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Azonnali fordítások osztott nézetben
+    .tooltiptext = Azonnali fordítások osztott nézetben
 translations-panel-translate-button-loading =
     .label = Kis türelmet…
 translations-panel-translate-cancel =

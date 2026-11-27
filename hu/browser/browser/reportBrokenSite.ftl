@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Hibás webhely bejelentése
 report-broken-site-panel-header =
     .label = Hibás webhely bejelentése
     .title = Hibás webhely bejelentése
+report-broken-site-panel-intro-text2 = A jelentése segít, hogy mindenki számára jobbá tegyük a { -brand-product-name }ot.
 report-broken-site-panel-intro-text = A jelentése segít minket a { -brand-product-name } problémáinak megértésében és javításában, hogy mindenki számára jobbá tegyük.
 report-broken-site-panel-learn-more-link = További tudnivalók
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Webhely címe
 report-broken-site-panel-url-label = Hibás webhely webcíme
 report-broken-site-panel-reason-intro-text = Mi nem működik?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Valami más
 report-broken-site-panel-instructions-other = Írja le részletesen a problémát, hogy segítsen nekünk a probléma kivizsgálásában.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Írja le részletesen a problémát (nem kötelező)
 report-broken-site-panel-instructions-other-optional = Írja le részletesen a problémát, hogy segítsen nekünk a probléma kivizsgálásában. (nem kötelező)
 report-broken-site-panel-description2 =
     .placeholder = Mi történt? Mire számított? Adjon meg a lépéseket a probléma reprodukálásához.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Információk küldése ezen keresztül: { $website }
 report-broken-site-panel-send-more-info-button =
     .label = További információk küldése
 report-broken-site-panel-button-cancel =
@@ -61,6 +70,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Követésvédelem által blokkolt elemek listájának elküldése
 report-broken-site-panel-url-input-label =
     .aria-label = A jelentett oldal webcíme
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Diagnosztikai adatok megtekintése
 report-broken-site-panel-preview-button =
     .label = Jelentés előnézete
 report-broken-site-panel-preview-header2 =
