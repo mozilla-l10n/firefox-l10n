@@ -425,15 +425,15 @@ smartwindow-onboarding-save =
 ai-smart-form-fill-autocomplete-label = Aizpildīt no avotiem
 ai-smart-form-fill-autocomplete-loading = Ielādē
 ai-smart-form-fill-autocomplete-sources-label = Aizpildīt no avotiem
-ai-smart-form-fill-autocomplete-choose-tabs = Atveriet vai izvēlieties ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus.
-ai-smart-form-fill-autocomplete-open-tabs = Atveriet vai izvēlieties ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus.
+ai-smart-form-fill-autocomplete-choose-tabs = Atver vai izvēlies ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus
+ai-smart-form-fill-autocomplete-open-tabs = Atver ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus
 ai-smart-form-fill-close-review-button =
     .label = Aizvērt
 # Variables:
 #   $tabs (number) - The number of tabs used as a source for autofill
 ai-smart-form-fill-autocomplete-tabs-count =
     { $tabs ->
-        [one] Cilne { $tabs }
+        [one] { $tabs } cilne
         [zero] { $tabs } cilnes
        *[other] { $tabs } cilnes
     }
@@ -446,13 +446,13 @@ ai-smart-form-fill-other-tabs-heading = Citas cilnes
 # Variables:
 #   $tabTitle (string) - Title of the tab controlled by the toggle
 ai-smart-form-fill-tab-select-toggle =
-    .aria-label = Pārslēgt cilnes atlasi tab “{ $tabTitle }”
+    .aria-label = Pārslēgt “{ $tabTitle }” cilnes atlasi
 ai-smart-form-fill-cancel-tab-select-button =
     .label = Atcelt
 ai-smart-form-fill-accept-tab-select-button =
     .label = Gatavs
 ai-smart-form-fill-fill-form-button =
-    .label = Aizpildiet veidlapu
+    .label = Aizpildīt veidlapu
 ai-smart-form-fill-review-heading = Pārskatīt ieteikumus
 # Variables:
 #   $count (number) - The number of generated form field suggestions
