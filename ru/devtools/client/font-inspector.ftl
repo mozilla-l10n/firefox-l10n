@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = системный
 font-inspector-no-fonts-used = В текущем элементе ни одного шрифта не использовано.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Копировать URL
@@ -23,6 +26,7 @@ font-inspector-font-size-label = Размер
 font-inspector-font-weight-label = Начертание
 font-inspector-font-italic-label = Курсив
 font-inspector-letter-spacing-label = Интервал
+font-inspector-line-height-label = Выс. строки
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -39,6 +43,15 @@ font-inspector-preview-text-placeholder = Текст предпросмотра 
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Версия:
+font-inspector-font-designer = Разработчик:
+font-inspector-font-manufacturer = Производитель:
+font-inspector-font-vendor = Поставщик:
+font-inspector-font-description = Описание:
+font-inspector-font-license = Лицензия:
+font-inspector-font-license-info-url = URL информации о лицензии:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Развернуть
