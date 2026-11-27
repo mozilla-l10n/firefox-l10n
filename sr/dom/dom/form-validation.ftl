@@ -10,6 +10,25 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Попуните ово поље.
+dom-form-validation-checkbox-missing = Означите ово поље ако желите да наставите.
+dom-form-validation-radio-missing = Изаберите једну од ових опција.
+dom-form-validation-file-missing = Изаберите датотеку.
+dom-form-validation-select-missing = Изаберите ставку са листе.
+dom-form-validation-invalid-email = Унесите адресу е-поште.
+dom-form-validation-invalid-url = Унесите URL.
+dom-form-validation-invalid-date = Унесите исправан датум.
+dom-form-validation-invalid-time = Унесите исправно време.
+dom-form-validation-invalid-date-time = Унесите исправан датум и време.
+dom-form-validation-invalid-month = Унесите испреван месец.
+dom-form-validation-invalid-week = Унесите исправну недељу.
+dom-form-validation-pattern-mismatch = Ускладите са траженим форматом.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Ускладите са траженим форматом: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Изаберите вредност која није већа од { $maximum }.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
