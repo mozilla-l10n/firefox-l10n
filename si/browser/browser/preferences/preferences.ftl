@@ -77,6 +77,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = වසන්න
+do-not-track-removal2 =
+    .label = අපි තවදුරටත් "ලුහුනොබඳින්න" සංඥාවට සහාය නොදක්වයි.
 applications-setting-new-file-types =
     .label = { -brand-short-name } අනකුත් ගොනු සමඟ කුමක් කළ යුතුද?
 
@@ -147,6 +149,11 @@ preferences-data-migration-button =
     .accesskey = m
 preferences-profiles-group-header =
     .heading = පැතිකඩ
+preferences-copy-profile-button = පිටපතක්
+tabs-browsing-section =
+    .heading = පටිති හා පිරික්සීම
+pane-tabs-browsing-title2 = පටිති හා පිරික්සීම
+    .title = පටිති හා පිරික්සීම
 tabs-group-header2 =
     .label = පටිති
 ctrl-tab-recently-used-order =
@@ -173,6 +180,9 @@ show-tabs-in-taskbar =
     .label = පටිති පෙරදසුන් වින්ඩෝස් කාර්ය තීරුවේ පෙන්වන්න
     .accesskey = k
 browser-containers-learn-more = තව දැනගන්න
+browser-containers-settings-2 =
+    .label = සැකසුම් කළමනාකරණය
+    .accesskey = i
 containers-disable-alert-title = සියළුම පටිති අඩංගු වසන්නද?
 startup-group =
     .label = ආරම්භය
@@ -381,6 +391,23 @@ update-in-progress-ok-button = &ඉවතලන්න
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = දැනුම්දීම්
+
+## Firefox support
+
+support-get-help =
+    .label = උදව් ගන්න
+support-share-ideas =
+    .label = අදහස් සහ ප්‍රතිපෝෂණ බෙදාගන්න
+
+## Firefox newsletter
+
+newsletter-sign-up-link =
+    .label = ලියාපදිංචිය
 
 ## General Section - Performance
 
@@ -623,6 +650,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .description = { $email }
+    .label = { $name }
 
 ##
 
@@ -810,6 +842,24 @@ autofill-creditcard-os-dialog-message =
        *[other] { -brand-short-name } ගෙවීම් ක්‍රම සඳහා සැකසුම් වෙනස් කිරීමට උත්සාහ කරයි. මෙයට ඉඩ දීමට ඔබගේ උපාංගයේ පිවිසුම භාවිතා කරන්න.
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+addresses-list-header =
+    .label = ලිපින
+addreses-delete-address-button-label =
+    .aria-label = මකන්න
+addreses-edit-address-button-label =
+    .aria-label = සංස්කරණය
+addresses-delete-address-prompt-title = මෙම ලිපිනය මකන්නද?
+addresses-delete-address-prompt-confirm-button = මකන්න
+addresses-delete-address-prompt-cancel-button = අවලංගු
+passports-list-header =
+    .label = ගමන් බලපත්‍ර
+passports-delete-passport-button-label =
+    .aria-label = මකන්න
+passports-edit-passport-button-label =
+    .aria-label = සංස්කරණය
 
 ## Privacy Section - History
 
