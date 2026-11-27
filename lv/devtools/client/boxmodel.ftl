@@ -6,12 +6,19 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = Kastes modelis
+# Tooltip for the button that allows users to edit the position of an element
+# in the page.
+boxmodel-geometry-button-title = Labot novietojumu
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = Kastes modeļa parametri
 
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Slēpt
+boxmodel-properties-show-label = Rādīt
 
 ##
 
