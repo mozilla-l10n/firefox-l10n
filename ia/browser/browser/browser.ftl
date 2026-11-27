@@ -1393,6 +1393,9 @@ menu-share-copy-links =
            *[other] Copiar { $count } ligamines
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = Altere optiones
+    .accesskey = A
 ui-tour-info-panel-close =
     .tooltiptext = Clauder
 
