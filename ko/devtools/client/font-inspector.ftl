@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = 시스템
 font-inspector-no-fonts-used = 현재 요소에 사용된 글꼴이 없습니다.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL 복사
@@ -27,6 +30,8 @@ font-inspector-line-height-label = 줄 높이
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = 더보기
+font-inspector-show-less = 접기
 
 ##
 
@@ -38,6 +43,15 @@ font-inspector-preview-text-placeholder = 글꼴 미리 보기 텍스트
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = 버전:
+font-inspector-font-designer = 디자이너:
+font-inspector-font-manufacturer = 제조업체:
+font-inspector-font-vendor = 공급업체:
+font-inspector-font-description = 설명:
+font-inspector-font-license = 라이선스:
+font-inspector-font-license-info-url = 라이선스 정보 URL:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = 펼치기
