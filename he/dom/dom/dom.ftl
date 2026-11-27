@@ -5,6 +5,7 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-document-write-ignored = A call to document.write() from an asynchronously-loaded external script was ignored.
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
