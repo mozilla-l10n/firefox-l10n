@@ -23,6 +23,15 @@ dom-form-validation-pattern-mismatch-with-title = 請依照所要求的格式輸
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = 請選擇小於或等於 { $maximum } 的值。
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = 請選擇不晚於 { $maximum } 的值。
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = 請選擇大於或等於 { $minimum } 的值。
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = 請選擇不早於 { $minimum } 的值。
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = 請選擇有效的值。最接近的有效值為 { $lowValue } 與 { $highValue }。
@@ -30,3 +39,8 @@ dom-form-validation-step-mismatch = 請選擇有效的值。最接近的有效�
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = 請選擇有效的值。最接近的有效值為 { $value }。
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = 請選擇 { $minimum } 到 { $maximum } 之間的值。
+dom-form-validation-bad-input-number = 請輸入數字。
