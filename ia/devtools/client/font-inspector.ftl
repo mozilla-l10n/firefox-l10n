@@ -36,10 +36,6 @@ font-inspector-show-less = Monstrar minus
 ##
 
 font-inspector-all-fonts-on-page-header = Tote le typos de character sur le pagina
-# Label for the list of fonts used on the selected element.
-font-inspector-fonts-used-label = Typos de litteras usate
-# Placeholder for the input used to type custom text to preview fonts with.
-font-inspector-preview-text-placeholder = Texto de previsualisation del typo de litteras
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 

@@ -51,17 +51,13 @@ webconsole-time-end = { $name }: { $duration }ms - tempore expirate
 ## Variables:
 ##   $name (String) - Name of the timer or counter.
 
-# Displayed when console.clear() removes the previous messages.
-webconsole-console-cleared = Le consola ha essite vacuate.
 # Displayed when console.clear() is ignored because the “Persist Logs” setting
 # is enabled. “Persist Logs” should match webconsole-settings-persistent-logs.label.
 webconsole-console-clear-prevented = console.clear() era impedite per “Registros persistente”
 # Displayed for console.count() calls without a label.
-webconsole-no-counter-label = <nulle etiquetta>
+webconsole-no-counter-label = <no label>
 # Displayed when console.countReset() is called with a counter that doesn’t exist.
 webconsole-counter-doesnt-exist = Le contator “{ $name }” non existe.
-# Displayed for console.group() calls without a label.
-webconsole-no-group-label = <no gruppo de etiquettas>
 webconsole-max-timers-exceeded = Le numero maxime de temporisatores permittite sur iste pagina ha essite excedite.
 webconsole-timer-already-exists = Le temporisator “{ $name }” ja existe.
 webconsole-timer-doesnt-exist = Le temporisator “{ $name }” non existe.

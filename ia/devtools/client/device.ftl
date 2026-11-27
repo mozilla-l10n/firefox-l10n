@@ -9,8 +9,5 @@
 
 device-type-phones = Telephonos
 device-type-tablets = Tablettas
-device-type-laptops = Computator portabile
 device-type-televisions = TVs
-device-type-consoles = Consolas de jocos
-device-type-watches = Observationes
 device-type-custom = Personalisate
