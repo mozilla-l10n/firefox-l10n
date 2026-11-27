@@ -5,6 +5,8 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Upozorenje: skripta se ne odaziva
+dom-slow-script-dialog-message = Skripta na ovoj stranici je možda zauzeta ili je možda prestala odgovarati. Skriptu možete zaustaviti odmah ili možete nastaviti čekati da završi.
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =

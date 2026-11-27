@@ -20,6 +20,9 @@ dom-form-validation-invalid-url = Upišite URL.
 dom-form-validation-invalid-date = Upiši ispravan datum.
 dom-form-validation-invalid-time = Upiši ispravno vrijeme.
 dom-form-validation-invalid-date-time = Upiši ispravan datum i vrijeme.
+dom-form-validation-invalid-month = Upiši ispravan mjesec.
+dom-form-validation-invalid-week = Upiši ispravan tjedan.
+dom-form-validation-pattern-mismatch = Uskladi s traženim formatom.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Uskladi s traženim formatom: { $title }.
@@ -43,3 +46,8 @@ dom-form-validation-step-mismatch = Odaberi ispravnu vrijednost. Dvije najbliže
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Odaberi ispravnu vrijednost. Najbliža ispravna vrijednost je { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Odaberi vrijednost između { $minimum } i { $maximum }.
+dom-form-validation-bad-input-number = Upiši broj.
