@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Chiedi prima di chiudere più schede
     .accesskey = d
+ask-on-close-multiple-tabs-pbmode =
+    .label = Chiedi prima di chiudere più schede in finestre anonime
+    .accesskey = C
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted
