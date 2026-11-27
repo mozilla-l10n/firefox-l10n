@@ -9,9 +9,20 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = S’u gjetën ndryshime.
+changes-no-changes-description = Ndryshime në CSS te Inspektori do të shfaqen këtu.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Brendazi
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Element
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = Kopjo Krejt Ndryshimet
 changes-copy-all-changes-button-title = Kopjoni në të papastër një listë të krejt ndryshimeve CSS.
 changes-copy-rule-button = Kopjo Rregullin
