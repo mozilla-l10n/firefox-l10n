@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Po meri
 font-inspector-font-size-label = Velikost
 font-inspector-font-weight-label = Teža
 font-inspector-font-italic-label = Ležeče
+font-inspector-letter-spacing-label = Razmik
 font-inspector-line-height-label = Višina vrstice
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
