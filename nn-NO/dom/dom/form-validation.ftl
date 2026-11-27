@@ -14,6 +14,9 @@
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Skriv inn data som stemmer med formatet: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Vel ein verdi som ikkje er meir enn { $maximum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Vel ein gyldig verdi. Dei to næraste gyldige verdiane er { $lowValue } og { $highValue }.
