@@ -6,4 +6,7 @@
 ## Unresponsive script dialog
 
 dom-slow-script-dialog-title = সতর্কীকরণ: নিরুত্তর স্ক্রিপ্ট
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = পুনরায় জিজ্ঞেস করা হবে না &D
+dom-slow-script-dialog-stop-button = স্ক্রিপ্ট বন্ধ করুন
 dom-slow-script-dialog-continue-button = চালিয়ে যান
