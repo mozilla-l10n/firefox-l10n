@@ -39,3 +39,8 @@ dom-form-validation-step-mismatch = Zvolte prosím platnou hodnotu. Nejbližší
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Zvolte prosím platnou hodnotu. Nejbližší platná hodnota je { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Vyberte prosím hodnotu mezi { $minimum } a { $maximum }.
+dom-form-validation-bad-input-number = Zadejte prosím platné číslo.
