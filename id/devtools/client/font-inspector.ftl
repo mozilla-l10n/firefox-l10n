@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Ubahsuaian
 font-inspector-font-size-label = Ukuran
 font-inspector-font-weight-label = Berat
 font-inspector-font-italic-label = Miring
+font-inspector-letter-spacing-label = Spasi
 font-inspector-line-height-label = Tinggi Baris
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
