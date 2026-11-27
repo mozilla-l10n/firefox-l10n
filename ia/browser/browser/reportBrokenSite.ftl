@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Reportar sito corrupte
 report-broken-site-panel-header =
     .label = Reportar sito corrupte
     .title = Reportar sito corrupte
+report-broken-site-panel-intro-text2 = Tu reporto adjuta nos a meliorar { -brand-product-name } pro omnes.
 report-broken-site-panel-intro-text = Tu reporto nos adjuta a comprender e corriger problemas in { -brand-product-name } pro render lo melior pro omnes.
 report-broken-site-panel-learn-more-link = Pro saper plus
 # Label above the address of the page being reported.

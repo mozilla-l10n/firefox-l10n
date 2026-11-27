@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Dosya seçme iletişim kutularına izin ver.
 policy-AppAutoUpdate = Otomatik uygulama güncellemesini aç veya kapat.
 policy-AppUpdatePin = { -brand-short-name } tarayıcısının belirtilen sürümün üzerine güncellenmesini engelle.
 policy-AppUpdateURL = Özel uygulama güncelleme URL’si ayarla.
+policy-Authentication2 = Destekleyen web siteleri için tümleşik kimlik doğrulamayı ve devre dışı bırakılacak HTTP kimlik doğrulama yöntemlerini yapılandır.
 policy-Authentication = Destekleyen web siteleri için bütünleşik kimlik doğrulamasını yapılandır.
 policy-AutofillAddressEnabled = Adresler için otomatik doldurmayı etkinleştir.
 policy-AutofillCreditCardEnabled = Ödeme yöntemleri için otomatik doldurmayı etkinleştir.

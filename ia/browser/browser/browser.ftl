@@ -1866,6 +1866,7 @@ trustpanel-site-issue-header =
 # whether one of them causes the problem.
 trustpanel-site-issue-steps-intro = Disactiva los pro vider si isto repara le problema:
 trustpanel-report-broken-site-button = Reportar sito corrupte
+trustpanel-report-broken-site-description = Tu reporto adjuta nos a meliorar { -brand-short-name } pro omnes.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } Cookie de traciamento inter sitos
@@ -1954,6 +1955,7 @@ trustpanel-blocker-section-header2 =
 ## Feature callout shown the first time the tracker count appears in the URL bar
 
 urlbar-trust-icon-tracker-count-callout-title = Confidentialitate que functiona pro te
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } rende plus ardue pro le companias mantener schedas sur te. Aperi le scuto pro vider que traciatores nos blocava.
 
 ## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
 ## Each one names a feature the user can turn off to check whether it causes

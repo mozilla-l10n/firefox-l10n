@@ -26,6 +26,9 @@ browserconsole-parent-process-title = Processo parente Consola de navigator
 webconsole-console-api-disabled = Le API de registration del consola Web (console.log, console.info, console.warn, console.error) ha essite disactivate per un script de iste pagina.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
+# Link displayed after some messages (e.g. security related messages), pointing
+# to documentation.
+webconsole-learn-more = Pro saper plus
 
 ## Stack traces, for example the result of console.trace().
 

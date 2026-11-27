@@ -50,13 +50,13 @@ detail-update-type =
     .value = ස්වයංක්‍රිය යාවත්කාල
 detail-update-default =
     .label = පෙරනිමි
-    .tooltiptext = පෙරනිමි නම්, ස්වයංක්‍රීයව එක්කහු යාවත්කාල කරන්න
+    .tooltiptext = පෙරනිමි නම්, ස්වයංක්‍රියව එක්කහු යාවත්කාල කරන්න
 detail-update-automatic =
     .label = සක්‍රිය
-    .tooltiptext = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය කරන්න
+    .tooltiptext = ස්වයංක්‍රියව යාවත්කාල ස්ථාපනය කරන්න
 detail-update-manual =
     .label = අක්‍රිය
-    .tooltiptext = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය නොකරන්න
+    .tooltiptext = ස්වයංක්‍රියව යාවත්කාල ස්ථාපනය නොකරන්න
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = පෞද්. කවුළුවක ධාවනය
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
