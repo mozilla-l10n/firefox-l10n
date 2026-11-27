@@ -10,9 +10,25 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Lütfen bu alanı doldurun.
+dom-form-validation-checkbox-missing = Devam etmek için lütfen bu kutuyu işaretleyin.
+dom-form-validation-radio-missing = Lütfen bu seçeneklerden birini seçin.
+dom-form-validation-file-missing = Lütfen bir dosya seçin.
+dom-form-validation-select-missing = Lütfen listeden bir öğe seçin.
+dom-form-validation-invalid-email = Lütfen bir e-posta adresi yazın.
+dom-form-validation-invalid-url = Lütfen bir URL yazın.
+dom-form-validation-invalid-date = Lütfen geçerli bir tarih girin.
+dom-form-validation-invalid-time = Lütfen geçerli bir saat girin.
+dom-form-validation-invalid-date-time = Lütfen geçerli bir tarih ve saat girin.
+dom-form-validation-invalid-month = Lütfen geçerli bir ay girin.
+dom-form-validation-invalid-week = Lütfen geçerli bir hafta girin.
+dom-form-validation-pattern-mismatch = Lütfen istenen biçime uyun.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Lütfen istenen biçime uyun: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Lütfen { $maximum } değerini geçmeyen bir değer seçin.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
