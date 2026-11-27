@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Ataj na'anj: Script nu nariki nugua'an
+dom-slow-script-dialog-message = Hua 'ngo nej Script ma riña página na hua chruj, nej si nitaj si 'iaj sunj. Ga'ue dunukint ma, nej si gana'uij da gui'iaj sunj.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Script: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Don’t ask me again
 dom-slow-script-dialog-stop-button = Dunikin' Script
 dom-slow-script-dialog-continue-button = Gun' ne'ña an
+dom-slow-addon-script-dialog-title = Ataj na'anj: Script nu nariki nugua'an
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
