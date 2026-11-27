@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = વર્તમાન તત્વ પર કોઈ ફોન્ટ્સનો ઉપયોગ થતો નથી.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL ની નકલ
 # An "instance" is the term used by font authors for a named group of
@@ -29,6 +30,11 @@ font-inspector-show-less = ઓછું બતાવો
 
 ##
 
+font-inspector-all-fonts-on-page-header = પાનાં પરના બધા ફોન્ટ્સ
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = વપરાયેલ ફોન્ટ્સ
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = ફોન્ટ પૂર્વાવલોકન ટેક્સ્ટ
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
