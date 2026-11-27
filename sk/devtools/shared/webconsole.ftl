@@ -78,6 +78,16 @@ webconsole-message-repeats =
         [few] { $repeats } opakovania
        *[other] { $repeats } opakovaní
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } správa
+        [few] { $count } správy
+       *[other] { $count } správ
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -182,6 +192,24 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Vymazať výstup webovej konzoly ({ $shortcut })
 webconsole-filter-input-placeholder = Filtrovať výstup
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } skrytá
+        [few] { $count } skryté
+       *[other] { $count } skrytých
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } položka skrytá textovým filtrom
+        [few] { $count } položky skryté textovým filtrom
+       *[other] { $count } položiek skrytých textovým filtrom
+    }
+webconsole-close-split-console-button-tooltip = Zavrie konzolu (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -197,36 +225,137 @@ webconsole-filter-button-css-inactive-tooltip = Šablóny so štýlmi sa opätov
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Žiadosti
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Prehliadač
+webconsole-filter-button-chrome-tooltip = Zobrazovať správy vygenerované samotným prehliadačom
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Obsah
+webconsole-filter-button-content-tooltip = Zobrazovať správy vysielané webovým obsahom
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Nastavenia konzoly
+webconsole-settings-timestamps =
+    .label = Zobraziť časové známky
+    .title = Ak povolíte túto možnosť, príkazy a výstup vo Webovej konzole budú zobrazované aj s ich časovými známkami
+webconsole-settings-warning-groups =
+    .label = Zoskupiť podobné správy
+    .title = Ak je táto možnosť povolená, podobné správy sa umiestňujú do skupín
+webconsole-settings-autocomplete =
+    .label = Povoliť automatické dokončovanie
+    .title = Ak povolíte túto možnosť, vstup bude pri zadávaní zobrazovať návrhy
+webconsole-settings-persistent-logs =
+    .label = Protokol natrvalo
+    .title = Ak povolíte túto možnosť, výstup nebude vymazávaný pri každej návšteve novej stránky
+webconsole-settings-instant-evaluation =
+    .label = Okamžité vyhodnotenie
+    .title = Ak povolíte túto možnosť, vstup bude pri zadávaní okamžite vyhodnocovaný
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Povoliť monitorovanie siete
+    .title = Povoľte túto možnosť, ak chcete začať sledovať požiadavky siete
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = Prechod na { $url }
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Znova načítaná
+webconsole-close-sidebar-button-tooltip = Zavrieť bočný panel
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Hľadať v histórii
+webconsole-reverse-search-close-button-tooltip = Zavrieť ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 výsledok
+        [few] { $index }. z { $total } výsledkov
+       *[other] { $index }. z { $total } výsledkov
+    }
+webconsole-reverse-search-no-result = Žiadne výsledky
+webconsole-reverse-search-previous-button-tooltip = Predchádzajúci výsledok ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Ďalší výsledok ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Vyvolať getter <span data-l10n-name="getter-name">{ $getterName }</span> a získať zoznam vlastností?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Vyvolané ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Zavrieť ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Prvky zodpovedajúce selektoru: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [CHYBA NÁSTROJA PRE VÝVOJÁROV] Je nám ľúto, správu sa nepodarilo vykresliť. Toto sa nemalo stať - nahláste chybu na adrese { $url } a pridajte metadáta správy do jej popisu.
+webconsole-message-render-error-copy-button = Kopírovať metadáta správy do schránky
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Spustiť
+webconsole-editor-toolbar-execute-button-tooltip = Spustiť výraz ({ $shortcut }). Týmto sa nevymaže vstup.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Naformátovať zdrojový kód výrazu
+webconsole-editor-toolbar-prev-expression-button-tooltip = Predchádzajúci výraz
+webconsole-editor-toolbar-next-expression-button-tooltip = Ďalší výraz
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Otvoriť reverzné vyhľadávanie histórie ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Zavrieť reverzné vyhľadávanie histórie ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Prepnúť späť do jednoduchého režimu ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Prepnúť do režimu viacriadkového editora ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Prechádzajte svoj kód rýchlejšie pomocou nového režimu viacriadkového editora. Nové riadky pridávate stlačením klávesu <span data-l10n-name="enter-key">{ webconsole-enter-key }</span>, stlačením klávesu <span data-l10n-name="run-shortcut">{ $runShortcut }</span> spúšťate daný výraz.
+webconsole-input-editor-onboarding-dismiss = Rozumiem!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Otvoriť súbor typu JavaScript
+webconsole-input-open-javascript-file-filter = Súbory typu JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Hlavné
+webconsole-input-selector-tooltip = Zvoľte kontext hodnotenia
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Upozornenia na súbory cookie
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Upozornenia týkajúce sa Content-Security-Policy
