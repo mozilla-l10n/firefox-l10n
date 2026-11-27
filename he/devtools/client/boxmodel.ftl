@@ -6,6 +6,11 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = מודל הקופסה
+# Tooltip for the button that allows users to edit the position of an element
+# in the page.
+boxmodel-geometry-button-title = עריכת המיקום
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = מאפייני מודל הקופסה
 
@@ -20,3 +25,5 @@ boxmodel-properties-show-label = הצגה
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = היסט
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = היסט הורה של הרכיב הנבחר
