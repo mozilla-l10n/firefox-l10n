@@ -5,6 +5,21 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Pusty ciąg znaków przekazany do „getElementById()”.
+dom-document-write-ignored = Zignorowano wywołanie „document.write()” z asynchronicznie pobranego skryptu zewnętrznego.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Przy użyciu „document.write()” wypisano niezrównoważone drzewo, co wymusiło ponowne przetwarzanie danych z sieci. Więcej informacji: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds() nie zostało wywołane synchronicznie w obserwatorze zdarzeń characterboundsupdate. Interfejs IME może się nieoczekiwanie zmieniać u niektórych użytkowników. Więcej informacji: { $url }
+# Do not translate "entryTypes".
+# Variables:
+#   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
+dom-performance-observer-unsupported-entry-types = Ignorowanie nieobsługiwanych własności „entryType”: { $entryTypes }.
+# Do not translate "entryTypes".
+dom-performance-observer-no-valid-entry-types = Brak prawidłowych wartości „entryTypes”, przerywanie rejestracji.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
