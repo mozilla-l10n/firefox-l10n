@@ -13,3 +13,7 @@ dom-document-write-ignored = যুগপৎ নয় এমনভাবে লো
 dom-performance-observer-unsupported-entry-types = অসমর্থিত এন্ট্রি টাইপ উপেক্ষা করা: { $entryTypes }।
 # Do not translate "entryTypes".
 dom-performance-observer-no-valid-entry-types = কোনো বৈধ এন্ট্রি টাইপ নেই; নিবন্ধন বাতিল করা।
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = আইডি “{ $tagName }” এর SVG <{ $id }> এর রেফারেন্স লুপ আছে।
