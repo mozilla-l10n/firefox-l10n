@@ -15,5 +15,8 @@ boxmodel-properties-label = Atributoj de skatolmodelo
 
 ##
 
+# Short label displayed next to the position property of a positioned element,
+# in front of the DOM node that is its offset parent.
+boxmodel-offset-parent = deŝovo
 # Tooltip for the boxmodel-offset-parent label.
 boxmodel-offset-parent-title = Deŝovo rilate al la gepatro de la elektita elemento
