@@ -11,3 +11,11 @@
 dom-performance-observer-unsupported-entry-types = Desteklenmeyen entryType’lar görmezden geliniyor: { $entryTypes }.
 # Do not translate "entryTypes".
 dom-performance-observer-no-valid-entry-types = Geçerli entryTypes yok. Kayıttan vazgeçiliyor.
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = { $tagName } SVG'si (“{ $id }” kimliğine sahip) bir başvuru döngüsüne sahip.
+# Variables:
+#   $tagName (String) - Tag name of the element where the chain was broken.
+#   $id (String) - ID of the element.
+dom-svg-reference-chain-length-exceeded = Çok uzun olan { $tagName } SVG başvuru zinciri “{ $id }” kimliğine sahip öğede terk edildi.
