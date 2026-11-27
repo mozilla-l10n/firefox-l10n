@@ -9,6 +9,14 @@
 ## preferences to web pages: pass numbers as strings, unless they're only used
 ## to select a plural form, and don't use NUMBER() or DATETIME().
 
+# Do not translate "captureEvents()" or "addEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-capture-events = A captureEvents() használata elavult. Frissítse a kódját, használja a DOM 2 addEventListener() metódust. További segítség: { $url }
+# Do not translate "releaseEvents()" or "removeEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-release-events = A releaseEvents() használata elavult. Frissítse a kódját, használja a DOM 2 removeEventListener() metódust. További segítség: { $url }
 # Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
 dom-deprecated-idb-object-store-moz-get-all = Az IDBObjectStore.mozGetAll() elavult. Használja helyette az IDBObjectStore.getAll() metódust.
 # Do not translate "accent" and "mo" (the name of a MathML element).
