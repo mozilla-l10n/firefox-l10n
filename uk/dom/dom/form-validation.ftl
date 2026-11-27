@@ -14,6 +14,18 @@
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Будь ласка, використовуйте необхідний формат: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Виберіть значення не більше за { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Будь ласка, виберіть значення не пізніше { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Виберіть значення не менше за { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Будь ласка, виберіть значення не раніше { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Будь ласка, виберіть допустиме значення. Двома найближчими допустимими значеннями є { $lowValue } та { $highValue }.
@@ -21,3 +33,8 @@ dom-form-validation-step-mismatch = Будь ласка, виберіть доп
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Виберіть допустиме значення. Найближчим допустимим значенням є { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Оберіть значення між { $minimum } та { $maximum }.
+dom-form-validation-bad-input-number = Введіть число.
