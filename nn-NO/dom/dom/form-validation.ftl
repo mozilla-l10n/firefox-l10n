@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Fyll ut dette feltet.
+dom-form-validation-checkbox-missing = Kryss av i denne avkryssingsboksen om du ønskjer å halde fram.
+dom-form-validation-radio-missing = Vel eitt av desse alternativa.
+dom-form-validation-file-missing = Vel ei fil.
+dom-form-validation-select-missing = Vel eitt av alternativa i lista.
+dom-form-validation-invalid-email = Skriv inn ei e-postadresse.
+dom-form-validation-invalid-url = Skriv inn ein URL.
+dom-form-validation-invalid-date = Skriv inn ein gyldig dato.
+dom-form-validation-invalid-time = Skriv inn eit gyldig tidspunkt.
+dom-form-validation-invalid-date-time = Skriv inn gyldig dato og tid.
+dom-form-validation-invalid-month = Skriv inn ein gyldig månad.
+dom-form-validation-invalid-week = Skriv inn ei gyldig veke.
+dom-form-validation-pattern-mismatch = Skriv inn data som stemmer med det førespurde formatet.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Skriv inn data som stemmer med formatet: { $title }.
