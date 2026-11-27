@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Te rugăm să selectezi o valoare validă. C
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Te rugăm să selectezi o valoare validă. Cea mai apropiată valoare validă e { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Te rugăm să selectezi o valoare între { $minimum } și { $maximum }.
+dom-form-validation-bad-input-number = Te rugăm să introduci un număr.
