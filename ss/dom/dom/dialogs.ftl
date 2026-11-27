@@ -7,3 +7,4 @@
 
 dom-slow-script-dialog-title = Secwayiso: Sikripthi lesingaphendvuli
 dom-slow-script-dialog-message = Leskripthi kulelipheji kungahle kube siyasebenta, nome-sesiyekele kuphendvula. Ungasimisa leskripthi nyalo, nome uchubeke utewubona kutsi leskripthi singacedzela yini.
+dom-slow-script-dialog-stop-button = Simise skripthi
