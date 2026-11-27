@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Figyelmeztetés: a parancsfájl nem válaszol
+dom-slow-script-dialog-message = Az oldalon a parancsfájl dolgozik, illetve nem válaszol. Megállíthatja most a parancsfájlt, vagy folytathatja, hátha befejezi a működését.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Parancsfájl: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Ne kérdezze meg többet
 dom-slow-script-dialog-stop-button = Leállítás
 dom-slow-script-dialog-continue-button = Folytatás
+dom-slow-addon-script-dialog-title = Figyelmeztetés: a kiegészítő parancsfájlja nem válaszol
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =

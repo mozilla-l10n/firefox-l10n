@@ -16,6 +16,13 @@ dom-form-validation-radio-missing = Jelöljön ki egyet a lehetőségek közül.
 dom-form-validation-file-missing = Jelöljön ki egy fájlt.
 dom-form-validation-select-missing = Jelöljön ki egy elemet a listából.
 dom-form-validation-invalid-email = Írjon be egy e-mail címet.
+dom-form-validation-invalid-url = Írjon be egy webcímet.
+dom-form-validation-invalid-date = Adjon meg egy érvényes dátumot.
+dom-form-validation-invalid-time = Írjon be egy érvényes időpontot.
+dom-form-validation-invalid-date-time = Adjon meg egy érvényes dátumot és időt.
+dom-form-validation-invalid-month = Adjon meg egy érvényes hónapot.
+dom-form-validation-invalid-week = Adjon meg egy érvényes hetet.
+dom-form-validation-pattern-mismatch = A kért formátumban adja meg az adatot.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = A kért formátumban adja meg az adatot: { $title }.
