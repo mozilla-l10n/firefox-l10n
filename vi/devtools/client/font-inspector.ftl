@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = hệ thống
 font-inspector-no-fonts-used = Không có phông chữ được sử dụng trên các yếu tố hiện tại.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Sao chép URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Xem trước phông chữ
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Phiên bản:
+font-inspector-font-designer = Người thiết kế:
+font-inspector-font-manufacturer = Nhà sản xuất:
+font-inspector-font-vendor = Nhà cung cấp:
+font-inspector-font-description = Mô tả:
+font-inspector-font-license = Giấy phép:
+font-inspector-font-license-info-url = URL thông tin giấy phép:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Mở rộng
