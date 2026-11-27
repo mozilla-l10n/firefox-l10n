@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Izpolnite to polje.
+dom-form-validation-checkbox-missing = Odkljukajte to izbiro, če želite nadaljevati.
+dom-form-validation-radio-missing = Izberite eno izmed naslednjih možnosti.
+dom-form-validation-file-missing = Izberite datoteko.
+dom-form-validation-select-missing = Izberite predmet na seznamu.
+dom-form-validation-invalid-email = Vnesite elektronski naslov.
+dom-form-validation-invalid-url = Vnesite URL.
+dom-form-validation-invalid-date = Vnesite veljaven datum.
+dom-form-validation-invalid-time = Vnesite veljaven čas.
+dom-form-validation-invalid-date-time = Vnesite veljaven datum in čas.
+dom-form-validation-invalid-month = Vnesite veljaven mesec.
+dom-form-validation-invalid-week = Vnesite veljaven teden.
+dom-form-validation-pattern-mismatch = Uporabite zahtevano obliko.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Uporabite zahtevano obliko: { $title }.
