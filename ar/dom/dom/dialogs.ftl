@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = تحذير: نص برمجي لا يستجيب
+dom-slow-script-dialog-message = قد يكون أحد النصوص البرمجية على هذه الصّفحة مشغولا، أو توقف عن الاستجابة. يمكنك إيقاف هذا النّصّ الآن، أو المواصلة لرؤية ما إذا كان سينهي تنفيذه.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = نص برمجي: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &لا تسألني ثانيا
 dom-slow-script-dialog-stop-button = أوقف النّص البرمجي
 dom-slow-script-dialog-continue-button = واصِل
+dom-slow-addon-script-dialog-title = تحذير: نص برمجي لإضافة لا يستجيب
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
