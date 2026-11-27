@@ -18,3 +18,14 @@ dom-form-validation-select-missing = Proszã wëbrac element z lëstë.
 dom-form-validation-invalid-email = Proszã wpisac adres e-mailowi.
 dom-form-validation-invalid-url = Proszã wpisac URL.
 dom-form-validation-pattern-mismatch = Proszã dopasowac do żądónégò fòrmatu.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Proszã dopasowac sã do żądónégò fòrmatu: { $title }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Proszã wëbrac richtich wôrtnotã. Dwie nôbarżi przëbliżóné wôrtnotë to { $lowValue } i { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Proszã wëbrac richtich wôrtnotã. Nôbarżi przëbliżónô wôrtnota to { $value }.
