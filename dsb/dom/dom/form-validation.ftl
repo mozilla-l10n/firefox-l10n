@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Pšosym wubjeŕśo płaśiwu gódnotu. Nejbl
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Pšosym wubjeŕśo płaśiwu gódnotu. Nejbliša płaśiwa gódnota jo { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Pšosym wubjeŕśo gódnotu mjazy { $minimum } a { $maximum }.
+dom-form-validation-bad-input-number = Pšosym zapódajśo licbu.
