@@ -1392,6 +1392,9 @@ menu-share-copy-links =
            *[other] Kopii { $count } ligilojn
         }
     .accesskey = l
+menu-share-windows2 =
+    .label = Pli da ebloj
+    .accesskey = P
 ui-tour-info-panel-close =
     .tooltiptext = Fermi
 
