@@ -22,6 +22,7 @@ stub-cleanup-paveover-button = Atjaunināt
 stub-cleanup-reinstall-button = Uzstādīt no jauna
 stub-cleanup-checkbox-label = Sakopt un paātrināt. Atjaunot noklusējuma iestatījumus un izdzēst vecos papildinājumus.
 stub-installing-label = Tagad uzstāda…
+stub-blurb-first2 = Radīts, lai jūs aizsargātu, nevis izsekotu
 stub-blurb-second = Ātri. Droši. Automātiski aiztur izsekotājus.
 stub-blurb-third = Paldies, ka kopā ar mums veido labāku tīmekli
 stub-blurb-first-devedition = Sagatavojies veidošanai atvērtajam tīmeklim

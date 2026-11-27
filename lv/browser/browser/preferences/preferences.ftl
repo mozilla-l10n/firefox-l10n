@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Vaicāt pirms vairāku ciļņu aizvēršanas
     .accesskey = v
+ask-on-close-multiple-tabs-pbmode =
+    .label = Jautāt pirms vairāku cilņu aizvēršanas privātajos logos
+    .accesskey = v
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

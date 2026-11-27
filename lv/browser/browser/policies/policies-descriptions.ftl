@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Atļaut datņu atlases dialoglodziņus.
 policy-AppAutoUpdate = Ieslēgt vai izslēgt automātisku lietotnes atjaunināšanu.
 policy-AppUpdatePin = Neļaut { -brand-short-name } atjaunināt pēc norādītās versijas.
 policy-AppUpdateURL = Iestatīs pielāgotu atjaunināšanas adresi
+policy-Authentication2 = Konfigurē iekļauto autentificēšanos tīmekļvietnēm, kas to atbalsta un kuras HTTP autentificēšanas shēmas ir atspējotas.
 policy-Authentication = Konfigurēt integrēto autentifikāciju lapām, kas to atbalsta.
 policy-AutofillAddressEnabled = Ieslēgt adrešu automātisko aizpildīšanu.
 policy-AutofillCreditCardEnabled = Ieslēgt automātisko aizpildīšanu maksājumu veidiem.

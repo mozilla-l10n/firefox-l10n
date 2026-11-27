@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Tulko
 translations-panel-settings-button =
     .aria-label = Pārvaldīt tulkošanas iestatījumus
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Tulkot šo lapu
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Izmēģini personiskos tulkojumus ar { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Tulkot lapu?
 translations-panel-translate-button =
     .label = Tulkot
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Tūlītēji tulkojumi dalītā skatā
+    .tooltiptext = Tūlītēji tulkojumi dalītā skatā
 translations-panel-translate-button-loading =
     .label = Lūdzu, uzgaidiet…
 translations-panel-translate-cancel =

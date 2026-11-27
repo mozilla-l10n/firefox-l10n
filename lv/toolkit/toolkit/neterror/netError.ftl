@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Serveris nav atrasts
 neterror-malformed-uri-page-title = Nederīga adrese
 general-body-title = Uzmanīgi! Kaut kas neizskatās pareizi.
 problem-with-this-site-title = Izskatās, ka ar šo vietni ir sarežģījumi
+neterror-http-auth-scheme-disabled-title = Šīs vietnes pierakstīšanās metode ir izslēgta.
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Lūgums sazināties ar tīmekļvietnes īpašniek
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } neuzticas { $hostname }, jo savienojums nav drošs. Mēģiniet mainīt URL uz HTTPS.
+neterror-http-auth-scheme-disabled = Ja jums jāpiesakās šajā vietnē, sazinieties ar sistēmas administratoru.
 neterror-nss-failure-not-verified = Lapu, kuru šobrīd mēģini apskatīt, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu īstumu.
 neterror-nss-failure-contact-website = Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } neielādēja šo lapu, jo iz
 fp-neterror-blocked-by-policy-intro = Jūsu organizācija ir bloķējusi piekļuvi šai lapai vai tīmekļa vietnei.
 fp-neterror-http-auth-disabled-intro = Kāds, kas izliekas par vietnes īpašnieku, varētu mēģināt nozagt tādus datus kā jūsu lietotājvārdu, paroli vai e-pasta adresi.
 fp-neterror-http-auth-disabled-secure-connection = Šai vietnei ir nepieciešams drošs savienojums, un jūs nevarat pievienot izņēmumu, lai to apmeklētu.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname } </strong> lūdza jūs pierakstīties, izmantojot metodi, kas ir izslēgta jūsu savienojuma iestatījumos.
 fp-neterror-why-did-this-happen = Kāpēc tas notika?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Šķiet, ka šī vietne izmanto novecojušu programmatūru ar zināmām drošības problēmām.

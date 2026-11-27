@@ -472,5 +472,15 @@ ai-smart-form-fill-finding-suggestions = Recerca de suggestiones
 # only.
 ai-smart-form-fill-stop-finding-suggestions =
     .aria-label = Cessar le recerca de suggestiones
+ai-smart-form-fill-success-heading = Suggestiones addite a formulario
+ai-smart-form-fill-success-description = Revide le formulario e compila qualcunque campo restante ante que tu lo invia.
+ai-smart-form-fill-no-changes-heading = Nihil addite al formulario
+ai-smart-form-fill-no-changes-description = Alcun campos pote haber cambiate o era jam plenate. Pro retentar, vacua un campo, selige illo, e pois elige Plenar ab le fontes.
+ai-smart-form-fill-no-suggestions-heading = Necun suggestion trovate
+ai-smart-form-fill-no-suggestions-description = Impossibile leger iste formulario o trovar bon concordantias in tu fontes. Usar fontes differente pote adjutar.
+ai-smart-form-fill-error-try-again-heading = Le suggestiones non era addite al formulario
+ai-smart-form-fill-error-try-again-description = Alco errate eveniva. Retenta adder suggestiones.
+ai-smart-form-fill-error-heading = Le suggestiones non era addite
+ai-smart-form-fill-error-description = Alco errate eveniva. Pro retentar, selige un campo del formulario e elige Plenar ab le fontes.
 ai-smart-form-fill-try-again-button =
     .label = Retentar

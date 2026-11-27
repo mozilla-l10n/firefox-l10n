@@ -51,3 +51,23 @@ dom-form-validation-step-mismatch-one-value = Lūdzu izvēlieties derīgu vērt�
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Lūdzu, izvēlieties vērtību no { $minimum } līdz { $maximum }.
 dom-form-validation-bad-input-number = Lūgums ievadīt skaitli.
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long =
+    { $maxLength ->
+        [one] Lūdzu, saīsiniet šo tekstu līdz { $maxLengthText } rakstzīmei vai mazāk (pašreizējais garums: { $textLength }).
+        [zero] Lūdzu, saīsiniet šo tekstu līdz { $maxLengthText } rakstzīmēm vai mazāk (pašreizējais garums: { $textLength }).
+       *[other] Lūdzu, saīsiniet šo tekstu līdz { $maxLengthText } rakstzīmēm vai mazāk (pašreizējais garums: { $textLength }).
+    }
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short =
+    { $minLength ->
+        [one] Lūdzu, izmantojiet vismaz { $minLengthText } rakstzīmi (pašreizējais garums: { $textLength }).
+        [zero] Lūdzu, izmantojiet vismaz { $minLengthText } rakstzīmes (pašreizējais garums: { $textLength }).
+       *[other] Lūdzu, izmantojiet vismaz { $minLengthText } rakstzīmes (pašreizējais garums: { $textLength }).
+    }

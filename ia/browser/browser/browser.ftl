@@ -916,7 +916,21 @@ urlbar-result-dates-ends-today = { $name } · Termina hodie
 ## The flight status suggestions shows the flight time, origin and destination
 ## and the status like delayed, etc.
 
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Non monstrar suggestiones de stato del volo
+    .accesskey = n
+urlbar-result-flight-status-status-ontime = A tempore
+urlbar-result-flight-status-status-inflight = In volo
+urlbar-result-flight-status-status-arrived = Arrivate
 urlbar-result-flight-status-status-cancelled = Cancellate
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Retardate usque { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = { $timeLeft } restante
 # Example: Los Angeles (LAX)
 # Variables:
 #   $city (string) - The city of the airport.
@@ -927,6 +941,10 @@ urlbar-result-flight-status-airport = { $city } ({ $code })
 #   $flightNumber (string) - The flight number.
 #   $airlineName (string) - The airline name.
 urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Suggestiones de stato del volo
 
 ## These strings are used for sports suggestions in the urlbar. Sports
 ## suggestions show team names, scores, game times, etc.
@@ -947,6 +965,12 @@ urlbar-result-sports-team-names = { $homeTeam } - { $awayTeam }
 urlbar-result-sports-game-date-with-time = { $date } al { $time }
 urlbar-result-sports-status-live = Active
 urlbar-result-sports-status-final = Final
+urlbar-result-menu-dont-show-sports = Non monstrar suggestiones de sports
+    .accesskey = n
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Suggestiones de sports
 
 ## Strings used for buttons in the urlbar
 
@@ -1779,6 +1803,11 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = Remover cookies e datos de sito pote disconnecter te de sitos web e vacuar carrettos de compras.
 trustpanel-clear-cookies-subview-button-clear = Vacuar
 trustpanel-clear-cookies-subview-button-cancel = Cancellar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Deler datos de sito pro { $host }
+trustpanel-clear-cookies-description-redesign = Tu sera disconnectite del sitos. Isto pote vacuar le carrettos de compras.
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =

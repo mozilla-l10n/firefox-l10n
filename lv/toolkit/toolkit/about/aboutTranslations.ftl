@@ -7,6 +7,9 @@ about-translations-title = { -brand-short-name } tulkojumi
 # The brief description of the Translations functionality on the page.
 about-translations-description = Tūlītēji tulkojumi, kas respektē jūsu privātumu.
 about-translations-learn-more-link = Uzzināt vairāk
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Aizvērt { -brand-short-name } tulkojumus
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Tulkojums šajā ierīcē nav pieejams.
