@@ -10,6 +10,17 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = অনুগ্ৰহ কৰি এই ক্ষেত্ৰ ভৰ্তি কৰক।
+dom-form-validation-checkbox-missing = যদি আপুনি আগবাঢ়িব বিচাৰে অনুগ্ৰহ কৰি এই বাকচক চেক কৰক।
+dom-form-validation-radio-missing = অনুগ্ৰহ কৰি যিকোনো এটা বিকল্প বাছক।
+dom-form-validation-file-missing = অনুগ্ৰহ কৰি এটা ফাইল বাছক।
+dom-form-validation-select-missing = অনুগ্ৰহ কৰি তালিকাৰ পৰা এটা বস্তু বাছক।
+dom-form-validation-invalid-email = অনুগ্ৰহ কৰি এটা ইমেইল ঠিকনা সুমুৱাওক।
+dom-form-validation-invalid-url = অনুগ্ৰহ কৰি এটা URL সুমুৱাওক।
+dom-form-validation-pattern-mismatch = অনুগ্ৰহ কৰি অনুৰোধিত বিন্যাসৰ লগত মিল খুৱাওক।
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = অনুগ্ৰহ কৰি অনুৰোধিত বিন্যাস: { $title } ৰ লগত মিল খুৱাওক।
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = অনুগ্ৰহ কৰি { $maximum } কে সৰু অথবা সমান এটা সংখ্যা বাছক।
