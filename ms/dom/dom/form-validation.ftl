@@ -10,6 +10,21 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Sila isikan ruang ini.
+dom-form-validation-checkbox-missing = Sila tandakan kotak ini jika anda ingin teruskan.
+dom-form-validation-radio-missing = Sila pilih salah satu dari pilihan ini.
+dom-form-validation-file-missing = Sila pilih satu fail.
+dom-form-validation-select-missing = Sila pilih salah satu dari senarai.
+dom-form-validation-invalid-email = Sila masukkan alamat e-mel.
+dom-form-validation-invalid-url = Sila masukkan URL.
+dom-form-validation-invalid-date = Sila masukkan tarikh yang sah.
+dom-form-validation-pattern-mismatch = sila padankan format yang diminta.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Sila padankan format yang diminta: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Sila pilih nilai yang tidak melebihi { $maximum }.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
