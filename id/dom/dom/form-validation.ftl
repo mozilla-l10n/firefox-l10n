@@ -26,3 +26,8 @@ dom-form-validation-pattern-mismatch = Masukkan sesuai dengan format yang dimint
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Masukkan sesuai dengan format yang diminta: { $title }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Pilih satu nilai antara { $minimum } dan { $maximum }.
+dom-form-validation-bad-input-number = Masukkan angka.
