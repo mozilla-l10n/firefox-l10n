@@ -22,3 +22,11 @@ dom-form-validation-number-range-underflow = { $minimum }보다 큰 값을 선�
 # Variables:
 #   $minimum (String) - The earliest value allowed in the field, a date or a time.
 dom-form-validation-date-time-range-underflow = { $minimum }보다 이르지 않은 값을 선택하세요.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = 유효한 값을 선택하세요. 가장 유효한 값에 근사한 두 개의 값은 { $lowValue }와 { $highValue } 입니다.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = 유효한 값을 선택하세요. 가장 유효한 값에 근사한 값은 { $value } 입니다.
