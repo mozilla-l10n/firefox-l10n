@@ -424,7 +424,7 @@ smartwindow-onboarding-save =
 # readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
 ai-smart-form-fill-autocomplete-label = Aizpildīt no avotiem
 ai-smart-form-fill-autocomplete-loading = Ielādē
-ai-smart-form-fill-autocomplete-sources-label = Aizpildiet no avotiem
+ai-smart-form-fill-autocomplete-sources-label = Aizpildīt no avotiem
 ai-smart-form-fill-autocomplete-choose-tabs = Atveriet vai izvēlieties ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus.
 ai-smart-form-fill-autocomplete-open-tabs = Atveriet vai izvēlieties ar šo veidlapu saistītās lapas, lai saņemtu automātiskās aizpildes ieteikumus.
 ai-smart-form-fill-close-review-button =
