@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = getElementById() に空文字列が渡されました。
+dom-document-write-ignored = 非同期で読み込まれた外部スクリプトからの document.write() の呼び出しは無視されました。
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = 不平衡なツリーが document.write() を使用して書き込まれたため、ネットワークからのデータが再度パースされます。詳しくは { $url } を参照してください。
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds() が characterboundsupdate イベントリスナーと同時に呼び出されませんでした。一部のユーザー環境で IME インターフェイスが予期せず別の場所へ移動してしまう可能性があります。詳細情報: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
