@@ -14,6 +14,9 @@ changes-no-changes-description = インスペクターでの CSS の変更点が
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = インライン
 # Displayed in place of a stylesheet file name, above changes made to the
 # style attribute of an element.
 changes-element-style-label = 要素
