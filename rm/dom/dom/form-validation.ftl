@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Tscherna ina valur vaida. Las proximas valur
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Tscherna ina valur valida. La proxima valur valida è { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Tscherna per plaschair ina valur tranter { $minimum } e { $maximum }.
+dom-form-validation-bad-input-number = Endatescha p.pl. ina cifra.
