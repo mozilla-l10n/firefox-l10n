@@ -6,6 +6,10 @@
 ## Messages reported to the Web Console by DOM code.
 
 dom-get-element-by-id-empty-param = 빈 문자열이 getElementById()로 전달되었습니다.
+dom-document-write-ignored = 외부 스크립트로 비동기 호출된 document.write()를 무시합니다.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = 불균형 트리가 document.write()를 사용하여 작성되어 네트워크의 데이터가 재분석되었습니다. 자세한 정보는 { $url } 을 참고하세요.
 # Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
 # Variables:
 #   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
