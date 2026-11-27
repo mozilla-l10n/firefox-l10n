@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = 自定义
 font-inspector-font-size-label = 字号
 font-inspector-font-weight-label = 字重
 font-inspector-font-italic-label = 斜体
+font-inspector-letter-spacing-label = 间距
 font-inspector-line-height-label = 行高
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
