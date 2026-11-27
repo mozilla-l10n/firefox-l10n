@@ -9,6 +9,8 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = لا تعديلات.
+changes-no-changes-description = ستظهر هنا التغييرات على CSS في الفاحِص.
 
 ##
 
