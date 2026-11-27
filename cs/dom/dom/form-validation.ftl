@@ -17,6 +17,15 @@ dom-form-validation-pattern-mismatch-with-title = Vyplňte prosím pole v požad
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Zvolte prosím číslo, které není větší než { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Zvolte prosím datum, které není pozdější než { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Zvolte prosím číslo, které není menší než { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Zvolte prosím čas, který není dřívější než { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Zvolte prosím platnou hodnotu. Nejbližší platné hodnoty jsou { $lowValue } a { $highValue }.
