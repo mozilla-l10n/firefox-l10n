@@ -29,6 +29,10 @@ dom-form-validation-pattern-mismatch-with-title = Opfyld det forspurgte format: 
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Vælg en værdi, der ikke er større end { $maximum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Vælg en gyldig værdi. De to nærmeste gyldige værdier er { $lowValue } og { $highValue }.
 # Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
