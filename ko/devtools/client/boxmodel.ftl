@@ -12,6 +12,8 @@ boxmodel-properties-label = 박스 모델 속성
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = 숨기기
+boxmodel-properties-show-label = 표시
 
 ##
 
