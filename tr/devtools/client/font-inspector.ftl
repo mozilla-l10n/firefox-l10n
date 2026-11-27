@@ -19,6 +19,9 @@ font-inspector-custom-instance-name = Özel
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = Boyut
+font-inspector-font-weight-label = Ağırlık
+font-inspector-font-italic-label = İtalik
 font-inspector-letter-spacing-label = Aralık
 font-inspector-line-height-label = Satır yüksekliği
 
