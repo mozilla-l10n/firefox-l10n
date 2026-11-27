@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = getElementById() ელემენტს ცარიელი პარამეტრი გადაეცა.
+dom-document-write-ignored = document.write()-ის გამოძახება უგულებელყოფილია ასინქრონული გარე სკრიპტიდან.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = document.write()-ს გამოყენებით შექმნილია არამდგრადი ხისებრი სქემა, რის გამოც, ქსელიდან შემოსული მონაცემების ხელახლა გარჩევაა საჭირო. ვრცლად: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = EditContext.updateCharacterBounds() არ იყო სინქრონულად გამოძახებული ხდომილობის მომლოდინეში characterboundsupdate. IME-გარსი შესაძლოა მოულოდნელად გადაადგილდებოდეს ზოგიერთი მომხმარებლისთვის. ვრცლად: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.

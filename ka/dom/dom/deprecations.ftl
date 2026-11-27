@@ -17,3 +17,10 @@ dom-deprecated-capture-events = ბრძანება captureEvents() მო�
 # Variables:
 #   $url (String) - URL of a page with more information.
 dom-deprecated-release-events = ბრძანება releaseEvents() მოძველებულია. თქვენი კოდის გასაახლებლად გამოიყენეთ მეთოდი DOM 2 removeEventListener(). ვრცლად იხილეთ: https://developer.mozilla.org/en/docs/DOM:element.removeEventListener
+# Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
+dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() მოძველებულია. გამოიყენეთ IDBObjectStore.getAll() სანაცვლოდ.
+# Do not translate "accent" and "mo" (the name of a MathML element).
+# Variables:
+#   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
+#   $element (String) - Name of the parent MathML element: “mover”, “munder” or “munderover”.
+dom-deprecated-mathml-mo-explicit-accent = accent თვისების მითითება ელემენტზე mo მოძველებულია. გამოიყენეთ „{ $attribute }“ თვისებით „{ $element }“ სანაცვლოდ.
