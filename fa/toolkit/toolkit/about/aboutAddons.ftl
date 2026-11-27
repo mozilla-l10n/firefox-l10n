@@ -267,6 +267,9 @@ colorway-removal-notice-button = پوسته‌های رنگی به‌روز شد
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
     .message = تنظیمات کنتراست ویندوز، پوسته‌های { -brand-short-name } را نادیده می‌گیرد. برای استفاده از پوسته‌ها در { -brand-short-name }، این تنظیمات را خاموش کنید.
+# Message-bar notice shown in the about:addons themes list view after users opt in into the Smart Window mode.
+smartwindow-themes-notice =
+    .message = ‏{ -smart-window-brand-name } زمینه‌های روشن و تیرهٔ داخلی خود را دارد که از تنظیمات سیستم شما پیروی می‌کنند.
 privacy-policy = سیاست حریم خصوصی
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

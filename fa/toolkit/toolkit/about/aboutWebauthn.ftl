@@ -33,6 +33,7 @@ about-webauthn-text-non-ctap2-device = به دلیل عدم پشتیبانی ت�
 about-webauthn-text-not-available = در این پلتفرم در دسترس نیست.
 about-webauthn-bio-enrollment-list-subsection-title = موارد ثبت‌شده:
 about-webauthn-add-bio-enrollment-section-title = افزودن ثبت بیومتریک جدید
+about-webauthn-logging-warning = این گزارش ممکن است اطلاعات شخصی، مانند نام‌های کاربری، شناسه‌های حساب و نشانی وبگاه‌ها داشته باشد. پیش از هم‌رسانی، آن را بررسی کنید.
 # CTAP (Client to Authenticator Protocol) and WebAuthn are protocol names and should not be translated.
 about-webauthn-logging-scope-note = این فقط درخواست‌های پیاده‌سازی بومی CTAP در { -brand-short-name } را ثبت می‌کند. درخواست‌های ارسالی به APIهای WebAuthn سکو یا افزونه‌های مرورگر ثبت نمی‌شوند.
 

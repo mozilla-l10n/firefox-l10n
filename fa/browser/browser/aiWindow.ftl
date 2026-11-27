@@ -393,6 +393,11 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    در کنار شما کار می‌کند تا کارها انجام شوند.
+    برنامه‌ریزی، مقایسه، کاوش و موارد دیگر.
+smartwindow-onboarding-title = بیایید آن را مال خودتان کنیم
 smartwindow-onboarding-subtitle = ‏{ -smart-window-brand-name } را همان‌طور که دوست دارید تنظیم کنید. هر زمان می‌توانید در تنظیمات تغییرش دهید.
 smartwindow-onboarding-model-label = مدل هوش مصنوعی خود را انتخاب کنید
 smartwindow-onboarding-model-description = این مدل گپ‌ها و کنش‌ها را در { -smart-window-brand-name } به کار می‌اندازد.
