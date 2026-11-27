@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Празан стринг је прослеђен у getElementById().
+dom-document-write-ignored = Позив на document.write() са асинхроно учитаном спољном скриптом је игнорисан.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Неизбалансирано стабло је записано користећи document.write() због чега су се подаци са мреже поново расчланили. Више информација: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = Функција EditContext.updateCharacterBounds() није позвана синхроно у слушаоцу догађаја characterboundsupdate. IME интерфејс може неочекивано да се креће код неких корисника. Више информација: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
