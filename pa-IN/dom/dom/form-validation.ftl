@@ -11,6 +11,9 @@
 ## NUMBER() or DATETIME().
 
 # Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = ਮੰਗੇ ਗਏ ਫਾਰਮੈਟ ਨਾਲ ਮਿਲਾਉ ਜੀ: { $title }।
+# Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = ਮੁੱਲ ਨੂੰ ਚੁਣੋ, ਜੋ ਕਿ { $maximum } ਤੋਂ ਵੱਧ ਹੈ।
 # Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
