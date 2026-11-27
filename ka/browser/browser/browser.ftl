@@ -1393,6 +1393,9 @@ menu-share-copy-links =
            *[other] { $count } ბმულის ასლი
         }
     .accesskey = უ
+menu-share-windows2 =
+    .label = სხვა პარამეტრები
+    .accesskey = ს
 ui-tour-info-panel-close =
     .tooltiptext = დახურვა
 
