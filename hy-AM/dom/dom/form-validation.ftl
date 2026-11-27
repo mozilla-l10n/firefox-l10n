@@ -10,9 +10,34 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Լրացրեք այս դաշտը:
+dom-form-validation-checkbox-missing = Խնդում ենք ստուգել այս արկղը, եթե ցանկանում եք առաջ անցնել:
+dom-form-validation-radio-missing = Խնդրում ենք ընտրել այս տարբերակներից որևէ մեկը:
+dom-form-validation-file-missing = Խնդրում ենք ընտրել ֆայլը:
+dom-form-validation-select-missing = Խնդրում ենք ընտրել որևէ կետ ցուցակում:
+dom-form-validation-invalid-email = Մուտքագրեք էլ. փոստի հասցե:
+dom-form-validation-invalid-url = Մուտքագրեք URL:
+dom-form-validation-invalid-date = Մուտքագրեք վավեր տարեթիվ։
+dom-form-validation-invalid-time = Մուտքագրեք վավեր ժամանակ:
+dom-form-validation-invalid-date-time = Մուտքագրեք վավեր տարեթիվ և ժամանակ։
+dom-form-validation-invalid-month = Մուտքագրեք վավեր ամսաթիվ:
+dom-form-validation-invalid-week = Մուտքագրեք վավեր շաբաթ:
+dom-form-validation-pattern-mismatch = Խնդրում ենք, համապատասխանեցրեք պահանջվող ձևաչափին:
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Խնդրում ենք, համապատասխանեցրեք պահանջվող ձևաչափին. { $title }:
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Ընտրեք { $maximum }-ից ոչ ցածր արժեք:
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Ընտրեք { $maximum }-ից ոչ ուշ արժեք:
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Ընտրեք { $minimum }-ից ոչ ցածր արժեք:
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Ընտրեք { $minimum }-ից ոչ շուտ արժեք:
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
