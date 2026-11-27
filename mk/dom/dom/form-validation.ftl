@@ -25,3 +25,11 @@ dom-form-validation-number-range-underflow = Изберете вредност �
 # Variables:
 #   $minimum (String) - The earliest value allowed in the field, a date or a time.
 dom-form-validation-date-time-range-underflow = Изберете вредност што не е порано од { $minimum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Please select a valid value. The two nearest valid values are { $lowValue } and { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Please select a valid value. The nearest valid value is { $value }.
