@@ -66,6 +66,17 @@ move-to-mini-window =
            *[other] 미니 창으로 이동
         }
     .accesskey = M
+# Moves full tabs to Mini Windows, one window per tab.
+# Appears as an option for the context menu "Move to"
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window-alt =
+    .label =
+        { $tabCount ->
+            [1] 미니 창
+           *[other] 미니 창
+        }
+    .accesskey = M
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.

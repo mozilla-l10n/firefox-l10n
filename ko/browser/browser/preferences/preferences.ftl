@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = 여러 탭을 닫기 전에 묻기
     .accesskey = m
+ask-on-close-multiple-tabs-pbmode =
+    .label = 사생활 보호 창에서 여러 탭을 닫기 전에 확인
+    .accesskey = v
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

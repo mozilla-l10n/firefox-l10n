@@ -51,3 +51,13 @@ dom-form-validation-step-mismatch-one-value = 유효한 값을 선택하세요. 
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = { $minimum }에서 { $maximum } 사이의 값을 선택하세요.
 dom-form-validation-bad-input-number = 숫자를 입력하세요.
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long = 텍스트를 { $maxLengthText }자 이하로 줄이세요(현재 길이: { $textLength }).
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short = 최소 { $minLengthText }자 이상을 사용하세요 (현재 길이: { $textLength }).

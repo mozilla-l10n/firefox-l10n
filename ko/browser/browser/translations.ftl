@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = 번역 진행 중
 translations-panel-settings-button =
     .aria-label = 번역 설정 관리
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = 페이지 번역
+urlbar-translations-button-intro-2 =
+    .tooltiptext = { -brand-shorter-name }에서 개인 정보가 보호되는 번역을 사용해 보세요
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = 이 페이지를 번역하시겠습니까?
 translations-panel-translate-button =
     .label = 번역
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = 분할 화면에서 즉시 번역
+    .tooltiptext = 분할 화면에서 즉시 번역
 translations-panel-translate-button-loading =
     .label = 잠시만 기다려 주세요…
 translations-panel-translate-cancel =

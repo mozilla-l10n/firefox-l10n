@@ -1841,6 +1841,15 @@ trustpanel-blocker-section-header2 = 이 사이트에서 추적기 <span data-l1
 ## Feature callout shown the first time the tracker count appears in the URL bar
 
 urlbar-trust-icon-tracker-count-callout-title = 사용자에게 적합한 개인 정보 보호
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name }는 기업이 사용자를 감시하기 어렵게 만듭니다. 방패를 열어 어떤 추적기를 차단했는지 확인해 보세요.
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = 확장 기능
+trustpanel-site-issue-step-vpn = 내장 VPN
+trustpanel-site-issue-step-etp = 향상된 추적 방지 기능
 
 ##  $count (String): the number of trackers blocked.
 

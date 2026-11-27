@@ -14,6 +14,7 @@ neterror-dns-not-found-title = 서버를 찾을 수 없음
 neterror-malformed-uri-page-title = 잘못된 URL
 general-body-title = 조심하세요. 뭔가 문제가 있습니다.
 problem-with-this-site-title = 이 사이트에 문제가 있는 것 같음
+neterror-http-auth-scheme-disabled-title = 이 사이트의 로그인 방식이 꺼져 있음
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = 웹 사이트 관리자에게 연락하여 이 �
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = 연결이 안전하지 않아 { -brand-short-name }는 { $hostname } 사이트를 신뢰하지 않습니다. URL을 HTTPS로 변경해 보세요.
+neterror-http-auth-scheme-disabled = 이 사이트에 로그인이 필요한 경우 시스템 관리자에게 문의하세요.
 neterror-nss-failure-not-verified = 받은 데이터의 신뢰성을 확인할 수 없으므로 보시려는 페이지를 표시할 수 없습니다.
 neterror-nss-failure-contact-website = 웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = 보안 구성이 이전 페이지와 일치하지 
 fp-neterror-blocked-by-policy-intro = 사용자의 조직에서 이 페이지나 사이트에 접근할 수 없게 차단했습니다.
 fp-neterror-http-auth-disabled-intro = 사이트를 사칭하는 누군가가 사용자 이름, 비밀번호, 이메일 등을 훔칠 수 있습니다.
 fp-neterror-http-auth-disabled-secure-connection = 이 사이트는 보안 연결이 필요하며, 방문하기 위해 예외를 추가할 수 없습니다.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> 사이트가 연결 설정에서 비활성화된 다른 방법으로 로그인을 요청했습니다.
 fp-neterror-why-did-this-happen = 왜 이런 일이 일어났나요?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = 이 사이트는 보안 문제가 알려진 오래된 소프트웨어를 사용하고 있는 것 같습니다.

@@ -22,6 +22,7 @@ stub-cleanup-paveover-button = 업데이트
 stub-cleanup-reinstall-button = 다시 설치
 stub-cleanup-checkbox-label = 정리하고 속도를 높이세요. 기본 설정으로 되돌리고 오래된 부가 기능을 삭제하세요.
 stub-installing-label = 지금 설치 중…
+stub-blurb-first2 = 추적이 아닌 사용자를 보호하기 위해 제작됨
 stub-blurb-second = 빠름. 안전함. 추적기 자동 차단.
 stub-blurb-third = 더 나은 웹을 만들어 주셔서 감사합니다
 stub-blurb-first-devedition = 열린 웹을 만들 준비를 하세요

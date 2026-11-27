@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = 파일 선택 대화 상자를 허용합니�
 policy-AppAutoUpdate = 애플리케이션 자동 업데이트를 사용하거나 사용하지 않게 합니다.
 policy-AppUpdatePin = { -brand-short-name }가 지정된 버전 이상으로 업데이트되지 않도록 합니다.
 policy-AppUpdateURL = 사용자 지정 앱 업데이트 URL을 설정합니다.
+policy-Authentication2 = 통합 인증을 지원하고 HTTP 인증 체계를 비활성화하는 웹 사이트에 대해 구성합니다.
 policy-Authentication = 통합 인증을 지원하는 웹 사이트를 위한 설정을 합니다.
 policy-AutofillAddressEnabled = 주소 자동 채우기를 사용합니다.
 policy-AutofillCreditCardEnabled = 결제 수단에 자동 채우기를 사용합니다.

@@ -66,6 +66,11 @@ about-logging-preset-gfx-description = 그래픽 문제를 진단하기 위한 �
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Microsoft Windows 관련 문제를 진단하기 위한 로그 모듈
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = 입력 방법
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = IME(입력기)를 포함한 키보드 문제를 진단하기 위한 로그 모듈
 about-logging-preset-custom-label = 사용자 지정
 about-logging-preset-custom-description = 수동으로 선택한 로그 모듈
 # Error handling

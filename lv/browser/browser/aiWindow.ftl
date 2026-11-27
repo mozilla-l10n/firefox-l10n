@@ -458,25 +458,25 @@ ai-smart-form-fill-review-heading = Pārskatīt ieteikumus
 #   $count (number) - The number of generated form field suggestions
 ai-smart-form-fill-review-description =
     { $count ->
-        [one] Mēs atradām ieteikumus laukam { $count }. Rediģējiet vai dzēsiet visu, kas nav pareizs.
-        [zero] Mēs atradām ieteikumus laukiem { $count }. Rediģējiet vai dzēsiet visu, kas nav pareizs.
-       *[other] Mēs atradām ieteikumus laukiem { $count }. Rediģējiet vai dzēsiet visu, kas nav pareizs.
+        [one] Mēs atradām ieteikumus { $count } laukam. Labo vai izdzēs jebko, kas nav pareizs!
+        [zero] Mēs atradām ieteikumus { $count } laukiem. Labo vai izdzēs visu, kas nav pareizs!
+       *[other] Mēs atradām ieteikumus { $count } laukiem. Labo vai izdzēs visu, kas nav pareizs!
     }
 # Used when a field of the form being filled in doesn’t have a name to use as
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Lauks
 ai-smart-form-fill-jump-to-bottom =
-    .aria-label = Pāriet uz ieteikumu apakšdaļu
-    .tooltiptext = Pārlēkt uz  tērzēšanas lejasdaļu
+    .aria-label = Pārlēkt uz ieteikumu apakšdaļu
+    .tooltiptext = Pārlēkt uz leju
 ai-smart-form-fill-cancel-review-button =
     .label = Atcelt
 ai-smart-form-fill-finding-suggestions = Ieteikumu atrašana
 # Accessible name for the button showing a “stop” icon, read by screen readers
 # only.
 ai-smart-form-fill-stop-finding-suggestions =
-    .aria-label = Pārtraukt ieteikumu meklēšanu
-ai-smart-form-fill-success-heading = Veidlapai pievienoti ieteikumi
+    .aria-label = Apturēt ieteikumu atrašanu
+ai-smart-form-fill-success-heading = Veidlapai pievienotie ieteikumi
 ai-smart-form-fill-success-description = Pirms iesniegšanas pārskatiet veidlapu un aizpildiet visus atlikušos laukus.
 ai-smart-form-fill-no-changes-heading = Veidlapai nekas nav pievienots
 ai-smart-form-fill-no-changes-description = Daži lauki, iespējams, ir mainīti vai jau ir aizpildīti. Lai mēģinātu vēlreiz, notīriet lauku, atlasiet to un pēc tam izvēlieties Aizpildīt no avotiem.

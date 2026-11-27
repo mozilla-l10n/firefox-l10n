@@ -6,8 +6,11 @@ report-broken-site-mainview-title = 깨진 사이트 신고
 report-broken-site-panel-header =
     .label = 깨진 사이트 신고
     .title = 깨진 사이트 신고
+report-broken-site-panel-intro-text2 = 사용자의 신고는 모두를 위해 { -brand-product-name }를 개선하는 데 도움이 됩니다.
 report-broken-site-panel-intro-text = 여러분의 신고는 저희가 { -brand-product-name }의 문제를 이해하고 고쳐서 모든 사람을 위해 더 나은 제품으로 만들도록 도움을 줍니다.
 report-broken-site-panel-learn-more-link = 더 알아보기
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = 사이트 주소
 report-broken-site-panel-url-label = 깨진 사이트 URL
 report-broken-site-panel-reason-intro-text = 작동하지 않는 것은 무엇입니까?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = 그 밖의 다른 것
 report-broken-site-panel-instructions-other = 조사에 도움이 되도록 문제를 자세히 설명해 주세요.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = 문제를 자세히 설명해 주세요 (선택 사항)
 report-broken-site-panel-instructions-other-optional = 조사에 도움이 되도록 문제를 자세히 설명해 주세요. (선택 사항)
 report-broken-site-panel-description2 =
     .placeholder = 무슨 일이 있었나요? 어떤 일이 일어날 것이라고 예상하셨나요? 문제를 재현하는 방법을 알려주세요.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = { $website } 사이트를 통해 정보 보내기
 report-broken-site-panel-send-more-info-button =
     .label = 추가 정보 보내기
 report-broken-site-panel-button-cancel =
@@ -57,6 +66,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = 추적 방지 기능에 의해 차단된 항목 목록 보내기
 report-broken-site-panel-url-input-label =
     .aria-label = 신고된 페이지의 URL
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = 진단 데이터 보기
 report-broken-site-panel-preview-button =
     .label = 보고서 미리보기
 report-broken-site-panel-preview-header2 =
