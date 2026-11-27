@@ -1254,6 +1254,9 @@ menu-share-copy-links =
            *[other] Нусха бардоштани { $count } пайванд
         }
     .accesskey = Н
+menu-share-windows2 =
+    .label = Имконоти бештар
+    .accesskey = И
 ui-tour-info-panel-close =
     .tooltiptext = Пӯшидан
 
