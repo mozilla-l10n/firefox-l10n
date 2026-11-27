@@ -150,9 +150,27 @@ main-context-menu-edit-bookmark-with-shortcut-2 =
 main-context-menu-open-link-2 =
     .label = Aç
     .accesskey = A
+main-context-menu-open-link-new-tab-2 =
+    .label = Yeni sekmede aç
+    .accesskey = Y
+main-context-menu-open-link-split-view-2 =
+    .label = Ayrık görünümde aç
+    .accesskey = A
+main-context-menu-open-link-container-tab-2 =
+    .label = Yeni kapsayıcı sekmede aç
+    .accesskey = e
+main-context-menu-open-link-new-window-2 =
+    .label = Yeni pencerede aç
+    .accesskey = n
+main-context-menu-open-link-mini-window =
+    .label = Mini pencerede aç
+    .accesskey = K
+main-context-menu-open-link-new-private-window-2 =
+    .label = Yeni gizli pencerede aç
+    .accesskey = z
 main-context-menu-bookmark-link-3 =
     .label = Yer imlerine ekle…
-    .accesskey = Y
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -449,6 +467,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = DRM hakkında bilgi al…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab-2 =
+    .label = Yeni { $containerName } sekmesinde aç
+    .accesskey = i
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =

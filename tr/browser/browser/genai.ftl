@@ -138,14 +138,14 @@ genai-shortcuts-hide =
 genai-menu-choose-chatbot =
     .label = Yapay zekâ sohbet botunuzu seçin
 genai-menu-ask-generic-2 =
-    .label = Yapay zekâ sohbet botuna sor
+    .label = Yapay zekâya sor
     .accesskey = Y
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = { $provider } sohbet botuna sor
     .accesskey = s
 genai-menu-no-provider-2 =
-    .label = Yapay zekâ sohbet botuna sor
+    .label = Yapay zekâya sor
     .accesskey = Y
 genai-menu-ask-smart-window =
     .label = Sor…
