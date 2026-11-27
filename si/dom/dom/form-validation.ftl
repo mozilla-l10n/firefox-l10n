@@ -10,6 +10,22 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = මෙම ක්‍ෂේත්‍රය පුරවන්න.
+dom-form-validation-checkbox-missing = ඉදිරියට යාමට අවශ්‍ය නම් කොටුව සළකුණු කරන්න.
+dom-form-validation-radio-missing = මෙම විකල්ප අතුරින් එකක් තෝරන්න.
+dom-form-validation-file-missing = ගොනුවක් තෝරන්න.
+dom-form-validation-select-missing = ලේඛනයේ අංගවලින් එකක් තෝරන්න.
+dom-form-validation-invalid-email = වි-තැපැල් ලිපිනයක් ඇතුල් කරන්න.
+dom-form-validation-invalid-url = ඒ.ස.නි. යොදන්න.
+dom-form-validation-invalid-date = වලංගු දිනයක් ඇතුල් කරන්න.
+dom-form-validation-invalid-time = වලංගු වේලාවක් ඇතුල් කරන්න.
+dom-form-validation-invalid-date-time = වලංගු දිනයක් හා වේලාවක් යොදන්න.
+dom-form-validation-invalid-month = වලංගු මාසයක් ඇතුල් කරන්න.
+dom-form-validation-invalid-week = වලංගු සතියක් ඇතුල් කරන්න.
+dom-form-validation-pattern-mismatch = කරුණාකර ඉල්ලූ ආකෘතියට ගළපන්න.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = ඉල්ලන ලද ආකෘතියට ගළපන්න: { $title }.
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = { $maximum } ට වඩා වැඩි නොවන අගයක් තෝරන්න.
