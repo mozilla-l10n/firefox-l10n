@@ -1356,6 +1356,9 @@ menu-share-windows =
 menu-share-copy-links =
     .label = 复制 { $count } 个链接
     .accesskey = L
+menu-share-windows2 =
+    .label = 更多选项
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = 关闭
 
