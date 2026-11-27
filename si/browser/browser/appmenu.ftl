@@ -256,6 +256,16 @@ appmenu-services-header = මාගේ සේවා
 
 ## Profiles panel
 
+appmenu-other-profiles = වෙනත් පැතිකඩ
+appmenu-manage-profiles =
+    .label = පැතිකඩ කළමනාකරණය
+fxa-menu-create-profile-learn-more =
+    .label = පැතිකඩ යනු මොනවාද?
+appmenu-profiles-2 =
+    .label = පැතිකඩ
+appmenu-profiles-header = පැතිකඩ
+appmenu-all-profiles =
+    .label = සියලු පැතිකඩ
 # Panel shown when clicking a synced device in the Mozilla account menu.
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =

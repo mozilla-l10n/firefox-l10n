@@ -160,6 +160,7 @@ neterror-unsafe-content-type = Obráťte sa na vlastníkov stránky a informujte
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } nedôveruje lokalite { $hostname }, pretože pripojenie nie je bezpečné. Skúste zmeniť adresu URL na HTTPS.
+neterror-http-auth-scheme-disabled = Ak sa na túto stránku potrebujete prihlásiť, obráťte sa na správcu systému.
 neterror-nss-failure-not-verified = Stránku nemožno zobraziť, pretože pravosť prijímaných údajov sa nedá overiť.
 neterror-nss-failure-contact-website = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
 # Variables:
@@ -245,6 +246,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } nenačítal túto stránku, 
 fp-neterror-blocked-by-policy-intro = Prístup k tejto stránke alebo serveru bol zablokovaný vašou organizáciou.
 fp-neterror-http-auth-disabled-intro = Niekto, kto predstiera, že je webom, by sa mohol pokúsiť ukradnúť veci, ako je vaše používateľské meno, heslo alebo e‑mailovú adresu.
 fp-neterror-http-auth-disabled-secure-connection = Táto stránka vyžaduje zabezpečené pripojenie a na jej návštevu nie je možné pridať výnimku.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = Server <strong>{ $hostname }</strong> vás požiadal o prihlásenie spôsobom, ktorý je v nastaveniach pripojenia vypnutý.
 fp-neterror-why-did-this-happen = Prečo sa to stalo?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zdá sa, že táto stránka používa starý softvér so známymi bezpečnostnými problémami.

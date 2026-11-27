@@ -24,3 +24,8 @@ about-logging-preset-networking-label = ජාලකරණය
 about-logging-preset-custom-label = අභිරුචි
 # Error handling
 about-logging-error = දෝෂය:
+
+## Uploaded Profiles section
+
+about-logging-uploaded-profiles-title = උඩුගත කළ පැතිකඩ
+about-logging-no-uploaded-profiles = තවමත් පැතිකඩ කිසිවක් උඩුගත කර නැත.

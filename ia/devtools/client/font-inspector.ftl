@@ -25,6 +25,7 @@ font-inspector-custom-instance-name = Personalisate
 font-inspector-font-size-label = Dimension
 font-inspector-font-weight-label = Peso
 font-inspector-font-italic-label = Cursive
+font-inspector-letter-spacing-label = Distantia
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 

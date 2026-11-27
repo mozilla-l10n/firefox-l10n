@@ -237,6 +237,14 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ජංගම පොත්යොමු
 
+## Profiles Menu
+
+menu-profiles-manage-profiles =
+    .label = පැතිකඩ කළමනාකරණය
+menu-profiles-menu =
+    .label = පැතිකඩ
+    .accesskey = P
+
 ## Tools Menu
 
 menu-tools =
