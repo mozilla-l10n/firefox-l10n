@@ -1287,6 +1287,9 @@ menu-share-copy-links =
            *[other] Afrita { $count } tengla
         }
     .accesskey = l
+menu-share-windows2 =
+    .label = Fleiri valkostir
+    .accesskey = F
 ui-tour-info-panel-close =
     .tooltiptext = Loka
 
