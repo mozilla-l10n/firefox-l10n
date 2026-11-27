@@ -32,6 +32,9 @@ font-inspector-show-less = Mostrar menos
 
 ##
 
+font-inspector-all-fonts-on-page-header = Todas las tipografías en la página
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Fuentes utilizadas
 # Placeholder for the input used to type custom text to preview fonts with.
 font-inspector-preview-text-placeholder = Texto de vista previa del tipo de letra
 
