@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Празен низ е подаден на getElementById().
+dom-document-write-ignored = Пренебрегнато е извикване на document.write() от асинхронно зареден външен скрипт.
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
