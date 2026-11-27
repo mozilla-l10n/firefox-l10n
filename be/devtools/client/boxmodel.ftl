@@ -15,3 +15,6 @@ boxmodel-properties-label = Уласцівасці Box Model
 
 ##
 
+# Short label displayed next to the position property of a positioned element,
+# in front of the DOM node that is its offset parent.
+boxmodel-offset-parent = зрух
