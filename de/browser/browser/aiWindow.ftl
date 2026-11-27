@@ -418,8 +418,13 @@ smartwindow-onboarding-save =
 ## Generates values for form fields from one or more sources, which are tabs
 ## selected by the user.
 
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Aus Quellen einfügen
 ai-smart-form-fill-autocomplete-loading = Wird geladen…
 ai-smart-form-fill-autocomplete-sources-label = Aus Quellen einfügen
+ai-smart-form-fill-autocomplete-choose-tabs = Öffnen oder wählen Sie Seiten aus, die sich auf dieses Formular beziehen, um Vorschläge zum automatischen Ausfüllen zu erhalten
+ai-smart-form-fill-autocomplete-open-tabs = Für Vorschläge zum automatischen Ausfüllen Seiten öffnen, die zu diesem Formular passen
 ai-smart-form-fill-close-review-button =
     .label = Schließen
 # Variables:
@@ -445,6 +450,14 @@ ai-smart-form-fill-accept-tab-select-button =
     .label = Fertig
 ai-smart-form-fill-fill-form-button =
     .label = Formular ausfüllen
+ai-smart-form-fill-review-heading = Vorschläge überprüfen
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Wir haben Vorschläge für { $count } Feld gefunden. Bearbeiten oder löschen Sie alles, was nicht korrekt ist.
+       *[other] Wir haben Vorschläge für { $count } Felder gefunden. Bearbeiten oder löschen Sie alles, was nicht korrekt ist.
+    }
 # Used when a field of the form being filled in doesn’t have a name to use as
 # its label.
 ai-smart-form-fill-field-fallback-label =
@@ -454,6 +467,15 @@ ai-smart-form-fill-jump-to-bottom =
     .tooltiptext = Nach unten springen
 ai-smart-form-fill-cancel-review-button =
     .label = Abbrechen
+ai-smart-form-fill-finding-suggestions = Vorschläge werden ermittelt
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Vorschlagssuche beenden
+ai-smart-form-fill-success-heading = Vorschläge ins Formular eingefügt
+ai-smart-form-fill-success-description = Prüfen Sie das Formular und füllen Sie vor dem Absenden alle noch leeren Felder aus.
+ai-smart-form-fill-no-changes-heading = Zum Formular wurde nichts hinzugefügt
+ai-smart-form-fill-no-changes-description = Einige Felder haben sich möglicherweise geändert oder waren bereits ausgefüllt. Um es erneut zu versuchen, leeren Sie ein Feld, wählen Sie es aus und wählen Sie dann Aus Quellen ausfüllen.
 ai-smart-form-fill-no-suggestions-heading = Keine Vorschläge gefunden
 ai-smart-form-fill-no-suggestions-description = Wir konnten dieses Formular nicht auslesen oder keine passenden Angaben in Ihren Quellen finden. Möglicherweise helfen andere Quellen.
 ai-smart-form-fill-error-try-again-heading = Vorschläge konnten nicht in das Formular übernommen werden
