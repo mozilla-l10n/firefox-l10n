@@ -12,6 +12,8 @@ boxmodel-properties-label = Egenskaper boxmodell
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Dölj
+boxmodel-properties-show-label = Visa
 
 ##
 
