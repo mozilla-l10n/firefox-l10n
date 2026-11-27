@@ -1394,6 +1394,9 @@ menu-share-copy-links =
            *[other] { $count } ਲਿੰਕਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = ਹੋਰ ਚੋਣਾਂ
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = ਬੰਦ ਕਰੋ
 
