@@ -10,6 +10,22 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = 이 항목을 입력하세요.
+dom-form-validation-checkbox-missing = 계속 진행하려면 이 확인란을 선택하세요.
+dom-form-validation-radio-missing = 이 옵션 중 하나를 선택하세요.
+dom-form-validation-file-missing = 파일을 선택하세요.
+dom-form-validation-select-missing = 목록에서 항목을 선택하세요.
+dom-form-validation-invalid-email = 이메일 주소를 입력하세요.
+dom-form-validation-invalid-url = URL을 입력하세요.
+dom-form-validation-invalid-date = 유효한 날짜를 입력하세요.
+dom-form-validation-invalid-time = 유효한 시간을 입력하세요.
+dom-form-validation-invalid-date-time = 유효한 날짜와 시간을 입력하세요.
+dom-form-validation-invalid-month = 유효한 달을 입력하세요.
+dom-form-validation-invalid-week = 유효한 주를 입력하세요.
+dom-form-validation-pattern-mismatch = 요청한 형식으로 입력하세요.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = 요청한 형식으로 입력하세요: { $title }.
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = { $maximum }를 넘지 않는 값을 선택하세요.
