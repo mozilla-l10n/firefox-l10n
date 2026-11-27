@@ -9,6 +9,7 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = कोई परिवर्तन नहीं मिला।
 
 ##
 
@@ -16,6 +17,9 @@ changes-copy-all-changes-button = सभी बदलाव को कॉपी 
 
 ## Changes panel context menu
 
+changes-context-menu-copy =
+    .label = कॉपी करें
+    .accesskey = C
 changes-context-menu-select-all =
     .label = सभी चुनें
     .accesskey = A
