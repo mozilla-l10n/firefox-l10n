@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Evezh: skript anrespontus
+dom-slow-script-dialog-message = Ur skript war ar bajennad-mañ a c'hallfe bezañ ac'hubet pe ne respont ket ken. Arsaviñ ar skript bremañ a c'hallit pe, kenderc'hel gant sellout mar bez echuet gant ar skript.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Skript: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Na c'houlenn diganin en-dro
 dom-slow-script-dialog-stop-button = Arsaviñ ar skript
 dom-slow-script-dialog-continue-button = Kenderc'hel ganti
+dom-slow-addon-script-dialog-title = Evezh: skript askouezh anrespontus
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
