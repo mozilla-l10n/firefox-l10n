@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistem
 font-inspector-no-fonts-used = Bu elemanda hiç yazı tipi kullanılmamış.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL’yi kopyala
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Yazı tipi ön izleme metni
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Sürüm:
+font-inspector-font-designer = Tasarımcı:
+font-inspector-font-manufacturer = Üretici:
+font-inspector-font-vendor = Satıcı:
+font-inspector-font-description = Açıklama:
+font-inspector-font-license = Lisans:
+font-inspector-font-license-info-url = Lisans bilgileri adresi:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Genişlet
