@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = स्वपसंत
 font-inspector-font-size-label = आकार
 font-inspector-font-weight-label = वजन
 font-inspector-font-italic-label = तिरपा
+font-inspector-letter-spacing-label = अंतरण
+font-inspector-line-height-label = ओळीची उंची
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
