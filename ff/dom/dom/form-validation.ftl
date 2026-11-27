@@ -10,6 +10,30 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Tiiɗno humpit ngol gallol.
+dom-form-validation-checkbox-missing = Tiiɗno labo ndee suɓre so aɗa yiɗi jokkude.
+dom-form-validation-radio-missing = Tiiɗno suɓo wootere e ɗe cuɓe.
+dom-form-validation-file-missing = Tiiɗno labo fiilde.
+dom-form-validation-select-missing = Tiiɗno labo temre e doggol ngol.
+dom-form-validation-invalid-email = Tiiɗno naatnu ñiiɓirde iimeel.
+dom-form-validation-invalid-url = Tiiɗno naatnu URL.
+dom-form-validation-invalid-date = Tiiɗno naatnu ñalngu moƴƴu.
+dom-form-validation-pattern-mismatch = Tiiɗno nanndin mbayka ɗaɓɓitaaka kaa.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Tiiɗno nanndin mbayka ɗaɓɓitaaka kaa: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Tiino labo kiisol ngo ɓuraani { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Tiiɗno labo kiisol ngol diwaani { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Tiino labo kiisol ngol jaasaani { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Tiiɗno labo kiisol ngol ɓuraani lawɗude { $minimum }.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
