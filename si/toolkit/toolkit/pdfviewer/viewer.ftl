@@ -161,7 +161,7 @@ pdfjs-find-not-found = වැකිකඩ හමු නොවුණි
 ## Predefined zoom values
 
 pdfjs-page-scale-width = පිටුවේ පළල
-pdfjs-page-scale-auto = ස්වයංක්‍රීය විශාලනය
+pdfjs-page-scale-auto = ස්වයංක්‍රිය විශාලනය
 pdfjs-page-scale-actual = සැබෑ ප්‍රමාණය
 # Variables:
 #   $scale (Number) - percent value for page scale

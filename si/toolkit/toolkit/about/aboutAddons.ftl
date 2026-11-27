@@ -47,7 +47,7 @@ detail-contributions-button = දායකවන්න
     .title = මෙම දිගුවේ සංවර්ධනයට දායක වන්න
     .accesskey = C
 detail-update-type =
-    .value = ස්වයංක්‍රීය යාවත්කාල
+    .value = ස්වයංක්‍රිය යාවත්කාල
 detail-update-default =
     .label = පෙරනිමි
     .tooltiptext = පෙරනිමි නම්, ස්වයංක්‍රීයව එක්කහු යාවත්කාල කරන්න
@@ -157,7 +157,7 @@ addon-updates-check-for-updates = යාවත්කාල පරීක්‍ෂ
     .accesskey = C
 addon-updates-view-updates = මෑත යාවත්කාල පෙන්වන්න
     .accesskey = V
-addon-updates-update-addons-automatically = ස්වයංක්‍රීයව එක්කහු යාවත්කාල කරන්න
+addon-updates-update-addons-automatically = ස්වයංක්‍රියව එක්කහු යාවත්කාල කරන්න
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -166,7 +166,7 @@ addon-updates-update-addons-automatically = ස්වයංක්‍රීයව
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = ස්වයංක්‍රීයව යාවත්කාලයට සියළුම එක්කහු යළි අරඹන්න
+addon-updates-reset-updates-to-automatic = ස්වයංක්‍රියව යාවත්කාලයට සියළුම එක්කහු යළි අරඹන්න
     .accesskey = R
 addon-updates-reset-updates-to-manual = අතින් යාවත්කාලයට සියළුම එක්කහු යළි සකසන්න
     .accesskey = R
