@@ -9,15 +9,24 @@
 # Displayed in place of the font URL when the font is installed locally on the
 # system.
 font-inspector-system = সিস্টেম
+# Tooltip for the button that copies the font URL to the clipboard.
+font-inspector-copy-url-title = URL অনুলিপি করুন
 
 ## Labels for the font editor controls
 
+font-inspector-line-height-label = লাইনের উচ্চতা
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-less = কম দেখাও
 
 ##
 
+font-inspector-all-fonts-on-page-header = পাতায় সকল ফন্ট
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = ব্যবহৃত ফন্ট
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = ফন্ট প্রাকদর্শন টেক্সট
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
