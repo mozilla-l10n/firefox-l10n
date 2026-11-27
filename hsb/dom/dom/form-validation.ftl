@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Prošu wubjerće płaćiwu hódnotu. Najbli�
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Prošu wubjerće płaćiwu hódnotu. Najbliša płaćiwa hódnota je { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Prošu wubjerće hódnotu mjez { $minimum } a { $maximum }.
+dom-form-validation-bad-input-number = Prošu zapodajće ličbu.
