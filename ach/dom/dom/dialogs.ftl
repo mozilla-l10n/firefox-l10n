@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Ciko: Coc mape miyo lagam
+dom-slow-script-dialog-message = Coc ma i pot buk man romo bedo ma tic odiyo, onyo romo bedo ni ojuko miyo lagam woko. I twero juko cocce kombedi, onyo iromo mede ki neno ka ce cocec bi tum.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Coc: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Pe i penya doki
 dom-slow-script-dialog-stop-button = Juk coc
 dom-slow-script-dialog-continue-button = Mede
+dom-slow-addon-script-dialog-title = Ciko: Nyig coc pa med-ikome mape miyo lagam
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
