@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Nahlášení nefunkční stránky
 report-broken-site-panel-header =
     .label = Nahlásit nefunkční stránku
     .title = Nahlášení nefunkční stránky
+report-broken-site-panel-intro-text2 = Díky vašemu hlášení můžeme { -brand-product-name } vylepšit pro všechny.
 report-broken-site-panel-intro-text = Vaše hlášení nám pomáhá porozumět problémům ve { -brand-product-name(case: "loc") } a opravit je, aby byl lepší pro všechny.
 report-broken-site-panel-learn-more-link = Zjistit více
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Adresa stránky
 report-broken-site-panel-url-label = Adresa URL nefunkční stránky
 report-broken-site-panel-reason-intro-text = Co nefunguje?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,6 +35,8 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Něco jiného
 report-broken-site-panel-instructions-other = Popište detailně problém, abyste nám pomohli problém prošetřit.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Podrobně popište problém (nepovinné)
 report-broken-site-panel-instructions-other-optional = Popište detailně problém, abyste nám pomohli problém prošetřit. (volitelné)
 report-broken-site-panel-description2 =
     .placeholder = Co se stalo? Co jste očekávali, že se stane? Uveďte prosím postup, jak problém reprodukovat.

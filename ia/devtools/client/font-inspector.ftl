@@ -15,9 +15,6 @@ font-inspector-copy-url-title = Copiar URL
 # predefined font settings, similar to a preset. This is the label of the
 # dropdown used to select one.
 font-inspector-font-instance-label = Instantia
-# Name of the entry in the instance dropdown that holds the settings manually
-# adjusted by the user.
-font-inspector-custom-instance-name = Personalisar
 
 ## Labels for the font editor controls
 

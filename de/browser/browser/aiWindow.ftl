@@ -445,3 +445,17 @@ ai-smart-form-fill-accept-tab-select-button =
     .label = Fertig
 ai-smart-form-fill-fill-form-button =
     .label = Formular ausfüllen
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Feld
+ai-smart-form-fill-cancel-review-button =
+    .label = Abbrechen
+ai-smart-form-fill-no-suggestions-heading = Keine Vorschläge gefunden
+ai-smart-form-fill-no-suggestions-description = Wir konnten dieses Formular nicht auslesen oder keine passenden Angaben in Ihren Quellen finden. Möglicherweise helfen andere Quellen.
+ai-smart-form-fill-error-try-again-heading = Vorschläge konnten nicht in das Formular übernommen werden
+ai-smart-form-fill-error-try-again-description = Ein Fehler ist aufgetreten. Versuchen Sie noch einmal, Vorschläge hinzuzufügen.
+ai-smart-form-fill-error-heading = Vorschläge wurden nicht hinzugefügt
+ai-smart-form-fill-error-description = Ein Fehler ist aufgetreten. Wählen Sie ein Formularfeld und dann Aus Quellen ausfüllen, um es erneut zu versuchen.
+ai-smart-form-fill-try-again-button =
+    .label = Erneut versuchen

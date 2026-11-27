@@ -418,6 +418,10 @@ smartwindow-onboarding-save =
 ## Generates values for form fields from one or more sources, which are tabs
 ## selected by the user.
 
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Plenar ab le fontes
+ai-smart-form-fill-autocomplete-loading = Cargante
 ai-smart-form-fill-close-review-button =
     .label = Clauder
 # Variables:
