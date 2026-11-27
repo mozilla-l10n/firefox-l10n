@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = Tùy chọn
 font-inspector-font-size-label = Kích thước
 font-inspector-font-weight-label = Độ dày
 font-inspector-font-italic-label = Nghiêng
+font-inspector-letter-spacing-label = Khoảng cách
+font-inspector-line-height-label = Chiều cao giữa các dòng
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -30,6 +32,11 @@ font-inspector-show-less = Xem ít hơn
 
 ##
 
+font-inspector-all-fonts-on-page-header = Tất cả các phông chữ trên trang
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Phông chữ đã sử dụng
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Xem trước phông chữ
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
