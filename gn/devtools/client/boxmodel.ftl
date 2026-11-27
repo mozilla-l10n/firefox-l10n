@@ -12,9 +12,13 @@ boxmodel-properties-label = Mba’etee mba’yru rehegua
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Moñemi
+boxmodel-properties-show-label = Hechauka
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = hepyme’ẽ
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Offset mba’eporu poravopyre tuichavéva
