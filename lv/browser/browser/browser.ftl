@@ -1401,6 +1401,9 @@ menu-share-copy-links =
            *[other] Kopēt { $count } saites
         }
     .accesskey = L
+menu-share-windows2 =
+    .label = Vairāk iespēju
+    .accesskey = V
 ui-tour-info-panel-close =
     .tooltiptext = Aizvērt
 
