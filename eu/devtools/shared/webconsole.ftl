@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] Errepikapen bat
        *[other] { $repeats } errepikapen
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] Mezu bat
+       *[other] { $count } mezu
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -181,6 +190,22 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Garbitu web kontsolaren irteera ({ $shortcut })
 webconsole-filter-input-placeholder = Iragazi irteera
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } ezkutatuta
+       *[other] { $count } ezkutatuta
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] Testu-iragazkiek ezkutatutako elementu bat
+       *[other] Testu-iragazkiek ezkutatutako { $count } elementu
+    }
+webconsole-close-split-console-button-tooltip = Itxi zatitutako kontsola (Esk)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -196,36 +221,136 @@ webconsole-filter-button-css-inactive-tooltip = Estilo-orriak berriro analizatuk
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Eskaerak
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Nabigatzailea
+webconsole-filter-button-chrome-tooltip = Erakutsi nabigatzaileak berak igorritako mezuak
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Edukia
+webconsole-filter-button-content-tooltip = Erakutsi web edukiak igorritako mezuak
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Kontsolaren ezarpenak
+webconsole-settings-timestamps =
+    .label = Erakutsi denbora-markak
+    .title = Aukera hau gaituz gero, web kontsolako komandoek eta irteerak denbora-marka bistaratuko dute
+webconsole-settings-warning-groups =
+    .label = Taldekatu antzerako mezuak
+    .title = Gaituta dagoenean, antzerako mezuak taldekatu egingo dira
+webconsole-settings-autocomplete =
+    .label = Gaitu osatze automatikoa
+    .title = Aukera hau gaituz gero, iradokizunak bistaratuko dira idatzi ahala
+webconsole-settings-persistent-logs =
+    .label = Erregistro iraunkorra
+    .title = Aukera hau gaituz gero, irteera ez da garbituko orri berri batera nabigatzen duzun bakoitzean
+webconsole-settings-instant-evaluation =
+    .label = Berehalako ebaluazioa
+    .title = Aukera hau gaituz gero, sarrerako testua idatzi ahala ebaluatuko da
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Gaitu sarea monitorizatzea
+    .title = Gaitu hau sareko eskaerak monitorizatzen hasteko
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = { $url } helbidera nabigatu da
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Berrituta
+webconsole-close-sidebar-button-tooltip = Itxi alboko barra
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Bilatu historia
+webconsole-reverse-search-close-button-tooltip = Itxi ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] emaitza bat
+       *[other] { $total }/{ $index } emaitza
+    }
+webconsole-reverse-search-no-result = Emaitzarik ez
+webconsole-reverse-search-previous-button-tooltip = Aurreko emaitza ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Hurrengo emaitza ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Deitu <span data-l10n-name="getter-name">{ $getterName }</span> eskuratzailea propietate-zerrenda eskuratzeko?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Deitu ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Itxi ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Hautatzailearekin bat datozen elementuak: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [DEVTOOLS ERROREA] Sentitzen dugu, ezin izan dugu mezua errendatu. Honek ez luke pasa behar - mesedez eman ezazu programa-errorearen berri { $url } gunean eta adierazi azalpenean mezuaren metadatuak.
+webconsole-message-render-error-copy-button = Kopiatu mezuaren metadatuak arbelean
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Exekutatu
+webconsole-editor-toolbar-execute-button-tooltip = Exekutatu adierazpena ({ $shortcut }). Sarrera ez da garbituko.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Txukundu adierazpena
+webconsole-editor-toolbar-prev-expression-button-tooltip = Aurreko adierazpena
+webconsole-editor-toolbar-next-expression-button-tooltip = Hurrengo adierazpena
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Ireki historiaren atzeranzko bilaketa ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Itxi historiaren atzeranzko bilaketa ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Aldatu lerroko modura ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Aldatu lerro anitzeko editore-modura ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Iteratu azkarrago zure kodean lerro anitzeko editore-modu berriarekin. Erabili <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> lerro berriak gehitzeko eta <span data-l10n-name="run-shortcut">{ $runShortcut }</span> exekutatzeko.
+webconsole-input-editor-onboarding-dismiss = Ulertuta!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Sartu
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Ireki JavaScript fitxategia
+webconsole-input-open-javascript-file-filter = JavaScript fitxategiak
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Nagusia
+webconsole-input-selector-tooltip = Hautatu ebaluazio-testuingurua
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Cookie abisuak
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Content-Security-Policy abisuak
