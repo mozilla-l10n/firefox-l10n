@@ -9,9 +9,20 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Tidak ditemukan perubahan
+changes-no-changes-description = Perubahan CSS dalam inspektur akan muncul di sini.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Sebaris
+# Displayed in place of a stylesheet file name, above changes made to the
+# style attribute of an element.
+changes-element-style-label = Elemen
+# Badge displayed next to the source of changes made inside an iframe.
+# Lowercase intentional.
+changes-iframe-label = iframe
 changes-copy-all-changes-button = Salin Semua Perubahan
 changes-copy-all-changes-button-title = Salin daftar semua perubahan CSS ke papan klip.
 changes-copy-rule-button = Salin Aturan
