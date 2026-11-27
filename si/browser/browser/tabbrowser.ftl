@@ -87,3 +87,14 @@ tabbrowser-context-unmute-tab =
 
 tabbrowser-manager-close-tab =
     .tooltiptext = පටිත්ත වසන්න
+
+##
+
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] සමූහයෙහි සබැඳියේ පිටපතක්
+           *[other] සමූහයෙහි සබැඳි { $linkCount } පිටපතක්
+        }

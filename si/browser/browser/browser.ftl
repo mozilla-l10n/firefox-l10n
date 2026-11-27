@@ -786,6 +786,15 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = තවත්…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] සබැඳියේ පිටපතක්
+           *[other] සබැඳි { $count } පිටපතක්
+        }
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = වසන්න
 

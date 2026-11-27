@@ -5,6 +5,8 @@
 
 ## The share panel, opened from the share button in the address bar.
 
+share-panel-copy-link =
+    .label = සබැඳියේ පිටපතක්
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =

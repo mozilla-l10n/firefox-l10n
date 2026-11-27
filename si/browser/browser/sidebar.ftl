@@ -5,6 +5,11 @@
 menu-view-genai-chat =
     .label = AI කතා ක්‍රමලේඛය
 
+## Labels for sidebar context menu items
+
+sidebar-context-menu-copy-link =
+    .label = සබැඳියේ පිටපතක්
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
