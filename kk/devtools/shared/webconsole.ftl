@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] { $repeats } қайталау
        *[other] { $repeats } қайталау
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } хабарлама
+       *[other] { $count } хабарлама
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -181,6 +190,22 @@ webconsole-menu-save-all-messages-file =
 #   $shortcut (String) - Keyboard shortcut to clear the output.
 webconsole-clear-button-tooltip = Веб-консоль шығысын тазарту ({ $shortcut })
 webconsole-filter-input-placeholder = Сүзгі нәтижесі
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } жасырын
+       *[other] { $count } жасырын
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } нәрсе мәтіндік сүзгімен жасырылған
+       *[other] { $count } нәрсе мәтіндік сүзгімен жасырылған
+    }
+webconsole-close-split-console-button-tooltip = Бөлек консольді жабу (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
@@ -196,36 +221,136 @@ webconsole-filter-button-css-inactive-tooltip = Қателерге тексер�
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
 webconsole-filter-button-requests = Сұранымдар
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = Браузер
+webconsole-filter-button-chrome-tooltip = Браузердің өзі шығаратын хабарламаларды көрсету
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = Мазмұны
+webconsole-filter-button-content-tooltip = Веб-мазмұн шығарған хабарламаларды көрсету
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Консоль баптаулары
+webconsole-settings-timestamps =
+    .label = Уақыт белгілерін көрсету
+    .title = Егер осы баптауды іске қоссаңыз, командалар және веб консолі шығысында уақыт мәндері болады
+webconsole-settings-warning-groups =
+    .label = Ұқсас хабарламаларды топтау
+    .title = Іске қосылған кезде, ұқсас хабарламалар топтарға жиналатын болады
+webconsole-settings-autocomplete =
+    .label = Автотолықтыруды іске қосу
+    .title = Егер сіз бұл баптауды іске қоссаңыз, енгізілетін мәтін оны терген кезде-ақ ұсынылатын болады
+webconsole-settings-persistent-logs =
+    .label = Үздіксіз журналдар
+    .title = Егер сіз бұл баптауды іске қоссаңыз, сіз әр рет жаңа бетке өткен кезде шығыс нәтижелері тазартылмайтын болады
+webconsole-settings-instant-evaluation =
+    .label = Жедел бағалау
+    .title = Егер сіз бұл баптауды іске қоссаңыз, енгізілетін мәтін оны терген кезде-ақ бағаланатын болады
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Желіні бақылауды іске қосу
+    .title = Желі сұрауларын тыңдауды бастау үшін осыны іске қосыңыз
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = { $url } адресіне өтті
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Қайта жүктелген
+webconsole-close-sidebar-button-tooltip = Бүйір панелін жабу
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Тарих ішінен іздеу
+webconsole-reverse-search-close-button-tooltip = Жабу ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 нәтиже
+       *[other] { $index }/{ $total } нәтиже
+    }
+webconsole-reverse-search-no-result = Нәтижелер жоқ
+webconsole-reverse-search-previous-button-tooltip = Алдыңғы нәтиже ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Келесі нәтиже ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Қасиеттерін тізімін алу үшін <span data-l10n-name="getter-name">{ $getterName }</span> getter шақыру керек пе?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Шақыру ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Жабу ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Таңдаушыға сай элементтер: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [ӘЗІРЛЕУШІ ҚҰРАЛДАРЫ ҚАТЕСІ] Кешірім сұраймыз, хабарламаны көрсете алмадық. Бұл орын алмауы керек еді - сипаттамасындағы метадеректерін қосып, { $url } адресіне ақаулық хабарламасын жіберіңіз.
+webconsole-message-render-error-copy-button = Хабарламаның метадеректерін алмасу буферіне көшіру
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Орындау
+webconsole-editor-toolbar-execute-button-tooltip = Өрнекті орындау ({ $shortcut }). Бұл шығысты тазартпайды.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Өрнекті әдемілету
+webconsole-editor-toolbar-prev-expression-button-tooltip = Алдыңғы өрнек
+webconsole-editor-toolbar-next-expression-button-tooltip = Келесі өрнек
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Консоль тарихынан іздеуді ашу ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Консоль тарихынан іздеуді жабу ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Жолма-жол режиміне оралу ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Көпжолды режимі түзеткішіне ауысу ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Кодты жаңа көпжолды түзеткішпен жылдамырақ жөнелтіңіз. Жаңа жолдарды қосу үшін <span data-l10n-name="enter-key">{ webconsole-enter-key }</span>, ал жөнелту үшін <span data-l10n-name="run-shortcut">{ $runShortcut }</span> қолданыңыз.
+webconsole-input-editor-onboarding-dismiss = Түсіндім!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Enter
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = JavaScript файлын ашу
+webconsole-input-open-javascript-file-filter = JavaScript файлдары
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Біріншілік
+webconsole-input-selector-tooltip = Бағалау контекстті таңдаңыз
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Cookie туралы ескертулер
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = Content-Security-Policy ескертулері
