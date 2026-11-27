@@ -29,6 +29,15 @@ dom-form-validation-pattern-mismatch-with-title = נא להתאים למבנה �
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = נא לבחור ערך שאינו גדול מ־{ $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = נא לבחור ערך שאינו מאוחר מ־{ $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = נא לבחור ערך שאינו קטן מ־{ $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = נא לבחור בערך שאינו מוקדם מ־{ $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = נא לבחור ערך חוקי. שני הערכים החוקיים הקרובים ביותר הם { $lowValue } ו־{ $highValue }.
