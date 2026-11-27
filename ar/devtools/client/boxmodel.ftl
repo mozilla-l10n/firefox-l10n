@@ -12,6 +12,8 @@ boxmodel-properties-label = خصائص النموذج الصندوقي
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = أخفِ
+boxmodel-properties-show-label = اعرض
 
 ##
 
