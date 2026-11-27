@@ -74,6 +74,15 @@ webconsole-message-repeats =
         [one] Sniles { $repeats } tikelt
        *[other] { $repeats } tikal
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } izen
+       *[other] { $count } iznan
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -154,42 +163,170 @@ webconsole-menu-store-as-global-var =
 webconsole-menu-copy-message =
     .label = Nγel izen
     .accesskey = N
+webconsole-menu-copy-object =
+    .label = Nɣel aferdis
+    .accesskey = o
+webconsole-menu-open-in-sidebar =
+    .label = Sweḍ taɣawsa deg ugalis adisan
+    .accesskey = V
+webconsole-menu-copy-all-messages =
+    .label = Nɣel akk iznan
+    .accesskey = M
+webconsole-menu-save-all-messages-file =
+    .label = Sekles akk iznan deg ufaylu
+    .accesskey = F
 
 ## Toolbar at the top of the console.
 
+webconsole-filter-input-placeholder = Zizdeg
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } yeffren
+       *[other] { $count } yeffren
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } n uferdis yeffer-it imzizdig n uḍris
+       *[other] { $count } n iferdisen ffren-ten imzizdigen iḍrisen
+    }
+webconsole-close-split-console-button-tooltip = Mdel tadiwent n unegzum (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
+webconsole-filter-button-errors = Tuccḍa
+webconsole-filter-button-warnings = Alɣu
+webconsole-filter-button-logs = Aɣmis
+webconsole-filter-button-info = Talɣut
+webconsole-filter-button-debug = Taseɣtit
+webconsole-filter-button-css = CSS
+# Tooltip of the CSS button when the filter is not enabled.
+webconsole-filter-button-css-inactive-tooltip = Tiferkiyin n uɣanib ad ttwaḍumment tikkelt-nniden akken ad ttwasneqdent tuccḍiwin. Smiren asebter akken ad twaliḍ daɣen tuccḍiwin n tferkiyin n uɣanib i ibeddlen seg Javascript.
+# Requests made with XMLHttpRequest or fetch().
+webconsole-filter-button-xhr = XHR
+# All network requests, e.g. for images or scripts.
+webconsole-filter-button-requests = Tuţra
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = Iɣewwaren n tdiwent
+webconsole-settings-timestamps =
+    .label = Sken azemz akud
+    .title = Ma tremdeḍ asefren-agi, tiludna d tuffɣa di tdiwent Web ad d-seknent azemz akud
+webconsole-settings-warning-groups =
+    .label = Sdukkel iznan icuban
+    .title = Ticki yermed, iznan icuban ad ttwajemɛen
+webconsole-settings-autocomplete =
+    .label = Rmed akemmel awurman
+    .title = Ma tremdeḍ asefren-a, isumar n usekcem ad ttwaseknen s wudem awurman
+webconsole-settings-persistent-logs =
+    .label = Ḥrez iɣmisen
+    .title = Ma tremdeḍ aγewwar-agi, tufγa ur tesfeḍ ara inekcam yal tikelt ad tinigeḍ γeṛ usebter amaynut
+webconsole-settings-instant-evaluation =
+    .label = Aktazal amiran
+    .title = Ma tremdeḍ asefren-a, ayen ara taruḍ ad yettuktazel s wudem amiran
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = Rmed aḍfar n uzeṭṭa
+    .title = Rmed taxtiṛt-a i wakken ad tebduḍ timesliwt n yissutar n uzeṭṭa
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = Yunag γer { $url }
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = Allus n usali
+webconsole-close-sidebar-button-tooltip = Mdel agalis adisan
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Nadi deg umazray
+webconsole-reverse-search-close-button-tooltip = Mdel ({ $shortcut })
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] 1 ugemmuḍ
+       *[other] { $index } seg { $total } igmaḍ
+    }
+webconsole-reverse-search-no-result = Ulac igmaḍ
+webconsole-reverse-search-previous-button-tooltip = Agemmuḍ yezrin ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Agemmuḍ d-iteddun ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = Siqel i getter <span data-l10n-name="getter-name">{ $getterName }</span> akken ad d-terreḍ tabdert n tɣaṛa?
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = Laɛi ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Mdel ({ $shortcut })
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = Iferdisen icudden ɣer umsefran: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [DEVTOOLS ERROR] Suref-aɣ, ur nezmir ara ad d-nerr tuccḍa. Ayagi ur ilaq ara ad d-yeḍru. Tanemmirt ma tuzneḍ-d abug deg { $url } s yixef isefka deg yizen n useglem.
+webconsole-message-render-error-copy-button = Nɣel iɣef isefka n yizen ɣef afus
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = Selkem
+webconsole-editor-toolbar-execute-button-tooltip = Selkem ta,falit ({ $shortcut }). Aya ur yesfaḍ ara tamnaḍt.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Tanfalit n usiggez tecbaḥ
+webconsole-editor-toolbar-prev-expression-button-tooltip = Tanfalit i iɛeddan
+webconsole-editor-toolbar-next-expression-button-tooltip = Tanfalit i d-iteddun
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = Ldi anadi yettin n uzray ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Mdel anadi yettin n uzray ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = Uɣal ɣer uskar n yizirig asuf ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = Uɣal ɣer uskar n umaẓarag aget izirig ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = Snefli tangalt-ik s zreb s uskar amaynut n teẓrigt aget izirig. Seqdec <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> i tmerna n yizirigen imaynuten akked <span data-l10n-name="run-shortcut">{ $runShortcut }</span> i uselkem.
+webconsole-input-editor-onboarding-dismiss = Awi-t-id!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = Kcem
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = Ldi afaylu JavaScript
+webconsole-input-open-javascript-file-filter = Ifuyla n JavaScript
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = Afella
+webconsole-input-selector-tooltip = Fren asatal n uktazal
 
 ## Labels of groups of similar warnings.
 
