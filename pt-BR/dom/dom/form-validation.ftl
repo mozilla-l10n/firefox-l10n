@@ -13,3 +13,14 @@
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Atenda ao formato solicitado: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Selecione um valor que não seja maior que { $maximum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Selecione um valor válido. Os dois valores válidos mais próximos são { $lowValue } e { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Selecione um valor válido. O valor válido mais próximo é { $value }.
