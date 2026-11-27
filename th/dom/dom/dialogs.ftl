@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = คำเตือน: สคริปต์ไม่ตอบสนอง
+dom-slow-script-dialog-message = สคริปต์ในหน้านี้อาจกำลังทำงานอยู่หรืออาจไม่ตอบสนอง คุณสามารถหยุดการทำงานของสคริปต์ได้ในตอนนี้ หรือปล่อยให้สคริปต์ทำงานต่อเพื่อดูว่าจะทำงานจนเสร็จหรือไม่
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = สคริปต์: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = ไ&ม่ต้องถามฉันอีก
 dom-slow-script-dialog-stop-button = หยุดการทำงานของสคริปต์
 dom-slow-script-dialog-continue-button = ดำเนินการต่อ
+dom-slow-addon-script-dialog-title = คำเตือน: สคริปต์ส่วนเสริมไม่ตอบสนอง
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
