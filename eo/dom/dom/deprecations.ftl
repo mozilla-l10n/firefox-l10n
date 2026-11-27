@@ -9,6 +9,14 @@
 ## preferences to web pages: pass numbers as strings, unless they're only used
 ## to select a plural form, and don't use NUMBER() or DATETIME().
 
+# Do not translate "captureEvents()" or "addEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-capture-events = La uzo de captureEvents() estas kaduka. Por ĝisdatigi vian kodon, uzu la metodon addEventListener() de DOM2. Pli da helpo ĉe { $url }
+# Do not translate "releaseEvents()" or "removeEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-release-events = La uzo de releaseEvents() estas kaduka. Por ĝisdatigi vian kodon, uzu la metodon removeEventListener() de DOM2. Pli da helpo ĉe { $url }
 # Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
 dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() estas kaduka. Uzu IDBObjectStore.getAll() anstataŭe.
 # Do not translate "accent" and "mo" (the name of a MathML element).
