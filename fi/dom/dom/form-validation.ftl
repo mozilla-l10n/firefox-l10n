@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Valitse kelvollinen arvo. Kaksi lähintä ke
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Valitse kelvollinen arvo. Lähin kelvollinen arvo on { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Valitse arvo väliltä { $minimum } ja { $maximum }.
+dom-form-validation-bad-input-number = Kirjoita luku.
