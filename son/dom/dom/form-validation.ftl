@@ -10,9 +10,23 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Taare faaroo woo toonandi.
+dom-form-validation-checkbox-missing = Taare bataa woo guna nda war ga baa ka bisa.
+dom-form-validation-radio-missing = Taare suubarey wey affoo zaa.
+dom-form-validation-file-missing = Taare tuku foo suuba.
+dom-form-validation-select-missing = Taare hayiize foo suuba maašeedaa ra.
+dom-form-validation-invalid-email = Taare bataga aderesu foo dam.
+dom-form-validation-invalid-url = Taare URL doo dam.
+dom-form-validation-pattern-mismatch = Taare tenjandi nda takaroo kaŋ wirandi.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Taare tenjandi nda takaroo kaŋ wirandi: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Hinna foo suuba kaŋ ši bisa { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Hinna foo suuba kaŋ ši kacca nda { $minimum }.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
