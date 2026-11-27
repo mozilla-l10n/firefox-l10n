@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistem
 font-inspector-no-fonts-used = Niciun font utilizat pe elementul actual.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Copiază URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Text de previzualizare a fonturilor
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Versiune:
+font-inspector-font-designer = Proiectant:
+font-inspector-font-manufacturer = Producător:
+font-inspector-font-vendor = Vânzător:
+font-inspector-font-description = Descriere:
+font-inspector-font-license = Licență:
+font-inspector-font-license-info-url = URL informații licență:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Extinde
