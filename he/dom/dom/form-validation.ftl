@@ -10,6 +10,18 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = נא למלא שדה זה.
+dom-form-validation-checkbox-missing = נא לסמן תיבה זו אם ברצונך להמשיך.
+dom-form-validation-radio-missing = נא לבחור באחת מאפשרויות אלו.
+dom-form-validation-file-missing = נא לבחור קובץ.
+dom-form-validation-select-missing = נא לבחור פריט מהרשימה.
+dom-form-validation-invalid-email = נא להזין כתובת דוא״ל.
+dom-form-validation-invalid-url = נא להזין כתובת.
+dom-form-validation-invalid-date = נא להכניס תאריך תקין.
+dom-form-validation-invalid-date-time = נא להכניס תאריך ושעה תקינים.
+dom-form-validation-invalid-month = נא להכניס חודש תקין.
+dom-form-validation-invalid-week = נא להכניס שבוע תקין.
+dom-form-validation-pattern-mismatch = נא להתאים למבנה המבוקש.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = נא להתאים למבנה המבוקש: { $title }.
