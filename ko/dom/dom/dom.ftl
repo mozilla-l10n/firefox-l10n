@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = 빈 문자열이 getElementById()로 전달되었습니다.
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = 캐릭터 바운드 업데이트 이벤트 리스너에서 AddContext.updateCharacterBounds()가 동기적으로 호출되지 않았습니다. 일부 사용자에게는 IME 인터페이스가 예기치 않게 돌아갈 수 있습니다. 추가 정보: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
