@@ -6,6 +6,11 @@
 ### These strings are used in the Box Model section of the Layout panel, in
 ### the Inspector sidebar.
 
+# Header of the collapsible Box Model section.
+boxmodel-title = Box Model
+# Tooltip for the button that allows users to edit the position of an element
+# in the page.
+boxmodel-geometry-button-title = Edit position
 # Header of the expandable list of properties displayed below the box model.
 boxmodel-properties-label = Roghainnean modail a’ bhogsa
 
