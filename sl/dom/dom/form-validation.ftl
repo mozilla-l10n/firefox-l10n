@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Izberite veljavno vrednost. Dve najbližji v
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Izberite veljavno vrednost. Najbližja veljavna vrednost je { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Izberite vrednost med { $minimum } in { $maximum }.
+dom-form-validation-bad-input-number = Vnesite številko.
