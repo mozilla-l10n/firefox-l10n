@@ -66,6 +66,9 @@ about-logging-preset-gfx-description = Μονάδες καταγραφής γι�
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Μονάδες καταγραφής για τη διάγνωση ζητημάτων ειδικά για τα Microsoft Windows
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = Μέθοδος εισαγωγής
 about-logging-preset-custom-label = Προσαρμοσμένο
 about-logging-preset-custom-description = Οι μονάδες καταγραφής επιλέχθηκαν χειροκίνητα
 # Error handling

@@ -11,19 +11,6 @@
 ### is the language in which you’d find the best documentation on web
 ### development on the web.
 
-
-## Browser Console window titles. They depend on the value of the
-## `devtools.browsertoolbox.scope` pref.
-
-# Used when the pref is set to "everything": the Browser Console logs
-# messages from all processes, not just the parent process.
-browserconsole-multiprocess-title = کنسول چندفرآیندی مرورگر
-# Used when the pref is set to "parent-process".
-browserconsole-parent-process-title = کنسول فرآیند والد مرورگر
-
-##
-
-webconsole-console-api-disabled = رابط برنامه‌نویسی ثبت لاگ کنسول وب (console.log، console.info، console.warn، console.error) توسط یک اسکریپت در این صفحه غیرفعال شده است.
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
@@ -51,18 +38,12 @@ webconsole-time-end = { $name }: { $duration } میلی‌ثانیه - تایم�
 ## Variables:
 ##   $name (String) - Name of the timer or counter.
 
-# Displayed when console.clear() removes the previous messages.
-webconsole-console-cleared = کنسول پاک شد.
-# Displayed when console.clear() is ignored because the “Persist Logs” setting
-# is enabled. “Persist Logs” should match webconsole-settings-persistent-logs.label.
-webconsole-console-clear-prevented = اجرای ()console.clear به دلیل فعال بودن «ثابت ماندن لاگ‌ها» نادیده گرفته شد
 # Displayed for console.count() calls without a label.
 webconsole-no-counter-label = <بدون برچسب>
 # Displayed when console.countReset() is called with a counter that doesn’t exist.
 webconsole-counter-doesnt-exist = شمارندهٔ «{ $name }» وجود ندارد.
 # Displayed for console.group() calls without a label.
 webconsole-no-group-label = <بدون برچسب گروه>
-webconsole-max-timers-exceeded = تعداد تایمرهای مجاز در این صفحه بیش از حد نصاب است.
 webconsole-timer-already-exists = تایمر «{ $name }» از قبل وجود دارد.
 webconsole-timer-doesnt-exist = تایمر «{ $name }» وجود ندارد.
 webconsole-timer-js-error = پردازش نام تایمر ناموفق بود.
@@ -87,22 +68,8 @@ webconsole-warning-group-message-count =
        *[other] { $count } پیام
     }
 
-## Warning shown when a user pastes code in the console for the first time.
-
-# Text that the user needs to type to allow pasting. Avoid characters that
-# can’t be typed with a keyboard.
-webconsole-selfxss-ok-string = allow pasting
-# Variables:
-#   $okString (String) - The text to type, from webconsole-selfxss-ok-string.
-webconsole-selfxss-message = هشدار کلاهبرداری: هنگام چسباندن مواردی که از آن سر در نمی‌آورید بسیار محتاط باشید. این کار ممکن است به مهاجمان اجازه دهد هویت شما را به سرقت ببرند یا کنترل رایانه‌تان را به دست بگیرند. لطفاً عبارت «{ $okString }» را در زیر تایپ کنید (نیازی به فشردن اینتر نیست) تا امکان جای‌گذاری فراهم شود.
-
 ##
 
-# Notification displayed when the debugger is paused in an original file that
-# isn’t pretty printed, and original variable mapping is disabled.
-# `Show original variables` should match the checkbox label in the Scopes panel
-# of the debugger.
-webconsole-evaluation-notification-no-original-variable-mapping = نگاشت نام متغیرهای اصلی در Debugger غیرفعال است. نتایج ارزیابی ممکن است دقیق نباشد. برای فعال‌سازی، روی گزینهٔ «Show original variables» در پنل Scopes مربوط به Debugger کلیک کنید.
 # Tooltip of the arrow used to expand or collapse the details of a message
 # (e.g. the stack trace of console.error()).
 webconsole-message-toggle-details = نمایش/پنهان‌سازی جزئیات پیام.
@@ -125,7 +92,6 @@ webconsole-level-log = لاگ
 webconsole-level-debug = دیباگ
 # Used for function calls logged by the JavaScript Tracer.
 webconsole-level-jstracer = فراخوانی تابع
-webconsole-logpoint-title = Logpoints ارسال‌شده از Debugger
 webconsole-blocked-request = مسدودشده
 webconsole-disabled-icon-title = این پیام دیگر فعال نیست و جزئیات آن در دسترس نمی‌باشد
 webconsole-command-title = کد ارزیابی‌شده
@@ -146,16 +112,6 @@ webconsole-clear-alternative-key-macos = Cmd+K
 
 ## Context menu items.
 
-# Displayed for network messages.
-webconsole-menu-copy-url =
-    .label = کپی نشانی پیوند
-    .accesskey = ک
-webconsole-menu-open-url =
-    .label = باز کردن نشانی اینترنتی در زبانهٔ جدید
-    .accesskey = ز
-webconsole-menu-open-in-network-panel =
-    .label = باز کردن در پنل Network
-    .accesskey = N
 webconsole-menu-resend-network-request =
     .label = ارسال دوبارهٔ درخواست
     .accesskey = ر
@@ -169,27 +125,11 @@ webconsole-menu-store-as-global-var =
     .accesskey = س
 # Copies the content of the message, or the user selection if there’s one.
 webconsole-menu-copy-message =
-    .label = کپی پیام
-    .accesskey = پ
-webconsole-menu-copy-object =
-    .label = کپی شیء
-    .accesskey = ش
-webconsole-menu-open-in-sidebar =
-    .label = بررسی شیء در نوار کناری
-    .accesskey = ن
-webconsole-menu-copy-all-messages =
-    .label = کپی تمام پیام‌ها
-    .accesskey = م
-webconsole-menu-save-all-messages-file =
-    .label = ذخیرهٔ تمام پیام‌ها در فایل
-    .accesskey = ف
+    .label = رونوشت پیام
+    .accesskey = ر
 
 ## Toolbar at the top of the console.
 
-# Variables:
-#   $shortcut (String) - Keyboard shortcut to clear the output.
-webconsole-clear-button-tooltip = پاک کردن خروجی کنسول وب ({ $shortcut })
-webconsole-filter-input-placeholder = فیلتر خروجی
 # Displayed in the filter input when some messages are hidden by the text filter.
 # Variables:
 #   $count (Number) - Number of hidden messages.

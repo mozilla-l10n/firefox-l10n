@@ -34,6 +34,7 @@ font-inspector-show-less = نمایش کمتر
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = نگارش:
 font-inspector-font-designer = طراح:
 font-inspector-font-manufacturer = سازنده:
 font-inspector-font-vendor = فروشنده:

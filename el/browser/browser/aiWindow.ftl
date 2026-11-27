@@ -449,3 +449,11 @@ ai-smart-form-fill-review-heading = Έλεγχος προτάσεων
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Πεδίο
+ai-smart-form-fill-cancel-review-button =
+    .label = Ακύρωση
+ai-smart-form-fill-finding-suggestions = Εύρεση προτάσεων
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Διακοπή εύρεσης προτάσεων
+ai-smart-form-fill-no-suggestions-heading = Δεν βρέθηκαν προτάσεις

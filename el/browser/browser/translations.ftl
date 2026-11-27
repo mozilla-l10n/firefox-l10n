@@ -24,6 +24,9 @@ urlbar-translations-button-loading =
     .tooltiptext = Μετάφραση σε εξέλιξη
 translations-panel-settings-button =
     .aria-label = Διαχείριση ρυθμίσεων μετάφρασης
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Μετάφραση σελίδας
 
 ## Options in the Firefox Translations settings.
 

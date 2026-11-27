@@ -911,6 +911,17 @@ urlbar-result-dates-today = { $name } · Σήμερα
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Τελειώνει σήμερα
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+urlbar-result-flight-status-status-cancelled = Ακυρώθηκε
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1847,6 +1858,14 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> αποκλεισμένος ιχνηλάτης σε αυτόν τον ιστότοπο
        *[other] <span data-l10n-name="count">{ $count }</span> αποκλεισμένοι ιχνηλάτες σε αυτόν τον ιστότοπο
     }
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Επεκτάσεις
+trustpanel-site-issue-step-vpn = Ενσωματωμένο VPN
+trustpanel-site-issue-step-etp = Ενισχυμένη προστασία από καταγραφή
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
