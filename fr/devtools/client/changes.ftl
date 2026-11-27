@@ -19,9 +19,21 @@ changes-element-style-label = Élément
 # Lowercase intentional.
 changes-iframe-label = iframe
 changes-copy-all-changes-button = Copier toutes les modifications
+changes-copy-all-changes-button-title = Copier la liste de toutes les modifications apportées aux CSS dans le presse-papiers.
+changes-copy-rule-button = Copier la règle
+changes-copy-rule-button-title = Copier tout le contenu de cette règle CSS dans le presse-papiers.
 
 ## Changes panel context menu
 
 changes-context-menu-copy =
     .label = Copier
     .accesskey = C
+# Copies the complete contents of the CSS rule.
+changes-context-menu-copy-rule =
+    .label = Copier la règle
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = Copier la déclaration
+changes-context-menu-select-all =
+    .label = Tout sélectionner
+    .accesskey = T
