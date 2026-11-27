@@ -18,3 +18,5 @@ boxmodel-properties-label = Propriedades do modelo de caixa
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = deslocar
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Deslocar parente do elemento selecionado
