@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = systeem
 font-inspector-no-fonts-used = Geen lettertypen op het huidige element gebruikt.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL kopiëren
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Voorbeeldtekst voor lettertype
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Versie:
+font-inspector-font-designer = Ontwerper:
+font-inspector-font-manufacturer = Fabrikant:
+font-inspector-font-vendor = Leverancier:
+font-inspector-font-description = Beschrijving:
+font-inspector-font-license = Licentie:
+font-inspector-font-license-info-url = URL voor licentie-info:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Uitvouwen
