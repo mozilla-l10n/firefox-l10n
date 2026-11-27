@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = سیستم
 font-inspector-no-fonts-used = هیچ فونتی برای عنصر فعلی استفاده نشده است.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = رونوشت از URL
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = فونت متن پیش‌نمایش
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = نسخه:
+font-inspector-font-designer = طراح:
+font-inspector-font-manufacturer = سازنده:
+font-inspector-font-vendor = فروشنده:
+font-inspector-font-description = توضیحات:
+font-inspector-font-license = مجوز:
+font-inspector-font-license-info-url = نشانی اطلاعات مجوز:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = گسترش
