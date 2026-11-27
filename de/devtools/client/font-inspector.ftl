@@ -6,17 +6,37 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = Keine Schriftarten für das gewählte Element verwendet
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Adresse kopieren
+# An "instance" is the term used by font authors for a named group of
+# predefined font settings, similar to a preset. This is the label of the
+# dropdown used to select one.
+font-inspector-font-instance-label = Instanz
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = Benutzerdefiniert
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = Größe
+font-inspector-font-weight-label = Strichstärke
+font-inspector-font-italic-label = Kursiv
+font-inspector-letter-spacing-label = Zeichenabstand
+font-inspector-line-height-label = Zeilenhöhe
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = Mehr anzeigen
+font-inspector-show-less = Weniger anzeigen
 
 ##
 
+font-inspector-all-fonts-on-page-header = Alle Schriftarten der Seite
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Verwendete Schriftarten
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Hier Text für Schriftartvorschau eingeben
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
