@@ -16,6 +16,19 @@ dom-form-validation-pattern-mismatch-with-title = Please match the requested for
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Seleccione un valor que no sea más de { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Seleccione un valor que no sea posterior a { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Seleccione un valor que no sea menor que { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Seleccone un valor que no sea anterior a { $minimum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Seleccione un valor válido. Los dos valores más cercanos son { $lowValue } y { $highValue }.
 # Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
