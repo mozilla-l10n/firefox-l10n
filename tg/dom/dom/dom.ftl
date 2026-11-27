@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Сатри холӣ ба getElementById() интиқол дода шуд.
+dom-document-write-ignored = Дархост ба «document.write()» аз скрипти берунии ноҳамгом боршуда рад карда шуд.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Дарахти номутаносиб ба воситаи «document.write()» навишта шудааст ва маҷбур кард, ки маълумот аз шабака такроран таҷзия карда шавад. Маълумоти бештар: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
