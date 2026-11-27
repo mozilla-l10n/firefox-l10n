@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistemakoa
 font-inspector-no-fonts-used = Ez da letra-tiporik erabili uneko elementuan.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopiatu URLa
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Letra-tipoaren aurrebista-testua
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Bertsioa:
+font-inspector-font-designer = Diseinatzailea:
+font-inspector-font-manufacturer = Fabrikatzailea:
+font-inspector-font-vendor = Hornitzailea:
+font-inspector-font-description = Azalpena:
+font-inspector-font-license = Lizentzia:
+font-inspector-font-license-info-url = Lizentziaren informazioaren URLa:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Zabaldu
