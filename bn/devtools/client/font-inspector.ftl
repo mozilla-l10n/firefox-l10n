@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = স্বনির্ধারিত
 font-inspector-font-size-label = আকার
 font-inspector-font-weight-label = ওজন
 font-inspector-font-italic-label = তির্যক
+font-inspector-letter-spacing-label = ব্যবধান
+font-inspector-line-height-label = লাইনের উচ্চতা
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -30,6 +32,11 @@ font-inspector-show-less = কম দেখাও
 
 ##
 
+font-inspector-all-fonts-on-page-header = পাতায় সকল ফন্ট
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = ব্যবহৃত ফন্ট
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = ফন্ট প্রাকদর্শন টেক্সট
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
