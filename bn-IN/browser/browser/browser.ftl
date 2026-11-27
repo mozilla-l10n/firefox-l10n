@@ -231,6 +231,11 @@ urlbar-go-button2 =
     .title = ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে
 urlbar-page-action-button =
     .tooltiptext = পৃষ্ঠার ক্রিয়াকলাপগুলি
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }: { $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -254,6 +259,15 @@ urlbar-result-action-visit = পরিদর্শন করুন
 
 
 ## These strings are used for suggestions of important dates in the urlbar.
+
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
 
 
 ## Strings used for buttons in the urlbar
@@ -651,6 +665,17 @@ process-hang-addon-learn-more =
 
 
 ## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+
 ##  $count (String): the number of trackers blocked.
 
 
