@@ -5,6 +5,12 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Brīdinājums: Nereaģējošs skripts
+dom-slow-script-dialog-message = Skripts šajā lapā var būt aizņemts, vai arī tas ir pārstājis reaģēt. Jūs varat apturēt skriptu vai arī turpināt, lai redzētu, vai tas beigs savu darbu.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Skripts: { $location }
+dom-slow-addon-script-dialog-title = Brīdinājums: Nereaģējošs papildinājuma skripts
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
