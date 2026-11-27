@@ -12,3 +12,6 @@ dom-slow-script-dialog-message = বর্তমান পৃষ্ঠায় অ
 dom-slow-script-dialog-location = স্ক্রিপ্ট: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = পুনরায় জিজ্ঞাসা করা হবে না
+dom-slow-script-dialog-stop-button = স্ক্রিপ্ট বন্ধ করুন
+dom-slow-script-dialog-continue-button = এগিয়ে চলুন
+dom-slow-addon-script-dialog-title = সতর্কীকরণ: প্রতিক্রিয়াহীন অ্যাড-অন স্ক্রিপ্ট
