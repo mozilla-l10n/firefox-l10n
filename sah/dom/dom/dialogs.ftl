@@ -5,4 +5,6 @@
 
 ## Unresponsive script dialog
 
+# The & character marks the access key of the checkbox label.
+dom-slow-script-dialog-dont-ask-again = Аныгыскыга &ыйытыма
 dom-slow-script-dialog-continue-button = Салгыы
