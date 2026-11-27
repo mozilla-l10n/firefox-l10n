@@ -5,10 +5,16 @@
 
 ## Unresponsive script dialog
 
+dom-slow-script-dialog-title = Rhybudd: Sgript anymatebol
+dom-slow-script-dialog-message = Gall fod y sgript ar y dudalen hon yn brysur, neu gall ei fod wedi peidio ymateb. Gallwch atal y sgript nawr, neu barhau i weld os fydd y sgript yn cwblhau.
+# Variables:
+#   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
+dom-slow-script-dialog-location = Sgript: { $location }
 # The & character marks the access key of the checkbox label.
 dom-slow-script-dialog-dont-ask-again = &Peidiwch gofyn i mi eto
 dom-slow-script-dialog-stop-button = Atal y sgript
 dom-slow-script-dialog-continue-button = Ymlaen
+dom-slow-addon-script-dialog-title = Rhybudd: Sgript anymatebol yn yr ychwanegyn
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =

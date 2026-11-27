@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Cafodd llinyn gwag ei drosglwyddo i getElementById().
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = Chafodd EditContext.updateCharacterBounds() ddim ei alw'n gydamserol yn wrandäwr digwyddiad characterboundsupdate. Gall rhyngwyneb IME symud o gwmpas yn annisgwyl i rai defnyddwyr. Mwy o wybodaeth: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.

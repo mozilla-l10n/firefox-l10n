@@ -17,3 +17,10 @@ dom-deprecated-capture-events = Mae'r defnydd o captureEvents() yn anghymeradwy.
 # Variables:
 #   $url (String) - URL of a page with more information.
 dom-deprecated-release-events = Mae'r defnydd o releaseEvents() yn anghymeradwy. I ddiweddaru eich cod defnyddiwch y dull DOM 2 removeEventListener(). Am gymorth pellach gw. { $url }
+# Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
+dom-deprecated-idb-object-store-moz-get-all = Mae IDBObjectStore.mozGetAll() yn anghymeradwy. Defnyddiwch IDBObjectStore.getAll() yn ei le.
+# Do not translate "accent" and "mo" (the name of a MathML element).
+# Variables:
+#   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
+#   $element (String) - Name of the parent MathML element: “mover”, “munder” or “munderover”.
+dom-deprecated-mathml-mo-explicit-accent = Mae gosod priodoledd acen ar elfennau mo yn anghymeradwy. Defnyddiwch y briodwedd “{ $attribute }” ar “{ $element }” yn lle hynny.
