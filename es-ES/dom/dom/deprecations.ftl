@@ -9,6 +9,14 @@
 ## preferences to web pages: pass numbers as strings, unless they're only used
 ## to select a plural form, and don't use NUMBER() or DATETIME().
 
+# Do not translate "captureEvents()" or "addEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-capture-events = El uso de captureEvents() está desaprobado. Para actualizar su código, use el método addEventListener() de DOM2. Para más información visite  { $url }
+# Do not translate "releaseEvents()" or "removeEventListener()".
+# Variables:
+#   $url (String) - URL of a page with more information.
+dom-deprecated-release-events = El uso de releaseEvents() está desaprobado. Para actualizar su código, use el método removeEventListener() de DOM2. Para más información visite  { $url }
 # Do not translate "accent" and "mo" (the name of a MathML element).
 # Variables:
 #   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
