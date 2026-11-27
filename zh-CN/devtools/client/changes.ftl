@@ -31,6 +31,9 @@ changes-context-menu-copy =
 # Copies the complete contents of the CSS rule.
 changes-context-menu-copy-rule =
     .label = 复制规则
+# Copies the single CSS declaration that was right-clicked.
+changes-context-menu-copy-declaration =
+    .label = 复制声明
 changes-context-menu-select-all =
     .label = 全选
     .accesskey = A
