@@ -77,6 +77,15 @@ webconsole-message-repeats =
         [one] { $repeats } دہرائی
        *[other] { $repeats } دہرائیاں
     }
+# Tooltip of the badge showing how many messages a group of similar warnings
+# contains (e.g. Content Blocked messages).
+# Variables:
+#   $count (Number) - Number of messages in the group.
+webconsole-warning-group-message-count =
+    { $count ->
+        [one] { $count } سنیہا
+       *[other] { $count } سنیہے
+    }
 
 ## Warning shown when a user pastes code in the console for the first time.
 
@@ -177,39 +186,171 @@ webconsole-menu-save-all-messages-file =
 
 ## Toolbar at the top of the console.
 
+# Variables:
+#   $shortcut (String) - Keyboard shortcut to clear the output.
+webconsole-clear-button-tooltip = ویب کنسول دی آؤٹ پٹ صاف کرو ({ $shortcut })
+webconsole-filter-input-placeholder = آؤٹ پٹ فلٹر کرو
+# Displayed in the filter input when some messages are hidden by the text filter.
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text =
+    { $count ->
+        [one] { $count } پوشیدہ
+       *[other] { $count } پوشیدہ
+    }
+# Variables:
+#   $count (Number) - Number of hidden messages.
+webconsole-filtered-messages-by-text-tooltip =
+    { $count ->
+        [one] { $count } آئٹم ٹیکسٹ فلٹر دے ذریعے لُکا ہویا
+       *[other] { $count } آئٹم ٹیکسٹ فلٹر دے ذریعے لُکایا ڳیا۔
+    }
+webconsole-close-split-console-button-tooltip = اسپلٹ کنسول (Esc) بند کرو
 
 ## Filter buttons, used to show or hide each category of messages.
 
+webconsole-filter-button-errors = خرابیاں
+webconsole-filter-button-warnings = چتاوݨیاں
+webconsole-filter-button-logs = لاگز
+webconsole-filter-button-info = معلومات
+webconsole-filter-button-debug = ڈیبگ
+webconsole-filter-button-css = CSS
+# Tooltip of the CSS button when the filter is not enabled.
+webconsole-filter-button-css-inactive-tooltip = غلطیاں دی جانچ کرݨ کیتے سٹائل شیٹاں کوں دوبارہ تبدیل کیتا ویسے۔ جاوا سکرپٹ کنوں ترمیم شدہ سٹائل شیٹاں دیاں خامیاں وی ݙیکھݨ کیتے ورقہ کوں ریفریش کرو۔
+# Requests made with XMLHttpRequest or fetch().
+webconsole-filter-button-xhr = XHR
+# All network requests, e.g. for images or scripts.
+webconsole-filter-button-requests = درخواستاں
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by the browser itself (its privileged “chrome”
+# code), as opposed to web content.
+webconsole-filter-button-chrome = براؤزر
+webconsole-filter-button-chrome-tooltip = براؤزر دی طرفوں بھیجے ڳئے پیغامات ݙکھاؤ
+# Only displayed in the Browser Console and the Browser Toolbox console, to
+# show or hide messages emitted by web content (websites).
+webconsole-filter-button-content = مواد
+webconsole-filter-button-content-tooltip = ویب مواد دی طرفوں بھیجے ڳئے پیغامات ݙکھاؤ
 
 ## Console Settings menu.
 
+webconsole-settings-button-tooltip = کنسول دیاں ترتیباں
+webconsole-settings-timestamps =
+    .label = ٹائم سٹیمپ ݙکھاؤ۔
+    .title = جے تساں ایں اختیار کوں فعال کریندے او تاں ویب کنسول وِچ کمانڈر تے آؤٹ پٹ ٹائم سٹیمپ ظاہر کریسے۔
+webconsole-settings-warning-groups =
+    .label = ہکو جہیں سنیہاں دا گروپ بݨاؤ
+    .title = فعال تھیوݨ تے، رلدے ملدے سنیہاں کوں گروپاں وِچ رکھیا ویندا ہے۔
+webconsole-settings-autocomplete =
+    .label = آپݨے آپ تکمیل کوں فعال کرو
+    .title = جے تساں ایں اختیار کوں فعال کریندے او تاں ان پٹ تہاݙے ٹائپ کریندے ویلھے تجویزاں ظاہر کریسے۔
+webconsole-settings-persistent-logs =
+    .label = لاگ انز کوں برقرار رکھو
+    .title = جے تساں ایں اختیار کوں فعال کریندے او تاں ہر واری جݙاں تساں نویں ورقے تے ویسو تاں آؤٹ پٹ صاف کائنا تھیسے۔
+webconsole-settings-instant-evaluation =
+    .label = فوری تشخیص
+    .title = جے تساں ایں آپشن کوں فعال کریندے او تاں تہاݙے ٹائپ کریندی ای ان پٹ دا فوری جائزہ گھدا ویسے۔
+# Only displayed in the Browser Console and the Browser Toolbox console.
+browserconsole-settings-network-monitoring =
+    .label = نیٹ ورک مانیٹرنگ فعال کرو
+    .title = نیٹ ورک دیاں درخواستاں کوں سݨݨ شروع کرݨ کیتے اینکوں فعال کرو
 
 ##
 
+# Displayed when the inspected page navigates to a new location.
+# Variables:
+#   $url (String) - The new URL.
+webconsole-navigated = { $url } تے تشریف گھن ڳیا
+# Displayed when the inspected page is reloaded from DevTools.
+webconsole-reloaded = دوبارہ لوڈ تھی ڳیا
+webconsole-close-sidebar-button-tooltip = پاسہ پٹی بند کرو
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = تاریخ ڳولو
+webconsole-reverse-search-close-button-tooltip = ({ $shortcut }) بند کرو
+# Variables:
+#   $index (Number) - Index of the displayed result.
+#   $total (Number) - Total number of results.
+webconsole-reverse-search-results =
+    { $total ->
+        [one] { $total } نتیجہ
+       *[other] { $total } نتیجیاں وچوں { $index }
+    }
+webconsole-reverse-search-no-result = کوئی نتیجہ کائنی
+webconsole-reverse-search-previous-button-tooltip = پچھلا نتیجہ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = اڳلا نتیجہ ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $getterName (String) - Name of the getter.
+webconsole-confirm-dialog-getter-label = جائیداد دی تندیر بازیافت کرݨ کیتے گیٹر <span data-l10n-name="getter-name">{ $getterName }</span> کوں طلب کرو؟
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-invoke-button = طلب کرو ({ $shortcut })
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = ({ $shortcut }) بند کرو
 
 ##
 
+# Label for the list of HTML elements matching the selector of a CSS warning.
+# Variables:
+#   $selector (String) - The CSS selector.
+webconsole-css-warning-elements = عناصر نال مماثل سلیکٹر: { $selector }
 
 ## Displayed when the console fails to render a message.
 
+# Variables:
+#   $url (String) - URL to file a bug about the error.
+webconsole-message-render-error = [DEVTOOLS ERROR] اساکوں افسوس ہے، اساں سنیہا رینڈر نہیں کر سڳئے۔ ایویں نہ تھیوݨا چاہیدا ہا - براہ مہربانی تفصیل وِچ میسج میٹا ڈیٹا دے نال { $url } تے ہک بگ فائل کرو۔
+webconsole-message-render-error-copy-button = پیغام میٹا ڈیٹا کوں کلپ بورڈ وِچ کاپی کرو۔
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-editor-toolbar-execute-button-label = چلاؤ
+webconsole-editor-toolbar-execute-button-tooltip = ایکسپریشن چلاؤ ({ $shortcut })۔ ایہ ان پٹ کوں صاف کائنا کریسے۔
+webconsole-editor-toolbar-pretty-print-button-tooltip = سوہݨا پرنٹ اظہار
+webconsole-editor-toolbar-prev-expression-button-tooltip = پچھلا اظہار
+webconsole-editor-toolbar-next-expression-button-tooltip = اڳلا اظہار
+# The reverse search mimics the bash-like reverse search of command history,
+# searching commands from the last item backwards.
+webconsole-editor-toolbar-open-reverse-search-tooltip = ہسٹری ریورس ڳولݨ کھولو ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = ہسٹری ریورس ڳولݨ بند کرو ({ $shortcut })
+webconsole-editor-toolbar-close-button-tooltip = ان لائن موڈ تے واپس ونڄو ({ $shortcut })
 
 ## Console input.
 
+# Tooltip of the button that switches to the multi-line editor mode.
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-input-open-editor-button-tooltip = ملٹی لائن ایڈیٹر موڈ تے سوئچ کرو ({ $shortcut })
+# Displayed the first time the multi-line editor mode is used, until dismissed.
+# Variables:
+#   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
+webconsole-input-editor-onboarding = نویں ملٹی لائن ایڈیٹر موڈ دے نال اپݨے کوڈ تے تکھاجی نال اعادہ کرو۔ نویاں سطراں شامل کرݨ کیتے <span data-l10n-name="enter-key">{ webconsole-enter-key }</span> تے چلاوݨ کیتے <span data-l10n-name="run-shortcut">{ $runShortcut }</span> استعمال کرو۔
+webconsole-input-editor-onboarding-dismiss = سمجھ گھدے!
+# Name of the Enter key, used in the editor onboarding and in the tooltip of
+# the “Run” button.
+webconsole-enter-key = درج کرو
+# Title of the file picker used to open a file in the console input (Ctrl+O or
+# Cmd+O on macOS).
+webconsole-input-open-javascript-file = JavaScript فائل کھولو
+webconsole-input-open-javascript-file-filter = JavaScript فائلاں
+# Name used for the main thread of execution of the page in the evaluation
+# context selector.
+webconsole-input-selector-top = چوٹی
+webconsole-input-selector-tooltip = تشخیص دا سیاق و سباق منتخب کرو۔
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = کوکی تنبیہ
+# “Content-Security-Policy” is the name of an HTTP header and should not be
+# translated.
+webconsole-group-csp = مواد سلامتی پالیسی ݙراوا
