@@ -1393,6 +1393,9 @@ menu-share-copy-links =
            *[other] { $count } bağlantıyı kopyala
         }
     .accesskey = B
+menu-share-windows2 =
+    .label = Diğer seçenekler
+    .accesskey = D
 ui-tour-info-panel-close =
     .tooltiptext = Kapat
 
