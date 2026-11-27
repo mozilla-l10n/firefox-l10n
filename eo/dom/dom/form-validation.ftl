@@ -30,6 +30,15 @@ dom-form-validation-pattern-mismatch-with-title = Bonvolu uzi la postulitan form
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Bonvolu elekti valoron pli etan ol { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Bonvolu elekti valoron kiu ne estas post { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Bonvolu elekti valoron minimume same grandan kiel { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Bonvolu elekti valoron kiu ne estas antaŭ { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Bonvolu elekti validan valoron. La du plej proksimaj validaj valoroj estas { $lowValue } kaj { $highValue }.
