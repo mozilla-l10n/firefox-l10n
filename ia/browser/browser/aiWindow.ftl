@@ -413,3 +413,10 @@ smartwindow-onboarding-default-window =
     .label = Initiar in { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Salvar e ir
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+ai-smart-form-fill-close-review-button =
+    .label = Clauder

@@ -413,3 +413,28 @@ smartwindow-onboarding-default-window =
     .label = { -smart-window-brand-name } ਵਿੱਚ ਸ਼ੁਰੂ ਕਰੋ
 smartwindow-onboarding-save =
     .label = ਸੰਭਾਲੋ ਅਤੇ ਜਾਓ
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = ਸਰੋਤ ਤੋਂ ਭਰੋ
+ai-smart-form-fill-autocomplete-loading = ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+ai-smart-form-fill-autocomplete-sources-label = ਸਰੋਤ ਤੋਂ ਭਰੋ
+ai-smart-form-fill-close-review-button =
+    .label = ਬੰਦ ਕਰੋ
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } ਟੈਬ
+       *[other] { $tabs } ਟੈਬਾਂ
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = ਸਰੋਤਾਂ ਨੂੰ ਸੋਧੋ
+ai-smart-form-fill-cancel-review-button =
+    .label = ਰੱਦ ਕਰੋ
+ai-smart-form-fill-try-again-button =
+    .label = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ

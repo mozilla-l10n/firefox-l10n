@@ -913,6 +913,40 @@ urlbar-result-dates-today = { $name } · ਅੱਜ
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · ਅੱਜ ਖਤਮ ਹੋਣਾ ਹੈ
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+urlbar-result-flight-status-status-ontime = ਸਮੇਂ ਸਿਰ
+urlbar-result-flight-status-status-inflight = ਹਵਾ ਵਿੱਚ
+urlbar-result-flight-status-status-arrived = ਪਹੁੰਚੀ
+urlbar-result-flight-status-status-cancelled = ਰੱਦ ਹੋਈ
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } ਬਨਾਮ { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } ਨੂੰ { $time } ਵਜੇ
+urlbar-result-sports-status-live = ਲਾਈਵ
+urlbar-result-sports-status-final = ਫਾਈਨਲ
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1045,6 +1079,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = ਸ਼ਾਰਟਕੱਟ
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1770,6 +1809,7 @@ trustpanel-tracking-header = { -brand-product-name } ਨੇ ਸਾਈਟਾਂ �
 trustpanel-tracking-description = ਕੁਝ ਟਰੈਕਰਾਂ ਬਿਨਾਂ, ਕੁਝ ਬਟਨ, ਫਾਰਮ ਅਤੇ ਲਾਗਇਨ ਖੇਤਰ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਨ।
 trustpanel-insecure-section-header = ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ
 trustpanel-insecure-description = ਇਸ ਸਾਈਟ ਉੱਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਡਾਟਾ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਕੀਤਾ ਹੈ। ਇਸ ਨੂੰ ਵੇਖਿਆ, ਚੋਰੀ ਕੀਤਾ ਜਾਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+trustpanel-report-broken-site-button = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਇਤਲਾਹ ਦਿਓ
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀ
@@ -1854,6 +1894,18 @@ trustpanel-blocker-section-header2 =
         [one] ਇਸ ਸਾਈਟ ਉੱਤੇ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ
        *[other] ਇਸ ਸਾਈਟ ਉੱਤੇ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = ਪਰਦੇਦਾਰੀ, ਉਹ ਜੋ ਤੁਹਾਡੇ ਲਈ ਕੰਮ ਕਰਦੀ ਹੈ
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = ਇਕਸਟੈਨਸ਼ਨ
+trustpanel-site-issue-step-vpn = ਵਿੱਚੇ ਮੌਜੂਦ VPN
+trustpanel-site-issue-step-etp = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
 
 ##  $count (String): the number of trackers blocked.
 

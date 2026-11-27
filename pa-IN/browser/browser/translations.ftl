@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 translations-panel-settings-button =
     .aria-label = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = ਇਹ ਸਫ਼ੇ ਦਾ ਅਨੁਵਾਦ ਕਰੋ
+urlbar-translations-button-intro-2 =
+    .tooltiptext = { -brand-shorter-name } ਵਿੱਚ ਪ੍ਰਾਈਵੇਟ ਅਨੁਵਾਦ ਅਜ਼ਮਾਓ
 
 ## Options in the Firefox Translations settings.
 

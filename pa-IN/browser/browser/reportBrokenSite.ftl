@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 report-broken-site-panel-intro-text = ਤੁਹਾਡੀ ਰਿਪੋਰਟ { -brand-product-name } ਵਿੱਚ ਮਸਲਿਆਂ ਨੂੰ ਸਮਝਣ ਅਤੇ ਹੋਰ ਜਾਣਿਆਂ ਲਈ ਠੀਕ ਕਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਦੀ ਹੈ।
 report-broken-site-panel-learn-more-link = ਹੋਰ ਜਾਣੋ
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = ਸਾਈਟ ਦਾ ਸਿਰਨਾਵਾਂ
 report-broken-site-panel-url-label = ਖ਼ਰਾਬ ਸਾਈਟ ਦਾ URL
 report-broken-site-panel-reason-intro-text = ਕੀ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -35,6 +37,10 @@ report-broken-site-panel-instructions-other = ਮਸਲੇ ਬਾਰੇ ਜਾ�
 report-broken-site-panel-instructions-other-optional = ਮਸਲੇ ਬਾਰੇ ਜਾਂਚ ਕਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਵੇਰਵੇ ਸਮੇਤ ਸਮੱਸਿਆ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ। (ਚੋਣਵਾਂ)
 report-broken-site-panel-description2 =
     .placeholder = ਕੀ ਹੋਇਆ ਹੈ? ਤੁਸੀ ਕੀ ਹੋਣ ਦੀ ਆਸ ਕਰ ਰਹੇ ਸੀ? ਮਸਲਾ ਮੁੜ ਤਿਆਰ ਕਰਨ ਲਈ ਪੜਾਅ ਦਿਓ।
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = { $website } ਰਾਹੀਂ ਜਾਣਕਾਰੀ ਭੇਜੋ
 report-broken-site-panel-send-more-info-button =
     .label = ਹੋਰ ਜਾਣਕਾਰੀ ਭੇਜੋ
 report-broken-site-panel-button-cancel =
