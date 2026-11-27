@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = T'æ pasou 'na stringa veua a getElementById().
+dom-document-write-ignored = 'Na ciamâ a document.write() da 'n script  esterno caregou in manea-ascincrona o l'é stæto ingnorou.
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
