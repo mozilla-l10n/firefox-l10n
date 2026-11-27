@@ -18,3 +18,5 @@ boxmodel-properties-label = Propriétés du modèle de boîte
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = décalage
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Plus proche parent positionné conteneur de l’élément sélectionné
