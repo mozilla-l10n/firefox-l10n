@@ -5,6 +5,15 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = A getElementById() üres karakterláncot kapott.
+dom-document-write-ignored = Egy aszinkron módon betöltött külső parancsfájl által meghívott document.write() figyelmen kívül lett hagyva.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Egy kiegyensúlyozatlan fa document.write() használatával történt kiíratása a hálózatról származó adatok újrafeldolgozását okozta. További információk: { $url }
+# Do not translate "EditContext.updateCharacterBounds()" and "characterboundsupdate".
+# Variables:
+#   $url (String) - URL of the documentation page for EditContext.updateCharacterBounds().
+dom-edit-context-character-bounds-warning = Az EditContext.updateCharacterBounds() nem szinkron módon lett meghívva a characterboundsupdate eseményfigyelőjében. Az IME-felület egyes felhasználók számára váratlanul elmozdulhat. További információk: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
