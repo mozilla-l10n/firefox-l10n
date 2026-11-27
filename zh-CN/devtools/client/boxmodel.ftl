@@ -18,3 +18,5 @@ boxmodel-properties-label = 盒模型属性
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = 偏移
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = 选中元素的偏移基准
