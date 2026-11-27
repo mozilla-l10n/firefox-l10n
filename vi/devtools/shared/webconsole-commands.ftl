@@ -22,3 +22,37 @@ webconsole-commands-usage-unblock =
     Dừng chặn các yêu cầu mạng
     
       Nó chỉ chấp nhận một đối số, chính xác là chuỗi được truyền trước đó cho :block.
+
+## Messages displayed as the result of Web Console commands.
+
+# Displayed when a string is copied to the clipboard with the copy() command,
+# for example copy({hello: "world"}).
+webconsole-commands-copy-value-to-clipboard = Chuỗi văn bản đã được sao chép vào bộ nhớ tạm.
+# Displayed when the copy() command can’t stringify an object. “copy” is a
+# function name and should not be translated.
+# Variables:
+#   $error (String) - The original error message.
+webconsole-commands-copy-error = Lệnh `copy` không thành công, không thể stringified: { $error }
+# Displayed when the :block command is successful.
+# Variables:
+#   $url (String) - The URL filter.
+webconsole-commands-blocked-url = Các yêu cầu gửi đến đường dẫn chứa “{ $url }” hiện đã bị khóa
+# Displayed when the :unblock command is successful.
+# Variables:
+#   $url (String) - The URL filter.
+webconsole-commands-unblocked-url = Đã xóa bộ lọc chặn “{ $url }”
+# Displayed when no filter is passed to the :block or :unblock commands.
+webconsole-commands-block-arg-missing = Không chọn bộ lọc nào
+
+## Messages displayed when the :trace command starts or stops the JavaScript
+## Tracer.
+
+webconsole-commands-start-tracing-to-web-console = Đã bắt đầu theo dõi Web Console
+webconsole-commands-start-tracing-to-stdout = Đã theo dõi stdout
+webconsole-commands-start-tracing-to-profiler = Đã theo dõi Profiler. Các dấu vết sẽ được hiển thị trong profiler khi dừng.
+webconsole-commands-stop-tracing = Đã dừng theo dõi
+# Displayed when the tracer stops for a reason other than the user request,
+# for example reaching the max-depth option, or an infinite loop.
+# Variables:
+#   $reason (String) - The reason why tracing stopped.
+webconsole-commands-stop-tracing-with-reason = Đã dừng theo dõi (nguyên nhân: { $reason })
