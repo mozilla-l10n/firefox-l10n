@@ -12,9 +12,13 @@ boxmodel-properties-label = Taq richinil ruwa ri kaxa
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Tewäx
+boxmodel-properties-show-label = Tik'ut
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = Tiya' ruk'exel
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Offset rutata' ri cha'on ch'akulal
