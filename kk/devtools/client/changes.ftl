@@ -9,9 +9,14 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Өзгерістер табылмады.
+changes-no-changes-description = Бақылаушыдағы CSS өзгерістері осында көрсетілетін болады.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Жолма-жол
 # Displayed in place of a stylesheet file name, above changes made to the
 # style attribute of an element.
 changes-element-style-label = Элемент
