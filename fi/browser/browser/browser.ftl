@@ -1382,6 +1382,9 @@ menu-share-copy-links =
            *[other] Kopioi { $count } linkkiä
         }
     .accesskey = l
+menu-share-windows2 =
+    .label = Lisää valintoja
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Sulje
 
