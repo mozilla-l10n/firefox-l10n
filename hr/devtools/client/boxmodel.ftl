@@ -15,9 +15,13 @@ boxmodel-properties-label = Svojstva modela kutije
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Sakrij
+boxmodel-properties-show-label = Prikaži
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = odmak
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Odmak nadređenog elementa od odabranog elementa
