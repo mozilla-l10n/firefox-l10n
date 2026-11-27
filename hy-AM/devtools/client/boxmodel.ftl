@@ -15,6 +15,8 @@ boxmodel-properties-label = Տուփի մոդլի հատկություններ
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Թաքցնել
+boxmodel-properties-show-label = Ցուցադրել
 
 ##
 
