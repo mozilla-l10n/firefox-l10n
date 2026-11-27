@@ -919,6 +919,66 @@ urlbar-result-dates-today = { $name } · šodien
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · beidzas šodien
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Nerādīt lidojuma statusa ieteikumus
+    .accesskey = N
+urlbar-result-flight-status-status-ontime = Laicīgi
+urlbar-result-flight-status-status-inflight = Lidojumā
+urlbar-result-flight-status-status-arrived = Ieradās
+urlbar-result-flight-status-status-cancelled = Atcelts
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Kavējas līdz { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = Atlikušais laiks ($timeLeft)
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Lidojuma statusa ieteikumi
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } pret { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } plkst. { $time }
+urlbar-result-sports-status-live = Tiešraide
+urlbar-result-sports-status-final = Fināls
+urlbar-result-menu-dont-show-sports = Nerādīt sporta ieteikumus
+    .accesskey = N
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Sporta ieteikumi
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1051,6 +1111,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Nesenie meklējumi
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Saīsnes
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1756,8 +1821,20 @@ trustpanel-clear-cookies-subview-button-clear = Notīrīt
 trustpanel-clear-cookies-subview-button-cancel = Atcelt
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Dzēst vietnes datus vietnei { $host }
+trustpanel-clear-cookies-description-redesign = Jūs tiksiet izrakstīts no vietnēm. Tas var notīrīt iepirkumu grozus.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Savienojuma aizsardzība { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Savienojuma informācija par { $host }
+trustpanel-connection-secure = Šīs vietnes savienojums ir drošs.
+trustpanel-connection-not-secure = Šīs vietnes savienojums nav drošs.
+trustpanel-connection-not-secure-description = Lai pasargātu no zādzības, neievadiet tādu informāciju kā paroles vai kredītkaršu datus.
 trustpanel-siteinformation-morelink = Vairāk informācijas par vietni
 trustpanel-blocker-see-all = Apskatīt visu
 trustpanel-blocker-see-trackers-button = Apskatīt izsekotājus
@@ -1778,6 +1855,16 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [zero] Liegti { $count } izsekotāju
        *[other] Liegti { $count } izsekotāji
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] Šajā vietnē ir bloķēts { $count } izsekotājs
+        [zero] Šajā vietnē bloķēti { $count } izsekotāji
+       *[other] Šajā vietnē bloķēti { $count } izsekotāji
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = Šajā vietnē izsekotāji netika atrasti
+urlbar-trust-icon-tracking-protection-off-tooltip = Šai vietnei izsekošanas aizsardzība ir izslēgta.
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1788,6 +1875,16 @@ trustpanel-tracking-header = { -brand-product-name } atļāva šo, lai vietnes n
 trustpanel-tracking-description = Bez izsekotājiem dažas pogas, veidlapas un pieteikšanās lauki var nedarboties.
 trustpanel-insecure-section-header = Savienojums nav drošs
 trustpanel-insecure-description = Dati, kas tiek sūtīti šai vietnei, nav šifrēti. Tos var apskatīt, nozagt vai izmanīt.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Vietne nedarbojas? Izmēģiniet tālāk norādītās darbības.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Izslēdziet šīs funkcijas pa vienai, lai noskaidrotu, vai problēma tiek novērsta:
+trustpanel-report-broken-site-button = Ziņot par bojātu vietni
+trustpanel-report-broken-site-description = Jūsu ziņojums palīdz mums uzlabot { -brand-short-name } ikvienam.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [zero] { $count } vietņu izsekošanas sīkdatnes
@@ -1887,6 +1984,19 @@ trustpanel-blocker-section-header2 =
         [one] Šajā vietnē aizturēts <span data-l10n-name="count">{ $count }</span> izsekotājs
        *[other] Šajā vietnē aizturēti <span data-l10n-name="count">{ $count }</span> izsekotāji
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Privātums, kas der jums
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } apgrūtina uzņēmumiem jūsu izsekošanu. Atveriet vairogu, lai redzētu, kādus izsekotājus mēs bloķējām.
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Paplašinājumi
+trustpanel-site-issue-step-vpn = Iebūvēts VPN
+trustpanel-site-issue-step-etp = Uzlabota izsekošanas aizsardzība
 
 ##  $count (String): the number of trackers blocked.
 

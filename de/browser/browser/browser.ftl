@@ -1104,6 +1104,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Letzte Suchanfragen
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Verknüpfungen
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1800,8 +1805,20 @@ trustpanel-clear-cookies-subview-button-clear = Löschen
 trustpanel-clear-cookies-subview-button-cancel = Abbrechen
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Website-Daten für { $host } löschen
+trustpanel-clear-cookies-description-redesign = Sie werden von Websites abgemeldet. Dabei können Warenkörbe geleert werden.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Verbindungssicherheit für { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Informationen zur Verbindung mit { $host }
+trustpanel-connection-secure = Die Verbindung zu dieser Website ist sicher.
+trustpanel-connection-not-secure = Die Verbindung zu dieser Website ist nicht sicher.
+trustpanel-connection-not-secure-description = Geben Sie keine vertraulichen Daten wie Passwörter oder Kreditkartendaten ein, damit sie nicht gestohlen werden.
 trustpanel-siteinformation-morelink = Mehr Website-Informationen
 trustpanel-blocker-see-all = Alle anzeigen
 trustpanel-blocker-see-trackers-button = Tracker anzeigen
@@ -1821,6 +1838,15 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] { $count } Tracker blockiert
        *[other] { $count } Tracker blockiert
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] { $count } Tracker auf dieser Website blockiert
+       *[other] { $count } Tracker auf dieser Website blockiert
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = Keine Tracker auf dieser Website gefunden
+urlbar-trust-icon-tracking-protection-off-tooltip = Der Tracking-Schutz ist für diese Website deaktiviert
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1831,7 +1857,16 @@ trustpanel-tracking-header = { -brand-product-name } erlaubt diese Dinge, damit 
 trustpanel-tracking-description = Ohne Tracker funktionieren einige Schaltflächen, Formulare und Anmeldefelder möglicherweise nicht.
 trustpanel-insecure-section-header = Ihre Verbindung ist nicht sicher
 trustpanel-insecure-description = Die Daten, die Sie an diese Website senden, sind nicht verschlüsselt. Sie könnten eingesehen, gestohlen oder verändert werden.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Probleme mit der Website? Versuchen Sie es mit diesen Schritten.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Deaktivieren Sie diese Funktionen nacheinander, um zu prüfen, ob sich das Problem dadurch beheben lässt:
 trustpanel-report-broken-site-button = Problem mit Website melden
+trustpanel-report-broken-site-description = Ihr Bericht hilft uns, { -brand-short-name } für alle zu verbessern.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } Cookie zur seitenübergreifenden Aktivitätenverfolgung
@@ -1916,6 +1951,10 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
        *[other] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Datenschutz, der für Sie da ist
 
 ## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
 ## Each one names a feature the user can turn off to check whether it causes
