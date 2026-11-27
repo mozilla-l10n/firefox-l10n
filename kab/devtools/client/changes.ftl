@@ -9,9 +9,14 @@
 
 ## Displayed when no changes have been made yet.
 
+changes-no-changes = Ulac isnifal yettwafen.
+changes-no-changes-description = Isnifal n CSS deg umaswaḍ ad d-banent dagi.
 
 ##
 
+# Displayed in place of a stylesheet file name, above changes made to an
+# inline stylesheet (<style> element).
+changes-inline-stylesheet-label = Deg umnaḍ
 # Displayed in place of a stylesheet file name, above changes made to the
 # style attribute of an element.
 changes-element-style-label = Aferdis
