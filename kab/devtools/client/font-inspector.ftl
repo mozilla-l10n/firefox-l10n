@@ -22,6 +22,7 @@ font-inspector-custom-instance-name = Sagen
 font-inspector-font-size-label = Teɣzi
 font-inspector-font-weight-label = Taẓayt
 font-inspector-font-italic-label = Uknan
+font-inspector-letter-spacing-label = Aṣiẓi
 font-inspector-line-height-label = Teɣzi n izirig
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
