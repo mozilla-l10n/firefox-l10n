@@ -26,6 +26,8 @@ font-inspector-line-height-label = Výška řádku
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = Zobrazit víc
+font-inspector-show-less = Zobrazit méně
 
 ##
 
