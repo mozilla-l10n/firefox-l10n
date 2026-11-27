@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Bozuk siteyi rapor et
 report-broken-site-panel-header =
     .label = Bozuk siteyi rapor et
     .title = Bozuk siteyi rapor et
+report-broken-site-panel-intro-text2 = Raporunuz { -brand-product-name } tarayıcısını geliştirmemize yardımcı oluyor.
 report-broken-site-panel-intro-text = Raporunuz { -brand-product-name } tarayıcısındaki sorunları anlayıp düzeltmemize, böylece tarayıcıyı herkes için iyileştirmemize yardımcı oluyor.
 report-broken-site-panel-learn-more-link = Daha fazla bilgi alın
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Site adresi
 report-broken-site-panel-url-label = Bozuk sitenin adresi
 report-broken-site-panel-reason-intro-text = Ne çalışmıyor?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Başka bir şey
 report-broken-site-panel-instructions-other = Sorunu inceleyebilmemiz için problemi ayrıntılı olarak anlatın.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Problemi ayrıntılı olarak açıklayın (isteğe bağlı)
 report-broken-site-panel-instructions-other-optional = Sorunu inceleyebilmemiz için problemi ayrıntılı olarak anlatın. (isteğe bağlı)
 report-broken-site-panel-description2 =
     .placeholder = Ne oldu ve ne olmasını bekliyorsunuz? Sorunu yeniden oluşturabilmemiz için lütfen yaptıklarınızı adım adım anlatın.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Bilgileri { $website } üzerinden gönder
 report-broken-site-panel-send-more-info-button =
     .label = Daha fazla bilgi verin
 report-broken-site-panel-button-cancel =
@@ -61,6 +70,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = İzlenme koruması tarafından engellenen öğelerin listesini gönder
 report-broken-site-panel-url-input-label =
     .aria-label = Bildirilen sayfanın adresi
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Tanılama verilerini göster
 report-broken-site-panel-preview-button =
     .label = Raporu ön izle
 report-broken-site-panel-preview-header2 =

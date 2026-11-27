@@ -218,6 +218,15 @@ ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name } ile korumayı ileri taşıyın
     .message = 300’den fazla konumdan istediğinizi seçin, 5 ayrı cihazınızda tüm uygulamalarınızı koruyun.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name }’i edinin
+# Variables:
+#   $count (number) - The number of additional VPN locations available after setting Firefox as the default browser
+ipprotection-locations-subview-set-default-promo =
+    .heading = Daha fazla konum, daha fazla koruma.
+    .message =
+        { $count ->
+            [one] { -brand-short-name } tarayıcısını varsayılan tarayıcınız yapın, { $count } yeni konuma kavuşun. Bağlantılarınız burada açılacak ve VPN kullanabileceksiniz.
+           *[other] { -brand-short-name } tarayıcısını varsayılan tarayıcınız yapın, { $count } yeni konuma kavuşun. Bağlantılarınız burada açılacak ve VPN kullanabileceksiniz.
+        }
 ipprotection-locations-subview-set-default-promo-button = Bağlantıları { -brand-short-name } ile aç
 
 ## VPN paused state
@@ -255,6 +264,15 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = VPN kotanız dolmak üzere
     .message = Bu ayki { $maxUsage } GB hakkınızdan { $usageLeft } MB kaldı.
+# Variables
+#   $additionalLocationsCount (number) - The number of additional VPN locations now available
+ipprotection-message-default-browser-confirmation =
+    .heading =
+        { $additionalLocationsCount ->
+            [one] { $additionalLocationsCount } VPN konumuna daha erişebilirsiniz
+           *[other] { $additionalLocationsCount } VPN konumuna daha erişebilirsiniz
+        }
+    .message = Varsayılan tarayıcınızı { -brand-short-name } yaptığınız için teşekkürler. Kullanabileceğiniz yeni konumlar ekledik.
 ipprotection-message-continuous-onboarding-intro = Konumunuzu gizlemek ve gezintilerinize ekstra şifreleme eklemek için VPN’i açabilirsiniz.
 ipprotection-message-continuous-onboarding-autostart = Ekstra koruma için { -brand-short-name } tarayıcınızı her açtığınızda <a data-l10n-name="setting-link">VPN’i açılacak şekilde ayarlayabilirsiniz</a>.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hangi sitelerde VPN kullandığınızı hatırlayacaktır. Bunları istediğiniz zaman <a data-l10n-name="setting-link">ayarlar</a> üzerinden güncelleyebilirsiniz.

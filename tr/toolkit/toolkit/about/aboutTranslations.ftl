@@ -7,6 +7,9 @@ about-translations-title = { -brand-short-name } çevirileri
 # The brief description of the Translations functionality on the page.
 about-translations-description = Gizliliğinizi koruyan anlık çeviriler.
 about-translations-learn-more-link = Daha fazla bilgi alın
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = { -brand-short-name } çevirilerini kapat
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Bu cihazda çeviri yapılamıyor

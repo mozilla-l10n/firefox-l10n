@@ -147,6 +147,12 @@ main-context-menu-edit-bookmark-2 =
 main-context-menu-edit-bookmark-with-shortcut-2 =
     .aria-label = Yer imini düzenle…
     .tooltiptext = Yer imini düzenle ({ $shortcut })
+main-context-menu-open-link-2 =
+    .label = Aç
+    .accesskey = A
+main-context-menu-bookmark-link-3 =
+    .label = Yer imlerine ekle…
+    .accesskey = Y
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -373,6 +379,9 @@ main-context-menu-add-engine =
 main-context-menu-turn-on-actions-menu =
     .label = İşlemler menüsünü etkinleştir
     .accesskey = m
+main-context-menu-link-send-to-your-devices =
+    .label = Cihazlarıma gönder
+    .accesskey = C
 main-context-menu-link-send-to-device =
     .label = Bağlantıyı cihaza gönder
     .accesskey = c

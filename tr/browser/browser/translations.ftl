@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Çeviri devam ediyor
 translations-panel-settings-button =
     .aria-label = Çeviri ayarlarını yönet
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Bu sayfayı çevir
+urlbar-translations-button-intro-2 =
+    .tooltiptext = { -brand-shorter-name }’ta gizli çevirileri deneyin
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Bu sayfa çevrilsin mi?
 translations-panel-translate-button =
     .label = Çevir
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Ayrık görünümde anında çeviri
+    .tooltiptext = Ayrık görünümde anında çeviri
 translations-panel-translate-button-loading =
     .label = Lütfen bekleyin…
 translations-panel-translate-cancel =

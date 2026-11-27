@@ -67,6 +67,18 @@ move-to-mini-window =
            *[other] Mini pencerelere taşı
         }
     .accesskey = M
+# Moves full tabs to Mini Windows, one window per tab.
+# Appears as an option for the context menu "Move to"
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window-alt =
+    .label =
+        { $tabCount ->
+            [1] Mini pencere
+            [one] Mini pencereler
+           *[other] Mini pencereler
+        }
+    .accesskey = M
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
