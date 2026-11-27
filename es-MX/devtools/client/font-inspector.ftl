@@ -19,7 +19,11 @@ font-inspector-custom-instance-name = Personalizar
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = Tamaño
+font-inspector-font-weight-label = Peso
+font-inspector-font-italic-label = Cursiva
 font-inspector-letter-spacing-label = Espaciado
+font-inspector-line-height-label = Altura de la línea
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
