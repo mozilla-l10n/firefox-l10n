@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = Προσαρμοσμένο
 font-inspector-font-size-label = Μέγεθος
 font-inspector-font-weight-label = Πάχος
 font-inspector-font-italic-label = Πλάγια γραφή
+font-inspector-letter-spacing-label = Διάστιχο
+font-inspector-line-height-label = Ύψος γραμμής
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
