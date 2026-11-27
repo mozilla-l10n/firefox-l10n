@@ -14,6 +14,9 @@
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Vyplňte prosím pole v požadovaném formátu: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Zvolte prosím číslo, které není větší než { $maximum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Zvolte prosím platnou hodnotu. Nejbližší platné hodnoty jsou { $lowValue } a { $highValue }.
