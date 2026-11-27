@@ -27,6 +27,8 @@ font-inspector-line-height-label = ความสูงของบรรทั
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = แสดงเพิ่มเติม
+font-inspector-show-less = แสดงน้อยลง
 
 ##
 
