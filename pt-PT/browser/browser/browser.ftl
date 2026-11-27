@@ -1393,6 +1393,9 @@ menu-share-copy-links =
            *[other] Copiar { $count } ligações
         }
     .accesskey = l
+menu-share-windows2 =
+    .label = Mais opções
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = Fechar
 
