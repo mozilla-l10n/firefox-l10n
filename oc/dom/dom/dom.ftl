@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Una cadena voida es estada transmesa a getElementById().
+dom-document-write-ignored = Un apèl a document.write() d'un escript extèrne carga d'un biais asincròn es estat ignorat.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Un arbre non equilibrat es estat escrich en utilizant document.write() provocant una novèla analisi de donadas provenent de la ret. Mai d’informacions, consultatz : { $url }
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
