@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = getElementById() ને ખાલી શબ્દમાળા પસાર કરવામાં આવી.
+dom-document-write-ignored = અનામિક રીતે લોડ થયેલ બહારની સ્ક્રિપ્ટમાંથી document.write() નો કોલ અવગણેલ હતો.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
