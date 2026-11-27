@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = Bonvolu elekti validan valoron. La du plej p
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Bonvolu elekti validan valoron. La plej proksima valoro estas { $value }.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = Bonvolu elekti valoron inter { $minimum } kaj { $maximum }.
+dom-form-validation-bad-input-number = Bonvolu tajpi numeron.
