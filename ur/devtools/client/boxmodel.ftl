@@ -12,6 +12,8 @@ boxmodel-properties-label = باکس ماڈل کی خصوصیات
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = چھپائیں
+boxmodel-properties-show-label = دکھائیں
 
 ##
 
