@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Paylaş…
     .accesskey = P
+
+##
+
 urlbar-identity-button =
     .aria-label = Sayt məlumatlarını gör
 
@@ -666,6 +669,11 @@ urlbar-page-action-button =
     .tooltiptext = Səhifə əməliyyatları
 urlbar-revert-button =
     .tooltiptext = Ünvanı Məkan Sətrində göstər
+# Title of address bar results for bookmark keyword searches.
+# Variables:
+#  $domain (String): The domain name of the bookmark.
+#  $searchTerms (String): The search terms the user is typing. Never empty.
+urlbar-result-bookmark-keyword-search = { $domain }: { $searchTerms }
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -771,6 +779,11 @@ urlbar-result-weather-title-city-only = { $city } məkanında <strong>{ $tempera
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorlaşdırılıb
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Soruş
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -905,6 +918,15 @@ urlbar-result-dates-today = { $name } · Bu gün
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Bu gün bitir
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -1397,6 +1419,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1654,6 +1679,13 @@ file-picker-crashed-open = Windows fayl dialoqu çökdü. Heç bir fayl və ya q
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows fayl dialoqu çökdü. Fayl { $path } məkanında saxlanılacaq.
 file-picker-crashed-save-nowhere = Windows fayl dialoqu çökdü. Standart qovluq tapılmadı; fayl saxlanılmayacaq.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Qovluqda göstər
     .accessKey = F
@@ -1729,6 +1761,9 @@ trustpanel-blocker-see-all = Hamısını göstər
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } üçün izlənmə qorumaları
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1742,6 +1777,7 @@ urlbar-trust-icon-trackers-blocked-longform-label =
        *[other] { $count } izləyici əngəlləndi
     }
 
+## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } hesab edir ki, şirkətlər sizi daha az izləməlidir. Buna görə də bacardığımız qədər çoxunu əngəlləyirik.
@@ -1834,6 +1870,17 @@ trustpanel-blocker-section-header2 =
         [one] Bu saytda <span data-l10n-name="count">{ $count }</span> izləyici əngəlləndi
        *[other] Bu saytda <span data-l10n-name="count">{ $count }</span> izləyici əngəlləndi
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+
+##  $count (String): the number of trackers blocked.
+
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
