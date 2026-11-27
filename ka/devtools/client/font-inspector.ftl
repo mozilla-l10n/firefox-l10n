@@ -6,8 +6,19 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = სისტემური
+font-inspector-no-fonts-used = შრიფტები არ ახლავს მოცემულ ელემენტს.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = ბმულის ასლი
+# An "instance" is the term used by font authors for a named group of
+# predefined font settings, similar to a preset. This is the label of the
+# dropdown used to select one.
+font-inspector-font-instance-label = გამზადებული
+# Name of the entry in the instance dropdown that holds the settings manually
+# adjusted by the user.
+font-inspector-custom-instance-name = მორგებული
 
 ## Labels for the font editor controls
 
@@ -32,6 +43,15 @@ font-inspector-preview-text-placeholder = შრიფტის შეთვა�
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = ვერსია:
+font-inspector-font-designer = შემმუშავებელი:
+font-inspector-font-manufacturer = მწარმოებელი:
+font-inspector-font-vendor = მომწოდებელი:
+font-inspector-font-description = აღწერილობა:
+font-inspector-font-license = ლიცენზია:
+font-inspector-font-license-info-url = ლიცენზიის ბმული:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = გაშლა
