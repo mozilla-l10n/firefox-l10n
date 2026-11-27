@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = До цього елемента не застосовано жодного шрифту.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Копіювати URL
 # An "instance" is the term used by font authors for a named group of
