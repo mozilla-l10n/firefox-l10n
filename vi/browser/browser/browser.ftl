@@ -1355,6 +1355,9 @@ menu-share-windows =
 menu-share-copy-links =
     .label = Sao chép { $count } liên kết
     .accesskey = L
+menu-share-windows2 =
+    .label = Tùy chọn khác
+    .accesskey = M
 ui-tour-info-panel-close =
     .tooltiptext = Đóng
 
