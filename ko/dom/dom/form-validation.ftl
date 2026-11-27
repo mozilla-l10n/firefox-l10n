@@ -46,3 +46,8 @@ dom-form-validation-step-mismatch = 유효한 값을 선택하세요. 가장 유
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = 유효한 값을 선택하세요. 가장 유효한 값에 근사한 값은 { $value } 입니다.
+# Variables:
+#   $minimum (String) - The earliest time allowed in the field.
+#   $maximum (String) - The latest time allowed in the field.
+dom-form-validation-time-reversed-range = { $minimum }에서 { $maximum } 사이의 값을 선택하세요.
+dom-form-validation-bad-input-number = 숫자를 입력하세요.
