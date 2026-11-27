@@ -423,6 +423,8 @@ smartwindow-onboarding-save =
 ai-smart-form-fill-autocomplete-label = Συμπλήρωση από πηγές
 ai-smart-form-fill-autocomplete-loading = Φόρτωση
 ai-smart-form-fill-autocomplete-sources-label = Συμπλήρωση από πηγές
+ai-smart-form-fill-autocomplete-choose-tabs = Ανοίξτε ή επιλέξτε σελίδες που σχετίζονται με αυτήν τη φόρμα για να λάβετε προτάσεις αυτόματης συμπλήρωσης
+ai-smart-form-fill-autocomplete-open-tabs = Ανοίξτε σελίδες που σχετίζονται με αυτήν τη φόρμα για να λάβετε προτάσεις αυτόματης συμπλήρωσης
 ai-smart-form-fill-close-review-button =
     .label = Κλείσιμο
 # Variables:
@@ -449,6 +451,9 @@ ai-smart-form-fill-review-heading = Έλεγχος προτάσεων
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Πεδίο
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Μετάβαση στο κάτω μέρος των προτάσεων
+    .tooltiptext = Μετάβαση στο κάτω μέρος
 ai-smart-form-fill-cancel-review-button =
     .label = Ακύρωση
 ai-smart-form-fill-finding-suggestions = Εύρεση προτάσεων
@@ -456,4 +461,12 @@ ai-smart-form-fill-finding-suggestions = Εύρεση προτάσεων
 # only.
 ai-smart-form-fill-stop-finding-suggestions =
     .aria-label = Διακοπή εύρεσης προτάσεων
+ai-smart-form-fill-success-heading = Προστέθηκαν προτάσεις στη φόρμα
+ai-smart-form-fill-no-changes-heading = Δεν προστέθηκε τίποτα στη φόρμα
 ai-smart-form-fill-no-suggestions-heading = Δεν βρέθηκαν προτάσεις
+ai-smart-form-fill-error-try-again-heading = Δεν προστέθηκαν προτάσεις στη φόρμα
+ai-smart-form-fill-error-try-again-description = Κάτι πήγε στραβά. Δοκιμάστε να προσθέσετε ξανά προτάσεις.
+ai-smart-form-fill-error-heading = Δεν προστέθηκαν προτάσεις
+ai-smart-form-fill-error-description = Κάτι πήγε στραβά. Για να δοκιμάσετε ξανά, επιλέξτε ένα πεδίο φόρμας και επιλέξτε «Συμπλήρωση από πηγές».
+ai-smart-form-fill-try-again-button =
+    .label = Δοκιμή ξανά
