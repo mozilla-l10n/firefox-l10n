@@ -27,6 +27,26 @@ dom-form-validation-pattern-mismatch = Masukkan sesuai dengan format yang dimint
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Masukkan sesuai dengan format yang diminta: { $title }.
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Pilih nilai yang tidak lebih dari { $maximum }.
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Pilih nilai yang tidak lebih dari { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Pilih nilai yang tidak kurang dari { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Pilih nilai yang tidak lebih awal dari { $minimum }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Pilih nilai yang valid. Dua nilai valid terdekat adalah { $lowValue } dan { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = Pilih nilai yang valid. Nilai valid terdekat adalah { $value }.
+# Variables:
 #   $minimum (String) - The earliest time allowed in the field.
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Pilih satu nilai antara { $minimum } dan { $maximum }.

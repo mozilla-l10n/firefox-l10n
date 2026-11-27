@@ -5,6 +5,11 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = String kosong ditempatkan ke getElementById().
+dom-document-write-ignored = Pemanggilan fungsi document.write() dari skrip eksternal yang dimuat secara asinkron telah diabaikan.
+# Variables:
+#   $url (String) - URL of a page with more information about speculative parsing.
+dom-parser-speculation-failed = Pohon yang tak imbang telah ditulis lewat document.write() dan menyebabkan data dari jaringan untuk diuraikan ulang. Informasi lebih lanjut: { $url }
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
