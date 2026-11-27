@@ -30,6 +30,15 @@ dom-form-validation-pattern-mismatch-with-title = Uporabite zahtevano obliko: { 
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Izberite vrednost, nižjo ali enako { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Izberite vrednost, ki ni poznejša od { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Izberite vrednost, višjo ali enako { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Izberite vrednost, ki ni pred { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Izberite veljavno vrednost. Dve najbližji veljavni vrednosti sta { $lowValue } in { $highValue }.
