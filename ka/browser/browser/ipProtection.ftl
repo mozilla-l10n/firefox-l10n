@@ -283,6 +283,12 @@ ipprotection-come-back-title = დაბრუნდით და მოსი�
 ipprotection-message-body-hide-location = დამალეთ თქვენი მდებარეობა, როცა { -brand-product-name } გვერდებს მოინახულებს, დამატებითი პირადულობისა და უკეთ განკარგვისთვის.
 ipprotection-connection-status-generic-error-title-1 = ვერ მიუერთდა VPN
     .aria-label = ვერ მიუერთდა VPN
+ipprotection-connection-status-try-again-button = ხელახლა ცდა
+# Label for button that causes the VPN to deactivate the VPN (but any site inclusions continue to use the VPN)
+ipprotection-connection-error-continue-without-vpn = განაგრძეთ გამორთული VPN-ით
+# Shown in place of the error title while the VPN tries to connect again
+ipprotection-connection-status-trying-again-title = ხელახლა ცდა…
+    .aria-label = ხელახლა ცდა…
 
 ## IP Protection bandwidth callouts
 

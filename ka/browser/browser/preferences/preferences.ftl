@@ -17,6 +17,9 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = ფარავს თქვენს ნამდვილ ელფოსტას უსარგებლო წერილების ასარიდებლად
     .label = შემოთავაზებული { -relay-brand-name } ელფოსტის შესანიღბად
+preferences-window-lock-macos =
+    .description = { -brand-short-name } მოითხოვს მოწყობილობის პაროლს ან საშვს მას შემდეგ, რაც თქვენი კომპიუტერი ჩაიკეტება, უქმ რეჟიმში გადავა ან ეკრანმზოგი ჩაირთვება.
+    .label = პირადი ფანჯრების თვითჩაკეტვა
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
