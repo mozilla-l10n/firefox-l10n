@@ -29,6 +29,11 @@ font-inspector-show-less = कम दिखाएँ
 
 ##
 
+font-inspector-all-fonts-on-page-header = पेज पर सभी अवतरण
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = प्रयुक्त अक्षर
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = अक्षर पुनर्वालोकन अवतरण
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
