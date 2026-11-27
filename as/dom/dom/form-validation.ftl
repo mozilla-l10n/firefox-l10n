@@ -11,6 +11,12 @@
 ## NUMBER() or DATETIME().
 
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = অনুগ্ৰহ কৰি { $maximum } কে সৰু অথবা সমান এটা সংখ্যা বাছক।
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = অনুগ্ৰহ কৰি { $minimum } ৰ সমান অথবা ডাঙৰ সংখ্যা বাছক।
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = অনুগ্ৰহ কৰি এটা বৈধ মান বাছক। দুটা ওচৰৰ বৈধ মান হল { $lowValue } আৰু { $highValue }।
