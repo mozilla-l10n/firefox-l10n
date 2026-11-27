@@ -17,6 +17,15 @@ dom-form-validation-pattern-mismatch-with-title = Anna arvo pyydetyssä muodossa
 #   $maximum (String) - The maximum value allowed in the field, a number.
 dom-form-validation-number-range-overflow = Valitse arvo, joka on enintään { $maximum }.
 # Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = Valitse arvo, joka ei ole myöhempi kuin { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Valitse arvo, joka vähintään { $minimum }.
+# Variables:
+#   $minimum (String) - The earliest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-underflow = Valitse arvo, joka ei ole aikaisempi kuin { $minimum }.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = Valitse kelvollinen arvo. Kaksi lähintä kelvollista arvoa ovat { $lowValue } ja { $highValue }.
