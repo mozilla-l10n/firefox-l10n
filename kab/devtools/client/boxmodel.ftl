@@ -12,6 +12,8 @@ boxmodel-properties-label = Iɣewwaren n tneɣruft n tnaka
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Ffer
+boxmodel-properties-show-label = Sken
 
 ##
 
