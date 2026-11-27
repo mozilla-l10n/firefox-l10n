@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = sistema
 font-inspector-no-fonts-used = Neniu tiparo estas uzita en la nuna elemento.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Kopii retadreson
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Teksto por antaŭvido de tiparo
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Versio:
+font-inspector-font-designer = Fasonisto:
+font-inspector-font-manufacturer = Fabrikanto:
+font-inspector-font-vendor = Vendisto:
+font-inspector-font-description = Priskribo:
+font-inspector-font-license = Permesilo:
+font-inspector-font-license-info-url = Retadreso de informo pri permesilo:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Malfaldi
