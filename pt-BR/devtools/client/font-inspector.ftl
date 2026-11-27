@@ -18,6 +18,9 @@ font-inspector-custom-instance-name = Personalizado
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = Tamanho
+font-inspector-font-weight-label = Peso
+font-inspector-font-italic-label = Itálico
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
