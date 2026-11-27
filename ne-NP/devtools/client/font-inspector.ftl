@@ -18,9 +18,12 @@ font-inspector-custom-instance-name = Custom
 
 ## Labels for the font editor controls
 
+font-inspector-font-size-label = आकार
+font-inspector-font-weight-label = तौल
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
+font-inspector-show-more = थप देखाउनुहोस्
 
 ##
 
