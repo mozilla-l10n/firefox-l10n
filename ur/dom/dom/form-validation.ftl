@@ -10,6 +10,27 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = برآیے مہربانی اس قطعہ کو بھریں۔
+dom-form-validation-checkbox-missing = اگر آپ عمل پذیر کرنا چاہتے ہیں تو برآیے مہربانی اس خانے کو بانشان کریں۔
+dom-form-validation-radio-missing = برآیے مہربانی ان اختیارات میں سے ایک کو منتخب کریں۔
+dom-form-validation-file-missing = برآیے مہربانی مسل کو منتخب کریں۔
+dom-form-validation-select-missing = برایےمہربانی فہرست میں سے شے کو منتخب کریں۔
+dom-form-validation-invalid-email = ای میل پتہ داخل کریں۔
+dom-form-validation-invalid-url = برایے مہربانی یو ار ایل داخل کریں۔
+dom-form-validation-invalid-date = براہ مہربانی ایک جائز تاریخ داخل کریں۔
+dom-form-validation-pattern-mismatch = برآیے مہربانی درخواست کردہ وضع سے مشابہ کریں۔
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = برآیے مہربانی درخواست کردہ وضع سے مشابہ کریں: { $title }۔
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = برائے مہربانی ایسی قدر منتخب کریں جو { $maximum } سے زیادہ نا ہو۔
+# Variables:
+#   $maximum (String) - The latest value allowed in the field, a date or a time.
+dom-form-validation-date-time-range-overflow = برآیے مہربانی { $maximum } سے چہٹی قدر کو منتخب کریں۔
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = برآیے مہربانی { $minimum } سے چہٹی قدر کو منتخب کریں۔
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
