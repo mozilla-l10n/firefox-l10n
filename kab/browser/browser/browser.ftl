@@ -1149,6 +1149,9 @@ menu-share-more =
     .label = Ugar…
 menu-share-windows =
     .label = Ugar n tnefrunin
+menu-share-windows2 =
+    .label = Ugar n tnefrunin
+    .accesskey = U
 ui-tour-info-panel-close =
     .tooltiptext = Mdel
 
