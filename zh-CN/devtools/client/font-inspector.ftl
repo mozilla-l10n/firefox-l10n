@@ -6,6 +6,7 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+font-inspector-no-fonts-used = 此元素中未使用字体。
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = 复制链接
 # An "instance" is the term used by font authors for a named group of
@@ -33,6 +34,8 @@ font-inspector-show-less = 折叠
 font-inspector-all-fonts-on-page-header = 页面上的所有字体
 # Label for the list of fonts used on the selected element.
 font-inspector-fonts-used-label = 所用字体
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = 字体预览文本
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
