@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = apopyvusu
 font-inspector-no-fonts-used = Ndojeporúi teñoiha mba’eporu ag̃aguápe.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = URL mbohasarã
@@ -40,6 +43,15 @@ font-inspector-preview-text-placeholder = Moñe’ẽrã jehecha ypy peteĩchagu
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
+font-inspector-font-version = Peteĩchagua:
+font-inspector-font-designer = Mbosako’iha:
+font-inspector-font-manufacturer = Apohára:
+font-inspector-font-vendor = Me’ẽhára:
+font-inspector-font-description = Moha'ãnga:
+font-inspector-font-license = Ñemoneĩkuatia:
+font-inspector-font-license-info-url = URL marandu ñemoneĩkuatia rehegua:
 
 ##
 
+# Button displayed to expand a truncated value (e.g. Description or License).
+font-inspector-show-full-text = Moasãi
