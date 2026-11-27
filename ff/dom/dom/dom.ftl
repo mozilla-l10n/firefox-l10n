@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Ɓoggol mehol ɓenninaama to getElementById().
+dom-document-write-ignored = Noddaango fayde e document.write() ummoraade e dokkorol booworal ngal looiraaka mbaydi sanngolɗinal faalkisaama.
 # Do not translate "entryTypes".
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
