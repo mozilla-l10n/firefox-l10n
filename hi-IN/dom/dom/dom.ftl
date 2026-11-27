@@ -5,6 +5,8 @@
 
 ## Messages reported to the Web Console by DOM code.
 
+dom-get-element-by-id-empty-param = Empty string passed to getElementById().
+dom-document-write-ignored = A call to document.write() from an asynchronously-loaded external script was ignored.
 # Variables:
 #   $tagName (String) - Tag name of the element that starts the loop.
 #   $id (String) - ID of the element.
