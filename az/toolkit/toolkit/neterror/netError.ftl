@@ -25,6 +25,22 @@ neterror-return-to-previous-page-button = Geri Get
 neterror-return-to-previous-page-recommended-button = Geri get (Məsləhətlidir)
 neterror-view-certificate-link = Sertifikatı Gör
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Bu sayt əlçatmazdır
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Bu addımları sınayın:
+neterror-search-cta-hint-check-address = Vebsayt ünvanını təkrar yoxlayın
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, beginning with the site's name, for example "example best hiking
+# boots". The query and the quotation marks around it are emphasized.
+neterror-search-cta-hint-search-query = <strong>“{ $query }”</strong> ifadəsini internetdə axtarın
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Xəta kodu: { $error }
+
 ##
 
 neterror-pref-reset = Şəbəkə təhlükəsizliyi tənzimləmələri buna səbəb ola bilər. Standart tənzimləməri geri yükləmək istəyirsinizmi?
@@ -39,7 +55,9 @@ neterror-http-error-page = Vebsayt ünvanını doğru daxil etdiyinizi yoxlayın
 neterror-http-empty-response = Vebsayt ünvanını doğru daxil etdiyinizi yoxlayın və bir müddət sonra təkrar cəhd edin.
 neterror-captive-portal = İnternetə çıxmaq üçün bu şəbəkəyə daxil olmalısınız.
 neterror-dns-not-found-hint-check-network = Şəbəkə bağlantınızı yoxlayın
+neterror-dns-not-found-hint-firewall = { -brand-short-name } səyyahının internetə çıxış icazəsinin olduğunu yoxlayın (internetə qoruyucu divar (firewall) arxasından qoşulmuş ola bilərsiniz)
 neterror-dns-not-found-hint-check-network-2 = Şəbəkə bağlantınızı yoxlayın.
+neterror-dns-not-found-hint-firewall-2 = { -brand-short-name } səyyahının internetə çıxış icazəsinin olduğunu yoxlayın (internetə qoruyucu divar (firewall) arxasından qoşulmuş ola bilərsiniz).
 neterror-dns-not-found-offline-hint-header = <strong>Bununla bağlı nə edə bilərsiz?</strong>
 
 ##

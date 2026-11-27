@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = Reportar sito corrupte
 report-broken-site-panel-intro-text = Tu reporto nos adjuta a comprender e corriger problemas in { -brand-product-name } pro render lo melior pro omnes.
 report-broken-site-panel-learn-more-link = Pro saper plus
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Adresse de sito
 report-broken-site-panel-url-label = URL de sito corrupte
 report-broken-site-panel-reason-intro-text = Que non functiona?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +34,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Altere cosa
 report-broken-site-panel-instructions-other = Describe le problema in detalio pro adjutar nos a investigar le problema.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Describe le problema in detalios (optional)
 report-broken-site-panel-instructions-other-optional = Describe le problema in detalio pro adjutar nos a investigar lo. (optional)
 report-broken-site-panel-description2 =
     .placeholder = Que evenoiva? Que expecta tu evenira? Forni le passos pro reproducer le problema.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Invia info via { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Invia altere informationes
 report-broken-site-panel-button-cancel =
@@ -60,6 +68,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Inviar lista de elementos blocate per le protection antitraciamento
 report-broken-site-panel-url-input-label =
     .aria-label = URL del pagina a esser signalate
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Visualisa datos diagnostic
 report-broken-site-panel-preview-button =
     .label = Reporto preliminar
 report-broken-site-panel-preview-header2 =

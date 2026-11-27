@@ -56,6 +56,9 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikat zənciri:
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Xəta kodu: { $error }
 
 ## Messages used for certificate error titles
 
