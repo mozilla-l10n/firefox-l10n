@@ -11,3 +11,11 @@ dom-document-write-ignored = विषमरित्या-लोडकेल�
 # Variables:
 #   $entryTypes (String) - Comma-separated list of the entry types that were ignored.
 dom-performance-observer-unsupported-entry-types = असमर्थीत entryTypes दुर्लक्षीत करत आहे: { $entryTypes }.
+# Variables:
+#   $tagName (String) - Tag name of the element that starts the loop.
+#   $id (String) - ID of the element.
+dom-svg-reference-loop = “{ $tagName }” ओळख असलेल्या <{ $id }> SVG ला संदर्भ आवर्तन आहे.
+# Variables:
+#   $tagName (String) - Tag name of the element where the chain was broken.
+#   $id (String) - ID of the element.
+dom-svg-reference-chain-length-exceeded = अति लांब अशी SVG <{ $tagName }> संदर्भ साखळी “{ $id }” ओळख असलेल्या घटकापाशी सोडून देण्यात आली.
