@@ -12,9 +12,13 @@ boxmodel-properties-label = ਬਾਕਸ ਮਾਡਲ ਵਿਸ਼ੇਸ਼ਤਾਵ�
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = ਓਹਲੇ
+boxmodel-properties-show-label = ਵੇਖਾਓ
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = ਆਫਸੈੱਟ
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = ਚੁਣੇ ਭਾਗ ਦਾ ਆਫਸੈਟ ਪੇਰੈਂਟ
