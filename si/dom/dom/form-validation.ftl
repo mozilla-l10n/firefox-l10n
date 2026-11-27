@@ -11,6 +11,9 @@
 ## NUMBER() or DATETIME().
 
 # Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = { $maximum } ට වඩා වැඩි නොවන අගයක් තෝරන්න.
+# Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
 dom-form-validation-step-mismatch = වලංගු අගයක් තෝරන්න. ආසන්නතම වලංගු අගයන් වනුයේ { $lowValue } හා { $highValue } යි.
