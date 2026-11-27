@@ -6,6 +6,9 @@
 ### These strings are used in the Font Inspector, a panel accessible in the
 ### Inspector sidebar.
 
+# Displayed in place of the font URL when the font is installed locally on the
+# system.
+font-inspector-system = rendszer
 font-inspector-no-fonts-used = Nincsenek betűkészletek használatban a jelenlegi elemen.
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = Webcím másolása
