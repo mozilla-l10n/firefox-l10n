@@ -18,3 +18,5 @@ boxmodel-properties-label = Iɣewwaren n tneɣruft n tnaka
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = tiggit
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Amaraw amagrab uqrib n uferdi yettwafernen
