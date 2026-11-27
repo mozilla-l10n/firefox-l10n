@@ -141,22 +141,32 @@ webconsole-filter-button-xhr = XHR
 
 ##
 
+webconsole-close-sidebar-button-tooltip = Serra sa barra laterale
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
+webconsole-reverse-search-input-placeholder = Chirca in sa cronologia
+webconsole-reverse-search-close-button-tooltip = Serra ({ $shortcut })
+webconsole-reverse-search-no-result = Nissunu risultadu
+webconsole-reverse-search-previous-button-tooltip = Risultadu anteriore ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Risultadu imbeniente ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
 ## the dialog.
 
+# Variables:
+#   $shortcut (String) - Keyboard shortcut for the action.
+webconsole-confirm-dialog-getter-close-button-tooltip = Serra ({ $shortcut })
 
 ##
 
 
 ## Displayed when the console fails to render a message.
 
+webconsole-message-render-error-copy-button = Còpia is metadatos de su messàgiu in punta de billete
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
@@ -165,6 +175,8 @@ webconsole-filter-button-xhr = XHR
 
 ## Console input.
 
+webconsole-input-editor-onboarding-dismiss = Apo cumprèndidu!
 
 ## Labels of groups of similar warnings.
 
+webconsole-group-cookie = Avisos de testimòngios
