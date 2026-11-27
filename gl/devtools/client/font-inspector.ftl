@@ -22,6 +22,8 @@ font-inspector-custom-instance-name = Personalizar
 font-inspector-font-size-label = Tamaño
 font-inspector-font-weight-label = Peso
 font-inspector-font-italic-label = Cursiva
+font-inspector-letter-spacing-label = Espazamento
+font-inspector-line-height-label = Altura da liña
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
@@ -30,6 +32,11 @@ font-inspector-show-less = Amosar menos
 
 ##
 
+font-inspector-all-fonts-on-page-header = Todos os tipos de letra na páxina
+# Label for the list of fonts used on the selected element.
+font-inspector-fonts-used-label = Tipos de letra usados
+# Placeholder for the input used to type custom text to preview fonts with.
+font-inspector-preview-text-placeholder = Texto da previsualización do tipo de letra
 
 ## Labels for font metadata, displayed in the "All Fonts on Page" section.
 
