@@ -10,6 +10,19 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Complete este campo.
+dom-form-validation-checkbox-missing = Marque esta caja si desea continuar.
+dom-form-validation-radio-missing = Seleccione una de estas opciones.
+dom-form-validation-file-missing = Seleccione un archivo.
+dom-form-validation-select-missing = Seleccione un ítem de la lista.
+dom-form-validation-invalid-email = Ingrese una dirección de correo electrónico.
+dom-form-validation-invalid-url = Ingrese una URL.
+dom-form-validation-invalid-date = Ingrese una fecha válida.
+dom-form-validation-invalid-time = Ingrese una hora válida.
+dom-form-validation-invalid-date-time = Ingrese fecha y hora válidas.
+dom-form-validation-invalid-month = Ingrese un mes válido.
+dom-form-validation-invalid-week = Ingrese una semana válida.
+dom-form-validation-pattern-mismatch = Please match the requested format.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Please match the requested format: { $title }.
