@@ -13,3 +13,7 @@
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Hle swantšha le fomate e kgopetšwego: { $title }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = Hle kgetha boleng bja kgonthe. Boleng bja kgonthe bjo bobedi bjo bo lego kgauswi ke { $lowValue } le { $highValue }.
