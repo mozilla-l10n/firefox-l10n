@@ -12,9 +12,13 @@ boxmodel-properties-label = Ιδιότητες μοντέλου πλαισίων
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
+boxmodel-properties-hide-label = Απόκρυψη
+boxmodel-properties-show-label = Εμφάνιση
 
 ##
 
 # Short label displayed next to the position property of a positioned element,
 # in front of the DOM node that is its offset parent.
 boxmodel-offset-parent = απόσταση
+# Tooltip for the boxmodel-offset-parent label.
+boxmodel-offset-parent-title = Μετατόπιση γονέα επιλεγμένου στοιχείου
