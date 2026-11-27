@@ -10,6 +10,25 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Ma ulac aɣilif ččaṛ urti-yagi.
+dom-form-validation-checkbox-missing = Ma ulac aɣilif, senqed taxxamt ma tebɣiḍ ad t-teddud ɣeṛ zdat.
+dom-form-validation-radio-missing = Ma ulac aɣilif fren yiwen seg iɣewwaṛen-agi.
+dom-form-validation-file-missing = Ma ulac aɣilif, freb afaylu.
+dom-form-validation-select-missing = Ma ulac aɣilif, fren aferdis n tebdart.
+dom-form-validation-invalid-email = Ma ulac aɣilif efk-d tansa imayl.
+dom-form-validation-invalid-url = Ma ulac aɣilif sekcem tansa URL.
+dom-form-validation-invalid-date = Ma ulac aɣilif, sekcem azemz ameɣtu.
+dom-form-validation-invalid-time = Ma ulac aɣilif, sekcem akudameɣtu.
+dom-form-validation-invalid-date-time = Ma ulac aɣilif, sekcem azemz d wakud imeɣta.
+dom-form-validation-invalid-month = Ma ulac aɣilif, sekcem ayyur ameɣtu
+dom-form-validation-invalid-week = Ma ulac aɣilif, sekcem amalas ameɣtu.
+dom-form-validation-pattern-mismatch = Ma ulac aɣilif, snifel azal akken ad yili am umasal ittusutren.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Ma ulac aɣilif, snifel azal akken ad yili am umasal ittusutren: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Ma ulac aɣilif, fren azal daw n { $maximum }.
 # Variables:
 #   $maximum (String) - The latest value allowed in the field, a date or a time.
 dom-form-validation-date-time-range-overflow = Ma ulac aɣilif fren azal send { $maximum }.
