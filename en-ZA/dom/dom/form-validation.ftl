@@ -10,6 +10,23 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
+dom-form-validation-value-missing = Please fill out this field.
+dom-form-validation-checkbox-missing = Please check this box if you want to proceed.
+dom-form-validation-radio-missing = Please select one of these options.
+dom-form-validation-file-missing = Please select a file.
+dom-form-validation-select-missing = Please select an item in the list.
+dom-form-validation-invalid-email = Please enter an email address.
+dom-form-validation-invalid-url = Please enter a URL.
+dom-form-validation-pattern-mismatch = Please match the requested format.
+# Variables:
+#   $title (String) - The value of the title attribute of the field, possibly truncated.
+dom-form-validation-pattern-mismatch-with-title = Please match the requested format: { $title }.
+# Variables:
+#   $maximum (String) - The maximum value allowed in the field, a number.
+dom-form-validation-number-range-overflow = Please select a value that is no more than { $maximum }.
+# Variables:
+#   $minimum (String) - The minimum value allowed in the field, a number.
+dom-form-validation-number-range-underflow = Please select a value that is no less than { $minimum }.
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
@@ -18,3 +35,4 @@ dom-form-validation-step-mismatch = Please select a valid value. The two nearest
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.
 dom-form-validation-step-mismatch-one-value = Please select a valid value. The nearest valid value is { $value }.
+dom-form-validation-bad-input-number = Please enter a number.
