@@ -1391,6 +1391,9 @@ menu-share-copy-links =
            *[other] { $count } сілтемені көшіру
         }
     .accesskey = л
+menu-share-windows2 =
+    .label = Көбірек опциялар
+    .accesskey = К
 ui-tour-info-panel-close =
     .tooltiptext = Жабу
 
