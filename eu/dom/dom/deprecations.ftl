@@ -9,6 +9,8 @@
 ## preferences to web pages: pass numbers as strings, unless they're only used
 ## to select a plural form, and don't use NUMBER() or DATETIME().
 
+# Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
+dom-deprecated-idb-object-store-moz-get-all = Zaharkituta dago IDBObjectStore.mozGetAll() erabiltzea. Erabili IDBObjectStore.getAll() horren ordez.
 # Do not translate "accent" and "mo" (the name of a MathML element).
 # Variables:
 #   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
