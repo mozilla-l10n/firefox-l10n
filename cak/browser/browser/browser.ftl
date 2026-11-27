@@ -1048,6 +1048,9 @@ menu-share-more =
     .label = Ch'aqa' chik…
 menu-share-windows =
     .label = Ch'aqa' chik taq Cha'oj
+menu-share-windows2 =
+    .label = Ch'aqa' chik taq Cha'oj
+    .accesskey = C
 ui-tour-info-panel-close =
     .tooltiptext = Titz'apïx
 
