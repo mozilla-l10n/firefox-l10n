@@ -7,6 +7,9 @@ about-translations-title = { -brand-short-name } fordítások
 # The brief description of the Translations functionality on the page.
 about-translations-description = Azonnali fordítás, amely tiszteletben tartja a magánszféráját.
 about-translations-learn-more-link = További tudnivalók
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = { -brand-short-name } fordítások bezárása
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = A fordítás nem érhető el ezen az eszközön

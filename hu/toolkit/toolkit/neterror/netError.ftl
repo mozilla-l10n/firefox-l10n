@@ -14,6 +14,7 @@ neterror-dns-not-found-title = A kiszolgáló nem található
 neterror-malformed-uri-page-title = Érvénytelen webcím
 general-body-title = Legyen óvatos. Úgy tűnik, hogy valami nincs rendben.
 problem-with-this-site-title = Úgy néz ki, hogy probléma van ezzel a webhellyel
+neterror-http-auth-scheme-disabled-title = A webhely bejelentkezési módja le van tiltva
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Értesítse a webhely tulajdonosait erről a prob
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = A { -brand-short-name } nem bízik a(z) { $hostname } webhelyben, mert a kapcsolat nem biztonságos. Próbálja meg HTTPS-re változtatni a webcímet.
+neterror-http-auth-scheme-disabled = Ha be kell jelentkeznie erre az oldalra, forduljon a rendszergazdához.
 neterror-nss-failure-not-verified = A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.
 neterror-nss-failure-contact-website = Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = A { -brand-short-name } nem töltötte be az oldal
 fp-neterror-blocked-by-policy-intro = A szervezete blokkolta az oldal vagy webhely elérését.
 fp-neterror-http-auth-disabled-intro = Valaki, aki a webhelynek adja ki magát, megpróbálhatja ellopni a felhasználónevét, jelszavát vagy e-mail-címét.
 fp-neterror-http-auth-disabled-secure-connection = Ez a webhely biztonságos kapcsolatot igényel, és nem adhat hozzá kivételt, hogy felkeresse.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = A(z) <strong>{ $hostname }</strong> olyan móddal kérte a bejelentkezést, amely le van tiltva a kapcsolatbeállításokban.
 fp-neterror-why-did-this-happen = Miért történt ez?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Úgy tűnik, hogy ez az oldal régi szoftvert használ, ismert biztonsági problémákkal.

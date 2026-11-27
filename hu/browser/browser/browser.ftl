@@ -916,6 +916,9 @@ urlbar-result-dates-ends-today = { $name } · Ma ér véget
 ## The flight status suggestions shows the flight time, origin and destination
 ## and the status like delayed, etc.
 
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Ne jelenítsen járatállapot-javaslatokat
+    .accesskey = N
 urlbar-result-flight-status-status-ontime = Időben
 urlbar-result-flight-status-status-inflight = Úton van
 urlbar-result-flight-status-status-arrived = Megérkezett
@@ -1101,6 +1104,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Legutóbbi keresések
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Indítóikonok
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions

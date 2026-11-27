@@ -68,6 +68,11 @@ about-logging-preset-gfx-description = Naplómodulok a grafikai problémák diag
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Naplómodulok a Microsoft Windowsra jellemző problémák diagnosztizálásához
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = Beviteli mód
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = Naplómodulok a billentyűzetproblémák diagnosztizálásához, beleértve a bevitelimód-szerkesztőt (IME) is
 about-logging-preset-custom-label = Egyéni
 about-logging-preset-custom-description = Kézzel kiválasztott naplómodulok
 # Error handling

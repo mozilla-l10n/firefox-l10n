@@ -51,3 +51,21 @@ dom-form-validation-step-mismatch-one-value = Válasszon egy érvényes értéke
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Válasszon egy értéket { $minimum } és { $maximum } között.
 dom-form-validation-bad-input-number = Írjon be egy számot.
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long =
+    { $maxLength ->
+        [one] Rövidítse le ezt a szöveget legfeljebb { $maxLengthText } karakterre (jelenlegi hossz: { $textLength }).
+       *[other] Rövidítse le ezt a szöveget legfeljebb { $maxLengthText } karakterre (jelenlegi hossz: { $textLength }).
+    }
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short =
+    { $minLength ->
+        [one] Használjon legalább { $minLengthText } karaktert (jelenlegi hossz: { $textLength }).
+       *[other] Használjon legalább { $minLengthText } karaktert (jelenlegi hossz: { $textLength }).
+    }

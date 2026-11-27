@@ -992,6 +992,14 @@ urlbar-result-dates-today = { $name } · Dnes
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Končí dnes
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Nezobrazovat návrhy informací o letu
+    .accesskey = l
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

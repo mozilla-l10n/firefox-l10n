@@ -24,8 +24,6 @@ font-inspector-custom-instance-name = Personalisar
 
 font-inspector-font-size-label = Dimension
 font-inspector-font-weight-label = Peso
-font-inspector-font-italic-label = Italico
-font-inspector-letter-spacing-label = Spatiamento
 font-inspector-line-height-label = Altitude de linea
 
 ## Toggle displayed when the list of fonts used is too long to show in full.
