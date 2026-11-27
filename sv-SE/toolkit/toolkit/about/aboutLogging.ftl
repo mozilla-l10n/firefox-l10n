@@ -66,6 +66,11 @@ about-logging-preset-gfx-description = Logga moduler för att diagnostisera graf
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Logga moduler för att diagnostisera problem som är specifika för Microsoft Windows
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = Inmatningsmetod
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = Logga moduler för att diagnostisera tangentbordsproblem, inklusive Input Method Editor (IME)
 about-logging-preset-custom-label = Anpassad
 about-logging-preset-custom-description = Loggmoduler manuellt valda
 # Error handling

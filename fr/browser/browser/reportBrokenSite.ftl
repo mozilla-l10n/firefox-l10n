@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Signaler des problèmes avec ce site
 report-broken-site-panel-header =
     .label = Signaler des problèmes avec ce site
     .title = Signaler des problèmes avec ce site
+report-broken-site-panel-intro-text2 = Votre rapport nous aide à améliorer { -brand-product-name } pour tout le monde.
 report-broken-site-panel-intro-text = Votre signalement nous aide à comprendre et à résoudre les problèmes dans { -brand-product-name } afin de l’améliorer pour tout le monde.
 report-broken-site-panel-learn-more-link = En savoir plus
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Adresse du site
 report-broken-site-panel-url-label = URL du site défectueux
 report-broken-site-panel-reason-intro-text = Qu’est-ce qui ne fonctionne pas ?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Autre chose
 report-broken-site-panel-instructions-other = Décrivez le problème en détail pour nous aider à enquêter sur le problème.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Décrivez le problème en détail (facultatif)
 report-broken-site-panel-instructions-other-optional = Décrivez le problème en détail pour nous aider à enquêter sur le problème. (facultatif)
 report-broken-site-panel-description2 =
     .placeholder = Que s’est-il passé ? À quoi vous attendiez-vous ? Veuillez indiquer la marche à suivre pour reproduire le problème.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Envoyer les informations par { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Envoyer plus d’informations
 report-broken-site-panel-button-cancel =
@@ -61,6 +70,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Envoyer la liste des éléments bloqués par la protection contre le pistage
 report-broken-site-panel-url-input-label =
     .aria-label = URL de la page signalée
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Voir les données de diagnostic
 report-broken-site-panel-preview-button =
     .label = Voir un aperçu du signalement
 report-broken-site-panel-preview-header2 =

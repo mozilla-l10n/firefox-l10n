@@ -413,3 +413,74 @@ smartwindow-onboarding-default-window =
     .label = Starta i { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Spara och fortsätt
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Fyll i från källor
+ai-smart-form-fill-autocomplete-loading = Laddar
+ai-smart-form-fill-autocomplete-sources-label = Fyll i från källor
+ai-smart-form-fill-autocomplete-choose-tabs = Öppna eller välj sidor relaterade till detta formulär för att få autofyllförslag
+ai-smart-form-fill-autocomplete-open-tabs = Öppna sidor relaterade till detta formulär för att få autofyllförslag
+ai-smart-form-fill-close-review-button =
+    .label = Stäng
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] flik { $tabs }
+       *[other] { $tabs } flikar
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Redigera källor
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Redigera källor
+ai-smart-form-fill-suggested-tabs-heading = Föreslagna flikar
+ai-smart-form-fill-other-tabs-heading = Andra flikar
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Växla flikval för “{ $tabTitle }”
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Avbryt
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Klar
+ai-smart-form-fill-fill-form-button =
+    .label = Fyll i formuläret
+ai-smart-form-fill-review-heading = Granska förslag
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Vi hittade förslag för fältet { $count }. Redigera eller ta bort allt som inte är korrekt.
+       *[other] Vi hittade förslag för { $count } fält. Redigera eller ta bort allt som inte är korrekt.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Fält
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Hoppa till botten av förslag
+    .tooltiptext = Hoppa till slutet av chatten
+ai-smart-form-fill-cancel-review-button =
+    .label = Avbryt
+ai-smart-form-fill-finding-suggestions = Hittar förslag
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Sluta hitta förslag
+ai-smart-form-fill-success-heading = Förslag i formuläret
+ai-smart-form-fill-success-description = Granska formuläret och fyll i eventuella återstående fält innan du skickar in.
+ai-smart-form-fill-no-changes-heading = Inget tillagt i formuläret
+ai-smart-form-fill-no-changes-description = Vissa fält kan ha ändrats eller redan vara ifyllda. Försök igen, rensa ett fält, markera det och välj sedan Fyll i från dina källor.
+ai-smart-form-fill-no-suggestions-heading = Inga förslag hittades
+ai-smart-form-fill-no-suggestions-description = Vi kunde inte läsa det här formuläret eller hitta bra matchningar i dina källor. Att använda olika källor kan hjälpa.
+ai-smart-form-fill-error-try-again-heading = Förslag lades inte till formuläret
+ai-smart-form-fill-error-try-again-description = Något gick fel. Försök lägga till förslag igen.
+ai-smart-form-fill-error-heading = Förslag lades inte till
+ai-smart-form-fill-error-description = Något gick fel. För att försöka igen väljer du ett formulärfält och väljer Fyll i från dina källor.
+ai-smart-form-fill-try-again-button =
+    .label = Försök igen

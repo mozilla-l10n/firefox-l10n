@@ -413,3 +413,74 @@ smartwindow-onboarding-default-window =
     .label = Débuter dans une { -smart-window-brand-name(form: "lower-singular") }
 smartwindow-onboarding-save =
     .label = Enregistrer et continuer
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Remplir à partir des sources
+ai-smart-form-fill-autocomplete-loading = Chargement…
+ai-smart-form-fill-autocomplete-sources-label = Remplir à partir des sources
+ai-smart-form-fill-autocomplete-choose-tabs = Ouvrez ou choisissez des pages en rapport avec ce formulaire pour obtenir des suggestions de remplissage automatique
+ai-smart-form-fill-autocomplete-open-tabs = Ouvrez les pages en lien avec ce formulaire pour obtenir des suggestions de remplissage automatique
+ai-smart-form-fill-close-review-button =
+    .label = Fermer
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } onglet
+       *[other] { $tabs } onglets
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Modifier les sources
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Modifier les sources
+ai-smart-form-fill-suggested-tabs-heading = Onglets suggérés
+ai-smart-form-fill-other-tabs-heading = Autres onglets
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Activer/Désactiver la sélection de l’onglet pour « { $tabTitle } »
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Annuler
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Terminé
+ai-smart-form-fill-fill-form-button =
+    .label = Remplir le formulaire
+ai-smart-form-fill-review-heading = Suggestions de revue
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Nous avons trouvé des suggestions pour le champ { $count }. Modifiez ou supprimez tout ce qui n’est pas correct.
+       *[other] Nous avons trouvé des suggestions pour les champs { $count }. Modifiez ou supprimez tout ce qui n’est pas correct.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = du champ
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Aller au bas des suggestions
+    .tooltiptext = Aller en bas
+ai-smart-form-fill-cancel-review-button =
+    .label = Annuler
+ai-smart-form-fill-finding-suggestions = Trouver des suggestions
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Ne plus trouver de suggestions
+ai-smart-form-fill-success-heading = Suggestions ajoutées au formulaire
+ai-smart-form-fill-success-description = Lisez le formulaire et remplissez les éventuels champs restants avant de l’envoyer.
+ai-smart-form-fill-no-changes-heading = Rien n’a été ajouté au formulaire
+ai-smart-form-fill-no-changes-description = Certains champs ont peut-être changé ou étaient déjà remplis. Pour essayer à nouveau, videz un champ, sélectionnez-le, puis choisissez Remplir à partir des sources.
+ai-smart-form-fill-no-suggestions-heading = Aucune suggestion trouvée
+ai-smart-form-fill-no-suggestions-description = Nous n’avons pas pu lire ce formulaire ou trouver de bonnes correspondances dans vos sources. L’utilisation de différentes sources peut aider.
+ai-smart-form-fill-error-try-again-heading = Les suggestions n’ont pas été ajoutées au formulaire
+ai-smart-form-fill-error-try-again-description = Quelque chose s'est mal passé. Essayez à nouveau d’ajouter des suggestions.
+ai-smart-form-fill-error-heading = Les suggestions n’ont pas été ajoutées
+ai-smart-form-fill-error-description = Quelque chose s'est mal passé. Pour réessayer, sélectionnez un champ de formulaire puis Remplir à partir des sources.
+ai-smart-form-fill-try-again-button =
+    .label = Réessayer

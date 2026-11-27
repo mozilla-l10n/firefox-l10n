@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Me demander avant de fermer plusieurs onglets
     .accesskey = M
+ask-on-close-multiple-tabs-pbmode =
+    .label = Demander avant la fermeture de plusieurs onglets dans une fenêtre de navigation privée
+    .accesskey = D
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

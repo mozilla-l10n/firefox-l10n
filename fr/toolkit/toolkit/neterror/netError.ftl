@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Adresse introuvable
 neterror-malformed-uri-page-title = Adresse invalide
 general-body-title = Faites preuve de prudence, il semble y avoir un problème.
 problem-with-this-site-title = Il semble y avoir un problème sur ce site
+neterror-http-auth-scheme-disabled-title = La méthode de connexion de ce site est désactivée
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Veuillez contacter les propriétaires du site web
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } ne fait pas confiance à { $hostname }, car la connexion n’est pas sécurisée. Essayez de changer l’adresse en HTTPS.
+neterror-http-auth-scheme-disabled = Si vous devez vous connecter sur ce site, contactez votre administrateur système.
 neterror-nss-failure-not-verified = La page que vous essayez de consulter ne peut pas être affichée car l’authenticité des données reçues ne peut être vérifiée.
 neterror-nss-failure-contact-website = Veuillez contacter les propriétaires du site web pour les informer de ce problème.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } n’a pas chargé cette page
 fp-neterror-blocked-by-policy-intro = Votre organisation a bloqué l’accès à cette page ou à ce site web.
 fp-neterror-http-auth-disabled-intro = Quelqu’un se faisant passer pour le site pourrait tenter de dérober des éléments tels que vos nom d’utilisateur, mot de passe ou adresse e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Ce site exige une connexion sécurisée et il n’est pas possible d’ajouter une exception pour y accéder.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> vous a demandé de vous connecter en utilisant une méthode qui a été désactivée dans les paramètres de connexion.
 fp-neterror-why-did-this-happen = Pourquoi est-ce arrivé ?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il semble que ce site utilise d’anciens logiciels présentant des failles de sécurité connues.

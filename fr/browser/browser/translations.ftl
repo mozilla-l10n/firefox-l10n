@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Traduction en cours
 translations-panel-settings-button =
     .aria-label = Gérer les paramètres de traduction
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Traduire cette page
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Essayez le système de traduction respectueux de la vie privée dans { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Traduire cette page ?
 translations-panel-translate-button =
     .label = Traduire
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Traductions instantanées en mode partagé
+    .tooltiptext = Traductions instantanées en mode partagé
 translations-panel-translate-button-loading =
     .label = Veuillez patienter…
 translations-panel-translate-cancel =

@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Fråga innan du stänger flera flikar
     .accesskey = F
+ask-on-close-multiple-tabs-pbmode =
+    .label = Fråga innan du stänger flera flikar i privata fönster
+    .accesskey = F
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

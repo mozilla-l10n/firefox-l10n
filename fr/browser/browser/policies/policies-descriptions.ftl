@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Autoriser les boîtes de dialogue de sélecti
 policy-AppAutoUpdate = Activer ou désactiver les mises à jour automatiques des applications.
 policy-AppUpdatePin = Empêcher { -brand-short-name } d’être mis à jour au-delà de la version spécifiée.
 policy-AppUpdateURL = Définir une URL de mise à jour personnalisée pour l’application.
+policy-Authentication2 = Configurer l’authentification intégrée pour les sites web qui la prennent en charge et pour lesquels les schémas d’authentification HTTP sont désactivés.
 policy-Authentication = Configurer l’authentification intégrée pour les sites web qui la proposent.
 policy-AutofillAddressEnabled = Activer le remplissage automatique des adresses.
 policy-AutofillCreditCardEnabled = Activer le remplissage automatique des moyens de paiement.

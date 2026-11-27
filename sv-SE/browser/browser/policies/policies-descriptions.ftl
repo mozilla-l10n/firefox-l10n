@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Tillåt filmarkeringsdialoger.
 policy-AppAutoUpdate = Aktivera eller inaktivera automatisk applikationsuppdatering.
 policy-AppUpdatePin = Förhindra att { -brand-short-name } uppdateras utöver den angivna versionen.
 policy-AppUpdateURL = Ange anpassad URL för programuppdateringar.
+policy-Authentication2 = Konfigurera integrerad autentisering för webbplatser som stöder det och vilka HTTP-autentiseringsscheman som är inaktiverade.
 policy-Authentication = Ställ in integrerad autentisering för webbplatser som stödjer det.
 policy-AutofillAddressEnabled = Aktivera autofyll för adresser.
 policy-AutofillCreditCardEnabled = Aktivera autofyll för betalningsmetoder.

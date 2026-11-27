@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Servern hittades inte
 neterror-malformed-uri-page-title = Ogiltig URL
 general-body-title = Var försiktig. Något ser inte rätt ut.
 problem-with-this-site-title = Det verkar finnas ett problem med den här sidan
+neterror-http-auth-scheme-disabled-title = Den här webbplatsens inloggningsmetod är avstängd
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Kontakta webbplatsens ägare för att informera d
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } litar inte på { $hostname } eftersom anslutningen inte är säker. Prova att ändra webbadressen till HTTPS.
+neterror-http-auth-scheme-disabled = Om du behöver logga in på den här webbplatsen, kontakta din systemadministratör.
 neterror-nss-failure-not-verified = Sidan du försöker se kan inte visas eftersom autenticiteten för mottagen data inte kan verifieras.
 neterror-nss-failure-contact-website = Kontakta webbplatsens ägare och informera dem om detta problem.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } laddade inte den här sidan 
 fp-neterror-blocked-by-policy-intro = Din organisation har blockerat åtkomst till den här sidan eller webbplatsen.
 fp-neterror-http-auth-disabled-intro = Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som ditt användarnamn, lösenord eller e-postadress.
 fp-neterror-http-auth-disabled-secure-connection = Den här webbplatsen kräver en säker anslutning, och du kan inte lägga till ett undantag för att besöka den.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> bad dig att logga in med en metod som har stängts av i dina anslutningsinställningar.
 fp-neterror-why-did-this-happen = Varför hände detta?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som att den här webbplatsen använder gammal programvara med kända säkerhetsproblem.

@@ -7,6 +7,9 @@ about-translations-title = { -brand-short-name } översättningar
 # The brief description of the Translations functionality on the page.
 about-translations-description = Omedelbara översättningar som respekterar din integritet.
 about-translations-learn-more-link = Läs mer
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Stäng { -brand-short-name } översättningar
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Översättning är inte tillgänglig på den här enheten
