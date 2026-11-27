@@ -13,3 +13,12 @@
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = అభ్యర్థించిన ఆకృతితో సరిపోల్చు: { $title }.
+# Variables:
+#   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
+#   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
+dom-form-validation-step-mismatch = దయచేసి చెల్లుబాటయ్యే విలువను ఎంచుకోండి.  చెల్లుబాటయ్యే దగ్గరి విలువలు { $lowValue } మరియు { $highValue }.
+# Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
+# Variables:
+#   $value (String) - The nearest valid value. It can be a number, a date or a time.
+dom-form-validation-step-mismatch-one-value = దయచేసి చెల్లుబాటయ్యే విలువను ఎంచుకోండి. చెల్లుబాటయ్యే అతి దగ్గర విలువ { $value }.
+dom-form-validation-bad-input-number = దయచేసి ఒక సంఖ్యను ఇవ్వండి.
