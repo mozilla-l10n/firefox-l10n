@@ -455,6 +455,15 @@ ai-smart-form-fill-accept-tab-select-button =
 ai-smart-form-fill-fill-form-button =
     .label = Formular wupjelnić
 ai-smart-form-fill-review-heading = Namjety přepruwować
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Smy namjety za { $count } polo namakali. Wobdźěłajće abo zhašejće někajke, kotrež korektne njeje.
+        [two] Smy namjety za { $count } poli namakali. Wobdźěłajće abo zhašejće někajke, kotrež korektne njeje.
+        [few] Smy namjety za { $count } pola namakali. Wobdźěłajće abo zhašejće někajke, kotrež korektne njeje.
+       *[other] Smy namjety za { $count } polow namakali. Wobdźěłajće abo zhašejće někajke, kotrež korektne njeje.
+    }
 # Used when a field of the form being filled in doesn’t have a name to use as
 # its label.
 ai-smart-form-fill-field-fallback-label =
@@ -470,6 +479,7 @@ ai-smart-form-fill-finding-suggestions = Namjety so pytaja
 ai-smart-form-fill-stop-finding-suggestions =
     .aria-label = Pytanje za namjetami skónčić
 ai-smart-form-fill-success-heading = Namjety su so formularej přidali
+ai-smart-form-fill-success-description = Přepruwujće formular a wupjelńće zbytne pola, prjedy hač jón wotposyłaće.
 ai-smart-form-fill-no-changes-heading = Njeje so ničo formularej přidało
 ai-smart-form-fill-no-suggestions-heading = Žane namjety namakane
 ai-smart-form-fill-error-try-again-heading = Namjety njejsu so formularej přidali

@@ -1839,6 +1839,7 @@ trustpanel-clear-cookies-subview-button-cancel = Přetorhnyć
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header-redesign =
     .title = Sydłowe daty za { $host } zhašeć
+trustpanel-clear-cookies-description-redesign = Wotzjewiće so wot sydłow. Přez to so snano nakupowanske wozyki wuprózdnja.
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
