@@ -25,6 +25,8 @@ experimental-features-group-productivity =
     .label = Produttività
 experimental-features-group-newtab-widgets =
     .label = Widget in { -firefox-home-brand-name }
+experimental-features-group-privacy =
+    .label = Privacy
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Scegli uno sfondo o un colore personalizzato per la pagina Nuova scheda
@@ -99,3 +101,7 @@ experimental-features-tab-context-menu-description = Visualizza un menu contestu
 experimental-features-resource-monitor =
     .label = Monitor risorse
 experimental-features-resource-monitor-description = Controlla direttamente nella barra laterale l’utilizzo stimato di memoria e CPU delle schede aperte e disattiva quelle che non usi per liberare risorse. <a data-l10n-name="connect">Condividi la tua opinione</a>
+# Copy Clean Link
+experimental-features-copy-clean-link =
+    .label = Imposta “Copia link pulito” come opzione di copia predefinita
+experimental-features-copy-clean-link-description = Rimuove automaticamente elementi superflui ed elementi traccianti dai link quando li copi, impostando “Copia link pulito” come modalità di copia predefinita.

@@ -577,6 +577,23 @@ onboarding-minimal-tabs-tooltip =
 # Description for minimal tabs image
 onboarding-minimal-tabs-description =
     .aria-description = Una finestra del browser con le schede visualizzate come piccole icone sul lato dello schermo, all’interno di una barra laterale ridotta.
+# AI Killswitch screen: present users with the choice to use or block AI features
+onboarding-refresh-ai-killswitch-title = L’IA è sempre una tua scelta
+onboarding-refresh-ai-killswitch-use-label = Usa le funzionalità IA di { -brand-short-name }
+onboarding-refresh-ai-killswitch-use-body = Traduzioni integrate, assistenza nell'organizzazione delle schede e molto altro ancora.
+onboarding-refresh-ai-killswitch-use-tooltip =
+    .title = Traduzioni integrate, assistenza nell'organizzazione delle schede e molto altro ancora.
+onboarding-refresh-ai-killswitch-use-description =
+    .aria-description = Traduzioni integrate, assistenza nell'organizzazione delle schede e molto altro ancora.
+onboarding-refresh-ai-killswitch-block-label = Blocca le funzionalità IA di { -brand-short-name }
+onboarding-refresh-ai-killswitch-block-body = Nasconde le funzionalità di intelligenza artificiale e i messaggi pop-up che le promuovono.
+onboarding-refresh-ai-killswitch-block-tooltip =
+    .title = Nasconde le funzionalità di intelligenza artificiale e i messaggi pop-up che le promuovono.
+onboarding-refresh-ai-killswitch-block-description =
+    .aria-description = Nasconde le funzionalità di intelligenza artificiale e i messaggi pop-up che le promuovono.
+onboarding-refresh-ai-killswitch-block-notice = I controlli dell’IA non influiscono sui risultati di ricerca di Google o sulle funzioni dell’IA dei siti che visiti.
+onboarding-refresh-ai-killswitch-block-notice-link = Scopri di più
+onboarding-refresh-primary-button-save-start = Salva e inizia a navigare
 
 ## Smart window switcher callout
 
