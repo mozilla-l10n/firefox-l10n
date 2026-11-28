@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Traducción en proceso
 translations-panel-settings-button =
     .aria-label = Administrar configuración de traducciones
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Traducir esta página
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Probar traducciones privadas en { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 

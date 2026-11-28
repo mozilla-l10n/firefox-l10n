@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = Informar sitio roto
 report-broken-site-panel-intro-text = Su informe nos ayuda a comprender y solucionar problemas en { -brand-product-name } para que sea mejor para todos.
 report-broken-site-panel-learn-more-link = Conocer más
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Dirección del sitio
 report-broken-site-panel-url-label = URL del sitio roto
 report-broken-site-panel-reason-intro-text = ¿Qué es lo que no funciona?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +34,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Otra cosa
 report-broken-site-panel-instructions-other = Describa el problema en detalle para ayudarnos a investigarlo.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Describir el problema en detalle (opcional)
 report-broken-site-panel-instructions-other-optional = Describa el problema en detalle para ayudarnos a investigarlo. (opcional)
 report-broken-site-panel-description2 =
     .placeholder = ¿Qué pasó? ¿Qué esperaba que pasara? Proporcione los pasos para reproducir el problema.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Enviar información vía { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Enviar más información
 report-broken-site-panel-button-cancel =
@@ -61,6 +69,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Enviar lista de ítems bloqueados por protección de rastreo
 report-broken-site-panel-url-input-label =
     .aria-label = URL de la página informada
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Ver datos de diagnóstico
 report-broken-site-panel-preview-button =
     .label = Vista previa del informe
 report-broken-site-panel-preview-header2 =

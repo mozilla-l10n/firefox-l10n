@@ -437,3 +437,38 @@ ai-smart-form-fill-edit-sources-button = Editar fuentes
 # Title of the dialog for choosing sources.
 ai-smart-form-fill-edit-sources-title = Editar fuentes
 ai-smart-form-fill-suggested-tabs-heading = Pestañas sugeridas
+ai-smart-form-fill-other-tabs-heading = Otras pestañas
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Cancelar
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Listo
+ai-smart-form-fill-fill-form-button =
+    .label = Llenar formulario
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Encontramos sugerencias para { $count } campo. Edite o borre todo lo que no sea correcto.
+       *[other] Encontramos sugerencias para { $count } campos. Edite o borre todo lo que no sea correcto.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Campo
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Ir al final de las sugerencias
+    .tooltiptext = Ir al final
+ai-smart-form-fill-cancel-review-button =
+    .label = Cancelar
+ai-smart-form-fill-success-heading = Sugerencias agregadas al formulario
+ai-smart-form-fill-success-description = Revise el formulario y complete los campos restantes antes de enviarlo.
+ai-smart-form-fill-no-changes-heading = No se agregó nada al formulario
+ai-smart-form-fill-no-changes-description = Algunos campos pueden haber cambiado o ya estaban completos. Para volver a intentarlo, borre un campo, selecciónelo y luego elija Llenar desde las fuentes.
+ai-smart-form-fill-no-suggestions-heading = No se encontraron sugerencias
+ai-smart-form-fill-no-suggestions-description = No pudimos leer este formulario o encontrar buenas coincidencias en las fuentes. Usar diferentes fuentes puede ayudar.
+ai-smart-form-fill-error-try-again-heading = Las sugerencias no fueron agregadas al formulario
+ai-smart-form-fill-error-try-again-description = Algo salió mal. Intente agregar sugerencias nuevamente.
+ai-smart-form-fill-error-heading = Las sugerencias no fueron agregadas
+ai-smart-form-fill-error-description = Algo salió mal. Para volver a intentarlo, seleccione un campo de formulario y elija Llenar desde las fuentes.
+ai-smart-form-fill-try-again-button =
+    .label = Intentar nuevamente
