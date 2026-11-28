@@ -104,17 +104,17 @@ webconsole-selfxss-message = Brīdinājums par krāpniecību: jāuzmanās ar sat
 # isn’t pretty printed, and original variable mapping is disabled.
 # `Show original variables` should match the checkbox label in the Scopes panel
 # of the debugger.
-webconsole-evaluation-notification-no-original-variable-mapping = Sākotnējo mainīgo nosaukumu kartēšana atkļūdotājā ir atspējota. Novērtēšanas rezultāti var nebūt precīzi. Lai to iespējotu, atkļūdotāja tvērumu panelī noklikšķiniet uz izvēles rūtiņas 'Rādīt sākotnējos mainīgos'.
+webconsole-evaluation-notification-no-original-variable-mapping = Sākotnējo mainīgo nosaukumu kartēšana atkļūdotājā ir atspējota. Novērtēšanas iznākums var nebūt pareizs. Atkļūdotājā tvērumu panelī klikšķināt izvēles rūtiņā “Rādīt sākotnējos mainīgos”, lai iespējotu.
 # Tooltip of the arrow used to expand or collapse the details of a message
 # (e.g. the stack trace of console.error()).
-webconsole-message-toggle-details = Rādīt/slēpt ziņojuma informāciju.
+webconsole-message-toggle-details = Rādīt/paslēpt informāciju par ziņojumu.
 # Tooltip of the arrow used to expand or collapse a group of messages.
-webconsole-group-toggle = Rādīt/slēpt grupu.
+webconsole-group-toggle = Rādīt/paslēpt kopu.
 
 ## Column headers of the table displayed by console.table().
 
 webconsole-table-index = (indekss)
-webconsole-table-iteration-index = (iterācijas indekss)
+webconsole-table-iteration-index = (atkārtošanas indekss)
 webconsole-table-key = Atslēga
 webconsole-table-value = Vērtības
 
@@ -123,15 +123,15 @@ webconsole-table-value = Vērtības
 webconsole-level-error = Kļūda
 webconsole-level-warn = Brīdinājums
 webconsole-level-info = Informācija
-webconsole-level-log = Ziņojumi
+webconsole-level-log = Žurnāls
 webconsole-level-debug = Atkļūdošana
 # Used for function calls logged by the JavaScript Tracer.
 webconsole-level-jstracer = Funkcijas izsaukums
 webconsole-logpoint-title = Žurnāla punkti no atkļūdotāja
-webconsole-blocked-request = Bloķēts
-webconsole-disabled-icon-title = Šis ziņojums vairs nav aktīvs, ziņojuma informācija nav pieejama
+webconsole-blocked-request = Liegts
+webconsole-disabled-icon-title = Šis ziņojums vairs nav darbībā, tā informācija nav pieejama
 webconsole-command-title = Novērtēts kods
-webconsole-result-title = Novērtējuma rezultāts
+webconsole-result-title = Novērtējuma iznākums
 
 ## Keyboard shortcuts. Modifier names (Cmd, Ctrl, CmdOrCtrl, Shift) must not
 ## be translated.
@@ -150,41 +150,41 @@ webconsole-clear-alternative-key-macos = Cmd+K
 
 # Displayed for network messages.
 webconsole-menu-copy-url =
-    .label = Kopēt saiti
-    .accesskey = a
+    .label = Ievietot saites vietu starpliktuvē
+    .accesskey = v
 webconsole-menu-open-url =
-    .label = Atvērt adresi jaunā cilnē
-    .accesskey = T
+    .label = Atvērt URL jaunā cilnē
+    .accesskey = c
 webconsole-menu-open-in-network-panel =
     .label = Atvērt tīkla panelī
     .accesskey = T
 webconsole-menu-resend-network-request =
-    .label = Atkārtoti nosūtīt pieprasījumu
-    .accesskey = n
+    .label = Nosūtīt pieprasījumu atkārtoti
+    .accesskey = s
 # Displayed for DOM nodes.
 webconsole-menu-open-node-in-inspector =
-    .label = Atklāt inspektorā
-    .accesskey = Q
+    .label = Atklāt izpētītājā
+    .accesskey = i
 # Creates a global variable pointing to the logged object.
 webconsole-menu-store-as-global-var =
-    .label = Saglabāt kā globālo mainīgo
+    .label = Saglabāt kā visur pieejamu mainīgo
     .accesskey = S
 # Copies the content of the message, or the user selection if there’s one.
 webconsole-menu-copy-message =
-    .label = Kopēt ziņojumu
-    .accesskey = K
+    .label = Ievietot ziņojumu starpliktuvē
+    .accesskey = I
 webconsole-menu-copy-object =
-    .label = Kopēt objektu
+    .label = Ievietot objektu starpliktuvē
     .accesskey = o
 webconsole-menu-open-in-sidebar =
-    .label = Pārbaudīt objektu sānjoslā
-    .accesskey = N
+    .label = Izpētīt objektu sānjoslā
+    .accesskey = s
 webconsole-menu-copy-all-messages =
-    .label = Kopēt visus ziņojumus
+    .label = Ievietot starpliktuvē visus ziņojumus
     .accesskey = M
 webconsole-menu-save-all-messages-file =
-    .label = Saglabāt visus ziņojumus failā
-    .accesskey = F
+    .label = Saglabāt visus ziņojumus datnē
+    .accesskey = d
 
 ## Toolbar at the top of the console.
 
@@ -197,19 +197,19 @@ webconsole-filter-input-placeholder = Atsijāt izvadi
 #   $count (Number) - Number of hidden messages.
 webconsole-filtered-messages-by-text =
     { $count ->
-        [zero] { $count } paslēpts
-        [one] { $count } paslēpti
+        [zero] { $count } paslēptu
+        [one] { $count } paslēpts
        *[other] { $count } paslēpti
     }
 # Variables:
 #   $count (Number) - Number of hidden messages.
 webconsole-filtered-messages-by-text-tooltip =
     { $count ->
-        [zero] { $count } teksta atsijātāja paslēpts vienums
-        [one] { $count } teksta atsijātāja paslēptu vienumu
+        [zero] { $count } teksta atsijātāja paslēptu vienumu
+        [one] { $count } teksta atsijātāja paslēpts vienums
        *[other] { $count } teksta atsijātāja paslpēpti vienumi
     }
-webconsole-close-split-console-button-tooltip = Aizvērt dalīto konsoli (Esc)
+webconsole-close-split-console-button-tooltip = Aizvērt sadalīto konsoli (Esc)
 
 ## Filter buttons, used to show or hide each category of messages.
 
