@@ -924,7 +924,7 @@ urlbar-result-dates-ends-today = { $name } · beidzas šodien
 ## and the status like delayed, etc.
 
 # This string is shown in the result menu.
-urlbar-result-menu-dont-show-flight-status = Nerādīt lidojuma statusa ieteikumus
+urlbar-result-menu-dont-show-flight-status = Nerādīt lidojuma stāvokļa ieteikumus
     .accesskey = N
 urlbar-result-flight-status-status-ontime = Laicīgi
 urlbar-result-flight-status-status-inflight = Lidojumā
@@ -933,11 +933,11 @@ urlbar-result-flight-status-status-cancelled = Atcelts
 # Example: Delayed until 5:50pm
 # Variables:
 #   $departureEstimatedTime (string) - The estimated departure time.
-urlbar-result-flight-status-status-delayed = Kavējas līdz { $departureEstimatedTime }
+urlbar-result-flight-status-status-delayed = Atlikts līdz { $departureEstimatedTime }
 # Example: 30 min left
 # Variables:
 #   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
-urlbar-result-flight-status-time-left = Atlikušais laiks { $timeLeft }
+urlbar-result-flight-status-time-left = Atlikušais laiks: { $timeLeft }
 # Example: Los Angeles (LAX)
 # Variables:
 #   $city (string) - The city of the airport.
@@ -951,7 +951,7 @@ urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $a
 # This accessibility label is read by screen readers when an item in the row is
 # selected.
 urlbar-result-aria-group-flight-status =
-    .aria-label = Lidojuma statusa ieteikumi
+    .aria-label = Lidojuma stāvokļa ieteikumi
 
 ## These strings are used for sports suggestions in the urlbar. Sports
 ## suggestions show team names, scores, game times, etc.
@@ -969,9 +969,9 @@ urlbar-result-sports-team-names = { $homeTeam } pret { $awayTeam }
 # Variables:
 #   $date (string) - Localized date string, e.g., "Today", "Oct 31"
 #   $time (string) - Localized time
-urlbar-result-sports-game-date-with-time = { $date } plkst. { $time }
+urlbar-result-sports-game-date-with-time = { $date } { $time }
 urlbar-result-sports-status-live = Tiešraide
-urlbar-result-sports-status-final = Fināls
+urlbar-result-sports-status-final = Galīgs
 urlbar-result-menu-dont-show-sports = Nerādīt sporta ieteikumus
     .accesskey = N
 # This accessibility label is read by screen readers when an item in the row is
