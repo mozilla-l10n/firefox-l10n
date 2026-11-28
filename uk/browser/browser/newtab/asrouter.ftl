@@ -416,8 +416,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Тримайте { -brand-short-name } під рукою – зробіть його своїм типовим браузером і додайте до Dock.
        *[other] Тримайте { -brand-short-name } під рукою – зробіть його своїм типовим браузером і закріпіть на панелі завдань.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Тримайте { -brand-short-name } під рукою
+       *[other] Відкривайте всі посилання у { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Зробіть його типовим і додайте в Dock.
+       *[other] Швидше завантаження вебсайтів та автоматичний захист приватності.
+    }
 set-default-menu-message-primary-button = Зробити типовим
 set-default-menu-message-primary-button-variant = Зробити основним браузером
+set-default-menu-message-primary-button-short-variant = Зробити { -brand-short-name } типовим
 
 ## Firefox launch options spotlight
 ##

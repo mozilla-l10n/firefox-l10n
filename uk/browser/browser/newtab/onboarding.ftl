@@ -381,7 +381,7 @@ onboarding-genai-sidebar-secondary-button = Почати перегляд
 
 ## New user onboarding checklist
 
-onboarding-checklist-title = Завершити налаштування { -brand-short-name }
+onboarding-checklist-title = Завершення налаштування { -brand-short-name }
 onboarding-checklist-subtitle = Виконайте ці кроки, щоб отримати максимальну віддачу від перегляду.
 onboarding-checklist-set-default = Зробіть { -brand-short-name } типовим браузером
 onboarding-checklist-pin = Закріпіть { -brand-short-name } на панелі завдань
@@ -534,7 +534,12 @@ onboarding-refresh-gratitude-subtitle = Дякуємо вам за корист�
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } працює для вас
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-tou-default = Відкривайте всі посилання у { -brand-short-name }
+
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Вибір теми
+onboarding-theme-picker-subtitle = Налаштуйте колір { -brand-short-name }.
 onboarding-theme-picker-button-label = Зберегти й продовжити

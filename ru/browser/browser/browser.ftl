@@ -1834,6 +1834,9 @@ trustpanel-site-information-header =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-connection-info-header =
     .title = Информация о подключении для { $host }
+trustpanel-connection-secure = Соединение с этим сайтом защищено.
+trustpanel-connection-not-secure = Соединение с этим сайтом не защищено.
+trustpanel-connection-not-secure-description = Не вводите такие данные, как пароли или номера банковских карт, чтобы защитить их от кражи.
 trustpanel-siteinformation-morelink = Больше информации о сайте
 trustpanel-blocker-see-all = Показать все
 trustpanel-blocker-see-trackers-button = Просмотреть трекеры
@@ -1854,6 +1857,16 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [few] { $count } трекера заблокировано
        *[many] { $count } трекеров заблокировано
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] На этом сайте заблокирован { $count } трекер
+        [few] На этом сайте заблокировано { $count } трекера
+       *[many] На этом сайте заблокировано { $count } трекеров
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = На этом сайте трекеров не найдено
+urlbar-trust-icon-tracking-protection-off-tooltip = Защита от отслеживания отключена для этого сайта
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1864,6 +1877,16 @@ trustpanel-tracking-header = { -brand-product-name } разрешил это, ч
 trustpanel-tracking-description = Без трекеров некоторые кнопки, формы и поля для входа могут не работать.
 trustpanel-insecure-section-header = Ваше соединение не защищено
 trustpanel-insecure-description = Данные, отправляемые вами на этот сайт, не зашифрованы. Его можно просмотреть, украсть или изменить.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Сайт не работает? Попробуйте выполнить эти шаги.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Отключите их, чтобы посмотреть, решит ли это проблему:
+trustpanel-report-broken-site-button = Сообщить о сломанном сайте
+trustpanel-report-broken-site-description = Ваш отчет поможет нам улучшить { -brand-short-name } для всех и каждого.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } межсайтовый отслеживающий куки
@@ -1963,6 +1986,19 @@ trustpanel-blocker-section-header2 =
         [few] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекера
        *[many] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекеров
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Приватность, которая работает на вас
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } затрудняет отслеживание вас компаниями. Откройте щит, чтобы увидеть, какие трекеры мы заблокировали.
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Расширения
+trustpanel-site-issue-step-vpn = Встроенный VPN
+trustpanel-site-issue-step-etp = Улучшенная защита от отслеживания
 
 ##  $count (String): the number of trackers blocked.
 

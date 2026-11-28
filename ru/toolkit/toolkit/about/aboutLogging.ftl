@@ -66,6 +66,11 @@ about-logging-preset-gfx-description = Модули журналирования
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Модули журналов для диагностики проблем, характерных для Microsoft Windows
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = Метод ввода
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = Модули журнала для диагностики проблем с клавиатурой, включая редактор методов ввода (IME)
 about-logging-preset-custom-label = Персональная
 about-logging-preset-custom-description = Вручную выбранные модули журнала
 # Error handling

@@ -9,4 +9,6 @@
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = { -glean-brand-name } ගැන
 about-glean-header = { -glean-brand-name } ගැන
+about-glean-category-about-glean = { -glean-brand-name } ගැන
+about-glean-category-about-data = දත්ත ගැන
 about-glean-about-data-header = දත්ත ගැන

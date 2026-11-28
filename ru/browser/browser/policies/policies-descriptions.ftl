@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Разрешить диалоговые ок�
 policy-AppAutoUpdate = Включает или отключает автообновление приложения.
 policy-AppUpdatePin = Не позволяет { -brand-short-name } обновляться выше указанной версии.
 policy-AppUpdateURL = Устанавливает собственный URL обновления приложения.
+policy-Authentication2 = Настраивает интегрированную авторизацию для веб-сайтов, которые это поддерживают, и какие схемы HTTP-аутентификации отключены.
 policy-Authentication = Настраивает интегрированную авторизацию для поддерживающих это веб-сайтов.
 policy-AutofillAddressEnabled = Включить автозаполнение адресов.
 policy-AutofillCreditCardEnabled = Включить автозаполнение для способов оплаты.

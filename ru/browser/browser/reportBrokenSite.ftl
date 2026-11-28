@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Сообщить о сломанном са�
 report-broken-site-panel-header =
     .label = Сообщить о сломанном сайте
     .title = Сообщить о сломанном сайте
+report-broken-site-panel-intro-text2 = Ваш отчет поможет нам улучшить { -brand-product-name } для всех и каждого.
 report-broken-site-panel-intro-text = Ваш отчёт помогает нам понять и исправить проблемы в { -brand-product-name }, чтобы сделать его лучше для всех.
 report-broken-site-panel-learn-more-link = Подробнее
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Адрес сайта
 report-broken-site-panel-url-label = URL сломанного сайта
 report-broken-site-panel-reason-intro-text = Что не работает?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Что-то другое
 report-broken-site-panel-instructions-other = Подробно опишите проблему, чтобы помочь нам изучить её.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Подробно опишите проблему (необязательно)
 report-broken-site-panel-instructions-other-optional = Подробно опишите проблему, чтобы помочь нам изучить её. (необязательно)
 report-broken-site-panel-description2 =
     .placeholder = Что произошло? Что вы ожидали сделать? Пожалуйста, опишите шаги для воспроизведения проблемы.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Отправлять информацию через { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Отправьте больше информации
 report-broken-site-panel-button-cancel =
@@ -62,6 +71,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Отправить список элементов, заблокированных защитой от отслеживания
 report-broken-site-panel-url-input-label =
     .aria-label = URL страницы, по которой запрос
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Просмотреть данные диагностики
 report-broken-site-panel-preview-button =
     .label = Предпросмотр отчёта
 report-broken-site-panel-preview-header2 =

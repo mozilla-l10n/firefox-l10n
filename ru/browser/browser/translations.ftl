@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Идёт перевод
 translations-panel-settings-button =
     .aria-label = Управление настройками перевода
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Перевод этой страницы
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Попробуйте конфиденциальные переводы в { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Перевести эту страницу?
 translations-panel-translate-button =
     .label = Перевести
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Мгновенные переводы в отдельном окне
+    .tooltiptext = Мгновенные переводы в отдельном окне
 translations-panel-translate-button-loading =
     .label = Пожалуйста, подождите…
 translations-panel-translate-cancel =
