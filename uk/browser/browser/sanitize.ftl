@@ -86,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Файли cookie та дані сайтів
     .accesskey = и
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Призведе до виходу з облікових записів та очищення кошика покупок
 item-cookies-site-data-description = Може призвести до виходу на сайтах або очищення кошика для покупок
 item-active-logins =
     .label = Активні сеанси
@@ -123,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Збережена інформація заповнених форм
     .accesskey = і
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Імена, адреси е-пошти й дані для заповнення форм
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Дозволи та налаштування вебсайтів
 item-formdata-description = Очищення імен, адрес електронної пошти й інших даних, які ви вводите у форми
 item-site-prefs-description = Відновлює початкові налаштування дозволів і параметрів сайтів
 data-section-label = Дані

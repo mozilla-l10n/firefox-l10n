@@ -105,6 +105,9 @@ appmenu-remote-tabs-unverified = ඔබගේ ගිණුම සත්‍යා
 appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = ඔබගේ දත්ත සමමුහුර්ත කරන්න
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = සමමුහුර්තයට පිවිසෙන්න
@@ -124,6 +127,10 @@ appmenu-fxa-last-sync = අවසාන සමමුහුර්තය { $time }
     .label = අවසාන සමමුහුර්තය { $time }
 appmenu-fxa-sync-and-save-data2 = සමමුහූර්ත කර සුරකින්න
 appmenu-fxa-signed-in-label = පිවිසෙන්න
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = ඔබගේ දත්ත සැමතැන සමමුහුර්තයට
 appmenu-fxa-sign-in-promo-link = පිවිසෙන්න
 appmenu-fxa-setup-sync =
     .label = සමමුහුර්තය සක්‍රිය කරන්න...
@@ -199,6 +206,14 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = ඉතිහාසය සොයන්න
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-turnonsync =
+    .heading = ඔබගේ පටිකි සහ ඉතිහාසය සමමුහුර්ත කරන්න
 
 ## Help panel
 
