@@ -6,11 +6,11 @@ report-broken-site-mainview-title = Rapportera trasig webbplats
 report-broken-site-panel-header =
     .label = Rapportera trasig webbplats
     .title = Rapportera trasig webbplats
-report-broken-site-panel-intro-text2 = Din rapport hjälper oss att förbättra { -brand-product-name } för alla.
+report-broken-site-panel-intro-text2 = Genom att rapportera hjälper du oss att förbättra { -brand-product-name } för alla.
 report-broken-site-panel-intro-text = Din rapport hjälper oss att förstå och lösa problem i { -brand-product-name } för att göra den bättre för alla.
 report-broken-site-panel-learn-more-link = Läs mer
 # Label above the address of the page being reported.
-report-broken-site-panel-site-address-label = Webbplatsens adress
+report-broken-site-panel-site-address-label = Webbplatsadress
 report-broken-site-panel-url-label = URL för trasig webbplats
 report-broken-site-panel-reason-intro-text = Vad fungerar inte?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -36,7 +36,7 @@ report-broken-site-panel-reason-other-moz-box-button =
     .label = Något annat
 report-broken-site-panel-instructions-other = Beskriv problemet i detalj för att hjälpa oss undersöka problemet.
 # Shown above the description field when a description is optional.
-report-broken-site-panel-instructions-optional = Beskriv problemet i detalj (valfritt)
+report-broken-site-panel-instructions-optional = Beskriv problemet närmare (valfritt)
 report-broken-site-panel-instructions-other-optional = Beskriv problemet i detalj för att hjälpa oss undersöka problemet. (valfritt)
 report-broken-site-panel-description2 =
     .placeholder = Vad hände? Vad förväntade du dig skulle hända? Ange steg för att reproducera problemet.

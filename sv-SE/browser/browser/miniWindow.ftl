@@ -74,8 +74,7 @@ move-to-mini-window-alt =
     .label =
         { $tabCount ->
             [1] Minifönster
-            [one] Mini-fönster
-           *[other] Mini-fönster
+           *[other] Minifönster
         }
     .accesskey = M
 

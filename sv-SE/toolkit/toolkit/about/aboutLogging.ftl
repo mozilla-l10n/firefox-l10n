@@ -70,7 +70,7 @@ about-logging-preset-windows-description = Logga moduler för att diagnostisera 
 # IME is a component of the operating system used to input Asian languages.
 about-logging-preset-ime-label = Inmatningsmetod
 # IME is a component of the operating system used to input Asian languages.
-about-logging-preset-ime-description = Logga moduler för att diagnostisera tangentbordsproblem, inklusive Input Method Editor (IME)
+about-logging-preset-ime-description = Logga moduler för felsökning av tangentbordsproblem, inklusive inmatningsredigeraren (IME)
 about-logging-preset-custom-label = Anpassad
 about-logging-preset-custom-description = Loggmoduler manuellt valda
 # Error handling

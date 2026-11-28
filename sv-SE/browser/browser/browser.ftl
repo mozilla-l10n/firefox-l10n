@@ -1861,9 +1861,9 @@ trustpanel-site-issue-header =
 # introduces a bulleted list of features (trustpanel-site-issue-step-*) that
 # can break sites: turning them off one at a time helps the user find out
 # whether one of them causes the problem.
-trustpanel-site-issue-steps-intro = Inaktivera dessa för att se om det löser problemet:
-trustpanel-report-broken-site-button = Rapportera trasig webbplats
-trustpanel-report-broken-site-description = Din rapport hjälper oss att förbättra { -brand-short-name } för alla.
+trustpanel-site-issue-steps-intro = Stäng av följande för att se om det löser problemet:
+trustpanel-report-broken-site-button = Rapportera webbplatsfel
+trustpanel-report-broken-site-description = Din rapport bidrar till att göra { -brand-short-name } bättre för alla.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } global spårningskaka
@@ -1951,8 +1951,8 @@ trustpanel-blocker-section-header2 =
 
 ## Feature callout shown the first time the tracker count appears in the URL bar
 
-urlbar-trust-icon-tracker-count-callout-title = Integritet som fungerar för dig
-urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } gör det svårare för företag att hålla koll. Öppna skölden för att se vilka spårare vi blockerade.
+urlbar-trust-icon-tracker-count-callout-title = Integritetsskydd som passar dig
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } gör det svårare för företag att hålla koll på dig. Öppna skölden för att se vilka spårare som har blockerats.
 
 ## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
 ## Each one names a feature the user can turn off to check whether it causes

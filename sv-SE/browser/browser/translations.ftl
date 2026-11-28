@@ -28,7 +28,7 @@ translations-panel-settings-button =
 urlbar-translations-button3 =
     .tooltiptext = Översätt denna sida
 urlbar-translations-button-intro-2 =
-    .tooltiptext = Prova privata översättningar i { -brand-shorter-name }
+    .tooltiptext = Testa privata översättningar i { -brand-shorter-name }
 
 ## Options in the Firefox Translations settings.
 
@@ -64,8 +64,8 @@ translations-panel-translate-button =
     .label = Översätt
 # This button opens a separate translation tool beside the current page in Split View.
 translations-panel-companion-button =
-    .aria-label = Omedelbara översättningar i delad vy
-    .tooltiptext = Omedelbara översättningar i delad vy
+    .aria-label = Direktöversättning i delad vy
+    .tooltiptext = Direktöversättning i delad vy
 translations-panel-translate-button-loading =
     .label = Vänta…
 translations-panel-translate-cancel =

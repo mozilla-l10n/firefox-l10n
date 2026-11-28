@@ -96,7 +96,7 @@ webconsole-warning-group-message-count =
 webconsole-selfxss-ok-string = atļaut ielīmēšanu
 # Variables:
 #   $okString (String) - The text to type, from webconsole-selfxss-ok-string.
-webconsole-selfxss-message = Krāpniecības brīdinājums: Esiet uzmanīgi ielīmējot lietas, ko nesaprotat. Tas var ļaut ļaunprāšiem nozagt jūsu privāto informāciju vai pārņemt jūsu datora kontroli. Lūdzu ierakstiet '{ $okString }' zemāk, lai atļautu ielīmešanu. (enter nevajag spiest)
+webconsole-selfxss-message = Brīdinājums par krāpniecību: jāuzmanās ar satura, kurš nav izprasts, ielīmēšanu. Tas var ļaut uzbrucējiem nozagt identitāti vai pārņemt vadību pār datoru. Lūgums zemāk ievadīt “{ $okString }” (nav nepieciešams nospiest Enter), lai atļautu ielīmēšanu.
 
 ##
 

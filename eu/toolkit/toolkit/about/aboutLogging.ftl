@@ -66,6 +66,11 @@ about-logging-preset-gfx-description = Grafikoen arazoak diagnostikatzeko erregi
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Microsoft Windowsi berezkoak diren arazoak diagnostikatzeko erregistro-moduluak
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = Sarrera-metodoa
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = Teklatuaren arazoak diagnostikatzeko erregistro-moduluak, Input Method Editor (IME) barne
 about-logging-preset-custom-label = Pertsonalizatua
 about-logging-preset-custom-description = Erregistratu eskuz hautatutako moduluak
 # Error handling

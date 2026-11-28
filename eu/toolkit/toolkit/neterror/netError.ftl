@@ -249,6 +249,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name }(e)k ez du orri hau kargatu b
 fp-neterror-blocked-by-policy-intro = Zure erakundeak blokeatu egin du orri edo gune honetarako sarbidea.
 fp-neterror-http-auth-disabled-intro = Gunearen itxurak egiten dituen norbait saia liteke lapurtzen zure erabiltzaile-izena, pasahitza edo posta elektronikoko mezuak.
 fp-neterror-http-auth-disabled-secure-connection = Gune honek konexio segurua eskatzen du eta ezin duzu bisitatzeko salbuespenik gehitu.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = Zure konexio-ezarpenetan desaktibatuta dagoen metodo batekin saioa hasteko eskatu dizu <strong>{ $hostname }</strong> ostalariak.
 fp-neterror-why-did-this-happen = Zergatik gertatu da hau?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Badirudi gune honek segurtasun-arazo ezagunak dituen software zaharra darabilela.

@@ -7,6 +7,9 @@ about-translations-title = { -brand-short-name } itzulpenak
 # The brief description of the Translations functionality on the page.
 about-translations-description = Zure pribatutasuna errespetatzen dituzten berehalako itzulpenak.
 about-translations-learn-more-link = Argibide gehiago
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Itxi { -brand-short-name } itzulpenak
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Itzulpena ez dago erabilgarri gailu honetan

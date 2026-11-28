@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = Baimendu fitxategi-hautapenerako elkarrizketa
 policy-AppAutoUpdate = Gaitu edo desgaitu aplikazioaren eguneraketa automatikoa.
 policy-AppUpdatePin = Eragotzi { -brand-short-name } eguneratzea bertsio zehatz batetik aurrera.
 policy-AppUpdateURL = Ezarri aplikazioa-eguneraketen URL pertsonalizatua
+policy-Authentication2 = Konfiguratu autentifikazio integratua hori onartzen duten webguneetarako, eta zehaztu zein HTTP autentifikazio-eskema dauden desgaituta.
 policy-Authentication = Konfiguratu onartzen duten webguneentzat integratutako autentifikazioa.
 policy-AutofillAddressEnabled = Gaitu helbideen osatze automatikoa
 policy-AutofillCreditCardEnabled = Gaitu ordainketa-metodoen osatze automatikoa
