@@ -24,5 +24,5 @@ content-sharing-modal-generating-page =
 content-sharing-modal-link-copied =
     .label = සබැඳිය පිටපත් විය
 content-sharing-modal-sign-in-2 =
-    .label = සමමුහූර්තයට පිවිසෙන්න
+    .label = සමමුහුර්තයට පිවිසෙන්න
 content-sharing-modal-title-signed-in = ඔබගේ සබැඳි බෙදා ගැනීමට සූදානම්

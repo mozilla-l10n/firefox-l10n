@@ -82,9 +82,9 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = සමමුහූර්තයට පිවිසෙන්න…
+    .label = සමමුහුර්තයට පිවිසෙන්න…
 appmenu-remote-tabs-turn-on-sync =
-    .label = සමමුහූර්තය සක්‍රිය කරන්න...
+    .label = සමමුහුර්තය සක්‍රිය කරන්න...
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = තවත් පටිති පෙන්වන්න
@@ -92,7 +92,7 @@ appmenu-remote-tabs-showmore =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = විවෘත පටිති නැත.
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = ඔබගේ අනෙකුත් උපාංගවල පටිති ලේඛනයක් දැකීමට සමමුහූර්තය සක්‍රිය කරන්න.
+appmenu-remote-tabs-tabsnotsyncing = ඔබගේ අනෙකුත් උපාංගවල පටිති ලේඛනයක් දැකීමට සමමුහුර්තය සක්‍රිය කරන්න.
 appmenu-remote-tabs-opensettings =
     .label = සැකසුම්
 # This is shown when Sync is configured but this appears to be the only device attached to
@@ -107,7 +107,7 @@ appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙ�
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
-fxa-menu-sync-off-signin-description = සමමුහූර්තයට පිවිසෙන්න
+fxa-menu-sync-off-signin-description = සමමුහුර්තයට පිවිසෙන්න
 fxa-menu-manage-devices =
     .label = ඔබගේ උපාංග කළමනාකරණය
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
@@ -120,13 +120,13 @@ appmenu-account-header = ගිණුම
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
-appmenu-fxa-last-sync = අවසාන සමමුහූර්තය { $time }
-    .label = අවසාන සමමුහූර්තය { $time }
+appmenu-fxa-last-sync = අවසාන සමමුහුර්තය { $time }
+    .label = අවසාන සමමුහුර්තය { $time }
 appmenu-fxa-sync-and-save-data2 = සමමුහූර්ත කර සුරකින්න
 appmenu-fxa-signed-in-label = පිවිසෙන්න
 appmenu-fxa-sign-in-promo-link = පිවිසෙන්න
 appmenu-fxa-setup-sync =
-    .label = සමමුහූර්තය සක්‍රිය කරන්න...
+    .label = සමමුහුර්තය සක්‍රිය කරන්න...
 appmenuitem-save-page =
     .label = මෙලෙස පිටුව සුරකින්න
 
