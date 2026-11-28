@@ -427,6 +427,8 @@ smartwindow-onboarding-save =
 ai-smart-form-fill-autocomplete-label = Ze žórłow zapisać
 ai-smart-form-fill-autocomplete-loading = Začituje so
 ai-smart-form-fill-autocomplete-sources-label = Ze žórłow zapisać
+ai-smart-form-fill-autocomplete-choose-tabs = Wočińće abo wubjerće strony, kotrež so na tutón formular poćahuja, zo byšće namjety za awtomatiske wupjelnjenje dóstał
+ai-smart-form-fill-autocomplete-open-tabs = Wočińće strony, kotrež so na tutón formular poćahuja, zo byšće namjety za awtomatiske wupjelnjenje dóstał
 ai-smart-form-fill-close-review-button =
     .label = Začinić
 # Variables:
