@@ -580,11 +580,11 @@ onboarding-minimal-tabs-description =
 # AI Killswitch screen: present users with the choice to use or block AI features
 onboarding-refresh-ai-killswitch-title = L’IA è sempre una tua scelta
 onboarding-refresh-ai-killswitch-use-label = Usa le funzionalità IA di { -brand-short-name }
-onboarding-refresh-ai-killswitch-use-body = Traduzioni integrate, assistenza nell'organizzazione delle schede e molto altro ancora.
+onboarding-refresh-ai-killswitch-use-body = Traduzioni integrate, assistenza nell’organizzazione delle schede e molto altro ancora.
 onboarding-refresh-ai-killswitch-use-tooltip =
-    .title = Traduzioni integrate, assistenza nell'organizzazione delle schede e molto altro ancora.
+    .title = Traduzioni integrate, assistenza nell’organizzazione delle schede e molto altro ancora.
 onboarding-refresh-ai-killswitch-use-description =
-    .aria-description = Traduzioni integrate, assistenza nell'organizzazione delle schede e molto altro ancora.
+    .aria-description = Traduzioni integrate, assistenza nell’organizzazione delle schede e molto altro ancora.
 onboarding-refresh-ai-killswitch-block-label = Blocca le funzionalità IA di { -brand-short-name }
 onboarding-refresh-ai-killswitch-block-body = Nasconde le funzionalità di intelligenza artificiale e i messaggi pop-up che le promuovono.
 onboarding-refresh-ai-killswitch-block-tooltip =

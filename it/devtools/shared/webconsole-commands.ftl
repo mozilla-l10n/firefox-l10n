@@ -52,4 +52,3 @@ webconsole-commands-stop-tracing = Interrotto tracciamento
 # Variables:
 #   $reason (String) - The reason why tracing stopped.
 webconsole-commands-stop-tracing-with-reason = Tracciamento interrotto (motivo: { $reason })
-

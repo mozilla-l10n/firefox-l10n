@@ -28,4 +28,3 @@ dom-svg-reference-loop = L’elemento SVG <{ $tagName }> con ID “{ $id }” pr
 #   $tagName (String) - Tag name of the element where the chain was broken.
 #   $id (String) - ID of the element.
 dom-svg-reference-chain-length-exceeded = Una catena di riferimenti SVG <{ $tagName }> nell’elemento con ID “{ $id }” è stata abbandonata in quanto troppo lunga.
-

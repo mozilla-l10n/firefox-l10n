@@ -14,4 +14,3 @@ device-type-televisions = TV
 device-type-consoles = Console da gioco
 device-type-watches = Orologi
 device-type-custom = Personalizzati
-

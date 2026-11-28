@@ -38,4 +38,3 @@ stub-cancel-prompt-heading = Si desidera installare { $BrandShortName }?
 stub-cancel-prompt-message = Annullando ora l’operazione, { $BrandShortName } non verrà installato.
 stub-cancel-prompt-button-continue = Installa { $BrandShortName }
 stub-cancel-prompt-button-exit = Annulla
-

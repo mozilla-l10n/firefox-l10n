@@ -42,4 +42,3 @@ changes-context-menu-copy-declaration =
 changes-context-menu-select-all =
     .label = Seleziona tutto
     .accesskey = S
-

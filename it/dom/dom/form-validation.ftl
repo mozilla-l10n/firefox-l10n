@@ -69,4 +69,3 @@ dom-form-validation-text-too-short =
         [one] Inserire almeno { $minLengthText } carattere (lunghezza attuale: { $textLength }).
        *[other] Inserire almeno { $minLengthText } caratteri (lunghezza attuale: { $textLength }).
     }
-

@@ -480,4 +480,3 @@ ai-smart-form-fill-error-heading = Impossibile inserire i suggerimenti
 ai-smart-form-fill-error-description = Si è verificato un problema. Per riprovare, seleziona un campo del modulo e scegli Compila dalle fonti.
 ai-smart-form-fill-try-again-button =
     .label = Riprova
-
