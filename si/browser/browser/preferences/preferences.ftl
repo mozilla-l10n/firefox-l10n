@@ -1375,6 +1375,11 @@ preferences-doh-select-resolver-label =
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
 
+## Appearance page
+
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } අභිරුචිකරණය
+
 ## AI controls page
 
 preferences-ai-controls-block-ai =

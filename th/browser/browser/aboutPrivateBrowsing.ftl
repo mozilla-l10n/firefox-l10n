@@ -55,6 +55,7 @@ about-private-browsing-pin-promo-title = ไม่เก็บบันทึก
 ## Strings used in a promotion message for Firefox Relay
 
 about-private-browsing-relay-promo-header = ลดจำนวนจดหมายขยะลงด้วยตัวปกปิดอีเมล
+about-private-browsing-relay-promo-title = ปกปิดอีเมลหลักของคุณโดยการใช้ตัวปกปิดอีเมลเมื่อคุณสมัครใช้งาน ซื้อสินค้า หรือแชร์ข้อมูลออนไลน์
 about-private-browsing-relay-promo-link-text = ทดลองใช้ตัวปกปิดอีเมล
 
 ## Strings used in a promotion message for cookie banner reduction
@@ -74,13 +75,20 @@ about-private-browsing-felt-privacy-v1-info-link = ใครสามารถ�
 
 about-private-browsing-nova-info-body = การปิดหน้าต่างส่วนตัวทั้งหมดของคุณจะลบคุกกี้ ประวัติ และข้อมูลไซต์ของคุณ
 about-private-browsing-nova-info-link = ใครบ้างที่ยังอาจเห็นกิจกรรมของฉันได้?
+about-private-browsing-private-window-basics-link = ข้อมูลพื้นฐานเกี่ยวกับหน้าต่างส่วนตัว
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } ออกแบบมาเพื่อปกป้องความเป็นส่วนตัวของคุณขณะเรียกดู ด้วยระบบป้องกันการติดตามในตัว การปิดหน้าต่างนี้จะลบประวัติ คุกกี้ และข้อมูลเว็บไซต์ เพื่อรักษาความเป็นส่วนตัวในการเรียกดูของคุณจากผู้อื่นที่ใช้อุปกรณ์นี้
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = คุณกำลังใช้งานแบบไม่บันทึกประวัติ
+about-private-browsing-nova-info-subheader2 = เราจะลบประวัติการค้นหาและออกจากระบบบัญชีทั้งหมดเมื่อคุณปิดหน้าต่างส่วนตัวทั้งหมดของคุณ ระบบป้องกันในตัวของ { -brand-short-name } ก็เปิดใช้งานอยู่ด้วย เช่น การบล็อกตัวติดตาม
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = ข้อมูลพื้นฐานเกี่ยวกับหน้าต่างส่วนตัว
+about-private-browsing-spotlight-basics-subtitle = หน้าต่างส่วนตัวจะช่วยปกปิดประวัติการเรียกดูจากผู้อื่นบนอุปกรณ์นี้ แต่ไม่ได้ทำให้คุณเป็นนิรนามหรือลบข้อมูลทั้งหมดของคุณ
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = สิ่งที่ควรรู้
+about-private-browsing-spotlight-basics-activity-seen = บางกิจกรรมอาจยังคงปรากฏให้เห็นแก่เว็บไซต์ เครื่องมือค้นหา ผู้ให้บริการอินเทอร์เน็ต หรือนายจ้างของคุณ
+about-private-browsing-spotlight-basics-bookmarks-downloads = ที่คั่นหน้าและไฟล์ที่ดาวน์โหลดจะไม่ถูกลบและอาจปรากฏในแถบที่อยู่

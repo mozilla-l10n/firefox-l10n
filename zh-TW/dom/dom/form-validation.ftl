@@ -56,3 +56,8 @@ dom-form-validation-bad-input-number = 請輸入數字。
 #   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
 #   $textLength (String) - Number of characters currently in the field, as digits.
 dom-form-validation-text-too-long = 請將這段文字縮短至 { $maxLengthText } 個字元以內（目前長度：{ $textLength }）。
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short = 請輸入至少 { $minLengthText } 個字元（目前長度：{ $textLength }）。
