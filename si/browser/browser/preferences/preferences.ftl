@@ -706,6 +706,10 @@ sync-group-label =
     .label = සමමුහූර්තය
 account-group-label2 =
     .label = ගිණුම
+account-sync-section =
+    .heading = ගිණුම හා සමමුහුර්තය
+pane-account-sync-title2 = ගිණුම හා සමමුහුර්තය
+    .title = ගිණුම හා සමමුහුර්තය
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").

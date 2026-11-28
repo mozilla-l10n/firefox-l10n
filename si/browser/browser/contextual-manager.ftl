@@ -101,3 +101,6 @@ contextual-manager-passwords-list-label =
     .aria-label = මුරපද
 contextual-manager-copy-icon =
     .alt = පිටපතක්
+contextual-manager-hide-password-button =
+    .aria-label = මුරපදය සඟවන්න
+    .title = මුරපදය සඟවන්න

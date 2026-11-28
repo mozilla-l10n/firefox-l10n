@@ -10,6 +10,9 @@ smartwindow-document-title = නව පටිත්ත
 
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-classic-description =
+    .label = සම්මත පිරික්සුම
+    .value = සම්මත පිරික්සුම
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }

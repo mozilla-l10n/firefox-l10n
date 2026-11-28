@@ -10,7 +10,7 @@ about-logins-login-filter2 =
 create-login-button =
     .title = මුරපදය එක් කරන්න
 fxaccounts-sign-in-text = ඔබගේ වෙනත් උපාංගවල තිබෙන මුරපද ගන්න
-fxaccounts-sign-in-sync-button = සමමුහූර්තයට පිවිසෙන්න
+fxaccounts-sign-in-sync-button = සමමුහුර්තයට පිවිසෙන්න
 fxaccounts-avatar-button =
     .title = ගිණුම කළමනාකරණය
 
@@ -77,7 +77,7 @@ about-logins-list-section-week = පසුගිය දවස් 7
 about-logins-login-intro-heading-message = ඔබගේ මුරපද ආරක්ෂිත තැනක සුරකින්න
 login-intro-description2 = ඔබ { -brand-product-name } වෙත සුරකින සියලුම මුරපද සංකේතිතයි. තවද, අපි උල්ලංඝන ගැන විමසිල්ලෙන් සිටින අතර ඔබට බලපා ඇත්නම් අඟවන්නෙමු. <a data-l10n-name="breach-alert-link">තව දැනගන්න</a>
 login-intro-instructions-fxa2 = පිවිසුම් සුරැකි උපාංගයෙන් ඔබගේ ගිණුමට පිවිසෙන්න හෝ සාදන්න.
-login-intro-instructions-fxa-settings = සැකසුම් > සමමුහූර්තය > සමමුහූර්තය සක්‍රිය කරන්න... වෙත ගොස් පිවිසුම් හා මුරපද කොටුව තෝරන්න.
+login-intro-instructions-fxa-settings = සැකසුම් > සමමුහුර්තය > සමමුහුර්තය සක්‍රිය කරන්න... වෙත ගොස් පිවිසුම් හා මුරපද කොටුව තෝරන්න.
 login-intro-instructions-fxa-passwords-help = උපකාර සඳහා <a data-l10n-name="passwords-help-link">මුරපද සහාය</a> වෙත ගොඩවදින්න.
 about-logins-intro-import3 = දැන් මුරපදයක් එක් කිරීමට ඉහත + බොත්තම තෝරන්න. ඔබට <a data-l10n-name="import-browser-link">වෙනත් අතිරික්සුවකින්</a> හෝ <a data-l10n-name="import-file-link">ගොනුවකින්</a> මුරපද ආයාත කිරීමට හැකිය.
 

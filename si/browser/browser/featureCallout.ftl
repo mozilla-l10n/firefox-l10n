@@ -48,6 +48,15 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = සැකසුම් කළමනාකරණය
 
+## Bookmarks toolbar callout strings
+
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = මෙවලම් තීරුව සඟවන්න
+
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-dismiss-button = පැති තීරුව සඟවන්න
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-privacy-notice-link = රහස්‍යතා දැන්වීම
