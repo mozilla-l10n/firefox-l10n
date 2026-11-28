@@ -51,3 +51,21 @@ dom-form-validation-step-mismatch-one-value = Seleccione un valor válido. El va
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Seleccione un valor entre { $minimum } y { $maximum }.
 dom-form-validation-bad-input-number = Ingrese un número.
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long =
+    { $maxLength ->
+        [one] Acorte este texto a { $maxLengthText } caracter o menos (longitud actual: { $textLength }).
+       *[other] Acorte este texto a { $maxLengthText } caracteres o menos (longitud actual: { $textLength }).
+    }
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short =
+    { $minLength ->
+        [one] Use al menos { $minLengthText } caracter (longitud actual: { $textLength }).
+       *[other] Use al menos { $minLengthText } caracteres (longitud actual: { $textLength }).
+    }
