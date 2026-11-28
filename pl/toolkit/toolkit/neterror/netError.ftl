@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Nie odnaleziono serwera
 neterror-malformed-uri-page-title = Nieprawidłowy adres URL
 general-body-title = Zachowaj ostrożność. Coś tu nie gra.
 problem-with-this-site-title = Wystąpił problem z tą witryną
+neterror-http-auth-scheme-disabled-title = Metoda logowania na tej witrynie jest wyłączona
 
 ## Error page actions
 
@@ -165,17 +166,17 @@ neterror-nss-failure-not-verified = Otwierana strona nie może zostać wyświetl
 neterror-nss-failure-contact-website = Proszę poinformować właścicieli witryny o tym problemie.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = { -brand-short-name } wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał „<b>{ $hostname }</b>”. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje, takie jak hasła, adresy e-mail czy dane kart płatniczych.
+certerror-intro = { -brand-short-name } wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał witryny <b>{ $hostname }</b>. Jeśli ją otworzysz, atakujący będą mogli przechwycić informacje, takie jak hasła, adresy e-mail czy dane kart płatniczych.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-sts-intro = { -brand-short-name } wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał „<b>{ $hostname }</b>”, ponieważ strona wymaga bezpiecznego połączenia.
+certerror-sts-intro = { -brand-short-name } wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał witryny <b>{ $hostname }</b>, ponieważ wymaga ona zabezpieczonego połączenia.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = { -brand-short-name } wykrył problem i nie wczytał „<b>{ $hostname }</b>”. Witryna jest źle skonfigurowana lub zegar systemowy ma ustawioną nieprawidłową datę.
+certerror-expired-cert-intro = { -brand-short-name } wykrył problem i nie wczytał witryny <b>{ $hostname }</b>. Jest ona błędnie skonfigurowana lub zegar systemowy ma ustawioną nieprawidłową datę.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm = „<b>{ $hostname }</b>” jest prawdopodobnie bezpieczną stroną, jednak nie można było nawiązać bezpiecznego połączenia. Jest to spowodowane przez program „<b>{ $mitm }</b>”, działający na tym komputerze lub w tej sieci.
+certerror-mitm = <b>{ $hostname }</b> jest prawdopodobnie bezpieczną witryną, jednak nie można było nawiązać zabezpieczonego połączenia. Jest to spowodowane przez program <b>{ $mitm }</b>, działający na tym komputerze lub w tej sieci.
 neterror-corrupted-content-intro = Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w transmisji danych.
 neterror-corrupted-content-contact-website = Proszę poinformować właścicieli witryny o tym problemie.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -188,7 +189,7 @@ neterror-inadequate-security-code = Kod błędu: NS_ERROR_NET_INADEQUATE_SECURIT
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = Zegar systemowy jest ustawiony na { DATETIME($now, dateStyle: "medium") }, co uniemożliwia { -brand-short-name(case: "dat") } nawiązanie bezpiecznego połączenia. Aby odwiedzić witrynę „<b>{ $hostname }</b>”, ustaw prawidłową datę, czas i strefę czasową w ustawieniach systemowych, a następnie odśwież „<b>{ $hostname }</b>”.
+neterror-clock-skew-error = Zegar systemowy jest ustawiony na { DATETIME($now, dateStyle: "medium") }, co uniemożliwia { -brand-short-name(case: "dat") } nawiązanie bezpiecznego połączenia. Aby odwiedzić witrynę <b>{ $hostname }</b>, ustaw prawidłową datę, czas i strefę czasową w ustawieniach systemowych, a następnie odśwież <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w protokole sieciowym.
 neterror-network-protocol-error-contact-website = Proszę poinformować właścicieli witryny o tym problemie.
 certerror-expired-cert-second-para = Certyfikat witryny prawdopodobnie wygasł, co uniemożliwia { -brand-short-name(case: "dat") } nawiązanie bezpiecznego połączenia. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje, takie jak hasła, adresy e-mail czy dane kart płatniczych.
@@ -199,7 +200,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Jeśli połąc
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-certerror-expired-cert-what-can-you-do-about-it-clock = Zegar systemowy jest ustawiony na { DATETIME($now, dateStyle: "medium") }. Upewnij się, że urządzenie ma ustawioną prawidłową datę, czas i strefę czasową w ustawieniach systemowych. Następnie spróbuj otworzyć witrynę „<b>{ $hostname }</b>” ponownie.
+certerror-expired-cert-what-can-you-do-about-it-clock = Zegar systemowy jest ustawiony na { DATETIME($now, dateStyle: "medium") }. Upewnij się, że urządzenie ma ustawioną prawidłową datę, czas i strefę czasową w ustawieniach systemowych. Następnie spróbuj otworzyć witrynę <b>{ $hostname }</b> ponownie.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Jeśli wskazania zegara systemowego są prawidłowe, to problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora witryny o problemie.
 certerror-bad-cert-domain-what-can-you-do-about-it = Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora witryny o problemie.
 certerror-mitm-what-can-you-do-about-it-antivirus = Jeśli oprogramowanie antywirusowe zawiera funkcję skanowania szyfrowanych połączeń (często nazywaną „skanowanie ruchu sieciowego” lub „skanowanie HTTPS”), można spróbować ją wyłączyć. Jeśli to nie pomoże, można usunąć i zainstalować oprogramowanie antywirusowe ponownie.
@@ -212,7 +213,7 @@ certerror-mitm-what-can-you-do-about-it-attack = Jeśli nie rozpoznajesz nazwy �
 certerror-mitm-what-can-you-do-about-it-attack-sts = Jeśli nie rozpoznajesz nazwy „<b>{ $mitm }</b>”, to może to być atak i tej strony nie można otworzyć.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-what-should-i-do-bad-sts-cert-explanation = Witryna „<b>{ $hostname }</b>” określa poprzez HSTS (HTTP Strict Transport Security), że { -brand-short-name } ma się z nią łączyć jedynie w sposób zabezpieczony. Dodanie wyjątku w celu odwiedzenia tej witryny jest niemożliwe.
+certerror-what-should-i-do-bad-sts-cert-explanation = Witryna <b>{ $hostname }</b> określa poprzez HSTS (HTTP Strict Transport Security), że { -brand-short-name } ma się z nią łączyć jedynie w sposób zabezpieczony. Dodanie wyjątku w celu odwiedzenia tej witryny jest niemożliwe.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Prawdopodobnie nic, ponieważ problem najpewniej leży po stronie witryny.
 certerror-blocked-by-corp-headers-description = Czasami witryny stosują zabezpieczenia chroniące siebie i inne osoby przed niepożądanymi interakcjami z innymi witrynami.
 certerror-coop-learn-more = Więcej informacji o COOP (Cross-Origin-Opener-Policy)
@@ -229,9 +230,9 @@ fp-neterror-offline-body-title = Wystąpił problem z połączeniem z Internet
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-connection-intro = { -brand-short-name } nie może utworzyć zabezpieczonego połączenia z serwerem pod adresem { $hostname }.
-fp-neterror-offline-intro = { -brand-short-name } nie może połączyć się z serwerem pod adresem <strong>{ $hostname }</strong>
-fp-neterror-offline-intro-2 = { -brand-short-name } nie może połączyć się z serwerem pod adresem <strong>{ $hostname }</strong>.
+fp-neterror-connection-intro = { -brand-short-name } nie może utworzyć zabezpieczonego połączenia z serwerem { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } nie może połączyć się z serwerem <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } nie może połączyć się z serwerem <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Serwer <strong>{ $hostname }</strong> zbyt długo nie odpowiada.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -240,7 +241,7 @@ fp-neterror-net-timeout-intro = Serwer <strong>{ $hostname }</strong> zbyt dług
 fp-neterror-http-error-intro = Serwer <strong>{ $hostname }</strong> zwrócił błąd: { $responsestatus } { $responsestatustext }
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-invalid-header-value-intro = Strona <strong>{ $hostname }</strong> zwróciła nagłówek z pustymi znakami, co nie jest dozwolone w standardach bezpieczeństwa sieci.
+fp-neterror-invalid-header-value-intro = Witryna <strong>{ $hostname }</strong> zwróciła nagłówek z pustymi znakami, co nie jest dozwolone w standardach bezpieczeństwa sieci.
 fp-neterror-content-encoding-intro = Otwierana strona nie może zostać wyświetlona, ponieważ używa nieprawidłowych lub nieobsługiwanych metod kompresji.
 fp-neterror-coop-coep-intro = { -brand-short-name } nie wczytał tej strony, ponieważ konfiguracja zabezpieczeń nie zgadza się z poprzednią stroną.
 fp-neterror-blocked-by-policy-intro = Strona zablokowana przez Twoją organizację.
@@ -248,7 +249,7 @@ fp-neterror-http-auth-disabled-intro = Ktoś podszywający się pod witrynę mo�
 fp-neterror-http-auth-disabled-secure-connection = Ta witryna wymaga zabezpieczonego połączenia i nie można dodać wyjątku, aby ją otworzyć.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> wymaga zalogowania się metodą wyłączoną w ustawieniach połączeń.
+fp-neterror-http-auth-scheme-disabled-intro = Witryna <strong>{ $hostname }</strong> wymaga zalogowania się metodą wyłączoną w ustawieniach połączeń.
 fp-neterror-why-did-this-happen = Dlaczego tak się stało?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Wygląda na to, że ta witryna korzysta ze starego oprogramowania, które ma znane problemy z bezpieczeństwem.

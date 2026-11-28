@@ -12,12 +12,12 @@ boxmodel-title = Kastes modelis
 # in the page.
 boxmodel-geometry-button-title = Labot novietojumu
 # Header of the expandable list of properties displayed below the box model.
-boxmodel-properties-label = Kastes modeļa parametri
+boxmodel-properties-label = Kastes modeļa īpašības
 
 ## Accessible labels for the button that collapses or expands the list of
 ## properties, depending on its current state.
 
-boxmodel-properties-hide-label = Slēpt
+boxmodel-properties-hide-label = Paslēpt
 boxmodel-properties-show-label = Rādīt
 
 ##

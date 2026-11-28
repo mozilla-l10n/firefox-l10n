@@ -76,11 +76,11 @@ move-to-mini-window-alt =
     .label =
         { $tabCount ->
             [1] Sīklogs
-            [zero] Mini logi
-            [one] Mini logi
-           *[other] Mini logi
+            [zero] Sīklogi
+            [one] Sīklogi
+           *[other] Sīklogi
         }
-    .accesskey = M
+    .accesskey = S
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.

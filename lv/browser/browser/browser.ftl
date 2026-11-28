@@ -1822,8 +1822,8 @@ trustpanel-clear-cookies-subview-button-cancel = Atcelt
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header-redesign =
-    .title = Dzēst vietnes datus vietnei { $host }
-trustpanel-clear-cookies-description-redesign = Jūs tiksiet izrakstīts no vietnēm. Tas var notīrīt iepirkumu grozus.
+    .title = Izdzēst { $host } vietnes datus
+trustpanel-clear-cookies-description-redesign = Notiks atteikšanās vietnēs. Tas var iztukšot iepirkumu grozus.
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
@@ -1834,7 +1834,7 @@ trustpanel-connection-info-header =
     .title = Savienojuma informācija par { $host }
 trustpanel-connection-secure = Šīs vietnes savienojums ir drošs.
 trustpanel-connection-not-secure = Šīs vietnes savienojums nav drošs.
-trustpanel-connection-not-secure-description = Lai pasargātu no zādzības, neievadiet tādu informāciju kā paroles vai kredītkaršu datus.
+trustpanel-connection-not-secure-description = Jāizvairās no tādas informācijas kā paroļu vai maksājumu karšu datu ievadīšanas, lai pasargātu tos no nozagšanas.
 trustpanel-siteinformation-morelink = Vairāk informācijas par vietni
 trustpanel-blocker-see-all = Apskatīt visu
 trustpanel-blocker-see-trackers-button = Apskatīt izsekotājus
@@ -1859,12 +1859,12 @@ urlbar-trust-icon-trackers-blocked-longform-label =
 #   $count (Number) - Number of trackers blocked on the current site.
 urlbar-trust-icon-trackers-blocked-tooltip =
     { $count ->
-        [one] Šajā vietnē ir bloķēts { $count } izsekotājs
-        [zero] Šajā vietnē bloķēti { $count } izsekotāji
-       *[other] Šajā vietnē bloķēti { $count } izsekotāji
+        [one] Šajā vietnē aizturēts { $count } izsekotājs
+        [zero] Šajā vietnē aizturēti { $count } izsekotāju
+       *[other] Šajā vietnē aizturēti { $count } izsekotāji
     }
 urlbar-trust-icon-no-trackers-found-tooltip = Šajā vietnē izsekotāji netika atrasti
-urlbar-trust-icon-tracking-protection-off-tooltip = Šai vietnei izsekošanas aizsardzība ir izslēgta.
+urlbar-trust-icon-tracking-protection-off-tooltip = Šai vietnei aizsardzība pret izsekošanu ir izslēgta.
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1877,14 +1877,14 @@ trustpanel-insecure-section-header = Savienojums nav drošs
 trustpanel-insecure-description = Dati, kas tiek sūtīti šai vietnei, nav šifrēti. Tos var apskatīt, nozagt vai izmanīt.
 # Title of the subview opened by trustpanel-fix-site-issue-button.
 trustpanel-site-issue-header =
-    .title = Vietne nedarbojas? Izmēģiniet tālāk norādītās darbības.
+    .title = Vietne nedarbojas? Jāizmēģina šīs darbības.
 # Shown when the user reports that the current site isn’t working. It
 # introduces a bulleted list of features (trustpanel-site-issue-step-*) that
 # can break sites: turning them off one at a time helps the user find out
 # whether one of them causes the problem.
-trustpanel-site-issue-steps-intro = Izslēdziet šīs funkcijas pa vienai, lai noskaidrotu, vai problēma tiek novērsta:
+trustpanel-site-issue-steps-intro = Jāizslēdz pa vienai, lai redzētu, vai tas novērš nebūšanu:
 trustpanel-report-broken-site-button = Ziņot par bojātu vietni
-trustpanel-report-broken-site-description = Jūsu ziņojums palīdz mums uzlabot { -brand-short-name } ikvienam.
+trustpanel-report-broken-site-description = Tavs ziņojums palīdz mums uzlabot { -brand-short-name } ikvienam.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [zero] { $count } vietņu izsekošanas sīkdatnes
@@ -1987,8 +1987,8 @@ trustpanel-blocker-section-header2 =
 
 ## Feature callout shown the first time the tracker count appears in the URL bar
 
-urlbar-trust-icon-tracker-count-callout-title = Privātums, kas der jums
-urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } apgrūtina uzņēmumiem jūsu izsekošanu. Atveriet vairogu, lai redzētu, kādus izsekotājus mēs bloķējām.
+urlbar-trust-icon-tracker-count-callout-title = Privātums, kas Tev der
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } padara uzņēmumiem grūtāku informācijas ievākšanu par Tevi. Atver vairogu, lai redzētu, kādus izsekotājus mēs esam aizturējuši!
 
 ## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
 ## Each one names a feature the user can turn off to check whether it causes
@@ -1996,7 +1996,7 @@ urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } apgrūt
 
 trustpanel-site-issue-step-extensions = Paplašinājumi
 trustpanel-site-issue-step-vpn = Iebūvēts VPN
-trustpanel-site-issue-step-etp = Uzlabota izsekošanas aizsardzība
+trustpanel-site-issue-step-etp = Uzlabota aizsardzība pret izsekošanu
 
 ##  $count (String): the number of trackers blocked.
 

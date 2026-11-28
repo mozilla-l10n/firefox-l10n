@@ -6,7 +6,7 @@ report-broken-site-mainview-title = Ziņot par salauztu vietni
 report-broken-site-panel-header =
     .label = Ziņot par salauztu vietni
     .title = Ziņot par salauztu vietni
-report-broken-site-panel-intro-text2 = Jūsu ziņojums palīdz mums uzlabot { -brand-product-name } ikvienam.
+report-broken-site-panel-intro-text2 = Tavs ziņojums palīdz mums uzlabot { -brand-product-name } ikvienam.
 report-broken-site-panel-intro-text = Jūsu ziņojums palīdz mums izprast un novērst problēmas pakalpojumā { -brand-product-name }, lai tas būtu labāks ikvienam.
 report-broken-site-panel-learn-more-link = Uzziniet vairāk
 # Label above the address of the page being reported.
@@ -36,14 +36,14 @@ report-broken-site-panel-reason-other-moz-box-button =
     .label = Kaut kas cits
 report-broken-site-panel-instructions-other = Detalizēti aprakstiet problēmu, lai mēs varētu to izpētīt.
 # Shown above the description field when a description is optional.
-report-broken-site-panel-instructions-optional = Detalizēti aprakstiet problēmu (pēc izvēles)
+report-broken-site-panel-instructions-optional = Sīki apraksti sarežģījumu (pēc izvēles)
 report-broken-site-panel-instructions-other-optional = Detalizēti aprakstiet problēmu, lai palīdzētu mums to izmeklēt. (pēc izvēles)
 report-broken-site-panel-description2 =
     .placeholder = Kas notika? Ko jūs gaidījāt, ka notiks? Lūdzu, sniedziet norādījumus par darbībām, lai atkārtotu problēmas rašanos.
 # Opens a website in a new tab to send more details about the problem.
 # $website (String) - The name of the website, for example "webcompat.com".
 report-broken-site-panel-send-info-website-button =
-    .label = Sūtīt informāciju, izmantojot { $website }
+    .label = Nosūtīt informāciju { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Sūtīt vairāk informāciju
 report-broken-site-panel-button-cancel =
@@ -72,7 +72,7 @@ report-broken-site-panel-blocked-trackers-label2 =
 report-broken-site-panel-url-input-label =
     .aria-label = Ziņotās lapas URL
 report-broken-site-panel-view-diagnostic-data-button =
-    .label = Skatīt diagnostikas datus
+    .label = Apskatīt diagnostikas datus
 report-broken-site-panel-preview-button =
     .label = Priekšskatīt pārskatu
 report-broken-site-panel-preview-header2 =
