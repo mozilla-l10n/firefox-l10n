@@ -545,6 +545,14 @@ mlmodel-addon-detail-model-card = Картка моделі
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Переглянути на Hugging Face
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Знайдіть своє нове улюблене розширення
+    .message = Налаштуйте { -brand-product-name } за допомогою інструментів для зосередження, приватності, покупок тощо.
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 

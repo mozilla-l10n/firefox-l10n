@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = යාවත්කාල කළ නොහැකිය — පද්ධතියට නොගැළපේ
 appmenuitem-banner-update-restart =
     .label = යාවත්කාලයක් තිබේ — දැන් යළි අරඹන්න
+appmenu-nova-update-title = { -brand-short-name } යාවත්කාලයට යළි අරඹන්න
+appmenu-nova-update-description = ඔබගේ පටිති යළි විවෘත වනු ඇත.
 appmenu-nova-fxa-sign-in = පිවිසෙන්න
 appmenuitem-new-tab =
     .label = නව පටිත්ත
@@ -105,9 +107,19 @@ appmenu-remote-tabs-unverified = ඔබගේ ගිණුම සත්‍යා
 appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
+fxa-menu-sync-status-on = සමමුහුර්තය සක්‍රියයි
+fxa-menu-sync-status-off = සමමුහුර්තය අක්‍රියයි
 # Shown in place of "Sync is Off" on the sync status button when the user has
 # never signed in. Sync is a verb, short for synchronize.
 fxa-menu-sync-your-data = ඔබගේ දත්ත සමමුහුර්ත කරන්න
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = ඔබගේ දත්ත සමමුහුර්ත නොවේ.
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = සක්‍රිය කරන්න
+fxa-menu-sync-status-turn-on-button-aria-label = සක්‍රිය කරන්න
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = සමමුහුර්තයට පිවිසෙන්න
