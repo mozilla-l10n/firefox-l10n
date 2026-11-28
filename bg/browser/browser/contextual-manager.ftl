@@ -158,7 +158,7 @@ contextual-manager-passwords-delete-password-success-button = Готово
 contextual-manager-passwords-radiobutton-all = Всички ({ $total })
 # Radiobutton label to display total number of alerts
 #   $total (number) - Total number of alerts
-contextual-manager-passwords-radiobutton-alerts = Сигнали ({ $total })
+contextual-manager-passwords-radiobutton-alerts = Непълни ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Премахване на парола?
 # This message warns the user that deleting a login is permanent.
@@ -265,6 +265,14 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Промените няма да бъдат запазени.
 contextual-manager-passwords-discard-changes-close-button = Затваряне
 contextual-manager-passwords-discard-changes-go-back-button = Връщане назад
+# Checkbox label to confirm the deletion of saved passwords when per-device sync is enabled
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-all-passwords-checkbox =
+    { $total ->
+        [1] Да, изтриване на паролата
+        [one] Да, изтриване на паролите
+       *[other] Да, изтриване на паролите
+    }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = За да видите запазените пароли, въведете главната парола.
 # This string informs the user their primary password is used to authenticate and access their passwords
