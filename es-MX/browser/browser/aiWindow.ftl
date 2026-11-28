@@ -363,3 +363,17 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Descartar { $text }
     .title = Descartar { $text }
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+ai-smart-form-fill-close-review-button =
+    .label = Cerrar
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } pestaña
+       *[other] { $tabs } pestañas
+    }
