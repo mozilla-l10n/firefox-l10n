@@ -9,8 +9,8 @@
 
 device-type-phones = Tālruņi
 device-type-tablets = Planšetes
-device-type-laptops = Klēpjdators
-device-type-televisions = TVs
-device-type-consoles = Spēļu konsole
+device-type-laptops = Klēpjdatori
+device-type-televisions = TV
+device-type-consoles = Spēļu konsoles
 device-type-watches = Pulksteņi
 device-type-custom = Pielāgots

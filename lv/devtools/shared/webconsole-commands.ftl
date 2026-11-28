@@ -22,30 +22,30 @@ webconsole-commands-usage-unblock =
 
 # Displayed when a string is copied to the clipboard with the copy() command,
 # for example copy({hello: "world"}).
-webconsole-commands-copy-value-to-clipboard = Virkne tika kopēta starpliktuvē.
+webconsole-commands-copy-value-to-clipboard = Virkne tika ievietota starpliktuvē.
 # Displayed when the copy() command can’t stringify an object. “copy” is a
 # function name and should not be translated.
 # Variables:
 #   $error (String) - The original error message.
-webconsole-commands-copy-error = Komanda `copy` neizdevās, objekts nevar veidot virkni: { $error }
+webconsole-commands-copy-error = Komanda `copy` neizdevās, objektu nevar pārveidot par virkni: { $error }
 # Displayed when the :block command is successful.
 # Variables:
 #   $url (String) - The URL filter.
-webconsole-commands-blocked-url = Pieprasījumi uz URL, kas satur “{ $url }”, tagad ir bloķēti
+webconsole-commands-blocked-url = URL pieprasījumi, kas satur “{ $url }”, tagad ir liegti
 # Displayed when the :unblock command is successful.
 # Variables:
 #   $url (String) - The URL filter.
-webconsole-commands-unblocked-url = Noņemts bloķējošais filtrs “{ $url }”
+webconsole-commands-unblocked-url = Noņemts aizturošais atsijātājs “{ $url }”
 # Displayed when no filter is passed to the :block or :unblock commands.
-webconsole-commands-block-arg-missing = Nav norādīts filtrs
+webconsole-commands-block-arg-missing = Netika norādīts neviens atsijātājs
 
 ## Messages displayed when the :trace command starts or stops the JavaScript
 ## Tracer.
 
-webconsole-commands-start-tracing-to-web-console = Sākta izsekošana tīmekļa konsolē
-webconsole-commands-start-tracing-to-debugger-sidebar = Sākta izsekošana līdz atkļūdotāja sānu joslai
-webconsole-commands-start-tracing-to-stdout = Sākta izsekošana uz standarta izeju
-webconsole-commands-start-tracing-to-profiler = Sākta izsekošana uz Profiler. Izsekošanas dati tiks parādīti Profiler pēc apturēšanas.
+webconsole-commands-start-tracing-to-web-console = Uzsākta trasēšana tīmekļa konsolē
+webconsole-commands-start-tracing-to-debugger-sidebar = Uzsākta trasēšana atkļūdotāja sānjoslā
+webconsole-commands-start-tracing-to-stdout = Uzsākta trasēšana stdout
+webconsole-commands-start-tracing-to-profiler = Uzsākta trasēšana profilētājā. Izsekošanas dati tiks attēloti profilētājā pēc apturēšanas.
 webconsole-commands-stop-tracing = Apturēta izsekošana
 # Displayed when the tracer stops for a reason other than the user request,
 # for example reaching the max-depth option, or an infinite loop.

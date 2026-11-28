@@ -423,15 +423,15 @@ smartwindow-onboarding-save =
 ai-smart-form-fill-autocomplete-label = Fyll i från källor
 ai-smart-form-fill-autocomplete-loading = Laddar
 ai-smart-form-fill-autocomplete-sources-label = Fyll i från källor
-ai-smart-form-fill-autocomplete-choose-tabs = Öppna eller välj sidor relaterade till detta formulär för att få autofyllförslag
-ai-smart-form-fill-autocomplete-open-tabs = Öppna sidor relaterade till detta formulär för att få autofyllförslag
+ai-smart-form-fill-autocomplete-choose-tabs = Öppna eller välj sidor som hör till formuläret för att få förslag på automatisk ifyllning
+ai-smart-form-fill-autocomplete-open-tabs = Öppna sidor som rör formuläret för att få förslag på automatisk ifyllning
 ai-smart-form-fill-close-review-button =
     .label = Stäng
 # Variables:
 #   $tabs (number) - The number of tabs used as a source for autofill
 ai-smart-form-fill-autocomplete-tabs-count =
     { $tabs ->
-        [one] flik { $tabs }
+        [one] { $tabs } flik
        *[other] { $tabs } flikar
     }
 # Button in the autocomplete row that opens the dialog for choosing sources.
@@ -449,38 +449,38 @@ ai-smart-form-fill-cancel-tab-select-button =
 ai-smart-form-fill-accept-tab-select-button =
     .label = Klar
 ai-smart-form-fill-fill-form-button =
-    .label = Fyll i formuläret
+    .label = Fyll i formulär
 ai-smart-form-fill-review-heading = Granska förslag
 # Variables:
 #   $count (number) - The number of generated form field suggestions
 ai-smart-form-fill-review-description =
     { $count ->
-        [one] Vi hittade förslag för fältet { $count }. Redigera eller ta bort allt som inte är korrekt.
-       *[other] Vi hittade förslag för { $count } fält. Redigera eller ta bort allt som inte är korrekt.
+        [one] Vi har förslag för { $count } fält. Ändra eller ta bort sådant som inte stämmer.
+       *[other] Vi har förslag för { $count } fält. Ändra eller ta bort sådant som inte stämmer.
     }
 # Used when a field of the form being filled in doesn’t have a name to use as
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Fält
 ai-smart-form-fill-jump-to-bottom =
-    .aria-label = Hoppa till botten av förslag
-    .tooltiptext = Hoppa till slutet av chatten
+    .aria-label = Gå till slutet av förslagen
+    .tooltiptext = Gå till slutet
 ai-smart-form-fill-cancel-review-button =
     .label = Avbryt
-ai-smart-form-fill-finding-suggestions = Hittar förslag
+ai-smart-form-fill-finding-suggestions = Söker efter förslag
 # Accessible name for the button showing a “stop” icon, read by screen readers
 # only.
 ai-smart-form-fill-stop-finding-suggestions =
-    .aria-label = Sluta hitta förslag
-ai-smart-form-fill-success-heading = Förslag i formuläret
+    .aria-label = Avbryt sökningen efter förslag
+ai-smart-form-fill-success-heading = Förslag har lagts till i formuläret
 ai-smart-form-fill-success-description = Granska formuläret och fyll i eventuella återstående fält innan du skickar in.
-ai-smart-form-fill-no-changes-heading = Inget tillagt i formuläret
-ai-smart-form-fill-no-changes-description = Vissa fält kan ha ändrats eller redan vara ifyllda. Försök igen, rensa ett fält, markera det och välj sedan Fyll i från dina källor.
+ai-smart-form-fill-no-changes-heading = Inget har lagts till i formuläret
+ai-smart-form-fill-no-changes-description = Vissa fält kan ha ändrats eller redan varit ifyllda. Om du vill försöka igen tömmer du ett fält, markerar det och väljer sedan Fyll i från källor.
 ai-smart-form-fill-no-suggestions-heading = Inga förslag hittades
-ai-smart-form-fill-no-suggestions-description = Vi kunde inte läsa det här formuläret eller hitta bra matchningar i dina källor. Att använda olika källor kan hjälpa.
-ai-smart-form-fill-error-try-again-heading = Förslag lades inte till formuläret
-ai-smart-form-fill-error-try-again-description = Något gick fel. Försök lägga till förslag igen.
-ai-smart-form-fill-error-heading = Förslag lades inte till
-ai-smart-form-fill-error-description = Något gick fel. För att försöka igen väljer du ett formulärfält och väljer Fyll i från dina källor.
+ai-smart-form-fill-no-suggestions-description = Vi kunde inte läsa formuläret eller hitta några bra matchningar i dina källor. Prova gärna andra källor.
+ai-smart-form-fill-error-try-again-heading = Förslagen kunde inte läggas till i formuläret
+ai-smart-form-fill-error-try-again-description = Något gick fel. Försök att lägga till förslagen på nytt.
+ai-smart-form-fill-error-heading = Det gick inte att lägga till förslag
+ai-smart-form-fill-error-description = Något gick fel. Försök igen genom att markera ett formulärfält och välja Fyll i från källor.
 ai-smart-form-fill-try-again-button =
     .label = Försök igen

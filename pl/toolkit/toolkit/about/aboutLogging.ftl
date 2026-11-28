@@ -69,6 +69,8 @@ about-logging-preset-windows-description = Moduły do diagnozowania problemów w
 # Input Method refers to the IME.
 # IME is a component of the operating system used to input Asian languages.
 about-logging-preset-ime-label = Metoda wprowadzania
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = Moduły do diagnozowania problemów z klawiaturą, w tym z edytorem metod wprowadzania (IME)
 about-logging-preset-custom-label = Inne
 about-logging-preset-custom-description = Ręcznie wybrane moduły
 # Error handling

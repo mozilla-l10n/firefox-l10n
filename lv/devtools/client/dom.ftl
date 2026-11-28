@@ -8,4 +8,4 @@
 # Placeholder for the search box in the DOM panel toolbar.
 dom-panel-filter-placeholder = Atsijāt DOM panelī
 # Tooltip for the button that refreshes the DOM panel.
-dom-panel-refresh-button-title = Atjaunināt
+dom-panel-refresh-button-title = Atsvaidzināt
