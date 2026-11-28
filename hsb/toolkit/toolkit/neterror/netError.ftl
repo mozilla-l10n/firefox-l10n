@@ -161,6 +161,7 @@ neterror-unsafe-content-type = Prošu stajće so z wobsedźerjemi websydła do z
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } { $hostname } njedowěrja, dokelž zwisk wěsty njeje. Spytajće URL do HTTPS změnić.
+neterror-http-auth-scheme-disabled = Jeli dyrbiće so pola tutoho sydła přizjewić, stajće so ze swojim systemowym administratorom do zwiska.
 neterror-nss-failure-not-verified = Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.
 neterror-nss-failure-contact-website = Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.
 # Variables:

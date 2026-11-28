@@ -51,3 +51,25 @@ dom-form-validation-step-mismatch-one-value = Prošu wubjerće płaćiwu hódnot
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Prošu wubjerće hódnotu mjez { $minimum } a { $maximum }.
 dom-form-validation-bad-input-number = Prošu zapodajće ličbu.
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long =
+    { $maxLength ->
+        [one] Skrótšće prošu tutón tekst na { $maxLengthText } znamješko abo mjenje (aktualna dołhosć: { $textLength }).
+        [two] Skrótšće prošu tutón tekst na { $maxLengthText } znamješce abo mjenje (aktualna dołhosć: { $textLength }).
+        [few] Skrótšće prošu tutón tekst na { $maxLengthText } znamješka abo mjenje (aktualna dołhosć: { $textLength }).
+       *[other] Skrótšće prošu tutón tekst na { $maxLengthText } znamješkow abo mjenje (aktualna dołhosć: { $textLength }).
+    }
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short =
+    { $minLength ->
+        [one] Wužiwajće prošu znajmjeńša { $minLengthText } znamješko (aktualna dołhosć: { $textLength }).
+        [two] Wužiwajće prošu znajmjeńša { $minLengthText } znamješce (aktualna dołhosć: { $textLength }).
+        [few] Wužiwajće prošu znajmjeńša { $minLengthText } znamješka (aktualna dołhosć: { $textLength }).
+       *[other] Wužiwajće prošu znajmjeńša { $minLengthText } znamješkow (aktualna dołhosć: { $textLength }).
+    }
