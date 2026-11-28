@@ -857,6 +857,25 @@ urlbar-result-dates-today = { $name } · ٱمرۊز
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · ٱمرۊز تموم ابۊ
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = { $timeLeft } باقی منده
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }، { $airlineName }
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

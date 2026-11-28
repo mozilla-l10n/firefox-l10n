@@ -383,10 +383,18 @@ smartwindow-onboarding-save =
 ai-smart-form-fill-autocomplete-loading = هونی بار اونه
 ai-smart-form-fill-close-review-button =
     .label = بستن
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = آلشت بونچکا
+ai-smart-form-fill-suggested-tabs-heading = بلگه یل پؽشنهاڌی
+ai-smart-form-fill-other-tabs-heading = بلگه یل دیری
 ai-smart-form-fill-cancel-tab-select-button =
     .label = لقو
 ai-smart-form-fill-accept-tab-select-button =
     .label = ٱنجوم وابی
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = فیلد
 ai-smart-form-fill-cancel-review-button =
     .label = لقو
 ai-smart-form-fill-try-again-button =
