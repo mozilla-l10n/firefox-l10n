@@ -6,7 +6,7 @@
 ## Unresponsive script dialog
 
 dom-slow-script-dialog-title = Ostrzeżenie o nieodpowiadającym skrypcie
-dom-slow-script-dialog-message = Skrypt na tej stronie może być zajęty lub przestał odpowiadać. Można przerwać ten skrypt teraz lub kontynuować, by sprawdzić, czy jego wykonywanie się zakończy.
+dom-slow-script-dialog-message = Skrypt na tej stronie może być zajęty lub przestał odpowiadać. Można przerwać ten skrypt teraz lub kontynuować, aby sprawdzić, czy jego wykonywanie się zakończy.
 # Variables:
 #   $location (String) - URL of the script, followed by a colon and the line number (e.g. “https://example.com/script.js:42”). Long URLs are shortened with an ellipsis in the middle.
 dom-slow-script-dialog-location = Skrypt: { $location }
@@ -21,5 +21,5 @@ dom-slow-addon-script-dialog-message =
     Skrypt rozszerzenia „{ $extensionName }” działający na tej stronie spowalnia działanie programu { -brand-short-name }.
     
     Skrypt ten może być zajęty lub przestał zupełnie odpowiadać.
-    Można przerwać ten skrypt teraz lub kontynuować, by sprawdzić, czy jego wykonywanie się zakończy.
+    Można przerwać ten skrypt teraz lub kontynuować, aby sprawdzić, czy jego wykonywanie się zakończy.
 dom-slow-addon-script-dialog-checkbox = Wstrzymywanie tego skryptu do następnego odświeżenia strony
