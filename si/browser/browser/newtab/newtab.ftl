@@ -318,6 +318,11 @@ newtab-section-mangage-topics-blocked-topics = අවහිරයි
 
 newtab-wallpaper-feature-highlight-cta = බිතුපත තෝරන්න
 
+## Strings for download mobile highlight
+
+newtab-download-mobile-highlight-image =
+    .aria-label = දුරකථනයට { -brand-product-name } බාගැනීමට QR කේතය
+
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
 

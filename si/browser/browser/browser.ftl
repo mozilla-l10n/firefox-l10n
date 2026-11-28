@@ -662,6 +662,16 @@ toolbar-overflow-customize-button =
 toolbar-button-logins =
     .label = මුරපද
     .tooltiptext = සුරැකි මුරපද කළමනාකරණය සහ දකින්න
+qrcode-panel-error =
+    .message = QR කේතය උත්පාදනයට අසමත් විය. නැවත උත්සාහ කරන්න.
+qrcode-copy-success =
+    .message = QR කේතය පසුරුපුවරුවට පිටපත් විය
+qrcode-copy-error =
+    .message = QR කේතය පිටපත් කිරීමට අසමත් විය
+qrcode-window-title = QR කේතය
+qrcode-dialog-title = QR කේතය
+qrcode-image =
+    .aria-label = QR කේතය
 toolbar-button-save-page =
     .label = පිටුව සුරකින්න
     .tooltiptext = පිටුව සුරකින්න ({ $shortcut })
@@ -708,6 +718,14 @@ toolbar-button-copy =
 toolbar-button-paste =
     .label = අලවන්න
     .tooltiptext = අලවන්න ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrකේතය
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrකේතය-{ $domain }
 
 ## EME notification panel
 

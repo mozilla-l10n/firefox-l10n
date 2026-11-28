@@ -7,6 +7,8 @@
 
 share-panel-copy-link =
     .label = සබැඳියේ පිටපතක්
+share-panel-qr-code-2 =
+    .label = QR කේතයක් සාදන්න
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
