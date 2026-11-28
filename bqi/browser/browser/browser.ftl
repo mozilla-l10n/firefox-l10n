@@ -876,6 +876,11 @@ urlbar-result-flight-status-airport = { $city } ({ $code })
 #   $airlineName (string) - The airline name.
 urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }، { $airlineName }
 
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+urlbar-result-sports-status-final = فینال
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1002,6 +1007,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = پیتینیڌنا دیندایی
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = ره نهنگا
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1171,6 +1181,7 @@ qrcode-save-button =
     .label = زفت
 qrcode-window-title = QR کود
 qrcode-dialog-title = QR کود
+qrcode-dialog-title-download-mobile = دانلود { -brand-product-name } سی موبایل
 qrcode-image =
     .aria-label = QR کود
 qrcode-close-button =
@@ -1641,6 +1652,8 @@ trustpanel-description-enabled-insecure = { -brand-product-name } موتوجه �
 trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
 trustpanel-description-disabled = { -brand-product-name } قیر فعال هڌ. پؽشنهاڌ اکۊنیم زفت وابیڌنا ن دووارته رۊشن کۊنین.
 trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل وبگه
+trustpanel-delete-site-data-button = پاک کردن داده یل وبگه
+trustpanel-fix-site-issue-button = رفع موشکل وبگه
 trustpanel-privacy-link = سامووا هریم سیخومی
 trustpanel-manage-settings-button = دؽوۉداری سامووا
 # Variables
@@ -1650,6 +1663,10 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = روفتن کۊکیا وو داده یل وبگه گاشڌ ایسا ن ز وبگه یل و در کونه وو سبدا استیڌنا ایسا ن پتی کونه.
 trustpanel-clear-cookies-subview-button-clear = روفتن
 trustpanel-clear-cookies-subview-button-cancel = لقو
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = پاک کردن داده یل وبگه سی { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =

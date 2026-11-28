@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Pytaj o potwierdzenie przed zamknięciem wielu kart
     .accesskey = a
+ask-on-close-multiple-tabs-pbmode =
+    .label = Pytaj o potwierdzenie przed zamknięciem wielu kart w prywatnych oknach
+    .accesskey = P
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted
