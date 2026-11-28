@@ -421,3 +421,11 @@ smartwindow-onboarding-default-window =
     .label = Cychwyn yn { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Cadw a mynd
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Llanw o'r ffynonellau

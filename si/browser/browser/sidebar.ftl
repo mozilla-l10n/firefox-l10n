@@ -5,10 +5,17 @@
 menu-view-genai-chat =
     .label = AI කතා ක්‍රමලේඛය
 
+## Labels for sidebar customize panel
+
+sidebar-vertical-tabs =
+    .label = සිරස් පටිති
+
 ## Labels for sidebar context menu items
 
 sidebar-context-menu-copy-link =
     .label = සබැඳියේ පිටපතක්
+sidebar-context-menu-enable-vertical-tabs =
+    .label = සිරස් පටිති සක්‍රිය කරන්න
 
 ## Labels for sidebar menu items.
 

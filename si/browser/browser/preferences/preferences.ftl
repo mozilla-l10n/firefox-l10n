@@ -231,6 +231,10 @@ settings-tabs-drag-to-create-tab-groups =
     .label = පටිති සමූහ සෑදීමට පටිති අදින්න
 browser-layout-header2 =
     .label = අතිරික්සුවේ පිරිසැලසුම
+browser-layout-vertical-tabs2 =
+    .description = පැති තීරුවේ පටිති ඇත
+    .label = සිරස් පටිති
+    .title = පැති තීරුවේ පටිති ඇත
 
 ## General Section - Language & Appearance
 

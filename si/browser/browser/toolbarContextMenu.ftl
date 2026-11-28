@@ -29,6 +29,10 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] වැසූ පටිති යළි අරින්න
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = සිරස් පටිති සක්‍රිය කරන්න
+toolbar-context-turn-off-vertical-tabs =
+    .label = සිරස් පටිති අක්‍රිය කරන්න
 toolbar-context-menu-manage-extension =
     .label = දිගුව කළමනාකරණය
     .accesskey = E

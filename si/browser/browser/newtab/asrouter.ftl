@@ -244,6 +244,10 @@ fxa-menu-message-close-button =
     .title = වසන්න
 fxa-menu-message-mobile-primary-text = ඔබගේ දුරකථනයට පටිති යවන්න
 
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = මෙහි සිරස් පටිති සහ පටිති සමූහ ඇත!
+
 ## Refresh Firefox infobar
 ##
 ## Shown at startup when the profile has not been used in over 60 days, or when

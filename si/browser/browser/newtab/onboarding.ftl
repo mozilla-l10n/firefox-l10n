@@ -261,6 +261,12 @@ onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-ne
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = මෙහි සිරස් පටිති ඇත
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = සිරස් පටිති හැඳින්වීම
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = සිරස් පටිති අත්විඳින්න
 onboarding-flair-text = නව!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = තිරස් පටිති තබාගන්න

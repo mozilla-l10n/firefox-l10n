@@ -62,6 +62,11 @@ bookmarks-toolbar-callout-2a-secondary-button-label = මෙවලම් තී�
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = කාර්ය තීරුවට අමුණන්න
 
+## Sidebar Vertical Tabs Strings
+
+vertical-tabs-callout-1-cta-button = සිරස් පටිති අත්විඳින්න
+vertical-tabs-callout-2-title = බොහෝ පටිති විවෘතව තිබෙනවාද? සිරස් පටිති අත්හදා බලන්න.
+
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-dismiss-button = පැති තීරුව සඟවන්න
