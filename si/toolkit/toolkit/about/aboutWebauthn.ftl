@@ -11,3 +11,8 @@
 
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = විධාන අවසර (pinUvAuthToken)
+
+##
+
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = ආදර්ශයක් දැනටමත් පවතී

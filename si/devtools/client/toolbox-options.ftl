@@ -62,6 +62,12 @@ options-sourceeditor-tabsize-label = පටිත්තෙහි තරම
 options-sourceeditor-keybinding-label = යතුරු බැඳීම්
 options-sourceeditor-keybinding-default-label = පෙරනිමි
 
+## Local Mode section
+
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = මෙම බහාලුම නොපවතී හෝ වලංගු නොවේ.
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

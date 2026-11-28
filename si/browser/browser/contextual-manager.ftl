@@ -47,6 +47,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV ගොනුව
     }
 contextual-manager-passwords-import-success-button = අහවරයි
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = මුරපද ආයාතයට නොහැකි විය
+    .message = ඔබගේ ගොනුවේ වියමන අඩවි, පරිශීලක නාම සහ මුරපද සඳහා තීරු ඇතුළත් බවට වග බලා ගන්න.
 contextual-manager-passwords-import-error-button-cancel = අවලංගු
 contextual-manager-passwords-export-success-button = අහවරයි
 contextual-manager-export-passwords-dialog-confirm-button = දිගටම නිර්යාත කරන්න
@@ -74,6 +77,10 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] ඉවත් කරන්න
        *[other] සියල්ල ඉවතලන්න
     }
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url } සඳහා මුරපදයක් සහ පරිශීලක නාමයක් දැනටමත් පවතී
 contextual-manager-passwords-update-password-success-button = අහවරයි
 contextual-manager-passwords-delete-password-success-button = අහවරයි
 # This message is displayed to make sure that a user wants to delete an existing login.
