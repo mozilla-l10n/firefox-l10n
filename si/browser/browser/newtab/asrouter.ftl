@@ -219,6 +219,13 @@ launch-on-login-infobar-final-message = <strong>ඔබගේ පරිගණක�
 launch-on-login-infobar-final-reject-button = එපා, ස්තුතියි
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = කාර්ය තීරුවට අමුණන්න
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න

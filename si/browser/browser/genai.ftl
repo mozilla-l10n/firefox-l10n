@@ -38,13 +38,32 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = { $provider } වෙතින් අසන්න
+genai-more-actions-ai-generic =
+    .label = AI වෙතින් අසන්න
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = { $provider } වෙතින් අසන්න
+genai-input-ask-smart-window =
+    .placeholder = අසන්න…
 genai-input-ask-generic =
     .placeholder = AI කතා ක්‍රමලේඛයෙන් අහන්න…
+genai-input-ask-ai =
+    .placeholder = AI වෙතින් අසන්න…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } වෙතින් අසන්න…
 genai-shortcuts-hide =
     .label = කතා ක්‍රමලේඛයේ කෙටිමඟ සඟවන්න
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } වෙතින් අසන්න
+    .accesskey = z
+genai-menu-ask-smart-window =
+    .label = අසන්න...
+    .accesskey = z
 
 ## Chatbot header
 
@@ -83,3 +102,11 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
+
+## Link previews
+
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } වෙතින් අසන්න
+highlight-to-search-settings-ask-generic =
+    .label = AI වෙතින් අසන්න
