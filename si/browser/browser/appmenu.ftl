@@ -260,6 +260,8 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = දත්ත උල්ලංඝන ඇඟවීම් ලබන්න
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = සැබෑ වි-තැපෑල හා දුරකථනය ආවරණයට
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } බාගන්න
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenu-services-header = මාගේ සේවා
 

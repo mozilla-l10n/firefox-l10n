@@ -671,6 +671,7 @@ qrcode-copy-error =
     .message = QR කේතය පිටපත් කිරීමට අසමත් විය
 qrcode-window-title = QR කේතය
 qrcode-dialog-title = QR කේතය
+qrcode-dialog-title-download-mobile = දුරකථනයට { -brand-product-name } බාගන්න.
 qrcode-image =
     .aria-label = QR කේතය
 toolbar-button-save-page =

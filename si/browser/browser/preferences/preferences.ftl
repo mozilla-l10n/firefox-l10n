@@ -982,6 +982,10 @@ passports-delete-passport-button-label =
 passports-edit-passport-button-label =
     .aria-label = සංස්කරණය
 passports-delete-passport-prompt-title = මෙම ගමන් බලපත්‍රය මකන්නද?
+pane-passwords-autofill-title2 = මුරපද හා ස්වයං පිරවුම
+    .title = මුරපද හා ස්වයං පිරවුම
+preferences-passwords-autofill-header =
+    .heading = මුරපද හා ස්වයං පිරවුම
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1377,6 +1381,8 @@ downloads-folder-name = බාගැනීම්
 
 ## Appearance page
 
+preferences-appearance-header =
+    .heading = පෙනුම
 related-settings-home-link =
     .label = { -firefox-home-brand-name } අභිරුචිකරණය
 

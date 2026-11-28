@@ -283,5 +283,13 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = මුරපද සහ ගෙවීම් ඇතුළත් නොවේ
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = මුරපද සහ ගෙවීම් ඇතුළත් වේ
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = උපස්ථ ගොනු මුරපදයක් සාදන්න
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-easy-setup-item-text-3 = මුරපද සහ ගෙවීම් ඇතුළත් නොවේ

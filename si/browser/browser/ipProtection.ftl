@@ -7,3 +7,7 @@
 
 ipprotection-locations-subview =
     .title = ස්ථානය තෝරන්න
+
+## IP Protection Settings
+
+ip-protection-site-rules-empty = ඔබ සකසන නීති මෙහි දිස්වනු ඇත.

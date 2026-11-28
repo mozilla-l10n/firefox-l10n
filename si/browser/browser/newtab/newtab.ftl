@@ -249,6 +249,11 @@ newtab-custom-row-selector2 =
         }
 newtab-custom-settings = වෙනත් සැකසුම් කළමනාකරණය
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = පෙනුම
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over

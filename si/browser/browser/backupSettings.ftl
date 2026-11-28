@@ -23,3 +23,10 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-type-add =
     .label = දත්ත තබාගෙන නව පැතිකඩක් සාදන්න
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-download-moz-browser-button = බාගන්න
