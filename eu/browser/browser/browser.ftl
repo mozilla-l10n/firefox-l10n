@@ -1954,6 +1954,7 @@ trustpanel-blocker-section-header2 =
 ## Feature callout shown the first time the tracker count appears in the URL bar
 
 urlbar-trust-icon-tracker-count-callout-title = Zure alde lan egiten duen pribatutasuna
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name }(e) zailtasunak jartzen dizkie zure jarraipena egin nahi duten enpresei. Ireki babesaren ikonoa ikusteko zein jarraipen-elementu blokeatu ditugun.
 
 ## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
 ## Each one names a feature the user can turn off to check whether it causes

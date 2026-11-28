@@ -68,9 +68,9 @@ about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Žurnāla moduļi, lai diagnosticētu Microsoft Windows specifiskas problēmas
 # Input Method refers to the IME.
 # IME is a component of the operating system used to input Asian languages.
-about-logging-preset-ime-label = Ievades metode
+about-logging-preset-ime-label = Ievades veids
 # IME is a component of the operating system used to input Asian languages.
-about-logging-preset-ime-description = Žurnāla moduļi tastatūras problēmu diagnosticēšanai, tostarp ievades metodes redaktors (IME)
+about-logging-preset-ime-description = Žurnāla moduļi tastatūras nebūšanu noteikšana, tajā skaitā ievades veida labotājs (IME)
 about-logging-preset-custom-label = Pielāgots
 about-logging-preset-custom-description = Manuāli atlasīti žurnāla moduļi
 # Error handling
