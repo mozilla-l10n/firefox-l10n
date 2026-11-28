@@ -1987,6 +1987,19 @@ trustpanel-blocker-section-header2 =
        *[many] <span data-l10n-name="count">{ $count }</span> elementów śledzących zablokowanych na tej witrynie
     }
 
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Prywatność dopasowana do Ciebie
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } utrudnia firmom śledzenie Twoich działań w Internecie. Kliknij ikonę tarczy, aby sprawdzić, jakie elementy śledzące zostały zablokowane.
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Rozszerzenia
+trustpanel-site-issue-step-vpn = Wbudowana sieć VPN
+trustpanel-site-issue-step-etp = Wzmocniona ochrona przed śledzeniem
+
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header2-redesign =

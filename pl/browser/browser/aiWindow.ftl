@@ -415,3 +415,15 @@ smartwindow-onboarding-default-window =
     .label = Uruchamiaj w { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }
 smartwindow-onboarding-save =
     .label = Zachowaj
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Wypełnij na podstawie źródeł
+ai-smart-form-fill-autocomplete-loading = Wczytywanie
+ai-smart-form-fill-autocomplete-sources-label = Wypełnij na podstawie źródeł
+ai-smart-form-fill-autocomplete-choose-tabs = Otwórz lub wybierz strony powiązane z tym formularzem, aby otrzymać podpowiedzi automatycznego wypełniania
+ai-smart-form-fill-autocomplete-open-tabs = Otwórz strony powiązane z tym formularzem, aby otrzymać automatyczne podpowiedzi

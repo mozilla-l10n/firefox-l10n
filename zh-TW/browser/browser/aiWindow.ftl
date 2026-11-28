@@ -465,6 +465,6 @@ ai-smart-form-fill-no-suggestions-description = 無法讀取這份表單，也�
 ai-smart-form-fill-error-try-again-heading = 未將建議內容填入表單
 ai-smart-form-fill-error-try-again-description = 有些東西不對勁。請嘗試再次新增建議內容。
 ai-smart-form-fill-error-heading = 未加入建議內容
-ai-smart-form-fill-error-description = 有些東西不對鏡。若要重試，請選擇表單欄位，然後選擇「從其他來源填寫」。
+ai-smart-form-fill-error-description = 有些東西不對勁。若要重試，請選擇表單欄位，然後選擇「從其他來源填寫」。
 ai-smart-form-fill-try-again-button =
     .label = 重試

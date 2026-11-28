@@ -895,6 +895,66 @@ urlbar-result-dates-today = { $name } · 今天
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · 今天結束
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = 不要顯示航班動態建議
+    .accesskey = n
+urlbar-result-flight-status-status-ontime = 準時
+urlbar-result-flight-status-status-inflight = 飛行中
+urlbar-result-flight-status-status-arrived = 抵達
+urlbar-result-flight-status-status-cancelled = 取消
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = 延誤至 { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = 剩餘 { $timeLeft }
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city }（{ $code }）
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $airlineName } { $flightNumber }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = 航班動態建議
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } vs { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } { $time }
+urlbar-result-sports-status-live = 比賽進行中
+urlbar-result-sports-status-final = 比賽結束
+urlbar-result-menu-dont-show-sports = 不要顯示體育賽事建議
+    .accesskey = n
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = 體育賽事建議
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1027,6 +1087,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = 最近搜尋內容
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = 捷徑
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1716,8 +1781,20 @@ trustpanel-clear-cookies-subview-button-clear = 清除
 trustpanel-clear-cookies-subview-button-cancel = 取消
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = 刪除 { $host } 的網站資料
+trustpanel-clear-cookies-description-redesign = 您將登出網站，也可能會清除購物車中的商品。
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = { $host } 的連線保護
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = { $host } 的連線資訊
+trustpanel-connection-secure = 與此網站的連線安全。
+trustpanel-connection-not-secure = 與此網站的連線不安全。
+trustpanel-connection-not-secure-description = 請勿輸入密碼、信用卡號等資訊，以免遭竊。
 trustpanel-siteinformation-morelink = 更多網站資訊
 trustpanel-blocker-see-all = 檢視全部
 trustpanel-blocker-see-trackers-button = 檢視追蹤器
@@ -1733,6 +1810,11 @@ urlbar-trust-icon-notsecure-label = 不安全
 # Variables
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label = 已封鎖 { $count } 組追蹤器
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip = 已封鎖此網站上的 { $count } 組追蹤器
+urlbar-trust-icon-no-trackers-found-tooltip = 未在此網站發現追蹤器
+urlbar-trust-icon-tracking-protection-off-tooltip = 已關閉針對此網站的追蹤保護功能
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1743,6 +1825,16 @@ trustpanel-tracking-header = { -brand-product-name } 放行了下列項目，讓
 trustpanel-tracking-description = 如果完全沒有追蹤器，某些按鈕、表單、登入欄位可能無法運作。
 trustpanel-insecure-section-header = 您的連線並不安全
 trustpanel-insecure-description = 您傳送到此網站的資料未經加密，可能會被其他人檢視、竊取、竄改。
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = 網站無法正常運作嗎？可試試以下步驟。
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = 逐一關閉下列功能，看看是否能解決問題：
+trustpanel-report-broken-site-button = 回報網站問題
+trustpanel-report-broken-site-description = 您回報的內容可協助我們為所有人改善 { -brand-short-name }。
 trustpanel-list-label-tracking-cookies = { $count } 個跨網站追蹤 Cookie
 trustpanel-list-label-tracking-content = 追蹤用內容
 trustpanel-list-label-fingerprinter = { $count } 個數位指紋追蹤程式
@@ -1767,6 +1859,19 @@ trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = 知道了！
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 進行免費掃描
 trustpanel-blocker-section-header2 = 已封鎖此網站上的 <span data-l10n-name="count">{ $count }</span> 組追蹤器
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = 適合您的隱私保護
+urlbar-trust-icon-tracker-count-callout-subtitle = { -brand-short-name } 讓企業更難掌握您的行蹤。可開啟盾牌，查看我們封鎖了哪些追蹤器。
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = 擴充套件
+trustpanel-site-issue-step-vpn = 內建 VPN
+trustpanel-site-issue-step-etp = 加強型追蹤保護
 
 ##  $count (String): the number of trackers blocked.
 

@@ -17,6 +17,7 @@ policy-AllowFileSelectionDialogs = 允許顯示檔案選擇對話框。
 policy-AppAutoUpdate = 開啟或關閉應用程式自動更新。
 policy-AppUpdatePin = 防止 { -brand-short-name } 更新超過特定版本。
 policy-AppUpdateURL = 自訂應用程式更新網址。
+policy-Authentication2 = 對支援整合式驗證的網站進行設定相關功能，以及要停用哪些 HTTP 驗證機制。
 policy-Authentication = 為支援的網站設定整合身分驗證方式。
 policy-AutofillAddressEnabled = 開啟地址自動填寫功能。
 policy-AutofillCreditCardEnabled = 開啟付款方式自動填寫功能。
