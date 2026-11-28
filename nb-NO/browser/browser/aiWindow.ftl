@@ -23,6 +23,9 @@ menu-history-chats-recent =
     .label = Nylige chatter
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Ny fane
+main-context-menu-open-link-new-smart-window-2 =
+    .label = Åpne i nytt { -smart-window-brand-name }
+    .accesskey = p
 
 ## Smart Window Toggle Button
 
@@ -121,10 +124,25 @@ aiwindow-input-model-select-button-label-fast = Hurtig
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Personlig
 aiwindow-input-model-select-button-label-custom = Tilpasset
+# Auto lets Smart Window pick the model for each request.
+aiwindow-input-model-select-button-label-auto = Automatisk
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Valgt standardmodell
+# Badge next to the Auto model in the smartbar model select, shown when Auto
+# isn't the default model.
+aiwindow-input-model-select-recommended-badge =
+    .label = Anbefalt
+    .title = Den anbefalte modellen
 aiwindow-input-model-select-settings-link = Modellinnstillinger
+
+## Descriptions shown under each model in the smartbar model select when the
+## Auto model is offered.
+
+aiwindow-input-model-select-auto-description = { -smart-window-brand-name } velger den beste modellen for oppgaven din
+aiwindow-input-model-select-fast-description = Raske svar når du har det travelt.
+aiwindow-input-model-select-flexible-description = Klar for mange ulike oppgaver.
+aiwindow-input-model-select-personal-description = Bra hvis du chatter og surfer på flere språk
 
 ## Firstrun memories onboarding
 
@@ -366,7 +384,23 @@ aiwindow-starter-dismiss =
 
 ## Single-page onboarding
 
+# The line break is intentional and is preserved when displayed.
+smartwindow-onboarding-welcome-subtitle =
+    Den samarbeider med deg for å få ting gjort.
+    Planlegg, sammenlign, utforsk og mye mer.
+smartwindow-onboarding-title = La oss tilpasse den til deg
+smartwindow-onboarding-subtitle = Konfigurer { -smart-window-brand-name } slik du vil. Gjør endringer når som helst i innstillingene.
+smartwindow-onboarding-model-label = Velg din AI-modell
+smartwindow-onboarding-model-description = Modellen driver chatter og handlinger i { -smart-window-brand-name }.
 smartwindow-onboarding-model-auto = Automatisk
 # Badge identifying the recommended model during onboarding: Mistral in the EEA, Auto elsewhere.
 smartwindow-onboarding-model-recommended = Anbefalt
 smartwindow-onboarding-model-auto-description = { -smart-window-brand-name } velger den beste modellen for oppgaven din
+smartwindow-onboarding-model-mistral-description = Bra hvis du chatter og surfer på flere språk
+smartwindow-onboarding-model-gemini-description = Raske svar når du har det travelt.
+smartwindow-onboarding-memories-label = Velg hvordan { -smart-window-brand-name } lærer om deg
+smartwindow-onboarding-memories-description = { -smart-window-brand-name } kan lære fra chatter, surfing eller begge deler for å skape minner. Den bruker dem til å tilpasse opplevelsen din over tid.
+smartwindow-onboarding-memories-both = Chatter og surfing
+smartwindow-onboarding-memories-browsing = Bare surfing
+smartwindow-onboarding-memories-chats = Kun chatter
+smartwindow-onboarding-memories-none = Ikke lær av aktivitet

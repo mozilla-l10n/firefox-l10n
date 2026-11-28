@@ -934,8 +934,17 @@ urlbar-result-dates-ends-today = { $name } · Skónči so dźensa
 ## The flight status suggestions shows the flight time, origin and destination
 ## and the status like delayed, etc.
 
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Namjety lětanskeho statusa njepokazać
+    .accesskey = l
+urlbar-result-flight-status-status-ontime = Po planje
+urlbar-result-flight-status-status-inflight = Po puću
 urlbar-result-flight-status-status-arrived = Přilećany
 urlbar-result-flight-status-status-cancelled = Anulowany
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Do { $departureEstimatedTime } zapozdźeny
 # Example: 30 min left
 # Variables:
 #   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"

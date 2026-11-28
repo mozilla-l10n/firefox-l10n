@@ -112,3 +112,6 @@ smart-window-model-qwen =
 smart-window-model-mistral =
     .description = Bra hvis du chatter og surfer på flere språk. Fullt navn: { $model } av { $ownerName }
     .label = { $shortName }
+smart-window-model-gemini =
+    .description = Raske svar når du har det travelt. Fullt navn: { $model } fra { $ownerName }
+    .label = { $shortName }
