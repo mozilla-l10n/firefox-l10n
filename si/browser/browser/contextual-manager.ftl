@@ -51,6 +51,7 @@ contextual-manager-passwords-import-error-heading-and-message =
     .heading = මුරපද ආයාතයට නොහැකි විය
     .message = ඔබගේ ගොනුවේ වියමන අඩවි, පරිශීලක නාම සහ මුරපද සඳහා තීරු ඇතුළත් බවට වග බලා ගන්න.
 contextual-manager-passwords-import-error-button-cancel = අවලංගු
+contextual-manager-passwords-import-learn-more = මුරපද ආයාතය ගැන දැනගන්න
 contextual-manager-passwords-export-success-button = අහවරයි
 contextual-manager-export-passwords-dialog-confirm-button = දිගටම නිර්යාත කරන්න
 # Title of the file picker dialog

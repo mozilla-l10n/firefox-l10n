@@ -61,6 +61,8 @@ firefoxview-history-nav = ඉතිහාසය
 firefoxview-history-header = ඉතිහාසය
 firefoxview-history-context-delete = ඉතිහාසයෙන් මකන්න
     .accesskey = D
+firefoxview-history-context-forget-site = අඩවිය අමතක කරන්න...
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

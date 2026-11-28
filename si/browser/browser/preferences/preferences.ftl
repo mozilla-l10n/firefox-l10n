@@ -1224,6 +1224,10 @@ permissions-microphone2 =
     .label = ශබ්දවාහිනිය
 permissions-notification2 =
     .label = දැනුම්දීම්
+permissions-data-section =
+    .heading = අවසර හා දත්ත
+pane-permissions-data-title2 = අවසර හා දත්ත
+    .title = අවසර හා දත්ත
 # Read-only state shown on each row of the website notifications list, in the
 # column headed "Allow notifications". "Always" is used where notifications can
 # also be delivered while Firefox is closed.

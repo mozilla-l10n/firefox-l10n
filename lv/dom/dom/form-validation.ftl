@@ -10,28 +10,28 @@
 ## as strings, unless they're only used to select a plural form, and don't use
 ## NUMBER() or DATETIME().
 
-dom-form-validation-value-missing = Lūdzu aizpildiet šo lauku.
-dom-form-validation-checkbox-missing = Lūdzu atzīmējiet šo rūtiņu, ja vēlaties turpināt.
-dom-form-validation-radio-missing = Lūdzu izvēlieties vienu no šīm iespējām.
+dom-form-validation-value-missing = Lūgums aizpildīt šo lauku.
+dom-form-validation-checkbox-missing = Lūgums atzīmēt šo rūtiņu, ja ir vēlēšanās turpināt.
+dom-form-validation-radio-missing = Lūgums atlasīt vienu no šīm iespējām.
 dom-form-validation-file-missing = Lūgums atlasīt datni.
-dom-form-validation-select-missing = Lūdzu izvēlieties vienu no saraksta elementiem.
+dom-form-validation-select-missing = Lūgums atlasīt vienu no sarakstā esošajiem vienumiem.
 dom-form-validation-invalid-email = Lūgums ievadīt e-pasta adresi.
 dom-form-validation-invalid-url = Lūgums ievadīt adreses URL.
 dom-form-validation-invalid-date = Lūgums ievadīt pareizu datumu.
-dom-form-validation-invalid-time = Lūdzu, ievadiet derīgu laiku.
-dom-form-validation-invalid-date-time = Lūdzu, ievadiet derīgu datumu un laiku.
-dom-form-validation-invalid-month = Lūdzu, ievadiet derīgu mēnesi.
-dom-form-validation-invalid-week = Lūdzu, ievadiet derīgu nedēļu.
+dom-form-validation-invalid-time = Lūgums ievadīt derīgu laiku.
+dom-form-validation-invalid-date-time = Lūgums ievadīt derīgu datumu un laiku.
+dom-form-validation-invalid-month = Lūgums ievadīt derīgu mēnesi.
+dom-form-validation-invalid-week = Lūgums ievadīt derīgu nedēļu.
 dom-form-validation-pattern-mismatch = Lūgums ievērot pieprasīto pierakstu.
 # Variables:
 #   $title (String) - The value of the title attribute of the field, possibly truncated.
 dom-form-validation-pattern-mismatch-with-title = Lūgums ievērot pieprasīto pierakstu: { $title }.
 # Variables:
 #   $maximum (String) - The maximum value allowed in the field, a number.
-dom-form-validation-number-range-overflow = Lūdzu izvēlieties vērtību, kas ir mazāka kā { $maximum }.
+dom-form-validation-number-range-overflow = Lūgums atlasīt vērtību, kas nav lielāka par { $maximum }.
 # Variables:
 #   $maximum (String) - The latest value allowed in the field, a date or a time.
-dom-form-validation-date-time-range-overflow = Lūdzu izvēlieties vērtību, kas ir agrāka kā { $maximum }.
+dom-form-validation-date-time-range-overflow = Lūgums atlasīt vērtību, kas nav vēlāka par { $maximum }.
 # Variables:
 #   $minimum (String) - The minimum value allowed in the field, a number.
 dom-form-validation-number-range-underflow = Lūgums atlasīt vērtību, kas nav mazāka par { $minimum }.
@@ -41,7 +41,7 @@ dom-form-validation-date-time-range-underflow = Lūgums atlasīt vērtību, kas 
 # Variables:
 #   $lowValue (String) - The nearest valid value below the entered one. It can be a number, a date or a time.
 #   $highValue (String) - The nearest valid value above the entered one. It can be a number, a date or a time.
-dom-form-validation-step-mismatch = Lūdzu izvēlieties derīgu vērtību. Tuvākās derīgās vērtības ir { $lowValue } un { $highValue }.
+dom-form-validation-step-mismatch = Lūgums atlasīt derīgu vērtību. Divas tuvākās derīgās vērtības ir { $lowValue } un { $highValue }.
 # Used instead of dom-form-validation-step-mismatch when there is only one nearest valid value.
 # Variables:
 #   $value (String) - The nearest valid value. It can be a number, a date or a time.

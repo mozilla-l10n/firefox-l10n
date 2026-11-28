@@ -1817,6 +1817,7 @@ trustpanel-connection-info-header =
     .title = Konexioaren informazioa { $host } ostalarirako
 trustpanel-connection-secure = Gune honen konexioa segurua da.
 trustpanel-connection-not-secure = Gune honen konexioa ez da segurua.
+trustpanel-connection-not-secure-description = Ez idatzi pasahitz edo kreditu-txartelen moduko daturik lapurretak saihesteko.
 trustpanel-siteinformation-morelink = Gunearen informazio gehiago
 trustpanel-blocker-see-all = Ikusi guztiak
 trustpanel-blocker-see-trackers-button = Ikusi jarraipen-elementuak
@@ -1836,6 +1837,15 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [one] Jarraipen-elementu bat blokeatuta
        *[other] { $count } jarraipen-elementu blokeatuta
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] Jarraipen-elementu bat blokeatuta gune honetan
+       *[other] { $count } jarraipen-elementu blokeatuta gune honetan
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = Ez da jarraipen-elementurik aurkitu gune honetan
+urlbar-trust-icon-tracking-protection-off-tooltip = Jarraipenaren babesa desgaituta dago webgune honetarako
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1846,6 +1856,16 @@ trustpanel-tracking-header = { -brand-product-name }(e)k ondorengo gauzak onartu
 trustpanel-tracking-description = Jarraipen-elementu gabe, posible da zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea.
 trustpanel-insecure-section-header = Zure konexioa ez da segurua
 trustpanel-insecure-description = Gune honetara bidaltzen ari zaren datuak ez daude zifratuta. Ikusiak, lapurtuak edo itxuraldatuak izan litezke.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Gunea ez dabil? Probatu urrats hauek.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Desaktibatu hauek arazoa konpontzen den ikusteko:
+trustpanel-report-broken-site-button = Eman hondatutako gunearen berri
+trustpanel-report-broken-site-description = Zure txostenak { -brand-short-name } denontzat hobetzen laguntzen digu.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] Guneen arteko cookie jarraipen-egileak: { $count }
@@ -1930,6 +1950,18 @@ trustpanel-blocker-section-header2 =
         [one] Jarraipen-elementu <span data-l10n-name="count">{ $count }</span> blokeatu da gune honetan
        *[other] <span data-l10n-name="count">{ $count }</span> jarraipen-elementu blokeatu dira gune honetan
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Zure alde lan egiten duen pribatutasuna
+
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Hedapenak
+trustpanel-site-issue-step-vpn = Integratutako VPNa
+trustpanel-site-issue-step-etp = Jarraipenaren babes hobetua
 
 ##  $count (String): the number of trackers blocked.
 

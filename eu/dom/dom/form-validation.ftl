@@ -51,3 +51,21 @@ dom-form-validation-step-mismatch-one-value = Hautatu baliozko balio bat. Balioz
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = Mesedez hautatu { $minimum } eta { $maximum } arteko balio bat.
 dom-form-validation-bad-input-number = Idatzi zenbaki bat mesedez.
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long =
+    { $maxLength ->
+        [one] Laburtu testu hau karaktere bat edo gutxiagora (uneko luzera: { $textLength })
+       *[other] Laburtu testu hau { $maxLengthText } karaktere edo gutxiagora (uneko luzera: { $textLength })
+    }
+# Variables:
+#   $minLength (Number) - Minimum number of characters required in the field. Only use it to select the plural form, don't display it.
+#   $minLengthText (String) - Minimum number of characters required in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-short =
+    { $minLength ->
+        [one] Erabili gutxienez karaktere bat (uneko luzera: { $textLength }).
+       *[other] Erabili gutxienez { $minLengthText } karaktere (uneko luzera: { $textLength }).
+    }
