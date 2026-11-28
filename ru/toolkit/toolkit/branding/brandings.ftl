@@ -29,7 +29,16 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
--firefox-enterprise-brand-name = Корпоративный Firefox
+-firefox-enterprise-brand-name =
+    { $case ->
+       *[nominative_uppercase] Корпоративный Firefox
+        [genitive] корпоративного Firefox
+        [dative] корпоративному Firefox
+        [accusative] корпоративный Firefox
+        [instrumental] корпоративном Firefox
+        [prepositional] корпоративным Firefox
+        [nominative] корпоративный Firefox
+    }
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird

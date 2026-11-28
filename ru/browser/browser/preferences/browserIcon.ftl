@@ -10,7 +10,7 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .description = Выберите свой значок для панели задач, рабочего экрана и меню Пуск.
+    .description = Выберите свой значок для панели задач, рабочего экрана и меню «Пуск».
     .label = Значок браузера
 appearance-browser-icon-button =
     .label = Сменить значок браузера

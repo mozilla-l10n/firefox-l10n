@@ -229,7 +229,7 @@ ipprotection-locations-subview-set-default-promo-button = Открывать с�
 
 upgrade-vpn-title = Получите дополнительную защиту за пределами браузера
 upgrade-vpn-description = Выберите местоположение VPN, используйте VPN для всех своих приложений и до 5 устройств, и оставайтесь в безопасности в любой сети — дома или в общедоступной сети Wi-Fi.
-upgrade-vpn-button = Попробуйте { -mozilla-vpn-brand-name }
+upgrade-vpn-button = Попробовать { -mozilla-vpn-brand-name }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Вы использовали все { $maxUsage } ГБ данных вашего VPN. Доступ будет сброшен в следующем месяце.

@@ -130,8 +130,8 @@ mr2-onboarding-start-browsing-button-label = Почати перегляд
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Виберіть свою мову
-mr2022-onboarding-live-language-text = { -brand-short-name } говорить вашою мовою
-mr2022-language-mismatch-subtitle = Завдяки нашій спільноті { -brand-short-name } перекладено понад 90 мовами. Схоже, у вашій системі використовується { $systemLanguage }, а в { -brand-short-name } використовується { $appLanguage }.
+mr2022-onboarding-live-language-text = { -brand-short-name } вашою мовою
+mr2022-language-mismatch-subtitle = Завдяки нашій спільноті { -brand-short-name } перекладено понад 90 мовами. У вашій системі використовується { $systemLanguage }, а в { -brand-short-name } – { $appLanguage }.
 onboarding-live-language-button-label-downloading = Завантаження мовного пакунка для { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Отримання доступних мов…
 onboarding-live-language-installing = Установлення мовного пакунка для { $negotiatedLanguage }…

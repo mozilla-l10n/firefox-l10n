@@ -66,6 +66,7 @@ aboutdialog-submit-feedback = ส่งข้อเสนอแนะ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> คือ <label data-l10n-name="community-exp-creditsLink">ชุมชนระดับโลก</label> ที่ทำงานร่วมกันเพื่อทำให้เว็บเปิดกว้าง เป็นของสาธารณะ และเข้าถึงได้ทุกคน
 community-2 = { -brand-short-name } ได้รับการออกแบบโดย <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ซึ่งเป็น <label data-l10n-name="community-creditsLink">ชุมชนระดับโลก</label> ที่ทำงานร่วมกันเพื่อทำให้เว็บเปิดกว้าง เป็นของสาธารณะ และเข้าถึงได้ทุกคน
 helpus = ต้องการที่จะช่วย? <label data-l10n-name="helpus-donateLink">ทำการบริจาค</label> หรือ <label data-l10n-name="helpus-getInvolvedLink">มีส่วนร่วม!</label>
+helpus-referrals2 = อยากมีส่วนร่วมช่วยเหลือไหม? คุณสามารถ<label data-l10n-name="helpus-donateLink">บริจาคเงิน</label> <label data-l10n-name="helpus-shareFirefoxLink">บอกต่อ { -brand-product-name } ให้ผู้อื่นรู้จัก</label> หรือ<label data-l10n-name="helpus-getInvolvedLink">เข้ามามีส่วนร่วมในการพัฒนาได้!</label>
 bottomLinks-license = ข้อมูลสัญญาอนุญาต
 bottom-links-terms = เงื่อนไขการใช้งาน
 bottom-links-privacy = ประกาศความเป็นส่วนตัว

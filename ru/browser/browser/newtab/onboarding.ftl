@@ -648,7 +648,7 @@ hnt-card-pin-body =
        *[other] Вернитесь к защищённому просмотру с панели задач.
     }
 hnt-card-mobile-header = Получите на вашем телефоне встроенную защиту
-hnt-card-mobile-body = Загрузите { -brand-product-name } для мобильных устройств и получите дополнительную приватность в пути.
+hnt-card-mobile-body = Скачайте { -brand-product-name } для мобильных устройств и получите дополнительную приватность в пути.
 hnt-card-mobile-primary-button2 = Скачать { -brand-product-name } для мобильных устройств
 hnt-card-mobile-primary-button = Скачать { -brand-product-name } для мобильных устройств.
 hnt-card-wallpaper-header = Выберите свежие обои

@@ -1096,7 +1096,7 @@ newtab-wallpaper-blue-flowers = Крупный план распускающих
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Фото <a data-l10n-name="name-link">{ $author_string }</a> на <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Попробуйте всплеск цвета
-newtab-wallpaper-feature-highlight-content = Обновите вид Новой вкладки с помощью обоев.
+newtab-wallpaper-feature-highlight-content = Обновите вид новой вкладки с помощью обоев.
 newtab-wallpaper-feature-highlight-button = Понятно
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
@@ -1258,13 +1258,13 @@ newtab-section-follow-button = Подписаться
 # Variables:
 #   $topic (string) - Topic that the user can follow
 newtab-section-follow-button-label =
-    .aria-label = Подписаться на { $topic }
-newtab-section-following-button = Подписан
+    .aria-label = Подписаться на: { $topic }
+newtab-section-following-button = В подписках
 newtab-section-unfollow-button = Отписаться
 # Variables:
 #   $topic (string) - Topic that the user is following and can unfollow
 newtab-section-unfollow-button-label =
-    .aria-label = Подписка: Отписаться от { $topic }
+    .aria-label = Подписка: Отписаться от: { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Настройте вашу ленту новостей
 newtab-section-follow-highlight-subtitle = Подпишитесь на свои интересы, чтобы увидеть больше того, что вам нравится.
@@ -1287,7 +1287,7 @@ newtab-section-unblock-button = Разблокировать
 # Variables:
 #   $topic (string) - Name of topic that user is following
 newtab-section-follow-topic =
-    .aria-label = Подписаться на { $topic }
+    .aria-label = Подписаться на: { $topic }
 # Variables:
 #   $topic (string) - Name of topic that user is unfollowing
 newtab-section-unfollow-topic =

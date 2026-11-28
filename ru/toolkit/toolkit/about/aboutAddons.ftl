@@ -12,7 +12,7 @@ search-header =
 
 list-empty-get-extensions-message = Скачайте расширения и темы на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Скачайте словари на <a data-l10n-name="get-extensions">{ $domain }</a>
-list-empty-get-language-packs-message = Загрузите языковые пакеты на <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Скачайте языковые пакеты на <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
@@ -584,7 +584,7 @@ find-more-extensions-promo-open-amo-button = Откройте для себя р
 find-more-themes-promo =
     .heading = Найти больше новых стилей
     .message = Выберите стиль, который сделает { -brand-product-name } похожим на ваш.
-find-more-themes-promo-open-amo-button = Просмотрите темы
+find-more-themes-promo-open-amo-button = Просмотреть темы
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed
 ## and Project Nova is enabled.

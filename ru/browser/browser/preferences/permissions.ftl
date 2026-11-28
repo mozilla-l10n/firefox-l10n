@@ -163,7 +163,7 @@ permissions-site-location-disable-desc = Это не позволит веб-с�
 
 permissions-site-xr-window2 =
     .style = { permissions-window2.style }
-    .title = Параметры — Разрешения виртуальной реальности
+    .title = Настройки — Разрешения виртуальной реальности
 permissions-site-xr-desc = Следующие веб-сайты запросили разрешение на доступ к вашим устройствам виртуальной реальности. Вы можете указать каким веб-сайтам разрешено получать доступ к вашим устройствам виртуальной реальности. Вы также можете блокировать новые запросы с просьбами разрешить доступ к вашим устройствам виртуальной реальности.
 permissions-site-xr-disable-label =
     .label = Запретить новые запросы на доступ к вашим устройствам виртуальной реальности
@@ -175,8 +175,8 @@ permissions-site-xr-disable-desc = Это не позволит сайтам, к
 
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
-    .title = Настройки - Заблокированные сайты для ссылок приложений
-permissions-site-app-links-desc = Эти сайты не могут просить открыть ссылки на приложения, такие как почтовые клиенты (mailto:). Удалить сайт, чтобы он мог запросить это снова.
+    .title = Настройки — Заблокированные сайты для ссылок приложений
+permissions-site-app-links-desc = Эти сайты не могут просить открыть ссылки на приложения, такие как почтовые клиенты (mailto:). Удалите сайт, чтобы он мог запросить снова.
 
 ## Site Permissions - Camera
 
@@ -192,7 +192,7 @@ permissions-site-camera-disable-desc = Это не позволит веб-са�
 
 permissions-site-localhost-window =
     .style = { permissions-window2.style }
-    .title = Параметры — Приложения и службы устройства
+    .title = Настройки — Приложения и службы устройства
 permissions-site-localhost-desc = Следующие веб-сайты запросили доступ к приложениям и службам на этом устройстве. Вы можете разрешить или запретить сайтам это делать.
 permissions-site-localhost-disable-label =
     .label = Блокировать новые запросы на доступ к приложениям и службам на этом устройстве
@@ -202,7 +202,7 @@ permissions-site-localhost-disable-desc = Это не позволит веб-с
 
 permissions-site-local-network-window =
     .style = { permissions-window2.style }
-    .title = Параметры — Локальные сетевые устройства
+    .title = Настройки — Локальные сетевые устройства
 permissions-site-local-network-desc = Эти веб-сайты запросили доступ к приложениям и службам на устройствах, подключенных к вашему Wi-Fi или локальной сети. Вы можете разрешить или запретить сайтам это делать.
 permissions-site-local-network-disable-label =
     .label = Запретить новые запросы на доступ к приложениям и службам на устройствах, подключенных к вашему Wi-Fi или локальной сети.
@@ -224,7 +224,7 @@ permissions-site-microphone-disable-desc = Это не позволит веб-�
 
 permissions-site-speaker-window =
     .style = { permissions-window2.style }
-    .title = Параметры — Разрешения на доступ к динамику
+    .title = Настройки — Разрешения на доступ к динамику
 permissions-site-speaker-desc = Следующие сайты запросили выбор устройства вывода звука. Вы можете указать, каким сайтам разрешено выбирать устройство вывода звука.
 permissions-exceptions-doh-window =
     .style = { permissions-window2.style }

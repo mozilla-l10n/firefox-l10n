@@ -83,7 +83,7 @@ settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Попробуйте наши экспериментальные возможности! Они находятся в разработке и развитии, что может повлиять на работу { -brand-short-name }. Мы получаем данные об использовании вами этих функций, только если у вас включены <a data-l10n-name="data-collection">технические данные и данные о взаимодействии</a>.
 pane-experimental-reset =
-    .label = Восстановить значения по умолчанию
+    .label = Сбросить значения
     .accesskey = с
 help-button-label2 = Поддержка { -brand-short-name }
     .title = Поддержка { -brand-short-name }
@@ -460,7 +460,7 @@ settings-translations-subpage-download-progress = Идёт скачивание�
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
-settings-translations-subpage-download-error = Не удалось загрузить { $language } ({ $size } МБ)
+settings-translations-subpage-download-error = { $language }: не удалось скачать ({ $size } МБ)
 settings-translations-subpage-download-retry-button =
     .label = Попробовать снова
 # Variables:
@@ -476,7 +476,7 @@ settings-translations-subpage-no-sites-added =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Использовать настройки «{ $localeName }» вашей операционной системы для форматирования даты, времени, чисел и единиц измерения
+    .label = Использовать настройки операционной системы для языка «{ $localeName }» при форматировании дат, времени, чисел и единиц измерения.
 settings-spellcheck-header =
     .label = Проверка орфографии
 check-user-spelling =
@@ -657,7 +657,7 @@ support-application-heading =
 support-get-help =
     .label = Получить помощь
 support-share-ideas =
-    .label = Делитесь идеями и отзывами
+    .label = Поделиться идеями и отзывами
 
 ## Firefox newsletter
 
@@ -730,7 +730,7 @@ settings-keyboard-shortcuts-addressbar-link =
 settings-media-group =
     .label = Медиа
 browsing-picture-in-picture-toggle-enabled-2 =
-    .label = Использовать Картинку-в-Картинке
+    .label = Использовать «Картинку в картинке»
     .accesskey = у
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Продолжать воспроизводить видео в режиме «Картинка в картинке» при переключении вкладок
@@ -2259,9 +2259,9 @@ appearance-window-density-touch =
 related-settings-group =
     .label = Связанные настройки
 related-settings-accessibility-link =
-    .label = Настройте масштаб и шрифт в Доступности
+    .label = Настроить масштаб и шрифт в разделе «Поддержка доступности»
 related-settings-home-link =
-    .label = Настройка { -firefox-home-brand-name(case: "genitive") }
+    .label = Настроить { -firefox-home-brand-name(case: "genitive") }
 related-settings-tabs-browsing-link =
     .label = Настроить макет браузера
 
