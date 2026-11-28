@@ -18,7 +18,7 @@ dom-slow-addon-script-dialog-title = Ostrzeżenie o nieodpowiadającym skrypcie
 # Variables:
 #   $extensionName (String) - Name of the extension running the script.
 dom-slow-addon-script-dialog-message =
-    Skrypt rozszerzenia „{ $extensionName }” działający na tej stronie spowalnia działanie programu { -brand-short-name }.
+    Skrypt rozszerzenia „{ $extensionName }” działający na tej stronie spowalnia działanie { -brand-short-name(case: "gen") }.
     
     Skrypt ten może być zajęty lub przestał zupełnie odpowiadać.
     Można przerwać ten skrypt teraz lub kontynuować, aby sprawdzić, czy jego wykonywanie się zakończy.

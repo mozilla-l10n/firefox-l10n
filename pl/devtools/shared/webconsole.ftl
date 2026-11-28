@@ -84,7 +84,7 @@ webconsole-message-repeats =
 #   $count (Number) - Number of messages in the group.
 webconsole-warning-group-message-count =
     { $count ->
-        [one] { $count } komunikat
+        [one] { $count } komunikat
         [few] { $count } komunikaty
        *[many] { $count } komunikatów
     }
@@ -96,7 +96,7 @@ webconsole-warning-group-message-count =
 webconsole-selfxss-ok-string = zezwalaj na wklejanie
 # Variables:
 #   $okString (String) - The text to type, from webconsole-selfxss-ok-string.
-webconsole-selfxss-message = Ostrzeżenie: należy zachować szczególną ostrożność podczas wklejania rzeczy których się nie rozumie. Takie treści mogą potencjalnie pozwolić atakującemu na kradzież Twojej tożsamości lub przejęcie kontroli nad Twoim komputerem. Należy wprowadzić „{ $okString }” poniżej (nie trzeba zatwierdzać enterem), aby umożliwić wklejanie.
+webconsole-selfxss-message = Ostrzeżenie: należy zachować szczególną ostrożność podczas wklejania rzeczy, których się nie rozumie. Takie treści mogą potencjalnie pozwolić atakującemu na kradzież Twojej tożsamości lub przejęcie kontroli nad Twoim komputerem. Wpisanie „{ $okString }” poniżej (nie trzeba zatwierdzać klawiszem Enter) umożliwi wklejanie.
 
 ##
 
