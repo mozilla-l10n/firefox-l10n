@@ -272,6 +272,13 @@ launch-on-login-autostart-infobar-keep-button = Зберегти
 launch-on-login-autostart-infobar-turn-off-button = Вимкнути
     .accesskey = В
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = Закріпити на панелі завдань
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
