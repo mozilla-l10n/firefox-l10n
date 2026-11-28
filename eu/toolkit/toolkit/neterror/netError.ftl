@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Ez da zerbitzaria aurkitu
 neterror-malformed-uri-page-title = URL baliogabea
 general-body-title = Kontuz. Badirudi zerbait oker dagoela.
 problem-with-this-site-title = Badirudi arazo bat dagoela gune honekin
+neterror-http-auth-scheme-disabled-title = Gune honen saio-hasierako metodoa desaktibatuta dago
 
 ## Error page actions
 
@@ -162,6 +163,7 @@ neterror-unsafe-content-type = Jarri harremanetan webgunearen jabeekin arazo hon
 neterror-basic-http-auth =
     { -brand-short-name } ez da { $hostname } ostalariaz fidatzen
     konexioa ez delako segurua. Saiatu URLa HTTPSra aldatzen.
+neterror-http-auth-scheme-disabled = Gun honetan saioa hasteko beharra baduzu, jarri harremanetan zure sistemaren administratzailearekin.
 neterror-nss-failure-not-verified = Ikusten saiatzen ari zaren orria ezin da erakutsi jasotako datuen egiazkotasuna ezin delako egiaztatu.
 neterror-nss-failure-contact-website = Mesedez jarri harremanetan webgunearen jabeekin arazoaren berri emateko.
 # Variables:

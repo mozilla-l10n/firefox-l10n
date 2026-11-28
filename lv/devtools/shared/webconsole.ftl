@@ -23,7 +23,7 @@ browserconsole-parent-process-title = Vecākprocesa pārlūka konsole
 
 ##
 
-webconsole-console-api-disabled = Lapas skripts ir deaktivējis tīmekļa konsoles žurnalēšanas API (console.log, console.info, console.warn, console.error).
+webconsole-console-api-disabled = Šīs lapas skripts ir atspējojis tīmekļa konsoles žurnalēšanas API (console.log, console.info, console.warn, console.error).
 # Indicator displayed before the URL of a request made with XMLHttpRequest.
 webconsole-xhr-indicator = XHR
 # Link displayed after some messages (e.g. security related messages), pointing
@@ -37,15 +37,15 @@ webconsole-stacktrace-anonymous-function = <anonīma>
 # Indicates that a stack frame has an async parent.
 # Variables:
 #   $cause (String) - The cause of the async call (e.g. "setTimeout handler").
-webconsole-stacktrace-async-stack = (Asinhr: { $cause })
+webconsole-stacktrace-async-stack = (Asinhrons: { $cause })
 
 ## Results of console.timeLog() and console.timeEnd().
 ## Variables:
 ##   $name (String) - Name of the timer.
 ##   $duration (String) - Elapsed time in milliseconds.
 
-webconsole-time-log = { $name }: { $duration }ms
-webconsole-time-end = { $name }: { $duration }ms — taimeris beidzies
+webconsole-time-log = { $name }: { $duration } ms
+webconsole-time-end = { $name }: { $duration } ms — laika atskaite beigusies
 
 ## Results and errors of other console API calls.
 ## Variables:
@@ -57,15 +57,15 @@ webconsole-console-cleared = Konsole tika notīrīta.
 # is enabled. “Persist Logs” should match webconsole-settings-persistent-logs.label.
 webconsole-console-clear-prevented = console.clear() darbība tika novērsta “Persist Logs” dēļ
 # Displayed for console.count() calls without a label.
-webconsole-no-counter-label = <nav pazīmes>
+webconsole-no-counter-label = <nav iezīmes>
 # Displayed when console.countReset() is called with a counter that doesn’t exist.
-webconsole-counter-doesnt-exist = Skaitītājs “{ $name }” neeksistē.
+webconsole-counter-doesnt-exist = Skaitītājs “{ $name }” nepastāv.
 # Displayed for console.group() calls without a label.
-webconsole-no-group-label = <nav grupas>
-webconsole-max-timers-exceeded = Tika pārsniegts maksimālais lapā atļauto taimeru skaits.
-webconsole-timer-already-exists = Taimeris “{ $name }” jau pastāv.
-webconsole-timer-doesnt-exist = Taimeris “{ $name }” neeksistē.
-webconsole-timer-js-error = Neizdevās apstrādāt taimera nosaukums.
+webconsole-no-group-label = <nav kopas iezīmes>
+webconsole-max-timers-exceeded = Tika pārsniegts šajā lapā atļauto laika atskaitītāju skaits.
+webconsole-timer-already-exists = Laika atskaitītājs “{ $name }” jau pastāv.
+webconsole-timer-doesnt-exist = Laika atskaitītājs “{ $name }” nepastāv.
+webconsole-timer-js-error = Neizdevās apstrādāt laika atskaitītāju nosaukumu.
 
 ##
 
@@ -74,8 +74,8 @@ webconsole-timer-js-error = Neizdevās apstrādāt taimera nosaukums.
 #   $repeats (Number) - Number of repetitions.
 webconsole-message-repeats =
     { $repeats ->
-        [zero] { $repeats } atkārtojums
-        [one] { $repeats } atkārtojumi
+        [zero] { $repeats } atkārtojumu
+        [one] { $repeats } atkārtojums
        *[other] { $repeats } atkārtojumi
     }
 # Tooltip of the badge showing how many messages a group of similar warnings
@@ -84,8 +84,8 @@ webconsole-message-repeats =
 #   $count (Number) - Number of messages in the group.
 webconsole-warning-group-message-count =
     { $count ->
-        [zero] { $count } ziņojums
-        [one] { $count } ziņojumu
+        [zero] { $count } ziņojumu
+        [one] { $count } ziņojums
        *[other] { $count } ziņojumi
     }
 

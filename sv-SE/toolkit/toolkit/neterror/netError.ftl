@@ -14,7 +14,7 @@ neterror-dns-not-found-title = Servern hittades inte
 neterror-malformed-uri-page-title = Ogiltig URL
 general-body-title = Var försiktig. Något ser inte rätt ut.
 problem-with-this-site-title = Det verkar finnas ett problem med den här sidan
-neterror-http-auth-scheme-disabled-title = Den här webbplatsens inloggningsmetod är avstängd
+neterror-http-auth-scheme-disabled-title = Inloggningsmetoden för den här webbplatsen är inaktiverad
 
 ## Error page actions
 
@@ -249,7 +249,7 @@ fp-neterror-http-auth-disabled-intro = Någon som utger sig för att vara webbpl
 fp-neterror-http-auth-disabled-secure-connection = Den här webbplatsen kräver en säker anslutning, och du kan inte lägga till ett undantag för att besöka den.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> bad dig att logga in med en metod som har stängts av i dina anslutningsinställningar.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> begärde att du skulle logga in med en metod som har inaktiverats i dina anslutningsinställningar.
 fp-neterror-why-did-this-happen = Varför hände detta?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som att den här webbplatsen använder gammal programvara med kända säkerhetsproblem.

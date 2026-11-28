@@ -911,6 +911,66 @@ urlbar-result-dates-today = { $name } · Gaur
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Gaur amaitzen da
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Ez erakutsi hegaldien egoeren gomendiorik
+    .accesskey = z
+urlbar-result-flight-status-status-ontime = Garaiz
+urlbar-result-flight-status-status-inflight = Hegan
+urlbar-result-flight-status-status-arrived = Iritsita
+urlbar-result-flight-status-status-cancelled = Bertan behera utzita
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Atzeratuta { $departureEstimatedTime } arte
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = { $timeLeft } faltan
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Hegaldien egoeren gomendioak
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } - { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date }, { $time }
+urlbar-result-sports-status-live = Zuzenean
+urlbar-result-sports-status-final = Finala
+urlbar-result-menu-dont-show-sports = Ez erakutsi kirolen gomendiorik
+    .accesskey = z
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Kirolen gomendioak
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1043,6 +1103,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Azken bilaketak
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Lasterbideak
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1739,8 +1804,19 @@ trustpanel-clear-cookies-subview-button-clear = Garbitu
 trustpanel-clear-cookies-subview-button-cancel = Utzi
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Ezabatu gunearen datuak { $host } ostalarirako
+trustpanel-clear-cookies-description-redesign = Guneetako zure saioak amaitu egingo dira. Erosketa-orgak hustu litezke.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Konexioaren babesak { $host } ostalarirako
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Konexioaren informazioa { $host } ostalarirako
+trustpanel-connection-secure = Gune honen konexioa segurua da.
+trustpanel-connection-not-secure = Gune honen konexioa ez da segurua.
 trustpanel-siteinformation-morelink = Gunearen informazio gehiago
 trustpanel-blocker-see-all = Ikusi guztiak
 trustpanel-blocker-see-trackers-button = Ikusi jarraipen-elementuak

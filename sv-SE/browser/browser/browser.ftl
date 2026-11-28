@@ -916,20 +916,20 @@ urlbar-result-dates-ends-today = { $name } · Slutar idag
 ## and the status like delayed, etc.
 
 # This string is shown in the result menu.
-urlbar-result-menu-dont-show-flight-status = Visa inte förslag om flygstatus
-    .accesskey = V
-urlbar-result-flight-status-status-ontime = I tid
-urlbar-result-flight-status-status-inflight = Under flygningen
-urlbar-result-flight-status-status-arrived = Anlände
-urlbar-result-flight-status-status-cancelled = Avbruten
+urlbar-result-menu-dont-show-flight-status = Visa inga förslag på flygstatus
+    .accesskey = f
+urlbar-result-flight-status-status-ontime = Enligt tidtabell
+urlbar-result-flight-status-status-inflight = I luften
+urlbar-result-flight-status-status-arrived = Ankommit
+urlbar-result-flight-status-status-cancelled = Inställd
 # Example: Delayed until 5:50pm
 # Variables:
 #   $departureEstimatedTime (string) - The estimated departure time.
-urlbar-result-flight-status-status-delayed = Försenad till { $departureEstimatedTime }
+urlbar-result-flight-status-status-delayed = Försenat till { $departureEstimatedTime }
 # Example: 30 min left
 # Variables:
 #   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
-urlbar-result-flight-status-time-left = { $timeLeft } kvar
+urlbar-result-flight-status-time-left = { $timeLeft } återstår
 # Example: Los Angeles (LAX)
 # Variables:
 #   $city (string) - The city of the airport.
@@ -943,7 +943,7 @@ urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $a
 # This accessibility label is read by screen readers when an item in the row is
 # selected.
 urlbar-result-aria-group-flight-status =
-    .aria-label = Förslag till flygstatus
+    .aria-label = Förslag på flygstatus
 
 ## These strings are used for sports suggestions in the urlbar. Sports
 ## suggestions show team names, scores, game times, etc.
@@ -961,11 +961,11 @@ urlbar-result-sports-team-names = { $homeTeam } mot { $awayTeam }
 # Variables:
 #   $date (string) - Localized date string, e.g., "Today", "Oct 31"
 #   $time (string) - Localized time
-urlbar-result-sports-game-date-with-time = { $date } vid { $time }
-urlbar-result-sports-status-live = Aktuell
+urlbar-result-sports-game-date-with-time = { $date } kl. { $time }
+urlbar-result-sports-status-live = Pågår nu
 urlbar-result-sports-status-final = Final
 urlbar-result-menu-dont-show-sports = Visa inte sportförslag
-    .accesskey = V
+    .accesskey = s
 # This accessibility label is read by screen readers when an item in the row is
 # selected.
 urlbar-result-aria-group-sports =
@@ -1804,7 +1804,7 @@ trustpanel-clear-cookies-subview-button-cancel = Avbryt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header-redesign =
     .title = Ta bort webbplatsdata för { $host }
-trustpanel-clear-cookies-description-redesign = Du kommer att loggas ut från webbplatser. Det kan tömma kundvagnar.
+trustpanel-clear-cookies-description-redesign = Du loggas ut från webbplatser. Varukorgar kan tömmas.
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
@@ -1815,7 +1815,7 @@ trustpanel-connection-info-header =
     .title = Anslutningsinformation för { $host }
 trustpanel-connection-secure = Webbplatsens anslutning är säker.
 trustpanel-connection-not-secure = Webbplatsens anslutning är inte säker.
-trustpanel-connection-not-secure-description = Undvik att ange information som lösenord eller kreditkort för att skydda dem från att bli stulna.
+trustpanel-connection-not-secure-description = Undvik att ange uppgifter som lösenord eller kreditkortsnummer så att de inte blir stulna.
 trustpanel-siteinformation-morelink = Mer webbplatsinformation
 trustpanel-blocker-see-all = Visa alla
 trustpanel-blocker-see-trackers-button = Se spårare
@@ -1843,7 +1843,7 @@ urlbar-trust-icon-trackers-blocked-tooltip =
        *[other] { $count } spårare blockerade på den här webbplatsen
     }
 urlbar-trust-icon-no-trackers-found-tooltip = Inga spårare hittades på den här webbplatsen
-urlbar-trust-icon-tracking-protection-off-tooltip = Spårningsskydd är avstängt för den här sidan
+urlbar-trust-icon-tracking-protection-off-tooltip = Spårningsskyddet är inaktiverat på den här webbplatsen
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

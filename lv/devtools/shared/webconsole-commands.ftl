@@ -45,10 +45,10 @@ webconsole-commands-block-arg-missing = Netika norādīts neviens atsijātājs
 webconsole-commands-start-tracing-to-web-console = Uzsākta trasēšana tīmekļa konsolē
 webconsole-commands-start-tracing-to-debugger-sidebar = Uzsākta trasēšana atkļūdotāja sānjoslā
 webconsole-commands-start-tracing-to-stdout = Uzsākta trasēšana stdout
-webconsole-commands-start-tracing-to-profiler = Uzsākta trasēšana profilētājā. Izsekošanas dati tiks attēloti profilētājā pēc apturēšanas.
-webconsole-commands-stop-tracing = Apturēta izsekošana
+webconsole-commands-start-tracing-to-profiler = Uzsākta trasēšana profilētājā. Izsekošanas dati tiks attēloti profilētājā pēc apstādināšanas.
+webconsole-commands-stop-tracing = Trasēšana apstādināta
 # Displayed when the tracer stops for a reason other than the user request,
 # for example reaching the max-depth option, or an infinite loop.
 # Variables:
 #   $reason (String) - The reason why tracing stopped.
-webconsole-commands-stop-tracing-with-reason = Apturēta izsekošana (iemesls: { $reason })
+webconsole-commands-stop-tracing-with-reason = Trasēšana apstādināta (iemesls: { $reason })
