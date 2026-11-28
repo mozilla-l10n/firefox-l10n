@@ -1383,6 +1383,8 @@ downloads-folder-name = බාගැනීම්
 
 preferences-appearance-header =
     .heading = පෙනුම
+related-settings-accessibility-link =
+    .label = ප්‍රවේශ්‍යතාව තුළ විශාලනය සහ අකුරු සැකසුම් අභිරුචිකරණය කරන්න
 related-settings-home-link =
     .label = { -firefox-home-brand-name } අභිරුචිකරණය
 

@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Itzulpena burutzen
 translations-panel-settings-button =
     .aria-label = Kudeatu itzulpenen ezarpenak
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = Itzuli orri hau
+urlbar-translations-button-intro-2 =
+    .tooltiptext = Probatu itzulpen pribatuak { -brand-shorter-name }(e)n
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Itzuli orria?
 translations-panel-translate-button =
     .label = Itzuli
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Berehalako itzulpenak ikuspegi zatituan
+    .tooltiptext = Berehalako itzulpenak ikuspegi zatituan
 translations-panel-translate-button-loading =
     .label = Itxaron mesedez…
 translations-panel-translate-cancel =

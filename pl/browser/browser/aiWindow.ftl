@@ -425,8 +425,8 @@ smartwindow-onboarding-save =
 ai-smart-form-fill-autocomplete-label = Wypełnij na podstawie źródeł
 ai-smart-form-fill-autocomplete-loading = Wczytywanie
 ai-smart-form-fill-autocomplete-sources-label = Wypełnij na podstawie źródeł
-ai-smart-form-fill-autocomplete-choose-tabs = Otwórz lub wybierz strony powiązane z tym formularzem, aby otrzymać automatyczne podpowiedzi
-ai-smart-form-fill-autocomplete-open-tabs = Otwórz strony powiązane z tym formularzem, aby otrzymać automatyczne podpowiedzi
+ai-smart-form-fill-autocomplete-choose-tabs = Otwórz lub wybierz strony powiązane z tym formularzem, aby otrzymać automatyczne propozycje
+ai-smart-form-fill-autocomplete-open-tabs = Otwórz strony powiązane z tym formularzem, aby otrzymać automatyczne propozycje
 ai-smart-form-fill-close-review-button =
     .label = Zamknij
 # Variables:
@@ -458,9 +458,9 @@ ai-smart-form-fill-review-heading = Sprawdź propozycje
 #   $count (number) - The number of generated form field suggestions
 ai-smart-form-fill-review-description =
     { $count ->
-        [one] Znaleźliśmy propozycję dla { $count } pola. Edytuj ją lub usuń, jeśli jest nieprawidłowa.
-        [few] Znaleźliśmy propozycje dla { $count } pól. Edytuj lub usuń nieprawidłowe.
-       *[many] Znaleźliśmy propozycje dla { $count } pól. Edytuj lub usuń nieprawidłowe.
+        [one] Znaleźliśmy propozycję dla { $count } pola. Edytuj ją lub usuń, jeśli jest niepoprawna.
+        [few] Znaleźliśmy propozycje dla { $count } pól. Edytuj lub usuń niepoprawne.
+       *[many] Znaleźliśmy propozycje dla { $count } pól. Edytuj lub usuń niepoprawne.
     }
 # Used when a field of the form being filled in doesn’t have a name to use as
 # its label.

@@ -5,4 +5,5 @@
 
 ## Added shortcuts:
 
+customkeys-dev-accessibility = ප්‍රවේශ්‍යතාව
 customkeys-tools-screenshot = තිරසේයාවක් ගන්න

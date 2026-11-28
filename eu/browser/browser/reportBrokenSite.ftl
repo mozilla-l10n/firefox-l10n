@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Eman hondatutako gunearen berri
 report-broken-site-panel-header =
     .label = Eman hondatutako gunearen berri
     .title = Eman hondatutako gunearen berri
+report-broken-site-panel-intro-text2 = Zure txostenak { -brand-product-name } denontzat hobetzen laguntzen digu.
 report-broken-site-panel-intro-text = Zure txostenak { -brand-product-name }(e)n arazoak ulertu eta konpontzen laguntzen digu, horrela denontzat hobetzeko.
 report-broken-site-panel-learn-more-link = Argibide gehiago
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Gunearen helbidea
 report-broken-site-panel-url-label = Hondatutako gunearen URLa
 report-broken-site-panel-reason-intro-text = Zer ez dabil?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Beste zerbait
 report-broken-site-panel-instructions-other = Azaldu arazoa xehetasunekin gaia ikertzen lagun gaitzan.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Azaldu arazoa xehetasunekin (aukerakoa)
 report-broken-site-panel-instructions-other-optional = Azaldu arazoa xehetasunekin gaia ikertzen lagun gaitzan. (aukerakoa)
 report-broken-site-panel-description2 =
     .placeholder = Zer gertatu da? Zer espero zenuen gertatzea? Mesedez eman arazoa erreproduzitzeko urratsak.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Bidali informazioa { $website } webgunearen bitartez
 report-broken-site-panel-send-more-info-button =
     .label = Bidali informazio gehiago
 report-broken-site-panel-button-cancel =
@@ -61,6 +70,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Bidali jarraipenaren babesak blokeatutako elementuen zerrenda
 report-broken-site-panel-url-input-label =
     .aria-label = Jakitera ematen ari den orriaren URLa
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Ikusi diagnostiko-datuak
 report-broken-site-panel-preview-button =
     .label = Aurreikusi txostena
 report-broken-site-panel-preview-header2 =

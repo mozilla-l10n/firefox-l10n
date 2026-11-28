@@ -18,9 +18,9 @@ dom-deprecated-capture-events = captureEvents() izmantošana ir novecojusi. Lai 
 #   $url (String) - URL of a page with more information.
 dom-deprecated-release-events = releaseEvents() izmantošana ir novecojusi. Lai jauninātu savu kodu, jāizmanto DOM 2 removeEventListener() metode. Vairāk var uzzināt { $url }
 # Do not translate "IDBObjectStore.mozGetAll()" and "IDBObjectStore.getAll()".
-dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() vairs netiek atbalstīts. Tā vietā izmantojiet IDBObjectStore.getAll().
+dom-deprecated-idb-object-store-moz-get-all = IDBObjectStore.mozGetAll() vairs netiek atbalstīta. Tā vietā jāizmanto IDBObjectStore.getAll().
 # Do not translate "accent" and "mo" (the name of a MathML element).
 # Variables:
 #   $attribute (String) - Name of the attribute to use instead: “accent”, “accentunder” or “accent/accentunder”.
 #   $element (String) - Name of the parent MathML element: “mover”, “munder” or “munderover”.
-dom-deprecated-mathml-mo-explicit-accent = Accent atribūta iestatīšana mo elementiem ir novecojusi. Tā vietā izmantojiet atribūtu “{ $attribute }” elementam “{ $element }”.
+dom-deprecated-mathml-mo-explicit-accent = Accent pazīmes iestatīšana mo elementiem ir novecojusi. Tā vietā jāizmanto pazīme “{ $attribute }” “{ $element }” elementā.

@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Galdetu hainbat fitxa itxi aurretik
     .accesskey = h
+ask-on-close-multiple-tabs-pbmode =
+    .label = Galdetu hainbat fitxa itxi aurretik leiho pribatuetan
+    .accesskey = b
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

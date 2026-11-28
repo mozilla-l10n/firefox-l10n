@@ -51,6 +51,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ඉතිහාසය
+item-history-and-downloads2 =
+    .label = පිරික්සුම් සහ බාගැනීම් ඉතිහාසය
+    .accesskey = B
 item-history-and-downloads =
     .label = පිරික්සුම් හා බාගැනීම් ඉතිහාසය
     .accesskey = B
