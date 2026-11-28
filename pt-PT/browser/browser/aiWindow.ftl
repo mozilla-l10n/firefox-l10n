@@ -424,3 +424,56 @@ ai-smart-form-fill-autocomplete-label = Preencher a partir de fontes
 ai-smart-form-fill-autocomplete-loading = A carregar
 ai-smart-form-fill-autocomplete-sources-label = Preencher a partir de fontes
 ai-smart-form-fill-autocomplete-choose-tabs = Abrir ou selecionar páginas relacionadas com este formulário para obter sugestões de preenchimento automático
+ai-smart-form-fill-autocomplete-open-tabs = Abrir páginas relacionadas com este formulário para obter sugestões de preenchimento automático
+ai-smart-form-fill-close-review-button =
+    .label = Fechar
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } separador
+       *[other] { $tabs } separadores
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Editar fontes
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Editar fontes
+ai-smart-form-fill-suggested-tabs-heading = Separadores sugeridos
+ai-smart-form-fill-other-tabs-heading = Outros separadores
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Alternar seleção de separador para “{ $tabTitle }”
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Cancelar
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Feito
+ai-smart-form-fill-fill-form-button =
+    .label = Preencher formulário
+ai-smart-form-fill-review-heading = Rever sugestões
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Encontrámos sugestões para { $count } campo. Edite ou apague qualquer coisa que não esteja correta.
+       *[other] Encontrámos sugestões para { $count } campos. Edite ou apague qualquer coisa que não esteja correta.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Campo
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Saltar para o fim das sugestões
+    .tooltiptext = Saltar para o fundo
+ai-smart-form-fill-cancel-review-button =
+    .label = Cancelar
+ai-smart-form-fill-finding-suggestions = A procurar sugestões
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Parar de procurar sugestões
+ai-smart-form-fill-success-heading = Sugestões adicionadas ao formulário
+ai-smart-form-fill-success-description = Reveja o formulário e preencha quaisquer campos restantes antes de o submeter.
+ai-smart-form-fill-no-changes-heading = Nada adicionado ao formulário
+ai-smart-form-fill-no-changes-description = Alguns campos podem ter sido alterados ou já foram preenchidos. Para tentar novamente, limpe um campo, selecione-o, e depois escolha Preencher a partir das fontes.
+ai-smart-form-fill-no-suggestions-heading = Nenhumas sugestões encontradas
