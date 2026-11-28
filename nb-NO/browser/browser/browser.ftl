@@ -911,6 +911,14 @@ urlbar-result-dates-today = { $name } · I dag
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Slutter i dag
 
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+urlbar-result-sports-status-live = Direkte
+urlbar-result-sports-status-final = Finale
+urlbar-result-menu-dont-show-sports = Ikke vis sportsforslag
+    .accesskey = k
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
