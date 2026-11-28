@@ -38,6 +38,9 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
+genai-shortcut-button-3 =
+    .aria-label = මෙම පෙළ ගැන අසන්න
+    .tooltiptext = මෙම පෙළ ගැන අසන්න
 # $provider (string) - name of the chatbot provider
 genai-more-actions-ai-provider =
     .label = { $provider } වෙතින් අසන්න

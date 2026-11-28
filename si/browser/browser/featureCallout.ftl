@@ -53,6 +53,15 @@ split-dismiss-button-manage-settings-option =
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = මෙවලම් තීරුව සඟවන්න
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = කාර්ය තීරුවට අමුණන්න
+
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-dismiss-button = පැති තීරුව සඟවන්න

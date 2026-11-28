@@ -24,8 +24,10 @@ ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 
 ## Input CTA
 
+aiwindow-input-cta-submit-label-chat = අසන්න
 aiwindow-input-cta-submit-label-navigate = යන්න
 aiwindow-input-cta-submit-label-search = සොයන්න
+aiwindow-input-cta-menu-label-chat = අසන්න
 aiwindow-input-cta-menu-label-navigate = අඩවියට යන්න
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = { $searchEngineName } සමඟ සොයන්න
@@ -50,6 +52,11 @@ aiwindow-firstrun-next-button = ඊළඟ
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-custom = අභිරුචි
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = අසන්න
 
 ## Close Sidebar Button
 

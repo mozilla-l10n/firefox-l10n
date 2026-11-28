@@ -45,3 +45,5 @@ more-from-moz-solo-button = { -solo-ai-brand-name } බලන්න.
 more-from-moz-solo-card-1 =
     .description = ඔබගේ අඩවිය ක්‍ෂණිකව සාදා නොමිලේ ඔබගේම අභිරුචි වසමක් සම්බන්ධ කරන්න.
     .label = { -solo-ai-brand-name }
+more-from-moz-firefox-enterprise-box-link =
+    .label = { -firefox-enterprise-brand-name } ගැන දැනගන්න
