@@ -38,6 +38,9 @@ smart-window-model-section-v2 =
 smart-window-model-radio-group =
     .aria-label = Assistentmodell
 smart-window-model-learn-link = Les om modeller
+smart-window-model-auto =
+    .description = { -smart-window-brand-name } velger den beste modellen for oppgaven din
+    .label = Automatisk modell
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -62,6 +65,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Modelldetaljer lagret. Start en ny chat for å teste.
 ai-window-memories-section =
     .description = { -brand-short-name } kan lære av aktiviteten din for å lage minner. De brukes til å tilpasse svar og lagres lokalt på denne enheten.
+    .label = Minner
+ai-window-memories-section-v2 =
+    .description = { -brand-short-name } kan lære av aktiviteten din for å skape minner. De brukes til å skreddersy opplevelsen din og lagres lokalt på enheten din.
     .label = Minner
 ai-window-learn-from-chat-activity =
     .label = Lær fra chatter i { -smart-window-brand-name }
@@ -100,3 +106,9 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Utviklet for personlig tilpasset hjelp på tvers av språk. Fullt navn: { $model } fra { $ownerName }
     .label = { $shortName }: Personlig
+smart-window-model-qwen =
+    .description = Klar for en rekke oppgaver. Fullt navn: { $model } av { $ownerName }
+    .label = { $shortName }
+smart-window-model-mistral =
+    .description = Bra hvis du chatter og surfer på flere språk. Fullt navn: { $model } av { $ownerName }
+    .label = { $shortName }

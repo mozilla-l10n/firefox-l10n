@@ -147,6 +147,10 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = සියලු උපාංග
+fxa-menu-get-firefox-mobile =
+    .label = ඇන්ඩ්‍රොයිඩ් හෝ අයිඕඑස් සඳහා { -brand-product-name } ගන්න
+fxa-menu-secure-sync-subpanel =
+    .title = ආරක්‍ෂිත සමමුහුර්තය
 appmenu-account-header = ගිණුම
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -162,8 +166,10 @@ appmenu-fxa-sign-in-promo-heading2 = ඔබගේ දත්ත සැමතැ�
 appmenu-fxa-sign-in-promo-link = පිවිසෙන්න
 appmenu-fxa-setup-sync =
     .label = සමමුහුර්තය සක්‍රිය කරන්න...
+appmenu-fxa-setup-sync-new = සක්‍රිය කරන්න
 appmenuitem-save-page =
     .label = මෙලෙස පිටුව සුරකින්න
+appmenuitem-fxa-sync-off-title = සමමුහුර්තය අක්‍රියයි
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -210,6 +216,8 @@ profiler-popup-presets-graphics-label =
     .label = මාධ්‍යරූප
 profiler-popup-presets-media-label =
     .label = මාධ්‍ය
+profiler-popup-presets-ml-label =
+    .label = යාන්ත්‍රික අධ්‍යනය
 profiler-popup-presets-networking-label =
     .label = ජාලකරණය
 # "Power" is used in the sense of energy (electricity used by the computer).
@@ -313,10 +321,19 @@ appmenu-services-header = මාගේ සේවා
 appmenu-other-profiles = වෙනත් පැතිකඩ
 appmenu-manage-profiles =
     .label = පැතිකඩ කළමනාකරණය
+appmenu-copy-profile =
+    .label = මෙම පැතිකඩ පිටපතක්
 appmenu-create-profile2 =
     .label = නව පැතිකඩක් සාදන්න
+appmenu-create-profile =
+    .label = නව පැතිකඩ
+appmenu-edit-profile =
+    .aria-label = පැතිකඩ සංස්කරණය
+appmenu-edit-this-profile =
+    .label = මෙම පැතිකඩ සංස්කරණය
 fxa-menu-create-profile-subpanel =
     .title = නව පැතිකඩක් සාදන්න
+fxa-menu-create-profile-description = කාර්යාල සහ පෞද්ගලික පිරික්සීම සඳහා ඔබගේ පොත්යොමු, මුරපද හා ඉතිහාසය වෙනම තබාගන්න.
 fxa-menu-create-profile-confirm =
     .label = නව පැතිකඩක් සාදන්න
 fxa-menu-create-profile-learn-more =
@@ -326,10 +343,20 @@ appmenu-profiles-2 =
 appmenu-profiles-header = පැතිකඩ
 appmenu-all-profiles =
     .label = සියලු පැතිකඩ
+appmenu-secure-sync-header = ආරක්‍ෂිත සමමුහුර්තය
 # Panel shown when clicking a synced device in the Mozilla account menu.
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = මෑත පටිති
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] සමමුහුර්ත පටිති { $tabCount } දකින්න
+           *[other] සමමුහුර්ත පටිති { $tabCount } දකින්න
+        }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = වත්මන් පිටුව මෙම උපාංගයට යවන්න

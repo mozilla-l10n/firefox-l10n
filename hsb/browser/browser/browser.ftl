@@ -950,6 +950,10 @@ urlbar-result-flight-status-airport = { $city } ({ $code })
 #   $flightNumber (string) - The flight number.
 #   $airlineName (string) - The airline name.
 urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Namjety lětanskeho statusa
 
 ## These strings are used for sports suggestions in the urlbar. Sports
 ## suggestions show team names, scores, game times, etc.
@@ -970,6 +974,8 @@ urlbar-result-sports-team-names = { $homeTeam } : { $awayTeam }
 urlbar-result-sports-game-date-with-time = { $date } w { $time }
 urlbar-result-sports-status-live = Live
 urlbar-result-sports-status-final = Finale
+urlbar-result-menu-dont-show-sports = Sportowe namjety njepokazać
+    .accesskey = o
 # This accessibility label is read by screen readers when an item in the row is
 # selected.
 urlbar-result-aria-group-sports =
@@ -1822,8 +1828,18 @@ trustpanel-clear-cookies-subview-button-clear = Zhašeć
 trustpanel-clear-cookies-subview-button-cancel = Přetorhnyć
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Sydłowe daty za { $host } zhašeć
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Zwiskowy škit za { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Zwiskowe informacije za { $host }
+trustpanel-connection-secure = Zwisk sydła je wěsty.
+trustpanel-connection-not-secure = Zwisk sydła wěsty njeje.
 trustpanel-siteinformation-morelink = Dalše sydłowe informacije
 trustpanel-blocker-see-all = Wšě pokazać
 trustpanel-blocker-see-trackers-button = Přesćěhowaki pokazać
@@ -1855,6 +1871,10 @@ trustpanel-tracking-header = { -brand-product-name } je tute wěcy dowolił, zo 
 trustpanel-tracking-description = Někotre tłóčatka, formulary a přizjewjenske pola njemóhli bjez přesćěhowakow fungować.
 trustpanel-insecure-section-header = Waš zwisk wěsty njeje
 trustpanel-insecure-description = Daty, kotrež na tute sydło sćeleće, njejsu zaklučowane. Dadźa so wobhladać, kradnyć abo změnić.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Sydło njefunguje? Spytajće tute kroki.
+trustpanel-report-broken-site-button = Wobškodźene sydło zdźělić
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } sydła přesahowacy slědowacy plack
@@ -1969,6 +1989,10 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> přesćěhowaki su so na tutym sydle zablokowali
        *[other] <span data-l10n-name="count">{ $count }</span> přesćěhowakow je so na tutym sydle zablokowało
     }
+
+## Feature callout shown the first time the tracker count appears in the URL bar
+
+urlbar-trust-icon-tracker-count-callout-title = Priwatnosć, kotraž je za was
 
 ## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
 ## Each one names a feature the user can turn off to check whether it causes

@@ -120,6 +120,8 @@ private-browsing-description2 =
     в налаштуваннях, розширення не працюватиме під час приватного перегляду і не матиме доступу до вашої діяльності
     в цьому режимі. Ми зробили цю зміну для захисту вашої приватності.
     <label data-l10n-name="private-browsing-learn-more">Дізнайтеся, як керувати налаштуваннями розширень.</label>
+aboutaddons-sidebar =
+    .heading = Додатки
 addon-category-discover = Рекомендації
 addon-category-discover-title =
     .title = Рекомендації
@@ -551,6 +553,9 @@ mlmodel-addon-detail-model-card-link-label = Переглянути на Hugging
 ## install. In the message, "tools" refers to Firefox extensions and
 ## "styles" refers to Firefox themes.
 
+find-more-addons-promo =
+    .heading = Сформуйте свій { -brand-product-name }
+    .message = Додайте інструменти та стилі відповідно до ваших потреб та смаку.
 find-more-addons-promo-open-amo-button = Знайти розширення і теми
 
 ## Promo footer shown in the about:addons extensions list view when
@@ -561,6 +566,15 @@ find-more-extensions-promo =
     .heading = Знайдіть своє нове улюблене розширення
     .message = Налаштуйте { -brand-product-name } за допомогою інструментів для зосередження, приватності, покупок тощо.
 find-more-extensions-promo-open-amo-button = Знайти розширення
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Знайдіть більше нових образів
+    .message = Оберіть стиль, який персоналізує ваш { -brand-product-name }.
+find-more-themes-promo-open-amo-button = Знайти теми
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
