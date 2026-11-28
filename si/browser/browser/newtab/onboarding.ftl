@@ -274,6 +274,13 @@ multi-profile-spotlight-cta = පැතිකඩක් සාදන්න
 multi-profile-callout-title = වැඩ සහ විනෝදය සඳහා විවිධ පැතිකඩ සාදන්න
 multi-profile-callout-cta = පැතිකඩක් සාදන්න
 
+## Desktop to Mobile Adoption feature callout strings
+
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = දුරකථනයට { -brand-product-name } බාගැනීම සඳහා QR කේතය සුපිරික්සන්න. ස්ථාපනයෙන් පසු, ඔබගේ මුරපද, පොත්යොමු සහ තවත් දේ වෙත ප්‍රවේශයට “දුරකථනයට සමමුහූර්තය” තෝරන්න.
+desktop-to-mobile-qr-code-alt =
+    .aria-label = දුරකථනයට { -brand-product-name } බාගැනීමට QR කේතය
+
 ## Fx Backup onboarding: Create Backup spotlight
 
 # Title for a screen asking users to create a password that will encrypt the backup
