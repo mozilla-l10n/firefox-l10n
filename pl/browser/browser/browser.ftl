@@ -1836,6 +1836,7 @@ trustpanel-connection-info-header =
     .title = Informacje o połączeniu z witryną { $host }
 trustpanel-connection-secure = Połączenie z tą witryną jest zabezpieczone.
 trustpanel-connection-not-secure = Połączenie z tą witryną jest niezabezpieczone.
+trustpanel-connection-not-secure-description = Nie podawaj danych takich jak hasła czy numery kart płatniczych, aby zapobiec ich kradzieży.
 trustpanel-siteinformation-morelink = Więcej informacji o witrynie
 trustpanel-blocker-see-all = Pokaż wszystko
 trustpanel-blocker-see-trackers-button = Pokaż elementy śledzące
@@ -1856,6 +1857,16 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [few] Zablokowano { $count } elementy śledzące
        *[many] Zablokowano { $count } elementów śledzących
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] Na tej witrynie zablokowano { $count } element śledzący
+        [few] Na tej witrynie zablokowano { $count } elementy śledzące
+       *[many] Na tej witrynie zablokowano { $count } elementów śledzących
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = Na tej witrynie nie odnaleziono żadnych elementów śledzących
+urlbar-trust-icon-tracking-protection-off-tooltip = Ochrona przed śledzeniem jest wyłączona na tej witrynie
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1866,6 +1877,16 @@ trustpanel-tracking-header = { -brand-product-name } zezwolił na te rzeczy, aby
 trustpanel-tracking-description = Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.
 trustpanel-insecure-section-header = Połączenie nie jest zabezpieczone
 trustpanel-insecure-description = Dane wysyłane do tej witryny nie są zaszyfrowane. Ktoś może je podejrzeć, ukraść lub zmienić.
+# Title of the subview opened by trustpanel-fix-site-issue-button.
+trustpanel-site-issue-header =
+    .title = Witryna nie działa poprawnie? Wypróbuj te rozwiązania.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Wyłącz poniższe i sprawdź, czy to rozwiąże problem:
+trustpanel-report-broken-site-button = Zgłoś niepoprawnie działającą stronę
+trustpanel-report-broken-site-description = Twoje zgłoszenie pomoże nam ulepszyć { -brand-short-name(case: "acc") } dla wszystkich.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } ciasteczko śledzące między witrynami

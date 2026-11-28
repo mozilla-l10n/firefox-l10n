@@ -412,9 +412,9 @@ smartwindow-onboarding-save =
 
 # Accessible name for the Smart Form Fill autocomplete row, read by screen
 # readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
-ai-smart-form-fill-autocomplete-label = 從來源自動填寫
+ai-smart-form-fill-autocomplete-label = 從其他來源填寫
 ai-smart-form-fill-autocomplete-loading = 載入中
-ai-smart-form-fill-autocomplete-sources-label = 從來源自動填寫
+ai-smart-form-fill-autocomplete-sources-label = 從其他來源填寫
 ai-smart-form-fill-autocomplete-choose-tabs = 開啟或選擇與此表單相關的頁面，以取得自動填寫建議
 ai-smart-form-fill-autocomplete-open-tabs = 開啟與此表單相關的頁面，以取得自動填寫建議
 ai-smart-form-fill-close-review-button =
@@ -456,3 +456,15 @@ ai-smart-form-fill-finding-suggestions = 正在搜尋建議項目
 # only.
 ai-smart-form-fill-stop-finding-suggestions =
     .aria-label = 停止搜尋建議
+ai-smart-form-fill-success-heading = 已將建議內容填入表單
+ai-smart-form-fill-success-description = 送出表單前請再次檢查，並填妥其餘欄位。
+ai-smart-form-fill-no-changes-heading = 未將任何資料填入表單
+ai-smart-form-fill-no-changes-description = 部分欄位可能有變更或已有內容。若要重試，請清除並選擇欄位，然後選擇「從其他來源填寫」。
+ai-smart-form-fill-no-suggestions-heading = 找不到任何建議
+ai-smart-form-fill-no-suggestions-description = 無法讀取這份表單，也無法從您選擇的來源找到適合的內容。改用其他來源可能會有幫助。
+ai-smart-form-fill-error-try-again-heading = 未將建議內容填入表單
+ai-smart-form-fill-error-try-again-description = 有些東西不對勁。請嘗試再次新增建議內容。
+ai-smart-form-fill-error-heading = 未加入建議內容
+ai-smart-form-fill-error-description = 有些東西不對鏡。若要重試，請選擇表單欄位，然後選擇「從其他來源填寫」。
+ai-smart-form-fill-try-again-button =
+    .label = 重試
