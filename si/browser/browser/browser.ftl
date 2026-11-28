@@ -491,6 +491,8 @@ urlbar-result-action-tabtosearch-web = ලිපින තීරුවෙන් 
 urlbar-result-action-tabtosearch-other-engine = ලිපින තීරුවෙන් සෘජුව { $engine } හි සොයන්න
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = පිටපතක්
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = { -brand-product-name } දිගුව
 
 ## Strings used for buttons in the urlbar
 

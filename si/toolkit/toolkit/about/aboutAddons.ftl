@@ -405,3 +405,11 @@ plugins-gmp-privacy-info = පෞද්ගලිකත්‍ව තොරතු�
 
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = අවසර හා දත්ත
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo-open-amo-button = දිගු හා තේමා ගවේෂණය කරන්න

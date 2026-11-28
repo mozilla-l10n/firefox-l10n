@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Стерти всю історію
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Видалення даних перегляду
 clear-data-settings-label = При закритті { -brand-short-name } повинен автоматично стирати
 sanitize-on-shutdown-description = Автоматично очищати всі позначені елементи, коли { -brand-short-name } закривається.
 
@@ -36,17 +43,19 @@ clear-time-duration-prefix2 =
     .value = Коли:
     .accesskey = К
 clear-time-duration-value-last-hour =
-    .label = останню годину
+    .label = Остання година
 clear-time-duration-value-last-2-hours =
-    .label = останні 2 години
+    .label = Останні 2 години
 clear-time-duration-value-last-4-hours =
-    .label = останні 4 години
+    .label = Останні 4 години
 # Variables:
 #   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
 clear-time-duration-value-since-midnight =
     .label = Після { $midnightTime }
 clear-time-duration-value-today =
-    .label = за сьогодні
+    .label = За сьогодні
+clear-time-duration-value-all-time =
+    .label = За весь час
 clear-time-duration-value-everything =
     .label = Усе
 clear-time-duration-suffix =
@@ -56,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Історія
+item-history-and-downloads2 =
+    .label = Історія переглядів та завантажень
+    .accesskey = І
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Список відвіданих сайтів та завантажень
 item-history-and-downloads =
     .label = Історію переглядів та завантажень
     .accesskey = г
@@ -79,6 +93,17 @@ item-active-logins =
 item-cache =
     .label = Кеш
     .accesskey = к
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Тимчасові файли ({ $amount } { $unit })
+    .accesskey = Т
+item-cached-content2 =
+    .label = Тимчасові файли
+    .accesskey = ч
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Допомагає швидшому завантаженню сайтів
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -107,6 +132,7 @@ item-site-settings =
 item-offline-apps =
     .label = Дані автономних вебсайтів
     .accesskey = а
+sanitize-everything-undo-warning2 = Це неможливо скасувати.
 sanitize-everything-undo-warning = Цю дію неможливо скасувати.
 window-close =
     .key = w
@@ -116,6 +142,14 @@ sanitize-button-ok2 =
     .label = Очистити
 sanitize-button-ok-on-shutdown =
     .label = Зберегти зміни
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Видалити
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Закрити
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

@@ -66,6 +66,9 @@ about-logging-preset-gfx-description = Módulos de registo para diagnosticar pro
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Módulos de registo para diagnosticar problemas específicos do Microsoft Windows
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = Método de Introdução
 about-logging-preset-custom-label = Personalizar
 about-logging-preset-custom-description = Módulos de registo selecionados manualmente
 # Error handling

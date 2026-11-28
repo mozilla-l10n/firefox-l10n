@@ -1492,6 +1492,13 @@ reset-pbm-toolbar-button2 =
     .label = Стерти приватний сеанс
     .tooltiptext = Стерти приватний сеанс
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button2 =
+    .label = Видалити деякі або всі дані
+    .tooltiptext = Видалити деякі або всі дані перегляду
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } втримав цю сторінку від автоматичного перезавантаження.

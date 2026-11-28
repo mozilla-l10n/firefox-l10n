@@ -10,6 +10,8 @@
 
 origin-controls-no-access =
     .label = දිගුවට දත්ත කියවීමට හා සංශෝධනයට නොහැකිය
+origin-controls-options =
+    .label = දිගුවට දත්ත කියවීමට හා සංශෝධනයට හැකිය:
 origin-controls-option-all-domains =
     .label = සියළුම අඩවිවල
 
