@@ -21,6 +21,11 @@ screenshots-notification-image-copied-title = සේයාව පිටපත්
 screenshots-component-download-button-2 = බාගන්න
     .aria-label = බාගන්න
     .title = බාගන්න ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = තිරසේයාව
+    .tooltiptext = තිරසේයාවක් ගන්න ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

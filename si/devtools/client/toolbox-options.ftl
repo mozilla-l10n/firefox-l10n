@@ -48,7 +48,7 @@ options-styleeditor-label = ශෛලිය සංස්කරකය
 # The heading
 options-screenshot-label = තිරසේයාව හැසිරීම
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-only-label = තිර සේයාව පසුරු පුවරුවට පමණි
+options-screenshot-clipboard-only-label = තිරසේයාව පසුරුපුවරුවට පමණි
 options-screenshot-clipboard-tooltip2 =
     .title = තිරසේයාව සෘජුව පසුරුපුවරුවට සුරකියි
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool

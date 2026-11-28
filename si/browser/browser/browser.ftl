@@ -239,7 +239,8 @@ quickactions-cmd-refresh = නැවුම් කරන්න
 quickactions-restart = { -brand-short-name } යළි අරඹන්න
 quickactions-cmd-restart = යළි අරඹන්න
 # Opens the screenshot tool
-quickactions-screenshot3 = තිර සේයාවක් ගන්න
+quickactions-screenshot3 = තිරසේයාවක් ගන්න
+quickactions-cmd-screenshot2 = තිරසේයාව, තිරසේයාවක් ගන්න
 # Opens about:preferences
 quickactions-settings2 = සැකසුම් කළමනාකරණය
 # Opens about:addons page in the themes section

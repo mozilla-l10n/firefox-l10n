@@ -26,6 +26,8 @@ share-panel-os-share-2 =
         }
 share-panel-mail =
     .label = වි-තැපෑලක් යවන්න
+share-panel-screenshot =
+    .label = තිරසේයාවක් ගන්න
 share-panel-qr-code-2 =
     .label = QR කේතයක් සාදන්න
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -36,3 +38,13 @@ share-panel-send-to-device =
 # Clicking this will bring them to a place where they can connect other devices.
 share-panel-send-to-mobile =
     .label = දුරකථනයට යවන්න
+share-panel-device-subview =
+    .title = සියලු උපාංග
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = උපාංගයක් එක් කරන්න
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = ඔබගේ උපාංගය නොපෙනේද?

@@ -392,7 +392,7 @@ main-context-menu-view-selection-source =
     .label = තේරීමෙහි මූලාශ්‍රය බලන්න
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = තිර සේයාවක් ගන්න
+    .label = තිරසේයාවක් ගන්න
     .accesskey = T
 main-context-menu-view-page-source =
     .label = පිටුවේ මූලය ‌පෙන්වන්න
@@ -419,3 +419,7 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = මුරපදය පෙන්වන්න
     .accesskey = v
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = නව
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = බීටා
