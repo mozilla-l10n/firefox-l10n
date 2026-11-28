@@ -936,6 +936,50 @@ urlbar-result-flight-status-status-cancelled = Odwołany
 # Variables:
 #   $departureEstimatedTime (string) - The estimated departure time.
 urlbar-result-flight-status-status-delayed = Opóźniony do { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = Pozostało: { $timeLeft }
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Informacje o lotach
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } — { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } o { $time }
+urlbar-result-sports-status-live = Trwa
+urlbar-result-sports-status-final = Zakończony
+urlbar-result-menu-dont-show-sports = Nie pokazuj informacji sportowych
+    .accesskey = N
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Informacje sportowe
 
 ## Strings used for buttons in the urlbar
 
@@ -1069,6 +1113,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Ostatnie wyszukiwania
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Skróty
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1772,6 +1821,10 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = Usunięcie ciasteczek i danych witryny może spowodować wylogowanie ze strony lub opróżnienie koszyka w sklepie.
 trustpanel-clear-cookies-subview-button-clear = Wyczyść
 trustpanel-clear-cookies-subview-button-cancel = Anuluj
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Usuń dane witryny { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =

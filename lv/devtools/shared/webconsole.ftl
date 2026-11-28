@@ -313,21 +313,21 @@ webconsole-css-warning-elements = Elementi, kas atbilst atlaslītājam: { $selec
 # Variables:
 #   $url (String) - URL to file a bug about the error.
 webconsole-message-render-error = [DEVTOOLS KĻŪDA] Atvainojamies, mēs nevarējām atveidot ziņojumu! Tam nevajadzēja notikt — lūgums ziņot par to { $url }, aprakstā norādot ziņojuma metadatus.
-webconsole-message-render-error-copy-button = Kopēt ziņojuma metadatus starpliktuvē
+webconsole-message-render-error-copy-button = Ievietot ziņojuma metadatus starpliktuvē
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
-webconsole-editor-toolbar-execute-button-label = Palaist
-webconsole-editor-toolbar-execute-button-tooltip = Izpildīt izteiksmi ({ $shortcut }). Tas neizdzēsīs ievadi.
-webconsole-editor-toolbar-pretty-print-button-tooltip = Formatēt izteiksmi pārskatāmi
+webconsole-editor-toolbar-execute-button-label = Izpildīt
+webconsole-editor-toolbar-execute-button-tooltip = Izpildīt izteiksmi ({ $shortcut }). Tas nenotīrīs ievadi.
+webconsole-editor-toolbar-pretty-print-button-tooltip = Drukāt izteiksmi glīti
 webconsole-editor-toolbar-prev-expression-button-tooltip = Iepriekšējā izteiksme
 webconsole-editor-toolbar-next-expression-button-tooltip = Nākamā izteiksme
 # The reverse search mimics the bash-like reverse search of command history,
 # searching commands from the last item backwards.
-webconsole-editor-toolbar-open-reverse-search-tooltip = Atvērt vēsturi Apgrieztā meklēšana ({ $shortcut })
-webconsole-editor-toolbar-close-reverse-search-tooltip = Aizvērt vēsturi Apgrieztā meklēšana ({ $shortcut })
+webconsole-editor-toolbar-open-reverse-search-tooltip = Atvērt vēstures apvērsto meklēšanu ({ $shortcut })
+webconsole-editor-toolbar-close-reverse-search-tooltip = Aizvērt vēstures apvērsto meklēšanu ({ $shortcut })
 webconsole-editor-toolbar-close-button-tooltip = Pārslēgties atpakaļ uz iekļauto režīmu ({ $shortcut })
 
 ## Console input.
@@ -335,15 +335,15 @@ webconsole-editor-toolbar-close-button-tooltip = Pārslēgties atpakaļ uz iekļ
 # Tooltip of the button that switches to the multi-line editor mode.
 # Variables:
 #   $shortcut (String) - Keyboard shortcut for the action.
-webconsole-input-open-editor-button-tooltip = Pārslēgties uz daudzrindu redaktora režīmu ({ $shortcut })
+webconsole-input-open-editor-button-tooltip = Pārslēgties uz daudzrindu labotāja režīmu ({ $shortcut })
 # Displayed the first time the multi-line editor mode is used, until dismissed.
 # Variables:
 #   $runShortcut (String) - Shortcut to run the expression (e.g. Ctrl+Enter).
-webconsole-input-editor-onboarding = Ātrāk atkārtojiet savu kodu, izmantojot jauno daudzrindu redaktora režīmu. Izmantojiet <span data-l10n-name="enter-key">{ webconsole-enter-key }</span>, lai pievienotu jaunas rindas, un <span data-l10n-name="run-shortcut">{ $runShortcut }</span>, lai palaistu.
+webconsole-input-editor-onboarding = Atkārto savu kodu ar jauno daudzrindu labotāja režīmu ātrāk! Izmanto<span data-l10n-name="enter-key">{ webconsole-enter-key }</span>, lai pievienotu jaunas rindas, un <span data-l10n-name="run-shortcut">{ $runShortcut }</span>, lai izpildītu!
 webconsole-input-editor-onboarding-dismiss = Sapratu.
 # Name of the Enter key, used in the editor onboarding and in the tooltip of
 # the “Run” button.
-webconsole-enter-key = Ieiet
+webconsole-enter-key = Enter
 # Title of the file picker used to open a file in the console input (Ctrl+O or
 # Cmd+O on macOS).
 webconsole-input-open-javascript-file = Atvērt JavaScript datni
@@ -351,11 +351,11 @@ webconsole-input-open-javascript-file-filter = JavaScript datnes
 # Name used for the main thread of execution of the page in the evaluation
 # context selector.
 webconsole-input-selector-top = Augšā
-webconsole-input-selector-tooltip = Atlasiet novērtēšanas kontekstu
+webconsole-input-selector-tooltip = Atlasi izvērtēšanas kontekstu
 
 ## Labels of groups of similar warnings.
 
 webconsole-group-cookie = Sīkdatņu brīdinājumi
 # “Content-Security-Policy” is the name of an HTTP header and should not be
 # translated.
-webconsole-group-csp = Satura drošības politikas brīdinājumi
+webconsole-group-csp = Content-Security-Policy brīdinājumi
