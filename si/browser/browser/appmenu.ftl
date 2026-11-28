@@ -18,6 +18,8 @@ appmenuitem-banner-update-restart =
 appmenu-nova-update-title = { -brand-short-name } යාවත්කාලයට යළි අරඹන්න
 appmenu-nova-update-description = ඔබගේ පටිති යළි විවෘත වනු ඇත.
 appmenu-nova-fxa-sign-in = පිවිසෙන්න
+appmenu-nova-switch-device-promo =
+    .message = ළඟදී අලුත් උපාංගයක් ගන්නවාද? ඔබ සමඟ { -brand-short-name } රැගෙන යන්න!
 appmenuitem-new-tab =
     .label = නව පටිත්ත
 appmenuitem-new-window =
@@ -91,6 +93,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = තවත් පටිති පෙන්වන්න
     .tooltiptext = මෙම උපාංගයෙන් බොහෝ පටිති පෙන්වන්න
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = අක්‍රිය පටිති
+    .tooltiptext = මෙ උපාංගයේ අක්‍රිය පටිති බලන්න
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = විවෘත පටිති නැත.
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -123,8 +129,18 @@ fxa-menu-sync-status-turn-on-button-aria-label = සක්‍රිය කරන
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = සමමුහුර්තයට පිවිසෙන්න
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = දැන් { $deviceName } සමමුහුර්ත කරන්න
+fxa-menu-manage-sync-settings =
+    .label = සමමුහුර්ත සැකසුම් කළමනාකරණය
+fxa-menu-add-device =
+    .label = උපාංගයක් එක් කරන්න
 fxa-menu-manage-devices =
     .label = ඔබගේ උපාංග කළමනාකරණය
+fxa-menu-device-missing =
+    .label = ඔබගේ උපාංගය නොපෙනේද?
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
 fxa-menu-all-devices =
     .label = සියලු උපාංග

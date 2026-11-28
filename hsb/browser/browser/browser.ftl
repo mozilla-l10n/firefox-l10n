@@ -1970,6 +1970,14 @@ trustpanel-blocker-section-header2 =
        *[other] <span data-l10n-name="count">{ $count }</span> přesćěhowakow je so na tutym sydle zablokowało
     }
 
+## Items of the bulleted list introduced by trustpanel-site-issue-steps-intro.
+## Each one names a feature the user can turn off to check whether it causes
+## the site issue.
+
+trustpanel-site-issue-step-extensions = Rozšěrjenja
+trustpanel-site-issue-step-vpn = Zatwarjeny VPN
+trustpanel-site-issue-step-etp = Polěpšeny slědowanski škit
+
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header2-redesign =

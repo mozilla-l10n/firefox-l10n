@@ -32,8 +32,11 @@ user-context-shopping2 =
 user-context-manage-containers =
     .label = Керувати контейнерами
     .accesskey = К
+user-context-add-container2 =
+    .label = Додати новий контейнер
 user-context-manage-containers2 =
     .label = Керувати контейнерами
+user-context-add-container2-panel-item = Додати новий контейнер
 user-context-manage-containers2-panel-item = Керувати контейнерами
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

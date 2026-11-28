@@ -19,6 +19,8 @@ share-panel-mail =
     .label = Надіслати електронний лист
 share-panel-screenshot =
     .label = Зробити знімок екрана
+share-panel-qr-code-2 =
+    .label = Створити QR-код
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =

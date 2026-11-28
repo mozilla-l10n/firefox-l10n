@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = Wobškodźene sydło zdźělić
 report-broken-site-panel-intro-text = Waša rozprawa nam pomha, problemy w { -brand-product-name } rozumić a rozrisać, zo bychmy jón za kóždeho polěpšili.
 report-broken-site-panel-learn-more-link = Dalše informacije
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Sydłowa adresa
 report-broken-site-panel-url-label = URL wobškodźeneho sydła
 report-broken-site-panel-reason-intro-text = Što njefunguje?
 report-broken-site-panel-reason-load-moz-box-button =
@@ -37,6 +39,10 @@ report-broken-site-panel-instructions-optional = Wopisajće problem nadrobnje (n
 report-broken-site-panel-instructions-other-optional = Wopisajće problem nadrobnje, zo byšće nam pomhał, problem přespytować. (na přeće)
 report-broken-site-panel-description2 =
     .placeholder = Što je so stało? Što ma so stać? Prošu podajće kroki za reprodukciju problema.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Informacije přez { $website } pósłać
 report-broken-site-panel-send-more-info-button =
     .label = Dalše informacije pósłać
 report-broken-site-panel-button-cancel =
@@ -65,6 +71,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Lisćinu zapiskow pósłać, kotrež su so přez přesćěhowanski škit zablokowali
 report-broken-site-panel-url-input-label =
     .aria-label = URL strony, kotraž so zdźěla
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Diagnostiske daty pokazać
 report-broken-site-panel-preview-button =
     .label = Přehlad rozprawy pokazać
 report-broken-site-panel-preview-header2 =

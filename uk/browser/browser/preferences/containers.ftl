@@ -22,3 +22,7 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .style = min-width: 32em
     .title = Налаштування контейнера { $name }
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Додати новий контейнер

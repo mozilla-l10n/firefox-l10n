@@ -62,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = Tutu stronu přełožować?
 translations-panel-translate-button =
     .label = Přełožić
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = Hnydomne přełožki w rozdźělenym napohledźe
+    .tooltiptext = Hnydomne přełožki w rozdźělenym napohledźe
 translations-panel-translate-button-loading =
     .label = Prošu čakajće…
 translations-panel-translate-cancel =
