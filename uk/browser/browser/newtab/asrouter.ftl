@@ -419,6 +419,14 @@ set-default-menu-message-row-layout-subtitle-variant =
 set-default-menu-message-primary-button = Зробити типовим
 set-default-menu-message-primary-button-variant = Зробити основним браузером
 
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Зберегти й продовжити
+
 ## Refresh Firefox infobar
 ##
 ## Shown at startup when the profile has not been used in over 60 days, or when

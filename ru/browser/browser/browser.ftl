@@ -921,6 +921,66 @@ urlbar-result-dates-today = { $name } · Сегодня
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Заканчивается сегодня
 
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Не показывать предложения о статусе рейса
+    .accesskey = т
+urlbar-result-flight-status-status-ontime = Вовремя
+urlbar-result-flight-status-status-inflight = В полёте
+urlbar-result-flight-status-status-arrived = Прибыл
+urlbar-result-flight-status-status-cancelled = Отменён
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Задержан до { $departureEstimatedTime }
+# Example: 30 min left
+# Variables:
+#   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
+urlbar-result-flight-status-time-left = Осталось { $timeLeft }
+# Example: Los Angeles (LAX)
+# Variables:
+#   $city (string) - The city of the airport.
+#   $code (string) - The code of the airport.
+urlbar-result-flight-status-airport = { $city } ({ $code })
+# Example: AC 8170, Air Canada
+# Variables:
+#   $flightNumber (string) - The flight number.
+#   $airlineName (string) - The airline name.
+urlbar-result-flight-status-flight-number-with-airline = { $flightNumber }, { $airlineName }
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-flight-status =
+    .aria-label = Предложения о статусе рейса
+
+## These strings are used for sports suggestions in the urlbar. Sports
+## suggestions show team names, scores, game times, etc.
+
+# This string is shown for a scheduled future game. Please list $homeTeam before
+# $awayTeam so that the ordering of teams in the string matches the ordering of
+# the team icons in the suggestion UI. Without violating the team ordering,
+# please use your language's equivalent of "vs". "and" is another option.
+# Variables:
+#   $homeTeam (string) - Name of the home team.
+#   $awayTeam (string) - Name of the visiting team.
+urlbar-result-sports-team-names = { $homeTeam } против { $awayTeam }
+# This string is shown when the game is today, in the near future, or in the
+# recent past.
+# Variables:
+#   $date (string) - Localized date string, e.g., "Today", "Oct 31"
+#   $time (string) - Localized time
+urlbar-result-sports-game-date-with-time = { $date } в { $time }
+urlbar-result-sports-status-live = Эфир
+urlbar-result-sports-status-final = Финал
+urlbar-result-menu-dont-show-sports = Не показывать предложения о спорте
+    .accesskey = т
+# This accessibility label is read by screen readers when an item in the row is
+# selected.
+urlbar-result-aria-group-sports =
+    .aria-label = Предложения о спорте
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1053,6 +1113,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Недавние поиски
+# A label shown above the Shortcuts aka Top Sites group in the urlbar results
+# if there's another result before that group. This should be consistent with
+# addressbar-locbar-shortcuts-option.
+urlbar-group-shortcuts =
+    .label = Ярлыки
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
@@ -1758,8 +1823,17 @@ trustpanel-clear-cookies-subview-button-clear = Очистить
 trustpanel-clear-cookies-subview-button-cancel = Отмена
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header-redesign =
+    .title = Удалить данные сайта для { $host }
+trustpanel-clear-cookies-description-redesign = На сайтах будет произведён выход. Корзины могут очиститься от покупок.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Защита соединения с { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Информация о подключении для { $host }
 trustpanel-siteinformation-morelink = Больше информации о сайте
 trustpanel-blocker-see-all = Показать все
 trustpanel-blocker-see-trackers-button = Просмотреть трекеры

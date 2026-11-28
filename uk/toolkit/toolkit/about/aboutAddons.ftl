@@ -544,3 +544,15 @@ mlmodel-addon-detail-used-by-label = Використовується
 mlmodel-addon-detail-model-card = Картка моделі
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Переглянути на Hugging Face
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Світла
+themes-mode-dark =
+    .label = Темна
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Пристрій

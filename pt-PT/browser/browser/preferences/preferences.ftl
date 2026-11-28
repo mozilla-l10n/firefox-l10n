@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = Questionar antes de fechar múltiplos separadores
     .accesskey = m
+ask-on-close-multiple-tabs-pbmode =
+    .label = Perguntar antes de fechar múltiplos separadores em janelas privadas
+    .accesskey = v
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

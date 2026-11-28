@@ -20,3 +20,15 @@ colorpicker-tooltip-hue-slider-title = Відтінок
 colorpicker-tooltip-alpha-slider-title = Прозорість
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Псевдокласи, специфічні для елемента
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Перемкнути емуляцію світлої схеми кольорів для сторінки
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Перемкнути емуляцію темної схеми кольорів для сторінки
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Світла
+    .aria-label = Увімкнути емуляцію світлої схеми кольорів
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Темна
+    .aria-label = Увімкнути емуляцію темної схеми кольорів

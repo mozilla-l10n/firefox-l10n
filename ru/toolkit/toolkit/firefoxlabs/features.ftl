@@ -14,7 +14,7 @@ experimental-features-js-warp-description = Активирует проект Wa
 # Search during IME
 experimental-features-ime-search =
     .label = Адресная строка: показывать результаты при составлении IME
-experimental-features-ime-search-description = IME (Input Method Editor - Редактор методов ввода) — это инструмент, позволяющий вводить сложные символы, например, используемые в письменности языков Восточной Азии или Индии, с помощью стандартной клавиатуры. Включение этого эксперимента позволит держать панель адресной строки открытой, показывая результаты поиска и предложения при использовании IME для ввода текста. Обратите внимание, что IME может отображать панель, закрывающую результаты адресной строки, поэтому данная настройка предлагается только для IME не использующего этот тип панели.
+experimental-features-ime-search-description = IME (Input Method Editor – редактор методов ввода) — это инструмент, который позволяет вводить сложные символы (например, используемые в языках Восточной Азии или Индии) с помощью стандартной клавиатуры. Включение этого эксперимента оставит панель адресной строки открытой (с результатами поиска и подсказками) во время ввода текста с помощью IME. Обратите внимание, что IME может отображать панель, перекрывающую результаты в адресной строке, поэтому данная настройка рекомендуется только для тех IME, которые не используют такие панели.
 experimental-features-group-developer-tools =
     .label = Инструменты разработчика
 experimental-features-group-webpage-display =
@@ -28,7 +28,7 @@ experimental-features-group-newtab-widgets =
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Выберите собственные обои или цвет для Новой вкладки
-experimental-features-custom-wallpaper-description = Загрузите свои обои или выберите цвет для фона Новой вкладки.
+experimental-features-custom-wallpaper-description = Загрузите свои обои или выберите цвет для фона новой вкладки.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Предпросмотр ссылки
@@ -45,8 +45,8 @@ experimental-features-link-previews-description-no-ai =
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
-    .label = Тематические разделы и Отслеживать/Блокировать для Историй Новой вкладки
-experimental-features-newtab-sections-follow-block-description = Организуйте статьи на странице Новая вкладка в тематические разделы (Спорт, Еда, Развлечения и другие) для более структурированного и удобного просмотра. Используйте новые элементы управления Отслеживать и Блокировать, чтобы настроить, какой контент вы видите. <a data-l10n-name="connect">Поделитесь отзывом</a>
+    .label = Тематические разделы, подписки и блокировки в историях на новой вкладке
+experimental-features-newtab-sections-follow-block-description = Упорядочивайте статьи на странице новой вкладки по тематическим разделам (спорт, еда, развлечения и другие) для более структурированного и удобного просмотра. Используйте новые элементы управления «Подписки» и «Блокировки», чтобы настроить отображаемый контент. <a data-l10n-name="connect">Оставить отзыв</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Добавьте сайты на панель задач

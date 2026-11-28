@@ -14,6 +14,7 @@ neterror-dns-not-found-title = Сервер не найден
 neterror-malformed-uri-page-title = Некорректный URL
 general-body-title = Будьте осторожны. Что-то выглядит неправильно.
 problem-with-this-site-title = Похоже, на этом сайте есть проблема
+neterror-http-auth-scheme-disabled-title = Метод входа на этот сайт отключён
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = Пожалуйста, свяжитесь с вл�
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } не доверяет { $hostname }, потому что соединение не защищено. Попробуйте сменить URL-адрес на HTTPS.
+neterror-http-auth-scheme-disabled = Если вам необходимо войти на этот сайт, обратитесь к системному администратору.
 neterror-nss-failure-not-verified = Страница, которую вы пытаетесь просмотреть, не может быть отображена, так как достоверность полученных данных не может быть проверена.
 neterror-nss-failure-contact-website = Пожалуйста, свяжитесь с владельцами веб-сайта и сообщите им об этой проблеме.
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = { -brand-short-name } не загрузил эту
 fp-neterror-blocked-by-policy-intro = Ваша организация заблокировала доступ к этой странице или сайту.
 fp-neterror-http-auth-disabled-intro = Кто-то, выдающий себя за сайт, может попытаться украсть ваше имя пользователя, пароль или адрес электронной почты.
 fp-neterror-http-auth-disabled-secure-connection = Этот сайт требует использования безопасного соединения, и вы не можете добавить исключение для его посещения.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> попросил вас войти, используя метод, который был отключён в ваших настройках соединения.
 fp-neterror-why-did-this-happen = Почему это произошло?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Похоже, этот сайт использует устаревшее программное обеспечение с известными проблемами безопасности.

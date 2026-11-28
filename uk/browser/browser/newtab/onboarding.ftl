@@ -533,3 +533,8 @@ onboarding-refresh-sync-title = Вебперегляд і синхронізац
 onboarding-refresh-gratitude-subtitle = Дякуємо вам за користування { -brand-short-name }, єдиним браузером від некомерційної організації. Завдяки вашій підтримці ми докладаємо зусиль для розвитку безпечнішого інтернету, доступного для всіх.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } працює для вас
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Вибір теми
+onboarding-theme-picker-button-label = Зберегти й продовжити

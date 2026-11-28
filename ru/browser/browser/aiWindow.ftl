@@ -415,3 +415,76 @@ smartwindow-onboarding-default-window =
     .label = Начать в { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Сохранить и перейти
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Заполнять из источников
+ai-smart-form-fill-autocomplete-loading = Загрузка
+ai-smart-form-fill-autocomplete-sources-label = Заполнять из источников
+ai-smart-form-fill-autocomplete-choose-tabs = Откройте или выберите страницы, связанные с этой формой, чтобы получить предложения автозаполнения
+ai-smart-form-fill-autocomplete-open-tabs = Открыть страницы, связанные с этой формой, чтобы получить предложения автозаполнения
+ai-smart-form-fill-close-review-button =
+    .label = Закрыть
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } вкладка
+        [few] { $tabs } вкладки
+       *[many] { $tabs } вкладок
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Изменить источники
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Изменить источники
+ai-smart-form-fill-suggested-tabs-heading = Предлагаемые вкладки
+ai-smart-form-fill-other-tabs-heading = Другие вкладки
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Переключить выбор вкладок для «{ $tabTitle }»
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Отмена
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Готово
+ai-smart-form-fill-fill-form-button =
+    .label = Заполнить форму
+ai-smart-form-fill-review-heading = Просмотр предложений
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Нашли предложения для { $count } поля . Отредактируйте или удалите всё, что не так.
+        [few] Нашли предложения для { $count } полей. Отредактируйте или удалите всё, что не так.
+       *[many] Нашли предложения для { $count } полей. Отредактируйте или удалите всё, что не так.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Поле
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Перейти в конец предложений
+    .tooltiptext = Перейти в конец
+ai-smart-form-fill-cancel-review-button =
+    .label = Отмена
+ai-smart-form-fill-finding-suggestions = Поиск предложений
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Прекратить поиск предложений
+ai-smart-form-fill-success-heading = В форму добавлены предложения
+ai-smart-form-fill-success-description = Проверьте форму и заполните все оставшиеся поля перед отправкой.
+ai-smart-form-fill-no-changes-heading = В форму ничего не добавлено
+ai-smart-form-fill-no-changes-description = Некоторые поля могли измениться или были уже заполнены. Чтобы попробовать снова, очистите поле, выберите его, а затем выберите «Заполнять из источников».
+ai-smart-form-fill-no-suggestions-heading = Вариантов не найдено
+ai-smart-form-fill-no-suggestions-description = Мы не смогли прочитать эту форму или найти хорошие совпадения в ваших источниках. Может помочь использование других источников.
+ai-smart-form-fill-error-try-again-heading = Предложения в форму не были добавлены
+ai-smart-form-fill-error-try-again-description = Что-то пошло не так. Попробуйте добавить предложения снова.
+ai-smart-form-fill-error-heading = Предложения не добавлены
+ai-smart-form-fill-error-description = Что-то пошло не так. Чтобы попробовать снова, выберите поле формы и выберите Заполнять из источников.
+ai-smart-form-fill-try-again-button =
+    .label = Попробовать снова
