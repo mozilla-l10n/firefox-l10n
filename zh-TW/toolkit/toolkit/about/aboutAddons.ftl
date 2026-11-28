@@ -41,7 +41,7 @@ detail-version =
 detail-last-updated =
     .label = 最近更新時間
 addon-detail-description-expand = 顯示更多
-addon-detail-description-collapse = 顯示較少
+addon-detail-description-collapse = 顯示更少
 detail-contributions-description = 這個元件的開發者希望您透過小小的捐獻協助其後續開發。
 detail-contributions-button = 贊助
     .title = 贊助這個元件的開發
@@ -242,7 +242,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] 顯示另外 { $numberToShow } 個
     }
-shortcuts-card-collapse-button = 顯示較少
+shortcuts-card-collapse-button = 顯示更少
 header-back-button =
     .title = 回上一頁
 

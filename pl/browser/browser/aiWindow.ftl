@@ -425,5 +425,59 @@ smartwindow-onboarding-save =
 ai-smart-form-fill-autocomplete-label = Wypełnij na podstawie źródeł
 ai-smart-form-fill-autocomplete-loading = Wczytywanie
 ai-smart-form-fill-autocomplete-sources-label = Wypełnij na podstawie źródeł
-ai-smart-form-fill-autocomplete-choose-tabs = Otwórz lub wybierz strony powiązane z tym formularzem, aby otrzymać podpowiedzi automatycznego wypełniania
+ai-smart-form-fill-autocomplete-choose-tabs = Otwórz lub wybierz strony powiązane z tym formularzem, aby otrzymać automatyczne podpowiedzi
 ai-smart-form-fill-autocomplete-open-tabs = Otwórz strony powiązane z tym formularzem, aby otrzymać automatyczne podpowiedzi
+ai-smart-form-fill-close-review-button =
+    .label = Zamknij
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count =
+    { $tabs ->
+        [one] { $tabs } karta
+        [few] { $tabs } karty
+       *[many] { $tabs } kart
+    }
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = Edytuj źródła
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = Edytuj źródła
+ai-smart-form-fill-suggested-tabs-heading = Proponowane karty
+ai-smart-form-fill-other-tabs-heading = Pozostałe karty
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Przełącz wybór kart dla „{ $tabTitle }”
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = Anuluj
+ai-smart-form-fill-accept-tab-select-button =
+    .label = Gotowe
+ai-smart-form-fill-fill-form-button =
+    .label = Wypełnij formularz
+ai-smart-form-fill-review-heading = Sprawdź propozycje
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description =
+    { $count ->
+        [one] Znaleźliśmy propozycję dla { $count } pola. Edytuj ją lub usuń, jeśli jest nieprawidłowa.
+        [few] Znaleźliśmy propozycje dla { $count } pól. Edytuj lub usuń nieprawidłowe.
+       *[many] Znaleźliśmy propozycje dla { $count } pól. Edytuj lub usuń nieprawidłowe.
+    }
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = Pole
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Przejdź na koniec listy propozycji
+    .tooltiptext = Przejdź na koniec listy
+ai-smart-form-fill-cancel-review-button =
+    .label = Anuluj
+ai-smart-form-fill-finding-suggestions = Wyszukiwanie propozycji
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = Zatrzymaj wyszukiwanie propozycji
+ai-smart-form-fill-success-heading = Propozycje dodane do formularza
+ai-smart-form-fill-success-description = Przed wysłaniem sprawdź formularz i wypełnij brakujące pola.
+ai-smart-form-fill-no-changes-heading = Nic nie dodano do formularza
+ai-smart-form-fill-no-changes-description = Część pól mogła zostać zmieniona lub była już wypełniona. Aby spróbować ponownie, wyczyść pole, wybierz je, a następnie kliknij „Wypełnij na postawie źródeł”.
+ai-smart-form-fill-no-suggestions-heading = Nie znaleziono żadnych propozycji

@@ -8,4 +8,4 @@
 # Placeholder for the search box in the DOM panel toolbar.
 dom-panel-filter-placeholder = 過濾 DOM 面板
 # Tooltip for the button that refreshes the DOM panel.
-dom-panel-refresh-button-title = 更新
+dom-panel-refresh-button-title = 重新整理

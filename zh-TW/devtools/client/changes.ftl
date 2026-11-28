@@ -24,9 +24,9 @@ changes-element-style-label = 元素
 # Lowercase intentional.
 changes-iframe-label = iframe
 changes-copy-all-changes-button = 複製所有變更
-changes-copy-all-changes-button-title = 複製所有 CSS 變更清單到剪貼簿。
+changes-copy-all-changes-button-title = 將所有 CSS 變更清單複製到剪貼簿。
 changes-copy-rule-button = 複製規則
-changes-copy-rule-button-title = 複製此 CSS 規則內容到剪貼簿。
+changes-copy-rule-button-title = 將此 CSS 規則內容複製到剪貼簿。
 
 ## Changes panel context menu
 

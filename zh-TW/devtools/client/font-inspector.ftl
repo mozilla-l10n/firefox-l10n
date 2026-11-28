@@ -9,7 +9,7 @@
 # Displayed in place of the font URL when the font is installed locally on the
 # system.
 font-inspector-system = 系統
-font-inspector-no-fonts-used = 此元素中並未使用字型。
+font-inspector-no-fonts-used = 此元素並未使用字型。
 # Tooltip for the button that copies the font URL to the clipboard.
 font-inspector-copy-url-title = 複製網址
 # An "instance" is the term used by font authors for a named group of
@@ -31,7 +31,7 @@ font-inspector-line-height-label = 行高
 ## Toggle displayed when the list of fonts used is too long to show in full.
 
 font-inspector-show-more = 顯示更多
-font-inspector-show-less = 顯示較少
+font-inspector-show-less = 顯示更少
 
 ##
 

@@ -226,6 +226,9 @@ open-external-link-next-to-active-tab =
 ask-on-close-multiple-tabs =
     .label = 關閉多個分頁前先問我
     .accesskey = m
+ask-on-close-multiple-tabs-pbmode =
+    .label = 在隱私視窗中關閉多個分頁前，先詢問我
+    .accesskey = v
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted

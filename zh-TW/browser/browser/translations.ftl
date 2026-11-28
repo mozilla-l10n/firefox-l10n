@@ -24,6 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = 翻譯中
 translations-panel-settings-button =
     .aria-label = 管理翻譯設定
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button3 =
+    .tooltiptext = 翻譯此頁面
+urlbar-translations-button-intro-2 =
+    .tooltiptext = 試用保護隱私的 { -brand-shorter-name } 翻譯功能
 
 ## Options in the Firefox Translations settings.
 
@@ -57,6 +62,10 @@ translations-panel-settings-never-translate-site =
 translations-panel-header = 要翻譯此頁面嗎？
 translations-panel-translate-button =
     .label = 翻譯
+# This button opens a separate translation tool beside the current page in Split View.
+translations-panel-companion-button =
+    .aria-label = 在分割畫面中即時進行翻譯
+    .tooltiptext = 在分割畫面中即時進行翻譯
 translations-panel-translate-button-loading =
     .label = 請稍候…
 translations-panel-translate-cancel =

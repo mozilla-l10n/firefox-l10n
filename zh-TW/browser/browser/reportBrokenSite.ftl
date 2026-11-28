@@ -6,8 +6,11 @@ report-broken-site-mainview-title = 回報網站問題
 report-broken-site-panel-header =
     .label = 回報網站問題
     .title = 回報網站問題
+report-broken-site-panel-intro-text2 = 您回報的內容可協助我們為所有人改善 { -brand-product-name }。
 report-broken-site-panel-intro-text = 您的回報內容可幫助我們了解與修正 { -brand-product-name } 的問題，讓所有使用者都能獲得改進。
 report-broken-site-panel-learn-more-link = 更多資訊
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = 網站網址
 report-broken-site-panel-url-label = 故障網站的網址
 report-broken-site-panel-reason-intro-text = 哪個部分不正常？
 report-broken-site-panel-reason-load-moz-box-button =
@@ -32,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = 其他原因
 report-broken-site-panel-instructions-other = 請詳細描述問題，幫助我們調查問題。
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = 詳細描述問題（選填）
 report-broken-site-panel-instructions-other-optional = 請詳細描述問題，幫助我們調查。（選填）
 report-broken-site-panel-description2 =
     .placeholder = 發生了什麼事？您認為應該發生什麼？請提供重現問題的步驟。
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = 透過 { $website } 傳送資訊
 report-broken-site-panel-send-more-info-button =
     .label = 傳送更多資訊
 report-broken-site-panel-button-cancel =
@@ -57,6 +66,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = 傳送被追蹤保護功能封鎖的項目清單
 report-broken-site-panel-url-input-label =
     .aria-label = 要回報的頁面網址
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = 檢視診斷資料
 report-broken-site-panel-preview-button =
     .label = 預覽回報內容
 report-broken-site-panel-preview-header2 =
