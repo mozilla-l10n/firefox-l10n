@@ -6,8 +6,11 @@ report-broken-site-mainview-title = Zgłoś niepoprawnie działającą stronę
 report-broken-site-panel-header =
     .label = Zgłoś niepoprawnie działającą stronę
     .title = Zgłoś niepoprawnie działającą stronę
+report-broken-site-panel-intro-text2 = Twoje zgłoszenie pomoże nam ulepszyć { -brand-product-name(case: "acc") } dla wszystkich.
 report-broken-site-panel-intro-text = Twoje zgłoszenie pomoże nam zrozumieć i rozwiązać problemy w { -brand-product-name(case: "loc") }, aby ulepszyć go dla wszystkich.
 report-broken-site-panel-learn-more-link = Więcej informacji
+# Label above the address of the page being reported.
+report-broken-site-panel-site-address-label = Adres strony
 report-broken-site-panel-url-label = Adres niepoprawnie działającej strony
 report-broken-site-panel-reason-intro-text = Co nie działa?
 report-broken-site-panel-reason-load-moz-box-button =

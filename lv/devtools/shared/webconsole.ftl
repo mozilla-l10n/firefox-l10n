@@ -215,12 +215,12 @@ webconsole-close-split-console-button-tooltip = Aizvērt sadalīto konsoli (Esc)
 
 webconsole-filter-button-errors = Kļūdas
 webconsole-filter-button-warnings = Brīdinājumi
-webconsole-filter-button-logs = Ziņojumi
+webconsole-filter-button-logs = Žurnāla ieraksti
 webconsole-filter-button-info = Informācija
 webconsole-filter-button-debug = Atkļūdošana
 webconsole-filter-button-css = CSS
 # Tooltip of the CSS button when the filter is not enabled.
-webconsole-filter-button-css-inactive-tooltip = Stilu lapas tiks atkārtoti parsētas, lai pārbaudītu kļūdas. Atsvaidziniet lapu, lai redzētu arī kļūdas no stilu lapām, kas modificētas no Javascript.
+webconsole-filter-button-css-inactive-tooltip = Stilu lapas tiks atkārtoti parsētas, lai pārbaudītu, vai nav kļūdu. Jāatsvaidzina lapa, lai redzētu arī kļūdas no stilu lapām, kas ir pārveidotas no JavaScript.
 # Requests made with XMLHttpRequest or fetch().
 webconsole-filter-button-xhr = XHR
 # All network requests, e.g. for images or scripts.
@@ -229,7 +229,7 @@ webconsole-filter-button-requests = Pieprasījumi
 # show or hide messages emitted by the browser itself (its privileged “chrome”
 # code), as opposed to web content.
 webconsole-filter-button-chrome = Pārlūks
-webconsole-filter-button-chrome-tooltip = Rādīt pārlūka paša izdotos ziņojumus
+webconsole-filter-button-chrome-tooltip = Rādīt pārlūka paša izsūtītos ziņojumus
 # Only displayed in the Browser Console and the Browser Toolbox console, to
 # show or hide messages emitted by web content (websites).
 webconsole-filter-button-content = Saturs
@@ -239,53 +239,52 @@ webconsole-filter-button-content-tooltip = Rādīt tīmekļa satura izsūtītos 
 
 webconsole-settings-button-tooltip = Konsoles iestatījumi
 webconsole-settings-timestamps =
-    .label = Rādīt laika zīmogus
-    .title = Ja iespējosiet šo opciju, tīmekļa konsoles komandās un izvadē tiks parādīts laika zīmogs
+    .label = Rādīt laikspiedolus
+    .title = Ja iespējo šo iespēju, tīmekļa konsoles komandās un izvadē tiks parādīts laikspiedols
 webconsole-settings-warning-groups =
     .label = Apkopot līdzīgus ziņojumus
-    .title = Ja šī opcija ir iespējota, līdzīgi ziņojumi tiek ievietoti grupās
+    .title = Kad iespējots, līdzīgi ziņojumi tiek ievietoti kopās
 webconsole-settings-autocomplete =
     .label = Iespējot automātisko pabeigšanu
-    .title = Ja iespējosiet šo opciju, ievades laukā tiks parādīti ieteikumi, kad to rakstīsiet
+    .title = Ja iespējo šo iespēju, ievades laukā tiks parādīti ieteikumi, kad tajā rakstīsi
 webconsole-settings-persistent-logs =
-    .label = Saglabāt žurnālus
-    .title = Ja iespējosiet šo opciju, izvade netiks notīrīta katru reizi, kad pāriesiet uz jaunu lapu
+    .label = Paliekoši žurnāli
+    .title = Ja iespējo šo iespēju, izvade netiks notīrīta katru reizi, kad notiks pārvietošanās uz jaunu lapu
 webconsole-settings-instant-evaluation =
-    .label = Tūlītēja novērtēšana
-    .title = Ja iespējosiet šo opciju, ievade tiks nekavējoties novērtēta, tiklīdz to rakstīsiet
+    .label = Tūlītēja izvērtēšana
+    .title = Ja iespējo šo iespēju, ievade tiks nekavējoties izvērtēta, tiklīdz to rakstīsi
 # Only displayed in the Browser Console and the Browser Toolbox console.
 browserconsole-settings-network-monitoring =
     .label = Iespējot tīkla uzraudzību
-    .title = Iespējojiet šo opciju, lai sāktu uztvert tīkla pieprasījumus
+    .title = Iespējot šo, lai sāktu uztvert tīkla pieprasījumus
 
 ##
 
 # Displayed when the inspected page navigates to a new location.
 # Variables:
 #   $url (String) - The new URL.
-webconsole-navigated = Pāriet uz { $url }
+webconsole-navigated = Pārvietojās uz { $url }
 # Displayed when the inspected page is reloaded from DevTools.
-webconsole-reloaded = Pārlādēts
-webconsole-close-sidebar-button-tooltip = Aizvērt sānu joslu
+webconsole-reloaded = Pārlādēta
+webconsole-close-sidebar-button-tooltip = Aizvērt sānjoslu
 
 ## Reverse search UI, used to search the command history.
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut for the action.
 
-webconsole-reverse-search-input-placeholder = Meklēšanas vēsture
+webconsole-reverse-search-input-placeholder = Meklēt vēsturē
 webconsole-reverse-search-close-button-tooltip = Aizvērt ({ $shortcut })
 # Variables:
 #   $index (Number) - Index of the displayed result.
 #   $total (Number) - Total number of results.
 webconsole-reverse-search-results =
     { $total ->
-        [zero] { $index } rezultātu
-        [one] { $index } no { $total } rezultātiem
-       *[other] { $index } no { $total } rezultātiem
+        [zero] { $index }. no { $total } iznākumiem
+        [one] { $index }. no { $total } iznākuma
+       *[other] { $index }. no { $total } iznākumiem
     }
 webconsole-reverse-search-no-result = Nav iznākuma
-webconsole-reverse-search-previous-button-tooltip = Iepriekšējais rezultāts ({ $shortcut })
-webconsole-reverse-search-next-button-tooltip = Nākamais rezultāts ({ $shortcut })
+webconsole-reverse-search-previous-button-tooltip = Iepriekšējais iznākums ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays

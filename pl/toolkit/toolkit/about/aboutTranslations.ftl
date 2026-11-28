@@ -7,6 +7,9 @@ about-translations-title = Tłumaczenia { -brand-short-name(case: "gen") }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Natychmiastowe tłumaczenia, które szanują Twoją prywatność.
 about-translations-learn-more-link = Więcej informacji
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = Zamknij tłumaczenia { -brand-short-name(case: "gen") }
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = Tłumaczenie nie jest dostępne na tym urządzeniu
