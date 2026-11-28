@@ -405,3 +405,34 @@ smartwindow-onboarding-default-window =
     .label = 預設以 { -smart-window-brand-name }啟動
 smartwindow-onboarding-save =
     .label = 儲存並繼續
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = 從來源自動填寫
+ai-smart-form-fill-autocomplete-loading = 載入中
+ai-smart-form-fill-autocomplete-sources-label = 從來源自動填寫
+ai-smart-form-fill-autocomplete-choose-tabs = 開啟或選擇與此表單相關的頁面，以取得自動填寫建議
+ai-smart-form-fill-autocomplete-open-tabs = 開啟與此表單相關的頁面，以取得自動填寫建議
+ai-smart-form-fill-close-review-button =
+    .label = 關閉
+# Variables:
+#   $tabs (number) - The number of tabs used as a source for autofill
+ai-smart-form-fill-autocomplete-tabs-count = { $tabs } 個分頁
+# Button in the autocomplete row that opens the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-button = 編輯來源
+# Title of the dialog for choosing sources.
+ai-smart-form-fill-edit-sources-title = 編輯來源
+ai-smart-form-fill-suggested-tabs-heading = 建議的分頁
+ai-smart-form-fill-other-tabs-heading = 其他分頁
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = 切換「{ $tabTitle }」分頁的選擇狀態
+ai-smart-form-fill-cancel-tab-select-button =
+    .label = 取消
+ai-smart-form-fill-accept-tab-select-button =
+    .label = 完成

@@ -143,7 +143,7 @@ urlbar-result-menu-report-inaccurate-location3 = Zgłoś niewłaściwe położen
     .accesskey = Z
 urlbar-result-menu-show-less-frequently3 = Pokazuj rzadziej
     .accesskey = P
-urlbar-result-menu-dont-show-weather-suggestions3 = Nie pokazuj podpowiedzi dotyczących pogody
+urlbar-result-menu-dont-show-weather-suggestions3 = Nie pokazuj informacji o pogodzie
     .accesskey = N
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
@@ -152,7 +152,7 @@ urlbar-result-menu-dont-show-weather-suggestions3 = Nie pokazuj podpowiedzi doty
 # administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Zgłoś niewłaściwe położenie
 urlbar-result-menu-show-less-frequently2 = Pokazuj rzadziej
-urlbar-result-menu-dont-show-weather-suggestions2 = Nie pokazuj podpowiedzi dotyczących pogody
+urlbar-result-menu-dont-show-weather-suggestions2 = Nie pokazuj informacji o pogodzie
 # Shown in the urlbar input field context menu to dismiss an adaptive autofill
 # suggestion.
 urlbar-input-dismiss-autofill =
@@ -188,7 +188,7 @@ urlbar-result-menu-report-inaccurate-location =
 urlbar-result-menu-show-less-frequently =
     .label = Pokazuj rzadziej
 urlbar-result-menu-dont-show-weather-suggestions =
-    .label = Nie pokazuj podpowiedzi dotyczących pogody
+    .label = Nie pokazuj informacji o pogodzie
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = Otwórz menu
@@ -197,7 +197,7 @@ urlbar-splitbutton-dropmarker =
 urlbar-feedback-acknowledgment = Dziękujemy za opinię
 # A message shown in the urlbar when the user dismisses weather suggestions.
 # Weather suggestions won't be shown at all anymore.
-urlbar-dismissal-acknowledgment-weather = Dziękujemy za opinię. Nie będziemy już pokazywać podpowiedzi dotyczących pogody.
+urlbar-dismissal-acknowledgment-weather = Dziękujemy za opinię. Nie będziemy już pokazywać informacji o pogodzie.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -920,6 +920,22 @@ urlbar-result-dates-today = { $name } · Dzisiaj
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-ends-today = { $name } · Kończy się dzisiaj
+
+## These strings are used for flight status suggestions in the urlbar.
+## The flight status suggestions shows the flight time, origin and destination
+## and the status like delayed, etc.
+
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-flight-status = Nie pokazuj informacji o lotach
+    .accesskey = N
+urlbar-result-flight-status-status-ontime = Punktualnie
+urlbar-result-flight-status-status-inflight = W trakcie lotu
+urlbar-result-flight-status-status-arrived = Wylądował
+urlbar-result-flight-status-status-cancelled = Odwołany
+# Example: Delayed until 5:50pm
+# Variables:
+#   $departureEstimatedTime (string) - The estimated departure time.
+urlbar-result-flight-status-status-delayed = Opóźniony do { $departureEstimatedTime }
 
 ## Strings used for buttons in the urlbar
 

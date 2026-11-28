@@ -35,9 +35,15 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Coś innego
 report-broken-site-panel-instructions-other = Szczegółowo opisz problem, aby pomóc nam go zbadać.
+# Shown above the description field when a description is optional.
+report-broken-site-panel-instructions-optional = Szczegółowo opisz problem (opcjonalne)
 report-broken-site-panel-instructions-other-optional = Szczegółowo opisz problem, aby pomóc nam go zbadać (opcjonalne).
 report-broken-site-panel-description2 =
     .placeholder = Co się stało? Co powinno się było stać? Powiedz nam, jak możemy powtórzyć problem.
+# Opens a website in a new tab to send more details about the problem.
+# $website (String) - The name of the website, for example "webcompat.com".
+report-broken-site-panel-send-info-website-button =
+    .label = Wyślij informacje poprzez { $website }
 report-broken-site-panel-send-more-info-button =
     .label = Wyślij więcej informacji
 report-broken-site-panel-button-cancel =
@@ -55,7 +61,7 @@ report-broken-site-panel-invalid-url-label = Proszę podać prawidłowy adres
 # $minLength (number) - The minimum number of characters required in the description textarea.
 report-broken-site-panel-invalid-description-label =
     { $minLength ->
-        [one] Wpisz co najmniej { $minLength } znak
+        [one] Wpisz co najmniej { $minLength } znak
         [few] Wpisz co najmniej { $minLength } znaki
        *[many] Wpisz co najmniej { $minLength } znaków
     }
@@ -65,6 +71,8 @@ report-broken-site-panel-blocked-trackers-label2 =
     .label = Wyślij listę elementów zablokowanych przez ochronę przed śledzeniem
 report-broken-site-panel-url-input-label =
     .aria-label = Adres zgłaszanej strony
+report-broken-site-panel-view-diagnostic-data-button =
+    .label = Wyświetl dane diagnostyczne
 report-broken-site-panel-preview-button =
     .label = Podgląd zgłoszenia
 report-broken-site-panel-preview-header2 =

@@ -285,6 +285,7 @@ webconsole-reverse-search-results =
     }
 webconsole-reverse-search-no-result = Nav iznākuma
 webconsole-reverse-search-previous-button-tooltip = Iepriekšējais iznākums ({ $shortcut })
+webconsole-reverse-search-next-button-tooltip = Nākamais iznākums ({ $shortcut })
 
 ## Dialog displayed when the user tries to autocomplete a property with a
 ## getter. For example, given `x = {get y() {}}`, typing `x.y.` displays
@@ -292,10 +293,10 @@ webconsole-reverse-search-previous-button-tooltip = Iepriekšējais iznākums ({
 
 # Variables:
 #   $getterName (String) - Name of the getter.
-webconsole-confirm-dialog-getter-label = Vai izsaukt ieguves rīku <span data-l10n-name="getter-name">{ $getterName }</span>, lai izgūtu īpašību sarakstu?
+webconsole-confirm-dialog-getter-label = Izsaukt ieguvēju <span data-l10n-name="getter-name">{ $getterName }</span>, lai iegūtu īpašību sarakstu?
 # Variables:
 #   $shortcut (String) - Keyboard shortcut for the action.
-webconsole-confirm-dialog-getter-invoke-button = Izsaukums ({ $shortcut })
+webconsole-confirm-dialog-getter-invoke-button = Izsaukt ({ $shortcut })
 # Variables:
 #   $shortcut (String) - Keyboard shortcut for the action.
 webconsole-confirm-dialog-getter-close-button-tooltip = Aizvērt ({ $shortcut })
@@ -305,13 +306,13 @@ webconsole-confirm-dialog-getter-close-button-tooltip = Aizvērt ({ $shortcut })
 # Label for the list of HTML elements matching the selector of a CSS warning.
 # Variables:
 #   $selector (String) - The CSS selector.
-webconsole-css-warning-elements = Elementi, kas atbilst selektoram: { $selector }
+webconsole-css-warning-elements = Elementi, kas atbilst atlaslītājam: { $selector }
 
 ## Displayed when the console fails to render a message.
 
 # Variables:
 #   $url (String) - URL to file a bug about the error.
-webconsole-message-render-error = [DEVTOOLS KĻŪDA] Atvainojiet, mēs nevarējām atveidot ziņojumu. Tam nevajadzēja notikt — lūdzu, ziņojiet par kļūdu vietnē { $url }, aprakstā norādot ziņojuma metadatus.
+webconsole-message-render-error = [DEVTOOLS KĻŪDA] Atvainojamies, mēs nevarējām atveidot ziņojumu! Tam nevajadzēja notikt — lūgums ziņot par to { $url }, aprakstā norādot ziņojuma metadatus.
 webconsole-message-render-error-copy-button = Kopēt ziņojuma metadatus starpliktuvē
 
 ## Toolbar of the multi-line editor mode (devtools.webconsole.input.editor).
