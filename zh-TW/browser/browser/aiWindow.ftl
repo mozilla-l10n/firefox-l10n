@@ -436,3 +436,23 @@ ai-smart-form-fill-cancel-tab-select-button =
     .label = 取消
 ai-smart-form-fill-accept-tab-select-button =
     .label = 完成
+ai-smart-form-fill-fill-form-button =
+    .label = 填寫表單
+ai-smart-form-fill-review-heading = 確認建議內容
+# Variables:
+#   $count (number) - The number of generated form field suggestions
+ai-smart-form-fill-review-description = 已為 { $count } 個欄位產生建議。若內容有誤，可編輯或刪除。
+# Used when a field of the form being filled in doesn’t have a name to use as
+# its label.
+ai-smart-form-fill-field-fallback-label =
+    .label = 欄位
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = 跳到建議清單底部
+    .tooltiptext = 跳到底部
+ai-smart-form-fill-cancel-review-button =
+    .label = 取消
+ai-smart-form-fill-finding-suggestions = 正在搜尋建議項目
+# Accessible name for the button showing a “stop” icon, read by screen readers
+# only.
+ai-smart-form-fill-stop-finding-suggestions =
+    .aria-label = 停止搜尋建議

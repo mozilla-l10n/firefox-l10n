@@ -1825,10 +1825,17 @@ trustpanel-clear-cookies-subview-button-cancel = Anuluj
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header-redesign =
     .title = Usuń dane witryny { $host }
+trustpanel-clear-cookies-description-redesign = Nastąpi wylogowanie z witryn. Koszyki w sklepach mogą zostać opróżnione.
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Ochrona połączenia z witryną { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-connection-info-header =
+    .title = Informacje o połączeniu z witryną { $host }
+trustpanel-connection-secure = Połączenie z tą witryną jest zabezpieczone.
+trustpanel-connection-not-secure = Połączenie z tą witryną jest niezabezpieczone.
 trustpanel-siteinformation-morelink = Więcej informacji o witrynie
 trustpanel-blocker-see-all = Pokaż wszystko
 trustpanel-blocker-see-trackers-button = Pokaż elementy śledzące
