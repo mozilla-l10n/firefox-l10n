@@ -1870,6 +1870,17 @@ urlbar-trust-icon-trackers-blocked-longform-label =
         [few] { $count } přesćěhowaki zablokowane
        *[other] { $count } přesćěhowakow zablokowanych
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked on the current site.
+urlbar-trust-icon-trackers-blocked-tooltip =
+    { $count ->
+        [one] { $count } přesćěhowak je so na tutym sydle zablokował
+        [two] { $count } přesćěhowakaj stej so na tutym sydle zablokowałoj
+        [few] { $count } přesćěhowaki su so na tutym sydle zablokowali
+       *[other] { $count } přesćěhowakow je so na tutym sydle zablokowało
+    }
+urlbar-trust-icon-no-trackers-found-tooltip = Žane přesćěhowaki na tutym sydle namakane
+urlbar-trust-icon-tracking-protection-off-tooltip = Slědowanski škit je znjemóžnjeny za tute sydło
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1883,7 +1894,13 @@ trustpanel-insecure-description = Daty, kotrež na tute sydło sćeleće, njejsu
 # Title of the subview opened by trustpanel-fix-site-issue-button.
 trustpanel-site-issue-header =
     .title = Sydło njefunguje? Spytajće tute kroki.
+# Shown when the user reports that the current site isn’t working. It
+# introduces a bulleted list of features (trustpanel-site-issue-step-*) that
+# can break sites: turning them off one at a time helps the user find out
+# whether one of them causes the problem.
+trustpanel-site-issue-steps-intro = Znjemóžńće te, zo byšće widźał, hač to problem rozrisuje:
 trustpanel-report-broken-site-button = Wobškodźene sydło zdźělić
+trustpanel-report-broken-site-description = Waša rozprawa nam pomha, { -brand-short-name } za kóždeho polěpšować.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } sydła přesahowacy slědowacy plack

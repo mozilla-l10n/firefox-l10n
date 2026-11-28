@@ -444,6 +444,10 @@ ai-smart-form-fill-edit-sources-button = Žórła wobdźěłać
 ai-smart-form-fill-edit-sources-title = Žórła wobdźěłać
 ai-smart-form-fill-suggested-tabs-heading = Namjetowane rajtarki
 ai-smart-form-fill-other-tabs-heading = Druhe rajtarki
+# Variables:
+#   $tabTitle (string) - Title of the tab controlled by the toggle
+ai-smart-form-fill-tab-select-toggle =
+    .aria-label = Wuběr rajtarkow za „{ $tabTitle }“ přepinać
 ai-smart-form-fill-cancel-tab-select-button =
     .label = Přetorhnyć
 ai-smart-form-fill-accept-tab-select-button =
@@ -455,6 +459,9 @@ ai-smart-form-fill-review-heading = Namjety přepruwować
 # its label.
 ai-smart-form-fill-field-fallback-label =
     .label = Polo
+ai-smart-form-fill-jump-to-bottom =
+    .aria-label = Ke kóncej namjetow skočić
+    .tooltiptext = Ke kóncej skočić
 ai-smart-form-fill-cancel-review-button =
     .label = Přetorhnyć
 ai-smart-form-fill-finding-suggestions = Namjety so pytaja
@@ -468,5 +475,6 @@ ai-smart-form-fill-no-suggestions-heading = Žane namjety namakane
 ai-smart-form-fill-error-try-again-heading = Namjety njejsu so formularej přidali
 ai-smart-form-fill-error-try-again-description = Něšto je so nimokuliło. Spytajće hišće raz namjety přidać.
 ai-smart-form-fill-error-heading = Namjety njejsu so přidali
+ai-smart-form-fill-error-description = Něšto je so nimokuliło. Spytajće hišće raz, wubjerće formularowe polo a potom Ze žórłow zapisać.
 ai-smart-form-fill-try-again-button =
     .label = Hišće raz spytać

@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Wobškodźene sydło zdźělić
 report-broken-site-panel-header =
     .label = Wobškodźene sydło zdźělić
     .title = Wobškodźene sydło zdźělić
+report-broken-site-panel-intro-text2 = Waša rozprawa nam pomha, { -brand-product-name } za kóždeho polěpšować.
 report-broken-site-panel-intro-text = Waša rozprawa nam pomha, problemy w { -brand-product-name } rozumić a rozrisać, zo bychmy jón za kóždeho polěpšili.
 report-broken-site-panel-learn-more-link = Dalše informacije
 # Label above the address of the page being reported.
