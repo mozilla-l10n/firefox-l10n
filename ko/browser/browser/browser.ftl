@@ -893,7 +893,7 @@ urlbar-result-flight-status-status-cancelled = 결항
 # Example: Delayed until 5:50pm
 # Variables:
 #   $departureEstimatedTime (string) - The estimated departure time.
-urlbar-result-flight-status-status-delayed = { $departtureEstimatedTime }까지 지연
+urlbar-result-flight-status-status-delayed = { $departureEstimatedTime }까지 지연
 # Example: 30 min left
 # Variables:
 #   $timeLeft (string) - Localized duration string, e.g., "1 hr, 30 min"
