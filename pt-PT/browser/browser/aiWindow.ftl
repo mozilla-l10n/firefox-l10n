@@ -413,3 +413,14 @@ smartwindow-onboarding-default-window =
     .label = Iniciar em { -smart-window-brand-name }
 smartwindow-onboarding-save =
     .label = Guardar e ir
+
+## Smart Form Fill
+## Generates values for form fields from one or more sources, which are tabs
+## selected by the user.
+
+# Accessible name for the Smart Form Fill autocomplete row, read by screen
+# readers only. Should match the visible ai-smart-form-fill-autocomplete-sources-label.
+ai-smart-form-fill-autocomplete-label = Preencher a partir de fontes
+ai-smart-form-fill-autocomplete-loading = A carregar
+ai-smart-form-fill-autocomplete-sources-label = Preencher a partir de fontes
+ai-smart-form-fill-autocomplete-choose-tabs = Abrir ou selecionar páginas relacionadas com este formulário para obter sugestões de preenchimento automático

@@ -44,8 +44,8 @@ webconsole-stacktrace-async-stack = (Async: { $cause })
 ##   $name (String) - Name of the timer.
 ##   $duration (String) - Elapsed time in milliseconds.
 
-webconsole-time-log = { $name }: { $duration }ms
-webconsole-time-end = { $name }: { $duration }ms - 計時器停止
+webconsole-time-log = { $name }：{ $duration }ms
+webconsole-time-end = { $name }：{ $duration }ms - 計時器停止
 
 ## Results and errors of other console API calls.
 ## Variables:
@@ -86,7 +86,7 @@ webconsole-warning-group-message-count = { $count } 筆訊息
 webconsole-selfxss-ok-string = allow pasting
 # Variables:
 #   $okString (String) - The text to type, from webconsole-selfxss-ok-string.
-webconsole-selfxss-message = 小心詐騙: 請勿貼上您不了解的內容或程式碼。可能會造成您的身份被盜用，或是電腦遭人控制。請在下方輸入「{ $okString }」（不需要按 Enter）以允許貼上內容。
+webconsole-selfxss-message = 小心詐騙：請勿貼上您不了解的內容或程式碼。可能會造成您的身份被盜用，或是電腦遭人控制。請在下方輸入「{ $okString }」（不需要按 Enter）以允許貼上內容。
 
 ##
 

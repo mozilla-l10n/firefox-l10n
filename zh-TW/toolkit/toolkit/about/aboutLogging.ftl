@@ -66,6 +66,11 @@ about-logging-preset-gfx-description = 用來診斷圖形問題的記錄模組
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = 用來診斷 Microsoft Windows 問題的記錄模組
+# Input Method refers to the IME.
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-label = 輸入法
+# IME is a component of the operating system used to input Asian languages.
+about-logging-preset-ime-description = 用來診斷鍵盤輸入（含輸入法）問題的記錄模組
 about-logging-preset-custom-label = 自訂
 about-logging-preset-custom-description = 手動選擇要記錄的模組
 # Error handling

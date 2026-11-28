@@ -27,7 +27,7 @@ webconsole-commands-copy-value-to-clipboard = 已將字串複製至剪貼簿。
 # function name and should not be translated.
 # Variables:
 #   $error (String) - The original error message.
-webconsole-commands-copy-error = `copy` 指令失敗，無法將物件轉為字串: { $error }
+webconsole-commands-copy-error = `copy` 指令失敗，無法將物件轉為字串：{ $error }
 # Displayed when the :block command is successful.
 # Variables:
 #   $url (String) - The URL filter.
@@ -44,7 +44,7 @@ webconsole-commands-block-arg-missing = 未指定過濾規則
 
 webconsole-commands-start-tracing-to-web-console = 已開始記錄追蹤資訊到網頁主控台
 webconsole-commands-start-tracing-to-debugger-sidebar = 已開始輸出到除錯器側邊欄進行追蹤
-webconsole-commands-start-tracing-to-stdout = 已開始記錄追蹤資訊到 stdout
+webconsole-commands-start-tracing-to-stdout = 已開始輸出追蹤資訊到 stdout
 webconsole-commands-start-tracing-to-profiler = 已開始輸出追蹤資料至效能檢測器，追蹤結束時將會顯示於效能檢測器中。
 webconsole-commands-stop-tracing = 已停止記錄追蹤資訊
 # Displayed when the tracer stops for a reason other than the user request,

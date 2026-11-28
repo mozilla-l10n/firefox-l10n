@@ -51,3 +51,8 @@ dom-form-validation-step-mismatch-one-value = 請選擇有效的值。最接近�
 #   $maximum (String) - The latest time allowed in the field.
 dom-form-validation-time-reversed-range = 請選擇 { $minimum } 到 { $maximum } 之間的值。
 dom-form-validation-bad-input-number = 請輸入數字。
+# Variables:
+#   $maxLength (Number) - Maximum number of characters allowed in the field. Only use it to select the plural form, don't display it.
+#   $maxLengthText (String) - Maximum number of characters allowed in the field, as digits.
+#   $textLength (String) - Number of characters currently in the field, as digits.
+dom-form-validation-text-too-long = 請將這段文字縮短至 { $maxLengthText } 個字元以內（目前長度：{ $textLength }）。

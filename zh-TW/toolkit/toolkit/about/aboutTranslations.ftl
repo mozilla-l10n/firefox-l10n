@@ -7,6 +7,9 @@ about-translations-title = { -brand-short-name } 翻譯
 # The brief description of the Translations functionality on the page.
 about-translations-description = 用尊重您隱私的方式，即時進行翻譯。
 about-translations-learn-more-link = 更多資訊
+# This button closes the about:translations page's split-view tab, and leaves the adjacent tab open as a full tab.
+about-translations-split-view-close-button =
+    .title = 關閉 { -brand-short-name } 翻譯
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message-2 =
     .heading = 此裝置無法進行翻譯

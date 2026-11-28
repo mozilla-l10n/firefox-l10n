@@ -14,6 +14,7 @@ neterror-dns-not-found-title = 找不到伺服器
 neterror-malformed-uri-page-title = 網址無效
 general-body-title = 請小心，有些東西不對勁。
 problem-with-this-site-title = 看來此網站有點問題
+neterror-http-auth-scheme-disabled-title = 此網站的登入方式已停用
 
 ## Error page actions
 
@@ -160,6 +161,7 @@ neterror-unsafe-content-type = 請向網站擁有者回報此問題。
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = 由於連線不安全，{ -brand-short-name } 無法信任 { $hostname }。可將網址更改為 HTTPS 網址再試試看。
+neterror-http-auth-scheme-disabled = 若要登入此網站，請聯絡您的系統管理員。
 neterror-nss-failure-not-verified = 因為無法驗證已接收資料的真實性，無法顯示您嘗試檢視的頁面。
 neterror-nss-failure-contact-website = 請向網站擁有者回報此問題。
 # Variables:
@@ -245,6 +247,9 @@ fp-neterror-coop-coep-intro = 因為此頁面的安全性設定與前一頁不�
 fp-neterror-blocked-by-policy-intro = 您的組織已封鎖存取此網頁或網站。
 fp-neterror-http-auth-disabled-intro = 可能是其他假扮為該網站的有心人，正嘗試偷走您的帳號、密碼、信箱等資料。
 fp-neterror-http-auth-disabled-secure-connection = 此網站要求必須使用安全連線，您無法加入例外造訪此網站。
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-auth-scheme-disabled-intro = <strong>{ $hostname }</strong> 要求您使用已在連線設定中停用的方式來登入。
 fp-neterror-why-did-this-happen = 為什麼會發生？
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = 看來此網站仍在使用已知有安全性漏洞的舊版軟體。
